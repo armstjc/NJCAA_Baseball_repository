@@ -3,6 +3,7 @@ import time
 import pandas as pd
 from bs4 import BeautifulSoup
 from tqdm import tqdm
+from unidecode import unidecode
 
 def getNjcaaRosters(webdriverPath="./chromedriver_mac64_m1"):
 	teams_df = pd.read_csv('njcaa_schools.csv')
@@ -56,7 +57,7 @@ def getNjcaaRosters(webdriverPath="./chromedriver_mac64_m1"):
 					player_name = row[1].text.strip()
 					player_position = row[2].text.strip()
 					player_year = row[3].text.strip()
-					player_url = "https://www.njcaa.org/" + str(row[1].find("a").get("href")) #
+					player_url = "https://www.njcaa.org" + str(row[1].find("a").get("href")) #
 					player_id = player_url.split('/')[9]
 					roster_df = roster_df.append({'No.':player_num,'Name':player_name,'Position':player_position,'Year':player_year,'PlayerURL':player_url,'PlayerID':player_id},ignore_index=True)
 
@@ -73,6 +74,8 @@ def getNjcaaRosters(webdriverPath="./chromedriver_mac64_m1"):
 			print(roster_df)
 		except:
 			print(f"Could not find a roster for the {team_njcaa_season} {team_name} baseball team.")
+		
+		
 		# try:
 		# 	df = pd.read_html(driver.page_source)[1]
 		# 	print(df)
