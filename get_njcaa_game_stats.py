@@ -20,10 +20,13 @@ def getNjcaaD1BattingGamelogs(webdriverPath="./chromedriver_mac64_m1"):
 	player_ids = teams_df['PlayerID'].tolist()
 	player_urls = teams_df['PlayerURL'].tolist()
 
+	player_count = len(player_urls)
 	driver = webdriver.Chrome(
 		executable_path=webdriverPath)
-	
-	for i in tqdm(range(0,len(player_urls))):
+	count = 5400
+	for i in tqdm(range(count,player_count)):
+		count += 1
+		print(f'{count}/{player_count}')
 		## Ensure that we have a brand new DataFame in each iteration.
 		gamelog_batting_df = pd.DataFrame()
 		gamelog_ex_batting_df = pd.DataFrame()
@@ -238,6 +241,7 @@ def getNjcaaD1BattingGamelogs(webdriverPath="./chromedriver_mac64_m1"):
 		gamelog_batting_df['player_id'] = game_player_id
 		gamelog_batting_df['player_name'] = game_player_name
 
+		#gamelog_batting_df = gamelog_batting_df.dropna(subset=['PA'], inplace=True)
 		gamelog_batting_df.to_csv(f'gamelogs/batting/{game_season}_{game_player_id}.csv',index=False)
 		del gamelog_batting_df, gamelog_ex_batting_df, batting_table, ex_batting_table
 
