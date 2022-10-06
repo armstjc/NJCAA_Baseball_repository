@@ -23,7 +23,7 @@ def getNjcaaD1BattingGamelogs(webdriverPath="./chromedriver_mac64_m1"):
 	player_count = len(player_urls)
 	driver = webdriver.Chrome(
 		executable_path=webdriverPath)
-	count = 9200
+	count = 0
 	for i in tqdm(range(count,player_count)):
 		count += 1
 		print(f'{count}/{player_count}')
@@ -52,7 +52,9 @@ def getNjcaaD1BattingGamelogs(webdriverPath="./chromedriver_mac64_m1"):
 		game_opponent = None
 		game_score = None
 		game_loc = None
-
+		game_score_diff = None
+		game_win_loss = None
+		game_id = None
 		## Hitting Stats
 		game_batting_AB = None # At-Bats
 		game_batting_R = None # Runs
@@ -127,6 +129,12 @@ def getNjcaaD1BattingGamelogs(webdriverPath="./chromedriver_mac64_m1"):
 				game_opponent = str(game_opponent).replace('                       ',' ')
 				game_score_raw = str(row[2].text.strip()).split()
 				try:
+					game_id = str(row[2].find("a").get("href"))
+					game_id = game_id.replace('../boxscores/','')
+					game_id = game_id.replace('.xml','')
+				except:
+					game_id = None
+				try:
 					game_result = str(game_score_raw[0]).replace(',','')
 				except:
 					game_result = None
@@ -142,6 +150,21 @@ def getNjcaaD1BattingGamelogs(webdriverPath="./chromedriver_mac64_m1"):
 					game_opp_score = str(game_score.split('-',-1)[0])
 				except:
 					game_opp_score = None
+				try:
+					game_score_diff = game_team_score - game_opp_score
+				except:
+					game_score_diff
+				try:
+					if game_score_diff == 0:
+						game_win_loss = "tie"
+					elif game_score_diff > 0:
+						game_win_loss = "win"
+					elif game_score_diff < 0:
+						game_win_loss = "loss"
+					else:
+						game_win_loss = None
+				except:
+					game_win_loss = None
 				game_batting_AB = str(row[3].text.strip()).replace('-','')
 				game_batting_R = str(row[4].text.strip()).replace('-','')
 				game_batting_H = str(row[5].text.strip()).replace('-','')
@@ -158,6 +181,10 @@ def getNjcaaD1BattingGamelogs(webdriverPath="./chromedriver_mac64_m1"):
 					#print('away')
 					game_loc = 'away'
 					game_opponent = game_opponent.replace('at ','')
+				if "vs. " in game_opponent:
+					#print('away')
+					game_loc = 'home'
+					game_opponent = game_opponent.replace('vs. ','')
 				else:
 					game_loc = 'home'
 
@@ -165,6 +192,7 @@ def getNjcaaD1BattingGamelogs(webdriverPath="./chromedriver_mac64_m1"):
 					'date':game_date,'location':game_loc,'opponent':game_opponent,
 					'result':game_result,'score':game_score,
 					'team_score':game_team_score,'opp_score':game_opp_score,
+					'game_score_diff':game_score_diff,'game_win_loss':game_win_loss,'game_id':game_id,
 					'AB':game_batting_AB,'R':game_batting_R,'H':game_batting_H,
 					'2B':game_batting_2B,'3B':game_batting_3B,
 					'HR':game_batting_HR,'RBI':game_batting_RBI,
@@ -185,6 +213,12 @@ def getNjcaaD1BattingGamelogs(webdriverPath="./chromedriver_mac64_m1"):
 				game_opponent = str(game_opponent).replace('                       ',' ')
 				game_score_raw = str(row[2].text.strip()).split()
 				try:
+					game_id = str(row[2].find("a").get("href"))
+					game_id = game_id.replace('../boxscores/','')
+					game_id = game_id.replace('.xml','')
+				except:
+					game_id = None
+				try:
 					game_result = str(game_score_raw[0]).replace(',','')
 				except:
 					game_result = None
@@ -200,6 +234,21 @@ def getNjcaaD1BattingGamelogs(webdriverPath="./chromedriver_mac64_m1"):
 					game_opp_score = str(game_score.split('-',-1)[0])
 				except:
 					game_opp_score = None
+				try:
+					game_score_diff = game_team_score - game_opp_score
+				except:
+					game_score_diff
+				try:
+					if game_score_diff == 0:
+						game_win_loss = "tie"
+					elif game_score_diff > 0:
+						game_win_loss = "win"
+					elif game_score_diff < 0:
+						game_win_loss = "loss"
+					else:
+						game_win_loss = None
+				except:
+					game_win_loss = None
 				game_batting_HBP = str(row[3].text.strip()).replace('-','')
 				game_batting_SF = str(row[4].text.strip()).replace('-','')
 				game_batting_SH = str(row[5].text.strip()).replace('-','')
@@ -222,6 +271,7 @@ def getNjcaaD1BattingGamelogs(webdriverPath="./chromedriver_mac64_m1"):
 					'date':game_date,'location':game_loc,'opponent':game_opponent,
 					'result':game_result,'score':game_score,
 					'team_score':game_team_score,'opp_score':game_opp_score,
+					'game_score_diff':game_score_diff,'game_win_loss':game_win_loss,'game_id':game_id,
 					'HBP':game_batting_HBP,'SF':game_batting_SF,'SH':game_batting_SH,
 					'TB':game_batting_TB,'XBH':game_batting_XBH,
 					'HDP':game_batting_HDP,'GO':game_batting_GO,
@@ -242,7 +292,7 @@ def getNjcaaD1BattingGamelogs(webdriverPath="./chromedriver_mac64_m1"):
 		gamelog_batting_df['player_name'] = game_player_name
 
 		#gamelog_batting_df = gamelog_batting_df.dropna(subset=['PA'], inplace=True)
-		gamelog_batting_df.to_csv(f'gamelogs/batting/{game_season}_{game_player_id}.csv',index=False)
+		gamelog_batting_df.to_csv(f'player_stats/batting/{game_season}_{game_player_id}.csv',index=False)
 		del gamelog_batting_df, gamelog_ex_batting_df, batting_table, ex_batting_table
 
 		pitching_table = soup.find_all('table')[4]
@@ -256,6 +306,13 @@ def getNjcaaD1BattingGamelogs(webdriverPath="./chromedriver_mac64_m1"):
 				game_opponent = row[1].text.strip()
 				game_opponent = str(game_opponent).replace('                       ',' ')
 				game_score_raw = str(row[2].text.strip()).split()
+				try:
+					game_id = str(row[2].find("a").get("href"))
+					game_id = game_id.replace('../boxscores/','')
+					game_id = game_id.replace('.xml','')
+				except:
+					game_id = None
+
 				try:
 					game_result = str(game_score_raw[0]).replace(',','')
 				except:
@@ -272,6 +329,21 @@ def getNjcaaD1BattingGamelogs(webdriverPath="./chromedriver_mac64_m1"):
 					game_opp_score = str(game_score.split('-',-1)[0])
 				except:
 					game_opp_score = None
+				try:
+					game_score_diff = game_team_score - game_opp_score
+				except:
+					game_score_diff
+				try:
+					if game_score_diff == 0:
+						game_win_loss = "tie"
+					elif game_score_diff > 0:
+						game_win_loss = "win"
+					elif game_score_diff < 0:
+						game_win_loss = "loss"
+					else:
+						game_win_loss = None
+				except:
+					game_win_loss = None
 				game_pitching_GS = str(row[3].text.strip()).replace('-','')
 				game_pitching_W = str(row[4].text.strip()).replace('-','')
 				game_pitching_L = str(row[5].text.strip()).replace('-','')
@@ -296,6 +368,7 @@ def getNjcaaD1BattingGamelogs(webdriverPath="./chromedriver_mac64_m1"):
 					'date':game_date,'location':game_loc,'opponent':game_opponent,
 					'result':game_result,'score':game_score,
 					'team_score':game_team_score,'opp_score':game_opp_score,
+					'game_score_diff':game_score_diff,'game_win_loss':game_win_loss,'game_id':game_id,
 					'GS':game_pitching_GS,'W':game_pitching_W,'L':game_pitching_L,
 					'SV':game_pitching_SV,'IP':game_pitching_IP,'H':game_pitching_H,
 					'R':game_pitching_R,'ER':game_pitching_ER,'ERA':game_pitching_ERA,
@@ -310,7 +383,7 @@ def getNjcaaD1BattingGamelogs(webdriverPath="./chromedriver_mac64_m1"):
 		gamelog_pitching_df['player_id'] = game_player_id
 		gamelog_pitching_df['player_name'] = game_player_name
 
-		gamelog_pitching_df.to_csv(f'gamelogs/pitching/{game_season}_{game_player_id}.csv',index=False)
+		gamelog_pitching_df.to_csv(f'player_stats/pitching/{game_season}_{game_player_id}.csv',index=False)
 		del gamelog_pitching_df,pitching_table
 
 		fielding_table = soup.find_all('table')[4]
@@ -324,6 +397,12 @@ def getNjcaaD1BattingGamelogs(webdriverPath="./chromedriver_mac64_m1"):
 				game_opponent = row[1].text.strip()
 				game_opponent = str(game_opponent).replace('                       ',' ')
 				game_score_raw = str(row[2].text.strip()).split()
+				try:
+					game_id = str(row[2].find("a").get("href"))
+					game_id = game_id.replace('../boxscores/','')
+					game_id = game_id.replace('.xml','')
+				except:
+					game_id = None
 				try:
 					game_result = str(game_score_raw[0]).replace(',','')
 				except:
@@ -340,6 +419,21 @@ def getNjcaaD1BattingGamelogs(webdriverPath="./chromedriver_mac64_m1"):
 					game_opp_score = str(game_score.split('-',-1)[0])
 				except:
 					game_opp_score = None
+				try:
+					game_score_diff = game_team_score - game_opp_score
+				except:
+					game_score_diff
+				try:
+					if game_score_diff == 0:
+						game_win_loss = "tie"
+					elif game_score_diff > 0:
+						game_win_loss = "win"
+					elif game_score_diff < 0:
+						game_win_loss = "loss"
+					else:
+						game_win_loss = None
+				except:
+					game_win_loss = None
 				game_fielding_TC = str(row[3].text.strip()).replace('-','')
 				game_fielding_PO = str(row[4].text.strip()).replace('-','')
 				game_fielding_A = str(row[5].text.strip()).replace('-','')
@@ -363,6 +457,7 @@ def getNjcaaD1BattingGamelogs(webdriverPath="./chromedriver_mac64_m1"):
 					'date':game_date,'location':game_loc,'opponent':game_opponent,
 					'result':game_result,'score':game_score,
 					'team_score':game_team_score,'opp_score':game_opp_score,
+					'game_score_diff':game_score_diff,'game_win_loss':game_win_loss,'game_id':game_id,
 					'TC':game_fielding_TC,'PO':game_fielding_PO,'A':game_fielding_A,
 					'E':game_fielding_E,'FPCT':game_fielding_FPCT,
 					'DP':game_fielding_DP,'SBA':game_fielding_SBA,
@@ -378,7 +473,7 @@ def getNjcaaD1BattingGamelogs(webdriverPath="./chromedriver_mac64_m1"):
 		gamelog_fielding_df['player_id'] = game_player_id
 		gamelog_fielding_df['player_name'] = game_player_name
 
-		gamelog_fielding_df.to_csv(f'gamelogs/fielding/{game_season}_{game_player_id}.csv',index=False)
+		gamelog_fielding_df.to_csv(f'player_stats/fielding/{game_season}_{game_player_id}.csv',index=False)
 		time.sleep(5)
 
 def main():
