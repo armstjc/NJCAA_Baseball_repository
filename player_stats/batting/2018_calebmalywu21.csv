@@ -1,56 +1,23 @@
-date,location,opponent,result,score,team_score,opp_score,AB,R,H,2B,3B,HR,RBI,BB,K,SB,CS,HBP,SF,SH,TB,XBH,HDP,GO,FO,GO/FO,PA,season,njcaa_season,njcaa_division,team,team_id,player_id,player_name
-Jan 26,away,Coastal Bend,W,4-0,4,4,4,1,2,,,,0,,,,1,,,,2,0,,,,,4,2018,2017-18,div1,Wharton County,whartoncountyjuniorcollege,calebmalywu21,Caleb Maly
-Jan 26,home,vs. Paris,L,5-3,5,5,3,1,2,1,,,1,1,,,,,,,3,1,,,,,4,2018,2017-18,div1,Wharton County,whartoncountyjuniorcollege,calebmalywu21,Caleb Maly
-Jan 27,home,vs. Paris,W,7-1,7,7,3,0,0,,,,1,1,,,,,,,0,0,,,,,4,2018,2017-18,div1,Wharton County,whartoncountyjuniorcollege,calebmalywu21,Caleb Maly
-Jan 27,away,Coastal Bend,W,3-1,3,3,4,0,2,,,,0,,1,,,,,,2,0,,,,,4,2018,2017-18,div1,Wharton County,whartoncountyjuniorcollege,calebmalywu21,Caleb Maly
-Feb 2,away,Baton Rouge,W,9-2,9,9,4,1,2,,,,1,1,,2,,,,,2,0,,,,,5,2018,2017-18,div1,Wharton County,whartoncountyjuniorcollege,calebmalywu21,Caleb Maly
-Feb 3,away,Baton Rouge,W,12-3,12,12,4,4,1,,,,0,2,,4,,,,,1,0,,,,,6,2018,2017-18,div1,Wharton County,whartoncountyjuniorcollege,calebmalywu21,Caleb Maly
-Feb 3,home,vs. Nunez,L,7-4,7,7,3,0,1,,,,0,2,,,,,,,1,0,,,,,5,2018,2017-18,div1,Wharton County,whartoncountyjuniorcollege,calebmalywu21,Caleb Maly
-Feb 9,away,Weatherford,L,4-1,4,4,3,1,0,,,,0,,,,,,,,0,0,,,,,3,2018,2017-18,div1,Wharton County,whartoncountyjuniorcollege,calebmalywu21,Caleb Maly
-Feb 9,away,Weatherford,L,11-3,11,11,3,1,2,1,,,0,,,,,,,,3,1,1,,,,3,2018,2017-18,div1,Wharton County,whartoncountyjuniorcollege,calebmalywu21,Caleb Maly
-Feb 10,away,Weatherford,L,15-0,15,15,,,,,,,,,,,,,,,,,,,,,,2018,2017-18,div1,Wharton County,whartoncountyjuniorcollege,calebmalywu21,Caleb Maly
-Feb 17,home,Angelina,L,10-1,10,10,3,0,0,,,,0,,1,,,,,,0,0,,,,,3,2018,2017-18,div1,Wharton County,whartoncountyjuniorcollege,calebmalywu21,Caleb Maly
-Feb 17,home,Angelina,W,9-2,9,9,3,1,1,,,,1,1,,1,,,,,1,0,,,,,4,2018,2017-18,div1,Wharton County,whartoncountyjuniorcollege,calebmalywu21,Caleb Maly
-Feb 19,away,McLennan,L,11-1,11,11,4,0,0,,,,0,,1,,,,,,0,0,,,,,4,2018,2017-18,div1,Wharton County,whartoncountyjuniorcollege,calebmalywu21,Caleb Maly
-Feb 23,away,Blinn,L,11-1,11,11,3,0,0,,,,0,,,,,,,,0,0,,,,,3,2018,2017-18,div1,Wharton County,whartoncountyjuniorcollege,calebmalywu21,Caleb Maly
-Feb 24,home,Blinn,L,3-2,3,3,4,0,2,,,,0,,1,,1,,,,2,0,,,,,4,2018,2017-18,div1,Wharton County,whartoncountyjuniorcollege,calebmalywu21,Caleb Maly
-Feb 24,home,Blinn,L,8-5,8,8,4,2,2,1,,1,1,,,,,,,,6,2,,,,,4,2018,2017-18,div1,Wharton County,whartoncountyjuniorcollege,calebmalywu21,Caleb Maly
-Mar 1,home,San Jacinto,L,4-1,4,4,3,0,0,,,,0,,,,,,,,0,0,,1,2,0.50,3,2018,2017-18,div1,Wharton County,whartoncountyjuniorcollege,calebmalywu21,Caleb Maly
-Mar 3,away,San Jacinto,L,5-4,5,5,3,0,0,,,,0,1,,,,,,,0,0,,2,1,2.00,4,2018,2017-18,div1,Wharton County,whartoncountyjuniorcollege,calebmalywu21,Caleb Maly
-Mar 3,away,San Jacinto,L,10-0,10,10,2,0,1,,,,0,1,1,,1,,,,1,0,,,,,3,2018,2017-18,div1,Wharton County,whartoncountyjuniorcollege,calebmalywu21,Caleb Maly
-Mar 6,away,Angelina,L,16-9,16,16,2,1,0,,,,1,4,,1,,,,,0,0,,,,,6,2018,2017-18,div1,Wharton County,whartoncountyjuniorcollege,calebmalywu21,Caleb Maly
-Mar 8,home,Laredo,W,11-3,11,11,3,1,0,,,,1,2,,1,,,,,0,0,,,,,5,2018,2017-18,div1,Wharton County,whartoncountyjuniorcollege,calebmalywu21,Caleb Maly
-Mar 9,home,Laredo,W,6-1,6,6,4,1,3,,1,,1,,,,1,,,,5,1,,,,,4,2018,2017-18,div1,Wharton County,whartoncountyjuniorcollege,calebmalywu21,Caleb Maly
-Mar 9,home,Laredo,W,12-4,12,12,4,2,3,,2,,3,1,1,,,,,,7,2,,,,,5,2018,2017-18,div1,Wharton County,whartoncountyjuniorcollege,calebmalywu21,Caleb Maly
-Mar 12,home,vs. South Suburban,W,11-10,11,11,,,,,,,,,,,,,,,,,,,,,,2018,2017-18,div1,Wharton County,whartoncountyjuniorcollege,calebmalywu21,Caleb Maly
-Mar 15,home,Alvin,W,5-1,5,5,4,2,3,1,,,1,1,,,1,,,,4,1,,,,,5,2018,2017-18,div1,Wharton County,whartoncountyjuniorcollege,calebmalywu21,Caleb Maly
-Mar 17,away,Alvin,L,5-1,5,5,3,0,1,,,,0,1,,2,,,,,1,0,,,,,4,2018,2017-18,div1,Wharton County,whartoncountyjuniorcollege,calebmalywu21,Caleb Maly
-Mar 17,away,Alvin,L,7-5,7,7,2,1,0,,,,0,2,,1,1,,,,0,0,,,,,4,2018,2017-18,div1,Wharton County,whartoncountyjuniorcollege,calebmalywu21,Caleb Maly
-Mar 19,home,McLennan,L,16-1,16,16,,,,,,,,,,,,,,,,,,,,,,2018,2017-18,div1,Wharton County,whartoncountyjuniorcollege,calebmalywu21,Caleb Maly
-Mar 22,away,Galveston,L,12-2,12,12,3,0,1,,,,0,,,,,,,,1,0,,,,,3,2018,2017-18,div1,Wharton County,whartoncountyjuniorcollege,calebmalywu21,Caleb Maly
-Mar 24,home,Galveston,W,7-6,7,7,3,0,0,,,,0,,,,,1,,,0,0,,,,,4,2018,2017-18,div1,Wharton County,whartoncountyjuniorcollege,calebmalywu21,Caleb Maly
-Mar 24,home,Galveston,W,3-2,3,3,4,0,0,,,,0,,,,,,,,0,0,,,,,4,2018,2017-18,div1,Wharton County,whartoncountyjuniorcollege,calebmalywu21,Caleb Maly
-Apr 2,away,LSU Eunice,L,15-6,15,15,,,,,,,,,,,,,,,,,,,,,,2018,2017-18,div1,Wharton County,whartoncountyjuniorcollege,calebmalywu21,Caleb Maly
-Apr 5,home,Blinn,W,2-0,2,2,2,0,0,,,,0,,,,,,,1,0,0,,,,,3,2018,2017-18,div1,Wharton County,whartoncountyjuniorcollege,calebmalywu21,Caleb Maly
-Apr 8,away,Blinn,L,2-0,2,2,3,0,0,,,,0,,1,,,,,,0,0,,,,,3,2018,2017-18,div1,Wharton County,whartoncountyjuniorcollege,calebmalywu21,Caleb Maly
-Apr 8,away,Blinn,W,7-0,7,7,2,2,0,,,,0,2,,,,,,,0,0,,,,,4,2018,2017-18,div1,Wharton County,whartoncountyjuniorcollege,calebmalywu21,Caleb Maly
-Apr 9,home,Blinn,L,15-7,15,15,2,3,2,,,,0,2,,1,,,,,2,0,,,,,4,2018,2017-18,div1,Wharton County,whartoncountyjuniorcollege,calebmalywu21,Caleb Maly
-Apr 12,away,San Jacinto,L,2-1,2,2,3,0,0,,,,0,,,,,,,,0,0,,,3,,3,2018,2017-18,div1,Wharton County,whartoncountyjuniorcollege,calebmalywu21,Caleb Maly
-Apr 12,away,San Jacinto,L,14-4,14,14,3,0,0,,,,0,,,,,,,,0,0,,1,2,0.50,3,2018,2017-18,div1,Wharton County,whartoncountyjuniorcollege,calebmalywu21,Caleb Maly
-Apr 15,home,San Jacinto,L,9-4,9,9,,,,,,,,,,,,,,,,,,,,,,2018,2017-18,div1,Wharton County,whartoncountyjuniorcollege,calebmalywu21,Caleb Maly
-Apr 15,home,San Jacinto,L,15-5,15,15,2,1,1,,,,0,3,1,,,,,,1,0,,,,,5,2018,2017-18,div1,Wharton County,whartoncountyjuniorcollege,calebmalywu21,Caleb Maly
-Apr 17,home,Houston Community College,W,14-0,14,14,2,3,1,1,,,0,3,1,,,,,,2,1,,,,,5,2018,2017-18,div1,Wharton County,whartoncountyjuniorcollege,calebmalywu21,Caleb Maly
-Apr 20,away,Laredo,W,4-3,4,4,,,,,,,,,,,,,,,,,,,,,,2018,2017-18,div1,Wharton County,whartoncountyjuniorcollege,calebmalywu21,Caleb Maly
-Apr 20,away,Laredo,W,4-1,4,4,,,,,,,,,,,,,,,,,,,,,,2018,2017-18,div1,Wharton County,whartoncountyjuniorcollege,calebmalywu21,Caleb Maly
-Apr 21,away,Laredo,L,7-5,7,7,,,,,,,,,,,,,,,,,,,,,,2018,2017-18,div1,Wharton County,whartoncountyjuniorcollege,calebmalywu21,Caleb Maly
-Apr 21,away,Laredo,W,11-5,11,11,,,,,,,,,,,,,,,,,,,,,,2018,2017-18,div1,Wharton County,whartoncountyjuniorcollege,calebmalywu21,Caleb Maly
-Apr 23,home,LSU Eunice,L,10-2,10,10,,,,,,,,,,,,,,,,,,,,,,2018,2017-18,div1,Wharton County,whartoncountyjuniorcollege,calebmalywu21,Caleb Maly
-Apr 26,away,Alvin,L,6-4,6,6,3,0,0,,,,0,,,,,1,,,0,0,,,,,4,2018,2017-18,div1,Wharton County,whartoncountyjuniorcollege,calebmalywu21,Caleb Maly
-Apr 26,away,Alvin,L,10-2,10,10,4,0,1,,,,1,,,,,,,,1,0,1,,,,4,2018,2017-18,div1,Wharton County,whartoncountyjuniorcollege,calebmalywu21,Caleb Maly
-Apr 28,home,Alvin,L,13-8,13,13,4,1,2,,,,1,,,,,,,,2,0,1,,,,4,2018,2017-18,div1,Wharton County,whartoncountyjuniorcollege,calebmalywu21,Caleb Maly
-Apr 28,home,Alvin,W,7-4,7,7,,,,,,,,,,,,,,,,,,,,,,2018,2017-18,div1,Wharton County,whartoncountyjuniorcollege,calebmalywu21,Caleb Maly
-Apr 30,home,vs. Baton Rouge,L,14-4,14,14,3,1,0,,,,1,1,,,,,,,0,0,1,,,,4,2018,2017-18,div1,Wharton County,whartoncountyjuniorcollege,calebmalywu21,Caleb Maly
-May 3,home,Galveston,L,2-1,2,2,,,,,,,,,,,,,,,,,,,,,,2018,2017-18,div1,Wharton County,whartoncountyjuniorcollege,calebmalywu21,Caleb Maly
-May 3,home,Galveston,L,4-1,4,4,,,,,,,,,,,,,,,,,,,,,,2018,2017-18,div1,Wharton County,whartoncountyjuniorcollege,calebmalywu21,Caleb Maly
-May 5,away,Galveston,W,5-1,5,5,,,,,,,,,,,,,,,,,,,,,,2018,2017-18,div1,Wharton County,whartoncountyjuniorcollege,calebmalywu21,Caleb Maly
-May 5,away,Galveston,W,9-0,9,9,,,,,,,,,,,,,,,,,,,,,,2018,2017-18,div1,Wharton County,whartoncountyjuniorcollege,calebmalywu21,Caleb Maly
+date,location,opponent,result,score,team_score,opp_score,game_score_diff_x,game_win_loss_x,game_id_x,AB,R,H,2B,3B,HR,RBI,BB,K,SB,CS,game_score_diff_y,game_win_loss_y,game_id_y,HBP,SF,SH,TB,XBH,HDP,GO,FO,GO/FO,PA,season,njcaa_season,njcaa_division,team,team_id,player_id,player_name
+Feb 17,home,Angelina,L,10-1,10,1,9.0,win,20180217_utfp,3,0,0,,,,0,,1,,,9.0,win,20180217_utfp,,,,0,0,,,,,3,2018,2017-18,div1,Wharton County,whartoncountyjuniorcollege,calebmalywu21,Caleb Maly
+Feb 17,home,Angelina,W,9-2,9,2,7.0,win,20180217_1kvh,3,1,1,,,,1,1,,1,,7.0,win,20180217_1kvh,,,,1,0,,,,,4,2018,2017-18,div1,Wharton County,whartoncountyjuniorcollege,calebmalywu21,Caleb Maly
+Feb 24,home,Blinn,L,3-2,3,2,1.0,win,20180224_14yu,4,0,2,,,,0,,1,,1,1.0,win,20180224_14yu,,,,2,0,,,,,4,2018,2017-18,div1,Wharton County,whartoncountyjuniorcollege,calebmalywu21,Caleb Maly
+Feb 24,home,Blinn,L,8-5,8,5,3.0,win,20180224_mp6m,4,2,2,1,,1,1,,,,,3.0,win,20180224_mp6m,,,,6,2,,,,,4,2018,2017-18,div1,Wharton County,whartoncountyjuniorcollege,calebmalywu21,Caleb Maly
+Mar 1,home,San Jacinto,L,4-1,4,1,3.0,win,20180301_ho5f,3,0,0,,,,0,,,,,3.0,win,20180301_ho5f,,,,0,0,,1,2,0.50,3,2018,2017-18,div1,Wharton County,whartoncountyjuniorcollege,calebmalywu21,Caleb Maly
+Mar 8,home,Laredo,W,11-3,11,3,8.0,win,20180308_2i0n,3,1,0,,,,1,2,,1,,8.0,win,20180308_2i0n,,,,0,0,,,,,5,2018,2017-18,div1,Wharton County,whartoncountyjuniorcollege,calebmalywu21,Caleb Maly
+Mar 9,home,Laredo,W,6-1,6,1,5.0,win,20180309_uu3i,4,1,3,,1,,1,,,,1,5.0,win,20180309_uu3i,,,,5,1,,,,,4,2018,2017-18,div1,Wharton County,whartoncountyjuniorcollege,calebmalywu21,Caleb Maly
+Mar 9,home,Laredo,W,12-4,12,4,8.0,win,20180309_8dtx,4,2,3,,2,,3,1,1,,,8.0,win,20180309_8dtx,,,,7,2,,,,,5,2018,2017-18,div1,Wharton County,whartoncountyjuniorcollege,calebmalywu21,Caleb Maly
+Mar 15,home,Alvin,W,5-1,5,1,4.0,win,20180315_ehzm,4,2,3,1,,,1,1,,,1,4.0,win,20180315_ehzm,,,,4,1,,,,,5,2018,2017-18,div1,Wharton County,whartoncountyjuniorcollege,calebmalywu21,Caleb Maly
+Mar 19,home,McLennan,L,16-1,16,1,15.0,win,,,,,,,,,,,,,15.0,win,,,,,,,,,,,,2018,2017-18,div1,Wharton County,whartoncountyjuniorcollege,calebmalywu21,Caleb Maly
+Mar 24,home,Galveston,W,7-6,7,6,1.0,win,20180324_qm39,3,0,0,,,,0,,,,,1.0,win,20180324_qm39,1,,,0,0,,,,,4,2018,2017-18,div1,Wharton County,whartoncountyjuniorcollege,calebmalywu21,Caleb Maly
+Mar 24,home,Galveston,W,3-2,3,2,1.0,win,20180324_ggno,4,0,0,,,,0,,,,,1.0,win,20180324_ggno,,,,0,0,,,,,4,2018,2017-18,div1,Wharton County,whartoncountyjuniorcollege,calebmalywu21,Caleb Maly
+Apr 5,home,Blinn,W,2-0,2,0,2.0,win,20180405_xf6m,2,0,0,,,,0,,,,,2.0,win,20180405_xf6m,,,1,0,0,,,,,3,2018,2017-18,div1,Wharton County,whartoncountyjuniorcollege,calebmalywu21,Caleb Maly
+Apr 9,home,Blinn,L,15-7,15,7,8.0,win,20180409_s2yo,2,3,2,,,,0,2,,1,,8.0,win,20180409_s2yo,,,,2,0,,,,,4,2018,2017-18,div1,Wharton County,whartoncountyjuniorcollege,calebmalywu21,Caleb Maly
+Apr 15,home,San Jacinto,L,9-4,9,4,5.0,win,,,,,,,,,,,,,5.0,win,,,,,,,,,,,,2018,2017-18,div1,Wharton County,whartoncountyjuniorcollege,calebmalywu21,Caleb Maly
+Apr 15,home,San Jacinto,L,15-5,15,5,10.0,win,20180415_09qt,2,1,1,,,,0,3,1,,,10.0,win,20180415_09qt,,,,1,0,,,,,5,2018,2017-18,div1,Wharton County,whartoncountyjuniorcollege,calebmalywu21,Caleb Maly
+Apr 17,home,Houston Community College,W,14-0,14,0,14.0,win,20180417_hi1j,2,3,1,1,,,0,3,1,,,14.0,win,20180417_hi1j,,,,2,1,,,,,5,2018,2017-18,div1,Wharton County,whartoncountyjuniorcollege,calebmalywu21,Caleb Maly
+Apr 23,home,LSU Eunice,L,10-2,10,2,8.0,win,,,,,,,,,,,,,8.0,win,,,,,,,,,,,,2018,2017-18,div1,Wharton County,whartoncountyjuniorcollege,calebmalywu21,Caleb Maly
+Apr 28,home,Alvin,L,13-8,13,8,5.0,win,20180428_4bc4,4,1,2,,,,1,,,,,5.0,win,20180428_4bc4,,,,2,0,1,,,,4,2018,2017-18,div1,Wharton County,whartoncountyjuniorcollege,calebmalywu21,Caleb Maly
+Apr 28,home,Alvin,W,7-4,7,4,3.0,win,,,,,,,,,,,,,3.0,win,,,,,,,,,,,,2018,2017-18,div1,Wharton County,whartoncountyjuniorcollege,calebmalywu21,Caleb Maly
+May 3,home,Galveston,L,2-1,2,1,1.0,win,,,,,,,,,,,,,1.0,win,,,,,,,,,,,,2018,2017-18,div1,Wharton County,whartoncountyjuniorcollege,calebmalywu21,Caleb Maly
+May 3,home,Galveston,L,4-1,4,1,3.0,win,,,,,,,,,,,,,3.0,win,,,,,,,,,,,,2018,2017-18,div1,Wharton County,whartoncountyjuniorcollege,calebmalywu21,Caleb Maly

@@ -1,58 +1,26 @@
-date,location,opponent,result,score,team_score,opp_score,AB,R,H,2B,3B,HR,RBI,BB,K,SB,CS,HBP,SF,SH,TB,XBH,HDP,GO,FO,GO/FO,PA,season,njcaa_season,njcaa_division,team,team_id,player_id,player_name
-Feb 3,away,Panola,L,9-2,9,9,1,0,1,,,,0,,,,,,,,1,0,,,,,1,2017,2016-17,div1,Vernon,vernoncollege,davidpewenofkittvje,David Pewenofkit
-Feb 3,away,Panola,L,7-0,7,7,,,,,,,,,,,,,,,,,,,,,,2017,2016-17,div1,Vernon,vernoncollege,davidpewenofkittvje,David Pewenofkit
-Feb 4,away,Panola,L,11-3,11,11,4,0,2,,,,0,,,,,,,,2,0,,,,,4,2017,2016-17,div1,Vernon,vernoncollege,davidpewenofkittvje,David Pewenofkit
-Feb 8,home,Western Texas,L,15-4,15,15,0,0,0,,,,0,,,,,,,,0,0,,,,,0,2017,2016-17,div1,Vernon,vernoncollege,davidpewenofkittvje,David Pewenofkit
-Feb 10,away,Redlands,W,9-0,9,9,1,0,1,,,,1,,,,,,,,1,0,,,,,1,2017,2016-17,div1,Vernon,vernoncollege,davidpewenofkittvje,David Pewenofkit
-Feb 11,away,Redlands,W,16-9,16,16,5,2,3,1,,1,2,,,,,,,,7,2,,,,,5,2017,2016-17,div1,Vernon,vernoncollege,davidpewenofkittvje,David Pewenofkit
-Feb 11,away,Redlands,W,7-0,7,7,3,0,1,,,,1,1,,,,,,,1,0,,,,,4,2017,2016-17,div1,Vernon,vernoncollege,davidpewenofkittvje,David Pewenofkit
-Feb 14,away,Rose State,,,,,,,,,,,,,,,,,,,,,,,,,,2017,2016-17,div1,Vernon,vernoncollege,davidpewenofkittvje,David Pewenofkit
-Feb 17,away,Frank Phillips,L,8-3,8,8,4,0,2,,,,1,,,,,,,,2,0,,,,,4,2017,2016-17,div1,Vernon,vernoncollege,davidpewenofkittvje,David Pewenofkit
-Feb 18,home,Frank Phillips,L,6-4,6,6,4,1,2,,,,0,,,,,,,,2,0,,,,,4,2017,2016-17,div1,Vernon,vernoncollege,davidpewenofkittvje,David Pewenofkit
-Feb 18,home,Frank Phillips,W,8-2,8,8,3,1,2,,,,0,1,,,,,,,2,0,,,,,4,2017,2016-17,div1,Vernon,vernoncollege,davidpewenofkittvje,David Pewenofkit
-Feb 21,home,Seminole State (OK),L,12-1,12,12,2,0,0,,,,0,1,1,,,,,,0,0,,,,,3,2017,2016-17,div1,Vernon,vernoncollege,davidpewenofkittvje,David Pewenofkit
-Feb 21,home,Seminole State (OK),L,13-4,13,13,,,,,,,,,,,,,,,,,,,,,,2017,2016-17,div1,Vernon,vernoncollege,davidpewenofkittvje,David Pewenofkit
-Feb 25,away,Western Texas,W,13-4,13,13,,,,,,,,,,,,,,,,,,,,,,2017,2016-17,div1,Vernon,vernoncollege,davidpewenofkittvje,David Pewenofkit
-Feb 25,away,Western Texas,L,5-4,5,5,,,,,,,,,,,,,,,,,,,,,,2017,2016-17,div1,Vernon,vernoncollege,davidpewenofkittvje,David Pewenofkit
-Feb 28,home,vs. Northern Oklahoma Tonkawa,L,16-0,16,16,1,0,0,,,,0,1,,,,,,,0,0,,1,,,2,2017,2016-17,div1,Vernon,vernoncollege,davidpewenofkittvje,David Pewenofkit
-Feb 28,home,vs. Northern Oklahoma Tonkawa,L,6-1,6,6,,,,,,,,,,,,,,,,,,,,,,2017,2016-17,div1,Vernon,vernoncollege,davidpewenofkittvje,David Pewenofkit
-Mar 4,home,vs. Tyler,L,8-6,8,8,4,0,1,,,,0,,1,,,,,,1,0,,,,,4,2017,2016-17,div1,Vernon,vernoncollege,davidpewenofkittvje,David Pewenofkit
-Mar 4,away,Murray State,L,10-0,10,10,2,0,1,,,,0,,,,,,,,1,0,,,,,2,2017,2016-17,div1,Vernon,vernoncollege,davidpewenofkittvje,David Pewenofkit
-Mar 8,away,Temple,W,7-1,7,7,3,0,1,,,,0,,3,1,,,,,1,0,,,,,3,2017,2016-17,div1,Vernon,vernoncollege,davidpewenofkittvje,David Pewenofkit
-Mar 8,away,Temple,L,3-2,3,3,1,0,0,,,,0,,,,,,,,0,0,,,,,1,2017,2016-17,div1,Vernon,vernoncollege,davidpewenofkittvje,David Pewenofkit
-Mar 11,home,Temple,L,3-1,3,3,0,0,0,,,,0,1,,,,,,,0,0,,,,,1,2017,2016-17,div1,Vernon,vernoncollege,davidpewenofkittvje,David Pewenofkit
-Mar 11,home,Temple,L,10-0,10,10,3,0,0,,,,0,,1,,,,,,0,0,,,,,3,2017,2016-17,div1,Vernon,vernoncollege,davidpewenofkittvje,David Pewenofkit
-Mar 15,away,Cisco,W,5-3,5,5,4,0,2,,,,1,,,,,,,,2,0,,,,,4,2017,2016-17,div1,Vernon,vernoncollege,davidpewenofkittvje,David Pewenofkit
-Mar 15,away,Cisco,L,15-14,15,15,4,3,2,1,,1,2,1,1,,,,,,6,2,,,,,5,2017,2016-17,div1,Vernon,vernoncollege,davidpewenofkittvje,David Pewenofkit
-Mar 18,home,Cisco,L,14-3,14,14,2,2,1,1,,,0,,1,,,,,,2,1,,,,,2,2017,2016-17,div1,Vernon,vernoncollege,davidpewenofkittvje,David Pewenofkit
-Mar 18,home,Cisco,L,24-4,24,24,0,0,0,,,,0,,,,,,,,0,0,,,,,0,2017,2016-17,div1,Vernon,vernoncollege,davidpewenofkittvje,David Pewenofkit
-Mar 20,home,Northeast Texas,,,,,,,,,,,,,,,,,,,,,,,,,,2017,2016-17,div1,Vernon,vernoncollege,davidpewenofkittvje,David Pewenofkit
-Mar 22,away,Grayson,L,2-1,2,2,4,0,0,,,,0,,4,,,,,,0,0,,,,,4,2017,2016-17,div1,Vernon,vernoncollege,davidpewenofkittvje,David Pewenofkit
-Mar 22,away,Grayson,L,3-2,3,3,1,0,1,1,,,0,,,,,,,,2,1,,,,,1,2017,2016-17,div1,Vernon,vernoncollege,davidpewenofkittvje,David Pewenofkit
-Mar 25,home,Grayson,L,7-0,7,7,2,0,0,,,,0,1,1,,,,,,0,0,,,,,3,2017,2016-17,div1,Vernon,vernoncollege,davidpewenofkittvje,David Pewenofkit
-Mar 25,home,Grayson,L,13-8,13,13,0,0,0,,,,0,,,,,,,,0,0,,,,,0,2017,2016-17,div1,Vernon,vernoncollege,davidpewenofkittvje,David Pewenofkit
-Mar 27,home,Wayland Baptist University (JV),W,8-0,8,8,4,2,2,1,,,0,,,,,,,,3,1,,,,,4,2017,2016-17,div1,Vernon,vernoncollege,davidpewenofkittvje,David Pewenofkit
-Mar 27,home,Wayland Baptist University (JV),W,16-0,16,16,,,,,,,,,,,,,,,,,,,,,,2017,2016-17,div1,Vernon,vernoncollege,davidpewenofkittvje,David Pewenofkit
-Mar 29,home,Ranger,W,9-4,9,9,1,1,1,1,,,2,,,,,,,,2,1,,,,,1,2017,2016-17,div1,Vernon,vernoncollege,davidpewenofkittvje,David Pewenofkit
-Mar 29,home,Ranger,W,7-4,7,7,4,1,3,,,1,2,1,1,,,,,,6,1,,,,,5,2017,2016-17,div1,Vernon,vernoncollege,davidpewenofkittvje,David Pewenofkit
-Apr 1,away,Ranger,W,13-2,13,13,,,,,,,,,,,,,,,,,,,,,,2017,2016-17,div1,Vernon,vernoncollege,davidpewenofkittvje,David Pewenofkit
-Apr 1,away,Ranger,W,10-0,10,10,1,1,1,,,,0,3,,,,1,,,1,0,,,,,5,2017,2016-17,div1,Vernon,vernoncollege,davidpewenofkittvje,David Pewenofkit
-Apr 3,away,Western Oklahoma State,L,5-4,5,5,4,0,0,,,,0,,1,,,,,,0,0,,,,,4,2017,2016-17,div1,Vernon,vernoncollege,davidpewenofkittvje,David Pewenofkit
-Apr 5,away,Hill,L,8-7,8,8,4,0,1,1,,,0,,2,,,,,,2,1,,,,,4,2017,2016-17,div1,Vernon,vernoncollege,davidpewenofkittvje,David Pewenofkit
-Apr 5,away,Hill,L,21-6,21,21,2,0,1,1,,,0,1,,,,,,,2,1,,,,,3,2017,2016-17,div1,Vernon,vernoncollege,davidpewenofkittvje,David Pewenofkit
-Apr 8,home,Hill,L,18-7,18,18,3,2,2,,,,0,,,,,1,,,2,0,,,,,4,2017,2016-17,div1,Vernon,vernoncollege,davidpewenofkittvje,David Pewenofkit
-Apr 8,home,Hill,L,22-15,22,22,4,2,1,,,,1,1,,,,1,,,1,0,,,,,6,2017,2016-17,div1,Vernon,vernoncollege,davidpewenofkittvje,David Pewenofkit
-Apr 12,home,McLennan,L,13-2,13,13,3,0,1,,,,0,,1,,,,,,1,0,,,,,3,2017,2016-17,div1,Vernon,vernoncollege,davidpewenofkittvje,David Pewenofkit
-Apr 12,home,McLennan,L,17-6,17,17,4,0,1,,,,2,,1,,,,,,1,0,,,,,4,2017,2016-17,div1,Vernon,vernoncollege,davidpewenofkittvje,David Pewenofkit
-Apr 14,away,McLennan,L,6-1,6,6,3,1,2,,,1,1,,1,,,,,,5,1,,,,,3,2017,2016-17,div1,Vernon,vernoncollege,davidpewenofkittvje,David Pewenofkit
-Apr 14,away,McLennan,L,12-5,12,12,3,0,0,,,,0,1,2,,,,,,0,0,,,,,4,2017,2016-17,div1,Vernon,vernoncollege,davidpewenofkittvje,David Pewenofkit
-Apr 19,home,Weatherford,L,16-6,16,16,3,0,2,,,,1,1,1,,,,,,2,0,,,,,4,2017,2016-17,div1,Vernon,vernoncollege,davidpewenofkittvje,David Pewenofkit
-Apr 19,home,Weatherford,L,22-8,22,22,3,0,0,,,,0,1,2,,,,,,0,0,,,,,4,2017,2016-17,div1,Vernon,vernoncollege,davidpewenofkittvje,David Pewenofkit
-Apr 22,away,Weatherford,L,11-1,11,11,1,0,0,,,,1,1,,,,,,,0,0,,,,,2,2017,2016-17,div1,Vernon,vernoncollege,davidpewenofkittvje,David Pewenofkit
-Apr 22,away,Weatherford,L,7-2,7,7,4,0,1,,,,0,1,1,,,,,,1,0,,,,,5,2017,2016-17,div1,Vernon,vernoncollege,davidpewenofkittvje,David Pewenofkit
-Apr 24,away,Murray State,L,14-9,14,14,5,1,1,1,,,0,,,,,,,,2,1,,,,,5,2017,2016-17,div1,Vernon,vernoncollege,davidpewenofkittvje,David Pewenofkit
-Apr 26,home,Western Oklahoma State,L,16-5,16,16,4,0,0,,,,0,,2,,,,,,0,0,,,,,4,2017,2016-17,div1,Vernon,vernoncollege,davidpewenofkittvje,David Pewenofkit
-May 3,home,North Central Texas,L,4-1,4,4,3,0,1,,,,0,,,,1,,,,1,0,,,,,3,2017,2016-17,div1,Vernon,vernoncollege,davidpewenofkittvje,David Pewenofkit
-May 3,home,North Central Texas,L,16-5,16,16,4,0,2,1,,,1,,2,,,,,,3,1,,,,,4,2017,2016-17,div1,Vernon,vernoncollege,davidpewenofkittvje,David Pewenofkit
-May 6,away,North Central Texas,L,11-7,11,11,4,1,2,,,1,3,,2,,,,,,5,1,,,,,4,2017,2016-17,div1,Vernon,vernoncollege,davidpewenofkittvje,David Pewenofkit
-May 6,away,North Central Texas,L,10-4,10,10,,,,,,,,,,,,,,,,,,,,,,2017,2016-17,div1,Vernon,vernoncollege,davidpewenofkittvje,David Pewenofkit
+date,location,opponent,result,score,team_score,opp_score,game_score_diff_x,game_win_loss_x,game_id_x,AB,R,H,2B,3B,HR,RBI,BB,K,SB,CS,game_score_diff_y,game_win_loss_y,game_id_y,HBP,SF,SH,TB,XBH,HDP,GO,FO,GO/FO,PA,season,njcaa_season,njcaa_division,team,team_id,player_id,player_name
+Feb 8,home,Western Texas,L,15-4,15,4,11.0,win,20170208_574o,0,0,0,,,,0,,,,,11.0,win,20170208_574o,,,,0,0,,,,,0,2017,2016-17,div1,Vernon,vernoncollege,davidpewenofkittvje,David Pewenofkit
+Feb 18,home,Frank Phillips,L,6-4,6,4,2.0,win,20170218_lw77,4,1,2,,,,0,,,,,2.0,win,20170218_lw77,,,,2,0,,,,,4,2017,2016-17,div1,Vernon,vernoncollege,davidpewenofkittvje,David Pewenofkit
+Feb 18,home,Frank Phillips,W,8-2,8,2,6.0,win,20170218_lvlj,3,1,2,,,,0,1,,,,6.0,win,20170218_lvlj,,,,2,0,,,,,4,2017,2016-17,div1,Vernon,vernoncollege,davidpewenofkittvje,David Pewenofkit
+Feb 21,home,Seminole State (OK),L,12-1,12,1,11.0,win,20170221_tqia,2,0,0,,,,0,1,1,,,11.0,win,20170221_tqia,,,,0,0,,,,,3,2017,2016-17,div1,Vernon,vernoncollege,davidpewenofkittvje,David Pewenofkit
+Feb 21,home,Seminole State (OK),L,13-4,13,4,9.0,win,,,,,,,,,,,,,9.0,win,,,,,,,,,,,,2017,2016-17,div1,Vernon,vernoncollege,davidpewenofkittvje,David Pewenofkit
+Mar 11,home,Temple,L,3-1,3,1,2.0,win,20170311_udx7,0,0,0,,,,0,1,,,,2.0,win,20170311_udx7,,,,0,0,,,,,1,2017,2016-17,div1,Vernon,vernoncollege,davidpewenofkittvje,David Pewenofkit
+Mar 11,home,Temple,L,10-0,10,0,10.0,win,20170311_z1ka,3,0,0,,,,0,,1,,,10.0,win,20170311_z1ka,,,,0,0,,,,,3,2017,2016-17,div1,Vernon,vernoncollege,davidpewenofkittvje,David Pewenofkit
+Mar 18,home,Cisco,L,14-3,14,3,11.0,win,20170318_jeh5,2,2,1,1,,,0,,1,,,11.0,win,20170318_jeh5,,,,2,1,,,,,2,2017,2016-17,div1,Vernon,vernoncollege,davidpewenofkittvje,David Pewenofkit
+Mar 18,home,Cisco,L,24-4,24,4,20.0,win,20170318_vj7v,0,0,0,,,,0,,,,,20.0,win,20170318_vj7v,,,,0,0,,,,,0,2017,2016-17,div1,Vernon,vernoncollege,davidpewenofkittvje,David Pewenofkit
+Mar 20,home,Northeast Texas,,,,,20.0,win,,,,,,,,,,,,,20.0,win,,,,,,,,,,,,2017,2016-17,div1,Vernon,vernoncollege,davidpewenofkittvje,David Pewenofkit
+Mar 25,home,Grayson,L,7-0,7,0,7.0,win,20170325_9vpl,2,0,0,,,,0,1,1,,,7.0,win,20170325_9vpl,,,,0,0,,,,,3,2017,2016-17,div1,Vernon,vernoncollege,davidpewenofkittvje,David Pewenofkit
+Mar 25,home,Grayson,L,13-8,13,8,5.0,win,20170325_sygw,0,0,0,,,,0,,,,,5.0,win,20170325_sygw,,,,0,0,,,,,0,2017,2016-17,div1,Vernon,vernoncollege,davidpewenofkittvje,David Pewenofkit
+Mar 27,home,Wayland Baptist University (JV),W,8-0,8,0,8.0,win,20170327_g39u,4,2,2,1,,,0,,,,,8.0,win,20170327_g39u,,,,3,1,,,,,4,2017,2016-17,div1,Vernon,vernoncollege,davidpewenofkittvje,David Pewenofkit
+Mar 27,home,Wayland Baptist University (JV),W,16-0,16,0,16.0,win,,,,,,,,,,,,,16.0,win,,,,,,,,,,,,2017,2016-17,div1,Vernon,vernoncollege,davidpewenofkittvje,David Pewenofkit
+Mar 29,home,Ranger,W,9-4,9,4,5.0,win,20170329_85ko,1,1,1,1,,,2,,,,,5.0,win,20170329_85ko,,,,2,1,,,,,1,2017,2016-17,div1,Vernon,vernoncollege,davidpewenofkittvje,David Pewenofkit
+Mar 29,home,Ranger,W,7-4,7,4,3.0,win,20170329_kshw,4,1,3,,,1,2,1,1,,,3.0,win,20170329_kshw,,,,6,1,,,,,5,2017,2016-17,div1,Vernon,vernoncollege,davidpewenofkittvje,David Pewenofkit
+Apr 8,home,Hill,L,18-7,18,7,11.0,win,20170408_8da4,3,2,2,,,,0,,,,,11.0,win,20170408_8da4,1,,,2,0,,,,,4,2017,2016-17,div1,Vernon,vernoncollege,davidpewenofkittvje,David Pewenofkit
+Apr 8,home,Hill,L,22-15,22,15,7.0,win,20170408_33dy,4,2,1,,,,1,1,,,,7.0,win,20170408_33dy,1,,,1,0,,,,,6,2017,2016-17,div1,Vernon,vernoncollege,davidpewenofkittvje,David Pewenofkit
+Apr 12,home,McLennan,L,13-2,13,2,11.0,win,20170412_ouay,3,0,1,,,,0,,1,,,11.0,win,20170412_ouay,,,,1,0,,,,,3,2017,2016-17,div1,Vernon,vernoncollege,davidpewenofkittvje,David Pewenofkit
+Apr 12,home,McLennan,L,17-6,17,6,11.0,win,20170412_el2p,4,0,1,,,,2,,1,,,11.0,win,20170412_el2p,,,,1,0,,,,,4,2017,2016-17,div1,Vernon,vernoncollege,davidpewenofkittvje,David Pewenofkit
+Apr 19,home,Weatherford,L,16-6,16,6,10.0,win,20170419_1nwk,3,0,2,,,,1,1,1,,,10.0,win,20170419_1nwk,,,,2,0,,,,,4,2017,2016-17,div1,Vernon,vernoncollege,davidpewenofkittvje,David Pewenofkit
+Apr 19,home,Weatherford,L,22-8,22,8,14.0,win,20170419_6nxy,3,0,0,,,,0,1,2,,,14.0,win,20170419_6nxy,,,,0,0,,,,,4,2017,2016-17,div1,Vernon,vernoncollege,davidpewenofkittvje,David Pewenofkit
+Apr 26,home,Western Oklahoma State,L,16-5,16,5,11.0,win,20170426_exmi,4,0,0,,,,0,,2,,,11.0,win,20170426_exmi,,,,0,0,,,,,4,2017,2016-17,div1,Vernon,vernoncollege,davidpewenofkittvje,David Pewenofkit
+May 3,home,North Central Texas,L,4-1,4,1,3.0,win,20170503_6dki,3,0,1,,,,0,,,,1,3.0,win,20170503_6dki,,,,1,0,,,,,3,2017,2016-17,div1,Vernon,vernoncollege,davidpewenofkittvje,David Pewenofkit
+May 3,home,North Central Texas,L,16-5,16,5,11.0,win,20170503_vfrd,4,0,2,1,,,1,,2,,,11.0,win,20170503_vfrd,,,,3,1,,,,,4,2017,2016-17,div1,Vernon,vernoncollege,davidpewenofkittvje,David Pewenofkit

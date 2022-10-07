@@ -1,58 +1,30 @@
-date,location,opponent,result,score,team_score,opp_score,AB,R,H,2B,3B,HR,RBI,BB,K,SB,CS,HBP,SF,SH,TB,XBH,HDP,GO,FO,GO/FO,PA,season,njcaa_season,njcaa_division,team,team_id,player_id,player_name
-Feb 1,away,Wallace-Dothan,L,4-3,4,4,0,0,0,,,,0,2,,,,,,,0,0,,,,,2,2014,2013-14,div1,Andrew,andrewcollege,zachlippincott2fa2,Zach Lippincott
-Feb 1,away,Wallace-Dothan,L,12-5,12,12,,,,,,,,,,,,,,,,,,,,,,2014,2013-14,div1,Andrew,andrewcollege,zachlippincott2fa2,Zach Lippincott
-Feb 3,away,Lagrange College JV,,,,,,,,,,,,,,,,,,,,,,,,,,2014,2013-14,div1,Andrew,andrewcollege,zachlippincott2fa2,Zach Lippincott
-Feb 7,home,vs. Central Alabama,W,1-0,1,1,4,0,0,,,,0,,,,,,,,0,0,,,,,4,2014,2013-14,div1,Andrew,andrewcollege,zachlippincott2fa2,Zach Lippincott
-Feb 8,away,Gulf Coast State,L,7-0,7,7,,,,,,,,,,,,,,,,,,,,,,2014,2013-14,div1,Andrew,andrewcollege,zachlippincott2fa2,Zach Lippincott
-Feb 9,home,vs. Wallace State,L,7-2,7,7,3,0,0,,,,0,1,1,,,,,,0,0,,,,,4,2014,2013-14,div1,Andrew,andrewcollege,zachlippincott2fa2,Zach Lippincott
-Feb 15,home,vs. Enterprise State,L,5-2,5,5,3,0,2,,,,1,,1,,,,,,2,0,,,,,3,2014,2013-14,div1,Andrew,andrewcollege,zachlippincott2fa2,Zach Lippincott
-Feb 15,away,Lurleen B. Wallace,L,6-0,6,6,,,,,,,,,,,,,,,,,,,,,,2014,2013-14,div1,Andrew,andrewcollege,zachlippincott2fa2,Zach Lippincott
-Feb 16,home,Southwestern Illinois,W,7-2,7,7,2,1,0,,,,0,1,,,,,,1,0,0,,,,,4,2014,2013-14,div1,Andrew,andrewcollege,zachlippincott2fa2,Zach Lippincott
-Feb 19,home,Thomas University JV,L,12-11,12,12,3,0,1,,,,4,1,,,,,,,1,0,,,,,4,2014,2013-14,div1,Andrew,andrewcollege,zachlippincott2fa2,Zach Lippincott
-Feb 21,away,Chattahoochee Valley,,,,,,,,,,,,,,,,,,,,,,,,,,2014,2013-14,div1,Andrew,andrewcollege,zachlippincott2fa2,Zach Lippincott
-Feb 22,away,Enterprise State,L,6-3,6,6,2,1,0,,,,0,1,1,,,,,,0,0,,,,,3,2014,2013-14,div1,Andrew,andrewcollege,zachlippincott2fa2,Zach Lippincott
-Feb 22,home,Lurleen B. Wallace,W,8-2,8,8,2,1,0,,,,0,1,,,,,,,0,0,,,,,3,2014,2013-14,div1,Andrew,andrewcollege,zachlippincott2fa2,Zach Lippincott
-Feb 24,away,Thomas University JV,W,14-4,14,14,5,1,2,,1,,2,,,,,,,,4,1,,,,,5,2014,2013-14,div1,Andrew,andrewcollege,zachlippincott2fa2,Zach Lippincott
-Feb 26,home,Chattahoochee Valley,,,,,,,,,,,,,,,,,,,,,,,,,,2014,2013-14,div1,Andrew,andrewcollege,zachlippincott2fa2,Zach Lippincott
-Feb 27,home,brewton parker college jv,W,10-1,10,10,3,0,0,,,,1,1,1,,,,,,0,0,,,,,4,2014,2013-14,div1,Andrew,andrewcollege,zachlippincott2fa2,Zach Lippincott
-Feb 27,home,brewton parker college jv,W,5-4,5,5,3,0,2,1,,,2,,,,,,,1,3,1,,,,,4,2014,2013-14,div1,Andrew,andrewcollege,zachlippincott2fa2,Zach Lippincott
-Mar 1,home,Gulf Coast State,L,12-1,12,12,3,0,1,,,,0,,,,,,,,1,0,,,,,3,2014,2013-14,div1,Andrew,andrewcollege,zachlippincott2fa2,Zach Lippincott
-Mar 1,home,Gulf Coast State,L,7-4,7,7,,,,,,,,,,,,,,,,,,,,,,2014,2013-14,div1,Andrew,andrewcollege,zachlippincott2fa2,Zach Lippincott
-Mar 4,away,West Georgia Tech,L,11-10,11,11,3,0,1,,,,0,1,1,,,,,2,1,0,,,,,6,2014,2013-14,div1,Andrew,andrewcollege,zachlippincott2fa2,Zach Lippincott
-Mar 8,home,West Georgia Tech,W,5-4,5,5,2,0,0,,,,1,,,,,,,1,0,0,,,,,3,2014,2013-14,div1,Andrew,andrewcollege,zachlippincott2fa2,Zach Lippincott
-Mar 8,home,West Georgia Tech,W,10-1,10,10,1,2,1,,1,,2,3,,,,1,,,3,1,,,,,5,2014,2013-14,div1,Andrew,andrewcollege,zachlippincott2fa2,Zach Lippincott
-Mar 9,home,West Georgia Tech,W,16-13,16,16,4,1,1,,,,2,1,,,,,1,,1,0,,,,,6,2014,2013-14,div1,Andrew,andrewcollege,zachlippincott2fa2,Zach Lippincott
-Mar 11,home,Gordon State,L,7-3,7,7,3,1,0,,,,0,1,1,,,1,,,0,0,,,,,5,2014,2013-14,div1,Andrew,andrewcollege,zachlippincott2fa2,Zach Lippincott
-Mar 14,away,Gordon State,L,7-4,7,7,4,1,2,,,,1,,1,,,,,,2,0,,,,,4,2014,2013-14,div1,Andrew,andrewcollege,zachlippincott2fa2,Zach Lippincott
-Mar 14,away,Gordon State,L,10-9,10,10,2,1,0,,,,1,1,,,,,1,1,0,0,,,,,5,2014,2013-14,div1,Andrew,andrewcollege,zachlippincott2fa2,Zach Lippincott
-Mar 15,away,Gordon State,L,19-3,19,19,4,1,2,,,,0,,,,,,,,2,0,,,,,4,2014,2013-14,div1,Andrew,andrewcollege,zachlippincott2fa2,Zach Lippincott
-Mar 18,away,Georgia Highlands,L,10-3,10,10,5,0,3,,,,1,,1,,,,,,3,0,,,,,5,2014,2013-14,div1,Andrew,andrewcollege,zachlippincott2fa2,Zach Lippincott
-Mar 21,home,Georgia Highlands,L,15-6,15,15,3,1,1,,,,0,2,,,,,,,1,0,,,,,5,2014,2013-14,div1,Andrew,andrewcollege,zachlippincott2fa2,Zach Lippincott
-Mar 22,home,Georgia Highlands,L,6-1,6,6,4,0,1,,,,0,,1,,,,,,1,0,,,,,4,2014,2013-14,div1,Andrew,andrewcollege,zachlippincott2fa2,Zach Lippincott
-Mar 22,home,Georgia Highlands,W,4-2,4,4,2,0,0,,,,0,,,,,,,1,0,0,,,,,3,2014,2013-14,div1,Andrew,andrewcollege,zachlippincott2fa2,Zach Lippincott
-Mar 25,away,South Georgia State,L,3-2,3,3,4,1,2,1,,,0,,,,,1,,,3,1,,,,,5,2014,2013-14,div1,Andrew,andrewcollege,zachlippincott2fa2,Zach Lippincott
-Mar 27,home,South Georgia State,L,8-2,8,8,4,0,1,,,,0,1,,,,,,,1,0,,,,,5,2014,2013-14,div1,Andrew,andrewcollege,zachlippincott2fa2,Zach Lippincott
-Mar 30,home,South Georgia State,L,8-2,8,8,4,0,0,,,,0,,1,,,,,,0,0,,,,,4,2014,2013-14,div1,Andrew,andrewcollege,zachlippincott2fa2,Zach Lippincott
-Mar 30,home,South Georgia State,L,8-2,8,8,4,0,0,,,,0,,1,,,,,,0,0,,,,,4,2014,2013-14,div1,Andrew,andrewcollege,zachlippincott2fa2,Zach Lippincott
-Mar 30,home,South Georgia State,L,8-2,8,8,4,0,0,,,,1,,1,,,,,,0,0,,,,,4,2014,2013-14,div1,Andrew,andrewcollege,zachlippincott2fa2,Zach Lippincott
-Mar 30,home,South Georgia State,L,8-2,8,8,4,0,0,,,,1,,1,,,,,,0,0,,,,,4,2014,2013-14,div1,Andrew,andrewcollege,zachlippincott2fa2,Zach Lippincott
-Apr 2,home,Georgia Perimeter,L,4-2,4,4,4,1,0,,,,0,,1,,,,,,0,0,,,,,4,2014,2013-14,div1,Andrew,andrewcollege,zachlippincott2fa2,Zach Lippincott
-Apr 4,away,Georgia Perimeter,L,10-0,10,10,2,0,0,,,,0,,2,,,,,1,0,0,,,,,3,2014,2013-14,div1,Andrew,andrewcollege,zachlippincott2fa2,Zach Lippincott
-Apr 5,away,Georgia Perimeter,L,3-2,3,3,3,0,0,,,,0,,2,,,,,,0,0,,,,,3,2014,2013-14,div1,Andrew,andrewcollege,zachlippincott2fa2,Zach Lippincott
-Apr 5,away,Georgia Perimeter,L,11-1,11,11,3,1,2,,,,0,,,,,,,,2,0,,,,,3,2014,2013-14,div1,Andrew,andrewcollege,zachlippincott2fa2,Zach Lippincott
-Apr 9,home,Darton State,L,10-0,10,10,3,0,0,,,,0,,,,,,,,0,0,,,,,3,2014,2013-14,div1,Andrew,andrewcollege,zachlippincott2fa2,Zach Lippincott
-Apr 10,away,Darton State,L,8-1,8,8,4,1,1,,,,0,,1,,,1,,,1,0,,,,,5,2014,2013-14,div1,Andrew,andrewcollege,zachlippincott2fa2,Zach Lippincott
-Apr 12,away,Darton State,L,1-0,1,1,2,0,0,,,,0,,1,,,,,1,0,0,,,,,3,2014,2013-14,div1,Andrew,andrewcollege,zachlippincott2fa2,Zach Lippincott
-Apr 12,away,Darton State,L,9-3,9,9,2,0,0,,,,0,1,,,,1,,,0,0,,,,,4,2014,2013-14,div1,Andrew,andrewcollege,zachlippincott2fa2,Zach Lippincott
-Apr 16,away,Middle Georgia State,L,4-0,4,4,4,0,0,,,,0,,1,,,,,,0,0,,,,,4,2014,2013-14,div1,Andrew,andrewcollege,zachlippincott2fa2,Zach Lippincott
-Apr 18,home,Middle Georgia State,,,,,,,,,,,,,,,,,,,,,,,,,,2014,2013-14,div1,Andrew,andrewcollege,zachlippincott2fa2,Zach Lippincott
-Apr 21,home,Middle Georgia State,L,4-0,4,4,3,0,1,,,,0,,1,,,,,,1,0,,,,,3,2014,2013-14,div1,Andrew,andrewcollege,zachlippincott2fa2,Zach Lippincott
-Apr 21,home,Middle Georgia State,L,5-2,5,5,2,0,0,,,,0,1,,,,,,,0,0,,,,,3,2014,2013-14,div1,Andrew,andrewcollege,zachlippincott2fa2,Zach Lippincott
-Apr 23,home,Abraham Baldwin,L,13-9,13,13,4,1,1,,,,1,1,,,,,,,1,0,,1,1,1.00,5,2014,2013-14,div1,Andrew,andrewcollege,zachlippincott2fa2,Zach Lippincott
-Apr 25,away,Abraham Baldwin,L,9-5,9,9,5,0,1,,,,2,,,,,,,,1,0,1,3,1,3.00,5,2014,2013-14,div1,Andrew,andrewcollege,zachlippincott2fa2,Zach Lippincott
-Apr 26,away,Abraham Baldwin,L,8-6,8,8,3,1,0,,,,1,,,,,,,1,0,0,,4,,,4,2014,2013-14,div1,Andrew,andrewcollege,zachlippincott2fa2,Zach Lippincott
-Apr 26,away,Abraham Baldwin,L,3-0,3,3,3,0,1,,,,0,,,,,,,,1,0,,1,,,3,2014,2013-14,div1,Andrew,andrewcollege,zachlippincott2fa2,Zach Lippincott
-Apr 30,away,East Georgia State,,,,,,,,,,,,,,,,,,,,,,,,,,2014,2013-14,div1,Andrew,andrewcollege,zachlippincott2fa2,Zach Lippincott
-May 2,home,East Georgia State,,,,,,,,,,,,,,,,,,,,,,,,,,2014,2013-14,div1,Andrew,andrewcollege,zachlippincott2fa2,Zach Lippincott
-May 3,home,East Georgia State,W,3-1,3,3,3,1,1,,,,1,,1,,,,,,1,0,,,,,3,2014,2013-14,div1,Andrew,andrewcollege,zachlippincott2fa2,Zach Lippincott
-May 3,home,East Georgia State,L,12-5,12,12,2,2,1,,,,0,1,,,,1,,,1,0,,,,,4,2014,2013-14,div1,Andrew,andrewcollege,zachlippincott2fa2,Zach Lippincott
+date,location,opponent,result,score,team_score,opp_score,game_score_diff_x,game_win_loss_x,game_id_x,AB,R,H,2B,3B,HR,RBI,BB,K,SB,CS,game_score_diff_y,game_win_loss_y,game_id_y,HBP,SF,SH,TB,XBH,HDP,GO,FO,GO/FO,PA,season,njcaa_season,njcaa_division,team,team_id,player_id,player_name
+Feb 16,home,Southwestern Illinois,W,7-2,7,2,5.0,win,20140216_db30,2,1,0,,,,0,1,,,,5.0,win,20140216_db30,,,1,0,0,,,,,4,2014,2013-14,div1,Andrew,andrewcollege,zachlippincott2fa2,Zach Lippincott
+Feb 19,home,Thomas University JV,L,12-11,12,11,1.0,win,20140219_lm1v,3,0,1,,,,4,1,,,,1.0,win,20140219_lm1v,,,,1,0,,,,,4,2014,2013-14,div1,Andrew,andrewcollege,zachlippincott2fa2,Zach Lippincott
+Feb 22,home,Lurleen B. Wallace,W,8-2,8,2,6.0,win,20140222_ruqi,2,1,0,,,,0,1,,,,6.0,win,20140222_ruqi,,,,0,0,,,,,3,2014,2013-14,div1,Andrew,andrewcollege,zachlippincott2fa2,Zach Lippincott
+Feb 26,home,Chattahoochee Valley,,,,,10.0,win,,,,,,,,,,,,,10.0,win,,,,,,,,,,,,2014,2013-14,div1,Andrew,andrewcollege,zachlippincott2fa2,Zach Lippincott
+Feb 27,home,brewton parker college jv,W,10-1,10,1,9.0,win,20140227_hd26,3,0,0,,,,1,1,1,,,9.0,win,20140227_hd26,,,,0,0,,,,,4,2014,2013-14,div1,Andrew,andrewcollege,zachlippincott2fa2,Zach Lippincott
+Feb 27,home,brewton parker college jv,W,5-4,5,4,1.0,win,20140227_jynk,3,0,2,1,,,2,,,,,1.0,win,20140227_jynk,,,1,3,1,,,,,4,2014,2013-14,div1,Andrew,andrewcollege,zachlippincott2fa2,Zach Lippincott
+Mar 1,home,Gulf Coast State,L,12-1,12,1,11.0,win,20140301_ojp3,3,0,1,,,,0,,,,,11.0,win,20140301_ojp3,,,,1,0,,,,,3,2014,2013-14,div1,Andrew,andrewcollege,zachlippincott2fa2,Zach Lippincott
+Mar 1,home,Gulf Coast State,L,7-4,7,4,3.0,win,,,,,,,,,,,,,3.0,win,,,,,,,,,,,,2014,2013-14,div1,Andrew,andrewcollege,zachlippincott2fa2,Zach Lippincott
+Mar 8,home,West Georgia Tech,W,5-4,5,4,1.0,win,20140308_mnhs,2,0,0,,,,1,,,,,1.0,win,20140308_mnhs,,,1,0,0,,,,,3,2014,2013-14,div1,Andrew,andrewcollege,zachlippincott2fa2,Zach Lippincott
+Mar 8,home,West Georgia Tech,W,10-1,10,1,9.0,win,20140308_pvhe,1,2,1,,1,,2,3,,,,9.0,win,20140308_pvhe,1,,,3,1,,,,,5,2014,2013-14,div1,Andrew,andrewcollege,zachlippincott2fa2,Zach Lippincott
+Mar 9,home,West Georgia Tech,W,16-13,16,13,3.0,win,20140309_yiiw,4,1,1,,,,2,1,,,,3.0,win,20140309_yiiw,,1,,1,0,,,,,6,2014,2013-14,div1,Andrew,andrewcollege,zachlippincott2fa2,Zach Lippincott
+Mar 11,home,Gordon State,L,7-3,7,3,4.0,win,20140311_05wr,3,1,0,,,,0,1,1,,,4.0,win,20140311_05wr,1,,,0,0,,,,,5,2014,2013-14,div1,Andrew,andrewcollege,zachlippincott2fa2,Zach Lippincott
+Mar 21,home,Georgia Highlands,L,15-6,15,6,9.0,win,20140321_gpuf,3,1,1,,,,0,2,,,,9.0,win,20140321_gpuf,,,,1,0,,,,,5,2014,2013-14,div1,Andrew,andrewcollege,zachlippincott2fa2,Zach Lippincott
+Mar 22,home,Georgia Highlands,L,6-1,6,1,5.0,win,20140322_nege,4,0,1,,,,0,,1,,,5.0,win,20140322_nege,,,,1,0,,,,,4,2014,2013-14,div1,Andrew,andrewcollege,zachlippincott2fa2,Zach Lippincott
+Mar 22,home,Georgia Highlands,W,4-2,4,2,2.0,win,20140322_jika,2,0,0,,,,0,,,,,2.0,win,20140322_jika,,,1,0,0,,,,,3,2014,2013-14,div1,Andrew,andrewcollege,zachlippincott2fa2,Zach Lippincott
+Mar 27,home,South Georgia State,L,8-2,8,2,6.0,win,20140327_6ott,4,0,1,,,,0,1,,,,6.0,win,20140327_6ott,,,,1,0,,,,,5,2014,2013-14,div1,Andrew,andrewcollege,zachlippincott2fa2,Zach Lippincott
+Mar 30,home,South Georgia State,L,8-2,8,2,6.0,win,20140330_tr6x,4,0,0,,,,0,,1,,,6.0,win,20140330_tr6x,,,,0,0,,,,,4,2014,2013-14,div1,Andrew,andrewcollege,zachlippincott2fa2,Zach Lippincott
+Mar 30,home,South Georgia State,L,8-2,8,2,6.0,win,20140330_tr6x,4,0,0,,,,0,,1,,,6.0,win,20140330_pdop,,,,0,0,,,,,4,2014,2013-14,div1,Andrew,andrewcollege,zachlippincott2fa2,Zach Lippincott
+Mar 30,home,South Georgia State,L,8-2,8,2,6.0,win,20140330_pdop,4,0,0,,,,1,,1,,,6.0,win,20140330_tr6x,,,,0,0,,,,,4,2014,2013-14,div1,Andrew,andrewcollege,zachlippincott2fa2,Zach Lippincott
+Mar 30,home,South Georgia State,L,8-2,8,2,6.0,win,20140330_pdop,4,0,0,,,,1,,1,,,6.0,win,20140330_pdop,,,,0,0,,,,,4,2014,2013-14,div1,Andrew,andrewcollege,zachlippincott2fa2,Zach Lippincott
+Apr 2,home,Georgia Perimeter,L,4-2,4,2,2.0,win,20140402_o1zx,4,1,0,,,,0,,1,,,2.0,win,20140402_o1zx,,,,0,0,,,,,4,2014,2013-14,div1,Andrew,andrewcollege,zachlippincott2fa2,Zach Lippincott
+Apr 9,home,Darton State,L,10-0,10,0,10.0,win,20140409_q93v,3,0,0,,,,0,,,,,10.0,win,20140409_q93v,,,,0,0,,,,,3,2014,2013-14,div1,Andrew,andrewcollege,zachlippincott2fa2,Zach Lippincott
+Apr 18,home,Middle Georgia State,,,,,4.0,win,,,,,,,,,,,,,4.0,win,,,,,,,,,,,,2014,2013-14,div1,Andrew,andrewcollege,zachlippincott2fa2,Zach Lippincott
+Apr 21,home,Middle Georgia State,L,4-0,4,0,4.0,win,20140421_k032,3,0,1,,,,0,,1,,,4.0,win,20140421_k032,,,,1,0,,,,,3,2014,2013-14,div1,Andrew,andrewcollege,zachlippincott2fa2,Zach Lippincott
+Apr 21,home,Middle Georgia State,L,5-2,5,2,3.0,win,20140421_cbwq,2,0,0,,,,0,1,,,,3.0,win,20140421_cbwq,,,,0,0,,,,,3,2014,2013-14,div1,Andrew,andrewcollege,zachlippincott2fa2,Zach Lippincott
+Apr 23,home,Abraham Baldwin,L,13-9,13,9,4.0,win,20140423_yu71,4,1,1,,,,1,1,,,,4.0,win,20140423_yu71,,,,1,0,,1,1,1.00,5,2014,2013-14,div1,Andrew,andrewcollege,zachlippincott2fa2,Zach Lippincott
+May 2,home,East Georgia State,,,,,3.0,win,,,,,,,,,,,,,3.0,win,,,,,,,,,,,,2014,2013-14,div1,Andrew,andrewcollege,zachlippincott2fa2,Zach Lippincott
+May 3,home,East Georgia State,W,3-1,3,1,2.0,win,20140503_agox,3,1,1,,,,1,,1,,,2.0,win,20140503_agox,,,,1,0,,,,,3,2014,2013-14,div1,Andrew,andrewcollege,zachlippincott2fa2,Zach Lippincott
+May 3,home,East Georgia State,L,12-5,12,5,7.0,win,20140503_myag,2,2,1,,,,0,1,,,,7.0,win,20140503_myag,1,,,1,0,,,,,4,2014,2013-14,div1,Andrew,andrewcollege,zachlippincott2fa2,Zach Lippincott

@@ -1,61 +1,25 @@
-date,location,opponent,result,score,team_score,opp_score,AB,R,H,2B,3B,HR,RBI,BB,K,SB,CS,HBP,SF,SH,TB,XBH,HDP,GO,FO,GO/FO,PA,season,njcaa_season,njcaa_division,team,team_id,player_id,player_name
-Jan 27,away,Chipola,L,4-2,4,4,4,0,0,,,,0,,1,,,,,,0,0,1,3,,,4,2018,2017-18,div1,Wallace-Dothan,wallacecommunitycollegedothan,tannerfrabott0nen,Tanner Frabott
-Jan 30,away,Andrew,L,12-11,12,12,5,0,2,,,,4,,,,,1,,,2,0,,,3,,6,2018,2017-18,div1,Wallace-Dothan,wallacecommunitycollegedothan,tannerfrabott0nen,Tanner Frabott
-Feb 6,home,Abraham Baldwin,W,5-4,5,5,2,1,1,,,,0,1,,,,,,,1,0,,1,,,3,2018,2017-18,div1,Wallace-Dothan,wallacecommunitycollegedothan,tannerfrabott0nen,Tanner Frabott
-Feb 6,home,Abraham Baldwin,W,16-3,16,16,4,2,3,,,2,5,,,1,,,,,9,2,,1,,,4,2018,2017-18,div1,Wallace-Dothan,wallacecommunitycollegedothan,tannerfrabott0nen,Tanner Frabott
-Feb 8,away,Chipola,W,4-3,4,4,5,1,1,,,,0,,1,,,,,,1,0,,2,1,2.00,5,2018,2017-18,div1,Wallace-Dothan,wallacecommunitycollegedothan,tannerfrabott0nen,Tanner Frabott
-Feb 14,away,Point University JV,W,6-3,6,6,5,0,0,,,,0,,,,,,,,0,0,,2,3,0.67,5,2018,2017-18,div1,Wallace-Dothan,wallacecommunitycollegedothan,tannerfrabott0nen,Tanner Frabott
-Feb 15,away,Thomas University JV,W,16-3,16,16,2,2,1,,,1,1,1,,,,1,,,4,1,,1,,,4,2018,2017-18,div1,Wallace-Dothan,wallacecommunitycollegedothan,tannerfrabott0nen,Tanner Frabott
-Feb 16,home,vs. Gordon State,L,5-2,5,5,3,0,0,,,,0,,2,,,,,,0,0,,1,,,3,2018,2017-18,div1,Wallace-Dothan,wallacecommunitycollegedothan,tannerfrabott0nen,Tanner Frabott
-Feb 16,home,vs. Columbia State,W,4-2,4,4,4,1,1,,,,0,,,,,,,,1,0,,2,1,2.00,4,2018,2017-18,div1,Wallace-Dothan,wallacecommunitycollegedothan,tannerfrabott0nen,Tanner Frabott
-Feb 17,home,Enterprise State,W,3-0,3,3,3,0,3,,,,1,,,,,1,,,3,0,,,,,4,2018,2017-18,div1,Wallace-Dothan,wallacecommunitycollegedothan,tannerfrabott0nen,Tanner Frabott
-Feb 20,away,Andrew,W,2-0,2,2,,,,,,,,,,,,,,,,,,,,,,2018,2017-18,div1,Wallace-Dothan,wallacecommunitycollegedothan,tannerfrabott0nen,Tanner Frabott
-Feb 23,home,Andrew,L,9-6,9,9,4,1,1,1,,,0,,,,,1,,,2,1,,,3,,5,2018,2017-18,div1,Wallace-Dothan,wallacecommunitycollegedothan,tannerfrabott0nen,Tanner Frabott
-Feb 24,away,Delgado,W,4-1,4,4,3,2,3,1,,,0,1,,,,,,,4,1,,,,,4,2018,2017-18,div1,Wallace-Dothan,wallacecommunitycollegedothan,tannerfrabott0nen,Tanner Frabott
-Feb 24,away,Pensacola State,L,7-2,7,7,3,0,0,,,,0,,2,,,,,,0,0,,,,,3,2018,2017-18,div1,Wallace-Dothan,wallacecommunitycollegedothan,tannerfrabott0nen,Tanner Frabott
-Feb 27,home,Gulf Coast State,L,6-0,6,6,4,0,0,,,,0,,3,,,,,,0,0,,1,,,4,2018,2017-18,div1,Wallace-Dothan,wallacecommunitycollegedothan,tannerfrabott0nen,Tanner Frabott
-Mar 1,away,Gulf Coast State,L,12-10,12,12,5,1,2,1,,,2,,,,,,,,3,1,,2,1,2.00,5,2018,2017-18,div1,Wallace-Dothan,wallacecommunitycollegedothan,tannerfrabott0nen,Tanner Frabott
-Mar 2,home,vs. Grand Rapids,W,17-11,17,17,1,0,0,,,,0,,1,,,,,,0,0,,,,,1,2018,2017-18,div1,Wallace-Dothan,wallacecommunitycollegedothan,tannerfrabott0nen,Tanner Frabott
-Mar 2,away,Chipola,L,6-4,6,6,2,0,1,,,,0,2,,,,,,,1,0,,1,,,4,2018,2017-18,div1,Wallace-Dothan,wallacecommunitycollegedothan,tannerfrabott0nen,Tanner Frabott
-Mar 5,home,Grand Rapids,W,13-1,13,13,4,1,3,,,,1,1,,,,,,,3,0,1,,1,,5,2018,2017-18,div1,Wallace-Dothan,wallacecommunitycollegedothan,tannerfrabott0nen,Tanner Frabott
-Mar 8,away,Chattahoochee Valley,L,4-0,4,4,3,0,1,,,,0,,2,,,,,,1,0,,,,,3,2018,2017-18,div1,Wallace-Dothan,wallacecommunitycollegedothan,tannerfrabott0nen,Tanner Frabott
-Mar 8,away,Chattahoochee Valley,L,9-0,9,9,,,,,,,,,,,,,,,,,,,,,,2018,2017-18,div1,Wallace-Dothan,wallacecommunitycollegedothan,tannerfrabott0nen,Tanner Frabott
-Mar 10,home,Chattahoochee Valley,W,8-6,8,8,1,1,1,,,,0,2,,,,,,,1,0,,,,,3,2018,2017-18,div1,Wallace-Dothan,wallacecommunitycollegedothan,tannerfrabott0nen,Tanner Frabott
-Mar 10,home,Chattahoochee Valley,L,7-5,7,7,4,1,2,1,,1,3,,1,,,,,,6,2,,,1,,4,2018,2017-18,div1,Wallace-Dothan,wallacecommunitycollegedothan,tannerfrabott0nen,Tanner Frabott
-Mar 13,away,Central Alabama,W,15-3,15,15,2,1,0,,,,0,1,,,,,,,0,0,,,1,,3,2018,2017-18,div1,Wallace-Dothan,wallacecommunitycollegedothan,tannerfrabott0nen,Tanner Frabott
-Mar 20,home,Thomas JV,W,18-2,18,18,1,2,1,,,1,1,1,,,,1,,,4,1,,,,,3,2018,2017-18,div1,Wallace-Dothan,wallacecommunitycollegedothan,tannerfrabott0nen,Tanner Frabott
-Mar 22,home,Wallace-Selma,W,3-0,3,3,2,0,0,,,,0,1,1,,,,,,0,0,,,1,,3,2018,2017-18,div1,Wallace-Dothan,wallacecommunitycollegedothan,tannerfrabott0nen,Tanner Frabott
-Mar 22,home,Wallace-Selma,W,6-0,6,6,2,1,1,,,1,2,1,,,,,,,4,1,,1,,,3,2018,2017-18,div1,Wallace-Dothan,wallacecommunitycollegedothan,tannerfrabott0nen,Tanner Frabott
-Mar 24,away,Wallace-Selma,W,4-0,4,4,3,0,1,,,,0,,2,,,,,,1,0,,,,,3,2018,2017-18,div1,Wallace-Dothan,wallacecommunitycollegedothan,tannerfrabott0nen,Tanner Frabott
-Mar 24,away,Wallace-Selma,W,15-3,15,15,1,3,1,,,1,2,1,,,,2,1,,4,1,,,1,,5,2018,2017-18,div1,Wallace-Dothan,wallacecommunitycollegedothan,tannerfrabott0nen,Tanner Frabott
-Mar 28,home,Lurleen B. Wallace,W,6-2,6,6,2,1,1,1,,,1,,,,,,,,2,1,,,1,,2,2018,2017-18,div1,Wallace-Dothan,wallacecommunitycollegedothan,tannerfrabott0nen,Tanner Frabott
-Mar 28,home,Lurleen B. Wallace,W,16-0,16,16,3,1,1,,,1,3,,1,,,1,,,4,1,,1,,,4,2018,2017-18,div1,Wallace-Dothan,wallacecommunitycollegedothan,tannerfrabott0nen,Tanner Frabott
-Mar 30,away,Lurleen B. Wallace,W,2-0,2,2,3,0,2,1,,,1,1,,,,,,,3,1,,1,,,4,2018,2017-18,div1,Wallace-Dothan,wallacecommunitycollegedothan,tannerfrabott0nen,Tanner Frabott
-Mar 30,away,Lurleen B. Wallace,W,9-3,9,9,5,0,2,,,,4,,1,,,,,,2,0,,,2,,5,2018,2017-18,div1,Wallace-Dothan,wallacecommunitycollegedothan,tannerfrabott0nen,Tanner Frabott
-Apr 3,home,Pensacola State,W,16-0,16,16,1,2,0,,,,0,1,,,,1,,,0,0,,,1,,3,2018,2017-18,div1,Wallace-Dothan,wallacecommunitycollegedothan,tannerfrabott0nen,Tanner Frabott
-Apr 5,home,Coastal Alabama - Brewton,W,4-2,4,4,2,1,1,,,1,2,,1,,,1,,,4,1,,,,,3,2018,2017-18,div1,Wallace-Dothan,wallacecommunitycollegedothan,tannerfrabott0nen,Tanner Frabott
-Apr 5,home,Coastal Alabama - Brewton,W,6-0,6,6,3,0,0,,,,0,,,,,,,,0,0,,,3,,3,2018,2017-18,div1,Wallace-Dothan,wallacecommunitycollegedothan,tannerfrabott0nen,Tanner Frabott
-Apr 6,away,Coastal Alabama - Brewton,W,12-0,12,12,4,1,2,1,,,3,,2,,,,,,3,1,,,,,4,2018,2017-18,div1,Wallace-Dothan,wallacecommunitycollegedothan,tannerfrabott0nen,Tanner Frabott
-Apr 6,away,Coastal Alabama - Brewton,W,12-2,12,12,4,2,3,1,,1,2,,,,,,,,7,2,,,1,,4,2018,2017-18,div1,Wallace-Dothan,wallacecommunitycollegedothan,tannerfrabott0nen,Tanner Frabott
-Apr 12,away,Bishop State,W,7-3,7,7,3,0,2,,,,1,,,1,,1,,,2,0,,1,,,4,2018,2017-18,div1,Wallace-Dothan,wallacecommunitycollegedothan,tannerfrabott0nen,Tanner Frabott
-Apr 12,away,Bishop State,L,4-3,4,4,2,1,0,,,,0,,2,,,,,,0,0,,,,,2,2018,2017-18,div1,Wallace-Dothan,wallacecommunitycollegedothan,tannerfrabott0nen,Tanner Frabott
-Apr 13,home,Bishop State,W,14-4,14,14,2,2,1,,,1,2,1,,,,,,,4,1,,,1,,3,2018,2017-18,div1,Wallace-Dothan,wallacecommunitycollegedothan,tannerfrabott0nen,Tanner Frabott
-Apr 13,home,Bishop State,W,8-1,8,8,3,0,0,,,,0,,1,,,1,,,0,0,,1,1,1.00,4,2018,2017-18,div1,Wallace-Dothan,wallacecommunitycollegedothan,tannerfrabott0nen,Tanner Frabott
-Apr 17,away,Abraham Baldwin,L,11-10,11,11,4,0,3,1,,,2,1,,,,,,,4,1,,,1,,5,2018,2017-18,div1,Wallace-Dothan,wallacecommunitycollegedothan,tannerfrabott0nen,Tanner Frabott
-Apr 19,home,vs. Coastal Alabama - Monroeville,W,11-3,11,11,4,0,0,,,,0,,2,,,1,,,0,0,,1,1,1.00,5,2018,2017-18,div1,Wallace-Dothan,wallacecommunitycollegedothan,tannerfrabott0nen,Tanner Frabott
-Apr 19,home,vs. Coastal Alabama - Monroeville,W,10-6,10,10,2,0,0,,,,0,,1,,,,,,0,0,,,1,,2,2018,2017-18,div1,Wallace-Dothan,wallacecommunitycollegedothan,tannerfrabott0nen,Tanner Frabott
-Apr 21,away,Coastal Alabama - Monroeville,L,8-7,8,8,4,2,3,,,1,2,,,,,,,,6,1,,,1,,4,2018,2017-18,div1,Wallace-Dothan,wallacecommunitycollegedothan,tannerfrabott0nen,Tanner Frabott
-Apr 21,away,Coastal Alabama - Monroeville,W,4-0,4,4,4,0,1,,,,0,,2,,,,,,1,0,,,1,,4,2018,2017-18,div1,Wallace-Dothan,wallacecommunitycollegedothan,tannerfrabott0nen,Tanner Frabott
-Apr 25,home,Coastal Alabama - Bay Minette,W,11-0,11,11,3,1,2,,,1,1,,3,,,,,,5,1,,1,,,3,2018,2017-18,div1,Wallace-Dothan,wallacecommunitycollegedothan,tannerfrabott0nen,Tanner Frabott
-Apr 25,home,Coastal Alabama - Bay Minette,W,8-3,8,8,4,2,3,,,1,2,,,,,,,,6,1,,1,,,4,2018,2017-18,div1,Wallace-Dothan,wallacecommunitycollegedothan,tannerfrabott0nen,Tanner Frabott
-Apr 28,away,Coastal Alabama - Bay Minette,W,12-1,12,12,2,0,1,,,,3,,,,,,2,2,1,0,,,2,,6,2018,2017-18,div1,Wallace-Dothan,wallacecommunitycollegedothan,tannerfrabott0nen,Tanner Frabott
-Apr 28,away,Coastal Alabama - Bay Minette,W,5-1,5,5,3,1,2,,,,0,1,,,,,,,2,0,,,1,,4,2018,2017-18,div1,Wallace-Dothan,wallacecommunitycollegedothan,tannerfrabott0nen,Tanner Frabott
-May 3,away,Enterprise State,L,4-1,4,4,3,0,0,,,,0,,,,,,,,0,0,,,3,,3,2018,2017-18,div1,Wallace-Dothan,wallacecommunitycollegedothan,tannerfrabott0nen,Tanner Frabott
-May 3,away,Enterprise State,L,6-3,6,6,4,1,1,,,1,1,,1,,,,,,4,1,1,1,1,1.00,4,2018,2017-18,div1,Wallace-Dothan,wallacecommunitycollegedothan,tannerfrabott0nen,Tanner Frabott
-May 4,home,Enterprise State,W,3-0,3,3,3,0,0,,,,0,,1,,,,,,0,0,1,1,1,1.00,3,2018,2017-18,div1,Wallace-Dothan,wallacecommunitycollegedothan,tannerfrabott0nen,Tanner Frabott
-May 4,home,Enterprise State,W,2-0,2,2,1,0,0,,,,0,2,,,,,,,0,0,,,1,,3,2018,2017-18,div1,Wallace-Dothan,wallacecommunitycollegedothan,tannerfrabott0nen,Tanner Frabott
-May 5,home,vs. St. Johns River State,W,5-4,5,5,5,0,1,,,,1,,1,,,,,,1,0,,,,,5,2018,2017-18,div1,Wallace-Dothan,wallacecommunitycollegedothan,tannerfrabott0nen,Tanner Frabott
-May 11,home,Southern Union State,W,12-4,12,12,4,2,2,,,2,5,,,,,,,,8,2,,,,,4,2018,2017-18,div1,Wallace-Dothan,wallacecommunitycollegedothan,tannerfrabott0nen,Tanner Frabott
-May 12,home,Wallace State,W,8-0,8,8,3,2,1,,,,0,1,1,,,,,,1,0,,,,,4,2018,2017-18,div1,Wallace-Dothan,wallacecommunitycollegedothan,tannerfrabott0nen,Tanner Frabott
-May 13,home,vs. Chattahoochee Valley,L,18-2,18,18,2,0,0,,,,0,1,,,,,,,0,0,,,,,3,2018,2017-18,div1,Wallace-Dothan,wallacecommunitycollegedothan,tannerfrabott0nen,Tanner Frabott
-May 14,away,Wallace State,L,11-1,11,11,3,0,2,1,,,1,,1,,,,,,3,1,,,,,3,2018,2017-18,div1,Wallace-Dothan,wallacecommunitycollegedothan,tannerfrabott0nen,Tanner Frabott
+date,location,opponent,result,score,team_score,opp_score,game_score_diff_x,game_win_loss_x,game_id_x,AB,R,H,2B,3B,HR,RBI,BB,K,SB,CS,game_score_diff_y,game_win_loss_y,game_id_y,HBP,SF,SH,TB,XBH,HDP,GO,FO,GO/FO,PA,season,njcaa_season,njcaa_division,team,team_id,player_id,player_name
+Feb 6,home,Abraham Baldwin,W,5-4,5,4,1.0,win,20180206_lb5v,2,1,1,,,,0,1,,,,1.0,win,20180206_lb5v,,,,1,0,,1,,,3,2018,2017-18,div1,Wallace-Dothan,wallacecommunitycollegedothan,tannerfrabott0nen,Tanner Frabott
+Feb 6,home,Abraham Baldwin,W,16-3,16,3,13.0,win,20180206_tjt5,4,2,3,,,2,5,,,1,,13.0,win,20180206_tjt5,,,,9,2,,1,,,4,2018,2017-18,div1,Wallace-Dothan,wallacecommunitycollegedothan,tannerfrabott0nen,Tanner Frabott
+Feb 17,home,Enterprise State,W,3-0,3,0,3.0,win,20180217_m8vq,3,0,3,,,,1,,,,,3.0,win,20180217_m8vq,1,,,3,0,,,,,4,2018,2017-18,div1,Wallace-Dothan,wallacecommunitycollegedothan,tannerfrabott0nen,Tanner Frabott
+Feb 23,home,Andrew,L,9-6,9,6,3.0,win,20180223_ndjs,4,1,1,1,,,0,,,,,3.0,win,20180223_ndjs,1,,,2,1,,,3,,5,2018,2017-18,div1,Wallace-Dothan,wallacecommunitycollegedothan,tannerfrabott0nen,Tanner Frabott
+Feb 27,home,Gulf Coast State,L,6-0,6,0,6.0,win,20180227_978b,4,0,0,,,,0,,3,,,6.0,win,20180227_978b,,,,0,0,,1,,,4,2018,2017-18,div1,Wallace-Dothan,wallacecommunitycollegedothan,tannerfrabott0nen,Tanner Frabott
+Mar 5,home,Grand Rapids,W,13-1,13,1,12.0,win,20180305_adpb,4,1,3,,,,1,1,,,,12.0,win,20180305_adpb,,,,3,0,1,,1,,5,2018,2017-18,div1,Wallace-Dothan,wallacecommunitycollegedothan,tannerfrabott0nen,Tanner Frabott
+Mar 10,home,Chattahoochee Valley,W,8-6,8,6,2.0,win,20180310_r44d,1,1,1,,,,0,2,,,,2.0,win,20180310_r44d,,,,1,0,,,,,3,2018,2017-18,div1,Wallace-Dothan,wallacecommunitycollegedothan,tannerfrabott0nen,Tanner Frabott
+Mar 10,home,Chattahoochee Valley,L,7-5,7,5,2.0,win,20180310_m2fy,4,1,2,1,,1,3,,1,,,2.0,win,20180310_m2fy,,,,6,2,,,1,,4,2018,2017-18,div1,Wallace-Dothan,wallacecommunitycollegedothan,tannerfrabott0nen,Tanner Frabott
+Mar 20,home,Thomas JV,W,18-2,18,2,16.0,win,20180320_90rk,1,2,1,,,1,1,1,,,,16.0,win,20180320_90rk,1,,,4,1,,,,,3,2018,2017-18,div1,Wallace-Dothan,wallacecommunitycollegedothan,tannerfrabott0nen,Tanner Frabott
+Mar 22,home,Wallace-Selma,W,3-0,3,0,3.0,win,20180322_pqzv,2,0,0,,,,0,1,1,,,3.0,win,20180322_pqzv,,,,0,0,,,1,,3,2018,2017-18,div1,Wallace-Dothan,wallacecommunitycollegedothan,tannerfrabott0nen,Tanner Frabott
+Mar 22,home,Wallace-Selma,W,6-0,6,0,6.0,win,20180322_2wom,2,1,1,,,1,2,1,,,,6.0,win,20180322_2wom,,,,4,1,,1,,,3,2018,2017-18,div1,Wallace-Dothan,wallacecommunitycollegedothan,tannerfrabott0nen,Tanner Frabott
+Mar 28,home,Lurleen B. Wallace,W,6-2,6,2,4.0,win,20180328_75kp,2,1,1,1,,,1,,,,,4.0,win,20180328_75kp,,,,2,1,,,1,,2,2018,2017-18,div1,Wallace-Dothan,wallacecommunitycollegedothan,tannerfrabott0nen,Tanner Frabott
+Mar 28,home,Lurleen B. Wallace,W,16-0,16,0,16.0,win,20180328_x8t5,3,1,1,,,1,3,,1,,,16.0,win,20180328_x8t5,1,,,4,1,,1,,,4,2018,2017-18,div1,Wallace-Dothan,wallacecommunitycollegedothan,tannerfrabott0nen,Tanner Frabott
+Apr 3,home,Pensacola State,W,16-0,16,0,16.0,win,20180403_ufwc,1,2,0,,,,0,1,,,,16.0,win,20180403_ufwc,1,,,0,0,,,1,,3,2018,2017-18,div1,Wallace-Dothan,wallacecommunitycollegedothan,tannerfrabott0nen,Tanner Frabott
+Apr 5,home,Coastal Alabama - Brewton,W,4-2,4,2,2.0,win,20180405_41xj,2,1,1,,,1,2,,1,,,2.0,win,20180405_41xj,1,,,4,1,,,,,3,2018,2017-18,div1,Wallace-Dothan,wallacecommunitycollegedothan,tannerfrabott0nen,Tanner Frabott
+Apr 5,home,Coastal Alabama - Brewton,W,6-0,6,0,6.0,win,20180405_7fmm,3,0,0,,,,0,,,,,6.0,win,20180405_7fmm,,,,0,0,,,3,,3,2018,2017-18,div1,Wallace-Dothan,wallacecommunitycollegedothan,tannerfrabott0nen,Tanner Frabott
+Apr 13,home,Bishop State,W,14-4,14,4,10.0,win,20180413_mota,2,2,1,,,1,2,1,,,,10.0,win,20180413_mota,,,,4,1,,,1,,3,2018,2017-18,div1,Wallace-Dothan,wallacecommunitycollegedothan,tannerfrabott0nen,Tanner Frabott
+Apr 13,home,Bishop State,W,8-1,8,1,7.0,win,20180413_ax6o,3,0,0,,,,0,,1,,,7.0,win,20180413_ax6o,1,,,0,0,,1,1,1.00,4,2018,2017-18,div1,Wallace-Dothan,wallacecommunitycollegedothan,tannerfrabott0nen,Tanner Frabott
+Apr 25,home,Coastal Alabama - Bay Minette,W,11-0,11,0,11.0,win,20180425_x2pl,3,1,2,,,1,1,,3,,,11.0,win,20180425_x2pl,,,,5,1,,1,,,3,2018,2017-18,div1,Wallace-Dothan,wallacecommunitycollegedothan,tannerfrabott0nen,Tanner Frabott
+Apr 25,home,Coastal Alabama - Bay Minette,W,8-3,8,3,5.0,win,20180425_blq0,4,2,3,,,1,2,,,,,5.0,win,20180425_blq0,,,,6,1,,1,,,4,2018,2017-18,div1,Wallace-Dothan,wallacecommunitycollegedothan,tannerfrabott0nen,Tanner Frabott
+May 4,home,Enterprise State,W,3-0,3,0,3.0,win,20180504_4jpd,3,0,0,,,,0,,1,,,3.0,win,20180504_4jpd,,,,0,0,1,1,1,1.00,3,2018,2017-18,div1,Wallace-Dothan,wallacecommunitycollegedothan,tannerfrabott0nen,Tanner Frabott
+May 4,home,Enterprise State,W,2-0,2,0,2.0,win,20180504_fhwx,1,0,0,,,,0,2,,,,2.0,win,20180504_fhwx,,,,0,0,,,1,,3,2018,2017-18,div1,Wallace-Dothan,wallacecommunitycollegedothan,tannerfrabott0nen,Tanner Frabott
+May 11,home,Southern Union State,W,12-4,12,4,8.0,win,20180511_xdf7,4,2,2,,,2,5,,,,,8.0,win,20180511_xdf7,,,,8,2,,,,,4,2018,2017-18,div1,Wallace-Dothan,wallacecommunitycollegedothan,tannerfrabott0nen,Tanner Frabott
+May 12,home,Wallace State,W,8-0,8,0,8.0,win,20180512_41s7,3,2,1,,,,0,1,1,,,8.0,win,20180512_41s7,,,,1,0,,,,,4,2018,2017-18,div1,Wallace-Dothan,wallacecommunitycollegedothan,tannerfrabott0nen,Tanner Frabott
