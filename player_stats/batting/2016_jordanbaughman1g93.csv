@@ -1,58 +1,27 @@
-date,location,opponent,result,score,team_score,opp_score,AB,R,H,2B,3B,HR,RBI,BB,K,SB,CS,HBP,SF,SH,TB,XBH,HDP,GO,FO,GO/FO,PA,season,njcaa_season,njcaa_division,team,team_id,player_id,player_name
-Feb 6,away,Redlands,W,5-4,5,5,,,,,,,,,,,,,,,,,,,,,,2016,2015-16,div1,Independence,independencecommunitycollege,jordanbaughman1g93,Jordan Baughman
-Feb 6,away,Redlands,L,2-1,2,2,,,,,,,,,,,,,,,,,,,,,,2016,2015-16,div1,Independence,independencecommunitycollege,jordanbaughman1g93,Jordan Baughman
-Feb 9,home,vs. Redlands,L,4-3,4,4,,,,,,,,,,,,,,,,,,,,,,2016,2015-16,div1,Independence,independencecommunitycollege,jordanbaughman1g93,Jordan Baughman
-Feb 9,home,vs. Redlands,L,10-3,10,10,,,,,,,,,,,,,,,,,,,,,,2016,2015-16,div1,Independence,independencecommunitycollege,jordanbaughman1g93,Jordan Baughman
-Feb 11,away,Eastern Oklahoma State,L,5-4,5,5,0,0,0,,,,0,,,,,,,,0,0,,,,,0,2016,2015-16,div1,Independence,independencecommunitycollege,jordanbaughman1g93,Jordan Baughman
-Feb 11,away,Eastern Oklahoma State,L,7-0,7,7,,,,,,,,,,,,,,,,,,,,,,2016,2015-16,div1,Independence,independencecommunitycollege,jordanbaughman1g93,Jordan Baughman
-Feb 12,home,Hesston,W,10-0,10,10,,,,,,,,,,,,,,,,,,,,,,2016,2015-16,div1,Independence,independencecommunitycollege,jordanbaughman1g93,Jordan Baughman
-Feb 12,home,Hesston,L,11-10,11,11,,,,,,,,,,,,,,,,,,,,,,2016,2015-16,div1,Independence,independencecommunitycollege,jordanbaughman1g93,Jordan Baughman
-Feb 16,away,Crowder,W,11-2,11,11,,,,,,,,,,,,,,,,,,,,,,2016,2015-16,div1,Independence,independencecommunitycollege,jordanbaughman1g93,Jordan Baughman
-Feb 20,away,Northern Oklahoma Tonkawa,L,10-4,10,10,,,,,,,,,,,,,,,,,,,,,,2016,2015-16,div1,Independence,independencecommunitycollege,jordanbaughman1g93,Jordan Baughman
-Feb 20,away,Northern Oklahoma Tonkawa,W,5-4,5,5,,,,,,,,,,,,,,,,,,,,,,2016,2015-16,div1,Independence,independencecommunitycollege,jordanbaughman1g93,Jordan Baughman
-Feb 24,home,vs. Carl Albert State,W,15-10,15,15,1,0,1,1,,,0,,,,,,,,2,1,,,,,1,2016,2015-16,div1,Independence,independencecommunitycollege,jordanbaughman1g93,Jordan Baughman
-Feb 27,home,Southeastern,W,4-1,4,4,4,0,1,,,,0,,1,,,,,,1,0,,,,,4,2016,2015-16,div1,Independence,independencecommunitycollege,jordanbaughman1g93,Jordan Baughman
-Feb 27,home,Southeastern,W,12-6,12,12,4,1,0,,,,1,,1,,,,,,0,0,,,,,4,2016,2015-16,div1,Independence,independencecommunitycollege,jordanbaughman1g93,Jordan Baughman
-Feb 28,home,Southeastern,W,17-15,17,17,5,4,4,,,,0,,,1,,1,,,4,0,,,,,6,2016,2015-16,div1,Independence,independencecommunitycollege,jordanbaughman1g93,Jordan Baughman
-Mar 1,home,Northern Oklahoma Tonkawa,W,11-10,11,11,2,0,0,,,,0,,,,,,,,0,0,,,,,2,2016,2015-16,div1,Independence,independencecommunitycollege,jordanbaughman1g93,Jordan Baughman
-Mar 3,away,Highland (KS),L,5-4,5,5,4,0,2,,,,1,,1,,,,,,2,0,,,,,4,2016,2015-16,div1,Independence,independencecommunitycollege,jordanbaughman1g93,Jordan Baughman
-Mar 3,away,Highland (KS),W,10-8,10,10,5,0,3,,,,0,,1,,,,,,3,0,,,,,5,2016,2015-16,div1,Independence,independencecommunitycollege,jordanbaughman1g93,Jordan Baughman
-Mar 5,home,Highland (KS),W,15-1,15,15,4,2,1,,,,2,,1,,,,,,1,0,,,,,4,2016,2015-16,div1,Independence,independencecommunitycollege,jordanbaughman1g93,Jordan Baughman
-Mar 5,home,Highland (KS),W,13-2,13,13,4,0,0,,,,0,,3,,,,,,0,0,,,,,4,2016,2015-16,div1,Independence,independencecommunitycollege,jordanbaughman1g93,Jordan Baughman
-Mar 10,away,Allen County,W,10-9,10,10,3,2,2,,,,0,1,,1,,,,,2,0,,,,,4,2016,2015-16,div1,Independence,independencecommunitycollege,jordanbaughman1g93,Jordan Baughman
-Mar 10,away,Allen County,L,17-16,17,17,6,1,1,,,1,1,,2,,,,,1,4,1,,,,,7,2016,2015-16,div1,Independence,independencecommunitycollege,jordanbaughman1g93,Jordan Baughman
-Mar 12,home,Allen County,L,3-2,3,3,2,0,0,,,,0,,1,,,,,1,0,0,,,,,3,2016,2015-16,div1,Independence,independencecommunitycollege,jordanbaughman1g93,Jordan Baughman
-Mar 12,home,Allen County,L,7-4,7,7,,,,,,,,,,,,,,,,,,,,,,2016,2015-16,div1,Independence,independencecommunitycollege,jordanbaughman1g93,Jordan Baughman
-Mar 17,home,Fort Scott,L,2-1,2,2,2,1,1,,,,0,,,,,1,,,1,0,,,,,3,2016,2015-16,div1,Independence,independencecommunitycollege,jordanbaughman1g93,Jordan Baughman
-Mar 17,home,Fort Scott,W,10-9,10,10,5,0,1,,,,0,,2,,,,,,1,0,,,,,5,2016,2015-16,div1,Independence,independencecommunitycollege,jordanbaughman1g93,Jordan Baughman
-Mar 19,away,Fort Scott,L,8-2,8,8,3,0,1,,,,0,,,,,,,,1,0,,,,,3,2016,2015-16,div1,Independence,independencecommunitycollege,jordanbaughman1g93,Jordan Baughman
-Mar 19,away,Fort Scott,L,14-12,14,14,5,1,2,,,,1,,,,,,,,2,0,,,,,5,2016,2015-16,div1,Independence,independencecommunitycollege,jordanbaughman1g93,Jordan Baughman
-Mar 22,home,Northern Oklahoma Tonkawa,L,20-15,20,20,,,,,,,,,,,,,,,,,,,,,,2016,2015-16,div1,Independence,independencecommunitycollege,jordanbaughman1g93,Jordan Baughman
-Mar 24,home,Kansas City Kansas,W,4-3,4,4,4,0,1,,,,0,,2,,,,,,1,0,,,,,4,2016,2015-16,div1,Independence,independencecommunitycollege,jordanbaughman1g93,Jordan Baughman
-Mar 24,home,Kansas City Kansas,L,12-10,12,12,4,1,1,,,,0,,,,,,,,1,0,,,,,4,2016,2015-16,div1,Independence,independencecommunitycollege,jordanbaughman1g93,Jordan Baughman
-Mar 25,away,Kansas City Kansas,L,10-5,10,10,2,0,0,,,,0,1,,,,,,,0,0,,,,,3,2016,2015-16,div1,Independence,independencecommunitycollege,jordanbaughman1g93,Jordan Baughman
-Mar 25,away,Kansas City Kansas,W,8-5,8,8,3,2,0,,,,0,,,,,1,,,0,0,,,,,4,2016,2015-16,div1,Independence,independencecommunitycollege,jordanbaughman1g93,Jordan Baughman
-Mar 31,away,Johnson County,L,6-3,6,6,3,0,1,,,,0,,,,,,,,1,0,,,,,3,2016,2015-16,div1,Independence,independencecommunitycollege,jordanbaughman1g93,Jordan Baughman
-Mar 31,away,Johnson County,L,9-2,9,9,3,0,1,,,,0,,1,,,,,,1,0,,,,,3,2016,2015-16,div1,Independence,independencecommunitycollege,jordanbaughman1g93,Jordan Baughman
-Apr 2,home,Johnson County,L,9-7,9,9,3,0,1,,,,2,1,2,,,,,,1,0,,,,,4,2016,2015-16,div1,Independence,independencecommunitycollege,jordanbaughman1g93,Jordan Baughman
-Apr 2,home,Johnson County,W,10-9,10,10,6,0,2,,,,2,,2,,,,,,2,0,,,,,6,2016,2015-16,div1,Independence,independencecommunitycollege,jordanbaughman1g93,Jordan Baughman
-Apr 5,home,Eastern Oklahoma State,L,16-6,16,16,,,,,,,,,,,,,,,,,,,,,,2016,2015-16,div1,Independence,independencecommunitycollege,jordanbaughman1g93,Jordan Baughman
-Apr 7,home,Cowley,W,3-2,3,3,2,0,0,,,,0,,,,,,,,0,0,,,,,2,2016,2015-16,div1,Independence,independencecommunitycollege,jordanbaughman1g93,Jordan Baughman
-Apr 7,home,Cowley,W,13-3,13,13,3,1,1,,,,2,,1,1,,1,,,1,0,,,,,4,2016,2015-16,div1,Independence,independencecommunitycollege,jordanbaughman1g93,Jordan Baughman
-Apr 9,away,Cowley,L,5-0,5,5,2,0,0,,,,0,,,,,,,,0,0,,,,,2,2016,2015-16,div1,Independence,independencecommunitycollege,jordanbaughman1g93,Jordan Baughman
-Apr 9,away,Cowley,L,16-0,16,16,3,0,0,,,,0,,1,,,,,,0,0,,,,,3,2016,2015-16,div1,Independence,independencecommunitycollege,jordanbaughman1g93,Jordan Baughman
-Apr 14,away,Coffeyville,L,6-4,6,6,2,1,1,,,1,1,1,,,1,,,,4,1,,,,,3,2016,2015-16,div1,Independence,independencecommunitycollege,jordanbaughman1g93,Jordan Baughman
-Apr 14,away,Coffeyville,W,15-6,15,15,4,1,1,,,,1,1,1,,,,,,1,0,,,,,5,2016,2015-16,div1,Independence,independencecommunitycollege,jordanbaughman1g93,Jordan Baughman
-Apr 16,home,Coffeyville,W,9-0,9,9,3,0,1,1,,,2,,1,,,,,,2,1,,,,,3,2016,2015-16,div1,Independence,independencecommunitycollege,jordanbaughman1g93,Jordan Baughman
-Apr 16,home,Coffeyville,L,9-7,9,9,5,0,0,,,,0,,1,1,,,,,0,0,,,,,5,2016,2015-16,div1,Independence,independencecommunitycollege,jordanbaughman1g93,Jordan Baughman
-Apr 21,away,Neosho County,L,15-5,15,15,2,0,1,,,,0,,,,,,,,1,0,,,,,2,2016,2015-16,div1,Independence,independencecommunitycollege,jordanbaughman1g93,Jordan Baughman
-Apr 21,away,Neosho County,L,17-0,17,17,2,0,0,,,,0,,,,,,,,0,0,,,,,2,2016,2015-16,div1,Independence,independencecommunitycollege,jordanbaughman1g93,Jordan Baughman
-Apr 23,home,Neosho County,W,7-4,7,7,2,0,2,,,,0,,,,,,,1,2,0,,,,,3,2016,2015-16,div1,Independence,independencecommunitycollege,jordanbaughman1g93,Jordan Baughman
-Apr 23,home,Neosho County,L,12-9,12,12,4,2,2,,,,0,1,1,,,,,,2,0,,,,,5,2016,2015-16,div1,Independence,independencecommunitycollege,jordanbaughman1g93,Jordan Baughman
-Apr 28,home,Labette,W,8-7,8,8,3,0,0,,,,0,,1,,,,,,0,0,,,,,3,2016,2015-16,div1,Independence,independencecommunitycollege,jordanbaughman1g93,Jordan Baughman
-Apr 28,home,Labette,W,17-8,17,17,5,1,1,,,,1,,3,1,,,,,1,0,,,,,5,2016,2015-16,div1,Independence,independencecommunitycollege,jordanbaughman1g93,Jordan Baughman
-May 1,away,Labette,W,16-5,16,16,,,,,,,,,,,,,,,,,,,,,,2016,2015-16,div1,Independence,independencecommunitycollege,jordanbaughman1g93,Jordan Baughman
-May 1,away,Labette,W,11-7,11,11,,,,,,,,,,,,,,,,,,,,,,2016,2015-16,div1,Independence,independencecommunitycollege,jordanbaughman1g93,Jordan Baughman
-May 7,away,Hutchinson,L,23-5,23,23,3,0,2,2,,,3,,,,,,,,4,2,,,1,,3,2016,2015-16,div1,Independence,independencecommunitycollege,jordanbaughman1g93,Jordan Baughman
-May 7,away,Hutchinson,W,17-16,17,17,4,1,1,,,,2,1,,,,,,,1,0,,1,1,1.00,5,2016,2015-16,div1,Independence,independencecommunitycollege,jordanbaughman1g93,Jordan Baughman
-May 8,away,Hutchinson,L,16-14,16,16,5,1,1,1,,,0,,2,,,,,,2,1,,,2,,5,2016,2015-16,div1,Independence,independencecommunitycollege,jordanbaughman1g93,Jordan Baughman
+date,location,opponent,result,score,team_score,opp_score,game_score_diff_x,game_win_loss_x,game_id_x,AB,R,H,2B,3B,HR,RBI,BB,K,SB,CS,game_score_diff_y,game_win_loss_y,game_id_y,HBP,SF,SH,TB,XBH,HDP,GO,FO,GO/FO,PA,season,njcaa_season,njcaa_division,team,team_id,player_id,player_name
+Feb 12,home,Hesston,W,10-0,10,0,10.0,win,,,,,,,,,,,,,10.0,win,,,,,,,,,,,,2016,2015-16,div1,Independence,independencecommunitycollege,jordanbaughman1g93,Jordan Baughman
+Feb 12,home,Hesston,L,11-10,11,10,1.0,win,,,,,,,,,,,,,1.0,win,,,,,,,,,,,,2016,2015-16,div1,Independence,independencecommunitycollege,jordanbaughman1g93,Jordan Baughman
+Feb 27,home,Southeastern,W,4-1,4,1,3.0,win,20160227_j5ah,4,0,1,,,,0,,1,,,3.0,win,20160227_j5ah,,,,1,0,,,,,4,2016,2015-16,div1,Independence,independencecommunitycollege,jordanbaughman1g93,Jordan Baughman
+Feb 27,home,Southeastern,W,12-6,12,6,6.0,win,20160227_4iup,4,1,0,,,,1,,1,,,6.0,win,20160227_4iup,,,,0,0,,,,,4,2016,2015-16,div1,Independence,independencecommunitycollege,jordanbaughman1g93,Jordan Baughman
+Feb 28,home,Southeastern,W,17-15,17,15,2.0,win,20160228_962o,5,4,4,,,,0,,,1,,2.0,win,20160228_962o,1,,,4,0,,,,,6,2016,2015-16,div1,Independence,independencecommunitycollege,jordanbaughman1g93,Jordan Baughman
+Mar 1,home,Northern Oklahoma Tonkawa,W,11-10,11,10,1.0,win,20160301_0ib0,2,0,0,,,,0,,,,,1.0,win,20160301_0ib0,,,,0,0,,,,,2,2016,2015-16,div1,Independence,independencecommunitycollege,jordanbaughman1g93,Jordan Baughman
+Mar 5,home,Highland (KS),W,15-1,15,1,14.0,win,20160305_l800,4,2,1,,,,2,,1,,,14.0,win,20160305_l800,,,,1,0,,,,,4,2016,2015-16,div1,Independence,independencecommunitycollege,jordanbaughman1g93,Jordan Baughman
+Mar 5,home,Highland (KS),W,13-2,13,2,11.0,win,20160305_e2a2,4,0,0,,,,0,,3,,,11.0,win,20160305_e2a2,,,,0,0,,,,,4,2016,2015-16,div1,Independence,independencecommunitycollege,jordanbaughman1g93,Jordan Baughman
+Mar 12,home,Allen County,L,3-2,3,2,1.0,win,20160312_lc1s,2,0,0,,,,0,,1,,,1.0,win,20160312_lc1s,,,1,0,0,,,,,3,2016,2015-16,div1,Independence,independencecommunitycollege,jordanbaughman1g93,Jordan Baughman
+Mar 12,home,Allen County,L,7-4,7,4,3.0,win,,,,,,,,,,,,,3.0,win,,,,,,,,,,,,2016,2015-16,div1,Independence,independencecommunitycollege,jordanbaughman1g93,Jordan Baughman
+Mar 17,home,Fort Scott,L,2-1,2,1,1.0,win,20160317_o4te,2,1,1,,,,0,,,,,1.0,win,20160317_o4te,1,,,1,0,,,,,3,2016,2015-16,div1,Independence,independencecommunitycollege,jordanbaughman1g93,Jordan Baughman
+Mar 17,home,Fort Scott,W,10-9,10,9,1.0,win,20160317_8mvr,5,0,1,,,,0,,2,,,1.0,win,20160317_8mvr,,,,1,0,,,,,5,2016,2015-16,div1,Independence,independencecommunitycollege,jordanbaughman1g93,Jordan Baughman
+Mar 22,home,Northern Oklahoma Tonkawa,L,20-15,20,15,5.0,win,,,,,,,,,,,,,5.0,win,,,,,,,,,,,,2016,2015-16,div1,Independence,independencecommunitycollege,jordanbaughman1g93,Jordan Baughman
+Mar 24,home,Kansas City Kansas,W,4-3,4,3,1.0,win,20160324_n0zp,4,0,1,,,,0,,2,,,1.0,win,20160324_n0zp,,,,1,0,,,,,4,2016,2015-16,div1,Independence,independencecommunitycollege,jordanbaughman1g93,Jordan Baughman
+Mar 24,home,Kansas City Kansas,L,12-10,12,10,2.0,win,20160324_a1uk,4,1,1,,,,0,,,,,2.0,win,20160324_a1uk,,,,1,0,,,,,4,2016,2015-16,div1,Independence,independencecommunitycollege,jordanbaughman1g93,Jordan Baughman
+Apr 2,home,Johnson County,L,9-7,9,7,2.0,win,20160402_7poj,3,0,1,,,,2,1,2,,,2.0,win,20160402_7poj,,,,1,0,,,,,4,2016,2015-16,div1,Independence,independencecommunitycollege,jordanbaughman1g93,Jordan Baughman
+Apr 2,home,Johnson County,W,10-9,10,9,1.0,win,20160402_kr94,6,0,2,,,,2,,2,,,1.0,win,20160402_kr94,,,,2,0,,,,,6,2016,2015-16,div1,Independence,independencecommunitycollege,jordanbaughman1g93,Jordan Baughman
+Apr 5,home,Eastern Oklahoma State,L,16-6,16,6,10.0,win,,,,,,,,,,,,,10.0,win,,,,,,,,,,,,2016,2015-16,div1,Independence,independencecommunitycollege,jordanbaughman1g93,Jordan Baughman
+Apr 7,home,Cowley,W,3-2,3,2,1.0,win,20160407_3vqi,2,0,0,,,,0,,,,,1.0,win,20160407_3vqi,,,,0,0,,,,,2,2016,2015-16,div1,Independence,independencecommunitycollege,jordanbaughman1g93,Jordan Baughman
+Apr 7,home,Cowley,W,13-3,13,3,10.0,win,20160407_vpso,3,1,1,,,,2,,1,1,,10.0,win,20160407_vpso,1,,,1,0,,,,,4,2016,2015-16,div1,Independence,independencecommunitycollege,jordanbaughman1g93,Jordan Baughman
+Apr 16,home,Coffeyville,W,9-0,9,0,9.0,win,20160416_gaxt,3,0,1,1,,,2,,1,,,9.0,win,20160416_gaxt,,,,2,1,,,,,3,2016,2015-16,div1,Independence,independencecommunitycollege,jordanbaughman1g93,Jordan Baughman
+Apr 16,home,Coffeyville,L,9-7,9,7,2.0,win,20160416_usvq,5,0,0,,,,0,,1,1,,2.0,win,20160416_usvq,,,,0,0,,,,,5,2016,2015-16,div1,Independence,independencecommunitycollege,jordanbaughman1g93,Jordan Baughman
+Apr 23,home,Neosho County,W,7-4,7,4,3.0,win,20160423_c8nt,2,0,2,,,,0,,,,,3.0,win,20160423_c8nt,,,1,2,0,,,,,3,2016,2015-16,div1,Independence,independencecommunitycollege,jordanbaughman1g93,Jordan Baughman
+Apr 23,home,Neosho County,L,12-9,12,9,3.0,win,20160423_yi7g,4,2,2,,,,0,1,1,,,3.0,win,20160423_yi7g,,,,2,0,,,,,5,2016,2015-16,div1,Independence,independencecommunitycollege,jordanbaughman1g93,Jordan Baughman
+Apr 28,home,Labette,W,8-7,8,7,1.0,win,20160428_85lx,3,0,0,,,,0,,1,,,1.0,win,20160428_85lx,,,,0,0,,,,,3,2016,2015-16,div1,Independence,independencecommunitycollege,jordanbaughman1g93,Jordan Baughman
+Apr 28,home,Labette,W,17-8,17,8,9.0,win,20160428_j4vx,5,1,1,,,,1,,3,1,,9.0,win,20160428_j4vx,,,,1,0,,,,,5,2016,2015-16,div1,Independence,independencecommunitycollege,jordanbaughman1g93,Jordan Baughman

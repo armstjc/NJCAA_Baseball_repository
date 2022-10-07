@@ -1,57 +1,26 @@
-date,location,opponent,result,score,team_score,opp_score,AB,R,H,2B,3B,HR,RBI,BB,K,SB,CS,HBP,SF,SH,TB,XBH,HDP,GO,FO,GO/FO,PA,season,njcaa_season,njcaa_division,team,team_id,player_id,player_name
-Feb 6,home,Indian Hills,W,11-8,11,11,,,,,,,,,,,,,,,,,,,,,,2015,2014-15,div1,Garden City,gardencitycommunitycollege,michaeldziurgotzh9m,Michael Dziurgot
-Feb 6,home,Indian Hills,W,13-3,13,13,,,,,,,,,,,,,,,,,,,,,,2015,2014-15,div1,Garden City,gardencitycommunitycollege,michaeldziurgotzh9m,Michael Dziurgot
-Feb 7,home,Indian Hills,L,7-3,7,7,0,0,0,,,,0,,,,,,,,0,0,,,,,0,2015,2014-15,div1,Garden City,gardencitycommunitycollege,michaeldziurgotzh9m,Michael Dziurgot
-Feb 7,home,Indian Hills,W,7-6,7,7,,,,,,,,,,,,,,,,,,,,,,2015,2014-15,div1,Garden City,gardencitycommunitycollege,michaeldziurgotzh9m,Michael Dziurgot
-Feb 10,home,McCook,W,3-2,3,3,,,,,,,,,,,,,,,,,,,,,,2015,2014-15,div1,Garden City,gardencitycommunitycollege,michaeldziurgotzh9m,Michael Dziurgot
-Feb 18,home,Kansas Wesleyan JV,W,7-0,7,7,,,,,,,,,,,,,,,,,,,,,,2015,2014-15,div1,Garden City,gardencitycommunitycollege,michaeldziurgotzh9m,Michael Dziurgot
-Feb 18,home,Kansas Wesleyan JV,W,16-0,16,16,0,0,0,,,,0,,,,,,,,0,0,,,,,0,2015,2014-15,div1,Garden City,gardencitycommunitycollege,michaeldziurgotzh9m,Michael Dziurgot
-Feb 20,away,New Mexico Military,W,6-0,6,6,,,,,,,,,,,,,,,,,,,,,,2015,2014-15,div1,Garden City,gardencitycommunitycollege,michaeldziurgotzh9m,Michael Dziurgot
-Feb 21,away,New Mexico Military,L,14-4,14,14,,,,,,,,,,,,,,,,,,,,,,2015,2014-15,div1,Garden City,gardencitycommunitycollege,michaeldziurgotzh9m,Michael Dziurgot
-Feb 21,away,New Mexico Military,W,6-5,6,6,0,0,0,,,,0,,,,,,,,0,0,,,,,0,2015,2014-15,div1,Garden City,gardencitycommunitycollege,michaeldziurgotzh9m,Michael Dziurgot
-Feb 25,home,vs. Pratt,W,18-7,18,18,,,,,,,,,,,,,,,,,,,,,,2015,2014-15,div1,Garden City,gardencitycommunitycollege,michaeldziurgotzh9m,Michael Dziurgot
-Feb 25,home,vs. Pratt,W,11-8,11,11,,,,,,,,,,,,,,,,,,,,,,2015,2014-15,div1,Garden City,gardencitycommunitycollege,michaeldziurgotzh9m,Michael Dziurgot
-Mar 6,home,Seward County,W,8-2,8,8,,,,,,,,,,,,,,,,,,,,,,2015,2014-15,div1,Garden City,gardencitycommunitycollege,michaeldziurgotzh9m,Michael Dziurgot
-Mar 6,home,Seward County,W,4-3,4,4,0,0,0,,,,0,,,,,,,,0,0,,,,,0,2015,2014-15,div1,Garden City,gardencitycommunitycollege,michaeldziurgotzh9m,Michael Dziurgot
-Mar 7,home,Seward County,L,5-1,5,5,,,,,,,,,,,,,,,,,,,,,,2015,2014-15,div1,Garden City,gardencitycommunitycollege,michaeldziurgotzh9m,Michael Dziurgot
-Mar 7,home,Seward County,W,9-1,9,9,0,0,0,,,,0,,,,,,,,0,0,,,,,0,2015,2014-15,div1,Garden City,gardencitycommunitycollege,michaeldziurgotzh9m,Michael Dziurgot
-Mar 10,away,Pratt,L,6-2,6,6,,,,,,,,,,,,,,,,,,,,,,2015,2014-15,div1,Garden City,gardencitycommunitycollege,michaeldziurgotzh9m,Michael Dziurgot
-Mar 10,away,Pratt,L,17-13,17,17,0,0,0,,,,0,,,,,,,,0,0,,,,,0,2015,2014-15,div1,Garden City,gardencitycommunitycollege,michaeldziurgotzh9m,Michael Dziurgot
-Mar 11,away,Otero,W,4-0,4,4,,,,,,,,,,,,,,,,,,,,,,2015,2014-15,div1,Garden City,gardencitycommunitycollege,michaeldziurgotzh9m,Michael Dziurgot
-Mar 14,away,Colby,W,6-2,6,6,,,,,,,,,,,,,,,,,,,,,,2015,2014-15,div1,Garden City,gardencitycommunitycollege,michaeldziurgotzh9m,Michael Dziurgot
-Mar 14,away,Colby,W,4-2,4,4,0,0,0,,,,0,,,,,,,,0,0,,,,,0,2015,2014-15,div1,Garden City,gardencitycommunitycollege,michaeldziurgotzh9m,Michael Dziurgot
-Mar 15,away,Colby,W,8-7,8,8,,,,,,,,,,,,,,,,,,,,,,2015,2014-15,div1,Garden City,gardencitycommunitycollege,michaeldziurgotzh9m,Michael Dziurgot
-Mar 15,away,Colby,L,23-3,23,23,,,,,,,,,,,,,,,,,,,,,,2015,2014-15,div1,Garden City,gardencitycommunitycollege,michaeldziurgotzh9m,Michael Dziurgot
-Mar 17,away,Iowa Western,L,13-3,13,13,0,0,0,,,,0,,,,,,,,0,0,,,,,0,2015,2014-15,div1,Garden City,gardencitycommunitycollege,michaeldziurgotzh9m,Michael Dziurgot
-Mar 18,away,Iowa Western,L,4-3,4,4,,,,,,,,,,,,,,,,,,,,,,2015,2014-15,div1,Garden City,gardencitycommunitycollege,michaeldziurgotzh9m,Michael Dziurgot
-Mar 21,home,Cloud County,W,8-3,8,8,,,,,,,,,,,,,,,,,,,,,,2015,2014-15,div1,Garden City,gardencitycommunitycollege,michaeldziurgotzh9m,Michael Dziurgot
-Mar 21,home,Cloud County,W,6-5,6,6,,,,,,,,,,,,,,,,,,,,,,2015,2014-15,div1,Garden City,gardencitycommunitycollege,michaeldziurgotzh9m,Michael Dziurgot
-Mar 22,home,Cloud County,L,8-5,8,8,0,0,0,,,,0,,,,,,,,0,0,,,,,0,2015,2014-15,div1,Garden City,gardencitycommunitycollege,michaeldziurgotzh9m,Michael Dziurgot
-Mar 22,home,Cloud County,W,16-6,16,16,,,,,,,,,,,,,,,,,,,,,,2015,2014-15,div1,Garden City,gardencitycommunitycollege,michaeldziurgotzh9m,Michael Dziurgot
-Mar 24,away,Frank Phillips,W,7-4,7,7,0,0,0,,,,0,,,,,,,,0,0,,,,,0,2015,2014-15,div1,Garden City,gardencitycommunitycollege,michaeldziurgotzh9m,Michael Dziurgot
-Mar 25,home,Frank Phillips,L,6-5,6,6,,,,,,,,,,,,,,,,,,,,,,2015,2014-15,div1,Garden City,gardencitycommunitycollege,michaeldziurgotzh9m,Michael Dziurgot
-Mar 28,away,Butler,L,4-2,4,4,,,,,,,,,,,,,,,,,,,,,,2015,2014-15,div1,Garden City,gardencitycommunitycollege,michaeldziurgotzh9m,Michael Dziurgot
-Mar 28,away,Butler,L,13-3,13,13,,,,,,,,,,,,,,,,,,,,,,2015,2014-15,div1,Garden City,gardencitycommunitycollege,michaeldziurgotzh9m,Michael Dziurgot
-Mar 29,away,Butler,L,13-8,13,13,,,,,,,,,,,,,,,,,,,,,,2015,2014-15,div1,Garden City,gardencitycommunitycollege,michaeldziurgotzh9m,Michael Dziurgot
-Mar 29,away,Butler,,,,,,,,,,,,,,,,,,,,,,,,,,2015,2014-15,div1,Garden City,gardencitycommunitycollege,michaeldziurgotzh9m,Michael Dziurgot
-Apr 1,home,Lamar,L,18-4,18,18,0,0,0,,,,0,,,,,,,,0,0,,,,,0,2015,2014-15,div1,Garden City,gardencitycommunitycollege,michaeldziurgotzh9m,Michael Dziurgot
-Apr 3,home,Barton,W,12-2,12,12,,,,,,,,,,,,,,,,,,,,,,2015,2014-15,div1,Garden City,gardencitycommunitycollege,michaeldziurgotzh9m,Michael Dziurgot
-Apr 3,home,Barton,L,6-3,6,6,,,,,,,,,,,,,,,,,,,,,,2015,2014-15,div1,Garden City,gardencitycommunitycollege,michaeldziurgotzh9m,Michael Dziurgot
-Apr 4,home,Barton,W,10-4,10,10,,,,,,,,,,,,,,,,,,,,,,2015,2014-15,div1,Garden City,gardencitycommunitycollege,michaeldziurgotzh9m,Michael Dziurgot
-Apr 4,home,Barton,L,14-9,14,14,,,,,,,,,,,,,,,,,,,,,,2015,2014-15,div1,Garden City,gardencitycommunitycollege,michaeldziurgotzh9m,Michael Dziurgot
-Apr 8,away,Lamar,L,4-3,4,4,0,0,0,,,,0,,,,,,,,0,0,,,,,0,2015,2014-15,div1,Garden City,gardencitycommunitycollege,michaeldziurgotzh9m,Michael Dziurgot
-Apr 11,away,Dodge City,L,11-0,11,11,,,,,,,,,,,,,,,,,,,,,,2015,2014-15,div1,Garden City,gardencitycommunitycollege,michaeldziurgotzh9m,Michael Dziurgot
-Apr 11,away,Dodge City,L,14-10,14,14,,,,,,,,,,,,,,,,,,,,,,2015,2014-15,div1,Garden City,gardencitycommunitycollege,michaeldziurgotzh9m,Michael Dziurgot
-Apr 12,away,Dodge City,L,9-8,9,9,0,0,0,,,,0,,,,,,,,0,0,,,,,0,2015,2014-15,div1,Garden City,gardencitycommunitycollege,michaeldziurgotzh9m,Michael Dziurgot
-Apr 12,away,Dodge City,W,4-2,4,4,0,0,0,,,,0,,,,,,,,0,0,,,,,0,2015,2014-15,div1,Garden City,gardencitycommunitycollege,michaeldziurgotzh9m,Michael Dziurgot
-Apr 14,away,Bethany JV,W,12-1,12,12,,,,,,,,,,,,,,,,,,,,,,2015,2014-15,div1,Garden City,gardencitycommunitycollege,michaeldziurgotzh9m,Michael Dziurgot
-Apr 14,away,Bethany JV,W,14-2,14,14,,,,,,,,,,,,,,,,,,,,,,2015,2014-15,div1,Garden City,gardencitycommunitycollege,michaeldziurgotzh9m,Michael Dziurgot
-Apr 17,away,MCC-Longview,L,4-1,4,4,,,,,,,,,,,,,,,,,,,,,,2015,2014-15,div1,Garden City,gardencitycommunitycollege,michaeldziurgotzh9m,Michael Dziurgot
-Apr 17,away,MCC-Longview,L,6-5,6,6,0,0,0,,,,0,,,,,,,,0,0,,,,,0,2015,2014-15,div1,Garden City,gardencitycommunitycollege,michaeldziurgotzh9m,Michael Dziurgot
-Apr 22,away,McCook,L,5-3,5,5,0,0,0,,,,0,,,,,,,,0,0,,,,,0,2015,2014-15,div1,Garden City,gardencitycommunitycollege,michaeldziurgotzh9m,Michael Dziurgot
-Apr 25,home,Hutchinson,L,10-4,10,10,0,0,0,,,,0,,,,,,,,0,0,,,,,0,2015,2014-15,div1,Garden City,gardencitycommunitycollege,michaeldziurgotzh9m,Michael Dziurgot
-Apr 25,home,Hutchinson,L,8-4,8,8,,,,,,,,,,,,,,,,,,,,,,2015,2014-15,div1,Garden City,gardencitycommunitycollege,michaeldziurgotzh9m,Michael Dziurgot
-Apr 26,home,Hutchinson,W,10-9,10,10,,,,,,,,,,,,,,,,,,,,,,2015,2014-15,div1,Garden City,gardencitycommunitycollege,michaeldziurgotzh9m,Michael Dziurgot
-Apr 26,home,Hutchinson,W,12-9,12,12,0,0,0,,,,0,,,,,,,,0,0,,,,,0,2015,2014-15,div1,Garden City,gardencitycommunitycollege,michaeldziurgotzh9m,Michael Dziurgot
-May 2,away,Coffeyville,L,13-3,13,13,,,,,,,,,,,,,,,,,,,,,,2015,2014-15,div1,Garden City,gardencitycommunitycollege,michaeldziurgotzh9m,Michael Dziurgot
-May 2,away,Coffeyville,L,12-7,12,12,,,,,,,,,,,,,,,,,,,,,,2015,2014-15,div1,Garden City,gardencitycommunitycollege,michaeldziurgotzh9m,Michael Dziurgot
+date,location,opponent,result,score,team_score,opp_score,game_score_diff_x,game_win_loss_x,game_id_x,AB,R,H,2B,3B,HR,RBI,BB,K,SB,CS,game_score_diff_y,game_win_loss_y,game_id_y,HBP,SF,SH,TB,XBH,HDP,GO,FO,GO/FO,PA,season,njcaa_season,njcaa_division,team,team_id,player_id,player_name
+Feb 6,home,Indian Hills,W,11-8,11,8,3.0,win,,,,,,,,,,,,,3.0,win,,,,,,,,,,,,2015,2014-15,div1,Garden City,gardencitycommunitycollege,michaeldziurgotzh9m,Michael Dziurgot
+Feb 6,home,Indian Hills,W,13-3,13,3,10.0,win,,,,,,,,,,,,,10.0,win,,,,,,,,,,,,2015,2014-15,div1,Garden City,gardencitycommunitycollege,michaeldziurgotzh9m,Michael Dziurgot
+Feb 7,home,Indian Hills,L,7-3,7,3,4.0,win,20150207_mnog,0,0,0,,,,0,,,,,4.0,win,20150207_mnog,,,,0,0,,,,,0,2015,2014-15,div1,Garden City,gardencitycommunitycollege,michaeldziurgotzh9m,Michael Dziurgot
+Feb 7,home,Indian Hills,W,7-6,7,6,1.0,win,,,,,,,,,,,,,1.0,win,,,,,,,,,,,,2015,2014-15,div1,Garden City,gardencitycommunitycollege,michaeldziurgotzh9m,Michael Dziurgot
+Feb 10,home,McCook,W,3-2,3,2,1.0,win,,,,,,,,,,,,,1.0,win,,,,,,,,,,,,2015,2014-15,div1,Garden City,gardencitycommunitycollege,michaeldziurgotzh9m,Michael Dziurgot
+Feb 18,home,Kansas Wesleyan JV,W,7-0,7,0,7.0,win,,,,,,,,,,,,,7.0,win,,,,,,,,,,,,2015,2014-15,div1,Garden City,gardencitycommunitycollege,michaeldziurgotzh9m,Michael Dziurgot
+Feb 18,home,Kansas Wesleyan JV,W,16-0,16,0,16.0,win,20150218_gbkd,0,0,0,,,,0,,,,,16.0,win,20150218_gbkd,,,,0,0,,,,,0,2015,2014-15,div1,Garden City,gardencitycommunitycollege,michaeldziurgotzh9m,Michael Dziurgot
+Mar 6,home,Seward County,W,8-2,8,2,6.0,win,,,,,,,,,,,,,6.0,win,,,,,,,,,,,,2015,2014-15,div1,Garden City,gardencitycommunitycollege,michaeldziurgotzh9m,Michael Dziurgot
+Mar 6,home,Seward County,W,4-3,4,3,1.0,win,20150306_lexc,0,0,0,,,,0,,,,,1.0,win,20150306_lexc,,,,0,0,,,,,0,2015,2014-15,div1,Garden City,gardencitycommunitycollege,michaeldziurgotzh9m,Michael Dziurgot
+Mar 7,home,Seward County,L,5-1,5,1,4.0,win,,,,,,,,,,,,,4.0,win,,,,,,,,,,,,2015,2014-15,div1,Garden City,gardencitycommunitycollege,michaeldziurgotzh9m,Michael Dziurgot
+Mar 7,home,Seward County,W,9-1,9,1,8.0,win,20150307_6k62,0,0,0,,,,0,,,,,8.0,win,20150307_6k62,,,,0,0,,,,,0,2015,2014-15,div1,Garden City,gardencitycommunitycollege,michaeldziurgotzh9m,Michael Dziurgot
+Mar 21,home,Cloud County,W,8-3,8,3,5.0,win,,,,,,,,,,,,,5.0,win,,,,,,,,,,,,2015,2014-15,div1,Garden City,gardencitycommunitycollege,michaeldziurgotzh9m,Michael Dziurgot
+Mar 21,home,Cloud County,W,6-5,6,5,1.0,win,,,,,,,,,,,,,1.0,win,,,,,,,,,,,,2015,2014-15,div1,Garden City,gardencitycommunitycollege,michaeldziurgotzh9m,Michael Dziurgot
+Mar 22,home,Cloud County,L,8-5,8,5,3.0,win,20150322_spoq,0,0,0,,,,0,,,,,3.0,win,20150322_spoq,,,,0,0,,,,,0,2015,2014-15,div1,Garden City,gardencitycommunitycollege,michaeldziurgotzh9m,Michael Dziurgot
+Mar 22,home,Cloud County,W,16-6,16,6,10.0,win,,,,,,,,,,,,,10.0,win,,,,,,,,,,,,2015,2014-15,div1,Garden City,gardencitycommunitycollege,michaeldziurgotzh9m,Michael Dziurgot
+Mar 25,home,Frank Phillips,L,6-5,6,5,1.0,win,,,,,,,,,,,,,1.0,win,,,,,,,,,,,,2015,2014-15,div1,Garden City,gardencitycommunitycollege,michaeldziurgotzh9m,Michael Dziurgot
+Apr 1,home,Lamar,L,18-4,18,4,14.0,win,20150401_un0e,0,0,0,,,,0,,,,,14.0,win,20150401_un0e,,,,0,0,,,,,0,2015,2014-15,div1,Garden City,gardencitycommunitycollege,michaeldziurgotzh9m,Michael Dziurgot
+Apr 3,home,Barton,W,12-2,12,2,10.0,win,,,,,,,,,,,,,10.0,win,,,,,,,,,,,,2015,2014-15,div1,Garden City,gardencitycommunitycollege,michaeldziurgotzh9m,Michael Dziurgot
+Apr 3,home,Barton,L,6-3,6,3,3.0,win,,,,,,,,,,,,,3.0,win,,,,,,,,,,,,2015,2014-15,div1,Garden City,gardencitycommunitycollege,michaeldziurgotzh9m,Michael Dziurgot
+Apr 4,home,Barton,W,10-4,10,4,6.0,win,,,,,,,,,,,,,6.0,win,,,,,,,,,,,,2015,2014-15,div1,Garden City,gardencitycommunitycollege,michaeldziurgotzh9m,Michael Dziurgot
+Apr 4,home,Barton,L,14-9,14,9,5.0,win,,,,,,,,,,,,,5.0,win,,,,,,,,,,,,2015,2014-15,div1,Garden City,gardencitycommunitycollege,michaeldziurgotzh9m,Michael Dziurgot
+Apr 25,home,Hutchinson,L,10-4,10,4,6.0,win,20150425_ycva,0,0,0,,,,0,,,,,6.0,win,20150425_ycva,,,,0,0,,,,,0,2015,2014-15,div1,Garden City,gardencitycommunitycollege,michaeldziurgotzh9m,Michael Dziurgot
+Apr 25,home,Hutchinson,L,8-4,8,4,4.0,win,,,,,,,,,,,,,4.0,win,,,,,,,,,,,,2015,2014-15,div1,Garden City,gardencitycommunitycollege,michaeldziurgotzh9m,Michael Dziurgot
+Apr 26,home,Hutchinson,W,10-9,10,9,1.0,win,,,,,,,,,,,,,1.0,win,,,,,,,,,,,,2015,2014-15,div1,Garden City,gardencitycommunitycollege,michaeldziurgotzh9m,Michael Dziurgot
+Apr 26,home,Hutchinson,W,12-9,12,9,3.0,win,20150426_mx5c,0,0,0,,,,0,,,,,3.0,win,20150426_mx5c,,,,0,0,,,,,0,2015,2014-15,div1,Garden City,gardencitycommunitycollege,michaeldziurgotzh9m,Michael Dziurgot
