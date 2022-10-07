@@ -1,65 +1,28 @@
-date,location,opponent,result,score,team_score,opp_score,AB,R,H,2B,3B,HR,RBI,BB,K,SB,CS,HBP,SF,SH,TB,XBH,HDP,GO,FO,GO/FO,PA,season,njcaa_season,njcaa_division,team,team_id,player_id,player_name
-Jan 31,away,Lenoir,L,9-3,9,9,,,,,,,,,,,,,,,,,,,,,,2015,2014-15,div1,Spartanburg Methodist,spartanburgmethodist,jamalkeelsiv0w,Jamal Keels
-Jan 31,away,Lenoir,W,12-6,12,12,,,,,,,,,,,,,,,,,,,,,,2015,2014-15,div1,Spartanburg Methodist,spartanburgmethodist,jamalkeelsiv0w,Jamal Keels
-Feb 1,away,Lenoir,W,16-1,16,16,3,1,1,,,,2,,,,,,,,1,0,,1,1,1.00,3,2015,2014-15,div1,Spartanburg Methodist,spartanburgmethodist,jamalkeelsiv0w,Jamal Keels
-Feb 7,home,Surry,W,10-2,10,10,2,1,2,,,,1,1,,1,,,,,2,0,,,,,3,2015,2014-15,div1,Spartanburg Methodist,spartanburgmethodist,jamalkeelsiv0w,Jamal Keels
-Feb 7,home,Surry,L,2-0,2,2,3,0,0,,,,0,,,,,,,,0,0,,1,2,0.50,3,2015,2014-15,div1,Spartanburg Methodist,spartanburgmethodist,jamalkeelsiv0w,Jamal Keels
-Feb 11,home,Georgia Perimeter,W,4-3,4,4,3,0,1,,,,0,,1,,,,,,1,0,,1,,,3,2015,2014-15,div1,Spartanburg Methodist,spartanburgmethodist,jamalkeelsiv0w,Jamal Keels
-Feb 11,home,Georgia Perimeter,W,5-4,5,5,2,0,0,,,,0,,1,,,,,1,0,0,,1,,,3,2015,2014-15,div1,Spartanburg Methodist,spartanburgmethodist,jamalkeelsiv0w,Jamal Keels
-Feb 14,away,Catawba Valley,W,5-4,5,5,3,0,0,,,,0,,,,,,,,0,0,,3,,,3,2015,2014-15,div1,Spartanburg Methodist,spartanburgmethodist,jamalkeelsiv0w,Jamal Keels
-Feb 14,away,Catawba Valley,L,5-2,5,5,3,0,0,,,,1,,,,,,,,0,0,,3,,,3,2015,2014-15,div1,Spartanburg Methodist,spartanburgmethodist,jamalkeelsiv0w,Jamal Keels
-Feb 20,home,vs. Dyersburg State,W,3-2,3,3,2,0,1,1,,,0,,,,,1,,1,2,1,,1,1,1.00,4,2015,2014-15,div1,Spartanburg Methodist,spartanburgmethodist,jamalkeelsiv0w,Jamal Keels
-Feb 21,home,vs. John A. Logan,W,4-1,4,4,4,1,1,,,,0,1,,1,,,,,1,0,,,,,5,2015,2014-15,div1,Spartanburg Methodist,spartanburgmethodist,jamalkeelsiv0w,Jamal Keels
-Feb 22,away,Southern Union State,W,7-3,7,7,4,0,0,,,,0,,,,,,,,0,0,,3,1,3.00,4,2015,2014-15,div1,Spartanburg Methodist,spartanburgmethodist,jamalkeelsiv0w,Jamal Keels
-Feb 28,away,Georgia Perimeter,L,6-2,6,6,2,0,1,,,,0,,1,,,,,1,1,0,,1,,,3,2015,2014-15,div1,Spartanburg Methodist,spartanburgmethodist,jamalkeelsiv0w,Jamal Keels
-Feb 28,away,Georgia Perimeter,L,8-7,8,8,5,0,1,,,,0,,2,,,,,,1,0,,1,,,5,2015,2014-15,div1,Spartanburg Methodist,spartanburgmethodist,jamalkeelsiv0w,Jamal Keels
-Mar 2,home,Catawba Valley,W,4-1,4,4,,,,,,,,,,,,,,,,,,,,,,2015,2014-15,div1,Spartanburg Methodist,spartanburgmethodist,jamalkeelsiv0w,Jamal Keels
-Mar 2,home,Catawba Valley,W,4-2,4,4,,,,,,,,,,,,,,,,,,,,,,2015,2014-15,div1,Spartanburg Methodist,spartanburgmethodist,jamalkeelsiv0w,Jamal Keels
-Mar 4,home,Walters State,L,8-5,8,8,,,,,,,,,,,,,,,,,,,,,,2015,2014-15,div1,Spartanburg Methodist,spartanburgmethodist,jamalkeelsiv0w,Jamal Keels
-Mar 4,home,Walters State,L,5-0,5,5,,,,,,,,,,,,,,,,,,,,,,2015,2014-15,div1,Spartanburg Methodist,spartanburgmethodist,jamalkeelsiv0w,Jamal Keels
-Mar 7,home,Guilford Tech,W,6-2,6,6,,,,,,,,,,,,,,,,,,,,,,2015,2014-15,div1,Spartanburg Methodist,spartanburgmethodist,jamalkeelsiv0w,Jamal Keels
-Mar 7,home,Guilford Tech,L,8-6,8,8,3,0,0,,,,0,,,,,,,,0,0,1,2,1,2.00,3,2015,2014-15,div1,Spartanburg Methodist,spartanburgmethodist,jamalkeelsiv0w,Jamal Keels
-Mar 8,home,Guilford Tech,W,6-5,6,6,,,,,,,,,,,,,,,,,,,,,,2015,2014-15,div1,Spartanburg Methodist,spartanburgmethodist,jamalkeelsiv0w,Jamal Keels
-Mar 8,home,Guilford Tech,W,21-3,21,21,1,0,0,,,,0,,,,,,,,0,0,,,1,,1,2015,2014-15,div1,Spartanburg Methodist,spartanburgmethodist,jamalkeelsiv0w,Jamal Keels
-Mar 10,home,Lakeland,W,13-2,13,13,,,,,,,,,,,,,,,,,,,,,,2015,2014-15,div1,Spartanburg Methodist,spartanburgmethodist,jamalkeelsiv0w,Jamal Keels
-Mar 10,away,Brunswick,L,8-0,8,8,,,,,,,,,,,,,,,,,,,,,,2015,2014-15,div1,Spartanburg Methodist,spartanburgmethodist,jamalkeelsiv0w,Jamal Keels
-Mar 11,away,Brunswick,L,9-3,9,9,3,0,0,,,,0,,,,,,,,0,0,,2,1,2.00,3,2015,2014-15,div1,Spartanburg Methodist,spartanburgmethodist,jamalkeelsiv0w,Jamal Keels
-Mar 11,away,Brunswick,W,12-3,12,12,,,,,,,,,,,,,,,,,,,,,,2015,2014-15,div1,Spartanburg Methodist,spartanburgmethodist,jamalkeelsiv0w,Jamal Keels
-Mar 14,away,USC Salkehatchie,W,3-0,3,3,,,,,,,,,,,,,,,,,,,,,,2015,2014-15,div1,Spartanburg Methodist,spartanburgmethodist,jamalkeelsiv0w,Jamal Keels
-Mar 14,away,USC Salkehatchie,W,10-1,10,10,,,,,,,,,,,,,,,,,,,,,,2015,2014-15,div1,Spartanburg Methodist,spartanburgmethodist,jamalkeelsiv0w,Jamal Keels
-Mar 15,away,USC Salkehatchie,W,2-1,2,2,,,,,,,,,,,,,,,,,,,,,,2015,2014-15,div1,Spartanburg Methodist,spartanburgmethodist,jamalkeelsiv0w,Jamal Keels
-Mar 15,away,USC Salkehatchie,W,11-6,11,11,5,3,3,1,0,0,2,0,1,2,0,0,0,0,4,1,0,0,1,0.00,5,2015,2014-15,div1,Spartanburg Methodist,spartanburgmethodist,jamalkeelsiv0w,Jamal Keels
-Mar 21,away,USC Lancaster,W,3-1,3,3,,,,,,,,,,,,,,,,,,,,,,2015,2014-15,div1,Spartanburg Methodist,spartanburgmethodist,jamalkeelsiv0w,Jamal Keels
-Mar 21,away,USC Lancaster,L,6-3,6,6,3,0,0,,,,0,,1,,,,,,0,0,,,,,3,2015,2014-15,div1,Spartanburg Methodist,spartanburgmethodist,jamalkeelsiv0w,Jamal Keels
-Mar 22,away,USC Lancaster,L,8-7,8,8,2,0,0,,,,0,,,,,,,,0,0,,,,,2,2015,2014-15,div1,Spartanburg Methodist,spartanburgmethodist,jamalkeelsiv0w,Jamal Keels
-Mar 22,away,USC Lancaster,L,5-2,5,5,,,,,,,,,,,,,,,,,,,,,,2015,2014-15,div1,Spartanburg Methodist,spartanburgmethodist,jamalkeelsiv0w,Jamal Keels
-Mar 28,away,Pitt,W,8-4,8,8,3,0,0,,,,0,,,,,,,,0,0,,3,,,3,2015,2014-15,div1,Spartanburg Methodist,spartanburgmethodist,jamalkeelsiv0w,Jamal Keels
-Mar 28,away,Pitt,L,4-2,4,4,,,,,,,,,,,,,,,,,,,,,,2015,2014-15,div1,Spartanburg Methodist,spartanburgmethodist,jamalkeelsiv0w,Jamal Keels
-Mar 29,away,Pitt,W,3-1,3,3,,,,,,,,,,,,,,,,,,,,,,2015,2014-15,div1,Spartanburg Methodist,spartanburgmethodist,jamalkeelsiv0w,Jamal Keels
-Mar 29,away,Pitt,L,5-4,5,5,,,,,,,,,,,,,,,,,,,,,,2015,2014-15,div1,Spartanburg Methodist,spartanburgmethodist,jamalkeelsiv0w,Jamal Keels
-Apr 3,home,Florence-Darlington Tech,W,5-4,5,5,,,,,,,,,,,,,,,,,,,,,,2015,2014-15,div1,Spartanburg Methodist,spartanburgmethodist,jamalkeelsiv0w,Jamal Keels
-Apr 3,home,Florence-Darlington Tech,L,4-0,4,4,,,,,,,,,,,,,,,,,,,,,,2015,2014-15,div1,Spartanburg Methodist,spartanburgmethodist,jamalkeelsiv0w,Jamal Keels
-Apr 4,home,Florence-Darlington Tech,L,8-5,8,8,0,0,0,,,,0,,,,,,,,0,0,,,,,0,2015,2014-15,div1,Spartanburg Methodist,spartanburgmethodist,jamalkeelsiv0w,Jamal Keels
-Apr 4,home,Florence-Darlington Tech,W,15-14,15,15,,,,,,,,,,,,,,,,,,,,,,2015,2014-15,div1,Spartanburg Methodist,spartanburgmethodist,jamalkeelsiv0w,Jamal Keels
-Apr 11,away,USC Sumter,L,2-1,2,2,,,,,,,,,,,,,,,,,,,,,,2015,2014-15,div1,Spartanburg Methodist,spartanburgmethodist,jamalkeelsiv0w,Jamal Keels
-Apr 11,away,USC Sumter,L,5-4,5,5,,,,,,,,,,,,,,,,,,,,,,2015,2014-15,div1,Spartanburg Methodist,spartanburgmethodist,jamalkeelsiv0w,Jamal Keels
-Apr 12,away,USC Sumter,L,3-1,3,3,,,,,,,,,,,,,,,,,,,,,,2015,2014-15,div1,Spartanburg Methodist,spartanburgmethodist,jamalkeelsiv0w,Jamal Keels
-Apr 12,away,USC Sumter,W,8-7,8,8,4,0,1,1,,,1,,1,,,,,,2,1,,1,1,1.00,4,2015,2014-15,div1,Spartanburg Methodist,spartanburgmethodist,jamalkeelsiv0w,Jamal Keels
-Apr 15,away,Walters State,,,,,,,,,,,,,,,,,,,,,,,,,,2015,2014-15,div1,Spartanburg Methodist,spartanburgmethodist,jamalkeelsiv0w,Jamal Keels
-Apr 15,away,Walters State,,,,,,,,,,,,,,,,,,,,,,,,,,2015,2014-15,div1,Spartanburg Methodist,spartanburgmethodist,jamalkeelsiv0w,Jamal Keels
-Apr 15,away,Walters State,,,,,,,,,,,,,,,,,,,,,,,,,,2015,2014-15,div1,Spartanburg Methodist,spartanburgmethodist,jamalkeelsiv0w,Jamal Keels
-Apr 15,away,Walters State,,,,,,,,,,,,,,,,,,,,,,,,,,2015,2014-15,div1,Spartanburg Methodist,spartanburgmethodist,jamalkeelsiv0w,Jamal Keels
-Apr 18,home,Louisburg,,,,,,,,,,,,,,,,,,,,,,,,,,2015,2014-15,div1,Spartanburg Methodist,spartanburgmethodist,jamalkeelsiv0w,Jamal Keels
-Apr 18,home,Louisburg,,,,,,,,,,,,,,,,,,,,,,,,,,2015,2014-15,div1,Spartanburg Methodist,spartanburgmethodist,jamalkeelsiv0w,Jamal Keels
-Apr 18,home,Louisburg,,,,,,,,,,,,,,,,,,,,,,,,,,2015,2014-15,div1,Spartanburg Methodist,spartanburgmethodist,jamalkeelsiv0w,Jamal Keels
-Apr 18,home,Louisburg,,,,,,,,,,,,,,,,,,,,,,,,,,2015,2014-15,div1,Spartanburg Methodist,spartanburgmethodist,jamalkeelsiv0w,Jamal Keels
-Apr 19,home,Louisburg,,,,,,,,,,,,,,,,,,,,,,,,,,2015,2014-15,div1,Spartanburg Methodist,spartanburgmethodist,jamalkeelsiv0w,Jamal Keels
-Apr 19,home,Louisburg,,,,,,,,,,,,,,,,,,,,,,,,,,2015,2014-15,div1,Spartanburg Methodist,spartanburgmethodist,jamalkeelsiv0w,Jamal Keels
-Apr 19,home,Louisburg,,,,,,,,,,,,,,,,,,,,,,,,,,2015,2014-15,div1,Spartanburg Methodist,spartanburgmethodist,jamalkeelsiv0w,Jamal Keels
-Apr 19,home,Louisburg,,,,,,,,,,,,,,,,,,,,,,,,,,2015,2014-15,div1,Spartanburg Methodist,spartanburgmethodist,jamalkeelsiv0w,Jamal Keels
-Apr 25,home,USC Salkehatchie,L,7-3,7,7,,,,,,,,,,,,,,,,,,,,,,2015,2014-15,div1,Spartanburg Methodist,spartanburgmethodist,jamalkeelsiv0w,Jamal Keels
-Apr 26,home,USC Salkehatchie,W,8-4,8,8,,,,,,,,,,,,,,,,,,,,,,2015,2014-15,div1,Spartanburg Methodist,spartanburgmethodist,jamalkeelsiv0w,Jamal Keels
-Apr 28,home,vs. Surry,W,10-1,10,10,,,,,,,,,,,,,,,,,,,,,,2015,2014-15,div1,Spartanburg Methodist,spartanburgmethodist,jamalkeelsiv0w,Jamal Keels
-Apr 28,away,Surry,W,2-1,2,2,0,0,0,,,,0,,,,,,,,0,0,,,,,0,2015,2014-15,div1,Spartanburg Methodist,spartanburgmethodist,jamalkeelsiv0w,Jamal Keels
-May 2,home,vs. USC Lancaster,L,7-0,7,7,,,,,,,,,,,,,,,,,,,,,,2015,2014-15,div1,Spartanburg Methodist,spartanburgmethodist,jamalkeelsiv0w,Jamal Keels
-May 3,home,vs. USC Sumter,L,9-7,9,9,,,,,,,,,,,,,,,,,,,,,,2015,2014-15,div1,Spartanburg Methodist,spartanburgmethodist,jamalkeelsiv0w,Jamal Keels
+date,location,opponent,result,score,team_score,opp_score,game_score_diff_x,game_win_loss_x,game_id_x,AB,R,H,2B,3B,HR,RBI,BB,K,SB,CS,game_score_diff_y,game_win_loss_y,game_id_y,HBP,SF,SH,TB,XBH,HDP,GO,FO,GO/FO,PA,season,njcaa_season,njcaa_division,team,team_id,player_id,player_name
+Feb 7,home,Surry,W,10-2,10,2,8.0,win,20150207_nu57,2,1,2,,,,1,1,,1,,8.0,win,20150207_nu57,,,,2,0,,,,,3,2015,2014-15,div1,Spartanburg Methodist,spartanburgmethodist,jamalkeelsiv0w,Jamal Keels
+Feb 7,home,Surry,L,2-0,2,0,2.0,win,20150207_eoew,3,0,0,,,,0,,,,,2.0,win,20150207_eoew,,,,0,0,,1,2,0.50,3,2015,2014-15,div1,Spartanburg Methodist,spartanburgmethodist,jamalkeelsiv0w,Jamal Keels
+Feb 11,home,Georgia Perimeter,W,4-3,4,3,1.0,win,20150211_gt8f,3,0,1,,,,0,,1,,,1.0,win,20150211_gt8f,,,,1,0,,1,,,3,2015,2014-15,div1,Spartanburg Methodist,spartanburgmethodist,jamalkeelsiv0w,Jamal Keels
+Feb 11,home,Georgia Perimeter,W,5-4,5,4,1.0,win,20150211_qlhc,2,0,0,,,,0,,1,,,1.0,win,20150211_qlhc,,,1,0,0,,1,,,3,2015,2014-15,div1,Spartanburg Methodist,spartanburgmethodist,jamalkeelsiv0w,Jamal Keels
+Mar 2,home,Catawba Valley,W,4-1,4,1,3.0,win,,,,,,,,,,,,,3.0,win,,,,,,,,,,,,2015,2014-15,div1,Spartanburg Methodist,spartanburgmethodist,jamalkeelsiv0w,Jamal Keels
+Mar 2,home,Catawba Valley,W,4-2,4,2,2.0,win,,,,,,,,,,,,,2.0,win,,,,,,,,,,,,2015,2014-15,div1,Spartanburg Methodist,spartanburgmethodist,jamalkeelsiv0w,Jamal Keels
+Mar 4,home,Walters State,L,8-5,8,5,3.0,win,,,,,,,,,,,,,3.0,win,,,,,,,,,,,,2015,2014-15,div1,Spartanburg Methodist,spartanburgmethodist,jamalkeelsiv0w,Jamal Keels
+Mar 4,home,Walters State,L,5-0,5,0,5.0,win,,,,,,,,,,,,,5.0,win,,,,,,,,,,,,2015,2014-15,div1,Spartanburg Methodist,spartanburgmethodist,jamalkeelsiv0w,Jamal Keels
+Mar 7,home,Guilford Tech,W,6-2,6,2,4.0,win,,,,,,,,,,,,,4.0,win,,,,,,,,,,,,2015,2014-15,div1,Spartanburg Methodist,spartanburgmethodist,jamalkeelsiv0w,Jamal Keels
+Mar 7,home,Guilford Tech,L,8-6,8,6,2.0,win,20150307_enmg,3,0,0,,,,0,,,,,2.0,win,20150307_enmg,,,,0,0,1,2,1,2.00,3,2015,2014-15,div1,Spartanburg Methodist,spartanburgmethodist,jamalkeelsiv0w,Jamal Keels
+Mar 8,home,Guilford Tech,W,6-5,6,5,1.0,win,,,,,,,,,,,,,1.0,win,,,,,,,,,,,,2015,2014-15,div1,Spartanburg Methodist,spartanburgmethodist,jamalkeelsiv0w,Jamal Keels
+Mar 8,home,Guilford Tech,W,21-3,21,3,18.0,win,20150308_v1si,1,0,0,,,,0,,,,,18.0,win,20150308_v1si,,,,0,0,,,1,,1,2015,2014-15,div1,Spartanburg Methodist,spartanburgmethodist,jamalkeelsiv0w,Jamal Keels
+Mar 10,home,Lakeland,W,13-2,13,2,11.0,win,,,,,,,,,,,,,11.0,win,,,,,,,,,,,,2015,2014-15,div1,Spartanburg Methodist,spartanburgmethodist,jamalkeelsiv0w,Jamal Keels
+Apr 3,home,Florence-Darlington Tech,W,5-4,5,4,1.0,win,,,,,,,,,,,,,1.0,win,,,,,,,,,,,,2015,2014-15,div1,Spartanburg Methodist,spartanburgmethodist,jamalkeelsiv0w,Jamal Keels
+Apr 3,home,Florence-Darlington Tech,L,4-0,4,0,4.0,win,,,,,,,,,,,,,4.0,win,,,,,,,,,,,,2015,2014-15,div1,Spartanburg Methodist,spartanburgmethodist,jamalkeelsiv0w,Jamal Keels
+Apr 4,home,Florence-Darlington Tech,L,8-5,8,5,3.0,win,20150404_41o8,0,0,0,,,,0,,,,,3.0,win,20150404_41o8,,,,0,0,,,,,0,2015,2014-15,div1,Spartanburg Methodist,spartanburgmethodist,jamalkeelsiv0w,Jamal Keels
+Apr 4,home,Florence-Darlington Tech,W,15-14,15,14,1.0,win,,,,,,,,,,,,,1.0,win,,,,,,,,,,,,2015,2014-15,div1,Spartanburg Methodist,spartanburgmethodist,jamalkeelsiv0w,Jamal Keels
+Apr 18,home,Louisburg,,,,,1.0,win,,,,,,,,,,,,,1.0,win,,,,,,,,,,,,2015,2014-15,div1,Spartanburg Methodist,spartanburgmethodist,jamalkeelsiv0w,Jamal Keels
+Apr 18,home,Louisburg,,,,,1.0,win,,,,,,,,,,,,,1.0,win,,,,,,,,,,,,2015,2014-15,div1,Spartanburg Methodist,spartanburgmethodist,jamalkeelsiv0w,Jamal Keels
+Apr 18,home,Louisburg,,,,,1.0,win,,,,,,,,,,,,,1.0,win,,,,,,,,,,,,2015,2014-15,div1,Spartanburg Methodist,spartanburgmethodist,jamalkeelsiv0w,Jamal Keels
+Apr 18,home,Louisburg,,,,,1.0,win,,,,,,,,,,,,,1.0,win,,,,,,,,,,,,2015,2014-15,div1,Spartanburg Methodist,spartanburgmethodist,jamalkeelsiv0w,Jamal Keels
+Apr 19,home,Louisburg,,,,,1.0,win,,,,,,,,,,,,,1.0,win,,,,,,,,,,,,2015,2014-15,div1,Spartanburg Methodist,spartanburgmethodist,jamalkeelsiv0w,Jamal Keels
+Apr 19,home,Louisburg,,,,,1.0,win,,,,,,,,,,,,,1.0,win,,,,,,,,,,,,2015,2014-15,div1,Spartanburg Methodist,spartanburgmethodist,jamalkeelsiv0w,Jamal Keels
+Apr 19,home,Louisburg,,,,,1.0,win,,,,,,,,,,,,,1.0,win,,,,,,,,,,,,2015,2014-15,div1,Spartanburg Methodist,spartanburgmethodist,jamalkeelsiv0w,Jamal Keels
+Apr 19,home,Louisburg,,,,,1.0,win,,,,,,,,,,,,,1.0,win,,,,,,,,,,,,2015,2014-15,div1,Spartanburg Methodist,spartanburgmethodist,jamalkeelsiv0w,Jamal Keels
+Apr 25,home,USC Salkehatchie,L,7-3,7,3,4.0,win,,,,,,,,,,,,,4.0,win,,,,,,,,,,,,2015,2014-15,div1,Spartanburg Methodist,spartanburgmethodist,jamalkeelsiv0w,Jamal Keels
+Apr 26,home,USC Salkehatchie,W,8-4,8,4,4.0,win,,,,,,,,,,,,,4.0,win,,,,,,,,,,,,2015,2014-15,div1,Spartanburg Methodist,spartanburgmethodist,jamalkeelsiv0w,Jamal Keels

@@ -1,65 +1,28 @@
-date,location,opponent,result,score,team_score,opp_score,AB,R,H,2B,3B,HR,RBI,BB,K,SB,CS,HBP,SF,SH,TB,XBH,HDP,GO,FO,GO/FO,PA,season,njcaa_season,njcaa_division,team,team_id,player_id,player_name
-Jan 31,away,Lenoir,L,9-3,9,9,3,1,1,,,,0,,,,,,,,1,0,,,1,,3,2015,2014-15,div1,Spartanburg Methodist,spartanburgmethodist,masonberneln4i,Mason Berne
-Jan 31,away,Lenoir,W,12-6,12,12,5,2,2,2,,,0,,,,,,,,4,2,,1,,,5,2015,2014-15,div1,Spartanburg Methodist,spartanburgmethodist,masonberneln4i,Mason Berne
-Feb 1,away,Lenoir,W,16-1,16,16,4,1,4,2,,,2,,,,,,,,6,2,,,,,4,2015,2014-15,div1,Spartanburg Methodist,spartanburgmethodist,masonberneln4i,Mason Berne
-Feb 7,home,Surry,W,10-2,10,10,3,1,0,,,,1,,,,,,,,0,0,,1,,,3,2015,2014-15,div1,Spartanburg Methodist,spartanburgmethodist,masonberneln4i,Mason Berne
-Feb 7,home,Surry,L,2-0,2,2,3,0,0,,,,0,,,,,,,,0,0,,1,2,0.50,3,2015,2014-15,div1,Spartanburg Methodist,spartanburgmethodist,masonberneln4i,Mason Berne
-Feb 11,home,Georgia Perimeter,W,4-3,4,4,3,0,0,,,,0,,1,,,,,,0,0,,2,,,3,2015,2014-15,div1,Spartanburg Methodist,spartanburgmethodist,masonberneln4i,Mason Berne
-Feb 11,home,Georgia Perimeter,W,5-4,5,5,,,,,,,,,,,,,,,,,,,,,,2015,2014-15,div1,Spartanburg Methodist,spartanburgmethodist,masonberneln4i,Mason Berne
-Feb 14,away,Catawba Valley,W,5-4,5,5,,,,,,,,,,,,,,,,,,,,,,2015,2014-15,div1,Spartanburg Methodist,spartanburgmethodist,masonberneln4i,Mason Berne
-Feb 14,away,Catawba Valley,L,5-2,5,5,3,1,1,1,,,0,,,,,,,,2,1,,2,,,3,2015,2014-15,div1,Spartanburg Methodist,spartanburgmethodist,masonberneln4i,Mason Berne
-Feb 20,home,vs. Dyersburg State,W,3-2,3,3,,,,,,,,,,,,,,,,,,,,,,2015,2014-15,div1,Spartanburg Methodist,spartanburgmethodist,masonberneln4i,Mason Berne
-Feb 21,home,vs. John A. Logan,W,4-1,4,4,1,1,1,,,,1,,,,,,,,1,0,,,,,1,2015,2014-15,div1,Spartanburg Methodist,spartanburgmethodist,masonberneln4i,Mason Berne
-Feb 22,away,Southern Union State,W,7-3,7,7,4,1,1,1,,,0,,2,,,,,,2,1,,1,,,4,2015,2014-15,div1,Spartanburg Methodist,spartanburgmethodist,masonberneln4i,Mason Berne
-Feb 28,away,Georgia Perimeter,L,6-2,6,6,2,1,1,,,,0,1,,,,,,,1,0,,,,,3,2015,2014-15,div1,Spartanburg Methodist,spartanburgmethodist,masonberneln4i,Mason Berne
-Feb 28,away,Georgia Perimeter,L,8-7,8,8,4,1,1,,,,2,,,,,,1,,1,0,,,1,,5,2015,2014-15,div1,Spartanburg Methodist,spartanburgmethodist,masonberneln4i,Mason Berne
-Mar 2,home,Catawba Valley,W,4-1,4,4,2,0,1,,,,0,1,,,,,,,1,0,,1,,,3,2015,2014-15,div1,Spartanburg Methodist,spartanburgmethodist,masonberneln4i,Mason Berne
-Mar 2,home,Catawba Valley,W,4-2,4,4,3,1,1,,,1,1,,,,,,,,4,1,1,1,1,1.00,3,2015,2014-15,div1,Spartanburg Methodist,spartanburgmethodist,masonberneln4i,Mason Berne
-Mar 4,home,Walters State,L,8-5,8,8,4,0,0,,,,0,,,,,,,,0,0,,2,1,2.00,4,2015,2014-15,div1,Spartanburg Methodist,spartanburgmethodist,masonberneln4i,Mason Berne
-Mar 4,home,Walters State,L,5-0,5,5,3,0,1,,,,0,,2,,,,,,1,0,,,,,3,2015,2014-15,div1,Spartanburg Methodist,spartanburgmethodist,masonberneln4i,Mason Berne
-Mar 7,home,Guilford Tech,W,6-2,6,6,3,0,0,,,,0,,1,,,,,,0,0,,,2,,3,2015,2014-15,div1,Spartanburg Methodist,spartanburgmethodist,masonberneln4i,Mason Berne
-Mar 7,home,Guilford Tech,L,8-6,8,8,1,0,1,,,,2,,,,,,,,1,0,,,,,1,2015,2014-15,div1,Spartanburg Methodist,spartanburgmethodist,masonberneln4i,Mason Berne
-Mar 8,home,Guilford Tech,W,6-5,6,6,4,0,1,,,,2,,,,,,,,1,0,,2,1,2.00,4,2015,2014-15,div1,Spartanburg Methodist,spartanburgmethodist,masonberneln4i,Mason Berne
-Mar 8,home,Guilford Tech,W,21-3,21,21,2,3,2,1,,1,3,1,,,,,,,6,2,,,,,3,2015,2014-15,div1,Spartanburg Methodist,spartanburgmethodist,masonberneln4i,Mason Berne
-Mar 10,home,Lakeland,W,13-2,13,13,3,2,1,,,1,3,1,,,,,,,4,1,,1,,,4,2015,2014-15,div1,Spartanburg Methodist,spartanburgmethodist,masonberneln4i,Mason Berne
-Mar 10,away,Brunswick,L,8-0,8,8,3,0,1,,,,0,,,,,,,,1,0,,,2,,3,2015,2014-15,div1,Spartanburg Methodist,spartanburgmethodist,masonberneln4i,Mason Berne
-Mar 11,away,Brunswick,L,9-3,9,9,3,0,1,,,,0,1,,,,,,,1,0,,,2,,4,2015,2014-15,div1,Spartanburg Methodist,spartanburgmethodist,masonberneln4i,Mason Berne
-Mar 11,away,Brunswick,W,12-3,12,12,,,,,,,,,,,,,,,,,,,,,,2015,2014-15,div1,Spartanburg Methodist,spartanburgmethodist,masonberneln4i,Mason Berne
-Mar 14,away,USC Salkehatchie,W,3-0,3,3,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,1,2.00,4,2015,2014-15,div1,Spartanburg Methodist,spartanburgmethodist,masonberneln4i,Mason Berne
-Mar 14,away,USC Salkehatchie,W,10-1,10,10,3,0,1,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,1,0.00,3,2015,2014-15,div1,Spartanburg Methodist,spartanburgmethodist,masonberneln4i,Mason Berne
-Mar 15,away,USC Salkehatchie,W,2-1,2,2,4,0,1,0,0,0,1,0,1,0,0,0,0,0,1,0,0,1,1,1.00,4,2015,2014-15,div1,Spartanburg Methodist,spartanburgmethodist,masonberneln4i,Mason Berne
-Mar 15,away,USC Salkehatchie,W,11-6,11,11,4,0,3,2,0,0,4,0,0,0,0,1,0,0,5,2,0,1,0,,5,2015,2014-15,div1,Spartanburg Methodist,spartanburgmethodist,masonberneln4i,Mason Berne
-Mar 21,away,USC Lancaster,W,3-1,3,3,4,0,3,1,,,1,,,,,,,,4,1,,,,,4,2015,2014-15,div1,Spartanburg Methodist,spartanburgmethodist,masonberneln4i,Mason Berne
-Mar 21,away,USC Lancaster,L,6-3,6,6,3,1,1,,,1,1,,,,,,,,4,1,,,,,3,2015,2014-15,div1,Spartanburg Methodist,spartanburgmethodist,masonberneln4i,Mason Berne
-Mar 22,away,USC Lancaster,L,8-7,8,8,4,0,2,,,,1,,,,,,,,2,0,,,,,4,2015,2014-15,div1,Spartanburg Methodist,spartanburgmethodist,masonberneln4i,Mason Berne
-Mar 22,away,USC Lancaster,L,5-2,5,5,,,,,,,,,,,,,,,,,,,,,,2015,2014-15,div1,Spartanburg Methodist,spartanburgmethodist,masonberneln4i,Mason Berne
-Mar 28,away,Pitt,W,8-4,8,8,4,1,2,1,,,0,,,,,,,,3,1,,,1,,4,2015,2014-15,div1,Spartanburg Methodist,spartanburgmethodist,masonberneln4i,Mason Berne
-Mar 28,away,Pitt,L,4-2,4,4,4,0,1,,,,0,,1,,,,,,1,0,,1,1,1.00,4,2015,2014-15,div1,Spartanburg Methodist,spartanburgmethodist,masonberneln4i,Mason Berne
-Mar 29,away,Pitt,W,3-1,3,3,4,0,1,,,,1,,,,,,,,1,0,,1,2,0.50,4,2015,2014-15,div1,Spartanburg Methodist,spartanburgmethodist,masonberneln4i,Mason Berne
-Mar 29,away,Pitt,L,5-4,5,5,5,1,1,,,,0,,2,,,,,,1,0,,1,1,1.00,5,2015,2014-15,div1,Spartanburg Methodist,spartanburgmethodist,masonberneln4i,Mason Berne
-Apr 3,home,Florence-Darlington Tech,W,5-4,5,5,1,1,0,,,,1,1,,,,,1,,0,0,,,2,,3,2015,2014-15,div1,Spartanburg Methodist,spartanburgmethodist,masonberneln4i,Mason Berne
-Apr 3,home,Florence-Darlington Tech,L,4-0,4,4,3,0,1,,,,0,,,,,,,,1,0,,,2,,3,2015,2014-15,div1,Spartanburg Methodist,spartanburgmethodist,masonberneln4i,Mason Berne
-Apr 4,home,Florence-Darlington Tech,L,8-5,8,8,3,0,1,,,,1,,,,,1,,,1,0,1,1,1,1.00,4,2015,2014-15,div1,Spartanburg Methodist,spartanburgmethodist,masonberneln4i,Mason Berne
-Apr 4,home,Florence-Darlington Tech,W,15-14,15,15,3,1,1,1,,,2,2,,,,,,,2,1,,1,1,1.00,5,2015,2014-15,div1,Spartanburg Methodist,spartanburgmethodist,masonberneln4i,Mason Berne
-Apr 11,away,USC Sumter,L,2-1,2,2,4,0,0,,,,0,,1,,,,,,0,0,,,2,,4,2015,2014-15,div1,Spartanburg Methodist,spartanburgmethodist,masonberneln4i,Mason Berne
-Apr 11,away,USC Sumter,L,5-4,5,5,3,1,1,,,,0,,,,,,,1,1,0,,1,2,0.50,4,2015,2014-15,div1,Spartanburg Methodist,spartanburgmethodist,masonberneln4i,Mason Berne
-Apr 12,away,USC Sumter,L,3-1,3,3,3,0,0,,,,0,,,,,,,,0,0,,,3,,3,2015,2014-15,div1,Spartanburg Methodist,spartanburgmethodist,masonberneln4i,Mason Berne
-Apr 12,away,USC Sumter,W,8-7,8,8,1,0,0,,,,0,,1,,,,,,0,0,,,,,1,2015,2014-15,div1,Spartanburg Methodist,spartanburgmethodist,masonberneln4i,Mason Berne
-Apr 15,away,Walters State,,,,,,,,,,,,,,,,,,,,,,,,,,2015,2014-15,div1,Spartanburg Methodist,spartanburgmethodist,masonberneln4i,Mason Berne
-Apr 15,away,Walters State,,,,,,,,,,,,,,,,,,,,,,,,,,2015,2014-15,div1,Spartanburg Methodist,spartanburgmethodist,masonberneln4i,Mason Berne
-Apr 15,away,Walters State,,,,,,,,,,,,,,,,,,,,,,,,,,2015,2014-15,div1,Spartanburg Methodist,spartanburgmethodist,masonberneln4i,Mason Berne
-Apr 15,away,Walters State,,,,,,,,,,,,,,,,,,,,,,,,,,2015,2014-15,div1,Spartanburg Methodist,spartanburgmethodist,masonberneln4i,Mason Berne
-Apr 18,home,Louisburg,,,,,,,,,,,,,,,,,,,,,,,,,,2015,2014-15,div1,Spartanburg Methodist,spartanburgmethodist,masonberneln4i,Mason Berne
-Apr 18,home,Louisburg,,,,,,,,,,,,,,,,,,,,,,,,,,2015,2014-15,div1,Spartanburg Methodist,spartanburgmethodist,masonberneln4i,Mason Berne
-Apr 18,home,Louisburg,,,,,,,,,,,,,,,,,,,,,,,,,,2015,2014-15,div1,Spartanburg Methodist,spartanburgmethodist,masonberneln4i,Mason Berne
-Apr 18,home,Louisburg,,,,,,,,,,,,,,,,,,,,,,,,,,2015,2014-15,div1,Spartanburg Methodist,spartanburgmethodist,masonberneln4i,Mason Berne
-Apr 19,home,Louisburg,,,,,,,,,,,,,,,,,,,,,,,,,,2015,2014-15,div1,Spartanburg Methodist,spartanburgmethodist,masonberneln4i,Mason Berne
-Apr 19,home,Louisburg,,,,,,,,,,,,,,,,,,,,,,,,,,2015,2014-15,div1,Spartanburg Methodist,spartanburgmethodist,masonberneln4i,Mason Berne
-Apr 19,home,Louisburg,,,,,,,,,,,,,,,,,,,,,,,,,,2015,2014-15,div1,Spartanburg Methodist,spartanburgmethodist,masonberneln4i,Mason Berne
-Apr 19,home,Louisburg,,,,,,,,,,,,,,,,,,,,,,,,,,2015,2014-15,div1,Spartanburg Methodist,spartanburgmethodist,masonberneln4i,Mason Berne
-Apr 25,home,USC Salkehatchie,L,7-3,7,7,4,0,0,,,,0,1,,1,,,,,0,0,,3,1,3.00,5,2015,2014-15,div1,Spartanburg Methodist,spartanburgmethodist,masonberneln4i,Mason Berne
-Apr 26,home,USC Salkehatchie,W,8-4,8,8,5,2,2,1,,,0,,1,,,,,,3,1,1,1,1,1.00,5,2015,2014-15,div1,Spartanburg Methodist,spartanburgmethodist,masonberneln4i,Mason Berne
-Apr 28,home,vs. Surry,W,10-1,10,10,4,2,2,,,,2,,,,,,,,2,0,,,1,,4,2015,2014-15,div1,Spartanburg Methodist,spartanburgmethodist,masonberneln4i,Mason Berne
-Apr 28,away,Surry,W,2-1,2,2,4,0,0,,,,0,,,,,,,,0,0,1,4,,,4,2015,2014-15,div1,Spartanburg Methodist,spartanburgmethodist,masonberneln4i,Mason Berne
-May 2,home,vs. USC Lancaster,L,7-0,7,7,3,0,0,,,,0,,,,,,,,0,0,,2,1,2.00,3,2015,2014-15,div1,Spartanburg Methodist,spartanburgmethodist,masonberneln4i,Mason Berne
-May 3,home,vs. USC Sumter,L,9-7,9,9,4,0,0,,,,0,1,1,,,,,,0,0,,,3,,5,2015,2014-15,div1,Spartanburg Methodist,spartanburgmethodist,masonberneln4i,Mason Berne
+date,location,opponent,result,score,team_score,opp_score,game_score_diff_x,game_win_loss_x,game_id_x,AB,R,H,2B,3B,HR,RBI,BB,K,SB,CS,game_score_diff_y,game_win_loss_y,game_id_y,HBP,SF,SH,TB,XBH,HDP,GO,FO,GO/FO,PA,season,njcaa_season,njcaa_division,team,team_id,player_id,player_name
+Feb 7,home,Surry,W,10-2,10,2,8.0,win,20150207_nu57,3,1,0,,,,1,,,,,8.0,win,20150207_nu57,,,,0,0,,1,,,3,2015,2014-15,div1,Spartanburg Methodist,spartanburgmethodist,masonberneln4i,Mason Berne
+Feb 7,home,Surry,L,2-0,2,0,2.0,win,20150207_eoew,3,0,0,,,,0,,,,,2.0,win,20150207_eoew,,,,0,0,,1,2,0.50,3,2015,2014-15,div1,Spartanburg Methodist,spartanburgmethodist,masonberneln4i,Mason Berne
+Feb 11,home,Georgia Perimeter,W,4-3,4,3,1.0,win,20150211_gt8f,3,0,0,,,,0,,1,,,1.0,win,20150211_gt8f,,,,0,0,,2,,,3,2015,2014-15,div1,Spartanburg Methodist,spartanburgmethodist,masonberneln4i,Mason Berne
+Feb 11,home,Georgia Perimeter,W,5-4,5,4,1.0,win,,,,,,,,,,,,,1.0,win,,,,,,,,,,,,2015,2014-15,div1,Spartanburg Methodist,spartanburgmethodist,masonberneln4i,Mason Berne
+Mar 2,home,Catawba Valley,W,4-1,4,1,3.0,win,20150302_hrzf,2,0,1,,,,0,1,,,,3.0,win,20150302_hrzf,,,,1,0,,1,,,3,2015,2014-15,div1,Spartanburg Methodist,spartanburgmethodist,masonberneln4i,Mason Berne
+Mar 2,home,Catawba Valley,W,4-2,4,2,2.0,win,20150302_kkx8,3,1,1,,,1,1,,,,,2.0,win,20150302_kkx8,,,,4,1,1,1,1,1.00,3,2015,2014-15,div1,Spartanburg Methodist,spartanburgmethodist,masonberneln4i,Mason Berne
+Mar 4,home,Walters State,L,8-5,8,5,3.0,win,20150304_1w2b,4,0,0,,,,0,,,,,3.0,win,20150304_1w2b,,,,0,0,,2,1,2.00,4,2015,2014-15,div1,Spartanburg Methodist,spartanburgmethodist,masonberneln4i,Mason Berne
+Mar 4,home,Walters State,L,5-0,5,0,5.0,win,20150304_mew7,3,0,1,,,,0,,2,,,5.0,win,20150304_mew7,,,,1,0,,,,,3,2015,2014-15,div1,Spartanburg Methodist,spartanburgmethodist,masonberneln4i,Mason Berne
+Mar 7,home,Guilford Tech,W,6-2,6,2,4.0,win,20150307_ud9k,3,0,0,,,,0,,1,,,4.0,win,20150307_ud9k,,,,0,0,,,2,,3,2015,2014-15,div1,Spartanburg Methodist,spartanburgmethodist,masonberneln4i,Mason Berne
+Mar 7,home,Guilford Tech,L,8-6,8,6,2.0,win,20150307_enmg,1,0,1,,,,2,,,,,2.0,win,20150307_enmg,,,,1,0,,,,,1,2015,2014-15,div1,Spartanburg Methodist,spartanburgmethodist,masonberneln4i,Mason Berne
+Mar 8,home,Guilford Tech,W,6-5,6,5,1.0,win,20150308_py5g,4,0,1,,,,2,,,,,1.0,win,20150308_py5g,,,,1,0,,2,1,2.00,4,2015,2014-15,div1,Spartanburg Methodist,spartanburgmethodist,masonberneln4i,Mason Berne
+Mar 8,home,Guilford Tech,W,21-3,21,3,18.0,win,20150308_v1si,2,3,2,1,,1,3,1,,,,18.0,win,20150308_v1si,,,,6,2,,,,,3,2015,2014-15,div1,Spartanburg Methodist,spartanburgmethodist,masonberneln4i,Mason Berne
+Mar 10,home,Lakeland,W,13-2,13,2,11.0,win,20150310_zg7s,3,2,1,,,1,3,1,,,,11.0,win,20150310_zg7s,,,,4,1,,1,,,4,2015,2014-15,div1,Spartanburg Methodist,spartanburgmethodist,masonberneln4i,Mason Berne
+Apr 3,home,Florence-Darlington Tech,W,5-4,5,4,1.0,win,20150403_gchp,1,1,0,,,,1,1,,,,1.0,win,20150403_gchp,,1,,0,0,,,2,,3,2015,2014-15,div1,Spartanburg Methodist,spartanburgmethodist,masonberneln4i,Mason Berne
+Apr 3,home,Florence-Darlington Tech,L,4-0,4,0,4.0,win,20150403_kv6t,3,0,1,,,,0,,,,,4.0,win,20150403_kv6t,,,,1,0,,,2,,3,2015,2014-15,div1,Spartanburg Methodist,spartanburgmethodist,masonberneln4i,Mason Berne
+Apr 4,home,Florence-Darlington Tech,L,8-5,8,5,3.0,win,20150404_41o8,3,0,1,,,,1,,,,,3.0,win,20150404_41o8,1,,,1,0,1,1,1,1.00,4,2015,2014-15,div1,Spartanburg Methodist,spartanburgmethodist,masonberneln4i,Mason Berne
+Apr 4,home,Florence-Darlington Tech,W,15-14,15,14,1.0,win,20150404_j4ui,3,1,1,1,,,2,2,,,,1.0,win,20150404_j4ui,,,,2,1,,1,1,1.00,5,2015,2014-15,div1,Spartanburg Methodist,spartanburgmethodist,masonberneln4i,Mason Berne
+Apr 18,home,Louisburg,,,,,1.0,win,,,,,,,,,,,,,1.0,win,,,,,,,,,,,,2015,2014-15,div1,Spartanburg Methodist,spartanburgmethodist,masonberneln4i,Mason Berne
+Apr 18,home,Louisburg,,,,,1.0,win,,,,,,,,,,,,,1.0,win,,,,,,,,,,,,2015,2014-15,div1,Spartanburg Methodist,spartanburgmethodist,masonberneln4i,Mason Berne
+Apr 18,home,Louisburg,,,,,1.0,win,,,,,,,,,,,,,1.0,win,,,,,,,,,,,,2015,2014-15,div1,Spartanburg Methodist,spartanburgmethodist,masonberneln4i,Mason Berne
+Apr 18,home,Louisburg,,,,,1.0,win,,,,,,,,,,,,,1.0,win,,,,,,,,,,,,2015,2014-15,div1,Spartanburg Methodist,spartanburgmethodist,masonberneln4i,Mason Berne
+Apr 19,home,Louisburg,,,,,1.0,win,,,,,,,,,,,,,1.0,win,,,,,,,,,,,,2015,2014-15,div1,Spartanburg Methodist,spartanburgmethodist,masonberneln4i,Mason Berne
+Apr 19,home,Louisburg,,,,,1.0,win,,,,,,,,,,,,,1.0,win,,,,,,,,,,,,2015,2014-15,div1,Spartanburg Methodist,spartanburgmethodist,masonberneln4i,Mason Berne
+Apr 19,home,Louisburg,,,,,1.0,win,,,,,,,,,,,,,1.0,win,,,,,,,,,,,,2015,2014-15,div1,Spartanburg Methodist,spartanburgmethodist,masonberneln4i,Mason Berne
+Apr 19,home,Louisburg,,,,,1.0,win,,,,,,,,,,,,,1.0,win,,,,,,,,,,,,2015,2014-15,div1,Spartanburg Methodist,spartanburgmethodist,masonberneln4i,Mason Berne
+Apr 25,home,USC Salkehatchie,L,7-3,7,3,4.0,win,20150425_f92k,4,0,0,,,,0,1,,1,,4.0,win,20150425_f92k,,,,0,0,,3,1,3.00,5,2015,2014-15,div1,Spartanburg Methodist,spartanburgmethodist,masonberneln4i,Mason Berne
+Apr 26,home,USC Salkehatchie,W,8-4,8,4,4.0,win,20150426_i4s2,5,2,2,1,,,0,,1,,,4.0,win,20150426_i4s2,,,,3,1,1,1,1,1.00,5,2015,2014-15,div1,Spartanburg Methodist,spartanburgmethodist,masonberneln4i,Mason Berne

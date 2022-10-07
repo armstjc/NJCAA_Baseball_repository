@@ -147,11 +147,11 @@ def getNjcaaD1BattingGamelogs(webdriverPath="./chromedriver_mac64_m1"):
 				except:
 					game_team_score = None
 				try:
-					game_opp_score = str(game_score.split('-',-1)[0])
+					game_opp_score = str(game_score.split('-',-1)[1])
 				except:
 					game_opp_score = None
 				try:
-					game_score_diff = game_team_score - game_opp_score
+					game_score_diff = int(game_team_score) - int(game_opp_score)
 				except:
 					game_score_diff
 				try:
@@ -231,11 +231,11 @@ def getNjcaaD1BattingGamelogs(webdriverPath="./chromedriver_mac64_m1"):
 				except:
 					game_team_score = None
 				try:
-					game_opp_score = str(game_score.split('-',-1)[0])
+					game_opp_score = str(game_score.split('-',-1)[1])
 				except:
 					game_opp_score = None
 				try:
-					game_score_diff = game_team_score - game_opp_score
+					game_score_diff = int(game_team_score) - int(game_opp_score)
 				except:
 					game_score_diff
 				try:
@@ -326,11 +326,11 @@ def getNjcaaD1BattingGamelogs(webdriverPath="./chromedriver_mac64_m1"):
 				except:
 					game_team_score = None
 				try:
-					game_opp_score = str(game_score.split('-',-1)[0])
+					game_opp_score = str(game_score.split('-',-1)[1])
 				except:
 					game_opp_score = None
 				try:
-					game_score_diff = game_team_score - game_opp_score
+					game_score_diff = int(game_team_score) - int(game_opp_score)
 				except:
 					game_score_diff
 				try:
@@ -416,11 +416,11 @@ def getNjcaaD1BattingGamelogs(webdriverPath="./chromedriver_mac64_m1"):
 				except:
 					game_team_score = None
 				try:
-					game_opp_score = str(game_score.split('-',-1)[0])
+					game_opp_score = str(game_score.split('-',-1)[1])
 				except:
 					game_opp_score = None
 				try:
-					game_score_diff = game_team_score - game_opp_score
+					game_score_diff = int(game_team_score) - int(game_opp_score)
 				except:
 					game_score_diff
 				try:

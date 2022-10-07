@@ -1,61 +1,31 @@
-date,location,opponent,result,score,team_score,opp_score,AB,R,H,2B,3B,HR,RBI,BB,K,SB,CS,HBP,SF,SH,TB,XBH,HDP,GO,FO,GO/FO,PA,season,njcaa_season,njcaa_division,team,team_id,player_id,player_name
-Feb 6,home,Rockhurst,W,11-0,11,11,3,2,2,1,,,0,,1,,,,,,3,1,,,,,3,2015,2014-15,div1,Johnson County,johnsoncountycommunitycollege,alecalvarezeysv,Alec Alvarez
-Feb 9,away,Dallas College - Mountain View,W,15-2,15,15,3,3,3,1,,,1,1,,,,,,,4,1,,,,,4,2015,2014-15,div1,Johnson County,johnsoncountycommunitycollege,alecalvarezeysv,Alec Alvarez
-Feb 10,home,vs. Murray State,W,4-3,4,4,3,1,1,,,,0,,,,,,,,1,0,,,,,3,2015,2014-15,div1,Johnson County,johnsoncountycommunitycollege,alecalvarezeysv,Alec Alvarez
-Feb 10,away,Dallas College - Mountain View,W,10-1,10,10,4,3,2,1,,,0,,,,,,,,3,1,,,,,4,2015,2014-15,div1,Johnson County,johnsoncountycommunitycollege,alecalvarezeysv,Alec Alvarez
-Feb 11,away,Dallas College - Mountain View,W,18-10,18,18,5,3,3,,,1,1,,,2,,1,,,6,1,,,,,6,2015,2014-15,div1,Johnson County,johnsoncountycommunitycollege,alecalvarezeysv,Alec Alvarez
-Feb 13,home,Kirkwood,W,7-2,7,7,1,2,0,,,,0,,1,,,2,,,0,0,,,,,3,2015,2014-15,div1,Johnson County,johnsoncountycommunitycollege,alecalvarezeysv,Alec Alvarez
-Feb 13,home,Kirkwood,W,4-1,4,4,3,0,1,,,,1,,1,,,1,,,1,0,,,,,4,2015,2014-15,div1,Johnson County,johnsoncountycommunitycollege,alecalvarezeysv,Alec Alvarez
-Feb 24,home,Fort Scott,W,14-4,14,14,4,1,2,,,1,1,,,,1,,,,5,1,,,,,4,2015,2014-15,div1,Johnson County,johnsoncountycommunitycollege,alecalvarezeysv,Alec Alvarez
-Feb 24,home,Fort Scott,W,16-4,16,16,4,1,1,,,,0,,1,,,,,,1,0,,,,,4,2015,2014-15,div1,Johnson County,johnsoncountycommunitycollege,alecalvarezeysv,Alec Alvarez
-Feb 25,home,vs. Fort Scott,W,8-6,8,8,3,1,1,1,,,0,,,,,,,,2,1,,,,,3,2015,2014-15,div1,Johnson County,johnsoncountycommunitycollege,alecalvarezeysv,Alec Alvarez
-Feb 25,home,vs. Fort Scott,L,5-4,5,5,5,0,0,,,,0,,,,,,,,0,0,1,,,,5,2015,2014-15,div1,Johnson County,johnsoncountycommunitycollege,alecalvarezeysv,Alec Alvarez
-Mar 3,home,Wentworth Military,W,11-1,11,11,2,1,0,,,,0,1,1,,,1,,,0,0,,,,,4,2015,2014-15,div1,Johnson County,johnsoncountycommunitycollege,alecalvarezeysv,Alec Alvarez
-Mar 3,home,Wentworth Military,W,10-0,10,10,3,1,1,1,,,0,,2,,,,,,2,1,,,,,3,2015,2014-15,div1,Johnson County,johnsoncountycommunitycollege,alecalvarezeysv,Alec Alvarez
-Mar 6,away,Kansas City Kansas,W,6-2,6,6,3,0,0,,,,0,1,,,,,,,0,0,,,,,4,2015,2014-15,div1,Johnson County,johnsoncountycommunitycollege,alecalvarezeysv,Alec Alvarez
-Mar 6,away,Kansas City Kansas,L,10-9,10,10,5,1,1,,,,1,,2,,,,,,1,0,,,,,5,2015,2014-15,div1,Johnson County,johnsoncountycommunitycollege,alecalvarezeysv,Alec Alvarez
-Mar 7,home,Kansas City Kansas,L,6-5,6,6,2,0,0,,,,0,,,,,,,1,0,0,,,,,3,2015,2014-15,div1,Johnson County,johnsoncountycommunitycollege,alecalvarezeysv,Alec Alvarez
-Mar 7,home,Kansas City Kansas,W,8-6,8,8,5,1,1,1,,,0,,1,,,,,,2,1,,,,,5,2015,2014-15,div1,Johnson County,johnsoncountycommunitycollege,alecalvarezeysv,Alec Alvarez
-Mar 10,home,Des Moines Area,L,9-7,9,9,4,2,1,,,,2,1,1,,,,,,1,0,,,,,5,2015,2014-15,div1,Johnson County,johnsoncountycommunitycollege,alecalvarezeysv,Alec Alvarez
-Mar 12,home,Neosho County,W,11-7,11,11,4,1,2,,,,1,,,,,,,,2,0,,2,,,4,2015,2014-15,div1,Johnson County,johnsoncountycommunitycollege,alecalvarezeysv,Alec Alvarez
-Mar 12,home,Neosho County,W,8-7,8,8,3,1,2,1,,,1,,,,,,,1,3,1,,2,,,4,2015,2014-15,div1,Johnson County,johnsoncountycommunitycollege,alecalvarezeysv,Alec Alvarez
-Mar 14,away,Neosho County,W,2-1,2,2,3,0,0,,,,0,,1,,,,,,0,0,,,2,,3,2015,2014-15,div1,Johnson County,johnsoncountycommunitycollege,alecalvarezeysv,Alec Alvarez
-Mar 14,away,Neosho County,W,8-7,8,8,4,0,1,,,,1,,,,,,,1,1,0,,3,1,3.00,5,2015,2014-15,div1,Johnson County,johnsoncountycommunitycollege,alecalvarezeysv,Alec Alvarez
-Mar 16,home,Ellsworth,W,10-4,10,10,4,1,0,,,,0,,2,,,,,,0,0,,,,,4,2015,2014-15,div1,Johnson County,johnsoncountycommunitycollege,alecalvarezeysv,Alec Alvarez
-Mar 16,home,Ellsworth,W,18-8,18,18,2,1,0,,,,0,3,2,1,,,,,0,0,,,,,5,2015,2014-15,div1,Johnson County,johnsoncountycommunitycollege,alecalvarezeysv,Alec Alvarez
-Mar 20,away,Cowley,L,11-6,11,11,4,0,3,,,,2,,,,,,,,3,0,,,,,4,2015,2014-15,div1,Johnson County,johnsoncountycommunitycollege,alecalvarezeysv,Alec Alvarez
-Mar 20,away,Cowley,W,12-9,12,12,4,1,1,,,1,4,,,,,,,,4,1,,,,,4,2015,2014-15,div1,Johnson County,johnsoncountycommunitycollege,alecalvarezeysv,Alec Alvarez
-Mar 22,home,Cowley,L,10-6,10,10,2,1,1,,,,0,1,,,,,,,1,0,,,,,3,2015,2014-15,div1,Johnson County,johnsoncountycommunitycollege,alecalvarezeysv,Alec Alvarez
-Mar 22,home,Cowley,L,7-4,7,7,3,1,1,,,,0,1,1,,,,,,1,0,,,,,4,2015,2014-15,div1,Johnson County,johnsoncountycommunitycollege,alecalvarezeysv,Alec Alvarez
-Mar 24,away,MCC-Longview,W,10-7,10,10,,,,,,,,,,,,,,,,,,,,,,2015,2014-15,div1,Johnson County,johnsoncountycommunitycollege,alecalvarezeysv,Alec Alvarez
-Mar 26,home,Coffeyville,W,6-5,6,6,3,1,0,,,,0,1,,,,,,,0,0,,,,,4,2015,2014-15,div1,Johnson County,johnsoncountycommunitycollege,alecalvarezeysv,Alec Alvarez
-Mar 26,home,Coffeyville,W,8-3,8,8,3,0,0,,,,0,,2,,,,,,0,0,,,,,3,2015,2014-15,div1,Johnson County,johnsoncountycommunitycollege,alecalvarezeysv,Alec Alvarez
-Mar 28,away,Coffeyville,W,7-5,7,7,3,1,1,,,,0,1,,,,,,,1,0,,,,,4,2015,2014-15,div1,Johnson County,johnsoncountycommunitycollege,alecalvarezeysv,Alec Alvarez
-Mar 28,away,Coffeyville,W,4-2,4,4,3,1,2,2,,,1,,,,,,1,,4,2,,,,,4,2015,2014-15,div1,Johnson County,johnsoncountycommunitycollege,alecalvarezeysv,Alec Alvarez
-Mar 31,home,MCC-Maple Woods,W,12-1,12,12,3,1,1,,,,0,,,1,,,,,1,0,,,,,3,2015,2014-15,div1,Johnson County,johnsoncountycommunitycollege,alecalvarezeysv,Alec Alvarez
-Mar 31,home,MCC-Maple Woods,L,10-8,10,10,3,1,0,,,,0,,1,,,,,1,0,0,,,,,4,2015,2014-15,div1,Johnson County,johnsoncountycommunitycollege,alecalvarezeysv,Alec Alvarez
-Apr 1,away,Independence,W,11-5,11,11,3,0,1,1,,,2,,,1,,,,,2,1,,,,,3,2015,2014-15,div1,Johnson County,johnsoncountycommunitycollege,alecalvarezeysv,Alec Alvarez
-Apr 1,away,Independence,W,12-7,12,12,3,1,1,,,,0,1,,1,,,,1,1,0,,,,,5,2015,2014-15,div1,Johnson County,johnsoncountycommunitycollege,alecalvarezeysv,Alec Alvarez
-Apr 4,home,Independence,W,10-6,10,10,2,0,1,,,,1,,,1,1,,1,,1,0,,,,,3,2015,2014-15,div1,Johnson County,johnsoncountycommunitycollege,alecalvarezeysv,Alec Alvarez
-Apr 4,home,Independence,W,12-2,12,12,3,1,1,,,,1,,,1,,,1,,1,0,,,,,4,2015,2014-15,div1,Johnson County,johnsoncountycommunitycollege,alecalvarezeysv,Alec Alvarez
-Apr 7,home,MCC-Longview,W,19-9,19,19,4,3,2,,1,,2,1,1,2,,,,,4,1,,,,,5,2015,2014-15,div1,Johnson County,johnsoncountycommunitycollege,alecalvarezeysv,Alec Alvarez
-Apr 9,home,Labette,W,7-3,7,7,3,2,3,,,,1,,,,,,,,3,0,,,,,3,2015,2014-15,div1,Johnson County,johnsoncountycommunitycollege,alecalvarezeysv,Alec Alvarez
-Apr 9,home,Labette,W,5-2,5,5,3,0,1,,,,0,1,,,1,,,,1,0,,,,,4,2015,2014-15,div1,Johnson County,johnsoncountycommunitycollege,alecalvarezeysv,Alec Alvarez
-Apr 11,away,Labette,W,19-9,19,19,4,2,2,,,1,3,,,,,,,,5,1,,,,,4,2015,2014-15,div1,Johnson County,johnsoncountycommunitycollege,alecalvarezeysv,Alec Alvarez
-Apr 11,away,Labette,W,14-4,14,14,4,2,2,1,,,0,,,,,,,,3,1,,,,,4,2015,2014-15,div1,Johnson County,johnsoncountycommunitycollege,alecalvarezeysv,Alec Alvarez
-Apr 14,home,Southeast,W,5-4,5,5,4,0,1,,,,1,,,,,,,,1,0,,,,,4,2015,2014-15,div1,Johnson County,johnsoncountycommunitycollege,alecalvarezeysv,Alec Alvarez
-Apr 16,away,Highland (KS),W,7-4,7,7,3,2,2,,,,1,,,,,,,,2,0,,,,,3,2015,2014-15,div1,Johnson County,johnsoncountycommunitycollege,alecalvarezeysv,Alec Alvarez
-Apr 16,away,Highland (KS),W,16-6,16,16,3,2,2,,,1,3,,,,,1,,,5,1,,,,,4,2015,2014-15,div1,Johnson County,johnsoncountycommunitycollege,alecalvarezeysv,Alec Alvarez
-Apr 17,home,Highland (KS),W,14-1,14,14,2,1,0,,,,0,1,,,,,,,0,0,,,,,3,2015,2014-15,div1,Johnson County,johnsoncountycommunitycollege,alecalvarezeysv,Alec Alvarez
-Apr 17,home,Highland (KS),W,12-9,12,12,4,1,3,,1,,1,1,,,,,,,5,1,,,,,5,2015,2014-15,div1,Johnson County,johnsoncountycommunitycollege,alecalvarezeysv,Alec Alvarez
-Apr 21,away,MCC-Maple Woods,W,10-1,10,10,3,2,1,,,,1,1,,,,,1,,1,0,,,,,5,2015,2014-15,div1,Johnson County,johnsoncountycommunitycollege,alecalvarezeysv,Alec Alvarez
-Apr 21,away,MCC-Maple Woods,L,5-2,5,5,3,0,1,,,,0,,1,,,,,,1,0,,,,,3,2015,2014-15,div1,Johnson County,johnsoncountycommunitycollege,alecalvarezeysv,Alec Alvarez
-Apr 23,away,Allen County,W,9-5,9,9,3,1,1,,,,1,1,,,,,,,1,0,,,,,4,2015,2014-15,div1,Johnson County,johnsoncountycommunitycollege,alecalvarezeysv,Alec Alvarez
-Apr 23,away,Allen County,W,15-4,15,15,4,2,1,,,,1,1,1,1,,,,,1,0,,,,,5,2015,2014-15,div1,Johnson County,johnsoncountycommunitycollege,alecalvarezeysv,Alec Alvarez
-Apr 26,home,Allen County,W,3-2,3,3,3,0,0,,,,0,,,,,,,,0,0,,,,,3,2015,2014-15,div1,Johnson County,johnsoncountycommunitycollege,alecalvarezeysv,Alec Alvarez
-Apr 26,home,Allen County,W,14-4,14,14,3,3,1,1,,,1,2,,,,,,,2,1,,,,,5,2015,2014-15,div1,Johnson County,johnsoncountycommunitycollege,alecalvarezeysv,Alec Alvarez
-May 2,home,vs. Pratt,W,6-5,6,6,4,0,3,,,,1,,,,,,,,3,0,,,,,4,2015,2014-15,div1,Johnson County,johnsoncountycommunitycollege,alecalvarezeysv,Alec Alvarez
-May 2,home,vs. Pratt,W,13-3,13,13,4,2,2,1,,,2,1,,1,,,,,3,1,,,,,5,2015,2014-15,div1,Johnson County,johnsoncountycommunitycollege,alecalvarezeysv,Alec Alvarez
-May 8,home,vs. Fort Scott,L,5-3,5,5,4,1,1,,,,0,,,,,,,,1,0,,2,1,2.00,4,2015,2014-15,div1,Johnson County,johnsoncountycommunitycollege,alecalvarezeysv,Alec Alvarez
-May 9,home,vs. Seward County,W,4-3,4,4,4,0,1,,,,0,,1,,,,,1,1,0,,2,1,2.00,5,2015,2014-15,div1,Johnson County,johnsoncountycommunitycollege,alecalvarezeysv,Alec Alvarez
-May 10,home,vs. Butler,L,10-0,10,10,3,0,0,,,,0,,,,,,,,0,0,,2,1,2.00,3,2015,2014-15,div1,Johnson County,johnsoncountycommunitycollege,alecalvarezeysv,Alec Alvarez
+date,location,opponent,result,score,team_score,opp_score,game_score_diff_x,game_win_loss_x,game_id_x,AB,R,H,2B,3B,HR,RBI,BB,K,SB,CS,game_score_diff_y,game_win_loss_y,game_id_y,HBP,SF,SH,TB,XBH,HDP,GO,FO,GO/FO,PA,season,njcaa_season,njcaa_division,team,team_id,player_id,player_name
+Feb 6,home,Rockhurst,W,11-0,11,0,11.0,win,20150206_1cpp,3,2,2,1,,,0,,1,,,11.0,win,20150206_1cpp,,,,3,1,,,,,3,2015,2014-15,div1,Johnson County,johnsoncountycommunitycollege,alecalvarezeysv,Alec Alvarez
+Feb 13,home,Kirkwood,W,7-2,7,2,5.0,win,20150213_69sl,1,2,0,,,,0,,1,,,5.0,win,20150213_69sl,2,,,0,0,,,,,3,2015,2014-15,div1,Johnson County,johnsoncountycommunitycollege,alecalvarezeysv,Alec Alvarez
+Feb 13,home,Kirkwood,W,4-1,4,1,3.0,win,20150213_d3ri,3,0,1,,,,1,,1,,,3.0,win,20150213_d3ri,1,,,1,0,,,,,4,2015,2014-15,div1,Johnson County,johnsoncountycommunitycollege,alecalvarezeysv,Alec Alvarez
+Feb 24,home,Fort Scott,W,14-4,14,4,10.0,win,20150224_neks,4,1,2,,,1,1,,,,1,10.0,win,20150224_neks,,,,5,1,,,,,4,2015,2014-15,div1,Johnson County,johnsoncountycommunitycollege,alecalvarezeysv,Alec Alvarez
+Feb 24,home,Fort Scott,W,16-4,16,4,12.0,win,20150224_tf9t,4,1,1,,,,0,,1,,,12.0,win,20150224_tf9t,,,,1,0,,,,,4,2015,2014-15,div1,Johnson County,johnsoncountycommunitycollege,alecalvarezeysv,Alec Alvarez
+Mar 3,home,Wentworth Military,W,11-1,11,1,10.0,win,20150303_jhm9,2,1,0,,,,0,1,1,,,10.0,win,20150303_jhm9,1,,,0,0,,,,,4,2015,2014-15,div1,Johnson County,johnsoncountycommunitycollege,alecalvarezeysv,Alec Alvarez
+Mar 3,home,Wentworth Military,W,10-0,10,0,10.0,win,20150303_yppx,3,1,1,1,,,0,,2,,,10.0,win,20150303_yppx,,,,2,1,,,,,3,2015,2014-15,div1,Johnson County,johnsoncountycommunitycollege,alecalvarezeysv,Alec Alvarez
+Mar 7,home,Kansas City Kansas,L,6-5,6,5,1.0,win,20150307_gyo0,2,0,0,,,,0,,,,,1.0,win,20150307_gyo0,,,1,0,0,,,,,3,2015,2014-15,div1,Johnson County,johnsoncountycommunitycollege,alecalvarezeysv,Alec Alvarez
+Mar 7,home,Kansas City Kansas,W,8-6,8,6,2.0,win,20150307_lr4w,5,1,1,1,,,0,,1,,,2.0,win,20150307_lr4w,,,,2,1,,,,,5,2015,2014-15,div1,Johnson County,johnsoncountycommunitycollege,alecalvarezeysv,Alec Alvarez
+Mar 10,home,Des Moines Area,L,9-7,9,7,2.0,win,20150310_yiov,4,2,1,,,,2,1,1,,,2.0,win,20150310_yiov,,,,1,0,,,,,5,2015,2014-15,div1,Johnson County,johnsoncountycommunitycollege,alecalvarezeysv,Alec Alvarez
+Mar 12,home,Neosho County,W,11-7,11,7,4.0,win,20150312_9k43,4,1,2,,,,1,,,,,4.0,win,20150312_9k43,,,,2,0,,2,,,4,2015,2014-15,div1,Johnson County,johnsoncountycommunitycollege,alecalvarezeysv,Alec Alvarez
+Mar 12,home,Neosho County,W,8-7,8,7,1.0,win,20150312_09ec,3,1,2,1,,,1,,,,,1.0,win,20150312_09ec,,,1,3,1,,2,,,4,2015,2014-15,div1,Johnson County,johnsoncountycommunitycollege,alecalvarezeysv,Alec Alvarez
+Mar 16,home,Ellsworth,W,10-4,10,4,6.0,win,20150316_bu09,4,1,0,,,,0,,2,,,6.0,win,20150316_bu09,,,,0,0,,,,,4,2015,2014-15,div1,Johnson County,johnsoncountycommunitycollege,alecalvarezeysv,Alec Alvarez
+Mar 16,home,Ellsworth,W,18-8,18,8,10.0,win,20150316_aqaw,2,1,0,,,,0,3,2,1,,10.0,win,20150316_aqaw,,,,0,0,,,,,5,2015,2014-15,div1,Johnson County,johnsoncountycommunitycollege,alecalvarezeysv,Alec Alvarez
+Mar 22,home,Cowley,L,10-6,10,6,4.0,win,20150322_qrtk,2,1,1,,,,0,1,,,,4.0,win,20150322_qrtk,,,,1,0,,,,,3,2015,2014-15,div1,Johnson County,johnsoncountycommunitycollege,alecalvarezeysv,Alec Alvarez
+Mar 22,home,Cowley,L,7-4,7,4,3.0,win,20150322_t2x2,3,1,1,,,,0,1,1,,,3.0,win,20150322_t2x2,,,,1,0,,,,,4,2015,2014-15,div1,Johnson County,johnsoncountycommunitycollege,alecalvarezeysv,Alec Alvarez
+Mar 26,home,Coffeyville,W,6-5,6,5,1.0,win,20150326_jc6c,3,1,0,,,,0,1,,,,1.0,win,20150326_jc6c,,,,0,0,,,,,4,2015,2014-15,div1,Johnson County,johnsoncountycommunitycollege,alecalvarezeysv,Alec Alvarez
+Mar 26,home,Coffeyville,W,8-3,8,3,5.0,win,20150326_lves,3,0,0,,,,0,,2,,,5.0,win,20150326_lves,,,,0,0,,,,,3,2015,2014-15,div1,Johnson County,johnsoncountycommunitycollege,alecalvarezeysv,Alec Alvarez
+Mar 31,home,MCC-Maple Woods,W,12-1,12,1,11.0,win,20150331_dwkr,3,1,1,,,,0,,,1,,11.0,win,20150331_dwkr,,,,1,0,,,,,3,2015,2014-15,div1,Johnson County,johnsoncountycommunitycollege,alecalvarezeysv,Alec Alvarez
+Mar 31,home,MCC-Maple Woods,L,10-8,10,8,2.0,win,20150331_l50h,3,1,0,,,,0,,1,,,2.0,win,20150331_l50h,,,1,0,0,,,,,4,2015,2014-15,div1,Johnson County,johnsoncountycommunitycollege,alecalvarezeysv,Alec Alvarez
+Apr 4,home,Independence,W,10-6,10,6,4.0,win,20150404_pl4l,2,0,1,,,,1,,,1,1,4.0,win,20150404_pl4l,,1,,1,0,,,,,3,2015,2014-15,div1,Johnson County,johnsoncountycommunitycollege,alecalvarezeysv,Alec Alvarez
+Apr 4,home,Independence,W,12-2,12,2,10.0,win,20150404_wris,3,1,1,,,,1,,,1,,10.0,win,20150404_wris,,1,,1,0,,,,,4,2015,2014-15,div1,Johnson County,johnsoncountycommunitycollege,alecalvarezeysv,Alec Alvarez
+Apr 7,home,MCC-Longview,W,19-9,19,9,10.0,win,20150407_c7z1,4,3,2,,1,,2,1,1,2,,10.0,win,20150407_c7z1,,,,4,1,,,,,5,2015,2014-15,div1,Johnson County,johnsoncountycommunitycollege,alecalvarezeysv,Alec Alvarez
+Apr 9,home,Labette,W,7-3,7,3,4.0,win,20150409_j8vz,3,2,3,,,,1,,,,,4.0,win,20150409_j8vz,,,,3,0,,,,,3,2015,2014-15,div1,Johnson County,johnsoncountycommunitycollege,alecalvarezeysv,Alec Alvarez
+Apr 9,home,Labette,W,5-2,5,2,3.0,win,20150409_pe7z,3,0,1,,,,0,1,,,1,3.0,win,20150409_pe7z,,,,1,0,,,,,4,2015,2014-15,div1,Johnson County,johnsoncountycommunitycollege,alecalvarezeysv,Alec Alvarez
+Apr 14,home,Southeast,W,5-4,5,4,1.0,win,20150414_dns3,4,0,1,,,,1,,,,,1.0,win,20150414_dns3,,,,1,0,,,,,4,2015,2014-15,div1,Johnson County,johnsoncountycommunitycollege,alecalvarezeysv,Alec Alvarez
+Apr 17,home,Highland (KS),W,14-1,14,1,13.0,win,20150417_111v,2,1,0,,,,0,1,,,,13.0,win,20150417_111v,,,,0,0,,,,,3,2015,2014-15,div1,Johnson County,johnsoncountycommunitycollege,alecalvarezeysv,Alec Alvarez
+Apr 17,home,Highland (KS),W,12-9,12,9,3.0,win,20150417_jl1h,4,1,3,,1,,1,1,,,,3.0,win,20150417_jl1h,,,,5,1,,,,,5,2015,2014-15,div1,Johnson County,johnsoncountycommunitycollege,alecalvarezeysv,Alec Alvarez
+Apr 26,home,Allen County,W,3-2,3,2,1.0,win,20150426_dzwa,3,0,0,,,,0,,,,,1.0,win,20150426_dzwa,,,,0,0,,,,,3,2015,2014-15,div1,Johnson County,johnsoncountycommunitycollege,alecalvarezeysv,Alec Alvarez
+Apr 26,home,Allen County,W,14-4,14,4,10.0,win,20150426_kjc4,3,3,1,1,,,1,2,,,,10.0,win,20150426_kjc4,,,,2,1,,,,,5,2015,2014-15,div1,Johnson County,johnsoncountycommunitycollege,alecalvarezeysv,Alec Alvarez

@@ -1,64 +1,31 @@
-date,location,opponent,result,score,team_score,opp_score,AB,R,H,2B,3B,HR,RBI,BB,K,SB,CS,HBP,SF,SH,TB,XBH,HDP,GO,FO,GO/FO,PA,season,njcaa_season,njcaa_division,team,team_id,player_id,player_name
-Feb 7,home,Midland University JV,,,,,,,,,,,,,,,,,,,,,,,,,,2018,2017-18,div1,Cloud County,cloudcountycommunitycollege,neilsudbeckytt0,Neil Sudbeck
-Feb 8,home,vs. Fort Scott,L,6-5,6,6,,,,,,,,,,,,,,,,,,,,,,2018,2017-18,div1,Cloud County,cloudcountycommunitycollege,neilsudbeckytt0,Neil Sudbeck
-Feb 8,home,vs. Fort Scott,W,6-2,6,6,,,,,,,,,,,,,,,,,,,,,,2018,2017-18,div1,Cloud County,cloudcountycommunitycollege,neilsudbeckytt0,Neil Sudbeck
-Feb 9,home,vs. Fort Scott,W,8-3,8,8,,,,,,,,,,,,,,,,,,,,,,2018,2017-18,div1,Cloud County,cloudcountycommunitycollege,neilsudbeckytt0,Neil Sudbeck
-Feb 9,home,vs. Fort Scott,L,8-6,8,8,,,,,,,,,,,,,,,,,,,,,,2018,2017-18,div1,Cloud County,cloudcountycommunitycollege,neilsudbeckytt0,Neil Sudbeck
-Feb 17,home,Northeast,W,16-13,16,16,,,,,,,,,,,,,,,,,,,,,,2018,2017-18,div1,Cloud County,cloudcountycommunitycollege,neilsudbeckytt0,Neil Sudbeck
-Feb 17,home,Northeast,W,18-2,18,18,,,,,,,,,,,,,,,,,,,,,,2018,2017-18,div1,Cloud County,cloudcountycommunitycollege,neilsudbeckytt0,Neil Sudbeck
-Feb 18,home,Northeast,L,10-9,10,10,,,,,,,,,,,,,,,,,,,,,,2018,2017-18,div1,Cloud County,cloudcountycommunitycollege,neilsudbeckytt0,Neil Sudbeck
-Feb 18,home,Northeast,W,12-2,12,12,,,,,,,,,,,,,,,,,,,,,,2018,2017-18,div1,Cloud County,cloudcountycommunitycollege,neilsudbeckytt0,Neil Sudbeck
-Feb 26,away,Cowley,L,16-1,16,16,,,,,,,,,,,,,,,,,,,,,,2018,2017-18,div1,Cloud County,cloudcountycommunitycollege,neilsudbeckytt0,Neil Sudbeck
-Feb 27,away,Highland (KS),L,8-7,8,8,0,0,0,,,,0,,,,,,,,0,0,,,,,0,2018,2017-18,div1,Cloud County,cloudcountycommunitycollege,neilsudbeckytt0,Neil Sudbeck
-Mar 1,away,Garden City,L,8-7,8,8,0,0,0,,,,0,,,,,,,,0,0,,,,,0,2018,2017-18,div1,Cloud County,cloudcountycommunitycollege,neilsudbeckytt0,Neil Sudbeck
-Mar 1,away,Garden City,L,6-4,6,6,,,,,,,,,,,,,,,,,,,,,,2018,2017-18,div1,Cloud County,cloudcountycommunitycollege,neilsudbeckytt0,Neil Sudbeck
-Mar 3,home,Garden City,W,14-2,14,14,,,,,,,,,,,,,,,,,,,,,,2018,2017-18,div1,Cloud County,cloudcountycommunitycollege,neilsudbeckytt0,Neil Sudbeck
-Mar 3,home,Garden City,L,9-6,9,9,,,,,,,,,,,,,,,,,,,,,,2018,2017-18,div1,Cloud County,cloudcountycommunitycollege,neilsudbeckytt0,Neil Sudbeck
-Mar 6,home,Hastings College JV,,,,,,,,,,,,,,,,,,,,,,,,,,2018,2017-18,div1,Cloud County,cloudcountycommunitycollege,neilsudbeckytt0,Neil Sudbeck
-Mar 6,home,Hastings College JV,,,,,,,,,,,,,,,,,,,,,,,,,,2018,2017-18,div1,Cloud County,cloudcountycommunitycollege,neilsudbeckytt0,Neil Sudbeck
-Mar 6,home,Hastings College JV,,,,,,,,,,,,,,,,,,,,,,,,,,2018,2017-18,div1,Cloud County,cloudcountycommunitycollege,neilsudbeckytt0,Neil Sudbeck
-Mar 6,home,Hastings College JV,,,,,,,,,,,,,,,,,,,,,,,,,,2018,2017-18,div1,Cloud County,cloudcountycommunitycollege,neilsudbeckytt0,Neil Sudbeck
-Mar 8,home,Hutchinson,W,3-0,3,3,,,,,,,,,,,,,,,,,,,,,,2018,2017-18,div1,Cloud County,cloudcountycommunitycollege,neilsudbeckytt0,Neil Sudbeck
-Mar 8,home,Hutchinson,L,9-6,9,9,0,0,0,,,,0,,,,,,,,0,0,,,,,0,2018,2017-18,div1,Cloud County,cloudcountycommunitycollege,neilsudbeckytt0,Neil Sudbeck
-Mar 9,away,Hutchinson,L,11-1,11,11,,,,,,,,,,,,,,,,,,,,,,2018,2017-18,div1,Cloud County,cloudcountycommunitycollege,neilsudbeckytt0,Neil Sudbeck
-Mar 9,away,Hutchinson,L,9-8,9,9,,,,,,,,,,,,,,,,,,,,,,2018,2017-18,div1,Cloud County,cloudcountycommunitycollege,neilsudbeckytt0,Neil Sudbeck
-Mar 13,home,Southeast,L,9-2,9,9,0,0,0,,,,0,,,,,,,,0,0,,,,,0,2018,2017-18,div1,Cloud County,cloudcountycommunitycollege,neilsudbeckytt0,Neil Sudbeck
-Mar 15,away,Pratt,W,6-1,6,6,,,,,,,,,,,,,,,,,,,,,,2018,2017-18,div1,Cloud County,cloudcountycommunitycollege,neilsudbeckytt0,Neil Sudbeck
-Mar 15,away,Pratt,W,8-6,8,8,,,,,,,,,,,,,,,,,,,,,,2018,2017-18,div1,Cloud County,cloudcountycommunitycollege,neilsudbeckytt0,Neil Sudbeck
-Mar 17,home,Pratt,W,5-0,5,5,,,,,,,,,,,,,,,,,,,,,,2018,2017-18,div1,Cloud County,cloudcountycommunitycollege,neilsudbeckytt0,Neil Sudbeck
-Mar 17,home,Pratt,W,6-5,6,6,0,0,0,,,,0,,,,,,,,0,0,,,,,0,2018,2017-18,div1,Cloud County,cloudcountycommunitycollege,neilsudbeckytt0,Neil Sudbeck
-Mar 20,away,Southeast,,,,,,,,,,,,,,,,,,,,,,,,,,2018,2017-18,div1,Cloud County,cloudcountycommunitycollege,neilsudbeckytt0,Neil Sudbeck
-Mar 22,home,Seward County,W,5-2,5,5,0,0,0,,,,0,,,,,,,,0,0,,,,,0,2018,2017-18,div1,Cloud County,cloudcountycommunitycollege,neilsudbeckytt0,Neil Sudbeck
-Mar 22,home,Seward County,L,14-0,14,14,,,,,,,,,,,,,,,,,,,,,,2018,2017-18,div1,Cloud County,cloudcountycommunitycollege,neilsudbeckytt0,Neil Sudbeck
-Mar 24,away,Seward County,W,13-1,13,13,,,,,,,,,,,,,,,,,,,,,,2018,2017-18,div1,Cloud County,cloudcountycommunitycollege,neilsudbeckytt0,Neil Sudbeck
-Mar 24,away,Seward County,W,11-10,11,11,0,0,0,,,,0,,,,,,,,0,0,,,,,0,2018,2017-18,div1,Cloud County,cloudcountycommunitycollege,neilsudbeckytt0,Neil Sudbeck
-Mar 29,home,Colby,W,3-2,3,3,,,,,,,,,,,,,,,,,,,,,,2018,2017-18,div1,Cloud County,cloudcountycommunitycollege,neilsudbeckytt0,Neil Sudbeck
-Mar 29,home,Colby,W,12-2,12,12,,,,,,,,,,,,,,,,,,,,,,2018,2017-18,div1,Cloud County,cloudcountycommunitycollege,neilsudbeckytt0,Neil Sudbeck
-Mar 31,away,Colby,W,12-6,12,12,0,0,0,,,,0,,,,,,,,0,0,,,,,0,2018,2017-18,div1,Cloud County,cloudcountycommunitycollege,neilsudbeckytt0,Neil Sudbeck
-Mar 31,away,Colby,L,19-11,19,19,,,,,,,,,,,,,,,,,,,,,,2018,2017-18,div1,Cloud County,cloudcountycommunitycollege,neilsudbeckytt0,Neil Sudbeck
-Apr 4,away,Hastings College JV,W,3-1,3,3,,,,,,,,,,,,,,,,,,,,,,2018,2017-18,div1,Cloud County,cloudcountycommunitycollege,neilsudbeckytt0,Neil Sudbeck
-Apr 4,away,Hastings College JV,W,4-0,4,4,,,,,,,,,,,,,,,,,,,,,,2018,2017-18,div1,Cloud County,cloudcountycommunitycollege,neilsudbeckytt0,Neil Sudbeck
-Apr 5,home,MCC-Longview,L,13-6,13,13,0,0,0,,,,0,,,,,,,,0,0,,,,,0,2018,2017-18,div1,Cloud County,cloudcountycommunitycollege,neilsudbeckytt0,Neil Sudbeck
-Apr 5,home,MCC-Longview,W,12-2,12,12,,,,,,,,,,,,,,,,,,,,,,2018,2017-18,div1,Cloud County,cloudcountycommunitycollege,neilsudbeckytt0,Neil Sudbeck
-Apr 7,away,MCC-Longview,,,,,,,,,,,,,,,,,,,,,,,,,,2018,2017-18,div1,Cloud County,cloudcountycommunitycollege,neilsudbeckytt0,Neil Sudbeck
-Apr 7,away,MCC-Longview,,,,,,,,,,,,,,,,,,,,,,,,,,2018,2017-18,div1,Cloud County,cloudcountycommunitycollege,neilsudbeckytt0,Neil Sudbeck
-Apr 7,away,MCC-Longview,,,,,,,,,,,,,,,,,,,,,,,,,,2018,2017-18,div1,Cloud County,cloudcountycommunitycollege,neilsudbeckytt0,Neil Sudbeck
-Apr 7,away,MCC-Longview,,,,,,,,,,,,,,,,,,,,,,,,,,2018,2017-18,div1,Cloud County,cloudcountycommunitycollege,neilsudbeckytt0,Neil Sudbeck
-Apr 10,away,Iowa Western,L,13-6,13,13,0,0,0,,,,0,,,,,,,,0,0,,,,,0,2018,2017-18,div1,Cloud County,cloudcountycommunitycollege,neilsudbeckytt0,Neil Sudbeck
-Apr 12,home,Butler,W,5-0,5,5,,,,,,,,,,,,,,,,,,,,,,2018,2017-18,div1,Cloud County,cloudcountycommunitycollege,neilsudbeckytt0,Neil Sudbeck
-Apr 12,home,Butler,W,14-11,14,14,,,,,,,,,,,,,,,,,,,,,,2018,2017-18,div1,Cloud County,cloudcountycommunitycollege,neilsudbeckytt0,Neil Sudbeck
-Apr 15,away,Butler,L,8-2,8,8,,,,,,,,,,,,,,,,,,,,,,2018,2017-18,div1,Cloud County,cloudcountycommunitycollege,neilsudbeckytt0,Neil Sudbeck
-Apr 15,away,Butler,L,9-3,9,9,,,,,,,,,,,,,,,,,,,,,,2018,2017-18,div1,Cloud County,cloudcountycommunitycollege,neilsudbeckytt0,Neil Sudbeck
-Apr 16,home,Kansas Wesleyan JV,W,6-2,6,6,,,,,,,,,,,,,,,,,,,,,,2018,2017-18,div1,Cloud County,cloudcountycommunitycollege,neilsudbeckytt0,Neil Sudbeck
-Apr 16,home,Kansas Wesleyan JV,W,7-4,7,7,,,,,,,,,,,,,,,,,,,,,,2018,2017-18,div1,Cloud County,cloudcountycommunitycollege,neilsudbeckytt0,Neil Sudbeck
-Apr 19,away,Barton,W,4-1,4,4,,,,,,,,,,,,,,,,,,,,,,2018,2017-18,div1,Cloud County,cloudcountycommunitycollege,neilsudbeckytt0,Neil Sudbeck
-Apr 19,away,Barton,L,11-9,11,11,,,,,,,,,,,,,,,,,,,,,,2018,2017-18,div1,Cloud County,cloudcountycommunitycollege,neilsudbeckytt0,Neil Sudbeck
-Apr 20,home,Barton,L,9-3,9,9,,,,,,,,,,,,,,,,,,,,,,2018,2017-18,div1,Cloud County,cloudcountycommunitycollege,neilsudbeckytt0,Neil Sudbeck
-Apr 20,home,Barton,L,13-2,13,13,,,,,,,,,,,,,,,,,,,,,,2018,2017-18,div1,Cloud County,cloudcountycommunitycollege,neilsudbeckytt0,Neil Sudbeck
-Apr 26,home,Dodge City,L,9-4,9,9,0,0,0,,,,0,,,,,,,,0,0,,,,,0,2018,2017-18,div1,Cloud County,cloudcountycommunitycollege,neilsudbeckytt0,Neil Sudbeck
-Apr 26,home,Dodge City,W,10-6,10,10,,,,,,,,,,,,,,,,,,,,,,2018,2017-18,div1,Cloud County,cloudcountycommunitycollege,neilsudbeckytt0,Neil Sudbeck
-Apr 28,away,Dodge City,L,11-0,11,11,,,,,,,,,,,,,,,,,,,,,,2018,2017-18,div1,Cloud County,cloudcountycommunitycollege,neilsudbeckytt0,Neil Sudbeck
-Apr 28,away,Dodge City,L,16-12,16,16,0,0,0,,,,0,,,,,,,,0,0,,,,,0,2018,2017-18,div1,Cloud County,cloudcountycommunitycollege,neilsudbeckytt0,Neil Sudbeck
-May 4,away,Johnson County,W,10-4,10,10,,,,,,,,,,,,,,,,,,,,,,2018,2017-18,div1,Cloud County,cloudcountycommunitycollege,neilsudbeckytt0,Neil Sudbeck
-May 5,away,Johnson County,L,11-1,11,11,,,,,,,,,,,,,,,,,,,,,,2018,2017-18,div1,Cloud County,cloudcountycommunitycollege,neilsudbeckytt0,Neil Sudbeck
-May 6,away,Johnson County,L,17-12,17,17,0,0,0,,,,0,,,,,,,,0,0,,,,,0,2018,2017-18,div1,Cloud County,cloudcountycommunitycollege,neilsudbeckytt0,Neil Sudbeck
+date,location,opponent,result,score,team_score,opp_score,game_score_diff_x,game_win_loss_x,game_id_x,AB,R,H,2B,3B,HR,RBI,BB,K,SB,CS,game_score_diff_y,game_win_loss_y,game_id_y,HBP,SF,SH,TB,XBH,HDP,GO,FO,GO/FO,PA,season,njcaa_season,njcaa_division,team,team_id,player_id,player_name
+Feb 7,home,Midland University JV,,,,,,,,,,,,,,,,,,,5.0,win,,,,,,,,,,,,2018,2017-18,div1,Cloud County,cloudcountycommunitycollege,neilsudbeckytt0,Neil Sudbeck
+Feb 17,home,Northeast,W,16-13,16,13,3,win,,,,,,,,,,,,,3.0,win,,,,,,,,,,,,2018,2017-18,div1,Cloud County,cloudcountycommunitycollege,neilsudbeckytt0,Neil Sudbeck
+Feb 17,home,Northeast,W,18-2,18,2,16,win,,,,,,,,,,,,,16.0,win,,,,,,,,,,,,2018,2017-18,div1,Cloud County,cloudcountycommunitycollege,neilsudbeckytt0,Neil Sudbeck
+Feb 18,home,Northeast,L,10-9,10,9,1,win,,,,,,,,,,,,,1.0,win,,,,,,,,,,,,2018,2017-18,div1,Cloud County,cloudcountycommunitycollege,neilsudbeckytt0,Neil Sudbeck
+Feb 18,home,Northeast,W,12-2,12,2,10,win,,,,,,,,,,,,,10.0,win,,,,,,,,,,,,2018,2017-18,div1,Cloud County,cloudcountycommunitycollege,neilsudbeckytt0,Neil Sudbeck
+Mar 3,home,Garden City,W,14-2,14,2,12,win,,,,,,,,,,,,,12.0,win,,,,,,,,,,,,2018,2017-18,div1,Cloud County,cloudcountycommunitycollege,neilsudbeckytt0,Neil Sudbeck
+Mar 3,home,Garden City,L,9-6,9,6,3,win,,,,,,,,,,,,,3.0,win,,,,,,,,,,,,2018,2017-18,div1,Cloud County,cloudcountycommunitycollege,neilsudbeckytt0,Neil Sudbeck
+Mar 6,home,Hastings College JV,,,,,3,win,,,,,,,,,,,,,3.0,win,,,,,,,,,,,,2018,2017-18,div1,Cloud County,cloudcountycommunitycollege,neilsudbeckytt0,Neil Sudbeck
+Mar 6,home,Hastings College JV,,,,,3,win,,,,,,,,,,,,,3.0,win,,,,,,,,,,,,2018,2017-18,div1,Cloud County,cloudcountycommunitycollege,neilsudbeckytt0,Neil Sudbeck
+Mar 6,home,Hastings College JV,,,,,3,win,,,,,,,,,,,,,3.0,win,,,,,,,,,,,,2018,2017-18,div1,Cloud County,cloudcountycommunitycollege,neilsudbeckytt0,Neil Sudbeck
+Mar 6,home,Hastings College JV,,,,,3,win,,,,,,,,,,,,,3.0,win,,,,,,,,,,,,2018,2017-18,div1,Cloud County,cloudcountycommunitycollege,neilsudbeckytt0,Neil Sudbeck
+Mar 8,home,Hutchinson,W,3-0,3,0,3,win,,,,,,,,,,,,,3.0,win,,,,,,,,,,,,2018,2017-18,div1,Cloud County,cloudcountycommunitycollege,neilsudbeckytt0,Neil Sudbeck
+Mar 8,home,Hutchinson,L,9-6,9,6,3,win,20180308_74lv,0,0,0,,,,0,,,,,3.0,win,20180308_74lv,,,,0,0,,,,,0,2018,2017-18,div1,Cloud County,cloudcountycommunitycollege,neilsudbeckytt0,Neil Sudbeck
+Mar 13,home,Southeast,L,9-2,9,2,7,win,20180313_ltg4,0,0,0,,,,0,,,,,7.0,win,20180313_ltg4,,,,0,0,,,,,0,2018,2017-18,div1,Cloud County,cloudcountycommunitycollege,neilsudbeckytt0,Neil Sudbeck
+Mar 17,home,Pratt,W,5-0,5,0,5,win,,,,,,,,,,,,,5.0,win,,,,,,,,,,,,2018,2017-18,div1,Cloud County,cloudcountycommunitycollege,neilsudbeckytt0,Neil Sudbeck
+Mar 17,home,Pratt,W,6-5,6,5,1,win,20180317_hkqq,0,0,0,,,,0,,,,,1.0,win,20180317_hkqq,,,,0,0,,,,,0,2018,2017-18,div1,Cloud County,cloudcountycommunitycollege,neilsudbeckytt0,Neil Sudbeck
+Mar 22,home,Seward County,W,5-2,5,2,3,win,20180322_hufw,0,0,0,,,,0,,,,,3.0,win,20180322_hufw,,,,0,0,,,,,0,2018,2017-18,div1,Cloud County,cloudcountycommunitycollege,neilsudbeckytt0,Neil Sudbeck
+Mar 22,home,Seward County,L,14-0,14,0,14,win,,,,,,,,,,,,,14.0,win,,,,,,,,,,,,2018,2017-18,div1,Cloud County,cloudcountycommunitycollege,neilsudbeckytt0,Neil Sudbeck
+Mar 29,home,Colby,W,3-2,3,2,1,win,,,,,,,,,,,,,1.0,win,,,,,,,,,,,,2018,2017-18,div1,Cloud County,cloudcountycommunitycollege,neilsudbeckytt0,Neil Sudbeck
+Mar 29,home,Colby,W,12-2,12,2,10,win,,,,,,,,,,,,,10.0,win,,,,,,,,,,,,2018,2017-18,div1,Cloud County,cloudcountycommunitycollege,neilsudbeckytt0,Neil Sudbeck
+Apr 5,home,MCC-Longview,L,13-6,13,6,7,win,20180405_606c,0,0,0,,,,0,,,,,7.0,win,20180405_606c,,,,0,0,,,,,0,2018,2017-18,div1,Cloud County,cloudcountycommunitycollege,neilsudbeckytt0,Neil Sudbeck
+Apr 5,home,MCC-Longview,W,12-2,12,2,10,win,,,,,,,,,,,,,10.0,win,,,,,,,,,,,,2018,2017-18,div1,Cloud County,cloudcountycommunitycollege,neilsudbeckytt0,Neil Sudbeck
+Apr 12,home,Butler,W,5-0,5,0,5,win,,,,,,,,,,,,,5.0,win,,,,,,,,,,,,2018,2017-18,div1,Cloud County,cloudcountycommunitycollege,neilsudbeckytt0,Neil Sudbeck
+Apr 12,home,Butler,W,14-11,14,11,3,win,,,,,,,,,,,,,3.0,win,,,,,,,,,,,,2018,2017-18,div1,Cloud County,cloudcountycommunitycollege,neilsudbeckytt0,Neil Sudbeck
+Apr 16,home,Kansas Wesleyan JV,W,6-2,6,2,4,win,,,,,,,,,,,,,4.0,win,,,,,,,,,,,,2018,2017-18,div1,Cloud County,cloudcountycommunitycollege,neilsudbeckytt0,Neil Sudbeck
+Apr 16,home,Kansas Wesleyan JV,W,7-4,7,4,3,win,,,,,,,,,,,,,3.0,win,,,,,,,,,,,,2018,2017-18,div1,Cloud County,cloudcountycommunitycollege,neilsudbeckytt0,Neil Sudbeck
+Apr 20,home,Barton,L,9-3,9,3,6,win,,,,,,,,,,,,,6.0,win,,,,,,,,,,,,2018,2017-18,div1,Cloud County,cloudcountycommunitycollege,neilsudbeckytt0,Neil Sudbeck
+Apr 20,home,Barton,L,13-2,13,2,11,win,,,,,,,,,,,,,11.0,win,,,,,,,,,,,,2018,2017-18,div1,Cloud County,cloudcountycommunitycollege,neilsudbeckytt0,Neil Sudbeck
+Apr 26,home,Dodge City,L,9-4,9,4,5,win,20180426_u6k2,0,0,0,,,,0,,,,,5.0,win,20180426_u6k2,,,,0,0,,,,,0,2018,2017-18,div1,Cloud County,cloudcountycommunitycollege,neilsudbeckytt0,Neil Sudbeck
+Apr 26,home,Dodge City,W,10-6,10,6,4,win,,,,,,,,,,,,,4.0,win,,,,,,,,,,,,2018,2017-18,div1,Cloud County,cloudcountycommunitycollege,neilsudbeckytt0,Neil Sudbeck

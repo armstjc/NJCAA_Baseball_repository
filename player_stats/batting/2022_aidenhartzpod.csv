@@ -1,58 +1,28 @@
-date,location,opponent,result,score,team_score,opp_score,AB,R,H,2B,3B,HR,RBI,BB,K,SB,CS,HBP,SF,SH,TB,XBH,HDP,GO,FO,GO/FO,PA,season,njcaa_season,njcaa_division,team,team_id,player_id,player_name
-Jan 29,home,Western Texas,W,16-7,16,16,,,,,,,,,,,,,,,,,,,,,,2022,2021-22,div1,Cisco,ciscocollege,aidenhartzpod,Aiden Hart
-Jan 29,home,Western Texas,W,12-3,12,12,,,,,,,,,,,,,,,,,,,,,,2022,2021-22,div1,Cisco,ciscocollege,aidenhartzpod,Aiden Hart
-Feb 2,away,Dallas College - North Lake,W,14-1,14,14,,,,,,,,,,,,,,,,,,,,,,2022,2021-22,div1,Cisco,ciscocollege,aidenhartzpod,Aiden Hart
-Feb 7,home,vs. Dallas College - North Lake,W,5-2,5,5,,,,,,,,,,,,,,,,,,,,,,2022,2021-22,div1,Cisco,ciscocollege,aidenhartzpod,Aiden Hart
-Feb 7,home,vs. Dallas College - North Lake,W,5-0,5,5,,,,,,,,,,,,,,,,,,,,,,2022,2021-22,div1,Cisco,ciscocollege,aidenhartzpod,Aiden Hart
-Feb 9,away,Dallas College - Richland,W,10-0,10,10,,,,,,,,,,,,,,,,,,,,,,2022,2021-22,div1,Cisco,ciscocollege,aidenhartzpod,Aiden Hart
-Feb 9,away,Dallas College - Richland,W,7-6,7,7,,,,,,,,,,,,,,,,,,,,,,2022,2021-22,div1,Cisco,ciscocollege,aidenhartzpod,Aiden Hart
-Feb 12,away,Dallas College - Cedar Valley,W,18-6,18,18,,,,,,,,,,,,,,,,,,,,,,2022,2021-22,div1,Cisco,ciscocollege,aidenhartzpod,Aiden Hart
-Feb 12,away,Dallas College - Cedar Valley,W,7-3,7,7,,,,,,,,,,,,,,,,,,,,,,2022,2021-22,div1,Cisco,ciscocollege,aidenhartzpod,Aiden Hart
-Feb 16,away,Western Texas,L,12-6,12,12,,,,,,,,,,,,,,,,,,,,,,2022,2021-22,div1,Cisco,ciscocollege,aidenhartzpod,Aiden Hart
-Feb 16,away,Western Texas,W,7-0,7,7,,,,,,,,,,,,,,,,,,,,,,2022,2021-22,div1,Cisco,ciscocollege,aidenhartzpod,Aiden Hart
-Feb 22,home,vs. New Mexico Military,W,3-2,3,3,,,,,,,,,,,,,,,,,,,,,,2022,2021-22,div1,Cisco,ciscocollege,aidenhartzpod,Aiden Hart
-Feb 22,home,vs. New Mexico Military,L,11-5,11,11,,,,,,,,,,,,,,,,,,,,,,2022,2021-22,div1,Cisco,ciscocollege,aidenhartzpod,Aiden Hart
-Feb 26,away,Howard Payne University,W,10-0,10,10,,,,,,,,,,,,,,,,,,,,,,2022,2021-22,div1,Cisco,ciscocollege,aidenhartzpod,Aiden Hart
-Feb 26,home,Spartan Baseball Academy,,,,,,,,,,,,,,,,,,,,,,,,,,2022,2021-22,div1,Cisco,ciscocollege,aidenhartzpod,Aiden Hart
-Feb 28,home,TCS,W,3-2,3,3,,,,,,,,,,,,,,,,,,,,,,2022,2021-22,div1,Cisco,ciscocollege,aidenhartzpod,Aiden Hart
-Feb 28,home,TCS,W,9-6,9,9,,,,,,,,,,,,,,,,,,,,,,2022,2021-22,div1,Cisco,ciscocollege,aidenhartzpod,Aiden Hart
-Mar 2,away,Concordia University - Texas,W,5-4,5,5,,,,,,,,,,,,,,,,,,,,,,2022,2021-22,div1,Cisco,ciscocollege,aidenhartzpod,Aiden Hart
-Mar 2,away,Concordia University - Texas,W,6-3,6,6,,,,,,,,,,,,,,,,,,,,,,2022,2021-22,div1,Cisco,ciscocollege,aidenhartzpod,Aiden Hart
-Mar 5,home,Howard (TX),L,14-10,14,14,,,,,,,,,,,,,,,,,,,,,,2022,2021-22,div1,Cisco,ciscocollege,aidenhartzpod,Aiden Hart
-Mar 5,home,Howard (TX),L,4-1,4,4,,,,,,,,,,,,,,,,,,,,,,2022,2021-22,div1,Cisco,ciscocollege,aidenhartzpod,Aiden Hart
-Mar 9,away,Vernon,W,4-3,4,4,,,,,,,,,,,,,,,,,,,,,,2022,2021-22,div1,Cisco,ciscocollege,aidenhartzpod,Aiden Hart
-Mar 9,away,Vernon,L,5-2,5,5,,,,,,,,,,,,,,,,,,,,,,2022,2021-22,div1,Cisco,ciscocollege,aidenhartzpod,Aiden Hart
-Mar 12,home,Vernon,L,15-1,15,15,,,,,,,,,,,,,,,,,,,,,,2022,2021-22,div1,Cisco,ciscocollege,aidenhartzpod,Aiden Hart
-Mar 12,home,Vernon,W,9-8,9,9,,,,,,,,,,,,,,,,,,,,,,2022,2021-22,div1,Cisco,ciscocollege,aidenhartzpod,Aiden Hart
-Mar 16,away,North Central Texas,W,5-4,5,5,,,,,,,,,,,,,,,,,,,,,,2022,2021-22,div1,Cisco,ciscocollege,aidenhartzpod,Aiden Hart
-Mar 16,away,North Central Texas,W,6-5,6,6,,,,,,,,,,,,,,,,,,,,,,2022,2021-22,div1,Cisco,ciscocollege,aidenhartzpod,Aiden Hart
-Mar 19,home,North Central Texas,W,7-6,7,7,,,,,,,,,,,,,,,,,,,,,,2022,2021-22,div1,Cisco,ciscocollege,aidenhartzpod,Aiden Hart
-Mar 19,home,North Central Texas,W,8-5,8,8,,,,,,,,,,,,,,,,,,,,,,2022,2021-22,div1,Cisco,ciscocollege,aidenhartzpod,Aiden Hart
-Mar 23,away,Temple,L,8-7,8,8,,,,,,,,,,,,,,,,,,,,,,2022,2021-22,div1,Cisco,ciscocollege,aidenhartzpod,Aiden Hart
-Mar 23,away,Temple,L,10-3,10,10,,,,,,,,,,,,,,,,,,,,,,2022,2021-22,div1,Cisco,ciscocollege,aidenhartzpod,Aiden Hart
-Mar 26,home,Temple,W,12-2,12,12,,,,,,,,,,,,,,,,,,,,,,2022,2021-22,div1,Cisco,ciscocollege,aidenhartzpod,Aiden Hart
-Mar 26,home,Temple,W,12-3,12,12,,,,,,,,,,,,,,,,,,,,,,2022,2021-22,div1,Cisco,ciscocollege,aidenhartzpod,Aiden Hart
-Mar 30,home,Minnesota Post Grad,W,13-0,13,13,,,,,,,,,,,,,,,,,,,,,,2022,2021-22,div1,Cisco,ciscocollege,aidenhartzpod,Aiden Hart
-Mar 30,home,Minnesota Post Grad,W,11-0,11,11,,,,,,,,,,,,,,,,,,,,,,2022,2021-22,div1,Cisco,ciscocollege,aidenhartzpod,Aiden Hart
-Apr 2,home,TCS,L,8-7,8,8,,,,,,,,,,,,,,,,,,,,,,2022,2021-22,div1,Cisco,ciscocollege,aidenhartzpod,Aiden Hart
-Apr 2,home,TCS,W,4-2,4,4,,,,,,,,,,,,,,,,,,,,,,2022,2021-22,div1,Cisco,ciscocollege,aidenhartzpod,Aiden Hart
-Apr 6,home,Grayson,L,6-2,6,6,,,,,,,,,,,,,,,,,,,,,,2022,2021-22,div1,Cisco,ciscocollege,aidenhartzpod,Aiden Hart
-Apr 6,home,Grayson,L,8-7,8,8,,,,,,,,,,,,,,,,,,,,,,2022,2021-22,div1,Cisco,ciscocollege,aidenhartzpod,Aiden Hart
-Apr 9,away,Grayson,L,16-6,16,16,,,,,,,,,,,,,,,,,,,,,,2022,2021-22,div1,Cisco,ciscocollege,aidenhartzpod,Aiden Hart
-Apr 9,away,Grayson,L,12-2,12,12,,,,,,,,,,,,,,,,,,,,,,2022,2021-22,div1,Cisco,ciscocollege,aidenhartzpod,Aiden Hart
-Apr 13,away,Ranger,L,1-0,1,1,,,,,,,,,,,,,,,,,,,,,,2022,2021-22,div1,Cisco,ciscocollege,aidenhartzpod,Aiden Hart
-Apr 13,away,Ranger,L,10-1,10,10,,,,,,,,,,,,,,,,,,,,,,2022,2021-22,div1,Cisco,ciscocollege,aidenhartzpod,Aiden Hart
-Apr 15,home,Ranger,W,8-7,8,8,,,,,,,,,,,,,,,,,,,,,,2022,2021-22,div1,Cisco,ciscocollege,aidenhartzpod,Aiden Hart
-Apr 15,home,Ranger,L,11-7,11,11,,,,,,,,,,,,,,,,,,,,,,2022,2021-22,div1,Cisco,ciscocollege,aidenhartzpod,Aiden Hart
-Apr 20,home,Hill,W,16-14,16,16,,,,,,,,,,,,,,,,,,,,,,2022,2021-22,div1,Cisco,ciscocollege,aidenhartzpod,Aiden Hart
-Apr 20,home,Hill,W,11-9,11,11,,,,,,,,,,,,,,,,,,,,,,2022,2021-22,div1,Cisco,ciscocollege,aidenhartzpod,Aiden Hart
-Apr 23,away,Hill,L,7-1,7,7,,,,,,,,,,,,,,,,,,,,,,2022,2021-22,div1,Cisco,ciscocollege,aidenhartzpod,Aiden Hart
-Apr 23,away,Hill,L,6-5,6,6,,,,,,,,,,,,,,,,,,,,,,2022,2021-22,div1,Cisco,ciscocollege,aidenhartzpod,Aiden Hart
-Apr 27,home,McLennan,L,10-2,10,10,,,,,,,,,,,,,,,,,,,,,,2022,2021-22,div1,Cisco,ciscocollege,aidenhartzpod,Aiden Hart
-Apr 27,home,McLennan,L,14-2,14,14,,,,,,,,,,,,,,,,,,,,,,2022,2021-22,div1,Cisco,ciscocollege,aidenhartzpod,Aiden Hart
-Apr 30,away,McLennan,L,5-0,5,5,,,,,,,,,,,,,,,,,,,,,,2022,2021-22,div1,Cisco,ciscocollege,aidenhartzpod,Aiden Hart
-Apr 30,away,McLennan,L,12-3,12,12,,,,,,,,,,,,,,,,,,,,,,2022,2021-22,div1,Cisco,ciscocollege,aidenhartzpod,Aiden Hart
-May 4,home,Weatherford,L,3-2,3,3,,,,,,,,,,,,,,,,,,,,,,2022,2021-22,div1,Cisco,ciscocollege,aidenhartzpod,Aiden Hart
-May 4,home,Weatherford,L,6-0,6,6,,,,,,,,,,,,,,,,,,,,,,2022,2021-22,div1,Cisco,ciscocollege,aidenhartzpod,Aiden Hart
-May 7,away,Weatherford,L,3-2,3,3,,,,,,,,,,,,,,,,,,,,,,2022,2021-22,div1,Cisco,ciscocollege,aidenhartzpod,Aiden Hart
-May 7,away,Weatherford,W,9-5,9,9,,,,,,,,,,,,,,,,,,,,,,2022,2021-22,div1,Cisco,ciscocollege,aidenhartzpod,Aiden Hart
+date,location,opponent,result,score,team_score,opp_score,game_score_diff_x,game_win_loss_x,game_id_x,AB,R,H,2B,3B,HR,RBI,BB,K,SB,CS,game_score_diff_y,game_win_loss_y,game_id_y,HBP,SF,SH,TB,XBH,HDP,GO,FO,GO/FO,PA,season,njcaa_season,njcaa_division,team,team_id,player_id,player_name
+Jan 29,home,Western Texas,W,16-7,16,7,9.0,win,,,,,,,,,,,,,9.0,win,,,,,,,,,,,,2022,2021-22,div1,Cisco,ciscocollege,aidenhartzpod,Aiden Hart
+Jan 29,home,Western Texas,W,12-3,12,3,9.0,win,,,,,,,,,,,,,9.0,win,,,,,,,,,,,,2022,2021-22,div1,Cisco,ciscocollege,aidenhartzpod,Aiden Hart
+Feb 26,home,Spartan Baseball Academy,,,,,10.0,win,,,,,,,,,,,,,10.0,win,,,,,,,,,,,,2022,2021-22,div1,Cisco,ciscocollege,aidenhartzpod,Aiden Hart
+Feb 28,home,TCS,W,3-2,3,2,1.0,win,,,,,,,,,,,,,1.0,win,,,,,,,,,,,,2022,2021-22,div1,Cisco,ciscocollege,aidenhartzpod,Aiden Hart
+Feb 28,home,TCS,W,9-6,9,6,3.0,win,,,,,,,,,,,,,3.0,win,,,,,,,,,,,,2022,2021-22,div1,Cisco,ciscocollege,aidenhartzpod,Aiden Hart
+Mar 5,home,Howard (TX),L,14-10,14,10,4.0,win,,,,,,,,,,,,,4.0,win,,,,,,,,,,,,2022,2021-22,div1,Cisco,ciscocollege,aidenhartzpod,Aiden Hart
+Mar 5,home,Howard (TX),L,4-1,4,1,3.0,win,,,,,,,,,,,,,3.0,win,,,,,,,,,,,,2022,2021-22,div1,Cisco,ciscocollege,aidenhartzpod,Aiden Hart
+Mar 12,home,Vernon,L,15-1,15,1,14.0,win,,,,,,,,,,,,,14.0,win,,,,,,,,,,,,2022,2021-22,div1,Cisco,ciscocollege,aidenhartzpod,Aiden Hart
+Mar 12,home,Vernon,W,9-8,9,8,1.0,win,,,,,,,,,,,,,1.0,win,,,,,,,,,,,,2022,2021-22,div1,Cisco,ciscocollege,aidenhartzpod,Aiden Hart
+Mar 19,home,North Central Texas,W,7-6,7,6,1.0,win,,,,,,,,,,,,,1.0,win,,,,,,,,,,,,2022,2021-22,div1,Cisco,ciscocollege,aidenhartzpod,Aiden Hart
+Mar 19,home,North Central Texas,W,8-5,8,5,3.0,win,,,,,,,,,,,,,3.0,win,,,,,,,,,,,,2022,2021-22,div1,Cisco,ciscocollege,aidenhartzpod,Aiden Hart
+Mar 26,home,Temple,W,12-2,12,2,10.0,win,,,,,,,,,,,,,10.0,win,,,,,,,,,,,,2022,2021-22,div1,Cisco,ciscocollege,aidenhartzpod,Aiden Hart
+Mar 26,home,Temple,W,12-3,12,3,9.0,win,,,,,,,,,,,,,9.0,win,,,,,,,,,,,,2022,2021-22,div1,Cisco,ciscocollege,aidenhartzpod,Aiden Hart
+Mar 30,home,Minnesota Post Grad,W,13-0,13,0,13.0,win,,,,,,,,,,,,,13.0,win,,,,,,,,,,,,2022,2021-22,div1,Cisco,ciscocollege,aidenhartzpod,Aiden Hart
+Mar 30,home,Minnesota Post Grad,W,11-0,11,0,11.0,win,,,,,,,,,,,,,11.0,win,,,,,,,,,,,,2022,2021-22,div1,Cisco,ciscocollege,aidenhartzpod,Aiden Hart
+Apr 2,home,TCS,L,8-7,8,7,1.0,win,,,,,,,,,,,,,1.0,win,,,,,,,,,,,,2022,2021-22,div1,Cisco,ciscocollege,aidenhartzpod,Aiden Hart
+Apr 2,home,TCS,W,4-2,4,2,2.0,win,,,,,,,,,,,,,2.0,win,,,,,,,,,,,,2022,2021-22,div1,Cisco,ciscocollege,aidenhartzpod,Aiden Hart
+Apr 6,home,Grayson,L,6-2,6,2,4.0,win,,,,,,,,,,,,,4.0,win,,,,,,,,,,,,2022,2021-22,div1,Cisco,ciscocollege,aidenhartzpod,Aiden Hart
+Apr 6,home,Grayson,L,8-7,8,7,1.0,win,,,,,,,,,,,,,1.0,win,,,,,,,,,,,,2022,2021-22,div1,Cisco,ciscocollege,aidenhartzpod,Aiden Hart
+Apr 15,home,Ranger,W,8-7,8,7,1.0,win,,,,,,,,,,,,,1.0,win,,,,,,,,,,,,2022,2021-22,div1,Cisco,ciscocollege,aidenhartzpod,Aiden Hart
+Apr 15,home,Ranger,L,11-7,11,7,4.0,win,,,,,,,,,,,,,4.0,win,,,,,,,,,,,,2022,2021-22,div1,Cisco,ciscocollege,aidenhartzpod,Aiden Hart
+Apr 20,home,Hill,W,16-14,16,14,2.0,win,,,,,,,,,,,,,2.0,win,,,,,,,,,,,,2022,2021-22,div1,Cisco,ciscocollege,aidenhartzpod,Aiden Hart
+Apr 20,home,Hill,W,11-9,11,9,2.0,win,,,,,,,,,,,,,2.0,win,,,,,,,,,,,,2022,2021-22,div1,Cisco,ciscocollege,aidenhartzpod,Aiden Hart
+Apr 27,home,McLennan,L,10-2,10,2,8.0,win,,,,,,,,,,,,,8.0,win,,,,,,,,,,,,2022,2021-22,div1,Cisco,ciscocollege,aidenhartzpod,Aiden Hart
+Apr 27,home,McLennan,L,14-2,14,2,12.0,win,,,,,,,,,,,,,12.0,win,,,,,,,,,,,,2022,2021-22,div1,Cisco,ciscocollege,aidenhartzpod,Aiden Hart
+May 4,home,Weatherford,L,3-2,3,2,1.0,win,,,,,,,,,,,,,1.0,win,,,,,,,,,,,,2022,2021-22,div1,Cisco,ciscocollege,aidenhartzpod,Aiden Hart
+May 4,home,Weatherford,L,6-0,6,0,6.0,win,,,,,,,,,,,,,6.0,win,,,,,,,,,,,,2022,2021-22,div1,Cisco,ciscocollege,aidenhartzpod,Aiden Hart

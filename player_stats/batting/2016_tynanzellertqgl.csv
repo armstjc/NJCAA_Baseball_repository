@@ -1,61 +1,32 @@
-date,location,opponent,result,score,team_score,opp_score,AB,R,H,2B,3B,HR,RBI,BB,K,SB,CS,HBP,SF,SH,TB,XBH,HDP,GO,FO,GO/FO,PA,season,njcaa_season,njcaa_division,team,team_id,player_id,player_name
-Feb 20,away,Northeastern Oklahoma A&M,W,8-7,8,8,,,,,,,,,,,,,,,,,,,,,,2016,2015-16,div1,MCC-Maple Woods,mccmaplewoods,tynanzellertqgl,Tynan Zeller
-Feb 20,away,Northeastern Oklahoma A&M,L,15-6,15,15,,,,,,,,,,,,,,,,,,,,,,2016,2015-16,div1,MCC-Maple Woods,mccmaplewoods,tynanzellertqgl,Tynan Zeller
-Feb 21,home,vs. Seminole State (OK),L,22-9,22,22,,,,,,,,,,,,,,,,,,,,,,2016,2015-16,div1,MCC-Maple Woods,mccmaplewoods,tynanzellertqgl,Tynan Zeller
-Feb 21,home,vs. Seminole State (OK),L,14-9,14,14,,,,,,,,,,,,,,,,,,,,,,2016,2015-16,div1,MCC-Maple Woods,mccmaplewoods,tynanzellertqgl,Tynan Zeller
-Feb 23,away,Kansas City Kansas,L,6-5,6,6,,,,,,,,,,,,,,,,,,,,,,2016,2015-16,div1,MCC-Maple Woods,mccmaplewoods,tynanzellertqgl,Tynan Zeller
-Feb 27,away,Connors State,L,12-0,12,12,,,,,,,,,,,,,,,,,,,,,,2016,2015-16,div1,MCC-Maple Woods,mccmaplewoods,tynanzellertqgl,Tynan Zeller
-Feb 27,away,Connors State,L,16-5,16,16,0,0,0,,,,0,,,,,,,,0,0,,,,,0,2016,2015-16,div1,MCC-Maple Woods,mccmaplewoods,tynanzellertqgl,Tynan Zeller
-Mar 1,home,Johnson County,W,10-9,10,10,,,,,,,,,,,,,,,,,,,,,,2016,2015-16,div1,MCC-Maple Woods,mccmaplewoods,tynanzellertqgl,Tynan Zeller
-Mar 3,home,MCC-Longview,L,9-7,9,9,0,0,0,,,,0,,,,,,,,0,0,,,,,0,2016,2015-16,div1,MCC-Maple Woods,mccmaplewoods,tynanzellertqgl,Tynan Zeller
-Mar 5,home,Wentworth Military,W,6-1,6,6,,,,,,,,,,,,,,,,,,,,,,2016,2015-16,div1,MCC-Maple Woods,mccmaplewoods,tynanzellertqgl,Tynan Zeller
-Mar 5,home,Wentworth Military,W,4-3,4,4,,,,,,,,,,,,,,,,,,,,,,2016,2015-16,div1,MCC-Maple Woods,mccmaplewoods,tynanzellertqgl,Tynan Zeller
-Mar 9,home,Des Moines Area,L,10-8,10,10,,,,,,,,,,,,,,,,,,,,,,2016,2015-16,div1,MCC-Maple Woods,mccmaplewoods,tynanzellertqgl,Tynan Zeller
-Mar 9,home,Des Moines Area,L,14-6,14,14,,,,,,,,,,,,,,,,,,,,,,2016,2015-16,div1,MCC-Maple Woods,mccmaplewoods,tynanzellertqgl,Tynan Zeller
-Mar 10,home,MCC-Longview,W,14-3,14,14,,,,,,,,,,,,,,,,,,,,,,2016,2015-16,div1,MCC-Maple Woods,mccmaplewoods,tynanzellertqgl,Tynan Zeller
-Mar 13,home,Northeastern Oklahoma A&M,L,15-8,15,15,,,,,,,,,,,,,,,,,,,,,,2016,2015-16,div1,MCC-Maple Woods,mccmaplewoods,tynanzellertqgl,Tynan Zeller
-Mar 13,home,Northeastern Oklahoma A&M,W,13-12,13,13,,,,,,,,,,,,,,,,,,,,,,2016,2015-16,div1,MCC-Maple Woods,mccmaplewoods,tynanzellertqgl,Tynan Zeller
-Mar 17,home,Southeastern,W,15-9,15,15,0,0,0,,,,0,,,,,,,,0,0,,,,,0,2016,2015-16,div1,MCC-Maple Woods,mccmaplewoods,tynanzellertqgl,Tynan Zeller
-Mar 17,home,Southeastern,L,17-7,17,17,,,,,,,,,,,,,,,,,,,,,,2016,2015-16,div1,MCC-Maple Woods,mccmaplewoods,tynanzellertqgl,Tynan Zeller
-Mar 19,home,Mineral Area,W,10-0,10,10,,,,,,,,,,,,,,,,,,,,,,2016,2015-16,div1,MCC-Maple Woods,mccmaplewoods,tynanzellertqgl,Tynan Zeller
-Mar 19,home,Mineral Area,W,11-10,11,11,,,,,,,,,,,,,,,,,,,,,,2016,2015-16,div1,MCC-Maple Woods,mccmaplewoods,tynanzellertqgl,Tynan Zeller
-Mar 20,home,Mineral Area,L,13-3,13,13,,,,,,,,,,,,,,,,,,,,,,2016,2015-16,div1,MCC-Maple Woods,mccmaplewoods,tynanzellertqgl,Tynan Zeller
-Mar 20,home,Mineral Area,W,10-9,10,10,0,0,0,,,,0,,,,,,,,0,0,,,,,0,2016,2015-16,div1,MCC-Maple Woods,mccmaplewoods,tynanzellertqgl,Tynan Zeller
-Mar 25,home,North Central Missouri,W,13-3,13,13,,,,,,,,,,,,,,,,,,,,,,2016,2015-16,div1,MCC-Maple Woods,mccmaplewoods,tynanzellertqgl,Tynan Zeller
-Mar 25,home,North Central Missouri,L,16-15,16,16,0,0,0,,,,0,,,,,,,,0,0,,,,,0,2016,2015-16,div1,MCC-Maple Woods,mccmaplewoods,tynanzellertqgl,Tynan Zeller
-Mar 29,away,North Central Missouri,W,10-2,10,10,,,,,,,,,,,,,,,,,,,,,,2016,2015-16,div1,MCC-Maple Woods,mccmaplewoods,tynanzellertqgl,Tynan Zeller
-Mar 29,away,North Central Missouri,W,11-6,11,11,,,,,,,,,,,,,,,,,,,,,,2016,2015-16,div1,MCC-Maple Woods,mccmaplewoods,tynanzellertqgl,Tynan Zeller
-Apr 2,home,St. Louis,L,10-7,10,10,,,,,,,,,,,,,,,,,,,,,,2016,2015-16,div1,MCC-Maple Woods,mccmaplewoods,tynanzellertqgl,Tynan Zeller
-Apr 2,home,St. Louis,W,11-5,11,11,,,,,,,,,,,,,,,,,,,,,,2016,2015-16,div1,MCC-Maple Woods,mccmaplewoods,tynanzellertqgl,Tynan Zeller
-Apr 3,home,St. Louis,L,15-11,15,15,,,,,,,,,,,,,,,,,,,,,,2016,2015-16,div1,MCC-Maple Woods,mccmaplewoods,tynanzellertqgl,Tynan Zeller
-Apr 3,home,St. Louis,W,13-9,13,13,0,0,0,,,,0,,,,,,,,0,0,,,,,0,2016,2015-16,div1,MCC-Maple Woods,mccmaplewoods,tynanzellertqgl,Tynan Zeller
-Apr 5,home,Kansas City Kansas,W,19-6,19,19,,,,,,,,,,,,,,,,,,,,,,2016,2015-16,div1,MCC-Maple Woods,mccmaplewoods,tynanzellertqgl,Tynan Zeller
-Apr 7,away,St. Charles,W,10-5,10,10,,,,,,,,,,,,,,,,,,,,,,2016,2015-16,div1,MCC-Maple Woods,mccmaplewoods,tynanzellertqgl,Tynan Zeller
-Apr 7,away,St. Charles,W,12-1,12,12,,,,,,,,,,,,,,,,,,,,,,2016,2015-16,div1,MCC-Maple Woods,mccmaplewoods,tynanzellertqgl,Tynan Zeller
-Apr 9,home,St. Charles,W,13-8,13,13,,,,,,,,,,,,,,,,,,,,,,2016,2015-16,div1,MCC-Maple Woods,mccmaplewoods,tynanzellertqgl,Tynan Zeller
-Apr 9,home,St. Charles,W,22-8,22,22,0,0,0,,,,0,,,,,,,,0,0,,,,,0,2016,2015-16,div1,MCC-Maple Woods,mccmaplewoods,tynanzellertqgl,Tynan Zeller
-Apr 10,away,MCC-Longview,W,17-13,17,17,,,,,,,,,,,,,,,,,,,,,,2016,2015-16,div1,MCC-Maple Woods,mccmaplewoods,tynanzellertqgl,Tynan Zeller
-Apr 14,home,Jefferson (MO),L,18-13,18,18,,,,,,,,,,,,,,,,,,,,,,2016,2015-16,div1,MCC-Maple Woods,mccmaplewoods,tynanzellertqgl,Tynan Zeller
-Apr 14,home,Jefferson (MO),L,12-1,12,12,,,,,,,,,,,,,,,,,,,,,,2016,2015-16,div1,MCC-Maple Woods,mccmaplewoods,tynanzellertqgl,Tynan Zeller
-Apr 16,away,Jefferson (MO),W,6-4,6,6,,,,,,,,,,,,,,,,,,,,,,2016,2015-16,div1,MCC-Maple Woods,mccmaplewoods,tynanzellertqgl,Tynan Zeller
-Apr 16,away,Jefferson (MO),W,5-3,5,5,0,0,0,,,,0,,,,,,,,0,0,,,,,0,2016,2015-16,div1,MCC-Maple Woods,mccmaplewoods,tynanzellertqgl,Tynan Zeller
-Apr 19,away,Johnson County,L,8-1,8,8,,,,,,,,,,,,,,,,,,,,,,2016,2015-16,div1,MCC-Maple Woods,mccmaplewoods,tynanzellertqgl,Tynan Zeller
-Apr 23,away,Three Rivers,W,8-7,8,8,,,,,,,,,,,,,,,,,,,,,,2016,2015-16,div1,MCC-Maple Woods,mccmaplewoods,tynanzellertqgl,Tynan Zeller
-Apr 23,away,Three Rivers,L,7-6,7,7,,,,,,,,,,,,,,,,,,,,,,2016,2015-16,div1,MCC-Maple Woods,mccmaplewoods,tynanzellertqgl,Tynan Zeller
-Apr 24,away,Three Rivers,W,8-4,8,8,,,,,,,,,,,,,,,,,,,,,,2016,2015-16,div1,MCC-Maple Woods,mccmaplewoods,tynanzellertqgl,Tynan Zeller
-Apr 24,away,Three Rivers,L,7-6,7,7,0,0,0,,,,0,,,,,,,,0,0,,,,,0,2016,2015-16,div1,MCC-Maple Woods,mccmaplewoods,tynanzellertqgl,Tynan Zeller
-Apr 26,away,Indian Hills,W,3-2,3,3,,,,,,,,,,,,,,,,,,,,,,2016,2015-16,div1,MCC-Maple Woods,mccmaplewoods,tynanzellertqgl,Tynan Zeller
-Apr 26,away,Indian Hills,L,6-1,6,6,,,,,,,,,,,,,,,,,,,,,,2016,2015-16,div1,MCC-Maple Woods,mccmaplewoods,tynanzellertqgl,Tynan Zeller
-Apr 28,home,Crowder,L,5-4,5,5,,,,,,,,,,,,,,,,,,,,,,2016,2015-16,div1,MCC-Maple Woods,mccmaplewoods,tynanzellertqgl,Tynan Zeller
-Apr 28,home,Crowder,W,10-0,10,10,,,,,,,,,,,,,,,,,,,,,,2016,2015-16,div1,MCC-Maple Woods,mccmaplewoods,tynanzellertqgl,Tynan Zeller
-Apr 30,away,Crowder,L,6-3,6,6,,,,,,,,,,,,,,,,,,,,,,2016,2015-16,div1,MCC-Maple Woods,mccmaplewoods,tynanzellertqgl,Tynan Zeller
-Apr 30,away,Crowder,L,16-8,16,16,0,0,0,,,,0,,,,,,,,0,0,,,,,0,2016,2015-16,div1,MCC-Maple Woods,mccmaplewoods,tynanzellertqgl,Tynan Zeller
-May 3,away,Kansas City Kansas,L,15-11,15,15,,,,,,,,,,,,,,,,,,,,,,2016,2015-16,div1,MCC-Maple Woods,mccmaplewoods,tynanzellertqgl,Tynan Zeller
-May 6,home,Three Rivers,W,16-8,16,16,,,,,,,,,,,,,,,,,,,,,,2016,2015-16,div1,MCC-Maple Woods,mccmaplewoods,tynanzellertqgl,Tynan Zeller
-May 7,away,Three Rivers,W,13-3,13,13,,,,,,,,,,,,,,,,,,,,,,2016,2015-16,div1,MCC-Maple Woods,mccmaplewoods,tynanzellertqgl,Tynan Zeller
-May 12,away,Crowder,W,8-5,8,8,,,,,,,,,,,,,,,,,,,,,,2016,2015-16,div1,MCC-Maple Woods,mccmaplewoods,tynanzellertqgl,Tynan Zeller
-May 13,home,vs. St. Louis,W,11-8,11,11,,,,,,,,,,,,,,,,,,,,,,2016,2015-16,div1,MCC-Maple Woods,mccmaplewoods,tynanzellertqgl,Tynan Zeller
-May 14,home,Crowder,W,8-7,8,8,,,,,,,,,,,,,,,,,,,,,,2016,2015-16,div1,MCC-Maple Woods,mccmaplewoods,tynanzellertqgl,Tynan Zeller
-May 21,away,Eastern Oklahoma State,W,13-2,13,13,,,,,,,,,,,,,,,,,,,,,,2016,2015-16,div1,MCC-Maple Woods,mccmaplewoods,tynanzellertqgl,Tynan Zeller
-May 21,home,Delgado,L,10-2,10,10,,,,,,,,,,,,,,,,,,,,,,2016,2015-16,div1,MCC-Maple Woods,mccmaplewoods,tynanzellertqgl,Tynan Zeller
-May 22,away,Delgado,L,11-4,11,11,,,,,,,,,,,,,,,,,,,,,,2016,2015-16,div1,MCC-Maple Woods,mccmaplewoods,tynanzellertqgl,Tynan Zeller
+date,location,opponent,result,score,team_score,opp_score,game_score_diff_x,game_win_loss_x,game_id_x,AB,R,H,2B,3B,HR,RBI,BB,K,SB,CS,game_score_diff_y,game_win_loss_y,game_id_y,HBP,SF,SH,TB,XBH,HDP,GO,FO,GO/FO,PA,season,njcaa_season,njcaa_division,team,team_id,player_id,player_name
+Mar 1,home,Johnson County,W,10-9,10,9,1.0,win,,,,,,,,,,,,,1.0,win,,,,,,,,,,,,2016,2015-16,div1,MCC-Maple Woods,mccmaplewoods,tynanzellertqgl,Tynan Zeller
+Mar 3,home,MCC-Longview,L,9-7,9,7,2.0,win,20160303_jlj9,0,0,0,,,,0,,,,,2.0,win,20160303_jlj9,,,,0,0,,,,,0,2016,2015-16,div1,MCC-Maple Woods,mccmaplewoods,tynanzellertqgl,Tynan Zeller
+Mar 5,home,Wentworth Military,W,6-1,6,1,5.0,win,,,,,,,,,,,,,5.0,win,,,,,,,,,,,,2016,2015-16,div1,MCC-Maple Woods,mccmaplewoods,tynanzellertqgl,Tynan Zeller
+Mar 5,home,Wentworth Military,W,4-3,4,3,1.0,win,,,,,,,,,,,,,1.0,win,,,,,,,,,,,,2016,2015-16,div1,MCC-Maple Woods,mccmaplewoods,tynanzellertqgl,Tynan Zeller
+Mar 9,home,Des Moines Area,L,10-8,10,8,2.0,win,,,,,,,,,,,,,2.0,win,,,,,,,,,,,,2016,2015-16,div1,MCC-Maple Woods,mccmaplewoods,tynanzellertqgl,Tynan Zeller
+Mar 9,home,Des Moines Area,L,14-6,14,6,8.0,win,,,,,,,,,,,,,8.0,win,,,,,,,,,,,,2016,2015-16,div1,MCC-Maple Woods,mccmaplewoods,tynanzellertqgl,Tynan Zeller
+Mar 10,home,MCC-Longview,W,14-3,14,3,11.0,win,,,,,,,,,,,,,11.0,win,,,,,,,,,,,,2016,2015-16,div1,MCC-Maple Woods,mccmaplewoods,tynanzellertqgl,Tynan Zeller
+Mar 13,home,Northeastern Oklahoma A&M,L,15-8,15,8,7.0,win,,,,,,,,,,,,,7.0,win,,,,,,,,,,,,2016,2015-16,div1,MCC-Maple Woods,mccmaplewoods,tynanzellertqgl,Tynan Zeller
+Mar 13,home,Northeastern Oklahoma A&M,W,13-12,13,12,1.0,win,,,,,,,,,,,,,1.0,win,,,,,,,,,,,,2016,2015-16,div1,MCC-Maple Woods,mccmaplewoods,tynanzellertqgl,Tynan Zeller
+Mar 17,home,Southeastern,W,15-9,15,9,6.0,win,20160317_ilgr,0,0,0,,,,0,,,,,6.0,win,20160317_ilgr,,,,0,0,,,,,0,2016,2015-16,div1,MCC-Maple Woods,mccmaplewoods,tynanzellertqgl,Tynan Zeller
+Mar 17,home,Southeastern,L,17-7,17,7,10.0,win,,,,,,,,,,,,,10.0,win,,,,,,,,,,,,2016,2015-16,div1,MCC-Maple Woods,mccmaplewoods,tynanzellertqgl,Tynan Zeller
+Mar 19,home,Mineral Area,W,10-0,10,0,10.0,win,,,,,,,,,,,,,10.0,win,,,,,,,,,,,,2016,2015-16,div1,MCC-Maple Woods,mccmaplewoods,tynanzellertqgl,Tynan Zeller
+Mar 19,home,Mineral Area,W,11-10,11,10,1.0,win,,,,,,,,,,,,,1.0,win,,,,,,,,,,,,2016,2015-16,div1,MCC-Maple Woods,mccmaplewoods,tynanzellertqgl,Tynan Zeller
+Mar 20,home,Mineral Area,L,13-3,13,3,10.0,win,,,,,,,,,,,,,10.0,win,,,,,,,,,,,,2016,2015-16,div1,MCC-Maple Woods,mccmaplewoods,tynanzellertqgl,Tynan Zeller
+Mar 20,home,Mineral Area,W,10-9,10,9,1.0,win,20160320_08j4,0,0,0,,,,0,,,,,1.0,win,20160320_08j4,,,,0,0,,,,,0,2016,2015-16,div1,MCC-Maple Woods,mccmaplewoods,tynanzellertqgl,Tynan Zeller
+Mar 25,home,North Central Missouri,W,13-3,13,3,10.0,win,,,,,,,,,,,,,10.0,win,,,,,,,,,,,,2016,2015-16,div1,MCC-Maple Woods,mccmaplewoods,tynanzellertqgl,Tynan Zeller
+Mar 25,home,North Central Missouri,L,16-15,16,15,1.0,win,20160325_r0xn,0,0,0,,,,0,,,,,1.0,win,20160325_r0xn,,,,0,0,,,,,0,2016,2015-16,div1,MCC-Maple Woods,mccmaplewoods,tynanzellertqgl,Tynan Zeller
+Apr 2,home,St. Louis,L,10-7,10,7,3.0,win,,,,,,,,,,,,,3.0,win,,,,,,,,,,,,2016,2015-16,div1,MCC-Maple Woods,mccmaplewoods,tynanzellertqgl,Tynan Zeller
+Apr 2,home,St. Louis,W,11-5,11,5,6.0,win,,,,,,,,,,,,,6.0,win,,,,,,,,,,,,2016,2015-16,div1,MCC-Maple Woods,mccmaplewoods,tynanzellertqgl,Tynan Zeller
+Apr 3,home,St. Louis,L,15-11,15,11,4.0,win,,,,,,,,,,,,,4.0,win,,,,,,,,,,,,2016,2015-16,div1,MCC-Maple Woods,mccmaplewoods,tynanzellertqgl,Tynan Zeller
+Apr 3,home,St. Louis,W,13-9,13,9,4.0,win,20160403_vjja,0,0,0,,,,0,,,,,4.0,win,20160403_vjja,,,,0,0,,,,,0,2016,2015-16,div1,MCC-Maple Woods,mccmaplewoods,tynanzellertqgl,Tynan Zeller
+Apr 5,home,Kansas City Kansas,W,19-6,19,6,13.0,win,,,,,,,,,,,,,13.0,win,,,,,,,,,,,,2016,2015-16,div1,MCC-Maple Woods,mccmaplewoods,tynanzellertqgl,Tynan Zeller
+Apr 9,home,St. Charles,W,13-8,13,8,5.0,win,,,,,,,,,,,,,5.0,win,,,,,,,,,,,,2016,2015-16,div1,MCC-Maple Woods,mccmaplewoods,tynanzellertqgl,Tynan Zeller
+Apr 9,home,St. Charles,W,22-8,22,8,14.0,win,20160409_m8hz,0,0,0,,,,0,,,,,14.0,win,20160409_m8hz,,,,0,0,,,,,0,2016,2015-16,div1,MCC-Maple Woods,mccmaplewoods,tynanzellertqgl,Tynan Zeller
+Apr 14,home,Jefferson (MO),L,18-13,18,13,5.0,win,,,,,,,,,,,,,5.0,win,,,,,,,,,,,,2016,2015-16,div1,MCC-Maple Woods,mccmaplewoods,tynanzellertqgl,Tynan Zeller
+Apr 14,home,Jefferson (MO),L,12-1,12,1,11.0,win,,,,,,,,,,,,,11.0,win,,,,,,,,,,,,2016,2015-16,div1,MCC-Maple Woods,mccmaplewoods,tynanzellertqgl,Tynan Zeller
+Apr 28,home,Crowder,L,5-4,5,4,1.0,win,,,,,,,,,,,,,1.0,win,,,,,,,,,,,,2016,2015-16,div1,MCC-Maple Woods,mccmaplewoods,tynanzellertqgl,Tynan Zeller
+Apr 28,home,Crowder,W,10-0,10,0,10.0,win,,,,,,,,,,,,,10.0,win,,,,,,,,,,,,2016,2015-16,div1,MCC-Maple Woods,mccmaplewoods,tynanzellertqgl,Tynan Zeller
+May 6,home,Three Rivers,W,16-8,16,8,8.0,win,,,,,,,,,,,,,8.0,win,,,,,,,,,,,,2016,2015-16,div1,MCC-Maple Woods,mccmaplewoods,tynanzellertqgl,Tynan Zeller
+May 14,home,Crowder,W,8-7,8,7,1.0,win,,,,,,,,,,,,,1.0,win,,,,,,,,,,,,2016,2015-16,div1,MCC-Maple Woods,mccmaplewoods,tynanzellertqgl,Tynan Zeller
+May 21,home,Delgado,L,10-2,10,2,8.0,win,,,,,,,,,,,,,8.0,win,,,,,,,,,,,,2016,2015-16,div1,MCC-Maple Woods,mccmaplewoods,tynanzellertqgl,Tynan Zeller

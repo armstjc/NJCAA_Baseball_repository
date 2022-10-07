@@ -1,51 +1,26 @@
-date,location,opponent,result,score,team_score,opp_score,AB,R,H,2B,3B,HR,RBI,BB,K,SB,CS,HBP,SF,SH,TB,XBH,HDP,GO,FO,GO/FO,PA,season,njcaa_season,njcaa_division,team,team_id,player_id,player_name
-Feb 1,home,Roane State,W,5-0,5,5,3,0,2,,,,1,,1,,,,,,2,0,,,,,3,2014,2013-14,div1,Cleveland State,clevelandstatecommunitycollege,chriscaffreyhkpm,Chris Caffrey
-Feb 1,home,Roane State,W,12-2,12,12,3,1,1,,,,1,,,1,,,,,1,0,,,2,,3,2014,2013-14,div1,Cleveland State,clevelandstatecommunitycollege,chriscaffreyhkpm,Chris Caffrey
-Feb 2,away,Georgia Highlands,W,9-3,9,9,4,0,1,,,,1,,,,,,,,1,0,,3,,,4,2014,2013-14,div1,Cleveland State,clevelandstatecommunitycollege,chriscaffreyhkpm,Chris Caffrey
-Feb 2,away,Georgia Highlands,L,8-7,8,8,3,0,1,,,,1,,,,,,1,,1,0,,,3,,4,2014,2013-14,div1,Cleveland State,clevelandstatecommunitycollege,chriscaffreyhkpm,Chris Caffrey
-Feb 8,home,Vincennes,W,7-2,7,7,4,0,0,,,,0,,,,,,,,0,0,2,2,2,1.00,4,2014,2013-14,div1,Cleveland State,clevelandstatecommunitycollege,chriscaffreyhkpm,Chris Caffrey
-Feb 8,home,Vincennes,W,9-3,9,9,4,1,0,,,,1,,,,,,,,0,0,,2,1,2.00,4,2014,2013-14,div1,Cleveland State,clevelandstatecommunitycollege,chriscaffreyhkpm,Chris Caffrey
-Feb 9,home,Vincennes,L,8-4,8,8,,,,,,,,,,,,,,,,,,,,,,2014,2013-14,div1,Cleveland State,clevelandstatecommunitycollege,chriscaffreyhkpm,Chris Caffrey
-Feb 18,away,Georgia Perimeter,L,2-1,2,2,1,0,0,,,,0,,1,,,,,,0,0,,,,,1,2014,2013-14,div1,Cleveland State,clevelandstatecommunitycollege,chriscaffreyhkpm,Chris Caffrey
-Feb 18,away,Georgia Perimeter,W,6-5,6,6,4,1,0,,,,0,,1,1,,,,,0,0,,2,1,2.00,4,2014,2013-14,div1,Cleveland State,clevelandstatecommunitycollege,chriscaffreyhkpm,Chris Caffrey
-Feb 22,away,Roane State,L,17-2,17,17,2,0,1,,,,1,,,,,,,,1,0,,,1,,2,2014,2013-14,div1,Cleveland State,clevelandstatecommunitycollege,chriscaffreyhkpm,Chris Caffrey
-Feb 22,away,Roane State,W,7-2,7,7,3,0,1,,,,1,,1,,1,1,,,1,0,,1,,,4,2014,2013-14,div1,Cleveland State,clevelandstatecommunitycollege,chriscaffreyhkpm,Chris Caffrey
-Feb 23,away,Roane State,W,7-4,7,7,1,0,1,,,,1,,,,,,,,1,0,,,,,1,2014,2013-14,div1,Cleveland State,clevelandstatecommunitycollege,chriscaffreyhkpm,Chris Caffrey
-Feb 25,home,Georgia Perimeter,W,3-2,3,3,4,0,1,,,,1,1,,,,,,,1,0,1,2,1,2.00,5,2014,2013-14,div1,Cleveland State,clevelandstatecommunitycollege,chriscaffreyhkpm,Chris Caffrey
-Feb 25,home,Georgia Perimeter,L,15-1,15,15,2,0,0,,,,0,1,,,,,,,0,0,,1,1,1.00,3,2014,2013-14,div1,Cleveland State,clevelandstatecommunitycollege,chriscaffreyhkpm,Chris Caffrey
-Feb 28,home,Jackson State,L,14-4,14,14,3,0,0,,,,0,1,2,,,,,,0,0,,1,,,4,2014,2013-14,div1,Cleveland State,clevelandstatecommunitycollege,chriscaffreyhkpm,Chris Caffrey
-Mar 1,home,Jackson State,L,11-3,11,11,,,,,,,,,,,,,,,,,,,,,,2014,2013-14,div1,Cleveland State,clevelandstatecommunitycollege,chriscaffreyhkpm,Chris Caffrey
-Mar 1,home,Jackson State,W,4-1,4,4,3,1,2,1,,,1,,,,,,,,3,1,,1,,,3,2014,2013-14,div1,Cleveland State,clevelandstatecommunitycollege,chriscaffreyhkpm,Chris Caffrey
-Mar 9,away,Dyersburg State,W,10-1,10,10,4,0,1,,,,0,,1,,,,,,1,0,,1,,,4,2014,2013-14,div1,Cleveland State,clevelandstatecommunitycollege,chriscaffreyhkpm,Chris Caffrey
-Mar 10,away,Dyersburg State,L,8-4,8,8,0,0,0,,,,0,1,,,,,,,0,0,,,,,1,2014,2013-14,div1,Cleveland State,clevelandstatecommunitycollege,chriscaffreyhkpm,Chris Caffrey
-Mar 10,away,Dyersburg State,L,3-2,3,3,3,0,2,1,,,0,,,,,,,,3,1,,,1,,3,2014,2013-14,div1,Cleveland State,clevelandstatecommunitycollege,chriscaffreyhkpm,Chris Caffrey
-Mar 12,home,Tusculum College JV,W,6-5,6,6,4,0,1,,,,0,,,1,,,,,1,0,,2,1,2.00,4,2014,2013-14,div1,Cleveland State,clevelandstatecommunitycollege,chriscaffreyhkpm,Chris Caffrey
-Mar 12,home,Tusculum College JV,L,3-2,3,3,1,0,0,,,,0,,,,,,,,0,0,,1,,,1,2014,2013-14,div1,Cleveland State,clevelandstatecommunitycollege,chriscaffreyhkpm,Chris Caffrey
-Mar 14,away,Volunteer State,L,10-9,10,10,5,1,2,,,,0,,1,,,,,,2,0,,1,1,1.00,5,2014,2013-14,div1,Cleveland State,clevelandstatecommunitycollege,chriscaffreyhkpm,Chris Caffrey
-Mar 14,away,Volunteer State,L,10-5,10,10,3,0,0,,,,0,,,,,,,,0,0,,2,1,2.00,3,2014,2013-14,div1,Cleveland State,clevelandstatecommunitycollege,chriscaffreyhkpm,Chris Caffrey
-Mar 15,away,Volunteer State,W,8-5,8,8,2,2,0,,,,0,2,,,,,,,0,0,,2,,,4,2014,2013-14,div1,Cleveland State,clevelandstatecommunitycollege,chriscaffreyhkpm,Chris Caffrey
-Mar 21,home,Columbia State,L,4-1,4,4,3,0,0,,,,0,,1,,,,,,0,0,,1,1,1.00,3,2014,2013-14,div1,Cleveland State,clevelandstatecommunitycollege,chriscaffreyhkpm,Chris Caffrey
-Mar 22,home,Columbia State,L,1-0,1,1,1,0,0,,,,0,1,1,,,,,,0,0,,,,,2,2014,2013-14,div1,Cleveland State,clevelandstatecommunitycollege,chriscaffreyhkpm,Chris Caffrey
-Mar 22,home,Columbia State,L,13-1,13,13,2,0,0,,,,0,1,,,,,,,0,0,,,2,,3,2014,2013-14,div1,Cleveland State,clevelandstatecommunitycollege,chriscaffreyhkpm,Chris Caffrey
-Mar 26,home,Georgia Highlands,W,9-3,9,9,1,1,0,,,,1,1,,,,,1,,0,0,,1,1,1.00,3,2014,2013-14,div1,Cleveland State,clevelandstatecommunitycollege,chriscaffreyhkpm,Chris Caffrey
-Mar 26,home,Georgia Highlands,W,12-2,12,12,2,3,2,1,,,3,1,,,,,,,3,1,,,,,3,2014,2013-14,div1,Cleveland State,clevelandstatecommunitycollege,chriscaffreyhkpm,Chris Caffrey
-Mar 29,away,Southwest Tennessee,W,6-1,6,6,3,0,0,,,,1,1,2,,1,,,,0,0,,,1,,4,2014,2013-14,div1,Cleveland State,clevelandstatecommunitycollege,chriscaffreyhkpm,Chris Caffrey
-Mar 30,away,Southwest Tennessee,W,5-4,5,5,4,0,2,,,,0,,,,,,,,2,0,,1,,,4,2014,2013-14,div1,Cleveland State,clevelandstatecommunitycollege,chriscaffreyhkpm,Chris Caffrey
-Mar 30,away,Southwest Tennessee,W,4-2,4,4,3,0,1,,,,1,,,,1,,,,1,0,,2,,,3,2014,2013-14,div1,Cleveland State,clevelandstatecommunitycollege,chriscaffreyhkpm,Chris Caffrey
-Apr 2,away,University of the Cumberlands JV,W,13-5,13,13,3,2,1,,,,1,1,,,,,,,1,0,,1,1,1.00,4,2014,2013-14,div1,Cleveland State,clevelandstatecommunitycollege,chriscaffreyhkpm,Chris Caffrey
-Apr 2,away,University of the Cumberlands JV,W,11-4,11,11,,,,,,,,,,,,,,,,,,,,,,2014,2013-14,div1,Cleveland State,clevelandstatecommunitycollege,chriscaffreyhkpm,Chris Caffrey
-Apr 5,home,Motlow State,W,2-1,2,2,2,0,1,,,,1,1,,,,,,,1,0,,1,,,3,2014,2013-14,div1,Cleveland State,clevelandstatecommunitycollege,chriscaffreyhkpm,Chris Caffrey
-Apr 5,home,Motlow State,L,5-4,5,5,3,0,0,,,,0,,1,,,,,,0,0,,1,1,1.00,3,2014,2013-14,div1,Cleveland State,clevelandstatecommunitycollege,chriscaffreyhkpm,Chris Caffrey
-Apr 6,home,Motlow State,W,11-1,11,11,4,2,4,1,,1,4,,,,,,,,8,2,,,,,4,2014,2013-14,div1,Cleveland State,clevelandstatecommunitycollege,chriscaffreyhkpm,Chris Caffrey
-Apr 9,away,Tusculum College JV,L,6-2,6,6,3,0,0,,,,0,,,,,,,,0,0,,2,1,2.00,3,2014,2013-14,div1,Cleveland State,clevelandstatecommunitycollege,chriscaffreyhkpm,Chris Caffrey
-Apr 9,away,Tusculum College JV,W,8-4,8,8,4,1,2,,,,0,,,,,,,,2,0,,2,,,4,2014,2013-14,div1,Cleveland State,clevelandstatecommunitycollege,chriscaffreyhkpm,Chris Caffrey
-Apr 11,away,Walters State,L,10-6,10,10,5,1,1,1,,,0,,3,,,,,,2,1,,,,,5,2014,2013-14,div1,Cleveland State,clevelandstatecommunitycollege,chriscaffreyhkpm,Chris Caffrey
-Apr 12,away,Walters State,W,6-4,6,6,3,1,1,1,,,1,,,,,,1,,2,1,1,,3,,4,2014,2013-14,div1,Cleveland State,clevelandstatecommunitycollege,chriscaffreyhkpm,Chris Caffrey
-Apr 12,away,Walters State,L,5-4,5,5,3,0,0,,,,1,,1,,,,,,0,0,,1,1,1.00,3,2014,2013-14,div1,Cleveland State,clevelandstatecommunitycollege,chriscaffreyhkpm,Chris Caffrey
-Apr 17,home,Chattanooga State,L,5-1,5,5,4,1,1,,,,0,,1,,,,,,1,0,,,2,,4,2014,2013-14,div1,Cleveland State,clevelandstatecommunitycollege,chriscaffreyhkpm,Chris Caffrey
-Apr 18,home,Chattanooga State,L,3-2,3,3,2,0,0,,,,1,,,,,,1,,0,0,,,2,,3,2014,2013-14,div1,Cleveland State,clevelandstatecommunitycollege,chriscaffreyhkpm,Chris Caffrey
-Apr 18,home,Chattanooga State,W,8-5,8,8,3,0,0,,,,0,,1,,,,,,0,0,1,2,,,3,2014,2013-14,div1,Cleveland State,clevelandstatecommunitycollege,chriscaffreyhkpm,Chris Caffrey
-Apr 21,home,University of the Cumberlands JV,W,10-7,10,10,1,1,0,,,,1,1,,,,1,,,0,0,,,,,3,2014,2013-14,div1,Cleveland State,clevelandstatecommunitycollege,chriscaffreyhkpm,Chris Caffrey
-Apr 21,home,University of the Cumberlands JV,W,3-0,3,3,,,,,,,,,,,,,,,,,,,,,,2014,2013-14,div1,Cleveland State,clevelandstatecommunitycollege,chriscaffreyhkpm,Chris Caffrey
-Apr 25,home,vs. Motlow State,L,8-4,8,8,3,0,1,,,,0,1,,,,,,,1,0,,1,1,1.00,4,2014,2013-14,div1,Cleveland State,clevelandstatecommunitycollege,chriscaffreyhkpm,Chris Caffrey
-Apr 26,home,vs. Motlow State,L,7-6,7,7,4,0,0,,,,0,,1,,,,,,0,0,1,3,,,4,2014,2013-14,div1,Cleveland State,clevelandstatecommunitycollege,chriscaffreyhkpm,Chris Caffrey
+date,location,opponent,result,score,team_score,opp_score,game_score_diff_x,game_win_loss_x,game_id_x,AB,R,H,2B,3B,HR,RBI,BB,K,SB,CS,game_score_diff_y,game_win_loss_y,game_id_y,HBP,SF,SH,TB,XBH,HDP,GO,FO,GO/FO,PA,season,njcaa_season,njcaa_division,team,team_id,player_id,player_name
+Feb 1,home,Roane State,W,5-0,5,0,5.0,win,20140201_yddc,3,0,2,,,,1,,1,,,5.0,win,20140201_yddc,,,,2,0,,,,,3,2014,2013-14,div1,Cleveland State,clevelandstatecommunitycollege,chriscaffreyhkpm,Chris Caffrey
+Feb 1,home,Roane State,W,12-2,12,2,10.0,win,20140201_n87l,3,1,1,,,,1,,,1,,10.0,win,20140201_n87l,,,,1,0,,,2,,3,2014,2013-14,div1,Cleveland State,clevelandstatecommunitycollege,chriscaffreyhkpm,Chris Caffrey
+Feb 8,home,Vincennes,W,7-2,7,2,5.0,win,20140208_qmif,4,0,0,,,,0,,,,,5.0,win,20140208_qmif,,,,0,0,2,2,2,1.00,4,2014,2013-14,div1,Cleveland State,clevelandstatecommunitycollege,chriscaffreyhkpm,Chris Caffrey
+Feb 8,home,Vincennes,W,9-3,9,3,6.0,win,20140208_aypu,4,1,0,,,,1,,,,,6.0,win,20140208_aypu,,,,0,0,,2,1,2.00,4,2014,2013-14,div1,Cleveland State,clevelandstatecommunitycollege,chriscaffreyhkpm,Chris Caffrey
+Feb 9,home,Vincennes,L,8-4,8,4,4.0,win,,,,,,,,,,,,,4.0,win,,,,,,,,,,,,2014,2013-14,div1,Cleveland State,clevelandstatecommunitycollege,chriscaffreyhkpm,Chris Caffrey
+Feb 25,home,Georgia Perimeter,W,3-2,3,2,1.0,win,20140225_glgy,4,0,1,,,,1,1,,,,1.0,win,20140225_glgy,,,,1,0,1,2,1,2.00,5,2014,2013-14,div1,Cleveland State,clevelandstatecommunitycollege,chriscaffreyhkpm,Chris Caffrey
+Feb 25,home,Georgia Perimeter,L,15-1,15,1,14.0,win,20140225_6nh3,2,0,0,,,,0,1,,,,14.0,win,20140225_6nh3,,,,0,0,,1,1,1.00,3,2014,2013-14,div1,Cleveland State,clevelandstatecommunitycollege,chriscaffreyhkpm,Chris Caffrey
+Feb 28,home,Jackson State,L,14-4,14,4,10.0,win,20140228_rkq6,3,0,0,,,,0,1,2,,,10.0,win,20140228_rkq6,,,,0,0,,1,,,4,2014,2013-14,div1,Cleveland State,clevelandstatecommunitycollege,chriscaffreyhkpm,Chris Caffrey
+Mar 1,home,Jackson State,L,11-3,11,3,8.0,win,,,,,,,,,,,,,8.0,win,,,,,,,,,,,,2014,2013-14,div1,Cleveland State,clevelandstatecommunitycollege,chriscaffreyhkpm,Chris Caffrey
+Mar 1,home,Jackson State,W,4-1,4,1,3.0,win,20140301_qzf0,3,1,2,1,,,1,,,,,3.0,win,20140301_qzf0,,,,3,1,,1,,,3,2014,2013-14,div1,Cleveland State,clevelandstatecommunitycollege,chriscaffreyhkpm,Chris Caffrey
+Mar 12,home,Tusculum College JV,W,6-5,6,5,1.0,win,20140312_e278,4,0,1,,,,0,,,1,,1.0,win,20140312_e278,,,,1,0,,2,1,2.00,4,2014,2013-14,div1,Cleveland State,clevelandstatecommunitycollege,chriscaffreyhkpm,Chris Caffrey
+Mar 12,home,Tusculum College JV,L,3-2,3,2,1.0,win,20140312_eljn,1,0,0,,,,0,,,,,1.0,win,20140312_eljn,,,,0,0,,1,,,1,2014,2013-14,div1,Cleveland State,clevelandstatecommunitycollege,chriscaffreyhkpm,Chris Caffrey
+Mar 21,home,Columbia State,L,4-1,4,1,3.0,win,20140321_f8pf,3,0,0,,,,0,,1,,,3.0,win,20140321_f8pf,,,,0,0,,1,1,1.00,3,2014,2013-14,div1,Cleveland State,clevelandstatecommunitycollege,chriscaffreyhkpm,Chris Caffrey
+Mar 22,home,Columbia State,L,1-0,1,0,1.0,win,20140322_qwqc,1,0,0,,,,0,1,1,,,1.0,win,20140322_qwqc,,,,0,0,,,,,2,2014,2013-14,div1,Cleveland State,clevelandstatecommunitycollege,chriscaffreyhkpm,Chris Caffrey
+Mar 22,home,Columbia State,L,13-1,13,1,12.0,win,20140322_9f3o,2,0,0,,,,0,1,,,,12.0,win,20140322_9f3o,,,,0,0,,,2,,3,2014,2013-14,div1,Cleveland State,clevelandstatecommunitycollege,chriscaffreyhkpm,Chris Caffrey
+Mar 26,home,Georgia Highlands,W,9-3,9,3,6.0,win,20140326_wply,1,1,0,,,,1,1,,,,6.0,win,20140326_wply,,1,,0,0,,1,1,1.00,3,2014,2013-14,div1,Cleveland State,clevelandstatecommunitycollege,chriscaffreyhkpm,Chris Caffrey
+Mar 26,home,Georgia Highlands,W,12-2,12,2,10.0,win,20140326_n4tb,2,3,2,1,,,3,1,,,,10.0,win,20140326_n4tb,,,,3,1,,,,,3,2014,2013-14,div1,Cleveland State,clevelandstatecommunitycollege,chriscaffreyhkpm,Chris Caffrey
+Apr 5,home,Motlow State,W,2-1,2,1,1.0,win,20140405_9zax,2,0,1,,,,1,1,,,,1.0,win,20140405_9zax,,,,1,0,,1,,,3,2014,2013-14,div1,Cleveland State,clevelandstatecommunitycollege,chriscaffreyhkpm,Chris Caffrey
+Apr 5,home,Motlow State,L,5-4,5,4,1.0,win,20140405_nrtq,3,0,0,,,,0,,1,,,1.0,win,20140405_nrtq,,,,0,0,,1,1,1.00,3,2014,2013-14,div1,Cleveland State,clevelandstatecommunitycollege,chriscaffreyhkpm,Chris Caffrey
+Apr 6,home,Motlow State,W,11-1,11,1,10.0,win,20140406_g197,4,2,4,1,,1,4,,,,,10.0,win,20140406_g197,,,,8,2,,,,,4,2014,2013-14,div1,Cleveland State,clevelandstatecommunitycollege,chriscaffreyhkpm,Chris Caffrey
+Apr 17,home,Chattanooga State,L,5-1,5,1,4.0,win,20140417_55za,4,1,1,,,,0,,1,,,4.0,win,20140417_55za,,,,1,0,,,2,,4,2014,2013-14,div1,Cleveland State,clevelandstatecommunitycollege,chriscaffreyhkpm,Chris Caffrey
+Apr 18,home,Chattanooga State,L,3-2,3,2,1.0,win,20140418_qq7n,2,0,0,,,,1,,,,,1.0,win,20140418_qq7n,,1,,0,0,,,2,,3,2014,2013-14,div1,Cleveland State,clevelandstatecommunitycollege,chriscaffreyhkpm,Chris Caffrey
+Apr 18,home,Chattanooga State,W,8-5,8,5,3.0,win,20140418_vjbh,3,0,0,,,,0,,1,,,3.0,win,20140418_vjbh,,,,0,0,1,2,,,3,2014,2013-14,div1,Cleveland State,clevelandstatecommunitycollege,chriscaffreyhkpm,Chris Caffrey
+Apr 21,home,University of the Cumberlands JV,W,10-7,10,7,3.0,win,20140421_4adf,1,1,0,,,,1,1,,,,3.0,win,20140421_4adf,1,,,0,0,,,,,3,2014,2013-14,div1,Cleveland State,clevelandstatecommunitycollege,chriscaffreyhkpm,Chris Caffrey
+Apr 21,home,University of the Cumberlands JV,W,3-0,3,0,3.0,win,,,,,,,,,,,,,3.0,win,,,,,,,,,,,,2014,2013-14,div1,Cleveland State,clevelandstatecommunitycollege,chriscaffreyhkpm,Chris Caffrey

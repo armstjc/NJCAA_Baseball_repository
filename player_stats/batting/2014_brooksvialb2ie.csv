@@ -1,57 +1,28 @@
-date,location,opponent,result,score,team_score,opp_score,AB,R,H,2B,3B,HR,RBI,BB,K,SB,CS,HBP,SF,SH,TB,XBH,HDP,GO,FO,GO/FO,PA,season,njcaa_season,njcaa_division,team,team_id,player_id,player_name
-Feb 1,home,vs. State College of Florida,L,6-1,6,6,,,,,,,,,,,,,,,,,,,,,,2014,2013-14,div1,Delgado,delgadocommunitycollege,brooksvialb2ie,Brooks Vial
-Feb 1,home,vs. Southwest Tennessee,W,6-5,6,6,0,0,0,,,,0,,,,,,,,0,0,,,,,0,2014,2013-14,div1,Delgado,delgadocommunitycollege,brooksvialb2ie,Brooks Vial
-Feb 8,home,Bishop State,W,7-4,7,7,,,,,,,,,,,,,,,,,,,,,,2014,2013-14,div1,Delgado,delgadocommunitycollege,brooksvialb2ie,Brooks Vial
-Feb 8,home,Bishop State,W,7-3,7,7,,,,,,,,,,,,,,,,,,,,,,2014,2013-14,div1,Delgado,delgadocommunitycollege,brooksvialb2ie,Brooks Vial
-Feb 13,home,SUNY Adirondack,W,18-1,18,18,0,0,0,,,,0,,,,,,,,0,0,,,,,0,2014,2013-14,div1,Delgado,delgadocommunitycollege,brooksvialb2ie,Brooks Vial
-Feb 14,home,Pensacola State,W,7-3,7,7,,,,,,,,,,,,,,,,,,,,,,2014,2013-14,div1,Delgado,delgadocommunitycollege,brooksvialb2ie,Brooks Vial
-Feb 14,home,SUNY Adirondack,W,12-0,12,12,,,,,,,,,,,,,,,,,,,,,,2014,2013-14,div1,Delgado,delgadocommunitycollege,brooksvialb2ie,Brooks Vial
-Feb 15,home,Pensacola State,W,6-5,6,6,,,,,,,,,,,,,,,,,,,,,,2014,2013-14,div1,Delgado,delgadocommunitycollege,brooksvialb2ie,Brooks Vial
-Feb 15,home,SUNY Adirondack,W,9-2,9,9,,,,,,,,,,,,,,,,,,,,,,2014,2013-14,div1,Delgado,delgadocommunitycollege,brooksvialb2ie,Brooks Vial
-Feb 16,home,Pensacola State,W,14-4,14,14,,,,,,,,,,,,,,,,,,,,,,2014,2013-14,div1,Delgado,delgadocommunitycollege,brooksvialb2ie,Brooks Vial
-Feb 20,home,DuPage,W,12-1,12,12,,,,,,,,,,,,,,,,,,,,,,2014,2013-14,div1,Delgado,delgadocommunitycollege,brooksvialb2ie,Brooks Vial
-Feb 21,home,Copiah-Lincoln,W,7-3,7,7,0,0,0,,,,0,,,,,,,,0,0,,,,,0,2014,2013-14,div1,Delgado,delgadocommunitycollege,brooksvialb2ie,Brooks Vial
-Feb 21,home,DuPage,W,22-1,22,22,,,,,,,,,,,,,,,,,,,,,,2014,2013-14,div1,Delgado,delgadocommunitycollege,brooksvialb2ie,Brooks Vial
-Feb 22,home,DuPage,W,14-4,14,14,,,,,,,,,,,,,,,,,,,,,,2014,2013-14,div1,Delgado,delgadocommunitycollege,brooksvialb2ie,Brooks Vial
-Feb 27,away,Pensacola State,W,12-7,12,12,,,,,,,,,,,,,,,,,,,,,,2014,2013-14,div1,Delgado,delgadocommunitycollege,brooksvialb2ie,Brooks Vial
-Feb 28,away,Pensacola State,L,4-3,4,4,,,,,,,,,,,,,,,,,,,,,,2014,2013-14,div1,Delgado,delgadocommunitycollege,brooksvialb2ie,Brooks Vial
-Feb 28,away,Pensacola State,W,8-7,8,8,0,0,0,,,,0,,,,,,,,0,0,,,,,0,2014,2013-14,div1,Delgado,delgadocommunitycollege,brooksvialb2ie,Brooks Vial
-Mar 5,home,vs. ASA New York,W,2-1,2,2,,,,,,,,,,,,,,,,,,,,,,2014,2013-14,div1,Delgado,delgadocommunitycollege,brooksvialb2ie,Brooks Vial
-Mar 5,home,vs. ASA New York,W,3-2,3,3,,,,,,,,,,,,,,,,,,,,,,2014,2013-14,div1,Delgado,delgadocommunitycollege,brooksvialb2ie,Brooks Vial
-Mar 7,home,vs. Mott,W,3-0,3,3,0,0,0,,,,0,,,,,,,,0,0,,,,,0,2014,2013-14,div1,Delgado,delgadocommunitycollege,brooksvialb2ie,Brooks Vial
-Mar 7,home,vs. Mott,W,10-0,10,10,,,,,,,,,,,,,,,,,,,,,,2014,2013-14,div1,Delgado,delgadocommunitycollege,brooksvialb2ie,Brooks Vial
-Mar 8,away,RCSJ Gloucester,W,4-1,4,4,,,,,,,,,,,,,,,,,,,,,,2014,2013-14,div1,Delgado,delgadocommunitycollege,brooksvialb2ie,Brooks Vial
-Mar 8,home,vs. Monroe CC,W,15-2,15,15,,,,,,,,,,,,,,,,,,,,,,2014,2013-14,div1,Delgado,delgadocommunitycollege,brooksvialb2ie,Brooks Vial
-Mar 15,home,St. Charles,W,3-2,3,3,,,,,,,,,,,,,,,,,,,,,,2014,2013-14,div1,Delgado,delgadocommunitycollege,brooksvialb2ie,Brooks Vial
-Mar 15,home,St. Charles,W,10-0,10,10,,,,,,,,,,,,,,,,,,,,,,2014,2013-14,div1,Delgado,delgadocommunitycollege,brooksvialb2ie,Brooks Vial
-Mar 16,home,St. Charles,W,14-1,14,14,0,0,0,,,,0,,,,,,,,0,0,,,,,0,2014,2013-14,div1,Delgado,delgadocommunitycollege,brooksvialb2ie,Brooks Vial
-Mar 22,away,LSU Eunice,L,8-0,8,8,,,,,,,,,,,,,,,,,,,,,,2014,2013-14,div1,Delgado,delgadocommunitycollege,brooksvialb2ie,Brooks Vial
-Mar 22,away,LSU Eunice,W,8-6,8,8,,,,,,,,,,,,,,,,,,,,,,2014,2013-14,div1,Delgado,delgadocommunitycollege,brooksvialb2ie,Brooks Vial
-Mar 23,away,LSU Eunice,L,11-8,11,11,0,0,0,,,,0,,,,,,,,0,0,,,,,0,2014,2013-14,div1,Delgado,delgadocommunitycollege,brooksvialb2ie,Brooks Vial
-Mar 29,away,Baton Rouge,L,5-1,5,5,,,,,,,,,,,,,,,,,,,,,,2014,2013-14,div1,Delgado,delgadocommunitycollege,brooksvialb2ie,Brooks Vial
-Mar 29,away,Baton Rouge,L,4-3,4,4,,,,,,,,,,,,,,,,,,,,,,2014,2013-14,div1,Delgado,delgadocommunitycollege,brooksvialb2ie,Brooks Vial
-Mar 30,away,Baton Rouge,W,10-8,10,10,0,0,0,,,,0,,,,,,,,0,0,,,,,0,2014,2013-14,div1,Delgado,delgadocommunitycollege,brooksvialb2ie,Brooks Vial
-Apr 5,away,Meridian,W,7-1,7,7,,,,,,,,,,,,,,,,,,,,,,2014,2013-14,div1,Delgado,delgadocommunitycollege,brooksvialb2ie,Brooks Vial
-Apr 5,away,Meridian,L,7-6,7,7,0,0,0,,,,0,,,,,,,,0,0,,,,,0,2014,2013-14,div1,Delgado,delgadocommunitycollege,brooksvialb2ie,Brooks Vial
-Apr 9,away,Coastal Alabama - Bay Minette,L,9-2,9,9,,,,,,,,,,,,,,,,,,,,,,2014,2013-14,div1,Delgado,delgadocommunitycollege,brooksvialb2ie,Brooks Vial
-Apr 9,away,Coastal Alabama - Bay Minette,L,7-6,7,7,,,,,,,,,,,,,,,,,,,,,,2014,2013-14,div1,Delgado,delgadocommunitycollege,brooksvialb2ie,Brooks Vial
-Apr 12,home,Meridian,W,10-0,10,10,,,,,,,,,,,,,,,,,,,,,,2014,2013-14,div1,Delgado,delgadocommunitycollege,brooksvialb2ie,Brooks Vial
-Apr 12,home,Meridian,W,8-1,8,8,0,0,0,,,,0,,,,,,,,0,0,,,,,0,2014,2013-14,div1,Delgado,delgadocommunitycollege,brooksvialb2ie,Brooks Vial
-Apr 13,home,Meridian,W,4-2,4,4,,,,,,,,,,,,,,,,,,,,,,2014,2013-14,div1,Delgado,delgadocommunitycollege,brooksvialb2ie,Brooks Vial
-Apr 18,home,LSU Eunice,W,12-8,12,12,,,,,,,,,,,,,,,,,,,,,,2014,2013-14,div1,Delgado,delgadocommunitycollege,brooksvialb2ie,Brooks Vial
-Apr 18,home,LSU Eunice,W,10-4,10,10,0,0,0,,,,0,,,,,,,,0,0,,,,,0,2014,2013-14,div1,Delgado,delgadocommunitycollege,brooksvialb2ie,Brooks Vial
-Apr 19,home,LSU Eunice,W,10-2,10,10,,,,,,,,,,,,,,,,,,,,,,2014,2013-14,div1,Delgado,delgadocommunitycollege,brooksvialb2ie,Brooks Vial
-Apr 22,home,Coastal Alabama - Bay Minette,W,4-3,4,4,,,,,,,,,,,,,,,,,,,,,,2014,2013-14,div1,Delgado,delgadocommunitycollege,brooksvialb2ie,Brooks Vial
-Apr 22,home,Coastal Alabama - Bay Minette,W,9-7,9,9,,,,,,,,,,,,,,,,,,,,,,2014,2013-14,div1,Delgado,delgadocommunitycollege,brooksvialb2ie,Brooks Vial
-Apr 26,home,Baton Rouge,W,14-1,14,14,,,,,,,,,,,,,,,,,,,,,,2014,2013-14,div1,Delgado,delgadocommunitycollege,brooksvialb2ie,Brooks Vial
-Apr 26,home,Baton Rouge,L,5-3,5,5,0,0,0,,,,0,,,,,,,,0,0,,,,,0,2014,2013-14,div1,Delgado,delgadocommunitycollege,brooksvialb2ie,Brooks Vial
-Apr 27,home,Baton Rouge,W,10-5,10,10,,,,,,,,,,,,,,,,,,,,,,2014,2013-14,div1,Delgado,delgadocommunitycollege,brooksvialb2ie,Brooks Vial
-May 10,home,vs. Baton Rouge,W,3-0,3,3,,,,,,,,,,,,,,,,,,,,,,2014,2013-14,div1,Delgado,delgadocommunitycollege,brooksvialb2ie,Brooks Vial
-May 10,home,Meridian,W,3-0,3,3,0,0,0,,,,0,,,,,,,,0,0,,,,,0,2014,2013-14,div1,Delgado,delgadocommunitycollege,brooksvialb2ie,Brooks Vial
-May 11,away,Meridian,W,6-1,6,6,,,,,,,,,,,,,,,,,,,,,,2014,2013-14,div1,Delgado,delgadocommunitycollege,brooksvialb2ie,Brooks Vial
-May 16,home,vs. Seminole State (OK),W,4-3,4,4,,,,,,,,,,,,,,,,,,,,,,2014,2013-14,div1,Delgado,delgadocommunitycollege,brooksvialb2ie,Brooks Vial
-May 16,away,Crowder,W,3-2,3,3,0,0,0,,,,0,,,,,,,,0,0,,,,,0,2014,2013-14,div1,Delgado,delgadocommunitycollege,brooksvialb2ie,Brooks Vial
-May 17,home,vs. Seminole State (OK),L,7-3,7,7,,,,,,,,,,,,,,,,,,,,,,2014,2013-14,div1,Delgado,delgadocommunitycollege,brooksvialb2ie,Brooks Vial
-May 18,home,vs. Seminole State (OK),W,7-6,7,7,,,,,,,,,,,,,,,,,,,,,,2014,2013-14,div1,Delgado,delgadocommunitycollege,brooksvialb2ie,Brooks Vial
-May 24,home,vs. Chattahoochee Valley,L,8-6,8,8,,,,,,,,,,,,,,,,,,,,,,2014,2013-14,div1,Delgado,delgadocommunitycollege,brooksvialb2ie,Brooks Vial
-May 25,home,vs. Cochise,L,9-5,9,9,0,0,0,,,,0,,,,,,,,0,0,,,,,0,2014,2013-14,div1,Delgado,delgadocommunitycollege,brooksvialb2ie,Brooks Vial
+date,location,opponent,result,score,team_score,opp_score,game_score_diff_x,game_win_loss_x,game_id_x,AB,R,H,2B,3B,HR,RBI,BB,K,SB,CS,game_score_diff_y,game_win_loss_y,game_id_y,HBP,SF,SH,TB,XBH,HDP,GO,FO,GO/FO,PA,season,njcaa_season,njcaa_division,team,team_id,player_id,player_name
+Feb 8,home,Bishop State,W,7-4,7,4,3.0,win,,,,,,,,,,,,,3.0,win,,,,,,,,,,,,2014,2013-14,div1,Delgado,delgadocommunitycollege,brooksvialb2ie,Brooks Vial
+Feb 8,home,Bishop State,W,7-3,7,3,4.0,win,,,,,,,,,,,,,4.0,win,,,,,,,,,,,,2014,2013-14,div1,Delgado,delgadocommunitycollege,brooksvialb2ie,Brooks Vial
+Feb 13,home,SUNY Adirondack,W,18-1,18,1,17.0,win,20140213_w188,0,0,0,,,,0,,,,,17.0,win,20140213_w188,,,,0,0,,,,,0,2014,2013-14,div1,Delgado,delgadocommunitycollege,brooksvialb2ie,Brooks Vial
+Feb 14,home,Pensacola State,W,7-3,7,3,4.0,win,,,,,,,,,,,,,4.0,win,,,,,,,,,,,,2014,2013-14,div1,Delgado,delgadocommunitycollege,brooksvialb2ie,Brooks Vial
+Feb 14,home,SUNY Adirondack,W,12-0,12,0,12.0,win,,,,,,,,,,,,,12.0,win,,,,,,,,,,,,2014,2013-14,div1,Delgado,delgadocommunitycollege,brooksvialb2ie,Brooks Vial
+Feb 15,home,Pensacola State,W,6-5,6,5,1.0,win,,,,,,,,,,,,,1.0,win,,,,,,,,,,,,2014,2013-14,div1,Delgado,delgadocommunitycollege,brooksvialb2ie,Brooks Vial
+Feb 15,home,SUNY Adirondack,W,9-2,9,2,7.0,win,,,,,,,,,,,,,7.0,win,,,,,,,,,,,,2014,2013-14,div1,Delgado,delgadocommunitycollege,brooksvialb2ie,Brooks Vial
+Feb 16,home,Pensacola State,W,14-4,14,4,10.0,win,,,,,,,,,,,,,10.0,win,,,,,,,,,,,,2014,2013-14,div1,Delgado,delgadocommunitycollege,brooksvialb2ie,Brooks Vial
+Feb 20,home,DuPage,W,12-1,12,1,11.0,win,,,,,,,,,,,,,11.0,win,,,,,,,,,,,,2014,2013-14,div1,Delgado,delgadocommunitycollege,brooksvialb2ie,Brooks Vial
+Feb 21,home,Copiah-Lincoln,W,7-3,7,3,4.0,win,20140221_i7a9,0,0,0,,,,0,,,,,4.0,win,20140221_i7a9,,,,0,0,,,,,0,2014,2013-14,div1,Delgado,delgadocommunitycollege,brooksvialb2ie,Brooks Vial
+Feb 21,home,DuPage,W,22-1,22,1,21.0,win,,,,,,,,,,,,,21.0,win,,,,,,,,,,,,2014,2013-14,div1,Delgado,delgadocommunitycollege,brooksvialb2ie,Brooks Vial
+Feb 22,home,DuPage,W,14-4,14,4,10.0,win,,,,,,,,,,,,,10.0,win,,,,,,,,,,,,2014,2013-14,div1,Delgado,delgadocommunitycollege,brooksvialb2ie,Brooks Vial
+Mar 15,home,St. Charles,W,3-2,3,2,1.0,win,,,,,,,,,,,,,1.0,win,,,,,,,,,,,,2014,2013-14,div1,Delgado,delgadocommunitycollege,brooksvialb2ie,Brooks Vial
+Mar 15,home,St. Charles,W,10-0,10,0,10.0,win,,,,,,,,,,,,,10.0,win,,,,,,,,,,,,2014,2013-14,div1,Delgado,delgadocommunitycollege,brooksvialb2ie,Brooks Vial
+Mar 16,home,St. Charles,W,14-1,14,1,13.0,win,20140316_l13m,0,0,0,,,,0,,,,,13.0,win,20140316_l13m,,,,0,0,,,,,0,2014,2013-14,div1,Delgado,delgadocommunitycollege,brooksvialb2ie,Brooks Vial
+Apr 12,home,Meridian,W,10-0,10,0,10.0,win,,,,,,,,,,,,,10.0,win,,,,,,,,,,,,2014,2013-14,div1,Delgado,delgadocommunitycollege,brooksvialb2ie,Brooks Vial
+Apr 12,home,Meridian,W,8-1,8,1,7.0,win,20140412_2t8x,0,0,0,,,,0,,,,,7.0,win,20140412_2t8x,,,,0,0,,,,,0,2014,2013-14,div1,Delgado,delgadocommunitycollege,brooksvialb2ie,Brooks Vial
+Apr 13,home,Meridian,W,4-2,4,2,2.0,win,,,,,,,,,,,,,2.0,win,,,,,,,,,,,,2014,2013-14,div1,Delgado,delgadocommunitycollege,brooksvialb2ie,Brooks Vial
+Apr 18,home,LSU Eunice,W,12-8,12,8,4.0,win,,,,,,,,,,,,,4.0,win,,,,,,,,,,,,2014,2013-14,div1,Delgado,delgadocommunitycollege,brooksvialb2ie,Brooks Vial
+Apr 18,home,LSU Eunice,W,10-4,10,4,6.0,win,20140418_dknl,0,0,0,,,,0,,,,,6.0,win,20140418_dknl,,,,0,0,,,,,0,2014,2013-14,div1,Delgado,delgadocommunitycollege,brooksvialb2ie,Brooks Vial
+Apr 19,home,LSU Eunice,W,10-2,10,2,8.0,win,,,,,,,,,,,,,8.0,win,,,,,,,,,,,,2014,2013-14,div1,Delgado,delgadocommunitycollege,brooksvialb2ie,Brooks Vial
+Apr 22,home,Coastal Alabama - Bay Minette,W,4-3,4,3,1.0,win,,,,,,,,,,,,,1.0,win,,,,,,,,,,,,2014,2013-14,div1,Delgado,delgadocommunitycollege,brooksvialb2ie,Brooks Vial
+Apr 22,home,Coastal Alabama - Bay Minette,W,9-7,9,7,2.0,win,,,,,,,,,,,,,2.0,win,,,,,,,,,,,,2014,2013-14,div1,Delgado,delgadocommunitycollege,brooksvialb2ie,Brooks Vial
+Apr 26,home,Baton Rouge,W,14-1,14,1,13.0,win,,,,,,,,,,,,,13.0,win,,,,,,,,,,,,2014,2013-14,div1,Delgado,delgadocommunitycollege,brooksvialb2ie,Brooks Vial
+Apr 26,home,Baton Rouge,L,5-3,5,3,2.0,win,20140426_o4t0,0,0,0,,,,0,,,,,2.0,win,20140426_o4t0,,,,0,0,,,,,0,2014,2013-14,div1,Delgado,delgadocommunitycollege,brooksvialb2ie,Brooks Vial
+Apr 27,home,Baton Rouge,W,10-5,10,5,5.0,win,,,,,,,,,,,,,5.0,win,,,,,,,,,,,,2014,2013-14,div1,Delgado,delgadocommunitycollege,brooksvialb2ie,Brooks Vial
+May 10,home,Meridian,W,3-0,3,0,3.0,win,20140510_kz6e,0,0,0,,,,0,,,,,3.0,win,20140510_kz6e,,,,0,0,,,,,0,2014,2013-14,div1,Delgado,delgadocommunitycollege,brooksvialb2ie,Brooks Vial

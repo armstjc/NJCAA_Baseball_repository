@@ -1,61 +1,36 @@
-date,location,opponent,result,score,team_score,opp_score,AB,R,H,2B,3B,HR,RBI,BB,K,SB,CS,HBP,SF,SH,TB,XBH,HDP,GO,FO,GO/FO,PA,season,njcaa_season,njcaa_division,team,team_id,player_id,player_name
-Jan 30,home,vs. Darton State,W,9-8,9,9,,,,,,,,,,,,,,,,,,,,,,2015,2014-15,div1,Tallahassee,tallahasseecommunitycollege,chadmabinik962,Chad Mabini
-Jan 30,home,vs. Gordon State,L,5-0,5,5,,,,,,,,,,,,,,,,,,,,,,2015,2014-15,div1,Tallahassee,tallahasseecommunitycollege,chadmabinik962,Chad Mabini
-Jan 31,home,vs. Gordon State,L,9-8,9,9,,,,,,,,,,,,,,,,,,,,,,2015,2014-15,div1,Tallahassee,tallahasseecommunitycollege,chadmabinik962,Chad Mabini
-Jan 31,home,vs. Darton State,L,8-1,8,8,,,,,,,,,,,,,,,,,,,,,,2015,2014-15,div1,Tallahassee,tallahasseecommunitycollege,chadmabinik962,Chad Mabini
-Feb 3,away,Florida State Jacksonville,W,7-6,7,7,0,0,0,,,,0,,,,,,,,0,0,,,,,0,2015,2014-15,div1,Tallahassee,tallahasseecommunitycollege,chadmabinik962,Chad Mabini
-Feb 6,home,Gordon State,W,4-1,4,4,,,,,,,,,,,,,,,,,,,,,,2015,2014-15,div1,Tallahassee,tallahasseecommunitycollege,chadmabinik962,Chad Mabini
-Feb 7,home,Gordon State,W,10-2,10,10,,,,,,,,,,,,,,,,,,,,,,2015,2014-15,div1,Tallahassee,tallahasseecommunitycollege,chadmabinik962,Chad Mabini
-Feb 9,away,South Georgia State,,,,,,,,,,,,,,,,,,,,,,,,,,2015,2014-15,div1,Tallahassee,tallahasseecommunitycollege,chadmabinik962,Chad Mabini
-Feb 10,home,South Georgia State,W,6-2,6,6,0,0,0,,,,0,,,,,,,,0,0,,,,,0,2015,2014-15,div1,Tallahassee,tallahasseecommunitycollege,chadmabinik962,Chad Mabini
-Feb 11,away,Santa Fe,L,14-4,14,14,1,0,0,,,,0,1,1,,,,,,0,0,,,,,2,2015,2014-15,div1,Tallahassee,tallahasseecommunitycollege,chadmabinik962,Chad Mabini
-Feb 13,home,Shelton State,W,8-4,8,8,,,,,,,,,,,,,,,,,,,,,,2015,2014-15,div1,Tallahassee,tallahasseecommunitycollege,chadmabinik962,Chad Mabini
-Feb 14,home,Shelton State,W,3-2,3,3,,,,,,,,,,,,,,,,,,,,,,2015,2014-15,div1,Tallahassee,tallahasseecommunitycollege,chadmabinik962,Chad Mabini
-Feb 15,home,Shelton State,W,9-0,9,9,0,0,0,,,,0,,,,,,,,0,0,,,,,0,2015,2014-15,div1,Tallahassee,tallahasseecommunitycollege,chadmabinik962,Chad Mabini
-Feb 17,away,South Georgia State,,,,,,,,,,,,,,,,,,,,,,,,,,2015,2014-15,div1,Tallahassee,tallahasseecommunitycollege,chadmabinik962,Chad Mabini
-Feb 18,home,Florida State Jacksonville,W,9-7,9,9,,,,,,,,,,,,,,,,,,,,,,2015,2014-15,div1,Tallahassee,tallahasseecommunitycollege,chadmabinik962,Chad Mabini
-Feb 21,away,State College of Florida,L,5-2,5,5,0,0,0,,,,0,,,,,,,,0,0,,,,,0,2015,2014-15,div1,Tallahassee,tallahasseecommunitycollege,chadmabinik962,Chad Mabini
-Feb 22,away,State College of Florida,L,13-9,13,13,,,,,,,,,,,,,,,,,,,,,,2015,2014-15,div1,Tallahassee,tallahasseecommunitycollege,chadmabinik962,Chad Mabini
-Feb 24,away,Abraham Baldwin,,,,,,,,,,,,,,,,,,,,,,,,,,2015,2014-15,div1,Tallahassee,tallahasseecommunitycollege,chadmabinik962,Chad Mabini
-Feb 25,home,Santa Fe,,,,,,,,,,,,,,,,,,,,,,,,,,2015,2014-15,div1,Tallahassee,tallahasseecommunitycollege,chadmabinik962,Chad Mabini
-Feb 27,home,Chattahoochee Valley,W,4-1,4,4,,,,,,,,,,,,,,,,,,,,,,2015,2014-15,div1,Tallahassee,tallahasseecommunitycollege,chadmabinik962,Chad Mabini
-Feb 28,home,Chattahoochee Valley,,,,,,,,,,,,,,,,,,,,,,,,,,2015,2014-15,div1,Tallahassee,tallahasseecommunitycollege,chadmabinik962,Chad Mabini
-Mar 1,home,Chattahoochee Valley,L,4-3,4,4,0,0,0,,,,0,,,,,,,,0,0,,,,,0,2015,2014-15,div1,Tallahassee,tallahasseecommunitycollege,chadmabinik962,Chad Mabini
-Mar 2,home,Grand Rapids,W,7-3,7,7,,,,,,,,,,,,,,,,,,,,,,2015,2014-15,div1,Tallahassee,tallahasseecommunitycollege,chadmabinik962,Chad Mabini
-Mar 2,home,Grand Rapids,W,16-2,16,16,,,,,,,,,,,,,,,,,,,,,,2015,2014-15,div1,Tallahassee,tallahasseecommunitycollege,chadmabinik962,Chad Mabini
-Mar 3,home,Grand Rapids,L,5-4,5,5,,,,,,,,,,,,,,,,,,,,,,2015,2014-15,div1,Tallahassee,tallahasseecommunitycollege,chadmabinik962,Chad Mabini
-Mar 3,home,Grand Rapids,W,8-5,8,8,4,2,2,,1,,2,,,,,,,,4,1,,,,,4,2015,2014-15,div1,Tallahassee,tallahasseecommunitycollege,chadmabinik962,Chad Mabini
-Mar 5,home,Thomas University JV,,,,,,,,,,,,,,,,,,,,,,,,,,2015,2014-15,div1,Tallahassee,tallahasseecommunitycollege,chadmabinik962,Chad Mabini
-Mar 5,home,Thomas University JV,,,,,,,,,,,,,,,,,,,,,,,,,,2015,2014-15,div1,Tallahassee,tallahasseecommunitycollege,chadmabinik962,Chad Mabini
-Mar 5,home,Thomas University JV,,,,,,,,,,,,,,,,,,,,,,,,,,2015,2014-15,div1,Tallahassee,tallahasseecommunitycollege,chadmabinik962,Chad Mabini
-Mar 5,home,Thomas University JV,,,,,,,,,,,,,,,,,,,,,,,,,,2015,2014-15,div1,Tallahassee,tallahasseecommunitycollege,chadmabinik962,Chad Mabini
-Mar 6,home,Abraham Baldwin,W,4-3,4,4,2,0,0,,,,0,,1,,,,,,0,0,,,,,2,2015,2014-15,div1,Tallahassee,tallahasseecommunitycollege,chadmabinik962,Chad Mabini
-Mar 7,home,Thomas University JV,W,4-1,4,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0,2015,2014-15,div1,Tallahassee,tallahasseecommunitycollege,chadmabinik962,Chad Mabini
-Mar 7,home,Thomas University JV,W,17-1,17,17,,,,,,,,,,,,,,,,,,,,,,2015,2014-15,div1,Tallahassee,tallahasseecommunitycollege,chadmabinik962,Chad Mabini
-Mar 8,away,Thomas University JV,W,11-1,11,11,,,,,,,,,,,,,,,,,,,,,,2015,2014-15,div1,Tallahassee,tallahasseecommunitycollege,chadmabinik962,Chad Mabini
-Mar 8,away,Thomas University JV,W,14-3,14,14,,,,,,,,,,,,,,,,,,,,,,2015,2014-15,div1,Tallahassee,tallahasseecommunitycollege,chadmabinik962,Chad Mabini
-Mar 14,away,Pensacola State,L,12-5,12,12,,,,,,,,,,,,,,,,,,,,,,2015,2014-15,div1,Tallahassee,tallahasseecommunitycollege,chadmabinik962,Chad Mabini
-Mar 15,home,Pensacola State,L,10-6,10,10,0,0,0,,,,0,,,,,,,,0,0,,,,,0,2015,2014-15,div1,Tallahassee,tallahasseecommunitycollege,chadmabinik962,Chad Mabini
-Mar 16,away,Pensacola State,W,8-0,8,8,4,2,2,1,,,0,1,1,,,,,,3,1,,,,,5,2015,2014-15,div1,Tallahassee,tallahasseecommunitycollege,chadmabinik962,Chad Mabini
-Mar 18,home,Black Hawk-Moline,W,9-2,9,9,3,0,0,,,,0,,1,,,1,,,0,0,,,,,4,2015,2014-15,div1,Tallahassee,tallahasseecommunitycollege,chadmabinik962,Chad Mabini
-Mar 18,home,Black Hawk-Moline,W,4-3,4,4,2,0,0,,,,0,1,,,,,,,0,0,,,,,3,2015,2014-15,div1,Tallahassee,tallahasseecommunitycollege,chadmabinik962,Chad Mabini
-Mar 20,home,East Georgia State,W,9-3,9,9,3,2,1,,,,0,2,,,,,,,1,0,,,,,5,2015,2014-15,div1,Tallahassee,tallahasseecommunitycollege,chadmabinik962,Chad Mabini
-Mar 21,home,East Georgia State,W,8-7,8,8,5,0,1,,,,1,1,1,,,,,,1,0,,,,,6,2015,2014-15,div1,Tallahassee,tallahasseecommunitycollege,chadmabinik962,Chad Mabini
-Mar 23,away,Northwest Florida State,W,3-2,3,3,4,0,0,,,,0,,,,,,,,0,0,,,,,4,2015,2014-15,div1,Tallahassee,tallahasseecommunitycollege,chadmabinik962,Chad Mabini
-Mar 25,home,Northwest Florida State,L,13-4,13,13,3,0,0,,,,0,,2,,,,,,0,0,,,,,3,2015,2014-15,div1,Tallahassee,tallahasseecommunitycollege,chadmabinik962,Chad Mabini
-Mar 27,away,Northwest Florida State,W,7-4,7,7,6,1,1,,,,0,,2,,,,,,1,0,,,,,6,2015,2014-15,div1,Tallahassee,tallahasseecommunitycollege,chadmabinik962,Chad Mabini
-Mar 28,home,Gulf Coast State,W,6-0,6,6,5,0,2,,,,0,,,,1,,,,2,0,,,,,5,2015,2014-15,div1,Tallahassee,tallahasseecommunitycollege,chadmabinik962,Chad Mabini
-Mar 30,away,Gulf Coast State,L,5-2,5,5,5,0,1,,,,0,,1,,,,,,1,0,,,,,5,2015,2014-15,div1,Tallahassee,tallahasseecommunitycollege,chadmabinik962,Chad Mabini
-Apr 1,home,Gulf Coast State,L,10-1,10,10,3,0,0,,,,0,,1,,,,,,0,0,,,,,3,2015,2014-15,div1,Tallahassee,tallahasseecommunitycollege,chadmabinik962,Chad Mabini
-Apr 3,home,Chipola,L,8-6,8,8,5,0,0,,,,0,,,1,,,,,0,0,,,,,5,2015,2014-15,div1,Tallahassee,tallahasseecommunitycollege,chadmabinik962,Chad Mabini
-Apr 4,away,Chipola,L,2-1,2,2,3,0,0,,,,0,1,1,,,,,,0,0,,,,,4,2015,2014-15,div1,Tallahassee,tallahasseecommunitycollege,chadmabinik962,Chad Mabini
-Apr 6,home,Chipola,L,10-7,10,10,5,4,3,1,,1,2,1,,,,,,,7,2,1,,,,6,2015,2014-15,div1,Tallahassee,tallahasseecommunitycollege,chadmabinik962,Chad Mabini
-Apr 8,home,Pensacola State,W,9-4,9,9,4,2,2,1,,,0,1,1,,,,,,3,1,,,,,5,2015,2014-15,div1,Tallahassee,tallahasseecommunitycollege,chadmabinik962,Chad Mabini
-Apr 10,away,Pensacola State,L,9-8,9,9,4,1,0,,,,0,1,,1,,1,,,0,0,,,,,6,2015,2014-15,div1,Tallahassee,tallahasseecommunitycollege,chadmabinik962,Chad Mabini
-Apr 18,away,Gulf Coast State,,,,,,,,,,,,,,,,,,,,,,,,,,2015,2014-15,div1,Tallahassee,tallahasseecommunitycollege,chadmabinik962,Chad Mabini
-Apr 20,home,vs. Gulf Coast State,L,6-2,6,6,3,1,1,1,,,0,1,,,,,,,2,1,,,,,4,2015,2014-15,div1,Tallahassee,tallahasseecommunitycollege,chadmabinik962,Chad Mabini
-Apr 21,home,Northwest Florida State,W,7-2,7,7,4,0,1,,,,2,1,1,,,,,,1,0,,,,,5,2015,2014-15,div1,Tallahassee,tallahasseecommunitycollege,chadmabinik962,Chad Mabini
-Apr 22,away,Chipola,L,10-6,10,10,2,0,0,,,,0,,2,,,,,,0,0,,,,,2,2015,2014-15,div1,Tallahassee,tallahasseecommunitycollege,chadmabinik962,Chad Mabini
-Apr 23,away,Northwest Florida State,L,11-1,11,11,3,0,0,,,,0,,,,,,,2,0,0,,,,,5,2015,2014-15,div1,Tallahassee,tallahasseecommunitycollege,chadmabinik962,Chad Mabini
-Apr 24,home,Chipola,L,10-3,10,10,0,0,0,,,,0,,,,,,,,0,0,,,,,0,2015,2014-15,div1,Tallahassee,tallahasseecommunitycollege,chadmabinik962,Chad Mabini
-Apr 25,away,Gulf Coast State,,,,,,,,,,,,,,,,,,,,,,,,,,2015,2014-15,div1,Tallahassee,tallahasseecommunitycollege,chadmabinik962,Chad Mabini
+date,location,opponent,result,score,team_score,opp_score,game_score_diff_x,game_win_loss_x,game_id_x,AB,R,H,2B,3B,HR,RBI,BB,K,SB,CS,game_score_diff_y,game_win_loss_y,game_id_y,HBP,SF,SH,TB,XBH,HDP,GO,FO,GO/FO,PA,season,njcaa_season,njcaa_division,team,team_id,player_id,player_name
+Feb 6,home,Gordon State,W,4-1,4,1,3.0,win,,,,,,,,,,,,,3.0,win,,,,,,,,,,,,2015,2014-15,div1,Tallahassee,tallahasseecommunitycollege,chadmabinik962,Chad Mabini
+Feb 7,home,Gordon State,W,10-2,10,2,8.0,win,,,,,,,,,,,,,8.0,win,,,,,,,,,,,,2015,2014-15,div1,Tallahassee,tallahasseecommunitycollege,chadmabinik962,Chad Mabini
+Feb 10,home,South Georgia State,W,6-2,6,2,4.0,win,20150210_zklj,0,0,0,,,,0,,,,,4.0,win,20150210_zklj,,,,0,0,,,,,0,2015,2014-15,div1,Tallahassee,tallahasseecommunitycollege,chadmabinik962,Chad Mabini
+Feb 13,home,Shelton State,W,8-4,8,4,4.0,win,,,,,,,,,,,,,4.0,win,,,,,,,,,,,,2015,2014-15,div1,Tallahassee,tallahasseecommunitycollege,chadmabinik962,Chad Mabini
+Feb 14,home,Shelton State,W,3-2,3,2,1.0,win,,,,,,,,,,,,,1.0,win,,,,,,,,,,,,2015,2014-15,div1,Tallahassee,tallahasseecommunitycollege,chadmabinik962,Chad Mabini
+Feb 15,home,Shelton State,W,9-0,9,0,9.0,win,20150215_8f6z,0,0,0,,,,0,,,,,9.0,win,20150215_8f6z,,,,0,0,,,,,0,2015,2014-15,div1,Tallahassee,tallahasseecommunitycollege,chadmabinik962,Chad Mabini
+Feb 18,home,Florida State Jacksonville,W,9-7,9,7,2.0,win,,,,,,,,,,,,,2.0,win,,,,,,,,,,,,2015,2014-15,div1,Tallahassee,tallahasseecommunitycollege,chadmabinik962,Chad Mabini
+Feb 25,home,Santa Fe,,,,,4.0,win,,,,,,,,,,,,,4.0,win,,,,,,,,,,,,2015,2014-15,div1,Tallahassee,tallahasseecommunitycollege,chadmabinik962,Chad Mabini
+Feb 27,home,Chattahoochee Valley,W,4-1,4,1,3.0,win,,,,,,,,,,,,,3.0,win,,,,,,,,,,,,2015,2014-15,div1,Tallahassee,tallahasseecommunitycollege,chadmabinik962,Chad Mabini
+Feb 28,home,Chattahoochee Valley,,,,,3.0,win,,,,,,,,,,,,,3.0,win,,,,,,,,,,,,2015,2014-15,div1,Tallahassee,tallahasseecommunitycollege,chadmabinik962,Chad Mabini
+Mar 1,home,Chattahoochee Valley,L,4-3,4,3,1.0,win,20150301_9jii,0,0,0,,,,0,,,,,1.0,win,20150301_9jii,,,,0,0,,,,,0,2015,2014-15,div1,Tallahassee,tallahasseecommunitycollege,chadmabinik962,Chad Mabini
+Mar 2,home,Grand Rapids,W,7-3,7,3,4.0,win,,,,,,,,,,,,,4.0,win,,,,,,,,,,,,2015,2014-15,div1,Tallahassee,tallahasseecommunitycollege,chadmabinik962,Chad Mabini
+Mar 2,home,Grand Rapids,W,16-2,16,2,14.0,win,,,,,,,,,,,,,14.0,win,,,,,,,,,,,,2015,2014-15,div1,Tallahassee,tallahasseecommunitycollege,chadmabinik962,Chad Mabini
+Mar 3,home,Grand Rapids,L,5-4,5,4,1.0,win,,,,,,,,,,,,,1.0,win,,,,,,,,,,,,2015,2014-15,div1,Tallahassee,tallahasseecommunitycollege,chadmabinik962,Chad Mabini
+Mar 3,home,Grand Rapids,W,8-5,8,5,3.0,win,20150303_3mk9,4,2,2,,1,,2,,,,,3.0,win,20150303_3mk9,,,,4,1,,,,,4,2015,2014-15,div1,Tallahassee,tallahasseecommunitycollege,chadmabinik962,Chad Mabini
+Mar 5,home,Thomas University JV,,,,,3.0,win,,,,,,,,,,,,,3.0,win,,,,,,,,,,,,2015,2014-15,div1,Tallahassee,tallahasseecommunitycollege,chadmabinik962,Chad Mabini
+Mar 5,home,Thomas University JV,,,,,3.0,win,,,,,,,,,,,,,3.0,win,,,,,,,,,,,,2015,2014-15,div1,Tallahassee,tallahasseecommunitycollege,chadmabinik962,Chad Mabini
+Mar 5,home,Thomas University JV,,,,,3.0,win,,,,,,,,,,,,,3.0,win,,,,,,,,,,,,2015,2014-15,div1,Tallahassee,tallahasseecommunitycollege,chadmabinik962,Chad Mabini
+Mar 5,home,Thomas University JV,,,,,3.0,win,,,,,,,,,,,,,3.0,win,,,,,,,,,,,,2015,2014-15,div1,Tallahassee,tallahasseecommunitycollege,chadmabinik962,Chad Mabini
+Mar 6,home,Abraham Baldwin,W,4-3,4,3,1.0,win,20150306_m02b,2,0,0,,,,0,,1,,,1.0,win,20150306_m02b,,,,0,0,,,,,2,2015,2014-15,div1,Tallahassee,tallahasseecommunitycollege,chadmabinik962,Chad Mabini
+Mar 7,home,Thomas University JV,W,4-1,4,1,3.0,win,20150307_gvmj,0,0,0,0,0,0,0,0,0,0,0,3.0,win,20150307_gvmj,0,0,0,0,0,0,0,0,,0,2015,2014-15,div1,Tallahassee,tallahasseecommunitycollege,chadmabinik962,Chad Mabini
+Mar 7,home,Thomas University JV,W,17-1,17,1,16.0,win,,,,,,,,,,,,,16.0,win,,,,,,,,,,,,2015,2014-15,div1,Tallahassee,tallahasseecommunitycollege,chadmabinik962,Chad Mabini
+Mar 15,home,Pensacola State,L,10-6,10,6,4.0,win,20150315_aovw,0,0,0,,,,0,,,,,4.0,win,20150315_aovw,,,,0,0,,,,,0,2015,2014-15,div1,Tallahassee,tallahasseecommunitycollege,chadmabinik962,Chad Mabini
+Mar 18,home,Black Hawk-Moline,W,9-2,9,2,7.0,win,20150318_d056,3,0,0,,,,0,,1,,,7.0,win,20150318_d056,1,,,0,0,,,,,4,2015,2014-15,div1,Tallahassee,tallahasseecommunitycollege,chadmabinik962,Chad Mabini
+Mar 18,home,Black Hawk-Moline,W,4-3,4,3,1.0,win,20150318_k5m0,2,0,0,,,,0,1,,,,1.0,win,20150318_k5m0,,,,0,0,,,,,3,2015,2014-15,div1,Tallahassee,tallahasseecommunitycollege,chadmabinik962,Chad Mabini
+Mar 20,home,East Georgia State,W,9-3,9,3,6.0,win,20150320_trs9,3,2,1,,,,0,2,,,,6.0,win,20150320_trs9,,,,1,0,,,,,5,2015,2014-15,div1,Tallahassee,tallahasseecommunitycollege,chadmabinik962,Chad Mabini
+Mar 21,home,East Georgia State,W,8-7,8,7,1.0,win,20150321_b8su,5,0,1,,,,1,1,1,,,1.0,win,20150321_b8su,,,,1,0,,,,,6,2015,2014-15,div1,Tallahassee,tallahasseecommunitycollege,chadmabinik962,Chad Mabini
+Mar 25,home,Northwest Florida State,L,13-4,13,4,9.0,win,20150325_v12o,3,0,0,,,,0,,2,,,9.0,win,20150325_v12o,,,,0,0,,,,,3,2015,2014-15,div1,Tallahassee,tallahasseecommunitycollege,chadmabinik962,Chad Mabini
+Mar 28,home,Gulf Coast State,W,6-0,6,0,6.0,win,20150328_xiqe,5,0,2,,,,0,,,,1,6.0,win,20150328_xiqe,,,,2,0,,,,,5,2015,2014-15,div1,Tallahassee,tallahasseecommunitycollege,chadmabinik962,Chad Mabini
+Apr 1,home,Gulf Coast State,L,10-1,10,1,9.0,win,20150401_oo1j,3,0,0,,,,0,,1,,,9.0,win,20150401_oo1j,,,,0,0,,,,,3,2015,2014-15,div1,Tallahassee,tallahasseecommunitycollege,chadmabinik962,Chad Mabini
+Apr 3,home,Chipola,L,8-6,8,6,2.0,win,20150403_lnl8,5,0,0,,,,0,,,1,,2.0,win,20150403_lnl8,,,,0,0,,,,,5,2015,2014-15,div1,Tallahassee,tallahasseecommunitycollege,chadmabinik962,Chad Mabini
+Apr 6,home,Chipola,L,10-7,10,7,3.0,win,20150406_ej97,5,4,3,1,,1,2,1,,,,3.0,win,20150406_ej97,,,,7,2,1,,,,6,2015,2014-15,div1,Tallahassee,tallahasseecommunitycollege,chadmabinik962,Chad Mabini
+Apr 8,home,Pensacola State,W,9-4,9,4,5.0,win,20150408_zjpg,4,2,2,1,,,0,1,1,,,5.0,win,20150408_zjpg,,,,3,1,,,,,5,2015,2014-15,div1,Tallahassee,tallahasseecommunitycollege,chadmabinik962,Chad Mabini
+Apr 21,home,Northwest Florida State,W,7-2,7,2,5.0,win,20150421_pf4u,4,0,1,,,,2,1,1,,,5.0,win,20150421_pf4u,,,,1,0,,,,,5,2015,2014-15,div1,Tallahassee,tallahasseecommunitycollege,chadmabinik962,Chad Mabini
+Apr 24,home,Chipola,L,10-3,10,3,7.0,win,20150424_esej,0,0,0,,,,0,,,,,7.0,win,20150424_esej,,,,0,0,,,,,0,2015,2014-15,div1,Tallahassee,tallahasseecommunitycollege,chadmabinik962,Chad Mabini

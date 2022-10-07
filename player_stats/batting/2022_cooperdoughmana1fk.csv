@@ -1,55 +1,29 @@
-date,location,opponent,result,score,team_score,opp_score,AB,R,H,2B,3B,HR,RBI,BB,K,SB,CS,HBP,SF,SH,TB,XBH,HDP,GO,FO,GO/FO,PA,season,njcaa_season,njcaa_division,team,team_id,player_id,player_name
-Feb 6,home,Calhoun,W,4-1,4,4,3,0,0,,,,0,,2,,,,,,0,0,,,,,3,2022,2021-22,div1,Lurleen B. Wallace,lurleenbwallacecommunitycollege,cooperdoughmana1fk,Cooper Doughman
-Feb 6,home,Calhoun,L,2-0,2,2,1,0,0,,,,0,2,1,,,,,,0,0,,,,,3,2022,2021-22,div1,Lurleen B. Wallace,lurleenbwallacecommunitycollege,cooperdoughmana1fk,Cooper Doughman
-Feb 12,home,Wallace-Dothan,W,6-4,6,6,4,0,1,,,,0,,1,,,,,,1,0,,,,,4,2022,2021-22,div1,Lurleen B. Wallace,lurleenbwallacecommunitycollege,cooperdoughmana1fk,Cooper Doughman
-Feb 12,home,Lawson State,W,9-3,9,9,3,1,2,,,,3,1,,,,,,,2,0,,,,,4,2022,2021-22,div1,Lurleen B. Wallace,lurleenbwallacecommunitycollege,cooperdoughmana1fk,Cooper Doughman
-Feb 15,away,Andrew,L,9-8,9,9,3,1,0,,,,0,1,1,,,1,,,0,0,,,,,5,2022,2021-22,div1,Lurleen B. Wallace,lurleenbwallacecommunitycollege,cooperdoughmana1fk,Cooper Doughman
-Feb 18,home,vs. Enterprise State,W,5-2,5,5,3,0,2,1,,,3,,,,,,1,,3,1,,,,,4,2022,2021-22,div1,Lurleen B. Wallace,lurleenbwallacecommunitycollege,cooperdoughmana1fk,Cooper Doughman
-Feb 18,home,vs. Snead State,W,7-6,7,7,3,1,1,,,,1,1,,,,,,,1,0,,,,,4,2022,2021-22,div1,Lurleen B. Wallace,lurleenbwallacecommunitycollege,cooperdoughmana1fk,Cooper Doughman
-Feb 19,away,Snead State,L,10-6,10,10,5,1,1,,,,0,,1,,,,,,1,0,,,,,5,2022,2021-22,div1,Lurleen B. Wallace,lurleenbwallacecommunitycollege,cooperdoughmana1fk,Cooper Doughman
-Feb 25,home,Snead State,L,6-1,6,6,3,1,1,1,,,0,,1,,,,,,2,1,,,,,3,2022,2021-22,div1,Lurleen B. Wallace,lurleenbwallacecommunitycollege,cooperdoughmana1fk,Cooper Doughman
-Feb 25,home,Snead State,L,12-0,12,12,2,0,1,,,,0,,,,,,,,1,0,,,,,2,2022,2021-22,div1,Lurleen B. Wallace,lurleenbwallacecommunitycollege,cooperdoughmana1fk,Cooper Doughman
-Feb 26,home,Snead State,L,8-4,8,8,2,0,2,1,,,3,,,,,2,,,3,1,,,,,4,2022,2021-22,div1,Lurleen B. Wallace,lurleenbwallacecommunitycollege,cooperdoughmana1fk,Cooper Doughman
-Feb 26,home,Snead State,L,4-3,4,4,3,0,1,,,,0,1,,,,,,,1,0,,,,,4,2022,2021-22,div1,Lurleen B. Wallace,lurleenbwallacecommunitycollege,cooperdoughmana1fk,Cooper Doughman
-Feb 28,away,Huntingdon College,W,16-6,16,16,4,2,3,1,,,4,,,,,,1,,4,1,,,,,5,2022,2021-22,div1,Lurleen B. Wallace,lurleenbwallacecommunitycollege,cooperdoughmana1fk,Cooper Doughman
-Mar 2,away,Central Alabama,L,4-0,4,4,3,0,1,,,,0,,,,,,,,1,0,,,,,3,2022,2021-22,div1,Lurleen B. Wallace,lurleenbwallacecommunitycollege,cooperdoughmana1fk,Cooper Doughman
-Mar 2,away,Central Alabama,L,3-2,3,3,4,0,0,,,,0,,2,,,,,,0,0,,,,,4,2022,2021-22,div1,Lurleen B. Wallace,lurleenbwallacecommunitycollege,cooperdoughmana1fk,Cooper Doughman
-Mar 4,home,Central Alabama,L,6-4,6,6,2,0,0,,,,1,1,1,,,,,,0,0,,,,,3,2022,2021-22,div1,Lurleen B. Wallace,lurleenbwallacecommunitycollege,cooperdoughmana1fk,Cooper Doughman
-Mar 4,home,Central Alabama,W,13-7,13,13,3,2,1,,,1,2,1,,,,,,,4,1,,,,,4,2022,2021-22,div1,Lurleen B. Wallace,lurleenbwallacecommunitycollege,cooperdoughmana1fk,Cooper Doughman
-Mar 10,away,Chattahoochee Valley,L,8-5,8,8,4,1,1,1,,,1,,1,,,,,,2,1,,,,,4,2022,2021-22,div1,Lurleen B. Wallace,lurleenbwallacecommunitycollege,cooperdoughmana1fk,Cooper Doughman
-Mar 10,away,Chattahoochee Valley,L,4-0,4,4,3,0,0,,,,0,,,,,,,,0,0,,,,,3,2022,2021-22,div1,Lurleen B. Wallace,lurleenbwallacecommunitycollege,cooperdoughmana1fk,Cooper Doughman
-Mar 13,home,Chattahoochee Valley,W,8-2,8,8,4,0,1,,,,1,,1,,,,,,1,0,,,,,4,2022,2021-22,div1,Lurleen B. Wallace,lurleenbwallacecommunitycollege,cooperdoughmana1fk,Cooper Doughman
-Mar 13,home,Chattahoochee Valley,L,4-1,4,4,4,0,1,,,,0,,1,,,,,,1,0,,,,,4,2022,2021-22,div1,Lurleen B. Wallace,lurleenbwallacecommunitycollege,cooperdoughmana1fk,Cooper Doughman
-Mar 16,home,Andrew,L,5-0,5,5,3,0,1,,,,0,,,,,,,,1,0,,,,,3,2022,2021-22,div1,Lurleen B. Wallace,lurleenbwallacecommunitycollege,cooperdoughmana1fk,Cooper Doughman
-Mar 16,home,Andrew,W,15-5,15,15,4,1,2,,,,0,,,,,,,,2,0,,,,,4,2022,2021-22,div1,Lurleen B. Wallace,lurleenbwallacecommunitycollege,cooperdoughmana1fk,Cooper Doughman
-Mar 24,away,Wallace-Dothan,L,9-4,9,9,3,1,1,1,,,0,1,1,,,,,,2,1,,,,,4,2022,2021-22,div1,Lurleen B. Wallace,lurleenbwallacecommunitycollege,cooperdoughmana1fk,Cooper Doughman
-Mar 24,away,Wallace-Dothan,L,3-0,3,3,3,0,0,,,,0,,,,,,,,0,0,,,,,3,2022,2021-22,div1,Lurleen B. Wallace,lurleenbwallacecommunitycollege,cooperdoughmana1fk,Cooper Doughman
-Mar 26,home,Wallace-Dothan,L,4-3,4,4,3,0,0,,,,0,,2,,,,,,0,0,,,,,3,2022,2021-22,div1,Lurleen B. Wallace,lurleenbwallacecommunitycollege,cooperdoughmana1fk,Cooper Doughman
-Mar 26,home,Wallace-Dothan,W,7-6,7,7,,,,,,,,,,,,,,,,,,,,,,2022,2021-22,div1,Lurleen B. Wallace,lurleenbwallacecommunitycollege,cooperdoughmana1fk,Cooper Doughman
-Mar 31,home,Coastal Alabama - Brewton,W,2-0,2,2,3,0,2,,,,0,,,,,,,,2,0,,,,,3,2022,2021-22,div1,Lurleen B. Wallace,lurleenbwallacecommunitycollege,cooperdoughmana1fk,Cooper Doughman
-Mar 31,home,Coastal Alabama - Brewton,W,6-2,6,6,3,1,0,,,,0,,,,,,,,0,0,,,,,3,2022,2021-22,div1,Lurleen B. Wallace,lurleenbwallacecommunitycollege,cooperdoughmana1fk,Cooper Doughman
-Apr 2,away,Coastal Alabama - Brewton,L,6-3,6,6,2,1,0,,,,0,1,,,,,,,0,0,,,,,3,2022,2021-22,div1,Lurleen B. Wallace,lurleenbwallacecommunitycollege,cooperdoughmana1fk,Cooper Doughman
-Apr 2,away,Coastal Alabama - Brewton,L,6-5,6,6,4,0,2,1,,,1,,,,,,,,3,1,,,,,4,2022,2021-22,div1,Lurleen B. Wallace,lurleenbwallacecommunitycollege,cooperdoughmana1fk,Cooper Doughman
-Apr 7,away,Coastal Alabama - Bay Minette,W,5-3,5,5,4,0,2,2,,,0,,,,,,,,4,2,,,,,4,2022,2021-22,div1,Lurleen B. Wallace,lurleenbwallacecommunitycollege,cooperdoughmana1fk,Cooper Doughman
-Apr 7,away,Coastal Alabama - Bay Minette,W,5-2,5,5,4,0,1,,,,2,,1,,,,,,1,0,,,,,4,2022,2021-22,div1,Lurleen B. Wallace,lurleenbwallacecommunitycollege,cooperdoughmana1fk,Cooper Doughman
-Apr 8,home,Coastal Alabama - Bay Minette,L,4-3,4,4,4,0,1,,,,0,,1,,,,,,1,0,,,,,4,2022,2021-22,div1,Lurleen B. Wallace,lurleenbwallacecommunitycollege,cooperdoughmana1fk,Cooper Doughman
-Apr 8,home,Coastal Alabama - Bay Minette,W,7-4,7,7,2,2,1,,,,0,1,,,,,,,1,0,,,,,3,2022,2021-22,div1,Lurleen B. Wallace,lurleenbwallacecommunitycollege,cooperdoughmana1fk,Cooper Doughman
-Apr 13,away,Wallace-Selma,W,9-8,9,9,3,1,0,,,,0,1,1,,,,,,0,0,,,,,4,2022,2021-22,div1,Lurleen B. Wallace,lurleenbwallacecommunitycollege,cooperdoughmana1fk,Cooper Doughman
-Apr 13,away,Wallace-Selma,W,7-1,7,7,3,1,1,,,,0,1,,,,,,,1,0,,,,,4,2022,2021-22,div1,Lurleen B. Wallace,lurleenbwallacecommunitycollege,cooperdoughmana1fk,Cooper Doughman
-Apr 15,home,Wallace-Selma,L,7-1,7,7,3,0,1,,,,0,,,,,,,,1,0,,,,,3,2022,2021-22,div1,Lurleen B. Wallace,lurleenbwallacecommunitycollege,cooperdoughmana1fk,Cooper Doughman
-Apr 15,home,Wallace-Selma,W,13-8,13,13,2,1,1,,,,0,1,,,,,,,1,0,,,,,3,2022,2021-22,div1,Lurleen B. Wallace,lurleenbwallacecommunitycollege,cooperdoughmana1fk,Cooper Doughman
-Apr 21,away,Bishop State,L,5-1,5,5,3,0,0,,,,0,,3,,,,,,0,0,,,,,3,2022,2021-22,div1,Lurleen B. Wallace,lurleenbwallacecommunitycollege,cooperdoughmana1fk,Cooper Doughman
-Apr 21,away,Bishop State,L,5-1,5,5,3,0,0,,,,0,,3,,,,,,0,0,,,,,2,2022,2021-22,div1,Lurleen B. Wallace,lurleenbwallacecommunitycollege,cooperdoughmana1fk,Cooper Doughman
-Apr 21,away,Bishop State,L,5-1,5,5,1,0,0,,,,0,1,1,,,,,,0,0,,,,,3,2022,2021-22,div1,Lurleen B. Wallace,lurleenbwallacecommunitycollege,cooperdoughmana1fk,Cooper Doughman
-Apr 21,away,Bishop State,L,5-1,5,5,1,0,0,,,,0,1,1,,,,,,0,0,,,,,2,2022,2021-22,div1,Lurleen B. Wallace,lurleenbwallacecommunitycollege,cooperdoughmana1fk,Cooper Doughman
-Apr 23,home,Bishop State,W,7-6,7,7,3,1,2,1,,1,2,,,,,,,,6,2,,,,,3,2022,2021-22,div1,Lurleen B. Wallace,lurleenbwallacecommunitycollege,cooperdoughmana1fk,Cooper Doughman
-Apr 23,home,Bishop State,W,3-1,3,3,3,1,1,,,1,3,,1,,,,,,4,1,,,,,3,2022,2021-22,div1,Lurleen B. Wallace,lurleenbwallacecommunitycollege,cooperdoughmana1fk,Cooper Doughman
-Apr 28,home,Enterprise State,W,8-7,8,8,2,1,1,1,,,2,,,,,1,,,2,1,,,,,3,2022,2021-22,div1,Lurleen B. Wallace,lurleenbwallacecommunitycollege,cooperdoughmana1fk,Cooper Doughman
-Apr 28,home,Enterprise State,W,2-1,2,2,3,0,0,,,,0,,1,,,,,,0,0,,,,,3,2022,2021-22,div1,Lurleen B. Wallace,lurleenbwallacecommunitycollege,cooperdoughmana1fk,Cooper Doughman
-Apr 30,away,Enterprise State,L,3-2,3,3,3,0,1,,,,0,,,,,,,,1,0,,,,,3,2022,2021-22,div1,Lurleen B. Wallace,lurleenbwallacecommunitycollege,cooperdoughmana1fk,Cooper Doughman
-Apr 30,away,Enterprise State,L,5-1,5,5,3,0,2,,,,0,,,,,,,,2,0,,,,,3,2022,2021-22,div1,Lurleen B. Wallace,lurleenbwallacecommunitycollege,cooperdoughmana1fk,Cooper Doughman
-May 5,away,Coastal Alabama - Monroeville,L,17-16,17,17,4,5,4,2,,2,4,1,,,,,,,12,4,,,,,5,2022,2021-22,div1,Lurleen B. Wallace,lurleenbwallacecommunitycollege,cooperdoughmana1fk,Cooper Doughman
-May 5,away,Coastal Alabama - Monroeville,W,13-2,13,13,2,1,0,,,,0,2,,,,,,,0,0,,,,,4,2022,2021-22,div1,Lurleen B. Wallace,lurleenbwallacecommunitycollege,cooperdoughmana1fk,Cooper Doughman
-May 7,home,Coastal Alabama - Monroeville,W,4-3,4,4,2,1,1,,,,0,1,,,,,,,1,0,,,,,3,2022,2021-22,div1,Lurleen B. Wallace,lurleenbwallacecommunitycollege,cooperdoughmana1fk,Cooper Doughman
-May 7,home,Coastal Alabama - Monroeville,W,5-1,5,5,4,0,0,,,,0,,2,,,,,,0,0,,,,,4,2022,2021-22,div1,Lurleen B. Wallace,lurleenbwallacecommunitycollege,cooperdoughmana1fk,Cooper Doughman
-May 12,home,vs. Lawson State,L,10-3,10,10,4,0,1,1,,,1,,,,,,,,2,1,,,,,4,2022,2021-22,div1,Lurleen B. Wallace,lurleenbwallacecommunitycollege,cooperdoughmana1fk,Cooper Doughman
+date,location,opponent,result,score,team_score,opp_score,game_score_diff_x,game_win_loss_x,game_id_x,AB,R,H,2B,3B,HR,RBI,BB,K,SB,CS,game_score_diff_y,game_win_loss_y,game_id_y,HBP,SF,SH,TB,XBH,HDP,GO,FO,GO/FO,PA,season,njcaa_season,njcaa_division,team,team_id,player_id,player_name
+Feb 6,home,Calhoun,W,4-1,4,1,3.0,win,20220206_0zjl,3,0,0,,,,0,,2,,,3.0,win,20220206_0zjl,,,,0,0,,,,,3,2022,2021-22,div1,Lurleen B. Wallace,lurleenbwallacecommunitycollege,cooperdoughmana1fk,Cooper Doughman
+Feb 6,home,Calhoun,L,2-0,2,0,2.0,win,20220206_6eks,1,0,0,,,,0,2,1,,,2.0,win,20220206_6eks,,,,0,0,,,,,3,2022,2021-22,div1,Lurleen B. Wallace,lurleenbwallacecommunitycollege,cooperdoughmana1fk,Cooper Doughman
+Feb 12,home,Wallace-Dothan,W,6-4,6,4,2.0,win,20220212_lvgx,4,0,1,,,,0,,1,,,2.0,win,20220212_lvgx,,,,1,0,,,,,4,2022,2021-22,div1,Lurleen B. Wallace,lurleenbwallacecommunitycollege,cooperdoughmana1fk,Cooper Doughman
+Feb 12,home,Lawson State,W,9-3,9,3,6.0,win,20220212_vhgb,3,1,2,,,,3,1,,,,6.0,win,20220212_vhgb,,,,2,0,,,,,4,2022,2021-22,div1,Lurleen B. Wallace,lurleenbwallacecommunitycollege,cooperdoughmana1fk,Cooper Doughman
+Feb 25,home,Snead State,L,6-1,6,1,5.0,win,20220225_qljg,3,1,1,1,,,0,,1,,,5.0,win,20220225_qljg,,,,2,1,,,,,3,2022,2021-22,div1,Lurleen B. Wallace,lurleenbwallacecommunitycollege,cooperdoughmana1fk,Cooper Doughman
+Feb 25,home,Snead State,L,12-0,12,0,12.0,win,20220225_4n4s,2,0,1,,,,0,,,,,12.0,win,20220225_4n4s,,,,1,0,,,,,2,2022,2021-22,div1,Lurleen B. Wallace,lurleenbwallacecommunitycollege,cooperdoughmana1fk,Cooper Doughman
+Feb 26,home,Snead State,L,8-4,8,4,4.0,win,20220226_kkdz,2,0,2,1,,,3,,,,,4.0,win,20220226_kkdz,2,,,3,1,,,,,4,2022,2021-22,div1,Lurleen B. Wallace,lurleenbwallacecommunitycollege,cooperdoughmana1fk,Cooper Doughman
+Feb 26,home,Snead State,L,4-3,4,3,1.0,win,20220226_f1eg,3,0,1,,,,0,1,,,,1.0,win,20220226_f1eg,,,,1,0,,,,,4,2022,2021-22,div1,Lurleen B. Wallace,lurleenbwallacecommunitycollege,cooperdoughmana1fk,Cooper Doughman
+Mar 4,home,Central Alabama,L,6-4,6,4,2.0,win,20220304_dy09,2,0,0,,,,1,1,1,,,2.0,win,20220304_dy09,,,,0,0,,,,,3,2022,2021-22,div1,Lurleen B. Wallace,lurleenbwallacecommunitycollege,cooperdoughmana1fk,Cooper Doughman
+Mar 4,home,Central Alabama,W,13-7,13,7,6.0,win,20220304_41ri,3,2,1,,,1,2,1,,,,6.0,win,20220304_41ri,,,,4,1,,,,,4,2022,2021-22,div1,Lurleen B. Wallace,lurleenbwallacecommunitycollege,cooperdoughmana1fk,Cooper Doughman
+Mar 13,home,Chattahoochee Valley,W,8-2,8,2,6.0,win,20220313_321a,4,0,1,,,,1,,1,,,6.0,win,20220313_321a,,,,1,0,,,,,4,2022,2021-22,div1,Lurleen B. Wallace,lurleenbwallacecommunitycollege,cooperdoughmana1fk,Cooper Doughman
+Mar 13,home,Chattahoochee Valley,L,4-1,4,1,3.0,win,20220313_ssko,4,0,1,,,,0,,1,,,3.0,win,20220313_ssko,,,,1,0,,,,,4,2022,2021-22,div1,Lurleen B. Wallace,lurleenbwallacecommunitycollege,cooperdoughmana1fk,Cooper Doughman
+Mar 16,home,Andrew,L,5-0,5,0,5.0,win,20220316_s96c,3,0,1,,,,0,,,,,5.0,win,20220316_s96c,,,,1,0,,,,,3,2022,2021-22,div1,Lurleen B. Wallace,lurleenbwallacecommunitycollege,cooperdoughmana1fk,Cooper Doughman
+Mar 16,home,Andrew,W,15-5,15,5,10.0,win,20220316_llgb,4,1,2,,,,0,,,,,10.0,win,20220316_llgb,,,,2,0,,,,,4,2022,2021-22,div1,Lurleen B. Wallace,lurleenbwallacecommunitycollege,cooperdoughmana1fk,Cooper Doughman
+Mar 26,home,Wallace-Dothan,L,4-3,4,3,1.0,win,20220326_rhp3,3,0,0,,,,0,,2,,,1.0,win,20220326_rhp3,,,,0,0,,,,,3,2022,2021-22,div1,Lurleen B. Wallace,lurleenbwallacecommunitycollege,cooperdoughmana1fk,Cooper Doughman
+Mar 26,home,Wallace-Dothan,W,7-6,7,6,1.0,win,,,,,,,,,,,,,1.0,win,,,,,,,,,,,,2022,2021-22,div1,Lurleen B. Wallace,lurleenbwallacecommunitycollege,cooperdoughmana1fk,Cooper Doughman
+Mar 31,home,Coastal Alabama - Brewton,W,2-0,2,0,2.0,win,20220331_0y4v,3,0,2,,,,0,,,,,2.0,win,20220331_0y4v,,,,2,0,,,,,3,2022,2021-22,div1,Lurleen B. Wallace,lurleenbwallacecommunitycollege,cooperdoughmana1fk,Cooper Doughman
+Mar 31,home,Coastal Alabama - Brewton,W,6-2,6,2,4.0,win,20220331_q332,3,1,0,,,,0,,,,,4.0,win,20220331_q332,,,,0,0,,,,,3,2022,2021-22,div1,Lurleen B. Wallace,lurleenbwallacecommunitycollege,cooperdoughmana1fk,Cooper Doughman
+Apr 8,home,Coastal Alabama - Bay Minette,L,4-3,4,3,1.0,win,20220408_ji0w,4,0,1,,,,0,,1,,,1.0,win,20220408_ji0w,,,,1,0,,,,,4,2022,2021-22,div1,Lurleen B. Wallace,lurleenbwallacecommunitycollege,cooperdoughmana1fk,Cooper Doughman
+Apr 8,home,Coastal Alabama - Bay Minette,W,7-4,7,4,3.0,win,20220408_ld6a,2,2,1,,,,0,1,,,,3.0,win,20220408_ld6a,,,,1,0,,,,,3,2022,2021-22,div1,Lurleen B. Wallace,lurleenbwallacecommunitycollege,cooperdoughmana1fk,Cooper Doughman
+Apr 15,home,Wallace-Selma,L,7-1,7,1,6.0,win,20220415_dlug,3,0,1,,,,0,,,,,6.0,win,20220415_dlug,,,,1,0,,,,,3,2022,2021-22,div1,Lurleen B. Wallace,lurleenbwallacecommunitycollege,cooperdoughmana1fk,Cooper Doughman
+Apr 15,home,Wallace-Selma,W,13-8,13,8,5.0,win,20220415_66cw,2,1,1,,,,0,1,,,,5.0,win,20220415_66cw,,,,1,0,,,,,3,2022,2021-22,div1,Lurleen B. Wallace,lurleenbwallacecommunitycollege,cooperdoughmana1fk,Cooper Doughman
+Apr 23,home,Bishop State,W,7-6,7,6,1.0,win,20220423_lsh7,3,1,2,1,,1,2,,,,,1.0,win,20220423_lsh7,,,,6,2,,,,,3,2022,2021-22,div1,Lurleen B. Wallace,lurleenbwallacecommunitycollege,cooperdoughmana1fk,Cooper Doughman
+Apr 23,home,Bishop State,W,3-1,3,1,2.0,win,20220423_xt4a,3,1,1,,,1,3,,1,,,2.0,win,20220423_xt4a,,,,4,1,,,,,3,2022,2021-22,div1,Lurleen B. Wallace,lurleenbwallacecommunitycollege,cooperdoughmana1fk,Cooper Doughman
+Apr 28,home,Enterprise State,W,8-7,8,7,1.0,win,20220428_wp3i,2,1,1,1,,,2,,,,,1.0,win,20220428_wp3i,1,,,2,1,,,,,3,2022,2021-22,div1,Lurleen B. Wallace,lurleenbwallacecommunitycollege,cooperdoughmana1fk,Cooper Doughman
+Apr 28,home,Enterprise State,W,2-1,2,1,1.0,win,20220428_3l75,3,0,0,,,,0,,1,,,1.0,win,20220428_3l75,,,,0,0,,,,,3,2022,2021-22,div1,Lurleen B. Wallace,lurleenbwallacecommunitycollege,cooperdoughmana1fk,Cooper Doughman
+May 7,home,Coastal Alabama - Monroeville,W,4-3,4,3,1.0,win,20220507_a55m,2,1,1,,,,0,1,,,,1.0,win,20220507_a55m,,,,1,0,,,,,3,2022,2021-22,div1,Lurleen B. Wallace,lurleenbwallacecommunitycollege,cooperdoughmana1fk,Cooper Doughman
+May 7,home,Coastal Alabama - Monroeville,W,5-1,5,1,4.0,win,20220507_l187,4,0,0,,,,0,,2,,,4.0,win,20220507_l187,,,,0,0,,,,,4,2022,2021-22,div1,Lurleen B. Wallace,lurleenbwallacecommunitycollege,cooperdoughmana1fk,Cooper Doughman

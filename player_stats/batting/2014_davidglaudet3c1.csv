@@ -1,55 +1,19 @@
-date,location,opponent,result,score,team_score,opp_score,AB,R,H,2B,3B,HR,RBI,BB,K,SB,CS,HBP,SF,SH,TB,XBH,HDP,GO,FO,GO/FO,PA,season,njcaa_season,njcaa_division,team,team_id,player_id,player_name
-Mar 7,home,Ulster County,,,,,,,,,,,,,,,,,,,,,,,,,,2014,2013-14,div1,Monroe College,monroecollege,davidglaudet3c1,David Glaude
-Mar 13,home,vs. Triton,W,4-3,4,4,3,0,1,1,,,1,,,,,,1,,2,1,,1,1,1.00,4,2014,2013-14,div1,Monroe College,monroecollege,davidglaudet3c1,David Glaude
-Mar 13,home,vs. Macomb,W,6-4,6,6,0,1,0,,,,0,1,,,,,,,0,0,,,,,1,2014,2013-14,div1,Monroe College,monroecollege,davidglaudet3c1,David Glaude
-Mar 14,home,vs. Triton,L,5-2,5,5,3,0,0,,,,0,,,,,1,,,0,0,,2,1,2.00,4,2014,2013-14,div1,Monroe College,monroecollege,davidglaudet3c1,David Glaude
-Mar 14,home,vs. Henry Ford,W,11-8,11,11,4,1,1,,,,0,,1,,,,,,1,0,,1,1,1.00,4,2014,2013-14,div1,Monroe College,monroecollege,davidglaudet3c1,David Glaude
-Mar 15,home,Lakeland,L,10-7,10,10,5,2,2,,,,1,,1,,,,,,2,0,,1,1,1.00,5,2014,2013-14,div1,Monroe College,monroecollege,davidglaudet3c1,David Glaude
-Mar 15,home,vs. Henry Ford,L,3-1,3,3,,,,,,,,,,,,,,,,,,,,,,2014,2013-14,div1,Monroe College,monroecollege,davidglaudet3c1,David Glaude
-Mar 16,home,vs. Mercer County,L,1-0,1,1,,,,,,,,,,,,,,,,,,,,,,2014,2013-14,div1,Monroe College,monroecollege,davidglaudet3c1,David Glaude
-Mar 19,home,Globe Tech,W,8-0,8,8,3,1,1,,,1,2,1,,,,,,,4,1,,2,,,4,2014,2013-14,div1,Monroe College,monroecollege,davidglaudet3c1,David Glaude
-Mar 21,away,Globe Tech,W,4-1,4,4,5,0,1,1,,,0,,,,,,,,2,1,,3,1,3.00,5,2014,2013-14,div1,Monroe College,monroecollege,davidglaudet3c1,David Glaude
-Mar 21,away,Globe Tech,L,7-5,7,7,1,1,0,,,,0,,,,,,,,0,0,,1,,,1,2014,2013-14,div1,Monroe College,monroecollege,davidglaudet3c1,David Glaude
-Mar 22,away,Globe Tech,W,11-3,11,11,4,0,1,,,,0,,1,,,,,,1,0,1,2,,,4,2014,2013-14,div1,Monroe College,monroecollege,davidglaudet3c1,David Glaude
-Mar 22,away,Globe Tech,L,1-0,1,1,0,0,0,,,,0,,,,1,,,,0,0,,,,,0,2014,2013-14,div1,Monroe College,monroecollege,davidglaudet3c1,David Glaude
-Mar 27,home,Lackawanna,,,,,,,,,,,,,,,,,,,,,,,,,,2014,2013-14,div1,Monroe College,monroecollege,davidglaudet3c1,David Glaude
-Mar 28,away,Harford,W,12-1,12,12,3,1,2,,,1,2,1,,,,,,,5,1,,,1,,4,2014,2013-14,div1,Monroe College,monroecollege,davidglaudet3c1,David Glaude
-Mar 28,away,Harford,L,5-4,5,5,3,0,1,,,,0,,,,,,,,1,0,,,2,,3,2014,2013-14,div1,Monroe College,monroecollege,davidglaudet3c1,David Glaude
-Mar 29,home,UConn Avery Point,L,2-0,2,2,3,0,0,,,,0,,1,,,,,,0,0,,1,1,1.00,3,2014,2013-14,div1,Monroe College,monroecollege,davidglaudet3c1,David Glaude
-Mar 29,home,UConn Avery Point,L,10-1,10,10,2,0,0,,,,0,,1,,,,,,0,0,,,1,,2,2014,2013-14,div1,Monroe College,monroecollege,davidglaudet3c1,David Glaude
-Mar 30,home,Brookdale,,,,,,,,,,,,,,,,,,,,,,,,,,2014,2013-14,div1,Monroe College,monroecollege,davidglaudet3c1,David Glaude
-Mar 30,home,Brookdale,,,,,,,,,,,,,,,,,,,,,,,,,,2014,2013-14,div1,Monroe College,monroecollege,davidglaudet3c1,David Glaude
-Mar 30,home,Brookdale,,,,,,,,,,,,,,,,,,,,,,,,,,2014,2013-14,div1,Monroe College,monroecollege,davidglaudet3c1,David Glaude
-Mar 30,home,Brookdale,,,,,,,,,,,,,,,,,,,,,,,,,,2014,2013-14,div1,Monroe College,monroecollege,davidglaudet3c1,David Glaude
-Apr 1,home,Lackawanna,W,4-3,4,4,3,1,1,1,,,2,,,,,,,,2,1,,1,1,1.00,3,2014,2013-14,div1,Monroe College,monroecollege,davidglaudet3c1,David Glaude
-Apr 1,home,Lackawanna,L,8-3,8,8,2,0,0,,,,0,1,,,,,,,0,0,,2,,,3,2014,2013-14,div1,Monroe College,monroecollege,davidglaudet3c1,David Glaude
-Apr 2,away,Nassau,W,11-10,11,11,,,,,,,,,,,,,,,,,,,,,,2014,2013-14,div1,Monroe College,monroecollege,davidglaudet3c1,David Glaude
-Apr 4,away,Hudson Valley,W,13-1,13,13,,,,,,,,,,,,,,,,,,,,,,2014,2013-14,div1,Monroe College,monroecollege,davidglaudet3c1,David Glaude
-Apr 4,away,Hudson Valley,W,4-1,4,4,2,0,0,,,,1,,,,,,1,,0,0,,1,2,0.50,3,2014,2013-14,div1,Monroe College,monroecollege,davidglaudet3c1,David Glaude
-Apr 8,away,Union,,,,,,,,,,,,,,,,,,,,,,,,,,2014,2013-14,div1,Monroe College,monroecollege,davidglaudet3c1,David Glaude
-Apr 9,away,Sullivan County,W,12-5,12,12,4,2,1,,,1,4,1,,,,,,,4,1,,,,,5,2014,2013-14,div1,Monroe College,monroecollege,davidglaudet3c1,David Glaude
-Apr 10,away,ASA New York,L,3-0,3,3,3,0,2,1,,,0,,1,,,,,,3,1,,,,,3,2014,2013-14,div1,Monroe College,monroecollege,davidglaudet3c1,David Glaude
-Apr 10,away,ASA New York,L,4-2,4,4,1,1,0,,,,0,2,1,,,,,,0,0,,,,,3,2014,2013-14,div1,Monroe College,monroecollege,davidglaudet3c1,David Glaude
-Apr 11,home,ASA New York,W,1-0,1,1,3,0,2,,,,0,1,,,,,,,2,0,,1,,,4,2014,2013-14,div1,Monroe College,monroecollege,davidglaudet3c1,David Glaude
-Apr 11,home,ASA New York,W,6-3,6,6,4,0,0,,,,0,,,,,,,,0,0,,1,3,0.33,4,2014,2013-14,div1,Monroe College,monroecollege,davidglaudet3c1,David Glaude
-Apr 14,away,ASA New York,L,5-4,5,5,3,0,1,1,,,0,1,,,,,,,2,1,,1,1,1.00,4,2014,2013-14,div1,Monroe College,monroecollege,davidglaudet3c1,David Glaude
-Apr 16,home,Sullivan County,W,2-0,2,2,1,1,1,1,,,0,,,,,,,,2,1,,,,,1,2014,2013-14,div1,Monroe College,monroecollege,davidglaudet3c1,David Glaude
-Apr 18,away,UConn Avery Point,L,5-1,5,5,3,0,0,,,,0,,,,,,,,0,0,,2,1,2.00,3,2014,2013-14,div1,Monroe College,monroecollege,davidglaudet3c1,David Glaude
-Apr 18,away,UConn Avery Point,L,12-1,12,12,2,0,0,,,,0,,,1,,,,,0,0,,,,,2,2014,2013-14,div1,Monroe College,monroecollege,davidglaudet3c1,David Glaude
-Apr 21,away,Ulster County,W,8-7,8,8,1,1,0,,,,0,1,,,,,,,0,0,,,1,,2,2014,2013-14,div1,Monroe College,monroecollege,davidglaudet3c1,David Glaude
-Apr 22,home,Westchester,W,8-6,8,8,3,2,2,,,,1,2,,1,,,,,2,0,,,,,5,2014,2013-14,div1,Monroe College,monroecollege,davidglaudet3c1,David Glaude
-Apr 24,away,Mercer County,W,7-5,7,7,4,0,1,,,,0,1,,,,,,,1,0,,,,,5,2014,2013-14,div1,Monroe College,monroecollege,davidglaudet3c1,David Glaude
-Apr 25,away,Garrett,,,,,,,,,,,,,,,,,,,,,,,,,,2014,2013-14,div1,Monroe College,monroecollege,davidglaudet3c1,David Glaude
-Apr 25,away,Garrett,,,,,,,,,,,,,,,,,,,,,,,,,,2014,2013-14,div1,Monroe College,monroecollege,davidglaudet3c1,David Glaude
-Apr 25,away,Garrett,,,,,,,,,,,,,,,,,,,,,,,,,,2014,2013-14,div1,Monroe College,monroecollege,davidglaudet3c1,David Glaude
-Apr 25,away,Garrett,,,,,,,,,,,,,,,,,,,,,,,,,,2014,2013-14,div1,Monroe College,monroecollege,davidglaudet3c1,David Glaude
-Apr 26,away,Potomac State,L,10-8,10,10,3,0,0,,,,0,1,,,,,,,0,0,,,,,4,2014,2013-14,div1,Monroe College,monroecollege,davidglaudet3c1,David Glaude
-Apr 26,away,Potomac State,L,15-5,15,15,1,1,0,,,,0,3,,,,,,,0,0,,,,,4,2014,2013-14,div1,Monroe College,monroecollege,davidglaudet3c1,David Glaude
-Apr 27,away,Hagerstown,L,4-3,4,4,4,0,2,,,,1,,1,,,,,,2,0,,,,,4,2014,2013-14,div1,Monroe College,monroecollege,davidglaudet3c1,David Glaude
-Apr 27,away,Hagerstown,L,4-3,4,4,4,0,2,,,,1,,1,,,,,,0,0,,,,,1,2014,2013-14,div1,Monroe College,monroecollege,davidglaudet3c1,David Glaude
-Apr 27,away,Hagerstown,L,4-3,4,4,1,0,0,,,,0,,1,,,,,,2,0,,,,,4,2014,2013-14,div1,Monroe College,monroecollege,davidglaudet3c1,David Glaude
-Apr 27,away,Hagerstown,L,4-3,4,4,1,0,0,,,,0,,1,,,,,,0,0,,,,,1,2014,2013-14,div1,Monroe College,monroecollege,davidglaudet3c1,David Glaude
-May 2,home,Globe Tech,W,4-1,4,4,4,0,0,,,,0,,1,,,,,,0,0,,,2,,4,2014,2013-14,div1,Monroe College,monroecollege,davidglaudet3c1,David Glaude
-May 2,home,Globe Tech,W,10-0,10,10,3,3,1,,,,0,1,,,,,,,1,0,,1,,,4,2014,2013-14,div1,Monroe College,monroecollege,davidglaudet3c1,David Glaude
-May 9,away,ASA New York,L,3-1,3,3,4,0,2,,,,1,,,,,,,,2,0,1,2,,,4,2014,2013-14,div1,Monroe College,monroecollege,davidglaudet3c1,David Glaude
-May 9,away,ASA New York,L,8-7,8,8,4,1,2,,,,1,1,,1,,,,,2,0,,2,,,5,2014,2013-14,div1,Monroe College,monroecollege,davidglaudet3c1,David Glaude
+date,location,opponent,result,score,team_score,opp_score,game_score_diff_x,game_win_loss_x,game_id_x,AB,R,H,2B,3B,HR,RBI,BB,K,SB,CS,game_score_diff_y,game_win_loss_y,game_id_y,HBP,SF,SH,TB,XBH,HDP,GO,FO,GO/FO,PA,season,njcaa_season,njcaa_division,team,team_id,player_id,player_name
+Mar 7,home,Ulster County,,,,,,,,,,,,,,,,,,,1.0,win,,,,,,,,,,,,2014,2013-14,div1,Monroe College,monroecollege,davidglaudet3c1,David Glaude
+Mar 15,home,Lakeland,L,10-7,10,7,3,win,20140315_a4sr,5,2,2,,,,1,,1,,,3.0,win,20140315_a4sr,,,,2,0,,1,1,1.00,5,2014,2013-14,div1,Monroe College,monroecollege,davidglaudet3c1,David Glaude
+Mar 19,home,Globe Tech,W,8-0,8,0,8,win,20140319_gb83,3,1,1,,,1,2,1,,,,8.0,win,20140319_gb83,,,,4,1,,2,,,4,2014,2013-14,div1,Monroe College,monroecollege,davidglaudet3c1,David Glaude
+Mar 27,home,Lackawanna,,,,,1,win,,,,,,,,,,,,,1.0,win,,,,,,,,,,,,2014,2013-14,div1,Monroe College,monroecollege,davidglaudet3c1,David Glaude
+Mar 29,home,UConn Avery Point,L,2-0,2,0,2,win,20140329_3y2g,3,0,0,,,,0,,1,,,2.0,win,20140329_3y2g,,,,0,0,,1,1,1.00,3,2014,2013-14,div1,Monroe College,monroecollege,davidglaudet3c1,David Glaude
+Mar 29,home,UConn Avery Point,L,10-1,10,1,9,win,20140329_ch4n,2,0,0,,,,0,,1,,,9.0,win,20140329_ch4n,,,,0,0,,,1,,2,2014,2013-14,div1,Monroe College,monroecollege,davidglaudet3c1,David Glaude
+Mar 30,home,Brookdale,,,,,9,win,,,,,,,,,,,,,9.0,win,,,,,,,,,,,,2014,2013-14,div1,Monroe College,monroecollege,davidglaudet3c1,David Glaude
+Mar 30,home,Brookdale,,,,,9,win,,,,,,,,,,,,,9.0,win,,,,,,,,,,,,2014,2013-14,div1,Monroe College,monroecollege,davidglaudet3c1,David Glaude
+Mar 30,home,Brookdale,,,,,9,win,,,,,,,,,,,,,9.0,win,,,,,,,,,,,,2014,2013-14,div1,Monroe College,monroecollege,davidglaudet3c1,David Glaude
+Mar 30,home,Brookdale,,,,,9,win,,,,,,,,,,,,,9.0,win,,,,,,,,,,,,2014,2013-14,div1,Monroe College,monroecollege,davidglaudet3c1,David Glaude
+Apr 1,home,Lackawanna,W,4-3,4,3,1,win,20140401_xj5w,3,1,1,1,,,2,,,,,1.0,win,20140401_xj5w,,,,2,1,,1,1,1.00,3,2014,2013-14,div1,Monroe College,monroecollege,davidglaudet3c1,David Glaude
+Apr 1,home,Lackawanna,L,8-3,8,3,5,win,20140401_72qc,2,0,0,,,,0,1,,,,5.0,win,20140401_72qc,,,,0,0,,2,,,3,2014,2013-14,div1,Monroe College,monroecollege,davidglaudet3c1,David Glaude
+Apr 11,home,ASA New York,W,1-0,1,0,1,win,20140411_e27y,3,0,2,,,,0,1,,,,1.0,win,20140411_e27y,,,,2,0,,1,,,4,2014,2013-14,div1,Monroe College,monroecollege,davidglaudet3c1,David Glaude
+Apr 11,home,ASA New York,W,6-3,6,3,3,win,20140411_1xir,4,0,0,,,,0,,,,,3.0,win,20140411_1xir,,,,0,0,,1,3,0.33,4,2014,2013-14,div1,Monroe College,monroecollege,davidglaudet3c1,David Glaude
+Apr 16,home,Sullivan County,W,2-0,2,0,2,win,20140416_rihw,1,1,1,1,,,0,,,,,2.0,win,20140416_rihw,,,,2,1,,,,,1,2014,2013-14,div1,Monroe College,monroecollege,davidglaudet3c1,David Glaude
+Apr 22,home,Westchester,W,8-6,8,6,2,win,20140422_m3hw,3,2,2,,,,1,2,,1,,2.0,win,20140422_m3hw,,,,2,0,,,,,5,2014,2013-14,div1,Monroe College,monroecollege,davidglaudet3c1,David Glaude
+May 2,home,Globe Tech,W,4-1,4,1,3,win,20140502_w95c,4,0,0,,,,0,,1,,,3.0,win,20140502_w95c,,,,0,0,,,2,,4,2014,2013-14,div1,Monroe College,monroecollege,davidglaudet3c1,David Glaude
+May 2,home,Globe Tech,W,10-0,10,0,10,win,20140502_pnk9,3,3,1,,,,0,1,,,,10.0,win,20140502_pnk9,,,,1,0,,1,,,4,2014,2013-14,div1,Monroe College,monroecollege,davidglaudet3c1,David Glaude

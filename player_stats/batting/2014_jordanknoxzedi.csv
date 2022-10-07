@@ -1,60 +1,33 @@
-date,location,opponent,result,score,team_score,opp_score,AB,R,H,2B,3B,HR,RBI,BB,K,SB,CS,HBP,SF,SH,TB,XBH,HDP,GO,FO,GO/FO,PA,season,njcaa_season,njcaa_division,team,team_id,player_id,player_name
-Feb 8,away,Odessa,L,8-4,8,8,3,0,1,,,,0,,1,,,1,,,1,0,,,,,4,2014,2013-14,div1,Butler,butlercommunitycollegeks,jordanknoxzedi,Jordan Knox
-Feb 8,away,Odessa,L,5-4,5,5,,,,,,,,,,,,,,,,,,,,,,2014,2013-14,div1,Butler,butlercommunitycollegeks,jordanknoxzedi,Jordan Knox
-Feb 9,away,Western Texas,L,10-4,10,10,,,,,,,,,,,,,,,,,,,,,,2014,2013-14,div1,Butler,butlercommunitycollegeks,jordanknoxzedi,Jordan Knox
-Feb 9,away,Western Texas,W,8-7,8,8,,,,,,,,,,,,,,,,,,,,,,2014,2013-14,div1,Butler,butlercommunitycollegeks,jordanknoxzedi,Jordan Knox
-Feb 18,home,Independence,W,15-7,15,15,4,1,1,,,,1,,,,,,,,1,0,,,,,4,2014,2013-14,div1,Butler,butlercommunitycollegeks,jordanknoxzedi,Jordan Knox
-Feb 20,away,Independence,W,9-6,9,9,,,,,,,,,,,,,,,,,,,,,,2014,2013-14,div1,Butler,butlercommunitycollegeks,jordanknoxzedi,Jordan Knox
-Feb 22,home,Southeast,L,3-2,3,3,3,0,0,,,,0,,1,,,,,,0,0,,2,,,3,2014,2013-14,div1,Butler,butlercommunitycollegeks,jordanknoxzedi,Jordan Knox
-Feb 22,home,Southeast,W,5-1,5,5,,,,,,,,,,,,,,,,,,,,,,2014,2013-14,div1,Butler,butlercommunitycollegeks,jordanknoxzedi,Jordan Knox
-Feb 23,home,Southeast,W,11-1,11,11,,,,,,,,,,,,,,,,,,,,,,2014,2013-14,div1,Butler,butlercommunitycollegeks,jordanknoxzedi,Jordan Knox
-Feb 24,home,Northern Oklahoma Enid,L,11-10,11,11,,,,,,,,,,,,,,,,,,,,,,2014,2013-14,div1,Butler,butlercommunitycollegeks,jordanknoxzedi,Jordan Knox
-Feb 24,home,Northern Oklahoma Enid,L,9-7,9,9,,,,,,,,,,,,,,,,,,,,,,2014,2013-14,div1,Butler,butlercommunitycollegeks,jordanknoxzedi,Jordan Knox
-Feb 28,away,Colby,L,6-5,6,6,,,,,,,,,,,,,,,,,,,,,,2014,2013-14,div1,Butler,butlercommunitycollegeks,jordanknoxzedi,Jordan Knox
-Feb 28,away,Colby,W,8-6,8,8,,,,,,,,,,,,,,,,,,,,,,2014,2013-14,div1,Butler,butlercommunitycollegeks,jordanknoxzedi,Jordan Knox
-Mar 6,home,Cloud County,W,5-3,5,5,,,,,,,,,,,,,,,,,,,,,,2014,2013-14,div1,Butler,butlercommunitycollegeks,jordanknoxzedi,Jordan Knox
-Mar 6,home,Cloud County,L,11-7,11,11,4,0,1,1,,,1,,,,,1,,,2,1,,2,,,5,2014,2013-14,div1,Butler,butlercommunitycollegeks,jordanknoxzedi,Jordan Knox
-Mar 9,home,Cloud County,W,8-6,8,8,3,0,0,,,,0,,1,1,,,,,0,0,,1,1,1.00,3,2014,2013-14,div1,Butler,butlercommunitycollegeks,jordanknoxzedi,Jordan Knox
-Mar 9,home,Cloud County,W,10-9,10,10,,,,,,,,,,,,,,,,,,,,,,2014,2013-14,div1,Butler,butlercommunitycollegeks,jordanknoxzedi,Jordan Knox
-Mar 12,away,Colby,W,8-2,8,8,,,,,,,,,,,,,,,,,,,,,,2014,2013-14,div1,Butler,butlercommunitycollegeks,jordanknoxzedi,Jordan Knox
-Mar 12,away,Colby,W,10-4,10,10,,,,,,,,,,,,,,,,,,,,,,2014,2013-14,div1,Butler,butlercommunitycollegeks,jordanknoxzedi,Jordan Knox
-Mar 13,home,Brown Mackie,W,12-0,12,12,3,3,2,,,2,3,,,,,1,,,8,2,,,1,,4,2014,2013-14,div1,Butler,butlercommunitycollegeks,jordanknoxzedi,Jordan Knox
-Mar 15,home,MCC-Longview,W,10-7,10,10,,,,,,,,,,,,,,,,,,,,,,2014,2013-14,div1,Butler,butlercommunitycollegeks,jordanknoxzedi,Jordan Knox
-Mar 15,home,MCC-Longview,W,8-4,8,8,3,0,0,,,,0,,,,,,,,0,0,,,,,3,2014,2013-14,div1,Butler,butlercommunitycollegeks,jordanknoxzedi,Jordan Knox
-Mar 19,home,Allen County,W,7-5,7,7,4,1,0,,,,0,,1,,,,,,0,0,1,2,,,4,2014,2013-14,div1,Butler,butlercommunitycollegeks,jordanknoxzedi,Jordan Knox
-Mar 22,away,Barton,W,7-3,7,7,,,,,,,,,,,,,,,,,,,,,,2014,2013-14,div1,Butler,butlercommunitycollegeks,jordanknoxzedi,Jordan Knox
-Mar 22,away,Barton,L,11-8,11,11,,,,,,,,,,,,,,,,,,,,,,2014,2013-14,div1,Butler,butlercommunitycollegeks,jordanknoxzedi,Jordan Knox
-Mar 23,away,Barton,W,6-5,6,6,,,,,,,,,,,,,,,,,,,,,,2014,2013-14,div1,Butler,butlercommunitycollegeks,jordanknoxzedi,Jordan Knox
-Mar 23,away,Barton,W,4-1,4,4,,,,,,,,,,,,,,,,,,,,,,2014,2013-14,div1,Butler,butlercommunitycollegeks,jordanknoxzedi,Jordan Knox
-Mar 25,away,Coffeyville,L,8-6,8,8,,,,,,,,,,,,,,,,,,,,,,2014,2013-14,div1,Butler,butlercommunitycollegeks,jordanknoxzedi,Jordan Knox
-Mar 29,home,Dodge City,W,5-1,5,5,,,,,,,,,,,,,,,,,,,,,,2014,2013-14,div1,Butler,butlercommunitycollegeks,jordanknoxzedi,Jordan Knox
-Mar 29,home,Dodge City,L,3-2,3,3,,,,,,,,,,,,,,,,,,,,,,2014,2013-14,div1,Butler,butlercommunitycollegeks,jordanknoxzedi,Jordan Knox
-Mar 30,home,Dodge City,L,9-5,9,9,,,,,,,,,,,,,,,,,,,,,,2014,2013-14,div1,Butler,butlercommunitycollegeks,jordanknoxzedi,Jordan Knox
-Mar 30,home,Dodge City,W,12-2,12,12,,,,,,,,,,,,,,,,,,,,,,2014,2013-14,div1,Butler,butlercommunitycollegeks,jordanknoxzedi,Jordan Knox
-Apr 1,away,Cowley,L,9-4,9,9,,,,,,,,,,,,,,,,,,,,,,2014,2013-14,div1,Butler,butlercommunitycollegeks,jordanknoxzedi,Jordan Knox
-Apr 5,away,Garden City,L,10-1,10,10,,,,,,,,,,,,,,,,,,,,,,2014,2013-14,div1,Butler,butlercommunitycollegeks,jordanknoxzedi,Jordan Knox
-Apr 5,away,Garden City,L,11-6,11,11,,,,,,,,,,,,,,,,,,,,,,2014,2013-14,div1,Butler,butlercommunitycollegeks,jordanknoxzedi,Jordan Knox
-Apr 6,away,Garden City,L,4-0,4,4,,,,,,,,,,,,,,,,,,,,,,2014,2013-14,div1,Butler,butlercommunitycollegeks,jordanknoxzedi,Jordan Knox
-Apr 6,away,Garden City,W,9-1,9,9,,,,,,,,,,,,,,,,,,,,,,2014,2013-14,div1,Butler,butlercommunitycollegeks,jordanknoxzedi,Jordan Knox
-Apr 8,home,vs. Seminole State (OK),W,5-3,5,5,,,,,,,,,,,,,,,,,,,,,,2014,2013-14,div1,Butler,butlercommunitycollegeks,jordanknoxzedi,Jordan Knox
-Apr 9,home,Central Christian JV,W,19-1,19,19,,,,,,,,,,,,,,,,,,,,,,2014,2013-14,div1,Butler,butlercommunitycollegeks,jordanknoxzedi,Jordan Knox
-Apr 11,home,Hutchinson,L,6-0,6,6,,,,,,,,,,,,,,,,,,,,,,2014,2013-14,div1,Butler,butlercommunitycollegeks,jordanknoxzedi,Jordan Knox
-Apr 12,home,Hutchinson,W,8-7,8,8,,,,,,,,,,,,,,,,,,,,,,2014,2013-14,div1,Butler,butlercommunitycollegeks,jordanknoxzedi,Jordan Knox
-Apr 12,home,Hutchinson,W,10-5,10,10,,,,,,,,,,,,,,,,,,,,,,2014,2013-14,div1,Butler,butlercommunitycollegeks,jordanknoxzedi,Jordan Knox
-Apr 13,home,Hutchinson,W,15-14,15,15,,,,,,,,,,,,,,,,,,,,,,2014,2013-14,div1,Butler,butlercommunitycollegeks,jordanknoxzedi,Jordan Knox
-Apr 16,home,Tabor College JV,W,12-3,12,12,,,,,,,,,,,,,,,,,,,,,,2014,2013-14,div1,Butler,butlercommunitycollegeks,jordanknoxzedi,Jordan Knox
-Apr 16,home,Tabor College JV,W,14-4,14,14,,,,,,,,,,,,,,,,,,,,,,2014,2013-14,div1,Butler,butlercommunitycollegeks,jordanknoxzedi,Jordan Knox
-Apr 18,away,Pratt,W,2-1,2,2,,,,,,,,,,,,,,,,,,,,,,2014,2013-14,div1,Butler,butlercommunitycollegeks,jordanknoxzedi,Jordan Knox
-Apr 18,away,Pratt,L,7-1,7,7,,,,,,,,,,,,,,,,,,,,,,2014,2013-14,div1,Butler,butlercommunitycollegeks,jordanknoxzedi,Jordan Knox
-Apr 19,away,Pratt,W,6-4,6,6,,,,,,,,,,,,,,,,,,,,,,2014,2013-14,div1,Butler,butlercommunitycollegeks,jordanknoxzedi,Jordan Knox
-Apr 19,away,Pratt,L,10-3,10,10,,,,,,,,,,,,,,,,,,,,,,2014,2013-14,div1,Butler,butlercommunitycollegeks,jordanknoxzedi,Jordan Knox
-Apr 22,home,Cowley,W,5-4,5,5,,,,,,,,,,,,,,,,,,,,,,2014,2013-14,div1,Butler,butlercommunitycollegeks,jordanknoxzedi,Jordan Knox
-Apr 23,away,Brown Mackie,L,12-5,12,12,,,,,,,,,,,,,,,,,,,,,,2014,2013-14,div1,Butler,butlercommunitycollegeks,jordanknoxzedi,Jordan Knox
-Apr 26,home,Seward County,W,7-1,7,7,,,,,,,,,,,,,,,,,,,,,,2014,2013-14,div1,Butler,butlercommunitycollegeks,jordanknoxzedi,Jordan Knox
-Apr 26,home,Seward County,L,17-7,17,17,,,,,,,,,,,,,,,,,,,,,,2014,2013-14,div1,Butler,butlercommunitycollegeks,jordanknoxzedi,Jordan Knox
-Apr 27,home,Seward County,W,6-5,6,6,,,,,,,,,,,,,,,,,,,,,,2014,2013-14,div1,Butler,butlercommunitycollegeks,jordanknoxzedi,Jordan Knox
-Apr 27,home,Seward County,W,17-7,17,17,,,,,,,,,,,,,,,,,,,,,,2014,2013-14,div1,Butler,butlercommunitycollegeks,jordanknoxzedi,Jordan Knox
-May 3,home,Fort Scott,W,12-1,12,12,,,,,,,,,,,,,,,,,,,,,,2014,2013-14,div1,Butler,butlercommunitycollegeks,jordanknoxzedi,Jordan Knox
-May 3,home,Fort Scott,W,7-6,7,7,,,,,,,,,,,,,,,,,,,,,,2014,2013-14,div1,Butler,butlercommunitycollegeks,jordanknoxzedi,Jordan Knox
-May 9,home,vs. Cowley,L,16-5,16,16,,,,,,,,,,,,,,,,,,,,,,2014,2013-14,div1,Butler,butlercommunitycollegeks,jordanknoxzedi,Jordan Knox
-May 10,home,vs. Seward County,L,8-7,8,8,,,,,,,,,,,,,,,,,,,,,,2014,2013-14,div1,Butler,butlercommunitycollegeks,jordanknoxzedi,Jordan Knox
+date,location,opponent,result,score,team_score,opp_score,game_score_diff_x,game_win_loss_x,game_id_x,AB,R,H,2B,3B,HR,RBI,BB,K,SB,CS,game_score_diff_y,game_win_loss_y,game_id_y,HBP,SF,SH,TB,XBH,HDP,GO,FO,GO/FO,PA,season,njcaa_season,njcaa_division,team,team_id,player_id,player_name
+Feb 18,home,Independence,W,15-7,15,7,8.0,win,20140218_6fll,4,1,1,,,,1,,,,,8.0,win,20140218_6fll,,,,1,0,,,,,4,2014,2013-14,div1,Butler,butlercommunitycollegeks,jordanknoxzedi,Jordan Knox
+Feb 22,home,Southeast,L,3-2,3,2,1.0,win,20140222_e2p8,3,0,0,,,,0,,1,,,1.0,win,20140222_e2p8,,,,0,0,,2,,,3,2014,2013-14,div1,Butler,butlercommunitycollegeks,jordanknoxzedi,Jordan Knox
+Feb 22,home,Southeast,W,5-1,5,1,4.0,win,,,,,,,,,,,,,4.0,win,,,,,,,,,,,,2014,2013-14,div1,Butler,butlercommunitycollegeks,jordanknoxzedi,Jordan Knox
+Feb 23,home,Southeast,W,11-1,11,1,10.0,win,,,,,,,,,,,,,10.0,win,,,,,,,,,,,,2014,2013-14,div1,Butler,butlercommunitycollegeks,jordanknoxzedi,Jordan Knox
+Feb 24,home,Northern Oklahoma Enid,L,11-10,11,10,1.0,win,,,,,,,,,,,,,1.0,win,,,,,,,,,,,,2014,2013-14,div1,Butler,butlercommunitycollegeks,jordanknoxzedi,Jordan Knox
+Feb 24,home,Northern Oklahoma Enid,L,9-7,9,7,2.0,win,,,,,,,,,,,,,2.0,win,,,,,,,,,,,,2014,2013-14,div1,Butler,butlercommunitycollegeks,jordanknoxzedi,Jordan Knox
+Mar 6,home,Cloud County,W,5-3,5,3,2.0,win,,,,,,,,,,,,,2.0,win,,,,,,,,,,,,2014,2013-14,div1,Butler,butlercommunitycollegeks,jordanknoxzedi,Jordan Knox
+Mar 6,home,Cloud County,L,11-7,11,7,4.0,win,20140306_95cj,4,0,1,1,,,1,,,,,4.0,win,20140306_95cj,1,,,2,1,,2,,,5,2014,2013-14,div1,Butler,butlercommunitycollegeks,jordanknoxzedi,Jordan Knox
+Mar 9,home,Cloud County,W,8-6,8,6,2.0,win,20140309_u7zo,3,0,0,,,,0,,1,1,,2.0,win,20140309_u7zo,,,,0,0,,1,1,1.00,3,2014,2013-14,div1,Butler,butlercommunitycollegeks,jordanknoxzedi,Jordan Knox
+Mar 9,home,Cloud County,W,10-9,10,9,1.0,win,,,,,,,,,,,,,1.0,win,,,,,,,,,,,,2014,2013-14,div1,Butler,butlercommunitycollegeks,jordanknoxzedi,Jordan Knox
+Mar 13,home,Brown Mackie,W,12-0,12,0,12.0,win,20140313_el3q,3,3,2,,,2,3,,,,,12.0,win,20140313_el3q,1,,,8,2,,,1,,4,2014,2013-14,div1,Butler,butlercommunitycollegeks,jordanknoxzedi,Jordan Knox
+Mar 15,home,MCC-Longview,W,10-7,10,7,3.0,win,,,,,,,,,,,,,3.0,win,,,,,,,,,,,,2014,2013-14,div1,Butler,butlercommunitycollegeks,jordanknoxzedi,Jordan Knox
+Mar 15,home,MCC-Longview,W,8-4,8,4,4.0,win,20140315_tpf4,3,0,0,,,,0,,,,,4.0,win,20140315_tpf4,,,,0,0,,,,,3,2014,2013-14,div1,Butler,butlercommunitycollegeks,jordanknoxzedi,Jordan Knox
+Mar 19,home,Allen County,W,7-5,7,5,2.0,win,20140319_03r4,4,1,0,,,,0,,1,,,2.0,win,20140319_03r4,,,,0,0,1,2,,,4,2014,2013-14,div1,Butler,butlercommunitycollegeks,jordanknoxzedi,Jordan Knox
+Mar 29,home,Dodge City,W,5-1,5,1,4.0,win,,,,,,,,,,,,,4.0,win,,,,,,,,,,,,2014,2013-14,div1,Butler,butlercommunitycollegeks,jordanknoxzedi,Jordan Knox
+Mar 29,home,Dodge City,L,3-2,3,2,1.0,win,,,,,,,,,,,,,1.0,win,,,,,,,,,,,,2014,2013-14,div1,Butler,butlercommunitycollegeks,jordanknoxzedi,Jordan Knox
+Mar 30,home,Dodge City,L,9-5,9,5,4.0,win,,,,,,,,,,,,,4.0,win,,,,,,,,,,,,2014,2013-14,div1,Butler,butlercommunitycollegeks,jordanknoxzedi,Jordan Knox
+Mar 30,home,Dodge City,W,12-2,12,2,10.0,win,,,,,,,,,,,,,10.0,win,,,,,,,,,,,,2014,2013-14,div1,Butler,butlercommunitycollegeks,jordanknoxzedi,Jordan Knox
+Apr 9,home,Central Christian JV,W,19-1,19,1,18.0,win,,,,,,,,,,,,,18.0,win,,,,,,,,,,,,2014,2013-14,div1,Butler,butlercommunitycollegeks,jordanknoxzedi,Jordan Knox
+Apr 11,home,Hutchinson,L,6-0,6,0,6.0,win,,,,,,,,,,,,,6.0,win,,,,,,,,,,,,2014,2013-14,div1,Butler,butlercommunitycollegeks,jordanknoxzedi,Jordan Knox
+Apr 12,home,Hutchinson,W,8-7,8,7,1.0,win,,,,,,,,,,,,,1.0,win,,,,,,,,,,,,2014,2013-14,div1,Butler,butlercommunitycollegeks,jordanknoxzedi,Jordan Knox
+Apr 12,home,Hutchinson,W,10-5,10,5,5.0,win,,,,,,,,,,,,,5.0,win,,,,,,,,,,,,2014,2013-14,div1,Butler,butlercommunitycollegeks,jordanknoxzedi,Jordan Knox
+Apr 13,home,Hutchinson,W,15-14,15,14,1.0,win,,,,,,,,,,,,,1.0,win,,,,,,,,,,,,2014,2013-14,div1,Butler,butlercommunitycollegeks,jordanknoxzedi,Jordan Knox
+Apr 16,home,Tabor College JV,W,12-3,12,3,9.0,win,,,,,,,,,,,,,9.0,win,,,,,,,,,,,,2014,2013-14,div1,Butler,butlercommunitycollegeks,jordanknoxzedi,Jordan Knox
+Apr 16,home,Tabor College JV,W,14-4,14,4,10.0,win,,,,,,,,,,,,,10.0,win,,,,,,,,,,,,2014,2013-14,div1,Butler,butlercommunitycollegeks,jordanknoxzedi,Jordan Knox
+Apr 22,home,Cowley,W,5-4,5,4,1.0,win,,,,,,,,,,,,,1.0,win,,,,,,,,,,,,2014,2013-14,div1,Butler,butlercommunitycollegeks,jordanknoxzedi,Jordan Knox
+Apr 26,home,Seward County,W,7-1,7,1,6.0,win,,,,,,,,,,,,,6.0,win,,,,,,,,,,,,2014,2013-14,div1,Butler,butlercommunitycollegeks,jordanknoxzedi,Jordan Knox
+Apr 26,home,Seward County,L,17-7,17,7,10.0,win,,,,,,,,,,,,,10.0,win,,,,,,,,,,,,2014,2013-14,div1,Butler,butlercommunitycollegeks,jordanknoxzedi,Jordan Knox
+Apr 27,home,Seward County,W,6-5,6,5,1.0,win,,,,,,,,,,,,,1.0,win,,,,,,,,,,,,2014,2013-14,div1,Butler,butlercommunitycollegeks,jordanknoxzedi,Jordan Knox
+Apr 27,home,Seward County,W,17-7,17,7,10.0,win,,,,,,,,,,,,,10.0,win,,,,,,,,,,,,2014,2013-14,div1,Butler,butlercommunitycollegeks,jordanknoxzedi,Jordan Knox
+May 3,home,Fort Scott,W,12-1,12,1,11.0,win,,,,,,,,,,,,,11.0,win,,,,,,,,,,,,2014,2013-14,div1,Butler,butlercommunitycollegeks,jordanknoxzedi,Jordan Knox
+May 3,home,Fort Scott,W,7-6,7,6,1.0,win,,,,,,,,,,,,,1.0,win,,,,,,,,,,,,2014,2013-14,div1,Butler,butlercommunitycollegeks,jordanknoxzedi,Jordan Knox

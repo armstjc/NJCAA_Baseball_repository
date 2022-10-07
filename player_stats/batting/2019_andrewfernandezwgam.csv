@@ -1,49 +1,22 @@
-date,location,opponent,result,score,team_score,opp_score,AB,R,H,2B,3B,HR,RBI,BB,K,SB,CS,HBP,SF,SH,TB,XBH,HDP,GO,FO,GO/FO,PA,season,njcaa_season,njcaa_division,team,team_id,player_id,player_name
-Jan 26,home,Polk State,,,,,,,,,,,,,,,,,,,,,,,,,,2019,2018-19,div1,Broward,browardcollege,andrewfernandezwgam,Andrew Fernandez
-Jan 30,away,Polk State,L,3-1,3,3,4,0,0,,,,0,,1,,,,,,0,0,,,,,4,2019,2018-19,div1,Broward,browardcollege,andrewfernandezwgam,Andrew Fernandez
-Jan 31,home,State College of Florida,L,1-0,1,1,2,0,1,1,,,0,1,1,,,,,,2,1,,,,,3,2019,2018-19,div1,Broward,browardcollege,andrewfernandezwgam,Andrew Fernandez
-Feb 2,home,ASA Miami,L,4-0,4,4,3,0,0,,,,0,,2,,,,,,0,0,,,,,3,2019,2018-19,div1,Broward,browardcollege,andrewfernandezwgam,Andrew Fernandez
-Feb 2,home,ASA Miami,,,,,,,,,,,,,,,,,,,,,,,,,,2019,2018-19,div1,Broward,browardcollege,andrewfernandezwgam,Andrew Fernandez
-Feb 7,away,State College of Florida,L,10-1,10,10,,,,,,,,,,,,,,,,,,,,,,2019,2018-19,div1,Broward,browardcollege,andrewfernandezwgam,Andrew Fernandez
-Feb 8,home,vs. Gulf Coast State,L,6-0,6,6,4,0,0,,,,0,,2,,,,,,0,0,,,,,4,2019,2018-19,div1,Broward,browardcollege,andrewfernandezwgam,Andrew Fernandez
-Feb 8,away,St. Johns River State,L,7-1,7,7,4,0,0,,,,0,,1,,,,,,0,0,,,,,4,2019,2018-19,div1,Broward,browardcollege,andrewfernandezwgam,Andrew Fernandez
-Feb 9,home,vs. Florence-Darlington Tech,L,13-7,13,13,5,0,0,,,,0,,1,,,,,,0,0,,,,,5,2019,2018-19,div1,Broward,browardcollege,andrewfernandezwgam,Andrew Fernandez
-Feb 16,away,Hillsborough,W,4-2,4,4,3,0,2,,,,1,,,,,,1,,2,0,,,,,4,2019,2018-19,div1,Broward,browardcollege,andrewfernandezwgam,Andrew Fernandez
-Feb 17,away,Hillsborough,W,7-0,7,7,3,1,2,,,,1,,,,,1,1,,2,0,,,,,5,2019,2018-19,div1,Broward,browardcollege,andrewfernandezwgam,Andrew Fernandez
-Feb 20,home,Indian River State,W,12-6,12,12,5,1,1,,,,2,,,,,,,,1,0,,,,,5,2019,2018-19,div1,Broward,browardcollege,andrewfernandezwgam,Andrew Fernandez
-Feb 21,away,Indian River State,L,10-8,10,10,4,1,0,,,,0,,1,,,1,,,0,0,,,,,5,2019,2018-19,div1,Broward,browardcollege,andrewfernandezwgam,Andrew Fernandez
-Feb 23,home,Indian River State,L,9-6,9,9,5,1,2,2,,,2,,1,,,,,,4,2,,,,,5,2019,2018-19,div1,Broward,browardcollege,andrewfernandezwgam,Andrew Fernandez
-Mar 1,away,Palm Beach State,L,15-4,15,15,1,0,0,,,,0,1,,,,,,,0,0,,,,,2,2019,2018-19,div1,Broward,browardcollege,andrewfernandezwgam,Andrew Fernandez
-Mar 2,home,Palm Beach State,L,2-1,2,2,4,0,0,,,,0,1,1,,,,,,0,0,,,,,5,2019,2018-19,div1,Broward,browardcollege,andrewfernandezwgam,Andrew Fernandez
-Mar 3,away,Palm Beach State,W,7-4,7,7,4,1,1,,,,0,1,1,1,,,,,1,0,,,,,5,2019,2018-19,div1,Broward,browardcollege,andrewfernandezwgam,Andrew Fernandez
-Mar 6,away,Miami Dade,L,6-2,6,6,2,0,0,,,,0,1,1,,,1,,,0,0,,,,,4,2019,2018-19,div1,Broward,browardcollege,andrewfernandezwgam,Andrew Fernandez
-Mar 8,home,Miami Dade,L,7-2,7,7,4,0,0,,,,0,,1,,,,,,0,0,,,,,4,2019,2018-19,div1,Broward,browardcollege,andrewfernandezwgam,Andrew Fernandez
-Mar 9,away,Miami Dade,L,5-2,5,5,2,0,0,,,,0,1,1,,,,,,0,0,,,,,3,2019,2018-19,div1,Broward,browardcollege,andrewfernandezwgam,Andrew Fernandez
-Mar 11,home,Keiser University,W,12-7,12,12,,,,,,,,,,,,,,,,,,,,,,2019,2018-19,div1,Broward,browardcollege,andrewfernandezwgam,Andrew Fernandez
-Mar 13,home,ASA Miami,W,14-3,14,14,3,2,2,1,,,2,,1,,,,1,,3,1,,,,,4,2019,2018-19,div1,Broward,browardcollege,andrewfernandezwgam,Andrew Fernandez
-Mar 15,home,Pasco-Hernando State,W,3-0,3,3,,,,,,,,,,,,,,,,,,,,,,2019,2018-19,div1,Broward,browardcollege,andrewfernandezwgam,Andrew Fernandez
-Mar 16,home,Pasco-Hernando State,L,12-7,12,12,5,0,1,1,,,2,,1,,,,,,2,1,,,,,5,2019,2018-19,div1,Broward,browardcollege,andrewfernandezwgam,Andrew Fernandez
-Mar 18,home,ST Thomas University,W,11-10,11,11,4,1,1,,,,0,,1,,,,,,1,0,,,,,4,2019,2018-19,div1,Broward,browardcollege,andrewfernandezwgam,Andrew Fernandez
-Mar 20,away,Eastern Florida State,W,1-0,1,1,3,0,0,,,,0,1,1,,,,,,0,0,,,,,4,2019,2018-19,div1,Broward,browardcollege,andrewfernandezwgam,Andrew Fernandez
-Mar 22,home,Eastern Florida State,L,5-2,5,5,3,0,1,,,,0,1,,,,,,,1,0,,,,,4,2019,2018-19,div1,Broward,browardcollege,andrewfernandezwgam,Andrew Fernandez
-Mar 23,home,Eastern Florida State,L,13-0,13,13,1,0,0,,,,0,2,1,,,,,,0,0,,,,,3,2019,2018-19,div1,Broward,browardcollege,andrewfernandezwgam,Andrew Fernandez
-Mar 27,away,Indian River State,W,8-5,8,8,4,1,1,,,1,1,1,1,,,,,,4,1,,,,,5,2019,2018-19,div1,Broward,browardcollege,andrewfernandezwgam,Andrew Fernandez
-Mar 29,home,Indian River State,W,3-2,3,3,3,0,0,,,,0,,,,,,,,0,0,,,,,3,2019,2018-19,div1,Broward,browardcollege,andrewfernandezwgam,Andrew Fernandez
-Mar 30,away,Indian River State,W,8-7,8,8,3,0,2,,,,0,1,,,,,,,2,0,,,,,4,2019,2018-19,div1,Broward,browardcollege,andrewfernandezwgam,Andrew Fernandez
-Apr 3,away,Palm Beach State,W,9-3,9,9,3,0,1,,,,1,2,,,,,,,1,0,,,,,5,2019,2018-19,div1,Broward,browardcollege,andrewfernandezwgam,Andrew Fernandez
-Apr 5,away,Palm Beach State,W,6-3,6,6,3,0,0,,,,0,1,3,,,1,,,0,0,,,,,5,2019,2018-19,div1,Broward,browardcollege,andrewfernandezwgam,Andrew Fernandez
-Apr 6,home,Palm Beach State,W,7-2,7,7,4,2,2,1,,1,2,,1,,,,,,6,2,,,,,4,2019,2018-19,div1,Broward,browardcollege,andrewfernandezwgam,Andrew Fernandez
-Apr 10,home,Miami Dade,L,8-2,8,8,4,0,0,,,,0,,1,,,,,,0,0,,,,,4,2019,2018-19,div1,Broward,browardcollege,andrewfernandezwgam,Andrew Fernandez
-Apr 12,away,Miami Dade,W,5-3,5,5,4,0,1,1,,,1,,1,,,,,,2,1,,,,,4,2019,2018-19,div1,Broward,browardcollege,andrewfernandezwgam,Andrew Fernandez
-Apr 13,home,Miami Dade,L,3-1,3,3,3,0,1,,,,0,1,1,,,,,,1,0,,,,,4,2019,2018-19,div1,Broward,browardcollege,andrewfernandezwgam,Andrew Fernandez
-Apr 16,away,Keiser University,W,5-3,5,5,4,1,1,1,,,0,,,,,,,,2,1,,,,,4,2019,2018-19,div1,Broward,browardcollege,andrewfernandezwgam,Andrew Fernandez
-Apr 19,home,ASA Miami,L,8-4,8,8,4,0,0,,,,0,,,,,,,,0,0,,,,,4,2019,2018-19,div1,Broward,browardcollege,andrewfernandezwgam,Andrew Fernandez
-Apr 24,home,Eastern Florida State,L,5-3,5,5,3,1,1,1,,,0,1,1,,,,,,2,1,,,,,4,2019,2018-19,div1,Broward,browardcollege,andrewfernandezwgam,Andrew Fernandez
-Apr 26,away,Eastern Florida State,L,10-4,10,10,2,0,0,,,,0,,1,,,,,,0,0,,,,,2,2019,2018-19,div1,Broward,browardcollege,andrewfernandezwgam,Andrew Fernandez
-Apr 27,away,Eastern Florida State,L,7-4,7,7,,,,,,,,,,,,,,,,,,,,,,2019,2018-19,div1,Broward,browardcollege,andrewfernandezwgam,Andrew Fernandez
-May 1,home,vs. Indian River State,W,2-1,2,2,3,0,0,,,,0,1,1,,,,,,0,0,,,,,4,2019,2018-19,div1,Broward,browardcollege,andrewfernandezwgam,Andrew Fernandez
-May 1,away,Eastern Florida State,W,8-4,8,8,3,0,0,,,,0,2,2,,,,,,0,0,,,,,5,2019,2018-19,div1,Broward,browardcollege,andrewfernandezwgam,Andrew Fernandez
-May 2,home,vs. Eastern Florida State,L,11-3,11,11,3,0,0,,,,0,,2,,,,,,0,0,,,,,3,2019,2018-19,div1,Broward,browardcollege,andrewfernandezwgam,Andrew Fernandez
-May 2,home,vs. Eastern Florida State,W,9-8,9,9,5,0,1,,,,0,,3,,,,,,1,0,,,,,5,2019,2018-19,div1,Broward,browardcollege,andrewfernandezwgam,Andrew Fernandez
-May 10,home,vs. Central Florida,L,12-2,12,12,2,0,0,,,,0,,2,,,,,,0,0,,,,,2,2019,2018-19,div1,Broward,browardcollege,andrewfernandezwgam,Andrew Fernandez
-May 11,home,vs. State College of Florida,L,8-1,8,8,4,0,0,,,,0,,1,,,,,,0,0,,,3,,4,2019,2018-19,div1,Broward,browardcollege,andrewfernandezwgam,Andrew Fernandez
+date,location,opponent,result,score,team_score,opp_score,game_score_diff_x,game_win_loss_x,game_id_x,AB,R,H,2B,3B,HR,RBI,BB,K,SB,CS,game_score_diff_y,game_win_loss_y,game_id_y,HBP,SF,SH,TB,XBH,HDP,GO,FO,GO/FO,PA,season,njcaa_season,njcaa_division,team,team_id,player_id,player_name
+Jan 26,home,Polk State,,,,,,,,,,,,,,,,,,,7.0,win,,,,,,,,,,,,2019,2018-19,div1,Broward,browardcollege,andrewfernandezwgam,Andrew Fernandez
+Jan 31,home,State College of Florida,L,1-0,1,0,1,win,20190131_x3v8,2,0,1,1,,,0,1,1,,,1.0,win,20190131_x3v8,,,,2,1,,,,,3,2019,2018-19,div1,Broward,browardcollege,andrewfernandezwgam,Andrew Fernandez
+Feb 2,home,ASA Miami,L,4-0,4,0,4,win,20190202_wqh1,3,0,0,,,,0,,2,,,4.0,win,20190202_wqh1,,,,0,0,,,,,3,2019,2018-19,div1,Broward,browardcollege,andrewfernandezwgam,Andrew Fernandez
+Feb 2,home,ASA Miami,,,,,4,win,,,,,,,,,,,,,4.0,win,,,,,,,,,,,,2019,2018-19,div1,Broward,browardcollege,andrewfernandezwgam,Andrew Fernandez
+Feb 20,home,Indian River State,W,12-6,12,6,6,win,20190220_3jrt,5,1,1,,,,2,,,,,6.0,win,20190220_3jrt,,,,1,0,,,,,5,2019,2018-19,div1,Broward,browardcollege,andrewfernandezwgam,Andrew Fernandez
+Feb 23,home,Indian River State,L,9-6,9,6,3,win,20190223_lwls,5,1,2,2,,,2,,1,,,3.0,win,20190223_lwls,,,,4,2,,,,,5,2019,2018-19,div1,Broward,browardcollege,andrewfernandezwgam,Andrew Fernandez
+Mar 2,home,Palm Beach State,L,2-1,2,1,1,win,20190302_skip,4,0,0,,,,0,1,1,,,1.0,win,20190302_skip,,,,0,0,,,,,5,2019,2018-19,div1,Broward,browardcollege,andrewfernandezwgam,Andrew Fernandez
+Mar 8,home,Miami Dade,L,7-2,7,2,5,win,20190308_af1a,4,0,0,,,,0,,1,,,5.0,win,20190308_af1a,,,,0,0,,,,,4,2019,2018-19,div1,Broward,browardcollege,andrewfernandezwgam,Andrew Fernandez
+Mar 11,home,Keiser University,W,12-7,12,7,5,win,,,,,,,,,,,,,5.0,win,,,,,,,,,,,,2019,2018-19,div1,Broward,browardcollege,andrewfernandezwgam,Andrew Fernandez
+Mar 13,home,ASA Miami,W,14-3,14,3,11,win,20190313_qx8w,3,2,2,1,,,2,,1,,,11.0,win,20190313_qx8w,,1,,3,1,,,,,4,2019,2018-19,div1,Broward,browardcollege,andrewfernandezwgam,Andrew Fernandez
+Mar 15,home,Pasco-Hernando State,W,3-0,3,0,3,win,,,,,,,,,,,,,3.0,win,,,,,,,,,,,,2019,2018-19,div1,Broward,browardcollege,andrewfernandezwgam,Andrew Fernandez
+Mar 16,home,Pasco-Hernando State,L,12-7,12,7,5,win,20190316_avf2,5,0,1,1,,,2,,1,,,5.0,win,20190316_avf2,,,,2,1,,,,,5,2019,2018-19,div1,Broward,browardcollege,andrewfernandezwgam,Andrew Fernandez
+Mar 18,home,ST Thomas University,W,11-10,11,10,1,win,20190318_0qag,4,1,1,,,,0,,1,,,1.0,win,20190318_0qag,,,,1,0,,,,,4,2019,2018-19,div1,Broward,browardcollege,andrewfernandezwgam,Andrew Fernandez
+Mar 22,home,Eastern Florida State,L,5-2,5,2,3,win,20190322_pq6d,3,0,1,,,,0,1,,,,3.0,win,20190322_pq6d,,,,1,0,,,,,4,2019,2018-19,div1,Broward,browardcollege,andrewfernandezwgam,Andrew Fernandez
+Mar 23,home,Eastern Florida State,L,13-0,13,0,13,win,20190323_mbmd,1,0,0,,,,0,2,1,,,13.0,win,20190323_mbmd,,,,0,0,,,,,3,2019,2018-19,div1,Broward,browardcollege,andrewfernandezwgam,Andrew Fernandez
+Mar 29,home,Indian River State,W,3-2,3,2,1,win,20190329_a3x3,3,0,0,,,,0,,,,,1.0,win,20190329_a3x3,,,,0,0,,,,,3,2019,2018-19,div1,Broward,browardcollege,andrewfernandezwgam,Andrew Fernandez
+Apr 6,home,Palm Beach State,W,7-2,7,2,5,win,20190406_l5uy,4,2,2,1,,1,2,,1,,,5.0,win,20190406_l5uy,,,,6,2,,,,,4,2019,2018-19,div1,Broward,browardcollege,andrewfernandezwgam,Andrew Fernandez
+Apr 10,home,Miami Dade,L,8-2,8,2,6,win,20190410_0z5o,4,0,0,,,,0,,1,,,6.0,win,20190410_0z5o,,,,0,0,,,,,4,2019,2018-19,div1,Broward,browardcollege,andrewfernandezwgam,Andrew Fernandez
+Apr 13,home,Miami Dade,L,3-1,3,1,2,win,20190413_ha24,3,0,1,,,,0,1,1,,,2.0,win,20190413_ha24,,,,1,0,,,,,4,2019,2018-19,div1,Broward,browardcollege,andrewfernandezwgam,Andrew Fernandez
+Apr 19,home,ASA Miami,L,8-4,8,4,4,win,20190419_jfpc,4,0,0,,,,0,,,,,4.0,win,20190419_jfpc,,,,0,0,,,,,4,2019,2018-19,div1,Broward,browardcollege,andrewfernandezwgam,Andrew Fernandez
+Apr 24,home,Eastern Florida State,L,5-3,5,3,2,win,20190424_5cib,3,1,1,1,,,0,1,1,,,2.0,win,20190424_5cib,,,,2,1,,,,,4,2019,2018-19,div1,Broward,browardcollege,andrewfernandezwgam,Andrew Fernandez

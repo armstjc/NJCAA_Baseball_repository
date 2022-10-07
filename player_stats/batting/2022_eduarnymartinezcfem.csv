@@ -1,63 +1,27 @@
-date,location,opponent,result,score,team_score,opp_score,AB,R,H,2B,3B,HR,RBI,BB,K,SB,CS,HBP,SF,SH,TB,XBH,HDP,GO,FO,GO/FO,PA,season,njcaa_season,njcaa_division,team,team_id,player_id,player_name
-Jan 28,home,vs. Colorado Northwestern,W,16-2,16,16,3,2,1,,,,1,1,1,1,,,,,1,0,,,,,4,2022,2021-22,div1,Cochise,cochisecollege,eduarnymartinezcfem,Eduarny Martinez
-Jan 28,home,vs. El Paso,W,8-3,8,8,2,1,0,,,,0,2,1,,,,,,0,0,,,,,4,2022,2021-22,div1,Cochise,cochisecollege,eduarnymartinezcfem,Eduarny Martinez
-Jan 29,home,vs. Lamar,W,16-1,16,16,3,2,1,1,,,0,1,1,,,,,,2,1,,,,,4,2022,2021-22,div1,Cochise,cochisecollege,eduarnymartinezcfem,Eduarny Martinez
-Jan 29,home,vs. New Mexico,L,7-3,7,7,2,1,2,2,,,0,2,,,,,,,4,2,,,,,4,2022,2021-22,div1,Cochise,cochisecollege,eduarnymartinezcfem,Eduarny Martinez
-Feb 3,home,vs. Southern Idaho,L,5-1,5,5,4,0,1,,,,0,,2,,,,,,1,0,,,,,4,2022,2021-22,div1,Cochise,cochisecollege,eduarnymartinezcfem,Eduarny Martinez
-Feb 4,home,vs. Southern Idaho,W,5-4,5,5,4,0,1,,,,1,,2,,,,,,1,0,,,,,4,2022,2021-22,div1,Cochise,cochisecollege,eduarnymartinezcfem,Eduarny Martinez
-Feb 4,home,vs. Southern Idaho,L,9-7,9,9,3,0,0,,,,0,,1,,,1,,,0,0,,,,,4,2022,2021-22,div1,Cochise,cochisecollege,eduarnymartinezcfem,Eduarny Martinez
-Feb 5,home,vs. Southern Idaho,L,8-5,8,8,5,0,1,,,,1,,2,,,,,,1,0,,,,,5,2022,2021-22,div1,Cochise,cochisecollege,eduarnymartinezcfem,Eduarny Martinez
-Feb 11,home,Utah State Eastern,W,3-1,3,3,2,1,1,,1,,1,1,1,,1,,,,3,1,,,,,3,2022,2021-22,div1,Cochise,cochisecollege,eduarnymartinezcfem,Eduarny Martinez
-Feb 11,home,Utah State Eastern,W,6-1,6,6,4,0,1,,1,,1,,1,,,,,,3,1,,,,,4,2022,2021-22,div1,Cochise,cochisecollege,eduarnymartinezcfem,Eduarny Martinez
-Feb 12,home,Utah State Eastern,W,4-1,4,4,3,0,0,,,,0,,1,1,,1,,,0,0,,,,,4,2022,2021-22,div1,Cochise,cochisecollege,eduarnymartinezcfem,Eduarny Martinez
-Feb 12,home,Utah State Eastern,W,6-3,6,6,2,1,1,,,,0,1,,,,,,,1,0,,,,,3,2022,2021-22,div1,Cochise,cochisecollege,eduarnymartinezcfem,Eduarny Martinez
-Feb 15,away,Central Arizona,L,8-4,8,8,4,1,1,,,1,1,,3,,,,,,4,1,,,,,4,2022,2021-22,div1,Cochise,cochisecollege,eduarnymartinezcfem,Eduarny Martinez
-Feb 15,away,Central Arizona,L,11-5,11,11,4,1,2,,,,0,,1,,,,,,2,0,,,,,4,2022,2021-22,div1,Cochise,cochisecollege,eduarnymartinezcfem,Eduarny Martinez
-Feb 19,home,Yavapai,W,3-2,3,3,3,0,2,,,,1,,1,,,1,,,2,0,,,,,4,2022,2021-22,div1,Cochise,cochisecollege,eduarnymartinezcfem,Eduarny Martinez
-Feb 19,home,Yavapai,W,7-4,7,7,3,1,2,1,1,,3,1,1,,,,,,5,2,,,,,4,2022,2021-22,div1,Cochise,cochisecollege,eduarnymartinezcfem,Eduarny Martinez
-Feb 22,away,Pima,W,6-2,6,6,4,1,1,,,1,1,,3,,,,,,4,1,,,,,4,2022,2021-22,div1,Cochise,cochisecollege,eduarnymartinezcfem,Eduarny Martinez
-Feb 22,away,Pima,L,9-7,9,9,3,2,1,1,,,2,,,,1,,,,2,1,,,,,3,2022,2021-22,div1,Cochise,cochisecollege,eduarnymartinezcfem,Eduarny Martinez
-Feb 25,away,Southern Nevada,W,3-2,3,3,4,0,1,,,,0,,2,,,,,,1,0,,1,,,4,2022,2021-22,div1,Cochise,cochisecollege,eduarnymartinezcfem,Eduarny Martinez
-Feb 25,away,Southern Nevada,W,5-3,5,5,4,1,2,1,,,2,,1,,,,,,3,1,,1,,,4,2022,2021-22,div1,Cochise,cochisecollege,eduarnymartinezcfem,Eduarny Martinez
-Feb 26,away,Southern Nevada,W,12-2,12,12,4,1,1,,,,1,,3,,,,,,1,0,,,,,4,2022,2021-22,div1,Cochise,cochisecollege,eduarnymartinezcfem,Eduarny Martinez
-Mar 1,away,Arizona Western,L,7-4,7,7,3,1,1,1,,,2,,1,,,,,,2,1,,,,,3,2022,2021-22,div1,Cochise,cochisecollege,eduarnymartinezcfem,Eduarny Martinez
-Mar 1,away,Arizona Western,L,4-1,4,4,3,1,0,,,,0,1,,,,,,,0,0,,,,,4,2022,2021-22,div1,Cochise,cochisecollege,eduarnymartinezcfem,Eduarny Martinez
-Mar 5,home,South Mountain,W,6-5,6,6,3,1,2,,,,1,,,,,,,,2,0,,,,,3,2022,2021-22,div1,Cochise,cochisecollege,eduarnymartinezcfem,Eduarny Martinez
-Mar 5,home,South Mountain,W,11-9,11,11,5,0,1,,,,1,,1,,,,,,1,0,,,,,5,2022,2021-22,div1,Cochise,cochisecollege,eduarnymartinezcfem,Eduarny Martinez
-Mar 8,away,Glendale,L,5-2,5,5,3,0,1,,,,1,,,,,1,,,1,0,,,,,4,2022,2021-22,div1,Cochise,cochisecollege,eduarnymartinezcfem,Eduarny Martinez
-Mar 8,away,Glendale,W,10-5,10,10,4,1,1,,,,0,,1,,,1,,,1,0,,,,,5,2022,2021-22,div1,Cochise,cochisecollege,eduarnymartinezcfem,Eduarny Martinez
-Mar 12,home,GateWay (AZ),W,7-3,7,7,2,1,1,,,,1,2,,,,,,,1,0,,,,,4,2022,2021-22,div1,Cochise,cochisecollege,eduarnymartinezcfem,Eduarny Martinez
-Mar 12,home,GateWay (AZ),W,3-1,3,3,4,1,2,,,1,2,,1,,,,,,5,1,,,,,4,2022,2021-22,div1,Cochise,cochisecollege,eduarnymartinezcfem,Eduarny Martinez
-Mar 15,home,Eastern Arizona,W,9-0,9,9,3,1,0,,,,0,1,3,,,,,,0,0,,,,,4,2022,2021-22,div1,Cochise,cochisecollege,eduarnymartinezcfem,Eduarny Martinez
-Mar 15,home,Eastern Arizona,W,3-2,3,3,2,1,1,,3,,0,2,,,,,,,7,3,,,,,4,2022,2021-22,div1,Cochise,cochisecollege,eduarnymartinezcfem,Eduarny Martinez
-Mar 18,home,Frasier Valley,W,23-1,23,23,3,3,2,,,,3,2,,2,,,,,2,0,,,,,5,2022,2021-22,div1,Cochise,cochisecollege,eduarnymartinezcfem,Eduarny Martinez
-Mar 19,home,vs. Bismarck State,W,3-1,3,3,3,1,1,,1,,0,,2,,,,,,3,1,,,,,3,2022,2021-22,div1,Cochise,cochisecollege,eduarnymartinezcfem,Eduarny Martinez
-Mar 19,home,vs. Dickinson State University,W,9-3,9,9,4,1,1,1,,,2,,1,,,,,,2,1,,,,,4,2022,2021-22,div1,Cochise,cochisecollege,eduarnymartinezcfem,Eduarny Martinez
-Mar 22,away,Chandler-Gilbert,L,3-0,3,3,2,0,1,,,,0,1,,,,,,,1,0,,,,,3,2022,2021-22,div1,Cochise,cochisecollege,eduarnymartinezcfem,Eduarny Martinez
-Mar 22,away,Chandler-Gilbert,W,14-5,14,14,4,0,0,,,,0,3,1,,,,,,0,0,,,,,7,2022,2021-22,div1,Cochise,cochisecollege,eduarnymartinezcfem,Eduarny Martinez
-Mar 26,home,Scottsdale,W,11-3,11,11,4,1,1,,,,0,,1,,,,,,1,0,,,,,4,2022,2021-22,div1,Cochise,cochisecollege,eduarnymartinezcfem,Eduarny Martinez
-Mar 26,home,Scottsdale,W,12-4,12,12,5,3,2,1,,1,1,,1,,,,,,6,2,,,,,5,2022,2021-22,div1,Cochise,cochisecollege,eduarnymartinezcfem,Eduarny Martinez
-Mar 30,away,Phoenix,W,3-2,3,3,0,0,0,,,,0,,,,,1,,,0,0,,,,,1,2022,2021-22,div1,Cochise,cochisecollege,eduarnymartinezcfem,Eduarny Martinez
-Mar 30,away,Phoenix,L,5-3,5,5,,,,,,,,,,,,,,,,,,,,,,2022,2021-22,div1,Cochise,cochisecollege,eduarnymartinezcfem,Eduarny Martinez
-Apr 2,home,Paradise Valley,W,5-0,5,5,,,,,,,,,,,,,,,,,,,,,,2022,2021-22,div1,Cochise,cochisecollege,eduarnymartinezcfem,Eduarny Martinez
-Apr 2,home,Paradise Valley,W,6-4,6,6,,,,,,,,,,,,,,,,,,,,,,2022,2021-22,div1,Cochise,cochisecollege,eduarnymartinezcfem,Eduarny Martinez
-Apr 5,away,Mesa,W,3-2,3,3,,,,,,,,,,,,,,,,,,,,,,2022,2021-22,div1,Cochise,cochisecollege,eduarnymartinezcfem,Eduarny Martinez
-Apr 5,away,Mesa,W,24-7,24,24,,,,,,,,,,,,,,,,,,,,,,2022,2021-22,div1,Cochise,cochisecollege,eduarnymartinezcfem,Eduarny Martinez
-Apr 9,away,Eastern Arizona,W,8-2,8,8,,,,,,,,,,,,,,,,,,,,,,2022,2021-22,div1,Cochise,cochisecollege,eduarnymartinezcfem,Eduarny Martinez
-Apr 9,away,Eastern Arizona,L,7-4,7,7,,,,,,,,,,,,,,,,,,,,,,2022,2021-22,div1,Cochise,cochisecollege,eduarnymartinezcfem,Eduarny Martinez
-Apr 12,home,Central Arizona,W,11-5,11,11,3,1,2,,,,2,1,,,,,,,2,0,,,,,4,2022,2021-22,div1,Cochise,cochisecollege,eduarnymartinezcfem,Eduarny Martinez
-Apr 12,home,Central Arizona,W,10-4,10,10,3,2,1,1,,,1,2,2,,,,,,2,1,,,,,5,2022,2021-22,div1,Cochise,cochisecollege,eduarnymartinezcfem,Eduarny Martinez
-Apr 16,away,Yavapai,W,6-4,6,6,3,0,1,1,,,0,1,1,,,,,,2,1,,,,,4,2022,2021-22,div1,Cochise,cochisecollege,eduarnymartinezcfem,Eduarny Martinez
-Apr 16,away,Yavapai,W,13-8,13,13,4,3,3,,,1,1,2,1,1,,,,,6,1,,,,,6,2022,2021-22,div1,Cochise,cochisecollege,eduarnymartinezcfem,Eduarny Martinez
-Apr 19,home,Pima,L,8-0,8,8,0,0,0,,,,0,3,,,,,,,0,0,,,,,3,2022,2021-22,div1,Cochise,cochisecollege,eduarnymartinezcfem,Eduarny Martinez
-Apr 19,home,Pima,W,12-11,12,12,5,0,1,1,,,1,,2,,,,,,2,1,,,,,5,2022,2021-22,div1,Cochise,cochisecollege,eduarnymartinezcfem,Eduarny Martinez
-Apr 26,home,Arizona Western,W,2-0,2,2,3,1,2,,1,,0,,1,,,,,,4,1,,,,,3,2022,2021-22,div1,Cochise,cochisecollege,eduarnymartinezcfem,Eduarny Martinez
-Apr 26,home,Arizona Western,W,7-6,7,7,3,1,0,,,,0,,1,,,1,,,0,0,,,,,4,2022,2021-22,div1,Cochise,cochisecollege,eduarnymartinezcfem,Eduarny Martinez
-Apr 30,away,South Mountain,L,8-4,8,8,2,0,1,1,,,0,2,1,,1,,,,2,1,,,,,4,2022,2021-22,div1,Cochise,cochisecollege,eduarnymartinezcfem,Eduarny Martinez
-Apr 30,away,South Mountain,W,11-9,11,11,4,1,1,,1,,0,1,3,,,,,,3,1,,,,,5,2022,2021-22,div1,Cochise,cochisecollege,eduarnymartinezcfem,Eduarny Martinez
-May 5,home,Arizona Western,W,11-8,11,11,3,0,1,,,,1,1,1,,,,1,,1,0,,,,,5,2022,2021-22,div1,Cochise,cochisecollege,eduarnymartinezcfem,Eduarny Martinez
-May 6,home,Arizona Western,L,5-4,5,5,5,0,1,,,,0,,3,,,,,,1,0,,,,,5,2022,2021-22,div1,Cochise,cochisecollege,eduarnymartinezcfem,Eduarny Martinez
-May 7,home,Arizona Western,W,8-3,8,8,4,1,1,,,,0,1,,,,,,,1,0,,,,,5,2022,2021-22,div1,Cochise,cochisecollege,eduarnymartinezcfem,Eduarny Martinez
-May 12,away,Central Arizona,W,3-1,3,3,3,0,0,,,,0,1,1,,,,,,0,0,,,,,4,2022,2021-22,div1,Cochise,cochisecollege,eduarnymartinezcfem,Eduarny Martinez
-May 13,away,Central Arizona,L,9-4,9,9,4,0,1,,,,1,,2,,,,,,1,0,,,,,4,2022,2021-22,div1,Cochise,cochisecollege,eduarnymartinezcfem,Eduarny Martinez
-May 14,away,Central Arizona,L,3-2,3,3,6,1,1,,,1,1,,2,,,,,,4,1,,,,,6,2022,2021-22,div1,Cochise,cochisecollege,eduarnymartinezcfem,Eduarny Martinez
+date,location,opponent,result,score,team_score,opp_score,game_score_diff_x,game_win_loss_x,game_id_x,AB,R,H,2B,3B,HR,RBI,BB,K,SB,CS,game_score_diff_y,game_win_loss_y,game_id_y,HBP,SF,SH,TB,XBH,HDP,GO,FO,GO/FO,PA,season,njcaa_season,njcaa_division,team,team_id,player_id,player_name
+Feb 11,home,Utah State Eastern,W,3-1,3,1,2.0,win,20220211_u8oa,2,1,1,,1,,1,1,1,,1,2.0,win,20220211_u8oa,,,,3,1,,,,,3,2022,2021-22,div1,Cochise,cochisecollege,eduarnymartinezcfem,Eduarny Martinez
+Feb 11,home,Utah State Eastern,W,6-1,6,1,5.0,win,20220211_g632,4,0,1,,1,,1,,1,,,5.0,win,20220211_g632,,,,3,1,,,,,4,2022,2021-22,div1,Cochise,cochisecollege,eduarnymartinezcfem,Eduarny Martinez
+Feb 12,home,Utah State Eastern,W,4-1,4,1,3.0,win,20220212_rjdd,3,0,0,,,,0,,1,1,,3.0,win,20220212_rjdd,1,,,0,0,,,,,4,2022,2021-22,div1,Cochise,cochisecollege,eduarnymartinezcfem,Eduarny Martinez
+Feb 12,home,Utah State Eastern,W,6-3,6,3,3.0,win,20220212_94i1,2,1,1,,,,0,1,,,,3.0,win,20220212_94i1,,,,1,0,,,,,3,2022,2021-22,div1,Cochise,cochisecollege,eduarnymartinezcfem,Eduarny Martinez
+Feb 19,home,Yavapai,W,3-2,3,2,1.0,win,20220219_ra74,3,0,2,,,,1,,1,,,1.0,win,20220219_ra74,1,,,2,0,,,,,4,2022,2021-22,div1,Cochise,cochisecollege,eduarnymartinezcfem,Eduarny Martinez
+Feb 19,home,Yavapai,W,7-4,7,4,3.0,win,20220219_6sci,3,1,2,1,1,,3,1,1,,,3.0,win,20220219_6sci,,,,5,2,,,,,4,2022,2021-22,div1,Cochise,cochisecollege,eduarnymartinezcfem,Eduarny Martinez
+Mar 5,home,South Mountain,W,6-5,6,5,1.0,win,20220305_2cy8,3,1,2,,,,1,,,,,1.0,win,20220305_2cy8,,,,2,0,,,,,3,2022,2021-22,div1,Cochise,cochisecollege,eduarnymartinezcfem,Eduarny Martinez
+Mar 5,home,South Mountain,W,11-9,11,9,2.0,win,20220305_ttvw,5,0,1,,,,1,,1,,,2.0,win,20220305_ttvw,,,,1,0,,,,,5,2022,2021-22,div1,Cochise,cochisecollege,eduarnymartinezcfem,Eduarny Martinez
+Mar 12,home,GateWay (AZ),W,7-3,7,3,4.0,win,20220312_hbw0,2,1,1,,,,1,2,,,,4.0,win,20220312_hbw0,,,,1,0,,,,,4,2022,2021-22,div1,Cochise,cochisecollege,eduarnymartinezcfem,Eduarny Martinez
+Mar 12,home,GateWay (AZ),W,3-1,3,1,2.0,win,20220312_8yoy,4,1,2,,,1,2,,1,,,2.0,win,20220312_8yoy,,,,5,1,,,,,4,2022,2021-22,div1,Cochise,cochisecollege,eduarnymartinezcfem,Eduarny Martinez
+Mar 15,home,Eastern Arizona,W,9-0,9,0,9.0,win,20220315_ka32,3,1,0,,,,0,1,3,,,9.0,win,20220315_ka32,,,,0,0,,,,,4,2022,2021-22,div1,Cochise,cochisecollege,eduarnymartinezcfem,Eduarny Martinez
+Mar 15,home,Eastern Arizona,W,3-2,3,2,1.0,win,20220315_ue96,2,1,1,,3,,0,2,,,,1.0,win,20220315_ue96,,,,7,3,,,,,4,2022,2021-22,div1,Cochise,cochisecollege,eduarnymartinezcfem,Eduarny Martinez
+Mar 18,home,Frasier Valley,W,23-1,23,1,22.0,win,20220318_sff9,3,3,2,,,,3,2,,2,,22.0,win,20220318_sff9,,,,2,0,,,,,5,2022,2021-22,div1,Cochise,cochisecollege,eduarnymartinezcfem,Eduarny Martinez
+Mar 26,home,Scottsdale,W,11-3,11,3,8.0,win,20220326_4tps,4,1,1,,,,0,,1,,,8.0,win,20220326_4tps,,,,1,0,,,,,4,2022,2021-22,div1,Cochise,cochisecollege,eduarnymartinezcfem,Eduarny Martinez
+Mar 26,home,Scottsdale,W,12-4,12,4,8.0,win,20220326_niht,5,3,2,1,,1,1,,1,,,8.0,win,20220326_niht,,,,6,2,,,,,5,2022,2021-22,div1,Cochise,cochisecollege,eduarnymartinezcfem,Eduarny Martinez
+Apr 2,home,Paradise Valley,W,5-0,5,0,5.0,win,,,,,,,,,,,,,5.0,win,,,,,,,,,,,,2022,2021-22,div1,Cochise,cochisecollege,eduarnymartinezcfem,Eduarny Martinez
+Apr 2,home,Paradise Valley,W,6-4,6,4,2.0,win,,,,,,,,,,,,,2.0,win,,,,,,,,,,,,2022,2021-22,div1,Cochise,cochisecollege,eduarnymartinezcfem,Eduarny Martinez
+Apr 12,home,Central Arizona,W,11-5,11,5,6.0,win,20220412_dl3n,3,1,2,,,,2,1,,,,6.0,win,20220412_dl3n,,,,2,0,,,,,4,2022,2021-22,div1,Cochise,cochisecollege,eduarnymartinezcfem,Eduarny Martinez
+Apr 12,home,Central Arizona,W,10-4,10,4,6.0,win,20220412_7s9t,3,2,1,1,,,1,2,2,,,6.0,win,20220412_7s9t,,,,2,1,,,,,5,2022,2021-22,div1,Cochise,cochisecollege,eduarnymartinezcfem,Eduarny Martinez
+Apr 19,home,Pima,L,8-0,8,0,8.0,win,20220419_f8gr,0,0,0,,,,0,3,,,,8.0,win,20220419_f8gr,,,,0,0,,,,,3,2022,2021-22,div1,Cochise,cochisecollege,eduarnymartinezcfem,Eduarny Martinez
+Apr 19,home,Pima,W,12-11,12,11,1.0,win,20220419_7ebo,5,0,1,1,,,1,,2,,,1.0,win,20220419_7ebo,,,,2,1,,,,,5,2022,2021-22,div1,Cochise,cochisecollege,eduarnymartinezcfem,Eduarny Martinez
+Apr 26,home,Arizona Western,W,2-0,2,0,2.0,win,20220426_87qa,3,1,2,,1,,0,,1,,,2.0,win,20220426_87qa,,,,4,1,,,,,3,2022,2021-22,div1,Cochise,cochisecollege,eduarnymartinezcfem,Eduarny Martinez
+Apr 26,home,Arizona Western,W,7-6,7,6,1.0,win,20220426_sgpj,3,1,0,,,,0,,1,,,1.0,win,20220426_sgpj,1,,,0,0,,,,,4,2022,2021-22,div1,Cochise,cochisecollege,eduarnymartinezcfem,Eduarny Martinez
+May 5,home,Arizona Western,W,11-8,11,8,3.0,win,20220505_2ke1,3,0,1,,,,1,1,1,,,3.0,win,20220505_2ke1,,1,,1,0,,,,,5,2022,2021-22,div1,Cochise,cochisecollege,eduarnymartinezcfem,Eduarny Martinez
+May 6,home,Arizona Western,L,5-4,5,4,1.0,win,20220506_jkfu,5,0,1,,,,0,,3,,,1.0,win,20220506_jkfu,,,,1,0,,,,,5,2022,2021-22,div1,Cochise,cochisecollege,eduarnymartinezcfem,Eduarny Martinez
+May 7,home,Arizona Western,W,8-3,8,3,5.0,win,20220507_bf4k,4,1,1,,,,0,1,,,,5.0,win,20220507_bf4k,,,,1,0,,,,,5,2022,2021-22,div1,Cochise,cochisecollege,eduarnymartinezcfem,Eduarny Martinez

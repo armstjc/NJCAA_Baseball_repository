@@ -1,57 +1,28 @@
-date,location,opponent,result,score,team_score,opp_score,AB,R,H,2B,3B,HR,RBI,BB,K,SB,CS,HBP,SF,SH,TB,XBH,HDP,GO,FO,GO/FO,PA,season,njcaa_season,njcaa_division,team,team_id,player_id,player_name
-Feb 1,home,vs. State College of Florida,L,6-1,6,6,3,0,0,,,,0,,,,,,,,0,0,,1,2,0.50,3,2014,2013-14,div1,Delgado,delgadocommunitycollege,jordancaillouethju8,Jordan Caillouet
-Feb 1,home,vs. Southwest Tennessee,W,6-5,6,6,3,1,1,1,,,0,,,,,,,,2,1,,1,1,1.00,3,2014,2013-14,div1,Delgado,delgadocommunitycollege,jordancaillouethju8,Jordan Caillouet
-Feb 8,home,Bishop State,W,7-4,7,7,3,0,1,,,,0,1,2,,,,,,1,0,,,,,4,2014,2013-14,div1,Delgado,delgadocommunitycollege,jordancaillouethju8,Jordan Caillouet
-Feb 8,home,Bishop State,W,7-3,7,7,3,0,2,,,,0,1,,,,,,,2,0,,,1,,4,2014,2013-14,div1,Delgado,delgadocommunitycollege,jordancaillouethju8,Jordan Caillouet
-Feb 13,home,SUNY Adirondack,W,18-1,18,18,2,2,0,,,,0,1,,,,1,,,0,0,,1,,,4,2014,2013-14,div1,Delgado,delgadocommunitycollege,jordancaillouethju8,Jordan Caillouet
-Feb 14,home,Pensacola State,W,7-3,7,7,4,2,2,1,,,3,,,,,,,,3,1,,,2,,4,2014,2013-14,div1,Delgado,delgadocommunitycollege,jordancaillouethju8,Jordan Caillouet
-Feb 14,home,SUNY Adirondack,W,12-0,12,12,3,2,2,,2,,0,,,,,,,,6,2,,1,,,3,2014,2013-14,div1,Delgado,delgadocommunitycollege,jordancaillouethju8,Jordan Caillouet
-Feb 15,home,Pensacola State,W,6-5,6,6,4,2,1,,,,1,,,,,,,,1,0,,3,,,4,2014,2013-14,div1,Delgado,delgadocommunitycollege,jordancaillouethju8,Jordan Caillouet
-Feb 15,home,SUNY Adirondack,W,9-2,9,9,3,0,1,,,,1,,,,,,,,1,0,,,2,,3,2014,2013-14,div1,Delgado,delgadocommunitycollege,jordancaillouethju8,Jordan Caillouet
-Feb 16,home,Pensacola State,W,14-4,14,14,3,2,1,,,,0,1,,,,,,,1,0,,1,1,1.00,4,2014,2013-14,div1,Delgado,delgadocommunitycollege,jordancaillouethju8,Jordan Caillouet
-Feb 20,home,DuPage,W,12-1,12,12,2,0,0,,,,0,1,1,1,,,,,0,0,,1,,,3,2014,2013-14,div1,Delgado,delgadocommunitycollege,jordancaillouethju8,Jordan Caillouet
-Feb 21,home,Copiah-Lincoln,W,7-3,7,7,3,0,0,,,,0,,1,,,,,,0,0,,1,,,3,2014,2013-14,div1,Delgado,delgadocommunitycollege,jordancaillouethju8,Jordan Caillouet
-Feb 21,home,DuPage,W,22-1,22,22,2,2,1,,,1,2,1,,,,,1,,4,1,,,2,,4,2014,2013-14,div1,Delgado,delgadocommunitycollege,jordancaillouethju8,Jordan Caillouet
-Feb 22,home,DuPage,W,14-4,14,14,1,2,0,,,,0,1,,,,1,,,0,0,,,1,,3,2014,2013-14,div1,Delgado,delgadocommunitycollege,jordancaillouethju8,Jordan Caillouet
-Feb 27,away,Pensacola State,W,12-7,12,12,6,1,3,2,,,2,1,,,,,,,5,2,,,2,,7,2014,2013-14,div1,Delgado,delgadocommunitycollege,jordancaillouethju8,Jordan Caillouet
-Feb 28,away,Pensacola State,L,4-3,4,4,4,0,0,,,,0,,1,,,,,,0,0,1,2,1,2.00,4,2014,2013-14,div1,Delgado,delgadocommunitycollege,jordancaillouethju8,Jordan Caillouet
-Feb 28,away,Pensacola State,W,8-7,8,8,4,0,0,,,,0,,1,,,,,,0,0,,1,2,0.50,4,2014,2013-14,div1,Delgado,delgadocommunitycollege,jordancaillouethju8,Jordan Caillouet
-Mar 5,home,vs. ASA New York,W,2-1,2,2,3,0,1,1,,,0,,,,,,,,2,1,,,2,,3,2014,2013-14,div1,Delgado,delgadocommunitycollege,jordancaillouethju8,Jordan Caillouet
-Mar 5,home,vs. ASA New York,W,3-2,3,3,3,0,1,,,,0,,,,,,,,1,0,,,2,,3,2014,2013-14,div1,Delgado,delgadocommunitycollege,jordancaillouethju8,Jordan Caillouet
-Mar 7,home,vs. Mott,W,3-0,3,3,2,0,0,,,,1,,,,,,1,,0,0,,,,,3,2014,2013-14,div1,Delgado,delgadocommunitycollege,jordancaillouethju8,Jordan Caillouet
-Mar 7,home,vs. Mott,W,10-0,10,10,4,1,2,2,,,2,,,,,,,,4,2,,,,,4,2014,2013-14,div1,Delgado,delgadocommunitycollege,jordancaillouethju8,Jordan Caillouet
-Mar 8,away,RCSJ Gloucester,W,4-1,4,4,4,0,0,,,,0,,2,,,,,,0,0,,1,1,1.00,4,2014,2013-14,div1,Delgado,delgadocommunitycollege,jordancaillouethju8,Jordan Caillouet
-Mar 8,home,vs. Monroe CC,W,15-2,15,15,3,0,0,,,,0,1,,,,,,,0,0,,,3,,4,2014,2013-14,div1,Delgado,delgadocommunitycollege,jordancaillouethju8,Jordan Caillouet
-Mar 15,home,St. Charles,W,3-2,3,3,2,0,0,,,,0,1,1,,,,,,0,0,,,1,,3,2014,2013-14,div1,Delgado,delgadocommunitycollege,jordancaillouethju8,Jordan Caillouet
-Mar 15,home,St. Charles,W,10-0,10,10,3,2,2,,,,1,,,,,,,,2,0,1,1,,,3,2014,2013-14,div1,Delgado,delgadocommunitycollege,jordancaillouethju8,Jordan Caillouet
-Mar 16,home,St. Charles,W,14-1,14,14,3,1,2,1,,,1,,1,,,,,,3,1,,,,,3,2014,2013-14,div1,Delgado,delgadocommunitycollege,jordancaillouethju8,Jordan Caillouet
-Mar 22,away,LSU Eunice,L,8-0,8,8,4,0,1,,,,0,,,,,,,,1,0,,,,,4,2014,2013-14,div1,Delgado,delgadocommunitycollege,jordancaillouethju8,Jordan Caillouet
-Mar 22,away,LSU Eunice,W,8-6,8,8,4,0,0,,,,0,,2,,,,,,0,0,,,,,4,2014,2013-14,div1,Delgado,delgadocommunitycollege,jordancaillouethju8,Jordan Caillouet
-Mar 23,away,LSU Eunice,L,11-8,11,11,4,2,2,1,,,3,1,,,,,,,3,1,,,,,5,2014,2013-14,div1,Delgado,delgadocommunitycollege,jordancaillouethju8,Jordan Caillouet
-Mar 29,away,Baton Rouge,L,5-1,5,5,2,0,0,,,,0,1,,,,,,,0,0,,,2,,3,2014,2013-14,div1,Delgado,delgadocommunitycollege,jordancaillouethju8,Jordan Caillouet
-Mar 29,away,Baton Rouge,L,4-3,4,4,4,0,1,,,,0,,,,,,,,1,0,,,,,4,2014,2013-14,div1,Delgado,delgadocommunitycollege,jordancaillouethju8,Jordan Caillouet
-Mar 30,away,Baton Rouge,W,10-8,10,10,5,0,0,,,,0,,1,,,,,,0,0,,1,3,0.33,5,2014,2013-14,div1,Delgado,delgadocommunitycollege,jordancaillouethju8,Jordan Caillouet
-Apr 5,away,Meridian,W,7-1,7,7,3,0,0,,,,0,1,,,,,,,0,0,,,2,,4,2014,2013-14,div1,Delgado,delgadocommunitycollege,jordancaillouethju8,Jordan Caillouet
-Apr 5,away,Meridian,L,7-6,7,7,2,1,0,,,,0,1,,,,1,,,0,0,,,2,,4,2014,2013-14,div1,Delgado,delgadocommunitycollege,jordancaillouethju8,Jordan Caillouet
-Apr 9,away,Coastal Alabama - Bay Minette,L,9-2,9,9,3,0,0,,,,0,,,,,,,,0,0,,1,2,0.50,3,2014,2013-14,div1,Delgado,delgadocommunitycollege,jordancaillouethju8,Jordan Caillouet
-Apr 9,away,Coastal Alabama - Bay Minette,L,7-6,7,7,1,0,0,,,,0,,,,,,,,0,0,,,,,1,2014,2013-14,div1,Delgado,delgadocommunitycollege,jordancaillouethju8,Jordan Caillouet
-Apr 12,home,Meridian,W,10-0,10,10,2,3,2,,,,0,1,,,,,,,2,0,,,,,3,2014,2013-14,div1,Delgado,delgadocommunitycollege,jordancaillouethju8,Jordan Caillouet
-Apr 12,home,Meridian,W,8-1,8,8,2,1,1,,,,0,1,1,,,,,,1,0,,,,,3,2014,2013-14,div1,Delgado,delgadocommunitycollege,jordancaillouethju8,Jordan Caillouet
-Apr 13,home,Meridian,W,4-2,4,4,4,0,0,,,,0,,1,,,,,,0,0,,1,2,0.50,4,2014,2013-14,div1,Delgado,delgadocommunitycollege,jordancaillouethju8,Jordan Caillouet
-Apr 18,home,LSU Eunice,W,12-8,12,12,5,1,1,,,,1,,,,,,,,1,0,,3,1,3.00,5,2014,2013-14,div1,Delgado,delgadocommunitycollege,jordancaillouethju8,Jordan Caillouet
-Apr 18,home,LSU Eunice,W,10-4,10,10,4,1,1,,,,0,,2,,,,,,1,0,,,1,,4,2014,2013-14,div1,Delgado,delgadocommunitycollege,jordancaillouethju8,Jordan Caillouet
-Apr 19,home,LSU Eunice,W,10-2,10,10,4,0,1,,,,1,,,,,,,,1,0,,,3,,4,2014,2013-14,div1,Delgado,delgadocommunitycollege,jordancaillouethju8,Jordan Caillouet
-Apr 22,home,Coastal Alabama - Bay Minette,W,4-3,4,4,4,0,1,,,,2,,1,,,,,,1,0,,1,1,1.00,4,2014,2013-14,div1,Delgado,delgadocommunitycollege,jordancaillouethju8,Jordan Caillouet
-Apr 22,home,Coastal Alabama - Bay Minette,W,9-7,9,9,4,0,0,,,,2,,1,,,,,,0,0,,1,1,1.00,4,2014,2013-14,div1,Delgado,delgadocommunitycollege,jordancaillouethju8,Jordan Caillouet
-Apr 26,home,Baton Rouge,W,14-1,14,14,2,2,1,1,,,1,1,,,,,,,2,1,,,1,,3,2014,2013-14,div1,Delgado,delgadocommunitycollege,jordancaillouethju8,Jordan Caillouet
-Apr 26,home,Baton Rouge,L,5-3,5,5,3,0,1,,,,1,,,1,,,,,1,0,,,2,,3,2014,2013-14,div1,Delgado,delgadocommunitycollege,jordancaillouethju8,Jordan Caillouet
-Apr 27,home,Baton Rouge,W,10-5,10,10,5,2,5,2,,1,3,,,,,,,,10,3,,,,,5,2014,2013-14,div1,Delgado,delgadocommunitycollege,jordancaillouethju8,Jordan Caillouet
-May 10,home,vs. Baton Rouge,W,3-0,3,3,3,0,2,,,,0,,,,,,,,2,0,,1,,,3,2014,2013-14,div1,Delgado,delgadocommunitycollege,jordancaillouethju8,Jordan Caillouet
-May 10,home,Meridian,W,3-0,3,3,4,0,0,,,,0,,,,,,,,0,0,,1,2,0.50,4,2014,2013-14,div1,Delgado,delgadocommunitycollege,jordancaillouethju8,Jordan Caillouet
-May 11,away,Meridian,W,6-1,6,6,6,0,3,1,1,,3,,,,1,,,,6,2,,,3,,6,2014,2013-14,div1,Delgado,delgadocommunitycollege,jordancaillouethju8,Jordan Caillouet
-May 16,home,vs. Seminole State (OK),W,4-3,4,4,4,1,1,1,,,1,,,,,,,,2,1,,,,,4,2014,2013-14,div1,Delgado,delgadocommunitycollege,jordancaillouethju8,Jordan Caillouet
-May 16,away,Crowder,W,3-2,3,3,4,0,1,,,,0,,1,,,,,,1,0,,,,,4,2014,2013-14,div1,Delgado,delgadocommunitycollege,jordancaillouethju8,Jordan Caillouet
-May 17,home,vs. Seminole State (OK),L,7-3,7,7,3,2,1,,,,0,1,,,,,,,1,0,,,,,4,2014,2013-14,div1,Delgado,delgadocommunitycollege,jordancaillouethju8,Jordan Caillouet
-May 18,home,vs. Seminole State (OK),W,7-6,7,7,5,1,2,,,,0,,,,,,,,2,0,,,,,5,2014,2013-14,div1,Delgado,delgadocommunitycollege,jordancaillouethju8,Jordan Caillouet
-May 24,home,vs. Chattahoochee Valley,L,8-6,8,8,3,1,1,,,1,3,2,1,,,,,,4,1,,1,,,5,2014,2013-14,div1,Delgado,delgadocommunitycollege,jordancaillouethju8,Jordan Caillouet
-May 25,home,vs. Cochise,L,9-5,9,9,4,0,0,,,,0,1,,,,,,,0,0,,1,3,0.33,5,2014,2013-14,div1,Delgado,delgadocommunitycollege,jordancaillouethju8,Jordan Caillouet
+date,location,opponent,result,score,team_score,opp_score,game_score_diff_x,game_win_loss_x,game_id_x,AB,R,H,2B,3B,HR,RBI,BB,K,SB,CS,game_score_diff_y,game_win_loss_y,game_id_y,HBP,SF,SH,TB,XBH,HDP,GO,FO,GO/FO,PA,season,njcaa_season,njcaa_division,team,team_id,player_id,player_name
+Feb 8,home,Bishop State,W,7-4,7,4,3.0,win,20140208_rpcl,3,0,1,,,,0,1,2,,,3.0,win,20140208_rpcl,,,,1,0,,,,,4,2014,2013-14,div1,Delgado,delgadocommunitycollege,jordancaillouethju8,Jordan Caillouet
+Feb 8,home,Bishop State,W,7-3,7,3,4.0,win,20140208_k1ze,3,0,2,,,,0,1,,,,4.0,win,20140208_k1ze,,,,2,0,,,1,,4,2014,2013-14,div1,Delgado,delgadocommunitycollege,jordancaillouethju8,Jordan Caillouet
+Feb 13,home,SUNY Adirondack,W,18-1,18,1,17.0,win,20140213_w188,2,2,0,,,,0,1,,,,17.0,win,20140213_w188,1,,,0,0,,1,,,4,2014,2013-14,div1,Delgado,delgadocommunitycollege,jordancaillouethju8,Jordan Caillouet
+Feb 14,home,Pensacola State,W,7-3,7,3,4.0,win,20140214_lxar,4,2,2,1,,,3,,,,,4.0,win,20140214_lxar,,,,3,1,,,2,,4,2014,2013-14,div1,Delgado,delgadocommunitycollege,jordancaillouethju8,Jordan Caillouet
+Feb 14,home,SUNY Adirondack,W,12-0,12,0,12.0,win,20140214_7ez5,3,2,2,,2,,0,,,,,12.0,win,20140214_7ez5,,,,6,2,,1,,,3,2014,2013-14,div1,Delgado,delgadocommunitycollege,jordancaillouethju8,Jordan Caillouet
+Feb 15,home,Pensacola State,W,6-5,6,5,1.0,win,20140215_rzay,4,2,1,,,,1,,,,,1.0,win,20140215_rzay,,,,1,0,,3,,,4,2014,2013-14,div1,Delgado,delgadocommunitycollege,jordancaillouethju8,Jordan Caillouet
+Feb 15,home,SUNY Adirondack,W,9-2,9,2,7.0,win,20140215_h7vb,3,0,1,,,,1,,,,,7.0,win,20140215_h7vb,,,,1,0,,,2,,3,2014,2013-14,div1,Delgado,delgadocommunitycollege,jordancaillouethju8,Jordan Caillouet
+Feb 16,home,Pensacola State,W,14-4,14,4,10.0,win,20140216_p0c6,3,2,1,,,,0,1,,,,10.0,win,20140216_p0c6,,,,1,0,,1,1,1.00,4,2014,2013-14,div1,Delgado,delgadocommunitycollege,jordancaillouethju8,Jordan Caillouet
+Feb 20,home,DuPage,W,12-1,12,1,11.0,win,20140220_fpn6,2,0,0,,,,0,1,1,1,,11.0,win,20140220_fpn6,,,,0,0,,1,,,3,2014,2013-14,div1,Delgado,delgadocommunitycollege,jordancaillouethju8,Jordan Caillouet
+Feb 21,home,Copiah-Lincoln,W,7-3,7,3,4.0,win,20140221_i7a9,3,0,0,,,,0,,1,,,4.0,win,20140221_i7a9,,,,0,0,,1,,,3,2014,2013-14,div1,Delgado,delgadocommunitycollege,jordancaillouethju8,Jordan Caillouet
+Feb 21,home,DuPage,W,22-1,22,1,21.0,win,20140221_goho,2,2,1,,,1,2,1,,,,21.0,win,20140221_goho,,1,,4,1,,,2,,4,2014,2013-14,div1,Delgado,delgadocommunitycollege,jordancaillouethju8,Jordan Caillouet
+Feb 22,home,DuPage,W,14-4,14,4,10.0,win,20140222_kfmz,1,2,0,,,,0,1,,,,10.0,win,20140222_kfmz,1,,,0,0,,,1,,3,2014,2013-14,div1,Delgado,delgadocommunitycollege,jordancaillouethju8,Jordan Caillouet
+Mar 15,home,St. Charles,W,3-2,3,2,1.0,win,20140315_99sx,2,0,0,,,,0,1,1,,,1.0,win,20140315_99sx,,,,0,0,,,1,,3,2014,2013-14,div1,Delgado,delgadocommunitycollege,jordancaillouethju8,Jordan Caillouet
+Mar 15,home,St. Charles,W,10-0,10,0,10.0,win,20140315_rkf0,3,2,2,,,,1,,,,,10.0,win,20140315_rkf0,,,,2,0,1,1,,,3,2014,2013-14,div1,Delgado,delgadocommunitycollege,jordancaillouethju8,Jordan Caillouet
+Mar 16,home,St. Charles,W,14-1,14,1,13.0,win,20140316_l13m,3,1,2,1,,,1,,1,,,13.0,win,20140316_l13m,,,,3,1,,,,,3,2014,2013-14,div1,Delgado,delgadocommunitycollege,jordancaillouethju8,Jordan Caillouet
+Apr 12,home,Meridian,W,10-0,10,0,10.0,win,20140412_7wnb,2,3,2,,,,0,1,,,,10.0,win,20140412_7wnb,,,,2,0,,,,,3,2014,2013-14,div1,Delgado,delgadocommunitycollege,jordancaillouethju8,Jordan Caillouet
+Apr 12,home,Meridian,W,8-1,8,1,7.0,win,20140412_2t8x,2,1,1,,,,0,1,1,,,7.0,win,20140412_2t8x,,,,1,0,,,,,3,2014,2013-14,div1,Delgado,delgadocommunitycollege,jordancaillouethju8,Jordan Caillouet
+Apr 13,home,Meridian,W,4-2,4,2,2.0,win,20140413_4rvu,4,0,0,,,,0,,1,,,2.0,win,20140413_4rvu,,,,0,0,,1,2,0.50,4,2014,2013-14,div1,Delgado,delgadocommunitycollege,jordancaillouethju8,Jordan Caillouet
+Apr 18,home,LSU Eunice,W,12-8,12,8,4.0,win,20140418_s33u,5,1,1,,,,1,,,,,4.0,win,20140418_s33u,,,,1,0,,3,1,3.00,5,2014,2013-14,div1,Delgado,delgadocommunitycollege,jordancaillouethju8,Jordan Caillouet
+Apr 18,home,LSU Eunice,W,10-4,10,4,6.0,win,20140418_dknl,4,1,1,,,,0,,2,,,6.0,win,20140418_dknl,,,,1,0,,,1,,4,2014,2013-14,div1,Delgado,delgadocommunitycollege,jordancaillouethju8,Jordan Caillouet
+Apr 19,home,LSU Eunice,W,10-2,10,2,8.0,win,20140419_ruab,4,0,1,,,,1,,,,,8.0,win,20140419_ruab,,,,1,0,,,3,,4,2014,2013-14,div1,Delgado,delgadocommunitycollege,jordancaillouethju8,Jordan Caillouet
+Apr 22,home,Coastal Alabama - Bay Minette,W,4-3,4,3,1.0,win,20140422_x3em,4,0,1,,,,2,,1,,,1.0,win,20140422_x3em,,,,1,0,,1,1,1.00,4,2014,2013-14,div1,Delgado,delgadocommunitycollege,jordancaillouethju8,Jordan Caillouet
+Apr 22,home,Coastal Alabama - Bay Minette,W,9-7,9,7,2.0,win,20140422_lha4,4,0,0,,,,2,,1,,,2.0,win,20140422_lha4,,,,0,0,,1,1,1.00,4,2014,2013-14,div1,Delgado,delgadocommunitycollege,jordancaillouethju8,Jordan Caillouet
+Apr 26,home,Baton Rouge,W,14-1,14,1,13.0,win,20140426_8vfi,2,2,1,1,,,1,1,,,,13.0,win,20140426_8vfi,,,,2,1,,,1,,3,2014,2013-14,div1,Delgado,delgadocommunitycollege,jordancaillouethju8,Jordan Caillouet
+Apr 26,home,Baton Rouge,L,5-3,5,3,2.0,win,20140426_o4t0,3,0,1,,,,1,,,1,,2.0,win,20140426_o4t0,,,,1,0,,,2,,3,2014,2013-14,div1,Delgado,delgadocommunitycollege,jordancaillouethju8,Jordan Caillouet
+Apr 27,home,Baton Rouge,W,10-5,10,5,5.0,win,20140427_tbf9,5,2,5,2,,1,3,,,,,5.0,win,20140427_tbf9,,,,10,3,,,,,5,2014,2013-14,div1,Delgado,delgadocommunitycollege,jordancaillouethju8,Jordan Caillouet
+May 10,home,Meridian,W,3-0,3,0,3.0,win,20140510_kz6e,4,0,0,,,,0,,,,,3.0,win,20140510_kz6e,,,,0,0,,1,2,0.50,4,2014,2013-14,div1,Delgado,delgadocommunitycollege,jordancaillouethju8,Jordan Caillouet

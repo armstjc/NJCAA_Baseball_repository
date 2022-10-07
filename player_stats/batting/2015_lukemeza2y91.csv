@@ -1,57 +1,32 @@
-date,location,opponent,result,score,team_score,opp_score,AB,R,H,2B,3B,HR,RBI,BB,K,SB,CS,HBP,SF,SH,TB,XBH,HDP,GO,FO,GO/FO,PA,season,njcaa_season,njcaa_division,team,team_id,player_id,player_name
-Jan 31,home,McLennan,L,9-5,9,9,2,0,1,,,,0,,,,,,,,1,0,,,,,2,2015,2014-15,div1,Wharton County,whartoncountyjuniorcollege,lukemeza2y91,Luke Meza
-Feb 4,home,Temple,W,4-3,4,4,3,0,0,,,,0,,,,1,,,,0,0,,,,,3,2015,2014-15,div1,Wharton County,whartoncountyjuniorcollege,lukemeza2y91,Luke Meza
-Feb 4,home,Temple,L,12-2,12,12,,,,,,,,,,,,,,,,,,,,,,2015,2014-15,div1,Wharton County,whartoncountyjuniorcollege,lukemeza2y91,Luke Meza
-Feb 7,home,Angelina,W,8-6,8,8,2,0,0,,,,0,1,1,,,,,,0,0,,,,,3,2015,2014-15,div1,Wharton County,whartoncountyjuniorcollege,lukemeza2y91,Luke Meza
-Feb 7,home,Angelina,W,4-1,4,4,,,,,,,,,,,,,,,,,,,,,,2015,2014-15,div1,Wharton County,whartoncountyjuniorcollege,lukemeza2y91,Luke Meza
-Feb 9,away,McLennan,L,13-3,13,13,1,0,1,,,,0,,,,,,,,1,0,,,,,1,2015,2014-15,div1,Wharton County,whartoncountyjuniorcollege,lukemeza2y91,Luke Meza
-Feb 14,home,Coastal Bend,W,9-2,9,9,3,1,1,,,,0,,,,,,,,1,0,,,,,3,2015,2014-15,div1,Wharton County,whartoncountyjuniorcollege,lukemeza2y91,Luke Meza
-Feb 14,home,Coastal Bend,W,9-2,9,9,3,1,1,,,,0,,,,,,,,,,,,,,,2015,2014-15,div1,Wharton County,whartoncountyjuniorcollege,lukemeza2y91,Luke Meza
-Feb 14,home,Coastal Bend,W,9-2,9,9,,,,,,,,,,,,,,,1,0,,,,,3,2015,2014-15,div1,Wharton County,whartoncountyjuniorcollege,lukemeza2y91,Luke Meza
-Feb 14,home,Coastal Bend,W,9-2,9,9,,,,,,,,,,,,,,,,,,,,,,2015,2014-15,div1,Wharton County,whartoncountyjuniorcollege,lukemeza2y91,Luke Meza
-Feb 20,away,San Jacinto,L,6-4,6,6,3,0,0,,,,0,,1,1,,,,,0,0,,,1,,3,2015,2014-15,div1,Wharton County,whartoncountyjuniorcollege,lukemeza2y91,Luke Meza
-Feb 20,away,San Jacinto,L,16-4,16,16,2,0,1,,,,0,1,,,,,,,1,0,,1,,,3,2015,2014-15,div1,Wharton County,whartoncountyjuniorcollege,lukemeza2y91,Luke Meza
-Feb 21,home,San Jacinto,L,7-4,7,7,1,0,0,,,,0,2,,,,,,,0,0,,,1,,3,2015,2014-15,div1,Wharton County,whartoncountyjuniorcollege,lukemeza2y91,Luke Meza
-Feb 21,home,San Jacinto,L,13-2,13,13,3,0,0,,,,0,,2,,,,,,0,0,,,1,,3,2015,2014-15,div1,Wharton County,whartoncountyjuniorcollege,lukemeza2y91,Luke Meza
-Feb 27,away,Laredo,L,6-5,6,6,3,1,1,,,,0,,,1,1,,,,1,0,,,,,3,2015,2014-15,div1,Wharton County,whartoncountyjuniorcollege,lukemeza2y91,Luke Meza
-Feb 27,away,Laredo,L,12-8,12,12,4,2,2,,1,,0,,1,,,1,,,4,1,,,,,5,2015,2014-15,div1,Wharton County,whartoncountyjuniorcollege,lukemeza2y91,Luke Meza
-Feb 28,away,Laredo,W,9-3,9,9,3,1,2,,,,1,1,1,,,,,,2,0,,,,,4,2015,2014-15,div1,Wharton County,whartoncountyjuniorcollege,lukemeza2y91,Luke Meza
-Feb 28,away,Laredo,W,12-6,12,12,2,0,0,,,,0,1,,,,,,,0,0,,,,,3,2015,2014-15,div1,Wharton County,whartoncountyjuniorcollege,lukemeza2y91,Luke Meza
-Mar 4,home,Blinn,W,5-4,5,5,3,0,0,,,,0,,2,,,1,,,0,0,,,,,4,2015,2014-15,div1,Wharton County,whartoncountyjuniorcollege,lukemeza2y91,Luke Meza
-Mar 4,home,Blinn,L,6-2,6,6,,,,,,,,,,,,,,,,,,,,,,2015,2014-15,div1,Wharton County,whartoncountyjuniorcollege,lukemeza2y91,Luke Meza
-Mar 6,away,Blinn,L,3-1,3,3,3,0,1,1,,,1,,,,,,,,2,1,,,,,3,2015,2014-15,div1,Wharton County,whartoncountyjuniorcollege,lukemeza2y91,Luke Meza
-Mar 6,away,Blinn,W,8-3,8,8,2,0,0,,,,0,2,,1,1,,,,0,0,,,,,4,2015,2014-15,div1,Wharton County,whartoncountyjuniorcollege,lukemeza2y91,Luke Meza
-Mar 7,home,South Suburban,W,13-5,13,13,5,1,0,,,,0,,,,,,,,0,0,1,,,,5,2015,2014-15,div1,Wharton County,whartoncountyjuniorcollege,lukemeza2y91,Luke Meza
-Mar 13,home,Galveston,L,7-0,7,7,3,0,1,1,,,0,,1,,,,,,2,1,,,,,3,2015,2014-15,div1,Wharton County,whartoncountyjuniorcollege,lukemeza2y91,Luke Meza
-Mar 13,home,Galveston,L,11-8,11,11,5,1,1,1,,,2,2,1,1,2,,,,2,1,,,,,7,2015,2014-15,div1,Wharton County,whartoncountyjuniorcollege,lukemeza2y91,Luke Meza
-Mar 14,away,Galveston,W,7-0,7,7,3,1,1,,,,0,,1,,,,,,1,0,,,,,3,2015,2014-15,div1,Wharton County,whartoncountyjuniorcollege,lukemeza2y91,Luke Meza
-Mar 14,away,Galveston,L,12-4,12,12,5,1,2,,,,0,,1,,,,,,2,0,,,,,5,2015,2014-15,div1,Wharton County,whartoncountyjuniorcollege,lukemeza2y91,Luke Meza
-Mar 16,away,Angelina,W,7-5,7,7,5,2,2,2,,,1,,,,,,,,4,2,,,,,5,2015,2014-15,div1,Wharton County,whartoncountyjuniorcollege,lukemeza2y91,Luke Meza
-Mar 19,home,Alvin,W,4-3,4,4,4,0,1,,,,0,1,2,1,,,,,1,0,1,,,,5,2015,2014-15,div1,Wharton County,whartoncountyjuniorcollege,lukemeza2y91,Luke Meza
-Mar 19,home,Alvin,L,8-2,8,8,4,0,0,,,,0,,1,,,,,,0,0,,,,,4,2015,2014-15,div1,Wharton County,whartoncountyjuniorcollege,lukemeza2y91,Luke Meza
-Mar 21,away,Alvin,W,5-4,5,5,2,0,2,,,,0,1,,,,,,,2,0,,,,,3,2015,2014-15,div1,Wharton County,whartoncountyjuniorcollege,lukemeza2y91,Luke Meza
-Mar 21,away,Alvin,L,4-1,4,4,3,0,0,,,,0,,1,,,,,,0,0,,,,,3,2015,2014-15,div1,Wharton County,whartoncountyjuniorcollege,lukemeza2y91,Luke Meza
-Mar 26,home,San Jacinto,L,4-3,4,4,3,0,0,,,,0,,2,,,,,,0,0,,1,,,3,2015,2014-15,div1,Wharton County,whartoncountyjuniorcollege,lukemeza2y91,Luke Meza
-Mar 26,home,San Jacinto,W,10-9,10,10,3,1,2,,,1,1,1,1,,,,,,5,1,,,,,4,2015,2014-15,div1,Wharton County,whartoncountyjuniorcollege,lukemeza2y91,Luke Meza
-Mar 28,away,San Jacinto,L,7-2,7,7,3,0,0,,,,0,,1,,,,,,0,0,,,1,,3,2015,2014-15,div1,Wharton County,whartoncountyjuniorcollege,lukemeza2y91,Luke Meza
-Mar 28,away,San Jacinto,L,8-7,8,8,1,0,0,,,,0,,1,,,,,,0,0,,,,,1,2015,2014-15,div1,Wharton County,whartoncountyjuniorcollege,lukemeza2y91,Luke Meza
-Mar 31,home,LSU Eunice,W,11-6,11,11,4,0,1,,,,1,,1,,,,1,,1,0,,,,,5,2015,2014-15,div1,Wharton County,whartoncountyjuniorcollege,lukemeza2y91,Luke Meza
-Apr 2,home,vs. Coastal Bend,W,4-2,4,4,2,0,0,,,,0,2,1,,,,,,0,0,,,,,4,2015,2014-15,div1,Wharton County,whartoncountyjuniorcollege,lukemeza2y91,Luke Meza
-Apr 2,home,vs. Coastal Bend,W,3-2,3,3,2,0,1,,,,0,,1,,,1,,,1,0,,,,,3,2015,2014-15,div1,Wharton County,whartoncountyjuniorcollege,lukemeza2y91,Luke Meza
-Apr 6,home,vs. Baton Rouge,W,9-5,9,9,4,0,0,,,,1,1,,,,,,,0,0,,,,,5,2015,2014-15,div1,Wharton County,whartoncountyjuniorcollege,lukemeza2y91,Luke Meza
-Apr 10,home,Laredo,W,4-3,4,4,2,0,0,,,,0,,,,,,,,0,0,,,,,2,2015,2014-15,div1,Wharton County,whartoncountyjuniorcollege,lukemeza2y91,Luke Meza
-Apr 10,home,Laredo,W,6-2,6,6,2,0,1,1,,,1,1,,,,,1,,2,1,,,,,4,2015,2014-15,div1,Wharton County,whartoncountyjuniorcollege,lukemeza2y91,Luke Meza
-Apr 11,home,Laredo,L,2-1,2,2,3,0,1,1,,,0,,,,,,,,2,1,,,,,3,2015,2014-15,div1,Wharton County,whartoncountyjuniorcollege,lukemeza2y91,Luke Meza
-Apr 11,home,Laredo,W,10-2,10,10,4,1,2,,,,0,,,,,1,,,2,0,,,,,5,2015,2014-15,div1,Wharton County,whartoncountyjuniorcollege,lukemeza2y91,Luke Meza
-Apr 15,away,Blinn,L,5-2,5,5,3,0,0,,,,0,,,,,,,,0,0,1,,,,3,2015,2014-15,div1,Wharton County,whartoncountyjuniorcollege,lukemeza2y91,Luke Meza
-Apr 15,away,Blinn,W,5-2,5,5,1,0,0,,,,0,,,,,,,,0,0,,,,,1,2015,2014-15,div1,Wharton County,whartoncountyjuniorcollege,lukemeza2y91,Luke Meza
-Apr 19,home,Blinn,L,2-1,2,2,3,0,1,,,,0,,,,,,,1,1,0,,,,,4,2015,2014-15,div1,Wharton County,whartoncountyjuniorcollege,lukemeza2y91,Luke Meza
-Apr 19,home,Blinn,W,5-4,5,5,0,0,0,,,,0,,,,,1,,,0,0,,,,,1,2015,2014-15,div1,Wharton County,whartoncountyjuniorcollege,lukemeza2y91,Luke Meza
-Apr 23,away,Galveston,L,5-0,5,5,2,0,0,,,,0,,1,,,,,,0,0,,,,,2,2015,2014-15,div1,Wharton County,whartoncountyjuniorcollege,lukemeza2y91,Luke Meza
-Apr 23,away,Galveston,L,10-4,10,10,4,0,1,,,,0,,,,,,,,1,0,,,,,4,2015,2014-15,div1,Wharton County,whartoncountyjuniorcollege,lukemeza2y91,Luke Meza
-Apr 25,home,Galveston,W,6-5,6,6,4,0,1,,,,0,1,1,,,,,,1,0,,,,,5,2015,2014-15,div1,Wharton County,whartoncountyjuniorcollege,lukemeza2y91,Luke Meza
-Apr 25,home,Galveston,L,1-0,1,1,2,0,0,,,,0,,,,,1,,,0,0,,,,,3,2015,2014-15,div1,Wharton County,whartoncountyjuniorcollege,lukemeza2y91,Luke Meza
-Apr 30,away,Alvin,L,3-2,3,3,3,0,0,,,,0,,1,,,,,,0,0,,,,,3,2015,2014-15,div1,Wharton County,whartoncountyjuniorcollege,lukemeza2y91,Luke Meza
-Apr 30,away,Alvin,L,8-4,8,8,2,1,1,,,,1,,,,,1,1,,1,0,,,,,4,2015,2014-15,div1,Wharton County,whartoncountyjuniorcollege,lukemeza2y91,Luke Meza
-May 2,home,Alvin,W,3-0,3,3,3,2,2,,,,0,,,1,,,,,2,0,,,,,3,2015,2014-15,div1,Wharton County,whartoncountyjuniorcollege,lukemeza2y91,Luke Meza
-May 2,home,Alvin,W,5-2,5,5,4,0,2,,,,0,,1,,,,,,2,0,1,,,,4,2015,2014-15,div1,Wharton County,whartoncountyjuniorcollege,lukemeza2y91,Luke Meza
+date,location,opponent,result,score,team_score,opp_score,game_score_diff_x,game_win_loss_x,game_id_x,AB,R,H,2B,3B,HR,RBI,BB,K,SB,CS,game_score_diff_y,game_win_loss_y,game_id_y,HBP,SF,SH,TB,XBH,HDP,GO,FO,GO/FO,PA,season,njcaa_season,njcaa_division,team,team_id,player_id,player_name
+Jan 31,home,McLennan,L,9-5,9,5,4.0,win,20150131_7gs8,2,0,1,,,,0,,,,,4.0,win,20150131_7gs8,,,,1,0,,,,,2,2015,2014-15,div1,Wharton County,whartoncountyjuniorcollege,lukemeza2y91,Luke Meza
+Feb 4,home,Temple,W,4-3,4,3,1.0,win,20150204_xh3j,3,0,0,,,,0,,,,1,1.0,win,20150204_xh3j,,,,0,0,,,,,3,2015,2014-15,div1,Wharton County,whartoncountyjuniorcollege,lukemeza2y91,Luke Meza
+Feb 4,home,Temple,L,12-2,12,2,10.0,win,,,,,,,,,,,,,10.0,win,,,,,,,,,,,,2015,2014-15,div1,Wharton County,whartoncountyjuniorcollege,lukemeza2y91,Luke Meza
+Feb 7,home,Angelina,W,8-6,8,6,2.0,win,20150207_kp2l,2,0,0,,,,0,1,1,,,2.0,win,20150207_kp2l,,,,0,0,,,,,3,2015,2014-15,div1,Wharton County,whartoncountyjuniorcollege,lukemeza2y91,Luke Meza
+Feb 7,home,Angelina,W,4-1,4,1,3.0,win,,,,,,,,,,,,,3.0,win,,,,,,,,,,,,2015,2014-15,div1,Wharton County,whartoncountyjuniorcollege,lukemeza2y91,Luke Meza
+Feb 14,home,Coastal Bend,W,9-2,9,2,7.0,win,20150214_2zx1,3,1,1,,,,0,,,,,7.0,win,20150214_2zx1,,,,1,0,,,,,3,2015,2014-15,div1,Wharton County,whartoncountyjuniorcollege,lukemeza2y91,Luke Meza
+Feb 14,home,Coastal Bend,W,9-2,9,2,7.0,win,20150214_2zx1,3,1,1,,,,0,,,,,7.0,win,,,,,,,,,,,,2015,2014-15,div1,Wharton County,whartoncountyjuniorcollege,lukemeza2y91,Luke Meza
+Feb 14,home,Coastal Bend,W,9-2,9,2,7.0,win,,,,,,,,,,,,,7.0,win,20150214_2zx1,,,,1,0,,,,,3,2015,2014-15,div1,Wharton County,whartoncountyjuniorcollege,lukemeza2y91,Luke Meza
+Feb 14,home,Coastal Bend,W,9-2,9,2,7.0,win,,,,,,,,,,,,,7.0,win,,,,,,,,,,,,2015,2014-15,div1,Wharton County,whartoncountyjuniorcollege,lukemeza2y91,Luke Meza
+Feb 21,home,San Jacinto,L,7-4,7,4,3.0,win,20150221_29ac,1,0,0,,,,0,2,,,,3.0,win,20150221_29ac,,,,0,0,,,1,,3,2015,2014-15,div1,Wharton County,whartoncountyjuniorcollege,lukemeza2y91,Luke Meza
+Feb 21,home,San Jacinto,L,13-2,13,2,11.0,win,20150221_x5nw,3,0,0,,,,0,,2,,,11.0,win,20150221_x5nw,,,,0,0,,,1,,3,2015,2014-15,div1,Wharton County,whartoncountyjuniorcollege,lukemeza2y91,Luke Meza
+Mar 4,home,Blinn,W,5-4,5,4,1.0,win,20150304_x33l,3,0,0,,,,0,,2,,,1.0,win,20150304_x33l,1,,,0,0,,,,,4,2015,2014-15,div1,Wharton County,whartoncountyjuniorcollege,lukemeza2y91,Luke Meza
+Mar 4,home,Blinn,L,6-2,6,2,4.0,win,,,,,,,,,,,,,4.0,win,,,,,,,,,,,,2015,2014-15,div1,Wharton County,whartoncountyjuniorcollege,lukemeza2y91,Luke Meza
+Mar 7,home,South Suburban,W,13-5,13,5,8.0,win,20150307_7530,5,1,0,,,,0,,,,,8.0,win,20150307_7530,,,,0,0,1,,,,5,2015,2014-15,div1,Wharton County,whartoncountyjuniorcollege,lukemeza2y91,Luke Meza
+Mar 13,home,Galveston,L,7-0,7,0,7.0,win,20150313_nbcv,3,0,1,1,,,0,,1,,,7.0,win,20150313_nbcv,,,,2,1,,,,,3,2015,2014-15,div1,Wharton County,whartoncountyjuniorcollege,lukemeza2y91,Luke Meza
+Mar 13,home,Galveston,L,11-8,11,8,3.0,win,20150313_0jfa,5,1,1,1,,,2,2,1,1,2,3.0,win,20150313_0jfa,,,,2,1,,,,,7,2015,2014-15,div1,Wharton County,whartoncountyjuniorcollege,lukemeza2y91,Luke Meza
+Mar 19,home,Alvin,W,4-3,4,3,1.0,win,20150319_dj1a,4,0,1,,,,0,1,2,1,,1.0,win,20150319_dj1a,,,,1,0,1,,,,5,2015,2014-15,div1,Wharton County,whartoncountyjuniorcollege,lukemeza2y91,Luke Meza
+Mar 19,home,Alvin,L,8-2,8,2,6.0,win,20150319_4ctm,4,0,0,,,,0,,1,,,6.0,win,20150319_4ctm,,,,0,0,,,,,4,2015,2014-15,div1,Wharton County,whartoncountyjuniorcollege,lukemeza2y91,Luke Meza
+Mar 26,home,San Jacinto,L,4-3,4,3,1.0,win,20150326_b1sk,3,0,0,,,,0,,2,,,1.0,win,20150326_b1sk,,,,0,0,,1,,,3,2015,2014-15,div1,Wharton County,whartoncountyjuniorcollege,lukemeza2y91,Luke Meza
+Mar 26,home,San Jacinto,W,10-9,10,9,1.0,win,20150326_4b84,3,1,2,,,1,1,1,1,,,1.0,win,20150326_4b84,,,,5,1,,,,,4,2015,2014-15,div1,Wharton County,whartoncountyjuniorcollege,lukemeza2y91,Luke Meza
+Mar 31,home,LSU Eunice,W,11-6,11,6,5.0,win,20150331_6pex,4,0,1,,,,1,,1,,,5.0,win,20150331_6pex,,1,,1,0,,,,,5,2015,2014-15,div1,Wharton County,whartoncountyjuniorcollege,lukemeza2y91,Luke Meza
+Apr 10,home,Laredo,W,4-3,4,3,1.0,win,20150410_ktvg,2,0,0,,,,0,,,,,1.0,win,20150410_ktvg,,,,0,0,,,,,2,2015,2014-15,div1,Wharton County,whartoncountyjuniorcollege,lukemeza2y91,Luke Meza
+Apr 10,home,Laredo,W,6-2,6,2,4.0,win,20150410_3nug,2,0,1,1,,,1,1,,,,4.0,win,20150410_3nug,,1,,2,1,,,,,4,2015,2014-15,div1,Wharton County,whartoncountyjuniorcollege,lukemeza2y91,Luke Meza
+Apr 11,home,Laredo,L,2-1,2,1,1.0,win,20150411_i7ip,3,0,1,1,,,0,,,,,1.0,win,20150411_i7ip,,,,2,1,,,,,3,2015,2014-15,div1,Wharton County,whartoncountyjuniorcollege,lukemeza2y91,Luke Meza
+Apr 11,home,Laredo,W,10-2,10,2,8.0,win,20150411_c107,4,1,2,,,,0,,,,,8.0,win,20150411_c107,1,,,2,0,,,,,5,2015,2014-15,div1,Wharton County,whartoncountyjuniorcollege,lukemeza2y91,Luke Meza
+Apr 19,home,Blinn,L,2-1,2,1,1.0,win,20150419_nada,3,0,1,,,,0,,,,,1.0,win,20150419_nada,,,1,1,0,,,,,4,2015,2014-15,div1,Wharton County,whartoncountyjuniorcollege,lukemeza2y91,Luke Meza
+Apr 19,home,Blinn,W,5-4,5,4,1.0,win,20150419_619z,0,0,0,,,,0,,,,,1.0,win,20150419_619z,1,,,0,0,,,,,1,2015,2014-15,div1,Wharton County,whartoncountyjuniorcollege,lukemeza2y91,Luke Meza
+Apr 25,home,Galveston,W,6-5,6,5,1.0,win,20150425_dpy6,4,0,1,,,,0,1,1,,,1.0,win,20150425_dpy6,,,,1,0,,,,,5,2015,2014-15,div1,Wharton County,whartoncountyjuniorcollege,lukemeza2y91,Luke Meza
+Apr 25,home,Galveston,L,1-0,1,0,1.0,win,20150425_dneg,2,0,0,,,,0,,,,,1.0,win,20150425_dneg,1,,,0,0,,,,,3,2015,2014-15,div1,Wharton County,whartoncountyjuniorcollege,lukemeza2y91,Luke Meza
+May 2,home,Alvin,W,3-0,3,0,3.0,win,20150502_av6p,3,2,2,,,,0,,,1,,3.0,win,20150502_av6p,,,,2,0,,,,,3,2015,2014-15,div1,Wharton County,whartoncountyjuniorcollege,lukemeza2y91,Luke Meza
+May 2,home,Alvin,W,5-2,5,2,3.0,win,20150502_ik4k,4,0,2,,,,0,,1,,,3.0,win,20150502_ik4k,,,,2,0,1,,,,4,2015,2014-15,div1,Wharton County,whartoncountyjuniorcollege,lukemeza2y91,Luke Meza
