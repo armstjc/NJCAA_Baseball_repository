@@ -42,7 +42,7 @@ def mergeRostersDivThree():
     df.to_csv("rosters/div3_rosters.csv",index=False)
 
 def mergeBattingStats(division="div1"):
-    f = f"gamelogs/batting"
+    f = f"player_stats/batting"
     df = mergeFilesMultithreaded(f)
     max_season = df['season'].max()
     min_season = df['season'].min()
@@ -55,13 +55,13 @@ def mergeBattingStats(division="div1"):
         partThree = s_df.iloc[2*len_s_df:3*len_s_df]
         partFour = s_df.iloc[3*len_s_df:]
 
-        partOne.to_csv(f'gamelogs/{i}_batting_01.csv',index=False)
-        partTwo.to_csv(f'gamelogs/{i}_batting_02.csv',index=False)
-        partThree.to_csv(f'gamelogs/{i}_batting_03.csv',index=False)
-        partFour.to_csv(f'gamelogs/{i}_batting_04.csv',index=False)
+        partOne.to_csv(f'player_stats/{i}_batting_01.csv',index=False)
+        partTwo.to_csv(f'player_stats/{i}_batting_02.csv',index=False)
+        partThree.to_csv(f'player_stats/{i}_batting_03.csv',index=False)
+        partFour.to_csv(f'player_stats/{i}_batting_04.csv',index=False)
 
 def mergePitchingStats(division="div1"):
-    f = f"gamelogs/pitching"
+    f = f"player_stats/pitching"
     df = mergeFilesMultithreaded(f)
     max_season = df['season'].max()
     min_season = df['season'].min()
@@ -74,13 +74,13 @@ def mergePitchingStats(division="div1"):
         partThree = s_df.iloc[2*len_s_df:3*len_s_df]
         partFour = s_df.iloc[3*len_s_df:]
 
-        partOne.to_csv(f'gamelogs/{i}_pitching_01.csv',index=False)
-        partTwo.to_csv(f'gamelogs/{i}_pitching_02.csv',index=False)
-        partThree.to_csv(f'gamelogs/{i}_pitching_03.csv',index=False)
-        partFour.to_csv(f'gamelogs/{i}_pitching_04.csv',index=False)
+        partOne.to_csv(f'player_stats/{i}_pitching_01.csv',index=False)
+        partTwo.to_csv(f'player_stats/{i}_pitching_02.csv',index=False)
+        partThree.to_csv(f'player_stats/{i}_pitching_03.csv',index=False)
+        partFour.to_csv(f'player_stats/{i}_pitching_04.csv',index=False)
 
 def mergeFieldingStats(division="div1"):
-    f = f"gamelogs/fielding"
+    f = f"player_stats/fielding"
     df = mergeFilesMultithreaded(f)
     max_season = df['season'].max()
     min_season = df['season'].min()
@@ -93,10 +93,10 @@ def mergeFieldingStats(division="div1"):
         partThree = s_df.iloc[2*len_s_df:3*len_s_df]
         partFour = s_df.iloc[3*len_s_df:]
 
-        partOne.to_csv(f'gamelogs/{i}_fielding_01.csv',index=False)
-        partTwo.to_csv(f'gamelogs/{i}_fielding_02.csv',index=False)
-        partThree.to_csv(f'gamelogs/{i}_fielding_03.csv',index=False)
-        partFour.to_csv(f'gamelogs/{i}_fielding_04.csv',index=False)
+        partOne.to_csv(f'player_stats/{i}_fielding_01.csv',index=False)
+        partTwo.to_csv(f'player_stats/{i}_fielding_02.csv',index=False)
+        partThree.to_csv(f'player_stats/{i}_fielding_03.csv',index=False)
+        partFour.to_csv(f'player_stats/{i}_fielding_04.csv',index=False)
 
 def main():
     mergeRostersDivOne()

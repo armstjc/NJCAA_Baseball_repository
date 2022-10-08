@@ -1,60 +1,27 @@
-date,location,opponent,result,score,team_score,opp_score,AB,R,H,2B,3B,HR,RBI,BB,K,SB,CS,HBP,SF,SH,TB,XBH,HDP,GO,FO,GO/FO,PA,season,njcaa_season,njcaa_division,team,team_id,player_id,player_name
-Feb 9,away,Jackson State,W,3-0,3,3,4,0,2,,,,1,,2,,,,,,2,0,,,,,4,2019,2018-19,div1,Wabash Valley,wabashvalleycollege,mannygonzalez8cb7,Manny Gonzalez
-Feb 9,away,Jackson State,W,15-0,15,15,4,1,0,,,,0,,1,1,,,,,0,0,,,,,4,2019,2018-19,div1,Wabash Valley,wabashvalleycollege,mannygonzalez8cb7,Manny Gonzalez
-Feb 16,away,Wallace State,L,6-3,6,6,4,1,1,,,,0,1,1,,,,,,1,0,,,,,5,2019,2018-19,div1,Wabash Valley,wabashvalleycollege,mannygonzalez8cb7,Manny Gonzalez
-Feb 16,away,Wallace State,W,9-0,9,9,2,2,1,,,,0,2,,,,,,,1,0,,,,,4,2019,2018-19,div1,Wabash Valley,wabashvalleycollege,mannygonzalez8cb7,Manny Gonzalez
-Feb 18,home,vs. Volunteer State,W,7-3,7,7,3,0,0,,,,1,,1,,,,1,,0,0,,,,,4,2019,2018-19,div1,Wabash Valley,wabashvalleycollege,mannygonzalez8cb7,Manny Gonzalez
-Feb 18,home,vs. Volunteer State,W,6-3,6,6,3,0,0,,,,1,,2,,,,1,,0,0,,,,,4,2019,2018-19,div1,Wabash Valley,wabashvalleycollege,mannygonzalez8cb7,Manny Gonzalez
-Feb 26,away,Jefferson (MO),W,20-0,20,20,4,0,0,,,,0,,1,,,,,,0,0,,,,,4,2019,2018-19,div1,Wabash Valley,wabashvalleycollege,mannygonzalez8cb7,Manny Gonzalez
-Feb 27,home,vs. Dyersburg State,W,10-3,10,10,2,1,0,,,,1,1,,,,,,,0,0,,,,,3,2019,2018-19,div1,Wabash Valley,wabashvalleycollege,mannygonzalez8cb7,Manny Gonzalez
-Feb 27,home,vs. Dyersburg State,W,5-1,5,5,0,1,0,,,,0,1,,,,,,,0,0,,,,,1,2019,2018-19,div1,Wabash Valley,wabashvalleycollege,mannygonzalez8cb7,Manny Gonzalez
-Mar 1,home,Moraine Valley,W,9-1,9,9,,,,,,,,,,,,,,,,,,,,,,2019,2018-19,div1,Wabash Valley,wabashvalleycollege,mannygonzalez8cb7,Manny Gonzalez
-Mar 1,home,Moraine Valley,W,15-3,15,15,,,,,,,,,,,,,,,,,,,,,,2019,2018-19,div1,Wabash Valley,wabashvalleycollege,mannygonzalez8cb7,Manny Gonzalez
-Mar 2,home,vs. South Suburban,W,5-1,5,5,0,0,0,,,,0,1,,,,,,,0,0,,,,,1,2019,2018-19,div1,Wabash Valley,wabashvalleycollege,mannygonzalez8cb7,Manny Gonzalez
-Mar 11,home,Lincoln Trail,W,4-2,4,4,2,0,0,,,,0,,,,,1,,,0,0,,,,,3,2019,2018-19,div1,Wabash Valley,wabashvalleycollege,mannygonzalez8cb7,Manny Gonzalez
-Mar 11,home,Lincoln Trail,W,10-2,10,10,1,0,0,,,,0,,1,,,,,,0,0,,,,,1,2019,2018-19,div1,Wabash Valley,wabashvalleycollege,mannygonzalez8cb7,Manny Gonzalez
-Mar 12,away,Lincoln Trail,W,7-4,7,7,1,1,0,,,,0,,1,,,,,,0,0,,,,,1,2019,2018-19,div1,Wabash Valley,wabashvalleycollege,mannygonzalez8cb7,Manny Gonzalez
-Mar 15,away,Southwestern Illinois,W,27-3,27,27,1,1,1,,,1,4,1,,,,,,,4,1,,,,,2,2019,2018-19,div1,Wabash Valley,wabashvalleycollege,mannygonzalez8cb7,Manny Gonzalez
-Mar 16,home,Southwestern Illinois,W,20-5,20,20,4,1,0,,,,0,1,2,1,,,,,0,0,,,,,5,2019,2018-19,div1,Wabash Valley,wabashvalleycollege,mannygonzalez8cb7,Manny Gonzalez
-Mar 16,home,Southwestern Illinois,W,11-1,11,11,,,,,,,,,,,,,,,,,,,,,,2019,2018-19,div1,Wabash Valley,wabashvalleycollege,mannygonzalez8cb7,Manny Gonzalez
-Mar 19,away,Brescia,W,18-4,18,18,0,1,0,,,,0,3,,,,,,,0,0,,,,,3,2019,2018-19,div1,Wabash Valley,wabashvalleycollege,mannygonzalez8cb7,Manny Gonzalez
-Mar 22,away,Frontier,W,23-5,23,23,0,0,0,,,,1,1,,,,,1,,0,0,,,,,2,2019,2018-19,div1,Wabash Valley,wabashvalleycollege,mannygonzalez8cb7,Manny Gonzalez
-Mar 23,home,Frontier,W,5-4,5,5,0,0,0,,,,0,1,,,,,,,0,0,,,,,1,2019,2018-19,div1,Wabash Valley,wabashvalleycollege,mannygonzalez8cb7,Manny Gonzalez
-Mar 23,home,Frontier,W,12-2,12,12,1,1,0,,,,0,1,,,,,,,0,0,,,,,2,2019,2018-19,div1,Wabash Valley,wabashvalleycollege,mannygonzalez8cb7,Manny Gonzalez
-Mar 27,home,Lake Land,W,19-2,19,19,1,0,0,,,,0,,,,,,,,0,0,,,,,1,2019,2018-19,div1,Wabash Valley,wabashvalleycollege,mannygonzalez8cb7,Manny Gonzalez
-Mar 28,home,Kaskaskia,W,18-6,18,18,0,1,0,,,,0,1,,,,,,,0,0,,,,,1,2019,2018-19,div1,Wabash Valley,wabashvalleycollege,mannygonzalez8cb7,Manny Gonzalez
-Apr 1,away,Kaskaskia,W,7-5,7,7,1,0,0,,,,0,,,,,,,,0,0,,,,,1,2019,2018-19,div1,Wabash Valley,wabashvalleycollege,mannygonzalez8cb7,Manny Gonzalez
-Apr 1,away,Kaskaskia,W,5-2,5,5,,,,,,,,,,,,,,,,,,,,,,2019,2018-19,div1,Wabash Valley,wabashvalleycollege,mannygonzalez8cb7,Manny Gonzalez
-Apr 2,home,Lake Land,W,22-12,22,22,0,2,0,,,,0,,,,,1,,,0,0,,,,,1,2019,2018-19,div1,Wabash Valley,wabashvalleycollege,mannygonzalez8cb7,Manny Gonzalez
-Apr 2,home,Lake Land,W,7-0,7,7,1,1,1,,,1,2,,,,,,,,4,1,,,,,1,2019,2018-19,div1,Wabash Valley,wabashvalleycollege,mannygonzalez8cb7,Manny Gonzalez
-Apr 5,home,Shawnee,W,18-0,18,18,2,1,1,,,,0,,1,,,1,,,1,0,,,,,3,2019,2018-19,div1,Wabash Valley,wabashvalleycollege,mannygonzalez8cb7,Manny Gonzalez
-Apr 6,away,Shawnee,W,10-1,10,10,,,,,,,,,,,,,,,,,,,,,,2019,2018-19,div1,Wabash Valley,wabashvalleycollege,mannygonzalez8cb7,Manny Gonzalez
-Apr 6,away,Shawnee,W,19-3,19,19,3,2,2,,,1,2,,,,,,,,5,1,,,,,3,2019,2018-19,div1,Wabash Valley,wabashvalleycollege,mannygonzalez8cb7,Manny Gonzalez
-Apr 9,home,Volunteer State,W,11-5,11,11,1,0,0,,,,0,,1,,,,,,0,0,,,,,1,2019,2018-19,div1,Wabash Valley,wabashvalleycollege,mannygonzalez8cb7,Manny Gonzalez
-Apr 11,home,Rend Lake,W,13-3,13,13,,,,,,,,,,,,,,,,,,,,,,2019,2018-19,div1,Wabash Valley,wabashvalleycollege,mannygonzalez8cb7,Manny Gonzalez
-Apr 13,away,Rend Lake,W,19-5,19,19,1,0,0,,,,0,,,,,,,,0,0,,,,,1,2019,2018-19,div1,Wabash Valley,wabashvalleycollege,mannygonzalez8cb7,Manny Gonzalez
-Apr 13,away,Rend Lake,W,16-0,16,16,3,1,0,,,,0,1,2,,,,,,0,0,,,,,4,2019,2018-19,div1,Wabash Valley,wabashvalleycollege,mannygonzalez8cb7,Manny Gonzalez
-Apr 16,away,Olney Central,W,12-11,12,12,0,0,0,,,,0,1,,,,,,,0,0,,,,,1,2019,2018-19,div1,Wabash Valley,wabashvalleycollege,mannygonzalez8cb7,Manny Gonzalez
-Apr 17,home,Southeastern Illinois,W,16-5,16,16,1,1,1,,,,0,,,,,,,,1,0,,,,,1,2019,2018-19,div1,Wabash Valley,wabashvalleycollege,mannygonzalez8cb7,Manny Gonzalez
-Apr 17,home,Southeastern Illinois,W,9-0,9,9,1,0,0,,,,0,,1,,,,,,0,0,,,,,1,2019,2018-19,div1,Wabash Valley,wabashvalleycollege,mannygonzalez8cb7,Manny Gonzalez
-Apr 22,away,Southeastern Illinois,W,13-1,13,13,,,,,,,,,,,,,,,,,,,,,,2019,2018-19,div1,Wabash Valley,wabashvalleycollege,mannygonzalez8cb7,Manny Gonzalez
-Apr 23,home,Olney Central,W,11-1,11,11,,,,,,,,,,,,,,,,,,,,,,2019,2018-19,div1,Wabash Valley,wabashvalleycollege,mannygonzalez8cb7,Manny Gonzalez
-Apr 23,home,Olney Central,W,2-1,2,2,,,,,,,,,,,,,,,,,,,,,,2019,2018-19,div1,Wabash Valley,wabashvalleycollege,mannygonzalez8cb7,Manny Gonzalez
-Apr 27,home,vs. Spoon River,W,13-2,13,13,,,,,,,,,,,,,,,,,,,,,,2019,2018-19,div1,Wabash Valley,wabashvalleycollege,mannygonzalez8cb7,Manny Gonzalez
-Apr 27,home,vs. Spoon River,W,12-0,12,12,2,1,0,,,,0,,,1,,1,,,0,0,,,,,3,2019,2018-19,div1,Wabash Valley,wabashvalleycollege,mannygonzalez8cb7,Manny Gonzalez
-Apr 28,home,vs. Spoon River,W,11-0,11,11,1,0,0,,,,0,,1,,,,,,0,0,,,,,1,2019,2018-19,div1,Wabash Valley,wabashvalleycollege,mannygonzalez8cb7,Manny Gonzalez
-Apr 28,home,vs. Spoon River,W,12-0,12,12,1,1,0,,,,0,,1,,,,,,0,0,,,,,1,2019,2018-19,div1,Wabash Valley,wabashvalleycollege,mannygonzalez8cb7,Manny Gonzalez
-Apr 29,away,Vincennes,W,12-2,12,12,,,,,,,,,,,,,,,,,,,,,,2019,2018-19,div1,Wabash Valley,wabashvalleycollege,mannygonzalez8cb7,Manny Gonzalez
-Apr 30,home,Parkland,W,15-5,15,15,,,,,,,,,,,,,,,,,,,,,,2019,2018-19,div1,Wabash Valley,wabashvalleycollege,mannygonzalez8cb7,Manny Gonzalez
-May 5,away,John A. Logan,W,13-6,13,13,1,0,0,,,,0,,1,,,,,,0,0,,,,,1,2019,2018-19,div1,Wabash Valley,wabashvalleycollege,mannygonzalez8cb7,Manny Gonzalez
-May 5,away,John A. Logan,W,9-7,9,9,,,,,,,,,,,,,,,,,,,,,,2019,2018-19,div1,Wabash Valley,wabashvalleycollege,mannygonzalez8cb7,Manny Gonzalez
-May 6,home,John A. Logan,W,11-2,11,11,,,,,,,,,,,,,,,,,,,,,,2019,2018-19,div1,Wabash Valley,wabashvalleycollege,mannygonzalez8cb7,Manny Gonzalez
-May 10,home,Frontier,W,11-2,11,11,,,,,,,,,,,,,,,,,,,,,,2019,2018-19,div1,Wabash Valley,wabashvalleycollege,mannygonzalez8cb7,Manny Gonzalez
-May 11,home,Kaskaskia,W,5-3,5,5,1,0,0,,,,0,,,,,,,,0,0,,,,,1,2019,2018-19,div1,Wabash Valley,wabashvalleycollege,mannygonzalez8cb7,Manny Gonzalez
-May 13,home,Olney Central,L,7-4,7,7,,,,,,,,,,,,,,,,,,,,,,2019,2018-19,div1,Wabash Valley,wabashvalleycollege,mannygonzalez8cb7,Manny Gonzalez
-May 13,home,Olney Central,W,9-1,9,9,,,,,,,,,,,,,,,,,,,,,,2019,2018-19,div1,Wabash Valley,wabashvalleycollege,mannygonzalez8cb7,Manny Gonzalez
-May 17,home,Rend Lake,W,14-4,14,14,,,,,,,,,,,,,,,,,,,,,,2019,2018-19,div1,Wabash Valley,wabashvalleycollege,mannygonzalez8cb7,Manny Gonzalez
-May 18,home,vs. Iowa Western,L,8-7,8,8,,,,,,,,,,,,,,,,,,,,,,2019,2018-19,div1,Wabash Valley,wabashvalleycollege,mannygonzalez8cb7,Manny Gonzalez
-May 19,home,vs. Triton,W,14-4,14,14,4,1,1,,,,0,,1,,,,,,1,0,,,,,4,2019,2018-19,div1,Wabash Valley,wabashvalleycollege,mannygonzalez8cb7,Manny Gonzalez
-May 20,home,vs. Iowa Western,W,11-8,11,11,1,1,1,,,1,3,,,,,,,,4,1,,,,,1,2019,2018-19,div1,Wabash Valley,wabashvalleycollege,mannygonzalez8cb7,Manny Gonzalez
-May 20,home,vs. Iowa Western,L,10-5,10,10,,,,,,,,,,,,,,,,,,,,,,2019,2018-19,div1,Wabash Valley,wabashvalleycollege,mannygonzalez8cb7,Manny Gonzalez
+date,location,opponent,result,score,team_score,opp_score,game_score_diff_x,game_win_loss_x,game_id_x,AB,R,H,2B,3B,HR,RBI,BB,K,SB,CS,game_score_diff_y,game_win_loss_y,game_id_y,HBP,SF,SH,TB,XBH,HDP,GO,FO,GO/FO,PA,season,njcaa_season,njcaa_division,team,team_id,player_id,player_name
+Mar 1,home,Moraine Valley,W,9-1,9,1,8.0,win,,,,,,,,,,,,,8.0,win,,,,,,,,,,,,2019,2018-19,div1,Wabash Valley,wabashvalleycollege,mannygonzalez8cb7,Manny Gonzalez
+Mar 1,home,Moraine Valley,W,15-3,15,3,12.0,win,,,,,,,,,,,,,12.0,win,,,,,,,,,,,,2019,2018-19,div1,Wabash Valley,wabashvalleycollege,mannygonzalez8cb7,Manny Gonzalez
+Mar 11,home,Lincoln Trail,W,4-2,4,2,2.0,win,20190311_bvtl,2,0,0,,,,0,,,,,2.0,win,20190311_bvtl,1,,,0,0,,,,,3,2019,2018-19,div1,Wabash Valley,wabashvalleycollege,mannygonzalez8cb7,Manny Gonzalez
+Mar 11,home,Lincoln Trail,W,10-2,10,2,8.0,win,20190311_bp5w,1,0,0,,,,0,,1,,,8.0,win,20190311_bp5w,,,,0,0,,,,,1,2019,2018-19,div1,Wabash Valley,wabashvalleycollege,mannygonzalez8cb7,Manny Gonzalez
+Mar 16,home,Southwestern Illinois,W,20-5,20,5,15.0,win,20190316_xevf,4,1,0,,,,0,1,2,1,,15.0,win,20190316_xevf,,,,0,0,,,,,5,2019,2018-19,div1,Wabash Valley,wabashvalleycollege,mannygonzalez8cb7,Manny Gonzalez
+Mar 16,home,Southwestern Illinois,W,11-1,11,1,10.0,win,,,,,,,,,,,,,10.0,win,,,,,,,,,,,,2019,2018-19,div1,Wabash Valley,wabashvalleycollege,mannygonzalez8cb7,Manny Gonzalez
+Mar 23,home,Frontier,W,5-4,5,4,1.0,win,20190323_gb52,0,0,0,,,,0,1,,,,1.0,win,20190323_gb52,,,,0,0,,,,,1,2019,2018-19,div1,Wabash Valley,wabashvalleycollege,mannygonzalez8cb7,Manny Gonzalez
+Mar 23,home,Frontier,W,12-2,12,2,10.0,win,20190323_2nyq,1,1,0,,,,0,1,,,,10.0,win,20190323_2nyq,,,,0,0,,,,,2,2019,2018-19,div1,Wabash Valley,wabashvalleycollege,mannygonzalez8cb7,Manny Gonzalez
+Mar 27,home,Lake Land,W,19-2,19,2,17.0,win,20190327_8i9z,1,0,0,,,,0,,,,,17.0,win,20190327_8i9z,,,,0,0,,,,,1,2019,2018-19,div1,Wabash Valley,wabashvalleycollege,mannygonzalez8cb7,Manny Gonzalez
+Mar 28,home,Kaskaskia,W,18-6,18,6,12.0,win,20190328_wev1,0,1,0,,,,0,1,,,,12.0,win,20190328_wev1,,,,0,0,,,,,1,2019,2018-19,div1,Wabash Valley,wabashvalleycollege,mannygonzalez8cb7,Manny Gonzalez
+Apr 2,home,Lake Land,W,22-12,22,12,10.0,win,20190402_14mj,0,2,0,,,,0,,,,,10.0,win,20190402_14mj,1,,,0,0,,,,,1,2019,2018-19,div1,Wabash Valley,wabashvalleycollege,mannygonzalez8cb7,Manny Gonzalez
+Apr 2,home,Lake Land,W,7-0,7,0,7.0,win,20190402_419a,1,1,1,,,1,2,,,,,7.0,win,20190402_419a,,,,4,1,,,,,1,2019,2018-19,div1,Wabash Valley,wabashvalleycollege,mannygonzalez8cb7,Manny Gonzalez
+Apr 5,home,Shawnee,W,18-0,18,0,18.0,win,20190405_5rxt,2,1,1,,,,0,,1,,,18.0,win,20190405_5rxt,1,,,1,0,,,,,3,2019,2018-19,div1,Wabash Valley,wabashvalleycollege,mannygonzalez8cb7,Manny Gonzalez
+Apr 9,home,Volunteer State,W,11-5,11,5,6.0,win,20190409_iw5i,1,0,0,,,,0,,1,,,6.0,win,20190409_iw5i,,,,0,0,,,,,1,2019,2018-19,div1,Wabash Valley,wabashvalleycollege,mannygonzalez8cb7,Manny Gonzalez
+Apr 11,home,Rend Lake,W,13-3,13,3,10.0,win,,,,,,,,,,,,,10.0,win,,,,,,,,,,,,2019,2018-19,div1,Wabash Valley,wabashvalleycollege,mannygonzalez8cb7,Manny Gonzalez
+Apr 17,home,Southeastern Illinois,W,16-5,16,5,11.0,win,20190417_51xa,1,1,1,,,,0,,,,,11.0,win,20190417_51xa,,,,1,0,,,,,1,2019,2018-19,div1,Wabash Valley,wabashvalleycollege,mannygonzalez8cb7,Manny Gonzalez
+Apr 17,home,Southeastern Illinois,W,9-0,9,0,9.0,win,20190417_ha25,1,0,0,,,,0,,1,,,9.0,win,20190417_ha25,,,,0,0,,,,,1,2019,2018-19,div1,Wabash Valley,wabashvalleycollege,mannygonzalez8cb7,Manny Gonzalez
+Apr 23,home,Olney Central,W,11-1,11,1,10.0,win,,,,,,,,,,,,,10.0,win,,,,,,,,,,,,2019,2018-19,div1,Wabash Valley,wabashvalleycollege,mannygonzalez8cb7,Manny Gonzalez
+Apr 23,home,Olney Central,W,2-1,2,1,1.0,win,,,,,,,,,,,,,1.0,win,,,,,,,,,,,,2019,2018-19,div1,Wabash Valley,wabashvalleycollege,mannygonzalez8cb7,Manny Gonzalez
+Apr 30,home,Parkland,W,15-5,15,5,10.0,win,,,,,,,,,,,,,10.0,win,,,,,,,,,,,,2019,2018-19,div1,Wabash Valley,wabashvalleycollege,mannygonzalez8cb7,Manny Gonzalez
+May 6,home,John A. Logan,W,11-2,11,2,9.0,win,,,,,,,,,,,,,9.0,win,,,,,,,,,,,,2019,2018-19,div1,Wabash Valley,wabashvalleycollege,mannygonzalez8cb7,Manny Gonzalez
+May 10,home,Frontier,W,11-2,11,2,9.0,win,,,,,,,,,,,,,9.0,win,,,,,,,,,,,,2019,2018-19,div1,Wabash Valley,wabashvalleycollege,mannygonzalez8cb7,Manny Gonzalez
+May 11,home,Kaskaskia,W,5-3,5,3,2.0,win,20190511_mdwt,1,0,0,,,,0,,,,,2.0,win,20190511_mdwt,,,,0,0,,,,,1,2019,2018-19,div1,Wabash Valley,wabashvalleycollege,mannygonzalez8cb7,Manny Gonzalez
+May 13,home,Olney Central,L,7-4,7,4,3.0,win,,,,,,,,,,,,,3.0,win,,,,,,,,,,,,2019,2018-19,div1,Wabash Valley,wabashvalleycollege,mannygonzalez8cb7,Manny Gonzalez
+May 13,home,Olney Central,W,9-1,9,1,8.0,win,,,,,,,,,,,,,8.0,win,,,,,,,,,,,,2019,2018-19,div1,Wabash Valley,wabashvalleycollege,mannygonzalez8cb7,Manny Gonzalez
+May 17,home,Rend Lake,W,14-4,14,4,10.0,win,,,,,,,,,,,,,10.0,win,,,,,,,,,,,,2019,2018-19,div1,Wabash Valley,wabashvalleycollege,mannygonzalez8cb7,Manny Gonzalez
