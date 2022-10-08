@@ -1,27 +1,58 @@
-date,location,opponent,result,score,team_score,opp_score,game_score_diff_x,game_win_loss_x,game_id_x,AB,R,H,2B,3B,HR,RBI,BB,K,SB,CS,game_score_diff_y,game_win_loss_y,game_id_y,HBP,SF,SH,TB,XBH,HDP,GO,FO,GO/FO,PA,season,njcaa_season,njcaa_division,team,team_id,player_id,player_name
-Feb 2,home,Vernon,W,6-4,6,4,2.0,win,,,,,,,,,,,,,2.0,win,,,,,,,,,,,,2013,2012-13,div1,Frank Phillips,frankphillipscollege,larrenartisx5ak,Larren Artis
-Feb 2,home,Vernon,W,8-6,8,6,2.0,win,,,,,,,,,,,,,2.0,win,,,,,,,,,,,,2013,2012-13,div1,Frank Phillips,frankphillipscollege,larrenartisx5ak,Larren Artis
-Mar 3,home,Midland,W,14-4,14,4,10.0,win,,,,,,,,,,,,,10.0,win,,,,,,,,,,,,2013,2012-13,div1,Frank Phillips,frankphillipscollege,larrenartisx5ak,Larren Artis
-Mar 3,home,Midland,L,13-1,13,1,12.0,win,,,,,,,,,,,,,12.0,win,,,,,,,,,,,,2013,2012-13,div1,Frank Phillips,frankphillipscollege,larrenartisx5ak,Larren Artis
-Mar 4,home,Midland,L,10-4,10,4,6.0,win,,,,,,,,,,,,,6.0,win,,,,,,,,,,,,2013,2012-13,div1,Frank Phillips,frankphillipscollege,larrenartisx5ak,Larren Artis
-Mar 4,home,Midland,W,6-2,6,2,4.0,win,,,,,,,,,,,,,4.0,win,,,,,,,,,,,,2013,2012-13,div1,Frank Phillips,frankphillipscollege,larrenartisx5ak,Larren Artis
-Mar 8,home,El Paso,W,9-4,9,4,5.0,win,20130308_ovau,4,1,1,,1,,2,,,,,5.0,win,20130308_ovau,,,,3,1,,,,,4,2013,2012-13,div1,Frank Phillips,frankphillipscollege,larrenartisx5ak,Larren Artis
-Mar 8,home,El Paso,W,12-2,12,2,10.0,win,20130308_6xnf,4,1,2,1,,,2,,2,,,10.0,win,20130308_6xnf,,,,3,1,,,,,4,2013,2012-13,div1,Frank Phillips,frankphillipscollege,larrenartisx5ak,Larren Artis
-Mar 9,home,El Paso,W,5-1,5,1,4.0,win,20130309_qyo0,4,1,1,,,,0,,1,,,4.0,win,20130309_qyo0,,,,1,0,,,,,4,2013,2012-13,div1,Frank Phillips,frankphillipscollege,larrenartisx5ak,Larren Artis
-Mar 9,home,El Paso,W,14-3,14,3,11.0,win,20130309_fv3l,2,1,1,,,,1,2,,,,11.0,win,20130309_fv3l,,,,1,0,,,,,4,2013,2012-13,div1,Frank Phillips,frankphillipscollege,larrenartisx5ak,Larren Artis
-Mar 16,home,Lamar,W,6-3,6,3,3.0,win,,,,,,,,,,,,,3.0,win,,,,,,,,,,,,2013,2012-13,div1,Frank Phillips,frankphillipscollege,larrenartisx5ak,Larren Artis
-Mar 16,home,Lamar,W,2-1,2,1,1.0,win,,,,,,,,,,,,,1.0,win,,,,,,,,,,,,2013,2012-13,div1,Frank Phillips,frankphillipscollege,larrenartisx5ak,Larren Artis
-Mar 17,home,Lamar,L,6-5,6,5,1.0,win,,,,,,,,,,,,,1.0,win,,,,,,,,,,,,2013,2012-13,div1,Frank Phillips,frankphillipscollege,larrenartisx5ak,Larren Artis
-Mar 29,home,Luna,W,6-1,6,1,5.0,win,,,,,,,,,,,,,5.0,win,,,,,,,,,,,,2013,2012-13,div1,Frank Phillips,frankphillipscollege,larrenartisx5ak,Larren Artis
-Mar 29,home,Luna,L,7-3,7,3,4.0,win,,,,,,,,,,,,,4.0,win,,,,,,,,,,,,2013,2012-13,div1,Frank Phillips,frankphillipscollege,larrenartisx5ak,Larren Artis
-Mar 30,home,Luna,W,4-2,4,2,2.0,win,,,,,,,,,,,,,2.0,win,,,,,,,,,,,,2013,2012-13,div1,Frank Phillips,frankphillipscollege,larrenartisx5ak,Larren Artis
-Mar 30,home,Luna,W,13-5,13,5,8.0,win,,,,,,,,,,,,,8.0,win,,,,,,,,,,,,2013,2012-13,div1,Frank Phillips,frankphillipscollege,larrenartisx5ak,Larren Artis
-Apr 19,home,Odessa,L,7-5,7,5,2.0,win,,,,,,,,,,,,,2.0,win,,,,,,,,,,,,2013,2012-13,div1,Frank Phillips,frankphillipscollege,larrenartisx5ak,Larren Artis
-Apr 19,home,Odessa,W,12-4,12,4,8.0,win,,,,,,,,,,,,,8.0,win,,,,,,,,,,,,2013,2012-13,div1,Frank Phillips,frankphillipscollege,larrenartisx5ak,Larren Artis
-Apr 20,home,Odessa,W,8-5,8,5,3.0,win,,,,,,,,,,,,,3.0,win,,,,,,,,,,,,2013,2012-13,div1,Frank Phillips,frankphillipscollege,larrenartisx5ak,Larren Artis
-Apr 20,home,Odessa,L,14-6,14,6,8.0,win,,,,,,,,,,,,,8.0,win,,,,,,,,,,,,2013,2012-13,div1,Frank Phillips,frankphillipscollege,larrenartisx5ak,Larren Artis
-Apr 26,home,New Mexico Military,W,7-1,7,1,6.0,win,,,,,,,,,,,,,6.0,win,,,,,,,,,,,,2013,2012-13,div1,Frank Phillips,frankphillipscollege,larrenartisx5ak,Larren Artis
-Apr 26,home,New Mexico Military,W,15-1,15,1,14.0,win,,,,,,,,,,,,,14.0,win,,,,,,,,,,,,2013,2012-13,div1,Frank Phillips,frankphillipscollege,larrenartisx5ak,Larren Artis
-Apr 27,home,New Mexico Military,W,2-0,2,0,2.0,win,,,,,,,,,,,,,2.0,win,,,,,,,,,,,,2013,2012-13,div1,Frank Phillips,frankphillipscollege,larrenartisx5ak,Larren Artis
-Apr 27,home,New Mexico Military,W,11-1,11,1,10.0,win,,,,,,,,,,,,,10.0,win,,,,,,,,,,,,2013,2012-13,div1,Frank Phillips,frankphillipscollege,larrenartisx5ak,Larren Artis
-Apr 30,home,Clarendon,W,8-5,8,5,3.0,win,,,,,,,,,,,,,3.0,win,,,,,,,,,,,,2013,2012-13,div1,Frank Phillips,frankphillipscollege,larrenartisx5ak,Larren Artis
+date,location,opponent,result,score,team_score,opp_score,game_score_diff,game_win_loss,game_id,AB,R,H,2B,3B,HR,RBI,BB,K,SB,CS,HBP,SF,SH,TB,XBH,HDP,GO,FO,GO/FO,PA,season,njcaa_season,njcaa_division,team,team_id,player_id,player_name
+Feb 2,home,Vernon,W,6-4,6,4,2.0,win,,,,,,,,,,,,,,,,,,,,,,,2013,2012-13,div1,Frank Phillips,frankphillipscollege,larrenartisx5ak,Larren Artis
+Feb 2,home,Vernon,W,8-6,8,6,2.0,win,,,,,,,,,,,,,,,,,,,,,,,2013,2012-13,div1,Frank Phillips,frankphillipscollege,larrenartisx5ak,Larren Artis
+Feb 8,home,Galveston,W,5-1,5,1,4.0,win,,,,,,,,,,,,,,,,,,,,,,,2013,2012-13,div1,Frank Phillips,frankphillipscollege,larrenartisx5ak,Larren Artis
+Feb 8,home,Galveston,W,5-3,5,3,2.0,win,,,,,,,,,,,,,,,,,,,,,,,2013,2012-13,div1,Frank Phillips,frankphillipscollege,larrenartisx5ak,Larren Artis
+Feb 9,home,Alvin,W,2-1,2,1,1.0,win,,,,,,,,,,,,,,,,,,,,,,,2013,2012-13,div1,Frank Phillips,frankphillipscollege,larrenartisx5ak,Larren Artis
+Feb 9,home,Alvin,L,8-0,8,0,8.0,win,,,,,,,,,,,,,,,,,,,,,,,2013,2012-13,div1,Frank Phillips,frankphillipscollege,larrenartisx5ak,Larren Artis
+Feb 16,home,Vernon,W,14-5,14,5,9.0,win,,,,,,,,,,,,,,,,,,,,,,,2013,2012-13,div1,Frank Phillips,frankphillipscollege,larrenartisx5ak,Larren Artis
+Feb 16,home,Vernon,L,11-9,11,9,2.0,win,,,,,,,,,,,,,,,,,,,,,,,2013,2012-13,div1,Frank Phillips,frankphillipscollege,larrenartisx5ak,Larren Artis
+Feb 23,home,Lamar,L,8-1,8,1,7.0,win,,,,,,,,,,,,,,,,,,,,,,,2013,2012-13,div1,Frank Phillips,frankphillipscollege,larrenartisx5ak,Larren Artis
+Feb 23,home,Lamar,W,5-0,5,0,5.0,win,,,,,,,,,,,,,,,,,,,,,,,2013,2012-13,div1,Frank Phillips,frankphillipscollege,larrenartisx5ak,Larren Artis
+Mar 3,home,Midland,W,14-4,14,4,10.0,win,,,,,,,,,,,,,,,,,,,,,,,2013,2012-13,div1,Frank Phillips,frankphillipscollege,larrenartisx5ak,Larren Artis
+Mar 3,home,Midland,L,13-1,13,1,12.0,win,,,,,,,,,,,,,,,,,,,,,,,2013,2012-13,div1,Frank Phillips,frankphillipscollege,larrenartisx5ak,Larren Artis
+Mar 4,home,Midland,L,10-4,10,4,6.0,win,,,,,,,,,,,,,,,,,,,,,,,2013,2012-13,div1,Frank Phillips,frankphillipscollege,larrenartisx5ak,Larren Artis
+Mar 4,home,Midland,W,6-2,6,2,4.0,win,,,,,,,,,,,,,,,,,,,,,,,2013,2012-13,div1,Frank Phillips,frankphillipscollege,larrenartisx5ak,Larren Artis
+Mar 8,home,El Paso,W,9-4,9,4,5.0,win,20130308_ovau,4,1,1,,1,,2,,,,,,,,3,1,,,,,4,2013,2012-13,div1,Frank Phillips,frankphillipscollege,larrenartisx5ak,Larren Artis
+Mar 8,home,El Paso,W,12-2,12,2,10.0,win,20130308_6xnf,4,1,2,1,,,2,,2,,,,,,3,1,,,,,4,2013,2012-13,div1,Frank Phillips,frankphillipscollege,larrenartisx5ak,Larren Artis
+Mar 9,home,El Paso,W,5-1,5,1,4.0,win,20130309_qyo0,4,1,1,,,,0,,1,,,,,,1,0,,,,,4,2013,2012-13,div1,Frank Phillips,frankphillipscollege,larrenartisx5ak,Larren Artis
+Mar 9,home,El Paso,W,14-3,14,3,11.0,win,20130309_fv3l,2,1,1,,,,1,2,,,,,,,1,0,,,,,4,2013,2012-13,div1,Frank Phillips,frankphillipscollege,larrenartisx5ak,Larren Artis
+Mar 16,home,Lamar,W,6-3,6,3,3.0,win,,,,,,,,,,,,,,,,,,,,,,,2013,2012-13,div1,Frank Phillips,frankphillipscollege,larrenartisx5ak,Larren Artis
+Mar 16,home,Lamar,W,2-1,2,1,1.0,win,,,,,,,,,,,,,,,,,,,,,,,2013,2012-13,div1,Frank Phillips,frankphillipscollege,larrenartisx5ak,Larren Artis
+Mar 17,home,Lamar,L,6-5,6,5,1.0,win,,,,,,,,,,,,,,,,,,,,,,,2013,2012-13,div1,Frank Phillips,frankphillipscollege,larrenartisx5ak,Larren Artis
+Mar 20,home,Seward County,W,15-12,15,12,3.0,win,,,,,,,,,,,,,,,,,,,,,,,2013,2012-13,div1,Frank Phillips,frankphillipscollege,larrenartisx5ak,Larren Artis
+Mar 22,home,Western Texas,L,8-5,8,5,3.0,win,,,,,,,,,,,,,,,,,,,,,,,2013,2012-13,div1,Frank Phillips,frankphillipscollege,larrenartisx5ak,Larren Artis
+Mar 22,home,Western Texas,L,15-7,15,7,8.0,win,,,,,,,,,,,,,,,,,,,,,,,2013,2012-13,div1,Frank Phillips,frankphillipscollege,larrenartisx5ak,Larren Artis
+Mar 23,home,Western Texas,L,9-8,9,8,1.0,win,,,,,,,,,,,,,,,,,,,,,,,2013,2012-13,div1,Frank Phillips,frankphillipscollege,larrenartisx5ak,Larren Artis
+Mar 23,home,Western Texas,W,15-3,15,3,12.0,win,,,,,,,,,,,,,,,,,,,,,,,2013,2012-13,div1,Frank Phillips,frankphillipscollege,larrenartisx5ak,Larren Artis
+Mar 29,home,Luna,W,6-1,6,1,5.0,win,,,,,,,,,,,,,,,,,,,,,,,2013,2012-13,div1,Frank Phillips,frankphillipscollege,larrenartisx5ak,Larren Artis
+Mar 29,home,Luna,L,7-3,7,3,4.0,win,,,,,,,,,,,,,,,,,,,,,,,2013,2012-13,div1,Frank Phillips,frankphillipscollege,larrenartisx5ak,Larren Artis
+Mar 30,home,Luna,W,4-2,4,2,2.0,win,,,,,,,,,,,,,,,,,,,,,,,2013,2012-13,div1,Frank Phillips,frankphillipscollege,larrenartisx5ak,Larren Artis
+Mar 30,home,Luna,W,13-5,13,5,8.0,win,,,,,,,,,,,,,,,,,,,,,,,2013,2012-13,div1,Frank Phillips,frankphillipscollege,larrenartisx5ak,Larren Artis
+Apr 5,home,Howard (TX),W,9-6,9,6,3.0,win,,,,,,,,,,,,,,,,,,,,,,,2013,2012-13,div1,Frank Phillips,frankphillipscollege,larrenartisx5ak,Larren Artis
+Apr 5,home,Howard (TX),W,10-2,10,2,8.0,win,,,,,,,,,,,,,,,,,,,,,,,2013,2012-13,div1,Frank Phillips,frankphillipscollege,larrenartisx5ak,Larren Artis
+Apr 6,home,Howard (TX),L,5-4,5,4,1.0,win,,,,,,,,,,,,,,,,,,,,,,,2013,2012-13,div1,Frank Phillips,frankphillipscollege,larrenartisx5ak,Larren Artis
+Apr 6,home,Howard (TX),L,9-1,9,1,8.0,win,,,,,,,,,,,,,,,,,,,,,,,2013,2012-13,div1,Frank Phillips,frankphillipscollege,larrenartisx5ak,Larren Artis
+Apr 12,home,Clarendon,W,6-4,6,4,2.0,win,,,,,,,,,,,,,,,,,,,,,,,2013,2012-13,div1,Frank Phillips,frankphillipscollege,larrenartisx5ak,Larren Artis
+Apr 12,home,Clarendon,W,11-8,11,8,3.0,win,,,,,,,,,,,,,,,,,,,,,,,2013,2012-13,div1,Frank Phillips,frankphillipscollege,larrenartisx5ak,Larren Artis
+Apr 13,home,Clarendon,L,5-4,5,4,1.0,win,,,,,,,,,,,,,,,,,,,,,,,2013,2012-13,div1,Frank Phillips,frankphillipscollege,larrenartisx5ak,Larren Artis
+Apr 13,home,Clarendon,W,24-6,24,6,18.0,win,,,,,,,,,,,,,,,,,,,,,,,2013,2012-13,div1,Frank Phillips,frankphillipscollege,larrenartisx5ak,Larren Artis
+Apr 16,home,Seminole State (OK),L,9-4,9,4,5.0,win,,,,,,,,,,,,,,,,,,,,,,,2013,2012-13,div1,Frank Phillips,frankphillipscollege,larrenartisx5ak,Larren Artis
+Apr 16,home,Seminole State (OK),L,9-0,9,0,9.0,win,,,,,,,,,,,,,,,,,,,,,,,2013,2012-13,div1,Frank Phillips,frankphillipscollege,larrenartisx5ak,Larren Artis
+Apr 19,home,Odessa,L,7-5,7,5,2.0,win,,,,,,,,,,,,,,,,,,,,,,,2013,2012-13,div1,Frank Phillips,frankphillipscollege,larrenartisx5ak,Larren Artis
+Apr 19,home,Odessa,W,12-4,12,4,8.0,win,,,,,,,,,,,,,,,,,,,,,,,2013,2012-13,div1,Frank Phillips,frankphillipscollege,larrenartisx5ak,Larren Artis
+Apr 20,home,Odessa,W,8-5,8,5,3.0,win,,,,,,,,,,,,,,,,,,,,,,,2013,2012-13,div1,Frank Phillips,frankphillipscollege,larrenartisx5ak,Larren Artis
+Apr 20,home,Odessa,L,14-6,14,6,8.0,win,,,,,,,,,,,,,,,,,,,,,,,2013,2012-13,div1,Frank Phillips,frankphillipscollege,larrenartisx5ak,Larren Artis
+Apr 24,home,Western Texas,W,10-7,10,7,3.0,win,,,,,,,,,,,,,,,,,,,,,,,2013,2012-13,div1,Frank Phillips,frankphillipscollege,larrenartisx5ak,Larren Artis
+Apr 26,home,New Mexico Military,W,7-1,7,1,6.0,win,,,,,,,,,,,,,,,,,,,,,,,2013,2012-13,div1,Frank Phillips,frankphillipscollege,larrenartisx5ak,Larren Artis
+Apr 26,home,New Mexico Military,W,15-1,15,1,14.0,win,,,,,,,,,,,,,,,,,,,,,,,2013,2012-13,div1,Frank Phillips,frankphillipscollege,larrenartisx5ak,Larren Artis
+Apr 27,home,New Mexico Military,W,2-0,2,0,2.0,win,,,,,,,,,,,,,,,,,,,,,,,2013,2012-13,div1,Frank Phillips,frankphillipscollege,larrenartisx5ak,Larren Artis
+Apr 27,home,New Mexico Military,W,11-1,11,1,10.0,win,,,,,,,,,,,,,,,,,,,,,,,2013,2012-13,div1,Frank Phillips,frankphillipscollege,larrenartisx5ak,Larren Artis
+Apr 30,home,Clarendon,W,8-5,8,5,3.0,win,,,,,,,,,,,,,,,,,,,,,,,2013,2012-13,div1,Frank Phillips,frankphillipscollege,larrenartisx5ak,Larren Artis
+May 3,home,New Mexico,W,5-3,5,3,2.0,win,,,,,,,,,,,,,,,,,,,,,,,2013,2012-13,div1,Frank Phillips,frankphillipscollege,larrenartisx5ak,Larren Artis
+May 3,home,New Mexico,W,5-3,5,3,2.0,win,,,,,,,,,,,,,,,,,,,,,,,2013,2012-13,div1,Frank Phillips,frankphillipscollege,larrenartisx5ak,Larren Artis
+May 3,home,New Mexico,W,5-3,5,3,2.0,win,,,,,,,,,,,,,,,,,,,,,,,2013,2012-13,div1,Frank Phillips,frankphillipscollege,larrenartisx5ak,Larren Artis
+May 3,home,New Mexico,W,5-3,5,3,2.0,win,,,,,,,,,,,,,,,,,,,,,,,2013,2012-13,div1,Frank Phillips,frankphillipscollege,larrenartisx5ak,Larren Artis
+May 4,home,New Mexico,L,5-0,5,0,5.0,win,20130504_7kj4,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0.00,3,2013,2012-13,div1,Frank Phillips,frankphillipscollege,larrenartisx5ak,Larren Artis
+May 4,home,New Mexico,L,7-4,7,4,3.0,win,20130504_vsk4,3,0,2,0,0,0,0,2,0,0,0,0,0,0,2,0,0,0,1,0.00,5,2013,2012-13,div1,Frank Phillips,frankphillipscollege,larrenartisx5ak,Larren Artis
+May 11,home,Temple,L,6-4,6,4,2.0,win,,,,,,,,,,,,,,,,,,,,,,,2013,2012-13,div1,Frank Phillips,frankphillipscollege,larrenartisx5ak,Larren Artis

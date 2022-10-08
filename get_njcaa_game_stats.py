@@ -286,7 +286,7 @@ def getNjcaaD1BattingGamelogs(webdriverPath="./chromedriver_mac64_m1"):
 		#print(gamelog_ex_batting_df)
 
 		gamelog_batting_df = pd.merge(gamelog_batting_df,gamelog_ex_batting_df,
-			on=['date','location','opponent','result','score','team_score','opp_score'])
+			on=['date','location','opponent','result','score','team_score','opp_score','game_score_diff','game_win_loss','game_id'])
 		
 		gamelog_batting_df['season'] = game_season
 		gamelog_batting_df['njcaa_season'] = game_njcaa_season

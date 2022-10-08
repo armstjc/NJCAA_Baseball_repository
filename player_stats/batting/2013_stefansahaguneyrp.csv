@@ -1,14 +1,40 @@
-date,location,opponent,result,score,team_score,opp_score,game_score_diff_x,game_win_loss_x,game_id_x,AB,R,H,2B,3B,HR,RBI,BB,K,SB,CS,game_score_diff_y,game_win_loss_y,game_id_y,HBP,SF,SH,TB,XBH,HDP,GO,FO,GO/FO,PA,season,njcaa_season,njcaa_division,team,team_id,player_id,player_name
-Mar 15,home,Borough of Manhattan,W,13-6,13,6,7.0,win,20130315_egzq,3,0,0,,,,0,2,1,,,7.0,win,20130315_egzq,,,,0,0,,,,,5,2013,2012-13,div1,Globe Tech,globeinstituteoftechnology,stefansahaguneyrp,Stefan Sahagun
-Mar 22,home,Borough of Manhattan,W,11-1,11,1,10.0,win,,,,,,,,,,,,,10.0,win,,,,,,,,,,,,2013,2012-13,div1,Globe Tech,globeinstituteoftechnology,stefansahaguneyrp,Stefan Sahagun
-Mar 26,home,Westchester,L,3-2,3,2,1.0,win,20130326_k10d,4,0,0,,,,1,,,,,1.0,win,20130326_k10d,,,,0,0,,,,,4,2013,2012-13,div1,Globe Tech,globeinstituteoftechnology,stefansahaguneyrp,Stefan Sahagun
-Mar 30,home,Raritan Valley,W,3-1,3,1,2.0,win,20130330_dyp5,2,0,2,,,,1,,,2,,2.0,win,20130330_dyp5,,,,2,0,,,,,2,2013,2012-13,div1,Globe Tech,globeinstituteoftechnology,stefansahaguneyrp,Stefan Sahagun
-Mar 30,home,Raritan Valley,W,8-6,8,6,2.0,win,20130330_npkl,2,0,0,,,,0,1,,,,2.0,win,20130330_npkl,,,,0,0,,,,,3,2013,2012-13,div1,Globe Tech,globeinstituteoftechnology,stefansahaguneyrp,Stefan Sahagun
-Apr 8,home,Kingsborough,W,7-6,7,6,1.0,win,20130408_94q0,1,1,1,,,,0,1,,1,,1.0,win,20130408_94q0,,,,1,0,,,,,2,2013,2012-13,div1,Globe Tech,globeinstituteoftechnology,stefansahaguneyrp,Stefan Sahagun
-Apr 18,home,ASA New York,L,10-0,10,0,10.0,win,20130418_k5o7,3,0,0,,,,0,,2,,,10.0,win,20130418_k5o7,,,,0,0,,,1,,3,2013,2012-13,div1,Globe Tech,globeinstituteoftechnology,stefansahaguneyrp,Stefan Sahagun
-Apr 21,home,Sullivan County,L,15-9,15,9,6.0,win,20130421_c8db,3,1,0,,,,1,,1,,,6.0,win,20130421_c8db,1,,,0,0,,,,,4,2013,2012-13,div1,Globe Tech,globeinstituteoftechnology,stefansahaguneyrp,Stefan Sahagun
-Apr 21,home,Sullivan County,L,13-0,13,0,13.0,win,20130421_lnc9,2,0,1,,,,0,,,,,13.0,win,20130421_lnc9,,,,1,0,,,,,2,2013,2012-13,div1,Globe Tech,globeinstituteoftechnology,stefansahaguneyrp,Stefan Sahagun
-Apr 25,home,ASA New York,L,17-11,17,11,6.0,win,20130425_612j,4,1,1,1,,,0,,1,,,6.0,win,20130425_612j,,,1,2,1,,1,1,1.00,5,2013,2012-13,div1,Globe Tech,globeinstituteoftechnology,stefansahaguneyrp,Stefan Sahagun
-Apr 26,home,Monroe College,L,19-2,19,2,17.0,win,20130426_t4cf,2,0,0,,,,0,,,,,17.0,win,20130426_t4cf,,,,0,0,,,,,2,2013,2012-13,div1,Globe Tech,globeinstituteoftechnology,stefansahaguneyrp,Stefan Sahagun
-Apr 28,home,Kingsborough,W,15-11,15,11,4.0,win,,,,,,,,,,,,,4.0,win,,,,,,,,,,,,2013,2012-13,div1,Globe Tech,globeinstituteoftechnology,stefansahaguneyrp,Stefan Sahagun
-May 2,home,Bronx,W,13-5,13,5,8.0,win,20130502_8xs6,4,0,3,1,,,3,,,,1,8.0,win,20130502_8xs6,,,,4,1,,,,,4,2013,2012-13,div1,Globe Tech,globeinstituteoftechnology,stefansahaguneyrp,Stefan Sahagun
+date,location,opponent,result,score,team_score,opp_score,game_score_diff,game_win_loss,game_id,AB,R,H,2B,3B,HR,RBI,BB,K,SB,CS,HBP,SF,SH,TB,XBH,HDP,GO,FO,GO/FO,PA,season,njcaa_season,njcaa_division,team,team_id,player_id,player_name
+Mar 13,home,Westchester,L,10-2,10,2,8.0,win,20130313_yxfl,4,0,1,,,,0,,,,1,,,,1,0,,,,,4,2013,2012-13,div1,Globe Tech,globeinstituteoftechnology,stefansahaguneyrp,Stefan Sahagun
+Mar 15,home,Borough of Manhattan,W,13-6,13,6,7.0,win,20130315_egzq,3,0,0,,,,0,2,1,,,,,,0,0,,,,,5,2013,2012-13,div1,Globe Tech,globeinstituteoftechnology,stefansahaguneyrp,Stefan Sahagun
+Mar 16,home,Borough of Manhattan,W,15-2,15,2,13.0,win,20130316_wyrl,3,2,1,,,,3,2,,,,,,,1,0,,,,,5,2013,2012-13,div1,Globe Tech,globeinstituteoftechnology,stefansahaguneyrp,Stefan Sahagun
+Mar 16,home,Borough of Manhattan,W,17-3,17,3,14.0,win,,,,,,,,,,,,,,,,,,,,,,,2013,2012-13,div1,Globe Tech,globeinstituteoftechnology,stefansahaguneyrp,Stefan Sahagun
+Mar 18,home,Bronx,W,11-2,11,2,9.0,win,,,,,,,,,,,,,,,,,,,,,,,2013,2012-13,div1,Globe Tech,globeinstituteoftechnology,stefansahaguneyrp,Stefan Sahagun
+Mar 22,home,Borough of Manhattan,W,11-1,11,1,10.0,win,,,,,,,,,,,,,,,,,,,,,,,2013,2012-13,div1,Globe Tech,globeinstituteoftechnology,stefansahaguneyrp,Stefan Sahagun
+Mar 23,home,Bergen,L,10-1,10,1,9.0,win,20130323_bc45,2,0,1,,,,0,,1,,,1,,,1,0,,,,,3,2013,2012-13,div1,Globe Tech,globeinstituteoftechnology,stefansahaguneyrp,Stefan Sahagun
+Mar 23,home,Bergen,L,8-0,8,0,8.0,win,20130323_vwnu,2,0,0,,,,0,1,1,,,,,,0,0,,,,,3,2013,2012-13,div1,Globe Tech,globeinstituteoftechnology,stefansahaguneyrp,Stefan Sahagun
+Mar 24,home,Kingsborough,W,11-0,11,0,11.0,win,20130324_2lk5,2,1,1,1,,,1,1,,,,,,,2,1,,,,,3,2013,2012-13,div1,Globe Tech,globeinstituteoftechnology,stefansahaguneyrp,Stefan Sahagun
+Mar 24,home,Kingsborough,W,9-8,9,8,1.0,win,20130324_ts1m,4,0,1,,,,1,1,,2,,,,,1,0,,,,,5,2013,2012-13,div1,Globe Tech,globeinstituteoftechnology,stefansahaguneyrp,Stefan Sahagun
+Mar 26,home,Westchester,L,3-2,3,2,1.0,win,20130326_k10d,4,0,0,,,,1,,,,,,,,0,0,,,,,4,2013,2012-13,div1,Globe Tech,globeinstituteoftechnology,stefansahaguneyrp,Stefan Sahagun
+Mar 30,home,Raritan Valley,W,3-1,3,1,2.0,win,20130330_dyp5,2,0,2,,,,1,,,2,,,,,2,0,,,,,2,2013,2012-13,div1,Globe Tech,globeinstituteoftechnology,stefansahaguneyrp,Stefan Sahagun
+Mar 30,home,Raritan Valley,W,8-6,8,6,2.0,win,20130330_npkl,2,0,0,,,,0,1,,,,,,,0,0,,,,,3,2013,2012-13,div1,Globe Tech,globeinstituteoftechnology,stefansahaguneyrp,Stefan Sahagun
+Apr 2,home,Westchester,L,4-3,4,3,1.0,win,20130402_x9hn,3,1,1,,,,0,,,,,,,,1,0,,,,,3,2013,2012-13,div1,Globe Tech,globeinstituteoftechnology,stefansahaguneyrp,Stefan Sahagun
+Apr 3,home,Monroe College,L,11-6,11,6,5.0,win,20130403_0j6d,5,0,2,,,,0,,2,,,,,,2,0,,,,,5,2013,2012-13,div1,Globe Tech,globeinstituteoftechnology,stefansahaguneyrp,Stefan Sahagun
+Apr 4,home,Monroe College,L,5-1,5,1,4.0,win,20130404_iesv,4,0,0,,,,0,,1,,,,,,0,0,,,,,4,2013,2012-13,div1,Globe Tech,globeinstituteoftechnology,stefansahaguneyrp,Stefan Sahagun
+Apr 6,home,Monroe College,L,11-7,11,7,4.0,win,,,,,,,,,,,,,,,,,,,,,,,2013,2012-13,div1,Globe Tech,globeinstituteoftechnology,stefansahaguneyrp,Stefan Sahagun
+Apr 6,home,Monroe College,L,5-2,5,2,3.0,win,20130406_xz11,2,0,2,1,,,0,1,,,,,,,3,1,,,,,3,2013,2012-13,div1,Globe Tech,globeinstituteoftechnology,stefansahaguneyrp,Stefan Sahagun
+Apr 8,home,Kingsborough,W,7-6,7,6,1.0,win,20130408_94q0,1,1,1,,,,0,1,,1,,,,,1,0,,,,,2,2013,2012-13,div1,Globe Tech,globeinstituteoftechnology,stefansahaguneyrp,Stefan Sahagun
+Apr 10,home,Queensborough,W,11-0,11,0,11.0,win,20130410_b3e2,4,0,1,,,,1,,,1,,,,,1,0,,,,,4,2013,2012-13,div1,Globe Tech,globeinstituteoftechnology,stefansahaguneyrp,Stefan Sahagun
+Apr 11,home,Nassau,W,4-1,4,1,3.0,win,20130411_sx8d,4,1,2,,,,0,1,,,,,,,2,0,,,,,5,2013,2012-13,div1,Globe Tech,globeinstituteoftechnology,stefansahaguneyrp,Stefan Sahagun
+Apr 15,home,Nassau,W,8-2,8,2,6.0,win,20130415_frau,4,1,3,1,,,2,1,,1,,,,,4,1,,,,,5,2013,2012-13,div1,Globe Tech,globeinstituteoftechnology,stefansahaguneyrp,Stefan Sahagun
+Apr 17,home,ASA New York,L,4-0,4,0,4.0,win,20130417_mlit,3,0,1,,,,0,,1,,,,,,1,0,,1,,,3,2013,2012-13,div1,Globe Tech,globeinstituteoftechnology,stefansahaguneyrp,Stefan Sahagun
+Apr 18,home,ASA New York,L,10-0,10,0,10.0,win,20130418_k5o7,3,0,0,,,,0,,2,,,,,,0,0,,,1,,3,2013,2012-13,div1,Globe Tech,globeinstituteoftechnology,stefansahaguneyrp,Stefan Sahagun
+Apr 19,home,ASA New York,L,8-0,8,0,8.0,win,20130419_y175,2,0,0,,,,0,,,,,,,,0,0,1,1,1,1.00,2,2013,2012-13,div1,Globe Tech,globeinstituteoftechnology,stefansahaguneyrp,Stefan Sahagun
+Apr 19,home,ASA New York,L,9-6,9,6,3.0,win,20130419_o7if,3,1,1,,1,,0,,,,,,,,3,1,,,2,,3,2013,2012-13,div1,Globe Tech,globeinstituteoftechnology,stefansahaguneyrp,Stefan Sahagun
+Apr 21,home,Sullivan County,L,15-9,15,9,6.0,win,20130421_c8db,3,1,0,,,,1,,1,,,1,,,0,0,,,,,4,2013,2012-13,div1,Globe Tech,globeinstituteoftechnology,stefansahaguneyrp,Stefan Sahagun
+Apr 21,home,Sullivan County,L,13-0,13,0,13.0,win,20130421_lnc9,2,0,1,,,,0,,,,,,,,1,0,,,,,2,2013,2012-13,div1,Globe Tech,globeinstituteoftechnology,stefansahaguneyrp,Stefan Sahagun
+Apr 23,home,Morris,L,9-5,9,5,4.0,win,20130423_97gx,4,1,2,,,,0,,,1,,,,,2,0,,,,,4,2013,2012-13,div1,Globe Tech,globeinstituteoftechnology,stefansahaguneyrp,Stefan Sahagun
+Apr 24,home,Middlesex College,W,5-3,5,3,2.0,win,20130424_ulgv,5,1,1,,,,0,,1,,,,,,1,0,,,,,5,2013,2012-13,div1,Globe Tech,globeinstituteoftechnology,stefansahaguneyrp,Stefan Sahagun
+Apr 25,home,ASA New York,L,17-11,17,11,6.0,win,20130425_612j,4,1,1,1,,,0,,1,,,,,1,2,1,,1,1,1.00,5,2013,2012-13,div1,Globe Tech,globeinstituteoftechnology,stefansahaguneyrp,Stefan Sahagun
+Apr 26,home,Monroe College,L,19-2,19,2,17.0,win,20130426_t4cf,2,0,0,,,,0,,,,,,,,0,0,,,,,2,2013,2012-13,div1,Globe Tech,globeinstituteoftechnology,stefansahaguneyrp,Stefan Sahagun
+Apr 27,home,Brookdale,L,5-4,5,4,1.0,win,20130427_zhgl,3,1,1,,,,0,1,,,,,,,1,0,,,,,4,2013,2012-13,div1,Globe Tech,globeinstituteoftechnology,stefansahaguneyrp,Stefan Sahagun
+Apr 27,home,Brookdale,L,16-4,16,4,12.0,win,,,,,,,,,,,,,,,,,,,,,,,2013,2012-13,div1,Globe Tech,globeinstituteoftechnology,stefansahaguneyrp,Stefan Sahagun
+Apr 28,home,Kingsborough,W,15-11,15,11,4.0,win,,,,,,,,,,,,,,,,,,,,,,,2013,2012-13,div1,Globe Tech,globeinstituteoftechnology,stefansahaguneyrp,Stefan Sahagun
+May 2,home,Bronx,W,13-5,13,5,8.0,win,20130502_8xs6,4,0,3,1,,,3,,,,1,,,,4,1,,,,,4,2013,2012-13,div1,Globe Tech,globeinstituteoftechnology,stefansahaguneyrp,Stefan Sahagun
+May 4,home,Monroe College,L,4-1,4,1,3.0,win,,,,,,,,,,,,,,,,,,,,,,,2013,2012-13,div1,Globe Tech,globeinstituteoftechnology,stefansahaguneyrp,Stefan Sahagun
+May 4,home,Monroe College,W,4-2,4,2,2.0,win,,,,,,,,,,,,,,,,,,,,,,,2013,2012-13,div1,Globe Tech,globeinstituteoftechnology,stefansahaguneyrp,Stefan Sahagun
+May 5,home,Monroe College,L,13-2,13,2,11.0,win,,,,,,,,,,,,,,,,,,,,,,,2013,2012-13,div1,Globe Tech,globeinstituteoftechnology,stefansahaguneyrp,Stefan Sahagun

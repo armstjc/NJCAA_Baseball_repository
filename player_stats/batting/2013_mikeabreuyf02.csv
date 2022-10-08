@@ -1,55 +1,55 @@
-date,location,opponent,result,score,team_score,opp_score,game_score_diff_x,game_win_loss_x,game_id_x,AB,R,H,2B,3B,HR,RBI,BB,K,SB,CS,game_score_diff_y,game_win_loss_y,game_id_y,HBP,SF,SH,TB,XBH,HDP,GO,FO,GO/FO,PA,season,njcaa_season,njcaa_division,team,team_id,player_id,player_name
-Jan 25,home,Santa Fe,L,8-4,8,4,4.0,win,20130125_oe8k,5,0,0,,,,0,,2,,,4.0,win,20130125_oe8k,,,1,0,0,,,,,6,2013,2012-13,div1,Hillsborough,hillsboroughcommunitycollege,mikeabreuyf02,Mike Abreu
-Jan 27,home,Seminole State (FL),L,3-2,3,2,1.0,win,20130127_zke9,4,0,1,,,,0,,1,,,1.0,win,20130127_zke9,,,,1,0,,,,,4,2013,2012-13,div1,Hillsborough,hillsboroughcommunitycollege,mikeabreuyf02,Mike Abreu
-Jan 28,home,Central Florida,L,4-1,4,1,3.0,win,,,,,,,,,,,,,3.0,win,,,,,,,,,,,,2013,2012-13,div1,Hillsborough,hillsboroughcommunitycollege,mikeabreuyf02,Mike Abreu
-Jan 30,home,Daytona State,T,10-10,10,10,0.0,tie,20130130_b5cx,3,2,0,0,0,0,1,2,2,0,0,0.0,tie,20130130_b5cx,0,0,0,0,0,0,0,0,,5,2013,2012-13,div1,Hillsborough,hillsboroughcommunitycollege,mikeabreuyf02,Mike Abreu
-Feb 1,home,Indian River State,W,12-5,12,5,7.0,win,20130201_9klo,3,1,1,,,,0,2,,,,7.0,win,20130201_9klo,,,,1,0,,,,,5,2013,2012-13,div1,Hillsborough,hillsboroughcommunitycollege,mikeabreuyf02,Mike Abreu
-Feb 2,home,Palm Beach State,L,9-0,9,0,9.0,win,20130202_4nhv,3,0,0,,,,0,,,,,9.0,win,20130202_4nhv,,,,0,0,,,,,3,2013,2012-13,div1,Hillsborough,hillsboroughcommunitycollege,mikeabreuyf02,Mike Abreu
-Feb 3,home,Palm Beach State,W,9-8,9,8,1.0,win,20130203_fxc6,0,0,0,,,,0,,,,,1.0,win,20130203_fxc6,,,,0,0,,,,,0,2013,2012-13,div1,Hillsborough,hillsboroughcommunitycollege,mikeabreuyf02,Mike Abreu
-Feb 8,home,Miami Dade,L,7-2,7,2,5.0,win,20130208_89o0,4,1,3,,1,,1,,,,,5.0,win,20130208_89o0,,,,5,1,,,,,4,2013,2012-13,div1,Hillsborough,hillsboroughcommunitycollege,mikeabreuyf02,Mike Abreu
-Feb 9,home,Pensacola State,W,3-1,3,1,2.0,win,20130209_kmg8,3,1,1,,,,0,1,,1,,2.0,win,20130209_kmg8,,,,1,0,,,,,4,2013,2012-13,div1,Hillsborough,hillsboroughcommunitycollege,mikeabreuyf02,Mike Abreu
-Feb 10,home,Palm Beach State,L,2-0,2,0,2.0,win,20130210_j4qt,4,0,0,,,,0,,1,,,2.0,win,20130210_j4qt,,,,0,0,,,,,4,2013,2012-13,div1,Hillsborough,hillsboroughcommunitycollege,mikeabreuyf02,Mike Abreu
-Feb 13,home,Daytona State,W,6-4,6,4,2.0,win,20130213_0yxi,5,0,0,0,0,0,0,0,1,0,0,2.0,win,20130213_0yxi,0,0,0,0,0,0,2,1,2.00,5,2013,2012-13,div1,Hillsborough,hillsboroughcommunitycollege,mikeabreuyf02,Mike Abreu
-Feb 15,home,Lake-Sumter State,L,10-8,10,8,2.0,win,20130215_3quc,4,2,1,,,,0,1,,1,,2.0,win,20130215_3quc,,,,1,0,,,,,5,2013,2012-13,div1,Hillsborough,hillsboroughcommunitycollege,mikeabreuyf02,Mike Abreu
-Feb 16,home,Pasco-Hernando State,L,8-3,8,3,5.0,win,20130216_b1lo,5,2,1,,1,,0,,,,,5.0,win,20130216_b1lo,,,,3,1,,,,,5,2013,2012-13,div1,Hillsborough,hillsboroughcommunitycollege,mikeabreuyf02,Mike Abreu
-Feb 17,home,Indian River State,W,5-0,5,0,5.0,win,20130217_p2c5,3,0,1,,,,2,1,,,,5.0,win,20130217_p2c5,,,,1,0,,,,,4,2013,2012-13,div1,Hillsborough,hillsboroughcommunitycollege,mikeabreuyf02,Mike Abreu
-Feb 18,home,Santa Fe,W,3-1,3,1,2.0,win,20130218_jyps,4,0,1,,,,0,,,,,2.0,win,20130218_jyps,,,,1,0,,,,,4,2013,2012-13,div1,Hillsborough,hillsboroughcommunitycollege,mikeabreuyf02,Mike Abreu
-Feb 20,home,Central Florida,L,5-3,5,3,2.0,win,20130220_khbv,3,1,0,,,,0,2,,1,,2.0,win,20130220_khbv,,,,0,0,,,,,5,2013,2012-13,div1,Hillsborough,hillsboroughcommunitycollege,mikeabreuyf02,Mike Abreu
-Feb 22,home,Seminole State (FL),L,4-3,4,3,1.0,win,20130222_e3bf,3,0,1,,,,0,,1,1,,1.0,win,20130222_e3bf,1,,,1,0,,,,,4,2013,2012-13,div1,Hillsborough,hillsboroughcommunitycollege,mikeabreuyf02,Mike Abreu
-Feb 23,home,Lake-Sumter State,L,5-4,5,4,1.0,win,20130223_vkau,2,1,0,,,,0,1,2,1,,1.0,win,20130223_vkau,1,,,0,0,,,,,4,2013,2012-13,div1,Hillsborough,hillsboroughcommunitycollege,mikeabreuyf02,Mike Abreu
-Feb 27,home,Polk State,L,1-0,1,0,1.0,win,20130227_cd5e,5,0,0,0,0,0,0,0,0,0,0,1.0,win,20130227_cd5e,0,0,0,0,0,0,3,1,3.00,5,2013,2012-13,div1,Hillsborough,hillsboroughcommunitycollege,mikeabreuyf02,Mike Abreu
-Mar 1,home,Polk State,L,3-2,3,2,1.0,win,,,,,,,,,,,,,1.0,win,,,,,,,,,,,,2013,2012-13,div1,Hillsborough,hillsboroughcommunitycollege,mikeabreuyf02,Mike Abreu
-Mar 2,home,Polk State,W,6-3,6,3,3.0,win,,,,,,,,,,,,,3.0,win,,,,,,,,,,,,2013,2012-13,div1,Hillsborough,hillsboroughcommunitycollege,mikeabreuyf02,Mike Abreu
-Mar 4,home,South Florida State,W,10-0,10,0,10.0,win,20130304_tv8q,2,1,1,,,,0,,,1,,10.0,win,20130304_tv8q,1,,,1,0,,,,,3,2013,2012-13,div1,Hillsborough,hillsboroughcommunitycollege,mikeabreuyf02,Mike Abreu
-Mar 6,home,South Florida State,W,11-2,11,2,9.0,win,20130306_emdh,4,2,4,,,,1,1,,,,9.0,win,20130306_emdh,,,,4,0,,,,,5,2013,2012-13,div1,Hillsborough,hillsboroughcommunitycollege,mikeabreuyf02,Mike Abreu
-Mar 8,home,South Florida State,L,2-0,2,0,2.0,win,20130308_21w4,3,0,1,,,,0,,,,,2.0,win,20130308_21w4,,,,1,0,,,,,3,2013,2012-13,div1,Hillsborough,hillsboroughcommunitycollege,mikeabreuyf02,Mike Abreu
-Mar 9,home,St. Petersburg,W,5-0,5,0,5.0,win,20130309_1e1i,4,1,1,,,,0,,,,,5.0,win,20130309_1e1i,,,,1,0,,,,,4,2013,2012-13,div1,Hillsborough,hillsboroughcommunitycollege,mikeabreuyf02,Mike Abreu
-Mar 11,home,St. Petersburg,L,12-2,12,2,10.0,win,20130311_cw5x,3,0,0,,,,0,,1,,,10.0,win,20130311_cw5x,,,,0,0,,,,,3,2013,2012-13,div1,Hillsborough,hillsboroughcommunitycollege,mikeabreuyf02,Mike Abreu
-Mar 13,home,St. Petersburg,W,7-4,7,4,3.0,win,20130313_nbc2,4,1,1,,,,0,1,1,,,3.0,win,20130313_nbc2,,,,1,0,,,,,5,2013,2012-13,div1,Hillsborough,hillsboroughcommunitycollege,mikeabreuyf02,Mike Abreu
-Mar 16,home,University of Tampa JV,W,9-2,9,2,7.0,win,20130316_3fr6,3,1,1,,1,,0,,,,,7.0,win,20130316_3fr6,1,,,3,1,,,,,4,2013,2012-13,div1,Hillsborough,hillsboroughcommunitycollege,mikeabreuyf02,Mike Abreu
-Mar 18,home,Eastern Florida State,L,7-6,7,6,1.0,win,20130318_1qa5,3,1,1,,,,1,,,1,,1.0,win,20130318_1qa5,1,1,,1,0,,,,,5,2013,2012-13,div1,Hillsborough,hillsboroughcommunitycollege,mikeabreuyf02,Mike Abreu
-Mar 20,home,State College of Florida,,,,,1.0,win,,,,,,,,,,,,,1.0,win,,,,,,,,,,,,2013,2012-13,div1,Hillsborough,hillsboroughcommunitycollege,mikeabreuyf02,Mike Abreu
-Mar 22,home,State College of Florida,L,9-8,9,8,1.0,win,20130322_b4nn,5,1,1,,,,3,,,,,1.0,win,20130322_b4nn,,,,1,0,,,,,5,2013,2012-13,div1,Hillsborough,hillsboroughcommunitycollege,mikeabreuyf02,Mike Abreu
-Mar 23,home,SCF Manatee-Sarasota,L,9-0,9,0,9.0,win,,,,,,,,,,,,,9.0,win,,,,,,,,,,,,2013,2012-13,div1,Hillsborough,hillsboroughcommunitycollege,mikeabreuyf02,Mike Abreu
-Mar 25,home,Polk State,L,9-0,9,0,9.0,win,,,,,,,,,,,,,9.0,win,,,,,,,,,,,,2013,2012-13,div1,Hillsborough,hillsboroughcommunitycollege,mikeabreuyf02,Mike Abreu
-Mar 27,home,Polk State,W,6-0,6,0,6.0,win,20130327_is8i,4,1,1,,,,0,,,,,6.0,win,20130327_is8i,,,,1,0,,,,,4,2013,2012-13,div1,Hillsborough,hillsboroughcommunitycollege,mikeabreuyf02,Mike Abreu
-Mar 29,home,Polk State,W,10-9,10,9,1.0,win,20130329_7j2v,3,3,3,,,,2,1,,1,,1.0,win,20130329_7j2v,,,1,3,0,,,,,5,2013,2012-13,div1,Hillsborough,hillsboroughcommunitycollege,mikeabreuyf02,Mike Abreu
-Mar 30,home,South Florida State,W,14-11,14,11,3.0,win,20130330_egu1,5,2,5,1,,,3,,,1,,3.0,win,20130330_egu1,,,,6,1,,,,,5,2013,2012-13,div1,Hillsborough,hillsboroughcommunitycollege,mikeabreuyf02,Mike Abreu
-Apr 1,home,South Florida State,W,18-5,18,5,13.0,win,,,,,,,,,,,,,13.0,win,,,,,,,,,,,,2013,2012-13,div1,Hillsborough,hillsboroughcommunitycollege,mikeabreuyf02,Mike Abreu
-Apr 3,home,South Florida State,L,8-6,8,6,2.0,win,,,,,,,,,,,,,2.0,win,,,,,,,,,,,,2013,2012-13,div1,Hillsborough,hillsboroughcommunitycollege,mikeabreuyf02,Mike Abreu
-Apr 5,home,St. Petersburg,T,0-0,0,0,0.0,tie,,,,,,,,,,,,,0.0,tie,,,,,,,,,,,,2013,2012-13,div1,Hillsborough,hillsboroughcommunitycollege,mikeabreuyf02,Mike Abreu
-Apr 6,home,St. Petersburg,W,3-1,3,1,2.0,win,20130406_srza,3,0,1,,,,0,1,1,1,,2.0,win,20130406_srza,,,,1,0,,,,,4,2013,2012-13,div1,Hillsborough,hillsboroughcommunitycollege,mikeabreuyf02,Mike Abreu
-Apr 8,home,St. Petersburg,L,5-4,5,4,1.0,win,20130408_qx17,4,0,1,,,,0,,,1,,1.0,win,20130408_qx17,,,,1,0,,,,,4,2013,2012-13,div1,Hillsborough,hillsboroughcommunitycollege,mikeabreuyf02,Mike Abreu
-Apr 10,home,Pasco-Hernando State,W,8-3,8,3,5.0,win,20130410_xsoh,2,0,1,1,,,1,,,,,5.0,win,20130410_xsoh,,,,2,1,,,,,2,2013,2012-13,div1,Hillsborough,hillsboroughcommunitycollege,mikeabreuyf02,Mike Abreu
-Apr 12,home,University of Tampa JV,L,4-3,4,3,1.0,win,20130412_e3q3,2,0,0,,,,0,,,,,1.0,win,20130412_e3q3,,,,0,0,,,,,2,2013,2012-13,div1,Hillsborough,hillsboroughcommunitycollege,mikeabreuyf02,Mike Abreu
-Apr 15,home,State College of Florida,W,3-2,3,2,1.0,win,20130415_mqv8,6,1,2,,,,1,,2,,,1.0,win,20130415_mqv8,,,,2,0,,,,,6,2013,2012-13,div1,Hillsborough,hillsboroughcommunitycollege,mikeabreuyf02,Mike Abreu
-Apr 17,home,State College of Florida,L,6-1,6,1,5.0,win,20130417_xzdt,4,0,0,,,,0,,1,,,5.0,win,20130417_xzdt,,,,0,0,,,,,4,2013,2012-13,div1,Hillsborough,hillsboroughcommunitycollege,mikeabreuyf02,Mike Abreu
-Apr 19,home,State College of Florida,L,9-2,9,2,7.0,win,,,,,,,,,,,,,7.0,win,,,,,,,,,,,,2013,2012-13,div1,Hillsborough,hillsboroughcommunitycollege,mikeabreuyf02,Mike Abreu
-Apr 20,home,Polk State,L,4-2,4,2,2.0,win,20130420_i2g1,3,0,0,,,,0,,2,,,2.0,win,20130420_i2g1,,,,0,0,,,,,3,2013,2012-13,div1,Hillsborough,hillsboroughcommunitycollege,mikeabreuyf02,Mike Abreu
-Apr 22,home,South Florida State,W,5-3,5,3,2.0,win,20130422_9oq4,4,0,1,,,,1,,,,,2.0,win,20130422_9oq4,,,,1,0,,,,,4,2013,2012-13,div1,Hillsborough,hillsboroughcommunitycollege,mikeabreuyf02,Mike Abreu
-Apr 24,home,St. Petersburg,W,9-3,9,3,6.0,win,20130424_6rrz,4,1,1,,1,,0,,,,,6.0,win,20130424_6rrz,,,,3,1,,,,,4,2013,2012-13,div1,Hillsborough,hillsboroughcommunitycollege,mikeabreuyf02,Mike Abreu
-Apr 27,home,State College of Florida,W,7-5,7,5,2.0,win,20130427_3sxk,4,0,0,,,,0,,,,,2.0,win,20130427_3sxk,,,,0,0,,,,,4,2013,2012-13,div1,Hillsborough,hillsboroughcommunitycollege,mikeabreuyf02,Mike Abreu
-Apr 29,home,State College of Florida,L,11-4,11,4,7.0,win,20130429_53yd,3,0,0,,,,0,,1,,,7.0,win,20130429_53yd,,,,0,0,,,,,3,2013,2012-13,div1,Hillsborough,hillsboroughcommunitycollege,mikeabreuyf02,Mike Abreu
-May 10,home,Tallahassee,W,3-0,3,0,3.0,win,,,,,,,,,,,,,3.0,win,,,,,,,,,,,,2013,2012-13,div1,Hillsborough,hillsboroughcommunitycollege,mikeabreuyf02,Mike Abreu
-May 11,home,Palm Beach State,L,8-3,8,3,5.0,win,,,,,,,,,,,,,5.0,win,,,,,,,,,,,,2013,2012-13,div1,Hillsborough,hillsboroughcommunitycollege,mikeabreuyf02,Mike Abreu
-May 12,home,State College of Florida,L,12-6,12,6,6.0,win,,,,,,,,,,,,,6.0,win,,,,,,,,,,,,2013,2012-13,div1,Hillsborough,hillsboroughcommunitycollege,mikeabreuyf02,Mike Abreu
+date,location,opponent,result,score,team_score,opp_score,game_score_diff,game_win_loss,game_id,AB,R,H,2B,3B,HR,RBI,BB,K,SB,CS,HBP,SF,SH,TB,XBH,HDP,GO,FO,GO/FO,PA,season,njcaa_season,njcaa_division,team,team_id,player_id,player_name
+Jan 25,home,Santa Fe,L,8-4,8,4,4.0,win,20130125_oe8k,5,0,0,,,,0,,2,,,,,1,0,0,,,,,6,2013,2012-13,div1,Hillsborough,hillsboroughcommunitycollege,mikeabreuyf02,Mike Abreu
+Jan 27,home,Seminole State (FL),L,3-2,3,2,1.0,win,20130127_zke9,4,0,1,,,,0,,1,,,,,,1,0,,,,,4,2013,2012-13,div1,Hillsborough,hillsboroughcommunitycollege,mikeabreuyf02,Mike Abreu
+Jan 28,home,Central Florida,L,4-1,4,1,3.0,win,,,,,,,,,,,,,,,,,,,,,,,2013,2012-13,div1,Hillsborough,hillsboroughcommunitycollege,mikeabreuyf02,Mike Abreu
+Jan 30,home,Daytona State,T,10-10,10,10,0.0,tie,20130130_b5cx,3,2,0,0,0,0,1,2,2,0,0,0,0,0,0,0,0,0,0,,5,2013,2012-13,div1,Hillsborough,hillsboroughcommunitycollege,mikeabreuyf02,Mike Abreu
+Feb 1,home,Indian River State,W,12-5,12,5,7.0,win,20130201_9klo,3,1,1,,,,0,2,,,,,,,1,0,,,,,5,2013,2012-13,div1,Hillsborough,hillsboroughcommunitycollege,mikeabreuyf02,Mike Abreu
+Feb 2,home,Palm Beach State,L,9-0,9,0,9.0,win,20130202_4nhv,3,0,0,,,,0,,,,,,,,0,0,,,,,3,2013,2012-13,div1,Hillsborough,hillsboroughcommunitycollege,mikeabreuyf02,Mike Abreu
+Feb 3,home,Palm Beach State,W,9-8,9,8,1.0,win,20130203_fxc6,0,0,0,,,,0,,,,,,,,0,0,,,,,0,2013,2012-13,div1,Hillsborough,hillsboroughcommunitycollege,mikeabreuyf02,Mike Abreu
+Feb 8,home,Miami Dade,L,7-2,7,2,5.0,win,20130208_89o0,4,1,3,,1,,1,,,,,,,,5,1,,,,,4,2013,2012-13,div1,Hillsborough,hillsboroughcommunitycollege,mikeabreuyf02,Mike Abreu
+Feb 9,home,Pensacola State,W,3-1,3,1,2.0,win,20130209_kmg8,3,1,1,,,,0,1,,1,,,,,1,0,,,,,4,2013,2012-13,div1,Hillsborough,hillsboroughcommunitycollege,mikeabreuyf02,Mike Abreu
+Feb 10,home,Palm Beach State,L,2-0,2,0,2.0,win,20130210_j4qt,4,0,0,,,,0,,1,,,,,,0,0,,,,,4,2013,2012-13,div1,Hillsborough,hillsboroughcommunitycollege,mikeabreuyf02,Mike Abreu
+Feb 13,home,Daytona State,W,6-4,6,4,2.0,win,20130213_0yxi,5,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,2,1,2.00,5,2013,2012-13,div1,Hillsborough,hillsboroughcommunitycollege,mikeabreuyf02,Mike Abreu
+Feb 15,home,Lake-Sumter State,L,10-8,10,8,2.0,win,20130215_3quc,4,2,1,,,,0,1,,1,,,,,1,0,,,,,5,2013,2012-13,div1,Hillsborough,hillsboroughcommunitycollege,mikeabreuyf02,Mike Abreu
+Feb 16,home,Pasco-Hernando State,L,8-3,8,3,5.0,win,20130216_b1lo,5,2,1,,1,,0,,,,,,,,3,1,,,,,5,2013,2012-13,div1,Hillsborough,hillsboroughcommunitycollege,mikeabreuyf02,Mike Abreu
+Feb 17,home,Indian River State,W,5-0,5,0,5.0,win,20130217_p2c5,3,0,1,,,,2,1,,,,,,,1,0,,,,,4,2013,2012-13,div1,Hillsborough,hillsboroughcommunitycollege,mikeabreuyf02,Mike Abreu
+Feb 18,home,Santa Fe,W,3-1,3,1,2.0,win,20130218_jyps,4,0,1,,,,0,,,,,,,,1,0,,,,,4,2013,2012-13,div1,Hillsborough,hillsboroughcommunitycollege,mikeabreuyf02,Mike Abreu
+Feb 20,home,Central Florida,L,5-3,5,3,2.0,win,20130220_khbv,3,1,0,,,,0,2,,1,,,,,0,0,,,,,5,2013,2012-13,div1,Hillsborough,hillsboroughcommunitycollege,mikeabreuyf02,Mike Abreu
+Feb 22,home,Seminole State (FL),L,4-3,4,3,1.0,win,20130222_e3bf,3,0,1,,,,0,,1,1,,1,,,1,0,,,,,4,2013,2012-13,div1,Hillsborough,hillsboroughcommunitycollege,mikeabreuyf02,Mike Abreu
+Feb 23,home,Lake-Sumter State,L,5-4,5,4,1.0,win,20130223_vkau,2,1,0,,,,0,1,2,1,,1,,,0,0,,,,,4,2013,2012-13,div1,Hillsborough,hillsboroughcommunitycollege,mikeabreuyf02,Mike Abreu
+Feb 27,home,Polk State,L,1-0,1,0,1.0,win,20130227_cd5e,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,1,3.00,5,2013,2012-13,div1,Hillsborough,hillsboroughcommunitycollege,mikeabreuyf02,Mike Abreu
+Mar 1,home,Polk State,L,3-2,3,2,1.0,win,,,,,,,,,,,,,,,,,,,,,,,2013,2012-13,div1,Hillsborough,hillsboroughcommunitycollege,mikeabreuyf02,Mike Abreu
+Mar 2,home,Polk State,W,6-3,6,3,3.0,win,,,,,,,,,,,,,,,,,,,,,,,2013,2012-13,div1,Hillsborough,hillsboroughcommunitycollege,mikeabreuyf02,Mike Abreu
+Mar 4,home,South Florida State,W,10-0,10,0,10.0,win,20130304_tv8q,2,1,1,,,,0,,,1,,1,,,1,0,,,,,3,2013,2012-13,div1,Hillsborough,hillsboroughcommunitycollege,mikeabreuyf02,Mike Abreu
+Mar 6,home,South Florida State,W,11-2,11,2,9.0,win,20130306_emdh,4,2,4,,,,1,1,,,,,,,4,0,,,,,5,2013,2012-13,div1,Hillsborough,hillsboroughcommunitycollege,mikeabreuyf02,Mike Abreu
+Mar 8,home,South Florida State,L,2-0,2,0,2.0,win,20130308_21w4,3,0,1,,,,0,,,,,,,,1,0,,,,,3,2013,2012-13,div1,Hillsborough,hillsboroughcommunitycollege,mikeabreuyf02,Mike Abreu
+Mar 9,home,St. Petersburg,W,5-0,5,0,5.0,win,20130309_1e1i,4,1,1,,,,0,,,,,,,,1,0,,,,,4,2013,2012-13,div1,Hillsborough,hillsboroughcommunitycollege,mikeabreuyf02,Mike Abreu
+Mar 11,home,St. Petersburg,L,12-2,12,2,10.0,win,20130311_cw5x,3,0,0,,,,0,,1,,,,,,0,0,,,,,3,2013,2012-13,div1,Hillsborough,hillsboroughcommunitycollege,mikeabreuyf02,Mike Abreu
+Mar 13,home,St. Petersburg,W,7-4,7,4,3.0,win,20130313_nbc2,4,1,1,,,,0,1,1,,,,,,1,0,,,,,5,2013,2012-13,div1,Hillsborough,hillsboroughcommunitycollege,mikeabreuyf02,Mike Abreu
+Mar 16,home,University of Tampa JV,W,9-2,9,2,7.0,win,20130316_3fr6,3,1,1,,1,,0,,,,,1,,,3,1,,,,,4,2013,2012-13,div1,Hillsborough,hillsboroughcommunitycollege,mikeabreuyf02,Mike Abreu
+Mar 18,home,Eastern Florida State,L,7-6,7,6,1.0,win,20130318_1qa5,3,1,1,,,,1,,,1,,1,1,,1,0,,,,,5,2013,2012-13,div1,Hillsborough,hillsboroughcommunitycollege,mikeabreuyf02,Mike Abreu
+Mar 20,home,State College of Florida,,,,,1.0,win,,,,,,,,,,,,,,,,,,,,,,,2013,2012-13,div1,Hillsborough,hillsboroughcommunitycollege,mikeabreuyf02,Mike Abreu
+Mar 22,home,State College of Florida,L,9-8,9,8,1.0,win,20130322_b4nn,5,1,1,,,,3,,,,,,,,1,0,,,,,5,2013,2012-13,div1,Hillsborough,hillsboroughcommunitycollege,mikeabreuyf02,Mike Abreu
+Mar 23,home,SCF Manatee-Sarasota,L,9-0,9,0,9.0,win,,,,,,,,,,,,,,,,,,,,,,,2013,2012-13,div1,Hillsborough,hillsboroughcommunitycollege,mikeabreuyf02,Mike Abreu
+Mar 25,home,Polk State,L,9-0,9,0,9.0,win,,,,,,,,,,,,,,,,,,,,,,,2013,2012-13,div1,Hillsborough,hillsboroughcommunitycollege,mikeabreuyf02,Mike Abreu
+Mar 27,home,Polk State,W,6-0,6,0,6.0,win,20130327_is8i,4,1,1,,,,0,,,,,,,,1,0,,,,,4,2013,2012-13,div1,Hillsborough,hillsboroughcommunitycollege,mikeabreuyf02,Mike Abreu
+Mar 29,home,Polk State,W,10-9,10,9,1.0,win,20130329_7j2v,3,3,3,,,,2,1,,1,,,,1,3,0,,,,,5,2013,2012-13,div1,Hillsborough,hillsboroughcommunitycollege,mikeabreuyf02,Mike Abreu
+Mar 30,home,South Florida State,W,14-11,14,11,3.0,win,20130330_egu1,5,2,5,1,,,3,,,1,,,,,6,1,,,,,5,2013,2012-13,div1,Hillsborough,hillsboroughcommunitycollege,mikeabreuyf02,Mike Abreu
+Apr 1,home,South Florida State,W,18-5,18,5,13.0,win,,,,,,,,,,,,,,,,,,,,,,,2013,2012-13,div1,Hillsborough,hillsboroughcommunitycollege,mikeabreuyf02,Mike Abreu
+Apr 3,home,South Florida State,L,8-6,8,6,2.0,win,,,,,,,,,,,,,,,,,,,,,,,2013,2012-13,div1,Hillsborough,hillsboroughcommunitycollege,mikeabreuyf02,Mike Abreu
+Apr 5,home,St. Petersburg,T,0-0,0,0,0.0,tie,,,,,,,,,,,,,,,,,,,,,,,2013,2012-13,div1,Hillsborough,hillsboroughcommunitycollege,mikeabreuyf02,Mike Abreu
+Apr 6,home,St. Petersburg,W,3-1,3,1,2.0,win,20130406_srza,3,0,1,,,,0,1,1,1,,,,,1,0,,,,,4,2013,2012-13,div1,Hillsborough,hillsboroughcommunitycollege,mikeabreuyf02,Mike Abreu
+Apr 8,home,St. Petersburg,L,5-4,5,4,1.0,win,20130408_qx17,4,0,1,,,,0,,,1,,,,,1,0,,,,,4,2013,2012-13,div1,Hillsborough,hillsboroughcommunitycollege,mikeabreuyf02,Mike Abreu
+Apr 10,home,Pasco-Hernando State,W,8-3,8,3,5.0,win,20130410_xsoh,2,0,1,1,,,1,,,,,,,,2,1,,,,,2,2013,2012-13,div1,Hillsborough,hillsboroughcommunitycollege,mikeabreuyf02,Mike Abreu
+Apr 12,home,University of Tampa JV,L,4-3,4,3,1.0,win,20130412_e3q3,2,0,0,,,,0,,,,,,,,0,0,,,,,2,2013,2012-13,div1,Hillsborough,hillsboroughcommunitycollege,mikeabreuyf02,Mike Abreu
+Apr 15,home,State College of Florida,W,3-2,3,2,1.0,win,20130415_mqv8,6,1,2,,,,1,,2,,,,,,2,0,,,,,6,2013,2012-13,div1,Hillsborough,hillsboroughcommunitycollege,mikeabreuyf02,Mike Abreu
+Apr 17,home,State College of Florida,L,6-1,6,1,5.0,win,20130417_xzdt,4,0,0,,,,0,,1,,,,,,0,0,,,,,4,2013,2012-13,div1,Hillsborough,hillsboroughcommunitycollege,mikeabreuyf02,Mike Abreu
+Apr 19,home,State College of Florida,L,9-2,9,2,7.0,win,,,,,,,,,,,,,,,,,,,,,,,2013,2012-13,div1,Hillsborough,hillsboroughcommunitycollege,mikeabreuyf02,Mike Abreu
+Apr 20,home,Polk State,L,4-2,4,2,2.0,win,20130420_i2g1,3,0,0,,,,0,,2,,,,,,0,0,,,,,3,2013,2012-13,div1,Hillsborough,hillsboroughcommunitycollege,mikeabreuyf02,Mike Abreu
+Apr 22,home,South Florida State,W,5-3,5,3,2.0,win,20130422_9oq4,4,0,1,,,,1,,,,,,,,1,0,,,,,4,2013,2012-13,div1,Hillsborough,hillsboroughcommunitycollege,mikeabreuyf02,Mike Abreu
+Apr 24,home,St. Petersburg,W,9-3,9,3,6.0,win,20130424_6rrz,4,1,1,,1,,0,,,,,,,,3,1,,,,,4,2013,2012-13,div1,Hillsborough,hillsboroughcommunitycollege,mikeabreuyf02,Mike Abreu
+Apr 27,home,State College of Florida,W,7-5,7,5,2.0,win,20130427_3sxk,4,0,0,,,,0,,,,,,,,0,0,,,,,4,2013,2012-13,div1,Hillsborough,hillsboroughcommunitycollege,mikeabreuyf02,Mike Abreu
+Apr 29,home,State College of Florida,L,11-4,11,4,7.0,win,20130429_53yd,3,0,0,,,,0,,1,,,,,,0,0,,,,,3,2013,2012-13,div1,Hillsborough,hillsboroughcommunitycollege,mikeabreuyf02,Mike Abreu
+May 10,home,Tallahassee,W,3-0,3,0,3.0,win,,,,,,,,,,,,,,,,,,,,,,,2013,2012-13,div1,Hillsborough,hillsboroughcommunitycollege,mikeabreuyf02,Mike Abreu
+May 11,home,Palm Beach State,L,8-3,8,3,5.0,win,,,,,,,,,,,,,,,,,,,,,,,2013,2012-13,div1,Hillsborough,hillsboroughcommunitycollege,mikeabreuyf02,Mike Abreu
+May 12,home,State College of Florida,L,12-6,12,6,6.0,win,,,,,,,,,,,,,,,,,,,,,,,2013,2012-13,div1,Hillsborough,hillsboroughcommunitycollege,mikeabreuyf02,Mike Abreu
