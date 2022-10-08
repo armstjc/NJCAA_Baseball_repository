@@ -23,7 +23,7 @@ def getNjcaaD1BattingGamelogs(webdriverPath="./chromedriver_mac64_m1"):
 	player_count = len(player_urls)
 	driver = webdriver.Chrome(
 		executable_path=webdriverPath)
-	count = 9200
+	count = 0
 	for i in tqdm(range(count,player_count)):
 		count += 1
 		print(f'{count}/{player_count}')
@@ -264,8 +264,13 @@ def getNjcaaD1BattingGamelogs(webdriverPath="./chromedriver_mac64_m1"):
 					#print('away')
 					game_loc = 'away'
 					game_opponent = game_opponent.replace('at ','')
+				if "vs. " in game_opponent:
+					#print('away')
+					game_loc = 'home'
+					game_opponent = game_opponent.replace('vs. ','')
 				else:
 					game_loc = 'home'
+
 
 				gamelog_ex_batting_df = gamelog_ex_batting_df.append({
 					'date':game_date,'location':game_loc,'opponent':game_opponent,
@@ -312,7 +317,6 @@ def getNjcaaD1BattingGamelogs(webdriverPath="./chromedriver_mac64_m1"):
 					game_id = game_id.replace('.xml','')
 				except:
 					game_id = None
-
 				try:
 					game_result = str(game_score_raw[0]).replace(',','')
 				except:
@@ -357,10 +361,15 @@ def getNjcaaD1BattingGamelogs(webdriverPath="./chromedriver_mac64_m1"):
 				game_pitching_K = str(row[13].text.strip()).replace('-','')
 				game_pitching_HR = str(row[14].text.strip()).replace('-','')
 
+
 				if "at " in game_opponent:
 					#print('away')
 					game_loc = 'away'
 					game_opponent = game_opponent.replace('at ','')
+				if "vs. " in game_opponent:
+					#print('away')
+					game_loc = 'home'
+					game_opponent = game_opponent.replace('vs. ','')
 				else:
 					game_loc = 'home'
 
@@ -450,6 +459,10 @@ def getNjcaaD1BattingGamelogs(webdriverPath="./chromedriver_mac64_m1"):
 					#print('away')
 					game_loc = 'away'
 					game_opponent = game_opponent.replace('at ','')
+				if "vs. " in game_opponent:
+					#print('away')
+					game_loc = 'home'
+					game_opponent = game_opponent.replace('vs. ','')
 				else:
 					game_loc = 'home'
 

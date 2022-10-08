@@ -1,25 +1,52 @@
 date,location,opponent,result,score,team_score,opp_score,game_score_diff_x,game_win_loss_x,game_id_x,AB,R,H,2B,3B,HR,RBI,BB,K,SB,CS,game_score_diff_y,game_win_loss_y,game_id_y,HBP,SF,SH,TB,XBH,HDP,GO,FO,GO/FO,PA,season,njcaa_season,njcaa_division,team,team_id,player_id,player_name
 Jan 29,home,Grayson,L,4-1,4,1,3.0,win,20160129_6zi0,2,0,1,,,,0,1,1,1,1,3.0,win,20160129_6zi0,,,,1,0,,,,,3,2016,2015-16,div1,Paris,parisjuniorcollege,thomasjeffriesmzod,Thomas Jeffries
+Jan 30,home,Grayson,L,18-2,18,2,16.0,win,20160130_q1cc,4,1,1,,,,0,,1,,,16.0,win,20160130_q1cc,,,,1,0,,,,,4,2016,2015-16,div1,Paris,parisjuniorcollege,thomasjeffriesmzod,Thomas Jeffries
+Jan 30,home,Grayson,L,7-5,7,5,2.0,win,20160130_uqzb,5,0,2,,,,2,,1,,,2.0,win,20160130_uqzb,,,,2,0,,,,,5,2016,2015-16,div1,Paris,parisjuniorcollege,thomasjeffriesmzod,Thomas Jeffries
+Feb 1,home,Murray State,L,15-5,15,5,10.0,win,20160201_0uiq,4,0,2,1,,,3,,,,,10.0,win,20160201_0uiq,,,,3,1,,,,,4,2016,2015-16,div1,Paris,parisjuniorcollege,thomasjeffriesmzod,Thomas Jeffries
+Feb 5,home,Eastern Oklahoma State,W,8-7,8,7,1.0,win,20160205_6tw7,4,0,0,,,,0,,,,,1.0,win,20160205_6tw7,,,,0,0,,,,,4,2016,2015-16,div1,Paris,parisjuniorcollege,thomasjeffriesmzod,Thomas Jeffries
+Feb 5,home,Eastern Oklahoma State,W,9-7,9,7,2.0,win,20160205_uo5j,4,1,1,,,,0,,,1,,2.0,win,20160205_uo5j,,,,1,0,,,,,4,2016,2015-16,div1,Paris,parisjuniorcollege,thomasjeffriesmzod,Thomas Jeffries
 Feb 6,home,Eastern Oklahoma State,W,10-9,10,9,1.0,win,20160206_db7a,4,1,1,,,,1,1,,,,1.0,win,20160206_db7a,,,,1,0,,,,,5,2016,2015-16,div1,Paris,parisjuniorcollege,thomasjeffriesmzod,Thomas Jeffries
 Feb 6,home,Eastern Oklahoma State,L,5-3,5,3,2.0,win,20160206_n7q9,4,0,0,,,,0,,2,,,2.0,win,20160206_n7q9,,,,0,0,,,,,4,2016,2015-16,div1,Paris,parisjuniorcollege,thomasjeffriesmzod,Thomas Jeffries
+Feb 9,home,Dallas College - Eastfield,W,10-8,10,8,2.0,win,,,,,,,,,,,,,2.0,win,,,,,,,,,,,,2016,2015-16,div1,Paris,parisjuniorcollege,thomasjeffriesmzod,Thomas Jeffries
 Feb 12,home,Hill,W,5-0,5,0,5.0,win,,,,,,,,,,,,,5.0,win,,,,,,,,,,,,2016,2015-16,div1,Paris,parisjuniorcollege,thomasjeffriesmzod,Thomas Jeffries
 Feb 13,home,Cowley,W,8-1,8,1,7.0,win,20160213_o0pp,3,1,1,,,,0,,,1,,7.0,win,20160213_o0pp,,,,1,0,,,,,3,2016,2015-16,div1,Paris,parisjuniorcollege,thomasjeffriesmzod,Thomas Jeffries
 Feb 13,home,Cowley,L,7-4,7,4,3.0,win,20160213_91d4,1,0,1,,,,0,,,1,,3.0,win,20160213_91d4,,,,1,0,,,,,1,2016,2015-16,div1,Paris,parisjuniorcollege,thomasjeffriesmzod,Thomas Jeffries
+Feb 19,home,Hill,W,6-1,6,1,5.0,win,20160219_v6dn,1,0,0,,,,2,1,,,,5.0,win,20160219_v6dn,,1,1,0,0,,,,,4,2016,2015-16,div1,Paris,parisjuniorcollege,thomasjeffriesmzod,Thomas Jeffries
+Feb 19,home,Hill,W,10-2,10,2,8.0,win,20160219_kdyq,5,1,0,,,,0,,3,,,8.0,win,20160219_kdyq,,,,0,0,,,,,5,2016,2015-16,div1,Paris,parisjuniorcollege,thomasjeffriesmzod,Thomas Jeffries
 Feb 25,home,North Central Texas,L,5-1,5,1,4.0,win,20160225_elsy,3,0,1,,,,0,,1,1,,4.0,win,20160225_elsy,,,,1,0,,,,,3,2016,2015-16,div1,Paris,parisjuniorcollege,thomasjeffriesmzod,Thomas Jeffries
 Feb 25,home,North Central Texas,W,4-0,4,0,4.0,win,20160225_esf6,2,0,1,,,,0,1,1,,,4.0,win,20160225_esf6,,,,1,0,,,,,3,2016,2015-16,div1,Paris,parisjuniorcollege,thomasjeffriesmzod,Thomas Jeffries
+Feb 27,home,North Central Texas,W,6-5,6,5,1.0,win,20160227_bfsi,2,0,0,,,,1,2,1,,,1.0,win,20160227_bfsi,,,,0,0,,,,,4,2016,2015-16,div1,Paris,parisjuniorcollege,thomasjeffriesmzod,Thomas Jeffries
+Feb 27,home,North Central Texas,L,4-0,4,0,4.0,win,,,,,,,,,,,,,4.0,win,,,,,,,,,,,,2016,2015-16,div1,Paris,parisjuniorcollege,thomasjeffriesmzod,Thomas Jeffries
 Feb 29,home,Dallas College - Eastfield,W,12-1,12,1,11.0,win,,,,,,,,,,,,,11.0,win,,,,,,,,,,,,2016,2015-16,div1,Paris,parisjuniorcollege,thomasjeffriesmzod,Thomas Jeffries
+Mar 3,home,Northeast Texas,W,15-1,15,1,14.0,win,,,,,,,,,,,,,14.0,win,,,,,,,,,,,,2016,2015-16,div1,Paris,parisjuniorcollege,thomasjeffriesmzod,Thomas Jeffries
 Mar 5,home,Northeast Texas,W,8-1,8,1,7.0,win,,,,,,,,,,,,,7.0,win,,,,,,,,,,,,2016,2015-16,div1,Paris,parisjuniorcollege,thomasjeffriesmzod,Thomas Jeffries
 Mar 5,home,Northeast Texas,W,15-8,15,8,7.0,win,20160305_25gp,5,1,1,,,,0,,,,,7.0,win,20160305_25gp,,,,1,0,,,,,5,2016,2015-16,div1,Paris,parisjuniorcollege,thomasjeffriesmzod,Thomas Jeffries
+Mar 14,home,Bossier Parish,W,8-5,8,5,3.0,win,,,,,,,,,,,,,3.0,win,,,,,,,,,,,,2016,2015-16,div1,Paris,parisjuniorcollege,thomasjeffriesmzod,Thomas Jeffries
+Mar 14,home,Bossier Parish,L,7-6,7,6,1.0,win,20160314_47sk,4,2,2,1,0,1,3,0,1,0,0,1.0,win,20160314_47sk,0,0,0,6,2,,0,,,4,2016,2015-16,div1,Paris,parisjuniorcollege,thomasjeffriesmzod,Thomas Jeffries
 Mar 15,home,Bossier Parish,L,14-4,14,4,10.0,win,20160315_g0kb,0,0,0,,,,0,,,,,10.0,win,20160315_g0kb,,,,0,0,,,,,0,2016,2015-16,div1,Paris,parisjuniorcollege,thomasjeffriesmzod,Thomas Jeffries
+Mar 18,home,Navarro,L,8-7,8,7,1.0,win,20160318_hyac,0,0,0,,,,0,1,,,,1.0,win,20160318_hyac,,,,0,0,,,,,1,2016,2015-16,div1,Paris,parisjuniorcollege,thomasjeffriesmzod,Thomas Jeffries
+Mar 20,home,Navarro,W,7-6,7,6,1.0,win,20160320_rhb2,3,0,2,,,,2,,,1,,1.0,win,20160320_rhb2,,1,,2,0,,,,,4,2016,2015-16,div1,Paris,parisjuniorcollege,thomasjeffriesmzod,Thomas Jeffries
+Mar 20,home,Navarro,L,12-4,12,4,8.0,win,20160320_pk4p,0,0,0,,,,0,,,,,8.0,win,20160320_pk4p,,,,0,0,,,,,0,2016,2015-16,div1,Paris,parisjuniorcollege,thomasjeffriesmzod,Thomas Jeffries
 Mar 23,home,Panola,L,7-6,7,6,1.0,win,20160323_0g2h,0,0,0,,,,0,,,,,1.0,win,20160323_0g2h,,,,0,0,,,,,0,2016,2015-16,div1,Paris,parisjuniorcollege,thomasjeffriesmzod,Thomas Jeffries
+Mar 25,home,Panola,L,7-6,7,6,1.0,win,,,,,,,,,,,,,1.0,win,,,,,,,,,,,,2016,2015-16,div1,Paris,parisjuniorcollege,thomasjeffriesmzod,Thomas Jeffries
+Mar 25,home,Panola,W,4-3,4,3,1.0,win,,,,,,,,,,,,,1.0,win,,,,,,,,,,,,2016,2015-16,div1,Paris,parisjuniorcollege,thomasjeffriesmzod,Thomas Jeffries
+Mar 29,home,Carl Albert State,L,8-6,8,6,2.0,win,,,,,,,,,,,,,2.0,win,,,,,,,,,,,,2016,2015-16,div1,Paris,parisjuniorcollege,thomasjeffriesmzod,Thomas Jeffries
+Mar 29,home,Carl Albert State,W,4-1,4,1,3.0,win,20160329_r6o9,3,1,1,,,,0,,,,,3.0,win,20160329_r6o9,,,,1,0,,,,,3,2016,2015-16,div1,Paris,parisjuniorcollege,thomasjeffriesmzod,Thomas Jeffries
 Apr 1,home,Angelina,W,12-2,12,2,10.0,win,,,,,,,,,,,,,10.0,win,,,,,,,,,,,,2016,2015-16,div1,Paris,parisjuniorcollege,thomasjeffriesmzod,Thomas Jeffries
 Apr 2,home,Angelina,L,6-5,6,5,1.0,win,20160402_r6fw,4,0,1,1,,,1,,2,,,1.0,win,20160402_r6fw,,,,2,1,,,,,4,2016,2015-16,div1,Paris,parisjuniorcollege,thomasjeffriesmzod,Thomas Jeffries
 Apr 2,home,Angelina,W,14-4,14,4,10.0,win,,,,,,,,,,,,,10.0,win,,,,,,,,,,,,2016,2015-16,div1,Paris,parisjuniorcollege,thomasjeffriesmzod,Thomas Jeffries
 Apr 7,home,Northeast Texas,L,7-6,7,6,1.0,win,20160407_mcol,5,1,2,,,1,3,,1,1,,1.0,win,20160407_mcol,,,,5,1,,,,,5,2016,2015-16,div1,Paris,parisjuniorcollege,thomasjeffriesmzod,Thomas Jeffries
+Apr 9,home,Northeast Texas,W,15-3,15,3,12.0,win,20160409_r0pb,3,1,2,,,,2,1,,,,12.0,win,20160409_r0pb,,1,,2,0,,,,,5,2016,2015-16,div1,Paris,parisjuniorcollege,thomasjeffriesmzod,Thomas Jeffries
+Apr 9,home,Northeast Texas,L,10-9,10,9,1.0,win,20160409_oybq,4,1,2,,,,1,1,,2,,1.0,win,20160409_oybq,,,,2,0,,,,,5,2016,2015-16,div1,Paris,parisjuniorcollege,thomasjeffriesmzod,Thomas Jeffries
+Apr 14,home,Bossier Parish,L,5-3,5,3,2.0,win,20160414_dh80,2,0,1,0,0,0,0,0,0,1,0,2.0,win,20160414_dh80,0,0,2,1,0,,0,,,4,2016,2015-16,div1,Paris,parisjuniorcollege,thomasjeffriesmzod,Thomas Jeffries
 Apr 16,home,Bossier Parish,W,3-0,3,0,3.0,win,20160416_tmhp,3,1,2,0,0,0,0,0,0,1,0,3.0,win,20160416_tmhp,0,0,0,2,0,,0,,,3,2016,2015-16,div1,Paris,parisjuniorcollege,thomasjeffriesmzod,Thomas Jeffries
 Apr 16,home,Bossier Parish,L,7-5,7,5,2.0,win,20160416_2f6n,4,0,2,2,0,0,2,0,0,0,0,2.0,win,20160416_2f6n,0,0,0,4,2,,0,,,4,2016,2015-16,div1,Paris,parisjuniorcollege,thomasjeffriesmzod,Thomas Jeffries
 Apr 23,home,Navarro,W,4-3,4,3,1.0,win,20160423_fdmb,3,0,2,,,,2,,,1,,1.0,win,20160423_fdmb,,,,2,0,,,,,3,2016,2015-16,div1,Paris,parisjuniorcollege,thomasjeffriesmzod,Thomas Jeffries
 Apr 23,home,Navarro,L,10-2,10,2,8.0,win,20160423_opcr,3,0,1,,,,0,,,,,8.0,win,20160423_opcr,,,,1,0,,,,,3,2016,2015-16,div1,Paris,parisjuniorcollege,thomasjeffriesmzod,Thomas Jeffries
 Apr 25,home,Navarro,W,10-5,10,5,5.0,win,20160425_vahh,3,3,1,,,,0,1,,1,,5.0,win,20160425_vahh,,,,1,0,,,,,4,2016,2015-16,div1,Paris,parisjuniorcollege,thomasjeffriesmzod,Thomas Jeffries
+Apr 28,home,Panola,L,8-0,8,0,8.0,win,20160428_1zt7,3,0,1,,,,0,,1,,,8.0,win,20160428_1zt7,,,,1,0,,,,,3,2016,2015-16,div1,Paris,parisjuniorcollege,thomasjeffriesmzod,Thomas Jeffries
 Apr 30,home,Panola,L,10-0,10,0,10.0,win,20160430_ytle,1,0,0,,,,0,1,,,,10.0,win,20160430_ytle,,,,0,0,,,,,2,2016,2015-16,div1,Paris,parisjuniorcollege,thomasjeffriesmzod,Thomas Jeffries
 Apr 30,home,Panola,L,11-5,11,5,6.0,win,20160430_kck9,4,1,2,,,,2,,,,,6.0,win,20160430_kck9,,,,2,0,,,,,4,2016,2015-16,div1,Paris,parisjuniorcollege,thomasjeffriesmzod,Thomas Jeffries
+May 6,home,Angelina,W,8-5,8,5,3.0,win,20160506_rzqz,4,0,2,1,,,1,1,,,,3.0,win,20160506_rzqz,,,,3,1,,,,,5,2016,2015-16,div1,Paris,parisjuniorcollege,thomasjeffriesmzod,Thomas Jeffries
+May 7,home,Angelina,L,7-5,7,5,2.0,win,20160507_rsrd,3,0,0,,,,0,,1,,,2.0,win,20160507_rsrd,,,,0,0,,,,,3,2016,2015-16,div1,Paris,parisjuniorcollege,thomasjeffriesmzod,Thomas Jeffries
+May 7,home,Angelina,L,16-9,16,9,7.0,win,20160507_s9fp,4,1,1,,,,1,1,,,,7.0,win,20160507_s9fp,,,,1,0,,,,,5,2016,2015-16,div1,Paris,parisjuniorcollege,thomasjeffriesmzod,Thomas Jeffries
