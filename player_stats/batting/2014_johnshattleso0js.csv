@@ -1,25 +1,54 @@
-date,location,opponent,result,score,team_score,opp_score,game_score_diff_x,game_win_loss_x,game_id_x,AB,R,H,2B,3B,HR,RBI,BB,K,SB,CS,game_score_diff_y,game_win_loss_y,game_id_y,HBP,SF,SH,TB,XBH,HDP,GO,FO,GO/FO,PA,season,njcaa_season,njcaa_division,team,team_id,player_id,player_name
-Feb 9,home,Northeastern Oklahoma A&M,L,5-3,5,3,2.0,win,20140209_veke,1,0,0,,,,0,,,,,2.0,win,20140209_veke,,,,0,0,,,1,,1,2014,2013-14,div1,Panola,panolacollege,johnshattleso0js,John Shattles
-Feb 9,home,Northeastern Oklahoma A&M,W,4-2,4,2,2.0,win,20140209_xn2p,3,0,1,,,,0,,,,1,2.0,win,20140209_xn2p,,,,1,0,,,1,,3,2014,2013-14,div1,Panola,panolacollege,johnshattleso0js,John Shattles
-Feb 19,home,Tyler,L,6-4,6,4,2.0,win,20140219_uojw,3,1,2,0,0,0,1,0,1,0,0,2.0,win,20140219_uojw,0,1,0,2,0,0,0,0,,4,2014,2013-14,div1,Panola,panolacollege,johnshattleso0js,John Shattles
-Feb 26,home,McLennan,L,5-0,5,0,5.0,win,20140226_3m5x,2,0,0,,,,0,1,2,,,5.0,win,20140226_3m5x,,,,0,0,,,,,3,2014,2013-14,div1,Panola,panolacollege,johnshattleso0js,John Shattles
-Feb 26,home,McLennan,W,2-0,2,0,2.0,win,,,,,,,,,,,,,2.0,win,,,,,,,,,,,,2014,2013-14,div1,Panola,panolacollege,johnshattleso0js,John Shattles
-Mar 6,home,Paris,W,8-5,8,5,3.0,win,20140306_6pi4,3,1,1,1,,,0,1,1,,,3.0,win,20140306_6pi4,,,,2,1,,,1,,4,2014,2013-14,div1,Panola,panolacollege,johnshattleso0js,John Shattles
-Mar 8,home,Paris,L,1-0,1,0,1.0,win,20140308_dkv8,2,0,0,,,,0,,,,,1.0,win,20140308_dkv8,,,,0,0,,1,,,2,2014,2013-14,div1,Panola,panolacollege,johnshattleso0js,John Shattles
-Mar 8,home,Paris,L,6-0,6,0,6.0,win,,,,,,,,,,,,,6.0,win,,,,,,,,,,,,2014,2013-14,div1,Panola,panolacollege,johnshattleso0js,John Shattles
-Mar 15,home,Northeast Texas,W,4-0,4,0,4.0,win,20140315_3ap0,2,0,0,,,,0,1,,,,4.0,win,20140315_3ap0,1,,,0,0,,1,1,1.00,4,2014,2013-14,div1,Panola,panolacollege,johnshattleso0js,John Shattles
-Mar 15,home,Northeast Texas,W,4-2,4,2,2.0,win,,,,,,,,,,,,,2.0,win,,,,,,,,,,,,2014,2013-14,div1,Panola,panolacollege,johnshattleso0js,John Shattles
-Mar 20,home,Angelina,L,13-8,13,8,5.0,win,20140320_ictg,3,1,1,1,,,1,,,,,5.0,win,20140320_ictg,1,,,2,1,,1,1,1.00,4,2014,2013-14,div1,Panola,panolacollege,johnshattleso0js,John Shattles
-Mar 29,home,Bossier Parish,L,4-1,4,1,3.0,win,20140329_kamb,2,0,0,,,,0,2,,,,3.0,win,20140329_kamb,,,,0,0,,2,,,4,2014,2013-14,div1,Panola,panolacollege,johnshattleso0js,John Shattles
-Mar 29,home,Bossier Parish,W,5-4,5,4,1.0,win,20140329_483i,5,0,2,,,,2,,,,,1.0,win,20140329_483i,,,,2,0,,,3,,5,2014,2013-14,div1,Panola,panolacollege,johnshattleso0js,John Shattles
-Mar 30,home,Bossier Parish,W,5-4,5,4,1.0,win,20140330_na5i,5,1,1,,,1,1,,1,,,1.0,win,20140330_na5i,,,,4,1,,1,2,0.50,5,2014,2013-14,div1,Panola,panolacollege,johnshattleso0js,John Shattles
-Apr 4,home,Navarro,L,10-2,10,2,8.0,win,20140404_vbpy,4,0,0,,,,0,,2,,,8.0,win,20140404_vbpy,,,,0,0,,,1,,4,2014,2013-14,div1,Panola,panolacollege,johnshattleso0js,John Shattles
-Apr 5,home,Navarro,L,3-1,3,1,2.0,win,20140405_3ksv,1,0,0,,,,0,2,1,,,2.0,win,20140405_3ksv,,,,0,0,,,,,3,2014,2013-14,div1,Panola,panolacollege,johnshattleso0js,John Shattles
-Apr 5,home,Navarro,L,2-0,2,0,2.0,win,20140405_xylr,2,0,1,,,,0,,,,,2.0,win,20140405_xylr,,,,1,0,,1,,,2,2014,2013-14,div1,Panola,panolacollege,johnshattleso0js,John Shattles
-Apr 16,home,Northeast Texas,L,5-2,5,2,3.0,win,20140416_40zy,4,0,2,1,,,0,,,,,3.0,win,20140416_40zy,,,,3,1,,,1,,4,2014,2013-14,div1,Panola,panolacollege,johnshattleso0js,John Shattles
-Apr 21,home,Blinn,L,12-4,12,4,8.0,win,20140421_xc9k,2,0,0,,,,1,1,,,,8.0,win,20140421_xc9k,,,,0,0,,,2,,3,2014,2013-14,div1,Panola,panolacollege,johnshattleso0js,John Shattles
-Apr 21,home,Blinn,L,3-2,3,2,1.0,win,20140421_evf3,4,0,1,1,,,1,,,,,1.0,win,20140421_evf3,,,,2,1,,,3,,4,2014,2013-14,div1,Panola,panolacollege,johnshattleso0js,John Shattles
-Apr 26,home,Angelina,W,2-1,2,1,1.0,win,20140426_yn9v,3,0,0,,,,0,1,2,,,1.0,win,20140426_yn9v,,,,0,0,,1,,,4,2014,2013-14,div1,Panola,panolacollege,johnshattleso0js,John Shattles
-Apr 26,home,Angelina,W,5-3,5,3,2.0,win,20140426_rnmb,3,0,1,,,,0,,1,,,2.0,win,20140426_rnmb,,,,1,0,,1,,,3,2014,2013-14,div1,Panola,panolacollege,johnshattleso0js,John Shattles
-Apr 29,home,LSU Eunice,L,6-2,6,2,4.0,win,20140429_lyuq,1,0,0,,,,0,,,,,4.0,win,20140429_lyuq,,,,0,0,,1,,,1,2014,2013-14,div1,Panola,panolacollege,johnshattleso0js,John Shattles
-Apr 29,home,LSU Eunice,L,18-9,18,9,9.0,win,20140429_kexo,3,0,2,1,,,1,1,,,,9.0,win,20140429_kexo,,1,,3,1,,,1,,5,2014,2013-14,div1,Panola,panolacollege,johnshattleso0js,John Shattles
+date,location,opponent,result,score,team_score,opp_score,game_score_diff,game_win_loss,game_id,AB,R,H,2B,3B,HR,RBI,BB,K,SB,CS,HBP,SF,SH,TB,XBH,HDP,GO,FO,GO/FO,PA,season,njcaa_season,njcaa_division,team,team_id,player_id,player_name
+Jan 31,home,Baton Rouge,W,4-2,4,2,2.0,win,20140131_ky0m,3,0,1,,,,0,1,2,,,,,,1,0,,,,,4,2014,2013-14,div1,Panola,panolacollege,johnshattleso0js,John Shattles
+Feb 1,home,Baton Rouge,W,11-4,11,4,7.0,win,20140201_3bjm,5,2,2,,,,2,,1,,,1,,,2,0,,1,1,1.00,6,2014,2013-14,div1,Panola,panolacollege,johnshattleso0js,John Shattles
+Feb 1,home,Baton Rouge,W,22-5,22,5,17.0,win,20140201_f4a1,2,0,0,,,,0,,2,,,,,,0,0,,,,,2,2014,2013-14,div1,Panola,panolacollege,johnshattleso0js,John Shattles
+Feb 9,home,Northeastern Oklahoma A&M,L,5-3,5,3,2.0,win,20140209_veke,1,0,0,,,,0,,,,,,,,0,0,,,1,,1,2014,2013-14,div1,Panola,panolacollege,johnshattleso0js,John Shattles
+Feb 9,home,Northeastern Oklahoma A&M,W,4-2,4,2,2.0,win,20140209_xn2p,3,0,1,,,,0,,,,1,,,,1,0,,,1,,3,2014,2013-14,div1,Panola,panolacollege,johnshattleso0js,John Shattles
+Feb 14,home,Copiah-Lincoln,W,5-4,5,4,1.0,win,20140214_q315,3,0,1,,,,0,1,1,,,,,,1,0,,,,,4,2014,2013-14,div1,Panola,panolacollege,johnshattleso0js,John Shattles
+Feb 14,home,Copiah-Lincoln,W,9-1,9,1,8.0,win,,,,,,,,,,,,,,,,,,,,,,,2014,2013-14,div1,Panola,panolacollege,johnshattleso0js,John Shattles
+Feb 15,home,Hinds,W,7-4,7,4,3.0,win,,,,,,,,,,,,,,,,,,,,,,,2014,2013-14,div1,Panola,panolacollege,johnshattleso0js,John Shattles
+Feb 15,home,Hinds,W,6-5,6,5,1.0,win,20140215_cxhb,4,2,2,,,,1,,1,,,,,,2,0,,,1,,4,2014,2013-14,div1,Panola,panolacollege,johnshattleso0js,John Shattles
+Feb 19,home,Tyler,L,6-4,6,4,2.0,win,20140219_uojw,3,1,2,0,0,0,1,0,1,0,0,0,1,0,2,0,0,0,0,,4,2014,2013-14,div1,Panola,panolacollege,johnshattleso0js,John Shattles
+Feb 21,home,McLennan,L,2-1,2,1,1.0,win,20140221_zvt3,1,0,0,,,,0,2,,,,,,,0,0,,,1,,3,2014,2013-14,div1,Panola,panolacollege,johnshattleso0js,John Shattles
+Feb 21,home,McLennan,W,5-3,5,3,2.0,win,20140221_4b0d,4,1,2,,,,0,,1,,,,,,2,0,,1,,,4,2014,2013-14,div1,Panola,panolacollege,johnshattleso0js,John Shattles
+Feb 26,home,McLennan,L,5-0,5,0,5.0,win,20140226_3m5x,2,0,0,,,,0,1,2,,,,,,0,0,,,,,3,2014,2013-14,div1,Panola,panolacollege,johnshattleso0js,John Shattles
+Feb 26,home,McLennan,W,2-0,2,0,2.0,win,,,,,,,,,,,,,,,,,,,,,,,2014,2013-14,div1,Panola,panolacollege,johnshattleso0js,John Shattles
+Feb 28,home,Navarro,W,8-4,8,4,4.0,win,20140228_03jp,4,2,1,,,,0,1,2,,,,,,1,0,,,1,,5,2014,2013-14,div1,Panola,panolacollege,johnshattleso0js,John Shattles
+Mar 1,home,Navarro,L,4-3,4,3,1.0,win,20140301_isy0,3,0,0,,,,0,,2,,,,,,0,0,,,1,,3,2014,2013-14,div1,Panola,panolacollege,johnshattleso0js,John Shattles
+Mar 1,home,Navarro,L,5-2,5,2,3.0,win,,,,,,,,,,,,,,,,,,,,,,,2014,2013-14,div1,Panola,panolacollege,johnshattleso0js,John Shattles
+Mar 6,home,Paris,W,8-5,8,5,3.0,win,20140306_6pi4,3,1,1,1,,,0,1,1,,,,,,2,1,,,1,,4,2014,2013-14,div1,Panola,panolacollege,johnshattleso0js,John Shattles
+Mar 8,home,Paris,L,1-0,1,0,1.0,win,20140308_dkv8,2,0,0,,,,0,,,,,,,,0,0,,1,,,2,2014,2013-14,div1,Panola,panolacollege,johnshattleso0js,John Shattles
+Mar 8,home,Paris,L,6-0,6,0,6.0,win,,,,,,,,,,,,,,,,,,,,,,,2014,2013-14,div1,Panola,panolacollege,johnshattleso0js,John Shattles
+Mar 13,home,Northeast Texas,W,4-3,4,3,1.0,win,20140313_bx0r,4,0,1,,,,0,,2,,,,,,1,0,,,1,,4,2014,2013-14,div1,Panola,panolacollege,johnshattleso0js,John Shattles
+Mar 15,home,Northeast Texas,W,4-0,4,0,4.0,win,20140315_3ap0,2,0,0,,,,0,1,,,,1,,,0,0,,1,1,1.00,4,2014,2013-14,div1,Panola,panolacollege,johnshattleso0js,John Shattles
+Mar 15,home,Northeast Texas,W,4-2,4,2,2.0,win,,,,,,,,,,,,,,,,,,,,,,,2014,2013-14,div1,Panola,panolacollege,johnshattleso0js,John Shattles
+Mar 20,home,Angelina,L,13-8,13,8,5.0,win,20140320_ictg,3,1,1,1,,,1,,,,,1,,,2,1,,1,1,1.00,4,2014,2013-14,div1,Panola,panolacollege,johnshattleso0js,John Shattles
+Mar 21,home,Angelina,W,4-2,4,2,2.0,win,20140321_gzyi,4,1,3,2,,1,3,,1,,,,,,8,3,,,,,4,2014,2013-14,div1,Panola,panolacollege,johnshattleso0js,John Shattles
+Mar 21,home,Angelina,W,6-1,6,1,5.0,win,20140321_fx6u,2,1,1,,,,0,1,1,,,,,,1,0,,,,,3,2014,2013-14,div1,Panola,panolacollege,johnshattleso0js,John Shattles
+Mar 25,home,Blinn,W,10-4,10,4,6.0,win,20140325_dy3g,5,1,2,,,1,3,,,,,,,,5,1,,2,1,2.00,5,2014,2013-14,div1,Panola,panolacollege,johnshattleso0js,John Shattles
+Mar 29,home,Bossier Parish,L,4-1,4,1,3.0,win,20140329_kamb,2,0,0,,,,0,2,,,,,,,0,0,,2,,,4,2014,2013-14,div1,Panola,panolacollege,johnshattleso0js,John Shattles
+Mar 29,home,Bossier Parish,W,5-4,5,4,1.0,win,20140329_483i,5,0,2,,,,2,,,,,,,,2,0,,,3,,5,2014,2013-14,div1,Panola,panolacollege,johnshattleso0js,John Shattles
+Mar 30,home,Bossier Parish,W,5-4,5,4,1.0,win,20140330_na5i,5,1,1,,,1,1,,1,,,,,,4,1,,1,2,0.50,5,2014,2013-14,div1,Panola,panolacollege,johnshattleso0js,John Shattles
+Apr 1,home,LSU Eunice,L,13-7,13,7,6.0,win,20140401_35va,4,0,1,,,,0,1,2,,,,,,1,0,,1,,,5,2014,2013-14,div1,Panola,panolacollege,johnshattleso0js,John Shattles
+Apr 4,home,Navarro,L,10-2,10,2,8.0,win,20140404_vbpy,4,0,0,,,,0,,2,,,,,,0,0,,,1,,4,2014,2013-14,div1,Panola,panolacollege,johnshattleso0js,John Shattles
+Apr 5,home,Navarro,L,3-1,3,1,2.0,win,20140405_3ksv,1,0,0,,,,0,2,1,,,,,,0,0,,,,,3,2014,2013-14,div1,Panola,panolacollege,johnshattleso0js,John Shattles
+Apr 5,home,Navarro,L,2-0,2,0,2.0,win,20140405_xylr,2,0,1,,,,0,,,,,,,,1,0,,1,,,2,2014,2013-14,div1,Panola,panolacollege,johnshattleso0js,John Shattles
+Apr 11,home,Paris,L,7-5,7,5,2.0,win,20140411_2nad,5,0,1,,,,1,,,,,,,,1,0,,2,2,1.00,5,2014,2013-14,div1,Panola,panolacollege,johnshattleso0js,John Shattles
+Apr 12,home,Paris,L,8-0,8,0,8.0,win,20140412_hi8g,3,0,3,1,,,0,,,,,,,,4,1,,,,,3,2014,2013-14,div1,Panola,panolacollege,johnshattleso0js,John Shattles
+Apr 12,home,Paris,W,3-0,3,0,3.0,win,20140412_3x3a,4,0,0,,,,0,,1,,,,,,0,0,,2,1,2.00,4,2014,2013-14,div1,Panola,panolacollege,johnshattleso0js,John Shattles
+Apr 16,home,Northeast Texas,L,5-2,5,2,3.0,win,20140416_40zy,4,0,2,1,,,0,,,,,,,,3,1,,,1,,4,2014,2013-14,div1,Panola,panolacollege,johnshattleso0js,John Shattles
+Apr 18,home,Northeast Texas,W,4-0,4,0,4.0,win,20140418_pktp,3,0,2,,,,0,,1,,,,,,2,0,,,,,3,2014,2013-14,div1,Panola,panolacollege,johnshattleso0js,John Shattles
+Apr 18,home,Northeast Texas,W,10-9,10,9,1.0,win,20140418_qtve,5,1,2,,,,3,2,,,1,,,,2,0,,1,2,0.50,7,2014,2013-14,div1,Panola,panolacollege,johnshattleso0js,John Shattles
+Apr 21,home,Blinn,L,12-4,12,4,8.0,win,20140421_xc9k,2,0,0,,,,1,1,,,,,,,0,0,,,2,,3,2014,2013-14,div1,Panola,panolacollege,johnshattleso0js,John Shattles
+Apr 21,home,Blinn,L,3-2,3,2,1.0,win,20140421_evf3,4,0,1,1,,,1,,,,,,,,2,1,,,3,,4,2014,2013-14,div1,Panola,panolacollege,johnshattleso0js,John Shattles
+Apr 24,home,Angelina,W,5-2,5,2,3.0,win,20140424_qu16,3,1,0,,,,0,1,2,,1,,,,0,0,,1,,,4,2014,2013-14,div1,Panola,panolacollege,johnshattleso0js,John Shattles
+Apr 26,home,Angelina,W,2-1,2,1,1.0,win,20140426_yn9v,3,0,0,,,,0,1,2,,,,,,0,0,,1,,,4,2014,2013-14,div1,Panola,panolacollege,johnshattleso0js,John Shattles
+Apr 26,home,Angelina,W,5-3,5,3,2.0,win,20140426_rnmb,3,0,1,,,,0,,1,,,,,,1,0,,1,,,3,2014,2013-14,div1,Panola,panolacollege,johnshattleso0js,John Shattles
+Apr 29,home,LSU Eunice,L,6-2,6,2,4.0,win,20140429_lyuq,1,0,0,,,,0,,,,,,,,0,0,,1,,,1,2014,2013-14,div1,Panola,panolacollege,johnshattleso0js,John Shattles
+Apr 29,home,LSU Eunice,L,18-9,18,9,9.0,win,20140429_kexo,3,0,2,1,,,1,1,,,,,1,,3,1,,,1,,5,2014,2013-14,div1,Panola,panolacollege,johnshattleso0js,John Shattles
+May 1,home,Bossier Parish,W,14-4,14,4,10.0,win,20140501_vn4q,4,2,2,,,,3,,,1,,,1,,2,0,,1,2,0.50,5,2014,2013-14,div1,Panola,panolacollege,johnshattleso0js,John Shattles
+May 3,home,Bossier Parish,W,3-0,3,0,3.0,win,20140503_uvaa,3,0,1,1,,,1,,,,,,,,2,1,,,2,,3,2014,2013-14,div1,Panola,panolacollege,johnshattleso0js,John Shattles
+May 3,home,Bossier Parish,W,8-6,8,6,2.0,win,20140503_a533,3,1,1,,,,0,,,,,,,,1,0,,,1,,3,2014,2013-14,div1,Panola,panolacollege,johnshattleso0js,John Shattles
+May 10,home,Galveston,L,11-6,11,6,5.0,win,20140510_zpep,5,2,3,,,1,2,,1,,,,,,6,1,,,1,,5,2014,2013-14,div1,Panola,panolacollege,johnshattleso0js,John Shattles
+May 11,home,Paris,W,6-3,6,3,3.0,win,20140511_pjdo,5,0,1,,,,0,,,,,,,,1,0,,2,2,1.00,5,2014,2013-14,div1,Panola,panolacollege,johnshattleso0js,John Shattles
+May 12,home,Alvin,L,10-9,10,9,1.0,win,20140512_figu,4,1,1,1,,,0,,1,,,,,1,2,1,,2,,,5,2014,2013-14,div1,Panola,panolacollege,johnshattleso0js,John Shattles

@@ -1,21 +1,52 @@
-date,location,opponent,result,score,team_score,opp_score,game_score_diff_x,game_win_loss_x,game_id_x,AB,R,H,2B,3B,HR,RBI,BB,K,SB,CS,game_score_diff_y,game_win_loss_y,game_id_y,HBP,SF,SH,TB,XBH,HDP,GO,FO,GO/FO,PA,season,njcaa_season,njcaa_division,team,team_id,player_id,player_name
-Feb 24,home,Chattahoochee Valley,,,,,13.0,win,,,,,,,,,,,,,13.0,win,,,,,,,,,,,,2014,2013-14,div1,East Georgia State,eastgeorgiacollege,richardloveladyd2xk,Richard Lovelady
-Feb 28,home,USC Salkehatchie,L,5-3,5,3,2.0,win,,,,,,,,,,,,,2.0,win,,,,,,,,,,,,2014,2013-14,div1,East Georgia State,eastgeorgiacollege,richardloveladyd2xk,Richard Lovelady
-Feb 28,home,USC Salkehatchie,W,6-3,6,3,3.0,win,,,,,,,,,,,,,3.0,win,,,,,,,,,,,,2014,2013-14,div1,East Georgia State,eastgeorgiacollege,richardloveladyd2xk,Richard Lovelady
-Mar 4,home,Georgia Perimeter,L,10-3,10,3,7.0,win,,,,,,,,,,,,,7.0,win,,,,,,,,,,,,2014,2013-14,div1,East Georgia State,eastgeorgiacollege,richardloveladyd2xk,Richard Lovelady
-Mar 14,home,Darton State,L,12-4,12,4,8.0,win,,,,,,,,,,,,,8.0,win,,,,,,,,,,,,2014,2013-14,div1,East Georgia State,eastgeorgiacollege,richardloveladyd2xk,Richard Lovelady
-Mar 15,home,Darton State,L,2-0,2,0,2.0,win,,,,,,,,,,,,,2.0,win,,,,,,,,,,,,2014,2013-14,div1,East Georgia State,eastgeorgiacollege,richardloveladyd2xk,Richard Lovelady
-Mar 15,home,Darton State,L,6-0,6,0,6.0,win,,,,,,,,,,,,,6.0,win,,,,,,,,,,,,2014,2013-14,div1,East Georgia State,eastgeorgiacollege,richardloveladyd2xk,Richard Lovelady
-Mar 20,home,Middle Georgia State,W,4-1,4,1,3.0,win,,,,,,,,,,,,,3.0,win,,,,,,,,,,,,2014,2013-14,div1,East Georgia State,eastgeorgiacollege,richardloveladyd2xk,Richard Lovelady
-Mar 30,home,Abraham Baldwin,L,5-4,5,4,1.0,win,,,,,,,,,,,,,1.0,win,,,,,,,,,,,,2014,2013-14,div1,East Georgia State,eastgeorgiacollege,richardloveladyd2xk,Richard Lovelady
-Mar 30,home,Abraham Baldwin,L,6-1,6,1,5.0,win,,,,,,,,,,,,,5.0,win,,,,,,,,,,,,2014,2013-14,div1,East Georgia State,eastgeorgiacollege,richardloveladyd2xk,Richard Lovelady
-Mar 31,home,Abraham Baldwin,L,5-4,5,4,1.0,win,,,,,,,,,,,,,1.0,win,,,,,,,,,,,,2014,2013-14,div1,East Georgia State,eastgeorgiacollege,richardloveladyd2xk,Richard Lovelady
-Apr 3,home,Gordon State,L,4-1,4,1,3.0,win,,,,,,,,,,,,,3.0,win,,,,,,,,,,,,2014,2013-14,div1,East Georgia State,eastgeorgiacollege,richardloveladyd2xk,Richard Lovelady
-Apr 4,home,Gordon State,W,3-2,3,2,1.0,win,,,,,,,,,,,,,1.0,win,,,,,,,,,,,,2014,2013-14,div1,East Georgia State,eastgeorgiacollege,richardloveladyd2xk,Richard Lovelady
-Apr 4,home,Gordon State,L,10-3,10,3,7.0,win,,,,,,,,,,,,,7.0,win,,,,,,,,,,,,2014,2013-14,div1,East Georgia State,eastgeorgiacollege,richardloveladyd2xk,Richard Lovelady
-Apr 8,home,Georgia Highlands,W,11-9,11,9,2.0,win,,,,,,,,,,,,,2.0,win,,,,,,,,,,,,2014,2013-14,div1,East Georgia State,eastgeorgiacollege,richardloveladyd2xk,Richard Lovelady
-Apr 15,home,South Georgia State,W,7-6,7,6,1.0,win,,,,,,,,,,,,,1.0,win,,,,,,,,,,,,2014,2013-14,div1,East Georgia State,eastgeorgiacollege,richardloveladyd2xk,Richard Lovelady
-Apr 25,home,West Georgia Tech,L,5-4,5,4,1.0,win,,,,,,,,,,,,,1.0,win,,,,,,,,,,,,2014,2013-14,div1,East Georgia State,eastgeorgiacollege,richardloveladyd2xk,Richard Lovelady
-Apr 26,home,West Georgia Tech,W,9-2,9,2,7.0,win,,,,,,,,,,,,,7.0,win,,,,,,,,,,,,2014,2013-14,div1,East Georgia State,eastgeorgiacollege,richardloveladyd2xk,Richard Lovelady
-Apr 26,home,West Georgia Tech,W,19-9,19,9,10.0,win,,,,,,,,,,,,,10.0,win,,,,,,,,,,,,2014,2013-14,div1,East Georgia State,eastgeorgiacollege,richardloveladyd2xk,Richard Lovelady
-Apr 30,home,Andrew,,,,,10.0,win,,,,,,,,,,,,,10.0,win,,,,,,,,,,,,2014,2013-14,div1,East Georgia State,eastgeorgiacollege,richardloveladyd2xk,Richard Lovelady
+date,location,opponent,result,score,team_score,opp_score,game_score_diff,game_win_loss,game_id,AB,R,H,2B,3B,HR,RBI,BB,K,SB,CS,HBP,SF,SH,TB,XBH,HDP,GO,FO,GO/FO,PA,season,njcaa_season,njcaa_division,team,team_id,player_id,player_name
+Feb 1,home,Walters State,W,4-0,4,0,4.0,win,,,,,,,,,,,,,,,,,,,,,,,2014,2013-14,div1,East Georgia State,eastgeorgiacollege,richardloveladyd2xk,Richard Lovelady
+Feb 2,home,USC Salkehatchie,W,4-2,4,2,2.0,win,,,,,,,,,,,,,,,,,,,,,,,2014,2013-14,div1,East Georgia State,eastgeorgiacollege,richardloveladyd2xk,Richard Lovelady
+Feb 5,home,Brewton Parker JV,,,,,2.0,win,,,,,,,,,,,,,,,,,,,,,,,2014,2013-14,div1,East Georgia State,eastgeorgiacollege,richardloveladyd2xk,Richard Lovelady
+Feb 5,home,Brewton Parker JV,,,,,2.0,win,,,,,,,,,,,,,,,,,,,,,,,2014,2013-14,div1,East Georgia State,eastgeorgiacollege,richardloveladyd2xk,Richard Lovelady
+Feb 5,home,Brewton Parker JV,,,,,2.0,win,,,,,,,,,,,,,,,,,,,,,,,2014,2013-14,div1,East Georgia State,eastgeorgiacollege,richardloveladyd2xk,Richard Lovelady
+Feb 5,home,Brewton Parker JV,,,,,2.0,win,,,,,,,,,,,,,,,,,,,,,,,2014,2013-14,div1,East Georgia State,eastgeorgiacollege,richardloveladyd2xk,Richard Lovelady
+Feb 10,home,Brewton Parker JV,W,5-2,5,2,3.0,win,20140210_cn05,0,0,0,,,,0,,,,,,,,0,0,,,,,0,2014,2013-14,div1,East Georgia State,eastgeorgiacollege,richardloveladyd2xk,Richard Lovelady
+Feb 10,home,Brewton Parker JV,W,6-0,6,0,6.0,win,,,,,,,,,,,,,,,,,,,,,,,2014,2013-14,div1,East Georgia State,eastgeorgiacollege,richardloveladyd2xk,Richard Lovelady
+Feb 19,home,Brewton Parker JV,L,5-4,5,4,1.0,win,,,,,,,,,,,,,,,,,,,,,,,2014,2013-14,div1,East Georgia State,eastgeorgiacollege,richardloveladyd2xk,Richard Lovelady
+Feb 19,home,Brewton Parker JV,W,7-0,7,0,7.0,win,20140219_brmx,0,0,0,,,,0,,,,,,,,0,0,,,,,0,2014,2013-14,div1,East Georgia State,eastgeorgiacollege,richardloveladyd2xk,Richard Lovelady
+Feb 22,home,Chattahoochee Valley,L,2-0,2,0,2.0,win,,,,,,,,,,,,,,,,,,,,,,,2014,2013-14,div1,East Georgia State,eastgeorgiacollege,richardloveladyd2xk,Richard Lovelady
+Feb 22,home,Chattahoochee Valley,L,15-2,15,2,13.0,win,,,,,,,,,,,,,,,,,,,,,,,2014,2013-14,div1,East Georgia State,eastgeorgiacollege,richardloveladyd2xk,Richard Lovelady
+Feb 24,home,Chattahoochee Valley,,,,,13.0,win,,,,,,,,,,,,,,,,,,,,,,,2014,2013-14,div1,East Georgia State,eastgeorgiacollege,richardloveladyd2xk,Richard Lovelady
+Feb 28,home,USC Salkehatchie,L,5-3,5,3,2.0,win,,,,,,,,,,,,,,,,,,,,,,,2014,2013-14,div1,East Georgia State,eastgeorgiacollege,richardloveladyd2xk,Richard Lovelady
+Feb 28,home,USC Salkehatchie,W,6-3,6,3,3.0,win,,,,,,,,,,,,,,,,,,,,,,,2014,2013-14,div1,East Georgia State,eastgeorgiacollege,richardloveladyd2xk,Richard Lovelady
+Mar 4,home,Georgia Perimeter,L,10-3,10,3,7.0,win,,,,,,,,,,,,,,,,,,,,,,,2014,2013-14,div1,East Georgia State,eastgeorgiacollege,richardloveladyd2xk,Richard Lovelady
+Mar 8,home,Georgia Perimeter,L,3-1,3,1,2.0,win,,,,,,,,,,,,,,,,,,,,,,,2014,2013-14,div1,East Georgia State,eastgeorgiacollege,richardloveladyd2xk,Richard Lovelady
+Mar 8,home,Georgia Perimeter,L,9-2,9,2,7.0,win,,,,,,,,,,,,,,,,,,,,,,,2014,2013-14,div1,East Georgia State,eastgeorgiacollege,richardloveladyd2xk,Richard Lovelady
+Mar 9,home,Georgia Perimeter,L,11-6,11,6,5.0,win,,,,,,,,,,,,,,,,,,,,,,,2014,2013-14,div1,East Georgia State,eastgeorgiacollege,richardloveladyd2xk,Richard Lovelady
+Mar 11,home,Darton State,L,7-6,7,6,1.0,win,,,,,,,,,,,,,,,,,,,,,,,2014,2013-14,div1,East Georgia State,eastgeorgiacollege,richardloveladyd2xk,Richard Lovelady
+Mar 14,home,Darton State,L,12-4,12,4,8.0,win,,,,,,,,,,,,,,,,,,,,,,,2014,2013-14,div1,East Georgia State,eastgeorgiacollege,richardloveladyd2xk,Richard Lovelady
+Mar 15,home,Darton State,L,2-0,2,0,2.0,win,,,,,,,,,,,,,,,,,,,,,,,2014,2013-14,div1,East Georgia State,eastgeorgiacollege,richardloveladyd2xk,Richard Lovelady
+Mar 15,home,Darton State,L,6-0,6,0,6.0,win,,,,,,,,,,,,,,,,,,,,,,,2014,2013-14,div1,East Georgia State,eastgeorgiacollege,richardloveladyd2xk,Richard Lovelady
+Mar 19,home,Middle Georgia State,L,4-2,4,2,2.0,win,,,,,,,,,,,,,,,,,,,,,,,2014,2013-14,div1,East Georgia State,eastgeorgiacollege,richardloveladyd2xk,Richard Lovelady
+Mar 20,home,Middle Georgia State,W,4-1,4,1,3.0,win,,,,,,,,,,,,,,,,,,,,,,,2014,2013-14,div1,East Georgia State,eastgeorgiacollege,richardloveladyd2xk,Richard Lovelady
+Mar 22,home,Middle Georgia State,L,20-2,20,2,18.0,win,,,,,,,,,,,,,,,,,,,,,,,2014,2013-14,div1,East Georgia State,eastgeorgiacollege,richardloveladyd2xk,Richard Lovelady
+Mar 22,home,Middle Georgia State,L,4-2,4,2,2.0,win,,,,,,,,,,,,,,,,,,,,,,,2014,2013-14,div1,East Georgia State,eastgeorgiacollege,richardloveladyd2xk,Richard Lovelady
+Mar 25,home,Abraham Baldwin,L,9-3,9,3,6.0,win,,,,,,,,,,,,,,,,,,,,,,,2014,2013-14,div1,East Georgia State,eastgeorgiacollege,richardloveladyd2xk,Richard Lovelady
+Mar 30,home,Abraham Baldwin,L,5-4,5,4,1.0,win,,,,,,,,,,,,,,,,,,,,,,,2014,2013-14,div1,East Georgia State,eastgeorgiacollege,richardloveladyd2xk,Richard Lovelady
+Mar 30,home,Abraham Baldwin,L,6-1,6,1,5.0,win,,,,,,,,,,,,,,,,,,,,,,,2014,2013-14,div1,East Georgia State,eastgeorgiacollege,richardloveladyd2xk,Richard Lovelady
+Mar 31,home,Abraham Baldwin,L,5-4,5,4,1.0,win,,,,,,,,,,,,,,,,,,,,,,,2014,2013-14,div1,East Georgia State,eastgeorgiacollege,richardloveladyd2xk,Richard Lovelady
+Apr 1,home,Gordon State,L,12-1,12,1,11.0,win,,,,,,,,,,,,,,,,,,,,,,,2014,2013-14,div1,East Georgia State,eastgeorgiacollege,richardloveladyd2xk,Richard Lovelady
+Apr 3,home,Gordon State,L,4-1,4,1,3.0,win,,,,,,,,,,,,,,,,,,,,,,,2014,2013-14,div1,East Georgia State,eastgeorgiacollege,richardloveladyd2xk,Richard Lovelady
+Apr 4,home,Gordon State,W,3-2,3,2,1.0,win,,,,,,,,,,,,,,,,,,,,,,,2014,2013-14,div1,East Georgia State,eastgeorgiacollege,richardloveladyd2xk,Richard Lovelady
+Apr 4,home,Gordon State,L,10-3,10,3,7.0,win,,,,,,,,,,,,,,,,,,,,,,,2014,2013-14,div1,East Georgia State,eastgeorgiacollege,richardloveladyd2xk,Richard Lovelady
+Apr 8,home,Georgia Highlands,W,11-9,11,9,2.0,win,,,,,,,,,,,,,,,,,,,,,,,2014,2013-14,div1,East Georgia State,eastgeorgiacollege,richardloveladyd2xk,Richard Lovelady
+Apr 11,home,Georgia Highlands,L,6-5,6,5,1.0,win,,,,,,,,,,,,,,,,,,,,,,,2014,2013-14,div1,East Georgia State,eastgeorgiacollege,richardloveladyd2xk,Richard Lovelady
+Apr 12,home,Georgia Highlands,W,2-1,2,1,1.0,win,,,,,,,,,,,,,,,,,,,,,,,2014,2013-14,div1,East Georgia State,eastgeorgiacollege,richardloveladyd2xk,Richard Lovelady
+Apr 12,home,Georgia Highlands,L,9-2,9,2,7.0,win,20140412_2168,0,0,0,,,,0,,,,,,,,0,0,,,,,0,2014,2013-14,div1,East Georgia State,eastgeorgiacollege,richardloveladyd2xk,Richard Lovelady
+Apr 15,home,South Georgia State,W,7-6,7,6,1.0,win,,,,,,,,,,,,,,,,,,,,,,,2014,2013-14,div1,East Georgia State,eastgeorgiacollege,richardloveladyd2xk,Richard Lovelady
+Apr 17,home,South Georgia State,W,4-2,4,2,2.0,win,,,,,,,,,,,,,,,,,,,,,,,2014,2013-14,div1,East Georgia State,eastgeorgiacollege,richardloveladyd2xk,Richard Lovelady
+Apr 17,home,South Georgia State,W,9-2,9,2,7.0,win,,,,,,,,,,,,,,,,,,,,,,,2014,2013-14,div1,East Georgia State,eastgeorgiacollege,richardloveladyd2xk,Richard Lovelady
+Apr 21,home,South Georgia State,L,9-6,9,6,3.0,win,20140421_53td,0,0,0,,,,0,,,,,,,,0,0,,,,,0,2014,2013-14,div1,East Georgia State,eastgeorgiacollege,richardloveladyd2xk,Richard Lovelady
+Apr 22,home,West Georgia Tech,L,6-4,6,4,2.0,win,,,,,,,,,,,,,,,,,,,,,,,2014,2013-14,div1,East Georgia State,eastgeorgiacollege,richardloveladyd2xk,Richard Lovelady
+Apr 25,home,West Georgia Tech,L,5-4,5,4,1.0,win,,,,,,,,,,,,,,,,,,,,,,,2014,2013-14,div1,East Georgia State,eastgeorgiacollege,richardloveladyd2xk,Richard Lovelady
+Apr 26,home,West Georgia Tech,W,9-2,9,2,7.0,win,,,,,,,,,,,,,,,,,,,,,,,2014,2013-14,div1,East Georgia State,eastgeorgiacollege,richardloveladyd2xk,Richard Lovelady
+Apr 26,home,West Georgia Tech,W,19-9,19,9,10.0,win,,,,,,,,,,,,,,,,,,,,,,,2014,2013-14,div1,East Georgia State,eastgeorgiacollege,richardloveladyd2xk,Richard Lovelady
+Apr 30,home,Andrew,,,,,10.0,win,,,,,,,,,,,,,,,,,,,,,,,2014,2013-14,div1,East Georgia State,eastgeorgiacollege,richardloveladyd2xk,Richard Lovelady
+May 2,home,Andrew,,,,,10.0,win,,,,,,,,,,,,,,,,,,,,,,,2014,2013-14,div1,East Georgia State,eastgeorgiacollege,richardloveladyd2xk,Richard Lovelady
+May 3,home,Andrew,L,3-1,3,1,2.0,win,,,,,,,,,,,,,,,,,,,,,,,2014,2013-14,div1,East Georgia State,eastgeorgiacollege,richardloveladyd2xk,Richard Lovelady
+May 3,home,Andrew,W,12-5,12,5,7.0,win,20140503_myag,0,0,0,,,,0,,,,,,,,0,0,,,,,0,2014,2013-14,div1,East Georgia State,eastgeorgiacollege,richardloveladyd2xk,Richard Lovelady

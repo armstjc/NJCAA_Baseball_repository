@@ -1,44 +1,75 @@
-date,location,opponent,result,score,team_score,opp_score,game_score_diff_x,game_win_loss_x,game_id_x,AB,R,H,2B,3B,HR,RBI,BB,K,SB,CS,game_score_diff_y,game_win_loss_y,game_id_y,HBP,SF,SH,TB,XBH,HDP,GO,FO,GO/FO,PA,season,njcaa_season,njcaa_division,team,team_id,player_id,player_name
-Mar 1,home,Delaware County,,,,,,,,,,,,,,,,,,,10.0,win,,,,,,,,,,,,2014,2013-14,div1,Chesapeake,chesapeakecollege,joshyost1siy,Josh Yost
-Mar 1,home,Delaware County,,,,,,,,,,,,,,,,,,,10.0,win,,,,,,,,,,,,2014,2013-14,div1,Chesapeake,chesapeakecollege,joshyost1siy,Josh Yost
-Mar 1,home,Delaware County,,,,,,,,,,,,,,,,,,,10.0,win,,,,,,,,,,,,2014,2013-14,div1,Chesapeake,chesapeakecollege,joshyost1siy,Josh Yost
-Mar 1,home,Delaware County,,,,,,,,,,,,,,,,,,,10.0,win,,,,,,,,,,,,2014,2013-14,div1,Chesapeake,chesapeakecollege,joshyost1siy,Josh Yost
-Mar 13,home,Garrett,,,,,12,win,,,,,,,,,,,,,12.0,win,,,,,,,,,,,,2014,2013-14,div1,Chesapeake,chesapeakecollege,joshyost1siy,Josh Yost
-Mar 13,home,Garrett,,,,,12,win,,,,,,,,,,,,,12.0,win,,,,,,,,,,,,2014,2013-14,div1,Chesapeake,chesapeakecollege,joshyost1siy,Josh Yost
-Mar 13,home,Garrett,,,,,12,win,,,,,,,,,,,,,12.0,win,,,,,,,,,,,,2014,2013-14,div1,Chesapeake,chesapeakecollege,joshyost1siy,Josh Yost
-Mar 13,home,Garrett,,,,,12,win,,,,,,,,,,,,,12.0,win,,,,,,,,,,,,2014,2013-14,div1,Chesapeake,chesapeakecollege,joshyost1siy,Josh Yost
-Mar 14,home,SUNY Adirondack,W,6-0,6,0,6,win,,,,,,,,,,,,,6.0,win,,,,,,,,,,,,2014,2013-14,div1,Chesapeake,chesapeakecollege,joshyost1siy,Josh Yost
-Mar 14,home,SUNY Adirondack,W,5-0,5,0,5,win,,,,,,,,,,,,,5.0,win,,,,,,,,,,,,2014,2013-14,div1,Chesapeake,chesapeakecollege,joshyost1siy,Josh Yost
-Mar 15,home,Anne Arundel,L,7-3,7,3,4,win,,,,,,,,,,,,,4.0,win,,,,,,,,,,,,2014,2013-14,div1,Chesapeake,chesapeakecollege,joshyost1siy,Josh Yost
-Mar 15,home,Anne Arundel,W,2-1,2,1,1,win,,,,,,,,,,,,,1.0,win,,,,,,,,,,,,2014,2013-14,div1,Chesapeake,chesapeakecollege,joshyost1siy,Josh Yost
-Mar 26,home,Potomac State,,,,,5,win,,,,,,,,,,,,,5.0,win,,,,,,,,,,,,2014,2013-14,div1,Chesapeake,chesapeakecollege,joshyost1siy,Josh Yost
-Mar 30,home,RCSJ Cumberland,,,,,1,win,,,,,,,,,,,,,1.0,win,,,,,,,,,,,,2014,2013-14,div1,Chesapeake,chesapeakecollege,joshyost1siy,Josh Yost
-Mar 30,home,RCSJ Cumberland,,,,,1,win,,,,,,,,,,,,,1.0,win,,,,,,,,,,,,2014,2013-14,div1,Chesapeake,chesapeakecollege,joshyost1siy,Josh Yost
-Mar 30,home,RCSJ Cumberland,,,,,1,win,,,,,,,,,,,,,1.0,win,,,,,,,,,,,,2014,2013-14,div1,Chesapeake,chesapeakecollege,joshyost1siy,Josh Yost
-Mar 30,home,RCSJ Cumberland,,,,,1,win,,,,,,,,,,,,,1.0,win,,,,,,,,,,,,2014,2013-14,div1,Chesapeake,chesapeakecollege,joshyost1siy,Josh Yost
-Apr 3,home,Salem,W,3-1,3,1,2,win,,,,,,,,,,,,,2.0,win,,,,,,,,,,,,2014,2013-14,div1,Chesapeake,chesapeakecollege,joshyost1siy,Josh Yost
-Apr 5,home,Harford,W,9-8,9,8,1,win,,,,,,,,,,,,,1.0,win,,,,,,,,,,,,2014,2013-14,div1,Chesapeake,chesapeakecollege,joshyost1siy,Josh Yost
-Apr 5,home,Harford,L,7-5,7,5,2,win,,,,,,,,,,,,,2.0,win,,,,,,,,,,,,2014,2013-14,div1,Chesapeake,chesapeakecollege,joshyost1siy,Josh Yost
-Apr 6,home,Southside Virginia Community College,W,13-1,13,1,12,win,,,,,,,,,,,,,12.0,win,,,,,,,,,,,,2014,2013-14,div1,Chesapeake,chesapeakecollege,joshyost1siy,Josh Yost
-Apr 6,home,Southside Virginia Community College,W,14-4,14,4,10,win,20140406_h7rp,0,0,0,,,,0,,,,,10.0,win,20140406_h7rp,,,,0,0,,,,,0,2014,2013-14,div1,Chesapeake,chesapeakecollege,joshyost1siy,Josh Yost
-Apr 8,home,Frederick,,,,,10,win,,,,,,,,,,,,,10.0,win,,,,,,,,,,,,2014,2013-14,div1,Chesapeake,chesapeakecollege,joshyost1siy,Josh Yost
-Apr 8,home,Frederick,,,,,10,win,,,,,,,,,,,,,10.0,win,,,,,,,,,,,,2014,2013-14,div1,Chesapeake,chesapeakecollege,joshyost1siy,Josh Yost
-Apr 8,home,Frederick,,,,,10,win,,,,,,,,,,,,,10.0,win,,,,,,,,,,,,2014,2013-14,div1,Chesapeake,chesapeakecollege,joshyost1siy,Josh Yost
-Apr 8,home,Frederick,,,,,10,win,,,,,,,,,,,,,10.0,win,,,,,,,,,,,,2014,2013-14,div1,Chesapeake,chesapeakecollege,joshyost1siy,Josh Yost
-Apr 9,home,Montgomery,L,13-3,13,3,10,win,,,,,,,,,,,,,10.0,win,,,,,,,,,,,,2014,2013-14,div1,Chesapeake,chesapeakecollege,joshyost1siy,Josh Yost
-Apr 13,home,Garrett,W,3-2,3,2,1,win,,,,,,,,,,,,,1.0,win,,,,,,,,,,,,2014,2013-14,div1,Chesapeake,chesapeakecollege,joshyost1siy,Josh Yost
-Apr 13,home,Garrett,W,11-1,11,1,10,win,,,,,,,,,,,,,10.0,win,,,,,,,,,,,,2014,2013-14,div1,Chesapeake,chesapeakecollege,joshyost1siy,Josh Yost
-Apr 17,home,Southern Maryland,L,3-1,3,1,2,win,,,,,,,,,,,,,2.0,win,,,,,,,,,,,,2014,2013-14,div1,Chesapeake,chesapeakecollege,joshyost1siy,Josh Yost
-Apr 17,home,Southern Maryland,L,3-2,3,2,1,win,,,,,,,,,,,,,1.0,win,,,,,,,,,,,,2014,2013-14,div1,Chesapeake,chesapeakecollege,joshyost1siy,Josh Yost
-Apr 21,home,Potomac State,L,10-4,10,4,6,win,20140421_i8ty,0,0,0,,,,0,,,,,6.0,win,20140421_i8ty,,,,0,0,,,,,0,2014,2013-14,div1,Chesapeake,chesapeakecollege,joshyost1siy,Josh Yost
-Apr 22,home,Delaware Tech-Owens,L,9-2,9,2,7,win,20140422_wnu0,0,0,0,,,,0,,,,,7.0,win,20140422_wnu0,,,,0,0,,,,,0,2014,2013-14,div1,Chesapeake,chesapeakecollege,joshyost1siy,Josh Yost
-Apr 24,home,Hagerstown,L,9-6,9,6,3,win,,,,,,,,,,,,,3.0,win,,,,,,,,,,,,2014,2013-14,div1,Chesapeake,chesapeakecollege,joshyost1siy,Josh Yost
-Apr 27,home,CCBC Dundalk,W,7-6,7,6,1,win,,,,,,,,,,,,,1.0,win,,,,,,,,,,,,2014,2013-14,div1,Chesapeake,chesapeakecollege,joshyost1siy,Josh Yost
-Apr 27,home,CCBC Dundalk,W,4-0,4,0,4,win,20140427_g7wd,0,0,0,,,,0,,,,,4.0,win,20140427_g7wd,,,,0,0,,,,,0,2014,2013-14,div1,Chesapeake,chesapeakecollege,joshyost1siy,Josh Yost
-Apr 30,home,Delaware County,,,,,4,win,,,,,,,,,,,,,4.0,win,,,,,,,,,,,,2014,2013-14,div1,Chesapeake,chesapeakecollege,joshyost1siy,Josh Yost
-May 1,home,Frederick,,,,,4,win,,,,,,,,,,,,,4.0,win,,,,,,,,,,,,2014,2013-14,div1,Chesapeake,chesapeakecollege,joshyost1siy,Josh Yost
-May 1,home,Frederick,,,,,4,win,,,,,,,,,,,,,4.0,win,,,,,,,,,,,,2014,2013-14,div1,Chesapeake,chesapeakecollege,joshyost1siy,Josh Yost
-May 1,home,Frederick,,,,,4,win,,,,,,,,,,,,,4.0,win,,,,,,,,,,,,2014,2013-14,div1,Chesapeake,chesapeakecollege,joshyost1siy,Josh Yost
-May 1,home,Frederick,,,,,4,win,,,,,,,,,,,,,4.0,win,,,,,,,,,,,,2014,2013-14,div1,Chesapeake,chesapeakecollege,joshyost1siy,Josh Yost
-May 3,home,Frederick,L,3-1,3,1,2,win,,,,,,,,,,,,,2.0,win,,,,,,,,,,,,2014,2013-14,div1,Chesapeake,chesapeakecollege,joshyost1siy,Josh Yost
-May 3,home,Frederick,W,3-0,3,0,3,win,,,,,,,,,,,,,3.0,win,,,,,,,,,,,,2014,2013-14,div1,Chesapeake,chesapeakecollege,joshyost1siy,Josh Yost
+date,location,opponent,result,score,team_score,opp_score,game_score_diff,game_win_loss,game_id,AB,R,H,2B,3B,HR,RBI,BB,K,SB,CS,HBP,SF,SH,TB,XBH,HDP,GO,FO,GO/FO,PA,season,njcaa_season,njcaa_division,team,team_id,player_id,player_name
+Mar 7,home,Westmoreland,W,12-2,12,2,10,win,,,,,,,,,,,,,,,,,,,,,,,2014,2013-14,div1,Chesapeake,chesapeakecollege,joshyost1siy,Josh Yost
+Mar 7,home,John Wood,L,13-0,13,0,13,win,,,,,,,,,,,,,,,,,,,,,,,2014,2013-14,div1,Chesapeake,chesapeakecollege,joshyost1siy,Josh Yost
+Mar 8,home,John Wood,W,5-0,5,0,5,win,,,,,,,,,,,,,,,,,,,,,,,2014,2013-14,div1,Chesapeake,chesapeakecollege,joshyost1siy,Josh Yost
+Mar 8,home,Mercyhurst North East,W,5-4,5,4,1,win,,,,,,,,,,,,,,,,,,,,,,,2014,2013-14,div1,Chesapeake,chesapeakecollege,joshyost1siy,Josh Yost
+Mar 9,home,Spoon River,W,5-4,5,4,1,win,,,,,,,,,,,,,,,,,,,,,,,2014,2013-14,div1,Chesapeake,chesapeakecollege,joshyost1siy,Josh Yost
+Mar 9,home,Spoon River,W,14-2,14,2,12,win,,,,,,,,,,,,,,,,,,,,,,,2014,2013-14,div1,Chesapeake,chesapeakecollege,joshyost1siy,Josh Yost
+Mar 13,home,Garrett,,,,,12,win,,,,,,,,,,,,,,,,,,,,,,,2014,2013-14,div1,Chesapeake,chesapeakecollege,joshyost1siy,Josh Yost
+Mar 13,home,Garrett,,,,,12,win,,,,,,,,,,,,,,,,,,,,,,,2014,2013-14,div1,Chesapeake,chesapeakecollege,joshyost1siy,Josh Yost
+Mar 13,home,Garrett,,,,,12,win,,,,,,,,,,,,,,,,,,,,,,,2014,2013-14,div1,Chesapeake,chesapeakecollege,joshyost1siy,Josh Yost
+Mar 13,home,Garrett,,,,,12,win,,,,,,,,,,,,,,,,,,,,,,,2014,2013-14,div1,Chesapeake,chesapeakecollege,joshyost1siy,Josh Yost
+Mar 14,home,SUNY Adirondack,W,6-0,6,0,6,win,,,,,,,,,,,,,,,,,,,,,,,2014,2013-14,div1,Chesapeake,chesapeakecollege,joshyost1siy,Josh Yost
+Mar 14,home,SUNY Adirondack,W,5-0,5,0,5,win,,,,,,,,,,,,,,,,,,,,,,,2014,2013-14,div1,Chesapeake,chesapeakecollege,joshyost1siy,Josh Yost
+Mar 15,home,Anne Arundel,L,7-3,7,3,4,win,,,,,,,,,,,,,,,,,,,,,,,2014,2013-14,div1,Chesapeake,chesapeakecollege,joshyost1siy,Josh Yost
+Mar 15,home,Anne Arundel,W,2-1,2,1,1,win,,,,,,,,,,,,,,,,,,,,,,,2014,2013-14,div1,Chesapeake,chesapeakecollege,joshyost1siy,Josh Yost
+Mar 17,home,Northampton,L,4-3,4,3,1,win,,,,,,,,,,,,,,,,,,,,,,,2014,2013-14,div1,Chesapeake,chesapeakecollege,joshyost1siy,Josh Yost
+Mar 17,home,Triton,W,7-5,7,5,2,win,,,,,,,,,,,,,,,,,,,,,,,2014,2013-14,div1,Chesapeake,chesapeakecollege,joshyost1siy,Josh Yost
+Mar 18,home,Mercer County,L,8-0,8,0,8,win,,,,,,,,,,,,,,,,,,,,,,,2014,2013-14,div1,Chesapeake,chesapeakecollege,joshyost1siy,Josh Yost
+Mar 18,home,Bergen,L,10-9,10,9,1,win,,,,,,,,,,,,,,,,,,,,,,,2014,2013-14,div1,Chesapeake,chesapeakecollege,joshyost1siy,Josh Yost
+Mar 20,home,Mohawk Valley,L,2-1,2,1,1,win,,,,,,,,,,,,,,,,,,,,,,,2014,2013-14,div1,Chesapeake,chesapeakecollege,joshyost1siy,Josh Yost
+Mar 20,home,Bergen,W,13-3,13,3,10,win,,,,,,,,,,,,,,,,,,,,,,,2014,2013-14,div1,Chesapeake,chesapeakecollege,joshyost1siy,Josh Yost
+Mar 21,home,Bunker Hill,W,10-0,10,0,10,win,,,,,,,,,,,,,,,,,,,,,,,2014,2013-14,div1,Chesapeake,chesapeakecollege,joshyost1siy,Josh Yost
+Mar 21,home,Elgin,W,4-3,4,3,1,win,,,,,,,,,,,,,,,,,,,,,,,2014,2013-14,div1,Chesapeake,chesapeakecollege,joshyost1siy,Josh Yost
+Mar 22,home,Marian-Ancilla,W,8-3,8,3,5,win,,,,,,,,,,,,,,,,,,,,,,,2014,2013-14,div1,Chesapeake,chesapeakecollege,joshyost1siy,Josh Yost
+Mar 26,home,Potomac State,,,,,5,win,,,,,,,,,,,,,,,,,,,,,,,2014,2013-14,div1,Chesapeake,chesapeakecollege,joshyost1siy,Josh Yost
+Mar 27,home,Allegany Maryland,L,5-1,5,1,4,win,,,,,,,,,,,,,,,,,,,,,,,2014,2013-14,div1,Chesapeake,chesapeakecollege,joshyost1siy,Josh Yost
+Mar 27,home,Allegany Maryland,L,3-2,3,2,1,win,,,,,,,,,,,,,,,,,,,,,,,2014,2013-14,div1,Chesapeake,chesapeakecollege,joshyost1siy,Josh Yost
+Mar 29,home,CCBC Essex,,,,,1,win,,,,,,,,,,,,,,,,,,,,,,,2014,2013-14,div1,Chesapeake,chesapeakecollege,joshyost1siy,Josh Yost
+Mar 29,home,CCBC Essex,,,,,1,win,,,,,,,,,,,,,,,,,,,,,,,2014,2013-14,div1,Chesapeake,chesapeakecollege,joshyost1siy,Josh Yost
+Mar 29,home,CCBC Essex,,,,,1,win,,,,,,,,,,,,,,,,,,,,,,,2014,2013-14,div1,Chesapeake,chesapeakecollege,joshyost1siy,Josh Yost
+Mar 29,home,CCBC Essex,,,,,1,win,,,,,,,,,,,,,,,,,,,,,,,2014,2013-14,div1,Chesapeake,chesapeakecollege,joshyost1siy,Josh Yost
+Mar 30,home,RCSJ Cumberland,,,,,1,win,,,,,,,,,,,,,,,,,,,,,,,2014,2013-14,div1,Chesapeake,chesapeakecollege,joshyost1siy,Josh Yost
+Mar 30,home,RCSJ Cumberland,,,,,1,win,,,,,,,,,,,,,,,,,,,,,,,2014,2013-14,div1,Chesapeake,chesapeakecollege,joshyost1siy,Josh Yost
+Mar 30,home,RCSJ Cumberland,,,,,1,win,,,,,,,,,,,,,,,,,,,,,,,2014,2013-14,div1,Chesapeake,chesapeakecollege,joshyost1siy,Josh Yost
+Mar 30,home,RCSJ Cumberland,,,,,1,win,,,,,,,,,,,,,,,,,,,,,,,2014,2013-14,div1,Chesapeake,chesapeakecollege,joshyost1siy,Josh Yost
+Apr 1,home,Hagerstown,W,4-3,4,3,1,win,,,,,,,,,,,,,,,,,,,,,,,2014,2013-14,div1,Chesapeake,chesapeakecollege,joshyost1siy,Josh Yost
+Apr 2,home,CCBC Essex,W,8-2,8,2,6,win,,,,,,,,,,,,,,,,,,,,,,,2014,2013-14,div1,Chesapeake,chesapeakecollege,joshyost1siy,Josh Yost
+Apr 2,home,CCBC Essex,L,5-4,5,4,1,win,,,,,,,,,,,,,,,,,,,,,,,2014,2013-14,div1,Chesapeake,chesapeakecollege,joshyost1siy,Josh Yost
+Apr 3,home,Salem,W,3-1,3,1,2,win,,,,,,,,,,,,,,,,,,,,,,,2014,2013-14,div1,Chesapeake,chesapeakecollege,joshyost1siy,Josh Yost
+Apr 5,home,Harford,W,9-8,9,8,1,win,,,,,,,,,,,,,,,,,,,,,,,2014,2013-14,div1,Chesapeake,chesapeakecollege,joshyost1siy,Josh Yost
+Apr 5,home,Harford,L,7-5,7,5,2,win,,,,,,,,,,,,,,,,,,,,,,,2014,2013-14,div1,Chesapeake,chesapeakecollege,joshyost1siy,Josh Yost
+Apr 6,home,Southside Virginia Community College,W,13-1,13,1,12,win,,,,,,,,,,,,,,,,,,,,,,,2014,2013-14,div1,Chesapeake,chesapeakecollege,joshyost1siy,Josh Yost
+Apr 6,home,Southside Virginia Community College,W,14-4,14,4,10,win,20140406_h7rp,0,0,0,,,,0,,,,,,,,0,0,,,,,0,2014,2013-14,div1,Chesapeake,chesapeakecollege,joshyost1siy,Josh Yost
+Apr 8,home,Frederick,,,,,10,win,,,,,,,,,,,,,,,,,,,,,,,2014,2013-14,div1,Chesapeake,chesapeakecollege,joshyost1siy,Josh Yost
+Apr 8,home,Frederick,,,,,10,win,,,,,,,,,,,,,,,,,,,,,,,2014,2013-14,div1,Chesapeake,chesapeakecollege,joshyost1siy,Josh Yost
+Apr 8,home,Frederick,,,,,10,win,,,,,,,,,,,,,,,,,,,,,,,2014,2013-14,div1,Chesapeake,chesapeakecollege,joshyost1siy,Josh Yost
+Apr 8,home,Frederick,,,,,10,win,,,,,,,,,,,,,,,,,,,,,,,2014,2013-14,div1,Chesapeake,chesapeakecollege,joshyost1siy,Josh Yost
+Apr 9,home,Montgomery,L,13-3,13,3,10,win,,,,,,,,,,,,,,,,,,,,,,,2014,2013-14,div1,Chesapeake,chesapeakecollege,joshyost1siy,Josh Yost
+Apr 12,home,CCBC Catonsville,W,9-8,9,8,1,win,,,,,,,,,,,,,,,,,,,,,,,2014,2013-14,div1,Chesapeake,chesapeakecollege,joshyost1siy,Josh Yost
+Apr 12,home,CCBC Catonsville,L,7-6,7,6,1,win,,,,,,,,,,,,,,,,,,,,,,,2014,2013-14,div1,Chesapeake,chesapeakecollege,joshyost1siy,Josh Yost
+Apr 13,home,Garrett,W,3-2,3,2,1,win,,,,,,,,,,,,,,,,,,,,,,,2014,2013-14,div1,Chesapeake,chesapeakecollege,joshyost1siy,Josh Yost
+Apr 13,home,Garrett,W,11-1,11,1,10,win,,,,,,,,,,,,,,,,,,,,,,,2014,2013-14,div1,Chesapeake,chesapeakecollege,joshyost1siy,Josh Yost
+Apr 17,home,Southern Maryland,L,3-1,3,1,2,win,,,,,,,,,,,,,,,,,,,,,,,2014,2013-14,div1,Chesapeake,chesapeakecollege,joshyost1siy,Josh Yost
+Apr 17,home,Southern Maryland,L,3-2,3,2,1,win,,,,,,,,,,,,,,,,,,,,,,,2014,2013-14,div1,Chesapeake,chesapeakecollege,joshyost1siy,Josh Yost
+Apr 18,home,Cecil,L,4-1,4,1,3,win,,,,,,,,,,,,,,,,,,,,,,,2014,2013-14,div1,Chesapeake,chesapeakecollege,joshyost1siy,Josh Yost
+Apr 18,home,Cecil,L,11-1,11,1,10,win,20140418_wdff,0,0,0,,,,0,,,,,,,,0,0,,,,,0,2014,2013-14,div1,Chesapeake,chesapeakecollege,joshyost1siy,Josh Yost
+Apr 21,home,Potomac State,L,10-4,10,4,6,win,20140421_i8ty,0,0,0,,,,0,,,,,,,,0,0,,,,,0,2014,2013-14,div1,Chesapeake,chesapeakecollege,joshyost1siy,Josh Yost
+Apr 22,home,Delaware Tech-Owens,L,9-2,9,2,7,win,20140422_wnu0,0,0,0,,,,0,,,,,,,,0,0,,,,,0,2014,2013-14,div1,Chesapeake,chesapeakecollege,joshyost1siy,Josh Yost
+Apr 24,home,Hagerstown,L,9-6,9,6,3,win,,,,,,,,,,,,,,,,,,,,,,,2014,2013-14,div1,Chesapeake,chesapeakecollege,joshyost1siy,Josh Yost
+Apr 26,home,Prince George's,W,9-4,9,4,5,win,,,,,,,,,,,,,,,,,,,,,,,2014,2013-14,div1,Chesapeake,chesapeakecollege,joshyost1siy,Josh Yost
+Apr 26,home,Prince George's,W,7-2,7,2,5,win,20140426_4exl,0,0,0,,,,0,,,,,,,,0,0,,,,,0,2014,2013-14,div1,Chesapeake,chesapeakecollege,joshyost1siy,Josh Yost
+Apr 27,home,CCBC Dundalk,W,7-6,7,6,1,win,,,,,,,,,,,,,,,,,,,,,,,2014,2013-14,div1,Chesapeake,chesapeakecollege,joshyost1siy,Josh Yost
+Apr 27,home,CCBC Dundalk,W,4-0,4,0,4,win,20140427_g7wd,0,0,0,,,,0,,,,,,,,0,0,,,,,0,2014,2013-14,div1,Chesapeake,chesapeakecollege,joshyost1siy,Josh Yost
+Apr 30,home,Delaware County,,,,,4,win,,,,,,,,,,,,,,,,,,,,,,,2014,2013-14,div1,Chesapeake,chesapeakecollege,joshyost1siy,Josh Yost
+May 1,home,Frederick,,,,,4,win,,,,,,,,,,,,,,,,,,,,,,,2014,2013-14,div1,Chesapeake,chesapeakecollege,joshyost1siy,Josh Yost
+May 1,home,Frederick,,,,,4,win,,,,,,,,,,,,,,,,,,,,,,,2014,2013-14,div1,Chesapeake,chesapeakecollege,joshyost1siy,Josh Yost
+May 1,home,Frederick,,,,,4,win,,,,,,,,,,,,,,,,,,,,,,,2014,2013-14,div1,Chesapeake,chesapeakecollege,joshyost1siy,Josh Yost
+May 1,home,Frederick,,,,,4,win,,,,,,,,,,,,,,,,,,,,,,,2014,2013-14,div1,Chesapeake,chesapeakecollege,joshyost1siy,Josh Yost
+May 3,home,Frederick,L,3-1,3,1,2,win,,,,,,,,,,,,,,,,,,,,,,,2014,2013-14,div1,Chesapeake,chesapeakecollege,joshyost1siy,Josh Yost
+May 3,home,Frederick,W,3-0,3,0,3,win,,,,,,,,,,,,,,,,,,,,,,,2014,2013-14,div1,Chesapeake,chesapeakecollege,joshyost1siy,Josh Yost
+May 4,home,Potomac State,L,16-8,16,8,8,win,,,,,,,,,,,,,,,,,,,,,,,2014,2013-14,div1,Chesapeake,chesapeakecollege,joshyost1siy,Josh Yost
+May 6,home,Montgomery,L,8-5,8,5,3,win,20140506_db35,0,0,0,,,,0,,,,,,,,0,0,,,,,0,2014,2013-14,div1,Chesapeake,chesapeakecollege,joshyost1siy,Josh Yost
+May 9,home,Potomac State,L,3-1,3,1,2,win,,,,,,,,,,,,,,,,,,,,,,,2014,2013-14,div1,Chesapeake,chesapeakecollege,joshyost1siy,Josh Yost
+May 9,home,Hagerstown,W,18-9,18,9,9,win,20140509_5a2o,0,0,0,,,,0,,,,,,,,0,0,,,,,0,2014,2013-14,div1,Chesapeake,chesapeakecollege,joshyost1siy,Josh Yost
+May 10,home,Harford,L,11-1,11,1,10,win,20140510_xpzq,0,0,0,,,,0,,,,,,,,0,0,,,,,0,2014,2013-14,div1,Chesapeake,chesapeakecollege,joshyost1siy,Josh Yost

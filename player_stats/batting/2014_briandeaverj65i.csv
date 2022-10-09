@@ -1,27 +1,53 @@
-date,location,opponent,result,score,team_score,opp_score,game_score_diff_x,game_win_loss_x,game_id_x,AB,R,H,2B,3B,HR,RBI,BB,K,SB,CS,game_score_diff_y,game_win_loss_y,game_id_y,HBP,SF,SH,TB,XBH,HDP,GO,FO,GO/FO,PA,season,njcaa_season,njcaa_division,team,team_id,player_id,player_name
-Jan 31,home,Luna,W,11-1,11,1,10.0,win,,,,,,,,,,,,,10.0,win,,,,,,,,,,,,2014,2013-14,div1,Cisco,ciscocollege,briandeaverj65i,Brian Deaver
-Jan 31,home,Luna,W,11-1,11,1,10.0,win,,,,,,,,,,,,,10.0,win,20140131_f68f,,1,,1,0,,,,,3,2014,2013-14,div1,Cisco,ciscocollege,briandeaverj65i,Brian Deaver
-Jan 31,home,Luna,W,11-1,11,1,10.0,win,20140131_f68f,2,1,1,,,,1,,1,,,10.0,win,,,,,,,,,,,,2014,2013-14,div1,Cisco,ciscocollege,briandeaverj65i,Brian Deaver
-Jan 31,home,Luna,W,11-1,11,1,10.0,win,20140131_f68f,2,1,1,,,,1,,1,,,10.0,win,20140131_f68f,,1,,1,0,,,,,3,2014,2013-14,div1,Cisco,ciscocollege,briandeaverj65i,Brian Deaver
-Feb 1,home,Luna,W,9-3,9,3,6.0,win,20140201_0m04,1,2,1,,,,0,,,,,6.0,win,20140201_0m04,1,,,1,0,,,,,2,2014,2013-14,div1,Cisco,ciscocollege,briandeaverj65i,Brian Deaver
-Feb 1,home,Luna,W,12-5,12,5,7.0,win,20140201_smbr,3,2,2,,1,,3,1,,1,,7.0,win,20140201_smbr,,,,4,1,,,,,4,2014,2013-14,div1,Cisco,ciscocollege,briandeaverj65i,Brian Deaver
-Feb 15,home,Western Texas,W,6-1,6,1,5.0,win,20140215_gcdk,1,1,1,,,,0,1,,,,5.0,win,20140215_gcdk,,,1,1,0,,,,,3,2014,2013-14,div1,Cisco,ciscocollege,briandeaverj65i,Brian Deaver
-Feb 15,home,Western Texas,W,2-0,2,0,2.0,win,,,,,,,,,,,,,2.0,win,,,,,,,,,,,,2014,2013-14,div1,Cisco,ciscocollege,briandeaverj65i,Brian Deaver
-Feb 19,home,Dallas College - North Lake,W,7-4,7,4,3.0,win,,,,,,,,,,,,,3.0,win,,,,,,,,,,,,2014,2013-14,div1,Cisco,ciscocollege,briandeaverj65i,Brian Deaver
-Feb 19,home,Dallas College - North Lake,W,7-6,7,6,1.0,win,20140219_55sk,4,0,1,,,,1,,,,,1.0,win,20140219_55sk,,,,1,0,,,,,4,2014,2013-14,div1,Cisco,ciscocollege,briandeaverj65i,Brian Deaver
-Mar 5,home,Grayson,L,5-3,5,3,2.0,win,,,,,,,,,,,,,2.0,win,,,,,,,,,,,,2014,2013-14,div1,Cisco,ciscocollege,briandeaverj65i,Brian Deaver
-Mar 5,home,Grayson,L,7-1,7,1,6.0,win,20140305_tokq,1,0,0,,,,0,,1,,,6.0,win,20140305_tokq,,,,0,0,,,,,1,2014,2013-14,div1,Cisco,ciscocollege,briandeaverj65i,Brian Deaver
-Mar 12,home,Vernon,L,6-1,6,1,5.0,win,20140312_beta,3,0,1,,,,1,,1,,,5.0,win,20140312_beta,,,,1,0,,,,,3,2014,2013-14,div1,Cisco,ciscocollege,briandeaverj65i,Brian Deaver
-Mar 12,home,Vernon,W,7-2,7,2,5.0,win,,,,,,,,,,,,,5.0,win,,,,,,,,,,,,2014,2013-14,div1,Cisco,ciscocollege,briandeaverj65i,Brian Deaver
-Mar 27,home,North Central Texas,L,3-1,3,1,2.0,win,20140327_1j2t,2,0,0,,,,0,1,,,,2.0,win,20140327_1j2t,,,,0,0,,,,,3,2014,2013-14,div1,Cisco,ciscocollege,briandeaverj65i,Brian Deaver
-Mar 27,home,North Central Texas,L,13-11,13,11,2.0,win,20140327_ori6,0,0,0,,,,0,,,,,2.0,win,20140327_ori6,,,,0,0,,,,,0,2014,2013-14,div1,Cisco,ciscocollege,briandeaverj65i,Brian Deaver
-Apr 2,home,Ranger,L,6-4,6,4,2.0,win,20140402_w7ka,3,1,1,,1,,1,,,,,2.0,win,20140402_w7ka,,,,3,1,,,,,3,2014,2013-14,div1,Cisco,ciscocollege,briandeaverj65i,Brian Deaver
-Apr 2,home,Ranger,L,13-10,13,10,3.0,win,20140402_pf0c,3,1,0,,,,0,,1,,,3.0,win,20140402_pf0c,,,,0,0,,,,,3,2014,2013-14,div1,Cisco,ciscocollege,briandeaverj65i,Brian Deaver
-Apr 12,home,Hill,W,5-1,5,1,4.0,win,20140412_nbl7,4,0,1,,,,0,,,,,4.0,win,20140412_nbl7,,,,1,0,,,,,4,2014,2013-14,div1,Cisco,ciscocollege,briandeaverj65i,Brian Deaver
-Apr 12,home,Hill,W,17-7,17,7,10.0,win,20140412_zyn3,3,0,0,,,,1,1,1,,,10.0,win,20140412_zyn3,,1,,0,0,,,,,5,2014,2013-14,div1,Cisco,ciscocollege,briandeaverj65i,Brian Deaver
-Apr 16,home,McLennan,L,7-6,7,6,1.0,win,20140416_c4jm,3,0,2,1,,,0,1,1,,,1.0,win,20140416_c4jm,,,,3,1,,,,,4,2014,2013-14,div1,Cisco,ciscocollege,briandeaverj65i,Brian Deaver
-Apr 16,home,McLennan,L,23-3,23,3,20.0,win,20140416_elfz,0,0,0,,,,0,,,,,20.0,win,20140416_elfz,,,,0,0,,,,,0,2014,2013-14,div1,Cisco,ciscocollege,briandeaverj65i,Brian Deaver
-Apr 23,home,Weatherford,L,5-4,5,4,1.0,win,20140423_v1uo,4,0,0,,,,0,,1,,,1.0,win,20140423_v1uo,,,,0,0,,,,,4,2014,2013-14,div1,Cisco,ciscocollege,briandeaverj65i,Brian Deaver
-Apr 23,home,Weatherford,L,13-3,13,3,10.0,win,20140423_xn6e,3,0,0,,,,0,,1,,,10.0,win,20140423_xn6e,1,,,0,0,,,,,4,2014,2013-14,div1,Cisco,ciscocollege,briandeaverj65i,Brian Deaver
-May 3,home,Temple,L,7-1,7,1,6.0,win,20140503_v5gx,3,0,0,,,,0,,1,,,6.0,win,20140503_v5gx,,,,0,0,,,,,3,2014,2013-14,div1,Cisco,ciscocollege,briandeaverj65i,Brian Deaver
-May 3,home,Temple,W,7-4,7,4,3.0,win,20140503_jlt4,3,0,0,,,,0,1,,,,3.0,win,20140503_jlt4,,,,0,0,,,,,4,2014,2013-14,div1,Cisco,ciscocollege,briandeaverj65i,Brian Deaver
+date,location,opponent,result,score,team_score,opp_score,game_score_diff,game_win_loss,game_id,AB,R,H,2B,3B,HR,RBI,BB,K,SB,CS,HBP,SF,SH,TB,XBH,HDP,GO,FO,GO/FO,PA,season,njcaa_season,njcaa_division,team,team_id,player_id,player_name
+Jan 31,home,Luna,W,11-1,11,1,10.0,win,,,,,,,,,,,,,,,,,,,,,,,2014,2013-14,div1,Cisco,ciscocollege,briandeaverj65i,Brian Deaver
+Jan 31,home,Luna,W,11-1,11,1,10.0,win,20140131_f68f,2,1,1,,,,1,,1,,,,1,,1,0,,,,,3,2014,2013-14,div1,Cisco,ciscocollege,briandeaverj65i,Brian Deaver
+Feb 1,home,Luna,W,9-3,9,3,6.0,win,20140201_0m04,1,2,1,,,,0,,,,,1,,,1,0,,,,,2,2014,2013-14,div1,Cisco,ciscocollege,briandeaverj65i,Brian Deaver
+Feb 1,home,Luna,W,12-5,12,5,7.0,win,20140201_smbr,3,2,2,,1,,3,1,,1,,,,,4,1,,,,,4,2014,2013-14,div1,Cisco,ciscocollege,briandeaverj65i,Brian Deaver
+Feb 8,home,Dallas College - Brookhaven,L,3-1,3,1,2.0,win,20140208_291a,3,0,0,,,,0,,,,,,,,0,0,,,,,3,2014,2013-14,div1,Cisco,ciscocollege,briandeaverj65i,Brian Deaver
+Feb 8,home,Dallas College - Brookhaven,W,4-1,4,1,3.0,win,,,,,,,,,,,,,,,,,,,,,,,2014,2013-14,div1,Cisco,ciscocollege,briandeaverj65i,Brian Deaver
+Feb 13,home,Dallas College - Cedar Valley,W,10-5,10,5,5.0,win,20140213_z4xb,1,0,0,,,,0,,1,,,,,,0,0,,,,,1,2014,2013-14,div1,Cisco,ciscocollege,briandeaverj65i,Brian Deaver
+Feb 13,home,Dallas College - Cedar Valley,W,9-3,9,3,6.0,win,20140213_0uzr,1,0,0,,,,0,,,,,,,,0,0,,,,,1,2014,2013-14,div1,Cisco,ciscocollege,briandeaverj65i,Brian Deaver
+Feb 14,home,Concordia University,W,6-0,6,0,6.0,win,20140214_d2c8,1,0,0,,,,0,,,,,,,,0,0,,,,,1,2014,2013-14,div1,Cisco,ciscocollege,briandeaverj65i,Brian Deaver
+Feb 14,home,Concordia University,W,10-4,10,4,6.0,win,20140214_wlg5,4,0,0,,,,1,,,,,,,,0,0,,,,,4,2014,2013-14,div1,Cisco,ciscocollege,briandeaverj65i,Brian Deaver
+Feb 15,home,Western Texas,W,6-1,6,1,5.0,win,20140215_gcdk,1,1,1,,,,0,1,,,,,,1,1,0,,,,,3,2014,2013-14,div1,Cisco,ciscocollege,briandeaverj65i,Brian Deaver
+Feb 15,home,Western Texas,W,2-0,2,0,2.0,win,,,,,,,,,,,,,,,,,,,,,,,2014,2013-14,div1,Cisco,ciscocollege,briandeaverj65i,Brian Deaver
+Feb 17,home,Dallas College - Mountain View,W,17-4,17,4,13.0,win,20140217_ftyo,0,0,0,,,,0,,,,,,,,0,0,,,,,0,2014,2013-14,div1,Cisco,ciscocollege,briandeaverj65i,Brian Deaver
+Feb 17,home,Dallas College - Mountain View,W,13-2,13,2,11.0,win,20140217_rukd,4,1,1,,,1,3,,,,,,,,4,1,,,,,4,2014,2013-14,div1,Cisco,ciscocollege,briandeaverj65i,Brian Deaver
+Feb 19,home,Dallas College - North Lake,W,7-4,7,4,3.0,win,,,,,,,,,,,,,,,,,,,,,,,2014,2013-14,div1,Cisco,ciscocollege,briandeaverj65i,Brian Deaver
+Feb 19,home,Dallas College - North Lake,W,7-6,7,6,1.0,win,20140219_55sk,4,0,1,,,,1,,,,,,,,1,0,,,,,4,2014,2013-14,div1,Cisco,ciscocollege,briandeaverj65i,Brian Deaver
+Feb 24,home,Howard Payne,W,16-5,16,5,11.0,win,,,,,,,,,,,,,,,,,,,,,,,2014,2013-14,div1,Cisco,ciscocollege,briandeaverj65i,Brian Deaver
+Feb 24,home,Howard Payne,W,16-2,16,2,14.0,win,20140224_i0sg,3,2,2,1,,,2,1,,,,,,,3,1,,,,,4,2014,2013-14,div1,Cisco,ciscocollege,briandeaverj65i,Brian Deaver
+Mar 1,home,Wayland Baptist,W,15-6,15,6,9.0,win,20140301_75lc,0,0,0,,,,0,,,,,,,,0,0,,,,,0,2014,2013-14,div1,Cisco,ciscocollege,briandeaverj65i,Brian Deaver
+Mar 1,home,Wayland Baptist,W,5-3,5,3,2.0,win,20140301_6rqi,3,0,0,,,,0,,1,,,,,,0,0,,,,,3,2014,2013-14,div1,Cisco,ciscocollege,briandeaverj65i,Brian Deaver
+Mar 5,home,Grayson,L,5-3,5,3,2.0,win,,,,,,,,,,,,,,,,,,,,,,,2014,2013-14,div1,Cisco,ciscocollege,briandeaverj65i,Brian Deaver
+Mar 5,home,Grayson,L,7-1,7,1,6.0,win,20140305_tokq,1,0,0,,,,0,,1,,,,,,0,0,,,,,1,2014,2013-14,div1,Cisco,ciscocollege,briandeaverj65i,Brian Deaver
+Mar 8,home,Grayson,L,2-0,2,0,2.0,win,,,,,,,,,,,,,,,,,,,,,,,2014,2013-14,div1,Cisco,ciscocollege,briandeaverj65i,Brian Deaver
+Mar 8,home,Grayson,L,13-3,13,3,10.0,win,20140308_jpc0,1,0,0,,,,0,,1,,,,,,0,0,,,,,1,2014,2013-14,div1,Cisco,ciscocollege,briandeaverj65i,Brian Deaver
+Mar 12,home,Vernon,L,6-1,6,1,5.0,win,20140312_beta,3,0,1,,,,1,,1,,,,,,1,0,,,,,3,2014,2013-14,div1,Cisco,ciscocollege,briandeaverj65i,Brian Deaver
+Mar 12,home,Vernon,W,7-2,7,2,5.0,win,,,,,,,,,,,,,,,,,,,,,,,2014,2013-14,div1,Cisco,ciscocollege,briandeaverj65i,Brian Deaver
+Mar 15,home,Vernon,L,3-1,3,1,2.0,win,,,,,,,,,,,,,,,,,,,,,,,2014,2013-14,div1,Cisco,ciscocollege,briandeaverj65i,Brian Deaver
+Mar 15,home,Vernon,L,4-2,4,2,2.0,win,20140315_yugu,3,1,2,,,,0,1,,,,,,,2,0,,,,,4,2014,2013-14,div1,Cisco,ciscocollege,briandeaverj65i,Brian Deaver
+Mar 27,home,North Central Texas,L,3-1,3,1,2.0,win,20140327_1j2t,2,0,0,,,,0,1,,,,,,,0,0,,,,,3,2014,2013-14,div1,Cisco,ciscocollege,briandeaverj65i,Brian Deaver
+Mar 27,home,North Central Texas,L,13-11,13,11,2.0,win,20140327_ori6,0,0,0,,,,0,,,,,,,,0,0,,,,,0,2014,2013-14,div1,Cisco,ciscocollege,briandeaverj65i,Brian Deaver
+Mar 29,home,North Central Texas,L,6-1,6,1,5.0,win,20140329_gmqk,2,0,0,,,,0,,,,,,,,0,0,,,,,2,2014,2013-14,div1,Cisco,ciscocollege,briandeaverj65i,Brian Deaver
+Mar 29,home,North Central Texas,L,12-10,12,10,2.0,win,20140329_ktpy,0,0,0,,,,0,1,,,,,,,0,0,,,,,1,2014,2013-14,div1,Cisco,ciscocollege,briandeaverj65i,Brian Deaver
+Apr 2,home,Ranger,L,6-4,6,4,2.0,win,20140402_w7ka,3,1,1,,1,,1,,,,,,,,3,1,,,,,3,2014,2013-14,div1,Cisco,ciscocollege,briandeaverj65i,Brian Deaver
+Apr 2,home,Ranger,L,13-10,13,10,3.0,win,20140402_pf0c,3,1,0,,,,0,,1,,,,,,0,0,,,,,3,2014,2013-14,div1,Cisco,ciscocollege,briandeaverj65i,Brian Deaver
+Apr 5,home,Ranger,W,3-2,3,2,1.0,win,,,,,,,,,,,,,,,,,,,,,,,2014,2013-14,div1,Cisco,ciscocollege,briandeaverj65i,Brian Deaver
+Apr 5,home,Ranger,W,5-2,5,2,3.0,win,20140405_2jmz,4,0,1,1,,,2,,,,,,,,2,1,,,,,4,2014,2013-14,div1,Cisco,ciscocollege,briandeaverj65i,Brian Deaver
+Apr 9,home,Hill,W,3-0,3,0,3.0,win,20140409_pqzg,3,0,1,,,,0,1,1,1,,,,,1,0,,,,,4,2014,2013-14,div1,Cisco,ciscocollege,briandeaverj65i,Brian Deaver
+Apr 9,home,Hill,L,3-2,3,2,1.0,win,20140409_9b0k,3,1,2,,,,0,,1,,,,,,2,0,,,,,3,2014,2013-14,div1,Cisco,ciscocollege,briandeaverj65i,Brian Deaver
+Apr 12,home,Hill,W,5-1,5,1,4.0,win,20140412_nbl7,4,0,1,,,,0,,,,,,,,1,0,,,,,4,2014,2013-14,div1,Cisco,ciscocollege,briandeaverj65i,Brian Deaver
+Apr 12,home,Hill,W,17-7,17,7,10.0,win,20140412_zyn3,3,0,0,,,,1,1,1,,,,1,,0,0,,,,,5,2014,2013-14,div1,Cisco,ciscocollege,briandeaverj65i,Brian Deaver
+Apr 16,home,McLennan,L,7-6,7,6,1.0,win,20140416_c4jm,3,0,2,1,,,0,1,1,,,,,,3,1,,,,,4,2014,2013-14,div1,Cisco,ciscocollege,briandeaverj65i,Brian Deaver
+Apr 16,home,McLennan,L,23-3,23,3,20.0,win,20140416_elfz,0,0,0,,,,0,,,,,,,,0,0,,,,,0,2014,2013-14,div1,Cisco,ciscocollege,briandeaverj65i,Brian Deaver
+Apr 18,home,McLennan,W,2-1,2,1,1.0,win,20140418_yrpe,4,0,2,1,,,1,,,,,,,,3,1,,,,,4,2014,2013-14,div1,Cisco,ciscocollege,briandeaverj65i,Brian Deaver
+Apr 18,home,McLennan,W,6-5,6,5,1.0,win,20140418_4cld,4,1,1,,,,0,1,1,,,,,,1,0,,,,,5,2014,2013-14,div1,Cisco,ciscocollege,briandeaverj65i,Brian Deaver
+Apr 23,home,Weatherford,L,5-4,5,4,1.0,win,20140423_v1uo,4,0,0,,,,0,,1,,,,,,0,0,,,,,4,2014,2013-14,div1,Cisco,ciscocollege,briandeaverj65i,Brian Deaver
+Apr 23,home,Weatherford,L,13-3,13,3,10.0,win,20140423_xn6e,3,0,0,,,,0,,1,,,1,,,0,0,,,,,4,2014,2013-14,div1,Cisco,ciscocollege,briandeaverj65i,Brian Deaver
+Apr 26,home,Weatherford,L,10-0,10,0,10.0,win,,,,,,,,,,,,,,,,,,,,,,,2014,2013-14,div1,Cisco,ciscocollege,briandeaverj65i,Brian Deaver
+Apr 26,home,Weatherford,W,10-8,10,8,2.0,win,20140426_0kau,4,1,2,,,,1,1,1,,,,1,,2,0,,,,,6,2014,2013-14,div1,Cisco,ciscocollege,briandeaverj65i,Brian Deaver
+Apr 30,home,Temple,L,14-4,14,4,10.0,win,20140430_y10a,3,1,3,,,,1,,,,,,,,3,0,,,,,3,2014,2013-14,div1,Cisco,ciscocollege,briandeaverj65i,Brian Deaver
+Apr 30,home,Temple,W,30-4,30,4,26.0,win,20140430_88pl,6,4,5,1,,,4,,1,,,,,,6,1,,,,,6,2014,2013-14,div1,Cisco,ciscocollege,briandeaverj65i,Brian Deaver
+May 3,home,Temple,L,7-1,7,1,6.0,win,20140503_v5gx,3,0,0,,,,0,,1,,,,,,0,0,,,,,3,2014,2013-14,div1,Cisco,ciscocollege,briandeaverj65i,Brian Deaver
+May 3,home,Temple,W,7-4,7,4,3.0,win,20140503_jlt4,3,0,0,,,,0,1,,,,,,,0,0,,,,,4,2014,2013-14,div1,Cisco,ciscocollege,briandeaverj65i,Brian Deaver
