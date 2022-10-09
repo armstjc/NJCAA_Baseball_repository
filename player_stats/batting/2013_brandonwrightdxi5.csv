@@ -1,25 +1,57 @@
-date,location,opponent,result,score,team_score,opp_score,game_score_diff_x,game_win_loss_x,game_id_x,AB,R,H,2B,3B,HR,RBI,BB,K,SB,CS,game_score_diff_y,game_win_loss_y,game_id_y,HBP,SF,SH,TB,XBH,HDP,GO,FO,GO/FO,PA,season,njcaa_season,njcaa_division,team,team_id,player_id,player_name
-Feb 1,home,Temple,L,9-6,9,6,3.0,win,20130201_gbt9,3,1,1,,,,1,,,,,3.0,win,20130201_gbt9,,,,1,0,,,,,3,2013,2012-13,div1,San Jacinto-North,sanjacintocollegenorth,brandonwrightdxi5,Brandon Wright
-Feb 1,home,Temple,L,8-7,8,7,1.0,win,20130201_6wdi,4,1,0,,,,1,,1,,,1.0,win,20130201_6wdi,,,,0,0,,,,,4,2013,2012-13,div1,San Jacinto-North,sanjacintocollegenorth,brandonwrightdxi5,Brandon Wright
-Feb 8,home,Howard (TX),W,13-3,13,3,10.0,win,,,,,,,,,,,,,10.0,win,,,,,,,,,,,,2013,2012-13,div1,San Jacinto-North,sanjacintocollegenorth,brandonwrightdxi5,Brandon Wright
-Feb 9,home,Grayson,W,2-0,2,0,2.0,win,,,,,,,,,,,,,2.0,win,,,,,,,,,,,,2013,2012-13,div1,San Jacinto-North,sanjacintocollegenorth,brandonwrightdxi5,Brandon Wright
-Feb 22,home,Galveston,W,5-2,5,2,3.0,win,20130222_qpd5,1,1,0,,,,0,10,,,1,3.0,win,20130222_qpd5,,,,0,0,,,,,11,2013,2012-13,div1,San Jacinto-North,sanjacintocollegenorth,brandonwrightdxi5,Brandon Wright
-Mar 1,home,Laredo,W,8-4,8,4,4.0,win,,,,,,,,,,,,,4.0,win,,,,,,,,,,,,2013,2012-13,div1,San Jacinto-North,sanjacintocollegenorth,brandonwrightdxi5,Brandon Wright
-Mar 2,home,Laredo,W,5-4,5,4,1.0,win,20130302_pclf,0,0,0,,,,0,,,,,1.0,win,20130302_pclf,,,,0,0,,,,,0,2013,2012-13,div1,San Jacinto-North,sanjacintocollegenorth,brandonwrightdxi5,Brandon Wright
-Mar 2,home,Laredo,L,11-10,11,10,1.0,win,20130302_4pd9,1,0,0,,,,0,,1,,,1.0,win,20130302_4pd9,,,,0,0,,,,,1,2013,2012-13,div1,San Jacinto-North,sanjacintocollegenorth,brandonwrightdxi5,Brandon Wright
-Mar 9,home,Wharton County,W,6-5,6,5,1.0,win,20130309_el4m,1,0,0,,,,0,,,,,1.0,win,20130309_el4m,,,,0,0,,1,,,1,2013,2012-13,div1,San Jacinto-North,sanjacintocollegenorth,brandonwrightdxi5,Brandon Wright
-Mar 9,home,Wharton County,W,10-5,10,5,5.0,win,20130309_b8jh,3,2,2,,,,1,1,1,1,,5.0,win,20130309_b8jh,,,,2,0,,,,,4,2013,2012-13,div1,San Jacinto-North,sanjacintocollegenorth,brandonwrightdxi5,Brandon Wright
-Mar 12,home,South Suburban,W,1-0,1,0,1.0,win,20130312_34xb,3,0,0,,,,0,,1,,,1.0,win,20130312_34xb,,,,0,0,,,1,,3,2013,2012-13,div1,San Jacinto-North,sanjacintocollegenorth,brandonwrightdxi5,Brandon Wright
-Mar 14,home,South Suburban,W,11-8,11,8,3.0,win,20130314_zlwb,0,0,0,,,,0,,,,,3.0,win,20130314_zlwb,1,,,0,0,,,,,1,2013,2012-13,div1,San Jacinto-North,sanjacintocollegenorth,brandonwrightdxi5,Brandon Wright
-Mar 15,home,Blinn,W,5-4,5,4,1.0,win,20130315_470h,4,0,0,,,,1,,1,,,1.0,win,20130315_470h,,,,0,0,,2,1,2.00,4,2013,2012-13,div1,San Jacinto-North,sanjacintocollegenorth,brandonwrightdxi5,Brandon Wright
-Mar 19,home,Navarro,W,2-0,2,0,2.0,win,,,,,,,,,,,,,2.0,win,,,,,,,,,,,,2013,2012-13,div1,San Jacinto-North,sanjacintocollegenorth,brandonwrightdxi5,Brandon Wright
-Mar 19,home,Navarro,L,5-4,5,4,1.0,win,20130319_uvwr,0,0,0,,,,0,,,,,1.0,win,20130319_uvwr,,,,0,0,,,,,0,2013,2012-13,div1,San Jacinto-North,sanjacintocollegenorth,brandonwrightdxi5,Brandon Wright
-Mar 22,home,Alvin,W,7-6,7,6,1.0,win,20130322_nnxl,1,0,1,,,,1,,,,,1.0,win,20130322_nnxl,,,,1,0,,,,,1,2013,2012-13,div1,San Jacinto-North,sanjacintocollegenorth,brandonwrightdxi5,Brandon Wright
-Apr 6,home,Galveston,W,9-5,9,5,4.0,win,20130406_hkdv,1,1,0,,,,0,1,,,,4.0,win,20130406_hkdv,,,,0,0,,1,,,2,2013,2012-13,div1,San Jacinto-North,sanjacintocollegenorth,brandonwrightdxi5,Brandon Wright
-Apr 6,home,Galveston,L,7-1,7,1,6.0,win,,,,,,,,,,,,,6.0,win,,,,,,,,,,,,2013,2012-13,div1,San Jacinto-North,sanjacintocollegenorth,brandonwrightdxi5,Brandon Wright
-Apr 15,home,McLennan,L,12-5,12,5,7.0,win,,,,,,,,,,,,,7.0,win,,,,,,,,,,,,2013,2012-13,div1,San Jacinto-North,sanjacintocollegenorth,brandonwrightdxi5,Brandon Wright
-Apr 19,home,Wharton County,W,11-7,11,7,4.0,win,20130419_9fa6,4,1,1,,,,0,,1,,,4.0,win,20130419_9fa6,,,,1,0,,1,1,1.00,4,2013,2012-13,div1,San Jacinto-North,sanjacintocollegenorth,brandonwrightdxi5,Brandon Wright
-Apr 27,home,Blinn,L,8-0,8,0,8.0,win,,,,,,,,,,,,,8.0,win,,,,,,,,,,,,2013,2012-13,div1,San Jacinto-North,sanjacintocollegenorth,brandonwrightdxi5,Brandon Wright
-Apr 28,home,Blinn,W,8-2,8,2,6.0,win,,,,,,,,,,,,,6.0,win,,,,,,,,,,,,2013,2012-13,div1,San Jacinto-North,sanjacintocollegenorth,brandonwrightdxi5,Brandon Wright
-May 4,home,Alvin,W,9-1,9,1,8.0,win,20130504_u5ni,3,2,1,1,,,0,,,,,8.0,win,20130504_u5ni,1,,,2,1,,2,,,4,2013,2012-13,div1,San Jacinto-North,sanjacintocollegenorth,brandonwrightdxi5,Brandon Wright
-May 4,home,Alvin,W,5-4,5,4,1.0,win,20130504_jqpp,4,1,1,,,1,2,,1,,,1.0,win,20130504_jqpp,,,,4,1,,1,1,1.00,4,2013,2012-13,div1,San Jacinto-North,sanjacintocollegenorth,brandonwrightdxi5,Brandon Wright
+date,location,opponent,result,score,team_score,opp_score,game_score_diff,game_win_loss,game_id,AB,R,H,2B,3B,HR,RBI,BB,K,SB,CS,HBP,SF,SH,TB,XBH,HDP,GO,FO,GO/FO,PA,season,njcaa_season,njcaa_division,team,team_id,player_id,player_name
+Jan 26,home,Angelina,W,6-3,6,3,3.0,win,20130126_3ae0,3,0,0,,,,0,,,,,,,,0,0,,,,,3,2013,2012-13,div1,San Jacinto-North,sanjacintocollegenorth,brandonwrightdxi5,Brandon Wright
+Jan 26,home,Angelina,L,8-3,8,3,5.0,win,20130126_doux,2,0,0,,,,0,1,1,,,,,,0,0,,,,,3,2013,2012-13,div1,San Jacinto-North,sanjacintocollegenorth,brandonwrightdxi5,Brandon Wright
+Feb 1,home,Temple,L,9-6,9,6,3.0,win,20130201_gbt9,3,1,1,,,,1,,,,,,,,1,0,,,,,3,2013,2012-13,div1,San Jacinto-North,sanjacintocollegenorth,brandonwrightdxi5,Brandon Wright
+Feb 1,home,Temple,L,8-7,8,7,1.0,win,20130201_6wdi,4,1,0,,,,1,,1,,,,,,0,0,,,,,4,2013,2012-13,div1,San Jacinto-North,sanjacintocollegenorth,brandonwrightdxi5,Brandon Wright
+Feb 7,home,Navarro,L,5-2,5,2,3.0,win,,,,,,,,,,,,,,,,,,,,,,,2013,2012-13,div1,San Jacinto-North,sanjacintocollegenorth,brandonwrightdxi5,Brandon Wright
+Feb 8,home,Grayson,L,4-3,4,3,1.0,win,,,,,,,,,,,,,,,,,,,,,,,2013,2012-13,div1,San Jacinto-North,sanjacintocollegenorth,brandonwrightdxi5,Brandon Wright
+Feb 8,home,Howard (TX),W,13-3,13,3,10.0,win,,,,,,,,,,,,,,,,,,,,,,,2013,2012-13,div1,San Jacinto-North,sanjacintocollegenorth,brandonwrightdxi5,Brandon Wright
+Feb 9,home,Grayson,W,2-0,2,0,2.0,win,,,,,,,,,,,,,,,,,,,,,,,2013,2012-13,div1,San Jacinto-North,sanjacintocollegenorth,brandonwrightdxi5,Brandon Wright
+Feb 15,home,Middle Georgia State,L,6-2,6,2,4.0,win,20130215_cg26,2,0,0,,,,0,,2,,,,,,0,0,,,,,2,2013,2012-13,div1,San Jacinto-North,sanjacintocollegenorth,brandonwrightdxi5,Brandon Wright
+Feb 16,home,Chipola,L,4-2,4,2,2.0,win,,,,,,,,,,,,,,,,,,,,,,,2013,2012-13,div1,San Jacinto-North,sanjacintocollegenorth,brandonwrightdxi5,Brandon Wright
+Feb 17,home,Chipola,L,7-0,7,0,7.0,win,,,,,,,,,,,,,,,,,,,,,,,2013,2012-13,div1,San Jacinto-North,sanjacintocollegenorth,brandonwrightdxi5,Brandon Wright
+Feb 22,home,Galveston,W,5-2,5,2,3.0,win,20130222_qpd5,1,1,0,,,,0,10,,,1,,,,0,0,,,,,11,2013,2012-13,div1,San Jacinto-North,sanjacintocollegenorth,brandonwrightdxi5,Brandon Wright
+Feb 23,home,Galveston,L,10-4,10,4,6.0,win,20130223_wibv,3,0,0,,,,0,,,,,,,,0,0,,,,,3,2013,2012-13,div1,San Jacinto-North,sanjacintocollegenorth,brandonwrightdxi5,Brandon Wright
+Feb 23,home,Galveston,W,6-3,6,3,3.0,win,,,,,,,,,,,,,,,,,,,,,,,2013,2012-13,div1,San Jacinto-North,sanjacintocollegenorth,brandonwrightdxi5,Brandon Wright
+Mar 1,home,Laredo,W,8-4,8,4,4.0,win,,,,,,,,,,,,,,,,,,,,,,,2013,2012-13,div1,San Jacinto-North,sanjacintocollegenorth,brandonwrightdxi5,Brandon Wright
+Mar 2,home,Laredo,W,5-4,5,4,1.0,win,20130302_pclf,0,0,0,,,,0,,,,,,,,0,0,,,,,0,2013,2012-13,div1,San Jacinto-North,sanjacintocollegenorth,brandonwrightdxi5,Brandon Wright
+Mar 2,home,Laredo,L,11-10,11,10,1.0,win,20130302_4pd9,1,0,0,,,,0,,1,,,,,,0,0,,,,,1,2013,2012-13,div1,San Jacinto-North,sanjacintocollegenorth,brandonwrightdxi5,Brandon Wright
+Mar 4,home,Angelina,W,3-1,3,1,2.0,win,,,,,,,,,,,,,,,,,,,,,,,2013,2012-13,div1,San Jacinto-North,sanjacintocollegenorth,brandonwrightdxi5,Brandon Wright
+Mar 8,home,Wharton County,W,12-3,12,3,9.0,win,,,,,,,,,,,,,,,,,,,,,,,2013,2012-13,div1,San Jacinto-North,sanjacintocollegenorth,brandonwrightdxi5,Brandon Wright
+Mar 9,home,Wharton County,W,6-5,6,5,1.0,win,20130309_el4m,1,0,0,,,,0,,,,,,,,0,0,,1,,,1,2013,2012-13,div1,San Jacinto-North,sanjacintocollegenorth,brandonwrightdxi5,Brandon Wright
+Mar 9,home,Wharton County,W,10-5,10,5,5.0,win,20130309_b8jh,3,2,2,,,,1,1,1,1,,,,,2,0,,,,,4,2013,2012-13,div1,San Jacinto-North,sanjacintocollegenorth,brandonwrightdxi5,Brandon Wright
+Mar 12,home,South Suburban,W,1-0,1,0,1.0,win,20130312_34xb,3,0,0,,,,0,,1,,,,,,0,0,,,1,,3,2013,2012-13,div1,San Jacinto-North,sanjacintocollegenorth,brandonwrightdxi5,Brandon Wright
+Mar 14,home,South Suburban,W,11-8,11,8,3.0,win,20130314_zlwb,0,0,0,,,,0,,,,,1,,,0,0,,,,,1,2013,2012-13,div1,San Jacinto-North,sanjacintocollegenorth,brandonwrightdxi5,Brandon Wright
+Mar 15,home,Blinn,W,5-4,5,4,1.0,win,20130315_470h,4,0,0,,,,1,,1,,,,,,0,0,,2,1,2.00,4,2013,2012-13,div1,San Jacinto-North,sanjacintocollegenorth,brandonwrightdxi5,Brandon Wright
+Mar 16,home,Blinn,W,5-4,5,4,1.0,win,20130316_8qd7,3,0,1,,,,0,,1,,,,,,1,0,,1,1,1.00,3,2013,2012-13,div1,San Jacinto-North,sanjacintocollegenorth,brandonwrightdxi5,Brandon Wright
+Mar 16,home,Blinn,W,7-6,7,6,1.0,win,,,,,,,,,,,,,,,,,,,,,,,2013,2012-13,div1,San Jacinto-North,sanjacintocollegenorth,brandonwrightdxi5,Brandon Wright
+Mar 19,home,Navarro,W,2-0,2,0,2.0,win,,,,,,,,,,,,,,,,,,,,,,,2013,2012-13,div1,San Jacinto-North,sanjacintocollegenorth,brandonwrightdxi5,Brandon Wright
+Mar 19,home,Navarro,L,5-4,5,4,1.0,win,20130319_uvwr,0,0,0,,,,0,,,,,,,,0,0,,,,,0,2013,2012-13,div1,San Jacinto-North,sanjacintocollegenorth,brandonwrightdxi5,Brandon Wright
+Mar 22,home,Alvin,W,7-6,7,6,1.0,win,20130322_nnxl,1,0,1,,,,1,,,,,,,,1,0,,,,,1,2013,2012-13,div1,San Jacinto-North,sanjacintocollegenorth,brandonwrightdxi5,Brandon Wright
+Mar 23,home,Alvin,L,6-2,6,2,4.0,win,20130323_et3h,2,0,0,,,,0,,,,,1,,,0,0,,,2,,3,2013,2012-13,div1,San Jacinto-North,sanjacintocollegenorth,brandonwrightdxi5,Brandon Wright
+Mar 23,home,Alvin,L,5-2,5,2,3.0,win,20130323_zklo,2,0,0,,,,0,,1,,,2,,,0,0,,1,,,4,2013,2012-13,div1,San Jacinto-North,sanjacintocollegenorth,brandonwrightdxi5,Brandon Wright
+Apr 5,home,Galveston,W,8-4,8,4,4.0,win,,,,,,,,,,,,,,,,,,,,,,,2013,2012-13,div1,San Jacinto-North,sanjacintocollegenorth,brandonwrightdxi5,Brandon Wright
+Apr 6,home,Galveston,W,9-5,9,5,4.0,win,20130406_hkdv,1,1,0,,,,0,1,,,,,,,0,0,,1,,,2,2013,2012-13,div1,San Jacinto-North,sanjacintocollegenorth,brandonwrightdxi5,Brandon Wright
+Apr 6,home,Galveston,L,7-1,7,1,6.0,win,,,,,,,,,,,,,,,,,,,,,,,2013,2012-13,div1,San Jacinto-North,sanjacintocollegenorth,brandonwrightdxi5,Brandon Wright
+Apr 8,home,McLennan,W,8-3,8,3,5.0,win,,,,,,,,,,,,,,,,,,,,,,,2013,2012-13,div1,San Jacinto-North,sanjacintocollegenorth,brandonwrightdxi5,Brandon Wright
+Apr 12,home,Laredo,L,7-4,7,4,3.0,win,,,,,,,,,,,,,,,,,,,,,,,2013,2012-13,div1,San Jacinto-North,sanjacintocollegenorth,brandonwrightdxi5,Brandon Wright
+Apr 12,home,Laredo,W,3-1,3,1,2.0,win,,,,,,,,,,,,,,,,,,,,,,,2013,2012-13,div1,San Jacinto-North,sanjacintocollegenorth,brandonwrightdxi5,Brandon Wright
+Apr 13,home,Laredo,W,7-3,7,3,4.0,win,20130413_0kqd,1,0,0,,,,0,,1,,,,,,0,0,,,,,1,2013,2012-13,div1,San Jacinto-North,sanjacintocollegenorth,brandonwrightdxi5,Brandon Wright
+Apr 15,home,McLennan,L,12-5,12,5,7.0,win,,,,,,,,,,,,,,,,,,,,,,,2013,2012-13,div1,San Jacinto-North,sanjacintocollegenorth,brandonwrightdxi5,Brandon Wright
+Apr 19,home,Wharton County,W,11-7,11,7,4.0,win,20130419_9fa6,4,1,1,,,,0,,1,,,,,,1,0,,1,1,1.00,4,2013,2012-13,div1,San Jacinto-North,sanjacintocollegenorth,brandonwrightdxi5,Brandon Wright
+Apr 20,home,Wharton County,W,3-0,3,0,3.0,win,20130420_mw6p,1,0,1,,,,0,,,,,,,,1,0,,,,,1,2013,2012-13,div1,San Jacinto-North,sanjacintocollegenorth,brandonwrightdxi5,Brandon Wright
+Apr 20,home,Wharton County,W,5-4,5,4,1.0,win,20130420_cpsz,1,0,0,,,,0,,,,,,,,0,0,,,1,,1,2013,2012-13,div1,San Jacinto-North,sanjacintocollegenorth,brandonwrightdxi5,Brandon Wright
+Apr 22,home,Temple,W,10-0,10,0,10.0,win,20130422_9btg,2,2,1,,,,0,1,,,,,,,1,0,,,,,3,2013,2012-13,div1,San Jacinto-North,sanjacintocollegenorth,brandonwrightdxi5,Brandon Wright
+Apr 22,home,Temple,W,5-3,5,3,2.0,win,20130422_6dp6,1,0,0,,,,0,,,,,,,,0,0,,,1,,1,2013,2012-13,div1,San Jacinto-North,sanjacintocollegenorth,brandonwrightdxi5,Brandon Wright
+Apr 26,home,Blinn,W,8-6,8,6,2.0,win,,,,,,,,,,,,,,,,,,,,,,,2013,2012-13,div1,San Jacinto-North,sanjacintocollegenorth,brandonwrightdxi5,Brandon Wright
+Apr 27,home,Blinn,L,8-0,8,0,8.0,win,,,,,,,,,,,,,,,,,,,,,,,2013,2012-13,div1,San Jacinto-North,sanjacintocollegenorth,brandonwrightdxi5,Brandon Wright
+Apr 28,home,Blinn,W,8-2,8,2,6.0,win,,,,,,,,,,,,,,,,,,,,,,,2013,2012-13,div1,San Jacinto-North,sanjacintocollegenorth,brandonwrightdxi5,Brandon Wright
+Apr 29,home,Navarro,L,6-2,6,2,4.0,win,20130429_hx0r,3,1,1,1,,,0,,,,,,,,2,1,,1,,,3,2013,2012-13,div1,San Jacinto-North,sanjacintocollegenorth,brandonwrightdxi5,Brandon Wright
+Apr 29,home,Navarro,W,1-0,1,0,1.0,win,20130429_esp4,3,0,0,,,,0,,1,,,,,,0,0,,3,,,3,2013,2012-13,div1,San Jacinto-North,sanjacintocollegenorth,brandonwrightdxi5,Brandon Wright
+May 3,home,Alvin,L,13-6,13,6,7.0,win,20130503_du5v,3,0,1,1,,,0,,,,,,,,2,1,,,2,,3,2013,2012-13,div1,San Jacinto-North,sanjacintocollegenorth,brandonwrightdxi5,Brandon Wright
+May 4,home,Alvin,W,9-1,9,1,8.0,win,20130504_u5ni,3,2,1,1,,,0,,,,,1,,,2,1,,2,,,4,2013,2012-13,div1,San Jacinto-North,sanjacintocollegenorth,brandonwrightdxi5,Brandon Wright
+May 4,home,Alvin,W,5-4,5,4,1.0,win,20130504_jqpp,4,1,1,,,1,2,,1,,,,,,4,1,,1,1,1.00,4,2013,2012-13,div1,San Jacinto-North,sanjacintocollegenorth,brandonwrightdxi5,Brandon Wright
+May 11,home,Bossier Parish,W,5-1,5,1,4.0,win,20130511_j0bq,2,0,0,,,,0,1,,,,,,,0,0,,2,,,3,2013,2012-13,div1,San Jacinto-North,sanjacintocollegenorth,brandonwrightdxi5,Brandon Wright
+May 12,home,Panola,W,6-2,6,2,4.0,win,20130512_jx6m,4,1,1,,1,,3,,1,,,,,,3,1,,1,1,1.00,4,2013,2012-13,div1,San Jacinto-North,sanjacintocollegenorth,brandonwrightdxi5,Brandon Wright
+May 13,home,Navarro,L,15-13,15,13,2.0,win,20130513_mqzb,2,0,0,,,,0,,2,,,,,1,0,0,,1,,,3,2013,2012-13,div1,San Jacinto-North,sanjacintocollegenorth,brandonwrightdxi5,Brandon Wright
+May 14,home,Alvin,L,5-3,5,3,2.0,win,20130514_iiya,2,0,0,,,,0,,,,,,,1,0,0,,2,1,2.00,3,2013,2012-13,div1,San Jacinto-North,sanjacintocollegenorth,brandonwrightdxi5,Brandon Wright

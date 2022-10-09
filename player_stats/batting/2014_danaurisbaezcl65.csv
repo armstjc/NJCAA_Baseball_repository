@@ -1,14 +1,46 @@
-date,location,opponent,result,score,team_score,opp_score,game_score_diff_x,game_win_loss_x,game_id_x,AB,R,H,2B,3B,HR,RBI,BB,K,SB,CS,game_score_diff_y,game_win_loss_y,game_id_y,HBP,SF,SH,TB,XBH,HDP,GO,FO,GO/FO,PA,season,njcaa_season,njcaa_division,team,team_id,player_id,player_name
-Mar 14,home,Ulster County,W,8-0,8,0,8.0,win,,,,,,,,,,,,,8.0,win,,,,,,,,,,,,2014,2013-14,div1,ASA New York,asabrooklynavengers,danaurisbaezcl65,Danauris Baez
-Mar 14,home,Ulster County,W,9-2,9,2,7.0,win,20140314_221m,3,1,2,2,,,4,,,,,7.0,win,20140314_221m,,1,,4,2,,,1,,4,2014,2013-14,div1,ASA New York,asabrooklynavengers,danaurisbaezcl65,Danauris Baez
-Mar 16,home,Bronx,W,12-3,12,3,9.0,win,20140316_lgzl,1,2,1,,,,0,3,,,,9.0,win,20140316_lgzl,,,,1,0,,,,,4,2014,2013-14,div1,ASA New York,asabrooklynavengers,danaurisbaezcl65,Danauris Baez
-Mar 16,home,Bronx,W,6-5,6,5,1.0,win,,,,,,,,,,,,,1.0,win,,,,,,,,,,,,2014,2013-14,div1,ASA New York,asabrooklynavengers,danaurisbaezcl65,Danauris Baez
-Mar 22,home,Queensborough,W,12-0,12,0,12.0,win,20140322_vhix,3,0,1,,,,1,,2,,,12.0,win,20140322_vhix,,,,1,0,,,,,3,2014,2013-14,div1,ASA New York,asabrooklynavengers,danaurisbaezcl65,Danauris Baez
-Mar 22,home,Queensborough,W,10-0,10,0,10.0,win,20140322_270p,0,0,0,,,,0,,,,,10.0,win,20140322_270p,,,,0,0,,,,,0,2014,2013-14,div1,ASA New York,asabrooklynavengers,danaurisbaezcl65,Danauris Baez
-Apr 2,home,Globe Tech,W,5-0,5,0,5.0,win,,,,,,,,,,,,,5.0,win,,,,,,,,,,,,2014,2013-14,div1,ASA New York,asabrooklynavengers,danaurisbaezcl65,Danauris Baez
-Apr 10,home,Monroe College,W,3-0,3,0,3.0,win,,,,,,,,,,,,,3.0,win,,,,,,,,,,,,2014,2013-14,div1,ASA New York,asabrooklynavengers,danaurisbaezcl65,Danauris Baez
-Apr 10,home,Monroe College,W,4-2,4,2,2.0,win,,,,,,,,,,,,,2.0,win,,,,,,,,,,,,2014,2013-14,div1,ASA New York,asabrooklynavengers,danaurisbaezcl65,Danauris Baez
-Apr 14,home,Monroe College,W,5-4,5,4,1.0,win,,,,,,,,,,,,,1.0,win,,,,,,,,,,,,2014,2013-14,div1,ASA New York,asabrooklynavengers,danaurisbaezcl65,Danauris Baez
-Apr 24,home,Globe Tech,W,6-3,6,3,3.0,win,,,,,,,,,,,,,3.0,win,,,,,,,,,,,,2014,2013-14,div1,ASA New York,asabrooklynavengers,danaurisbaezcl65,Danauris Baez
-May 9,home,Monroe College,W,3-1,3,1,2.0,win,,,,,,,,,,,,,2.0,win,,,,,,,,,,,,2014,2013-14,div1,ASA New York,asabrooklynavengers,danaurisbaezcl65,Danauris Baez
-May 9,home,Monroe College,W,8-7,8,7,1.0,win,,,,,,,,,,,,,1.0,win,,,,,,,,,,,,2014,2013-14,div1,ASA New York,asabrooklynavengers,danaurisbaezcl65,Danauris Baez
+date,location,opponent,result,score,team_score,opp_score,game_score_diff,game_win_loss,game_id,AB,R,H,2B,3B,HR,RBI,BB,K,SB,CS,HBP,SF,SH,TB,XBH,HDP,GO,FO,GO/FO,PA,season,njcaa_season,njcaa_division,team,team_id,player_id,player_name
+Mar 1,home,Delta,W,17-0,17,0,17.0,win,20140301_bu38,0,2,0,,,,1,2,,,,,,,0,0,,,,,2,2014,2013-14,div1,ASA New York,asabrooklynavengers,danaurisbaezcl65,Danauris Baez
+Mar 1,home,Jackson,L,4-2,4,2,2.0,win,,,,,,,,,,,,,,,,,,,,,,,2014,2013-14,div1,ASA New York,asabrooklynavengers,danaurisbaezcl65,Danauris Baez
+Mar 2,home,Jackson,W,10-4,10,4,6.0,win,20140302_fzf8,5,2,2,2,,,2,,2,,,,,,4,2,,,1,,5,2014,2013-14,div1,ASA New York,asabrooklynavengers,danaurisbaezcl65,Danauris Baez
+Mar 2,home,Delta,W,4-1,4,1,3.0,win,,,,,,,,,,,,,,,,,,,,,,,2014,2013-14,div1,ASA New York,asabrooklynavengers,danaurisbaezcl65,Danauris Baez
+Mar 3,home,Delta,W,10-9,10,9,1.0,win,,,,,,,,,,,,,,,,,,,,,,,2014,2013-14,div1,ASA New York,asabrooklynavengers,danaurisbaezcl65,Danauris Baez
+Mar 4,home,Jackson,L,9-2,9,2,7.0,win,20140304_pv6n,4,1,1,1,,,0,,2,,,,,,2,1,,1,,,4,2014,2013-14,div1,ASA New York,asabrooklynavengers,danaurisbaezcl65,Danauris Baez
+Mar 5,home,Delgado,L,2-1,2,1,1.0,win,,,,,,,,,,,,,,,,,,,,,,,2014,2013-14,div1,ASA New York,asabrooklynavengers,danaurisbaezcl65,Danauris Baez
+Mar 5,home,Delgado,L,3-2,3,2,1.0,win,,,,,,,,,,,,,,,,,,,,,,,2014,2013-14,div1,ASA New York,asabrooklynavengers,danaurisbaezcl65,Danauris Baez
+Mar 7,home,Jackson,W,8-3,8,3,5.0,win,,,,,,,,,,,,,,,,,,,,,,,2014,2013-14,div1,ASA New York,asabrooklynavengers,danaurisbaezcl65,Danauris Baez
+Mar 14,home,Ulster County,W,8-0,8,0,8.0,win,,,,,,,,,,,,,,,,,,,,,,,2014,2013-14,div1,ASA New York,asabrooklynavengers,danaurisbaezcl65,Danauris Baez
+Mar 14,home,Ulster County,W,9-2,9,2,7.0,win,20140314_221m,3,1,2,2,,,4,,,,,,1,,4,2,,,1,,4,2014,2013-14,div1,ASA New York,asabrooklynavengers,danaurisbaezcl65,Danauris Baez
+Mar 16,home,Bronx,W,12-3,12,3,9.0,win,20140316_lgzl,1,2,1,,,,0,3,,,,,,,1,0,,,,,4,2014,2013-14,div1,ASA New York,asabrooklynavengers,danaurisbaezcl65,Danauris Baez
+Mar 16,home,Bronx,W,6-5,6,5,1.0,win,,,,,,,,,,,,,,,,,,,,,,,2014,2013-14,div1,ASA New York,asabrooklynavengers,danaurisbaezcl65,Danauris Baez
+Mar 21,home,Nassau,W,9-2,9,2,7.0,win,20140321_mnv7,1,0,0,,,,1,,,,,,,,0,0,,1,,,1,2014,2013-14,div1,ASA New York,asabrooklynavengers,danaurisbaezcl65,Danauris Baez
+Mar 22,home,Queensborough,W,12-0,12,0,12.0,win,20140322_vhix,3,0,1,,,,1,,2,,,,,,1,0,,,,,3,2014,2013-14,div1,ASA New York,asabrooklynavengers,danaurisbaezcl65,Danauris Baez
+Mar 22,home,Queensborough,W,10-0,10,0,10.0,win,20140322_270p,0,0,0,,,,0,,,,,,,,0,0,,,,,0,2014,2013-14,div1,ASA New York,asabrooklynavengers,danaurisbaezcl65,Danauris Baez
+Mar 23,home,Bergen,W,4-3,4,3,1.0,win,,,,,,,,,,,,,,,,,,,,,,,2014,2013-14,div1,ASA New York,asabrooklynavengers,danaurisbaezcl65,Danauris Baez
+Mar 23,home,Bergen,L,10-8,10,8,2.0,win,20140323_bup5,4,0,0,,,,0,,1,,,,,,0,0,,2,1,2.00,4,2014,2013-14,div1,ASA New York,asabrooklynavengers,danaurisbaezcl65,Danauris Baez
+Mar 27,home,RCSJ Cumberland,L,13-5,13,5,8.0,win,,,,,,,,,,,,,,,,,,,,,,,2014,2013-14,div1,ASA New York,asabrooklynavengers,danaurisbaezcl65,Danauris Baez
+Apr 1,home,Ulster County,L,5-3,5,3,2.0,win,,,,,,,,,,,,,,,,,,,,,,,2014,2013-14,div1,ASA New York,asabrooklynavengers,danaurisbaezcl65,Danauris Baez
+Apr 2,home,Globe Tech,W,5-0,5,0,5.0,win,,,,,,,,,,,,,,,,,,,,,,,2014,2013-14,div1,ASA New York,asabrooklynavengers,danaurisbaezcl65,Danauris Baez
+Apr 3,home,Globe Tech,L,4-3,4,3,1.0,win,,,,,,,,,,,,,,,,,,,,,,,2014,2013-14,div1,ASA New York,asabrooklynavengers,danaurisbaezcl65,Danauris Baez
+Apr 5,home,Globe Tech,W,3-2,3,2,1.0,win,20140405_i9py,4,0,0,,,,0,,3,,,,,1,0,0,,1,1,1.00,5,2014,2013-14,div1,ASA New York,asabrooklynavengers,danaurisbaezcl65,Danauris Baez
+Apr 5,home,Globe Tech,L,10-2,10,2,8.0,win,,,,,,,,,,,,,,,,,,,,,,,2014,2013-14,div1,ASA New York,asabrooklynavengers,danaurisbaezcl65,Danauris Baez
+Apr 6,home,Suffolk County,W,7-3,7,3,4.0,win,,,,,,,,,,,,,,,,,,,,,,,2014,2013-14,div1,ASA New York,asabrooklynavengers,danaurisbaezcl65,Danauris Baez
+Apr 6,home,Suffolk County,L,8-4,8,4,4.0,win,,,,,,,,,,,,,,,,,,,,,,,2014,2013-14,div1,ASA New York,asabrooklynavengers,danaurisbaezcl65,Danauris Baez
+Apr 10,home,Monroe College,W,3-0,3,0,3.0,win,,,,,,,,,,,,,,,,,,,,,,,2014,2013-14,div1,ASA New York,asabrooklynavengers,danaurisbaezcl65,Danauris Baez
+Apr 10,home,Monroe College,W,4-2,4,2,2.0,win,,,,,,,,,,,,,,,,,,,,,,,2014,2013-14,div1,ASA New York,asabrooklynavengers,danaurisbaezcl65,Danauris Baez
+Apr 11,home,Monroe College,L,1-0,1,0,1.0,win,,,,,,,,,,,,,,,,,,,,,,,2014,2013-14,div1,ASA New York,asabrooklynavengers,danaurisbaezcl65,Danauris Baez
+Apr 11,home,Monroe College,L,6-3,6,3,3.0,win,,,,,,,,,,,,,,,,,,,,,,,2014,2013-14,div1,ASA New York,asabrooklynavengers,danaurisbaezcl65,Danauris Baez
+Apr 14,home,Monroe College,W,5-4,5,4,1.0,win,,,,,,,,,,,,,,,,,,,,,,,2014,2013-14,div1,ASA New York,asabrooklynavengers,danaurisbaezcl65,Danauris Baez
+Apr 19,home,Hofstra JV,W,6-2,6,2,4.0,win,20140419_5ar4,3,1,1,1,,,0,,1,,,,,,2,1,,,1,,3,2014,2013-14,div1,ASA New York,asabrooklynavengers,danaurisbaezcl65,Danauris Baez
+Apr 19,home,Hofstra JV,W,10-0,10,0,10.0,win,20140419_14vk,3,1,1,1,,,1,1,1,,,,,,2,1,,,1,,4,2014,2013-14,div1,ASA New York,asabrooklynavengers,danaurisbaezcl65,Danauris Baez
+Apr 21,home,Bronx,W,17-1,17,1,16.0,win,20140421_8znd,4,2,2,,,,1,,,,,,,1,2,0,,2,,,5,2014,2013-14,div1,ASA New York,asabrooklynavengers,danaurisbaezcl65,Danauris Baez
+Apr 22,home,Rockland,W,16-10,16,10,6.0,win,20140422_l7c7,3,0,0,,,,0,,,,,,,,0,0,,2,1,2.00,3,2014,2013-14,div1,ASA New York,asabrooklynavengers,danaurisbaezcl65,Danauris Baez
+Apr 24,home,Globe Tech,W,6-3,6,3,3.0,win,,,,,,,,,,,,,,,,,,,,,,,2014,2013-14,div1,ASA New York,asabrooklynavengers,danaurisbaezcl65,Danauris Baez
+Apr 26,home,RCSJ Gloucester,W,7-5,7,5,2.0,win,,,,,,,,,,,,,,,,,,,,,,,2014,2013-14,div1,ASA New York,asabrooklynavengers,danaurisbaezcl65,Danauris Baez
+Apr 26,home,RCSJ Gloucester,L,10-6,10,6,4.0,win,,,,,,,,,,,,,,,,,,,,,,,2014,2013-14,div1,ASA New York,asabrooklynavengers,danaurisbaezcl65,Danauris Baez
+May 1,home,Lackawanna,L,6-4,6,4,2.0,win,,,,,,,,,,,,,,,,,,,,,,,2014,2013-14,div1,ASA New York,asabrooklynavengers,danaurisbaezcl65,Danauris Baez
+May 3,home,Morris,W,14-2,14,2,12.0,win,,,,,,,,,,,,,,,,,,,,,,,2014,2013-14,div1,ASA New York,asabrooklynavengers,danaurisbaezcl65,Danauris Baez
+May 3,home,Morris,L,9-7,9,7,2.0,win,20140503_rwg8,4,0,1,,,,0,,1,,,,,,1,0,,2,,,4,2014,2013-14,div1,ASA New York,asabrooklynavengers,danaurisbaezcl65,Danauris Baez
+May 9,home,Monroe College,W,3-1,3,1,2.0,win,,,,,,,,,,,,,,,,,,,,,,,2014,2013-14,div1,ASA New York,asabrooklynavengers,danaurisbaezcl65,Danauris Baez
+May 9,home,Monroe College,W,8-7,8,7,1.0,win,,,,,,,,,,,,,,,,,,,,,,,2014,2013-14,div1,ASA New York,asabrooklynavengers,danaurisbaezcl65,Danauris Baez
+May 16,home,USC Sumter,L,14-3,14,3,11.0,win,20140516_nevm,3,0,0,,,,0,,1,,,,,,0,0,,,1,,3,2014,2013-14,div1,ASA New York,asabrooklynavengers,danaurisbaezcl65,Danauris Baez
+May 17,home,Harford,L,10-6,10,6,4.0,win,20140517_qpzt,3,0,0,,,,0,,2,,,,,1,0,0,,1,1,1.00,4,2014,2013-14,div1,ASA New York,asabrooklynavengers,danaurisbaezcl65,Danauris Baez

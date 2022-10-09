@@ -1,14 +1,46 @@
-date,location,opponent,result,score,team_score,opp_score,game_score_diff_x,game_win_loss_x,game_id_x,AB,R,H,2B,3B,HR,RBI,BB,K,SB,CS,game_score_diff_y,game_win_loss_y,game_id_y,HBP,SF,SH,TB,XBH,HDP,GO,FO,GO/FO,PA,season,njcaa_season,njcaa_division,team,team_id,player_id,player_name
-Mar 14,home,Ulster County,W,8-0,8,0,8.0,win,20140314_bazs,3,1,1,,,,0,,1,,,8.0,win,20140314_bazs,,,,1,0,,1,,,3,2014,2013-14,div1,ASA New York,asabrooklynavengers,eduinvaldezv9f8,Eduin Valdez
-Mar 14,home,Ulster County,W,9-2,9,2,7.0,win,,,,,,,,,,,,,7.0,win,,,,,,,,,,,,2014,2013-14,div1,ASA New York,asabrooklynavengers,eduinvaldezv9f8,Eduin Valdez
-Mar 16,home,Bronx,W,12-3,12,3,9.0,win,20140316_lgzl,4,0,2,,,,2,,1,,,9.0,win,20140316_lgzl,,,,2,0,,,1,,4,2014,2013-14,div1,ASA New York,asabrooklynavengers,eduinvaldezv9f8,Eduin Valdez
-Mar 16,home,Bronx,W,6-5,6,5,1.0,win,20140316_fpev,3,0,0,,,,0,,1,,,1.0,win,20140316_fpev,,,,0,0,,2,,,3,2014,2013-14,div1,ASA New York,asabrooklynavengers,eduinvaldezv9f8,Eduin Valdez
-Mar 22,home,Queensborough,W,12-0,12,0,12.0,win,20140322_vhix,1,0,1,,,,3,1,,,,12.0,win,20140322_vhix,,1,,1,0,,,1,,3,2014,2013-14,div1,ASA New York,asabrooklynavengers,eduinvaldezv9f8,Eduin Valdez
-Mar 22,home,Queensborough,W,10-0,10,0,10.0,win,20140322_270p,1,0,0,,,,0,,,,,10.0,win,20140322_270p,,,,0,0,,,,,1,2014,2013-14,div1,ASA New York,asabrooklynavengers,eduinvaldezv9f8,Eduin Valdez
-Apr 2,home,Globe Tech,W,5-0,5,0,5.0,win,,,,,,,,,,,,,5.0,win,,,,,,,,,,,,2014,2013-14,div1,ASA New York,asabrooklynavengers,eduinvaldezv9f8,Eduin Valdez
-Apr 10,home,Monroe College,W,3-0,3,0,3.0,win,20140410_oipt,3,0,1,,1,,1,,,,,3.0,win,20140410_oipt,,,,3,1,,2,,,3,2014,2013-14,div1,ASA New York,asabrooklynavengers,eduinvaldezv9f8,Eduin Valdez
-Apr 10,home,Monroe College,W,4-2,4,2,2.0,win,20140410_vazp,3,1,1,,,,0,,1,,,2.0,win,20140410_vazp,,,,1,0,,1,,,3,2014,2013-14,div1,ASA New York,asabrooklynavengers,eduinvaldezv9f8,Eduin Valdez
-Apr 14,home,Monroe College,W,5-4,5,4,1.0,win,20140414_0pwe,3,1,1,,,,1,,,,,1.0,win,20140414_0pwe,,,,1,0,,2,,,3,2014,2013-14,div1,ASA New York,asabrooklynavengers,eduinvaldezv9f8,Eduin Valdez
-Apr 24,home,Globe Tech,W,6-3,6,3,3.0,win,20140424_qm8m,3,0,1,,1,,0,,,,,3.0,win,20140424_qm8m,1,,,3,1,,1,1,1.00,4,2014,2013-14,div1,ASA New York,asabrooklynavengers,eduinvaldezv9f8,Eduin Valdez
-May 9,home,Monroe College,W,3-1,3,1,2.0,win,20140509_nohs,3,0,0,,,,0,,1,,,2.0,win,20140509_nohs,,,,0,0,,,2,,3,2014,2013-14,div1,ASA New York,asabrooklynavengers,eduinvaldezv9f8,Eduin Valdez
-May 9,home,Monroe College,W,8-7,8,7,1.0,win,20140509_u7xm,1,0,0,,,,0,1,,1,,1.0,win,20140509_u7xm,,,,0,0,,,1,,2,2014,2013-14,div1,ASA New York,asabrooklynavengers,eduinvaldezv9f8,Eduin Valdez
+date,location,opponent,result,score,team_score,opp_score,game_score_diff,game_win_loss,game_id,AB,R,H,2B,3B,HR,RBI,BB,K,SB,CS,HBP,SF,SH,TB,XBH,HDP,GO,FO,GO/FO,PA,season,njcaa_season,njcaa_division,team,team_id,player_id,player_name
+Mar 1,home,Delta,W,17-0,17,0,17.0,win,20140301_bu38,2,1,0,,,,2,,,,,,1,,0,0,,,2,,3,2014,2013-14,div1,ASA New York,asabrooklynavengers,eduinvaldezv9f8,Eduin Valdez
+Mar 1,home,Jackson,L,4-2,4,2,2.0,win,,,,,,,,,,,,,,,,,,,,,,,2014,2013-14,div1,ASA New York,asabrooklynavengers,eduinvaldezv9f8,Eduin Valdez
+Mar 2,home,Jackson,W,10-4,10,4,6.0,win,20140302_fzf8,4,0,1,1,,,2,1,1,1,,,,,2,1,,,2,,5,2014,2013-14,div1,ASA New York,asabrooklynavengers,eduinvaldezv9f8,Eduin Valdez
+Mar 2,home,Delta,W,4-1,4,1,3.0,win,,,,,,,,,,,,,,,,,,,,,,,2014,2013-14,div1,ASA New York,asabrooklynavengers,eduinvaldezv9f8,Eduin Valdez
+Mar 3,home,Delta,W,10-9,10,9,1.0,win,,,,,,,,,,,,,,,,,,,,,,,2014,2013-14,div1,ASA New York,asabrooklynavengers,eduinvaldezv9f8,Eduin Valdez
+Mar 4,home,Jackson,L,9-2,9,2,7.0,win,20140304_pv6n,1,0,0,,,,0,,,,,,,,0,0,,,1,,1,2014,2013-14,div1,ASA New York,asabrooklynavengers,eduinvaldezv9f8,Eduin Valdez
+Mar 5,home,Delgado,L,2-1,2,1,1.0,win,20140305_hbem,2,0,1,,,,0,1,,,,,,,1,0,,1,,,3,2014,2013-14,div1,ASA New York,asabrooklynavengers,eduinvaldezv9f8,Eduin Valdez
+Mar 5,home,Delgado,L,3-2,3,2,1.0,win,20140305_fzko,3,0,1,,,,0,,2,,,,,,1,0,,,,,3,2014,2013-14,div1,ASA New York,asabrooklynavengers,eduinvaldezv9f8,Eduin Valdez
+Mar 7,home,Jackson,W,8-3,8,3,5.0,win,,,,,,,,,,,,,,,,,,,,,,,2014,2013-14,div1,ASA New York,asabrooklynavengers,eduinvaldezv9f8,Eduin Valdez
+Mar 14,home,Ulster County,W,8-0,8,0,8.0,win,20140314_bazs,3,1,1,,,,0,,1,,,,,,1,0,,1,,,3,2014,2013-14,div1,ASA New York,asabrooklynavengers,eduinvaldezv9f8,Eduin Valdez
+Mar 14,home,Ulster County,W,9-2,9,2,7.0,win,,,,,,,,,,,,,,,,,,,,,,,2014,2013-14,div1,ASA New York,asabrooklynavengers,eduinvaldezv9f8,Eduin Valdez
+Mar 16,home,Bronx,W,12-3,12,3,9.0,win,20140316_lgzl,4,0,2,,,,2,,1,,,,,,2,0,,,1,,4,2014,2013-14,div1,ASA New York,asabrooklynavengers,eduinvaldezv9f8,Eduin Valdez
+Mar 16,home,Bronx,W,6-5,6,5,1.0,win,20140316_fpev,3,0,0,,,,0,,1,,,,,,0,0,,2,,,3,2014,2013-14,div1,ASA New York,asabrooklynavengers,eduinvaldezv9f8,Eduin Valdez
+Mar 21,home,Nassau,W,9-2,9,2,7.0,win,,,,,,,,,,,,,,,,,,,,,,,2014,2013-14,div1,ASA New York,asabrooklynavengers,eduinvaldezv9f8,Eduin Valdez
+Mar 22,home,Queensborough,W,12-0,12,0,12.0,win,20140322_vhix,1,0,1,,,,3,1,,,,,1,,1,0,,,1,,3,2014,2013-14,div1,ASA New York,asabrooklynavengers,eduinvaldezv9f8,Eduin Valdez
+Mar 22,home,Queensborough,W,10-0,10,0,10.0,win,20140322_270p,1,0,0,,,,0,,,,,,,,0,0,,,,,1,2014,2013-14,div1,ASA New York,asabrooklynavengers,eduinvaldezv9f8,Eduin Valdez
+Mar 23,home,Bergen,W,4-3,4,3,1.0,win,,,,,,,,,,,,,,,,,,,,,,,2014,2013-14,div1,ASA New York,asabrooklynavengers,eduinvaldezv9f8,Eduin Valdez
+Mar 23,home,Bergen,L,10-8,10,8,2.0,win,20140323_bup5,4,2,2,,,1,3,,,,,,,,5,1,,1,1,1.00,4,2014,2013-14,div1,ASA New York,asabrooklynavengers,eduinvaldezv9f8,Eduin Valdez
+Mar 27,home,RCSJ Cumberland,L,13-5,13,5,8.0,win,20140327_dl0l,2,1,0,,,,0,2,1,,,,,,0,0,,1,,,4,2014,2013-14,div1,ASA New York,asabrooklynavengers,eduinvaldezv9f8,Eduin Valdez
+Apr 1,home,Ulster County,L,5-3,5,3,2.0,win,20140401_amrd,2,0,0,,,,0,,1,,,,,,0,0,,1,,,2,2014,2013-14,div1,ASA New York,asabrooklynavengers,eduinvaldezv9f8,Eduin Valdez
+Apr 2,home,Globe Tech,W,5-0,5,0,5.0,win,,,,,,,,,,,,,,,,,,,,,,,2014,2013-14,div1,ASA New York,asabrooklynavengers,eduinvaldezv9f8,Eduin Valdez
+Apr 3,home,Globe Tech,L,4-3,4,3,1.0,win,20140403_wxcf,3,0,2,,,,0,,1,2,1,1,,,2,0,,,,,4,2014,2013-14,div1,ASA New York,asabrooklynavengers,eduinvaldezv9f8,Eduin Valdez
+Apr 5,home,Globe Tech,W,3-2,3,2,1.0,win,,,,,,,,,,,,,,,,,,,,,,,2014,2013-14,div1,ASA New York,asabrooklynavengers,eduinvaldezv9f8,Eduin Valdez
+Apr 5,home,Globe Tech,L,10-2,10,2,8.0,win,20140405_4efp,3,0,1,,,,0,,,,,,,,1,0,,1,1,1.00,3,2014,2013-14,div1,ASA New York,asabrooklynavengers,eduinvaldezv9f8,Eduin Valdez
+Apr 6,home,Suffolk County,W,7-3,7,3,4.0,win,20140406_qnuk,4,0,0,,,,0,,1,,,,,,0,0,,2,1,2.00,4,2014,2013-14,div1,ASA New York,asabrooklynavengers,eduinvaldezv9f8,Eduin Valdez
+Apr 6,home,Suffolk County,L,8-4,8,4,4.0,win,20140406_v4r9,2,1,1,,,,1,1,1,,,,,,1,0,,,,,3,2014,2013-14,div1,ASA New York,asabrooklynavengers,eduinvaldezv9f8,Eduin Valdez
+Apr 10,home,Monroe College,W,3-0,3,0,3.0,win,20140410_oipt,3,0,1,,1,,1,,,,,,,,3,1,,2,,,3,2014,2013-14,div1,ASA New York,asabrooklynavengers,eduinvaldezv9f8,Eduin Valdez
+Apr 10,home,Monroe College,W,4-2,4,2,2.0,win,20140410_vazp,3,1,1,,,,0,,1,,,,,,1,0,,1,,,3,2014,2013-14,div1,ASA New York,asabrooklynavengers,eduinvaldezv9f8,Eduin Valdez
+Apr 11,home,Monroe College,L,1-0,1,0,1.0,win,20140411_e27y,2,0,0,,,,0,,,,,1,,,0,0,,1,1,1.00,3,2014,2013-14,div1,ASA New York,asabrooklynavengers,eduinvaldezv9f8,Eduin Valdez
+Apr 11,home,Monroe College,L,6-3,6,3,3.0,win,20140411_1xir,2,0,0,,,,0,1,,2,,1,,,0,0,,2,,,4,2014,2013-14,div1,ASA New York,asabrooklynavengers,eduinvaldezv9f8,Eduin Valdez
+Apr 14,home,Monroe College,W,5-4,5,4,1.0,win,20140414_0pwe,3,1,1,,,,1,,,,,,,,1,0,,2,,,3,2014,2013-14,div1,ASA New York,asabrooklynavengers,eduinvaldezv9f8,Eduin Valdez
+Apr 19,home,Hofstra JV,W,6-2,6,2,4.0,win,20140419_5ar4,1,0,1,1,,,0,,,,,,,,2,1,,,,,1,2014,2013-14,div1,ASA New York,asabrooklynavengers,eduinvaldezv9f8,Eduin Valdez
+Apr 19,home,Hofstra JV,W,10-0,10,0,10.0,win,20140419_14vk,2,1,0,,,,0,2,1,,1,,,,0,0,,1,,,4,2014,2013-14,div1,ASA New York,asabrooklynavengers,eduinvaldezv9f8,Eduin Valdez
+Apr 21,home,Bronx,W,17-1,17,1,16.0,win,,,,,,,,,,,,,,,,,,,,,,,2014,2013-14,div1,ASA New York,asabrooklynavengers,eduinvaldezv9f8,Eduin Valdez
+Apr 22,home,Rockland,W,16-10,16,10,6.0,win,20140422_l7c7,4,1,1,,,,0,1,,,1,,,,1,0,,2,1,2.00,5,2014,2013-14,div1,ASA New York,asabrooklynavengers,eduinvaldezv9f8,Eduin Valdez
+Apr 24,home,Globe Tech,W,6-3,6,3,3.0,win,20140424_qm8m,3,0,1,,1,,0,,,,,1,,,3,1,,1,1,1.00,4,2014,2013-14,div1,ASA New York,asabrooklynavengers,eduinvaldezv9f8,Eduin Valdez
+Apr 26,home,RCSJ Gloucester,W,7-5,7,5,2.0,win,20140426_ucfu,3,2,1,,,,0,1,2,1,,,,,1,0,,,,,4,2014,2013-14,div1,ASA New York,asabrooklynavengers,eduinvaldezv9f8,Eduin Valdez
+Apr 26,home,RCSJ Gloucester,L,10-6,10,6,4.0,win,20140426_sbxs,2,1,0,,,,0,,2,,,1,,,0,0,,,,,3,2014,2013-14,div1,ASA New York,asabrooklynavengers,eduinvaldezv9f8,Eduin Valdez
+May 1,home,Lackawanna,L,6-4,6,4,2.0,win,20140501_u8ke,3,0,0,,,,0,,1,,,,,,0,0,,,2,,3,2014,2013-14,div1,ASA New York,asabrooklynavengers,eduinvaldezv9f8,Eduin Valdez
+May 3,home,Morris,W,14-2,14,2,12.0,win,20140503_b2oo,3,1,0,,,,0,,1,1,,1,,,0,0,,,2,,4,2014,2013-14,div1,ASA New York,asabrooklynavengers,eduinvaldezv9f8,Eduin Valdez
+May 3,home,Morris,L,9-7,9,7,2.0,win,20140503_rwg8,0,0,0,,,,0,,,,,,,,0,0,,,,,0,2014,2013-14,div1,ASA New York,asabrooklynavengers,eduinvaldezv9f8,Eduin Valdez
+May 9,home,Monroe College,W,3-1,3,1,2.0,win,20140509_nohs,3,0,0,,,,0,,1,,,,,,0,0,,,2,,3,2014,2013-14,div1,ASA New York,asabrooklynavengers,eduinvaldezv9f8,Eduin Valdez
+May 9,home,Monroe College,W,8-7,8,7,1.0,win,20140509_u7xm,1,0,0,,,,0,1,,1,,,,,0,0,,,1,,2,2014,2013-14,div1,ASA New York,asabrooklynavengers,eduinvaldezv9f8,Eduin Valdez
+May 16,home,USC Sumter,L,14-3,14,3,11.0,win,,,,,,,,,,,,,,,,,,,,,,,2014,2013-14,div1,ASA New York,asabrooklynavengers,eduinvaldezv9f8,Eduin Valdez
+May 17,home,Harford,L,10-6,10,6,4.0,win,,,,,,,,,,,,,,,,,,,,,,,2014,2013-14,div1,ASA New York,asabrooklynavengers,eduinvaldezv9f8,Eduin Valdez

@@ -1,64 +1,60 @@
-date,location,opponent,result,score,team_score,opp_score,game_score_diff_x,game_win_loss_x,game_id_x,AB,R,H,2B,3B,HR,RBI,BB,K,SB,CS,game_score_diff_y,game_win_loss_y,game_id_y,HBP,SF,SH,TB,XBH,HDP,GO,FO,GO/FO,PA,season,njcaa_season,njcaa_division,team,team_id,player_id,player_name
-Jan 25,home,Palm Beach State,L,7-2,7,2,5.0,win,20130125_vm9c,4,1,2,,,,1,,,,,5.0,win,20130125_vm9c,,,,2,0,,,,,4,2013,2012-13,div1,Southwest Tennessee,southwesttennesseecommunitycollege,tymichelotti4bnf,Ty Michelotti
-Jan 25,home,Miami Dade,L,4-3,4,3,1.0,win,20130125_im76,4,0,0,,,,0,1,1,,,1.0,win,20130125_im76,,,,0,0,,,,,5,2013,2012-13,div1,Southwest Tennessee,southwesttennesseecommunitycollege,tymichelotti4bnf,Ty Michelotti
-Jan 26,home,Broward,L,10-2,10,2,8.0,win,20130126_dx3q,3,1,1,,,,0,,,1,,8.0,win,20130126_dx3q,,,,1,0,,,,,3,2013,2012-13,div1,Southwest Tennessee,southwesttennesseecommunitycollege,tymichelotti4bnf,Ty Michelotti
-Jan 26,home,St. Petersburg,L,7-0,7,0,7.0,win,20130126_nu4a,4,0,1,1,,,0,,,,,7.0,win,20130126_nu4a,,,,2,1,,,,,4,2013,2012-13,div1,Southwest Tennessee,southwesttennesseecommunitycollege,tymichelotti4bnf,Ty Michelotti
-Jan 27,home,Baton Rouge,W,7-6,7,6,1.0,win,20130127_9vuh,4,1,1,,,,0,,1,,,1.0,win,20130127_9vuh,,,,1,0,,,,,4,2013,2012-13,div1,Southwest Tennessee,southwesttennesseecommunitycollege,tymichelotti4bnf,Ty Michelotti
-Feb 6,home,Coahoma,W,7-1,7,1,6.0,win,20130206_9z4p,3,2,1,1,,,1,1,,,,6.0,win,20130206_9z4p,,,,2,1,,,,,4,2013,2012-13,div1,Southwest Tennessee,southwesttennesseecommunitycollege,tymichelotti4bnf,Ty Michelotti
-Feb 6,home,Coahoma,W,12-4,12,4,8.0,win,20130206_7puw,4,2,1,,,,0,,1,,,8.0,win,20130206_7puw,,,,1,0,,,,,4,2013,2012-13,div1,Southwest Tennessee,southwesttennesseecommunitycollege,tymichelotti4bnf,Ty Michelotti
-Feb 9,home,East Central (MS),L,3-0,3,0,3.0,win,20130209_c8bk,3,0,0,,,,0,1,,,,3.0,win,20130209_c8bk,,,,0,0,,,,,4,2013,2012-13,div1,Southwest Tennessee,southwesttennesseecommunitycollege,tymichelotti4bnf,Ty Michelotti
-Feb 9,home,East Central (MS),L,8-3,8,3,5.0,win,20130209_rw7n,4,0,0,,,,0,,1,,,5.0,win,20130209_rw7n,,,,0,0,,,,,4,2013,2012-13,div1,Southwest Tennessee,southwesttennesseecommunitycollege,tymichelotti4bnf,Ty Michelotti
-Feb 10,home,Jones,,,,,5.0,win,,,,,,,,,,,,,5.0,win,,,,,,,,,,,,2013,2012-13,div1,Southwest Tennessee,southwesttennesseecommunitycollege,tymichelotti4bnf,Ty Michelotti
-Feb 10,home,Jones,,,,,5.0,win,,,,,,,,,,,,,5.0,win,,,,,,,,,,,,2013,2012-13,div1,Southwest Tennessee,southwesttennesseecommunitycollege,tymichelotti4bnf,Ty Michelotti
-Feb 10,home,Jones,,,,,5.0,win,,,,,,,,,,,,,5.0,win,,,,,,,,,,,,2013,2012-13,div1,Southwest Tennessee,southwesttennesseecommunitycollege,tymichelotti4bnf,Ty Michelotti
-Feb 10,home,Jones,,,,,5.0,win,,,,,,,,,,,,,5.0,win,,,,,,,,,,,,2013,2012-13,div1,Southwest Tennessee,southwesttennesseecommunitycollege,tymichelotti4bnf,Ty Michelotti
-Feb 14,home,Itawamba,L,14-8,14,8,6.0,win,20130214_95rf,3,1,0,,,,1,2,,,,6.0,win,20130214_95rf,,,,0,0,,,,,5,2013,2012-13,div1,Southwest Tennessee,southwesttennesseecommunitycollege,tymichelotti4bnf,Ty Michelotti
-Feb 14,home,Itawamba,W,3-2,3,2,1.0,win,20130214_2yu3,2,1,1,1,,,0,,,,,1.0,win,20130214_2yu3,,,,2,1,,,,,2,2013,2012-13,div1,Southwest Tennessee,southwesttennesseecommunitycollege,tymichelotti4bnf,Ty Michelotti
-Feb 16,home,Northwest Mississippi,L,8-7,8,7,1.0,win,20130216_ldom,3,0,1,,,,1,,,1,,1.0,win,20130216_ldom,2,,1,1,0,,2,1,2.00,6,2013,2012-13,div1,Southwest Tennessee,southwesttennesseecommunitycollege,tymichelotti4bnf,Ty Michelotti
-Feb 16,home,Northwest Mississippi,L,4-3,4,3,1.0,win,20130216_xzu3,4,1,2,,,,0,,,,,1.0,win,20130216_xzu3,,,,2,0,,1,1,1.00,4,2013,2012-13,div1,Southwest Tennessee,southwesttennesseecommunitycollege,tymichelotti4bnf,Ty Michelotti
-Feb 19,home,Northwest Mississippi,L,8-3,8,3,5.0,win,20130219_47q6,5,1,2,1,,,1,,,,,5.0,win,20130219_47q6,,,,3,1,,1,2,0.50,5,2013,2012-13,div1,Southwest Tennessee,southwesttennesseecommunitycollege,tymichelotti4bnf,Ty Michelotti
-Feb 19,home,Northwest Mississippi,W,7-6,7,6,1.0,win,20130219_zm9l,4,1,2,,,,1,1,,,,1.0,win,20130219_zm9l,,,,2,0,,,1,,5,2013,2012-13,div1,Southwest Tennessee,southwesttennesseecommunitycollege,tymichelotti4bnf,Ty Michelotti
-Feb 23,home,Jefferson (MO),W,3-2,3,2,1.0,win,20130223_0q5s,3,1,1,1,,,1,,,1,,1.0,win,20130223_0q5s,,1,,2,1,,,3,,4,2013,2012-13,div1,Southwest Tennessee,southwesttennesseecommunitycollege,tymichelotti4bnf,Ty Michelotti
-Feb 23,home,St. Louis,W,5-2,5,2,3.0,win,,,,,,,,,,,,,3.0,win,,,,,,,,,,,,2013,2012-13,div1,Southwest Tennessee,southwesttennesseecommunitycollege,tymichelotti4bnf,Ty Michelotti
-Feb 24,home,Jefferson (MO),W,4-2,4,2,2.0,win,20130224_w8c7,4,0,1,,,,0,,,,,2.0,win,20130224_w8c7,,,,1,0,,3,,,4,2013,2012-13,div1,Southwest Tennessee,southwesttennesseecommunitycollege,tymichelotti4bnf,Ty Michelotti
-Mar 1,home,Motlow State,W,3-2,3,2,1.0,win,20130301_pa0h,4,1,2,1,,,0,,1,,,1.0,win,20130301_pa0h,,,,3,1,,,1,,4,2013,2012-13,div1,Southwest Tennessee,southwesttennesseecommunitycollege,tymichelotti4bnf,Ty Michelotti
-Mar 2,home,Motlow State,L,2-0,2,0,2.0,win,20130302_ui1l,3,0,0,,,,0,,2,,,2.0,win,20130302_ui1l,,,,0,0,,1,,,3,2013,2012-13,div1,Southwest Tennessee,southwesttennesseecommunitycollege,tymichelotti4bnf,Ty Michelotti
-Mar 2,home,Motlow State,W,7-6,7,6,1.0,win,20130302_yblp,3,0,1,,,,2,,1,,,1.0,win,20130302_yblp,,1,,1,0,,1,1,1.00,4,2013,2012-13,div1,Southwest Tennessee,southwesttennesseecommunitycollege,tymichelotti4bnf,Ty Michelotti
-Mar 4,home,Wabash Valley,W,8-4,8,4,4.0,win,20130304_gjua,4,1,3,1,1,,1,1,1,,1,4.0,win,20130304_gjua,,,,6,2,,,,,5,2013,2012-13,div1,Southwest Tennessee,southwesttennesseecommunitycollege,tymichelotti4bnf,Ty Michelotti
-Mar 7,home,Itawamba,L,4-2,4,2,2.0,win,20130307_7tht,2,0,0,,,,0,1,,,,2.0,win,20130307_7tht,,,,0,0,,,,,3,2013,2012-13,div1,Southwest Tennessee,southwesttennesseecommunitycollege,tymichelotti4bnf,Ty Michelotti
-Mar 7,home,Itawamba,L,4-2,4,2,2.0,win,20130307_7tht,2,0,0,,,,0,1,,,,2.0,win,20130307_hx8f,,,,0,0,,,,,3,2013,2012-13,div1,Southwest Tennessee,southwesttennesseecommunitycollege,tymichelotti4bnf,Ty Michelotti
-Mar 7,home,Itawamba,L,4-2,4,2,2.0,win,20130307_hx8f,3,0,0,,,,0,,1,,,2.0,win,20130307_7tht,,,,0,0,,,,,3,2013,2012-13,div1,Southwest Tennessee,southwesttennesseecommunitycollege,tymichelotti4bnf,Ty Michelotti
-Mar 7,home,Itawamba,L,4-2,4,2,2.0,win,20130307_hx8f,3,0,0,,,,0,,1,,,2.0,win,20130307_hx8f,,,,0,0,,,,,3,2013,2012-13,div1,Southwest Tennessee,southwesttennesseecommunitycollege,tymichelotti4bnf,Ty Michelotti
-Mar 8,home,Cleveland State,L,8-2,8,2,6.0,win,20130308_gaec,4,0,1,,,,0,,,,,6.0,win,20130308_gaec,,,,1,0,,,3,,4,2013,2012-13,div1,Southwest Tennessee,southwesttennesseecommunitycollege,tymichelotti4bnf,Ty Michelotti
-Mar 9,home,Cleveland State,L,6-4,6,4,2.0,win,20130309_ot2j,4,0,3,1,,,0,,,,,2.0,win,20130309_ot2j,,,,4,1,,1,,,4,2013,2012-13,div1,Southwest Tennessee,southwesttennesseecommunitycollege,tymichelotti4bnf,Ty Michelotti
-Mar 9,home,Cleveland State,W,7-5,7,5,2.0,win,20130309_v19n,3,2,3,,,2,2,,,1,,2.0,win,20130309_v19n,1,,,9,2,,,,,4,2013,2012-13,div1,Southwest Tennessee,southwesttennesseecommunitycollege,tymichelotti4bnf,Ty Michelotti
-Mar 13,home,Mississippi Delta,L,8-7,8,7,1.0,win,20130313_ev5h,4,2,1,,,,0,,,2,,1.0,win,20130313_ev5h,,,,1,0,,,,,4,2013,2012-13,div1,Southwest Tennessee,southwesttennesseecommunitycollege,tymichelotti4bnf,Ty Michelotti
-Mar 13,home,Mississippi Delta,L,8-7,8,7,1.0,win,20130313_ev5h,4,2,1,,,,0,,,2,,1.0,win,20130313_2ooz,,,,1,0,,,,,4,2013,2012-13,div1,Southwest Tennessee,southwesttennesseecommunitycollege,tymichelotti4bnf,Ty Michelotti
-Mar 13,home,Mississippi Delta,L,8-7,8,7,1.0,win,20130313_2ooz,4,0,1,,,,1,,1,,,1.0,win,20130313_ev5h,,,,1,0,,,,,4,2013,2012-13,div1,Southwest Tennessee,southwesttennesseecommunitycollege,tymichelotti4bnf,Ty Michelotti
-Mar 13,home,Mississippi Delta,L,8-7,8,7,1.0,win,20130313_2ooz,4,0,1,,,,1,,1,,,1.0,win,20130313_2ooz,,,,1,0,,,,,4,2013,2012-13,div1,Southwest Tennessee,southwesttennesseecommunitycollege,tymichelotti4bnf,Ty Michelotti
-Mar 15,home,Walters State,L,6-1,6,1,5.0,win,20130315_728e,5,0,2,,,,0,1,1,,,5.0,win,20130315_728e,,,,2,0,,2,,,6,2013,2012-13,div1,Southwest Tennessee,southwesttennesseecommunitycollege,tymichelotti4bnf,Ty Michelotti
-Mar 16,home,Walters State,W,6-5,6,5,1.0,win,20130316_no8n,4,0,0,,,,0,,,,,1.0,win,20130316_no8n,,,,0,0,,1,2,0.50,4,2013,2012-13,div1,Southwest Tennessee,southwesttennesseecommunitycollege,tymichelotti4bnf,Ty Michelotti
-Mar 16,home,Walters State,L,5-2,5,2,3.0,win,20130316_gpv1,3,1,1,,,,0,,,1,,3.0,win,20130316_gpv1,,,,1,0,,1,1,1.00,3,2013,2012-13,div1,Southwest Tennessee,southwesttennesseecommunitycollege,tymichelotti4bnf,Ty Michelotti
-Mar 19,home,Northeast Mississippi,L,6-2,6,2,4.0,win,20130319_jva1,3,0,2,,,,0,,,,,4.0,win,20130319_jva1,,,,2,0,,,,,3,2013,2012-13,div1,Southwest Tennessee,southwesttennesseecommunitycollege,tymichelotti4bnf,Ty Michelotti
-Mar 19,home,Northeast Mississippi,W,7-6,7,6,1.0,win,20130319_f391,4,0,1,,,,0,,2,,,1.0,win,20130319_f391,,,,1,0,,,,,4,2013,2012-13,div1,Southwest Tennessee,southwesttennesseecommunitycollege,tymichelotti4bnf,Ty Michelotti
-Mar 23,home,Dyersburg State,L,7-1,7,1,6.0,win,20130323_bo8f,2,0,1,,,,0,2,,,,6.0,win,20130323_bo8f,,,,1,0,,,1,,4,2013,2012-13,div1,Southwest Tennessee,southwesttennesseecommunitycollege,tymichelotti4bnf,Ty Michelotti
-Mar 23,home,Dyersburg State,W,1-0,1,0,1.0,win,20130323_iqb0,3,0,0,,,,0,,1,,,1.0,win,20130323_iqb0,,,,0,0,,1,1,1.00,3,2013,2012-13,div1,Southwest Tennessee,southwesttennesseecommunitycollege,tymichelotti4bnf,Ty Michelotti
-Mar 24,home,Dyersburg State,L,11-3,11,3,8.0,win,20130324_42f9,3,1,1,,,,0,1,,,,8.0,win,20130324_42f9,,,,1,0,,2,,,4,2013,2012-13,div1,Southwest Tennessee,southwesttennesseecommunitycollege,tymichelotti4bnf,Ty Michelotti
-Mar 28,home,Jackson State,L,13-0,13,0,13.0,win,,,,,,,,,,,,,13.0,win,,,,,,,,,,,,2013,2012-13,div1,Southwest Tennessee,southwesttennesseecommunitycollege,tymichelotti4bnf,Ty Michelotti
-Mar 29,home,Jackson State,L,2-0,2,0,2.0,win,,,,,,,,,,,,,2.0,win,,,,,,,,,,,,2013,2012-13,div1,Southwest Tennessee,southwesttennesseecommunitycollege,tymichelotti4bnf,Ty Michelotti
-Mar 29,home,Jackson State,L,9-4,9,4,5.0,win,,,,,,,,,,,,,5.0,win,,,,,,,,,,,,2013,2012-13,div1,Southwest Tennessee,southwesttennesseecommunitycollege,tymichelotti4bnf,Ty Michelotti
-Apr 1,home,Williams Baptist JV,,,,,5.0,win,,,,,,,,,,,,,5.0,win,,,,,,,,,,,,2013,2012-13,div1,Southwest Tennessee,southwesttennesseecommunitycollege,tymichelotti4bnf,Ty Michelotti
-Apr 6,home,Roane State,W,7-4,7,4,3.0,win,20130406_zem7,3,2,2,,1,,0,,,,1,3.0,win,20130406_zem7,1,,,4,1,,,1,,4,2013,2012-13,div1,Southwest Tennessee,southwesttennesseecommunitycollege,tymichelotti4bnf,Ty Michelotti
-Apr 6,home,Roane State,W,4-2,4,2,2.0,win,20130406_p0fm,4,0,0,,,,0,,,,,2.0,win,20130406_p0fm,,,,0,0,,,4,,4,2013,2012-13,div1,Southwest Tennessee,southwesttennesseecommunitycollege,tymichelotti4bnf,Ty Michelotti
-Apr 7,home,Roane State,L,5-2,5,2,3.0,win,20130407_1og9,5,1,2,,1,,0,,1,,,3.0,win,20130407_1og9,,,,4,1,,2,,,5,2013,2012-13,div1,Southwest Tennessee,southwesttennesseecommunitycollege,tymichelotti4bnf,Ty Michelotti
-Apr 8,home,Williams Baptist JV,W,6-4,6,4,2.0,win,,,,,,,,,,,,,2.0,win,,,,,,,,,,,,2013,2012-13,div1,Southwest Tennessee,southwesttennesseecommunitycollege,tymichelotti4bnf,Ty Michelotti
-Apr 10,home,Northeast Mississippi,L,18-14,18,14,4.0,win,,,,,,,,,,,,,4.0,win,,,,,,,,,,,,2013,2012-13,div1,Southwest Tennessee,southwesttennesseecommunitycollege,tymichelotti4bnf,Ty Michelotti
-Apr 12,home,Columbia State,W,6-5,6,5,1.0,win,20130412_fw3h,2,1,0,,,,0,,1,,,1.0,win,20130412_fw3h,1,,,0,0,,1,,,3,2013,2012-13,div1,Southwest Tennessee,southwesttennesseecommunitycollege,tymichelotti4bnf,Ty Michelotti
-Apr 13,home,Columbia State,L,6-1,6,1,5.0,win,,,,,,,,,,,,,5.0,win,,,,,,,,,,,,2013,2012-13,div1,Southwest Tennessee,southwesttennesseecommunitycollege,tymichelotti4bnf,Ty Michelotti
-Apr 13,home,Columbia State,W,7-5,7,5,2.0,win,20130413_wj4k,5,1,3,1,1,,3,,,,1,2.0,win,20130413_wj4k,,,,6,2,1,1,1,1.00,5,2013,2012-13,div1,Southwest Tennessee,southwesttennesseecommunitycollege,tymichelotti4bnf,Ty Michelotti
-Apr 19,home,Volunteer State,L,6-2,6,2,4.0,win,20130419_ayjl,3,0,0,,,,0,2,,,,4.0,win,20130419_ayjl,,,,0,0,,,3,,5,2013,2012-13,div1,Southwest Tennessee,southwesttennesseecommunitycollege,tymichelotti4bnf,Ty Michelotti
-Apr 20,home,Volunteer State,L,2-1,2,1,1.0,win,20130420_21kz,3,0,2,,,,0,1,,,,1.0,win,20130420_21kz,,,,2,0,,,1,,4,2013,2012-13,div1,Southwest Tennessee,southwesttennesseecommunitycollege,tymichelotti4bnf,Ty Michelotti
-Apr 20,home,Volunteer State,W,4-1,4,1,3.0,win,20130420_82vg,4,2,1,,,,0,1,,,,3.0,win,20130420_82vg,,,,1,0,,2,1,2.00,5,2013,2012-13,div1,Southwest Tennessee,southwesttennesseecommunitycollege,tymichelotti4bnf,Ty Michelotti
-Apr 26,home,Chattanooga State,,,,,3.0,win,,,,,,,,,,,,,3.0,win,,,,,,,,,,,,2013,2012-13,div1,Southwest Tennessee,southwesttennesseecommunitycollege,tymichelotti4bnf,Ty Michelotti
-Apr 27,home,Chattanooga State,W,5-2,5,2,3.0,win,,,,,,,,,,,,,3.0,win,,,,,,,,,,,,2013,2012-13,div1,Southwest Tennessee,southwesttennesseecommunitycollege,tymichelotti4bnf,Ty Michelotti
-Apr 27,home,Chattanooga State,W,5-3,5,3,2.0,win,,,,,,,,,,,,,2.0,win,,,,,,,,,,,,2013,2012-13,div1,Southwest Tennessee,southwesttennesseecommunitycollege,tymichelotti4bnf,Ty Michelotti
+date,location,opponent,result,score,team_score,opp_score,game_score_diff,game_win_loss,game_id,AB,R,H,2B,3B,HR,RBI,BB,K,SB,CS,HBP,SF,SH,TB,XBH,HDP,GO,FO,GO/FO,PA,season,njcaa_season,njcaa_division,team,team_id,player_id,player_name
+Jan 25,home,Palm Beach State,L,7-2,7,2,5.0,win,20130125_vm9c,4,1,2,,,,1,,,,,,,,2,0,,,,,4,2013,2012-13,div1,Southwest Tennessee,southwesttennesseecommunitycollege,tymichelotti4bnf,Ty Michelotti
+Jan 25,home,Miami Dade,L,4-3,4,3,1.0,win,20130125_im76,4,0,0,,,,0,1,1,,,,,,0,0,,,,,5,2013,2012-13,div1,Southwest Tennessee,southwesttennesseecommunitycollege,tymichelotti4bnf,Ty Michelotti
+Jan 26,home,Broward,L,10-2,10,2,8.0,win,20130126_dx3q,3,1,1,,,,0,,,1,,,,,1,0,,,,,3,2013,2012-13,div1,Southwest Tennessee,southwesttennesseecommunitycollege,tymichelotti4bnf,Ty Michelotti
+Jan 26,home,St. Petersburg,L,7-0,7,0,7.0,win,20130126_nu4a,4,0,1,1,,,0,,,,,,,,2,1,,,,,4,2013,2012-13,div1,Southwest Tennessee,southwesttennesseecommunitycollege,tymichelotti4bnf,Ty Michelotti
+Jan 27,home,Baton Rouge,W,7-6,7,6,1.0,win,20130127_9vuh,4,1,1,,,,0,,1,,,,,,1,0,,,,,4,2013,2012-13,div1,Southwest Tennessee,southwesttennesseecommunitycollege,tymichelotti4bnf,Ty Michelotti
+Feb 6,home,Coahoma,W,7-1,7,1,6.0,win,20130206_9z4p,3,2,1,1,,,1,1,,,,,,,2,1,,,,,4,2013,2012-13,div1,Southwest Tennessee,southwesttennesseecommunitycollege,tymichelotti4bnf,Ty Michelotti
+Feb 6,home,Coahoma,W,12-4,12,4,8.0,win,20130206_7puw,4,2,1,,,,0,,1,,,,,,1,0,,,,,4,2013,2012-13,div1,Southwest Tennessee,southwesttennesseecommunitycollege,tymichelotti4bnf,Ty Michelotti
+Feb 9,home,East Central (MS),L,3-0,3,0,3.0,win,20130209_c8bk,3,0,0,,,,0,1,,,,,,,0,0,,,,,4,2013,2012-13,div1,Southwest Tennessee,southwesttennesseecommunitycollege,tymichelotti4bnf,Ty Michelotti
+Feb 9,home,East Central (MS),L,8-3,8,3,5.0,win,20130209_rw7n,4,0,0,,,,0,,1,,,,,,0,0,,,,,4,2013,2012-13,div1,Southwest Tennessee,southwesttennesseecommunitycollege,tymichelotti4bnf,Ty Michelotti
+Feb 10,home,Jones,,,,,5.0,win,,,,,,,,,,,,,,,,,,,,,,,2013,2012-13,div1,Southwest Tennessee,southwesttennesseecommunitycollege,tymichelotti4bnf,Ty Michelotti
+Feb 10,home,Jones,,,,,5.0,win,,,,,,,,,,,,,,,,,,,,,,,2013,2012-13,div1,Southwest Tennessee,southwesttennesseecommunitycollege,tymichelotti4bnf,Ty Michelotti
+Feb 10,home,Jones,,,,,5.0,win,,,,,,,,,,,,,,,,,,,,,,,2013,2012-13,div1,Southwest Tennessee,southwesttennesseecommunitycollege,tymichelotti4bnf,Ty Michelotti
+Feb 10,home,Jones,,,,,5.0,win,,,,,,,,,,,,,,,,,,,,,,,2013,2012-13,div1,Southwest Tennessee,southwesttennesseecommunitycollege,tymichelotti4bnf,Ty Michelotti
+Feb 14,home,Itawamba,L,14-8,14,8,6.0,win,20130214_95rf,3,1,0,,,,1,2,,,,,,,0,0,,,,,5,2013,2012-13,div1,Southwest Tennessee,southwesttennesseecommunitycollege,tymichelotti4bnf,Ty Michelotti
+Feb 14,home,Itawamba,W,3-2,3,2,1.0,win,20130214_2yu3,2,1,1,1,,,0,,,,,,,,2,1,,,,,2,2013,2012-13,div1,Southwest Tennessee,southwesttennesseecommunitycollege,tymichelotti4bnf,Ty Michelotti
+Feb 16,home,Northwest Mississippi,L,8-7,8,7,1.0,win,20130216_ldom,3,0,1,,,,1,,,1,,2,,1,1,0,,2,1,2.00,6,2013,2012-13,div1,Southwest Tennessee,southwesttennesseecommunitycollege,tymichelotti4bnf,Ty Michelotti
+Feb 16,home,Northwest Mississippi,L,4-3,4,3,1.0,win,20130216_xzu3,4,1,2,,,,0,,,,,,,,2,0,,1,1,1.00,4,2013,2012-13,div1,Southwest Tennessee,southwesttennesseecommunitycollege,tymichelotti4bnf,Ty Michelotti
+Feb 19,home,Northwest Mississippi,L,8-3,8,3,5.0,win,20130219_47q6,5,1,2,1,,,1,,,,,,,,3,1,,1,2,0.50,5,2013,2012-13,div1,Southwest Tennessee,southwesttennesseecommunitycollege,tymichelotti4bnf,Ty Michelotti
+Feb 19,home,Northwest Mississippi,W,7-6,7,6,1.0,win,20130219_zm9l,4,1,2,,,,1,1,,,,,,,2,0,,,1,,5,2013,2012-13,div1,Southwest Tennessee,southwesttennesseecommunitycollege,tymichelotti4bnf,Ty Michelotti
+Feb 23,home,Jefferson (MO),W,3-2,3,2,1.0,win,20130223_0q5s,3,1,1,1,,,1,,,1,,,1,,2,1,,,3,,4,2013,2012-13,div1,Southwest Tennessee,southwesttennesseecommunitycollege,tymichelotti4bnf,Ty Michelotti
+Feb 23,home,St. Louis,W,5-2,5,2,3.0,win,,,,,,,,,,,,,,,,,,,,,,,2013,2012-13,div1,Southwest Tennessee,southwesttennesseecommunitycollege,tymichelotti4bnf,Ty Michelotti
+Feb 24,home,Jefferson (MO),W,4-2,4,2,2.0,win,20130224_w8c7,4,0,1,,,,0,,,,,,,,1,0,,3,,,4,2013,2012-13,div1,Southwest Tennessee,southwesttennesseecommunitycollege,tymichelotti4bnf,Ty Michelotti
+Mar 1,home,Motlow State,W,3-2,3,2,1.0,win,20130301_pa0h,4,1,2,1,,,0,,1,,,,,,3,1,,,1,,4,2013,2012-13,div1,Southwest Tennessee,southwesttennesseecommunitycollege,tymichelotti4bnf,Ty Michelotti
+Mar 2,home,Motlow State,L,2-0,2,0,2.0,win,20130302_ui1l,3,0,0,,,,0,,2,,,,,,0,0,,1,,,3,2013,2012-13,div1,Southwest Tennessee,southwesttennesseecommunitycollege,tymichelotti4bnf,Ty Michelotti
+Mar 2,home,Motlow State,W,7-6,7,6,1.0,win,20130302_yblp,3,0,1,,,,2,,1,,,,1,,1,0,,1,1,1.00,4,2013,2012-13,div1,Southwest Tennessee,southwesttennesseecommunitycollege,tymichelotti4bnf,Ty Michelotti
+Mar 4,home,Wabash Valley,W,8-4,8,4,4.0,win,20130304_gjua,4,1,3,1,1,,1,1,1,,1,,,,6,2,,,,,5,2013,2012-13,div1,Southwest Tennessee,southwesttennesseecommunitycollege,tymichelotti4bnf,Ty Michelotti
+Mar 7,home,Itawamba,L,4-2,4,2,2.0,win,20130307_7tht,2,0,0,,,,0,1,,,,,,,0,0,,,,,3,2013,2012-13,div1,Southwest Tennessee,southwesttennesseecommunitycollege,tymichelotti4bnf,Ty Michelotti
+Mar 7,home,Itawamba,L,4-2,4,2,2.0,win,20130307_hx8f,3,0,0,,,,0,,1,,,,,,0,0,,,,,3,2013,2012-13,div1,Southwest Tennessee,southwesttennesseecommunitycollege,tymichelotti4bnf,Ty Michelotti
+Mar 8,home,Cleveland State,L,8-2,8,2,6.0,win,20130308_gaec,4,0,1,,,,0,,,,,,,,1,0,,,3,,4,2013,2012-13,div1,Southwest Tennessee,southwesttennesseecommunitycollege,tymichelotti4bnf,Ty Michelotti
+Mar 9,home,Cleveland State,L,6-4,6,4,2.0,win,20130309_ot2j,4,0,3,1,,,0,,,,,,,,4,1,,1,,,4,2013,2012-13,div1,Southwest Tennessee,southwesttennesseecommunitycollege,tymichelotti4bnf,Ty Michelotti
+Mar 9,home,Cleveland State,W,7-5,7,5,2.0,win,20130309_v19n,3,2,3,,,2,2,,,1,,1,,,9,2,,,,,4,2013,2012-13,div1,Southwest Tennessee,southwesttennesseecommunitycollege,tymichelotti4bnf,Ty Michelotti
+Mar 13,home,Mississippi Delta,L,8-7,8,7,1.0,win,20130313_ev5h,4,2,1,,,,0,,,2,,,,,1,0,,,,,4,2013,2012-13,div1,Southwest Tennessee,southwesttennesseecommunitycollege,tymichelotti4bnf,Ty Michelotti
+Mar 13,home,Mississippi Delta,L,8-7,8,7,1.0,win,20130313_2ooz,4,0,1,,,,1,,1,,,,,,1,0,,,,,4,2013,2012-13,div1,Southwest Tennessee,southwesttennesseecommunitycollege,tymichelotti4bnf,Ty Michelotti
+Mar 15,home,Walters State,L,6-1,6,1,5.0,win,20130315_728e,5,0,2,,,,0,1,1,,,,,,2,0,,2,,,6,2013,2012-13,div1,Southwest Tennessee,southwesttennesseecommunitycollege,tymichelotti4bnf,Ty Michelotti
+Mar 16,home,Walters State,W,6-5,6,5,1.0,win,20130316_no8n,4,0,0,,,,0,,,,,,,,0,0,,1,2,0.50,4,2013,2012-13,div1,Southwest Tennessee,southwesttennesseecommunitycollege,tymichelotti4bnf,Ty Michelotti
+Mar 16,home,Walters State,L,5-2,5,2,3.0,win,20130316_gpv1,3,1,1,,,,0,,,1,,,,,1,0,,1,1,1.00,3,2013,2012-13,div1,Southwest Tennessee,southwesttennesseecommunitycollege,tymichelotti4bnf,Ty Michelotti
+Mar 19,home,Northeast Mississippi,L,6-2,6,2,4.0,win,20130319_jva1,3,0,2,,,,0,,,,,,,,2,0,,,,,3,2013,2012-13,div1,Southwest Tennessee,southwesttennesseecommunitycollege,tymichelotti4bnf,Ty Michelotti
+Mar 19,home,Northeast Mississippi,W,7-6,7,6,1.0,win,20130319_f391,4,0,1,,,,0,,2,,,,,,1,0,,,,,4,2013,2012-13,div1,Southwest Tennessee,southwesttennesseecommunitycollege,tymichelotti4bnf,Ty Michelotti
+Mar 23,home,Dyersburg State,L,7-1,7,1,6.0,win,20130323_bo8f,2,0,1,,,,0,2,,,,,,,1,0,,,1,,4,2013,2012-13,div1,Southwest Tennessee,southwesttennesseecommunitycollege,tymichelotti4bnf,Ty Michelotti
+Mar 23,home,Dyersburg State,W,1-0,1,0,1.0,win,20130323_iqb0,3,0,0,,,,0,,1,,,,,,0,0,,1,1,1.00,3,2013,2012-13,div1,Southwest Tennessee,southwesttennesseecommunitycollege,tymichelotti4bnf,Ty Michelotti
+Mar 24,home,Dyersburg State,L,11-3,11,3,8.0,win,20130324_42f9,3,1,1,,,,0,1,,,,,,,1,0,,2,,,4,2013,2012-13,div1,Southwest Tennessee,southwesttennesseecommunitycollege,tymichelotti4bnf,Ty Michelotti
+Mar 28,home,Jackson State,L,13-0,13,0,13.0,win,,,,,,,,,,,,,,,,,,,,,,,2013,2012-13,div1,Southwest Tennessee,southwesttennesseecommunitycollege,tymichelotti4bnf,Ty Michelotti
+Mar 29,home,Jackson State,L,2-0,2,0,2.0,win,,,,,,,,,,,,,,,,,,,,,,,2013,2012-13,div1,Southwest Tennessee,southwesttennesseecommunitycollege,tymichelotti4bnf,Ty Michelotti
+Mar 29,home,Jackson State,L,9-4,9,4,5.0,win,,,,,,,,,,,,,,,,,,,,,,,2013,2012-13,div1,Southwest Tennessee,southwesttennesseecommunitycollege,tymichelotti4bnf,Ty Michelotti
+Apr 1,home,Williams Baptist JV,,,,,5.0,win,,,,,,,,,,,,,,,,,,,,,,,2013,2012-13,div1,Southwest Tennessee,southwesttennesseecommunitycollege,tymichelotti4bnf,Ty Michelotti
+Apr 6,home,Roane State,W,7-4,7,4,3.0,win,20130406_zem7,3,2,2,,1,,0,,,,1,1,,,4,1,,,1,,4,2013,2012-13,div1,Southwest Tennessee,southwesttennesseecommunitycollege,tymichelotti4bnf,Ty Michelotti
+Apr 6,home,Roane State,W,4-2,4,2,2.0,win,20130406_p0fm,4,0,0,,,,0,,,,,,,,0,0,,,4,,4,2013,2012-13,div1,Southwest Tennessee,southwesttennesseecommunitycollege,tymichelotti4bnf,Ty Michelotti
+Apr 7,home,Roane State,L,5-2,5,2,3.0,win,20130407_1og9,5,1,2,,1,,0,,1,,,,,,4,1,,2,,,5,2013,2012-13,div1,Southwest Tennessee,southwesttennesseecommunitycollege,tymichelotti4bnf,Ty Michelotti
+Apr 8,home,Williams Baptist JV,W,6-4,6,4,2.0,win,,,,,,,,,,,,,,,,,,,,,,,2013,2012-13,div1,Southwest Tennessee,southwesttennesseecommunitycollege,tymichelotti4bnf,Ty Michelotti
+Apr 10,home,Northeast Mississippi,L,18-14,18,14,4.0,win,,,,,,,,,,,,,,,,,,,,,,,2013,2012-13,div1,Southwest Tennessee,southwesttennesseecommunitycollege,tymichelotti4bnf,Ty Michelotti
+Apr 12,home,Columbia State,W,6-5,6,5,1.0,win,20130412_fw3h,2,1,0,,,,0,,1,,,1,,,0,0,,1,,,3,2013,2012-13,div1,Southwest Tennessee,southwesttennesseecommunitycollege,tymichelotti4bnf,Ty Michelotti
+Apr 13,home,Columbia State,L,6-1,6,1,5.0,win,,,,,,,,,,,,,,,,,,,,,,,2013,2012-13,div1,Southwest Tennessee,southwesttennesseecommunitycollege,tymichelotti4bnf,Ty Michelotti
+Apr 13,home,Columbia State,W,7-5,7,5,2.0,win,20130413_wj4k,5,1,3,1,1,,3,,,,1,,,,6,2,1,1,1,1.00,5,2013,2012-13,div1,Southwest Tennessee,southwesttennesseecommunitycollege,tymichelotti4bnf,Ty Michelotti
+Apr 19,home,Volunteer State,L,6-2,6,2,4.0,win,20130419_ayjl,3,0,0,,,,0,2,,,,,,,0,0,,,3,,5,2013,2012-13,div1,Southwest Tennessee,southwesttennesseecommunitycollege,tymichelotti4bnf,Ty Michelotti
+Apr 20,home,Volunteer State,L,2-1,2,1,1.0,win,20130420_21kz,3,0,2,,,,0,1,,,,,,,2,0,,,1,,4,2013,2012-13,div1,Southwest Tennessee,southwesttennesseecommunitycollege,tymichelotti4bnf,Ty Michelotti
+Apr 20,home,Volunteer State,W,4-1,4,1,3.0,win,20130420_82vg,4,2,1,,,,0,1,,,,,,,1,0,,2,1,2.00,5,2013,2012-13,div1,Southwest Tennessee,southwesttennesseecommunitycollege,tymichelotti4bnf,Ty Michelotti
+Apr 26,home,Chattanooga State,,,,,3.0,win,,,,,,,,,,,,,,,,,,,,,,,2013,2012-13,div1,Southwest Tennessee,southwesttennesseecommunitycollege,tymichelotti4bnf,Ty Michelotti
+Apr 27,home,Chattanooga State,W,5-2,5,2,3.0,win,,,,,,,,,,,,,,,,,,,,,,,2013,2012-13,div1,Southwest Tennessee,southwesttennesseecommunitycollege,tymichelotti4bnf,Ty Michelotti
+Apr 27,home,Chattanooga State,W,5-3,5,3,2.0,win,,,,,,,,,,,,,,,,,,,,,,,2013,2012-13,div1,Southwest Tennessee,southwesttennesseecommunitycollege,tymichelotti4bnf,Ty Michelotti
