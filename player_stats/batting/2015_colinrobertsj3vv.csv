@@ -1,30 +1,52 @@
-date,location,opponent,result,score,team_score,opp_score,game_score_diff_x,game_win_loss_x,game_id_x,AB,R,H,2B,3B,HR,RBI,BB,K,SB,CS,game_score_diff_y,game_win_loss_y,game_id_y,HBP,SF,SH,TB,XBH,HDP,GO,FO,GO/FO,PA,season,njcaa_season,njcaa_division,team,team_id,player_id,player_name
-Feb 7,home,Wabash Valley,L,21-9,21,9,12.0,win,20150207_6yob,3,2,2,,,1,2,,,,,12.0,win,20150207_6yob,,,,5,1,,,,,3,2015,2014-15,div1,Jackson State,jacksonstatecommunitycollege,colinrobertsj3vv,Colin Roberts
-Feb 8,home,Wabash Valley,L,8-7,8,7,1.0,win,20150208_i768,3,1,1,,,,0,,,,,1.0,win,20150208_i768,,,,1,0,,,,,3,2015,2014-15,div1,Jackson State,jacksonstatecommunitycollege,colinrobertsj3vv,Colin Roberts
-Feb 8,home,Wabash Valley,L,16-0,16,0,16.0,win,20150208_fi4r,1,0,0,,,,0,1,1,1,,16.0,win,20150208_fi4r,,,,0,0,,,,,2,2015,2014-15,div1,Jackson State,jacksonstatecommunitycollege,colinrobertsj3vv,Colin Roberts
-Feb 14,home,McHenry County,L,9-5,9,5,4.0,win,20150214_62et,2,1,0,,,,0,1,1,,,4.0,win,20150214_62et,,,,0,0,,,,,3,2015,2014-15,div1,Jackson State,jacksonstatecommunitycollege,colinrobertsj3vv,Colin Roberts
-Feb 14,home,McHenry County,W,11-5,11,5,6.0,win,20150214_y6x0,2,2,0,,,,0,2,,,,6.0,win,20150214_y6x0,,,,0,0,,,,,4,2015,2014-15,div1,Jackson State,jacksonstatecommunitycollege,colinrobertsj3vv,Colin Roberts
-Feb 25,home,Williams Baptist JV,W,14-4,14,4,10.0,win,20150225_j74t,4,1,1,,,,0,,,,,10.0,win,20150225_j74t,,,,1,0,,,,,4,2015,2014-15,div1,Jackson State,jacksonstatecommunitycollege,colinrobertsj3vv,Colin Roberts
-Feb 25,home,Williams Baptist JV,W,11-1,11,1,10.0,win,,,,,,,,,,,,,10.0,win,,,,,,,,,,,,2015,2014-15,div1,Jackson State,jacksonstatecommunitycollege,colinrobertsj3vv,Colin Roberts
-Mar 3,home,Mineral Area,,,,,3.0,win,,,,,,,,,,,,,3.0,win,,,,,,,,,,,,2015,2014-15,div1,Jackson State,jacksonstatecommunitycollege,colinrobertsj3vv,Colin Roberts
-Mar 3,home,Mineral Area,,,,,3.0,win,,,,,,,,,,,,,3.0,win,,,,,,,,,,,,2015,2014-15,div1,Jackson State,jacksonstatecommunitycollege,colinrobertsj3vv,Colin Roberts
-Mar 3,home,Mineral Area,,,,,3.0,win,,,,,,,,,,,,,3.0,win,,,,,,,,,,,,2015,2014-15,div1,Jackson State,jacksonstatecommunitycollege,colinrobertsj3vv,Colin Roberts
-Mar 3,home,Mineral Area,,,,,3.0,win,,,,,,,,,,,,,3.0,win,,,,,,,,,,,,2015,2014-15,div1,Jackson State,jacksonstatecommunitycollege,colinrobertsj3vv,Colin Roberts
-Mar 9,home,Cleveland State,W,13-11,13,11,2.0,win,20150309_3vgq,3,1,1,,,,2,,,,,2.0,win,20150309_3vgq,,1,,1,0,,1,2,0.50,4,2015,2014-15,div1,Jackson State,jacksonstatecommunitycollege,colinrobertsj3vv,Colin Roberts
-Mar 9,home,Cleveland State,W,9-4,9,4,5.0,win,20150309_zfl6,3,0,1,,,,2,1,,,,5.0,win,20150309_zfl6,,,,1,0,,1,1,1.00,4,2015,2014-15,div1,Jackson State,jacksonstatecommunitycollege,colinrobertsj3vv,Colin Roberts
-Mar 18,home,Morton,W,7-2,7,2,5.0,win,20150318_0oaa,3,1,2,1,,,1,,,1,,5.0,win,20150318_0oaa,,,,3,1,,,,,3,2015,2014-15,div1,Jackson State,jacksonstatecommunitycollege,colinrobertsj3vv,Colin Roberts
-Mar 18,home,Morton,W,12-2,12,2,10.0,win,,,,,,,,,,,,,10.0,win,,,,,,,,,,,,2015,2014-15,div1,Jackson State,jacksonstatecommunitycollege,colinrobertsj3vv,Colin Roberts
-Mar 20,home,Southwest Tennessee,L,8-2,8,2,6.0,win,20150320_hp7s,2,0,0,,,,1,,1,,,6.0,win,20150320_hp7s,,1,,0,0,,,,,3,2015,2014-15,div1,Jackson State,jacksonstatecommunitycollege,colinrobertsj3vv,Colin Roberts
-Mar 21,home,Southwest Tennessee,W,4-3,4,3,1.0,win,,,,,,,,,,,,,1.0,win,,,,,,,,,,,,2015,2014-15,div1,Jackson State,jacksonstatecommunitycollege,colinrobertsj3vv,Colin Roberts
-Mar 21,home,Southwest Tennessee,W,7-6,7,6,1.0,win,20150321_isjq,3,0,1,1,,,0,,,,,1.0,win,20150321_isjq,,,,2,1,,,,,3,2015,2014-15,div1,Jackson State,jacksonstatecommunitycollege,colinrobertsj3vv,Colin Roberts
-Apr 2,home,Chattanooga State,W,13-2,13,2,11.0,win,20150402_fj58,2,0,1,,,,0,1,1,,,11.0,win,20150402_fj58,,,,1,0,,,,,3,2015,2014-15,div1,Jackson State,jacksonstatecommunitycollege,colinrobertsj3vv,Colin Roberts
-Apr 2,home,Chattanooga State,W,18-6,18,6,12.0,win,20150402_tma6,3,2,3,,,1,4,1,,,,12.0,win,20150402_tma6,,,,6,1,,,,,4,2015,2014-15,div1,Jackson State,jacksonstatecommunitycollege,colinrobertsj3vv,Colin Roberts
-Apr 3,home,Chattanooga State,L,14-11,14,11,3.0,win,20150403_32kw,4,2,1,1,,,0,,1,,,3.0,win,20150403_32kw,1,,,2,1,,,,,5,2015,2014-15,div1,Jackson State,jacksonstatecommunitycollege,colinrobertsj3vv,Colin Roberts
-Apr 7,home,Columbia State,W,6-4,6,4,2.0,win,20150407_tqk4,4,0,0,,,,0,1,2,,,2.0,win,20150407_tqk4,,,,0,0,,,,,5,2015,2014-15,div1,Jackson State,jacksonstatecommunitycollege,colinrobertsj3vv,Colin Roberts
-Apr 8,home,Martin Methodist JV,W,19-15,19,15,4.0,win,20150408_kmc2,5,2,2,1,,,0,,,2,,4.0,win,20150408_kmc2,,,,3,1,,,,,5,2015,2014-15,div1,Jackson State,jacksonstatecommunitycollege,colinrobertsj3vv,Colin Roberts
-Apr 8,home,Martin Methodist JV,W,10-3,10,3,7.0,win,20150408_qwh7,3,1,1,1,,,0,1,,,1,7.0,win,20150408_qwh7,,,,2,1,,,,,4,2015,2014-15,div1,Jackson State,jacksonstatecommunitycollege,colinrobertsj3vv,Colin Roberts
-Apr 17,home,Walters State,W,11-8,11,8,3.0,win,20150417_oduk,3,1,3,1,,1,3,1,,1,,3.0,win,20150417_oduk,,,,7,2,,,,,4,2015,2014-15,div1,Jackson State,jacksonstatecommunitycollege,colinrobertsj3vv,Colin Roberts
-Apr 17,home,Walters State,W,1-0,1,0,1.0,win,20150417_siul,2,0,0,,,,0,,2,,,1.0,win,20150417_siul,,,,0,0,,,,,2,2015,2014-15,div1,Jackson State,jacksonstatecommunitycollege,colinrobertsj3vv,Colin Roberts
-Apr 18,home,Walters State,L,7-5,7,5,2.0,win,20150418_gyn4,3,0,0,,,,0,,3,,,2.0,win,20150418_gyn4,,,,0,0,,,,,3,2015,2014-15,div1,Jackson State,jacksonstatecommunitycollege,colinrobertsj3vv,Colin Roberts
-Apr 21,home,Bethel University,W,14-1,14,1,13.0,win,,,,,,,,,,,,,13.0,win,,,,,,,,,,,,2015,2014-15,div1,Jackson State,jacksonstatecommunitycollege,colinrobertsj3vv,Colin Roberts
-Apr 21,home,Bethel University,W,7-1,7,1,6.0,win,20150421_0kj2,3,1,1,,,1,2,,,,,6.0,win,20150421_0kj2,,,,4,1,,,,,3,2015,2014-15,div1,Jackson State,jacksonstatecommunitycollege,colinrobertsj3vv,Colin Roberts
+date,location,opponent,result,score,team_score,opp_score,game_score_diff,game_win_loss,game_id,AB,R,H,2B,3B,HR,RBI,BB,K,SB,CS,HBP,SF,SH,TB,XBH,HDP,GO,FO,GO/FO,PA,season,njcaa_season,njcaa_division,team,team_id,player_id,player_name
+Feb 7,home,Wabash Valley,L,21-9,21,9,12.0,win,20150207_6yob,3,2,2,,,1,2,,,,,,,,5,1,,,,,3,2015,2014-15,div1,Jackson State,jacksonstatecommunitycollege,colinrobertsj3vv,Colin Roberts
+Feb 8,home,Wabash Valley,L,8-7,8,7,1.0,win,20150208_i768,3,1,1,,,,0,,,,,,,,1,0,,,,,3,2015,2014-15,div1,Jackson State,jacksonstatecommunitycollege,colinrobertsj3vv,Colin Roberts
+Feb 8,home,Wabash Valley,L,16-0,16,0,16.0,win,20150208_fi4r,1,0,0,,,,0,1,1,1,,,,,0,0,,,,,2,2015,2014-15,div1,Jackson State,jacksonstatecommunitycollege,colinrobertsj3vv,Colin Roberts
+Feb 10,home,Coahoma,W,17-9,17,9,8.0,win,20150210_tjr7,3,1,0,,,,1,2,,,,,,,0,0,,,,,5,2015,2014-15,div1,Jackson State,jacksonstatecommunitycollege,colinrobertsj3vv,Colin Roberts
+Feb 10,home,Coahoma,W,2-1,2,1,1.0,win,20150210_vtgi,3,0,1,1,,,0,,,,,,,,2,1,,,,,3,2015,2014-15,div1,Jackson State,jacksonstatecommunitycollege,colinrobertsj3vv,Colin Roberts
+Feb 14,home,McHenry County,L,9-5,9,5,4.0,win,20150214_62et,2,1,0,,,,0,1,1,,,,,,0,0,,,,,3,2015,2014-15,div1,Jackson State,jacksonstatecommunitycollege,colinrobertsj3vv,Colin Roberts
+Feb 14,home,McHenry County,W,11-5,11,5,6.0,win,20150214_y6x0,2,2,0,,,,0,2,,,,,,,0,0,,,,,4,2015,2014-15,div1,Jackson State,jacksonstatecommunitycollege,colinrobertsj3vv,Colin Roberts
+Feb 25,home,Williams Baptist JV,W,14-4,14,4,10.0,win,20150225_j74t,4,1,1,,,,0,,,,,,,,1,0,,,,,4,2015,2014-15,div1,Jackson State,jacksonstatecommunitycollege,colinrobertsj3vv,Colin Roberts
+Feb 25,home,Williams Baptist JV,W,11-1,11,1,10.0,win,,,,,,,,,,,,,,,,,,,,,,,2015,2014-15,div1,Jackson State,jacksonstatecommunitycollege,colinrobertsj3vv,Colin Roberts
+Feb 27,home,Motlow State,W,7-4,7,4,3.0,win,20150227_sqfo,1,0,1,,,,0,2,,,2,,,,1,0,,,,,3,2015,2014-15,div1,Jackson State,jacksonstatecommunitycollege,colinrobertsj3vv,Colin Roberts
+Feb 28,home,Motlow State,W,18-3,18,3,15.0,win,20150228_04zf,4,1,1,,,,0,,1,,,,,,1,0,,,,,4,2015,2014-15,div1,Jackson State,jacksonstatecommunitycollege,colinrobertsj3vv,Colin Roberts
+Feb 28,home,Motlow State,L,10-7,10,7,3.0,win,20150228_dr6u,4,1,1,,,,0,1,1,,,,,,1,0,,,,,5,2015,2014-15,div1,Jackson State,jacksonstatecommunitycollege,colinrobertsj3vv,Colin Roberts
+Mar 3,home,Mineral Area,,,,,3.0,win,,,,,,,,,,,,,,,,,,,,,,,2015,2014-15,div1,Jackson State,jacksonstatecommunitycollege,colinrobertsj3vv,Colin Roberts
+Mar 3,home,Mineral Area,,,,,3.0,win,,,,,,,,,,,,,,,,,,,,,,,2015,2014-15,div1,Jackson State,jacksonstatecommunitycollege,colinrobertsj3vv,Colin Roberts
+Mar 3,home,Mineral Area,,,,,3.0,win,,,,,,,,,,,,,,,,,,,,,,,2015,2014-15,div1,Jackson State,jacksonstatecommunitycollege,colinrobertsj3vv,Colin Roberts
+Mar 3,home,Mineral Area,,,,,3.0,win,,,,,,,,,,,,,,,,,,,,,,,2015,2014-15,div1,Jackson State,jacksonstatecommunitycollege,colinrobertsj3vv,Colin Roberts
+Mar 9,home,Cleveland State,W,13-11,13,11,2.0,win,20150309_3vgq,3,1,1,,,,2,,,,,,1,,1,0,,1,2,0.50,4,2015,2014-15,div1,Jackson State,jacksonstatecommunitycollege,colinrobertsj3vv,Colin Roberts
+Mar 9,home,Cleveland State,W,9-4,9,4,5.0,win,20150309_zfl6,3,0,1,,,,2,1,,,,,,,1,0,,1,1,1.00,4,2015,2014-15,div1,Jackson State,jacksonstatecommunitycollege,colinrobertsj3vv,Colin Roberts
+Mar 15,home,Columbia State,L,8-2,8,2,6.0,win,20150315_mjq9,3,0,0,,,,0,,1,,,,,,0,0,,,2,,3,2015,2014-15,div1,Jackson State,jacksonstatecommunitycollege,colinrobertsj3vv,Colin Roberts
+Mar 15,home,Columbia State,L,10-8,10,8,2.0,win,20150315_p7xb,3,0,0,,,,1,,2,,,,1,,0,0,,1,1,1.00,4,2015,2014-15,div1,Jackson State,jacksonstatecommunitycollege,colinrobertsj3vv,Colin Roberts
+Mar 16,home,Columbia State,W,12-9,12,9,3.0,win,20150316_5nrn,4,1,2,1,,,2,1,1,,,,,,3,1,1,1,,,5,2015,2014-15,div1,Jackson State,jacksonstatecommunitycollege,colinrobertsj3vv,Colin Roberts
+Mar 18,home,Morton,W,7-2,7,2,5.0,win,20150318_0oaa,3,1,2,1,,,1,,,1,,,,,3,1,,,,,3,2015,2014-15,div1,Jackson State,jacksonstatecommunitycollege,colinrobertsj3vv,Colin Roberts
+Mar 18,home,Morton,W,12-2,12,2,10.0,win,,,,,,,,,,,,,,,,,,,,,,,2015,2014-15,div1,Jackson State,jacksonstatecommunitycollege,colinrobertsj3vv,Colin Roberts
+Mar 20,home,Southwest Tennessee,L,8-2,8,2,6.0,win,20150320_hp7s,2,0,0,,,,1,,1,,,,1,,0,0,,,,,3,2015,2014-15,div1,Jackson State,jacksonstatecommunitycollege,colinrobertsj3vv,Colin Roberts
+Mar 21,home,Southwest Tennessee,W,4-3,4,3,1.0,win,,,,,,,,,,,,,,,,,,,,,,,2015,2014-15,div1,Jackson State,jacksonstatecommunitycollege,colinrobertsj3vv,Colin Roberts
+Mar 21,home,Southwest Tennessee,W,7-6,7,6,1.0,win,20150321_isjq,3,0,1,1,,,0,,,,,,,,2,1,,,,,3,2015,2014-15,div1,Jackson State,jacksonstatecommunitycollege,colinrobertsj3vv,Colin Roberts
+Mar 23,home,Northwest Mississippi,L,10-5,10,5,5.0,win,20150323_prf7,2,0,0,,,,0,1,,,,,,,0,0,,,2,,3,2015,2014-15,div1,Jackson State,jacksonstatecommunitycollege,colinrobertsj3vv,Colin Roberts
+Mar 27,home,Dyersburg State,L,7-5,7,5,2.0,win,20150327_ok42,1,0,1,,,,1,1,,,,,,,1,0,,,,,2,2015,2014-15,div1,Jackson State,jacksonstatecommunitycollege,colinrobertsj3vv,Colin Roberts
+Mar 28,home,Dyersburg State,W,3-1,3,1,2.0,win,20150328_y16m,3,0,1,,,,0,,2,,,,,,1,0,,,,,3,2015,2014-15,div1,Jackson State,jacksonstatecommunitycollege,colinrobertsj3vv,Colin Roberts
+Mar 28,home,Dyersburg State,W,11-10,11,10,1.0,win,20150328_0ch8,3,1,2,,,,2,,,1,,1,,,2,0,,,,,4,2015,2014-15,div1,Jackson State,jacksonstatecommunitycollege,colinrobertsj3vv,Colin Roberts
+Mar 30,home,Bethel JV,W,12-2,12,2,10.0,win,,,,,,,,,,,,,,,,,,,,,,,2015,2014-15,div1,Jackson State,jacksonstatecommunitycollege,colinrobertsj3vv,Colin Roberts
+Mar 30,home,Bethel JV,W,19-0,19,0,19.0,win,20150330_ihmz,4,3,3,2,,1,6,,,,,,,,8,3,,,,,4,2015,2014-15,div1,Jackson State,jacksonstatecommunitycollege,colinrobertsj3vv,Colin Roberts
+Apr 2,home,Chattanooga State,W,13-2,13,2,11.0,win,20150402_fj58,2,0,1,,,,0,1,1,,,,,,1,0,,,,,3,2015,2014-15,div1,Jackson State,jacksonstatecommunitycollege,colinrobertsj3vv,Colin Roberts
+Apr 2,home,Chattanooga State,W,18-6,18,6,12.0,win,20150402_tma6,3,2,3,,,1,4,1,,,,,,,6,1,,,,,4,2015,2014-15,div1,Jackson State,jacksonstatecommunitycollege,colinrobertsj3vv,Colin Roberts
+Apr 3,home,Chattanooga State,L,14-11,14,11,3.0,win,20150403_32kw,4,2,1,1,,,0,,1,,,1,,,2,1,,,,,5,2015,2014-15,div1,Jackson State,jacksonstatecommunitycollege,colinrobertsj3vv,Colin Roberts
+Apr 7,home,Columbia State,W,6-4,6,4,2.0,win,20150407_tqk4,4,0,0,,,,0,1,2,,,,,,0,0,,,,,5,2015,2014-15,div1,Jackson State,jacksonstatecommunitycollege,colinrobertsj3vv,Colin Roberts
+Apr 8,home,Martin Methodist JV,W,19-15,19,15,4.0,win,20150408_kmc2,5,2,2,1,,,0,,,2,,,,,3,1,,,,,5,2015,2014-15,div1,Jackson State,jacksonstatecommunitycollege,colinrobertsj3vv,Colin Roberts
+Apr 8,home,Martin Methodist JV,W,10-3,10,3,7.0,win,20150408_qwh7,3,1,1,1,,,0,1,,,1,,,,2,1,,,,,4,2015,2014-15,div1,Jackson State,jacksonstatecommunitycollege,colinrobertsj3vv,Colin Roberts
+Apr 11,home,Roane State,W,10-1,10,1,9.0,win,20150411_m9o9,4,1,1,,,,0,,3,,,,,,1,0,,,,,4,2015,2014-15,div1,Jackson State,jacksonstatecommunitycollege,colinrobertsj3vv,Colin Roberts
+Apr 11,home,Roane State,W,7-2,7,2,5.0,win,20150411_5l99,3,1,2,,,,2,,,1,,,,,2,0,1,1,,,3,2015,2014-15,div1,Jackson State,jacksonstatecommunitycollege,colinrobertsj3vv,Colin Roberts
+Apr 12,home,Roane State,W,8-2,8,2,6.0,win,20150412_iuqq,3,1,1,1,,,0,1,1,1,,1,,,2,1,,,1,,5,2015,2014-15,div1,Jackson State,jacksonstatecommunitycollege,colinrobertsj3vv,Colin Roberts
+Apr 17,home,Walters State,W,11-8,11,8,3.0,win,20150417_oduk,3,1,3,1,,1,3,1,,1,,,,,7,2,,,,,4,2015,2014-15,div1,Jackson State,jacksonstatecommunitycollege,colinrobertsj3vv,Colin Roberts
+Apr 17,home,Walters State,W,1-0,1,0,1.0,win,20150417_siul,2,0,0,,,,0,,2,,,,,,0,0,,,,,2,2015,2014-15,div1,Jackson State,jacksonstatecommunitycollege,colinrobertsj3vv,Colin Roberts
+Apr 18,home,Walters State,L,7-5,7,5,2.0,win,20150418_gyn4,3,0,0,,,,0,,3,,,,,,0,0,,,,,3,2015,2014-15,div1,Jackson State,jacksonstatecommunitycollege,colinrobertsj3vv,Colin Roberts
+Apr 21,home,Bethel University,W,14-1,14,1,13.0,win,,,,,,,,,,,,,,,,,,,,,,,2015,2014-15,div1,Jackson State,jacksonstatecommunitycollege,colinrobertsj3vv,Colin Roberts
+Apr 21,home,Bethel University,W,7-1,7,1,6.0,win,20150421_0kj2,3,1,1,,,1,2,,,,,,,,4,1,,,,,3,2015,2014-15,div1,Jackson State,jacksonstatecommunitycollege,colinrobertsj3vv,Colin Roberts
+Apr 24,home,Volunteer State,L,14-4,14,4,10.0,win,20150424_vn3w,1,0,0,,,,0,2,,,,,,,0,0,,,1,,3,2015,2014-15,div1,Jackson State,jacksonstatecommunitycollege,colinrobertsj3vv,Colin Roberts
+Apr 24,home,Volunteer State,W,13-3,13,3,10.0,win,,,,,,,,,,,,,,,,,,,,,,,2015,2014-15,div1,Jackson State,jacksonstatecommunitycollege,colinrobertsj3vv,Colin Roberts
+Apr 25,home,Volunteer State,L,17-11,17,11,6.0,win,,,,,,,,,,,,,,,,,,,,,,,2015,2014-15,div1,Jackson State,jacksonstatecommunitycollege,colinrobertsj3vv,Colin Roberts
+Apr 30,home,Volunteer State,L,24-11,24,11,13.0,win,,,,,,,,,,,,,,,,,,,,,,,2015,2014-15,div1,Jackson State,jacksonstatecommunitycollege,colinrobertsj3vv,Colin Roberts
+May 1,home,Cleveland State,L,6-5,6,5,1.0,win,,,,,,,,,,,,,,,,,,,,,,,2015,2014-15,div1,Jackson State,jacksonstatecommunitycollege,colinrobertsj3vv,Colin Roberts

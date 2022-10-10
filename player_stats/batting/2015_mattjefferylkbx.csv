@@ -1,31 +1,57 @@
-date,location,opponent,result,score,team_score,opp_score,game_score_diff_x,game_win_loss_x,game_id_x,AB,R,H,2B,3B,HR,RBI,BB,K,SB,CS,game_score_diff_y,game_win_loss_y,game_id_y,HBP,SF,SH,TB,XBH,HDP,GO,FO,GO/FO,PA,season,njcaa_season,njcaa_division,team,team_id,player_id,player_name
-Mar 11,home,Garrett,W,10-5,10,5,5.0,win,20150311_dkcg,3,1,1,1,,,1,2,1,,,5.0,win,20150311_dkcg,,,,2,1,,,,,5,2015,2014-15,div1,Potomac State,potomacstatecollegeofwvu,mattjefferylkbx,Matt Jeffery
-Mar 15,home,St. Clair County,W,7-6,7,6,1.0,win,20150315_4uw9,3,1,2,1,,1,1,1,,,,1.0,win,20150315_4uw9,,,,6,2,,,,,4,2015,2014-15,div1,Potomac State,potomacstatecollegeofwvu,mattjefferylkbx,Matt Jeffery
-Mar 15,home,St. Clair County,L,10-3,10,3,7.0,win,20150315_lnku,3,0,1,,,,0,1,,,,7.0,win,20150315_lnku,,,,1,0,,,,,4,2015,2014-15,div1,Potomac State,potomacstatecollegeofwvu,mattjefferylkbx,Matt Jeffery
-Mar 21,home,Mercyhurst North East,W,16-6,16,6,10.0,win,20150321_70wa,4,2,1,1,,,1,1,1,,,10.0,win,20150321_70wa,,,,2,1,,,,,5,2015,2014-15,div1,Potomac State,potomacstatecollegeofwvu,mattjefferylkbx,Matt Jeffery
-Mar 22,home,Mercyhurst North East,L,3-0,3,0,3.0,win,20150322_cwbr,3,0,0,,,,0,,,,,3.0,win,20150322_cwbr,,,,0,0,,,,,3,2015,2014-15,div1,Potomac State,potomacstatecollegeofwvu,mattjefferylkbx,Matt Jeffery
-Mar 22,home,Mercyhurst North East,W,9-7,9,7,2.0,win,20150322_gzjm,4,0,1,,,,1,,1,,,2.0,win,20150322_gzjm,,,,1,0,,,,,4,2015,2014-15,div1,Potomac State,potomacstatecollegeofwvu,mattjefferylkbx,Matt Jeffery
-Apr 2,home,Cecil,W,5-2,5,2,3.0,win,20150402_tyrh,3,1,2,,,,1,,,,,3.0,win,20150402_tyrh,,,1,2,0,,,,,4,2015,2014-15,div1,Potomac State,potomacstatecollegeofwvu,mattjefferylkbx,Matt Jeffery
-Apr 2,home,Cecil,W,7-6,7,6,1.0,win,20150402_iej4,3,1,1,,,1,3,1,1,,,1.0,win,20150402_iej4,,,,4,1,,,,,4,2015,2014-15,div1,Potomac State,potomacstatecollegeofwvu,mattjefferylkbx,Matt Jeffery
-Apr 11,home,Shenandoah University JV,W,12-0,12,0,12.0,win,,,,,,,,,,,,,12.0,win,,,,,,,,,,,,2015,2014-15,div1,Potomac State,potomacstatecollegeofwvu,mattjefferylkbx,Matt Jeffery
-Apr 11,home,Shenandoah University JV,W,11-0,11,0,11.0,win,,,,,,,,,,,,,11.0,win,,,,,,,,,,,,2015,2014-15,div1,Potomac State,potomacstatecollegeofwvu,mattjefferylkbx,Matt Jeffery
-Apr 12,home,CCBC Catonsville,,,,,11.0,win,,,,,,,,,,,,,11.0,win,,,,,,,,,,,,2015,2014-15,div1,Potomac State,potomacstatecollegeofwvu,mattjefferylkbx,Matt Jeffery
-Apr 12,home,CCBC Catonsville,,,,,11.0,win,,,,,,,,,,,,,11.0,win,,,,,,,,,,,,2015,2014-15,div1,Potomac State,potomacstatecollegeofwvu,mattjefferylkbx,Matt Jeffery
-Apr 12,home,CCBC Catonsville,,,,,11.0,win,,,,,,,,,,,,,11.0,win,,,,,,,,,,,,2015,2014-15,div1,Potomac State,potomacstatecollegeofwvu,mattjefferylkbx,Matt Jeffery
-Apr 12,home,CCBC Catonsville,,,,,11.0,win,,,,,,,,,,,,,11.0,win,,,,,,,,,,,,2015,2014-15,div1,Potomac State,potomacstatecollegeofwvu,mattjefferylkbx,Matt Jeffery
-Apr 16,home,Allegheny County-South,,,,,4.0,win,,,,,,,,,,,,,4.0,win,,,,,,,,,,,,2015,2014-15,div1,Potomac State,potomacstatecollegeofwvu,mattjefferylkbx,Matt Jeffery
-Apr 16,home,Allegheny County-South,,,,,4.0,win,,,,,,,,,,,,,4.0,win,,,,,,,,,,,,2015,2014-15,div1,Potomac State,potomacstatecollegeofwvu,mattjefferylkbx,Matt Jeffery
-Apr 16,home,Allegheny County-South,,,,,4.0,win,,,,,,,,,,,,,4.0,win,,,,,,,,,,,,2015,2014-15,div1,Potomac State,potomacstatecollegeofwvu,mattjefferylkbx,Matt Jeffery
-Apr 16,home,Allegheny County-South,,,,,4.0,win,,,,,,,,,,,,,4.0,win,,,,,,,,,,,,2015,2014-15,div1,Potomac State,potomacstatecollegeofwvu,mattjefferylkbx,Matt Jeffery
-Apr 18,home,Westmoreland,W,7-0,7,0,7.0,win,20150418_6x6r,3,1,1,1,,,3,1,,,,7.0,win,20150418_6x6r,,,,2,1,,,,,4,2015,2014-15,div1,Potomac State,potomacstatecollegeofwvu,mattjefferylkbx,Matt Jeffery
-Apr 18,home,Westmoreland,W,12-2,12,2,10.0,win,20150418_9e0b,3,2,2,1,,,0,1,,,,10.0,win,20150418_9e0b,,,,3,1,,,,,4,2015,2014-15,div1,Potomac State,potomacstatecollegeofwvu,mattjefferylkbx,Matt Jeffery
-Apr 19,home,Chesapeake,W,3-2,3,2,1.0,win,20150419_7feh,3,0,0,,,,0,1,,,,1.0,win,20150419_7feh,,,1,0,0,,3,1,3.00,5,2015,2014-15,div1,Potomac State,potomacstatecollegeofwvu,mattjefferylkbx,Matt Jeffery
-Apr 25,home,Monroe College,W,5-4,5,4,1.0,win,20150425_8tll,4,0,1,,,,1,1,1,,,1.0,win,20150425_8tll,,,,1,0,,,,,5,2015,2014-15,div1,Potomac State,potomacstatecollegeofwvu,mattjefferylkbx,Matt Jeffery
-Apr 25,home,Monroe College,L,10-3,10,3,7.0,win,20150425_tkyx,3,0,0,,,,0,,2,,,7.0,win,20150425_tkyx,,,,0,0,,,,,3,2015,2014-15,div1,Potomac State,potomacstatecollegeofwvu,mattjefferylkbx,Matt Jeffery
-Apr 29,home,Lakeland,W,8-1,8,1,7.0,win,20150429_8p7m,3,2,1,,,,0,1,2,1,,7.0,win,20150429_8p7m,,,,1,0,,,,,4,2015,2014-15,div1,Potomac State,potomacstatecollegeofwvu,mattjefferylkbx,Matt Jeffery
-Apr 29,home,Lakeland,W,10-0,10,0,10.0,win,,,,,,,,,,,,,10.0,win,,,,,,,,,,,,2015,2014-15,div1,Potomac State,potomacstatecollegeofwvu,mattjefferylkbx,Matt Jeffery
-May 2,home,CCBC Catonsville,W,7-1,7,1,6.0,win,20150502_1kph,2,0,0,,,,1,,1,1,,6.0,win,20150502_1kph,,1,,0,0,,,,,3,2015,2014-15,div1,Potomac State,potomacstatecollegeofwvu,mattjefferylkbx,Matt Jeffery
-May 2,home,CCBC Catonsville,W,10-6,10,6,4.0,win,20150502_fpjm,3,1,1,,,,1,,2,,,4.0,win,20150502_fpjm,,1,,1,0,,,,,4,2015,2014-15,div1,Potomac State,potomacstatecollegeofwvu,mattjefferylkbx,Matt Jeffery
-May 3,home,Hagerstown,W,11-1,11,1,10.0,win,20150503_55rh,4,2,3,,,,1,,,,,10.0,win,20150503_55rh,,,,3,0,,,,,4,2015,2014-15,div1,Potomac State,potomacstatecollegeofwvu,mattjefferylkbx,Matt Jeffery
-May 9,home,Hagerstown,W,5-1,5,1,4.0,win,20150509_zabc,4,1,2,,,,1,,,,,4.0,win,20150509_zabc,,,,2,0,,,,,4,2015,2014-15,div1,Potomac State,potomacstatecollegeofwvu,mattjefferylkbx,Matt Jeffery
-May 10,home,Harford,W,11-0,11,0,11.0,win,20150510_uwdr,4,2,1,,,,0,1,1,,,11.0,win,20150510_uwdr,,,,1,0,1,2,,,5,2015,2014-15,div1,Potomac State,potomacstatecollegeofwvu,mattjefferylkbx,Matt Jeffery
+date,location,opponent,result,score,team_score,opp_score,game_score_diff,game_win_loss,game_id,AB,R,H,2B,3B,HR,RBI,BB,K,SB,CS,HBP,SF,SH,TB,XBH,HDP,GO,FO,GO/FO,PA,season,njcaa_season,njcaa_division,team,team_id,player_id,player_name
+Feb 14,home,Florence-Darlington Tech,L,5-1,5,1,4.0,win,20150214_1ko7,2,0,0,,,,0,1,1,,,,,,0,0,,,,,3,2015,2014-15,div1,Potomac State,potomacstatecollegeofwvu,mattjefferylkbx,Matt Jeffery
+Feb 14,home,USC Sumter,W,5-1,5,1,4.0,win,20150214_ar58,4,1,2,,,,1,,,,,,,,2,0,,,,,4,2015,2014-15,div1,Potomac State,potomacstatecollegeofwvu,mattjefferylkbx,Matt Jeffery
+Feb 15,home,USC Sumter,L,4-3,4,3,1.0,win,20150215_mdq9,3,1,1,,,,0,1,1,,,,,,1,0,,,,,4,2015,2014-15,div1,Potomac State,potomacstatecollegeofwvu,mattjefferylkbx,Matt Jeffery
+Feb 15,home,Florence-Darlington Tech,,,,,1.0,win,,,,,,,,,,,,,,,,,,,,,,,2015,2014-15,div1,Potomac State,potomacstatecollegeofwvu,mattjefferylkbx,Matt Jeffery
+Feb 21,home,Florence-Darlington Tech,W,4-0,4,0,4.0,win,20150221_ibmc,2,1,1,1,,,0,1,,,,,,,2,1,,,,,3,2015,2014-15,div1,Potomac State,potomacstatecollegeofwvu,mattjefferylkbx,Matt Jeffery
+Feb 21,home,Patrick & Henry,W,3-2,3,2,1.0,win,20150221_tye4,4,0,1,,,,0,,,,,,,,1,0,,,,,4,2015,2014-15,div1,Potomac State,potomacstatecollegeofwvu,mattjefferylkbx,Matt Jeffery
+Feb 22,home,USC Lancaster,L,3-0,3,0,3.0,win,20150222_82iu,2,0,0,,,,0,,,,,,,,0,0,,,,,2,2015,2014-15,div1,Potomac State,potomacstatecollegeofwvu,mattjefferylkbx,Matt Jeffery
+Feb 22,home,Brunswick,W,5-4,5,4,1.0,win,20150222_hd60,3,0,0,,,,0,1,,,,,,,0,0,,,,,4,2015,2014-15,div1,Potomac State,potomacstatecollegeofwvu,mattjefferylkbx,Matt Jeffery
+Mar 8,home,Surry,W,2-0,2,0,2.0,win,20150308_xk74,3,1,1,1,,,0,,,,,,,,2,1,,,,,3,2015,2014-15,div1,Potomac State,potomacstatecollegeofwvu,mattjefferylkbx,Matt Jeffery
+Mar 8,home,Surry,W,6-3,6,3,3.0,win,20150308_46ur,3,0,0,,,,0,1,2,,,,,,0,0,,,,,4,2015,2014-15,div1,Potomac State,potomacstatecollegeofwvu,mattjefferylkbx,Matt Jeffery
+Mar 11,home,Garrett,W,10-5,10,5,5.0,win,20150311_dkcg,3,1,1,1,,,1,2,1,,,,,,2,1,,,,,5,2015,2014-15,div1,Potomac State,potomacstatecollegeofwvu,mattjefferylkbx,Matt Jeffery
+Mar 15,home,St. Clair County,W,7-6,7,6,1.0,win,20150315_4uw9,3,1,2,1,,1,1,1,,,,,,,6,2,,,,,4,2015,2014-15,div1,Potomac State,potomacstatecollegeofwvu,mattjefferylkbx,Matt Jeffery
+Mar 15,home,St. Clair County,L,10-3,10,3,7.0,win,20150315_lnku,3,0,1,,,,0,1,,,,,,,1,0,,,,,4,2015,2014-15,div1,Potomac State,potomacstatecollegeofwvu,mattjefferylkbx,Matt Jeffery
+Mar 18,home,Hagerstown,W,7-0,7,0,7.0,win,20150318_lomm,3,1,1,,,,2,2,1,,,,,,1,0,,,,,5,2015,2014-15,div1,Potomac State,potomacstatecollegeofwvu,mattjefferylkbx,Matt Jeffery
+Mar 21,home,Mercyhurst North East,W,16-6,16,6,10.0,win,20150321_70wa,4,2,1,1,,,1,1,1,,,,,,2,1,,,,,5,2015,2014-15,div1,Potomac State,potomacstatecollegeofwvu,mattjefferylkbx,Matt Jeffery
+Mar 22,home,Mercyhurst North East,L,3-0,3,0,3.0,win,20150322_cwbr,3,0,0,,,,0,,,,,,,,0,0,,,,,3,2015,2014-15,div1,Potomac State,potomacstatecollegeofwvu,mattjefferylkbx,Matt Jeffery
+Mar 22,home,Mercyhurst North East,W,9-7,9,7,2.0,win,20150322_gzjm,4,0,1,,,,1,,1,,,,,,1,0,,,,,4,2015,2014-15,div1,Potomac State,potomacstatecollegeofwvu,mattjefferylkbx,Matt Jeffery
+Mar 25,home,Chesapeake,W,12-1,12,1,11.0,win,20150325_8mzr,4,2,1,1,,,3,,,,,1,,,2,1,,1,2,0.50,5,2015,2014-15,div1,Potomac State,potomacstatecollegeofwvu,mattjefferylkbx,Matt Jeffery
+Mar 28,home,Shenandoah University JV,W,7-3,7,3,4.0,win,20150328_wksx,3,0,1,,,,0,1,,,,,,,1,0,,,,,4,2015,2014-15,div1,Potomac State,potomacstatecollegeofwvu,mattjefferylkbx,Matt Jeffery
+Mar 28,home,Shenandoah University JV,W,7-2,7,2,5.0,win,20150328_swmj,3,0,0,,,,0,,1,,,,,1,0,0,,,,,4,2015,2014-15,div1,Potomac State,potomacstatecollegeofwvu,mattjefferylkbx,Matt Jeffery
+Mar 29,home,Cecil,L,6-2,6,2,4.0,win,,,,,,,,,,,,,,,,,,,,,,,2015,2014-15,div1,Potomac State,potomacstatecollegeofwvu,mattjefferylkbx,Matt Jeffery
+Mar 29,home,Cecil,W,5-3,5,3,2.0,win,,,,,,,,,,,,,,,,,,,,,,,2015,2014-15,div1,Potomac State,potomacstatecollegeofwvu,mattjefferylkbx,Matt Jeffery
+Apr 2,home,Cecil,W,5-2,5,2,3.0,win,20150402_tyrh,3,1,2,,,,1,,,,,,,1,2,0,,,,,4,2015,2014-15,div1,Potomac State,potomacstatecollegeofwvu,mattjefferylkbx,Matt Jeffery
+Apr 2,home,Cecil,W,7-6,7,6,1.0,win,20150402_iej4,3,1,1,,,1,3,1,1,,,,,,4,1,,,,,4,2015,2014-15,div1,Potomac State,potomacstatecollegeofwvu,mattjefferylkbx,Matt Jeffery
+Apr 6,home,Garrett,L,5-4,5,4,1.0,win,20150406_8ope,4,2,2,2,,,0,,,,,,,,4,2,,,,,4,2015,2014-15,div1,Potomac State,potomacstatecollegeofwvu,mattjefferylkbx,Matt Jeffery
+Apr 11,home,Shenandoah University JV,W,12-0,12,0,12.0,win,,,,,,,,,,,,,,,,,,,,,,,2015,2014-15,div1,Potomac State,potomacstatecollegeofwvu,mattjefferylkbx,Matt Jeffery
+Apr 11,home,Shenandoah University JV,W,11-0,11,0,11.0,win,,,,,,,,,,,,,,,,,,,,,,,2015,2014-15,div1,Potomac State,potomacstatecollegeofwvu,mattjefferylkbx,Matt Jeffery
+Apr 12,home,CCBC Catonsville,,,,,11.0,win,,,,,,,,,,,,,,,,,,,,,,,2015,2014-15,div1,Potomac State,potomacstatecollegeofwvu,mattjefferylkbx,Matt Jeffery
+Apr 12,home,CCBC Catonsville,,,,,11.0,win,,,,,,,,,,,,,,,,,,,,,,,2015,2014-15,div1,Potomac State,potomacstatecollegeofwvu,mattjefferylkbx,Matt Jeffery
+Apr 12,home,CCBC Catonsville,,,,,11.0,win,,,,,,,,,,,,,,,,,,,,,,,2015,2014-15,div1,Potomac State,potomacstatecollegeofwvu,mattjefferylkbx,Matt Jeffery
+Apr 12,home,CCBC Catonsville,,,,,11.0,win,,,,,,,,,,,,,,,,,,,,,,,2015,2014-15,div1,Potomac State,potomacstatecollegeofwvu,mattjefferylkbx,Matt Jeffery
+Apr 15,home,Allegany Maryland,W,8-4,8,4,4.0,win,20150415_49xi,2,0,1,,,,1,3,1,,,,,,1,0,,,,,5,2015,2014-15,div1,Potomac State,potomacstatecollegeofwvu,mattjefferylkbx,Matt Jeffery
+Apr 16,home,Allegheny County-South,,,,,4.0,win,,,,,,,,,,,,,,,,,,,,,,,2015,2014-15,div1,Potomac State,potomacstatecollegeofwvu,mattjefferylkbx,Matt Jeffery
+Apr 16,home,Allegheny County-South,,,,,4.0,win,,,,,,,,,,,,,,,,,,,,,,,2015,2014-15,div1,Potomac State,potomacstatecollegeofwvu,mattjefferylkbx,Matt Jeffery
+Apr 16,home,Allegheny County-South,,,,,4.0,win,,,,,,,,,,,,,,,,,,,,,,,2015,2014-15,div1,Potomac State,potomacstatecollegeofwvu,mattjefferylkbx,Matt Jeffery
+Apr 16,home,Allegheny County-South,,,,,4.0,win,,,,,,,,,,,,,,,,,,,,,,,2015,2014-15,div1,Potomac State,potomacstatecollegeofwvu,mattjefferylkbx,Matt Jeffery
+Apr 18,home,Westmoreland,W,7-0,7,0,7.0,win,20150418_6x6r,3,1,1,1,,,3,1,,,,,,,2,1,,,,,4,2015,2014-15,div1,Potomac State,potomacstatecollegeofwvu,mattjefferylkbx,Matt Jeffery
+Apr 18,home,Westmoreland,W,12-2,12,2,10.0,win,20150418_9e0b,3,2,2,1,,,0,1,,,,,,,3,1,,,,,4,2015,2014-15,div1,Potomac State,potomacstatecollegeofwvu,mattjefferylkbx,Matt Jeffery
+Apr 19,home,Chesapeake,W,3-2,3,2,1.0,win,20150419_7feh,3,0,0,,,,0,1,,,,,,1,0,0,,3,1,3.00,5,2015,2014-15,div1,Potomac State,potomacstatecollegeofwvu,mattjefferylkbx,Matt Jeffery
+Apr 25,home,Monroe College,W,5-4,5,4,1.0,win,20150425_8tll,4,0,1,,,,1,1,1,,,,,,1,0,,,,,5,2015,2014-15,div1,Potomac State,potomacstatecollegeofwvu,mattjefferylkbx,Matt Jeffery
+Apr 25,home,Monroe College,L,10-3,10,3,7.0,win,20150425_tkyx,3,0,0,,,,0,,2,,,,,,0,0,,,,,3,2015,2014-15,div1,Potomac State,potomacstatecollegeofwvu,mattjefferylkbx,Matt Jeffery
+Apr 26,home,Harford,W,3-2,3,2,1.0,win,20150426_wb1b,3,0,1,,,,1,1,,,,,,,1,0,1,1,1,1.00,4,2015,2014-15,div1,Potomac State,potomacstatecollegeofwvu,mattjefferylkbx,Matt Jeffery
+Apr 26,home,Harford,W,11-8,11,8,3.0,win,20150426_b7bs,5,1,2,,,,1,,2,,,,,,2,0,,1,,,5,2015,2014-15,div1,Potomac State,potomacstatecollegeofwvu,mattjefferylkbx,Matt Jeffery
+Apr 29,home,Lakeland,W,8-1,8,1,7.0,win,20150429_8p7m,3,2,1,,,,0,1,2,1,,,,,1,0,,,,,4,2015,2014-15,div1,Potomac State,potomacstatecollegeofwvu,mattjefferylkbx,Matt Jeffery
+Apr 29,home,Lakeland,W,10-0,10,0,10.0,win,,,,,,,,,,,,,,,,,,,,,,,2015,2014-15,div1,Potomac State,potomacstatecollegeofwvu,mattjefferylkbx,Matt Jeffery
+May 2,home,CCBC Catonsville,W,7-1,7,1,6.0,win,20150502_1kph,2,0,0,,,,1,,1,1,,,1,,0,0,,,,,3,2015,2014-15,div1,Potomac State,potomacstatecollegeofwvu,mattjefferylkbx,Matt Jeffery
+May 2,home,CCBC Catonsville,W,10-6,10,6,4.0,win,20150502_fpjm,3,1,1,,,,1,,2,,,,1,,1,0,,,,,4,2015,2014-15,div1,Potomac State,potomacstatecollegeofwvu,mattjefferylkbx,Matt Jeffery
+May 3,home,Hagerstown,W,11-1,11,1,10.0,win,20150503_55rh,4,2,3,,,,1,,,,,,,,3,0,,,,,4,2015,2014-15,div1,Potomac State,potomacstatecollegeofwvu,mattjefferylkbx,Matt Jeffery
+May 8,home,Chesapeake,W,9-6,9,6,3.0,win,20150508_0l6k,5,1,1,,,,1,,,,,,,,1,0,,1,,,5,2015,2014-15,div1,Potomac State,potomacstatecollegeofwvu,mattjefferylkbx,Matt Jeffery
+May 9,home,Hagerstown,W,5-1,5,1,4.0,win,20150509_zabc,4,1,2,,,,1,,,,,,,,2,0,,,,,4,2015,2014-15,div1,Potomac State,potomacstatecollegeofwvu,mattjefferylkbx,Matt Jeffery
+May 10,home,Harford,W,11-0,11,0,11.0,win,20150510_uwdr,4,2,1,,,,0,1,1,,,,,,1,0,1,2,,,5,2015,2014-15,div1,Potomac State,potomacstatecollegeofwvu,mattjefferylkbx,Matt Jeffery
+May 15,home,USC Lancaster,W,5-1,5,1,4.0,win,20150515_wzuj,5,1,1,,,,0,,1,,,,,,1,0,,,,,5,2015,2014-15,div1,Potomac State,potomacstatecollegeofwvu,mattjefferylkbx,Matt Jeffery
+May 16,home,USC Sumter,L,8-2,8,2,6.0,win,20150516_hsu5,5,0,1,,,,0,,1,,,,,,1,0,,,,,5,2015,2014-15,div1,Potomac State,potomacstatecollegeofwvu,mattjefferylkbx,Matt Jeffery
+May 16,home,Monroe College,W,3-2,3,2,1.0,win,20150516_0v3q,3,0,0,,,,0,,,,,,,1,0,0,,,,,4,2015,2014-15,div1,Potomac State,potomacstatecollegeofwvu,mattjefferylkbx,Matt Jeffery
+May 17,home,USC Sumter,W,5-2,5,2,3.0,win,20150517_zk4x,4,0,1,,,,0,,1,,,,,,1,0,,,,,4,2015,2014-15,div1,Potomac State,potomacstatecollegeofwvu,mattjefferylkbx,Matt Jeffery
+May 17,home,USC Sumter,L,4-2,4,2,2.0,win,20150517_gqd2,4,0,1,,,,0,,,,,,,,1,0,,,,,4,2015,2014-15,div1,Potomac State,potomacstatecollegeofwvu,mattjefferylkbx,Matt Jeffery

@@ -1,16 +1,16 @@
 date,location,opponent,result,score,team_score,opp_score,game_score_diff,game_win_loss,game_id,TC,PO,A,E,FPCT,DP,SBA,RCS,RCS_PCT,PB,CI,season,njcaa_season,njcaa_division,team,team_id,player_id,player_name
-Jan 30,away,Seward County,W,4-3,4,3,1.0,win,,,,,,,,,,,,,2015,2014-15,div1,McCook,mccookcommunitycollege,jonathonreid49k4,Jonathon Reid
-Feb 10,away,Garden City,L,3-2,3,2,1.0,win,20150210_fsj9,0,0,0,0,4.0,3,2,2,4.50,2,1,2015,2014-15,div1,McCook,mccookcommunitycollege,jonathonreid49k4,Jonathon Reid
-Feb 13,away,Labette,L,6-4,6,4,2.0,win,,,,,,,,,,,,,2015,2014-15,div1,McCook,mccookcommunitycollege,jonathonreid49k4,Jonathon Reid
-Feb 13,away,Labette,L,9-5,9,5,4.0,win,,,,,,,,,,,,,2015,2014-15,div1,McCook,mccookcommunitycollege,jonathonreid49k4,Jonathon Reid
-Feb 14,away,Labette,L,7-6,7,6,1.0,win,20150214_2kmn,0,0,1,0,1.1,4,2,2,13.50,1,,2015,2014-15,div1,McCook,mccookcommunitycollege,jonathonreid49k4,Jonathon Reid
-Feb 18,away,Oklahoma Panhandle State University JV,,,,,1.0,win,,,,,,,,,,,,,2015,2014-15,div1,McCook,mccookcommunitycollege,jonathonreid49k4,Jonathon Reid
-Feb 20,away,Otero,L,4-3,4,3,1.0,win,,,,,,,,,,,,,2015,2014-15,div1,McCook,mccookcommunitycollege,jonathonreid49k4,Jonathon Reid
-Feb 20,away,Otero,L,6-3,6,3,3.0,win,20150220_j286,1,0,1,0,3.2,7,6,5,12.27,0,3,2015,2014-15,div1,McCook,mccookcommunitycollege,jonathonreid49k4,Jonathon Reid
+Jan 30,home,Seward County,W,4-3,4,3,1.0,win,,,,,,,,,,,,,2015,2014-15,div1,McCook,mccookcommunitycollege,jonathonreid49k4,Jonathon Reid
+Feb 10,home,Garden City,L,3-2,3,2,1.0,win,20150210_fsj9,0,0,0,0,4.0,3,2,2,4.50,2,1,2015,2014-15,div1,McCook,mccookcommunitycollege,jonathonreid49k4,Jonathon Reid
+Feb 13,home,Labette,L,6-4,6,4,2.0,win,,,,,,,,,,,,,2015,2014-15,div1,McCook,mccookcommunitycollege,jonathonreid49k4,Jonathon Reid
+Feb 13,home,Labette,L,9-5,9,5,4.0,win,,,,,,,,,,,,,2015,2014-15,div1,McCook,mccookcommunitycollege,jonathonreid49k4,Jonathon Reid
+Feb 14,home,Labette,L,7-6,7,6,1.0,win,20150214_2kmn,0,0,1,0,1.1,4,2,2,13.50,1,,2015,2014-15,div1,McCook,mccookcommunitycollege,jonathonreid49k4,Jonathon Reid
+Feb 18,home,Oklahoma Panhandle State University JV,,,,,1.0,win,,,,,,,,,,,,,2015,2014-15,div1,McCook,mccookcommunitycollege,jonathonreid49k4,Jonathon Reid
+Feb 20,home,Otero,L,4-3,4,3,1.0,win,,,,,,,,,,,,,2015,2014-15,div1,McCook,mccookcommunitycollege,jonathonreid49k4,Jonathon Reid
+Feb 20,home,Otero,L,6-3,6,3,3.0,win,20150220_j286,1,0,1,0,3.2,7,6,5,12.27,0,3,2015,2014-15,div1,McCook,mccookcommunitycollege,jonathonreid49k4,Jonathon Reid
 Feb 25,home,Hastings College JV,W,5-3,5,3,2.0,win,,,,,,,,,,,,,2015,2014-15,div1,McCook,mccookcommunitycollege,jonathonreid49k4,Jonathon Reid
 Feb 25,home,Hastings College JV,W,4-0,4,0,4.0,win,,,,,,,,,,,,,2015,2014-15,div1,McCook,mccookcommunitycollege,jonathonreid49k4,Jonathon Reid
-Feb 28,away,Trinidad State,,,,,4.0,win,,,,,,,,,,,,,2015,2014-15,div1,McCook,mccookcommunitycollege,jonathonreid49k4,Jonathon Reid
-Mar 1,away,Otero,,,,,4.0,win,,,,,,,,,,,,,2015,2014-15,div1,McCook,mccookcommunitycollege,jonathonreid49k4,Jonathon Reid
+Feb 28,home,Trinidad State,,,,,4.0,win,,,,,,,,,,,,,2015,2014-15,div1,McCook,mccookcommunitycollege,jonathonreid49k4,Jonathon Reid
+Mar 1,home,Otero,,,,,4.0,win,,,,,,,,,,,,,2015,2014-15,div1,McCook,mccookcommunitycollege,jonathonreid49k4,Jonathon Reid
 Mar 5,home,Colby,W,10-9,10,9,1.0,win,,,,,,,,,,,,,2015,2014-15,div1,McCook,mccookcommunitycollege,jonathonreid49k4,Jonathon Reid
 Mar 7,home,Lamar,W,5-2,5,2,3.0,win,,,,,,,,,,,,,2015,2014-15,div1,McCook,mccookcommunitycollege,jonathonreid49k4,Jonathon Reid
 Mar 7,home,Lamar,L,11-0,11,0,11.0,win,,,,,,,,,,,,,2015,2014-15,div1,McCook,mccookcommunitycollege,jonathonreid49k4,Jonathon Reid
@@ -21,40 +21,40 @@ Mar 14,home,Trinidad State,L,7-4,7,4,3.0,win,20150314_f4bd,1,0,0,0,4.0,4,3,3,6.7
 Mar 15,home,Trinidad State,L,9-5,9,5,4.0,win,,,,,,,,,,,,,2015,2014-15,div1,McCook,mccookcommunitycollege,jonathonreid49k4,Jonathon Reid
 Mar 15,home,Trinidad State,L,14-10,14,10,4.0,win,,,,,,,,,,,,,2015,2014-15,div1,McCook,mccookcommunitycollege,jonathonreid49k4,Jonathon Reid
 Mar 19,home,Colby,W,5-4,5,4,1.0,win,,,,,,,,,,,,,2015,2014-15,div1,McCook,mccookcommunitycollege,jonathonreid49k4,Jonathon Reid
-Mar 21,away,Lamar,L,6-0,6,0,6.0,win,,,,,,,,,,,,,2015,2014-15,div1,McCook,mccookcommunitycollege,jonathonreid49k4,Jonathon Reid
-Mar 21,away,Lamar,W,3-1,3,1,2.0,win,20150321_b4fo,1,0,0,0,4.1,7,1,1,2.08,1,5,2015,2014-15,div1,McCook,mccookcommunitycollege,jonathonreid49k4,Jonathon Reid
-Mar 22,away,Western Nebraska,W,8-4,8,4,4.0,win,,,,,,,,,,,,,2015,2014-15,div1,McCook,mccookcommunitycollege,jonathonreid49k4,Jonathon Reid
-Mar 26,away,Hastings College JV,W,5-1,5,1,4.0,win,,,,,,,,,,,,,2015,2014-15,div1,McCook,mccookcommunitycollege,jonathonreid49k4,Jonathon Reid
-Mar 26,away,Hastings College JV,W,4-1,4,1,3.0,win,,,,,,,,,,,,,2015,2014-15,div1,McCook,mccookcommunitycollege,jonathonreid49k4,Jonathon Reid
-Mar 28,away,Northeastern,L,4-2,4,2,2.0,win,,,,,,,,,,,,,2015,2014-15,div1,McCook,mccookcommunitycollege,jonathonreid49k4,Jonathon Reid
-Mar 28,away,Northeastern,L,1-0,1,0,1.0,win,20150328_i6yc,1,0,1,0,5.0,5,1,1,1.80,0,2,2015,2014-15,div1,McCook,mccookcommunitycollege,jonathonreid49k4,Jonathon Reid
-Mar 29,away,Northeastern,L,3-2,3,2,1.0,win,,,,,,,,,,,,,2015,2014-15,div1,McCook,mccookcommunitycollege,jonathonreid49k4,Jonathon Reid
-Mar 29,away,Northeastern,W,7-3,7,3,4.0,win,,,,,,,,,,,,,2015,2014-15,div1,McCook,mccookcommunitycollege,jonathonreid49k4,Jonathon Reid
+Mar 21,home,Lamar,L,6-0,6,0,6.0,win,,,,,,,,,,,,,2015,2014-15,div1,McCook,mccookcommunitycollege,jonathonreid49k4,Jonathon Reid
+Mar 21,home,Lamar,W,3-1,3,1,2.0,win,20150321_b4fo,1,0,0,0,4.1,7,1,1,2.08,1,5,2015,2014-15,div1,McCook,mccookcommunitycollege,jonathonreid49k4,Jonathon Reid
+Mar 22,home,Western Nebraska,W,8-4,8,4,4.0,win,,,,,,,,,,,,,2015,2014-15,div1,McCook,mccookcommunitycollege,jonathonreid49k4,Jonathon Reid
+Mar 26,home,Hastings College JV,W,5-1,5,1,4.0,win,,,,,,,,,,,,,2015,2014-15,div1,McCook,mccookcommunitycollege,jonathonreid49k4,Jonathon Reid
+Mar 26,home,Hastings College JV,W,4-1,4,1,3.0,win,,,,,,,,,,,,,2015,2014-15,div1,McCook,mccookcommunitycollege,jonathonreid49k4,Jonathon Reid
+Mar 28,home,Northeastern,L,4-2,4,2,2.0,win,,,,,,,,,,,,,2015,2014-15,div1,McCook,mccookcommunitycollege,jonathonreid49k4,Jonathon Reid
+Mar 28,home,Northeastern,L,1-0,1,0,1.0,win,20150328_i6yc,1,0,1,0,5.0,5,1,1,1.80,0,2,2015,2014-15,div1,McCook,mccookcommunitycollege,jonathonreid49k4,Jonathon Reid
+Mar 29,home,Northeastern,L,3-2,3,2,1.0,win,,,,,,,,,,,,,2015,2014-15,div1,McCook,mccookcommunitycollege,jonathonreid49k4,Jonathon Reid
+Mar 29,home,Northeastern,W,7-3,7,3,4.0,win,,,,,,,,,,,,,2015,2014-15,div1,McCook,mccookcommunitycollege,jonathonreid49k4,Jonathon Reid
 Mar 31,home,Southeast,W,6-2,6,2,4.0,win,,,,,,,,,,,,,2015,2014-15,div1,McCook,mccookcommunitycollege,jonathonreid49k4,Jonathon Reid
 Mar 31,home,Southeast,W,9-6,9,6,3.0,win,,,,,,,,,,,,,2015,2014-15,div1,McCook,mccookcommunitycollege,jonathonreid49k4,Jonathon Reid
 Apr 4,home,Western Nebraska,L,8-6,8,6,2.0,win,,,,,,,,,,,,,2015,2014-15,div1,McCook,mccookcommunitycollege,jonathonreid49k4,Jonathon Reid
 Apr 4,home,Western Nebraska,W,8-4,8,4,4.0,win,20150404_q6vl,1,1,0,0,5.1,8,4,3,5.06,1,6,2015,2014-15,div1,McCook,mccookcommunitycollege,jonathonreid49k4,Jonathon Reid
 Apr 5,home,Western Nebraska,W,6-1,6,1,5.0,win,,,,,,,,,,,,,2015,2014-15,div1,McCook,mccookcommunitycollege,jonathonreid49k4,Jonathon Reid
 Apr 5,home,Western Nebraska,L,10-8,10,8,2.0,win,,,,,,,,,,,,,2015,2014-15,div1,McCook,mccookcommunitycollege,jonathonreid49k4,Jonathon Reid
-Apr 7,away,Colby,L,7-2,7,2,5.0,win,,,,,,,,,,,,,2015,2014-15,div1,McCook,mccookcommunitycollege,jonathonreid49k4,Jonathon Reid
+Apr 7,home,Colby,L,7-2,7,2,5.0,win,,,,,,,,,,,,,2015,2014-15,div1,McCook,mccookcommunitycollege,jonathonreid49k4,Jonathon Reid
 Apr 11,home,Otero,L,6-1,6,1,5.0,win,,,,,,,,,,,,,2015,2014-15,div1,McCook,mccookcommunitycollege,jonathonreid49k4,Jonathon Reid
 Apr 11,home,Otero,W,3-2,3,2,1.0,win,20150411_zpxa,1,1,0,0,4.1,7,1,1,2.08,2,3,2015,2014-15,div1,McCook,mccookcommunitycollege,jonathonreid49k4,Jonathon Reid
 Apr 12,home,Otero,W,6-5,6,5,1.0,win,,,,,,,,,,,,,2015,2014-15,div1,McCook,mccookcommunitycollege,jonathonreid49k4,Jonathon Reid
 Apr 12,home,Otero,L,10-3,10,3,7.0,win,,,,,,,,,,,,,2015,2014-15,div1,McCook,mccookcommunitycollege,jonathonreid49k4,Jonathon Reid
-Apr 17,away,Miles,W,5-1,5,1,4.0,win,20150417_3mxo,1,1,0,0,5.1,1,1,0,0.00,4,10,2015,2014-15,div1,McCook,mccookcommunitycollege,jonathonreid49k4,Jonathon Reid
-Apr 17,away,Miles,W,9-0,9,0,9.0,win,,,,,,,,,,,,,2015,2014-15,div1,McCook,mccookcommunitycollege,jonathonreid49k4,Jonathon Reid
-Apr 18,away,Miles,L,1-0,1,0,1.0,win,,,,,,,,,,,,,2015,2014-15,div1,McCook,mccookcommunitycollege,jonathonreid49k4,Jonathon Reid
-Apr 18,away,Miles,L,7-6,7,6,1.0,win,,,,,,,,,,,,,2015,2014-15,div1,McCook,mccookcommunitycollege,jonathonreid49k4,Jonathon Reid
-Apr 19,away,Miles,L,9-8,9,8,1.0,win,,,,,,,,,,,,,2015,2014-15,div1,McCook,mccookcommunitycollege,jonathonreid49k4,Jonathon Reid
-Apr 19,away,Miles,W,9-3,9,3,6.0,win,,,,,,,,,,,,,2015,2014-15,div1,McCook,mccookcommunitycollege,jonathonreid49k4,Jonathon Reid
+Apr 17,home,Miles,W,5-1,5,1,4.0,win,20150417_3mxo,1,1,0,0,5.1,1,1,0,0.00,4,10,2015,2014-15,div1,McCook,mccookcommunitycollege,jonathonreid49k4,Jonathon Reid
+Apr 17,home,Miles,W,9-0,9,0,9.0,win,,,,,,,,,,,,,2015,2014-15,div1,McCook,mccookcommunitycollege,jonathonreid49k4,Jonathon Reid
+Apr 18,home,Miles,L,1-0,1,0,1.0,win,,,,,,,,,,,,,2015,2014-15,div1,McCook,mccookcommunitycollege,jonathonreid49k4,Jonathon Reid
+Apr 18,home,Miles,L,7-6,7,6,1.0,win,,,,,,,,,,,,,2015,2014-15,div1,McCook,mccookcommunitycollege,jonathonreid49k4,Jonathon Reid
+Apr 19,home,Miles,L,9-8,9,8,1.0,win,,,,,,,,,,,,,2015,2014-15,div1,McCook,mccookcommunitycollege,jonathonreid49k4,Jonathon Reid
+Apr 19,home,Miles,W,9-3,9,3,6.0,win,,,,,,,,,,,,,2015,2014-15,div1,McCook,mccookcommunitycollege,jonathonreid49k4,Jonathon Reid
 Apr 22,home,Garden City,W,5-3,5,3,2.0,win,,,,,,,,,,,,,2015,2014-15,div1,McCook,mccookcommunitycollege,jonathonreid49k4,Jonathon Reid
 Apr 23,home,Northeastern,L,6-4,6,4,2.0,win,,,,,,,,,,,,,2015,2014-15,div1,McCook,mccookcommunitycollege,jonathonreid49k4,Jonathon Reid
 Apr 23,home,Northeastern,L,10-1,10,1,9.0,win,20150423_1o0r,1,0,1,0,4.2,8,8,7,13.50,2,7,2015,2014-15,div1,McCook,mccookcommunitycollege,jonathonreid49k4,Jonathon Reid
 Apr 25,home,York College JV,W,3-0,3,0,3.0,win,,,,,,,,,,,,,2015,2014-15,div1,McCook,mccookcommunitycollege,jonathonreid49k4,Jonathon Reid
 Apr 25,home,York College JV,W,10-2,10,2,8.0,win,,,,,,,,,,,,,2015,2014-15,div1,McCook,mccookcommunitycollege,jonathonreid49k4,Jonathon Reid
-Apr 28,away,Western Nebraska,L,6-3,6,3,3.0,win,,,,,,,,,,,,,2015,2014-15,div1,McCook,mccookcommunitycollege,jonathonreid49k4,Jonathon Reid
-Apr 29,away,Colby,L,12-6,12,6,6.0,win,,,,,,,,,,,,,2015,2014-15,div1,McCook,mccookcommunitycollege,jonathonreid49k4,Jonathon Reid
-May 1,away,Trinidad State,W,4-2,4,2,2.0,win,,,,,,,,,,,,,2015,2014-15,div1,McCook,mccookcommunitycollege,jonathonreid49k4,Jonathon Reid
-May 1,away,Trinidad State,L,10-0,10,0,10.0,win,20150501_256h,1,0,1,0,1.1,6,7,6,40.50,2,1,2015,2014-15,div1,McCook,mccookcommunitycollege,jonathonreid49k4,Jonathon Reid
-May 2,home,vs. Otero,W,3-2,3,2,1.0,win,,,,,,,,,,,,,2015,2014-15,div1,McCook,mccookcommunitycollege,jonathonreid49k4,Jonathon Reid
-May 2,home,vs. Otero,L,4-3,4,3,1.0,win,,,,,,,,,,,,,2015,2014-15,div1,McCook,mccookcommunitycollege,jonathonreid49k4,Jonathon Reid
+Apr 28,home,Western Nebraska,L,6-3,6,3,3.0,win,,,,,,,,,,,,,2015,2014-15,div1,McCook,mccookcommunitycollege,jonathonreid49k4,Jonathon Reid
+Apr 29,home,Colby,L,12-6,12,6,6.0,win,,,,,,,,,,,,,2015,2014-15,div1,McCook,mccookcommunitycollege,jonathonreid49k4,Jonathon Reid
+May 1,home,Trinidad State,W,4-2,4,2,2.0,win,,,,,,,,,,,,,2015,2014-15,div1,McCook,mccookcommunitycollege,jonathonreid49k4,Jonathon Reid
+May 1,home,Trinidad State,L,10-0,10,0,10.0,win,20150501_256h,1,0,1,0,1.1,6,7,6,40.50,2,1,2015,2014-15,div1,McCook,mccookcommunitycollege,jonathonreid49k4,Jonathon Reid
+May 2,home,Otero,W,3-2,3,2,1.0,win,,,,,,,,,,,,,2015,2014-15,div1,McCook,mccookcommunitycollege,jonathonreid49k4,Jonathon Reid
+May 2,home,Otero,L,4-3,4,3,1.0,win,,,,,,,,,,,,,2015,2014-15,div1,McCook,mccookcommunitycollege,jonathonreid49k4,Jonathon Reid
