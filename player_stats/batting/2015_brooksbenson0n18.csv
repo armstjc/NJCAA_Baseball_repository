@@ -1,26 +1,57 @@
-date,location,opponent,result,score,team_score,opp_score,game_score_diff_x,game_win_loss_x,game_id_x,AB,R,H,2B,3B,HR,RBI,BB,K,SB,CS,game_score_diff_y,game_win_loss_y,game_id_y,HBP,SF,SH,TB,XBH,HDP,GO,FO,GO/FO,PA,season,njcaa_season,njcaa_division,team,team_id,player_id,player_name
-Feb 6,home,Indian Hills,W,11-8,11,8,3.0,win,20150206_58l5,3,1,1,,1,,1,,,,,3.0,win,20150206_58l5,,,,3,1,,,,,3,2015,2014-15,div1,Garden City,gardencitycommunitycollege,brooksbenson0n18,Brooks Benson
-Feb 6,home,Indian Hills,W,13-3,13,3,10.0,win,20150206_bloj,4,2,2,,,2,6,,2,,1,10.0,win,20150206_bloj,,,,8,2,,,,,4,2015,2014-15,div1,Garden City,gardencitycommunitycollege,brooksbenson0n18,Brooks Benson
-Feb 7,home,Indian Hills,L,7-3,7,3,4.0,win,20150207_mnog,3,0,2,,1,,1,,1,,,4.0,win,20150207_mnog,,,,4,1,,,,,3,2015,2014-15,div1,Garden City,gardencitycommunitycollege,brooksbenson0n18,Brooks Benson
-Feb 7,home,Indian Hills,W,7-6,7,6,1.0,win,20150207_kvyc,3,1,0,,,,0,2,3,,,1.0,win,20150207_kvyc,,,,0,0,,,,,5,2015,2014-15,div1,Garden City,gardencitycommunitycollege,brooksbenson0n18,Brooks Benson
-Feb 10,home,McCook,W,3-2,3,2,1.0,win,20150210_fsj9,4,0,0,,,,0,,,,,1.0,win,20150210_fsj9,,,,0,0,,,,,4,2015,2014-15,div1,Garden City,gardencitycommunitycollege,brooksbenson0n18,Brooks Benson
-Feb 18,home,Kansas Wesleyan JV,W,7-0,7,0,7.0,win,20150218_4zt5,3,0,1,1,,,0,1,,,,7.0,win,20150218_4zt5,,,,2,1,,,,,4,2015,2014-15,div1,Garden City,gardencitycommunitycollege,brooksbenson0n18,Brooks Benson
-Feb 18,home,Kansas Wesleyan JV,W,16-0,16,0,16.0,win,,,,,,,,,,,,,16.0,win,,,,,,,,,,,,2015,2014-15,div1,Garden City,gardencitycommunitycollege,brooksbenson0n18,Brooks Benson
-Mar 6,home,Seward County,W,8-2,8,2,6.0,win,20150306_m2fv,3,0,1,,,,1,,1,,,6.0,win,20150306_m2fv,,,,1,0,,,,,3,2015,2014-15,div1,Garden City,gardencitycommunitycollege,brooksbenson0n18,Brooks Benson
-Mar 6,home,Seward County,W,4-3,4,3,1.0,win,20150306_lexc,4,1,2,,,,1,,1,,,1.0,win,20150306_lexc,,,,2,0,,,,,4,2015,2014-15,div1,Garden City,gardencitycommunitycollege,brooksbenson0n18,Brooks Benson
-Mar 7,home,Seward County,L,5-1,5,1,4.0,win,20150307_jd90,2,1,0,,,,0,1,,,,4.0,win,20150307_jd90,,,,0,0,,,,,3,2015,2014-15,div1,Garden City,gardencitycommunitycollege,brooksbenson0n18,Brooks Benson
-Mar 7,home,Seward County,W,9-1,9,1,8.0,win,20150307_6k62,5,0,2,,1,,2,,3,,,8.0,win,20150307_6k62,,,,4,1,,,,,5,2015,2014-15,div1,Garden City,gardencitycommunitycollege,brooksbenson0n18,Brooks Benson
-Mar 21,home,Cloud County,W,8-3,8,3,5.0,win,20150321_wb0r,4,2,2,,,2,2,,2,,,5.0,win,20150321_wb0r,,,,8,2,,,,,4,2015,2014-15,div1,Garden City,gardencitycommunitycollege,brooksbenson0n18,Brooks Benson
-Mar 21,home,Cloud County,W,6-5,6,5,1.0,win,20150321_o9p4,4,0,0,,,,0,,2,,,1.0,win,20150321_o9p4,,,,0,0,,,,,4,2015,2014-15,div1,Garden City,gardencitycommunitycollege,brooksbenson0n18,Brooks Benson
-Mar 22,home,Cloud County,L,8-5,8,5,3.0,win,20150322_spoq,3,0,1,,,,0,,2,,,3.0,win,20150322_spoq,,,,1,0,,,,,3,2015,2014-15,div1,Garden City,gardencitycommunitycollege,brooksbenson0n18,Brooks Benson
-Mar 22,home,Cloud County,W,16-6,16,6,10.0,win,20150322_2dwk,3,2,0,,,,1,1,,,,10.0,win,20150322_2dwk,1,,,0,0,,,,,5,2015,2014-15,div1,Garden City,gardencitycommunitycollege,brooksbenson0n18,Brooks Benson
-Mar 25,home,Frank Phillips,L,6-5,6,5,1.0,win,20150325_vwcw,5,1,0,,,,0,,1,,,1.0,win,20150325_vwcw,,,,0,0,,,,,5,2015,2014-15,div1,Garden City,gardencitycommunitycollege,brooksbenson0n18,Brooks Benson
-Apr 1,home,Lamar,L,18-4,18,4,14.0,win,20150401_un0e,3,0,0,,,,0,,1,,,14.0,win,20150401_un0e,,,,0,0,,,,,3,2015,2014-15,div1,Garden City,gardencitycommunitycollege,brooksbenson0n18,Brooks Benson
-Apr 3,home,Barton,W,12-2,12,2,10.0,win,20150403_m08a,4,1,2,1,,,3,,2,1,,10.0,win,20150403_m08a,,,,3,1,,,,,4,2015,2014-15,div1,Garden City,gardencitycommunitycollege,brooksbenson0n18,Brooks Benson
-Apr 3,home,Barton,L,6-3,6,3,3.0,win,20150403_davt,4,0,1,,,,0,,1,,,3.0,win,20150403_davt,,,,1,0,,,,,4,2015,2014-15,div1,Garden City,gardencitycommunitycollege,brooksbenson0n18,Brooks Benson
-Apr 4,home,Barton,W,10-4,10,4,6.0,win,20150404_7k5v,3,1,1,,,,1,,,1,,6.0,win,20150404_7k5v,1,,,1,0,,,,,4,2015,2014-15,div1,Garden City,gardencitycommunitycollege,brooksbenson0n18,Brooks Benson
-Apr 4,home,Barton,L,14-9,14,9,5.0,win,20150404_bw3g,5,0,2,1,,,1,,,,,5.0,win,20150404_bw3g,,,,3,1,,,,,5,2015,2014-15,div1,Garden City,gardencitycommunitycollege,brooksbenson0n18,Brooks Benson
-Apr 25,home,Hutchinson,L,10-4,10,4,6.0,win,20150425_ycva,3,1,2,,,,1,1,1,1,,6.0,win,20150425_ycva,,,,2,0,,,,,4,2015,2014-15,div1,Garden City,gardencitycommunitycollege,brooksbenson0n18,Brooks Benson
-Apr 25,home,Hutchinson,L,8-4,8,4,4.0,win,20150425_39q5,4,0,1,1,,,0,,1,,,4.0,win,20150425_39q5,,,,2,1,,,,,4,2015,2014-15,div1,Garden City,gardencitycommunitycollege,brooksbenson0n18,Brooks Benson
-Apr 26,home,Hutchinson,W,10-9,10,9,1.0,win,20150426_s0de,4,1,1,,,,1,,,,,1.0,win,20150426_s0de,,,,1,0,,,,,4,2015,2014-15,div1,Garden City,gardencitycommunitycollege,brooksbenson0n18,Brooks Benson
-Apr 26,home,Hutchinson,W,12-9,12,9,3.0,win,20150426_mx5c,4,2,3,,,,1,,1,,,3.0,win,20150426_mx5c,1,,,3,0,,,,,5,2015,2014-15,div1,Garden City,gardencitycommunitycollege,brooksbenson0n18,Brooks Benson
+date,location,opponent,result,score,team_score,opp_score,game_score_diff,game_win_loss,game_id,AB,R,H,2B,3B,HR,RBI,BB,K,SB,CS,HBP,SF,SH,TB,XBH,HDP,GO,FO,GO/FO,PA,season,njcaa_season,njcaa_division,team,team_id,player_id,player_name
+Feb 6,home,Indian Hills,W,11-8,11,8,3.0,win,20150206_58l5,3,1,1,,1,,1,,,,,,,,3,1,,,,,3,2015,2014-15,div1,Garden City,gardencitycommunitycollege,brooksbenson0n18,Brooks Benson
+Feb 6,home,Indian Hills,W,13-3,13,3,10.0,win,20150206_bloj,4,2,2,,,2,6,,2,,1,,,,8,2,,,,,4,2015,2014-15,div1,Garden City,gardencitycommunitycollege,brooksbenson0n18,Brooks Benson
+Feb 7,home,Indian Hills,L,7-3,7,3,4.0,win,20150207_mnog,3,0,2,,1,,1,,1,,,,,,4,1,,,,,3,2015,2014-15,div1,Garden City,gardencitycommunitycollege,brooksbenson0n18,Brooks Benson
+Feb 7,home,Indian Hills,W,7-6,7,6,1.0,win,20150207_kvyc,3,1,0,,,,0,2,3,,,,,,0,0,,,,,5,2015,2014-15,div1,Garden City,gardencitycommunitycollege,brooksbenson0n18,Brooks Benson
+Feb 10,home,McCook,W,3-2,3,2,1.0,win,20150210_fsj9,4,0,0,,,,0,,,,,,,,0,0,,,,,4,2015,2014-15,div1,Garden City,gardencitycommunitycollege,brooksbenson0n18,Brooks Benson
+Feb 18,home,Kansas Wesleyan JV,W,7-0,7,0,7.0,win,20150218_4zt5,3,0,1,1,,,0,1,,,,,,,2,1,,,,,4,2015,2014-15,div1,Garden City,gardencitycommunitycollege,brooksbenson0n18,Brooks Benson
+Feb 18,home,Kansas Wesleyan JV,W,16-0,16,0,16.0,win,,,,,,,,,,,,,,,,,,,,,,,2015,2014-15,div1,Garden City,gardencitycommunitycollege,brooksbenson0n18,Brooks Benson
+Feb 20,home,New Mexico Military,W,6-0,6,0,6.0,win,20150220_zls3,5,1,1,,1,,1,,,,,,,,3,1,,,,,5,2015,2014-15,div1,Garden City,gardencitycommunitycollege,brooksbenson0n18,Brooks Benson
+Feb 21,home,New Mexico Military,L,14-4,14,4,10.0,win,20150221_5lwd,2,0,0,,,,0,,,,,,,,0,0,,,,,2,2015,2014-15,div1,Garden City,gardencitycommunitycollege,brooksbenson0n18,Brooks Benson
+Feb 21,home,New Mexico Military,W,6-5,6,5,1.0,win,20150221_uc9u,3,0,0,,,,1,,2,,,,,,0,0,,,,,3,2015,2014-15,div1,Garden City,gardencitycommunitycollege,brooksbenson0n18,Brooks Benson
+Feb 25,home,Pratt,W,18-7,18,7,11.0,win,20150225_knym,4,4,4,,,2,5,,,,,1,,,10,2,,,,,5,2015,2014-15,div1,Garden City,gardencitycommunitycollege,brooksbenson0n18,Brooks Benson
+Feb 25,home,Pratt,W,11-8,11,8,3.0,win,20150225_3pn8,5,0,0,,,,0,,5,,,,,,0,0,,,,,5,2015,2014-15,div1,Garden City,gardencitycommunitycollege,brooksbenson0n18,Brooks Benson
+Mar 6,home,Seward County,W,8-2,8,2,6.0,win,20150306_m2fv,3,0,1,,,,1,,1,,,,,,1,0,,,,,3,2015,2014-15,div1,Garden City,gardencitycommunitycollege,brooksbenson0n18,Brooks Benson
+Mar 6,home,Seward County,W,4-3,4,3,1.0,win,20150306_lexc,4,1,2,,,,1,,1,,,,,,2,0,,,,,4,2015,2014-15,div1,Garden City,gardencitycommunitycollege,brooksbenson0n18,Brooks Benson
+Mar 7,home,Seward County,L,5-1,5,1,4.0,win,20150307_jd90,2,1,0,,,,0,1,,,,,,,0,0,,,,,3,2015,2014-15,div1,Garden City,gardencitycommunitycollege,brooksbenson0n18,Brooks Benson
+Mar 7,home,Seward County,W,9-1,9,1,8.0,win,20150307_6k62,5,0,2,,1,,2,,3,,,,,,4,1,,,,,5,2015,2014-15,div1,Garden City,gardencitycommunitycollege,brooksbenson0n18,Brooks Benson
+Mar 10,home,Pratt,L,6-2,6,2,4.0,win,20150310_gs8u,3,0,0,,,,0,,1,,,,,,0,0,,,,,3,2015,2014-15,div1,Garden City,gardencitycommunitycollege,brooksbenson0n18,Brooks Benson
+Mar 10,home,Pratt,L,17-13,17,13,4.0,win,20150310_h9r1,6,1,2,1,,,1,,2,,,,,,3,1,,,,,6,2015,2014-15,div1,Garden City,gardencitycommunitycollege,brooksbenson0n18,Brooks Benson
+Mar 11,home,Otero,W,4-0,4,0,4.0,win,20150311_xzls,4,1,1,,,,0,,1,,,,,,1,0,,,,,4,2015,2014-15,div1,Garden City,gardencitycommunitycollege,brooksbenson0n18,Brooks Benson
+Mar 14,home,Colby,W,6-2,6,2,4.0,win,20150314_863f,3,1,1,,,,0,,1,,,,,,1,0,,,,,3,2015,2014-15,div1,Garden City,gardencitycommunitycollege,brooksbenson0n18,Brooks Benson
+Mar 14,home,Colby,W,4-2,4,2,2.0,win,20150314_lpka,4,1,1,,,,0,,2,1,,,,,1,0,,,,,4,2015,2014-15,div1,Garden City,gardencitycommunitycollege,brooksbenson0n18,Brooks Benson
+Mar 15,home,Colby,W,8-7,8,7,1.0,win,20150315_40cv,4,0,1,1,,,0,,1,,,,,,2,1,,,,,4,2015,2014-15,div1,Garden City,gardencitycommunitycollege,brooksbenson0n18,Brooks Benson
+Mar 15,home,Colby,L,23-3,23,3,20.0,win,20150315_37w8,1,0,0,,,,0,,1,,,,,,0,0,,,,,1,2015,2014-15,div1,Garden City,gardencitycommunitycollege,brooksbenson0n18,Brooks Benson
+Mar 17,home,Iowa Western,L,13-3,13,3,10.0,win,20150317_5l1h,2,1,1,,,,0,1,,1,,,,,1,0,,,,,3,2015,2014-15,div1,Garden City,gardencitycommunitycollege,brooksbenson0n18,Brooks Benson
+Mar 18,home,Iowa Western,L,4-3,4,3,1.0,win,20150318_ej5s,4,0,0,,,,0,,3,,,,,,0,0,,,,,4,2015,2014-15,div1,Garden City,gardencitycommunitycollege,brooksbenson0n18,Brooks Benson
+Mar 21,home,Cloud County,W,8-3,8,3,5.0,win,20150321_wb0r,4,2,2,,,2,2,,2,,,,,,8,2,,,,,4,2015,2014-15,div1,Garden City,gardencitycommunitycollege,brooksbenson0n18,Brooks Benson
+Mar 21,home,Cloud County,W,6-5,6,5,1.0,win,20150321_o9p4,4,0,0,,,,0,,2,,,,,,0,0,,,,,4,2015,2014-15,div1,Garden City,gardencitycommunitycollege,brooksbenson0n18,Brooks Benson
+Mar 22,home,Cloud County,L,8-5,8,5,3.0,win,20150322_spoq,3,0,1,,,,0,,2,,,,,,1,0,,,,,3,2015,2014-15,div1,Garden City,gardencitycommunitycollege,brooksbenson0n18,Brooks Benson
+Mar 22,home,Cloud County,W,16-6,16,6,10.0,win,20150322_2dwk,3,2,0,,,,1,1,,,,1,,,0,0,,,,,5,2015,2014-15,div1,Garden City,gardencitycommunitycollege,brooksbenson0n18,Brooks Benson
+Mar 24,home,Frank Phillips,W,7-4,7,4,3.0,win,20150324_ksnj,0,0,0,,,,0,,,,,,,,0,0,,,,,0,2015,2014-15,div1,Garden City,gardencitycommunitycollege,brooksbenson0n18,Brooks Benson
+Mar 25,home,Frank Phillips,L,6-5,6,5,1.0,win,20150325_vwcw,5,1,0,,,,0,,1,,,,,,0,0,,,,,5,2015,2014-15,div1,Garden City,gardencitycommunitycollege,brooksbenson0n18,Brooks Benson
+Mar 28,home,Butler,L,4-2,4,2,2.0,win,20150328_xamh,3,0,0,,,,0,,1,,,,,,0,0,,2,,,3,2015,2014-15,div1,Garden City,gardencitycommunitycollege,brooksbenson0n18,Brooks Benson
+Mar 28,home,Butler,L,13-3,13,3,10.0,win,20150328_dcjx,3,0,1,,,,1,,1,,,,,,1,0,,1,,,3,2015,2014-15,div1,Garden City,gardencitycommunitycollege,brooksbenson0n18,Brooks Benson
+Mar 29,home,Butler,L,13-8,13,8,5.0,win,,,,,,,,,,,,,,,,,,,,,,,2015,2014-15,div1,Garden City,gardencitycommunitycollege,brooksbenson0n18,Brooks Benson
+Mar 29,home,Butler,,,,,5.0,win,,,,,,,,,,,,,,,,,,,,,,,2015,2014-15,div1,Garden City,gardencitycommunitycollege,brooksbenson0n18,Brooks Benson
+Apr 1,home,Lamar,L,18-4,18,4,14.0,win,20150401_un0e,3,0,0,,,,0,,1,,,,,,0,0,,,,,3,2015,2014-15,div1,Garden City,gardencitycommunitycollege,brooksbenson0n18,Brooks Benson
+Apr 3,home,Barton,W,12-2,12,2,10.0,win,20150403_m08a,4,1,2,1,,,3,,2,1,,,,,3,1,,,,,4,2015,2014-15,div1,Garden City,gardencitycommunitycollege,brooksbenson0n18,Brooks Benson
+Apr 3,home,Barton,L,6-3,6,3,3.0,win,20150403_davt,4,0,1,,,,0,,1,,,,,,1,0,,,,,4,2015,2014-15,div1,Garden City,gardencitycommunitycollege,brooksbenson0n18,Brooks Benson
+Apr 4,home,Barton,W,10-4,10,4,6.0,win,20150404_7k5v,3,1,1,,,,1,,,1,,1,,,1,0,,,,,4,2015,2014-15,div1,Garden City,gardencitycommunitycollege,brooksbenson0n18,Brooks Benson
+Apr 4,home,Barton,L,14-9,14,9,5.0,win,20150404_bw3g,5,0,2,1,,,1,,,,,,,,3,1,,,,,5,2015,2014-15,div1,Garden City,gardencitycommunitycollege,brooksbenson0n18,Brooks Benson
+Apr 8,home,Lamar,L,4-3,4,3,1.0,win,20150408_avat,4,0,1,,,,0,,1,,,,,,1,0,,,,,4,2015,2014-15,div1,Garden City,gardencitycommunitycollege,brooksbenson0n18,Brooks Benson
+Apr 11,home,Dodge City,L,11-0,11,0,11.0,win,,,,,,,,,,,,,,,,,,,,,,,2015,2014-15,div1,Garden City,gardencitycommunitycollege,brooksbenson0n18,Brooks Benson
+Apr 11,home,Dodge City,L,14-10,14,10,4.0,win,20150411_hte6,5,2,3,1,,,1,,,,,,,,4,1,,1,1,1.00,5,2015,2014-15,div1,Garden City,gardencitycommunitycollege,brooksbenson0n18,Brooks Benson
+Apr 12,home,Dodge City,L,9-8,9,8,1.0,win,20150412_gnns,4,0,1,,,,0,,1,1,,,,,1,0,,,2,,4,2015,2014-15,div1,Garden City,gardencitycommunitycollege,brooksbenson0n18,Brooks Benson
+Apr 12,home,Dodge City,W,4-2,4,2,2.0,win,20150412_wxbr,5,1,1,,,,0,,2,,,,,,1,0,,,1,,5,2015,2014-15,div1,Garden City,gardencitycommunitycollege,brooksbenson0n18,Brooks Benson
+Apr 14,home,Bethany JV,W,12-1,12,1,11.0,win,20150414_ha17,3,0,2,,,,2,,1,,,,,,2,0,,,,,3,2015,2014-15,div1,Garden City,gardencitycommunitycollege,brooksbenson0n18,Brooks Benson
+Apr 14,home,Bethany JV,W,14-2,14,2,12.0,win,20150414_fu9m,3,3,2,,1,,0,,,,,1,,,4,1,,,,,4,2015,2014-15,div1,Garden City,gardencitycommunitycollege,brooksbenson0n18,Brooks Benson
+Apr 17,home,MCC-Longview,L,4-1,4,1,3.0,win,20150417_ah6r,3,0,1,,,,0,,,1,,,,,1,0,,,,,3,2015,2014-15,div1,Garden City,gardencitycommunitycollege,brooksbenson0n18,Brooks Benson
+Apr 17,home,MCC-Longview,L,6-5,6,5,1.0,win,20150417_9mt6,3,0,0,,,,0,,1,,,,,,0,0,,,,,3,2015,2014-15,div1,Garden City,gardencitycommunitycollege,brooksbenson0n18,Brooks Benson
+Apr 22,home,McCook,L,5-3,5,3,2.0,win,20150422_hdrl,4,0,3,,,,0,,,,,,,,3,0,,,,,4,2015,2014-15,div1,Garden City,gardencitycommunitycollege,brooksbenson0n18,Brooks Benson
+Apr 25,home,Hutchinson,L,10-4,10,4,6.0,win,20150425_ycva,3,1,2,,,,1,1,1,1,,,,,2,0,,,,,4,2015,2014-15,div1,Garden City,gardencitycommunitycollege,brooksbenson0n18,Brooks Benson
+Apr 25,home,Hutchinson,L,8-4,8,4,4.0,win,20150425_39q5,4,0,1,1,,,0,,1,,,,,,2,1,,,,,4,2015,2014-15,div1,Garden City,gardencitycommunitycollege,brooksbenson0n18,Brooks Benson
+Apr 26,home,Hutchinson,W,10-9,10,9,1.0,win,20150426_s0de,4,1,1,,,,1,,,,,,,,1,0,,,,,4,2015,2014-15,div1,Garden City,gardencitycommunitycollege,brooksbenson0n18,Brooks Benson
+Apr 26,home,Hutchinson,W,12-9,12,9,3.0,win,20150426_mx5c,4,2,3,,,,1,,1,,,1,,,3,0,,,,,5,2015,2014-15,div1,Garden City,gardencitycommunitycollege,brooksbenson0n18,Brooks Benson
+May 2,home,Coffeyville,L,13-3,13,3,10.0,win,20150502_o0rg,4,0,1,,,,0,,3,,,,,,1,0,,,,,4,2015,2014-15,div1,Garden City,gardencitycommunitycollege,brooksbenson0n18,Brooks Benson
+May 2,home,Coffeyville,L,12-7,12,7,5.0,win,20150502_4nea,2,0,1,,,,0,,1,,,,,,1,0,,,,,2,2015,2014-15,div1,Garden City,gardencitycommunitycollege,brooksbenson0n18,Brooks Benson
