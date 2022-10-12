@@ -23,7 +23,7 @@ def getNjcaaD1BattingGamelogs(webdriverPath="./chromedriver_mac64_m1"):
 	player_count = len(player_urls)
 	driver = webdriver.Chrome(
 		executable_path=webdriverPath)
-	count = 15300
+	count = 16800
 	for i in tqdm(range(count,player_count)):
 		count += 1
 		print(f'{count}/{player_count}')
@@ -487,7 +487,7 @@ def getNjcaaD1BattingGamelogs(webdriverPath="./chromedriver_mac64_m1"):
 		gamelog_fielding_df['player_name'] = game_player_name
 
 		gamelog_fielding_df.to_csv(f'player_stats/fielding/{game_season}_{game_player_id}.csv',index=False)
-		time.sleep(5)
+		time.sleep(4)
 
 def main():
 	getNjcaaD1BattingGamelogs()
