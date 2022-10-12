@@ -1,28 +1,56 @@
-date,location,opponent,result,score,team_score,opp_score,game_score_diff_x,game_win_loss_x,game_id_x,AB,R,H,2B,3B,HR,RBI,BB,K,SB,CS,game_score_diff_y,game_win_loss_y,game_id_y,HBP,SF,SH,TB,XBH,HDP,GO,FO,GO/FO,PA,season,njcaa_season,njcaa_division,team,team_id,player_id,player_name
-Jan 30,home,Dallas College - Eastfield,L,14-10,14,10,4,win,20160130_frsn,4,1,0,,,,0,,1,,,4.0,win,20160130_frsn,,,,0,0,,,,,4,2016,2015-16,div1,Bossier Parish,bossierparishcommunitycollege,colepippinw62j,Cole Pippin
-Jan 30,home,Dallas College - Eastfield,L,6-3,6,3,3,win,20160130_uc9q,3,0,1,,,,0,,2,,,3.0,win,20160130_uc9q,,,,1,0,,,,,3,2016,2015-16,div1,Bossier Parish,bossierparishcommunitycollege,colepippinw62j,Cole Pippin
-Feb 17,home,Hinds,W,3-2,3,2,1,win,20160217_ayjg,3,0,0,,,,0,,1,,,1.0,win,20160217_ayjg,,,,0,0,,,,,3,2016,2015-16,div1,Bossier Parish,bossierparishcommunitycollege,colepippinw62j,Cole Pippin
-Feb 17,home,Hinds,L,13-2,13,2,11,win,,,,,,,,,,,,,11.0,win,,,,,,,,,,,,2016,2015-16,div1,Bossier Parish,bossierparishcommunitycollege,colepippinw62j,Cole Pippin
-Feb 20,home,TCS Post Grad,W,10-2,10,2,8,win,,,,,,,,,,,,,8.0,win,,,,,,,,,,,,2016,2015-16,div1,Bossier Parish,bossierparishcommunitycollege,colepippinw62j,Cole Pippin
-Feb 20,home,TCS Post Grad,W,8-7,8,7,1,win,20160220_9cp1,2,1,1,,,1,1,,,,,1.0,win,20160220_9cp1,,,,4,1,,,,,2,2016,2015-16,div1,Bossier Parish,bossierparishcommunitycollege,colepippinw62j,Cole Pippin
-Feb 25,home,Hill,W,6-4,6,4,2,win,,,,,,,,,,,,,2.0,win,,,,,,,,,,,,2016,2015-16,div1,Bossier Parish,bossierparishcommunitycollege,colepippinw62j,Cole Pippin
-Feb 26,home,TCS Post Grad,W,13-0,13,0,13,win,20160226_htln,2,1,2,,,,1,1,,,,13.0,win,20160226_htln,,,,2,0,,,,,3,2016,2015-16,div1,Bossier Parish,bossierparishcommunitycollege,colepippinw62j,Cole Pippin
-Feb 26,home,TCS Post Grad,W,5-4,5,4,1,win,20160226_0h7t,3,1,1,,,,0,,1,,,1.0,win,20160226_0h7t,,,,1,0,,,,,3,2016,2015-16,div1,Bossier Parish,bossierparishcommunitycollege,colepippinw62j,Cole Pippin
-Mar 1,home,Kellogg,L,7-2,7,2,5,win,20160301_ztt3,3,0,2,1,,,0,1,,,,5.0,win,20160301_ztt3,,,,3,1,,,,,4,2016,2015-16,div1,Bossier Parish,bossierparishcommunitycollege,colepippinw62j,Cole Pippin
-Mar 3,home,Panola,W,7-4,7,4,3,win,,,,,,,,,,,,,3.0,win,,,,,,,,,,,,2016,2015-16,div1,Bossier Parish,bossierparishcommunitycollege,colepippinw62j,Cole Pippin
-Mar 5,home,Panola,W,5-1,5,1,4,win,,,,,,,,,,,,,4.0,win,,,,,,,,,,,,2016,2015-16,div1,Bossier Parish,bossierparishcommunitycollege,colepippinw62j,Cole Pippin
-Mar 5,home,Panola,W,8-5,8,5,3,win,,,,,,,,,,,,,3.0,win,,,,,,,,,,,,2016,2015-16,div1,Bossier Parish,bossierparishcommunitycollege,colepippinw62j,Cole Pippin
-Mar 14,home,Paris,L,8-5,8,5,3,win,20160314_i6ka,0,0,0,0,0,0,0,0,0,0,0,3.0,win,20160314_i6ka,0,0,0,0,0,,0,,,0,2016,2015-16,div1,Bossier Parish,bossierparishcommunitycollege,colepippinw62j,Cole Pippin
-Mar 14,home,Paris,W,7-6,7,6,1,win,,,,,,,,,,,,,1.0,win,,,,,,,,,,,,2016,2015-16,div1,Bossier Parish,bossierparishcommunitycollege,colepippinw62j,Cole Pippin
-Mar 17,home,Angelina,W,5-4,5,4,1,win,,,,,,,,,,,,,1.0,win,,,,,,,,,,,,2016,2015-16,div1,Bossier Parish,bossierparishcommunitycollege,colepippinw62j,Cole Pippin
-Mar 24,home,Navarro,L,11-3,11,3,8,win,20160324_wrto,1,0,0,0,0,0,0,0,1,0,0,8.0,win,20160324_wrto,0,0,0,0,0,,0,,,1,2016,2015-16,div1,Bossier Parish,bossierparishcommunitycollege,colepippinw62j,Cole Pippin
-Mar 25,home,Navarro,L,10-5,10,5,5,win,,,,,,,,,,,,,5.0,win,,,,,,,,,,,,2016,2015-16,div1,Bossier Parish,bossierparishcommunitycollege,colepippinw62j,Cole Pippin
-Mar 25,home,Navarro,L,9-7,9,7,2,win,20160325_uov1,4,0,0,0,0,0,0,1,1,0,0,2.0,win,20160325_uov1,0,0,0,0,0,,0,,,5,2016,2015-16,div1,Bossier Parish,bossierparishcommunitycollege,colepippinw62j,Cole Pippin
-Apr 12,home,Dallas College - Mountain View,L,6-4,6,4,2,win,20160412_8a1f,3,0,0,,,,0,1,1,,,2.0,win,20160412_8a1f,,,,0,0,,,,,4,2016,2015-16,div1,Bossier Parish,bossierparishcommunitycollege,colepippinw62j,Cole Pippin
-Apr 14,home,Paris,W,5-3,5,3,2,win,,,,,,,,,,,,,2.0,win,,,,,,,,,,,,2016,2015-16,div1,Bossier Parish,bossierparishcommunitycollege,colepippinw62j,Cole Pippin
-Apr 18,home,Tyler,,,,,2,win,,,,,,,,,,,,,2.0,win,,,,,,,,,,,,2016,2015-16,div1,Bossier Parish,bossierparishcommunitycollege,colepippinw62j,Cole Pippin
-Apr 23,home,Angelina,L,5-0,5,0,5,win,,,,,,,,,,,,,5.0,win,,,,,,,,,,,,2016,2015-16,div1,Bossier Parish,bossierparishcommunitycollege,colepippinw62j,Cole Pippin
-Apr 23,home,Angelina,L,4-1,4,1,3,win,,,,,,,,,,,,,3.0,win,,,,,,,,,,,,2016,2015-16,div1,Bossier Parish,bossierparishcommunitycollege,colepippinw62j,Cole Pippin
-May 5,home,Northeast Texas,W,10-6,10,6,4,win,,,,,,,,,,,,,4.0,win,,,,,,,,,,,,2016,2015-16,div1,Bossier Parish,bossierparishcommunitycollege,colepippinw62j,Cole Pippin
-May 7,home,Northeast Texas,W,11-7,11,7,4,win,,,,,,,,,,,,,4.0,win,,,,,,,,,,,,2016,2015-16,div1,Bossier Parish,bossierparishcommunitycollege,colepippinw62j,Cole Pippin
-May 7,home,Northeast Texas,W,15-5,15,5,10,win,,,,,,,,,,,,,10.0,win,,,,,,,,,,,,2016,2015-16,div1,Bossier Parish,bossierparishcommunitycollege,colepippinw62j,Cole Pippin
+date,location,opponent,result,score,team_score,opp_score,game_score_diff,game_win_loss,game_id,AB,R,H,2B,3B,HR,RBI,BB,K,SB,CS,HBP,SF,SH,TB,XBH,HDP,GO,FO,GO/FO,PA,season,njcaa_season,njcaa_division,team,team_id,player_id,player_name
+Jan 30,home,Dallas College - Eastfield,L,14-10,14,10,4,win,20160130_frsn,4,1,0,,,,0,,1,,,,,,0,0,,,,,4,2016,2015-16,div1,Bossier Parish,bossierparishcommunitycollege,colepippinw62j,Cole Pippin
+Jan 30,home,Dallas College - Eastfield,L,6-3,6,3,3,win,20160130_uc9q,3,0,1,,,,0,,2,,,,,,1,0,,,,,3,2016,2015-16,div1,Bossier Parish,bossierparishcommunitycollege,colepippinw62j,Cole Pippin
+Feb 5,home,TCS Post Grad,W,14-7,14,7,7,win,20160205_oqog,6,2,2,1,,,1,,1,,,,,,3,1,1,,,,6,2016,2015-16,div1,Bossier Parish,bossierparishcommunitycollege,colepippinw62j,Cole Pippin
+Feb 6,home,Hill,L,13-12,13,12,1,win,20160206_h9zv,2,0,0,,,,1,,1,,,,1,,0,0,,,,,3,2016,2015-16,div1,Bossier Parish,bossierparishcommunitycollege,colepippinw62j,Cole Pippin
+Feb 6,home,Hill,L,8-3,8,3,5,win,20160206_znuw,3,0,0,,,,0,1,,,,,,,0,0,,,,,4,2016,2015-16,div1,Bossier Parish,bossierparishcommunitycollege,colepippinw62j,Cole Pippin
+Feb 10,home,Hinds,L,6-0,6,0,6,win,,,,,,,,,,,,,,,,,,,,,,,2016,2015-16,div1,Bossier Parish,bossierparishcommunitycollege,colepippinw62j,Cole Pippin
+Feb 10,home,Hinds,W,5-4,5,4,1,win,,,,,,,,,,,,,,,,,,,,,,,2016,2015-16,div1,Bossier Parish,bossierparishcommunitycollege,colepippinw62j,Cole Pippin
+Feb 13,home,St. Louis,L,8-5,8,5,3,win,,,,,,,,,,,,,,,,,,,,,,,2016,2015-16,div1,Bossier Parish,bossierparishcommunitycollege,colepippinw62j,Cole Pippin
+Feb 13,home,Baton Rouge,L,7-2,7,2,5,win,20160213_7lqt,3,0,1,1,,,0,,1,,,,,,2,1,,,,,3,2016,2015-16,div1,Bossier Parish,bossierparishcommunitycollege,colepippinw62j,Cole Pippin
+Feb 17,home,Hinds,W,3-2,3,2,1,win,20160217_ayjg,3,0,0,,,,0,,1,,,,,,0,0,,,,,3,2016,2015-16,div1,Bossier Parish,bossierparishcommunitycollege,colepippinw62j,Cole Pippin
+Feb 17,home,Hinds,L,13-2,13,2,11,win,,,,,,,,,,,,,,,,,,,,,,,2016,2015-16,div1,Bossier Parish,bossierparishcommunitycollege,colepippinw62j,Cole Pippin
+Feb 20,home,TCS Post Grad,W,10-2,10,2,8,win,,,,,,,,,,,,,,,,,,,,,,,2016,2015-16,div1,Bossier Parish,bossierparishcommunitycollege,colepippinw62j,Cole Pippin
+Feb 20,home,TCS Post Grad,W,8-7,8,7,1,win,20160220_9cp1,2,1,1,,,1,1,,,,,,,,4,1,,,,,2,2016,2015-16,div1,Bossier Parish,bossierparishcommunitycollege,colepippinw62j,Cole Pippin
+Feb 25,home,Hill,W,6-4,6,4,2,win,,,,,,,,,,,,,,,,,,,,,,,2016,2015-16,div1,Bossier Parish,bossierparishcommunitycollege,colepippinw62j,Cole Pippin
+Feb 26,home,TCS Post Grad,W,13-0,13,0,13,win,20160226_htln,2,1,2,,,,1,1,,,,,,,2,0,,,,,3,2016,2015-16,div1,Bossier Parish,bossierparishcommunitycollege,colepippinw62j,Cole Pippin
+Feb 26,home,TCS Post Grad,W,5-4,5,4,1,win,20160226_0h7t,3,1,1,,,,0,,1,,,,,,1,0,,,,,3,2016,2015-16,div1,Bossier Parish,bossierparishcommunitycollege,colepippinw62j,Cole Pippin
+Mar 1,home,Kellogg,L,7-2,7,2,5,win,20160301_ztt3,3,0,2,1,,,0,1,,,,,,,3,1,,,,,4,2016,2015-16,div1,Bossier Parish,bossierparishcommunitycollege,colepippinw62j,Cole Pippin
+Mar 3,home,Panola,W,7-4,7,4,3,win,,,,,,,,,,,,,,,,,,,,,,,2016,2015-16,div1,Bossier Parish,bossierparishcommunitycollege,colepippinw62j,Cole Pippin
+Mar 5,home,Panola,W,5-1,5,1,4,win,,,,,,,,,,,,,,,,,,,,,,,2016,2015-16,div1,Bossier Parish,bossierparishcommunitycollege,colepippinw62j,Cole Pippin
+Mar 5,home,Panola,W,8-5,8,5,3,win,,,,,,,,,,,,,,,,,,,,,,,2016,2015-16,div1,Bossier Parish,bossierparishcommunitycollege,colepippinw62j,Cole Pippin
+Mar 7,home,Centenary College JV,W,7-3,7,3,4,win,20160307_aj21,3,0,1,0,0,0,0,0,1,0,0,0,0,0,1,0,,0,,,3,2016,2015-16,div1,Bossier Parish,bossierparishcommunitycollege,colepippinw62j,Cole Pippin
+Mar 14,home,Paris,L,8-5,8,5,3,win,20160314_i6ka,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0,,,0,2016,2015-16,div1,Bossier Parish,bossierparishcommunitycollege,colepippinw62j,Cole Pippin
+Mar 14,home,Paris,W,7-6,7,6,1,win,,,,,,,,,,,,,,,,,,,,,,,2016,2015-16,div1,Bossier Parish,bossierparishcommunitycollege,colepippinw62j,Cole Pippin
+Mar 15,home,Paris,W,14-4,14,4,10,win,,,,,,,,,,,,,,,,,,,,,,,2016,2015-16,div1,Bossier Parish,bossierparishcommunitycollege,colepippinw62j,Cole Pippin
+Mar 17,home,Angelina,W,5-4,5,4,1,win,,,,,,,,,,,,,,,,,,,,,,,2016,2015-16,div1,Bossier Parish,bossierparishcommunitycollege,colepippinw62j,Cole Pippin
+Mar 19,home,Angelina,L,2-1,2,1,1,win,,,,,,,,,,,,,,,,,,,,,,,2016,2015-16,div1,Bossier Parish,bossierparishcommunitycollege,colepippinw62j,Cole Pippin
+Mar 19,home,Angelina,L,6-5,6,5,1,win,20160319_ef70,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,,0,,,2,2016,2015-16,div1,Bossier Parish,bossierparishcommunitycollege,colepippinw62j,Cole Pippin
+Mar 22,home,Dallas College - Mountain View,W,15-5,15,5,10,win,20160322_k23o,4,2,3,1,,,1,2,1,,,,,,4,1,,,,,6,2016,2015-16,div1,Bossier Parish,bossierparishcommunitycollege,colepippinw62j,Cole Pippin
+Mar 24,home,Navarro,L,11-3,11,3,8,win,20160324_wrto,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,0,,,1,2016,2015-16,div1,Bossier Parish,bossierparishcommunitycollege,colepippinw62j,Cole Pippin
+Mar 25,home,Navarro,L,10-5,10,5,5,win,,,,,,,,,,,,,,,,,,,,,,,2016,2015-16,div1,Bossier Parish,bossierparishcommunitycollege,colepippinw62j,Cole Pippin
+Mar 25,home,Navarro,L,9-7,9,7,2,win,20160325_uov1,4,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,,0,,,5,2016,2015-16,div1,Bossier Parish,bossierparishcommunitycollege,colepippinw62j,Cole Pippin
+Mar 31,home,Northeast Texas,L,10-9,10,9,1,win,,,,,,,,,,,,,,,,,,,,,,,2016,2015-16,div1,Bossier Parish,bossierparishcommunitycollege,colepippinw62j,Cole Pippin
+Apr 2,home,Northeast Texas,W,5-2,5,2,3,win,,,,,,,,,,,,,,,,,,,,,,,2016,2015-16,div1,Bossier Parish,bossierparishcommunitycollege,colepippinw62j,Cole Pippin
+Apr 2,home,Northeast Texas,W,9-5,9,5,4,win,,,,,,,,,,,,,,,,,,,,,,,2016,2015-16,div1,Bossier Parish,bossierparishcommunitycollege,colepippinw62j,Cole Pippin
+Apr 4,home,Tyler,L,12-10,12,10,2,win,,,,,,,,,,,,,,,,,,,,,,,2016,2015-16,div1,Bossier Parish,bossierparishcommunitycollege,colepippinw62j,Cole Pippin
+Apr 7,home,Panola,W,15-7,15,7,8,win,20160407_ddge,5,1,1,0,0,1,4,0,2,0,0,0,0,0,4,1,,0,,,5,2016,2015-16,div1,Bossier Parish,bossierparishcommunitycollege,colepippinw62j,Cole Pippin
+Apr 9,home,Panola,L,3-2,3,2,1,win,20160409_gvi8,3,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,,0,,,3,2016,2015-16,div1,Bossier Parish,bossierparishcommunitycollege,colepippinw62j,Cole Pippin
+Apr 9,home,Panola,L,10-4,10,4,6,win,,,,,,,,,,,,,,,,,,,,,,,2016,2015-16,div1,Bossier Parish,bossierparishcommunitycollege,colepippinw62j,Cole Pippin
+Apr 12,home,Dallas College - Mountain View,L,6-4,6,4,2,win,20160412_8a1f,3,0,0,,,,0,1,1,,,,,,0,0,,,,,4,2016,2015-16,div1,Bossier Parish,bossierparishcommunitycollege,colepippinw62j,Cole Pippin
+Apr 14,home,Paris,W,5-3,5,3,2,win,,,,,,,,,,,,,,,,,,,,,,,2016,2015-16,div1,Bossier Parish,bossierparishcommunitycollege,colepippinw62j,Cole Pippin
+Apr 16,home,Paris,L,3-0,3,0,3,win,20160416_tmhp,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,0,,,1,2016,2015-16,div1,Bossier Parish,bossierparishcommunitycollege,colepippinw62j,Cole Pippin
+Apr 16,home,Paris,W,7-5,7,5,2,win,,,,,,,,,,,,,,,,,,,,,,,2016,2015-16,div1,Bossier Parish,bossierparishcommunitycollege,colepippinw62j,Cole Pippin
+Apr 18,home,Tyler,,,,,2,win,,,,,,,,,,,,,,,,,,,,,,,2016,2015-16,div1,Bossier Parish,bossierparishcommunitycollege,colepippinw62j,Cole Pippin
+Apr 22,home,Angelina,L,11-2,11,2,9,win,,,,,,,,,,,,,,,,,,,,,,,2016,2015-16,div1,Bossier Parish,bossierparishcommunitycollege,colepippinw62j,Cole Pippin
+Apr 23,home,Angelina,L,5-0,5,0,5,win,,,,,,,,,,,,,,,,,,,,,,,2016,2015-16,div1,Bossier Parish,bossierparishcommunitycollege,colepippinw62j,Cole Pippin
+Apr 23,home,Angelina,L,4-1,4,1,3,win,,,,,,,,,,,,,,,,,,,,,,,2016,2015-16,div1,Bossier Parish,bossierparishcommunitycollege,colepippinw62j,Cole Pippin
+Apr 26,home,Centenary College JV,W,10-2,10,2,8,win,20160426_slk8,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,0,,,1,2016,2015-16,div1,Bossier Parish,bossierparishcommunitycollege,colepippinw62j,Cole Pippin
+Apr 30,home,Navarro,L,8-7,8,7,1,win,,,,,,,,,,,,,,,,,,,,,,,2016,2015-16,div1,Bossier Parish,bossierparishcommunitycollege,colepippinw62j,Cole Pippin
+May 1,home,Navarro,L,9-4,9,4,5,win,,,,,,,,,,,,,,,,,,,,,,,2016,2015-16,div1,Bossier Parish,bossierparishcommunitycollege,colepippinw62j,Cole Pippin
+May 1,home,Navarro,L,4-3,4,3,1,win,,,,,,,,,,,,,,,,,,,,,,,2016,2015-16,div1,Bossier Parish,bossierparishcommunitycollege,colepippinw62j,Cole Pippin
+May 5,home,Northeast Texas,W,10-6,10,6,4,win,,,,,,,,,,,,,,,,,,,,,,,2016,2015-16,div1,Bossier Parish,bossierparishcommunitycollege,colepippinw62j,Cole Pippin
+May 7,home,Northeast Texas,W,11-7,11,7,4,win,,,,,,,,,,,,,,,,,,,,,,,2016,2015-16,div1,Bossier Parish,bossierparishcommunitycollege,colepippinw62j,Cole Pippin
+May 7,home,Northeast Texas,W,15-5,15,5,10,win,,,,,,,,,,,,,,,,,,,,,,,2016,2015-16,div1,Bossier Parish,bossierparishcommunitycollege,colepippinw62j,Cole Pippin
+May 13,home,San Jacinto,L,9-1,9,1,8,win,,,,,,,,,,,,,,,,,,,,,,,2016,2015-16,div1,Bossier Parish,bossierparishcommunitycollege,colepippinw62j,Cole Pippin
+May 14,home,Alvin,L,4-3,4,3,1,win,,,,,,,,,,,,,,,,,,,,,,,2016,2015-16,div1,Bossier Parish,bossierparishcommunitycollege,colepippinw62j,Cole Pippin

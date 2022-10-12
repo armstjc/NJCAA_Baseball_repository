@@ -1,28 +1,56 @@
-date,location,opponent,result,score,team_score,opp_score,game_score_diff_x,game_win_loss_x,game_id_x,AB,R,H,2B,3B,HR,RBI,BB,K,SB,CS,game_score_diff_y,game_win_loss_y,game_id_y,HBP,SF,SH,TB,XBH,HDP,GO,FO,GO/FO,PA,season,njcaa_season,njcaa_division,team,team_id,player_id,player_name
-Jan 30,home,Dallas College - Eastfield,L,14-10,14,10,4,win,,,,,,,,,,,,,4.0,win,,,,,,,,,,,,2016,2015-16,div1,Bossier Parish,bossierparishcommunitycollege,luissantiago2nnm,Luis Santiago
-Jan 30,home,Dallas College - Eastfield,L,6-3,6,3,3,win,20160130_uc9q,3,0,0,,,,0,,1,,,3.0,win,20160130_uc9q,,,,0,0,,,,,3,2016,2015-16,div1,Bossier Parish,bossierparishcommunitycollege,luissantiago2nnm,Luis Santiago
-Feb 17,home,Hinds,W,3-2,3,2,1,win,20160217_ayjg,0,0,0,,,,0,,,,,1.0,win,20160217_ayjg,,,,0,0,,,,,0,2016,2015-16,div1,Bossier Parish,bossierparishcommunitycollege,luissantiago2nnm,Luis Santiago
-Feb 17,home,Hinds,L,13-2,13,2,11,win,20160217_b858,2,0,0,,,,0,1,,,,11.0,win,20160217_b858,,,,0,0,,,,,3,2016,2015-16,div1,Bossier Parish,bossierparishcommunitycollege,luissantiago2nnm,Luis Santiago
-Feb 20,home,TCS Post Grad,W,10-2,10,2,8,win,,,,,,,,,,,,,8.0,win,,,,,,,,,,,,2016,2015-16,div1,Bossier Parish,bossierparishcommunitycollege,luissantiago2nnm,Luis Santiago
-Feb 20,home,TCS Post Grad,W,8-7,8,7,1,win,20160220_9cp1,4,1,1,,,1,3,,,,,1.0,win,20160220_9cp1,,,,4,1,,,,,4,2016,2015-16,div1,Bossier Parish,bossierparishcommunitycollege,luissantiago2nnm,Luis Santiago
-Feb 25,home,Hill,W,6-4,6,4,2,win,20160225_buw4,2,2,1,,,,1,1,,1,,2.0,win,20160225_buw4,,1,,1,0,,,,,4,2016,2015-16,div1,Bossier Parish,bossierparishcommunitycollege,luissantiago2nnm,Luis Santiago
-Feb 26,home,TCS Post Grad,W,13-0,13,0,13,win,,,,,,,,,,,,,13.0,win,,,,,,,,,,,,2016,2015-16,div1,Bossier Parish,bossierparishcommunitycollege,luissantiago2nnm,Luis Santiago
-Feb 26,home,TCS Post Grad,W,5-4,5,4,1,win,20160226_0h7t,3,0,1,1,,,2,,,,,1.0,win,20160226_0h7t,,,,2,1,,,,,3,2016,2015-16,div1,Bossier Parish,bossierparishcommunitycollege,luissantiago2nnm,Luis Santiago
-Mar 1,home,Kellogg,L,7-2,7,2,5,win,,,,,,,,,,,,,5.0,win,,,,,,,,,,,,2016,2015-16,div1,Bossier Parish,bossierparishcommunitycollege,luissantiago2nnm,Luis Santiago
-Mar 3,home,Panola,W,7-4,7,4,3,win,,,,,,,,,,,,,3.0,win,,,,,,,,,,,,2016,2015-16,div1,Bossier Parish,bossierparishcommunitycollege,luissantiago2nnm,Luis Santiago
-Mar 5,home,Panola,W,5-1,5,1,4,win,,,,,,,,,,,,,4.0,win,,,,,,,,,,,,2016,2015-16,div1,Bossier Parish,bossierparishcommunitycollege,luissantiago2nnm,Luis Santiago
-Mar 5,home,Panola,W,8-5,8,5,3,win,20160305_1y8u,3,0,2,0,0,0,1,0,1,0,0,3.0,win,20160305_1y8u,0,0,1,2,0,,0,,,4,2016,2015-16,div1,Bossier Parish,bossierparishcommunitycollege,luissantiago2nnm,Luis Santiago
-Mar 14,home,Paris,L,8-5,8,5,3,win,20160314_i6ka,1,0,0,0,0,0,0,0,0,0,0,3.0,win,20160314_i6ka,0,0,0,0,0,,0,,,1,2016,2015-16,div1,Bossier Parish,bossierparishcommunitycollege,luissantiago2nnm,Luis Santiago
-Mar 14,home,Paris,W,7-6,7,6,1,win,20160314_47sk,2,0,0,0,0,0,2,1,1,0,0,1.0,win,20160314_47sk,0,1,0,0,0,,0,,,4,2016,2015-16,div1,Bossier Parish,bossierparishcommunitycollege,luissantiago2nnm,Luis Santiago
-Mar 17,home,Angelina,W,5-4,5,4,1,win,20160317_01bi,3,0,0,0,0,0,0,1,0,0,0,1.0,win,20160317_01bi,0,0,0,0,0,,0,,,4,2016,2015-16,div1,Bossier Parish,bossierparishcommunitycollege,luissantiago2nnm,Luis Santiago
-Mar 24,home,Navarro,L,11-3,11,3,8,win,20160324_wrto,2,1,1,0,0,1,2,2,1,1,0,8.0,win,20160324_wrto,0,0,0,4,1,,0,,,4,2016,2015-16,div1,Bossier Parish,bossierparishcommunitycollege,luissantiago2nnm,Luis Santiago
-Mar 25,home,Navarro,L,10-5,10,5,5,win,20160325_c2yp,2,1,0,0,0,0,0,1,1,0,0,5.0,win,20160325_c2yp,0,0,0,0,0,,0,,,3,2016,2015-16,div1,Bossier Parish,bossierparishcommunitycollege,luissantiago2nnm,Luis Santiago
-Mar 25,home,Navarro,L,9-7,9,7,2,win,20160325_uov1,4,1,3,0,0,0,0,0,0,0,0,2.0,win,20160325_uov1,0,0,0,3,0,,0,,,4,2016,2015-16,div1,Bossier Parish,bossierparishcommunitycollege,luissantiago2nnm,Luis Santiago
-Apr 12,home,Dallas College - Mountain View,L,6-4,6,4,2,win,,,,,,,,,,,,,2.0,win,,,,,,,,,,,,2016,2015-16,div1,Bossier Parish,bossierparishcommunitycollege,luissantiago2nnm,Luis Santiago
-Apr 14,home,Paris,W,5-3,5,3,2,win,20160414_dh80,3,1,1,0,0,0,0,0,0,0,0,2.0,win,20160414_dh80,0,0,0,1,0,,0,,,3,2016,2015-16,div1,Bossier Parish,bossierparishcommunitycollege,luissantiago2nnm,Luis Santiago
-Apr 18,home,Tyler,,,,,2,win,,,,,,,,,,,,,2.0,win,,,,,,,,,,,,2016,2015-16,div1,Bossier Parish,bossierparishcommunitycollege,luissantiago2nnm,Luis Santiago
-Apr 23,home,Angelina,L,5-0,5,0,5,win,20160423_hgts,4,0,1,0,0,0,0,0,1,0,0,5.0,win,20160423_hgts,0,0,0,1,0,,0,,,4,2016,2015-16,div1,Bossier Parish,bossierparishcommunitycollege,luissantiago2nnm,Luis Santiago
-Apr 23,home,Angelina,L,4-1,4,1,3,win,20160423_5j4f,4,0,0,0,0,0,0,0,1,0,0,3.0,win,20160423_5j4f,0,0,0,0,0,,0,,,4,2016,2015-16,div1,Bossier Parish,bossierparishcommunitycollege,luissantiago2nnm,Luis Santiago
-May 5,home,Northeast Texas,W,10-6,10,6,4,win,20160505_k3vm,4,2,1,0,0,0,0,0,0,0,0,4.0,win,20160505_k3vm,1,0,0,1,0,,0,,,5,2016,2015-16,div1,Bossier Parish,bossierparishcommunitycollege,luissantiago2nnm,Luis Santiago
-May 7,home,Northeast Texas,W,11-7,11,7,4,win,20160507_zkmh,3,3,2,0,0,0,0,1,0,0,0,4.0,win,20160507_zkmh,0,0,0,2,0,,0,,,4,2016,2015-16,div1,Bossier Parish,bossierparishcommunitycollege,luissantiago2nnm,Luis Santiago
-May 7,home,Northeast Texas,W,15-5,15,5,10,win,20160507_be1y,2,3,2,0,0,0,0,1,0,0,0,10.0,win,20160507_be1y,0,0,1,2,0,,0,,,4,2016,2015-16,div1,Bossier Parish,bossierparishcommunitycollege,luissantiago2nnm,Luis Santiago
+date,location,opponent,result,score,team_score,opp_score,game_score_diff,game_win_loss,game_id,AB,R,H,2B,3B,HR,RBI,BB,K,SB,CS,HBP,SF,SH,TB,XBH,HDP,GO,FO,GO/FO,PA,season,njcaa_season,njcaa_division,team,team_id,player_id,player_name
+Jan 30,home,Dallas College - Eastfield,L,14-10,14,10,4,win,,,,,,,,,,,,,,,,,,,,,,,2016,2015-16,div1,Bossier Parish,bossierparishcommunitycollege,luissantiago2nnm,Luis Santiago
+Jan 30,home,Dallas College - Eastfield,L,6-3,6,3,3,win,20160130_uc9q,3,0,0,,,,0,,1,,,,,,0,0,,,,,3,2016,2015-16,div1,Bossier Parish,bossierparishcommunitycollege,luissantiago2nnm,Luis Santiago
+Feb 5,home,TCS Post Grad,W,14-7,14,7,7,win,,,,,,,,,,,,,,,,,,,,,,,2016,2015-16,div1,Bossier Parish,bossierparishcommunitycollege,luissantiago2nnm,Luis Santiago
+Feb 6,home,Hill,L,13-12,13,12,1,win,20160206_h9zv,3,0,1,,,,0,1,2,,,,,,1,0,,,,,4,2016,2015-16,div1,Bossier Parish,bossierparishcommunitycollege,luissantiago2nnm,Luis Santiago
+Feb 6,home,Hill,L,8-3,8,3,5,win,,,,,,,,,,,,,,,,,,,,,,,2016,2015-16,div1,Bossier Parish,bossierparishcommunitycollege,luissantiago2nnm,Luis Santiago
+Feb 10,home,Hinds,L,6-0,6,0,6,win,,,,,,,,,,,,,,,,,,,,,,,2016,2015-16,div1,Bossier Parish,bossierparishcommunitycollege,luissantiago2nnm,Luis Santiago
+Feb 10,home,Hinds,W,5-4,5,4,1,win,20160210_4ued,2,0,2,1,,,0,1,,,,,,,3,1,,,,,3,2016,2015-16,div1,Bossier Parish,bossierparishcommunitycollege,luissantiago2nnm,Luis Santiago
+Feb 13,home,St. Louis,L,8-5,8,5,3,win,,,,,,,,,,,,,,,,,,,,,,,2016,2015-16,div1,Bossier Parish,bossierparishcommunitycollege,luissantiago2nnm,Luis Santiago
+Feb 13,home,Baton Rouge,L,7-2,7,2,5,win,20160213_7lqt,2,0,0,,,,0,1,1,,,,,,0,0,,,,,3,2016,2015-16,div1,Bossier Parish,bossierparishcommunitycollege,luissantiago2nnm,Luis Santiago
+Feb 17,home,Hinds,W,3-2,3,2,1,win,20160217_ayjg,0,0,0,,,,0,,,,,,,,0,0,,,,,0,2016,2015-16,div1,Bossier Parish,bossierparishcommunitycollege,luissantiago2nnm,Luis Santiago
+Feb 17,home,Hinds,L,13-2,13,2,11,win,20160217_b858,2,0,0,,,,0,1,,,,,,,0,0,,,,,3,2016,2015-16,div1,Bossier Parish,bossierparishcommunitycollege,luissantiago2nnm,Luis Santiago
+Feb 20,home,TCS Post Grad,W,10-2,10,2,8,win,,,,,,,,,,,,,,,,,,,,,,,2016,2015-16,div1,Bossier Parish,bossierparishcommunitycollege,luissantiago2nnm,Luis Santiago
+Feb 20,home,TCS Post Grad,W,8-7,8,7,1,win,20160220_9cp1,4,1,1,,,1,3,,,,,,,,4,1,,,,,4,2016,2015-16,div1,Bossier Parish,bossierparishcommunitycollege,luissantiago2nnm,Luis Santiago
+Feb 25,home,Hill,W,6-4,6,4,2,win,20160225_buw4,2,2,1,,,,1,1,,1,,,1,,1,0,,,,,4,2016,2015-16,div1,Bossier Parish,bossierparishcommunitycollege,luissantiago2nnm,Luis Santiago
+Feb 26,home,TCS Post Grad,W,13-0,13,0,13,win,,,,,,,,,,,,,,,,,,,,,,,2016,2015-16,div1,Bossier Parish,bossierparishcommunitycollege,luissantiago2nnm,Luis Santiago
+Feb 26,home,TCS Post Grad,W,5-4,5,4,1,win,20160226_0h7t,3,0,1,1,,,2,,,,,,,,2,1,,,,,3,2016,2015-16,div1,Bossier Parish,bossierparishcommunitycollege,luissantiago2nnm,Luis Santiago
+Mar 1,home,Kellogg,L,7-2,7,2,5,win,,,,,,,,,,,,,,,,,,,,,,,2016,2015-16,div1,Bossier Parish,bossierparishcommunitycollege,luissantiago2nnm,Luis Santiago
+Mar 3,home,Panola,W,7-4,7,4,3,win,,,,,,,,,,,,,,,,,,,,,,,2016,2015-16,div1,Bossier Parish,bossierparishcommunitycollege,luissantiago2nnm,Luis Santiago
+Mar 5,home,Panola,W,5-1,5,1,4,win,,,,,,,,,,,,,,,,,,,,,,,2016,2015-16,div1,Bossier Parish,bossierparishcommunitycollege,luissantiago2nnm,Luis Santiago
+Mar 5,home,Panola,W,8-5,8,5,3,win,20160305_1y8u,3,0,2,0,0,0,1,0,1,0,0,0,0,1,2,0,,0,,,4,2016,2015-16,div1,Bossier Parish,bossierparishcommunitycollege,luissantiago2nnm,Luis Santiago
+Mar 7,home,Centenary College JV,W,7-3,7,3,4,win,,,,,,,,,,,,,,,,,,,,,,,2016,2015-16,div1,Bossier Parish,bossierparishcommunitycollege,luissantiago2nnm,Luis Santiago
+Mar 14,home,Paris,L,8-5,8,5,3,win,20160314_i6ka,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0,,,1,2016,2015-16,div1,Bossier Parish,bossierparishcommunitycollege,luissantiago2nnm,Luis Santiago
+Mar 14,home,Paris,W,7-6,7,6,1,win,20160314_47sk,2,0,0,0,0,0,2,1,1,0,0,0,1,0,0,0,,0,,,4,2016,2015-16,div1,Bossier Parish,bossierparishcommunitycollege,luissantiago2nnm,Luis Santiago
+Mar 15,home,Paris,W,14-4,14,4,10,win,,,,,,,,,,,,,,,,,,,,,,,2016,2015-16,div1,Bossier Parish,bossierparishcommunitycollege,luissantiago2nnm,Luis Santiago
+Mar 17,home,Angelina,W,5-4,5,4,1,win,20160317_01bi,3,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,0,,,4,2016,2015-16,div1,Bossier Parish,bossierparishcommunitycollege,luissantiago2nnm,Luis Santiago
+Mar 19,home,Angelina,L,2-1,2,1,1,win,20160319_g19m,2,0,1,0,0,0,0,1,1,0,0,0,0,0,1,0,,0,,,3,2016,2015-16,div1,Bossier Parish,bossierparishcommunitycollege,luissantiago2nnm,Luis Santiago
+Mar 19,home,Angelina,L,6-5,6,5,1,win,20160319_ef70,4,0,1,0,0,0,2,0,0,0,0,0,0,0,1,0,,0,,,4,2016,2015-16,div1,Bossier Parish,bossierparishcommunitycollege,luissantiago2nnm,Luis Santiago
+Mar 22,home,Dallas College - Mountain View,W,15-5,15,5,10,win,20160322_k23o,5,1,0,,,,1,1,,,,,,,0,0,,,,,6,2016,2015-16,div1,Bossier Parish,bossierparishcommunitycollege,luissantiago2nnm,Luis Santiago
+Mar 24,home,Navarro,L,11-3,11,3,8,win,20160324_wrto,2,1,1,0,0,1,2,2,1,1,0,0,0,0,4,1,,0,,,4,2016,2015-16,div1,Bossier Parish,bossierparishcommunitycollege,luissantiago2nnm,Luis Santiago
+Mar 25,home,Navarro,L,10-5,10,5,5,win,20160325_c2yp,2,1,0,0,0,0,0,1,1,0,0,0,0,0,0,0,,0,,,3,2016,2015-16,div1,Bossier Parish,bossierparishcommunitycollege,luissantiago2nnm,Luis Santiago
+Mar 25,home,Navarro,L,9-7,9,7,2,win,20160325_uov1,4,1,3,0,0,0,0,0,0,0,0,0,0,0,3,0,,0,,,4,2016,2015-16,div1,Bossier Parish,bossierparishcommunitycollege,luissantiago2nnm,Luis Santiago
+Mar 31,home,Northeast Texas,L,10-9,10,9,1,win,20160331_pp80,3,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,,0,,,4,2016,2015-16,div1,Bossier Parish,bossierparishcommunitycollege,luissantiago2nnm,Luis Santiago
+Apr 2,home,Northeast Texas,W,5-2,5,2,3,win,20160402_5k5e,3,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,,0,,,3,2016,2015-16,div1,Bossier Parish,bossierparishcommunitycollege,luissantiago2nnm,Luis Santiago
+Apr 2,home,Northeast Texas,W,9-5,9,5,4,win,,,,,,,,,,,,,,,,,,,,,,,2016,2015-16,div1,Bossier Parish,bossierparishcommunitycollege,luissantiago2nnm,Luis Santiago
+Apr 4,home,Tyler,L,12-10,12,10,2,win,,,,,,,,,,,,,,,,,,,,,,,2016,2015-16,div1,Bossier Parish,bossierparishcommunitycollege,luissantiago2nnm,Luis Santiago
+Apr 7,home,Panola,W,15-7,15,7,8,win,20160407_ddge,4,3,4,1,0,1,4,1,0,0,0,0,0,0,8,2,,0,,,5,2016,2015-16,div1,Bossier Parish,bossierparishcommunitycollege,luissantiago2nnm,Luis Santiago
+Apr 9,home,Panola,L,3-2,3,2,1,win,20160409_gvi8,2,0,0,0,0,0,0,0,2,0,0,1,0,0,0,0,,0,,,3,2016,2015-16,div1,Bossier Parish,bossierparishcommunitycollege,luissantiago2nnm,Luis Santiago
+Apr 9,home,Panola,L,10-4,10,4,6,win,20160409_8l8s,4,0,1,0,0,0,0,0,1,0,0,0,0,0,1,0,,0,,,4,2016,2015-16,div1,Bossier Parish,bossierparishcommunitycollege,luissantiago2nnm,Luis Santiago
+Apr 12,home,Dallas College - Mountain View,L,6-4,6,4,2,win,,,,,,,,,,,,,,,,,,,,,,,2016,2015-16,div1,Bossier Parish,bossierparishcommunitycollege,luissantiago2nnm,Luis Santiago
+Apr 14,home,Paris,W,5-3,5,3,2,win,20160414_dh80,3,1,1,0,0,0,0,0,0,0,0,0,0,0,1,0,,0,,,3,2016,2015-16,div1,Bossier Parish,bossierparishcommunitycollege,luissantiago2nnm,Luis Santiago
+Apr 16,home,Paris,L,3-0,3,0,3,win,,,,,,,,,,,,,,,,,,,,,,,2016,2015-16,div1,Bossier Parish,bossierparishcommunitycollege,luissantiago2nnm,Luis Santiago
+Apr 16,home,Paris,W,7-5,7,5,2,win,20160416_2f6n,5,0,3,0,0,0,1,0,1,0,0,0,0,0,3,0,,0,,,5,2016,2015-16,div1,Bossier Parish,bossierparishcommunitycollege,luissantiago2nnm,Luis Santiago
+Apr 18,home,Tyler,,,,,2,win,,,,,,,,,,,,,,,,,,,,,,,2016,2015-16,div1,Bossier Parish,bossierparishcommunitycollege,luissantiago2nnm,Luis Santiago
+Apr 22,home,Angelina,L,11-2,11,2,9,win,20160422_zwoj,4,0,2,0,0,0,0,0,0,0,0,0,0,0,2,0,,0,,,4,2016,2015-16,div1,Bossier Parish,bossierparishcommunitycollege,luissantiago2nnm,Luis Santiago
+Apr 23,home,Angelina,L,5-0,5,0,5,win,20160423_hgts,4,0,1,0,0,0,0,0,1,0,0,0,0,0,1,0,,0,,,4,2016,2015-16,div1,Bossier Parish,bossierparishcommunitycollege,luissantiago2nnm,Luis Santiago
+Apr 23,home,Angelina,L,4-1,4,1,3,win,20160423_5j4f,4,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,0,,,4,2016,2015-16,div1,Bossier Parish,bossierparishcommunitycollege,luissantiago2nnm,Luis Santiago
+Apr 26,home,Centenary College JV,W,10-2,10,2,8,win,20160426_slk8,6,2,4,0,0,0,0,0,0,1,0,0,0,0,4,0,,0,,,6,2016,2015-16,div1,Bossier Parish,bossierparishcommunitycollege,luissantiago2nnm,Luis Santiago
+Apr 30,home,Navarro,L,8-7,8,7,1,win,20160430_fqyx,4,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,,0,,,5,2016,2015-16,div1,Bossier Parish,bossierparishcommunitycollege,luissantiago2nnm,Luis Santiago
+May 1,home,Navarro,L,9-4,9,4,5,win,20160501_kofv,4,1,1,0,0,1,1,0,0,0,0,0,0,0,4,1,,0,,,4,2016,2015-16,div1,Bossier Parish,bossierparishcommunitycollege,luissantiago2nnm,Luis Santiago
+May 1,home,Navarro,L,4-3,4,3,1,win,20160501_gzlq,3,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,,0,,,4,2016,2015-16,div1,Bossier Parish,bossierparishcommunitycollege,luissantiago2nnm,Luis Santiago
+May 5,home,Northeast Texas,W,10-6,10,6,4,win,20160505_k3vm,4,2,1,0,0,0,0,0,0,0,0,1,0,0,1,0,,0,,,5,2016,2015-16,div1,Bossier Parish,bossierparishcommunitycollege,luissantiago2nnm,Luis Santiago
+May 7,home,Northeast Texas,W,11-7,11,7,4,win,20160507_zkmh,3,3,2,0,0,0,0,1,0,0,0,0,0,0,2,0,,0,,,4,2016,2015-16,div1,Bossier Parish,bossierparishcommunitycollege,luissantiago2nnm,Luis Santiago
+May 7,home,Northeast Texas,W,15-5,15,5,10,win,20160507_be1y,2,3,2,0,0,0,0,1,0,0,0,0,0,1,2,0,,0,,,4,2016,2015-16,div1,Bossier Parish,bossierparishcommunitycollege,luissantiago2nnm,Luis Santiago
+May 13,home,San Jacinto,L,9-1,9,1,8,win,20160513_s5n8,3,1,2,,,,0,,,,,,,,2,0,,1,,,3,2016,2015-16,div1,Bossier Parish,bossierparishcommunitycollege,luissantiago2nnm,Luis Santiago
+May 14,home,Alvin,L,4-3,4,3,1,win,20160514_6ct9,3,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,0,,,4,2016,2015-16,div1,Bossier Parish,bossierparishcommunitycollege,luissantiago2nnm,Luis Santiago

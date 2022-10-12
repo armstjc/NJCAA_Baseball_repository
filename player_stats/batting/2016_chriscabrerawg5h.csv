@@ -1,30 +1,56 @@
-date,location,opponent,result,score,team_score,opp_score,game_score_diff_x,game_win_loss_x,game_id_x,AB,R,H,2B,3B,HR,RBI,BB,K,SB,CS,game_score_diff_y,game_win_loss_y,game_id_y,HBP,SF,SH,TB,XBH,HDP,GO,FO,GO/FO,PA,season,njcaa_season,njcaa_division,team,team_id,player_id,player_name
-Feb 4,home,ASA Miami,W,12-1,12,1,11.0,win,20160204_ao5l,3,1,3,1,,,2,,,,,11.0,win,20160204_ao5l,,,,4,1,,,,,3,2016,2015-16,div1,Broward,browardcollege,chriscabrerawg5h,Chris Cabrera
-Feb 5,home,ASA Miami,W,10-2,10,2,8.0,win,,,,,,,,,,,,,8.0,win,,,,,,,,,,,,2016,2015-16,div1,Broward,browardcollege,chriscabrerawg5h,Chris Cabrera
-Feb 6,home,Florida SouthWestern State,W,4-3,4,3,1.0,win,20160206_hwkn,4,0,0,,,,0,,4,,,1.0,win,20160206_hwkn,,,,0,0,,,,,4,2016,2015-16,div1,Broward,browardcollege,chriscabrerawg5h,Chris Cabrera
-Feb 14,home,Gulf Coast State,L,14-13,14,13,1.0,win,20160214_os86,1,0,0,,,,0,,,,,1.0,win,20160214_os86,,,,0,0,,,,,1,2016,2015-16,div1,Broward,browardcollege,chriscabrerawg5h,Chris Cabrera
-Feb 16,home,State College of Florida,,,,,1.0,win,,,,,,,,,,,,,1.0,win,,,,,,,,,,,,2016,2015-16,div1,Broward,browardcollege,chriscabrerawg5h,Chris Cabrera
-Feb 18,home,Indian River State,W,2-1,2,1,1.0,win,20160218_pooi,2,0,0,,,,0,,1,,,1.0,win,20160218_pooi,,,,0,0,,,,,2,2016,2015-16,div1,Broward,browardcollege,chriscabrerawg5h,Chris Cabrera
-Feb 19,home,ASA Miami,L,4-1,4,1,3.0,win,20160219_v7u8,3,1,0,,,,0,1,2,,,3.0,win,20160219_v7u8,,,,0,0,,,,,4,2016,2015-16,div1,Broward,browardcollege,chriscabrerawg5h,Chris Cabrera
-Feb 23,home,Miami Dade,W,4-3,4,3,1.0,win,20160223_xjpb,4,1,1,,,1,1,,1,,,1.0,win,20160223_xjpb,,,,4,1,,,,,4,2016,2015-16,div1,Broward,browardcollege,chriscabrerawg5h,Chris Cabrera
-Feb 24,home,St. Johns River State,L,13-2,13,2,11.0,win,20160224_i4dp,3,0,1,,,,1,,1,,1,11.0,win,20160224_i4dp,,,,1,0,,,,,3,2016,2015-16,div1,Broward,browardcollege,chriscabrerawg5h,Chris Cabrera
-Feb 27,home,Lake-Sumter State,W,12-3,12,3,9.0,win,20160227_1juh,4,1,2,,,,1,,2,,,9.0,win,20160227_1juh,,,,2,0,,,,,4,2016,2015-16,div1,Broward,browardcollege,chriscabrerawg5h,Chris Cabrera
-Feb 27,home,Lake-Sumter State,W,4-0,4,0,4.0,win,,,,,,,,,,,,,4.0,win,,,,,,,,,,,,2016,2015-16,div1,Broward,browardcollege,chriscabrerawg5h,Chris Cabrera
-Mar 2,home,Palm Beach State,W,5-4,5,4,1.0,win,20160302_02vt,1,0,0,,,,0,,,,,1.0,win,20160302_02vt,,,,0,0,,,,,1,2016,2015-16,div1,Broward,browardcollege,chriscabrerawg5h,Chris Cabrera
-Mar 5,home,ASA Miami,W,4-3,4,3,1.0,win,20160305_wpsc,3,0,1,,,,1,,,,,1.0,win,20160305_wpsc,,,,1,0,,,,,3,2016,2015-16,div1,Broward,browardcollege,chriscabrerawg5h,Chris Cabrera
-Mar 8,home,Miami Dade,W,7-0,7,0,7.0,win,,,,,,,,,,,,,7.0,win,,,,,,,,,,,,2016,2015-16,div1,Broward,browardcollege,chriscabrerawg5h,Chris Cabrera
-Mar 9,home,Miami Dade,W,4-2,4,2,2.0,win,20160309_m0kn,4,0,0,,,,0,,3,,,2.0,win,20160309_m0kn,,,,0,0,,,,,4,2016,2015-16,div1,Broward,browardcollege,chriscabrerawg5h,Chris Cabrera
-Mar 14,home,College Lafleche,W,21-10,21,10,11.0,win,20160314_4ino,3,2,1,1,,,0,2,2,1,,11.0,win,20160314_4ino,,,,2,1,,,,,5,2016,2015-16,div1,Broward,browardcollege,chriscabrerawg5h,Chris Cabrera
-Mar 15,home,Indian River State,L,10-8,10,8,2.0,win,,,,,,,,,,,,,2.0,win,,,,,,,,,,,,2016,2015-16,div1,Broward,browardcollege,chriscabrerawg5h,Chris Cabrera
-Mar 18,home,Palm Beach State,W,10-6,10,6,4.0,win,20160318_ly5i,1,0,0,,,,0,,,,,4.0,win,20160318_ly5i,,,,0,0,,,,,1,2016,2015-16,div1,Broward,browardcollege,chriscabrerawg5h,Chris Cabrera
-Mar 23,home,Miami Dade,L,9-2,9,2,7.0,win,20160323_sla7,1,0,0,,,,0,,1,,,7.0,win,20160323_sla7,,,,0,0,,,,,1,2016,2015-16,div1,Broward,browardcollege,chriscabrerawg5h,Chris Cabrera
-Mar 26,home,Indian River State,W,11-1,11,1,10.0,win,20160326_x03h,3,0,1,,,,0,,,,,10.0,win,20160326_x03h,,,,1,0,,,,,3,2016,2015-16,div1,Broward,browardcollege,chriscabrerawg5h,Chris Cabrera
-Mar 28,home,St. Thomas University (Junior Varsity),W,3-1,3,1,2.0,win,20160328_6935,4,0,0,,,,0,,,,,2.0,win,20160328_6935,,,,0,0,,,,,4,2016,2015-16,div1,Broward,browardcollege,chriscabrerawg5h,Chris Cabrera
-Apr 1,home,Eastern Florida State,L,4-0,4,0,4.0,win,,,,,,,,,,,,,4.0,win,,,,,,,,,,,,2016,2015-16,div1,Broward,browardcollege,chriscabrerawg5h,Chris Cabrera
-Apr 2,home,Eastern Florida State,W,13-6,13,6,7.0,win,20160402_05dt,2,0,0,,,,0,,1,,,7.0,win,20160402_05dt,,,,0,0,,,,,2,2016,2015-16,div1,Broward,browardcollege,chriscabrerawg5h,Chris Cabrera
-Apr 6,home,Palm Beach State,L,4-2,4,2,2.0,win,20160406_3n5l,0,0,0,,,,0,1,,,,2.0,win,20160406_3n5l,,,,0,0,,,,,1,2016,2015-16,div1,Broward,browardcollege,chriscabrerawg5h,Chris Cabrera
-Apr 9,home,Eastern Florida State,W,9-8,9,8,1.0,win,20160409_oh2s,1,1,0,,,,0,1,1,,,1.0,win,20160409_oh2s,,,,0,0,,,,,2,2016,2015-16,div1,Broward,browardcollege,chriscabrerawg5h,Chris Cabrera
-Apr 12,home,ASA Miami,W,19-5,19,5,14.0,win,20160412_4fho,3,0,1,1,,,0,,,,,14.0,win,20160412_4fho,,,,2,1,,,,,3,2016,2015-16,div1,Broward,browardcollege,chriscabrerawg5h,Chris Cabrera
-Apr 13,home,Keiser University (Junior Varsity),W,11-3,11,3,8.0,win,20160413_o21p,1,0,0,,,,0,1,,1,,8.0,win,20160413_o21p,,,,0,0,,,,,2,2016,2015-16,div1,Broward,browardcollege,chriscabrerawg5h,Chris Cabrera
-Apr 15,home,Indian River State,W,12-6,12,6,6.0,win,,,,,,,,,,,,,6.0,win,,,,,,,,,,,,2016,2015-16,div1,Broward,browardcollege,chriscabrerawg5h,Chris Cabrera
-Apr 19,home,Miami Dade,W,4-0,4,0,4.0,win,,,,,,,,,,,,,4.0,win,,,,,,,,,,,,2016,2015-16,div1,Broward,browardcollege,chriscabrerawg5h,Chris Cabrera
+date,location,opponent,result,score,team_score,opp_score,game_score_diff,game_win_loss,game_id,AB,R,H,2B,3B,HR,RBI,BB,K,SB,CS,HBP,SF,SH,TB,XBH,HDP,GO,FO,GO/FO,PA,season,njcaa_season,njcaa_division,team,team_id,player_id,player_name
+Jan 29,home,Pensacola State,W,4-3,4,3,1.0,win,20160129_u16p,4,0,1,,,,0,1,2,,,,,,1,0,,,,,5,2016,2015-16,div1,Broward,browardcollege,chriscabrerawg5h,Chris Cabrera
+Jan 30,home,State College of Florida,L,9-2,9,2,7.0,win,,,,,,,,,,,,,,,,,,,,,,,2016,2015-16,div1,Broward,browardcollege,chriscabrerawg5h,Chris Cabrera
+Jan 30,home,Calhoun,W,10-6,10,6,4.0,win,20160130_06k0,3,0,1,,,,1,1,1,,,,,,1,0,,,,,4,2016,2015-16,div1,Broward,browardcollege,chriscabrerawg5h,Chris Cabrera
+Jan 31,home,Southwest Tennessee,W,6-0,6,0,6.0,win,,,,,,,,,,,,,,,,,,,,,,,2016,2015-16,div1,Broward,browardcollege,chriscabrerawg5h,Chris Cabrera
+Feb 4,home,ASA Miami,W,12-1,12,1,11.0,win,20160204_ao5l,3,1,3,1,,,2,,,,,,,,4,1,,,,,3,2016,2015-16,div1,Broward,browardcollege,chriscabrerawg5h,Chris Cabrera
+Feb 5,home,ASA Miami,W,10-2,10,2,8.0,win,,,,,,,,,,,,,,,,,,,,,,,2016,2015-16,div1,Broward,browardcollege,chriscabrerawg5h,Chris Cabrera
+Feb 6,home,Florida SouthWestern State,W,4-3,4,3,1.0,win,20160206_hwkn,4,0,0,,,,0,,4,,,,,,0,0,,,,,4,2016,2015-16,div1,Broward,browardcollege,chriscabrerawg5h,Chris Cabrera
+Feb 11,home,Palm Beach State,L,3-0,3,0,3.0,win,20160211_14du,3,0,0,,,,0,,2,,,,,,0,0,1,,,,3,2016,2015-16,div1,Broward,browardcollege,chriscabrerawg5h,Chris Cabrera
+Feb 12,home,Chipola,L,13-7,13,7,6.0,win,20160212_dq4w,2,0,0,,,,0,,,,,,,,0,0,1,,,,2,2016,2015-16,div1,Broward,browardcollege,chriscabrerawg5h,Chris Cabrera
+Feb 13,home,St. Johns River State,L,4-3,4,3,1.0,win,20160213_f5n8,4,0,1,,,,1,,2,,,,,,1,0,,,,,4,2016,2015-16,div1,Broward,browardcollege,chriscabrerawg5h,Chris Cabrera
+Feb 14,home,Gulf Coast State,L,14-13,14,13,1.0,win,20160214_os86,1,0,0,,,,0,,,,,,,,0,0,,,,,1,2016,2015-16,div1,Broward,browardcollege,chriscabrerawg5h,Chris Cabrera
+Feb 16,home,State College of Florida,,,,,1.0,win,,,,,,,,,,,,,,,,,,,,,,,2016,2015-16,div1,Broward,browardcollege,chriscabrerawg5h,Chris Cabrera
+Feb 17,home,State College of Florida,L,6-4,6,4,2.0,win,20160217_hcns,3,0,1,,,,0,,1,,,,,,1,0,,,,,3,2016,2015-16,div1,Broward,browardcollege,chriscabrerawg5h,Chris Cabrera
+Feb 18,home,Indian River State,W,2-1,2,1,1.0,win,20160218_pooi,2,0,0,,,,0,,1,,,,,,0,0,,,,,2,2016,2015-16,div1,Broward,browardcollege,chriscabrerawg5h,Chris Cabrera
+Feb 19,home,ASA Miami,L,4-1,4,1,3.0,win,20160219_v7u8,3,1,0,,,,0,1,2,,,,,,0,0,,,,,4,2016,2015-16,div1,Broward,browardcollege,chriscabrerawg5h,Chris Cabrera
+Feb 20,home,Florida SouthWestern State,W,7-2,7,2,5.0,win,20160220_jxic,1,0,1,1,,,1,,,,,,,,2,1,,,,,1,2016,2015-16,div1,Broward,browardcollege,chriscabrerawg5h,Chris Cabrera
+Feb 23,home,Miami Dade,W,4-3,4,3,1.0,win,20160223_xjpb,4,1,1,,,1,1,,1,,,,,,4,1,,,,,4,2016,2015-16,div1,Broward,browardcollege,chriscabrerawg5h,Chris Cabrera
+Feb 24,home,St. Johns River State,L,13-2,13,2,11.0,win,20160224_i4dp,3,0,1,,,,1,,1,,1,,,,1,0,,,,,3,2016,2015-16,div1,Broward,browardcollege,chriscabrerawg5h,Chris Cabrera
+Feb 25,home,Eastern Florida State,W,5-4,5,4,1.0,win,20160225_b8zv,1,0,1,,,,0,,,,,,,,1,0,,,,,1,2016,2015-16,div1,Broward,browardcollege,chriscabrerawg5h,Chris Cabrera
+Feb 27,home,Lake-Sumter State,W,12-3,12,3,9.0,win,20160227_1juh,4,1,2,,,,1,,2,,,,,,2,0,,,,,4,2016,2015-16,div1,Broward,browardcollege,chriscabrerawg5h,Chris Cabrera
+Feb 27,home,Lake-Sumter State,W,4-0,4,0,4.0,win,,,,,,,,,,,,,,,,,,,,,,,2016,2015-16,div1,Broward,browardcollege,chriscabrerawg5h,Chris Cabrera
+Mar 1,home,Palm Beach State,L,2-1,2,1,1.0,win,20160301_o1b0,3,0,0,,,,0,,2,,,,,,0,0,,,,,3,2016,2015-16,div1,Broward,browardcollege,chriscabrerawg5h,Chris Cabrera
+Mar 2,home,Palm Beach State,W,5-4,5,4,1.0,win,20160302_02vt,1,0,0,,,,0,,,,,,,,0,0,,,,,1,2016,2015-16,div1,Broward,browardcollege,chriscabrerawg5h,Chris Cabrera
+Mar 4,home,Florida SouthWestern State,L,8-6,8,6,2.0,win,20160304_9kgm,1,0,0,,,,0,,1,,,,,,0,0,,,,,1,2016,2015-16,div1,Broward,browardcollege,chriscabrerawg5h,Chris Cabrera
+Mar 5,home,ASA Miami,W,4-3,4,3,1.0,win,20160305_wpsc,3,0,1,,,,1,,,,,,,,1,0,,,,,3,2016,2015-16,div1,Broward,browardcollege,chriscabrerawg5h,Chris Cabrera
+Mar 8,home,Miami Dade,W,7-0,7,0,7.0,win,,,,,,,,,,,,,,,,,,,,,,,2016,2015-16,div1,Broward,browardcollege,chriscabrerawg5h,Chris Cabrera
+Mar 9,home,Miami Dade,W,4-2,4,2,2.0,win,20160309_m0kn,4,0,0,,,,0,,3,,,,,,0,0,,,,,4,2016,2015-16,div1,Broward,browardcollege,chriscabrerawg5h,Chris Cabrera
+Mar 11,home,Eastern Florida State,W,8-4,8,4,4.0,win,,,,,,,,,,,,,,,,,,,,,,,2016,2015-16,div1,Broward,browardcollege,chriscabrerawg5h,Chris Cabrera
+Mar 12,home,Eastern Florida State,L,9-0,9,0,9.0,win,20160312_pnso,1,0,0,,,,0,,,,,,,,0,0,,,,,1,2016,2015-16,div1,Broward,browardcollege,chriscabrerawg5h,Chris Cabrera
+Mar 14,home,College Lafleche,W,21-10,21,10,11.0,win,20160314_4ino,3,2,1,1,,,0,2,2,1,,,,,2,1,,,,,5,2016,2015-16,div1,Broward,browardcollege,chriscabrerawg5h,Chris Cabrera
+Mar 15,home,Indian River State,L,10-8,10,8,2.0,win,,,,,,,,,,,,,,,,,,,,,,,2016,2015-16,div1,Broward,browardcollege,chriscabrerawg5h,Chris Cabrera
+Mar 16,home,Indian River State,W,3-2,3,2,1.0,win,,,,,,,,,,,,,,,,,,,,,,,2016,2015-16,div1,Broward,browardcollege,chriscabrerawg5h,Chris Cabrera
+Mar 18,home,Palm Beach State,W,10-6,10,6,4.0,win,20160318_ly5i,1,0,0,,,,0,,,,,,,,0,0,,,,,1,2016,2015-16,div1,Broward,browardcollege,chriscabrerawg5h,Chris Cabrera
+Mar 19,home,Palm Beach State,L,11-8,11,8,3.0,win,20160319_4rqf,1,0,0,,,,0,,1,,,,,,0,0,,,,,1,2016,2015-16,div1,Broward,browardcollege,chriscabrerawg5h,Chris Cabrera
+Mar 22,home,Miami Dade,L,10-0,10,0,10.0,win,,,,,,,,,,,,,,,,,,,,,,,2016,2015-16,div1,Broward,browardcollege,chriscabrerawg5h,Chris Cabrera
+Mar 23,home,Miami Dade,L,9-2,9,2,7.0,win,20160323_sla7,1,0,0,,,,0,,1,,,,,,0,0,,,,,1,2016,2015-16,div1,Broward,browardcollege,chriscabrerawg5h,Chris Cabrera
+Mar 25,home,Indian River State,W,8-6,8,6,2.0,win,,,,,,,,,,,,,,,,,,,,,,,2016,2015-16,div1,Broward,browardcollege,chriscabrerawg5h,Chris Cabrera
+Mar 26,home,Indian River State,W,11-1,11,1,10.0,win,20160326_x03h,3,0,1,,,,0,,,,,,,,1,0,,,,,3,2016,2015-16,div1,Broward,browardcollege,chriscabrerawg5h,Chris Cabrera
+Mar 28,home,St. Thomas University (Junior Varsity),W,3-1,3,1,2.0,win,20160328_6935,4,0,0,,,,0,,,,,,,,0,0,,,,,4,2016,2015-16,div1,Broward,browardcollege,chriscabrerawg5h,Chris Cabrera
+Apr 1,home,Eastern Florida State,L,4-0,4,0,4.0,win,,,,,,,,,,,,,,,,,,,,,,,2016,2015-16,div1,Broward,browardcollege,chriscabrerawg5h,Chris Cabrera
+Apr 2,home,Eastern Florida State,W,13-6,13,6,7.0,win,20160402_05dt,2,0,0,,,,0,,1,,,,,,0,0,,,,,2,2016,2015-16,div1,Broward,browardcollege,chriscabrerawg5h,Chris Cabrera
+Apr 4,home,Keiser University (Junior Varsity),W,21-6,21,6,15.0,win,20160404_6m6u,4,1,2,2,,,5,1,2,,,,,,4,2,,,,,5,2016,2015-16,div1,Broward,browardcollege,chriscabrerawg5h,Chris Cabrera
+Apr 5,home,Palm Beach State,L,4-2,4,2,2.0,win,,,,,,,,,,,,,,,,,,,,,,,2016,2015-16,div1,Broward,browardcollege,chriscabrerawg5h,Chris Cabrera
+Apr 6,home,Palm Beach State,L,4-2,4,2,2.0,win,20160406_3n5l,0,0,0,,,,0,1,,,,,,,0,0,,,,,1,2016,2015-16,div1,Broward,browardcollege,chriscabrerawg5h,Chris Cabrera
+Apr 8,home,Eastern Florida State,L,2-1,2,1,1.0,win,20160408_pgeq,4,0,0,,,,0,,1,,,,,,0,0,,,,,4,2016,2015-16,div1,Broward,browardcollege,chriscabrerawg5h,Chris Cabrera
+Apr 9,home,Eastern Florida State,W,9-8,9,8,1.0,win,20160409_oh2s,1,1,0,,,,0,1,1,,,,,,0,0,,,,,2,2016,2015-16,div1,Broward,browardcollege,chriscabrerawg5h,Chris Cabrera
+Apr 12,home,ASA Miami,W,19-5,19,5,14.0,win,20160412_4fho,3,0,1,1,,,0,,,,,,,,2,1,,,,,3,2016,2015-16,div1,Broward,browardcollege,chriscabrerawg5h,Chris Cabrera
+Apr 13,home,Keiser University (Junior Varsity),W,11-3,11,3,8.0,win,20160413_o21p,1,0,0,,,,0,1,,1,,,,,0,0,,,,,2,2016,2015-16,div1,Broward,browardcollege,chriscabrerawg5h,Chris Cabrera
+Apr 14,home,St. Thomas University (Junior Varsity),W,7-4,7,4,3.0,win,,,,,,,,,,,,,,,,,,,,,,,2016,2015-16,div1,Broward,browardcollege,chriscabrerawg5h,Chris Cabrera
+Apr 15,home,Indian River State,W,12-6,12,6,6.0,win,,,,,,,,,,,,,,,,,,,,,,,2016,2015-16,div1,Broward,browardcollege,chriscabrerawg5h,Chris Cabrera
+Apr 17,home,Indian River State,W,4-1,4,1,3.0,win,,,,,,,,,,,,,,,,,,,,,,,2016,2015-16,div1,Broward,browardcollege,chriscabrerawg5h,Chris Cabrera
+Apr 19,home,Miami Dade,W,4-0,4,0,4.0,win,,,,,,,,,,,,,,,,,,,,,,,2016,2015-16,div1,Broward,browardcollege,chriscabrerawg5h,Chris Cabrera
+Apr 20,home,Miami Dade,W,2-1,2,1,1.0,win,20160420_7goa,1,0,0,,,,0,,,,,,,,0,0,,,,,1,2016,2015-16,div1,Broward,browardcollege,chriscabrerawg5h,Chris Cabrera
+May 15,home,Gulf Coast State,L,5-3,5,3,2.0,win,,,,,,,,,,,,,,,,,,,,,,,2016,2015-16,div1,Broward,browardcollege,chriscabrerawg5h,Chris Cabrera
+May 16,home,Northwest Florida State,L,7-5,7,5,2.0,win,,,,,,,,,,,,,,,,,,,,,,,2016,2015-16,div1,Broward,browardcollege,chriscabrerawg5h,Chris Cabrera

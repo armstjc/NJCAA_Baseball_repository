@@ -1,22 +1,51 @@
-date,location,opponent,result,score,team_score,opp_score,game_score_diff_x,game_win_loss_x,game_id_x,AB,R,H,2B,3B,HR,RBI,BB,K,SB,CS,game_score_diff_y,game_win_loss_y,game_id_y,HBP,SF,SH,TB,XBH,HDP,GO,FO,GO/FO,PA,season,njcaa_season,njcaa_division,team,team_id,player_id,player_name
-Jan 30,home,Panola,L,13-8,13,8,5.0,win,,,,,,,,,,,,,5.0,win,,,,,,,,,,,,2016,2015-16,div1,Baton Rouge,batonrougecommunitycollege,mckaymoutonmd4j,McKay Mouton
-Jan 30,home,Panola,L,6-1,6,1,5.0,win,,,,,,,,,,,,,5.0,win,,,,,,,,,,,,2016,2015-16,div1,Baton Rouge,batonrougecommunitycollege,mckaymoutonmd4j,McKay Mouton
-Jan 31,home,Panola,L,21-16,21,16,5.0,win,20160131_p8pe,0,0,0,,,,0,,,,,5.0,win,20160131_p8pe,,,,0,0,,,,,0,2016,2015-16,div1,Baton Rouge,batonrougecommunitycollege,mckaymoutonmd4j,McKay Mouton
-Feb 9,home,Mississippi Gulf Coast,L,11-10,11,10,1.0,win,,,,,,,,,,,,,1.0,win,,,,,,,,,,,,2016,2015-16,div1,Baton Rouge,batonrougecommunitycollege,mckaymoutonmd4j,McKay Mouton
-Feb 9,home,Mississippi Gulf Coast,L,10-1,10,1,9.0,win,20160209_lud2,3,0,0,,,,0,1,1,,,9.0,win,20160209_lud2,,,,0,0,,2,,,4,2016,2015-16,div1,Baton Rouge,batonrougecommunitycollege,mckaymoutonmd4j,McKay Mouton
-Feb 13,home,St. Louis,W,10-4,10,4,6.0,win,20160213_4gtn,5,1,1,,,,0,,2,,,6.0,win,20160213_4gtn,,,,1,0,,1,1,1.00,5,2016,2015-16,div1,Baton Rouge,batonrougecommunitycollege,mckaymoutonmd4j,McKay Mouton
-Feb 13,home,Bossier Parish,W,7-2,7,2,5.0,win,,,,,,,,,,,,,5.0,win,,,,,,,,,,,,2016,2015-16,div1,Baton Rouge,batonrougecommunitycollege,mckaymoutonmd4j,McKay Mouton
-Feb 14,home,St. Louis,W,9-7,9,7,2.0,win,20160214_bylg,4,1,2,1,,,1,,1,,,2.0,win,20160214_bylg,,,,3,1,,1,,,4,2016,2015-16,div1,Baton Rouge,batonrougecommunitycollege,mckaymoutonmd4j,McKay Mouton
-Feb 16,home,East Central (MS),L,19-17,19,17,2.0,win,20160216_krxt,4,3,2,,,1,1,,,,,2.0,win,20160216_krxt,,,,5,1,1,1,,,4,2016,2015-16,div1,Baton Rouge,batonrougecommunitycollege,mckaymoutonmd4j,McKay Mouton
-Feb 16,home,East Central (MS),W,5-4,5,4,1.0,win,20160216_d6xy,4,0,0,,,,0,,2,,,1.0,win,20160216_d6xy,,,,0,0,,,1,,4,2016,2015-16,div1,Baton Rouge,batonrougecommunitycollege,mckaymoutonmd4j,McKay Mouton
-Feb 27,home,Hinds,W,9-8,9,8,1.0,win,20160227_9le8,2,0,0,,,,0,,1,,,1.0,win,20160227_9le8,,,,0,0,,1,,,2,2016,2015-16,div1,Baton Rouge,batonrougecommunitycollege,mckaymoutonmd4j,McKay Mouton
-Feb 27,home,Hinds,W,8-7,8,7,1.0,win,20160227_ndec,2,2,0,,,,0,1,1,1,,1.0,win,20160227_ndec,,,1,0,0,,,,,4,2016,2015-16,div1,Baton Rouge,batonrougecommunitycollege,mckaymoutonmd4j,McKay Mouton
-Mar 2,home,Jones,L,15-11,15,11,4.0,win,20160302_lo5l,3,3,2,,1,,1,2,1,,,4.0,win,20160302_lo5l,,,,4,1,,,,,5,2016,2015-16,div1,Baton Rouge,batonrougecommunitycollege,mckaymoutonmd4j,McKay Mouton
-Mar 2,home,Jones,L,8-3,8,3,5.0,win,20160302_2ste,2,0,1,,,,0,,1,,,5.0,win,20160302_2ste,,,1,1,0,,,,,3,2016,2015-16,div1,Baton Rouge,batonrougecommunitycollege,mckaymoutonmd4j,McKay Mouton
-Mar 6,home,Pearl River,L,9-2,9,2,7.0,win,20160306_t1p3,5,0,0,,,,0,,1,,,7.0,win,20160306_t1p3,,,,0,0,,2,2,1.00,5,2016,2015-16,div1,Baton Rouge,batonrougecommunitycollege,mckaymoutonmd4j,McKay Mouton
-Mar 6,home,Pearl River,L,12-4,12,4,8.0,win,,,,,,,,,,,,,8.0,win,,,,,,,,,,,,2016,2015-16,div1,Baton Rouge,batonrougecommunitycollege,mckaymoutonmd4j,McKay Mouton
-Mar 22,home,Copiah-Lincoln,L,10-6,10,6,4.0,win,20160322_tb1y,0,0,0,,,,0,,,,,4.0,win,20160322_tb1y,,1,,0,0,,,,,1,2016,2015-16,div1,Baton Rouge,batonrougecommunitycollege,mckaymoutonmd4j,McKay Mouton
-Mar 22,home,Copiah-Lincoln,W,8-3,8,3,5.0,win,20160322_d4v6,3,0,0,,,,0,,,,1,5.0,win,20160322_d4v6,1,,,0,0,,1,2,0.50,4,2016,2015-16,div1,Baton Rouge,batonrougecommunitycollege,mckaymoutonmd4j,McKay Mouton
-Apr 6,home,Southwest Mississippi,L,7-6,7,6,1.0,win,20160406_t9ux,3,1,1,,,,0,,,,,1.0,win,20160406_t9ux,,,,1,0,,,2,,3,2016,2015-16,div1,Baton Rouge,batonrougecommunitycollege,mckaymoutonmd4j,McKay Mouton
-Apr 11,home,Wharton County,L,3-1,3,1,2.0,win,,,,,,,,,,,,,2.0,win,,,,,,,,,,,,2016,2015-16,div1,Baton Rouge,batonrougecommunitycollege,mckaymoutonmd4j,McKay Mouton
-Apr 24,home,Delgado,L,11-1,11,1,10.0,win,20160424_tfui,1,0,1,1,,,0,,,,1,10.0,win,20160424_tfui,1,,,2,1,,,,,2,2016,2015-16,div1,Baton Rouge,batonrougecommunitycollege,mckaymoutonmd4j,McKay Mouton
+date,location,opponent,result,score,team_score,opp_score,game_score_diff,game_win_loss,game_id,AB,R,H,2B,3B,HR,RBI,BB,K,SB,CS,HBP,SF,SH,TB,XBH,HDP,GO,FO,GO/FO,PA,season,njcaa_season,njcaa_division,team,team_id,player_id,player_name
+Jan 30,home,Panola,L,13-8,13,8,5.0,win,,,,,,,,,,,,,,,,,,,,,,,2016,2015-16,div1,Baton Rouge,batonrougecommunitycollege,mckaymoutonmd4j,McKay Mouton
+Jan 30,home,Panola,L,6-1,6,1,5.0,win,,,,,,,,,,,,,,,,,,,,,,,2016,2015-16,div1,Baton Rouge,batonrougecommunitycollege,mckaymoutonmd4j,McKay Mouton
+Jan 31,home,Panola,L,21-16,21,16,5.0,win,20160131_p8pe,0,0,0,,,,0,,,,,,,,0,0,,,,,0,2016,2015-16,div1,Baton Rouge,batonrougecommunitycollege,mckaymoutonmd4j,McKay Mouton
+Feb 5,home,Odessa,L,11-0,11,0,11.0,win,20160205_4rp3,2,0,0,,,,0,,1,,,,,,0,0,,,,,2,2016,2015-16,div1,Baton Rouge,batonrougecommunitycollege,mckaymoutonmd4j,McKay Mouton
+Feb 6,home,New Mexico,W,11-3,11,3,8.0,win,,,,,,,,,,,,,,,,,,,,,,,2016,2015-16,div1,Baton Rouge,batonrougecommunitycollege,mckaymoutonmd4j,McKay Mouton
+Feb 7,home,Howard (TX),W,28-15,28,15,13.0,win,20160207_0sot,5,4,4,,,,2,,,1,,2,,,4,0,,,1,,7,2016,2015-16,div1,Baton Rouge,batonrougecommunitycollege,mckaymoutonmd4j,McKay Mouton
+Feb 7,home,Weatherford,L,7-5,7,5,2.0,win,20160207_3t87,0,0,0,,,,0,1,,,,,,,0,0,,,,,1,2016,2015-16,div1,Baton Rouge,batonrougecommunitycollege,mckaymoutonmd4j,McKay Mouton
+Feb 9,home,Mississippi Gulf Coast,L,11-10,11,10,1.0,win,,,,,,,,,,,,,,,,,,,,,,,2016,2015-16,div1,Baton Rouge,batonrougecommunitycollege,mckaymoutonmd4j,McKay Mouton
+Feb 9,home,Mississippi Gulf Coast,L,10-1,10,1,9.0,win,20160209_lud2,3,0,0,,,,0,1,1,,,,,,0,0,,2,,,4,2016,2015-16,div1,Baton Rouge,batonrougecommunitycollege,mckaymoutonmd4j,McKay Mouton
+Feb 13,home,St. Louis,W,10-4,10,4,6.0,win,20160213_4gtn,5,1,1,,,,0,,2,,,,,,1,0,,1,1,1.00,5,2016,2015-16,div1,Baton Rouge,batonrougecommunitycollege,mckaymoutonmd4j,McKay Mouton
+Feb 13,home,Bossier Parish,W,7-2,7,2,5.0,win,,,,,,,,,,,,,,,,,,,,,,,2016,2015-16,div1,Baton Rouge,batonrougecommunitycollege,mckaymoutonmd4j,McKay Mouton
+Feb 14,home,St. Louis,W,9-7,9,7,2.0,win,20160214_bylg,4,1,2,1,,,1,,1,,,,,,3,1,,1,,,4,2016,2015-16,div1,Baton Rouge,batonrougecommunitycollege,mckaymoutonmd4j,McKay Mouton
+Feb 16,home,East Central (MS),L,19-17,19,17,2.0,win,20160216_krxt,4,3,2,,,1,1,,,,,,,,5,1,1,1,,,4,2016,2015-16,div1,Baton Rouge,batonrougecommunitycollege,mckaymoutonmd4j,McKay Mouton
+Feb 16,home,East Central (MS),W,5-4,5,4,1.0,win,20160216_d6xy,4,0,0,,,,0,,2,,,,,,0,0,,,1,,4,2016,2015-16,div1,Baton Rouge,batonrougecommunitycollege,mckaymoutonmd4j,McKay Mouton
+Feb 17,home,Jones,L,27-5,27,5,22.0,win,20160217_hks8,2,1,1,,,1,2,,,,,,1,,4,1,,1,,,3,2016,2015-16,div1,Baton Rouge,batonrougecommunitycollege,mckaymoutonmd4j,McKay Mouton
+Feb 17,home,Jones,L,14-0,14,0,14.0,win,20160217_qjsz,1,0,0,,,,0,1,,,,,,,0,0,,1,,,2,2016,2015-16,div1,Baton Rouge,batonrougecommunitycollege,mckaymoutonmd4j,McKay Mouton
+Feb 20,home,Wallace State,L,9-5,9,5,4.0,win,20160220_rmo8,2,0,0,,,,0,2,1,,,,,,0,0,,,,,4,2016,2015-16,div1,Baton Rouge,batonrougecommunitycollege,mckaymoutonmd4j,McKay Mouton
+Feb 20,home,Coastal Alabama - Bay Minette,L,4-3,4,3,1.0,win,20160220_f3ft,4,0,0,,,,0,,2,,,,,,0,0,,2,,,4,2016,2015-16,div1,Baton Rouge,batonrougecommunitycollege,mckaymoutonmd4j,McKay Mouton
+Feb 25,home,Copiah-Lincoln,W,7-5,7,5,2.0,win,20160225_5ady,5,1,1,,,,0,,1,,,,,,1,0,,1,2,0.50,5,2016,2015-16,div1,Baton Rouge,batonrougecommunitycollege,mckaymoutonmd4j,McKay Mouton
+Feb 25,home,Copiah-Lincoln,W,6-3,6,3,3.0,win,20160225_bkl8,2,1,0,,,,0,1,,,,1,,,0,0,,,2,,4,2016,2015-16,div1,Baton Rouge,batonrougecommunitycollege,mckaymoutonmd4j,McKay Mouton
+Feb 27,home,Hinds,W,9-8,9,8,1.0,win,20160227_9le8,2,0,0,,,,0,,1,,,,,,0,0,,1,,,2,2016,2015-16,div1,Baton Rouge,batonrougecommunitycollege,mckaymoutonmd4j,McKay Mouton
+Feb 27,home,Hinds,W,8-7,8,7,1.0,win,20160227_ndec,2,2,0,,,,0,1,1,1,,,,1,0,0,,,,,4,2016,2015-16,div1,Baton Rouge,batonrougecommunitycollege,mckaymoutonmd4j,McKay Mouton
+Feb 28,home,Pearl River,L,8-7,8,7,1.0,win,20160228_wyk1,2,1,0,,,,0,1,,,,,,1,0,0,,1,,,4,2016,2015-16,div1,Baton Rouge,batonrougecommunitycollege,mckaymoutonmd4j,McKay Mouton
+Feb 28,home,Pearl River,L,11-1,11,1,10.0,win,,,,,,,,,,,,,,,,,,,,,,,2016,2015-16,div1,Baton Rouge,batonrougecommunitycollege,mckaymoutonmd4j,McKay Mouton
+Mar 2,home,Jones,L,15-11,15,11,4.0,win,20160302_lo5l,3,3,2,,1,,1,2,1,,,,,,4,1,,,,,5,2016,2015-16,div1,Baton Rouge,batonrougecommunitycollege,mckaymoutonmd4j,McKay Mouton
+Mar 2,home,Jones,L,8-3,8,3,5.0,win,20160302_2ste,2,0,1,,,,0,,1,,,,,1,1,0,,,,,3,2016,2015-16,div1,Baton Rouge,batonrougecommunitycollege,mckaymoutonmd4j,McKay Mouton
+Mar 5,home,Mississippi Gulf Coast,L,4-3,4,3,1.0,win,20160305_fmep,4,0,2,1,,,0,,,,,,,,3,1,,2,,,4,2016,2015-16,div1,Baton Rouge,batonrougecommunitycollege,mckaymoutonmd4j,McKay Mouton
+Mar 5,home,Mississippi Gulf Coast,W,7-4,7,4,3.0,win,20160305_whvb,1,1,1,,,,0,,,,,,,,1,0,,,,,1,2016,2015-16,div1,Baton Rouge,batonrougecommunitycollege,mckaymoutonmd4j,McKay Mouton
+Mar 6,home,Pearl River,L,9-2,9,2,7.0,win,20160306_t1p3,5,0,0,,,,0,,1,,,,,,0,0,,2,2,1.00,5,2016,2015-16,div1,Baton Rouge,batonrougecommunitycollege,mckaymoutonmd4j,McKay Mouton
+Mar 6,home,Pearl River,L,12-4,12,4,8.0,win,,,,,,,,,,,,,,,,,,,,,,,2016,2015-16,div1,Baton Rouge,batonrougecommunitycollege,mckaymoutonmd4j,McKay Mouton
+Mar 10,home,South Suburban,W,15-4,15,4,11.0,win,20160310_1ghx,4,1,1,,,,1,,,,,,1,,1,0,,,,,5,2016,2015-16,div1,Baton Rouge,batonrougecommunitycollege,mckaymoutonmd4j,McKay Mouton
+Mar 19,home,Pensacola State,W,9-0,9,0,9.0,win,20160319_z85i,2,0,0,,,,1,,,,,,,,0,0,,1,1,1.00,2,2016,2015-16,div1,Baton Rouge,batonrougecommunitycollege,mckaymoutonmd4j,McKay Mouton
+Mar 22,home,Copiah-Lincoln,L,10-6,10,6,4.0,win,20160322_tb1y,0,0,0,,,,0,,,,,,1,,0,0,,,,,1,2016,2015-16,div1,Baton Rouge,batonrougecommunitycollege,mckaymoutonmd4j,McKay Mouton
+Mar 22,home,Copiah-Lincoln,W,8-3,8,3,5.0,win,20160322_d4v6,3,0,0,,,,0,,,,1,1,,,0,0,,1,2,0.50,4,2016,2015-16,div1,Baton Rouge,batonrougecommunitycollege,mckaymoutonmd4j,McKay Mouton
+Mar 25,home,Hinds,L,13-7,13,7,6.0,win,,,,,,,,,,,,,,,,,,,,,,,2016,2015-16,div1,Baton Rouge,batonrougecommunitycollege,mckaymoutonmd4j,McKay Mouton
+Mar 25,home,Hinds,W,9-3,9,3,6.0,win,,,,,,,,,,,,,,,,,,,,,,,2016,2015-16,div1,Baton Rouge,batonrougecommunitycollege,mckaymoutonmd4j,McKay Mouton
+Mar 28,home,Wharton County,L,7-6,7,6,1.0,win,20160328_f4fm,5,0,1,,,,0,,1,,,,,,1,0,,2,1,2.00,5,2016,2015-16,div1,Baton Rouge,batonrougecommunitycollege,mckaymoutonmd4j,McKay Mouton
+Apr 5,home,Southwest Mississippi,W,2-1,2,1,1.0,win,20160405_e6l7,3,1,2,,,,0,,,,,,,,2,0,,1,,,3,2016,2015-16,div1,Baton Rouge,batonrougecommunitycollege,mckaymoutonmd4j,McKay Mouton
+Apr 5,home,Southwest Mississippi,W,13-3,13,3,10.0,win,,,,,,,,,,,,,,,,,,,,,,,2016,2015-16,div1,Baton Rouge,batonrougecommunitycollege,mckaymoutonmd4j,McKay Mouton
+Apr 6,home,Southwest Mississippi,L,7-6,7,6,1.0,win,20160406_t9ux,3,1,1,,,,0,,,,,,,,1,0,,,2,,3,2016,2015-16,div1,Baton Rouge,batonrougecommunitycollege,mckaymoutonmd4j,McKay Mouton
+Apr 11,home,Wharton County,L,3-1,3,1,2.0,win,,,,,,,,,,,,,,,,,,,,,,,2016,2015-16,div1,Baton Rouge,batonrougecommunitycollege,mckaymoutonmd4j,McKay Mouton
+Apr 12,home,San Jacinto,L,3-2,3,2,1.0,win,20160412_21cm,2,0,1,,,,1,2,,,,,,,1,0,,1,,,4,2016,2015-16,div1,Baton Rouge,batonrougecommunitycollege,mckaymoutonmd4j,McKay Mouton
+Apr 12,home,San Jacinto,L,3-1,3,1,2.0,win,20160412_qjju,2,1,1,,,,0,1,,,1,,,,1,0,,1,,,3,2016,2015-16,div1,Baton Rouge,batonrougecommunitycollege,mckaymoutonmd4j,McKay Mouton
+Apr 23,home,Delgado,L,13-10,13,10,3.0,win,20160423_fwd2,5,2,2,,,,1,,1,,,,,,2,0,,1,1,1.00,5,2016,2015-16,div1,Baton Rouge,batonrougecommunitycollege,mckaymoutonmd4j,McKay Mouton
+Apr 24,home,Delgado,L,11-1,11,1,10.0,win,20160424_tfui,1,0,1,1,,,0,,,,1,1,,,2,1,,,,,2,2016,2015-16,div1,Baton Rouge,batonrougecommunitycollege,mckaymoutonmd4j,McKay Mouton
+Apr 26,home,Galveston,L,4-2,4,2,2.0,win,20160426_ve2b,4,0,1,,,,0,,,,,,,,1,0,,1,2,0.50,4,2016,2015-16,div1,Baton Rouge,batonrougecommunitycollege,mckaymoutonmd4j,McKay Mouton
+May 3,home,Delgado,L,8-5,8,5,3.0,win,20160503_42jp,5,1,2,,,,0,,,1,,,,,2,0,,2,1,2.00,5,2016,2015-16,div1,Baton Rouge,batonrougecommunitycollege,mckaymoutonmd4j,McKay Mouton
+May 4,home,Delgado,W,5-3,5,3,2.0,win,20160504_qo3a,5,0,1,,,,0,,2,,,,,,1,0,,1,1,1.00,5,2016,2015-16,div1,Baton Rouge,batonrougecommunitycollege,mckaymoutonmd4j,McKay Mouton
+May 7,home,Delgado,W,12-10,12,10,2.0,win,20160507_7niy,5,3,4,3,,,0,1,,,,,,,7,3,,1,,,6,2016,2015-16,div1,Baton Rouge,batonrougecommunitycollege,mckaymoutonmd4j,McKay Mouton
+May 8,home,Delgado,L,11-3,11,3,8.0,win,20160508_z6e0,3,0,0,,,,0,1,,,,,,,0,0,,1,2,0.50,4,2016,2015-16,div1,Baton Rouge,batonrougecommunitycollege,mckaymoutonmd4j,McKay Mouton
