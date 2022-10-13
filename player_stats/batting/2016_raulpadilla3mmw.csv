@@ -1,20 +1,58 @@
-date,location,opponent,result,score,team_score,opp_score,game_score_diff_x,game_win_loss_x,game_id_x,AB,R,H,2B,3B,HR,RBI,BB,K,SB,CS,game_score_diff_y,game_win_loss_y,game_id_y,HBP,SF,SH,TB,XBH,HDP,GO,FO,GO/FO,PA,season,njcaa_season,njcaa_division,team,team_id,player_id,player_name
-Mar 23,home,Prairie State,W,11-0,11,0,11.0,win,20160323_l7gd,3,1,2,1,,,0,,,,,11.0,win,20160323_l7gd,,,,3,1,,1,,,3,2016,2015-16,div1,Muscatine,muscatinecommunitycollege,raulpadilla3mmw,Raul Padilla
-Mar 23,home,Prairie State,L,8-5,8,5,3.0,win,20160323_y3xb,1,0,0,,,,0,,1,,,3.0,win,20160323_y3xb,,,,0,0,,,,,1,2016,2015-16,div1,Muscatine,muscatinecommunitycollege,raulpadilla3mmw,Raul Padilla
-Mar 30,home,Carl Sandburg,W,13-12,13,12,1.0,win,20160330_uei8,5,2,3,,,,2,,,1,,1.0,win,20160330_uei8,,,,3,0,,2,,,5,2016,2015-16,div1,Muscatine,muscatinecommunitycollege,raulpadilla3mmw,Raul Padilla
-Apr 2,home,Marshalltown,L,7-5,7,5,2.0,win,20160402_8zmv,2,0,0,,,,0,1,2,,1,2.0,win,20160402_8zmv,,,,0,0,,,,,3,2016,2015-16,div1,Muscatine,muscatinecommunitycollege,raulpadilla3mmw,Raul Padilla
-Apr 2,home,Marshalltown,L,10-2,10,2,8.0,win,20160402_e0vk,2,0,0,,,,0,,2,,,8.0,win,20160402_e0vk,,,,0,0,,,,,2,2016,2015-16,div1,Muscatine,muscatinecommunitycollege,raulpadilla3mmw,Raul Padilla
-Apr 3,home,Marshalltown,L,11-1,11,1,10.0,win,20160403_rt2r,2,0,0,,,,0,,1,,,10.0,win,20160403_rt2r,,,,0,0,,,,,2,2016,2015-16,div1,Muscatine,muscatinecommunitycollege,raulpadilla3mmw,Raul Padilla
-Apr 3,home,Marshalltown,W,10-9,10,9,1.0,win,,,,,,,,,,,,,1.0,win,,,,,,,,,,,,2016,2015-16,div1,Muscatine,muscatinecommunitycollege,raulpadilla3mmw,Raul Padilla
-Apr 9,home,Indian Hills,L,3-0,3,0,3.0,win,20160409_vqug,3,0,0,,,,0,,1,,,3.0,win,20160409_vqug,,,,0,0,,2,,,3,2016,2015-16,div1,Muscatine,muscatinecommunitycollege,raulpadilla3mmw,Raul Padilla
-Apr 9,home,Indian Hills,L,7-1,7,1,6.0,win,20160409_nhwf,1,0,0,,,,0,,1,,,6.0,win,20160409_nhwf,,,,0,0,,,,,1,2016,2015-16,div1,Muscatine,muscatinecommunitycollege,raulpadilla3mmw,Raul Padilla
-Apr 10,home,Indian Hills,W,4-1,4,1,3.0,win,20160410_pkkz,1,0,0,,,,0,,1,,,3.0,win,20160410_pkkz,,,1,0,0,,1,,,2,2016,2015-16,div1,Muscatine,muscatinecommunitycollege,raulpadilla3mmw,Raul Padilla
-Apr 10,home,Indian Hills,L,18-2,18,2,16.0,win,20160410_tv8j,2,0,0,,,,0,,1,,,16.0,win,20160410_tv8j,,,,0,0,,,1,,2,2016,2015-16,div1,Muscatine,muscatinecommunitycollege,raulpadilla3mmw,Raul Padilla
-Apr 12,home,Iowa Central,L,13-3,13,3,10.0,win,20160412_jrt2,2,0,0,,,,0,,,,,10.0,win,20160412_jrt2,,,,0,0,,1,1,1.00,2,2016,2015-16,div1,Muscatine,muscatinecommunitycollege,raulpadilla3mmw,Raul Padilla
-Apr 19,home,Southeastern,L,5-4,5,4,1.0,win,20160419_6ir9,5,0,2,,,,1,,,,,1.0,win,20160419_6ir9,,,,2,0,,,3,,5,2016,2015-16,div1,Muscatine,muscatinecommunitycollege,raulpadilla3mmw,Raul Padilla
-Apr 28,home,Augustana College,W,6-3,6,3,3.0,win,20160428_wfn3,3,0,1,,,,1,,,,,3.0,win,20160428_wfn3,,,,1,0,,2,,,3,2016,2015-16,div1,Muscatine,muscatinecommunitycollege,raulpadilla3mmw,Raul Padilla
-Apr 28,home,Augustana College,L,12-11,12,11,1.0,win,20160428_dvg6,4,0,2,2,,,2,,1,,,1.0,win,20160428_dvg6,,,,4,2,,1,,,4,2016,2015-16,div1,Muscatine,muscatinecommunitycollege,raulpadilla3mmw,Raul Padilla
-May 7,home,Iowa Western,L,5-0,5,0,5.0,win,20160507_yi5c,2,0,0,,,,0,,,,,5.0,win,20160507_yi5c,,,1,0,0,,2,1,2.00,3,2016,2015-16,div1,Muscatine,muscatinecommunitycollege,raulpadilla3mmw,Raul Padilla
-May 7,home,Iowa Western,L,2-1,2,1,1.0,win,20160507_v8ch,2,0,0,,,,0,,2,,,1.0,win,20160507_v8ch,,,,0,0,,,,,2,2016,2015-16,div1,Muscatine,muscatinecommunitycollege,raulpadilla3mmw,Raul Padilla
-May 8,home,Iowa Western,L,19-2,19,2,17.0,win,20160508_pc9i,1,1,1,1,,,1,1,,,,17.0,win,20160508_pc9i,,,,2,1,,,,,2,2016,2015-16,div1,Muscatine,muscatinecommunitycollege,raulpadilla3mmw,Raul Padilla
-May 8,home,Iowa Western,L,14-0,14,0,14.0,win,20160508_g67u,0,0,0,,,,0,,,,,14.0,win,20160508_g67u,,,,0,0,,,,,0,2016,2015-16,div1,Muscatine,muscatinecommunitycollege,raulpadilla3mmw,Raul Padilla
+date,location,opponent,result,score,team_score,opp_score,game_score_diff,game_win_loss,game_id,AB,R,H,2B,3B,HR,RBI,BB,K,SB,CS,HBP,SF,SH,TB,XBH,HDP,GO,FO,GO/FO,PA,season,njcaa_season,njcaa_division,team,team_id,player_id,player_name
+Feb 27,home,Parkland,L,8-3,8,3,5.0,win,20160227_z7i9,2,1,0,,,,0,1,1,,,,,,0,0,,,1,,3,2016,2015-16,div1,Muscatine,muscatinecommunitycollege,raulpadilla3mmw,Raul Padilla
+Feb 27,home,Southeastern Illinois,W,4-0,4,0,4.0,win,20160227_jx7w,4,0,1,1,,,0,,1,,,,,,2,1,,2,,,4,2016,2015-16,div1,Muscatine,muscatinecommunitycollege,raulpadilla3mmw,Raul Padilla
+Feb 28,home,Southeastern Illinois,L,8-4,8,4,4.0,win,20160228_mfx0,1,0,0,,,,0,,1,,,,,,0,0,,,,,1,2016,2015-16,div1,Muscatine,muscatinecommunitycollege,raulpadilla3mmw,Raul Padilla
+Feb 28,home,Parkland,L,10-0,10,0,10.0,win,,,,,,,,,,,,,,,,,,,,,,,2016,2015-16,div1,Muscatine,muscatinecommunitycollege,raulpadilla3mmw,Raul Padilla
+Mar 4,home,Rend Lake,W,6-2,6,2,4.0,win,20160304_7gps,4,0,2,1,,,1,,2,,,,,,3,1,,,,,4,2016,2015-16,div1,Muscatine,muscatinecommunitycollege,raulpadilla3mmw,Raul Padilla
+Mar 4,home,Lake Land,W,12-2,12,2,10.0,win,20160304_491x,4,1,2,,,1,3,,,1,,,,,5,1,,,1,,4,2016,2015-16,div1,Muscatine,muscatinecommunitycollege,raulpadilla3mmw,Raul Padilla
+Mar 5,home,Parkland,L,11-1,11,1,10.0,win,20160305_w5xr,1,0,0,,,,0,,1,,,,,,0,0,,,,,1,2016,2015-16,div1,Muscatine,muscatinecommunitycollege,raulpadilla3mmw,Raul Padilla
+Mar 5,home,Lincoln Trail,L,18-0,18,0,18.0,win,20160305_zxf1,1,0,0,,,,0,,,,,,,,0,0,,1,,,1,2016,2015-16,div1,Muscatine,muscatinecommunitycollege,raulpadilla3mmw,Raul Padilla
+Mar 6,home,Lakeland,W,17-2,17,2,15.0,win,,,,,,,,,,,,,,,,,,,,,,,2016,2015-16,div1,Muscatine,muscatinecommunitycollege,raulpadilla3mmw,Raul Padilla
+Mar 13,home,Oakton,W,7-2,7,2,5.0,win,20160313_c2tq,2,1,1,,,,1,1,,,,,,,1,0,,,1,,3,2016,2015-16,div1,Muscatine,muscatinecommunitycollege,raulpadilla3mmw,Raul Padilla
+Mar 13,home,Oakton,W,11-4,11,4,7.0,win,20160313_jnur,3,2,2,,1,,0,,1,,,,,,4,1,,1,,,3,2016,2015-16,div1,Muscatine,muscatinecommunitycollege,raulpadilla3mmw,Raul Padilla
+Mar 14,home,Kishwaukee,L,8-4,8,4,4.0,win,20160314_618q,2,0,1,,,,0,,1,,,1,,,1,0,,,,,3,2016,2015-16,div1,Muscatine,muscatinecommunitycollege,raulpadilla3mmw,Raul Padilla
+Mar 14,home,Kishwaukee,W,8-4,8,4,4.0,win,20160314_1xny,2,1,0,,,,0,2,,,,,,,0,0,,,2,,4,2016,2015-16,div1,Muscatine,muscatinecommunitycollege,raulpadilla3mmw,Raul Padilla
+Mar 15,home,RCSJ Gloucester,W,21-7,21,7,14.0,win,20160315_emzq,4,2,1,,,,0,1,,,,,,,1,0,,2,1,2.00,5,2016,2015-16,div1,Muscatine,muscatinecommunitycollege,raulpadilla3mmw,Raul Padilla
+Mar 17,home,Northern Essex,W,6-2,6,2,4.0,win,20160317_8iye,3,0,0,,,,0,,2,,,,,,0,0,,1,,,3,2016,2015-16,div1,Muscatine,muscatinecommunitycollege,raulpadilla3mmw,Raul Padilla
+Mar 17,home,Northern Essex,W,13-3,13,3,10.0,win,20160317_v1nf,1,0,1,,,,0,,,,,,,,1,0,,,,,1,2016,2015-16,div1,Muscatine,muscatinecommunitycollege,raulpadilla3mmw,Raul Padilla
+Mar 18,home,Delgado,L,6-2,6,2,4.0,win,,,,,,,,,,,,,,,,,,,,,,,2016,2015-16,div1,Muscatine,muscatinecommunitycollege,raulpadilla3mmw,Raul Padilla
+Mar 18,home,Delgado,L,10-0,10,0,10.0,win,,,,,,,,,,,,,,,,,,,,,,,2016,2015-16,div1,Muscatine,muscatinecommunitycollege,raulpadilla3mmw,Raul Padilla
+Mar 19,home,Waubonsee,W,17-4,17,4,13.0,win,20160319_2v1e,3,2,1,,,,1,,,,,,1,,1,0,,,2,,4,2016,2015-16,div1,Muscatine,muscatinecommunitycollege,raulpadilla3mmw,Raul Padilla
+Mar 23,home,Prairie State,W,11-0,11,0,11.0,win,20160323_l7gd,3,1,2,1,,,0,,,,,,,,3,1,,1,,,3,2016,2015-16,div1,Muscatine,muscatinecommunitycollege,raulpadilla3mmw,Raul Padilla
+Mar 23,home,Prairie State,L,8-5,8,5,3.0,win,20160323_y3xb,1,0,0,,,,0,,1,,,,,,0,0,,,,,1,2016,2015-16,div1,Muscatine,muscatinecommunitycollege,raulpadilla3mmw,Raul Padilla
+Mar 30,home,Carl Sandburg,W,13-12,13,12,1.0,win,20160330_uei8,5,2,3,,,,2,,,1,,,,,3,0,,2,,,5,2016,2015-16,div1,Muscatine,muscatinecommunitycollege,raulpadilla3mmw,Raul Padilla
+Apr 2,home,Marshalltown,L,7-5,7,5,2.0,win,20160402_8zmv,2,0,0,,,,0,1,2,,1,,,,0,0,,,,,3,2016,2015-16,div1,Muscatine,muscatinecommunitycollege,raulpadilla3mmw,Raul Padilla
+Apr 2,home,Marshalltown,L,10-2,10,2,8.0,win,20160402_e0vk,2,0,0,,,,0,,2,,,,,,0,0,,,,,2,2016,2015-16,div1,Muscatine,muscatinecommunitycollege,raulpadilla3mmw,Raul Padilla
+Apr 3,home,Marshalltown,L,11-1,11,1,10.0,win,20160403_rt2r,2,0,0,,,,0,,1,,,,,,0,0,,,,,2,2016,2015-16,div1,Muscatine,muscatinecommunitycollege,raulpadilla3mmw,Raul Padilla
+Apr 3,home,Marshalltown,W,10-9,10,9,1.0,win,,,,,,,,,,,,,,,,,,,,,,,2016,2015-16,div1,Muscatine,muscatinecommunitycollege,raulpadilla3mmw,Raul Padilla
+Apr 9,home,Indian Hills,L,3-0,3,0,3.0,win,20160409_vqug,3,0,0,,,,0,,1,,,,,,0,0,,2,,,3,2016,2015-16,div1,Muscatine,muscatinecommunitycollege,raulpadilla3mmw,Raul Padilla
+Apr 9,home,Indian Hills,L,7-1,7,1,6.0,win,20160409_nhwf,1,0,0,,,,0,,1,,,,,,0,0,,,,,1,2016,2015-16,div1,Muscatine,muscatinecommunitycollege,raulpadilla3mmw,Raul Padilla
+Apr 10,home,Indian Hills,W,4-1,4,1,3.0,win,20160410_pkkz,1,0,0,,,,0,,1,,,,,1,0,0,,1,,,2,2016,2015-16,div1,Muscatine,muscatinecommunitycollege,raulpadilla3mmw,Raul Padilla
+Apr 10,home,Indian Hills,L,18-2,18,2,16.0,win,20160410_tv8j,2,0,0,,,,0,,1,,,,,,0,0,,,1,,2,2016,2015-16,div1,Muscatine,muscatinecommunitycollege,raulpadilla3mmw,Raul Padilla
+Apr 12,home,Iowa Central,L,13-3,13,3,10.0,win,20160412_jrt2,2,0,0,,,,0,,,,,,,,0,0,,1,1,1.00,2,2016,2015-16,div1,Muscatine,muscatinecommunitycollege,raulpadilla3mmw,Raul Padilla
+Apr 14,home,Augustana JV,W,9-3,9,3,6.0,win,20160414_hepk,4,2,3,,,,0,,1,2,,,,,3,0,,,,,4,2016,2015-16,div1,Muscatine,muscatinecommunitycollege,raulpadilla3mmw,Raul Padilla
+Apr 14,home,Augustana JV,W,7-2,7,2,5.0,win,20160414_biso,4,1,3,2,,,2,,,1,,,,,5,2,,1,,,4,2016,2015-16,div1,Muscatine,muscatinecommunitycollege,raulpadilla3mmw,Raul Padilla
+Apr 16,home,Iowa Western,L,14-4,14,4,10.0,win,20160416_op61,2,0,0,,,,0,,2,,,,,,0,0,,,,,2,2016,2015-16,div1,Muscatine,muscatinecommunitycollege,raulpadilla3mmw,Raul Padilla
+Apr 16,home,Iowa Western,L,9-3,9,3,6.0,win,20160416_0cym,2,0,0,,,,0,,,,,,,,0,0,,1,1,1.00,2,2016,2015-16,div1,Muscatine,muscatinecommunitycollege,raulpadilla3mmw,Raul Padilla
+Apr 17,home,Iowa Western,L,15-1,15,1,14.0,win,20160417_1bih,1,0,0,,,,0,,,,,,,,0,0,,1,,,1,2016,2015-16,div1,Muscatine,muscatinecommunitycollege,raulpadilla3mmw,Raul Padilla
+Apr 17,home,Iowa Western,L,5-0,5,0,5.0,win,,,,,,,,,,,,,,,,,,,,,,,2016,2015-16,div1,Muscatine,muscatinecommunitycollege,raulpadilla3mmw,Raul Padilla
+Apr 19,home,Southeastern,L,5-4,5,4,1.0,win,20160419_6ir9,5,0,2,,,,1,,,,,,,,2,0,,,3,,5,2016,2015-16,div1,Muscatine,muscatinecommunitycollege,raulpadilla3mmw,Raul Padilla
+Apr 23,home,Marshalltown,W,13-8,13,8,5.0,win,20160423_x0ct,3,1,1,,,,0,,1,,,,,1,1,0,,1,,,4,2016,2015-16,div1,Muscatine,muscatinecommunitycollege,raulpadilla3mmw,Raul Padilla
+Apr 23,home,Marshalltown,W,11-9,11,9,2.0,win,20160423_qg1j,3,0,0,,,,0,1,3,,,,,,0,0,,,,,4,2016,2015-16,div1,Muscatine,muscatinecommunitycollege,raulpadilla3mmw,Raul Padilla
+Apr 24,home,Marshalltown,W,3-2,3,2,1.0,win,20160424_lys0,3,0,0,,,,0,,,,,,,,0,0,,,3,,3,2016,2015-16,div1,Muscatine,muscatinecommunitycollege,raulpadilla3mmw,Raul Padilla
+Apr 24,home,Marshalltown,L,5-4,5,4,1.0,win,20160424_b4en,3,0,1,,,,0,,1,,,,,,1,0,,,1,,3,2016,2015-16,div1,Muscatine,muscatinecommunitycollege,raulpadilla3mmw,Raul Padilla
+Apr 26,home,Southeastern,W,8-3,8,3,5.0,win,20160426_7dbs,3,1,1,1,,,0,,,,,,,,2,1,,2,1,2.00,3,2016,2015-16,div1,Muscatine,muscatinecommunitycollege,raulpadilla3mmw,Raul Padilla
+Apr 28,home,Augustana College,W,6-3,6,3,3.0,win,20160428_wfn3,3,0,1,,,,1,,,,,,,,1,0,,2,,,3,2016,2015-16,div1,Muscatine,muscatinecommunitycollege,raulpadilla3mmw,Raul Padilla
+Apr 28,home,Augustana College,L,12-11,12,11,1.0,win,20160428_dvg6,4,0,2,2,,,2,,1,,,,,,4,2,,1,,,4,2016,2015-16,div1,Muscatine,muscatinecommunitycollege,raulpadilla3mmw,Raul Padilla
+May 1,home,Indian Hills,L,5-1,5,1,4.0,win,20160501_03k9,3,0,0,,,,0,,,,,,,,0,0,,1,2,0.50,3,2016,2015-16,div1,Muscatine,muscatinecommunitycollege,raulpadilla3mmw,Raul Padilla
+May 1,home,Indian Hills,L,10-0,10,0,10.0,win,20160501_3gum,1,0,0,,,,0,1,,,,,,,0,0,,1,,,2,2016,2015-16,div1,Muscatine,muscatinecommunitycollege,raulpadilla3mmw,Raul Padilla
+May 2,home,Indian Hills,L,3-2,3,2,1.0,win,20160502_3uxm,2,1,2,1,,,0,,,,,,,,3,1,,,,,2,2016,2015-16,div1,Muscatine,muscatinecommunitycollege,raulpadilla3mmw,Raul Padilla
+May 2,home,Indian Hills,L,5-1,5,1,4.0,win,20160502_vqje,3,0,2,,,,0,,,,,,,,2,0,,,1,,3,2016,2015-16,div1,Muscatine,muscatinecommunitycollege,raulpadilla3mmw,Raul Padilla
+May 4,home,Carl Sandburg,W,13-4,13,4,9.0,win,20160504_2ept,4,0,2,1,,,1,,,,1,1,,,3,1,,1,1,1.00,5,2016,2015-16,div1,Muscatine,muscatinecommunitycollege,raulpadilla3mmw,Raul Padilla
+May 7,home,Iowa Western,L,5-0,5,0,5.0,win,20160507_yi5c,2,0,0,,,,0,,,,,,,1,0,0,,2,1,2.00,3,2016,2015-16,div1,Muscatine,muscatinecommunitycollege,raulpadilla3mmw,Raul Padilla
+May 7,home,Iowa Western,L,2-1,2,1,1.0,win,20160507_v8ch,2,0,0,,,,0,,2,,,,,,0,0,,,,,2,2016,2015-16,div1,Muscatine,muscatinecommunitycollege,raulpadilla3mmw,Raul Padilla
+May 8,home,Iowa Western,L,19-2,19,2,17.0,win,20160508_pc9i,1,1,1,1,,,1,1,,,,,,,2,1,,,,,2,2016,2015-16,div1,Muscatine,muscatinecommunitycollege,raulpadilla3mmw,Raul Padilla
+May 8,home,Iowa Western,L,14-0,14,0,14.0,win,20160508_g67u,0,0,0,,,,0,,,,,,,,0,0,,,,,0,2016,2015-16,div1,Muscatine,muscatinecommunitycollege,raulpadilla3mmw,Raul Padilla
+May 13,home,Iowa Western,L,11-1,11,1,10.0,win,,,,,,,,,,,,,,,,,,,,,,,2016,2015-16,div1,Muscatine,muscatinecommunitycollege,raulpadilla3mmw,Raul Padilla
+May 14,home,Marshalltown,L,9-1,9,1,8.0,win,,,,,,,,,,,,,,,,,,,,,,,2016,2015-16,div1,Muscatine,muscatinecommunitycollege,raulpadilla3mmw,Raul Padilla
+May 14,home,Indian Hills,W,3-1,3,1,2.0,win,,,,,,,,,,,,,,,,,,,,,,,2016,2015-16,div1,Muscatine,muscatinecommunitycollege,raulpadilla3mmw,Raul Padilla

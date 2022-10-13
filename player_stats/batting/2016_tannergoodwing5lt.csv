@@ -1,27 +1,60 @@
-date,location,opponent,result,score,team_score,opp_score,game_score_diff_x,game_win_loss_x,game_id_x,AB,R,H,2B,3B,HR,RBI,BB,K,SB,CS,game_score_diff_y,game_win_loss_y,game_id_y,HBP,SF,SH,TB,XBH,HDP,GO,FO,GO/FO,PA,season,njcaa_season,njcaa_division,team,team_id,player_id,player_name
-Feb 27,home,Garden City,L,11-2,11,2,9.0,win,,,,,,,,,,,,,9.0,win,,,,,,,,,,,,2016,2015-16,div1,New Mexico Military,newmexicomilitaryinstitute,tannergoodwing5lt,Tanner Goodwin
-Feb 27,home,Garden City,L,1-0,1,0,1.0,win,,,,,,,,,,,,,1.0,win,,,,,,,,,,,,2016,2015-16,div1,New Mexico Military,newmexicomilitaryinstitute,tannergoodwing5lt,Tanner Goodwin
-Feb 28,home,Garden City,W,20-19,20,19,1.0,win,,,,,,,,,,,,,1.0,win,,,,,,,,,,,,2016,2015-16,div1,New Mexico Military,newmexicomilitaryinstitute,tannergoodwing5lt,Tanner Goodwin
-Feb 28,home,Garden City,L,18-6,18,6,12.0,win,20160228_2pzs,1,0,1,,,,0,,,,,12.0,win,20160228_2pzs,,,,1,0,,,,,1,2016,2015-16,div1,New Mexico Military,newmexicomilitaryinstitute,tannergoodwing5lt,Tanner Goodwin
-Mar 24,home,Odessa,W,3-2,3,2,1.0,win,,,,,,,,,,,,,1.0,win,,,,,,,,,,,,2016,2015-16,div1,New Mexico Military,newmexicomilitaryinstitute,tannergoodwing5lt,Tanner Goodwin
-Mar 24,home,Odessa,L,10-7,10,7,3.0,win,,,,,,,,,,,,,3.0,win,,,,,,,,,,,,2016,2015-16,div1,New Mexico Military,newmexicomilitaryinstitute,tannergoodwing5lt,Tanner Goodwin
-Mar 25,home,Odessa,W,13-6,13,6,7.0,win,,,,,,,,,,,,,7.0,win,,,,,,,,,,,,2016,2015-16,div1,New Mexico Military,newmexicomilitaryinstitute,tannergoodwing5lt,Tanner Goodwin
-Mar 25,home,Odessa,L,16-4,16,4,12.0,win,20160325_vim0,3,0,0,,,,0,,1,,,12.0,win,20160325_vim0,,,,0,0,,,,,3,2016,2015-16,div1,New Mexico Military,newmexicomilitaryinstitute,tannergoodwing5lt,Tanner Goodwin
-Apr 2,home,Howard (TX),L,11-3,11,3,8.0,win,,,,,,,,,,,,,8.0,win,,,,,,,,,,,,2016,2015-16,div1,New Mexico Military,newmexicomilitaryinstitute,tannergoodwing5lt,Tanner Goodwin
-Apr 2,home,Howard (TX),W,16-8,16,8,8.0,win,,,,,,,,,,,,,8.0,win,,,,,,,,,,,,2016,2015-16,div1,New Mexico Military,newmexicomilitaryinstitute,tannergoodwing5lt,Tanner Goodwin
-Apr 3,home,Howard (TX),W,4-3,4,3,1.0,win,20160403_vcyu,2,0,0,,,,0,,1,,,1.0,win,20160403_vcyu,,,,0,0,,,,,2,2016,2015-16,div1,New Mexico Military,newmexicomilitaryinstitute,tannergoodwing5lt,Tanner Goodwin
-Apr 3,home,Howard (TX),L,12-4,12,4,8.0,win,20160403_9evp,0,0,0,,,,0,,,,,8.0,win,20160403_9evp,,,,0,0,,,,,0,2016,2015-16,div1,New Mexico Military,newmexicomilitaryinstitute,tannergoodwing5lt,Tanner Goodwin
-Apr 8,home,Clarendon,W,8-7,8,7,1.0,win,,,,,,,,,,,,,1.0,win,,,,,,,,,,,,2016,2015-16,div1,New Mexico Military,newmexicomilitaryinstitute,tannergoodwing5lt,Tanner Goodwin
-Apr 8,home,Clarendon,L,16-8,16,8,8.0,win,20160408_jt55,1,0,0,,,,0,,,,,8.0,win,20160408_jt55,,,,0,0,1,,,,1,2016,2015-16,div1,New Mexico Military,newmexicomilitaryinstitute,tannergoodwing5lt,Tanner Goodwin
-Apr 9,home,Clarendon,W,13-3,13,3,10.0,win,,,,,,,,,,,,,10.0,win,,,,,,,,,,,,2016,2015-16,div1,New Mexico Military,newmexicomilitaryinstitute,tannergoodwing5lt,Tanner Goodwin
-Apr 9,home,Clarendon,W,8-7,8,7,1.0,win,20160409_swxx,1,1,0,,,,0,,1,,,1.0,win,20160409_swxx,,,,0,0,,,,,1,2016,2015-16,div1,New Mexico Military,newmexicomilitaryinstitute,tannergoodwing5lt,Tanner Goodwin
-Apr 16,home,New Mexico,L,21-3,21,3,18.0,win,20160416_he65,1,0,0,,,,0,,,,,18.0,win,20160416_he65,,,,0,0,,,,,1,2016,2015-16,div1,New Mexico Military,newmexicomilitaryinstitute,tannergoodwing5lt,Tanner Goodwin
-Apr 16,home,New Mexico,L,21-5,21,5,16.0,win,20160416_7yw4,2,0,0,,,,0,,1,,,16.0,win,20160416_7yw4,,,,0,0,,,,,2,2016,2015-16,div1,New Mexico Military,newmexicomilitaryinstitute,tannergoodwing5lt,Tanner Goodwin
-Apr 29,home,Midland,L,4-3,4,3,1.0,win,,,,,,,,,,,,,1.0,win,,,,,,,,,,,,2016,2015-16,div1,New Mexico Military,newmexicomilitaryinstitute,tannergoodwing5lt,Tanner Goodwin
-Apr 29,home,Midland,W,10-5,10,5,5.0,win,,,,,,,,,,,,,5.0,win,,,,,,,,,,,,2016,2015-16,div1,New Mexico Military,newmexicomilitaryinstitute,tannergoodwing5lt,Tanner Goodwin
-Apr 30,home,Midland,L,8-6,8,6,2.0,win,,,,,,,,,,,,,2.0,win,,,,,,,,,,,,2016,2015-16,div1,New Mexico Military,newmexicomilitaryinstitute,tannergoodwing5lt,Tanner Goodwin
-Apr 30,home,Midland,L,21-7,21,7,14.0,win,,,,,,,,,,,,,14.0,win,,,,,,,,,,,,2016,2015-16,div1,New Mexico Military,newmexicomilitaryinstitute,tannergoodwing5lt,Tanner Goodwin
-May 6,home,Frank Phillips,W,20-7,20,7,13.0,win,,,,,,,,,,,,,13.0,win,,,,,,,,,,,,2016,2015-16,div1,New Mexico Military,newmexicomilitaryinstitute,tannergoodwing5lt,Tanner Goodwin
-May 6,home,Frank Phillips,W,17-6,17,6,11.0,win,,,,,,,,,,,,,11.0,win,,,,,,,,,,,,2016,2015-16,div1,New Mexico Military,newmexicomilitaryinstitute,tannergoodwing5lt,Tanner Goodwin
-May 7,home,Frank Phillips,W,17-10,17,10,7.0,win,,,,,,,,,,,,,7.0,win,,,,,,,,,,,,2016,2015-16,div1,New Mexico Military,newmexicomilitaryinstitute,tannergoodwing5lt,Tanner Goodwin
-May 7,home,Frank Phillips,W,16-8,16,8,8.0,win,,,,,,,,,,,,,8.0,win,,,,,,,,,,,,2016,2015-16,div1,New Mexico Military,newmexicomilitaryinstitute,tannergoodwing5lt,Tanner Goodwin
+date,location,opponent,result,score,team_score,opp_score,game_score_diff,game_win_loss,game_id,AB,R,H,2B,3B,HR,RBI,BB,K,SB,CS,HBP,SF,SH,TB,XBH,HDP,GO,FO,GO/FO,PA,season,njcaa_season,njcaa_division,team,team_id,player_id,player_name
+Feb 6,home,Colby,L,14-2,14,2,12.0,win,20160206_7n4a,1,0,1,,,,0,,,,,,,,1,0,,,,,1,2016,2015-16,div1,New Mexico Military,newmexicomilitaryinstitute,tannergoodwing5lt,Tanner Goodwin
+Feb 6,home,Colby,L,3-2,3,2,1.0,win,,,,,,,,,,,,,,,,,,,,,,,2016,2015-16,div1,New Mexico Military,newmexicomilitaryinstitute,tannergoodwing5lt,Tanner Goodwin
+Feb 7,home,Colby,L,4-3,4,3,1.0,win,,,,,,,,,,,,,,,,,,,,,,,2016,2015-16,div1,New Mexico Military,newmexicomilitaryinstitute,tannergoodwing5lt,Tanner Goodwin
+Feb 7,home,Colby,L,18-10,18,10,8.0,win,20160207_ku8o,1,0,0,,,,0,,1,,,,,,0,0,,,,,1,2016,2015-16,div1,New Mexico Military,newmexicomilitaryinstitute,tannergoodwing5lt,Tanner Goodwin
+Feb 13,home,Otero,W,8-2,8,2,6.0,win,,,,,,,,,,,,,,,,,,,,,,,2016,2015-16,div1,New Mexico Military,newmexicomilitaryinstitute,tannergoodwing5lt,Tanner Goodwin
+Feb 13,home,Otero,W,3-1,3,1,2.0,win,20160213_h3mi,1,0,0,,,,0,,,,,,,,0,0,,,,,1,2016,2015-16,div1,New Mexico Military,newmexicomilitaryinstitute,tannergoodwing5lt,Tanner Goodwin
+Feb 14,home,Otero,W,13-3,13,3,10.0,win,,,,,,,,,,,,,,,,,,,,,,,2016,2015-16,div1,New Mexico Military,newmexicomilitaryinstitute,tannergoodwing5lt,Tanner Goodwin
+Feb 14,home,Otero,L,6-4,6,4,2.0,win,,,,,,,,,,,,,,,,,,,,,,,2016,2015-16,div1,New Mexico Military,newmexicomilitaryinstitute,tannergoodwing5lt,Tanner Goodwin
+Feb 19,home,Dodge City,L,17-8,17,8,9.0,win,,,,,,,,,,,,,,,,,,,,,,,2016,2015-16,div1,New Mexico Military,newmexicomilitaryinstitute,tannergoodwing5lt,Tanner Goodwin
+Feb 20,home,Dodge City,L,9-3,9,3,6.0,win,,,,,,,,,,,,,,,,,,,,,,,2016,2015-16,div1,New Mexico Military,newmexicomilitaryinstitute,tannergoodwing5lt,Tanner Goodwin
+Feb 20,home,Dodge City,L,6-5,6,5,1.0,win,,,,,,,,,,,,,,,,,,,,,,,2016,2015-16,div1,New Mexico Military,newmexicomilitaryinstitute,tannergoodwing5lt,Tanner Goodwin
+Feb 21,home,Dodge City,L,12-1,12,1,11.0,win,,,,,,,,,,,,,,,,,,,,,,,2016,2015-16,div1,New Mexico Military,newmexicomilitaryinstitute,tannergoodwing5lt,Tanner Goodwin
+Feb 27,home,Garden City,L,11-2,11,2,9.0,win,,,,,,,,,,,,,,,,,,,,,,,2016,2015-16,div1,New Mexico Military,newmexicomilitaryinstitute,tannergoodwing5lt,Tanner Goodwin
+Feb 27,home,Garden City,L,1-0,1,0,1.0,win,,,,,,,,,,,,,,,,,,,,,,,2016,2015-16,div1,New Mexico Military,newmexicomilitaryinstitute,tannergoodwing5lt,Tanner Goodwin
+Feb 28,home,Garden City,W,20-19,20,19,1.0,win,,,,,,,,,,,,,,,,,,,,,,,2016,2015-16,div1,New Mexico Military,newmexicomilitaryinstitute,tannergoodwing5lt,Tanner Goodwin
+Feb 28,home,Garden City,L,18-6,18,6,12.0,win,20160228_2pzs,1,0,1,,,,0,,,,,,,,1,0,,,,,1,2016,2015-16,div1,New Mexico Military,newmexicomilitaryinstitute,tannergoodwing5lt,Tanner Goodwin
+Mar 5,home,Cisco,L,13-0,13,0,13.0,win,,,,,,,,,,,,,,,,,,,,,,,2016,2015-16,div1,New Mexico Military,newmexicomilitaryinstitute,tannergoodwing5lt,Tanner Goodwin
+Mar 5,home,Cisco,W,8-7,8,7,1.0,win,20160305_056y,1,0,1,,,,2,,,,,,,,1,0,,,,,1,2016,2015-16,div1,New Mexico Military,newmexicomilitaryinstitute,tannergoodwing5lt,Tanner Goodwin
+Mar 6,home,Ranger,W,6-5,6,5,1.0,win,20160306_9yla,2,0,0,,,,0,,2,,,,,,0,0,,,,,2,2016,2015-16,div1,New Mexico Military,newmexicomilitaryinstitute,tannergoodwing5lt,Tanner Goodwin
+Mar 6,home,Ranger,L,10-0,10,0,10.0,win,20160306_0tzq,3,0,0,,,,0,,3,,,,,,0,0,,,,,3,2016,2015-16,div1,New Mexico Military,newmexicomilitaryinstitute,tannergoodwing5lt,Tanner Goodwin
+Mar 12,home,Western Texas,L,5-4,5,4,1.0,win,,,,,,,,,,,,,,,,,,,,,,,2016,2015-16,div1,New Mexico Military,newmexicomilitaryinstitute,tannergoodwing5lt,Tanner Goodwin
+Mar 12,home,Western Texas,W,7-1,7,1,6.0,win,,,,,,,,,,,,,,,,,,,,,,,2016,2015-16,div1,New Mexico Military,newmexicomilitaryinstitute,tannergoodwing5lt,Tanner Goodwin
+Mar 13,home,Western Texas,L,4-1,4,1,3.0,win,,,,,,,,,,,,,,,,,,,,,,,2016,2015-16,div1,New Mexico Military,newmexicomilitaryinstitute,tannergoodwing5lt,Tanner Goodwin
+Mar 13,home,Western Texas,W,15-1,15,1,14.0,win,,,,,,,,,,,,,,,,,,,,,,,2016,2015-16,div1,New Mexico Military,newmexicomilitaryinstitute,tannergoodwing5lt,Tanner Goodwin
+Mar 18,home,El Paso,L,9-6,9,6,3.0,win,,,,,,,,,,,,,,,,,,,,,,,2016,2015-16,div1,New Mexico Military,newmexicomilitaryinstitute,tannergoodwing5lt,Tanner Goodwin
+Mar 18,home,El Paso,W,14-0,14,0,14.0,win,,,,,,,,,,,,,,,,,,,,,,,2016,2015-16,div1,New Mexico Military,newmexicomilitaryinstitute,tannergoodwing5lt,Tanner Goodwin
+Mar 19,home,El Paso,W,6-3,6,3,3.0,win,,,,,,,,,,,,,,,,,,,,,,,2016,2015-16,div1,New Mexico Military,newmexicomilitaryinstitute,tannergoodwing5lt,Tanner Goodwin
+Mar 19,home,El Paso,W,14-9,14,9,5.0,win,,,,,,,,,,,,,,,,,,,,,,,2016,2015-16,div1,New Mexico Military,newmexicomilitaryinstitute,tannergoodwing5lt,Tanner Goodwin
+Mar 24,home,Odessa,W,3-2,3,2,1.0,win,,,,,,,,,,,,,,,,,,,,,,,2016,2015-16,div1,New Mexico Military,newmexicomilitaryinstitute,tannergoodwing5lt,Tanner Goodwin
+Mar 24,home,Odessa,L,10-7,10,7,3.0,win,,,,,,,,,,,,,,,,,,,,,,,2016,2015-16,div1,New Mexico Military,newmexicomilitaryinstitute,tannergoodwing5lt,Tanner Goodwin
+Mar 25,home,Odessa,W,13-6,13,6,7.0,win,,,,,,,,,,,,,,,,,,,,,,,2016,2015-16,div1,New Mexico Military,newmexicomilitaryinstitute,tannergoodwing5lt,Tanner Goodwin
+Mar 25,home,Odessa,L,16-4,16,4,12.0,win,20160325_vim0,3,0,0,,,,0,,1,,,,,,0,0,,,,,3,2016,2015-16,div1,New Mexico Military,newmexicomilitaryinstitute,tannergoodwing5lt,Tanner Goodwin
+Apr 2,home,Howard (TX),L,11-3,11,3,8.0,win,,,,,,,,,,,,,,,,,,,,,,,2016,2015-16,div1,New Mexico Military,newmexicomilitaryinstitute,tannergoodwing5lt,Tanner Goodwin
+Apr 2,home,Howard (TX),W,16-8,16,8,8.0,win,,,,,,,,,,,,,,,,,,,,,,,2016,2015-16,div1,New Mexico Military,newmexicomilitaryinstitute,tannergoodwing5lt,Tanner Goodwin
+Apr 3,home,Howard (TX),W,4-3,4,3,1.0,win,20160403_vcyu,2,0,0,,,,0,,1,,,,,,0,0,,,,,2,2016,2015-16,div1,New Mexico Military,newmexicomilitaryinstitute,tannergoodwing5lt,Tanner Goodwin
+Apr 3,home,Howard (TX),L,12-4,12,4,8.0,win,20160403_9evp,0,0,0,,,,0,,,,,,,,0,0,,,,,0,2016,2015-16,div1,New Mexico Military,newmexicomilitaryinstitute,tannergoodwing5lt,Tanner Goodwin
+Apr 8,home,Clarendon,W,8-7,8,7,1.0,win,,,,,,,,,,,,,,,,,,,,,,,2016,2015-16,div1,New Mexico Military,newmexicomilitaryinstitute,tannergoodwing5lt,Tanner Goodwin
+Apr 8,home,Clarendon,L,16-8,16,8,8.0,win,20160408_jt55,1,0,0,,,,0,,,,,,,,0,0,1,,,,1,2016,2015-16,div1,New Mexico Military,newmexicomilitaryinstitute,tannergoodwing5lt,Tanner Goodwin
+Apr 9,home,Clarendon,W,13-3,13,3,10.0,win,,,,,,,,,,,,,,,,,,,,,,,2016,2015-16,div1,New Mexico Military,newmexicomilitaryinstitute,tannergoodwing5lt,Tanner Goodwin
+Apr 9,home,Clarendon,W,8-7,8,7,1.0,win,20160409_swxx,1,1,0,,,,0,,1,,,,,,0,0,,,,,1,2016,2015-16,div1,New Mexico Military,newmexicomilitaryinstitute,tannergoodwing5lt,Tanner Goodwin
+Apr 15,home,New Mexico,L,12-6,12,6,6.0,win,,,,,,,,,,,,,,,,,,,,,,,2016,2015-16,div1,New Mexico Military,newmexicomilitaryinstitute,tannergoodwing5lt,Tanner Goodwin
+Apr 15,home,New Mexico,W,9-8,9,8,1.0,win,,,,,,,,,,,,,,,,,,,,,,,2016,2015-16,div1,New Mexico Military,newmexicomilitaryinstitute,tannergoodwing5lt,Tanner Goodwin
+Apr 16,home,New Mexico,L,21-3,21,3,18.0,win,20160416_he65,1,0,0,,,,0,,,,,,,,0,0,,,,,1,2016,2015-16,div1,New Mexico Military,newmexicomilitaryinstitute,tannergoodwing5lt,Tanner Goodwin
+Apr 16,home,New Mexico,L,21-5,21,5,16.0,win,20160416_7yw4,2,0,0,,,,0,,1,,,,,,0,0,,,,,2,2016,2015-16,div1,New Mexico Military,newmexicomilitaryinstitute,tannergoodwing5lt,Tanner Goodwin
+Apr 22,home,Luna,W,11-5,11,5,6.0,win,,,,,,,,,,,,,,,,,,,,,,,2016,2015-16,div1,New Mexico Military,newmexicomilitaryinstitute,tannergoodwing5lt,Tanner Goodwin
+Apr 22,home,Luna,W,9-2,9,2,7.0,win,20160422_7s55,1,0,0,,,,0,,,,,,,,0,0,,,,,1,2016,2015-16,div1,New Mexico Military,newmexicomilitaryinstitute,tannergoodwing5lt,Tanner Goodwin
+Apr 23,home,Luna,W,12-5,12,5,7.0,win,20160423_y551,1,1,0,,,,0,1,1,,,,,,0,0,,,,,2,2016,2015-16,div1,New Mexico Military,newmexicomilitaryinstitute,tannergoodwing5lt,Tanner Goodwin
+Apr 23,home,Luna,W,8-1,8,1,7.0,win,20160423_ic6t,1,0,0,,,,0,,1,,,,,,0,0,,,,,1,2016,2015-16,div1,New Mexico Military,newmexicomilitaryinstitute,tannergoodwing5lt,Tanner Goodwin
+Apr 29,home,Midland,L,4-3,4,3,1.0,win,,,,,,,,,,,,,,,,,,,,,,,2016,2015-16,div1,New Mexico Military,newmexicomilitaryinstitute,tannergoodwing5lt,Tanner Goodwin
+Apr 29,home,Midland,W,10-5,10,5,5.0,win,,,,,,,,,,,,,,,,,,,,,,,2016,2015-16,div1,New Mexico Military,newmexicomilitaryinstitute,tannergoodwing5lt,Tanner Goodwin
+Apr 30,home,Midland,L,8-6,8,6,2.0,win,,,,,,,,,,,,,,,,,,,,,,,2016,2015-16,div1,New Mexico Military,newmexicomilitaryinstitute,tannergoodwing5lt,Tanner Goodwin
+Apr 30,home,Midland,L,21-7,21,7,14.0,win,,,,,,,,,,,,,,,,,,,,,,,2016,2015-16,div1,New Mexico Military,newmexicomilitaryinstitute,tannergoodwing5lt,Tanner Goodwin
+May 6,home,Frank Phillips,W,20-7,20,7,13.0,win,,,,,,,,,,,,,,,,,,,,,,,2016,2015-16,div1,New Mexico Military,newmexicomilitaryinstitute,tannergoodwing5lt,Tanner Goodwin
+May 6,home,Frank Phillips,W,17-6,17,6,11.0,win,,,,,,,,,,,,,,,,,,,,,,,2016,2015-16,div1,New Mexico Military,newmexicomilitaryinstitute,tannergoodwing5lt,Tanner Goodwin
+May 7,home,Frank Phillips,W,17-10,17,10,7.0,win,,,,,,,,,,,,,,,,,,,,,,,2016,2015-16,div1,New Mexico Military,newmexicomilitaryinstitute,tannergoodwing5lt,Tanner Goodwin
+May 7,home,Frank Phillips,W,16-8,16,8,8.0,win,,,,,,,,,,,,,,,,,,,,,,,2016,2015-16,div1,New Mexico Military,newmexicomilitaryinstitute,tannergoodwing5lt,Tanner Goodwin
+May 13,home,McLennan,W,5-4,5,4,1.0,win,,,,,,,,,,,,,,,,,,,,,,,2016,2015-16,div1,New Mexico Military,newmexicomilitaryinstitute,tannergoodwing5lt,Tanner Goodwin
+May 15,home,Cisco,L,13-5,13,5,8.0,win,,,,,,,,,,,,,,,,,,,,,,,2016,2015-16,div1,New Mexico Military,newmexicomilitaryinstitute,tannergoodwing5lt,Tanner Goodwin
+May 15,home,Hill,L,10-1,10,1,9.0,win,,,,,,,,,,,,,,,,,,,,,,,2016,2015-16,div1,New Mexico Military,newmexicomilitaryinstitute,tannergoodwing5lt,Tanner Goodwin

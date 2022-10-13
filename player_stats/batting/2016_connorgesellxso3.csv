@@ -1,26 +1,61 @@
-date,location,opponent,result,score,team_score,opp_score,game_score_diff_x,game_win_loss_x,game_id_x,AB,R,H,2B,3B,HR,RBI,BB,K,SB,CS,game_score_diff_y,game_win_loss_y,game_id_y,HBP,SF,SH,TB,XBH,HDP,GO,FO,GO/FO,PA,season,njcaa_season,njcaa_division,team,team_id,player_id,player_name
-Feb 20,home,Colby,W,4-3,4,3,1.0,win,,,,,,,,,,,,,1.0,win,,,,,,,,,,,,2016,2015-16,div1,Midland,midlandcollege,connorgesellxso3,CONNOR GESELL
-Feb 20,home,Colby,L,2-1,2,1,1.0,win,,,,,,,,,,,,,1.0,win,,,,,,,,,,,,2016,2015-16,div1,Midland,midlandcollege,connorgesellxso3,CONNOR GESELL
-Feb 21,home,Seward County,L,2-0,2,0,2.0,win,,,,,,,,,,,,,2.0,win,,,,,,,,,,,,2016,2015-16,div1,Midland,midlandcollege,connorgesellxso3,CONNOR GESELL
-Feb 21,home,Seward County,W,4-1,4,1,3.0,win,20160221_ew9z,4,0,3,1,,,1,,1,,,3.0,win,20160221_ew9z,,,,4,1,,,,,4,2016,2015-16,div1,Midland,midlandcollege,connorgesellxso3,CONNOR GESELL
-Feb 26,home,Weatherford,L,9-7,9,7,2.0,win,20160226_m94u,4,1,3,,,,2,1,1,,,2.0,win,20160226_m94u,,,,3,0,,,,,5,2016,2015-16,div1,Midland,midlandcollege,connorgesellxso3,CONNOR GESELL
-Feb 27,home,Weatherford,W,14-9,14,9,5.0,win,20160227_gx03,3,1,2,,,,0,1,1,,,5.0,win,20160227_gx03,,,,2,0,,,,,4,2016,2015-16,div1,Midland,midlandcollege,connorgesellxso3,CONNOR GESELL
-Feb 27,home,Weatherford,L,14-10,14,10,4.0,win,20160227_og20,4,1,2,,,1,1,1,,,,4.0,win,20160227_og20,,,,5,1,,,,,5,2016,2015-16,div1,Midland,midlandcollege,connorgesellxso3,CONNOR GESELL
-Mar 6,home,Clarendon,W,24-12,24,12,12.0,win,20160306_o3zj,5,2,3,,,,2,,2,,,12.0,win,20160306_o3zj,,,,3,0,,,,,5,2016,2015-16,div1,Midland,midlandcollege,connorgesellxso3,CONNOR GESELL
-Mar 8,home,Western Texas,W,12-2,12,2,10.0,win,20160308_3zcs,4,1,2,1,,,2,1,,,,10.0,win,20160308_3zcs,,,,3,1,,,,,5,2016,2015-16,div1,Midland,midlandcollege,connorgesellxso3,CONNOR GESELL
-Mar 16,home,Odessa,L,13-9,13,9,4.0,win,20160316_3758,4,1,1,,,,0,1,1,,,4.0,win,20160316_3758,,,,1,0,,,,,5,2016,2015-16,div1,Midland,midlandcollege,connorgesellxso3,CONNOR GESELL
-Mar 18,home,Howard (TX),L,4-2,4,2,2.0,win,20160318_c737,3,0,0,,,,0,,1,,,2.0,win,20160318_c737,,,,0,0,,,,,3,2016,2015-16,div1,Midland,midlandcollege,connorgesellxso3,CONNOR GESELL
-Mar 18,home,Howard (TX),W,9-7,9,7,2.0,win,20160318_u0rq,5,1,1,,,,2,,2,,,2.0,win,20160318_u0rq,,,,1,0,,,,,5,2016,2015-16,div1,Midland,midlandcollege,connorgesellxso3,CONNOR GESELL
-Mar 23,home,Howard (TX),W,13-12,13,12,1.0,win,20160323_86or,4,0,2,,,,2,1,1,,1,1.0,win,20160323_86or,,,,2,0,,,,,5,2016,2015-16,div1,Midland,midlandcollege,connorgesellxso3,CONNOR GESELL
-Apr 2,home,Western Texas,W,12-2,12,2,10.0,win,20160402_iqsz,3,1,2,1,,,1,,,,,10.0,win,20160402_iqsz,,,,3,1,,,,,3,2016,2015-16,div1,Midland,midlandcollege,connorgesellxso3,CONNOR GESELL
-Apr 2,home,Western Texas,W,10-0,10,0,10.0,win,20160402_u4ty,2,1,1,,,,0,1,,,,10.0,win,20160402_u4ty,,,,1,0,,,,,3,2016,2015-16,div1,Midland,midlandcollege,connorgesellxso3,CONNOR GESELL
-Apr 6,home,Western Texas,L,8-6,8,6,2.0,win,20160406_o3xu,2,1,0,,,,0,3,1,,,2.0,win,20160406_o3xu,,,,0,0,,,,,5,2016,2015-16,div1,Midland,midlandcollege,connorgesellxso3,CONNOR GESELL
-Apr 8,home,Odessa,W,8-2,8,2,6.0,win,20160408_8qav,4,0,1,,,,1,,,,,6.0,win,20160408_8qav,,,,1,0,,,,,4,2016,2015-16,div1,Midland,midlandcollege,connorgesellxso3,CONNOR GESELL
-Apr 8,home,Odessa,W,12-2,12,2,10.0,win,20160408_fpje,3,1,3,1,,1,1,,,,,10.0,win,20160408_fpje,,,,7,2,,,,,3,2016,2015-16,div1,Midland,midlandcollege,connorgesellxso3,CONNOR GESELL
-Apr 23,home,New Mexico,L,6-4,6,4,2.0,win,20160423_qydu,3,1,0,,,,0,1,,,,2.0,win,20160423_qydu,,,,0,0,,,,,4,2016,2015-16,div1,Midland,midlandcollege,connorgesellxso3,CONNOR GESELL
-Apr 23,home,New Mexico,W,12-11,12,11,1.0,win,20160423_2ixh,4,3,3,1,,1,1,,,,,1.0,win,20160423_2ixh,,,,7,2,,,,,4,2016,2015-16,div1,Midland,midlandcollege,connorgesellxso3,CONNOR GESELL
-May 3,home,Howard (TX),L,17-6,17,6,11.0,win,,,,,,,,,,,,,11.0,win,,,,,,,,,,,,2016,2015-16,div1,Midland,midlandcollege,connorgesellxso3,CONNOR GESELL
-May 6,home,Clarendon,L,11-10,11,10,1.0,win,20160506_27sq,4,1,3,1,,,0,,,,,1.0,win,20160506_27sq,,,,4,1,,,,,4,2016,2015-16,div1,Midland,midlandcollege,connorgesellxso3,CONNOR GESELL
-May 6,home,Clarendon,W,17-7,17,7,10.0,win,20160506_2m5w,4,3,3,,,2,5,,,,,10.0,win,20160506_2m5w,,,,9,2,,,,,4,2016,2015-16,div1,Midland,midlandcollege,connorgesellxso3,CONNOR GESELL
-May 7,home,Clarendon,W,15-1,15,1,14.0,win,20160507_rgw5,3,1,3,2,,,1,,,,,14.0,win,20160507_rgw5,,,,5,2,,,,,3,2016,2015-16,div1,Midland,midlandcollege,connorgesellxso3,CONNOR GESELL
-May 7,home,Clarendon,W,11-5,11,5,6.0,win,20160507_6n6j,5,1,4,3,,,0,,1,,,6.0,win,20160507_6n6j,,,,7,3,,,,,5,2016,2015-16,div1,Midland,midlandcollege,connorgesellxso3,CONNOR GESELL
+date,location,opponent,result,score,team_score,opp_score,game_score_diff,game_win_loss,game_id,AB,R,H,2B,3B,HR,RBI,BB,K,SB,CS,HBP,SF,SH,TB,XBH,HDP,GO,FO,GO/FO,PA,season,njcaa_season,njcaa_division,team,team_id,player_id,player_name
+Feb 12,home,McLennan,L,8-3,8,3,5.0,win,20160212_cwuh,4,0,1,,,,0,,,,,,,,1,0,,,,,4,2016,2015-16,div1,Midland,midlandcollege,connorgesellxso3,CONNOR GESELL
+Feb 13,home,McLennan,L,15-2,15,2,13.0,win,20160213_8alo,1,0,0,,,,0,1,1,,,,,,0,0,,,,,2,2016,2015-16,div1,Midland,midlandcollege,connorgesellxso3,CONNOR GESELL
+Feb 13,home,McLennan,L,7-1,7,1,6.0,win,,,,,,,,,,,,,,,,,,,,,,,2016,2015-16,div1,Midland,midlandcollege,connorgesellxso3,CONNOR GESELL
+Feb 20,home,Colby,W,4-3,4,3,1.0,win,,,,,,,,,,,,,,,,,,,,,,,2016,2015-16,div1,Midland,midlandcollege,connorgesellxso3,CONNOR GESELL
+Feb 20,home,Colby,L,2-1,2,1,1.0,win,,,,,,,,,,,,,,,,,,,,,,,2016,2015-16,div1,Midland,midlandcollege,connorgesellxso3,CONNOR GESELL
+Feb 21,home,Seward County,L,2-0,2,0,2.0,win,,,,,,,,,,,,,,,,,,,,,,,2016,2015-16,div1,Midland,midlandcollege,connorgesellxso3,CONNOR GESELL
+Feb 21,home,Seward County,W,4-1,4,1,3.0,win,20160221_ew9z,4,0,3,1,,,1,,1,,,,,,4,1,,,,,4,2016,2015-16,div1,Midland,midlandcollege,connorgesellxso3,CONNOR GESELL
+Feb 26,home,Weatherford,L,9-7,9,7,2.0,win,20160226_m94u,4,1,3,,,,2,1,1,,,,,,3,0,,,,,5,2016,2015-16,div1,Midland,midlandcollege,connorgesellxso3,CONNOR GESELL
+Feb 27,home,Weatherford,W,14-9,14,9,5.0,win,20160227_gx03,3,1,2,,,,0,1,1,,,,,,2,0,,,,,4,2016,2015-16,div1,Midland,midlandcollege,connorgesellxso3,CONNOR GESELL
+Feb 27,home,Weatherford,L,14-10,14,10,4.0,win,20160227_og20,4,1,2,,,1,1,1,,,,,,,5,1,,,,,5,2016,2015-16,div1,Midland,midlandcollege,connorgesellxso3,CONNOR GESELL
+Mar 5,home,Odessa,L,11-10,11,10,1.0,win,20160305_vhdi,4,1,2,,,,0,,1,,,,,,2,0,,,,,4,2016,2015-16,div1,Midland,midlandcollege,connorgesellxso3,CONNOR GESELL
+Mar 6,home,Clarendon,W,24-12,24,12,12.0,win,20160306_o3zj,5,2,3,,,,2,,2,,,,,,3,0,,,,,5,2016,2015-16,div1,Midland,midlandcollege,connorgesellxso3,CONNOR GESELL
+Mar 8,home,Western Texas,W,12-2,12,2,10.0,win,20160308_3zcs,4,1,2,1,,,2,1,,,,,,,3,1,,,,,5,2016,2015-16,div1,Midland,midlandcollege,connorgesellxso3,CONNOR GESELL
+Mar 11,home,Frank Phillips,W,5-1,5,1,4.0,win,20160311_x1ua,3,0,0,,,,0,,,,,,,,0,0,,,,,3,2016,2015-16,div1,Midland,midlandcollege,connorgesellxso3,CONNOR GESELL
+Mar 11,home,Frank Phillips,W,11-0,11,0,11.0,win,20160311_xq8n,3,1,2,,,1,4,,1,,,,,,5,1,,,,,3,2016,2015-16,div1,Midland,midlandcollege,connorgesellxso3,CONNOR GESELL
+Mar 12,home,Frank Phillips,W,18-6,18,6,12.0,win,20160312_kust,4,4,4,1,,,4,1,,,,,,,5,1,,,,,5,2016,2015-16,div1,Midland,midlandcollege,connorgesellxso3,CONNOR GESELL
+Mar 12,home,Frank Phillips,W,7-1,7,1,6.0,win,20160312_01r9,4,0,2,1,,,1,,,,,,,,3,1,,,,,4,2016,2015-16,div1,Midland,midlandcollege,connorgesellxso3,CONNOR GESELL
+Mar 16,home,Odessa,L,13-9,13,9,4.0,win,20160316_3758,4,1,1,,,,0,1,1,,,,,,1,0,,,,,5,2016,2015-16,div1,Midland,midlandcollege,connorgesellxso3,CONNOR GESELL
+Mar 18,home,Howard (TX),L,4-2,4,2,2.0,win,20160318_c737,3,0,0,,,,0,,1,,,,,,0,0,,,,,3,2016,2015-16,div1,Midland,midlandcollege,connorgesellxso3,CONNOR GESELL
+Mar 18,home,Howard (TX),W,9-7,9,7,2.0,win,20160318_u0rq,5,1,1,,,,2,,2,,,,,,1,0,,,,,5,2016,2015-16,div1,Midland,midlandcollege,connorgesellxso3,CONNOR GESELL
+Mar 19,home,Howard (TX),W,12-7,12,7,5.0,win,20160319_tft0,3,1,1,1,,,4,,,,,,1,,2,1,,,,,4,2016,2015-16,div1,Midland,midlandcollege,connorgesellxso3,CONNOR GESELL
+Mar 19,home,Howard (TX),L,9-8,9,8,1.0,win,20160319_h4xv,5,0,1,,,,1,,1,,,,,,1,0,,,,,5,2016,2015-16,div1,Midland,midlandcollege,connorgesellxso3,CONNOR GESELL
+Mar 23,home,Howard (TX),W,13-12,13,12,1.0,win,20160323_86or,4,0,2,,,,2,1,1,,1,,,,2,0,,,,,5,2016,2015-16,div1,Midland,midlandcollege,connorgesellxso3,CONNOR GESELL
+Mar 25,home,Luna,W,11-4,11,4,7.0,win,20160325_6il5,4,0,0,,,,0,,1,,,,,,0,0,,,,,4,2016,2015-16,div1,Midland,midlandcollege,connorgesellxso3,CONNOR GESELL
+Mar 25,home,Luna,W,13-9,13,9,4.0,win,20160325_7esl,3,3,3,1,,,0,3,,,,,,,4,1,,,,,6,2016,2015-16,div1,Midland,midlandcollege,connorgesellxso3,CONNOR GESELL
+Mar 26,home,Luna,W,9-1,9,1,8.0,win,20160326_6f0s,3,1,1,,,,0,,1,,,1,,,1,0,,,,,4,2016,2015-16,div1,Midland,midlandcollege,connorgesellxso3,CONNOR GESELL
+Mar 27,home,Luna,W,11-0,11,0,11.0,win,20160327_zypq,4,1,1,,,,0,,,,,,,,1,0,,,,,4,2016,2015-16,div1,Midland,midlandcollege,connorgesellxso3,CONNOR GESELL
+Mar 30,home,New Mexico,W,12-7,12,7,5.0,win,20160330_18wx,5,0,1,,,,2,,,,,,,,1,0,,,,,5,2016,2015-16,div1,Midland,midlandcollege,connorgesellxso3,CONNOR GESELL
+Apr 2,home,Western Texas,W,12-2,12,2,10.0,win,20160402_iqsz,3,1,2,1,,,1,,,,,,,,3,1,,,,,3,2016,2015-16,div1,Midland,midlandcollege,connorgesellxso3,CONNOR GESELL
+Apr 2,home,Western Texas,W,10-0,10,0,10.0,win,20160402_u4ty,2,1,1,,,,0,1,,,,,,,1,0,,,,,3,2016,2015-16,div1,Midland,midlandcollege,connorgesellxso3,CONNOR GESELL
+Apr 3,home,Western Texas,W,1-0,1,0,1.0,win,20160403_jyzr,2,0,0,,,,1,,,,,,1,,0,0,,,,,3,2016,2015-16,div1,Midland,midlandcollege,connorgesellxso3,CONNOR GESELL
+Apr 3,home,Western Texas,W,17-6,17,6,11.0,win,20160403_9s7w,4,1,0,,,,0,1,1,,,,,,0,0,,,,,5,2016,2015-16,div1,Midland,midlandcollege,connorgesellxso3,CONNOR GESELL
+Apr 6,home,Western Texas,L,8-6,8,6,2.0,win,20160406_o3xu,2,1,0,,,,0,3,1,,,,,,0,0,,,,,5,2016,2015-16,div1,Midland,midlandcollege,connorgesellxso3,CONNOR GESELL
+Apr 8,home,Odessa,W,8-2,8,2,6.0,win,20160408_8qav,4,0,1,,,,1,,,,,,,,1,0,,,,,4,2016,2015-16,div1,Midland,midlandcollege,connorgesellxso3,CONNOR GESELL
+Apr 8,home,Odessa,W,12-2,12,2,10.0,win,20160408_fpje,3,1,3,1,,1,1,,,,,,,,7,2,,,,,3,2016,2015-16,div1,Midland,midlandcollege,connorgesellxso3,CONNOR GESELL
+Apr 9,home,Odessa,W,7-3,7,3,4.0,win,20160409_1z53,1,1,0,,,,0,3,,,,,,,0,0,,,,,4,2016,2015-16,div1,Midland,midlandcollege,connorgesellxso3,CONNOR GESELL
+Apr 9,home,Odessa,W,10-7,10,7,3.0,win,20160409_wdgj,4,0,1,,,,0,1,2,,,,,,1,0,,,,,5,2016,2015-16,div1,Midland,midlandcollege,connorgesellxso3,CONNOR GESELL
+Apr 15,home,El Paso,W,6-3,6,3,3.0,win,20160415_y3ou,3,0,2,,,,0,,1,,,1,,,2,0,,,,,4,2016,2015-16,div1,Midland,midlandcollege,connorgesellxso3,CONNOR GESELL
+Apr 15,home,El Paso,W,20-4,20,4,16.0,win,20160415_w9yr,4,2,3,2,,,1,1,,,,,,,5,2,,,,,5,2016,2015-16,div1,Midland,midlandcollege,connorgesellxso3,CONNOR GESELL
+Apr 16,home,El Paso,W,20-5,20,5,15.0,win,20160416_yqdj,4,0,3,,,,2,1,1,,,,,,3,0,,,,,5,2016,2015-16,div1,Midland,midlandcollege,connorgesellxso3,CONNOR GESELL
+Apr 16,home,El Paso,W,12-2,12,2,10.0,win,20160416_0xan,4,0,1,,,,1,,3,,,,,,1,0,,,,,4,2016,2015-16,div1,Midland,midlandcollege,connorgesellxso3,CONNOR GESELL
+Apr 20,home,Odessa,W,11-8,11,8,3.0,win,20160420_3kb0,5,0,2,,,,0,,1,,,,,,2,0,,,,,5,2016,2015-16,div1,Midland,midlandcollege,connorgesellxso3,CONNOR GESELL
+Apr 22,home,New Mexico,L,12-9,12,9,3.0,win,20160422_zpao,3,0,0,,,,1,2,3,,,,,,0,0,,,,,5,2016,2015-16,div1,Midland,midlandcollege,connorgesellxso3,CONNOR GESELL
+Apr 22,home,New Mexico,W,9-5,9,5,4.0,win,20160422_p79v,3,0,0,,,,0,1,,,,,,,0,0,,,,,4,2016,2015-16,div1,Midland,midlandcollege,connorgesellxso3,CONNOR GESELL
+Apr 23,home,New Mexico,L,6-4,6,4,2.0,win,20160423_qydu,3,1,0,,,,0,1,,,,,,,0,0,,,,,4,2016,2015-16,div1,Midland,midlandcollege,connorgesellxso3,CONNOR GESELL
+Apr 23,home,New Mexico,W,12-11,12,11,1.0,win,20160423_2ixh,4,3,3,1,,1,1,,,,,,,,7,2,,,,,4,2016,2015-16,div1,Midland,midlandcollege,connorgesellxso3,CONNOR GESELL
+Apr 29,home,New Mexico Military,W,4-3,4,3,1.0,win,20160429_4p8u,2,0,1,1,,,0,,1,,,,,1,2,1,,,,,3,2016,2015-16,div1,Midland,midlandcollege,connorgesellxso3,CONNOR GESELL
+Apr 29,home,New Mexico Military,L,10-5,10,5,5.0,win,20160429_p464,3,0,1,,1,,1,,2,,,,,1,3,1,,,,,4,2016,2015-16,div1,Midland,midlandcollege,connorgesellxso3,CONNOR GESELL
+Apr 30,home,New Mexico Military,W,8-6,8,6,2.0,win,20160430_1fki,4,1,2,,,,2,,,,,,,,2,0,,,,,4,2016,2015-16,div1,Midland,midlandcollege,connorgesellxso3,CONNOR GESELL
+Apr 30,home,New Mexico Military,W,21-7,21,7,14.0,win,20160430_1jbk,3,2,2,2,,,2,,,,,,,,4,2,,,,,3,2016,2015-16,div1,Midland,midlandcollege,connorgesellxso3,CONNOR GESELL
+May 3,home,Howard (TX),L,17-6,17,6,11.0,win,,,,,,,,,,,,,,,,,,,,,,,2016,2015-16,div1,Midland,midlandcollege,connorgesellxso3,CONNOR GESELL
+May 6,home,Clarendon,L,11-10,11,10,1.0,win,20160506_27sq,4,1,3,1,,,0,,,,,,,,4,1,,,,,4,2016,2015-16,div1,Midland,midlandcollege,connorgesellxso3,CONNOR GESELL
+May 6,home,Clarendon,W,17-7,17,7,10.0,win,20160506_2m5w,4,3,3,,,2,5,,,,,,,,9,2,,,,,4,2016,2015-16,div1,Midland,midlandcollege,connorgesellxso3,CONNOR GESELL
+May 7,home,Clarendon,W,15-1,15,1,14.0,win,20160507_rgw5,3,1,3,2,,,1,,,,,,,,5,2,,,,,3,2016,2015-16,div1,Midland,midlandcollege,connorgesellxso3,CONNOR GESELL
+May 7,home,Clarendon,W,11-5,11,5,6.0,win,20160507_6n6j,5,1,4,3,,,0,,1,,,,,,7,3,,,,,5,2016,2015-16,div1,Midland,midlandcollege,connorgesellxso3,CONNOR GESELL
+May 14,home,Hill,W,5-3,5,3,2.0,win,20160514_5zi1,4,0,0,,,,1,,1,,,,,,0,0,,,,,4,2016,2015-16,div1,Midland,midlandcollege,connorgesellxso3,CONNOR GESELL
+May 15,home,Grayson,W,5-2,5,2,3.0,win,20160515_egs9,2,0,0,,,,0,3,1,,,,,,0,0,,,,,5,2016,2015-16,div1,Midland,midlandcollege,connorgesellxso3,CONNOR GESELL
+May 16,home,Cisco,L,4-3,4,3,1.0,win,20160516_kd9j,4,2,4,2,,,0,1,,,,,,,6,2,,,,,5,2016,2015-16,div1,Midland,midlandcollege,connorgesellxso3,CONNOR GESELL
+May 16,home,Hill,W,7-3,7,3,4.0,win,20160516_bil7,5,1,3,,,,0,,1,,,,,,3,0,,,,,5,2016,2015-16,div1,Midland,midlandcollege,connorgesellxso3,CONNOR GESELL
+May 17,home,Cisco,L,9-6,9,6,3.0,win,20160517_m5dk,3,0,0,,,,0,1,,,,,,,0,0,,,,,4,2016,2015-16,div1,Midland,midlandcollege,connorgesellxso3,CONNOR GESELL

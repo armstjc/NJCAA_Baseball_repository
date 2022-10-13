@@ -1,32 +1,59 @@
-date,location,opponent,result,score,team_score,opp_score,game_score_diff_x,game_win_loss_x,game_id_x,AB,R,H,2B,3B,HR,RBI,BB,K,SB,CS,game_score_diff_y,game_win_loss_y,game_id_y,HBP,SF,SH,TB,XBH,HDP,GO,FO,GO/FO,PA,season,njcaa_season,njcaa_division,team,team_id,player_id,player_name
-Jan 30,home,Catawba Valley,W,6-2,6,2,4.0,win,,,,,,,,,,,,,4.0,win,,,,,,,,,,,,2016,2015-16,div1,USC Sumter,uscsumter,davidmettsg75n,David Metts
-Jan 30,home,Catawba Valley,L,10-9,10,9,1.0,win,20160130_xjjy,0,0,0,,,,0,,,,,1.0,win,20160130_xjjy,,,,0,0,,,,,0,2016,2015-16,div1,USC Sumter,uscsumter,davidmettsg75n,David Metts
-Jan 31,home,Catawba Valley,W,5-4,5,4,1.0,win,,,,,,,,,,,,,1.0,win,,,,,,,,,,,,2016,2015-16,div1,USC Sumter,uscsumter,davidmettsg75n,David Metts
-Jan 31,home,Catawba Valley,W,8-4,8,4,4.0,win,,,,,,,,,,,,,4.0,win,,,,,,,,,,,,2016,2015-16,div1,USC Sumter,uscsumter,davidmettsg75n,David Metts
-Feb 18,home,Newberry College JV,W,8-7,8,7,1.0,win,,,,,,,,,,,,,1.0,win,,,,,,,,,,,,2016,2015-16,div1,USC Sumter,uscsumter,davidmettsg75n,David Metts
-Feb 18,home,Newberry College JV,L,9-4,9,4,5.0,win,,,,,,,,,,,,,5.0,win,,,,,,,,,,,,2016,2015-16,div1,USC Sumter,uscsumter,davidmettsg75n,David Metts
-Feb 20,home,Harford,L,13-3,13,3,10.0,win,,,,,,,,,,,,,10.0,win,,,,,,,,,,,,2016,2015-16,div1,USC Sumter,uscsumter,davidmettsg75n,David Metts
-Feb 20,home,Harford,W,4-0,4,0,4.0,win,,,,,,,,,,,,,4.0,win,,,,,,,,,,,,2016,2015-16,div1,USC Sumter,uscsumter,davidmettsg75n,David Metts
-Feb 21,home,Harford,L,4-1,4,1,3.0,win,,,,,,,,,,,,,3.0,win,,,,,,,,,,,,2016,2015-16,div1,USC Sumter,uscsumter,davidmettsg75n,David Metts
-Feb 21,home,Harford,L,3-2,3,2,1.0,win,,,,,,,,,,,,,1.0,win,,,,,,,,,,,,2016,2015-16,div1,USC Sumter,uscsumter,davidmettsg75n,David Metts
-Mar 5,home,Brunswick,L,10-1,10,1,9.0,win,,,,,,,,,,,,,9.0,win,,,,,,,,,,,,2016,2015-16,div1,USC Sumter,uscsumter,davidmettsg75n,David Metts
-Mar 5,home,Monroe College,L,5-3,5,3,2.0,win,,,,,,,,,,,,,2.0,win,,,,,,,,,,,,2016,2015-16,div1,USC Sumter,uscsumter,davidmettsg75n,David Metts
-Mar 6,home,Brunswick,W,12-11,12,11,1.0,win,,,,,,,,,,,,,1.0,win,,,,,,,,,,,,2016,2015-16,div1,USC Sumter,uscsumter,davidmettsg75n,David Metts
-Mar 8,home,Anderson University JV,W,9-0,9,0,9.0,win,,,,,,,,,,,,,9.0,win,,,,,,,,,,,,2016,2015-16,div1,USC Sumter,uscsumter,davidmettsg75n,David Metts
-Mar 8,home,Anderson University JV,W,13-2,13,2,11.0,win,,,,,,,,,,,,,11.0,win,,,,,,,,,,,,2016,2015-16,div1,USC Sumter,uscsumter,davidmettsg75n,David Metts
-Mar 19,home,Louisburg,W,8-7,8,7,1.0,win,,,,,,,,,,,,,1.0,win,,,,,,,,,,,,2016,2015-16,div1,USC Sumter,uscsumter,davidmettsg75n,David Metts
-Mar 19,home,Louisburg,W,11-7,11,7,4.0,win,,,,,,,,,,,,,4.0,win,,,,,,,,,,,,2016,2015-16,div1,USC Sumter,uscsumter,davidmettsg75n,David Metts
-Mar 20,home,Louisburg,W,4-3,4,3,1.0,win,,,,,,,,,,,,,1.0,win,,,,,,,,,,,,2016,2015-16,div1,USC Sumter,uscsumter,davidmettsg75n,David Metts
-Mar 20,home,Louisburg,W,13-7,13,7,6.0,win,,,,,,,,,,,,,6.0,win,,,,,,,,,,,,2016,2015-16,div1,USC Sumter,uscsumter,davidmettsg75n,David Metts
-Mar 30,home,Belmont Abbey JV,W,10-9,10,9,1.0,win,,,,,,,,,,,,,1.0,win,,,,,,,,,,,,2016,2015-16,div1,USC Sumter,uscsumter,davidmettsg75n,David Metts
-Mar 30,home,Belmont Abbey JV,W,17-0,17,0,17.0,win,20160330_pnnc,0,0,0,,,,0,,,,,17.0,win,20160330_pnnc,,,,0,0,,,,,0,2016,2015-16,div1,USC Sumter,uscsumter,davidmettsg75n,David Metts
-Apr 2,home,USC Lancaster,W,7-6,7,6,1.0,win,,,,,,,,,,,,,1.0,win,,,,,,,,,,,,2016,2015-16,div1,USC Sumter,uscsumter,davidmettsg75n,David Metts
-Apr 2,home,USC Lancaster,L,8-6,8,6,2.0,win,,,,,,,,,,,,,2.0,win,,,,,,,,,,,,2016,2015-16,div1,USC Sumter,uscsumter,davidmettsg75n,David Metts
-Apr 3,home,USC Lancaster,W,5-3,5,3,2.0,win,,,,,,,,,,,,,2.0,win,,,,,,,,,,,,2016,2015-16,div1,USC Sumter,uscsumter,davidmettsg75n,David Metts
-Apr 3,home,USC Lancaster,W,3-2,3,2,1.0,win,,,,,,,,,,,,,1.0,win,,,,,,,,,,,,2016,2015-16,div1,USC Sumter,uscsumter,davidmettsg75n,David Metts
-Apr 23,home,Guilford Tech,W,8-4,8,4,4.0,win,,,,,,,,,,,,,4.0,win,,,,,,,,,,,,2016,2015-16,div1,USC Sumter,uscsumter,davidmettsg75n,David Metts
-Apr 23,home,Guilford Tech,W,10-6,10,6,4.0,win,,,,,,,,,,,,,4.0,win,,,,,,,,,,,,2016,2015-16,div1,USC Sumter,uscsumter,davidmettsg75n,David Metts
-Apr 24,home,Guilford Tech,W,10-9,10,9,1.0,win,,,,,,,,,,,,,1.0,win,,,,,,,,,,,,2016,2015-16,div1,USC Sumter,uscsumter,davidmettsg75n,David Metts
-Apr 24,home,Guilford Tech,L,6-3,6,3,3.0,win,20160424_ebpn,0,0,0,,,,0,,,,,3.0,win,20160424_ebpn,,,,0,0,,,,,0,2016,2015-16,div1,USC Sumter,uscsumter,davidmettsg75n,David Metts
-Apr 30,home,USC Salkehatchie,W,15-2,15,2,13.0,win,,,,,,,,,,,,,13.0,win,,,,,,,,,,,,2016,2015-16,div1,USC Sumter,uscsumter,davidmettsg75n,David Metts
-May 7,home,Louisburg,L,5-4,5,4,1.0,win,,,,,,,,,,,,,1.0,win,,,,,,,,,,,,2016,2015-16,div1,USC Sumter,uscsumter,davidmettsg75n,David Metts
+date,location,opponent,result,score,team_score,opp_score,game_score_diff,game_win_loss,game_id,AB,R,H,2B,3B,HR,RBI,BB,K,SB,CS,HBP,SF,SH,TB,XBH,HDP,GO,FO,GO/FO,PA,season,njcaa_season,njcaa_division,team,team_id,player_id,player_name
+Jan 30,home,Catawba Valley,W,6-2,6,2,4.0,win,,,,,,,,,,,,,,,,,,,,,,,2016,2015-16,div1,USC Sumter,uscsumter,davidmettsg75n,David Metts
+Jan 30,home,Catawba Valley,L,10-9,10,9,1.0,win,20160130_xjjy,0,0,0,,,,0,,,,,,,,0,0,,,,,0,2016,2015-16,div1,USC Sumter,uscsumter,davidmettsg75n,David Metts
+Jan 31,home,Catawba Valley,W,5-4,5,4,1.0,win,,,,,,,,,,,,,,,,,,,,,,,2016,2015-16,div1,USC Sumter,uscsumter,davidmettsg75n,David Metts
+Jan 31,home,Catawba Valley,W,8-4,8,4,4.0,win,,,,,,,,,,,,,,,,,,,,,,,2016,2015-16,div1,USC Sumter,uscsumter,davidmettsg75n,David Metts
+Feb 18,home,Newberry College JV,W,8-7,8,7,1.0,win,,,,,,,,,,,,,,,,,,,,,,,2016,2015-16,div1,USC Sumter,uscsumter,davidmettsg75n,David Metts
+Feb 18,home,Newberry College JV,L,9-4,9,4,5.0,win,,,,,,,,,,,,,,,,,,,,,,,2016,2015-16,div1,USC Sumter,uscsumter,davidmettsg75n,David Metts
+Feb 20,home,Harford,L,13-3,13,3,10.0,win,,,,,,,,,,,,,,,,,,,,,,,2016,2015-16,div1,USC Sumter,uscsumter,davidmettsg75n,David Metts
+Feb 20,home,Harford,W,4-0,4,0,4.0,win,,,,,,,,,,,,,,,,,,,,,,,2016,2015-16,div1,USC Sumter,uscsumter,davidmettsg75n,David Metts
+Feb 21,home,Harford,L,4-1,4,1,3.0,win,,,,,,,,,,,,,,,,,,,,,,,2016,2015-16,div1,USC Sumter,uscsumter,davidmettsg75n,David Metts
+Feb 21,home,Harford,L,3-2,3,2,1.0,win,,,,,,,,,,,,,,,,,,,,,,,2016,2015-16,div1,USC Sumter,uscsumter,davidmettsg75n,David Metts
+Feb 26,home,Florida State Jacksonville,W,9-7,9,7,2.0,win,,,,,,,,,,,,,,,,,,,,,,,2016,2015-16,div1,USC Sumter,uscsumter,davidmettsg75n,David Metts
+Feb 27,home,Florida State Jacksonville,L,7-4,7,4,3.0,win,,,,,,,,,,,,,,,,,,,,,,,2016,2015-16,div1,USC Sumter,uscsumter,davidmettsg75n,David Metts
+Feb 27,home,Florida State Jacksonville,W,13-0,13,0,13.0,win,,,,,,,,,,,,,,,,,,,,,,,2016,2015-16,div1,USC Sumter,uscsumter,davidmettsg75n,David Metts
+Mar 5,home,Brunswick,L,10-1,10,1,9.0,win,,,,,,,,,,,,,,,,,,,,,,,2016,2015-16,div1,USC Sumter,uscsumter,davidmettsg75n,David Metts
+Mar 5,home,Monroe College,L,5-3,5,3,2.0,win,,,,,,,,,,,,,,,,,,,,,,,2016,2015-16,div1,USC Sumter,uscsumter,davidmettsg75n,David Metts
+Mar 6,home,Brunswick,W,12-11,12,11,1.0,win,,,,,,,,,,,,,,,,,,,,,,,2016,2015-16,div1,USC Sumter,uscsumter,davidmettsg75n,David Metts
+Mar 8,home,Anderson University JV,W,9-0,9,0,9.0,win,,,,,,,,,,,,,,,,,,,,,,,2016,2015-16,div1,USC Sumter,uscsumter,davidmettsg75n,David Metts
+Mar 8,home,Anderson University JV,W,13-2,13,2,11.0,win,,,,,,,,,,,,,,,,,,,,,,,2016,2015-16,div1,USC Sumter,uscsumter,davidmettsg75n,David Metts
+Mar 12,home,Florence-Darlington Tech,W,19-10,19,10,9.0,win,,,,,,,,,,,,,,,,,,,,,,,2016,2015-16,div1,USC Sumter,uscsumter,davidmettsg75n,David Metts
+Mar 12,home,Florence-Darlington Tech,L,3-1,3,1,2.0,win,,,,,,,,,,,,,,,,,,,,,,,2016,2015-16,div1,USC Sumter,uscsumter,davidmettsg75n,David Metts
+Mar 13,home,Florence-Darlington Tech,L,8-2,8,2,6.0,win,,,,,,,,,,,,,,,,,,,,,,,2016,2015-16,div1,USC Sumter,uscsumter,davidmettsg75n,David Metts
+Mar 13,home,Florence-Darlington Tech,W,10-1,10,1,9.0,win,,,,,,,,,,,,,,,,,,,,,,,2016,2015-16,div1,USC Sumter,uscsumter,davidmettsg75n,David Metts
+Mar 19,home,Louisburg,W,8-7,8,7,1.0,win,,,,,,,,,,,,,,,,,,,,,,,2016,2015-16,div1,USC Sumter,uscsumter,davidmettsg75n,David Metts
+Mar 19,home,Louisburg,W,11-7,11,7,4.0,win,,,,,,,,,,,,,,,,,,,,,,,2016,2015-16,div1,USC Sumter,uscsumter,davidmettsg75n,David Metts
+Mar 20,home,Louisburg,W,4-3,4,3,1.0,win,,,,,,,,,,,,,,,,,,,,,,,2016,2015-16,div1,USC Sumter,uscsumter,davidmettsg75n,David Metts
+Mar 20,home,Louisburg,W,13-7,13,7,6.0,win,,,,,,,,,,,,,,,,,,,,,,,2016,2015-16,div1,USC Sumter,uscsumter,davidmettsg75n,David Metts
+Mar 23,home,Newberry College JV,W,6-0,6,0,6.0,win,,,,,,,,,,,,,,,,,,,,,,,2016,2015-16,div1,USC Sumter,uscsumter,davidmettsg75n,David Metts
+Mar 23,home,Newberry College JV,W,8-6,8,6,2.0,win,,,,,,,,,,,,,,,,,,,,,,,2016,2015-16,div1,USC Sumter,uscsumter,davidmettsg75n,David Metts
+Mar 25,home,USC Salkehatchie,W,1-0,1,0,1.0,win,,,,,,,,,,,,,,,,,,,,,,,2016,2015-16,div1,USC Sumter,uscsumter,davidmettsg75n,David Metts
+Mar 25,home,USC Salkehatchie,W,8-6,8,6,2.0,win,,,,,,,,,,,,,,,,,,,,,,,2016,2015-16,div1,USC Sumter,uscsumter,davidmettsg75n,David Metts
+Mar 26,home,USC Salkehatchie,W,6-1,6,1,5.0,win,,,,,,,,,,,,,,,,,,,,,,,2016,2015-16,div1,USC Sumter,uscsumter,davidmettsg75n,David Metts
+Mar 26,home,USC Salkehatchie,W,5-4,5,4,1.0,win,,,,,,,,,,,,,,,,,,,,,,,2016,2015-16,div1,USC Sumter,uscsumter,davidmettsg75n,David Metts
+Mar 30,home,Belmont Abbey JV,W,10-9,10,9,1.0,win,,,,,,,,,,,,,,,,,,,,,,,2016,2015-16,div1,USC Sumter,uscsumter,davidmettsg75n,David Metts
+Mar 30,home,Belmont Abbey JV,W,17-0,17,0,17.0,win,20160330_pnnc,0,0,0,,,,0,,,,,,,,0,0,,,,,0,2016,2015-16,div1,USC Sumter,uscsumter,davidmettsg75n,David Metts
+Apr 2,home,USC Lancaster,W,7-6,7,6,1.0,win,,,,,,,,,,,,,,,,,,,,,,,2016,2015-16,div1,USC Sumter,uscsumter,davidmettsg75n,David Metts
+Apr 2,home,USC Lancaster,L,8-6,8,6,2.0,win,,,,,,,,,,,,,,,,,,,,,,,2016,2015-16,div1,USC Sumter,uscsumter,davidmettsg75n,David Metts
+Apr 3,home,USC Lancaster,W,5-3,5,3,2.0,win,,,,,,,,,,,,,,,,,,,,,,,2016,2015-16,div1,USC Sumter,uscsumter,davidmettsg75n,David Metts
+Apr 3,home,USC Lancaster,W,3-2,3,2,1.0,win,,,,,,,,,,,,,,,,,,,,,,,2016,2015-16,div1,USC Sumter,uscsumter,davidmettsg75n,David Metts
+Apr 9,home,Pitt,W,15-2,15,2,13.0,win,,,,,,,,,,,,,,,,,,,,,,,2016,2015-16,div1,USC Sumter,uscsumter,davidmettsg75n,David Metts
+Apr 9,home,Pitt,L,13-4,13,4,9.0,win,,,,,,,,,,,,,,,,,,,,,,,2016,2015-16,div1,USC Sumter,uscsumter,davidmettsg75n,David Metts
+Apr 10,home,Pitt,L,4-3,4,3,1.0,win,,,,,,,,,,,,,,,,,,,,,,,2016,2015-16,div1,USC Sumter,uscsumter,davidmettsg75n,David Metts
+Apr 10,home,Pitt,W,8-4,8,4,4.0,win,,,,,,,,,,,,,,,,,,,,,,,2016,2015-16,div1,USC Sumter,uscsumter,davidmettsg75n,David Metts
+Apr 13,home,Belmont Abbey JV,W,7-2,7,2,5.0,win,,,,,,,,,,,,,,,,,,,,,,,2016,2015-16,div1,USC Sumter,uscsumter,davidmettsg75n,David Metts
+Apr 13,home,Belmont Abbey JV,W,12-4,12,4,8.0,win,20160413_qtsv,0,0,0,,,,0,,,,,,,,0,0,,,,,0,2016,2015-16,div1,USC Sumter,uscsumter,davidmettsg75n,David Metts
+Apr 16,home,Spartanburg Methodist,L,1-0,1,0,1.0,win,,,,,,,,,,,,,,,,,,,,,,,2016,2015-16,div1,USC Sumter,uscsumter,davidmettsg75n,David Metts
+Apr 16,home,Spartanburg Methodist,W,4-3,4,3,1.0,win,,,,,,,,,,,,,,,,,,,,,,,2016,2015-16,div1,USC Sumter,uscsumter,davidmettsg75n,David Metts
+Apr 17,home,Spartanburg Methodist,L,6-0,6,0,6.0,win,,,,,,,,,,,,,,,,,,,,,,,2016,2015-16,div1,USC Sumter,uscsumter,davidmettsg75n,David Metts
+Apr 17,home,Spartanburg Methodist,L,9-5,9,5,4.0,win,,,,,,,,,,,,,,,,,,,,,,,2016,2015-16,div1,USC Sumter,uscsumter,davidmettsg75n,David Metts
+Apr 20,home,Anderson University JV,W,10-6,10,6,4.0,win,20160420_gy39,0,0,0,,,,0,,,,,,,,0,0,,,,,0,2016,2015-16,div1,USC Sumter,uscsumter,davidmettsg75n,David Metts
+Apr 20,home,Anderson University JV,W,10-1,10,1,9.0,win,,,,,,,,,,,,,,,,,,,,,,,2016,2015-16,div1,USC Sumter,uscsumter,davidmettsg75n,David Metts
+Apr 23,home,Guilford Tech,W,8-4,8,4,4.0,win,,,,,,,,,,,,,,,,,,,,,,,2016,2015-16,div1,USC Sumter,uscsumter,davidmettsg75n,David Metts
+Apr 23,home,Guilford Tech,W,10-6,10,6,4.0,win,,,,,,,,,,,,,,,,,,,,,,,2016,2015-16,div1,USC Sumter,uscsumter,davidmettsg75n,David Metts
+Apr 24,home,Guilford Tech,W,10-9,10,9,1.0,win,,,,,,,,,,,,,,,,,,,,,,,2016,2015-16,div1,USC Sumter,uscsumter,davidmettsg75n,David Metts
+Apr 24,home,Guilford Tech,L,6-3,6,3,3.0,win,20160424_ebpn,0,0,0,,,,0,,,,,,,,0,0,,,,,0,2016,2015-16,div1,USC Sumter,uscsumter,davidmettsg75n,David Metts
+Apr 30,home,USC Salkehatchie,W,15-2,15,2,13.0,win,,,,,,,,,,,,,,,,,,,,,,,2016,2015-16,div1,USC Sumter,uscsumter,davidmettsg75n,David Metts
+May 1,home,USC Salkehatchie,W,1-0,1,0,1.0,win,20160501_m4xu,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0,2016,2015-16,div1,USC Sumter,uscsumter,davidmettsg75n,David Metts
+May 7,home,Louisburg,L,5-4,5,4,1.0,win,,,,,,,,,,,,,,,,,,,,,,,2016,2015-16,div1,USC Sumter,uscsumter,davidmettsg75n,David Metts
+May 8,home,Pitt,L,8-7,8,7,1.0,win,,,,,,,,,,,,,,,,,,,,,,,2016,2015-16,div1,USC Sumter,uscsumter,davidmettsg75n,David Metts

@@ -1,22 +1,61 @@
-date,location,opponent,result,score,team_score,opp_score,game_score_diff_x,game_win_loss_x,game_id_x,AB,R,H,2B,3B,HR,RBI,BB,K,SB,CS,game_score_diff_y,game_win_loss_y,game_id_y,HBP,SF,SH,TB,XBH,HDP,GO,FO,GO/FO,PA,season,njcaa_season,njcaa_division,team,team_id,player_id,player_name
-Feb 21,home,Blackburn College,W,13-0,13,0,13.0,win,20160221_u5lz,3,1,0,,,,0,,2,,,13.0,win,20160221_u5lz,1,,,0,0,,,,,4,2016,2015-16,div1,Rend Lake,rendlakecollege,samtroyer26vb,Sam Troyer
-Feb 21,home,Blackburn College,W,16-1,16,1,15.0,win,20160221_z4sn,3,2,2,,1,,2,1,,,,15.0,win,20160221_z4sn,,,,4,1,,1,,,4,2016,2015-16,div1,Rend Lake,rendlakecollege,samtroyer26vb,Sam Troyer
-Mar 17,home,Shawnee,W,19-1,19,1,18.0,win,20160317_w6c4,2,2,1,1,,,3,1,,,,18.0,win,20160317_w6c4,1,,,2,1,,,1,,4,2016,2015-16,div1,Rend Lake,rendlakecollege,samtroyer26vb,Sam Troyer
-Mar 22,home,St. Louis,W,10-9,10,9,1.0,win,20160322_v2nn,4,0,0,,,,0,,1,,,1.0,win,20160322_v2nn,,,,0,0,1,,,,4,2016,2015-16,div1,Rend Lake,rendlakecollege,samtroyer26vb,Sam Troyer
-Mar 22,home,St. Louis,W,5-2,5,2,3.0,win,20160322_m334,4,0,0,,,,0,,,,,3.0,win,20160322_m334,,,,0,0,,,,,4,2016,2015-16,div1,Rend Lake,rendlakecollege,samtroyer26vb,Sam Troyer
-Mar 25,home,Lake Land,L,6-3,6,3,3.0,win,20160325_7ry2,4,0,0,,,,0,,,,,3.0,win,20160325_7ry2,1,,,0,0,,,,,5,2016,2015-16,div1,Rend Lake,rendlakecollege,samtroyer26vb,Sam Troyer
-Mar 29,home,Southeastern Illinois,W,13-1,13,1,12.0,win,20160329_xpn2,4,1,2,1,,,1,,,,,12.0,win,20160329_xpn2,1,,,3,1,,,,,5,2016,2015-16,div1,Rend Lake,rendlakecollege,samtroyer26vb,Sam Troyer
-Apr 2,home,Kaskaskia,W,12-2,12,2,10.0,win,20160402_0el7,2,2,1,,,,1,2,,,,10.0,win,20160402_0el7,,1,,1,0,1,,,,5,2016,2015-16,div1,Rend Lake,rendlakecollege,samtroyer26vb,Sam Troyer
-Apr 2,home,Kaskaskia,L,10-2,10,2,8.0,win,20160402_u2g3,3,0,0,,,,0,,1,,,8.0,win,20160402_u2g3,,,,0,0,,,,,3,2016,2015-16,div1,Rend Lake,rendlakecollege,samtroyer26vb,Sam Troyer
-Apr 5,home,Three Rivers,W,10-6,10,6,4.0,win,20160405_2evd,3,0,1,,,,1,,1,,,4.0,win,20160405_2evd,,1,,1,0,,,,,4,2016,2015-16,div1,Rend Lake,rendlakecollege,samtroyer26vb,Sam Troyer
-Apr 5,home,Three Rivers,W,8-2,8,2,6.0,win,20160405_wwoe,3,2,2,,,,1,1,,,,6.0,win,20160405_wwoe,,,,2,0,,,,,4,2016,2015-16,div1,Rend Lake,rendlakecollege,samtroyer26vb,Sam Troyer
-Apr 9,home,Wabash Valley,L,15-5,15,5,10.0,win,20160409_40zq,3,1,1,,,,0,1,1,,,10.0,win,20160409_40zq,,,,1,0,,,,,4,2016,2015-16,div1,Rend Lake,rendlakecollege,samtroyer26vb,Sam Troyer
-Apr 9,home,Wabash Valley,L,5-2,5,2,3.0,win,20160409_cd9s,2,1,2,1,,,0,,,1,,3.0,win,20160409_cd9s,1,,,3,1,,,,,3,2016,2015-16,div1,Rend Lake,rendlakecollege,samtroyer26vb,Sam Troyer
-Apr 14,home,John A. Logan,L,3-0,3,0,3.0,win,20160414_4c2w,3,0,0,,,,0,,,,,3.0,win,20160414_4c2w,,,,0,0,,,,,3,2016,2015-16,div1,Rend Lake,rendlakecollege,samtroyer26vb,Sam Troyer
-Apr 23,home,Olney Central,W,11-1,11,1,10.0,win,20160423_lrqf,3,4,2,,,,0,1,,,,10.0,win,20160423_lrqf,,,,2,0,,,,,4,2016,2015-16,div1,Rend Lake,rendlakecollege,samtroyer26vb,Sam Troyer
-Apr 23,home,Olney Central,W,5-3,5,3,2.0,win,20160423_m254,3,0,0,,,,0,,1,,,2.0,win,20160423_m254,,,,0,0,,,,,3,2016,2015-16,div1,Rend Lake,rendlakecollege,samtroyer26vb,Sam Troyer
-Apr 28,home,Southwestern Illinois,L,9-8,9,8,1.0,win,20160428_3uvb,4,2,2,,,,1,1,1,1,,1.0,win,20160428_3uvb,,,,2,0,,,,,5,2016,2015-16,div1,Rend Lake,rendlakecollege,samtroyer26vb,Sam Troyer
-Apr 28,home,Southwestern Illinois,W,12-1,12,1,11.0,win,20160428_7hrv,3,1,2,,,,0,,,1,,11.0,win,20160428_7hrv,,,,2,0,,,,,3,2016,2015-16,div1,Rend Lake,rendlakecollege,samtroyer26vb,Sam Troyer
-May 7,home,Lincoln Trail,L,6-5,6,5,1.0,win,20160507_nriq,4,0,1,,1,,0,1,,,,1.0,win,20160507_nriq,,,1,3,1,,,,,6,2016,2015-16,div1,Rend Lake,rendlakecollege,samtroyer26vb,Sam Troyer
-May 7,home,Lincoln Trail,W,10-0,10,0,10.0,win,20160507_dw17,3,3,2,2,,,2,1,1,,,10.0,win,20160507_dw17,,,,4,2,,,,,4,2016,2015-16,div1,Rend Lake,rendlakecollege,samtroyer26vb,Sam Troyer
-May 8,home,Lincoln Trail,W,3-2,3,2,1.0,win,20160508_8ofz,3,1,1,,1,,0,,,,,1.0,win,20160508_8ofz,,,1,3,1,,,,,4,2016,2015-16,div1,Rend Lake,rendlakecollege,samtroyer26vb,Sam Troyer
+date,location,opponent,result,score,team_score,opp_score,game_score_diff,game_win_loss,game_id,AB,R,H,2B,3B,HR,RBI,BB,K,SB,CS,HBP,SF,SH,TB,XBH,HDP,GO,FO,GO/FO,PA,season,njcaa_season,njcaa_division,team,team_id,player_id,player_name
+Feb 20,home,Northwest Mississippi,L,5-2,5,2,3.0,win,20160220_r38b,4,0,1,,,,1,,,,,,,,1,0,,2,1,2.00,4,2016,2015-16,div1,Rend Lake,rendlakecollege,samtroyer26vb,Sam Troyer
+Feb 20,home,Northwest Mississippi,L,5-2,5,2,3.0,win,20160220_segn,3,0,0,,,,0,,1,,,,,,0,0,,2,,,3,2016,2015-16,div1,Rend Lake,rendlakecollege,samtroyer26vb,Sam Troyer
+Feb 21,home,Blackburn College,W,13-0,13,0,13.0,win,20160221_u5lz,3,1,0,,,,0,,2,,,1,,,0,0,,,,,4,2016,2015-16,div1,Rend Lake,rendlakecollege,samtroyer26vb,Sam Troyer
+Feb 21,home,Blackburn College,W,16-1,16,1,15.0,win,20160221_z4sn,3,2,2,,1,,2,1,,,,,,,4,1,,1,,,4,2016,2015-16,div1,Rend Lake,rendlakecollege,samtroyer26vb,Sam Troyer
+Feb 23,home,Three Rivers,W,4-3,4,3,1.0,win,20160223_ig7b,3,0,0,,,,1,,,,,1,,,0,0,,1,2,0.50,4,2016,2015-16,div1,Rend Lake,rendlakecollege,samtroyer26vb,Sam Troyer
+Feb 23,home,Three Rivers,W,6-4,6,4,2.0,win,20160223_b7gq,3,1,1,,,,1,,,1,,1,,,1,0,,1,1,1.00,4,2016,2015-16,div1,Rend Lake,rendlakecollege,samtroyer26vb,Sam Troyer
+Feb 26,home,Coastal Alabama - Monroeville,W,13-0,13,0,13.0,win,20160226_q7sy,3,2,2,,,,1,1,,2,,,,,2,0,,1,,,4,2016,2015-16,div1,Rend Lake,rendlakecollege,samtroyer26vb,Sam Troyer
+Feb 27,home,Mineral Area,L,6-4,6,4,2.0,win,20160227_xp1k,3,1,0,,,,0,,,,,1,,,0,0,,,,,4,2016,2015-16,div1,Rend Lake,rendlakecollege,samtroyer26vb,Sam Troyer
+Feb 27,home,Pensacola State,L,5-3,5,3,2.0,win,20160227_5jkb,3,0,0,,,,0,1,2,,,,,,0,0,,,,,4,2016,2015-16,div1,Rend Lake,rendlakecollege,samtroyer26vb,Sam Troyer
+Feb 28,home,Delgado,L,3-2,3,2,1.0,win,20160228_8k7j,3,0,1,,,,0,,2,,,,,1,1,0,,,,,4,2016,2015-16,div1,Rend Lake,rendlakecollege,samtroyer26vb,Sam Troyer
+Feb 28,home,Mineral Area,W,7-6,7,6,1.0,win,20160228_howz,4,1,1,,,,0,,1,,,,,1,1,0,,,,,5,2016,2015-16,div1,Rend Lake,rendlakecollege,samtroyer26vb,Sam Troyer
+Mar 4,home,Muscatine,L,6-2,6,2,4.0,win,20160304_7gps,5,0,1,,,,1,,1,1,,,,,1,0,,,,,5,2016,2015-16,div1,Rend Lake,rendlakecollege,samtroyer26vb,Sam Troyer
+Mar 4,home,Southeast,W,13-1,13,1,12.0,win,20160304_iv1o,4,3,3,,1,,3,,,,,,,1,5,1,,,,,5,2016,2015-16,div1,Rend Lake,rendlakecollege,samtroyer26vb,Sam Troyer
+Mar 5,home,Iowa Central,L,3-1,3,1,2.0,win,20160305_wau3,3,0,1,1,,,0,,,1,1,,,,2,1,,,,,3,2016,2015-16,div1,Rend Lake,rendlakecollege,samtroyer26vb,Sam Troyer
+Mar 5,home,Lakeland,W,10-5,10,5,5.0,win,20160305_2he6,4,1,2,,,,2,,,,,,,,2,0,,,,,4,2016,2015-16,div1,Rend Lake,rendlakecollege,samtroyer26vb,Sam Troyer
+Mar 6,home,Southeastern,W,6-2,6,2,4.0,win,20160306_bpdx,4,1,2,2,,,3,,1,1,,1,,,4,2,,,,,5,2016,2015-16,div1,Rend Lake,rendlakecollege,samtroyer26vb,Sam Troyer
+Mar 8,home,Mineral Area,L,8-4,8,4,4.0,win,20160308_1f07,5,1,2,,,,0,,1,1,,,,,2,0,,,,,5,2016,2015-16,div1,Rend Lake,rendlakecollege,samtroyer26vb,Sam Troyer
+Mar 12,home,Lincoln Trail,L,2-0,2,0,2.0,win,20160312_bjfg,2,0,0,,,,0,1,1,,,1,,,0,0,,,,,4,2016,2015-16,div1,Rend Lake,rendlakecollege,samtroyer26vb,Sam Troyer
+Mar 12,home,Lincoln Trail,W,7-2,7,2,5.0,win,20160312_mkws,2,1,0,0,0,0,0,1,0,1,0,1,0,0,0,0,,0,,,4,2016,2015-16,div1,Rend Lake,rendlakecollege,samtroyer26vb,Sam Troyer
+Mar 14,home,Lincoln Trail,L,8-7,8,7,1.0,win,20160314_yfrl,5,2,2,2,,,0,,,,,,,,4,2,,1,2,0.50,5,2016,2015-16,div1,Rend Lake,rendlakecollege,samtroyer26vb,Sam Troyer
+Mar 15,home,St. Louis,L,3-1,3,1,2.0,win,20160315_8se4,3,0,1,1,,,0,,1,,1,,,,2,1,1,1,,,3,2016,2015-16,div1,Rend Lake,rendlakecollege,samtroyer26vb,Sam Troyer
+Mar 15,home,St. Louis,W,6-2,6,2,4.0,win,20160315_58ss,2,0,0,,,,0,,,,,1,,1,0,0,,1,,,4,2016,2015-16,div1,Rend Lake,rendlakecollege,samtroyer26vb,Sam Troyer
+Mar 17,home,Shawnee,W,19-1,19,1,18.0,win,20160317_w6c4,2,2,1,1,,,3,1,,,,1,,,2,1,,,1,,4,2016,2015-16,div1,Rend Lake,rendlakecollege,samtroyer26vb,Sam Troyer
+Mar 21,home,Shawnee,W,6-5,6,5,1.0,win,20160321_o6rt,4,0,1,,,,0,,,,,,,1,1,0,,1,2,0.50,5,2016,2015-16,div1,Rend Lake,rendlakecollege,samtroyer26vb,Sam Troyer
+Mar 21,home,Shawnee,W,4-0,4,0,4.0,win,20160321_bqmx,3,0,1,,,,0,1,,,,,,,1,0,,1,1,1.00,4,2016,2015-16,div1,Rend Lake,rendlakecollege,samtroyer26vb,Sam Troyer
+Mar 22,home,St. Louis,W,10-9,10,9,1.0,win,20160322_v2nn,4,0,0,,,,0,,1,,,,,,0,0,1,,,,4,2016,2015-16,div1,Rend Lake,rendlakecollege,samtroyer26vb,Sam Troyer
+Mar 22,home,St. Louis,W,5-2,5,2,3.0,win,20160322_m334,4,0,0,,,,0,,,,,,,,0,0,,,,,4,2016,2015-16,div1,Rend Lake,rendlakecollege,samtroyer26vb,Sam Troyer
+Mar 25,home,Lake Land,L,6-3,6,3,3.0,win,20160325_7ry2,4,0,0,,,,0,,,,,1,,,0,0,,,,,5,2016,2015-16,div1,Rend Lake,rendlakecollege,samtroyer26vb,Sam Troyer
+Mar 26,home,Lake Land,W,10-5,10,5,5.0,win,20160326_gr17,3,1,0,,,,1,1,,,,,1,,0,0,,,,,5,2016,2015-16,div1,Rend Lake,rendlakecollege,samtroyer26vb,Sam Troyer
+Mar 26,home,Lake Land,W,11-3,11,3,8.0,win,20160326_9mf3,4,2,1,,,,0,,,1,,1,,,1,0,,,,,5,2016,2015-16,div1,Rend Lake,rendlakecollege,samtroyer26vb,Sam Troyer
+Mar 29,home,Southeastern Illinois,W,13-1,13,1,12.0,win,20160329_xpn2,4,1,2,1,,,1,,,,,1,,,3,1,,,,,5,2016,2015-16,div1,Rend Lake,rendlakecollege,samtroyer26vb,Sam Troyer
+Mar 31,home,Kaskaskia,L,8-2,8,2,6.0,win,20160331_ivd5,3,1,1,,,,0,,1,,,1,,,1,0,,,,,4,2016,2015-16,div1,Rend Lake,rendlakecollege,samtroyer26vb,Sam Troyer
+Apr 2,home,Kaskaskia,W,12-2,12,2,10.0,win,20160402_0el7,2,2,1,,,,1,2,,,,,1,,1,0,1,,,,5,2016,2015-16,div1,Rend Lake,rendlakecollege,samtroyer26vb,Sam Troyer
+Apr 2,home,Kaskaskia,L,10-2,10,2,8.0,win,20160402_u2g3,3,0,0,,,,0,,1,,,,,,0,0,,,,,3,2016,2015-16,div1,Rend Lake,rendlakecollege,samtroyer26vb,Sam Troyer
+Apr 5,home,Three Rivers,W,10-6,10,6,4.0,win,20160405_2evd,3,0,1,,,,1,,1,,,,1,,1,0,,,,,4,2016,2015-16,div1,Rend Lake,rendlakecollege,samtroyer26vb,Sam Troyer
+Apr 5,home,Three Rivers,W,8-2,8,2,6.0,win,20160405_wwoe,3,2,2,,,,1,1,,,,,,,2,0,,,,,4,2016,2015-16,div1,Rend Lake,rendlakecollege,samtroyer26vb,Sam Troyer
+Apr 7,home,Wabash Valley,L,4-0,4,0,4.0,win,20160407_ys21,4,0,0,,,,0,,1,,,,,,0,0,,,,,4,2016,2015-16,div1,Rend Lake,rendlakecollege,samtroyer26vb,Sam Troyer
+Apr 9,home,Wabash Valley,L,15-5,15,5,10.0,win,20160409_40zq,3,1,1,,,,0,1,1,,,,,,1,0,,,,,4,2016,2015-16,div1,Rend Lake,rendlakecollege,samtroyer26vb,Sam Troyer
+Apr 9,home,Wabash Valley,L,5-2,5,2,3.0,win,20160409_cd9s,2,1,2,1,,,0,,,1,,1,,,3,1,,,,,3,2016,2015-16,div1,Rend Lake,rendlakecollege,samtroyer26vb,Sam Troyer
+Apr 12,home,Southeastern Illinois,W,8-2,8,2,6.0,win,20160412_kbz0,4,1,2,1,,,0,,1,2,,,,,3,1,,,,,4,2016,2015-16,div1,Rend Lake,rendlakecollege,samtroyer26vb,Sam Troyer
+Apr 12,home,Southeastern Illinois,W,6-3,6,3,3.0,win,20160412_r6n2,2,0,0,,,,0,1,,,,,,,0,0,1,,,,3,2016,2015-16,div1,Rend Lake,rendlakecollege,samtroyer26vb,Sam Troyer
+Apr 14,home,John A. Logan,L,3-0,3,0,3.0,win,20160414_4c2w,3,0,0,,,,0,,,,,,,,0,0,,,,,3,2016,2015-16,div1,Rend Lake,rendlakecollege,samtroyer26vb,Sam Troyer
+Apr 16,home,John A. Logan,W,5-2,5,2,3.0,win,20160416_le1a,4,1,1,1,,,1,,1,,,,,,2,1,,,,,4,2016,2015-16,div1,Rend Lake,rendlakecollege,samtroyer26vb,Sam Troyer
+Apr 16,home,John A. Logan,L,8-4,8,4,4.0,win,20160416_pa7a,3,0,1,,,,0,,1,1,,,,,1,0,,,,,3,2016,2015-16,div1,Rend Lake,rendlakecollege,samtroyer26vb,Sam Troyer
+Apr 18,home,Kentucky Wesleyan College,W,13-3,13,3,10.0,win,20160418_390a,3,0,1,,,,3,,,1,,,1,,1,0,,,,,4,2016,2015-16,div1,Rend Lake,rendlakecollege,samtroyer26vb,Sam Troyer
+Apr 18,home,Kentucky Wesleyan College,W,5-1,5,1,4.0,win,20160418_zeym,3,1,2,,,,1,,1,1,,,,,2,0,,,,,3,2016,2015-16,div1,Rend Lake,rendlakecollege,samtroyer26vb,Sam Troyer
+Apr 23,home,Olney Central,W,11-1,11,1,10.0,win,20160423_lrqf,3,4,2,,,,0,1,,,,,,,2,0,,,,,4,2016,2015-16,div1,Rend Lake,rendlakecollege,samtroyer26vb,Sam Troyer
+Apr 23,home,Olney Central,W,5-3,5,3,2.0,win,20160423_m254,3,0,0,,,,0,,1,,,,,,0,0,,,,,3,2016,2015-16,div1,Rend Lake,rendlakecollege,samtroyer26vb,Sam Troyer
+Apr 24,home,Olney Central,W,21-4,21,4,17.0,win,20160424_re8v,3,3,2,,,,0,,1,1,,1,,,2,0,,,,,4,2016,2015-16,div1,Rend Lake,rendlakecollege,samtroyer26vb,Sam Troyer
+Apr 28,home,Southwestern Illinois,L,9-8,9,8,1.0,win,20160428_3uvb,4,2,2,,,,1,1,1,1,,,,,2,0,,,,,5,2016,2015-16,div1,Rend Lake,rendlakecollege,samtroyer26vb,Sam Troyer
+Apr 28,home,Southwestern Illinois,W,12-1,12,1,11.0,win,20160428_7hrv,3,1,2,,,,0,,,1,,,,,2,0,,,,,3,2016,2015-16,div1,Rend Lake,rendlakecollege,samtroyer26vb,Sam Troyer
+Apr 29,home,Southwestern Illinois,W,9-1,9,1,8.0,win,20160429_43yf,2,1,0,,,,0,2,,,1,,,,0,0,,,,,4,2016,2015-16,div1,Rend Lake,rendlakecollege,samtroyer26vb,Sam Troyer
+May 3,home,McKendree University,W,4-2,4,2,2.0,win,20160503_v813,3,1,1,,,,0,,,,,,,,1,0,,,,,3,2016,2015-16,div1,Rend Lake,rendlakecollege,samtroyer26vb,Sam Troyer
+May 3,home,McKendree University,W,9-1,9,1,8.0,win,20160503_ptkx,3,1,2,1,,,1,1,,,,,,,3,1,,,,,4,2016,2015-16,div1,Rend Lake,rendlakecollege,samtroyer26vb,Sam Troyer
+May 7,home,Lincoln Trail,L,6-5,6,5,1.0,win,20160507_nriq,4,0,1,,1,,0,1,,,,,,1,3,1,,,,,6,2016,2015-16,div1,Rend Lake,rendlakecollege,samtroyer26vb,Sam Troyer
+May 7,home,Lincoln Trail,W,10-0,10,0,10.0,win,20160507_dw17,3,3,2,2,,,2,1,1,,,,,,4,2,,,,,4,2016,2015-16,div1,Rend Lake,rendlakecollege,samtroyer26vb,Sam Troyer
+May 8,home,Lincoln Trail,W,3-2,3,2,1.0,win,20160508_8ofz,3,1,1,,1,,0,,,,,,,1,3,1,,,,,4,2016,2015-16,div1,Rend Lake,rendlakecollege,samtroyer26vb,Sam Troyer
+May 13,home,Kaskaskia,L,1-0,1,0,1.0,win,20160513_qlan,3,0,1,,,,0,,1,1,,1,,,1,0,,,,,4,2016,2015-16,div1,Rend Lake,rendlakecollege,samtroyer26vb,Sam Troyer
+May 14,home,Lake Land,W,10-0,10,0,10.0,win,20160514_hha5,4,0,1,,,,0,,1,,,,,,1,0,,,,,4,2016,2015-16,div1,Rend Lake,rendlakecollege,samtroyer26vb,Sam Troyer
+May 14,home,Kaskaskia,L,12-8,12,8,4.0,win,20160514_b9sm,5,0,0,,,,1,,1,,,,,,0,0,,,,,5,2016,2015-16,div1,Rend Lake,rendlakecollege,samtroyer26vb,Sam Troyer

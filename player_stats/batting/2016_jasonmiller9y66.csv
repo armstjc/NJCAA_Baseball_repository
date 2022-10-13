@@ -1,32 +1,59 @@
-date,location,opponent,result,score,team_score,opp_score,game_score_diff_x,game_win_loss_x,game_id_x,AB,R,H,2B,3B,HR,RBI,BB,K,SB,CS,game_score_diff_y,game_win_loss_y,game_id_y,HBP,SF,SH,TB,XBH,HDP,GO,FO,GO/FO,PA,season,njcaa_season,njcaa_division,team,team_id,player_id,player_name
-Jan 30,home,Catawba Valley,W,6-2,6,2,4.0,win,,,,,,,,,,,,,4.0,win,,,,,,,,,,,,2016,2015-16,div1,USC Sumter,uscsumter,jasonmiller9y66,Jason Miller
-Jan 30,home,Catawba Valley,L,10-9,10,9,1.0,win,,,,,,,,,,,,,1.0,win,,,,,,,,,,,,2016,2015-16,div1,USC Sumter,uscsumter,jasonmiller9y66,Jason Miller
-Jan 31,home,Catawba Valley,W,5-4,5,4,1.0,win,20160131_b1ie,2,1,1,,,1,1,1,,,,1.0,win,20160131_b1ie,,,,4,1,,,,,3,2016,2015-16,div1,USC Sumter,uscsumter,jasonmiller9y66,Jason Miller
-Jan 31,home,Catawba Valley,W,8-4,8,4,4.0,win,20160131_ce76,2,1,0,,,,1,1,,,,4.0,win,20160131_ce76,,,1,0,0,,,,,4,2016,2015-16,div1,USC Sumter,uscsumter,jasonmiller9y66,Jason Miller
-Feb 18,home,Newberry College JV,W,8-7,8,7,1.0,win,20160218_trn4,4,1,3,1,,,1,,,,,1.0,win,20160218_trn4,,,,4,1,,,,,4,2016,2015-16,div1,USC Sumter,uscsumter,jasonmiller9y66,Jason Miller
-Feb 18,home,Newberry College JV,L,9-4,9,4,5.0,win,20160218_jmrq,3,2,3,,,1,1,1,,,,5.0,win,20160218_jmrq,,,,6,1,,,,,4,2016,2015-16,div1,USC Sumter,uscsumter,jasonmiller9y66,Jason Miller
-Feb 20,home,Harford,L,13-3,13,3,10.0,win,20160220_f09c,3,0,1,,,,1,,,,,10.0,win,20160220_f09c,,,,1,0,,1,1,1.00,3,2016,2015-16,div1,USC Sumter,uscsumter,jasonmiller9y66,Jason Miller
-Feb 20,home,Harford,W,4-0,4,0,4.0,win,20160220_mw7n,2,0,0,,,,0,,,,,4.0,win,20160220_mw7n,1,,,0,0,,1,1,1.00,3,2016,2015-16,div1,USC Sumter,uscsumter,jasonmiller9y66,Jason Miller
-Feb 21,home,Harford,L,4-1,4,1,3.0,win,20160221_rqhe,3,0,0,,,,0,,,,,3.0,win,20160221_rqhe,,,,0,0,1,2,1,2.00,3,2016,2015-16,div1,USC Sumter,uscsumter,jasonmiller9y66,Jason Miller
-Feb 21,home,Harford,L,3-2,3,2,1.0,win,20160221_bji1,4,0,0,,,,0,,2,,,1.0,win,20160221_bji1,,,,0,0,,,2,,4,2016,2015-16,div1,USC Sumter,uscsumter,jasonmiller9y66,Jason Miller
-Mar 5,home,Brunswick,L,10-1,10,1,9.0,win,20160305_4w0w,4,0,1,,,,0,,1,,,9.0,win,20160305_4w0w,,,,1,0,,,,,4,2016,2015-16,div1,USC Sumter,uscsumter,jasonmiller9y66,Jason Miller
-Mar 5,home,Monroe College,L,5-3,5,3,2.0,win,,,,,,,,,,,,,2.0,win,,,,,,,,,,,,2016,2015-16,div1,USC Sumter,uscsumter,jasonmiller9y66,Jason Miller
-Mar 6,home,Brunswick,W,12-11,12,11,1.0,win,20160306_fj58,4,1,1,,1,,2,1,,,,1.0,win,20160306_fj58,,,,3,1,,,,,5,2016,2015-16,div1,USC Sumter,uscsumter,jasonmiller9y66,Jason Miller
-Mar 8,home,Anderson University JV,W,9-0,9,0,9.0,win,20160308_7cit,4,1,2,1,,,1,,,,,9.0,win,20160308_7cit,,,,3,1,,,,,4,2016,2015-16,div1,USC Sumter,uscsumter,jasonmiller9y66,Jason Miller
-Mar 8,home,Anderson University JV,W,13-2,13,2,11.0,win,20160308_voil,5,1,3,,,,0,,1,,,11.0,win,20160308_voil,,,,3,0,,,,,5,2016,2015-16,div1,USC Sumter,uscsumter,jasonmiller9y66,Jason Miller
-Mar 19,home,Louisburg,W,8-7,8,7,1.0,win,20160319_r80g,5,0,5,1,,,3,,,,,1.0,win,20160319_r80g,,,,6,1,,,,,5,2016,2015-16,div1,USC Sumter,uscsumter,jasonmiller9y66,Jason Miller
-Mar 19,home,Louisburg,W,11-7,11,7,4.0,win,20160319_110d,4,1,1,,,,0,,,,,4.0,win,20160319_110d,,,,1,0,,,,,4,2016,2015-16,div1,USC Sumter,uscsumter,jasonmiller9y66,Jason Miller
-Mar 20,home,Louisburg,W,4-3,4,3,1.0,win,20160320_axoh,2,0,0,,,,0,1,1,,,1.0,win,20160320_axoh,,,1,0,0,,,,,4,2016,2015-16,div1,USC Sumter,uscsumter,jasonmiller9y66,Jason Miller
-Mar 20,home,Louisburg,W,13-7,13,7,6.0,win,20160320_6x7t,4,2,3,1,,,4,1,1,,,6.0,win,20160320_6x7t,,,,4,1,,,,,5,2016,2015-16,div1,USC Sumter,uscsumter,jasonmiller9y66,Jason Miller
-Mar 30,home,Belmont Abbey JV,W,10-9,10,9,1.0,win,,,,,,,,,,,,,1.0,win,,,,,,,,,,,,2016,2015-16,div1,USC Sumter,uscsumter,jasonmiller9y66,Jason Miller
-Mar 30,home,Belmont Abbey JV,W,17-0,17,0,17.0,win,,,,,,,,,,,,,17.0,win,,,,,,,,,,,,2016,2015-16,div1,USC Sumter,uscsumter,jasonmiller9y66,Jason Miller
-Apr 2,home,USC Lancaster,W,7-6,7,6,1.0,win,20160402_v3mt,4,0,1,,,,0,,2,,,1.0,win,20160402_v3mt,,,,1,0,,,,,4,2016,2015-16,div1,USC Sumter,uscsumter,jasonmiller9y66,Jason Miller
-Apr 2,home,USC Lancaster,L,8-6,8,6,2.0,win,20160402_1jgf,4,0,2,,,,0,,1,,1,2.0,win,20160402_1jgf,,,,2,0,,,,,4,2016,2015-16,div1,USC Sumter,uscsumter,jasonmiller9y66,Jason Miller
-Apr 3,home,USC Lancaster,W,5-3,5,3,2.0,win,20160403_qfsx,3,1,1,,,,0,,,,,2.0,win,20160403_qfsx,,,,1,0,,,,,3,2016,2015-16,div1,USC Sumter,uscsumter,jasonmiller9y66,Jason Miller
-Apr 3,home,USC Lancaster,W,3-2,3,2,1.0,win,20160403_seh3,3,0,1,,,,0,,,,,1.0,win,20160403_seh3,,,,1,0,,,,,3,2016,2015-16,div1,USC Sumter,uscsumter,jasonmiller9y66,Jason Miller
-Apr 23,home,Guilford Tech,W,8-4,8,4,4.0,win,20160423_n83v,3,0,1,1,,,1,1,,,,4.0,win,20160423_n83v,,,,2,1,,,,,4,2016,2015-16,div1,USC Sumter,uscsumter,jasonmiller9y66,Jason Miller
-Apr 23,home,Guilford Tech,W,10-6,10,6,4.0,win,20160423_dkq5,1,1,1,,,,1,3,,,,4.0,win,20160423_dkq5,,,,1,0,,,,,4,2016,2015-16,div1,USC Sumter,uscsumter,jasonmiller9y66,Jason Miller
-Apr 24,home,Guilford Tech,W,10-9,10,9,1.0,win,20160424_gl0o,5,1,2,,,,1,1,,1,,1.0,win,20160424_gl0o,,,,2,0,,,,,6,2016,2015-16,div1,USC Sumter,uscsumter,jasonmiller9y66,Jason Miller
-Apr 24,home,Guilford Tech,L,6-3,6,3,3.0,win,20160424_ebpn,3,1,1,,,1,2,,,,,3.0,win,20160424_ebpn,,,,4,1,,,,,3,2016,2015-16,div1,USC Sumter,uscsumter,jasonmiller9y66,Jason Miller
-Apr 30,home,USC Salkehatchie,W,15-2,15,2,13.0,win,20160430_zchh,5,3,4,0,1,1,4,0,0,0,0,13.0,win,20160430_zchh,0,0,0,9,2,0,1,0,,5,2016,2015-16,div1,USC Sumter,uscsumter,jasonmiller9y66,Jason Miller
-May 7,home,Louisburg,L,5-4,5,4,1.0,win,,,,,,,,,,,,,1.0,win,,,,,,,,,,,,2016,2015-16,div1,USC Sumter,uscsumter,jasonmiller9y66,Jason Miller
+date,location,opponent,result,score,team_score,opp_score,game_score_diff,game_win_loss,game_id,AB,R,H,2B,3B,HR,RBI,BB,K,SB,CS,HBP,SF,SH,TB,XBH,HDP,GO,FO,GO/FO,PA,season,njcaa_season,njcaa_division,team,team_id,player_id,player_name
+Jan 30,home,Catawba Valley,W,6-2,6,2,4.0,win,,,,,,,,,,,,,,,,,,,,,,,2016,2015-16,div1,USC Sumter,uscsumter,jasonmiller9y66,Jason Miller
+Jan 30,home,Catawba Valley,L,10-9,10,9,1.0,win,,,,,,,,,,,,,,,,,,,,,,,2016,2015-16,div1,USC Sumter,uscsumter,jasonmiller9y66,Jason Miller
+Jan 31,home,Catawba Valley,W,5-4,5,4,1.0,win,20160131_b1ie,2,1,1,,,1,1,1,,,,,,,4,1,,,,,3,2016,2015-16,div1,USC Sumter,uscsumter,jasonmiller9y66,Jason Miller
+Jan 31,home,Catawba Valley,W,8-4,8,4,4.0,win,20160131_ce76,2,1,0,,,,1,1,,,,,,1,0,0,,,,,4,2016,2015-16,div1,USC Sumter,uscsumter,jasonmiller9y66,Jason Miller
+Feb 18,home,Newberry College JV,W,8-7,8,7,1.0,win,20160218_trn4,4,1,3,1,,,1,,,,,,,,4,1,,,,,4,2016,2015-16,div1,USC Sumter,uscsumter,jasonmiller9y66,Jason Miller
+Feb 18,home,Newberry College JV,L,9-4,9,4,5.0,win,20160218_jmrq,3,2,3,,,1,1,1,,,,,,,6,1,,,,,4,2016,2015-16,div1,USC Sumter,uscsumter,jasonmiller9y66,Jason Miller
+Feb 20,home,Harford,L,13-3,13,3,10.0,win,20160220_f09c,3,0,1,,,,1,,,,,,,,1,0,,1,1,1.00,3,2016,2015-16,div1,USC Sumter,uscsumter,jasonmiller9y66,Jason Miller
+Feb 20,home,Harford,W,4-0,4,0,4.0,win,20160220_mw7n,2,0,0,,,,0,,,,,1,,,0,0,,1,1,1.00,3,2016,2015-16,div1,USC Sumter,uscsumter,jasonmiller9y66,Jason Miller
+Feb 21,home,Harford,L,4-1,4,1,3.0,win,20160221_rqhe,3,0,0,,,,0,,,,,,,,0,0,1,2,1,2.00,3,2016,2015-16,div1,USC Sumter,uscsumter,jasonmiller9y66,Jason Miller
+Feb 21,home,Harford,L,3-2,3,2,1.0,win,20160221_bji1,4,0,0,,,,0,,2,,,,,,0,0,,,2,,4,2016,2015-16,div1,USC Sumter,uscsumter,jasonmiller9y66,Jason Miller
+Feb 26,home,Florida State Jacksonville,W,9-7,9,7,2.0,win,20160226_0r5w,6,1,3,1,,,0,,2,,,,,,4,1,,,,,6,2016,2015-16,div1,USC Sumter,uscsumter,jasonmiller9y66,Jason Miller
+Feb 27,home,Florida State Jacksonville,L,7-4,7,4,3.0,win,20160227_akh4,4,1,1,,1,,3,,,,,,,,3,1,,,,,4,2016,2015-16,div1,USC Sumter,uscsumter,jasonmiller9y66,Jason Miller
+Feb 27,home,Florida State Jacksonville,W,13-0,13,0,13.0,win,20160227_yt0l,5,2,3,,,1,3,,,,,,,,6,1,,,,,5,2016,2015-16,div1,USC Sumter,uscsumter,jasonmiller9y66,Jason Miller
+Mar 5,home,Brunswick,L,10-1,10,1,9.0,win,20160305_4w0w,4,0,1,,,,0,,1,,,,,,1,0,,,,,4,2016,2015-16,div1,USC Sumter,uscsumter,jasonmiller9y66,Jason Miller
+Mar 5,home,Monroe College,L,5-3,5,3,2.0,win,,,,,,,,,,,,,,,,,,,,,,,2016,2015-16,div1,USC Sumter,uscsumter,jasonmiller9y66,Jason Miller
+Mar 6,home,Brunswick,W,12-11,12,11,1.0,win,20160306_fj58,4,1,1,,1,,2,1,,,,,,,3,1,,,,,5,2016,2015-16,div1,USC Sumter,uscsumter,jasonmiller9y66,Jason Miller
+Mar 8,home,Anderson University JV,W,9-0,9,0,9.0,win,20160308_7cit,4,1,2,1,,,1,,,,,,,,3,1,,,,,4,2016,2015-16,div1,USC Sumter,uscsumter,jasonmiller9y66,Jason Miller
+Mar 8,home,Anderson University JV,W,13-2,13,2,11.0,win,20160308_voil,5,1,3,,,,0,,1,,,,,,3,0,,,,,5,2016,2015-16,div1,USC Sumter,uscsumter,jasonmiller9y66,Jason Miller
+Mar 12,home,Florence-Darlington Tech,W,19-10,19,10,9.0,win,20160312_blfb,3,4,2,1,,,2,1,1,,,,,,3,1,,,,,4,2016,2015-16,div1,USC Sumter,uscsumter,jasonmiller9y66,Jason Miller
+Mar 12,home,Florence-Darlington Tech,L,3-1,3,1,2.0,win,20160312_qjxr,3,0,0,,,,0,,,,,,,,0,0,,,,,3,2016,2015-16,div1,USC Sumter,uscsumter,jasonmiller9y66,Jason Miller
+Mar 13,home,Florence-Darlington Tech,L,8-2,8,2,6.0,win,20160313_myck,3,0,1,,,,1,,,,,,,,1,0,,,,,3,2016,2015-16,div1,USC Sumter,uscsumter,jasonmiller9y66,Jason Miller
+Mar 13,home,Florence-Darlington Tech,W,10-1,10,1,9.0,win,20160313_0d5q,5,2,0,,,,0,,1,1,,,,,0,0,,,,,5,2016,2015-16,div1,USC Sumter,uscsumter,jasonmiller9y66,Jason Miller
+Mar 19,home,Louisburg,W,8-7,8,7,1.0,win,20160319_r80g,5,0,5,1,,,3,,,,,,,,6,1,,,,,5,2016,2015-16,div1,USC Sumter,uscsumter,jasonmiller9y66,Jason Miller
+Mar 19,home,Louisburg,W,11-7,11,7,4.0,win,20160319_110d,4,1,1,,,,0,,,,,,,,1,0,,,,,4,2016,2015-16,div1,USC Sumter,uscsumter,jasonmiller9y66,Jason Miller
+Mar 20,home,Louisburg,W,4-3,4,3,1.0,win,20160320_axoh,2,0,0,,,,0,1,1,,,,,1,0,0,,,,,4,2016,2015-16,div1,USC Sumter,uscsumter,jasonmiller9y66,Jason Miller
+Mar 20,home,Louisburg,W,13-7,13,7,6.0,win,20160320_6x7t,4,2,3,1,,,4,1,1,,,,,,4,1,,,,,5,2016,2015-16,div1,USC Sumter,uscsumter,jasonmiller9y66,Jason Miller
+Mar 23,home,Newberry College JV,W,6-0,6,0,6.0,win,20160323_rldq,4,1,2,,,,1,,,1,,,,,2,0,,,,,4,2016,2015-16,div1,USC Sumter,uscsumter,jasonmiller9y66,Jason Miller
+Mar 23,home,Newberry College JV,W,8-6,8,6,2.0,win,20160323_wv4h,3,1,1,,,,0,,1,,,,,,1,0,,,,,3,2016,2015-16,div1,USC Sumter,uscsumter,jasonmiller9y66,Jason Miller
+Mar 25,home,USC Salkehatchie,W,1-0,1,0,1.0,win,20160325_y031,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1.00,3,2016,2015-16,div1,USC Sumter,uscsumter,jasonmiller9y66,Jason Miller
+Mar 25,home,USC Salkehatchie,W,8-6,8,6,2.0,win,20160325_9tan,4,1,2,0,0,0,1,0,0,0,0,0,0,0,2,0,0,2,0,,4,2016,2015-16,div1,USC Sumter,uscsumter,jasonmiller9y66,Jason Miller
+Mar 26,home,USC Salkehatchie,W,6-1,6,1,5.0,win,20160326_i8mx,4,0,2,0,0,0,1,0,0,0,0,0,0,0,2,0,0,0,2,0.00,4,2016,2015-16,div1,USC Sumter,uscsumter,jasonmiller9y66,Jason Miller
+Mar 26,home,USC Salkehatchie,W,5-4,5,4,1.0,win,20160326_7j6w,4,0,1,0,0,0,2,0,1,0,0,0,0,0,1,0,0,1,1,1.00,4,2016,2015-16,div1,USC Sumter,uscsumter,jasonmiller9y66,Jason Miller
+Mar 30,home,Belmont Abbey JV,W,10-9,10,9,1.0,win,,,,,,,,,,,,,,,,,,,,,,,2016,2015-16,div1,USC Sumter,uscsumter,jasonmiller9y66,Jason Miller
+Mar 30,home,Belmont Abbey JV,W,17-0,17,0,17.0,win,,,,,,,,,,,,,,,,,,,,,,,2016,2015-16,div1,USC Sumter,uscsumter,jasonmiller9y66,Jason Miller
+Apr 2,home,USC Lancaster,W,7-6,7,6,1.0,win,20160402_v3mt,4,0,1,,,,0,,2,,,,,,1,0,,,,,4,2016,2015-16,div1,USC Sumter,uscsumter,jasonmiller9y66,Jason Miller
+Apr 2,home,USC Lancaster,L,8-6,8,6,2.0,win,20160402_1jgf,4,0,2,,,,0,,1,,1,,,,2,0,,,,,4,2016,2015-16,div1,USC Sumter,uscsumter,jasonmiller9y66,Jason Miller
+Apr 3,home,USC Lancaster,W,5-3,5,3,2.0,win,20160403_qfsx,3,1,1,,,,0,,,,,,,,1,0,,,,,3,2016,2015-16,div1,USC Sumter,uscsumter,jasonmiller9y66,Jason Miller
+Apr 3,home,USC Lancaster,W,3-2,3,2,1.0,win,20160403_seh3,3,0,1,,,,0,,,,,,,,1,0,,,,,3,2016,2015-16,div1,USC Sumter,uscsumter,jasonmiller9y66,Jason Miller
+Apr 9,home,Pitt,W,15-2,15,2,13.0,win,20160409_kz0h,4,3,1,,,,1,1,,,,,,,1,0,,,,,5,2016,2015-16,div1,USC Sumter,uscsumter,jasonmiller9y66,Jason Miller
+Apr 9,home,Pitt,L,13-4,13,4,9.0,win,20160409_tgp5,3,2,2,1,,,0,,,,,,,,3,1,,,,,3,2016,2015-16,div1,USC Sumter,uscsumter,jasonmiller9y66,Jason Miller
+Apr 10,home,Pitt,L,4-3,4,3,1.0,win,20160410_hvab,5,1,2,1,,,0,,,,,,,,3,1,,,,,5,2016,2015-16,div1,USC Sumter,uscsumter,jasonmiller9y66,Jason Miller
+Apr 10,home,Pitt,W,8-4,8,4,4.0,win,20160410_yr4n,4,0,1,,,,1,,,,,,,,1,0,,,,,4,2016,2015-16,div1,USC Sumter,uscsumter,jasonmiller9y66,Jason Miller
+Apr 13,home,Belmont Abbey JV,W,7-2,7,2,5.0,win,20160413_fyrb,4,0,1,,,,1,,2,,,,,,1,0,,,,,4,2016,2015-16,div1,USC Sumter,uscsumter,jasonmiller9y66,Jason Miller
+Apr 13,home,Belmont Abbey JV,W,12-4,12,4,8.0,win,20160413_qtsv,4,2,2,,,,0,,,,,,,,2,0,,,,,4,2016,2015-16,div1,USC Sumter,uscsumter,jasonmiller9y66,Jason Miller
+Apr 16,home,Spartanburg Methodist,L,1-0,1,0,1.0,win,20160416_a3ki,3,0,2,,,,0,,,,,,,,2,0,,1,,,3,2016,2015-16,div1,USC Sumter,uscsumter,jasonmiller9y66,Jason Miller
+Apr 16,home,Spartanburg Methodist,W,4-3,4,3,1.0,win,20160416_7voh,4,1,2,,,,0,,1,2,,,,,2,0,1,1,,,4,2016,2015-16,div1,USC Sumter,uscsumter,jasonmiller9y66,Jason Miller
+Apr 17,home,Spartanburg Methodist,L,6-0,6,0,6.0,win,20160417_mejn,3,0,0,,,,0,,,,,,,,0,0,,2,1,2.00,3,2016,2015-16,div1,USC Sumter,uscsumter,jasonmiller9y66,Jason Miller
+Apr 17,home,Spartanburg Methodist,L,9-5,9,5,4.0,win,20160417_5j48,3,1,1,,,,0,1,,1,,,,,1,0,,1,,,4,2016,2015-16,div1,USC Sumter,uscsumter,jasonmiller9y66,Jason Miller
+Apr 20,home,Anderson University JV,W,10-6,10,6,4.0,win,20160420_gy39,4,1,3,1,,,3,1,,1,,,,,4,1,,,,,5,2016,2015-16,div1,USC Sumter,uscsumter,jasonmiller9y66,Jason Miller
+Apr 20,home,Anderson University JV,W,10-1,10,1,9.0,win,20160420_at4a,2,1,2,,1,,0,3,,,1,,,,4,1,,,,,5,2016,2015-16,div1,USC Sumter,uscsumter,jasonmiller9y66,Jason Miller
+Apr 23,home,Guilford Tech,W,8-4,8,4,4.0,win,20160423_n83v,3,0,1,1,,,1,1,,,,,,,2,1,,,,,4,2016,2015-16,div1,USC Sumter,uscsumter,jasonmiller9y66,Jason Miller
+Apr 23,home,Guilford Tech,W,10-6,10,6,4.0,win,20160423_dkq5,1,1,1,,,,1,3,,,,,,,1,0,,,,,4,2016,2015-16,div1,USC Sumter,uscsumter,jasonmiller9y66,Jason Miller
+Apr 24,home,Guilford Tech,W,10-9,10,9,1.0,win,20160424_gl0o,5,1,2,,,,1,1,,1,,,,,2,0,,,,,6,2016,2015-16,div1,USC Sumter,uscsumter,jasonmiller9y66,Jason Miller
+Apr 24,home,Guilford Tech,L,6-3,6,3,3.0,win,20160424_ebpn,3,1,1,,,1,2,,,,,,,,4,1,,,,,3,2016,2015-16,div1,USC Sumter,uscsumter,jasonmiller9y66,Jason Miller
+Apr 30,home,USC Salkehatchie,W,15-2,15,2,13.0,win,20160430_zchh,5,3,4,0,1,1,4,0,0,0,0,0,0,0,9,2,0,1,0,,5,2016,2015-16,div1,USC Sumter,uscsumter,jasonmiller9y66,Jason Miller
+May 1,home,USC Salkehatchie,W,1-0,1,0,1.0,win,20160501_m4xu,4,0,1,0,0,0,0,0,1,0,0,0,0,0,1,0,0,1,0,,4,2016,2015-16,div1,USC Sumter,uscsumter,jasonmiller9y66,Jason Miller
+May 7,home,Louisburg,L,5-4,5,4,1.0,win,,,,,,,,,,,,,,,,,,,,,,,2016,2015-16,div1,USC Sumter,uscsumter,jasonmiller9y66,Jason Miller
+May 8,home,Pitt,L,8-7,8,7,1.0,win,,,,,,,,,,,,,,,,,,,,,,,2016,2015-16,div1,USC Sumter,uscsumter,jasonmiller9y66,Jason Miller

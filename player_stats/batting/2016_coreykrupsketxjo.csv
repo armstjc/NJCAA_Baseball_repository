@@ -1,33 +1,64 @@
-date,location,opponent,result,score,team_score,opp_score,game_score_diff_x,game_win_loss_x,game_id_x,AB,R,H,2B,3B,HR,RBI,BB,K,SB,CS,game_score_diff_y,game_win_loss_y,game_id_y,HBP,SF,SH,TB,XBH,HDP,GO,FO,GO/FO,PA,season,njcaa_season,njcaa_division,team,team_id,player_id,player_name
-Mar 8,home,Moraine Valley,W,13-0,13,0,13.0,win,20160308_33uv,5,1,2,,,,0,,,1,,13.0,win,20160308_33uv,,,,2,0,,,,,5,2016,2015-16,div1,Triton,tritoncollege,coreykrupsketxjo,Corey Krupske
-Mar 13,home,Jefferson (MO),L,11-6,11,6,5.0,win,20160313_5c4m,4,1,1,,,,0,,,,,5.0,win,20160313_5c4m,,,,1,0,,,,,4,2016,2015-16,div1,Triton,tritoncollege,coreykrupsketxjo,Corey Krupske
-Mar 14,home,Jefferson (MO),W,14-6,14,6,8.0,win,20160314_ajki,4,2,2,1,,,2,,,,,8.0,win,20160314_ajki,,,,3,1,,,,,4,2016,2015-16,div1,Triton,tritoncollege,coreykrupsketxjo,Corey Krupske
-Mar 18,home,McHenry County,W,4-3,4,3,1.0,win,20160318_fozp,4,0,0,,,,1,,1,,,1.0,win,20160318_fozp,,,,0,0,,,,,4,2016,2015-16,div1,Triton,tritoncollege,coreykrupsketxjo,Corey Krupske
-Mar 21,home,South Suburban,W,9-4,9,4,5.0,win,20160321_9i7m,5,1,1,,,,1,,,2,,5.0,win,20160321_9i7m,,,,1,0,,,,,5,2016,2015-16,div1,Triton,tritoncollege,coreykrupsketxjo,Corey Krupske
-Mar 25,home,Milwaukee Area Tech,W,4-3,4,3,1.0,win,20160325_29iy,3,0,1,,,,0,1,,,,1.0,win,20160325_29iy,,,,1,0,,,,,4,2016,2015-16,div1,Triton,tritoncollege,coreykrupsketxjo,Corey Krupske
-Mar 25,home,Milwaukee Area Tech,W,4-3,4,3,1.0,win,20160325_29iy,3,0,1,,,,0,1,,,,1.0,win,20160325_akkl,,,,1,0,,,,,4,2016,2015-16,div1,Triton,tritoncollege,coreykrupsketxjo,Corey Krupske
-Mar 25,home,Milwaukee Area Tech,W,4-3,4,3,1.0,win,20160325_akkl,4,0,1,,,,0,,2,1,1,1.0,win,20160325_29iy,,,,1,0,,,,,4,2016,2015-16,div1,Triton,tritoncollege,coreykrupsketxjo,Corey Krupske
-Mar 25,home,Milwaukee Area Tech,W,4-3,4,3,1.0,win,20160325_akkl,4,0,1,,,,0,,2,1,1,1.0,win,20160325_akkl,,,,1,0,,,,,4,2016,2015-16,div1,Triton,tritoncollege,coreykrupsketxjo,Corey Krupske
-Mar 29,home,Madison,W,3-2,3,2,1.0,win,20160329_bf1x,2,1,2,0,0,0,0,1,0,1,0,1.0,win,20160329_bf1x,0,0,0,2,0,,0,,,3,2016,2015-16,div1,Triton,tritoncollege,coreykrupsketxjo,Corey Krupske
-Mar 29,home,Madison,L,17-2,17,2,15.0,win,20160329_80i2,3,1,1,0,0,0,0,0,1,1,0,15.0,win,20160329_80i2,0,0,0,1,0,,0,,,3,2016,2015-16,div1,Triton,tritoncollege,coreykrupsketxjo,Corey Krupske
-Mar 31,home,Lake County,W,13-5,13,5,8.0,win,20160331_h2k7,4,3,4,,1,,1,2,,1,,8.0,win,20160331_h2k7,,,,6,1,,,,,6,2016,2015-16,div1,Triton,tritoncollege,coreykrupsketxjo,Corey Krupske
-Apr 3,home,Rock Valley,W,10-1,10,1,9.0,win,20160403_3pg7,3,2,2,,,,1,1,,,1,9.0,win,20160403_3pg7,,,,2,0,,,,,4,2016,2015-16,div1,Triton,tritoncollege,coreykrupsketxjo,Corey Krupske
-Apr 3,home,Rock Valley,W,14-2,14,2,12.0,win,20160403_hltl,3,1,2,1,,,6,1,,,,12.0,win,20160403_hltl,,,,3,1,,,,,4,2016,2015-16,div1,Triton,tritoncollege,coreykrupsketxjo,Corey Krupske
-Apr 5,home,Joliet,W,6-3,6,3,3.0,win,20160405_icz7,3,2,1,,,,2,1,1,1,,3.0,win,20160405_icz7,,,,1,0,,,,,4,2016,2015-16,div1,Triton,tritoncollege,coreykrupsketxjo,Corey Krupske
-Apr 5,home,Joliet,W,2-0,2,0,2.0,win,20160405_j5xa,3,0,1,,,,0,,1,,,2.0,win,20160405_j5xa,,,,1,0,,,,,3,2016,2015-16,div1,Triton,tritoncollege,coreykrupsketxjo,Corey Krupske
-Apr 8,home,South Suburban,,,,,2.0,win,,,,,,,,,,,,,2.0,win,,,,,,,,,,,,2016,2015-16,div1,Triton,tritoncollege,coreykrupsketxjo,Corey Krupske
-Apr 13,home,Kishwaukee,W,10-3,10,3,7.0,win,20160413_sov3,3,0,1,1,,,1,2,,3,,7.0,win,20160413_sov3,,,,2,1,1,,,,5,2016,2015-16,div1,Triton,tritoncollege,coreykrupsketxjo,Corey Krupske
-Apr 14,home,Black Hawk-Moline,W,5-0,5,0,5.0,win,20160414_ks2f,4,1,1,,,,0,,,1,,5.0,win,20160414_ks2f,,,,1,0,,,,,4,2016,2015-16,div1,Triton,tritoncollege,coreykrupsketxjo,Corey Krupske
-Apr 14,home,Black Hawk-Moline,W,2-0,2,0,2.0,win,20160414_oj9a,3,0,0,,,,1,,1,,,2.0,win,20160414_oj9a,,,,0,0,,,,,3,2016,2015-16,div1,Triton,tritoncollege,coreykrupsketxjo,Corey Krupske
-Apr 17,home,Harper,W,8-1,8,1,7.0,win,20160417_dtx0,4,3,3,1,1,,2,,,,,7.0,win,20160417_dtx0,,,,6,2,,,,,4,2016,2015-16,div1,Triton,tritoncollege,coreykrupsketxjo,Corey Krupske
-Apr 17,home,Harper,W,11-1,11,1,10.0,win,20160417_59ed,4,2,3,,1,,2,,,1,,10.0,win,20160417_59ed,,,,5,1,,,,,4,2016,2015-16,div1,Triton,tritoncollege,coreykrupsketxjo,Corey Krupske
-Apr 20,home,Olive-Harvey,W,13-3,13,3,10.0,win,20160420_cgqr,3,1,2,1,,,2,1,,,1,10.0,win,20160420_cgqr,,,,3,1,,,,,4,2016,2015-16,div1,Triton,tritoncollege,coreykrupsketxjo,Corey Krupske
-Apr 20,home,Olive-Harvey,W,11-1,11,1,10.0,win,20160420_ordr,4,2,2,,3,,2,,,,,10.0,win,20160420_ordr,,,,8,3,,,,,4,2016,2015-16,div1,Triton,tritoncollege,coreykrupsketxjo,Corey Krupske
-Apr 23,home,DuPage,W,5-1,5,1,4.0,win,20160423_y370,2,2,1,,,,0,2,,2,,4.0,win,20160423_y370,,,,1,0,,,,,4,2016,2015-16,div1,Triton,tritoncollege,coreykrupsketxjo,Corey Krupske
-Apr 23,home,DuPage,L,4-3,4,3,1.0,win,20160423_7geu,2,1,0,,,,0,2,,1,,1.0,win,20160423_7geu,,,,0,0,,,,,4,2016,2015-16,div1,Triton,tritoncollege,coreykrupsketxjo,Corey Krupske
-Apr 28,home,Oakton,L,8-5,8,5,3.0,win,20160428_ujzk,4,2,1,1,,,0,1,,1,,3.0,win,20160428_ujzk,,,,2,1,,,,,5,2016,2015-16,div1,Triton,tritoncollege,coreykrupsketxjo,Corey Krupske
-Apr 30,home,Elgin,,,,,3.0,win,,,,,,,,,,,,,3.0,win,,,,,,,,,,,,2016,2015-16,div1,Triton,tritoncollege,coreykrupsketxjo,Corey Krupske
-May 6,home,Morton,W,8-2,8,2,6.0,win,20160506_s44m,3,4,3,,,,0,1,,2,,6.0,win,20160506_s44m,,,,3,0,,,,,4,2016,2015-16,div1,Triton,tritoncollege,coreykrupsketxjo,Corey Krupske
-May 6,home,Morton,L,5-4,5,4,1.0,win,20160506_a609,3,1,1,,,,0,2,,,1,1.0,win,20160506_a609,,,,1,0,,,,,5,2016,2015-16,div1,Triton,tritoncollege,coreykrupsketxjo,Corey Krupske
-May 12,home,Olive-Harvey,W,12-2,12,2,10.0,win,20160512_tsse,4,1,1,,,,1,,,,,10.0,win,20160512_tsse,,,,1,0,,,,,4,2016,2015-16,div1,Triton,tritoncollege,coreykrupsketxjo,Corey Krupske
-May 22,home,Iowa Western,L,7-0,7,0,7.0,win,,,,,,,,,,,,,7.0,win,,,,,,,,,,,,2016,2015-16,div1,Triton,tritoncollege,coreykrupsketxjo,Corey Krupske
+date,location,opponent,result,score,team_score,opp_score,game_score_diff,game_win_loss,game_id,AB,R,H,2B,3B,HR,RBI,BB,K,SB,CS,HBP,SF,SH,TB,XBH,HDP,GO,FO,GO/FO,PA,season,njcaa_season,njcaa_division,team,team_id,player_id,player_name
+Mar 4,home,Heartland,L,10-2,10,2,8.0,win,20160304_eze8,4,0,1,,,,0,,2,,,,,,1,0,,,,,4,2016,2015-16,div1,Triton,tritoncollege,coreykrupsketxjo,Corey Krupske
+Mar 5,home,John A. Logan,L,8-3,8,3,5.0,win,20160305_850d,3,1,1,,,,0,,1,1,,,,,1,0,,,,,3,2016,2015-16,div1,Triton,tritoncollege,coreykrupsketxjo,Corey Krupske
+Mar 5,home,John A. Logan,L,7-0,7,0,7.0,win,20160305_1w8k,2,0,2,,,,0,,,,1,,,,2,0,,,,,2,2016,2015-16,div1,Triton,tritoncollege,coreykrupsketxjo,Corey Krupske
+Mar 6,home,John A. Logan,L,9-5,9,5,4.0,win,20160306_g33r,2,0,0,,,,0,,,,,,,1,0,0,,,,,3,2016,2015-16,div1,Triton,tritoncollege,coreykrupsketxjo,Corey Krupske
+Mar 6,home,John A. Logan,L,12-2,12,2,10.0,win,20160306_dr60,3,0,0,,,,0,,2,,,,,,0,0,,,,,3,2016,2015-16,div1,Triton,tritoncollege,coreykrupsketxjo,Corey Krupske
+Mar 8,home,Moraine Valley,W,13-0,13,0,13.0,win,20160308_33uv,5,1,2,,,,0,,,1,,,,,2,0,,,,,5,2016,2015-16,div1,Triton,tritoncollege,coreykrupsketxjo,Corey Krupske
+Mar 12,home,Central Alabama,W,2-1,2,1,1.0,win,20160312_gguq,3,0,0,,,,1,,,,,,1,,0,0,,,,,4,2016,2015-16,div1,Triton,tritoncollege,coreykrupsketxjo,Corey Krupske
+Mar 12,home,Georgia Highlands,W,9-4,9,4,5.0,win,20160312_y931,3,1,1,0,0,0,0,1,0,1,0,0,0,0,1,0,,0,,,4,2016,2015-16,div1,Triton,tritoncollege,coreykrupsketxjo,Corey Krupske
+Mar 13,home,Jefferson (MO),L,11-6,11,6,5.0,win,20160313_5c4m,4,1,1,,,,0,,,,,,,,1,0,,,,,4,2016,2015-16,div1,Triton,tritoncollege,coreykrupsketxjo,Corey Krupske
+Mar 13,home,Jefferson (MO),L,8-1,8,1,7.0,win,20160313_mchg,3,0,2,,,,0,,,1,,,,,2,0,,,,,3,2016,2015-16,div1,Triton,tritoncollege,coreykrupsketxjo,Corey Krupske
+Mar 14,home,Jefferson (MO),W,14-6,14,6,8.0,win,20160314_ajki,4,2,2,1,,,2,,,,,,,,3,1,,,,,4,2016,2015-16,div1,Triton,tritoncollege,coreykrupsketxjo,Corey Krupske
+Mar 18,home,McHenry County,W,4-3,4,3,1.0,win,20160318_fozp,4,0,0,,,,1,,1,,,,,,0,0,,,,,4,2016,2015-16,div1,Triton,tritoncollege,coreykrupsketxjo,Corey Krupske
+Mar 21,home,South Suburban,W,9-4,9,4,5.0,win,20160321_9i7m,5,1,1,,,,1,,,2,,,,,1,0,,,,,5,2016,2015-16,div1,Triton,tritoncollege,coreykrupsketxjo,Corey Krupske
+Mar 25,home,Milwaukee Area Tech,W,4-3,4,3,1.0,win,20160325_29iy,3,0,1,,,,0,1,,,,,,,1,0,,,,,4,2016,2015-16,div1,Triton,tritoncollege,coreykrupsketxjo,Corey Krupske
+Mar 25,home,Milwaukee Area Tech,W,4-3,4,3,1.0,win,20160325_akkl,4,0,1,,,,0,,2,1,1,,,,1,0,,,,,4,2016,2015-16,div1,Triton,tritoncollege,coreykrupsketxjo,Corey Krupske
+Mar 29,home,Madison,W,3-2,3,2,1.0,win,20160329_bf1x,2,1,2,0,0,0,0,1,0,1,0,0,0,0,2,0,,0,,,3,2016,2015-16,div1,Triton,tritoncollege,coreykrupsketxjo,Corey Krupske
+Mar 29,home,Madison,L,17-2,17,2,15.0,win,20160329_80i2,3,1,1,0,0,0,0,0,1,1,0,0,0,0,1,0,,0,,,3,2016,2015-16,div1,Triton,tritoncollege,coreykrupsketxjo,Corey Krupske
+Mar 30,home,Kankakee,W,4-1,4,1,3.0,win,20160330_symq,3,1,0,,,,0,,,,,,,,0,0,,,,,3,2016,2015-16,div1,Triton,tritoncollege,coreykrupsketxjo,Corey Krupske
+Mar 31,home,Lake County,W,13-5,13,5,8.0,win,20160331_h2k7,4,3,4,,1,,1,2,,1,,,,,6,1,,,,,6,2016,2015-16,div1,Triton,tritoncollege,coreykrupsketxjo,Corey Krupske
+Apr 3,home,Rock Valley,W,10-1,10,1,9.0,win,20160403_3pg7,3,2,2,,,,1,1,,,1,,,,2,0,,,,,4,2016,2015-16,div1,Triton,tritoncollege,coreykrupsketxjo,Corey Krupske
+Apr 3,home,Rock Valley,W,14-2,14,2,12.0,win,20160403_hltl,3,1,2,1,,,6,1,,,,,,,3,1,,,,,4,2016,2015-16,div1,Triton,tritoncollege,coreykrupsketxjo,Corey Krupske
+Apr 5,home,Joliet,W,6-3,6,3,3.0,win,20160405_icz7,3,2,1,,,,2,1,1,1,,,,,1,0,,,,,4,2016,2015-16,div1,Triton,tritoncollege,coreykrupsketxjo,Corey Krupske
+Apr 5,home,Joliet,W,2-0,2,0,2.0,win,20160405_j5xa,3,0,1,,,,0,,1,,,,,,1,0,,,,,3,2016,2015-16,div1,Triton,tritoncollege,coreykrupsketxjo,Corey Krupske
+Apr 7,home,Olive-Harvey,,,,,2.0,win,,,,,,,,,,,,,,,,,,,,,,,2016,2015-16,div1,Triton,tritoncollege,coreykrupsketxjo,Corey Krupske
+Apr 8,home,South Suburban,,,,,2.0,win,,,,,,,,,,,,,,,,,,,,,,,2016,2015-16,div1,Triton,tritoncollege,coreykrupsketxjo,Corey Krupske
+Apr 9,home,DuPage,W,10-9,10,9,1.0,win,20160409_3byk,3,1,1,1,,,0,,,,,,,1,2,1,,,,,4,2016,2015-16,div1,Triton,tritoncollege,coreykrupsketxjo,Corey Krupske
+Apr 9,home,DuPage,W,8-1,8,1,7.0,win,20160409_v72s,3,1,1,,,,1,,,,,,1,,1,0,,,,,4,2016,2015-16,div1,Triton,tritoncollege,coreykrupsketxjo,Corey Krupske
+Apr 13,home,Kishwaukee,W,10-3,10,3,7.0,win,20160413_sov3,3,0,1,1,,,1,2,,3,,,,,2,1,1,,,,5,2016,2015-16,div1,Triton,tritoncollege,coreykrupsketxjo,Corey Krupske
+Apr 14,home,Black Hawk-Moline,W,5-0,5,0,5.0,win,20160414_ks2f,4,1,1,,,,0,,,1,,,,,1,0,,,,,4,2016,2015-16,div1,Triton,tritoncollege,coreykrupsketxjo,Corey Krupske
+Apr 14,home,Black Hawk-Moline,W,2-0,2,0,2.0,win,20160414_oj9a,3,0,0,,,,1,,1,,,,,,0,0,,,,,3,2016,2015-16,div1,Triton,tritoncollege,coreykrupsketxjo,Corey Krupske
+Apr 15,home,South Suburban,L,12-3,12,3,9.0,win,20160415_2kbc,4,1,2,,,,0,,1,,,,,,2,0,,,,,4,2016,2015-16,div1,Triton,tritoncollege,coreykrupsketxjo,Corey Krupske
+Apr 16,home,Madison,L,16-15,16,15,1.0,win,,,,,,,,,,,,,,,,,,,,,,,2016,2015-16,div1,Triton,tritoncollege,coreykrupsketxjo,Corey Krupske
+Apr 16,home,Madison,W,9-5,9,5,4.0,win,,,,,,,,,,,,,,,,,,,,,,,2016,2015-16,div1,Triton,tritoncollege,coreykrupsketxjo,Corey Krupske
+Apr 17,home,Harper,W,8-1,8,1,7.0,win,20160417_dtx0,4,3,3,1,1,,2,,,,,,,,6,2,,,,,4,2016,2015-16,div1,Triton,tritoncollege,coreykrupsketxjo,Corey Krupske
+Apr 17,home,Harper,W,11-1,11,1,10.0,win,20160417_59ed,4,2,3,,1,,2,,,1,,,,,5,1,,,,,4,2016,2015-16,div1,Triton,tritoncollege,coreykrupsketxjo,Corey Krupske
+Apr 18,home,Milwaukee Area Tech,W,13-2,13,2,11.0,win,20160418_mlyr,3,2,2,,,,1,1,,3,,,,,2,0,,,,,4,2016,2015-16,div1,Triton,tritoncollege,coreykrupsketxjo,Corey Krupske
+Apr 18,home,Milwaukee Area Tech,W,13-2,13,2,11.0,win,20160418_378v,4,3,4,1,,,1,,,4,,,,,5,1,,,,,4,2016,2015-16,div1,Triton,tritoncollege,coreykrupsketxjo,Corey Krupske
+Apr 20,home,Olive-Harvey,W,13-3,13,3,10.0,win,20160420_cgqr,3,1,2,1,,,2,1,,,1,,,,3,1,,,,,4,2016,2015-16,div1,Triton,tritoncollege,coreykrupsketxjo,Corey Krupske
+Apr 20,home,Olive-Harvey,W,11-1,11,1,10.0,win,20160420_ordr,4,2,2,,3,,2,,,,,,,,8,3,,,,,4,2016,2015-16,div1,Triton,tritoncollege,coreykrupsketxjo,Corey Krupske
+Apr 21,home,Lake County,W,12-6,12,6,6.0,win,20160421_2e4x,3,2,0,,,,1,3,,2,,,,,0,0,,,,,6,2016,2015-16,div1,Triton,tritoncollege,coreykrupsketxjo,Corey Krupske
+Apr 23,home,DuPage,W,5-1,5,1,4.0,win,20160423_y370,2,2,1,,,,0,2,,2,,,,,1,0,,,,,4,2016,2015-16,div1,Triton,tritoncollege,coreykrupsketxjo,Corey Krupske
+Apr 23,home,DuPage,L,4-3,4,3,1.0,win,20160423_7geu,2,1,0,,,,0,2,,1,,,,,0,0,,,,,4,2016,2015-16,div1,Triton,tritoncollege,coreykrupsketxjo,Corey Krupske
+Apr 24,home,Joliet,L,1-0,1,0,1.0,win,20160424_5qxb,4,0,1,,,,0,,2,,,,,,1,0,,,,,4,2016,2015-16,div1,Triton,tritoncollege,coreykrupsketxjo,Corey Krupske
+Apr 24,home,Joliet,L,5-3,5,3,2.0,win,20160424_deop,4,0,1,,,,0,,1,,,,,,1,0,,,,,4,2016,2015-16,div1,Triton,tritoncollege,coreykrupsketxjo,Corey Krupske
+Apr 25,home,Harper,W,10-7,10,7,3.0,win,20160425_uzll,3,1,1,,,,0,1,,2,,,,,1,0,,,,,4,2016,2015-16,div1,Triton,tritoncollege,coreykrupsketxjo,Corey Krupske
+Apr 25,home,Harper,,,,,3.0,win,,,,,,,,,,,,,,,,,,,,,,,2016,2015-16,div1,Triton,tritoncollege,coreykrupsketxjo,Corey Krupske
+Apr 26,home,Rock Valley,L,5-4,5,4,1.0,win,20160426_u8sk,4,0,0,,,,0,,,,,,,,0,0,,,,,4,2016,2015-16,div1,Triton,tritoncollege,coreykrupsketxjo,Corey Krupske
+Apr 26,home,Rock Valley,W,11-0,11,0,11.0,win,20160426_9ter,5,3,5,3,1,,2,,,1,,,,,10,4,,,,,5,2016,2015-16,div1,Triton,tritoncollege,coreykrupsketxjo,Corey Krupske
+Apr 27,home,Kishwaukee,,,,,11.0,win,,,,,,,,,,,,,,,,,,,,,,,2016,2015-16,div1,Triton,tritoncollege,coreykrupsketxjo,Corey Krupske
+Apr 28,home,Oakton,L,8-5,8,5,3.0,win,20160428_ujzk,4,2,1,1,,,0,1,,1,,,,,2,1,,,,,5,2016,2015-16,div1,Triton,tritoncollege,coreykrupsketxjo,Corey Krupske
+Apr 30,home,Elgin,,,,,3.0,win,,,,,,,,,,,,,,,,,,,,,,,2016,2015-16,div1,Triton,tritoncollege,coreykrupsketxjo,Corey Krupske
+May 1,home,Oakton,L,11-9,11,9,2.0,win,20160501_vs09,5,2,2,,,,2,,,3,,,,,2,0,,,,,5,2016,2015-16,div1,Triton,tritoncollege,coreykrupsketxjo,Corey Krupske
+May 2,home,Elgin,W,6-2,6,2,4.0,win,20160502_doqf,5,1,2,,,,0,,1,1,,,,,2,0,,,,,5,2016,2015-16,div1,Triton,tritoncollege,coreykrupsketxjo,Corey Krupske
+May 6,home,Morton,W,8-2,8,2,6.0,win,20160506_s44m,3,4,3,,,,0,1,,2,,,,,3,0,,,,,4,2016,2015-16,div1,Triton,tritoncollege,coreykrupsketxjo,Corey Krupske
+May 6,home,Morton,L,5-4,5,4,1.0,win,20160506_a609,3,1,1,,,,0,2,,,1,,,,1,0,,,,,5,2016,2015-16,div1,Triton,tritoncollege,coreykrupsketxjo,Corey Krupske
+May 12,home,Olive-Harvey,W,12-2,12,2,10.0,win,20160512_tsse,4,1,1,,,,1,,,,,,,,1,0,,,,,4,2016,2015-16,div1,Triton,tritoncollege,coreykrupsketxjo,Corey Krupske
+May 13,home,South Suburban,W,8-5,8,5,3.0,win,20160513_2o1y,4,2,2,1,,,0,1,,1,,,,,3,1,,,,,5,2016,2015-16,div1,Triton,tritoncollege,coreykrupsketxjo,Corey Krupske
+May 14,home,South Suburban,L,10-9,10,9,1.0,win,20160514_zdj6,5,2,1,,,,1,1,1,1,,,,,1,0,,,,,6,2016,2015-16,div1,Triton,tritoncollege,coreykrupsketxjo,Corey Krupske
+May 14,home,South Suburban,W,9-4,9,4,5.0,win,20160514_8227,4,1,1,,,,0,1,1,,,,,,1,0,,,,,5,2016,2015-16,div1,Triton,tritoncollege,coreykrupsketxjo,Corey Krupske
+May 20,home,Wabash Valley,L,7-2,7,2,5.0,win,,,,,,,,,,,,,,,,,,,,,,,2016,2015-16,div1,Triton,tritoncollege,coreykrupsketxjo,Corey Krupske
+May 21,home,Wabash Valley,W,10-6,10,6,4.0,win,,,,,,,,,,,,,,,,,,,,,,,2016,2015-16,div1,Triton,tritoncollege,coreykrupsketxjo,Corey Krupske
+May 21,home,South Suburban,W,3-2,3,2,1.0,win,,,,,,,,,,,,,,,,,,,,,,,2016,2015-16,div1,Triton,tritoncollege,coreykrupsketxjo,Corey Krupske
+May 22,home,Iowa Western,L,7-0,7,0,7.0,win,,,,,,,,,,,,,,,,,,,,,,,2016,2015-16,div1,Triton,tritoncollege,coreykrupsketxjo,Corey Krupske
