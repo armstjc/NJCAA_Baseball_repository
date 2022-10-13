@@ -1,27 +1,58 @@
-date,location,opponent,result,score,team_score,opp_score,game_score_diff_x,game_win_loss_x,game_id_x,AB,R,H,2B,3B,HR,RBI,BB,K,SB,CS,game_score_diff_y,game_win_loss_y,game_id_y,HBP,SF,SH,TB,XBH,HDP,GO,FO,GO/FO,PA,season,njcaa_season,njcaa_division,team,team_id,player_id,player_name
-Feb 12,home,Hesston,W,10-0,10,0,10.0,win,20160212_m0xq,2,2,2,,1,,1,1,,,,10.0,win,20160212_m0xq,,,,4,1,,,,,3,2016,2015-16,div1,Independence,independencecommunitycollege,jordanpaynemx3m,Jordan Payne
-Feb 12,home,Hesston,L,11-10,11,10,1.0,win,20160212_wov3,3,3,2,,,2,2,2,,,,1.0,win,20160212_wov3,,,,8,2,,,,,5,2016,2015-16,div1,Independence,independencecommunitycollege,jordanpaynemx3m,Jordan Payne
-Feb 27,home,Southeastern,W,4-1,4,1,3.0,win,20160227_j5ah,3,0,0,,,,0,,2,,,3.0,win,20160227_j5ah,,,,0,0,,,,,3,2016,2015-16,div1,Independence,independencecommunitycollege,jordanpaynemx3m,Jordan Payne
-Feb 27,home,Southeastern,W,12-6,12,6,6.0,win,20160227_4iup,3,2,3,1,,1,4,1,,,,6.0,win,20160227_4iup,,,,7,2,,,,,4,2016,2015-16,div1,Independence,independencecommunitycollege,jordanpaynemx3m,Jordan Payne
-Feb 28,home,Southeastern,W,17-15,17,15,2.0,win,20160228_962o,5,3,3,,,,2,1,1,,,2.0,win,20160228_962o,,,,3,0,,,,,6,2016,2015-16,div1,Independence,independencecommunitycollege,jordanpaynemx3m,Jordan Payne
-Mar 1,home,Northern Oklahoma Tonkawa,W,11-10,11,10,1.0,win,20160301_0ib0,2,0,0,,,,1,1,,,,1.0,win,20160301_0ib0,,1,1,0,0,,,,,5,2016,2015-16,div1,Independence,independencecommunitycollege,jordanpaynemx3m,Jordan Payne
-Mar 5,home,Highland (KS),W,15-1,15,1,14.0,win,20160305_l800,4,1,2,1,,,1,,1,,,14.0,win,20160305_l800,,,,3,1,,,,,4,2016,2015-16,div1,Independence,independencecommunitycollege,jordanpaynemx3m,Jordan Payne
-Mar 5,home,Highland (KS),W,13-2,13,2,11.0,win,20160305_e2a2,4,1,1,,,,1,,,,,11.0,win,20160305_e2a2,,,,1,0,,,,,4,2016,2015-16,div1,Independence,independencecommunitycollege,jordanpaynemx3m,Jordan Payne
-Mar 12,home,Allen County,L,3-2,3,2,1.0,win,20160312_lc1s,3,0,3,,,,0,,,1,,1.0,win,20160312_lc1s,,,,3,0,,,,,3,2016,2015-16,div1,Independence,independencecommunitycollege,jordanpaynemx3m,Jordan Payne
-Mar 12,home,Allen County,L,7-4,7,4,3.0,win,,,,,,,,,,,,,3.0,win,,,,,,,,,,,,2016,2015-16,div1,Independence,independencecommunitycollege,jordanpaynemx3m,Jordan Payne
-Mar 17,home,Fort Scott,L,2-1,2,1,1.0,win,20160317_o4te,3,0,2,,,,0,,,,,1.0,win,20160317_o4te,,,,2,0,,,,,3,2016,2015-16,div1,Independence,independencecommunitycollege,jordanpaynemx3m,Jordan Payne
-Mar 17,home,Fort Scott,W,10-9,10,9,1.0,win,20160317_8mvr,3,2,1,,,,1,1,1,,,1.0,win,20160317_8mvr,1,,,1,0,,,,,5,2016,2015-16,div1,Independence,independencecommunitycollege,jordanpaynemx3m,Jordan Payne
-Mar 22,home,Northern Oklahoma Tonkawa,L,20-15,20,15,5.0,win,20160322_edkg,6,1,2,,,,2,,1,,,5.0,win,20160322_edkg,,,,2,0,,,,,6,2016,2015-16,div1,Independence,independencecommunitycollege,jordanpaynemx3m,Jordan Payne
-Mar 24,home,Kansas City Kansas,W,4-3,4,3,1.0,win,20160324_n0zp,5,0,1,,,,0,,,,,1.0,win,20160324_n0zp,,,,1,0,,,,,5,2016,2015-16,div1,Independence,independencecommunitycollege,jordanpaynemx3m,Jordan Payne
-Mar 24,home,Kansas City Kansas,L,12-10,12,10,2.0,win,20160324_a1uk,3,2,1,,,,1,,1,,,2.0,win,20160324_a1uk,1,1,,1,0,,,,,5,2016,2015-16,div1,Independence,independencecommunitycollege,jordanpaynemx3m,Jordan Payne
-Apr 2,home,Johnson County,L,9-7,9,7,2.0,win,20160402_7poj,3,1,2,,,,0,1,,,,2.0,win,20160402_7poj,,,,2,0,,,,,4,2016,2015-16,div1,Independence,independencecommunitycollege,jordanpaynemx3m,Jordan Payne
-Apr 2,home,Johnson County,W,10-9,10,9,1.0,win,20160402_kr94,6,2,2,,,,0,,,,,1.0,win,20160402_kr94,,,,2,0,,,,,6,2016,2015-16,div1,Independence,independencecommunitycollege,jordanpaynemx3m,Jordan Payne
-Apr 5,home,Eastern Oklahoma State,L,16-6,16,6,10.0,win,20160405_j3v0,4,0,1,1,,,0,,,,,10.0,win,20160405_j3v0,,,,2,1,,,,,4,2016,2015-16,div1,Independence,independencecommunitycollege,jordanpaynemx3m,Jordan Payne
-Apr 7,home,Cowley,W,3-2,3,2,1.0,win,20160407_3vqi,2,1,1,1,,,0,,,,,1.0,win,20160407_3vqi,1,,,2,1,,,,,3,2016,2015-16,div1,Independence,independencecommunitycollege,jordanpaynemx3m,Jordan Payne
-Apr 7,home,Cowley,W,13-3,13,3,10.0,win,20160407_vpso,4,2,2,,,1,2,1,,,,10.0,win,20160407_vpso,,,,5,1,,,,,5,2016,2015-16,div1,Independence,independencecommunitycollege,jordanpaynemx3m,Jordan Payne
-Apr 16,home,Coffeyville,W,9-0,9,0,9.0,win,20160416_gaxt,4,0,0,,,,0,,3,,,9.0,win,20160416_gaxt,,,,0,0,,,,,4,2016,2015-16,div1,Independence,independencecommunitycollege,jordanpaynemx3m,Jordan Payne
-Apr 16,home,Coffeyville,L,9-7,9,7,2.0,win,20160416_usvq,5,0,1,,,,1,,1,,,2.0,win,20160416_usvq,,,,1,0,,,,,5,2016,2015-16,div1,Independence,independencecommunitycollege,jordanpaynemx3m,Jordan Payne
-Apr 23,home,Neosho County,W,7-4,7,4,3.0,win,20160423_c8nt,4,2,1,,,,1,,1,,,3.0,win,20160423_c8nt,,,,1,0,,,,,4,2016,2015-16,div1,Independence,independencecommunitycollege,jordanpaynemx3m,Jordan Payne
-Apr 23,home,Neosho County,L,12-9,12,9,3.0,win,20160423_yi7g,3,0,2,1,,,2,1,,,,3.0,win,20160423_yi7g,,1,,3,1,,,,,5,2016,2015-16,div1,Independence,independencecommunitycollege,jordanpaynemx3m,Jordan Payne
-Apr 28,home,Labette,W,8-7,8,7,1.0,win,20160428_85lx,4,2,2,,,,1,,1,1,,1.0,win,20160428_85lx,,,,2,0,,,,,4,2016,2015-16,div1,Independence,independencecommunitycollege,jordanpaynemx3m,Jordan Payne
-Apr 28,home,Labette,W,17-8,17,8,9.0,win,20160428_j4vx,5,2,1,,,,0,1,1,,,9.0,win,20160428_j4vx,,,,1,0,,,,,6,2016,2015-16,div1,Independence,independencecommunitycollege,jordanpaynemx3m,Jordan Payne
+date,location,opponent,result,score,team_score,opp_score,game_score_diff,game_win_loss,game_id,AB,R,H,2B,3B,HR,RBI,BB,K,SB,CS,HBP,SF,SH,TB,XBH,HDP,GO,FO,GO/FO,PA,season,njcaa_season,njcaa_division,team,team_id,player_id,player_name
+Feb 6,home,Redlands,W,5-4,5,4,1.0,win,20160206_smjy,4,1,3,1,,1,1,,1,,,,,,7,2,,,,,4,2016,2015-16,div1,Independence,independencecommunitycollege,jordanpaynemx3m,Jordan Payne
+Feb 6,home,Redlands,L,2-1,2,1,1.0,win,20160206_xqhx,3,0,3,,1,,0,,,,,,,,5,1,,,,,3,2016,2015-16,div1,Independence,independencecommunitycollege,jordanpaynemx3m,Jordan Payne
+Feb 9,home,Redlands,L,4-3,4,3,1.0,win,20160209_qody,1,1,0,,,,0,2,,,,,,,0,0,,,,,3,2016,2015-16,div1,Independence,independencecommunitycollege,jordanpaynemx3m,Jordan Payne
+Feb 9,home,Redlands,L,10-3,10,3,7.0,win,20160209_8zhf,1,0,0,,,,0,1,,,,,,,0,0,,,,,2,2016,2015-16,div1,Independence,independencecommunitycollege,jordanpaynemx3m,Jordan Payne
+Feb 11,home,Eastern Oklahoma State,L,5-4,5,4,1.0,win,20160211_474g,3,0,0,,,,0,1,,1,,,,,0,0,,,,,4,2016,2015-16,div1,Independence,independencecommunitycollege,jordanpaynemx3m,Jordan Payne
+Feb 11,home,Eastern Oklahoma State,L,7-0,7,0,7.0,win,20160211_8tnl,2,0,1,,,,0,,,,,1,,,1,0,,,,,3,2016,2015-16,div1,Independence,independencecommunitycollege,jordanpaynemx3m,Jordan Payne
+Feb 12,home,Hesston,W,10-0,10,0,10.0,win,20160212_m0xq,2,2,2,,1,,1,1,,,,,,,4,1,,,,,3,2016,2015-16,div1,Independence,independencecommunitycollege,jordanpaynemx3m,Jordan Payne
+Feb 12,home,Hesston,L,11-10,11,10,1.0,win,20160212_wov3,3,3,2,,,2,2,2,,,,,,,8,2,,,,,5,2016,2015-16,div1,Independence,independencecommunitycollege,jordanpaynemx3m,Jordan Payne
+Feb 16,home,Crowder,W,11-2,11,2,9.0,win,20160216_iitm,4,1,1,,,,1,1,1,,,,,,1,0,,,,,5,2016,2015-16,div1,Independence,independencecommunitycollege,jordanpaynemx3m,Jordan Payne
+Feb 20,home,Northern Oklahoma Tonkawa,L,10-4,10,4,6.0,win,20160220_wvmh,3,0,1,,,,2,,2,,1,,,,1,0,,,,,3,2016,2015-16,div1,Independence,independencecommunitycollege,jordanpaynemx3m,Jordan Payne
+Feb 20,home,Northern Oklahoma Tonkawa,W,5-4,5,4,1.0,win,20160220_ql3o,3,0,0,,,,0,1,,,,,,,0,0,,,,,4,2016,2015-16,div1,Independence,independencecommunitycollege,jordanpaynemx3m,Jordan Payne
+Feb 24,home,Carl Albert State,W,15-10,15,10,5.0,win,20160224_p9rs,5,2,2,,,,1,,,,,1,,,2,0,,,,,6,2016,2015-16,div1,Independence,independencecommunitycollege,jordanpaynemx3m,Jordan Payne
+Feb 27,home,Southeastern,W,4-1,4,1,3.0,win,20160227_j5ah,3,0,0,,,,0,,2,,,,,,0,0,,,,,3,2016,2015-16,div1,Independence,independencecommunitycollege,jordanpaynemx3m,Jordan Payne
+Feb 27,home,Southeastern,W,12-6,12,6,6.0,win,20160227_4iup,3,2,3,1,,1,4,1,,,,,,,7,2,,,,,4,2016,2015-16,div1,Independence,independencecommunitycollege,jordanpaynemx3m,Jordan Payne
+Feb 28,home,Southeastern,W,17-15,17,15,2.0,win,20160228_962o,5,3,3,,,,2,1,1,,,,,,3,0,,,,,6,2016,2015-16,div1,Independence,independencecommunitycollege,jordanpaynemx3m,Jordan Payne
+Mar 1,home,Northern Oklahoma Tonkawa,W,11-10,11,10,1.0,win,20160301_0ib0,2,0,0,,,,1,1,,,,,1,1,0,0,,,,,5,2016,2015-16,div1,Independence,independencecommunitycollege,jordanpaynemx3m,Jordan Payne
+Mar 3,home,Highland (KS),L,5-4,5,4,1.0,win,20160303_h2i6,3,0,0,,,,0,1,3,,,,,,0,0,,,,,4,2016,2015-16,div1,Independence,independencecommunitycollege,jordanpaynemx3m,Jordan Payne
+Mar 3,home,Highland (KS),W,10-8,10,8,2.0,win,20160303_nri3,4,1,1,,,,1,1,,,,,,,1,0,,,,,5,2016,2015-16,div1,Independence,independencecommunitycollege,jordanpaynemx3m,Jordan Payne
+Mar 5,home,Highland (KS),W,15-1,15,1,14.0,win,20160305_l800,4,1,2,1,,,1,,1,,,,,,3,1,,,,,4,2016,2015-16,div1,Independence,independencecommunitycollege,jordanpaynemx3m,Jordan Payne
+Mar 5,home,Highland (KS),W,13-2,13,2,11.0,win,20160305_e2a2,4,1,1,,,,1,,,,,,,,1,0,,,,,4,2016,2015-16,div1,Independence,independencecommunitycollege,jordanpaynemx3m,Jordan Payne
+Mar 10,home,Allen County,W,10-9,10,9,1.0,win,20160310_djqw,2,2,1,,,,1,2,,,1,,1,,1,0,,,,,5,2016,2015-16,div1,Independence,independencecommunitycollege,jordanpaynemx3m,Jordan Payne
+Mar 10,home,Allen County,L,17-16,17,16,1.0,win,20160310_myp0,4,4,2,,,,0,2,1,1,,,,,2,0,,,,,6,2016,2015-16,div1,Independence,independencecommunitycollege,jordanpaynemx3m,Jordan Payne
+Mar 12,home,Allen County,L,3-2,3,2,1.0,win,20160312_lc1s,3,0,3,,,,0,,,1,,,,,3,0,,,,,3,2016,2015-16,div1,Independence,independencecommunitycollege,jordanpaynemx3m,Jordan Payne
+Mar 12,home,Allen County,L,7-4,7,4,3.0,win,,,,,,,,,,,,,,,,,,,,,,,2016,2015-16,div1,Independence,independencecommunitycollege,jordanpaynemx3m,Jordan Payne
+Mar 17,home,Fort Scott,L,2-1,2,1,1.0,win,20160317_o4te,3,0,2,,,,0,,,,,,,,2,0,,,,,3,2016,2015-16,div1,Independence,independencecommunitycollege,jordanpaynemx3m,Jordan Payne
+Mar 17,home,Fort Scott,W,10-9,10,9,1.0,win,20160317_8mvr,3,2,1,,,,1,1,1,,,1,,,1,0,,,,,5,2016,2015-16,div1,Independence,independencecommunitycollege,jordanpaynemx3m,Jordan Payne
+Mar 19,home,Fort Scott,L,8-2,8,2,6.0,win,20160319_wjbb,2,1,0,,,,0,1,2,,,,,,0,0,,,,,3,2016,2015-16,div1,Independence,independencecommunitycollege,jordanpaynemx3m,Jordan Payne
+Mar 19,home,Fort Scott,L,14-12,14,12,2.0,win,20160319_ikvy,4,1,2,1,,,1,1,,,,,,,3,1,,,,,5,2016,2015-16,div1,Independence,independencecommunitycollege,jordanpaynemx3m,Jordan Payne
+Mar 22,home,Northern Oklahoma Tonkawa,L,20-15,20,15,5.0,win,20160322_edkg,6,1,2,,,,2,,1,,,,,,2,0,,,,,6,2016,2015-16,div1,Independence,independencecommunitycollege,jordanpaynemx3m,Jordan Payne
+Mar 24,home,Kansas City Kansas,W,4-3,4,3,1.0,win,20160324_n0zp,5,0,1,,,,0,,,,,,,,1,0,,,,,5,2016,2015-16,div1,Independence,independencecommunitycollege,jordanpaynemx3m,Jordan Payne
+Mar 24,home,Kansas City Kansas,L,12-10,12,10,2.0,win,20160324_a1uk,3,2,1,,,,1,,1,,,1,1,,1,0,,,,,5,2016,2015-16,div1,Independence,independencecommunitycollege,jordanpaynemx3m,Jordan Payne
+Mar 25,home,Kansas City Kansas,L,10-5,10,5,5.0,win,20160325_pzk6,4,2,3,,,2,4,,,,,,,,9,2,,,,,4,2016,2015-16,div1,Independence,independencecommunitycollege,jordanpaynemx3m,Jordan Payne
+Mar 25,home,Kansas City Kansas,W,8-5,8,5,3.0,win,20160325_aiyt,4,0,0,,,,0,,,,,,,1,0,0,,,,,5,2016,2015-16,div1,Independence,independencecommunitycollege,jordanpaynemx3m,Jordan Payne
+Mar 31,home,Johnson County,L,6-3,6,3,3.0,win,20160331_vffl,4,0,2,,1,,1,,1,,,,,,4,1,,,,,4,2016,2015-16,div1,Independence,independencecommunitycollege,jordanpaynemx3m,Jordan Payne
+Mar 31,home,Johnson County,L,9-2,9,2,7.0,win,20160331_oska,4,0,1,,,,0,,1,,,,,,1,0,,,,,4,2016,2015-16,div1,Independence,independencecommunitycollege,jordanpaynemx3m,Jordan Payne
+Apr 2,home,Johnson County,L,9-7,9,7,2.0,win,20160402_7poj,3,1,2,,,,0,1,,,,,,,2,0,,,,,4,2016,2015-16,div1,Independence,independencecommunitycollege,jordanpaynemx3m,Jordan Payne
+Apr 2,home,Johnson County,W,10-9,10,9,1.0,win,20160402_kr94,6,2,2,,,,0,,,,,,,,2,0,,,,,6,2016,2015-16,div1,Independence,independencecommunitycollege,jordanpaynemx3m,Jordan Payne
+Apr 5,home,Eastern Oklahoma State,L,16-6,16,6,10.0,win,20160405_j3v0,4,0,1,1,,,0,,,,,,,,2,1,,,,,4,2016,2015-16,div1,Independence,independencecommunitycollege,jordanpaynemx3m,Jordan Payne
+Apr 7,home,Cowley,W,3-2,3,2,1.0,win,20160407_3vqi,2,1,1,1,,,0,,,,,1,,,2,1,,,,,3,2016,2015-16,div1,Independence,independencecommunitycollege,jordanpaynemx3m,Jordan Payne
+Apr 7,home,Cowley,W,13-3,13,3,10.0,win,20160407_vpso,4,2,2,,,1,2,1,,,,,,,5,1,,,,,5,2016,2015-16,div1,Independence,independencecommunitycollege,jordanpaynemx3m,Jordan Payne
+Apr 9,home,Cowley,L,5-0,5,0,5.0,win,20160409_gsuv,3,0,0,,,,0,,2,,,,,,0,0,,,,,3,2016,2015-16,div1,Independence,independencecommunitycollege,jordanpaynemx3m,Jordan Payne
+Apr 9,home,Cowley,L,16-0,16,0,16.0,win,20160409_41io,3,0,1,1,,,0,,,,,,,,2,1,,,,,3,2016,2015-16,div1,Independence,independencecommunitycollege,jordanpaynemx3m,Jordan Payne
+Apr 14,home,Coffeyville,L,6-4,6,4,2.0,win,20160414_vz6d,4,0,0,,,,0,,3,,,,,,0,0,,,,,4,2016,2015-16,div1,Independence,independencecommunitycollege,jordanpaynemx3m,Jordan Payne
+Apr 14,home,Coffeyville,W,15-6,15,6,9.0,win,20160414_cz8p,4,4,3,,,,0,1,,,,1,,,3,0,,,,,6,2016,2015-16,div1,Independence,independencecommunitycollege,jordanpaynemx3m,Jordan Payne
+Apr 16,home,Coffeyville,W,9-0,9,0,9.0,win,20160416_gaxt,4,0,0,,,,0,,3,,,,,,0,0,,,,,4,2016,2015-16,div1,Independence,independencecommunitycollege,jordanpaynemx3m,Jordan Payne
+Apr 16,home,Coffeyville,L,9-7,9,7,2.0,win,20160416_usvq,5,0,1,,,,1,,1,,,,,,1,0,,,,,5,2016,2015-16,div1,Independence,independencecommunitycollege,jordanpaynemx3m,Jordan Payne
+Apr 21,home,Neosho County,L,15-5,15,5,10.0,win,20160421_u5kn,3,1,1,,,1,1,,1,,,,,,4,1,,,,,3,2016,2015-16,div1,Independence,independencecommunitycollege,jordanpaynemx3m,Jordan Payne
+Apr 21,home,Neosho County,L,17-0,17,0,17.0,win,20160421_v1sy,2,0,0,,,,0,,1,,,,,,0,0,,,,,2,2016,2015-16,div1,Independence,independencecommunitycollege,jordanpaynemx3m,Jordan Payne
+Apr 23,home,Neosho County,W,7-4,7,4,3.0,win,20160423_c8nt,4,2,1,,,,1,,1,,,,,,1,0,,,,,4,2016,2015-16,div1,Independence,independencecommunitycollege,jordanpaynemx3m,Jordan Payne
+Apr 23,home,Neosho County,L,12-9,12,9,3.0,win,20160423_yi7g,3,0,2,1,,,2,1,,,,,1,,3,1,,,,,5,2016,2015-16,div1,Independence,independencecommunitycollege,jordanpaynemx3m,Jordan Payne
+Apr 28,home,Labette,W,8-7,8,7,1.0,win,20160428_85lx,4,2,2,,,,1,,1,1,,,,,2,0,,,,,4,2016,2015-16,div1,Independence,independencecommunitycollege,jordanpaynemx3m,Jordan Payne
+Apr 28,home,Labette,W,17-8,17,8,9.0,win,20160428_j4vx,5,2,1,,,,0,1,1,,,,,,1,0,,,,,6,2016,2015-16,div1,Independence,independencecommunitycollege,jordanpaynemx3m,Jordan Payne
+May 1,home,Labette,W,16-5,16,5,11.0,win,20160501_bi47,3,1,1,,,1,2,1,2,,,,1,,4,1,,,,,5,2016,2015-16,div1,Independence,independencecommunitycollege,jordanpaynemx3m,Jordan Payne
+May 1,home,Labette,W,11-7,11,7,4.0,win,20160501_0ixw,4,4,3,,,,0,1,,,,,,,3,0,,,,,5,2016,2015-16,div1,Independence,independencecommunitycollege,jordanpaynemx3m,Jordan Payne
+May 7,home,Hutchinson,L,23-5,23,5,18.0,win,20160507_oy64,4,1,2,,,1,1,,1,,,,,,5,1,,1,,,4,2016,2015-16,div1,Independence,independencecommunitycollege,jordanpaynemx3m,Jordan Payne
+May 7,home,Hutchinson,W,17-16,17,16,1.0,win,20160507_yn5a,6,1,3,3,,,3,,1,,,,,,6,3,,1,1,1.00,6,2016,2015-16,div1,Independence,independencecommunitycollege,jordanpaynemx3m,Jordan Payne
+May 8,home,Hutchinson,L,16-14,16,14,2.0,win,20160508_rf19,5,2,2,,,1,2,,1,,,,,1,5,1,,,2,,6,2016,2015-16,div1,Independence,independencecommunitycollege,jordanpaynemx3m,Jordan Payne
