@@ -1,29 +1,58 @@
-date,location,opponent,result,score,team_score,opp_score,game_score_diff_x,game_win_loss_x,game_id_x,AB,R,H,2B,3B,HR,RBI,BB,K,SB,CS,game_score_diff_y,game_win_loss_y,game_id_y,HBP,SF,SH,TB,XBH,HDP,GO,FO,GO/FO,PA,season,njcaa_season,njcaa_division,team,team_id,player_id,player_name
-Feb 5,home,Motlow State,L,4-2,4,2,2.0,win,20160205_k0qz,0,0,0,,,,0,,,,,2.0,win,20160205_k0qz,,,,0,0,,,,,0,2016,2015-16,div1,Wallace State,wallacestatecommunitycollegehancevil,lanceclevelandeheu,Lance Cleveland
-Feb 6,home,Volunteer State,W,2-1,2,1,1.0,win,20160206_3ktn,2,0,0,,,,0,,2,,,1.0,win,20160206_3ktn,,,1,0,0,,1,,,3,2016,2015-16,div1,Wallace State,wallacestatecommunitycollegehancevil,lanceclevelandeheu,Lance Cleveland
-Feb 6,home,Volunteer State,W,7-4,7,4,3.0,win,,,,,,,,,,,,,3.0,win,,,,,,,,,,,,2016,2015-16,div1,Wallace State,wallacestatecommunitycollegehancevil,lanceclevelandeheu,Lance Cleveland
-Feb 7,home,Volunteer State,L,4-2,4,2,2.0,win,,,,,,,,,,,,,2.0,win,,,,,,,,,,,,2016,2015-16,div1,Wallace State,wallacestatecommunitycollegehancevil,lanceclevelandeheu,Lance Cleveland
-Feb 7,home,Volunteer State,W,5-4,5,4,1.0,win,20160207_1w8r,3,0,1,,,,0,,,,,1.0,win,20160207_1w8r,,,,1,0,,,2,,3,2016,2015-16,div1,Wallace State,wallacestatecommunitycollegehancevil,lanceclevelandeheu,Lance Cleveland
-Feb 13,home,Wabash Valley,W,3-2,3,2,1.0,win,20160213_nxr2,3,0,0,,,,1,2,,,,1.0,win,20160213_nxr2,,,,0,0,,,,,5,2016,2015-16,div1,Wallace State,wallacestatecommunitycollegehancevil,lanceclevelandeheu,Lance Cleveland
-Feb 13,home,Wabash Valley,L,7-1,7,1,6.0,win,20160213_gysa,3,0,2,,,,0,,,,,6.0,win,20160213_gysa,,,,2,0,,,,,3,2016,2015-16,div1,Wallace State,wallacestatecommunitycollegehancevil,lanceclevelandeheu,Lance Cleveland
-Feb 14,home,Wabash Valley,L,7-5,7,5,2.0,win,20160214_6ned,3,1,1,,,,1,,,,,2.0,win,20160214_6ned,,,,1,0,,,,,3,2016,2015-16,div1,Wallace State,wallacestatecommunitycollegehancevil,lanceclevelandeheu,Lance Cleveland
-Feb 14,home,Wabash Valley,L,6-0,6,0,6.0,win,20160214_cbtn,3,0,1,,,,0,,,,,6.0,win,20160214_cbtn,,,,1,0,,,,,3,2016,2015-16,div1,Wallace State,wallacestatecommunitycollegehancevil,lanceclevelandeheu,Lance Cleveland
-Feb 20,home,Baton Rouge,W,9-5,9,5,4.0,win,20160220_rmo8,3,0,1,,,,0,1,,,,4.0,win,20160220_rmo8,,,,1,0,,,,,4,2016,2015-16,div1,Wallace State,wallacestatecommunitycollegehancevil,lanceclevelandeheu,Lance Cleveland
-Mar 2,home,Columbia State,L,7-5,7,5,2.0,win,20160302_9uca,2,1,1,,,,0,1,,,,2.0,win,20160302_9uca,,,,1,0,,,,,3,2016,2015-16,div1,Wallace State,wallacestatecommunitycollegehancevil,lanceclevelandeheu,Lance Cleveland
-Mar 2,home,Columbia State,W,6-2,6,2,4.0,win,,,,,,,,,,,,,4.0,win,,,,,,,,,,,,2016,2015-16,div1,Wallace State,wallacestatecommunitycollegehancevil,lanceclevelandeheu,Lance Cleveland
-Mar 9,home,Northeast Mississippi,L,7-2,7,2,5.0,win,20160309_wh4h,4,0,3,1,0,0,0,0,1,0,0,5.0,win,20160309_wh4h,0,0,0,4,1,0,0,0,,4,2016,2015-16,div1,Wallace State,wallacestatecommunitycollegehancevil,lanceclevelandeheu,Lance Cleveland
-Mar 9,home,Northeast Mississippi,W,4-1,4,1,3.0,win,20160309_yxkx,2,0,1,0,0,0,0,1,0,0,0,3.0,win,20160309_yxkx,0,0,0,1,0,0,1,0,,3,2016,2015-16,div1,Wallace State,wallacestatecommunitycollegehancevil,lanceclevelandeheu,Lance Cleveland
-Mar 19,home,Calhoun,W,10-2,10,2,8.0,win,,,,,,,,,,,,,8.0,win,,,,,,,,,,,,2016,2015-16,div1,Wallace State,wallacestatecommunitycollegehancevil,lanceclevelandeheu,Lance Cleveland
-Mar 19,home,Calhoun,W,2-1,2,1,1.0,win,,,,,,,,,,,,,1.0,win,,,,,,,,,,,,2016,2015-16,div1,Wallace State,wallacestatecommunitycollegehancevil,lanceclevelandeheu,Lance Cleveland
-Mar 26,home,Lawson State,L,15-13,15,13,2.0,win,20160326_2vyf,5,1,0,,,,0,,,,,2.0,win,20160326_2vyf,,,,0,0,,,,,5,2016,2015-16,div1,Wallace State,wallacestatecommunitycollegehancevil,lanceclevelandeheu,Lance Cleveland
-Mar 26,home,Lawson State,W,7-1,7,1,6.0,win,20160326_altq,3,0,0,,,,0,,1,,,6.0,win,20160326_altq,,,,0,0,,,,,3,2016,2015-16,div1,Wallace State,wallacestatecommunitycollegehancevil,lanceclevelandeheu,Lance Cleveland
-Mar 31,home,Snead State,L,8-4,8,4,4.0,win,20160331_2tyd,3,1,1,,,,0,1,1,,,4.0,win,20160331_2tyd,,,,1,0,,,,,4,2016,2015-16,div1,Wallace State,wallacestatecommunitycollegehancevil,lanceclevelandeheu,Lance Cleveland
-Mar 31,home,Snead State,W,3-2,3,2,1.0,win,20160331_nj9k,2,0,0,,,,0,1,,1,,1.0,win,20160331_nj9k,,,1,0,0,,,,,4,2016,2015-16,div1,Wallace State,wallacestatecommunitycollegehancevil,lanceclevelandeheu,Lance Cleveland
-Apr 7,home,Southern Union State,L,8-1,8,1,7.0,win,,,,,,,,,,,,,7.0,win,,,,,,,,,,,,2016,2015-16,div1,Wallace State,wallacestatecommunitycollegehancevil,lanceclevelandeheu,Lance Cleveland
-Apr 7,home,Southern Union State,L,7-5,7,5,2.0,win,,,,,,,,,,,,,2.0,win,,,,,,,,,,,,2016,2015-16,div1,Wallace State,wallacestatecommunitycollegehancevil,lanceclevelandeheu,Lance Cleveland
-Apr 21,home,Marion Military,L,8-1,8,1,7.0,win,,,,,,,,,,,,,7.0,win,,,,,,,,,,,,2016,2015-16,div1,Wallace State,wallacestatecommunitycollegehancevil,lanceclevelandeheu,Lance Cleveland
-Apr 21,home,Marion Military,W,4-2,4,2,2.0,win,,,,,,,,,,,,,2.0,win,,,,,,,,,,,,2016,2015-16,div1,Wallace State,wallacestatecommunitycollegehancevil,lanceclevelandeheu,Lance Cleveland
-Apr 30,home,Central Alabama,W,10-0,10,0,10.0,win,,,,,,,,,,,,,10.0,win,,,,,,,,,,,,2016,2015-16,div1,Wallace State,wallacestatecommunitycollegehancevil,lanceclevelandeheu,Lance Cleveland
-Apr 30,home,Central Alabama,L,2-1,2,1,1.0,win,,,,,,,,,,,,,1.0,win,,,,,,,,,,,,2016,2015-16,div1,Wallace State,wallacestatecommunitycollegehancevil,lanceclevelandeheu,Lance Cleveland
-May 7,home,Shelton State,W,12-8,12,8,4.0,win,,,,,,,,,,,,,4.0,win,,,,,,,,,,,,2016,2015-16,div1,Wallace State,wallacestatecommunitycollegehancevil,lanceclevelandeheu,Lance Cleveland
-May 7,home,Shelton State,L,4-0,4,0,4.0,win,,,,,,,,,,,,,4.0,win,,,,,,,,,,,,2016,2015-16,div1,Wallace State,wallacestatecommunitycollegehancevil,lanceclevelandeheu,Lance Cleveland
+date,location,opponent,result,score,team_score,opp_score,game_score_diff,game_win_loss,game_id,AB,R,H,2B,3B,HR,RBI,BB,K,SB,CS,HBP,SF,SH,TB,XBH,HDP,GO,FO,GO/FO,PA,season,njcaa_season,njcaa_division,team,team_id,player_id,player_name
+Feb 5,home,Motlow State,L,4-2,4,2,2.0,win,20160205_k0qz,0,0,0,,,,0,,,,,,,,0,0,,,,,0,2016,2015-16,div1,Wallace State,wallacestatecommunitycollegehancevil,lanceclevelandeheu,Lance Cleveland
+Feb 6,home,Volunteer State,W,2-1,2,1,1.0,win,20160206_3ktn,2,0,0,,,,0,,2,,,,,1,0,0,,1,,,3,2016,2015-16,div1,Wallace State,wallacestatecommunitycollegehancevil,lanceclevelandeheu,Lance Cleveland
+Feb 6,home,Volunteer State,W,7-4,7,4,3.0,win,,,,,,,,,,,,,,,,,,,,,,,2016,2015-16,div1,Wallace State,wallacestatecommunitycollegehancevil,lanceclevelandeheu,Lance Cleveland
+Feb 7,home,Volunteer State,L,4-2,4,2,2.0,win,,,,,,,,,,,,,,,,,,,,,,,2016,2015-16,div1,Wallace State,wallacestatecommunitycollegehancevil,lanceclevelandeheu,Lance Cleveland
+Feb 7,home,Volunteer State,W,5-4,5,4,1.0,win,20160207_1w8r,3,0,1,,,,0,,,,,,,,1,0,,,2,,3,2016,2015-16,div1,Wallace State,wallacestatecommunitycollegehancevil,lanceclevelandeheu,Lance Cleveland
+Feb 13,home,Wabash Valley,W,3-2,3,2,1.0,win,20160213_nxr2,3,0,0,,,,1,2,,,,,,,0,0,,,,,5,2016,2015-16,div1,Wallace State,wallacestatecommunitycollegehancevil,lanceclevelandeheu,Lance Cleveland
+Feb 13,home,Wabash Valley,L,7-1,7,1,6.0,win,20160213_gysa,3,0,2,,,,0,,,,,,,,2,0,,,,,3,2016,2015-16,div1,Wallace State,wallacestatecommunitycollegehancevil,lanceclevelandeheu,Lance Cleveland
+Feb 14,home,Wabash Valley,L,7-5,7,5,2.0,win,20160214_6ned,3,1,1,,,,1,,,,,,,,1,0,,,,,3,2016,2015-16,div1,Wallace State,wallacestatecommunitycollegehancevil,lanceclevelandeheu,Lance Cleveland
+Feb 14,home,Wabash Valley,L,6-0,6,0,6.0,win,20160214_cbtn,3,0,1,,,,0,,,,,,,,1,0,,,,,3,2016,2015-16,div1,Wallace State,wallacestatecommunitycollegehancevil,lanceclevelandeheu,Lance Cleveland
+Feb 19,home,Southeastern,L,4-3,4,3,1.0,win,20160219_5ybb,3,0,0,,,,0,,,,,,,,0,0,,,,,3,2016,2015-16,div1,Wallace State,wallacestatecommunitycollegehancevil,lanceclevelandeheu,Lance Cleveland
+Feb 19,home,Coastal Alabama - Bay Minette,W,9-1,9,1,8.0,win,20160219_mg5p,4,1,3,,,,1,,,,,,,,3,0,,,,,4,2016,2015-16,div1,Wallace State,wallacestatecommunitycollegehancevil,lanceclevelandeheu,Lance Cleveland
+Feb 20,home,Coastal Alabama - Bay Minette,W,5-3,5,3,2.0,win,20160220_8c7b,4,1,0,,,,0,,,,,,,,0,0,,,,,4,2016,2015-16,div1,Wallace State,wallacestatecommunitycollegehancevil,lanceclevelandeheu,Lance Cleveland
+Feb 20,home,Baton Rouge,W,9-5,9,5,4.0,win,20160220_rmo8,3,0,1,,,,0,1,,,,,,,1,0,,,,,4,2016,2015-16,div1,Wallace State,wallacestatecommunitycollegehancevil,lanceclevelandeheu,Lance Cleveland
+Feb 26,home,Coastal Alabama - Bay Minette,W,14-9,14,9,5.0,win,20160226_e90a,5,2,3,,,,3,,,,,,,,3,0,,,,,5,2016,2015-16,div1,Wallace State,wallacestatecommunitycollegehancevil,lanceclevelandeheu,Lance Cleveland
+Feb 27,home,Coastal Alabama - Bay Minette,W,8-6,8,6,2.0,win,,,,,,,,,,,,,,,,,,,,,,,2016,2015-16,div1,Wallace State,wallacestatecommunitycollegehancevil,lanceclevelandeheu,Lance Cleveland
+Feb 27,home,Coastal Alabama - Bay Minette,W,11-4,11,4,7.0,win,,,,,,,,,,,,,,,,,,,,,,,2016,2015-16,div1,Wallace State,wallacestatecommunitycollegehancevil,lanceclevelandeheu,Lance Cleveland
+Mar 2,home,Columbia State,L,7-5,7,5,2.0,win,20160302_9uca,2,1,1,,,,0,1,,,,,,,1,0,,,,,3,2016,2015-16,div1,Wallace State,wallacestatecommunitycollegehancevil,lanceclevelandeheu,Lance Cleveland
+Mar 2,home,Columbia State,W,6-2,6,2,4.0,win,,,,,,,,,,,,,,,,,,,,,,,2016,2015-16,div1,Wallace State,wallacestatecommunitycollegehancevil,lanceclevelandeheu,Lance Cleveland
+Mar 5,home,Hinds,W,5-1,5,1,4.0,win,20160305_137t,5,0,0,,,,0,,3,,,,,,0,0,,,,,5,2016,2015-16,div1,Wallace State,wallacestatecommunitycollegehancevil,lanceclevelandeheu,Lance Cleveland
+Mar 8,home,Georgia Highlands,W,4-2,4,2,2.0,win,20160308_0sra,3,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,0,,,3,2016,2015-16,div1,Wallace State,wallacestatecommunitycollegehancevil,lanceclevelandeheu,Lance Cleveland
+Mar 8,home,Georgia Highlands,L,6-3,6,3,3.0,win,20160308_7jzp,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,0,,,2,2016,2015-16,div1,Wallace State,wallacestatecommunitycollegehancevil,lanceclevelandeheu,Lance Cleveland
+Mar 9,home,Northeast Mississippi,L,7-2,7,2,5.0,win,20160309_wh4h,4,0,3,1,0,0,0,0,1,0,0,0,0,0,4,1,0,0,0,,4,2016,2015-16,div1,Wallace State,wallacestatecommunitycollegehancevil,lanceclevelandeheu,Lance Cleveland
+Mar 9,home,Northeast Mississippi,W,4-1,4,1,3.0,win,20160309_yxkx,2,0,1,0,0,0,0,1,0,0,0,0,0,0,1,0,0,1,0,,3,2016,2015-16,div1,Wallace State,wallacestatecommunitycollegehancevil,lanceclevelandeheu,Lance Cleveland
+Mar 15,home,Motlow State,W,12-5,12,5,7.0,win,20160315_evvu,5,2,0,,,1,5,,,,,,,,3,1,,,,,5,2016,2015-16,div1,Wallace State,wallacestatecommunitycollegehancevil,lanceclevelandeheu,Lance Cleveland
+Mar 17,home,Calhoun,W,5-2,5,2,3.0,win,20160317_gpxe,4,0,2,,,,1,,,,,1,,,2,0,,,,,5,2016,2015-16,div1,Wallace State,wallacestatecommunitycollegehancevil,lanceclevelandeheu,Lance Cleveland
+Mar 17,home,Calhoun,W,8-6,8,6,2.0,win,20160317_agp7,3,1,0,,,,2,1,,1,,,,,0,0,,,,,4,2016,2015-16,div1,Wallace State,wallacestatecommunitycollegehancevil,lanceclevelandeheu,Lance Cleveland
+Mar 19,home,Calhoun,W,10-2,10,2,8.0,win,,,,,,,,,,,,,,,,,,,,,,,2016,2015-16,div1,Wallace State,wallacestatecommunitycollegehancevil,lanceclevelandeheu,Lance Cleveland
+Mar 19,home,Calhoun,W,2-1,2,1,1.0,win,,,,,,,,,,,,,,,,,,,,,,,2016,2015-16,div1,Wallace State,wallacestatecommunitycollegehancevil,lanceclevelandeheu,Lance Cleveland
+Mar 24,home,Lawson State,W,7-3,7,3,4.0,win,20160324_bb7b,4,1,0,,,,0,1,2,,,,,,0,0,,,,,5,2016,2015-16,div1,Wallace State,wallacestatecommunitycollegehancevil,lanceclevelandeheu,Lance Cleveland
+Mar 24,home,Lawson State,L,11-1,11,1,10.0,win,20160324_xyy0,3,0,0,,,,0,,1,,,,,,0,0,,,,,3,2016,2015-16,div1,Wallace State,wallacestatecommunitycollegehancevil,lanceclevelandeheu,Lance Cleveland
+Mar 26,home,Lawson State,L,15-13,15,13,2.0,win,20160326_2vyf,5,1,0,,,,0,,,,,,,,0,0,,,,,5,2016,2015-16,div1,Wallace State,wallacestatecommunitycollegehancevil,lanceclevelandeheu,Lance Cleveland
+Mar 26,home,Lawson State,W,7-1,7,1,6.0,win,20160326_altq,3,0,0,,,,0,,1,,,,,,0,0,,,,,3,2016,2015-16,div1,Wallace State,wallacestatecommunitycollegehancevil,lanceclevelandeheu,Lance Cleveland
+Mar 31,home,Snead State,L,8-4,8,4,4.0,win,20160331_2tyd,3,1,1,,,,0,1,1,,,,,,1,0,,,,,4,2016,2015-16,div1,Wallace State,wallacestatecommunitycollegehancevil,lanceclevelandeheu,Lance Cleveland
+Mar 31,home,Snead State,W,3-2,3,2,1.0,win,20160331_nj9k,2,0,0,,,,0,1,,1,,,,1,0,0,,,,,4,2016,2015-16,div1,Wallace State,wallacestatecommunitycollegehancevil,lanceclevelandeheu,Lance Cleveland
+Apr 2,home,Snead State,W,7-1,7,1,6.0,win,20160402_b75f,2,0,0,,,,0,,,,,,,,0,0,,,,,2,2016,2015-16,div1,Wallace State,wallacestatecommunitycollegehancevil,lanceclevelandeheu,Lance Cleveland
+Apr 2,home,Snead State,L,4-0,4,0,4.0,win,20160402_kv37,3,0,2,,,,0,,,,,,,,2,0,,,,,3,2016,2015-16,div1,Wallace State,wallacestatecommunitycollegehancevil,lanceclevelandeheu,Lance Cleveland
+Apr 7,home,Southern Union State,L,8-1,8,1,7.0,win,,,,,,,,,,,,,,,,,,,,,,,2016,2015-16,div1,Wallace State,wallacestatecommunitycollegehancevil,lanceclevelandeheu,Lance Cleveland
+Apr 7,home,Southern Union State,L,7-5,7,5,2.0,win,,,,,,,,,,,,,,,,,,,,,,,2016,2015-16,div1,Wallace State,wallacestatecommunitycollegehancevil,lanceclevelandeheu,Lance Cleveland
+Apr 9,home,Southern Union State,L,13-7,13,7,6.0,win,,,,,,,,,,,,,,,,,,,,,,,2016,2015-16,div1,Wallace State,wallacestatecommunitycollegehancevil,lanceclevelandeheu,Lance Cleveland
+Apr 9,home,Southern Union State,W,3-1,3,1,2.0,win,,,,,,,,,,,,,,,,,,,,,,,2016,2015-16,div1,Wallace State,wallacestatecommunitycollegehancevil,lanceclevelandeheu,Lance Cleveland
+Apr 12,home,Volunteer State,W,10-4,10,4,6.0,win,20160412_ywsc,3,1,1,,,,1,1,,,,,1,,1,0,,2,1,2.00,5,2016,2015-16,div1,Wallace State,wallacestatecommunitycollegehancevil,lanceclevelandeheu,Lance Cleveland
+Apr 13,home,Columbia State,L,5-3,5,3,2.0,win,,,,,,,,,,,,,,,,,,,,,,,2016,2015-16,div1,Wallace State,wallacestatecommunitycollegehancevil,lanceclevelandeheu,Lance Cleveland
+Apr 13,home,Columbia State,W,13-3,13,3,10.0,win,,,,,,,,,,,,,,,,,,,,,,,2016,2015-16,div1,Wallace State,wallacestatecommunitycollegehancevil,lanceclevelandeheu,Lance Cleveland
+Apr 21,home,Marion Military,L,8-1,8,1,7.0,win,,,,,,,,,,,,,,,,,,,,,,,2016,2015-16,div1,Wallace State,wallacestatecommunitycollegehancevil,lanceclevelandeheu,Lance Cleveland
+Apr 21,home,Marion Military,W,4-2,4,2,2.0,win,,,,,,,,,,,,,,,,,,,,,,,2016,2015-16,div1,Wallace State,wallacestatecommunitycollegehancevil,lanceclevelandeheu,Lance Cleveland
+Apr 23,home,Marion Military,W,14-3,14,3,11.0,win,,,,,,,,,,,,,,,,,,,,,,,2016,2015-16,div1,Wallace State,wallacestatecommunitycollegehancevil,lanceclevelandeheu,Lance Cleveland
+Apr 23,home,Marion Military,L,11-3,11,3,8.0,win,,,,,,,,,,,,,,,,,,,,,,,2016,2015-16,div1,Wallace State,wallacestatecommunitycollegehancevil,lanceclevelandeheu,Lance Cleveland
+Apr 29,home,Central Alabama,W,14-4,14,4,10.0,win,,,,,,,,,,,,,,,,,,,,,,,2016,2015-16,div1,Wallace State,wallacestatecommunitycollegehancevil,lanceclevelandeheu,Lance Cleveland
+Apr 29,home,Central Alabama,W,10-8,10,8,2.0,win,,,,,,,,,,,,,,,,,,,,,,,2016,2015-16,div1,Wallace State,wallacestatecommunitycollegehancevil,lanceclevelandeheu,Lance Cleveland
+Apr 30,home,Central Alabama,W,10-0,10,0,10.0,win,,,,,,,,,,,,,,,,,,,,,,,2016,2015-16,div1,Wallace State,wallacestatecommunitycollegehancevil,lanceclevelandeheu,Lance Cleveland
+Apr 30,home,Central Alabama,L,2-1,2,1,1.0,win,,,,,,,,,,,,,,,,,,,,,,,2016,2015-16,div1,Wallace State,wallacestatecommunitycollegehancevil,lanceclevelandeheu,Lance Cleveland
+May 5,home,Shelton State,L,7-3,7,3,4.0,win,,,,,,,,,,,,,,,,,,,,,,,2016,2015-16,div1,Wallace State,wallacestatecommunitycollegehancevil,lanceclevelandeheu,Lance Cleveland
+May 5,home,Shelton State,L,6-3,6,3,3.0,win,,,,,,,,,,,,,,,,,,,,,,,2016,2015-16,div1,Wallace State,wallacestatecommunitycollegehancevil,lanceclevelandeheu,Lance Cleveland
+May 7,home,Shelton State,W,12-8,12,8,4.0,win,,,,,,,,,,,,,,,,,,,,,,,2016,2015-16,div1,Wallace State,wallacestatecommunitycollegehancevil,lanceclevelandeheu,Lance Cleveland
+May 7,home,Shelton State,L,4-0,4,0,4.0,win,,,,,,,,,,,,,,,,,,,,,,,2016,2015-16,div1,Wallace State,wallacestatecommunitycollegehancevil,lanceclevelandeheu,Lance Cleveland
+May 13,home,Coastal Alabama - Bay Minette,L,8-6,8,6,2.0,win,,,,,,,,,,,,,,,,,,,,,,,2016,2015-16,div1,Wallace State,wallacestatecommunitycollegehancevil,lanceclevelandeheu,Lance Cleveland
+May 14,home,Lurleen B. Wallace,W,11-5,11,5,6.0,win,,,,,,,,,,,,,,,,,,,,,,,2016,2015-16,div1,Wallace State,wallacestatecommunitycollegehancevil,lanceclevelandeheu,Lance Cleveland

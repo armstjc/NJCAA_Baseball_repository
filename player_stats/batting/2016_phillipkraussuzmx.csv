@@ -1,29 +1,57 @@
-date,location,opponent,result,score,team_score,opp_score,game_score_diff_x,game_win_loss_x,game_id_x,AB,R,H,2B,3B,HR,RBI,BB,K,SB,CS,game_score_diff_y,game_win_loss_y,game_id_y,HBP,SF,SH,TB,XBH,HDP,GO,FO,GO/FO,PA,season,njcaa_season,njcaa_division,team,team_id,player_id,player_name
-Sep 23,home,Tyler,,,,,,,,,,,,,,,,,,,3.0,win,,,,,,,,,,,,2016,2015-16,div1,Weatherford,weatherfordcollege,phillipkraussuzmx,Phillip Krauss
-Feb 13,home,Northeast Texas,W,10-4,10,4,6,win,,,,,,,,,,,,,6.0,win,,,,,,,,,,,,2016,2015-16,div1,Weatherford,weatherfordcollege,phillipkraussuzmx,Phillip Krauss
-Feb 13,home,Northeast Texas,L,6-5,6,5,1,win,,,,,,,,,,,,,1.0,win,,,,,,,,,,,,2016,2015-16,div1,Weatherford,weatherfordcollege,phillipkraussuzmx,Phillip Krauss
-Feb 19,home,Navarro,W,8-6,8,6,2,win,,,,,,,,,,,,,2.0,win,,,,,,,,,,,,2016,2015-16,div1,Weatherford,weatherfordcollege,phillipkraussuzmx,Phillip Krauss
-Feb 19,home,New Mexico,L,12-2,12,2,10,win,20160219_1bly,0,0,0,,,,0,1,,,,10.0,win,20160219_1bly,,,,0,0,,,,,1,2016,2015-16,div1,Weatherford,weatherfordcollege,phillipkraussuzmx,Phillip Krauss
-Feb 20,home,New Mexico,W,14-7,14,7,7,win,,,,,,,,,,,,,7.0,win,,,,,,,,,,,,2016,2015-16,div1,Weatherford,weatherfordcollege,phillipkraussuzmx,Phillip Krauss
-Feb 20,home,Navarro,L,9-3,9,3,6,win,,,,,,,,,,,,,6.0,win,,,,,,,,,,,,2016,2015-16,div1,Weatherford,weatherfordcollege,phillipkraussuzmx,Phillip Krauss
-Feb 24,home,Dallas College - Brookhaven,W,8-3,8,3,5,win,20160224_4xe7,1,0,1,,,,0,,,,,5.0,win,20160224_4xe7,,,,1,0,,,,,1,2016,2015-16,div1,Weatherford,weatherfordcollege,phillipkraussuzmx,Phillip Krauss
-Mar 5,home,Tyler,W,2-1,2,1,1,win,,,,,,,,,,,,,1.0,win,,,,,,,,,,,,2016,2015-16,div1,Weatherford,weatherfordcollege,phillipkraussuzmx,Phillip Krauss
-Mar 5,home,Tyler,W,8-7,8,7,1,win,,,,,,,,,,,,,1.0,win,,,,,,,,,,,,2016,2015-16,div1,Weatherford,weatherfordcollege,phillipkraussuzmx,Phillip Krauss
-Mar 14,home,North Central Texas,W,14-4,14,4,10,win,,,,,,,,,,,,,10.0,win,,,,,,,,,,,,2016,2015-16,div1,Weatherford,weatherfordcollege,phillipkraussuzmx,Phillip Krauss
-Mar 14,home,North Central Texas,W,9-3,9,3,6,win,,,,,,,,,,,,,6.0,win,,,,,,,,,,,,2016,2015-16,div1,Weatherford,weatherfordcollege,phillipkraussuzmx,Phillip Krauss
-Mar 19,home,Temple,W,5-4,5,4,1,win,,,,,,,,,,,,,1.0,win,,,,,,,,,,,,2016,2015-16,div1,Weatherford,weatherfordcollege,phillipkraussuzmx,Phillip Krauss
-Mar 19,home,Temple,W,4-3,4,3,1,win,,,,,,,,,,,,,1.0,win,,,,,,,,,,,,2016,2015-16,div1,Weatherford,weatherfordcollege,phillipkraussuzmx,Phillip Krauss
-Mar 25,home,Cisco,W,12-2,12,2,10,win,,,,,,,,,,,,,10.0,win,,,,,,,,,,,,2016,2015-16,div1,Weatherford,weatherfordcollege,phillipkraussuzmx,Phillip Krauss
-Mar 25,home,Cisco,L,14-7,14,7,7,win,,,,,,,,,,,,,7.0,win,,,,,,,,,,,,2016,2015-16,div1,Weatherford,weatherfordcollege,phillipkraussuzmx,Phillip Krauss
-Apr 2,home,Grayson,W,11-9,11,9,2,win,,,,,,,,,,,,,2.0,win,,,,,,,,,,,,2016,2015-16,div1,Weatherford,weatherfordcollege,phillipkraussuzmx,Phillip Krauss
-Apr 2,home,Grayson,L,14-2,14,2,12,win,,,,,,,,,,,,,12.0,win,,,,,,,,,,,,2016,2015-16,div1,Weatherford,weatherfordcollege,phillipkraussuzmx,Phillip Krauss
-Apr 6,home,Ranger,L,7-6,7,6,1,win,,,,,,,,,,,,,1.0,win,,,,,,,,,,,,2016,2015-16,div1,Weatherford,weatherfordcollege,phillipkraussuzmx,Phillip Krauss
-Apr 6,home,Ranger,W,22-7,22,7,15,win,,,,,,,,,,,,,15.0,win,,,,,,,,,,,,2016,2015-16,div1,Weatherford,weatherfordcollege,phillipkraussuzmx,Phillip Krauss
-Apr 13,home,Hill,L,4-2,4,2,2,win,,,,,,,,,,,,,2.0,win,,,,,,,,,,,,2016,2015-16,div1,Weatherford,weatherfordcollege,phillipkraussuzmx,Phillip Krauss
-Apr 13,home,Hill,L,10-3,10,3,7,win,20160413_ay31,3,2,2,1,,,0,1,1,,,7.0,win,20160413_ay31,,,,3,1,,,,,4,2016,2015-16,div1,Weatherford,weatherfordcollege,phillipkraussuzmx,Phillip Krauss
-Apr 20,home,McLennan,L,10-1,10,1,9,win,20160420_gff9,3,0,0,,,,0,,1,,,9.0,win,20160420_gff9,,,,0,0,,,,,3,2016,2015-16,div1,Weatherford,weatherfordcollege,phillipkraussuzmx,Phillip Krauss
-Apr 20,home,McLennan,L,6-4,6,4,2,win,,,,,,,,,,,,,2.0,win,,,,,,,,,,,,2016,2015-16,div1,Weatherford,weatherfordcollege,phillipkraussuzmx,Phillip Krauss
-Apr 28,home,Texas Wesleyan,W,10-0,10,0,10,win,20160428_eawq,2,1,1,,,,1,1,,,,10.0,win,20160428_eawq,,,,1,0,,,,,3,2016,2015-16,div1,Weatherford,weatherfordcollege,phillipkraussuzmx,Phillip Krauss
-Apr 28,home,Texas Wesleyan,W,9-2,9,2,7,win,,,,,,,,,,,,,7.0,win,,,,,,,,,,,,2016,2015-16,div1,Weatherford,weatherfordcollege,phillipkraussuzmx,Phillip Krauss
-May 4,home,Vernon,W,14-4,14,4,10,win,20160504_8teo,2,2,1,,,,2,,1,,,10.0,win,20160504_8teo,1,,,1,0,,,,,3,2016,2015-16,div1,Weatherford,weatherfordcollege,phillipkraussuzmx,Phillip Krauss
-May 4,home,Vernon,W,6-5,6,5,1,win,,,,,,,,,,,,,1.0,win,,,,,,,,,,,,2016,2015-16,div1,Weatherford,weatherfordcollege,phillipkraussuzmx,Phillip Krauss
+date,location,opponent,result,score,team_score,opp_score,game_score_diff,game_win_loss,game_id,AB,R,H,2B,3B,HR,RBI,BB,K,SB,CS,HBP,SF,SH,TB,XBH,HDP,GO,FO,GO/FO,PA,season,njcaa_season,njcaa_division,team,team_id,player_id,player_name
+Feb 5,home,Navarro,W,9-5,9,5,4,win,,,,,,,,,,,,,,,,,,,,,,,2016,2015-16,div1,Weatherford,weatherfordcollege,phillipkraussuzmx,Phillip Krauss
+Feb 6,home,Alvin,W,10-9,10,9,1,win,,,,,,,,,,,,,,,,,,,,,,,2016,2015-16,div1,Weatherford,weatherfordcollege,phillipkraussuzmx,Phillip Krauss
+Feb 7,home,Odessa,W,6-2,6,2,4,win,,,,,,,,,,,,,,,,,,,,,,,2016,2015-16,div1,Weatherford,weatherfordcollege,phillipkraussuzmx,Phillip Krauss
+Feb 7,home,Baton Rouge,W,7-5,7,5,2,win,,,,,,,,,,,,,,,,,,,,,,,2016,2015-16,div1,Weatherford,weatherfordcollege,phillipkraussuzmx,Phillip Krauss
+Feb 11,home,Northeast Texas,W,9-8,9,8,1,win,,,,,,,,,,,,,,,,,,,,,,,2016,2015-16,div1,Weatherford,weatherfordcollege,phillipkraussuzmx,Phillip Krauss
+Feb 13,home,Northeast Texas,W,10-4,10,4,6,win,,,,,,,,,,,,,,,,,,,,,,,2016,2015-16,div1,Weatherford,weatherfordcollege,phillipkraussuzmx,Phillip Krauss
+Feb 13,home,Northeast Texas,L,6-5,6,5,1,win,,,,,,,,,,,,,,,,,,,,,,,2016,2015-16,div1,Weatherford,weatherfordcollege,phillipkraussuzmx,Phillip Krauss
+Feb 19,home,Navarro,W,8-6,8,6,2,win,,,,,,,,,,,,,,,,,,,,,,,2016,2015-16,div1,Weatherford,weatherfordcollege,phillipkraussuzmx,Phillip Krauss
+Feb 19,home,New Mexico,L,12-2,12,2,10,win,20160219_1bly,0,0,0,,,,0,1,,,,,,,0,0,,,,,1,2016,2015-16,div1,Weatherford,weatherfordcollege,phillipkraussuzmx,Phillip Krauss
+Feb 20,home,New Mexico,W,14-7,14,7,7,win,,,,,,,,,,,,,,,,,,,,,,,2016,2015-16,div1,Weatherford,weatherfordcollege,phillipkraussuzmx,Phillip Krauss
+Feb 20,home,Navarro,L,9-3,9,3,6,win,,,,,,,,,,,,,,,,,,,,,,,2016,2015-16,div1,Weatherford,weatherfordcollege,phillipkraussuzmx,Phillip Krauss
+Feb 24,home,Dallas College - Brookhaven,W,8-3,8,3,5,win,20160224_4xe7,1,0,1,,,,0,,,,,,,,1,0,,,,,1,2016,2015-16,div1,Weatherford,weatherfordcollege,phillipkraussuzmx,Phillip Krauss
+Feb 26,home,Midland,W,9-7,9,7,2,win,,,,,,,,,,,,,,,,,,,,,,,2016,2015-16,div1,Weatherford,weatherfordcollege,phillipkraussuzmx,Phillip Krauss
+Feb 27,home,Midland,L,14-9,14,9,5,win,,,,,,,,,,,,,,,,,,,,,,,2016,2015-16,div1,Weatherford,weatherfordcollege,phillipkraussuzmx,Phillip Krauss
+Feb 27,home,Midland,W,14-10,14,10,4,win,,,,,,,,,,,,,,,,,,,,,,,2016,2015-16,div1,Weatherford,weatherfordcollege,phillipkraussuzmx,Phillip Krauss
+Mar 2,home,Tyler,W,2-1,2,1,1,win,,,,,,,,,,,,,,,,,,,,,,,2016,2015-16,div1,Weatherford,weatherfordcollege,phillipkraussuzmx,Phillip Krauss
+Mar 2,home,Tyler,L,2-1,2,1,1,win,,,,,,,,,,,,,,,,,,,,,,,2016,2015-16,div1,Weatherford,weatherfordcollege,phillipkraussuzmx,Phillip Krauss
+Mar 5,home,Tyler,W,2-1,2,1,1,win,,,,,,,,,,,,,,,,,,,,,,,2016,2015-16,div1,Weatherford,weatherfordcollege,phillipkraussuzmx,Phillip Krauss
+Mar 5,home,Tyler,W,8-7,8,7,1,win,,,,,,,,,,,,,,,,,,,,,,,2016,2015-16,div1,Weatherford,weatherfordcollege,phillipkraussuzmx,Phillip Krauss
+Mar 13,home,North Central Texas,W,10-7,10,7,3,win,,,,,,,,,,,,,,,,,,,,,,,2016,2015-16,div1,Weatherford,weatherfordcollege,phillipkraussuzmx,Phillip Krauss
+Mar 13,home,North Central Texas,L,12-10,12,10,2,win,,,,,,,,,,,,,,,,,,,,,,,2016,2015-16,div1,Weatherford,weatherfordcollege,phillipkraussuzmx,Phillip Krauss
+Mar 14,home,North Central Texas,W,14-4,14,4,10,win,,,,,,,,,,,,,,,,,,,,,,,2016,2015-16,div1,Weatherford,weatherfordcollege,phillipkraussuzmx,Phillip Krauss
+Mar 14,home,North Central Texas,W,9-3,9,3,6,win,,,,,,,,,,,,,,,,,,,,,,,2016,2015-16,div1,Weatherford,weatherfordcollege,phillipkraussuzmx,Phillip Krauss
+Mar 16,home,Temple,W,8-3,8,3,5,win,,,,,,,,,,,,,,,,,,,,,,,2016,2015-16,div1,Weatherford,weatherfordcollege,phillipkraussuzmx,Phillip Krauss
+Mar 16,home,Temple,W,8-3,8,3,5,win,,,,,,,,,,,,,,,,,,,,,,,2016,2015-16,div1,Weatherford,weatherfordcollege,phillipkraussuzmx,Phillip Krauss
+Mar 16,home,Temple,W,8-3,8,3,5,win,,,,,,,,,,,,,,,,,,,,,,,2016,2015-16,div1,Weatherford,weatherfordcollege,phillipkraussuzmx,Phillip Krauss
+Mar 16,home,Temple,W,8-3,8,3,5,win,,,,,,,,,,,,,,,,,,,,,,,2016,2015-16,div1,Weatherford,weatherfordcollege,phillipkraussuzmx,Phillip Krauss
+Mar 19,home,Temple,W,5-4,5,4,1,win,,,,,,,,,,,,,,,,,,,,,,,2016,2015-16,div1,Weatherford,weatherfordcollege,phillipkraussuzmx,Phillip Krauss
+Mar 19,home,Temple,W,4-3,4,3,1,win,,,,,,,,,,,,,,,,,,,,,,,2016,2015-16,div1,Weatherford,weatherfordcollege,phillipkraussuzmx,Phillip Krauss
+Mar 23,home,Cisco,L,12-8,12,8,4,win,,,,,,,,,,,,,,,,,,,,,,,2016,2015-16,div1,Weatherford,weatherfordcollege,phillipkraussuzmx,Phillip Krauss
+Mar 23,home,Cisco,L,6-2,6,2,4,win,,,,,,,,,,,,,,,,,,,,,,,2016,2015-16,div1,Weatherford,weatherfordcollege,phillipkraussuzmx,Phillip Krauss
+Mar 25,home,Cisco,W,12-2,12,2,10,win,,,,,,,,,,,,,,,,,,,,,,,2016,2015-16,div1,Weatherford,weatherfordcollege,phillipkraussuzmx,Phillip Krauss
+Mar 25,home,Cisco,L,14-7,14,7,7,win,,,,,,,,,,,,,,,,,,,,,,,2016,2015-16,div1,Weatherford,weatherfordcollege,phillipkraussuzmx,Phillip Krauss
+Mar 31,home,Grayson,L,6-3,6,3,3,win,,,,,,,,,,,,,,,,,,,,,,,2016,2015-16,div1,Weatherford,weatherfordcollege,phillipkraussuzmx,Phillip Krauss
+Mar 31,home,Grayson,L,6-4,6,4,2,win,,,,,,,,,,,,,,,,,,,,,,,2016,2015-16,div1,Weatherford,weatherfordcollege,phillipkraussuzmx,Phillip Krauss
+Apr 2,home,Grayson,W,11-9,11,9,2,win,,,,,,,,,,,,,,,,,,,,,,,2016,2015-16,div1,Weatherford,weatherfordcollege,phillipkraussuzmx,Phillip Krauss
+Apr 2,home,Grayson,L,14-2,14,2,12,win,,,,,,,,,,,,,,,,,,,,,,,2016,2015-16,div1,Weatherford,weatherfordcollege,phillipkraussuzmx,Phillip Krauss
+Apr 4,home,Dallas College - Brookhaven,L,9-3,9,3,6,win,20160404_lr6g,3,2,2,,,,0,1,,,,,,,2,0,,,,,4,2016,2015-16,div1,Weatherford,weatherfordcollege,phillipkraussuzmx,Phillip Krauss
+Apr 6,home,Ranger,L,7-6,7,6,1,win,,,,,,,,,,,,,,,,,,,,,,,2016,2015-16,div1,Weatherford,weatherfordcollege,phillipkraussuzmx,Phillip Krauss
+Apr 6,home,Ranger,W,22-7,22,7,15,win,,,,,,,,,,,,,,,,,,,,,,,2016,2015-16,div1,Weatherford,weatherfordcollege,phillipkraussuzmx,Phillip Krauss
+Apr 9,home,Ranger,L,5-4,5,4,1,win,,,,,,,,,,,,,,,,,,,,,,,2016,2015-16,div1,Weatherford,weatherfordcollege,phillipkraussuzmx,Phillip Krauss
+Apr 9,home,Ranger,W,11-7,11,7,4,win,,,,,,,,,,,,,,,,,,,,,,,2016,2015-16,div1,Weatherford,weatherfordcollege,phillipkraussuzmx,Phillip Krauss
+Apr 13,home,Hill,L,4-2,4,2,2,win,,,,,,,,,,,,,,,,,,,,,,,2016,2015-16,div1,Weatherford,weatherfordcollege,phillipkraussuzmx,Phillip Krauss
+Apr 13,home,Hill,L,10-3,10,3,7,win,20160413_ay31,3,2,2,1,,,0,1,1,,,,,,3,1,,,,,4,2016,2015-16,div1,Weatherford,weatherfordcollege,phillipkraussuzmx,Phillip Krauss
+Apr 16,home,Hill,L,8-2,8,2,6,win,20160416_sl68,1,0,0,,,,0,,1,,,,,,0,0,,,,,1,2016,2015-16,div1,Weatherford,weatherfordcollege,phillipkraussuzmx,Phillip Krauss
+Apr 16,home,Hill,W,7-4,7,4,3,win,20160416_e3g0,2,1,1,1,,,0,1,1,,,,,,2,1,,,,,3,2016,2015-16,div1,Weatherford,weatherfordcollege,phillipkraussuzmx,Phillip Krauss
+Apr 20,home,McLennan,L,10-1,10,1,9,win,20160420_gff9,3,0,0,,,,0,,1,,,,,,0,0,,,,,3,2016,2015-16,div1,Weatherford,weatherfordcollege,phillipkraussuzmx,Phillip Krauss
+Apr 20,home,McLennan,L,6-4,6,4,2,win,,,,,,,,,,,,,,,,,,,,,,,2016,2015-16,div1,Weatherford,weatherfordcollege,phillipkraussuzmx,Phillip Krauss
+Apr 23,home,McLennan,W,3-2,3,2,1,win,20160423_a0xj,4,1,2,1,,,1,,2,,,,,,3,1,,,,,4,2016,2015-16,div1,Weatherford,weatherfordcollege,phillipkraussuzmx,Phillip Krauss
+Apr 23,home,McLennan,L,6-0,6,0,6,win,20160423_jy4g,4,0,0,,,,0,,2,,,,,,0,0,,,,,4,2016,2015-16,div1,Weatherford,weatherfordcollege,phillipkraussuzmx,Phillip Krauss
+Apr 28,home,Texas Wesleyan,W,10-0,10,0,10,win,20160428_eawq,2,1,1,,,,1,1,,,,,,,1,0,,,,,3,2016,2015-16,div1,Weatherford,weatherfordcollege,phillipkraussuzmx,Phillip Krauss
+Apr 28,home,Texas Wesleyan,W,9-2,9,2,7,win,,,,,,,,,,,,,,,,,,,,,,,2016,2015-16,div1,Weatherford,weatherfordcollege,phillipkraussuzmx,Phillip Krauss
+May 4,home,Vernon,W,14-4,14,4,10,win,20160504_8teo,2,2,1,,,,2,,1,,,1,,,1,0,,,,,3,2016,2015-16,div1,Weatherford,weatherfordcollege,phillipkraussuzmx,Phillip Krauss
+May 4,home,Vernon,W,6-5,6,5,1,win,,,,,,,,,,,,,,,,,,,,,,,2016,2015-16,div1,Weatherford,weatherfordcollege,phillipkraussuzmx,Phillip Krauss
+May 7,home,Vernon,W,5-2,5,2,3,win,20160507_9of7,4,0,1,,,,0,,,,,,,,1,0,,,,,4,2016,2015-16,div1,Weatherford,weatherfordcollege,phillipkraussuzmx,Phillip Krauss
+May 7,home,Vernon,W,12-9,12,9,3,win,20160507_5eom,4,0,1,,,,0,1,1,,,,,,1,0,,,,,5,2016,2015-16,div1,Weatherford,weatherfordcollege,phillipkraussuzmx,Phillip Krauss

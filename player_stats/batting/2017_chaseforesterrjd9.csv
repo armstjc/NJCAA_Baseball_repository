@@ -1,31 +1,61 @@
-date,location,opponent,result,score,team_score,opp_score,game_score_diff_x,game_win_loss_x,game_id_x,AB,R,H,2B,3B,HR,RBI,BB,K,SB,CS,game_score_diff_y,game_win_loss_y,game_id_y,HBP,SF,SH,TB,XBH,HDP,GO,FO,GO/FO,PA,season,njcaa_season,njcaa_division,team,team_id,player_id,player_name
-Feb 3,home,Walters State,W,6-5,6,5,1.0,win,,,,,,,,,,,,,1.0,win,,,,,,,,,,,,2017,2016-17,div1,Chipola,chipolacollege,chaseforesterrjd9,Chase Forester
-Feb 3,home,San Jacinto,L,6-0,6,0,6.0,win,,,,,,,,,,,,,6.0,win,,,,,,,,,,,,2017,2016-17,div1,Chipola,chipolacollege,chaseforesterrjd9,Chase Forester
-Feb 4,home,San Jacinto,W,8-0,8,0,8.0,win,,,,,,,,,,,,,8.0,win,,,,,,,,,,,,2017,2016-17,div1,Chipola,chipolacollege,chaseforesterrjd9,Chase Forester
-Feb 16,home,Gordon State,W,14-7,14,7,7.0,win,,,,,,,,,,,,,7.0,win,,,,,,,,,,,,2017,2016-17,div1,Chipola,chipolacollege,chaseforesterrjd9,Chase Forester
-Feb 17,home,Gordon State,W,4-3,4,3,1.0,win,,,,,,,,,,,,,1.0,win,,,,,,,,,,,,2017,2016-17,div1,Chipola,chipolacollege,chaseforesterrjd9,Chase Forester
-Feb 18,home,Columbia State,W,6-1,6,1,5.0,win,,,,,,,,,,,,,5.0,win,,,,,,,,,,,,2017,2016-17,div1,Chipola,chipolacollege,chaseforesterrjd9,Chase Forester
-Feb 18,home,Columbia State,W,13-3,13,3,10.0,win,,,,,,,,,,,,,10.0,win,,,,,,,,,,,,2017,2016-17,div1,Chipola,chipolacollege,chaseforesterrjd9,Chase Forester
-Feb 19,home,Columbia State,W,9-3,9,3,6.0,win,,,,,,,,,,,,,6.0,win,,,,,,,,,,,,2017,2016-17,div1,Chipola,chipolacollege,chaseforesterrjd9,Chase Forester
-Feb 24,home,Shelton State,W,7-1,7,1,6.0,win,,,,,,,,,,,,,6.0,win,,,,,,,,,,,,2017,2016-17,div1,Chipola,chipolacollege,chaseforesterrjd9,Chase Forester
-Feb 24,home,State College of Florida,W,7-3,7,3,4.0,win,,,,,,,,,,,,,4.0,win,,,,,,,,,,,,2017,2016-17,div1,Chipola,chipolacollege,chaseforesterrjd9,Chase Forester
-Feb 25,home,St. Johns River State,W,12-5,12,5,7.0,win,,,,,,,,,,,,,7.0,win,,,,,,,,,,,,2017,2016-17,div1,Chipola,chipolacollege,chaseforesterrjd9,Chase Forester
-Feb 26,home,Shelton State,W,13-3,13,3,10.0,win,,,,,,,,,,,,,10.0,win,,,,,,,,,,,,2017,2016-17,div1,Chipola,chipolacollege,chaseforesterrjd9,Chase Forester
-Mar 3,home,Grand Rapids,W,10-0,10,0,10.0,win,,,,,,,,,,,,,10.0,win,,,,,,,,,,,,2017,2016-17,div1,Chipola,chipolacollege,chaseforesterrjd9,Chase Forester
-Mar 4,home,LSU Eunice,L,9-2,9,2,7.0,win,,,,,,,,,,,,,7.0,win,,,,,,,,,,,,2017,2016-17,div1,Chipola,chipolacollege,chaseforesterrjd9,Chase Forester
-Mar 5,home,LSU Eunice,W,3-0,3,0,3.0,win,,,,,,,,,,,,,3.0,win,,,,,,,,,,,,2017,2016-17,div1,Chipola,chipolacollege,chaseforesterrjd9,Chase Forester
-Mar 5,home,Grand Rapids,W,19-1,19,1,18.0,win,,,,,,,,,,,,,18.0,win,,,,,,,,,,,,2017,2016-17,div1,Chipola,chipolacollege,chaseforesterrjd9,Chase Forester
-Mar 11,home,Tallahassee,W,16-1,16,1,15.0,win,,,,,,,,,,,,,15.0,win,,,,,,,,,,,,2017,2016-17,div1,Chipola,chipolacollege,chaseforesterrjd9,Chase Forester
-Mar 11,home,Tallahassee,W,9-7,9,7,2.0,win,,,,,,,,,,,,,2.0,win,,,,,,,,,,,,2017,2016-17,div1,Chipola,chipolacollege,chaseforesterrjd9,Chase Forester
-Mar 14,home,Pensacola State,W,8-0,8,0,8.0,win,,,,,,,,,,,,,8.0,win,,,,,,,,,,,,2017,2016-17,div1,Chipola,chipolacollege,chaseforesterrjd9,Chase Forester
-Mar 16,home,Pensacola State,W,10-0,10,0,10.0,win,,,,,,,,,,,,,10.0,win,,,,,,,,,,,,2017,2016-17,div1,Chipola,chipolacollege,chaseforesterrjd9,Chase Forester
-Mar 21,home,Northwest Florida State,W,5-1,5,1,4.0,win,,,,,,,,,,,,,4.0,win,,,,,,,,,,,,2017,2016-17,div1,Chipola,chipolacollege,chaseforesterrjd9,Chase Forester
-Mar 23,home,Northwest Florida State,W,13-6,13,6,7.0,win,,,,,,,,,,,,,7.0,win,,,,,,,,,,,,2017,2016-17,div1,Chipola,chipolacollege,chaseforesterrjd9,Chase Forester
-Apr 1,home,Gulf Coast State,W,11-8,11,8,3.0,win,,,,,,,,,,,,,3.0,win,,,,,,,,,,,,2017,2016-17,div1,Chipola,chipolacollege,chaseforesterrjd9,Chase Forester
-Apr 1,home,Gulf Coast State,W,10-3,10,3,7.0,win,,,,,,,,,,,,,7.0,win,,,,,,,,,,,,2017,2016-17,div1,Chipola,chipolacollege,chaseforesterrjd9,Chase Forester
-Apr 4,home,Wallace-Dothan,W,7-0,7,0,7.0,win,,,,,,,,,,,,,7.0,win,,,,,,,,,,,,2017,2016-17,div1,Chipola,chipolacollege,chaseforesterrjd9,Chase Forester
-Apr 12,home,Tallahassee,W,11-0,11,0,11.0,win,,,,,,,,,,,,,11.0,win,,,,,,,,,,,,2017,2016-17,div1,Chipola,chipolacollege,chaseforesterrjd9,Chase Forester
-Apr 14,home,Pensacola State,W,11-1,11,1,10.0,win,,,,,,,,,,,,,10.0,win,,,,,,,,,,,,2017,2016-17,div1,Chipola,chipolacollege,chaseforesterrjd9,Chase Forester
-Apr 17,home,Northwest Florida State,W,15-14,15,14,1.0,win,,,,,,,,,,,,,1.0,win,,,,,,,,,,,,2017,2016-17,div1,Chipola,chipolacollege,chaseforesterrjd9,Chase Forester
-Apr 22,home,Gulf Coast State,W,12-2,12,2,10.0,win,,,,,,,,,,,,,10.0,win,,,,,,,,,,,,2017,2016-17,div1,Chipola,chipolacollege,chaseforesterrjd9,Chase Forester
-May 31,home,McLennan,W,19-11,19,11,8.0,win,,,,,,,,,,,,,8.0,win,,,,,,,,,,,,2017,2016-17,div1,Chipola,chipolacollege,chaseforesterrjd9,Chase Forester
+date,location,opponent,result,score,team_score,opp_score,game_score_diff,game_win_loss,game_id,AB,R,H,2B,3B,HR,RBI,BB,K,SB,CS,HBP,SF,SH,TB,XBH,HDP,GO,FO,GO/FO,PA,season,njcaa_season,njcaa_division,team,team_id,player_id,player_name
+Jan 27,home,State College of Florida,W,6-4,6,4,2.0,win,,,,,,,,,,,,,,,,,,,,,,,2017,2016-17,div1,Chipola,chipolacollege,chaseforesterrjd9,Chase Forester
+Jan 28,home,Florida SouthWestern State,W,7-3,7,3,4.0,win,,,,,,,,,,,,,,,,,,,,,,,2017,2016-17,div1,Chipola,chipolacollege,chaseforesterrjd9,Chase Forester
+Jan 29,home,Broward,W,9-1,9,1,8.0,win,,,,,,,,,,,,,,,,,,,,,,,2017,2016-17,div1,Chipola,chipolacollege,chaseforesterrjd9,Chase Forester
+Feb 3,home,Walters State,W,6-5,6,5,1.0,win,,,,,,,,,,,,,,,,,,,,,,,2017,2016-17,div1,Chipola,chipolacollege,chaseforesterrjd9,Chase Forester
+Feb 3,home,San Jacinto,L,6-0,6,0,6.0,win,,,,,,,,,,,,,,,,,,,,,,,2017,2016-17,div1,Chipola,chipolacollege,chaseforesterrjd9,Chase Forester
+Feb 4,home,San Jacinto,W,8-0,8,0,8.0,win,,,,,,,,,,,,,,,,,,,,,,,2017,2016-17,div1,Chipola,chipolacollege,chaseforesterrjd9,Chase Forester
+Feb 10,home,Florence-Darlington Tech,W,7-2,7,2,5.0,win,,,,,,,,,,,,,,,,,,,,,,,2017,2016-17,div1,Chipola,chipolacollege,chaseforesterrjd9,Chase Forester
+Feb 11,home,Miami Dade,W,11-1,11,1,10.0,win,,,,,,,,,,,,,,,,,,,,,,,2017,2016-17,div1,Chipola,chipolacollege,chaseforesterrjd9,Chase Forester
+Feb 11,home,Miami Dade,L,7-2,7,2,5.0,win,,,,,,,,,,,,,,,,,,,,,,,2017,2016-17,div1,Chipola,chipolacollege,chaseforesterrjd9,Chase Forester
+Feb 12,home,St. Johns River State,L,2-1,2,1,1.0,win,,,,,,,,,,,,,,,,,,,,,,,2017,2016-17,div1,Chipola,chipolacollege,chaseforesterrjd9,Chase Forester
+Feb 16,home,Gordon State,W,14-7,14,7,7.0,win,,,,,,,,,,,,,,,,,,,,,,,2017,2016-17,div1,Chipola,chipolacollege,chaseforesterrjd9,Chase Forester
+Feb 17,home,Gordon State,W,4-3,4,3,1.0,win,,,,,,,,,,,,,,,,,,,,,,,2017,2016-17,div1,Chipola,chipolacollege,chaseforesterrjd9,Chase Forester
+Feb 18,home,Columbia State,W,6-1,6,1,5.0,win,,,,,,,,,,,,,,,,,,,,,,,2017,2016-17,div1,Chipola,chipolacollege,chaseforesterrjd9,Chase Forester
+Feb 18,home,Columbia State,W,13-3,13,3,10.0,win,,,,,,,,,,,,,,,,,,,,,,,2017,2016-17,div1,Chipola,chipolacollege,chaseforesterrjd9,Chase Forester
+Feb 19,home,Columbia State,W,9-3,9,3,6.0,win,,,,,,,,,,,,,,,,,,,,,,,2017,2016-17,div1,Chipola,chipolacollege,chaseforesterrjd9,Chase Forester
+Feb 24,home,Shelton State,W,7-1,7,1,6.0,win,,,,,,,,,,,,,,,,,,,,,,,2017,2016-17,div1,Chipola,chipolacollege,chaseforesterrjd9,Chase Forester
+Feb 24,home,State College of Florida,W,7-3,7,3,4.0,win,,,,,,,,,,,,,,,,,,,,,,,2017,2016-17,div1,Chipola,chipolacollege,chaseforesterrjd9,Chase Forester
+Feb 25,home,St. Johns River State,W,12-5,12,5,7.0,win,,,,,,,,,,,,,,,,,,,,,,,2017,2016-17,div1,Chipola,chipolacollege,chaseforesterrjd9,Chase Forester
+Feb 26,home,Shelton State,W,13-3,13,3,10.0,win,,,,,,,,,,,,,,,,,,,,,,,2017,2016-17,div1,Chipola,chipolacollege,chaseforesterrjd9,Chase Forester
+Mar 3,home,Grand Rapids,W,10-0,10,0,10.0,win,,,,,,,,,,,,,,,,,,,,,,,2017,2016-17,div1,Chipola,chipolacollege,chaseforesterrjd9,Chase Forester
+Mar 4,home,LSU Eunice,L,9-2,9,2,7.0,win,,,,,,,,,,,,,,,,,,,,,,,2017,2016-17,div1,Chipola,chipolacollege,chaseforesterrjd9,Chase Forester
+Mar 5,home,LSU Eunice,W,3-0,3,0,3.0,win,,,,,,,,,,,,,,,,,,,,,,,2017,2016-17,div1,Chipola,chipolacollege,chaseforesterrjd9,Chase Forester
+Mar 5,home,Grand Rapids,W,19-1,19,1,18.0,win,,,,,,,,,,,,,,,,,,,,,,,2017,2016-17,div1,Chipola,chipolacollege,chaseforesterrjd9,Chase Forester
+Mar 7,home,Tallahassee,W,16-5,16,5,11.0,win,,,,,,,,,,,,,,,,,,,,,,,2017,2016-17,div1,Chipola,chipolacollege,chaseforesterrjd9,Chase Forester
+Mar 9,home,Tallahassee,W,9-1,9,1,8.0,win,,,,,,,,,,,,,,,,,,,,,,,2017,2016-17,div1,Chipola,chipolacollege,chaseforesterrjd9,Chase Forester
+Mar 11,home,Tallahassee,W,16-1,16,1,15.0,win,,,,,,,,,,,,,,,,,,,,,,,2017,2016-17,div1,Chipola,chipolacollege,chaseforesterrjd9,Chase Forester
+Mar 11,home,Tallahassee,W,9-7,9,7,2.0,win,,,,,,,,,,,,,,,,,,,,,,,2017,2016-17,div1,Chipola,chipolacollege,chaseforesterrjd9,Chase Forester
+Mar 14,home,Pensacola State,W,8-0,8,0,8.0,win,,,,,,,,,,,,,,,,,,,,,,,2017,2016-17,div1,Chipola,chipolacollege,chaseforesterrjd9,Chase Forester
+Mar 16,home,Pensacola State,W,10-0,10,0,10.0,win,,,,,,,,,,,,,,,,,,,,,,,2017,2016-17,div1,Chipola,chipolacollege,chaseforesterrjd9,Chase Forester
+Mar 18,home,Pensacola State,W,6-4,6,4,2.0,win,,,,,,,,,,,,,,,,,,,,,,,2017,2016-17,div1,Chipola,chipolacollege,chaseforesterrjd9,Chase Forester
+Mar 18,home,Pensacola State,W,5-4,5,4,1.0,win,,,,,,,,,,,,,,,,,,,,,,,2017,2016-17,div1,Chipola,chipolacollege,chaseforesterrjd9,Chase Forester
+Mar 21,home,Northwest Florida State,W,5-1,5,1,4.0,win,,,,,,,,,,,,,,,,,,,,,,,2017,2016-17,div1,Chipola,chipolacollege,chaseforesterrjd9,Chase Forester
+Mar 23,home,Northwest Florida State,W,13-6,13,6,7.0,win,,,,,,,,,,,,,,,,,,,,,,,2017,2016-17,div1,Chipola,chipolacollege,chaseforesterrjd9,Chase Forester
+Mar 24,home,Northwest Florida State,L,11-10,11,10,1.0,win,,,,,,,,,,,,,,,,,,,,,,,2017,2016-17,div1,Chipola,chipolacollege,chaseforesterrjd9,Chase Forester
+Mar 24,home,Northwest Florida State,L,10-6,10,6,4.0,win,,,,,,,,,,,,,,,,,,,,,,,2017,2016-17,div1,Chipola,chipolacollege,chaseforesterrjd9,Chase Forester
+Mar 28,home,Gulf Coast State,L,9-5,9,5,4.0,win,,,,,,,,,,,,,,,,,,,,,,,2017,2016-17,div1,Chipola,chipolacollege,chaseforesterrjd9,Chase Forester
+Mar 31,home,Gulf Coast State,W,15-5,15,5,10.0,win,,,,,,,,,,,,,,,,,,,,,,,2017,2016-17,div1,Chipola,chipolacollege,chaseforesterrjd9,Chase Forester
+Apr 1,home,Gulf Coast State,W,11-8,11,8,3.0,win,,,,,,,,,,,,,,,,,,,,,,,2017,2016-17,div1,Chipola,chipolacollege,chaseforesterrjd9,Chase Forester
+Apr 1,home,Gulf Coast State,W,10-3,10,3,7.0,win,,,,,,,,,,,,,,,,,,,,,,,2017,2016-17,div1,Chipola,chipolacollege,chaseforesterrjd9,Chase Forester
+Apr 4,home,Wallace-Dothan,W,7-0,7,0,7.0,win,,,,,,,,,,,,,,,,,,,,,,,2017,2016-17,div1,Chipola,chipolacollege,chaseforesterrjd9,Chase Forester
+Apr 10,home,Tallahassee,W,16-6,16,6,10.0,win,,,,,,,,,,,,,,,,,,,,,,,2017,2016-17,div1,Chipola,chipolacollege,chaseforesterrjd9,Chase Forester
+Apr 12,home,Tallahassee,W,11-0,11,0,11.0,win,,,,,,,,,,,,,,,,,,,,,,,2017,2016-17,div1,Chipola,chipolacollege,chaseforesterrjd9,Chase Forester
+Apr 14,home,Pensacola State,W,11-1,11,1,10.0,win,,,,,,,,,,,,,,,,,,,,,,,2017,2016-17,div1,Chipola,chipolacollege,chaseforesterrjd9,Chase Forester
+Apr 15,home,Pensacola State,W,16-1,16,1,15.0,win,,,,,,,,,,,,,,,,,,,,,,,2017,2016-17,div1,Chipola,chipolacollege,chaseforesterrjd9,Chase Forester
+Apr 17,home,Northwest Florida State,W,15-14,15,14,1.0,win,,,,,,,,,,,,,,,,,,,,,,,2017,2016-17,div1,Chipola,chipolacollege,chaseforesterrjd9,Chase Forester
+Apr 19,home,Northwest Florida State,L,7-2,7,2,5.0,win,,,,,,,,,,,,,,,,,,,,,,,2017,2016-17,div1,Chipola,chipolacollege,chaseforesterrjd9,Chase Forester
+Apr 21,home,Gulf Coast State,W,7-4,7,4,3.0,win,,,,,,,,,,,,,,,,,,,,,,,2017,2016-17,div1,Chipola,chipolacollege,chaseforesterrjd9,Chase Forester
+Apr 22,home,Gulf Coast State,W,12-2,12,2,10.0,win,,,,,,,,,,,,,,,,,,,,,,,2017,2016-17,div1,Chipola,chipolacollege,chaseforesterrjd9,Chase Forester
+May 5,home,St. Johns River State,W,5-2,5,2,3.0,win,,,,,,,,,,,,,,,,,,,,,,,2017,2016-17,div1,Chipola,chipolacollege,chaseforesterrjd9,Chase Forester
+May 7,home,Miami Dade,W,10-0,10,0,10.0,win,,,,,,,,,,,,,,,,,,,,,,,2017,2016-17,div1,Chipola,chipolacollege,chaseforesterrjd9,Chase Forester
+May 8,home,Palm Beach State,W,18-6,18,6,12.0,win,,,,,,,,,,,,,,,,,,,,,,,2017,2016-17,div1,Chipola,chipolacollege,chaseforesterrjd9,Chase Forester
+May 9,home,Santa Fe,W,11-1,11,1,10.0,win,,,,,,,,,,,,,,,,,,,,,,,2017,2016-17,div1,Chipola,chipolacollege,chaseforesterrjd9,Chase Forester
+May 10,home,Palm Beach State,W,12-0,12,0,12.0,win,,,,,,,,,,,,,,,,,,,,,,,2017,2016-17,div1,Chipola,chipolacollege,chaseforesterrjd9,Chase Forester
+May 27,home,Crowder,W,13-4,13,4,9.0,win,,,,,,,,,,,,,,,,,,,,,,,2017,2016-17,div1,Chipola,chipolacollege,chaseforesterrjd9,Chase Forester
+May 29,home,San Jacinto,L,13-8,13,8,5.0,win,,,,,,,,,,,,,,,,,,,,,,,2017,2016-17,div1,Chipola,chipolacollege,chaseforesterrjd9,Chase Forester
+May 30,home,Florence-Darlington Tech,W,11-7,11,7,4.0,win,,,,,,,,,,,,,,,,,,,,,,,2017,2016-17,div1,Chipola,chipolacollege,chaseforesterrjd9,Chase Forester
+May 31,home,McLennan,W,19-11,19,11,8.0,win,,,,,,,,,,,,,,,,,,,,,,,2017,2016-17,div1,Chipola,chipolacollege,chaseforesterrjd9,Chase Forester
+Jun 1,home,Wabash Valley,W,12-7,12,7,5.0,win,,,,,,,,,,,,,,,,,,,,,,,2017,2016-17,div1,Chipola,chipolacollege,chaseforesterrjd9,Chase Forester
+Jun 2,home,San Jacinto,W,7-1,7,1,6.0,win,,,,,,,,,,,,,,,,,,,,,,,2017,2016-17,div1,Chipola,chipolacollege,chaseforesterrjd9,Chase Forester
+Jun 3,home,San Jacinto,W,15-6,15,6,9.0,win,,,,,,,,,,,,,,,,,,,,,,,2017,2016-17,div1,Chipola,chipolacollege,chaseforesterrjd9,Chase Forester

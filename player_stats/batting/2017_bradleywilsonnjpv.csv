@@ -1,33 +1,62 @@
-date,location,opponent,result,score,team_score,opp_score,game_score_diff_x,game_win_loss_x,game_id_x,AB,R,H,2B,3B,HR,RBI,BB,K,SB,CS,game_score_diff_y,game_win_loss_y,game_id_y,HBP,SF,SH,TB,XBH,HDP,GO,FO,GO/FO,PA,season,njcaa_season,njcaa_division,team,team_id,player_id,player_name
-Jan 28  #,home,Lindsey Wilson College,,,,,,,,,,,,,,,,,,,5.0,win,,,,,,,,,,,,2017,2016-17,div1,Columbia State,columbiastatecommunitycollege,bradleywilsonnjpv,Bradley Wilson
-Feb 15,home,Wabash Valley,L,8-2,8,2,6,win,20170215_iaxu,2,0,0,0,0,0,0,0,1,0,0,6.0,win,20170215_iaxu,0,0,0,0,0,,0,,,2,2017,2016-17,div1,Columbia State,columbiastatecommunitycollege,bradleywilsonnjpv,Bradley Wilson
-Feb 15,home,Wabash Valley,L,11-0,11,0,11,win,20170215_1t0u,1,0,1,0,0,0,0,1,0,0,0,11.0,win,20170215_1t0u,0,0,0,1,0,,0,,,2,2017,2016-17,div1,Columbia State,columbiastatecommunitycollege,bradleywilsonnjpv,Bradley Wilson
-Feb 21,home,Martin Methodist,W,8-5,8,5,3,win,20170221_axic,2,1,1,,,,0,1,,,,3.0,win,20170221_axic,,,,1,0,,,,,3,2017,2016-17,div1,Columbia State,columbiastatecommunitycollege,bradleywilsonnjpv,Bradley Wilson
-Feb 25,home,Frontier,W,10-4,10,4,6,win,20170225_lihi,3,0,0,,,,0,1,,,,6.0,win,20170225_lihi,,,,0,0,,,,,4,2017,2016-17,div1,Columbia State,columbiastatecommunitycollege,bradleywilsonnjpv,Bradley Wilson
-Feb 25,home,Frontier,W,8-1,8,1,7,win,20170225_pvyw,2,0,1,,,,2,1,1,,,7.0,win,20170225_pvyw,,,,1,0,,,,,3,2017,2016-17,div1,Columbia State,columbiastatecommunitycollege,bradleywilsonnjpv,Bradley Wilson
-Feb 26,home,Frontier,W,22-4,22,4,18,win,20170226_qgil,1,1,1,,,,2,1,,,,18.0,win,20170226_qgil,,1,,1,0,,,,,3,2017,2016-17,div1,Columbia State,columbiastatecommunitycollege,bradleywilsonnjpv,Bradley Wilson
-Feb 26,home,Frontier,W,13-5,13,5,8,win,,,,,,,,,,,,,8.0,win,,,,,,,,,,,,2017,2016-17,div1,Columbia State,columbiastatecommunitycollege,bradleywilsonnjpv,Bradley Wilson
-Mar 8,home,Motlow State,W,10-9,10,9,1,win,20170308_yozz,3,0,2,,,,1,1,,,,1.0,win,20170308_yozz,1,,,2,0,,,,,5,2017,2016-17,div1,Columbia State,columbiastatecommunitycollege,bradleywilsonnjpv,Bradley Wilson
-Mar 9,home,Grand Rapids,L,13-9,13,9,4,win,20170309_qltw,5,2,2,1,,1,1,,,,,4.0,win,20170309_qltw,,,,6,2,1,3,,,5,2017,2016-17,div1,Columbia State,columbiastatecommunitycollege,bradleywilsonnjpv,Bradley Wilson
-Mar 10,home,Jackson State,L,4-1,4,1,3,win,20170310_mujy,2,0,0,,,,0,1,,,,3.0,win,20170310_mujy,,,,0,0,,,,,3,2017,2016-17,div1,Columbia State,columbiastatecommunitycollege,bradleywilsonnjpv,Bradley Wilson
-Mar 10,home,Jackson State,L,5-3,5,3,2,win,20170310_orxa,2,0,0,,,,0,1,,,,2.0,win,20170310_orxa,,,,0,0,,,,,3,2017,2016-17,div1,Columbia State,columbiastatecommunitycollege,bradleywilsonnjpv,Bradley Wilson
-Mar 11,home,Jackson State,L,5-4,5,4,1,win,20170311_gp0b,3,1,1,,,,1,1,1,,,1.0,win,20170311_gp0b,,,,1,0,,,,,4,2017,2016-17,div1,Columbia State,columbiastatecommunitycollege,bradleywilsonnjpv,Bradley Wilson
-Mar 15,home,Joliet,W,11-10,11,10,1,win,20170315_qvhn,1,0,0,,,,0,,1,,,1.0,win,20170315_qvhn,,,,0,0,,,,,1,2017,2016-17,div1,Columbia State,columbiastatecommunitycollege,bradleywilsonnjpv,Bradley Wilson
-Mar 16,home,Joliet,W,8-7,8,7,1,win,20170316_46eb,3,1,2,,,,2,1,,,,1.0,win,20170316_46eb,,,,2,0,,,,,4,2017,2016-17,div1,Columbia State,columbiastatecommunitycollege,bradleywilsonnjpv,Bradley Wilson
-Mar 16,home,Joliet,W,8-5,8,5,3,win,20170316_e9e9,3,0,2,1,,,2,,,,,3.0,win,20170316_e9e9,,,,3,1,,,,,3,2017,2016-17,div1,Columbia State,columbiastatecommunitycollege,bradleywilsonnjpv,Bradley Wilson
-Mar 24,home,Cleveland State,W,8-7,8,7,1,win,20170324_a4hr,3,0,1,,,,1,,,,,1.0,win,20170324_a4hr,,1,,1,0,,,3,,4,2017,2016-17,div1,Columbia State,columbiastatecommunitycollege,bradleywilsonnjpv,Bradley Wilson
-Mar 24,home,Cleveland State,W,9-3,9,3,6,win,20170324_bwjl,3,0,1,,,,2,1,,,,6.0,win,20170324_bwjl,,,,1,0,,2,,,4,2017,2016-17,div1,Columbia State,columbiastatecommunitycollege,bradleywilsonnjpv,Bradley Wilson
-Mar 25,home,Cleveland State,L,8-7,8,7,1,win,20170325_hp58,2,1,1,1,,,0,,1,,,1.0,win,20170325_hp58,,,,2,1,,,,,2,2017,2016-17,div1,Columbia State,columbiastatecommunitycollege,bradleywilsonnjpv,Bradley Wilson
-Mar 28,home,Calhoun,W,9-3,9,3,6,win,,,,,,,,,,,,,6.0,win,,,,,,,,,,,,2017,2016-17,div1,Columbia State,columbiastatecommunitycollege,bradleywilsonnjpv,Bradley Wilson
-Mar 31,home,Motlow State,L,13-5,13,5,8,win,,,,,,,,,,,,,8.0,win,,,,,,,,,,,,2017,2016-17,div1,Columbia State,columbiastatecommunitycollege,bradleywilsonnjpv,Bradley Wilson
-Apr 1,home,Motlow State,W,6-4,6,4,2,win,,,,,,,,,,,,,2.0,win,,,,,,,,,,,,2017,2016-17,div1,Columbia State,columbiastatecommunitycollege,bradleywilsonnjpv,Bradley Wilson
-Apr 1,home,Motlow State,W,10-4,10,4,6,win,,,,,,,,,,,,,6.0,win,,,,,,,,,,,,2017,2016-17,div1,Columbia State,columbiastatecommunitycollege,bradleywilsonnjpv,Bradley Wilson
-Apr 4,home,Snead State,W,5-3,5,3,2,win,,,,,,,,,,,,,2.0,win,,,,,,,,,,,,2017,2016-17,div1,Columbia State,columbiastatecommunitycollege,bradleywilsonnjpv,Bradley Wilson
-Apr 11,home,Wallace State,L,12-10,12,10,2,win,20170411_nrv3,4,0,1,,,,1,,1,,,2.0,win,20170411_nrv3,,,,1,0,,,,,4,2017,2016-17,div1,Columbia State,columbiastatecommunitycollege,bradleywilsonnjpv,Bradley Wilson
-Apr 11,home,Wallace State,L,14-1,14,1,13,win,20170411_c4o7,3,0,0,,,,0,,3,,,13.0,win,20170411_c4o7,,,,0,0,,,,,3,2017,2016-17,div1,Columbia State,columbiastatecommunitycollege,bradleywilsonnjpv,Bradley Wilson
-Apr 13,home,Walters State,L,12-2,12,2,10,win,20170413_c4ym,3,0,0,,,,0,,,,,10.0,win,20170413_c4ym,,,,0,0,,3,,,3,2017,2016-17,div1,Columbia State,columbiastatecommunitycollege,bradleywilsonnjpv,Bradley Wilson
-Apr 14,home,Walters State,W,6-5,6,5,1,win,20170414_3jmg,1,0,1,,,,2,,,,,1.0,win,20170414_3jmg,,,,1,0,,,,,1,2017,2016-17,div1,Columbia State,columbiastatecommunitycollege,bradleywilsonnjpv,Bradley Wilson
-Apr 14,home,Walters State,W,11-7,11,7,4,win,,,,,,,,,,,,,4.0,win,,,,,,,,,,,,2017,2016-17,div1,Columbia State,columbiastatecommunitycollege,bradleywilsonnjpv,Bradley Wilson
-Apr 27,home,Dyersburg State,W,6-4,6,4,2,win,20170427_im97,4,0,2,,,,1,,,,,2.0,win,20170427_im97,,,,2,0,,2,,,4,2017,2016-17,div1,Columbia State,columbiastatecommunitycollege,bradleywilsonnjpv,Bradley Wilson
-Apr 28,home,Dyersburg State,W,4-3,4,3,1,win,20170428_gmt7,2,0,0,,,,0,1,1,,,1.0,win,20170428_gmt7,,,,0,0,,1,,,3,2017,2016-17,div1,Columbia State,columbiastatecommunitycollege,bradleywilsonnjpv,Bradley Wilson
-Apr 28,home,Dyersburg State,L,7-3,7,3,4,win,20170428_m5sb,3,0,0,,,,0,,3,,,4.0,win,20170428_m5sb,,,,0,0,,,,,3,2017,2016-17,div1,Columbia State,columbiastatecommunitycollege,bradleywilsonnjpv,Bradley Wilson
+date,location,opponent,result,score,team_score,opp_score,game_score_diff,game_win_loss,game_id,AB,R,H,2B,3B,HR,RBI,BB,K,SB,CS,HBP,SF,SH,TB,XBH,HDP,GO,FO,GO/FO,PA,season,njcaa_season,njcaa_division,team,team_id,player_id,player_name
+Feb 2,home,Snead State,W,3-2,3,2,1,win,,,,,,,,,,,,,,,,,,,,,,,2017,2016-17,div1,Columbia State,columbiastatecommunitycollege,bradleywilsonnjpv,Bradley Wilson
+Feb 7,home,Calhoun,L,8-6,8,6,2,win,,,,,,,,,,,,,,,,,,,,,,,2017,2016-17,div1,Columbia State,columbiastatecommunitycollege,bradleywilsonnjpv,Bradley Wilson
+Feb 11,home,Cleveland State,L,9-7,9,7,2,win,20170211_irhr,1,0,0,,,,0,,,,,,,,0,0,,1,,,1,2017,2016-17,div1,Columbia State,columbiastatecommunitycollege,bradleywilsonnjpv,Bradley Wilson
+Feb 11,home,Gordon State,W,7-1,7,1,6,win,20170211_6wbh,1,0,0,,,,0,,,,,,,,0,0,,,,,1,2017,2016-17,div1,Columbia State,columbiastatecommunitycollege,bradleywilsonnjpv,Bradley Wilson
+Feb 12,home,Gordon State,W,9-0,9,0,9,win,,,,,,,,,,,,,,,,,,,,,,,2017,2016-17,div1,Columbia State,columbiastatecommunitycollege,bradleywilsonnjpv,Bradley Wilson
+Feb 15,home,Wabash Valley,L,8-2,8,2,6,win,20170215_iaxu,2,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,0,,,2,2017,2016-17,div1,Columbia State,columbiastatecommunitycollege,bradleywilsonnjpv,Bradley Wilson
+Feb 15,home,Wabash Valley,L,11-0,11,0,11,win,20170215_1t0u,1,0,1,0,0,0,0,1,0,0,0,0,0,0,1,0,,0,,,2,2017,2016-17,div1,Columbia State,columbiastatecommunitycollege,bradleywilsonnjpv,Bradley Wilson
+Feb 17,home,Gordon State,W,7-0,7,0,7,win,,,,,,,,,,,,,,,,,,,,,,,2017,2016-17,div1,Columbia State,columbiastatecommunitycollege,bradleywilsonnjpv,Bradley Wilson
+Feb 18,home,Chipola,L,6-1,6,1,5,win,20170218_yvmf,2,0,0,,,,0,1,,,,,,,0,0,,,,,3,2017,2016-17,div1,Columbia State,columbiastatecommunitycollege,bradleywilsonnjpv,Bradley Wilson
+Feb 18,home,Chipola,L,13-3,13,3,10,win,20170218_vqnj,2,0,1,,,,1,,,,,,,,1,0,,,,,2,2017,2016-17,div1,Columbia State,columbiastatecommunitycollege,bradleywilsonnjpv,Bradley Wilson
+Feb 19,home,Chipola,L,9-3,9,3,6,win,20170219_cs9n,3,0,1,,,,0,,,,,,,,1,0,,,,,3,2017,2016-17,div1,Columbia State,columbiastatecommunitycollege,bradleywilsonnjpv,Bradley Wilson
+Feb 21,home,Martin Methodist,W,8-5,8,5,3,win,20170221_axic,2,1,1,,,,0,1,,,,,,,1,0,,,,,3,2017,2016-17,div1,Columbia State,columbiastatecommunitycollege,bradleywilsonnjpv,Bradley Wilson
+Feb 25,home,Frontier,W,10-4,10,4,6,win,20170225_lihi,3,0,0,,,,0,1,,,,,,,0,0,,,,,4,2017,2016-17,div1,Columbia State,columbiastatecommunitycollege,bradleywilsonnjpv,Bradley Wilson
+Feb 25,home,Frontier,W,8-1,8,1,7,win,20170225_pvyw,2,0,1,,,,2,1,1,,,,,,1,0,,,,,3,2017,2016-17,div1,Columbia State,columbiastatecommunitycollege,bradleywilsonnjpv,Bradley Wilson
+Feb 26,home,Frontier,W,22-4,22,4,18,win,20170226_qgil,1,1,1,,,,2,1,,,,,1,,1,0,,,,,3,2017,2016-17,div1,Columbia State,columbiastatecommunitycollege,bradleywilsonnjpv,Bradley Wilson
+Feb 26,home,Frontier,W,13-5,13,5,8,win,,,,,,,,,,,,,,,,,,,,,,,2017,2016-17,div1,Columbia State,columbiastatecommunitycollege,bradleywilsonnjpv,Bradley Wilson
+Feb 28,home,Wallace State,W,3-1,3,1,2,win,20170228_9n2q,3,0,2,,,,2,,1,,,,,,2,0,,,,,3,2017,2016-17,div1,Columbia State,columbiastatecommunitycollege,bradleywilsonnjpv,Bradley Wilson
+Mar 3,home,Volunteer State,L,10-0,10,0,10,win,20170303_zfe1,3,0,0,,,,0,,2,,,,,,0,0,,,1,,3,2017,2016-17,div1,Columbia State,columbiastatecommunitycollege,bradleywilsonnjpv,Bradley Wilson
+Mar 4,home,Volunteer State,L,4-3,4,3,1,win,20170304_ndcd,3,0,0,,,,0,,,,,,,,0,0,,1,2,0.50,3,2017,2016-17,div1,Columbia State,columbiastatecommunitycollege,bradleywilsonnjpv,Bradley Wilson
+Mar 4,home,Volunteer State,W,7-4,7,4,3,win,20170304_j1ez,2,0,1,,,,0,,,,,,,,1,0,,1,,,2,2017,2016-17,div1,Columbia State,columbiastatecommunitycollege,bradleywilsonnjpv,Bradley Wilson
+Mar 8,home,Motlow State,W,10-9,10,9,1,win,20170308_yozz,3,0,2,,,,1,1,,,,1,,,2,0,,,,,5,2017,2016-17,div1,Columbia State,columbiastatecommunitycollege,bradleywilsonnjpv,Bradley Wilson
+Mar 9,home,Grand Rapids,L,13-9,13,9,4,win,20170309_qltw,5,2,2,1,,1,1,,,,,,,,6,2,1,3,,,5,2017,2016-17,div1,Columbia State,columbiastatecommunitycollege,bradleywilsonnjpv,Bradley Wilson
+Mar 10,home,Jackson State,L,4-1,4,1,3,win,20170310_mujy,2,0,0,,,,0,1,,,,,,,0,0,,,,,3,2017,2016-17,div1,Columbia State,columbiastatecommunitycollege,bradleywilsonnjpv,Bradley Wilson
+Mar 10,home,Jackson State,L,5-3,5,3,2,win,20170310_orxa,2,0,0,,,,0,1,,,,,,,0,0,,,,,3,2017,2016-17,div1,Columbia State,columbiastatecommunitycollege,bradleywilsonnjpv,Bradley Wilson
+Mar 11,home,Jackson State,L,5-4,5,4,1,win,20170311_gp0b,3,1,1,,,,1,1,1,,,,,,1,0,,,,,4,2017,2016-17,div1,Columbia State,columbiastatecommunitycollege,bradleywilsonnjpv,Bradley Wilson
+Mar 15,home,Joliet,W,11-10,11,10,1,win,20170315_qvhn,1,0,0,,,,0,,1,,,,,,0,0,,,,,1,2017,2016-17,div1,Columbia State,columbiastatecommunitycollege,bradleywilsonnjpv,Bradley Wilson
+Mar 16,home,Joliet,W,8-7,8,7,1,win,20170316_46eb,3,1,2,,,,2,1,,,,,,,2,0,,,,,4,2017,2016-17,div1,Columbia State,columbiastatecommunitycollege,bradleywilsonnjpv,Bradley Wilson
+Mar 16,home,Joliet,W,8-5,8,5,3,win,20170316_e9e9,3,0,2,1,,,2,,,,,,,,3,1,,,,,3,2017,2016-17,div1,Columbia State,columbiastatecommunitycollege,bradleywilsonnjpv,Bradley Wilson
+Mar 18,home,Southwest Tennessee,W,9-2,9,2,7,win,20170318_hcgr,2,2,1,,,,1,,,,,,1,,1,0,,,,,3,2017,2016-17,div1,Columbia State,columbiastatecommunitycollege,bradleywilsonnjpv,Bradley Wilson
+Mar 18,home,Southwest Tennessee,W,10-3,10,3,7,win,20170318_x1gl,2,0,1,,,,0,1,,,,,,,1,0,,,,,3,2017,2016-17,div1,Columbia State,columbiastatecommunitycollege,bradleywilsonnjpv,Bradley Wilson
+Mar 19,home,Southwest Tennessee,W,13-7,13,7,6,win,20170319_sgnt,3,0,2,,,,1,,,,,,,,2,0,,,,,3,2017,2016-17,div1,Columbia State,columbiastatecommunitycollege,bradleywilsonnjpv,Bradley Wilson
+Mar 24,home,Cleveland State,W,8-7,8,7,1,win,20170324_a4hr,3,0,1,,,,1,,,,,,1,,1,0,,,3,,4,2017,2016-17,div1,Columbia State,columbiastatecommunitycollege,bradleywilsonnjpv,Bradley Wilson
+Mar 24,home,Cleveland State,W,9-3,9,3,6,win,20170324_bwjl,3,0,1,,,,2,1,,,,,,,1,0,,2,,,4,2017,2016-17,div1,Columbia State,columbiastatecommunitycollege,bradleywilsonnjpv,Bradley Wilson
+Mar 25,home,Cleveland State,L,8-7,8,7,1,win,20170325_hp58,2,1,1,1,,,0,,1,,,,,,2,1,,,,,2,2017,2016-17,div1,Columbia State,columbiastatecommunitycollege,bradleywilsonnjpv,Bradley Wilson
+Mar 28,home,Calhoun,W,9-3,9,3,6,win,,,,,,,,,,,,,,,,,,,,,,,2017,2016-17,div1,Columbia State,columbiastatecommunitycollege,bradleywilsonnjpv,Bradley Wilson
+Mar 31,home,Motlow State,L,13-5,13,5,8,win,,,,,,,,,,,,,,,,,,,,,,,2017,2016-17,div1,Columbia State,columbiastatecommunitycollege,bradleywilsonnjpv,Bradley Wilson
+Apr 1,home,Motlow State,W,6-4,6,4,2,win,,,,,,,,,,,,,,,,,,,,,,,2017,2016-17,div1,Columbia State,columbiastatecommunitycollege,bradleywilsonnjpv,Bradley Wilson
+Apr 1,home,Motlow State,W,10-4,10,4,6,win,,,,,,,,,,,,,,,,,,,,,,,2017,2016-17,div1,Columbia State,columbiastatecommunitycollege,bradleywilsonnjpv,Bradley Wilson
+Apr 4,home,Snead State,W,5-3,5,3,2,win,,,,,,,,,,,,,,,,,,,,,,,2017,2016-17,div1,Columbia State,columbiastatecommunitycollege,bradleywilsonnjpv,Bradley Wilson
+Apr 8,home,Chattanooga State,W,7-6,7,6,1,win,20170408_c9iq,2,0,1,,,,0,,1,,,,,,1,0,,,,,2,2017,2016-17,div1,Columbia State,columbiastatecommunitycollege,bradleywilsonnjpv,Bradley Wilson
+Apr 8,home,Chattanooga State,L,14-4,14,4,10,win,,,,,,,,,,,,,,,,,,,,,,,2017,2016-17,div1,Columbia State,columbiastatecommunitycollege,bradleywilsonnjpv,Bradley Wilson
+Apr 9,home,Chattanooga State,W,8-5,8,5,3,win,20170409_ldu0,3,0,2,1,,,2,,1,,,,,,3,1,,,,,3,2017,2016-17,div1,Columbia State,columbiastatecommunitycollege,bradleywilsonnjpv,Bradley Wilson
+Apr 11,home,Wallace State,L,12-10,12,10,2,win,20170411_nrv3,4,0,1,,,,1,,1,,,,,,1,0,,,,,4,2017,2016-17,div1,Columbia State,columbiastatecommunitycollege,bradleywilsonnjpv,Bradley Wilson
+Apr 11,home,Wallace State,L,14-1,14,1,13,win,20170411_c4o7,3,0,0,,,,0,,3,,,,,,0,0,,,,,3,2017,2016-17,div1,Columbia State,columbiastatecommunitycollege,bradleywilsonnjpv,Bradley Wilson
+Apr 13,home,Walters State,L,12-2,12,2,10,win,20170413_c4ym,3,0,0,,,,0,,,,,,,,0,0,,3,,,3,2017,2016-17,div1,Columbia State,columbiastatecommunitycollege,bradleywilsonnjpv,Bradley Wilson
+Apr 14,home,Walters State,W,6-5,6,5,1,win,20170414_3jmg,1,0,1,,,,2,,,,,,,,1,0,,,,,1,2017,2016-17,div1,Columbia State,columbiastatecommunitycollege,bradleywilsonnjpv,Bradley Wilson
+Apr 14,home,Walters State,W,11-7,11,7,4,win,,,,,,,,,,,,,,,,,,,,,,,2017,2016-17,div1,Columbia State,columbiastatecommunitycollege,bradleywilsonnjpv,Bradley Wilson
+Apr 18,home,Jackson State,L,6-3,6,3,3,win,20170418_gt56,3,0,1,,,,0,,,,,,,,1,0,,,,,3,2017,2016-17,div1,Columbia State,columbiastatecommunitycollege,bradleywilsonnjpv,Bradley Wilson
+Apr 23,home,Roane State,,,,,3,win,,,,,,,,,,,,,,,,,,,,,,,2017,2016-17,div1,Columbia State,columbiastatecommunitycollege,bradleywilsonnjpv,Bradley Wilson
+Apr 24,home,Roane State,W,6-4,6,4,2,win,20170424_jmj5,3,0,1,,,,1,,,,,,,,1,0,,,,,3,2017,2016-17,div1,Columbia State,columbiastatecommunitycollege,bradleywilsonnjpv,Bradley Wilson
+Apr 24,home,Roane State,W,8-4,8,4,4,win,20170424_rf9v,3,1,1,1,,,2,1,,,,,,,2,1,,,,,4,2017,2016-17,div1,Columbia State,columbiastatecommunitycollege,bradleywilsonnjpv,Bradley Wilson
+Apr 27,home,Dyersburg State,W,6-4,6,4,2,win,20170427_im97,4,0,2,,,,1,,,,,,,,2,0,,2,,,4,2017,2016-17,div1,Columbia State,columbiastatecommunitycollege,bradleywilsonnjpv,Bradley Wilson
+Apr 28,home,Dyersburg State,W,4-3,4,3,1,win,20170428_gmt7,2,0,0,,,,0,1,1,,,,,,0,0,,1,,,3,2017,2016-17,div1,Columbia State,columbiastatecommunitycollege,bradleywilsonnjpv,Bradley Wilson
+Apr 28,home,Dyersburg State,L,7-3,7,3,4,win,20170428_m5sb,3,0,0,,,,0,,3,,,,,,0,0,,,,,3,2017,2016-17,div1,Columbia State,columbiastatecommunitycollege,bradleywilsonnjpv,Bradley Wilson
+May 8,home,Motlow State,W,6-5,6,5,1,win,,,,,,,,,,,,,,,,,,,,,,,2017,2016-17,div1,Columbia State,columbiastatecommunitycollege,bradleywilsonnjpv,Bradley Wilson
+May 9,home,Jackson State,W,13-3,13,3,10,win,,,,,,,,,,,,,,,,,,,,,,,2017,2016-17,div1,Columbia State,columbiastatecommunitycollege,bradleywilsonnjpv,Bradley Wilson
+May 10,home,Volunteer State,W,12-3,12,3,9,win,20170510_hns6,5,0,1,,,,2,1,2,,,,,,1,0,,,2,,6,2017,2016-17,div1,Columbia State,columbiastatecommunitycollege,bradleywilsonnjpv,Bradley Wilson
+May 11,home,Dyersburg State,L,11-7,11,7,4,win,20170511_uapk,3,1,1,1,,,0,1,,,,,,,2,1,,2,,,4,2017,2016-17,div1,Columbia State,columbiastatecommunitycollege,bradleywilsonnjpv,Bradley Wilson
+May 17,home,Georgia Highlands,W,10-3,10,3,7,win,,,,,,,,,,,,,,,,,,,,,,,2017,2016-17,div1,Columbia State,columbiastatecommunitycollege,bradleywilsonnjpv,Bradley Wilson
+May 18,home,Dyersburg State,L,10-9,10,9,1,win,20170518_7hk6,5,0,1,,,,0,,3,,,,,,1,0,,1,,,5,2017,2016-17,div1,Columbia State,columbiastatecommunitycollege,bradleywilsonnjpv,Bradley Wilson
+May 19,home,East Georgia State,L,13-8,13,8,5,win,,,,,,,,,,,,,,,,,,,,,,,2017,2016-17,div1,Columbia State,columbiastatecommunitycollege,bradleywilsonnjpv,Bradley Wilson

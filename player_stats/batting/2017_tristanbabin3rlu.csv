@@ -1,28 +1,53 @@
-date,location,opponent,result,score,team_score,opp_score,game_score_diff_x,game_win_loss_x,game_id_x,AB,R,H,2B,3B,HR,RBI,BB,K,SB,CS,game_score_diff_y,game_win_loss_y,game_id_y,HBP,SF,SH,TB,XBH,HDP,GO,FO,GO/FO,PA,season,njcaa_season,njcaa_division,team,team_id,player_id,player_name
-Feb 11,home,Bishop State,W,11-6,11,6,5.0,win,20170211_4xxd,0,0,0,,,,0,,,,,5.0,win,20170211_4xxd,,,,0,0,,,,,0,2017,2016-17,div1,Delgado,delgadocommunitycollege,tristanbabin3rlu,Tristan Babin
-Feb 11,home,Bishop State,W,7-3,7,3,4.0,win,20170211_v6a8,2,1,2,,,,1,,,1,,4.0,win,20170211_v6a8,,,,2,0,,,,,2,2017,2016-17,div1,Delgado,delgadocommunitycollege,tristanbabin3rlu,Tristan Babin
-Feb 16,home,College of St. Joseph,W,5-1,5,1,4.0,win,,,,,,,,,,,,,4.0,win,,,,,,,,,,,,2017,2016-17,div1,Delgado,delgadocommunitycollege,tristanbabin3rlu,Tristan Babin
-Feb 16,home,Pensacola State,W,7-5,7,5,2.0,win,20170216_6e05,2,2,2,,,,0,1,,,,2.0,win,20170216_6e05,,,,2,0,,,,,3,2017,2016-17,div1,Delgado,delgadocommunitycollege,tristanbabin3rlu,Tristan Babin
-Feb 18,home,Pensacola State,L,12-8,12,8,4.0,win,20170218_57dn,2,1,1,1,,,3,,,,,4.0,win,20170218_57dn,,,,2,1,,,,,2,2017,2016-17,div1,Delgado,delgadocommunitycollege,tristanbabin3rlu,Tristan Babin
-Feb 18,home,College of St. Joseph,L,5-4,5,4,1.0,win,20170218_vkek,4,1,2,1,,1,2,,1,,,1.0,win,20170218_vkek,,,,6,2,,1,,,4,2017,2016-17,div1,Delgado,delgadocommunitycollege,tristanbabin3rlu,Tristan Babin
-Feb 19,home,College of St. Joseph,W,10-3,10,3,7.0,win,20170219_cu9r,4,1,1,1,,,1,,,,,7.0,win,20170219_cu9r,,,,2,1,1,1,2,0.50,4,2017,2016-17,div1,Delgado,delgadocommunitycollege,tristanbabin3rlu,Tristan Babin
-Feb 19,home,College of St. Joseph,W,9-4,9,4,5.0,win,20170219_w3yd,3,0,0,,,,1,,,,,5.0,win,20170219_w3yd,,1,,0,0,,,4,,4,2017,2016-17,div1,Delgado,delgadocommunitycollege,tristanbabin3rlu,Tristan Babin
-Mar 1,home,Southwest Mississippi,W,4-1,4,1,3.0,win,,,,,,,,,,,,,3.0,win,,,,,,,,,,,,2017,2016-17,div1,Delgado,delgadocommunitycollege,tristanbabin3rlu,Tristan Babin
-Mar 1,home,Southwest Mississippi,L,3-1,3,1,2.0,win,20170301_skj0,2,0,1,,,,1,,,,,2.0,win,20170301_skj0,,,,1,0,,,,,2,2017,2016-17,div1,Delgado,delgadocommunitycollege,tristanbabin3rlu,Tristan Babin
-Mar 10,home,Pearl River,L,6-5,6,5,1.0,win,,,,,,,,,,,,,1.0,win,,,,,,,,,,,,2017,2016-17,div1,Delgado,delgadocommunitycollege,tristanbabin3rlu,Tristan Babin
-Mar 10,home,Pearl River,W,5-1,5,1,4.0,win,,,,,,,,,,,,,4.0,win,,,,,,,,,,,,2017,2016-17,div1,Delgado,delgadocommunitycollege,tristanbabin3rlu,Tristan Babin
-Mar 13,home,Copiah-Lincoln,W,7-6,7,6,1.0,win,20170313_dsnj,5,1,2,1,0,0,1,0,0,0,0,1.0,win,20170313_dsnj,0,0,0,3,1,,0,,,5,2017,2016-17,div1,Delgado,delgadocommunitycollege,tristanbabin3rlu,Tristan Babin
-Mar 13,home,Copiah-Lincoln,W,5-4,5,4,1.0,win,20170313_9eoh,2,0,0,,,,0,,,,,1.0,win,20170313_9eoh,,,,0,0,,1,1,1.00,2,2017,2016-17,div1,Delgado,delgadocommunitycollege,tristanbabin3rlu,Tristan Babin
-Mar 17,home,Academy (Canada),W,7-4,7,4,3.0,win,,,,,,,,,,,,,3.0,win,,,,,,,,,,,,2017,2016-17,div1,Delgado,delgadocommunitycollege,tristanbabin3rlu,Tristan Babin
-Apr 4,home,Coastal Alabama - Bay Minette,W,5-4,5,4,1.0,win,20170404_c6up,0,0,0,,,,0,,,,,1.0,win,20170404_c6up,,,,0,0,,,,,0,2017,2016-17,div1,Delgado,delgadocommunitycollege,tristanbabin3rlu,Tristan Babin
-Apr 4,home,Coastal Alabama - Bay Minette,W,3-1,3,1,2.0,win,,,,,,,,,,,,,2.0,win,,,,,,,,,,,,2017,2016-17,div1,Delgado,delgadocommunitycollege,tristanbabin3rlu,Tristan Babin
-Apr 12,home,Snead State,W,7-4,7,4,3.0,win,20170412_3h11,1,0,0,,,,0,,,,,3.0,win,20170412_3h11,,,,0,0,,,,,1,2017,2016-17,div1,Delgado,delgadocommunitycollege,tristanbabin3rlu,Tristan Babin
-Apr 12,home,Snead State,W,6-5,6,5,1.0,win,,,,,,,,,,,,,1.0,win,,,,,,,,,,,,2017,2016-17,div1,Delgado,delgadocommunitycollege,tristanbabin3rlu,Tristan Babin
-Apr 13,home,Snead State,L,3-2,3,2,1.0,win,,,,,,,,,,,,,1.0,win,,,,,,,,,,,,2017,2016-17,div1,Delgado,delgadocommunitycollege,tristanbabin3rlu,Tristan Babin
-Apr 13,home,Snead State,W,8-7,8,7,1.0,win,,,,,,,,,,,,,1.0,win,,,,,,,,,,,,2017,2016-17,div1,Delgado,delgadocommunitycollege,tristanbabin3rlu,Tristan Babin
-Apr 14,home,LSU Eunice,L,8-3,8,3,5.0,win,,,,,,,,,,,,,5.0,win,,,,,,,,,,,,2017,2016-17,div1,Delgado,delgadocommunitycollege,tristanbabin3rlu,Tristan Babin
-Apr 14,home,LSU Eunice,W,3-2,3,2,1.0,win,,,,,,,,,,,,,1.0,win,,,,,,,,,,,,2017,2016-17,div1,Delgado,delgadocommunitycollege,tristanbabin3rlu,Tristan Babin
-Apr 15,home,LSU Eunice,L,5-3,5,3,2.0,win,,,,,,,,,,,,,2.0,win,,,,,,,,,,,,2017,2016-17,div1,Delgado,delgadocommunitycollege,tristanbabin3rlu,Tristan Babin
-Apr 23,home,Baton Rouge,W,12-6,12,6,6.0,win,,,,,,,,,,,,,6.0,win,,,,,,,,,,,,2017,2016-17,div1,Delgado,delgadocommunitycollege,tristanbabin3rlu,Tristan Babin
-May 1,home,Baton Rouge,L,4-3,4,3,1.0,win,20170501_ao44,4,0,0,,,,0,,,,,1.0,win,20170501_ao44,,,,0,0,,,,,4,2017,2016-17,div1,Delgado,delgadocommunitycollege,tristanbabin3rlu,Tristan Babin
-May 6,home,Baton Rouge,W,5-4,5,4,1.0,win,20170506_vxwy,3,1,2,2,,,0,,,,,1.0,win,20170506_vxwy,1,,,4,2,,,,,4,2017,2016-17,div1,Delgado,delgadocommunitycollege,tristanbabin3rlu,Tristan Babin
+date,location,opponent,result,score,team_score,opp_score,game_score_diff,game_win_loss,game_id,AB,R,H,2B,3B,HR,RBI,BB,K,SB,CS,HBP,SF,SH,TB,XBH,HDP,GO,FO,GO/FO,PA,season,njcaa_season,njcaa_division,team,team_id,player_id,player_name
+Feb 11,home,Bishop State,W,11-6,11,6,5.0,win,20170211_4xxd,0,0,0,,,,0,,,,,,,,0,0,,,,,0,2017,2016-17,div1,Delgado,delgadocommunitycollege,tristanbabin3rlu,Tristan Babin
+Feb 11,home,Bishop State,W,7-3,7,3,4.0,win,20170211_v6a8,2,1,2,,,,1,,,1,,,,,2,0,,,,,2,2017,2016-17,div1,Delgado,delgadocommunitycollege,tristanbabin3rlu,Tristan Babin
+Feb 16,home,College of St. Joseph,W,5-1,5,1,4.0,win,,,,,,,,,,,,,,,,,,,,,,,2017,2016-17,div1,Delgado,delgadocommunitycollege,tristanbabin3rlu,Tristan Babin
+Feb 16,home,Pensacola State,W,7-5,7,5,2.0,win,20170216_6e05,2,2,2,,,,0,1,,,,,,,2,0,,,,,3,2017,2016-17,div1,Delgado,delgadocommunitycollege,tristanbabin3rlu,Tristan Babin
+Feb 18,home,Pensacola State,L,12-8,12,8,4.0,win,20170218_57dn,2,1,1,1,,,3,,,,,,,,2,1,,,,,2,2017,2016-17,div1,Delgado,delgadocommunitycollege,tristanbabin3rlu,Tristan Babin
+Feb 18,home,College of St. Joseph,L,5-4,5,4,1.0,win,20170218_vkek,4,1,2,1,,1,2,,1,,,,,,6,2,,1,,,4,2017,2016-17,div1,Delgado,delgadocommunitycollege,tristanbabin3rlu,Tristan Babin
+Feb 19,home,College of St. Joseph,W,10-3,10,3,7.0,win,20170219_cu9r,4,1,1,1,,,1,,,,,,,,2,1,1,1,2,0.50,4,2017,2016-17,div1,Delgado,delgadocommunitycollege,tristanbabin3rlu,Tristan Babin
+Feb 19,home,College of St. Joseph,W,9-4,9,4,5.0,win,20170219_w3yd,3,0,0,,,,1,,,,,,1,,0,0,,,4,,4,2017,2016-17,div1,Delgado,delgadocommunitycollege,tristanbabin3rlu,Tristan Babin
+Feb 22,home,Copiah-Lincoln,W,9-0,9,0,9.0,win,,,,,,,,,,,,,,,,,,,,,,,2017,2016-17,div1,Delgado,delgadocommunitycollege,tristanbabin3rlu,Tristan Babin
+Feb 22,home,Copiah-Lincoln,W,10-7,10,7,3.0,win,20170222_xpn0,5,0,1,1,0,0,2,0,0,0,1,0,0,0,2,1,,0,,,5,2017,2016-17,div1,Delgado,delgadocommunitycollege,tristanbabin3rlu,Tristan Babin
+Mar 1,home,Southwest Mississippi,W,4-1,4,1,3.0,win,,,,,,,,,,,,,,,,,,,,,,,2017,2016-17,div1,Delgado,delgadocommunitycollege,tristanbabin3rlu,Tristan Babin
+Mar 1,home,Southwest Mississippi,L,3-1,3,1,2.0,win,20170301_skj0,2,0,1,,,,1,,,,,,,,1,0,,,,,2,2017,2016-17,div1,Delgado,delgadocommunitycollege,tristanbabin3rlu,Tristan Babin
+Mar 4,home,Southwest Mississippi,L,4-3,4,3,1.0,win,20170304_qi24,2,0,0,,,,0,,,,,,,,0,0,,,,,2,2017,2016-17,div1,Delgado,delgadocommunitycollege,tristanbabin3rlu,Tristan Babin
+Mar 4,home,Southwest Mississippi,W,10-1,10,1,9.0,win,20170304_69ia,4,0,1,1,,,0,,,,,,,,2,1,,,,,4,2017,2016-17,div1,Delgado,delgadocommunitycollege,tristanbabin3rlu,Tristan Babin
+Mar 8,home,Pearl River,L,21-11,21,11,10.0,win,,,,,,,,,,,,,,,,,,,,,,,2017,2016-17,div1,Delgado,delgadocommunitycollege,tristanbabin3rlu,Tristan Babin
+Mar 8,home,Pearl River,L,6-4,6,4,2.0,win,20170308_47vw,4,0,3,,,,1,,1,,,,,,3,0,,,,,4,2017,2016-17,div1,Delgado,delgadocommunitycollege,tristanbabin3rlu,Tristan Babin
+Mar 10,home,Pearl River,L,6-5,6,5,1.0,win,,,,,,,,,,,,,,,,,,,,,,,2017,2016-17,div1,Delgado,delgadocommunitycollege,tristanbabin3rlu,Tristan Babin
+Mar 10,home,Pearl River,W,5-1,5,1,4.0,win,,,,,,,,,,,,,,,,,,,,,,,2017,2016-17,div1,Delgado,delgadocommunitycollege,tristanbabin3rlu,Tristan Babin
+Mar 11,home,Pensacola State,L,5-3,5,3,2.0,win,20170311_inhd,3,0,1,,,,0,,,,,,,,1,0,,,,,3,2017,2016-17,div1,Delgado,delgadocommunitycollege,tristanbabin3rlu,Tristan Babin
+Mar 11,home,Pensacola State,W,5-2,5,2,3.0,win,20170311_m76e,4,0,3,,,,1,,,,,,,,3,0,,,,,4,2017,2016-17,div1,Delgado,delgadocommunitycollege,tristanbabin3rlu,Tristan Babin
+Mar 13,home,Copiah-Lincoln,W,7-6,7,6,1.0,win,20170313_dsnj,5,1,2,1,0,0,1,0,0,0,0,0,0,0,3,1,,0,,,5,2017,2016-17,div1,Delgado,delgadocommunitycollege,tristanbabin3rlu,Tristan Babin
+Mar 13,home,Copiah-Lincoln,W,5-4,5,4,1.0,win,20170313_9eoh,2,0,0,,,,0,,,,,,,,0,0,,1,1,1.00,2,2017,2016-17,div1,Delgado,delgadocommunitycollege,tristanbabin3rlu,Tristan Babin
+Mar 15,home,Mott,W,9-3,9,3,6.0,win,20170315_stzs,1,0,0,,,,0,,1,,,,,,0,0,,,,,1,2017,2016-17,div1,Delgado,delgadocommunitycollege,tristanbabin3rlu,Tristan Babin
+Mar 15,home,Mott,W,10-0,10,0,10.0,win,20170315_7tay,0,0,0,,,,0,,,,,,,,0,0,,,,,0,2017,2016-17,div1,Delgado,delgadocommunitycollege,tristanbabin3rlu,Tristan Babin
+Mar 17,home,Academy (Canada),W,7-4,7,4,3.0,win,,,,,,,,,,,,,,,,,,,,,,,2017,2016-17,div1,Delgado,delgadocommunitycollege,tristanbabin3rlu,Tristan Babin
+Mar 17,home,Academy (Baseball),W,12-0,12,0,12.0,win,20170317_4asp,3,1,1,,1,,0,1,,,,,,,3,1,1,1,1,1.00,4,2017,2016-17,div1,Delgado,delgadocommunitycollege,tristanbabin3rlu,Tristan Babin
+Mar 18,home,Brookdale,W,11-4,11,4,7.0,win,20170318_h61r,5,1,2,,,1,1,,1,,,,,,5,1,,,,,5,2017,2016-17,div1,Delgado,delgadocommunitycollege,tristanbabin3rlu,Tristan Babin
+Mar 18,home,Brookdale,W,9-3,9,3,6.0,win,20170318_8imj,3,1,1,,,,1,,1,,,,,,1,0,,,,,3,2017,2016-17,div1,Delgado,delgadocommunitycollege,tristanbabin3rlu,Tristan Babin
+Apr 1,home,LSU Eunice,L,3-1,3,1,2.0,win,,,,,,,,,,,,,,,,,,,,,,,2017,2016-17,div1,Delgado,delgadocommunitycollege,tristanbabin3rlu,Tristan Babin
+Apr 1,home,LSU Eunice,L,6-2,6,2,4.0,win,20170401_m3uz,2,0,1,,,,0,,,,,,,,1,0,,,,,2,2017,2016-17,div1,Delgado,delgadocommunitycollege,tristanbabin3rlu,Tristan Babin
+Apr 2,home,LSU Eunice,W,12-9,12,9,3.0,win,,,,,,,,,,,,,,,,,,,,,,,2017,2016-17,div1,Delgado,delgadocommunitycollege,tristanbabin3rlu,Tristan Babin
+Apr 4,home,Coastal Alabama - Bay Minette,W,5-4,5,4,1.0,win,20170404_c6up,0,0,0,,,,0,,,,,,,,0,0,,,,,0,2017,2016-17,div1,Delgado,delgadocommunitycollege,tristanbabin3rlu,Tristan Babin
+Apr 4,home,Coastal Alabama - Bay Minette,W,3-1,3,1,2.0,win,,,,,,,,,,,,,,,,,,,,,,,2017,2016-17,div1,Delgado,delgadocommunitycollege,tristanbabin3rlu,Tristan Babin
+Apr 12,home,Snead State,W,7-4,7,4,3.0,win,20170412_3h11,1,0,0,,,,0,,,,,,,,0,0,,,,,1,2017,2016-17,div1,Delgado,delgadocommunitycollege,tristanbabin3rlu,Tristan Babin
+Apr 12,home,Snead State,W,6-5,6,5,1.0,win,,,,,,,,,,,,,,,,,,,,,,,2017,2016-17,div1,Delgado,delgadocommunitycollege,tristanbabin3rlu,Tristan Babin
+Apr 13,home,Snead State,L,3-2,3,2,1.0,win,,,,,,,,,,,,,,,,,,,,,,,2017,2016-17,div1,Delgado,delgadocommunitycollege,tristanbabin3rlu,Tristan Babin
+Apr 13,home,Snead State,W,8-7,8,7,1.0,win,,,,,,,,,,,,,,,,,,,,,,,2017,2016-17,div1,Delgado,delgadocommunitycollege,tristanbabin3rlu,Tristan Babin
+Apr 14,home,LSU Eunice,L,8-3,8,3,5.0,win,,,,,,,,,,,,,,,,,,,,,,,2017,2016-17,div1,Delgado,delgadocommunitycollege,tristanbabin3rlu,Tristan Babin
+Apr 14,home,LSU Eunice,W,3-2,3,2,1.0,win,,,,,,,,,,,,,,,,,,,,,,,2017,2016-17,div1,Delgado,delgadocommunitycollege,tristanbabin3rlu,Tristan Babin
+Apr 15,home,LSU Eunice,L,5-3,5,3,2.0,win,,,,,,,,,,,,,,,,,,,,,,,2017,2016-17,div1,Delgado,delgadocommunitycollege,tristanbabin3rlu,Tristan Babin
+Apr 22,home,Baton Rouge,L,5-2,5,2,3.0,win,20170422_4874,1,0,0,,,,0,,1,,,,,,0,0,,,,,1,2017,2016-17,div1,Delgado,delgadocommunitycollege,tristanbabin3rlu,Tristan Babin
+Apr 23,home,Baton Rouge,W,12-6,12,6,6.0,win,,,,,,,,,,,,,,,,,,,,,,,2017,2016-17,div1,Delgado,delgadocommunitycollege,tristanbabin3rlu,Tristan Babin
+Apr 25,home,Coastal Alabama - Bay Minette,W,7-6,7,6,1.0,win,,,,,,,,,,,,,,,,,,,,,,,2017,2016-17,div1,Delgado,delgadocommunitycollege,tristanbabin3rlu,Tristan Babin
+Apr 25,home,Coastal Alabama - Bay Minette,W,4-2,4,2,2.0,win,20170425_tc1e,3,1,2,,,1,2,,,,,,,,5,1,,,,,3,2017,2016-17,div1,Delgado,delgadocommunitycollege,tristanbabin3rlu,Tristan Babin
+Apr 29,home,Baton Rouge,L,6-4,6,4,2.0,win,20170429_biva,3,0,0,,,,0,1,1,,,1,,,0,0,,,,,5,2017,2016-17,div1,Delgado,delgadocommunitycollege,tristanbabin3rlu,Tristan Babin
+May 1,home,Baton Rouge,L,4-3,4,3,1.0,win,20170501_ao44,4,0,0,,,,0,,,,,,,,0,0,,,,,4,2017,2016-17,div1,Delgado,delgadocommunitycollege,tristanbabin3rlu,Tristan Babin
+May 6,home,Baton Rouge,W,5-4,5,4,1.0,win,20170506_vxwy,3,1,2,2,,,0,,,,,1,,,4,2,,,,,4,2017,2016-17,div1,Delgado,delgadocommunitycollege,tristanbabin3rlu,Tristan Babin
+May 7,home,Baton Rouge,W,3-2,3,2,1.0,win,20170507_yton,4,0,0,,,,0,,,,,,,,0,0,,,,,4,2017,2016-17,div1,Delgado,delgadocommunitycollege,tristanbabin3rlu,Tristan Babin
+May 7,home,Baton Rouge,W,11-5,11,5,6.0,win,20170507_p2dx,3,0,0,,,,0,1,1,,,,,,0,0,,,,,4,2017,2016-17,div1,Delgado,delgadocommunitycollege,tristanbabin3rlu,Tristan Babin
+May 20,home,Seminole State (OK),W,11-10,11,10,1.0,win,20170520_7n8l,1,0,0,,,,0,,,,,,,,0,0,,,,,1,2017,2016-17,div1,Delgado,delgadocommunitycollege,tristanbabin3rlu,Tristan Babin
+May 20,home,Crowder,L,10-8,10,8,2.0,win,20170520_ktge,5,1,2,1,,,0,,1,,,,,,3,1,,,,,5,2017,2016-17,div1,Delgado,delgadocommunitycollege,tristanbabin3rlu,Tristan Babin
+May 21,home,Crowder,L,9-5,9,5,4.0,win,20170521_8efn,0,0,0,,,,0,,,,,,,,0,0,,,,,0,2017,2016-17,div1,Delgado,delgadocommunitycollege,tristanbabin3rlu,Tristan Babin

@@ -1,31 +1,61 @@
-date,location,opponent,result,score,team_score,opp_score,game_score_diff_x,game_win_loss_x,game_id_x,AB,R,H,2B,3B,HR,RBI,BB,K,SB,CS,game_score_diff_y,game_win_loss_y,game_id_y,HBP,SF,SH,TB,XBH,HDP,GO,FO,GO/FO,PA,season,njcaa_season,njcaa_division,team,team_id,player_id,player_name
-Feb 3,home,Walters State,W,6-5,6,5,1.0,win,20170203_ekw3,0,0,0,,,,0,1,,,,1.0,win,20170203_ekw3,,,,0,0,,,,,1,2017,2016-17,div1,Chipola,chipolacollege,chrisclayton6l0z,Chris Clayton
-Feb 3,home,San Jacinto,L,6-0,6,0,6.0,win,20170203_0swu,2,0,0,,,,0,,1,,,6.0,win,20170203_0swu,,,,0,0,,,,,2,2017,2016-17,div1,Chipola,chipolacollege,chrisclayton6l0z,Chris Clayton
-Feb 4,home,San Jacinto,W,8-0,8,0,8.0,win,20170204_e4y4,4,2,2,,,,0,,,1,,8.0,win,20170204_e4y4,,,,2,0,,,,,4,2017,2016-17,div1,Chipola,chipolacollege,chrisclayton6l0z,Chris Clayton
-Feb 16,home,Gordon State,W,14-7,14,7,7.0,win,20170216_lf72,3,2,1,,,,1,,,,,7.0,win,20170216_lf72,1,,,1,0,,,,,4,2017,2016-17,div1,Chipola,chipolacollege,chrisclayton6l0z,Chris Clayton
-Feb 17,home,Gordon State,W,4-3,4,3,1.0,win,,,,,,,,,,,,,1.0,win,,,,,,,,,,,,2017,2016-17,div1,Chipola,chipolacollege,chrisclayton6l0z,Chris Clayton
-Feb 18,home,Columbia State,W,6-1,6,1,5.0,win,20170218_yvmf,2,1,2,,,,0,,,,,5.0,win,20170218_yvmf,,,1,2,0,,,,,3,2017,2016-17,div1,Chipola,chipolacollege,chrisclayton6l0z,Chris Clayton
-Feb 18,home,Columbia State,W,13-3,13,3,10.0,win,20170218_vqnj,2,0,0,,,,0,,,,,10.0,win,20170218_vqnj,,,,0,0,,,,,2,2017,2016-17,div1,Chipola,chipolacollege,chrisclayton6l0z,Chris Clayton
-Feb 19,home,Columbia State,W,9-3,9,3,6.0,win,,,,,,,,,,,,,6.0,win,,,,,,,,,,,,2017,2016-17,div1,Chipola,chipolacollege,chrisclayton6l0z,Chris Clayton
-Feb 24,home,Shelton State,W,7-1,7,1,6.0,win,,,,,,,,,,,,,6.0,win,,,,,,,,,,,,2017,2016-17,div1,Chipola,chipolacollege,chrisclayton6l0z,Chris Clayton
-Feb 24,home,State College of Florida,W,7-3,7,3,4.0,win,20170224_7vsj,3,0,1,,,,0,1,,,,4.0,win,20170224_7vsj,,,,1,0,,,,,4,2017,2016-17,div1,Chipola,chipolacollege,chrisclayton6l0z,Chris Clayton
-Feb 25,home,St. Johns River State,W,12-5,12,5,7.0,win,20170225_xkwb,3,1,2,1,,,3,1,1,,,7.0,win,20170225_xkwb,,,,3,1,,,,,4,2017,2016-17,div1,Chipola,chipolacollege,chrisclayton6l0z,Chris Clayton
-Feb 26,home,Shelton State,W,13-3,13,3,10.0,win,,,,,,,,,,,,,10.0,win,,,,,,,,,,,,2017,2016-17,div1,Chipola,chipolacollege,chrisclayton6l0z,Chris Clayton
-Mar 3,home,Grand Rapids,W,10-0,10,0,10.0,win,,,,,,,,,,,,,10.0,win,,,,,,,,,,,,2017,2016-17,div1,Chipola,chipolacollege,chrisclayton6l0z,Chris Clayton
-Mar 4,home,LSU Eunice,L,9-2,9,2,7.0,win,20170304_l6q2,4,0,0,,,,0,,2,,,7.0,win,20170304_l6q2,,,,0,0,,,,,4,2017,2016-17,div1,Chipola,chipolacollege,chrisclayton6l0z,Chris Clayton
-Mar 5,home,LSU Eunice,W,3-0,3,0,3.0,win,20170305_iuhs,3,0,1,,,,0,,,,,3.0,win,20170305_iuhs,,,,1,0,,,,,3,2017,2016-17,div1,Chipola,chipolacollege,chrisclayton6l0z,Chris Clayton
-Mar 5,home,Grand Rapids,W,19-1,19,1,18.0,win,20170305_3qdi,1,0,0,,,,1,,,,,18.0,win,20170305_3qdi,,,,0,0,,1,,,1,2017,2016-17,div1,Chipola,chipolacollege,chrisclayton6l0z,Chris Clayton
-Mar 11,home,Tallahassee,W,16-1,16,1,15.0,win,20170311_nb8b,2,2,2,1,,,2,,,,,15.0,win,20170311_nb8b,1,,,3,1,,,,,3,2017,2016-17,div1,Chipola,chipolacollege,chrisclayton6l0z,Chris Clayton
-Mar 11,home,Tallahassee,W,9-7,9,7,2.0,win,20170311_r718,2,0,0,,,,0,,,,,2.0,win,20170311_r718,,,,0,0,,,,,2,2017,2016-17,div1,Chipola,chipolacollege,chrisclayton6l0z,Chris Clayton
-Mar 14,home,Pensacola State,W,8-0,8,0,8.0,win,20170314_kz6p,4,0,0,,,,0,,2,,,8.0,win,20170314_kz6p,,,,0,0,1,,,,4,2017,2016-17,div1,Chipola,chipolacollege,chrisclayton6l0z,Chris Clayton
-Mar 16,home,Pensacola State,W,10-0,10,0,10.0,win,,,,,,,,,,,,,10.0,win,,,,,,,,,,,,2017,2016-17,div1,Chipola,chipolacollege,chrisclayton6l0z,Chris Clayton
-Mar 21,home,Northwest Florida State,W,5-1,5,1,4.0,win,,,,,,,,,,,,,4.0,win,,,,,,,,,,,,2017,2016-17,div1,Chipola,chipolacollege,chrisclayton6l0z,Chris Clayton
-Mar 23,home,Northwest Florida State,W,13-6,13,6,7.0,win,,,,,,,,,,,,,7.0,win,,,,,,,,,,,,2017,2016-17,div1,Chipola,chipolacollege,chrisclayton6l0z,Chris Clayton
-Apr 1,home,Gulf Coast State,W,11-8,11,8,3.0,win,20170401_du92,2,1,0,,,,0,1,1,,,3.0,win,20170401_du92,,,,0,0,,,,,3,2017,2016-17,div1,Chipola,chipolacollege,chrisclayton6l0z,Chris Clayton
-Apr 1,home,Gulf Coast State,W,10-3,10,3,7.0,win,,,,,,,,,,,,,7.0,win,,,,,,,,,,,,2017,2016-17,div1,Chipola,chipolacollege,chrisclayton6l0z,Chris Clayton
-Apr 4,home,Wallace-Dothan,W,7-0,7,0,7.0,win,20170404_sjhx,0,0,0,,,,0,,,,,7.0,win,20170404_sjhx,1,,,0,0,,,,,1,2017,2016-17,div1,Chipola,chipolacollege,chrisclayton6l0z,Chris Clayton
-Apr 12,home,Tallahassee,W,11-0,11,0,11.0,win,20170412_en0y,3,1,2,,,,0,,,,,11.0,win,20170412_en0y,,,,2,0,,,,,3,2017,2016-17,div1,Chipola,chipolacollege,chrisclayton6l0z,Chris Clayton
-Apr 14,home,Pensacola State,W,11-1,11,1,10.0,win,20170414_n7cm,1,0,1,,,,1,1,,,,10.0,win,20170414_n7cm,,,,1,0,,,,,2,2017,2016-17,div1,Chipola,chipolacollege,chrisclayton6l0z,Chris Clayton
-Apr 17,home,Northwest Florida State,W,15-14,15,14,1.0,win,20170417_nmkf,3,0,2,,,,2,,1,,,1.0,win,20170417_nmkf,,,,2,0,,,,,3,2017,2016-17,div1,Chipola,chipolacollege,chrisclayton6l0z,Chris Clayton
-Apr 22,home,Gulf Coast State,W,12-2,12,2,10.0,win,20170422_okmu,3,1,0,,,,0,1,1,,,10.0,win,20170422_okmu,,,,0,0,,,,,4,2017,2016-17,div1,Chipola,chipolacollege,chrisclayton6l0z,Chris Clayton
-May 31,home,McLennan,W,19-11,19,11,8.0,win,20170531_ez70,4,2,2,1,,,0,,1,,,8.0,win,20170531_ez70,1,,,3,1,,,1,,5,2017,2016-17,div1,Chipola,chipolacollege,chrisclayton6l0z,Chris Clayton
+date,location,opponent,result,score,team_score,opp_score,game_score_diff,game_win_loss,game_id,AB,R,H,2B,3B,HR,RBI,BB,K,SB,CS,HBP,SF,SH,TB,XBH,HDP,GO,FO,GO/FO,PA,season,njcaa_season,njcaa_division,team,team_id,player_id,player_name
+Jan 27,home,State College of Florida,W,6-4,6,4,2.0,win,20170127_ix1e,4,0,0,,,,0,,1,,,,,,0,0,,,,,4,2017,2016-17,div1,Chipola,chipolacollege,chrisclayton6l0z,Chris Clayton
+Jan 28,home,Florida SouthWestern State,W,7-3,7,3,4.0,win,,,,,,,,,,,,,,,,,,,,,,,2017,2016-17,div1,Chipola,chipolacollege,chrisclayton6l0z,Chris Clayton
+Jan 29,home,Broward,W,9-1,9,1,8.0,win,20170129_jv8z,3,1,0,,,,0,1,1,,,,,,0,0,,,,,4,2017,2016-17,div1,Chipola,chipolacollege,chrisclayton6l0z,Chris Clayton
+Feb 3,home,Walters State,W,6-5,6,5,1.0,win,20170203_ekw3,0,0,0,,,,0,1,,,,,,,0,0,,,,,1,2017,2016-17,div1,Chipola,chipolacollege,chrisclayton6l0z,Chris Clayton
+Feb 3,home,San Jacinto,L,6-0,6,0,6.0,win,20170203_0swu,2,0,0,,,,0,,1,,,,,,0,0,,,,,2,2017,2016-17,div1,Chipola,chipolacollege,chrisclayton6l0z,Chris Clayton
+Feb 4,home,San Jacinto,W,8-0,8,0,8.0,win,20170204_e4y4,4,2,2,,,,0,,,1,,,,,2,0,,,,,4,2017,2016-17,div1,Chipola,chipolacollege,chrisclayton6l0z,Chris Clayton
+Feb 10,home,Florence-Darlington Tech,W,7-2,7,2,5.0,win,20170210_iqwn,4,0,0,,,,0,,1,,,,,,0,0,,,,,4,2017,2016-17,div1,Chipola,chipolacollege,chrisclayton6l0z,Chris Clayton
+Feb 11,home,Miami Dade,W,11-1,11,1,10.0,win,20170211_fd8h,3,1,3,,,,3,,,,,,,,3,0,,,,,3,2017,2016-17,div1,Chipola,chipolacollege,chrisclayton6l0z,Chris Clayton
+Feb 11,home,Miami Dade,L,7-2,7,2,5.0,win,,,,,,,,,,,,,,,,,,,,,,,2017,2016-17,div1,Chipola,chipolacollege,chrisclayton6l0z,Chris Clayton
+Feb 12,home,St. Johns River State,L,2-1,2,1,1.0,win,20170212_owgg,5,0,2,1,,,0,,1,,,,,,3,1,,,,,5,2017,2016-17,div1,Chipola,chipolacollege,chrisclayton6l0z,Chris Clayton
+Feb 16,home,Gordon State,W,14-7,14,7,7.0,win,20170216_lf72,3,2,1,,,,1,,,,,1,,,1,0,,,,,4,2017,2016-17,div1,Chipola,chipolacollege,chrisclayton6l0z,Chris Clayton
+Feb 17,home,Gordon State,W,4-3,4,3,1.0,win,,,,,,,,,,,,,,,,,,,,,,,2017,2016-17,div1,Chipola,chipolacollege,chrisclayton6l0z,Chris Clayton
+Feb 18,home,Columbia State,W,6-1,6,1,5.0,win,20170218_yvmf,2,1,2,,,,0,,,,,,,1,2,0,,,,,3,2017,2016-17,div1,Chipola,chipolacollege,chrisclayton6l0z,Chris Clayton
+Feb 18,home,Columbia State,W,13-3,13,3,10.0,win,20170218_vqnj,2,0,0,,,,0,,,,,,,,0,0,,,,,2,2017,2016-17,div1,Chipola,chipolacollege,chrisclayton6l0z,Chris Clayton
+Feb 19,home,Columbia State,W,9-3,9,3,6.0,win,,,,,,,,,,,,,,,,,,,,,,,2017,2016-17,div1,Chipola,chipolacollege,chrisclayton6l0z,Chris Clayton
+Feb 24,home,Shelton State,W,7-1,7,1,6.0,win,,,,,,,,,,,,,,,,,,,,,,,2017,2016-17,div1,Chipola,chipolacollege,chrisclayton6l0z,Chris Clayton
+Feb 24,home,State College of Florida,W,7-3,7,3,4.0,win,20170224_7vsj,3,0,1,,,,0,1,,,,,,,1,0,,,,,4,2017,2016-17,div1,Chipola,chipolacollege,chrisclayton6l0z,Chris Clayton
+Feb 25,home,St. Johns River State,W,12-5,12,5,7.0,win,20170225_xkwb,3,1,2,1,,,3,1,1,,,,,,3,1,,,,,4,2017,2016-17,div1,Chipola,chipolacollege,chrisclayton6l0z,Chris Clayton
+Feb 26,home,Shelton State,W,13-3,13,3,10.0,win,,,,,,,,,,,,,,,,,,,,,,,2017,2016-17,div1,Chipola,chipolacollege,chrisclayton6l0z,Chris Clayton
+Mar 3,home,Grand Rapids,W,10-0,10,0,10.0,win,,,,,,,,,,,,,,,,,,,,,,,2017,2016-17,div1,Chipola,chipolacollege,chrisclayton6l0z,Chris Clayton
+Mar 4,home,LSU Eunice,L,9-2,9,2,7.0,win,20170304_l6q2,4,0,0,,,,0,,2,,,,,,0,0,,,,,4,2017,2016-17,div1,Chipola,chipolacollege,chrisclayton6l0z,Chris Clayton
+Mar 5,home,LSU Eunice,W,3-0,3,0,3.0,win,20170305_iuhs,3,0,1,,,,0,,,,,,,,1,0,,,,,3,2017,2016-17,div1,Chipola,chipolacollege,chrisclayton6l0z,Chris Clayton
+Mar 5,home,Grand Rapids,W,19-1,19,1,18.0,win,20170305_3qdi,1,0,0,,,,1,,,,,,,,0,0,,1,,,1,2017,2016-17,div1,Chipola,chipolacollege,chrisclayton6l0z,Chris Clayton
+Mar 7,home,Tallahassee,W,16-5,16,5,11.0,win,20170307_kfd9,5,3,3,1,,,0,,1,,,,,,4,1,,,,,5,2017,2016-17,div1,Chipola,chipolacollege,chrisclayton6l0z,Chris Clayton
+Mar 9,home,Tallahassee,W,9-1,9,1,8.0,win,,,,,,,,,,,,,,,,,,,,,,,2017,2016-17,div1,Chipola,chipolacollege,chrisclayton6l0z,Chris Clayton
+Mar 11,home,Tallahassee,W,16-1,16,1,15.0,win,20170311_nb8b,2,2,2,1,,,2,,,,,1,,,3,1,,,,,3,2017,2016-17,div1,Chipola,chipolacollege,chrisclayton6l0z,Chris Clayton
+Mar 11,home,Tallahassee,W,9-7,9,7,2.0,win,20170311_r718,2,0,0,,,,0,,,,,,,,0,0,,,,,2,2017,2016-17,div1,Chipola,chipolacollege,chrisclayton6l0z,Chris Clayton
+Mar 14,home,Pensacola State,W,8-0,8,0,8.0,win,20170314_kz6p,4,0,0,,,,0,,2,,,,,,0,0,1,,,,4,2017,2016-17,div1,Chipola,chipolacollege,chrisclayton6l0z,Chris Clayton
+Mar 16,home,Pensacola State,W,10-0,10,0,10.0,win,,,,,,,,,,,,,,,,,,,,,,,2017,2016-17,div1,Chipola,chipolacollege,chrisclayton6l0z,Chris Clayton
+Mar 18,home,Pensacola State,W,6-4,6,4,2.0,win,,,,,,,,,,,,,,,,,,,,,,,2017,2016-17,div1,Chipola,chipolacollege,chrisclayton6l0z,Chris Clayton
+Mar 18,home,Pensacola State,W,5-4,5,4,1.0,win,20170318_v2fv,1,0,0,,,,0,,1,,,,,,0,0,,,,,1,2017,2016-17,div1,Chipola,chipolacollege,chrisclayton6l0z,Chris Clayton
+Mar 21,home,Northwest Florida State,W,5-1,5,1,4.0,win,,,,,,,,,,,,,,,,,,,,,,,2017,2016-17,div1,Chipola,chipolacollege,chrisclayton6l0z,Chris Clayton
+Mar 23,home,Northwest Florida State,W,13-6,13,6,7.0,win,,,,,,,,,,,,,,,,,,,,,,,2017,2016-17,div1,Chipola,chipolacollege,chrisclayton6l0z,Chris Clayton
+Mar 24,home,Northwest Florida State,L,11-10,11,10,1.0,win,20170324_bs8r,4,1,2,,,1,3,,2,,,,,,5,1,,,,,4,2017,2016-17,div1,Chipola,chipolacollege,chrisclayton6l0z,Chris Clayton
+Mar 24,home,Northwest Florida State,L,10-6,10,6,4.0,win,20170324_h529,1,1,0,,,,0,1,,,,1,,,0,0,,,,,3,2017,2016-17,div1,Chipola,chipolacollege,chrisclayton6l0z,Chris Clayton
+Mar 28,home,Gulf Coast State,L,9-5,9,5,4.0,win,20170328_em6b,3,1,0,,,,0,1,1,,,,,,0,0,,,,,4,2017,2016-17,div1,Chipola,chipolacollege,chrisclayton6l0z,Chris Clayton
+Mar 31,home,Gulf Coast State,W,15-5,15,5,10.0,win,,,,,,,,,,,,,,,,,,,,,,,2017,2016-17,div1,Chipola,chipolacollege,chrisclayton6l0z,Chris Clayton
+Apr 1,home,Gulf Coast State,W,11-8,11,8,3.0,win,20170401_du92,2,1,0,,,,0,1,1,,,,,,0,0,,,,,3,2017,2016-17,div1,Chipola,chipolacollege,chrisclayton6l0z,Chris Clayton
+Apr 1,home,Gulf Coast State,W,10-3,10,3,7.0,win,,,,,,,,,,,,,,,,,,,,,,,2017,2016-17,div1,Chipola,chipolacollege,chrisclayton6l0z,Chris Clayton
+Apr 4,home,Wallace-Dothan,W,7-0,7,0,7.0,win,20170404_sjhx,0,0,0,,,,0,,,,,1,,,0,0,,,,,1,2017,2016-17,div1,Chipola,chipolacollege,chrisclayton6l0z,Chris Clayton
+Apr 10,home,Tallahassee,W,16-6,16,6,10.0,win,20170410_v8lf,1,0,1,,,,0,,,,,,,,1,0,,,,,1,2017,2016-17,div1,Chipola,chipolacollege,chrisclayton6l0z,Chris Clayton
+Apr 12,home,Tallahassee,W,11-0,11,0,11.0,win,20170412_en0y,3,1,2,,,,0,,,,,,,,2,0,,,,,3,2017,2016-17,div1,Chipola,chipolacollege,chrisclayton6l0z,Chris Clayton
+Apr 14,home,Pensacola State,W,11-1,11,1,10.0,win,20170414_n7cm,1,0,1,,,,1,1,,,,,,,1,0,,,,,2,2017,2016-17,div1,Chipola,chipolacollege,chrisclayton6l0z,Chris Clayton
+Apr 15,home,Pensacola State,W,16-1,16,1,15.0,win,20170415_nv4r,4,1,2,1,,,2,,,,,,,,3,1,,,,,4,2017,2016-17,div1,Chipola,chipolacollege,chrisclayton6l0z,Chris Clayton
+Apr 17,home,Northwest Florida State,W,15-14,15,14,1.0,win,20170417_nmkf,3,0,2,,,,2,,1,,,,,,2,0,,,,,3,2017,2016-17,div1,Chipola,chipolacollege,chrisclayton6l0z,Chris Clayton
+Apr 19,home,Northwest Florida State,L,7-2,7,2,5.0,win,20170419_7i05,1,0,0,,,,0,,1,,,,,,0,0,,,,,1,2017,2016-17,div1,Chipola,chipolacollege,chrisclayton6l0z,Chris Clayton
+Apr 21,home,Gulf Coast State,W,7-4,7,4,3.0,win,,,,,,,,,,,,,,,,,,,,,,,2017,2016-17,div1,Chipola,chipolacollege,chrisclayton6l0z,Chris Clayton
+Apr 22,home,Gulf Coast State,W,12-2,12,2,10.0,win,20170422_okmu,3,1,0,,,,0,1,1,,,,,,0,0,,,,,4,2017,2016-17,div1,Chipola,chipolacollege,chrisclayton6l0z,Chris Clayton
+May 5,home,St. Johns River State,W,5-2,5,2,3.0,win,20170505_htvq,2,0,0,,,,1,1,1,,,,1,,0,0,,,,,4,2017,2016-17,div1,Chipola,chipolacollege,chrisclayton6l0z,Chris Clayton
+May 7,home,Miami Dade,W,10-0,10,0,10.0,win,,,,,,,,,,,,,,,,,,,,,,,2017,2016-17,div1,Chipola,chipolacollege,chrisclayton6l0z,Chris Clayton
+May 8,home,Palm Beach State,W,18-6,18,6,12.0,win,,,,,,,,,,,,,,,,,,,,,,,2017,2016-17,div1,Chipola,chipolacollege,chrisclayton6l0z,Chris Clayton
+May 9,home,Santa Fe,W,11-1,11,1,10.0,win,20170509_s739,4,2,1,,,,1,,,,,1,,,1,0,,,,,5,2017,2016-17,div1,Chipola,chipolacollege,chrisclayton6l0z,Chris Clayton
+May 10,home,Palm Beach State,W,12-0,12,0,12.0,win,,,,,,,,,,,,,,,,,,,,,,,2017,2016-17,div1,Chipola,chipolacollege,chrisclayton6l0z,Chris Clayton
+May 27,home,Crowder,W,13-4,13,4,9.0,win,,,,,,,,,,,,,,,,,,,,,,,2017,2016-17,div1,Chipola,chipolacollege,chrisclayton6l0z,Chris Clayton
+May 29,home,San Jacinto,L,13-8,13,8,5.0,win,20170529_1tho,2,0,0,,,,0,,1,,,,,,0,0,,1,,,2,2017,2016-17,div1,Chipola,chipolacollege,chrisclayton6l0z,Chris Clayton
+May 30,home,Florence-Darlington Tech,W,11-7,11,7,4.0,win,20170530_cssp,4,2,2,1,,1,4,,1,,,,1,,6,2,,,2,,5,2017,2016-17,div1,Chipola,chipolacollege,chrisclayton6l0z,Chris Clayton
+May 31,home,McLennan,W,19-11,19,11,8.0,win,20170531_ez70,4,2,2,1,,,0,,1,,,1,,,3,1,,,1,,5,2017,2016-17,div1,Chipola,chipolacollege,chrisclayton6l0z,Chris Clayton
+Jun 1,home,Wabash Valley,W,12-7,12,7,5.0,win,,,,,,,,,,,,,,,,,,,,,,,2017,2016-17,div1,Chipola,chipolacollege,chrisclayton6l0z,Chris Clayton
+Jun 2,home,San Jacinto,W,7-1,7,1,6.0,win,20170602_72s9,2,2,3,,,,2,,,,,1,,1,3,0,,,,,4,2017,2016-17,div1,Chipola,chipolacollege,chrisclayton6l0z,Chris Clayton
+Jun 3,home,San Jacinto,W,15-6,15,6,9.0,win,20170603_ris3,3,1,0,,,,0,,,,,2,,,0,0,,1,2,0.50,5,2017,2016-17,div1,Chipola,chipolacollege,chrisclayton6l0z,Chris Clayton
