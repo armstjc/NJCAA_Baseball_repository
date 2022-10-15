@@ -1,39 +1,89 @@
-date,location,opponent,result,score,team_score,opp_score,game_score_diff_x,game_win_loss_x,game_id_x,AB,R,H,2B,3B,HR,RBI,BB,K,SB,CS,game_score_diff_y,game_win_loss_y,game_id_y,HBP,SF,SH,TB,XBH,HDP,GO,FO,GO/FO,PA,season,njcaa_season,njcaa_division,team,team_id,player_id,player_name
-Feb 18,home,Rend Lake,W,8-7,8,7,1,win,,,,,,,,,,,,,1.0,win,,,,,,,,,,,,2018,2017-18,div1,Jefferson (MO),jeffersoncollege,austinhicksf3en,Austin Hicks
-Feb 18,home,Rend Lake,L,14-5,14,5,9,win,,,,,,,,,,,,,9.0,win,,,,,,,,,,,,2018,2017-18,div1,Jefferson (MO),jeffersoncollege,austinhicksf3en,Austin Hicks
-Feb 26,home,Ellsworth,W,9-4,9,4,5,win,,,,,,,,,,,,,5.0,win,,,,,,,,,,,,2018,2017-18,div1,Jefferson (MO),jeffersoncollege,austinhicksf3en,Austin Hicks
-Feb 26,home,Ellsworth,W,5-4,5,4,1,win,20180226_nsvp,0,0,0,,,,0,,,,,1.0,win,20180226_nsvp,,,,0,0,,,,,0,2018,2017-18,div1,Jefferson (MO),jeffersoncollege,austinhicksf3en,Austin Hicks
-Mar 1,home,Three Rivers,W,6-2,6,2,4,win,,,,,,,,,,,,,4.0,win,,,,,,,,,,,,2018,2017-18,div1,Jefferson (MO),jeffersoncollege,austinhicksf3en,Austin Hicks
-Mar 1,home,Three Rivers,W,8-0,8,0,8,win,,,,,,,,,,,,,8.0,win,,,,,,,,,,,,2018,2017-18,div1,Jefferson (MO),jeffersoncollege,austinhicksf3en,Austin Hicks
-Mar 6,home,McKendree University,W,13-3,13,3,10,win,,,,,,,,,,,,,10.0,win,,,,,,,,,,,,2018,2017-18,div1,Jefferson (MO),jeffersoncollege,austinhicksf3en,Austin Hicks
-Mar 13,home,John A. Logan,W,15-5,15,5,10,win,20180313_o4dx,0,0,0,,,,0,,,,,10.0,win,20180313_o4dx,,,,0,0,,,,,0,2018,2017-18,div1,Jefferson (MO),jeffersoncollege,austinhicksf3en,Austin Hicks
-Mar 17,home,North Central Missouri,W,5-0,5,0,5,win,,,,,,,,,,,,,5.0,win,,,,,,,,,,,,2018,2017-18,div1,Jefferson (MO),jeffersoncollege,austinhicksf3en,Austin Hicks
-Mar 17,home,North Central Missouri,W,9-1,9,1,8,win,,,,,,,,,,,,,8.0,win,,,,,,,,,,,,2018,2017-18,div1,Jefferson (MO),jeffersoncollege,austinhicksf3en,Austin Hicks
-Mar 18,home,North Central Missouri,W,15-3,15,3,12,win,,,,,,,,,,,,,12.0,win,,,,,,,,,,,,2018,2017-18,div1,Jefferson (MO),jeffersoncollege,austinhicksf3en,Austin Hicks
-Mar 18,home,North Central Missouri,W,12-2,12,2,10,win,,,,,,,,,,,,,10.0,win,,,,,,,,,,,,2018,2017-18,div1,Jefferson (MO),jeffersoncollege,austinhicksf3en,Austin Hicks
-Mar 20,home,Southwestern Illinois,W,9-8,9,8,1,win,,,,,,,,,,,,,1.0,win,,,,,,,,,,,,2018,2017-18,div1,Jefferson (MO),jeffersoncollege,austinhicksf3en,Austin Hicks
-Mar 22,home,MCC-Maple Woods,W,11-0,11,0,11,win,,,,,,,,,,,,,11.0,win,,,,,,,,,,,,2018,2017-18,div1,Jefferson (MO),jeffersoncollege,austinhicksf3en,Austin Hicks
-Mar 22,home,MCC-Maple Woods,W,14-4,14,4,10,win,20180322_g7em,0,0,0,,,,0,,,,,10.0,win,20180322_g7em,,,,0,0,,,,,0,2018,2017-18,div1,Jefferson (MO),jeffersoncollege,austinhicksf3en,Austin Hicks
-Mar 30,home,St. Charles,W,12-1,12,1,11,win,,,,,,,,,,,,,11.0,win,,,,,,,,,,,,2018,2017-18,div1,Jefferson (MO),jeffersoncollege,austinhicksf3en,Austin Hicks
-Mar 30,home,St. Charles,W,10-2,10,2,8,win,20180330_8p3q,0,0,0,,,,0,,,,,8.0,win,20180330_8p3q,,,,0,0,,,,,0,2018,2017-18,div1,Jefferson (MO),jeffersoncollege,austinhicksf3en,Austin Hicks
-Apr 3,home,Webster University,,,,,8,win,,,,,,,,,,,,,8.0,win,,,,,,,,,,,,2018,2017-18,div1,Jefferson (MO),jeffersoncollege,austinhicksf3en,Austin Hicks
-Apr 4,home,Quincy University JV,W,3-2,3,2,1,win,,,,,,,,,,,,,1.0,win,,,,,,,,,,,,2018,2017-18,div1,Jefferson (MO),jeffersoncollege,austinhicksf3en,Austin Hicks
-Apr 4,home,Quincy University JV,W,5-0,5,0,5,win,,,,,,,,,,,,,5.0,win,,,,,,,,,,,,2018,2017-18,div1,Jefferson (MO),jeffersoncollege,austinhicksf3en,Austin Hicks
-Apr 7,home,St. Louis,L,10-1,10,1,9,win,,,,,,,,,,,,,9.0,win,,,,,,,,,,,,2018,2017-18,div1,Jefferson (MO),jeffersoncollege,austinhicksf3en,Austin Hicks
-Apr 7,home,St. Louis,W,9-1,9,1,8,win,20180407_9pid,0,0,0,,,,0,,,,,8.0,win,20180407_9pid,,,,0,0,,,,,0,2018,2017-18,div1,Jefferson (MO),jeffersoncollege,austinhicksf3en,Austin Hicks
-Apr 12,home,State Fair,W,14-3,14,3,11,win,,,,,,,,,,,,,11.0,win,,,,,,,,,,,,2018,2017-18,div1,Jefferson (MO),jeffersoncollege,austinhicksf3en,Austin Hicks
-Apr 12,home,State Fair,W,16-4,16,4,12,win,,,,,,,,,,,,,12.0,win,,,,,,,,,,,,2018,2017-18,div1,Jefferson (MO),jeffersoncollege,austinhicksf3en,Austin Hicks
-Apr 17,home,Missouri Baptist JV,W,10-1,10,1,9,win,,,,,,,,,,,,,9.0,win,,,,,,,,,,,,2018,2017-18,div1,Jefferson (MO),jeffersoncollege,austinhicksf3en,Austin Hicks
-Apr 17,home,Missouri Baptist JV,W,15-5,15,5,10,win,,,,,,,,,,,,,10.0,win,,,,,,,,,,,,2018,2017-18,div1,Jefferson (MO),jeffersoncollege,austinhicksf3en,Austin Hicks
-Apr 19,home,Mineral Area,L,7-5,7,5,2,win,,,,,,,,,,,,,2.0,win,,,,,,,,,,,,2018,2017-18,div1,Jefferson (MO),jeffersoncollege,austinhicksf3en,Austin Hicks
-Apr 19,home,Mineral Area,W,4-2,4,2,2,win,,,,,,,,,,,,,2.0,win,,,,,,,,,,,,2018,2017-18,div1,Jefferson (MO),jeffersoncollege,austinhicksf3en,Austin Hicks
-Apr 25,home,Webster University JV,W,9-4,9,4,5,win,,,,,,,,,,,,,5.0,win,,,,,,,,,,,,2018,2017-18,div1,Jefferson (MO),jeffersoncollege,austinhicksf3en,Austin Hicks
-Apr 25,home,Webster University JV,W,8-3,8,3,5,win,,,,,,,,,,,,,5.0,win,,,,,,,,,,,,2018,2017-18,div1,Jefferson (MO),jeffersoncollege,austinhicksf3en,Austin Hicks
-Apr 28,home,Kaskaskia,W,10-3,10,3,7,win,20180428_51u6,0,0,0,,,,0,,,,,7.0,win,20180428_51u6,,,,0,0,,,,,0,2018,2017-18,div1,Jefferson (MO),jeffersoncollege,austinhicksf3en,Austin Hicks
-Apr 28,home,Kaskaskia,W,17-0,17,0,17,win,,,,,,,,,,,,,17.0,win,,,,,,,,,,,,2018,2017-18,div1,Jefferson (MO),jeffersoncollege,austinhicksf3en,Austin Hicks
-May 4,home,Three Rivers,W,11-4,11,4,7,win,,,,,,,,,,,,,7.0,win,,,,,,,,,,,,2018,2017-18,div1,Jefferson (MO),jeffersoncollege,austinhicksf3en,Austin Hicks
-May 10,home,Mineral Area,W,8-2,8,2,6,win,,,,,,,,,,,,,6.0,win,,,,,,,,,,,,2018,2017-18,div1,Jefferson (MO),jeffersoncollege,austinhicksf3en,Austin Hicks
-May 12,home,Crowder,W,7-4,7,4,3,win,,,,,,,,,,,,,3.0,win,,,,,,,,,,,,2018,2017-18,div1,Jefferson (MO),jeffersoncollege,austinhicksf3en,Austin Hicks
-May 18,home,Delgado,W,12-1,12,1,11,win,,,,,,,,,,,,,11.0,win,,,,,,,,,,,,2018,2017-18,div1,Jefferson (MO),jeffersoncollege,austinhicksf3en,Austin Hicks
-May 18,home,Seminole State (OK),W,7-1,7,1,6,win,,,,,,,,,,,,,6.0,win,,,,,,,,,,,,2018,2017-18,div1,Jefferson (MO),jeffersoncollege,austinhicksf3en,Austin Hicks
-May 19,home,Delgado,L,12-2,12,2,10,win,,,,,,,,,,,,,10.0,win,,,,,,,,,,,,2018,2017-18,div1,Jefferson (MO),jeffersoncollege,austinhicksf3en,Austin Hicks
+date,location,opponent,result,score,team_score,opp_score,game_score_diff,game_win_loss,game_id,AB,R,H,2B,3B,HR,RBI,BB,K,SB,CS,HBP,SF,SH,TB,XBH,HDP,GO,FO,GO/FO,PA,season,njcaa_season,njcaa_division,team,team_id,player_id,player_name
+Feb 8,home,Jackson State,W,8-3,8,3,5,win,,,,,,,,,,,,,,,,,,,,,,,2018,2017-18,div1,Jefferson (MO),jeffersoncollege,austinhicksf3en,Austin Hicks
+Feb 8,home,Bevill State,T,4-4,4,4,0,tie,,,,,,,,,,,,,,,,,,,,,,,2018,2017-18,div1,Jefferson (MO),jeffersoncollege,austinhicksf3en,Austin Hicks
+Feb 9,home,Bevill State,W,10-0,10,0,10,win,,,,,,,,,,,,,,,,,,,,,,,2018,2017-18,div1,Jefferson (MO),jeffersoncollege,austinhicksf3en,Austin Hicks
+Feb 9,home,Jackson State,L,7-5,7,5,2,win,20180209_7yiv,0,0,0,,,,0,,,,,,,,0,0,,,,,0,2018,2017-18,div1,Jefferson (MO),jeffersoncollege,austinhicksf3en,Austin Hicks
+Feb 10,home,St. Louis,,,,,2,win,,,,,,,,,,,,,,,,,,,,,,,2018,2017-18,div1,Jefferson (MO),jeffersoncollege,austinhicksf3en,Austin Hicks
+Feb 17,home,Mississippi Delta,,,,,2,win,,,,,,,,,,,,,,,,,,,,,,,2018,2017-18,div1,Jefferson (MO),jeffersoncollege,austinhicksf3en,Austin Hicks
+Feb 17,home,Mississippi Delta,,,,,2,win,,,,,,,,,,,,,,,,,,,,,,,2018,2017-18,div1,Jefferson (MO),jeffersoncollege,austinhicksf3en,Austin Hicks
+Feb 17,home,Mississippi Delta,,,,,2,win,,,,,,,,,,,,,,,,,,,,,,,2018,2017-18,div1,Jefferson (MO),jeffersoncollege,austinhicksf3en,Austin Hicks
+Feb 17,home,Mississippi Delta,,,,,2,win,,,,,,,,,,,,,,,,,,,,,,,2018,2017-18,div1,Jefferson (MO),jeffersoncollege,austinhicksf3en,Austin Hicks
+Feb 18,home,Rend Lake,W,8-7,8,7,1,win,,,,,,,,,,,,,,,,,,,,,,,2018,2017-18,div1,Jefferson (MO),jeffersoncollege,austinhicksf3en,Austin Hicks
+Feb 18,home,Meridian,,,,,1,win,,,,,,,,,,,,,,,,,,,,,,,2018,2017-18,div1,Jefferson (MO),jeffersoncollege,austinhicksf3en,Austin Hicks
+Feb 18,home,Rend Lake,L,14-5,14,5,9,win,,,,,,,,,,,,,,,,,,,,,,,2018,2017-18,div1,Jefferson (MO),jeffersoncollege,austinhicksf3en,Austin Hicks
+Feb 18,home,Meridian,,,,,9,win,,,,,,,,,,,,,,,,,,,,,,,2018,2017-18,div1,Jefferson (MO),jeffersoncollege,austinhicksf3en,Austin Hicks
+Feb 25,home,Ellsworth,W,8-5,8,5,3,win,,,,,,,,,,,,,,,,,,,,,,,2018,2017-18,div1,Jefferson (MO),jeffersoncollege,austinhicksf3en,Austin Hicks
+Feb 25,home,Ellsworth,W,11-1,11,1,10,win,,,,,,,,,,,,,,,,,,,,,,,2018,2017-18,div1,Jefferson (MO),jeffersoncollege,austinhicksf3en,Austin Hicks
+Feb 26,home,Ellsworth,W,9-4,9,4,5,win,,,,,,,,,,,,,,,,,,,,,,,2018,2017-18,div1,Jefferson (MO),jeffersoncollege,austinhicksf3en,Austin Hicks
+Feb 26,home,Ellsworth,W,5-4,5,4,1,win,20180226_nsvp,0,0,0,,,,0,,,,,,,,0,0,,,,,0,2018,2017-18,div1,Jefferson (MO),jeffersoncollege,austinhicksf3en,Austin Hicks
+Feb 27,home,Fontbonne JV,,,,,1,win,,,,,,,,,,,,,,,,,,,,,,,2018,2017-18,div1,Jefferson (MO),jeffersoncollege,austinhicksf3en,Austin Hicks
+Mar 1,home,Three Rivers,W,6-2,6,2,4,win,,,,,,,,,,,,,,,,,,,,,,,2018,2017-18,div1,Jefferson (MO),jeffersoncollege,austinhicksf3en,Austin Hicks
+Mar 1,home,Three Rivers,W,8-0,8,0,8,win,,,,,,,,,,,,,,,,,,,,,,,2018,2017-18,div1,Jefferson (MO),jeffersoncollege,austinhicksf3en,Austin Hicks
+Mar 4,home,Three Rivers,W,7-3,7,3,4,win,,,,,,,,,,,,,,,,,,,,,,,2018,2017-18,div1,Jefferson (MO),jeffersoncollege,austinhicksf3en,Austin Hicks
+Mar 4,home,Three Rivers,W,12-4,12,4,8,win,,,,,,,,,,,,,,,,,,,,,,,2018,2017-18,div1,Jefferson (MO),jeffersoncollege,austinhicksf3en,Austin Hicks
+Mar 6,home,McKendree University,W,13-3,13,3,10,win,,,,,,,,,,,,,,,,,,,,,,,2018,2017-18,div1,Jefferson (MO),jeffersoncollege,austinhicksf3en,Austin Hicks
+Mar 9,home,Crowder,L,7-6,7,6,1,win,,,,,,,,,,,,,,,,,,,,,,,2018,2017-18,div1,Jefferson (MO),jeffersoncollege,austinhicksf3en,Austin Hicks
+Mar 9,home,Crowder,L,8-6,8,6,2,win,,,,,,,,,,,,,,,,,,,,,,,2018,2017-18,div1,Jefferson (MO),jeffersoncollege,austinhicksf3en,Austin Hicks
+Mar 10,home,Crowder,L,3-2,3,2,1,win,,,,,,,,,,,,,,,,,,,,,,,2018,2017-18,div1,Jefferson (MO),jeffersoncollege,austinhicksf3en,Austin Hicks
+Mar 10,home,Crowder,L,13-1,13,1,12,win,,,,,,,,,,,,,,,,,,,,,,,2018,2017-18,div1,Jefferson (MO),jeffersoncollege,austinhicksf3en,Austin Hicks
+Mar 13,home,John A. Logan,W,15-5,15,5,10,win,20180313_o4dx,0,0,0,,,,0,,,,,,,,0,0,,,,,0,2018,2017-18,div1,Jefferson (MO),jeffersoncollege,austinhicksf3en,Austin Hicks
+Mar 17,home,North Central Missouri,W,5-0,5,0,5,win,,,,,,,,,,,,,,,,,,,,,,,2018,2017-18,div1,Jefferson (MO),jeffersoncollege,austinhicksf3en,Austin Hicks
+Mar 17,home,North Central Missouri,W,9-1,9,1,8,win,,,,,,,,,,,,,,,,,,,,,,,2018,2017-18,div1,Jefferson (MO),jeffersoncollege,austinhicksf3en,Austin Hicks
+Mar 18,home,North Central Missouri,W,15-3,15,3,12,win,,,,,,,,,,,,,,,,,,,,,,,2018,2017-18,div1,Jefferson (MO),jeffersoncollege,austinhicksf3en,Austin Hicks
+Mar 18,home,North Central Missouri,W,12-2,12,2,10,win,,,,,,,,,,,,,,,,,,,,,,,2018,2017-18,div1,Jefferson (MO),jeffersoncollege,austinhicksf3en,Austin Hicks
+Mar 20,home,Southwestern Illinois,W,9-8,9,8,1,win,,,,,,,,,,,,,,,,,,,,,,,2018,2017-18,div1,Jefferson (MO),jeffersoncollege,austinhicksf3en,Austin Hicks
+Mar 22,home,MCC-Maple Woods,W,11-0,11,0,11,win,,,,,,,,,,,,,,,,,,,,,,,2018,2017-18,div1,Jefferson (MO),jeffersoncollege,austinhicksf3en,Austin Hicks
+Mar 22,home,MCC-Maple Woods,W,14-4,14,4,10,win,20180322_g7em,0,0,0,,,,0,,,,,,,,0,0,,,,,0,2018,2017-18,div1,Jefferson (MO),jeffersoncollege,austinhicksf3en,Austin Hicks
+Mar 24,home,MCC-Maple Woods,W,10-3,10,3,7,win,,,,,,,,,,,,,,,,,,,,,,,2018,2017-18,div1,Jefferson (MO),jeffersoncollege,austinhicksf3en,Austin Hicks
+Mar 24,home,MCC-Maple Woods,W,11-1,11,1,10,win,,,,,,,,,,,,,,,,,,,,,,,2018,2017-18,div1,Jefferson (MO),jeffersoncollege,austinhicksf3en,Austin Hicks
+Mar 29,home,St. Charles,,,,,10,win,,,,,,,,,,,,,,,,,,,,,,,2018,2017-18,div1,Jefferson (MO),jeffersoncollege,austinhicksf3en,Austin Hicks
+Mar 29,home,St. Charles,,,,,10,win,,,,,,,,,,,,,,,,,,,,,,,2018,2017-18,div1,Jefferson (MO),jeffersoncollege,austinhicksf3en,Austin Hicks
+Mar 29,home,St. Charles,,,,,10,win,,,,,,,,,,,,,,,,,,,,,,,2018,2017-18,div1,Jefferson (MO),jeffersoncollege,austinhicksf3en,Austin Hicks
+Mar 29,home,St. Charles,,,,,10,win,,,,,,,,,,,,,,,,,,,,,,,2018,2017-18,div1,Jefferson (MO),jeffersoncollege,austinhicksf3en,Austin Hicks
+Mar 30,home,St. Charles,W,12-1,12,1,11,win,,,,,,,,,,,,,,,,,,,,,,,2018,2017-18,div1,Jefferson (MO),jeffersoncollege,austinhicksf3en,Austin Hicks
+Mar 30,home,St. Charles,W,10-2,10,2,8,win,20180330_8p3q,0,0,0,,,,0,,,,,,,,0,0,,,,,0,2018,2017-18,div1,Jefferson (MO),jeffersoncollege,austinhicksf3en,Austin Hicks
+Apr 3,home,Webster University,,,,,8,win,,,,,,,,,,,,,,,,,,,,,,,2018,2017-18,div1,Jefferson (MO),jeffersoncollege,austinhicksf3en,Austin Hicks
+Apr 4,home,Quincy University JV,W,3-2,3,2,1,win,,,,,,,,,,,,,,,,,,,,,,,2018,2017-18,div1,Jefferson (MO),jeffersoncollege,austinhicksf3en,Austin Hicks
+Apr 4,home,Quincy University JV,W,5-0,5,0,5,win,,,,,,,,,,,,,,,,,,,,,,,2018,2017-18,div1,Jefferson (MO),jeffersoncollege,austinhicksf3en,Austin Hicks
+Apr 5,home,St. Louis,W,10-0,10,0,10,win,,,,,,,,,,,,,,,,,,,,,,,2018,2017-18,div1,Jefferson (MO),jeffersoncollege,austinhicksf3en,Austin Hicks
+Apr 5,home,St. Louis,W,11-7,11,7,4,win,,,,,,,,,,,,,,,,,,,,,,,2018,2017-18,div1,Jefferson (MO),jeffersoncollege,austinhicksf3en,Austin Hicks
+Apr 7,home,St. Louis,L,10-1,10,1,9,win,,,,,,,,,,,,,,,,,,,,,,,2018,2017-18,div1,Jefferson (MO),jeffersoncollege,austinhicksf3en,Austin Hicks
+Apr 7,home,St. Louis,W,9-1,9,1,8,win,20180407_9pid,0,0,0,,,,0,,,,,,,,0,0,,,,,0,2018,2017-18,div1,Jefferson (MO),jeffersoncollege,austinhicksf3en,Austin Hicks
+Apr 10,home,Lewis & Clark,,,,,8,win,,,,,,,,,,,,,,,,,,,,,,,2018,2017-18,div1,Jefferson (MO),jeffersoncollege,austinhicksf3en,Austin Hicks
+Apr 10,home,Lewis & Clark,,,,,8,win,,,,,,,,,,,,,,,,,,,,,,,2018,2017-18,div1,Jefferson (MO),jeffersoncollege,austinhicksf3en,Austin Hicks
+Apr 10,home,Lewis & Clark,,,,,8,win,,,,,,,,,,,,,,,,,,,,,,,2018,2017-18,div1,Jefferson (MO),jeffersoncollege,austinhicksf3en,Austin Hicks
+Apr 10,home,Lewis & Clark,,,,,8,win,,,,,,,,,,,,,,,,,,,,,,,2018,2017-18,div1,Jefferson (MO),jeffersoncollege,austinhicksf3en,Austin Hicks
+Apr 11,home,St. Charles,W,8-7,8,7,1,win,,,,,,,,,,,,,,,,,,,,,,,2018,2017-18,div1,Jefferson (MO),jeffersoncollege,austinhicksf3en,Austin Hicks
+Apr 11,home,St. Charles,W,17-6,17,6,11,win,,,,,,,,,,,,,,,,,,,,,,,2018,2017-18,div1,Jefferson (MO),jeffersoncollege,austinhicksf3en,Austin Hicks
+Apr 12,home,State Fair,W,14-3,14,3,11,win,,,,,,,,,,,,,,,,,,,,,,,2018,2017-18,div1,Jefferson (MO),jeffersoncollege,austinhicksf3en,Austin Hicks
+Apr 12,home,State Fair,W,16-4,16,4,12,win,,,,,,,,,,,,,,,,,,,,,,,2018,2017-18,div1,Jefferson (MO),jeffersoncollege,austinhicksf3en,Austin Hicks
+Apr 14,home,State Fair,W,3-2,3,2,1,win,,,,,,,,,,,,,,,,,,,,,,,2018,2017-18,div1,Jefferson (MO),jeffersoncollege,austinhicksf3en,Austin Hicks
+Apr 14,home,State Fair,W,20-3,20,3,17,win,20180414_9027,0,0,0,,,,0,,,,,,,,0,0,,,,,0,2018,2017-18,div1,Jefferson (MO),jeffersoncollege,austinhicksf3en,Austin Hicks
+Apr 16,home,Quincy University JV,,,,,17,win,,,,,,,,,,,,,,,,,,,,,,,2018,2017-18,div1,Jefferson (MO),jeffersoncollege,austinhicksf3en,Austin Hicks
+Apr 16,home,Quincy University JV,,,,,17,win,,,,,,,,,,,,,,,,,,,,,,,2018,2017-18,div1,Jefferson (MO),jeffersoncollege,austinhicksf3en,Austin Hicks
+Apr 16,home,Quincy University JV,,,,,17,win,,,,,,,,,,,,,,,,,,,,,,,2018,2017-18,div1,Jefferson (MO),jeffersoncollege,austinhicksf3en,Austin Hicks
+Apr 16,home,Quincy University JV,,,,,17,win,,,,,,,,,,,,,,,,,,,,,,,2018,2017-18,div1,Jefferson (MO),jeffersoncollege,austinhicksf3en,Austin Hicks
+Apr 17,home,Missouri Baptist JV,W,10-1,10,1,9,win,,,,,,,,,,,,,,,,,,,,,,,2018,2017-18,div1,Jefferson (MO),jeffersoncollege,austinhicksf3en,Austin Hicks
+Apr 17,home,Missouri Baptist JV,W,15-5,15,5,10,win,,,,,,,,,,,,,,,,,,,,,,,2018,2017-18,div1,Jefferson (MO),jeffersoncollege,austinhicksf3en,Austin Hicks
+Apr 19,home,Mineral Area,L,7-5,7,5,2,win,,,,,,,,,,,,,,,,,,,,,,,2018,2017-18,div1,Jefferson (MO),jeffersoncollege,austinhicksf3en,Austin Hicks
+Apr 19,home,Mineral Area,W,4-2,4,2,2,win,,,,,,,,,,,,,,,,,,,,,,,2018,2017-18,div1,Jefferson (MO),jeffersoncollege,austinhicksf3en,Austin Hicks
+Apr 21,home,Mineral Area,W,14-1,14,1,13,win,20180421_98qb,0,0,0,,,,0,,,,,,,,0,0,,,,,0,2018,2017-18,div1,Jefferson (MO),jeffersoncollege,austinhicksf3en,Austin Hicks
+Apr 21,home,Mineral Area,W,5-2,5,2,3,win,,,,,,,,,,,,,,,,,,,,,,,2018,2017-18,div1,Jefferson (MO),jeffersoncollege,austinhicksf3en,Austin Hicks
+Apr 25,home,Webster University JV,W,9-4,9,4,5,win,,,,,,,,,,,,,,,,,,,,,,,2018,2017-18,div1,Jefferson (MO),jeffersoncollege,austinhicksf3en,Austin Hicks
+Apr 25,home,Webster University JV,W,8-3,8,3,5,win,,,,,,,,,,,,,,,,,,,,,,,2018,2017-18,div1,Jefferson (MO),jeffersoncollege,austinhicksf3en,Austin Hicks
+Apr 26,home,Kaskaskia,W,8-5,8,5,3,win,,,,,,,,,,,,,,,,,,,,,,,2018,2017-18,div1,Jefferson (MO),jeffersoncollege,austinhicksf3en,Austin Hicks
+Apr 28,home,Kaskaskia,W,10-3,10,3,7,win,20180428_51u6,0,0,0,,,,0,,,,,,,,0,0,,,,,0,2018,2017-18,div1,Jefferson (MO),jeffersoncollege,austinhicksf3en,Austin Hicks
+Apr 28,home,Kaskaskia,W,17-0,17,0,17,win,,,,,,,,,,,,,,,,,,,,,,,2018,2017-18,div1,Jefferson (MO),jeffersoncollege,austinhicksf3en,Austin Hicks
+May 1,home,Rend Lake,L,6-5,6,5,1,win,,,,,,,,,,,,,,,,,,,,,,,2018,2017-18,div1,Jefferson (MO),jeffersoncollege,austinhicksf3en,Austin Hicks
+May 4,home,Three Rivers,W,11-4,11,4,7,win,,,,,,,,,,,,,,,,,,,,,,,2018,2017-18,div1,Jefferson (MO),jeffersoncollege,austinhicksf3en,Austin Hicks
+May 5,home,Three Rivers,W,25-8,25,8,17,win,20180505_0efz,0,0,0,,,,0,,,,,,,,0,0,,,,,0,2018,2017-18,div1,Jefferson (MO),jeffersoncollege,austinhicksf3en,Austin Hicks
+May 10,home,Mineral Area,W,8-2,8,2,6,win,,,,,,,,,,,,,,,,,,,,,,,2018,2017-18,div1,Jefferson (MO),jeffersoncollege,austinhicksf3en,Austin Hicks
+May 11,home,State Fair,W,11-3,11,3,8,win,,,,,,,,,,,,,,,,,,,,,,,2018,2017-18,div1,Jefferson (MO),jeffersoncollege,austinhicksf3en,Austin Hicks
+May 12,home,Crowder,W,7-4,7,4,3,win,,,,,,,,,,,,,,,,,,,,,,,2018,2017-18,div1,Jefferson (MO),jeffersoncollege,austinhicksf3en,Austin Hicks
+May 18,home,Delgado,W,12-1,12,1,11,win,,,,,,,,,,,,,,,,,,,,,,,2018,2017-18,div1,Jefferson (MO),jeffersoncollege,austinhicksf3en,Austin Hicks
+May 18,home,Seminole State (OK),W,7-1,7,1,6,win,,,,,,,,,,,,,,,,,,,,,,,2018,2017-18,div1,Jefferson (MO),jeffersoncollege,austinhicksf3en,Austin Hicks
+May 19,home,Delgado,L,12-2,12,2,10,win,,,,,,,,,,,,,,,,,,,,,,,2018,2017-18,div1,Jefferson (MO),jeffersoncollege,austinhicksf3en,Austin Hicks
+May 20,home,Delgado,W,19-4,19,4,15,win,20180520_1z41,0,0,0,,,,0,,,,,,,,0,0,,,,,0,2018,2017-18,div1,Jefferson (MO),jeffersoncollege,austinhicksf3en,Austin Hicks
+May 26,home,Barton,W,11-2,11,2,9,win,,,,,,,,,,,,,,,,,,,,,,,2018,2017-18,div1,Jefferson (MO),jeffersoncollege,austinhicksf3en,Austin Hicks
+May 28,home,Walters State,L,14-9,14,9,5,win,,,,,,,,,,,,,,,,,,,,,,,2018,2017-18,div1,Jefferson (MO),jeffersoncollege,austinhicksf3en,Austin Hicks
+May 29,home,Monroe College,L,10-4,10,4,6,win,20180529_9sji,0,0,0,,,,0,,,,,,,,0,0,,,,,0,2018,2017-18,div1,Jefferson (MO),jeffersoncollege,austinhicksf3en,Austin Hicks

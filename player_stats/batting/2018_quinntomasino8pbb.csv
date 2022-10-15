@@ -1,32 +1,57 @@
-date,location,opponent,result,score,team_score,opp_score,game_score_diff_x,game_win_loss_x,game_id_x,AB,R,H,2B,3B,HR,RBI,BB,K,SB,CS,game_score_diff_y,game_win_loss_y,game_id_y,HBP,SF,SH,TB,XBH,HDP,GO,FO,GO/FO,PA,season,njcaa_season,njcaa_division,team,team_id,player_id,player_name
-Sep 10  #,home,Colorado State University- Club,,,,,,,,,,,,,,,,,,,10.0,win,,,,,,,,,,,,2018,2017-18,div1,Northeastern,northeasternjuniorcollege,quinntomasino8pbb,Quinn Tomasino
-Oct 8  #,home,Colorado State University Club,,,,,,,,,,,,,,,,,,,10.0,win,,,,,,,,,,,,2018,2017-18,div1,Northeastern,northeasternjuniorcollege,quinntomasino8pbb,Quinn Tomasino
-Oct 13  #,home,TBA,,,,,,,,,,,,,,,,,,,10.0,win,,,,,,,,,,,,2018,2017-18,div1,Northeastern,northeasternjuniorcollege,quinntomasino8pbb,Quinn Tomasino
-Oct 14  #,home,TBA,,,,,,,,,,,,,,,,,,,10.0,win,,,,,,,,,,,,2018,2017-18,div1,Northeastern,northeasternjuniorcollege,quinntomasino8pbb,Quinn Tomasino
-Oct 15  #,home,TBA,,,,,,,,,,,,,,,,,,,10.0,win,,,,,,,,,,,,2018,2017-18,div1,Northeastern,northeasternjuniorcollege,quinntomasino8pbb,Quinn Tomasino
-Feb 23,home,Western Nebraska,,,,,1,win,,,,,,,,,,,,,1.0,win,,,,,,,,,,,,2018,2017-18,div1,Northeastern,northeasternjuniorcollege,quinntomasino8pbb,Quinn Tomasino
-Feb 26,home,Williston State,W,8-7,8,7,1,win,20180226_wed3,5,1,3,,,1,4,,,,,1.0,win,20180226_wed3,,,,6,1,,,,,5,2018,2017-18,div1,Northeastern,northeasternjuniorcollege,quinntomasino8pbb,Quinn Tomasino
-Feb 26,home,Williston State,W,11-1,11,1,10,win,20180226_qugh,3,1,1,,,,1,,,,,10.0,win,20180226_qugh,,,,1,0,,,,,3,2018,2017-18,div1,Northeastern,northeasternjuniorcollege,quinntomasino8pbb,Quinn Tomasino
-Feb 27,home,Williston State,W,11-2,11,2,9,win,20180227_df7e,3,0,0,,,,0,,1,1,,9.0,win,20180227_df7e,,,,0,0,,,,,3,2018,2017-18,div1,Northeastern,northeasternjuniorcollege,quinntomasino8pbb,Quinn Tomasino
-Feb 27,home,Williston State,W,6-0,6,0,6,win,20180227_aon1,3,1,0,,,,0,,1,,,6.0,win,20180227_aon1,,,,0,0,,,,,3,2018,2017-18,div1,Northeastern,northeasternjuniorcollege,quinntomasino8pbb,Quinn Tomasino
-Mar 3,home,Otero,W,3-2,3,2,1,win,20180303_bhn3,2,0,1,,,,0,,1,2,,1.0,win,20180303_bhn3,,,,1,0,,,,,2,2018,2017-18,div1,Northeastern,northeasternjuniorcollege,quinntomasino8pbb,Quinn Tomasino
-Mar 3,home,Otero,W,10-5,10,5,5,win,20180303_uwov,3,0,2,,,,1,1,,,,5.0,win,20180303_uwov,,,,2,0,,,,,4,2018,2017-18,div1,Northeastern,northeasternjuniorcollege,quinntomasino8pbb,Quinn Tomasino
-Mar 4,home,Otero,W,10-5,10,5,5,win,20180304_fo0l,4,3,4,2,,2,8,1,,,,5.0,win,20180304_fo0l,,,,12,4,,,,,5,2018,2017-18,div1,Northeastern,northeasternjuniorcollege,quinntomasino8pbb,Quinn Tomasino
-Apr 7,home,Miles,W,5-0,5,0,5,win,20180407_mtx5,3,1,1,,,,1,,1,1,,5.0,win,20180407_mtx5,,,,1,0,,,,,3,2018,2017-18,div1,Northeastern,northeasternjuniorcollege,quinntomasino8pbb,Quinn Tomasino
-Apr 7,home,Miles,W,5-3,5,3,2,win,20180407_0i42,2,0,0,,,,0,,2,,,2.0,win,20180407_0i42,,,,0,0,,,,,2,2018,2017-18,div1,Northeastern,northeasternjuniorcollege,quinntomasino8pbb,Quinn Tomasino
-Apr 8,home,Miles,W,25-2,25,2,23,win,20180408_uax5,2,3,2,1,,,0,1,,,,23.0,win,20180408_uax5,,,,3,1,,,,,3,2018,2017-18,div1,Northeastern,northeasternjuniorcollege,quinntomasino8pbb,Quinn Tomasino
-Apr 8,home,Miles,W,6-3,6,3,3,win,20180408_7yge,3,3,3,1,,,1,,,,,3.0,win,20180408_7yge,,,,4,1,,,,,3,2018,2017-18,div1,Northeastern,northeasternjuniorcollege,quinntomasino8pbb,Quinn Tomasino
-Apr 9,home,Miles,W,11-1,11,1,10,win,20180409_n1se,3,2,3,,,,2,1,,,,10.0,win,20180409_n1se,,,,3,0,,,,,4,2018,2017-18,div1,Northeastern,northeasternjuniorcollege,quinntomasino8pbb,Quinn Tomasino
-Apr 9,home,Miles,W,9-4,9,4,5,win,20180409_i03r,3,1,1,1,,,2,,,,,5.0,win,20180409_i03r,,,,2,1,,,,,3,2018,2017-18,div1,Northeastern,northeasternjuniorcollege,quinntomasino8pbb,Quinn Tomasino
-Apr 15,home,McCook,W,12-2,12,2,10,win,20180415_3ym3,3,1,1,1,,,1,1,,,,10.0,win,20180415_3ym3,,,,2,1,,,,,4,2018,2017-18,div1,Northeastern,northeasternjuniorcollege,quinntomasino8pbb,Quinn Tomasino
-Apr 15,home,McCook,W,6-2,6,2,4,win,20180415_3qj4,3,0,0,,,,0,,,,,4.0,win,20180415_3qj4,,,,0,0,,,,,3,2018,2017-18,div1,Northeastern,northeasternjuniorcollege,quinntomasino8pbb,Quinn Tomasino
-Apr 16,home,McCook,W,9-4,9,4,5,win,20180416_cdi3,3,0,0,,,,0,1,,,,5.0,win,20180416_cdi3,,,,0,0,,,,,4,2018,2017-18,div1,Northeastern,northeasternjuniorcollege,quinntomasino8pbb,Quinn Tomasino
-Apr 19,home,Western Nebraska,W,10-0,10,0,10,win,20180419_et4u,2,1,1,,,,2,1,,,,10.0,win,20180419_et4u,,,,1,0,,,,,3,2018,2017-18,div1,Northeastern,northeasternjuniorcollege,quinntomasino8pbb,Quinn Tomasino
-Apr 19,home,Western Nebraska,W,3-2,3,2,1,win,20180419_c4la,2,1,2,,,,1,,,,,1.0,win,20180419_c4la,,,,2,0,,,,,2,2018,2017-18,div1,Northeastern,northeasternjuniorcollege,quinntomasino8pbb,Quinn Tomasino
-Apr 22,home,Lamar,W,11-2,11,2,9,win,20180422_pabh,4,1,2,1,,,1,,,,,9.0,win,20180422_pabh,,,,3,1,,,,,4,2018,2017-18,div1,Northeastern,northeasternjuniorcollege,quinntomasino8pbb,Quinn Tomasino
-Apr 22,home,Lamar,L,6-4,6,4,2,win,20180422_a9to,5,1,1,,,,0,,,,,2.0,win,20180422_a9to,,,,1,0,,,,,5,2018,2017-18,div1,Northeastern,northeasternjuniorcollege,quinntomasino8pbb,Quinn Tomasino
-Apr 23,home,Lamar,L,3-0,3,0,3,win,20180423_vab8,3,0,0,,,,0,,1,,,3.0,win,20180423_vab8,,,,0,0,,,,,3,2018,2017-18,div1,Northeastern,northeasternjuniorcollege,quinntomasino8pbb,Quinn Tomasino
-Apr 30,home,Western Nebraska,L,6-4,6,4,2,win,20180430_lmnd,4,0,1,,,,1,,2,,,2.0,win,20180430_lmnd,,,,1,0,,,,,4,2018,2017-18,div1,Northeastern,northeasternjuniorcollege,quinntomasino8pbb,Quinn Tomasino
-May 5,home,Trinidad State,W,6-5,6,5,1,win,20180505_e0xf,4,0,1,,,,1,,1,,,1.0,win,20180505_e0xf,,,,1,0,,,,,4,2018,2017-18,div1,Northeastern,northeasternjuniorcollege,quinntomasino8pbb,Quinn Tomasino
-May 5,home,Trinidad State,L,4-2,4,2,2,win,20180505_2uao,3,1,2,,,1,1,,1,,,2.0,win,20180505_2uao,,,,5,1,,,,,3,2018,2017-18,div1,Northeastern,northeasternjuniorcollege,quinntomasino8pbb,Quinn Tomasino
-May 6,home,Trinidad State,W,5-0,5,0,5,win,20180506_hi4a,5,1,1,,,,1,,1,,,5.0,win,20180506_hi4a,,,,1,0,,,,,5,2018,2017-18,div1,Northeastern,northeasternjuniorcollege,quinntomasino8pbb,Quinn Tomasino
+date,location,opponent,result,score,team_score,opp_score,game_score_diff,game_win_loss,game_id,AB,R,H,2B,3B,HR,RBI,BB,K,SB,CS,HBP,SF,SH,TB,XBH,HDP,GO,FO,GO/FO,PA,season,njcaa_season,njcaa_division,team,team_id,player_id,player_name
+Feb 8,home,Seward County,L,9-0,9,0,9,win,,,,,,,,,,,,,,,,,,,,,,,2018,2017-18,div1,Northeastern,northeasternjuniorcollege,quinntomasino8pbb,Quinn Tomasino
+Feb 8,home,Seward County,W,10-9,10,9,1,win,20180208_hc73,5,1,3,1,0,1,3,0,1,0,0,0,0,0,7,2,,0,,,5,2018,2017-18,div1,Northeastern,northeasternjuniorcollege,quinntomasino8pbb,Quinn Tomasino
+Feb 15,home,Southern Idaho,L,6-3,6,3,3,win,20180215_3p6z,4,0,0,,,,0,,3,,,,,,0,0,,,,,4,2018,2017-18,div1,Northeastern,northeasternjuniorcollege,quinntomasino8pbb,Quinn Tomasino
+Feb 16,home,Southern Idaho,L,5-2,5,2,3,win,,,,,,,,,,,,,,,,,,,,,,,2018,2017-18,div1,Northeastern,northeasternjuniorcollege,quinntomasino8pbb,Quinn Tomasino
+Feb 16,home,Southern Idaho,L,10-6,10,6,4,win,20180216_3snn,4,0,3,,,,2,,,,,,,,3,0,1,1,,,4,2018,2017-18,div1,Northeastern,northeasternjuniorcollege,quinntomasino8pbb,Quinn Tomasino
+Feb 17,home,Southern Idaho,L,8-7,8,7,1,win,20180217_dl73,4,1,0,,,,0,1,,,,,,,0,0,,1,3,0.33,5,2018,2017-18,div1,Northeastern,northeasternjuniorcollege,quinntomasino8pbb,Quinn Tomasino
+Feb 23,home,Western Nebraska,,,,,1,win,,,,,,,,,,,,,,,,,,,,,,,2018,2017-18,div1,Northeastern,northeasternjuniorcollege,quinntomasino8pbb,Quinn Tomasino
+Feb 26,home,Williston State,W,8-7,8,7,1,win,20180226_wed3,5,1,3,,,1,4,,,,,,,,6,1,,,,,5,2018,2017-18,div1,Northeastern,northeasternjuniorcollege,quinntomasino8pbb,Quinn Tomasino
+Feb 26,home,Williston State,W,11-1,11,1,10,win,20180226_qugh,3,1,1,,,,1,,,,,,,,1,0,,,,,3,2018,2017-18,div1,Northeastern,northeasternjuniorcollege,quinntomasino8pbb,Quinn Tomasino
+Feb 27,home,Williston State,W,11-2,11,2,9,win,20180227_df7e,3,0,0,,,,0,,1,1,,,,,0,0,,,,,3,2018,2017-18,div1,Northeastern,northeasternjuniorcollege,quinntomasino8pbb,Quinn Tomasino
+Feb 27,home,Williston State,W,6-0,6,0,6,win,20180227_aon1,3,1,0,,,,0,,1,,,,,,0,0,,,,,3,2018,2017-18,div1,Northeastern,northeasternjuniorcollege,quinntomasino8pbb,Quinn Tomasino
+Mar 3,home,Otero,W,3-2,3,2,1,win,20180303_bhn3,2,0,1,,,,0,,1,2,,,,,1,0,,,,,2,2018,2017-18,div1,Northeastern,northeasternjuniorcollege,quinntomasino8pbb,Quinn Tomasino
+Mar 3,home,Otero,W,10-5,10,5,5,win,20180303_uwov,3,0,2,,,,1,1,,,,,,,2,0,,,,,4,2018,2017-18,div1,Northeastern,northeasternjuniorcollege,quinntomasino8pbb,Quinn Tomasino
+Mar 4,home,Otero,W,10-5,10,5,5,win,20180304_fo0l,4,3,4,2,,2,8,1,,,,,,,12,4,,,,,5,2018,2017-18,div1,Northeastern,northeasternjuniorcollege,quinntomasino8pbb,Quinn Tomasino
+Mar 7,home,Western Nebraska,L,3-2,3,2,1,win,20180307_6yvn,3,0,1,,,,0,,,1,,1,,,1,0,,,,,4,2018,2017-18,div1,Northeastern,northeasternjuniorcollege,quinntomasino8pbb,Quinn Tomasino
+Mar 10,home,Trinidad State,L,5-4,5,4,1,win,20180310_f9ut,4,0,0,,,,0,,,,,,,,0,0,,,,,4,2018,2017-18,div1,Northeastern,northeasternjuniorcollege,quinntomasino8pbb,Quinn Tomasino
+Mar 10,home,Trinidad State,L,13-3,13,3,10,win,20180310_8n3r,2,0,2,1,,,2,,,,,,,,3,1,,,,,2,2018,2017-18,div1,Northeastern,northeasternjuniorcollege,quinntomasino8pbb,Quinn Tomasino
+Mar 11,home,Trinidad State,L,13-1,13,1,12,win,20180311_yrdv,1,0,0,,,,0,,,,,,,,0,0,,,,,1,2018,2017-18,div1,Northeastern,northeasternjuniorcollege,quinntomasino8pbb,Quinn Tomasino
+Mar 14,home,Central Arizona,L,7-0,7,0,7,win,20180314_48j6,4,0,0,,,,0,,,,,,,,0,0,,,,,4,2018,2017-18,div1,Northeastern,northeasternjuniorcollege,quinntomasino8pbb,Quinn Tomasino
+Mar 15,home,Chandler-Gilbert,L,13-3,13,3,10,win,20180315_guqm,3,0,1,,,,0,,,,,,,,1,0,,,,,3,2018,2017-18,div1,Northeastern,northeasternjuniorcollege,quinntomasino8pbb,Quinn Tomasino
+Mar 16,home,South Mountain,W,3-2,3,2,1,win,20180316_n729,6,0,0,,,,0,,,,,,,,0,0,,,,,6,2018,2017-18,div1,Northeastern,northeasternjuniorcollege,quinntomasino8pbb,Quinn Tomasino
+Mar 16,home,South Mountain,L,3-1,3,1,2,win,20180316_x68w,3,0,0,,,,0,,,,,,,,0,0,,,,,3,2018,2017-18,div1,Northeastern,northeasternjuniorcollege,quinntomasino8pbb,Quinn Tomasino
+Mar 17,home,Paradise Valley,L,4-2,4,2,2,win,20180317_ygro,3,1,1,,,1,2,,,,,,,,4,1,,,,,3,2018,2017-18,div1,Northeastern,northeasternjuniorcollege,quinntomasino8pbb,Quinn Tomasino
+Mar 17,home,Paradise Valley,L,2-1,2,1,1,win,20180317_lmak,3,0,0,,,,0,,,,,,,,0,0,,,,,3,2018,2017-18,div1,Northeastern,northeasternjuniorcollege,quinntomasino8pbb,Quinn Tomasino
+Mar 23,home,Lamar,L,16-14,16,14,2,win,20180323_cflh,5,2,2,,,,1,,,,,,,,2,0,,,,,5,2018,2017-18,div1,Northeastern,northeasternjuniorcollege,quinntomasino8pbb,Quinn Tomasino
+Mar 24,home,Lamar,W,7-3,7,3,4,win,20180324_lexb,4,1,2,,,,0,,,,,,,,2,0,,,,,4,2018,2017-18,div1,Northeastern,northeasternjuniorcollege,quinntomasino8pbb,Quinn Tomasino
+Mar 24,home,Lamar,L,10-4,10,4,6,win,20180324_m9ui,4,0,0,,,,0,,,,,,,,0,0,,,,,4,2018,2017-18,div1,Northeastern,northeasternjuniorcollege,quinntomasino8pbb,Quinn Tomasino
+Mar 30,home,Otero,L,7-4,7,4,3,win,20180330_0jr1,3,0,0,,,,0,,,,,,,,0,0,,,,,3,2018,2017-18,div1,Northeastern,northeasternjuniorcollege,quinntomasino8pbb,Quinn Tomasino
+Mar 30,home,Otero,L,5-1,5,1,4,win,,,,,,,,,,,,,,,,,,,,,,,2018,2017-18,div1,Northeastern,northeasternjuniorcollege,quinntomasino8pbb,Quinn Tomasino
+Mar 31,home,Otero,L,10-8,10,8,2,win,,,,,,,,,,,,,,,,,,,,,,,2018,2017-18,div1,Northeastern,northeasternjuniorcollege,quinntomasino8pbb,Quinn Tomasino
+Apr 7,home,Miles,W,5-0,5,0,5,win,20180407_mtx5,3,1,1,,,,1,,1,1,,,,,1,0,,,,,3,2018,2017-18,div1,Northeastern,northeasternjuniorcollege,quinntomasino8pbb,Quinn Tomasino
+Apr 7,home,Miles,W,5-3,5,3,2,win,20180407_0i42,2,0,0,,,,0,,2,,,,,,0,0,,,,,2,2018,2017-18,div1,Northeastern,northeasternjuniorcollege,quinntomasino8pbb,Quinn Tomasino
+Apr 8,home,Miles,W,25-2,25,2,23,win,20180408_uax5,2,3,2,1,,,0,1,,,,,,,3,1,,,,,3,2018,2017-18,div1,Northeastern,northeasternjuniorcollege,quinntomasino8pbb,Quinn Tomasino
+Apr 8,home,Miles,W,6-3,6,3,3,win,20180408_7yge,3,3,3,1,,,1,,,,,,,,4,1,,,,,3,2018,2017-18,div1,Northeastern,northeasternjuniorcollege,quinntomasino8pbb,Quinn Tomasino
+Apr 9,home,Miles,W,11-1,11,1,10,win,20180409_n1se,3,2,3,,,,2,1,,,,,,,3,0,,,,,4,2018,2017-18,div1,Northeastern,northeasternjuniorcollege,quinntomasino8pbb,Quinn Tomasino
+Apr 9,home,Miles,W,9-4,9,4,5,win,20180409_i03r,3,1,1,1,,,2,,,,,,,,2,1,,,,,3,2018,2017-18,div1,Northeastern,northeasternjuniorcollege,quinntomasino8pbb,Quinn Tomasino
+Apr 15,home,McCook,W,12-2,12,2,10,win,20180415_3ym3,3,1,1,1,,,1,1,,,,,,,2,1,,,,,4,2018,2017-18,div1,Northeastern,northeasternjuniorcollege,quinntomasino8pbb,Quinn Tomasino
+Apr 15,home,McCook,W,6-2,6,2,4,win,20180415_3qj4,3,0,0,,,,0,,,,,,,,0,0,,,,,3,2018,2017-18,div1,Northeastern,northeasternjuniorcollege,quinntomasino8pbb,Quinn Tomasino
+Apr 16,home,McCook,W,9-4,9,4,5,win,20180416_cdi3,3,0,0,,,,0,1,,,,,,,0,0,,,,,4,2018,2017-18,div1,Northeastern,northeasternjuniorcollege,quinntomasino8pbb,Quinn Tomasino
+Apr 19,home,Western Nebraska,W,10-0,10,0,10,win,20180419_et4u,2,1,1,,,,2,1,,,,,,,1,0,,,,,3,2018,2017-18,div1,Northeastern,northeasternjuniorcollege,quinntomasino8pbb,Quinn Tomasino
+Apr 19,home,Western Nebraska,W,3-2,3,2,1,win,20180419_c4la,2,1,2,,,,1,,,,,,,,2,0,,,,,2,2018,2017-18,div1,Northeastern,northeasternjuniorcollege,quinntomasino8pbb,Quinn Tomasino
+Apr 22,home,Lamar,W,11-2,11,2,9,win,20180422_pabh,4,1,2,1,,,1,,,,,,,,3,1,,,,,4,2018,2017-18,div1,Northeastern,northeasternjuniorcollege,quinntomasino8pbb,Quinn Tomasino
+Apr 22,home,Lamar,L,6-4,6,4,2,win,20180422_a9to,5,1,1,,,,0,,,,,,,,1,0,,,,,5,2018,2017-18,div1,Northeastern,northeasternjuniorcollege,quinntomasino8pbb,Quinn Tomasino
+Apr 23,home,Lamar,L,3-0,3,0,3,win,20180423_vab8,3,0,0,,,,0,,1,,,,,,0,0,,,,,3,2018,2017-18,div1,Northeastern,northeasternjuniorcollege,quinntomasino8pbb,Quinn Tomasino
+Apr 25,home,Western Nebraska,L,4-3,4,3,1,win,20180425_17qo,4,1,2,,,,1,,,,,,,,2,0,,,,,4,2018,2017-18,div1,Northeastern,northeasternjuniorcollege,quinntomasino8pbb,Quinn Tomasino
+Apr 25,home,Western Nebraska,L,12-0,12,0,12,win,,,,,,,,,,,,,,,,,,,,,,,2018,2017-18,div1,Northeastern,northeasternjuniorcollege,quinntomasino8pbb,Quinn Tomasino
+Apr 27,home,McCook,W,15-1,15,1,14,win,20180427_mxjg,4,1,2,1,,,1,,1,,,,,,3,1,,,,,4,2018,2017-18,div1,Northeastern,northeasternjuniorcollege,quinntomasino8pbb,Quinn Tomasino
+Apr 30,home,Western Nebraska,L,6-4,6,4,2,win,20180430_lmnd,4,0,1,,,,1,,2,,,,,,1,0,,,,,4,2018,2017-18,div1,Northeastern,northeasternjuniorcollege,quinntomasino8pbb,Quinn Tomasino
+May 2,home,McCook,W,6-2,6,2,4,win,20180502_dh1e,4,0,0,,,,1,,,,,,,,0,0,,,,,4,2018,2017-18,div1,Northeastern,northeasternjuniorcollege,quinntomasino8pbb,Quinn Tomasino
+May 2,home,McCook,L,8-4,8,4,4,win,20180502_sirh,3,0,1,,,,2,,,,,,,,1,0,,,,,3,2018,2017-18,div1,Northeastern,northeasternjuniorcollege,quinntomasino8pbb,Quinn Tomasino
+May 5,home,Trinidad State,W,6-5,6,5,1,win,20180505_e0xf,4,0,1,,,,1,,1,,,,,,1,0,,,,,4,2018,2017-18,div1,Northeastern,northeasternjuniorcollege,quinntomasino8pbb,Quinn Tomasino
+May 5,home,Trinidad State,L,4-2,4,2,2,win,20180505_2uao,3,1,2,,,1,1,,1,,,,,,5,1,,,,,3,2018,2017-18,div1,Northeastern,northeasternjuniorcollege,quinntomasino8pbb,Quinn Tomasino
+May 6,home,Trinidad State,W,5-0,5,0,5,win,20180506_hi4a,5,1,1,,,,1,,1,,,,,,1,0,,,,,5,2018,2017-18,div1,Northeastern,northeasternjuniorcollege,quinntomasino8pbb,Quinn Tomasino
+May 10,home,Lamar,W,7-2,7,2,5,win,,,,,,,,,,,,,,,,,,,,,,,2018,2017-18,div1,Northeastern,northeasternjuniorcollege,quinntomasino8pbb,Quinn Tomasino
+May 11,home,Trinidad State,L,9-3,9,3,6,win,,,,,,,,,,,,,,,,,,,,,,,2018,2017-18,div1,Northeastern,northeasternjuniorcollege,quinntomasino8pbb,Quinn Tomasino
+May 11,home,Lamar,L,10-0,10,0,10,win,,,,,,,,,,,,,,,,,,,,,,,2018,2017-18,div1,Northeastern,northeasternjuniorcollege,quinntomasino8pbb,Quinn Tomasino

@@ -1,73 +1,71 @@
-date,location,opponent,result,score,team_score,opp_score,game_score_diff_x,game_win_loss_x,game_id_x,AB,R,H,2B,3B,HR,RBI,BB,K,SB,CS,game_score_diff_y,game_win_loss_y,game_id_y,HBP,SF,SH,TB,XBH,HDP,GO,FO,GO/FO,PA,season,njcaa_season,njcaa_division,team,team_id,player_id,player_name
-Feb 2,home,Snead State,L,3-2,3,2,1.0,win,20180202_kuv9,3,0,0,,,,0,,2,,,1.0,win,20180202_kuv9,,,,0,0,,,,,3,2018,2017-18,div1,Mineral Area,mineralareacollege,trentpobst6upm,Trent Pobst
-Feb 2,home,Snead State,L,2-0,2,0,2.0,win,20180202_tovh,3,0,0,,,,0,1,2,,,2.0,win,20180202_tovh,,,,0,0,,,,,4,2018,2017-18,div1,Mineral Area,mineralareacollege,trentpobst6upm,Trent Pobst
-Feb 3,home,Wallace State,L,6-3,6,3,3.0,win,20180203_0qyi,3,0,0,,,,0,,2,,,3.0,win,20180203_0qyi,,,,0,0,,,,,3,2018,2017-18,div1,Mineral Area,mineralareacollege,trentpobst6upm,Trent Pobst
-Feb 10,home,Southwest Mississippi,,,,,3.0,win,,,,,,,,,,,,,3.0,win,,,,,,,,,,,,2018,2017-18,div1,Mineral Area,mineralareacollege,trentpobst6upm,Trent Pobst
-Feb 10,home,Southwest Mississippi,,,,,3.0,win,,,,,,,,,,,,,3.0,win,,,,,,,,,,,,2018,2017-18,div1,Mineral Area,mineralareacollege,trentpobst6upm,Trent Pobst
-Feb 10,home,Southwest Mississippi,,,,,3.0,win,,,,,,,,,,,,,3.0,win,,,,,,,,,,,,2018,2017-18,div1,Mineral Area,mineralareacollege,trentpobst6upm,Trent Pobst
-Feb 10,home,Southwest Mississippi,,,,,3.0,win,,,,,,,,,,,,,3.0,win,,,,,,,,,,,,2018,2017-18,div1,Mineral Area,mineralareacollege,trentpobst6upm,Trent Pobst
-Feb 16,home,Mississippi Gulf Coast,L,11-0,11,0,11.0,win,20180216_0ebs,3,0,1,,,,0,,1,,,11.0,win,20180216_0ebs,,,,1,0,,,,,3,2018,2017-18,div1,Mineral Area,mineralareacollege,trentpobst6upm,Trent Pobst
-Feb 16,home,Mississippi Gulf Coast,L,14-2,14,2,12.0,win,20180216_9s64,2,0,0,,,,0,1,,,,12.0,win,20180216_9s64,,,,0,0,,,,,3,2018,2017-18,div1,Mineral Area,mineralareacollege,trentpobst6upm,Trent Pobst
-Feb 17,home,Jones,L,12-1,12,1,11.0,win,20180217_rj7s,1,1,1,,,1,1,1,,,,11.0,win,20180217_rj7s,,,,4,1,,,,,2,2018,2017-18,div1,Mineral Area,mineralareacollege,trentpobst6upm,Trent Pobst
-Feb 17,home,Jones,L,5-0,5,0,5.0,win,20180217_54ys,3,0,1,1,,,0,,,,,5.0,win,20180217_54ys,,,,2,1,,,,,3,2018,2017-18,div1,Mineral Area,mineralareacollege,trentpobst6upm,Trent Pobst
-Feb 20,home,Williams Baptist College,,,,,5.0,win,,,,,,,,,,,,,5.0,win,,,,,,,,,,,,2018,2017-18,div1,Mineral Area,mineralareacollege,trentpobst6upm,Trent Pobst
-Feb 20,home,Williams Baptist College,,,,,5.0,win,,,,,,,,,,,,,5.0,win,,,,,,,,,,,,2018,2017-18,div1,Mineral Area,mineralareacollege,trentpobst6upm,Trent Pobst
-Feb 20,home,Williams Baptist College,,,,,5.0,win,,,,,,,,,,,,,5.0,win,,,,,,,,,,,,2018,2017-18,div1,Mineral Area,mineralareacollege,trentpobst6upm,Trent Pobst
-Feb 20,home,Williams Baptist College,,,,,5.0,win,,,,,,,,,,,,,5.0,win,,,,,,,,,,,,2018,2017-18,div1,Mineral Area,mineralareacollege,trentpobst6upm,Trent Pobst
-Mar 3,home,North Central Missouri,W,7-6,7,6,1.0,win,20180303_8eq8,5,1,2,,,,0,,,2,,1.0,win,20180303_8eq8,,,,2,0,,,,,5,2018,2017-18,div1,Mineral Area,mineralareacollege,trentpobst6upm,Trent Pobst
-Mar 3,home,North Central Missouri,W,7-4,7,4,3.0,win,20180303_y1cd,3,1,1,,,,1,,1,,,3.0,win,20180303_y1cd,,,,1,0,,,,,3,2018,2017-18,div1,Mineral Area,mineralareacollege,trentpobst6upm,Trent Pobst
-Mar 4,home,North Central Missouri,W,4-2,4,2,2.0,win,20180304_mxgq,3,1,2,2,,,0,,,,,2.0,win,20180304_mxgq,,,,4,2,,,,,3,2018,2017-18,div1,Mineral Area,mineralareacollege,trentpobst6upm,Trent Pobst
-Mar 4,home,North Central Missouri,W,4-3,4,3,1.0,win,20180304_v2f0,4,1,0,,,,1,,1,,,1.0,win,20180304_v2f0,,,,0,0,,,,,4,2018,2017-18,div1,Mineral Area,mineralareacollege,trentpobst6upm,Trent Pobst
-Mar 8,home,St. Charles,W,4-2,4,2,2.0,win,20180308_kjcn,2,1,0,,,,0,2,1,,,2.0,win,20180308_kjcn,,,,0,0,,,,,4,2018,2017-18,div1,Mineral Area,mineralareacollege,trentpobst6upm,Trent Pobst
-Mar 8,home,St. Charles,W,11-2,11,2,9.0,win,20180308_kokn,4,1,2,1,,,2,1,,,,9.0,win,20180308_kokn,,,,3,1,,,,,5,2018,2017-18,div1,Mineral Area,mineralareacollege,trentpobst6upm,Trent Pobst
-Mar 10,home,St. Charles,L,8-6,8,6,2.0,win,20180310_myx4,3,0,0,,,,1,,,,,2.0,win,20180310_myx4,,1,,0,0,,,,,4,2018,2017-18,div1,Mineral Area,mineralareacollege,trentpobst6upm,Trent Pobst
-Mar 10,home,St. Charles,W,6-0,6,0,6.0,win,20180310_y0pl,5,2,3,1,,1,1,,1,1,,6.0,win,20180310_y0pl,,,,7,2,,,,,5,2018,2017-18,div1,Mineral Area,mineralareacollege,trentpobst6upm,Trent Pobst
-Mar 14,home,Central Methodist University,W,10-1,10,1,9.0,win,20180314_fn6p,2,2,0,,,,0,2,1,1,,9.0,win,20180314_fn6p,1,,,0,0,,,,,5,2018,2017-18,div1,Mineral Area,mineralareacollege,trentpobst6upm,Trent Pobst
-Mar 14,home,Central Methodist University,W,13-0,13,0,13.0,win,20180314_9srx,2,3,2,1,,1,4,1,,1,,13.0,win,20180314_9srx,,,,6,2,,,,,3,2018,2017-18,div1,Mineral Area,mineralareacollege,trentpobst6upm,Trent Pobst
-Mar 17,home,State Fair,L,4-3,4,3,1.0,win,20180317_q8hi,3,0,1,,,,0,,,,,1.0,win,20180317_q8hi,,,,1,0,,,,,3,2018,2017-18,div1,Mineral Area,mineralareacollege,trentpobst6upm,Trent Pobst
-Mar 17,home,State Fair,W,6-1,6,1,5.0,win,20180317_dc4p,4,1,1,,,,0,1,3,2,,5.0,win,20180317_dc4p,,,,1,0,,,,,5,2018,2017-18,div1,Mineral Area,mineralareacollege,trentpobst6upm,Trent Pobst
-Mar 18,home,State Fair,W,9-2,9,2,7.0,win,20180318_5sd9,4,1,0,,,,0,,2,,,7.0,win,20180318_5sd9,1,,,0,0,,,,,5,2018,2017-18,div1,Mineral Area,mineralareacollege,trentpobst6upm,Trent Pobst
-Mar 18,home,State Fair,L,8-0,8,0,8.0,win,20180318_w2cg,3,0,0,,,,0,,,,,8.0,win,20180318_w2cg,,,,0,0,,,,,3,2018,2017-18,div1,Mineral Area,mineralareacollege,trentpobst6upm,Trent Pobst
-Mar 21,home,Southwest Tennessee,L,7-3,7,3,4.0,win,20180321_gxau,3,0,0,,,,0,,1,2,,4.0,win,20180321_gxau,,,,0,0,,,,,3,2018,2017-18,div1,Mineral Area,mineralareacollege,trentpobst6upm,Trent Pobst
-Mar 21,home,Southwest Tennessee,L,10-4,10,4,6.0,win,20180321_ough,2,0,0,,,,0,,1,,,6.0,win,20180321_ough,,,,0,0,,,,,2,2018,2017-18,div1,Mineral Area,mineralareacollege,trentpobst6upm,Trent Pobst
-Mar 24,home,North Arkansas,W,10-7,10,7,3.0,win,20180324_vqk4,4,2,1,,,1,1,,1,2,,3.0,win,20180324_vqk4,,,,4,1,,,,,4,2018,2017-18,div1,Mineral Area,mineralareacollege,trentpobst6upm,Trent Pobst
-Mar 24,home,North Arkansas,W,14-3,14,3,11.0,win,20180324_t909,2,3,0,,,,1,2,,3,,11.0,win,20180324_t909,,,,0,0,,,,,4,2018,2017-18,div1,Mineral Area,mineralareacollege,trentpobst6upm,Trent Pobst
-Mar 26,home,Hannibal Lagrange,,,,,11.0,win,,,,,,,,,,,,,11.0,win,,,,,,,,,,,,2018,2017-18,div1,Mineral Area,mineralareacollege,trentpobst6upm,Trent Pobst
-Mar 26,home,Hannibal Lagrange,,,,,11.0,win,,,,,,,,,,,,,11.0,win,,,,,,,,,,,,2018,2017-18,div1,Mineral Area,mineralareacollege,trentpobst6upm,Trent Pobst
-Mar 26,home,Hannibal Lagrange,,,,,11.0,win,,,,,,,,,,,,,11.0,win,,,,,,,,,,,,2018,2017-18,div1,Mineral Area,mineralareacollege,trentpobst6upm,Trent Pobst
-Mar 26,home,Hannibal Lagrange,,,,,11.0,win,,,,,,,,,,,,,11.0,win,,,,,,,,,,,,2018,2017-18,div1,Mineral Area,mineralareacollege,trentpobst6upm,Trent Pobst
-Mar 29,home,Crowder,L,10-9,10,9,1.0,win,20180329_ipeo,4,1,0,,,,0,1,1,1,,1.0,win,20180329_ipeo,,,,0,0,,,,,5,2018,2017-18,div1,Mineral Area,mineralareacollege,trentpobst6upm,Trent Pobst
-Mar 30,home,Crowder,L,17-0,17,0,17.0,win,20180330_n2v0,2,0,0,,,,0,,2,,,17.0,win,20180330_n2v0,,,,0,0,,,,,2,2018,2017-18,div1,Mineral Area,mineralareacollege,trentpobst6upm,Trent Pobst
-Mar 30,home,Crowder,L,17-4,17,4,13.0,win,20180330_56sj,3,0,0,,,,0,,2,,,13.0,win,20180330_56sj,,,,0,0,,,,,3,2018,2017-18,div1,Mineral Area,mineralareacollege,trentpobst6upm,Trent Pobst
-Mar 31,home,Crowder,W,11-1,11,1,10.0,win,20180331_yg8u,3,1,1,,,1,2,,1,,,10.0,win,20180331_yg8u,,,,4,1,,,,,3,2018,2017-18,div1,Mineral Area,mineralareacollege,trentpobst6upm,Trent Pobst
-Apr 2,home,Hannibal Lagrange,,,,,10.0,win,,,,,,,,,,,,,10.0,win,,,,,,,,,,,,2018,2017-18,div1,Mineral Area,mineralareacollege,trentpobst6upm,Trent Pobst
-Apr 2,home,Hannibal Lagrange,,,,,10.0,win,,,,,,,,,,,,,10.0,win,,,,,,,,,,,,2018,2017-18,div1,Mineral Area,mineralareacollege,trentpobst6upm,Trent Pobst
-Apr 2,home,Hannibal Lagrange,,,,,10.0,win,,,,,,,,,,,,,10.0,win,,,,,,,,,,,,2018,2017-18,div1,Mineral Area,mineralareacollege,trentpobst6upm,Trent Pobst
-Apr 2,home,Hannibal Lagrange,,,,,10.0,win,,,,,,,,,,,,,10.0,win,,,,,,,,,,,,2018,2017-18,div1,Mineral Area,mineralareacollege,trentpobst6upm,Trent Pobst
-Apr 7,home,MCC-Maple Woods,L,7-6,7,6,1.0,win,20180407_eral,3,1,1,,,1,1,,2,,,1.0,win,20180407_eral,,,,4,1,,,,,3,2018,2017-18,div1,Mineral Area,mineralareacollege,trentpobst6upm,Trent Pobst
-Apr 7,home,MCC-Maple Woods,W,6-3,6,3,3.0,win,20180407_jg5f,3,2,1,,,,0,1,1,1,,3.0,win,20180407_jg5f,,,,1,0,,,,,4,2018,2017-18,div1,Mineral Area,mineralareacollege,trentpobst6upm,Trent Pobst
-Apr 8,home,MCC-Maple Woods,,,,,3.0,win,,,,,,,,,,,,,3.0,win,,,,,,,,,,,,2018,2017-18,div1,Mineral Area,mineralareacollege,trentpobst6upm,Trent Pobst
-Apr 8,home,MCC-Maple Woods,,,,,3.0,win,,,,,,,,,,,,,3.0,win,,,,,,,,,,,,2018,2017-18,div1,Mineral Area,mineralareacollege,trentpobst6upm,Trent Pobst
-Apr 8,home,MCC-Maple Woods,,,,,3.0,win,,,,,,,,,,,,,3.0,win,,,,,,,,,,,,2018,2017-18,div1,Mineral Area,mineralareacollege,trentpobst6upm,Trent Pobst
-Apr 8,home,MCC-Maple Woods,,,,,3.0,win,,,,,,,,,,,,,3.0,win,,,,,,,,,,,,2018,2017-18,div1,Mineral Area,mineralareacollege,trentpobst6upm,Trent Pobst
-Apr 12,home,St. Louis,W,8-4,8,4,4.0,win,20180412_vmy9,3,2,1,,,,1,,1,,,4.0,win,20180412_vmy9,1,,,1,0,,,1,,4,2018,2017-18,div1,Mineral Area,mineralareacollege,trentpobst6upm,Trent Pobst
-Apr 12,home,St. Louis,W,8-6,8,6,2.0,win,20180412_7t2g,5,1,1,,,,2,,2,,,2.0,win,20180412_7t2g,,,,1,0,,2,,,5,2018,2017-18,div1,Mineral Area,mineralareacollege,trentpobst6upm,Trent Pobst
-Apr 14,home,St. Louis,W,7-2,7,2,5.0,win,20180414_9g5x,2,0,0,,,,0,2,1,,,5.0,win,20180414_9g5x,,,,0,0,,,,,4,2018,2017-18,div1,Mineral Area,mineralareacollege,trentpobst6upm,Trent Pobst
-Apr 14,home,St. Louis,W,12-6,12,6,6.0,win,20180414_prc9,5,0,2,1,,,1,,1,1,,6.0,win,20180414_prc9,,,,3,1,,,,,5,2018,2017-18,div1,Mineral Area,mineralareacollege,trentpobst6upm,Trent Pobst
-Apr 16,home,Central Methodist,W,7-3,7,3,4.0,win,20180416_n10v,4,2,2,,,1,1,,2,,,4.0,win,20180416_n10v,,,,5,1,,,,,4,2018,2017-18,div1,Mineral Area,mineralareacollege,trentpobst6upm,Trent Pobst
-Apr 16,home,Central Methodist,W,17-4,17,4,13.0,win,20180416_3jot,4,2,3,,,,1,1,1,2,,13.0,win,20180416_3jot,,,,3,0,,,,,5,2018,2017-18,div1,Mineral Area,mineralareacollege,trentpobst6upm,Trent Pobst
-Apr 19,home,Jefferson (MO),W,7-5,7,5,2.0,win,20180419_73oq,4,0,1,,,,0,,1,,,2.0,win,20180419_73oq,,,,1,0,,,,,4,2018,2017-18,div1,Mineral Area,mineralareacollege,trentpobst6upm,Trent Pobst
-Apr 19,home,Jefferson (MO),L,4-2,4,2,2.0,win,20180419_onf0,4,0,1,,,,0,,1,2,,2.0,win,20180419_onf0,,,,1,0,,,,,4,2018,2017-18,div1,Mineral Area,mineralareacollege,trentpobst6upm,Trent Pobst
-Apr 21,home,Jefferson (MO),L,14-1,14,1,13.0,win,20180421_98qb,3,0,0,,,,0,,1,,,13.0,win,20180421_98qb,,,,0,0,,,,,3,2018,2017-18,div1,Mineral Area,mineralareacollege,trentpobst6upm,Trent Pobst
-Apr 21,home,Jefferson (MO),L,5-2,5,2,3.0,win,20180421_oi0m,4,0,2,,,,0,,1,1,,3.0,win,20180421_oi0m,,,,2,0,,,,,4,2018,2017-18,div1,Mineral Area,mineralareacollege,trentpobst6upm,Trent Pobst
-Apr 27,home,Three Rivers,L,14-3,14,3,11.0,win,20180427_nj0t,4,0,2,,,,0,,2,,,11.0,win,20180427_nj0t,,,,2,0,,,,,4,2018,2017-18,div1,Mineral Area,mineralareacollege,trentpobst6upm,Trent Pobst
-Apr 27,home,Three Rivers,W,9-6,9,6,3.0,win,20180427_v27h,2,0,0,,,,0,,1,,,3.0,win,20180427_v27h,,,,0,0,,,,,2,2018,2017-18,div1,Mineral Area,mineralareacollege,trentpobst6upm,Trent Pobst
-Apr 28,home,Three Rivers,W,2-1,2,1,1.0,win,20180428_jsds,3,0,0,,,,0,,,,,1.0,win,20180428_jsds,,,,0,0,,,,,3,2018,2017-18,div1,Mineral Area,mineralareacollege,trentpobst6upm,Trent Pobst
-Apr 28,home,Three Rivers,W,2-1,2,1,1.0,win,20180428_jsds,3,0,0,,,,0,,,,,1.0,win,20180428_pe0b,,,,0,0,,,,,4,2018,2017-18,div1,Mineral Area,mineralareacollege,trentpobst6upm,Trent Pobst
-Apr 28,home,Three Rivers,W,2-1,2,1,1.0,win,20180428_pe0b,4,0,0,,,,0,,3,2,,1.0,win,20180428_jsds,,,,0,0,,,,,3,2018,2017-18,div1,Mineral Area,mineralareacollege,trentpobst6upm,Trent Pobst
-Apr 28,home,Three Rivers,W,2-1,2,1,1.0,win,20180428_pe0b,4,0,0,,,,0,,3,2,,1.0,win,20180428_pe0b,,,,0,0,,,,,4,2018,2017-18,div1,Mineral Area,mineralareacollege,trentpobst6upm,Trent Pobst
-Apr 30,home,John A. Logan,L,10-9,10,9,1.0,win,20180430_4lxr,3,3,2,1,,1,1,2,,,,1.0,win,20180430_4lxr,,,,6,2,,,,,5,2018,2017-18,div1,Mineral Area,mineralareacollege,trentpobst6upm,Trent Pobst
-May 5,home,MCC-Maple Woods,W,9-6,9,6,3.0,win,20180505_igg2,4,2,2,1,,1,1,,,,,3.0,win,20180505_igg2,,,,6,2,,,,,4,2018,2017-18,div1,Mineral Area,mineralareacollege,trentpobst6upm,Trent Pobst
-May 5,home,MCC-Maple Woods,W,18-4,18,4,14.0,win,20180505_n0ah,5,1,2,1,,1,4,,1,1,,14.0,win,20180505_n0ah,,,,6,2,,,,,5,2018,2017-18,div1,Mineral Area,mineralareacollege,trentpobst6upm,Trent Pobst
-May 10,home,Jefferson (MO),L,8-2,8,2,6.0,win,20180510_oeyv,4,1,3,,,1,1,,1,,,6.0,win,20180510_oeyv,,,,6,1,,,,,4,2018,2017-18,div1,Mineral Area,mineralareacollege,trentpobst6upm,Trent Pobst
-May 11,home,Crowder,L,10-1,10,1,9.0,win,20180511_eqhq,3,0,0,,,,0,,3,,,9.0,win,20180511_eqhq,,,,0,0,,,,,3,2018,2017-18,div1,Mineral Area,mineralareacollege,trentpobst6upm,Trent Pobst
+date,location,opponent,result,score,team_score,opp_score,game_score_diff,game_win_loss,game_id,AB,R,H,2B,3B,HR,RBI,BB,K,SB,CS,HBP,SF,SH,TB,XBH,HDP,GO,FO,GO/FO,PA,season,njcaa_season,njcaa_division,team,team_id,player_id,player_name
+Feb 2,home,Snead State,L,3-2,3,2,1.0,win,20180202_kuv9,3,0,0,,,,0,,2,,,,,,0,0,,,,,3,2018,2017-18,div1,Mineral Area,mineralareacollege,trentpobst6upm,Trent Pobst
+Feb 2,home,Snead State,L,2-0,2,0,2.0,win,20180202_tovh,3,0,0,,,,0,1,2,,,,,,0,0,,,,,4,2018,2017-18,div1,Mineral Area,mineralareacollege,trentpobst6upm,Trent Pobst
+Feb 3,home,Wallace State,L,6-3,6,3,3.0,win,20180203_0qyi,3,0,0,,,,0,,2,,,,,,0,0,,,,,3,2018,2017-18,div1,Mineral Area,mineralareacollege,trentpobst6upm,Trent Pobst
+Feb 10,home,Southwest Mississippi,,,,,3.0,win,,,,,,,,,,,,,,,,,,,,,,,2018,2017-18,div1,Mineral Area,mineralareacollege,trentpobst6upm,Trent Pobst
+Feb 10,home,Southwest Mississippi,,,,,3.0,win,,,,,,,,,,,,,,,,,,,,,,,2018,2017-18,div1,Mineral Area,mineralareacollege,trentpobst6upm,Trent Pobst
+Feb 10,home,Southwest Mississippi,,,,,3.0,win,,,,,,,,,,,,,,,,,,,,,,,2018,2017-18,div1,Mineral Area,mineralareacollege,trentpobst6upm,Trent Pobst
+Feb 10,home,Southwest Mississippi,,,,,3.0,win,,,,,,,,,,,,,,,,,,,,,,,2018,2017-18,div1,Mineral Area,mineralareacollege,trentpobst6upm,Trent Pobst
+Feb 16,home,Mississippi Gulf Coast,L,11-0,11,0,11.0,win,20180216_0ebs,3,0,1,,,,0,,1,,,,,,1,0,,,,,3,2018,2017-18,div1,Mineral Area,mineralareacollege,trentpobst6upm,Trent Pobst
+Feb 16,home,Mississippi Gulf Coast,L,14-2,14,2,12.0,win,20180216_9s64,2,0,0,,,,0,1,,,,,,,0,0,,,,,3,2018,2017-18,div1,Mineral Area,mineralareacollege,trentpobst6upm,Trent Pobst
+Feb 17,home,Jones,L,12-1,12,1,11.0,win,20180217_rj7s,1,1,1,,,1,1,1,,,,,,,4,1,,,,,2,2018,2017-18,div1,Mineral Area,mineralareacollege,trentpobst6upm,Trent Pobst
+Feb 17,home,Jones,L,5-0,5,0,5.0,win,20180217_54ys,3,0,1,1,,,0,,,,,,,,2,1,,,,,3,2018,2017-18,div1,Mineral Area,mineralareacollege,trentpobst6upm,Trent Pobst
+Feb 20,home,Williams Baptist College,,,,,5.0,win,,,,,,,,,,,,,,,,,,,,,,,2018,2017-18,div1,Mineral Area,mineralareacollege,trentpobst6upm,Trent Pobst
+Feb 20,home,Williams Baptist College,,,,,5.0,win,,,,,,,,,,,,,,,,,,,,,,,2018,2017-18,div1,Mineral Area,mineralareacollege,trentpobst6upm,Trent Pobst
+Feb 20,home,Williams Baptist College,,,,,5.0,win,,,,,,,,,,,,,,,,,,,,,,,2018,2017-18,div1,Mineral Area,mineralareacollege,trentpobst6upm,Trent Pobst
+Feb 20,home,Williams Baptist College,,,,,5.0,win,,,,,,,,,,,,,,,,,,,,,,,2018,2017-18,div1,Mineral Area,mineralareacollege,trentpobst6upm,Trent Pobst
+Mar 3,home,North Central Missouri,W,7-6,7,6,1.0,win,20180303_8eq8,5,1,2,,,,0,,,2,,,,,2,0,,,,,5,2018,2017-18,div1,Mineral Area,mineralareacollege,trentpobst6upm,Trent Pobst
+Mar 3,home,North Central Missouri,W,7-4,7,4,3.0,win,20180303_y1cd,3,1,1,,,,1,,1,,,,,,1,0,,,,,3,2018,2017-18,div1,Mineral Area,mineralareacollege,trentpobst6upm,Trent Pobst
+Mar 4,home,North Central Missouri,W,4-2,4,2,2.0,win,20180304_mxgq,3,1,2,2,,,0,,,,,,,,4,2,,,,,3,2018,2017-18,div1,Mineral Area,mineralareacollege,trentpobst6upm,Trent Pobst
+Mar 4,home,North Central Missouri,W,4-3,4,3,1.0,win,20180304_v2f0,4,1,0,,,,1,,1,,,,,,0,0,,,,,4,2018,2017-18,div1,Mineral Area,mineralareacollege,trentpobst6upm,Trent Pobst
+Mar 8,home,St. Charles,W,4-2,4,2,2.0,win,20180308_kjcn,2,1,0,,,,0,2,1,,,,,,0,0,,,,,4,2018,2017-18,div1,Mineral Area,mineralareacollege,trentpobst6upm,Trent Pobst
+Mar 8,home,St. Charles,W,11-2,11,2,9.0,win,20180308_kokn,4,1,2,1,,,2,1,,,,,,,3,1,,,,,5,2018,2017-18,div1,Mineral Area,mineralareacollege,trentpobst6upm,Trent Pobst
+Mar 10,home,St. Charles,L,8-6,8,6,2.0,win,20180310_myx4,3,0,0,,,,1,,,,,,1,,0,0,,,,,4,2018,2017-18,div1,Mineral Area,mineralareacollege,trentpobst6upm,Trent Pobst
+Mar 10,home,St. Charles,W,6-0,6,0,6.0,win,20180310_y0pl,5,2,3,1,,1,1,,1,1,,,,,7,2,,,,,5,2018,2017-18,div1,Mineral Area,mineralareacollege,trentpobst6upm,Trent Pobst
+Mar 14,home,Central Methodist University,W,10-1,10,1,9.0,win,20180314_fn6p,2,2,0,,,,0,2,1,1,,1,,,0,0,,,,,5,2018,2017-18,div1,Mineral Area,mineralareacollege,trentpobst6upm,Trent Pobst
+Mar 14,home,Central Methodist University,W,13-0,13,0,13.0,win,20180314_9srx,2,3,2,1,,1,4,1,,1,,,,,6,2,,,,,3,2018,2017-18,div1,Mineral Area,mineralareacollege,trentpobst6upm,Trent Pobst
+Mar 17,home,State Fair,L,4-3,4,3,1.0,win,20180317_q8hi,3,0,1,,,,0,,,,,,,,1,0,,,,,3,2018,2017-18,div1,Mineral Area,mineralareacollege,trentpobst6upm,Trent Pobst
+Mar 17,home,State Fair,W,6-1,6,1,5.0,win,20180317_dc4p,4,1,1,,,,0,1,3,2,,,,,1,0,,,,,5,2018,2017-18,div1,Mineral Area,mineralareacollege,trentpobst6upm,Trent Pobst
+Mar 18,home,State Fair,W,9-2,9,2,7.0,win,20180318_5sd9,4,1,0,,,,0,,2,,,1,,,0,0,,,,,5,2018,2017-18,div1,Mineral Area,mineralareacollege,trentpobst6upm,Trent Pobst
+Mar 18,home,State Fair,L,8-0,8,0,8.0,win,20180318_w2cg,3,0,0,,,,0,,,,,,,,0,0,,,,,3,2018,2017-18,div1,Mineral Area,mineralareacollege,trentpobst6upm,Trent Pobst
+Mar 21,home,Southwest Tennessee,L,7-3,7,3,4.0,win,20180321_gxau,3,0,0,,,,0,,1,2,,,,,0,0,,,,,3,2018,2017-18,div1,Mineral Area,mineralareacollege,trentpobst6upm,Trent Pobst
+Mar 21,home,Southwest Tennessee,L,10-4,10,4,6.0,win,20180321_ough,2,0,0,,,,0,,1,,,,,,0,0,,,,,2,2018,2017-18,div1,Mineral Area,mineralareacollege,trentpobst6upm,Trent Pobst
+Mar 24,home,North Arkansas,W,10-7,10,7,3.0,win,20180324_vqk4,4,2,1,,,1,1,,1,2,,,,,4,1,,,,,4,2018,2017-18,div1,Mineral Area,mineralareacollege,trentpobst6upm,Trent Pobst
+Mar 24,home,North Arkansas,W,14-3,14,3,11.0,win,20180324_t909,2,3,0,,,,1,2,,3,,,,,0,0,,,,,4,2018,2017-18,div1,Mineral Area,mineralareacollege,trentpobst6upm,Trent Pobst
+Mar 26,home,Hannibal Lagrange,,,,,11.0,win,,,,,,,,,,,,,,,,,,,,,,,2018,2017-18,div1,Mineral Area,mineralareacollege,trentpobst6upm,Trent Pobst
+Mar 26,home,Hannibal Lagrange,,,,,11.0,win,,,,,,,,,,,,,,,,,,,,,,,2018,2017-18,div1,Mineral Area,mineralareacollege,trentpobst6upm,Trent Pobst
+Mar 26,home,Hannibal Lagrange,,,,,11.0,win,,,,,,,,,,,,,,,,,,,,,,,2018,2017-18,div1,Mineral Area,mineralareacollege,trentpobst6upm,Trent Pobst
+Mar 26,home,Hannibal Lagrange,,,,,11.0,win,,,,,,,,,,,,,,,,,,,,,,,2018,2017-18,div1,Mineral Area,mineralareacollege,trentpobst6upm,Trent Pobst
+Mar 29,home,Crowder,L,10-9,10,9,1.0,win,20180329_ipeo,4,1,0,,,,0,1,1,1,,,,,0,0,,,,,5,2018,2017-18,div1,Mineral Area,mineralareacollege,trentpobst6upm,Trent Pobst
+Mar 30,home,Crowder,L,17-0,17,0,17.0,win,20180330_n2v0,2,0,0,,,,0,,2,,,,,,0,0,,,,,2,2018,2017-18,div1,Mineral Area,mineralareacollege,trentpobst6upm,Trent Pobst
+Mar 30,home,Crowder,L,17-4,17,4,13.0,win,20180330_56sj,3,0,0,,,,0,,2,,,,,,0,0,,,,,3,2018,2017-18,div1,Mineral Area,mineralareacollege,trentpobst6upm,Trent Pobst
+Mar 31,home,Crowder,W,11-1,11,1,10.0,win,20180331_yg8u,3,1,1,,,1,2,,1,,,,,,4,1,,,,,3,2018,2017-18,div1,Mineral Area,mineralareacollege,trentpobst6upm,Trent Pobst
+Apr 2,home,Hannibal Lagrange,,,,,10.0,win,,,,,,,,,,,,,,,,,,,,,,,2018,2017-18,div1,Mineral Area,mineralareacollege,trentpobst6upm,Trent Pobst
+Apr 2,home,Hannibal Lagrange,,,,,10.0,win,,,,,,,,,,,,,,,,,,,,,,,2018,2017-18,div1,Mineral Area,mineralareacollege,trentpobst6upm,Trent Pobst
+Apr 2,home,Hannibal Lagrange,,,,,10.0,win,,,,,,,,,,,,,,,,,,,,,,,2018,2017-18,div1,Mineral Area,mineralareacollege,trentpobst6upm,Trent Pobst
+Apr 2,home,Hannibal Lagrange,,,,,10.0,win,,,,,,,,,,,,,,,,,,,,,,,2018,2017-18,div1,Mineral Area,mineralareacollege,trentpobst6upm,Trent Pobst
+Apr 7,home,MCC-Maple Woods,L,7-6,7,6,1.0,win,20180407_eral,3,1,1,,,1,1,,2,,,,,,4,1,,,,,3,2018,2017-18,div1,Mineral Area,mineralareacollege,trentpobst6upm,Trent Pobst
+Apr 7,home,MCC-Maple Woods,W,6-3,6,3,3.0,win,20180407_jg5f,3,2,1,,,,0,1,1,1,,,,,1,0,,,,,4,2018,2017-18,div1,Mineral Area,mineralareacollege,trentpobst6upm,Trent Pobst
+Apr 8,home,MCC-Maple Woods,,,,,3.0,win,,,,,,,,,,,,,,,,,,,,,,,2018,2017-18,div1,Mineral Area,mineralareacollege,trentpobst6upm,Trent Pobst
+Apr 8,home,MCC-Maple Woods,,,,,3.0,win,,,,,,,,,,,,,,,,,,,,,,,2018,2017-18,div1,Mineral Area,mineralareacollege,trentpobst6upm,Trent Pobst
+Apr 8,home,MCC-Maple Woods,,,,,3.0,win,,,,,,,,,,,,,,,,,,,,,,,2018,2017-18,div1,Mineral Area,mineralareacollege,trentpobst6upm,Trent Pobst
+Apr 8,home,MCC-Maple Woods,,,,,3.0,win,,,,,,,,,,,,,,,,,,,,,,,2018,2017-18,div1,Mineral Area,mineralareacollege,trentpobst6upm,Trent Pobst
+Apr 12,home,St. Louis,W,8-4,8,4,4.0,win,20180412_vmy9,3,2,1,,,,1,,1,,,1,,,1,0,,,1,,4,2018,2017-18,div1,Mineral Area,mineralareacollege,trentpobst6upm,Trent Pobst
+Apr 12,home,St. Louis,W,8-6,8,6,2.0,win,20180412_7t2g,5,1,1,,,,2,,2,,,,,,1,0,,2,,,5,2018,2017-18,div1,Mineral Area,mineralareacollege,trentpobst6upm,Trent Pobst
+Apr 14,home,St. Louis,W,7-2,7,2,5.0,win,20180414_9g5x,2,0,0,,,,0,2,1,,,,,,0,0,,,,,4,2018,2017-18,div1,Mineral Area,mineralareacollege,trentpobst6upm,Trent Pobst
+Apr 14,home,St. Louis,W,12-6,12,6,6.0,win,20180414_prc9,5,0,2,1,,,1,,1,1,,,,,3,1,,,,,5,2018,2017-18,div1,Mineral Area,mineralareacollege,trentpobst6upm,Trent Pobst
+Apr 16,home,Central Methodist,W,7-3,7,3,4.0,win,20180416_n10v,4,2,2,,,1,1,,2,,,,,,5,1,,,,,4,2018,2017-18,div1,Mineral Area,mineralareacollege,trentpobst6upm,Trent Pobst
+Apr 16,home,Central Methodist,W,17-4,17,4,13.0,win,20180416_3jot,4,2,3,,,,1,1,1,2,,,,,3,0,,,,,5,2018,2017-18,div1,Mineral Area,mineralareacollege,trentpobst6upm,Trent Pobst
+Apr 19,home,Jefferson (MO),W,7-5,7,5,2.0,win,20180419_73oq,4,0,1,,,,0,,1,,,,,,1,0,,,,,4,2018,2017-18,div1,Mineral Area,mineralareacollege,trentpobst6upm,Trent Pobst
+Apr 19,home,Jefferson (MO),L,4-2,4,2,2.0,win,20180419_onf0,4,0,1,,,,0,,1,2,,,,,1,0,,,,,4,2018,2017-18,div1,Mineral Area,mineralareacollege,trentpobst6upm,Trent Pobst
+Apr 21,home,Jefferson (MO),L,14-1,14,1,13.0,win,20180421_98qb,3,0,0,,,,0,,1,,,,,,0,0,,,,,3,2018,2017-18,div1,Mineral Area,mineralareacollege,trentpobst6upm,Trent Pobst
+Apr 21,home,Jefferson (MO),L,5-2,5,2,3.0,win,20180421_oi0m,4,0,2,,,,0,,1,1,,,,,2,0,,,,,4,2018,2017-18,div1,Mineral Area,mineralareacollege,trentpobst6upm,Trent Pobst
+Apr 27,home,Three Rivers,L,14-3,14,3,11.0,win,20180427_nj0t,4,0,2,,,,0,,2,,,,,,2,0,,,,,4,2018,2017-18,div1,Mineral Area,mineralareacollege,trentpobst6upm,Trent Pobst
+Apr 27,home,Three Rivers,W,9-6,9,6,3.0,win,20180427_v27h,2,0,0,,,,0,,1,,,,,,0,0,,,,,2,2018,2017-18,div1,Mineral Area,mineralareacollege,trentpobst6upm,Trent Pobst
+Apr 28,home,Three Rivers,W,2-1,2,1,1.0,win,20180428_jsds,3,0,0,,,,0,,,,,,,,0,0,,,,,3,2018,2017-18,div1,Mineral Area,mineralareacollege,trentpobst6upm,Trent Pobst
+Apr 28,home,Three Rivers,W,2-1,2,1,1.0,win,20180428_pe0b,4,0,0,,,,0,,3,2,,,,,0,0,,,,,4,2018,2017-18,div1,Mineral Area,mineralareacollege,trentpobst6upm,Trent Pobst
+Apr 30,home,John A. Logan,L,10-9,10,9,1.0,win,20180430_4lxr,3,3,2,1,,1,1,2,,,,,,,6,2,,,,,5,2018,2017-18,div1,Mineral Area,mineralareacollege,trentpobst6upm,Trent Pobst
+May 5,home,MCC-Maple Woods,W,9-6,9,6,3.0,win,20180505_igg2,4,2,2,1,,1,1,,,,,,,,6,2,,,,,4,2018,2017-18,div1,Mineral Area,mineralareacollege,trentpobst6upm,Trent Pobst
+May 5,home,MCC-Maple Woods,W,18-4,18,4,14.0,win,20180505_n0ah,5,1,2,1,,1,4,,1,1,,,,,6,2,,,,,5,2018,2017-18,div1,Mineral Area,mineralareacollege,trentpobst6upm,Trent Pobst
+May 10,home,Jefferson (MO),L,8-2,8,2,6.0,win,20180510_oeyv,4,1,3,,,1,1,,1,,,,,,6,1,,,,,4,2018,2017-18,div1,Mineral Area,mineralareacollege,trentpobst6upm,Trent Pobst
+May 11,home,Crowder,L,10-1,10,1,9.0,win,20180511_eqhq,3,0,0,,,,0,,3,,,,,,0,0,,,,,3,2018,2017-18,div1,Mineral Area,mineralareacollege,trentpobst6upm,Trent Pobst

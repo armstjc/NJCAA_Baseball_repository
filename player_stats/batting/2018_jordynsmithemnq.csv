@@ -1,38 +1,64 @@
-date,location,opponent,result,score,team_score,opp_score,game_score_diff_x,game_win_loss_x,game_id_x,AB,R,H,2B,3B,HR,RBI,BB,K,SB,CS,game_score_diff_y,game_win_loss_y,game_id_y,HBP,SF,SH,TB,XBH,HDP,GO,FO,GO/FO,PA,season,njcaa_season,njcaa_division,team,team_id,player_id,player_name
-Feb 25,home,Mercer County,W,14-0,14,0,14.0,win,20180225_w9si,4,0,1,,,,2,,2,,,14.0,win,20180225_w9si,,,,1,0,,1,,,4,2018,2017-18,div1,Harford,harfordcommunitycollege,jordynsmithemnq,Jordyn Smith
-Feb 25,home,Mercer County,W,7-5,7,5,2.0,win,,,,,,,,,,,,,2.0,win,,,,,,,,,,,,2018,2017-18,div1,Harford,harfordcommunitycollege,jordynsmithemnq,Jordyn Smith
-Feb 27,home,Monroe College,L,3-1,3,1,2.0,win,,,,,,,,,,,,,2.0,win,,,,,,,,,,,,2018,2017-18,div1,Harford,harfordcommunitycollege,jordynsmithemnq,Jordyn Smith
-Feb 27,home,Monroe College,W,12-5,12,5,7.0,win,,,,,,,,,,,,,7.0,win,,,,,,,,,,,,2018,2017-18,div1,Harford,harfordcommunitycollege,jordynsmithemnq,Jordyn Smith
-Mar 6,home,Delaware County,W,22-1,22,1,21.0,win,20180306_5qo5,0,1,0,,,,0,1,,,,21.0,win,20180306_5qo5,,,,0,0,,,,,1,2018,2017-18,div1,Harford,harfordcommunitycollege,jordynsmithemnq,Jordyn Smith
-Mar 7,home,Prince George's,,,,,21.0,win,,,,,,,,,,,,,21.0,win,,,,,,,,,,,,2018,2017-18,div1,Harford,harfordcommunitycollege,jordynsmithemnq,Jordyn Smith
-Mar 8,home,Cecil,,,,,21.0,win,,,,,,,,,,,,,21.0,win,,,,,,,,,,,,2018,2017-18,div1,Harford,harfordcommunitycollege,jordynsmithemnq,Jordyn Smith
-Mar 9,home,Penn State Mont Alto,W,16-7,16,7,9.0,win,20180309_nhgn,1,0,0,,,,0,1,1,,,9.0,win,20180309_nhgn,,,,0,0,,,,,2,2018,2017-18,div1,Harford,harfordcommunitycollege,jordynsmithemnq,Jordyn Smith
-Mar 16,home,Penn State-Schuylkill,W,12-2,12,2,10.0,win,20180316_ulr6,1,0,0,,,,0,,,,,10.0,win,20180316_ulr6,,,,0,0,,,1,,1,2018,2017-18,div1,Harford,harfordcommunitycollege,jordynsmithemnq,Jordyn Smith
-Mar 18,home,Montgomery,W,9-3,9,3,6.0,win,,,,,,,,,,,,,6.0,win,,,,,,,,,,,,2018,2017-18,div1,Harford,harfordcommunitycollege,jordynsmithemnq,Jordyn Smith
-Mar 18,home,Montgomery,W,14-1,14,1,13.0,win,,,,,,,,,,,,,13.0,win,,,,,,,,,,,,2018,2017-18,div1,Harford,harfordcommunitycollege,jordynsmithemnq,Jordyn Smith
-Mar 24,home,Frederick,W,8-1,8,1,7.0,win,,,,,,,,,,,,,7.0,win,,,,,,,,,,,,2018,2017-18,div1,Harford,harfordcommunitycollege,jordynsmithemnq,Jordyn Smith
-Mar 24,home,Frederick,W,12-0,12,0,12.0,win,20180324_vptz,2,0,0,,,,0,,1,,,12.0,win,20180324_vptz,1,,,0,0,,,1,,3,2018,2017-18,div1,Harford,harfordcommunitycollege,jordynsmithemnq,Jordyn Smith
-Mar 25,home,Erie,W,14-4,14,4,10.0,win,,,,,,,,,,,,,10.0,win,,,,,,,,,,,,2018,2017-18,div1,Harford,harfordcommunitycollege,jordynsmithemnq,Jordyn Smith
-Mar 25,home,Erie,W,16-6,16,6,10.0,win,20180325_th61,2,1,1,1,,,1,,1,,,10.0,win,20180325_th61,,,,2,1,,,,,2,2018,2017-18,div1,Harford,harfordcommunitycollege,jordynsmithemnq,Jordyn Smith
-Mar 26,home,Erie,W,10-0,10,0,10.0,win,,,,,,,,,,,,,10.0,win,,,,,,,,,,,,2018,2017-18,div1,Harford,harfordcommunitycollege,jordynsmithemnq,Jordyn Smith
-Mar 29,home,CCBC Dundalk,W,14-3,14,3,11.0,win,,,,,,,,,,,,,11.0,win,,,,,,,,,,,,2018,2017-18,div1,Harford,harfordcommunitycollege,jordynsmithemnq,Jordyn Smith
-Mar 31,home,Garrett,W,13-3,13,3,10.0,win,20180331_wccc,3,1,1,1,,,1,,1,,,10.0,win,20180331_wccc,1,,,2,1,,,1,,4,2018,2017-18,div1,Harford,harfordcommunitycollege,jordynsmithemnq,Jordyn Smith
-Mar 31,home,Garrett,W,15-0,15,0,15.0,win,,,,,,,,,,,,,15.0,win,,,,,,,,,,,,2018,2017-18,div1,Harford,harfordcommunitycollege,jordynsmithemnq,Jordyn Smith
-Apr 5,home,Cecil,W,7-6,7,6,1.0,win,,,,,,,,,,,,,1.0,win,,,,,,,,,,,,2018,2017-18,div1,Harford,harfordcommunitycollege,jordynsmithemnq,Jordyn Smith
-Apr 5,home,Cecil,W,9-2,9,2,7.0,win,20180405_yvpx,3,0,0,,,,0,1,,1,,7.0,win,20180405_yvpx,,,,0,0,,1,2,0.50,4,2018,2017-18,div1,Harford,harfordcommunitycollege,jordynsmithemnq,Jordyn Smith
-Apr 6,home,Hagerstown,W,18-6,18,6,12.0,win,,,,,,,,,,,,,12.0,win,,,,,,,,,,,,2018,2017-18,div1,Harford,harfordcommunitycollege,jordynsmithemnq,Jordyn Smith
-Apr 6,home,Hagerstown,W,19-2,19,2,17.0,win,20180406_hekz,3,1,1,,,,1,1,1,1,,17.0,win,20180406_hekz,,,,1,0,,,1,,4,2018,2017-18,div1,Harford,harfordcommunitycollege,jordynsmithemnq,Jordyn Smith
-Apr 10,home,Camden County,W,14-11,14,11,3.0,win,20180410_fgb2,0,0,0,,,,0,1,,1,,3.0,win,20180410_fgb2,,,,0,0,,,,,1,2018,2017-18,div1,Harford,harfordcommunitycollege,jordynsmithemnq,Jordyn Smith
-Apr 11,home,CCBC Essex,W,10-7,10,7,3.0,win,,,,,,,,,,,,,3.0,win,,,,,,,,,,,,2018,2017-18,div1,Harford,harfordcommunitycollege,jordynsmithemnq,Jordyn Smith
-Apr 12,home,CCBC Catonsville,L,13-7,13,7,6.0,win,20180412_als0,2,0,0,,,,0,1,1,,,6.0,win,20180412_als0,,,,0,0,,,1,,3,2018,2017-18,div1,Harford,harfordcommunitycollege,jordynsmithemnq,Jordyn Smith
-Apr 12,home,CCBC Catonsville,W,15-10,15,10,5.0,win,,,,,,,,,,,,,5.0,win,,,,,,,,,,,,2018,2017-18,div1,Harford,harfordcommunitycollege,jordynsmithemnq,Jordyn Smith
-Apr 14,home,Allegany Maryland,W,19-10,19,10,9.0,win,,,,,,,,,,,,,9.0,win,,,,,,,,,,,,2018,2017-18,div1,Harford,harfordcommunitycollege,jordynsmithemnq,Jordyn Smith
-Apr 14,home,Allegany Maryland,W,11-0,11,0,11.0,win,,,,,,,,,,,,,11.0,win,,,,,,,,,,,,2018,2017-18,div1,Harford,harfordcommunitycollege,jordynsmithemnq,Jordyn Smith
-Apr 18,home,Anne Arundel,W,19-8,19,8,11.0,win,,,,,,,,,,,,,11.0,win,,,,,,,,,,,,2018,2017-18,div1,Harford,harfordcommunitycollege,jordynsmithemnq,Jordyn Smith
-Apr 24,home,Prince George's,W,14-6,14,6,8.0,win,,,,,,,,,,,,,8.0,win,,,,,,,,,,,,2018,2017-18,div1,Harford,harfordcommunitycollege,jordynsmithemnq,Jordyn Smith
-Apr 28,home,ASA New York,W,17-15,17,15,2.0,win,,,,,,,,,,,,,2.0,win,,,,,,,,,,,,2018,2017-18,div1,Harford,harfordcommunitycollege,jordynsmithemnq,Jordyn Smith
-Apr 28,home,ASA New York,W,19-4,19,4,15.0,win,,,,,,,,,,,,,15.0,win,,,,,,,,,,,,2018,2017-18,div1,Harford,harfordcommunitycollege,jordynsmithemnq,Jordyn Smith
-May 1,home,Delaware Tech,W,11-8,11,8,3.0,win,,,,,,,,,,,,,3.0,win,,,,,,,,,,,,2018,2017-18,div1,Harford,harfordcommunitycollege,jordynsmithemnq,Jordyn Smith
-May 2,home,Brookdale,W,25-4,25,4,21.0,win,20180502_9kjt,2,2,2,,,1,2,,,,,21.0,win,20180502_9kjt,,,,5,1,,,,,2,2018,2017-18,div1,Harford,harfordcommunitycollege,jordynsmithemnq,Jordyn Smith
-May 7,home,RCSJ Gloucester,L,9-6,9,6,3.0,win,,,,,,,,,,,,,3.0,win,,,,,,,,,,,,2018,2017-18,div1,Harford,harfordcommunitycollege,jordynsmithemnq,Jordyn Smith
-May 10,home,Potomac State,W,16-8,16,8,8.0,win,,,,,,,,,,,,,8.0,win,,,,,,,,,,,,2018,2017-18,div1,Harford,harfordcommunitycollege,jordynsmithemnq,Jordyn Smith
+date,location,opponent,result,score,team_score,opp_score,game_score_diff,game_win_loss,game_id,AB,R,H,2B,3B,HR,RBI,BB,K,SB,CS,HBP,SF,SH,TB,XBH,HDP,GO,FO,GO/FO,PA,season,njcaa_season,njcaa_division,team,team_id,player_id,player_name
+Feb 17,home,USC Sumter,L,13-3,13,3,10.0,win,20180217_q3gk,2,0,0,,,,0,1,,,,,,,0,0,,,2,,3,2018,2017-18,div1,Harford,harfordcommunitycollege,jordynsmithemnq,Jordyn Smith
+Feb 17,home,USC Sumter,W,5-1,5,1,4.0,win,20180217_kwyf,4,1,1,,,,0,,1,1,,,,,1,0,,,2,,4,2018,2017-18,div1,Harford,harfordcommunitycollege,jordynsmithemnq,Jordyn Smith
+Feb 18,home,USC Sumter,W,7-5,7,5,2.0,win,,,,,,,,,,,,,,,,,,,,,,,2018,2017-18,div1,Harford,harfordcommunitycollege,jordynsmithemnq,Jordyn Smith
+Feb 18,home,USC Sumter,L,8-2,8,2,6.0,win,20180218_sgki,2,0,0,,,,0,1,,,,,,,0,0,,,2,,3,2018,2017-18,div1,Harford,harfordcommunitycollege,jordynsmithemnq,Jordyn Smith
+Feb 25,home,Mercer County,W,14-0,14,0,14.0,win,20180225_w9si,4,0,1,,,,2,,2,,,,,,1,0,,1,,,4,2018,2017-18,div1,Harford,harfordcommunitycollege,jordynsmithemnq,Jordyn Smith
+Feb 25,home,Mercer County,W,7-5,7,5,2.0,win,,,,,,,,,,,,,,,,,,,,,,,2018,2017-18,div1,Harford,harfordcommunitycollege,jordynsmithemnq,Jordyn Smith
+Feb 27,home,Monroe College,L,3-1,3,1,2.0,win,,,,,,,,,,,,,,,,,,,,,,,2018,2017-18,div1,Harford,harfordcommunitycollege,jordynsmithemnq,Jordyn Smith
+Feb 27,home,Monroe College,W,12-5,12,5,7.0,win,,,,,,,,,,,,,,,,,,,,,,,2018,2017-18,div1,Harford,harfordcommunitycollege,jordynsmithemnq,Jordyn Smith
+Mar 4,home,Bryant & Stratton (VA),L,9-8,9,8,1.0,win,20180304_awdv,1,0,0,,,,0,,1,,,,,,0,0,,,,,1,2018,2017-18,div1,Harford,harfordcommunitycollege,jordynsmithemnq,Jordyn Smith
+Mar 4,home,Bryant & Stratton (VA),W,14-3,14,3,11.0,win,,,,,,,,,,,,,,,,,,,,,,,2018,2017-18,div1,Harford,harfordcommunitycollege,jordynsmithemnq,Jordyn Smith
+Mar 6,home,Delaware County,W,22-1,22,1,21.0,win,20180306_5qo5,0,1,0,,,,0,1,,,,,,,0,0,,,,,1,2018,2017-18,div1,Harford,harfordcommunitycollege,jordynsmithemnq,Jordyn Smith
+Mar 7,home,Prince George's,,,,,21.0,win,,,,,,,,,,,,,,,,,,,,,,,2018,2017-18,div1,Harford,harfordcommunitycollege,jordynsmithemnq,Jordyn Smith
+Mar 8,home,Cecil,,,,,21.0,win,,,,,,,,,,,,,,,,,,,,,,,2018,2017-18,div1,Harford,harfordcommunitycollege,jordynsmithemnq,Jordyn Smith
+Mar 9,home,Penn State Mont Alto,W,16-7,16,7,9.0,win,20180309_nhgn,1,0,0,,,,0,1,1,,,,,,0,0,,,,,2,2018,2017-18,div1,Harford,harfordcommunitycollege,jordynsmithemnq,Jordyn Smith
+Mar 10,home,Southern Maryland,W,12-1,12,1,11.0,win,20180310_prdl,4,2,2,,,1,2,,1,,,,,,5,1,,,1,,4,2018,2017-18,div1,Harford,harfordcommunitycollege,jordynsmithemnq,Jordyn Smith
+Mar 10,home,Southern Maryland,W,15-0,15,0,15.0,win,,,,,,,,,,,,,,,,,,,,,,,2018,2017-18,div1,Harford,harfordcommunitycollege,jordynsmithemnq,Jordyn Smith
+Mar 15,home,CCBC Dundalk,L,6-1,6,1,5.0,win,,,,,,,,,,,,,,,,,,,,,,,2018,2017-18,div1,Harford,harfordcommunitycollege,jordynsmithemnq,Jordyn Smith
+Mar 16,home,Penn State-Schuylkill,W,12-2,12,2,10.0,win,20180316_ulr6,1,0,0,,,,0,,,,,,,,0,0,,,1,,1,2018,2017-18,div1,Harford,harfordcommunitycollege,jordynsmithemnq,Jordyn Smith
+Mar 18,home,Montgomery,W,9-3,9,3,6.0,win,,,,,,,,,,,,,,,,,,,,,,,2018,2017-18,div1,Harford,harfordcommunitycollege,jordynsmithemnq,Jordyn Smith
+Mar 18,home,Montgomery,W,14-1,14,1,13.0,win,,,,,,,,,,,,,,,,,,,,,,,2018,2017-18,div1,Harford,harfordcommunitycollege,jordynsmithemnq,Jordyn Smith
+Mar 24,home,Frederick,W,8-1,8,1,7.0,win,,,,,,,,,,,,,,,,,,,,,,,2018,2017-18,div1,Harford,harfordcommunitycollege,jordynsmithemnq,Jordyn Smith
+Mar 24,home,Frederick,W,12-0,12,0,12.0,win,20180324_vptz,2,0,0,,,,0,,1,,,1,,,0,0,,,1,,3,2018,2017-18,div1,Harford,harfordcommunitycollege,jordynsmithemnq,Jordyn Smith
+Mar 25,home,Erie,W,14-4,14,4,10.0,win,,,,,,,,,,,,,,,,,,,,,,,2018,2017-18,div1,Harford,harfordcommunitycollege,jordynsmithemnq,Jordyn Smith
+Mar 25,home,Erie,W,16-6,16,6,10.0,win,20180325_th61,2,1,1,1,,,1,,1,,,,,,2,1,,,,,2,2018,2017-18,div1,Harford,harfordcommunitycollege,jordynsmithemnq,Jordyn Smith
+Mar 26,home,Erie,W,10-0,10,0,10.0,win,,,,,,,,,,,,,,,,,,,,,,,2018,2017-18,div1,Harford,harfordcommunitycollege,jordynsmithemnq,Jordyn Smith
+Mar 29,home,CCBC Dundalk,W,14-3,14,3,11.0,win,,,,,,,,,,,,,,,,,,,,,,,2018,2017-18,div1,Harford,harfordcommunitycollege,jordynsmithemnq,Jordyn Smith
+Mar 30,home,Chesapeake,L,4-3,4,3,1.0,win,,,,,,,,,,,,,,,,,,,,,,,2018,2017-18,div1,Harford,harfordcommunitycollege,jordynsmithemnq,Jordyn Smith
+Mar 30,home,Chesapeake,W,11-1,11,1,10.0,win,20180330_r2b9,1,1,0,,,,0,1,,,,,,,0,0,,1,,,2,2018,2017-18,div1,Harford,harfordcommunitycollege,jordynsmithemnq,Jordyn Smith
+Mar 31,home,Garrett,W,13-3,13,3,10.0,win,20180331_wccc,3,1,1,1,,,1,,1,,,1,,,2,1,,,1,,4,2018,2017-18,div1,Harford,harfordcommunitycollege,jordynsmithemnq,Jordyn Smith
+Mar 31,home,Garrett,W,15-0,15,0,15.0,win,,,,,,,,,,,,,,,,,,,,,,,2018,2017-18,div1,Harford,harfordcommunitycollege,jordynsmithemnq,Jordyn Smith
+Apr 3,home,Prince George's,W,13-2,13,2,11.0,win,,,,,,,,,,,,,,,,,,,,,,,2018,2017-18,div1,Harford,harfordcommunitycollege,jordynsmithemnq,Jordyn Smith
+Apr 5,home,Cecil,W,7-6,7,6,1.0,win,,,,,,,,,,,,,,,,,,,,,,,2018,2017-18,div1,Harford,harfordcommunitycollege,jordynsmithemnq,Jordyn Smith
+Apr 5,home,Cecil,W,9-2,9,2,7.0,win,20180405_yvpx,3,0,0,,,,0,1,,1,,,,,0,0,,1,2,0.50,4,2018,2017-18,div1,Harford,harfordcommunitycollege,jordynsmithemnq,Jordyn Smith
+Apr 6,home,Hagerstown,W,18-6,18,6,12.0,win,,,,,,,,,,,,,,,,,,,,,,,2018,2017-18,div1,Harford,harfordcommunitycollege,jordynsmithemnq,Jordyn Smith
+Apr 6,home,Hagerstown,W,19-2,19,2,17.0,win,20180406_hekz,3,1,1,,,,1,1,1,1,,,,,1,0,,,1,,4,2018,2017-18,div1,Harford,harfordcommunitycollege,jordynsmithemnq,Jordyn Smith
+Apr 8,home,Mercer County,W,8-2,8,2,6.0,win,,,,,,,,,,,,,,,,,,,,,,,2018,2017-18,div1,Harford,harfordcommunitycollege,jordynsmithemnq,Jordyn Smith
+Apr 8,home,Mercer County,L,5-3,5,3,2.0,win,,,,,,,,,,,,,,,,,,,,,,,2018,2017-18,div1,Harford,harfordcommunitycollege,jordynsmithemnq,Jordyn Smith
+Apr 10,home,Camden County,W,14-11,14,11,3.0,win,20180410_fgb2,0,0,0,,,,0,1,,1,,,,,0,0,,,,,1,2018,2017-18,div1,Harford,harfordcommunitycollege,jordynsmithemnq,Jordyn Smith
+Apr 11,home,CCBC Essex,W,10-7,10,7,3.0,win,,,,,,,,,,,,,,,,,,,,,,,2018,2017-18,div1,Harford,harfordcommunitycollege,jordynsmithemnq,Jordyn Smith
+Apr 12,home,CCBC Catonsville,L,13-7,13,7,6.0,win,20180412_als0,2,0,0,,,,0,1,1,,,,,,0,0,,,1,,3,2018,2017-18,div1,Harford,harfordcommunitycollege,jordynsmithemnq,Jordyn Smith
+Apr 12,home,CCBC Catonsville,W,15-10,15,10,5.0,win,,,,,,,,,,,,,,,,,,,,,,,2018,2017-18,div1,Harford,harfordcommunitycollege,jordynsmithemnq,Jordyn Smith
+Apr 14,home,Allegany Maryland,W,19-10,19,10,9.0,win,,,,,,,,,,,,,,,,,,,,,,,2018,2017-18,div1,Harford,harfordcommunitycollege,jordynsmithemnq,Jordyn Smith
+Apr 14,home,Allegany Maryland,W,11-0,11,0,11.0,win,,,,,,,,,,,,,,,,,,,,,,,2018,2017-18,div1,Harford,harfordcommunitycollege,jordynsmithemnq,Jordyn Smith
+Apr 15,home,Lackawanna,W,15-0,15,0,15.0,win,,,,,,,,,,,,,,,,,,,,,,,2018,2017-18,div1,Harford,harfordcommunitycollege,jordynsmithemnq,Jordyn Smith
+Apr 15,home,Lackawanna,W,9-3,9,3,6.0,win,20180415_ir74,3,1,1,1,,,2,,1,,,,,,2,1,,,1,,3,2018,2017-18,div1,Harford,harfordcommunitycollege,jordynsmithemnq,Jordyn Smith
+Apr 18,home,Anne Arundel,W,19-8,19,8,11.0,win,,,,,,,,,,,,,,,,,,,,,,,2018,2017-18,div1,Harford,harfordcommunitycollege,jordynsmithemnq,Jordyn Smith
+Apr 19,home,CCBC Essex,W,16-2,16,2,14.0,win,20180419_3q3g,4,2,2,1,,1,3,,1,,,,,,6,2,,,1,,4,2018,2017-18,div1,Harford,harfordcommunitycollege,jordynsmithemnq,Jordyn Smith
+Apr 22,home,Potomac State,L,7-5,7,5,2.0,win,20180422_ktto,1,0,0,,,,0,,1,,,,,,0,0,,,,,1,2018,2017-18,div1,Harford,harfordcommunitycollege,jordynsmithemnq,Jordyn Smith
+Apr 22,home,Potomac State,W,3-2,3,2,1.0,win,,,,,,,,,,,,,,,,,,,,,,,2018,2017-18,div1,Harford,harfordcommunitycollege,jordynsmithemnq,Jordyn Smith
+Apr 24,home,Prince George's,W,14-6,14,6,8.0,win,,,,,,,,,,,,,,,,,,,,,,,2018,2017-18,div1,Harford,harfordcommunitycollege,jordynsmithemnq,Jordyn Smith
+Apr 26,home,RCSJ Gloucester,L,8-5,8,5,3.0,win,,,,,,,,,,,,,,,,,,,,,,,2018,2017-18,div1,Harford,harfordcommunitycollege,jordynsmithemnq,Jordyn Smith
+Apr 28,home,ASA New York,W,17-15,17,15,2.0,win,,,,,,,,,,,,,,,,,,,,,,,2018,2017-18,div1,Harford,harfordcommunitycollege,jordynsmithemnq,Jordyn Smith
+Apr 28,home,ASA New York,W,19-4,19,4,15.0,win,,,,,,,,,,,,,,,,,,,,,,,2018,2017-18,div1,Harford,harfordcommunitycollege,jordynsmithemnq,Jordyn Smith
+Apr 30,home,Anne Arundel,W,14-3,14,3,11.0,win,20180430_ocae,3,2,0,,,,0,1,1,,,,,,0,0,,,1,,4,2018,2017-18,div1,Harford,harfordcommunitycollege,jordynsmithemnq,Jordyn Smith
+May 1,home,Delaware Tech,W,11-8,11,8,3.0,win,,,,,,,,,,,,,,,,,,,,,,,2018,2017-18,div1,Harford,harfordcommunitycollege,jordynsmithemnq,Jordyn Smith
+May 2,home,Brookdale,W,25-4,25,4,21.0,win,20180502_9kjt,2,2,2,,,1,2,,,,,,,,5,1,,,,,2,2018,2017-18,div1,Harford,harfordcommunitycollege,jordynsmithemnq,Jordyn Smith
+May 4,home,Monroe College,L,5-2,5,2,3.0,win,20180504_bfbl,1,0,0,,,,0,,1,,,,,,0,0,,,,,1,2018,2017-18,div1,Harford,harfordcommunitycollege,jordynsmithemnq,Jordyn Smith
+May 7,home,RCSJ Gloucester,L,9-6,9,6,3.0,win,,,,,,,,,,,,,,,,,,,,,,,2018,2017-18,div1,Harford,harfordcommunitycollege,jordynsmithemnq,Jordyn Smith
+May 10,home,Potomac State,W,16-8,16,8,8.0,win,,,,,,,,,,,,,,,,,,,,,,,2018,2017-18,div1,Harford,harfordcommunitycollege,jordynsmithemnq,Jordyn Smith
+May 11,home,Chesapeake,W,13-5,13,5,8.0,win,,,,,,,,,,,,,,,,,,,,,,,2018,2017-18,div1,Harford,harfordcommunitycollege,jordynsmithemnq,Jordyn Smith
+May 12,home,Chesapeake,W,7-5,7,5,2.0,win,20180512_km9i,1,0,0,,,,0,,1,,,,,,0,0,,,,,1,2018,2017-18,div1,Harford,harfordcommunitycollege,jordynsmithemnq,Jordyn Smith
+May 17,home,Monroe College,L,7-5,7,5,2.0,win,,,,,,,,,,,,,,,,,,,,,,,2018,2017-18,div1,Harford,harfordcommunitycollege,jordynsmithemnq,Jordyn Smith
+May 17,home,ASA New York,L,9-5,9,5,4.0,win,,,,,,,,,,,,,,,,,,,,,,,2018,2017-18,div1,Harford,harfordcommunitycollege,jordynsmithemnq,Jordyn Smith

@@ -1,39 +1,89 @@
-date,location,opponent,result,score,team_score,opp_score,game_score_diff_x,game_win_loss_x,game_id_x,AB,R,H,2B,3B,HR,RBI,BB,K,SB,CS,game_score_diff_y,game_win_loss_y,game_id_y,HBP,SF,SH,TB,XBH,HDP,GO,FO,GO/FO,PA,season,njcaa_season,njcaa_division,team,team_id,player_id,player_name
-Feb 18,home,Rend Lake,W,8-7,8,7,1,win,,,,,,,,,,,,,1.0,win,,,,,,,,,,,,2018,2017-18,div1,Jefferson (MO),jeffersoncollege,tylerknight9zwv,Tyler Knight
-Feb 18,home,Rend Lake,L,14-5,14,5,9,win,,,,,,,,,,,,,9.0,win,,,,,,,,,,,,2018,2017-18,div1,Jefferson (MO),jeffersoncollege,tylerknight9zwv,Tyler Knight
-Feb 26,home,Ellsworth,W,9-4,9,4,5,win,,,,,,,,,,,,,5.0,win,,,,,,,,,,,,2018,2017-18,div1,Jefferson (MO),jeffersoncollege,tylerknight9zwv,Tyler Knight
-Feb 26,home,Ellsworth,W,5-4,5,4,1,win,,,,,,,,,,,,,1.0,win,,,,,,,,,,,,2018,2017-18,div1,Jefferson (MO),jeffersoncollege,tylerknight9zwv,Tyler Knight
-Mar 1,home,Three Rivers,W,6-2,6,2,4,win,20180301_uc29,0,1,0,,,,0,,,1,,4.0,win,20180301_uc29,,,,0,0,,,,,0,2018,2017-18,div1,Jefferson (MO),jeffersoncollege,tylerknight9zwv,Tyler Knight
-Mar 1,home,Three Rivers,W,8-0,8,0,8,win,,,,,,,,,,,,,8.0,win,,,,,,,,,,,,2018,2017-18,div1,Jefferson (MO),jeffersoncollege,tylerknight9zwv,Tyler Knight
-Mar 6,home,McKendree University,W,13-3,13,3,10,win,,,,,,,,,,,,,10.0,win,,,,,,,,,,,,2018,2017-18,div1,Jefferson (MO),jeffersoncollege,tylerknight9zwv,Tyler Knight
-Mar 13,home,John A. Logan,W,15-5,15,5,10,win,,,,,,,,,,,,,10.0,win,,,,,,,,,,,,2018,2017-18,div1,Jefferson (MO),jeffersoncollege,tylerknight9zwv,Tyler Knight
-Mar 17,home,North Central Missouri,W,5-0,5,0,5,win,,,,,,,,,,,,,5.0,win,,,,,,,,,,,,2018,2017-18,div1,Jefferson (MO),jeffersoncollege,tylerknight9zwv,Tyler Knight
-Mar 17,home,North Central Missouri,W,9-1,9,1,8,win,,,,,,,,,,,,,8.0,win,,,,,,,,,,,,2018,2017-18,div1,Jefferson (MO),jeffersoncollege,tylerknight9zwv,Tyler Knight
-Mar 18,home,North Central Missouri,W,15-3,15,3,12,win,20180318_qs0d,1,1,1,1,,,0,,,,,12.0,win,20180318_qs0d,,,,2,1,,,,,1,2018,2017-18,div1,Jefferson (MO),jeffersoncollege,tylerknight9zwv,Tyler Knight
-Mar 18,home,North Central Missouri,W,12-2,12,2,10,win,,,,,,,,,,,,,10.0,win,,,,,,,,,,,,2018,2017-18,div1,Jefferson (MO),jeffersoncollege,tylerknight9zwv,Tyler Knight
-Mar 20,home,Southwestern Illinois,W,9-8,9,8,1,win,20180320_8f9b,0,1,0,,,,0,,,,,1.0,win,20180320_8f9b,,,,0,0,,,,,0,2018,2017-18,div1,Jefferson (MO),jeffersoncollege,tylerknight9zwv,Tyler Knight
-Mar 22,home,MCC-Maple Woods,W,11-0,11,0,11,win,,,,,,,,,,,,,11.0,win,,,,,,,,,,,,2018,2017-18,div1,Jefferson (MO),jeffersoncollege,tylerknight9zwv,Tyler Knight
-Mar 22,home,MCC-Maple Woods,W,14-4,14,4,10,win,,,,,,,,,,,,,10.0,win,,,,,,,,,,,,2018,2017-18,div1,Jefferson (MO),jeffersoncollege,tylerknight9zwv,Tyler Knight
-Mar 30,home,St. Charles,W,12-1,12,1,11,win,20180330_n08b,1,0,0,,,,0,,1,,,11.0,win,20180330_n08b,,,,0,0,,,,,1,2018,2017-18,div1,Jefferson (MO),jeffersoncollege,tylerknight9zwv,Tyler Knight
-Mar 30,home,St. Charles,W,10-2,10,2,8,win,,,,,,,,,,,,,8.0,win,,,,,,,,,,,,2018,2017-18,div1,Jefferson (MO),jeffersoncollege,tylerknight9zwv,Tyler Knight
-Apr 3,home,Webster University,,,,,8,win,,,,,,,,,,,,,8.0,win,,,,,,,,,,,,2018,2017-18,div1,Jefferson (MO),jeffersoncollege,tylerknight9zwv,Tyler Knight
-Apr 4,home,Quincy University JV,W,3-2,3,2,1,win,,,,,,,,,,,,,1.0,win,,,,,,,,,,,,2018,2017-18,div1,Jefferson (MO),jeffersoncollege,tylerknight9zwv,Tyler Knight
-Apr 4,home,Quincy University JV,W,5-0,5,0,5,win,,,,,,,,,,,,,5.0,win,,,,,,,,,,,,2018,2017-18,div1,Jefferson (MO),jeffersoncollege,tylerknight9zwv,Tyler Knight
-Apr 7,home,St. Louis,L,10-1,10,1,9,win,,,,,,,,,,,,,9.0,win,,,,,,,,,,,,2018,2017-18,div1,Jefferson (MO),jeffersoncollege,tylerknight9zwv,Tyler Knight
-Apr 7,home,St. Louis,W,9-1,9,1,8,win,,,,,,,,,,,,,8.0,win,,,,,,,,,,,,2018,2017-18,div1,Jefferson (MO),jeffersoncollege,tylerknight9zwv,Tyler Knight
-Apr 12,home,State Fair,W,14-3,14,3,11,win,,,,,,,,,,,,,11.0,win,,,,,,,,,,,,2018,2017-18,div1,Jefferson (MO),jeffersoncollege,tylerknight9zwv,Tyler Knight
-Apr 12,home,State Fair,W,16-4,16,4,12,win,,,,,,,,,,,,,12.0,win,,,,,,,,,,,,2018,2017-18,div1,Jefferson (MO),jeffersoncollege,tylerknight9zwv,Tyler Knight
-Apr 17,home,Missouri Baptist JV,W,10-1,10,1,9,win,,,,,,,,,,,,,9.0,win,,,,,,,,,,,,2018,2017-18,div1,Jefferson (MO),jeffersoncollege,tylerknight9zwv,Tyler Knight
-Apr 17,home,Missouri Baptist JV,W,15-5,15,5,10,win,20180417_l1b8,1,0,1,1,,,1,,,,,10.0,win,20180417_l1b8,,,,2,1,,,,,1,2018,2017-18,div1,Jefferson (MO),jeffersoncollege,tylerknight9zwv,Tyler Knight
-Apr 19,home,Mineral Area,L,7-5,7,5,2,win,,,,,,,,,,,,,2.0,win,,,,,,,,,,,,2018,2017-18,div1,Jefferson (MO),jeffersoncollege,tylerknight9zwv,Tyler Knight
-Apr 19,home,Mineral Area,W,4-2,4,2,2,win,,,,,,,,,,,,,2.0,win,,,,,,,,,,,,2018,2017-18,div1,Jefferson (MO),jeffersoncollege,tylerknight9zwv,Tyler Knight
-Apr 25,home,Webster University JV,W,9-4,9,4,5,win,,,,,,,,,,,,,5.0,win,,,,,,,,,,,,2018,2017-18,div1,Jefferson (MO),jeffersoncollege,tylerknight9zwv,Tyler Knight
-Apr 25,home,Webster University JV,W,8-3,8,3,5,win,,,,,,,,,,,,,5.0,win,,,,,,,,,,,,2018,2017-18,div1,Jefferson (MO),jeffersoncollege,tylerknight9zwv,Tyler Knight
-Apr 28,home,Kaskaskia,W,10-3,10,3,7,win,,,,,,,,,,,,,7.0,win,,,,,,,,,,,,2018,2017-18,div1,Jefferson (MO),jeffersoncollege,tylerknight9zwv,Tyler Knight
-Apr 28,home,Kaskaskia,W,17-0,17,0,17,win,20180428_abi4,0,0,0,,,,0,1,,,,17.0,win,20180428_abi4,,,,0,0,,,,,1,2018,2017-18,div1,Jefferson (MO),jeffersoncollege,tylerknight9zwv,Tyler Knight
-May 4,home,Three Rivers,W,11-4,11,4,7,win,,,,,,,,,,,,,7.0,win,,,,,,,,,,,,2018,2017-18,div1,Jefferson (MO),jeffersoncollege,tylerknight9zwv,Tyler Knight
-May 10,home,Mineral Area,W,8-2,8,2,6,win,,,,,,,,,,,,,6.0,win,,,,,,,,,,,,2018,2017-18,div1,Jefferson (MO),jeffersoncollege,tylerknight9zwv,Tyler Knight
-May 12,home,Crowder,W,7-4,7,4,3,win,,,,,,,,,,,,,3.0,win,,,,,,,,,,,,2018,2017-18,div1,Jefferson (MO),jeffersoncollege,tylerknight9zwv,Tyler Knight
-May 18,home,Delgado,W,12-1,12,1,11,win,,,,,,,,,,,,,11.0,win,,,,,,,,,,,,2018,2017-18,div1,Jefferson (MO),jeffersoncollege,tylerknight9zwv,Tyler Knight
-May 18,home,Seminole State (OK),W,7-1,7,1,6,win,,,,,,,,,,,,,6.0,win,,,,,,,,,,,,2018,2017-18,div1,Jefferson (MO),jeffersoncollege,tylerknight9zwv,Tyler Knight
-May 19,home,Delgado,L,12-2,12,2,10,win,,,,,,,,,,,,,10.0,win,,,,,,,,,,,,2018,2017-18,div1,Jefferson (MO),jeffersoncollege,tylerknight9zwv,Tyler Knight
+date,location,opponent,result,score,team_score,opp_score,game_score_diff,game_win_loss,game_id,AB,R,H,2B,3B,HR,RBI,BB,K,SB,CS,HBP,SF,SH,TB,XBH,HDP,GO,FO,GO/FO,PA,season,njcaa_season,njcaa_division,team,team_id,player_id,player_name
+Feb 8,home,Jackson State,W,8-3,8,3,5,win,,,,,,,,,,,,,,,,,,,,,,,2018,2017-18,div1,Jefferson (MO),jeffersoncollege,tylerknight9zwv,Tyler Knight
+Feb 8,home,Bevill State,T,4-4,4,4,0,tie,,,,,,,,,,,,,,,,,,,,,,,2018,2017-18,div1,Jefferson (MO),jeffersoncollege,tylerknight9zwv,Tyler Knight
+Feb 9,home,Bevill State,W,10-0,10,0,10,win,20180209_rrbn,1,0,1,1,,,0,,,,,,,,2,1,,,,,1,2018,2017-18,div1,Jefferson (MO),jeffersoncollege,tylerknight9zwv,Tyler Knight
+Feb 9,home,Jackson State,L,7-5,7,5,2,win,20180209_7yiv,1,0,0,,,,0,,1,,,,,,0,0,,,,,1,2018,2017-18,div1,Jefferson (MO),jeffersoncollege,tylerknight9zwv,Tyler Knight
+Feb 10,home,St. Louis,,,,,2,win,,,,,,,,,,,,,,,,,,,,,,,2018,2017-18,div1,Jefferson (MO),jeffersoncollege,tylerknight9zwv,Tyler Knight
+Feb 17,home,Mississippi Delta,,,,,2,win,,,,,,,,,,,,,,,,,,,,,,,2018,2017-18,div1,Jefferson (MO),jeffersoncollege,tylerknight9zwv,Tyler Knight
+Feb 17,home,Mississippi Delta,,,,,2,win,,,,,,,,,,,,,,,,,,,,,,,2018,2017-18,div1,Jefferson (MO),jeffersoncollege,tylerknight9zwv,Tyler Knight
+Feb 17,home,Mississippi Delta,,,,,2,win,,,,,,,,,,,,,,,,,,,,,,,2018,2017-18,div1,Jefferson (MO),jeffersoncollege,tylerknight9zwv,Tyler Knight
+Feb 17,home,Mississippi Delta,,,,,2,win,,,,,,,,,,,,,,,,,,,,,,,2018,2017-18,div1,Jefferson (MO),jeffersoncollege,tylerknight9zwv,Tyler Knight
+Feb 18,home,Rend Lake,W,8-7,8,7,1,win,,,,,,,,,,,,,,,,,,,,,,,2018,2017-18,div1,Jefferson (MO),jeffersoncollege,tylerknight9zwv,Tyler Knight
+Feb 18,home,Meridian,,,,,1,win,,,,,,,,,,,,,,,,,,,,,,,2018,2017-18,div1,Jefferson (MO),jeffersoncollege,tylerknight9zwv,Tyler Knight
+Feb 18,home,Rend Lake,L,14-5,14,5,9,win,,,,,,,,,,,,,,,,,,,,,,,2018,2017-18,div1,Jefferson (MO),jeffersoncollege,tylerknight9zwv,Tyler Knight
+Feb 18,home,Meridian,,,,,9,win,,,,,,,,,,,,,,,,,,,,,,,2018,2017-18,div1,Jefferson (MO),jeffersoncollege,tylerknight9zwv,Tyler Knight
+Feb 25,home,Ellsworth,W,8-5,8,5,3,win,,,,,,,,,,,,,,,,,,,,,,,2018,2017-18,div1,Jefferson (MO),jeffersoncollege,tylerknight9zwv,Tyler Knight
+Feb 25,home,Ellsworth,W,11-1,11,1,10,win,,,,,,,,,,,,,,,,,,,,,,,2018,2017-18,div1,Jefferson (MO),jeffersoncollege,tylerknight9zwv,Tyler Knight
+Feb 26,home,Ellsworth,W,9-4,9,4,5,win,,,,,,,,,,,,,,,,,,,,,,,2018,2017-18,div1,Jefferson (MO),jeffersoncollege,tylerknight9zwv,Tyler Knight
+Feb 26,home,Ellsworth,W,5-4,5,4,1,win,,,,,,,,,,,,,,,,,,,,,,,2018,2017-18,div1,Jefferson (MO),jeffersoncollege,tylerknight9zwv,Tyler Knight
+Feb 27,home,Fontbonne JV,,,,,1,win,,,,,,,,,,,,,,,,,,,,,,,2018,2017-18,div1,Jefferson (MO),jeffersoncollege,tylerknight9zwv,Tyler Knight
+Mar 1,home,Three Rivers,W,6-2,6,2,4,win,20180301_uc29,0,1,0,,,,0,,,1,,,,,0,0,,,,,0,2018,2017-18,div1,Jefferson (MO),jeffersoncollege,tylerknight9zwv,Tyler Knight
+Mar 1,home,Three Rivers,W,8-0,8,0,8,win,,,,,,,,,,,,,,,,,,,,,,,2018,2017-18,div1,Jefferson (MO),jeffersoncollege,tylerknight9zwv,Tyler Knight
+Mar 4,home,Three Rivers,W,7-3,7,3,4,win,,,,,,,,,,,,,,,,,,,,,,,2018,2017-18,div1,Jefferson (MO),jeffersoncollege,tylerknight9zwv,Tyler Knight
+Mar 4,home,Three Rivers,W,12-4,12,4,8,win,,,,,,,,,,,,,,,,,,,,,,,2018,2017-18,div1,Jefferson (MO),jeffersoncollege,tylerknight9zwv,Tyler Knight
+Mar 6,home,McKendree University,W,13-3,13,3,10,win,,,,,,,,,,,,,,,,,,,,,,,2018,2017-18,div1,Jefferson (MO),jeffersoncollege,tylerknight9zwv,Tyler Knight
+Mar 9,home,Crowder,L,7-6,7,6,1,win,,,,,,,,,,,,,,,,,,,,,,,2018,2017-18,div1,Jefferson (MO),jeffersoncollege,tylerknight9zwv,Tyler Knight
+Mar 9,home,Crowder,L,8-6,8,6,2,win,,,,,,,,,,,,,,,,,,,,,,,2018,2017-18,div1,Jefferson (MO),jeffersoncollege,tylerknight9zwv,Tyler Knight
+Mar 10,home,Crowder,L,3-2,3,2,1,win,,,,,,,,,,,,,,,,,,,,,,,2018,2017-18,div1,Jefferson (MO),jeffersoncollege,tylerknight9zwv,Tyler Knight
+Mar 10,home,Crowder,L,13-1,13,1,12,win,,,,,,,,,,,,,,,,,,,,,,,2018,2017-18,div1,Jefferson (MO),jeffersoncollege,tylerknight9zwv,Tyler Knight
+Mar 13,home,John A. Logan,W,15-5,15,5,10,win,,,,,,,,,,,,,,,,,,,,,,,2018,2017-18,div1,Jefferson (MO),jeffersoncollege,tylerknight9zwv,Tyler Knight
+Mar 17,home,North Central Missouri,W,5-0,5,0,5,win,,,,,,,,,,,,,,,,,,,,,,,2018,2017-18,div1,Jefferson (MO),jeffersoncollege,tylerknight9zwv,Tyler Knight
+Mar 17,home,North Central Missouri,W,9-1,9,1,8,win,,,,,,,,,,,,,,,,,,,,,,,2018,2017-18,div1,Jefferson (MO),jeffersoncollege,tylerknight9zwv,Tyler Knight
+Mar 18,home,North Central Missouri,W,15-3,15,3,12,win,20180318_qs0d,1,1,1,1,,,0,,,,,,,,2,1,,,,,1,2018,2017-18,div1,Jefferson (MO),jeffersoncollege,tylerknight9zwv,Tyler Knight
+Mar 18,home,North Central Missouri,W,12-2,12,2,10,win,,,,,,,,,,,,,,,,,,,,,,,2018,2017-18,div1,Jefferson (MO),jeffersoncollege,tylerknight9zwv,Tyler Knight
+Mar 20,home,Southwestern Illinois,W,9-8,9,8,1,win,20180320_8f9b,0,1,0,,,,0,,,,,,,,0,0,,,,,0,2018,2017-18,div1,Jefferson (MO),jeffersoncollege,tylerknight9zwv,Tyler Knight
+Mar 22,home,MCC-Maple Woods,W,11-0,11,0,11,win,,,,,,,,,,,,,,,,,,,,,,,2018,2017-18,div1,Jefferson (MO),jeffersoncollege,tylerknight9zwv,Tyler Knight
+Mar 22,home,MCC-Maple Woods,W,14-4,14,4,10,win,,,,,,,,,,,,,,,,,,,,,,,2018,2017-18,div1,Jefferson (MO),jeffersoncollege,tylerknight9zwv,Tyler Knight
+Mar 24,home,MCC-Maple Woods,W,10-3,10,3,7,win,,,,,,,,,,,,,,,,,,,,,,,2018,2017-18,div1,Jefferson (MO),jeffersoncollege,tylerknight9zwv,Tyler Knight
+Mar 24,home,MCC-Maple Woods,W,11-1,11,1,10,win,,,,,,,,,,,,,,,,,,,,,,,2018,2017-18,div1,Jefferson (MO),jeffersoncollege,tylerknight9zwv,Tyler Knight
+Mar 29,home,St. Charles,,,,,10,win,,,,,,,,,,,,,,,,,,,,,,,2018,2017-18,div1,Jefferson (MO),jeffersoncollege,tylerknight9zwv,Tyler Knight
+Mar 29,home,St. Charles,,,,,10,win,,,,,,,,,,,,,,,,,,,,,,,2018,2017-18,div1,Jefferson (MO),jeffersoncollege,tylerknight9zwv,Tyler Knight
+Mar 29,home,St. Charles,,,,,10,win,,,,,,,,,,,,,,,,,,,,,,,2018,2017-18,div1,Jefferson (MO),jeffersoncollege,tylerknight9zwv,Tyler Knight
+Mar 29,home,St. Charles,,,,,10,win,,,,,,,,,,,,,,,,,,,,,,,2018,2017-18,div1,Jefferson (MO),jeffersoncollege,tylerknight9zwv,Tyler Knight
+Mar 30,home,St. Charles,W,12-1,12,1,11,win,20180330_n08b,1,0,0,,,,0,,1,,,,,,0,0,,,,,1,2018,2017-18,div1,Jefferson (MO),jeffersoncollege,tylerknight9zwv,Tyler Knight
+Mar 30,home,St. Charles,W,10-2,10,2,8,win,,,,,,,,,,,,,,,,,,,,,,,2018,2017-18,div1,Jefferson (MO),jeffersoncollege,tylerknight9zwv,Tyler Knight
+Apr 3,home,Webster University,,,,,8,win,,,,,,,,,,,,,,,,,,,,,,,2018,2017-18,div1,Jefferson (MO),jeffersoncollege,tylerknight9zwv,Tyler Knight
+Apr 4,home,Quincy University JV,W,3-2,3,2,1,win,,,,,,,,,,,,,,,,,,,,,,,2018,2017-18,div1,Jefferson (MO),jeffersoncollege,tylerknight9zwv,Tyler Knight
+Apr 4,home,Quincy University JV,W,5-0,5,0,5,win,,,,,,,,,,,,,,,,,,,,,,,2018,2017-18,div1,Jefferson (MO),jeffersoncollege,tylerknight9zwv,Tyler Knight
+Apr 5,home,St. Louis,W,10-0,10,0,10,win,,,,,,,,,,,,,,,,,,,,,,,2018,2017-18,div1,Jefferson (MO),jeffersoncollege,tylerknight9zwv,Tyler Knight
+Apr 5,home,St. Louis,W,11-7,11,7,4,win,,,,,,,,,,,,,,,,,,,,,,,2018,2017-18,div1,Jefferson (MO),jeffersoncollege,tylerknight9zwv,Tyler Knight
+Apr 7,home,St. Louis,L,10-1,10,1,9,win,,,,,,,,,,,,,,,,,,,,,,,2018,2017-18,div1,Jefferson (MO),jeffersoncollege,tylerknight9zwv,Tyler Knight
+Apr 7,home,St. Louis,W,9-1,9,1,8,win,,,,,,,,,,,,,,,,,,,,,,,2018,2017-18,div1,Jefferson (MO),jeffersoncollege,tylerknight9zwv,Tyler Knight
+Apr 10,home,Lewis & Clark,,,,,8,win,,,,,,,,,,,,,,,,,,,,,,,2018,2017-18,div1,Jefferson (MO),jeffersoncollege,tylerknight9zwv,Tyler Knight
+Apr 10,home,Lewis & Clark,,,,,8,win,,,,,,,,,,,,,,,,,,,,,,,2018,2017-18,div1,Jefferson (MO),jeffersoncollege,tylerknight9zwv,Tyler Knight
+Apr 10,home,Lewis & Clark,,,,,8,win,,,,,,,,,,,,,,,,,,,,,,,2018,2017-18,div1,Jefferson (MO),jeffersoncollege,tylerknight9zwv,Tyler Knight
+Apr 10,home,Lewis & Clark,,,,,8,win,,,,,,,,,,,,,,,,,,,,,,,2018,2017-18,div1,Jefferson (MO),jeffersoncollege,tylerknight9zwv,Tyler Knight
+Apr 11,home,St. Charles,W,8-7,8,7,1,win,,,,,,,,,,,,,,,,,,,,,,,2018,2017-18,div1,Jefferson (MO),jeffersoncollege,tylerknight9zwv,Tyler Knight
+Apr 11,home,St. Charles,W,17-6,17,6,11,win,,,,,,,,,,,,,,,,,,,,,,,2018,2017-18,div1,Jefferson (MO),jeffersoncollege,tylerknight9zwv,Tyler Knight
+Apr 12,home,State Fair,W,14-3,14,3,11,win,,,,,,,,,,,,,,,,,,,,,,,2018,2017-18,div1,Jefferson (MO),jeffersoncollege,tylerknight9zwv,Tyler Knight
+Apr 12,home,State Fair,W,16-4,16,4,12,win,,,,,,,,,,,,,,,,,,,,,,,2018,2017-18,div1,Jefferson (MO),jeffersoncollege,tylerknight9zwv,Tyler Knight
+Apr 14,home,State Fair,W,3-2,3,2,1,win,,,,,,,,,,,,,,,,,,,,,,,2018,2017-18,div1,Jefferson (MO),jeffersoncollege,tylerknight9zwv,Tyler Knight
+Apr 14,home,State Fair,W,20-3,20,3,17,win,20180414_9027,1,0,0,,,,0,,1,,,,,,0,0,,,,,1,2018,2017-18,div1,Jefferson (MO),jeffersoncollege,tylerknight9zwv,Tyler Knight
+Apr 16,home,Quincy University JV,,,,,17,win,,,,,,,,,,,,,,,,,,,,,,,2018,2017-18,div1,Jefferson (MO),jeffersoncollege,tylerknight9zwv,Tyler Knight
+Apr 16,home,Quincy University JV,,,,,17,win,,,,,,,,,,,,,,,,,,,,,,,2018,2017-18,div1,Jefferson (MO),jeffersoncollege,tylerknight9zwv,Tyler Knight
+Apr 16,home,Quincy University JV,,,,,17,win,,,,,,,,,,,,,,,,,,,,,,,2018,2017-18,div1,Jefferson (MO),jeffersoncollege,tylerknight9zwv,Tyler Knight
+Apr 16,home,Quincy University JV,,,,,17,win,,,,,,,,,,,,,,,,,,,,,,,2018,2017-18,div1,Jefferson (MO),jeffersoncollege,tylerknight9zwv,Tyler Knight
+Apr 17,home,Missouri Baptist JV,W,10-1,10,1,9,win,,,,,,,,,,,,,,,,,,,,,,,2018,2017-18,div1,Jefferson (MO),jeffersoncollege,tylerknight9zwv,Tyler Knight
+Apr 17,home,Missouri Baptist JV,W,15-5,15,5,10,win,20180417_l1b8,1,0,1,1,,,1,,,,,,,,2,1,,,,,1,2018,2017-18,div1,Jefferson (MO),jeffersoncollege,tylerknight9zwv,Tyler Knight
+Apr 19,home,Mineral Area,L,7-5,7,5,2,win,,,,,,,,,,,,,,,,,,,,,,,2018,2017-18,div1,Jefferson (MO),jeffersoncollege,tylerknight9zwv,Tyler Knight
+Apr 19,home,Mineral Area,W,4-2,4,2,2,win,,,,,,,,,,,,,,,,,,,,,,,2018,2017-18,div1,Jefferson (MO),jeffersoncollege,tylerknight9zwv,Tyler Knight
+Apr 21,home,Mineral Area,W,14-1,14,1,13,win,,,,,,,,,,,,,,,,,,,,,,,2018,2017-18,div1,Jefferson (MO),jeffersoncollege,tylerknight9zwv,Tyler Knight
+Apr 21,home,Mineral Area,W,5-2,5,2,3,win,20180421_oi0m,0,1,0,,,,0,,,,,,,,0,0,,,,,0,2018,2017-18,div1,Jefferson (MO),jeffersoncollege,tylerknight9zwv,Tyler Knight
+Apr 25,home,Webster University JV,W,9-4,9,4,5,win,,,,,,,,,,,,,,,,,,,,,,,2018,2017-18,div1,Jefferson (MO),jeffersoncollege,tylerknight9zwv,Tyler Knight
+Apr 25,home,Webster University JV,W,8-3,8,3,5,win,,,,,,,,,,,,,,,,,,,,,,,2018,2017-18,div1,Jefferson (MO),jeffersoncollege,tylerknight9zwv,Tyler Knight
+Apr 26,home,Kaskaskia,W,8-5,8,5,3,win,,,,,,,,,,,,,,,,,,,,,,,2018,2017-18,div1,Jefferson (MO),jeffersoncollege,tylerknight9zwv,Tyler Knight
+Apr 28,home,Kaskaskia,W,10-3,10,3,7,win,,,,,,,,,,,,,,,,,,,,,,,2018,2017-18,div1,Jefferson (MO),jeffersoncollege,tylerknight9zwv,Tyler Knight
+Apr 28,home,Kaskaskia,W,17-0,17,0,17,win,20180428_abi4,0,0,0,,,,0,1,,,,,,,0,0,,,,,1,2018,2017-18,div1,Jefferson (MO),jeffersoncollege,tylerknight9zwv,Tyler Knight
+May 1,home,Rend Lake,L,6-5,6,5,1,win,,,,,,,,,,,,,,,,,,,,,,,2018,2017-18,div1,Jefferson (MO),jeffersoncollege,tylerknight9zwv,Tyler Knight
+May 4,home,Three Rivers,W,11-4,11,4,7,win,,,,,,,,,,,,,,,,,,,,,,,2018,2017-18,div1,Jefferson (MO),jeffersoncollege,tylerknight9zwv,Tyler Knight
+May 5,home,Three Rivers,W,25-8,25,8,17,win,,,,,,,,,,,,,,,,,,,,,,,2018,2017-18,div1,Jefferson (MO),jeffersoncollege,tylerknight9zwv,Tyler Knight
+May 10,home,Mineral Area,W,8-2,8,2,6,win,,,,,,,,,,,,,,,,,,,,,,,2018,2017-18,div1,Jefferson (MO),jeffersoncollege,tylerknight9zwv,Tyler Knight
+May 11,home,State Fair,W,11-3,11,3,8,win,,,,,,,,,,,,,,,,,,,,,,,2018,2017-18,div1,Jefferson (MO),jeffersoncollege,tylerknight9zwv,Tyler Knight
+May 12,home,Crowder,W,7-4,7,4,3,win,,,,,,,,,,,,,,,,,,,,,,,2018,2017-18,div1,Jefferson (MO),jeffersoncollege,tylerknight9zwv,Tyler Knight
+May 18,home,Delgado,W,12-1,12,1,11,win,,,,,,,,,,,,,,,,,,,,,,,2018,2017-18,div1,Jefferson (MO),jeffersoncollege,tylerknight9zwv,Tyler Knight
+May 18,home,Seminole State (OK),W,7-1,7,1,6,win,,,,,,,,,,,,,,,,,,,,,,,2018,2017-18,div1,Jefferson (MO),jeffersoncollege,tylerknight9zwv,Tyler Knight
+May 19,home,Delgado,L,12-2,12,2,10,win,,,,,,,,,,,,,,,,,,,,,,,2018,2017-18,div1,Jefferson (MO),jeffersoncollege,tylerknight9zwv,Tyler Knight
+May 20,home,Delgado,W,19-4,19,4,15,win,,,,,,,,,,,,,,,,,,,,,,,2018,2017-18,div1,Jefferson (MO),jeffersoncollege,tylerknight9zwv,Tyler Knight
+May 26,home,Barton,W,11-2,11,2,9,win,,,,,,,,,,,,,,,,,,,,,,,2018,2017-18,div1,Jefferson (MO),jeffersoncollege,tylerknight9zwv,Tyler Knight
+May 28,home,Walters State,L,14-9,14,9,5,win,,,,,,,,,,,,,,,,,,,,,,,2018,2017-18,div1,Jefferson (MO),jeffersoncollege,tylerknight9zwv,Tyler Knight
+May 29,home,Monroe College,L,10-4,10,4,6,win,,,,,,,,,,,,,,,,,,,,,,,2018,2017-18,div1,Jefferson (MO),jeffersoncollege,tylerknight9zwv,Tyler Knight

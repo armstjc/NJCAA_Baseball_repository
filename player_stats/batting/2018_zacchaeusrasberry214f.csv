@@ -1,28 +1,59 @@
-date,location,opponent,result,score,team_score,opp_score,game_score_diff_x,game_win_loss_x,game_id_x,AB,R,H,2B,3B,HR,RBI,BB,K,SB,CS,game_score_diff_y,game_win_loss_y,game_id_y,HBP,SF,SH,TB,XBH,HDP,GO,FO,GO/FO,PA,season,njcaa_season,njcaa_division,team,team_id,player_id,player_name
-Feb 11,home,Patrick & Henry,L,6-2,6,2,4.0,win,20180211_los6,4,1,1,0,0,1,1,0,3,0,0,4.0,win,20180211_los6,0,0,0,4,1,,0,,,4,2018,2017-18,div1,Louisburg,louisburgcollege,zacchaeusrasberry214f,Zacchaeus Rasberry
-Feb 11,home,Patrick & Henry,W,8-7,8,7,1.0,win,20180211_qmdt,3,1,1,0,0,0,0,1,2,1,0,1.0,win,20180211_qmdt,0,0,0,1,0,,0,,,4,2018,2017-18,div1,Louisburg,louisburgcollege,zacchaeusrasberry214f,Zacchaeus Rasberry
-Feb 14,home,Wake Tech,L,12-5,12,5,7.0,win,20180214_p56w,3,0,1,0,0,0,0,1,0,0,1,7.0,win,20180214_p56w,0,0,0,1,0,,0,,,4,2018,2017-18,div1,Louisburg,louisburgcollege,zacchaeusrasberry214f,Zacchaeus Rasberry
-Feb 21,home,Bryant & Stratton (VA),W,7-6,7,6,1.0,win,20180221_pmlo,5,2,2,0,0,1,3,0,1,0,0,1.0,win,20180221_pmlo,0,0,0,5,1,,0,,,5,2018,2017-18,div1,Louisburg,louisburgcollege,zacchaeusrasberry214f,Zacchaeus Rasberry
-Feb 24,home,Southeastern-Whiteville,W,7-5,7,5,2.0,win,20180224_o6aw,2,1,2,2,0,0,0,0,0,0,0,2.0,win,20180224_o6aw,0,0,1,4,2,,0,,,3,2018,2017-18,div1,Louisburg,louisburgcollege,zacchaeusrasberry214f,Zacchaeus Rasberry
-Feb 24,home,Southeastern-Whiteville,W,11-1,11,1,10.0,win,20180224_r9sp,3,2,1,0,0,0,0,1,0,2,0,10.0,win,20180224_r9sp,0,0,0,1,0,,0,,,4,2018,2017-18,div1,Louisburg,louisburgcollege,zacchaeusrasberry214f,Zacchaeus Rasberry
-Mar 7,home,Pitt,W,13-4,13,4,9.0,win,20180307_dlmx,5,1,0,0,0,0,1,0,1,0,0,9.0,win,20180307_dlmx,0,0,0,0,0,,0,,,5,2018,2017-18,div1,Louisburg,louisburgcollege,zacchaeusrasberry214f,Zacchaeus Rasberry
-Mar 10,home,Spartanburg Methodist,W,5-4,5,4,1.0,win,20180310_8w8q,4,2,2,,,,0,,1,,,1.0,win,20180310_8w8q,,,,2,0,,,,,4,2018,2017-18,div1,Louisburg,louisburgcollege,zacchaeusrasberry214f,Zacchaeus Rasberry
-Mar 10,home,Spartanburg Methodist,L,6-4,6,4,2.0,win,20180310_2j9l,4,0,1,1,,,0,,1,,,2.0,win,20180310_2j9l,,,,2,1,,,2,,4,2018,2017-18,div1,Louisburg,louisburgcollege,zacchaeusrasberry214f,Zacchaeus Rasberry
-Mar 11,home,Spartanburg Methodist,W,4-1,4,1,3.0,win,20180311_7s3u,3,0,0,,,,0,,1,,,3.0,win,20180311_7s3u,,,,0,0,,1,1,1.00,3,2018,2017-18,div1,Louisburg,louisburgcollege,zacchaeusrasberry214f,Zacchaeus Rasberry
-Mar 11,home,Spartanburg Methodist,W,10-3,10,3,7.0,win,20180311_eyz5,3,1,0,,,,1,,,,,7.0,win,20180311_eyz5,,,,0,0,,,1,,3,2018,2017-18,div1,Louisburg,louisburgcollege,zacchaeusrasberry214f,Zacchaeus Rasberry
-Mar 16,home,Cuyahoga,W,12-2,12,2,10.0,win,20180316_bzku,4,1,2,1,0,0,1,0,1,1,1,10.0,win,20180316_bzku,0,0,0,3,1,,0,,,4,2018,2017-18,div1,Louisburg,louisburgcollege,zacchaeusrasberry214f,Zacchaeus Rasberry
-Mar 16,home,Cuyahoga,L,17-6,17,6,11.0,win,20180316_0iea,4,2,3,1,0,0,0,0,1,1,0,11.0,win,20180316_0iea,0,0,0,4,1,,0,,,4,2018,2017-18,div1,Louisburg,louisburgcollege,zacchaeusrasberry214f,Zacchaeus Rasberry
-Mar 17,home,Cuyahoga,L,10-7,10,7,3.0,win,20180317_vedm,4,1,1,0,0,0,0,0,1,1,0,3.0,win,20180317_vedm,1,0,0,1,0,,0,,,5,2018,2017-18,div1,Louisburg,louisburgcollege,zacchaeusrasberry214f,Zacchaeus Rasberry
-Mar 17,home,Cuyahoga,L,12-7,12,7,5.0,win,20180317_ns6z,3,2,1,1,0,0,0,1,1,0,0,5.0,win,20180317_ns6z,0,0,0,2,1,,0,,,4,2018,2017-18,div1,Louisburg,louisburgcollege,zacchaeusrasberry214f,Zacchaeus Rasberry
-Mar 24,home,USC Salkehatchie,L,3-1,3,1,2.0,win,20180324_e4b7,4,1,1,0,0,0,0,0,1,1,0,2.0,win,20180324_e4b7,0,0,0,1,0,,0,,,4,2018,2017-18,div1,Louisburg,louisburgcollege,zacchaeusrasberry214f,Zacchaeus Rasberry
-Mar 24,home,USC Salkehatchie,W,6-4,6,4,2.0,win,20180324_govi,4,1,1,0,0,1,1,0,1,0,0,2.0,win,20180324_govi,0,0,0,4,1,,0,,,4,2018,2017-18,div1,Louisburg,louisburgcollege,zacchaeusrasberry214f,Zacchaeus Rasberry
-Mar 25,home,USC Salkehatchie,W,4-3,4,3,1.0,win,20180325_p9pw,3,0,1,0,0,0,0,0,1,1,0,1.0,win,20180325_p9pw,0,0,0,1,0,,0,,,3,2018,2017-18,div1,Louisburg,louisburgcollege,zacchaeusrasberry214f,Zacchaeus Rasberry
-Mar 25,home,USC Salkehatchie,L,3-1,3,1,2.0,win,20180325_wcd3,4,0,1,0,0,0,0,0,1,0,0,2.0,win,20180325_wcd3,0,0,0,1,0,,0,,,4,2018,2017-18,div1,Louisburg,louisburgcollege,zacchaeusrasberry214f,Zacchaeus Rasberry
-Apr 7,home,USC Union,,,,,1.0,win,,,,,,,,,,,,,1.0,win,,,,,,,,,,,,2018,2017-18,div1,Louisburg,louisburgcollege,zacchaeusrasberry214f,Zacchaeus Rasberry
-Apr 7,home,USC Union,,,,,1.0,win,,,,,,,,,,,,,1.0,win,,,,,,,,,,,,2018,2017-18,div1,Louisburg,louisburgcollege,zacchaeusrasberry214f,Zacchaeus Rasberry
-Apr 7,home,USC Union,,,,,1.0,win,,,,,,,,,,,,,1.0,win,,,,,,,,,,,,2018,2017-18,div1,Louisburg,louisburgcollege,zacchaeusrasberry214f,Zacchaeus Rasberry
-Apr 7,home,USC Union,,,,,1.0,win,,,,,,,,,,,,,1.0,win,,,,,,,,,,,,2018,2017-18,div1,Louisburg,louisburgcollege,zacchaeusrasberry214f,Zacchaeus Rasberry
-Apr 8,home,USC Union,W,12-1,12,1,11.0,win,20180408_7ceo,4,4,4,1,0,2,4,0,0,0,0,11.0,win,20180408_7ceo,0,0,0,11,3,,0,,,4,2018,2017-18,div1,Louisburg,louisburgcollege,zacchaeusrasberry214f,Zacchaeus Rasberry
-Apr 8,home,USC Union,W,13-3,13,3,10.0,win,20180408_ux59,3,0,0,0,0,0,0,1,0,0,1,10.0,win,20180408_ux59,0,0,0,0,0,,0,,,4,2018,2017-18,div1,Louisburg,louisburgcollege,zacchaeusrasberry214f,Zacchaeus Rasberry
-Apr 18,home,Lenoir,W,9-6,9,6,3.0,win,20180418_6bst,5,2,1,0,0,0,0,0,1,2,0,3.0,win,20180418_6bst,0,0,0,1,0,,0,,,5,2018,2017-18,div1,Louisburg,louisburgcollege,zacchaeusrasberry214f,Zacchaeus Rasberry
-Apr 25,home,Brunswick,W,16-4,16,4,12.0,win,20180425_gm6d,4,3,2,1,0,0,2,2,0,0,0,12.0,win,20180425_gm6d,0,0,0,3,1,,0,,,6,2018,2017-18,div1,Louisburg,louisburgcollege,zacchaeusrasberry214f,Zacchaeus Rasberry
+date,location,opponent,result,score,team_score,opp_score,game_score_diff,game_win_loss,game_id,AB,R,H,2B,3B,HR,RBI,BB,K,SB,CS,HBP,SF,SH,TB,XBH,HDP,GO,FO,GO/FO,PA,season,njcaa_season,njcaa_division,team,team_id,player_id,player_name
+Feb 9,home,Patrick & Henry,L,4-3,4,3,1.0,win,20180209_fffn,2,1,0,0,0,0,0,1,1,0,0,1,0,0,0,0,,0,,,4,2018,2017-18,div1,Louisburg,louisburgcollege,zacchaeusrasberry214f,Zacchaeus Rasberry
+Feb 9,home,Patrick & Henry,W,3-1,3,1,2.0,win,20180209_grt1,4,0,1,0,0,0,0,0,1,0,0,0,0,0,1,0,,0,,,4,2018,2017-18,div1,Louisburg,louisburgcollege,zacchaeusrasberry214f,Zacchaeus Rasberry
+Feb 11,home,Patrick & Henry,L,6-2,6,2,4.0,win,20180211_los6,4,1,1,0,0,1,1,0,3,0,0,0,0,0,4,1,,0,,,4,2018,2017-18,div1,Louisburg,louisburgcollege,zacchaeusrasberry214f,Zacchaeus Rasberry
+Feb 11,home,Patrick & Henry,W,8-7,8,7,1.0,win,20180211_qmdt,3,1,1,0,0,0,0,1,2,1,0,0,0,0,1,0,,0,,,4,2018,2017-18,div1,Louisburg,louisburgcollege,zacchaeusrasberry214f,Zacchaeus Rasberry
+Feb 14,home,Wake Tech,L,12-5,12,5,7.0,win,20180214_p56w,3,0,1,0,0,0,0,1,0,0,1,0,0,0,1,0,,0,,,4,2018,2017-18,div1,Louisburg,louisburgcollege,zacchaeusrasberry214f,Zacchaeus Rasberry
+Feb 18,home,Pitt,W,3-2,3,2,1.0,win,20180218_yka7,4,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,,0,,,4,2018,2017-18,div1,Louisburg,louisburgcollege,zacchaeusrasberry214f,Zacchaeus Rasberry
+Feb 18,home,Pitt,W,4-3,4,3,1.0,win,20180218_478x,2,0,1,1,0,0,0,1,0,1,0,0,0,0,2,1,,0,,,3,2018,2017-18,div1,Louisburg,louisburgcollege,zacchaeusrasberry214f,Zacchaeus Rasberry
+Feb 21,home,Bryant & Stratton (VA),W,7-6,7,6,1.0,win,20180221_pmlo,5,2,2,0,0,1,3,0,1,0,0,0,0,0,5,1,,0,,,5,2018,2017-18,div1,Louisburg,louisburgcollege,zacchaeusrasberry214f,Zacchaeus Rasberry
+Feb 24,home,Southeastern-Whiteville,W,7-5,7,5,2.0,win,20180224_o6aw,2,1,2,2,0,0,0,0,0,0,0,0,0,1,4,2,,0,,,3,2018,2017-18,div1,Louisburg,louisburgcollege,zacchaeusrasberry214f,Zacchaeus Rasberry
+Feb 24,home,Southeastern-Whiteville,W,11-1,11,1,10.0,win,20180224_r9sp,3,2,1,0,0,0,0,1,0,2,0,0,0,0,1,0,,0,,,4,2018,2017-18,div1,Louisburg,louisburgcollege,zacchaeusrasberry214f,Zacchaeus Rasberry
+Feb 25,home,Southeastern-Whiteville,W,14-8,14,8,6.0,win,20180225_nijv,4,1,2,1,0,0,2,1,0,0,0,0,0,0,3,1,,0,,,5,2018,2017-18,div1,Louisburg,louisburgcollege,zacchaeusrasberry214f,Zacchaeus Rasberry
+Feb 25,home,Southeastern-Whiteville,W,12-2,12,2,10.0,win,20180225_hyxw,2,3,2,0,0,1,2,2,0,0,0,0,0,0,5,1,,0,,,4,2018,2017-18,div1,Louisburg,louisburgcollege,zacchaeusrasberry214f,Zacchaeus Rasberry
+Feb 28,home,Wake Tech,W,14-2,14,2,12.0,win,20180228_muu9,4,3,2,1,0,1,2,1,1,0,0,0,0,0,6,2,,0,,,5,2018,2017-18,div1,Louisburg,louisburgcollege,zacchaeusrasberry214f,Zacchaeus Rasberry
+Mar 3,home,Catawba Valley,L,6-3,6,3,3.0,win,20180303_5s0p,3,0,0,0,0,0,0,1,2,0,0,0,0,0,0,0,,0,,,4,2018,2017-18,div1,Louisburg,louisburgcollege,zacchaeusrasberry214f,Zacchaeus Rasberry
+Mar 3,home,Catawba Valley,W,6-0,6,0,6.0,win,20180303_bqsh,4,0,1,0,0,0,0,0,1,1,0,0,0,0,1,0,,0,,,4,2018,2017-18,div1,Louisburg,louisburgcollege,zacchaeusrasberry214f,Zacchaeus Rasberry
+Mar 4,home,Catawba Valley,W,8-3,8,3,5.0,win,20180304_vwe5,4,2,3,0,0,1,1,1,0,1,0,0,0,0,6,1,,0,,,5,2018,2017-18,div1,Louisburg,louisburgcollege,zacchaeusrasberry214f,Zacchaeus Rasberry
+Mar 7,home,Pitt,W,13-4,13,4,9.0,win,20180307_dlmx,5,1,0,0,0,0,1,0,1,0,0,0,0,0,0,0,,0,,,5,2018,2017-18,div1,Louisburg,louisburgcollege,zacchaeusrasberry214f,Zacchaeus Rasberry
+Mar 10,home,Spartanburg Methodist,W,5-4,5,4,1.0,win,20180310_8w8q,4,2,2,,,,0,,1,,,,,,2,0,,,,,4,2018,2017-18,div1,Louisburg,louisburgcollege,zacchaeusrasberry214f,Zacchaeus Rasberry
+Mar 10,home,Spartanburg Methodist,L,6-4,6,4,2.0,win,20180310_2j9l,4,0,1,1,,,0,,1,,,,,,2,1,,,2,,4,2018,2017-18,div1,Louisburg,louisburgcollege,zacchaeusrasberry214f,Zacchaeus Rasberry
+Mar 11,home,Spartanburg Methodist,W,4-1,4,1,3.0,win,20180311_7s3u,3,0,0,,,,0,,1,,,,,,0,0,,1,1,1.00,3,2018,2017-18,div1,Louisburg,louisburgcollege,zacchaeusrasberry214f,Zacchaeus Rasberry
+Mar 11,home,Spartanburg Methodist,W,10-3,10,3,7.0,win,20180311_eyz5,3,1,0,,,,1,,,,,,,,0,0,,,1,,3,2018,2017-18,div1,Louisburg,louisburgcollege,zacchaeusrasberry214f,Zacchaeus Rasberry
+Mar 14,home,Brunswick,L,9-6,9,6,3.0,win,20180314_oan7,5,1,3,0,1,0,0,0,1,0,0,0,0,0,5,1,,0,,,5,2018,2017-18,div1,Louisburg,louisburgcollege,zacchaeusrasberry214f,Zacchaeus Rasberry
+Mar 16,home,Cuyahoga,W,12-2,12,2,10.0,win,20180316_bzku,4,1,2,1,0,0,1,0,1,1,1,0,0,0,3,1,,0,,,4,2018,2017-18,div1,Louisburg,louisburgcollege,zacchaeusrasberry214f,Zacchaeus Rasberry
+Mar 16,home,Cuyahoga,L,17-6,17,6,11.0,win,20180316_0iea,4,2,3,1,0,0,0,0,1,1,0,0,0,0,4,1,,0,,,4,2018,2017-18,div1,Louisburg,louisburgcollege,zacchaeusrasberry214f,Zacchaeus Rasberry
+Mar 17,home,Cuyahoga,L,10-7,10,7,3.0,win,20180317_vedm,4,1,1,0,0,0,0,0,1,1,0,1,0,0,1,0,,0,,,5,2018,2017-18,div1,Louisburg,louisburgcollege,zacchaeusrasberry214f,Zacchaeus Rasberry
+Mar 17,home,Cuyahoga,L,12-7,12,7,5.0,win,20180317_ns6z,3,2,1,1,0,0,0,1,1,0,0,0,0,0,2,1,,0,,,4,2018,2017-18,div1,Louisburg,louisburgcollege,zacchaeusrasberry214f,Zacchaeus Rasberry
+Mar 21,home,Lenoir,,,,,5.0,win,,,,,,,,,,,,,,,,,,,,,,,2018,2017-18,div1,Louisburg,louisburgcollege,zacchaeusrasberry214f,Zacchaeus Rasberry
+Mar 24,home,USC Salkehatchie,L,3-1,3,1,2.0,win,20180324_e4b7,4,1,1,0,0,0,0,0,1,1,0,0,0,0,1,0,,0,,,4,2018,2017-18,div1,Louisburg,louisburgcollege,zacchaeusrasberry214f,Zacchaeus Rasberry
+Mar 24,home,USC Salkehatchie,W,6-4,6,4,2.0,win,20180324_govi,4,1,1,0,0,1,1,0,1,0,0,0,0,0,4,1,,0,,,4,2018,2017-18,div1,Louisburg,louisburgcollege,zacchaeusrasberry214f,Zacchaeus Rasberry
+Mar 25,home,USC Salkehatchie,W,4-3,4,3,1.0,win,20180325_p9pw,3,0,1,0,0,0,0,0,1,1,0,0,0,0,1,0,,0,,,3,2018,2017-18,div1,Louisburg,louisburgcollege,zacchaeusrasberry214f,Zacchaeus Rasberry
+Mar 25,home,USC Salkehatchie,L,3-1,3,1,2.0,win,20180325_wcd3,4,0,1,0,0,0,0,0,1,0,0,0,0,0,1,0,,0,,,4,2018,2017-18,div1,Louisburg,louisburgcollege,zacchaeusrasberry214f,Zacchaeus Rasberry
+Mar 27,home,Bryant & Stratton (VA),W,7-5,7,5,2.0,win,20180327_d8t7,5,2,3,1,0,0,2,0,1,0,0,0,0,0,4,1,,0,,,5,2018,2017-18,div1,Louisburg,louisburgcollege,zacchaeusrasberry214f,Zacchaeus Rasberry
+Mar 30,home,USC Sumter,L,8-7,8,7,1.0,win,20180330_jxuf,4,1,2,0,0,0,0,0,0,2,0,0,0,0,2,0,,0,,,4,2018,2017-18,div1,Louisburg,louisburgcollege,zacchaeusrasberry214f,Zacchaeus Rasberry
+Mar 30,home,USC Sumter,W,7-3,7,3,4.0,win,20180330_n63o,3,2,2,2,0,0,0,1,1,0,0,0,0,0,4,2,,0,,,4,2018,2017-18,div1,Louisburg,louisburgcollege,zacchaeusrasberry214f,Zacchaeus Rasberry
+Mar 31,home,USC Sumter,L,2-1,2,1,1.0,win,20180331_coxc,3,0,1,0,0,0,0,0,0,1,0,0,0,0,1,0,,0,,,3,2018,2017-18,div1,Louisburg,louisburgcollege,zacchaeusrasberry214f,Zacchaeus Rasberry
+Mar 31,home,USC Sumter,L,8-5,8,5,3.0,win,20180331_c7ah,4,1,1,0,0,0,0,0,0,0,0,0,0,0,1,0,,0,,,4,2018,2017-18,div1,Louisburg,louisburgcollege,zacchaeusrasberry214f,Zacchaeus Rasberry
+Apr 3,home,Pitt,L,8-7,8,7,1.0,win,20180403_aiez,5,2,2,0,1,0,3,0,2,1,0,0,0,0,4,1,,0,,,5,2018,2017-18,div1,Louisburg,louisburgcollege,zacchaeusrasberry214f,Zacchaeus Rasberry
+Apr 7,home,USC Union,,,,,1.0,win,,,,,,,,,,,,,,,,,,,,,,,2018,2017-18,div1,Louisburg,louisburgcollege,zacchaeusrasberry214f,Zacchaeus Rasberry
+Apr 7,home,USC Union,,,,,1.0,win,,,,,,,,,,,,,,,,,,,,,,,2018,2017-18,div1,Louisburg,louisburgcollege,zacchaeusrasberry214f,Zacchaeus Rasberry
+Apr 7,home,USC Union,,,,,1.0,win,,,,,,,,,,,,,,,,,,,,,,,2018,2017-18,div1,Louisburg,louisburgcollege,zacchaeusrasberry214f,Zacchaeus Rasberry
+Apr 7,home,USC Union,,,,,1.0,win,,,,,,,,,,,,,,,,,,,,,,,2018,2017-18,div1,Louisburg,louisburgcollege,zacchaeusrasberry214f,Zacchaeus Rasberry
+Apr 8,home,USC Union,W,12-1,12,1,11.0,win,20180408_7ceo,4,4,4,1,0,2,4,0,0,0,0,0,0,0,11,3,,0,,,4,2018,2017-18,div1,Louisburg,louisburgcollege,zacchaeusrasberry214f,Zacchaeus Rasberry
+Apr 8,home,USC Union,W,13-3,13,3,10.0,win,20180408_ux59,3,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,,0,,,4,2018,2017-18,div1,Louisburg,louisburgcollege,zacchaeusrasberry214f,Zacchaeus Rasberry
+Apr 11,home,Brunswick,W,18-7,18,7,11.0,win,20180411_3mi5,5,2,2,0,0,1,4,1,0,0,0,0,0,0,5,1,,0,,,6,2018,2017-18,div1,Louisburg,louisburgcollege,zacchaeusrasberry214f,Zacchaeus Rasberry
+Apr 14,home,Florence-Darlington Tech,L,4-2,4,2,2.0,win,20180414_7ad5,3,1,1,0,0,0,0,0,0,0,0,0,0,0,1,0,,0,,,3,2018,2017-18,div1,Louisburg,louisburgcollege,zacchaeusrasberry214f,Zacchaeus Rasberry
+Apr 14,home,Florence-Darlington Tech,L,3-1,3,1,2.0,win,20180414_dqtc,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0,,,4,2018,2017-18,div1,Louisburg,louisburgcollege,zacchaeusrasberry214f,Zacchaeus Rasberry
+Apr 15,home,Florence-Darlington Tech,L,3-2,3,2,1.0,win,20180415_pkzf,3,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,,0,,,4,2018,2017-18,div1,Louisburg,louisburgcollege,zacchaeusrasberry214f,Zacchaeus Rasberry
+Apr 15,home,Florence-Darlington Tech,L,4-3,4,3,1.0,win,20180415_lf0t,4,1,2,0,0,0,0,0,0,0,0,0,0,0,2,0,,0,,,4,2018,2017-18,div1,Louisburg,louisburgcollege,zacchaeusrasberry214f,Zacchaeus Rasberry
+Apr 18,home,Lenoir,W,9-6,9,6,3.0,win,20180418_6bst,5,2,1,0,0,0,0,0,1,2,0,0,0,0,1,0,,0,,,5,2018,2017-18,div1,Louisburg,louisburgcollege,zacchaeusrasberry214f,Zacchaeus Rasberry
+Apr 21,home,USC Lancaster,L,8-3,8,3,5.0,win,20180421_73n1,4,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,,0,,,4,2018,2017-18,div1,Louisburg,louisburgcollege,zacchaeusrasberry214f,Zacchaeus Rasberry
+Apr 21,home,USC Lancaster,W,15-5,15,5,10.0,win,20180421_9z9a,3,2,1,0,0,1,2,0,1,0,0,1,0,0,4,1,,0,,,4,2018,2017-18,div1,Louisburg,louisburgcollege,zacchaeusrasberry214f,Zacchaeus Rasberry
+Apr 22,home,USC Lancaster,W,4-1,4,1,3.0,win,20180422_5bkt,4,1,2,1,0,1,1,0,0,0,0,0,0,0,6,2,,0,,,4,2018,2017-18,div1,Louisburg,louisburgcollege,zacchaeusrasberry214f,Zacchaeus Rasberry
+Apr 22,home,USC Lancaster,W,13-2,13,2,11.0,win,20180422_4loo,4,2,2,0,0,2,3,0,0,0,0,0,0,0,8,2,,0,,,4,2018,2017-18,div1,Louisburg,louisburgcollege,zacchaeusrasberry214f,Zacchaeus Rasberry
+Apr 25,home,Brunswick,W,16-4,16,4,12.0,win,20180425_gm6d,4,3,2,1,0,0,2,2,0,0,0,0,0,0,3,1,,0,,,6,2018,2017-18,div1,Louisburg,louisburgcollege,zacchaeusrasberry214f,Zacchaeus Rasberry
+May 1,home,Lenoir,W,12-7,12,7,5.0,win,20180501_4ppc,4,2,2,0,1,0,3,1,0,2,0,1,0,0,4,1,,0,,,6,2018,2017-18,div1,Louisburg,louisburgcollege,zacchaeusrasberry214f,Zacchaeus Rasberry
+May 5,home,USC Salkehatchie,W,16-8,16,8,8.0,win,20180505_at1j,6,1,1,0,0,0,1,0,3,0,0,0,0,0,1,0,,0,,,6,2018,2017-18,div1,Louisburg,louisburgcollege,zacchaeusrasberry214f,Zacchaeus Rasberry
+May 5,home,Florence-Darlington Tech,L,7-4,7,4,3.0,win,20180505_hwe8,5,1,1,0,0,0,0,0,1,0,0,0,0,0,1,0,,0,,,5,2018,2017-18,div1,Louisburg,louisburgcollege,zacchaeusrasberry214f,Zacchaeus Rasberry
+May 6,home,Spartanburg Methodist,L,7-5,7,5,2.0,win,20180506_g9eg,4,1,1,,,,0,1,3,,,,,,1,0,,,,,5,2018,2017-18,div1,Louisburg,louisburgcollege,zacchaeusrasberry214f,Zacchaeus Rasberry
