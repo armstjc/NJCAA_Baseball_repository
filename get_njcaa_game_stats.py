@@ -23,7 +23,7 @@ def getNjcaaD1BattingGamelogs(webdriverPath="./chromedriver_mac64_m1"):
 	player_count = len(player_urls)
 	driver = webdriver.Chrome(
 		executable_path=webdriverPath)
-	count = 37600
+	count = 38700
 	for i in tqdm(range(count,player_count)):
 		count += 1
 		print(f'{count}/{player_count}')

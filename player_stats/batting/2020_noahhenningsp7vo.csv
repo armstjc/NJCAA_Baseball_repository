@@ -1,16 +1,40 @@
-date,location,opponent,result,score,team_score,opp_score,game_score_diff_x,game_win_loss_x,game_id_x,AB,R,H,2B,3B,HR,RBI,BB,K,SB,CS,game_score_diff_y,game_win_loss_y,game_id_y,HBP,SF,SH,TB,XBH,HDP,GO,FO,GO/FO,PA,season,njcaa_season,njcaa_division,team,team_id,player_id,player_name
-Feb 21,home,University of Calgary,W,5-0,5,0,5.0,win,,,,,,,,,,,,,5.0,win,,,,,,,,,,,,2020,2019-20,div1,Southern Idaho,collegeofsouthernidaho,noahhenningsp7vo,Noah Hennings
-Feb 21,home,University of Calgary,W,10-1,10,1,9.0,win,20200221_yy4f,2,3,1,1,,,0,2,,1,,9.0,win,20200221_yy4f,,,,2,1,,1,,,4,2020,2019-20,div1,Southern Idaho,collegeofsouthernidaho,noahhenningsp7vo,Noah Hennings
-Feb 22,home,University of Calgary,W,12-0,12,0,12.0,win,20200222_nqtt,2,0,0,,,,0,1,1,1,,12.0,win,20200222_nqtt,,,,0,0,,1,,,3,2020,2019-20,div1,Southern Idaho,collegeofsouthernidaho,noahhenningsp7vo,Noah Hennings
-Feb 22,home,University of Calgary,W,13-3,13,3,10.0,win,,,,,,,,,,,,,10.0,win,,,,,,,,,,,,2020,2019-20,div1,Southern Idaho,collegeofsouthernidaho,noahhenningsp7vo,Noah Hennings
-Feb 23,home,University of Calgary,W,12-0,12,0,12.0,win,20200223_mr66,3,1,3,1,,1,3,,,,,12.0,win,20200223_mr66,,,,7,2,,,,,3,2020,2019-20,div1,Southern Idaho,collegeofsouthernidaho,noahhenningsp7vo,Noah Hennings
-Mar 5,home,Salt Lake,L,3-2,3,2,1.0,win,20200305_kuak,3,0,1,,,,0,,1,,,1.0,win,20200305_kuak,1,,,1,0,,,1,,4,2020,2019-20,div1,Southern Idaho,collegeofsouthernidaho,noahhenningsp7vo,Noah Hennings
-Mar 6,home,Salt Lake,L,2-1,2,1,1.0,win,20200306_h1aa,3,0,1,,,,0,,1,,1,1.0,win,20200306_h1aa,,,,1,0,,1,,,3,2020,2019-20,div1,Southern Idaho,collegeofsouthernidaho,noahhenningsp7vo,Noah Hennings
-Mar 6,home,Salt Lake,W,5-4,5,4,1.0,win,20200306_xqt8,3,2,2,1,,,2,,1,,,1.0,win,20200306_xqt8,,,,3,1,,,,,3,2020,2019-20,div1,Southern Idaho,collegeofsouthernidaho,noahhenningsp7vo,Noah Hennings
-Mar 7,home,Salt Lake,L,8-2,8,2,6.0,win,20200307_hsbw,4,0,1,,,,0,,1,,,6.0,win,20200307_hsbw,,,,1,0,,1,1,1.00,4,2020,2019-20,div1,Southern Idaho,collegeofsouthernidaho,noahhenningsp7vo,Noah Hennings
-Mar 26,home,Utah State Eastern,,,,,6.0,win,,,,,,,,,,,,,6.0,win,,,,,,,,,,,,2020,2019-20,div1,Southern Idaho,collegeofsouthernidaho,noahhenningsp7vo,Noah Hennings
-Mar 27,home,Utah State Eastern,,,,,6.0,win,,,,,,,,,,,,,6.0,win,,,,,,,,,,,,2020,2019-20,div1,Southern Idaho,collegeofsouthernidaho,noahhenningsp7vo,Noah Hennings
-Mar 27,home,Utah State Eastern,,,,,6.0,win,,,,,,,,,,,,,6.0,win,,,,,,,,,,,,2020,2019-20,div1,Southern Idaho,collegeofsouthernidaho,noahhenningsp7vo,Noah Hennings
-Mar 27,home,Utah State Eastern,,,,,6.0,win,,,,,,,,,,,,,6.0,win,,,,,,,,,,,,2020,2019-20,div1,Southern Idaho,collegeofsouthernidaho,noahhenningsp7vo,Noah Hennings
-Mar 27,home,Utah State Eastern,,,,,6.0,win,,,,,,,,,,,,,6.0,win,,,,,,,,,,,,2020,2019-20,div1,Southern Idaho,collegeofsouthernidaho,noahhenningsp7vo,Noah Hennings
-Mar 28,home,Utah State Eastern,,,,,6.0,win,,,,,,,,,,,,,6.0,win,,,,,,,,,,,,2020,2019-20,div1,Southern Idaho,collegeofsouthernidaho,noahhenningsp7vo,Noah Hennings
+date,location,opponent,result,score,team_score,opp_score,game_score_diff,game_win_loss,game_id,AB,R,H,2B,3B,HR,RBI,BB,K,SB,CS,HBP,SF,SH,TB,XBH,HDP,GO,FO,GO/FO,PA,season,njcaa_season,njcaa_division,team,team_id,player_id,player_name
+Jan 31,home,Cochise,L,6-5,6,5,1.0,win,,,,,,,,,,,,,,,,,,,,,,,2020,2019-20,div1,Southern Idaho,collegeofsouthernidaho,noahhenningsp7vo,Noah Hennings
+Feb 1,home,Cochise,L,9-5,9,5,4.0,win,20200201_40ds,3,1,1,,,1,3,,,,,,,,4,1,,,,,3,2020,2019-20,div1,Southern Idaho,collegeofsouthernidaho,noahhenningsp7vo,Noah Hennings
+Feb 1,home,Cochise,L,8-7,8,7,1.0,win,20200201_k5ug,3,0,0,,,,0,,1,,,,,,0,0,,,,,3,2020,2019-20,div1,Southern Idaho,collegeofsouthernidaho,noahhenningsp7vo,Noah Hennings
+Feb 2,home,Cochise,W,11-1,11,1,10.0,win,,,,,,,,,,,,,,,,,,,,,,,2020,2019-20,div1,Southern Idaho,collegeofsouthernidaho,noahhenningsp7vo,Noah Hennings
+Feb 5,home,Scottsdale,W,5-4,5,4,1.0,win,20200205_bvcb,1,0,0,,,,0,,1,,,,,,0,0,,,,,1,2020,2019-20,div1,Southern Idaho,collegeofsouthernidaho,noahhenningsp7vo,Noah Hennings
+Feb 6,home,Scottsdale,W,7-2,7,2,5.0,win,,,,,,,,,,,,,,,,,,,,,,,2020,2019-20,div1,Southern Idaho,collegeofsouthernidaho,noahhenningsp7vo,Noah Hennings
+Feb 6,home,Scottsdale,L,3-2,3,2,1.0,win,20200206_5pwp,2,0,1,1,,,0,,,,,,,,2,1,,,,,2,2020,2019-20,div1,Southern Idaho,collegeofsouthernidaho,noahhenningsp7vo,Noah Hennings
+Feb 7,home,Scottsdale,L,15-8,15,8,7.0,win,20200207_er9a,4,0,0,,,,0,,1,,,,,,0,0,,,,,4,2020,2019-20,div1,Southern Idaho,collegeofsouthernidaho,noahhenningsp7vo,Noah Hennings
+Feb 21,home,University of Calgary,W,5-0,5,0,5.0,win,,,,,,,,,,,,,,,,,,,,,,,2020,2019-20,div1,Southern Idaho,collegeofsouthernidaho,noahhenningsp7vo,Noah Hennings
+Feb 21,home,University of Calgary,W,10-1,10,1,9.0,win,20200221_yy4f,2,3,1,1,,,0,2,,1,,,,,2,1,,1,,,4,2020,2019-20,div1,Southern Idaho,collegeofsouthernidaho,noahhenningsp7vo,Noah Hennings
+Feb 22,home,University of Calgary,W,12-0,12,0,12.0,win,20200222_nqtt,2,0,0,,,,0,1,1,1,,,,,0,0,,1,,,3,2020,2019-20,div1,Southern Idaho,collegeofsouthernidaho,noahhenningsp7vo,Noah Hennings
+Feb 22,home,University of Calgary,W,13-3,13,3,10.0,win,,,,,,,,,,,,,,,,,,,,,,,2020,2019-20,div1,Southern Idaho,collegeofsouthernidaho,noahhenningsp7vo,Noah Hennings
+Feb 23,home,University of Calgary,W,12-0,12,0,12.0,win,20200223_mr66,3,1,3,1,,1,3,,,,,,,,7,2,,,,,3,2020,2019-20,div1,Southern Idaho,collegeofsouthernidaho,noahhenningsp7vo,Noah Hennings
+Feb 27,home,Southern Nevada,L,7-3,7,3,4.0,win,20200227_60pl,3,0,0,,,,0,,,,,,,,0,0,,1,2,0.50,3,2020,2019-20,div1,Southern Idaho,collegeofsouthernidaho,noahhenningsp7vo,Noah Hennings
+Feb 28,home,Southern Nevada,L,4-2,4,2,2.0,win,20200228_l5gj,3,1,0,,,,0,,1,,,,,,0,0,,1,1,1.00,3,2020,2019-20,div1,Southern Idaho,collegeofsouthernidaho,noahhenningsp7vo,Noah Hennings
+Feb 28,home,Southern Nevada,L,13-3,13,3,10.0,win,20200228_g5e3,3,0,1,,,,0,,1,1,,,,,1,0,,,,,3,2020,2019-20,div1,Southern Idaho,collegeofsouthernidaho,noahhenningsp7vo,Noah Hennings
+Feb 29,home,Southern Nevada,L,16-8,16,8,8.0,win,20200229_28fk,4,0,2,,,,0,,1,,,,,,2,0,,,1,,4,2020,2019-20,div1,Southern Idaho,collegeofsouthernidaho,noahhenningsp7vo,Noah Hennings
+Mar 5,home,Salt Lake,L,3-2,3,2,1.0,win,20200305_kuak,3,0,1,,,,0,,1,,,1,,,1,0,,,1,,4,2020,2019-20,div1,Southern Idaho,collegeofsouthernidaho,noahhenningsp7vo,Noah Hennings
+Mar 6,home,Salt Lake,L,2-1,2,1,1.0,win,20200306_h1aa,3,0,1,,,,0,,1,,1,,,,1,0,,1,,,3,2020,2019-20,div1,Southern Idaho,collegeofsouthernidaho,noahhenningsp7vo,Noah Hennings
+Mar 6,home,Salt Lake,W,5-4,5,4,1.0,win,20200306_xqt8,3,2,2,1,,,2,,1,,,,,,3,1,,,,,3,2020,2019-20,div1,Southern Idaho,collegeofsouthernidaho,noahhenningsp7vo,Noah Hennings
+Mar 7,home,Salt Lake,L,8-2,8,2,6.0,win,20200307_hsbw,4,0,1,,,,0,,1,,,,,,1,0,,1,1,1.00,4,2020,2019-20,div1,Southern Idaho,collegeofsouthernidaho,noahhenningsp7vo,Noah Hennings
+Mar 26,home,Utah State Eastern,,,,,6.0,win,,,,,,,,,,,,,,,,,,,,,,,2020,2019-20,div1,Southern Idaho,collegeofsouthernidaho,noahhenningsp7vo,Noah Hennings
+Mar 27,home,Utah State Eastern,,,,,6.0,win,,,,,,,,,,,,,,,,,,,,,,,2020,2019-20,div1,Southern Idaho,collegeofsouthernidaho,noahhenningsp7vo,Noah Hennings
+Mar 27,home,Utah State Eastern,,,,,6.0,win,,,,,,,,,,,,,,,,,,,,,,,2020,2019-20,div1,Southern Idaho,collegeofsouthernidaho,noahhenningsp7vo,Noah Hennings
+Mar 27,home,Utah State Eastern,,,,,6.0,win,,,,,,,,,,,,,,,,,,,,,,,2020,2019-20,div1,Southern Idaho,collegeofsouthernidaho,noahhenningsp7vo,Noah Hennings
+Mar 27,home,Utah State Eastern,,,,,6.0,win,,,,,,,,,,,,,,,,,,,,,,,2020,2019-20,div1,Southern Idaho,collegeofsouthernidaho,noahhenningsp7vo,Noah Hennings
+Mar 28,home,Utah State Eastern,,,,,6.0,win,,,,,,,,,,,,,,,,,,,,,,,2020,2019-20,div1,Southern Idaho,collegeofsouthernidaho,noahhenningsp7vo,Noah Hennings
+Apr 9,home,Salt Lake,,,,,6.0,win,,,,,,,,,,,,,,,,,,,,,,,2020,2019-20,div1,Southern Idaho,collegeofsouthernidaho,noahhenningsp7vo,Noah Hennings
+Apr 10,home,Salt Lake,,,,,6.0,win,,,,,,,,,,,,,,,,,,,,,,,2020,2019-20,div1,Southern Idaho,collegeofsouthernidaho,noahhenningsp7vo,Noah Hennings
+Apr 10,home,Salt Lake,,,,,6.0,win,,,,,,,,,,,,,,,,,,,,,,,2020,2019-20,div1,Southern Idaho,collegeofsouthernidaho,noahhenningsp7vo,Noah Hennings
+Apr 10,home,Salt Lake,,,,,6.0,win,,,,,,,,,,,,,,,,,,,,,,,2020,2019-20,div1,Southern Idaho,collegeofsouthernidaho,noahhenningsp7vo,Noah Hennings
+Apr 10,home,Salt Lake,,,,,6.0,win,,,,,,,,,,,,,,,,,,,,,,,2020,2019-20,div1,Southern Idaho,collegeofsouthernidaho,noahhenningsp7vo,Noah Hennings
+Apr 11,home,Salt Lake,,,,,6.0,win,,,,,,,,,,,,,,,,,,,,,,,2020,2019-20,div1,Southern Idaho,collegeofsouthernidaho,noahhenningsp7vo,Noah Hennings
+Apr 30,home,Utah State Eastern,,,,,6.0,win,,,,,,,,,,,,,,,,,,,,,,,2020,2019-20,div1,Southern Idaho,collegeofsouthernidaho,noahhenningsp7vo,Noah Hennings
+May 1,home,Utah State Eastern,,,,,6.0,win,,,,,,,,,,,,,,,,,,,,,,,2020,2019-20,div1,Southern Idaho,collegeofsouthernidaho,noahhenningsp7vo,Noah Hennings
+May 1,home,Utah State Eastern,,,,,6.0,win,,,,,,,,,,,,,,,,,,,,,,,2020,2019-20,div1,Southern Idaho,collegeofsouthernidaho,noahhenningsp7vo,Noah Hennings
+May 1,home,Utah State Eastern,,,,,6.0,win,,,,,,,,,,,,,,,,,,,,,,,2020,2019-20,div1,Southern Idaho,collegeofsouthernidaho,noahhenningsp7vo,Noah Hennings
+May 1,home,Utah State Eastern,,,,,6.0,win,,,,,,,,,,,,,,,,,,,,,,,2020,2019-20,div1,Southern Idaho,collegeofsouthernidaho,noahhenningsp7vo,Noah Hennings
+May 2,home,Utah State Eastern,,,,,6.0,win,,,,,,,,,,,,,,,,,,,,,,,2020,2019-20,div1,Southern Idaho,collegeofsouthernidaho,noahhenningsp7vo,Noah Hennings

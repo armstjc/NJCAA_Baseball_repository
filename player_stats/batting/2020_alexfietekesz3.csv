@@ -1,55 +1,104 @@
-date,location,opponent,result,score,team_score,opp_score,game_score_diff_x,game_win_loss_x,game_id_x,AB,R,H,2B,3B,HR,RBI,BB,K,SB,CS,game_score_diff_y,game_win_loss_y,game_id_y,HBP,SF,SH,TB,XBH,HDP,GO,FO,GO/FO,PA,season,njcaa_season,njcaa_division,team,team_id,player_id,player_name
-Mar 7,home,Colby,W,10-8,10,8,2.0,win,,,,,,,,,,,,,2.0,win,,,,,,,,,,,,2020,2019-20,div1,Dodge City,dodgecitycommunitycollege,alexfietekesz3,Alex Fietek
-Mar 7,home,Colby,W,14-13,14,13,1.0,win,,,,,,,,,,,,,1.0,win,,,,,,,,,,,,2020,2019-20,div1,Dodge City,dodgecitycommunitycollege,alexfietekesz3,Alex Fietek
-Mar 13,home,Marshalltown,,,,,1.0,win,,,,,,,,,,,,,1.0,win,,,,,,,,,,,,2020,2019-20,div1,Dodge City,dodgecitycommunitycollege,alexfietekesz3,Alex Fietek
-Mar 13,home,Marshalltown,,,,,1.0,win,,,,,,,,,,,,,1.0,win,,,,,,,,,,,,2020,2019-20,div1,Dodge City,dodgecitycommunitycollege,alexfietekesz3,Alex Fietek
-Mar 13,home,Marshalltown,,,,,1.0,win,,,,,,,,,,,,,1.0,win,,,,,,,,,,,,2020,2019-20,div1,Dodge City,dodgecitycommunitycollege,alexfietekesz3,Alex Fietek
-Mar 13,home,Marshalltown,,,,,1.0,win,,,,,,,,,,,,,1.0,win,,,,,,,,,,,,2020,2019-20,div1,Dodge City,dodgecitycommunitycollege,alexfietekesz3,Alex Fietek
-Mar 14,home,Marshalltown,,,,,1.0,win,,,,,,,,,,,,,1.0,win,,,,,,,,,,,,2020,2019-20,div1,Dodge City,dodgecitycommunitycollege,alexfietekesz3,Alex Fietek
-Mar 14,home,Marshalltown,,,,,1.0,win,,,,,,,,,,,,,1.0,win,,,,,,,,,,,,2020,2019-20,div1,Dodge City,dodgecitycommunitycollege,alexfietekesz3,Alex Fietek
-Mar 14,home,Marshalltown,,,,,1.0,win,,,,,,,,,,,,,1.0,win,,,,,,,,,,,,2020,2019-20,div1,Dodge City,dodgecitycommunitycollege,alexfietekesz3,Alex Fietek
-Mar 14,home,Marshalltown,,,,,1.0,win,,,,,,,,,,,,,1.0,win,,,,,,,,,,,,2020,2019-20,div1,Dodge City,dodgecitycommunitycollege,alexfietekesz3,Alex Fietek
-Mar 19,home,Barton,,,,,1.0,win,,,,,,,,,,,,,1.0,win,,,,,,,,,,,,2020,2019-20,div1,Dodge City,dodgecitycommunitycollege,alexfietekesz3,Alex Fietek
-Mar 19,home,Barton,,,,,1.0,win,,,,,,,,,,,,,1.0,win,,,,,,,,,,,,2020,2019-20,div1,Dodge City,dodgecitycommunitycollege,alexfietekesz3,Alex Fietek
-Mar 19,home,Barton,,,,,1.0,win,,,,,,,,,,,,,1.0,win,,,,,,,,,,,,2020,2019-20,div1,Dodge City,dodgecitycommunitycollege,alexfietekesz3,Alex Fietek
-Mar 19,home,Barton,,,,,1.0,win,,,,,,,,,,,,,1.0,win,,,,,,,,,,,,2020,2019-20,div1,Dodge City,dodgecitycommunitycollege,alexfietekesz3,Alex Fietek
-Mar 24,home,Otero,,,,,1.0,win,,,,,,,,,,,,,1.0,win,,,,,,,,,,,,2020,2019-20,div1,Dodge City,dodgecitycommunitycollege,alexfietekesz3,Alex Fietek
-Mar 24,home,Otero,,,,,1.0,win,,,,,,,,,,,,,1.0,win,,,,,,,,,,,,2020,2019-20,div1,Dodge City,dodgecitycommunitycollege,alexfietekesz3,Alex Fietek
-Mar 24,home,Otero,,,,,1.0,win,,,,,,,,,,,,,1.0,win,,,,,,,,,,,,2020,2019-20,div1,Dodge City,dodgecitycommunitycollege,alexfietekesz3,Alex Fietek
-Mar 24,home,Otero,,,,,1.0,win,,,,,,,,,,,,,1.0,win,,,,,,,,,,,,2020,2019-20,div1,Dodge City,dodgecitycommunitycollege,alexfietekesz3,Alex Fietek
-Mar 28,home,Seward County,,,,,1.0,win,,,,,,,,,,,,,1.0,win,,,,,,,,,,,,2020,2019-20,div1,Dodge City,dodgecitycommunitycollege,alexfietekesz3,Alex Fietek
-Mar 28,home,Seward County,,,,,1.0,win,,,,,,,,,,,,,1.0,win,,,,,,,,,,,,2020,2019-20,div1,Dodge City,dodgecitycommunitycollege,alexfietekesz3,Alex Fietek
-Mar 28,home,Seward County,,,,,1.0,win,,,,,,,,,,,,,1.0,win,,,,,,,,,,,,2020,2019-20,div1,Dodge City,dodgecitycommunitycollege,alexfietekesz3,Alex Fietek
-Mar 28,home,Seward County,,,,,1.0,win,,,,,,,,,,,,,1.0,win,,,,,,,,,,,,2020,2019-20,div1,Dodge City,dodgecitycommunitycollege,alexfietekesz3,Alex Fietek
-Mar 30,home,Tabor College,,,,,1.0,win,,,,,,,,,,,,,1.0,win,,,,,,,,,,,,2020,2019-20,div1,Dodge City,dodgecitycommunitycollege,alexfietekesz3,Alex Fietek
-Mar 30,home,Tabor College,,,,,1.0,win,,,,,,,,,,,,,1.0,win,,,,,,,,,,,,2020,2019-20,div1,Dodge City,dodgecitycommunitycollege,alexfietekesz3,Alex Fietek
-Mar 30,home,Tabor College,,,,,1.0,win,,,,,,,,,,,,,1.0,win,,,,,,,,,,,,2020,2019-20,div1,Dodge City,dodgecitycommunitycollege,alexfietekesz3,Alex Fietek
-Mar 30,home,Tabor College,,,,,1.0,win,,,,,,,,,,,,,1.0,win,,,,,,,,,,,,2020,2019-20,div1,Dodge City,dodgecitycommunitycollege,alexfietekesz3,Alex Fietek
-Apr 2,home,Butler,,,,,1.0,win,,,,,,,,,,,,,1.0,win,,,,,,,,,,,,2020,2019-20,div1,Dodge City,dodgecitycommunitycollege,alexfietekesz3,Alex Fietek
-Apr 2,home,Butler,,,,,1.0,win,,,,,,,,,,,,,1.0,win,,,,,,,,,,,,2020,2019-20,div1,Dodge City,dodgecitycommunitycollege,alexfietekesz3,Alex Fietek
-Apr 2,home,Butler,,,,,1.0,win,,,,,,,,,,,,,1.0,win,,,,,,,,,,,,2020,2019-20,div1,Dodge City,dodgecitycommunitycollege,alexfietekesz3,Alex Fietek
-Apr 2,home,Butler,,,,,1.0,win,,,,,,,,,,,,,1.0,win,,,,,,,,,,,,2020,2019-20,div1,Dodge City,dodgecitycommunitycollege,alexfietekesz3,Alex Fietek
-Apr 11,home,Pratt,,,,,1.0,win,,,,,,,,,,,,,1.0,win,,,,,,,,,,,,2020,2019-20,div1,Dodge City,dodgecitycommunitycollege,alexfietekesz3,Alex Fietek
-Apr 11,home,Pratt,,,,,1.0,win,,,,,,,,,,,,,1.0,win,,,,,,,,,,,,2020,2019-20,div1,Dodge City,dodgecitycommunitycollege,alexfietekesz3,Alex Fietek
-Apr 11,home,Pratt,,,,,1.0,win,,,,,,,,,,,,,1.0,win,,,,,,,,,,,,2020,2019-20,div1,Dodge City,dodgecitycommunitycollege,alexfietekesz3,Alex Fietek
-Apr 11,home,Pratt,,,,,1.0,win,,,,,,,,,,,,,1.0,win,,,,,,,,,,,,2020,2019-20,div1,Dodge City,dodgecitycommunitycollege,alexfietekesz3,Alex Fietek
-Apr 14,home,Lamar,,,,,1.0,win,,,,,,,,,,,,,1.0,win,,,,,,,,,,,,2020,2019-20,div1,Dodge City,dodgecitycommunitycollege,alexfietekesz3,Alex Fietek
-Apr 14,home,Lamar,,,,,1.0,win,,,,,,,,,,,,,1.0,win,,,,,,,,,,,,2020,2019-20,div1,Dodge City,dodgecitycommunitycollege,alexfietekesz3,Alex Fietek
-Apr 14,home,Lamar,,,,,1.0,win,,,,,,,,,,,,,1.0,win,,,,,,,,,,,,2020,2019-20,div1,Dodge City,dodgecitycommunitycollege,alexfietekesz3,Alex Fietek
-Apr 14,home,Lamar,,,,,1.0,win,,,,,,,,,,,,,1.0,win,,,,,,,,,,,,2020,2019-20,div1,Dodge City,dodgecitycommunitycollege,alexfietekesz3,Alex Fietek
-Apr 16,home,Garden City,,,,,1.0,win,,,,,,,,,,,,,1.0,win,,,,,,,,,,,,2020,2019-20,div1,Dodge City,dodgecitycommunitycollege,alexfietekesz3,Alex Fietek
-Apr 16,home,Garden City,,,,,1.0,win,,,,,,,,,,,,,1.0,win,,,,,,,,,,,,2020,2019-20,div1,Dodge City,dodgecitycommunitycollege,alexfietekesz3,Alex Fietek
-Apr 16,home,Garden City,,,,,1.0,win,,,,,,,,,,,,,1.0,win,,,,,,,,,,,,2020,2019-20,div1,Dodge City,dodgecitycommunitycollege,alexfietekesz3,Alex Fietek
-Apr 16,home,Garden City,,,,,1.0,win,,,,,,,,,,,,,1.0,win,,,,,,,,,,,,2020,2019-20,div1,Dodge City,dodgecitycommunitycollege,alexfietekesz3,Alex Fietek
-Apr 25,home,Cloud County,,,,,1.0,win,,,,,,,,,,,,,1.0,win,,,,,,,,,,,,2020,2019-20,div1,Dodge City,dodgecitycommunitycollege,alexfietekesz3,Alex Fietek
-Apr 25,home,Cloud County,,,,,1.0,win,,,,,,,,,,,,,1.0,win,,,,,,,,,,,,2020,2019-20,div1,Dodge City,dodgecitycommunitycollege,alexfietekesz3,Alex Fietek
-Apr 25,home,Cloud County,,,,,1.0,win,,,,,,,,,,,,,1.0,win,,,,,,,,,,,,2020,2019-20,div1,Dodge City,dodgecitycommunitycollege,alexfietekesz3,Alex Fietek
-Apr 25,home,Cloud County,,,,,1.0,win,,,,,,,,,,,,,1.0,win,,,,,,,,,,,,2020,2019-20,div1,Dodge City,dodgecitycommunitycollege,alexfietekesz3,Alex Fietek
-Apr 28,home,Hesston,,,,,1.0,win,,,,,,,,,,,,,1.0,win,,,,,,,,,,,,2020,2019-20,div1,Dodge City,dodgecitycommunitycollege,alexfietekesz3,Alex Fietek
-Apr 28,home,Hesston,,,,,1.0,win,,,,,,,,,,,,,1.0,win,,,,,,,,,,,,2020,2019-20,div1,Dodge City,dodgecitycommunitycollege,alexfietekesz3,Alex Fietek
-Apr 28,home,Hesston,,,,,1.0,win,,,,,,,,,,,,,1.0,win,,,,,,,,,,,,2020,2019-20,div1,Dodge City,dodgecitycommunitycollege,alexfietekesz3,Alex Fietek
-Apr 28,home,Hesston,,,,,1.0,win,,,,,,,,,,,,,1.0,win,,,,,,,,,,,,2020,2019-20,div1,Dodge City,dodgecitycommunitycollege,alexfietekesz3,Alex Fietek
-Apr 30,home,Hutchinson,,,,,1.0,win,,,,,,,,,,,,,1.0,win,,,,,,,,,,,,2020,2019-20,div1,Dodge City,dodgecitycommunitycollege,alexfietekesz3,Alex Fietek
-Apr 30,home,Hutchinson,,,,,1.0,win,,,,,,,,,,,,,1.0,win,,,,,,,,,,,,2020,2019-20,div1,Dodge City,dodgecitycommunitycollege,alexfietekesz3,Alex Fietek
-Apr 30,home,Hutchinson,,,,,1.0,win,,,,,,,,,,,,,1.0,win,,,,,,,,,,,,2020,2019-20,div1,Dodge City,dodgecitycommunitycollege,alexfietekesz3,Alex Fietek
-Apr 30,home,Hutchinson,,,,,1.0,win,,,,,,,,,,,,,1.0,win,,,,,,,,,,,,2020,2019-20,div1,Dodge City,dodgecitycommunitycollege,alexfietekesz3,Alex Fietek
+date,location,opponent,result,score,team_score,opp_score,game_score_diff,game_win_loss,game_id,AB,R,H,2B,3B,HR,RBI,BB,K,SB,CS,HBP,SF,SH,TB,XBH,HDP,GO,FO,GO/FO,PA,season,njcaa_season,njcaa_division,team,team_id,player_id,player_name
+Feb 14,home,New Mexico Military,L,18-5,18,5,13.0,win,,,,,,,,,,,,,,,,,,,,,,,2020,2019-20,div1,Dodge City,dodgecitycommunitycollege,alexfietekesz3,Alex Fietek
+Feb 15,home,Western Nebraska,W,4-2,4,2,2.0,win,,,,,,,,,,,,,,,,,,,,,,,2020,2019-20,div1,Dodge City,dodgecitycommunitycollege,alexfietekesz3,Alex Fietek
+Feb 15,home,El Paso,L,18-10,18,10,8.0,win,,,,,,,,,,,,,,,,,,,,,,,2020,2019-20,div1,Dodge City,dodgecitycommunitycollege,alexfietekesz3,Alex Fietek
+Feb 16,home,Lamar,W,22-20,22,20,2.0,win,,,,,,,,,,,,,,,,,,,,,,,2020,2019-20,div1,Dodge City,dodgecitycommunitycollege,alexfietekesz3,Alex Fietek
+Feb 24,home,Northwestern Oklahoma State University JV,W,10-4,10,4,6.0,win,20200224_w27a,0,0,0,,,,0,,,,,,,,0,0,,,,,0,2020,2019-20,div1,Dodge City,dodgecitycommunitycollege,alexfietekesz3,Alex Fietek
+Feb 24,home,Northwest Oklahoma State University JV,L,2-1,2,1,1.0,win,,,,,,,,,,,,,,,,,,,,,,,2020,2019-20,div1,Dodge City,dodgecitycommunitycollege,alexfietekesz3,Alex Fietek
+Feb 28,home,Frank Phillips,L,17-12,17,12,5.0,win,,,,,,,,,,,,,,,,,,,,,,,2020,2019-20,div1,Dodge City,dodgecitycommunitycollege,alexfietekesz3,Alex Fietek
+Feb 29,home,Frank Phillips,W,12-11,12,11,1.0,win,,,,,,,,,,,,,,,,,,,,,,,2020,2019-20,div1,Dodge City,dodgecitycommunitycollege,alexfietekesz3,Alex Fietek
+Feb 29,home,Frank Phillips,W,12-11,12,11,1.0,win,,,,,,,,,,,,,,,,,,,,,,,2020,2019-20,div1,Dodge City,dodgecitycommunitycollege,alexfietekesz3,Alex Fietek
+Feb 29,home,Frank Phillips,W,12-11,12,11,1.0,win,,,,,,,,,,,,,,,,,,,,,,,2020,2019-20,div1,Dodge City,dodgecitycommunitycollege,alexfietekesz3,Alex Fietek
+Feb 29,home,Frank Phillips,W,12-11,12,11,1.0,win,,,,,,,,,,,,,,,,,,,,,,,2020,2019-20,div1,Dodge City,dodgecitycommunitycollege,alexfietekesz3,Alex Fietek
+Mar 5,home,Colby,L,17-3,17,3,14.0,win,,,,,,,,,,,,,,,,,,,,,,,2020,2019-20,div1,Dodge City,dodgecitycommunitycollege,alexfietekesz3,Alex Fietek
+Mar 5,home,Colby,L,11-7,11,7,4.0,win,20200305_het9,0,0,0,,,,0,,,,,,,,0,0,,,,,0,2020,2019-20,div1,Dodge City,dodgecitycommunitycollege,alexfietekesz3,Alex Fietek
+Mar 7,home,Colby,W,10-8,10,8,2.0,win,,,,,,,,,,,,,,,,,,,,,,,2020,2019-20,div1,Dodge City,dodgecitycommunitycollege,alexfietekesz3,Alex Fietek
+Mar 7,home,Colby,W,14-13,14,13,1.0,win,,,,,,,,,,,,,,,,,,,,,,,2020,2019-20,div1,Dodge City,dodgecitycommunitycollege,alexfietekesz3,Alex Fietek
+Mar 13,home,Marshalltown,,,,,1.0,win,,,,,,,,,,,,,,,,,,,,,,,2020,2019-20,div1,Dodge City,dodgecitycommunitycollege,alexfietekesz3,Alex Fietek
+Mar 13,home,Marshalltown,,,,,1.0,win,,,,,,,,,,,,,,,,,,,,,,,2020,2019-20,div1,Dodge City,dodgecitycommunitycollege,alexfietekesz3,Alex Fietek
+Mar 13,home,Marshalltown,,,,,1.0,win,,,,,,,,,,,,,,,,,,,,,,,2020,2019-20,div1,Dodge City,dodgecitycommunitycollege,alexfietekesz3,Alex Fietek
+Mar 13,home,Marshalltown,,,,,1.0,win,,,,,,,,,,,,,,,,,,,,,,,2020,2019-20,div1,Dodge City,dodgecitycommunitycollege,alexfietekesz3,Alex Fietek
+Mar 14,home,Marshalltown,,,,,1.0,win,,,,,,,,,,,,,,,,,,,,,,,2020,2019-20,div1,Dodge City,dodgecitycommunitycollege,alexfietekesz3,Alex Fietek
+Mar 14,home,Marshalltown,,,,,1.0,win,,,,,,,,,,,,,,,,,,,,,,,2020,2019-20,div1,Dodge City,dodgecitycommunitycollege,alexfietekesz3,Alex Fietek
+Mar 14,home,Marshalltown,,,,,1.0,win,,,,,,,,,,,,,,,,,,,,,,,2020,2019-20,div1,Dodge City,dodgecitycommunitycollege,alexfietekesz3,Alex Fietek
+Mar 14,home,Marshalltown,,,,,1.0,win,,,,,,,,,,,,,,,,,,,,,,,2020,2019-20,div1,Dodge City,dodgecitycommunitycollege,alexfietekesz3,Alex Fietek
+Mar 19,home,Barton,,,,,1.0,win,,,,,,,,,,,,,,,,,,,,,,,2020,2019-20,div1,Dodge City,dodgecitycommunitycollege,alexfietekesz3,Alex Fietek
+Mar 19,home,Barton,,,,,1.0,win,,,,,,,,,,,,,,,,,,,,,,,2020,2019-20,div1,Dodge City,dodgecitycommunitycollege,alexfietekesz3,Alex Fietek
+Mar 19,home,Barton,,,,,1.0,win,,,,,,,,,,,,,,,,,,,,,,,2020,2019-20,div1,Dodge City,dodgecitycommunitycollege,alexfietekesz3,Alex Fietek
+Mar 19,home,Barton,,,,,1.0,win,,,,,,,,,,,,,,,,,,,,,,,2020,2019-20,div1,Dodge City,dodgecitycommunitycollege,alexfietekesz3,Alex Fietek
+Mar 21,home,Barton,,,,,1.0,win,,,,,,,,,,,,,,,,,,,,,,,2020,2019-20,div1,Dodge City,dodgecitycommunitycollege,alexfietekesz3,Alex Fietek
+Mar 21,home,Barton,,,,,1.0,win,,,,,,,,,,,,,,,,,,,,,,,2020,2019-20,div1,Dodge City,dodgecitycommunitycollege,alexfietekesz3,Alex Fietek
+Mar 21,home,Barton,,,,,1.0,win,,,,,,,,,,,,,,,,,,,,,,,2020,2019-20,div1,Dodge City,dodgecitycommunitycollege,alexfietekesz3,Alex Fietek
+Mar 21,home,Barton,,,,,1.0,win,,,,,,,,,,,,,,,,,,,,,,,2020,2019-20,div1,Dodge City,dodgecitycommunitycollege,alexfietekesz3,Alex Fietek
+Mar 24,home,Otero,,,,,1.0,win,,,,,,,,,,,,,,,,,,,,,,,2020,2019-20,div1,Dodge City,dodgecitycommunitycollege,alexfietekesz3,Alex Fietek
+Mar 24,home,Otero,,,,,1.0,win,,,,,,,,,,,,,,,,,,,,,,,2020,2019-20,div1,Dodge City,dodgecitycommunitycollege,alexfietekesz3,Alex Fietek
+Mar 24,home,Otero,,,,,1.0,win,,,,,,,,,,,,,,,,,,,,,,,2020,2019-20,div1,Dodge City,dodgecitycommunitycollege,alexfietekesz3,Alex Fietek
+Mar 24,home,Otero,,,,,1.0,win,,,,,,,,,,,,,,,,,,,,,,,2020,2019-20,div1,Dodge City,dodgecitycommunitycollege,alexfietekesz3,Alex Fietek
+Mar 26,home,Seward County,,,,,1.0,win,,,,,,,,,,,,,,,,,,,,,,,2020,2019-20,div1,Dodge City,dodgecitycommunitycollege,alexfietekesz3,Alex Fietek
+Mar 26,home,Seward County,,,,,1.0,win,,,,,,,,,,,,,,,,,,,,,,,2020,2019-20,div1,Dodge City,dodgecitycommunitycollege,alexfietekesz3,Alex Fietek
+Mar 26,home,Seward County,,,,,1.0,win,,,,,,,,,,,,,,,,,,,,,,,2020,2019-20,div1,Dodge City,dodgecitycommunitycollege,alexfietekesz3,Alex Fietek
+Mar 26,home,Seward County,,,,,1.0,win,,,,,,,,,,,,,,,,,,,,,,,2020,2019-20,div1,Dodge City,dodgecitycommunitycollege,alexfietekesz3,Alex Fietek
+Mar 28,home,Seward County,,,,,1.0,win,,,,,,,,,,,,,,,,,,,,,,,2020,2019-20,div1,Dodge City,dodgecitycommunitycollege,alexfietekesz3,Alex Fietek
+Mar 28,home,Seward County,,,,,1.0,win,,,,,,,,,,,,,,,,,,,,,,,2020,2019-20,div1,Dodge City,dodgecitycommunitycollege,alexfietekesz3,Alex Fietek
+Mar 28,home,Seward County,,,,,1.0,win,,,,,,,,,,,,,,,,,,,,,,,2020,2019-20,div1,Dodge City,dodgecitycommunitycollege,alexfietekesz3,Alex Fietek
+Mar 28,home,Seward County,,,,,1.0,win,,,,,,,,,,,,,,,,,,,,,,,2020,2019-20,div1,Dodge City,dodgecitycommunitycollege,alexfietekesz3,Alex Fietek
+Mar 30,home,Tabor College,,,,,1.0,win,,,,,,,,,,,,,,,,,,,,,,,2020,2019-20,div1,Dodge City,dodgecitycommunitycollege,alexfietekesz3,Alex Fietek
+Mar 30,home,Tabor College,,,,,1.0,win,,,,,,,,,,,,,,,,,,,,,,,2020,2019-20,div1,Dodge City,dodgecitycommunitycollege,alexfietekesz3,Alex Fietek
+Mar 30,home,Tabor College,,,,,1.0,win,,,,,,,,,,,,,,,,,,,,,,,2020,2019-20,div1,Dodge City,dodgecitycommunitycollege,alexfietekesz3,Alex Fietek
+Mar 30,home,Tabor College,,,,,1.0,win,,,,,,,,,,,,,,,,,,,,,,,2020,2019-20,div1,Dodge City,dodgecitycommunitycollege,alexfietekesz3,Alex Fietek
+Apr 2,home,Butler,,,,,1.0,win,,,,,,,,,,,,,,,,,,,,,,,2020,2019-20,div1,Dodge City,dodgecitycommunitycollege,alexfietekesz3,Alex Fietek
+Apr 2,home,Butler,,,,,1.0,win,,,,,,,,,,,,,,,,,,,,,,,2020,2019-20,div1,Dodge City,dodgecitycommunitycollege,alexfietekesz3,Alex Fietek
+Apr 2,home,Butler,,,,,1.0,win,,,,,,,,,,,,,,,,,,,,,,,2020,2019-20,div1,Dodge City,dodgecitycommunitycollege,alexfietekesz3,Alex Fietek
+Apr 2,home,Butler,,,,,1.0,win,,,,,,,,,,,,,,,,,,,,,,,2020,2019-20,div1,Dodge City,dodgecitycommunitycollege,alexfietekesz3,Alex Fietek
+Apr 4,home,Butler,,,,,1.0,win,,,,,,,,,,,,,,,,,,,,,,,2020,2019-20,div1,Dodge City,dodgecitycommunitycollege,alexfietekesz3,Alex Fietek
+Apr 4,home,Butler,,,,,1.0,win,,,,,,,,,,,,,,,,,,,,,,,2020,2019-20,div1,Dodge City,dodgecitycommunitycollege,alexfietekesz3,Alex Fietek
+Apr 4,home,Butler,,,,,1.0,win,,,,,,,,,,,,,,,,,,,,,,,2020,2019-20,div1,Dodge City,dodgecitycommunitycollege,alexfietekesz3,Alex Fietek
+Apr 4,home,Butler,,,,,1.0,win,,,,,,,,,,,,,,,,,,,,,,,2020,2019-20,div1,Dodge City,dodgecitycommunitycollege,alexfietekesz3,Alex Fietek
+Apr 7,home,Otero,,,,,1.0,win,,,,,,,,,,,,,,,,,,,,,,,2020,2019-20,div1,Dodge City,dodgecitycommunitycollege,alexfietekesz3,Alex Fietek
+Apr 7,home,Otero,,,,,1.0,win,,,,,,,,,,,,,,,,,,,,,,,2020,2019-20,div1,Dodge City,dodgecitycommunitycollege,alexfietekesz3,Alex Fietek
+Apr 7,home,Otero,,,,,1.0,win,,,,,,,,,,,,,,,,,,,,,,,2020,2019-20,div1,Dodge City,dodgecitycommunitycollege,alexfietekesz3,Alex Fietek
+Apr 7,home,Otero,,,,,1.0,win,,,,,,,,,,,,,,,,,,,,,,,2020,2019-20,div1,Dodge City,dodgecitycommunitycollege,alexfietekesz3,Alex Fietek
+Apr 9,home,Pratt,,,,,1.0,win,,,,,,,,,,,,,,,,,,,,,,,2020,2019-20,div1,Dodge City,dodgecitycommunitycollege,alexfietekesz3,Alex Fietek
+Apr 9,home,Pratt,,,,,1.0,win,,,,,,,,,,,,,,,,,,,,,,,2020,2019-20,div1,Dodge City,dodgecitycommunitycollege,alexfietekesz3,Alex Fietek
+Apr 9,home,Pratt,,,,,1.0,win,,,,,,,,,,,,,,,,,,,,,,,2020,2019-20,div1,Dodge City,dodgecitycommunitycollege,alexfietekesz3,Alex Fietek
+Apr 9,home,Pratt,,,,,1.0,win,,,,,,,,,,,,,,,,,,,,,,,2020,2019-20,div1,Dodge City,dodgecitycommunitycollege,alexfietekesz3,Alex Fietek
+Apr 11,home,Pratt,,,,,1.0,win,,,,,,,,,,,,,,,,,,,,,,,2020,2019-20,div1,Dodge City,dodgecitycommunitycollege,alexfietekesz3,Alex Fietek
+Apr 11,home,Pratt,,,,,1.0,win,,,,,,,,,,,,,,,,,,,,,,,2020,2019-20,div1,Dodge City,dodgecitycommunitycollege,alexfietekesz3,Alex Fietek
+Apr 11,home,Pratt,,,,,1.0,win,,,,,,,,,,,,,,,,,,,,,,,2020,2019-20,div1,Dodge City,dodgecitycommunitycollege,alexfietekesz3,Alex Fietek
+Apr 11,home,Pratt,,,,,1.0,win,,,,,,,,,,,,,,,,,,,,,,,2020,2019-20,div1,Dodge City,dodgecitycommunitycollege,alexfietekesz3,Alex Fietek
+Apr 14,home,Lamar,,,,,1.0,win,,,,,,,,,,,,,,,,,,,,,,,2020,2019-20,div1,Dodge City,dodgecitycommunitycollege,alexfietekesz3,Alex Fietek
+Apr 14,home,Lamar,,,,,1.0,win,,,,,,,,,,,,,,,,,,,,,,,2020,2019-20,div1,Dodge City,dodgecitycommunitycollege,alexfietekesz3,Alex Fietek
+Apr 14,home,Lamar,,,,,1.0,win,,,,,,,,,,,,,,,,,,,,,,,2020,2019-20,div1,Dodge City,dodgecitycommunitycollege,alexfietekesz3,Alex Fietek
+Apr 14,home,Lamar,,,,,1.0,win,,,,,,,,,,,,,,,,,,,,,,,2020,2019-20,div1,Dodge City,dodgecitycommunitycollege,alexfietekesz3,Alex Fietek
+Apr 16,home,Garden City,,,,,1.0,win,,,,,,,,,,,,,,,,,,,,,,,2020,2019-20,div1,Dodge City,dodgecitycommunitycollege,alexfietekesz3,Alex Fietek
+Apr 16,home,Garden City,,,,,1.0,win,,,,,,,,,,,,,,,,,,,,,,,2020,2019-20,div1,Dodge City,dodgecitycommunitycollege,alexfietekesz3,Alex Fietek
+Apr 16,home,Garden City,,,,,1.0,win,,,,,,,,,,,,,,,,,,,,,,,2020,2019-20,div1,Dodge City,dodgecitycommunitycollege,alexfietekesz3,Alex Fietek
+Apr 16,home,Garden City,,,,,1.0,win,,,,,,,,,,,,,,,,,,,,,,,2020,2019-20,div1,Dodge City,dodgecitycommunitycollege,alexfietekesz3,Alex Fietek
+Apr 18,home,Garden City,,,,,1.0,win,,,,,,,,,,,,,,,,,,,,,,,2020,2019-20,div1,Dodge City,dodgecitycommunitycollege,alexfietekesz3,Alex Fietek
+Apr 18,home,Garden City,,,,,1.0,win,,,,,,,,,,,,,,,,,,,,,,,2020,2019-20,div1,Dodge City,dodgecitycommunitycollege,alexfietekesz3,Alex Fietek
+Apr 18,home,Garden City,,,,,1.0,win,,,,,,,,,,,,,,,,,,,,,,,2020,2019-20,div1,Dodge City,dodgecitycommunitycollege,alexfietekesz3,Alex Fietek
+Apr 18,home,Garden City,,,,,1.0,win,,,,,,,,,,,,,,,,,,,,,,,2020,2019-20,div1,Dodge City,dodgecitycommunitycollege,alexfietekesz3,Alex Fietek
+Apr 20,home,Tabor College,,,,,1.0,win,,,,,,,,,,,,,,,,,,,,,,,2020,2019-20,div1,Dodge City,dodgecitycommunitycollege,alexfietekesz3,Alex Fietek
+Apr 20,home,Tabor College,,,,,1.0,win,,,,,,,,,,,,,,,,,,,,,,,2020,2019-20,div1,Dodge City,dodgecitycommunitycollege,alexfietekesz3,Alex Fietek
+Apr 20,home,Tabor College,,,,,1.0,win,,,,,,,,,,,,,,,,,,,,,,,2020,2019-20,div1,Dodge City,dodgecitycommunitycollege,alexfietekesz3,Alex Fietek
+Apr 20,home,Tabor College,,,,,1.0,win,,,,,,,,,,,,,,,,,,,,,,,2020,2019-20,div1,Dodge City,dodgecitycommunitycollege,alexfietekesz3,Alex Fietek
+Apr 23,home,Cloud County,,,,,1.0,win,,,,,,,,,,,,,,,,,,,,,,,2020,2019-20,div1,Dodge City,dodgecitycommunitycollege,alexfietekesz3,Alex Fietek
+Apr 23,home,Cloud County,,,,,1.0,win,,,,,,,,,,,,,,,,,,,,,,,2020,2019-20,div1,Dodge City,dodgecitycommunitycollege,alexfietekesz3,Alex Fietek
+Apr 23,home,Cloud County,,,,,1.0,win,,,,,,,,,,,,,,,,,,,,,,,2020,2019-20,div1,Dodge City,dodgecitycommunitycollege,alexfietekesz3,Alex Fietek
+Apr 23,home,Cloud County,,,,,1.0,win,,,,,,,,,,,,,,,,,,,,,,,2020,2019-20,div1,Dodge City,dodgecitycommunitycollege,alexfietekesz3,Alex Fietek
+Apr 25,home,Cloud County,,,,,1.0,win,,,,,,,,,,,,,,,,,,,,,,,2020,2019-20,div1,Dodge City,dodgecitycommunitycollege,alexfietekesz3,Alex Fietek
+Apr 25,home,Cloud County,,,,,1.0,win,,,,,,,,,,,,,,,,,,,,,,,2020,2019-20,div1,Dodge City,dodgecitycommunitycollege,alexfietekesz3,Alex Fietek
+Apr 25,home,Cloud County,,,,,1.0,win,,,,,,,,,,,,,,,,,,,,,,,2020,2019-20,div1,Dodge City,dodgecitycommunitycollege,alexfietekesz3,Alex Fietek
+Apr 25,home,Cloud County,,,,,1.0,win,,,,,,,,,,,,,,,,,,,,,,,2020,2019-20,div1,Dodge City,dodgecitycommunitycollege,alexfietekesz3,Alex Fietek
+Apr 28,home,Hesston,,,,,1.0,win,,,,,,,,,,,,,,,,,,,,,,,2020,2019-20,div1,Dodge City,dodgecitycommunitycollege,alexfietekesz3,Alex Fietek
+Apr 28,home,Hesston,,,,,1.0,win,,,,,,,,,,,,,,,,,,,,,,,2020,2019-20,div1,Dodge City,dodgecitycommunitycollege,alexfietekesz3,Alex Fietek
+Apr 28,home,Hesston,,,,,1.0,win,,,,,,,,,,,,,,,,,,,,,,,2020,2019-20,div1,Dodge City,dodgecitycommunitycollege,alexfietekesz3,Alex Fietek
+Apr 28,home,Hesston,,,,,1.0,win,,,,,,,,,,,,,,,,,,,,,,,2020,2019-20,div1,Dodge City,dodgecitycommunitycollege,alexfietekesz3,Alex Fietek
+Apr 30,home,Hutchinson,,,,,1.0,win,,,,,,,,,,,,,,,,,,,,,,,2020,2019-20,div1,Dodge City,dodgecitycommunitycollege,alexfietekesz3,Alex Fietek
+Apr 30,home,Hutchinson,,,,,1.0,win,,,,,,,,,,,,,,,,,,,,,,,2020,2019-20,div1,Dodge City,dodgecitycommunitycollege,alexfietekesz3,Alex Fietek
+Apr 30,home,Hutchinson,,,,,1.0,win,,,,,,,,,,,,,,,,,,,,,,,2020,2019-20,div1,Dodge City,dodgecitycommunitycollege,alexfietekesz3,Alex Fietek
+Apr 30,home,Hutchinson,,,,,1.0,win,,,,,,,,,,,,,,,,,,,,,,,2020,2019-20,div1,Dodge City,dodgecitycommunitycollege,alexfietekesz3,Alex Fietek
+May 2,home,Hutchinson,,,,,1.0,win,,,,,,,,,,,,,,,,,,,,,,,2020,2019-20,div1,Dodge City,dodgecitycommunitycollege,alexfietekesz3,Alex Fietek
+May 2,home,Hutchinson,,,,,1.0,win,,,,,,,,,,,,,,,,,,,,,,,2020,2019-20,div1,Dodge City,dodgecitycommunitycollege,alexfietekesz3,Alex Fietek
+May 2,home,Hutchinson,,,,,1.0,win,,,,,,,,,,,,,,,,,,,,,,,2020,2019-20,div1,Dodge City,dodgecitycommunitycollege,alexfietekesz3,Alex Fietek
+May 2,home,Hutchinson,,,,,1.0,win,,,,,,,,,,,,,,,,,,,,,,,2020,2019-20,div1,Dodge City,dodgecitycommunitycollege,alexfietekesz3,Alex Fietek

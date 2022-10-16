@@ -1,16 +1,40 @@
-date,location,opponent,result,score,team_score,opp_score,game_score_diff_x,game_win_loss_x,game_id_x,AB,R,H,2B,3B,HR,RBI,BB,K,SB,CS,game_score_diff_y,game_win_loss_y,game_id_y,HBP,SF,SH,TB,XBH,HDP,GO,FO,GO/FO,PA,season,njcaa_season,njcaa_division,team,team_id,player_id,player_name
-Feb 21,home,University of Calgary,W,5-0,5,0,5.0,win,,,,,,,,,,,,,5.0,win,,,,,,,,,,,,2020,2019-20,div1,Southern Idaho,collegeofsouthernidaho,jaysonhibbard7n88,Jayson Hibbard
-Feb 21,home,University of Calgary,W,10-1,10,1,9.0,win,,,,,,,,,,,,,9.0,win,,,,,,,,,,,,2020,2019-20,div1,Southern Idaho,collegeofsouthernidaho,jaysonhibbard7n88,Jayson Hibbard
-Feb 22,home,University of Calgary,W,12-0,12,0,12.0,win,,,,,,,,,,,,,12.0,win,,,,,,,,,,,,2020,2019-20,div1,Southern Idaho,collegeofsouthernidaho,jaysonhibbard7n88,Jayson Hibbard
-Feb 22,home,University of Calgary,W,13-3,13,3,10.0,win,,,,,,,,,,,,,10.0,win,,,,,,,,,,,,2020,2019-20,div1,Southern Idaho,collegeofsouthernidaho,jaysonhibbard7n88,Jayson Hibbard
-Feb 23,home,University of Calgary,W,12-0,12,0,12.0,win,,,,,,,,,,,,,12.0,win,,,,,,,,,,,,2020,2019-20,div1,Southern Idaho,collegeofsouthernidaho,jaysonhibbard7n88,Jayson Hibbard
-Mar 5,home,Salt Lake,L,3-2,3,2,1.0,win,,,,,,,,,,,,,1.0,win,,,,,,,,,,,,2020,2019-20,div1,Southern Idaho,collegeofsouthernidaho,jaysonhibbard7n88,Jayson Hibbard
-Mar 6,home,Salt Lake,L,2-1,2,1,1.0,win,,,,,,,,,,,,,1.0,win,,,,,,,,,,,,2020,2019-20,div1,Southern Idaho,collegeofsouthernidaho,jaysonhibbard7n88,Jayson Hibbard
-Mar 6,home,Salt Lake,W,5-4,5,4,1.0,win,,,,,,,,,,,,,1.0,win,,,,,,,,,,,,2020,2019-20,div1,Southern Idaho,collegeofsouthernidaho,jaysonhibbard7n88,Jayson Hibbard
-Mar 7,home,Salt Lake,L,8-2,8,2,6.0,win,,,,,,,,,,,,,6.0,win,,,,,,,,,,,,2020,2019-20,div1,Southern Idaho,collegeofsouthernidaho,jaysonhibbard7n88,Jayson Hibbard
-Mar 26,home,Utah State Eastern,,,,,6.0,win,,,,,,,,,,,,,6.0,win,,,,,,,,,,,,2020,2019-20,div1,Southern Idaho,collegeofsouthernidaho,jaysonhibbard7n88,Jayson Hibbard
-Mar 27,home,Utah State Eastern,,,,,6.0,win,,,,,,,,,,,,,6.0,win,,,,,,,,,,,,2020,2019-20,div1,Southern Idaho,collegeofsouthernidaho,jaysonhibbard7n88,Jayson Hibbard
-Mar 27,home,Utah State Eastern,,,,,6.0,win,,,,,,,,,,,,,6.0,win,,,,,,,,,,,,2020,2019-20,div1,Southern Idaho,collegeofsouthernidaho,jaysonhibbard7n88,Jayson Hibbard
-Mar 27,home,Utah State Eastern,,,,,6.0,win,,,,,,,,,,,,,6.0,win,,,,,,,,,,,,2020,2019-20,div1,Southern Idaho,collegeofsouthernidaho,jaysonhibbard7n88,Jayson Hibbard
-Mar 27,home,Utah State Eastern,,,,,6.0,win,,,,,,,,,,,,,6.0,win,,,,,,,,,,,,2020,2019-20,div1,Southern Idaho,collegeofsouthernidaho,jaysonhibbard7n88,Jayson Hibbard
-Mar 28,home,Utah State Eastern,,,,,6.0,win,,,,,,,,,,,,,6.0,win,,,,,,,,,,,,2020,2019-20,div1,Southern Idaho,collegeofsouthernidaho,jaysonhibbard7n88,Jayson Hibbard
+date,location,opponent,result,score,team_score,opp_score,game_score_diff,game_win_loss,game_id,AB,R,H,2B,3B,HR,RBI,BB,K,SB,CS,HBP,SF,SH,TB,XBH,HDP,GO,FO,GO/FO,PA,season,njcaa_season,njcaa_division,team,team_id,player_id,player_name
+Jan 31,home,Cochise,L,6-5,6,5,1.0,win,20200131_4qto,0,0,0,,,,0,,,,,,,,0,0,,,,,0,2020,2019-20,div1,Southern Idaho,collegeofsouthernidaho,jaysonhibbard7n88,Jayson Hibbard
+Feb 1,home,Cochise,L,9-5,9,5,4.0,win,,,,,,,,,,,,,,,,,,,,,,,2020,2019-20,div1,Southern Idaho,collegeofsouthernidaho,jaysonhibbard7n88,Jayson Hibbard
+Feb 1,home,Cochise,L,8-7,8,7,1.0,win,,,,,,,,,,,,,,,,,,,,,,,2020,2019-20,div1,Southern Idaho,collegeofsouthernidaho,jaysonhibbard7n88,Jayson Hibbard
+Feb 2,home,Cochise,W,11-1,11,1,10.0,win,,,,,,,,,,,,,,,,,,,,,,,2020,2019-20,div1,Southern Idaho,collegeofsouthernidaho,jaysonhibbard7n88,Jayson Hibbard
+Feb 5,home,Scottsdale,W,5-4,5,4,1.0,win,20200205_bvcb,0,0,0,,,,0,,,,,,,,0,0,,,,,0,2020,2019-20,div1,Southern Idaho,collegeofsouthernidaho,jaysonhibbard7n88,Jayson Hibbard
+Feb 6,home,Scottsdale,W,7-2,7,2,5.0,win,,,,,,,,,,,,,,,,,,,,,,,2020,2019-20,div1,Southern Idaho,collegeofsouthernidaho,jaysonhibbard7n88,Jayson Hibbard
+Feb 6,home,Scottsdale,L,3-2,3,2,1.0,win,,,,,,,,,,,,,,,,,,,,,,,2020,2019-20,div1,Southern Idaho,collegeofsouthernidaho,jaysonhibbard7n88,Jayson Hibbard
+Feb 7,home,Scottsdale,L,15-8,15,8,7.0,win,,,,,,,,,,,,,,,,,,,,,,,2020,2019-20,div1,Southern Idaho,collegeofsouthernidaho,jaysonhibbard7n88,Jayson Hibbard
+Feb 21,home,University of Calgary,W,5-0,5,0,5.0,win,,,,,,,,,,,,,,,,,,,,,,,2020,2019-20,div1,Southern Idaho,collegeofsouthernidaho,jaysonhibbard7n88,Jayson Hibbard
+Feb 21,home,University of Calgary,W,10-1,10,1,9.0,win,,,,,,,,,,,,,,,,,,,,,,,2020,2019-20,div1,Southern Idaho,collegeofsouthernidaho,jaysonhibbard7n88,Jayson Hibbard
+Feb 22,home,University of Calgary,W,12-0,12,0,12.0,win,,,,,,,,,,,,,,,,,,,,,,,2020,2019-20,div1,Southern Idaho,collegeofsouthernidaho,jaysonhibbard7n88,Jayson Hibbard
+Feb 22,home,University of Calgary,W,13-3,13,3,10.0,win,,,,,,,,,,,,,,,,,,,,,,,2020,2019-20,div1,Southern Idaho,collegeofsouthernidaho,jaysonhibbard7n88,Jayson Hibbard
+Feb 23,home,University of Calgary,W,12-0,12,0,12.0,win,,,,,,,,,,,,,,,,,,,,,,,2020,2019-20,div1,Southern Idaho,collegeofsouthernidaho,jaysonhibbard7n88,Jayson Hibbard
+Feb 27,home,Southern Nevada,L,7-3,7,3,4.0,win,,,,,,,,,,,,,,,,,,,,,,,2020,2019-20,div1,Southern Idaho,collegeofsouthernidaho,jaysonhibbard7n88,Jayson Hibbard
+Feb 28,home,Southern Nevada,L,4-2,4,2,2.0,win,,,,,,,,,,,,,,,,,,,,,,,2020,2019-20,div1,Southern Idaho,collegeofsouthernidaho,jaysonhibbard7n88,Jayson Hibbard
+Feb 28,home,Southern Nevada,L,13-3,13,3,10.0,win,,,,,,,,,,,,,,,,,,,,,,,2020,2019-20,div1,Southern Idaho,collegeofsouthernidaho,jaysonhibbard7n88,Jayson Hibbard
+Feb 29,home,Southern Nevada,L,16-8,16,8,8.0,win,,,,,,,,,,,,,,,,,,,,,,,2020,2019-20,div1,Southern Idaho,collegeofsouthernidaho,jaysonhibbard7n88,Jayson Hibbard
+Mar 5,home,Salt Lake,L,3-2,3,2,1.0,win,,,,,,,,,,,,,,,,,,,,,,,2020,2019-20,div1,Southern Idaho,collegeofsouthernidaho,jaysonhibbard7n88,Jayson Hibbard
+Mar 6,home,Salt Lake,L,2-1,2,1,1.0,win,,,,,,,,,,,,,,,,,,,,,,,2020,2019-20,div1,Southern Idaho,collegeofsouthernidaho,jaysonhibbard7n88,Jayson Hibbard
+Mar 6,home,Salt Lake,W,5-4,5,4,1.0,win,,,,,,,,,,,,,,,,,,,,,,,2020,2019-20,div1,Southern Idaho,collegeofsouthernidaho,jaysonhibbard7n88,Jayson Hibbard
+Mar 7,home,Salt Lake,L,8-2,8,2,6.0,win,,,,,,,,,,,,,,,,,,,,,,,2020,2019-20,div1,Southern Idaho,collegeofsouthernidaho,jaysonhibbard7n88,Jayson Hibbard
+Mar 26,home,Utah State Eastern,,,,,6.0,win,,,,,,,,,,,,,,,,,,,,,,,2020,2019-20,div1,Southern Idaho,collegeofsouthernidaho,jaysonhibbard7n88,Jayson Hibbard
+Mar 27,home,Utah State Eastern,,,,,6.0,win,,,,,,,,,,,,,,,,,,,,,,,2020,2019-20,div1,Southern Idaho,collegeofsouthernidaho,jaysonhibbard7n88,Jayson Hibbard
+Mar 27,home,Utah State Eastern,,,,,6.0,win,,,,,,,,,,,,,,,,,,,,,,,2020,2019-20,div1,Southern Idaho,collegeofsouthernidaho,jaysonhibbard7n88,Jayson Hibbard
+Mar 27,home,Utah State Eastern,,,,,6.0,win,,,,,,,,,,,,,,,,,,,,,,,2020,2019-20,div1,Southern Idaho,collegeofsouthernidaho,jaysonhibbard7n88,Jayson Hibbard
+Mar 27,home,Utah State Eastern,,,,,6.0,win,,,,,,,,,,,,,,,,,,,,,,,2020,2019-20,div1,Southern Idaho,collegeofsouthernidaho,jaysonhibbard7n88,Jayson Hibbard
+Mar 28,home,Utah State Eastern,,,,,6.0,win,,,,,,,,,,,,,,,,,,,,,,,2020,2019-20,div1,Southern Idaho,collegeofsouthernidaho,jaysonhibbard7n88,Jayson Hibbard
+Apr 9,home,Salt Lake,,,,,6.0,win,,,,,,,,,,,,,,,,,,,,,,,2020,2019-20,div1,Southern Idaho,collegeofsouthernidaho,jaysonhibbard7n88,Jayson Hibbard
+Apr 10,home,Salt Lake,,,,,6.0,win,,,,,,,,,,,,,,,,,,,,,,,2020,2019-20,div1,Southern Idaho,collegeofsouthernidaho,jaysonhibbard7n88,Jayson Hibbard
+Apr 10,home,Salt Lake,,,,,6.0,win,,,,,,,,,,,,,,,,,,,,,,,2020,2019-20,div1,Southern Idaho,collegeofsouthernidaho,jaysonhibbard7n88,Jayson Hibbard
+Apr 10,home,Salt Lake,,,,,6.0,win,,,,,,,,,,,,,,,,,,,,,,,2020,2019-20,div1,Southern Idaho,collegeofsouthernidaho,jaysonhibbard7n88,Jayson Hibbard
+Apr 10,home,Salt Lake,,,,,6.0,win,,,,,,,,,,,,,,,,,,,,,,,2020,2019-20,div1,Southern Idaho,collegeofsouthernidaho,jaysonhibbard7n88,Jayson Hibbard
+Apr 11,home,Salt Lake,,,,,6.0,win,,,,,,,,,,,,,,,,,,,,,,,2020,2019-20,div1,Southern Idaho,collegeofsouthernidaho,jaysonhibbard7n88,Jayson Hibbard
+Apr 30,home,Utah State Eastern,,,,,6.0,win,,,,,,,,,,,,,,,,,,,,,,,2020,2019-20,div1,Southern Idaho,collegeofsouthernidaho,jaysonhibbard7n88,Jayson Hibbard
+May 1,home,Utah State Eastern,,,,,6.0,win,,,,,,,,,,,,,,,,,,,,,,,2020,2019-20,div1,Southern Idaho,collegeofsouthernidaho,jaysonhibbard7n88,Jayson Hibbard
+May 1,home,Utah State Eastern,,,,,6.0,win,,,,,,,,,,,,,,,,,,,,,,,2020,2019-20,div1,Southern Idaho,collegeofsouthernidaho,jaysonhibbard7n88,Jayson Hibbard
+May 1,home,Utah State Eastern,,,,,6.0,win,,,,,,,,,,,,,,,,,,,,,,,2020,2019-20,div1,Southern Idaho,collegeofsouthernidaho,jaysonhibbard7n88,Jayson Hibbard
+May 1,home,Utah State Eastern,,,,,6.0,win,,,,,,,,,,,,,,,,,,,,,,,2020,2019-20,div1,Southern Idaho,collegeofsouthernidaho,jaysonhibbard7n88,Jayson Hibbard
+May 2,home,Utah State Eastern,,,,,6.0,win,,,,,,,,,,,,,,,,,,,,,,,2020,2019-20,div1,Southern Idaho,collegeofsouthernidaho,jaysonhibbard7n88,Jayson Hibbard
