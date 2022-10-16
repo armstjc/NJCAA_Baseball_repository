@@ -1,27 +1,60 @@
-date,location,opponent,result,score,team_score,opp_score,game_score_diff_x,game_win_loss_x,game_id_x,AB,R,H,2B,3B,HR,RBI,BB,K,SB,CS,game_score_diff_y,game_win_loss_y,game_id_y,HBP,SF,SH,TB,XBH,HDP,GO,FO,GO/FO,PA,season,njcaa_season,njcaa_division,team,team_id,player_id,player_name
-Mar 1,home,Moraine Valley,W,9-1,9,1,8.0,win,,,,,,,,,,,,,8.0,win,,,,,,,,,,,,2019,2018-19,div1,Wabash Valley,wabashvalleycollege,antoinekellyjrn5vk,Antoine Kelly JR.
-Mar 1,home,Moraine Valley,W,15-3,15,3,12.0,win,,,,,,,,,,,,,12.0,win,,,,,,,,,,,,2019,2018-19,div1,Wabash Valley,wabashvalleycollege,antoinekellyjrn5vk,Antoine Kelly JR.
-Mar 11,home,Lincoln Trail,W,4-2,4,2,2.0,win,,,,,,,,,,,,,2.0,win,,,,,,,,,,,,2019,2018-19,div1,Wabash Valley,wabashvalleycollege,antoinekellyjrn5vk,Antoine Kelly JR.
-Mar 11,home,Lincoln Trail,W,10-2,10,2,8.0,win,,,,,,,,,,,,,8.0,win,,,,,,,,,,,,2019,2018-19,div1,Wabash Valley,wabashvalleycollege,antoinekellyjrn5vk,Antoine Kelly JR.
-Mar 16,home,Southwestern Illinois,W,20-5,20,5,15.0,win,,,,,,,,,,,,,15.0,win,,,,,,,,,,,,2019,2018-19,div1,Wabash Valley,wabashvalleycollege,antoinekellyjrn5vk,Antoine Kelly JR.
-Mar 16,home,Southwestern Illinois,W,11-1,11,1,10.0,win,,,,,,,,,,,,,10.0,win,,,,,,,,,,,,2019,2018-19,div1,Wabash Valley,wabashvalleycollege,antoinekellyjrn5vk,Antoine Kelly JR.
-Mar 23,home,Frontier,W,5-4,5,4,1.0,win,,,,,,,,,,,,,1.0,win,,,,,,,,,,,,2019,2018-19,div1,Wabash Valley,wabashvalleycollege,antoinekellyjrn5vk,Antoine Kelly JR.
-Mar 23,home,Frontier,W,12-2,12,2,10.0,win,,,,,,,,,,,,,10.0,win,,,,,,,,,,,,2019,2018-19,div1,Wabash Valley,wabashvalleycollege,antoinekellyjrn5vk,Antoine Kelly JR.
-Mar 27,home,Lake Land,W,19-2,19,2,17.0,win,,,,,,,,,,,,,17.0,win,,,,,,,,,,,,2019,2018-19,div1,Wabash Valley,wabashvalleycollege,antoinekellyjrn5vk,Antoine Kelly JR.
-Mar 28,home,Kaskaskia,W,18-6,18,6,12.0,win,20190328_wev1,0,0,0,,,,0,,,,,12.0,win,20190328_wev1,,,,0,0,,,,,0,2019,2018-19,div1,Wabash Valley,wabashvalleycollege,antoinekellyjrn5vk,Antoine Kelly JR.
-Apr 2,home,Lake Land,W,22-12,22,12,10.0,win,,,,,,,,,,,,,10.0,win,,,,,,,,,,,,2019,2018-19,div1,Wabash Valley,wabashvalleycollege,antoinekellyjrn5vk,Antoine Kelly JR.
-Apr 2,home,Lake Land,W,7-0,7,0,7.0,win,,,,,,,,,,,,,7.0,win,,,,,,,,,,,,2019,2018-19,div1,Wabash Valley,wabashvalleycollege,antoinekellyjrn5vk,Antoine Kelly JR.
-Apr 5,home,Shawnee,W,18-0,18,0,18.0,win,20190405_5rxt,0,0,0,,,,0,,,,,18.0,win,20190405_5rxt,,,,0,0,,,,,0,2019,2018-19,div1,Wabash Valley,wabashvalleycollege,antoinekellyjrn5vk,Antoine Kelly JR.
-Apr 9,home,Volunteer State,W,11-5,11,5,6.0,win,,,,,,,,,,,,,6.0,win,,,,,,,,,,,,2019,2018-19,div1,Wabash Valley,wabashvalleycollege,antoinekellyjrn5vk,Antoine Kelly JR.
-Apr 11,home,Rend Lake,W,13-3,13,3,10.0,win,20190411_i0dp,0,0,0,,,,0,,,,,10.0,win,20190411_i0dp,,,,0,0,,,,,0,2019,2018-19,div1,Wabash Valley,wabashvalleycollege,antoinekellyjrn5vk,Antoine Kelly JR.
-Apr 17,home,Southeastern Illinois,W,16-5,16,5,11.0,win,,,,,,,,,,,,,11.0,win,,,,,,,,,,,,2019,2018-19,div1,Wabash Valley,wabashvalleycollege,antoinekellyjrn5vk,Antoine Kelly JR.
-Apr 17,home,Southeastern Illinois,W,9-0,9,0,9.0,win,,,,,,,,,,,,,9.0,win,,,,,,,,,,,,2019,2018-19,div1,Wabash Valley,wabashvalleycollege,antoinekellyjrn5vk,Antoine Kelly JR.
-Apr 23,home,Olney Central,W,11-1,11,1,10.0,win,,,,,,,,,,,,,10.0,win,,,,,,,,,,,,2019,2018-19,div1,Wabash Valley,wabashvalleycollege,antoinekellyjrn5vk,Antoine Kelly JR.
-Apr 23,home,Olney Central,W,2-1,2,1,1.0,win,,,,,,,,,,,,,1.0,win,,,,,,,,,,,,2019,2018-19,div1,Wabash Valley,wabashvalleycollege,antoinekellyjrn5vk,Antoine Kelly JR.
-Apr 30,home,Parkland,W,15-5,15,5,10.0,win,,,,,,,,,,,,,10.0,win,,,,,,,,,,,,2019,2018-19,div1,Wabash Valley,wabashvalleycollege,antoinekellyjrn5vk,Antoine Kelly JR.
-May 6,home,John A. Logan,W,11-2,11,2,9.0,win,20190506_twam,0,0,0,,,,0,,,,,9.0,win,20190506_twam,,,,0,0,,,,,0,2019,2018-19,div1,Wabash Valley,wabashvalleycollege,antoinekellyjrn5vk,Antoine Kelly JR.
-May 10,home,Frontier,W,11-2,11,2,9.0,win,,,,,,,,,,,,,9.0,win,,,,,,,,,,,,2019,2018-19,div1,Wabash Valley,wabashvalleycollege,antoinekellyjrn5vk,Antoine Kelly JR.
-May 11,home,Kaskaskia,W,5-3,5,3,2.0,win,,,,,,,,,,,,,2.0,win,,,,,,,,,,,,2019,2018-19,div1,Wabash Valley,wabashvalleycollege,antoinekellyjrn5vk,Antoine Kelly JR.
-May 13,home,Olney Central,L,7-4,7,4,3.0,win,20190513_041a,0,0,0,,,,0,,,,,3.0,win,20190513_041a,,,,0,0,,,,,0,2019,2018-19,div1,Wabash Valley,wabashvalleycollege,antoinekellyjrn5vk,Antoine Kelly JR.
-May 13,home,Olney Central,W,9-1,9,1,8.0,win,,,,,,,,,,,,,8.0,win,,,,,,,,,,,,2019,2018-19,div1,Wabash Valley,wabashvalleycollege,antoinekellyjrn5vk,Antoine Kelly JR.
-May 17,home,Rend Lake,W,14-4,14,4,10.0,win,,,,,,,,,,,,,10.0,win,,,,,,,,,,,,2019,2018-19,div1,Wabash Valley,wabashvalleycollege,antoinekellyjrn5vk,Antoine Kelly JR.
+date,location,opponent,result,score,team_score,opp_score,game_score_diff,game_win_loss,game_id,AB,R,H,2B,3B,HR,RBI,BB,K,SB,CS,HBP,SF,SH,TB,XBH,HDP,GO,FO,GO/FO,PA,season,njcaa_season,njcaa_division,team,team_id,player_id,player_name
+Feb 9,home,Jackson State,W,3-0,3,0,3.0,win,,,,,,,,,,,,,,,,,,,,,,,2019,2018-19,div1,Wabash Valley,wabashvalleycollege,antoinekellyjrn5vk,Antoine Kelly JR.
+Feb 9,home,Jackson State,W,15-0,15,0,15.0,win,20190209_a8sq,0,0,0,,,,0,,,,,,,,0,0,,,,,0,2019,2018-19,div1,Wabash Valley,wabashvalleycollege,antoinekellyjrn5vk,Antoine Kelly JR.
+Feb 16,home,Wallace State,L,6-3,6,3,3.0,win,,,,,,,,,,,,,,,,,,,,,,,2019,2018-19,div1,Wabash Valley,wabashvalleycollege,antoinekellyjrn5vk,Antoine Kelly JR.
+Feb 16,home,Wallace State,W,9-0,9,0,9.0,win,20190216_zir9,0,0,0,,,,0,,,,,,,,0,0,,,,,0,2019,2018-19,div1,Wabash Valley,wabashvalleycollege,antoinekellyjrn5vk,Antoine Kelly JR.
+Feb 18,home,Volunteer State,W,7-3,7,3,4.0,win,,,,,,,,,,,,,,,,,,,,,,,2019,2018-19,div1,Wabash Valley,wabashvalleycollege,antoinekellyjrn5vk,Antoine Kelly JR.
+Feb 18,home,Volunteer State,W,6-3,6,3,3.0,win,,,,,,,,,,,,,,,,,,,,,,,2019,2018-19,div1,Wabash Valley,wabashvalleycollege,antoinekellyjrn5vk,Antoine Kelly JR.
+Feb 26,home,Jefferson (MO),W,20-0,20,0,20.0,win,20190226_im1d,0,0,0,,,,0,,,,,,,,0,0,,,,,0,2019,2018-19,div1,Wabash Valley,wabashvalleycollege,antoinekellyjrn5vk,Antoine Kelly JR.
+Feb 27,home,Dyersburg State,W,10-3,10,3,7.0,win,,,,,,,,,,,,,,,,,,,,,,,2019,2018-19,div1,Wabash Valley,wabashvalleycollege,antoinekellyjrn5vk,Antoine Kelly JR.
+Feb 27,home,Dyersburg State,W,5-1,5,1,4.0,win,,,,,,,,,,,,,,,,,,,,,,,2019,2018-19,div1,Wabash Valley,wabashvalleycollege,antoinekellyjrn5vk,Antoine Kelly JR.
+Mar 1,home,Moraine Valley,W,9-1,9,1,8.0,win,,,,,,,,,,,,,,,,,,,,,,,2019,2018-19,div1,Wabash Valley,wabashvalleycollege,antoinekellyjrn5vk,Antoine Kelly JR.
+Mar 1,home,Moraine Valley,W,15-3,15,3,12.0,win,,,,,,,,,,,,,,,,,,,,,,,2019,2018-19,div1,Wabash Valley,wabashvalleycollege,antoinekellyjrn5vk,Antoine Kelly JR.
+Mar 2,home,South Suburban,W,5-1,5,1,4.0,win,,,,,,,,,,,,,,,,,,,,,,,2019,2018-19,div1,Wabash Valley,wabashvalleycollege,antoinekellyjrn5vk,Antoine Kelly JR.
+Mar 11,home,Lincoln Trail,W,4-2,4,2,2.0,win,,,,,,,,,,,,,,,,,,,,,,,2019,2018-19,div1,Wabash Valley,wabashvalleycollege,antoinekellyjrn5vk,Antoine Kelly JR.
+Mar 11,home,Lincoln Trail,W,10-2,10,2,8.0,win,,,,,,,,,,,,,,,,,,,,,,,2019,2018-19,div1,Wabash Valley,wabashvalleycollege,antoinekellyjrn5vk,Antoine Kelly JR.
+Mar 12,home,Lincoln Trail,W,7-4,7,4,3.0,win,,,,,,,,,,,,,,,,,,,,,,,2019,2018-19,div1,Wabash Valley,wabashvalleycollege,antoinekellyjrn5vk,Antoine Kelly JR.
+Mar 15,home,Southwestern Illinois,W,27-3,27,3,24.0,win,20190315_4ofn,0,0,0,,,,0,,,,,,,,0,0,,,,,0,2019,2018-19,div1,Wabash Valley,wabashvalleycollege,antoinekellyjrn5vk,Antoine Kelly JR.
+Mar 16,home,Southwestern Illinois,W,20-5,20,5,15.0,win,,,,,,,,,,,,,,,,,,,,,,,2019,2018-19,div1,Wabash Valley,wabashvalleycollege,antoinekellyjrn5vk,Antoine Kelly JR.
+Mar 16,home,Southwestern Illinois,W,11-1,11,1,10.0,win,,,,,,,,,,,,,,,,,,,,,,,2019,2018-19,div1,Wabash Valley,wabashvalleycollege,antoinekellyjrn5vk,Antoine Kelly JR.
+Mar 19,home,Brescia,W,18-4,18,4,14.0,win,,,,,,,,,,,,,,,,,,,,,,,2019,2018-19,div1,Wabash Valley,wabashvalleycollege,antoinekellyjrn5vk,Antoine Kelly JR.
+Mar 22,home,Frontier,W,23-5,23,5,18.0,win,20190322_1u8m,0,0,0,,,,0,,,,,,,,0,0,,,,,0,2019,2018-19,div1,Wabash Valley,wabashvalleycollege,antoinekellyjrn5vk,Antoine Kelly JR.
+Mar 23,home,Frontier,W,5-4,5,4,1.0,win,,,,,,,,,,,,,,,,,,,,,,,2019,2018-19,div1,Wabash Valley,wabashvalleycollege,antoinekellyjrn5vk,Antoine Kelly JR.
+Mar 23,home,Frontier,W,12-2,12,2,10.0,win,,,,,,,,,,,,,,,,,,,,,,,2019,2018-19,div1,Wabash Valley,wabashvalleycollege,antoinekellyjrn5vk,Antoine Kelly JR.
+Mar 27,home,Lake Land,W,19-2,19,2,17.0,win,,,,,,,,,,,,,,,,,,,,,,,2019,2018-19,div1,Wabash Valley,wabashvalleycollege,antoinekellyjrn5vk,Antoine Kelly JR.
+Mar 28,home,Kaskaskia,W,18-6,18,6,12.0,win,20190328_wev1,0,0,0,,,,0,,,,,,,,0,0,,,,,0,2019,2018-19,div1,Wabash Valley,wabashvalleycollege,antoinekellyjrn5vk,Antoine Kelly JR.
+Apr 1,home,Kaskaskia,W,7-5,7,5,2.0,win,,,,,,,,,,,,,,,,,,,,,,,2019,2018-19,div1,Wabash Valley,wabashvalleycollege,antoinekellyjrn5vk,Antoine Kelly JR.
+Apr 1,home,Kaskaskia,W,5-2,5,2,3.0,win,,,,,,,,,,,,,,,,,,,,,,,2019,2018-19,div1,Wabash Valley,wabashvalleycollege,antoinekellyjrn5vk,Antoine Kelly JR.
+Apr 2,home,Lake Land,W,22-12,22,12,10.0,win,,,,,,,,,,,,,,,,,,,,,,,2019,2018-19,div1,Wabash Valley,wabashvalleycollege,antoinekellyjrn5vk,Antoine Kelly JR.
+Apr 2,home,Lake Land,W,7-0,7,0,7.0,win,,,,,,,,,,,,,,,,,,,,,,,2019,2018-19,div1,Wabash Valley,wabashvalleycollege,antoinekellyjrn5vk,Antoine Kelly JR.
+Apr 5,home,Shawnee,W,18-0,18,0,18.0,win,20190405_5rxt,0,0,0,,,,0,,,,,,,,0,0,,,,,0,2019,2018-19,div1,Wabash Valley,wabashvalleycollege,antoinekellyjrn5vk,Antoine Kelly JR.
+Apr 6,home,Shawnee,W,10-1,10,1,9.0,win,,,,,,,,,,,,,,,,,,,,,,,2019,2018-19,div1,Wabash Valley,wabashvalleycollege,antoinekellyjrn5vk,Antoine Kelly JR.
+Apr 6,home,Shawnee,W,19-3,19,3,16.0,win,,,,,,,,,,,,,,,,,,,,,,,2019,2018-19,div1,Wabash Valley,wabashvalleycollege,antoinekellyjrn5vk,Antoine Kelly JR.
+Apr 9,home,Volunteer State,W,11-5,11,5,6.0,win,,,,,,,,,,,,,,,,,,,,,,,2019,2018-19,div1,Wabash Valley,wabashvalleycollege,antoinekellyjrn5vk,Antoine Kelly JR.
+Apr 11,home,Rend Lake,W,13-3,13,3,10.0,win,20190411_i0dp,0,0,0,,,,0,,,,,,,,0,0,,,,,0,2019,2018-19,div1,Wabash Valley,wabashvalleycollege,antoinekellyjrn5vk,Antoine Kelly JR.
+Apr 13,home,Rend Lake,W,19-5,19,5,14.0,win,,,,,,,,,,,,,,,,,,,,,,,2019,2018-19,div1,Wabash Valley,wabashvalleycollege,antoinekellyjrn5vk,Antoine Kelly JR.
+Apr 13,home,Rend Lake,W,16-0,16,0,16.0,win,,,,,,,,,,,,,,,,,,,,,,,2019,2018-19,div1,Wabash Valley,wabashvalleycollege,antoinekellyjrn5vk,Antoine Kelly JR.
+Apr 16,home,Olney Central,W,12-11,12,11,1.0,win,,,,,,,,,,,,,,,,,,,,,,,2019,2018-19,div1,Wabash Valley,wabashvalleycollege,antoinekellyjrn5vk,Antoine Kelly JR.
+Apr 17,home,Southeastern Illinois,W,16-5,16,5,11.0,win,,,,,,,,,,,,,,,,,,,,,,,2019,2018-19,div1,Wabash Valley,wabashvalleycollege,antoinekellyjrn5vk,Antoine Kelly JR.
+Apr 17,home,Southeastern Illinois,W,9-0,9,0,9.0,win,,,,,,,,,,,,,,,,,,,,,,,2019,2018-19,div1,Wabash Valley,wabashvalleycollege,antoinekellyjrn5vk,Antoine Kelly JR.
+Apr 22,home,Southeastern Illinois,W,13-1,13,1,12.0,win,20190422_7x6d,0,0,0,,,,0,,,,,,,,0,0,,,,,0,2019,2018-19,div1,Wabash Valley,wabashvalleycollege,antoinekellyjrn5vk,Antoine Kelly JR.
+Apr 23,home,Olney Central,W,11-1,11,1,10.0,win,,,,,,,,,,,,,,,,,,,,,,,2019,2018-19,div1,Wabash Valley,wabashvalleycollege,antoinekellyjrn5vk,Antoine Kelly JR.
+Apr 23,home,Olney Central,W,2-1,2,1,1.0,win,,,,,,,,,,,,,,,,,,,,,,,2019,2018-19,div1,Wabash Valley,wabashvalleycollege,antoinekellyjrn5vk,Antoine Kelly JR.
+Apr 27,home,Spoon River,W,13-2,13,2,11.0,win,,,,,,,,,,,,,,,,,,,,,,,2019,2018-19,div1,Wabash Valley,wabashvalleycollege,antoinekellyjrn5vk,Antoine Kelly JR.
+Apr 27,home,Spoon River,W,12-0,12,0,12.0,win,,,,,,,,,,,,,,,,,,,,,,,2019,2018-19,div1,Wabash Valley,wabashvalleycollege,antoinekellyjrn5vk,Antoine Kelly JR.
+Apr 28,home,Spoon River,W,11-0,11,0,11.0,win,20190428_9k63,0,0,0,,,,0,,,,,,,,0,0,,,,,0,2019,2018-19,div1,Wabash Valley,wabashvalleycollege,antoinekellyjrn5vk,Antoine Kelly JR.
+Apr 28,home,Spoon River,W,12-0,12,0,12.0,win,,,,,,,,,,,,,,,,,,,,,,,2019,2018-19,div1,Wabash Valley,wabashvalleycollege,antoinekellyjrn5vk,Antoine Kelly JR.
+Apr 29,home,Vincennes,W,12-2,12,2,10.0,win,,,,,,,,,,,,,,,,,,,,,,,2019,2018-19,div1,Wabash Valley,wabashvalleycollege,antoinekellyjrn5vk,Antoine Kelly JR.
+Apr 30,home,Parkland,W,15-5,15,5,10.0,win,,,,,,,,,,,,,,,,,,,,,,,2019,2018-19,div1,Wabash Valley,wabashvalleycollege,antoinekellyjrn5vk,Antoine Kelly JR.
+May 5,home,John A. Logan,W,13-6,13,6,7.0,win,,,,,,,,,,,,,,,,,,,,,,,2019,2018-19,div1,Wabash Valley,wabashvalleycollege,antoinekellyjrn5vk,Antoine Kelly JR.
+May 5,home,John A. Logan,W,9-7,9,7,2.0,win,,,,,,,,,,,,,,,,,,,,,,,2019,2018-19,div1,Wabash Valley,wabashvalleycollege,antoinekellyjrn5vk,Antoine Kelly JR.
+May 6,home,John A. Logan,W,11-2,11,2,9.0,win,20190506_twam,0,0,0,,,,0,,,,,,,,0,0,,,,,0,2019,2018-19,div1,Wabash Valley,wabashvalleycollege,antoinekellyjrn5vk,Antoine Kelly JR.
+May 10,home,Frontier,W,11-2,11,2,9.0,win,,,,,,,,,,,,,,,,,,,,,,,2019,2018-19,div1,Wabash Valley,wabashvalleycollege,antoinekellyjrn5vk,Antoine Kelly JR.
+May 11,home,Kaskaskia,W,5-3,5,3,2.0,win,,,,,,,,,,,,,,,,,,,,,,,2019,2018-19,div1,Wabash Valley,wabashvalleycollege,antoinekellyjrn5vk,Antoine Kelly JR.
+May 13,home,Olney Central,L,7-4,7,4,3.0,win,20190513_041a,0,0,0,,,,0,,,,,,,,0,0,,,,,0,2019,2018-19,div1,Wabash Valley,wabashvalleycollege,antoinekellyjrn5vk,Antoine Kelly JR.
+May 13,home,Olney Central,W,9-1,9,1,8.0,win,,,,,,,,,,,,,,,,,,,,,,,2019,2018-19,div1,Wabash Valley,wabashvalleycollege,antoinekellyjrn5vk,Antoine Kelly JR.
+May 17,home,Rend Lake,W,14-4,14,4,10.0,win,,,,,,,,,,,,,,,,,,,,,,,2019,2018-19,div1,Wabash Valley,wabashvalleycollege,antoinekellyjrn5vk,Antoine Kelly JR.
+May 18,home,Iowa Western,L,8-7,8,7,1.0,win,,,,,,,,,,,,,,,,,,,,,,,2019,2018-19,div1,Wabash Valley,wabashvalleycollege,antoinekellyjrn5vk,Antoine Kelly JR.
+May 19,home,Triton,W,14-4,14,4,10.0,win,,,,,,,,,,,,,,,,,,,,,,,2019,2018-19,div1,Wabash Valley,wabashvalleycollege,antoinekellyjrn5vk,Antoine Kelly JR.
+May 20,home,Iowa Western,W,11-8,11,8,3.0,win,20190520_zqka,0,0,0,,,,0,,,,,,,,0,0,,,,,0,2019,2018-19,div1,Wabash Valley,wabashvalleycollege,antoinekellyjrn5vk,Antoine Kelly JR.
+May 20,home,Iowa Western,L,10-5,10,5,5.0,win,,,,,,,,,,,,,,,,,,,,,,,2019,2018-19,div1,Wabash Valley,wabashvalleycollege,antoinekellyjrn5vk,Antoine Kelly JR.

@@ -1,34 +1,57 @@
-date,location,opponent,result,score,team_score,opp_score,game_score_diff_x,game_win_loss_x,game_id_x,AB,R,H,2B,3B,HR,RBI,BB,K,SB,CS,game_score_diff_y,game_win_loss_y,game_id_y,HBP,SF,SH,TB,XBH,HDP,GO,FO,GO/FO,PA,season,njcaa_season,njcaa_division,team,team_id,player_id,player_name
-Jan 18  #,home,Webber International University,,,,,,,,,,,,,,,,,,,3.0,win,,,,,,,,,,,,2019,2018-19,div1,Polk State,polkstatecollege,dannyberg899o,Danny Berg
-Jan 21  #,home,Warner University,,,,,,,,,,,,,,,,,,,3.0,win,,,,,,,,,,,,2019,2018-19,div1,Polk State,polkstatecollege,dannyberg899o,Danny Berg
-Jan 28,home,Eastern Florida State,W,6-2,6,2,4,win,20190128_pbc2,5,2,3,,,,0,,,,,4.0,win,20190128_pbc2,,,,3,0,,,,,5,2019,2018-19,div1,Polk State,polkstatecollege,dannyberg899o,Danny Berg
-Jan 29,home,Warner University JV,W,12-5,12,5,7,win,20190129_sau8,5,2,2,,,,1,,3,1,,7.0,win,20190129_sau8,,,,2,0,,,,,5,2019,2018-19,div1,Polk State,polkstatecollege,dannyberg899o,Danny Berg
-Jan 30,home,Broward,W,3-1,3,1,2,win,20190130_e2bj,4,1,0,,,,0,,1,,,2.0,win,20190130_e2bj,,,,0,0,,,,,4,2019,2018-19,div1,Polk State,polkstatecollege,dannyberg899o,Danny Berg
-Feb 2,home,Daytona State,L,3-2,3,2,1,win,20190202_4az1,4,0,0,,,,0,,,,,1.0,win,20190202_4az1,,,,0,0,,,,,4,2019,2018-19,div1,Polk State,polkstatecollege,dannyberg899o,Danny Berg
-Feb 6,home,Seminole State (FL),L,9-4,9,4,5,win,20190206_z67o,3,1,2,,,,0,1,,,,5.0,win,20190206_z67o,,,,2,0,,,,,4,2019,2018-19,div1,Polk State,polkstatecollege,dannyberg899o,Danny Berg
-Feb 12,home,Palm Beach State,W,12-5,12,5,7,win,20190212_losb,4,1,1,,,,0,1,,,,7.0,win,20190212_losb,,,,1,0,,,,,5,2019,2018-19,div1,Polk State,polkstatecollege,dannyberg899o,Danny Berg
-Feb 13,home,St. Johns River State,,,,,7,win,,,,,,,,,,,,,7.0,win,,,,,,,,,,,,2019,2018-19,div1,Polk State,polkstatecollege,dannyberg899o,Danny Berg
-Feb 19,home,Webber International University B,W,11-6,11,6,5,win,,,,,,,,,,,,,5.0,win,,,,,,,,,,,,2019,2018-19,div1,Polk State,polkstatecollege,dannyberg899o,Danny Berg
-Feb 20,home,Southeastern University B,L,7-4,7,4,3,win,20190220_wftl,4,1,2,1,1,,1,,,,,3.0,win,20190220_wftl,,1,,5,2,,,,,5,2019,2018-19,div1,Polk State,polkstatecollege,dannyberg899o,Danny Berg
-Feb 22,home,Lake-Sumter State,L,7-4,7,4,3,win,20190222_g977,4,1,1,,,,1,,,,,3.0,win,20190222_g977,,,,1,0,,3,,,4,2019,2018-19,div1,Polk State,polkstatecollege,dannyberg899o,Danny Berg
-Feb 23,home,University of Tampa B,W,5-2,5,2,3,win,20190223_mtvc,3,0,1,,,,0,1,1,1,,3.0,win,20190223_mtvc,,,,1,0,,,,,4,2019,2018-19,div1,Polk State,polkstatecollege,dannyberg899o,Danny Berg
-Feb 25,home,Santa Fe,L,11-6,11,6,5,win,20190225_dgp3,6,1,3,2,,,3,,,,,5.0,win,20190225_dgp3,,,,5,2,,,,,6,2019,2018-19,div1,Polk State,polkstatecollege,dannyberg899o,Danny Berg
-Feb 27,home,Florida Southern College B,W,14-1,14,1,13,win,20190227_bez1,3,2,2,,,,2,3,1,,,13.0,win,20190227_bez1,,,,2,0,,,,,6,2019,2018-19,div1,Polk State,polkstatecollege,dannyberg899o,Danny Berg
-Mar 4,home,St. Petersburg,W,4-3,4,3,1,win,20190304_1dmi,4,1,1,,1,,0,,,,,1.0,win,20190304_1dmi,,,,3,1,,,,,4,2019,2018-19,div1,Polk State,polkstatecollege,dannyberg899o,Danny Berg
-Mar 8,home,St. Petersburg,L,7-6,7,6,1,win,20190308_3x79,5,1,1,,,,2,,1,,,1.0,win,20190308_3x79,,,,1,0,,,,,5,2019,2018-19,div1,Polk State,polkstatecollege,dannyberg899o,Danny Berg
-Mar 11,home,State College of Florida,L,13-3,13,3,10,win,20190311_kbqo,4,1,0,,,,0,,,,,10.0,win,20190311_kbqo,,,,0,0,,,,,4,2019,2018-19,div1,Polk State,polkstatecollege,dannyberg899o,Danny Berg
-Mar 15,home,Hillsborough,W,13-3,13,3,10,win,20190315_zv59,4,2,2,1,,,2,,1,,,10.0,win,20190315_zv59,,,,3,1,,,,,4,2019,2018-19,div1,Polk State,polkstatecollege,dannyberg899o,Danny Berg
-Mar 16,home,Hillsborough,L,8-5,8,5,3,win,20190316_tbi8,3,0,0,,,,1,,,,,3.0,win,20190316_tbi8,,1,,0,0,,,,,4,2019,2018-19,div1,Polk State,polkstatecollege,dannyberg899o,Danny Berg
-Mar 20,home,South Florida State,W,3-2,3,2,1,win,20190320_zleh,4,0,0,,,,0,,1,,,1.0,win,20190320_zleh,,,,0,0,,,,,4,2019,2018-19,div1,Polk State,polkstatecollege,dannyberg899o,Danny Berg
-Mar 23,home,South Florida State,L,3-1,3,1,2,win,20190323_dj5d,3,0,1,1,,,0,1,,,,2.0,win,20190323_dj5d,,,,2,1,,,,,4,2019,2018-19,div1,Polk State,polkstatecollege,dannyberg899o,Danny Berg
-Mar 27,home,Florida SouthWestern State,W,5-1,5,1,4,win,20190327_wisy,4,0,1,,,,0,1,1,,,4.0,win,20190327_wisy,,,,1,0,,,,,5,2019,2018-19,div1,Polk State,polkstatecollege,dannyberg899o,Danny Berg
-Mar 30,home,Elev8 Post Grad Program,W,13-0,13,0,13,win,20190330_o9yk,4,2,1,,,,0,2,1,1,,13.0,win,20190330_o9yk,,,,1,0,,,,,6,2019,2018-19,div1,Polk State,polkstatecollege,dannyberg899o,Danny Berg
-Apr 1,home,Florida Southern College B,W,13-2,13,2,11,win,20190401_f09v,0,0,0,,,,0,,,,,11.0,win,20190401_f09v,,,,0,0,,,,,0,2019,2018-19,div1,Polk State,polkstatecollege,dannyberg899o,Danny Berg
-Apr 8,home,St. Petersburg,L,19-5,19,5,14,win,20190408_l92s,3,1,0,,,,0,1,1,,,14.0,win,20190408_l92s,,,,0,0,,,,,4,2019,2018-19,div1,Polk State,polkstatecollege,dannyberg899o,Danny Berg
-Apr 12,home,State College of Florida,W,9-8,9,8,1,win,20190412_g53q,5,1,0,,,,0,,,,,1.0,win,20190412_g53q,,,,0,0,,,,,5,2019,2018-19,div1,Polk State,polkstatecollege,dannyberg899o,Danny Berg
-Apr 15,home,State College of Florida,L,11-2,11,2,9,win,20190415_ierr,4,1,1,,,1,1,,,,,9.0,win,20190415_ierr,,,,4,1,,,,,4,2019,2018-19,div1,Polk State,polkstatecollege,dannyberg899o,Danny Berg
-Apr 19,home,Hillsborough,,,,,2,win,,,,,,,,,,,,,2.0,win,,,,,,,,,,,,2019,2018-19,div1,Polk State,polkstatecollege,dannyberg899o,Danny Berg
-Apr 24,home,South Florida State,W,13-5,13,5,8,win,20190424_fvh2,3,1,1,,,,2,2,,,,8.0,win,20190424_fvh2,,,,1,0,,,,,5,2019,2018-19,div1,Polk State,polkstatecollege,dannyberg899o,Danny Berg
-Apr 25,home,Hillsborough,L,11-10,11,10,1,win,20190425_8h8y,3,2,1,,1,,1,2,,,,1.0,win,20190425_8h8y,,,,3,1,,,,,5,2019,2018-19,div1,Polk State,polkstatecollege,dannyberg899o,Danny Berg
-Apr 27,home,Florida SouthWestern State,L,7-3,7,3,4,win,20190427_vgmz,3,0,1,,,,0,1,1,,1,4.0,win,20190427_vgmz,,,,1,0,,,,,4,2019,2018-19,div1,Polk State,polkstatecollege,dannyberg899o,Danny Berg
-May 1,home,Florida SouthWestern State,L,8-5,8,5,3,win,20190501_ppv0,5,0,1,,,,1,,2,,,3.0,win,20190501_ppv0,,,,1,0,,,,,5,2019,2018-19,div1,Polk State,polkstatecollege,dannyberg899o,Danny Berg
+date,location,opponent,result,score,team_score,opp_score,game_score_diff,game_win_loss,game_id,AB,R,H,2B,3B,HR,RBI,BB,K,SB,CS,HBP,SF,SH,TB,XBH,HDP,GO,FO,GO/FO,PA,season,njcaa_season,njcaa_division,team,team_id,player_id,player_name
+Jan 25,home,Lake-Sumter State,W,10-2,10,2,8,win,20190125_0xra,4,1,2,,,,0,,,,,,,,2,0,,,,,4,2019,2018-19,div1,Polk State,polkstatecollege,dannyberg899o,Danny Berg
+Jan 26,home,Broward,,,,,8,win,,,,,,,,,,,,,,,,,,,,,,,2019,2018-19,div1,Polk State,polkstatecollege,dannyberg899o,Danny Berg
+Jan 28,home,Eastern Florida State,W,6-2,6,2,4,win,20190128_pbc2,5,2,3,,,,0,,,,,,,,3,0,,,,,5,2019,2018-19,div1,Polk State,polkstatecollege,dannyberg899o,Danny Berg
+Jan 29,home,Warner University JV,W,12-5,12,5,7,win,20190129_sau8,5,2,2,,,,1,,3,1,,,,,2,0,,,,,5,2019,2018-19,div1,Polk State,polkstatecollege,dannyberg899o,Danny Berg
+Jan 30,home,Broward,W,3-1,3,1,2,win,20190130_e2bj,4,1,0,,,,0,,1,,,,,,0,0,,,,,4,2019,2018-19,div1,Polk State,polkstatecollege,dannyberg899o,Danny Berg
+Feb 1,home,Daytona State,W,6-1,6,1,5,win,20190201_6ume,4,1,2,1,,,0,,,,,,,,3,1,,,,,4,2019,2018-19,div1,Polk State,polkstatecollege,dannyberg899o,Danny Berg
+Feb 2,home,Daytona State,L,3-2,3,2,1,win,20190202_4az1,4,0,0,,,,0,,,,,,,,0,0,,,,,4,2019,2018-19,div1,Polk State,polkstatecollege,dannyberg899o,Danny Berg
+Feb 4,home,Seminole State (FL),L,11-1,11,1,10,win,20190204_up2n,1,0,0,,,,0,3,,,,,,,0,0,,,,,4,2019,2018-19,div1,Polk State,polkstatecollege,dannyberg899o,Danny Berg
+Feb 5,home,St. Johns River State,L,9-5,9,5,4,win,20190205_nweo,4,0,0,,,,0,1,2,,,,,,0,0,,,,,5,2019,2018-19,div1,Polk State,polkstatecollege,dannyberg899o,Danny Berg
+Feb 6,home,Seminole State (FL),L,9-4,9,4,5,win,20190206_z67o,3,1,2,,,,0,1,,,,,,,2,0,,,,,4,2019,2018-19,div1,Polk State,polkstatecollege,dannyberg899o,Danny Berg
+Feb 8,home,Palm Beach State,L,6-5,6,5,1,win,20190208_zfgy,3,1,1,,,,0,1,1,,,,,,1,0,,,,,4,2019,2018-19,div1,Polk State,polkstatecollege,dannyberg899o,Danny Berg
+Feb 11,home,Santa Fe,L,13-0,13,0,13,win,20190211_7arb,4,0,3,1,,,0,,,,,,,,4,1,,,,,4,2019,2018-19,div1,Polk State,polkstatecollege,dannyberg899o,Danny Berg
+Feb 12,home,Palm Beach State,W,12-5,12,5,7,win,20190212_losb,4,1,1,,,,0,1,,,,,,,1,0,,,,,5,2019,2018-19,div1,Polk State,polkstatecollege,dannyberg899o,Danny Berg
+Feb 13,home,St. Johns River State,,,,,7,win,,,,,,,,,,,,,,,,,,,,,,,2019,2018-19,div1,Polk State,polkstatecollege,dannyberg899o,Danny Berg
+Feb 16,home,Eastern Florida State,L,6-5,6,5,1,win,20190216_m8di,4,0,1,,,,0,,,,,,,,1,0,,,,,4,2019,2018-19,div1,Polk State,polkstatecollege,dannyberg899o,Danny Berg
+Feb 19,home,Webber International University B,W,11-6,11,6,5,win,,,,,,,,,,,,,,,,,,,,,,,2019,2018-19,div1,Polk State,polkstatecollege,dannyberg899o,Danny Berg
+Feb 20,home,Southeastern University B,L,7-4,7,4,3,win,20190220_wftl,4,1,2,1,1,,1,,,,,,1,,5,2,,,,,5,2019,2018-19,div1,Polk State,polkstatecollege,dannyberg899o,Danny Berg
+Feb 22,home,Lake-Sumter State,L,7-4,7,4,3,win,20190222_g977,4,1,1,,,,1,,,,,,,,1,0,,3,,,4,2019,2018-19,div1,Polk State,polkstatecollege,dannyberg899o,Danny Berg
+Feb 23,home,University of Tampa B,W,5-2,5,2,3,win,20190223_mtvc,3,0,1,,,,0,1,1,1,,,,,1,0,,,,,4,2019,2018-19,div1,Polk State,polkstatecollege,dannyberg899o,Danny Berg
+Feb 25,home,Santa Fe,L,11-6,11,6,5,win,20190225_dgp3,6,1,3,2,,,3,,,,,,,,5,2,,,,,6,2019,2018-19,div1,Polk State,polkstatecollege,dannyberg899o,Danny Berg
+Feb 27,home,Florida Southern College B,W,14-1,14,1,13,win,20190227_bez1,3,2,2,,,,2,3,1,,,,,,2,0,,,,,6,2019,2018-19,div1,Polk State,polkstatecollege,dannyberg899o,Danny Berg
+Feb 28,home,Rollins College,W,10-1,10,1,9,win,20190228_kzhj,5,0,2,,,,4,1,,,,,,,2,0,,,,,6,2019,2018-19,div1,Polk State,polkstatecollege,dannyberg899o,Danny Berg
+Mar 4,home,St. Petersburg,W,4-3,4,3,1,win,20190304_1dmi,4,1,1,,1,,0,,,,,,,,3,1,,,,,4,2019,2018-19,div1,Polk State,polkstatecollege,dannyberg899o,Danny Berg
+Mar 6,home,St. Petersburg,L,7-6,7,6,1,win,20190306_une1,4,0,2,1,,,0,1,,,,,,,3,1,,,,,5,2019,2018-19,div1,Polk State,polkstatecollege,dannyberg899o,Danny Berg
+Mar 8,home,St. Petersburg,L,7-6,7,6,1,win,20190308_3x79,5,1,1,,,,2,,1,,,,,,1,0,,,,,5,2019,2018-19,div1,Polk State,polkstatecollege,dannyberg899o,Danny Berg
+Mar 9,home,State College of Florida,L,4-2,4,2,2,win,20190309_a7ao,5,0,1,,,,1,,1,,,,,,1,0,,,,,5,2019,2018-19,div1,Polk State,polkstatecollege,dannyberg899o,Danny Berg
+Mar 11,home,State College of Florida,L,13-3,13,3,10,win,20190311_kbqo,4,1,0,,,,0,,,,,,,,0,0,,,,,4,2019,2018-19,div1,Polk State,polkstatecollege,dannyberg899o,Danny Berg
+Mar 13,home,State College of Florida,L,10-0,10,0,10,win,20190313_pg1r,3,0,0,,,,0,,,,,,,,0,0,,,,,3,2019,2018-19,div1,Polk State,polkstatecollege,dannyberg899o,Danny Berg
+Mar 15,home,Hillsborough,W,13-3,13,3,10,win,20190315_zv59,4,2,2,1,,,2,,1,,,,,,3,1,,,,,4,2019,2018-19,div1,Polk State,polkstatecollege,dannyberg899o,Danny Berg
+Mar 16,home,Hillsborough,L,8-5,8,5,3,win,20190316_tbi8,3,0,0,,,,1,,,,,,1,,0,0,,,,,4,2019,2018-19,div1,Polk State,polkstatecollege,dannyberg899o,Danny Berg
+Mar 18,home,Hillsborough,L,4-3,4,3,1,win,20190318_ceqb,5,0,0,,,,0,,1,,,,,1,0,0,,,,,6,2019,2018-19,div1,Polk State,polkstatecollege,dannyberg899o,Danny Berg
+Mar 20,home,South Florida State,W,3-2,3,2,1,win,20190320_zleh,4,0,0,,,,0,,1,,,,,,0,0,,,,,4,2019,2018-19,div1,Polk State,polkstatecollege,dannyberg899o,Danny Berg
+Mar 22,home,South Florida State,W,8-6,8,6,2,win,20190322_hm0r,4,3,3,1,,,2,1,,,,,,,4,1,,,,,5,2019,2018-19,div1,Polk State,polkstatecollege,dannyberg899o,Danny Berg
+Mar 23,home,South Florida State,L,3-1,3,1,2,win,20190323_dj5d,3,0,1,1,,,0,1,,,,,,,2,1,,,,,4,2019,2018-19,div1,Polk State,polkstatecollege,dannyberg899o,Danny Berg
+Mar 25,home,Florida SouthWestern State,L,5-0,5,0,5,win,20190325_dt8k,4,0,1,,,,0,,1,,,,,,1,0,,,,,4,2019,2018-19,div1,Polk State,polkstatecollege,dannyberg899o,Danny Berg
+Mar 27,home,Florida SouthWestern State,W,5-1,5,1,4,win,20190327_wisy,4,0,1,,,,0,1,1,,,,,,1,0,,,,,5,2019,2018-19,div1,Polk State,polkstatecollege,dannyberg899o,Danny Berg
+Mar 29,home,Florida SouthWestern State,L,8-7,8,7,1,win,20190329_z4ug,4,1,1,,,,2,2,,,,,,,1,0,,,,,6,2019,2018-19,div1,Polk State,polkstatecollege,dannyberg899o,Danny Berg
+Mar 30,home,Elev8 Post Grad Program,W,13-0,13,0,13,win,20190330_o9yk,4,2,1,,,,0,2,1,1,,,,,1,0,,,,,6,2019,2018-19,div1,Polk State,polkstatecollege,dannyberg899o,Danny Berg
+Apr 1,home,Florida Southern College B,W,13-2,13,2,11,win,20190401_f09v,0,0,0,,,,0,,,,,,,,0,0,,,,,0,2019,2018-19,div1,Polk State,polkstatecollege,dannyberg899o,Danny Berg
+Apr 2,home,University of Tampa B,W,8-4,8,4,4,win,,,,,,,,,,,,,,,,,,,,,,,2019,2018-19,div1,Polk State,polkstatecollege,dannyberg899o,Danny Berg
+Apr 6,home,St. Petersburg,W,4-2,4,2,2,win,20190406_77ie,4,1,2,,,,0,,1,,,,,,2,0,,,,,4,2019,2018-19,div1,Polk State,polkstatecollege,dannyberg899o,Danny Berg
+Apr 8,home,St. Petersburg,L,19-5,19,5,14,win,20190408_l92s,3,1,0,,,,0,1,1,,,,,,0,0,,,,,4,2019,2018-19,div1,Polk State,polkstatecollege,dannyberg899o,Danny Berg
+Apr 10,home,St. Petersburg,W,10-6,10,6,4,win,20190410_jl0f,5,1,4,2,,,0,,,,,,,,6,2,,,,,5,2019,2018-19,div1,Polk State,polkstatecollege,dannyberg899o,Danny Berg
+Apr 12,home,State College of Florida,W,9-8,9,8,1,win,20190412_g53q,5,1,0,,,,0,,,,,,,,0,0,,,,,5,2019,2018-19,div1,Polk State,polkstatecollege,dannyberg899o,Danny Berg
+Apr 13,home,State College of Florida,W,11-10,11,10,1,win,20190413_63wd,5,1,2,1,,,0,,1,,,,,,3,1,,,,,5,2019,2018-19,div1,Polk State,polkstatecollege,dannyberg899o,Danny Berg
+Apr 15,home,State College of Florida,L,11-2,11,2,9,win,20190415_ierr,4,1,1,,,1,1,,,,,,,,4,1,,,,,4,2019,2018-19,div1,Polk State,polkstatecollege,dannyberg899o,Danny Berg
+Apr 17,home,Hillsborough,W,6-4,6,4,2,win,20190417_tjik,4,2,3,1,,,0,1,,,,,,,4,1,,,,,5,2019,2018-19,div1,Polk State,polkstatecollege,dannyberg899o,Danny Berg
+Apr 19,home,Hillsborough,,,,,2,win,,,,,,,,,,,,,,,,,,,,,,,2019,2018-19,div1,Polk State,polkstatecollege,dannyberg899o,Danny Berg
+Apr 20,home,Hillsborough,L,6-5,6,5,1,win,20190420_izkz,4,0,0,,,,0,,,,,,,,0,0,,,,,4,2019,2018-19,div1,Polk State,polkstatecollege,dannyberg899o,Danny Berg
+Apr 22,home,South Florida State,L,5-4,5,4,1,win,20190422_vgej,4,0,0,,,,2,1,,,,,,,0,0,,,,,5,2019,2018-19,div1,Polk State,polkstatecollege,dannyberg899o,Danny Berg
+Apr 24,home,South Florida State,W,13-5,13,5,8,win,20190424_fvh2,3,1,1,,,,2,2,,,,,,,1,0,,,,,5,2019,2018-19,div1,Polk State,polkstatecollege,dannyberg899o,Danny Berg
+Apr 25,home,Hillsborough,L,11-10,11,10,1,win,20190425_8h8y,3,2,1,,1,,1,2,,,,,,,3,1,,,,,5,2019,2018-19,div1,Polk State,polkstatecollege,dannyberg899o,Danny Berg
+Apr 26,home,South Florida State,L,13-3,13,3,10,win,20190426_3arg,4,0,1,,,,0,,,,,,,,1,0,,,,,4,2019,2018-19,div1,Polk State,polkstatecollege,dannyberg899o,Danny Berg
+Apr 27,home,Florida SouthWestern State,L,7-3,7,3,4,win,20190427_vgmz,3,0,1,,,,0,1,1,,1,,,,1,0,,,,,4,2019,2018-19,div1,Polk State,polkstatecollege,dannyberg899o,Danny Berg
+Apr 29,home,Florida SouthWestern State,L,10-3,10,3,7,win,20190429_e3tb,4,0,0,,,,0,,,,,,,,0,0,,,,,4,2019,2018-19,div1,Polk State,polkstatecollege,dannyberg899o,Danny Berg
+May 1,home,Florida SouthWestern State,L,8-5,8,5,3,win,20190501_ppv0,5,0,1,,,,1,,2,,,,,,1,0,,,,,5,2019,2018-19,div1,Polk State,polkstatecollege,dannyberg899o,Danny Berg

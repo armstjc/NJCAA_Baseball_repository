@@ -1,22 +1,59 @@
-date,location,opponent,result,score,team_score,opp_score,game_score_diff_x,game_win_loss_x,game_id_x,AB,R,H,2B,3B,HR,RBI,BB,K,SB,CS,game_score_diff_y,game_win_loss_y,game_id_y,HBP,SF,SH,TB,XBH,HDP,GO,FO,GO/FO,PA,season,njcaa_season,njcaa_division,team,team_id,player_id,player_name
-Feb 13,home,Cloud County,W,11-10,11,10,1.0,win,20190213_26jx,2,0,1,1,,,2,,1,,,1.0,win,20190213_26jx,,,,2,1,,,,,2,2019,2018-19,div1,Fort Scott,fortscottcommunitycollege,alexeicazarinvhu9,Alexei Cazarin
-Feb 13,home,Cloud County,L,15-4,15,4,11.0,win,,,,,,,,,,,,,11.0,win,,,,,,,,,,,,2019,2018-19,div1,Fort Scott,fortscottcommunitycollege,alexeicazarinvhu9,Alexei Cazarin
-Feb 22,home,North Arkansas,W,19-3,19,3,16.0,win,20190222_jzhw,3,2,1,,,,4,1,1,,,16.0,win,20190222_jzhw,,,,1,0,,,,,4,2019,2018-19,div1,Fort Scott,fortscottcommunitycollege,alexeicazarinvhu9,Alexei Cazarin
-Mar 8,home,Highland (KS),W,8-1,8,1,7.0,win,,,,,,,,,,,,,7.0,win,,,,,,,,,,,,2019,2018-19,div1,Fort Scott,fortscottcommunitycollege,alexeicazarinvhu9,Alexei Cazarin
-Mar 8,home,Highland (KS),W,8-0,8,0,8.0,win,,,,,,,,,,,,,8.0,win,,,,,,,,,,,,2019,2018-19,div1,Fort Scott,fortscottcommunitycollege,alexeicazarinvhu9,Alexei Cazarin
-Mar 11,home,Baker,W,10-0,10,0,10.0,win,20190311_fuhj,3,2,2,1,,,1,,1,,,10.0,win,20190311_fuhj,,,,3,1,,,,,3,2019,2018-19,div1,Fort Scott,fortscottcommunitycollege,alexeicazarinvhu9,Alexei Cazarin
-Mar 11,home,Baker,W,14-0,14,0,14.0,win,20190311_qper,4,0,1,1,,,2,,1,,,14.0,win,20190311_qper,,,,2,1,,,,,4,2019,2018-19,div1,Fort Scott,fortscottcommunitycollege,alexeicazarinvhu9,Alexei Cazarin
-Mar 16,home,Allen County,W,4-2,4,2,2.0,win,,,,,,,,,,,,,2.0,win,,,,,,,,,,,,2019,2018-19,div1,Fort Scott,fortscottcommunitycollege,alexeicazarinvhu9,Alexei Cazarin
-Mar 16,home,Allen County,W,5-4,5,4,1.0,win,20190316_tu3i,3,0,0,,,,0,,2,,,1.0,win,20190316_tu3i,,,,0,0,,,,,3,2019,2018-19,div1,Fort Scott,fortscottcommunitycollege,alexeicazarinvhu9,Alexei Cazarin
-Mar 21,home,Neosho County,L,6-1,6,1,5.0,win,,,,,,,,,,,,,5.0,win,,,,,,,,,,,,2019,2018-19,div1,Fort Scott,fortscottcommunitycollege,alexeicazarinvhu9,Alexei Cazarin
-Mar 21,home,Neosho County,W,8-5,8,5,3.0,win,20190321_4dxf,1,0,0,,,,0,,,,,3.0,win,20190321_4dxf,,,,0,0,,,,,1,2019,2018-19,div1,Fort Scott,fortscottcommunitycollege,alexeicazarinvhu9,Alexei Cazarin
-Mar 27,home,Kansas City Kansas,W,5-4,5,4,1.0,win,20190327_ibl6,0,1,0,,,,0,,,,,1.0,win,20190327_ibl6,,,,0,0,,,,,0,2019,2018-19,div1,Fort Scott,fortscottcommunitycollege,alexeicazarinvhu9,Alexei Cazarin
-Mar 27,home,Kansas City Kansas,L,5-0,5,0,5.0,win,,,,,,,,,,,,,5.0,win,,,,,,,,,,,,2019,2018-19,div1,Fort Scott,fortscottcommunitycollege,alexeicazarinvhu9,Alexei Cazarin
-Apr 6,home,Johnson County,W,7-2,7,2,5.0,win,,,,,,,,,,,,,5.0,win,,,,,,,,,,,,2019,2018-19,div1,Fort Scott,fortscottcommunitycollege,alexeicazarinvhu9,Alexei Cazarin
-Apr 6,home,Johnson County,L,17-6,17,6,11.0,win,20190406_a9mx,1,0,0,,,,0,,,,,11.0,win,20190406_a9mx,,,,0,0,,,,,1,2019,2018-19,div1,Fort Scott,fortscottcommunitycollege,alexeicazarinvhu9,Alexei Cazarin
-Apr 12,home,Cowley,L,17-0,17,0,17.0,win,20190412_9x14,2,0,0,,,,0,,1,,,17.0,win,20190412_9x14,,,,0,0,,,,,2,2019,2018-19,div1,Fort Scott,fortscottcommunitycollege,alexeicazarinvhu9,Alexei Cazarin
-Apr 12,home,Cowley,L,16-3,16,3,13.0,win,20190412_c113,4,1,1,,,,0,,2,,,13.0,win,20190412_c113,,,,1,0,,,,,4,2019,2018-19,div1,Fort Scott,fortscottcommunitycollege,alexeicazarinvhu9,Alexei Cazarin
-Apr 19,home,Coffeyville,L,18-1,18,1,17.0,win,20190419_ozzw,2,0,1,,,,1,1,,,,17.0,win,20190419_ozzw,,,,1,0,,,,,3,2019,2018-19,div1,Fort Scott,fortscottcommunitycollege,alexeicazarinvhu9,Alexei Cazarin
-Apr 19,home,Coffeyville,W,13-12,13,12,1.0,win,20190419_w5as,3,0,0,,,,0,1,,,,1.0,win,20190419_w5as,1,,,0,0,,,,,5,2019,2018-19,div1,Fort Scott,fortscottcommunitycollege,alexeicazarinvhu9,Alexei Cazarin
-Apr 24,home,Baker,W,11-2,11,2,9.0,win,20190424_q440,3,2,2,,,1,1,,,,,9.0,win,20190424_q440,,,,5,1,,,,,3,2019,2018-19,div1,Fort Scott,fortscottcommunitycollege,alexeicazarinvhu9,Alexei Cazarin
-Apr 24,home,Baker,W,16-6,16,6,10.0,win,20190424_38v8,3,2,2,,,,1,1,,,,10.0,win,20190424_38v8,,,,2,0,,,,,4,2019,2018-19,div1,Fort Scott,fortscottcommunitycollege,alexeicazarinvhu9,Alexei Cazarin
+date,location,opponent,result,score,team_score,opp_score,game_score_diff,game_win_loss,game_id,AB,R,H,2B,3B,HR,RBI,BB,K,SB,CS,HBP,SF,SH,TB,XBH,HDP,GO,FO,GO/FO,PA,season,njcaa_season,njcaa_division,team,team_id,player_id,player_name
+Feb 13,home,Cloud County,W,11-10,11,10,1.0,win,20190213_26jx,2,0,1,1,,,2,,1,,,,,,2,1,,,,,2,2019,2018-19,div1,Fort Scott,fortscottcommunitycollege,alexeicazarinvhu9,Alexei Cazarin
+Feb 13,home,Cloud County,L,15-4,15,4,11.0,win,,,,,,,,,,,,,,,,,,,,,,,2019,2018-19,div1,Fort Scott,fortscottcommunitycollege,alexeicazarinvhu9,Alexei Cazarin
+Feb 14,home,Evangel University,W,15-5,15,5,10.0,win,20190214_9m11,2,4,2,,,,2,2,,,,,,,2,0,,,,,4,2019,2018-19,div1,Fort Scott,fortscottcommunitycollege,alexeicazarinvhu9,Alexei Cazarin
+Feb 14,home,Evangel University,W,20-0,20,0,20.0,win,20190214_90o7,2,2,1,,,,0,2,1,1,,,,,1,0,,,,,4,2019,2018-19,div1,Fort Scott,fortscottcommunitycollege,alexeicazarinvhu9,Alexei Cazarin
+Feb 22,home,North Arkansas,W,6-1,6,1,5.0,win,20190222_w13r,3,1,1,,,,0,,1,,,,,,1,0,,,,,3,2019,2018-19,div1,Fort Scott,fortscottcommunitycollege,alexeicazarinvhu9,Alexei Cazarin
+Feb 22,home,North Arkansas,W,19-3,19,3,16.0,win,20190222_jzhw,3,2,1,,,,4,1,1,,,,,,1,0,,,,,4,2019,2018-19,div1,Fort Scott,fortscottcommunitycollege,alexeicazarinvhu9,Alexei Cazarin
+Feb 24,home,North Arkansas,W,13-4,13,4,9.0,win,,,,,,,,,,,,,,,,,,,,,,,2019,2018-19,div1,Fort Scott,fortscottcommunitycollege,alexeicazarinvhu9,Alexei Cazarin
+Feb 24,home,North Arkansas,W,7-4,7,4,3.0,win,20190224_lbmi,2,0,1,,,,2,1,1,,,,,,1,0,,,,,3,2019,2018-19,div1,Fort Scott,fortscottcommunitycollege,alexeicazarinvhu9,Alexei Cazarin
+Feb 25,home,Evangel University,W,12-4,12,4,8.0,win,,,,,,,,,,,,,,,,,,,,,,,2019,2018-19,div1,Fort Scott,fortscottcommunitycollege,alexeicazarinvhu9,Alexei Cazarin
+Feb 25,home,Evangel University,W,10-6,10,6,4.0,win,20190225_h3o2,3,0,1,,,,2,,1,1,,,,,1,0,,,,,3,2019,2018-19,div1,Fort Scott,fortscottcommunitycollege,alexeicazarinvhu9,Alexei Cazarin
+Mar 7,home,Highland (KS),W,13-7,13,7,6.0,win,,,,,,,,,,,,,,,,,,,,,,,2019,2018-19,div1,Fort Scott,fortscottcommunitycollege,alexeicazarinvhu9,Alexei Cazarin
+Mar 7,home,Highland (KS),W,15-7,15,7,8.0,win,20190307_6lsr,2,1,0,,,,0,1,1,,,,,,0,0,,,,,3,2019,2018-19,div1,Fort Scott,fortscottcommunitycollege,alexeicazarinvhu9,Alexei Cazarin
+Mar 8,home,Highland (KS),W,8-1,8,1,7.0,win,,,,,,,,,,,,,,,,,,,,,,,2019,2018-19,div1,Fort Scott,fortscottcommunitycollege,alexeicazarinvhu9,Alexei Cazarin
+Mar 8,home,Highland (KS),W,8-0,8,0,8.0,win,,,,,,,,,,,,,,,,,,,,,,,2019,2018-19,div1,Fort Scott,fortscottcommunitycollege,alexeicazarinvhu9,Alexei Cazarin
+Mar 11,home,Baker,W,10-0,10,0,10.0,win,20190311_fuhj,3,2,2,1,,,1,,1,,,,,,3,1,,,,,3,2019,2018-19,div1,Fort Scott,fortscottcommunitycollege,alexeicazarinvhu9,Alexei Cazarin
+Mar 11,home,Baker,W,14-0,14,0,14.0,win,20190311_qper,4,0,1,1,,,2,,1,,,,,,2,1,,,,,4,2019,2018-19,div1,Fort Scott,fortscottcommunitycollege,alexeicazarinvhu9,Alexei Cazarin
+Mar 16,home,Allen County,W,4-2,4,2,2.0,win,,,,,,,,,,,,,,,,,,,,,,,2019,2018-19,div1,Fort Scott,fortscottcommunitycollege,alexeicazarinvhu9,Alexei Cazarin
+Mar 16,home,Allen County,W,5-4,5,4,1.0,win,20190316_tu3i,3,0,0,,,,0,,2,,,,,,0,0,,,,,3,2019,2018-19,div1,Fort Scott,fortscottcommunitycollege,alexeicazarinvhu9,Alexei Cazarin
+Mar 17,home,Allen County,L,9-0,9,0,9.0,win,,,,,,,,,,,,,,,,,,,,,,,2019,2018-19,div1,Fort Scott,fortscottcommunitycollege,alexeicazarinvhu9,Alexei Cazarin
+Mar 17,home,Allen County,L,5-3,5,3,2.0,win,20190317_5kak,2,1,0,,,,0,2,,,,,,,0,0,,,,,4,2019,2018-19,div1,Fort Scott,fortscottcommunitycollege,alexeicazarinvhu9,Alexei Cazarin
+Mar 21,home,Neosho County,L,6-1,6,1,5.0,win,,,,,,,,,,,,,,,,,,,,,,,2019,2018-19,div1,Fort Scott,fortscottcommunitycollege,alexeicazarinvhu9,Alexei Cazarin
+Mar 21,home,Neosho County,W,8-5,8,5,3.0,win,20190321_4dxf,1,0,0,,,,0,,,,,,,,0,0,,,,,1,2019,2018-19,div1,Fort Scott,fortscottcommunitycollege,alexeicazarinvhu9,Alexei Cazarin
+Mar 24,home,Neosho County,W,8-4,8,4,4.0,win,,,,,,,,,,,,,,,,,,,,,,,2019,2018-19,div1,Fort Scott,fortscottcommunitycollege,alexeicazarinvhu9,Alexei Cazarin
+Mar 24,home,Neosho County,W,9-1,9,1,8.0,win,,,,,,,,,,,,,,,,,,,,,,,2019,2018-19,div1,Fort Scott,fortscottcommunitycollege,alexeicazarinvhu9,Alexei Cazarin
+Mar 27,home,Kansas City Kansas,W,5-4,5,4,1.0,win,20190327_ibl6,0,1,0,,,,0,,,,,,,,0,0,,,,,0,2019,2018-19,div1,Fort Scott,fortscottcommunitycollege,alexeicazarinvhu9,Alexei Cazarin
+Mar 27,home,Kansas City Kansas,L,5-0,5,0,5.0,win,,,,,,,,,,,,,,,,,,,,,,,2019,2018-19,div1,Fort Scott,fortscottcommunitycollege,alexeicazarinvhu9,Alexei Cazarin
+Mar 31,home,Kansas City Kansas,L,4-3,4,3,1.0,win,,,,,,,,,,,,,,,,,,,,,,,2019,2018-19,div1,Fort Scott,fortscottcommunitycollege,alexeicazarinvhu9,Alexei Cazarin
+Mar 31,home,Kansas City Kansas,L,4-1,4,1,3.0,win,,,,,,,,,,,,,,,,,,,,,,,2019,2018-19,div1,Fort Scott,fortscottcommunitycollege,alexeicazarinvhu9,Alexei Cazarin
+Apr 3,home,Evangel University,L,7-1,7,1,6.0,win,20190403_o4cm,3,1,1,,1,,0,,2,,,,,,3,1,,,,,3,2019,2018-19,div1,Fort Scott,fortscottcommunitycollege,alexeicazarinvhu9,Alexei Cazarin
+Apr 3,home,Evangel University,W,11-0,11,0,11.0,win,20190403_k0wl,3,1,2,1,,,2,,1,,,,,,3,1,,,,,3,2019,2018-19,div1,Fort Scott,fortscottcommunitycollege,alexeicazarinvhu9,Alexei Cazarin
+Apr 4,home,Johnson County,W,5-2,5,2,3.0,win,,,,,,,,,,,,,,,,,,,,,,,2019,2018-19,div1,Fort Scott,fortscottcommunitycollege,alexeicazarinvhu9,Alexei Cazarin
+Apr 4,home,Johnson County,L,12-3,12,3,9.0,win,20190404_cjno,1,0,0,,,,0,,1,,,,,,0,0,,,,,1,2019,2018-19,div1,Fort Scott,fortscottcommunitycollege,alexeicazarinvhu9,Alexei Cazarin
+Apr 6,home,Johnson County,W,7-2,7,2,5.0,win,,,,,,,,,,,,,,,,,,,,,,,2019,2018-19,div1,Fort Scott,fortscottcommunitycollege,alexeicazarinvhu9,Alexei Cazarin
+Apr 6,home,Johnson County,L,17-6,17,6,11.0,win,20190406_a9mx,1,0,0,,,,0,,,,,,,,0,0,,,,,1,2019,2018-19,div1,Fort Scott,fortscottcommunitycollege,alexeicazarinvhu9,Alexei Cazarin
+Apr 11,home,Cowley,L,12-11,12,11,1.0,win,20190411_0kz7,1,1,1,,,,0,1,,,,,,,1,0,,,,,2,2019,2018-19,div1,Fort Scott,fortscottcommunitycollege,alexeicazarinvhu9,Alexei Cazarin
+Apr 11,home,Cowley,L,10-0,10,0,10.0,win,20190411_0eep,3,0,1,,,,0,,1,,,,,,1,0,,,,,3,2019,2018-19,div1,Fort Scott,fortscottcommunitycollege,alexeicazarinvhu9,Alexei Cazarin
+Apr 12,home,Cowley,L,17-0,17,0,17.0,win,20190412_9x14,2,0,0,,,,0,,1,,,,,,0,0,,,,,2,2019,2018-19,div1,Fort Scott,fortscottcommunitycollege,alexeicazarinvhu9,Alexei Cazarin
+Apr 12,home,Cowley,L,16-3,16,3,13.0,win,20190412_c113,4,1,1,,,,0,,2,,,,,,1,0,,,,,4,2019,2018-19,div1,Fort Scott,fortscottcommunitycollege,alexeicazarinvhu9,Alexei Cazarin
+Apr 15,home,Ottawa University JV,W,10-0,10,0,10.0,win,20190415_pu6f,3,0,2,1,,,0,,1,,,1,,,3,1,,,,,4,2019,2018-19,div1,Fort Scott,fortscottcommunitycollege,alexeicazarinvhu9,Alexei Cazarin
+Apr 15,home,Ottawa University JV,W,20-2,20,2,18.0,win,20190415_mgqx,1,3,0,,,,0,3,,,,,,,0,0,,,,,4,2019,2018-19,div1,Fort Scott,fortscottcommunitycollege,alexeicazarinvhu9,Alexei Cazarin
+Apr 19,home,Coffeyville,L,18-1,18,1,17.0,win,20190419_ozzw,2,0,1,,,,1,1,,,,,,,1,0,,,,,3,2019,2018-19,div1,Fort Scott,fortscottcommunitycollege,alexeicazarinvhu9,Alexei Cazarin
+Apr 19,home,Coffeyville,W,13-12,13,12,1.0,win,20190419_w5as,3,0,0,,,,0,1,,,,1,,,0,0,,,,,5,2019,2018-19,div1,Fort Scott,fortscottcommunitycollege,alexeicazarinvhu9,Alexei Cazarin
+Apr 20,home,Coffeyville,L,11-4,11,4,7.0,win,20190420_74ph,3,0,0,,,,0,,1,,,,,,0,0,,,,,3,2019,2018-19,div1,Fort Scott,fortscottcommunitycollege,alexeicazarinvhu9,Alexei Cazarin
+Apr 20,home,Coffeyville,W,19-9,19,9,10.0,win,20190420_1cvm,4,1,1,,,,0,1,,2,,,,,1,0,,,,,5,2019,2018-19,div1,Fort Scott,fortscottcommunitycollege,alexeicazarinvhu9,Alexei Cazarin
+Apr 24,home,Baker,W,11-2,11,2,9.0,win,20190424_q440,3,2,2,,,1,1,,,,,,,,5,1,,,,,3,2019,2018-19,div1,Fort Scott,fortscottcommunitycollege,alexeicazarinvhu9,Alexei Cazarin
+Apr 24,home,Baker,W,16-6,16,6,10.0,win,20190424_38v8,3,2,2,,,,1,1,,,,,,,2,0,,,,,4,2019,2018-19,div1,Fort Scott,fortscottcommunitycollege,alexeicazarinvhu9,Alexei Cazarin
+Apr 25,home,Baker,W,19-6,19,6,13.0,win,20190425_svsx,4,1,2,1,,,1,,1,,,,,,3,1,,,,,4,2019,2018-19,div1,Fort Scott,fortscottcommunitycollege,alexeicazarinvhu9,Alexei Cazarin
+Apr 25,home,Baker,W,4-0,4,0,4.0,win,,,,,,,,,,,,,,,,,,,,,,,2019,2018-19,div1,Fort Scott,fortscottcommunitycollege,alexeicazarinvhu9,Alexei Cazarin
+Apr 26,home,Crowder,L,2-1,2,1,1.0,win,20190426_57sm,3,1,1,,1,,0,,2,,,,,,3,1,,,,,3,2019,2018-19,div1,Fort Scott,fortscottcommunitycollege,alexeicazarinvhu9,Alexei Cazarin
+Apr 26,home,Crowder,L,6-4,6,4,2.0,win,20190426_ga12,2,0,1,,,,1,1,,,,,,,1,0,,,,,3,2019,2018-19,div1,Fort Scott,fortscottcommunitycollege,alexeicazarinvhu9,Alexei Cazarin
+May 4,home,Labette,W,10-0,10,0,10.0,win,20190504_2pyf,2,0,1,,,,0,,,,,,,,1,0,,,,,2,2019,2018-19,div1,Fort Scott,fortscottcommunitycollege,alexeicazarinvhu9,Alexei Cazarin
+May 4,home,Labette,L,13-5,13,5,8.0,win,20190504_6j54,4,1,1,1,,,0,1,2,,,,,,2,1,,,,,5,2019,2018-19,div1,Fort Scott,fortscottcommunitycollege,alexeicazarinvhu9,Alexei Cazarin
+May 5,home,Labette,W,13-7,13,7,6.0,win,20190505_z6s2,2,1,2,,,,2,1,,1,,,,,2,0,,,,,3,2019,2018-19,div1,Fort Scott,fortscottcommunitycollege,alexeicazarinvhu9,Alexei Cazarin
+May 5,home,Labette,W,11-3,11,3,8.0,win,20190505_jkys,4,2,1,,1,,1,2,1,,,1,,,3,1,,,,,7,2019,2018-19,div1,Fort Scott,fortscottcommunitycollege,alexeicazarinvhu9,Alexei Cazarin
+May 11,home,Seward County,W,8-0,8,0,8.0,win,20190511_8a75,4,0,1,,,,0,,,,1,,,,1,0,,,,,4,2019,2018-19,div1,Fort Scott,fortscottcommunitycollege,alexeicazarinvhu9,Alexei Cazarin
+May 11,home,Seward County,W,6-5,6,5,1.0,win,20190511_eqwu,2,1,0,,,,0,1,1,,,1,,,0,0,,,,,4,2019,2018-19,div1,Fort Scott,fortscottcommunitycollege,alexeicazarinvhu9,Alexei Cazarin
+May 15,home,Hutchinson,L,15-2,15,2,13.0,win,20190515_seon,2,1,1,,,,0,,,,,,,,1,0,,,1,,2,2019,2018-19,div1,Fort Scott,fortscottcommunitycollege,alexeicazarinvhu9,Alexei Cazarin
+May 16,home,Johnson County,L,9-8,9,8,1.0,win,20190516_2zuu,4,0,2,,,,0,,2,,,,,,2,0,,,,,4,2019,2018-19,div1,Fort Scott,fortscottcommunitycollege,alexeicazarinvhu9,Alexei Cazarin

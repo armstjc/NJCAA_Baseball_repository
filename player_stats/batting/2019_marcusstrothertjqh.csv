@@ -1,25 +1,53 @@
-date,location,opponent,result,score,team_score,opp_score,game_score_diff_x,game_win_loss_x,game_id_x,AB,R,H,2B,3B,HR,RBI,BB,K,SB,CS,game_score_diff_y,game_win_loss_y,game_id_y,HBP,SF,SH,TB,XBH,HDP,GO,FO,GO/FO,PA,season,njcaa_season,njcaa_division,team,team_id,player_id,player_name
-Feb 24,home,Iowa Lakes,L,10-8,10,8,2.0,win,20190224_69jl,4,0,2,,1,,1,,,,,2.0,win,20190224_69jl,,,,4,1,,,,,4,2019,2018-19,div1,Southeastern Illinois,southeasternillinoiscollege,marcusstrothertjqh,Marcus Strother
-Feb 24,home,Iowa Lakes,L,5-2,5,2,3.0,win,20190224_4euw,3,0,0,,,,1,1,1,1,,3.0,win,20190224_4euw,,,,0,0,,,,,4,2019,2018-19,div1,Southeastern Illinois,southeasternillinoiscollege,marcusstrothertjqh,Marcus Strother
-Feb 25,home,Iowa Lakes,L,6-5,6,5,1.0,win,20190225_7v8w,4,1,2,,,,2,1,,1,,1.0,win,20190225_7v8w,,,,2,0,,,,,5,2019,2018-19,div1,Southeastern Illinois,southeasternillinoiscollege,marcusstrothertjqh,Marcus Strother
-Feb 25,home,Iowa Lakes,L,8-7,8,7,1.0,win,20190225_m2g7,3,0,1,,,,2,2,1,,,1.0,win,20190225_m2g7,,,,1,0,,,,,5,2019,2018-19,div1,Southeastern Illinois,southeasternillinoiscollege,marcusstrothertjqh,Marcus Strother
-Mar 6,home,Minnesota West,,,,,7.0,win,,,,,,,,,,,,,7.0,win,,,,,,,,,,,,2019,2018-19,div1,Southeastern Illinois,southeasternillinoiscollege,marcusstrothertjqh,Marcus Strother
-Mar 6,home,Minnesota West,,,,,7.0,win,,,,,,,,,,,,,7.0,win,,,,,,,,,,,,2019,2018-19,div1,Southeastern Illinois,southeasternillinoiscollege,marcusstrothertjqh,Marcus Strother
-Mar 6,home,Minnesota West,,,,,7.0,win,,,,,,,,,,,,,7.0,win,,,,,,,,,,,,2019,2018-19,div1,Southeastern Illinois,southeasternillinoiscollege,marcusstrothertjqh,Marcus Strother
-Mar 6,home,Minnesota West,,,,,7.0,win,,,,,,,,,,,,,7.0,win,,,,,,,,,,,,2019,2018-19,div1,Southeastern Illinois,southeasternillinoiscollege,marcusstrothertjqh,Marcus Strother
-Mar 11,home,Southwestern Illinois,W,4-2,4,2,2.0,win,20190311_bptx,2,0,0,,,,1,2,1,1,,2.0,win,20190311_bptx,,,,0,0,,,,,4,2019,2018-19,div1,Southeastern Illinois,southeasternillinoiscollege,marcusstrothertjqh,Marcus Strother
-Mar 11,home,Southwestern Illinois,L,1-0,1,0,1.0,win,20190311_goin,2,0,0,,,,0,,,,,1.0,win,20190311_goin,1,,,0,0,,,,,3,2019,2018-19,div1,Southeastern Illinois,southeasternillinoiscollege,marcusstrothertjqh,Marcus Strother
-Mar 17,home,Frontier,L,17-5,17,5,12.0,win,20190317_cjp3,4,1,2,,,1,2,,1,,,12.0,win,20190317_cjp3,,,,5,1,,,,,4,2019,2018-19,div1,Southeastern Illinois,southeasternillinoiscollege,marcusstrothertjqh,Marcus Strother
-Mar 18,home,McKendree University,W,7-6,7,6,1.0,win,20190318_v1ed,3,1,1,,,,0,2,1,1,1,1.0,win,20190318_v1ed,,,,1,0,,,,,5,2019,2018-19,div1,Southeastern Illinois,southeasternillinoiscollege,marcusstrothertjqh,Marcus Strother
-Mar 19,home,LU Belleville,W,4-1,4,1,3.0,win,20190319_zaog,3,0,0,,,,0,,,1,,3.0,win,20190319_zaog,1,,,0,0,,,,,4,2019,2018-19,div1,Southeastern Illinois,southeasternillinoiscollege,marcusstrothertjqh,Marcus Strother
-Mar 19,home,LU Belleville,W,9-4,9,4,5.0,win,20190319_lzqd,4,0,2,,,,2,,1,,,5.0,win,20190319_lzqd,,,,2,0,,,,,4,2019,2018-19,div1,Southeastern Illinois,southeasternillinoiscollege,marcusstrothertjqh,Marcus Strother
-Mar 23,home,Kaskaskia,L,16-5,16,5,11.0,win,20190323_u2j0,4,1,2,,,,0,,1,,,11.0,win,20190323_u2j0,,,,2,0,,,,,4,2019,2018-19,div1,Southeastern Illinois,southeasternillinoiscollege,marcusstrothertjqh,Marcus Strother
-Mar 23,home,Kaskaskia,W,6-5,6,5,1.0,win,20190323_8ijv,4,0,1,,,,0,,1,,1,1.0,win,20190323_8ijv,,,,1,0,,,,,4,2019,2018-19,div1,Southeastern Illinois,southeasternillinoiscollege,marcusstrothertjqh,Marcus Strother
-Mar 28,home,Lake Land,L,14-11,14,11,3.0,win,20190328_o8yo,4,3,3,,1,,0,1,,,,3.0,win,20190328_o8yo,,,,5,1,,,,,5,2019,2018-19,div1,Southeastern Illinois,southeasternillinoiscollege,marcusstrothertjqh,Marcus Strother
-Apr 2,home,Shawnee,W,18-8,18,8,10.0,win,20190402_2dx4,4,2,1,,,,1,1,2,,,10.0,win,20190402_2dx4,,,,1,0,,,,,5,2019,2018-19,div1,Southeastern Illinois,southeasternillinoiscollege,marcusstrothertjqh,Marcus Strother
-Apr 2,home,Shawnee,L,12-7,12,7,5.0,win,20190402_zcys,2,2,1,,,,1,2,,,,5.0,win,20190402_zcys,,,,1,0,,,,,4,2019,2018-19,div1,Southeastern Illinois,southeasternillinoiscollege,marcusstrothertjqh,Marcus Strother
-Apr 22,home,Wabash Valley,L,13-1,13,1,12.0,win,20190422_7x6d,3,1,0,,,,0,1,3,,,12.0,win,20190422_7x6d,,,,0,0,,,,,4,2019,2018-19,div1,Southeastern Illinois,southeasternillinoiscollege,marcusstrothertjqh,Marcus Strother
-Apr 23,home,Rend Lake,L,16-4,16,4,12.0,win,20190423_gkxb,4,1,4,1,,,0,,,,,12.0,win,20190423_gkxb,,,,5,1,,,,,4,2019,2018-19,div1,Southeastern Illinois,southeasternillinoiscollege,marcusstrothertjqh,Marcus Strother
-Apr 23,home,Rend Lake,L,18-4,18,4,14.0,win,20190423_369r,3,1,1,,,,0,1,1,,,14.0,win,20190423_369r,,,,1,0,,,,,4,2019,2018-19,div1,Southeastern Illinois,southeasternillinoiscollege,marcusstrothertjqh,Marcus Strother
-Apr 29,home,Olney Central,W,14-13,14,13,1.0,win,20190429_5zew,4,0,2,1,,,1,1,1,,,1.0,win,20190429_5zew,,,,3,1,,,,,5,2019,2018-19,div1,Southeastern Illinois,southeasternillinoiscollege,marcusstrothertjqh,Marcus Strother
-May 6,home,Lincoln Trail,L,6-5,6,5,1.0,win,20190506_z7el,3,1,1,,,,0,2,1,1,,1.0,win,20190506_z7el,,,,1,0,,,,,5,2019,2018-19,div1,Southeastern Illinois,southeasternillinoiscollege,marcusstrothertjqh,Marcus Strother
+date,location,opponent,result,score,team_score,opp_score,game_score_diff,game_win_loss,game_id,AB,R,H,2B,3B,HR,RBI,BB,K,SB,CS,HBP,SF,SH,TB,XBH,HDP,GO,FO,GO/FO,PA,season,njcaa_season,njcaa_division,team,team_id,player_id,player_name
+Feb 16,home,Southwest Tennessee,L,8-4,8,4,4.0,win,20190216_e3p8,3,1,1,,,,0,1,1,,,,,,1,0,,,,,4,2019,2018-19,div1,Southeastern Illinois,southeasternillinoiscollege,marcusstrothertjqh,Marcus Strother
+Feb 16,home,Southwest Tennessee,L,6-1,6,1,5.0,win,20190216_nl6z,3,0,0,,,,0,,1,,,,,,0,0,,,,,3,2019,2018-19,div1,Southeastern Illinois,southeasternillinoiscollege,marcusstrothertjqh,Marcus Strother
+Feb 17,home,Southwest Tennessee,L,7-1,7,1,6.0,win,20190217_fq0i,2,0,0,,,,0,1,2,,,,,,0,0,,,,,3,2019,2018-19,div1,Southeastern Illinois,southeasternillinoiscollege,marcusstrothertjqh,Marcus Strother
+Feb 17,home,Southwest Tennessee,L,9-6,9,6,3.0,win,20190217_huic,3,0,2,,,,0,1,1,,,,,,2,0,,,,,4,2019,2018-19,div1,Southeastern Illinois,southeasternillinoiscollege,marcusstrothertjqh,Marcus Strother
+Feb 24,home,Iowa Lakes,L,10-8,10,8,2.0,win,20190224_69jl,4,0,2,,1,,1,,,,,,,,4,1,,,,,4,2019,2018-19,div1,Southeastern Illinois,southeasternillinoiscollege,marcusstrothertjqh,Marcus Strother
+Feb 24,home,Iowa Lakes,L,5-2,5,2,3.0,win,20190224_4euw,3,0,0,,,,1,1,1,1,,,,,0,0,,,,,4,2019,2018-19,div1,Southeastern Illinois,southeasternillinoiscollege,marcusstrothertjqh,Marcus Strother
+Feb 25,home,Iowa Lakes,L,6-5,6,5,1.0,win,20190225_7v8w,4,1,2,,,,2,1,,1,,,,,2,0,,,,,5,2019,2018-19,div1,Southeastern Illinois,southeasternillinoiscollege,marcusstrothertjqh,Marcus Strother
+Feb 25,home,Iowa Lakes,L,8-7,8,7,1.0,win,20190225_m2g7,3,0,1,,,,2,2,1,,,,,,1,0,,,,,5,2019,2018-19,div1,Southeastern Illinois,southeasternillinoiscollege,marcusstrothertjqh,Marcus Strother
+Mar 1,home,Highland (IL),W,10-6,10,6,4.0,win,20190301_u6ql,5,0,2,,,,1,,,,,,,,2,0,,,,,5,2019,2018-19,div1,Southeastern Illinois,southeasternillinoiscollege,marcusstrothertjqh,Marcus Strother
+Mar 2,home,Highland (IL),L,10-9,10,9,1.0,win,20190302_f36x,4,1,2,,1,,2,,1,,,,,,4,1,,,,,4,2019,2018-19,div1,Southeastern Illinois,southeasternillinoiscollege,marcusstrothertjqh,Marcus Strother
+Mar 2,home,Highland (IL),W,10-3,10,3,7.0,win,20190302_h8w6,2,2,0,,,,0,2,,,,,,,0,0,,,,,4,2019,2018-19,div1,Southeastern Illinois,southeasternillinoiscollege,marcusstrothertjqh,Marcus Strother
+Mar 6,home,Minnesota West,,,,,7.0,win,,,,,,,,,,,,,,,,,,,,,,,2019,2018-19,div1,Southeastern Illinois,southeasternillinoiscollege,marcusstrothertjqh,Marcus Strother
+Mar 6,home,Minnesota West,,,,,7.0,win,,,,,,,,,,,,,,,,,,,,,,,2019,2018-19,div1,Southeastern Illinois,southeasternillinoiscollege,marcusstrothertjqh,Marcus Strother
+Mar 6,home,Minnesota West,,,,,7.0,win,,,,,,,,,,,,,,,,,,,,,,,2019,2018-19,div1,Southeastern Illinois,southeasternillinoiscollege,marcusstrothertjqh,Marcus Strother
+Mar 6,home,Minnesota West,,,,,7.0,win,,,,,,,,,,,,,,,,,,,,,,,2019,2018-19,div1,Southeastern Illinois,southeasternillinoiscollege,marcusstrothertjqh,Marcus Strother
+Mar 11,home,Southwestern Illinois,W,4-2,4,2,2.0,win,20190311_bptx,2,0,0,,,,1,2,1,1,,,,,0,0,,,,,4,2019,2018-19,div1,Southeastern Illinois,southeasternillinoiscollege,marcusstrothertjqh,Marcus Strother
+Mar 11,home,Southwestern Illinois,L,1-0,1,0,1.0,win,20190311_goin,2,0,0,,,,0,,,,,1,,,0,0,,,,,3,2019,2018-19,div1,Southeastern Illinois,southeasternillinoiscollege,marcusstrothertjqh,Marcus Strother
+Mar 12,home,Southwestern Illinois,W,13-3,13,3,10.0,win,20190312_emh9,4,2,3,1,,1,6,,,,,1,,,7,2,,,,,5,2019,2018-19,div1,Southeastern Illinois,southeasternillinoiscollege,marcusstrothertjqh,Marcus Strother
+Mar 16,home,Frontier,W,9-8,9,8,1.0,win,20190316_t5ai,4,1,0,,,,0,1,3,,,1,,,0,0,,,,,6,2019,2018-19,div1,Southeastern Illinois,southeasternillinoiscollege,marcusstrothertjqh,Marcus Strother
+Mar 16,home,Frontier,L,10-6,10,6,4.0,win,20190316_46to,4,1,3,1,,,2,,,,,,1,,4,1,,,,,5,2019,2018-19,div1,Southeastern Illinois,southeasternillinoiscollege,marcusstrothertjqh,Marcus Strother
+Mar 17,home,Frontier,L,17-5,17,5,12.0,win,20190317_cjp3,4,1,2,,,1,2,,1,,,,,,5,1,,,,,4,2019,2018-19,div1,Southeastern Illinois,southeasternillinoiscollege,marcusstrothertjqh,Marcus Strother
+Mar 18,home,McKendree University,W,7-6,7,6,1.0,win,20190318_v1ed,3,1,1,,,,0,2,1,1,1,,,,1,0,,,,,5,2019,2018-19,div1,Southeastern Illinois,southeasternillinoiscollege,marcusstrothertjqh,Marcus Strother
+Mar 19,home,LU Belleville,W,4-1,4,1,3.0,win,20190319_zaog,3,0,0,,,,0,,,1,,1,,,0,0,,,,,4,2019,2018-19,div1,Southeastern Illinois,southeasternillinoiscollege,marcusstrothertjqh,Marcus Strother
+Mar 19,home,LU Belleville,W,9-4,9,4,5.0,win,20190319_lzqd,4,0,2,,,,2,,1,,,,,,2,0,,,,,4,2019,2018-19,div1,Southeastern Illinois,southeasternillinoiscollege,marcusstrothertjqh,Marcus Strother
+Mar 21,home,Kaskaskia,L,5-4,5,4,1.0,win,20190321_un0c,5,0,2,,,,1,,,,,,,,2,0,,,,,5,2019,2018-19,div1,Southeastern Illinois,southeasternillinoiscollege,marcusstrothertjqh,Marcus Strother
+Mar 23,home,Kaskaskia,L,16-5,16,5,11.0,win,20190323_u2j0,4,1,2,,,,0,,1,,,,,,2,0,,,,,4,2019,2018-19,div1,Southeastern Illinois,southeasternillinoiscollege,marcusstrothertjqh,Marcus Strother
+Mar 23,home,Kaskaskia,W,6-5,6,5,1.0,win,20190323_8ijv,4,0,1,,,,0,,1,,1,,,,1,0,,,,,4,2019,2018-19,div1,Southeastern Illinois,southeasternillinoiscollege,marcusstrothertjqh,Marcus Strother
+Mar 26,home,Shawnee,W,21-14,21,14,7.0,win,20190326_37ig,4,4,3,,,,0,3,1,,,,,,3,0,,,,,7,2019,2018-19,div1,Southeastern Illinois,southeasternillinoiscollege,marcusstrothertjqh,Marcus Strother
+Mar 27,home,Greenville University,W,9-7,9,7,2.0,win,20190327_f2bu,3,1,1,,,,0,1,1,,,,,,1,0,,,,,4,2019,2018-19,div1,Southeastern Illinois,southeasternillinoiscollege,marcusstrothertjqh,Marcus Strother
+Mar 27,home,Greenville University,W,16-2,16,2,14.0,win,20190327_sbov,5,4,3,,,1,2,1,2,,,,,,6,1,,,,,6,2019,2018-19,div1,Southeastern Illinois,southeasternillinoiscollege,marcusstrothertjqh,Marcus Strother
+Mar 28,home,Lake Land,L,14-11,14,11,3.0,win,20190328_o8yo,4,3,3,,1,,0,1,,,,,,,5,1,,,,,5,2019,2018-19,div1,Southeastern Illinois,southeasternillinoiscollege,marcusstrothertjqh,Marcus Strother
+Mar 31,home,Lake Land,W,8-4,8,4,4.0,win,20190331_g4nz,3,2,2,,1,,2,2,1,,,,,,4,1,,,,,5,2019,2018-19,div1,Southeastern Illinois,southeasternillinoiscollege,marcusstrothertjqh,Marcus Strother
+Mar 31,home,Lake Land,W,10-1,10,1,9.0,win,20190331_3spl,4,1,1,1,,,0,1,,,,,,,2,1,,,,,5,2019,2018-19,div1,Southeastern Illinois,southeasternillinoiscollege,marcusstrothertjqh,Marcus Strother
+Apr 2,home,Shawnee,W,18-8,18,8,10.0,win,20190402_2dx4,4,2,1,,,,1,1,2,,,,,,1,0,,,,,5,2019,2018-19,div1,Southeastern Illinois,southeasternillinoiscollege,marcusstrothertjqh,Marcus Strother
+Apr 2,home,Shawnee,L,12-7,12,7,5.0,win,20190402_zcys,2,2,1,,,,1,2,,,,,,,1,0,,,,,4,2019,2018-19,div1,Southeastern Illinois,southeasternillinoiscollege,marcusstrothertjqh,Marcus Strother
+Apr 6,home,Olney Central,L,12-5,12,5,7.0,win,20190406_glf1,4,0,1,,,,0,1,1,,,,,,1,0,,,,,5,2019,2018-19,div1,Southeastern Illinois,southeasternillinoiscollege,marcusstrothertjqh,Marcus Strother
+Apr 6,home,Olney Central,L,12-3,12,3,9.0,win,20190406_c003,3,0,1,,,,1,,,,,,,,1,0,,,,,3,2019,2018-19,div1,Southeastern Illinois,southeasternillinoiscollege,marcusstrothertjqh,Marcus Strother
+Apr 11,home,Brescia University,W,11-1,11,1,10.0,win,20190411_28fp,5,2,3,1,,1,3,,1,,,,,,7,2,,,,,5,2019,2018-19,div1,Southeastern Illinois,southeasternillinoiscollege,marcusstrothertjqh,Marcus Strother
+Apr 11,home,Brescia University,W,9-6,9,6,3.0,win,20190411_68xz,2,2,0,,,,2,3,1,,,,,,0,0,,,,,5,2019,2018-19,div1,Southeastern Illinois,southeasternillinoiscollege,marcusstrothertjqh,Marcus Strother
+Apr 16,home,Rend Lake,L,5-2,5,2,3.0,win,20190416_1ssl,4,0,0,,,,0,1,1,,,,,,0,0,,,,,5,2019,2018-19,div1,Southeastern Illinois,southeasternillinoiscollege,marcusstrothertjqh,Marcus Strother
+Apr 17,home,Wabash Valley,L,16-5,16,5,11.0,win,20190417_51xa,4,0,2,,,,0,,1,,,,,,2,0,,,,,4,2019,2018-19,div1,Southeastern Illinois,southeasternillinoiscollege,marcusstrothertjqh,Marcus Strother
+Apr 17,home,Wabash Valley,L,9-0,9,0,9.0,win,20190417_ha25,3,0,0,,,,0,,1,,,,,,0,0,,,,,3,2019,2018-19,div1,Southeastern Illinois,southeasternillinoiscollege,marcusstrothertjqh,Marcus Strother
+Apr 22,home,Wabash Valley,L,13-1,13,1,12.0,win,20190422_7x6d,3,1,0,,,,0,1,3,,,,,,0,0,,,,,4,2019,2018-19,div1,Southeastern Illinois,southeasternillinoiscollege,marcusstrothertjqh,Marcus Strother
+Apr 23,home,Rend Lake,L,16-4,16,4,12.0,win,20190423_gkxb,4,1,4,1,,,0,,,,,,,,5,1,,,,,4,2019,2018-19,div1,Southeastern Illinois,southeasternillinoiscollege,marcusstrothertjqh,Marcus Strother
+Apr 23,home,Rend Lake,L,18-4,18,4,14.0,win,20190423_369r,3,1,1,,,,0,1,1,,,,,,1,0,,,,,4,2019,2018-19,div1,Southeastern Illinois,southeasternillinoiscollege,marcusstrothertjqh,Marcus Strother
+Apr 27,home,John A. Logan,L,24-15,24,15,9.0,win,20190427_9eh2,6,2,2,,,1,3,,,,,,,,5,1,,,,,6,2019,2018-19,div1,Southeastern Illinois,southeasternillinoiscollege,marcusstrothertjqh,Marcus Strother
+Apr 27,home,John A. Logan,L,11-3,11,3,8.0,win,20190427_dgu2,4,0,1,,,,0,,3,,,,,,1,0,,,,,4,2019,2018-19,div1,Southeastern Illinois,southeasternillinoiscollege,marcusstrothertjqh,Marcus Strother
+Apr 28,home,John A. Logan,L,14-4,14,4,10.0,win,20190428_o7id,4,0,1,1,,,1,,,,,,,,2,1,1,,,,4,2019,2018-19,div1,Southeastern Illinois,southeasternillinoiscollege,marcusstrothertjqh,Marcus Strother
+Apr 29,home,Olney Central,W,14-13,14,13,1.0,win,20190429_5zew,4,0,2,1,,,1,1,1,,,,,,3,1,,,,,5,2019,2018-19,div1,Southeastern Illinois,southeasternillinoiscollege,marcusstrothertjqh,Marcus Strother
+May 5,home,Lincoln Trail,L,1-0,1,0,1.0,win,20190505_xq9o,4,0,0,,,,0,,2,,,,,,0,0,,,,,4,2019,2018-19,div1,Southeastern Illinois,southeasternillinoiscollege,marcusstrothertjqh,Marcus Strother
+May 5,home,Lincoln Trail,L,3-2,3,2,1.0,win,20190505_ayz2,3,1,0,,,,0,1,1,,,,,,0,0,,,,,4,2019,2018-19,div1,Southeastern Illinois,southeasternillinoiscollege,marcusstrothertjqh,Marcus Strother
+May 6,home,Lincoln Trail,L,6-5,6,5,1.0,win,20190506_z7el,3,1,1,,,,0,2,1,1,,,,,1,0,,,,,5,2019,2018-19,div1,Southeastern Illinois,southeasternillinoiscollege,marcusstrothertjqh,Marcus Strother

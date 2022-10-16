@@ -1,34 +1,57 @@
-date,location,opponent,result,score,team_score,opp_score,game_score_diff_x,game_win_loss_x,game_id_x,AB,R,H,2B,3B,HR,RBI,BB,K,SB,CS,game_score_diff_y,game_win_loss_y,game_id_y,HBP,SF,SH,TB,XBH,HDP,GO,FO,GO/FO,PA,season,njcaa_season,njcaa_division,team,team_id,player_id,player_name
-Jan 18  #,home,Webber International University,,,,,,,,,,,,,,,,,,,3.0,win,,,,,,,,,,,,2019,2018-19,div1,Polk State,polkstatecollege,reesejackowiakf3ms,Reese Jackowiak
-Jan 21  #,home,Warner University,,,,,,,,,,,,,,,,,,,3.0,win,,,,,,,,,,,,2019,2018-19,div1,Polk State,polkstatecollege,reesejackowiakf3ms,Reese Jackowiak
-Jan 28,home,Eastern Florida State,W,6-2,6,2,4,win,,,,,,,,,,,,,4.0,win,,,,,,,,,,,,2019,2018-19,div1,Polk State,polkstatecollege,reesejackowiakf3ms,Reese Jackowiak
-Jan 29,home,Warner University JV,W,12-5,12,5,7,win,,,,,,,,,,,,,7.0,win,,,,,,,,,,,,2019,2018-19,div1,Polk State,polkstatecollege,reesejackowiakf3ms,Reese Jackowiak
-Jan 30,home,Broward,W,3-1,3,1,2,win,20190130_e2bj,0,0,0,,,,0,,,,,2.0,win,20190130_e2bj,,,,0,0,,,,,0,2019,2018-19,div1,Polk State,polkstatecollege,reesejackowiakf3ms,Reese Jackowiak
-Feb 2,home,Daytona State,L,3-2,3,2,1,win,,,,,,,,,,,,,1.0,win,,,,,,,,,,,,2019,2018-19,div1,Polk State,polkstatecollege,reesejackowiakf3ms,Reese Jackowiak
-Feb 6,home,Seminole State (FL),L,9-4,9,4,5,win,20190206_z67o,0,0,0,,,,0,,,,,5.0,win,20190206_z67o,,,,0,0,,,,,0,2019,2018-19,div1,Polk State,polkstatecollege,reesejackowiakf3ms,Reese Jackowiak
-Feb 12,home,Palm Beach State,W,12-5,12,5,7,win,20190212_losb,0,0,0,,,,0,,,,,7.0,win,20190212_losb,,,,0,0,,,,,0,2019,2018-19,div1,Polk State,polkstatecollege,reesejackowiakf3ms,Reese Jackowiak
-Feb 13,home,St. Johns River State,,,,,7,win,,,,,,,,,,,,,7.0,win,,,,,,,,,,,,2019,2018-19,div1,Polk State,polkstatecollege,reesejackowiakf3ms,Reese Jackowiak
-Feb 19,home,Webber International University B,W,11-6,11,6,5,win,20190219_vj4u,0,0,0,,,,0,,,,,5.0,win,20190219_vj4u,,,,0,0,,,,,0,2019,2018-19,div1,Polk State,polkstatecollege,reesejackowiakf3ms,Reese Jackowiak
-Feb 20,home,Southeastern University B,L,7-4,7,4,3,win,,,,,,,,,,,,,3.0,win,,,,,,,,,,,,2019,2018-19,div1,Polk State,polkstatecollege,reesejackowiakf3ms,Reese Jackowiak
-Feb 22,home,Lake-Sumter State,L,7-4,7,4,3,win,,,,,,,,,,,,,3.0,win,,,,,,,,,,,,2019,2018-19,div1,Polk State,polkstatecollege,reesejackowiakf3ms,Reese Jackowiak
-Feb 23,home,University of Tampa B,W,5-2,5,2,3,win,,,,,,,,,,,,,3.0,win,,,,,,,,,,,,2019,2018-19,div1,Polk State,polkstatecollege,reesejackowiakf3ms,Reese Jackowiak
-Feb 25,home,Santa Fe,L,11-6,11,6,5,win,20190225_dgp3,0,0,0,,,,0,,,,,5.0,win,20190225_dgp3,,,,0,0,,,,,0,2019,2018-19,div1,Polk State,polkstatecollege,reesejackowiakf3ms,Reese Jackowiak
-Feb 27,home,Florida Southern College B,W,14-1,14,1,13,win,20190227_bez1,0,0,0,,,,0,,,,,13.0,win,20190227_bez1,,,,0,0,,,,,0,2019,2018-19,div1,Polk State,polkstatecollege,reesejackowiakf3ms,Reese Jackowiak
-Mar 4,home,St. Petersburg,W,4-3,4,3,1,win,,,,,,,,,,,,,1.0,win,,,,,,,,,,,,2019,2018-19,div1,Polk State,polkstatecollege,reesejackowiakf3ms,Reese Jackowiak
-Mar 8,home,St. Petersburg,L,7-6,7,6,1,win,20190308_3x79,0,0,0,,,,0,,,,,1.0,win,20190308_3x79,,,,0,0,,,,,0,2019,2018-19,div1,Polk State,polkstatecollege,reesejackowiakf3ms,Reese Jackowiak
-Mar 11,home,State College of Florida,L,13-3,13,3,10,win,20190311_kbqo,0,0,0,,,,0,,,,,10.0,win,20190311_kbqo,,,,0,0,,,,,0,2019,2018-19,div1,Polk State,polkstatecollege,reesejackowiakf3ms,Reese Jackowiak
-Mar 15,home,Hillsborough,W,13-3,13,3,10,win,,,,,,,,,,,,,10.0,win,,,,,,,,,,,,2019,2018-19,div1,Polk State,polkstatecollege,reesejackowiakf3ms,Reese Jackowiak
-Mar 16,home,Hillsborough,L,8-5,8,5,3,win,20190316_tbi8,0,0,0,,,,0,,,,,3.0,win,20190316_tbi8,,,,0,0,,,,,0,2019,2018-19,div1,Polk State,polkstatecollege,reesejackowiakf3ms,Reese Jackowiak
-Mar 20,home,South Florida State,W,3-2,3,2,1,win,,,,,,,,,,,,,1.0,win,,,,,,,,,,,,2019,2018-19,div1,Polk State,polkstatecollege,reesejackowiakf3ms,Reese Jackowiak
-Mar 23,home,South Florida State,L,3-1,3,1,2,win,,,,,,,,,,,,,2.0,win,,,,,,,,,,,,2019,2018-19,div1,Polk State,polkstatecollege,reesejackowiakf3ms,Reese Jackowiak
-Mar 27,home,Florida SouthWestern State,W,5-1,5,1,4,win,,,,,,,,,,,,,4.0,win,,,,,,,,,,,,2019,2018-19,div1,Polk State,polkstatecollege,reesejackowiakf3ms,Reese Jackowiak
-Mar 30,home,Elev8 Post Grad Program,W,13-0,13,0,13,win,20190330_o9yk,0,0,0,,,,0,,,,,13.0,win,20190330_o9yk,,,,0,0,,,,,0,2019,2018-19,div1,Polk State,polkstatecollege,reesejackowiakf3ms,Reese Jackowiak
-Apr 1,home,Florida Southern College B,W,13-2,13,2,11,win,,,,,,,,,,,,,11.0,win,,,,,,,,,,,,2019,2018-19,div1,Polk State,polkstatecollege,reesejackowiakf3ms,Reese Jackowiak
-Apr 8,home,St. Petersburg,L,19-5,19,5,14,win,20190408_l92s,0,0,0,,,,0,,,,,14.0,win,20190408_l92s,,,,0,0,,,,,0,2019,2018-19,div1,Polk State,polkstatecollege,reesejackowiakf3ms,Reese Jackowiak
-Apr 12,home,State College of Florida,W,9-8,9,8,1,win,,,,,,,,,,,,,1.0,win,,,,,,,,,,,,2019,2018-19,div1,Polk State,polkstatecollege,reesejackowiakf3ms,Reese Jackowiak
-Apr 15,home,State College of Florida,L,11-2,11,2,9,win,20190415_ierr,0,0,0,,,,0,,,,,9.0,win,20190415_ierr,,,,0,0,,,,,0,2019,2018-19,div1,Polk State,polkstatecollege,reesejackowiakf3ms,Reese Jackowiak
-Apr 19,home,Hillsborough,,,,,2,win,,,,,,,,,,,,,2.0,win,,,,,,,,,,,,2019,2018-19,div1,Polk State,polkstatecollege,reesejackowiakf3ms,Reese Jackowiak
-Apr 24,home,South Florida State,W,13-5,13,5,8,win,,,,,,,,,,,,,8.0,win,,,,,,,,,,,,2019,2018-19,div1,Polk State,polkstatecollege,reesejackowiakf3ms,Reese Jackowiak
-Apr 25,home,Hillsborough,L,11-10,11,10,1,win,20190425_8h8y,0,0,0,,,,0,,,,,1.0,win,20190425_8h8y,,,,0,0,,,,,0,2019,2018-19,div1,Polk State,polkstatecollege,reesejackowiakf3ms,Reese Jackowiak
-Apr 27,home,Florida SouthWestern State,L,7-3,7,3,4,win,,,,,,,,,,,,,4.0,win,,,,,,,,,,,,2019,2018-19,div1,Polk State,polkstatecollege,reesejackowiakf3ms,Reese Jackowiak
-May 1,home,Florida SouthWestern State,L,8-5,8,5,3,win,,,,,,,,,,,,,3.0,win,,,,,,,,,,,,2019,2018-19,div1,Polk State,polkstatecollege,reesejackowiakf3ms,Reese Jackowiak
+date,location,opponent,result,score,team_score,opp_score,game_score_diff,game_win_loss,game_id,AB,R,H,2B,3B,HR,RBI,BB,K,SB,CS,HBP,SF,SH,TB,XBH,HDP,GO,FO,GO/FO,PA,season,njcaa_season,njcaa_division,team,team_id,player_id,player_name
+Jan 25,home,Lake-Sumter State,W,10-2,10,2,8,win,20190125_0xra,0,0,0,,,,0,,,,,,,,0,0,,,,,0,2019,2018-19,div1,Polk State,polkstatecollege,reesejackowiakf3ms,Reese Jackowiak
+Jan 26,home,Broward,,,,,8,win,,,,,,,,,,,,,,,,,,,,,,,2019,2018-19,div1,Polk State,polkstatecollege,reesejackowiakf3ms,Reese Jackowiak
+Jan 28,home,Eastern Florida State,W,6-2,6,2,4,win,,,,,,,,,,,,,,,,,,,,,,,2019,2018-19,div1,Polk State,polkstatecollege,reesejackowiakf3ms,Reese Jackowiak
+Jan 29,home,Warner University JV,W,12-5,12,5,7,win,,,,,,,,,,,,,,,,,,,,,,,2019,2018-19,div1,Polk State,polkstatecollege,reesejackowiakf3ms,Reese Jackowiak
+Jan 30,home,Broward,W,3-1,3,1,2,win,20190130_e2bj,0,0,0,,,,0,,,,,,,,0,0,,,,,0,2019,2018-19,div1,Polk State,polkstatecollege,reesejackowiakf3ms,Reese Jackowiak
+Feb 1,home,Daytona State,W,6-1,6,1,5,win,,,,,,,,,,,,,,,,,,,,,,,2019,2018-19,div1,Polk State,polkstatecollege,reesejackowiakf3ms,Reese Jackowiak
+Feb 2,home,Daytona State,L,3-2,3,2,1,win,,,,,,,,,,,,,,,,,,,,,,,2019,2018-19,div1,Polk State,polkstatecollege,reesejackowiakf3ms,Reese Jackowiak
+Feb 4,home,Seminole State (FL),L,11-1,11,1,10,win,,,,,,,,,,,,,,,,,,,,,,,2019,2018-19,div1,Polk State,polkstatecollege,reesejackowiakf3ms,Reese Jackowiak
+Feb 5,home,St. Johns River State,L,9-5,9,5,4,win,,,,,,,,,,,,,,,,,,,,,,,2019,2018-19,div1,Polk State,polkstatecollege,reesejackowiakf3ms,Reese Jackowiak
+Feb 6,home,Seminole State (FL),L,9-4,9,4,5,win,20190206_z67o,0,0,0,,,,0,,,,,,,,0,0,,,,,0,2019,2018-19,div1,Polk State,polkstatecollege,reesejackowiakf3ms,Reese Jackowiak
+Feb 8,home,Palm Beach State,L,6-5,6,5,1,win,,,,,,,,,,,,,,,,,,,,,,,2019,2018-19,div1,Polk State,polkstatecollege,reesejackowiakf3ms,Reese Jackowiak
+Feb 11,home,Santa Fe,L,13-0,13,0,13,win,,,,,,,,,,,,,,,,,,,,,,,2019,2018-19,div1,Polk State,polkstatecollege,reesejackowiakf3ms,Reese Jackowiak
+Feb 12,home,Palm Beach State,W,12-5,12,5,7,win,20190212_losb,0,0,0,,,,0,,,,,,,,0,0,,,,,0,2019,2018-19,div1,Polk State,polkstatecollege,reesejackowiakf3ms,Reese Jackowiak
+Feb 13,home,St. Johns River State,,,,,7,win,,,,,,,,,,,,,,,,,,,,,,,2019,2018-19,div1,Polk State,polkstatecollege,reesejackowiakf3ms,Reese Jackowiak
+Feb 16,home,Eastern Florida State,L,6-5,6,5,1,win,,,,,,,,,,,,,,,,,,,,,,,2019,2018-19,div1,Polk State,polkstatecollege,reesejackowiakf3ms,Reese Jackowiak
+Feb 19,home,Webber International University B,W,11-6,11,6,5,win,20190219_vj4u,0,0,0,,,,0,,,,,,,,0,0,,,,,0,2019,2018-19,div1,Polk State,polkstatecollege,reesejackowiakf3ms,Reese Jackowiak
+Feb 20,home,Southeastern University B,L,7-4,7,4,3,win,,,,,,,,,,,,,,,,,,,,,,,2019,2018-19,div1,Polk State,polkstatecollege,reesejackowiakf3ms,Reese Jackowiak
+Feb 22,home,Lake-Sumter State,L,7-4,7,4,3,win,,,,,,,,,,,,,,,,,,,,,,,2019,2018-19,div1,Polk State,polkstatecollege,reesejackowiakf3ms,Reese Jackowiak
+Feb 23,home,University of Tampa B,W,5-2,5,2,3,win,,,,,,,,,,,,,,,,,,,,,,,2019,2018-19,div1,Polk State,polkstatecollege,reesejackowiakf3ms,Reese Jackowiak
+Feb 25,home,Santa Fe,L,11-6,11,6,5,win,20190225_dgp3,0,0,0,,,,0,,,,,,,,0,0,,,,,0,2019,2018-19,div1,Polk State,polkstatecollege,reesejackowiakf3ms,Reese Jackowiak
+Feb 27,home,Florida Southern College B,W,14-1,14,1,13,win,20190227_bez1,0,0,0,,,,0,,,,,,,,0,0,,,,,0,2019,2018-19,div1,Polk State,polkstatecollege,reesejackowiakf3ms,Reese Jackowiak
+Feb 28,home,Rollins College,W,10-1,10,1,9,win,20190228_kzhj,0,0,0,,,,0,,,,,,,,0,0,,,,,0,2019,2018-19,div1,Polk State,polkstatecollege,reesejackowiakf3ms,Reese Jackowiak
+Mar 4,home,St. Petersburg,W,4-3,4,3,1,win,,,,,,,,,,,,,,,,,,,,,,,2019,2018-19,div1,Polk State,polkstatecollege,reesejackowiakf3ms,Reese Jackowiak
+Mar 6,home,St. Petersburg,L,7-6,7,6,1,win,20190306_une1,0,0,0,,,,0,,,,,,,,0,0,,,,,0,2019,2018-19,div1,Polk State,polkstatecollege,reesejackowiakf3ms,Reese Jackowiak
+Mar 8,home,St. Petersburg,L,7-6,7,6,1,win,20190308_3x79,0,0,0,,,,0,,,,,,,,0,0,,,,,0,2019,2018-19,div1,Polk State,polkstatecollege,reesejackowiakf3ms,Reese Jackowiak
+Mar 9,home,State College of Florida,L,4-2,4,2,2,win,,,,,,,,,,,,,,,,,,,,,,,2019,2018-19,div1,Polk State,polkstatecollege,reesejackowiakf3ms,Reese Jackowiak
+Mar 11,home,State College of Florida,L,13-3,13,3,10,win,20190311_kbqo,0,0,0,,,,0,,,,,,,,0,0,,,,,0,2019,2018-19,div1,Polk State,polkstatecollege,reesejackowiakf3ms,Reese Jackowiak
+Mar 13,home,State College of Florida,L,10-0,10,0,10,win,,,,,,,,,,,,,,,,,,,,,,,2019,2018-19,div1,Polk State,polkstatecollege,reesejackowiakf3ms,Reese Jackowiak
+Mar 15,home,Hillsborough,W,13-3,13,3,10,win,,,,,,,,,,,,,,,,,,,,,,,2019,2018-19,div1,Polk State,polkstatecollege,reesejackowiakf3ms,Reese Jackowiak
+Mar 16,home,Hillsborough,L,8-5,8,5,3,win,20190316_tbi8,0,0,0,,,,0,,,,,,,,0,0,,,,,0,2019,2018-19,div1,Polk State,polkstatecollege,reesejackowiakf3ms,Reese Jackowiak
+Mar 18,home,Hillsborough,L,4-3,4,3,1,win,,,,,,,,,,,,,,,,,,,,,,,2019,2018-19,div1,Polk State,polkstatecollege,reesejackowiakf3ms,Reese Jackowiak
+Mar 20,home,South Florida State,W,3-2,3,2,1,win,,,,,,,,,,,,,,,,,,,,,,,2019,2018-19,div1,Polk State,polkstatecollege,reesejackowiakf3ms,Reese Jackowiak
+Mar 22,home,South Florida State,W,8-6,8,6,2,win,,,,,,,,,,,,,,,,,,,,,,,2019,2018-19,div1,Polk State,polkstatecollege,reesejackowiakf3ms,Reese Jackowiak
+Mar 23,home,South Florida State,L,3-1,3,1,2,win,,,,,,,,,,,,,,,,,,,,,,,2019,2018-19,div1,Polk State,polkstatecollege,reesejackowiakf3ms,Reese Jackowiak
+Mar 25,home,Florida SouthWestern State,L,5-0,5,0,5,win,20190325_dt8k,0,0,0,,,,0,,,,,,,,0,0,,,,,0,2019,2018-19,div1,Polk State,polkstatecollege,reesejackowiakf3ms,Reese Jackowiak
+Mar 27,home,Florida SouthWestern State,W,5-1,5,1,4,win,,,,,,,,,,,,,,,,,,,,,,,2019,2018-19,div1,Polk State,polkstatecollege,reesejackowiakf3ms,Reese Jackowiak
+Mar 29,home,Florida SouthWestern State,L,8-7,8,7,1,win,,,,,,,,,,,,,,,,,,,,,,,2019,2018-19,div1,Polk State,polkstatecollege,reesejackowiakf3ms,Reese Jackowiak
+Mar 30,home,Elev8 Post Grad Program,W,13-0,13,0,13,win,20190330_o9yk,0,0,0,,,,0,,,,,,,,0,0,,,,,0,2019,2018-19,div1,Polk State,polkstatecollege,reesejackowiakf3ms,Reese Jackowiak
+Apr 1,home,Florida Southern College B,W,13-2,13,2,11,win,,,,,,,,,,,,,,,,,,,,,,,2019,2018-19,div1,Polk State,polkstatecollege,reesejackowiakf3ms,Reese Jackowiak
+Apr 2,home,University of Tampa B,W,8-4,8,4,4,win,,,,,,,,,,,,,,,,,,,,,,,2019,2018-19,div1,Polk State,polkstatecollege,reesejackowiakf3ms,Reese Jackowiak
+Apr 6,home,St. Petersburg,W,4-2,4,2,2,win,,,,,,,,,,,,,,,,,,,,,,,2019,2018-19,div1,Polk State,polkstatecollege,reesejackowiakf3ms,Reese Jackowiak
+Apr 8,home,St. Petersburg,L,19-5,19,5,14,win,20190408_l92s,0,0,0,,,,0,,,,,,,,0,0,,,,,0,2019,2018-19,div1,Polk State,polkstatecollege,reesejackowiakf3ms,Reese Jackowiak
+Apr 10,home,St. Petersburg,W,10-6,10,6,4,win,,,,,,,,,,,,,,,,,,,,,,,2019,2018-19,div1,Polk State,polkstatecollege,reesejackowiakf3ms,Reese Jackowiak
+Apr 12,home,State College of Florida,W,9-8,9,8,1,win,,,,,,,,,,,,,,,,,,,,,,,2019,2018-19,div1,Polk State,polkstatecollege,reesejackowiakf3ms,Reese Jackowiak
+Apr 13,home,State College of Florida,W,11-10,11,10,1,win,20190413_63wd,0,0,0,,,,0,,,,,,,,0,0,,,,,0,2019,2018-19,div1,Polk State,polkstatecollege,reesejackowiakf3ms,Reese Jackowiak
+Apr 15,home,State College of Florida,L,11-2,11,2,9,win,20190415_ierr,0,0,0,,,,0,,,,,,,,0,0,,,,,0,2019,2018-19,div1,Polk State,polkstatecollege,reesejackowiakf3ms,Reese Jackowiak
+Apr 17,home,Hillsborough,W,6-4,6,4,2,win,,,,,,,,,,,,,,,,,,,,,,,2019,2018-19,div1,Polk State,polkstatecollege,reesejackowiakf3ms,Reese Jackowiak
+Apr 19,home,Hillsborough,,,,,2,win,,,,,,,,,,,,,,,,,,,,,,,2019,2018-19,div1,Polk State,polkstatecollege,reesejackowiakf3ms,Reese Jackowiak
+Apr 20,home,Hillsborough,L,6-5,6,5,1,win,,,,,,,,,,,,,,,,,,,,,,,2019,2018-19,div1,Polk State,polkstatecollege,reesejackowiakf3ms,Reese Jackowiak
+Apr 22,home,South Florida State,L,5-4,5,4,1,win,,,,,,,,,,,,,,,,,,,,,,,2019,2018-19,div1,Polk State,polkstatecollege,reesejackowiakf3ms,Reese Jackowiak
+Apr 24,home,South Florida State,W,13-5,13,5,8,win,,,,,,,,,,,,,,,,,,,,,,,2019,2018-19,div1,Polk State,polkstatecollege,reesejackowiakf3ms,Reese Jackowiak
+Apr 25,home,Hillsborough,L,11-10,11,10,1,win,20190425_8h8y,0,0,0,,,,0,,,,,,,,0,0,,,,,0,2019,2018-19,div1,Polk State,polkstatecollege,reesejackowiakf3ms,Reese Jackowiak
+Apr 26,home,South Florida State,L,13-3,13,3,10,win,,,,,,,,,,,,,,,,,,,,,,,2019,2018-19,div1,Polk State,polkstatecollege,reesejackowiakf3ms,Reese Jackowiak
+Apr 27,home,Florida SouthWestern State,L,7-3,7,3,4,win,,,,,,,,,,,,,,,,,,,,,,,2019,2018-19,div1,Polk State,polkstatecollege,reesejackowiakf3ms,Reese Jackowiak
+Apr 29,home,Florida SouthWestern State,L,10-3,10,3,7,win,,,,,,,,,,,,,,,,,,,,,,,2019,2018-19,div1,Polk State,polkstatecollege,reesejackowiakf3ms,Reese Jackowiak
+May 1,home,Florida SouthWestern State,L,8-5,8,5,3,win,,,,,,,,,,,,,,,,,,,,,,,2019,2018-19,div1,Polk State,polkstatecollege,reesejackowiakf3ms,Reese Jackowiak

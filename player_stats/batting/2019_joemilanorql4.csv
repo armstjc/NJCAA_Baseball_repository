@@ -1,21 +1,55 @@
-date,location,opponent,result,score,team_score,opp_score,game_score_diff_x,game_win_loss_x,game_id_x,AB,R,H,2B,3B,HR,RBI,BB,K,SB,CS,game_score_diff_y,game_win_loss_y,game_id_y,HBP,SF,SH,TB,XBH,HDP,GO,FO,GO/FO,PA,season,njcaa_season,njcaa_division,team,team_id,player_id,player_name
-Mar 16,home,Garden City,W,9-4,9,4,5.0,win,20190316_t2p3,0,0,0,,,,0,,,,,5.0,win,20190316_t2p3,,,,0,0,,,,,0,2019,2018-19,div1,Dodge City,dodgecitycommunitycollege,joemilanorql4,Joe Milano
-Mar 16,home,Garden City,L,12-2,12,2,10.0,win,,,,,,,,,,,,,10.0,win,,,,,,,,,,,,2019,2018-19,div1,Dodge City,dodgecitycommunitycollege,joemilanorql4,Joe Milano
-Mar 21,home,Hutchinson,W,5-4,5,4,1.0,win,20190321_6vm6,0,0,0,,,,0,,,,,1.0,win,20190321_6vm6,,,,0,0,,,,,0,2019,2018-19,div1,Dodge City,dodgecitycommunitycollege,joemilanorql4,Joe Milano
-Mar 21,home,Hutchinson,L,12-3,12,3,9.0,win,,,,,,,,,,,,,9.0,win,,,,,,,,,,,,2019,2018-19,div1,Dodge City,dodgecitycommunitycollege,joemilanorql4,Joe Milano
-Mar 25,home,Tabor College JV,W,7-1,7,1,6.0,win,,,,,,,,,,,,,6.0,win,,,,,,,,,,,,2019,2018-19,div1,Dodge City,dodgecitycommunitycollege,joemilanorql4,Joe Milano
-Mar 25,home,Tabor College JV,W,6-0,6,0,6.0,win,20190325_6bmf,0,0,0,,,,0,,,,,6.0,win,20190325_6bmf,,,,0,0,,,,,0,2019,2018-19,div1,Dodge City,dodgecitycommunitycollege,joemilanorql4,Joe Milano
-Mar 31,home,Pratt,L,4-3,4,3,1.0,win,,,,,,,,,,,,,1.0,win,,,,,,,,,,,,2019,2018-19,div1,Dodge City,dodgecitycommunitycollege,joemilanorql4,Joe Milano
-Mar 31,home,Pratt,W,6-5,6,5,1.0,win,20190331_eh5l,0,0,0,,,,0,,,,,1.0,win,20190331_eh5l,,,,0,0,,,,,0,2019,2018-19,div1,Dodge City,dodgecitycommunitycollege,joemilanorql4,Joe Milano
-Apr 4,home,Seward County,L,4-3,4,3,1.0,win,20190404_29tw,0,0,0,,,,0,,,,,1.0,win,20190404_29tw,,,,0,0,,,,,0,2019,2018-19,div1,Dodge City,dodgecitycommunitycollege,joemilanorql4,Joe Milano
-Apr 4,home,Seward County,L,6-4,6,4,2.0,win,,,,,,,,,,,,,2.0,win,,,,,,,,,,,,2019,2018-19,div1,Dodge City,dodgecitycommunitycollege,joemilanorql4,Joe Milano
-Apr 8,home,Otero,W,9-1,9,1,8.0,win,,,,,,,,,,,,,8.0,win,,,,,,,,,,,,2019,2018-19,div1,Dodge City,dodgecitycommunitycollege,joemilanorql4,Joe Milano
-Apr 8,home,Otero,W,6-4,6,4,2.0,win,,,,,,,,,,,,,2.0,win,,,,,,,,,,,,2019,2018-19,div1,Dodge City,dodgecitycommunitycollege,joemilanorql4,Joe Milano
-Apr 12,home,Colby,L,4-0,4,0,4.0,win,,,,,,,,,,,,,4.0,win,,,,,,,,,,,,2019,2018-19,div1,Dodge City,dodgecitycommunitycollege,joemilanorql4,Joe Milano
-Apr 12,home,Colby,L,17-5,17,5,12.0,win,,,,,,,,,,,,,12.0,win,,,,,,,,,,,,2019,2018-19,div1,Dodge City,dodgecitycommunitycollege,joemilanorql4,Joe Milano
-Apr 19,home,Cloud County,L,10-6,10,6,4.0,win,20190419_iyl3,0,0,0,,,,0,,,,,4.0,win,20190419_iyl3,,,,0,0,,,,,0,2019,2018-19,div1,Dodge City,dodgecitycommunitycollege,joemilanorql4,Joe Milano
-Apr 19,home,Cloud County,W,8-3,8,3,5.0,win,,,,,,,,,,,,,5.0,win,,,,,,,,,,,,2019,2018-19,div1,Dodge City,dodgecitycommunitycollege,joemilanorql4,Joe Milano
-Apr 27,home,Butler,L,10-1,10,1,9.0,win,,,,,,,,,,,,,9.0,win,,,,,,,,,,,,2019,2018-19,div1,Dodge City,dodgecitycommunitycollege,joemilanorql4,Joe Milano
-Apr 27,home,Butler,L,7-6,7,6,1.0,win,20190427_d1sa,0,0,0,,,,0,,,,,1.0,win,20190427_d1sa,,,,0,0,,,,,0,2019,2018-19,div1,Dodge City,dodgecitycommunitycollege,joemilanorql4,Joe Milano
-May 2,home,Barton,L,5-4,5,4,1.0,win,20190502_ex47,0,0,0,,,,0,,,,,1.0,win,20190502_ex47,,,,0,0,,,,,0,2019,2018-19,div1,Dodge City,dodgecitycommunitycollege,joemilanorql4,Joe Milano
-May 2,home,Barton,W,2-0,2,0,2.0,win,,,,,,,,,,,,,2.0,win,,,,,,,,,,,,2019,2018-19,div1,Dodge City,dodgecitycommunitycollege,joemilanorql4,Joe Milano
+date,location,opponent,result,score,team_score,opp_score,game_score_diff,game_win_loss,game_id,AB,R,H,2B,3B,HR,RBI,BB,K,SB,CS,HBP,SF,SH,TB,XBH,HDP,GO,FO,GO/FO,PA,season,njcaa_season,njcaa_division,team,team_id,player_id,player_name
+Feb 15,home,Frank Phillips,L,8-2,8,2,6.0,win,20190215_9vin,0,0,0,,,,0,,,,,,,,0,0,,,,,0,2019,2018-19,div1,Dodge City,dodgecitycommunitycollege,joemilanorql4,Joe Milano
+Feb 16,home,Frank Phillips,L,5-4,5,4,1.0,win,,,,,,,,,,,,,,,,,,,,,,,2019,2018-19,div1,Dodge City,dodgecitycommunitycollege,joemilanorql4,Joe Milano
+Feb 16,home,Frank Phillips,W,8-7,8,7,1.0,win,,,,,,,,,,,,,,,,,,,,,,,2019,2018-19,div1,Dodge City,dodgecitycommunitycollege,joemilanorql4,Joe Milano
+Feb 22,home,Eastern New Mexico University JV,W,11-5,11,5,6.0,win,,,,,,,,,,,,,,,,,,,,,,,2019,2018-19,div1,Dodge City,dodgecitycommunitycollege,joemilanorql4,Joe Milano
+Feb 23,home,Luna,W,18-3,18,3,15.0,win,,,,,,,,,,,,,,,,,,,,,,,2019,2018-19,div1,Dodge City,dodgecitycommunitycollege,joemilanorql4,Joe Milano
+Feb 24,home,Luna,W,6-1,6,1,5.0,win,,,,,,,,,,,,,,,,,,,,,,,2019,2018-19,div1,Dodge City,dodgecitycommunitycollege,joemilanorql4,Joe Milano
+Feb 24,home,Luna,W,17-7,17,7,10.0,win,,,,,,,,,,,,,,,,,,,,,,,2019,2018-19,div1,Dodge City,dodgecitycommunitycollege,joemilanorql4,Joe Milano
+Feb 25,home,Oklahoma Panhandle State JV,W,28-4,28,4,24.0,win,,,,,,,,,,,,,,,,,,,,,,,2019,2018-19,div1,Dodge City,dodgecitycommunitycollege,joemilanorql4,Joe Milano
+Feb 25,home,Dakota,W,14-3,14,3,11.0,win,20190225_ocxv,0,0,0,,,,0,,,,,,,,0,0,,,,,0,2019,2018-19,div1,Dodge City,dodgecitycommunitycollege,joemilanorql4,Joe Milano
+Mar 7,home,Redlands,W,6-0,6,0,6.0,win,,,,,,,,,,,,,,,,,,,,,,,2019,2018-19,div1,Dodge City,dodgecitycommunitycollege,joemilanorql4,Joe Milano
+Mar 7,home,Redlands,L,6-4,6,4,2.0,win,,,,,,,,,,,,,,,,,,,,,,,2019,2018-19,div1,Dodge City,dodgecitycommunitycollege,joemilanorql4,Joe Milano
+Mar 16,home,Garden City,W,9-4,9,4,5.0,win,20190316_t2p3,0,0,0,,,,0,,,,,,,,0,0,,,,,0,2019,2018-19,div1,Dodge City,dodgecitycommunitycollege,joemilanorql4,Joe Milano
+Mar 16,home,Garden City,L,12-2,12,2,10.0,win,,,,,,,,,,,,,,,,,,,,,,,2019,2018-19,div1,Dodge City,dodgecitycommunitycollege,joemilanorql4,Joe Milano
+Mar 17,home,Garden City,L,11-10,11,10,1.0,win,,,,,,,,,,,,,,,,,,,,,,,2019,2018-19,div1,Dodge City,dodgecitycommunitycollege,joemilanorql4,Joe Milano
+Mar 17,home,Garden City,L,16-6,16,6,10.0,win,,,,,,,,,,,,,,,,,,,,,,,2019,2018-19,div1,Dodge City,dodgecitycommunitycollege,joemilanorql4,Joe Milano
+Mar 18,home,Northwestern Oklahoma State University JV,W,6-3,6,3,3.0,win,20190318_irgs,0,0,0,,,,0,,,,,,,,0,0,,,,,0,2019,2018-19,div1,Dodge City,dodgecitycommunitycollege,joemilanorql4,Joe Milano
+Mar 18,home,Northwest Oklahoma State University JV,W,9-0,9,0,9.0,win,,,,,,,,,,,,,,,,,,,,,,,2019,2018-19,div1,Dodge City,dodgecitycommunitycollege,joemilanorql4,Joe Milano
+Mar 21,home,Hutchinson,W,5-4,5,4,1.0,win,20190321_6vm6,0,0,0,,,,0,,,,,,,,0,0,,,,,0,2019,2018-19,div1,Dodge City,dodgecitycommunitycollege,joemilanorql4,Joe Milano
+Mar 21,home,Hutchinson,L,12-3,12,3,9.0,win,,,,,,,,,,,,,,,,,,,,,,,2019,2018-19,div1,Dodge City,dodgecitycommunitycollege,joemilanorql4,Joe Milano
+Mar 22,home,Hutchinson,L,8-3,8,3,5.0,win,,,,,,,,,,,,,,,,,,,,,,,2019,2018-19,div1,Dodge City,dodgecitycommunitycollege,joemilanorql4,Joe Milano
+Mar 22,home,Hutchinson,W,12-9,12,9,3.0,win,20190322_ggfw,0,0,0,,,,0,,,,,,,,0,0,,,,,0,2019,2018-19,div1,Dodge City,dodgecitycommunitycollege,joemilanorql4,Joe Milano
+Mar 25,home,Tabor College JV,W,7-1,7,1,6.0,win,,,,,,,,,,,,,,,,,,,,,,,2019,2018-19,div1,Dodge City,dodgecitycommunitycollege,joemilanorql4,Joe Milano
+Mar 25,home,Tabor College JV,W,6-0,6,0,6.0,win,20190325_6bmf,0,0,0,,,,0,,,,,,,,0,0,,,,,0,2019,2018-19,div1,Dodge City,dodgecitycommunitycollege,joemilanorql4,Joe Milano
+Mar 28,home,Pratt,L,5-4,5,4,1.0,win,,,,,,,,,,,,,,,,,,,,,,,2019,2018-19,div1,Dodge City,dodgecitycommunitycollege,joemilanorql4,Joe Milano
+Mar 28,home,Pratt,L,14-4,14,4,10.0,win,,,,,,,,,,,,,,,,,,,,,,,2019,2018-19,div1,Dodge City,dodgecitycommunitycollege,joemilanorql4,Joe Milano
+Mar 31,home,Pratt,L,4-3,4,3,1.0,win,,,,,,,,,,,,,,,,,,,,,,,2019,2018-19,div1,Dodge City,dodgecitycommunitycollege,joemilanorql4,Joe Milano
+Mar 31,home,Pratt,W,6-5,6,5,1.0,win,20190331_eh5l,0,0,0,,,,0,,,,,,,,0,0,,,,,0,2019,2018-19,div1,Dodge City,dodgecitycommunitycollege,joemilanorql4,Joe Milano
+Apr 2,home,Lamar,W,10-5,10,5,5.0,win,,,,,,,,,,,,,,,,,,,,,,,2019,2018-19,div1,Dodge City,dodgecitycommunitycollege,joemilanorql4,Joe Milano
+Apr 4,home,Seward County,L,4-3,4,3,1.0,win,20190404_29tw,0,0,0,,,,0,,,,,,,,0,0,,,,,0,2019,2018-19,div1,Dodge City,dodgecitycommunitycollege,joemilanorql4,Joe Milano
+Apr 4,home,Seward County,L,6-4,6,4,2.0,win,,,,,,,,,,,,,,,,,,,,,,,2019,2018-19,div1,Dodge City,dodgecitycommunitycollege,joemilanorql4,Joe Milano
+Apr 6,home,Seward County,L,15-5,15,5,10.0,win,,,,,,,,,,,,,,,,,,,,,,,2019,2018-19,div1,Dodge City,dodgecitycommunitycollege,joemilanorql4,Joe Milano
+Apr 6,home,Seward County,L,10-7,10,7,3.0,win,20190406_zt3f,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0,,,0,2019,2018-19,div1,Dodge City,dodgecitycommunitycollege,joemilanorql4,Joe Milano
+Apr 8,home,Otero,W,9-1,9,1,8.0,win,,,,,,,,,,,,,,,,,,,,,,,2019,2018-19,div1,Dodge City,dodgecitycommunitycollege,joemilanorql4,Joe Milano
+Apr 8,home,Otero,W,6-4,6,4,2.0,win,,,,,,,,,,,,,,,,,,,,,,,2019,2018-19,div1,Dodge City,dodgecitycommunitycollege,joemilanorql4,Joe Milano
+Apr 12,home,Colby,L,4-0,4,0,4.0,win,,,,,,,,,,,,,,,,,,,,,,,2019,2018-19,div1,Dodge City,dodgecitycommunitycollege,joemilanorql4,Joe Milano
+Apr 12,home,Colby,L,17-5,17,5,12.0,win,,,,,,,,,,,,,,,,,,,,,,,2019,2018-19,div1,Dodge City,dodgecitycommunitycollege,joemilanorql4,Joe Milano
+Apr 14,home,Colby,L,9-5,9,5,4.0,win,,,,,,,,,,,,,,,,,,,,,,,2019,2018-19,div1,Dodge City,dodgecitycommunitycollege,joemilanorql4,Joe Milano
+Apr 14,home,Colby,L,6-1,6,1,5.0,win,20190414_g9mr,0,0,0,,,,0,,,,,,,,0,0,,,,,0,2019,2018-19,div1,Dodge City,dodgecitycommunitycollege,joemilanorql4,Joe Milano
+Apr 16,home,Otero,L,13-3,13,3,10.0,win,,,,,,,,,,,,,,,,,,,,,,,2019,2018-19,div1,Dodge City,dodgecitycommunitycollege,joemilanorql4,Joe Milano
+Apr 16,home,Otero,W,11-0,11,0,11.0,win,,,,,,,,,,,,,,,,,,,,,,,2019,2018-19,div1,Dodge City,dodgecitycommunitycollege,joemilanorql4,Joe Milano
+Apr 19,home,Cloud County,L,10-6,10,6,4.0,win,20190419_iyl3,0,0,0,,,,0,,,,,,,,0,0,,,,,0,2019,2018-19,div1,Dodge City,dodgecitycommunitycollege,joemilanorql4,Joe Milano
+Apr 19,home,Cloud County,W,8-3,8,3,5.0,win,,,,,,,,,,,,,,,,,,,,,,,2019,2018-19,div1,Dodge City,dodgecitycommunitycollege,joemilanorql4,Joe Milano
+Apr 20,home,Cloud County,L,12-2,12,2,10.0,win,,,,,,,,,,,,,,,,,,,,,,,2019,2018-19,div1,Dodge City,dodgecitycommunitycollege,joemilanorql4,Joe Milano
+Apr 20,home,Cloud County,W,5-2,5,2,3.0,win,20190420_oyso,0,0,0,,,,0,,,,,,,,0,0,,,,,0,2019,2018-19,div1,Dodge City,dodgecitycommunitycollege,joemilanorql4,Joe Milano
+Apr 22,home,Tabor JV,W,11-0,11,0,11.0,win,,,,,,,,,,,,,,,,,,,,,,,2019,2018-19,div1,Dodge City,dodgecitycommunitycollege,joemilanorql4,Joe Milano
+Apr 22,home,Tabor JV,W,12-1,12,1,11.0,win,,,,,,,,,,,,,,,,,,,,,,,2019,2018-19,div1,Dodge City,dodgecitycommunitycollege,joemilanorql4,Joe Milano
+Apr 26,home,Butler,L,11-1,11,1,10.0,win,,,,,,,,,,,,,,,,,,,,,,,2019,2018-19,div1,Dodge City,dodgecitycommunitycollege,joemilanorql4,Joe Milano
+Apr 26,home,Butler,L,9-8,9,8,1.0,win,,,,,,,,,,,,,,,,,,,,,,,2019,2018-19,div1,Dodge City,dodgecitycommunitycollege,joemilanorql4,Joe Milano
+Apr 27,home,Butler,L,10-1,10,1,9.0,win,,,,,,,,,,,,,,,,,,,,,,,2019,2018-19,div1,Dodge City,dodgecitycommunitycollege,joemilanorql4,Joe Milano
+Apr 27,home,Butler,L,7-6,7,6,1.0,win,20190427_d1sa,0,0,0,,,,0,,,,,,,,0,0,,,,,0,2019,2018-19,div1,Dodge City,dodgecitycommunitycollege,joemilanorql4,Joe Milano
+May 2,home,Barton,L,5-4,5,4,1.0,win,20190502_ex47,0,0,0,,,,0,,,,,,,,0,0,,,,,0,2019,2018-19,div1,Dodge City,dodgecitycommunitycollege,joemilanorql4,Joe Milano
+May 2,home,Barton,W,2-0,2,0,2.0,win,,,,,,,,,,,,,,,,,,,,,,,2019,2018-19,div1,Dodge City,dodgecitycommunitycollege,joemilanorql4,Joe Milano
+May 4,home,Barton,L,5-2,5,2,3.0,win,,,,,,,,,,,,,,,,,,,,,,,2019,2018-19,div1,Dodge City,dodgecitycommunitycollege,joemilanorql4,Joe Milano
+May 4,home,Barton,W,4-1,4,1,3.0,win,20190504_s1ux,0,0,0,,,,0,,,,,,,,0,0,,,,,0,2019,2018-19,div1,Dodge City,dodgecitycommunitycollege,joemilanorql4,Joe Milano

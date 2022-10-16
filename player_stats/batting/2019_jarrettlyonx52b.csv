@@ -1,22 +1,59 @@
-date,location,opponent,result,score,team_score,opp_score,game_score_diff_x,game_win_loss_x,game_id_x,AB,R,H,2B,3B,HR,RBI,BB,K,SB,CS,game_score_diff_y,game_win_loss_y,game_id_y,HBP,SF,SH,TB,XBH,HDP,GO,FO,GO/FO,PA,season,njcaa_season,njcaa_division,team,team_id,player_id,player_name
-Feb 13,home,Cloud County,W,11-10,11,10,1.0,win,,,,,,,,,,,,,1.0,win,,,,,,,,,,,,2019,2018-19,div1,Fort Scott,fortscottcommunitycollege,jarrettlyonx52b,Jarrett Lyon
-Feb 13,home,Cloud County,L,15-4,15,4,11.0,win,,,,,,,,,,,,,11.0,win,,,,,,,,,,,,2019,2018-19,div1,Fort Scott,fortscottcommunitycollege,jarrettlyonx52b,Jarrett Lyon
-Feb 22,home,North Arkansas,W,19-3,19,3,16.0,win,,,,,,,,,,,,,16.0,win,,,,,,,,,,,,2019,2018-19,div1,Fort Scott,fortscottcommunitycollege,jarrettlyonx52b,Jarrett Lyon
-Mar 8,home,Highland (KS),W,8-1,8,1,7.0,win,,,,,,,,,,,,,7.0,win,,,,,,,,,,,,2019,2018-19,div1,Fort Scott,fortscottcommunitycollege,jarrettlyonx52b,Jarrett Lyon
-Mar 8,home,Highland (KS),W,8-0,8,0,8.0,win,,,,,,,,,,,,,8.0,win,,,,,,,,,,,,2019,2018-19,div1,Fort Scott,fortscottcommunitycollege,jarrettlyonx52b,Jarrett Lyon
-Mar 11,home,Baker,W,10-0,10,0,10.0,win,,,,,,,,,,,,,10.0,win,,,,,,,,,,,,2019,2018-19,div1,Fort Scott,fortscottcommunitycollege,jarrettlyonx52b,Jarrett Lyon
-Mar 11,home,Baker,W,14-0,14,0,14.0,win,,,,,,,,,,,,,14.0,win,,,,,,,,,,,,2019,2018-19,div1,Fort Scott,fortscottcommunitycollege,jarrettlyonx52b,Jarrett Lyon
-Mar 16,home,Allen County,W,4-2,4,2,2.0,win,,,,,,,,,,,,,2.0,win,,,,,,,,,,,,2019,2018-19,div1,Fort Scott,fortscottcommunitycollege,jarrettlyonx52b,Jarrett Lyon
-Mar 16,home,Allen County,W,5-4,5,4,1.0,win,,,,,,,,,,,,,1.0,win,,,,,,,,,,,,2019,2018-19,div1,Fort Scott,fortscottcommunitycollege,jarrettlyonx52b,Jarrett Lyon
-Mar 21,home,Neosho County,L,6-1,6,1,5.0,win,,,,,,,,,,,,,5.0,win,,,,,,,,,,,,2019,2018-19,div1,Fort Scott,fortscottcommunitycollege,jarrettlyonx52b,Jarrett Lyon
-Mar 21,home,Neosho County,W,8-5,8,5,3.0,win,,,,,,,,,,,,,3.0,win,,,,,,,,,,,,2019,2018-19,div1,Fort Scott,fortscottcommunitycollege,jarrettlyonx52b,Jarrett Lyon
-Mar 27,home,Kansas City Kansas,W,5-4,5,4,1.0,win,,,,,,,,,,,,,1.0,win,,,,,,,,,,,,2019,2018-19,div1,Fort Scott,fortscottcommunitycollege,jarrettlyonx52b,Jarrett Lyon
-Mar 27,home,Kansas City Kansas,L,5-0,5,0,5.0,win,,,,,,,,,,,,,5.0,win,,,,,,,,,,,,2019,2018-19,div1,Fort Scott,fortscottcommunitycollege,jarrettlyonx52b,Jarrett Lyon
-Apr 6,home,Johnson County,W,7-2,7,2,5.0,win,,,,,,,,,,,,,5.0,win,,,,,,,,,,,,2019,2018-19,div1,Fort Scott,fortscottcommunitycollege,jarrettlyonx52b,Jarrett Lyon
-Apr 6,home,Johnson County,L,17-6,17,6,11.0,win,,,,,,,,,,,,,11.0,win,,,,,,,,,,,,2019,2018-19,div1,Fort Scott,fortscottcommunitycollege,jarrettlyonx52b,Jarrett Lyon
-Apr 12,home,Cowley,L,17-0,17,0,17.0,win,20190412_9x14,0,0,0,,,,0,,,,,17.0,win,20190412_9x14,,,,0,0,,,,,0,2019,2018-19,div1,Fort Scott,fortscottcommunitycollege,jarrettlyonx52b,Jarrett Lyon
-Apr 12,home,Cowley,L,16-3,16,3,13.0,win,,,,,,,,,,,,,13.0,win,,,,,,,,,,,,2019,2018-19,div1,Fort Scott,fortscottcommunitycollege,jarrettlyonx52b,Jarrett Lyon
-Apr 19,home,Coffeyville,L,18-1,18,1,17.0,win,,,,,,,,,,,,,17.0,win,,,,,,,,,,,,2019,2018-19,div1,Fort Scott,fortscottcommunitycollege,jarrettlyonx52b,Jarrett Lyon
-Apr 19,home,Coffeyville,W,13-12,13,12,1.0,win,,,,,,,,,,,,,1.0,win,,,,,,,,,,,,2019,2018-19,div1,Fort Scott,fortscottcommunitycollege,jarrettlyonx52b,Jarrett Lyon
-Apr 24,home,Baker,W,11-2,11,2,9.0,win,,,,,,,,,,,,,9.0,win,,,,,,,,,,,,2019,2018-19,div1,Fort Scott,fortscottcommunitycollege,jarrettlyonx52b,Jarrett Lyon
-Apr 24,home,Baker,W,16-6,16,6,10.0,win,,,,,,,,,,,,,10.0,win,,,,,,,,,,,,2019,2018-19,div1,Fort Scott,fortscottcommunitycollege,jarrettlyonx52b,Jarrett Lyon
+date,location,opponent,result,score,team_score,opp_score,game_score_diff,game_win_loss,game_id,AB,R,H,2B,3B,HR,RBI,BB,K,SB,CS,HBP,SF,SH,TB,XBH,HDP,GO,FO,GO/FO,PA,season,njcaa_season,njcaa_division,team,team_id,player_id,player_name
+Feb 13,home,Cloud County,W,11-10,11,10,1.0,win,,,,,,,,,,,,,,,,,,,,,,,2019,2018-19,div1,Fort Scott,fortscottcommunitycollege,jarrettlyonx52b,Jarrett Lyon
+Feb 13,home,Cloud County,L,15-4,15,4,11.0,win,,,,,,,,,,,,,,,,,,,,,,,2019,2018-19,div1,Fort Scott,fortscottcommunitycollege,jarrettlyonx52b,Jarrett Lyon
+Feb 14,home,Evangel University,W,15-5,15,5,10.0,win,,,,,,,,,,,,,,,,,,,,,,,2019,2018-19,div1,Fort Scott,fortscottcommunitycollege,jarrettlyonx52b,Jarrett Lyon
+Feb 14,home,Evangel University,W,20-0,20,0,20.0,win,,,,,,,,,,,,,,,,,,,,,,,2019,2018-19,div1,Fort Scott,fortscottcommunitycollege,jarrettlyonx52b,Jarrett Lyon
+Feb 22,home,North Arkansas,W,6-1,6,1,5.0,win,,,,,,,,,,,,,,,,,,,,,,,2019,2018-19,div1,Fort Scott,fortscottcommunitycollege,jarrettlyonx52b,Jarrett Lyon
+Feb 22,home,North Arkansas,W,19-3,19,3,16.0,win,,,,,,,,,,,,,,,,,,,,,,,2019,2018-19,div1,Fort Scott,fortscottcommunitycollege,jarrettlyonx52b,Jarrett Lyon
+Feb 24,home,North Arkansas,W,13-4,13,4,9.0,win,,,,,,,,,,,,,,,,,,,,,,,2019,2018-19,div1,Fort Scott,fortscottcommunitycollege,jarrettlyonx52b,Jarrett Lyon
+Feb 24,home,North Arkansas,W,7-4,7,4,3.0,win,,,,,,,,,,,,,,,,,,,,,,,2019,2018-19,div1,Fort Scott,fortscottcommunitycollege,jarrettlyonx52b,Jarrett Lyon
+Feb 25,home,Evangel University,W,12-4,12,4,8.0,win,20190225_h1kq,0,0,0,,,,0,,,,,,,,0,0,,,,,0,2019,2018-19,div1,Fort Scott,fortscottcommunitycollege,jarrettlyonx52b,Jarrett Lyon
+Feb 25,home,Evangel University,W,10-6,10,6,4.0,win,,,,,,,,,,,,,,,,,,,,,,,2019,2018-19,div1,Fort Scott,fortscottcommunitycollege,jarrettlyonx52b,Jarrett Lyon
+Mar 7,home,Highland (KS),W,13-7,13,7,6.0,win,,,,,,,,,,,,,,,,,,,,,,,2019,2018-19,div1,Fort Scott,fortscottcommunitycollege,jarrettlyonx52b,Jarrett Lyon
+Mar 7,home,Highland (KS),W,15-7,15,7,8.0,win,,,,,,,,,,,,,,,,,,,,,,,2019,2018-19,div1,Fort Scott,fortscottcommunitycollege,jarrettlyonx52b,Jarrett Lyon
+Mar 8,home,Highland (KS),W,8-1,8,1,7.0,win,,,,,,,,,,,,,,,,,,,,,,,2019,2018-19,div1,Fort Scott,fortscottcommunitycollege,jarrettlyonx52b,Jarrett Lyon
+Mar 8,home,Highland (KS),W,8-0,8,0,8.0,win,,,,,,,,,,,,,,,,,,,,,,,2019,2018-19,div1,Fort Scott,fortscottcommunitycollege,jarrettlyonx52b,Jarrett Lyon
+Mar 11,home,Baker,W,10-0,10,0,10.0,win,,,,,,,,,,,,,,,,,,,,,,,2019,2018-19,div1,Fort Scott,fortscottcommunitycollege,jarrettlyonx52b,Jarrett Lyon
+Mar 11,home,Baker,W,14-0,14,0,14.0,win,,,,,,,,,,,,,,,,,,,,,,,2019,2018-19,div1,Fort Scott,fortscottcommunitycollege,jarrettlyonx52b,Jarrett Lyon
+Mar 16,home,Allen County,W,4-2,4,2,2.0,win,,,,,,,,,,,,,,,,,,,,,,,2019,2018-19,div1,Fort Scott,fortscottcommunitycollege,jarrettlyonx52b,Jarrett Lyon
+Mar 16,home,Allen County,W,5-4,5,4,1.0,win,,,,,,,,,,,,,,,,,,,,,,,2019,2018-19,div1,Fort Scott,fortscottcommunitycollege,jarrettlyonx52b,Jarrett Lyon
+Mar 17,home,Allen County,L,9-0,9,0,9.0,win,,,,,,,,,,,,,,,,,,,,,,,2019,2018-19,div1,Fort Scott,fortscottcommunitycollege,jarrettlyonx52b,Jarrett Lyon
+Mar 17,home,Allen County,L,5-3,5,3,2.0,win,,,,,,,,,,,,,,,,,,,,,,,2019,2018-19,div1,Fort Scott,fortscottcommunitycollege,jarrettlyonx52b,Jarrett Lyon
+Mar 21,home,Neosho County,L,6-1,6,1,5.0,win,,,,,,,,,,,,,,,,,,,,,,,2019,2018-19,div1,Fort Scott,fortscottcommunitycollege,jarrettlyonx52b,Jarrett Lyon
+Mar 21,home,Neosho County,W,8-5,8,5,3.0,win,,,,,,,,,,,,,,,,,,,,,,,2019,2018-19,div1,Fort Scott,fortscottcommunitycollege,jarrettlyonx52b,Jarrett Lyon
+Mar 24,home,Neosho County,W,8-4,8,4,4.0,win,,,,,,,,,,,,,,,,,,,,,,,2019,2018-19,div1,Fort Scott,fortscottcommunitycollege,jarrettlyonx52b,Jarrett Lyon
+Mar 24,home,Neosho County,W,9-1,9,1,8.0,win,,,,,,,,,,,,,,,,,,,,,,,2019,2018-19,div1,Fort Scott,fortscottcommunitycollege,jarrettlyonx52b,Jarrett Lyon
+Mar 27,home,Kansas City Kansas,W,5-4,5,4,1.0,win,,,,,,,,,,,,,,,,,,,,,,,2019,2018-19,div1,Fort Scott,fortscottcommunitycollege,jarrettlyonx52b,Jarrett Lyon
+Mar 27,home,Kansas City Kansas,L,5-0,5,0,5.0,win,,,,,,,,,,,,,,,,,,,,,,,2019,2018-19,div1,Fort Scott,fortscottcommunitycollege,jarrettlyonx52b,Jarrett Lyon
+Mar 31,home,Kansas City Kansas,L,4-3,4,3,1.0,win,,,,,,,,,,,,,,,,,,,,,,,2019,2018-19,div1,Fort Scott,fortscottcommunitycollege,jarrettlyonx52b,Jarrett Lyon
+Mar 31,home,Kansas City Kansas,L,4-1,4,1,3.0,win,,,,,,,,,,,,,,,,,,,,,,,2019,2018-19,div1,Fort Scott,fortscottcommunitycollege,jarrettlyonx52b,Jarrett Lyon
+Apr 3,home,Evangel University,L,7-1,7,1,6.0,win,,,,,,,,,,,,,,,,,,,,,,,2019,2018-19,div1,Fort Scott,fortscottcommunitycollege,jarrettlyonx52b,Jarrett Lyon
+Apr 3,home,Evangel University,W,11-0,11,0,11.0,win,,,,,,,,,,,,,,,,,,,,,,,2019,2018-19,div1,Fort Scott,fortscottcommunitycollege,jarrettlyonx52b,Jarrett Lyon
+Apr 4,home,Johnson County,W,5-2,5,2,3.0,win,,,,,,,,,,,,,,,,,,,,,,,2019,2018-19,div1,Fort Scott,fortscottcommunitycollege,jarrettlyonx52b,Jarrett Lyon
+Apr 4,home,Johnson County,L,12-3,12,3,9.0,win,20190404_cjno,0,0,0,,,,0,,,,,,,,0,0,,,,,0,2019,2018-19,div1,Fort Scott,fortscottcommunitycollege,jarrettlyonx52b,Jarrett Lyon
+Apr 6,home,Johnson County,W,7-2,7,2,5.0,win,,,,,,,,,,,,,,,,,,,,,,,2019,2018-19,div1,Fort Scott,fortscottcommunitycollege,jarrettlyonx52b,Jarrett Lyon
+Apr 6,home,Johnson County,L,17-6,17,6,11.0,win,,,,,,,,,,,,,,,,,,,,,,,2019,2018-19,div1,Fort Scott,fortscottcommunitycollege,jarrettlyonx52b,Jarrett Lyon
+Apr 11,home,Cowley,L,12-11,12,11,1.0,win,,,,,,,,,,,,,,,,,,,,,,,2019,2018-19,div1,Fort Scott,fortscottcommunitycollege,jarrettlyonx52b,Jarrett Lyon
+Apr 11,home,Cowley,L,10-0,10,0,10.0,win,,,,,,,,,,,,,,,,,,,,,,,2019,2018-19,div1,Fort Scott,fortscottcommunitycollege,jarrettlyonx52b,Jarrett Lyon
+Apr 12,home,Cowley,L,17-0,17,0,17.0,win,20190412_9x14,0,0,0,,,,0,,,,,,,,0,0,,,,,0,2019,2018-19,div1,Fort Scott,fortscottcommunitycollege,jarrettlyonx52b,Jarrett Lyon
+Apr 12,home,Cowley,L,16-3,16,3,13.0,win,,,,,,,,,,,,,,,,,,,,,,,2019,2018-19,div1,Fort Scott,fortscottcommunitycollege,jarrettlyonx52b,Jarrett Lyon
+Apr 15,home,Ottawa University JV,W,10-0,10,0,10.0,win,,,,,,,,,,,,,,,,,,,,,,,2019,2018-19,div1,Fort Scott,fortscottcommunitycollege,jarrettlyonx52b,Jarrett Lyon
+Apr 15,home,Ottawa University JV,W,20-2,20,2,18.0,win,,,,,,,,,,,,,,,,,,,,,,,2019,2018-19,div1,Fort Scott,fortscottcommunitycollege,jarrettlyonx52b,Jarrett Lyon
+Apr 19,home,Coffeyville,L,18-1,18,1,17.0,win,,,,,,,,,,,,,,,,,,,,,,,2019,2018-19,div1,Fort Scott,fortscottcommunitycollege,jarrettlyonx52b,Jarrett Lyon
+Apr 19,home,Coffeyville,W,13-12,13,12,1.0,win,,,,,,,,,,,,,,,,,,,,,,,2019,2018-19,div1,Fort Scott,fortscottcommunitycollege,jarrettlyonx52b,Jarrett Lyon
+Apr 20,home,Coffeyville,L,11-4,11,4,7.0,win,,,,,,,,,,,,,,,,,,,,,,,2019,2018-19,div1,Fort Scott,fortscottcommunitycollege,jarrettlyonx52b,Jarrett Lyon
+Apr 20,home,Coffeyville,W,19-9,19,9,10.0,win,,,,,,,,,,,,,,,,,,,,,,,2019,2018-19,div1,Fort Scott,fortscottcommunitycollege,jarrettlyonx52b,Jarrett Lyon
+Apr 24,home,Baker,W,11-2,11,2,9.0,win,,,,,,,,,,,,,,,,,,,,,,,2019,2018-19,div1,Fort Scott,fortscottcommunitycollege,jarrettlyonx52b,Jarrett Lyon
+Apr 24,home,Baker,W,16-6,16,6,10.0,win,,,,,,,,,,,,,,,,,,,,,,,2019,2018-19,div1,Fort Scott,fortscottcommunitycollege,jarrettlyonx52b,Jarrett Lyon
+Apr 25,home,Baker,W,19-6,19,6,13.0,win,,,,,,,,,,,,,,,,,,,,,,,2019,2018-19,div1,Fort Scott,fortscottcommunitycollege,jarrettlyonx52b,Jarrett Lyon
+Apr 25,home,Baker,W,4-0,4,0,4.0,win,,,,,,,,,,,,,,,,,,,,,,,2019,2018-19,div1,Fort Scott,fortscottcommunitycollege,jarrettlyonx52b,Jarrett Lyon
+Apr 26,home,Crowder,L,2-1,2,1,1.0,win,,,,,,,,,,,,,,,,,,,,,,,2019,2018-19,div1,Fort Scott,fortscottcommunitycollege,jarrettlyonx52b,Jarrett Lyon
+Apr 26,home,Crowder,L,6-4,6,4,2.0,win,,,,,,,,,,,,,,,,,,,,,,,2019,2018-19,div1,Fort Scott,fortscottcommunitycollege,jarrettlyonx52b,Jarrett Lyon
+May 4,home,Labette,W,10-0,10,0,10.0,win,,,,,,,,,,,,,,,,,,,,,,,2019,2018-19,div1,Fort Scott,fortscottcommunitycollege,jarrettlyonx52b,Jarrett Lyon
+May 4,home,Labette,L,13-5,13,5,8.0,win,,,,,,,,,,,,,,,,,,,,,,,2019,2018-19,div1,Fort Scott,fortscottcommunitycollege,jarrettlyonx52b,Jarrett Lyon
+May 5,home,Labette,W,13-7,13,7,6.0,win,,,,,,,,,,,,,,,,,,,,,,,2019,2018-19,div1,Fort Scott,fortscottcommunitycollege,jarrettlyonx52b,Jarrett Lyon
+May 5,home,Labette,W,11-3,11,3,8.0,win,,,,,,,,,,,,,,,,,,,,,,,2019,2018-19,div1,Fort Scott,fortscottcommunitycollege,jarrettlyonx52b,Jarrett Lyon
+May 11,home,Seward County,W,8-0,8,0,8.0,win,,,,,,,,,,,,,,,,,,,,,,,2019,2018-19,div1,Fort Scott,fortscottcommunitycollege,jarrettlyonx52b,Jarrett Lyon
+May 11,home,Seward County,W,6-5,6,5,1.0,win,,,,,,,,,,,,,,,,,,,,,,,2019,2018-19,div1,Fort Scott,fortscottcommunitycollege,jarrettlyonx52b,Jarrett Lyon
+May 15,home,Hutchinson,L,15-2,15,2,13.0,win,,,,,,,,,,,,,,,,,,,,,,,2019,2018-19,div1,Fort Scott,fortscottcommunitycollege,jarrettlyonx52b,Jarrett Lyon
+May 16,home,Johnson County,L,9-8,9,8,1.0,win,,,,,,,,,,,,,,,,,,,,,,,2019,2018-19,div1,Fort Scott,fortscottcommunitycollege,jarrettlyonx52b,Jarrett Lyon

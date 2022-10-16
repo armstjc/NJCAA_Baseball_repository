@@ -1,34 +1,59 @@
-date,location,opponent,result,score,team_score,opp_score,game_score_diff_x,game_win_loss_x,game_id_x,AB,R,H,2B,3B,HR,RBI,BB,K,SB,CS,game_score_diff_y,game_win_loss_y,game_id_y,HBP,SF,SH,TB,XBH,HDP,GO,FO,GO/FO,PA,season,njcaa_season,njcaa_division,team,team_id,player_id,player_name
-Feb 13,home,Ellsworth,W,7-2,7,2,5.0,win,,,,,,,,,,,,,5.0,win,,,,,,,,,,,,2019,2018-19,div1,Johnson County,johnsoncountycommunitycollege,derekabelni1ci,Derek Abeln
-Feb 13,home,Ellsworth,W,12-2,12,2,10.0,win,20190213_21sw,4,2,2,,,2,5,,1,,,10.0,win,20190213_21sw,,,,8,2,,,,,4,2019,2018-19,div1,Johnson County,johnsoncountycommunitycollege,derekabelni1ci,Derek Abeln
-Feb 14,home,Ellsworth,W,9-0,9,0,9.0,win,20190214_ev8k,3,0,0,,,,0,,1,,,9.0,win,20190214_ev8k,,,,0,0,,,,,3,2019,2018-19,div1,Johnson County,johnsoncountycommunitycollege,derekabelni1ci,Derek Abeln
-Feb 14,home,Ellsworth,W,18-8,18,8,10.0,win,20190214_fqab,2,2,0,,,,0,,1,,,10.0,win,20190214_fqab,,,,0,0,,,,,2,2019,2018-19,div1,Johnson County,johnsoncountycommunitycollege,derekabelni1ci,Derek Abeln
-Feb 26,home,Metropolitan,W,4-2,4,2,2.0,win,,,,,,,,,,,,,2.0,win,,,,,,,,,,,,2019,2018-19,div1,Johnson County,johnsoncountycommunitycollege,derekabelni1ci,Derek Abeln
-Feb 26,home,Metropolitan,W,5-2,5,2,3.0,win,,,,,,,,,,,,,3.0,win,,,,,,,,,,,,2019,2018-19,div1,Johnson County,johnsoncountycommunitycollege,derekabelni1ci,Derek Abeln
-Mar 1,home,Rockhurst University JV,W,15-2,15,2,13.0,win,20190301_ittr,4,0,1,,,,1,1,2,,,13.0,win,20190301_ittr,,,,1,0,,,,,5,2019,2018-19,div1,Johnson County,johnsoncountycommunitycollege,derekabelni1ci,Derek Abeln
-Mar 7,home,Minnesota West,W,15-2,15,2,13.0,win,20190307_ykdt,1,0,1,1,,,1,,,,,13.0,win,20190307_ykdt,,,,2,1,,,,,1,2019,2018-19,div1,Johnson County,johnsoncountycommunitycollege,derekabelni1ci,Derek Abeln
-Mar 7,home,Minnesota West,W,14-0,14,0,14.0,win,20190307_f959,3,3,2,,,1,2,,,1,,14.0,win,20190307_f959,,,,5,1,,,,,3,2019,2018-19,div1,Johnson County,johnsoncountycommunitycollege,derekabelni1ci,Derek Abeln
-Mar 8,home,Minnesota West,W,16-2,16,2,14.0,win,20190308_633n,2,1,0,,,,1,,1,1,,14.0,win,20190308_633n,,,,0,0,,,,,2,2019,2018-19,div1,Johnson County,johnsoncountycommunitycollege,derekabelni1ci,Derek Abeln
-Mar 13,home,Ottawa University JV,W,37-2,37,2,35.0,win,20190313_6u39,3,3,2,1,,1,4,,,,,35.0,win,20190313_6u39,,,,6,2,,,,,3,2019,2018-19,div1,Johnson County,johnsoncountycommunitycollege,derekabelni1ci,Derek Abeln
-Mar 15,home,Labette,W,11-0,11,0,11.0,win,20190315_q1qh,2,1,1,,1,,0,1,1,1,,11.0,win,20190315_q1qh,,,,3,1,,,,,3,2019,2018-19,div1,Johnson County,johnsoncountycommunitycollege,derekabelni1ci,Derek Abeln
-Mar 15,home,Labette,W,16-1,16,1,15.0,win,20190315_wxd3,3,1,2,1,,,3,,1,1,,15.0,win,20190315_wxd3,1,,,3,1,,,,,4,2019,2018-19,div1,Johnson County,johnsoncountycommunitycollege,derekabelni1ci,Derek Abeln
-Mar 20,home,Southwestern,W,16-1,16,1,15.0,win,20190320_i13r,3,2,2,,,,3,,,1,,15.0,win,20190320_i13r,,1,,2,0,,,,,4,2019,2018-19,div1,Johnson County,johnsoncountycommunitycollege,derekabelni1ci,Derek Abeln
-Mar 21,home,Highland (KS),W,9-6,9,6,3.0,win,20190321_xtyr,3,1,1,,,,0,,1,,,3.0,win,20190321_xtyr,,,,1,0,,,,,3,2019,2018-19,div1,Johnson County,johnsoncountycommunitycollege,derekabelni1ci,Derek Abeln
-Mar 21,home,Highland (KS),W,14-6,14,6,8.0,win,20190321_auk4,5,0,1,,,,1,,3,,,8.0,win,20190321_auk4,,,,1,0,,,,,5,2019,2018-19,div1,Johnson County,johnsoncountycommunitycollege,derekabelni1ci,Derek Abeln
-Mar 26,home,Crowder,W,10-5,10,5,5.0,win,20190326_83v5,0,0,0,,,,0,,,,,5.0,win,20190326_83v5,1,,,0,0,,,,,1,2019,2018-19,div1,Johnson County,johnsoncountycommunitycollege,derekabelni1ci,Derek Abeln
-Mar 30,home,Allen County,W,13-3,13,3,10.0,win,20190330_ar35,2,2,1,,,,1,2,,,,10.0,win,20190330_ar35,,,,1,0,,,,,4,2019,2018-19,div1,Johnson County,johnsoncountycommunitycollege,derekabelni1ci,Derek Abeln
-Mar 30,home,Allen County,W,18-11,18,11,7.0,win,20190330_o4j1,4,1,0,,,,0,1,2,,,7.0,win,20190330_o4j1,,,,0,0,,,,,5,2019,2018-19,div1,Johnson County,johnsoncountycommunitycollege,derekabelni1ci,Derek Abeln
-Apr 2,home,Rockhurst Univeristy JV,W,16-9,16,9,7.0,win,20190402_rt6p,5,2,2,1,,1,3,,1,1,,7.0,win,20190402_rt6p,,,,6,2,,,,,5,2019,2018-19,div1,Johnson County,johnsoncountycommunitycollege,derekabelni1ci,Derek Abeln
-Apr 4,home,Fort Scott,L,5-2,5,2,3.0,win,20190404_lcfd,1,0,0,,,,0,,1,,,3.0,win,20190404_lcfd,,,,0,0,,,,,1,2019,2018-19,div1,Johnson County,johnsoncountycommunitycollege,derekabelni1ci,Derek Abeln
-Apr 4,home,Fort Scott,W,12-3,12,3,9.0,win,20190404_cjno,1,0,0,,,,0,,1,,,9.0,win,20190404_cjno,,,,0,0,,,,,1,2019,2018-19,div1,Johnson County,johnsoncountycommunitycollege,derekabelni1ci,Derek Abeln
-Apr 9,home,Metropolitan,W,8-2,8,2,6.0,win,,,,,,,,,,,,,6.0,win,,,,,,,,,,,,2019,2018-19,div1,Johnson County,johnsoncountycommunitycollege,derekabelni1ci,Derek Abeln
-Apr 13,home,Kansas City Kansas,L,3-2,3,2,1.0,win,,,,,,,,,,,,,1.0,win,,,,,,,,,,,,2019,2018-19,div1,Johnson County,johnsoncountycommunitycollege,derekabelni1ci,Derek Abeln
-Apr 13,home,Kansas City Kansas,W,8-1,8,1,7.0,win,20190413_uzjf,0,1,0,,,,0,1,,1,,7.0,win,20190413_uzjf,,,,0,0,,,,,1,2019,2018-19,div1,Johnson County,johnsoncountycommunitycollege,derekabelni1ci,Derek Abeln
-Apr 19,home,Neosho County,W,5-3,5,3,2.0,win,20190419_m2v1,3,0,1,1,,,0,,2,,,2.0,win,20190419_m2v1,,,,2,1,,,,,3,2019,2018-19,div1,Johnson County,johnsoncountycommunitycollege,derekabelni1ci,Derek Abeln
-Apr 19,home,Neosho County,L,9-4,9,4,5.0,win,20190419_yav9,0,0,0,,,,0,,,,,5.0,win,20190419_yav9,,,,0,0,,,,,0,2019,2018-19,div1,Johnson County,johnsoncountycommunitycollege,derekabelni1ci,Derek Abeln
-Apr 27,home,Cowley,L,2-0,2,0,2.0,win,,,,,,,,,,,,,2.0,win,,,,,,,,,,,,2019,2018-19,div1,Johnson County,johnsoncountycommunitycollege,derekabelni1ci,Derek Abeln
-Apr 27,home,Cowley,L,8-7,8,7,1.0,win,,,,,,,,,,,,,1.0,win,,,,,,,,,,,,2019,2018-19,div1,Johnson County,johnsoncountycommunitycollege,derekabelni1ci,Derek Abeln
-May 4,home,Coffeyville,W,5-1,5,1,4.0,win,20190504_jvum,1,0,0,,,,0,,1,,,4.0,win,20190504_jvum,,,,0,0,,,,,1,2019,2018-19,div1,Johnson County,johnsoncountycommunitycollege,derekabelni1ci,Derek Abeln
-May 4,home,Coffeyville,L,7-1,7,1,6.0,win,20190504_8onq,1,0,0,,,,0,,,,,6.0,win,20190504_8onq,,,,0,0,,,,,1,2019,2018-19,div1,Johnson County,johnsoncountycommunitycollege,derekabelni1ci,Derek Abeln
-May 9,home,Garden City,W,13-6,13,6,7.0,win,,,,,,,,,,,,,7.0,win,,,,,,,,,,,,2019,2018-19,div1,Johnson County,johnsoncountycommunitycollege,derekabelni1ci,Derek Abeln
-May 10,home,Garden City,W,4-2,4,2,2.0,win,,,,,,,,,,,,,2.0,win,,,,,,,,,,,,2019,2018-19,div1,Johnson County,johnsoncountycommunitycollege,derekabelni1ci,Derek Abeln
+date,location,opponent,result,score,team_score,opp_score,game_score_diff,game_win_loss,game_id,AB,R,H,2B,3B,HR,RBI,BB,K,SB,CS,HBP,SF,SH,TB,XBH,HDP,GO,FO,GO/FO,PA,season,njcaa_season,njcaa_division,team,team_id,player_id,player_name
+Feb 7,home,Dallas College - Brookhaven,W,3-1,3,1,2.0,win,20190207_9c26,2,1,1,,1,,2,,1,,,,,,3,1,,,,,2,2019,2018-19,div1,Johnson County,johnsoncountycommunitycollege,derekabelni1ci,Derek Abeln
+Feb 7,home,Dallas College - Brookhaven,W,14-1,14,1,13.0,win,20190207_nend,0,0,0,,,,0,,,,,,,,0,0,,,,,0,2019,2018-19,div1,Johnson County,johnsoncountycommunitycollege,derekabelni1ci,Derek Abeln
+Feb 8,home,Dallas College - Brookhaven,L,10-2,10,2,8.0,win,20190208_oo85,3,0,1,,,,1,,,,,,,,1,0,,,,,3,2019,2018-19,div1,Johnson County,johnsoncountycommunitycollege,derekabelni1ci,Derek Abeln
+Feb 8,home,Dallas College - Brookhaven,W,1-0,1,0,1.0,win,20190208_sq7g,3,0,0,,,,0,,1,,,,,,0,0,,,,,3,2019,2018-19,div1,Johnson County,johnsoncountycommunitycollege,derekabelni1ci,Derek Abeln
+Feb 13,home,Ellsworth,W,7-2,7,2,5.0,win,,,,,,,,,,,,,,,,,,,,,,,2019,2018-19,div1,Johnson County,johnsoncountycommunitycollege,derekabelni1ci,Derek Abeln
+Feb 13,home,Ellsworth,W,12-2,12,2,10.0,win,20190213_21sw,4,2,2,,,2,5,,1,,,,,,8,2,,,,,4,2019,2018-19,div1,Johnson County,johnsoncountycommunitycollege,derekabelni1ci,Derek Abeln
+Feb 14,home,Ellsworth,W,9-0,9,0,9.0,win,20190214_ev8k,3,0,0,,,,0,,1,,,,,,0,0,,,,,3,2019,2018-19,div1,Johnson County,johnsoncountycommunitycollege,derekabelni1ci,Derek Abeln
+Feb 14,home,Ellsworth,W,18-8,18,8,10.0,win,20190214_fqab,2,2,0,,,,0,,1,,,,,,0,0,,,,,2,2019,2018-19,div1,Johnson County,johnsoncountycommunitycollege,derekabelni1ci,Derek Abeln
+Feb 25,home,Metropolitan,W,11-1,11,1,10.0,win,20190225_gvgo,0,1,0,,,,0,,,,,,,,0,0,,,,,0,2019,2018-19,div1,Johnson County,johnsoncountycommunitycollege,derekabelni1ci,Derek Abeln
+Feb 25,home,Metropolitan,L,4-3,4,3,1.0,win,20190225_oz1t,3,0,0,,,,0,,2,,,,,,0,0,,,,,3,2019,2018-19,div1,Johnson County,johnsoncountycommunitycollege,derekabelni1ci,Derek Abeln
+Feb 26,home,Metropolitan,W,4-2,4,2,2.0,win,,,,,,,,,,,,,,,,,,,,,,,2019,2018-19,div1,Johnson County,johnsoncountycommunitycollege,derekabelni1ci,Derek Abeln
+Feb 26,home,Metropolitan,W,5-2,5,2,3.0,win,,,,,,,,,,,,,,,,,,,,,,,2019,2018-19,div1,Johnson County,johnsoncountycommunitycollege,derekabelni1ci,Derek Abeln
+Mar 1,home,Rockhurst University JV,W,15-2,15,2,13.0,win,20190301_ittr,4,0,1,,,,1,1,2,,,,,,1,0,,,,,5,2019,2018-19,div1,Johnson County,johnsoncountycommunitycollege,derekabelni1ci,Derek Abeln
+Mar 7,home,Minnesota West,W,15-2,15,2,13.0,win,20190307_ykdt,1,0,1,1,,,1,,,,,,,,2,1,,,,,1,2019,2018-19,div1,Johnson County,johnsoncountycommunitycollege,derekabelni1ci,Derek Abeln
+Mar 7,home,Minnesota West,W,14-0,14,0,14.0,win,20190307_f959,3,3,2,,,1,2,,,1,,,,,5,1,,,,,3,2019,2018-19,div1,Johnson County,johnsoncountycommunitycollege,derekabelni1ci,Derek Abeln
+Mar 8,home,Minnesota West,W,16-2,16,2,14.0,win,20190308_633n,2,1,0,,,,1,,1,1,,,,,0,0,,,,,2,2019,2018-19,div1,Johnson County,johnsoncountycommunitycollege,derekabelni1ci,Derek Abeln
+Mar 13,home,Ottawa University JV,W,37-2,37,2,35.0,win,20190313_6u39,3,3,2,1,,1,4,,,,,,,,6,2,,,,,3,2019,2018-19,div1,Johnson County,johnsoncountycommunitycollege,derekabelni1ci,Derek Abeln
+Mar 15,home,Labette,W,11-0,11,0,11.0,win,20190315_q1qh,2,1,1,,1,,0,1,1,1,,,,,3,1,,,,,3,2019,2018-19,div1,Johnson County,johnsoncountycommunitycollege,derekabelni1ci,Derek Abeln
+Mar 15,home,Labette,W,16-1,16,1,15.0,win,20190315_wxd3,3,1,2,1,,,3,,1,1,,1,,,3,1,,,,,4,2019,2018-19,div1,Johnson County,johnsoncountycommunitycollege,derekabelni1ci,Derek Abeln
+Mar 17,home,Labette,W,7-1,7,1,6.0,win,20190317_lecj,3,0,1,,,,0,,1,,1,,,,1,0,,,,,3,2019,2018-19,div1,Johnson County,johnsoncountycommunitycollege,derekabelni1ci,Derek Abeln
+Mar 17,home,Labette,W,8-3,8,3,5.0,win,20190317_acyg,3,1,1,,,,1,,,,1,,,,1,0,,,,,3,2019,2018-19,div1,Johnson County,johnsoncountycommunitycollege,derekabelni1ci,Derek Abeln
+Mar 20,home,Southwestern,W,16-1,16,1,15.0,win,20190320_i13r,3,2,2,,,,3,,,1,,,1,,2,0,,,,,4,2019,2018-19,div1,Johnson County,johnsoncountycommunitycollege,derekabelni1ci,Derek Abeln
+Mar 21,home,Highland (KS),W,9-6,9,6,3.0,win,20190321_xtyr,3,1,1,,,,0,,1,,,,,,1,0,,,,,3,2019,2018-19,div1,Johnson County,johnsoncountycommunitycollege,derekabelni1ci,Derek Abeln
+Mar 21,home,Highland (KS),W,14-6,14,6,8.0,win,20190321_auk4,5,0,1,,,,1,,3,,,,,,1,0,,,,,5,2019,2018-19,div1,Johnson County,johnsoncountycommunitycollege,derekabelni1ci,Derek Abeln
+Mar 22,home,Highland (KS),W,3-2,3,2,1.0,win,,,,,,,,,,,,,,,,,,,,,,,2019,2018-19,div1,Johnson County,johnsoncountycommunitycollege,derekabelni1ci,Derek Abeln
+Mar 22,home,Highland (KS),W,15-2,15,2,13.0,win,20190322_gupk,0,0,0,,,,0,,,,,,,,0,0,,,,,0,2019,2018-19,div1,Johnson County,johnsoncountycommunitycollege,derekabelni1ci,Derek Abeln
+Mar 26,home,Crowder,W,10-5,10,5,5.0,win,20190326_83v5,0,0,0,,,,0,,,,,1,,,0,0,,,,,1,2019,2018-19,div1,Johnson County,johnsoncountycommunitycollege,derekabelni1ci,Derek Abeln
+Mar 30,home,Allen County,W,13-3,13,3,10.0,win,20190330_ar35,2,2,1,,,,1,2,,,,,,,1,0,,,,,4,2019,2018-19,div1,Johnson County,johnsoncountycommunitycollege,derekabelni1ci,Derek Abeln
+Mar 30,home,Allen County,W,18-11,18,11,7.0,win,20190330_o4j1,4,1,0,,,,0,1,2,,,,,,0,0,,,,,5,2019,2018-19,div1,Johnson County,johnsoncountycommunitycollege,derekabelni1ci,Derek Abeln
+Apr 1,home,Allen County,W,12-3,12,3,9.0,win,20190401_umqd,4,2,2,,,,0,1,1,,,,,,2,0,,,,,5,2019,2018-19,div1,Johnson County,johnsoncountycommunitycollege,derekabelni1ci,Derek Abeln
+Apr 1,home,Allen County,W,18-5,18,5,13.0,win,20190401_woki,4,2,3,1,,,3,1,,1,,,,,4,1,,,,,5,2019,2018-19,div1,Johnson County,johnsoncountycommunitycollege,derekabelni1ci,Derek Abeln
+Apr 2,home,Rockhurst Univeristy JV,W,16-9,16,9,7.0,win,20190402_rt6p,5,2,2,1,,1,3,,1,1,,,,,6,2,,,,,5,2019,2018-19,div1,Johnson County,johnsoncountycommunitycollege,derekabelni1ci,Derek Abeln
+Apr 4,home,Fort Scott,L,5-2,5,2,3.0,win,20190404_lcfd,1,0,0,,,,0,,1,,,,,,0,0,,,,,1,2019,2018-19,div1,Johnson County,johnsoncountycommunitycollege,derekabelni1ci,Derek Abeln
+Apr 4,home,Fort Scott,W,12-3,12,3,9.0,win,20190404_cjno,1,0,0,,,,0,,1,,,,,,0,0,,,,,1,2019,2018-19,div1,Johnson County,johnsoncountycommunitycollege,derekabelni1ci,Derek Abeln
+Apr 6,home,Fort Scott,L,7-2,7,2,5.0,win,,,,,,,,,,,,,,,,,,,,,,,2019,2018-19,div1,Johnson County,johnsoncountycommunitycollege,derekabelni1ci,Derek Abeln
+Apr 6,home,Fort Scott,W,17-6,17,6,11.0,win,,,,,,,,,,,,,,,,,,,,,,,2019,2018-19,div1,Johnson County,johnsoncountycommunitycollege,derekabelni1ci,Derek Abeln
+Apr 9,home,Metropolitan,W,8-2,8,2,6.0,win,,,,,,,,,,,,,,,,,,,,,,,2019,2018-19,div1,Johnson County,johnsoncountycommunitycollege,derekabelni1ci,Derek Abeln
+Apr 11,home,Kansas City Kansas,W,14-3,14,3,11.0,win,20190411_ag62,2,0,0,,,,0,,1,,,,,,0,0,,,,,2,2019,2018-19,div1,Johnson County,johnsoncountycommunitycollege,derekabelni1ci,Derek Abeln
+Apr 11,home,Kansas City Kansas,L,13-12,13,12,1.0,win,20190411_pu9i,1,1,0,,,,0,,1,,,,,,0,0,,,,,1,2019,2018-19,div1,Johnson County,johnsoncountycommunitycollege,derekabelni1ci,Derek Abeln
+Apr 13,home,Kansas City Kansas,L,3-2,3,2,1.0,win,,,,,,,,,,,,,,,,,,,,,,,2019,2018-19,div1,Johnson County,johnsoncountycommunitycollege,derekabelni1ci,Derek Abeln
+Apr 13,home,Kansas City Kansas,W,8-1,8,1,7.0,win,20190413_uzjf,0,1,0,,,,0,1,,1,,,,,0,0,,,,,1,2019,2018-19,div1,Johnson County,johnsoncountycommunitycollege,derekabelni1ci,Derek Abeln
+Apr 19,home,Neosho County,W,5-3,5,3,2.0,win,20190419_m2v1,3,0,1,1,,,0,,2,,,,,,2,1,,,,,3,2019,2018-19,div1,Johnson County,johnsoncountycommunitycollege,derekabelni1ci,Derek Abeln
+Apr 19,home,Neosho County,L,9-4,9,4,5.0,win,20190419_yav9,0,0,0,,,,0,,,,,,,,0,0,,,,,0,2019,2018-19,div1,Johnson County,johnsoncountycommunitycollege,derekabelni1ci,Derek Abeln
+Apr 20,home,Neosho County,W,8-2,8,2,6.0,win,20190420_gxx1,3,1,0,,,,0,1,1,,,,,,0,0,,,,,4,2019,2018-19,div1,Johnson County,johnsoncountycommunitycollege,derekabelni1ci,Derek Abeln
+Apr 20,home,Neosho County,W,14-2,14,2,12.0,win,20190420_t2pp,0,0,0,,,,0,,,1,,,,,0,0,,,,,0,2019,2018-19,div1,Johnson County,johnsoncountycommunitycollege,derekabelni1ci,Derek Abeln
+Apr 25,home,Cowley,W,7-3,7,3,4.0,win,,,,,,,,,,,,,,,,,,,,,,,2019,2018-19,div1,Johnson County,johnsoncountycommunitycollege,derekabelni1ci,Derek Abeln
+Apr 25,home,Cowley,W,11-8,11,8,3.0,win,20190425_fwfp,0,1,0,,,,0,,,,,,,,0,0,,,,,0,2019,2018-19,div1,Johnson County,johnsoncountycommunitycollege,derekabelni1ci,Derek Abeln
+Apr 27,home,Cowley,L,2-0,2,0,2.0,win,,,,,,,,,,,,,,,,,,,,,,,2019,2018-19,div1,Johnson County,johnsoncountycommunitycollege,derekabelni1ci,Derek Abeln
+Apr 27,home,Cowley,L,8-7,8,7,1.0,win,,,,,,,,,,,,,,,,,,,,,,,2019,2018-19,div1,Johnson County,johnsoncountycommunitycollege,derekabelni1ci,Derek Abeln
+May 3,home,Coffeyville,W,3-1,3,1,2.0,win,,,,,,,,,,,,,,,,,,,,,,,2019,2018-19,div1,Johnson County,johnsoncountycommunitycollege,derekabelni1ci,Derek Abeln
+May 3,home,Coffeyville,W,9-4,9,4,5.0,win,,,,,,,,,,,,,,,,,,,,,,,2019,2018-19,div1,Johnson County,johnsoncountycommunitycollege,derekabelni1ci,Derek Abeln
+May 4,home,Coffeyville,W,5-1,5,1,4.0,win,20190504_jvum,1,0,0,,,,0,,1,,,,,,0,0,,,,,1,2019,2018-19,div1,Johnson County,johnsoncountycommunitycollege,derekabelni1ci,Derek Abeln
+May 4,home,Coffeyville,L,7-1,7,1,6.0,win,20190504_8onq,1,0,0,,,,0,,,,,,,,0,0,,,,,1,2019,2018-19,div1,Johnson County,johnsoncountycommunitycollege,derekabelni1ci,Derek Abeln
+May 9,home,Garden City,W,13-6,13,6,7.0,win,,,,,,,,,,,,,,,,,,,,,,,2019,2018-19,div1,Johnson County,johnsoncountycommunitycollege,derekabelni1ci,Derek Abeln
+May 10,home,Garden City,W,4-2,4,2,2.0,win,,,,,,,,,,,,,,,,,,,,,,,2019,2018-19,div1,Johnson County,johnsoncountycommunitycollege,derekabelni1ci,Derek Abeln
+May 15,home,Colby,L,12-11,12,11,1.0,win,20190515_2tbl,1,1,0,,,,0,,1,1,,,,,0,0,,,,,1,2019,2018-19,div1,Johnson County,johnsoncountycommunitycollege,derekabelni1ci,Derek Abeln
+May 16,home,Fort Scott,W,9-8,9,8,1.0,win,20190516_2zuu,0,1,0,,,,0,,,,,,,,0,0,,,,,0,2019,2018-19,div1,Johnson County,johnsoncountycommunitycollege,derekabelni1ci,Derek Abeln
+May 17,home,Barton,L,8-3,8,3,5.0,win,20190517_20n9,3,1,1,,,1,1,,,,,,,,4,1,,1,1,1.00,3,2019,2018-19,div1,Johnson County,johnsoncountycommunitycollege,derekabelni1ci,Derek Abeln

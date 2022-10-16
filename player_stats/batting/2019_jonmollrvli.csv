@@ -1,34 +1,59 @@
-date,location,opponent,result,score,team_score,opp_score,game_score_diff_x,game_win_loss_x,game_id_x,AB,R,H,2B,3B,HR,RBI,BB,K,SB,CS,game_score_diff_y,game_win_loss_y,game_id_y,HBP,SF,SH,TB,XBH,HDP,GO,FO,GO/FO,PA,season,njcaa_season,njcaa_division,team,team_id,player_id,player_name
-Feb 13,home,Ellsworth,W,7-2,7,2,5.0,win,,,,,,,,,,,,,5.0,win,,,,,,,,,,,,2019,2018-19,div1,Johnson County,johnsoncountycommunitycollege,jonmollrvli,Jon Moll
-Feb 13,home,Ellsworth,W,12-2,12,2,10.0,win,20190213_21sw,0,0,0,,,,0,,,,,10.0,win,20190213_21sw,,,,0,0,,,,,0,2019,2018-19,div1,Johnson County,johnsoncountycommunitycollege,jonmollrvli,Jon Moll
-Feb 14,home,Ellsworth,W,9-0,9,0,9.0,win,,,,,,,,,,,,,9.0,win,,,,,,,,,,,,2019,2018-19,div1,Johnson County,johnsoncountycommunitycollege,jonmollrvli,Jon Moll
-Feb 14,home,Ellsworth,W,18-8,18,8,10.0,win,,,,,,,,,,,,,10.0,win,,,,,,,,,,,,2019,2018-19,div1,Johnson County,johnsoncountycommunitycollege,jonmollrvli,Jon Moll
-Feb 26,home,Metropolitan,W,4-2,4,2,2.0,win,,,,,,,,,,,,,2.0,win,,,,,,,,,,,,2019,2018-19,div1,Johnson County,johnsoncountycommunitycollege,jonmollrvli,Jon Moll
-Feb 26,home,Metropolitan,W,5-2,5,2,3.0,win,,,,,,,,,,,,,3.0,win,,,,,,,,,,,,2019,2018-19,div1,Johnson County,johnsoncountycommunitycollege,jonmollrvli,Jon Moll
-Mar 1,home,Rockhurst University JV,W,15-2,15,2,13.0,win,20190301_ittr,0,0,0,,,,0,,,,,13.0,win,20190301_ittr,,,,0,0,,,,,0,2019,2018-19,div1,Johnson County,johnsoncountycommunitycollege,jonmollrvli,Jon Moll
-Mar 7,home,Minnesota West,W,15-2,15,2,13.0,win,,,,,,,,,,,,,13.0,win,,,,,,,,,,,,2019,2018-19,div1,Johnson County,johnsoncountycommunitycollege,jonmollrvli,Jon Moll
-Mar 7,home,Minnesota West,W,14-0,14,0,14.0,win,,,,,,,,,,,,,14.0,win,,,,,,,,,,,,2019,2018-19,div1,Johnson County,johnsoncountycommunitycollege,jonmollrvli,Jon Moll
-Mar 8,home,Minnesota West,W,16-2,16,2,14.0,win,,,,,,,,,,,,,14.0,win,,,,,,,,,,,,2019,2018-19,div1,Johnson County,johnsoncountycommunitycollege,jonmollrvli,Jon Moll
-Mar 13,home,Ottawa University JV,W,37-2,37,2,35.0,win,20190313_6u39,0,0,0,,,,0,,,,,35.0,win,20190313_6u39,,,,0,0,,,,,0,2019,2018-19,div1,Johnson County,johnsoncountycommunitycollege,jonmollrvli,Jon Moll
-Mar 15,home,Labette,W,11-0,11,0,11.0,win,,,,,,,,,,,,,11.0,win,,,,,,,,,,,,2019,2018-19,div1,Johnson County,johnsoncountycommunitycollege,jonmollrvli,Jon Moll
-Mar 15,home,Labette,W,16-1,16,1,15.0,win,,,,,,,,,,,,,15.0,win,,,,,,,,,,,,2019,2018-19,div1,Johnson County,johnsoncountycommunitycollege,jonmollrvli,Jon Moll
-Mar 20,home,Southwestern,W,16-1,16,1,15.0,win,20190320_i13r,0,0,0,,,,0,,,,,15.0,win,20190320_i13r,,,,0,0,,,,,0,2019,2018-19,div1,Johnson County,johnsoncountycommunitycollege,jonmollrvli,Jon Moll
-Mar 21,home,Highland (KS),W,9-6,9,6,3.0,win,,,,,,,,,,,,,3.0,win,,,,,,,,,,,,2019,2018-19,div1,Johnson County,johnsoncountycommunitycollege,jonmollrvli,Jon Moll
-Mar 21,home,Highland (KS),W,14-6,14,6,8.0,win,,,,,,,,,,,,,8.0,win,,,,,,,,,,,,2019,2018-19,div1,Johnson County,johnsoncountycommunitycollege,jonmollrvli,Jon Moll
-Mar 26,home,Crowder,W,10-5,10,5,5.0,win,20190326_83v5,0,0,0,,,,0,,,,,5.0,win,20190326_83v5,,,,0,0,,,,,0,2019,2018-19,div1,Johnson County,johnsoncountycommunitycollege,jonmollrvli,Jon Moll
-Mar 30,home,Allen County,W,13-3,13,3,10.0,win,,,,,,,,,,,,,10.0,win,,,,,,,,,,,,2019,2018-19,div1,Johnson County,johnsoncountycommunitycollege,jonmollrvli,Jon Moll
-Mar 30,home,Allen County,W,18-11,18,11,7.0,win,,,,,,,,,,,,,7.0,win,,,,,,,,,,,,2019,2018-19,div1,Johnson County,johnsoncountycommunitycollege,jonmollrvli,Jon Moll
-Apr 2,home,Rockhurst Univeristy JV,W,16-9,16,9,7.0,win,,,,,,,,,,,,,7.0,win,,,,,,,,,,,,2019,2018-19,div1,Johnson County,johnsoncountycommunitycollege,jonmollrvli,Jon Moll
-Apr 4,home,Fort Scott,L,5-2,5,2,3.0,win,,,,,,,,,,,,,3.0,win,,,,,,,,,,,,2019,2018-19,div1,Johnson County,johnsoncountycommunitycollege,jonmollrvli,Jon Moll
-Apr 4,home,Fort Scott,W,12-3,12,3,9.0,win,20190404_cjno,0,0,0,,,,0,,,,,9.0,win,20190404_cjno,,,,0,0,,,,,0,2019,2018-19,div1,Johnson County,johnsoncountycommunitycollege,jonmollrvli,Jon Moll
-Apr 9,home,Metropolitan,W,8-2,8,2,6.0,win,,,,,,,,,,,,,6.0,win,,,,,,,,,,,,2019,2018-19,div1,Johnson County,johnsoncountycommunitycollege,jonmollrvli,Jon Moll
-Apr 13,home,Kansas City Kansas,L,3-2,3,2,1.0,win,,,,,,,,,,,,,1.0,win,,,,,,,,,,,,2019,2018-19,div1,Johnson County,johnsoncountycommunitycollege,jonmollrvli,Jon Moll
-Apr 13,home,Kansas City Kansas,W,8-1,8,1,7.0,win,,,,,,,,,,,,,7.0,win,,,,,,,,,,,,2019,2018-19,div1,Johnson County,johnsoncountycommunitycollege,jonmollrvli,Jon Moll
-Apr 19,home,Neosho County,W,5-3,5,3,2.0,win,,,,,,,,,,,,,2.0,win,,,,,,,,,,,,2019,2018-19,div1,Johnson County,johnsoncountycommunitycollege,jonmollrvli,Jon Moll
-Apr 19,home,Neosho County,L,9-4,9,4,5.0,win,20190419_yav9,0,0,0,,,,0,,,,,5.0,win,20190419_yav9,,,,0,0,,,,,0,2019,2018-19,div1,Johnson County,johnsoncountycommunitycollege,jonmollrvli,Jon Moll
-Apr 27,home,Cowley,L,2-0,2,0,2.0,win,,,,,,,,,,,,,2.0,win,,,,,,,,,,,,2019,2018-19,div1,Johnson County,johnsoncountycommunitycollege,jonmollrvli,Jon Moll
-Apr 27,home,Cowley,L,8-7,8,7,1.0,win,20190427_fd82,0,0,0,,,,0,,,,,1.0,win,20190427_fd82,,,,0,0,,,,,0,2019,2018-19,div1,Johnson County,johnsoncountycommunitycollege,jonmollrvli,Jon Moll
-May 4,home,Coffeyville,W,5-1,5,1,4.0,win,,,,,,,,,,,,,4.0,win,,,,,,,,,,,,2019,2018-19,div1,Johnson County,johnsoncountycommunitycollege,jonmollrvli,Jon Moll
-May 4,home,Coffeyville,L,7-1,7,1,6.0,win,,,,,,,,,,,,,6.0,win,,,,,,,,,,,,2019,2018-19,div1,Johnson County,johnsoncountycommunitycollege,jonmollrvli,Jon Moll
-May 9,home,Garden City,W,13-6,13,6,7.0,win,,,,,,,,,,,,,7.0,win,,,,,,,,,,,,2019,2018-19,div1,Johnson County,johnsoncountycommunitycollege,jonmollrvli,Jon Moll
-May 10,home,Garden City,W,4-2,4,2,2.0,win,,,,,,,,,,,,,2.0,win,,,,,,,,,,,,2019,2018-19,div1,Johnson County,johnsoncountycommunitycollege,jonmollrvli,Jon Moll
+date,location,opponent,result,score,team_score,opp_score,game_score_diff,game_win_loss,game_id,AB,R,H,2B,3B,HR,RBI,BB,K,SB,CS,HBP,SF,SH,TB,XBH,HDP,GO,FO,GO/FO,PA,season,njcaa_season,njcaa_division,team,team_id,player_id,player_name
+Feb 7,home,Dallas College - Brookhaven,W,3-1,3,1,2.0,win,,,,,,,,,,,,,,,,,,,,,,,2019,2018-19,div1,Johnson County,johnsoncountycommunitycollege,jonmollrvli,Jon Moll
+Feb 7,home,Dallas College - Brookhaven,W,14-1,14,1,13.0,win,,,,,,,,,,,,,,,,,,,,,,,2019,2018-19,div1,Johnson County,johnsoncountycommunitycollege,jonmollrvli,Jon Moll
+Feb 8,home,Dallas College - Brookhaven,L,10-2,10,2,8.0,win,,,,,,,,,,,,,,,,,,,,,,,2019,2018-19,div1,Johnson County,johnsoncountycommunitycollege,jonmollrvli,Jon Moll
+Feb 8,home,Dallas College - Brookhaven,W,1-0,1,0,1.0,win,,,,,,,,,,,,,,,,,,,,,,,2019,2018-19,div1,Johnson County,johnsoncountycommunitycollege,jonmollrvli,Jon Moll
+Feb 13,home,Ellsworth,W,7-2,7,2,5.0,win,,,,,,,,,,,,,,,,,,,,,,,2019,2018-19,div1,Johnson County,johnsoncountycommunitycollege,jonmollrvli,Jon Moll
+Feb 13,home,Ellsworth,W,12-2,12,2,10.0,win,20190213_21sw,0,0,0,,,,0,,,,,,,,0,0,,,,,0,2019,2018-19,div1,Johnson County,johnsoncountycommunitycollege,jonmollrvli,Jon Moll
+Feb 14,home,Ellsworth,W,9-0,9,0,9.0,win,,,,,,,,,,,,,,,,,,,,,,,2019,2018-19,div1,Johnson County,johnsoncountycommunitycollege,jonmollrvli,Jon Moll
+Feb 14,home,Ellsworth,W,18-8,18,8,10.0,win,,,,,,,,,,,,,,,,,,,,,,,2019,2018-19,div1,Johnson County,johnsoncountycommunitycollege,jonmollrvli,Jon Moll
+Feb 25,home,Metropolitan,W,11-1,11,1,10.0,win,,,,,,,,,,,,,,,,,,,,,,,2019,2018-19,div1,Johnson County,johnsoncountycommunitycollege,jonmollrvli,Jon Moll
+Feb 25,home,Metropolitan,L,4-3,4,3,1.0,win,,,,,,,,,,,,,,,,,,,,,,,2019,2018-19,div1,Johnson County,johnsoncountycommunitycollege,jonmollrvli,Jon Moll
+Feb 26,home,Metropolitan,W,4-2,4,2,2.0,win,,,,,,,,,,,,,,,,,,,,,,,2019,2018-19,div1,Johnson County,johnsoncountycommunitycollege,jonmollrvli,Jon Moll
+Feb 26,home,Metropolitan,W,5-2,5,2,3.0,win,,,,,,,,,,,,,,,,,,,,,,,2019,2018-19,div1,Johnson County,johnsoncountycommunitycollege,jonmollrvli,Jon Moll
+Mar 1,home,Rockhurst University JV,W,15-2,15,2,13.0,win,20190301_ittr,0,0,0,,,,0,,,,,,,,0,0,,,,,0,2019,2018-19,div1,Johnson County,johnsoncountycommunitycollege,jonmollrvli,Jon Moll
+Mar 7,home,Minnesota West,W,15-2,15,2,13.0,win,,,,,,,,,,,,,,,,,,,,,,,2019,2018-19,div1,Johnson County,johnsoncountycommunitycollege,jonmollrvli,Jon Moll
+Mar 7,home,Minnesota West,W,14-0,14,0,14.0,win,,,,,,,,,,,,,,,,,,,,,,,2019,2018-19,div1,Johnson County,johnsoncountycommunitycollege,jonmollrvli,Jon Moll
+Mar 8,home,Minnesota West,W,16-2,16,2,14.0,win,,,,,,,,,,,,,,,,,,,,,,,2019,2018-19,div1,Johnson County,johnsoncountycommunitycollege,jonmollrvli,Jon Moll
+Mar 13,home,Ottawa University JV,W,37-2,37,2,35.0,win,20190313_6u39,0,0,0,,,,0,,,,,,,,0,0,,,,,0,2019,2018-19,div1,Johnson County,johnsoncountycommunitycollege,jonmollrvli,Jon Moll
+Mar 15,home,Labette,W,11-0,11,0,11.0,win,,,,,,,,,,,,,,,,,,,,,,,2019,2018-19,div1,Johnson County,johnsoncountycommunitycollege,jonmollrvli,Jon Moll
+Mar 15,home,Labette,W,16-1,16,1,15.0,win,,,,,,,,,,,,,,,,,,,,,,,2019,2018-19,div1,Johnson County,johnsoncountycommunitycollege,jonmollrvli,Jon Moll
+Mar 17,home,Labette,W,7-1,7,1,6.0,win,,,,,,,,,,,,,,,,,,,,,,,2019,2018-19,div1,Johnson County,johnsoncountycommunitycollege,jonmollrvli,Jon Moll
+Mar 17,home,Labette,W,8-3,8,3,5.0,win,,,,,,,,,,,,,,,,,,,,,,,2019,2018-19,div1,Johnson County,johnsoncountycommunitycollege,jonmollrvli,Jon Moll
+Mar 20,home,Southwestern,W,16-1,16,1,15.0,win,20190320_i13r,0,0,0,,,,0,,,,,,,,0,0,,,,,0,2019,2018-19,div1,Johnson County,johnsoncountycommunitycollege,jonmollrvli,Jon Moll
+Mar 21,home,Highland (KS),W,9-6,9,6,3.0,win,,,,,,,,,,,,,,,,,,,,,,,2019,2018-19,div1,Johnson County,johnsoncountycommunitycollege,jonmollrvli,Jon Moll
+Mar 21,home,Highland (KS),W,14-6,14,6,8.0,win,,,,,,,,,,,,,,,,,,,,,,,2019,2018-19,div1,Johnson County,johnsoncountycommunitycollege,jonmollrvli,Jon Moll
+Mar 22,home,Highland (KS),W,3-2,3,2,1.0,win,,,,,,,,,,,,,,,,,,,,,,,2019,2018-19,div1,Johnson County,johnsoncountycommunitycollege,jonmollrvli,Jon Moll
+Mar 22,home,Highland (KS),W,15-2,15,2,13.0,win,,,,,,,,,,,,,,,,,,,,,,,2019,2018-19,div1,Johnson County,johnsoncountycommunitycollege,jonmollrvli,Jon Moll
+Mar 26,home,Crowder,W,10-5,10,5,5.0,win,20190326_83v5,0,0,0,,,,0,,,,,,,,0,0,,,,,0,2019,2018-19,div1,Johnson County,johnsoncountycommunitycollege,jonmollrvli,Jon Moll
+Mar 30,home,Allen County,W,13-3,13,3,10.0,win,,,,,,,,,,,,,,,,,,,,,,,2019,2018-19,div1,Johnson County,johnsoncountycommunitycollege,jonmollrvli,Jon Moll
+Mar 30,home,Allen County,W,18-11,18,11,7.0,win,,,,,,,,,,,,,,,,,,,,,,,2019,2018-19,div1,Johnson County,johnsoncountycommunitycollege,jonmollrvli,Jon Moll
+Apr 1,home,Allen County,W,12-3,12,3,9.0,win,,,,,,,,,,,,,,,,,,,,,,,2019,2018-19,div1,Johnson County,johnsoncountycommunitycollege,jonmollrvli,Jon Moll
+Apr 1,home,Allen County,W,18-5,18,5,13.0,win,20190401_woki,0,0,0,,,,0,,,,,,,,0,0,,,,,0,2019,2018-19,div1,Johnson County,johnsoncountycommunitycollege,jonmollrvli,Jon Moll
+Apr 2,home,Rockhurst Univeristy JV,W,16-9,16,9,7.0,win,,,,,,,,,,,,,,,,,,,,,,,2019,2018-19,div1,Johnson County,johnsoncountycommunitycollege,jonmollrvli,Jon Moll
+Apr 4,home,Fort Scott,L,5-2,5,2,3.0,win,,,,,,,,,,,,,,,,,,,,,,,2019,2018-19,div1,Johnson County,johnsoncountycommunitycollege,jonmollrvli,Jon Moll
+Apr 4,home,Fort Scott,W,12-3,12,3,9.0,win,20190404_cjno,0,0,0,,,,0,,,,,,,,0,0,,,,,0,2019,2018-19,div1,Johnson County,johnsoncountycommunitycollege,jonmollrvli,Jon Moll
+Apr 6,home,Fort Scott,L,7-2,7,2,5.0,win,,,,,,,,,,,,,,,,,,,,,,,2019,2018-19,div1,Johnson County,johnsoncountycommunitycollege,jonmollrvli,Jon Moll
+Apr 6,home,Fort Scott,W,17-6,17,6,11.0,win,20190406_a9mx,0,0,0,,,,0,,,,,,,,0,0,,,,,0,2019,2018-19,div1,Johnson County,johnsoncountycommunitycollege,jonmollrvli,Jon Moll
+Apr 9,home,Metropolitan,W,8-2,8,2,6.0,win,,,,,,,,,,,,,,,,,,,,,,,2019,2018-19,div1,Johnson County,johnsoncountycommunitycollege,jonmollrvli,Jon Moll
+Apr 11,home,Kansas City Kansas,W,14-3,14,3,11.0,win,,,,,,,,,,,,,,,,,,,,,,,2019,2018-19,div1,Johnson County,johnsoncountycommunitycollege,jonmollrvli,Jon Moll
+Apr 11,home,Kansas City Kansas,L,13-12,13,12,1.0,win,20190411_pu9i,0,0,0,,,,0,,,,,,,,0,0,,,,,0,2019,2018-19,div1,Johnson County,johnsoncountycommunitycollege,jonmollrvli,Jon Moll
+Apr 13,home,Kansas City Kansas,L,3-2,3,2,1.0,win,,,,,,,,,,,,,,,,,,,,,,,2019,2018-19,div1,Johnson County,johnsoncountycommunitycollege,jonmollrvli,Jon Moll
+Apr 13,home,Kansas City Kansas,W,8-1,8,1,7.0,win,,,,,,,,,,,,,,,,,,,,,,,2019,2018-19,div1,Johnson County,johnsoncountycommunitycollege,jonmollrvli,Jon Moll
+Apr 19,home,Neosho County,W,5-3,5,3,2.0,win,,,,,,,,,,,,,,,,,,,,,,,2019,2018-19,div1,Johnson County,johnsoncountycommunitycollege,jonmollrvli,Jon Moll
+Apr 19,home,Neosho County,L,9-4,9,4,5.0,win,20190419_yav9,0,0,0,,,,0,,,,,,,,0,0,,,,,0,2019,2018-19,div1,Johnson County,johnsoncountycommunitycollege,jonmollrvli,Jon Moll
+Apr 20,home,Neosho County,W,8-2,8,2,6.0,win,,,,,,,,,,,,,,,,,,,,,,,2019,2018-19,div1,Johnson County,johnsoncountycommunitycollege,jonmollrvli,Jon Moll
+Apr 20,home,Neosho County,W,14-2,14,2,12.0,win,,,,,,,,,,,,,,,,,,,,,,,2019,2018-19,div1,Johnson County,johnsoncountycommunitycollege,jonmollrvli,Jon Moll
+Apr 25,home,Cowley,W,7-3,7,3,4.0,win,,,,,,,,,,,,,,,,,,,,,,,2019,2018-19,div1,Johnson County,johnsoncountycommunitycollege,jonmollrvli,Jon Moll
+Apr 25,home,Cowley,W,11-8,11,8,3.0,win,20190425_fwfp,0,0,0,,,,0,,,,,,,,0,0,,,,,0,2019,2018-19,div1,Johnson County,johnsoncountycommunitycollege,jonmollrvli,Jon Moll
+Apr 27,home,Cowley,L,2-0,2,0,2.0,win,,,,,,,,,,,,,,,,,,,,,,,2019,2018-19,div1,Johnson County,johnsoncountycommunitycollege,jonmollrvli,Jon Moll
+Apr 27,home,Cowley,L,8-7,8,7,1.0,win,20190427_fd82,0,0,0,,,,0,,,,,,,,0,0,,,,,0,2019,2018-19,div1,Johnson County,johnsoncountycommunitycollege,jonmollrvli,Jon Moll
+May 3,home,Coffeyville,W,3-1,3,1,2.0,win,,,,,,,,,,,,,,,,,,,,,,,2019,2018-19,div1,Johnson County,johnsoncountycommunitycollege,jonmollrvli,Jon Moll
+May 3,home,Coffeyville,W,9-4,9,4,5.0,win,,,,,,,,,,,,,,,,,,,,,,,2019,2018-19,div1,Johnson County,johnsoncountycommunitycollege,jonmollrvli,Jon Moll
+May 4,home,Coffeyville,W,5-1,5,1,4.0,win,,,,,,,,,,,,,,,,,,,,,,,2019,2018-19,div1,Johnson County,johnsoncountycommunitycollege,jonmollrvli,Jon Moll
+May 4,home,Coffeyville,L,7-1,7,1,6.0,win,,,,,,,,,,,,,,,,,,,,,,,2019,2018-19,div1,Johnson County,johnsoncountycommunitycollege,jonmollrvli,Jon Moll
+May 9,home,Garden City,W,13-6,13,6,7.0,win,,,,,,,,,,,,,,,,,,,,,,,2019,2018-19,div1,Johnson County,johnsoncountycommunitycollege,jonmollrvli,Jon Moll
+May 10,home,Garden City,W,4-2,4,2,2.0,win,,,,,,,,,,,,,,,,,,,,,,,2019,2018-19,div1,Johnson County,johnsoncountycommunitycollege,jonmollrvli,Jon Moll
+May 15,home,Colby,L,12-11,12,11,1.0,win,20190515_2tbl,0,0,0,,,,0,,,,,,,,0,0,,,,,0,2019,2018-19,div1,Johnson County,johnsoncountycommunitycollege,jonmollrvli,Jon Moll
+May 16,home,Fort Scott,W,9-8,9,8,1.0,win,,,,,,,,,,,,,,,,,,,,,,,2019,2018-19,div1,Johnson County,johnsoncountycommunitycollege,jonmollrvli,Jon Moll
+May 17,home,Barton,L,8-3,8,3,5.0,win,,,,,,,,,,,,,,,,,,,,,,,2019,2018-19,div1,Johnson County,johnsoncountycommunitycollege,jonmollrvli,Jon Moll

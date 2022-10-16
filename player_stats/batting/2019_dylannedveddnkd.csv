@@ -1,0 +1,67 @@
+date,location,opponent,result,score,team_score,opp_score,game_score_diff,game_win_loss,game_id,AB,R,H,2B,3B,HR,RBI,BB,K,SB,CS,HBP,SF,SH,TB,XBH,HDP,GO,FO,GO/FO,PA,season,njcaa_season,njcaa_division,team,team_id,player_id,player_name
+Feb 2,home,Coffeyville,W,11-8,11,8,3.0,win,20190202_sts6,4,2,2,,,,1,,1,2,,,,,2,0,,,1,,4,2019,2018-19,div1,Hutchinson,hutchinsoncommunitycollege,dylannedveddnkd,Dylan Nedved
+Feb 2,home,Coffeyville,L,9-7,9,7,2.0,win,20190202_c6ua,4,1,1,,,,1,1,1,,,,,,1,0,,,2,,5,2019,2018-19,div1,Hutchinson,hutchinsoncommunitycollege,dylannedveddnkd,Dylan Nedved
+Feb 13,home,Coffeyville,W,7-2,7,2,5.0,win,20190213_bmzf,4,1,1,1,,,0,,1,1,,,,,2,1,1,2,,,4,2019,2018-19,div1,Hutchinson,hutchinsoncommunitycollege,dylannedveddnkd,Dylan Nedved
+Feb 13,home,Coffeyville,L,17-4,17,4,13.0,win,20190213_wefc,2,1,1,,,,0,1,,,,,,,1,0,,,1,,3,2019,2018-19,div1,Hutchinson,hutchinsoncommunitycollege,dylannedveddnkd,Dylan Nedved
+Feb 15,home,Northeast Texas,W,18-14,18,14,4.0,win,20190215_a1z4,5,2,2,,,,2,,2,,,,1,,2,0,,,2,,6,2019,2018-19,div1,Hutchinson,hutchinsoncommunitycollege,dylannedveddnkd,Dylan Nedved
+Feb 16,home,Northeast Texas,W,6-3,6,3,3.0,win,20190216_f297,5,1,1,,,,1,,1,,1,,,,1,0,,,1,,5,2019,2018-19,div1,Hutchinson,hutchinsoncommunitycollege,dylannedveddnkd,Dylan Nedved
+Feb 17,home,Northeast Texas,W,11-7,11,7,4.0,win,20190217_nfil,5,1,2,1,,,1,,,,,,,1,3,1,,3,1,3.00,6,2019,2018-19,div1,Hutchinson,hutchinsoncommunitycollege,dylannedveddnkd,Dylan Nedved
+Feb 21,home,Rose State,L,4-2,4,2,2.0,win,20190221_dyyd,4,1,2,,,,0,,,,,,,,2,0,,,2,,4,2019,2018-19,div1,Hutchinson,hutchinsoncommunitycollege,dylannedveddnkd,Dylan Nedved
+Feb 21,home,Rose State,W,17-5,17,5,12.0,win,20190221_jph3,6,1,2,,,,1,,2,1,,,,,2,0,,,1,,6,2019,2018-19,div1,Hutchinson,hutchinsoncommunitycollege,dylannedveddnkd,Dylan Nedved
+Feb 22,home,Rose State,W,12-7,12,7,5.0,win,20190222_kw7t,6,1,1,,1,,3,,3,,,,,,3,1,,1,1,1.00,6,2019,2018-19,div1,Hutchinson,hutchinsoncommunitycollege,dylannedveddnkd,Dylan Nedved
+Feb 26,home,Labette,W,18-2,18,2,16.0,win,20190226_g9dh,2,3,1,,1,,1,1,,,,2,,,3,1,,,1,,5,2019,2018-19,div1,Hutchinson,hutchinsoncommunitycollege,dylannedveddnkd,Dylan Nedved
+Feb 26,home,Labette,W,7-1,7,1,6.0,win,20190226_g1zf,5,1,3,1,,1,1,,1,1,,,,,7,2,,1,,,5,2019,2018-19,div1,Hutchinson,hutchinsoncommunitycollege,dylannedveddnkd,Dylan Nedved
+Mar 1,home,Crowder,L,9-3,9,3,6.0,win,20190301_1j7m,2,1,0,,,,0,1,2,,,1,,,0,0,,,,,4,2019,2018-19,div1,Hutchinson,hutchinsoncommunitycollege,dylannedveddnkd,Dylan Nedved
+Mar 1,home,Crowder,L,6-5,6,5,1.0,win,20190301_rlc1,6,0,1,,,,1,,1,,,,,,1,0,,1,3,0.33,6,2019,2018-19,div1,Hutchinson,hutchinsoncommunitycollege,dylannedveddnkd,Dylan Nedved
+Mar 7,home,Butler,L,3-2,3,2,1.0,win,20190307_s0co,3,0,0,,,,0,,,,,,,,0,0,,3,,,3,2019,2018-19,div1,Hutchinson,hutchinsoncommunitycollege,dylannedveddnkd,Dylan Nedved
+Mar 7,home,Butler,L,11-9,11,9,2.0,win,20190307_ecrf,3,1,2,,,,0,1,1,1,,1,,,2,0,,,,,5,2019,2018-19,div1,Hutchinson,hutchinsoncommunitycollege,dylannedveddnkd,Dylan Nedved
+Mar 9,home,Butler,W,5-4,5,4,1.0,win,20190309_ung2,3,0,1,,,,0,,1,,,,,,1,0,,1,,,3,2019,2018-19,div1,Hutchinson,hutchinsoncommunitycollege,dylannedveddnkd,Dylan Nedved
+Mar 9,home,Butler,W,15-1,15,1,14.0,win,20190309_5kxq,4,2,2,,,1,6,,1,,,,,,5,1,,1,,,4,2019,2018-19,div1,Hutchinson,hutchinsoncommunitycollege,dylannedveddnkd,Dylan Nedved
+Mar 15,home,Barton,W,7-2,7,2,5.0,win,20190315_uccd,3,1,2,,,,2,1,,3,,,,,2,0,,1,,,4,2019,2018-19,div1,Hutchinson,hutchinsoncommunitycollege,dylannedveddnkd,Dylan Nedved
+Mar 15,home,Barton,W,9-8,9,8,1.0,win,20190315_p7ya,5,0,1,,,,1,,1,,,,,,1,0,,2,1,2.00,5,2019,2018-19,div1,Hutchinson,hutchinsoncommunitycollege,dylannedveddnkd,Dylan Nedved
+Mar 17,home,Barton,L,6-4,6,4,2.0,win,20190317_fkzl,0,0,0,,,,0,,,,,,,,0,0,,,,,0,2019,2018-19,div1,Hutchinson,hutchinsoncommunitycollege,dylannedveddnkd,Dylan Nedved
+Mar 17,home,Barton,W,9-3,9,3,6.0,win,20190317_m3nz,4,1,2,,,,1,,,,,,,,2,0,,2,,,4,2019,2018-19,div1,Hutchinson,hutchinsoncommunitycollege,dylannedveddnkd,Dylan Nedved
+Mar 19,home,Cowley,L,8-5,8,5,3.0,win,20190319_b04q,5,0,0,,,,0,,3,,,,,,0,0,,2,,,5,2019,2018-19,div1,Hutchinson,hutchinsoncommunitycollege,dylannedveddnkd,Dylan Nedved
+Mar 21,home,Dodge City,L,5-4,5,4,1.0,win,20190321_6vm6,2,0,0,,,,1,,,,,,1,,0,0,,1,2,0.50,3,2019,2018-19,div1,Hutchinson,hutchinsoncommunitycollege,dylannedveddnkd,Dylan Nedved
+Mar 21,home,Dodge City,W,12-3,12,3,9.0,win,20190321_slns,6,2,2,,,,2,,1,,,,,,2,0,,3,,,6,2019,2018-19,div1,Hutchinson,hutchinsoncommunitycollege,dylannedveddnkd,Dylan Nedved
+Mar 22,home,Dodge City,W,8-3,8,3,5.0,win,20190322_5w2h,3,0,0,,,,0,,,,,,,,0,0,1,,3,,3,2019,2018-19,div1,Hutchinson,hutchinsoncommunitycollege,dylannedveddnkd,Dylan Nedved
+Mar 22,home,Dodge City,L,12-9,12,9,3.0,win,20190322_ggfw,5,0,0,,,,1,,,,,1,,,0,0,,1,4,0.25,6,2019,2018-19,div1,Hutchinson,hutchinsoncommunitycollege,dylannedveddnkd,Dylan Nedved
+Mar 26,home,Cowley,L,7-1,7,1,6.0,win,20190326_sd43,4,0,2,,,,0,,1,1,,,,,2,0,,1,,,4,2019,2018-19,div1,Hutchinson,hutchinsoncommunitycollege,dylannedveddnkd,Dylan Nedved
+Mar 28,home,Garden City,W,8-7,8,7,1.0,win,20190328_pvgl,2,1,1,,,,0,2,,,,,,,1,0,,,1,,4,2019,2018-19,div1,Hutchinson,hutchinsoncommunitycollege,dylannedveddnkd,Dylan Nedved
+Mar 28,home,Garden City,W,3-1,3,1,2.0,win,20190328_2zh5,4,0,0,,,,0,,2,,,,,,0,0,,,1,,4,2019,2018-19,div1,Hutchinson,hutchinsoncommunitycollege,dylannedveddnkd,Dylan Nedved
+Mar 31,home,Garden City,L,4-2,4,2,2.0,win,20190331_zqaw,4,0,1,1,,,1,,,,,,,,2,1,1,2,1,2.00,4,2019,2018-19,div1,Hutchinson,hutchinsoncommunitycollege,dylannedveddnkd,Dylan Nedved
+Mar 31,home,Garden City,W,9-8,9,8,1.0,win,20190331_va7v,5,1,2,1,,,1,,2,1,,,,,3,1,,1,,,5,2019,2018-19,div1,Hutchinson,hutchinsoncommunitycollege,dylannedveddnkd,Dylan Nedved
+Apr 2,home,Redlands,W,6-1,6,1,5.0,win,20190402_r5v7,3,1,1,,,,1,1,1,,,,,,1,0,,,1,,4,2019,2018-19,div1,Hutchinson,hutchinsoncommunitycollege,dylannedveddnkd,Dylan Nedved
+Apr 3,home,Sterling College JV,W,12-2,12,2,10.0,win,20190403_mbf6,2,0,1,,,,1,,,,,,,,1,0,,1,,,2,2019,2018-19,div1,Hutchinson,hutchinsoncommunitycollege,dylannedveddnkd,Dylan Nedved
+Apr 3,home,Sterling College JV,W,7-0,7,0,7.0,win,,,,,,,,,,,,,,,,,,,,,,,2019,2018-19,div1,Hutchinson,hutchinsoncommunitycollege,dylannedveddnkd,Dylan Nedved
+Apr 4,home,Sterling College JV,W,10-0,10,0,10.0,win,,,,,,,,,,,,,,,,,,,,,,,2019,2018-19,div1,Hutchinson,hutchinsoncommunitycollege,dylannedveddnkd,Dylan Nedved
+Apr 4,home,Sterling College JV,W,11-3,11,3,8.0,win,20190404_tkjy,3,1,2,,1,,3,,,,,1,,,4,1,,,1,,4,2019,2018-19,div1,Hutchinson,hutchinsoncommunitycollege,dylannedveddnkd,Dylan Nedved
+Apr 9,home,Seminole State (OK),L,15-9,15,9,6.0,win,20190409_fznl,3,2,1,,,,1,2,,,,,,,1,0,,1,,,5,2019,2018-19,div1,Hutchinson,hutchinsoncommunitycollege,dylannedveddnkd,Dylan Nedved
+Apr 12,home,Pratt,W,11-0,11,0,11.0,win,20190412_luej,4,0,1,,,,2,,,,,,,,1,0,,2,1,2.00,4,2019,2018-19,div1,Hutchinson,hutchinsoncommunitycollege,dylannedveddnkd,Dylan Nedved
+Apr 12,home,Pratt,L,11-10,11,10,1.0,win,20190412_ctcy,4,3,1,,,1,1,1,,,,,,,4,1,,,2,,5,2019,2018-19,div1,Hutchinson,hutchinsoncommunitycollege,dylannedveddnkd,Dylan Nedved
+Apr 14,home,Pratt,W,6-3,6,3,3.0,win,20190414_r3rb,4,1,2,1,,,0,,,,,,,,3,1,1,2,,,4,2019,2018-19,div1,Hutchinson,hutchinsoncommunitycollege,dylannedveddnkd,Dylan Nedved
+Apr 14,home,Pratt,W,2-1,2,1,1.0,win,20190414_68lr,3,0,1,,,,0,,,1,,,,,1,0,,2,,,3,2019,2018-19,div1,Hutchinson,hutchinsoncommunitycollege,dylannedveddnkd,Dylan Nedved
+Apr 16,home,Coffeyville,W,15-3,15,3,12.0,win,20190416_ta95,3,0,1,1,,,2,1,1,1,,,,,2,1,,,1,,4,2019,2018-19,div1,Hutchinson,hutchinsoncommunitycollege,dylannedveddnkd,Dylan Nedved
+Apr 18,home,Seward County,L,7-0,7,0,7.0,win,20190418_16ay,4,0,1,,,,0,,,,1,,,,1,0,,2,1,2.00,4,2019,2018-19,div1,Hutchinson,hutchinsoncommunitycollege,dylannedveddnkd,Dylan Nedved
+Apr 18,home,Seward County,W,4-3,4,3,1.0,win,20190418_2l8m,2,1,0,,,,0,1,,1,,,,,0,0,,1,1,1.00,3,2019,2018-19,div1,Hutchinson,hutchinsoncommunitycollege,dylannedveddnkd,Dylan Nedved
+Apr 20,home,Seward County,W,13-10,13,10,3.0,win,20190420_tdsk,4,2,2,0,0,2,5,0,0,0,0,0,1,0,8,2,,0,,,5,2019,2018-19,div1,Hutchinson,hutchinsoncommunitycollege,dylannedveddnkd,Dylan Nedved
+Apr 20,home,Seward County,W,17-11,17,11,6.0,win,20190420_iox6,5,0,1,1,0,0,0,1,2,0,0,0,0,0,2,1,,0,,,6,2019,2018-19,div1,Hutchinson,hutchinsoncommunitycollege,dylannedveddnkd,Dylan Nedved
+Apr 23,home,Barton,W,3-2,3,2,1.0,win,20190423_8g9g,3,1,1,,,,0,1,,,,,,,1,0,,1,1,1.00,4,2019,2018-19,div1,Hutchinson,hutchinsoncommunitycollege,dylannedveddnkd,Dylan Nedved
+Apr 25,home,Colby,W,8-4,8,4,4.0,win,20190425_fssl,4,1,3,1,,,0,,,,,,,,4,1,1,1,,,4,2019,2018-19,div1,Hutchinson,hutchinsoncommunitycollege,dylannedveddnkd,Dylan Nedved
+Apr 25,home,Colby,W,18-6,18,6,12.0,win,20190425_aa7l,6,4,4,,,2,7,1,,,,,,,10,2,,1,1,1.00,7,2019,2018-19,div1,Hutchinson,hutchinsoncommunitycollege,dylannedveddnkd,Dylan Nedved
+Apr 27,home,Colby,W,7-6,7,6,1.0,win,20190427_figw,5,0,2,,,,3,,1,,,,,,2,0,,,1,,5,2019,2018-19,div1,Hutchinson,hutchinsoncommunitycollege,dylannedveddnkd,Dylan Nedved
+Apr 27,home,Colby,W,5-0,5,0,5.0,win,20190427_9vad,4,0,0,,,,0,,1,,,,,,0,0,,2,1,2.00,4,2019,2018-19,div1,Hutchinson,hutchinsoncommunitycollege,dylannedveddnkd,Dylan Nedved
+May 2,home,Cloud County,L,9-7,9,7,2.0,win,20190502_iqk6,3,1,2,1,,1,3,,,,,,,,6,2,,1,,,3,2019,2018-19,div1,Hutchinson,hutchinsoncommunitycollege,dylannedveddnkd,Dylan Nedved
+May 2,home,Cloud County,W,6-3,6,3,3.0,win,20190502_rngi,4,0,0,,,,0,1,,,,,,,0,0,,1,3,0.33,5,2019,2018-19,div1,Hutchinson,hutchinsoncommunitycollege,dylannedveddnkd,Dylan Nedved
+May 4,home,Cloud County,W,3-1,3,1,2.0,win,20190504_gvsy,3,1,1,,,1,1,,,,,,,,4,1,,2,,,3,2019,2018-19,div1,Hutchinson,hutchinsoncommunitycollege,dylannedveddnkd,Dylan Nedved
+May 4,home,Cloud County,L,6-2,6,2,4.0,win,20190504_zvpu,3,0,1,1,,,1,1,1,,1,,,,2,1,,,1,,4,2019,2018-19,div1,Hutchinson,hutchinsoncommunitycollege,dylannedveddnkd,Dylan Nedved
+May 9,home,Labette,,,,,4.0,win,,,,,,,,,,,,,,,,,,,,,,,2019,2018-19,div1,Hutchinson,hutchinsoncommunitycollege,dylannedveddnkd,Dylan Nedved
+May 10,home,Labette,L,4-3,4,3,1.0,win,20190510_oewq,4,0,1,1,,,0,1,1,,,,,,2,1,1,2,,,5,2019,2018-19,div1,Hutchinson,hutchinsoncommunitycollege,dylannedveddnkd,Dylan Nedved
+May 11,home,Labette,W,13-4,13,4,9.0,win,20190511_6mbz,5,1,0,,,,0,,1,,,,,,0,0,,,2,,5,2019,2018-19,div1,Hutchinson,hutchinsoncommunitycollege,dylannedveddnkd,Dylan Nedved
+May 11,home,Labette,W,2-0,2,0,2.0,win,20190511_ajnn,3,0,2,1,,,1,1,,,,,,,3,1,,1,,,4,2019,2018-19,div1,Hutchinson,hutchinsoncommunitycollege,dylannedveddnkd,Dylan Nedved
+May 15,home,Fort Scott,W,15-2,15,2,13.0,win,20190515_seon,3,3,3,,,,2,1,,,,,,,3,0,,,,,4,2019,2018-19,div1,Hutchinson,hutchinsoncommunitycollege,dylannedveddnkd,Dylan Nedved
+May 16,home,Colby,L,12-8,12,8,4.0,win,20190516_d9eu,4,1,1,,,1,1,,1,,,1,,,4,1,,,1,,5,2019,2018-19,div1,Hutchinson,hutchinsoncommunitycollege,dylannedveddnkd,Dylan Nedved
+May 17,home,Cloud County,W,14-12,14,12,2.0,win,20190517_sanj,4,2,3,1,,,1,1,,,,,,,4,1,,,1,,5,2019,2018-19,div1,Hutchinson,hutchinsoncommunitycollege,dylannedveddnkd,Dylan Nedved
+May 17,home,Barton,W,9-8,9,8,1.0,win,20190517_43ys,5,2,1,,,,0,,2,,,,,,1,0,,1,,,5,2019,2018-19,div1,Hutchinson,hutchinsoncommunitycollege,dylannedveddnkd,Dylan Nedved
+May 18,home,Colby,W,8-4,8,4,4.0,win,20190518_se3n,4,1,1,,,,1,1,,,,,,,1,0,,1,2,0.50,5,2019,2018-19,div1,Hutchinson,hutchinsoncommunitycollege,dylannedveddnkd,Dylan Nedved
+May 18,home,Cowley,L,14-1,14,1,13.0,win,20190518_bbmt,3,0,0,,,,1,1,2,,,,,,0,0,,1,,,4,2019,2018-19,div1,Hutchinson,hutchinsoncommunitycollege,dylannedveddnkd,Dylan Nedved
