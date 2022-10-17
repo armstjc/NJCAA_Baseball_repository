@@ -1,46 +1,87 @@
-date,location,opponent,result,score,team_score,opp_score,game_score_diff_x,game_win_loss_x,game_id_x,AB,R,H,2B,3B,HR,RBI,BB,K,SB,CS,game_score_diff_y,game_win_loss_y,game_id_y,HBP,SF,SH,TB,XBH,HDP,GO,FO,GO/FO,PA,season,njcaa_season,njcaa_division,team,team_id,player_id,player_name
-Sep 12  #,home,Grandview University,,,,,,,,,,,,,,,,,,,1.0,win,,,,,,,,,,,,2020,2019-20,div1,Southwestern,southwesterncommunitycollege,ryankaytvqm,Ryan Kay
-Oct 13  #,home,Primetime Nebraska,,,,,,,,,,,,,,,,,,,1.0,win,,,,,,,,,,,,2020,2019-20,div1,Southwestern,southwesterncommunitycollege,ryankaytvqm,Ryan Kay
-Mar 4,home,Des Moines Area,W,7-6,7,6,1,win,20200304_ec83,4,1,1,,,1,2,,1,,,1.0,win,20200304_ec83,,,,4,1,,,,,4,2020,2019-20,div1,Southwestern,southwesterncommunitycollege,ryankaytvqm,Ryan Kay
-Mar 4,home,Des Moines Area,L,13-7,13,7,6,win,20200304_xswi,4,3,3,,2,1,2,,1,,,6.0,win,20200304_xswi,,,,10,3,,,,,4,2020,2019-20,div1,Southwestern,southwesterncommunitycollege,ryankaytvqm,Ryan Kay
-Mar 7,home,Ellsworth,L,15-6,15,6,9,win,20200307_gqkl,4,0,0,,,,0,,2,,,9.0,win,20200307_gqkl,,,,0,0,,,,,4,2020,2019-20,div1,Southwestern,southwesterncommunitycollege,ryankaytvqm,Ryan Kay
-Mar 7,home,Ellsworth,L,11-1,11,1,10,win,20200307_1uek,2,0,1,,,,0,,1,,,10.0,win,20200307_1uek,,,,1,0,,,,,2,2020,2019-20,div1,Southwestern,southwesterncommunitycollege,ryankaytvqm,Ryan Kay
-Mar 8,home,Ellsworth,W,18-7,18,7,11,win,20200308_2ukv,4,1,3,1,,,0,,1,,,11.0,win,20200308_2ukv,,,,4,1,,,,,4,2020,2019-20,div1,Southwestern,southwesterncommunitycollege,ryankaytvqm,Ryan Kay
-Mar 8,home,Ellsworth,W,23-14,23,14,9,win,20200308_383h,2,2,0,,,,0,3,1,,,9.0,win,20200308_383h,,,,0,0,,,,,5,2020,2019-20,div1,Southwestern,southwesterncommunitycollege,ryankaytvqm,Ryan Kay
-Mar 11,home,Iowa Central,L,15-13,15,13,2,win,20200311_app3,3,0,0,,,,0,2,1,,,2.0,win,20200311_app3,,,,0,0,,,,,5,2020,2019-20,div1,Southwestern,southwesterncommunitycollege,ryankaytvqm,Ryan Kay
-Mar 13,home,Iowa Lakes,L,11-4,11,4,7,win,20200313_idgl,3,0,1,,,,0,,1,,,7.0,win,20200313_idgl,,,,1,0,,,,,3,2020,2019-20,div1,Southwestern,southwesterncommunitycollege,ryankaytvqm,Ryan Kay
-Mar 13,home,Iowa Lakes,W,1-0,1,0,1,win,20200313_p8j8,3,0,0,,,,0,,1,,,1.0,win,20200313_p8j8,,,,0,0,,,,,3,2020,2019-20,div1,Southwestern,southwesterncommunitycollege,ryankaytvqm,Ryan Kay
-Mar 15,home,Iowa Lakes,,,,,1,win,,,,,,,,,,,,,1.0,win,,,,,,,,,,,,2020,2019-20,div1,Southwestern,southwesterncommunitycollege,ryankaytvqm,Ryan Kay
-Mar 15,home,Iowa Lakes,,,,,1,win,,,,,,,,,,,,,1.0,win,,,,,,,,,,,,2020,2019-20,div1,Southwestern,southwesterncommunitycollege,ryankaytvqm,Ryan Kay
-Mar 15,home,Iowa Lakes,,,,,1,win,,,,,,,,,,,,,1.0,win,,,,,,,,,,,,2020,2019-20,div1,Southwestern,southwesterncommunitycollege,ryankaytvqm,Ryan Kay
-Mar 15,home,Iowa Lakes,,,,,1,win,,,,,,,,,,,,,1.0,win,,,,,,,,,,,,2020,2019-20,div1,Southwestern,southwesterncommunitycollege,ryankaytvqm,Ryan Kay
-Mar 24,home,Iowa Central,,,,,1,win,,,,,,,,,,,,,1.0,win,,,,,,,,,,,,2020,2019-20,div1,Southwestern,southwesterncommunitycollege,ryankaytvqm,Ryan Kay
-Mar 25,home,Des Moines Area,,,,,1,win,,,,,,,,,,,,,1.0,win,,,,,,,,,,,,2020,2019-20,div1,Southwestern,southwesterncommunitycollege,ryankaytvqm,Ryan Kay
-Mar 28,home,Iowa Western,,,,,1,win,,,,,,,,,,,,,1.0,win,,,,,,,,,,,,2020,2019-20,div1,Southwestern,southwesterncommunitycollege,ryankaytvqm,Ryan Kay
-Mar 28,home,Iowa Western,,,,,1,win,,,,,,,,,,,,,1.0,win,,,,,,,,,,,,2020,2019-20,div1,Southwestern,southwesterncommunitycollege,ryankaytvqm,Ryan Kay
-Mar 28,home,Iowa Western,,,,,1,win,,,,,,,,,,,,,1.0,win,,,,,,,,,,,,2020,2019-20,div1,Southwestern,southwesterncommunitycollege,ryankaytvqm,Ryan Kay
-Mar 28,home,Iowa Western,,,,,1,win,,,,,,,,,,,,,1.0,win,,,,,,,,,,,,2020,2019-20,div1,Southwestern,southwesterncommunitycollege,ryankaytvqm,Ryan Kay
-Mar 29,home,Iowa Western,,,,,1,win,,,,,,,,,,,,,1.0,win,,,,,,,,,,,,2020,2019-20,div1,Southwestern,southwesterncommunitycollege,ryankaytvqm,Ryan Kay
-Mar 29,home,Iowa Western,,,,,1,win,,,,,,,,,,,,,1.0,win,,,,,,,,,,,,2020,2019-20,div1,Southwestern,southwesterncommunitycollege,ryankaytvqm,Ryan Kay
-Mar 29,home,Iowa Western,,,,,1,win,,,,,,,,,,,,,1.0,win,,,,,,,,,,,,2020,2019-20,div1,Southwestern,southwesterncommunitycollege,ryankaytvqm,Ryan Kay
-Mar 29,home,Iowa Western,,,,,1,win,,,,,,,,,,,,,1.0,win,,,,,,,,,,,,2020,2019-20,div1,Southwestern,southwesterncommunitycollege,ryankaytvqm,Ryan Kay
-Apr 4,home,Marshalltown,,,,,1,win,,,,,,,,,,,,,1.0,win,,,,,,,,,,,,2020,2019-20,div1,Southwestern,southwesterncommunitycollege,ryankaytvqm,Ryan Kay
-Apr 4,home,Marshalltown,,,,,1,win,,,,,,,,,,,,,1.0,win,,,,,,,,,,,,2020,2019-20,div1,Southwestern,southwesterncommunitycollege,ryankaytvqm,Ryan Kay
-Apr 4,home,Marshalltown,,,,,1,win,,,,,,,,,,,,,1.0,win,,,,,,,,,,,,2020,2019-20,div1,Southwestern,southwesterncommunitycollege,ryankaytvqm,Ryan Kay
-Apr 4,home,Marshalltown,,,,,1,win,,,,,,,,,,,,,1.0,win,,,,,,,,,,,,2020,2019-20,div1,Southwestern,southwesterncommunitycollege,ryankaytvqm,Ryan Kay
-Apr 5,home,Marshalltown,,,,,1,win,,,,,,,,,,,,,1.0,win,,,,,,,,,,,,2020,2019-20,div1,Southwestern,southwesterncommunitycollege,ryankaytvqm,Ryan Kay
-Apr 5,home,Marshalltown,,,,,1,win,,,,,,,,,,,,,1.0,win,,,,,,,,,,,,2020,2019-20,div1,Southwestern,southwesterncommunitycollege,ryankaytvqm,Ryan Kay
-Apr 5,home,Marshalltown,,,,,1,win,,,,,,,,,,,,,1.0,win,,,,,,,,,,,,2020,2019-20,div1,Southwestern,southwesterncommunitycollege,ryankaytvqm,Ryan Kay
-Apr 5,home,Marshalltown,,,,,1,win,,,,,,,,,,,,,1.0,win,,,,,,,,,,,,2020,2019-20,div1,Southwestern,southwesterncommunitycollege,ryankaytvqm,Ryan Kay
-Apr 10,home,Indian Hills,,,,,1,win,,,,,,,,,,,,,1.0,win,,,,,,,,,,,,2020,2019-20,div1,Southwestern,southwesterncommunitycollege,ryankaytvqm,Ryan Kay
-Apr 10,home,Indian Hills,,,,,1,win,,,,,,,,,,,,,1.0,win,,,,,,,,,,,,2020,2019-20,div1,Southwestern,southwesterncommunitycollege,ryankaytvqm,Ryan Kay
-Apr 10,home,Indian Hills,,,,,1,win,,,,,,,,,,,,,1.0,win,,,,,,,,,,,,2020,2019-20,div1,Southwestern,southwesterncommunitycollege,ryankaytvqm,Ryan Kay
-Apr 10,home,Indian Hills,,,,,1,win,,,,,,,,,,,,,1.0,win,,,,,,,,,,,,2020,2019-20,div1,Southwestern,southwesterncommunitycollege,ryankaytvqm,Ryan Kay
-Apr 21,home,North Central Missouri,,,,,1,win,,,,,,,,,,,,,1.0,win,,,,,,,,,,,,2020,2019-20,div1,Southwestern,southwesterncommunitycollege,ryankaytvqm,Ryan Kay
-Apr 21,home,North Central Missouri,,,,,1,win,,,,,,,,,,,,,1.0,win,,,,,,,,,,,,2020,2019-20,div1,Southwestern,southwesterncommunitycollege,ryankaytvqm,Ryan Kay
-Apr 21,home,North Central Missouri,,,,,1,win,,,,,,,,,,,,,1.0,win,,,,,,,,,,,,2020,2019-20,div1,Southwestern,southwesterncommunitycollege,ryankaytvqm,Ryan Kay
-Apr 21,home,North Central Missouri,,,,,1,win,,,,,,,,,,,,,1.0,win,,,,,,,,,,,,2020,2019-20,div1,Southwestern,southwesterncommunitycollege,ryankaytvqm,Ryan Kay
-Apr 26,home,Indian Hills,,,,,1,win,,,,,,,,,,,,,1.0,win,,,,,,,,,,,,2020,2019-20,div1,Southwestern,southwesterncommunitycollege,ryankaytvqm,Ryan Kay
-Apr 26,home,Indian Hills,,,,,1,win,,,,,,,,,,,,,1.0,win,,,,,,,,,,,,2020,2019-20,div1,Southwestern,southwesterncommunitycollege,ryankaytvqm,Ryan Kay
-Apr 26,home,Indian Hills,,,,,1,win,,,,,,,,,,,,,1.0,win,,,,,,,,,,,,2020,2019-20,div1,Southwestern,southwesterncommunitycollege,ryankaytvqm,Ryan Kay
-Apr 26,home,Indian Hills,,,,,1,win,,,,,,,,,,,,,1.0,win,,,,,,,,,,,,2020,2019-20,div1,Southwestern,southwesterncommunitycollege,ryankaytvqm,Ryan Kay
+date,location,opponent,result,score,team_score,opp_score,game_score_diff,game_win_loss,game_id,AB,R,H,2B,3B,HR,RBI,BB,K,SB,CS,HBP,SF,SH,TB,XBH,HDP,GO,FO,GO/FO,PA,season,njcaa_season,njcaa_division,team,team_id,player_id,player_name
+Feb 21,home,Johnson County,L,7-4,7,4,3,win,20200221_s2th,0,0,0,,,,0,,,,,,,,0,0,,,,,0,2020,2019-20,div1,Southwestern,southwesterncommunitycollege,ryankaytvqm,Ryan Kay
+Feb 21,home,Johnson County,L,10-0,10,0,10,win,,,,,,,,,,,,,,,,,,,,,,,2020,2019-20,div1,Southwestern,southwesterncommunitycollege,ryankaytvqm,Ryan Kay
+Feb 22,home,Johnson County,L,14-3,14,3,11,win,,,,,,,,,,,,,,,,,,,,,,,2020,2019-20,div1,Southwestern,southwesterncommunitycollege,ryankaytvqm,Ryan Kay
+Feb 22,home,Johnson County,L,21-1,21,1,20,win,,,,,,,,,,,,,,,,,,,,,,,2020,2019-20,div1,Southwestern,southwesterncommunitycollege,ryankaytvqm,Ryan Kay
+Feb 29,home,Allen County,L,13-8,13,8,5,win,20200229_e6na,3,1,0,,,,0,1,,1,,,,,0,0,,,,,4,2020,2019-20,div1,Southwestern,southwesterncommunitycollege,ryankaytvqm,Ryan Kay
+Feb 29,home,Allen County,W,9-7,9,7,2,win,20200229_xbd5,4,1,1,1,,,0,,1,,,,,,2,1,,,,,4,2020,2019-20,div1,Southwestern,southwesterncommunitycollege,ryankaytvqm,Ryan Kay
+Mar 1,home,Allen County,L,11-10,11,10,1,win,20200301_fxan,4,1,1,,,,0,,1,,,,,,1,0,,,,,4,2020,2019-20,div1,Southwestern,southwesterncommunitycollege,ryankaytvqm,Ryan Kay
+Mar 1,home,Allen County,L,6-5,6,5,1,win,20200301_ej79,3,1,0,,,,0,,2,,,1,,,0,0,,,,,4,2020,2019-20,div1,Southwestern,southwesterncommunitycollege,ryankaytvqm,Ryan Kay
+Mar 4,home,Des Moines Area,W,7-6,7,6,1,win,20200304_ec83,4,1,1,,,1,2,,1,,,,,,4,1,,,,,4,2020,2019-20,div1,Southwestern,southwesterncommunitycollege,ryankaytvqm,Ryan Kay
+Mar 4,home,Des Moines Area,L,13-7,13,7,6,win,20200304_xswi,4,3,3,,2,1,2,,1,,,,,,10,3,,,,,4,2020,2019-20,div1,Southwestern,southwesterncommunitycollege,ryankaytvqm,Ryan Kay
+Mar 7,home,Ellsworth,L,15-6,15,6,9,win,20200307_gqkl,4,0,0,,,,0,,2,,,,,,0,0,,,,,4,2020,2019-20,div1,Southwestern,southwesterncommunitycollege,ryankaytvqm,Ryan Kay
+Mar 7,home,Ellsworth,L,11-1,11,1,10,win,20200307_1uek,2,0,1,,,,0,,1,,,,,,1,0,,,,,2,2020,2019-20,div1,Southwestern,southwesterncommunitycollege,ryankaytvqm,Ryan Kay
+Mar 8,home,Ellsworth,W,18-7,18,7,11,win,20200308_2ukv,4,1,3,1,,,0,,1,,,,,,4,1,,,,,4,2020,2019-20,div1,Southwestern,southwesterncommunitycollege,ryankaytvqm,Ryan Kay
+Mar 8,home,Ellsworth,W,23-14,23,14,9,win,20200308_383h,2,2,0,,,,0,3,1,,,,,,0,0,,,,,5,2020,2019-20,div1,Southwestern,southwesterncommunitycollege,ryankaytvqm,Ryan Kay
+Mar 11,home,Iowa Central,L,15-13,15,13,2,win,20200311_app3,3,0,0,,,,0,2,1,,,,,,0,0,,,,,5,2020,2019-20,div1,Southwestern,southwesterncommunitycollege,ryankaytvqm,Ryan Kay
+Mar 13,home,Iowa Lakes,L,11-4,11,4,7,win,20200313_idgl,3,0,1,,,,0,,1,,,,,,1,0,,,,,3,2020,2019-20,div1,Southwestern,southwesterncommunitycollege,ryankaytvqm,Ryan Kay
+Mar 13,home,Iowa Lakes,W,1-0,1,0,1,win,20200313_p8j8,3,0,0,,,,0,,1,,,,,,0,0,,,,,3,2020,2019-20,div1,Southwestern,southwesterncommunitycollege,ryankaytvqm,Ryan Kay
+Mar 15,home,Iowa Lakes,,,,,1,win,,,,,,,,,,,,,,,,,,,,,,,2020,2019-20,div1,Southwestern,southwesterncommunitycollege,ryankaytvqm,Ryan Kay
+Mar 15,home,Iowa Lakes,,,,,1,win,,,,,,,,,,,,,,,,,,,,,,,2020,2019-20,div1,Southwestern,southwesterncommunitycollege,ryankaytvqm,Ryan Kay
+Mar 15,home,Iowa Lakes,,,,,1,win,,,,,,,,,,,,,,,,,,,,,,,2020,2019-20,div1,Southwestern,southwesterncommunitycollege,ryankaytvqm,Ryan Kay
+Mar 15,home,Iowa Lakes,,,,,1,win,,,,,,,,,,,,,,,,,,,,,,,2020,2019-20,div1,Southwestern,southwesterncommunitycollege,ryankaytvqm,Ryan Kay
+Mar 21,home,Hesston,,,,,1,win,,,,,,,,,,,,,,,,,,,,,,,2020,2019-20,div1,Southwestern,southwesterncommunitycollege,ryankaytvqm,Ryan Kay
+Mar 21,home,Hesston,,,,,1,win,,,,,,,,,,,,,,,,,,,,,,,2020,2019-20,div1,Southwestern,southwesterncommunitycollege,ryankaytvqm,Ryan Kay
+Mar 21,home,Hesston,,,,,1,win,,,,,,,,,,,,,,,,,,,,,,,2020,2019-20,div1,Southwestern,southwesterncommunitycollege,ryankaytvqm,Ryan Kay
+Mar 21,home,Hesston,,,,,1,win,,,,,,,,,,,,,,,,,,,,,,,2020,2019-20,div1,Southwestern,southwesterncommunitycollege,ryankaytvqm,Ryan Kay
+Mar 22,home,Hesston,,,,,1,win,,,,,,,,,,,,,,,,,,,,,,,2020,2019-20,div1,Southwestern,southwesterncommunitycollege,ryankaytvqm,Ryan Kay
+Mar 22,home,Hesston,,,,,1,win,,,,,,,,,,,,,,,,,,,,,,,2020,2019-20,div1,Southwestern,southwesterncommunitycollege,ryankaytvqm,Ryan Kay
+Mar 22,home,Hesston,,,,,1,win,,,,,,,,,,,,,,,,,,,,,,,2020,2019-20,div1,Southwestern,southwesterncommunitycollege,ryankaytvqm,Ryan Kay
+Mar 22,home,Hesston,,,,,1,win,,,,,,,,,,,,,,,,,,,,,,,2020,2019-20,div1,Southwestern,southwesterncommunitycollege,ryankaytvqm,Ryan Kay
+Mar 24,home,Iowa Central,,,,,1,win,,,,,,,,,,,,,,,,,,,,,,,2020,2019-20,div1,Southwestern,southwesterncommunitycollege,ryankaytvqm,Ryan Kay
+Mar 25,home,Des Moines Area,,,,,1,win,,,,,,,,,,,,,,,,,,,,,,,2020,2019-20,div1,Southwestern,southwesterncommunitycollege,ryankaytvqm,Ryan Kay
+Mar 28,home,Iowa Western,,,,,1,win,,,,,,,,,,,,,,,,,,,,,,,2020,2019-20,div1,Southwestern,southwesterncommunitycollege,ryankaytvqm,Ryan Kay
+Mar 28,home,Iowa Western,,,,,1,win,,,,,,,,,,,,,,,,,,,,,,,2020,2019-20,div1,Southwestern,southwesterncommunitycollege,ryankaytvqm,Ryan Kay
+Mar 28,home,Iowa Western,,,,,1,win,,,,,,,,,,,,,,,,,,,,,,,2020,2019-20,div1,Southwestern,southwesterncommunitycollege,ryankaytvqm,Ryan Kay
+Mar 28,home,Iowa Western,,,,,1,win,,,,,,,,,,,,,,,,,,,,,,,2020,2019-20,div1,Southwestern,southwesterncommunitycollege,ryankaytvqm,Ryan Kay
+Mar 29,home,Iowa Western,,,,,1,win,,,,,,,,,,,,,,,,,,,,,,,2020,2019-20,div1,Southwestern,southwesterncommunitycollege,ryankaytvqm,Ryan Kay
+Mar 29,home,Iowa Western,,,,,1,win,,,,,,,,,,,,,,,,,,,,,,,2020,2019-20,div1,Southwestern,southwesterncommunitycollege,ryankaytvqm,Ryan Kay
+Mar 29,home,Iowa Western,,,,,1,win,,,,,,,,,,,,,,,,,,,,,,,2020,2019-20,div1,Southwestern,southwesterncommunitycollege,ryankaytvqm,Ryan Kay
+Mar 29,home,Iowa Western,,,,,1,win,,,,,,,,,,,,,,,,,,,,,,,2020,2019-20,div1,Southwestern,southwesterncommunitycollege,ryankaytvqm,Ryan Kay
+Apr 4,home,Marshalltown,,,,,1,win,,,,,,,,,,,,,,,,,,,,,,,2020,2019-20,div1,Southwestern,southwesterncommunitycollege,ryankaytvqm,Ryan Kay
+Apr 4,home,Marshalltown,,,,,1,win,,,,,,,,,,,,,,,,,,,,,,,2020,2019-20,div1,Southwestern,southwesterncommunitycollege,ryankaytvqm,Ryan Kay
+Apr 4,home,Marshalltown,,,,,1,win,,,,,,,,,,,,,,,,,,,,,,,2020,2019-20,div1,Southwestern,southwesterncommunitycollege,ryankaytvqm,Ryan Kay
+Apr 4,home,Marshalltown,,,,,1,win,,,,,,,,,,,,,,,,,,,,,,,2020,2019-20,div1,Southwestern,southwesterncommunitycollege,ryankaytvqm,Ryan Kay
+Apr 5,home,Marshalltown,,,,,1,win,,,,,,,,,,,,,,,,,,,,,,,2020,2019-20,div1,Southwestern,southwesterncommunitycollege,ryankaytvqm,Ryan Kay
+Apr 5,home,Marshalltown,,,,,1,win,,,,,,,,,,,,,,,,,,,,,,,2020,2019-20,div1,Southwestern,southwesterncommunitycollege,ryankaytvqm,Ryan Kay
+Apr 5,home,Marshalltown,,,,,1,win,,,,,,,,,,,,,,,,,,,,,,,2020,2019-20,div1,Southwestern,southwesterncommunitycollege,ryankaytvqm,Ryan Kay
+Apr 5,home,Marshalltown,,,,,1,win,,,,,,,,,,,,,,,,,,,,,,,2020,2019-20,div1,Southwestern,southwesterncommunitycollege,ryankaytvqm,Ryan Kay
+Apr 10,home,Indian Hills,,,,,1,win,,,,,,,,,,,,,,,,,,,,,,,2020,2019-20,div1,Southwestern,southwesterncommunitycollege,ryankaytvqm,Ryan Kay
+Apr 10,home,Indian Hills,,,,,1,win,,,,,,,,,,,,,,,,,,,,,,,2020,2019-20,div1,Southwestern,southwesterncommunitycollege,ryankaytvqm,Ryan Kay
+Apr 10,home,Indian Hills,,,,,1,win,,,,,,,,,,,,,,,,,,,,,,,2020,2019-20,div1,Southwestern,southwesterncommunitycollege,ryankaytvqm,Ryan Kay
+Apr 10,home,Indian Hills,,,,,1,win,,,,,,,,,,,,,,,,,,,,,,,2020,2019-20,div1,Southwestern,southwesterncommunitycollege,ryankaytvqm,Ryan Kay
+Apr 11,home,Indian Hills,,,,,1,win,,,,,,,,,,,,,,,,,,,,,,,2020,2019-20,div1,Southwestern,southwesterncommunitycollege,ryankaytvqm,Ryan Kay
+Apr 11,home,Indian Hills,,,,,1,win,,,,,,,,,,,,,,,,,,,,,,,2020,2019-20,div1,Southwestern,southwesterncommunitycollege,ryankaytvqm,Ryan Kay
+Apr 11,home,Indian Hills,,,,,1,win,,,,,,,,,,,,,,,,,,,,,,,2020,2019-20,div1,Southwestern,southwesterncommunitycollege,ryankaytvqm,Ryan Kay
+Apr 11,home,Indian Hills,,,,,1,win,,,,,,,,,,,,,,,,,,,,,,,2020,2019-20,div1,Southwestern,southwesterncommunitycollege,ryankaytvqm,Ryan Kay
+Apr 14,home,Iowa Central,,,,,1,win,,,,,,,,,,,,,,,,,,,,,,,2020,2019-20,div1,Southwestern,southwesterncommunitycollege,ryankaytvqm,Ryan Kay
+Apr 18,home,Iowa Western,,,,,1,win,,,,,,,,,,,,,,,,,,,,,,,2020,2019-20,div1,Southwestern,southwesterncommunitycollege,ryankaytvqm,Ryan Kay
+Apr 18,home,Iowa Western,,,,,1,win,,,,,,,,,,,,,,,,,,,,,,,2020,2019-20,div1,Southwestern,southwesterncommunitycollege,ryankaytvqm,Ryan Kay
+Apr 18,home,Iowa Western,,,,,1,win,,,,,,,,,,,,,,,,,,,,,,,2020,2019-20,div1,Southwestern,southwesterncommunitycollege,ryankaytvqm,Ryan Kay
+Apr 18,home,Iowa Western,,,,,1,win,,,,,,,,,,,,,,,,,,,,,,,2020,2019-20,div1,Southwestern,southwesterncommunitycollege,ryankaytvqm,Ryan Kay
+Apr 19,home,Iowa Western,,,,,1,win,,,,,,,,,,,,,,,,,,,,,,,2020,2019-20,div1,Southwestern,southwesterncommunitycollege,ryankaytvqm,Ryan Kay
+Apr 19,home,Iowa Western,,,,,1,win,,,,,,,,,,,,,,,,,,,,,,,2020,2019-20,div1,Southwestern,southwesterncommunitycollege,ryankaytvqm,Ryan Kay
+Apr 19,home,Iowa Western,,,,,1,win,,,,,,,,,,,,,,,,,,,,,,,2020,2019-20,div1,Southwestern,southwesterncommunitycollege,ryankaytvqm,Ryan Kay
+Apr 19,home,Iowa Western,,,,,1,win,,,,,,,,,,,,,,,,,,,,,,,2020,2019-20,div1,Southwestern,southwesterncommunitycollege,ryankaytvqm,Ryan Kay
+Apr 21,home,North Central Missouri,,,,,1,win,,,,,,,,,,,,,,,,,,,,,,,2020,2019-20,div1,Southwestern,southwesterncommunitycollege,ryankaytvqm,Ryan Kay
+Apr 21,home,North Central Missouri,,,,,1,win,,,,,,,,,,,,,,,,,,,,,,,2020,2019-20,div1,Southwestern,southwesterncommunitycollege,ryankaytvqm,Ryan Kay
+Apr 21,home,North Central Missouri,,,,,1,win,,,,,,,,,,,,,,,,,,,,,,,2020,2019-20,div1,Southwestern,southwesterncommunitycollege,ryankaytvqm,Ryan Kay
+Apr 21,home,North Central Missouri,,,,,1,win,,,,,,,,,,,,,,,,,,,,,,,2020,2019-20,div1,Southwestern,southwesterncommunitycollege,ryankaytvqm,Ryan Kay
+Apr 25,home,Indian Hills,,,,,1,win,,,,,,,,,,,,,,,,,,,,,,,2020,2019-20,div1,Southwestern,southwesterncommunitycollege,ryankaytvqm,Ryan Kay
+Apr 25,home,Indian Hills,,,,,1,win,,,,,,,,,,,,,,,,,,,,,,,2020,2019-20,div1,Southwestern,southwesterncommunitycollege,ryankaytvqm,Ryan Kay
+Apr 25,home,Indian Hills,,,,,1,win,,,,,,,,,,,,,,,,,,,,,,,2020,2019-20,div1,Southwestern,southwesterncommunitycollege,ryankaytvqm,Ryan Kay
+Apr 25,home,Indian Hills,,,,,1,win,,,,,,,,,,,,,,,,,,,,,,,2020,2019-20,div1,Southwestern,southwesterncommunitycollege,ryankaytvqm,Ryan Kay
+Apr 26,home,Indian Hills,,,,,1,win,,,,,,,,,,,,,,,,,,,,,,,2020,2019-20,div1,Southwestern,southwesterncommunitycollege,ryankaytvqm,Ryan Kay
+Apr 26,home,Indian Hills,,,,,1,win,,,,,,,,,,,,,,,,,,,,,,,2020,2019-20,div1,Southwestern,southwesterncommunitycollege,ryankaytvqm,Ryan Kay
+Apr 26,home,Indian Hills,,,,,1,win,,,,,,,,,,,,,,,,,,,,,,,2020,2019-20,div1,Southwestern,southwesterncommunitycollege,ryankaytvqm,Ryan Kay
+Apr 26,home,Indian Hills,,,,,1,win,,,,,,,,,,,,,,,,,,,,,,,2020,2019-20,div1,Southwestern,southwesterncommunitycollege,ryankaytvqm,Ryan Kay
+Apr 28,home,Des Moines Area,,,,,1,win,,,,,,,,,,,,,,,,,,,,,,,2020,2019-20,div1,Southwestern,southwesterncommunitycollege,ryankaytvqm,Ryan Kay
+May 2,home,Marshalltown,,,,,1,win,,,,,,,,,,,,,,,,,,,,,,,2020,2019-20,div1,Southwestern,southwesterncommunitycollege,ryankaytvqm,Ryan Kay
+May 2,home,Marshalltown,,,,,1,win,,,,,,,,,,,,,,,,,,,,,,,2020,2019-20,div1,Southwestern,southwesterncommunitycollege,ryankaytvqm,Ryan Kay
+May 2,home,Marshalltown,,,,,1,win,,,,,,,,,,,,,,,,,,,,,,,2020,2019-20,div1,Southwestern,southwesterncommunitycollege,ryankaytvqm,Ryan Kay
+May 2,home,Marshalltown,,,,,1,win,,,,,,,,,,,,,,,,,,,,,,,2020,2019-20,div1,Southwestern,southwesterncommunitycollege,ryankaytvqm,Ryan Kay
+May 3,home,Marshalltown,,,,,1,win,,,,,,,,,,,,,,,,,,,,,,,2020,2019-20,div1,Southwestern,southwesterncommunitycollege,ryankaytvqm,Ryan Kay
+May 3,home,Marshalltown,,,,,1,win,,,,,,,,,,,,,,,,,,,,,,,2020,2019-20,div1,Southwestern,southwesterncommunitycollege,ryankaytvqm,Ryan Kay
+May 3,home,Marshalltown,,,,,1,win,,,,,,,,,,,,,,,,,,,,,,,2020,2019-20,div1,Southwestern,southwesterncommunitycollege,ryankaytvqm,Ryan Kay
+May 3,home,Marshalltown,,,,,1,win,,,,,,,,,,,,,,,,,,,,,,,2020,2019-20,div1,Southwestern,southwesterncommunitycollege,ryankaytvqm,Ryan Kay
+May 5,home,North Central Missouri,,,,,1,win,,,,,,,,,,,,,,,,,,,,,,,2020,2019-20,div1,Southwestern,southwesterncommunitycollege,ryankaytvqm,Ryan Kay
