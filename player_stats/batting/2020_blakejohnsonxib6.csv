@@ -1,45 +1,91 @@
-date,location,opponent,result,score,team_score,opp_score,game_score_diff_x,game_win_loss_x,game_id_x,AB,R,H,2B,3B,HR,RBI,BB,K,SB,CS,game_score_diff_y,game_win_loss_y,game_id_y,HBP,SF,SH,TB,XBH,HDP,GO,FO,GO/FO,PA,season,njcaa_season,njcaa_division,team,team_id,player_id,player_name
-Oct 16  #,home,CCBC Dundalk,,,,,,,,,,,,,,,,,,,2.0,win,,,,,,,,,,,,2020,2019-20,div1,Harford,harfordcommunitycollege,blakejohnsonxib6,Blake Johnson
-Oct 23  #,home,CCBC Dundalk,,,,,,,,,,,,,,,,,,,2.0,win,,,,,,,,,,,,2020,2019-20,div1,Harford,harfordcommunitycollege,blakejohnsonxib6,Blake Johnson
-Mar 1,home,Lackawanna,W,6-5,6,5,1,win,,,,,,,,,,,,,1.0,win,,,,,,,,,,,,2020,2019-20,div1,Harford,harfordcommunitycollege,blakejohnsonxib6,Blake Johnson
-Mar 1,home,Lackawanna,L,5-2,5,2,3,win,,,,,,,,,,,,,3.0,win,,,,,,,,,,,,2020,2019-20,div1,Harford,harfordcommunitycollege,blakejohnsonxib6,Blake Johnson
-Mar 2,home,Mercer County,W,11-2,11,2,9,win,,,,,,,,,,,,,9.0,win,,,,,,,,,,,,2020,2019-20,div1,Harford,harfordcommunitycollege,blakejohnsonxib6,Blake Johnson
-Mar 2,home,Mercer County,W,6-5,6,5,1,win,,,,,,,,,,,,,1.0,win,,,,,,,,,,,,2020,2019-20,div1,Harford,harfordcommunitycollege,blakejohnsonxib6,Blake Johnson
-Mar 3,home,Anne Arundel,W,9-1,9,1,8,win,,,,,,,,,,,,,8.0,win,,,,,,,,,,,,2020,2019-20,div1,Harford,harfordcommunitycollege,blakejohnsonxib6,Blake Johnson
-Mar 3,home,Anne Arundel,W,14-2,14,2,12,win,20200303_jawl,0,0,0,,,,0,,,,,12.0,win,20200303_jawl,,,,0,0,,,,,0,2020,2019-20,div1,Harford,harfordcommunitycollege,blakejohnsonxib6,Blake Johnson
-Mar 7,home,Garrett,L,13-7,13,7,6,win,20200307_wwt3,0,0,0,,,,0,,,,,6.0,win,20200307_wwt3,,,,0,0,,,,,0,2020,2019-20,div1,Harford,harfordcommunitycollege,blakejohnsonxib6,Blake Johnson
-Mar 7,home,Garrett,W,3-2,3,2,1,win,,,,,,,,,,,,,1.0,win,,,,,,,,,,,,2020,2019-20,div1,Harford,harfordcommunitycollege,blakejohnsonxib6,Blake Johnson
-Mar 8,home,Monroe College,W,7-6,7,6,1,win,,,,,,,,,,,,,1.0,win,,,,,,,,,,,,2020,2019-20,div1,Harford,harfordcommunitycollege,blakejohnsonxib6,Blake Johnson
-Mar 8,home,Monroe College,L,5-3,5,3,2,win,,,,,,,,,,,,,2.0,win,,,,,,,,,,,,2020,2019-20,div1,Harford,harfordcommunitycollege,blakejohnsonxib6,Blake Johnson
-Mar 13,home,Monroe College,,,,,2,win,,,,,,,,,,,,,2.0,win,,,,,,,,,,,,2020,2019-20,div1,Harford,harfordcommunitycollege,blakejohnsonxib6,Blake Johnson
-Mar 13,home,Monroe College,,,,,2,win,,,,,,,,,,,,,2.0,win,,,,,,,,,,,,2020,2019-20,div1,Harford,harfordcommunitycollege,blakejohnsonxib6,Blake Johnson
-Mar 13,home,Monroe College,,,,,2,win,,,,,,,,,,,,,2.0,win,,,,,,,,,,,,2020,2019-20,div1,Harford,harfordcommunitycollege,blakejohnsonxib6,Blake Johnson
-Mar 13,home,Monroe College,,,,,2,win,,,,,,,,,,,,,2.0,win,,,,,,,,,,,,2020,2019-20,div1,Harford,harfordcommunitycollege,blakejohnsonxib6,Blake Johnson
-Mar 14,home,Allegany Maryland,,,,,2,win,,,,,,,,,,,,,2.0,win,,,,,,,,,,,,2020,2019-20,div1,Harford,harfordcommunitycollege,blakejohnsonxib6,Blake Johnson
-Mar 14,home,Allegany Maryland,,,,,2,win,,,,,,,,,,,,,2.0,win,,,,,,,,,,,,2020,2019-20,div1,Harford,harfordcommunitycollege,blakejohnsonxib6,Blake Johnson
-Mar 14,home,Allegany Maryland,,,,,2,win,,,,,,,,,,,,,2.0,win,,,,,,,,,,,,2020,2019-20,div1,Harford,harfordcommunitycollege,blakejohnsonxib6,Blake Johnson
-Mar 14,home,Allegany Maryland,,,,,2,win,,,,,,,,,,,,,2.0,win,,,,,,,,,,,,2020,2019-20,div1,Harford,harfordcommunitycollege,blakejohnsonxib6,Blake Johnson
-Mar 19,home,CCBC Catonsville,,,,,2,win,,,,,,,,,,,,,2.0,win,,,,,,,,,,,,2020,2019-20,div1,Harford,harfordcommunitycollege,blakejohnsonxib6,Blake Johnson
-Mar 20,home,Erie,,,,,2,win,,,,,,,,,,,,,2.0,win,,,,,,,,,,,,2020,2019-20,div1,Harford,harfordcommunitycollege,blakejohnsonxib6,Blake Johnson
-Mar 21,home,Hagerstown,,,,,2,win,,,,,,,,,,,,,2.0,win,,,,,,,,,,,,2020,2019-20,div1,Harford,harfordcommunitycollege,blakejohnsonxib6,Blake Johnson
-Mar 21,home,Hagerstown,,,,,2,win,,,,,,,,,,,,,2.0,win,,,,,,,,,,,,2020,2019-20,div1,Harford,harfordcommunitycollege,blakejohnsonxib6,Blake Johnson
-Mar 21,home,Hagerstown,,,,,2,win,,,,,,,,,,,,,2.0,win,,,,,,,,,,,,2020,2019-20,div1,Harford,harfordcommunitycollege,blakejohnsonxib6,Blake Johnson
-Mar 21,home,Hagerstown,,,,,2,win,,,,,,,,,,,,,2.0,win,,,,,,,,,,,,2020,2019-20,div1,Harford,harfordcommunitycollege,blakejohnsonxib6,Blake Johnson
-Mar 27,home,Rockland,,,,,2,win,,,,,,,,,,,,,2.0,win,,,,,,,,,,,,2020,2019-20,div1,Harford,harfordcommunitycollege,blakejohnsonxib6,Blake Johnson
-Mar 27,home,Rockland,,,,,2,win,,,,,,,,,,,,,2.0,win,,,,,,,,,,,,2020,2019-20,div1,Harford,harfordcommunitycollege,blakejohnsonxib6,Blake Johnson
-Mar 27,home,Rockland,,,,,2,win,,,,,,,,,,,,,2.0,win,,,,,,,,,,,,2020,2019-20,div1,Harford,harfordcommunitycollege,blakejohnsonxib6,Blake Johnson
-Mar 27,home,Rockland,,,,,2,win,,,,,,,,,,,,,2.0,win,,,,,,,,,,,,2020,2019-20,div1,Harford,harfordcommunitycollege,blakejohnsonxib6,Blake Johnson
-Apr 7,home,Frederick,,,,,2,win,,,,,,,,,,,,,2.0,win,,,,,,,,,,,,2020,2019-20,div1,Harford,harfordcommunitycollege,blakejohnsonxib6,Blake Johnson
-Apr 7,home,Frederick,,,,,2,win,,,,,,,,,,,,,2.0,win,,,,,,,,,,,,2020,2019-20,div1,Harford,harfordcommunitycollege,blakejohnsonxib6,Blake Johnson
-Apr 7,home,Frederick,,,,,2,win,,,,,,,,,,,,,2.0,win,,,,,,,,,,,,2020,2019-20,div1,Harford,harfordcommunitycollege,blakejohnsonxib6,Blake Johnson
-Apr 7,home,Frederick,,,,,2,win,,,,,,,,,,,,,2.0,win,,,,,,,,,,,,2020,2019-20,div1,Harford,harfordcommunitycollege,blakejohnsonxib6,Blake Johnson
-Apr 14,home,Montgomery,,,,,2,win,,,,,,,,,,,,,2.0,win,,,,,,,,,,,,2020,2019-20,div1,Harford,harfordcommunitycollege,blakejohnsonxib6,Blake Johnson
-Apr 14,home,Montgomery,,,,,2,win,,,,,,,,,,,,,2.0,win,,,,,,,,,,,,2020,2019-20,div1,Harford,harfordcommunitycollege,blakejohnsonxib6,Blake Johnson
-Apr 14,home,Montgomery,,,,,2,win,,,,,,,,,,,,,2.0,win,,,,,,,,,,,,2020,2019-20,div1,Harford,harfordcommunitycollege,blakejohnsonxib6,Blake Johnson
-Apr 14,home,Montgomery,,,,,2,win,,,,,,,,,,,,,2.0,win,,,,,,,,,,,,2020,2019-20,div1,Harford,harfordcommunitycollege,blakejohnsonxib6,Blake Johnson
-Apr 22,home,CCBC Dundalk,,,,,2,win,,,,,,,,,,,,,2.0,win,,,,,,,,,,,,2020,2019-20,div1,Harford,harfordcommunitycollege,blakejohnsonxib6,Blake Johnson
-Apr 26,home,Morris,,,,,2,win,,,,,,,,,,,,,2.0,win,,,,,,,,,,,,2020,2019-20,div1,Harford,harfordcommunitycollege,blakejohnsonxib6,Blake Johnson
-Apr 26,home,Morris,,,,,2,win,,,,,,,,,,,,,2.0,win,,,,,,,,,,,,2020,2019-20,div1,Harford,harfordcommunitycollege,blakejohnsonxib6,Blake Johnson
-Apr 26,home,Morris,,,,,2,win,,,,,,,,,,,,,2.0,win,,,,,,,,,,,,2020,2019-20,div1,Harford,harfordcommunitycollege,blakejohnsonxib6,Blake Johnson
-Apr 26,home,Morris,,,,,2,win,,,,,,,,,,,,,2.0,win,,,,,,,,,,,,2020,2019-20,div1,Harford,harfordcommunitycollege,blakejohnsonxib6,Blake Johnson
-May 5,home,RCSJ Gloucester,,,,,2,win,,,,,,,,,,,,,2.0,win,,,,,,,,,,,,2020,2019-20,div1,Harford,harfordcommunitycollege,blakejohnsonxib6,Blake Johnson
+date,location,opponent,result,score,team_score,opp_score,game_score_diff,game_win_loss,game_id,AB,R,H,2B,3B,HR,RBI,BB,K,SB,CS,HBP,SF,SH,TB,XBH,HDP,GO,FO,GO/FO,PA,season,njcaa_season,njcaa_division,team,team_id,player_id,player_name
+Feb 15,home,USC Sumter,W,5-3,5,3,2,win,,,,,,,,,,,,,,,,,,,,,,,2020,2019-20,div1,Harford,harfordcommunitycollege,blakejohnsonxib6,Blake Johnson
+Feb 15,home,USC Sumter,W,10-2,10,2,8,win,20200215_uvyg,0,0,0,,,,0,,,,,,,,0,0,,,,,0,2020,2019-20,div1,Harford,harfordcommunitycollege,blakejohnsonxib6,Blake Johnson
+Feb 16,home,USC Sumter,L,7-4,7,4,3,win,,,,,,,,,,,,,,,,,,,,,,,2020,2019-20,div1,Harford,harfordcommunitycollege,blakejohnsonxib6,Blake Johnson
+Feb 16,home,USC Sumter,,,,,3,win,,,,,,,,,,,,,,,,,,,,,,,2020,2019-20,div1,Harford,harfordcommunitycollege,blakejohnsonxib6,Blake Johnson
+Mar 1,home,Lackawanna,W,6-5,6,5,1,win,,,,,,,,,,,,,,,,,,,,,,,2020,2019-20,div1,Harford,harfordcommunitycollege,blakejohnsonxib6,Blake Johnson
+Mar 1,home,Lackawanna,L,5-2,5,2,3,win,,,,,,,,,,,,,,,,,,,,,,,2020,2019-20,div1,Harford,harfordcommunitycollege,blakejohnsonxib6,Blake Johnson
+Mar 2,home,Mercer County,W,11-2,11,2,9,win,,,,,,,,,,,,,,,,,,,,,,,2020,2019-20,div1,Harford,harfordcommunitycollege,blakejohnsonxib6,Blake Johnson
+Mar 2,home,Mercer County,W,6-5,6,5,1,win,,,,,,,,,,,,,,,,,,,,,,,2020,2019-20,div1,Harford,harfordcommunitycollege,blakejohnsonxib6,Blake Johnson
+Mar 3,home,Anne Arundel,W,9-1,9,1,8,win,,,,,,,,,,,,,,,,,,,,,,,2020,2019-20,div1,Harford,harfordcommunitycollege,blakejohnsonxib6,Blake Johnson
+Mar 3,home,Anne Arundel,W,14-2,14,2,12,win,20200303_jawl,0,0,0,,,,0,,,,,,,,0,0,,,,,0,2020,2019-20,div1,Harford,harfordcommunitycollege,blakejohnsonxib6,Blake Johnson
+Mar 7,home,Garrett,L,13-7,13,7,6,win,20200307_wwt3,0,0,0,,,,0,,,,,,,,0,0,,,,,0,2020,2019-20,div1,Harford,harfordcommunitycollege,blakejohnsonxib6,Blake Johnson
+Mar 7,home,Garrett,W,3-2,3,2,1,win,,,,,,,,,,,,,,,,,,,,,,,2020,2019-20,div1,Harford,harfordcommunitycollege,blakejohnsonxib6,Blake Johnson
+Mar 8,home,CCBC Essex,,,,,1,win,,,,,,,,,,,,,,,,,,,,,,,2020,2019-20,div1,Harford,harfordcommunitycollege,blakejohnsonxib6,Blake Johnson
+Mar 8,home,CCBC Essex,,,,,1,win,,,,,,,,,,,,,,,,,,,,,,,2020,2019-20,div1,Harford,harfordcommunitycollege,blakejohnsonxib6,Blake Johnson
+Mar 8,home,CCBC Essex,,,,,1,win,,,,,,,,,,,,,,,,,,,,,,,2020,2019-20,div1,Harford,harfordcommunitycollege,blakejohnsonxib6,Blake Johnson
+Mar 8,home,CCBC Essex,,,,,1,win,,,,,,,,,,,,,,,,,,,,,,,2020,2019-20,div1,Harford,harfordcommunitycollege,blakejohnsonxib6,Blake Johnson
+Mar 8,home,Monroe College,W,7-6,7,6,1,win,,,,,,,,,,,,,,,,,,,,,,,2020,2019-20,div1,Harford,harfordcommunitycollege,blakejohnsonxib6,Blake Johnson
+Mar 8,home,Monroe College,L,5-3,5,3,2,win,,,,,,,,,,,,,,,,,,,,,,,2020,2019-20,div1,Harford,harfordcommunitycollege,blakejohnsonxib6,Blake Johnson
+Mar 13,home,Monroe College,,,,,2,win,,,,,,,,,,,,,,,,,,,,,,,2020,2019-20,div1,Harford,harfordcommunitycollege,blakejohnsonxib6,Blake Johnson
+Mar 13,home,Monroe College,,,,,2,win,,,,,,,,,,,,,,,,,,,,,,,2020,2019-20,div1,Harford,harfordcommunitycollege,blakejohnsonxib6,Blake Johnson
+Mar 13,home,Monroe College,,,,,2,win,,,,,,,,,,,,,,,,,,,,,,,2020,2019-20,div1,Harford,harfordcommunitycollege,blakejohnsonxib6,Blake Johnson
+Mar 13,home,Monroe College,,,,,2,win,,,,,,,,,,,,,,,,,,,,,,,2020,2019-20,div1,Harford,harfordcommunitycollege,blakejohnsonxib6,Blake Johnson
+Mar 14,home,Allegany Maryland,,,,,2,win,,,,,,,,,,,,,,,,,,,,,,,2020,2019-20,div1,Harford,harfordcommunitycollege,blakejohnsonxib6,Blake Johnson
+Mar 14,home,Allegany Maryland,,,,,2,win,,,,,,,,,,,,,,,,,,,,,,,2020,2019-20,div1,Harford,harfordcommunitycollege,blakejohnsonxib6,Blake Johnson
+Mar 14,home,Allegany Maryland,,,,,2,win,,,,,,,,,,,,,,,,,,,,,,,2020,2019-20,div1,Harford,harfordcommunitycollege,blakejohnsonxib6,Blake Johnson
+Mar 14,home,Allegany Maryland,,,,,2,win,,,,,,,,,,,,,,,,,,,,,,,2020,2019-20,div1,Harford,harfordcommunitycollege,blakejohnsonxib6,Blake Johnson
+Mar 17,home,CCBC Catonsville,,,,,2,win,,,,,,,,,,,,,,,,,,,,,,,2020,2019-20,div1,Harford,harfordcommunitycollege,blakejohnsonxib6,Blake Johnson
+Mar 18,home,Monroe College,,,,,2,win,,,,,,,,,,,,,,,,,,,,,,,2020,2019-20,div1,Harford,harfordcommunitycollege,blakejohnsonxib6,Blake Johnson
+Mar 18,home,Monroe College,,,,,2,win,,,,,,,,,,,,,,,,,,,,,,,2020,2019-20,div1,Harford,harfordcommunitycollege,blakejohnsonxib6,Blake Johnson
+Mar 18,home,Monroe College,,,,,2,win,,,,,,,,,,,,,,,,,,,,,,,2020,2019-20,div1,Harford,harfordcommunitycollege,blakejohnsonxib6,Blake Johnson
+Mar 18,home,Monroe College,,,,,2,win,,,,,,,,,,,,,,,,,,,,,,,2020,2019-20,div1,Harford,harfordcommunitycollege,blakejohnsonxib6,Blake Johnson
+Mar 19,home,CCBC Catonsville,,,,,2,win,,,,,,,,,,,,,,,,,,,,,,,2020,2019-20,div1,Harford,harfordcommunitycollege,blakejohnsonxib6,Blake Johnson
+Mar 20,home,Erie,,,,,2,win,,,,,,,,,,,,,,,,,,,,,,,2020,2019-20,div1,Harford,harfordcommunitycollege,blakejohnsonxib6,Blake Johnson
+Mar 21,home,Hagerstown,,,,,2,win,,,,,,,,,,,,,,,,,,,,,,,2020,2019-20,div1,Harford,harfordcommunitycollege,blakejohnsonxib6,Blake Johnson
+Mar 21,home,Hagerstown,,,,,2,win,,,,,,,,,,,,,,,,,,,,,,,2020,2019-20,div1,Harford,harfordcommunitycollege,blakejohnsonxib6,Blake Johnson
+Mar 21,home,Hagerstown,,,,,2,win,,,,,,,,,,,,,,,,,,,,,,,2020,2019-20,div1,Harford,harfordcommunitycollege,blakejohnsonxib6,Blake Johnson
+Mar 21,home,Hagerstown,,,,,2,win,,,,,,,,,,,,,,,,,,,,,,,2020,2019-20,div1,Harford,harfordcommunitycollege,blakejohnsonxib6,Blake Johnson
+Mar 22,home,Prince George's,,,,,2,win,,,,,,,,,,,,,,,,,,,,,,,2020,2019-20,div1,Harford,harfordcommunitycollege,blakejohnsonxib6,Blake Johnson
+Mar 22,home,Prince George's,,,,,2,win,,,,,,,,,,,,,,,,,,,,,,,2020,2019-20,div1,Harford,harfordcommunitycollege,blakejohnsonxib6,Blake Johnson
+Mar 22,home,Prince George's,,,,,2,win,,,,,,,,,,,,,,,,,,,,,,,2020,2019-20,div1,Harford,harfordcommunitycollege,blakejohnsonxib6,Blake Johnson
+Mar 22,home,Prince George's,,,,,2,win,,,,,,,,,,,,,,,,,,,,,,,2020,2019-20,div1,Harford,harfordcommunitycollege,blakejohnsonxib6,Blake Johnson
+Mar 27,home,Rockland,,,,,2,win,,,,,,,,,,,,,,,,,,,,,,,2020,2019-20,div1,Harford,harfordcommunitycollege,blakejohnsonxib6,Blake Johnson
+Mar 27,home,Rockland,,,,,2,win,,,,,,,,,,,,,,,,,,,,,,,2020,2019-20,div1,Harford,harfordcommunitycollege,blakejohnsonxib6,Blake Johnson
+Mar 27,home,Rockland,,,,,2,win,,,,,,,,,,,,,,,,,,,,,,,2020,2019-20,div1,Harford,harfordcommunitycollege,blakejohnsonxib6,Blake Johnson
+Mar 27,home,Rockland,,,,,2,win,,,,,,,,,,,,,,,,,,,,,,,2020,2019-20,div1,Harford,harfordcommunitycollege,blakejohnsonxib6,Blake Johnson
+Mar 29,home,Cecil,,,,,2,win,,,,,,,,,,,,,,,,,,,,,,,2020,2019-20,div1,Harford,harfordcommunitycollege,blakejohnsonxib6,Blake Johnson
+Mar 29,home,Cecil,,,,,2,win,,,,,,,,,,,,,,,,,,,,,,,2020,2019-20,div1,Harford,harfordcommunitycollege,blakejohnsonxib6,Blake Johnson
+Mar 29,home,Cecil,,,,,2,win,,,,,,,,,,,,,,,,,,,,,,,2020,2019-20,div1,Harford,harfordcommunitycollege,blakejohnsonxib6,Blake Johnson
+Mar 29,home,Cecil,,,,,2,win,,,,,,,,,,,,,,,,,,,,,,,2020,2019-20,div1,Harford,harfordcommunitycollege,blakejohnsonxib6,Blake Johnson
+Mar 31,home,RCSJ Gloucester,,,,,2,win,,,,,,,,,,,,,,,,,,,,,,,2020,2019-20,div1,Harford,harfordcommunitycollege,blakejohnsonxib6,Blake Johnson
+Apr 4,home,Chesapeake,,,,,2,win,,,,,,,,,,,,,,,,,,,,,,,2020,2019-20,div1,Harford,harfordcommunitycollege,blakejohnsonxib6,Blake Johnson
+Apr 4,home,Chesapeake,,,,,2,win,,,,,,,,,,,,,,,,,,,,,,,2020,2019-20,div1,Harford,harfordcommunitycollege,blakejohnsonxib6,Blake Johnson
+Apr 4,home,Chesapeake,,,,,2,win,,,,,,,,,,,,,,,,,,,,,,,2020,2019-20,div1,Harford,harfordcommunitycollege,blakejohnsonxib6,Blake Johnson
+Apr 4,home,Chesapeake,,,,,2,win,,,,,,,,,,,,,,,,,,,,,,,2020,2019-20,div1,Harford,harfordcommunitycollege,blakejohnsonxib6,Blake Johnson
+Apr 7,home,Frederick,,,,,2,win,,,,,,,,,,,,,,,,,,,,,,,2020,2019-20,div1,Harford,harfordcommunitycollege,blakejohnsonxib6,Blake Johnson
+Apr 7,home,Frederick,,,,,2,win,,,,,,,,,,,,,,,,,,,,,,,2020,2019-20,div1,Harford,harfordcommunitycollege,blakejohnsonxib6,Blake Johnson
+Apr 7,home,Frederick,,,,,2,win,,,,,,,,,,,,,,,,,,,,,,,2020,2019-20,div1,Harford,harfordcommunitycollege,blakejohnsonxib6,Blake Johnson
+Apr 7,home,Frederick,,,,,2,win,,,,,,,,,,,,,,,,,,,,,,,2020,2019-20,div1,Harford,harfordcommunitycollege,blakejohnsonxib6,Blake Johnson
+Apr 8,home,CCBC Dundalk,,,,,2,win,,,,,,,,,,,,,,,,,,,,,,,2020,2019-20,div1,Harford,harfordcommunitycollege,blakejohnsonxib6,Blake Johnson
+Apr 10,home,Mercer County,,,,,2,win,,,,,,,,,,,,,,,,,,,,,,,2020,2019-20,div1,Harford,harfordcommunitycollege,blakejohnsonxib6,Blake Johnson
+Apr 10,home,Mercer County,,,,,2,win,,,,,,,,,,,,,,,,,,,,,,,2020,2019-20,div1,Harford,harfordcommunitycollege,blakejohnsonxib6,Blake Johnson
+Apr 10,home,Mercer County,,,,,2,win,,,,,,,,,,,,,,,,,,,,,,,2020,2019-20,div1,Harford,harfordcommunitycollege,blakejohnsonxib6,Blake Johnson
+Apr 10,home,Mercer County,,,,,2,win,,,,,,,,,,,,,,,,,,,,,,,2020,2019-20,div1,Harford,harfordcommunitycollege,blakejohnsonxib6,Blake Johnson
+Apr 11,home,Potomac State,,,,,2,win,,,,,,,,,,,,,,,,,,,,,,,2020,2019-20,div1,Harford,harfordcommunitycollege,blakejohnsonxib6,Blake Johnson
+Apr 11,home,Potomac State,,,,,2,win,,,,,,,,,,,,,,,,,,,,,,,2020,2019-20,div1,Harford,harfordcommunitycollege,blakejohnsonxib6,Blake Johnson
+Apr 11,home,Potomac State,,,,,2,win,,,,,,,,,,,,,,,,,,,,,,,2020,2019-20,div1,Harford,harfordcommunitycollege,blakejohnsonxib6,Blake Johnson
+Apr 11,home,Potomac State,,,,,2,win,,,,,,,,,,,,,,,,,,,,,,,2020,2019-20,div1,Harford,harfordcommunitycollege,blakejohnsonxib6,Blake Johnson
+Apr 14,home,Montgomery,,,,,2,win,,,,,,,,,,,,,,,,,,,,,,,2020,2019-20,div1,Harford,harfordcommunitycollege,blakejohnsonxib6,Blake Johnson
+Apr 14,home,Montgomery,,,,,2,win,,,,,,,,,,,,,,,,,,,,,,,2020,2019-20,div1,Harford,harfordcommunitycollege,blakejohnsonxib6,Blake Johnson
+Apr 14,home,Montgomery,,,,,2,win,,,,,,,,,,,,,,,,,,,,,,,2020,2019-20,div1,Harford,harfordcommunitycollege,blakejohnsonxib6,Blake Johnson
+Apr 14,home,Montgomery,,,,,2,win,,,,,,,,,,,,,,,,,,,,,,,2020,2019-20,div1,Harford,harfordcommunitycollege,blakejohnsonxib6,Blake Johnson
+Apr 17,home,Louisburg,,,,,2,win,,,,,,,,,,,,,,,,,,,,,,,2020,2019-20,div1,Harford,harfordcommunitycollege,blakejohnsonxib6,Blake Johnson
+Apr 17,home,Louisburg,,,,,2,win,,,,,,,,,,,,,,,,,,,,,,,2020,2019-20,div1,Harford,harfordcommunitycollege,blakejohnsonxib6,Blake Johnson
+Apr 17,home,Louisburg,,,,,2,win,,,,,,,,,,,,,,,,,,,,,,,2020,2019-20,div1,Harford,harfordcommunitycollege,blakejohnsonxib6,Blake Johnson
+Apr 17,home,Louisburg,,,,,2,win,,,,,,,,,,,,,,,,,,,,,,,2020,2019-20,div1,Harford,harfordcommunitycollege,blakejohnsonxib6,Blake Johnson
+Apr 18,home,Louisburg,,,,,2,win,,,,,,,,,,,,,,,,,,,,,,,2020,2019-20,div1,Harford,harfordcommunitycollege,blakejohnsonxib6,Blake Johnson
+Apr 18,home,Louisburg,,,,,2,win,,,,,,,,,,,,,,,,,,,,,,,2020,2019-20,div1,Harford,harfordcommunitycollege,blakejohnsonxib6,Blake Johnson
+Apr 18,home,Louisburg,,,,,2,win,,,,,,,,,,,,,,,,,,,,,,,2020,2019-20,div1,Harford,harfordcommunitycollege,blakejohnsonxib6,Blake Johnson
+Apr 18,home,Louisburg,,,,,2,win,,,,,,,,,,,,,,,,,,,,,,,2020,2019-20,div1,Harford,harfordcommunitycollege,blakejohnsonxib6,Blake Johnson
+Apr 19,home,Southern Maryland,,,,,2,win,,,,,,,,,,,,,,,,,,,,,,,2020,2019-20,div1,Harford,harfordcommunitycollege,blakejohnsonxib6,Blake Johnson
+Apr 19,home,Southern Maryland,,,,,2,win,,,,,,,,,,,,,,,,,,,,,,,2020,2019-20,div1,Harford,harfordcommunitycollege,blakejohnsonxib6,Blake Johnson
+Apr 19,home,Southern Maryland,,,,,2,win,,,,,,,,,,,,,,,,,,,,,,,2020,2019-20,div1,Harford,harfordcommunitycollege,blakejohnsonxib6,Blake Johnson
+Apr 19,home,Southern Maryland,,,,,2,win,,,,,,,,,,,,,,,,,,,,,,,2020,2019-20,div1,Harford,harfordcommunitycollege,blakejohnsonxib6,Blake Johnson
+Apr 22,home,CCBC Dundalk,,,,,2,win,,,,,,,,,,,,,,,,,,,,,,,2020,2019-20,div1,Harford,harfordcommunitycollege,blakejohnsonxib6,Blake Johnson
+Apr 23,home,Morris,,,,,2,win,,,,,,,,,,,,,,,,,,,,,,,2020,2019-20,div1,Harford,harfordcommunitycollege,blakejohnsonxib6,Blake Johnson
+Apr 26,home,Morris,,,,,2,win,,,,,,,,,,,,,,,,,,,,,,,2020,2019-20,div1,Harford,harfordcommunitycollege,blakejohnsonxib6,Blake Johnson
+Apr 26,home,Morris,,,,,2,win,,,,,,,,,,,,,,,,,,,,,,,2020,2019-20,div1,Harford,harfordcommunitycollege,blakejohnsonxib6,Blake Johnson
+Apr 26,home,Morris,,,,,2,win,,,,,,,,,,,,,,,,,,,,,,,2020,2019-20,div1,Harford,harfordcommunitycollege,blakejohnsonxib6,Blake Johnson
+Apr 26,home,Morris,,,,,2,win,,,,,,,,,,,,,,,,,,,,,,,2020,2019-20,div1,Harford,harfordcommunitycollege,blakejohnsonxib6,Blake Johnson
+May 5,home,RCSJ Gloucester,,,,,2,win,,,,,,,,,,,,,,,,,,,,,,,2020,2019-20,div1,Harford,harfordcommunitycollege,blakejohnsonxib6,Blake Johnson

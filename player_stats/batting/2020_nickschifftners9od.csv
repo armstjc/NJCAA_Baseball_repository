@@ -1,35 +1,84 @@
-date,location,opponent,result,score,team_score,opp_score,game_score_diff_x,game_win_loss_x,game_id_x,AB,R,H,2B,3B,HR,RBI,BB,K,SB,CS,game_score_diff_y,game_win_loss_y,game_id_y,HBP,SF,SH,TB,XBH,HDP,GO,FO,GO/FO,PA,season,njcaa_season,njcaa_division,team,team_id,player_id,player_name
-Mar 3,home,North Central Missouri,L,13-3,13,3,10.0,win,20200303_kpiv,4,0,0,,,,0,,1,,,10.0,win,20200303_kpiv,,,,0,0,,,,,4,2020,2019-20,div1,Highland (KS),highlandcommunitycollegekansas,nickschifftners9od,Nick Schifftner
-Mar 5,home,Coffeyville,L,12-4,12,4,8.0,win,20200305_1rx3,3,0,0,,,,1,1,1,,,8.0,win,20200305_1rx3,,,,0,0,1,,,,4,2020,2019-20,div1,Highland (KS),highlandcommunitycollegekansas,nickschifftners9od,Nick Schifftner
-Mar 5,home,Coffeyville,W,6-4,6,4,2.0,win,20200305_h4mt,3,1,1,,,,0,,,,,2.0,win,20200305_h4mt,,,1,1,0,,,,,4,2020,2019-20,div1,Highland (KS),highlandcommunitycollegekansas,nickschifftners9od,Nick Schifftner
-Mar 19,home,Labette,,,,,12.0,win,,,,,,,,,,,,,12.0,win,,,,,,,,,,,,2020,2019-20,div1,Highland (KS),highlandcommunitycollegekansas,nickschifftners9od,Nick Schifftner
-Mar 19,home,Labette,,,,,12.0,win,,,,,,,,,,,,,12.0,win,,,,,,,,,,,,2020,2019-20,div1,Highland (KS),highlandcommunitycollegekansas,nickschifftners9od,Nick Schifftner
-Mar 19,home,Labette,,,,,12.0,win,,,,,,,,,,,,,12.0,win,,,,,,,,,,,,2020,2019-20,div1,Highland (KS),highlandcommunitycollegekansas,nickschifftners9od,Nick Schifftner
-Mar 19,home,Labette,,,,,12.0,win,,,,,,,,,,,,,12.0,win,,,,,,,,,,,,2020,2019-20,div1,Highland (KS),highlandcommunitycollegekansas,nickschifftners9od,Nick Schifftner
-Mar 28,home,Fort Scott,,,,,12.0,win,,,,,,,,,,,,,12.0,win,,,,,,,,,,,,2020,2019-20,div1,Highland (KS),highlandcommunitycollegekansas,nickschifftners9od,Nick Schifftner
-Mar 28,home,Fort Scott,,,,,12.0,win,,,,,,,,,,,,,12.0,win,,,,,,,,,,,,2020,2019-20,div1,Highland (KS),highlandcommunitycollegekansas,nickschifftners9od,Nick Schifftner
-Mar 28,home,Fort Scott,,,,,12.0,win,,,,,,,,,,,,,12.0,win,,,,,,,,,,,,2020,2019-20,div1,Highland (KS),highlandcommunitycollegekansas,nickschifftners9od,Nick Schifftner
-Mar 28,home,Fort Scott,,,,,12.0,win,,,,,,,,,,,,,12.0,win,,,,,,,,,,,,2020,2019-20,div1,Highland (KS),highlandcommunitycollegekansas,nickschifftners9od,Nick Schifftner
-Mar 31,home,Cloud County,,,,,12.0,win,,,,,,,,,,,,,12.0,win,,,,,,,,,,,,2020,2019-20,div1,Highland (KS),highlandcommunitycollegekansas,nickschifftners9od,Nick Schifftner
-Apr 2,home,Johnson County,,,,,12.0,win,,,,,,,,,,,,,12.0,win,,,,,,,,,,,,2020,2019-20,div1,Highland (KS),highlandcommunitycollegekansas,nickschifftners9od,Nick Schifftner
-Apr 2,home,Johnson County,,,,,12.0,win,,,,,,,,,,,,,12.0,win,,,,,,,,,,,,2020,2019-20,div1,Highland (KS),highlandcommunitycollegekansas,nickschifftners9od,Nick Schifftner
-Apr 2,home,Johnson County,,,,,12.0,win,,,,,,,,,,,,,12.0,win,,,,,,,,,,,,2020,2019-20,div1,Highland (KS),highlandcommunitycollegekansas,nickschifftners9od,Nick Schifftner
-Apr 2,home,Johnson County,,,,,12.0,win,,,,,,,,,,,,,12.0,win,,,,,,,,,,,,2020,2019-20,div1,Highland (KS),highlandcommunitycollegekansas,nickschifftners9od,Nick Schifftner
-Apr 7,home,Baker JV,,,,,12.0,win,,,,,,,,,,,,,12.0,win,,,,,,,,,,,,2020,2019-20,div1,Highland (KS),highlandcommunitycollegekansas,nickschifftners9od,Nick Schifftner
-Apr 11,home,Kansas City Kansas,,,,,12.0,win,,,,,,,,,,,,,12.0,win,,,,,,,,,,,,2020,2019-20,div1,Highland (KS),highlandcommunitycollegekansas,nickschifftners9od,Nick Schifftner
-Apr 11,home,Kansas City Kansas,,,,,12.0,win,,,,,,,,,,,,,12.0,win,,,,,,,,,,,,2020,2019-20,div1,Highland (KS),highlandcommunitycollegekansas,nickschifftners9od,Nick Schifftner
-Apr 11,home,Kansas City Kansas,,,,,12.0,win,,,,,,,,,,,,,12.0,win,,,,,,,,,,,,2020,2019-20,div1,Highland (KS),highlandcommunitycollegekansas,nickschifftners9od,Nick Schifftner
-Apr 11,home,Kansas City Kansas,,,,,12.0,win,,,,,,,,,,,,,12.0,win,,,,,,,,,,,,2020,2019-20,div1,Highland (KS),highlandcommunitycollegekansas,nickschifftners9od,Nick Schifftner
-Apr 16,home,Hesston,,,,,12.0,win,,,,,,,,,,,,,12.0,win,,,,,,,,,,,,2020,2019-20,div1,Highland (KS),highlandcommunitycollegekansas,nickschifftners9od,Nick Schifftner
-Apr 16,home,Hesston,,,,,12.0,win,,,,,,,,,,,,,12.0,win,,,,,,,,,,,,2020,2019-20,div1,Highland (KS),highlandcommunitycollegekansas,nickschifftners9od,Nick Schifftner
-Apr 16,home,Hesston,,,,,12.0,win,,,,,,,,,,,,,12.0,win,,,,,,,,,,,,2020,2019-20,div1,Highland (KS),highlandcommunitycollegekansas,nickschifftners9od,Nick Schifftner
-Apr 16,home,Hesston,,,,,12.0,win,,,,,,,,,,,,,12.0,win,,,,,,,,,,,,2020,2019-20,div1,Highland (KS),highlandcommunitycollegekansas,nickschifftners9od,Nick Schifftner
-Apr 20,home,Ottawa University JV,,,,,12.0,win,,,,,,,,,,,,,12.0,win,,,,,,,,,,,,2020,2019-20,div1,Highland (KS),highlandcommunitycollegekansas,nickschifftners9od,Nick Schifftner
-Apr 23,home,Neosho County,,,,,12.0,win,,,,,,,,,,,,,12.0,win,,,,,,,,,,,,2020,2019-20,div1,Highland (KS),highlandcommunitycollegekansas,nickschifftners9od,Nick Schifftner
-Apr 23,home,Neosho County,,,,,12.0,win,,,,,,,,,,,,,12.0,win,,,,,,,,,,,,2020,2019-20,div1,Highland (KS),highlandcommunitycollegekansas,nickschifftners9od,Nick Schifftner
-Apr 23,home,Neosho County,,,,,12.0,win,,,,,,,,,,,,,12.0,win,,,,,,,,,,,,2020,2019-20,div1,Highland (KS),highlandcommunitycollegekansas,nickschifftners9od,Nick Schifftner
-Apr 23,home,Neosho County,,,,,12.0,win,,,,,,,,,,,,,12.0,win,,,,,,,,,,,,2020,2019-20,div1,Highland (KS),highlandcommunitycollegekansas,nickschifftners9od,Nick Schifftner
-May 2,home,Allen County,,,,,12.0,win,,,,,,,,,,,,,12.0,win,,,,,,,,,,,,2020,2019-20,div1,Highland (KS),highlandcommunitycollegekansas,nickschifftners9od,Nick Schifftner
-May 2,home,Allen County,,,,,12.0,win,,,,,,,,,,,,,12.0,win,,,,,,,,,,,,2020,2019-20,div1,Highland (KS),highlandcommunitycollegekansas,nickschifftners9od,Nick Schifftner
-May 2,home,Allen County,,,,,12.0,win,,,,,,,,,,,,,12.0,win,,,,,,,,,,,,2020,2019-20,div1,Highland (KS),highlandcommunitycollegekansas,nickschifftners9od,Nick Schifftner
-May 2,home,Allen County,,,,,12.0,win,,,,,,,,,,,,,12.0,win,,,,,,,,,,,,2020,2019-20,div1,Highland (KS),highlandcommunitycollegekansas,nickschifftners9od,Nick Schifftner
+date,location,opponent,result,score,team_score,opp_score,game_score_diff,game_win_loss,game_id,AB,R,H,2B,3B,HR,RBI,BB,K,SB,CS,HBP,SF,SH,TB,XBH,HDP,GO,FO,GO/FO,PA,season,njcaa_season,njcaa_division,team,team_id,player_id,player_name
+Feb 7,home,Kansas Wesleyan JV,L,5-1,5,1,4.0,win,20200207_i849,3,0,1,,,,0,1,,1,,,,,1,0,,,1,,4,2020,2019-20,div1,Highland (KS),highlandcommunitycollegekansas,nickschifftners9od,Nick Schifftner
+Feb 7,home,Kansas Wesleyan JV,W,17-11,17,11,6.0,win,20200207_5c77,6,3,3,,,,2,,,,,,,,3,0,,1,2,0.50,6,2020,2019-20,div1,Highland (KS),highlandcommunitycollegekansas,nickschifftners9od,Nick Schifftner
+Feb 15,home,Pratt,W,6-5,6,5,1.0,win,20200215_st68,5,1,0,,,,0,,1,,,,,,0,0,,,,,5,2020,2019-20,div1,Highland (KS),highlandcommunitycollegekansas,nickschifftners9od,Nick Schifftner
+Feb 15,home,Pratt,W,2-0,2,0,2.0,win,20200215_sz74,3,0,0,,,,0,,,,,,,,0,0,,,,,3,2020,2019-20,div1,Highland (KS),highlandcommunitycollegekansas,nickschifftners9od,Nick Schifftner
+Feb 16,home,Pratt,W,5-4,5,4,1.0,win,20200216_cilr,4,0,0,,,,0,1,1,,,,,,0,0,,,,,5,2020,2019-20,div1,Highland (KS),highlandcommunitycollegekansas,nickschifftners9od,Nick Schifftner
+Feb 21,home,North Arkansas,W,12-5,12,5,7.0,win,20200221_qxcc,4,1,1,,,,2,,2,1,,1,,,1,0,,,,,5,2020,2019-20,div1,Highland (KS),highlandcommunitycollegekansas,nickschifftners9od,Nick Schifftner
+Feb 21,home,North Arkansas,L,6-5,6,5,1.0,win,20200221_8tln,2,0,0,,,,0,1,1,,,1,,,0,0,,,,,4,2020,2019-20,div1,Highland (KS),highlandcommunitycollegekansas,nickschifftners9od,Nick Schifftner
+Feb 22,home,North Arkansas,W,8-2,8,2,6.0,win,20200222_076j,3,2,2,,,,1,,,,,1,1,,2,0,,,,,5,2020,2019-20,div1,Highland (KS),highlandcommunitycollegekansas,nickschifftners9od,Nick Schifftner
+Feb 25,home,Cloud County,,,,,6.0,win,,,,,,,,,,,,,,,,,,,,,,,2020,2019-20,div1,Highland (KS),highlandcommunitycollegekansas,nickschifftners9od,Nick Schifftner
+Feb 27,home,Butler,L,10-0,10,0,10.0,win,20200227_zyeu,2,0,0,,,,0,1,,,,,,,0,0,,,2,,3,2020,2019-20,div1,Highland (KS),highlandcommunitycollegekansas,nickschifftners9od,Nick Schifftner
+Feb 27,home,Butler,L,11-0,11,0,11.0,win,20200227_rsdb,3,0,0,,,,0,,1,,,,,,0,0,,2,,,3,2020,2019-20,div1,Highland (KS),highlandcommunitycollegekansas,nickschifftners9od,Nick Schifftner
+Feb 29,home,Butler,L,14-4,14,4,10.0,win,20200229_e72l,3,0,1,,,,1,,,,,,,,1,0,,2,,,3,2020,2019-20,div1,Highland (KS),highlandcommunitycollegekansas,nickschifftners9od,Nick Schifftner
+Feb 29,home,Butler,L,14-4,14,4,10.0,win,20200229_d074,2,0,0,,,,0,,,,,,,,0,0,,2,,,2,2020,2019-20,div1,Highland (KS),highlandcommunitycollegekansas,nickschifftners9od,Nick Schifftner
+Mar 3,home,North Central Missouri,L,13-3,13,3,10.0,win,20200303_kpiv,4,0,0,,,,0,,1,,,,,,0,0,,,,,4,2020,2019-20,div1,Highland (KS),highlandcommunitycollegekansas,nickschifftners9od,Nick Schifftner
+Mar 5,home,Coffeyville,L,12-4,12,4,8.0,win,20200305_1rx3,3,0,0,,,,1,1,1,,,,,,0,0,1,,,,4,2020,2019-20,div1,Highland (KS),highlandcommunitycollegekansas,nickschifftners9od,Nick Schifftner
+Mar 5,home,Coffeyville,W,6-4,6,4,2.0,win,20200305_h4mt,3,1,1,,,,0,,,,,,,1,1,0,,,,,4,2020,2019-20,div1,Highland (KS),highlandcommunitycollegekansas,nickschifftners9od,Nick Schifftner
+Mar 7,home,Coffeyville,W,19-7,19,7,12.0,win,20200307_cozx,4,1,2,,,,3,1,,1,,,,,2,0,,,,,5,2020,2019-20,div1,Highland (KS),highlandcommunitycollegekansas,nickschifftners9od,Nick Schifftner
+Mar 7,home,Coffeyville,L,8-3,8,3,5.0,win,20200307_z40x,2,2,1,,,,0,2,,,,,,,1,0,,,,,4,2020,2019-20,div1,Highland (KS),highlandcommunitycollegekansas,nickschifftners9od,Nick Schifftner
+Mar 10,home,Baker JV,,,,,5.0,win,,,,,,,,,,,,,,,,,,,,,,,2020,2019-20,div1,Highland (KS),highlandcommunitycollegekansas,nickschifftners9od,Nick Schifftner
+Mar 11,home,Cowley,L,7-6,7,6,1.0,win,20200311_u3l5,1,1,1,,,,0,3,,,1,,,,1,0,,,,,4,2020,2019-20,div1,Highland (KS),highlandcommunitycollegekansas,nickschifftners9od,Nick Schifftner
+Mar 11,home,Cowley,L,12-1,12,1,11.0,win,20200311_uc1e,4,0,1,,,,0,,3,,,,,,1,0,,,,,4,2020,2019-20,div1,Highland (KS),highlandcommunitycollegekansas,nickschifftners9od,Nick Schifftner
+Mar 12,home,Cowley,L,6-0,6,0,6.0,win,20200312_d2d0,3,0,0,,,,0,,,,,,,,0,0,,,,,3,2020,2019-20,div1,Highland (KS),highlandcommunitycollegekansas,nickschifftners9od,Nick Schifftner
+Mar 12,home,Cowley,L,12-0,12,0,12.0,win,20200312_72qg,3,0,1,,,,0,,1,,,,,,1,0,,,,,3,2020,2019-20,div1,Highland (KS),highlandcommunitycollegekansas,nickschifftners9od,Nick Schifftner
+Mar 19,home,Labette,,,,,12.0,win,,,,,,,,,,,,,,,,,,,,,,,2020,2019-20,div1,Highland (KS),highlandcommunitycollegekansas,nickschifftners9od,Nick Schifftner
+Mar 19,home,Labette,,,,,12.0,win,,,,,,,,,,,,,,,,,,,,,,,2020,2019-20,div1,Highland (KS),highlandcommunitycollegekansas,nickschifftners9od,Nick Schifftner
+Mar 19,home,Labette,,,,,12.0,win,,,,,,,,,,,,,,,,,,,,,,,2020,2019-20,div1,Highland (KS),highlandcommunitycollegekansas,nickschifftners9od,Nick Schifftner
+Mar 19,home,Labette,,,,,12.0,win,,,,,,,,,,,,,,,,,,,,,,,2020,2019-20,div1,Highland (KS),highlandcommunitycollegekansas,nickschifftners9od,Nick Schifftner
+Mar 21,home,Labette,,,,,12.0,win,,,,,,,,,,,,,,,,,,,,,,,2020,2019-20,div1,Highland (KS),highlandcommunitycollegekansas,nickschifftners9od,Nick Schifftner
+Mar 21,home,Labette,,,,,12.0,win,,,,,,,,,,,,,,,,,,,,,,,2020,2019-20,div1,Highland (KS),highlandcommunitycollegekansas,nickschifftners9od,Nick Schifftner
+Mar 21,home,Labette,,,,,12.0,win,,,,,,,,,,,,,,,,,,,,,,,2020,2019-20,div1,Highland (KS),highlandcommunitycollegekansas,nickschifftners9od,Nick Schifftner
+Mar 21,home,Labette,,,,,12.0,win,,,,,,,,,,,,,,,,,,,,,,,2020,2019-20,div1,Highland (KS),highlandcommunitycollegekansas,nickschifftners9od,Nick Schifftner
+Mar 26,home,Fort Scott,,,,,12.0,win,,,,,,,,,,,,,,,,,,,,,,,2020,2019-20,div1,Highland (KS),highlandcommunitycollegekansas,nickschifftners9od,Nick Schifftner
+Mar 26,home,Fort Scott,,,,,12.0,win,,,,,,,,,,,,,,,,,,,,,,,2020,2019-20,div1,Highland (KS),highlandcommunitycollegekansas,nickschifftners9od,Nick Schifftner
+Mar 26,home,Fort Scott,,,,,12.0,win,,,,,,,,,,,,,,,,,,,,,,,2020,2019-20,div1,Highland (KS),highlandcommunitycollegekansas,nickschifftners9od,Nick Schifftner
+Mar 26,home,Fort Scott,,,,,12.0,win,,,,,,,,,,,,,,,,,,,,,,,2020,2019-20,div1,Highland (KS),highlandcommunitycollegekansas,nickschifftners9od,Nick Schifftner
+Mar 28,home,Fort Scott,,,,,12.0,win,,,,,,,,,,,,,,,,,,,,,,,2020,2019-20,div1,Highland (KS),highlandcommunitycollegekansas,nickschifftners9od,Nick Schifftner
+Mar 28,home,Fort Scott,,,,,12.0,win,,,,,,,,,,,,,,,,,,,,,,,2020,2019-20,div1,Highland (KS),highlandcommunitycollegekansas,nickschifftners9od,Nick Schifftner
+Mar 28,home,Fort Scott,,,,,12.0,win,,,,,,,,,,,,,,,,,,,,,,,2020,2019-20,div1,Highland (KS),highlandcommunitycollegekansas,nickschifftners9od,Nick Schifftner
+Mar 28,home,Fort Scott,,,,,12.0,win,,,,,,,,,,,,,,,,,,,,,,,2020,2019-20,div1,Highland (KS),highlandcommunitycollegekansas,nickschifftners9od,Nick Schifftner
+Mar 31,home,Cloud County,,,,,12.0,win,,,,,,,,,,,,,,,,,,,,,,,2020,2019-20,div1,Highland (KS),highlandcommunitycollegekansas,nickschifftners9od,Nick Schifftner
+Apr 2,home,Johnson County,,,,,12.0,win,,,,,,,,,,,,,,,,,,,,,,,2020,2019-20,div1,Highland (KS),highlandcommunitycollegekansas,nickschifftners9od,Nick Schifftner
+Apr 2,home,Johnson County,,,,,12.0,win,,,,,,,,,,,,,,,,,,,,,,,2020,2019-20,div1,Highland (KS),highlandcommunitycollegekansas,nickschifftners9od,Nick Schifftner
+Apr 2,home,Johnson County,,,,,12.0,win,,,,,,,,,,,,,,,,,,,,,,,2020,2019-20,div1,Highland (KS),highlandcommunitycollegekansas,nickschifftners9od,Nick Schifftner
+Apr 2,home,Johnson County,,,,,12.0,win,,,,,,,,,,,,,,,,,,,,,,,2020,2019-20,div1,Highland (KS),highlandcommunitycollegekansas,nickschifftners9od,Nick Schifftner
+Apr 4,home,Johnson County,,,,,12.0,win,,,,,,,,,,,,,,,,,,,,,,,2020,2019-20,div1,Highland (KS),highlandcommunitycollegekansas,nickschifftners9od,Nick Schifftner
+Apr 4,home,Johnson County,,,,,12.0,win,,,,,,,,,,,,,,,,,,,,,,,2020,2019-20,div1,Highland (KS),highlandcommunitycollegekansas,nickschifftners9od,Nick Schifftner
+Apr 4,home,Johnson County,,,,,12.0,win,,,,,,,,,,,,,,,,,,,,,,,2020,2019-20,div1,Highland (KS),highlandcommunitycollegekansas,nickschifftners9od,Nick Schifftner
+Apr 4,home,Johnson County,,,,,12.0,win,,,,,,,,,,,,,,,,,,,,,,,2020,2019-20,div1,Highland (KS),highlandcommunitycollegekansas,nickschifftners9od,Nick Schifftner
+Apr 7,home,Baker JV,,,,,12.0,win,,,,,,,,,,,,,,,,,,,,,,,2020,2019-20,div1,Highland (KS),highlandcommunitycollegekansas,nickschifftners9od,Nick Schifftner
+Apr 9,home,Kansas City Kansas,,,,,12.0,win,,,,,,,,,,,,,,,,,,,,,,,2020,2019-20,div1,Highland (KS),highlandcommunitycollegekansas,nickschifftners9od,Nick Schifftner
+Apr 9,home,Kansas City Kansas,,,,,12.0,win,,,,,,,,,,,,,,,,,,,,,,,2020,2019-20,div1,Highland (KS),highlandcommunitycollegekansas,nickschifftners9od,Nick Schifftner
+Apr 9,home,Kansas City Kansas,,,,,12.0,win,,,,,,,,,,,,,,,,,,,,,,,2020,2019-20,div1,Highland (KS),highlandcommunitycollegekansas,nickschifftners9od,Nick Schifftner
+Apr 9,home,Kansas City Kansas,,,,,12.0,win,,,,,,,,,,,,,,,,,,,,,,,2020,2019-20,div1,Highland (KS),highlandcommunitycollegekansas,nickschifftners9od,Nick Schifftner
+Apr 11,home,Kansas City Kansas,,,,,12.0,win,,,,,,,,,,,,,,,,,,,,,,,2020,2019-20,div1,Highland (KS),highlandcommunitycollegekansas,nickschifftners9od,Nick Schifftner
+Apr 11,home,Kansas City Kansas,,,,,12.0,win,,,,,,,,,,,,,,,,,,,,,,,2020,2019-20,div1,Highland (KS),highlandcommunitycollegekansas,nickschifftners9od,Nick Schifftner
+Apr 11,home,Kansas City Kansas,,,,,12.0,win,,,,,,,,,,,,,,,,,,,,,,,2020,2019-20,div1,Highland (KS),highlandcommunitycollegekansas,nickschifftners9od,Nick Schifftner
+Apr 11,home,Kansas City Kansas,,,,,12.0,win,,,,,,,,,,,,,,,,,,,,,,,2020,2019-20,div1,Highland (KS),highlandcommunitycollegekansas,nickschifftners9od,Nick Schifftner
+Apr 14,home,North Central Missouri,,,,,12.0,win,,,,,,,,,,,,,,,,,,,,,,,2020,2019-20,div1,Highland (KS),highlandcommunitycollegekansas,nickschifftners9od,Nick Schifftner
+Apr 16,home,Hesston,,,,,12.0,win,,,,,,,,,,,,,,,,,,,,,,,2020,2019-20,div1,Highland (KS),highlandcommunitycollegekansas,nickschifftners9od,Nick Schifftner
+Apr 16,home,Hesston,,,,,12.0,win,,,,,,,,,,,,,,,,,,,,,,,2020,2019-20,div1,Highland (KS),highlandcommunitycollegekansas,nickschifftners9od,Nick Schifftner
+Apr 16,home,Hesston,,,,,12.0,win,,,,,,,,,,,,,,,,,,,,,,,2020,2019-20,div1,Highland (KS),highlandcommunitycollegekansas,nickschifftners9od,Nick Schifftner
+Apr 16,home,Hesston,,,,,12.0,win,,,,,,,,,,,,,,,,,,,,,,,2020,2019-20,div1,Highland (KS),highlandcommunitycollegekansas,nickschifftners9od,Nick Schifftner
+Apr 18,home,Hesston,,,,,12.0,win,,,,,,,,,,,,,,,,,,,,,,,2020,2019-20,div1,Highland (KS),highlandcommunitycollegekansas,nickschifftners9od,Nick Schifftner
+Apr 18,home,Hesston,,,,,12.0,win,,,,,,,,,,,,,,,,,,,,,,,2020,2019-20,div1,Highland (KS),highlandcommunitycollegekansas,nickschifftners9od,Nick Schifftner
+Apr 18,home,Hesston,,,,,12.0,win,,,,,,,,,,,,,,,,,,,,,,,2020,2019-20,div1,Highland (KS),highlandcommunitycollegekansas,nickschifftners9od,Nick Schifftner
+Apr 18,home,Hesston,,,,,12.0,win,,,,,,,,,,,,,,,,,,,,,,,2020,2019-20,div1,Highland (KS),highlandcommunitycollegekansas,nickschifftners9od,Nick Schifftner
+Apr 20,home,Ottawa University JV,,,,,12.0,win,,,,,,,,,,,,,,,,,,,,,,,2020,2019-20,div1,Highland (KS),highlandcommunitycollegekansas,nickschifftners9od,Nick Schifftner
+Apr 23,home,Neosho County,,,,,12.0,win,,,,,,,,,,,,,,,,,,,,,,,2020,2019-20,div1,Highland (KS),highlandcommunitycollegekansas,nickschifftners9od,Nick Schifftner
+Apr 23,home,Neosho County,,,,,12.0,win,,,,,,,,,,,,,,,,,,,,,,,2020,2019-20,div1,Highland (KS),highlandcommunitycollegekansas,nickschifftners9od,Nick Schifftner
+Apr 23,home,Neosho County,,,,,12.0,win,,,,,,,,,,,,,,,,,,,,,,,2020,2019-20,div1,Highland (KS),highlandcommunitycollegekansas,nickschifftners9od,Nick Schifftner
+Apr 23,home,Neosho County,,,,,12.0,win,,,,,,,,,,,,,,,,,,,,,,,2020,2019-20,div1,Highland (KS),highlandcommunitycollegekansas,nickschifftners9od,Nick Schifftner
+Apr 25,home,Neosho County,,,,,12.0,win,,,,,,,,,,,,,,,,,,,,,,,2020,2019-20,div1,Highland (KS),highlandcommunitycollegekansas,nickschifftners9od,Nick Schifftner
+Apr 25,home,Neosho County,,,,,12.0,win,,,,,,,,,,,,,,,,,,,,,,,2020,2019-20,div1,Highland (KS),highlandcommunitycollegekansas,nickschifftners9od,Nick Schifftner
+Apr 25,home,Neosho County,,,,,12.0,win,,,,,,,,,,,,,,,,,,,,,,,2020,2019-20,div1,Highland (KS),highlandcommunitycollegekansas,nickschifftners9od,Nick Schifftner
+Apr 25,home,Neosho County,,,,,12.0,win,,,,,,,,,,,,,,,,,,,,,,,2020,2019-20,div1,Highland (KS),highlandcommunitycollegekansas,nickschifftners9od,Nick Schifftner
+Apr 30,home,Allen County,,,,,12.0,win,,,,,,,,,,,,,,,,,,,,,,,2020,2019-20,div1,Highland (KS),highlandcommunitycollegekansas,nickschifftners9od,Nick Schifftner
+Apr 30,home,Allen County,,,,,12.0,win,,,,,,,,,,,,,,,,,,,,,,,2020,2019-20,div1,Highland (KS),highlandcommunitycollegekansas,nickschifftners9od,Nick Schifftner
+Apr 30,home,Allen County,,,,,12.0,win,,,,,,,,,,,,,,,,,,,,,,,2020,2019-20,div1,Highland (KS),highlandcommunitycollegekansas,nickschifftners9od,Nick Schifftner
+Apr 30,home,Allen County,,,,,12.0,win,,,,,,,,,,,,,,,,,,,,,,,2020,2019-20,div1,Highland (KS),highlandcommunitycollegekansas,nickschifftners9od,Nick Schifftner
+May 2,home,Allen County,,,,,12.0,win,,,,,,,,,,,,,,,,,,,,,,,2020,2019-20,div1,Highland (KS),highlandcommunitycollegekansas,nickschifftners9od,Nick Schifftner
+May 2,home,Allen County,,,,,12.0,win,,,,,,,,,,,,,,,,,,,,,,,2020,2019-20,div1,Highland (KS),highlandcommunitycollegekansas,nickschifftners9od,Nick Schifftner
+May 2,home,Allen County,,,,,12.0,win,,,,,,,,,,,,,,,,,,,,,,,2020,2019-20,div1,Highland (KS),highlandcommunitycollegekansas,nickschifftners9od,Nick Schifftner
+May 2,home,Allen County,,,,,12.0,win,,,,,,,,,,,,,,,,,,,,,,,2020,2019-20,div1,Highland (KS),highlandcommunitycollegekansas,nickschifftners9od,Nick Schifftner
