@@ -1,31 +1,53 @@
-date,location,opponent,result,score,team_score,opp_score,game_score_diff_x,game_win_loss_x,game_id_x,AB,R,H,2B,3B,HR,RBI,BB,K,SB,CS,game_score_diff_y,game_win_loss_y,game_id_y,HBP,SF,SH,TB,XBH,HDP,GO,FO,GO/FO,PA,season,njcaa_season,njcaa_division,team,team_id,player_id,player_name
-Jan 29,home,Wallace-Dothan,W,10-3,10,3,7.0,win,,,,,,,,,,,,,7.0,win,,,,,,,,,,,,2021,2020-21,div1,Chipola,chipolacollege,michaelespositofmnr,Michael Esposito
-Jan 29,home,Coastal Alabama - Monroeville,W,8-4,8,4,4.0,win,,,,,,,,,,,,,4.0,win,,,,,,,,,,,,2021,2020-21,div1,Chipola,chipolacollege,michaelespositofmnr,Michael Esposito
-Jan 30,home,Coastal Alabama - Monroeville,W,5-2,5,2,3.0,win,,,,,,,,,,,,,3.0,win,,,,,,,,,,,,2021,2020-21,div1,Chipola,chipolacollege,michaelespositofmnr,Michael Esposito
-Jan 30,home,Wallace-Dothan,W,12-2,12,2,10.0,win,,,,,,,,,,,,,10.0,win,,,,,,,,,,,,2021,2020-21,div1,Chipola,chipolacollege,michaelespositofmnr,Michael Esposito
-Feb 5,home,Florida SouthWestern State,W,4-3,4,3,1.0,win,,,,,,,,,,,,,1.0,win,,,,,,,,,,,,2021,2020-21,div1,Chipola,chipolacollege,michaelespositofmnr,Michael Esposito
-Feb 6,home,Florida SouthWestern State,W,9-3,9,3,6.0,win,,,,,,,,,,,,,6.0,win,,,,,,,,,,,,2021,2020-21,div1,Chipola,chipolacollege,michaelespositofmnr,Michael Esposito
-Feb 6,home,Florida SouthWestern State,W,12-11,12,11,1.0,win,,,,,,,,,,,,,1.0,win,,,,,,,,,,,,2021,2020-21,div1,Chipola,chipolacollege,michaelespositofmnr,Michael Esposito
-Feb 7,home,Florida SouthWestern State,W,14-8,14,8,6.0,win,,,,,,,,,,,,,6.0,win,,,,,,,,,,,,2021,2020-21,div1,Chipola,chipolacollege,michaelespositofmnr,Michael Esposito
-Feb 16,home,Gordon State,W,4-0,4,0,4.0,win,,,,,,,,,,,,,4.0,win,,,,,,,,,,,,2021,2020-21,div1,Chipola,chipolacollege,michaelespositofmnr,Michael Esposito
-Feb 16,home,Gordon State,W,3-0,3,0,3.0,win,,,,,,,,,,,,,3.0,win,,,,,,,,,,,,2021,2020-21,div1,Chipola,chipolacollege,michaelespositofmnr,Michael Esposito
-Feb 27,home,San Jacinto,L,4-1,4,1,3.0,win,,,,,,,,,,,,,3.0,win,,,,,,,,,,,,2021,2020-21,div1,Chipola,chipolacollege,michaelespositofmnr,Michael Esposito
-Feb 27,home,San Jacinto,W,4-2,4,2,2.0,win,20210227_icth,0,0,0,,,,0,,,,,2.0,win,20210227_icth,,,,0,0,,,,,0,2021,2020-21,div1,Chipola,chipolacollege,michaelespositofmnr,Michael Esposito
-Feb 28,home,San Jacinto,L,7-4,7,4,3.0,win,,,,,,,,,,,,,3.0,win,,,,,,,,,,,,2021,2020-21,div1,Chipola,chipolacollege,michaelespositofmnr,Michael Esposito
-Feb 28,home,San Jacinto,L,5-4,5,4,1.0,win,,,,,,,,,,,,,1.0,win,,,,,,,,,,,,2021,2020-21,div1,Chipola,chipolacollege,michaelespositofmnr,Michael Esposito
-Mar 6,home,Andrew,W,7-6,7,6,1.0,win,,,,,,,,,,,,,1.0,win,,,,,,,,,,,,2021,2020-21,div1,Chipola,chipolacollege,michaelespositofmnr,Michael Esposito
-Mar 6,home,Andrew,W,9-8,9,8,1.0,win,,,,,,,,,,,,,1.0,win,,,,,,,,,,,,2021,2020-21,div1,Chipola,chipolacollege,michaelespositofmnr,Michael Esposito
-Mar 9,home,Tallahassee,W,3-1,3,1,2.0,win,,,,,,,,,,,,,2.0,win,,,,,,,,,,,,2021,2020-21,div1,Chipola,chipolacollege,michaelespositofmnr,Michael Esposito
-Mar 11,home,Tallahassee,W,10-1,10,1,9.0,win,,,,,,,,,,,,,9.0,win,,,,,,,,,,,,2021,2020-21,div1,Chipola,chipolacollege,michaelespositofmnr,Michael Esposito
-Mar 20,home,Pensacola State,W,6-2,6,2,4.0,win,,,,,,,,,,,,,4.0,win,,,,,,,,,,,,2021,2020-21,div1,Chipola,chipolacollege,michaelespositofmnr,Michael Esposito
-Mar 20,home,Pensacola State,L,15-5,15,5,10.0,win,20210320_uakh,0,0,0,,,,0,,,,,10.0,win,20210320_uakh,,,,0,0,,,,,0,2021,2020-21,div1,Chipola,chipolacollege,michaelespositofmnr,Michael Esposito
-Mar 23,home,Gulf Coast State,W,6-5,6,5,1.0,win,,,,,,,,,,,,,1.0,win,,,,,,,,,,,,2021,2020-21,div1,Chipola,chipolacollege,michaelespositofmnr,Michael Esposito
-Mar 25,home,Gulf Coast State,W,9-1,9,1,8.0,win,,,,,,,,,,,,,8.0,win,,,,,,,,,,,,2021,2020-21,div1,Chipola,chipolacollege,michaelespositofmnr,Michael Esposito
-Apr 11,home,Northwest Florida State,W,12-2,12,2,10.0,win,,,,,,,,,,,,,10.0,win,,,,,,,,,,,,2021,2020-21,div1,Chipola,chipolacollege,michaelespositofmnr,Michael Esposito
-Apr 11,home,Northwest Florida State,L,6-3,6,3,3.0,win,,,,,,,,,,,,,3.0,win,,,,,,,,,,,,2021,2020-21,div1,Chipola,chipolacollege,michaelespositofmnr,Michael Esposito
-Apr 12,home,Tallahassee,W,13-0,13,0,13.0,win,20210412_pkqu,0,0,0,,,,0,,,,,13.0,win,20210412_pkqu,,,,0,0,,,,,0,2021,2020-21,div1,Chipola,chipolacollege,michaelespositofmnr,Michael Esposito
-Apr 18,home,Northwest Florida State,L,4-0,4,0,4.0,win,20210418_2h0k,0,0,0,,,,0,,,,,4.0,win,20210418_2h0k,,,,0,0,,,,,0,2021,2020-21,div1,Chipola,chipolacollege,michaelespositofmnr,Michael Esposito
-Apr 19,home,Gulf Coast State,L,9-1,9,1,8.0,win,,,,,,,,,,,,,8.0,win,,,,,,,,,,,,2021,2020-21,div1,Chipola,chipolacollege,michaelespositofmnr,Michael Esposito
-Apr 28,home,Pensacola State,L,9-0,9,0,9.0,win,,,,,,,,,,,,,9.0,win,,,,,,,,,,,,2021,2020-21,div1,Chipola,chipolacollege,michaelespositofmnr,Michael Esposito
-Apr 30,home,St. Johns River State,L,9-0,9,0,9.0,win,,,,,,,,,,,,,9.0,win,,,,,,,,,,,,2021,2020-21,div1,Chipola,chipolacollege,michaelespositofmnr,Michael Esposito
-May 1,home,Southern Union State,,,,,9.0,win,,,,,,,,,,,,,9.0,win,,,,,,,,,,,,2021,2020-21,div1,Chipola,chipolacollege,michaelespositofmnr,Michael Esposito
+date,location,opponent,result,score,team_score,opp_score,game_score_diff,game_win_loss,game_id,AB,R,H,2B,3B,HR,RBI,BB,K,SB,CS,HBP,SF,SH,TB,XBH,HDP,GO,FO,GO/FO,PA,season,njcaa_season,njcaa_division,team,team_id,player_id,player_name
+Jan 22,home,Polk State,W,7-4,7,4,3.0,win,,,,,,,,,,,,,,,,,,,,,,,2021,2020-21,div1,Chipola,chipolacollege,michaelespositofmnr,Michael Esposito
+Jan 22,home,St. Petersburg,L,6-4,6,4,2.0,win,,,,,,,,,,,,,,,,,,,,,,,2021,2020-21,div1,Chipola,chipolacollege,michaelespositofmnr,Michael Esposito
+Jan 23,home,South Florida State,W,17-2,17,2,15.0,win,,,,,,,,,,,,,,,,,,,,,,,2021,2020-21,div1,Chipola,chipolacollege,michaelespositofmnr,Michael Esposito
+Jan 29,home,Wallace-Dothan,W,10-3,10,3,7.0,win,,,,,,,,,,,,,,,,,,,,,,,2021,2020-21,div1,Chipola,chipolacollege,michaelespositofmnr,Michael Esposito
+Jan 29,home,Coastal Alabama - Monroeville,W,8-4,8,4,4.0,win,,,,,,,,,,,,,,,,,,,,,,,2021,2020-21,div1,Chipola,chipolacollege,michaelespositofmnr,Michael Esposito
+Jan 30,home,Coastal Alabama - Monroeville,W,5-2,5,2,3.0,win,,,,,,,,,,,,,,,,,,,,,,,2021,2020-21,div1,Chipola,chipolacollege,michaelespositofmnr,Michael Esposito
+Jan 30,home,Wallace-Dothan,W,12-2,12,2,10.0,win,,,,,,,,,,,,,,,,,,,,,,,2021,2020-21,div1,Chipola,chipolacollege,michaelespositofmnr,Michael Esposito
+Feb 5,home,Florida SouthWestern State,W,4-3,4,3,1.0,win,,,,,,,,,,,,,,,,,,,,,,,2021,2020-21,div1,Chipola,chipolacollege,michaelespositofmnr,Michael Esposito
+Feb 6,home,Florida SouthWestern State,W,9-3,9,3,6.0,win,,,,,,,,,,,,,,,,,,,,,,,2021,2020-21,div1,Chipola,chipolacollege,michaelespositofmnr,Michael Esposito
+Feb 6,home,Florida SouthWestern State,W,12-11,12,11,1.0,win,,,,,,,,,,,,,,,,,,,,,,,2021,2020-21,div1,Chipola,chipolacollege,michaelespositofmnr,Michael Esposito
+Feb 7,home,Florida SouthWestern State,W,14-8,14,8,6.0,win,,,,,,,,,,,,,,,,,,,,,,,2021,2020-21,div1,Chipola,chipolacollege,michaelespositofmnr,Michael Esposito
+Feb 16,home,Gordon State,W,4-0,4,0,4.0,win,,,,,,,,,,,,,,,,,,,,,,,2021,2020-21,div1,Chipola,chipolacollege,michaelespositofmnr,Michael Esposito
+Feb 16,home,Gordon State,W,3-0,3,0,3.0,win,,,,,,,,,,,,,,,,,,,,,,,2021,2020-21,div1,Chipola,chipolacollege,michaelespositofmnr,Michael Esposito
+Feb 20,home,Miami Dade,L,10-0,10,0,10.0,win,,,,,,,,,,,,,,,,,,,,,,,2021,2020-21,div1,Chipola,chipolacollege,michaelespositofmnr,Michael Esposito
+Feb 21,home,St. Johns River State,W,8-3,8,3,5.0,win,,,,,,,,,,,,,,,,,,,,,,,2021,2020-21,div1,Chipola,chipolacollege,michaelespositofmnr,Michael Esposito
+Feb 21,home,St. Johns River State,W,6-0,6,0,6.0,win,,,,,,,,,,,,,,,,,,,,,,,2021,2020-21,div1,Chipola,chipolacollege,michaelespositofmnr,Michael Esposito
+Feb 23,home,Chattahoochee Valley,W,6-4,6,4,2.0,win,20210223_4l1f,0,0,0,,,,0,,,,,,,,0,0,,,,,0,2021,2020-21,div1,Chipola,chipolacollege,michaelespositofmnr,Michael Esposito
+Feb 27,home,San Jacinto,L,4-1,4,1,3.0,win,,,,,,,,,,,,,,,,,,,,,,,2021,2020-21,div1,Chipola,chipolacollege,michaelespositofmnr,Michael Esposito
+Feb 27,home,San Jacinto,W,4-2,4,2,2.0,win,20210227_icth,0,0,0,,,,0,,,,,,,,0,0,,,,,0,2021,2020-21,div1,Chipola,chipolacollege,michaelespositofmnr,Michael Esposito
+Feb 28,home,San Jacinto,L,7-4,7,4,3.0,win,,,,,,,,,,,,,,,,,,,,,,,2021,2020-21,div1,Chipola,chipolacollege,michaelespositofmnr,Michael Esposito
+Feb 28,home,San Jacinto,L,5-4,5,4,1.0,win,,,,,,,,,,,,,,,,,,,,,,,2021,2020-21,div1,Chipola,chipolacollege,michaelespositofmnr,Michael Esposito
+Mar 3,home,Gordon State,L,11-10,11,10,1.0,win,,,,,,,,,,,,,,,,,,,,,,,2021,2020-21,div1,Chipola,chipolacollege,michaelespositofmnr,Michael Esposito
+Mar 4,home,Andrew,W,13-3,13,3,10.0,win,,,,,,,,,,,,,,,,,,,,,,,2021,2020-21,div1,Chipola,chipolacollege,michaelespositofmnr,Michael Esposito
+Mar 6,home,Andrew,W,7-6,7,6,1.0,win,,,,,,,,,,,,,,,,,,,,,,,2021,2020-21,div1,Chipola,chipolacollege,michaelespositofmnr,Michael Esposito
+Mar 6,home,Andrew,W,9-8,9,8,1.0,win,,,,,,,,,,,,,,,,,,,,,,,2021,2020-21,div1,Chipola,chipolacollege,michaelespositofmnr,Michael Esposito
+Mar 9,home,Tallahassee,W,3-1,3,1,2.0,win,,,,,,,,,,,,,,,,,,,,,,,2021,2020-21,div1,Chipola,chipolacollege,michaelespositofmnr,Michael Esposito
+Mar 11,home,Tallahassee,W,10-1,10,1,9.0,win,,,,,,,,,,,,,,,,,,,,,,,2021,2020-21,div1,Chipola,chipolacollege,michaelespositofmnr,Michael Esposito
+Mar 13,home,Tallahassee,W,2-1,2,1,1.0,win,,,,,,,,,,,,,,,,,,,,,,,2021,2020-21,div1,Chipola,chipolacollege,michaelespositofmnr,Michael Esposito
+Mar 13,home,Tallahassee,L,4-3,4,3,1.0,win,20210313_doxg,0,0,0,,,,0,,,,,,,,0,0,,,,,0,2021,2020-21,div1,Chipola,chipolacollege,michaelespositofmnr,Michael Esposito
+Mar 16,home,Pensacola State,W,10-5,10,5,5.0,win,,,,,,,,,,,,,,,,,,,,,,,2021,2020-21,div1,Chipola,chipolacollege,michaelespositofmnr,Michael Esposito
+Mar 18,home,Pensacola State,L,8-4,8,4,4.0,win,,,,,,,,,,,,,,,,,,,,,,,2021,2020-21,div1,Chipola,chipolacollege,michaelespositofmnr,Michael Esposito
+Mar 20,home,Pensacola State,W,6-2,6,2,4.0,win,,,,,,,,,,,,,,,,,,,,,,,2021,2020-21,div1,Chipola,chipolacollege,michaelespositofmnr,Michael Esposito
+Mar 20,home,Pensacola State,L,15-5,15,5,10.0,win,20210320_uakh,0,0,0,,,,0,,,,,,,,0,0,,,,,0,2021,2020-21,div1,Chipola,chipolacollege,michaelespositofmnr,Michael Esposito
+Mar 23,home,Gulf Coast State,W,6-5,6,5,1.0,win,,,,,,,,,,,,,,,,,,,,,,,2021,2020-21,div1,Chipola,chipolacollege,michaelespositofmnr,Michael Esposito
+Mar 25,home,Gulf Coast State,W,9-1,9,1,8.0,win,,,,,,,,,,,,,,,,,,,,,,,2021,2020-21,div1,Chipola,chipolacollege,michaelespositofmnr,Michael Esposito
+Mar 27,home,Gulf Coast State,L,3-2,3,2,1.0,win,,,,,,,,,,,,,,,,,,,,,,,2021,2020-21,div1,Chipola,chipolacollege,michaelespositofmnr,Michael Esposito
+Mar 27,home,Gulf Coast State,W,4-0,4,0,4.0,win,20210327_sekc,0,0,0,,,,0,,,,,,,,0,0,,,,,0,2021,2020-21,div1,Chipola,chipolacollege,michaelespositofmnr,Michael Esposito
+Mar 30,home,Chattahoochee Valley,W,6-5,6,5,1.0,win,20210330_us76,0,0,0,,,,0,,,,,,,,0,0,,,,,0,2021,2020-21,div1,Chipola,chipolacollege,michaelespositofmnr,Michael Esposito
+Apr 6,home,Northwest Florida State,L,14-4,14,4,10.0,win,,,,,,,,,,,,,,,,,,,,,,,2021,2020-21,div1,Chipola,chipolacollege,michaelespositofmnr,Michael Esposito
+Apr 7,home,Northwest Florida State,W,8-4,8,4,4.0,win,,,,,,,,,,,,,,,,,,,,,,,2021,2020-21,div1,Chipola,chipolacollege,michaelespositofmnr,Michael Esposito
+Apr 11,home,Northwest Florida State,W,12-2,12,2,10.0,win,,,,,,,,,,,,,,,,,,,,,,,2021,2020-21,div1,Chipola,chipolacollege,michaelespositofmnr,Michael Esposito
+Apr 11,home,Northwest Florida State,L,6-3,6,3,3.0,win,,,,,,,,,,,,,,,,,,,,,,,2021,2020-21,div1,Chipola,chipolacollege,michaelespositofmnr,Michael Esposito
+Apr 12,home,Tallahassee,W,13-0,13,0,13.0,win,20210412_pkqu,0,0,0,,,,0,,,,,,,,0,0,,,,,0,2021,2020-21,div1,Chipola,chipolacollege,michaelespositofmnr,Michael Esposito
+Apr 14,home,Tallahassee,W,5-2,5,2,3.0,win,,,,,,,,,,,,,,,,,,,,,,,2021,2020-21,div1,Chipola,chipolacollege,michaelespositofmnr,Michael Esposito
+Apr 16,home,Northwest Florida State,L,7-6,7,6,1.0,win,,,,,,,,,,,,,,,,,,,,,,,2021,2020-21,div1,Chipola,chipolacollege,michaelespositofmnr,Michael Esposito
+Apr 18,home,Northwest Florida State,L,4-0,4,0,4.0,win,20210418_2h0k,0,0,0,,,,0,,,,,,,,0,0,,,,,0,2021,2020-21,div1,Chipola,chipolacollege,michaelespositofmnr,Michael Esposito
+Apr 19,home,Gulf Coast State,L,9-1,9,1,8.0,win,,,,,,,,,,,,,,,,,,,,,,,2021,2020-21,div1,Chipola,chipolacollege,michaelespositofmnr,Michael Esposito
+Apr 21,home,Gulf Coast State,W,12-1,12,1,11.0,win,,,,,,,,,,,,,,,,,,,,,,,2021,2020-21,div1,Chipola,chipolacollege,michaelespositofmnr,Michael Esposito
+Apr 26,home,Pensacola State,W,5-4,5,4,1.0,win,20210426_3uzr,0,0,0,,,,0,,,,,,,,0,0,,,,,0,2021,2020-21,div1,Chipola,chipolacollege,michaelespositofmnr,Michael Esposito
+Apr 28,home,Pensacola State,L,9-0,9,0,9.0,win,,,,,,,,,,,,,,,,,,,,,,,2021,2020-21,div1,Chipola,chipolacollege,michaelespositofmnr,Michael Esposito
+Apr 30,home,St. Johns River State,L,9-0,9,0,9.0,win,,,,,,,,,,,,,,,,,,,,,,,2021,2020-21,div1,Chipola,chipolacollege,michaelespositofmnr,Michael Esposito
+May 1,home,Southern Union State,,,,,9.0,win,,,,,,,,,,,,,,,,,,,,,,,2021,2020-21,div1,Chipola,chipolacollege,michaelespositofmnr,Michael Esposito
