@@ -1,24 +1,59 @@
-date,location,opponent,result,score,team_score,opp_score,game_score_diff_x,game_win_loss_x,game_id_x,AB,R,H,2B,3B,HR,RBI,BB,K,SB,CS,game_score_diff_y,game_win_loss_y,game_id_y,HBP,SF,SH,TB,XBH,HDP,GO,FO,GO/FO,PA,season,njcaa_season,njcaa_division,team,team_id,player_id,player_name
-Oct 2  #,home,Lawson State,,,,,,,,,,,,,,,,,,,10.0,win,,,,,,,,,,,,2021,2020-21,div1,Shelton State,sheltonstatecommunitycollege,griffincarrollkm03,Griffin Carroll
-Oct 15  #,home,Calhoun,,,,,,,,,,,,,,,,,,,10.0,win,,,,,,,,,,,,2021,2020-21,div1,Shelton State,sheltonstatecommunitycollege,griffincarrollkm03,Griffin Carroll
-Feb 9,home,Marion Military,W,9-6,9,6,3,win,20210209_wqel,2,0,1,,,,0,,,,,3.0,win,20210209_wqel,,,,1,0,,,,,2,2021,2020-21,div1,Shelton State,sheltonstatecommunitycollege,griffincarrollkm03,Griffin Carroll
-Feb 9,home,Marion Military,W,3-0,3,0,3,win,20210209_z1kd,2,0,1,,,,0,,1,,,3.0,win,20210209_z1kd,,,,1,0,,,,,2,2021,2020-21,div1,Shelton State,sheltonstatecommunitycollege,griffincarrollkm03,Griffin Carroll
-Mar 4,home,Snead State,L,6-4,6,4,2,win,20210304_mu6g,4,1,1,,,,0,,,,,2.0,win,20210304_mu6g,,,,1,0,,,,,4,2021,2020-21,div1,Shelton State,sheltonstatecommunitycollege,griffincarrollkm03,Griffin Carroll
-Mar 4,home,Snead State,W,6-0,6,0,6,win,20210304_xyzl,2,2,1,,,,1,1,1,,,6.0,win,20210304_xyzl,,,,1,0,,,,,3,2021,2020-21,div1,Shelton State,sheltonstatecommunitycollege,griffincarrollkm03,Griffin Carroll
-Mar 11,home,Southern Union State,W,2-1,2,1,1,win,20210311_t6ss,2,0,1,0,0,0,1,2,1,0,0,1.0,win,20210311_t6ss,1,0,0,1,0,,0,,,5,2021,2020-21,div1,Shelton State,sheltonstatecommunitycollege,griffincarrollkm03,Griffin Carroll
-Mar 11,home,Southern Union State,W,7-3,7,3,4,win,20210311_agll,3,2,1,0,0,0,2,0,1,0,0,4.0,win,20210311_agll,1,0,0,1,0,,0,,,4,2021,2020-21,div1,Shelton State,sheltonstatecommunitycollege,griffincarrollkm03,Griffin Carroll
-Mar 19,home,Lawson State,W,2-0,2,0,2,win,20210319_5f61,2,0,0,,,,0,,1,,,2.0,win,20210319_5f61,1,,,0,0,,,,,3,2021,2020-21,div1,Shelton State,sheltonstatecommunitycollege,griffincarrollkm03,Griffin Carroll
-Mar 19,home,Lawson State,W,7-0,7,0,7,win,20210319_px3g,3,0,1,,,,0,,,,,7.0,win,20210319_px3g,,,,1,0,,,,,3,2021,2020-21,div1,Shelton State,sheltonstatecommunitycollege,griffincarrollkm03,Griffin Carroll
-Mar 26,home,Calhoun,W,6-4,6,4,2,win,20210326_37s1,1,0,0,,,,0,2,,,,2.0,win,20210326_37s1,,,,0,0,,,,,3,2021,2020-21,div1,Shelton State,sheltonstatecommunitycollege,griffincarrollkm03,Griffin Carroll
-Mar 26,home,Calhoun,W,6-0,6,0,6,win,20210326_u80g,3,1,2,,,,0,,1,,,6.0,win,20210326_u80g,,,,2,0,,,,,3,2021,2020-21,div1,Shelton State,sheltonstatecommunitycollege,griffincarrollkm03,Griffin Carroll
-Apr 3,home,Central Alabama,W,8-4,8,4,4,win,20210403_8uur,4,1,1,,,,1,,1,,,4.0,win,20210403_8uur,,,,1,0,,,,,4,2021,2020-21,div1,Shelton State,sheltonstatecommunitycollege,griffincarrollkm03,Griffin Carroll
-Apr 3,home,Central Alabama,W,8-0,8,0,8,win,20210403_4a4n,2,1,1,,,,0,2,,,,8.0,win,20210403_4a4n,,,,1,0,,,,,4,2021,2020-21,div1,Shelton State,sheltonstatecommunitycollege,griffincarrollkm03,Griffin Carroll
-Apr 15,home,Bevill State,W,6-1,6,1,5,win,20210415_wum8,2,1,2,1,,,0,1,,,,5.0,win,20210415_wum8,,,1,3,1,,,,,4,2021,2020-21,div1,Shelton State,sheltonstatecommunitycollege,griffincarrollkm03,Griffin Carroll
-Apr 15,home,Bevill State,W,15-0,15,0,15,win,20210415_rldc,2,0,0,,,,1,1,,1,,15.0,win,20210415_rldc,,,,0,0,,,,,3,2021,2020-21,div1,Shelton State,sheltonstatecommunitycollege,griffincarrollkm03,Griffin Carroll
-Apr 20,home,Wallace-Selma,,,,,4,win,,,,,,,,,,,,,4.0,win,,,,,,,,,,,,2021,2020-21,div1,Shelton State,sheltonstatecommunitycollege,griffincarrollkm03,Griffin Carroll
-Apr 24,home,Wallace State,L,5-4,5,4,1,win,20210424_xjg9,2,0,0,,,,1,,,,,1.0,win,20210424_xjg9,,1,,0,0,,,,,3,2021,2020-21,div1,Shelton State,sheltonstatecommunitycollege,griffincarrollkm03,Griffin Carroll
-Apr 24,home,Wallace State,L,10-8,10,8,2,win,20210424_im8l,3,1,0,,,,0,,,,,2.0,win,20210424_im8l,1,,,0,0,,,,,4,2021,2020-21,div1,Shelton State,sheltonstatecommunitycollege,griffincarrollkm03,Griffin Carroll
-May 1,home,Marion Military,W,7-3,7,3,4,win,,,,,,,,,,,,,4.0,win,,,,,,,,,,,,2021,2020-21,div1,Shelton State,sheltonstatecommunitycollege,griffincarrollkm03,Griffin Carroll
-May 1,home,Marion Military,W,10-6,10,6,4,win,20210501_vfv8,3,0,1,,,,2,1,1,,,4.0,win,20210501_vfv8,,,,1,0,,,,,4,2021,2020-21,div1,Shelton State,sheltonstatecommunitycollege,griffincarrollkm03,Griffin Carroll
-May 8,home,Southern Union State,W,5-4,5,4,1,win,20210508_gq31,3,1,0,0,0,0,0,1,0,0,0,1.0,win,20210508_gq31,1,0,0,0,0,,0,,,5,2021,2020-21,div1,Shelton State,sheltonstatecommunitycollege,griffincarrollkm03,Griffin Carroll
-May 10,home,Chattahoochee Valley,W,12-10,12,10,2,win,20210510_0174,4,2,1,,,,0,2,2,,,2.0,win,20210510_0174,,,,1,0,,,,,6,2021,2020-21,div1,Shelton State,sheltonstatecommunitycollege,griffincarrollkm03,Griffin Carroll
+date,location,opponent,result,score,team_score,opp_score,game_score_diff,game_win_loss,game_id,AB,R,H,2B,3B,HR,RBI,BB,K,SB,CS,HBP,SF,SH,TB,XBH,HDP,GO,FO,GO/FO,PA,season,njcaa_season,njcaa_division,team,team_id,player_id,player_name
+Feb 9,home,Marion Military,W,9-6,9,6,3,win,20210209_wqel,2,0,1,,,,0,,,,,,,,1,0,,,,,2,2021,2020-21,div1,Shelton State,sheltonstatecommunitycollege,griffincarrollkm03,Griffin Carroll
+Feb 9,home,Marion Military,W,3-0,3,0,3,win,20210209_z1kd,2,0,1,,,,0,,1,,,,,,1,0,,,,,2,2021,2020-21,div1,Shelton State,sheltonstatecommunitycollege,griffincarrollkm03,Griffin Carroll
+Feb 11,home,Tallahassee,L,4-3,4,3,1,win,20210211_38nl,3,1,1,,,,0,1,1,,,,,,1,0,,,,,4,2021,2020-21,div1,Shelton State,sheltonstatecommunitycollege,griffincarrollkm03,Griffin Carroll
+Feb 11,home,Tallahassee,W,5-1,5,1,4,win,,,,,,,,,,,,,,,,,,,,,,,2021,2020-21,div1,Shelton State,sheltonstatecommunitycollege,griffincarrollkm03,Griffin Carroll
+Feb 12,home,Tallahassee,W,5-4,5,4,1,win,20210212_yit2,1,0,1,,,,0,1,,,,,,,1,0,,,,,2,2021,2020-21,div1,Shelton State,sheltonstatecommunitycollege,griffincarrollkm03,Griffin Carroll
+Feb 19,home,Gulf Coast State,W,10-2,10,2,8,win,20210219_tcko,2,1,2,,,,1,1,,,,,,,2,0,,,,,3,2021,2020-21,div1,Shelton State,sheltonstatecommunitycollege,griffincarrollkm03,Griffin Carroll
+Feb 19,home,Wallace-Dothan,W,13-0,13,0,13,win,,,,,,,,,,,,,,,,,,,,,,,2021,2020-21,div1,Shelton State,sheltonstatecommunitycollege,griffincarrollkm03,Griffin Carroll
+Feb 20,home,Gulf Coast State,L,13-5,13,5,8,win,20210220_eihv,3,1,2,,,,1,1,1,,,,,,2,0,,,,,4,2021,2020-21,div1,Shelton State,sheltonstatecommunitycollege,griffincarrollkm03,Griffin Carroll
+Feb 20,home,Wallace-Dothan,W,10-3,10,3,7,win,20210220_q4ge,3,0,2,1,,,2,,1,,,,,,3,1,,,,,3,2021,2020-21,div1,Shelton State,sheltonstatecommunitycollege,griffincarrollkm03,Griffin Carroll
+Feb 25,home,Northwest Florida State,L,7-3,7,3,4,win,20210225_kowj,4,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,,0,,,4,2021,2020-21,div1,Shelton State,sheltonstatecommunitycollege,griffincarrollkm03,Griffin Carroll
+Feb 26,home,Northwest Florida State,W,8-6,8,6,2,win,20210226_2iw3,3,0,1,,,,0,,2,,,1,,,1,0,,,,,4,2021,2020-21,div1,Shelton State,sheltonstatecommunitycollege,griffincarrollkm03,Griffin Carroll
+Feb 26,home,Coastal Alabama - Bay Minette,L,2-0,2,0,2,win,20210226_sd2m,1,0,0,,,,0,,,,,,,,0,0,,,,,1,2021,2020-21,div1,Shelton State,sheltonstatecommunitycollege,griffincarrollkm03,Griffin Carroll
+Feb 27,home,Northwest Florida State,L,9-2,9,2,7,win,20210227_dnxt,3,0,1,1,,,1,,1,,,,,,2,1,,,,,3,2021,2020-21,div1,Shelton State,sheltonstatecommunitycollege,griffincarrollkm03,Griffin Carroll
+Mar 4,home,Snead State,L,6-4,6,4,2,win,20210304_mu6g,4,1,1,,,,0,,,,,,,,1,0,,,,,4,2021,2020-21,div1,Shelton State,sheltonstatecommunitycollege,griffincarrollkm03,Griffin Carroll
+Mar 4,home,Snead State,W,6-0,6,0,6,win,20210304_xyzl,2,2,1,,,,1,1,1,,,,,,1,0,,,,,3,2021,2020-21,div1,Shelton State,sheltonstatecommunitycollege,griffincarrollkm03,Griffin Carroll
+Mar 6,home,Snead State,L,6-1,6,1,5,win,20210306_roc3,3,0,0,,,,0,,2,,,1,,,0,0,,,,,4,2021,2020-21,div1,Shelton State,sheltonstatecommunitycollege,griffincarrollkm03,Griffin Carroll
+Mar 6,home,Snead State,L,14-4,14,4,10,win,20210306_vahv,2,1,1,,,1,2,,,,,1,,,4,1,,,,,3,2021,2020-21,div1,Shelton State,sheltonstatecommunitycollege,griffincarrollkm03,Griffin Carroll
+Mar 9,home,Stillman College,W,14-0,14,0,14,win,20210309_4dkr,2,0,0,,,,0,,,,,,,,0,0,,,,,2,2021,2020-21,div1,Shelton State,sheltonstatecommunitycollege,griffincarrollkm03,Griffin Carroll
+Mar 11,home,Southern Union State,W,2-1,2,1,1,win,20210311_t6ss,2,0,1,0,0,0,1,2,1,0,0,1,0,0,1,0,,0,,,5,2021,2020-21,div1,Shelton State,sheltonstatecommunitycollege,griffincarrollkm03,Griffin Carroll
+Mar 11,home,Southern Union State,W,7-3,7,3,4,win,20210311_agll,3,2,1,0,0,0,2,0,1,0,0,1,0,0,1,0,,0,,,4,2021,2020-21,div1,Shelton State,sheltonstatecommunitycollege,griffincarrollkm03,Griffin Carroll
+Mar 13,home,Southern Union State,W,2-1,2,1,1,win,20210313_dit4,3,0,1,0,0,0,0,0,2,0,0,0,0,0,1,0,,0,,,3,2021,2020-21,div1,Shelton State,sheltonstatecommunitycollege,griffincarrollkm03,Griffin Carroll
+Mar 13,home,Southern Union State,L,4-3,4,3,1,win,20210313_2l20,3,1,1,0,0,0,0,0,1,0,0,0,0,0,1,0,,0,,,3,2021,2020-21,div1,Shelton State,sheltonstatecommunitycollege,griffincarrollkm03,Griffin Carroll
+Mar 19,home,Lawson State,W,2-0,2,0,2,win,20210319_5f61,2,0,0,,,,0,,1,,,1,,,0,0,,,,,3,2021,2020-21,div1,Shelton State,sheltonstatecommunitycollege,griffincarrollkm03,Griffin Carroll
+Mar 19,home,Lawson State,W,7-0,7,0,7,win,20210319_px3g,3,0,1,,,,0,,,,,,,,1,0,,,,,3,2021,2020-21,div1,Shelton State,sheltonstatecommunitycollege,griffincarrollkm03,Griffin Carroll
+Mar 21,home,Lawson State,L,4-0,4,0,4,win,20210321_0s4i,2,0,0,,,,0,1,,,,,,,0,0,,,,,3,2021,2020-21,div1,Shelton State,sheltonstatecommunitycollege,griffincarrollkm03,Griffin Carroll
+Mar 21,home,Lawson State,L,8-1,8,1,7,win,20210321_w2rw,3,0,2,1,,,1,,,,,,,,3,1,,,,,3,2021,2020-21,div1,Shelton State,sheltonstatecommunitycollege,griffincarrollkm03,Griffin Carroll
+Mar 26,home,Calhoun,W,6-4,6,4,2,win,20210326_37s1,1,0,0,,,,0,2,,,,,,,0,0,,,,,3,2021,2020-21,div1,Shelton State,sheltonstatecommunitycollege,griffincarrollkm03,Griffin Carroll
+Mar 26,home,Calhoun,W,6-0,6,0,6,win,20210326_u80g,3,1,2,,,,0,,1,,,,,,2,0,,,,,3,2021,2020-21,div1,Shelton State,sheltonstatecommunitycollege,griffincarrollkm03,Griffin Carroll
+Mar 29,home,Calhoun,W,11-5,11,5,6,win,,,,,,,,,,,,,,,,,,,,,,,2021,2020-21,div1,Shelton State,sheltonstatecommunitycollege,griffincarrollkm03,Griffin Carroll
+Mar 29,home,Calhoun,W,9-1,9,1,8,win,20210329_18mq,1,2,1,,,1,1,1,,,,,,,4,1,,,,,2,2021,2020-21,div1,Shelton State,sheltonstatecommunitycollege,griffincarrollkm03,Griffin Carroll
+Mar 30,home,Wallace-Selma,W,11-6,11,6,5,win,20210330_0uf2,2,1,2,,,,0,,,,,1,,,2,0,,,,,3,2021,2020-21,div1,Shelton State,sheltonstatecommunitycollege,griffincarrollkm03,Griffin Carroll
+Apr 2,home,Central Alabama,W,12-4,12,4,8,win,20210402_0qdt,2,4,2,,,,1,2,,,,,,,2,0,,,,,4,2021,2020-21,div1,Shelton State,sheltonstatecommunitycollege,griffincarrollkm03,Griffin Carroll
+Apr 2,home,Central Alabama,W,9-5,9,5,4,win,20210402_73j6,3,0,0,,,,0,2,1,,,,,,0,0,,,,,5,2021,2020-21,div1,Shelton State,sheltonstatecommunitycollege,griffincarrollkm03,Griffin Carroll
+Apr 3,home,Central Alabama,W,8-4,8,4,4,win,20210403_8uur,4,1,1,,,,1,,1,,,,,,1,0,,,,,4,2021,2020-21,div1,Shelton State,sheltonstatecommunitycollege,griffincarrollkm03,Griffin Carroll
+Apr 3,home,Central Alabama,W,8-0,8,0,8,win,20210403_4a4n,2,1,1,,,,0,2,,,,,,,1,0,,,,,4,2021,2020-21,div1,Shelton State,sheltonstatecommunitycollege,griffincarrollkm03,Griffin Carroll
+Apr 5,home,Wallace-Dothan,W,16-15,16,15,1,win,20210405_by6s,2,3,1,,,,1,3,1,,,1,,,1,0,,,,,6,2021,2020-21,div1,Shelton State,sheltonstatecommunitycollege,griffincarrollkm03,Griffin Carroll
+Apr 15,home,Bevill State,W,6-1,6,1,5,win,20210415_wum8,2,1,2,1,,,0,1,,,,,,1,3,1,,,,,4,2021,2020-21,div1,Shelton State,sheltonstatecommunitycollege,griffincarrollkm03,Griffin Carroll
+Apr 15,home,Bevill State,W,15-0,15,0,15,win,20210415_rldc,2,0,0,,,,1,1,,1,,,,,0,0,,,,,3,2021,2020-21,div1,Shelton State,sheltonstatecommunitycollege,griffincarrollkm03,Griffin Carroll
+Apr 17,home,Bevill State,W,8-4,8,4,4,win,20210417_ft1i,3,1,1,1,,,0,,,,,,,,2,1,,,,,3,2021,2020-21,div1,Shelton State,sheltonstatecommunitycollege,griffincarrollkm03,Griffin Carroll
+Apr 17,home,Bevill State,W,9-5,9,5,4,win,,,,,,,,,,,,,,,,,,,,,,,2021,2020-21,div1,Shelton State,sheltonstatecommunitycollege,griffincarrollkm03,Griffin Carroll
+Apr 20,home,Wallace-Selma,,,,,4,win,,,,,,,,,,,,,,,,,,,,,,,2021,2020-21,div1,Shelton State,sheltonstatecommunitycollege,griffincarrollkm03,Griffin Carroll
+Apr 22,home,Wallace State,L,7-0,7,0,7,win,20210422_0rb0,3,0,1,,,,0,,,,,,,,1,0,,,,,3,2021,2020-21,div1,Shelton State,sheltonstatecommunitycollege,griffincarrollkm03,Griffin Carroll
+Apr 22,home,Wallace State,W,12-5,12,5,7,win,20210422_j8ie,3,1,1,,,,1,2,,,,,,,1,0,,,,,5,2021,2020-21,div1,Shelton State,sheltonstatecommunitycollege,griffincarrollkm03,Griffin Carroll
+Apr 24,home,Wallace State,L,5-4,5,4,1,win,20210424_xjg9,2,0,0,,,,1,,,,,,1,,0,0,,,,,3,2021,2020-21,div1,Shelton State,sheltonstatecommunitycollege,griffincarrollkm03,Griffin Carroll
+Apr 24,home,Wallace State,L,10-8,10,8,2,win,20210424_im8l,3,1,0,,,,0,,,,,1,,,0,0,,,,,4,2021,2020-21,div1,Shelton State,sheltonstatecommunitycollege,griffincarrollkm03,Griffin Carroll
+Apr 29,home,Marion Military,W,11-4,11,4,7,win,20210429_7q72,3,1,2,,,,1,1,1,,,,,,2,0,,,,,4,2021,2020-21,div1,Shelton State,sheltonstatecommunitycollege,griffincarrollkm03,Griffin Carroll
+Apr 29,home,Marion Military,W,7-1,7,1,6,win,20210429_we2s,2,1,2,,,,1,,,,,,1,,2,0,,,,,3,2021,2020-21,div1,Shelton State,sheltonstatecommunitycollege,griffincarrollkm03,Griffin Carroll
+May 1,home,Marion Military,W,7-3,7,3,4,win,,,,,,,,,,,,,,,,,,,,,,,2021,2020-21,div1,Shelton State,sheltonstatecommunitycollege,griffincarrollkm03,Griffin Carroll
+May 1,home,Marion Military,W,10-6,10,6,4,win,20210501_vfv8,3,0,1,,,,2,1,1,,,,,,1,0,,,,,4,2021,2020-21,div1,Shelton State,sheltonstatecommunitycollege,griffincarrollkm03,Griffin Carroll
+May 7,home,Coastal Alabama - Monroeville,W,14-0,14,0,14,win,20210507_xfc7,0,3,0,,,,0,3,,,,,,,0,0,,,,,3,2021,2020-21,div1,Shelton State,sheltonstatecommunitycollege,griffincarrollkm03,Griffin Carroll
+May 8,home,Southern Union State,W,5-4,5,4,1,win,20210508_gq31,3,1,0,0,0,0,0,1,0,0,0,1,0,0,0,0,,0,,,5,2021,2020-21,div1,Shelton State,sheltonstatecommunitycollege,griffincarrollkm03,Griffin Carroll
+May 9,home,Wallace-Dothan,L,12-0,12,0,12,win,20210509_ft8c,1,0,0,,,,0,2,,,,1,,,0,0,,,,,4,2021,2020-21,div1,Shelton State,sheltonstatecommunitycollege,griffincarrollkm03,Griffin Carroll
+May 10,home,Chattahoochee Valley,W,12-10,12,10,2,win,20210510_0174,4,2,1,,,,0,2,2,,,,,,1,0,,,,,6,2021,2020-21,div1,Shelton State,sheltonstatecommunitycollege,griffincarrollkm03,Griffin Carroll
+May 11,home,Wallace-Dothan,W,13-3,13,3,10,win,20210511_vsyi,4,1,1,1,,,0,1,1,,,,,,2,1,,,,,5,2021,2020-21,div1,Shelton State,sheltonstatecommunitycollege,griffincarrollkm03,Griffin Carroll
+May 12,home,Wallace-Dothan,W,22-6,22,6,16,win,20210512_h70w,5,2,0,,,,0,,1,,,2,,,0,0,,,,,7,2021,2020-21,div1,Shelton State,sheltonstatecommunitycollege,griffincarrollkm03,Griffin Carroll
+May 29,home,(2) Walter State,W,13-7,13,7,6,win,20210529_hpk8,5,2,1,,,1,1,,4,,,1,,,4,1,,,,,6,2021,2020-21,div1,Shelton State,sheltonstatecommunitycollege,griffincarrollkm03,Griffin Carroll
+May 31,home,(3) San Jacinto-North,L,11-10,11,10,1,win,20210531_hxh4,4,0,0,,,,0,1,2,,,1,,,0,0,1,2,,,6,2021,2020-21,div1,Shelton State,sheltonstatecommunitycollege,griffincarrollkm03,Griffin Carroll
+Jun 1,home,(5) Cowley,L,24-14,24,14,10,win,20210601_zbf9,4,2,1,,,,1,1,2,,,,,,1,0,,,,,5,2021,2020-21,div1,Shelton State,sheltonstatecommunitycollege,griffincarrollkm03,Griffin Carroll

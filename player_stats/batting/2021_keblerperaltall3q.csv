@@ -1,24 +1,62 @@
-date,location,opponent,result,score,team_score,opp_score,game_score_diff_x,game_win_loss_x,game_id_x,AB,R,H,2B,3B,HR,RBI,BB,K,SB,CS,game_score_diff_y,game_win_loss_y,game_id_y,HBP,SF,SH,TB,XBH,HDP,GO,FO,GO/FO,PA,season,njcaa_season,njcaa_division,team,team_id,player_id,player_name
-Oct 2,home,Western Texas,,,,,,,,,,,,,,,,,,,1.0,win,,,,,,,,,,,,2021,2020-21,div1,Howard (TX),howardcollege,keblerperaltall3q,Kebler Peralta
-Feb 6,home,Wayland Baptist University,W,14-4,14,4,10,win,,,,,,,,,,,,,10.0,win,,,,,,,,,,,,2021,2020-21,div1,Howard (TX),howardcollege,keblerperaltall3q,Kebler Peralta
-Feb 6,home,Wayland Baptist University,W,14-4,14,4,10,win,,,,,,,,,,,,,10.0,win,,,,,,,,,,,,2021,2020-21,div1,Howard (TX),howardcollege,keblerperaltall3q,Kebler Peralta
-Feb 6,home,Wayland Baptist University,W,14-4,14,4,10,win,,,,,,,,,,,,,10.0,win,,,,,,,,,,,,2021,2020-21,div1,Howard (TX),howardcollege,keblerperaltall3q,Kebler Peralta
-Feb 6,home,Wayland Baptist University,W,14-4,14,4,10,win,,,,,,,,,,,,,10.0,win,,,,,,,,,,,,2021,2020-21,div1,Howard (TX),howardcollege,keblerperaltall3q,Kebler Peralta
-Feb 26,home,Ranger,W,11-4,11,4,7,win,20210226_cpdy,3,1,1,,,,1,,,,,7.0,win,20210226_cpdy,,,,1,0,,,,,3,2021,2020-21,div1,Howard (TX),howardcollege,keblerperaltall3q,Kebler Peralta
-Feb 26,home,Ranger,W,15-2,15,2,13,win,20210226_1nto,3,1,2,,,,2,,,,,13.0,win,20210226_1nto,,,,2,0,,,,,3,2021,2020-21,div1,Howard (TX),howardcollege,keblerperaltall3q,Kebler Peralta
-Mar 12,home,Western Texas,L,6-4,6,4,2,win,20210312_q26d,3,0,0,,,,0,,1,1,,2.0,win,20210312_q26d,,,,0,0,,,,,3,2021,2020-21,div1,Howard (TX),howardcollege,keblerperaltall3q,Kebler Peralta
-Mar 12,home,Western Texas,W,10-5,10,5,5,win,20210312_snt3,4,2,1,1,,,0,,1,,,5.0,win,20210312_snt3,,,,2,1,,,,,4,2021,2020-21,div1,Howard (TX),howardcollege,keblerperaltall3q,Kebler Peralta
-Mar 19,home,Clarendon,W,4-0,4,0,4,win,20210319_f9et,2,1,1,,,,0,1,,,,4.0,win,20210319_f9et,,,,1,0,,,,,3,2021,2020-21,div1,Howard (TX),howardcollege,keblerperaltall3q,Kebler Peralta
-Mar 19,home,Clarendon,L,10-0,10,0,10,win,20210319_xgqi,1,0,0,,,,0,1,,,,10.0,win,20210319_xgqi,,,,0,0,,,,,2,2021,2020-21,div1,Howard (TX),howardcollege,keblerperaltall3q,Kebler Peralta
-Mar 20,home,Clarendon,W,9-6,9,6,3,win,20210320_6el4,2,0,0,,,,0,,,,,3.0,win,20210320_6el4,,,,0,0,,,,,2,2021,2020-21,div1,Howard (TX),howardcollege,keblerperaltall3q,Kebler Peralta
-Mar 20,home,Clarendon,L,12-11,12,11,1,win,20210320_zwew,5,1,1,,,,1,,1,1,,1.0,win,20210320_zwew,,,,1,0,,,,,5,2021,2020-21,div1,Howard (TX),howardcollege,keblerperaltall3q,Kebler Peralta
-Mar 26,home,New Mexico Military,W,5-4,5,4,1,win,20210326_qwkq,2,1,1,1,,,0,1,1,,,1.0,win,20210326_qwkq,,,,2,1,,,,,3,2021,2020-21,div1,Howard (TX),howardcollege,keblerperaltall3q,Kebler Peralta
-Mar 26,home,New Mexico Military,W,17-1,17,1,16,win,20210326_4izf,4,1,2,,,1,4,,,,,16.0,win,20210326_4izf,,,,5,1,,,,,4,2021,2020-21,div1,Howard (TX),howardcollege,keblerperaltall3q,Kebler Peralta
-Mar 27,home,New Mexico Military,W,17-7,17,7,10,win,20210327_i2ws,2,1,2,,,,0,1,,,,10.0,win,20210327_i2ws,,,,2,0,,,,,3,2021,2020-21,div1,Howard (TX),howardcollege,keblerperaltall3q,Kebler Peralta
-Mar 27,home,New Mexico Military,W,13-5,13,5,8,win,20210327_e4zs,2,2,2,,,,1,1,,,,8.0,win,20210327_e4zs,,,,2,0,,,,,3,2021,2020-21,div1,Howard (TX),howardcollege,keblerperaltall3q,Kebler Peralta
-Apr 10,home,Western Texas,W,10-7,10,7,3,win,20210410_jvim,2,1,1,,,,0,,,,,3.0,win,20210410_jvim,1,,,1,0,,,,,3,2021,2020-21,div1,Howard (TX),howardcollege,keblerperaltall3q,Kebler Peralta
-Apr 10,home,Western Texas,W,14-3,14,3,11,win,20210410_qbzh,2,2,2,,,,1,1,,,,11.0,win,20210410_qbzh,,,,2,0,,,,,3,2021,2020-21,div1,Howard (TX),howardcollege,keblerperaltall3q,Kebler Peralta
-Apr 18,home,Midland,W,20-10,20,10,10,win,20210418_efl9,4,2,2,2,,,2,,1,,,10.0,win,20210418_efl9,,,,4,2,,,,,4,2021,2020-21,div1,Howard (TX),howardcollege,keblerperaltall3q,Kebler Peralta
-Apr 18,home,Midland,L,17-8,17,8,9,win,20210418_70el,4,0,1,,,,0,,2,1,,9.0,win,20210418_70el,,,,1,0,,,,,4,2021,2020-21,div1,Howard (TX),howardcollege,keblerperaltall3q,Kebler Peralta
-May 1,home,Odessa,L,15-14,15,14,1,win,,,,,,,,,,,,,1.0,win,,,,,,,,,,,,2021,2020-21,div1,Howard (TX),howardcollege,keblerperaltall3q,Kebler Peralta
-May 14,home,Cisco,L,10-6,10,6,4,win,20210514_ysuw,3,0,0,,,,0,2,2,,,4.0,win,20210514_ysuw,,,,0,0,,,,,5,2021,2020-21,div1,Howard (TX),howardcollege,keblerperaltall3q,Kebler Peralta
+date,location,opponent,result,score,team_score,opp_score,game_score_diff,game_win_loss,game_id,AB,R,H,2B,3B,HR,RBI,BB,K,SB,CS,HBP,SF,SH,TB,XBH,HDP,GO,FO,GO/FO,PA,season,njcaa_season,njcaa_division,team,team_id,player_id,player_name
+Jan 29,home,Grayson,L,17-3,17,3,14,win,20210129_4mbc,2,0,1,0,0,0,0,1,1,0,0,0,0,0,1,0,,0,,,3,2021,2020-21,div1,Howard (TX),howardcollege,keblerperaltall3q,Kebler Peralta
+Jan 29,home,San Jacinto,W,10-7,10,7,3,win,20210129_8p1z,4,1,1,,1,,0,1,2,,,,,,3,1,,,,,5,2021,2020-21,div1,Howard (TX),howardcollege,keblerperaltall3q,Kebler Peralta
+Jan 30,home,McLennan,L,18-10,18,10,8,win,20210130_zolx,4,0,1,,,,0,1,1,,,,,,1,0,,,,,5,2021,2020-21,div1,Howard (TX),howardcollege,keblerperaltall3q,Kebler Peralta
+Jan 30,home,Navarro,L,21-11,21,11,10,win,,,,,,,,,,,,,,,,,,,,,,,2021,2020-21,div1,Howard (TX),howardcollege,keblerperaltall3q,Kebler Peralta
+Feb 4,home,Wayland Baptist University,W,13-0,13,0,13,win,20210204_gb1f,1,1,0,,,,0,2,1,2,,1,,,0,0,,,,,4,2021,2020-21,div1,Howard (TX),howardcollege,keblerperaltall3q,Kebler Peralta
+Feb 4,home,Wayland Baptist University,W,17-5,17,5,12,win,,,,,,,,,,,,,,,,,,,,,,,2021,2020-21,div1,Howard (TX),howardcollege,keblerperaltall3q,Kebler Peralta
+Feb 6,home,Wayland Baptist University,W,14-4,14,4,10,win,,,,,,,,,,,,,,,,,,,,,,,2021,2020-21,div1,Howard (TX),howardcollege,keblerperaltall3q,Kebler Peralta
+Feb 6,home,Wayland Baptist University,W,14-4,14,4,10,win,,,,,,,,,,,,,,,,,,,,,,,2021,2020-21,div1,Howard (TX),howardcollege,keblerperaltall3q,Kebler Peralta
+Feb 6,home,Wayland Baptist University,W,14-4,14,4,10,win,,,,,,,,,,,,,,,,,,,,,,,2021,2020-21,div1,Howard (TX),howardcollege,keblerperaltall3q,Kebler Peralta
+Feb 6,home,Wayland Baptist University,W,14-4,14,4,10,win,,,,,,,,,,,,,,,,,,,,,,,2021,2020-21,div1,Howard (TX),howardcollege,keblerperaltall3q,Kebler Peralta
+Feb 12,home,Blinn,,,,,10,win,,,,,,,,,,,,,,,,,,,,,,,2021,2020-21,div1,Howard (TX),howardcollege,keblerperaltall3q,Kebler Peralta
+Feb 12,home,Blinn,,,,,10,win,,,,,,,,,,,,,,,,,,,,,,,2021,2020-21,div1,Howard (TX),howardcollege,keblerperaltall3q,Kebler Peralta
+Feb 12,home,Blinn,,,,,10,win,,,,,,,,,,,,,,,,,,,,,,,2021,2020-21,div1,Howard (TX),howardcollege,keblerperaltall3q,Kebler Peralta
+Feb 12,home,Blinn,,,,,10,win,,,,,,,,,,,,,,,,,,,,,,,2021,2020-21,div1,Howard (TX),howardcollege,keblerperaltall3q,Kebler Peralta
+Feb 13,home,Blinn,,,,,10,win,,,,,,,,,,,,,,,,,,,,,,,2021,2020-21,div1,Howard (TX),howardcollege,keblerperaltall3q,Kebler Peralta
+Feb 13,home,Blinn,,,,,10,win,,,,,,,,,,,,,,,,,,,,,,,2021,2020-21,div1,Howard (TX),howardcollege,keblerperaltall3q,Kebler Peralta
+Feb 13,home,Blinn,,,,,10,win,,,,,,,,,,,,,,,,,,,,,,,2021,2020-21,div1,Howard (TX),howardcollege,keblerperaltall3q,Kebler Peralta
+Feb 13,home,Blinn,,,,,10,win,,,,,,,,,,,,,,,,,,,,,,,2021,2020-21,div1,Howard (TX),howardcollege,keblerperaltall3q,Kebler Peralta
+Feb 21,home,McLennan,,,,,10,win,,,,,,,,,,,,,,,,,,,,,,,2021,2020-21,div1,Howard (TX),howardcollege,keblerperaltall3q,Kebler Peralta
+Feb 22,home,Weatherford,L,14-6,14,6,8,win,,,,,,,,,,,,,,,,,,,,,,,2021,2020-21,div1,Howard (TX),howardcollege,keblerperaltall3q,Kebler Peralta
+Feb 26,home,Ranger,W,11-4,11,4,7,win,20210226_cpdy,3,1,1,,,,1,,,,,,,,1,0,,,,,3,2021,2020-21,div1,Howard (TX),howardcollege,keblerperaltall3q,Kebler Peralta
+Feb 26,home,Ranger,W,15-2,15,2,13,win,20210226_1nto,3,1,2,,,,2,,,,,,,,2,0,,,,,3,2021,2020-21,div1,Howard (TX),howardcollege,keblerperaltall3q,Kebler Peralta
+Feb 27,home,Ranger,W,17-5,17,5,12,win,20210227_ojal,3,2,1,,,,1,1,1,,,,,,1,0,,,,,4,2021,2020-21,div1,Howard (TX),howardcollege,keblerperaltall3q,Kebler Peralta
+Feb 27,home,Ranger,W,14-0,14,0,14,win,20210227_18zc,3,0,1,,,,2,1,,,,,,,1,0,,,,,4,2021,2020-21,div1,Howard (TX),howardcollege,keblerperaltall3q,Kebler Peralta
+Mar 5,home,Baton Rouge,W,7-5,7,5,2,win,20210305_asol,3,0,1,,,,0,,1,,,,,,1,0,,,,,3,2021,2020-21,div1,Howard (TX),howardcollege,keblerperaltall3q,Kebler Peralta
+Mar 5,home,Baton Rouge,W,4-2,4,2,2,win,20210305_2tta,3,0,1,1,,,2,,1,,,,,,2,1,,,,,3,2021,2020-21,div1,Howard (TX),howardcollege,keblerperaltall3q,Kebler Peralta
+Mar 6,home,Baton Rouge,W,16-15,16,15,1,win,20210306_2vpm,4,3,2,,,,0,1,1,1,,,,,2,0,,,,,5,2021,2020-21,div1,Howard (TX),howardcollege,keblerperaltall3q,Kebler Peralta
+Mar 6,home,Baton Rouge,W,13-3,13,3,10,win,20210306_zn0v,2,2,1,,,,1,2,,,,,,,1,0,,,,,4,2021,2020-21,div1,Howard (TX),howardcollege,keblerperaltall3q,Kebler Peralta
+Mar 10,home,Midland,L,12-8,12,8,4,win,20210310_u7zg,3,0,1,,,,1,,1,1,1,,,,1,0,,,,,3,2021,2020-21,div1,Howard (TX),howardcollege,keblerperaltall3q,Kebler Peralta
+Mar 12,home,Western Texas,L,6-4,6,4,2,win,20210312_q26d,3,0,0,,,,0,,1,1,,,,,0,0,,,,,3,2021,2020-21,div1,Howard (TX),howardcollege,keblerperaltall3q,Kebler Peralta
+Mar 12,home,Western Texas,W,10-5,10,5,5,win,20210312_snt3,4,2,1,1,,,0,,1,,,,,,2,1,,,,,4,2021,2020-21,div1,Howard (TX),howardcollege,keblerperaltall3q,Kebler Peralta
+Mar 19,home,Clarendon,W,4-0,4,0,4,win,20210319_f9et,2,1,1,,,,0,1,,,,,,,1,0,,,,,3,2021,2020-21,div1,Howard (TX),howardcollege,keblerperaltall3q,Kebler Peralta
+Mar 19,home,Clarendon,L,10-0,10,0,10,win,20210319_xgqi,1,0,0,,,,0,1,,,,,,,0,0,,,,,2,2021,2020-21,div1,Howard (TX),howardcollege,keblerperaltall3q,Kebler Peralta
+Mar 20,home,Clarendon,W,9-6,9,6,3,win,20210320_6el4,2,0,0,,,,0,,,,,,,,0,0,,,,,2,2021,2020-21,div1,Howard (TX),howardcollege,keblerperaltall3q,Kebler Peralta
+Mar 20,home,Clarendon,L,12-11,12,11,1,win,20210320_zwew,5,1,1,,,,1,,1,1,,,,,1,0,,,,,5,2021,2020-21,div1,Howard (TX),howardcollege,keblerperaltall3q,Kebler Peralta
+Mar 22,home,San Jacinto,W,17-5,17,5,12,win,20210322_wgcv,3,0,0,,,,1,1,1,,,1,,,0,0,,,,,5,2021,2020-21,div1,Howard (TX),howardcollege,keblerperaltall3q,Kebler Peralta
+Mar 22,home,San Jacinto,L,11-3,11,3,8,win,20210322_9fbf,3,1,0,,,,0,1,1,,,1,,,0,0,,,,,5,2021,2020-21,div1,Howard (TX),howardcollege,keblerperaltall3q,Kebler Peralta
+Mar 26,home,New Mexico Military,W,5-4,5,4,1,win,20210326_qwkq,2,1,1,1,,,0,1,1,,,,,,2,1,,,,,3,2021,2020-21,div1,Howard (TX),howardcollege,keblerperaltall3q,Kebler Peralta
+Mar 26,home,New Mexico Military,W,17-1,17,1,16,win,20210326_4izf,4,1,2,,,1,4,,,,,,,,5,1,,,,,4,2021,2020-21,div1,Howard (TX),howardcollege,keblerperaltall3q,Kebler Peralta
+Mar 27,home,New Mexico Military,W,17-7,17,7,10,win,20210327_i2ws,2,1,2,,,,0,1,,,,,,,2,0,,,,,3,2021,2020-21,div1,Howard (TX),howardcollege,keblerperaltall3q,Kebler Peralta
+Mar 27,home,New Mexico Military,W,13-5,13,5,8,win,20210327_e4zs,2,2,2,,,,1,1,,,,,,,2,0,,,,,3,2021,2020-21,div1,Howard (TX),howardcollege,keblerperaltall3q,Kebler Peralta
+Mar 30,home,Midland,W,11-10,11,10,1,win,20210330_z1jr,5,2,3,1,,,1,,1,,,,,,4,1,,,,,5,2021,2020-21,div1,Howard (TX),howardcollege,keblerperaltall3q,Kebler Peralta
+Apr 6,home,Odessa,W,25-24,25,24,1,win,,,,,,,,,,,,,,,,,,,,,,,2021,2020-21,div1,Howard (TX),howardcollege,keblerperaltall3q,Kebler Peralta
+Apr 9,home,Western Texas,W,21-5,21,5,16,win,20210409_xfq6,4,0,2,2,,,3,,1,,,,,,4,2,,,,,4,2021,2020-21,div1,Howard (TX),howardcollege,keblerperaltall3q,Kebler Peralta
+Apr 9,home,Western Texas,W,26-3,26,3,23,win,20210409_bjep,2,3,1,,1,,1,1,,,,1,,,3,1,,,,,4,2021,2020-21,div1,Howard (TX),howardcollege,keblerperaltall3q,Kebler Peralta
+Apr 10,home,Western Texas,W,10-7,10,7,3,win,20210410_jvim,2,1,1,,,,0,,,,,1,,,1,0,,,,,3,2021,2020-21,div1,Howard (TX),howardcollege,keblerperaltall3q,Kebler Peralta
+Apr 10,home,Western Texas,W,14-3,14,3,11,win,20210410_qbzh,2,2,2,,,,1,1,,,,,,,2,0,,,,,3,2021,2020-21,div1,Howard (TX),howardcollege,keblerperaltall3q,Kebler Peralta
+Apr 16,home,Midland,W,13-2,13,2,11,win,20210416_0kur,1,1,0,,,,0,1,1,,,,,,0,0,,,,,2,2021,2020-21,div1,Howard (TX),howardcollege,keblerperaltall3q,Kebler Peralta
+Apr 16,home,Midland,W,12-2,12,2,10,win,20210416_e6li,4,1,1,1,,,1,1,1,,,,,,2,1,,,,,5,2021,2020-21,div1,Howard (TX),howardcollege,keblerperaltall3q,Kebler Peralta
+Apr 18,home,Midland,W,20-10,20,10,10,win,20210418_efl9,4,2,2,2,,,2,,1,,,,,,4,2,,,,,4,2021,2020-21,div1,Howard (TX),howardcollege,keblerperaltall3q,Kebler Peralta
+Apr 18,home,Midland,L,17-8,17,8,9,win,20210418_70el,4,0,1,,,,0,,2,1,,,,,1,0,,,,,4,2021,2020-21,div1,Howard (TX),howardcollege,keblerperaltall3q,Kebler Peralta
+Apr 23,home,Frank Phillips,W,10-7,10,7,3,win,20210423_s1xa,4,1,3,,,,0,1,1,,,,,,3,0,,,,,5,2021,2020-21,div1,Howard (TX),howardcollege,keblerperaltall3q,Kebler Peralta
+Apr 23,home,Frank Phillips,W,19-4,19,4,15,win,20210423_e01d,3,0,0,,,,1,1,1,,,,,,0,0,,,,,4,2021,2020-21,div1,Howard (TX),howardcollege,keblerperaltall3q,Kebler Peralta
+Apr 24,home,Frank Phillips,W,13-5,13,5,8,win,20210424_w36e,4,2,2,,,,0,,1,,,,,,2,0,,,,,4,2021,2020-21,div1,Howard (TX),howardcollege,keblerperaltall3q,Kebler Peralta
+Apr 24,home,Frank Phillips,W,22-12,22,12,10,win,20210424_s5q2,3,2,2,1,,,3,2,,,,,,,3,1,,,,,5,2021,2020-21,div1,Howard (TX),howardcollege,keblerperaltall3q,Kebler Peralta
+Apr 30,home,Odessa,W,10-4,10,4,6,win,20210430_moot,3,1,3,,,,1,,,2,,,1,,3,0,,,,,4,2021,2020-21,div1,Howard (TX),howardcollege,keblerperaltall3q,Kebler Peralta
+Apr 30,home,Odessa,W,3-2,3,2,1,win,,,,,,,,,,,,,,,,,,,,,,,2021,2020-21,div1,Howard (TX),howardcollege,keblerperaltall3q,Kebler Peralta
+May 1,home,Odessa,W,9-3,9,3,6,win,,,,,,,,,,,,,,,,,,,,,,,2021,2020-21,div1,Howard (TX),howardcollege,keblerperaltall3q,Kebler Peralta
+May 1,home,Odessa,L,15-14,15,14,1,win,,,,,,,,,,,,,,,,,,,,,,,2021,2020-21,div1,Howard (TX),howardcollege,keblerperaltall3q,Kebler Peralta
+May 14,home,Cisco,L,10-6,10,6,4,win,20210514_ysuw,3,0,0,,,,0,2,2,,,,,,0,0,,,,,5,2021,2020-21,div1,Howard (TX),howardcollege,keblerperaltall3q,Kebler Peralta
+May 15,home,Weatherford,L,4-3,4,3,1,win,20210515_1vf3,4,0,1,,,,0,,1,,,,,,1,0,,,,,4,2021,2020-21,div1,Howard (TX),howardcollege,keblerperaltall3q,Kebler Peralta
