@@ -1,23 +1,58 @@
-date,location,opponent,result,score,team_score,opp_score,game_score_diff_x,game_win_loss_x,game_id_x,AB,R,H,2B,3B,HR,RBI,BB,K,SB,CS,game_score_diff_y,game_win_loss_y,game_id_y,HBP,SF,SH,TB,XBH,HDP,GO,FO,GO/FO,PA,season,njcaa_season,njcaa_division,team,team_id,player_id,player_name
-Feb 17,home,Bryant & Stratton (Albany),W,10-2,10,2,8.0,win,,,,,,,,,,,,,8.0,win,,,,,,,,,,,,2022,2021-22,div1,Delgado,delgadocommunitycollege,erichebertp2wu,Eric Hebert
-Feb 17,home,Bryant & Stratton (Albany),W,12-2,12,2,10.0,win,20220217_l0v2,0,1,0,,,,0,1,,,,10.0,win,20220217_l0v2,,,,0,0,,,,,1,2022,2021-22,div1,Delgado,delgadocommunitycollege,erichebertp2wu,Eric Hebert
-Feb 18,home,Bryant & Stratton (Albany),W,10-7,10,7,3.0,win,,,,,,,,,,,,,3.0,win,,,,,,,,,,,,2022,2021-22,div1,Delgado,delgadocommunitycollege,erichebertp2wu,Eric Hebert
-Feb 19,home,Pensacola State,W,10-2,10,2,8.0,win,20220219_iy69,3,0,0,,,,0,,2,,,8.0,win,20220219_iy69,,,,0,0,,,,,3,2022,2021-22,div1,Delgado,delgadocommunitycollege,erichebertp2wu,Eric Hebert
-Feb 20,home,Pensacola State,W,3-0,3,0,3.0,win,,,,,,,,,,,,,3.0,win,,,,,,,,,,,,2022,2021-22,div1,Delgado,delgadocommunitycollege,erichebertp2wu,Eric Hebert
-Feb 20,home,Bryant & Stratton (Albany),W,6-2,6,2,4.0,win,20220220_8290,2,0,0,,,,0,,2,,,4.0,win,20220220_8290,,,,0,0,,,,,2,2022,2021-22,div1,Delgado,delgadocommunitycollege,erichebertp2wu,Eric Hebert
-Feb 21,home,Copiah-Lincoln,L,6-2,6,2,4.0,win,20220221_t940,1,1,0,0,0,0,0,1,1,0,0,4.0,win,20220221_t940,1,0,0,0,0,,0,,,3,2022,2021-22,div1,Delgado,delgadocommunitycollege,erichebertp2wu,Eric Hebert
-Feb 21,home,Copiah-Lincoln,W,4-0,4,0,4.0,win,,,,,,,,,,,,,4.0,win,,,,,,,,,,,,2022,2021-22,div1,Delgado,delgadocommunitycollege,erichebertp2wu,Eric Hebert
-Mar 12,home,Coastal Alabama - Monroeville,W,12-7,12,7,5.0,win,,,,,,,,,,,,,5.0,win,,,,,,,,,,,,2022,2021-22,div1,Delgado,delgadocommunitycollege,erichebertp2wu,Eric Hebert
-Mar 12,home,Coastal Alabama - Monroeville,W,9-8,9,8,1.0,win,20220312_c97c,1,0,0,,,,0,,1,,,1.0,win,20220312_c97c,,,,0,0,,,,,1,2022,2021-22,div1,Delgado,delgadocommunitycollege,erichebertp2wu,Eric Hebert
-Mar 13,home,Southwest Mississippi,L,2-1,2,1,1.0,win,,,,,,,,,,,,,1.0,win,,,,,,,,,,,,2022,2021-22,div1,Delgado,delgadocommunitycollege,erichebertp2wu,Eric Hebert
-Mar 13,home,Southwest Mississippi,W,6-5,6,5,1.0,win,,,,,,,,,,,,,1.0,win,,,,,,,,,,,,2022,2021-22,div1,Delgado,delgadocommunitycollege,erichebertp2wu,Eric Hebert
-Apr 2,home,Baton Rouge,W,7-2,7,2,5.0,win,,,,,,,,,,,,,5.0,win,,,,,,,,,,,,2022,2021-22,div1,Delgado,delgadocommunitycollege,erichebertp2wu,Eric Hebert
-Apr 2,home,Baton Rouge,W,4-1,4,1,3.0,win,,,,,,,,,,,,,3.0,win,,,,,,,,,,,,2022,2021-22,div1,Delgado,delgadocommunitycollege,erichebertp2wu,Eric Hebert
-Apr 3,home,Baton Rouge,W,4-3,4,3,1.0,win,,,,,,,,,,,,,1.0,win,,,,,,,,,,,,2022,2021-22,div1,Delgado,delgadocommunitycollege,erichebertp2wu,Eric Hebert
-Apr 9,home,LSU Eunice,W,6-5,6,5,1.0,win,,,,,,,,,,,,,1.0,win,,,,,,,,,,,,2022,2021-22,div1,Delgado,delgadocommunitycollege,erichebertp2wu,Eric Hebert
-Apr 9,home,LSU Eunice,L,4-3,4,3,1.0,win,,,,,,,,,,,,,1.0,win,,,,,,,,,,,,2022,2021-22,div1,Delgado,delgadocommunitycollege,erichebertp2wu,Eric Hebert
-Apr 10,home,LSU Eunice,W,5-4,5,4,1.0,win,,,,,,,,,,,,,1.0,win,,,,,,,,,,,,2022,2021-22,div1,Delgado,delgadocommunitycollege,erichebertp2wu,Eric Hebert
-May 6,home,Nunez,L,11-3,11,3,8.0,win,,,,,,,,,,,,,8.0,win,,,,,,,,,,,,2022,2021-22,div1,Delgado,delgadocommunitycollege,erichebertp2wu,Eric Hebert
-May 7,home,Nunez,W,11-9,11,9,2.0,win,,,,,,,,,,,,,2.0,win,,,,,,,,,,,,2022,2021-22,div1,Delgado,delgadocommunitycollege,erichebertp2wu,Eric Hebert
-May 20,home,Eastern Oklahoma State,W,4-3,4,3,1.0,win,,,,,,,,,,,,,1.0,win,,,,,,,,,,,,2022,2021-22,div1,Delgado,delgadocommunitycollege,erichebertp2wu,Eric Hebert
-May 22,home,Crowder,L,9-1,9,1,8.0,win,,,,,,,,,,,,,8.0,win,,,,,,,,,,,,2022,2021-22,div1,Delgado,delgadocommunitycollege,erichebertp2wu,Eric Hebert
+date,location,opponent,result,score,team_score,opp_score,game_score_diff,game_win_loss,game_id,AB,R,H,2B,3B,HR,RBI,BB,K,SB,CS,HBP,SF,SH,TB,XBH,HDP,GO,FO,GO/FO,PA,season,njcaa_season,njcaa_division,team,team_id,player_id,player_name
+Feb 4,home,Florence-Darlington Tech,L,13-12,13,12,1.0,win,,,,,,,,,,,,,,,,,,,,,,,2022,2021-22,div1,Delgado,delgadocommunitycollege,erichebertp2wu,Eric Hebert
+Feb 5,home,Chattahoochee Valley,W,4-3,4,3,1.0,win,,,,,,,,,,,,,,,,,,,,,,,2022,2021-22,div1,Delgado,delgadocommunitycollege,erichebertp2wu,Eric Hebert
+Feb 5,home,St. Johns River State,L,13-2,13,2,11.0,win,,,,,,,,,,,,,,,,,,,,,,,2022,2021-22,div1,Delgado,delgadocommunitycollege,erichebertp2wu,Eric Hebert
+Feb 6,home,Andrew,W,2-0,2,0,2.0,win,20220206_txff,3,0,0,,,,0,,1,,,,,,0,0,,,,,3,2022,2021-22,div1,Delgado,delgadocommunitycollege,erichebertp2wu,Eric Hebert
+Feb 17,home,Bryant & Stratton (Albany),W,10-2,10,2,8.0,win,,,,,,,,,,,,,,,,,,,,,,,2022,2021-22,div1,Delgado,delgadocommunitycollege,erichebertp2wu,Eric Hebert
+Feb 17,home,Bryant & Stratton (Albany),W,12-2,12,2,10.0,win,20220217_l0v2,0,1,0,,,,0,1,,,,,,,0,0,,,,,1,2022,2021-22,div1,Delgado,delgadocommunitycollege,erichebertp2wu,Eric Hebert
+Feb 18,home,Bryant & Stratton (Albany),W,10-7,10,7,3.0,win,,,,,,,,,,,,,,,,,,,,,,,2022,2021-22,div1,Delgado,delgadocommunitycollege,erichebertp2wu,Eric Hebert
+Feb 19,home,Pensacola State,W,10-2,10,2,8.0,win,20220219_iy69,3,0,0,,,,0,,2,,,,,,0,0,,,,,3,2022,2021-22,div1,Delgado,delgadocommunitycollege,erichebertp2wu,Eric Hebert
+Feb 20,home,Pensacola State,W,3-0,3,0,3.0,win,,,,,,,,,,,,,,,,,,,,,,,2022,2021-22,div1,Delgado,delgadocommunitycollege,erichebertp2wu,Eric Hebert
+Feb 20,home,Bryant & Stratton (Albany),W,6-2,6,2,4.0,win,20220220_8290,2,0,0,,,,0,,2,,,,,,0,0,,,,,2,2022,2021-22,div1,Delgado,delgadocommunitycollege,erichebertp2wu,Eric Hebert
+Feb 21,home,Copiah-Lincoln,L,6-2,6,2,4.0,win,20220221_t940,1,1,0,0,0,0,0,1,1,0,0,1,0,0,0,0,,0,,,3,2022,2021-22,div1,Delgado,delgadocommunitycollege,erichebertp2wu,Eric Hebert
+Feb 21,home,Copiah-Lincoln,W,4-0,4,0,4.0,win,,,,,,,,,,,,,,,,,,,,,,,2022,2021-22,div1,Delgado,delgadocommunitycollege,erichebertp2wu,Eric Hebert
+Feb 25,home,Southwest Mississippi,,,,,4.0,win,,,,,,,,,,,,,,,,,,,,,,,2022,2021-22,div1,Delgado,delgadocommunitycollege,erichebertp2wu,Eric Hebert
+Feb 25,home,Southwest Mississippi,,,,,4.0,win,,,,,,,,,,,,,,,,,,,,,,,2022,2021-22,div1,Delgado,delgadocommunitycollege,erichebertp2wu,Eric Hebert
+Feb 25,home,Southwest Mississippi,,,,,4.0,win,,,,,,,,,,,,,,,,,,,,,,,2022,2021-22,div1,Delgado,delgadocommunitycollege,erichebertp2wu,Eric Hebert
+Feb 25,home,Southwest Mississippi,,,,,4.0,win,,,,,,,,,,,,,,,,,,,,,,,2022,2021-22,div1,Delgado,delgadocommunitycollege,erichebertp2wu,Eric Hebert
+Mar 4,home,Chipola,L,4-3,4,3,1.0,win,,,,,,,,,,,,,,,,,,,,,,,2022,2021-22,div1,Delgado,delgadocommunitycollege,erichebertp2wu,Eric Hebert
+Mar 4,home,Pensacola State,W,5-0,5,0,5.0,win,,,,,,,,,,,,,,,,,,,,,,,2022,2021-22,div1,Delgado,delgadocommunitycollege,erichebertp2wu,Eric Hebert
+Mar 5,home,Pensacola State,L,1-0,1,0,1.0,win,,,,,,,,,,,,,,,,,,,,,,,2022,2021-22,div1,Delgado,delgadocommunitycollege,erichebertp2wu,Eric Hebert
+Mar 5,home,Bishop State,L,5-2,5,2,3.0,win,,,,,,,,,,,,,,,,,,,,,,,2022,2021-22,div1,Delgado,delgadocommunitycollege,erichebertp2wu,Eric Hebert
+Mar 9,home,Copiah-Lincoln,W,7-1,7,1,6.0,win,,,,,,,,,,,,,,,,,,,,,,,2022,2021-22,div1,Delgado,delgadocommunitycollege,erichebertp2wu,Eric Hebert
+Mar 9,home,Copiah-Lincoln,W,8-1,8,1,7.0,win,,,,,,,,,,,,,,,,,,,,,,,2022,2021-22,div1,Delgado,delgadocommunitycollege,erichebertp2wu,Eric Hebert
+Mar 12,home,Coastal Alabama - Monroeville,W,12-7,12,7,5.0,win,,,,,,,,,,,,,,,,,,,,,,,2022,2021-22,div1,Delgado,delgadocommunitycollege,erichebertp2wu,Eric Hebert
+Mar 12,home,Coastal Alabama - Monroeville,W,9-8,9,8,1.0,win,20220312_c97c,1,0,0,,,,0,,1,,,,,,0,0,,,,,1,2022,2021-22,div1,Delgado,delgadocommunitycollege,erichebertp2wu,Eric Hebert
+Mar 13,home,Southwest Mississippi,L,2-1,2,1,1.0,win,,,,,,,,,,,,,,,,,,,,,,,2022,2021-22,div1,Delgado,delgadocommunitycollege,erichebertp2wu,Eric Hebert
+Mar 13,home,Southwest Mississippi,W,6-5,6,5,1.0,win,,,,,,,,,,,,,,,,,,,,,,,2022,2021-22,div1,Delgado,delgadocommunitycollege,erichebertp2wu,Eric Hebert
+Mar 16,home,Triton,L,5-3,5,3,2.0,win,,,,,,,,,,,,,,,,,,,,,,,2022,2021-22,div1,Delgado,delgadocommunitycollege,erichebertp2wu,Eric Hebert
+Mar 16,home,Triton,W,20-4,20,4,16.0,win,,,,,,,,,,,,,,,,,,,,,,,2022,2021-22,div1,Delgado,delgadocommunitycollege,erichebertp2wu,Eric Hebert
+Mar 17,home,Kirkwood,W,10-0,10,0,10.0,win,,,,,,,,,,,,,,,,,,,,,,,2022,2021-22,div1,Delgado,delgadocommunitycollege,erichebertp2wu,Eric Hebert
+Mar 17,home,Kirkwood,L,7-4,7,4,3.0,win,,,,,,,,,,,,,,,,,,,,,,,2022,2021-22,div1,Delgado,delgadocommunitycollege,erichebertp2wu,Eric Hebert
+Mar 18,home,Brookdale,W,12-1,12,1,11.0,win,,,,,,,,,,,,,,,,,,,,,,,2022,2021-22,div1,Delgado,delgadocommunitycollege,erichebertp2wu,Eric Hebert
+Mar 18,home,Brookdale,W,10-6,10,6,4.0,win,,,,,,,,,,,,,,,,,,,,,,,2022,2021-22,div1,Delgado,delgadocommunitycollege,erichebertp2wu,Eric Hebert
+Mar 26,home,Nunez,W,8-6,8,6,2.0,win,,,,,,,,,,,,,,,,,,,,,,,2022,2021-22,div1,Delgado,delgadocommunitycollege,erichebertp2wu,Eric Hebert
+Mar 26,home,Nunez,W,3-1,3,1,2.0,win,,,,,,,,,,,,,,,,,,,,,,,2022,2021-22,div1,Delgado,delgadocommunitycollege,erichebertp2wu,Eric Hebert
+Mar 27,home,Nunez,W,7-6,7,6,1.0,win,,,,,,,,,,,,,,,,,,,,,,,2022,2021-22,div1,Delgado,delgadocommunitycollege,erichebertp2wu,Eric Hebert
+Apr 2,home,Baton Rouge,W,7-2,7,2,5.0,win,,,,,,,,,,,,,,,,,,,,,,,2022,2021-22,div1,Delgado,delgadocommunitycollege,erichebertp2wu,Eric Hebert
+Apr 2,home,Baton Rouge,W,4-1,4,1,3.0,win,,,,,,,,,,,,,,,,,,,,,,,2022,2021-22,div1,Delgado,delgadocommunitycollege,erichebertp2wu,Eric Hebert
+Apr 3,home,Baton Rouge,W,4-3,4,3,1.0,win,,,,,,,,,,,,,,,,,,,,,,,2022,2021-22,div1,Delgado,delgadocommunitycollege,erichebertp2wu,Eric Hebert
+Apr 9,home,LSU Eunice,W,6-5,6,5,1.0,win,,,,,,,,,,,,,,,,,,,,,,,2022,2021-22,div1,Delgado,delgadocommunitycollege,erichebertp2wu,Eric Hebert
+Apr 9,home,LSU Eunice,L,4-3,4,3,1.0,win,,,,,,,,,,,,,,,,,,,,,,,2022,2021-22,div1,Delgado,delgadocommunitycollege,erichebertp2wu,Eric Hebert
+Apr 10,home,LSU Eunice,W,5-4,5,4,1.0,win,,,,,,,,,,,,,,,,,,,,,,,2022,2021-22,div1,Delgado,delgadocommunitycollege,erichebertp2wu,Eric Hebert
+Apr 15,home,Nunez,W,6-3,6,3,3.0,win,,,,,,,,,,,,,,,,,,,,,,,2022,2021-22,div1,Delgado,delgadocommunitycollege,erichebertp2wu,Eric Hebert
+Apr 15,home,Nunez,L,6-3,6,3,3.0,win,,,,,,,,,,,,,,,,,,,,,,,2022,2021-22,div1,Delgado,delgadocommunitycollege,erichebertp2wu,Eric Hebert
+Apr 16,home,Nunez,W,14-8,14,8,6.0,win,,,,,,,,,,,,,,,,,,,,,,,2022,2021-22,div1,Delgado,delgadocommunitycollege,erichebertp2wu,Eric Hebert
+Apr 23,home,Baton Rouge,W,9-7,9,7,2.0,win,,,,,,,,,,,,,,,,,,,,,,,2022,2021-22,div1,Delgado,delgadocommunitycollege,erichebertp2wu,Eric Hebert
+Apr 23,home,Baton Rouge,W,7-4,7,4,3.0,win,,,,,,,,,,,,,,,,,,,,,,,2022,2021-22,div1,Delgado,delgadocommunitycollege,erichebertp2wu,Eric Hebert
+Apr 24,home,Baton Rouge,L,9-8,9,8,1.0,win,,,,,,,,,,,,,,,,,,,,,,,2022,2021-22,div1,Delgado,delgadocommunitycollege,erichebertp2wu,Eric Hebert
+Apr 30,home,LSU Eunice,W,7-5,7,5,2.0,win,,,,,,,,,,,,,,,,,,,,,,,2022,2021-22,div1,Delgado,delgadocommunitycollege,erichebertp2wu,Eric Hebert
+Apr 30,home,LSU Eunice,L,9-3,9,3,6.0,win,20220430_rclm,1,0,0,,,,0,,1,,,,,,0,0,,,,,1,2022,2021-22,div1,Delgado,delgadocommunitycollege,erichebertp2wu,Eric Hebert
+May 6,home,Nunez,L,11-3,11,3,8.0,win,,,,,,,,,,,,,,,,,,,,,,,2022,2021-22,div1,Delgado,delgadocommunitycollege,erichebertp2wu,Eric Hebert
+May 6,home,Baton Rouge,W,4-3,4,3,1.0,win,,,,,,,,,,,,,,,,,,,,,,,2022,2021-22,div1,Delgado,delgadocommunitycollege,erichebertp2wu,Eric Hebert
+May 7,home,Nunez,W,11-9,11,9,2.0,win,,,,,,,,,,,,,,,,,,,,,,,2022,2021-22,div1,Delgado,delgadocommunitycollege,erichebertp2wu,Eric Hebert
+May 8,home,Nunez,W,10-9,10,9,1.0,win,,,,,,,,,,,,,,,,,,,,,,,2022,2021-22,div1,Delgado,delgadocommunitycollege,erichebertp2wu,Eric Hebert
+May 20,home,Eastern Oklahoma State,W,4-3,4,3,1.0,win,,,,,,,,,,,,,,,,,,,,,,,2022,2021-22,div1,Delgado,delgadocommunitycollege,erichebertp2wu,Eric Hebert
+May 20,home,Crowder,L,5-3,5,3,2.0,win,,,,,,,,,,,,,,,,,,,,,,,2022,2021-22,div1,Delgado,delgadocommunitycollege,erichebertp2wu,Eric Hebert
+May 21,home,Crowder,W,9-7,9,7,2.0,win,,,,,,,,,,,,,,,,,,,,,,,2022,2021-22,div1,Delgado,delgadocommunitycollege,erichebertp2wu,Eric Hebert
+May 22,home,Crowder,L,9-1,9,1,8.0,win,,,,,,,,,,,,,,,,,,,,,,,2022,2021-22,div1,Delgado,delgadocommunitycollege,erichebertp2wu,Eric Hebert

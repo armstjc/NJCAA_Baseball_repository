@@ -1,30 +1,60 @@
-date,location,opponent,result,score,team_score,opp_score,game_score_diff_x,game_win_loss_x,game_id_x,AB,R,H,2B,3B,HR,RBI,BB,K,SB,CS,game_score_diff_y,game_win_loss_y,game_id_y,HBP,SF,SH,TB,XBH,HDP,GO,FO,GO/FO,PA,season,njcaa_season,njcaa_division,team,team_id,player_id,player_name
-Oct 9,home,Community Christian (CA),,,,,,,,,,,,,,,,,,,5.0,win,,,,,,,,,,,,2022,2021-22,div1,Arizona Western,arizonawesterncollege,maxwellerjqnk,Max Weller
-Feb 4,home,Northeastern,W,6-2,6,2,4,win,20220204_ypq4,2,2,2,1,,,0,2,,,,4.0,win,20220204_ypq4,,,,3,1,,,,,4,2022,2021-22,div1,Arizona Western,arizonawesterncollege,maxwellerjqnk,Max Weller
-Feb 4,home,Northeastern,W,10-0,10,0,10,win,20220204_7hg1,3,0,0,,,,2,1,1,,,10.0,win,20220204_7hg1,,,,0,0,,,,,4,2022,2021-22,div1,Arizona Western,arizonawesterncollege,maxwellerjqnk,Max Weller
-Feb 5,home,Northeastern,W,6-5,6,5,1,win,20220205_yiko,3,1,0,,,,0,,1,,,1.0,win,20220205_yiko,,,,0,0,,,,,3,2022,2021-22,div1,Arizona Western,arizonawesterncollege,maxwellerjqnk,Max Weller
-Feb 5,home,Northeastern,W,11-4,11,4,7,win,20220205_p9vy,3,1,3,1,,,1,1,,,1,7.0,win,20220205_p9vy,,,,4,1,,,,,4,2022,2021-22,div1,Arizona Western,arizonawesterncollege,maxwellerjqnk,Max Weller
-Feb 12,home,South Mountain,W,7-2,7,2,5,win,20220212_xnaq,3,1,2,,1,,1,,1,1,,5.0,win,20220212_xnaq,1,,,4,1,,,,,4,2022,2021-22,div1,Arizona Western,arizonawesterncollege,maxwellerjqnk,Max Weller
-Feb 12,home,South Mountain,W,8-5,8,5,3,win,20220212_xr86,4,0,2,1,,,2,,2,,,3.0,win,20220212_xr86,,1,,3,1,,,,,5,2022,2021-22,div1,Arizona Western,arizonawesterncollege,maxwellerjqnk,Max Weller
-Feb 19,home,Central Arizona,L,8-1,8,1,7,win,20220219_iaw1,2,0,0,,,,0,1,,,,7.0,win,20220219_iaw1,,,,0,0,,,,,3,2022,2021-22,div1,Arizona Western,arizonawesterncollege,maxwellerjqnk,Max Weller
-Feb 19,home,Central Arizona,W,8-2,8,2,6,win,20220219_fsc0,4,1,1,1,,,0,1,3,1,,6.0,win,20220219_fsc0,,,,2,1,,,,,5,2022,2021-22,div1,Arizona Western,arizonawesterncollege,maxwellerjqnk,Max Weller
-Feb 23,home,Scottsdale Post Grad,W,14-0,14,0,14,win,20220223_41qa,4,3,2,1,,1,2,,,,,14.0,win,20220223_41qa,,,,6,2,,,,,4,2022,2021-22,div1,Arizona Western,arizonawesterncollege,maxwellerjqnk,Max Weller
-Feb 23,home,Scottsdale Post Grad,W,11-7,11,7,4,win,20220223_gg5d,3,1,1,,,,0,,2,,,4.0,win,20220223_gg5d,,,,1,0,,,,,3,2022,2021-22,div1,Arizona Western,arizonawesterncollege,maxwellerjqnk,Max Weller
-Feb 26,home,Pima,W,2-0,2,0,2,win,20220226_13c5,3,1,1,,,,1,,,,,2.0,win,20220226_13c5,,,,1,0,,,,,3,2022,2021-22,div1,Arizona Western,arizonawesterncollege,maxwellerjqnk,Max Weller
-Feb 26,home,Pima,W,13-3,13,3,10,win,20220226_7fki,3,1,2,1,,,2,2,,,,10.0,win,20220226_7fki,,,,3,1,,,,,5,2022,2021-22,div1,Arizona Western,arizonawesterncollege,maxwellerjqnk,Max Weller
-Mar 1,home,Cochise,W,7-4,7,4,3,win,20220301_1qut,3,2,2,,,,0,1,,1,,3.0,win,20220301_1qut,,,,2,0,,,,,4,2022,2021-22,div1,Arizona Western,arizonawesterncollege,maxwellerjqnk,Max Weller
-Mar 1,home,Cochise,W,4-1,4,1,3,win,20220301_yscn,3,1,2,,,1,2,1,1,,,3.0,win,20220301_yscn,,,,5,1,,,,,4,2022,2021-22,div1,Arizona Western,arizonawesterncollege,maxwellerjqnk,Max Weller
-Mar 4,home,Scottsdale Post Grad,W,15-5,15,5,10,win,20220304_vhky,2,2,1,,,,0,2,,2,,10.0,win,20220304_vhky,,,,1,0,,,,,4,2022,2021-22,div1,Arizona Western,arizonawesterncollege,maxwellerjqnk,Max Weller
-Mar 4,home,Scottsdale Post Grad,W,12-2,12,2,10,win,20220304_dyhw,1,1,1,,,,0,,,,,10.0,win,20220304_dyhw,1,,,1,0,,,,,2,2022,2021-22,div1,Arizona Western,arizonawesterncollege,maxwellerjqnk,Max Weller
-Mar 12,home,Scottsdale,W,12-3,12,3,9,win,20220312_lkqt,2,1,1,,,,0,2,,,,9.0,win,20220312_lkqt,,,,1,0,,,,,4,2022,2021-22,div1,Arizona Western,arizonawesterncollege,maxwellerjqnk,Max Weller
-Mar 12,home,Scottsdale,W,5-1,5,1,4,win,20220312_djud,3,1,1,,1,,1,1,1,,,4.0,win,20220312_djud,,,,3,1,,,,,4,2022,2021-22,div1,Arizona Western,arizonawesterncollege,maxwellerjqnk,Max Weller
-Mar 23,home,Langley Blaze,W,11-1,11,1,10,win,20220323_n0in,2,1,0,,,,0,2,1,,,10.0,win,20220323_n0in,,,,0,0,,,,,4,2022,2021-22,div1,Arizona Western,arizonawesterncollege,maxwellerjqnk,Max Weller
-Mar 23,home,Langley Blaze,W,6-3,6,3,3,win,20220323_7bqz,0,0,0,,,,0,,,,,3.0,win,20220323_7bqz,,,,0,0,,,,,0,2022,2021-22,div1,Arizona Western,arizonawesterncollege,maxwellerjqnk,Max Weller
-Mar 26,home,Paradise Valley,W,4-1,4,1,3,win,20220326_fel9,2,0,1,,,,1,1,1,,,3.0,win,20220326_fel9,,,,1,0,,,,,3,2022,2021-22,div1,Arizona Western,arizonawesterncollege,maxwellerjqnk,Max Weller
-Mar 26,home,Paradise Valley,W,8-1,8,1,7,win,20220326_wumd,4,0,0,,,,0,,3,,,7.0,win,20220326_wumd,,,,0,0,,,,,4,2022,2021-22,div1,Arizona Western,arizonawesterncollege,maxwellerjqnk,Max Weller
-Apr 2,home,Glendale,W,9-1,9,1,8,win,20220402_csv6,3,1,1,,,1,1,,,1,,8.0,win,20220402_csv6,1,,,4,1,,,,,4,2022,2021-22,div1,Arizona Western,arizonawesterncollege,maxwellerjqnk,Max Weller
-Apr 2,home,Glendale,W,18-6,18,6,12,win,20220402_9tol,4,3,2,,,,2,1,1,,,12.0,win,20220402_9tol,,,,2,0,,,,,5,2022,2021-22,div1,Arizona Western,arizonawesterncollege,maxwellerjqnk,Max Weller
-Apr 12,home,Eastern Arizona,W,6-1,6,1,5,win,20220412_8qa6,4,1,2,,,1,2,,1,,,5.0,win,20220412_8qa6,,,,5,1,,,,,4,2022,2021-22,div1,Arizona Western,arizonawesterncollege,maxwellerjqnk,Max Weller
-Apr 12,home,Eastern Arizona,W,12-2,12,2,10,win,20220412_kpv0,2,1,0,,,,1,2,,,,10.0,win,20220412_kpv0,1,,,0,0,,,,,5,2022,2021-22,div1,Arizona Western,arizonawesterncollege,maxwellerjqnk,Max Weller
-Apr 19,home,Yavapai,L,4-1,4,1,3,win,20220419_dl8y,4,0,1,,,,1,,,,,3.0,win,20220419_dl8y,,,,1,0,,,,,4,2022,2021-22,div1,Arizona Western,arizonawesterncollege,maxwellerjqnk,Max Weller
-Apr 19,home,Yavapai,L,17-5,17,5,12,win,20220419_ky0a,3,1,1,,,1,1,1,1,,,12.0,win,20220419_ky0a,,,,4,1,,,,,4,2022,2021-22,div1,Arizona Western,arizonawesterncollege,maxwellerjqnk,Max Weller
+date,location,opponent,result,score,team_score,opp_score,game_score_diff,game_win_loss,game_id,AB,R,H,2B,3B,HR,RBI,BB,K,SB,CS,HBP,SF,SH,TB,XBH,HDP,GO,FO,GO/FO,PA,season,njcaa_season,njcaa_division,team,team_id,player_id,player_name
+Jan 28,home,Southern Nevada,L,9-8,9,8,1,win,20220128_kzmv,4,1,2,,,,1,,2,1,,1,,,2,0,,,,,5,2022,2021-22,div1,Arizona Western,arizonawesterncollege,maxwellerjqnk,Max Weller
+Jan 29,home,Utah State Eastern,W,11-1,11,1,10,win,20220129_oazf,3,1,2,,,,2,,1,,1,1,,,2,0,,,,,4,2022,2021-22,div1,Arizona Western,arizonawesterncollege,maxwellerjqnk,Max Weller
+Jan 29,home,Utah State Eastern,W,15-4,15,4,11,win,20220129_fdnb,3,1,0,,,,0,,3,,,1,,,0,0,,,,,4,2022,2021-22,div1,Arizona Western,arizonawesterncollege,maxwellerjqnk,Max Weller
+Jan 30,home,Southern Nevada,L,3-1,3,1,2,win,20220130_fs4d,4,0,1,,,,0,,2,,,,,,1,0,,,1,,4,2022,2021-22,div1,Arizona Western,arizonawesterncollege,maxwellerjqnk,Max Weller
+Feb 4,home,Northeastern,W,6-2,6,2,4,win,20220204_ypq4,2,2,2,1,,,0,2,,,,,,,3,1,,,,,4,2022,2021-22,div1,Arizona Western,arizonawesterncollege,maxwellerjqnk,Max Weller
+Feb 4,home,Northeastern,W,10-0,10,0,10,win,20220204_7hg1,3,0,0,,,,2,1,1,,,,,,0,0,,,,,4,2022,2021-22,div1,Arizona Western,arizonawesterncollege,maxwellerjqnk,Max Weller
+Feb 5,home,Northeastern,W,6-5,6,5,1,win,20220205_yiko,3,1,0,,,,0,,1,,,,,,0,0,,,,,3,2022,2021-22,div1,Arizona Western,arizonawesterncollege,maxwellerjqnk,Max Weller
+Feb 5,home,Northeastern,W,11-4,11,4,7,win,20220205_p9vy,3,1,3,1,,,1,1,,,1,,,,4,1,,,,,4,2022,2021-22,div1,Arizona Western,arizonawesterncollege,maxwellerjqnk,Max Weller
+Feb 12,home,South Mountain,W,7-2,7,2,5,win,20220212_xnaq,3,1,2,,1,,1,,1,1,,1,,,4,1,,,,,4,2022,2021-22,div1,Arizona Western,arizonawesterncollege,maxwellerjqnk,Max Weller
+Feb 12,home,South Mountain,W,8-5,8,5,3,win,20220212_xr86,4,0,2,1,,,2,,2,,,,1,,3,1,,,,,5,2022,2021-22,div1,Arizona Western,arizonawesterncollege,maxwellerjqnk,Max Weller
+Feb 15,home,Eastern Arizona,W,5-3,5,3,2,win,20220215_saa9,3,0,0,,,,0,1,1,,,,,,0,0,1,,,,4,2022,2021-22,div1,Arizona Western,arizonawesterncollege,maxwellerjqnk,Max Weller
+Feb 15,home,Eastern Arizona,W,14-10,14,10,4,win,20220215_fcn8,5,2,4,1,,,1,,1,,,,,,5,1,,,,,5,2022,2021-22,div1,Arizona Western,arizonawesterncollege,maxwellerjqnk,Max Weller
+Feb 19,home,Central Arizona,L,8-1,8,1,7,win,20220219_iaw1,2,0,0,,,,0,1,,,,,,,0,0,,,,,3,2022,2021-22,div1,Arizona Western,arizonawesterncollege,maxwellerjqnk,Max Weller
+Feb 19,home,Central Arizona,W,8-2,8,2,6,win,20220219_fsc0,4,1,1,1,,,0,1,3,1,,,,,2,1,,,,,5,2022,2021-22,div1,Arizona Western,arizonawesterncollege,maxwellerjqnk,Max Weller
+Feb 23,home,Scottsdale Post Grad,W,14-0,14,0,14,win,20220223_41qa,4,3,2,1,,1,2,,,,,,,,6,2,,,,,4,2022,2021-22,div1,Arizona Western,arizonawesterncollege,maxwellerjqnk,Max Weller
+Feb 23,home,Scottsdale Post Grad,W,11-7,11,7,4,win,20220223_gg5d,3,1,1,,,,0,,2,,,,,,1,0,,,,,3,2022,2021-22,div1,Arizona Western,arizonawesterncollege,maxwellerjqnk,Max Weller
+Feb 26,home,Pima,W,2-0,2,0,2,win,20220226_13c5,3,1,1,,,,1,,,,,,,,1,0,,,,,3,2022,2021-22,div1,Arizona Western,arizonawesterncollege,maxwellerjqnk,Max Weller
+Feb 26,home,Pima,W,13-3,13,3,10,win,20220226_7fki,3,1,2,1,,,2,2,,,,,,,3,1,,,,,5,2022,2021-22,div1,Arizona Western,arizonawesterncollege,maxwellerjqnk,Max Weller
+Mar 1,home,Cochise,W,7-4,7,4,3,win,20220301_1qut,3,2,2,,,,0,1,,1,,,,,2,0,,,,,4,2022,2021-22,div1,Arizona Western,arizonawesterncollege,maxwellerjqnk,Max Weller
+Mar 1,home,Cochise,W,4-1,4,1,3,win,20220301_yscn,3,1,2,,,1,2,1,1,,,,,,5,1,,,,,4,2022,2021-22,div1,Arizona Western,arizonawesterncollege,maxwellerjqnk,Max Weller
+Mar 4,home,Scottsdale Post Grad,W,15-5,15,5,10,win,20220304_vhky,2,2,1,,,,0,2,,2,,,,,1,0,,,,,4,2022,2021-22,div1,Arizona Western,arizonawesterncollege,maxwellerjqnk,Max Weller
+Mar 4,home,Scottsdale Post Grad,W,12-2,12,2,10,win,20220304_dyhw,1,1,1,,,,0,,,,,1,,,1,0,,,,,2,2022,2021-22,div1,Arizona Western,arizonawesterncollege,maxwellerjqnk,Max Weller
+Mar 8,home,Chandler-Gilbert,W,3-1,3,1,2,win,20220308_sd63,2,0,0,,,,0,2,1,,,,,,0,0,,,,,4,2022,2021-22,div1,Arizona Western,arizonawesterncollege,maxwellerjqnk,Max Weller
+Mar 8,home,Chandler-Gilbert,W,11-0,11,0,11,win,20220308_cweb,2,0,0,,,,2,,1,,,1,2,,0,0,,,,,5,2022,2021-22,div1,Arizona Western,arizonawesterncollege,maxwellerjqnk,Max Weller
+Mar 12,home,Scottsdale,W,12-3,12,3,9,win,20220312_lkqt,2,1,1,,,,0,2,,,,,,,1,0,,,,,4,2022,2021-22,div1,Arizona Western,arizonawesterncollege,maxwellerjqnk,Max Weller
+Mar 12,home,Scottsdale,W,5-1,5,1,4,win,20220312_djud,3,1,1,,1,,1,1,1,,,,,,3,1,,,,,4,2022,2021-22,div1,Arizona Western,arizonawesterncollege,maxwellerjqnk,Max Weller
+Mar 15,home,Yavapai,L,8-5,8,5,3,win,20220315_ihnx,3,0,0,,,,1,1,1,,,1,,,0,0,,,,,5,2022,2021-22,div1,Arizona Western,arizonawesterncollege,maxwellerjqnk,Max Weller
+Mar 15,home,Yavapai,L,12-0,12,0,12,win,20220315_a46d,3,0,0,,,,0,,2,,,,,,0,0,,,,,3,2022,2021-22,div1,Arizona Western,arizonawesterncollege,maxwellerjqnk,Max Weller
+Mar 16,home,Williston State,W,12-1,12,1,11,win,20220316_y5my,2,2,2,,1,,2,1,,1,,1,,,4,1,,,,,4,2022,2021-22,div1,Arizona Western,arizonawesterncollege,maxwellerjqnk,Max Weller
+Mar 17,home,Carthage,W,9-0,9,0,9,win,20220317_g4mh,4,2,3,1,,,0,,1,,,,,,4,1,,,,,4,2022,2021-22,div1,Arizona Western,arizonawesterncollege,maxwellerjqnk,Max Weller
+Mar 17,home,Augsburg,W,19-0,19,0,19,win,20220317_eeo9,0,2,0,,,,0,2,,1,,,,,0,0,,,,,2,2022,2021-22,div1,Arizona Western,arizonawesterncollege,maxwellerjqnk,Max Weller
+Mar 18,home,Williston State,W,16-4,16,4,12,win,20220318_0huw,3,2,1,,,,1,1,,1,,,,,1,0,,,,,4,2022,2021-22,div1,Arizona Western,arizonawesterncollege,maxwellerjqnk,Max Weller
+Mar 22,home,Phoenix,W,6-0,6,0,6,win,20220322_godl,2,1,0,,,,0,1,1,,,1,,,0,0,,,,,4,2022,2021-22,div1,Arizona Western,arizonawesterncollege,maxwellerjqnk,Max Weller
+Mar 22,home,Phoenix,W,12-4,12,4,8,win,20220322_staq,5,1,2,,,,0,,1,1,,,,,2,0,,,,,5,2022,2021-22,div1,Arizona Western,arizonawesterncollege,maxwellerjqnk,Max Weller
+Mar 23,home,Langley Blaze,W,11-1,11,1,10,win,20220323_n0in,2,1,0,,,,0,2,1,,,,,,0,0,,,,,4,2022,2021-22,div1,Arizona Western,arizonawesterncollege,maxwellerjqnk,Max Weller
+Mar 23,home,Langley Blaze,W,6-3,6,3,3,win,20220323_7bqz,0,0,0,,,,0,,,,,,,,0,0,,,,,0,2022,2021-22,div1,Arizona Western,arizonawesterncollege,maxwellerjqnk,Max Weller
+Mar 26,home,Paradise Valley,W,4-1,4,1,3,win,20220326_fel9,2,0,1,,,,1,1,1,,,,,,1,0,,,,,3,2022,2021-22,div1,Arizona Western,arizonawesterncollege,maxwellerjqnk,Max Weller
+Mar 26,home,Paradise Valley,W,8-1,8,1,7,win,20220326_wumd,4,0,0,,,,0,,3,,,,,,0,0,,,,,4,2022,2021-22,div1,Arizona Western,arizonawesterncollege,maxwellerjqnk,Max Weller
+Mar 30,home,Mesa,W,14-0,14,0,14,win,20220330_xoe5,0,2,0,,,,1,3,,,,,,,0,0,,,,,3,2022,2021-22,div1,Arizona Western,arizonawesterncollege,maxwellerjqnk,Max Weller
+Mar 30,home,Mesa,W,14-6,14,6,8,win,20220330_vlo2,5,3,4,1,1,,1,,,,,1,,,7,2,,,1,,6,2022,2021-22,div1,Arizona Western,arizonawesterncollege,maxwellerjqnk,Max Weller
+Apr 2,home,Glendale,W,9-1,9,1,8,win,20220402_csv6,3,1,1,,,1,1,,,1,,1,,,4,1,,,,,4,2022,2021-22,div1,Arizona Western,arizonawesterncollege,maxwellerjqnk,Max Weller
+Apr 2,home,Glendale,W,18-6,18,6,12,win,20220402_9tol,4,3,2,,,,2,1,1,,,,,,2,0,,,,,5,2022,2021-22,div1,Arizona Western,arizonawesterncollege,maxwellerjqnk,Max Weller
+Apr 5,home,GateWay (AZ),W,8-2,8,2,6,win,20220405_r2r7,3,1,1,,,,1,1,1,1,,,,,1,0,,,,,4,2022,2021-22,div1,Arizona Western,arizonawesterncollege,maxwellerjqnk,Max Weller
+Apr 5,home,GateWay (AZ),W,13-3,13,3,10,win,20220405_71qc,3,2,0,,,,0,3,1,1,,,,,0,0,,,,,6,2022,2021-22,div1,Arizona Western,arizonawesterncollege,maxwellerjqnk,Max Weller
+Apr 9,home,South Mountain,W,7-2,7,2,5,win,20220409_cgrn,1,2,1,,,1,1,2,,1,,1,,,4,1,,,,,4,2022,2021-22,div1,Arizona Western,arizonawesterncollege,maxwellerjqnk,Max Weller
+Apr 9,home,South Mountain,W,13-8,13,8,5,win,20220409_djp3,3,2,0,,,,1,3,2,1,,,,,0,0,,,,,6,2022,2021-22,div1,Arizona Western,arizonawesterncollege,maxwellerjqnk,Max Weller
+Apr 12,home,Eastern Arizona,W,6-1,6,1,5,win,20220412_8qa6,4,1,2,,,1,2,,1,,,,,,5,1,,,,,4,2022,2021-22,div1,Arizona Western,arizonawesterncollege,maxwellerjqnk,Max Weller
+Apr 12,home,Eastern Arizona,W,12-2,12,2,10,win,20220412_kpv0,2,1,0,,,,1,2,,,,1,,,0,0,,,,,5,2022,2021-22,div1,Arizona Western,arizonawesterncollege,maxwellerjqnk,Max Weller
+Apr 16,home,Central Arizona,L,3-2,3,2,1,win,20220416_u3yl,4,0,0,,,,0,,1,,,,,,0,0,,,,,4,2022,2021-22,div1,Arizona Western,arizonawesterncollege,maxwellerjqnk,Max Weller
+Apr 16,home,Central Arizona,L,9-5,9,5,4,win,20220416_20ra,4,2,2,1,,,1,,1,,,,,,3,1,,,,,4,2022,2021-22,div1,Arizona Western,arizonawesterncollege,maxwellerjqnk,Max Weller
+Apr 19,home,Yavapai,L,4-1,4,1,3,win,20220419_dl8y,4,0,1,,,,1,,,,,,,,1,0,,,,,4,2022,2021-22,div1,Arizona Western,arizonawesterncollege,maxwellerjqnk,Max Weller
+Apr 19,home,Yavapai,L,17-5,17,5,12,win,20220419_ky0a,3,1,1,,,1,1,1,1,,,,,,4,1,,,,,4,2022,2021-22,div1,Arizona Western,arizonawesterncollege,maxwellerjqnk,Max Weller
+Apr 23,home,Pima,L,2-1,2,1,1,win,20220423_et8x,4,0,3,,,,0,,,,,,,,3,0,,,,,4,2022,2021-22,div1,Arizona Western,arizonawesterncollege,maxwellerjqnk,Max Weller
+Apr 23,home,Pima,L,4-2,4,2,2,win,20220423_10ry,4,0,2,,,,0,,1,,,,,,2,0,,,,,4,2022,2021-22,div1,Arizona Western,arizonawesterncollege,maxwellerjqnk,Max Weller
+Apr 26,home,Cochise,L,2-0,2,0,2,win,20220426_87qa,2,0,0,,,,0,1,1,,,,,,0,0,,,,,3,2022,2021-22,div1,Arizona Western,arizonawesterncollege,maxwellerjqnk,Max Weller
+Apr 26,home,Cochise,L,7-6,7,6,1,win,20220426_sgpj,4,1,1,,,,0,,1,,,,,,1,0,,,,,4,2022,2021-22,div1,Arizona Western,arizonawesterncollege,maxwellerjqnk,Max Weller
+May 5,home,Cochise,L,11-8,11,8,3,win,20220505_2ke1,5,1,1,,,,1,1,1,,,,,,1,0,,,,,6,2022,2021-22,div1,Arizona Western,arizonawesterncollege,maxwellerjqnk,Max Weller
+May 6,home,Cochise,W,5-4,5,4,1,win,20220506_jkfu,5,1,2,,,1,1,,2,,,,,,5,1,1,,,,5,2022,2021-22,div1,Arizona Western,arizonawesterncollege,maxwellerjqnk,Max Weller
+May 7,home,Cochise,L,8-3,8,3,5,win,20220507_bf4k,4,0,0,,,,0,,2,,,,,,0,0,,,,,4,2022,2021-22,div1,Arizona Western,arizonawesterncollege,maxwellerjqnk,Max Weller

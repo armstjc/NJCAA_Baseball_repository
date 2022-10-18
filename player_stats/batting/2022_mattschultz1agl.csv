@@ -1,30 +1,59 @@
-date,location,opponent,result,score,team_score,opp_score,game_score_diff_x,game_win_loss_x,game_id_x,AB,R,H,2B,3B,HR,RBI,BB,K,SB,CS,game_score_diff_y,game_win_loss_y,game_id_y,HBP,SF,SH,TB,XBH,HDP,GO,FO,GO/FO,PA,season,njcaa_season,njcaa_division,team,team_id,player_id,player_name
-Jan 22  #,home,Bryan College,,,,,,,,,,,,,,,,,,,2.0,win,,,,,,,,,,,,2022,2021-22,div1,Cleveland State,clevelandstatecommunitycollege,mattschultz1agl,Matt Schultz
-Jan 30  #,home,Lee University,,,,,,,,,,,,,,,,,,,2.0,win,,,,,,,,,,,,2022,2021-22,div1,Cleveland State,clevelandstatecommunitycollege,mattschultz1agl,Matt Schultz
-Feb 12,home,Vincennes,W,7-4,7,4,3,win,,,,,,,,,,,,,3.0,win,,,,,,,,,,,,2022,2021-22,div1,Cleveland State,clevelandstatecommunitycollege,mattschultz1agl,Matt Schultz
-Feb 12,home,Vincennes,W,4-1,4,1,3,win,20220212_o9p1,1,0,0,,,,0,1,,,,3.0,win,20220212_o9p1,1,,,0,0,,,1,,3,2022,2021-22,div1,Cleveland State,clevelandstatecommunitycollege,mattschultz1agl,Matt Schultz
-Feb 13,home,Vincennes,W,6-5,6,5,1,win,,,,,,,,,,,,,1.0,win,,,,,,,,,,,,2022,2021-22,div1,Cleveland State,clevelandstatecommunitycollege,mattschultz1agl,Matt Schultz
-Feb 26,home,Edison State,W,10-0,10,0,10,win,,,,,,,,,,,,,10.0,win,,,,,,,,,,,,2022,2021-22,div1,Cleveland State,clevelandstatecommunitycollege,mattschultz1agl,Matt Schultz
-Feb 26,home,Edison State,W,8-3,8,3,5,win,20220226_q55u,3,0,0,,,,0,,2,,,5.0,win,20220226_q55u,,,,0,0,,1,,,3,2022,2021-22,div1,Cleveland State,clevelandstatecommunitycollege,mattschultz1agl,Matt Schultz
-Mar 2,home,Maryville (Tenn.),W,14-4,14,4,10,win,,,,,,,,,,,,,10.0,win,,,,,,,,,,,,2022,2021-22,div1,Cleveland State,clevelandstatecommunitycollege,mattschultz1agl,Matt Schultz
-Mar 2,home,Maryville (Tenn.),W,17-7,17,7,10,win,20220302_36jn,2,3,2,1,,,2,,,,,10.0,win,20220302_36jn,1,,,3,1,,,,,3,2022,2021-22,div1,Cleveland State,clevelandstatecommunitycollege,mattschultz1agl,Matt Schultz
-Mar 9,home,BCA,W,12-2,12,2,10,win,20220309_ia7r,3,2,1,,,,2,1,1,,,10.0,win,20220309_ia7r,,,,1,0,,,,,4,2022,2021-22,div1,Cleveland State,clevelandstatecommunitycollege,mattschultz1agl,Matt Schultz
-Mar 9,home,BCA,W,8-2,8,2,6,win,20220309_6c5b,3,1,1,,,,0,,,2,,6.0,win,20220309_6c5b,,,,1,0,,2,,,3,2022,2021-22,div1,Cleveland State,clevelandstatecommunitycollege,mattschultz1agl,Matt Schultz
-Mar 11,home,Jackson State,W,4-2,4,2,2,win,,,,,,,,,,,,,2.0,win,,,,,,,,,,,,2022,2021-22,div1,Cleveland State,clevelandstatecommunitycollege,mattschultz1agl,Matt Schultz
-Mar 11,home,Jackson State,W,4-1,4,1,3,win,,,,,,,,,,,,,3.0,win,,,,,,,,,,,,2022,2021-22,div1,Cleveland State,clevelandstatecommunitycollege,mattschultz1agl,Matt Schultz
-Mar 12,home,Jackson State,,,,,3,win,,,,,,,,,,,,,3.0,win,,,,,,,,,,,,2022,2021-22,div1,Cleveland State,clevelandstatecommunitycollege,mattschultz1agl,Matt Schultz
-Mar 25,home,Motlow State,L,13-2,13,2,11,win,,,,,,,,,,,,,11.0,win,,,,,,,,,,,,2022,2021-22,div1,Cleveland State,clevelandstatecommunitycollege,mattschultz1agl,Matt Schultz
-Mar 26,home,Motlow State,L,11-8,11,8,3,win,,,,,,,,,,,,,3.0,win,,,,,,,,,,,,2022,2021-22,div1,Cleveland State,clevelandstatecommunitycollege,mattschultz1agl,Matt Schultz
-Mar 26,home,Motlow State,W,4-3,4,3,1,win,,,,,,,,,,,,,1.0,win,,,,,,,,,,,,2022,2021-22,div1,Cleveland State,clevelandstatecommunitycollege,mattschultz1agl,Matt Schultz
-Apr 1,home,Chattanooga State,L,6-5,6,5,1,win,,,,,,,,,,,,,1.0,win,,,,,,,,,,,,2022,2021-22,div1,Cleveland State,clevelandstatecommunitycollege,mattschultz1agl,Matt Schultz
-Apr 2,home,Chattanooga State,L,3-1,3,1,2,win,,,,,,,,,,,,,2.0,win,,,,,,,,,,,,2022,2021-22,div1,Cleveland State,clevelandstatecommunitycollege,mattschultz1agl,Matt Schultz
-Apr 2,home,Chattanooga State,L,18-8,18,8,10,win,20220402_5uzf,0,0,0,,,,0,,,,,10.0,win,20220402_5uzf,,,,0,0,,,,,0,2022,2021-22,div1,Cleveland State,clevelandstatecommunitycollege,mattschultz1agl,Matt Schultz
-Apr 6,home,Wallace State,L,11-8,11,8,3,win,,,,,,,,,,,,,3.0,win,,,,,,,,,,,,2022,2021-22,div1,Cleveland State,clevelandstatecommunitycollege,mattschultz1agl,Matt Schultz
-Apr 15,home,Walters State,L,4-0,4,0,4,win,,,,,,,,,,,,,4.0,win,,,,,,,,,,,,2022,2021-22,div1,Cleveland State,clevelandstatecommunitycollege,mattschultz1agl,Matt Schultz
-Apr 15,home,Walters State,L,10-0,10,0,10,win,,,,,,,,,,,,,10.0,win,,,,,,,,,,,,2022,2021-22,div1,Cleveland State,clevelandstatecommunitycollege,mattschultz1agl,Matt Schultz
-Apr 16,home,Walters State,L,9-1,9,1,8,win,,,,,,,,,,,,,8.0,win,,,,,,,,,,,,2022,2021-22,div1,Cleveland State,clevelandstatecommunitycollege,mattschultz1agl,Matt Schultz
-Apr 19,home,BCA,W,6-5,6,5,1,win,,,,,,,,,,,,,1.0,win,,,,,,,,,,,,2022,2021-22,div1,Cleveland State,clevelandstatecommunitycollege,mattschultz1agl,Matt Schultz
-Apr 19,home,BCA,W,7-0,7,0,7,win,20220419_87ip,2,1,1,,,,0,2,,1,,7.0,win,20220419_87ip,,,,1,0,,,1,,4,2022,2021-22,div1,Cleveland State,clevelandstatecommunitycollege,mattschultz1agl,Matt Schultz
-Apr 28,home,Southwest Tennessee,W,15-7,15,7,8,win,,,,,,,,,,,,,8.0,win,,,,,,,,,,,,2022,2021-22,div1,Cleveland State,clevelandstatecommunitycollege,mattschultz1agl,Matt Schultz
-Apr 29,home,Southwest Tennessee,W,4-3,4,3,1,win,20220429_nmhk,0,0,0,,,,0,,,,,1.0,win,20220429_nmhk,,,,0,0,,,,,0,2022,2021-22,div1,Cleveland State,clevelandstatecommunitycollege,mattschultz1agl,Matt Schultz
-Apr 29,home,Southwest Tennessee,L,1-0,1,0,1,win,20220429_a3w3,1,0,0,,,,0,,,,,1.0,win,20220429_a3w3,,,,0,0,,,1,,1,2022,2021-22,div1,Cleveland State,clevelandstatecommunitycollege,mattschultz1agl,Matt Schultz
+date,location,opponent,result,score,team_score,opp_score,game_score_diff,game_win_loss,game_id,AB,R,H,2B,3B,HR,RBI,BB,K,SB,CS,HBP,SF,SH,TB,XBH,HDP,GO,FO,GO/FO,PA,season,njcaa_season,njcaa_division,team,team_id,player_id,player_name
+Feb 9,home,Wallace State,L,6-5,6,5,1,win,20220209_ung0,0,0,0,,,,0,,,,,,,,0,0,,,,,0,2022,2021-22,div1,Cleveland State,clevelandstatecommunitycollege,mattschultz1agl,Matt Schultz
+Feb 12,home,Vincennes,W,7-4,7,4,3,win,,,,,,,,,,,,,,,,,,,,,,,2022,2021-22,div1,Cleveland State,clevelandstatecommunitycollege,mattschultz1agl,Matt Schultz
+Feb 12,home,Vincennes,W,4-1,4,1,3,win,20220212_o9p1,1,0,0,,,,0,1,,,,1,,,0,0,,,1,,3,2022,2021-22,div1,Cleveland State,clevelandstatecommunitycollege,mattschultz1agl,Matt Schultz
+Feb 13,home,Vincennes,W,6-5,6,5,1,win,,,,,,,,,,,,,,,,,,,,,,,2022,2021-22,div1,Cleveland State,clevelandstatecommunitycollege,mattschultz1agl,Matt Schultz
+Feb 15,home,Georgia Highlands,L,7-1,7,1,6,win,20220215_acsm,1,0,0,,,,0,,,,,,,,0,0,,,1,,1,2022,2021-22,div1,Cleveland State,clevelandstatecommunitycollege,mattschultz1agl,Matt Schultz
+Feb 18,home,Heartland,W,7-5,7,5,2,win,,,,,,,,,,,,,,,,,,,,,,,2022,2021-22,div1,Cleveland State,clevelandstatecommunitycollege,mattschultz1agl,Matt Schultz
+Feb 18,home,Iowa Central,L,4-1,4,1,3,win,20220218_fr2t,0,0,0,,,,0,1,,,,,,1,0,0,,,,,2,2022,2021-22,div1,Cleveland State,clevelandstatecommunitycollege,mattschultz1agl,Matt Schultz
+Feb 19,home,Southwestern Illinois,W,9-1,9,1,8,win,20220219_we95,0,0,0,,,,0,,,,,,,,0,0,,,,,0,2022,2021-22,div1,Cleveland State,clevelandstatecommunitycollege,mattschultz1agl,Matt Schultz
+Feb 19,home,East Mississippi,L,5-3,5,3,2,win,,,,,,,,,,,,,,,,,,,,,,,2022,2021-22,div1,Cleveland State,clevelandstatecommunitycollege,mattschultz1agl,Matt Schultz
+Feb 22,home,Maryville (Tenn.),W,10-2,10,2,8,win,,,,,,,,,,,,,,,,,,,,,,,2022,2021-22,div1,Cleveland State,clevelandstatecommunitycollege,mattschultz1agl,Matt Schultz
+Feb 22,home,Maryville (Tenn.),W,10-1,10,1,9,win,20220222_ay0n,1,1,0,,,,1,1,,,,,1,,0,0,,,2,,3,2022,2021-22,div1,Cleveland State,clevelandstatecommunitycollege,mattschultz1agl,Matt Schultz
+Feb 26,home,Edison State,W,10-0,10,0,10,win,,,,,,,,,,,,,,,,,,,,,,,2022,2021-22,div1,Cleveland State,clevelandstatecommunitycollege,mattschultz1agl,Matt Schultz
+Feb 26,home,Edison State,W,8-3,8,3,5,win,20220226_q55u,3,0,0,,,,0,,2,,,,,,0,0,,1,,,3,2022,2021-22,div1,Cleveland State,clevelandstatecommunitycollege,mattschultz1agl,Matt Schultz
+Mar 2,home,Maryville (Tenn.),W,14-4,14,4,10,win,,,,,,,,,,,,,,,,,,,,,,,2022,2021-22,div1,Cleveland State,clevelandstatecommunitycollege,mattschultz1agl,Matt Schultz
+Mar 2,home,Maryville (Tenn.),W,17-7,17,7,10,win,20220302_36jn,2,3,2,1,,,2,,,,,1,,,3,1,,,,,3,2022,2021-22,div1,Cleveland State,clevelandstatecommunitycollege,mattschultz1agl,Matt Schultz
+Mar 4,home,Dyersburg State,L,4-2,4,2,2,win,20220304_is85,0,0,0,,,,0,,,,,,,,0,0,,,,,0,2022,2021-22,div1,Cleveland State,clevelandstatecommunitycollege,mattschultz1agl,Matt Schultz
+Mar 5,home,Dyersburg State,L,9-2,9,2,7,win,,,,,,,,,,,,,,,,,,,,,,,2022,2021-22,div1,Cleveland State,clevelandstatecommunitycollege,mattschultz1agl,Matt Schultz
+Mar 5,home,Dyersburg State,L,3-2,3,2,1,win,20220305_0qk7,0,0,0,,,,0,,,,,,,,0,0,,,,,0,2022,2021-22,div1,Cleveland State,clevelandstatecommunitycollege,mattschultz1agl,Matt Schultz
+Mar 9,home,BCA,W,12-2,12,2,10,win,20220309_ia7r,3,2,1,,,,2,1,1,,,,,,1,0,,,,,4,2022,2021-22,div1,Cleveland State,clevelandstatecommunitycollege,mattschultz1agl,Matt Schultz
+Mar 9,home,BCA,W,8-2,8,2,6,win,20220309_6c5b,3,1,1,,,,0,,,2,,,,,1,0,,2,,,3,2022,2021-22,div1,Cleveland State,clevelandstatecommunitycollege,mattschultz1agl,Matt Schultz
+Mar 11,home,Jackson State,W,4-2,4,2,2,win,,,,,,,,,,,,,,,,,,,,,,,2022,2021-22,div1,Cleveland State,clevelandstatecommunitycollege,mattschultz1agl,Matt Schultz
+Mar 11,home,Jackson State,W,4-1,4,1,3,win,,,,,,,,,,,,,,,,,,,,,,,2022,2021-22,div1,Cleveland State,clevelandstatecommunitycollege,mattschultz1agl,Matt Schultz
+Mar 12,home,Jackson State,,,,,3,win,,,,,,,,,,,,,,,,,,,,,,,2022,2021-22,div1,Cleveland State,clevelandstatecommunitycollege,mattschultz1agl,Matt Schultz
+Mar 15,home,Georgia Highlands,L,14-4,14,4,10,win,,,,,,,,,,,,,,,,,,,,,,,2022,2021-22,div1,Cleveland State,clevelandstatecommunitycollege,mattschultz1agl,Matt Schultz
+Mar 19,home,Roane State,W,5-3,5,3,2,win,,,,,,,,,,,,,,,,,,,,,,,2022,2021-22,div1,Cleveland State,clevelandstatecommunitycollege,mattschultz1agl,Matt Schultz
+Mar 19,home,Roane State,W,11-4,11,4,7,win,20220319_uik7,1,1,1,1,,,0,,,,,,,,2,1,,,,,1,2022,2021-22,div1,Cleveland State,clevelandstatecommunitycollege,mattschultz1agl,Matt Schultz
+Mar 20,home,Roane State,W,7-0,7,0,7,win,,,,,,,,,,,,,,,,,,,,,,,2022,2021-22,div1,Cleveland State,clevelandstatecommunitycollege,mattschultz1agl,Matt Schultz
+Mar 23,home,University of the Cumberlands JV,L,7-4,7,4,3,win,,,,,,,,,,,,,,,,,,,,,,,2022,2021-22,div1,Cleveland State,clevelandstatecommunitycollege,mattschultz1agl,Matt Schultz
+Mar 23,home,University of the Cumberlands JV,W,10-6,10,6,4,win,20220323_6u3r,3,1,0,,,,1,,,1,,,1,,0,0,,,3,,4,2022,2021-22,div1,Cleveland State,clevelandstatecommunitycollege,mattschultz1agl,Matt Schultz
+Mar 25,home,Motlow State,L,13-2,13,2,11,win,,,,,,,,,,,,,,,,,,,,,,,2022,2021-22,div1,Cleveland State,clevelandstatecommunitycollege,mattschultz1agl,Matt Schultz
+Mar 26,home,Motlow State,L,11-8,11,8,3,win,,,,,,,,,,,,,,,,,,,,,,,2022,2021-22,div1,Cleveland State,clevelandstatecommunitycollege,mattschultz1agl,Matt Schultz
+Mar 26,home,Motlow State,W,4-3,4,3,1,win,,,,,,,,,,,,,,,,,,,,,,,2022,2021-22,div1,Cleveland State,clevelandstatecommunitycollege,mattschultz1agl,Matt Schultz
+Mar 28,home,Carson-Newman University,W,6-5,6,5,1,win,,,,,,,,,,,,,,,,,,,,,,,2022,2021-22,div1,Cleveland State,clevelandstatecommunitycollege,mattschultz1agl,Matt Schultz
+Apr 1,home,Chattanooga State,L,6-5,6,5,1,win,,,,,,,,,,,,,,,,,,,,,,,2022,2021-22,div1,Cleveland State,clevelandstatecommunitycollege,mattschultz1agl,Matt Schultz
+Apr 2,home,Chattanooga State,L,3-1,3,1,2,win,,,,,,,,,,,,,,,,,,,,,,,2022,2021-22,div1,Cleveland State,clevelandstatecommunitycollege,mattschultz1agl,Matt Schultz
+Apr 2,home,Chattanooga State,L,18-8,18,8,10,win,20220402_5uzf,0,0,0,,,,0,,,,,,,,0,0,,,,,0,2022,2021-22,div1,Cleveland State,clevelandstatecommunitycollege,mattschultz1agl,Matt Schultz
+Apr 6,home,Wallace State,L,11-8,11,8,3,win,,,,,,,,,,,,,,,,,,,,,,,2022,2021-22,div1,Cleveland State,clevelandstatecommunitycollege,mattschultz1agl,Matt Schultz
+Apr 8,home,Columbia State,L,10-3,10,3,7,win,,,,,,,,,,,,,,,,,,,,,,,2022,2021-22,div1,Cleveland State,clevelandstatecommunitycollege,mattschultz1agl,Matt Schultz
+Apr 9,home,Columbia State,W,3-2,3,2,1,win,,,,,,,,,,,,,,,,,,,,,,,2022,2021-22,div1,Cleveland State,clevelandstatecommunitycollege,mattschultz1agl,Matt Schultz
+Apr 9,home,Columbia State,L,8-1,8,1,7,win,20220409_gt93,0,0,0,,,,0,1,,,,,,,0,0,,,,,1,2022,2021-22,div1,Cleveland State,clevelandstatecommunitycollege,mattschultz1agl,Matt Schultz
+Apr 13,home,Carson-Newman University,,,,,7,win,,,,,,,,,,,,,,,,,,,,,,,2022,2021-22,div1,Cleveland State,clevelandstatecommunitycollege,mattschultz1agl,Matt Schultz
+Apr 13,home,Carson-Newman University,,,,,7,win,,,,,,,,,,,,,,,,,,,,,,,2022,2021-22,div1,Cleveland State,clevelandstatecommunitycollege,mattschultz1agl,Matt Schultz
+Apr 13,home,Carson-Newman University,,,,,7,win,,,,,,,,,,,,,,,,,,,,,,,2022,2021-22,div1,Cleveland State,clevelandstatecommunitycollege,mattschultz1agl,Matt Schultz
+Apr 13,home,Carson-Newman University,,,,,7,win,,,,,,,,,,,,,,,,,,,,,,,2022,2021-22,div1,Cleveland State,clevelandstatecommunitycollege,mattschultz1agl,Matt Schultz
+Apr 15,home,Walters State,L,4-0,4,0,4,win,,,,,,,,,,,,,,,,,,,,,,,2022,2021-22,div1,Cleveland State,clevelandstatecommunitycollege,mattschultz1agl,Matt Schultz
+Apr 15,home,Walters State,L,10-0,10,0,10,win,,,,,,,,,,,,,,,,,,,,,,,2022,2021-22,div1,Cleveland State,clevelandstatecommunitycollege,mattschultz1agl,Matt Schultz
+Apr 16,home,Walters State,L,9-1,9,1,8,win,,,,,,,,,,,,,,,,,,,,,,,2022,2021-22,div1,Cleveland State,clevelandstatecommunitycollege,mattschultz1agl,Matt Schultz
+Apr 19,home,BCA,W,6-5,6,5,1,win,,,,,,,,,,,,,,,,,,,,,,,2022,2021-22,div1,Cleveland State,clevelandstatecommunitycollege,mattschultz1agl,Matt Schultz
+Apr 19,home,BCA,W,7-0,7,0,7,win,20220419_87ip,2,1,1,,,,0,2,,1,,,,,1,0,,,1,,4,2022,2021-22,div1,Cleveland State,clevelandstatecommunitycollege,mattschultz1agl,Matt Schultz
+Apr 22,home,Volunteer State,W,11-1,11,1,10,win,,,,,,,,,,,,,,,,,,,,,,,2022,2021-22,div1,Cleveland State,clevelandstatecommunitycollege,mattschultz1agl,Matt Schultz
+Apr 23,home,Volunteer State,W,6-5,6,5,1,win,20220423_i3l9,0,0,0,,,,0,,,,,,,,0,0,,,,,0,2022,2021-22,div1,Cleveland State,clevelandstatecommunitycollege,mattschultz1agl,Matt Schultz
+Apr 23,home,Volunteer State,L,13-3,13,3,10,win,,,,,,,,,,,,,,,,,,,,,,,2022,2021-22,div1,Cleveland State,clevelandstatecommunitycollege,mattschultz1agl,Matt Schultz
+Apr 28,home,Southwest Tennessee,W,15-7,15,7,8,win,,,,,,,,,,,,,,,,,,,,,,,2022,2021-22,div1,Cleveland State,clevelandstatecommunitycollege,mattschultz1agl,Matt Schultz
+Apr 29,home,Southwest Tennessee,W,4-3,4,3,1,win,20220429_nmhk,0,0,0,,,,0,,,,,,,,0,0,,,,,0,2022,2021-22,div1,Cleveland State,clevelandstatecommunitycollege,mattschultz1agl,Matt Schultz
+Apr 29,home,Southwest Tennessee,L,1-0,1,0,1,win,20220429_a3w3,1,0,0,,,,0,,,,,,,,0,0,,,1,,1,2022,2021-22,div1,Cleveland State,clevelandstatecommunitycollege,mattschultz1agl,Matt Schultz
+May 9,home,Dyersburg State,W,10-9,10,9,1,win,,,,,,,,,,,,,,,,,,,,,,,2022,2021-22,div1,Cleveland State,clevelandstatecommunitycollege,mattschultz1agl,Matt Schultz
+May 10,home,Chattanooga State,L,12-9,12,9,3,win,20220510_s03s,0,0,0,,,,0,,,1,,,,,0,0,,,,,0,2022,2021-22,div1,Cleveland State,clevelandstatecommunitycollege,mattschultz1agl,Matt Schultz
+May 11,home,Motlow State,L,9-7,9,7,2,win,,,,,,,,,,,,,,,,,,,,,,,2022,2021-22,div1,Cleveland State,clevelandstatecommunitycollege,mattschultz1agl,Matt Schultz

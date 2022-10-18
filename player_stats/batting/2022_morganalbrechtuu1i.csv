@@ -1,23 +1,64 @@
-date,location,opponent,result,score,team_score,opp_score,game_score_diff_x,game_win_loss_x,game_id_x,AB,R,H,2B,3B,HR,RBI,BB,K,SB,CS,game_score_diff_y,game_win_loss_y,game_id_y,HBP,SF,SH,TB,XBH,HDP,GO,FO,GO/FO,PA,season,njcaa_season,njcaa_division,team,team_id,player_id,player_name
-Feb 26,home,Treasure Valley,W,11-1,11,1,10.0,win,,,,,,,,,,,,,10.0,win,,,,,,,,,,,,2022,2021-22,div1,Southern Idaho,collegeofsouthernidaho,morganalbrechtuu1i,Morgan Albrecht
-Feb 26,home,Treasure Valley,W,6-0,6,0,6.0,win,,,,,,,,,,,,,6.0,win,,,,,,,,,,,,2022,2021-22,div1,Southern Idaho,collegeofsouthernidaho,morganalbrechtuu1i,Morgan Albrecht
-Mar 31,home,Colorado Northwestern,W,10-0,10,0,10.0,win,,,,,,,,,,,,,10.0,win,,,,,,,,,,,,2022,2021-22,div1,Southern Idaho,collegeofsouthernidaho,morganalbrechtuu1i,Morgan Albrecht
-Apr 1,home,Colorado Northwestern,W,10-0,10,0,10.0,win,,,,,,,,,,,,,10.0,win,,,,,,,,,,,,2022,2021-22,div1,Southern Idaho,collegeofsouthernidaho,morganalbrechtuu1i,Morgan Albrecht
-Apr 1,home,Colorado Northwestern,L,9-8,9,8,1.0,win,20220401_fp3n,2,0,0,,,,0,,,,,1.0,win,20220401_fp3n,,,,0,0,,,2,,2,2022,2021-22,div1,Southern Idaho,collegeofsouthernidaho,morganalbrechtuu1i,Morgan Albrecht
-Apr 2,home,Colorado Northwestern,W,11-3,11,3,8.0,win,,,,,,,,,,,,,8.0,win,,,,,,,,,,,,2022,2021-22,div1,Southern Idaho,collegeofsouthernidaho,morganalbrechtuu1i,Morgan Albrecht
-Apr 7,home,Utah State Eastern,W,4-3,4,3,1.0,win,20220407_9wqz,2,0,0,,,,0,,,,,1.0,win,20220407_9wqz,,,,0,0,,,2,,2,2022,2021-22,div1,Southern Idaho,collegeofsouthernidaho,morganalbrechtuu1i,Morgan Albrecht
-Apr 8,home,Utah State Eastern,L,3-1,3,1,2.0,win,,,,,,,,,,,,,2.0,win,,,,,,,,,,,,2022,2021-22,div1,Southern Idaho,collegeofsouthernidaho,morganalbrechtuu1i,Morgan Albrecht
-Apr 8,home,Utah State Eastern,W,9-2,9,2,7.0,win,20220408_p2n9,3,0,0,,,,0,,2,,,7.0,win,20220408_p2n9,1,,,0,0,,,1,,4,2022,2021-22,div1,Southern Idaho,collegeofsouthernidaho,morganalbrechtuu1i,Morgan Albrecht
-Apr 9,home,Utah State Eastern,W,9-0,9,0,9.0,win,20220409_50xi,4,1,2,1,,,0,,2,,,9.0,win,20220409_50xi,,,,3,1,,,,,4,2022,2021-22,div1,Southern Idaho,collegeofsouthernidaho,morganalbrechtuu1i,Morgan Albrecht
-Apr 14,home,Southern Nevada,W,3-2,3,2,1.0,win,20220414_a5i3,0,1,0,,,,0,1,,,,1.0,win,20220414_a5i3,,,,0,0,,,,,1,2022,2021-22,div1,Southern Idaho,collegeofsouthernidaho,morganalbrechtuu1i,Morgan Albrecht
-Apr 15,home,Southern Nevada,L,1-0,1,0,1.0,win,20220415_o58i,1,0,0,,,,0,,1,,,1.0,win,20220415_o58i,,,,0,0,,,,,1,2022,2021-22,div1,Southern Idaho,collegeofsouthernidaho,morganalbrechtuu1i,Morgan Albrecht
-Apr 15,home,Southern Nevada,W,3-1,3,1,2.0,win,20220415_b3j0,3,0,1,1,,,0,,1,,,2.0,win,20220415_b3j0,,,,2,1,,1,,,3,2022,2021-22,div1,Southern Idaho,collegeofsouthernidaho,morganalbrechtuu1i,Morgan Albrecht
-Apr 16,home,Southern Nevada,W,5-2,5,2,3.0,win,20220416_0kro,3,0,0,,,,1,,1,,,3.0,win,20220416_0kro,,1,,0,0,,,3,,4,2022,2021-22,div1,Southern Idaho,collegeofsouthernidaho,morganalbrechtuu1i,Morgan Albrecht
-Apr 21,home,Salt Lake,L,6-1,6,1,5.0,win,20220421_q237,3,0,0,,,,0,1,1,,,5.0,win,20220421_q237,,,,0,0,1,1,1,1.00,4,2022,2021-22,div1,Southern Idaho,collegeofsouthernidaho,morganalbrechtuu1i,Morgan Albrecht
-Apr 22,home,Salt Lake,L,7-3,7,3,4.0,win,20220422_htrt,3,1,1,,,1,2,,2,,,4.0,win,20220422_htrt,,,,4,1,,,,,3,2022,2021-22,div1,Southern Idaho,collegeofsouthernidaho,morganalbrechtuu1i,Morgan Albrecht
-Apr 22,home,Salt Lake,W,4-2,4,2,2.0,win,20220422_47u4,4,1,2,,,,0,,1,,,2.0,win,20220422_47u4,,,,2,0,,1,,,4,2022,2021-22,div1,Southern Idaho,collegeofsouthernidaho,morganalbrechtuu1i,Morgan Albrecht
-Apr 23,home,Salt Lake,W,7-6,7,6,1.0,win,20220423_tyqq,5,0,2,,,,0,,1,,,1.0,win,20220423_tyqq,,,,2,0,,,2,,5,2022,2021-22,div1,Southern Idaho,collegeofsouthernidaho,morganalbrechtuu1i,Morgan Albrecht
-Apr 28,home,Community Christian (CA),W,11-0,11,0,11.0,win,20220428_5aul,3,2,2,1,1,,2,,,,,11.0,win,20220428_5aul,,,,5,2,,,1,,3,2022,2021-22,div1,Southern Idaho,collegeofsouthernidaho,morganalbrechtuu1i,Morgan Albrecht
-Apr 29,home,Community Christian (CA),W,7-2,7,2,5.0,win,20220429_vslm,2,0,0,,,,1,,,,,5.0,win,20220429_vslm,,1,,0,0,,,3,,3,2022,2021-22,div1,Southern Idaho,collegeofsouthernidaho,morganalbrechtuu1i,Morgan Albrecht
-Apr 29,home,Community Christian (CA),W,13-0,13,0,13.0,win,20220429_lmbm,3,1,2,1,,,4,,1,,,13.0,win,20220429_lmbm,,,,3,1,,,,,3,2022,2021-22,div1,Southern Idaho,collegeofsouthernidaho,morganalbrechtuu1i,Morgan Albrecht
-Apr 30,home,Community Christian (CA),W,15-7,15,7,8.0,win,20220430_1cb0,5,0,2,1,,,1,,,,,8.0,win,20220430_1cb0,,,,3,1,,1,1,1.00,5,2022,2021-22,div1,Southern Idaho,collegeofsouthernidaho,morganalbrechtuu1i,Morgan Albrecht
+date,location,opponent,result,score,team_score,opp_score,game_score_diff,game_win_loss,game_id,AB,R,H,2B,3B,HR,RBI,BB,K,SB,CS,HBP,SF,SH,TB,XBH,HDP,GO,FO,GO/FO,PA,season,njcaa_season,njcaa_division,team,team_id,player_id,player_name
+Feb 1,home,Community Christian (CA),W,10-0,10,0,10.0,win,,,,,,,,,,,,,,,,,,,,,,,2022,2021-22,div1,Southern Idaho,collegeofsouthernidaho,morganalbrechtuu1i,Morgan Albrecht
+Feb 1,home,Community Christian (CA),W,16-1,16,1,15.0,win,,,,,,,,,,,,,,,,,,,,,,,2022,2021-22,div1,Southern Idaho,collegeofsouthernidaho,morganalbrechtuu1i,Morgan Albrecht
+Feb 2,home,Community Christian (CA),W,18-10,18,10,8.0,win,,,,,,,,,,,,,,,,,,,,,,,2022,2021-22,div1,Southern Idaho,collegeofsouthernidaho,morganalbrechtuu1i,Morgan Albrecht
+Feb 2,home,Community Christian (CA),W,8-7,8,7,1.0,win,,,,,,,,,,,,,,,,,,,,,,,2022,2021-22,div1,Southern Idaho,collegeofsouthernidaho,morganalbrechtuu1i,Morgan Albrecht
+Feb 3,home,Cochise,W,5-1,5,1,4.0,win,,,,,,,,,,,,,,,,,,,,,,,2022,2021-22,div1,Southern Idaho,collegeofsouthernidaho,morganalbrechtuu1i,Morgan Albrecht
+Feb 4,home,Cochise,L,5-4,5,4,1.0,win,,,,,,,,,,,,,,,,,,,,,,,2022,2021-22,div1,Southern Idaho,collegeofsouthernidaho,morganalbrechtuu1i,Morgan Albrecht
+Feb 4,home,Cochise,W,9-7,9,7,2.0,win,,,,,,,,,,,,,,,,,,,,,,,2022,2021-22,div1,Southern Idaho,collegeofsouthernidaho,morganalbrechtuu1i,Morgan Albrecht
+Feb 5,home,Cochise,W,8-5,8,5,3.0,win,,,,,,,,,,,,,,,,,,,,,,,2022,2021-22,div1,Southern Idaho,collegeofsouthernidaho,morganalbrechtuu1i,Morgan Albrecht
+Feb 18,home,Dawson,W,9-0,9,0,9.0,win,,,,,,,,,,,,,,,,,,,,,,,2022,2021-22,div1,Southern Idaho,collegeofsouthernidaho,morganalbrechtuu1i,Morgan Albrecht
+Feb 18,home,Dawson,L,9-5,9,5,4.0,win,,,,,,,,,,,,,,,,,,,,,,,2022,2021-22,div1,Southern Idaho,collegeofsouthernidaho,morganalbrechtuu1i,Morgan Albrecht
+Feb 19,home,Dawson,W,11-1,11,1,10.0,win,,,,,,,,,,,,,,,,,,,,,,,2022,2021-22,div1,Southern Idaho,collegeofsouthernidaho,morganalbrechtuu1i,Morgan Albrecht
+Feb 19,home,Dawson,W,15-5,15,5,10.0,win,,,,,,,,,,,,,,,,,,,,,,,2022,2021-22,div1,Southern Idaho,collegeofsouthernidaho,morganalbrechtuu1i,Morgan Albrecht
+Feb 26,home,Treasure Valley,W,11-1,11,1,10.0,win,,,,,,,,,,,,,,,,,,,,,,,2022,2021-22,div1,Southern Idaho,collegeofsouthernidaho,morganalbrechtuu1i,Morgan Albrecht
+Feb 26,home,Treasure Valley,W,6-0,6,0,6.0,win,,,,,,,,,,,,,,,,,,,,,,,2022,2021-22,div1,Southern Idaho,collegeofsouthernidaho,morganalbrechtuu1i,Morgan Albrecht
+Mar 3,home,Utah State Eastern,W,16-6,16,6,10.0,win,,,,,,,,,,,,,,,,,,,,,,,2022,2021-22,div1,Southern Idaho,collegeofsouthernidaho,morganalbrechtuu1i,Morgan Albrecht
+Mar 4,home,Utah State Eastern,W,3-0,3,0,3.0,win,,,,,,,,,,,,,,,,,,,,,,,2022,2021-22,div1,Southern Idaho,collegeofsouthernidaho,morganalbrechtuu1i,Morgan Albrecht
+Mar 5,home,Utah State Eastern,,,,,3.0,win,,,,,,,,,,,,,,,,,,,,,,,2022,2021-22,div1,Southern Idaho,collegeofsouthernidaho,morganalbrechtuu1i,Morgan Albrecht
+Mar 5,home,Utah State Eastern,,,,,3.0,win,,,,,,,,,,,,,,,,,,,,,,,2022,2021-22,div1,Southern Idaho,collegeofsouthernidaho,morganalbrechtuu1i,Morgan Albrecht
+Mar 5,home,Utah State Eastern,,,,,3.0,win,,,,,,,,,,,,,,,,,,,,,,,2022,2021-22,div1,Southern Idaho,collegeofsouthernidaho,morganalbrechtuu1i,Morgan Albrecht
+Mar 5,home,Utah State Eastern,,,,,3.0,win,,,,,,,,,,,,,,,,,,,,,,,2022,2021-22,div1,Southern Idaho,collegeofsouthernidaho,morganalbrechtuu1i,Morgan Albrecht
+Mar 10,home,Southern Nevada,L,5-2,5,2,3.0,win,,,,,,,,,,,,,,,,,,,,,,,2022,2021-22,div1,Southern Idaho,collegeofsouthernidaho,morganalbrechtuu1i,Morgan Albrecht
+Mar 11,home,Southern Nevada,W,3-2,3,2,1.0,win,,,,,,,,,,,,,,,,,,,,,,,2022,2021-22,div1,Southern Idaho,collegeofsouthernidaho,morganalbrechtuu1i,Morgan Albrecht
+Mar 11,home,Southern Nevada,L,7-3,7,3,4.0,win,,,,,,,,,,,,,,,,,,,,,,,2022,2021-22,div1,Southern Idaho,collegeofsouthernidaho,morganalbrechtuu1i,Morgan Albrecht
+Mar 12,home,Southern Nevada,L,6-3,6,3,3.0,win,,,,,,,,,,,,,,,,,,,,,,,2022,2021-22,div1,Southern Idaho,collegeofsouthernidaho,morganalbrechtuu1i,Morgan Albrecht
+Mar 17,home,Salt Lake,L,5-2,5,2,3.0,win,,,,,,,,,,,,,,,,,,,,,,,2022,2021-22,div1,Southern Idaho,collegeofsouthernidaho,morganalbrechtuu1i,Morgan Albrecht
+Mar 18,home,Salt Lake,L,3-2,3,2,1.0,win,,,,,,,,,,,,,,,,,,,,,,,2022,2021-22,div1,Southern Idaho,collegeofsouthernidaho,morganalbrechtuu1i,Morgan Albrecht
+Mar 18,home,Salt Lake,L,5-3,5,3,2.0,win,,,,,,,,,,,,,,,,,,,,,,,2022,2021-22,div1,Southern Idaho,collegeofsouthernidaho,morganalbrechtuu1i,Morgan Albrecht
+Mar 19,home,Salt Lake,W,4-2,4,2,2.0,win,,,,,,,,,,,,,,,,,,,,,,,2022,2021-22,div1,Southern Idaho,collegeofsouthernidaho,morganalbrechtuu1i,Morgan Albrecht
+Mar 24,home,Community Christian (CA),W,15-4,15,4,11.0,win,,,,,,,,,,,,,,,,,,,,,,,2022,2021-22,div1,Southern Idaho,collegeofsouthernidaho,morganalbrechtuu1i,Morgan Albrecht
+Mar 25,home,Community Christian (CA),W,10-3,10,3,7.0,win,,,,,,,,,,,,,,,,,,,,,,,2022,2021-22,div1,Southern Idaho,collegeofsouthernidaho,morganalbrechtuu1i,Morgan Albrecht
+Mar 25,home,Community Christian (CA),L,8-0,8,0,8.0,win,,,,,,,,,,,,,,,,,,,,,,,2022,2021-22,div1,Southern Idaho,collegeofsouthernidaho,morganalbrechtuu1i,Morgan Albrecht
+Mar 26,home,Community Christian (CA),W,6-5,6,5,1.0,win,,,,,,,,,,,,,,,,,,,,,,,2022,2021-22,div1,Southern Idaho,collegeofsouthernidaho,morganalbrechtuu1i,Morgan Albrecht
+Mar 31,home,Colorado Northwestern,W,10-0,10,0,10.0,win,,,,,,,,,,,,,,,,,,,,,,,2022,2021-22,div1,Southern Idaho,collegeofsouthernidaho,morganalbrechtuu1i,Morgan Albrecht
+Apr 1,home,Colorado Northwestern,W,10-0,10,0,10.0,win,,,,,,,,,,,,,,,,,,,,,,,2022,2021-22,div1,Southern Idaho,collegeofsouthernidaho,morganalbrechtuu1i,Morgan Albrecht
+Apr 1,home,Colorado Northwestern,L,9-8,9,8,1.0,win,20220401_fp3n,2,0,0,,,,0,,,,,,,,0,0,,,2,,2,2022,2021-22,div1,Southern Idaho,collegeofsouthernidaho,morganalbrechtuu1i,Morgan Albrecht
+Apr 2,home,Colorado Northwestern,W,11-3,11,3,8.0,win,,,,,,,,,,,,,,,,,,,,,,,2022,2021-22,div1,Southern Idaho,collegeofsouthernidaho,morganalbrechtuu1i,Morgan Albrecht
+Apr 7,home,Utah State Eastern,W,4-3,4,3,1.0,win,20220407_9wqz,2,0,0,,,,0,,,,,,,,0,0,,,2,,2,2022,2021-22,div1,Southern Idaho,collegeofsouthernidaho,morganalbrechtuu1i,Morgan Albrecht
+Apr 8,home,Utah State Eastern,L,3-1,3,1,2.0,win,,,,,,,,,,,,,,,,,,,,,,,2022,2021-22,div1,Southern Idaho,collegeofsouthernidaho,morganalbrechtuu1i,Morgan Albrecht
+Apr 8,home,Utah State Eastern,W,9-2,9,2,7.0,win,20220408_p2n9,3,0,0,,,,0,,2,,,1,,,0,0,,,1,,4,2022,2021-22,div1,Southern Idaho,collegeofsouthernidaho,morganalbrechtuu1i,Morgan Albrecht
+Apr 9,home,Utah State Eastern,W,9-0,9,0,9.0,win,20220409_50xi,4,1,2,1,,,0,,2,,,,,,3,1,,,,,4,2022,2021-22,div1,Southern Idaho,collegeofsouthernidaho,morganalbrechtuu1i,Morgan Albrecht
+Apr 14,home,Southern Nevada,W,3-2,3,2,1.0,win,20220414_a5i3,0,1,0,,,,0,1,,,,,,,0,0,,,,,1,2022,2021-22,div1,Southern Idaho,collegeofsouthernidaho,morganalbrechtuu1i,Morgan Albrecht
+Apr 15,home,Southern Nevada,L,1-0,1,0,1.0,win,20220415_o58i,1,0,0,,,,0,,1,,,,,,0,0,,,,,1,2022,2021-22,div1,Southern Idaho,collegeofsouthernidaho,morganalbrechtuu1i,Morgan Albrecht
+Apr 15,home,Southern Nevada,W,3-1,3,1,2.0,win,20220415_b3j0,3,0,1,1,,,0,,1,,,,,,2,1,,1,,,3,2022,2021-22,div1,Southern Idaho,collegeofsouthernidaho,morganalbrechtuu1i,Morgan Albrecht
+Apr 16,home,Southern Nevada,W,5-2,5,2,3.0,win,20220416_0kro,3,0,0,,,,1,,1,,,,1,,0,0,,,3,,4,2022,2021-22,div1,Southern Idaho,collegeofsouthernidaho,morganalbrechtuu1i,Morgan Albrecht
+Apr 21,home,Salt Lake,L,6-1,6,1,5.0,win,20220421_q237,3,0,0,,,,0,1,1,,,,,,0,0,1,1,1,1.00,4,2022,2021-22,div1,Southern Idaho,collegeofsouthernidaho,morganalbrechtuu1i,Morgan Albrecht
+Apr 22,home,Salt Lake,L,7-3,7,3,4.0,win,20220422_htrt,3,1,1,,,1,2,,2,,,,,,4,1,,,,,3,2022,2021-22,div1,Southern Idaho,collegeofsouthernidaho,morganalbrechtuu1i,Morgan Albrecht
+Apr 22,home,Salt Lake,W,4-2,4,2,2.0,win,20220422_47u4,4,1,2,,,,0,,1,,,,,,2,0,,1,,,4,2022,2021-22,div1,Southern Idaho,collegeofsouthernidaho,morganalbrechtuu1i,Morgan Albrecht
+Apr 23,home,Salt Lake,W,7-6,7,6,1.0,win,20220423_tyqq,5,0,2,,,,0,,1,,,,,,2,0,,,2,,5,2022,2021-22,div1,Southern Idaho,collegeofsouthernidaho,morganalbrechtuu1i,Morgan Albrecht
+Apr 28,home,Community Christian (CA),W,11-0,11,0,11.0,win,20220428_5aul,3,2,2,1,1,,2,,,,,,,,5,2,,,1,,3,2022,2021-22,div1,Southern Idaho,collegeofsouthernidaho,morganalbrechtuu1i,Morgan Albrecht
+Apr 29,home,Community Christian (CA),W,7-2,7,2,5.0,win,20220429_vslm,2,0,0,,,,1,,,,,,1,,0,0,,,3,,3,2022,2021-22,div1,Southern Idaho,collegeofsouthernidaho,morganalbrechtuu1i,Morgan Albrecht
+Apr 29,home,Community Christian (CA),W,13-0,13,0,13.0,win,20220429_lmbm,3,1,2,1,,,4,,1,,,,,,3,1,,,,,3,2022,2021-22,div1,Southern Idaho,collegeofsouthernidaho,morganalbrechtuu1i,Morgan Albrecht
+Apr 30,home,Community Christian (CA),W,15-7,15,7,8.0,win,20220430_1cb0,5,0,2,1,,,1,,,,,,,,3,1,,1,1,1.00,5,2022,2021-22,div1,Southern Idaho,collegeofsouthernidaho,morganalbrechtuu1i,Morgan Albrecht
+May 5,home,Colorado Northwestern,L,10-8,10,8,2.0,win,20220505_8af8,4,0,2,,,,2,1,,,,,,,2,0,,,2,,5,2022,2021-22,div1,Southern Idaho,collegeofsouthernidaho,morganalbrechtuu1i,Morgan Albrecht
+May 6,home,Colorado Northwestern,W,5-3,5,3,2.0,win,20220506_cenn,3,0,0,,,,1,,1,,,,1,,0,0,,1,2,0.50,4,2022,2021-22,div1,Southern Idaho,collegeofsouthernidaho,morganalbrechtuu1i,Morgan Albrecht
+May 6,home,Colorado Northwestern,W,13-4,13,4,9.0,win,20220506_pslr,3,2,1,,,,2,2,1,,,,,,1,0,,,1,,5,2022,2021-22,div1,Southern Idaho,collegeofsouthernidaho,morganalbrechtuu1i,Morgan Albrecht
+May 7,home,Colorado Northwestern,W,11-0,11,0,11.0,win,20220507_lirq,4,1,0,0,0,0,0,1,1,0,0,0,0,0,0,0,,0,,,5,2022,2021-22,div1,Southern Idaho,collegeofsouthernidaho,morganalbrechtuu1i,Morgan Albrecht
+May 11,home,Community Christian (CA),W,11-1,11,1,10.0,win,20220511_yuu3,3,1,1,1,,,1,,,,,,,,2,1,,1,1,1.00,3,2022,2021-22,div1,Southern Idaho,collegeofsouthernidaho,morganalbrechtuu1i,Morgan Albrecht
+May 12,home,Southern Nevada,W,8-6,8,6,2.0,win,20220512_wfzw,3,0,0,,,,0,2,,,,,,,0,0,,1,2,0.50,5,2022,2021-22,div1,Southern Idaho,collegeofsouthernidaho,morganalbrechtuu1i,Morgan Albrecht
+May 13,home,Salt Lake,L,6-4,6,4,2.0,win,20220513_faiu,5,1,2,,,1,3,,3,,,,,,5,1,,,,,5,2022,2021-22,div1,Southern Idaho,collegeofsouthernidaho,morganalbrechtuu1i,Morgan Albrecht
+May 13,home,Southern Nevada,W,7-2,7,2,5.0,win,20220513_x1no,5,1,1,,,1,3,,3,,,,,,4,1,,1,,,5,2022,2021-22,div1,Southern Idaho,collegeofsouthernidaho,morganalbrechtuu1i,Morgan Albrecht
+May 14,home,Salt Lake,L,19-2,19,2,17.0,win,20220514_hcyq,4,1,2,,,,0,,2,,,,,,2,0,,,,,4,2022,2021-22,div1,Southern Idaho,collegeofsouthernidaho,morganalbrechtuu1i,Morgan Albrecht
+May 19,home,Central Arizona,L,22-16,22,16,6.0,win,20220519_l2ka,4,2,2,,,1,3,1,,,,,,,5,1,,,2,,5,2022,2021-22,div1,Southern Idaho,collegeofsouthernidaho,morganalbrechtuu1i,Morgan Albrecht
+May 20,home,Southeast,L,6-4,6,4,2.0,win,20220520_aru1,4,0,1,,,,0,,,,,,,,1,0,,,3,,4,2022,2021-22,div1,Southern Idaho,collegeofsouthernidaho,morganalbrechtuu1i,Morgan Albrecht

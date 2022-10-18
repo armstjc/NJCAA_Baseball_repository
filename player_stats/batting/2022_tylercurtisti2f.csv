@@ -1,23 +1,64 @@
-date,location,opponent,result,score,team_score,opp_score,game_score_diff_x,game_win_loss_x,game_id_x,AB,R,H,2B,3B,HR,RBI,BB,K,SB,CS,game_score_diff_y,game_win_loss_y,game_id_y,HBP,SF,SH,TB,XBH,HDP,GO,FO,GO/FO,PA,season,njcaa_season,njcaa_division,team,team_id,player_id,player_name
-Feb 26,home,Treasure Valley,W,11-1,11,1,10.0,win,20220226_9vaq,3,0,0,,,,0,1,,,,10.0,win,20220226_9vaq,,,,0,0,,1,2,0.50,4,2022,2021-22,div1,Southern Idaho,collegeofsouthernidaho,tylercurtisti2f,Tyler Curtis
-Feb 26,home,Treasure Valley,W,6-0,6,0,6.0,win,20220226_fw9q,3,0,1,,,,2,,,,,6.0,win,20220226_fw9q,,,,1,0,,,2,,3,2022,2021-22,div1,Southern Idaho,collegeofsouthernidaho,tylercurtisti2f,Tyler Curtis
-Mar 31,home,Colorado Northwestern,W,10-0,10,0,10.0,win,20220331_ki78,1,0,1,,,,1,,,,,10.0,win,20220331_ki78,,,,1,0,,,,,1,2022,2021-22,div1,Southern Idaho,collegeofsouthernidaho,tylercurtisti2f,Tyler Curtis
-Apr 1,home,Colorado Northwestern,W,10-0,10,0,10.0,win,20220401_bppx,3,1,2,,,,0,,1,,,10.0,win,20220401_bppx,,,,2,0,,,,,3,2022,2021-22,div1,Southern Idaho,collegeofsouthernidaho,tylercurtisti2f,Tyler Curtis
-Apr 1,home,Colorado Northwestern,L,9-8,9,8,1.0,win,20220401_fp3n,1,1,1,,,,0,,,,,1.0,win,20220401_fp3n,,,,1,0,,,,,1,2022,2021-22,div1,Southern Idaho,collegeofsouthernidaho,tylercurtisti2f,Tyler Curtis
-Apr 2,home,Colorado Northwestern,W,11-3,11,3,8.0,win,20220402_n3dg,3,1,0,,,,1,,,,,8.0,win,20220402_n3dg,1,,,0,0,,2,,,4,2022,2021-22,div1,Southern Idaho,collegeofsouthernidaho,tylercurtisti2f,Tyler Curtis
-Apr 7,home,Utah State Eastern,W,4-3,4,3,1.0,win,20220407_9wqz,5,0,1,,,,0,,1,,,1.0,win,20220407_9wqz,,,,1,0,,1,2,0.50,5,2022,2021-22,div1,Southern Idaho,collegeofsouthernidaho,tylercurtisti2f,Tyler Curtis
-Apr 8,home,Utah State Eastern,L,3-1,3,1,2.0,win,,,,,,,,,,,,,2.0,win,,,,,,,,,,,,2022,2021-22,div1,Southern Idaho,collegeofsouthernidaho,tylercurtisti2f,Tyler Curtis
-Apr 8,home,Utah State Eastern,W,9-2,9,2,7.0,win,20220408_p2n9,1,2,1,,,1,1,2,,,,7.0,win,20220408_p2n9,1,,,4,1,,,,,4,2022,2021-22,div1,Southern Idaho,collegeofsouthernidaho,tylercurtisti2f,Tyler Curtis
-Apr 9,home,Utah State Eastern,W,9-0,9,0,9.0,win,20220409_50xi,3,1,0,,,,0,,2,,,9.0,win,20220409_50xi,1,,,0,0,,1,,,4,2022,2021-22,div1,Southern Idaho,collegeofsouthernidaho,tylercurtisti2f,Tyler Curtis
-Apr 14,home,Southern Nevada,W,3-2,3,2,1.0,win,20220414_a5i3,4,1,1,,,1,1,,1,,,1.0,win,20220414_a5i3,,,,4,1,,,1,,4,2022,2021-22,div1,Southern Idaho,collegeofsouthernidaho,tylercurtisti2f,Tyler Curtis
-Apr 15,home,Southern Nevada,L,1-0,1,0,1.0,win,20220415_o58i,3,0,0,,,,0,,2,,,1.0,win,20220415_o58i,,,,0,0,,,1,,3,2022,2021-22,div1,Southern Idaho,collegeofsouthernidaho,tylercurtisti2f,Tyler Curtis
-Apr 15,home,Southern Nevada,W,3-1,3,1,2.0,win,20220415_b3j0,3,0,1,1,,,1,,2,,,2.0,win,20220415_b3j0,,,,2,1,,,,,3,2022,2021-22,div1,Southern Idaho,collegeofsouthernidaho,tylercurtisti2f,Tyler Curtis
-Apr 16,home,Southern Nevada,W,5-2,5,2,3.0,win,20220416_0kro,4,0,2,,,,0,,2,,,3.0,win,20220416_0kro,,,,2,0,,,,,4,2022,2021-22,div1,Southern Idaho,collegeofsouthernidaho,tylercurtisti2f,Tyler Curtis
-Apr 21,home,Salt Lake,L,6-1,6,1,5.0,win,20220421_q237,3,1,1,,,1,1,1,1,,,5.0,win,20220421_q237,,,,4,1,,1,,,4,2022,2021-22,div1,Southern Idaho,collegeofsouthernidaho,tylercurtisti2f,Tyler Curtis
-Apr 22,home,Salt Lake,L,7-3,7,3,4.0,win,20220422_htrt,2,1,1,,,,1,,1,,,4.0,win,20220422_htrt,,,,1,0,,,,,2,2022,2021-22,div1,Southern Idaho,collegeofsouthernidaho,tylercurtisti2f,Tyler Curtis
-Apr 22,home,Salt Lake,W,4-2,4,2,2.0,win,,,,,,,,,,,,,2.0,win,,,,,,,,,,,,2022,2021-22,div1,Southern Idaho,collegeofsouthernidaho,tylercurtisti2f,Tyler Curtis
-Apr 23,home,Salt Lake,W,7-6,7,6,1.0,win,,,,,,,,,,,,,1.0,win,,,,,,,,,,,,2022,2021-22,div1,Southern Idaho,collegeofsouthernidaho,tylercurtisti2f,Tyler Curtis
-Apr 28,home,Community Christian (CA),W,11-0,11,0,11.0,win,,,,,,,,,,,,,11.0,win,,,,,,,,,,,,2022,2021-22,div1,Southern Idaho,collegeofsouthernidaho,tylercurtisti2f,Tyler Curtis
-Apr 29,home,Community Christian (CA),W,7-2,7,2,5.0,win,,,,,,,,,,,,,5.0,win,,,,,,,,,,,,2022,2021-22,div1,Southern Idaho,collegeofsouthernidaho,tylercurtisti2f,Tyler Curtis
-Apr 29,home,Community Christian (CA),W,13-0,13,0,13.0,win,,,,,,,,,,,,,13.0,win,,,,,,,,,,,,2022,2021-22,div1,Southern Idaho,collegeofsouthernidaho,tylercurtisti2f,Tyler Curtis
-Apr 30,home,Community Christian (CA),W,15-7,15,7,8.0,win,,,,,,,,,,,,,8.0,win,,,,,,,,,,,,2022,2021-22,div1,Southern Idaho,collegeofsouthernidaho,tylercurtisti2f,Tyler Curtis
+date,location,opponent,result,score,team_score,opp_score,game_score_diff,game_win_loss,game_id,AB,R,H,2B,3B,HR,RBI,BB,K,SB,CS,HBP,SF,SH,TB,XBH,HDP,GO,FO,GO/FO,PA,season,njcaa_season,njcaa_division,team,team_id,player_id,player_name
+Feb 1,home,Community Christian (CA),W,10-0,10,0,10.0,win,20220201_s4pn,2,1,1,1,,,2,,1,,,1,,,2,1,,,,,3,2022,2021-22,div1,Southern Idaho,collegeofsouthernidaho,tylercurtisti2f,Tyler Curtis
+Feb 1,home,Community Christian (CA),W,16-1,16,1,15.0,win,,,,,,,,,,,,,,,,,,,,,,,2022,2021-22,div1,Southern Idaho,collegeofsouthernidaho,tylercurtisti2f,Tyler Curtis
+Feb 2,home,Community Christian (CA),W,18-10,18,10,8.0,win,,,,,,,,,,,,,,,,,,,,,,,2022,2021-22,div1,Southern Idaho,collegeofsouthernidaho,tylercurtisti2f,Tyler Curtis
+Feb 2,home,Community Christian (CA),W,8-7,8,7,1.0,win,20220202_869j,3,0,0,,,,0,1,1,,,,,,0,0,,1,1,1.00,4,2022,2021-22,div1,Southern Idaho,collegeofsouthernidaho,tylercurtisti2f,Tyler Curtis
+Feb 3,home,Cochise,W,5-1,5,1,4.0,win,20220203_ivjg,4,1,2,1,1,,0,,,,,,,,5,2,,,,,4,2022,2021-22,div1,Southern Idaho,collegeofsouthernidaho,tylercurtisti2f,Tyler Curtis
+Feb 4,home,Cochise,L,5-4,5,4,1.0,win,20220204_ln5o,4,0,0,,,,0,,3,,,,,,0,0,,,,,4,2022,2021-22,div1,Southern Idaho,collegeofsouthernidaho,tylercurtisti2f,Tyler Curtis
+Feb 4,home,Cochise,W,9-7,9,7,2.0,win,20220204_rfmt,4,2,2,1,,,3,,1,,,,,,3,1,,,,,4,2022,2021-22,div1,Southern Idaho,collegeofsouthernidaho,tylercurtisti2f,Tyler Curtis
+Feb 5,home,Cochise,W,8-5,8,5,3.0,win,20220205_1e1x,2,2,1,,,,1,1,,,,1,,,1,0,,,,,4,2022,2021-22,div1,Southern Idaho,collegeofsouthernidaho,tylercurtisti2f,Tyler Curtis
+Feb 18,home,Dawson,W,9-0,9,0,9.0,win,20220218_d9nl,3,0,0,,,,1,,,,,,1,,0,0,,,,,4,2022,2021-22,div1,Southern Idaho,collegeofsouthernidaho,tylercurtisti2f,Tyler Curtis
+Feb 18,home,Dawson,L,9-5,9,5,4.0,win,20220218_m5oe,3,2,1,1,,,0,1,1,,,,,,2,1,,,,,4,2022,2021-22,div1,Southern Idaho,collegeofsouthernidaho,tylercurtisti2f,Tyler Curtis
+Feb 19,home,Dawson,W,11-1,11,1,10.0,win,20220219_ed44,2,1,1,1,,,0,,1,,,1,,1,2,1,,,,,4,2022,2021-22,div1,Southern Idaho,collegeofsouthernidaho,tylercurtisti2f,Tyler Curtis
+Feb 19,home,Dawson,W,15-5,15,5,10.0,win,20220219_xoyl,3,2,1,,,,2,,,,,1,,,1,0,,,,,4,2022,2021-22,div1,Southern Idaho,collegeofsouthernidaho,tylercurtisti2f,Tyler Curtis
+Feb 26,home,Treasure Valley,W,11-1,11,1,10.0,win,20220226_9vaq,3,0,0,,,,0,1,,,,,,,0,0,,1,2,0.50,4,2022,2021-22,div1,Southern Idaho,collegeofsouthernidaho,tylercurtisti2f,Tyler Curtis
+Feb 26,home,Treasure Valley,W,6-0,6,0,6.0,win,20220226_fw9q,3,0,1,,,,2,,,,,,,,1,0,,,2,,3,2022,2021-22,div1,Southern Idaho,collegeofsouthernidaho,tylercurtisti2f,Tyler Curtis
+Mar 3,home,Utah State Eastern,W,16-6,16,6,10.0,win,20220303_85il,6,2,2,2,,,1,,2,,,,,,4,2,,1,1,1.00,6,2022,2021-22,div1,Southern Idaho,collegeofsouthernidaho,tylercurtisti2f,Tyler Curtis
+Mar 4,home,Utah State Eastern,W,3-0,3,0,3.0,win,20220304_1992,3,0,0,,,,0,,3,,,,,,0,0,,,,,3,2022,2021-22,div1,Southern Idaho,collegeofsouthernidaho,tylercurtisti2f,Tyler Curtis
+Mar 5,home,Utah State Eastern,,,,,3.0,win,,,,,,,,,,,,,,,,,,,,,,,2022,2021-22,div1,Southern Idaho,collegeofsouthernidaho,tylercurtisti2f,Tyler Curtis
+Mar 5,home,Utah State Eastern,,,,,3.0,win,,,,,,,,,,,,,,,,,,,,,,,2022,2021-22,div1,Southern Idaho,collegeofsouthernidaho,tylercurtisti2f,Tyler Curtis
+Mar 5,home,Utah State Eastern,,,,,3.0,win,,,,,,,,,,,,,,,,,,,,,,,2022,2021-22,div1,Southern Idaho,collegeofsouthernidaho,tylercurtisti2f,Tyler Curtis
+Mar 5,home,Utah State Eastern,,,,,3.0,win,,,,,,,,,,,,,,,,,,,,,,,2022,2021-22,div1,Southern Idaho,collegeofsouthernidaho,tylercurtisti2f,Tyler Curtis
+Mar 10,home,Southern Nevada,L,5-2,5,2,3.0,win,20220310_rbkk,4,0,2,,,,1,1,,,,,,,2,0,,,2,,5,2022,2021-22,div1,Southern Idaho,collegeofsouthernidaho,tylercurtisti2f,Tyler Curtis
+Mar 11,home,Southern Nevada,W,3-2,3,2,1.0,win,20220311_ombj,3,0,0,,,,0,,,,,,,,0,0,,,1,,3,2022,2021-22,div1,Southern Idaho,collegeofsouthernidaho,tylercurtisti2f,Tyler Curtis
+Mar 11,home,Southern Nevada,L,7-3,7,3,4.0,win,20220311_2sub,2,1,0,,,,0,1,,,,,,,0,0,1,1,1,1.00,3,2022,2021-22,div1,Southern Idaho,collegeofsouthernidaho,tylercurtisti2f,Tyler Curtis
+Mar 12,home,Southern Nevada,L,6-3,6,3,3.0,win,20220312_gd0f,1,1,0,,,,0,2,,,,1,,,0,0,,1,,,4,2022,2021-22,div1,Southern Idaho,collegeofsouthernidaho,tylercurtisti2f,Tyler Curtis
+Mar 17,home,Salt Lake,L,5-2,5,2,3.0,win,20220317_9k2v,4,1,1,,,1,1,,2,,,,,,4,1,,,1,,4,2022,2021-22,div1,Southern Idaho,collegeofsouthernidaho,tylercurtisti2f,Tyler Curtis
+Mar 18,home,Salt Lake,L,3-2,3,2,1.0,win,20220318_l7od,3,0,0,,,,0,,1,,,,,,0,0,,1,1,1.00,3,2022,2021-22,div1,Southern Idaho,collegeofsouthernidaho,tylercurtisti2f,Tyler Curtis
+Mar 18,home,Salt Lake,L,5-3,5,3,2.0,win,20220318_bv4x,4,0,0,,,,0,,,,,,,,0,0,1,2,2,1.00,4,2022,2021-22,div1,Southern Idaho,collegeofsouthernidaho,tylercurtisti2f,Tyler Curtis
+Mar 19,home,Salt Lake,W,4-2,4,2,2.0,win,20220319_lkcx,4,0,1,,,,0,1,2,,,,,,1,0,,1,,,5,2022,2021-22,div1,Southern Idaho,collegeofsouthernidaho,tylercurtisti2f,Tyler Curtis
+Mar 24,home,Community Christian (CA),W,15-4,15,4,11.0,win,20220324_am6f,3,1,1,1,,,2,,2,,,,,,2,1,,,,,3,2022,2021-22,div1,Southern Idaho,collegeofsouthernidaho,tylercurtisti2f,Tyler Curtis
+Mar 25,home,Community Christian (CA),W,10-3,10,3,7.0,win,20220325_dx0u,3,1,1,,,,1,1,2,,,,,,1,0,,,,,4,2022,2021-22,div1,Southern Idaho,collegeofsouthernidaho,tylercurtisti2f,Tyler Curtis
+Mar 25,home,Community Christian (CA),L,8-0,8,0,8.0,win,20220325_sjzz,2,0,1,,,,0,1,1,,,,,,1,0,,,,,3,2022,2021-22,div1,Southern Idaho,collegeofsouthernidaho,tylercurtisti2f,Tyler Curtis
+Mar 26,home,Community Christian (CA),W,6-5,6,5,1.0,win,20220326_nx50,0,0,0,,,,0,,,,,,,,0,0,,,,,0,2022,2021-22,div1,Southern Idaho,collegeofsouthernidaho,tylercurtisti2f,Tyler Curtis
+Mar 31,home,Colorado Northwestern,W,10-0,10,0,10.0,win,20220331_ki78,1,0,1,,,,1,,,,,,,,1,0,,,,,1,2022,2021-22,div1,Southern Idaho,collegeofsouthernidaho,tylercurtisti2f,Tyler Curtis
+Apr 1,home,Colorado Northwestern,W,10-0,10,0,10.0,win,20220401_bppx,3,1,2,,,,0,,1,,,,,,2,0,,,,,3,2022,2021-22,div1,Southern Idaho,collegeofsouthernidaho,tylercurtisti2f,Tyler Curtis
+Apr 1,home,Colorado Northwestern,L,9-8,9,8,1.0,win,20220401_fp3n,1,1,1,,,,0,,,,,,,,1,0,,,,,1,2022,2021-22,div1,Southern Idaho,collegeofsouthernidaho,tylercurtisti2f,Tyler Curtis
+Apr 2,home,Colorado Northwestern,W,11-3,11,3,8.0,win,20220402_n3dg,3,1,0,,,,1,,,,,1,,,0,0,,2,,,4,2022,2021-22,div1,Southern Idaho,collegeofsouthernidaho,tylercurtisti2f,Tyler Curtis
+Apr 7,home,Utah State Eastern,W,4-3,4,3,1.0,win,20220407_9wqz,5,0,1,,,,0,,1,,,,,,1,0,,1,2,0.50,5,2022,2021-22,div1,Southern Idaho,collegeofsouthernidaho,tylercurtisti2f,Tyler Curtis
+Apr 8,home,Utah State Eastern,L,3-1,3,1,2.0,win,,,,,,,,,,,,,,,,,,,,,,,2022,2021-22,div1,Southern Idaho,collegeofsouthernidaho,tylercurtisti2f,Tyler Curtis
+Apr 8,home,Utah State Eastern,W,9-2,9,2,7.0,win,20220408_p2n9,1,2,1,,,1,1,2,,,,1,,,4,1,,,,,4,2022,2021-22,div1,Southern Idaho,collegeofsouthernidaho,tylercurtisti2f,Tyler Curtis
+Apr 9,home,Utah State Eastern,W,9-0,9,0,9.0,win,20220409_50xi,3,1,0,,,,0,,2,,,1,,,0,0,,1,,,4,2022,2021-22,div1,Southern Idaho,collegeofsouthernidaho,tylercurtisti2f,Tyler Curtis
+Apr 14,home,Southern Nevada,W,3-2,3,2,1.0,win,20220414_a5i3,4,1,1,,,1,1,,1,,,,,,4,1,,,1,,4,2022,2021-22,div1,Southern Idaho,collegeofsouthernidaho,tylercurtisti2f,Tyler Curtis
+Apr 15,home,Southern Nevada,L,1-0,1,0,1.0,win,20220415_o58i,3,0,0,,,,0,,2,,,,,,0,0,,,1,,3,2022,2021-22,div1,Southern Idaho,collegeofsouthernidaho,tylercurtisti2f,Tyler Curtis
+Apr 15,home,Southern Nevada,W,3-1,3,1,2.0,win,20220415_b3j0,3,0,1,1,,,1,,2,,,,,,2,1,,,,,3,2022,2021-22,div1,Southern Idaho,collegeofsouthernidaho,tylercurtisti2f,Tyler Curtis
+Apr 16,home,Southern Nevada,W,5-2,5,2,3.0,win,20220416_0kro,4,0,2,,,,0,,2,,,,,,2,0,,,,,4,2022,2021-22,div1,Southern Idaho,collegeofsouthernidaho,tylercurtisti2f,Tyler Curtis
+Apr 21,home,Salt Lake,L,6-1,6,1,5.0,win,20220421_q237,3,1,1,,,1,1,1,1,,,,,,4,1,,1,,,4,2022,2021-22,div1,Southern Idaho,collegeofsouthernidaho,tylercurtisti2f,Tyler Curtis
+Apr 22,home,Salt Lake,L,7-3,7,3,4.0,win,20220422_htrt,2,1,1,,,,1,,1,,,,,,1,0,,,,,2,2022,2021-22,div1,Southern Idaho,collegeofsouthernidaho,tylercurtisti2f,Tyler Curtis
+Apr 22,home,Salt Lake,W,4-2,4,2,2.0,win,,,,,,,,,,,,,,,,,,,,,,,2022,2021-22,div1,Southern Idaho,collegeofsouthernidaho,tylercurtisti2f,Tyler Curtis
+Apr 23,home,Salt Lake,W,7-6,7,6,1.0,win,,,,,,,,,,,,,,,,,,,,,,,2022,2021-22,div1,Southern Idaho,collegeofsouthernidaho,tylercurtisti2f,Tyler Curtis
+Apr 28,home,Community Christian (CA),W,11-0,11,0,11.0,win,,,,,,,,,,,,,,,,,,,,,,,2022,2021-22,div1,Southern Idaho,collegeofsouthernidaho,tylercurtisti2f,Tyler Curtis
+Apr 29,home,Community Christian (CA),W,7-2,7,2,5.0,win,,,,,,,,,,,,,,,,,,,,,,,2022,2021-22,div1,Southern Idaho,collegeofsouthernidaho,tylercurtisti2f,Tyler Curtis
+Apr 29,home,Community Christian (CA),W,13-0,13,0,13.0,win,,,,,,,,,,,,,,,,,,,,,,,2022,2021-22,div1,Southern Idaho,collegeofsouthernidaho,tylercurtisti2f,Tyler Curtis
+Apr 30,home,Community Christian (CA),W,15-7,15,7,8.0,win,,,,,,,,,,,,,,,,,,,,,,,2022,2021-22,div1,Southern Idaho,collegeofsouthernidaho,tylercurtisti2f,Tyler Curtis
+May 5,home,Colorado Northwestern,L,10-8,10,8,2.0,win,,,,,,,,,,,,,,,,,,,,,,,2022,2021-22,div1,Southern Idaho,collegeofsouthernidaho,tylercurtisti2f,Tyler Curtis
+May 6,home,Colorado Northwestern,W,5-3,5,3,2.0,win,,,,,,,,,,,,,,,,,,,,,,,2022,2021-22,div1,Southern Idaho,collegeofsouthernidaho,tylercurtisti2f,Tyler Curtis
+May 6,home,Colorado Northwestern,W,13-4,13,4,9.0,win,,,,,,,,,,,,,,,,,,,,,,,2022,2021-22,div1,Southern Idaho,collegeofsouthernidaho,tylercurtisti2f,Tyler Curtis
+May 7,home,Colorado Northwestern,W,11-0,11,0,11.0,win,,,,,,,,,,,,,,,,,,,,,,,2022,2021-22,div1,Southern Idaho,collegeofsouthernidaho,tylercurtisti2f,Tyler Curtis
+May 11,home,Community Christian (CA),W,11-1,11,1,10.0,win,,,,,,,,,,,,,,,,,,,,,,,2022,2021-22,div1,Southern Idaho,collegeofsouthernidaho,tylercurtisti2f,Tyler Curtis
+May 12,home,Southern Nevada,W,8-6,8,6,2.0,win,,,,,,,,,,,,,,,,,,,,,,,2022,2021-22,div1,Southern Idaho,collegeofsouthernidaho,tylercurtisti2f,Tyler Curtis
+May 13,home,Salt Lake,L,6-4,6,4,2.0,win,,,,,,,,,,,,,,,,,,,,,,,2022,2021-22,div1,Southern Idaho,collegeofsouthernidaho,tylercurtisti2f,Tyler Curtis
+May 13,home,Southern Nevada,W,7-2,7,2,5.0,win,,,,,,,,,,,,,,,,,,,,,,,2022,2021-22,div1,Southern Idaho,collegeofsouthernidaho,tylercurtisti2f,Tyler Curtis
+May 14,home,Salt Lake,L,19-2,19,2,17.0,win,,,,,,,,,,,,,,,,,,,,,,,2022,2021-22,div1,Southern Idaho,collegeofsouthernidaho,tylercurtisti2f,Tyler Curtis
+May 19,home,Central Arizona,L,22-16,22,16,6.0,win,,,,,,,,,,,,,,,,,,,,,,,2022,2021-22,div1,Southern Idaho,collegeofsouthernidaho,tylercurtisti2f,Tyler Curtis
+May 20,home,Southeast,L,6-4,6,4,2.0,win,,,,,,,,,,,,,,,,,,,,,,,2022,2021-22,div1,Southern Idaho,collegeofsouthernidaho,tylercurtisti2f,Tyler Curtis

@@ -1,16 +1,56 @@
-date,location,opponent,result,score,team_score,opp_score,game_score_diff_x,game_win_loss_x,game_id_x,AB,R,H,2B,3B,HR,RBI,BB,K,SB,CS,game_score_diff_y,game_win_loss_y,game_id_y,HBP,SF,SH,TB,XBH,HDP,GO,FO,GO/FO,PA,season,njcaa_season,njcaa_division,team,team_id,player_id,player_name
-Feb 21,home,Jefferson (MO),W,13-0,13,0,13.0,win,20220221_zu07,0,0,0,,,,0,,,,,13.0,win,20220221_zu07,,,,0,0,,,,,0,2022,2021-22,div1,Dyersburg State,dyersburgstatecommunitycollege,anthonyfigueroaud27,Anthony Figueroa
-Mar 4,home,Cleveland State,W,4-2,4,2,2.0,win,,,,,,,,,,,,,2.0,win,,,,,,,,,,,,2022,2021-22,div1,Dyersburg State,dyersburgstatecommunitycollege,anthonyfigueroaud27,Anthony Figueroa
-Mar 5,home,Cleveland State,W,9-2,9,2,7.0,win,,,,,,,,,,,,,7.0,win,,,,,,,,,,,,2022,2021-22,div1,Dyersburg State,dyersburgstatecommunitycollege,anthonyfigueroaud27,Anthony Figueroa
-Mar 5,home,Cleveland State,W,3-2,3,2,1.0,win,20220305_0qk7,0,0,0,,,,0,,,,,1.0,win,20220305_0qk7,,,,0,0,,,,,0,2022,2021-22,div1,Dyersburg State,dyersburgstatecommunitycollege,anthonyfigueroaud27,Anthony Figueroa
-Mar 20,home,Southwest Tennessee,W,5-4,5,4,1.0,win,,,,,,,,,,,,,1.0,win,,,,,,,,,,,,2022,2021-22,div1,Dyersburg State,dyersburgstatecommunitycollege,anthonyfigueroaud27,Anthony Figueroa
-Mar 21,home,Southwest Tennessee,W,13-1,13,1,12.0,win,,,,,,,,,,,,,12.0,win,,,,,,,,,,,,2022,2021-22,div1,Dyersburg State,dyersburgstatecommunitycollege,anthonyfigueroaud27,Anthony Figueroa
-Mar 21,home,Southwest Tennessee,W,3-1,3,1,2.0,win,20220321_1bov,0,0,0,0,0,0,0,0,0,0,0,2.0,win,20220321_1bov,0,0,0,0,0,,0,,,0,2022,2021-22,div1,Dyersburg State,dyersburgstatecommunitycollege,anthonyfigueroaud27,Anthony Figueroa
-Mar 30,home,Freed Hardeman University JV,W,20-5,20,5,15.0,win,,,,,,,,,,,,,15.0,win,,,,,,,,,,,,2022,2021-22,div1,Dyersburg State,dyersburgstatecommunitycollege,anthonyfigueroaud27,Anthony Figueroa
-Apr 9,home,Motlow State,W,5-0,5,0,5.0,win,20220409_f89n,0,0,0,0,0,0,0,0,0,0,0,5.0,win,20220409_f89n,0,0,0,0,0,,0,,,0,2022,2021-22,div1,Dyersburg State,dyersburgstatecommunitycollege,anthonyfigueroaud27,Anthony Figueroa
-Apr 9,home,Motlow State,W,3-0,3,0,3.0,win,,,,,,,,,,,,,3.0,win,,,,,,,,,,,,2022,2021-22,div1,Dyersburg State,dyersburgstatecommunitycollege,anthonyfigueroaud27,Anthony Figueroa
-Apr 10,home,Motlow State,W,4-2,4,2,2.0,win,,,,,,,,,,,,,2.0,win,,,,,,,,,,,,2022,2021-22,div1,Dyersburg State,dyersburgstatecommunitycollege,anthonyfigueroaud27,Anthony Figueroa
-Apr 15,home,Roane State,W,5-0,5,0,5.0,win,,,,,,,,,,,,,5.0,win,,,,,,,,,,,,2022,2021-22,div1,Dyersburg State,dyersburgstatecommunitycollege,anthonyfigueroaud27,Anthony Figueroa
-Apr 15,home,Roane State,W,8-3,8,3,5.0,win,,,,,,,,,,,,,5.0,win,,,,,,,,,,,,2022,2021-22,div1,Dyersburg State,dyersburgstatecommunitycollege,anthonyfigueroaud27,Anthony Figueroa
-Apr 16,home,Roane State,W,10-2,10,2,8.0,win,,,,,,,,,,,,,8.0,win,,,,,,,,,,,,2022,2021-22,div1,Dyersburg State,dyersburgstatecommunitycollege,anthonyfigueroaud27,Anthony Figueroa
-Apr 27,home,John A. Logan,W,5-4,5,4,1.0,win,,,,,,,,,,,,,1.0,win,,,,,,,,,,,,2022,2021-22,div1,Dyersburg State,dyersburgstatecommunitycollege,anthonyfigueroaud27,Anthony Figueroa
+date,location,opponent,result,score,team_score,opp_score,game_score_diff,game_win_loss,game_id,AB,R,H,2B,3B,HR,RBI,BB,K,SB,CS,HBP,SF,SH,TB,XBH,HDP,GO,FO,GO/FO,PA,season,njcaa_season,njcaa_division,team,team_id,player_id,player_name
+Jan 28,home,St. Petersburg,L,5-0,5,0,5.0,win,,,,,,,,,,,,,,,,,,,,,,,2022,2021-22,div1,Dyersburg State,dyersburgstatecommunitycollege,anthonyfigueroaud27,Anthony Figueroa
+Jan 28,home,Polk State,L,10-1,10,1,9.0,win,20220128_iwnl,0,0,0,,,,0,,,,,,,,0,0,,,,,0,2022,2021-22,div1,Dyersburg State,dyersburgstatecommunitycollege,anthonyfigueroaud27,Anthony Figueroa
+Jan 29,home,Central Florida,L,16-7,16,7,9.0,win,20220129_tp1x,0,0,0,,,,0,,,,,,,,0,0,,,,,0,2022,2021-22,div1,Dyersburg State,dyersburgstatecommunitycollege,anthonyfigueroaud27,Anthony Figueroa
+Feb 6,home,Mississippi Delta,W,18-5,18,5,13.0,win,20220206_10tr,0,0,0,,,,0,,,,,,,,0,0,,,,,0,2022,2021-22,div1,Dyersburg State,dyersburgstatecommunitycollege,anthonyfigueroaud27,Anthony Figueroa
+Feb 8,home,Copiah-Lincoln,W,5-2,5,2,3.0,win,,,,,,,,,,,,,,,,,,,,,,,2022,2021-22,div1,Dyersburg State,dyersburgstatecommunitycollege,anthonyfigueroaud27,Anthony Figueroa
+Feb 8,home,Copiah-Lincoln,W,11-1,11,1,10.0,win,20220208_fzx3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0,,,0,2022,2021-22,div1,Dyersburg State,dyersburgstatecommunitycollege,anthonyfigueroaud27,Anthony Figueroa
+Feb 11,home,Lake Michigan,W,9-2,9,2,7.0,win,,,,,,,,,,,,,,,,,,,,,,,2022,2021-22,div1,Dyersburg State,dyersburgstatecommunitycollege,anthonyfigueroaud27,Anthony Figueroa
+Feb 11,home,Holmes,W,9-0,9,0,9.0,win,,,,,,,,,,,,,,,,,,,,,,,2022,2021-22,div1,Dyersburg State,dyersburgstatecommunitycollege,anthonyfigueroaud27,Anthony Figueroa
+Feb 13,home,National Park,W,3-1,3,1,2.0,win,,,,,,,,,,,,,,,,,,,,,,,2022,2021-22,div1,Dyersburg State,dyersburgstatecommunitycollege,anthonyfigueroaud27,Anthony Figueroa
+Feb 13,home,Rend Lake,W,5-0,5,0,5.0,win,20220213_llib,0,0,0,,,,0,,,,,,,,0,0,,,,,0,2022,2021-22,div1,Dyersburg State,dyersburgstatecommunitycollege,anthonyfigueroaud27,Anthony Figueroa
+Feb 18,home,Wabash Valley,W,10-7,10,7,3.0,win,,,,,,,,,,,,,,,,,,,,,,,2022,2021-22,div1,Dyersburg State,dyersburgstatecommunitycollege,anthonyfigueroaud27,Anthony Figueroa
+Feb 20,home,Carl Albert State,W,3-1,3,1,2.0,win,,,,,,,,,,,,,,,,,,,,,,,2022,2021-22,div1,Dyersburg State,dyersburgstatecommunitycollege,anthonyfigueroaud27,Anthony Figueroa
+Feb 21,home,Jefferson (MO),W,13-0,13,0,13.0,win,20220221_zu07,0,0,0,,,,0,,,,,,,,0,0,,,,,0,2022,2021-22,div1,Dyersburg State,dyersburgstatecommunitycollege,anthonyfigueroaud27,Anthony Figueroa
+Feb 25,home,Kirkwood,W,7-6,7,6,1.0,win,,,,,,,,,,,,,,,,,,,,,,,2022,2021-22,div1,Dyersburg State,dyersburgstatecommunitycollege,anthonyfigueroaud27,Anthony Figueroa
+Feb 26,home,Mineral Area,W,10-6,10,6,4.0,win,,,,,,,,,,,,,,,,,,,,,,,2022,2021-22,div1,Dyersburg State,dyersburgstatecommunitycollege,anthonyfigueroaud27,Anthony Figueroa
+Feb 27,home,Pearl River,W,8-6,8,6,2.0,win,20220227_xwh8,0,0,0,,,,0,,,,,,,,0,0,,,,,0,2022,2021-22,div1,Dyersburg State,dyersburgstatecommunitycollege,anthonyfigueroaud27,Anthony Figueroa
+Mar 2,home,Freed Hardeman University JV,W,4-2,4,2,2.0,win,,,,,,,,,,,,,,,,,,,,,,,2022,2021-22,div1,Dyersburg State,dyersburgstatecommunitycollege,anthonyfigueroaud27,Anthony Figueroa
+Mar 2,home,Freed Hardeman University JV,W,6-2,6,2,4.0,win,,,,,,,,,,,,,,,,,,,,,,,2022,2021-22,div1,Dyersburg State,dyersburgstatecommunitycollege,anthonyfigueroaud27,Anthony Figueroa
+Mar 4,home,Cleveland State,W,4-2,4,2,2.0,win,,,,,,,,,,,,,,,,,,,,,,,2022,2021-22,div1,Dyersburg State,dyersburgstatecommunitycollege,anthonyfigueroaud27,Anthony Figueroa
+Mar 5,home,Cleveland State,W,9-2,9,2,7.0,win,,,,,,,,,,,,,,,,,,,,,,,2022,2021-22,div1,Dyersburg State,dyersburgstatecommunitycollege,anthonyfigueroaud27,Anthony Figueroa
+Mar 5,home,Cleveland State,W,3-2,3,2,1.0,win,20220305_0qk7,0,0,0,,,,0,,,,,,,,0,0,,,,,0,2022,2021-22,div1,Dyersburg State,dyersburgstatecommunitycollege,anthonyfigueroaud27,Anthony Figueroa
+Mar 13,home,Columbia State,L,8-0,8,0,8.0,win,,,,,,,,,,,,,,,,,,,,,,,2022,2021-22,div1,Dyersburg State,dyersburgstatecommunitycollege,anthonyfigueroaud27,Anthony Figueroa
+Mar 14,home,Columbia State,L,5-2,5,2,3.0,win,,,,,,,,,,,,,,,,,,,,,,,2022,2021-22,div1,Dyersburg State,dyersburgstatecommunitycollege,anthonyfigueroaud27,Anthony Figueroa
+Mar 14,home,Columbia State,L,6-5,6,5,1.0,win,20220314_r89q,0,0,0,,,,0,,,,,,,,0,0,,,,,0,2022,2021-22,div1,Dyersburg State,dyersburgstatecommunitycollege,anthonyfigueroaud27,Anthony Figueroa
+Mar 20,home,Southwest Tennessee,W,5-4,5,4,1.0,win,,,,,,,,,,,,,,,,,,,,,,,2022,2021-22,div1,Dyersburg State,dyersburgstatecommunitycollege,anthonyfigueroaud27,Anthony Figueroa
+Mar 21,home,Southwest Tennessee,W,13-1,13,1,12.0,win,,,,,,,,,,,,,,,,,,,,,,,2022,2021-22,div1,Dyersburg State,dyersburgstatecommunitycollege,anthonyfigueroaud27,Anthony Figueroa
+Mar 21,home,Southwest Tennessee,W,3-1,3,1,2.0,win,20220321_1bov,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0,,,0,2022,2021-22,div1,Dyersburg State,dyersburgstatecommunitycollege,anthonyfigueroaud27,Anthony Figueroa
+Mar 25,home,Volunteer State,W,13-9,13,9,4.0,win,,,,,,,,,,,,,,,,,,,,,,,2022,2021-22,div1,Dyersburg State,dyersburgstatecommunitycollege,anthonyfigueroaud27,Anthony Figueroa
+Mar 26,home,Volunteer State,W,9-2,9,2,7.0,win,,,,,,,,,,,,,,,,,,,,,,,2022,2021-22,div1,Dyersburg State,dyersburgstatecommunitycollege,anthonyfigueroaud27,Anthony Figueroa
+Mar 26,home,Volunteer State,W,11-0,11,0,11.0,win,20220326_w9rq,0,0,0,,,,0,,,,,,,,0,0,,,,,0,2022,2021-22,div1,Dyersburg State,dyersburgstatecommunitycollege,anthonyfigueroaud27,Anthony Figueroa
+Mar 30,home,Freed Hardeman University JV,W,20-5,20,5,15.0,win,,,,,,,,,,,,,,,,,,,,,,,2022,2021-22,div1,Dyersburg State,dyersburgstatecommunitycollege,anthonyfigueroaud27,Anthony Figueroa
+Apr 2,home,Jackson State,W,14-3,14,3,11.0,win,,,,,,,,,,,,,,,,,,,,,,,2022,2021-22,div1,Dyersburg State,dyersburgstatecommunitycollege,anthonyfigueroaud27,Anthony Figueroa
+Apr 2,home,Jackson State,L,5-3,5,3,2.0,win,20220402_xwkk,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0,,,0,2022,2021-22,div1,Dyersburg State,dyersburgstatecommunitycollege,anthonyfigueroaud27,Anthony Figueroa
+Apr 3,home,Jackson State,W,3-2,3,2,1.0,win,,,,,,,,,,,,,,,,,,,,,,,2022,2021-22,div1,Dyersburg State,dyersburgstatecommunitycollege,anthonyfigueroaud27,Anthony Figueroa
+Apr 9,home,Motlow State,W,5-0,5,0,5.0,win,20220409_f89n,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0,,,0,2022,2021-22,div1,Dyersburg State,dyersburgstatecommunitycollege,anthonyfigueroaud27,Anthony Figueroa
+Apr 9,home,Motlow State,W,3-0,3,0,3.0,win,,,,,,,,,,,,,,,,,,,,,,,2022,2021-22,div1,Dyersburg State,dyersburgstatecommunitycollege,anthonyfigueroaud27,Anthony Figueroa
+Apr 10,home,Motlow State,W,4-2,4,2,2.0,win,,,,,,,,,,,,,,,,,,,,,,,2022,2021-22,div1,Dyersburg State,dyersburgstatecommunitycollege,anthonyfigueroaud27,Anthony Figueroa
+Apr 12,home,John A. Logan,W,11-7,11,7,4.0,win,,,,,,,,,,,,,,,,,,,,,,,2022,2021-22,div1,Dyersburg State,dyersburgstatecommunitycollege,anthonyfigueroaud27,Anthony Figueroa
+Apr 15,home,Roane State,W,5-0,5,0,5.0,win,,,,,,,,,,,,,,,,,,,,,,,2022,2021-22,div1,Dyersburg State,dyersburgstatecommunitycollege,anthonyfigueroaud27,Anthony Figueroa
+Apr 15,home,Roane State,W,8-3,8,3,5.0,win,,,,,,,,,,,,,,,,,,,,,,,2022,2021-22,div1,Dyersburg State,dyersburgstatecommunitycollege,anthonyfigueroaud27,Anthony Figueroa
+Apr 16,home,Roane State,W,10-2,10,2,8.0,win,,,,,,,,,,,,,,,,,,,,,,,2022,2021-22,div1,Dyersburg State,dyersburgstatecommunitycollege,anthonyfigueroaud27,Anthony Figueroa
+Apr 19,home,Jefferson (MO),L,11-5,11,5,6.0,win,,,,,,,,,,,,,,,,,,,,,,,2022,2021-22,div1,Dyersburg State,dyersburgstatecommunitycollege,anthonyfigueroaud27,Anthony Figueroa
+Apr 22,home,Walters State,L,4-1,4,1,3.0,win,,,,,,,,,,,,,,,,,,,,,,,2022,2021-22,div1,Dyersburg State,dyersburgstatecommunitycollege,anthonyfigueroaud27,Anthony Figueroa
+Apr 23,home,Walters State,L,7-3,7,3,4.0,win,,,,,,,,,,,,,,,,,,,,,,,2022,2021-22,div1,Dyersburg State,dyersburgstatecommunitycollege,anthonyfigueroaud27,Anthony Figueroa
+Apr 23,home,Walters State,W,10-9,10,9,1.0,win,,,,,,,,,,,,,,,,,,,,,,,2022,2021-22,div1,Dyersburg State,dyersburgstatecommunitycollege,anthonyfigueroaud27,Anthony Figueroa
+Apr 27,home,John A. Logan,W,5-4,5,4,1.0,win,,,,,,,,,,,,,,,,,,,,,,,2022,2021-22,div1,Dyersburg State,dyersburgstatecommunitycollege,anthonyfigueroaud27,Anthony Figueroa
+Apr 29,home,Chattanooga State,W,6-3,6,3,3.0,win,,,,,,,,,,,,,,,,,,,,,,,2022,2021-22,div1,Dyersburg State,dyersburgstatecommunitycollege,anthonyfigueroaud27,Anthony Figueroa
+Apr 29,home,Chattanooga State,L,6-4,6,4,2.0,win,,,,,,,,,,,,,,,,,,,,,,,2022,2021-22,div1,Dyersburg State,dyersburgstatecommunitycollege,anthonyfigueroaud27,Anthony Figueroa
+Apr 30,home,Chattanooga State,W,9-1,9,1,8.0,win,,,,,,,,,,,,,,,,,,,,,,,2022,2021-22,div1,Dyersburg State,dyersburgstatecommunitycollege,anthonyfigueroaud27,Anthony Figueroa
+May 9,home,Cleveland State,L,10-9,10,9,1.0,win,20220509_tfrh,0,0,0,,,,0,,,,,,,,0,0,,,,,0,2022,2021-22,div1,Dyersburg State,dyersburgstatecommunitycollege,anthonyfigueroaud27,Anthony Figueroa
+May 10,home,Roane State,W,9-1,9,1,8.0,win,,,,,,,,,,,,,,,,,,,,,,,2022,2021-22,div1,Dyersburg State,dyersburgstatecommunitycollege,anthonyfigueroaud27,Anthony Figueroa
+May 11,home,Columbia State,W,9-1,9,1,8.0,win,,,,,,,,,,,,,,,,,,,,,,,2022,2021-22,div1,Dyersburg State,dyersburgstatecommunitycollege,anthonyfigueroaud27,Anthony Figueroa
+May 11,home,Motlow State,W,13-3,13,3,10.0,win,20220511_hpdf,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0,,,0,2022,2021-22,div1,Dyersburg State,dyersburgstatecommunitycollege,anthonyfigueroaud27,Anthony Figueroa
+May 12,home,Chattanooga State,W,11-5,11,5,6.0,win,20220512_xspr,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0,,,0,2022,2021-22,div1,Dyersburg State,dyersburgstatecommunitycollege,anthonyfigueroaud27,Anthony Figueroa
+May 12,home,Walters State,L,7-4,7,4,3.0,win,20220512_iywh,0,0,0,,,,0,,,,,,,,0,0,,,,,0,2022,2021-22,div1,Dyersburg State,dyersburgstatecommunitycollege,anthonyfigueroaud27,Anthony Figueroa
