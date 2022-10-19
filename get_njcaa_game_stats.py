@@ -3,11 +3,10 @@ import time
 import pandas as pd
 from bs4 import BeautifulSoup
 from tqdm import tqdm
-from unidecode import unidecode
-import re
+
 
 def getNjcaaD1BattingGamelogs(webdriverPath="./chromedriver_mac64_m1"):
-	teams_df = pd.read_csv('rosters/div1_rosters.csv')
+	teams_df = pd.read_csv('rosters/div2_rosters.csv')
 	teams_df = teams_df[teams_df['team_season'] != 2023]
 	school_name = teams_df['team_name'].tolist()
 	school_njcaa_season = teams_df['team_njcaa_season'].tolist()
@@ -23,7 +22,7 @@ def getNjcaaD1BattingGamelogs(webdriverPath="./chromedriver_mac64_m1"):
 	player_count = len(player_urls)
 	driver = webdriver.Chrome(
 		executable_path=webdriverPath)
-	count = 54400
+	count = 0
 	for i in tqdm(range(count,player_count)):
 		count += 1
 		print(f'{count}/{player_count}')
