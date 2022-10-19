@@ -1,22 +1,58 @@
-date,location,opponent,result,score,team_score,opp_score,game_score_diff_x,game_win_loss_x,game_id_x,AB,R,H,2B,3B,HR,RBI,BB,K,SB,CS,game_score_diff_y,game_win_loss_y,game_id_y,HBP,SF,SH,TB,XBH,HDP,GO,FO,GO/FO,PA,season,njcaa_season,njcaa_division,team,team_id,player_id,player_name
-Mar 9,home,Cisco,L,4-3,4,3,1.0,win,,,,,,,,,,,,,1.0,win,,,,,,,,,,,,2022,2021-22,div1,Vernon,vernoncollege,emmanuelrodriguezot34,Emmanuel Rodriguez
-Mar 9,home,Cisco,W,5-2,5,2,3.0,win,,,,,,,,,,,,,3.0,win,,,,,,,,,,,,2022,2021-22,div1,Vernon,vernoncollege,emmanuelrodriguezot34,Emmanuel Rodriguez
-Mar 16,home,Grayson,L,16-4,16,4,12.0,win,20220316_lyqn,1,0,0,,,,0,,1,,,12.0,win,20220316_lyqn,,,,0,0,,,,,1,2022,2021-22,div1,Vernon,vernoncollege,emmanuelrodriguezot34,Emmanuel Rodriguez
-Mar 16,home,Grayson,L,16-4,16,4,12.0,win,20220316_lyqn,1,0,0,,,,0,,1,,,12.0,win,,,,,,,,,,,,2022,2021-22,div1,Vernon,vernoncollege,emmanuelrodriguezot34,Emmanuel Rodriguez
-Mar 16,home,Grayson,L,16-4,16,4,12.0,win,,,,,,,,,,,,,12.0,win,20220316_lyqn,,,,0,0,,,,,1,2022,2021-22,div1,Vernon,vernoncollege,emmanuelrodriguezot34,Emmanuel Rodriguez
-Mar 16,home,Grayson,L,16-4,16,4,12.0,win,,,,,,,,,,,,,12.0,win,,,,,,,,,,,,2022,2021-22,div1,Vernon,vernoncollege,emmanuelrodriguezot34,Emmanuel Rodriguez
-Mar 26,home,Ranger,L,9-8,9,8,1.0,win,,,,,,,,,,,,,1.0,win,,,,,,,,,,,,2022,2021-22,div1,Vernon,vernoncollege,emmanuelrodriguezot34,Emmanuel Rodriguez
-Mar 26,home,Ranger,L,11-8,11,8,3.0,win,,,,,,,,,,,,,3.0,win,,,,,,,,,,,,2022,2021-22,div1,Vernon,vernoncollege,emmanuelrodriguezot34,Emmanuel Rodriguez
-Mar 30,home,Hill,W,8-3,8,3,5.0,win,,,,,,,,,,,,,5.0,win,,,,,,,,,,,,2022,2021-22,div1,Vernon,vernoncollege,emmanuelrodriguezot34,Emmanuel Rodriguez
-Mar 30,home,Hill,L,7-0,7,0,7.0,win,,,,,,,,,,,,,7.0,win,,,,,,,,,,,,2022,2021-22,div1,Vernon,vernoncollege,emmanuelrodriguezot34,Emmanuel Rodriguez
-Apr 9,home,McLennan,L,25-0,25,0,25.0,win,,,,,,,,,,,,,25.0,win,,,,,,,,,,,,2022,2021-22,div1,Vernon,vernoncollege,emmanuelrodriguezot34,Emmanuel Rodriguez
-Apr 9,home,McLennan,L,34-9,34,9,25.0,win,,,,,,,,,,,,,25.0,win,,,,,,,,,,,,2022,2021-22,div1,Vernon,vernoncollege,emmanuelrodriguezot34,Emmanuel Rodriguez
-Apr 15,home,Weatherford,W,4-2,4,2,2.0,win,,,,,,,,,,,,,2.0,win,,,,,,,,,,,,2022,2021-22,div1,Vernon,vernoncollege,emmanuelrodriguezot34,Emmanuel Rodriguez
-Apr 15,home,Weatherford,W,13-9,13,9,4.0,win,20220415_eemf,1,0,0,,,,0,,,,,4.0,win,20220415_eemf,,,,0,0,,,,,1,2022,2021-22,div1,Vernon,vernoncollege,emmanuelrodriguezot34,Emmanuel Rodriguez
-Apr 20,home,TCS,L,6-5,6,5,1.0,win,,,,,,,,,,,,,1.0,win,,,,,,,,,,,,2022,2021-22,div1,Vernon,vernoncollege,emmanuelrodriguezot34,Emmanuel Rodriguez
-Apr 20,home,TCS,W,4-3,4,3,1.0,win,,,,,,,,,,,,,1.0,win,,,,,,,,,,,,2022,2021-22,div1,Vernon,vernoncollege,emmanuelrodriguezot34,Emmanuel Rodriguez
-Apr 25,home,Western Oklahoma State,L,7-6,7,6,1.0,win,20220425_b2uv,0,0,0,,,,0,,,,,1.0,win,20220425_b2uv,,,,0,0,,,,,0,2022,2021-22,div1,Vernon,vernoncollege,emmanuelrodriguezot34,Emmanuel Rodriguez
-Apr 30,home,North Central Texas,L,16-3,16,3,13.0,win,20220430_74pb,2,0,0,,,,0,,2,,,13.0,win,20220430_74pb,,,,0,0,,,,,2,2022,2021-22,div1,Vernon,vernoncollege,emmanuelrodriguezot34,Emmanuel Rodriguez
-Apr 30,home,North Central Texas,L,7-6,7,6,1.0,win,,,,,,,,,,,,,1.0,win,,,,,,,,,,,,2022,2021-22,div1,Vernon,vernoncollege,emmanuelrodriguezot34,Emmanuel Rodriguez
-May 7,home,Temple,L,10-3,10,3,7.0,win,,,,,,,,,,,,,7.0,win,,,,,,,,,,,,2022,2021-22,div1,Vernon,vernoncollege,emmanuelrodriguezot34,Emmanuel Rodriguez
-May 7,home,Temple,L,13-3,13,3,10.0,win,20220507_g6sa,2,1,1,,,,0,1,1,,,10.0,win,20220507_g6sa,,,,1,0,,,,,3,2022,2021-22,div1,Vernon,vernoncollege,emmanuelrodriguezot34,Emmanuel Rodriguez
+date,location,opponent,result,score,team_score,opp_score,game_score_diff,game_win_loss,game_id,AB,R,H,2B,3B,HR,RBI,BB,K,SB,CS,HBP,SF,SH,TB,XBH,HDP,GO,FO,GO/FO,PA,season,njcaa_season,njcaa_division,team,team_id,player_id,player_name
+Jan 29,home,Dallas College - Eastfield,L,10-3,10,3,7.0,win,,,,,,,,,,,,,,,,,,,,,,,2022,2021-22,div1,Vernon,vernoncollege,emmanuelrodriguezot34,Emmanuel Rodriguez
+Jan 29,home,Dallas College - Eastfield,L,11-6,11,6,5.0,win,,,,,,,,,,,,,,,,,,,,,,,2022,2021-22,div1,Vernon,vernoncollege,emmanuelrodriguezot34,Emmanuel Rodriguez
+Feb 5,home,Dallas College - Cedar Valley,,,,,5.0,win,,,,,,,,,,,,,,,,,,,,,,,2022,2021-22,div1,Vernon,vernoncollege,emmanuelrodriguezot34,Emmanuel Rodriguez
+Feb 5,home,Dallas College - Cedar Valley,,,,,5.0,win,,,,,,,,,,,,,,,,,,,,,,,2022,2021-22,div1,Vernon,vernoncollege,emmanuelrodriguezot34,Emmanuel Rodriguez
+Feb 5,home,Dallas College - Cedar Valley,,,,,5.0,win,,,,,,,,,,,,,,,,,,,,,,,2022,2021-22,div1,Vernon,vernoncollege,emmanuelrodriguezot34,Emmanuel Rodriguez
+Feb 5,home,Dallas College - Cedar Valley,,,,,5.0,win,,,,,,,,,,,,,,,,,,,,,,,2022,2021-22,div1,Vernon,vernoncollege,emmanuelrodriguezot34,Emmanuel Rodriguez
+Feb 7,home,Dallas College - Richland,W,17-7,17,7,10.0,win,20220207_fzc2,3,2,0,,,,0,2,2,1,,,,,0,0,,,,,5,2022,2021-22,div1,Vernon,vernoncollege,emmanuelrodriguezot34,Emmanuel Rodriguez
+Feb 7,home,Dallas College - Richland,W,11-6,11,6,5.0,win,20220207_jkqh,2,2,0,,,,0,1,,,,,,,0,0,,,,,3,2022,2021-22,div1,Vernon,vernoncollege,emmanuelrodriguezot34,Emmanuel Rodriguez
+Feb 11,home,Redlands,W,13-8,13,8,5.0,win,20220211_b2zr,4,1,0,,,,0,2,2,,1,,,,0,0,,,,,6,2022,2021-22,div1,Vernon,vernoncollege,emmanuelrodriguezot34,Emmanuel Rodriguez
+Feb 12,home,Redlands,W,13-6,13,6,7.0,win,,,,,,,,,,,,,,,,,,,,,,,2022,2021-22,div1,Vernon,vernoncollege,emmanuelrodriguezot34,Emmanuel Rodriguez
+Feb 12,home,Redlands,W,14-3,14,3,11.0,win,20220212_bqqb,1,2,0,,,,1,2,,2,,1,,,0,0,,,,,4,2022,2021-22,div1,Vernon,vernoncollege,emmanuelrodriguezot34,Emmanuel Rodriguez
+Feb 18,home,Midland,L,3-2,3,2,1.0,win,,,,,,,,,,,,,,,,,,,,,,,2022,2021-22,div1,Vernon,vernoncollege,emmanuelrodriguezot34,Emmanuel Rodriguez
+Feb 18,home,Midland,L,14-12,14,12,2.0,win,20220218_oi2m,2,3,1,,,1,2,2,,,,1,,,4,1,,,,,5,2022,2021-22,div1,Vernon,vernoncollege,emmanuelrodriguezot34,Emmanuel Rodriguez
+Feb 19,home,Odessa,L,12-11,12,11,1.0,win,20220219_ei92,4,1,1,,,,0,,1,,,,,,1,0,,,,,4,2022,2021-22,div1,Vernon,vernoncollege,emmanuelrodriguezot34,Emmanuel Rodriguez
+Feb 19,home,Odessa,L,14-4,14,4,10.0,win,,,,,,,,,,,,,,,,,,,,,,,2022,2021-22,div1,Vernon,vernoncollege,emmanuelrodriguezot34,Emmanuel Rodriguez
+Feb 21,home,Northern Oklahoma Tonkawa,L,9-8,9,8,1.0,win,20220221_bb5w,3,1,1,,,,0,,2,,,,,,1,0,,,,,3,2022,2021-22,div1,Vernon,vernoncollege,emmanuelrodriguezot34,Emmanuel Rodriguez
+Feb 28,home,Seward County,L,9-3,9,3,6.0,win,20220228_pn5k,2,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,,0,,,3,2022,2021-22,div1,Vernon,vernoncollege,emmanuelrodriguezot34,Emmanuel Rodriguez
+Feb 28,home,Seward County,W,14-3,14,3,11.0,win,,,,,,,,,,,,,,,,,,,,,,,2022,2021-22,div1,Vernon,vernoncollege,emmanuelrodriguezot34,Emmanuel Rodriguez
+Mar 1,home,Seward County,W,13-2,13,2,11.0,win,,,,,,,,,,,,,,,,,,,,,,,2022,2021-22,div1,Vernon,vernoncollege,emmanuelrodriguezot34,Emmanuel Rodriguez
+Mar 5,home,Frank Phillips,W,10-3,10,3,7.0,win,,,,,,,,,,,,,,,,,,,,,,,2022,2021-22,div1,Vernon,vernoncollege,emmanuelrodriguezot34,Emmanuel Rodriguez
+Mar 5,home,Frank Phillips,L,14-10,14,10,4.0,win,20220305_623c,3,0,0,,,,0,,2,,,,,,0,0,,,,,3,2022,2021-22,div1,Vernon,vernoncollege,emmanuelrodriguezot34,Emmanuel Rodriguez
+Mar 9,home,Cisco,L,4-3,4,3,1.0,win,,,,,,,,,,,,,,,,,,,,,,,2022,2021-22,div1,Vernon,vernoncollege,emmanuelrodriguezot34,Emmanuel Rodriguez
+Mar 9,home,Cisco,W,5-2,5,2,3.0,win,,,,,,,,,,,,,,,,,,,,,,,2022,2021-22,div1,Vernon,vernoncollege,emmanuelrodriguezot34,Emmanuel Rodriguez
+Mar 12,home,Cisco,W,15-1,15,1,14.0,win,,,,,,,,,,,,,,,,,,,,,,,2022,2021-22,div1,Vernon,vernoncollege,emmanuelrodriguezot34,Emmanuel Rodriguez
+Mar 12,home,Cisco,L,9-8,9,8,1.0,win,20220312_gxnf,0,0,0,,,,0,,,,,,,,0,0,,,,,0,2022,2021-22,div1,Vernon,vernoncollege,emmanuelrodriguezot34,Emmanuel Rodriguez
+Mar 16,home,Grayson,L,16-4,16,4,12.0,win,20220316_lyqn,1,0,0,,,,0,,1,,,,,,0,0,,,,,1,2022,2021-22,div1,Vernon,vernoncollege,emmanuelrodriguezot34,Emmanuel Rodriguez
+Mar 16,home,Grayson,L,16-4,16,4,12.0,win,,,,,,,,,,,,,,,,,,,,,,,2022,2021-22,div1,Vernon,vernoncollege,emmanuelrodriguezot34,Emmanuel Rodriguez
+Mar 19,home,Grayson,L,11-1,11,1,10.0,win,20220319_edjb,2,1,0,,,,0,1,1,,,,,,0,0,,,,,3,2022,2021-22,div1,Vernon,vernoncollege,emmanuelrodriguezot34,Emmanuel Rodriguez
+Mar 19,home,Grayson,L,13-2,13,2,11.0,win,,,,,,,,,,,,,,,,,,,,,,,2022,2021-22,div1,Vernon,vernoncollege,emmanuelrodriguezot34,Emmanuel Rodriguez
+Mar 21,home,Northern Oklahoma Tonkawa,,,,,11.0,win,,,,,,,,,,,,,,,,,,,,,,,2022,2021-22,div1,Vernon,vernoncollege,emmanuelrodriguezot34,Emmanuel Rodriguez
+Mar 23,home,Ranger,L,14-4,14,4,10.0,win,,,,,,,,,,,,,,,,,,,,,,,2022,2021-22,div1,Vernon,vernoncollege,emmanuelrodriguezot34,Emmanuel Rodriguez
+Mar 23,home,Ranger,L,7-6,7,6,1.0,win,20220323_t9nh,1,0,0,,,,0,,1,,,,,,0,0,,,,,1,2022,2021-22,div1,Vernon,vernoncollege,emmanuelrodriguezot34,Emmanuel Rodriguez
+Mar 26,home,Ranger,L,9-8,9,8,1.0,win,,,,,,,,,,,,,,,,,,,,,,,2022,2021-22,div1,Vernon,vernoncollege,emmanuelrodriguezot34,Emmanuel Rodriguez
+Mar 26,home,Ranger,L,11-8,11,8,3.0,win,,,,,,,,,,,,,,,,,,,,,,,2022,2021-22,div1,Vernon,vernoncollege,emmanuelrodriguezot34,Emmanuel Rodriguez
+Mar 30,home,Hill,W,8-3,8,3,5.0,win,,,,,,,,,,,,,,,,,,,,,,,2022,2021-22,div1,Vernon,vernoncollege,emmanuelrodriguezot34,Emmanuel Rodriguez
+Mar 30,home,Hill,L,7-0,7,0,7.0,win,,,,,,,,,,,,,,,,,,,,,,,2022,2021-22,div1,Vernon,vernoncollege,emmanuelrodriguezot34,Emmanuel Rodriguez
+Apr 2,home,Hill,L,8-7,8,7,1.0,win,,,,,,,,,,,,,,,,,,,,,,,2022,2021-22,div1,Vernon,vernoncollege,emmanuelrodriguezot34,Emmanuel Rodriguez
+Apr 2,home,Hill,L,19-6,19,6,13.0,win,20220402_yzz8,2,1,0,,,,0,,2,,,,,,0,0,,,,,2,2022,2021-22,div1,Vernon,vernoncollege,emmanuelrodriguezot34,Emmanuel Rodriguez
+Apr 6,home,McLennan,W,6-4,6,4,2.0,win,,,,,,,,,,,,,,,,,,,,,,,2022,2021-22,div1,Vernon,vernoncollege,emmanuelrodriguezot34,Emmanuel Rodriguez
+Apr 6,home,McLennan,L,8-0,8,0,8.0,win,,,,,,,,,,,,,,,,,,,,,,,2022,2021-22,div1,Vernon,vernoncollege,emmanuelrodriguezot34,Emmanuel Rodriguez
+Apr 9,home,McLennan,L,25-0,25,0,25.0,win,,,,,,,,,,,,,,,,,,,,,,,2022,2021-22,div1,Vernon,vernoncollege,emmanuelrodriguezot34,Emmanuel Rodriguez
+Apr 9,home,McLennan,L,34-9,34,9,25.0,win,,,,,,,,,,,,,,,,,,,,,,,2022,2021-22,div1,Vernon,vernoncollege,emmanuelrodriguezot34,Emmanuel Rodriguez
+Apr 13,home,Weatherford,L,14-5,14,5,9.0,win,20220413_qiu6,2,0,0,,,,0,,2,,,,,,0,0,,,,,2,2022,2021-22,div1,Vernon,vernoncollege,emmanuelrodriguezot34,Emmanuel Rodriguez
+Apr 13,home,Weatherford,L,12-2,12,2,10.0,win,,,,,,,,,,,,,,,,,,,,,,,2022,2021-22,div1,Vernon,vernoncollege,emmanuelrodriguezot34,Emmanuel Rodriguez
+Apr 15,home,Weatherford,W,4-2,4,2,2.0,win,,,,,,,,,,,,,,,,,,,,,,,2022,2021-22,div1,Vernon,vernoncollege,emmanuelrodriguezot34,Emmanuel Rodriguez
+Apr 15,home,Weatherford,W,13-9,13,9,4.0,win,20220415_eemf,1,0,0,,,,0,,,,,,,,0,0,,,,,1,2022,2021-22,div1,Vernon,vernoncollege,emmanuelrodriguezot34,Emmanuel Rodriguez
+Apr 20,home,TCS,L,6-5,6,5,1.0,win,,,,,,,,,,,,,,,,,,,,,,,2022,2021-22,div1,Vernon,vernoncollege,emmanuelrodriguezot34,Emmanuel Rodriguez
+Apr 20,home,TCS,W,4-3,4,3,1.0,win,,,,,,,,,,,,,,,,,,,,,,,2022,2021-22,div1,Vernon,vernoncollege,emmanuelrodriguezot34,Emmanuel Rodriguez
+Apr 25,home,Western Oklahoma State,L,7-6,7,6,1.0,win,20220425_b2uv,0,0,0,,,,0,,,,,,,,0,0,,,,,0,2022,2021-22,div1,Vernon,vernoncollege,emmanuelrodriguezot34,Emmanuel Rodriguez
+Apr 27,home,North Central Texas,T,4-4,4,4,0.0,tie,,,,,,,,,,,,,,,,,,,,,,,2022,2021-22,div1,Vernon,vernoncollege,emmanuelrodriguezot34,Emmanuel Rodriguez
+Apr 27,home,North Central Texas,L,4-3,4,3,1.0,win,20220427_dwnh,2,0,0,,,,0,,1,,,,,,0,0,,,,,2,2022,2021-22,div1,Vernon,vernoncollege,emmanuelrodriguezot34,Emmanuel Rodriguez
+Apr 30,home,North Central Texas,L,16-3,16,3,13.0,win,20220430_74pb,2,0,0,,,,0,,2,,,,,,0,0,,,,,2,2022,2021-22,div1,Vernon,vernoncollege,emmanuelrodriguezot34,Emmanuel Rodriguez
+Apr 30,home,North Central Texas,L,7-6,7,6,1.0,win,,,,,,,,,,,,,,,,,,,,,,,2022,2021-22,div1,Vernon,vernoncollege,emmanuelrodriguezot34,Emmanuel Rodriguez
+May 4,home,Temple,L,5-1,5,1,4.0,win,20220504_fbpp,2,0,1,,,,0,1,1,,,,,,1,0,,,,,3,2022,2021-22,div1,Vernon,vernoncollege,emmanuelrodriguezot34,Emmanuel Rodriguez
+May 4,home,Temple,L,9-1,9,1,8.0,win,20220504_69re,2,0,0,,,,0,1,1,,,,,,0,0,,,,,3,2022,2021-22,div1,Vernon,vernoncollege,emmanuelrodriguezot34,Emmanuel Rodriguez
+May 7,home,Temple,L,10-3,10,3,7.0,win,,,,,,,,,,,,,,,,,,,,,,,2022,2021-22,div1,Vernon,vernoncollege,emmanuelrodriguezot34,Emmanuel Rodriguez
+May 7,home,Temple,L,13-3,13,3,10.0,win,20220507_g6sa,2,1,1,,,,0,1,1,,,,,,1,0,,,,,3,2022,2021-22,div1,Vernon,vernoncollege,emmanuelrodriguezot34,Emmanuel Rodriguez

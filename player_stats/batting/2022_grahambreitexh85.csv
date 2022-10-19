@@ -1,25 +1,50 @@
-date,location,opponent,result,score,team_score,opp_score,game_score_diff_x,game_win_loss_x,game_id_x,AB,R,H,2B,3B,HR,RBI,BB,K,SB,CS,game_score_diff_y,game_win_loss_y,game_id_y,HBP,SF,SH,TB,XBH,HDP,GO,FO,GO/FO,PA,season,njcaa_season,njcaa_division,team,team_id,player_id,player_name
-Mar 4,home,Dawson,W,5-3,5,3,2.0,win,,,,,,,,,,,,,2.0,win,,,,,,,,,,,,2022,2021-22,div1,St. Charles,stcharlescommunitycollege,grahambreitexh85,Graham Breite
-Mar 4,home,Dawson,L,8-4,8,4,4.0,win,20220304_o09t,0,0,0,,,,0,,,,,4.0,win,20220304_o09t,,,,0,0,,,,,0,2022,2021-22,div1,St. Charles,stcharlescommunitycollege,grahambreitexh85,Graham Breite
-Mar 5,home,Elgin,W,11-1,11,1,10.0,win,,,,,,,,,,,,,10.0,win,,,,,,,,,,,,2022,2021-22,div1,St. Charles,stcharlescommunitycollege,grahambreitexh85,Graham Breite
-Mar 6,home,Elgin,W,15-7,15,7,8.0,win,,,,,,,,,,,,,8.0,win,,,,,,,,,,,,2022,2021-22,div1,St. Charles,stcharlescommunitycollege,grahambreitexh85,Graham Breite
-Mar 6,home,Elgin,L,6-2,6,2,4.0,win,,,,,,,,,,,,,4.0,win,,,,,,,,,,,,2022,2021-22,div1,St. Charles,stcharlescommunitycollege,grahambreitexh85,Graham Breite
-Mar 13,home,State Fair,L,7-6,7,6,1.0,win,,,,,,,,,,,,,1.0,win,,,,,,,,,,,,2022,2021-22,div1,St. Charles,stcharlescommunitycollege,grahambreitexh85,Graham Breite
-Mar 13,home,State Fair,W,17-1,17,1,16.0,win,,,,,,,,,,,,,16.0,win,,,,,,,,,,,,2022,2021-22,div1,St. Charles,stcharlescommunitycollege,grahambreitexh85,Graham Breite
-Mar 19,home,Metropolitan,W,9-7,9,7,2.0,win,,,,,,,,,,,,,2.0,win,,,,,,,,,,,,2022,2021-22,div1,St. Charles,stcharlescommunitycollege,grahambreitexh85,Graham Breite
-Mar 19,home,Metropolitan,W,14-11,14,11,3.0,win,20220319_n94x,0,0,0,,,,0,,,,,3.0,win,20220319_n94x,,,,0,0,,,,,0,2022,2021-22,div1,St. Charles,stcharlescommunitycollege,grahambreitexh85,Graham Breite
-Mar 26,home,Mineral Area,W,26-6,26,6,20.0,win,,,,,,,,,,,,,20.0,win,,,,,,,,,,,,2022,2021-22,div1,St. Charles,stcharlescommunitycollege,grahambreitexh85,Graham Breite
-Mar 26,home,Mineral Area,W,10-8,10,8,2.0,win,,,,,,,,,,,,,2.0,win,,,,,,,,,,,,2022,2021-22,div1,St. Charles,stcharlescommunitycollege,grahambreitexh85,Graham Breite
-Mar 29,home,Illinois Central,L,13-11,13,11,2.0,win,,,,,,,,,,,,,2.0,win,,,,,,,,,,,,2022,2021-22,div1,St. Charles,stcharlescommunitycollege,grahambreitexh85,Graham Breite
-Apr 1,home,Jefferson (MO),W,16-9,16,9,7.0,win,,,,,,,,,,,,,7.0,win,,,,,,,,,,,,2022,2021-22,div1,St. Charles,stcharlescommunitycollege,grahambreitexh85,Graham Breite
-Apr 1,home,Jefferson (MO),L,3-2,3,2,1.0,win,,,,,,,,,,,,,1.0,win,,,,,,,,,,,,2022,2021-22,div1,St. Charles,stcharlescommunitycollege,grahambreitexh85,Graham Breite
-Apr 9,home,Three Rivers,L,29-19,29,19,10.0,win,,,,,,,,,,,,,10.0,win,,,,,,,,,,,,2022,2021-22,div1,St. Charles,stcharlescommunitycollege,grahambreitexh85,Graham Breite
-Apr 12,home,Webster University JV,W,12-1,12,1,11.0,win,20220412_fmi5,0,0,0,,,,0,,,,,11.0,win,20220412_fmi5,,,,0,0,,,,,0,2022,2021-22,div1,St. Charles,stcharlescommunitycollege,grahambreitexh85,Graham Breite
-Apr 19,home,East Central (MO),W,12-1,12,1,11.0,win,,,,,,,,,,,,,11.0,win,,,,,,,,,,,,2022,2021-22,div1,St. Charles,stcharlescommunitycollege,grahambreitexh85,Graham Breite
-Apr 19,home,East Central (MO),W,11-1,11,1,10.0,win,,,,,,,,,,,,,10.0,win,,,,,,,,,,,,2022,2021-22,div1,St. Charles,stcharlescommunitycollege,grahambreitexh85,Graham Breite
-Apr 21,home,St. Louis,W,8-1,8,1,7.0,win,,,,,,,,,,,,,7.0,win,,,,,,,,,,,,2022,2021-22,div1,St. Charles,stcharlescommunitycollege,grahambreitexh85,Graham Breite
-Apr 21,home,St. Louis,W,3-2,3,2,1.0,win,,,,,,,,,,,,,1.0,win,,,,,,,,,,,,2022,2021-22,div1,St. Charles,stcharlescommunitycollege,grahambreitexh85,Graham Breite
-Apr 26,home,Fontbonne University,W,12-2,12,2,10.0,win,,,,,,,,,,,,,10.0,win,,,,,,,,,,,,2022,2021-22,div1,St. Charles,stcharlescommunitycollege,grahambreitexh85,Graham Breite
-Apr 26,home,Fontbonne University,W,14-3,14,3,11.0,win,,,,,,,,,,,,,11.0,win,,,,,,,,,,,,2022,2021-22,div1,St. Charles,stcharlescommunitycollege,grahambreitexh85,Graham Breite
-Apr 30,home,Three Rivers,W,14-6,14,6,8.0,win,,,,,,,,,,,,,8.0,win,,,,,,,,,,,,2022,2021-22,div1,St. Charles,stcharlescommunitycollege,grahambreitexh85,Graham Breite
-May 7,home,State Fair,W,2-1,2,1,1.0,win,,,,,,,,,,,,,1.0,win,,,,,,,,,,,,2022,2021-22,div1,St. Charles,stcharlescommunitycollege,grahambreitexh85,Graham Breite
+date,location,opponent,result,score,team_score,opp_score,game_score_diff,game_win_loss,game_id,AB,R,H,2B,3B,HR,RBI,BB,K,SB,CS,HBP,SF,SH,TB,XBH,HDP,GO,FO,GO/FO,PA,season,njcaa_season,njcaa_division,team,team_id,player_id,player_name
+Feb 18,home,Olney Central,W,6-3,6,3,3.0,win,,,,,,,,,,,,,,,,,,,,,,,2022,2021-22,div1,St. Charles,stcharlescommunitycollege,grahambreitexh85,Graham Breite
+Feb 18,home,Heartland,W,7-6,7,6,1.0,win,,,,,,,,,,,,,,,,,,,,,,,2022,2021-22,div1,St. Charles,stcharlescommunitycollege,grahambreitexh85,Graham Breite
+Feb 19,home,East Mississippi,L,7-3,7,3,4.0,win,20220219_4xcg,0,0,0,,,,0,,,,,,,,0,0,,,,,0,2022,2021-22,div1,St. Charles,stcharlescommunitycollege,grahambreitexh85,Graham Breite
+Feb 19,home,Wabash Valley,L,10-4,10,4,6.0,win,,,,,,,,,,,,,,,,,,,,,,,2022,2021-22,div1,St. Charles,stcharlescommunitycollege,grahambreitexh85,Graham Breite
+Mar 1,home,Webster University JV,W,4-0,4,0,4.0,win,,,,,,,,,,,,,,,,,,,,,,,2022,2021-22,div1,St. Charles,stcharlescommunitycollege,grahambreitexh85,Graham Breite
+Mar 1,home,Webster University JV,W,10-6,10,6,4.0,win,,,,,,,,,,,,,,,,,,,,,,,2022,2021-22,div1,St. Charles,stcharlescommunitycollege,grahambreitexh85,Graham Breite
+Mar 4,home,Dawson,W,5-3,5,3,2.0,win,,,,,,,,,,,,,,,,,,,,,,,2022,2021-22,div1,St. Charles,stcharlescommunitycollege,grahambreitexh85,Graham Breite
+Mar 4,home,Dawson,L,8-4,8,4,4.0,win,20220304_o09t,0,0,0,,,,0,,,,,,,,0,0,,,,,0,2022,2021-22,div1,St. Charles,stcharlescommunitycollege,grahambreitexh85,Graham Breite
+Mar 5,home,Elgin,W,11-1,11,1,10.0,win,,,,,,,,,,,,,,,,,,,,,,,2022,2021-22,div1,St. Charles,stcharlescommunitycollege,grahambreitexh85,Graham Breite
+Mar 6,home,Elgin,W,15-7,15,7,8.0,win,,,,,,,,,,,,,,,,,,,,,,,2022,2021-22,div1,St. Charles,stcharlescommunitycollege,grahambreitexh85,Graham Breite
+Mar 6,home,Elgin,L,6-2,6,2,4.0,win,,,,,,,,,,,,,,,,,,,,,,,2022,2021-22,div1,St. Charles,stcharlescommunitycollege,grahambreitexh85,Graham Breite
+Mar 13,home,State Fair,L,7-6,7,6,1.0,win,,,,,,,,,,,,,,,,,,,,,,,2022,2021-22,div1,St. Charles,stcharlescommunitycollege,grahambreitexh85,Graham Breite
+Mar 13,home,State Fair,W,17-1,17,1,16.0,win,,,,,,,,,,,,,,,,,,,,,,,2022,2021-22,div1,St. Charles,stcharlescommunitycollege,grahambreitexh85,Graham Breite
+Mar 15,home,Kaskaskia,W,18-3,18,3,15.0,win,,,,,,,,,,,,,,,,,,,,,,,2022,2021-22,div1,St. Charles,stcharlescommunitycollege,grahambreitexh85,Graham Breite
+Mar 15,home,Kaskaskia,W,12-1,12,1,11.0,win,,,,,,,,,,,,,,,,,,,,,,,2022,2021-22,div1,St. Charles,stcharlescommunitycollege,grahambreitexh85,Graham Breite
+Mar 17,home,Metropolitan,W,10-6,10,6,4.0,win,,,,,,,,,,,,,,,,,,,,,,,2022,2021-22,div1,St. Charles,stcharlescommunitycollege,grahambreitexh85,Graham Breite
+Mar 17,home,Metropolitan,W,12-4,12,4,8.0,win,,,,,,,,,,,,,,,,,,,,,,,2022,2021-22,div1,St. Charles,stcharlescommunitycollege,grahambreitexh85,Graham Breite
+Mar 19,home,Metropolitan,W,9-7,9,7,2.0,win,,,,,,,,,,,,,,,,,,,,,,,2022,2021-22,div1,St. Charles,stcharlescommunitycollege,grahambreitexh85,Graham Breite
+Mar 19,home,Metropolitan,W,14-11,14,11,3.0,win,20220319_n94x,0,0,0,,,,0,,,,,,,,0,0,,,,,0,2022,2021-22,div1,St. Charles,stcharlescommunitycollege,grahambreitexh85,Graham Breite
+Mar 25,home,Mineral Area,W,21-5,21,5,16.0,win,,,,,,,,,,,,,,,,,,,,,,,2022,2021-22,div1,St. Charles,stcharlescommunitycollege,grahambreitexh85,Graham Breite
+Mar 25,home,Mineral Area,L,9-0,9,0,9.0,win,,,,,,,,,,,,,,,,,,,,,,,2022,2021-22,div1,St. Charles,stcharlescommunitycollege,grahambreitexh85,Graham Breite
+Mar 26,home,Mineral Area,W,26-6,26,6,20.0,win,,,,,,,,,,,,,,,,,,,,,,,2022,2021-22,div1,St. Charles,stcharlescommunitycollege,grahambreitexh85,Graham Breite
+Mar 26,home,Mineral Area,W,10-8,10,8,2.0,win,,,,,,,,,,,,,,,,,,,,,,,2022,2021-22,div1,St. Charles,stcharlescommunitycollege,grahambreitexh85,Graham Breite
+Mar 29,home,Illinois Central,L,13-11,13,11,2.0,win,,,,,,,,,,,,,,,,,,,,,,,2022,2021-22,div1,St. Charles,stcharlescommunitycollege,grahambreitexh85,Graham Breite
+Apr 1,home,Jefferson (MO),W,16-9,16,9,7.0,win,,,,,,,,,,,,,,,,,,,,,,,2022,2021-22,div1,St. Charles,stcharlescommunitycollege,grahambreitexh85,Graham Breite
+Apr 1,home,Jefferson (MO),L,3-2,3,2,1.0,win,,,,,,,,,,,,,,,,,,,,,,,2022,2021-22,div1,St. Charles,stcharlescommunitycollege,grahambreitexh85,Graham Breite
+Apr 2,home,Jefferson (MO),L,12-2,12,2,10.0,win,20220402_d87h,0,0,0,,,,0,,,,,,,,0,0,,,,,0,2022,2021-22,div1,St. Charles,stcharlescommunitycollege,grahambreitexh85,Graham Breite
+Apr 2,home,Jefferson (MO),L,8-0,8,0,8.0,win,,,,,,,,,,,,,,,,,,,,,,,2022,2021-22,div1,St. Charles,stcharlescommunitycollege,grahambreitexh85,Graham Breite
+Apr 7,home,Three Rivers,W,12-7,12,7,5.0,win,,,,,,,,,,,,,,,,,,,,,,,2022,2021-22,div1,St. Charles,stcharlescommunitycollege,grahambreitexh85,Graham Breite
+Apr 7,home,Three Rivers,L,10-2,10,2,8.0,win,,,,,,,,,,,,,,,,,,,,,,,2022,2021-22,div1,St. Charles,stcharlescommunitycollege,grahambreitexh85,Graham Breite
+Apr 9,home,Three Rivers,L,29-19,29,19,10.0,win,,,,,,,,,,,,,,,,,,,,,,,2022,2021-22,div1,St. Charles,stcharlescommunitycollege,grahambreitexh85,Graham Breite
+Apr 12,home,Webster University JV,W,12-1,12,1,11.0,win,20220412_fmi5,0,0,0,,,,0,,,,,,,,0,0,,,,,0,2022,2021-22,div1,St. Charles,stcharlescommunitycollege,grahambreitexh85,Graham Breite
+Apr 14,home,Crowder,L,15-2,15,2,13.0,win,,,,,,,,,,,,,,,,,,,,,,,2022,2021-22,div1,St. Charles,stcharlescommunitycollege,grahambreitexh85,Graham Breite
+Apr 15,home,Crowder,L,9-6,9,6,3.0,win,,,,,,,,,,,,,,,,,,,,,,,2022,2021-22,div1,St. Charles,stcharlescommunitycollege,grahambreitexh85,Graham Breite
+Apr 15,home,Crowder,L,4-2,4,2,2.0,win,,,,,,,,,,,,,,,,,,,,,,,2022,2021-22,div1,St. Charles,stcharlescommunitycollege,grahambreitexh85,Graham Breite
+Apr 16,home,Crowder,L,9-1,9,1,8.0,win,20220416_cq72,0,0,0,,,,0,,,,,,,,0,0,,,,,0,2022,2021-22,div1,St. Charles,stcharlescommunitycollege,grahambreitexh85,Graham Breite
+Apr 19,home,East Central (MO),W,12-1,12,1,11.0,win,,,,,,,,,,,,,,,,,,,,,,,2022,2021-22,div1,St. Charles,stcharlescommunitycollege,grahambreitexh85,Graham Breite
+Apr 19,home,East Central (MO),W,11-1,11,1,10.0,win,,,,,,,,,,,,,,,,,,,,,,,2022,2021-22,div1,St. Charles,stcharlescommunitycollege,grahambreitexh85,Graham Breite
+Apr 21,home,St. Louis,W,8-1,8,1,7.0,win,,,,,,,,,,,,,,,,,,,,,,,2022,2021-22,div1,St. Charles,stcharlescommunitycollege,grahambreitexh85,Graham Breite
+Apr 21,home,St. Louis,W,3-2,3,2,1.0,win,,,,,,,,,,,,,,,,,,,,,,,2022,2021-22,div1,St. Charles,stcharlescommunitycollege,grahambreitexh85,Graham Breite
+Apr 23,home,St. Louis,W,6-5,6,5,1.0,win,20220423_uqkc,0,0,0,,,,0,,,,,,,,0,0,,,,,0,2022,2021-22,div1,St. Charles,stcharlescommunitycollege,grahambreitexh85,Graham Breite
+Apr 23,home,St. Louis,L,3-2,3,2,1.0,win,,,,,,,,,,,,,,,,,,,,,,,2022,2021-22,div1,St. Charles,stcharlescommunitycollege,grahambreitexh85,Graham Breite
+Apr 26,home,Fontbonne University,W,12-2,12,2,10.0,win,,,,,,,,,,,,,,,,,,,,,,,2022,2021-22,div1,St. Charles,stcharlescommunitycollege,grahambreitexh85,Graham Breite
+Apr 26,home,Fontbonne University,W,14-3,14,3,11.0,win,,,,,,,,,,,,,,,,,,,,,,,2022,2021-22,div1,St. Charles,stcharlescommunitycollege,grahambreitexh85,Graham Breite
+Apr 30,home,Three Rivers,W,14-6,14,6,8.0,win,,,,,,,,,,,,,,,,,,,,,,,2022,2021-22,div1,St. Charles,stcharlescommunitycollege,grahambreitexh85,Graham Breite
+May 7,home,State Fair,W,2-1,2,1,1.0,win,,,,,,,,,,,,,,,,,,,,,,,2022,2021-22,div1,St. Charles,stcharlescommunitycollege,grahambreitexh85,Graham Breite
+May 7,home,State Fair,W,11-1,11,1,10.0,win,,,,,,,,,,,,,,,,,,,,,,,2022,2021-22,div1,St. Charles,stcharlescommunitycollege,grahambreitexh85,Graham Breite
+May 12,home,Crowder,L,13-8,13,8,5.0,win,,,,,,,,,,,,,,,,,,,,,,,2022,2021-22,div1,St. Charles,stcharlescommunitycollege,grahambreitexh85,Graham Breite
+May 13,home,Mineral Area,L,4-3,4,3,1.0,win,20220513_5xbx,0,0,0,,,,0,,,,,,,,0,0,,,,,0,2022,2021-22,div1,St. Charles,stcharlescommunitycollege,grahambreitexh85,Graham Breite

@@ -1,30 +1,69 @@
-date,location,opponent,result,score,team_score,opp_score,game_score_diff_x,game_win_loss_x,game_id_x,AB,R,H,2B,3B,HR,RBI,BB,K,SB,CS,game_score_diff_y,game_win_loss_y,game_id_y,HBP,SF,SH,TB,XBH,HDP,GO,FO,GO/FO,PA,season,njcaa_season,njcaa_division,team,team_id,player_id,player_name
-Feb 6,home,Brunswick,W,5-3,5,3,2.0,win,20220206_9iie,4,0,1,0,0,0,1,0,0,0,0,2.0,win,20220206_9iie,0,0,0,1,0,,0,,,4,2022,2021-22,div1,USC Sumter,uscsumter,cooperbrysonys2r,Cooper Bryson
-Feb 6,home,Brunswick,W,9-5,9,5,4.0,win,20220206_yqyy,4,1,1,0,1,0,1,0,2,0,0,4.0,win,20220206_yqyy,0,0,0,3,1,,0,,,4,2022,2021-22,div1,USC Sumter,uscsumter,cooperbrysonys2r,Cooper Bryson
-Feb 9,home,Francis Marion University JV,W,14-9,14,9,5.0,win,20220209_03u5,3,0,0,0,0,0,0,1,1,0,0,5.0,win,20220209_03u5,0,0,0,0,0,,0,,,4,2022,2021-22,div1,USC Sumter,uscsumter,cooperbrysonys2r,Cooper Bryson
-Feb 9,home,Francis Marion University JV,L,7-5,7,5,2.0,win,20220209_otw0,3,1,0,0,0,0,1,0,1,1,0,2.0,win,20220209_otw0,0,0,0,0,0,,0,,,3,2022,2021-22,div1,USC Sumter,uscsumter,cooperbrysonys2r,Cooper Bryson
-Feb 18,home,CCBC Dundalk,W,18-1,18,1,17.0,win,20220218_u6rs,3,2,2,1,0,0,2,2,0,0,0,17.0,win,20220218_u6rs,0,0,0,3,1,,0,,,5,2022,2021-22,div1,USC Sumter,uscsumter,cooperbrysonys2r,Cooper Bryson
-Feb 19,home,CCBC Dundalk,W,16-0,16,0,16.0,win,20220219_223j,1,1,1,0,0,0,0,0,0,0,0,16.0,win,20220219_223j,1,0,0,1,0,,0,,,2,2022,2021-22,div1,USC Sumter,uscsumter,cooperbrysonys2r,Cooper Bryson
-Feb 19,home,CCBC Dundalk,W,10-0,10,0,10.0,win,20220219_w792,2,2,1,0,0,0,1,1,0,0,0,10.0,win,20220219_w792,0,0,0,1,0,,0,,,3,2022,2021-22,div1,USC Sumter,uscsumter,cooperbrysonys2r,Cooper Bryson
-Feb 20,home,CCBC Dundalk,W,19-0,19,0,19.0,win,20220220_7225,2,1,0,0,0,0,1,1,0,0,0,19.0,win,20220220_7225,1,0,0,0,0,,0,,,4,2022,2021-22,div1,USC Sumter,uscsumter,cooperbrysonys2r,Cooper Bryson
-Feb 20,home,CCBC Dundalk,W,19-3,19,3,16.0,win,20220220_uqq5,2,2,2,0,0,0,2,0,0,1,0,16.0,win,20220220_uqq5,2,0,0,2,0,,0,,,4,2022,2021-22,div1,USC Sumter,uscsumter,cooperbrysonys2r,Cooper Bryson
-Feb 26,home,Potomac State,W,10-6,10,6,4.0,win,20220226_5kmc,3,1,1,,,,1,1,1,,,4.0,win,20220226_5kmc,,,,1,0,,1,,,4,2022,2021-22,div1,USC Sumter,uscsumter,cooperbrysonys2r,Cooper Bryson
-Feb 26,home,Walters State,L,3-0,3,0,3.0,win,20220226_qlg5,1,0,0,,,,0,,1,,,3.0,win,20220226_qlg5,,,1,0,0,,1,,,2,2022,2021-22,div1,USC Sumter,uscsumter,cooperbrysonys2r,Cooper Bryson
-Feb 27,home,Potomac State,W,4-1,4,1,3.0,win,20220227_v5wo,1,1,1,,,,0,,,,,3.0,win,20220227_v5wo,1,,,1,0,,,,,2,2022,2021-22,div1,USC Sumter,uscsumter,cooperbrysonys2r,Cooper Bryson
-Feb 27,home,Walters State,,,,,3.0,win,,,,,,,,,,,,,3.0,win,,,,,,,,,,,,2022,2021-22,div1,USC Sumter,uscsumter,cooperbrysonys2r,Cooper Bryson
-Mar 11,home,Henry Ford,W,3-0,3,0,3.0,win,20220311_z6ni,4,0,1,,,,0,,,,,3.0,win,20220311_z6ni,,,,1,0,,,,,4,2022,2021-22,div1,USC Sumter,uscsumter,cooperbrysonys2r,Cooper Bryson
-Mar 26,home,Florence-Darlington Tech,W,8-2,8,2,6.0,win,20220326_6qyh,3,1,0,0,0,0,0,1,2,1,0,6.0,win,20220326_6qyh,0,0,0,0,0,,0,,,4,2022,2021-22,div1,USC Sumter,uscsumter,cooperbrysonys2r,Cooper Bryson
-Mar 26,home,Florence-Darlington Tech,W,5-3,5,3,2.0,win,20220326_ohde,3,0,1,1,0,0,0,0,1,0,0,2.0,win,20220326_ohde,0,0,0,2,1,,0,,,3,2022,2021-22,div1,USC Sumter,uscsumter,cooperbrysonys2r,Cooper Bryson
-Mar 27,home,Florence-Darlington Tech,L,11-5,11,5,6.0,win,20220327_khxh,3,1,0,0,0,0,0,1,0,0,0,6.0,win,20220327_khxh,0,0,0,0,0,,0,,,4,2022,2021-22,div1,USC Sumter,uscsumter,cooperbrysonys2r,Cooper Bryson
-Mar 27,home,Florence-Darlington Tech,L,14-1,14,1,13.0,win,20220327_kh8b,2,1,1,0,0,0,0,0,1,1,0,13.0,win,20220327_kh8b,1,0,0,1,0,,0,,,3,2022,2021-22,div1,USC Sumter,uscsumter,cooperbrysonys2r,Cooper Bryson
-Apr 15,home,Spartanburg Methodist,L,9-4,9,4,5.0,win,20220415_phvf,4,2,2,,,,0,,2,,,5.0,win,20220415_phvf,,,,2,0,,,,,4,2022,2021-22,div1,USC Sumter,uscsumter,cooperbrysonys2r,Cooper Bryson
-Apr 15,home,Spartanburg Methodist,W,9-5,9,5,4.0,win,,,,,,,,,,,,,4.0,win,,,,,,,,,,,,2022,2021-22,div1,USC Sumter,uscsumter,cooperbrysonys2r,Cooper Bryson
-Apr 16,home,Spartanburg Methodist,,,,,4.0,win,,,,,,,,,,,,,4.0,win,,,,,,,,,,,,2022,2021-22,div1,USC Sumter,uscsumter,cooperbrysonys2r,Cooper Bryson
-Apr 16,home,Spartanburg Methodist,,,,,4.0,win,,,,,,,,,,,,,4.0,win,,,,,,,,,,,,2022,2021-22,div1,USC Sumter,uscsumter,cooperbrysonys2r,Cooper Bryson
-Apr 16,home,Spartanburg Methodist,,,,,4.0,win,,,,,,,,,,,,,4.0,win,,,,,,,,,,,,2022,2021-22,div1,USC Sumter,uscsumter,cooperbrysonys2r,Cooper Bryson
-Apr 16,home,Spartanburg Methodist,,,,,4.0,win,,,,,,,,,,,,,4.0,win,,,,,,,,,,,,2022,2021-22,div1,USC Sumter,uscsumter,cooperbrysonys2r,Cooper Bryson
-Apr 23,home,USC Salkehatchie,W,5-2,5,2,3.0,win,20220423_gm0g,1,1,0,0,0,0,0,0,0,0,0,3.0,win,20220423_gm0g,0,0,2,0,0,,0,,,3,2022,2021-22,div1,USC Sumter,uscsumter,cooperbrysonys2r,Cooper Bryson
-Apr 23,home,USC Salkehatchie,L,1-0,1,0,1.0,win,20220423_tm3h,2,0,0,0,0,0,0,1,1,0,0,1.0,win,20220423_tm3h,0,0,0,0,0,,0,,,3,2022,2021-22,div1,USC Sumter,uscsumter,cooperbrysonys2r,Cooper Bryson
-Apr 24,home,USC Salkehatchie,W,9-5,9,5,4.0,win,20220424_gsp9,2,1,0,0,0,0,0,1,1,0,0,4.0,win,20220424_gsp9,1,0,0,0,0,,0,,,4,2022,2021-22,div1,USC Sumter,uscsumter,cooperbrysonys2r,Cooper Bryson
-Apr 24,home,USC Salkehatchie,W,10-0,10,0,10.0,win,20220424_wxd6,1,3,1,0,0,0,0,2,0,0,0,10.0,win,20220424_wxd6,0,0,0,1,0,,0,,,3,2022,2021-22,div1,USC Sumter,uscsumter,cooperbrysonys2r,Cooper Bryson
-Apr 25,home,P27 Academy,W,8-4,8,4,4.0,win,20220425_l7kn,2,2,1,0,0,0,0,3,0,0,0,4.0,win,20220425_l7kn,0,0,0,1,0,,0,,,5,2022,2021-22,div1,USC Sumter,uscsumter,cooperbrysonys2r,Cooper Bryson
+date,location,opponent,result,score,team_score,opp_score,game_score_diff,game_win_loss,game_id,AB,R,H,2B,3B,HR,RBI,BB,K,SB,CS,HBP,SF,SH,TB,XBH,HDP,GO,FO,GO/FO,PA,season,njcaa_season,njcaa_division,team,team_id,player_id,player_name
+Feb 5,home,Brunswick,W,5-1,5,1,4.0,win,20220205_4otl,3,1,1,1,0,0,0,0,1,0,0,0,0,0,2,1,,0,,,3,2022,2021-22,div1,USC Sumter,uscsumter,cooperbrysonys2r,Cooper Bryson
+Feb 5,home,Brunswick,L,3-1,3,1,2.0,win,20220205_7ilx,3,0,3,0,0,0,0,0,0,0,0,0,0,0,3,0,,0,,,3,2022,2021-22,div1,USC Sumter,uscsumter,cooperbrysonys2r,Cooper Bryson
+Feb 6,home,Brunswick,W,5-3,5,3,2.0,win,20220206_9iie,4,0,1,0,0,0,1,0,0,0,0,0,0,0,1,0,,0,,,4,2022,2021-22,div1,USC Sumter,uscsumter,cooperbrysonys2r,Cooper Bryson
+Feb 6,home,Brunswick,W,9-5,9,5,4.0,win,20220206_yqyy,4,1,1,0,1,0,1,0,2,0,0,0,0,0,3,1,,0,,,4,2022,2021-22,div1,USC Sumter,uscsumter,cooperbrysonys2r,Cooper Bryson
+Feb 9,home,Francis Marion University JV,W,14-9,14,9,5.0,win,20220209_03u5,3,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,,0,,,4,2022,2021-22,div1,USC Sumter,uscsumter,cooperbrysonys2r,Cooper Bryson
+Feb 9,home,Francis Marion University JV,L,7-5,7,5,2.0,win,20220209_otw0,3,1,0,0,0,0,1,0,1,1,0,0,0,0,0,0,,0,,,3,2022,2021-22,div1,USC Sumter,uscsumter,cooperbrysonys2r,Cooper Bryson
+Feb 16,home,Francis Marion University JV,,,,,2.0,win,,,,,,,,,,,,,,,,,,,,,,,2022,2021-22,div1,USC Sumter,uscsumter,cooperbrysonys2r,Cooper Bryson
+Feb 16,home,Francis Marion University JV,,,,,2.0,win,,,,,,,,,,,,,,,,,,,,,,,2022,2021-22,div1,USC Sumter,uscsumter,cooperbrysonys2r,Cooper Bryson
+Feb 16,home,Francis Marion University JV,,,,,2.0,win,,,,,,,,,,,,,,,,,,,,,,,2022,2021-22,div1,USC Sumter,uscsumter,cooperbrysonys2r,Cooper Bryson
+Feb 16,home,Francis Marion University JV,,,,,2.0,win,,,,,,,,,,,,,,,,,,,,,,,2022,2021-22,div1,USC Sumter,uscsumter,cooperbrysonys2r,Cooper Bryson
+Feb 18,home,CCBC Dundalk,W,18-1,18,1,17.0,win,20220218_u6rs,3,2,2,1,0,0,2,2,0,0,0,0,0,0,3,1,,0,,,5,2022,2021-22,div1,USC Sumter,uscsumter,cooperbrysonys2r,Cooper Bryson
+Feb 19,home,CCBC Dundalk,W,16-0,16,0,16.0,win,20220219_223j,1,1,1,0,0,0,0,0,0,0,0,1,0,0,1,0,,0,,,2,2022,2021-22,div1,USC Sumter,uscsumter,cooperbrysonys2r,Cooper Bryson
+Feb 19,home,CCBC Dundalk,W,10-0,10,0,10.0,win,20220219_w792,2,2,1,0,0,0,1,1,0,0,0,0,0,0,1,0,,0,,,3,2022,2021-22,div1,USC Sumter,uscsumter,cooperbrysonys2r,Cooper Bryson
+Feb 20,home,CCBC Dundalk,W,19-0,19,0,19.0,win,20220220_7225,2,1,0,0,0,0,1,1,0,0,0,1,0,0,0,0,,0,,,4,2022,2021-22,div1,USC Sumter,uscsumter,cooperbrysonys2r,Cooper Bryson
+Feb 20,home,CCBC Dundalk,W,19-3,19,3,16.0,win,20220220_uqq5,2,2,2,0,0,0,2,0,0,1,0,2,0,0,2,0,,0,,,4,2022,2021-22,div1,USC Sumter,uscsumter,cooperbrysonys2r,Cooper Bryson
+Feb 26,home,Potomac State,W,10-6,10,6,4.0,win,20220226_5kmc,3,1,1,,,,1,1,1,,,,,,1,0,,1,,,4,2022,2021-22,div1,USC Sumter,uscsumter,cooperbrysonys2r,Cooper Bryson
+Feb 26,home,Walters State,L,3-0,3,0,3.0,win,20220226_qlg5,1,0,0,,,,0,,1,,,,,1,0,0,,1,,,2,2022,2021-22,div1,USC Sumter,uscsumter,cooperbrysonys2r,Cooper Bryson
+Feb 27,home,Potomac State,W,4-1,4,1,3.0,win,20220227_v5wo,1,1,1,,,,0,,,,,1,,,1,0,,,,,2,2022,2021-22,div1,USC Sumter,uscsumter,cooperbrysonys2r,Cooper Bryson
+Feb 27,home,Walters State,,,,,3.0,win,,,,,,,,,,,,,,,,,,,,,,,2022,2021-22,div1,USC Sumter,uscsumter,cooperbrysonys2r,Cooper Bryson
+Mar 2,home,Olney Central,W,11-6,11,6,5.0,win,20220302_7oq7,0,2,0,0,0,0,0,1,0,0,0,1,0,2,0,0,,0,,,4,2022,2021-22,div1,USC Sumter,uscsumter,cooperbrysonys2r,Cooper Bryson
+Mar 2,home,Olney Central,L,9-5,9,5,4.0,win,20220302_m20f,2,1,1,1,0,0,1,1,1,1,0,1,0,0,2,1,,0,,,4,2022,2021-22,div1,USC Sumter,uscsumter,cooperbrysonys2r,Cooper Bryson
+Mar 4,home,East Georgia State,L,5-4,5,4,1.0,win,20220304_q9wh,3,1,1,0,0,0,0,0,0,0,0,0,0,0,1,0,,0,,,3,2022,2021-22,div1,USC Sumter,uscsumter,cooperbrysonys2r,Cooper Bryson
+Mar 5,home,Florida State Jacksonville,L,6-4,6,4,2.0,win,20220305_1ni5,3,2,1,0,0,0,0,1,0,0,1,1,0,0,1,0,,0,,,5,2022,2021-22,div1,USC Sumter,uscsumter,cooperbrysonys2r,Cooper Bryson
+Mar 5,home,Florida State Jacksonville,W,5-1,5,1,4.0,win,20220305_nt32,3,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,,0,,,4,2022,2021-22,div1,USC Sumter,uscsumter,cooperbrysonys2r,Cooper Bryson
+Mar 11,home,Henry Ford,W,3-0,3,0,3.0,win,20220311_z6ni,4,0,1,,,,0,,,,,,,,1,0,,,,,4,2022,2021-22,div1,USC Sumter,uscsumter,cooperbrysonys2r,Cooper Bryson
+Mar 16,home,Sussex County,W,6-0,6,0,6.0,win,20220316_5dxv,3,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,0,,,4,2022,2021-22,div1,USC Sumter,uscsumter,cooperbrysonys2r,Cooper Bryson
+Mar 16,home,RCSJ Cumberland,W,8-2,8,2,6.0,win,20220316_x0gy,2,1,0,0,0,0,0,2,0,0,0,0,0,0,0,0,,0,,,4,2022,2021-22,div1,USC Sumter,uscsumter,cooperbrysonys2r,Cooper Bryson
+Mar 19,home,USC Union,,,,,6.0,win,,,,,,,,,,,,,,,,,,,,,,,2022,2021-22,div1,USC Sumter,uscsumter,cooperbrysonys2r,Cooper Bryson
+Mar 19,home,USC Union,,,,,6.0,win,,,,,,,,,,,,,,,,,,,,,,,2022,2021-22,div1,USC Sumter,uscsumter,cooperbrysonys2r,Cooper Bryson
+Mar 19,home,USC Union,,,,,6.0,win,,,,,,,,,,,,,,,,,,,,,,,2022,2021-22,div1,USC Sumter,uscsumter,cooperbrysonys2r,Cooper Bryson
+Mar 19,home,USC Union,,,,,6.0,win,,,,,,,,,,,,,,,,,,,,,,,2022,2021-22,div1,USC Sumter,uscsumter,cooperbrysonys2r,Cooper Bryson
+Mar 20,home,USC Union,W,5-3,5,3,2.0,win,20220320_u99d,2,1,0,0,0,0,0,0,1,0,0,1,0,1,0,0,,0,,,4,2022,2021-22,div1,USC Sumter,uscsumter,cooperbrysonys2r,Cooper Bryson
+Mar 20,home,USC Union,W,10-1,10,1,9.0,win,20220320_0sxm,2,1,0,0,0,0,0,2,0,0,0,0,0,1,0,0,,0,,,5,2022,2021-22,div1,USC Sumter,uscsumter,cooperbrysonys2r,Cooper Bryson
+Mar 26,home,Florence-Darlington Tech,W,8-2,8,2,6.0,win,20220326_6qyh,3,1,0,0,0,0,0,1,2,1,0,0,0,0,0,0,,0,,,4,2022,2021-22,div1,USC Sumter,uscsumter,cooperbrysonys2r,Cooper Bryson
+Mar 26,home,Florence-Darlington Tech,W,5-3,5,3,2.0,win,20220326_ohde,3,0,1,1,0,0,0,0,1,0,0,0,0,0,2,1,,0,,,3,2022,2021-22,div1,USC Sumter,uscsumter,cooperbrysonys2r,Cooper Bryson
+Mar 27,home,Florence-Darlington Tech,L,11-5,11,5,6.0,win,20220327_khxh,3,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,0,,,4,2022,2021-22,div1,USC Sumter,uscsumter,cooperbrysonys2r,Cooper Bryson
+Mar 27,home,Florence-Darlington Tech,L,14-1,14,1,13.0,win,20220327_kh8b,2,1,1,0,0,0,0,0,1,1,0,1,0,0,1,0,,0,,,3,2022,2021-22,div1,USC Sumter,uscsumter,cooperbrysonys2r,Cooper Bryson
+Apr 2,home,Louisburg,L,13-2,13,2,11.0,win,20220402_7iuc,2,0,0,0,0,0,1,1,1,0,0,0,0,0,0,0,,0,,,3,2022,2021-22,div1,USC Sumter,uscsumter,cooperbrysonys2r,Cooper Bryson
+Apr 2,home,Louisburg,W,6-1,6,1,5.0,win,20220402_ntb1,2,2,1,0,0,1,1,1,0,0,0,1,0,0,4,1,,0,,,4,2022,2021-22,div1,USC Sumter,uscsumter,cooperbrysonys2r,Cooper Bryson
+Apr 3,home,Louisburg,L,10-7,10,7,3.0,win,20220403_j20k,3,2,2,1,0,0,2,1,1,0,0,0,0,0,3,1,,0,,,4,2022,2021-22,div1,USC Sumter,uscsumter,cooperbrysonys2r,Cooper Bryson
+Apr 3,home,Louisburg,W,6-4,6,4,2.0,win,20220403_fjx0,3,1,1,0,0,0,0,0,0,0,0,0,0,1,1,0,,0,,,4,2022,2021-22,div1,USC Sumter,uscsumter,cooperbrysonys2r,Cooper Bryson
+Apr 9,home,USC Lancaster,W,7-4,7,4,3.0,win,20220409_r4ye,3,1,1,1,,,0,,1,,,,,1,2,1,,,,,4,2022,2021-22,div1,USC Sumter,uscsumter,cooperbrysonys2r,Cooper Bryson
+Apr 9,home,USC Lancaster,W,7-2,7,2,5.0,win,20220409_hns8,3,0,1,,,,1,,,,,,1,,1,0,,,,,4,2022,2021-22,div1,USC Sumter,uscsumter,cooperbrysonys2r,Cooper Bryson
+Apr 10,home,USC Lancaster,W,10-9,10,9,1.0,win,20220410_sw0e,5,2,3,1,0,0,0,0,0,0,0,0,0,0,4,1,,0,,,5,2022,2021-22,div1,USC Sumter,uscsumter,cooperbrysonys2r,Cooper Bryson
+Apr 10,home,USC Lancaster,W,8-6,8,6,2.0,win,20220410_as0d,2,0,0,0,0,0,0,2,0,0,0,0,0,1,0,0,,0,,,5,2022,2021-22,div1,USC Sumter,uscsumter,cooperbrysonys2r,Cooper Bryson
+Apr 15,home,Spartanburg Methodist,L,9-4,9,4,5.0,win,20220415_phvf,4,2,2,,,,0,,2,,,,,,2,0,,,,,4,2022,2021-22,div1,USC Sumter,uscsumter,cooperbrysonys2r,Cooper Bryson
+Apr 15,home,Spartanburg Methodist,W,9-5,9,5,4.0,win,,,,,,,,,,,,,,,,,,,,,,,2022,2021-22,div1,USC Sumter,uscsumter,cooperbrysonys2r,Cooper Bryson
+Apr 16,home,Spartanburg Methodist,,,,,4.0,win,,,,,,,,,,,,,,,,,,,,,,,2022,2021-22,div1,USC Sumter,uscsumter,cooperbrysonys2r,Cooper Bryson
+Apr 16,home,Spartanburg Methodist,,,,,4.0,win,,,,,,,,,,,,,,,,,,,,,,,2022,2021-22,div1,USC Sumter,uscsumter,cooperbrysonys2r,Cooper Bryson
+Apr 16,home,Spartanburg Methodist,,,,,4.0,win,,,,,,,,,,,,,,,,,,,,,,,2022,2021-22,div1,USC Sumter,uscsumter,cooperbrysonys2r,Cooper Bryson
+Apr 16,home,Spartanburg Methodist,,,,,4.0,win,,,,,,,,,,,,,,,,,,,,,,,2022,2021-22,div1,USC Sumter,uscsumter,cooperbrysonys2r,Cooper Bryson
+Apr 23,home,USC Salkehatchie,W,5-2,5,2,3.0,win,20220423_gm0g,1,1,0,0,0,0,0,0,0,0,0,0,0,2,0,0,,0,,,3,2022,2021-22,div1,USC Sumter,uscsumter,cooperbrysonys2r,Cooper Bryson
+Apr 23,home,USC Salkehatchie,L,1-0,1,0,1.0,win,20220423_tm3h,2,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,,0,,,3,2022,2021-22,div1,USC Sumter,uscsumter,cooperbrysonys2r,Cooper Bryson
+Apr 24,home,USC Salkehatchie,W,9-5,9,5,4.0,win,20220424_gsp9,2,1,0,0,0,0,0,1,1,0,0,1,0,0,0,0,,0,,,4,2022,2021-22,div1,USC Sumter,uscsumter,cooperbrysonys2r,Cooper Bryson
+Apr 24,home,USC Salkehatchie,W,10-0,10,0,10.0,win,20220424_wxd6,1,3,1,0,0,0,0,2,0,0,0,0,0,0,1,0,,0,,,3,2022,2021-22,div1,USC Sumter,uscsumter,cooperbrysonys2r,Cooper Bryson
+Apr 25,home,P27 Academy,W,8-4,8,4,4.0,win,20220425_l7kn,2,2,1,0,0,0,0,3,0,0,0,0,0,0,1,0,,0,,,5,2022,2021-22,div1,USC Sumter,uscsumter,cooperbrysonys2r,Cooper Bryson
+Apr 30,home,USC Salkehatchie,W,11-0,11,0,11.0,win,20220430_kobr,3,1,1,0,0,0,2,0,0,0,0,0,1,0,1,0,,0,,,4,2022,2021-22,div1,USC Sumter,uscsumter,cooperbrysonys2r,Cooper Bryson
+Apr 30,home,USC Salkehatchie,W,14-3,14,3,11.0,win,20220430_b3st,3,2,2,0,0,0,1,0,0,4,0,0,1,0,2,0,,0,,,4,2022,2021-22,div1,USC Sumter,uscsumter,cooperbrysonys2r,Cooper Bryson
+May 3,home,Gaston College,L,6-2,6,2,4.0,win,20220503_jr16,5,0,3,0,0,0,1,0,0,2,0,0,0,0,3,0,,0,,,5,2022,2021-22,div1,USC Sumter,uscsumter,cooperbrysonys2r,Cooper Bryson
+May 7,home,USC Salkehatchie,W,13-5,13,5,8.0,win,20220507_8bzq,4,3,2,0,0,0,1,0,0,1,0,1,0,0,2,0,,0,,,5,2022,2021-22,div1,USC Sumter,uscsumter,cooperbrysonys2r,Cooper Bryson
+May 7,home,Spartanburg Methodist,L,13-3,13,3,10.0,win,20220507_fkxk,4,0,2,,,,0,,,,1,,,,2,0,,,1,,4,2022,2021-22,div1,USC Sumter,uscsumter,cooperbrysonys2r,Cooper Bryson
+May 8,home,USC Union,W,13-0,13,0,13.0,win,20220508_41x1,3,2,2,0,0,0,1,0,0,1,0,0,0,0,2,0,,0,,,3,2022,2021-22,div1,USC Sumter,uscsumter,cooperbrysonys2r,Cooper Bryson
+May 8,home,Louisburg,W,13-7,13,7,6.0,win,20220508_oeh1,5,2,1,0,0,1,1,0,2,1,0,0,0,0,4,1,,0,,,5,2022,2021-22,div1,USC Sumter,uscsumter,cooperbrysonys2r,Cooper Bryson
+May 9,home,Spartanburg Methodist,W,8-7,8,7,1.0,win,20220509_ivsv,5,1,2,,,,0,,,,,,,,2,0,,2,1,2.00,5,2022,2021-22,div1,USC Sumter,uscsumter,cooperbrysonys2r,Cooper Bryson
+May 9,home,Florence-Darlington Tech,L,20-10,20,10,10.0,win,20220509_v2fd,4,2,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,0,,,5,2022,2021-22,div1,USC Sumter,uscsumter,cooperbrysonys2r,Cooper Bryson
+May 13,home,Harford,L,6-4,6,4,2.0,win,20220513_i3yu,5,1,3,,,,1,,,1,1,,,,3,0,,1,1,1.00,5,2022,2021-22,div1,USC Sumter,uscsumter,cooperbrysonys2r,Cooper Bryson
+May 14,home,Monroe College,W,11-1,11,1,10.0,win,20220514_xqut,3,2,1,,,,0,1,,,,,,,1,0,,1,1,1.00,4,2022,2021-22,div1,USC Sumter,uscsumter,cooperbrysonys2r,Cooper Bryson
+May 14,home,Florence-Darlington Tech,L,9-0,9,0,9.0,win,20220514_qb3n,3,0,0,,,,0,,,,,,,,0,0,,1,2,0.50,3,2022,2021-22,div1,USC Sumter,uscsumter,cooperbrysonys2r,Cooper Bryson

@@ -1,22 +1,58 @@
-date,location,opponent,result,score,team_score,opp_score,game_score_diff_x,game_win_loss_x,game_id_x,AB,R,H,2B,3B,HR,RBI,BB,K,SB,CS,game_score_diff_y,game_win_loss_y,game_id_y,HBP,SF,SH,TB,XBH,HDP,GO,FO,GO/FO,PA,season,njcaa_season,njcaa_division,team,team_id,player_id,player_name
-Mar 9,home,Cisco,L,4-3,4,3,1.0,win,,,,,,,,,,,,,1.0,win,,,,,,,,,,,,2022,2021-22,div1,Vernon,vernoncollege,marcosescalerankqw,Marcos Escalera
-Mar 9,home,Cisco,W,5-2,5,2,3.0,win,20220309_v65l,0,0,0,,,,0,,,,,3.0,win,20220309_v65l,,,,0,0,,,,,0,2022,2021-22,div1,Vernon,vernoncollege,marcosescalerankqw,Marcos Escalera
-Mar 16,home,Grayson,L,16-4,16,4,12.0,win,,,,,,,,,,,,,12.0,win,,,,,,,,,,,,2022,2021-22,div1,Vernon,vernoncollege,marcosescalerankqw,Marcos Escalera
-Mar 16,home,Grayson,L,16-4,16,4,12.0,win,,,,,,,,,,,,,12.0,win,20220316_nhb5,,,,0,0,,,,,0,2022,2021-22,div1,Vernon,vernoncollege,marcosescalerankqw,Marcos Escalera
-Mar 16,home,Grayson,L,16-4,16,4,12.0,win,20220316_nhb5,0,0,0,,,,0,,,,,12.0,win,,,,,,,,,,,,2022,2021-22,div1,Vernon,vernoncollege,marcosescalerankqw,Marcos Escalera
-Mar 16,home,Grayson,L,16-4,16,4,12.0,win,20220316_nhb5,0,0,0,,,,0,,,,,12.0,win,20220316_nhb5,,,,0,0,,,,,0,2022,2021-22,div1,Vernon,vernoncollege,marcosescalerankqw,Marcos Escalera
-Mar 26,home,Ranger,L,9-8,9,8,1.0,win,,,,,,,,,,,,,1.0,win,,,,,,,,,,,,2022,2021-22,div1,Vernon,vernoncollege,marcosescalerankqw,Marcos Escalera
-Mar 26,home,Ranger,L,11-8,11,8,3.0,win,,,,,,,,,,,,,3.0,win,,,,,,,,,,,,2022,2021-22,div1,Vernon,vernoncollege,marcosescalerankqw,Marcos Escalera
-Mar 30,home,Hill,W,8-3,8,3,5.0,win,20220330_xv1j,0,0,0,,,,0,,,,,5.0,win,20220330_xv1j,,,,0,0,,,,,0,2022,2021-22,div1,Vernon,vernoncollege,marcosescalerankqw,Marcos Escalera
-Mar 30,home,Hill,L,7-0,7,0,7.0,win,,,,,,,,,,,,,7.0,win,,,,,,,,,,,,2022,2021-22,div1,Vernon,vernoncollege,marcosescalerankqw,Marcos Escalera
-Apr 9,home,McLennan,L,25-0,25,0,25.0,win,,,,,,,,,,,,,25.0,win,,,,,,,,,,,,2022,2021-22,div1,Vernon,vernoncollege,marcosescalerankqw,Marcos Escalera
-Apr 9,home,McLennan,L,34-9,34,9,25.0,win,,,,,,,,,,,,,25.0,win,,,,,,,,,,,,2022,2021-22,div1,Vernon,vernoncollege,marcosescalerankqw,Marcos Escalera
-Apr 15,home,Weatherford,W,4-2,4,2,2.0,win,,,,,,,,,,,,,2.0,win,,,,,,,,,,,,2022,2021-22,div1,Vernon,vernoncollege,marcosescalerankqw,Marcos Escalera
-Apr 15,home,Weatherford,W,13-9,13,9,4.0,win,,,,,,,,,,,,,4.0,win,,,,,,,,,,,,2022,2021-22,div1,Vernon,vernoncollege,marcosescalerankqw,Marcos Escalera
-Apr 20,home,TCS,L,6-5,6,5,1.0,win,20220420_ilpt,0,0,0,,,,0,,,,,1.0,win,20220420_ilpt,,,,0,0,,,,,0,2022,2021-22,div1,Vernon,vernoncollege,marcosescalerankqw,Marcos Escalera
-Apr 20,home,TCS,W,4-3,4,3,1.0,win,,,,,,,,,,,,,1.0,win,,,,,,,,,,,,2022,2021-22,div1,Vernon,vernoncollege,marcosescalerankqw,Marcos Escalera
-Apr 25,home,Western Oklahoma State,L,7-6,7,6,1.0,win,,,,,,,,,,,,,1.0,win,,,,,,,,,,,,2022,2021-22,div1,Vernon,vernoncollege,marcosescalerankqw,Marcos Escalera
-Apr 30,home,North Central Texas,L,16-3,16,3,13.0,win,,,,,,,,,,,,,13.0,win,,,,,,,,,,,,2022,2021-22,div1,Vernon,vernoncollege,marcosescalerankqw,Marcos Escalera
-Apr 30,home,North Central Texas,L,7-6,7,6,1.0,win,,,,,,,,,,,,,1.0,win,,,,,,,,,,,,2022,2021-22,div1,Vernon,vernoncollege,marcosescalerankqw,Marcos Escalera
-May 7,home,Temple,L,10-3,10,3,7.0,win,,,,,,,,,,,,,7.0,win,,,,,,,,,,,,2022,2021-22,div1,Vernon,vernoncollege,marcosescalerankqw,Marcos Escalera
-May 7,home,Temple,L,13-3,13,3,10.0,win,,,,,,,,,,,,,10.0,win,,,,,,,,,,,,2022,2021-22,div1,Vernon,vernoncollege,marcosescalerankqw,Marcos Escalera
+date,location,opponent,result,score,team_score,opp_score,game_score_diff,game_win_loss,game_id,AB,R,H,2B,3B,HR,RBI,BB,K,SB,CS,HBP,SF,SH,TB,XBH,HDP,GO,FO,GO/FO,PA,season,njcaa_season,njcaa_division,team,team_id,player_id,player_name
+Jan 29,home,Dallas College - Eastfield,L,10-3,10,3,7.0,win,20220129_xwm0,0,0,0,,,,0,,,,,,,,0,0,,,,,0,2022,2021-22,div1,Vernon,vernoncollege,marcosescalerankqw,Marcos Escalera
+Jan 29,home,Dallas College - Eastfield,L,11-6,11,6,5.0,win,,,,,,,,,,,,,,,,,,,,,,,2022,2021-22,div1,Vernon,vernoncollege,marcosescalerankqw,Marcos Escalera
+Feb 5,home,Dallas College - Cedar Valley,,,,,5.0,win,,,,,,,,,,,,,,,,,,,,,,,2022,2021-22,div1,Vernon,vernoncollege,marcosescalerankqw,Marcos Escalera
+Feb 5,home,Dallas College - Cedar Valley,,,,,5.0,win,,,,,,,,,,,,,,,,,,,,,,,2022,2021-22,div1,Vernon,vernoncollege,marcosescalerankqw,Marcos Escalera
+Feb 5,home,Dallas College - Cedar Valley,,,,,5.0,win,,,,,,,,,,,,,,,,,,,,,,,2022,2021-22,div1,Vernon,vernoncollege,marcosescalerankqw,Marcos Escalera
+Feb 5,home,Dallas College - Cedar Valley,,,,,5.0,win,,,,,,,,,,,,,,,,,,,,,,,2022,2021-22,div1,Vernon,vernoncollege,marcosescalerankqw,Marcos Escalera
+Feb 7,home,Dallas College - Richland,W,17-7,17,7,10.0,win,,,,,,,,,,,,,,,,,,,,,,,2022,2021-22,div1,Vernon,vernoncollege,marcosescalerankqw,Marcos Escalera
+Feb 7,home,Dallas College - Richland,W,11-6,11,6,5.0,win,,,,,,,,,,,,,,,,,,,,,,,2022,2021-22,div1,Vernon,vernoncollege,marcosescalerankqw,Marcos Escalera
+Feb 11,home,Redlands,W,13-8,13,8,5.0,win,20220211_b2zr,0,0,0,,,,0,,,,,,,,0,0,,,,,0,2022,2021-22,div1,Vernon,vernoncollege,marcosescalerankqw,Marcos Escalera
+Feb 12,home,Redlands,W,13-6,13,6,7.0,win,,,,,,,,,,,,,,,,,,,,,,,2022,2021-22,div1,Vernon,vernoncollege,marcosescalerankqw,Marcos Escalera
+Feb 12,home,Redlands,W,14-3,14,3,11.0,win,,,,,,,,,,,,,,,,,,,,,,,2022,2021-22,div1,Vernon,vernoncollege,marcosescalerankqw,Marcos Escalera
+Feb 18,home,Midland,L,3-2,3,2,1.0,win,20220218_0sb7,0,0,0,,,,0,,,,,,,,0,0,,,,,0,2022,2021-22,div1,Vernon,vernoncollege,marcosescalerankqw,Marcos Escalera
+Feb 18,home,Midland,L,14-12,14,12,2.0,win,,,,,,,,,,,,,,,,,,,,,,,2022,2021-22,div1,Vernon,vernoncollege,marcosescalerankqw,Marcos Escalera
+Feb 19,home,Odessa,L,12-11,12,11,1.0,win,,,,,,,,,,,,,,,,,,,,,,,2022,2021-22,div1,Vernon,vernoncollege,marcosescalerankqw,Marcos Escalera
+Feb 19,home,Odessa,L,14-4,14,4,10.0,win,,,,,,,,,,,,,,,,,,,,,,,2022,2021-22,div1,Vernon,vernoncollege,marcosescalerankqw,Marcos Escalera
+Feb 21,home,Northern Oklahoma Tonkawa,L,9-8,9,8,1.0,win,,,,,,,,,,,,,,,,,,,,,,,2022,2021-22,div1,Vernon,vernoncollege,marcosescalerankqw,Marcos Escalera
+Feb 28,home,Seward County,L,9-3,9,3,6.0,win,20220228_pn5k,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0,,,0,2022,2021-22,div1,Vernon,vernoncollege,marcosescalerankqw,Marcos Escalera
+Feb 28,home,Seward County,W,14-3,14,3,11.0,win,,,,,,,,,,,,,,,,,,,,,,,2022,2021-22,div1,Vernon,vernoncollege,marcosescalerankqw,Marcos Escalera
+Mar 1,home,Seward County,W,13-2,13,2,11.0,win,,,,,,,,,,,,,,,,,,,,,,,2022,2021-22,div1,Vernon,vernoncollege,marcosescalerankqw,Marcos Escalera
+Mar 5,home,Frank Phillips,W,10-3,10,3,7.0,win,,,,,,,,,,,,,,,,,,,,,,,2022,2021-22,div1,Vernon,vernoncollege,marcosescalerankqw,Marcos Escalera
+Mar 5,home,Frank Phillips,L,14-10,14,10,4.0,win,,,,,,,,,,,,,,,,,,,,,,,2022,2021-22,div1,Vernon,vernoncollege,marcosescalerankqw,Marcos Escalera
+Mar 9,home,Cisco,L,4-3,4,3,1.0,win,,,,,,,,,,,,,,,,,,,,,,,2022,2021-22,div1,Vernon,vernoncollege,marcosescalerankqw,Marcos Escalera
+Mar 9,home,Cisco,W,5-2,5,2,3.0,win,20220309_v65l,0,0,0,,,,0,,,,,,,,0,0,,,,,0,2022,2021-22,div1,Vernon,vernoncollege,marcosescalerankqw,Marcos Escalera
+Mar 12,home,Cisco,W,15-1,15,1,14.0,win,,,,,,,,,,,,,,,,,,,,,,,2022,2021-22,div1,Vernon,vernoncollege,marcosescalerankqw,Marcos Escalera
+Mar 12,home,Cisco,L,9-8,9,8,1.0,win,,,,,,,,,,,,,,,,,,,,,,,2022,2021-22,div1,Vernon,vernoncollege,marcosescalerankqw,Marcos Escalera
+Mar 16,home,Grayson,L,16-4,16,4,12.0,win,,,,,,,,,,,,,,,,,,,,,,,2022,2021-22,div1,Vernon,vernoncollege,marcosescalerankqw,Marcos Escalera
+Mar 16,home,Grayson,L,16-4,16,4,12.0,win,20220316_nhb5,0,0,0,,,,0,,,,,,,,0,0,,,,,0,2022,2021-22,div1,Vernon,vernoncollege,marcosescalerankqw,Marcos Escalera
+Mar 19,home,Grayson,L,11-1,11,1,10.0,win,,,,,,,,,,,,,,,,,,,,,,,2022,2021-22,div1,Vernon,vernoncollege,marcosescalerankqw,Marcos Escalera
+Mar 19,home,Grayson,L,13-2,13,2,11.0,win,,,,,,,,,,,,,,,,,,,,,,,2022,2021-22,div1,Vernon,vernoncollege,marcosescalerankqw,Marcos Escalera
+Mar 21,home,Northern Oklahoma Tonkawa,,,,,11.0,win,,,,,,,,,,,,,,,,,,,,,,,2022,2021-22,div1,Vernon,vernoncollege,marcosescalerankqw,Marcos Escalera
+Mar 23,home,Ranger,L,14-4,14,4,10.0,win,20220323_caby,0,0,0,,,,0,,,,,,,,0,0,,,,,0,2022,2021-22,div1,Vernon,vernoncollege,marcosescalerankqw,Marcos Escalera
+Mar 23,home,Ranger,L,7-6,7,6,1.0,win,,,,,,,,,,,,,,,,,,,,,,,2022,2021-22,div1,Vernon,vernoncollege,marcosescalerankqw,Marcos Escalera
+Mar 26,home,Ranger,L,9-8,9,8,1.0,win,,,,,,,,,,,,,,,,,,,,,,,2022,2021-22,div1,Vernon,vernoncollege,marcosescalerankqw,Marcos Escalera
+Mar 26,home,Ranger,L,11-8,11,8,3.0,win,,,,,,,,,,,,,,,,,,,,,,,2022,2021-22,div1,Vernon,vernoncollege,marcosescalerankqw,Marcos Escalera
+Mar 30,home,Hill,W,8-3,8,3,5.0,win,20220330_xv1j,0,0,0,,,,0,,,,,,,,0,0,,,,,0,2022,2021-22,div1,Vernon,vernoncollege,marcosescalerankqw,Marcos Escalera
+Mar 30,home,Hill,L,7-0,7,0,7.0,win,,,,,,,,,,,,,,,,,,,,,,,2022,2021-22,div1,Vernon,vernoncollege,marcosescalerankqw,Marcos Escalera
+Apr 2,home,Hill,L,8-7,8,7,1.0,win,,,,,,,,,,,,,,,,,,,,,,,2022,2021-22,div1,Vernon,vernoncollege,marcosescalerankqw,Marcos Escalera
+Apr 2,home,Hill,L,19-6,19,6,13.0,win,,,,,,,,,,,,,,,,,,,,,,,2022,2021-22,div1,Vernon,vernoncollege,marcosescalerankqw,Marcos Escalera
+Apr 6,home,McLennan,W,6-4,6,4,2.0,win,,,,,,,,,,,,,,,,,,,,,,,2022,2021-22,div1,Vernon,vernoncollege,marcosescalerankqw,Marcos Escalera
+Apr 6,home,McLennan,L,8-0,8,0,8.0,win,20220406_bep0,0,0,0,,,,0,,,,,,,,0,0,,,,,0,2022,2021-22,div1,Vernon,vernoncollege,marcosescalerankqw,Marcos Escalera
+Apr 9,home,McLennan,L,25-0,25,0,25.0,win,,,,,,,,,,,,,,,,,,,,,,,2022,2021-22,div1,Vernon,vernoncollege,marcosescalerankqw,Marcos Escalera
+Apr 9,home,McLennan,L,34-9,34,9,25.0,win,,,,,,,,,,,,,,,,,,,,,,,2022,2021-22,div1,Vernon,vernoncollege,marcosescalerankqw,Marcos Escalera
+Apr 13,home,Weatherford,L,14-5,14,5,9.0,win,,,,,,,,,,,,,,,,,,,,,,,2022,2021-22,div1,Vernon,vernoncollege,marcosescalerankqw,Marcos Escalera
+Apr 13,home,Weatherford,L,12-2,12,2,10.0,win,20220413_7gu9,0,0,0,,,,0,,,,,,,,0,0,,,,,0,2022,2021-22,div1,Vernon,vernoncollege,marcosescalerankqw,Marcos Escalera
+Apr 15,home,Weatherford,W,4-2,4,2,2.0,win,,,,,,,,,,,,,,,,,,,,,,,2022,2021-22,div1,Vernon,vernoncollege,marcosescalerankqw,Marcos Escalera
+Apr 15,home,Weatherford,W,13-9,13,9,4.0,win,,,,,,,,,,,,,,,,,,,,,,,2022,2021-22,div1,Vernon,vernoncollege,marcosescalerankqw,Marcos Escalera
+Apr 20,home,TCS,L,6-5,6,5,1.0,win,20220420_ilpt,0,0,0,,,,0,,,,,,,,0,0,,,,,0,2022,2021-22,div1,Vernon,vernoncollege,marcosescalerankqw,Marcos Escalera
+Apr 20,home,TCS,W,4-3,4,3,1.0,win,,,,,,,,,,,,,,,,,,,,,,,2022,2021-22,div1,Vernon,vernoncollege,marcosescalerankqw,Marcos Escalera
+Apr 25,home,Western Oklahoma State,L,7-6,7,6,1.0,win,,,,,,,,,,,,,,,,,,,,,,,2022,2021-22,div1,Vernon,vernoncollege,marcosescalerankqw,Marcos Escalera
+Apr 27,home,North Central Texas,T,4-4,4,4,0.0,tie,20220427_59xy,0,0,0,,,,0,,,,,,,,0,0,,,,,0,2022,2021-22,div1,Vernon,vernoncollege,marcosescalerankqw,Marcos Escalera
+Apr 27,home,North Central Texas,L,4-3,4,3,1.0,win,,,,,,,,,,,,,,,,,,,,,,,2022,2021-22,div1,Vernon,vernoncollege,marcosescalerankqw,Marcos Escalera
+Apr 30,home,North Central Texas,L,16-3,16,3,13.0,win,,,,,,,,,,,,,,,,,,,,,,,2022,2021-22,div1,Vernon,vernoncollege,marcosescalerankqw,Marcos Escalera
+Apr 30,home,North Central Texas,L,7-6,7,6,1.0,win,,,,,,,,,,,,,,,,,,,,,,,2022,2021-22,div1,Vernon,vernoncollege,marcosescalerankqw,Marcos Escalera
+May 4,home,Temple,L,5-1,5,1,4.0,win,20220504_fbpp,0,0,0,,,,0,,,,,,,,0,0,,,,,0,2022,2021-22,div1,Vernon,vernoncollege,marcosescalerankqw,Marcos Escalera
+May 4,home,Temple,L,9-1,9,1,8.0,win,,,,,,,,,,,,,,,,,,,,,,,2022,2021-22,div1,Vernon,vernoncollege,marcosescalerankqw,Marcos Escalera
+May 7,home,Temple,L,10-3,10,3,7.0,win,,,,,,,,,,,,,,,,,,,,,,,2022,2021-22,div1,Vernon,vernoncollege,marcosescalerankqw,Marcos Escalera
+May 7,home,Temple,L,13-3,13,3,10.0,win,,,,,,,,,,,,,,,,,,,,,,,2022,2021-22,div1,Vernon,vernoncollege,marcosescalerankqw,Marcos Escalera

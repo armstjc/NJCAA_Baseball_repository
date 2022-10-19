@@ -1,36 +1,67 @@
-date,location,opponent,result,score,team_score,opp_score,game_score_diff_x,game_win_loss_x,game_id_x,AB,R,H,2B,3B,HR,RBI,BB,K,SB,CS,game_score_diff_y,game_win_loss_y,game_id_y,HBP,SF,SH,TB,XBH,HDP,GO,FO,GO/FO,PA,season,njcaa_season,njcaa_division,team,team_id,player_id,player_name
-Feb 5,home,Dallas College - Eastfield,,,,,9.0,win,,,,,,,,,,,,,9.0,win,,,,,,,,,,,,2022,2021-22,div1,Ranger,rangercollege,danieldelacruznew4,Daniel De La Cruz
-Feb 5,home,Dallas College - Eastfield,,,,,9.0,win,,,,,,,,,,,,,9.0,win,,,,,,,,,,,,2022,2021-22,div1,Ranger,rangercollege,danieldelacruznew4,Daniel De La Cruz
-Feb 5,home,Dallas College - Eastfield,,,,,9.0,win,,,,,,,,,,,,,9.0,win,,,,,,,,,,,,2022,2021-22,div1,Ranger,rangercollege,danieldelacruznew4,Daniel De La Cruz
-Feb 5,home,Dallas College - Eastfield,,,,,9.0,win,,,,,,,,,,,,,9.0,win,,,,,,,,,,,,2022,2021-22,div1,Ranger,rangercollege,danieldelacruznew4,Daniel De La Cruz
-Feb 6,home,Western Texas,L,13-3,13,3,10.0,win,,,,,,,,,,,,,10.0,win,,,,,,,,,,,,2022,2021-22,div1,Ranger,rangercollege,danieldelacruznew4,Daniel De La Cruz
-Feb 11,home,Odessa,L,7-6,7,6,1.0,win,,,,,,,,,,,,,1.0,win,,,,,,,,,,,,2022,2021-22,div1,Ranger,rangercollege,danieldelacruznew4,Daniel De La Cruz
-Feb 11,home,Odessa,W,6-5,6,5,1.0,win,,,,,,,,,,,,,1.0,win,,,,,,,,,,,,2022,2021-22,div1,Ranger,rangercollege,danieldelacruznew4,Daniel De La Cruz
-Feb 12,home,Midland,L,4-3,4,3,1.0,win,,,,,,,,,,,,,1.0,win,,,,,,,,,,,,2022,2021-22,div1,Ranger,rangercollege,danieldelacruznew4,Daniel De La Cruz
-Feb 12,home,Midland,W,5-2,5,2,3.0,win,,,,,,,,,,,,,3.0,win,,,,,,,,,,,,2022,2021-22,div1,Ranger,rangercollege,danieldelacruznew4,Daniel De La Cruz
-Feb 18,home,Frank Phillips,W,9-3,9,3,6.0,win,,,,,,,,,,,,,6.0,win,,,,,,,,,,,,2022,2021-22,div1,Ranger,rangercollege,danieldelacruznew4,Daniel De La Cruz
-Feb 18,home,Frank Phillips,W,10-8,10,8,2.0,win,,,,,,,,,,,,,2.0,win,,,,,,,,,,,,2022,2021-22,div1,Ranger,rangercollege,danieldelacruznew4,Daniel De La Cruz
-Feb 19,home,Frank Phillips,L,11-3,11,3,8.0,win,,,,,,,,,,,,,8.0,win,,,,,,,,,,,,2022,2021-22,div1,Ranger,rangercollege,danieldelacruznew4,Daniel De La Cruz
-Feb 19,home,Frank Phillips,W,11-9,11,9,2.0,win,,,,,,,,,,,,,2.0,win,,,,,,,,,,,,2022,2021-22,div1,Ranger,rangercollege,danieldelacruznew4,Daniel De La Cruz
-Feb 27,home,Western Texas,W,5-4,5,4,1.0,win,,,,,,,,,,,,,1.0,win,,,,,,,,,,,,2022,2021-22,div1,Ranger,rangercollege,danieldelacruznew4,Daniel De La Cruz
-Feb 27,home,Western Texas,L,10-0,10,0,10.0,win,,,,,,,,,,,,,10.0,win,,,,,,,,,,,,2022,2021-22,div1,Ranger,rangercollege,danieldelacruznew4,Daniel De La Cruz
-Mar 5,home,DFW Post Grad,W,12-3,12,3,9.0,win,,,,,,,,,,,,,9.0,win,,,,,,,,,,,,2022,2021-22,div1,Ranger,rangercollege,danieldelacruznew4,Daniel De La Cruz
-Mar 5,home,DFW Post Grad,W,13-3,13,3,10.0,win,,,,,,,,,,,,,10.0,win,,,,,,,,,,,,2022,2021-22,div1,Ranger,rangercollege,danieldelacruznew4,Daniel De La Cruz
-Mar 12,home,McLennan,L,13-0,13,0,13.0,win,,,,,,,,,,,,,13.0,win,,,,,,,,,,,,2022,2021-22,div1,Ranger,rangercollege,danieldelacruznew4,Daniel De La Cruz
-Mar 12,home,McLennan,L,10-1,10,1,9.0,win,,,,,,,,,,,,,9.0,win,,,,,,,,,,,,2022,2021-22,div1,Ranger,rangercollege,danieldelacruznew4,Daniel De La Cruz
-Mar 19,home,Weatherford,L,14-0,14,0,14.0,win,,,,,,,,,,,,,14.0,win,,,,,,,,,,,,2022,2021-22,div1,Ranger,rangercollege,danieldelacruznew4,Daniel De La Cruz
-Mar 19,home,Weatherford,W,8-6,8,6,2.0,win,,,,,,,,,,,,,2.0,win,,,,,,,,,,,,2022,2021-22,div1,Ranger,rangercollege,danieldelacruznew4,Daniel De La Cruz
-Mar 23,home,Vernon,W,14-4,14,4,10.0,win,,,,,,,,,,,,,10.0,win,,,,,,,,,,,,2022,2021-22,div1,Ranger,rangercollege,danieldelacruznew4,Daniel De La Cruz
-Mar 23,home,Vernon,W,7-6,7,6,1.0,win,,,,,,,,,,,,,1.0,win,,,,,,,,,,,,2022,2021-22,div1,Ranger,rangercollege,danieldelacruznew4,Daniel De La Cruz
-Mar 31,home,North Central Texas,W,4-3,4,3,1.0,win,,,,,,,,,,,,,1.0,win,,,,,,,,,,,,2022,2021-22,div1,Ranger,rangercollege,danieldelacruznew4,Daniel De La Cruz
-Mar 31,home,North Central Texas,W,10-1,10,1,9.0,win,,,,,,,,,,,,,9.0,win,,,,,,,,,,,,2022,2021-22,div1,Ranger,rangercollege,danieldelacruznew4,Daniel De La Cruz
-Apr 6,home,Temple,W,6-0,6,0,6.0,win,,,,,,,,,,,,,6.0,win,,,,,,,,,,,,2022,2021-22,div1,Ranger,rangercollege,danieldelacruznew4,Daniel De La Cruz
-Apr 6,home,Temple,W,4-1,4,1,3.0,win,,,,,,,,,,,,,3.0,win,,,,,,,,,,,,2022,2021-22,div1,Ranger,rangercollege,danieldelacruznew4,Daniel De La Cruz
-Apr 13,home,Cisco,W,1-0,1,0,1.0,win,,,,,,,,,,,,,1.0,win,,,,,,,,,,,,2022,2021-22,div1,Ranger,rangercollege,danieldelacruznew4,Daniel De La Cruz
-Apr 13,home,Cisco,W,10-1,10,1,9.0,win,,,,,,,,,,,,,9.0,win,,,,,,,,,,,,2022,2021-22,div1,Ranger,rangercollege,danieldelacruznew4,Daniel De La Cruz
-Apr 23,home,Grayson,L,6-5,6,5,1.0,win,,,,,,,,,,,,,1.0,win,,,,,,,,,,,,2022,2021-22,div1,Ranger,rangercollege,danieldelacruznew4,Daniel De La Cruz
-Apr 23,home,Grayson,L,7-2,7,2,5.0,win,,,,,,,,,,,,,5.0,win,,,,,,,,,,,,2022,2021-22,div1,Ranger,rangercollege,danieldelacruznew4,Daniel De La Cruz
-Apr 27,home,Spartan Post Grad Academy,W,2-0,2,0,2.0,win,,,,,,,,,,,,,2.0,win,,,,,,,,,,,,2022,2021-22,div1,Ranger,rangercollege,danieldelacruznew4,Daniel De La Cruz
-Apr 27,home,Spartan Post Grad Academy,W,13-1,13,1,12.0,win,,,,,,,,,,,,,12.0,win,,,,,,,,,,,,2022,2021-22,div1,Ranger,rangercollege,danieldelacruznew4,Daniel De La Cruz
-May 7,home,Hill,W,7-2,7,2,5.0,win,,,,,,,,,,,,,5.0,win,,,,,,,,,,,,2022,2021-22,div1,Ranger,rangercollege,danieldelacruznew4,Daniel De La Cruz
-May 7,home,Hill,L,17-11,17,11,6.0,win,,,,,,,,,,,,,6.0,win,,,,,,,,,,,,2022,2021-22,div1,Ranger,rangercollege,danieldelacruznew4,Daniel De La Cruz
+date,location,opponent,result,score,team_score,opp_score,game_score_diff,game_win_loss,game_id,AB,R,H,2B,3B,HR,RBI,BB,K,SB,CS,HBP,SF,SH,TB,XBH,HDP,GO,FO,GO/FO,PA,season,njcaa_season,njcaa_division,team,team_id,player_id,player_name
+Jan 28,home,Pasco-Hernando State,W,6-3,6,3,3.0,win,,,,,,,,,,,,,,,,,,,,,,,2022,2021-22,div1,Ranger,rangercollege,danieldelacruznew4,Daniel De La Cruz
+Jan 29,home,State College of Florida,L,14-3,14,3,11.0,win,,,,,,,,,,,,,,,,,,,,,,,2022,2021-22,div1,Ranger,rangercollege,danieldelacruznew4,Daniel De La Cruz
+Jan 30,home,Hillsborough,L,11-2,11,2,9.0,win,,,,,,,,,,,,,,,,,,,,,,,2022,2021-22,div1,Ranger,rangercollege,danieldelacruznew4,Daniel De La Cruz
+Feb 2,home,Dallas College - Eastfield,,,,,9.0,win,,,,,,,,,,,,,,,,,,,,,,,2022,2021-22,div1,Ranger,rangercollege,danieldelacruznew4,Daniel De La Cruz
+Feb 5,home,Dallas College - Eastfield,,,,,9.0,win,,,,,,,,,,,,,,,,,,,,,,,2022,2021-22,div1,Ranger,rangercollege,danieldelacruznew4,Daniel De La Cruz
+Feb 5,home,Dallas College - Eastfield,,,,,9.0,win,,,,,,,,,,,,,,,,,,,,,,,2022,2021-22,div1,Ranger,rangercollege,danieldelacruznew4,Daniel De La Cruz
+Feb 5,home,Dallas College - Eastfield,,,,,9.0,win,,,,,,,,,,,,,,,,,,,,,,,2022,2021-22,div1,Ranger,rangercollege,danieldelacruznew4,Daniel De La Cruz
+Feb 5,home,Dallas College - Eastfield,,,,,9.0,win,,,,,,,,,,,,,,,,,,,,,,,2022,2021-22,div1,Ranger,rangercollege,danieldelacruznew4,Daniel De La Cruz
+Feb 5,home,Galveston,W,16-2,16,2,14.0,win,,,,,,,,,,,,,,,,,,,,,,,2022,2021-22,div1,Ranger,rangercollege,danieldelacruznew4,Daniel De La Cruz
+Feb 6,home,Western Texas,L,13-3,13,3,10.0,win,,,,,,,,,,,,,,,,,,,,,,,2022,2021-22,div1,Ranger,rangercollege,danieldelacruznew4,Daniel De La Cruz
+Feb 6,home,Coastal Bend,W,4-2,4,2,2.0,win,,,,,,,,,,,,,,,,,,,,,,,2022,2021-22,div1,Ranger,rangercollege,danieldelacruznew4,Daniel De La Cruz
+Feb 11,home,Odessa,L,7-6,7,6,1.0,win,,,,,,,,,,,,,,,,,,,,,,,2022,2021-22,div1,Ranger,rangercollege,danieldelacruznew4,Daniel De La Cruz
+Feb 11,home,Odessa,W,6-5,6,5,1.0,win,,,,,,,,,,,,,,,,,,,,,,,2022,2021-22,div1,Ranger,rangercollege,danieldelacruznew4,Daniel De La Cruz
+Feb 12,home,Midland,L,4-3,4,3,1.0,win,,,,,,,,,,,,,,,,,,,,,,,2022,2021-22,div1,Ranger,rangercollege,danieldelacruznew4,Daniel De La Cruz
+Feb 12,home,Midland,W,5-2,5,2,3.0,win,,,,,,,,,,,,,,,,,,,,,,,2022,2021-22,div1,Ranger,rangercollege,danieldelacruznew4,Daniel De La Cruz
+Feb 18,home,Frank Phillips,W,9-3,9,3,6.0,win,,,,,,,,,,,,,,,,,,,,,,,2022,2021-22,div1,Ranger,rangercollege,danieldelacruznew4,Daniel De La Cruz
+Feb 18,home,Frank Phillips,W,10-8,10,8,2.0,win,,,,,,,,,,,,,,,,,,,,,,,2022,2021-22,div1,Ranger,rangercollege,danieldelacruznew4,Daniel De La Cruz
+Feb 19,home,Frank Phillips,L,11-3,11,3,8.0,win,,,,,,,,,,,,,,,,,,,,,,,2022,2021-22,div1,Ranger,rangercollege,danieldelacruznew4,Daniel De La Cruz
+Feb 19,home,Frank Phillips,W,11-9,11,9,2.0,win,,,,,,,,,,,,,,,,,,,,,,,2022,2021-22,div1,Ranger,rangercollege,danieldelacruznew4,Daniel De La Cruz
+Feb 23,home,Western Texas,,,,,2.0,win,,,,,,,,,,,,,,,,,,,,,,,2022,2021-22,div1,Ranger,rangercollege,danieldelacruznew4,Daniel De La Cruz
+Feb 27,home,Western Texas,W,5-4,5,4,1.0,win,,,,,,,,,,,,,,,,,,,,,,,2022,2021-22,div1,Ranger,rangercollege,danieldelacruznew4,Daniel De La Cruz
+Feb 27,home,Western Texas,L,10-0,10,0,10.0,win,,,,,,,,,,,,,,,,,,,,,,,2022,2021-22,div1,Ranger,rangercollege,danieldelacruznew4,Daniel De La Cruz
+Mar 2,home,Clarendon,W,12-10,12,10,2.0,win,,,,,,,,,,,,,,,,,,,,,,,2022,2021-22,div1,Ranger,rangercollege,danieldelacruznew4,Daniel De La Cruz
+Mar 2,home,Clarendon,W,21-11,21,11,10.0,win,,,,,,,,,,,,,,,,,,,,,,,2022,2021-22,div1,Ranger,rangercollege,danieldelacruznew4,Daniel De La Cruz
+Mar 3,home,Clarendon,W,15-4,15,4,11.0,win,,,,,,,,,,,,,,,,,,,,,,,2022,2021-22,div1,Ranger,rangercollege,danieldelacruznew4,Daniel De La Cruz
+Mar 5,home,DFW Post Grad,W,12-3,12,3,9.0,win,,,,,,,,,,,,,,,,,,,,,,,2022,2021-22,div1,Ranger,rangercollege,danieldelacruznew4,Daniel De La Cruz
+Mar 5,home,DFW Post Grad,W,13-3,13,3,10.0,win,,,,,,,,,,,,,,,,,,,,,,,2022,2021-22,div1,Ranger,rangercollege,danieldelacruznew4,Daniel De La Cruz
+Mar 9,home,McLennan,L,15-2,15,2,13.0,win,,,,,,,,,,,,,,,,,,,,,,,2022,2021-22,div1,Ranger,rangercollege,danieldelacruznew4,Daniel De La Cruz
+Mar 9,home,McLennan,W,6-4,6,4,2.0,win,,,,,,,,,,,,,,,,,,,,,,,2022,2021-22,div1,Ranger,rangercollege,danieldelacruznew4,Daniel De La Cruz
+Mar 12,home,McLennan,L,13-0,13,0,13.0,win,,,,,,,,,,,,,,,,,,,,,,,2022,2021-22,div1,Ranger,rangercollege,danieldelacruznew4,Daniel De La Cruz
+Mar 12,home,McLennan,L,10-1,10,1,9.0,win,,,,,,,,,,,,,,,,,,,,,,,2022,2021-22,div1,Ranger,rangercollege,danieldelacruznew4,Daniel De La Cruz
+Mar 16,home,Weatherford,W,5-3,5,3,2.0,win,,,,,,,,,,,,,,,,,,,,,,,2022,2021-22,div1,Ranger,rangercollege,danieldelacruznew4,Daniel De La Cruz
+Mar 16,home,Weatherford,W,5-0,5,0,5.0,win,,,,,,,,,,,,,,,,,,,,,,,2022,2021-22,div1,Ranger,rangercollege,danieldelacruznew4,Daniel De La Cruz
+Mar 19,home,Weatherford,L,14-0,14,0,14.0,win,,,,,,,,,,,,,,,,,,,,,,,2022,2021-22,div1,Ranger,rangercollege,danieldelacruznew4,Daniel De La Cruz
+Mar 19,home,Weatherford,W,8-6,8,6,2.0,win,,,,,,,,,,,,,,,,,,,,,,,2022,2021-22,div1,Ranger,rangercollege,danieldelacruznew4,Daniel De La Cruz
+Mar 23,home,Vernon,W,14-4,14,4,10.0,win,,,,,,,,,,,,,,,,,,,,,,,2022,2021-22,div1,Ranger,rangercollege,danieldelacruznew4,Daniel De La Cruz
+Mar 23,home,Vernon,W,7-6,7,6,1.0,win,,,,,,,,,,,,,,,,,,,,,,,2022,2021-22,div1,Ranger,rangercollege,danieldelacruznew4,Daniel De La Cruz
+Mar 26,home,Vernon,W,9-8,9,8,1.0,win,,,,,,,,,,,,,,,,,,,,,,,2022,2021-22,div1,Ranger,rangercollege,danieldelacruznew4,Daniel De La Cruz
+Mar 26,home,Vernon,W,11-8,11,8,3.0,win,,,,,,,,,,,,,,,,,,,,,,,2022,2021-22,div1,Ranger,rangercollege,danieldelacruznew4,Daniel De La Cruz
+Mar 31,home,North Central Texas,W,4-3,4,3,1.0,win,,,,,,,,,,,,,,,,,,,,,,,2022,2021-22,div1,Ranger,rangercollege,danieldelacruznew4,Daniel De La Cruz
+Mar 31,home,North Central Texas,W,10-1,10,1,9.0,win,,,,,,,,,,,,,,,,,,,,,,,2022,2021-22,div1,Ranger,rangercollege,danieldelacruznew4,Daniel De La Cruz
+Apr 2,home,North Central Texas,L,4-3,4,3,1.0,win,,,,,,,,,,,,,,,,,,,,,,,2022,2021-22,div1,Ranger,rangercollege,danieldelacruznew4,Daniel De La Cruz
+Apr 2,home,North Central Texas,W,11-8,11,8,3.0,win,,,,,,,,,,,,,,,,,,,,,,,2022,2021-22,div1,Ranger,rangercollege,danieldelacruznew4,Daniel De La Cruz
+Apr 4,home,Arlington Baptist,W,13-2,13,2,11.0,win,,,,,,,,,,,,,,,,,,,,,,,2022,2021-22,div1,Ranger,rangercollege,danieldelacruznew4,Daniel De La Cruz
+Apr 6,home,Temple,W,6-0,6,0,6.0,win,,,,,,,,,,,,,,,,,,,,,,,2022,2021-22,div1,Ranger,rangercollege,danieldelacruznew4,Daniel De La Cruz
+Apr 6,home,Temple,W,4-1,4,1,3.0,win,,,,,,,,,,,,,,,,,,,,,,,2022,2021-22,div1,Ranger,rangercollege,danieldelacruznew4,Daniel De La Cruz
+Apr 9,home,Temple,L,3-2,3,2,1.0,win,,,,,,,,,,,,,,,,,,,,,,,2022,2021-22,div1,Ranger,rangercollege,danieldelacruznew4,Daniel De La Cruz
+Apr 9,home,Temple,W,8-4,8,4,4.0,win,,,,,,,,,,,,,,,,,,,,,,,2022,2021-22,div1,Ranger,rangercollege,danieldelacruznew4,Daniel De La Cruz
+Apr 13,home,Cisco,W,1-0,1,0,1.0,win,,,,,,,,,,,,,,,,,,,,,,,2022,2021-22,div1,Ranger,rangercollege,danieldelacruznew4,Daniel De La Cruz
+Apr 13,home,Cisco,W,10-1,10,1,9.0,win,,,,,,,,,,,,,,,,,,,,,,,2022,2021-22,div1,Ranger,rangercollege,danieldelacruznew4,Daniel De La Cruz
+Apr 15,home,Cisco,L,8-7,8,7,1.0,win,,,,,,,,,,,,,,,,,,,,,,,2022,2021-22,div1,Ranger,rangercollege,danieldelacruznew4,Daniel De La Cruz
+Apr 15,home,Cisco,W,11-7,11,7,4.0,win,,,,,,,,,,,,,,,,,,,,,,,2022,2021-22,div1,Ranger,rangercollege,danieldelacruznew4,Daniel De La Cruz
+Apr 20,home,Grayson,L,4-3,4,3,1.0,win,,,,,,,,,,,,,,,,,,,,,,,2022,2021-22,div1,Ranger,rangercollege,danieldelacruznew4,Daniel De La Cruz
+Apr 20,home,Grayson,L,12-6,12,6,6.0,win,,,,,,,,,,,,,,,,,,,,,,,2022,2021-22,div1,Ranger,rangercollege,danieldelacruznew4,Daniel De La Cruz
+Apr 23,home,Grayson,L,6-5,6,5,1.0,win,,,,,,,,,,,,,,,,,,,,,,,2022,2021-22,div1,Ranger,rangercollege,danieldelacruznew4,Daniel De La Cruz
+Apr 23,home,Grayson,L,7-2,7,2,5.0,win,,,,,,,,,,,,,,,,,,,,,,,2022,2021-22,div1,Ranger,rangercollege,danieldelacruznew4,Daniel De La Cruz
+Apr 27,home,Spartan Post Grad Academy,W,2-0,2,0,2.0,win,,,,,,,,,,,,,,,,,,,,,,,2022,2021-22,div1,Ranger,rangercollege,danieldelacruznew4,Daniel De La Cruz
+Apr 27,home,Spartan Post Grad Academy,W,13-1,13,1,12.0,win,,,,,,,,,,,,,,,,,,,,,,,2022,2021-22,div1,Ranger,rangercollege,danieldelacruznew4,Daniel De La Cruz
+May 4,home,Hill,W,5-1,5,1,4.0,win,,,,,,,,,,,,,,,,,,,,,,,2022,2021-22,div1,Ranger,rangercollege,danieldelacruznew4,Daniel De La Cruz
+May 4,home,Hill,W,10-2,10,2,8.0,win,,,,,,,,,,,,,,,,,,,,,,,2022,2021-22,div1,Ranger,rangercollege,danieldelacruznew4,Daniel De La Cruz
+May 7,home,Hill,W,7-2,7,2,5.0,win,,,,,,,,,,,,,,,,,,,,,,,2022,2021-22,div1,Ranger,rangercollege,danieldelacruznew4,Daniel De La Cruz
+May 7,home,Hill,L,17-11,17,11,6.0,win,,,,,,,,,,,,,,,,,,,,,,,2022,2021-22,div1,Ranger,rangercollege,danieldelacruznew4,Daniel De La Cruz
+May 12,home,Region V Baseball Championships,,,,,6.0,win,,,,,,,,,,,,,,,,,,,,,,,2022,2021-22,div1,Ranger,rangercollege,danieldelacruznew4,Daniel De La Cruz
+May 13,home,Region V Baseball Championships,L,2-0,2,0,2.0,win,,,,,,,,,,,,,,,,,,,,,,,2022,2021-22,div1,Ranger,rangercollege,danieldelacruznew4,Daniel De La Cruz
+May 13,home,Midland,L,2-0,2,0,2.0,win,,,,,,,,,,,,,,,,,,,,,,,2022,2021-22,div1,Ranger,rangercollege,danieldelacruznew4,Daniel De La Cruz
+May 14,home,Howard (TX),L,8-4,8,4,4.0,win,,,,,,,,,,,,,,,,,,,,,,,2022,2021-22,div1,Ranger,rangercollege,danieldelacruznew4,Daniel De La Cruz

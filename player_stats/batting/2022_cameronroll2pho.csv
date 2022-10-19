@@ -1,25 +1,50 @@
-date,location,opponent,result,score,team_score,opp_score,game_score_diff_x,game_win_loss_x,game_id_x,AB,R,H,2B,3B,HR,RBI,BB,K,SB,CS,game_score_diff_y,game_win_loss_y,game_id_y,HBP,SF,SH,TB,XBH,HDP,GO,FO,GO/FO,PA,season,njcaa_season,njcaa_division,team,team_id,player_id,player_name
-Mar 4,home,Dawson,W,5-3,5,3,2.0,win,20220304_40ip,3,2,1,,,,1,,,2,,2.0,win,20220304_40ip,1,,,1,0,,,,,4,2022,2021-22,div1,St. Charles,stcharlescommunitycollege,cameronroll2pho,Cameron Roll
-Mar 4,home,Dawson,L,8-4,8,4,4.0,win,20220304_o09t,4,0,2,,,,0,,2,2,,4.0,win,20220304_o09t,,,,2,0,,,,,4,2022,2021-22,div1,St. Charles,stcharlescommunitycollege,cameronroll2pho,Cameron Roll
-Mar 5,home,Elgin,W,11-1,11,1,10.0,win,20220305_0nxt,2,1,0,,,,0,,2,2,,10.0,win,20220305_0nxt,2,,,0,0,,,,,4,2022,2021-22,div1,St. Charles,stcharlescommunitycollege,cameronroll2pho,Cameron Roll
-Mar 6,home,Elgin,W,15-7,15,7,8.0,win,20220306_304m,4,2,1,,,,0,1,,1,,8.0,win,20220306_304m,,,,1,0,,,,,5,2022,2021-22,div1,St. Charles,stcharlescommunitycollege,cameronroll2pho,Cameron Roll
-Mar 6,home,Elgin,L,6-2,6,2,4.0,win,,,,,,,,,,,,,4.0,win,,,,,,,,,,,,2022,2021-22,div1,St. Charles,stcharlescommunitycollege,cameronroll2pho,Cameron Roll
-Mar 13,home,State Fair,L,7-6,7,6,1.0,win,20220313_cwcg,2,0,1,,,,1,1,1,1,,1.0,win,20220313_cwcg,,,,1,0,,,,,3,2022,2021-22,div1,St. Charles,stcharlescommunitycollege,cameronroll2pho,Cameron Roll
-Mar 13,home,State Fair,W,17-1,17,1,16.0,win,20220313_gfwy,2,0,1,,,,2,,1,,,16.0,win,20220313_gfwy,,1,,1,0,,,,,3,2022,2021-22,div1,St. Charles,stcharlescommunitycollege,cameronroll2pho,Cameron Roll
-Mar 19,home,Metropolitan,W,9-7,9,7,2.0,win,20220319_s2zu,2,1,2,,,,0,,1,1,,2.0,win,20220319_s2zu,,,,2,0,,,,,2,2022,2021-22,div1,St. Charles,stcharlescommunitycollege,cameronroll2pho,Cameron Roll
-Mar 19,home,Metropolitan,W,14-11,14,11,3.0,win,20220319_n94x,3,2,2,,,,1,,,1,,3.0,win,20220319_n94x,,,,2,0,,,,,3,2022,2021-22,div1,St. Charles,stcharlescommunitycollege,cameronroll2pho,Cameron Roll
-Mar 26,home,Mineral Area,W,26-6,26,6,20.0,win,20220326_qvqi,1,1,1,,,,1,,,,,20.0,win,20220326_qvqi,,,,1,0,,,,,1,2022,2021-22,div1,St. Charles,stcharlescommunitycollege,cameronroll2pho,Cameron Roll
-Mar 26,home,Mineral Area,W,10-8,10,8,2.0,win,20220326_cni3,4,1,2,,,,0,1,1,,,2.0,win,20220326_cni3,,,,2,0,,,,,5,2022,2021-22,div1,St. Charles,stcharlescommunitycollege,cameronroll2pho,Cameron Roll
-Mar 29,home,Illinois Central,L,13-11,13,11,2.0,win,20220329_gd2w,4,1,1,,,,2,1,,2,,2.0,win,20220329_gd2w,,,,1,0,,,,,5,2022,2021-22,div1,St. Charles,stcharlescommunitycollege,cameronroll2pho,Cameron Roll
-Apr 1,home,Jefferson (MO),W,16-9,16,9,7.0,win,20220401_62sw,3,2,1,,,,1,1,,,,7.0,win,20220401_62sw,,,,1,0,,,,,4,2022,2021-22,div1,St. Charles,stcharlescommunitycollege,cameronroll2pho,Cameron Roll
-Apr 1,home,Jefferson (MO),L,3-2,3,2,1.0,win,20220401_hs9r,4,0,1,,,,0,,,,,1.0,win,20220401_hs9r,,,,1,0,,,,,4,2022,2021-22,div1,St. Charles,stcharlescommunitycollege,cameronroll2pho,Cameron Roll
-Apr 9,home,Three Rivers,L,29-19,29,19,10.0,win,20220409_qq3d,3,3,2,,,,2,3,1,2,,10.0,win,20220409_qq3d,1,,,2,0,,,,,7,2022,2021-22,div1,St. Charles,stcharlescommunitycollege,cameronroll2pho,Cameron Roll
-Apr 12,home,Webster University JV,W,12-1,12,1,11.0,win,,,,,,,,,,,,,11.0,win,,,,,,,,,,,,2022,2021-22,div1,St. Charles,stcharlescommunitycollege,cameronroll2pho,Cameron Roll
-Apr 19,home,East Central (MO),W,12-1,12,1,11.0,win,,,,,,,,,,,,,11.0,win,,,,,,,,,,,,2022,2021-22,div1,St. Charles,stcharlescommunitycollege,cameronroll2pho,Cameron Roll
-Apr 19,home,East Central (MO),W,11-1,11,1,10.0,win,,,,,,,,,,,,,10.0,win,,,,,,,,,,,,2022,2021-22,div1,St. Charles,stcharlescommunitycollege,cameronroll2pho,Cameron Roll
-Apr 21,home,St. Louis,W,8-1,8,1,7.0,win,,,,,,,,,,,,,7.0,win,,,,,,,,,,,,2022,2021-22,div1,St. Charles,stcharlescommunitycollege,cameronroll2pho,Cameron Roll
-Apr 21,home,St. Louis,W,3-2,3,2,1.0,win,,,,,,,,,,,,,1.0,win,,,,,,,,,,,,2022,2021-22,div1,St. Charles,stcharlescommunitycollege,cameronroll2pho,Cameron Roll
-Apr 26,home,Fontbonne University,W,12-2,12,2,10.0,win,,,,,,,,,,,,,10.0,win,,,,,,,,,,,,2022,2021-22,div1,St. Charles,stcharlescommunitycollege,cameronroll2pho,Cameron Roll
-Apr 26,home,Fontbonne University,W,14-3,14,3,11.0,win,,,,,,,,,,,,,11.0,win,,,,,,,,,,,,2022,2021-22,div1,St. Charles,stcharlescommunitycollege,cameronroll2pho,Cameron Roll
-Apr 30,home,Three Rivers,W,14-6,14,6,8.0,win,,,,,,,,,,,,,8.0,win,,,,,,,,,,,,2022,2021-22,div1,St. Charles,stcharlescommunitycollege,cameronroll2pho,Cameron Roll
-May 7,home,State Fair,W,2-1,2,1,1.0,win,,,,,,,,,,,,,1.0,win,,,,,,,,,,,,2022,2021-22,div1,St. Charles,stcharlescommunitycollege,cameronroll2pho,Cameron Roll
+date,location,opponent,result,score,team_score,opp_score,game_score_diff,game_win_loss,game_id,AB,R,H,2B,3B,HR,RBI,BB,K,SB,CS,HBP,SF,SH,TB,XBH,HDP,GO,FO,GO/FO,PA,season,njcaa_season,njcaa_division,team,team_id,player_id,player_name
+Feb 18,home,Olney Central,W,6-3,6,3,3.0,win,20220218_3qe7,1,0,0,,,,0,,1,,,,,,0,0,,,,,1,2022,2021-22,div1,St. Charles,stcharlescommunitycollege,cameronroll2pho,Cameron Roll
+Feb 18,home,Heartland,W,7-6,7,6,1.0,win,20220218_1ocb,0,1,0,,,,0,,,,,,,,0,0,,,,,0,2022,2021-22,div1,St. Charles,stcharlescommunitycollege,cameronroll2pho,Cameron Roll
+Feb 19,home,East Mississippi,L,7-3,7,3,4.0,win,,,,,,,,,,,,,,,,,,,,,,,2022,2021-22,div1,St. Charles,stcharlescommunitycollege,cameronroll2pho,Cameron Roll
+Feb 19,home,Wabash Valley,L,10-4,10,4,6.0,win,20220219_ao12,1,0,0,,,,1,,,,,,,,0,0,,,,,1,2022,2021-22,div1,St. Charles,stcharlescommunitycollege,cameronroll2pho,Cameron Roll
+Mar 1,home,Webster University JV,W,4-0,4,0,4.0,win,,,,,,,,,,,,,,,,,,,,,,,2022,2021-22,div1,St. Charles,stcharlescommunitycollege,cameronroll2pho,Cameron Roll
+Mar 1,home,Webster University JV,W,10-6,10,6,4.0,win,20220301_hi4f,2,1,1,,,,1,2,,,,,,,1,0,,,,,4,2022,2021-22,div1,St. Charles,stcharlescommunitycollege,cameronroll2pho,Cameron Roll
+Mar 4,home,Dawson,W,5-3,5,3,2.0,win,20220304_40ip,3,2,1,,,,1,,,2,,1,,,1,0,,,,,4,2022,2021-22,div1,St. Charles,stcharlescommunitycollege,cameronroll2pho,Cameron Roll
+Mar 4,home,Dawson,L,8-4,8,4,4.0,win,20220304_o09t,4,0,2,,,,0,,2,2,,,,,2,0,,,,,4,2022,2021-22,div1,St. Charles,stcharlescommunitycollege,cameronroll2pho,Cameron Roll
+Mar 5,home,Elgin,W,11-1,11,1,10.0,win,20220305_0nxt,2,1,0,,,,0,,2,2,,2,,,0,0,,,,,4,2022,2021-22,div1,St. Charles,stcharlescommunitycollege,cameronroll2pho,Cameron Roll
+Mar 6,home,Elgin,W,15-7,15,7,8.0,win,20220306_304m,4,2,1,,,,0,1,,1,,,,,1,0,,,,,5,2022,2021-22,div1,St. Charles,stcharlescommunitycollege,cameronroll2pho,Cameron Roll
+Mar 6,home,Elgin,L,6-2,6,2,4.0,win,,,,,,,,,,,,,,,,,,,,,,,2022,2021-22,div1,St. Charles,stcharlescommunitycollege,cameronroll2pho,Cameron Roll
+Mar 13,home,State Fair,L,7-6,7,6,1.0,win,20220313_cwcg,2,0,1,,,,1,1,1,1,,,,,1,0,,,,,3,2022,2021-22,div1,St. Charles,stcharlescommunitycollege,cameronroll2pho,Cameron Roll
+Mar 13,home,State Fair,W,17-1,17,1,16.0,win,20220313_gfwy,2,0,1,,,,2,,1,,,,1,,1,0,,,,,3,2022,2021-22,div1,St. Charles,stcharlescommunitycollege,cameronroll2pho,Cameron Roll
+Mar 15,home,Kaskaskia,W,18-3,18,3,15.0,win,20220315_78o4,0,2,0,,,,1,2,,,,,,,0,0,,,,,2,2022,2021-22,div1,St. Charles,stcharlescommunitycollege,cameronroll2pho,Cameron Roll
+Mar 15,home,Kaskaskia,W,12-1,12,1,11.0,win,,,,,,,,,,,,,,,,,,,,,,,2022,2021-22,div1,St. Charles,stcharlescommunitycollege,cameronroll2pho,Cameron Roll
+Mar 17,home,Metropolitan,W,10-6,10,6,4.0,win,20220317_2vs6,3,2,2,1,,,1,,,,,,,,3,1,,,,,3,2022,2021-22,div1,St. Charles,stcharlescommunitycollege,cameronroll2pho,Cameron Roll
+Mar 17,home,Metropolitan,W,12-4,12,4,8.0,win,20220317_s55o,1,2,1,,,,0,,,2,,,,,1,0,,,,,1,2022,2021-22,div1,St. Charles,stcharlescommunitycollege,cameronroll2pho,Cameron Roll
+Mar 19,home,Metropolitan,W,9-7,9,7,2.0,win,20220319_s2zu,2,1,2,,,,0,,1,1,,,,,2,0,,,,,2,2022,2021-22,div1,St. Charles,stcharlescommunitycollege,cameronroll2pho,Cameron Roll
+Mar 19,home,Metropolitan,W,14-11,14,11,3.0,win,20220319_n94x,3,2,2,,,,1,,,1,,,,,2,0,,,,,3,2022,2021-22,div1,St. Charles,stcharlescommunitycollege,cameronroll2pho,Cameron Roll
+Mar 25,home,Mineral Area,W,21-5,21,5,16.0,win,,,,,,,,,,,,,,,,,,,,,,,2022,2021-22,div1,St. Charles,stcharlescommunitycollege,cameronroll2pho,Cameron Roll
+Mar 25,home,Mineral Area,L,9-0,9,0,9.0,win,,,,,,,,,,,,,,,,,,,,,,,2022,2021-22,div1,St. Charles,stcharlescommunitycollege,cameronroll2pho,Cameron Roll
+Mar 26,home,Mineral Area,W,26-6,26,6,20.0,win,20220326_qvqi,1,1,1,,,,1,,,,,,,,1,0,,,,,1,2022,2021-22,div1,St. Charles,stcharlescommunitycollege,cameronroll2pho,Cameron Roll
+Mar 26,home,Mineral Area,W,10-8,10,8,2.0,win,20220326_cni3,4,1,2,,,,0,1,1,,,,,,2,0,,,,,5,2022,2021-22,div1,St. Charles,stcharlescommunitycollege,cameronroll2pho,Cameron Roll
+Mar 29,home,Illinois Central,L,13-11,13,11,2.0,win,20220329_gd2w,4,1,1,,,,2,1,,2,,,,,1,0,,,,,5,2022,2021-22,div1,St. Charles,stcharlescommunitycollege,cameronroll2pho,Cameron Roll
+Apr 1,home,Jefferson (MO),W,16-9,16,9,7.0,win,20220401_62sw,3,2,1,,,,1,1,,,,,,,1,0,,,,,4,2022,2021-22,div1,St. Charles,stcharlescommunitycollege,cameronroll2pho,Cameron Roll
+Apr 1,home,Jefferson (MO),L,3-2,3,2,1.0,win,20220401_hs9r,4,0,1,,,,0,,,,,,,,1,0,,,,,4,2022,2021-22,div1,St. Charles,stcharlescommunitycollege,cameronroll2pho,Cameron Roll
+Apr 2,home,Jefferson (MO),L,12-2,12,2,10.0,win,20220402_d87h,3,0,0,,,,0,,2,,,,,,0,0,,,,,3,2022,2021-22,div1,St. Charles,stcharlescommunitycollege,cameronroll2pho,Cameron Roll
+Apr 2,home,Jefferson (MO),L,8-0,8,0,8.0,win,,,,,,,,,,,,,,,,,,,,,,,2022,2021-22,div1,St. Charles,stcharlescommunitycollege,cameronroll2pho,Cameron Roll
+Apr 7,home,Three Rivers,W,12-7,12,7,5.0,win,20220407_a4ae,5,2,2,,,,2,,1,,,,,,2,0,,,,,5,2022,2021-22,div1,St. Charles,stcharlescommunitycollege,cameronroll2pho,Cameron Roll
+Apr 7,home,Three Rivers,L,10-2,10,2,8.0,win,20220407_1465,4,1,2,,,,0,,1,,,,,,2,0,,,,,4,2022,2021-22,div1,St. Charles,stcharlescommunitycollege,cameronroll2pho,Cameron Roll
+Apr 9,home,Three Rivers,L,29-19,29,19,10.0,win,20220409_qq3d,3,3,2,,,,2,3,1,2,,1,,,2,0,,,,,7,2022,2021-22,div1,St. Charles,stcharlescommunitycollege,cameronroll2pho,Cameron Roll
+Apr 12,home,Webster University JV,W,12-1,12,1,11.0,win,,,,,,,,,,,,,,,,,,,,,,,2022,2021-22,div1,St. Charles,stcharlescommunitycollege,cameronroll2pho,Cameron Roll
+Apr 14,home,Crowder,L,15-2,15,2,13.0,win,20220414_118z,2,0,0,,,,0,,1,,,,,,0,0,,,,,2,2022,2021-22,div1,St. Charles,stcharlescommunitycollege,cameronroll2pho,Cameron Roll
+Apr 15,home,Crowder,L,9-6,9,6,3.0,win,20220415_8mie,1,0,0,,,,0,,1,,,,,,0,0,,,,,1,2022,2021-22,div1,St. Charles,stcharlescommunitycollege,cameronroll2pho,Cameron Roll
+Apr 15,home,Crowder,L,4-2,4,2,2.0,win,,,,,,,,,,,,,,,,,,,,,,,2022,2021-22,div1,St. Charles,stcharlescommunitycollege,cameronroll2pho,Cameron Roll
+Apr 16,home,Crowder,L,9-1,9,1,8.0,win,20220416_cq72,1,1,1,,,,0,2,,,,,,,1,0,,,,,3,2022,2021-22,div1,St. Charles,stcharlescommunitycollege,cameronroll2pho,Cameron Roll
+Apr 19,home,East Central (MO),W,12-1,12,1,11.0,win,,,,,,,,,,,,,,,,,,,,,,,2022,2021-22,div1,St. Charles,stcharlescommunitycollege,cameronroll2pho,Cameron Roll
+Apr 19,home,East Central (MO),W,11-1,11,1,10.0,win,,,,,,,,,,,,,,,,,,,,,,,2022,2021-22,div1,St. Charles,stcharlescommunitycollege,cameronroll2pho,Cameron Roll
+Apr 21,home,St. Louis,W,8-1,8,1,7.0,win,,,,,,,,,,,,,,,,,,,,,,,2022,2021-22,div1,St. Charles,stcharlescommunitycollege,cameronroll2pho,Cameron Roll
+Apr 21,home,St. Louis,W,3-2,3,2,1.0,win,,,,,,,,,,,,,,,,,,,,,,,2022,2021-22,div1,St. Charles,stcharlescommunitycollege,cameronroll2pho,Cameron Roll
+Apr 23,home,St. Louis,W,6-5,6,5,1.0,win,,,,,,,,,,,,,,,,,,,,,,,2022,2021-22,div1,St. Charles,stcharlescommunitycollege,cameronroll2pho,Cameron Roll
+Apr 23,home,St. Louis,L,3-2,3,2,1.0,win,,,,,,,,,,,,,,,,,,,,,,,2022,2021-22,div1,St. Charles,stcharlescommunitycollege,cameronroll2pho,Cameron Roll
+Apr 26,home,Fontbonne University,W,12-2,12,2,10.0,win,,,,,,,,,,,,,,,,,,,,,,,2022,2021-22,div1,St. Charles,stcharlescommunitycollege,cameronroll2pho,Cameron Roll
+Apr 26,home,Fontbonne University,W,14-3,14,3,11.0,win,,,,,,,,,,,,,,,,,,,,,,,2022,2021-22,div1,St. Charles,stcharlescommunitycollege,cameronroll2pho,Cameron Roll
+Apr 30,home,Three Rivers,W,14-6,14,6,8.0,win,,,,,,,,,,,,,,,,,,,,,,,2022,2021-22,div1,St. Charles,stcharlescommunitycollege,cameronroll2pho,Cameron Roll
+May 7,home,State Fair,W,2-1,2,1,1.0,win,,,,,,,,,,,,,,,,,,,,,,,2022,2021-22,div1,St. Charles,stcharlescommunitycollege,cameronroll2pho,Cameron Roll
+May 7,home,State Fair,W,11-1,11,1,10.0,win,20220507_2cmx,3,0,2,,,,2,1,,1,,,,,2,0,,,,,4,2022,2021-22,div1,St. Charles,stcharlescommunitycollege,cameronroll2pho,Cameron Roll
+May 12,home,Crowder,L,13-8,13,8,5.0,win,20220512_45r3,1,0,0,,,,0,,,,,,,,0,0,,,,,1,2022,2021-22,div1,St. Charles,stcharlescommunitycollege,cameronroll2pho,Cameron Roll
+May 13,home,Mineral Area,L,4-3,4,3,1.0,win,20220513_5xbx,1,0,0,,,,0,,,,,,,,0,0,,,,,1,2022,2021-22,div1,St. Charles,stcharlescommunitycollege,cameronroll2pho,Cameron Roll
