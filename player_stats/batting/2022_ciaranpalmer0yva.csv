@@ -1,36 +1,67 @@
-date,location,opponent,result,score,team_score,opp_score,game_score_diff_x,game_win_loss_x,game_id_x,AB,R,H,2B,3B,HR,RBI,BB,K,SB,CS,game_score_diff_y,game_win_loss_y,game_id_y,HBP,SF,SH,TB,XBH,HDP,GO,FO,GO/FO,PA,season,njcaa_season,njcaa_division,team,team_id,player_id,player_name
-Feb 5,home,Dallas College - Eastfield,,,,,9.0,win,,,,,,,,,,,,,9.0,win,,,,,,,,,,,,2022,2021-22,div1,Ranger,rangercollege,ciaranpalmer0yva,Ciaran Palmer
-Feb 5,home,Dallas College - Eastfield,,,,,9.0,win,,,,,,,,,,,,,9.0,win,,,,,,,,,,,,2022,2021-22,div1,Ranger,rangercollege,ciaranpalmer0yva,Ciaran Palmer
-Feb 5,home,Dallas College - Eastfield,,,,,9.0,win,,,,,,,,,,,,,9.0,win,,,,,,,,,,,,2022,2021-22,div1,Ranger,rangercollege,ciaranpalmer0yva,Ciaran Palmer
-Feb 5,home,Dallas College - Eastfield,,,,,9.0,win,,,,,,,,,,,,,9.0,win,,,,,,,,,,,,2022,2021-22,div1,Ranger,rangercollege,ciaranpalmer0yva,Ciaran Palmer
-Feb 6,home,Western Texas,L,13-3,13,3,10.0,win,20220206_9xuc,2,0,0,,,,0,1,1,,,10.0,win,20220206_9xuc,,,,0,0,,,,,3,2022,2021-22,div1,Ranger,rangercollege,ciaranpalmer0yva,Ciaran Palmer
-Feb 11,home,Odessa,L,7-6,7,6,1.0,win,20220211_xzzx,2,0,0,,,,0,2,1,,,1.0,win,20220211_xzzx,,,,0,0,,,,,4,2022,2021-22,div1,Ranger,rangercollege,ciaranpalmer0yva,Ciaran Palmer
-Feb 11,home,Odessa,W,6-5,6,5,1.0,win,,,,,,,,,,,,,1.0,win,,,,,,,,,,,,2022,2021-22,div1,Ranger,rangercollege,ciaranpalmer0yva,Ciaran Palmer
-Feb 12,home,Midland,L,4-3,4,3,1.0,win,,,,,,,,,,,,,1.0,win,,,,,,,,,,,,2022,2021-22,div1,Ranger,rangercollege,ciaranpalmer0yva,Ciaran Palmer
-Feb 12,home,Midland,W,5-2,5,2,3.0,win,20220212_z81h,4,0,1,,,,1,,3,,,3.0,win,20220212_z81h,,,,1,0,,,,,4,2022,2021-22,div1,Ranger,rangercollege,ciaranpalmer0yva,Ciaran Palmer
-Feb 18,home,Frank Phillips,W,9-3,9,3,6.0,win,20220218_cd47,3,0,1,,,,0,1,1,1,,6.0,win,20220218_cd47,,,,1,0,,,,,4,2022,2021-22,div1,Ranger,rangercollege,ciaranpalmer0yva,Ciaran Palmer
-Feb 18,home,Frank Phillips,W,10-8,10,8,2.0,win,20220218_wj93,3,2,1,,,,1,2,,,,2.0,win,20220218_wj93,,,,1,0,,,,,5,2022,2021-22,div1,Ranger,rangercollege,ciaranpalmer0yva,Ciaran Palmer
-Feb 19,home,Frank Phillips,L,11-3,11,3,8.0,win,,,,,,,,,,,,,8.0,win,,,,,,,,,,,,2022,2021-22,div1,Ranger,rangercollege,ciaranpalmer0yva,Ciaran Palmer
-Feb 19,home,Frank Phillips,W,11-9,11,9,2.0,win,,,,,,,,,,,,,2.0,win,,,,,,,,,,,,2022,2021-22,div1,Ranger,rangercollege,ciaranpalmer0yva,Ciaran Palmer
-Feb 27,home,Western Texas,W,5-4,5,4,1.0,win,,,,,,,,,,,,,1.0,win,,,,,,,,,,,,2022,2021-22,div1,Ranger,rangercollege,ciaranpalmer0yva,Ciaran Palmer
-Feb 27,home,Western Texas,L,10-0,10,0,10.0,win,20220227_x6oa,0,0,0,,,,0,,,,,10.0,win,20220227_x6oa,,,,0,0,,,,,0,2022,2021-22,div1,Ranger,rangercollege,ciaranpalmer0yva,Ciaran Palmer
-Mar 5,home,DFW Post Grad,W,12-3,12,3,9.0,win,,,,,,,,,,,,,9.0,win,,,,,,,,,,,,2022,2021-22,div1,Ranger,rangercollege,ciaranpalmer0yva,Ciaran Palmer
-Mar 5,home,DFW Post Grad,W,13-3,13,3,10.0,win,,,,,,,,,,,,,10.0,win,,,,,,,,,,,,2022,2021-22,div1,Ranger,rangercollege,ciaranpalmer0yva,Ciaran Palmer
-Mar 12,home,McLennan,L,13-0,13,0,13.0,win,20220312_p1am,1,0,0,,,,0,,1,,,13.0,win,20220312_p1am,,,,0,0,,,,,1,2022,2021-22,div1,Ranger,rangercollege,ciaranpalmer0yva,Ciaran Palmer
-Mar 12,home,McLennan,L,10-1,10,1,9.0,win,,,,,,,,,,,,,9.0,win,,,,,,,,,,,,2022,2021-22,div1,Ranger,rangercollege,ciaranpalmer0yva,Ciaran Palmer
-Mar 19,home,Weatherford,L,14-0,14,0,14.0,win,,,,,,,,,,,,,14.0,win,,,,,,,,,,,,2022,2021-22,div1,Ranger,rangercollege,ciaranpalmer0yva,Ciaran Palmer
-Mar 19,home,Weatherford,W,8-6,8,6,2.0,win,,,,,,,,,,,,,2.0,win,,,,,,,,,,,,2022,2021-22,div1,Ranger,rangercollege,ciaranpalmer0yva,Ciaran Palmer
-Mar 23,home,Vernon,W,14-4,14,4,10.0,win,,,,,,,,,,,,,10.0,win,,,,,,,,,,,,2022,2021-22,div1,Ranger,rangercollege,ciaranpalmer0yva,Ciaran Palmer
-Mar 23,home,Vernon,W,7-6,7,6,1.0,win,,,,,,,,,,,,,1.0,win,,,,,,,,,,,,2022,2021-22,div1,Ranger,rangercollege,ciaranpalmer0yva,Ciaran Palmer
-Mar 31,home,North Central Texas,W,4-3,4,3,1.0,win,,,,,,,,,,,,,1.0,win,,,,,,,,,,,,2022,2021-22,div1,Ranger,rangercollege,ciaranpalmer0yva,Ciaran Palmer
-Mar 31,home,North Central Texas,W,10-1,10,1,9.0,win,,,,,,,,,,,,,9.0,win,,,,,,,,,,,,2022,2021-22,div1,Ranger,rangercollege,ciaranpalmer0yva,Ciaran Palmer
-Apr 6,home,Temple,W,6-0,6,0,6.0,win,,,,,,,,,,,,,6.0,win,,,,,,,,,,,,2022,2021-22,div1,Ranger,rangercollege,ciaranpalmer0yva,Ciaran Palmer
-Apr 6,home,Temple,W,4-1,4,1,3.0,win,,,,,,,,,,,,,3.0,win,,,,,,,,,,,,2022,2021-22,div1,Ranger,rangercollege,ciaranpalmer0yva,Ciaran Palmer
-Apr 13,home,Cisco,W,1-0,1,0,1.0,win,,,,,,,,,,,,,1.0,win,,,,,,,,,,,,2022,2021-22,div1,Ranger,rangercollege,ciaranpalmer0yva,Ciaran Palmer
-Apr 13,home,Cisco,W,10-1,10,1,9.0,win,,,,,,,,,,,,,9.0,win,,,,,,,,,,,,2022,2021-22,div1,Ranger,rangercollege,ciaranpalmer0yva,Ciaran Palmer
-Apr 23,home,Grayson,L,6-5,6,5,1.0,win,20220423_6kb5,3,1,2,,,1,2,,1,,,1.0,win,20220423_6kb5,1,,,5,1,,,,,4,2022,2021-22,div1,Ranger,rangercollege,ciaranpalmer0yva,Ciaran Palmer
-Apr 23,home,Grayson,L,7-2,7,2,5.0,win,,,,,,,,,,,,,5.0,win,,,,,,,,,,,,2022,2021-22,div1,Ranger,rangercollege,ciaranpalmer0yva,Ciaran Palmer
-Apr 27,home,Spartan Post Grad Academy,W,2-0,2,0,2.0,win,,,,,,,,,,,,,2.0,win,,,,,,,,,,,,2022,2021-22,div1,Ranger,rangercollege,ciaranpalmer0yva,Ciaran Palmer
-Apr 27,home,Spartan Post Grad Academy,W,13-1,13,1,12.0,win,20220427_4u8v,2,2,2,,1,,1,1,,1,,12.0,win,20220427_4u8v,,,,4,1,,,,,3,2022,2021-22,div1,Ranger,rangercollege,ciaranpalmer0yva,Ciaran Palmer
-May 7,home,Hill,W,7-2,7,2,5.0,win,,,,,,,,,,,,,5.0,win,,,,,,,,,,,,2022,2021-22,div1,Ranger,rangercollege,ciaranpalmer0yva,Ciaran Palmer
-May 7,home,Hill,L,17-11,17,11,6.0,win,20220507_ho7w,5,2,3,,,2,3,,,,,6.0,win,20220507_ho7w,1,,,9,2,,,,,6,2022,2021-22,div1,Ranger,rangercollege,ciaranpalmer0yva,Ciaran Palmer
+date,location,opponent,result,score,team_score,opp_score,game_score_diff,game_win_loss,game_id,AB,R,H,2B,3B,HR,RBI,BB,K,SB,CS,HBP,SF,SH,TB,XBH,HDP,GO,FO,GO/FO,PA,season,njcaa_season,njcaa_division,team,team_id,player_id,player_name
+Jan 28,home,Pasco-Hernando State,W,6-3,6,3,3.0,win,20220128_47xq,4,0,2,,,,0,,1,,,1,,,2,0,,,,,5,2022,2021-22,div1,Ranger,rangercollege,ciaranpalmer0yva,Ciaran Palmer
+Jan 29,home,State College of Florida,L,14-3,14,3,11.0,win,20220129_3hts,3,0,0,,,,0,1,1,,,,,,0,0,,,,,4,2022,2021-22,div1,Ranger,rangercollege,ciaranpalmer0yva,Ciaran Palmer
+Jan 30,home,Hillsborough,L,11-2,11,2,9.0,win,20220130_bdbz,4,0,1,,,,1,,1,,,,,,1,0,,,,,4,2022,2021-22,div1,Ranger,rangercollege,ciaranpalmer0yva,Ciaran Palmer
+Feb 2,home,Dallas College - Eastfield,,,,,9.0,win,,,,,,,,,,,,,,,,,,,,,,,2022,2021-22,div1,Ranger,rangercollege,ciaranpalmer0yva,Ciaran Palmer
+Feb 5,home,Dallas College - Eastfield,,,,,9.0,win,,,,,,,,,,,,,,,,,,,,,,,2022,2021-22,div1,Ranger,rangercollege,ciaranpalmer0yva,Ciaran Palmer
+Feb 5,home,Dallas College - Eastfield,,,,,9.0,win,,,,,,,,,,,,,,,,,,,,,,,2022,2021-22,div1,Ranger,rangercollege,ciaranpalmer0yva,Ciaran Palmer
+Feb 5,home,Dallas College - Eastfield,,,,,9.0,win,,,,,,,,,,,,,,,,,,,,,,,2022,2021-22,div1,Ranger,rangercollege,ciaranpalmer0yva,Ciaran Palmer
+Feb 5,home,Dallas College - Eastfield,,,,,9.0,win,,,,,,,,,,,,,,,,,,,,,,,2022,2021-22,div1,Ranger,rangercollege,ciaranpalmer0yva,Ciaran Palmer
+Feb 5,home,Galveston,W,16-2,16,2,14.0,win,20220205_hb3d,2,3,1,1,,,0,2,,,,,,,2,1,,,,,4,2022,2021-22,div1,Ranger,rangercollege,ciaranpalmer0yva,Ciaran Palmer
+Feb 6,home,Western Texas,L,13-3,13,3,10.0,win,20220206_9xuc,2,0,0,,,,0,1,1,,,,,,0,0,,,,,3,2022,2021-22,div1,Ranger,rangercollege,ciaranpalmer0yva,Ciaran Palmer
+Feb 6,home,Coastal Bend,W,4-2,4,2,2.0,win,20220206_pmp2,2,0,0,,,,0,,1,,,1,,,0,0,,,,,3,2022,2021-22,div1,Ranger,rangercollege,ciaranpalmer0yva,Ciaran Palmer
+Feb 11,home,Odessa,L,7-6,7,6,1.0,win,20220211_xzzx,2,0,0,,,,0,2,1,,,,,,0,0,,,,,4,2022,2021-22,div1,Ranger,rangercollege,ciaranpalmer0yva,Ciaran Palmer
+Feb 11,home,Odessa,W,6-5,6,5,1.0,win,,,,,,,,,,,,,,,,,,,,,,,2022,2021-22,div1,Ranger,rangercollege,ciaranpalmer0yva,Ciaran Palmer
+Feb 12,home,Midland,L,4-3,4,3,1.0,win,,,,,,,,,,,,,,,,,,,,,,,2022,2021-22,div1,Ranger,rangercollege,ciaranpalmer0yva,Ciaran Palmer
+Feb 12,home,Midland,W,5-2,5,2,3.0,win,20220212_z81h,4,0,1,,,,1,,3,,,,,,1,0,,,,,4,2022,2021-22,div1,Ranger,rangercollege,ciaranpalmer0yva,Ciaran Palmer
+Feb 18,home,Frank Phillips,W,9-3,9,3,6.0,win,20220218_cd47,3,0,1,,,,0,1,1,1,,,,,1,0,,,,,4,2022,2021-22,div1,Ranger,rangercollege,ciaranpalmer0yva,Ciaran Palmer
+Feb 18,home,Frank Phillips,W,10-8,10,8,2.0,win,20220218_wj93,3,2,1,,,,1,2,,,,,,,1,0,,,,,5,2022,2021-22,div1,Ranger,rangercollege,ciaranpalmer0yva,Ciaran Palmer
+Feb 19,home,Frank Phillips,L,11-3,11,3,8.0,win,,,,,,,,,,,,,,,,,,,,,,,2022,2021-22,div1,Ranger,rangercollege,ciaranpalmer0yva,Ciaran Palmer
+Feb 19,home,Frank Phillips,W,11-9,11,9,2.0,win,,,,,,,,,,,,,,,,,,,,,,,2022,2021-22,div1,Ranger,rangercollege,ciaranpalmer0yva,Ciaran Palmer
+Feb 23,home,Western Texas,,,,,2.0,win,,,,,,,,,,,,,,,,,,,,,,,2022,2021-22,div1,Ranger,rangercollege,ciaranpalmer0yva,Ciaran Palmer
+Feb 27,home,Western Texas,W,5-4,5,4,1.0,win,,,,,,,,,,,,,,,,,,,,,,,2022,2021-22,div1,Ranger,rangercollege,ciaranpalmer0yva,Ciaran Palmer
+Feb 27,home,Western Texas,L,10-0,10,0,10.0,win,20220227_x6oa,0,0,0,,,,0,,,,,,,,0,0,,,,,0,2022,2021-22,div1,Ranger,rangercollege,ciaranpalmer0yva,Ciaran Palmer
+Mar 2,home,Clarendon,W,12-10,12,10,2.0,win,,,,,,,,,,,,,,,,,,,,,,,2022,2021-22,div1,Ranger,rangercollege,ciaranpalmer0yva,Ciaran Palmer
+Mar 2,home,Clarendon,W,21-11,21,11,10.0,win,20220302_zzmz,3,0,0,,,,0,,2,,,,,,0,0,,,,,3,2022,2021-22,div1,Ranger,rangercollege,ciaranpalmer0yva,Ciaran Palmer
+Mar 3,home,Clarendon,W,15-4,15,4,11.0,win,,,,,,,,,,,,,,,,,,,,,,,2022,2021-22,div1,Ranger,rangercollege,ciaranpalmer0yva,Ciaran Palmer
+Mar 5,home,DFW Post Grad,W,12-3,12,3,9.0,win,,,,,,,,,,,,,,,,,,,,,,,2022,2021-22,div1,Ranger,rangercollege,ciaranpalmer0yva,Ciaran Palmer
+Mar 5,home,DFW Post Grad,W,13-3,13,3,10.0,win,,,,,,,,,,,,,,,,,,,,,,,2022,2021-22,div1,Ranger,rangercollege,ciaranpalmer0yva,Ciaran Palmer
+Mar 9,home,McLennan,L,15-2,15,2,13.0,win,,,,,,,,,,,,,,,,,,,,,,,2022,2021-22,div1,Ranger,rangercollege,ciaranpalmer0yva,Ciaran Palmer
+Mar 9,home,McLennan,W,6-4,6,4,2.0,win,,,,,,,,,,,,,,,,,,,,,,,2022,2021-22,div1,Ranger,rangercollege,ciaranpalmer0yva,Ciaran Palmer
+Mar 12,home,McLennan,L,13-0,13,0,13.0,win,20220312_p1am,1,0,0,,,,0,,1,,,,,,0,0,,,,,1,2022,2021-22,div1,Ranger,rangercollege,ciaranpalmer0yva,Ciaran Palmer
+Mar 12,home,McLennan,L,10-1,10,1,9.0,win,,,,,,,,,,,,,,,,,,,,,,,2022,2021-22,div1,Ranger,rangercollege,ciaranpalmer0yva,Ciaran Palmer
+Mar 16,home,Weatherford,W,5-3,5,3,2.0,win,,,,,,,,,,,,,,,,,,,,,,,2022,2021-22,div1,Ranger,rangercollege,ciaranpalmer0yva,Ciaran Palmer
+Mar 16,home,Weatherford,W,5-0,5,0,5.0,win,,,,,,,,,,,,,,,,,,,,,,,2022,2021-22,div1,Ranger,rangercollege,ciaranpalmer0yva,Ciaran Palmer
+Mar 19,home,Weatherford,L,14-0,14,0,14.0,win,,,,,,,,,,,,,,,,,,,,,,,2022,2021-22,div1,Ranger,rangercollege,ciaranpalmer0yva,Ciaran Palmer
+Mar 19,home,Weatherford,W,8-6,8,6,2.0,win,,,,,,,,,,,,,,,,,,,,,,,2022,2021-22,div1,Ranger,rangercollege,ciaranpalmer0yva,Ciaran Palmer
+Mar 23,home,Vernon,W,14-4,14,4,10.0,win,,,,,,,,,,,,,,,,,,,,,,,2022,2021-22,div1,Ranger,rangercollege,ciaranpalmer0yva,Ciaran Palmer
+Mar 23,home,Vernon,W,7-6,7,6,1.0,win,,,,,,,,,,,,,,,,,,,,,,,2022,2021-22,div1,Ranger,rangercollege,ciaranpalmer0yva,Ciaran Palmer
+Mar 26,home,Vernon,W,9-8,9,8,1.0,win,,,,,,,,,,,,,,,,,,,,,,,2022,2021-22,div1,Ranger,rangercollege,ciaranpalmer0yva,Ciaran Palmer
+Mar 26,home,Vernon,W,11-8,11,8,3.0,win,,,,,,,,,,,,,,,,,,,,,,,2022,2021-22,div1,Ranger,rangercollege,ciaranpalmer0yva,Ciaran Palmer
+Mar 31,home,North Central Texas,W,4-3,4,3,1.0,win,,,,,,,,,,,,,,,,,,,,,,,2022,2021-22,div1,Ranger,rangercollege,ciaranpalmer0yva,Ciaran Palmer
+Mar 31,home,North Central Texas,W,10-1,10,1,9.0,win,,,,,,,,,,,,,,,,,,,,,,,2022,2021-22,div1,Ranger,rangercollege,ciaranpalmer0yva,Ciaran Palmer
+Apr 2,home,North Central Texas,L,4-3,4,3,1.0,win,,,,,,,,,,,,,,,,,,,,,,,2022,2021-22,div1,Ranger,rangercollege,ciaranpalmer0yva,Ciaran Palmer
+Apr 2,home,North Central Texas,W,11-8,11,8,3.0,win,,,,,,,,,,,,,,,,,,,,,,,2022,2021-22,div1,Ranger,rangercollege,ciaranpalmer0yva,Ciaran Palmer
+Apr 4,home,Arlington Baptist,W,13-2,13,2,11.0,win,20220404_8qny,3,0,1,,,,0,1,1,,,,,,1,0,,,,,4,2022,2021-22,div1,Ranger,rangercollege,ciaranpalmer0yva,Ciaran Palmer
+Apr 6,home,Temple,W,6-0,6,0,6.0,win,,,,,,,,,,,,,,,,,,,,,,,2022,2021-22,div1,Ranger,rangercollege,ciaranpalmer0yva,Ciaran Palmer
+Apr 6,home,Temple,W,4-1,4,1,3.0,win,,,,,,,,,,,,,,,,,,,,,,,2022,2021-22,div1,Ranger,rangercollege,ciaranpalmer0yva,Ciaran Palmer
+Apr 9,home,Temple,L,3-2,3,2,1.0,win,,,,,,,,,,,,,,,,,,,,,,,2022,2021-22,div1,Ranger,rangercollege,ciaranpalmer0yva,Ciaran Palmer
+Apr 9,home,Temple,W,8-4,8,4,4.0,win,,,,,,,,,,,,,,,,,,,,,,,2022,2021-22,div1,Ranger,rangercollege,ciaranpalmer0yva,Ciaran Palmer
+Apr 13,home,Cisco,W,1-0,1,0,1.0,win,,,,,,,,,,,,,,,,,,,,,,,2022,2021-22,div1,Ranger,rangercollege,ciaranpalmer0yva,Ciaran Palmer
+Apr 13,home,Cisco,W,10-1,10,1,9.0,win,,,,,,,,,,,,,,,,,,,,,,,2022,2021-22,div1,Ranger,rangercollege,ciaranpalmer0yva,Ciaran Palmer
+Apr 15,home,Cisco,L,8-7,8,7,1.0,win,,,,,,,,,,,,,,,,,,,,,,,2022,2021-22,div1,Ranger,rangercollege,ciaranpalmer0yva,Ciaran Palmer
+Apr 15,home,Cisco,W,11-7,11,7,4.0,win,,,,,,,,,,,,,,,,,,,,,,,2022,2021-22,div1,Ranger,rangercollege,ciaranpalmer0yva,Ciaran Palmer
+Apr 20,home,Grayson,L,4-3,4,3,1.0,win,20220420_35d2,0,1,0,,,,0,3,,,,,,,0,0,,,,,3,2022,2021-22,div1,Ranger,rangercollege,ciaranpalmer0yva,Ciaran Palmer
+Apr 20,home,Grayson,L,12-6,12,6,6.0,win,,,,,,,,,,,,,,,,,,,,,,,2022,2021-22,div1,Ranger,rangercollege,ciaranpalmer0yva,Ciaran Palmer
+Apr 23,home,Grayson,L,6-5,6,5,1.0,win,20220423_6kb5,3,1,2,,,1,2,,1,,,1,,,5,1,,,,,4,2022,2021-22,div1,Ranger,rangercollege,ciaranpalmer0yva,Ciaran Palmer
+Apr 23,home,Grayson,L,7-2,7,2,5.0,win,,,,,,,,,,,,,,,,,,,,,,,2022,2021-22,div1,Ranger,rangercollege,ciaranpalmer0yva,Ciaran Palmer
+Apr 27,home,Spartan Post Grad Academy,W,2-0,2,0,2.0,win,,,,,,,,,,,,,,,,,,,,,,,2022,2021-22,div1,Ranger,rangercollege,ciaranpalmer0yva,Ciaran Palmer
+Apr 27,home,Spartan Post Grad Academy,W,13-1,13,1,12.0,win,20220427_4u8v,2,2,2,,1,,1,1,,1,,,,,4,1,,,,,3,2022,2021-22,div1,Ranger,rangercollege,ciaranpalmer0yva,Ciaran Palmer
+May 4,home,Hill,W,5-1,5,1,4.0,win,20220504_kgim,1,0,1,,,,0,,,,,,,,1,0,,,,,1,2022,2021-22,div1,Ranger,rangercollege,ciaranpalmer0yva,Ciaran Palmer
+May 4,home,Hill,W,10-2,10,2,8.0,win,,,,,,,,,,,,,,,,,,,,,,,2022,2021-22,div1,Ranger,rangercollege,ciaranpalmer0yva,Ciaran Palmer
+May 7,home,Hill,W,7-2,7,2,5.0,win,,,,,,,,,,,,,,,,,,,,,,,2022,2021-22,div1,Ranger,rangercollege,ciaranpalmer0yva,Ciaran Palmer
+May 7,home,Hill,L,17-11,17,11,6.0,win,20220507_ho7w,5,2,3,,,2,3,,,,,1,,,9,2,,,,,6,2022,2021-22,div1,Ranger,rangercollege,ciaranpalmer0yva,Ciaran Palmer
+May 12,home,Region V Baseball Championships,,,,,6.0,win,,,,,,,,,,,,,,,,,,,,,,,2022,2021-22,div1,Ranger,rangercollege,ciaranpalmer0yva,Ciaran Palmer
+May 13,home,Region V Baseball Championships,L,2-0,2,0,2.0,win,,,,,,,,,,,,,,,,,,,,,,,2022,2021-22,div1,Ranger,rangercollege,ciaranpalmer0yva,Ciaran Palmer
+May 13,home,Midland,L,2-0,2,0,2.0,win,,,,,,,,,,,,,,,,,,,,,,,2022,2021-22,div1,Ranger,rangercollege,ciaranpalmer0yva,Ciaran Palmer
+May 14,home,Howard (TX),L,8-4,8,4,4.0,win,20220514_9sgo,4,0,0,,,,1,,2,,,,,,0,0,,,,,4,2022,2021-22,div1,Ranger,rangercollege,ciaranpalmer0yva,Ciaran Palmer
