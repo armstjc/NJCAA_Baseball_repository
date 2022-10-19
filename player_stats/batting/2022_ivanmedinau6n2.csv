@@ -1,18 +1,54 @@
-date,location,opponent,result,score,team_score,opp_score,game_score_diff_x,game_win_loss_x,game_id_x,AB,R,H,2B,3B,HR,RBI,BB,K,SB,CS,game_score_diff_y,game_win_loss_y,game_id_y,HBP,SF,SH,TB,XBH,HDP,GO,FO,GO/FO,PA,season,njcaa_season,njcaa_division,team,team_id,player_id,player_name
-Feb 26,home,John Wood,L,7-5,7,5,2.0,win,20220226_9km6,3,0,1,1,,,0,,1,,,2.0,win,20220226_9km6,,,,2,1,,,,,3,2022,2021-22,div1,Highland (KS),highlandcommunitycollegekansas,ivanmedinau6n2,Ivan Medina
-Mar 1,home,Cloud County,L,17-6,17,6,11.0,win,20220301_hc0k,1,1,1,,,,1,,,,1,11.0,win,20220301_hc0k,1,,,1,0,,,,,2,2022,2021-22,div1,Highland (KS),highlandcommunitycollegekansas,ivanmedinau6n2,Ivan Medina
-Mar 1,home,Cloud County,L,18-4,18,4,14.0,win,20220301_28j0,1,0,0,,,,0,1,1,,,14.0,win,20220301_28j0,,,,0,0,,,,,2,2022,2021-22,div1,Highland (KS),highlandcommunitycollegekansas,ivanmedinau6n2,Ivan Medina
-Mar 5,home,Pratt,L,4-1,4,1,3.0,win,20220305_owja,3,1,1,,,1,1,,1,,,3.0,win,20220305_owja,,,,4,1,,1,,,3,2022,2021-22,div1,Highland (KS),highlandcommunitycollegekansas,ivanmedinau6n2,Ivan Medina
-Mar 5,home,Pratt,L,16-11,16,11,5.0,win,20220305_7ytp,5,1,3,,,,0,,1,1,1,5.0,win,20220305_7ytp,,,,3,0,,,,,5,2022,2021-22,div1,Highland (KS),highlandcommunitycollegekansas,ivanmedinau6n2,Ivan Medina
-Mar 26,home,Neosho County,W,10-0,10,0,10.0,win,20220326_kzfz,3,1,1,1,,,0,,1,,,10.0,win,20220326_kzfz,,,,2,1,,,,,3,2022,2021-22,div1,Highland (KS),highlandcommunitycollegekansas,ivanmedinau6n2,Ivan Medina
-Mar 26,home,Neosho County,L,14-13,14,13,1.0,win,20220326_6vsf,4,2,1,,,1,1,,2,,,1.0,win,20220326_6vsf,1,,,4,1,,,,,5,2022,2021-22,div1,Highland (KS),highlandcommunitycollegekansas,ivanmedinau6n2,Ivan Medina
-Mar 31,home,Fort Scott,L,14-3,14,3,11.0,win,20220331_1i9r,3,0,0,,,,0,,1,,,11.0,win,20220331_1i9r,,,,0,0,,,,,3,2022,2021-22,div1,Highland (KS),highlandcommunitycollegekansas,ivanmedinau6n2,Ivan Medina
-Mar 31,home,Fort Scott,L,26-5,26,5,21.0,win,20220331_saj4,2,1,1,,,,0,,,,,21.0,win,20220331_saj4,,,,1,0,,,,,2,2022,2021-22,div1,Highland (KS),highlandcommunitycollegekansas,ivanmedinau6n2,Ivan Medina
-Apr 9,home,Johnson County,L,10-0,10,0,10.0,win,20220409_6rs0,2,0,0,,,,0,,,,,10.0,win,20220409_6rs0,,,,0,0,,,,,2,2022,2021-22,div1,Highland (KS),highlandcommunitycollegekansas,ivanmedinau6n2,Ivan Medina
-Apr 9,home,Johnson County,L,18-4,18,4,14.0,win,20220409_7ph5,3,0,0,,,,1,,,,,14.0,win,20220409_7ph5,,,,0,0,,,,,3,2022,2021-22,div1,Highland (KS),highlandcommunitycollegekansas,ivanmedinau6n2,Ivan Medina
-Apr 16,home,Hesston,L,13-6,13,6,7.0,win,20220416_5kru,3,1,1,,,,0,,1,,,7.0,win,20220416_5kru,,,,1,0,,,,,3,2022,2021-22,div1,Highland (KS),highlandcommunitycollegekansas,ivanmedinau6n2,Ivan Medina
-Apr 16,home,Hesston,W,14-12,14,12,2.0,win,20220416_nkmc,4,2,3,,1,1,2,,1,,1,2.0,win,20220416_nkmc,,,,8,2,,,,,4,2022,2021-22,div1,Highland (KS),highlandcommunitycollegekansas,ivanmedinau6n2,Ivan Medina
-Apr 30,home,Kansas City Kansas,L,14-3,14,3,11.0,win,20220430_m6ji,3,0,0,,,,0,,2,,,11.0,win,20220430_m6ji,,,,0,0,,,,,3,2022,2021-22,div1,Highland (KS),highlandcommunitycollegekansas,ivanmedinau6n2,Ivan Medina
-Apr 30,home,Kansas City Kansas,L,11-1,11,1,10.0,win,20220430_bvze,3,1,1,1,,,0,,,,,10.0,win,20220430_bvze,,,,2,1,,,,,3,2022,2021-22,div1,Highland (KS),highlandcommunitycollegekansas,ivanmedinau6n2,Ivan Medina
-May 7,home,Labette,L,14-9,14,9,5.0,win,20220507_bqw2,3,1,1,,,,0,1,,,,5.0,win,20220507_bqw2,,,,1,0,,,,,4,2022,2021-22,div1,Highland (KS),highlandcommunitycollegekansas,ivanmedinau6n2,Ivan Medina
-May 7,home,Labette,L,7-3,7,3,4.0,win,20220507_h8h9,4,0,1,,,,0,,1,1,,4.0,win,20220507_h8h9,,,,1,0,,,,,4,2022,2021-22,div1,Highland (KS),highlandcommunitycollegekansas,ivanmedinau6n2,Ivan Medina
+date,location,opponent,result,score,team_score,opp_score,game_score_diff,game_win_loss,game_id,AB,R,H,2B,3B,HR,RBI,BB,K,SB,CS,HBP,SF,SH,TB,XBH,HDP,GO,FO,GO/FO,PA,season,njcaa_season,njcaa_division,team,team_id,player_id,player_name
+Feb 6,home,Clarendon,W,10-2,10,2,8.0,win,20220206_hryw,4,1,1,,,,0,,2,2,,,,,1,0,,,,,4,2022,2021-22,div1,Highland (KS),highlandcommunitycollegekansas,ivanmedinau6n2,Ivan Medina
+Feb 6,home,Clarendon,W,11-1,11,1,10.0,win,,,,,,,,,,,,,,,,,,,,,,,2022,2021-22,div1,Highland (KS),highlandcommunitycollegekansas,ivanmedinau6n2,Ivan Medina
+Feb 7,home,Clarendon,L,20-5,20,5,15.0,win,20220207_p3o6,2,0,0,,,,0,,2,,,,,,0,0,,,1,,2,2022,2021-22,div1,Highland (KS),highlandcommunitycollegekansas,ivanmedinau6n2,Ivan Medina
+Feb 11,home,Dodge City,L,4-3,4,3,1.0,win,,,,,,,,,,,,,,,,,,,,,,,2022,2021-22,div1,Highland (KS),highlandcommunitycollegekansas,ivanmedinau6n2,Ivan Medina
+Feb 11,home,Dodge City,L,5-1,5,1,4.0,win,20220211_mlog,3,1,1,,1,,0,,1,,,,,,3,1,,,,,3,2022,2021-22,div1,Highland (KS),highlandcommunitycollegekansas,ivanmedinau6n2,Ivan Medina
+Feb 12,home,McCook,L,10-0,10,0,10.0,win,20220212_08pf,2,0,2,1,,,0,,,,,,,,3,1,,,,,2,2022,2021-22,div1,Highland (KS),highlandcommunitycollegekansas,ivanmedinau6n2,Ivan Medina
+Feb 19,home,Eastern Oklahoma State,L,12-2,12,2,10.0,win,20220219_stz6,3,0,0,,,,0,,3,,,,,,0,0,,,,,3,2022,2021-22,div1,Highland (KS),highlandcommunitycollegekansas,ivanmedinau6n2,Ivan Medina
+Feb 19,home,Eastern Oklahoma State,L,10-4,10,4,6.0,win,20220219_3pty,3,1,1,,,,0,,2,1,,,,,1,0,,,,,3,2022,2021-22,div1,Highland (KS),highlandcommunitycollegekansas,ivanmedinau6n2,Ivan Medina
+Feb 20,home,Eastern Oklahoma State,L,4-1,4,1,3.0,win,20220220_tuoy,2,0,0,,,,0,,1,1,,,,,0,0,,,,,2,2022,2021-22,div1,Highland (KS),highlandcommunitycollegekansas,ivanmedinau6n2,Ivan Medina
+Feb 20,home,Eastern Oklahoma State,L,14-3,14,3,11.0,win,20220220_1mzt,2,0,0,,,,0,,1,,,,,,0,0,,,,,2,2022,2021-22,div1,Highland (KS),highlandcommunitycollegekansas,ivanmedinau6n2,Ivan Medina
+Feb 26,home,John Wood,L,7-5,7,5,2.0,win,20220226_9km6,3,0,1,1,,,0,,1,,,,,,2,1,,,,,3,2022,2021-22,div1,Highland (KS),highlandcommunitycollegekansas,ivanmedinau6n2,Ivan Medina
+Feb 26,home,State Fair,W,8-4,8,4,4.0,win,20220226_y5ub,3,0,0,,,,0,,1,,,,,,0,0,,,,,3,2022,2021-22,div1,Highland (KS),highlandcommunitycollegekansas,ivanmedinau6n2,Ivan Medina
+Mar 1,home,Cloud County,L,17-6,17,6,11.0,win,20220301_hc0k,1,1,1,,,,1,,,,1,1,,,1,0,,,,,2,2022,2021-22,div1,Highland (KS),highlandcommunitycollegekansas,ivanmedinau6n2,Ivan Medina
+Mar 1,home,Cloud County,L,18-4,18,4,14.0,win,20220301_28j0,1,0,0,,,,0,1,1,,,,,,0,0,,,,,2,2022,2021-22,div1,Highland (KS),highlandcommunitycollegekansas,ivanmedinau6n2,Ivan Medina
+Mar 3,home,Pratt,L,10-0,10,0,10.0,win,20220303_nync,2,0,0,,,,0,,1,,,,,,0,0,,,,,2,2022,2021-22,div1,Highland (KS),highlandcommunitycollegekansas,ivanmedinau6n2,Ivan Medina
+Mar 3,home,Pratt,W,11-7,11,7,4.0,win,20220303_yrsa,5,3,3,,,2,4,,1,,,,,,9,2,,,,,5,2022,2021-22,div1,Highland (KS),highlandcommunitycollegekansas,ivanmedinau6n2,Ivan Medina
+Mar 5,home,Pratt,L,4-1,4,1,3.0,win,20220305_owja,3,1,1,,,1,1,,1,,,,,,4,1,,1,,,3,2022,2021-22,div1,Highland (KS),highlandcommunitycollegekansas,ivanmedinau6n2,Ivan Medina
+Mar 5,home,Pratt,L,16-11,16,11,5.0,win,20220305_7ytp,5,1,3,,,,0,,1,1,1,,,,3,0,,,,,5,2022,2021-22,div1,Highland (KS),highlandcommunitycollegekansas,ivanmedinau6n2,Ivan Medina
+Mar 13,home,Allen County,L,13-8,13,8,5.0,win,20220313_kxmo,3,1,0,,,,0,1,3,,,,,,0,0,,,,,4,2022,2021-22,div1,Highland (KS),highlandcommunitycollegekansas,ivanmedinau6n2,Ivan Medina
+Mar 13,home,Allen County,L,16-3,16,3,13.0,win,20220313_p8r3,3,0,1,1,,,0,,,,,,,,2,1,,,,,3,2022,2021-22,div1,Highland (KS),highlandcommunitycollegekansas,ivanmedinau6n2,Ivan Medina
+Mar 14,home,Allen County,L,11-0,11,0,11.0,win,,,,,,,,,,,,,,,,,,,,,,,2022,2021-22,div1,Highland (KS),highlandcommunitycollegekansas,ivanmedinau6n2,Ivan Medina
+Mar 14,home,Allen County,L,24-0,24,0,24.0,win,20220314_z0qg,2,0,0,,,,0,,,,,,,,0,0,,,,,2,2022,2021-22,div1,Highland (KS),highlandcommunitycollegekansas,ivanmedinau6n2,Ivan Medina
+Mar 19,home,Coffeyville,L,9-7,9,7,2.0,win,20220319_sifb,4,0,0,,,,0,,1,,,,,,0,0,,2,1,2.00,4,2022,2021-22,div1,Highland (KS),highlandcommunitycollegekansas,ivanmedinau6n2,Ivan Medina
+Mar 19,home,Coffeyville,L,13-3,13,3,10.0,win,20220319_704p,4,0,1,,,,0,,1,,,,,,1,0,,1,1,1.00,4,2022,2021-22,div1,Highland (KS),highlandcommunitycollegekansas,ivanmedinau6n2,Ivan Medina
+Mar 20,home,Coffeyville,L,25-1,25,1,24.0,win,20220320_v26f,2,0,1,,,,0,,1,1,,,,,1,0,,,,,2,2022,2021-22,div1,Highland (KS),highlandcommunitycollegekansas,ivanmedinau6n2,Ivan Medina
+Mar 20,home,Coffeyville,L,9-3,9,3,6.0,win,20220320_5jnd,3,0,0,,,,0,1,2,1,1,,,,0,0,,,1,,4,2022,2021-22,div1,Highland (KS),highlandcommunitycollegekansas,ivanmedinau6n2,Ivan Medina
+Mar 25,home,Neosho County,L,8-2,8,2,6.0,win,20220325_rsrh,2,1,0,,,,0,1,,1,,,,,0,0,,,,,3,2022,2021-22,div1,Highland (KS),highlandcommunitycollegekansas,ivanmedinau6n2,Ivan Medina
+Mar 25,home,Neosho County,L,6-5,6,5,1.0,win,20220325_808v,4,0,3,,,,1,,1,,,,,,3,0,,,,,4,2022,2021-22,div1,Highland (KS),highlandcommunitycollegekansas,ivanmedinau6n2,Ivan Medina
+Mar 26,home,Neosho County,W,10-0,10,0,10.0,win,20220326_kzfz,3,1,1,1,,,0,,1,,,,,,2,1,,,,,3,2022,2021-22,div1,Highland (KS),highlandcommunitycollegekansas,ivanmedinau6n2,Ivan Medina
+Mar 26,home,Neosho County,L,14-13,14,13,1.0,win,20220326_6vsf,4,2,1,,,1,1,,2,,,1,,,4,1,,,,,5,2022,2021-22,div1,Highland (KS),highlandcommunitycollegekansas,ivanmedinau6n2,Ivan Medina
+Mar 29,home,Benedictine College JV,L,12-6,12,6,6.0,win,20220329_h3j5,3,0,0,,,,0,,1,,,,,,0,0,,,,,3,2022,2021-22,div1,Highland (KS),highlandcommunitycollegekansas,ivanmedinau6n2,Ivan Medina
+Mar 31,home,Fort Scott,L,14-3,14,3,11.0,win,20220331_1i9r,3,0,0,,,,0,,1,,,,,,0,0,,,,,3,2022,2021-22,div1,Highland (KS),highlandcommunitycollegekansas,ivanmedinau6n2,Ivan Medina
+Mar 31,home,Fort Scott,L,26-5,26,5,21.0,win,20220331_saj4,2,1,1,,,,0,,,,,,,,1,0,,,,,2,2022,2021-22,div1,Highland (KS),highlandcommunitycollegekansas,ivanmedinau6n2,Ivan Medina
+Apr 2,home,Fort Scott,L,24-14,24,14,10.0,win,20220402_xyls,4,1,2,1,,,2,,1,,,,,,3,1,,,,,4,2022,2021-22,div1,Highland (KS),highlandcommunitycollegekansas,ivanmedinau6n2,Ivan Medina
+Apr 2,home,Fort Scott,L,14-2,14,2,12.0,win,20220402_lh9a,2,0,0,,,,0,,,,,,,,0,0,,,,,2,2022,2021-22,div1,Highland (KS),highlandcommunitycollegekansas,ivanmedinau6n2,Ivan Medina
+Apr 9,home,Johnson County,L,10-0,10,0,10.0,win,20220409_6rs0,2,0,0,,,,0,,,,,,,,0,0,,,,,2,2022,2021-22,div1,Highland (KS),highlandcommunitycollegekansas,ivanmedinau6n2,Ivan Medina
+Apr 9,home,Johnson County,L,18-4,18,4,14.0,win,20220409_7ph5,3,0,0,,,,1,,,,,,,,0,0,,,,,3,2022,2021-22,div1,Highland (KS),highlandcommunitycollegekansas,ivanmedinau6n2,Ivan Medina
+Apr 10,home,Johnson County,L,10-4,10,4,6.0,win,20220410_z9up,4,1,2,,,,0,,2,1,1,,,,2,0,,,,,4,2022,2021-22,div1,Highland (KS),highlandcommunitycollegekansas,ivanmedinau6n2,Ivan Medina
+Apr 10,home,Johnson County,L,20-10,20,10,10.0,win,20220410_l5ja,3,1,2,,1,,0,1,,,,,,,4,1,,,,,4,2022,2021-22,div1,Highland (KS),highlandcommunitycollegekansas,ivanmedinau6n2,Ivan Medina
+Apr 16,home,Hesston,L,13-6,13,6,7.0,win,20220416_5kru,3,1,1,,,,0,,1,,,,,,1,0,,,,,3,2022,2021-22,div1,Highland (KS),highlandcommunitycollegekansas,ivanmedinau6n2,Ivan Medina
+Apr 16,home,Hesston,W,14-12,14,12,2.0,win,20220416_nkmc,4,2,3,,1,1,2,,1,,1,,,,8,2,,,,,4,2022,2021-22,div1,Highland (KS),highlandcommunitycollegekansas,ivanmedinau6n2,Ivan Medina
+Apr 21,home,Cowley,L,3-1,3,1,2.0,win,20220421_p5sc,3,0,1,,,,1,,1,,1,,,,1,0,,,1,,3,2022,2021-22,div1,Highland (KS),highlandcommunitycollegekansas,ivanmedinau6n2,Ivan Medina
+Apr 21,home,Cowley,L,11-1,11,1,10.0,win,20220421_ncta,3,0,0,,,,0,,1,,,,,,0,0,,2,,,3,2022,2021-22,div1,Highland (KS),highlandcommunitycollegekansas,ivanmedinau6n2,Ivan Medina
+Apr 22,home,Cowley,L,8-3,8,3,5.0,win,20220422_rjul,3,0,0,,,,0,,1,,,,,,0,0,1,2,,,3,2022,2021-22,div1,Highland (KS),highlandcommunitycollegekansas,ivanmedinau6n2,Ivan Medina
+Apr 22,home,Cowley,L,20-2,20,2,18.0,win,20220422_1hts,3,0,1,,,,0,,,,,,,,1,0,,1,1,1.00,3,2022,2021-22,div1,Highland (KS),highlandcommunitycollegekansas,ivanmedinau6n2,Ivan Medina
+Apr 27,home,Kansas City Kansas,L,7-6,7,6,1.0,win,20220427_ipfn,3,1,0,,,,0,,,,,,,,0,0,,,,,3,2022,2021-22,div1,Highland (KS),highlandcommunitycollegekansas,ivanmedinau6n2,Ivan Medina
+Apr 27,home,Kansas City Kansas,L,14-3,14,3,11.0,win,20220427_ls1y,3,1,1,,,1,1,,1,,,,,,4,1,,,,,3,2022,2021-22,div1,Highland (KS),highlandcommunitycollegekansas,ivanmedinau6n2,Ivan Medina
+Apr 30,home,Kansas City Kansas,L,14-3,14,3,11.0,win,20220430_m6ji,3,0,0,,,,0,,2,,,,,,0,0,,,,,3,2022,2021-22,div1,Highland (KS),highlandcommunitycollegekansas,ivanmedinau6n2,Ivan Medina
+Apr 30,home,Kansas City Kansas,L,11-1,11,1,10.0,win,20220430_bvze,3,1,1,1,,,0,,,,,,,,2,1,,,,,3,2022,2021-22,div1,Highland (KS),highlandcommunitycollegekansas,ivanmedinau6n2,Ivan Medina
+May 7,home,Labette,L,14-9,14,9,5.0,win,20220507_bqw2,3,1,1,,,,0,1,,,,,,,1,0,,,,,4,2022,2021-22,div1,Highland (KS),highlandcommunitycollegekansas,ivanmedinau6n2,Ivan Medina
+May 7,home,Labette,L,7-3,7,3,4.0,win,20220507_h8h9,4,0,1,,,,0,,1,1,,,,,1,0,,,,,4,2022,2021-22,div1,Highland (KS),highlandcommunitycollegekansas,ivanmedinau6n2,Ivan Medina
+May 8,home,Labette,L,7-3,7,3,4.0,win,20220508_xfk9,3,0,0,,,,0,,3,,,,,,0,0,,,,,3,2022,2021-22,div1,Highland (KS),highlandcommunitycollegekansas,ivanmedinau6n2,Ivan Medina
+May 8,home,Labette,W,15-14,15,14,1.0,win,20220508_fwi6,5,0,1,,,,0,,1,,,1,,,1,0,,,,,6,2022,2021-22,div1,Highland (KS),highlandcommunitycollegekansas,ivanmedinau6n2,Ivan Medina
