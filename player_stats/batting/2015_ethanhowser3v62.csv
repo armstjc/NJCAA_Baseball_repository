@@ -1,0 +1,61 @@
+date,location,opponent,result,score,team_score,opp_score,game_score_diff,game_win_loss,game_id,AB,R,H,2B,3B,HR,RBI,BB,K,SB,CS,HBP,SF,SH,TB,XBH,HDP,GO,FO,GO/FO,PA,season,njcaa_season,njcaa_division,team,team_id,player_id,player_name
+Feb 13,home,Redlands,L,8-6,8,6,2.0,win,20150213_vz6s,2,0,2,,,,1,1,,1,1,,,1,2,0,,,,,4,2015,2014-15,div2,MCC-Longview,mcclongview,ethanhowser3v62,Ethan Howser
+Feb 13,home,Redlands,W,9-8,9,8,1.0,win,20150213_g9kw,3,2,1,,,,1,3,,1,,,,,1,0,,,,,6,2015,2014-15,div2,MCC-Longview,mcclongview,ethanhowser3v62,Ethan Howser
+Feb 14,home,Redlands,L,12-2,12,2,10.0,win,20150214_vqu9,2,0,1,,,,1,,1,,,,,,1,0,,,,,2,2015,2014-15,div2,MCC-Longview,mcclongview,ethanhowser3v62,Ethan Howser
+Feb 14,home,Redlands,L,19-2,19,2,17.0,win,20150214_4tkk,4,0,2,,,,0,,2,1,,,,,2,0,,,,,4,2015,2014-15,div2,MCC-Longview,mcclongview,ethanhowser3v62,Ethan Howser
+Feb 21,home,Independence,L,4-3,4,3,1.0,win,20150221_ky8f,3,0,2,1,,,0,,1,,,,,,3,1,,,,,3,2015,2014-15,div2,MCC-Longview,mcclongview,ethanhowser3v62,Ethan Howser
+Feb 21,home,Independence,L,9-8,9,8,1.0,win,20150221_6h2o,3,0,1,,,,0,1,,1,,1,,,1,0,,,,,5,2015,2014-15,div2,MCC-Longview,mcclongview,ethanhowser3v62,Ethan Howser
+Mar 7,home,Butler,W,6-5,6,5,1.0,win,20150307_dv2j,3,2,2,,,,0,1,,,,,,,2,0,,1,,,4,2015,2014-15,div2,MCC-Longview,mcclongview,ethanhowser3v62,Ethan Howser
+Mar 7,home,Butler,L,10-5,10,5,5.0,win,20150307_u0t1,4,0,1,,,,0,,1,,,,,,1,0,,,2,,4,2015,2014-15,div2,MCC-Longview,mcclongview,ethanhowser3v62,Ethan Howser
+Mar 8,home,Butler,L,4-3,4,3,1.0,win,20150308_mywe,4,1,1,,,1,1,1,2,,,,,,4,1,,1,,,5,2015,2014-15,div2,MCC-Longview,mcclongview,ethanhowser3v62,Ethan Howser
+Mar 8,home,Southeastern,L,6-1,6,1,5.0,win,20150308_9ftz,3,0,0,,,,0,,1,,,,,,0,0,,,,,3,2015,2014-15,div2,MCC-Longview,mcclongview,ethanhowser3v62,Ethan Howser
+Mar 10,home,Fort Scott,W,8-6,8,6,2.0,win,,,,,,,,,,,,,,,,,,,,,,,2015,2014-15,div2,MCC-Longview,mcclongview,ethanhowser3v62,Ethan Howser
+Mar 12,home,Wentworth Military,W,9-3,9,3,6.0,win,,,,,,,,,,,,,,,,,,,,,,,2015,2014-15,div2,MCC-Longview,mcclongview,ethanhowser3v62,Ethan Howser
+Mar 12,home,Wentworth Military,W,11-1,11,1,10.0,win,,,,,,,,,,,,,,,,,,,,,,,2015,2014-15,div2,MCC-Longview,mcclongview,ethanhowser3v62,Ethan Howser
+Mar 14,home,Iowa Central,L,12-2,12,2,10.0,win,,,,,,,,,,,,,,,,,,,,,,,2015,2014-15,div2,MCC-Longview,mcclongview,ethanhowser3v62,Ethan Howser
+Mar 14,home,Iowa Central,L,4-3,4,3,1.0,win,,,,,,,,,,,,,,,,,,,,,,,2015,2014-15,div2,MCC-Longview,mcclongview,ethanhowser3v62,Ethan Howser
+Mar 15,home,Iowa Central,W,4-3,4,3,1.0,win,,,,,,,,,,,,,,,,,,,,,,,2015,2014-15,div2,MCC-Longview,mcclongview,ethanhowser3v62,Ethan Howser
+Mar 15,home,Iowa Central,W,5-4,5,4,1.0,win,,,,,,,,,,,,,,,,,,,,,,,2015,2014-15,div2,MCC-Longview,mcclongview,ethanhowser3v62,Ethan Howser
+Mar 17,home,Highland (KS),W,5-3,5,3,2.0,win,20150317_4ngm,4,0,2,,,,2,,1,1,1,,,,2,0,,,,,4,2015,2014-15,div2,MCC-Longview,mcclongview,ethanhowser3v62,Ethan Howser
+Mar 17,home,Highland (KS),W,16-1,16,1,15.0,win,,,,,,,,,,,,,,,,,,,,,,,2015,2014-15,div2,MCC-Longview,mcclongview,ethanhowser3v62,Ethan Howser
+Mar 21,home,Barton,W,9-0,9,0,9.0,win,20150321_ush8,4,1,2,,,1,4,,1,,,,,,5,1,,,,,4,2015,2014-15,div2,MCC-Longview,mcclongview,ethanhowser3v62,Ethan Howser
+Mar 21,home,Barton,W,13-8,13,8,5.0,win,20150321_p85a,5,1,4,1,,,2,,1,,1,,,,5,1,,,,,5,2015,2014-15,div2,MCC-Longview,mcclongview,ethanhowser3v62,Ethan Howser
+Mar 22,home,Barton,L,11-7,11,7,4.0,win,20150322_c8gi,4,0,0,,,,0,,1,,,,,,0,0,,,,,4,2015,2014-15,div2,MCC-Longview,mcclongview,ethanhowser3v62,Ethan Howser
+Mar 22,home,Barton,L,11-2,11,2,9.0,win,20150322_ezv1,4,1,1,,,1,2,,1,1,,,,,4,1,,,,,4,2015,2014-15,div2,MCC-Longview,mcclongview,ethanhowser3v62,Ethan Howser
+Mar 24,home,Johnson County,L,10-7,10,7,3.0,win,20150324_8oyu,4,1,2,1,,1,2,,,,,,,,6,2,,,,,4,2015,2014-15,div2,MCC-Longview,mcclongview,ethanhowser3v62,Ethan Howser
+Mar 26,home,MCC-Maple Woods,W,8-7,8,7,1.0,win,20150326_7eoj,4,2,2,1,,,1,,,1,,,,,3,1,,,,,4,2015,2014-15,div2,MCC-Longview,mcclongview,ethanhowser3v62,Ethan Howser
+Mar 28,home,Northeastern Oklahoma A&M,L,7-3,7,3,4.0,win,20150328_q3gv,3,1,2,1,,1,2,,,,,,,,6,2,,,,,3,2015,2014-15,div2,MCC-Longview,mcclongview,ethanhowser3v62,Ethan Howser
+Mar 28,home,Northeastern Oklahoma A&M,L,9-8,9,8,1.0,win,20150328_3k9o,4,0,0,,,,0,,1,,,,,,0,0,,,,,4,2015,2014-15,div2,MCC-Longview,mcclongview,ethanhowser3v62,Ethan Howser
+Mar 29,home,Rockhurst University JV,W,5-1,5,1,4.0,win,20150329_hrtj,2,1,2,,,,0,1,,2,,,,,2,0,,,,,3,2015,2014-15,div2,MCC-Longview,mcclongview,ethanhowser3v62,Ethan Howser
+Mar 29,home,Rockhurst University JV,W,16-8,16,8,8.0,win,20150329_0kf2,4,1,1,1,,,2,,,,,,,,2,1,,,,,4,2015,2014-15,div2,MCC-Longview,mcclongview,ethanhowser3v62,Ethan Howser
+Mar 31,home,Highland (KS),W,13-6,13,6,7.0,win,20150331_wxzv,5,3,3,,,1,1,,,1,,,,,6,1,,,,,5,2015,2014-15,div2,MCC-Longview,mcclongview,ethanhowser3v62,Ethan Howser
+Apr 3,home,Dodge City,L,6-0,6,0,6.0,win,20150403_tj8m,3,0,1,,,,0,,1,,,,,,1,0,,1,,,3,2015,2014-15,div2,MCC-Longview,mcclongview,ethanhowser3v62,Ethan Howser
+Apr 3,home,Dodge City,W,6-5,6,5,1.0,win,20150403_awqa,5,1,1,,,,0,,,,,,,,1,0,,1,3,0.33,5,2015,2014-15,div2,MCC-Longview,mcclongview,ethanhowser3v62,Ethan Howser
+Apr 4,home,Dodge City,W,4-3,4,3,1.0,win,20150404_yqlr,4,0,1,1,,,1,,,,,,,,2,1,,,,,4,2015,2014-15,div2,MCC-Longview,mcclongview,ethanhowser3v62,Ethan Howser
+Apr 4,home,Dodge City,L,11-10,11,10,1.0,win,20150404_eseq,1,0,0,,,,0,,,,,,,,0,0,,,1,,1,2015,2014-15,div2,MCC-Longview,mcclongview,ethanhowser3v62,Ethan Howser
+Apr 7,home,Johnson County,L,19-9,19,9,10.0,win,20150407_c7z1,4,0,2,,,,2,1,,2,,,,,2,0,,,,,5,2015,2014-15,div2,MCC-Longview,mcclongview,ethanhowser3v62,Ethan Howser
+Apr 9,home,North Central Missouri,W,20-3,20,3,17.0,win,20150409_z5ng,4,1,2,1,,1,4,,,,,,,,6,2,,,,,4,2015,2014-15,div2,MCC-Longview,mcclongview,ethanhowser3v62,Ethan Howser
+Apr 11,home,Rockhurst University JV,W,10-6,10,6,4.0,win,20150411_di5r,4,1,0,,,,0,1,1,,,,,,0,0,,,,,5,2015,2014-15,div2,MCC-Longview,mcclongview,ethanhowser3v62,Ethan Howser
+Apr 11,home,Rockhurst University JV,W,11-0,11,0,11.0,win,20150411_n46f,3,1,1,,,,0,,,1,,,,,1,0,,,,,3,2015,2014-15,div2,MCC-Longview,mcclongview,ethanhowser3v62,Ethan Howser
+Apr 14,home,Kansas City Kansas,L,3-2,3,2,1.0,win,20150414_3r8f,3,0,1,,,,1,,,,,,,,1,0,,,,,3,2015,2014-15,div2,MCC-Longview,mcclongview,ethanhowser3v62,Ethan Howser
+Apr 14,home,Kansas City Kansas,W,6-1,6,1,5.0,win,,,,,,,,,,,,,,,,,,,,,,,2015,2014-15,div2,MCC-Longview,mcclongview,ethanhowser3v62,Ethan Howser
+Apr 16,home,Wentworth Military,W,14-3,14,3,11.0,win,20150416_g6um,3,1,2,1,,,1,1,,1,,,,,3,1,,,,,4,2015,2014-15,div2,MCC-Longview,mcclongview,ethanhowser3v62,Ethan Howser
+Apr 16,home,Wentworth Military,W,15-4,15,4,11.0,win,20150416_9ovd,1,0,1,,,,1,,,,,,,,1,0,,,,,1,2015,2014-15,div2,MCC-Longview,mcclongview,ethanhowser3v62,Ethan Howser
+Apr 17,home,Garden City,W,4-1,4,1,3.0,win,20150417_ah6r,2,0,0,,,,0,,,,,,,,0,0,1,,,,2,2015,2014-15,div2,MCC-Longview,mcclongview,ethanhowser3v62,Ethan Howser
+Apr 17,home,Garden City,W,6-5,6,5,1.0,win,,,,,,,,,,,,,,,,,,,,,,,2015,2014-15,div2,MCC-Longview,mcclongview,ethanhowser3v62,Ethan Howser
+Apr 23,home,MCC-Maple Woods,L,10-0,10,0,10.0,win,20150423_s4x1,2,0,0,,,,0,,,,,,,,0,0,,,,,2,2015,2014-15,div2,MCC-Longview,mcclongview,ethanhowser3v62,Ethan Howser
+Apr 23,home,MCC-Maple Woods,L,10-0,10,0,10.0,win,20150423_uzhj,3,0,2,,,,0,,,1,,,,,2,0,,,,,3,2015,2014-15,div2,MCC-Longview,mcclongview,ethanhowser3v62,Ethan Howser
+Apr 26,home,Northeastern Oklahoma A&M,W,8-5,8,5,3.0,win,20150426_pehs,3,2,2,2,,,0,2,,,,,,,4,2,,,,,5,2015,2014-15,div2,MCC-Longview,mcclongview,ethanhowser3v62,Ethan Howser
+Apr 28,home,North Central Missouri,W,6-3,6,3,3.0,win,20150428_5xqq,2,1,1,,,,1,1,,,,,1,,1,0,,,,,4,2015,2014-15,div2,MCC-Longview,mcclongview,ethanhowser3v62,Ethan Howser
+Apr 28,home,North Central Missouri,L,7-6,7,6,1.0,win,20150428_czh7,3,0,0,,,,0,1,,1,,,,,0,0,,,,,4,2015,2014-15,div2,MCC-Longview,mcclongview,ethanhowser3v62,Ethan Howser
+Apr 30,home,Iowa Western,L,6-3,6,3,3.0,win,20150430_2ng6,2,1,1,,,,0,,,,,,,,1,0,,,,,2,2015,2014-15,div2,MCC-Longview,mcclongview,ethanhowser3v62,Ethan Howser
+Apr 30,home,Iowa Western,L,11-0,11,0,11.0,win,,,,,,,,,,,,,,,,,,,,,,,2015,2014-15,div2,MCC-Longview,mcclongview,ethanhowser3v62,Ethan Howser
+May 1,home,Southeast,W,8-5,8,5,3.0,win,20150501_g7n5,3,0,1,,,,1,,,,,,,,1,0,,,,,3,2015,2014-15,div2,MCC-Longview,mcclongview,ethanhowser3v62,Ethan Howser
+May 1,home,Southeast,W,9-1,9,1,8.0,win,20150501_cpug,5,1,2,,,,0,,,,,,,,2,0,,,,,5,2015,2014-15,div2,MCC-Longview,mcclongview,ethanhowser3v62,Ethan Howser
+May 2,home,Southeast,L,4-0,4,0,4.0,win,20150502_9mqj,3,0,0,,,,0,,,,,,,,0,0,1,,,,3,2015,2014-15,div2,MCC-Longview,mcclongview,ethanhowser3v62,Ethan Howser
+May 2,home,Southeast,L,7-6,7,6,1.0,win,20150502_0i43,4,0,1,,,1,2,,,,,,,,4,1,1,,,,4,2015,2014-15,div2,MCC-Longview,mcclongview,ethanhowser3v62,Ethan Howser
+May 7,home,Wentworth Military,W,9-0,9,0,9.0,win,20150507_n91v,3,1,1,,,,0,,1,1,,1,,,1,0,,,,,4,2015,2014-15,div2,MCC-Longview,mcclongview,ethanhowser3v62,Ethan Howser
+May 7,home,Wentworth Military,W,10-1,10,1,9.0,win,20150507_di8s,4,2,1,,,,1,1,,1,,,,,1,0,,,,,5,2015,2014-15,div2,MCC-Longview,mcclongview,ethanhowser3v62,Ethan Howser
+May 15,home,Western Oklahoma State,L,10-0,10,0,10.0,win,20150515_a17m,3,0,0,,,,0,,1,,,,,,0,0,1,,,,3,2015,2014-15,div2,MCC-Longview,mcclongview,ethanhowser3v62,Ethan Howser
+May 15,home,Brown Mackie,W,7-6,7,6,1.0,win,20150515_gr94,4,0,2,1,,,0,,1,,,,,,3,1,,,,,4,2015,2014-15,div2,MCC-Longview,mcclongview,ethanhowser3v62,Ethan Howser
+May 17,home,Western Oklahoma State,L,16-8,16,8,8.0,win,,,,,,,,,,,,,,,,,,,,,,,2015,2014-15,div2,MCC-Longview,mcclongview,ethanhowser3v62,Ethan Howser
