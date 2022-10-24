@@ -1,0 +1,70 @@
+date,location,opponent,result,score,team_score,opp_score,game_score_diff,game_win_loss,game_id,AB,R,H,2B,3B,HR,RBI,BB,K,SB,CS,HBP,SF,SH,TB,XBH,HDP,GO,FO,GO/FO,PA,season,njcaa_season,njcaa_division,team,team_id,player_id,player_name
+Jan 25,home,Benedictine JV,W,17-3,17,3,14.0,win,20190125_0irw,2,1,1,,,,1,1,,,,,,,1,0,,,,,3,2019,2018-19,div2,Mesa,mesacommunitycollege,paulsteffensen8f5o,Paul Steffensen
+Jan 26,home,Benedictine JV,W,5-1,5,1,4.0,win,20190126_s2hx,4,0,0,,,,0,,3,,,,,,0,0,,,,,4,2019,2018-19,div2,Mesa,mesacommunitycollege,paulsteffensen8f5o,Paul Steffensen
+Jan 29,home,Grand Canyon Club,W,2-0,2,0,2.0,win,20190129_cdug,2,0,0,,,,0,,,,,,,,0,0,,,,,2,2019,2018-19,div2,Mesa,mesacommunitycollege,paulsteffensen8f5o,Paul Steffensen
+Feb 2,home,Colorado Northwestern,W,5-1,5,1,4.0,win,20190202_x7nw,4,1,2,1,,,1,,,,,,,,3,1,,1,1,1.00,4,2019,2018-19,div2,Mesa,mesacommunitycollege,paulsteffensen8f5o,Paul Steffensen
+Feb 2,home,Colorado Northwestern,L,5-3,5,3,2.0,win,20190202_ee8d,1,0,1,,,,0,,,,,,,,1,0,,,,,1,2019,2018-19,div2,Mesa,mesacommunitycollege,paulsteffensen8f5o,Paul Steffensen
+Feb 5,home,Benedictine JV,W,13-5,13,5,8.0,win,20190205_v3aj,3,1,2,1,,1,6,,,,,,,,6,2,,,,,3,2019,2018-19,div2,Mesa,mesacommunitycollege,paulsteffensen8f5o,Paul Steffensen
+Feb 6,home,Grand Canyon Club,W,16-1,16,1,15.0,win,20190206_kz68,2,2,1,1,,,2,,,,,1,,,2,1,,,,,3,2019,2018-19,div2,Mesa,mesacommunitycollege,paulsteffensen8f5o,Paul Steffensen
+Feb 8,home,ASU Club,W,16-8,16,8,8.0,win,20190208_mph0,2,2,1,1,,,1,1,,1,,,,,2,1,,,,,3,2019,2018-19,div2,Mesa,mesacommunitycollege,paulsteffensen8f5o,Paul Steffensen
+Feb 9,home,ASU Club,W,11-1,11,1,10.0,win,20190209_pce8,2,1,0,,,,0,1,,,,,,,0,0,,,,,3,2019,2018-19,div2,Mesa,mesacommunitycollege,paulsteffensen8f5o,Paul Steffensen
+Feb 12,home,Benedictine JV,W,11-0,11,0,11.0,win,20190212_w2dt,3,1,2,,,1,2,,,,1,,,,5,1,,,,,3,2019,2018-19,div2,Mesa,mesacommunitycollege,paulsteffensen8f5o,Paul Steffensen
+Feb 15,home,Phoenix,L,5-3,5,3,2.0,win,20190215_i2p6,4,0,0,,,,0,1,3,,,,,,0,0,,,,,5,2019,2018-19,div2,Mesa,mesacommunitycollege,paulsteffensen8f5o,Paul Steffensen
+Feb 16,home,Phoenix,W,5-2,5,2,3.0,win,20190216_bptf,5,1,1,1,,,0,,1,,,,,,2,1,,1,2,0.50,5,2019,2018-19,div2,Mesa,mesacommunitycollege,paulsteffensen8f5o,Paul Steffensen
+Feb 17,home,Thompson River,W,9-4,9,4,5.0,win,20190217_taxk,1,1,1,,1,,2,,,,,,,,3,1,,,,,1,2019,2018-19,div2,Mesa,mesacommunitycollege,paulsteffensen8f5o,Paul Steffensen
+Feb 19,home,Glendale,L,10-6,10,6,4.0,win,20190219_vmcc,5,2,3,,,,0,,1,,,,,,3,0,,,,,5,2019,2018-19,div2,Mesa,mesacommunitycollege,paulsteffensen8f5o,Paul Steffensen
+Feb 20,home,Glendale,L,1-0,1,0,1.0,win,20190220_hv2a,5,0,2,,,,0,,,,,,,,2,0,,,,,5,2019,2018-19,div2,Mesa,mesacommunitycollege,paulsteffensen8f5o,Paul Steffensen
+Feb 21,home,Arizona Christian University JV,,,,,1.0,win,,,,,,,,,,,,,,,,,,,,,,,2019,2018-19,div2,Mesa,mesacommunitycollege,paulsteffensen8f5o,Paul Steffensen
+Feb 24,home,Pima,L,1-0,1,0,1.0,win,20190224_f3lf,3,0,0,,,,0,,1,,,,,,0,0,,,,,3,2019,2018-19,div2,Mesa,mesacommunitycollege,paulsteffensen8f5o,Paul Steffensen
+Feb 24,home,Pima,L,10-2,10,2,8.0,win,20190224_95dd,4,0,0,,,,1,,1,,,,,,0,0,,,,,4,2019,2018-19,div2,Mesa,mesacommunitycollege,paulsteffensen8f5o,Paul Steffensen
+Feb 25,home,Arizona Christian University JV,W,14-1,14,1,13.0,win,20190225_2jdx,1,0,0,,,,0,,,,,,,,0,0,,,,,1,2019,2018-19,div2,Mesa,mesacommunitycollege,paulsteffensen8f5o,Paul Steffensen
+Feb 26,home,Yavapai,W,2-0,2,0,2.0,win,20190226_m98h,2,0,1,,,,1,1,1,1,,,,,1,0,,,,,3,2019,2018-19,div2,Mesa,mesacommunitycollege,paulsteffensen8f5o,Paul Steffensen
+Feb 26,home,Yavapai,L,8-4,8,4,4.0,win,20190226_6lco,5,0,2,,1,,1,,,1,,,,,4,1,,,,,5,2019,2018-19,div2,Mesa,mesacommunitycollege,paulsteffensen8f5o,Paul Steffensen
+Mar 1,home,GateWay (AZ),W,6-5,6,5,1.0,win,20190301_hi0n,5,0,1,,,,0,,,,,,,,1,0,,,,,5,2019,2018-19,div2,Mesa,mesacommunitycollege,paulsteffensen8f5o,Paul Steffensen
+Mar 2,home,GateWay (AZ),L,8-6,8,6,2.0,win,20190302_3p9e,5,0,2,,,,0,,,1,,,,,2,0,,1,2,0.50,5,2019,2018-19,div2,Mesa,mesacommunitycollege,paulsteffensen8f5o,Paul Steffensen
+Mar 5,home,Chandler-Gilbert,W,9-0,9,0,9.0,win,20190305_l4g7,4,1,1,,,,0,,,,,1,,,1,0,,,,,5,2019,2018-19,div2,Mesa,mesacommunitycollege,paulsteffensen8f5o,Paul Steffensen
+Mar 6,home,Chandler-Gilbert,W,11-6,11,6,5.0,win,20190306_0ftd,4,1,1,1,,,1,1,,,,,,,2,1,,,,,5,2019,2018-19,div2,Mesa,mesacommunitycollege,paulsteffensen8f5o,Paul Steffensen
+Mar 8,home,Paradise Valley,W,10-0,10,0,10.0,win,20190308_z1jr,4,3,3,2,,,3,,1,,,,,,5,2,,,,,4,2019,2018-19,div2,Mesa,mesacommunitycollege,paulsteffensen8f5o,Paul Steffensen
+Mar 9,home,Paradise Valley,W,8-7,8,7,1.0,win,20190309_60i1,3,2,0,,,,2,3,,2,,,,,0,0,,,,,6,2019,2018-19,div2,Mesa,mesacommunitycollege,paulsteffensen8f5o,Paul Steffensen
+Mar 12,home,Grand Canyon Club,,,,,1.0,win,,,,,,,,,,,,,,,,,,,,,,,2019,2018-19,div2,Mesa,mesacommunitycollege,paulsteffensen8f5o,Paul Steffensen
+Mar 14,home,Dawson,W,7-3,7,3,4.0,win,,,,,,,,,,,,,,,,,,,,,,,2019,2018-19,div2,Mesa,mesacommunitycollege,paulsteffensen8f5o,Paul Steffensen
+Mar 14,home,Dawson,W,6-2,6,2,4.0,win,,,,,,,,,,,,,,,,,,,,,,,2019,2018-19,div2,Mesa,mesacommunitycollege,paulsteffensen8f5o,Paul Steffensen
+Mar 16,home,Western Nebraska,W,5-2,5,2,3.0,win,,,,,,,,,,,,,,,,,,,,,,,2019,2018-19,div2,Mesa,mesacommunitycollege,paulsteffensen8f5o,Paul Steffensen
+Mar 17,home,Madison,W,12-4,12,4,8.0,win,,,,,,,,,,,,,,,,,,,,,,,2019,2018-19,div2,Mesa,mesacommunitycollege,paulsteffensen8f5o,Paul Steffensen
+Mar 19,home,Scottsdale,W,9-0,9,0,9.0,win,20190319_ycpd,5,2,3,1,,,0,,2,,,,,,4,1,,,,,5,2019,2018-19,div2,Mesa,mesacommunitycollege,paulsteffensen8f5o,Paul Steffensen
+Mar 20,home,Scottsdale,W,6-5,6,5,1.0,win,20190320_3hch,5,1,2,1,,,0,,3,,,,,,3,1,,,,,5,2019,2018-19,div2,Mesa,mesacommunitycollege,paulsteffensen8f5o,Paul Steffensen
+Mar 21,home,Arizona Christian University,W,15-1,15,1,14.0,win,20190321_2mz3,3,2,2,1,,,0,,,,,,,,3,1,,,,,3,2019,2018-19,div2,Mesa,mesacommunitycollege,paulsteffensen8f5o,Paul Steffensen
+Mar 23,home,Arizona Western,L,6-0,6,0,6.0,win,20190323_7by8,3,0,1,1,,,0,,1,,,,,,2,1,,,,,3,2019,2018-19,div2,Mesa,mesacommunitycollege,paulsteffensen8f5o,Paul Steffensen
+Mar 23,home,Arizona Western,L,14-4,14,4,10.0,win,20190323_r2qw,4,0,0,,,,0,,1,,,,,,0,0,,,,,4,2019,2018-19,div2,Mesa,mesacommunitycollege,paulsteffensen8f5o,Paul Steffensen
+Mar 26,home,Central Arizona,L,12-2,12,2,10.0,win,20190326_j5bv,4,0,1,1,,,0,,,,,,,,2,1,,,,,4,2019,2018-19,div2,Mesa,mesacommunitycollege,paulsteffensen8f5o,Paul Steffensen
+Mar 27,home,Central Arizona,W,3-2,3,2,1.0,win,20190327_innn,4,0,1,1,,,2,,2,,,,,,2,1,,,,,4,2019,2018-19,div2,Mesa,mesacommunitycollege,paulsteffensen8f5o,Paul Steffensen
+Mar 30,home,Cochise,W,1-0,1,0,1.0,win,,,,,,,,,,,,,,,,,,,,,,,2019,2018-19,div2,Mesa,mesacommunitycollege,paulsteffensen8f5o,Paul Steffensen
+Mar 30,home,Cochise,L,7-2,7,2,5.0,win,,,,,,,,,,,,,,,,,,,,,,,2019,2018-19,div2,Mesa,mesacommunitycollege,paulsteffensen8f5o,Paul Steffensen
+Apr 2,home,Eastern Arizona,L,5-4,5,4,1.0,win,,,,,,,,,,,,,,,,,,,,,,,2019,2018-19,div2,Mesa,mesacommunitycollege,paulsteffensen8f5o,Paul Steffensen
+Apr 2,home,Eastern Arizona,W,10-8,10,8,2.0,win,,,,,,,,,,,,,,,,,,,,,,,2019,2018-19,div2,Mesa,mesacommunitycollege,paulsteffensen8f5o,Paul Steffensen
+Apr 5,home,GateWay (AZ),L,5-3,5,3,2.0,win,,,,,,,,,,,,,,,,,,,,,,,2019,2018-19,div2,Mesa,mesacommunitycollege,paulsteffensen8f5o,Paul Steffensen
+Apr 6,home,GateWay (AZ),L,17-10,17,10,7.0,win,,,,,,,,,,,,,,,,,,,,,,,2019,2018-19,div2,Mesa,mesacommunitycollege,paulsteffensen8f5o,Paul Steffensen
+Apr 8,home,Arizona Christian University JV,W,12-2,12,2,10.0,win,,,,,,,,,,,,,,,,,,,,,,,2019,2018-19,div2,Mesa,mesacommunitycollege,paulsteffensen8f5o,Paul Steffensen
+Apr 9,home,Chandler-Gilbert,W,10-7,10,7,3.0,win,20190409_4gji,5,1,1,,,1,1,,,,,,,,4,1,,,,,5,2019,2018-19,div2,Mesa,mesacommunitycollege,paulsteffensen8f5o,Paul Steffensen
+Apr 10,home,Chandler-Gilbert,W,7-3,7,3,4.0,win,20190410_yvj3,4,1,3,,,1,1,1,,,,,,,6,1,,,,,5,2019,2018-19,div2,Mesa,mesacommunitycollege,paulsteffensen8f5o,Paul Steffensen
+Apr 12,home,Paradise Valley,W,7-1,7,1,6.0,win,20190412_lkqw,5,1,3,,,,1,,,,,,,,3,0,,,,,5,2019,2018-19,div2,Mesa,mesacommunitycollege,paulsteffensen8f5o,Paul Steffensen
+Apr 13,home,Paradise Valley,L,6-3,6,3,3.0,win,20190413_1066,5,0,0,,,,0,,2,,,,,,0,0,,,,,5,2019,2018-19,div2,Mesa,mesacommunitycollege,paulsteffensen8f5o,Paul Steffensen
+Apr 16,home,Scottsdale,L,2-1,2,1,1.0,win,20190416_yray,4,0,1,1,,,1,,1,,,,,,2,1,,,,,4,2019,2018-19,div2,Mesa,mesacommunitycollege,paulsteffensen8f5o,Paul Steffensen
+Apr 17,home,Scottsdale,W,6-4,6,4,2.0,win,20190417_e6x7,4,1,1,,,,0,1,2,,,,,,1,0,,,,,5,2019,2018-19,div2,Mesa,mesacommunitycollege,paulsteffensen8f5o,Paul Steffensen
+Apr 19,home,South Mountain,L,4-3,4,3,1.0,win,20190419_1inp,4,1,0,,,,0,,1,,,,,,0,0,,,,,4,2019,2018-19,div2,Mesa,mesacommunitycollege,paulsteffensen8f5o,Paul Steffensen
+Apr 20,home,South Mountain,W,5-4,5,4,1.0,win,20190420_l3vv,4,0,1,,,,0,,2,,,,,,1,0,,,,,4,2019,2018-19,div2,Mesa,mesacommunitycollege,paulsteffensen8f5o,Paul Steffensen
+Apr 23,home,Phoenix,W,2-1,2,1,1.0,win,,,,,,,,,,,,,,,,,,,,,,,2019,2018-19,div2,Mesa,mesacommunitycollege,paulsteffensen8f5o,Paul Steffensen
+Apr 24,home,Phoenix,L,4-2,4,2,2.0,win,,,,,,,,,,,,,,,,,,,,,,,2019,2018-19,div2,Mesa,mesacommunitycollege,paulsteffensen8f5o,Paul Steffensen
+Apr 26,home,Glendale,L,8-3,8,3,5.0,win,,,,,,,,,,,,,,,,,,,,,,,2019,2018-19,div2,Mesa,mesacommunitycollege,paulsteffensen8f5o,Paul Steffensen
+Apr 27,home,Glendale,W,10-4,10,4,6.0,win,,,,,,,,,,,,,,,,,,,,,,,2019,2018-19,div2,Mesa,mesacommunitycollege,paulsteffensen8f5o,Paul Steffensen
+May 2,home,Glendale,W,11-2,11,2,9.0,win,,,,,,,,,,,,,,,,,,,,,,,2019,2018-19,div2,Mesa,mesacommunitycollege,paulsteffensen8f5o,Paul Steffensen
+May 3,home,Glendale,W,4-1,4,1,3.0,win,,,,,,,,,,,,,,,,,,,,,,,2019,2018-19,div2,Mesa,mesacommunitycollege,paulsteffensen8f5o,Paul Steffensen
+May 9,home,GateWay (AZ),W,3-0,3,0,3.0,win,20190509_mj43,3,0,1,,,,1,,,,,1,,,1,0,,,,,4,2019,2018-19,div2,Mesa,mesacommunitycollege,paulsteffensen8f5o,Paul Steffensen
+May 10,home,GateWay (AZ),L,10-7,10,7,3.0,win,20190510_qgqz,3,1,1,,,,0,1,2,,,1,,,1,0,,,,,5,2019,2018-19,div2,Mesa,mesacommunitycollege,paulsteffensen8f5o,Paul Steffensen
+May 11,home,GateWay (AZ),W,8-7,8,7,1.0,win,20190511_x999,5,0,2,1,,,0,,,,,,,,3,1,,2,1,2.00,5,2019,2018-19,div2,Mesa,mesacommunitycollege,paulsteffensen8f5o,Paul Steffensen
+May 26,home,(6) Lincoln Land,W,2-0,2,0,2.0,win,20190526_p0rh,4,0,1,0,0,0,0,0,2,0,0,0,0,0,1,0,,0,,,4,2019,2018-19,div2,Mesa,mesacommunitycollege,paulsteffensen8f5o,Paul Steffensen
+May 28,home,(2) Madison,L,4-3,4,3,1.0,win,20190528_u9fq,4,0,1,1,0,0,1,1,0,0,0,0,0,0,2,1,,0,,,5,2019,2018-19,div2,Mesa,mesacommunitycollege,paulsteffensen8f5o,Paul Steffensen
+May 28,home,(7) Northeast,W,8-6,8,6,2.0,win,20190528_32lm,6,0,2,0,0,0,1,0,2,0,0,0,0,0,2,0,,0,,,6,2019,2018-19,div2,Mesa,mesacommunitycollege,paulsteffensen8f5o,Paul Steffensen
+May 29,home,(2) Madison,W,11-3,11,3,8.0,win,20190529_0cb7,5,2,2,0,0,0,1,0,1,0,0,0,0,0,2,0,,0,,,5,2019,2018-19,div2,Mesa,mesacommunitycollege,paulsteffensen8f5o,Paul Steffensen
+May 30,home,(2) Madison,W,7-4,7,4,3.0,win,20190530_xsnr,5,1,2,1,1,0,2,0,0,0,0,0,0,0,5,2,,0,,,5,2019,2018-19,div2,Mesa,mesacommunitycollege,paulsteffensen8f5o,Paul Steffensen
+May 31,home,(5) Northern Oklahoma Enid,L,5-4,5,4,1.0,win,20190531_17em,5,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,,0,,,5,2019,2018-19,div2,Mesa,mesacommunitycollege,paulsteffensen8f5o,Paul Steffensen
