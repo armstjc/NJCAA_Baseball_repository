@@ -1,0 +1,51 @@
+date,location,opponent,result,score,team_score,opp_score,game_score_diff,game_win_loss,game_id,AB,R,H,2B,3B,HR,RBI,BB,K,SB,CS,HBP,SF,SH,TB,XBH,HDP,GO,FO,GO/FO,PA,season,njcaa_season,njcaa_division,team,team_id,player_id,player_name
+Mar 11,home,Rockingham,W,10-1,10,1,9.0,win,20220311_3cfa,3,2,1,,,,0,1,1,,,,,,1,0,,,,,4,2022,2021-22,div3,Herkimer,herkimercollege,ethandudawjvi,Ethan Duda
+Mar 11,home,Rockingham,W,5-4,5,4,1.0,win,,,,,,,,,,,,,,,,,,,,,,,2022,2021-22,div3,Herkimer,herkimercollege,ethandudawjvi,Ethan Duda
+Mar 15,home,Niagara County,L,8-6,8,6,2.0,win,20220315_a8ny,0,0,0,,,,0,,,,,,,,0,0,,,,,0,2022,2021-22,div3,Herkimer,herkimercollege,ethandudawjvi,Ethan Duda
+Mar 15,home,Niagara County,L,5-1,5,1,4.0,win,20220315_z8k7,3,1,2,,,,0,,,,,,,,2,0,,,,,3,2022,2021-22,div3,Herkimer,herkimercollege,ethandudawjvi,Ethan Duda
+Mar 16,home,Northern Essex,W,8-4,8,4,4.0,win,20220316_wfzi,5,1,1,,,1,1,,3,,,,,,4,1,,,,,5,2022,2021-22,div3,Herkimer,herkimercollege,ethandudawjvi,Ethan Duda
+Mar 16,home,Northern Essex,L,5-2,5,2,3.0,win,20220316_umbk,1,0,0,,,,0,,,,,,,,0,0,,,,,1,2022,2021-22,div3,Herkimer,herkimercollege,ethandudawjvi,Ethan Duda
+Mar 17,home,Brookdale,W,10-0,10,0,10.0,win,20220317_t9ad,3,1,2,,,,1,,1,2,,,,,2,0,,,,,3,2022,2021-22,div3,Herkimer,herkimercollege,ethandudawjvi,Ethan Duda
+Mar 17,home,Brookdale,W,11-7,11,7,4.0,win,20220317_sfpt,3,1,1,,,1,1,1,1,,,,,,4,1,,,,,4,2022,2021-22,div3,Herkimer,herkimercollege,ethandudawjvi,Ethan Duda
+Mar 19,home,Northampton,W,14-10,14,10,4.0,win,20220319_zt4h,3,2,2,1,,1,2,,,,,,,,6,2,,,,,3,2022,2021-22,div3,Herkimer,herkimercollege,ethandudawjvi,Ethan Duda
+Mar 19,home,Northampton,L,8-7,8,7,1.0,win,20220319_ea2x,4,1,2,,,1,1,,1,,,,,,5,1,,,,,4,2022,2021-22,div3,Herkimer,herkimercollege,ethandudawjvi,Ethan Duda
+Mar 31,home,Hudson Valley,W,17-11,17,11,6.0,win,20220331_18jr,2,1,1,1,,,2,2,,4,,,,,2,1,,,,,4,2022,2021-22,div3,Herkimer,herkimercollege,ethandudawjvi,Ethan Duda
+Mar 31,home,Hudson Valley,,,,,6.0,win,,,,,,,,,,,,,,,,,,,,,,,2022,2021-22,div3,Herkimer,herkimercollege,ethandudawjvi,Ethan Duda
+Apr 2,home,Hudson Valley,W,8-2,8,2,6.0,win,20220402_9g3m,0,0,2,,,,1,1,,1,,,,,0,0,,,,,1,2022,2021-22,div3,Herkimer,herkimercollege,ethandudawjvi,Ethan Duda
+Apr 2,home,Hudson Valley,W,12-1,12,1,11.0,win,20220402_dtct,3,1,1,,,1,2,,,,,,,,4,1,,,,,3,2022,2021-22,div3,Herkimer,herkimercollege,ethandudawjvi,Ethan Duda
+Apr 5,home,Columbia-Greene,W,10-0,10,0,10.0,win,20220405_whgz,3,2,1,,,1,2,1,,,,,,,4,1,,,,,4,2022,2021-22,div3,Herkimer,herkimercollege,ethandudawjvi,Ethan Duda
+Apr 5,home,Columbia-Greene,W,19-2,19,2,17.0,win,20220405_5eok,3,3,1,,1,,1,1,,,,1,,,3,1,,,,,5,2022,2021-22,div3,Herkimer,herkimercollege,ethandudawjvi,Ethan Duda
+Apr 10,home,Jefferson (NY),W,10-0,10,0,10.0,win,20220410_l3zd,2,2,1,1,,,0,1,1,1,,,,,2,1,,,,,3,2022,2021-22,div3,Herkimer,herkimercollege,ethandudawjvi,Ethan Duda
+Apr 10,home,Jefferson (NY),W,10-0,10,0,10.0,win,20220410_aty2,2,1,0,,,,0,1,,2,,,,,0,0,,,,,3,2022,2021-22,div3,Herkimer,herkimercollege,ethandudawjvi,Ethan Duda
+Apr 12,home,Columbia-Greene,W,16-3,16,3,13.0,win,20220412_cw54,3,0,0,,,,0,,2,,,,,,0,0,,,,,3,2022,2021-22,div3,Herkimer,herkimercollege,ethandudawjvi,Ethan Duda
+Apr 12,home,Columbia-Greene,W,17-1,17,1,16.0,win,20220412_ivfl,1,2,1,,,1,3,1,,1,,,,,4,1,,,,,2,2022,2021-22,div3,Herkimer,herkimercollege,ethandudawjvi,Ethan Duda
+Apr 14,home,Finger Lakes,W,4-3,4,3,1.0,win,20220414_x12j,2,0,1,1,,,1,,1,,,,,,2,1,,,,,2,2022,2021-22,div3,Herkimer,herkimercollege,ethandudawjvi,Ethan Duda
+Apr 14,home,Finger Lakes,,,,,1.0,win,,,,,,,,,,,,,,,,,,,,,,,2022,2021-22,div3,Herkimer,herkimercollege,ethandudawjvi,Ethan Duda
+Apr 23,home,Jefferson (NY),W,6-1,6,1,5.0,win,20220423_exgh,4,2,2,,,,0,,,,,,,,2,0,,,,,4,2022,2021-22,div3,Herkimer,herkimercollege,ethandudawjvi,Ethan Duda
+Apr 23,home,Jefferson (NY),W,17-7,17,7,10.0,win,,,,,,,,,,,,,,,,,,,,,,,2022,2021-22,div3,Herkimer,herkimercollege,ethandudawjvi,Ethan Duda
+Apr 24,home,SUNY Adirondack,W,10-0,10,0,10.0,win,20220424_cwjq,4,2,2,,,,2,,,,,,,,2,0,,,,,4,2022,2021-22,div3,Herkimer,herkimercollege,ethandudawjvi,Ethan Duda
+Apr 24,home,SUNY Adirondack,W,4-0,4,0,4.0,win,20220424_k7qu,2,2,1,1,,,0,1,1,,,,,,2,1,,,,,3,2022,2021-22,div3,Herkimer,herkimercollege,ethandudawjvi,Ethan Duda
+Apr 26,home,Mohawk Valley,W,15-5,15,5,10.0,win,20220426_byqa,4,0,0,,,,0,,2,,,,,,0,0,,,,,4,2022,2021-22,div3,Herkimer,herkimercollege,ethandudawjvi,Ethan Duda
+Apr 26,home,Mohawk Valley,W,14-3,14,3,11.0,win,20220426_dgd9,3,0,0,,,,0,,1,,,1,,,0,0,,,,,4,2022,2021-22,div3,Herkimer,herkimercollege,ethandudawjvi,Ethan Duda
+Apr 28,home,SUNY Adirondack,W,15-5,15,5,10.0,win,20220428_s4vg,3,1,1,1,,,1,1,,,,,,,2,1,,,,,4,2022,2021-22,div3,Herkimer,herkimercollege,ethandudawjvi,Ethan Duda
+Apr 28,home,SUNY Adirondack,W,11-3,11,3,8.0,win,20220428_4gg8,2,2,2,1,,1,3,,,,,,,,6,2,,,,,2,2022,2021-22,div3,Herkimer,herkimercollege,ethandudawjvi,Ethan Duda
+Apr 30,home,Cayuga,W,4-0,4,0,4.0,win,20220430_mtdi,4,0,0,,,,0,,1,,,,,,0,0,,,,,4,2022,2021-22,div3,Herkimer,herkimercollege,ethandudawjvi,Ethan Duda
+Apr 30,home,Cayuga,W,4-3,4,3,1.0,win,20220430_q2rc,5,1,0,,,,0,,,,,,,,0,0,,,,,5,2022,2021-22,div3,Herkimer,herkimercollege,ethandudawjvi,Ethan Duda
+May 1,home,Cayuga,W,9-8,9,8,1.0,win,20220501_bsmg,2,0,0,,,,1,2,,,,,,,0,0,,,,,4,2022,2021-22,div3,Herkimer,herkimercollege,ethandudawjvi,Ethan Duda
+May 1,home,Cayuga,W,3-1,3,1,2.0,win,20220501_ypq9,3,0,0,,,,0,,1,,,,,,0,0,,,,,3,2022,2021-22,div3,Herkimer,herkimercollege,ethandudawjvi,Ethan Duda
+May 7,home,RCSJ Gloucester,W,12-2,12,2,10.0,win,,,,,,,,,,,,,,,,,,,,,,,2022,2021-22,div3,Herkimer,herkimercollege,ethandudawjvi,Ethan Duda
+May 7,home,RCSJ Gloucester,W,8-0,8,0,8.0,win,20220507_r0u8,3,0,1,,,,0,,1,,,,,,1,0,,,,,3,2022,2021-22,div3,Herkimer,herkimercollege,ethandudawjvi,Ethan Duda
+May 8,home,RCSJ Gloucester,L,8-6,8,6,2.0,win,20220508_d16v,3,1,0,,,,0,,1,1,,,,,0,0,,,,,3,2022,2021-22,div3,Herkimer,herkimercollege,ethandudawjvi,Ethan Duda
+May 10,home,Mohawk Valley,W,2-1,2,1,1.0,win,20220510_kkul,2,0,1,,,,0,1,,,,,,,1,0,,,,,3,2022,2021-22,div3,Herkimer,herkimercollege,ethandudawjvi,Ethan Duda
+May 10,home,Mohawk Valley,W,8-5,8,5,3.0,win,,,,,,,,,,,,,,,,,,,,,,,2022,2021-22,div3,Herkimer,herkimercollege,ethandudawjvi,Ethan Duda
+May 14,home,Onondaga,W,11-0,11,0,11.0,win,,,,,,,,,,,,,,,,,,,,,,,2022,2021-22,div3,Herkimer,herkimercollege,ethandudawjvi,Ethan Duda
+May 14,home,Onondaga,W,10-0,10,0,10.0,win,,,,,,,,,,,,,,,,,,,,,,,2022,2021-22,div3,Herkimer,herkimercollege,ethandudawjvi,Ethan Duda
+May 19,home,Finger Lakes,L,2-0,2,0,2.0,win,20220519_xxcj,0,0,0,,,,0,,1,,,,,,0,0,,,,,0,2022,2021-22,div3,Herkimer,herkimercollege,ethandudawjvi,Ethan Duda
+May 20,home,Erie,W,2-1,2,1,1.0,win,20220520_bwgg,3,1,0,,,,0,,1,,,,,,0,0,,,1,,3,2022,2021-22,div3,Herkimer,herkimercollege,ethandudawjvi,Ethan Duda
+May 20,home,Finger Lakes,W,9-2,9,2,7.0,win,20220520_gy46,3,0,2,,,,1,,1,,,,,,2,0,,,,,3,2022,2021-22,div3,Herkimer,herkimercollege,ethandudawjvi,Ethan Duda
+May 21,home,Niagara County,W,7-5,7,5,2.0,win,20220521_hsmz,4,1,1,,,,1,,2,,,,,,1,0,,,,,4,2022,2021-22,div3,Herkimer,herkimercollege,ethandudawjvi,Ethan Duda
+May 21,home,Niagara County,L,9-8,9,8,1.0,win,20220521_ss1y,5,1,3,,,,5,,1,,,,,,3,0,,,,,5,2022,2021-22,div3,Herkimer,herkimercollege,ethandudawjvi,Ethan Duda
+May 28,home,(3) Northern Essex,W,10-0,10,0,10.0,win,20220528_uabw,2,1,1,,,,0,2,,,,,,,1,0,1,1,,,4,2022,2021-22,div3,Herkimer,herkimercollege,ethandudawjvi,Ethan Duda
+May 29,home,(7) Oakton,W,9-8,9,8,1.0,win,20220529_5qdt,3,2,2,,,,2,2,,1,1,,,,2,0,,1,,,5,2022,2021-22,div3,Herkimer,herkimercollege,ethandudawjvi,Ethan Duda
+May 30,home,(5) Dallas-Eastfield,W,9-3,9,3,6.0,win,20220530_9320,6,0,3,1,,,0,,3,,,,,,4,1,,,,,6,2022,2021-22,div3,Herkimer,herkimercollege,ethandudawjvi,Ethan Duda
+Jun 1,home,(5) Dallas-Eastfield,W,9-3,9,3,6.0,win,20220601_zdlf,3,0,0,,,,0,1,3,,,,,,0,0,,,,,4,2022,2021-22,div3,Herkimer,herkimercollege,ethandudawjvi,Ethan Duda
