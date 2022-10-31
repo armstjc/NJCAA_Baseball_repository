@@ -1,12 +1,13 @@
-from selenium import webdriver
+#from selenium import webdriver
 import time
 import pandas as pd
+import requests
 from bs4 import BeautifulSoup
 from tqdm import tqdm
 
 
 def getNjcaaD1BattingGamelogs(webdriverPath="./chromedriver_mac64_m1"):
-	teams_df = pd.read_csv('rosters/div3_rosters.csv')
+	teams_df = pd.read_csv('rosters/div1_rosters.csv')
 	teams_df = teams_df[teams_df['team_season'] != 2023]
 	school_name = teams_df['team_name'].tolist()
 	school_njcaa_season = teams_df['team_njcaa_season'].tolist()
@@ -20,9 +21,9 @@ def getNjcaaD1BattingGamelogs(webdriverPath="./chromedriver_mac64_m1"):
 	player_urls = teams_df['PlayerURL'].tolist()
 
 	player_count = len(player_urls)
-	driver = webdriver.Chrome(
-		executable_path=webdriverPath)
-	count = 15600
+	# driver = webdriver.Chrome(
+	# 	executable_path=webdriverPath)
+	count = 0
 	for i in tqdm(range(count,player_count)):
 		count += 1
 		print(f'{count}/{player_count}')
@@ -104,13 +105,17 @@ def getNjcaaD1BattingGamelogs(webdriverPath="./chromedriver_mac64_m1"):
 		game_fielding_CI = None # Catcher's Interference
 
 		url = player_urls[i]
-		driver.get(url)
-		soup = BeautifulSoup(driver.page_source, features='lxml')
+		#driver.get(url)
+		headers = {"User-Agent":"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36"}
+		response = requests.get(url,headers=headers)
+		soup = BeautifulSoup(response.text, features='lxml')
+		
 		# soup.find_all('table')[2] = Batting
 		# soup.find_all('table')[3] = Extended Hitting
 		# soup.find_all('table')[4] = Pitching
 		# soup.find_all('table')[5] = Fielding
 		batting_table = soup.find_all('table')[2]
+		#print(len(soup.find_all('table')))
 		#print(table)
 		# cols = []
 
@@ -118,7 +123,7 @@ def getNjcaaD1BattingGamelogs(webdriverPath="./chromedriver_mac64_m1"):
 		# 		cols.append(j.text.strip())
 		# print(cols)
 
-		for k in batting_table.tbody.find_all('tr'):
+		for k in batting_table.find_all('tr'):
 			row = k.find_all('td')
 			if len(row) < 2:
 				pass
@@ -187,7 +192,8 @@ def getNjcaaD1BattingGamelogs(webdriverPath="./chromedriver_mac64_m1"):
 				else:
 					game_loc = 'home'
 
-				gamelog_batting_df = gamelog_batting_df.append({
+
+				row_df = pd.DataFrame({
 					'date':game_date,'location':game_loc,'opponent':game_opponent,
 					'result':game_result,'score':game_score,
 					'team_score':game_team_score,'opp_score':game_opp_score,
@@ -196,12 +202,14 @@ def getNjcaaD1BattingGamelogs(webdriverPath="./chromedriver_mac64_m1"):
 					'2B':game_batting_2B,'3B':game_batting_3B,
 					'HR':game_batting_HR,'RBI':game_batting_RBI,
 					'BB':game_batting_BB,'K':game_batting_K,'SB':game_batting_SB,
-					'CS':game_batting_CS},ignore_index=True)
+					'CS':game_batting_CS},index=[0])
+				gamelog_batting_df = pd.concat([gamelog_batting_df,row_df], ignore_index=True)
+				del row_df
 
 		#print(gamelog_batting_df)
 		# soup.find_all('table')[3] = Extended Hitting
 		ex_batting_table = soup.find_all('table')[3]
-		for k in ex_batting_table.tbody.find_all('tr'):
+		for k in ex_batting_table.find_all('tr'):
 			row = k.find_all('td')
 			if len(row) < 2:
 				pass
@@ -270,8 +278,7 @@ def getNjcaaD1BattingGamelogs(webdriverPath="./chromedriver_mac64_m1"):
 				else:
 					game_loc = 'home'
 
-
-				gamelog_ex_batting_df = gamelog_ex_batting_df.append({
+				row_df = pd.DataFrame({
 					'date':game_date,'location':game_loc,'opponent':game_opponent,
 					'result':game_result,'score':game_score,
 					'team_score':game_team_score,'opp_score':game_opp_score,
@@ -280,7 +287,9 @@ def getNjcaaD1BattingGamelogs(webdriverPath="./chromedriver_mac64_m1"):
 					'TB':game_batting_TB,'XBH':game_batting_XBH,
 					'HDP':game_batting_HDP,'GO':game_batting_GO,
 					'FO':game_batting_FO,'GO/FO':game_batting_GO_FO,
-					'PA':game_batting_PA},ignore_index=True)
+					'PA':game_batting_PA},index=[0])
+				gamelog_ex_batting_df = pd.concat([gamelog_ex_batting_df,row_df],ignore_index=True)
+				del row_df
 		
 		#print(gamelog_ex_batting_df)
 
@@ -300,7 +309,7 @@ def getNjcaaD1BattingGamelogs(webdriverPath="./chromedriver_mac64_m1"):
 		del gamelog_batting_df, gamelog_ex_batting_df, batting_table, ex_batting_table
 
 		pitching_table = soup.find_all('table')[4]
-		for k in pitching_table.tbody.find_all('tr'):
+		for k in pitching_table.find_all('tr'):
 			row = k.find_all('td')
 			if len(row) < 2:
 				pass
@@ -372,7 +381,7 @@ def getNjcaaD1BattingGamelogs(webdriverPath="./chromedriver_mac64_m1"):
 				else:
 					game_loc = 'home'
 
-				gamelog_pitching_df = gamelog_pitching_df.append({
+				row_df = pd.DataFrame({
 					'date':game_date,'location':game_loc,'opponent':game_opponent,
 					'result':game_result,'score':game_score,
 					'team_score':game_team_score,'opp_score':game_opp_score,
@@ -380,8 +389,9 @@ def getNjcaaD1BattingGamelogs(webdriverPath="./chromedriver_mac64_m1"):
 					'GS':game_pitching_GS,'W':game_pitching_W,'L':game_pitching_L,
 					'SV':game_pitching_SV,'IP':game_pitching_IP,'H':game_pitching_H,
 					'R':game_pitching_R,'ER':game_pitching_ER,'ERA':game_pitching_ERA,
-					'BB':game_pitching_BB,'K':game_pitching_K,'HR':game_pitching_HR}
-					,ignore_index=True)
+					'BB':game_pitching_BB,'K':game_pitching_K,'HR':game_pitching_HR},index=[0])
+				gamelog_pitching_df = pd.concat([row_df,gamelog_pitching_df],ignore_index=True)
+				del row_df
 
 		gamelog_pitching_df['season'] = game_season
 		gamelog_pitching_df['njcaa_season'] = game_njcaa_season
@@ -395,7 +405,7 @@ def getNjcaaD1BattingGamelogs(webdriverPath="./chromedriver_mac64_m1"):
 		del gamelog_pitching_df,pitching_table
 
 		fielding_table = soup.find_all('table')[4]
-		for k in fielding_table.tbody.find_all('tr'):
+		for k in fielding_table.find_all('tr'):
 			row = k.find_all('td')
 			if len(row) < 2:
 				pass
@@ -465,7 +475,7 @@ def getNjcaaD1BattingGamelogs(webdriverPath="./chromedriver_mac64_m1"):
 				else:
 					game_loc = 'home'
 
-				gamelog_fielding_df = gamelog_fielding_df.append({
+				row_df = pd.DataFrame({
 					'date':game_date,'location':game_loc,'opponent':game_opponent,
 					'result':game_result,'score':game_score,
 					'team_score':game_team_score,'opp_score':game_opp_score,
@@ -474,8 +484,9 @@ def getNjcaaD1BattingGamelogs(webdriverPath="./chromedriver_mac64_m1"):
 					'E':game_fielding_E,'FPCT':game_fielding_FPCT,
 					'DP':game_fielding_DP,'SBA':game_fielding_SBA,
 					'RCS':game_fielding_RCS,'RCS_PCT':game_fielding_RCS_PCT,
-					'PB':game_fielding_PB,'CI':game_fielding_CI}
-					,ignore_index=True)
+					'PB':game_fielding_PB,'CI':game_fielding_CI},index=[0])
+				gamelog_fielding_df = pd.concat([gamelog_fielding_df,row_df],ignore_index=True)
+				del row_df
 
 		gamelog_fielding_df['season'] = game_season
 		gamelog_fielding_df['njcaa_season'] = game_njcaa_season
