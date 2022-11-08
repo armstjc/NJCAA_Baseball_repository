@@ -4,16 +4,17 @@ import pandas as pd
 from bs4 import BeautifulSoup
 from tqdm import tqdm
 from unidecode import unidecode
+import requests
 
-def getNjcaaRosters(webdriverPath="./chromedriver_mac64_m1"):
+def getNjcaaRosters():
 	teams_df = pd.read_csv('njcaa_schools.csv')
 	school_name = teams_df['school_name'].tolist()
 	school_njcaa_season = teams_df['njcaa_season'].tolist()
 	school_njcaa_division = teams_df['division'].tolist()
 	school_team_id = teams_df['team_id'].tolist()
 	school_season = teams_df['season'].tolist()
-	driver = webdriver.Chrome(
-		executable_path=webdriverPath)
+	# driver = webdriver.Chrome(
+	# 	executable_path=webdriverPath)
 	
 	roster_df = pd.DataFrame()
 	for i in tqdm(range(0,len(school_name))):
@@ -34,8 +35,10 @@ def getNjcaaRosters(webdriverPath="./chromedriver_mac64_m1"):
 		team_season = school_season[i]
 		print(team_njcaa_season,team_njcaa_division,team_name)
 		url = f"https://www.njcaa.org/sports/bsb/{team_njcaa_season}/{team_njcaa_division}/teams/{team_id}?view=roster"
-		driver.get(url)
-		soup = BeautifulSoup(driver.page_source, features='lxml')
+		
+		headers = {"User-Agent":"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36"}
+		response = requests.get(url,headers=headers)
+		soup = BeautifulSoup(response.text, features='lxml')
 		try:
 			table = soup.find_all('table')[1]
 			#print(f"\n{table}")

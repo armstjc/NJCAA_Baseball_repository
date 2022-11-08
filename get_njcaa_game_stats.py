@@ -6,8 +6,8 @@ from bs4 import BeautifulSoup
 from tqdm import tqdm
 
 
-def getNjcaaD1BattingGamelogs(webdriverPath="./chromedriver_mac64_m1"):
-	teams_df = pd.read_csv('rosters/div1_rosters.csv')
+def getNjcaaGamelogs(teams_df:pd.DataFrame()):
+	#teams_df = pd.read_csv('rosters/div1_rosters.csv')
 	teams_df = teams_df[teams_df['team_season'] != 2023]
 	school_name = teams_df['team_name'].tolist()
 	school_njcaa_season = teams_df['team_njcaa_season'].tolist()
@@ -500,7 +500,8 @@ def getNjcaaD1BattingGamelogs(webdriverPath="./chromedriver_mac64_m1"):
 		time.sleep(4)
 
 def main():
-	getNjcaaD1BattingGamelogs()
+	df = pd.read_csv('rosters/div1_rosters.csv')
+	getNjcaaGamelogs(df)
 
 if __name__ == "__main__":
 	main()
