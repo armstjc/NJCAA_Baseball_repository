@@ -99,9 +99,9 @@ def mergeFieldingStats(division="div1"):
         partFour.to_csv(f'player_stats/{i}_fielding_04.csv',index=False)
 
 def main():
-    #mergeRostersDivOne()
-    #mergeRostersDivTwo()
-    #mergeRostersDivThree()
+    mergeRostersDivOne()
+    mergeRostersDivTwo()
+    mergeRostersDivThree()
     mergeBattingStats()
     mergePitchingStats()
     mergeFieldingStats()

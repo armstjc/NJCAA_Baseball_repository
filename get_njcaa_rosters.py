@@ -1,13 +1,15 @@
-from selenium import webdriver
+#from selenium import webdriver
 import time
 import pandas as pd
 from bs4 import BeautifulSoup
 from tqdm import tqdm
-from unidecode import unidecode
+#from unidecode import unidecode
 import requests
 
-def getNjcaaRosters():
+def getNjcaaRosters(season=0):
 	teams_df = pd.read_csv('njcaa_schools.csv')
+	if season !=0:
+		teams_df = teams_df[teams_df['season']==season]
 	school_name = teams_df['school_name'].tolist()
 	school_njcaa_season = teams_df['njcaa_season'].tolist()
 	school_njcaa_division = teams_df['division'].tolist()
@@ -52,7 +54,7 @@ def getNjcaaRosters():
 			#print(cols)
 			count = 0
 			#try:
-			for k in table.tbody.find_all('tr'):
+			for k in table.find_all('tr'):
 				row = k.find_all('td')
 				if len(row) == 0:
 					pass
@@ -88,7 +90,7 @@ def getNjcaaRosters():
 		time.sleep(5)
 
 def main():
-	getNjcaaRosters()
+	getNjcaaRosters(2023)
 
 if __name__ == "__main__":
 	main()
