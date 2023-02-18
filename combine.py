@@ -48,7 +48,7 @@ def mergeBattingStats():
     min_season = df['season'].min()
     for i in range(min_season,max_season+1):
         s_df = df[df['season'] == i]
-        s_df.to_parquet(f'game_stats/player/batting_game_stats/parquet/{i}_pitching.parquet')
+        s_df.to_parquet(f'game_stats/player/batting_game_stats/parquet/{i}_batting.parquet')
         len_s_df = len(s_df)
         len_s_df = len_s_df // 4
         partOne = s_df.iloc[:len_s_df]
@@ -89,7 +89,7 @@ def mergeFieldingStats():
     min_season = df['season'].min()
     for i in range(min_season,max_season+1):
         s_df = df[df['season'] == i]
-        s_df.to_parquet(f'game_stats/player/fielding_game_stats/parquet/{i}_pitching.parquet')
+        s_df.to_parquet(f'game_stats/player/fielding_game_stats/parquet/{i}_fielding.parquet')
         len_s_df = len(s_df)
         len_s_df = len_s_df // 4
         partOne = s_df.iloc[:len_s_df]

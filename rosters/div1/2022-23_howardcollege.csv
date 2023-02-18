@@ -1,35 +1,49 @@
 No.,Name,Position,Year,PlayerURL,PlayerID,team_name,team_njcaa_season,team_njcaa_division,team_id,team_season
-01,Nyan Hayes,,FR,https://www.njcaa.org/sports/bsb/2022-23/div1/players/nyanhayesgzi0,nyanhayesgzi0,Howard (TX),2022-23,div1,howardcollege,2023
-02,Austin Douglas,,FR,https://www.njcaa.org/sports/bsb/2022-23/div1/players/austindouglasytqp,austindouglasytqp,Howard (TX),2022-23,div1,howardcollege,2023
-03,Aaron Manias,,FR,https://www.njcaa.org/sports/bsb/2022-23/div1/players/aaronmanias3bq7,aaronmanias3bq7,Howard (TX),2022-23,div1,howardcollege,2023
-04,Nicholas Thibodeau,,SO,https://www.njcaa.org/sports/bsb/2022-23/div1/players/nicholasthibodeau9c35,nicholasthibodeau9c35,Howard (TX),2022-23,div1,howardcollege,2023
-05,Dylan Savino,RHP,SO,https://www.njcaa.org/sports/bsb/2022-23/div1/players/dylansavinoxqda,dylansavinoxqda,Howard (TX),2022-23,div1,howardcollege,2023
-06,CJ Difiglia,,SO,https://www.njcaa.org/sports/bsb/2022-23/div1/players/cjdifiglia40ps,cjdifiglia40ps,Howard (TX),2022-23,div1,howardcollege,2023
-7,Camden Byrd,,Rs SO,https://www.njcaa.org/sports/bsb/2022-23/div1/players/camdenbyrd24q0,camdenbyrd24q0,Howard (TX),2022-23,div1,howardcollege,2023
-07,Carter Seabrooke,,SO,https://www.njcaa.org/sports/bsb/2022-23/div1/players/carterseabrooke8hyl,carterseabrooke8hyl,Howard (TX),2022-23,div1,howardcollege,2023
-08,Chase Oberle,,SO,https://www.njcaa.org/sports/bsb/2022-23/div1/players/chaseoberlembeb,chaseoberlembeb,Howard (TX),2022-23,div1,howardcollege,2023
-09,Hunter Simmons,,SO,https://www.njcaa.org/sports/bsb/2022-23/div1/players/huntersimmonsoer5,huntersimmonsoer5,Howard (TX),2022-23,div1,howardcollege,2023
-10,Hunter Davis,,SO,https://www.njcaa.org/sports/bsb/2022-23/div1/players/hunterdavisv1nr,hunterdavisv1nr,Howard (TX),2022-23,div1,howardcollege,2023
-11,Rylan Byrd,,FR,https://www.njcaa.org/sports/bsb/2022-23/div1/players/rylanbyrd0bnk,rylanbyrd0bnk,Howard (TX),2022-23,div1,howardcollege,2023
-12,Cole Bramhall,RHP,SO,https://www.njcaa.org/sports/bsb/2022-23/div1/players/colebramhallptkp,colebramhallptkp,Howard (TX),2022-23,div1,howardcollege,2023
-13,Caleb Cassie,,So,https://www.njcaa.org/sports/bsb/2022-23/div1/players/calebcassie70a7,calebcassie70a7,Howard (TX),2022-23,div1,howardcollege,2023
-13,Karson Shepherd,RHP,FR,https://www.njcaa.org/sports/bsb/2022-23/div1/players/karsonshepherdi9s4,karsonshepherdi9s4,Howard (TX),2022-23,div1,howardcollege,2023
-14,Kade Yasui,,FR,https://www.njcaa.org/sports/bsb/2022-23/div1/players/kadeyasuisjwk,kadeyasuisjwk,Howard (TX),2022-23,div1,howardcollege,2023
-15,Trent Warstler,,FR,https://www.njcaa.org/sports/bsb/2022-23/div1/players/trentwarstler1oae,trentwarstler1oae,Howard (TX),2022-23,div1,howardcollege,2023
-16,Greg Ross,RHP,SO,https://www.njcaa.org/sports/bsb/2022-23/div1/players/gregrossw0z2,gregrossw0z2,Howard (TX),2022-23,div1,howardcollege,2023
-18,Elijah Parks,,SO,https://www.njcaa.org/sports/bsb/2022-23/div1/players/elijahparks4961,elijahparks4961,Howard (TX),2022-23,div1,howardcollege,2023
-20,William Brown,RHP,FR,https://www.njcaa.org/sports/bsb/2022-23/div1/players/williambrownzb2u,williambrownzb2u,Howard (TX),2022-23,div1,howardcollege,2023
-21,Alejandro Rosado,,SO,https://www.njcaa.org/sports/bsb/2022-23/div1/players/alejandrorosadowhr7,alejandrorosadowhr7,Howard (TX),2022-23,div1,howardcollege,2023
-22,Luke Krkovski,LHP,SO,https://www.njcaa.org/sports/bsb/2022-23/div1/players/lukekrkovskisoi7,lukekrkovskisoi7,Howard (TX),2022-23,div1,howardcollege,2023
+1,Nyan Hayes,INF/OF,So,https://www.njcaa.org/sports/bsb/2022-23/div1/players/nyanhayesgzi0,nyanhayesgzi0,Howard (TX),2022-23,div1,howardcollege,2023
+2,Tyler May,OF,So,https://www.njcaa.org/sports/bsb/2022-23/div1/players/tylermaypg04,tylermaypg04,Howard (TX),2022-23,div1,howardcollege,2023
+3,Aaron Manias,INF,So,https://www.njcaa.org/sports/bsb/2022-23/div1/players/aaronmanias3bq7,aaronmanias3bq7,Howard (TX),2022-23,div1,howardcollege,2023
+04,Nicholas Thibodeau,C,So,https://www.njcaa.org/sports/bsb/2022-23/div1/players/nicholasthibodeau9c35,nicholasthibodeau9c35,Howard (TX),2022-23,div1,howardcollege,2023
+4,Travis White,C,Fr,https://www.njcaa.org/sports/bsb/2022-23/div1/players/traviswhiteagle,traviswhiteagle,Howard (TX),2022-23,div1,howardcollege,2023
+5,Jonas Holloway,C,Fr,https://www.njcaa.org/sports/bsb/2022-23/div1/players/jonashollowaymz2x,jonashollowaymz2x,Howard (TX),2022-23,div1,howardcollege,2023
+06,CJ Difiglia,IF,So,https://www.njcaa.org/sports/bsb/2022-23/div1/players/cjdifiglia40ps,cjdifiglia40ps,Howard (TX),2022-23,div1,howardcollege,2023
+6,Gavin Speirs,INF,Fr,https://www.njcaa.org/sports/bsb/2022-23/div1/players/gavinspeirs7o4h,gavinspeirs7o4h,Howard (TX),2022-23,div1,howardcollege,2023
+7,Camden Byrd,,RS SO,https://www.njcaa.org/sports/bsb/2022-23/div1/players/camdenbyrd86ty,camdenbyrd86ty,Howard (TX),2022-23,div1,howardcollege,2023
+08,Chase Oberle,RHP,So,https://www.njcaa.org/sports/bsb/2022-23/div1/players/chaseoberlembeb,chaseoberlembeb,Howard (TX),2022-23,div1,howardcollege,2023
+8,Trent Warstler,,RS SO,https://www.njcaa.org/sports/bsb/2022-23/div1/players/trentwarstlerg6k5,trentwarstlerg6k5,Howard (TX),2022-23,div1,howardcollege,2023
+9,Julio Vasquez,C,SO,https://www.njcaa.org/sports/bsb/2022-23/div1/players/juliovasquezg5yr,juliovasquezg5yr,Howard (TX),2022-23,div1,howardcollege,2023
+10,Tanner Dawe,,SO,https://www.njcaa.org/sports/bsb/2022-23/div1/players/tannerdawe78n2,tannerdawe78n2,Howard (TX),2022-23,div1,howardcollege,2023
+11,Rylan Byrd,RHP,So,https://www.njcaa.org/sports/bsb/2022-23/div1/players/rylanbyrd0bnk,rylanbyrd0bnk,Howard (TX),2022-23,div1,howardcollege,2023
+13,Caleb Cassie,,SO,https://www.njcaa.org/sports/bsb/2022-23/div1/players/calebcassievc5e,calebcassievc5e,Howard (TX),2022-23,div1,howardcollege,2023
+14,Kade Yasui,OF,So,https://www.njcaa.org/sports/bsb/2022-23/div1/players/kadeyasuisjwk,kadeyasuisjwk,Howard (TX),2022-23,div1,howardcollege,2023
+15,Eli Stewart,RHP,Fr,https://www.njcaa.org/sports/bsb/2022-23/div1/players/elistewart1oae,elistewart1oae,Howard (TX),2022-23,div1,howardcollege,2023
+16,Tyler Large,OF,RS FR,https://www.njcaa.org/sports/bsb/2022-23/div1/players/tylerlargew8qq,tylerlargew8qq,Howard (TX),2022-23,div1,howardcollege,2023
+16,Greg Ross,RHP,So,https://www.njcaa.org/sports/bsb/2022-23/div1/players/gregrossw0z2,gregrossw0z2,Howard (TX),2022-23,div1,howardcollege,2023
+17,Trevor Duck,RHP,Fr,https://www.njcaa.org/sports/bsb/2022-23/div1/players/trevorduck24q0,trevorduck24q0,Howard (TX),2022-23,div1,howardcollege,2023
+18,Ethan Bourg,INF/OF,Fr,https://www.njcaa.org/sports/bsb/2022-23/div1/players/ethanbourg4961,ethanbourg4961,Howard (TX),2022-23,div1,howardcollege,2023
+19,Matt Brandt,INF,Fr,https://www.njcaa.org/sports/bsb/2022-23/div1/players/mattbrandt7umd,mattbrandt7umd,Howard (TX),2022-23,div1,howardcollege,2023
+20,Chase McCall,RHP,Fr,https://www.njcaa.org/sports/bsb/2022-23/div1/players/chasemccallzb2u,chasemccallzb2u,Howard (TX),2022-23,div1,howardcollege,2023
+21,Tyler Hrin,LHP,Fr,https://www.njcaa.org/sports/bsb/2022-23/div1/players/tylerhrinwhr7,tylerhrinwhr7,Howard (TX),2022-23,div1,howardcollege,2023
+22,Trevor Roper,INF,So,https://www.njcaa.org/sports/bsb/2022-23/div1/players/trevorropersoi7,trevorropersoi7,Howard (TX),2022-23,div1,howardcollege,2023
 22,Trevor Roper,IF,So,https://www.njcaa.org/sports/bsb/2022-23/div1/players/trevorroper56oo,trevorroper56oo,Howard (TX),2022-23,div1,howardcollege,2023
-23,Tyler May,OF,FR,https://www.njcaa.org/sports/bsb/2022-23/div1/players/tylermaypg04,tylermaypg04,Howard (TX),2022-23,div1,howardcollege,2023
-24,Julio Vasquez,,FR,https://www.njcaa.org/sports/bsb/2022-23/div1/players/juliovasquezs05j,juliovasquezs05j,Howard (TX),2022-23,div1,howardcollege,2023
-25,Jack Quinn,RHP,SO,https://www.njcaa.org/sports/bsb/2022-23/div1/players/jackquinn8y11,jackquinn8y11,Howard (TX),2022-23,div1,howardcollege,2023
-26,Lee Matsuzaki,OF,FR,https://www.njcaa.org/sports/bsb/2022-23/div1/players/leematsuzakiy0du,leematsuzakiy0du,Howard (TX),2022-23,div1,howardcollege,2023
-28,Chris Brown,RHP,FR,https://www.njcaa.org/sports/bsb/2022-23/div1/players/chrisbrowno7o9,chrisbrowno7o9,Howard (TX),2022-23,div1,howardcollege,2023
-29,Weston Peninger,,SO,https://www.njcaa.org/sports/bsb/2022-23/div1/players/westonpeningerikc6,westonpeningerikc6,Howard (TX),2022-23,div1,howardcollege,2023
-32,Keenan Spence,,FR,https://www.njcaa.org/sports/bsb/2022-23/div1/players/keenanspence6i7y,keenanspence6i7y,Howard (TX),2022-23,div1,howardcollege,2023
-33,Tanner Dawe,RHP,FR,https://www.njcaa.org/sports/bsb/2022-23/div1/players/tannerdawe0b00,tannerdawe0b00,Howard (TX),2022-23,div1,howardcollege,2023
-34,Max Lankford,RHP,FR,https://www.njcaa.org/sports/bsb/2022-23/div1/players/maxlankford8vs2,maxlankford8vs2,Howard (TX),2022-23,div1,howardcollege,2023
-36,Braelin Pillot,RHP,FR,https://www.njcaa.org/sports/bsb/2022-23/div1/players/braelinpillotmbei,braelinpillotmbei,Howard (TX),2022-23,div1,howardcollege,2023
-41,Drew Durst,,SO,https://www.njcaa.org/sports/bsb/2022-23/div1/players/drewdurstvwx3,drewdurstvwx3,Howard (TX),2022-23,div1,howardcollege,2023
+24,Henry Garcia,OF,Fr,https://www.njcaa.org/sports/bsb/2022-23/div1/players/henrygarcias05j,henrygarcias05j,Howard (TX),2022-23,div1,howardcollege,2023
+25,Landon Weidner,OF,Fr,https://www.njcaa.org/sports/bsb/2022-23/div1/players/landonweidner8y11,landonweidner8y11,Howard (TX),2022-23,div1,howardcollege,2023
+26,Lee Matsuzaki,OF,So,https://www.njcaa.org/sports/bsb/2022-23/div1/players/leematsuzakiy0du,leematsuzakiy0du,Howard (TX),2022-23,div1,howardcollege,2023
+28,Chris Brown,RHP,So,https://www.njcaa.org/sports/bsb/2022-23/div1/players/chrisbrowno7o9,chrisbrowno7o9,Howard (TX),2022-23,div1,howardcollege,2023
+29,Colby Carson,INF/RHP,Fr,https://www.njcaa.org/sports/bsb/2022-23/div1/players/colbycarsonikc6,colbycarsonikc6,Howard (TX),2022-23,div1,howardcollege,2023
+2A,Trevor Roper,,SO,https://www.njcaa.org/sports/bsb/2022-23/div1/players/trevorroperyars,trevorroperyars,Howard (TX),2022-23,div1,howardcollege,2023
+30,Zach Moore,RHP,Fr,https://www.njcaa.org/sports/bsb/2022-23/div1/players/zachmooregxf1,zachmooregxf1,Howard (TX),2022-23,div1,howardcollege,2023
+31,Bode Brooks,RHP,So,https://www.njcaa.org/sports/bsb/2022-23/div1/players/bodebrooksgsru,bodebrooksgsru,Howard (TX),2022-23,div1,howardcollege,2023
+32,Keenan Spence,1B/OF,So,https://www.njcaa.org/sports/bsb/2022-23/div1/players/keenanspence6i7y,keenanspence6i7y,Howard (TX),2022-23,div1,howardcollege,2023
+33,Blake Bryant,INF/OF,RS FR,https://www.njcaa.org/sports/bsb/2022-23/div1/players/blakebryant0b00,blakebryant0b00,Howard (TX),2022-23,div1,howardcollege,2023
+34,Max Lankford,RHP,So,https://www.njcaa.org/sports/bsb/2022-23/div1/players/maxlankford8vs2,maxlankford8vs2,Howard (TX),2022-23,div1,howardcollege,2023
+35,James Placke,RHP,Fr,https://www.njcaa.org/sports/bsb/2022-23/div1/players/jamesplacke70a7,jamesplacke70a7,Howard (TX),2022-23,div1,howardcollege,2023
+36,Tanner Hedrick,OF,Fr,https://www.njcaa.org/sports/bsb/2022-23/div1/players/tannerhedrickmbei,tannerhedrickmbei,Howard (TX),2022-23,div1,howardcollege,2023
+36,Tanner Hedrick,,FR,https://www.njcaa.org/sports/bsb/2022-23/div1/players/tannerhedrickzz8c,tannerhedrickzz8c,Howard (TX),2022-23,div1,howardcollege,2023
+41,Hunter Phillips,RHP,So,https://www.njcaa.org/sports/bsb/2022-23/div1/players/hunterphillipsvwx3,hunterphillipsvwx3,Howard (TX),2022-23,div1,howardcollege,2023
+41,Hunter Phillips,,SO,https://www.njcaa.org/sports/bsb/2022-23/div1/players/hunterphillipsuzh1,hunterphillipsuzh1,Howard (TX),2022-23,div1,howardcollege,2023
+42,Hunter Watson,OF,Fr,https://www.njcaa.org/sports/bsb/2022-23/div1/players/hunterwatsonqk9s,hunterwatsonqk9s,Howard (TX),2022-23,div1,howardcollege,2023
+43,Samuel Raygoza,INF/OF,Fr,https://www.njcaa.org/sports/bsb/2022-23/div1/players/samuelraygozaoxun,samuelraygozaoxun,Howard (TX),2022-23,div1,howardcollege,2023
+44,Owen Millar,RHP,Fr,https://www.njcaa.org/sports/bsb/2022-23/div1/players/owenmillarqwsl,owenmillarqwsl,Howard (TX),2022-23,div1,howardcollege,2023
+45,Harun Pelja,RHP,So,https://www.njcaa.org/sports/bsb/2022-23/div1/players/harunpeljaltlm,harunpeljaltlm,Howard (TX),2022-23,div1,howardcollege,2023
+46,Matthew Wrobleski,LHP,RS FR,https://www.njcaa.org/sports/bsb/2022-23/div1/players/matthewwrobleskigtnm,matthewwrobleskigtnm,Howard (TX),2022-23,div1,howardcollege,2023
+50,Brayden Martino,RHP,So,https://www.njcaa.org/sports/bsb/2022-23/div1/players/braydenmartino5k65,braydenmartino5k65,Howard (TX),2022-23,div1,howardcollege,2023
