@@ -1,50 +1,45 @@
 date,location,opponent,result,score,team_score,opp_score,game_score_diff,game_win_loss,game_id,GS,W,L,SV,IP,H,R,ER,ERA,BB,K,HR,season,njcaa_season,njcaa_division,team,team_id,player_id,player_name
-Jan 30,home,Chipola,L,1-0,1,0,1.0,win,20150130_mu9d,0,0,0,0,0.0,,,,0.00,,,,2015,2014-15,div1,Southwest Tennessee,southwesttennesseecommunitycollege,masoncastilen06j,Mason Castile
-Jan 31,home,Broward,L,2-1,2,1,1.0,win,20150131_7ynb,0,0,0,0,0.0,,,,0.00,,,,2015,2014-15,div1,Southwest Tennessee,southwesttennesseecommunitycollege,masoncastilen06j,Mason Castile
-Jan 31,home,State College of Florida,L,3-0,3,0,3.0,win,20150131_3wcg,0,0,0,0,0.0,,,,0.00,,,,2015,2014-15,div1,Southwest Tennessee,southwesttennesseecommunitycollege,masoncastilen06j,Mason Castile
-Feb 1,home,Hillsborough,L,13-0,13,0,13.0,win,20150201_kcfo,0,0,0,0,0.0,,,,0.00,,,,2015,2014-15,div1,Southwest Tennessee,southwesttennesseecommunitycollege,masoncastilen06j,Mason Castile
-Feb 6,home,Calhoun,W,4-2,4,2,2.0,win,20150206_8l3e,0,0,0,0,0.0,,,,0.00,,,,2015,2014-15,div1,Southwest Tennessee,southwesttennesseecommunitycollege,masoncastilen06j,Mason Castile
-Feb 6,home,Calhoun,W,4-0,4,0,4.0,win,20150206_zn80,0,0,0,0,0.0,,,,0.00,,,,2015,2014-15,div1,Southwest Tennessee,southwesttennesseecommunitycollege,masoncastilen06j,Mason Castile
-Feb 9,home,Northwest Mississippi,L,13-5,13,5,8.0,win,20150209_ju2f,0,0,0,0,0.0,,,,0.00,,,,2015,2014-15,div1,Southwest Tennessee,southwesttennesseecommunitycollege,masoncastilen06j,Mason Castile
-Feb 9,home,Northwest Mississippi,W,4-3,4,3,1.0,win,20150209_b30d,0,0,0,0,0.0,,,,0.00,,,,2015,2014-15,div1,Southwest Tennessee,southwesttennesseecommunitycollege,masoncastilen06j,Mason Castile
-Feb 10,home,Mississippi Delta,W,8-0,8,0,8.0,win,20150210_g4lb,0,0,0,0,0.0,,,,0.00,,,,2015,2014-15,div1,Southwest Tennessee,southwesttennesseecommunitycollege,masoncastilen06j,Mason Castile
-Feb 10,home,Mississippi Delta,L,13-10,13,10,3.0,win,20150210_ta6p,0,0,0,0,0.0,,,,0.00,,,,2015,2014-15,div1,Southwest Tennessee,southwesttennesseecommunitycollege,masoncastilen06j,Mason Castile
-Feb 12,home,Coahoma,W,7-1,7,1,6.0,win,20150212_uitl,0,0,0,0,0.0,,,,0.00,,,,2015,2014-15,div1,Southwest Tennessee,southwesttennesseecommunitycollege,masoncastilen06j,Mason Castile
-Feb 12,home,Ellsworth,W,12-2,12,2,10.0,win,20150212_n8uj,0,0,0,0,0.0,,,,0.00,,,,2015,2014-15,div1,Southwest Tennessee,southwesttennesseecommunitycollege,masoncastilen06j,Mason Castile
-Feb 13,home,Mineral Area,L,9-6,9,6,3.0,win,20150213_fivg,0,0,0,0,0.0,,,,0.00,,,,2015,2014-15,div1,Southwest Tennessee,southwesttennesseecommunitycollege,masoncastilen06j,Mason Castile
-Feb 20,home,Pearl River,W,6-2,6,2,4.0,win,20150220_tl2h,0,0,0,0,0.0,,,,0.00,,,,2015,2014-15,div1,Southwest Tennessee,southwesttennesseecommunitycollege,masoncastilen06j,Mason Castile
-Feb 20,home,Mineral Area,L,6-3,6,3,3.0,win,20150220_4t24,0,0,0,0,0.0,,,,0.00,,,,2015,2014-15,div1,Southwest Tennessee,southwesttennesseecommunitycollege,masoncastilen06j,Mason Castile
-Feb 21,home,Pearl River,W,10-7,10,7,3.0,win,20150221_oeum,0,0,0,0,0.0,,,,0.00,,,,2015,2014-15,div1,Southwest Tennessee,southwesttennesseecommunitycollege,masoncastilen06j,Mason Castile
-Feb 21,home,Pearl River,L,4-1,4,1,3.0,win,20150221_j2lo,0,0,0,0,0.0,,,,0.00,,,,2015,2014-15,div1,Southwest Tennessee,southwesttennesseecommunitycollege,masoncastilen06j,Mason Castile
-Feb 28,home,Roane State,,,,,3.0,win,,,,,,,,,,,,,,2015,2014-15,div1,Southwest Tennessee,southwesttennesseecommunitycollege,masoncastilen06j,Mason Castile
-Mar 1,home,Roane State,L,3-2,3,2,1.0,win,20150301_lugu,0,0,0,0,0.0,,,,0.00,,,,2015,2014-15,div1,Southwest Tennessee,southwesttennesseecommunitycollege,masoncastilen06j,Mason Castile
-Mar 1,home,Roane State,W,4-0,4,0,4.0,win,20150301_539n,0,0,0,0,0.0,,,,0.00,,,,2015,2014-15,div1,Southwest Tennessee,southwesttennesseecommunitycollege,masoncastilen06j,Mason Castile
-Mar 11,home,Crowder,L,5-4,5,4,1.0,win,20150311_37o4,0,0,0,0,0.0,,,,0.00,,,,2015,2014-15,div1,Southwest Tennessee,southwesttennesseecommunitycollege,masoncastilen06j,Mason Castile
-Mar 11,home,Northeastern Oklahoma A&M,L,9-6,9,6,3.0,win,20150311_c256,0,0,0,0,0.0,,,,0.00,,,,2015,2014-15,div1,Southwest Tennessee,southwesttennesseecommunitycollege,masoncastilen06j,Mason Castile
-Mar 15,home,Cleveland State,L,6-0,6,0,6.0,win,20150315_qg71,0,0,0,0,0.0,,,,0.00,,,,2015,2014-15,div1,Southwest Tennessee,southwesttennesseecommunitycollege,masoncastilen06j,Mason Castile
-Mar 15,home,Cleveland State,L,12-4,12,4,8.0,win,20150315_7icx,0,0,0,0,0.0,,,,0.00,,,,2015,2014-15,div1,Southwest Tennessee,southwesttennesseecommunitycollege,masoncastilen06j,Mason Castile
-Mar 16,home,Cleveland State,W,17-10,17,10,7.0,win,20150316_fwxx,0,0,0,0,0.0,,,,0.00,,,,2015,2014-15,div1,Southwest Tennessee,southwesttennesseecommunitycollege,masoncastilen06j,Mason Castile
-Mar 17,home,Jefferson (MO),W,4-0,4,0,4.0,win,20150317_27os,0,0,0,0,0.0,,,,0.00,,,,2015,2014-15,div1,Southwest Tennessee,southwesttennesseecommunitycollege,masoncastilen06j,Mason Castile
-Mar 17,home,Jefferson (MO),L,12-4,12,4,8.0,win,20150317_ynpx,0,0,0,0,0.0,,,,0.00,,,,2015,2014-15,div1,Southwest Tennessee,southwesttennesseecommunitycollege,masoncastilen06j,Mason Castile
-Mar 20,home,Jackson State,W,8-2,8,2,6.0,win,20150320_hp7s,0,0,0,0,0.0,,,,0.00,,,,2015,2014-15,div1,Southwest Tennessee,southwesttennesseecommunitycollege,masoncastilen06j,Mason Castile
-Mar 21,home,Jackson State,L,4-3,4,3,1.0,win,20150321_msyz,0,0,0,0,0.0,,,,0.00,,,,2015,2014-15,div1,Southwest Tennessee,southwesttennesseecommunitycollege,masoncastilen06j,Mason Castile
-Mar 21,home,Jackson State,L,7-6,7,6,1.0,win,20150321_isjq,0,0,0,0,0.0,,,,0.00,,,,2015,2014-15,div1,Southwest Tennessee,southwesttennesseecommunitycollege,masoncastilen06j,Mason Castile
-Mar 23,home,Rhodes College JV,W,13-3,13,3,10.0,win,,,,,,,,,,,,,,2015,2014-15,div1,Southwest Tennessee,southwesttennesseecommunitycollege,masoncastilen06j,Mason Castile
-Mar 24,home,Northeast Mississippi,W,9-5,9,5,4.0,win,20150324_1jh4,0,0,0,0,0.0,0,0,0,0.00,0,0,0,2015,2014-15,div1,Southwest Tennessee,southwesttennesseecommunitycollege,masoncastilen06j,Mason Castile
-Mar 27,home,Chattanooga State,W,10-4,10,4,6.0,win,20150327_vvgj,0,0,0,0,0.0,,,,0.00,,,,2015,2014-15,div1,Southwest Tennessee,southwesttennesseecommunitycollege,masoncastilen06j,Mason Castile
-Mar 28,home,Chattanooga State,W,3-2,3,2,1.0,win,20150328_q3t7,0,0,0,0,0.0,,,,0.00,,,,2015,2014-15,div1,Southwest Tennessee,southwesttennesseecommunitycollege,masoncastilen06j,Mason Castile
-Mar 28,home,Chattanooga State,L,7-0,7,0,7.0,win,20150328_l1vz,0,0,0,0,0.0,,,,0.00,,,,2015,2014-15,div1,Southwest Tennessee,southwesttennesseecommunitycollege,masoncastilen06j,Mason Castile
-Apr 2,home,Walters State,L,15-0,15,0,15.0,win,20150402_q7do,0,0,0,0,0.0,,,,0.00,,,,2015,2014-15,div1,Southwest Tennessee,southwesttennesseecommunitycollege,masoncastilen06j,Mason Castile
-Apr 2,home,Walters State,L,7-5,7,5,2.0,win,,,,,,,,,,,,,,2015,2014-15,div1,Southwest Tennessee,southwesttennesseecommunitycollege,masoncastilen06j,Mason Castile
-Apr 3,home,Walters State,L,12-11,12,11,1.0,win,,,,,,,,,,,,,,2015,2014-15,div1,Southwest Tennessee,southwesttennesseecommunitycollege,masoncastilen06j,Mason Castile
-Apr 10,home,Motlow State,W,13-5,13,5,8.0,win,20150410_dnc6,0,0,0,0,0.0,,,,0.00,,,,2015,2014-15,div1,Southwest Tennessee,southwesttennesseecommunitycollege,masoncastilen06j,Mason Castile
-Apr 11,home,Motlow State,W,5-4,5,4,1.0,win,20150411_53tu,0,0,0,0,0.0,,,,0.00,,,,2015,2014-15,div1,Southwest Tennessee,southwesttennesseecommunitycollege,masoncastilen06j,Mason Castile
-Apr 11,home,Motlow State,L,8-2,8,2,6.0,win,20150411_srru,0,0,0,0,0.0,,,,0.00,,,,2015,2014-15,div1,Southwest Tennessee,southwesttennesseecommunitycollege,masoncastilen06j,Mason Castile
-Apr 17,home,Columbia State,L,7-0,7,0,7.0,win,20150417_mac4,0,0,0,0,0.0,,,,0.00,,,,2015,2014-15,div1,Southwest Tennessee,southwesttennesseecommunitycollege,masoncastilen06j,Mason Castile
-Apr 18,home,Columbia State,W,5-2,5,2,3.0,win,20150418_10ql,0,0,0,0,0.0,,,,0.00,,,,2015,2014-15,div1,Southwest Tennessee,southwesttennesseecommunitycollege,masoncastilen06j,Mason Castile
-Apr 18,home,Columbia State,L,8-5,8,5,3.0,win,20150418_dquv,0,0,0,0,0.0,,,,0.00,,,,2015,2014-15,div1,Southwest Tennessee,southwesttennesseecommunitycollege,masoncastilen06j,Mason Castile
-Apr 20,home,Rhodes College JV,W,8-1,8,1,7.0,win,20150420_twfh,0,0,0,0,0.0,,,,0.00,,,,2015,2014-15,div1,Southwest Tennessee,southwesttennesseecommunitycollege,masoncastilen06j,Mason Castile
-Apr 24,home,Dyersburg State,,,,,7.0,win,,,,,,,,,,,,,,2015,2014-15,div1,Southwest Tennessee,southwesttennesseecommunitycollege,masoncastilen06j,Mason Castile
-Apr 25,home,Dyersburg State,L,6-3,6,3,3.0,win,20150425_b9xy,0,0,0,0,0.0,,,,0.00,,,,2015,2014-15,div1,Southwest Tennessee,southwesttennesseecommunitycollege,masoncastilen06j,Mason Castile
-Apr 25,home,Dyersburg State,L,6-5,6,5,1.0,win,20150425_5936,0,0,0,0,0.0,,,,0.00,,,,2015,2014-15,div1,Southwest Tennessee,southwesttennesseecommunitycollege,masoncastilen06j,Mason Castile
-Apr 29,home,Roane State,L,8-3,8,3,5.0,win,20150429_t7z2,0,0,0,0,0.0,,,,0.00,,,,2015,2014-15,div1,Southwest Tennessee,southwesttennesseecommunitycollege,masoncastilen06j,Mason Castile
+Apr 29,home,Roane State,L,8-3,8,3,5,win,20150429_t7z2,0,0,0,0,0.0,,,,0.00,,,,2015,2014-15,div1,Southwest Tennessee,southwesttennesseecommunitycollege,masoncastilen06j,Mason Castile
+Apr 25,home,Dyersburg State,L,6-5,6,5,1,win,20150425_5936,0,0,0,0,0.0,,,,0.00,,,,2015,2014-15,div1,Southwest Tennessee,southwesttennesseecommunitycollege,masoncastilen06j,Mason Castile
+Apr 25,home,Dyersburg State,L,6-3,6,3,3,win,20150425_b9xy,0,0,0,0,0.0,,,,0.00,,,,2015,2014-15,div1,Southwest Tennessee,southwesttennesseecommunitycollege,masoncastilen06j,Mason Castile
+Apr 20,home,Rhodes College JV,W,8-1,8,1,7,win,20150420_twfh,0,0,0,0,0.0,,,,0.00,,,,2015,2014-15,div1,Southwest Tennessee,southwesttennesseecommunitycollege,masoncastilen06j,Mason Castile
+Apr 18,home,Columbia State,L,8-5,8,5,3,win,20150418_dquv,0,0,0,0,0.0,,,,0.00,,,,2015,2014-15,div1,Southwest Tennessee,southwesttennesseecommunitycollege,masoncastilen06j,Mason Castile
+Apr 18,home,Columbia State,W,5-2,5,2,3,win,20150418_10ql,0,0,0,0,0.0,,,,0.00,,,,2015,2014-15,div1,Southwest Tennessee,southwesttennesseecommunitycollege,masoncastilen06j,Mason Castile
+Apr 17,home,Columbia State,L,7-0,7,0,7,win,20150417_mac4,0,0,0,0,0.0,,,,0.00,,,,2015,2014-15,div1,Southwest Tennessee,southwesttennesseecommunitycollege,masoncastilen06j,Mason Castile
+Apr 11,home,Motlow State,L,8-2,8,2,6,win,20150411_srru,0,0,0,0,0.0,,,,0.00,,,,2015,2014-15,div1,Southwest Tennessee,southwesttennesseecommunitycollege,masoncastilen06j,Mason Castile
+Apr 11,home,Motlow State,W,5-4,5,4,1,win,20150411_53tu,0,0,0,0,0.0,,,,0.00,,,,2015,2014-15,div1,Southwest Tennessee,southwesttennesseecommunitycollege,masoncastilen06j,Mason Castile
+Apr 10,home,Motlow State,W,13-5,13,5,8,win,20150410_dnc6,0,0,0,0,0.0,,,,0.00,,,,2015,2014-15,div1,Southwest Tennessee,southwesttennesseecommunitycollege,masoncastilen06j,Mason Castile
+Apr 2,home,Walters State,L,15-0,15,0,15,win,20150402_q7do,0,0,0,0,0.0,,,,0.00,,,,2015,2014-15,div1,Southwest Tennessee,southwesttennesseecommunitycollege,masoncastilen06j,Mason Castile
+Mar 28,home,Chattanooga State,L,7-0,7,0,7,win,20150328_l1vz,0,0,0,0,0.0,,,,0.00,,,,2015,2014-15,div1,Southwest Tennessee,southwesttennesseecommunitycollege,masoncastilen06j,Mason Castile
+Mar 28,home,Chattanooga State,W,3-2,3,2,1,win,20150328_q3t7,0,0,0,0,0.0,,,,0.00,,,,2015,2014-15,div1,Southwest Tennessee,southwesttennesseecommunitycollege,masoncastilen06j,Mason Castile
+Mar 27,home,Chattanooga State,W,10-4,10,4,6,win,20150327_vvgj,0,0,0,0,0.0,,,,0.00,,,,2015,2014-15,div1,Southwest Tennessee,southwesttennesseecommunitycollege,masoncastilen06j,Mason Castile
+Mar 24,home,Northeast Mississippi,W,9-5,9,5,4,win,20150324_1jh4,0,0,0,0,0.0,0,0,0,0.00,0,0,0,2015,2014-15,div1,Southwest Tennessee,southwesttennesseecommunitycollege,masoncastilen06j,Mason Castile
+Mar 21,home,Jackson State,L,7-6,7,6,1,win,20150321_isjq,0,0,0,0,0.0,,,,0.00,,,,2015,2014-15,div1,Southwest Tennessee,southwesttennesseecommunitycollege,masoncastilen06j,Mason Castile
+Mar 21,home,Jackson State,L,4-3,4,3,1,win,20150321_msyz,0,0,0,0,0.0,,,,0.00,,,,2015,2014-15,div1,Southwest Tennessee,southwesttennesseecommunitycollege,masoncastilen06j,Mason Castile
+Mar 20,home,Jackson State,W,8-2,8,2,6,win,20150320_hp7s,0,0,0,0,0.0,,,,0.00,,,,2015,2014-15,div1,Southwest Tennessee,southwesttennesseecommunitycollege,masoncastilen06j,Mason Castile
+Mar 17,home,Jefferson (MO),L,12-4,12,4,8,win,20150317_ynpx,0,0,0,0,0.0,,,,0.00,,,,2015,2014-15,div1,Southwest Tennessee,southwesttennesseecommunitycollege,masoncastilen06j,Mason Castile
+Mar 17,home,Jefferson (MO),W,4-0,4,0,4,win,20150317_27os,0,0,0,0,0.0,,,,0.00,,,,2015,2014-15,div1,Southwest Tennessee,southwesttennesseecommunitycollege,masoncastilen06j,Mason Castile
+Mar 16,home,Cleveland State,W,17-10,17,10,7,win,20150316_fwxx,0,0,0,0,0.0,,,,0.00,,,,2015,2014-15,div1,Southwest Tennessee,southwesttennesseecommunitycollege,masoncastilen06j,Mason Castile
+Mar 15,home,Cleveland State,L,12-4,12,4,8,win,20150315_7icx,0,0,0,0,0.0,,,,0.00,,,,2015,2014-15,div1,Southwest Tennessee,southwesttennesseecommunitycollege,masoncastilen06j,Mason Castile
+Mar 15,home,Cleveland State,L,6-0,6,0,6,win,20150315_qg71,0,0,0,0,0.0,,,,0.00,,,,2015,2014-15,div1,Southwest Tennessee,southwesttennesseecommunitycollege,masoncastilen06j,Mason Castile
+Mar 11,home,Northeastern Oklahoma A&M,L,9-6,9,6,3,win,20150311_c256,0,0,0,0,0.0,,,,0.00,,,,2015,2014-15,div1,Southwest Tennessee,southwesttennesseecommunitycollege,masoncastilen06j,Mason Castile
+Mar 11,home,Crowder,L,5-4,5,4,1,win,20150311_37o4,0,0,0,0,0.0,,,,0.00,,,,2015,2014-15,div1,Southwest Tennessee,southwesttennesseecommunitycollege,masoncastilen06j,Mason Castile
+Mar 1,home,Roane State,W,4-0,4,0,4,win,20150301_539n,0,0,0,0,0.0,,,,0.00,,,,2015,2014-15,div1,Southwest Tennessee,southwesttennesseecommunitycollege,masoncastilen06j,Mason Castile
+Mar 1,home,Roane State,L,3-2,3,2,1,win,20150301_lugu,0,0,0,0,0.0,,,,0.00,,,,2015,2014-15,div1,Southwest Tennessee,southwesttennesseecommunitycollege,masoncastilen06j,Mason Castile
+Feb 21,home,Pearl River,L,4-1,4,1,3,win,20150221_j2lo,0,0,0,0,0.0,,,,0.00,,,,2015,2014-15,div1,Southwest Tennessee,southwesttennesseecommunitycollege,masoncastilen06j,Mason Castile
+Feb 21,home,Pearl River,W,10-7,10,7,3,win,20150221_oeum,0,0,0,0,0.0,,,,0.00,,,,2015,2014-15,div1,Southwest Tennessee,southwesttennesseecommunitycollege,masoncastilen06j,Mason Castile
+Feb 20,home,Mineral Area,L,6-3,6,3,3,win,20150220_4t24,0,0,0,0,0.0,,,,0.00,,,,2015,2014-15,div1,Southwest Tennessee,southwesttennesseecommunitycollege,masoncastilen06j,Mason Castile
+Feb 20,home,Pearl River,W,6-2,6,2,4,win,20150220_tl2h,0,0,0,0,0.0,,,,0.00,,,,2015,2014-15,div1,Southwest Tennessee,southwesttennesseecommunitycollege,masoncastilen06j,Mason Castile
+Feb 13,home,Mineral Area,L,9-6,9,6,3,win,20150213_fivg,0,0,0,0,0.0,,,,0.00,,,,2015,2014-15,div1,Southwest Tennessee,southwesttennesseecommunitycollege,masoncastilen06j,Mason Castile
+Feb 12,home,Ellsworth,W,12-2,12,2,10,win,20150212_n8uj,0,0,0,0,0.0,,,,0.00,,,,2015,2014-15,div1,Southwest Tennessee,southwesttennesseecommunitycollege,masoncastilen06j,Mason Castile
+Feb 12,home,Coahoma,W,7-1,7,1,6,win,20150212_uitl,0,0,0,0,0.0,,,,0.00,,,,2015,2014-15,div1,Southwest Tennessee,southwesttennesseecommunitycollege,masoncastilen06j,Mason Castile
+Feb 10,home,Mississippi Delta,L,13-10,13,10,3,win,20150210_ta6p,0,0,0,0,0.0,,,,0.00,,,,2015,2014-15,div1,Southwest Tennessee,southwesttennesseecommunitycollege,masoncastilen06j,Mason Castile
+Feb 10,home,Mississippi Delta,W,8-0,8,0,8,win,20150210_g4lb,0,0,0,0,0.0,,,,0.00,,,,2015,2014-15,div1,Southwest Tennessee,southwesttennesseecommunitycollege,masoncastilen06j,Mason Castile
+Feb 9,home,Northwest Mississippi,W,4-3,4,3,1,win,20150209_b30d,0,0,0,0,0.0,,,,0.00,,,,2015,2014-15,div1,Southwest Tennessee,southwesttennesseecommunitycollege,masoncastilen06j,Mason Castile
+Feb 9,home,Northwest Mississippi,L,13-5,13,5,8,win,20150209_ju2f,0,0,0,0,0.0,,,,0.00,,,,2015,2014-15,div1,Southwest Tennessee,southwesttennesseecommunitycollege,masoncastilen06j,Mason Castile
+Feb 6,home,Calhoun,W,4-0,4,0,4,win,20150206_zn80,0,0,0,0,0.0,,,,0.00,,,,2015,2014-15,div1,Southwest Tennessee,southwesttennesseecommunitycollege,masoncastilen06j,Mason Castile
+Feb 6,home,Calhoun,W,4-2,4,2,2,win,20150206_8l3e,0,0,0,0,0.0,,,,0.00,,,,2015,2014-15,div1,Southwest Tennessee,southwesttennesseecommunitycollege,masoncastilen06j,Mason Castile
+Feb 1,home,Hillsborough,L,13-0,13,0,13,win,20150201_kcfo,0,0,0,0,0.0,,,,0.00,,,,2015,2014-15,div1,Southwest Tennessee,southwesttennesseecommunitycollege,masoncastilen06j,Mason Castile
+Jan 31,home,State College of Florida,L,3-0,3,0,3,win,20150131_3wcg,0,0,0,0,0.0,,,,0.00,,,,2015,2014-15,div1,Southwest Tennessee,southwesttennesseecommunitycollege,masoncastilen06j,Mason Castile
+Jan 31,home,Broward,L,2-1,2,1,1,win,20150131_7ynb,0,0,0,0,0.0,,,,0.00,,,,2015,2014-15,div1,Southwest Tennessee,southwesttennesseecommunitycollege,masoncastilen06j,Mason Castile
+Jan 30,home,Chipola,L,1-0,1,0,1,win,20150130_mu9d,0,0,0,0,0.0,,,,0.00,,,,2015,2014-15,div1,Southwest Tennessee,southwesttennesseecommunitycollege,masoncastilen06j,Mason Castile

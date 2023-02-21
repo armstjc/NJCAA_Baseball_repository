@@ -1,61 +1,11 @@
 date,location,opponent,result,score,team_score,opp_score,game_score_diff,game_win_loss,game_id,GS,W,L,SV,IP,H,R,ER,ERA,BB,K,HR,season,njcaa_season,njcaa_division,team,team_id,player_id,player_name
-Feb 14,home,Hannibal-Lagrange JV,W,10-0,10,0,10.0,win,,,,,,,,,,,,,,2013,2012-13,div1,Mineral Area,mineralareacollege,tylormcnieli8ig,Tylor McNiel
-Feb 14,home,Hannibal-Lagrange JV,W,5-1,5,1,4.0,win,,,,,,,,,,,,,,2013,2012-13,div1,Mineral Area,mineralareacollege,tylormcnieli8ig,Tylor McNiel
-Feb 17,home,Lake Land,W,4-1,4,1,3.0,win,,,,,,,,,,,,,,2013,2012-13,div1,Mineral Area,mineralareacollege,tylormcnieli8ig,Tylor McNiel
-Feb 17,home,Shawnee,W,6-4,6,4,2.0,win,,,,,,,,,,,,,,2013,2012-13,div1,Mineral Area,mineralareacollege,tylormcnieli8ig,Tylor McNiel
-Feb 25,home,Williams Baptist JV,W,8-1,8,1,7.0,win,20130225_ummc,0,0,0,0,0.0,,,,0.00,,,,2013,2012-13,div1,Mineral Area,mineralareacollege,tylormcnieli8ig,Tylor McNiel
-Feb 25,home,Williams Baptist JV,W,6-4,6,4,2.0,win,,,,,,,,,,,,,,2013,2012-13,div1,Mineral Area,mineralareacollege,tylormcnieli8ig,Tylor McNiel
-Feb 28,home,Harding JV,W,6-0,6,0,6.0,win,,,,,,,,,,,,,,2013,2012-13,div1,Mineral Area,mineralareacollege,tylormcnieli8ig,Tylor McNiel
-Feb 28,home,Harding JV,W,11-2,11,2,9.0,win,20130228_23ch,0,0,0,0,0.0,,,,0.00,,,,2013,2012-13,div1,Mineral Area,mineralareacollege,tylormcnieli8ig,Tylor McNiel
-Mar 4,home,Southeastern Illinois,W,6-1,6,1,5.0,win,,,,,,,,,,,,,,2013,2012-13,div1,Mineral Area,mineralareacollege,tylormcnieli8ig,Tylor McNiel
-Mar 4,home,Southeastern Illinois,W,4-3,4,3,1.0,win,,,,,,,,,,,,,,2013,2012-13,div1,Mineral Area,mineralareacollege,tylormcnieli8ig,Tylor McNiel
-Mar 7,home,St. Charles,W,8-0,8,0,8.0,win,,,,,,,,,,,,,,2013,2012-13,div1,Mineral Area,mineralareacollege,tylormcnieli8ig,Tylor McNiel
-Mar 7,home,St. Charles,W,8-1,8,1,7.0,win,,,,,,,,,,,,,,2013,2012-13,div1,Mineral Area,mineralareacollege,tylormcnieli8ig,Tylor McNiel
-Mar 9,home,St. Charles,W,9-4,9,4,5.0,win,,,,,,,,,,,,,,2013,2012-13,div1,Mineral Area,mineralareacollege,tylormcnieli8ig,Tylor McNiel
-Mar 9,home,St. Charles,L,3-2,3,2,1.0,win,,,,,,,,,,,,,,2013,2012-13,div1,Mineral Area,mineralareacollege,tylormcnieli8ig,Tylor McNiel
-Mar 12,home,Wallace-Dothan,W,10-4,10,4,6.0,win,,,,,,,,,,,,,,2013,2012-13,div1,Mineral Area,mineralareacollege,tylormcnieli8ig,Tylor McNiel
-Mar 12,home,Enterprise State,L,12-10,12,10,2.0,win,,,,,,,,,,,,,,2013,2012-13,div1,Mineral Area,mineralareacollege,tylormcnieli8ig,Tylor McNiel
-Mar 13,home,Lurleen B. Wallace,L,11-9,11,9,2.0,win,,,,,,,,,,,,,,2013,2012-13,div1,Mineral Area,mineralareacollege,tylormcnieli8ig,Tylor McNiel
-Mar 14,home,Andrew,L,9-2,9,2,7.0,win,,,,,,,,,,,,,,2013,2012-13,div1,Mineral Area,mineralareacollege,tylormcnieli8ig,Tylor McNiel
-Mar 14,home,Andrew,W,5-3,5,3,2.0,win,,,,,,,,,,,,,,2013,2012-13,div1,Mineral Area,mineralareacollege,tylormcnieli8ig,Tylor McNiel
-Mar 19,home,Kaskaskia,,,,,2.0,win,,,,,,,,,,,,,,2013,2012-13,div1,Mineral Area,mineralareacollege,tylormcnieli8ig,Tylor McNiel
-Mar 19,home,Kaskaskia,,,,,2.0,win,,,,,,,,,,,,,,2013,2012-13,div1,Mineral Area,mineralareacollege,tylormcnieli8ig,Tylor McNiel
-Mar 21,home,North Central Missouri,W,11-1,11,1,10.0,win,20130321_vj4s,0,0,0,0,0.0,,,,0.00,,,,2013,2012-13,div1,Mineral Area,mineralareacollege,tylormcnieli8ig,Tylor McNiel
-Mar 21,home,North Central Missouri,W,10-1,10,1,9.0,win,,,,,,,,,,,,,,2013,2012-13,div1,Mineral Area,mineralareacollege,tylormcnieli8ig,Tylor McNiel
-Mar 23,home,North Central Missouri,W,5-3,5,3,2.0,win,,,,,,,,,,,,,,2013,2012-13,div1,Mineral Area,mineralareacollege,tylormcnieli8ig,Tylor McNiel
-Mar 23,home,North Central Missouri,W,11-2,11,2,9.0,win,20130323_79es,0,0,0,0,0.0,,,,0.00,,,,2013,2012-13,div1,Mineral Area,mineralareacollege,tylormcnieli8ig,Tylor McNiel
-Mar 28,home,St. Louis,W,9-0,9,0,9.0,win,,,,,,,,,,,,,,2013,2012-13,div1,Mineral Area,mineralareacollege,tylormcnieli8ig,Tylor McNiel
-Mar 28,home,St. Louis,W,4-0,4,0,4.0,win,,,,,,,,,,,,,,2013,2012-13,div1,Mineral Area,mineralareacollege,tylormcnieli8ig,Tylor McNiel
-Mar 29,home,St. Louis,W,6-2,6,2,4.0,win,,,,,,,,,,,,,,2013,2012-13,div1,Mineral Area,mineralareacollege,tylormcnieli8ig,Tylor McNiel
-Mar 29,home,St. Louis,L,6-2,6,2,4.0,win,,,,,,,,,,,,,,2013,2012-13,div1,Mineral Area,mineralareacollege,tylormcnieli8ig,Tylor McNiel
-Apr 2,home,Rend Lake,L,6-4,6,4,2.0,win,,,,,,,,,,,,,,2013,2012-13,div1,Mineral Area,mineralareacollege,tylormcnieli8ig,Tylor McNiel
-Apr 2,home,Rend Lake,W,7-4,7,4,3.0,win,,,,,,,,,,,,,,2013,2012-13,div1,Mineral Area,mineralareacollege,tylormcnieli8ig,Tylor McNiel
-Apr 4,home,Missouri Valley JV,W,8-6,8,6,2.0,win,,,,,,,,,,,,,,2013,2012-13,div1,Mineral Area,mineralareacollege,tylormcnieli8ig,Tylor McNiel
-Apr 4,home,Missouri Valley JV,W,28-0,28,0,28.0,win,20130404_bha5,0,0,0,0,0.0,,,,0.00,,,,2013,2012-13,div1,Mineral Area,mineralareacollege,tylormcnieli8ig,Tylor McNiel
-Apr 6,home,MCC-Maple Woods,L,4-1,4,1,3.0,win,,,,,,,,,,,,,,2013,2012-13,div1,Mineral Area,mineralareacollege,tylormcnieli8ig,Tylor McNiel
-Apr 6,home,MCC-Maple Woods,W,9-3,9,3,6.0,win,,,,,,,,,,,,,,2013,2012-13,div1,Mineral Area,mineralareacollege,tylormcnieli8ig,Tylor McNiel
-Apr 7,home,MCC-Maple Woods,W,1-0,1,0,1.0,win,,,,,,,,,,,,,,2013,2012-13,div1,Mineral Area,mineralareacollege,tylormcnieli8ig,Tylor McNiel
-Apr 7,home,MCC-Maple Woods,L,8-4,8,4,4.0,win,,,,,,,,,,,,,,2013,2012-13,div1,Mineral Area,mineralareacollege,tylormcnieli8ig,Tylor McNiel
-Apr 12,home,Three Rivers,L,6-5,6,5,1.0,win,,,,,,,,,,,,,,2013,2012-13,div1,Mineral Area,mineralareacollege,tylormcnieli8ig,Tylor McNiel
-Apr 12,home,Three Rivers,W,7-3,7,3,4.0,win,,,,,,,,,,,,,,2013,2012-13,div1,Mineral Area,mineralareacollege,tylormcnieli8ig,Tylor McNiel
-Apr 13,home,Three Rivers,W,10-7,10,7,3.0,win,,,,,,,,,,,,,,2013,2012-13,div1,Mineral Area,mineralareacollege,tylormcnieli8ig,Tylor McNiel
-Apr 13,home,Three Rivers,L,1-0,1,0,1.0,win,,,,,,,,,,,,,,2013,2012-13,div1,Mineral Area,mineralareacollege,tylormcnieli8ig,Tylor McNiel
-Apr 16,home,John A. Logan,L,15-5,15,5,10.0,win,,,,,,,,,,,,,,2013,2012-13,div1,Mineral Area,mineralareacollege,tylormcnieli8ig,Tylor McNiel
-Apr 16,home,John A. Logan,L,4-2,4,2,2.0,win,,,,,,,,,,,,,,2013,2012-13,div1,Mineral Area,mineralareacollege,tylormcnieli8ig,Tylor McNiel
-Apr 18,home,Lindenwood Belleville,,,,,2.0,win,,,,,,,,,,,,,,2013,2012-13,div1,Mineral Area,mineralareacollege,tylormcnieli8ig,Tylor McNiel
-Apr 18,home,Lindenwood Belleville,,,,,2.0,win,,,,,,,,,,,,,,2013,2012-13,div1,Mineral Area,mineralareacollege,tylormcnieli8ig,Tylor McNiel
-Apr 20,home,Crowder,L,8-4,8,4,4.0,win,,,,,,,,,,,,,,2013,2012-13,div1,Mineral Area,mineralareacollege,tylormcnieli8ig,Tylor McNiel
-Apr 20,home,Crowder,L,3-0,3,0,3.0,win,,,,,,,,,,,,,,2013,2012-13,div1,Mineral Area,mineralareacollege,tylormcnieli8ig,Tylor McNiel
-Apr 21,home,Crowder,L,1-0,1,0,1.0,win,,,,,,,,,,,,,,2013,2012-13,div1,Mineral Area,mineralareacollege,tylormcnieli8ig,Tylor McNiel
-Apr 21,home,Crowder,L,2-0,2,0,2.0,win,,,,,,,,,,,,,,2013,2012-13,div1,Mineral Area,mineralareacollege,tylormcnieli8ig,Tylor McNiel
-Apr 25,home,Jefferson (MO),W,4-2,4,2,2.0,win,,,,,,,,,,,,,,2013,2012-13,div1,Mineral Area,mineralareacollege,tylormcnieli8ig,Tylor McNiel
-Apr 25,home,Jefferson (MO),L,10-4,10,4,6.0,win,,,,,,,,,,,,,,2013,2012-13,div1,Mineral Area,mineralareacollege,tylormcnieli8ig,Tylor McNiel
-Apr 27,home,Jefferson (MO),L,4-3,4,3,1.0,win,,,,,,,,,,,,,,2013,2012-13,div1,Mineral Area,mineralareacollege,tylormcnieli8ig,Tylor McNiel
-Apr 27,home,Jefferson (MO),L,15-3,15,3,12.0,win,20130427_zd0u,0,0,0,0,0.0,,,,0.00,,,,2013,2012-13,div1,Mineral Area,mineralareacollege,tylormcnieli8ig,Tylor McNiel
-Apr 30,home,Wabash Valley,L,10-2,10,2,8.0,win,20130430_rrlg,0,0,0,0,0.0,,,,0.00,,,,2013,2012-13,div1,Mineral Area,mineralareacollege,tylormcnieli8ig,Tylor McNiel
-Apr 30,home,Wabash Valley,L,4-1,4,1,3.0,win,20130430_5zt1,0,0,0,0,0.0,,,,0.00,,,,2013,2012-13,div1,Mineral Area,mineralareacollege,tylormcnieli8ig,Tylor McNiel
-May 8,home,St. Louis,L,12-2,12,2,10.0,win,,,,,,,,,,,,,,2013,2012-13,div1,Mineral Area,mineralareacollege,tylormcnieli8ig,Tylor McNiel
-May 9,home,St. Charles,W,11-0,11,0,11.0,win,20130509_9axf,0,0,0,0,0.0,,,,0.00,,,,2013,2012-13,div1,Mineral Area,mineralareacollege,tylormcnieli8ig,Tylor McNiel
-May 10,home,Jefferson (MO),W,8-5,8,5,3.0,win,,,,,,,,,,,,,,2013,2012-13,div1,Mineral Area,mineralareacollege,tylormcnieli8ig,Tylor McNiel
-May 10,home,Three Rivers,W,11-3,11,3,8.0,win,,,,,,,,,,,,,,2013,2012-13,div1,Mineral Area,mineralareacollege,tylormcnieli8ig,Tylor McNiel
-May 11,home,Crowder,L,11-3,11,3,8.0,win,20130511_h1us,0,0,0,0,0.0,,,,0.00,,,,2013,2012-13,div1,Mineral Area,mineralareacollege,tylormcnieli8ig,Tylor McNiel
+May 11,home,Crowder,L,11-3,11,3,8,win,20130511_h1us,0,0,0,0,0.0,,,,0.00,,,,2013,2012-13,div1,Mineral Area,mineralareacollege,tylormcnieli8ig,Tylor McNiel
+May 9,home,St. Charles,W,11-0,11,0,11,win,20130509_9axf,0,0,0,0,0.0,,,,0.00,,,,2013,2012-13,div1,Mineral Area,mineralareacollege,tylormcnieli8ig,Tylor McNiel
+Apr 30,home,Wabash Valley,L,4-1,4,1,3,win,20130430_5zt1,0,0,0,0,0.0,,,,0.00,,,,2013,2012-13,div1,Mineral Area,mineralareacollege,tylormcnieli8ig,Tylor McNiel
+Apr 30,home,Wabash Valley,L,10-2,10,2,8,win,20130430_rrlg,0,0,0,0,0.0,,,,0.00,,,,2013,2012-13,div1,Mineral Area,mineralareacollege,tylormcnieli8ig,Tylor McNiel
+Apr 27,home,Jefferson (MO),L,15-3,15,3,12,win,20130427_zd0u,0,0,0,0,0.0,,,,0.00,,,,2013,2012-13,div1,Mineral Area,mineralareacollege,tylormcnieli8ig,Tylor McNiel
+Apr 4,home,Missouri Valley JV,W,28-0,28,0,28,win,20130404_bha5,0,0,0,0,0.0,,,,0.00,,,,2013,2012-13,div1,Mineral Area,mineralareacollege,tylormcnieli8ig,Tylor McNiel
+Mar 23,home,North Central Missouri,W,11-2,11,2,9,win,20130323_79es,0,0,0,0,0.0,,,,0.00,,,,2013,2012-13,div1,Mineral Area,mineralareacollege,tylormcnieli8ig,Tylor McNiel
+Mar 21,home,North Central Missouri,W,11-1,11,1,10,win,20130321_vj4s,0,0,0,0,0.0,,,,0.00,,,,2013,2012-13,div1,Mineral Area,mineralareacollege,tylormcnieli8ig,Tylor McNiel
+Feb 28,home,Harding JV,W,11-2,11,2,9,win,20130228_23ch,0,0,0,0,0.0,,,,0.00,,,,2013,2012-13,div1,Mineral Area,mineralareacollege,tylormcnieli8ig,Tylor McNiel
+Feb 25,home,Williams Baptist JV,W,8-1,8,1,7,win,20130225_ummc,0,0,0,0,0.0,,,,0.00,,,,2013,2012-13,div1,Mineral Area,mineralareacollege,tylormcnieli8ig,Tylor McNiel

@@ -1,63 +1,45 @@
 date,location,opponent,result,score,team_score,opp_score,game_score_diff,game_win_loss,game_id,AB,R,H,2B,3B,HR,RBI,BB,K,SB,CS,HBP,SF,SH,TB,XBH,HDP,GO,FO,GO/FO,PA,season,njcaa_season,njcaa_division,team,team_id,player_id,player_name
-Jan 28,home,Colorado Northwestern,W,16-2,16,2,14.0,win,20220128_cg79,3,2,2,,,,1,,1,,,,,,2,0,,,,,3,2022,2021-22,div1,Cochise,cochisecollege,dylanbradfordcj7i,Dylan Bradford
-Jan 28,home,El Paso,W,8-3,8,3,5.0,win,20220128_e2cf,4,0,0,,,,1,,2,,,,,,0,0,,,,,4,2022,2021-22,div1,Cochise,cochisecollege,dylanbradfordcj7i,Dylan Bradford
-Jan 29,home,Lamar,W,16-1,16,1,15.0,win,,,,,,,,,,,,,,,,,,,,,,,2022,2021-22,div1,Cochise,cochisecollege,dylanbradfordcj7i,Dylan Bradford
-Jan 29,home,New Mexico,L,7-3,7,3,4.0,win,20220129_1q4s,3,1,0,,,,0,,,,,,,,0,0,,,,,3,2022,2021-22,div1,Cochise,cochisecollege,dylanbradfordcj7i,Dylan Bradford
-Feb 3,home,Southern Idaho,L,5-1,5,1,4.0,win,20220203_ivjg,4,0,0,,,,0,,,,,,,,0,0,,,,,4,2022,2021-22,div1,Cochise,cochisecollege,dylanbradfordcj7i,Dylan Bradford
-Feb 4,home,Southern Idaho,W,5-4,5,4,1.0,win,20220204_ln5o,3,0,0,,,,1,,2,,,,1,,0,0,,,,,4,2022,2021-22,div1,Cochise,cochisecollege,dylanbradfordcj7i,Dylan Bradford
-Feb 4,home,Southern Idaho,L,9-7,9,7,2.0,win,,,,,,,,,,,,,,,,,,,,,,,2022,2021-22,div1,Cochise,cochisecollege,dylanbradfordcj7i,Dylan Bradford
-Feb 5,home,Southern Idaho,L,8-5,8,5,3.0,win,20220205_1e1x,0,1,0,,,,0,,,,1,,,,0,0,,,,,0,2022,2021-22,div1,Cochise,cochisecollege,dylanbradfordcj7i,Dylan Bradford
-Feb 11,home,Utah State Eastern,W,3-1,3,1,2.0,win,20220211_u8oa,1,1,0,,,,0,,,,,1,,,0,0,,,,,2,2022,2021-22,div1,Cochise,cochisecollege,dylanbradfordcj7i,Dylan Bradford
-Feb 11,home,Utah State Eastern,W,6-1,6,1,5.0,win,,,,,,,,,,,,,,,,,,,,,,,2022,2021-22,div1,Cochise,cochisecollege,dylanbradfordcj7i,Dylan Bradford
-Feb 12,home,Utah State Eastern,W,4-1,4,1,3.0,win,,,,,,,,,,,,,,,,,,,,,,,2022,2021-22,div1,Cochise,cochisecollege,dylanbradfordcj7i,Dylan Bradford
-Feb 12,home,Utah State Eastern,W,6-3,6,3,3.0,win,20220212_94i1,1,0,1,,,,1,,,,,,,,1,0,,,,,1,2022,2021-22,div1,Cochise,cochisecollege,dylanbradfordcj7i,Dylan Bradford
-Feb 15,home,Central Arizona,L,8-4,8,4,4.0,win,20220215_7x4a,2,1,0,,,,0,1,,,,,,,0,0,,,,,3,2022,2021-22,div1,Cochise,cochisecollege,dylanbradfordcj7i,Dylan Bradford
-Feb 15,home,Central Arizona,L,11-5,11,5,6.0,win,,,,,,,,,,,,,,,,,,,,,,,2022,2021-22,div1,Cochise,cochisecollege,dylanbradfordcj7i,Dylan Bradford
-Feb 19,home,Yavapai,W,3-2,3,2,1.0,win,20220219_ra74,1,0,1,,,,0,,,1,,,,,1,0,,,,,1,2022,2021-22,div1,Cochise,cochisecollege,dylanbradfordcj7i,Dylan Bradford
-Feb 19,home,Yavapai,W,7-4,7,4,3.0,win,,,,,,,,,,,,,,,,,,,,,,,2022,2021-22,div1,Cochise,cochisecollege,dylanbradfordcj7i,Dylan Bradford
-Feb 22,home,Pima,W,6-2,6,2,4.0,win,,,,,,,,,,,,,,,,,,,,,,,2022,2021-22,div1,Cochise,cochisecollege,dylanbradfordcj7i,Dylan Bradford
-Feb 22,home,Pima,L,9-7,9,7,2.0,win,20220222_ky93,2,0,0,,,,0,2,,,1,,,,0,0,,,,,4,2022,2021-22,div1,Cochise,cochisecollege,dylanbradfordcj7i,Dylan Bradford
-Feb 25,home,Southern Nevada,W,3-2,3,2,1.0,win,,,,,,,,,,,,,,,,,,,,,,,2022,2021-22,div1,Cochise,cochisecollege,dylanbradfordcj7i,Dylan Bradford
-Feb 25,home,Southern Nevada,W,5-3,5,3,2.0,win,20220225_yud1,2,1,0,,,,0,,2,,,1,,,0,0,,,,,3,2022,2021-22,div1,Cochise,cochisecollege,dylanbradfordcj7i,Dylan Bradford
-Feb 26,home,Southern Nevada,W,12-2,12,2,10.0,win,20220226_xavf,0,0,0,,,,0,1,,,,,,,0,0,,,,,1,2022,2021-22,div1,Cochise,cochisecollege,dylanbradfordcj7i,Dylan Bradford
-Mar 1,home,Arizona Western,L,7-4,7,4,3.0,win,20220301_1qut,0,0,0,,,,0,,,1,,,,,0,0,,,,,0,2022,2021-22,div1,Cochise,cochisecollege,dylanbradfordcj7i,Dylan Bradford
-Mar 1,home,Arizona Western,L,4-1,4,1,3.0,win,20220301_yscn,3,0,0,,,,0,,,,,,,,0,0,,,,,3,2022,2021-22,div1,Cochise,cochisecollege,dylanbradfordcj7i,Dylan Bradford
-Mar 5,home,South Mountain,W,6-5,6,5,1.0,win,20220305_2cy8,3,0,0,,,,0,,1,,,,,,0,0,,,,,3,2022,2021-22,div1,Cochise,cochisecollege,dylanbradfordcj7i,Dylan Bradford
-Mar 5,home,South Mountain,W,11-9,11,9,2.0,win,,,,,,,,,,,,,,,,,,,,,,,2022,2021-22,div1,Cochise,cochisecollege,dylanbradfordcj7i,Dylan Bradford
-Mar 8,home,Glendale,L,5-2,5,2,3.0,win,,,,,,,,,,,,,,,,,,,,,,,2022,2021-22,div1,Cochise,cochisecollege,dylanbradfordcj7i,Dylan Bradford
-Mar 8,home,Glendale,W,10-5,10,5,5.0,win,,,,,,,,,,,,,,,,,,,,,,,2022,2021-22,div1,Cochise,cochisecollege,dylanbradfordcj7i,Dylan Bradford
-Mar 12,home,GateWay (AZ),W,7-3,7,3,4.0,win,,,,,,,,,,,,,,,,,,,,,,,2022,2021-22,div1,Cochise,cochisecollege,dylanbradfordcj7i,Dylan Bradford
-Mar 12,home,GateWay (AZ),W,3-1,3,1,2.0,win,,,,,,,,,,,,,,,,,,,,,,,2022,2021-22,div1,Cochise,cochisecollege,dylanbradfordcj7i,Dylan Bradford
-Mar 15,home,Eastern Arizona,W,9-0,9,0,9.0,win,20220315_ka32,1,0,0,,,,0,,,,,,,,0,0,,,,,1,2022,2021-22,div1,Cochise,cochisecollege,dylanbradfordcj7i,Dylan Bradford
-Mar 15,home,Eastern Arizona,W,3-2,3,2,1.0,win,,,,,,,,,,,,,,,,,,,,,,,2022,2021-22,div1,Cochise,cochisecollege,dylanbradfordcj7i,Dylan Bradford
-Mar 18,home,Frasier Valley,W,23-1,23,1,22.0,win,20220318_sff9,3,3,0,,,,0,2,,2,,1,,,0,0,,,,,6,2022,2021-22,div1,Cochise,cochisecollege,dylanbradfordcj7i,Dylan Bradford
-Mar 19,home,Bismarck State,W,3-1,3,1,2.0,win,,,,,,,,,,,,,,,,,,,,,,,2022,2021-22,div1,Cochise,cochisecollege,dylanbradfordcj7i,Dylan Bradford
-Mar 19,home,Dickinson State University,W,9-3,9,3,6.0,win,20220319_dp57,2,1,0,,,,0,1,1,,,,,,0,0,,,,,3,2022,2021-22,div1,Cochise,cochisecollege,dylanbradfordcj7i,Dylan Bradford
-Mar 22,home,Chandler-Gilbert,L,3-0,3,0,3.0,win,,,,,,,,,,,,,,,,,,,,,,,2022,2021-22,div1,Cochise,cochisecollege,dylanbradfordcj7i,Dylan Bradford
-Mar 22,home,Chandler-Gilbert,W,14-5,14,5,9.0,win,20220322_rlnz,4,3,3,,,,1,,,,,,,,3,0,,,,,4,2022,2021-22,div1,Cochise,cochisecollege,dylanbradfordcj7i,Dylan Bradford
-Mar 26,home,Scottsdale,W,11-3,11,3,8.0,win,,,,,,,,,,,,,,,,,,,,,,,2022,2021-22,div1,Cochise,cochisecollege,dylanbradfordcj7i,Dylan Bradford
-Mar 26,home,Scottsdale,W,12-4,12,4,8.0,win,20220326_niht,1,1,1,,1,,3,,,,,,,,3,1,,,,,1,2022,2021-22,div1,Cochise,cochisecollege,dylanbradfordcj7i,Dylan Bradford
-Mar 30,home,Phoenix,W,3-2,3,2,1.0,win,20220330_e7xp,2,1,1,1,,,2,,,,,,,,2,1,,,,,2,2022,2021-22,div1,Cochise,cochisecollege,dylanbradfordcj7i,Dylan Bradford
-Mar 30,home,Phoenix,L,5-3,5,3,2.0,win,20220330_u0ks,5,0,1,,,,0,,,,,,,,1,0,,,,,5,2022,2021-22,div1,Cochise,cochisecollege,dylanbradfordcj7i,Dylan Bradford
-Apr 2,home,Paradise Valley,W,5-0,5,0,5.0,win,20220402_27hc,3,0,1,,,,0,,1,1,,,,,1,0,,,,,3,2022,2021-22,div1,Cochise,cochisecollege,dylanbradfordcj7i,Dylan Bradford
-Apr 2,home,Paradise Valley,W,6-4,6,4,2.0,win,20220402_7t50,3,2,2,1,,,0,,,1,,1,,,3,1,,,,,4,2022,2021-22,div1,Cochise,cochisecollege,dylanbradfordcj7i,Dylan Bradford
-Apr 5,home,Mesa,W,3-2,3,2,1.0,win,20220405_rrzb,3,1,1,,,,0,,1,,,,,,1,0,,,,,3,2022,2021-22,div1,Cochise,cochisecollege,dylanbradfordcj7i,Dylan Bradford
-Apr 5,home,Mesa,W,24-7,24,7,17.0,win,20220405_0k37,3,4,2,,,,1,2,,,,1,,,2,0,,,,,6,2022,2021-22,div1,Cochise,cochisecollege,dylanbradfordcj7i,Dylan Bradford
-Apr 9,home,Eastern Arizona,W,8-2,8,2,6.0,win,20220409_w1fh,2,1,0,,,,1,1,,2,,,1,,0,0,,,,,4,2022,2021-22,div1,Cochise,cochisecollege,dylanbradfordcj7i,Dylan Bradford
-Apr 9,home,Eastern Arizona,L,7-4,7,4,3.0,win,20220409_irox,5,0,1,,,,0,,2,1,,,,,1,0,,,,,5,2022,2021-22,div1,Cochise,cochisecollege,dylanbradfordcj7i,Dylan Bradford
-Apr 12,home,Central Arizona,W,11-5,11,5,6.0,win,20220412_dl3n,3,1,0,,,,1,1,,,,,,,0,0,,,,,4,2022,2021-22,div1,Cochise,cochisecollege,dylanbradfordcj7i,Dylan Bradford
-Apr 12,home,Central Arizona,W,10-4,10,4,6.0,win,20220412_7s9t,2,1,1,,,,0,,1,,,,,,1,0,,,,,2,2022,2021-22,div1,Cochise,cochisecollege,dylanbradfordcj7i,Dylan Bradford
-Apr 16,home,Yavapai,W,6-4,6,4,2.0,win,20220416_o48p,3,1,0,,,,1,,1,,,,,,0,0,,,,,3,2022,2021-22,div1,Cochise,cochisecollege,dylanbradfordcj7i,Dylan Bradford
-Apr 16,home,Yavapai,W,13-8,13,8,5.0,win,20220416_t17j,0,2,0,,,,0,,,1,,,,,0,0,,,,,0,2022,2021-22,div1,Cochise,cochisecollege,dylanbradfordcj7i,Dylan Bradford
-Apr 19,home,Pima,L,8-0,8,0,8.0,win,20220419_f8gr,1,0,0,,,,0,,1,,,,,,0,0,,,,,1,2022,2021-22,div1,Cochise,cochisecollege,dylanbradfordcj7i,Dylan Bradford
-Apr 19,home,Pima,W,12-11,12,11,1.0,win,20220419_7ebo,0,1,0,,,,0,,,1,,,,,0,0,,,,,0,2022,2021-22,div1,Cochise,cochisecollege,dylanbradfordcj7i,Dylan Bradford
-Apr 26,home,Arizona Western,W,2-0,2,0,2.0,win,20220426_87qa,1,0,0,,,,0,,1,,,,,,0,0,,,,,1,2022,2021-22,div1,Cochise,cochisecollege,dylanbradfordcj7i,Dylan Bradford
-Apr 26,home,Arizona Western,W,7-6,7,6,1.0,win,,,,,,,,,,,,,,,,,,,,,,,2022,2021-22,div1,Cochise,cochisecollege,dylanbradfordcj7i,Dylan Bradford
-Apr 30,home,South Mountain,L,8-4,8,4,4.0,win,20220430_zpw7,0,1,0,,,,0,,,2,,,,,0,0,,,,,0,2022,2021-22,div1,Cochise,cochisecollege,dylanbradfordcj7i,Dylan Bradford
-Apr 30,home,South Mountain,W,11-9,11,9,2.0,win,20220430_saky,5,2,1,,,,0,,,1,,,,,1,0,,,,,5,2022,2021-22,div1,Cochise,cochisecollege,dylanbradfordcj7i,Dylan Bradford
-May 5,home,Arizona Western,W,11-8,11,8,3.0,win,20220505_2ke1,5,2,4,1,,,1,,,,,,,,5,1,,,,,5,2022,2021-22,div1,Cochise,cochisecollege,dylanbradfordcj7i,Dylan Bradford
-May 6,home,Arizona Western,L,5-4,5,4,1.0,win,20220506_jkfu,4,1,1,,,,0,1,1,,,,,,1,0,,,,,5,2022,2021-22,div1,Cochise,cochisecollege,dylanbradfordcj7i,Dylan Bradford
-May 7,home,Arizona Western,W,8-3,8,3,5.0,win,20220507_bf4k,5,2,2,1,,,0,,,1,,,,,3,1,,,,,5,2022,2021-22,div1,Cochise,cochisecollege,dylanbradfordcj7i,Dylan Bradford
-May 12,home,Central Arizona,W,3-1,3,1,2.0,win,20220512_k748,2,1,1,,,,0,1,,,,1,,,1,0,,,,,4,2022,2021-22,div1,Cochise,cochisecollege,dylanbradfordcj7i,Dylan Bradford
-May 13,home,Central Arizona,L,9-4,9,4,5.0,win,20220513_k4ae,2,1,1,,,,0,2,,,,,,,1,0,,,,,4,2022,2021-22,div1,Cochise,cochisecollege,dylanbradfordcj7i,Dylan Bradford
-May 14,home,Central Arizona,L,3-2,3,2,1.0,win,20220514_7bco,6,0,0,,,,0,,3,,,,,,0,0,,,,,6,2022,2021-22,div1,Cochise,cochisecollege,dylanbradfordcj7i,Dylan Bradford
+Jan 28,home,Colorado Northwestern,W,16-2,16,2,14,win,20220128_cg79,3,2,2,,,,1,,1,,,,,,2,0,,,,,3,2022,2021-22,div1,Cochise,cochisecollege,dylanbradfordcj7i,Dylan Bradford
+Jan 28,home,El Paso,W,8-3,8,3,5,win,20220128_e2cf,4,0,0,,,,1,,2,,,,,,0,0,,,,,4,2022,2021-22,div1,Cochise,cochisecollege,dylanbradfordcj7i,Dylan Bradford
+Jan 29,home,New Mexico,L,7-3,7,3,4,win,20220129_1q4s,3,1,0,,,,0,,,,,,,,0,0,,,,,3,2022,2021-22,div1,Cochise,cochisecollege,dylanbradfordcj7i,Dylan Bradford
+Feb 3,home,Southern Idaho,L,5-1,5,1,4,win,20220203_ivjg,4,0,0,,,,0,,,,,,,,0,0,,,,,4,2022,2021-22,div1,Cochise,cochisecollege,dylanbradfordcj7i,Dylan Bradford
+Feb 4,home,Southern Idaho,W,5-4,5,4,1,win,20220204_ln5o,3,0,0,,,,1,,2,,,,1,,0,0,,,,,4,2022,2021-22,div1,Cochise,cochisecollege,dylanbradfordcj7i,Dylan Bradford
+Feb 5,home,Southern Idaho,L,8-5,8,5,3,win,20220205_1e1x,0,1,0,,,,0,,,,1,,,,0,0,,,,,0,2022,2021-22,div1,Cochise,cochisecollege,dylanbradfordcj7i,Dylan Bradford
+Feb 11,home,Utah State Eastern,W,3-1,3,1,2,win,20220211_u8oa,1,1,0,,,,0,,,,,1,,,0,0,,,,,2,2022,2021-22,div1,Cochise,cochisecollege,dylanbradfordcj7i,Dylan Bradford
+Feb 12,home,Utah State Eastern,W,6-3,6,3,3,win,20220212_94i1,1,0,1,,,,1,,,,,,,,1,0,,,,,1,2022,2021-22,div1,Cochise,cochisecollege,dylanbradfordcj7i,Dylan Bradford
+Feb 15,home,Central Arizona,L,8-4,8,4,4,win,20220215_7x4a,2,1,0,,,,0,1,,,,,,,0,0,,,,,3,2022,2021-22,div1,Cochise,cochisecollege,dylanbradfordcj7i,Dylan Bradford
+Feb 19,home,Yavapai,W,3-2,3,2,1,win,20220219_ra74,1,0,1,,,,0,,,1,,,,,1,0,,,,,1,2022,2021-22,div1,Cochise,cochisecollege,dylanbradfordcj7i,Dylan Bradford
+Feb 22,home,Pima,L,9-7,9,7,2,win,20220222_ky93,2,0,0,,,,0,2,,,1,,,,0,0,,,,,4,2022,2021-22,div1,Cochise,cochisecollege,dylanbradfordcj7i,Dylan Bradford
+Feb 25,home,Southern Nevada,W,5-3,5,3,2,win,20220225_yud1,2,1,0,,,,0,,2,,,1,,,0,0,,,,,3,2022,2021-22,div1,Cochise,cochisecollege,dylanbradfordcj7i,Dylan Bradford
+Feb 26,home,Southern Nevada,W,12-2,12,2,10,win,20220226_xavf,0,0,0,,,,0,1,,,,,,,0,0,,,,,1,2022,2021-22,div1,Cochise,cochisecollege,dylanbradfordcj7i,Dylan Bradford
+Mar 1,home,Arizona Western,L,7-4,7,4,3,win,20220301_1qut,0,0,0,,,,0,,,1,,,,,0,0,,,,,0,2022,2021-22,div1,Cochise,cochisecollege,dylanbradfordcj7i,Dylan Bradford
+Mar 1,home,Arizona Western,L,4-1,4,1,3,win,20220301_yscn,3,0,0,,,,0,,,,,,,,0,0,,,,,3,2022,2021-22,div1,Cochise,cochisecollege,dylanbradfordcj7i,Dylan Bradford
+Mar 5,home,South Mountain,W,6-5,6,5,1,win,20220305_2cy8,3,0,0,,,,0,,1,,,,,,0,0,,,,,3,2022,2021-22,div1,Cochise,cochisecollege,dylanbradfordcj7i,Dylan Bradford
+Mar 15,home,Eastern Arizona,W,9-0,9,0,9,win,20220315_ka32,1,0,0,,,,0,,,,,,,,0,0,,,,,1,2022,2021-22,div1,Cochise,cochisecollege,dylanbradfordcj7i,Dylan Bradford
+Mar 18,home,Frasier Valley,W,23-1,23,1,22,win,20220318_sff9,3,3,0,,,,0,2,,2,,1,,,0,0,,,,,6,2022,2021-22,div1,Cochise,cochisecollege,dylanbradfordcj7i,Dylan Bradford
+Mar 19,home,Dickinson State University,W,9-3,9,3,6,win,20220319_dp57,2,1,0,,,,0,1,1,,,,,,0,0,,,,,3,2022,2021-22,div1,Cochise,cochisecollege,dylanbradfordcj7i,Dylan Bradford
+Mar 22,home,Chandler-Gilbert,W,14-5,14,5,9,win,20220322_rlnz,4,3,3,,,,1,,,,,,,,3,0,,,,,4,2022,2021-22,div1,Cochise,cochisecollege,dylanbradfordcj7i,Dylan Bradford
+Mar 26,home,Scottsdale,W,12-4,12,4,8,win,20220326_niht,1,1,1,,1,,3,,,,,,,,3,1,,,,,1,2022,2021-22,div1,Cochise,cochisecollege,dylanbradfordcj7i,Dylan Bradford
+Mar 30,home,Phoenix,W,3-2,3,2,1,win,20220330_e7xp,2,1,1,1,,,2,,,,,,,,2,1,,,,,2,2022,2021-22,div1,Cochise,cochisecollege,dylanbradfordcj7i,Dylan Bradford
+Mar 30,home,Phoenix,L,5-3,5,3,2,win,20220330_u0ks,5,0,1,,,,0,,,,,,,,1,0,,,,,5,2022,2021-22,div1,Cochise,cochisecollege,dylanbradfordcj7i,Dylan Bradford
+Apr 2,home,Paradise Valley,W,5-0,5,0,5,win,20220402_27hc,3,0,1,,,,0,,1,1,,,,,1,0,,,,,3,2022,2021-22,div1,Cochise,cochisecollege,dylanbradfordcj7i,Dylan Bradford
+Apr 2,home,Paradise Valley,W,6-4,6,4,2,win,20220402_7t50,3,2,2,1,,,0,,,1,,1,,,3,1,,,,,4,2022,2021-22,div1,Cochise,cochisecollege,dylanbradfordcj7i,Dylan Bradford
+Apr 5,home,Mesa,W,3-2,3,2,1,win,20220405_rrzb,3,1,1,,,,0,,1,,,,,,1,0,,,,,3,2022,2021-22,div1,Cochise,cochisecollege,dylanbradfordcj7i,Dylan Bradford
+Apr 5,home,Mesa,W,24-7,24,7,17,win,20220405_0k37,3,4,2,,,,1,2,,,,1,,,2,0,,,,,6,2022,2021-22,div1,Cochise,cochisecollege,dylanbradfordcj7i,Dylan Bradford
+Apr 9,home,Eastern Arizona,W,8-2,8,2,6,win,20220409_w1fh,2,1,0,,,,1,1,,2,,,1,,0,0,,,,,4,2022,2021-22,div1,Cochise,cochisecollege,dylanbradfordcj7i,Dylan Bradford
+Apr 9,home,Eastern Arizona,L,7-4,7,4,3,win,20220409_irox,5,0,1,,,,0,,2,1,,,,,1,0,,,,,5,2022,2021-22,div1,Cochise,cochisecollege,dylanbradfordcj7i,Dylan Bradford
+Apr 12,home,Central Arizona,W,11-5,11,5,6,win,20220412_dl3n,3,1,0,,,,1,1,,,,,,,0,0,,,,,4,2022,2021-22,div1,Cochise,cochisecollege,dylanbradfordcj7i,Dylan Bradford
+Apr 12,home,Central Arizona,W,10-4,10,4,6,win,20220412_7s9t,2,1,1,,,,0,,1,,,,,,1,0,,,,,2,2022,2021-22,div1,Cochise,cochisecollege,dylanbradfordcj7i,Dylan Bradford
+Apr 16,home,Yavapai,W,6-4,6,4,2,win,20220416_o48p,3,1,0,,,,1,,1,,,,,,0,0,,,,,3,2022,2021-22,div1,Cochise,cochisecollege,dylanbradfordcj7i,Dylan Bradford
+Apr 16,home,Yavapai,W,13-8,13,8,5,win,20220416_t17j,0,2,0,,,,0,,,1,,,,,0,0,,,,,0,2022,2021-22,div1,Cochise,cochisecollege,dylanbradfordcj7i,Dylan Bradford
+Apr 19,home,Pima,L,8-0,8,0,8,win,20220419_f8gr,1,0,0,,,,0,,1,,,,,,0,0,,,,,1,2022,2021-22,div1,Cochise,cochisecollege,dylanbradfordcj7i,Dylan Bradford
+Apr 19,home,Pima,W,12-11,12,11,1,win,20220419_7ebo,0,1,0,,,,0,,,1,,,,,0,0,,,,,0,2022,2021-22,div1,Cochise,cochisecollege,dylanbradfordcj7i,Dylan Bradford
+Apr 26,home,Arizona Western,W,2-0,2,0,2,win,20220426_87qa,1,0,0,,,,0,,1,,,,,,0,0,,,,,1,2022,2021-22,div1,Cochise,cochisecollege,dylanbradfordcj7i,Dylan Bradford
+Apr 30,home,South Mountain,L,8-4,8,4,4,win,20220430_zpw7,0,1,0,,,,0,,,2,,,,,0,0,,,,,0,2022,2021-22,div1,Cochise,cochisecollege,dylanbradfordcj7i,Dylan Bradford
+Apr 30,home,South Mountain,W,11-9,11,9,2,win,20220430_saky,5,2,1,,,,0,,,1,,,,,1,0,,,,,5,2022,2021-22,div1,Cochise,cochisecollege,dylanbradfordcj7i,Dylan Bradford
+May 5,home,Arizona Western,W,11-8,11,8,3,win,20220505_2ke1,5,2,4,1,,,1,,,,,,,,5,1,,,,,5,2022,2021-22,div1,Cochise,cochisecollege,dylanbradfordcj7i,Dylan Bradford
+May 6,home,Arizona Western,L,5-4,5,4,1,win,20220506_jkfu,4,1,1,,,,0,1,1,,,,,,1,0,,,,,5,2022,2021-22,div1,Cochise,cochisecollege,dylanbradfordcj7i,Dylan Bradford
+May 7,home,Arizona Western,W,8-3,8,3,5,win,20220507_bf4k,5,2,2,1,,,0,,,1,,,,,3,1,,,,,5,2022,2021-22,div1,Cochise,cochisecollege,dylanbradfordcj7i,Dylan Bradford
+May 12,home,Central Arizona,W,3-1,3,1,2,win,20220512_k748,2,1,1,,,,0,1,,,,1,,,1,0,,,,,4,2022,2021-22,div1,Cochise,cochisecollege,dylanbradfordcj7i,Dylan Bradford
+May 13,home,Central Arizona,L,9-4,9,4,5,win,20220513_k4ae,2,1,1,,,,0,2,,,,,,,1,0,,,,,4,2022,2021-22,div1,Cochise,cochisecollege,dylanbradfordcj7i,Dylan Bradford
+May 14,home,Central Arizona,L,3-2,3,2,1,win,20220514_7bco,6,0,0,,,,0,,3,,,,,,0,0,,,,,6,2022,2021-22,div1,Cochise,cochisecollege,dylanbradfordcj7i,Dylan Bradford

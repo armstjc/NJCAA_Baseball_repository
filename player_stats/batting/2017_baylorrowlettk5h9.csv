@@ -1,56 +1,45 @@
 date,location,opponent,result,score,team_score,opp_score,game_score_diff,game_win_loss,game_id,AB,R,H,2B,3B,HR,RBI,BB,K,SB,CS,HBP,SF,SH,TB,XBH,HDP,GO,FO,GO/FO,PA,season,njcaa_season,njcaa_division,team,team_id,player_id,player_name
-Jan 27,home,Galveston,W,10-8,10,8,2.0,win,20170127_8s7f,4,1,2,1,,,1,,1,,,,,,3,1,,,1,,4,2017,2016-17,div1,Temple,templecollege,baylorrowlettk5h9,Baylor Rowlett
-Jan 27,home,Galveston,L,7-3,7,3,4.0,win,,,,,,,,,,,,,,,,,,,,,,,2017,2016-17,div1,Temple,templecollege,baylorrowlettk5h9,Baylor Rowlett
-Jan 28,home,Alvin,L,1-0,1,0,1.0,win,20170128_lkbn,1,0,1,,,,0,1,,,,1,,,1,0,,,,,3,2017,2016-17,div1,Temple,templecollege,baylorrowlettk5h9,Baylor Rowlett
-Jan 28,home,Alvin,W,9-2,9,2,7.0,win,20170128_tj8u,4,2,3,1,0,2,6,0,0,0,0,0,0,0,10,3,,0,,,4,2017,2016-17,div1,Temple,templecollege,baylorrowlettk5h9,Baylor Rowlett
-Feb 3,home,Blinn,W,9-7,9,7,2.0,win,20170203_1hs6,3,1,2,,,1,3,2,,,,,,,5,1,1,1,,,5,2017,2016-17,div1,Temple,templecollege,baylorrowlettk5h9,Baylor Rowlett
-Feb 3,home,Frank Phillips,W,7-3,7,3,4.0,win,20170203_3jds,0,0,0,,,,1,1,,,,,,,0,0,,,,,1,2017,2016-17,div1,Temple,templecollege,baylorrowlettk5h9,Baylor Rowlett
-Feb 6,home,St. Edwards JV,W,6-5,6,5,1.0,win,20170206_zzz6,2,0,0,,,,1,1,1,,,1,,,0,0,,,,,4,2017,2016-17,div1,Temple,templecollege,baylorrowlettk5h9,Baylor Rowlett
-Feb 6,home,St. Edwards JV,W,8-1,8,1,7.0,win,,,,,,,,,,,,,,,,,,,,,,,2017,2016-17,div1,Temple,templecollege,baylorrowlettk5h9,Baylor Rowlett
-Feb 10,home,Angelina,W,6-5,6,5,1.0,win,20170210_bef7,3,0,0,,,,0,,1,,,1,,,0,0,,,2,,4,2017,2016-17,div1,Temple,templecollege,baylorrowlettk5h9,Baylor Rowlett
-Feb 10,home,Western Texas,L,18-14,18,14,4.0,win,20170210_l62g,0,0,0,,,,0,,,,,1,,,0,0,,,,,1,2017,2016-17,div1,Temple,templecollege,baylorrowlettk5h9,Baylor Rowlett
-Feb 16,home,Alvin,W,3-1,3,1,2.0,win,20170216_6wxx,2,1,0,0,0,0,0,1,2,0,0,0,0,0,0,0,,0,,,3,2017,2016-17,div1,Temple,templecollege,baylorrowlettk5h9,Baylor Rowlett
-Feb 16,home,Alvin,L,10-1,10,1,9.0,win,,,,,,,,,,,,,,,,,,,,,,,2017,2016-17,div1,Temple,templecollege,baylorrowlettk5h9,Baylor Rowlett
-Feb 22,home,Angelina,L,16-1,16,1,15.0,win,20170222_hulr,3,0,3,3,,,1,,,,,,,,6,3,,,,,3,2017,2016-17,div1,Temple,templecollege,baylorrowlettk5h9,Baylor Rowlett
-Feb 22,home,Angelina,W,2-1,2,1,1.0,win,20170222_nktv,3,0,0,,,,0,,,,,,,,0,0,,1,1,1.00,3,2017,2016-17,div1,Temple,templecollege,baylorrowlettk5h9,Baylor Rowlett
-Feb 27,home,Concordia JV,W,9-2,9,2,7.0,win,20170227_3ce1,5,0,2,2,,,1,,1,,,,,,4,2,,1,1,1.00,5,2017,2016-17,div1,Temple,templecollege,baylorrowlettk5h9,Baylor Rowlett
-Feb 27,home,Concordia JV,W,7-6,7,6,1.0,win,20170227_oln3,2,0,0,,,,0,,1,,,,,,0,0,,,1,,2,2017,2016-17,div1,Temple,templecollege,baylorrowlettk5h9,Baylor Rowlett
-Mar 1,home,St. Edward's JV,W,7-0,7,0,7.0,win,20170301_8v9b,5,0,2,,,,1,,,1,1,,,,2,0,,,2,,5,2017,2016-17,div1,Temple,templecollege,baylorrowlettk5h9,Baylor Rowlett
-Mar 8,home,Vernon,L,7-1,7,1,6.0,win,20170308_uypl,3,0,0,,,,0,,2,,,,,,0,0,,,1,,3,2017,2016-17,div1,Temple,templecollege,baylorrowlettk5h9,Baylor Rowlett
-Mar 8,home,Vernon,W,3-2,3,2,1.0,win,20170308_4a9e,1,0,0,,,,0,,,,,,,,0,0,,,1,,1,2017,2016-17,div1,Temple,templecollege,baylorrowlettk5h9,Baylor Rowlett
-Mar 11,home,Vernon,W,3-1,3,1,2.0,win,20170311_udx7,3,1,1,,,1,1,1,1,,,,,,4,1,,1,,,4,2017,2016-17,div1,Temple,templecollege,baylorrowlettk5h9,Baylor Rowlett
-Mar 11,home,Vernon,W,10-0,10,0,10.0,win,20170311_z1ka,3,0,0,,,,1,2,,,,,,,0,0,,1,1,1.00,5,2017,2016-17,div1,Temple,templecollege,baylorrowlettk5h9,Baylor Rowlett
-Mar 13,home,Navarro,L,8-7,8,7,1.0,win,20170313_a2zs,1,1,1,,,1,2,,,,,,,,4,1,,,,,1,2017,2016-17,div1,Temple,templecollege,baylorrowlettk5h9,Baylor Rowlett
-Mar 16,home,North Central Texas,W,5-0,5,0,5.0,win,20170316_u7ql,3,0,0,,,,0,1,3,,,,,,0,0,,,,,4,2017,2016-17,div1,Temple,templecollege,baylorrowlettk5h9,Baylor Rowlett
-Mar 16,home,North Central Texas,W,7-6,7,6,1.0,win,20170316_w7do,2,1,0,,,,0,2,1,,1,,,,0,0,,,1,,4,2017,2016-17,div1,Temple,templecollege,baylorrowlettk5h9,Baylor Rowlett
-Mar 18,home,North Central Texas,W,11-6,11,6,5.0,win,20170318_l9vj,4,2,1,1,,,0,,1,,,,,,2,1,,,1,,4,2017,2016-17,div1,Temple,templecollege,baylorrowlettk5h9,Baylor Rowlett
-Mar 18,home,North Central Texas,W,9-5,9,5,4.0,win,20170318_4o4b,3,1,0,,,,0,2,1,,,,,,0,0,,2,,,5,2017,2016-17,div1,Temple,templecollege,baylorrowlettk5h9,Baylor Rowlett
-Mar 21,home,Galveston,W,9-4,9,4,5.0,win,20170321_mix2,2,1,1,,,,2,1,,1,,,1,,1,0,,,,,4,2017,2016-17,div1,Temple,templecollege,baylorrowlettk5h9,Baylor Rowlett
-Mar 21,home,Galveston,W,3-2,3,2,1.0,win,,,,,,,,,,,,,,,,,,,,,,,2017,2016-17,div1,Temple,templecollege,baylorrowlettk5h9,Baylor Rowlett
-Mar 25,home,LSU Eunice,L,18-14,18,14,4.0,win,20170325_dykp,4,2,2,,,1,3,1,,,,,,,5,1,,,2,,5,2017,2016-17,div1,Temple,templecollege,baylorrowlettk5h9,Baylor Rowlett
-Mar 25,home,LSU Eunice,L,2-1,2,1,1.0,win,20170325_st2g,3,1,1,,,,0,,,,,,,,1,0,,1,1,1.00,3,2017,2016-17,div1,Temple,templecollege,baylorrowlettk5h9,Baylor Rowlett
-Mar 29,home,Cisco,W,3-2,3,2,1.0,win,20170329_quxs,2,1,0,,,,0,,1,,,1,,,0,0,,1,,,3,2017,2016-17,div1,Temple,templecollege,baylorrowlettk5h9,Baylor Rowlett
-Mar 29,home,Cisco,L,5-3,5,3,2.0,win,20170329_b57j,3,0,0,,,,0,1,1,,,,,,0,0,,2,,,4,2017,2016-17,div1,Temple,templecollege,baylorrowlettk5h9,Baylor Rowlett
-Mar 31,home,Cisco,L,5-0,5,0,5.0,win,20170331_0171,2,0,0,,,,0,,1,,,,,,0,0,,,1,,2,2017,2016-17,div1,Temple,templecollege,baylorrowlettk5h9,Baylor Rowlett
-Mar 31,home,Cisco,W,2-0,2,0,2.0,win,,,,,,,,,,,,,,,,,,,,,,,2017,2016-17,div1,Temple,templecollege,baylorrowlettk5h9,Baylor Rowlett
-Apr 5,home,Grayson,L,4-1,4,1,3.0,win,20170405_md3j,2,0,0,,,,0,1,2,1,,,,,0,0,,,,,3,2017,2016-17,div1,Temple,templecollege,baylorrowlettk5h9,Baylor Rowlett
-Apr 5,home,Grayson,L,6-1,6,1,5.0,win,20170405_f20s,0,1,0,,,,0,1,,,,,,,0,0,,,,,1,2017,2016-17,div1,Temple,templecollege,baylorrowlettk5h9,Baylor Rowlett
-Apr 8,home,Grayson,W,6-5,6,5,1.0,win,,,,,,,,,,,,,,,,,,,,,,,2017,2016-17,div1,Temple,templecollege,baylorrowlettk5h9,Baylor Rowlett
-Apr 8,home,Grayson,L,2-1,2,1,1.0,win,20170408_j1jm,3,0,1,1,,,0,,,,,,,1,2,1,,1,1,1.00,4,2017,2016-17,div1,Temple,templecollege,baylorrowlettk5h9,Baylor Rowlett
-Apr 12,home,Ranger,W,6-4,6,4,2.0,win,20170412_l8dp,3,1,1,,,,0,1,2,,,,,,1,0,,,,,4,2017,2016-17,div1,Temple,templecollege,baylorrowlettk5h9,Baylor Rowlett
-Apr 12,home,Ranger,W,7-2,7,2,5.0,win,,,,,,,,,,,,,,,,,,,,,,,2017,2016-17,div1,Temple,templecollege,baylorrowlettk5h9,Baylor Rowlett
-Apr 14,home,Ranger,W,4-3,4,3,1.0,win,20170414_smal,4,1,1,,,,1,,1,,,,,,1,0,,,2,,4,2017,2016-17,div1,Temple,templecollege,baylorrowlettk5h9,Baylor Rowlett
-Apr 14,home,Ranger,W,9-2,9,2,7.0,win,20170414_pfg3,4,0,2,,,,1,,,,,,,,2,0,,2,,,4,2017,2016-17,div1,Temple,templecollege,baylorrowlettk5h9,Baylor Rowlett
-Apr 20,home,Hill,L,5-3,5,3,2.0,win,20170420_plnw,3,0,2,,,,2,,,,,,,,2,0,,1,,,3,2017,2016-17,div1,Temple,templecollege,baylorrowlettk5h9,Baylor Rowlett
-Apr 20,home,Hill,L,3-2,3,2,1.0,win,20170420_fi7y,5,0,2,,,,1,,1,,,,,,2,0,1,1,1,1.00,5,2017,2016-17,div1,Temple,templecollege,baylorrowlettk5h9,Baylor Rowlett
-Apr 22,home,Hill,W,16-11,16,11,5.0,win,20170422_2jbv,1,1,0,,,,0,2,1,,,,,,0,0,,,,,3,2017,2016-17,div1,Temple,templecollege,baylorrowlettk5h9,Baylor Rowlett
-Apr 22,home,Hill,W,13-7,13,7,6.0,win,20170422_gzna,3,2,1,,,1,2,1,1,,,,,,4,1,,,1,,4,2017,2016-17,div1,Temple,templecollege,baylorrowlettk5h9,Baylor Rowlett
-Apr 26,home,McLennan,L,2-1,2,1,1.0,win,20170426_v6rt,3,0,0,,,,0,,1,,,,,,0,0,,1,,,3,2017,2016-17,div1,Temple,templecollege,baylorrowlettk5h9,Baylor Rowlett
-Apr 26,home,McLennan,L,6-3,6,3,3.0,win,,,,,,,,,,,,,,,,,,,,,,,2017,2016-17,div1,Temple,templecollege,baylorrowlettk5h9,Baylor Rowlett
-Apr 28,home,McLennan,L,11-9,11,9,2.0,win,20170428_c5qv,1,0,0,,,,0,,,,,,,,0,0,,1,,,1,2017,2016-17,div1,Temple,templecollege,baylorrowlettk5h9,Baylor Rowlett
-Apr 28,home,McLennan,L,13-5,13,5,8.0,win,20170428_xrpa,4,1,3,1,,1,1,,,,,,,,7,2,,1,,,4,2017,2016-17,div1,Temple,templecollege,baylorrowlettk5h9,Baylor Rowlett
-May 1,home,Blinn,W,3-1,3,1,2.0,win,,,,,,,,,,,,,,,,,,,,,,,2017,2016-17,div1,Temple,templecollege,baylorrowlettk5h9,Baylor Rowlett
-May 3,home,Weatherford,L,10-0,10,0,10.0,win,20170503_0c1h,2,0,0,,,,0,,,,,,,,0,0,1,2,,,2,2017,2016-17,div1,Temple,templecollege,baylorrowlettk5h9,Baylor Rowlett
-May 3,home,Weatherford,L,16-1,16,1,15.0,win,,,,,,,,,,,,,,,,,,,,,,,2017,2016-17,div1,Temple,templecollege,baylorrowlettk5h9,Baylor Rowlett
-May 6,home,Weatherford,W,3-1,3,1,2.0,win,20170506_8gm1,3,1,1,,,1,3,,,,,,,,4,1,,,,,3,2017,2016-17,div1,Temple,templecollege,baylorrowlettk5h9,Baylor Rowlett
-May 6,home,Weatherford,L,13-3,13,3,10.0,win,,,,,,,,,,,,,,,,,,,,,,,2017,2016-17,div1,Temple,templecollege,baylorrowlettk5h9,Baylor Rowlett
+Jan 27,home,Galveston,W,10-8,10,8,2,win,20170127_8s7f,4,1,2,1,,,1,,1,,,,,,3,1,,,1,,4,2017,2016-17,div1,Temple,templecollege,baylorrowlettk5h9,Baylor Rowlett
+Jan 28,home,Alvin,L,1-0,1,0,1,win,20170128_lkbn,1,0,1,,,,0,1,,,,1,,,1,0,,,,,3,2017,2016-17,div1,Temple,templecollege,baylorrowlettk5h9,Baylor Rowlett
+Jan 28,home,Alvin,W,9-2,9,2,7,win,20170128_tj8u,4,2,3,1,0,2,6,0,0,0,0,0,0,0,10,3,,0,,,4,2017,2016-17,div1,Temple,templecollege,baylorrowlettk5h9,Baylor Rowlett
+Feb 3,home,Blinn,W,9-7,9,7,2,win,20170203_1hs6,3,1,2,,,1,3,2,,,,,,,5,1,1,1,,,5,2017,2016-17,div1,Temple,templecollege,baylorrowlettk5h9,Baylor Rowlett
+Feb 3,home,Frank Phillips,W,7-3,7,3,4,win,20170203_3jds,0,0,0,,,,1,1,,,,,,,0,0,,,,,1,2017,2016-17,div1,Temple,templecollege,baylorrowlettk5h9,Baylor Rowlett
+Feb 6,home,St. Edwards JV,W,6-5,6,5,1,win,20170206_zzz6,2,0,0,,,,1,1,1,,,1,,,0,0,,,,,4,2017,2016-17,div1,Temple,templecollege,baylorrowlettk5h9,Baylor Rowlett
+Feb 10,home,Angelina,W,6-5,6,5,1,win,20170210_bef7,3,0,0,,,,0,,1,,,1,,,0,0,,,2,,4,2017,2016-17,div1,Temple,templecollege,baylorrowlettk5h9,Baylor Rowlett
+Feb 10,home,Western Texas,L,18-14,18,14,4,win,20170210_l62g,0,0,0,,,,0,,,,,1,,,0,0,,,,,1,2017,2016-17,div1,Temple,templecollege,baylorrowlettk5h9,Baylor Rowlett
+Feb 16,home,Alvin,W,3-1,3,1,2,win,20170216_6wxx,2,1,0,0,0,0,0,1,2,0,0,0,0,0,0,0,,0,,,3,2017,2016-17,div1,Temple,templecollege,baylorrowlettk5h9,Baylor Rowlett
+Feb 22,home,Angelina,L,16-1,16,1,15,win,20170222_hulr,3,0,3,3,,,1,,,,,,,,6,3,,,,,3,2017,2016-17,div1,Temple,templecollege,baylorrowlettk5h9,Baylor Rowlett
+Feb 22,home,Angelina,W,2-1,2,1,1,win,20170222_nktv,3,0,0,,,,0,,,,,,,,0,0,,1,1,1.00,3,2017,2016-17,div1,Temple,templecollege,baylorrowlettk5h9,Baylor Rowlett
+Feb 27,home,Concordia JV,W,9-2,9,2,7,win,20170227_3ce1,5,0,2,2,,,1,,1,,,,,,4,2,,1,1,1.00,5,2017,2016-17,div1,Temple,templecollege,baylorrowlettk5h9,Baylor Rowlett
+Feb 27,home,Concordia JV,W,7-6,7,6,1,win,20170227_oln3,2,0,0,,,,0,,1,,,,,,0,0,,,1,,2,2017,2016-17,div1,Temple,templecollege,baylorrowlettk5h9,Baylor Rowlett
+Mar 1,home,St. Edward's JV,W,7-0,7,0,7,win,20170301_8v9b,5,0,2,,,,1,,,1,1,,,,2,0,,,2,,5,2017,2016-17,div1,Temple,templecollege,baylorrowlettk5h9,Baylor Rowlett
+Mar 8,home,Vernon,L,7-1,7,1,6,win,20170308_uypl,3,0,0,,,,0,,2,,,,,,0,0,,,1,,3,2017,2016-17,div1,Temple,templecollege,baylorrowlettk5h9,Baylor Rowlett
+Mar 8,home,Vernon,W,3-2,3,2,1,win,20170308_4a9e,1,0,0,,,,0,,,,,,,,0,0,,,1,,1,2017,2016-17,div1,Temple,templecollege,baylorrowlettk5h9,Baylor Rowlett
+Mar 11,home,Vernon,W,3-1,3,1,2,win,20170311_udx7,3,1,1,,,1,1,1,1,,,,,,4,1,,1,,,4,2017,2016-17,div1,Temple,templecollege,baylorrowlettk5h9,Baylor Rowlett
+Mar 11,home,Vernon,W,10-0,10,0,10,win,20170311_z1ka,3,0,0,,,,1,2,,,,,,,0,0,,1,1,1.00,5,2017,2016-17,div1,Temple,templecollege,baylorrowlettk5h9,Baylor Rowlett
+Mar 13,home,Navarro,L,8-7,8,7,1,win,20170313_a2zs,1,1,1,,,1,2,,,,,,,,4,1,,,,,1,2017,2016-17,div1,Temple,templecollege,baylorrowlettk5h9,Baylor Rowlett
+Mar 16,home,North Central Texas,W,5-0,5,0,5,win,20170316_u7ql,3,0,0,,,,0,1,3,,,,,,0,0,,,,,4,2017,2016-17,div1,Temple,templecollege,baylorrowlettk5h9,Baylor Rowlett
+Mar 16,home,North Central Texas,W,7-6,7,6,1,win,20170316_w7do,2,1,0,,,,0,2,1,,1,,,,0,0,,,1,,4,2017,2016-17,div1,Temple,templecollege,baylorrowlettk5h9,Baylor Rowlett
+Mar 18,home,North Central Texas,W,11-6,11,6,5,win,20170318_l9vj,4,2,1,1,,,0,,1,,,,,,2,1,,,1,,4,2017,2016-17,div1,Temple,templecollege,baylorrowlettk5h9,Baylor Rowlett
+Mar 18,home,North Central Texas,W,9-5,9,5,4,win,20170318_4o4b,3,1,0,,,,0,2,1,,,,,,0,0,,2,,,5,2017,2016-17,div1,Temple,templecollege,baylorrowlettk5h9,Baylor Rowlett
+Mar 21,home,Galveston,W,9-4,9,4,5,win,20170321_mix2,2,1,1,,,,2,1,,1,,,1,,1,0,,,,,4,2017,2016-17,div1,Temple,templecollege,baylorrowlettk5h9,Baylor Rowlett
+Mar 25,home,LSU Eunice,L,18-14,18,14,4,win,20170325_dykp,4,2,2,,,1,3,1,,,,,,,5,1,,,2,,5,2017,2016-17,div1,Temple,templecollege,baylorrowlettk5h9,Baylor Rowlett
+Mar 25,home,LSU Eunice,L,2-1,2,1,1,win,20170325_st2g,3,1,1,,,,0,,,,,,,,1,0,,1,1,1.00,3,2017,2016-17,div1,Temple,templecollege,baylorrowlettk5h9,Baylor Rowlett
+Mar 29,home,Cisco,W,3-2,3,2,1,win,20170329_quxs,2,1,0,,,,0,,1,,,1,,,0,0,,1,,,3,2017,2016-17,div1,Temple,templecollege,baylorrowlettk5h9,Baylor Rowlett
+Mar 29,home,Cisco,L,5-3,5,3,2,win,20170329_b57j,3,0,0,,,,0,1,1,,,,,,0,0,,2,,,4,2017,2016-17,div1,Temple,templecollege,baylorrowlettk5h9,Baylor Rowlett
+Mar 31,home,Cisco,L,5-0,5,0,5,win,20170331_0171,2,0,0,,,,0,,1,,,,,,0,0,,,1,,2,2017,2016-17,div1,Temple,templecollege,baylorrowlettk5h9,Baylor Rowlett
+Apr 5,home,Grayson,L,4-1,4,1,3,win,20170405_md3j,2,0,0,,,,0,1,2,1,,,,,0,0,,,,,3,2017,2016-17,div1,Temple,templecollege,baylorrowlettk5h9,Baylor Rowlett
+Apr 5,home,Grayson,L,6-1,6,1,5,win,20170405_f20s,0,1,0,,,,0,1,,,,,,,0,0,,,,,1,2017,2016-17,div1,Temple,templecollege,baylorrowlettk5h9,Baylor Rowlett
+Apr 8,home,Grayson,L,2-1,2,1,1,win,20170408_j1jm,3,0,1,1,,,0,,,,,,,1,2,1,,1,1,1.00,4,2017,2016-17,div1,Temple,templecollege,baylorrowlettk5h9,Baylor Rowlett
+Apr 12,home,Ranger,W,6-4,6,4,2,win,20170412_l8dp,3,1,1,,,,0,1,2,,,,,,1,0,,,,,4,2017,2016-17,div1,Temple,templecollege,baylorrowlettk5h9,Baylor Rowlett
+Apr 14,home,Ranger,W,4-3,4,3,1,win,20170414_smal,4,1,1,,,,1,,1,,,,,,1,0,,,2,,4,2017,2016-17,div1,Temple,templecollege,baylorrowlettk5h9,Baylor Rowlett
+Apr 14,home,Ranger,W,9-2,9,2,7,win,20170414_pfg3,4,0,2,,,,1,,,,,,,,2,0,,2,,,4,2017,2016-17,div1,Temple,templecollege,baylorrowlettk5h9,Baylor Rowlett
+Apr 20,home,Hill,L,5-3,5,3,2,win,20170420_plnw,3,0,2,,,,2,,,,,,,,2,0,,1,,,3,2017,2016-17,div1,Temple,templecollege,baylorrowlettk5h9,Baylor Rowlett
+Apr 20,home,Hill,L,3-2,3,2,1,win,20170420_fi7y,5,0,2,,,,1,,1,,,,,,2,0,1,1,1,1.00,5,2017,2016-17,div1,Temple,templecollege,baylorrowlettk5h9,Baylor Rowlett
+Apr 22,home,Hill,W,16-11,16,11,5,win,20170422_2jbv,1,1,0,,,,0,2,1,,,,,,0,0,,,,,3,2017,2016-17,div1,Temple,templecollege,baylorrowlettk5h9,Baylor Rowlett
+Apr 22,home,Hill,W,13-7,13,7,6,win,20170422_gzna,3,2,1,,,1,2,1,1,,,,,,4,1,,,1,,4,2017,2016-17,div1,Temple,templecollege,baylorrowlettk5h9,Baylor Rowlett
+Apr 26,home,McLennan,L,2-1,2,1,1,win,20170426_v6rt,3,0,0,,,,0,,1,,,,,,0,0,,1,,,3,2017,2016-17,div1,Temple,templecollege,baylorrowlettk5h9,Baylor Rowlett
+Apr 28,home,McLennan,L,11-9,11,9,2,win,20170428_c5qv,1,0,0,,,,0,,,,,,,,0,0,,1,,,1,2017,2016-17,div1,Temple,templecollege,baylorrowlettk5h9,Baylor Rowlett
+Apr 28,home,McLennan,L,13-5,13,5,8,win,20170428_xrpa,4,1,3,1,,1,1,,,,,,,,7,2,,1,,,4,2017,2016-17,div1,Temple,templecollege,baylorrowlettk5h9,Baylor Rowlett
+May 3,home,Weatherford,L,10-0,10,0,10,win,20170503_0c1h,2,0,0,,,,0,,,,,,,,0,0,1,2,,,2,2017,2016-17,div1,Temple,templecollege,baylorrowlettk5h9,Baylor Rowlett
+May 6,home,Weatherford,W,3-1,3,1,2,win,20170506_8gm1,3,1,1,,,1,3,,,,,,,,4,1,,,,,3,2017,2016-17,div1,Temple,templecollege,baylorrowlettk5h9,Baylor Rowlett
