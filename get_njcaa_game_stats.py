@@ -528,7 +528,7 @@ def getNjcaaGamelogs(teams_df: pd.DataFrame()):
                     f'player_stats/fielding/{game_season}_{game_player_id}.csv', index=False)
         except:
             print('Could not get fielding stats for this player.')
-        time.sleep(4)
+        time.sleep(3)
 
 
 def main():
