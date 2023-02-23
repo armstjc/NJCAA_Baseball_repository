@@ -111,9 +111,13 @@ def getNjcaaGamelogs(teams_df: pd.DataFrame()):
         # driver.get(url)
         headers = {
             "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36"}
-        response = requests.get(url, headers=headers)
-        soup = BeautifulSoup(response.text, features='lxml')
 
+        try:
+            response = requests.get(url, headers=headers)
+            soup = BeautifulSoup(response.text, features='lxml')
+        except:
+            print('Coulnd not retrive the webpage')
+            
         # soup.find_all('table')[2] = Batting
         # soup.find_all('table')[3] = Extended Hitting
         # soup.find_all('table')[4] = Pitching

@@ -1,0 +1,396 @@
+season,njcaa_season,team,team_id,G,TC,PO,A,E,FPCT,DP,SBA,RCS,RCS_PCT,PB,CI
+2019,2018-19,ASA Miami,asacollegemiami,1248,4.0,17.0,22.0,2.0,0.951,308.0,291.0,232.0,0.797,277.0,306.0
+2019,2018-19,ASA New York,asabrooklynavengers,1330,24.0,7.0,17.0,0.0,1.0,148.0,143.0,101.0,0.706,136.0,170.0
+2019,2018-19,Abraham Baldwin,abrahambaldwinagriculturalcollege,1458,46.0,15.0,31.0,7.0,0.868,432.0,374.0,278.0,0.743,257.0,261.0
+2019,2018-19,Allegany Maryland,alleganycollegeofmaryland,1007,36.0,16.0,24.0,4.0,0.909,346.0,277.0,219.0,0.791,192.0,249.0
+2019,2018-19,Allegheny County-Boyce,ccofalleghenycountyboyce,792,27.0,19.0,11.0,0.0,1.0,218.0,170.0,137.0,0.806,115.0,230.0
+2019,2018-19,Allegheny County-South,ccofalleghenycountysouth,752,17.0,7.0,11.0,2.0,0.9,106.0,87.0,73.0,0.839,54.0,68.0
+2019,2018-19,Allen County,allencountycommunitycollege,1924,48.0,31.0,21.0,6.0,0.897,395.0,314.0,235.0,0.748,200.0,328.0
+2019,2018-19,Alvin,alvincommunitycollege,1680,52.0,26.0,18.0,6.0,0.88,386.0,275.0,199.0,0.724,219.0,357.0
+2019,2018-19,Andrew,andrewcollege,2016,53.0,21.0,31.0,8.0,0.867,456.0,362.0,248.0,0.685,234.0,357.0
+2019,2018-19,Angelina,angelinacollege,1829,43.0,30.0,17.0,3.0,0.94,448.0,277.0,216.0,0.78,149.0,461.0
+2019,2018-19,Anne Arundel,annearundelcommunitycollege,810,41.0,8.0,29.0,4.0,0.902,395.0,385.0,282.0,0.732,254.0,228.0
+2019,2018-19,Anoka-Ramsey,anokaramseycommunitycollege,1664,36.0,17.0,18.0,3.0,0.921,261.0,200.0,136.0,0.68,138.0,234.0
+2019,2018-19,Arizona Western,arizonawesterncollege,1344,56.0,38.0,18.0,9.0,0.862,345.0,180.0,133.0,0.739,164.0,445.0
+2019,2018-19,Arkansas Baptist,arkansasbaptistcollege,1595,7.0,7.0,16.0,3.0,0.885,289.0,328.0,203.0,0.619,218.0,163.0
+2019,2018-19,Atlantic Cape,atlanticcapecommunitycollege,966,36.0,16.0,18.0,1.0,0.971,263.0,204.0,154.0,0.755,135.0,251.0
+2019,2018-19,Barton,bartoncommunitycollege,1920,59.0,37.0,21.0,12.0,0.829,410.0,220.0,173.0,0.786,149.0,397.0
+2019,2018-19,Baton Rouge,batonrougecommunitycollege,2301,55.0,12.0,35.0,2.0,0.959,500.0,456.0,351.0,0.77,279.0,267.0
+2019,2018-19,Bay College,baycollege,1012,33.0,10.0,21.0,3.0,0.912,274.0,205.0,141.0,0.688,79.0,197.0
+2019,2018-19,Bergen,bergencommunitycollege,1485,33.0,19.0,15.0,5.0,0.872,208.0,223.0,158.0,0.709,267.0,253.0
+2019,2018-19,Bevill State,bevillstatecommunitycollege,1325,2.0,18.0,30.0,0.0,1.0,362.0,287.0,229.0,0.798,195.0,266.0
+2019,2018-19,Bishop State,bishopstatecommunitycollege,1782,47.0,17.0,29.0,7.0,0.868,300.0,230.0,157.0,0.683,173.0,210.0
+2019,2018-19,Bismarck State,bismarckstatecollege,1215,43.0,33.0,10.0,2.0,0.956,297.0,184.0,148.0,0.804,143.0,366.0
+2019,2018-19,Black Hawk-Moline,blackhawkcollegemoline,1450,1.0,25.0,20.0,8.0,0.849,364.0,259.0,199.0,0.768,153.0,315.0
+2019,2018-19,Blinn,blinncollege,2318,50.0,29.0,19.0,9.0,0.842,322.0,202.0,167.0,0.827,169.0,434.0
+2019,2018-19,Borough of Manhattan,boroughofmanhattancommunitycollege,480,13.0,2.0,14.0,0.0,1.0,159.0,237.0,143.0,0.603,151.0,113.0
+2019,2018-19,Bossier Parish,bossierparishcommunitycollege,2793,28.0,31.0,21.0,9.0,0.852,359.0,265.0,193.0,0.728,160.0,415.0
+2019,2018-19,Bronx,bronxcommunitycollege,792,32.0,15.0,15.0,1.0,0.968,265.0,273.0,221.0,0.81,192.0,177.0
+2019,2018-19,Brookdale,brookdalecommunitycollege,2560,53.0,36.0,17.0,10.0,0.841,321.0,231.0,161.0,0.697,187.0,475.0
+2019,2018-19,Broward,browardcollege,1248,2.0,20.0,24.0,9.0,0.83,395.0,249.0,192.0,0.771,165.0,291.0
+2019,2018-19,Brunswick,brunswickcommunitycollege,1749,46.0,40.0,10.0,10.0,0.833,314.0,189.0,132.0,0.698,159.0,408.0
+2019,2018-19,Bryant & Stratton (VA),bryantstrattoncollegeva,2442,38.0,12.0,27.0,2.0,0.951,385.0,374.0,288.0,0.77,247.0,327.0
+2019,2018-19,Bryant & Stratton College (WI),bryantstrattoncollegewi,1056,20.0,9.0,23.0,4.0,0.889,342.0,293.0,220.0,0.751,145.0,147.0
+2019,2018-19,Bucks County,buckscountycommunitycollege,1242,39.0,15.0,23.0,5.0,0.884,369.0,385.0,263.0,0.683,224.0,206.0
+2019,2018-19,Bunker Hill,bunkerhillcommunitycollege,304,8.0,1.0,5.0,0.0,1.0,113.0,111.0,50.0,0.45,35.0,29.0
+2019,2018-19,Butler,butlercommunitycollegeks,1856,58.0,39.0,19.0,12.0,0.829,405.0,294.0,232.0,0.789,207.0,418.0
+2019,2018-19,Butler County,butlercountycommunitycollegepa,350,13.0,2.0,7.0,0.0,1.0,105.0,104.0,72.0,0.692,73.0,81.0
+2019,2018-19,CCBC Catonsville,ccbccatonsville,1898,53.0,25.0,29.0,7.0,0.885,481.0,428.0,327.0,0.764,254.0,389.0
+2019,2018-19,CCBC Dundalk,ccbcdundalk,1953,26.0,10.0,20.0,2.0,0.938,332.0,288.0,232.0,0.806,172.0,293.0
+2019,2018-19,CCBC Essex,ccbcessex,1026,43.0,24.0,20.0,2.0,0.957,338.0,294.0,220.0,0.748,217.0,231.0
+2019,2018-19,Calhoun,calhouncommunitycollege,1421,22.0,12.0,30.0,3.0,0.933,447.0,354.0,267.0,0.754,194.0,213.0
+2019,2018-19,Camden County,camdencountycollege,1352,42.0,29.0,17.0,5.0,0.902,363.0,263.0,206.0,0.783,198.0,328.0
+2019,2018-19,Camp,pauldcampcommunitycollege,1872,18.0,25.0,14.0,8.0,0.83,318.0,241.0,179.0,0.743,172.0,347.0
+2019,2018-19,Carl Albert State,carlalbertstatecollege,1248,27.0,15.0,21.0,2.0,0.947,394.0,321.0,258.0,0.804,170.0,237.0
+2019,2018-19,Carl Sandburg,carlsandburgcollege,1457,2.0,27.0,13.0,0.0,1.0,323.0,255.0,210.0,0.824,147.0,320.0
+2019,2018-19,Catawba Valley,catawbavalleycommunitycollege,2318,54.0,33.0,21.0,9.0,0.857,328.0,243.0,175.0,0.72,238.0,563.0
+2019,2018-19,Cayuga,cayugacommunitycollege,688,27.0,7.0,5.0,1.0,0.923,224.0,205.0,138.0,0.673,174.0,171.0
+2019,2018-19,Cecil,cecilcollege,990,23.0,7.0,25.0,2.0,0.941,357.0,402.0,332.0,0.826,266.0,208.0
+2019,2018-19,Central Alabama,centralalabamacommunitycollege,1960,54.0,23.0,30.0,11.0,0.828,394.0,339.0,255.0,0.752,249.0,338.0
+2019,2018-19,Central Arizona,centralarizonacollege,1960,70.0,50.0,20.0,11.0,0.864,467.0,308.0,218.0,0.708,276.0,690.0
+2019,2018-19,Central Florida,collegeofcentralflorida,1456,53.0,44.0,9.0,10.0,0.841,375.0,243.0,184.0,0.757,223.0,490.0
+2019,2018-19,Central Lakes,centrallakescollegebrainerd,1219,47.0,24.0,22.0,6.0,0.885,416.0,307.0,230.0,0.749,177.0,269.0
+2019,2018-19,Century,centurycollege,1728,8.0,38.0,12.0,4.0,0.926,273.0,174.0,135.0,0.776,177.0,415.0
+2019,2018-19,Chandler-Gilbert,chandlergilbertcommunitycollege,1890,51.0,26.0,21.0,8.0,0.855,412.0,294.0,176.0,0.599,241.0,394.0
+2019,2018-19,Chattahoochee Valley,chattahoocheevalleycommunitycollege,2220,57.0,36.0,20.0,9.0,0.862,401.0,279.0,202.0,0.724,210.0,439.0
+2019,2018-19,Chattanooga State,chattanoogastatecommunitycollege,1300,15.0,33.0,14.0,14.0,0.77,341.0,230.0,193.0,0.839,202.0,414.0
+2019,2018-19,Chesapeake,chesapeakecollege,1674,45.0,30.0,14.0,2.0,0.957,344.0,269.0,208.0,0.773,203.0,285.0
+2019,2018-19,Chipola,chipolacollege,1426,50.0,33.0,15.0,12.0,0.8,344.0,262.0,223.0,0.851,232.0,403.0
+2019,2018-19,Cisco,ciscocollege,1925,53.0,24.0,18.0,4.0,0.913,451.0,344.0,240.0,0.698,220.0,385.0
+2019,2018-19,Clarendon,clarendoncollege,1620,2.0,28.0,26.0,3.0,0.947,501.0,414.0,349.0,0.843,231.0,359.0
+2019,2018-19,Clark State,clarkstatecommunitycollege,1260,2.0,13.0,26.0,4.0,0.907,428.0,353.0,277.0,0.785,148.0,221.0
+2019,2018-19,Cleveland State,clevelandstatecommunitycollege,1530,47.0,27.0,20.0,5.0,0.904,360.0,206.0,158.0,0.767,150.0,331.0
+2019,2018-19,Cloud County,cloudcountycommunitycollege,2124,58.0,34.0,24.0,9.0,0.866,466.0,296.0,239.0,0.807,192.0,411.0
+2019,2018-19,Coahoma,coahomacommunitycollege,1058,41.0,10.0,25.0,5.0,0.875,324.0,262.0,232.0,0.885,223.0,261.0
+2019,2018-19,Coastal Alabama - Bay Minette,coastalalabamasouth,2109,54.0,23.0,31.0,4.0,0.931,452.0,349.0,265.0,0.759,198.0,216.0
+2019,2018-19,Coastal Alabama - Brewton,coastalalabamaeast,1536,48.0,19.0,29.0,4.0,0.923,400.0,307.0,224.0,0.73,159.0,225.0
+2019,2018-19,Coastal Alabama - Monroeville,coastalalabamanorth,1566,0.0,33.0,20.0,8.0,0.869,382.0,282.0,241.0,0.855,245.0,330.0
+2019,2018-19,Coastal Bend,coastalbendcollege,1972,8.0,27.0,31.0,17.0,0.773,440.0,339.0,274.0,0.808,248.0,383.0
+2019,2018-19,Cochise,cochisecollege,1482,57.0,42.0,15.0,9.0,0.864,419.0,249.0,207.0,0.831,201.0,468.0
+2019,2018-19,Coffeyville,coffeyvillecommunitycollege,2240,56.0,28.0,27.0,3.0,0.948,446.0,327.0,257.0,0.786,216.0,407.0
+2019,2018-19,Colby,colbycommunitycollege,1560,59.0,33.0,21.0,6.0,0.9,476.0,379.0,316.0,0.834,248.0,484.0
+2019,2018-19,Colorado Northwestern,coloradonorthwesterncommunitycollege,620,43.0,8.0,34.0,3.0,0.933,397.0,301.0,253.0,0.841,181.0,162.0
+2019,2018-19,Columbia State,columbiastatecommunitycollege,1600,33.0,21.0,25.0,9.0,0.836,442.0,341.0,289.0,0.848,216.0,324.0
+2019,2018-19,Connors State,connorsstatecollege,2304,61.0,48.0,13.0,13.0,0.824,533.0,366.0,269.0,0.735,216.0,473.0
+2019,2018-19,Copiah-Lincoln,copiahlincolncommunitycollege,1316,40.0,20.0,20.0,6.0,0.87,331.0,262.0,195.0,0.744,131.0,259.0
+2019,2018-19,Corning,corningcommunitycollege,943,2.0,9.0,12.0,1.0,0.955,332.0,299.0,205.0,0.686,158.0,136.0
+2019,2018-19,Cowley,cowleycountycommunitycollege,2046,61.0,45.0,11.0,6.0,0.903,419.0,280.0,239.0,0.854,209.0,589.0
+2019,2018-19,Crowder,crowdercollege,2944,62.0,47.0,15.0,12.0,0.838,463.0,311.0,262.0,0.842,244.0,547.0
+2019,2018-19,Cuyahoga,cuyahogacommunitycollege,2035,55.0,37.0,18.0,5.0,0.917,331.0,273.0,203.0,0.744,267.0,516.0
+2019,2018-19,Dakota,dakotacollegeatbottineau,840,14.0,2.0,7.0,1.0,0.9,131.0,127.0,106.0,0.835,56.0,46.0
+2019,2018-19,Dakota County Tech,dakotacountytechnicalcollege,1742,49.0,33.0,16.0,6.0,0.891,309.0,195.0,134.0,0.687,149.0,324.0
+2019,2018-19,Dallas College - Brookhaven,brookhavencollege,1932,9.0,42.0,27.0,11.0,0.862,643.0,442.0,319.0,0.722,254.0,553.0
+2019,2018-19,Dallas College - Cedar Valley,cedarvalleycollege,1540,49.0,30.0,22.0,10.0,0.839,500.0,375.0,308.0,0.821,223.0,324.0
+2019,2018-19,Dallas College - Eastfield,eastfieldcollege,1888,37.0,26.0,22.0,6.0,0.889,407.0,348.0,296.0,0.851,284.0,426.0
+2019,2018-19,Dallas College - Mountain View,mountainviewcollege,1683,3.0,0.0,4.0,0.0,1.0,471.0,456.0,376.0,0.825,317.0,269.0
+2019,2018-19,Dallas College - North Lake,northlakecollege,1400,0.0,34.0,21.0,7.0,0.887,404.0,317.0,263.0,0.83,283.0,445.0
+2019,2018-19,Dallas College - Richland,richlandcollege,1710,53.0,23.0,29.0,13.0,0.8,480.0,354.0,337.0,0.952,224.0,366.0
+2019,2018-19,Danville Area,danvilleareacommunitycollege,1400,51.0,26.0,25.0,8.0,0.864,414.0,319.0,259.0,0.812,222.0,272.0
+2019,2018-19,Dawson,dawsoncommunitycollege,1914,40.0,12.0,27.0,0.0,1.0,367.0,302.0,232.0,0.768,146.0,211.0
+2019,2018-19,Daytona State,daytonastatecollege,1392,42.0,17.0,25.0,3.0,0.933,406.0,264.0,240.0,0.909,157.0,255.0
+2019,2018-19,Delaware County,delawarecountycommunitycollege,496,27.0,3.0,25.0,0.0,1.0,319.0,362.0,299.0,0.826,171.0,116.0
+2019,2018-19,Delaware Tech,delawaretechnicalcommunitycollege,902,37.0,21.0,14.0,7.0,0.833,239.0,218.0,140.0,0.642,156.0,265.0
+2019,2018-19,Delgado,delgadocommunitycollege,2080,4.0,34.0,13.0,11.0,0.81,368.0,213.0,182.0,0.854,107.0,264.0
+2019,2018-19,Delta,deltacollege,1456,56.0,29.0,26.0,8.0,0.873,453.0,390.0,267.0,0.685,249.0,371.0
+2019,2018-19,Des Moines Area,desmoinesareacommunitycollege,2624,48.0,37.0,15.0,9.0,0.852,382.0,258.0,199.0,0.771,232.0,377.0
+2019,2018-19,Dodge City,dodgecitycommunitycollege,1782,54.0,26.0,28.0,3.0,0.947,426.0,327.0,254.0,0.777,242.0,330.0
+2019,2018-19,DuPage,collegeofdupage,2035,35.0,26.0,16.0,9.0,0.824,267.0,200.0,127.0,0.635,176.0,243.0
+2019,2018-19,Dutchess,dutchesscommunitycollege,651,27.0,11.0,16.0,3.0,0.9,256.0,226.0,156.0,0.69,128.0,127.0
+2019,2018-19,Dyersburg State,dyersburgstatecommunitycollege,1891,56.0,34.0,18.0,5.0,0.912,381.0,247.0,195.0,0.789,191.0,387.0
+2019,2018-19,East Central (MS),eastcentralcommunitycollege,1595,46.0,23.0,23.0,2.0,0.958,319.0,275.0,213.0,0.775,283.0,313.0
+2019,2018-19,East Georgia State,eastgeorgiacollege,1404,52.0,34.0,18.0,6.0,0.897,422.0,294.0,228.0,0.776,193.0,350.0
+2019,2018-19,East Mississippi,eastmississippicommunitycollege,1230,41.0,11.0,30.0,4.0,0.911,335.0,345.0,213.0,0.617,235.0,274.0
+2019,2018-19,Eastern Arizona,easternarizonacollege,1404,2.0,16.0,33.0,5.0,0.907,397.0,344.0,248.0,0.721,213.0,306.0
+2019,2018-19,Eastern Florida State,easternfloridastatecollege,1378,51.0,30.0,20.0,12.0,0.806,323.0,229.0,160.0,0.699,260.0,544.0
+2019,2018-19,Eastern Gateway Community College,easterngatewaycommunitycollege,1160,9.0,14.0,17.0,1.0,0.969,287.0,217.0,168.0,0.774,121.0,182.0
+2019,2018-19,Eastern Oklahoma State,easternoklahomastatecollege,1920,48.0,25.0,23.0,1.0,0.98,387.0,299.0,203.0,0.679,190.0,294.0
+2019,2018-19,Edison State,edisoncommunitycollege,1860,41.0,22.0,18.0,1.0,0.976,284.0,218.0,185.0,0.849,207.0,224.0
+2019,2018-19,El Paso,elpasocommunitycollege,1620,54.0,20.0,34.0,4.0,0.931,475.0,359.0,283.0,0.788,195.0,333.0
+2019,2018-19,Elgin,elgincommunitycollege,1400,45.0,19.0,26.0,7.0,0.865,405.0,323.0,250.0,0.774,180.0,224.0
+2019,2018-19,Ellsworth,ellsworthcommunitycollege,2378,54.0,10.0,44.0,3.0,0.947,566.0,489.0,398.0,0.814,232.0,296.0
+2019,2018-19,Enterprise State,enterprisestatecommunitycollege,1161,0.0,13.0,29.0,2.0,0.955,289.0,255.0,174.0,0.682,163.0,227.0
+2019,2018-19,Erie,eriecommunitycollege,2079,49.0,28.0,19.0,4.0,0.922,356.0,304.0,233.0,0.766,258.0,307.0
+2019,2018-19,Fayetteville Tech,fayettevilletechnicalcommunitycollege,945,19.0,1.0,14.0,0.0,1.0,217.0,202.0,147.0,0.728,115.0,112.0
+2019,2018-19,Finger Lakes,fingerlakescommunitycollege,1950,60.0,39.0,21.0,2.0,0.968,346.0,232.0,166.0,0.716,198.0,426.0
+2019,2018-19,Florence-Darlington Tech,florencedarlingtontechnicalcollege,1860,55.0,41.0,13.0,10.0,0.844,334.0,226.0,158.0,0.699,217.0,433.0
+2019,2018-19,Florida SouthWestern State,floridasouthwesternstatecollege,1620,54.0,40.0,14.0,13.0,0.806,438.0,214.0,167.0,0.78,166.0,485.0
+2019,2018-19,Florida State Jacksonville,floridastatecollegeatjacksonville,1274,42.0,13.0,30.0,5.0,0.896,396.0,317.0,246.0,0.776,196.0,246.0
+2019,2018-19,Fort Scott,fortscottcommunitycollege,2088,58.0,36.0,20.0,8.0,0.875,422.0,340.0,249.0,0.732,237.0,428.0
+2019,2018-19,Frank Phillips,frankphillipscollege,1836,7.0,29.0,24.0,4.0,0.93,457.0,352.0,271.0,0.77,214.0,388.0
+2019,2018-19,Frederick,frederickcommunitycollege,1484,49.0,36.0,14.0,5.0,0.909,351.0,189.0,142.0,0.751,122.0,353.0
+2019,2018-19,Frontier,frontiercommunitycollege,2622,4.0,27.0,30.0,5.0,0.919,467.0,425.0,283.0,0.666,257.0,419.0
+2019,2018-19,Fulton-Montgomery,fultonmontgomerycommunitycollege,420,25.0,7.0,17.0,1.0,0.96,252.0,226.0,174.0,0.77,137.0,111.0
+2019,2018-19,Galveston,galvestoncollege,717,47.0,15.0,27.0,4.0,0.913,369.0,311.0,226.0,0.727,276.0,346.0
+2019,2018-19,Garden City,gardencitycommunitycollege,1890,51.0,26.0,27.0,2.0,0.964,496.0,359.0,276.0,0.769,178.0,362.0
+2019,2018-19,Garrett,garrettcollege,1690,53.0,29.0,25.0,11.0,0.831,406.0,295.0,202.0,0.685,192.0,300.0
+2019,2018-19,GateWay (AZ),gatewaycommunitycollegeaz,1800,60.0,29.0,31.0,10.0,0.857,538.0,402.0,294.0,0.731,280.0,339.0
+2019,2018-19,Genesee,geneseecommunitycollege,1176,49.0,27.0,16.0,2.0,0.956,320.0,252.0,191.0,0.758,178.0,345.0
+2019,2018-19,Georgia Highlands,georgiahighlandscollege,1650,54.0,29.0,25.0,10.0,0.844,459.0,302.0,232.0,0.768,198.0,393.0
+2019,2018-19,Glen Oaks,glenoakscommunitycollege,1200,38.0,10.0,28.0,2.0,0.95,330.0,274.0,184.0,0.672,151.0,154.0
+2019,2018-19,Glendale,glendalecommunitycollege,2262,51.0,22.0,33.0,11.0,0.833,552.0,354.0,269.0,0.76,246.0,435.0
+2019,2018-19,Gordon State,gordonstatecollege,2013,59.0,50.0,9.0,10.0,0.855,426.0,245.0,167.0,0.682,207.0,440.0
+2019,2018-19,Grand Rapids,grandrapidscommunitycollege,1564,45.0,21.0,24.0,3.0,0.938,301.0,281.0,209.0,0.744,208.0,318.0
+2019,2018-19,Grayson,graysoncollege,2006,2.0,41.0,14.0,10.0,0.846,358.0,250.0,200.0,0.8,227.0,519.0
+2019,2018-19,Guilford Tech,guilfordtechnicalcommunitycollege,1504,34.0,14.0,20.0,4.0,0.895,268.0,254.0,213.0,0.839,193.0,228.0
+2019,2018-19,Gulf Coast State,gulfcoaststatecollege,1008,48.0,26.0,22.0,8.0,0.857,366.0,235.0,197.0,0.838,170.0,376.0
+2019,2018-19,Hagerstown,hagerstowncommunitycollege,1320,53.0,36.0,18.0,9.0,0.857,377.0,287.0,199.0,0.693,204.0,389.0
+2019,2018-19,Harford,harfordcommunitycollege,2376,54.0,46.0,9.0,12.0,0.821,344.0,236.0,171.0,0.725,251.0,453.0
+2019,2018-19,Harper,harpercollege,666,31.0,5.0,24.0,0.0,1.0,319.0,302.0,208.0,0.689,143.0,126.0
+2019,2018-19,Heartland,heartlandcommunitycollege,2080,52.0,31.0,18.0,3.0,0.942,365.0,259.0,212.0,0.819,170.0,411.0
+2019,2018-19,Henry Ford,henryfordcollege,920,3.0,9.0,23.0,0.0,1.0,286.0,232.0,164.0,0.707,134.0,176.0
+2019,2018-19,Herkimer,herkimercollege,1700,43.0,35.0,6.0,9.0,0.82,274.0,156.0,119.0,0.763,145.0,371.0
+2019,2018-19,Hesston,hesstoncollege,1200,31.0,11.0,23.0,0.0,1.0,276.0,216.0,182.0,0.843,132.0,212.0
+2019,2018-19,Highland (IL),highlandcommunitycollegeillinois,1288,40.0,15.0,24.0,3.0,0.929,337.0,301.0,204.0,0.678,165.0,219.0
+2019,2018-19,Highland (KS),highlandcommunitycollegekansas,1300,51.0,11.0,40.0,6.0,0.895,501.0,432.0,313.0,0.725,212.0,296.0
+2019,2018-19,Hill,hillcollege,1924,50.0,30.0,16.0,3.0,0.939,413.0,330.0,297.0,0.9,197.0,316.0
+2019,2018-19,Hillsborough,hillsboroughcommunitycollege,1638,52.0,28.0,24.0,12.0,0.812,446.0,266.0,208.0,0.782,173.0,418.0
+2019,2018-19,Hinds,hindscommunitycollege,1410,46.0,26.0,20.0,8.0,0.852,327.0,248.0,156.0,0.629,146.0,312.0
+2019,2018-19,Holmes,holmescommunitycollege,1352,46.0,28.0,17.0,14.0,0.763,306.0,267.0,221.0,0.828,227.0,289.0
+2019,2018-19,Holyoke,holyokecommunitycollege,300,9.0,1.0,9.0,0.0,1.0,148.0,147.0,130.0,0.884,63.0,45.0
+2019,2018-19,Howard (TX),howardcollege,2262,56.0,31.0,25.0,9.0,0.862,419.0,333.0,257.0,0.772,281.0,441.0
+2019,2018-19,Hudson Valley,hudsonvalleycommunitycollege,1836,0.0,22.0,11.0,5.0,0.868,235.0,187.0,159.0,0.85,149.0,234.0
+2019,2018-19,Hutchinson,hutchinsoncommunitycollege,2508,65.0,43.0,19.0,11.0,0.849,468.0,357.0,255.0,0.714,266.0,651.0
+2019,2018-19,Illinois Central,illinoiscentralcollege,1638,51.0,25.0,26.0,7.0,0.879,419.0,291.0,240.0,0.825,212.0,326.0
+2019,2018-19,Illinois Valley,illinoisvalleycommunitycollege,735,30.0,9.0,8.0,1.0,0.944,216.0,192.0,142.0,0.74,138.0,148.0
+2019,2018-19,Indian Hills,indianhillscommunitycollege,1952,49.0,25.0,25.0,8.0,0.862,361.0,287.0,226.0,0.787,208.0,313.0
+2019,2018-19,Indian River State,indianriverstatecollege,1012,5.0,16.0,16.0,8.0,0.8,373.0,246.0,201.0,0.817,162.0,293.0
+2019,2018-19,Iowa Central,iowacentralcommunitycollege,2968,53.0,33.0,20.0,10.0,0.841,393.0,288.0,217.0,0.753,225.0,341.0
+2019,2018-19,Iowa Lakes,iowalakescommunitycollege,2356,51.0,18.0,33.0,8.0,0.864,347.0,325.0,225.0,0.692,232.0,349.0
+2019,2018-19,Iowa Western,iowawesterncommunitycollege,2628,63.0,51.0,10.0,20.0,0.753,313.0,242.0,182.0,0.752,259.0,543.0
+2019,2018-19,Itawamba,itawambacommunitycollege,1400,8.0,41.0,8.0,9.0,0.845,347.0,204.0,158.0,0.775,192.0,380.0
+2019,2018-19,Ivy Tech Fort Wayne,ivytechcommunitycollegenortheast,1820,46.0,31.0,14.0,3.0,0.938,292.0,207.0,151.0,0.729,147.0,251.0
+2019,2018-19,Jackson,jacksoncollege,1564,11.0,31.0,13.0,10.0,0.815,326.0,262.0,164.0,0.626,223.0,336.0
+2019,2018-19,Jackson State,jacksonstatecommunitycollege,1450,55.0,33.0,22.0,6.0,0.902,390.0,287.0,224.0,0.78,170.0,431.0
+2019,2018-19,Jamestown,jamestowncommunitycollege,640,27.0,7.0,19.0,2.0,0.929,240.0,225.0,168.0,0.747,136.0,106.0
+2019,2018-19,Jefferson (MO),jeffersoncollege,2205,57.0,47.0,10.0,17.0,0.77,395.0,229.0,179.0,0.782,224.0,548.0
+2019,2018-19,Jefferson (NY),jeffersoncommunitycollege,1166,2.0,9.0,28.0,1.0,0.974,299.0,322.0,238.0,0.739,203.0,155.0
+2019,2018-19,John A. Logan,johnalogancollege,2052,56.0,44.0,13.0,11.0,0.838,410.0,278.0,216.0,0.777,239.0,503.0
+2019,2018-19,John Wood,johnwoodcommunitycollege,1320,51.0,15.0,35.0,5.0,0.909,387.0,372.0,297.0,0.798,262.0,292.0
+2019,2018-19,Johnson County,johnsoncountycommunitycollege,2262,58.0,46.0,12.0,8.0,0.879,329.0,228.0,144.0,0.632,175.0,528.0
+2019,2018-19,Joliet,jolietjuniorcollege,1456,43.0,20.0,23.0,7.0,0.86,347.0,303.0,212.0,0.7,272.0,234.0
+2019,2018-19,Jones,jonescollege,1372,49.0,37.0,12.0,13.0,0.79,336.0,195.0,148.0,0.759,162.0,371.0
+2019,2018-19,Kalamazoo Valley,kalamazoovalleycommunitycollege,1175,47.0,28.0,18.0,1.0,0.979,371.0,247.0,204.0,0.826,147.0,264.0
+2019,2018-19,Kankakee,kankakeecommunitycollege,1860,58.0,39.0,17.0,11.0,0.836,441.0,299.0,233.0,0.779,213.0,414.0
+2019,2018-19,Kansas City Kansas,kansascitykansascommunitycollege,1881,55.0,39.0,16.0,9.0,0.859,407.0,272.0,221.0,0.812,224.0,461.0
+2019,2018-19,Kaskaskia,kaskaskiacollege,1380,41.0,23.0,18.0,10.0,0.804,289.0,180.0,134.0,0.744,119.0,287.0
+2019,2018-19,Kellogg,kelloggcommunitycollege,1540,12.0,40.0,15.0,12.0,0.821,343.0,237.0,154.0,0.65,172.0,388.0
+2019,2018-19,Kingsborough,kingsboroughcommunitycollege,608,9.0,11.0,10.0,0.0,1.0,306.0,273.0,214.0,0.784,136.0,196.0
+2019,2018-19,Kirkwood,kirkwoodcommunitycollege,2409,15.0,32.0,21.0,11.0,0.828,388.0,284.0,217.0,0.764,242.0,424.0
+2019,2018-19,Kishwaukee,kishwaukeecollege,1500,34.0,4.0,27.0,0.0,1.0,346.0,351.0,263.0,0.749,169.0,130.0
+2019,2018-19,LSU Eunice,louisianastateuniversityeunice,1830,59.0,51.0,8.0,10.0,0.855,377.0,187.0,149.0,0.797,155.0,458.0
+2019,2018-19,Labette,labettecommunitycollege,1500,47.0,17.0,30.0,3.0,0.94,370.0,356.0,261.0,0.733,257.0,362.0
+2019,2018-19,Lackawanna,lackawannacollege,2108,40.0,29.0,13.0,1.0,0.977,302.0,229.0,186.0,0.812,221.0,349.0
+2019,2018-19,Lake County,collegeoflakecounty,1891,38.0,24.0,16.0,7.0,0.851,265.0,224.0,151.0,0.674,153.0,266.0
+2019,2018-19,Lake Land,lakelandcollege,1305,42.0,8.0,34.0,5.0,0.894,359.0,325.0,220.0,0.677,208.0,269.0
+2019,2018-19,Lake Michigan,lakemichigancollege,1050,36.0,20.0,21.0,1.0,0.976,381.0,268.0,230.0,0.858,156.0,208.0
+2019,2018-19,Lake Region State,lakeregionstatecollegend,1122,30.0,12.0,18.0,5.0,0.857,249.0,233.0,182.0,0.781,149.0,209.0
+2019,2018-19,Lake-Sumter State,lakesumterstatecollege,1300,48.0,22.0,25.0,7.0,0.87,528.0,342.0,271.0,0.792,225.0,302.0
+2019,2018-19,Lakeland,lakelandcommunitycollege,1375,42.0,7.0,35.0,2.0,0.955,417.0,445.0,329.0,0.739,278.0,207.0
+2019,2018-19,Lamar,lamarcommunitycollege,2046,57.0,32.0,27.0,6.0,0.908,402.0,330.0,236.0,0.715,266.0,523.0
+2019,2018-19,Lansing,lansingcommunitycollege,2145,9.0,36.0,9.0,10.0,0.818,300.0,194.0,172.0,0.887,171.0,295.0
+2019,2018-19,Laredo,laredocollege,1728,18.0,15.0,32.0,2.0,0.959,441.0,356.0,276.0,0.775,266.0,286.0
+2019,2018-19,Lawson State,lawsonstatecommunitycollege,2257,1.0,27.0,22.0,0.0,1.0,420.0,264.0,189.0,0.716,222.0,329.0
+2019,2018-19,Lehigh Carbon,lehighcarboncommunitycollege,1035,34.0,15.0,19.0,4.0,0.895,274.0,223.0,173.0,0.776,109.0,169.0
+2019,2018-19,Lenoir,lenoircommunitycollege,1470,30.0,9.0,23.0,2.0,0.941,298.0,261.0,183.0,0.701,165.0,230.0
+2019,2018-19,Lewis & Clark,lewisclarkcommunitycollege,1820,45.0,28.0,17.0,7.0,0.865,341.0,219.0,163.0,0.744,148.0,233.0
+2019,2018-19,Lincoln Land,lincolnlandcommunitycollege,2077,9.0,37.0,17.0,7.0,0.885,379.0,236.0,197.0,0.835,180.0,386.0
+2019,2018-19,Lincoln Trail,lincolntrailcollege,1872,4.0,28.0,20.0,3.0,0.941,316.0,237.0,148.0,0.624,213.0,393.0
+2019,2018-19,Lorain County,loraincountycommunitycollege,817,33.0,10.0,22.0,0.0,1.0,280.0,302.0,193.0,0.639,156.0,152.0
+2019,2018-19,Louisburg,louisburgcollege,1908,45.0,25.0,19.0,10.0,0.815,370.0,281.0,222.0,0.79,162.0,298.0
+2019,2018-19,Luna,lunacommunitycollege,1792,55.0,7.0,46.0,1.0,0.981,615.0,627.0,470.0,0.75,313.0,242.0
+2019,2018-19,Lurleen B. Wallace,lurleenbwallacecommunitycollege,1736,54.0,26.0,22.0,5.0,0.906,473.0,371.0,301.0,0.811,216.0,270.0
+2019,2018-19,Macomb,macombcommunitycollege,946,2.0,14.0,29.0,4.0,0.915,370.0,311.0,242.0,0.778,211.0,242.0
+2019,2018-19,Madison,madisoncollege,1798,51.0,42.0,11.0,13.0,0.803,305.0,201.0,169.0,0.841,200.0,440.0
+2019,2018-19,Manor,manorcollege,570,27.0,5.0,22.0,0.0,1.0,284.0,361.0,253.0,0.701,216.0,140.0
+2019,2018-19,Marian-Ancilla,ancillacollege,663,35.0,3.0,20.0,0.0,1.0,371.0,321.0,247.0,0.769,98.0,92.0
+2019,2018-19,Marion Military,marionmilitaryinstitute,1470,42.0,21.0,21.0,6.0,0.875,332.0,233.0,147.0,0.631,149.0,210.0
+2019,2018-19,Marshalltown,marshalltowncommunitycollege,1785,28.0,14.0,25.0,1.0,0.975,412.0,369.0,304.0,0.824,181.0,225.0
+2019,2018-19,Massasoit,massasoitcommunitycollege,595,31.0,10.0,21.0,0.0,1.0,292.0,276.0,187.0,0.678,125.0,186.0
+2019,2018-19,McCook,mccookcommunitycollege,1830,48.0,20.0,27.0,6.0,0.887,331.0,279.0,188.0,0.674,212.0,398.0
+2019,2018-19,McHenry County,mchenrycountycollege,2196,53.0,38.0,14.0,4.0,0.929,370.0,266.0,176.0,0.662,202.0,429.0
+2019,2018-19,McLennan,mclennancommunitycollege,2196,57.0,42.0,14.0,5.0,0.918,375.0,219.0,190.0,0.868,161.0,386.0
+2019,2018-19,Mercer County,mercercountycommunitycollege,2142,52.0,36.0,15.0,4.0,0.927,326.0,205.0,158.0,0.771,177.0,357.0
+2019,2018-19,Mercyhurst North East,mercyhurstnortheast,1760,41.0,23.0,19.0,3.0,0.933,317.0,259.0,211.0,0.815,215.0,344.0
+2019,2018-19,Meridian,meridiancommunitycollege,1128,44.0,29.0,15.0,1.0,0.978,353.0,228.0,170.0,0.746,146.0,370.0
+2019,2018-19,Mesa,mesacommunitycollege,2208,65.0,43.0,23.0,12.0,0.846,519.0,275.0,215.0,0.782,169.0,552.0
+2019,2018-19,Metropolitan,metropolitancommunitycollege,1566,48.0,9.0,17.0,0.0,1.0,512.0,321.0,269.0,0.838,192.0,263.0
+2019,2018-19,Miami Dade,miamidadecollege,1456,6.0,30.0,19.0,15.0,0.766,408.0,225.0,195.0,0.867,172.0,467.0
+2019,2018-19,Mid Michigan,midmichigancollege,612,12.0,6.0,14.0,1.0,0.952,243.0,267.0,194.0,0.727,192.0,133.0
+2019,2018-19,Middlesex College,middlesexcountycollege,1802,40.0,26.0,12.0,5.0,0.884,315.0,235.0,181.0,0.77,182.0,306.0
+2019,2018-19,Midland,midlandcollege,2220,59.0,39.0,20.0,13.0,0.819,485.0,344.0,271.0,0.788,204.0,422.0
+2019,2018-19,Miles,milescommunitycollege,2132,20.0,42.0,14.0,3.0,0.949,352.0,254.0,198.0,0.78,257.0,421.0
+2019,2018-19,Milwaukee Area Tech,milwaukeeareatechnicalcollege,1690,30.0,13.0,22.0,1.0,0.972,280.0,257.0,178.0,0.693,169.0,238.0
+2019,2018-19,Mineral Area,mineralareacollege,2016,48.0,32.0,17.0,9.0,0.845,363.0,231.0,189.0,0.818,201.0,400.0
+2019,2018-19,Minnesota North College - Hibbing,hibbingcommunitycollege,1058,36.0,19.0,13.0,4.0,0.889,269.0,224.0,170.0,0.759,152.0,223.0
+2019,2018-19,Minnesota North College - Itasca,itascacommunitycollege,1104,7.0,16.0,28.0,4.0,0.917,392.0,373.0,272.0,0.729,252.0,247.0
+2019,2018-19,Minnesota North College - Mesabi Range,mesabirangectc,675,32.0,3.0,29.0,0.0,1.0,374.0,339.0,267.0,0.788,163.0,108.0
+2019,2018-19,Minnesota North College - Rainy River,rainyrivercommunitycollege,1127,3.0,14.0,20.0,2.0,0.944,271.0,238.0,164.0,0.689,120.0,147.0
+2019,2018-19,Minnesota North College - Vermilion,vermilioncommunitycollege,646,32.0,7.0,22.0,0.0,1.0,276.0,242.0,169.0,0.698,118.0,130.0
+2019,2018-19,Minnesota State,minnesotastatecommunityandtechnical,1696,45.0,31.0,18.0,10.0,0.831,387.0,261.0,212.0,0.812,156.0,287.0
+2019,2018-19,Minnesota West,minnesotawestcommunitytechnicalcol,1972,3.0,16.0,25.0,2.0,0.953,303.0,303.0,189.0,0.624,193.0,257.0
+2019,2018-19,Mississippi Delta,mississippideltacommunitycollege,1218,15.0,11.0,14.0,2.0,0.926,323.0,274.0,218.0,0.796,125.0,259.0
+2019,2018-19,Mississippi Gulf Coast,mississippigulfcoastcommunitycollege,1590,47.0,29.0,18.0,7.0,0.87,348.0,239.0,170.0,0.711,190.0,339.0
+2019,2018-19,Mohawk Valley,mohawkvalleycommunitycollege,1519,0.0,12.0,19.0,4.0,0.886,258.0,202.0,169.0,0.837,145.0,157.0
+2019,2018-19,Monroe CC,monroecommunitycollege,1728,50.0,29.0,21.0,5.0,0.909,433.0,287.0,229.0,0.798,160.0,337.0
+2019,2018-19,Monroe College,monroecollege,2583,52.0,30.0,22.0,14.0,0.788,334.0,262.0,200.0,0.763,282.0,491.0
+2019,2018-19,Monroe College - Bronx,monroecollegebronx,2090,35.0,9.0,26.0,4.0,0.897,345.0,353.0,249.0,0.705,197.0,202.0
+2019,2018-19,Montgomery,montgomerycollegemd,1325,13.0,19.0,16.0,3.0,0.921,255.0,201.0,156.0,0.776,130.0,276.0
+2019,2018-19,Montgomery County,montgomerycountycommunitycollegepa,490,19.0,9.0,5.0,3.0,0.824,269.0,220.0,153.0,0.695,89.0,131.0
+2019,2018-19,Moraine Valley,morainevalleycommunitycollege,1947,6.0,10.0,9.0,2.0,0.905,337.0,279.0,190.0,0.681,198.0,276.0
+2019,2018-19,Morris,countycollegeofmorris,1947,49.0,32.0,17.0,2.0,0.961,349.0,222.0,155.0,0.698,164.0,330.0
+2019,2018-19,Morton,mortoncollege,1269,6.0,19.0,25.0,4.0,0.917,356.0,307.0,210.0,0.684,214.0,312.0
+2019,2018-19,Motlow State,motlowstatecommunitycollege,1566,52.0,35.0,15.0,12.0,0.806,341.0,233.0,174.0,0.747,163.0,489.0
+2019,2018-19,Mott,mottcommunitycollege,2079,49.0,28.0,21.0,8.0,0.86,356.0,331.0,237.0,0.716,286.0,286.0
+2019,2018-19,Murray State,murraystatecollege,1960,11.0,28.0,24.0,1.0,0.981,464.0,347.0,217.0,0.625,242.0,351.0
+2019,2018-19,Muskegon,muskegoncommunitycollege,1300,9.0,31.0,17.0,6.0,0.889,289.0,221.0,157.0,0.71,204.0,318.0
+2019,2018-19,Nassau,nassaucommunitycollege,880,11.0,15.0,6.0,2.0,0.913,244.0,175.0,110.0,0.629,92.0,257.0
+2019,2018-19,Navarro,navarrocollege,2016,8.0,41.0,17.0,14.0,0.806,437.0,297.0,221.0,0.744,242.0,466.0
+2019,2018-19,Neosho County,neoshocountycommunitycollege,1856,58.0,31.0,26.0,5.0,0.919,471.0,298.0,234.0,0.785,156.0,369.0
+2019,2018-19,New Mexico,newmexicojuniorcollege,2232,59.0,42.0,17.0,9.0,0.868,439.0,347.0,252.0,0.726,284.0,475.0
+2019,2018-19,New Mexico Military,newmexicomilitaryinstitute,2016,56.0,23.0,31.0,5.0,0.915,442.0,340.0,235.0,0.691,247.0,402.0
+2019,2018-19,Niagara County,niagaracountycommunitycollege,2516,48.0,37.0,10.0,7.0,0.87,239.0,128.0,97.0,0.758,127.0,353.0
+2019,2018-19,North Arkansas,northarkansascollege,1342,5.0,14.0,34.0,5.0,0.906,408.0,335.0,260.0,0.776,168.0,268.0
+2019,2018-19,North Central Missouri,northcentralmissouricollege,1696,51.0,14.0,34.0,4.0,0.923,400.0,417.0,318.0,0.763,292.0,281.0
+2019,2018-19,North Central Texas,northcentraltexascollege,837,2.0,28.0,21.0,8.0,0.86,403.0,305.0,227.0,0.744,215.0,391.0
+2019,2018-19,North Iowa Area,northiowaareacommunitycollege,2627,57.0,32.0,26.0,9.0,0.866,380.0,300.0,226.0,0.753,285.0,478.0
+2019,2018-19,Northampton,northamptoncommunitycollege,1372,44.0,37.0,10.0,5.0,0.904,334.0,202.0,150.0,0.743,124.0,322.0
+2019,2018-19,Northeast,northeastcommunitycollege,1984,56.0,36.0,20.0,15.0,0.789,436.0,328.0,252.0,0.768,246.0,377.0
+2019,2018-19,Northeast Mississippi,northeastmississippicommunitycollege,1457,47.0,26.0,21.0,6.0,0.887,376.0,260.0,190.0,0.731,141.0,326.0
+2019,2018-19,Northeast Texas,northeasttexascommunitycollege,1768,40.0,17.0,33.0,1.0,0.98,474.0,339.0,265.0,0.782,212.0,379.0
+2019,2018-19,Northeastern,northeasternjuniorcollege,2852,0.0,29.0,25.0,5.0,0.915,423.0,340.0,258.0,0.759,228.0,373.0
+2019,2018-19,Northeastern Oklahoma A&M,northeasternoklahomaamcollege,1710,57.0,25.0,25.0,0.0,1.0,466.0,385.0,318.0,0.826,253.0,385.0
+2019,2018-19,Northern Essex,northernessexcommunitycollege,946,2.0,24.0,13.0,4.0,0.902,308.0,266.0,180.0,0.677,206.0,297.0
+2019,2018-19,Northern Oklahoma Enid,northernoklahomacollegeenid,1980,42.0,41.0,17.0,10.0,0.853,446.0,315.0,252.0,0.8,198.0,463.0
+2019,2018-19,Northern Oklahoma Tonkawa,northernoklahomacollegetonkawa,1824,57.0,41.0,15.0,8.0,0.875,407.0,279.0,194.0,0.695,197.0,461.0
+2019,2018-19,Northland,northlandcommunitytechnicalcollege,779,8.0,5.0,28.0,0.0,1.0,283.0,296.0,236.0,0.797,165.0,162.0
+2019,2018-19,Northwest Florida State,northwestfloridastatecollege,1450,55.0,42.0,12.0,11.0,0.831,323.0,180.0,135.0,0.75,187.0,439.0
+2019,2018-19,Northwest Mississippi,northwestmississippicommunitycollege,1222,47.0,32.0,14.0,12.0,0.793,308.0,195.0,155.0,0.795,176.0,378.0
+2019,2018-19,Nunez,nunezcommunitycollege,610,2.0,10.0,37.0,2.0,0.959,434.0,377.0,303.0,0.804,235.0,262.0
+2019,2018-19,Oakton,oaktoncommunitycollege,1769,4.0,36.0,18.0,11.0,0.831,415.0,293.0,220.0,0.751,224.0,409.0
+2019,2018-19,Ocean County,oceancountycollege,1066,3.0,23.0,16.0,3.0,0.929,308.0,204.0,150.0,0.735,127.0,262.0
+2019,2018-19,Odessa,odessacollege,2613,60.0,38.0,22.0,12.0,0.833,482.0,321.0,234.0,0.729,206.0,472.0
+2019,2018-19,Olive-Harvey,oliveharveycollege,1798,37.0,11.0,26.0,3.0,0.925,313.0,277.0,183.0,0.661,204.0,225.0
+2019,2018-19,Olney Central,olneycentralcollege,1961,52.0,35.0,17.0,12.0,0.812,336.0,235.0,175.0,0.745,173.0,322.0
+2019,2018-19,Onondaga,onondagacommunitycollege,1189,34.0,11.0,18.0,2.0,0.935,285.0,257.0,183.0,0.712,111.0,164.0
+2019,2018-19,Orange County,orangecountycommunitycollege,882,33.0,10.0,21.0,1.0,0.969,318.0,263.0,185.0,0.703,117.0,181.0
+2019,2018-19,Otero,oterojuniorcollege,1829,56.0,11.0,44.0,1.0,0.982,479.0,390.0,282.0,0.723,259.0,335.0
+2019,2018-19,Owens,owenscommunitycollege,1736,1.0,16.0,15.0,2.0,0.939,284.0,202.0,152.0,0.752,136.0,188.0
+2019,2018-19,Palm Beach State,palmbeachstatecollege,1300,44.0,24.0,19.0,9.0,0.827,336.0,234.0,180.0,0.769,172.0,334.0
+2019,2018-19,Panola,panolacollege,1705,0.0,37.0,14.0,4.0,0.927,344.0,232.0,158.0,0.681,186.0,431.0
+2019,2018-19,Paradise Valley,paradisevalleycommunitycollege,1815,5.0,29.0,21.0,16.0,0.758,426.0,298.0,234.0,0.785,283.0,388.0
+2019,2018-19,Paris,parisjuniorcollege,1568,2.0,25.0,30.0,8.0,0.873,433.0,355.0,270.0,0.761,256.0,414.0
+2019,2018-19,Parkland,parklandcollege,1653,54.0,37.0,16.0,9.0,0.855,275.0,193.0,129.0,0.668,215.0,462.0
+2019,2018-19,Pasco-Hernando State,pascohernandostatecollege,1656,58.0,35.0,25.0,7.0,0.896,482.0,325.0,260.0,0.8,328.0,481.0
+2019,2018-19,Patrick & Henry,patrickhenrycommunitycollege,1334,39.0,25.0,17.0,4.0,0.913,288.0,226.0,175.0,0.774,200.0,354.0
+2019,2018-19,Pearl River,pearlrivercommunitycollege,1653,55.0,40.0,14.0,8.0,0.871,361.0,250.0,185.0,0.74,217.0,431.0
+2019,2018-19,Pensacola State,pensacolastatecollege,1288,53.0,22.0,30.0,6.0,0.897,329.0,301.0,234.0,0.777,264.0,338.0
+2019,2018-19,Phoenix,phoenixcollege,2128,1.0,24.0,29.0,8.0,0.869,407.0,276.0,207.0,0.75,260.0,444.0
+2019,2018-19,Pima,pimacommunitycollege,1705,52.0,36.0,18.0,5.0,0.915,421.0,223.0,176.0,0.789,160.0,375.0
+2019,2018-19,Pitt,pittcommunitycollege,1410,28.0,19.0,11.0,12.0,0.714,233.0,147.0,116.0,0.789,138.0,291.0
+2019,2018-19,Polk State,polkstatecollege,1450,52.0,24.0,29.0,10.0,0.841,461.0,320.0,261.0,0.816,265.0,415.0
+2019,2018-19,Potomac State,potomacstatecollegeofwvu,1696,44.0,32.0,13.0,9.0,0.833,277.0,203.0,163.0,0.803,185.0,408.0
+2019,2018-19,Prairie State,prairiestatecollege,528,28.0,2.0,26.0,0.0,1.0,306.0,269.0,213.0,0.792,118.0,92.0
+2019,2018-19,Pratt,prattcommunitycollege,2166,57.0,26.0,31.0,5.0,0.919,439.0,359.0,279.0,0.777,233.0,392.0
+2019,2018-19,Prince George's,princegeorgescommunitycollege,1155,19.0,17.0,18.0,3.0,0.921,330.0,258.0,210.0,0.814,147.0,263.0
+2019,2018-19,Queensborough,queensboroughcommunitycollege,975,32.0,6.0,25.0,1.0,0.969,306.0,322.0,225.0,0.699,203.0,184.0
+2019,2018-19,Quinsigamond,quinsigamondcommunitycollege,400,22.0,14.0,7.0,2.0,0.913,165.0,137.0,91.0,0.664,87.0,146.0
+2019,2018-19,RCSJ Cumberland,cumberlandcountycollege,1596,51.0,46.0,5.0,5.0,0.911,325.0,179.0,129.0,0.721,193.0,474.0
+2019,2018-19,RCSJ Gloucester,rowancollegeatgloucestercounty,2048,53.0,42.0,11.0,10.0,0.841,343.0,216.0,161.0,0.745,176.0,495.0
+2019,2018-19,Ranger,rangercollege,2891,50.0,27.0,22.0,9.0,0.845,397.0,327.0,265.0,0.81,226.0,359.0
+2019,2018-19,Raritan Valley,raritanvalleycommunitycollege,612,29.0,8.0,19.0,1.0,0.964,304.0,317.0,179.0,0.565,119.0,83.0
+2019,2018-19,Redlands,redlandscommunitycollege,1219,11.0,14.0,31.0,3.0,0.938,504.0,398.0,315.0,0.791,218.0,293.0
+2019,2018-19,Rend Lake,rendlakecollege,2262,51.0,28.0,25.0,9.0,0.855,410.0,298.0,234.0,0.785,204.0,365.0
+2019,2018-19,Rhode Island,communitycollegeofrhodeisland,1404,6.0,27.0,11.0,4.0,0.905,263.0,188.0,147.0,0.782,99.0,280.0
+2019,2018-19,Ridgewater,ridgewatercollege,308,13.0,1.0,11.0,0.0,1.0,164.0,158.0,121.0,0.766,59.0,51.0
+2019,2018-19,Riverland,riverlandcommunitycollege,1550,46.0,32.0,12.0,4.0,0.917,327.0,230.0,182.0,0.791,147.0,273.0
+2019,2018-19,Roane State,roanestatecommunitycollege,1170,41.0,16.0,25.0,1.0,0.976,331.0,248.0,193.0,0.778,144.0,281.0
+2019,2018-19,Rochester,rochestercommunityandtechnicalcolleg,1350,39.0,16.0,21.0,3.0,0.925,288.0,224.0,171.0,0.763,114.0,175.0
+2019,2018-19,Rock Valley,rockvalleycollege,1815,55.0,38.0,17.0,10.0,0.846,393.0,253.0,184.0,0.727,180.0,354.0
+2019,2018-19,Rockingham,rockinghamcommunitycollege,1624,44.0,33.0,12.0,8.0,0.849,297.0,210.0,156.0,0.743,184.0,293.0
+2019,2018-19,Rockland,rocklandcommunitycollege,1392,39.0,32.0,9.0,8.0,0.837,284.0,205.0,158.0,0.771,145.0,219.0
+2019,2018-19,Rose State,rosestatecollege,1242,44.0,24.0,20.0,7.0,0.863,349.0,242.0,174.0,0.719,145.0,412.0
+2019,2018-19,Rowan Burlington,rowancollegeatburlingtoncounty,1008,2.0,20.0,15.0,1.0,0.972,217.0,129.0,83.0,0.643,139.0,266.0
+2019,2018-19,SUNY Adirondack,sunyadirondack,1248,40.0,16.0,23.0,1.0,0.975,336.0,297.0,211.0,0.71,166.0,271.0
+2019,2018-19,SUNY Broome,sunybroomecommunitycollege,748,21.0,3.0,18.0,0.0,1.0,255.0,266.0,152.0,0.571,101.0,64.0
+2019,2018-19,Salt Lake,saltlakecommunitycollege,1612,48.0,34.0,11.0,2.0,0.957,334.0,197.0,136.0,0.69,172.0,315.0
+2019,2018-19,San Jacinto-North,sanjacintocollegenorth,1848,53.0,40.0,13.0,11.0,0.828,274.0,179.0,112.0,0.626,244.0,674.0
+2019,2018-19,Santa Fe,santafecollege,1938,55.0,38.0,17.0,13.0,0.809,394.0,219.0,165.0,0.753,173.0,415.0
+2019,2018-19,Sauk Valley,saukvalleycommunitycollege,468,28.0,0.0,10.0,0.0,1.0,290.0,333.0,210.0,0.631,132.0,113.0
+2019,2018-19,Schenectady County,schenectadycountycommunitycollege,663,16.0,5.0,23.0,0.0,1.0,298.0,253.0,182.0,0.719,93.0,91.0
+2019,2018-19,Schoolcraft,schoolcraftcollege,1410,4.0,11.0,26.0,2.0,0.949,408.0,368.0,265.0,0.72,203.0,182.0
+2019,2018-19,Scottsdale,scottsdalecommunitycollege,1815,55.0,27.0,26.0,9.0,0.855,459.0,303.0,225.0,0.743,249.0,450.0
+2019,2018-19,Seminole State (FL),seminolestatecollegeofflorida,1404,49.0,35.0,14.0,12.0,0.803,369.0,264.0,182.0,0.689,238.0,394.0
+2019,2018-19,Seminole State (OK),seminolestatecollegeok,2320,51.0,38.0,13.0,10.0,0.836,398.0,306.0,259.0,0.846,281.0,490.0
+2019,2018-19,Seward County,sewardcountycommunitycollege,1590,30.0,26.0,25.0,3.0,0.944,481.0,358.0,277.0,0.774,204.0,403.0
+2019,2018-19,Shawnee,shawneecommunitycollege,1148,3.0,6.0,28.0,0.0,1.0,405.0,405.0,317.0,0.783,211.0,160.0
+2019,2018-19,Shelton State,sheltonstatecommunitycollege,2310,56.0,35.0,21.0,7.0,0.889,335.0,231.0,189.0,0.818,194.0,354.0
+2019,2018-19,Sinclair,sinclaircommunitycollege,2257,60.0,50.0,10.0,15.0,0.8,338.0,210.0,170.0,0.81,238.0,609.0
+2019,2018-19,Snead State,sneadstatecommunitycollege,1870,2.0,28.0,20.0,9.0,0.842,401.0,290.0,232.0,0.8,225.0,326.0
+2019,2018-19,South Florida State,southfloridastatecollege,1368,53.0,20.0,33.0,10.0,0.841,487.0,365.0,271.0,0.742,275.0,386.0
+2019,2018-19,South Georgia State,southgeorgiastatecollege,1920,1.0,28.0,29.0,10.0,0.851,456.0,358.0,275.0,0.768,251.0,409.0
+2019,2018-19,South Mountain,southmountaincommunitycollege,2006,59.0,39.0,20.0,13.0,0.819,350.0,217.0,169.0,0.779,192.0,482.0
+2019,2018-19,South Suburban,southsuburbancollege,1798,54.0,28.0,26.0,7.0,0.885,469.0,344.0,265.0,0.77,234.0,338.0
+2019,2018-19,Southeast,southeastcommunitycollege,1428,48.0,21.0,27.0,11.0,0.814,348.0,291.0,217.0,0.746,160.0,342.0
+2019,2018-19,Southeastern,southeasterncommunitycollege,2340,60.0,41.0,19.0,16.0,0.789,449.0,281.0,211.0,0.751,181.0,526.0
+2019,2018-19,Southeastern Illinois,southeasternillinoiscollege,1150,48.0,18.0,30.0,6.0,0.889,452.0,399.0,294.0,0.737,250.0,352.0
+2019,2018-19,Southeastern-Whiteville,southeasterncommunitycollegewhitevill,2088,18.0,20.0,18.0,4.0,0.905,419.0,339.0,267.0,0.788,206.0,354.0
+2019,2018-19,Southern Idaho,collegeofsouthernidaho,2080,56.0,32.0,22.0,3.0,0.947,390.0,231.0,186.0,0.805,189.0,339.0
+2019,2018-19,Southern Maryland,collegeofsouthernmaryland,850,43.0,7.0,35.0,1.0,0.977,427.0,385.0,305.0,0.792,242.0,209.0
+2019,2018-19,Southern Nevada,collegeofsouthernnevada,1891,58.0,46.0,12.0,13.0,0.817,375.0,185.0,154.0,0.832,171.0,474.0
+2019,2018-19,Southern Union State,southernunionstatecommunitycollege,1944,20.0,15.0,24.0,5.0,0.886,342.0,233.0,166.0,0.712,128.0,191.0
+2019,2018-19,Southwest Mississippi,southwestmississippicommunitycollege,1320,4.0,14.0,27.0,4.0,0.911,364.0,295.0,230.0,0.78,160.0,267.0
+2019,2018-19,Southwest Tennessee,southwesttennesseecommunitycollege,1326,50.0,17.0,33.0,7.0,0.877,381.0,315.0,251.0,0.797,260.0,342.0
+2019,2018-19,Southwestern,southwesterncommunitycollege,1457,45.0,6.0,38.0,0.0,1.0,467.0,430.0,336.0,0.781,181.0,201.0
+2019,2018-19,Southwestern Illinois,southwesternillinoiscollege,912,9.0,11.0,19.0,1.0,0.968,305.0,250.0,187.0,0.748,186.0,205.0
+2019,2018-19,Spartanburg Methodist,spartanburgmethodist,2205,51.0,32.0,19.0,4.0,0.927,363.0,242.0,167.0,0.69,158.0,384.0
+2019,2018-19,Spoon River,spoonrivercollege,1596,2.0,9.0,11.0,0.0,1.0,434.0,354.0,250.0,0.706,236.0,252.0
+2019,2018-19,St. Charles,stcharlescommunitycollege,1230,41.0,20.0,18.0,10.0,0.792,360.0,347.0,251.0,0.723,225.0,272.0
+2019,2018-19,St. Clair County,stclaircountycommunitycollege,990,4.0,12.0,16.0,0.0,1.0,285.0,243.0,197.0,0.811,159.0,121.0
+2019,2018-19,St. Cloud Tech,stcloudtechnicalcommunitycollege,1785,39.0,29.0,4.0,2.0,0.943,236.0,145.0,92.0,0.634,132.0,318.0
+2019,2018-19,St. Johns River State,stjohnsriverstatecollege,1560,56.0,37.0,19.0,15.0,0.789,405.0,215.0,157.0,0.73,158.0,472.0
+2019,2018-19,St. Louis,stlouiscommunitycollege,2376,27.0,18.0,25.0,7.0,0.86,328.0,252.0,199.0,0.79,190.0,355.0
+2019,2018-19,St. Petersburg,stpetersburgcollege,1568,47.0,17.0,28.0,3.0,0.938,419.0,308.0,236.0,0.766,182.0,340.0
+2019,2018-19,State College of Florida,statecollegeoffloridamanateesaraso,1701,58.0,38.0,20.0,9.0,0.866,462.0,242.0,173.0,0.715,162.0,529.0
+2019,2018-19,State Fair,statefaircommunitycollege,3577,51.0,33.0,20.0,9.0,0.855,402.0,259.0,192.0,0.741,178.0,359.0
+2019,2018-19,Suffolk County,suffolkcc,1364,30.0,21.0,2.0,1.0,0.958,121.0,100.0,60.0,0.6,104.0,267.0
+2019,2018-19,Sullivan County,sullivancountycommunitycollege,1664,44.0,21.0,22.0,2.0,0.956,389.0,333.0,233.0,0.7,216.0,294.0
+2019,2018-19,Surry,surrycommunitycollege,1566,0.0,23.0,17.0,5.0,0.889,314.0,230.0,171.0,0.743,192.0,277.0
+2019,2018-19,Sussex County,sussexcountycommunitycollege,1200,38.0,16.0,20.0,4.0,0.9,347.0,250.0,176.0,0.704,157.0,238.0
+2019,2018-19,Tallahassee,tallahasseecommunitycollege,1595,50.0,28.0,23.0,8.0,0.864,384.0,249.0,201.0,0.807,158.0,378.0
+2019,2018-19,Temple,templecollege,1728,52.0,20.0,30.0,6.0,0.893,462.0,324.0,250.0,0.772,218.0,345.0
+2019,2018-19,Three Rivers,threeriverscommunitycollegemo,1711,53.0,22.0,29.0,6.0,0.895,426.0,365.0,252.0,0.69,223.0,397.0
+2019,2018-19,Tompkins Cortland,tompkinscortlandcommunitycollege,1104,35.0,19.0,16.0,5.0,0.875,288.0,246.0,184.0,0.748,148.0,185.0
+2019,2018-19,Trinidad State,trinidadstatejuniorcollege,2310,58.0,30.0,28.0,5.0,0.921,447.0,328.0,241.0,0.735,220.0,439.0
+2019,2018-19,Triton,tritoncollege,1768,49.0,31.0,18.0,6.0,0.891,400.0,280.0,203.0,0.725,212.0,255.0
+2019,2018-19,Tyler,tylerjuniorcollege,3024,60.0,41.0,19.0,7.0,0.896,352.0,261.0,215.0,0.824,259.0,556.0
+2019,2018-19,UConn Avery Point,universityofconnecticutataverypoint,1128,29.0,15.0,16.0,0.0,1.0,242.0,180.0,149.0,0.828,122.0,231.0
+2019,2018-19,USC Lancaster,usclancaster,1890,46.0,30.0,16.0,8.0,0.852,353.0,226.0,178.0,0.788,155.0,254.0
+2019,2018-19,USC Salkehatchie,uscsalkehatchie,1995,26.0,14.0,39.0,1.0,0.981,462.0,392.0,289.0,0.737,213.0,264.0
+2019,2018-19,USC Sumter,uscsumter,1980,51.0,29.0,24.0,10.0,0.841,396.0,287.0,220.0,0.767,220.0,328.0
+2019,2018-19,USC Union,uscunion,1075,27.0,9.0,16.0,6.0,0.806,220.0,189.0,150.0,0.794,147.0,149.0
+2019,2018-19,Ulster County,ulstercountycommunitycollege,984,9.0,20.0,19.0,0.0,1.0,307.0,265.0,212.0,0.8,169.0,268.0
+2019,2018-19,Union,unioncountycollege,1219,46.0,15.0,26.0,3.0,0.932,503.0,445.0,348.0,0.782,247.0,190.0
+2019,2018-19,Utah State Eastern,utahstateeastern,1394,35.0,4.0,27.0,0.0,1.0,299.0,263.0,195.0,0.741,161.0,154.0
+2019,2018-19,Valley Forge Military,valleyforgemilitarycollege,195,0.0,0.0,1.0,0.0,1.0,0.0,0.0,0.0,,0.0,0.0
+2019,2018-19,Vernon,vernoncollege,1512,56.0,20.0,36.0,7.0,0.889,496.0,397.0,277.0,0.698,229.0,426.0
+2019,2018-19,Vincennes,vincennesuniversity,2010,54.0,25.0,30.0,10.0,0.846,436.0,314.0,232.0,0.739,213.0,346.0
+2019,2018-19,Virginia Peninsula Community College,thomasnelsoncommunitycollege,522,18.0,1.0,7.0,0.0,1.0,128.0,95.0,76.0,0.8,64.0,77.0
+2019,2018-19,Volunteer State,volunteerstatecommunitycollege,1666,49.0,20.0,29.0,7.0,0.875,377.0,267.0,203.0,0.76,192.0,340.0
+2019,2018-19,Wabash Valley,wabashvalleycollege,2065,59.0,55.0,4.0,12.0,0.831,330.0,194.0,112.0,0.577,197.0,671.0
+2019,2018-19,Wake Tech,waketechnicalcommunitycollege,2080,15.0,21.0,13.0,5.0,0.872,290.0,195.0,155.0,0.795,188.0,325.0
+2019,2018-19,Wallace State,wallacestatecommunitycollegehancevil,1683,0.0,26.0,12.0,9.0,0.809,262.0,187.0,140.0,0.749,143.0,260.0
+2019,2018-19,Wallace-Dothan,wallacecommunitycollegedothan,1539,53.0,44.0,8.0,3.0,0.945,318.0,162.0,122.0,0.753,115.0,415.0
+2019,2018-19,Wallace-Selma,wallacecommunitycollegeselma,2006,52.0,19.0,32.0,5.0,0.911,377.0,320.0,251.0,0.784,229.0,256.0
+2019,2018-19,Walters State,waltersstatecommunitycollege,1980,66.0,54.0,12.0,12.0,0.846,339.0,189.0,151.0,0.799,176.0,622.0
+2019,2018-19,Waubonsee,waubonseecommunitycollege,2832,53.0,28.0,25.0,5.0,0.914,422.0,378.0,263.0,0.696,227.0,417.0
+2019,2018-19,Weatherford,weatherfordcollege,1925,54.0,29.0,23.0,6.0,0.897,411.0,278.0,222.0,0.799,199.0,456.0
+2019,2018-19,West Georgia Tech,westgeorgiatechnicalcollege,1700,47.0,20.0,27.0,10.0,0.825,410.0,312.0,241.0,0.772,221.0,228.0
+2019,2018-19,Westchester,westchestercommunitycollege,1188,40.0,24.0,16.0,3.0,0.93,340.0,277.0,180.0,0.65,170.0,276.0
+2019,2018-19,Western Nebraska,westernnebraskacommunitycollege,3318,55.0,25.0,28.0,13.0,0.803,436.0,315.0,226.0,0.717,211.0,327.0
+2019,2018-19,Western Oklahoma State,westernoklahomastatecollege,1800,5.0,47.0,10.0,8.0,0.877,382.0,289.0,220.0,0.761,265.0,495.0
+2019,2018-19,Western Tech,westerntechnicalcollege,703,7.0,3.0,11.0,1.0,0.933,172.0,154.0,120.0,0.779,98.0,102.0
+2019,2018-19,Western Texas,westerntexascollege,1815,41.0,17.0,30.0,3.0,0.94,487.0,385.0,305.0,0.792,147.0,246.0
+2019,2018-19,Westmoreland,westmorelandcountycommunitycollege,533,26.0,6.0,19.0,1.0,0.962,258.0,198.0,152.0,0.768,89.0,129.0
+2019,2018-19,Wharton County,whartoncountyjuniorcollege,1593,20.0,27.0,23.0,9.0,0.847,435.0,312.0,267.0,0.856,259.0,394.0
+2019,2018-19,Williston State,willistonstatecollege,1161,30.0,3.0,12.0,0.0,1.0,162.0,133.0,90.0,0.677,84.0,110.0
+2019,2018-19,Yavapai,yavapaicollege,1288,56.0,37.0,18.0,11.0,0.833,375.0,217.0,150.0,0.691,180.0,425.0

@@ -1,0 +1,356 @@
+season,njcaa_season,team,team_id,G,TC,PO,A,E,FPCT,DP,SBA,RCS,RCS_PCT,PB,CI
+2021,2020-21,ASA Miami,asacollegemiami,1176,5.0,0.0,5.0,0.0,1.0,49.0,64.0,54.0,0.844,50.0,32.0
+2021,2020-21,Abraham Baldwin,abrahambaldwinagriculturalcollege,1680,48.0,19.0,28.0,4.0,0.922,420.0,306.0,218.0,0.712,187.0,276.0
+2021,2020-21,Allegany Maryland,alleganycollegeofmaryland,1428,19.0,23.0,20.0,8.0,0.843,412.0,379.0,331.0,0.873,250.0,267.0
+2021,2020-21,Allen County,allencountycommunitycollege,2091,51.0,32.0,18.0,11.0,0.82,403.0,311.0,254.0,0.817,189.0,428.0
+2021,2020-21,Alvin,alvincommunitycollege,2223,52.0,28.0,22.0,10.0,0.833,358.0,223.0,181.0,0.812,192.0,443.0
+2021,2020-21,Andrew,andrewcollege,2240,61.0,35.0,25.0,11.0,0.845,566.0,417.0,297.0,0.712,208.0,402.0
+2021,2020-21,Anne Arundel,annearundelcommunitycollege,851,33.0,9.0,23.0,3.0,0.914,293.0,258.0,183.0,0.709,132.0,186.0
+2021,2020-21,Anoka-Ramsey,anokaramseycommunitycollege,1000,33.0,13.0,21.0,3.0,0.919,290.0,228.0,168.0,0.737,128.0,201.0
+2021,2020-21,Arizona Western,arizonawesterncollege,1508,48.0,33.0,15.0,8.0,0.857,393.0,241.0,199.0,0.826,114.0,374.0
+2021,2020-21,Atlantic Cape,atlanticcapecommunitycollege,700,26.0,11.0,10.0,3.0,0.875,222.0,172.0,111.0,0.645,106.0,178.0
+2021,2020-21,Barton,bartoncommunitycollege,2320,52.0,34.0,18.0,10.0,0.839,387.0,262.0,195.0,0.744,152.0,449.0
+2021,2020-21,Baton Rouge,batonrougecommunitycollege,2065,53.0,27.0,24.0,2.0,0.962,442.0,316.0,261.0,0.826,195.0,359.0
+2021,2020-21,Bay College,baycollege,1274,37.0,3.0,30.0,2.0,0.943,365.0,399.0,285.0,0.714,190.0,213.0
+2021,2020-21,Bergen,bergencommunitycollege,961,17.0,6.0,10.0,1.0,0.941,123.0,100.0,78.0,0.78,91.0,158.0
+2021,2020-21,Bishop State,bishopstatecommunitycollege,1488,43.0,20.0,23.0,3.0,0.935,299.0,212.0,139.0,0.656,132.0,233.0
+2021,2020-21,Bismarck State,bismarckstatecollege,1200,1.0,27.0,10.0,8.0,0.822,248.0,188.0,163.0,0.867,111.0,272.0
+2021,2020-21,Black Hawk-Moline,blackhawkcollegemoline,2205,57.0,44.0,13.0,12.0,0.826,363.0,263.0,214.0,0.814,205.0,429.0
+2021,2020-21,Blinn,blinncollege,2120,44.0,22.0,22.0,9.0,0.83,329.0,226.0,178.0,0.788,212.0,423.0
+2021,2020-21,Bossier Parish,bossierparishcommunitycollege,2072,45.0,23.0,22.0,8.0,0.849,350.0,315.0,247.0,0.784,225.0,378.0
+2021,2020-21,Brookdale,brookdalecommunitycollege,1073,24.0,15.0,8.0,4.0,0.852,202.0,153.0,118.0,0.771,88.0,146.0
+2021,2020-21,Brunswick,brunswickcommunitycollege,1856,45.0,35.0,12.0,7.0,0.87,329.0,241.0,192.0,0.797,200.0,352.0
+2021,2020-21,Bryant & Stratton (Ohio),bryantstrattonohio,1517,32.0,22.0,9.0,5.0,0.861,215.0,157.0,114.0,0.726,147.0,289.0
+2021,2020-21,Bryant & Stratton (VA),bryantstrattoncollegeva,4288,43.0,19.0,23.0,6.0,0.875,372.0,318.0,269.0,0.846,264.0,332.0
+2021,2020-21,Bryant & Stratton College (WI),bryantstrattoncollegewi,2072,46.0,18.0,21.0,3.0,0.929,364.0,293.0,224.0,0.765,204.0,306.0
+2021,2020-21,Butler,butlercommunitycollegeks,1980,52.0,37.0,16.0,8.0,0.869,471.0,345.0,291.0,0.843,190.0,418.0
+2021,2020-21,CCBC Catonsville,ccbccatonsville,1323,36.0,20.0,17.0,7.0,0.841,356.0,294.0,252.0,0.857,167.0,191.0
+2021,2020-21,CCBC Dundalk,ccbcdundalk,1276,30.0,6.0,24.0,0.0,1.0,249.0,242.0,204.0,0.843,175.0,180.0
+2021,2020-21,CCBC Essex,ccbcessex,1221,37.0,18.0,18.0,3.0,0.923,277.0,227.0,174.0,0.767,146.0,258.0
+2021,2020-21,Caldwell Tech,caldwellcommunitycollegetechnicali,1938,24.0,23.0,9.0,0.0,1.0,238.0,196.0,154.0,0.786,150.0,314.0
+2021,2020-21,Calhoun,calhouncommunitycollege,1845,36.0,11.0,25.0,4.0,0.9,273.0,236.0,169.0,0.716,183.0,297.0
+2021,2020-21,Camden County,camdencountycollege,770,17.0,4.0,9.0,0.0,1.0,217.0,217.0,154.0,0.71,98.0,158.0
+2021,2020-21,Camp,campcommunitycollege,2090,40.0,19.0,19.0,5.0,0.884,395.0,305.0,249.0,0.816,150.0,290.0
+2021,2020-21,Carl Albert State,carlalbertstatecollege,2415,9.0,27.0,28.0,6.0,0.902,547.0,398.0,353.0,0.887,225.0,420.0
+2021,2020-21,Carl Sandburg,carlsandburgcollege,1239,13.0,25.0,32.0,2.0,0.966,468.0,400.0,309.0,0.772,238.0,390.0
+2021,2020-21,Catawba Valley,catawbavalleycommunitycollege,2538,50.0,41.0,13.0,6.0,0.9,330.0,270.0,192.0,0.711,220.0,530.0
+2021,2020-21,Cayuga,cayugacommunitycollege,1026,23.0,5.0,9.0,0.0,1.0,180.0,143.0,131.0,0.916,85.0,151.0
+2021,2020-21,Cecil,cecilcollege,1200,33.0,7.0,31.0,0.0,1.0,412.0,413.0,336.0,0.814,179.0,212.0
+2021,2020-21,Central Alabama,centralalabamacommunitycollege,2352,54.0,19.0,17.0,6.0,0.857,437.0,329.0,250.0,0.76,204.0,306.0
+2021,2020-21,Central Arizona,centralarizonacollege,1920,60.0,51.0,9.0,11.0,0.845,388.0,243.0,195.0,0.802,211.0,606.0
+2021,2020-21,Central Florida,collegeofcentralflorida,1568,52.0,37.0,15.0,10.0,0.839,398.0,237.0,165.0,0.696,182.0,598.0
+2021,2020-21,Central Lakes,centrallakescollegebrainerd,960,28.0,14.0,14.0,4.0,0.875,224.0,188.0,120.0,0.638,117.0,177.0
+2021,2020-21,Century,centurycollege,2050,37.0,30.0,8.0,9.0,0.809,239.0,135.0,110.0,0.815,110.0,313.0
+2021,2020-21,Chandler-Gilbert,chandlergilbertcommunitycollege,1666,47.0,20.0,25.0,9.0,0.833,407.0,329.0,239.0,0.726,229.0,324.0
+2021,2020-21,Chattahoochee Valley,chattahoocheevalleycommunitycollege,2184,52.0,41.0,10.0,6.0,0.895,314.0,187.0,112.0,0.599,134.0,425.0
+2021,2020-21,Chattanooga State,chattanoogastatecommunitycollege,1333,24.0,28.0,13.0,2.0,0.953,307.0,179.0,141.0,0.788,114.0,332.0
+2021,2020-21,Chesapeake,chesapeakecollege,1363,38.0,29.0,8.0,7.0,0.841,276.0,179.0,138.0,0.771,130.0,259.0
+2021,2020-21,Chipola,chipolacollege,1560,18.0,30.0,15.0,11.0,0.804,289.0,207.0,153.0,0.739,236.0,526.0
+2021,2020-21,Cisco,ciscocollege,2760,61.0,40.0,14.0,9.0,0.857,460.0,349.0,280.0,0.802,222.0,467.0
+2021,2020-21,Clarendon,clarendoncollege,1952,0.0,30.0,22.0,8.0,0.867,436.0,358.0,285.0,0.796,212.0,411.0
+2021,2020-21,Clark State,clarkstatecollege,1980,4.0,18.0,15.0,2.0,0.943,255.0,194.0,152.0,0.784,115.0,250.0
+2021,2020-21,Cleveland,clevelandcommunitycollege,2320,30.0,12.0,33.0,2.0,0.957,377.0,333.0,288.0,0.865,223.0,302.0
+2021,2020-21,Cleveland State,clevelandstatecommunitycollege,1488,43.0,21.0,23.0,3.0,0.936,354.0,308.0,249.0,0.808,181.0,333.0
+2021,2020-21,Cloud County,cloudcountycommunitycollege,2014,52.0,28.0,21.0,10.0,0.831,449.0,362.0,302.0,0.834,223.0,464.0
+2021,2020-21,Coastal Alabama - Bay Minette,coastalalabamasouth,2464,51.0,22.0,27.0,6.0,0.891,389.0,288.0,231.0,0.802,184.0,301.0
+2021,2020-21,Coastal Alabama - Brewton,coastalalabamaeast,1887,47.0,23.0,24.0,4.0,0.922,315.0,265.0,192.0,0.725,213.0,236.0
+2021,2020-21,Coastal Alabama - Monroeville,coastalalabamanorth,1596,51.0,25.0,25.0,2.0,0.962,409.0,283.0,224.0,0.792,191.0,272.0
+2021,2020-21,Coastal Bend,coastalbendcollege,2232,11.0,28.0,31.0,7.0,0.894,447.0,326.0,274.0,0.84,283.0,376.0
+2021,2020-21,Cochise,cochisecollege,1248,50.0,27.0,23.0,9.0,0.847,397.0,268.0,217.0,0.81,187.0,458.0
+2021,2020-21,Coffeyville,coffeyvillecommunitycollege,2624,46.0,25.0,16.0,6.0,0.872,393.0,349.0,306.0,0.877,243.0,317.0
+2021,2020-21,Colby,colbycommunitycollege,1870,55.0,30.0,25.0,4.0,0.932,464.0,450.0,369.0,0.82,307.0,476.0
+2021,2020-21,Colorado Northwestern,coloradonorthwesterncommunitycollege,1519,42.0,12.0,36.0,3.0,0.941,494.0,404.0,311.0,0.77,218.0,264.0
+2021,2020-21,Columbia State,columbiastatecommunitycollege,1785,46.0,25.0,20.0,5.0,0.9,298.0,309.0,250.0,0.809,224.0,311.0
+2021,2020-21,Connors State,connorsstatecollege,2310,54.0,37.0,18.0,13.0,0.809,402.0,277.0,217.0,0.783,196.0,414.0
+2021,2020-21,Copiah-Lincoln,copiahlincolncommunitycollege,1518,43.0,13.0,17.0,3.0,0.909,415.0,332.0,273.0,0.822,141.0,297.0
+2021,2020-21,Corning,corningcommunitycollege,620,18.0,6.0,18.0,1.0,0.96,267.0,234.0,184.0,0.786,108.0,132.0
+2021,2020-21,Cowley,cowleycountycommunitycollege,2379,56.0,45.0,9.0,8.0,0.871,400.0,305.0,246.0,0.807,242.0,497.0
+2021,2020-21,Crowder,crowdercollege,2457,63.0,54.0,8.0,7.0,0.899,468.0,295.0,248.0,0.841,197.0,537.0
+2021,2020-21,Dakota,dakotacollegeatbottineau,759,0.0,0.0,0.0,0.0,,0.0,0.0,0.0,,0.0,0.0
+2021,2020-21,Dakota County Tech,dakotacountytechnicalcollege,1271,34.0,18.0,16.0,6.0,0.85,289.0,213.0,180.0,0.845,119.0,159.0
+2021,2020-21,Dallas College - Brookhaven,brookhavencollege,1209,39.0,32.0,7.0,5.0,0.886,350.0,263.0,211.0,0.802,186.0,274.0
+2021,2020-21,Dallas College - Cedar Valley,dallascollegecedarvalley,740,37.0,12.0,25.0,1.0,0.974,441.0,392.0,302.0,0.77,203.0,251.0
+2021,2020-21,Dallas College - Eastfield,dallascollegeeastfield,936,22.0,24.0,15.0,9.0,0.812,383.0,353.0,295.0,0.836,277.0,291.0
+2021,2020-21,Dallas College - Mountain View,mountainviewcollege,1085,0.0,0.0,1.0,0.0,1.0,327.0,300.0,212.0,0.707,188.0,197.0
+2021,2020-21,Dallas College - North Lake,dallascollegenorthlake,1178,0.0,18.0,18.0,3.0,0.923,372.0,335.0,251.0,0.749,207.0,271.0
+2021,2020-21,Dallas College - Richland,richlandcollege,1184,36.0,14.0,22.0,5.0,0.878,319.0,276.0,229.0,0.83,169.0,285.0
+2021,2020-21,Danville Area,danvilleareacommunitycollege,1551,42.0,26.0,15.0,9.0,0.82,392.0,297.0,243.0,0.818,175.0,346.0
+2021,2020-21,Dawson,dawsoncommunitycollege,3072,50.0,22.0,13.0,3.0,0.921,381.0,328.0,258.0,0.787,213.0,347.0
+2021,2020-21,Daytona State,daytonastatecollege,1170,34.0,16.0,18.0,6.0,0.85,313.0,228.0,171.0,0.75,133.0,288.0
+2021,2020-21,Delaware County,delawarecountycommunitycollege,288,8.0,2.0,5.0,0.0,1.0,79.0,117.0,80.0,0.684,51.0,71.0
+2021,2020-21,Delaware Tech,delawaretechnicalcommunitycollege,1196,38.0,16.0,19.0,4.0,0.897,329.0,304.0,232.0,0.763,199.0,216.0
+2021,2020-21,Delgado,delgadocommunitycollege,1968,0.0,26.0,6.0,1.0,0.97,281.0,168.0,136.0,0.81,135.0,294.0
+2021,2020-21,Delta,deltacollege,1333,12.0,9.0,7.0,2.0,0.889,214.0,175.0,132.0,0.754,112.0,158.0
+2021,2020-21,Des Moines Area,desmoinesareacommunitycollege,2379,24.0,23.0,38.0,7.0,0.897,473.0,419.0,326.0,0.778,289.0,434.0
+2021,2020-21,Dodge City,dodgecitycommunitycollege,1925,18.0,20.0,30.0,4.0,0.926,484.0,473.0,374.0,0.791,286.0,400.0
+2021,2020-21,DuPage,collegeofdupage,1961,51.0,27.0,24.0,3.0,0.944,385.0,324.0,230.0,0.71,205.0,331.0
+2021,2020-21,Dyersburg State,dyersburgstatecommunitycollege,1880,45.0,39.0,5.0,4.0,0.917,239.0,178.0,138.0,0.775,171.0,444.0
+2021,2020-21,East Central (MS),eastcentralcommunitycollege,1470,21.0,30.0,16.0,4.0,0.92,325.0,241.0,175.0,0.726,186.0,342.0
+2021,2020-21,East Georgia State,eastgeorgiacollege,2090,53.0,31.0,22.0,7.0,0.883,461.0,346.0,304.0,0.879,242.0,440.0
+2021,2020-21,East Mississippi,eastmississippicommunitycollege,1404,36.0,18.0,18.0,3.0,0.923,280.0,219.0,172.0,0.785,117.0,218.0
+2021,2020-21,Eastern Arizona,easternarizonacollege,1092,2.0,3.0,26.0,2.0,0.935,256.0,271.0,207.0,0.764,167.0,144.0
+2021,2020-21,Eastern Florida State,easternfloridastatecollege,1872,44.0,18.0,26.0,7.0,0.863,396.0,288.0,203.0,0.705,183.0,434.0
+2021,2020-21,Eastern Oklahoma State,easternoklahomastatecollege,2772,50.0,47.0,7.0,17.0,0.761,333.0,230.0,180.0,0.783,202.0,595.0
+2021,2020-21,Elgin,elgincommunitycollege,1458,48.0,20.0,27.0,6.0,0.887,453.0,375.0,278.0,0.741,219.0,309.0
+2021,2020-21,Ellsworth,ellsworthcommunitycollege,2262,58.0,20.0,37.0,4.0,0.934,558.0,443.0,348.0,0.786,265.0,437.0
+2021,2020-21,Enterprise State,enterprisestatecommunitycollege,1364,0.0,8.0,8.0,1.0,0.941,151.0,124.0,97.0,0.782,81.0,92.0
+2021,2020-21,Erie,eriecommunitycollege,1645,39.0,21.0,18.0,7.0,0.848,311.0,246.0,202.0,0.821,125.0,248.0
+2021,2020-21,Fayetteville Tech,fayettevilletechnicalcommunitycollege,1470,27.0,6.0,18.0,0.0,1.0,233.0,236.0,157.0,0.665,185.0,170.0
+2021,2020-21,Finger Lakes,fingerlakescommunitycollege,1768,38.0,22.0,16.0,8.0,0.826,320.0,227.0,164.0,0.722,132.0,241.0
+2021,2020-21,Florence-Darlington Tech,florencedarlingtontechnicalcollege,2736,54.0,46.0,8.0,12.0,0.818,314.0,219.0,156.0,0.712,182.0,495.0
+2021,2020-21,Florida SouthWestern State,floridasouthwesternstatecollege,1920,60.0,44.0,16.0,25.0,0.706,435.0,277.0,216.0,0.78,291.0,623.0
+2021,2020-21,Florida State Jacksonville,floridastatecollegeatjacksonville,1204,31.0,8.0,24.0,2.0,0.941,280.0,252.0,204.0,0.81,142.0,166.0
+2021,2020-21,Fort Scott,fortscottcommunitycollege,2128,54.0,18.0,8.0,12.0,0.684,422.0,381.0,329.0,0.864,300.0,454.0
+2021,2020-21,Frank Phillips,frankphillipscollege,1890,13.0,26.0,26.0,13.0,0.8,555.0,529.0,431.0,0.815,279.0,350.0
+2021,2020-21,Frederick,frederickcommunitycollege,930,31.0,20.0,11.0,6.0,0.838,230.0,153.0,119.0,0.778,117.0,233.0
+2021,2020-21,Frontier,frontiercommunitycollege,2537,1.0,36.0,23.0,9.0,0.868,450.0,391.0,270.0,0.691,255.0,468.0
+2021,2020-21,Galveston,galvestoncollege,2976,41.0,4.0,21.0,1.0,0.962,332.0,321.0,231.0,0.72,275.0,373.0
+2021,2020-21,Garden City,gardencitycommunitycollege,1887,50.0,21.0,29.0,3.0,0.943,515.0,420.0,355.0,0.845,221.0,430.0
+2021,2020-21,Garrett,garrettcollege,1798,51.0,29.0,23.0,6.0,0.897,385.0,377.0,299.0,0.793,288.0,384.0
+2021,2020-21,GateWay (AZ),gatewaycommunitycollegeaz,2112,42.0,9.0,32.0,6.0,0.872,388.0,327.0,266.0,0.813,197.0,229.0
+2021,2020-21,Genesee,geneseecommunitycollege,972,11.0,10.0,14.0,2.0,0.923,173.0,154.0,107.0,0.695,105.0,169.0
+2021,2020-21,Georgia Highlands,georgiahighlandscollege,2832,57.0,42.0,15.0,11.0,0.838,450.0,248.0,193.0,0.778,153.0,417.0
+2021,2020-21,Glen Oaks,glenoakscommunitycollege,1798,8.0,6.0,19.0,0.0,1.0,280.0,287.0,227.0,0.791,138.0,132.0
+2021,2020-21,Glendale,glendalecommunitycollege,2236,51.0,24.0,26.0,11.0,0.82,403.0,274.0,222.0,0.81,202.0,270.0
+2021,2020-21,Gordon State,gordonstatecollege,2200,49.0,23.0,12.0,2.0,0.946,389.0,293.0,225.0,0.768,183.0,352.0
+2021,2020-21,Grand Rapids,grandrapidscommunitycollege,1269,35.0,24.0,11.0,7.0,0.833,225.0,146.0,118.0,0.808,96.0,229.0
+2021,2020-21,Grayson,graysoncollege,1887,4.0,27.0,17.0,7.0,0.863,333.0,258.0,198.0,0.767,238.0,395.0
+2021,2020-21,Guilford Tech,guilfordtechnicalcommunitycollege,1610,32.0,16.0,16.0,7.0,0.821,307.0,264.0,208.0,0.788,152.0,243.0
+2021,2020-21,Gulf Coast State,gulfcoaststatecollege,1144,48.0,24.0,24.0,7.0,0.873,412.0,266.0,204.0,0.767,175.0,332.0
+2021,2020-21,Hagerstown,hagerstowncommunitycollege,1508,50.0,38.0,12.0,7.0,0.877,313.0,238.0,174.0,0.731,200.0,420.0
+2021,2020-21,Harford,harfordcommunitycollege,2128,38.0,26.0,11.0,10.0,0.787,212.0,188.0,149.0,0.793,179.0,346.0
+2021,2020-21,Harper,harpercollege,1148,36.0,1.0,21.0,1.0,0.957,464.0,507.0,394.0,0.777,170.0,192.0
+2021,2020-21,Heartland,heartlandcommunitycollege,2035,54.0,32.0,20.0,10.0,0.839,384.0,313.0,245.0,0.783,200.0,435.0
+2021,2020-21,Henry Ford,henryfordcollege,1550,8.0,6.0,4.0,0.0,1.0,234.0,214.0,161.0,0.752,113.0,188.0
+2021,2020-21,Herkimer,herkimercollege,1363,36.0,32.0,4.0,6.0,0.857,229.0,140.0,103.0,0.736,103.0,285.0
+2021,2020-21,Hesston,hesstoncollege,2340,48.0,27.0,18.0,9.0,0.833,359.0,332.0,233.0,0.702,232.0,329.0
+2021,2020-21,Highland (IL),highlandcommunitycollegeillinois,1484,47.0,1.0,4.0,0.0,1.0,318.0,294.0,214.0,0.728,228.0,304.0
+2021,2020-21,Highland (KS),highlandcommunitycollegekansas,1925,12.0,9.0,24.0,2.0,0.943,382.0,402.0,333.0,0.828,239.0,295.0
+2021,2020-21,Hill,hillcollege,1872,1.0,29.0,20.0,3.0,0.942,394.0,294.0,275.0,0.935,167.0,322.0
+2021,2020-21,Hillsborough,hillsboroughcommunitycollege,1508,44.0,19.0,24.0,8.0,0.843,389.0,276.0,194.0,0.703,167.0,374.0
+2021,2020-21,Hinds,hindscommunitycollege,1645,43.0,25.0,16.0,7.0,0.854,306.0,222.0,150.0,0.676,164.0,362.0
+2021,2020-21,Holmes,holmescommunitycollege,1400,38.0,5.0,33.0,2.0,0.95,361.0,359.0,257.0,0.716,207.0,210.0
+2021,2020-21,Howard (TX),howardcollege,2508,3.0,32.0,7.0,0.0,1.0,380.0,355.0,281.0,0.792,243.0,448.0
+2021,2020-21,Hutchinson,hutchinsoncommunitycollege,2436,54.0,37.0,17.0,10.0,0.844,457.0,372.0,302.0,0.812,233.0,398.0
+2021,2020-21,Illinois Central,illinoiscentralcollege,2106,54.0,24.0,30.0,10.0,0.844,471.0,425.0,356.0,0.838,289.0,449.0
+2021,2020-21,Illinois Valley,illinoisvalleycommunitycollege,780,3.0,2.0,0.0,0.0,1.0,77.0,65.0,51.0,0.785,34.0,63.0
+2021,2020-21,Indian Hills,indianhillscommunitycollege,2244,60.0,44.0,16.0,12.0,0.833,437.0,272.0,231.0,0.849,158.0,502.0
+2021,2020-21,Indian River State,indianriverstatecollege,1196,6.0,20.0,13.0,3.0,0.917,342.0,247.0,200.0,0.81,188.0,326.0
+2021,2020-21,Iowa Central,iowacentralcommunitycollege,3744,57.0,35.0,22.0,5.0,0.919,393.0,321.0,265.0,0.826,265.0,440.0
+2021,2020-21,Iowa Lakes,iowalakescommunitycollege,1888,55.0,6.0,47.0,2.0,0.964,527.0,499.0,394.0,0.79,267.0,317.0
+2021,2020-21,Iowa Western,iowawesterncommunitycollege,2816,60.0,50.0,10.0,8.0,0.882,331.0,170.0,132.0,0.776,177.0,542.0
+2021,2020-21,Itawamba,itawambacommunitycollege,1457,10.0,25.0,15.0,6.0,0.87,340.0,225.0,185.0,0.822,122.0,288.0
+2021,2020-21,Ivy Tech Fort Wayne,ivytechcommunitycollegenortheast,2881,52.0,31.0,25.0,4.0,0.933,441.0,337.0,234.0,0.694,200.0,302.0
+2021,2020-21,Jackson,jacksoncollege,1600,45.0,25.0,12.0,6.0,0.86,256.0,243.0,191.0,0.786,252.0,328.0
+2021,2020-21,Jackson State,jacksonstatecommunitycollege,1080,25.0,5.0,20.0,2.0,0.926,204.0,202.0,180.0,0.891,97.0,136.0
+2021,2020-21,Jamestown,jamestowncommunitycollege,522,20.0,9.0,16.0,2.0,0.926,244.0,228.0,181.0,0.794,131.0,184.0
+2021,2020-21,Jefferson (MO),jeffersoncollege,1152,43.0,21.0,24.0,5.0,0.9,358.0,337.0,288.0,0.855,245.0,327.0
+2021,2020-21,Jefferson (NY),jeffersoncommunitycollege,390,17.0,1.0,21.0,1.0,0.957,240.0,253.0,187.0,0.739,126.0,120.0
+2021,2020-21,John A. Logan,johnalogancollege,2640,60.0,42.0,18.0,13.0,0.822,338.0,277.0,232.0,0.838,260.0,532.0
+2021,2020-21,John Wood,johnwoodcommunitycollege,2013,11.0,27.0,32.0,6.0,0.908,531.0,460.0,392.0,0.852,296.0,405.0
+2021,2020-21,Johnson County,johnsoncountycommunitycollege,2332,53.0,43.0,10.0,15.0,0.779,332.0,260.0,186.0,0.715,203.0,545.0
+2021,2020-21,Joliet,jolietjuniorcollege,1830,59.0,24.0,34.0,4.0,0.935,456.0,382.0,290.0,0.759,286.0,482.0
+2021,2020-21,Jones,jonescollege,1350,45.0,24.0,20.0,8.0,0.846,296.0,222.0,157.0,0.707,146.0,391.0
+2021,2020-21,Kalamazoo Valley,kalamazoovalleycommunitycollege,962,28.0,19.0,9.0,3.0,0.903,215.0,147.0,106.0,0.721,78.0,227.0
+2021,2020-21,Kankakee,kankakeecommunitycollege,1798,57.0,37.0,20.0,4.0,0.934,408.0,309.0,219.0,0.709,245.0,491.0
+2021,2020-21,Kansas City Kansas,kansascitykansascommunitycollege,2040,52.0,31.0,20.0,11.0,0.823,433.0,323.0,282.0,0.873,184.0,358.0
+2021,2020-21,Kaskaskia,kaskaskiacollege,1836,53.0,29.0,23.0,11.0,0.825,465.0,344.0,274.0,0.797,199.0,411.0
+2021,2020-21,Kellogg,kelloggcommunitycollege,2088,15.0,36.0,13.0,10.0,0.831,340.0,235.0,160.0,0.681,136.0,389.0
+2021,2020-21,Kirkwood,kirkwoodcommunitycollege,2479,66.0,44.0,22.0,15.0,0.815,484.0,382.0,315.0,0.825,335.0,496.0
+2021,2020-21,Kishwaukee,kishwaukeecollege,1175,13.0,2.0,25.0,1.0,0.964,251.0,292.0,229.0,0.784,152.0,110.0
+2021,2020-21,LSU Eunice,louisianastateuniversityeunice,1972,58.0,51.0,7.0,8.0,0.879,385.0,244.0,205.0,0.84,234.0,440.0
+2021,2020-21,Labette,labettecommunitycollege,756,39.0,6.0,35.0,1.0,0.976,402.0,358.0,299.0,0.835,209.0,268.0
+2021,2020-21,Lackawanna,lackawannacollege,2800,46.0,29.0,14.0,3.0,0.935,311.0,268.0,225.0,0.84,212.0,442.0
+2021,2020-21,Lake County,collegeoflakecounty,2046,54.0,34.0,18.0,6.0,0.897,372.0,267.0,222.0,0.831,165.0,275.0
+2021,2020-21,Lake Land,lakelandcollege,2400,54.0,26.0,26.0,6.0,0.897,504.0,412.0,300.0,0.728,212.0,466.0
+2021,2020-21,Lake Michigan,lakemichigancollege,1540,43.0,28.0,14.0,0.0,1.0,355.0,269.0,209.0,0.777,165.0,291.0
+2021,2020-21,Lake Region State,lakeregionstatecollegend,1320,16.0,8.0,14.0,0.0,1.0,323.0,325.0,228.0,0.702,143.0,205.0
+2021,2020-21,Lake-Sumter State,lakesumterstatecollege,1421,38.0,18.0,20.0,4.0,0.905,395.0,303.0,248.0,0.818,207.0,304.0
+2021,2020-21,Lakeland,lakelandcommunitycollege,1280,10.0,8.0,12.0,2.0,0.909,195.0,145.0,116.0,0.8,83.0,143.0
+2021,2020-21,Lamar,lamarcommunitycollege,1798,35.0,30.0,27.0,6.0,0.905,457.0,402.0,326.0,0.811,270.0,461.0
+2021,2020-21,Lansing,lansingcommunitycollege,2562,7.0,46.0,3.0,5.0,0.907,264.0,152.0,130.0,0.855,159.0,398.0
+2021,2020-21,Lawson State,lawsonstatecommunitycollege,2419,8.0,17.0,10.0,10.0,0.73,418.0,280.0,234.0,0.836,161.0,256.0
+2021,2020-21,Lenoir,lenoircommunitycollege,1960,34.0,12.0,24.0,4.0,0.9,363.0,349.0,290.0,0.831,183.0,183.0
+2021,2020-21,Lewis & Clark,lewisclarkcommunitycollege,1551,46.0,17.0,26.0,5.0,0.896,394.0,343.0,259.0,0.755,189.0,296.0
+2021,2020-21,Lincoln Land,lincolnlandcommunitycollege,1736,51.0,43.0,12.0,1.0,0.982,419.0,283.0,221.0,0.781,183.0,444.0
+2021,2020-21,Lincoln Trail,lincolntrailcollege,1972,1.0,32.0,21.0,5.0,0.914,384.0,284.0,216.0,0.761,230.0,500.0
+2021,2020-21,Louisburg,louisburgcollege,2806,42.0,29.0,12.0,6.0,0.872,315.0,236.0,169.0,0.716,171.0,340.0
+2021,2020-21,Luna,lunacommunitycollege,1428,36.0,13.0,23.0,6.0,0.857,343.0,349.0,257.0,0.736,186.0,232.0
+2021,2020-21,Lurleen B. Wallace,lurleenbwallacecommunitycollege,1450,49.0,24.0,22.0,7.0,0.868,378.0,326.0,239.0,0.733,175.0,263.0
+2021,2020-21,Macomb,macombcommunitycollege,1104,35.0,12.0,23.0,5.0,0.875,302.0,269.0,221.0,0.822,181.0,191.0
+2021,2020-21,Madison,madisoncollege,1984,59.0,45.0,14.0,14.0,0.808,372.0,212.0,173.0,0.816,187.0,432.0
+2021,2020-21,Marian-Ancilla,ancillacollege,858,35.0,6.0,23.0,0.0,1.0,316.0,292.0,228.0,0.781,151.0,164.0
+2021,2020-21,Marion Military,marionmilitaryinstitute,1716,48.0,21.0,23.0,8.0,0.846,364.0,286.0,236.0,0.825,185.0,219.0
+2021,2020-21,Marshalltown,marshalltowncc,1539,14.0,15.0,39.0,3.0,0.947,580.0,472.0,385.0,0.816,178.0,305.0
+2021,2020-21,McCook,mccookcommunitycollege,2457,55.0,31.0,27.0,7.0,0.892,497.0,419.0,335.0,0.8,255.0,441.0
+2021,2020-21,McHenry County,mchenrycountycollege,2280,4.0,40.0,11.0,10.0,0.836,340.0,257.0,178.0,0.693,143.0,349.0
+2021,2020-21,McLennan,mclennancommunitycollege,2730,63.0,46.0,16.0,10.0,0.861,444.0,290.0,227.0,0.783,227.0,615.0
+2021,2020-21,Mercer County,mercercountycommunitycollege,1739,34.0,20.0,12.0,4.0,0.889,253.0,227.0,168.0,0.74,154.0,237.0
+2021,2020-21,Meridian,meridiancommunitycollege,1645,27.0,30.0,12.0,8.0,0.84,352.0,266.0,199.0,0.748,204.0,313.0
+2021,2020-21,Mesa,mesacommunitycollege,1734,43.0,25.0,21.0,12.0,0.793,448.0,339.0,237.0,0.699,182.0,279.0
+2021,2020-21,Metropolitan,metropolitancommunitycollege,1260,0.0,8.0,18.0,1.0,0.963,415.0,360.0,310.0,0.861,190.0,265.0
+2021,2020-21,Miami Dade,miamidadecollege,1830,12.0,9.0,5.0,3.0,0.824,402.0,265.0,218.0,0.823,222.0,473.0
+2021,2020-21,Mid Michigan,midmichigancollege,1200,13.0,3.0,15.0,1.0,0.947,169.0,153.0,121.0,0.791,107.0,147.0
+2021,2020-21,Middlesex College,middlesexcountycollege,910,30.0,7.0,21.0,0.0,1.0,272.0,253.0,182.0,0.719,163.0,190.0
+2021,2020-21,Midland,midlandcollege,1530,0.0,29.0,16.0,9.0,0.833,423.0,352.0,275.0,0.781,195.0,400.0
+2021,2020-21,Miles,milescommunitycollege,2622,0.0,25.0,8.0,10.0,0.767,395.0,292.0,216.0,0.74,228.0,470.0
+2021,2020-21,Milwaukee Area Tech,milwaukeeareatechnicalcollege,1200,26.0,19.0,17.0,6.0,0.857,223.0,203.0,148.0,0.729,162.0,272.0
+2021,2020-21,Mineral Area,mineralareacollege,2250,43.0,30.0,13.0,7.0,0.86,363.0,301.0,249.0,0.827,180.0,391.0
+2021,2020-21,Minnesota North College - Hibbing,hibbingcommunitycollege,850,10.0,10.0,22.0,3.0,0.914,283.0,259.0,196.0,0.757,165.0,163.0
+2021,2020-21,Minnesota North College - Itasca,itascacommunitycollege,900,37.0,21.0,22.0,3.0,0.935,356.0,302.0,218.0,0.722,174.0,230.0
+2021,2020-21,Minnesota North College - Mesabi Range,mesabirangectc,525,35.0,10.0,25.0,2.0,0.946,325.0,274.0,215.0,0.785,136.0,196.0
+2021,2020-21,Minnesota North College - Rainy River,rainyrivercommunitycollege,874,41.0,15.0,26.0,1.0,0.976,374.0,342.0,247.0,0.722,191.0,201.0
+2021,2020-21,Minnesota North College - Vermilion,vermilioncommunitycollege,1170,30.0,17.0,12.0,3.0,0.906,267.0,225.0,165.0,0.733,131.0,223.0
+2021,2020-21,Minnesota State,minnesotastatecommunityandtechnical,741,36.0,17.0,22.0,5.0,0.886,367.0,307.0,227.0,0.739,178.0,212.0
+2021,2020-21,Minnesota West,minnesotawestcommunitytechnicalcol,121,6.0,0.0,4.0,0.0,1.0,48.0,51.0,43.0,0.843,31.0,27.0
+2021,2020-21,Mississippi Delta,mississippideltacommunitycollege,984,7.0,15.0,19.0,5.0,0.872,350.0,304.0,233.0,0.766,130.0,226.0
+2021,2020-21,Mississippi Gulf Coast,mississippigulfcoastcommunitycollege,1305,30.0,20.0,20.0,7.0,0.851,339.0,260.0,194.0,0.746,143.0,286.0
+2021,2020-21,Mohawk Valley,mohawkvalleycommunitycollege,676,4.0,10.0,14.0,2.0,0.923,183.0,143.0,108.0,0.755,104.0,131.0
+2021,2020-21,Monroe CC,monroecommunitycollege,1012,38.0,26.0,12.0,4.0,0.905,345.0,243.0,196.0,0.807,120.0,229.0
+2021,2020-21,Monroe College,monroecollege,1890,41.0,33.0,7.0,6.0,0.87,237.0,190.0,154.0,0.811,192.0,338.0
+2021,2020-21,Monroe College - Bronx,monroecollegebronx,930,27.0,7.0,20.0,3.0,0.9,244.0,253.0,202.0,0.798,162.0,106.0
+2021,2020-21,Montgomery,montgomerycollegemd,621,15.0,7.0,17.0,0.0,1.0,260.0,242.0,205.0,0.847,144.0,155.0
+2021,2020-21,Montgomery County,montgomerycountycommunitycollegepa,378,2.0,5.0,0.0,0.0,1.0,49.0,29.0,23.0,0.793,19.0,57.0
+2021,2020-21,Moraine Valley,morainevalleycommunitycollege,1092,8.0,17.0,17.0,0.0,1.0,269.0,232.0,168.0,0.724,154.0,235.0
+2021,2020-21,Morris,countycollegeofmorris,1147,20.0,11.0,9.0,3.0,0.87,154.0,115.0,67.0,0.583,64.0,162.0
+2021,2020-21,Morton,mortoncollege,2320,3.0,26.0,30.0,7.0,0.889,419.0,414.0,310.0,0.749,270.0,332.0
+2021,2020-21,Motlow State,motlowstatecommunitycollege,499,39.0,16.0,19.0,3.0,0.921,344.0,260.0,234.0,0.9,201.0,279.0
+2021,2020-21,Mott,mottcommunitycollege,2030,35.0,16.0,20.0,3.0,0.923,264.0,261.0,204.0,0.782,215.0,296.0
+2021,2020-21,Murray State,murraystatecollege,2296,56.0,28.0,27.0,8.0,0.873,505.0,360.0,291.0,0.808,234.0,379.0
+2021,2020-21,Muskegon,muskegoncommunitycollege,1890,9.0,26.0,20.0,7.0,0.868,390.0,312.0,201.0,0.644,146.0,285.0
+2021,2020-21,Nassau,nassaucommunitycollege,540,6.0,12.0,2.0,0.0,1.0,184.0,158.0,119.0,0.753,88.0,178.0
+2021,2020-21,National Park,nationalparkcollege,1920,49.0,18.0,18.0,5.0,0.878,404.0,392.0,318.0,0.811,255.0,371.0
+2021,2020-21,Navarro,navarrocollege,2419,42.0,29.0,13.0,5.0,0.894,291.0,181.0,151.0,0.834,176.0,299.0
+2021,2020-21,Neosho County,neoshocountycommunitycollege,1944,54.0,27.0,27.0,2.0,0.964,495.0,404.0,315.0,0.78,173.0,303.0
+2021,2020-21,New Mexico Military,newmexicomilitaryinstitute,1677,2.0,23.0,19.0,1.0,0.977,357.0,278.0,238.0,0.856,132.0,288.0
+2021,2020-21,Niagara County,niagaracountycommunitycollege,2184,40.0,34.0,11.0,2.0,0.957,246.0,167.0,124.0,0.743,136.0,287.0
+2021,2020-21,North Arkansas,northarkansascollege,1728,36.0,12.0,24.0,2.0,0.947,292.0,288.0,212.0,0.736,183.0,247.0
+2021,2020-21,North Central Missouri,northcentralmissouricollege,1598,47.0,26.0,21.0,7.0,0.87,351.0,327.0,248.0,0.758,246.0,306.0
+2021,2020-21,North Central Texas,northcentraltexascollege,1798,48.0,17.0,30.0,2.0,0.959,435.0,384.0,291.0,0.758,229.0,347.0
+2021,2020-21,North Dakota SCS,northdakotastatecollegeofscience,1032,32.0,5.0,15.0,2.0,0.909,306.0,330.0,287.0,0.87,170.0,142.0
+2021,2020-21,North Iowa Area,northiowaareacommunitycollege,2226,48.0,22.0,27.0,3.0,0.942,384.0,331.0,239.0,0.722,235.0,480.0
+2021,2020-21,Northampton,northamptoncommunitycollege,1170,25.0,16.0,9.0,1.0,0.962,213.0,151.0,114.0,0.755,88.0,183.0
+2021,2020-21,Northeast,northeastcommunitycollege,1891,61.0,37.0,24.0,11.0,0.847,473.0,399.0,304.0,0.762,292.0,471.0
+2021,2020-21,Northeast Mississippi,northeastmississippicommunitycollege,1120,40.0,17.0,23.0,2.0,0.952,361.0,296.0,253.0,0.855,166.0,253.0
+2021,2020-21,Northeast Texas,northeasttexascommunitycollege,2106,44.0,15.0,26.0,2.0,0.953,416.0,371.0,258.0,0.695,199.0,298.0
+2021,2020-21,Northeastern,northeasternjuniorcollege,1782,0.0,18.0,28.0,8.0,0.852,471.0,458.0,354.0,0.773,240.0,405.0
+2021,2020-21,Northeastern Oklahoma A&M,northeasternoklahomaamcollege,1914,48.0,26.0,16.0,2.0,0.955,371.0,325.0,282.0,0.868,262.0,456.0
+2021,2020-21,Northern Essex,northernessexcommunitycollege,980,1.0,22.0,11.0,7.0,0.825,244.0,182.0,122.0,0.67,127.0,310.0
+2021,2020-21,Northern Oklahoma Enid,northernoklahomacollegeenid,2360,52.0,28.0,17.0,6.0,0.882,474.0,421.0,336.0,0.798,270.0,400.0
+2021,2020-21,Northern Oklahoma Tonkawa,northernoklahomacollegetonkawa,2440,9.0,27.0,23.0,3.0,0.943,422.0,379.0,298.0,0.786,316.0,438.0
+2021,2020-21,Northland,northlandcommunitytechnicalcollege,484,10.0,4.0,16.0,1.0,0.952,211.0,190.0,139.0,0.732,81.0,110.0
+2021,2020-21,Northwest Florida State,northwestfloridastatecollege,1624,49.0,32.0,16.0,3.0,0.941,341.0,199.0,166.0,0.834,160.0,435.0
+2021,2020-21,Northwest Mississippi,northwestmississippicommunitycollege,1715,36.0,22.0,14.0,3.0,0.923,273.0,223.0,166.0,0.744,133.0,268.0
+2021,2020-21,Nunez,nunezcommunitycollege,1855,1.0,12.0,33.0,4.0,0.918,393.0,358.0,324.0,0.905,206.0,183.0
+2021,2020-21,Oakton,oaktoncommunitycollege,2067,7.0,32.0,20.0,5.0,0.912,410.0,314.0,231.0,0.736,197.0,488.0
+2021,2020-21,Odessa,odessacollege,1484,0.0,9.0,6.0,0.0,1.0,380.0,298.0,226.0,0.758,214.0,397.0
+2021,2020-21,Olney Central,olneycentralcollege,1824,53.0,32.0,21.0,3.0,0.946,389.0,301.0,218.0,0.724,206.0,342.0
+2021,2020-21,Orange County,orangecountycommunitycollege,546,20.0,4.0,16.0,0.0,1.0,192.0,166.0,125.0,0.753,77.0,83.0
+2021,2020-21,Otero,oterojuniorcollege,1855,49.0,14.0,36.0,2.0,0.962,517.0,493.0,364.0,0.738,248.0,371.0
+2021,2020-21,Owens,owenscommunitycollege,1914,24.0,31.0,9.0,3.0,0.93,337.0,206.0,170.0,0.825,133.0,352.0
+2021,2020-21,Palm Beach State,palmbeachstatecollege,1710,46.0,31.0,15.0,3.0,0.939,344.0,204.0,154.0,0.755,144.0,348.0
+2021,2020-21,Panola,panolacollege,1890,41.0,17.0,24.0,4.0,0.911,335.0,307.0,247.0,0.805,251.0,338.0
+2021,2020-21,Paradise Valley,paradisevalleycommunitycollege,1872,2.0,4.0,22.0,0.0,1.0,453.0,419.0,314.0,0.749,293.0,339.0
+2021,2020-21,Paris,parisjuniorcollege,1938,35.0,28.0,18.0,11.0,0.807,380.0,266.0,212.0,0.797,235.0,399.0
+2021,2020-21,Parkland,parklandcollege,2200,53.0,36.0,17.0,5.0,0.914,325.0,252.0,189.0,0.75,206.0,509.0
+2021,2020-21,Pasco-Hernando State,pascohernandostatecollege,1674,57.0,34.0,23.0,7.0,0.891,426.0,364.0,276.0,0.758,298.0,462.0
+2021,2020-21,Patrick & Henry,patrickhenrycommunitycollege,2701,60.0,43.0,17.0,10.0,0.857,389.0,277.0,224.0,0.809,230.0,555.0
+2021,2020-21,Pearl River,pearlrivercommunitycollege,1715,45.0,36.0,9.0,5.0,0.9,293.0,170.0,146.0,0.859,154.0,365.0
+2021,2020-21,Pensacola State,pensacolastatecollege,1560,47.0,27.0,20.0,8.0,0.855,318.0,195.0,152.0,0.779,131.0,389.0
+2021,2020-21,Phoenix,phoenixcollege,1938,3.0,8.0,8.0,3.0,0.842,433.0,316.0,242.0,0.766,171.0,367.0
+2021,2020-21,Pima,pimacommunitycollege,2000,50.0,36.0,14.0,8.0,0.862,426.0,258.0,213.0,0.826,183.0,392.0
+2021,2020-21,Pitt,pittcommunitycollege,1500,40.0,21.0,18.0,6.0,0.867,324.0,238.0,180.0,0.756,143.0,381.0
+2021,2020-21,Polk State,polkstatecollege,1440,57.0,35.0,22.0,16.0,0.781,521.0,328.0,277.0,0.845,235.0,479.0
+2021,2020-21,Potomac State,wvupotomacstatecollege,1976,43.0,35.0,8.0,10.0,0.811,274.0,201.0,177.0,0.881,146.0,354.0
+2021,2020-21,Prairie State,prairiestatecollege,1012,43.0,4.0,39.0,2.0,0.956,386.0,477.0,329.0,0.69,262.0,196.0
+2021,2020-21,Pratt,prattcommunitycollege,2214,34.0,14.0,26.0,8.0,0.833,422.0,375.0,308.0,0.821,183.0,293.0
+2021,2020-21,Prince George's,princegeorgescommunitycollege,558,17.0,9.0,12.0,1.0,0.955,192.0,156.0,122.0,0.782,91.0,93.0
+2021,2020-21,RCSJ Cumberland,rowancollegeofsouthjerseycumberland,1107,3.0,16.0,3.0,3.0,0.864,216.0,175.0,140.0,0.8,164.0,252.0
+2021,2020-21,RCSJ Gloucester,rowancollegesouthjerseygloucester,1560,43.0,36.0,6.0,12.0,0.778,276.0,173.0,135.0,0.78,149.0,432.0
+2021,2020-21,Ranger,rangercollege,5104,0.0,15.0,32.0,8.0,0.855,509.0,425.0,303.0,0.713,228.0,327.0
+2021,2020-21,Raritan Valley,raritanvalleycommunitycollege,768,29.0,11.0,17.0,7.0,0.8,286.0,235.0,168.0,0.715,119.0,153.0
+2021,2020-21,Redlands,redlandscommunitycollege,2030,4.0,8.0,20.0,3.0,0.903,533.0,532.0,424.0,0.797,290.0,363.0
+2021,2020-21,Rend Lake,rendlakecollege,1512,1.0,21.0,21.0,6.0,0.875,379.0,364.0,265.0,0.728,262.0,368.0
+2021,2020-21,Riverland,riverlandcommunitycollege,1271,37.0,27.0,10.0,4.0,0.902,280.0,186.0,145.0,0.78,121.0,238.0
+2021,2020-21,Roane State,roanestatecommunitycollege,1450,41.0,7.0,32.0,3.0,0.929,381.0,350.0,306.0,0.874,217.0,227.0
+2021,2020-21,Rochester,rochestercommunityandtechnicalcolleg,1300,25.0,26.0,17.0,6.0,0.878,330.0,193.0,170.0,0.881,133.0,256.0
+2021,2020-21,Rock Valley,rockvalleycollege,1872,52.0,11.0,40.0,1.0,0.981,458.0,454.0,321.0,0.707,270.0,335.0
+2021,2020-21,Rockingham,rockinghamcommunitycollege,1848,43.0,27.0,15.0,14.0,0.75,372.0,288.0,235.0,0.816,203.0,393.0
+2021,2020-21,Rose State,rosestatecollege,1870,9.0,8.0,30.0,1.0,0.974,461.0,424.0,363.0,0.856,214.0,226.0
+2021,2020-21,SUNY Adirondack,sunyadirondack,504,27.0,10.0,17.0,1.0,0.964,194.0,191.0,145.0,0.759,129.0,181.0
+2021,2020-21,Salem,salemcommunitycollege,896,29.0,10.0,13.0,4.0,0.852,223.0,185.0,139.0,0.751,110.0,171.0
+2021,2020-21,Salt Lake,saltlakecommunitycollege,1800,49.0,31.0,17.0,8.0,0.857,334.0,241.0,196.0,0.813,191.0,382.0
+2021,2020-21,San Jacinto-North,sanjacintocollegenorth,2881,64.0,50.0,15.0,22.0,0.747,490.0,324.0,239.0,0.738,292.0,648.0
+2021,2020-21,Santa Fe,santafecollege,1798,46.0,33.0,13.0,14.0,0.767,400.0,236.0,164.0,0.695,136.0,347.0
+2021,2020-21,Sauk Valley,saukvalleycommunitycollege,1404,31.0,17.0,23.0,2.0,0.952,439.0,494.0,365.0,0.739,282.0,338.0
+2021,2020-21,Schoolcraft,schoolcraftcollege,1596,43.0,15.0,26.0,1.0,0.976,323.0,293.0,207.0,0.706,178.0,211.0
+2021,2020-21,Scottsdale,scottsdalecommunitycollege,1312,38.0,16.0,19.0,3.0,0.921,358.0,302.0,221.0,0.732,176.0,210.0
+2021,2020-21,Seminole State (FL),seminolestatecollegeofflorida,1624,48.0,29.0,19.0,12.0,0.8,401.0,274.0,217.0,0.792,203.0,455.0
+2021,2020-21,Seminole State (OK),seminolestatecollegeok,2666,40.0,30.0,16.0,7.0,0.868,362.0,301.0,219.0,0.728,225.0,445.0
+2021,2020-21,Seward County,sewardcountycommunitycollege,1624,39.0,25.0,25.0,4.0,0.926,487.0,397.0,318.0,0.801,193.0,389.0
+2021,2020-21,Shawnee,shawneecommunitycollege,1275,0.0,0.0,0.0,0.0,,0.0,0.0,0.0,,0.0,0.0
+2021,2020-21,Shelton State,sheltonstatecommunitycollege,2160,57.0,37.0,15.0,5.0,0.912,386.0,276.0,190.0,0.688,178.0,387.0
+2021,2020-21,Snead State,sneadstatecommunitycollege,1683,3.0,26.0,10.0,3.0,0.923,307.0,226.0,174.0,0.77,170.0,268.0
+2021,2020-21,South Florida State,southfloridastatecollege,1320,52.0,20.0,31.0,3.0,0.944,476.0,358.0,237.0,0.662,257.0,399.0
+2021,2020-21,South Georgia State,southgeorgiastatecollege,2120,3.0,22.0,20.0,4.0,0.913,395.0,306.0,232.0,0.758,177.0,292.0
+2021,2020-21,South Mountain,southmountaincommunitycollege,1650,48.0,32.0,15.0,16.0,0.746,318.0,244.0,171.0,0.701,195.0,388.0
+2021,2020-21,South Suburban,southsuburbancollege,1674,60.0,41.0,19.0,10.0,0.857,512.0,379.0,300.0,0.792,259.0,472.0
+2021,2020-21,Southeast,southeastcommunitycollege,2242,49.0,35.0,13.0,12.0,0.8,334.0,273.0,166.0,0.608,197.0,469.0
+2021,2020-21,Southeastern,southeasterncommunitycollege,2961,55.0,39.0,18.0,13.0,0.814,424.0,279.0,229.0,0.821,168.0,392.0
+2021,2020-21,Southeastern Illinois,southeasternillinoiscollege,1736,56.0,15.0,39.0,6.0,0.9,589.0,534.0,450.0,0.843,272.0,363.0
+2021,2020-21,Southeastern-Whiteville,southeasterncommunitycollegewhitevill,1802,35.0,9.0,27.0,1.0,0.973,363.0,350.0,279.0,0.797,226.0,296.0
+2021,2020-21,Southern Idaho,collegeofsouthernidaho,2200,54.0,33.0,20.0,3.0,0.946,348.0,275.0,217.0,0.789,220.0,451.0
+2021,2020-21,Southern Maryland,collegeofsouthernmaryland,891,32.0,13.0,20.0,3.0,0.917,255.0,199.0,174.0,0.874,123.0,148.0
+2021,2020-21,Southern Nevada,collegeofsouthernnevada,1920,63.0,46.0,17.0,6.0,0.913,468.0,341.0,275.0,0.806,274.0,600.0
+2021,2020-21,Southern Union State,southernunionstatecommunitycollege,2352,51.0,30.0,18.0,7.0,0.873,384.0,251.0,199.0,0.793,182.0,309.0
+2021,2020-21,Southwest Mississippi,southwestmississippicommunitycollege,1276,36.0,7.0,29.0,4.0,0.9,370.0,342.0,277.0,0.81,170.0,207.0
+2021,2020-21,Southwest Tennessee,southwesttennesseecommunitycollege,1400,40.0,8.0,31.0,2.0,0.951,327.0,335.0,257.0,0.767,249.0,262.0
+2021,2020-21,Southwestern Illinois,southwesternillinoiscollege,2072,1.0,29.0,24.0,10.0,0.841,444.0,303.0,243.0,0.802,192.0,390.0
+2021,2020-21,Spartanburg Methodist,spartanburgmethodist,3312,53.0,35.0,18.0,7.0,0.883,365.0,298.0,202.0,0.678,264.0,398.0
+2021,2020-21,Spoon River,spoonrivercollege,1612,2.0,19.0,30.0,6.0,0.891,456.0,420.0,345.0,0.821,271.0,339.0
+2021,2020-21,St. Charles,stcharlescommunitycollege,1638,1.0,21.0,21.0,7.0,0.857,286.0,307.0,224.0,0.73,284.0,403.0
+2021,2020-21,St. Clair County,stclaircountycommunitycollege,1891,19.0,3.0,17.0,0.0,1.0,394.0,368.0,325.0,0.883,212.0,180.0
+2021,2020-21,St. Cloud Tech,stcloudtechnicalcommunitycollege,1480,27.0,25.0,6.0,4.0,0.886,211.0,115.0,83.0,0.722,89.0,215.0
+2021,2020-21,St. Johns River State,stjohnsriverstatecollege,1500,49.0,27.0,22.0,7.0,0.875,367.0,261.0,193.0,0.739,168.0,383.0
+2021,2020-21,St. Louis,stlouiscommunitycollege,2090,0.0,20.0,27.0,6.0,0.887,427.0,383.0,312.0,0.815,220.0,394.0
+2021,2020-21,St. Petersburg,stpetersburgcollege,1456,46.0,21.0,25.0,9.0,0.836,415.0,322.0,246.0,0.764,198.0,321.0
+2021,2020-21,State College of Florida,statecollegeoffloridamanateesaraso,1680,55.0,34.0,21.0,11.0,0.833,413.0,273.0,203.0,0.744,239.0,508.0
+2021,2020-21,State Fair,statefaircommunitycollege,2112,46.0,20.0,25.0,5.0,0.9,448.0,417.0,332.0,0.796,235.0,329.0
+2021,2020-21,Suffolk County,suffolkcc,609,8.0,18.0,8.0,1.0,0.963,171.0,135.0,97.0,0.719,87.0,157.0
+2021,2020-21,Surry,surrycommunitycollege,1683,8.0,4.0,28.0,0.0,1.0,297.0,353.0,260.0,0.737,263.0,222.0
+2021,2020-21,Sussex County,sussexcountycommunitycollege,1188,31.0,12.0,17.0,4.0,0.879,279.0,245.0,160.0,0.653,151.0,239.0
+2021,2020-21,Tallahassee,tallahasseecommunitycollege,1710,48.0,19.0,31.0,5.0,0.909,382.0,268.0,206.0,0.769,203.0,371.0
+2021,2020-21,Temple,templecollege,846,54.0,38.0,16.0,9.0,0.857,361.0,256.0,171.0,0.668,198.0,434.0
+2021,2020-21,Three Rivers,threeriverscommunitycollegemo,2145,47.0,20.0,27.0,6.0,0.887,352.0,312.0,276.0,0.885,231.0,343.0
+2021,2020-21,Tompkins Cortland,tompkinscortlandcommunitycollege,713,23.0,10.0,13.0,2.0,0.92,163.0,132.0,95.0,0.72,88.0,128.0
+2021,2020-21,Trinidad State,trinidadstatejuniorcollege,1782,13.0,24.0,26.0,4.0,0.926,470.0,391.0,299.0,0.765,197.0,435.0
+2021,2020-21,Triton,tritoncollege,1518,37.0,19.0,10.0,7.0,0.806,279.0,260.0,203.0,0.781,182.0,275.0
+2021,2020-21,Tyler,tylerjuniorcollege,2840,56.0,40.0,16.0,6.0,0.903,376.0,297.0,223.0,0.751,306.0,541.0
+2021,2020-21,UA Rich Mountain,uarichmountain,2880,47.0,28.0,28.0,3.0,0.949,522.0,379.0,284.0,0.749,188.0,380.0
+2021,2020-21,UConn Avery Point,universityofconnecticutataverypoint,552,15.0,6.0,9.0,3.0,0.833,127.0,111.0,91.0,0.82,88.0,131.0
+2021,2020-21,USC Lancaster,usclancaster,2090,43.0,15.0,27.0,4.0,0.913,347.0,322.0,251.0,0.78,183.0,269.0
+2021,2020-21,USC Salkehatchie,uscsalkehatchie,1856,34.0,11.0,30.0,2.0,0.953,417.0,380.0,290.0,0.763,213.0,222.0
+2021,2020-21,USC Sumter,uscsumter,2409,53.0,30.0,24.0,2.0,0.964,418.0,326.0,264.0,0.81,194.0,347.0
+2021,2020-21,USC Union,uscunion,1836,20.0,14.0,11.0,3.0,0.893,276.0,210.0,179.0,0.852,142.0,161.0
+2021,2020-21,Ulster County,ulstercountycommunitycollege,324,5.0,9.0,8.0,3.0,0.85,112.0,82.0,65.0,0.793,90.0,154.0
+2021,2020-21,Union,unioncountycollege,646,29.0,9.0,21.0,1.0,0.968,294.0,281.0,195.0,0.694,115.0,158.0
+2021,2020-21,Utah State Eastern,utahstateeastern,2016,57.0,21.0,30.0,2.0,0.962,476.0,365.0,297.0,0.814,261.0,448.0
+2021,2020-21,Vernon,vernoncollege,2340,16.0,5.0,9.0,2.0,0.875,138.0,103.0,55.0,0.534,36.0,92.0
+2021,2020-21,Vincennes,vincennesuniversity,2220,43.0,24.0,31.0,5.0,0.917,456.0,365.0,279.0,0.764,234.0,362.0
+2021,2020-21,Virginia Peninsula Community College,thomasnelsoncommunitycollege,1026,20.0,4.0,13.0,1.0,0.944,272.0,280.0,191.0,0.682,155.0,178.0
+2021,2020-21,Volunteer State,volunteerstatecommunitycollege,1872,46.0,21.0,25.0,4.0,0.92,356.0,317.0,269.0,0.849,197.0,308.0
+2021,2020-21,Wabash Valley,wabashvalleycollege,2340,57.0,50.0,5.0,12.0,0.821,309.0,198.0,134.0,0.677,199.0,579.0
+2021,2020-21,Wake Tech,waketechnicalcommunitycollege,1710,34.0,20.0,17.0,4.0,0.902,284.0,235.0,201.0,0.855,156.0,273.0
+2021,2020-21,Wallace State,wallacestatecommunitycollegehancevil,1632,46.0,25.0,17.0,8.0,0.84,336.0,219.0,191.0,0.872,200.0,319.0
+2021,2020-21,Wallace-Dothan,wallacecommunitycollegedothan,1769,58.0,39.0,18.0,11.0,0.838,378.0,301.0,216.0,0.718,265.0,398.0
+2021,2020-21,Wallace-Selma,wallacecommunitycollegeselma,1539,49.0,12.0,37.0,2.0,0.961,369.0,425.0,309.0,0.727,220.0,211.0
+2021,2020-21,Walters State,waltersstatecommunitycollege,2812,68.0,60.0,8.0,10.0,0.872,424.0,241.0,214.0,0.888,214.0,608.0
+2021,2020-21,Waubonsee,waubonseecommunitycollege,2400,43.0,19.0,17.0,4.0,0.9,283.0,254.0,176.0,0.693,204.0,258.0
+2021,2020-21,Weatherford,weatherfordcollege,2223,57.0,36.0,19.0,17.0,0.764,396.0,301.0,219.0,0.728,246.0,484.0
+2021,2020-21,Western Nebraska,westernnebraskacommunitycollege,2077,55.0,26.0,26.0,12.0,0.812,526.0,485.0,380.0,0.784,221.0,405.0
+2021,2020-21,Western Oklahoma State,westernoklahomastatecollege,1711,53.0,41.0,13.0,10.0,0.844,314.0,210.0,170.0,0.81,157.0,510.0
+2021,2020-21,Western Texas,westerntexascollege,1836,45.0,14.0,30.0,3.0,0.936,459.0,394.0,316.0,0.802,181.0,299.0
+2021,2020-21,Westmoreland,westmorelandcountycommunitycollege,902,29.0,8.0,27.0,1.0,0.972,358.0,324.0,249.0,0.769,190.0,196.0
+2021,2020-21,Wharton County,whartoncountyjuniorcollege,1848,52.0,25.0,26.0,13.0,0.797,454.0,364.0,302.0,0.83,231.0,431.0
+2021,2020-21,Williston State,willistonstatecollege,1880,33.0,8.0,5.0,0.0,1.0,283.0,256.0,199.0,0.777,162.0,184.0
+2021,2020-21,Yavapai,yavapaicollege,1710,55.0,33.0,21.0,11.0,0.831,446.0,415.0,320.0,0.771,328.0,422.0

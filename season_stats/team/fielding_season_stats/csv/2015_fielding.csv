@@ -1,0 +1,384 @@
+season,njcaa_season,team,team_id,G,TC,PO,A,E,FPCT,DP,SBA,RCS,RCS_PCT,PB,CI
+2015,2014-15,ASA New York,asabrooklynavengers,1590,41.0,29.0,12.0,6.0,0.872,254.0,171.0,100.0,0.585,144.0,305.0
+2015,2014-15,Abraham Baldwin,abrahambaldwinagriculturalcollege,1680,57.0,27.0,28.0,6.0,0.902,468.0,275.0,216.0,0.785,179.0,267.0
+2015,2014-15,Allegany Maryland,alleganycollegeofmaryland,1380,41.0,24.0,20.0,5.0,0.898,411.0,307.0,251.0,0.818,188.0,218.0
+2015,2014-15,Allegheny County-Boyce,ccofalleghenycountyboyce,240,0.0,0.0,0.0,0.0,,0.0,0.0,0.0,,0.0,0.0
+2015,2014-15,Allegheny County-South,ccofalleghenycountysouth,666,2.0,6.0,10.0,2.0,0.889,174.0,172.0,126.0,0.733,124.0,90.0
+2015,2014-15,Allen County,allencountycommunitycollege,1518,4.0,14.0,27.0,1.0,0.976,434.0,376.0,246.0,0.654,219.0,182.0
+2015,2014-15,Alvin,alvincommunitycollege,1568,12.0,37.0,13.0,11.0,0.82,391.0,219.0,150.0,0.685,163.0,359.0
+2015,2014-15,Andrew,andrewcollege,1344,52.0,23.0,29.0,12.0,0.812,405.0,239.0,175.0,0.732,172.0,284.0
+2015,2014-15,Angelina,angelinacollege,1512,51.0,21.0,28.0,4.0,0.925,424.0,259.0,213.0,0.822,145.0,241.0
+2015,2014-15,Anne Arundel,annearundelcommunitycollege,1708,44.0,13.0,31.0,2.0,0.957,382.0,288.0,221.0,0.767,154.0,221.0
+2015,2014-15,Anoka-Ramsey,anokaramseycommunitycollege,666,1.0,0.0,1.0,0.0,1.0,5.0,6.0,6.0,1.0,9.0,1.0
+2015,2014-15,Arizona Western,arizonawesterncollege,1953,54.0,32.0,21.0,8.0,0.869,429.0,258.0,203.0,0.787,174.0,380.0
+2015,2014-15,Arkansas Baptist,arkansasbaptistcollege,1248,5.0,16.0,21.0,3.0,0.925,346.0,257.0,204.0,0.794,181.0,291.0
+2015,2014-15,Atlantic Cape,atlanticcapecommunitycollege,500,1.0,7.0,12.0,0.0,1.0,156.0,125.0,77.0,0.616,67.0,102.0
+2015,2014-15,Barton,bartoncommunitycollege,1972,51.0,25.0,27.0,10.0,0.839,462.0,323.0,225.0,0.697,158.0,306.0
+2015,2014-15,Baton Rouge,batonrougecommunitycollege,1911,49.0,21.0,16.0,1.0,0.974,369.0,248.0,204.0,0.823,184.0,253.0
+2015,2014-15,Bergen,bergencommunitycollege,1269,12.0,22.0,13.0,3.0,0.921,296.0,189.0,141.0,0.746,145.0,235.0
+2015,2014-15,Bishop State,bishopstatecommunitycollege,1377,1.0,15.0,30.0,2.0,0.957,396.0,317.0,220.0,0.694,190.0,199.0
+2015,2014-15,Bismarck State,bismarckstatecollege,792,44.0,20.0,24.0,0.0,1.0,403.0,316.0,217.0,0.687,158.0,150.0
+2015,2014-15,Black Hawk-Moline,blackhawkcollegemoline,1943,59.0,37.0,22.0,3.0,0.952,371.0,203.0,140.0,0.69,156.0,404.0
+2015,2014-15,Blinn,blinncollege,1674,53.0,28.0,26.0,5.0,0.915,487.0,265.0,213.0,0.804,173.0,348.0
+2015,2014-15,Borough of Manhattan,boroughofmanhattancommunitycollege,680,26.0,2.0,24.0,0.0,1.0,249.0,350.0,298.0,0.851,224.0,89.0
+2015,2014-15,Bossier Parish,bossierparishcommunitycollege,1508,5.0,17.0,27.0,10.0,0.815,417.0,312.0,228.0,0.731,170.0,244.0
+2015,2014-15,Bronx,bronxcommunitycollege,624,17.0,14.0,12.0,1.0,0.963,213.0,188.0,132.0,0.702,91.0,141.0
+2015,2014-15,Brookdale,brookdalecommunitycollege,1856,19.0,27.0,21.0,1.0,0.98,356.0,237.0,163.0,0.688,115.0,304.0
+2015,2014-15,Broward,browardcollege,1430,55.0,31.0,24.0,9.0,0.859,447.0,235.0,191.0,0.813,175.0,444.0
+2015,2014-15,Brown Mackie,brownmackiecollege,1512,46.0,8.0,17.0,2.0,0.926,434.0,380.0,306.0,0.805,185.0,183.0
+2015,2014-15,Brunswick,brunswickcommunitycollege,1620,33.0,28.0,18.0,6.0,0.885,326.0,236.0,161.0,0.682,184.0,256.0
+2015,2014-15,Bucks County,buckscountycommunitycollege,390,2.0,2.0,9.0,0.0,1.0,193.0,262.0,156.0,0.595,96.0,42.0
+2015,2014-15,Bunker Hill,bunkerhillcommunitycollege,396,10.0,9.0,7.0,0.0,1.0,118.0,87.0,64.0,0.736,77.0,78.0
+2015,2014-15,Butler,butlercommunitycollegeks,2079,60.0,28.0,28.0,3.0,0.949,452.0,294.0,245.0,0.833,246.0,338.0
+2015,2014-15,CCBC Catonsville,ccbccatonsville,1600,47.0,21.0,26.0,7.0,0.87,406.0,320.0,249.0,0.778,168.0,248.0
+2015,2014-15,CCBC Dundalk,ccbcdundalk,1827,13.0,9.0,26.0,2.0,0.946,310.0,278.0,202.0,0.727,160.0,168.0
+2015,2014-15,CCBC Essex,ccbcessex,1512,43.0,24.0,19.0,7.0,0.86,329.0,233.0,197.0,0.845,171.0,253.0
+2015,2014-15,Calhoun,calhouncommunitycollege,1470,39.0,14.0,24.0,3.0,0.927,307.0,202.0,174.0,0.861,139.0,185.0
+2015,2014-15,Camden County,camdencountycollege,936,1.0,15.0,15.0,2.0,0.938,275.0,173.0,126.0,0.728,116.0,161.0
+2015,2014-15,Carl Albert State,carlalbertstatecollege,1508,0.0,24.0,22.0,10.0,0.821,407.0,300.0,250.0,0.833,191.0,266.0
+2015,2014-15,Carl Sandburg,carlsandburgcollege,1568,7.0,15.0,8.0,6.0,0.793,208.0,118.0,98.0,0.831,67.0,163.0
+2015,2014-15,Catawba Valley,catawbavalleycommunitycollege,2244,54.0,38.0,19.0,11.0,0.838,424.0,246.0,162.0,0.659,156.0,367.0
+2015,2014-15,Cecil,cecilcollege,1674,52.0,28.0,17.0,4.0,0.918,396.0,316.0,222.0,0.703,196.0,349.0
+2015,2014-15,Central Alabama,centralalabamacommunitycollege,1300,49.0,18.0,25.0,5.0,0.896,416.0,266.0,192.0,0.722,152.0,229.0
+2015,2014-15,Central Arizona,centralarizonacollege,1792,55.0,36.0,19.0,11.0,0.833,419.0,235.0,181.0,0.77,172.0,387.0
+2015,2014-15,Central Florida,collegeofcentralflorida,1275,40.0,28.0,21.0,9.0,0.845,416.0,207.0,181.0,0.874,145.0,295.0
+2015,2014-15,Central Lakes,centrallakescollegebrainerd,544,5.0,4.0,5.0,1.0,0.9,94.0,66.0,53.0,0.803,40.0,57.0
+2015,2014-15,Century,centurycollege,1512,4.0,39.0,9.0,6.0,0.889,331.0,223.0,165.0,0.74,155.0,280.0
+2015,2014-15,Chandler-Gilbert,chandlergilbertcommunitycollege,2006,0.0,13.0,22.0,2.0,0.946,525.0,388.0,273.0,0.704,251.0,311.0
+2015,2014-15,Chattahoochee Valley,chattahoocheevalleycommunitycollege,1984,60.0,43.0,17.0,9.0,0.87,382.0,220.0,149.0,0.677,226.0,364.0
+2015,2014-15,Chattanooga State,chattanoogastatecommunitycollege,1176,20.0,31.0,14.0,6.0,0.882,338.0,212.0,179.0,0.844,145.0,274.0
+2015,2014-15,Chesapeake,chesapeakecollege,1456,41.0,15.0,26.0,1.0,0.976,351.0,250.0,209.0,0.836,147.0,164.0
+2015,2014-15,Chipola,chipolacollege,1300,51.0,38.0,13.0,9.0,0.85,384.0,200.0,141.0,0.705,160.0,406.0
+2015,2014-15,Cisco,ciscocollege,2016,0.0,32.0,14.0,1.0,0.979,420.0,279.0,208.0,0.746,187.0,375.0
+2015,2014-15,Clarendon,clarendoncollege,1624,43.0,7.0,3.0,2.0,0.833,522.0,387.0,306.0,0.791,186.0,384.0
+2015,2014-15,Cleveland State,clevelandstatecommunitycollege,1472,46.0,24.0,22.0,4.0,0.92,336.0,272.0,215.0,0.79,233.0,328.0
+2015,2014-15,Clinton (NY),clintoncommunitycollege,468,23.0,0.0,13.0,0.0,1.0,298.0,325.0,230.0,0.708,136.0,59.0
+2015,2014-15,Cloud County,cloudcountycommunitycollege,1500,0.0,16.0,34.0,3.0,0.943,477.0,357.0,266.0,0.745,199.0,334.0
+2015,2014-15,Coahoma,coahomacommunitycollege,1296,39.0,7.0,33.0,2.0,0.952,400.0,336.0,260.0,0.774,193.0,187.0
+2015,2014-15,Coastal Alabama - Bay Minette,faulknerstatecommunitycollege,1925,51.0,29.0,22.0,10.0,0.836,406.0,282.0,209.0,0.741,193.0,169.0
+2015,2014-15,Coastal Alabama - Brewton,jeffersondaviscommunitycollege,1326,0.0,20.0,31.0,8.0,0.864,467.0,280.0,218.0,0.779,156.0,274.0
+2015,2014-15,Coastal Alabama - Monroeville,alabamasoutherncommunitycollege,1425,50.0,23.0,27.0,1.0,0.98,411.0,289.0,195.0,0.675,175.0,278.0
+2015,2014-15,Coastal Bend,coastalbendcollege,1488,42.0,15.0,26.0,2.0,0.953,299.0,224.0,156.0,0.696,157.0,239.0
+2015,2014-15,Cochise,cochisecollege,1220,60.0,43.0,16.0,12.0,0.831,435.0,223.0,169.0,0.758,165.0,375.0
+2015,2014-15,Coffeyville,coffeyvillecommunitycollege,2170,61.0,29.0,32.0,11.0,0.847,564.0,419.0,315.0,0.752,261.0,362.0
+2015,2014-15,Colby,colbycommunitycollege,1881,4.0,22.0,26.0,7.0,0.873,417.0,264.0,198.0,0.75,153.0,277.0
+2015,2014-15,Colorado Northwestern,coloradonorthwesterncommunitycollege,1316,46.0,13.0,30.0,3.0,0.935,410.0,296.0,202.0,0.682,189.0,218.0
+2015,2014-15,Columbia State,columbiastatecommunitycollege,2090,42.0,30.0,17.0,1.0,0.979,347.0,220.0,167.0,0.759,189.0,375.0
+2015,2014-15,Columbia-Greene,columbiagreenecommunitycollege,748,14.0,8.0,16.0,1.0,0.96,236.0,205.0,130.0,0.634,96.0,102.0
+2015,2014-15,Connors State,connorsstatecollege,1960,52.0,41.0,11.0,9.0,0.852,355.0,233.0,168.0,0.721,183.0,367.0
+2015,2014-15,Copiah-Lincoln,copiahlincolncommunitycollege,1176,6.0,15.0,27.0,4.0,0.913,447.0,347.0,245.0,0.706,125.0,173.0
+2015,2014-15,Corning,corningcommunitycollege,1248,2.0,12.0,21.0,0.0,1.0,221.0,191.0,137.0,0.717,106.0,143.0
+2015,2014-15,Cowley,cowleycountycommunitycollege,1952,59.0,52.0,4.0,10.0,0.848,421.0,264.0,214.0,0.811,152.0,360.0
+2015,2014-15,Crowder,crowdercollege,1664,47.0,28.0,19.0,10.0,0.825,424.0,284.0,206.0,0.725,194.0,314.0
+2015,2014-15,Cuyahoga,cuyahogacommunitycollege,1680,54.0,36.0,20.0,11.0,0.836,383.0,289.0,222.0,0.768,231.0,251.0
+2015,2014-15,Dakota,dakotacollegeatbottineau,608,31.0,4.0,26.0,0.0,1.0,341.0,301.0,267.0,0.887,116.0,112.0
+2015,2014-15,Dakota County Tech,dakotacountytechnicalcollege,1040,40.0,20.0,18.0,3.0,0.927,323.0,254.0,177.0,0.697,164.0,273.0
+2015,2014-15,Dallas College - Brookhaven,brookhavencollege,1350,47.0,32.0,15.0,6.0,0.887,327.0,190.0,131.0,0.689,142.0,342.0
+2015,2014-15,Dallas College - Cedar Valley,cedarvalleycollege,1325,45.0,15.0,30.0,4.0,0.918,432.0,285.0,223.0,0.782,159.0,220.0
+2015,2014-15,Dallas College - Eastfield,eastfieldcollege,1696,0.0,34.0,10.0,6.0,0.88,358.0,214.0,162.0,0.757,139.0,346.0
+2015,2014-15,Dallas College - Mountain View,mountainviewcollege,1118,10.0,8.0,33.0,3.0,0.932,424.0,396.0,324.0,0.818,212.0,224.0
+2015,2014-15,Dallas College - North Lake,northlakecollege,1092,1.0,22.0,13.0,6.0,0.854,298.0,197.0,143.0,0.726,126.0,279.0
+2015,2014-15,Dallas College - Richland,richlandcollege,1508,38.0,23.0,26.0,8.0,0.86,441.0,285.0,226.0,0.793,163.0,336.0
+2015,2014-15,Danville,danvillecommunitycollege,1254,2.0,17.0,23.0,3.0,0.93,316.0,217.0,171.0,0.788,142.0,173.0
+2015,2014-15,Danville Area,danvilleareacommunitycollege,1122,51.0,28.0,23.0,12.0,0.81,389.0,235.0,191.0,0.813,171.0,244.0
+2015,2014-15,Darton State,dartonstatecollege,1500,58.0,39.0,19.0,11.0,0.841,490.0,256.0,199.0,0.777,128.0,235.0
+2015,2014-15,Dawson,dawsoncommunitycollege,738,39.0,14.0,25.0,2.0,0.951,382.0,365.0,271.0,0.742,185.0,185.0
+2015,2014-15,Daytona State,daytonastatecollege,1222,41.0,24.0,17.0,6.0,0.872,311.0,153.0,108.0,0.706,108.0,305.0
+2015,2014-15,Dean,deancollege,598,0.0,13.0,10.0,5.0,0.821,171.0,132.0,81.0,0.614,98.0,101.0
+2015,2014-15,Delaware County,delawarecountycommunitycollege,510,1.0,0.0,1.0,0.0,1.0,14.0,27.0,26.0,0.963,16.0,1.0
+2015,2014-15,Delaware Tech-Owens,delawaretechnicalcommunitycollegeowe,920,2.0,14.0,12.0,2.0,0.929,242.0,134.0,100.0,0.746,75.0,175.0
+2015,2014-15,Delgado,delgadocommunitycollege,2067,14.0,31.0,16.0,8.0,0.855,324.0,206.0,179.0,0.869,173.0,323.0
+2015,2014-15,Delta,deltacollege,1458,53.0,30.0,22.0,12.0,0.812,382.0,277.0,202.0,0.729,246.0,293.0
+2015,2014-15,Des Moines Area,desmoinesareacommunitycollege,1680,56.0,26.0,30.0,10.0,0.848,489.0,391.0,293.0,0.749,242.0,400.0
+2015,2014-15,Dodge City,dodgecitycommunitycollege,2108,62.0,42.0,20.0,9.0,0.873,477.0,269.0,215.0,0.799,175.0,441.0
+2015,2014-15,DuPage,collegeofdupage,2345,5.0,39.0,20.0,10.0,0.855,430.0,255.0,189.0,0.741,183.0,299.0
+2015,2014-15,Dutchess,dutchesscommunitycollege,609,22.0,3.0,8.0,3.0,0.786,210.0,181.0,123.0,0.68,107.0,95.0
+2015,2014-15,Dyersburg State,dyersburgstatecommunitycollege,1504,43.0,26.0,18.0,3.0,0.936,391.0,246.0,203.0,0.825,168.0,273.0
+2015,2014-15,East Central (MS),eastcentralcommunitycollege,1232,44.0,26.0,18.0,1.0,0.978,322.0,224.0,173.0,0.772,168.0,286.0
+2015,2014-15,East Georgia State,eastgeorgiacollege,1363,45.0,16.0,28.0,8.0,0.846,338.0,242.0,163.0,0.674,219.0,250.0
+2015,2014-15,East Mississippi,eastmississippicommunitycollege,1410,47.0,29.0,18.0,9.0,0.839,368.0,233.0,191.0,0.82,183.0,269.0
+2015,2014-15,Eastern Arizona,easternarizonacollege,1624,51.0,20.0,30.0,3.0,0.943,415.0,274.0,209.0,0.763,132.0,295.0
+2015,2014-15,Eastern Florida State,easternfloridastatecollege,1378,50.0,30.0,21.0,10.0,0.836,413.0,244.0,159.0,0.652,133.0,348.0
+2015,2014-15,Eastern Oklahoma State,easternoklahomastatecollege,2142,53.0,31.0,22.0,11.0,0.828,372.0,257.0,168.0,0.654,178.0,348.0
+2015,2014-15,El Paso,elpasocommunitycollege,1624,55.0,23.0,32.0,11.0,0.833,564.0,432.0,341.0,0.789,178.0,304.0
+2015,2014-15,Elgin,elgincommunitycollege,1792,1.0,40.0,13.0,7.0,0.883,331.0,157.0,117.0,0.745,119.0,329.0
+2015,2014-15,Ellsworth,ellsworthcommunitycollege,1888,34.0,18.0,40.0,5.0,0.921,576.0,538.0,362.0,0.673,307.0,312.0
+2015,2014-15,Enterprise State,enterprisestatecommunitycollege,1036,1.0,4.0,18.0,1.0,0.957,367.0,258.0,205.0,0.795,136.0,121.0
+2015,2014-15,Erie,eriecommunitycollege,1650,55.0,38.0,17.0,13.0,0.809,385.0,256.0,201.0,0.785,200.0,295.0
+2015,2014-15,Finger Lakes,fingerlakescommunitycollege,1792,46.0,20.0,25.0,5.0,0.9,404.0,318.0,216.0,0.679,174.0,235.0
+2015,2014-15,Florence-Darlington Tech,florencedarlingtontechnicalcollege,2016,50.0,36.0,14.0,6.0,0.893,270.0,165.0,116.0,0.703,198.0,320.0
+2015,2014-15,Florida State Jacksonville,floridastatecollegeatjacksonville,1248,2.0,12.0,31.0,5.0,0.896,426.0,266.0,200.0,0.752,172.0,219.0
+2015,2014-15,Fort Scott,fortscottcommunitycollege,1586,60.0,31.0,29.0,4.0,0.938,519.0,327.0,247.0,0.755,188.0,360.0
+2015,2014-15,Frank Phillips,frankphillipscollege,1537,53.0,14.0,22.0,4.0,0.9,523.0,370.0,359.0,0.97,233.0,289.0
+2015,2014-15,Frederick,frederickcommunitycollege,1534,59.0,50.0,9.0,16.0,0.787,373.0,209.0,164.0,0.785,175.0,354.0
+2015,2014-15,Fulton-Montgomery,fultonmontgomerycommunitycollege,1113,29.0,7.0,22.0,0.0,1.0,258.0,240.0,212.0,0.883,126.0,148.0
+2015,2014-15,Galveston,galvestoncollege,1540,7.0,32.0,19.0,11.0,0.823,391.0,219.0,160.0,0.731,178.0,325.0
+2015,2014-15,Garden City,gardencitycommunitycollege,1848,55.0,28.0,27.0,8.0,0.873,511.0,366.0,264.0,0.721,184.0,403.0
+2015,2014-15,Garrett,garrettcollege,1708,46.0,30.0,19.0,7.0,0.875,384.0,281.0,165.0,0.587,229.0,257.0
+2015,2014-15,GateWay (AZ),gatewaycommunitycollegeaz,1740,56.0,28.0,28.0,12.0,0.824,474.0,287.0,239.0,0.833,215.0,367.0
+2015,2014-15,Genesee,geneseecommunitycollege,738,11.0,9.0,17.0,4.0,0.867,265.0,235.0,172.0,0.732,152.0,177.0
+2015,2014-15,Georgia Highlands,georgiahighlandscollege,1508,52.0,19.0,19.0,8.0,0.826,371.0,240.0,161.0,0.671,220.0,359.0
+2015,2014-15,Georgia Perimeter,georgiaperimetercollege,2280,57.0,33.0,24.0,11.0,0.838,351.0,236.0,156.0,0.661,216.0,426.0
+2015,2014-15,Glen Oaks,glenoakscommunitycollege,780,30.0,1.0,6.0,0.0,1.0,40.0,24.0,16.0,0.667,11.0,13.0
+2015,2014-15,Glendale,glendalecommunitycollege,1643,1.0,13.0,23.0,3.0,0.923,457.0,329.0,220.0,0.669,186.0,282.0
+2015,2014-15,Gordon State,gordonstatecollege,1568,51.0,20.0,30.0,5.0,0.909,459.0,287.0,224.0,0.78,192.0,267.0
+2015,2014-15,Grand Rapids,grandrapidscommunitycollege,1377,51.0,13.0,28.0,1.0,0.976,486.0,408.0,284.0,0.696,208.0,217.0
+2015,2014-15,Grayson,graysoncountycollege,1710,0.0,35.0,14.0,0.0,1.0,479.0,293.0,249.0,0.85,185.0,360.0
+2015,2014-15,Guilford Tech,guilfordtechnicalcommunitycollege,1170,31.0,10.0,20.0,3.0,0.909,209.0,149.0,116.0,0.779,118.0,187.0
+2015,2014-15,Gulf Coast State,gulfcoaststatecollege,1254,54.0,34.0,20.0,7.0,0.885,386.0,205.0,152.0,0.741,141.0,375.0
+2015,2014-15,Hagerstown,hagerstowncommunitycollege,1512,4.0,33.0,20.0,5.0,0.914,442.0,294.0,232.0,0.789,166.0,278.0
+2015,2014-15,Harford,harfordcommunitycollege,2204,58.0,43.0,15.0,3.0,0.951,399.0,262.0,196.0,0.748,184.0,323.0
+2015,2014-15,Harper,harpercollege,1440,45.0,12.0,32.0,5.0,0.898,430.0,316.0,232.0,0.734,157.0,158.0
+2015,2014-15,Heartland,heartlandcommunitycollege,2142,59.0,46.0,13.0,12.0,0.831,385.0,216.0,139.0,0.644,201.0,383.0
+2015,2014-15,Henry Ford,henryfordcollege,1271,33.0,22.0,17.0,6.0,0.867,252.0,195.0,132.0,0.677,173.0,237.0
+2015,2014-15,Herkimer,herkimercollege,1566,44.0,48.0,6.0,9.0,0.857,310.0,168.0,136.0,0.81,116.0,364.0
+2015,2014-15,Hesston,hesstoncollege,1222,1.0,18.0,25.0,3.0,0.935,368.0,283.0,192.0,0.678,144.0,223.0
+2015,2014-15,Highland (IL),highlandcommunitycollegeillinois,738,29.0,6.0,7.0,0.0,1.0,320.0,259.0,183.0,0.707,98.0,111.0
+2015,2014-15,Highland (KS),highlandcommunitycollegekansas,1590,49.0,15.0,38.0,5.0,0.914,553.0,527.0,437.0,0.829,310.0,212.0
+2015,2014-15,Hill,hillcollege,1872,50.0,22.0,21.0,1.0,0.977,430.0,352.0,285.0,0.81,186.0,326.0
+2015,2014-15,Hillsborough,hillsboroughcommunitycollege,1352,1.0,22.0,28.0,7.0,0.877,395.0,230.0,157.0,0.683,143.0,354.0
+2015,2014-15,Hinds,hindscommunitycollege,1500,7.0,43.0,7.0,14.0,0.781,348.0,175.0,150.0,0.857,112.0,323.0
+2015,2014-15,Holmes,holmescommunitycollege,968,2.0,22.0,20.0,5.0,0.894,349.0,249.0,173.0,0.695,160.0,250.0
+2015,2014-15,Holyoke,holyokecommunitycollege,408,20.0,11.0,10.0,0.0,1.0,150.0,115.0,100.0,0.87,86.0,77.0
+2015,2014-15,Howard (TX),howardcollege,1593,58.0,42.0,15.0,12.0,0.826,497.0,352.0,281.0,0.798,207.0,409.0
+2015,2014-15,Hudson Valley,hudsonvalleycommunitycollege,992,8.0,20.0,12.0,3.0,0.914,221.0,147.0,104.0,0.707,126.0,165.0
+2015,2014-15,Hutchinson,hutchinsoncommunitycollege,2135,53.0,32.0,21.0,7.0,0.883,483.0,297.0,230.0,0.774,201.0,424.0
+2015,2014-15,Illinois Central,illinoiscentralcollege,2065,51.0,31.0,20.0,15.0,0.773,366.0,248.0,193.0,0.778,159.0,280.0
+2015,2014-15,Illinois Valley,illinoisvalleycommunitycollege,1092,2.0,4.0,2.0,0.0,1.0,245.0,159.0,114.0,0.717,116.0,172.0
+2015,2014-15,Independence,independencecommunitycollege,1590,52.0,19.0,33.0,6.0,0.897,510.0,388.0,271.0,0.698,155.0,206.0
+2015,2014-15,Indian Hills,indianhillscommunitycollege,2183,59.0,30.0,26.0,8.0,0.875,464.0,330.0,258.0,0.782,191.0,388.0
+2015,2014-15,Indian River State,indianriverstatecollege,1100,0.0,11.0,17.0,1.0,0.966,392.0,248.0,189.0,0.762,139.0,288.0
+2015,2014-15,Iowa Central,iowacentralcommunitycollege,1995,57.0,36.0,20.0,11.0,0.836,497.0,309.0,221.0,0.715,216.0,409.0
+2015,2014-15,Iowa Lakes,iowalakescommunitycollege,1820,52.0,29.0,23.0,8.0,0.867,474.0,309.0,212.0,0.686,137.0,347.0
+2015,2014-15,Iowa Western,iowawesterncommunitycollege,2294,5.0,53.0,7.0,9.0,0.87,344.0,150.0,124.0,0.827,128.0,435.0
+2015,2014-15,Itawamba,itawambacommunitycollege,1102,4.0,19.0,17.0,1.0,0.973,289.0,197.0,144.0,0.731,139.0,212.0
+2015,2014-15,Jackson,jacksoncollege,1530,5.0,23.0,22.0,4.0,0.918,400.0,348.0,283.0,0.813,215.0,321.0
+2015,2014-15,Jackson State,jacksonstatecommunitycollege,1323,38.0,27.0,15.0,1.0,0.977,399.0,314.0,255.0,0.812,163.0,252.0
+2015,2014-15,Jamestown,jamestowncommunitycollege,714,5.0,13.0,22.0,1.0,0.972,339.0,293.0,175.0,0.597,157.0,92.0
+2015,2014-15,Jefferson (MO),jeffersoncollege,1767,53.0,32.0,21.0,6.0,0.898,402.0,271.0,185.0,0.683,212.0,366.0
+2015,2014-15,Jefferson (NY),jeffersoncommunitycollege,1550,6.0,14.0,24.0,0.0,1.0,350.0,303.0,216.0,0.713,152.0,190.0
+2015,2014-15,John A. Logan,johnalogancollege,1740,43.0,27.0,16.0,1.0,0.977,303.0,151.0,111.0,0.735,130.0,346.0
+2015,2014-15,John Wood,johnwoodcommunitycollege,1620,15.0,38.0,22.0,12.0,0.833,455.0,309.0,220.0,0.712,196.0,305.0
+2015,2014-15,Johnson County,johnsoncountycommunitycollege,2220,60.0,49.0,11.0,11.0,0.845,458.0,294.0,213.0,0.724,180.0,437.0
+2015,2014-15,Joliet,jolietjuniorcollege,1575,63.0,38.0,25.0,5.0,0.926,453.0,293.0,202.0,0.689,263.0,273.0
+2015,2014-15,Jones,jonescollege,1426,46.0,29.0,16.0,6.0,0.882,394.0,234.0,165.0,0.705,132.0,279.0
+2015,2014-15,Kalamazoo Valley,kalamazoovalleycommunitycollege,1320,44.0,24.0,19.0,3.0,0.935,328.0,214.0,140.0,0.654,107.0,219.0
+2015,2014-15,Kankakee,kankakeecommunitycollege,1652,2.0,35.0,24.0,2.0,0.967,510.0,316.0,239.0,0.756,192.0,253.0
+2015,2014-15,Kansas City Kansas,kansascitykansascommunitycollege,1740,58.0,33.0,24.0,8.0,0.877,555.0,364.0,305.0,0.838,173.0,257.0
+2015,2014-15,Kaskaskia,kaskaskiacollege,1537,47.0,33.0,14.0,12.0,0.797,319.0,168.0,124.0,0.738,148.0,230.0
+2015,2014-15,Kellogg,kelloggcommunitycollege,1482,4.0,38.0,16.0,7.0,0.885,331.0,228.0,159.0,0.697,166.0,332.0
+2015,2014-15,Kingsborough,kingsboroughcommunitycollege,576,0.0,7.0,14.0,0.0,1.0,184.0,160.0,101.0,0.631,101.0,106.0
+2015,2014-15,Kirkwood,kirkwoodcommunitycollege,1836,54.0,32.0,22.0,7.0,0.885,447.0,286.0,201.0,0.703,152.0,353.0
+2015,2014-15,Kishwaukee,kishwaukeecollege,1770,3.0,33.0,19.0,4.0,0.929,334.0,229.0,169.0,0.738,196.0,258.0
+2015,2014-15,LSU Eunice,louisianastateuniversityeunice,1950,59.0,49.0,10.0,6.0,0.908,419.0,211.0,167.0,0.791,164.0,532.0
+2015,2014-15,Labette,labettecommunitycollege,1700,44.0,21.0,23.0,3.0,0.936,437.0,337.0,274.0,0.813,160.0,236.0
+2015,2014-15,Lackawanna,lackawannacollege,2940,53.0,31.0,21.0,9.0,0.852,343.0,231.0,160.0,0.693,192.0,418.0
+2015,2014-15,Lake County,collegeoflakecounty,1344,40.0,18.0,21.0,5.0,0.886,286.0,187.0,131.0,0.701,123.0,212.0
+2015,2014-15,Lake Land,lakelandcollege,1066,41.0,21.0,20.0,8.0,0.837,352.0,211.0,144.0,0.682,99.0,216.0
+2015,2014-15,Lake Michigan,lakemichigancollege,851,0.0,3.0,15.0,1.0,0.947,172.0,194.0,129.0,0.665,111.0,59.0
+2015,2014-15,Lake Region State,lakeregionstatecollegend,646,36.0,8.0,28.0,3.0,0.923,371.0,372.0,261.0,0.702,206.0,200.0
+2015,2014-15,Lake-Sumter State,lakesumterstatecollege,1272,47.0,21.0,26.0,7.0,0.87,401.0,214.0,165.0,0.771,145.0,288.0
+2015,2014-15,Lakeland,lakelandcommunitycollege,1150,46.0,16.0,30.0,2.0,0.958,359.0,304.0,185.0,0.609,152.0,167.0
+2015,2014-15,Lamar,lamarcommunitycollege,1770,58.0,43.0,15.0,10.0,0.853,346.0,173.0,146.0,0.844,149.0,375.0
+2015,2014-15,Lansing,lansingcommunitycollege,1175,47.0,22.0,25.0,4.0,0.922,409.0,325.0,186.0,0.572,138.0,294.0
+2015,2014-15,Laredo,laredocommunitycollege,1144,10.0,6.0,34.0,2.0,0.952,431.0,337.0,244.0,0.724,149.0,169.0
+2015,2014-15,Lawson State,lawsonstatecommunitycollege,1475,56.0,25.0,31.0,13.0,0.812,448.0,279.0,203.0,0.728,209.0,256.0
+2015,2014-15,Lehigh Carbon,lehighcarboncommunitycollege,684,0.0,15.0,14.0,0.0,1.0,280.0,203.0,131.0,0.645,74.0,153.0
+2015,2014-15,Lenoir,lenoircommunitycollege,1692,38.0,23.0,18.0,4.0,0.911,333.0,214.0,147.0,0.687,132.0,178.0
+2015,2014-15,Lewis & Clark,lewisclarkcommunitycollege,1890,1.0,10.0,23.0,1.0,0.971,320.0,231.0,179.0,0.775,126.0,147.0
+2015,2014-15,Lincoln,lincolncollege,1104,43.0,9.0,30.0,1.0,0.975,432.0,337.0,236.0,0.7,160.0,148.0
+2015,2014-15,Lincoln Land,lincolnlandcommunitycollege,1904,58.0,42.0,16.0,11.0,0.841,421.0,268.0,189.0,0.705,164.0,324.0
+2015,2014-15,Lincoln Trail,lincolntrailcollege,1768,52.0,28.0,24.0,8.0,0.867,404.0,229.0,190.0,0.83,158.0,335.0
+2015,2014-15,Lorain County,loraincountycommunitycollege,702,29.0,9.0,20.0,0.0,1.0,269.0,245.0,120.0,0.49,99.0,138.0
+2015,2014-15,Louisburg,louisburgcollege,1976,41.0,13.0,28.0,3.0,0.932,355.0,253.0,192.0,0.759,197.0,219.0
+2015,2014-15,Luna,lunacommunitycollege,1632,0.0,17.0,33.0,4.0,0.926,506.0,110.0,304.0,2.764,200.0,258.0
+2015,2014-15,Lurleen B. Wallace,lurleenbwallacecommunitycollege,1760,55.0,36.0,15.0,13.0,0.797,416.0,229.0,199.0,0.869,154.0,273.0
+2015,2014-15,Luzerne County,luzernecountycommunitycollege,312,12.0,5.0,7.0,0.0,1.0,105.0,85.0,63.0,0.741,45.0,72.0
+2015,2014-15,MCC-Longview,mcclongview,1920,12.0,32.0,27.0,10.0,0.855,529.0,372.0,289.0,0.777,201.0,301.0
+2015,2014-15,MCC-Maple Woods,mccmaplewoods,1708,56.0,27.0,28.0,5.0,0.917,496.0,332.0,233.0,0.702,152.0,349.0
+2015,2014-15,Macomb,macombcommunitycollege,1392,1.0,31.0,17.0,2.0,0.96,331.0,220.0,164.0,0.745,210.0,238.0
+2015,2014-15,Madison,madisoncollege,1350,54.0,41.0,12.0,10.0,0.841,346.0,166.0,134.0,0.807,162.0,269.0
+2015,2014-15,Marian-Ancilla,ancillacollege,874,27.0,4.0,19.0,1.0,0.958,318.0,248.0,184.0,0.742,131.0,141.0
+2015,2014-15,Marion Military,marionmilitaryinstitute,2574,51.0,29.0,14.0,8.0,0.843,343.0,205.0,133.0,0.649,149.0,168.0
+2015,2014-15,Marshalltown,marshalltowncommunitycollege,1855,53.0,20.0,33.0,5.0,0.914,404.0,336.0,241.0,0.717,229.0,287.0
+2015,2014-15,Massasoit,massasoitcommunitycollege,828,35.0,12.0,24.0,2.0,0.947,245.0,199.0,133.0,0.668,105.0,215.0
+2015,2014-15,McCook,mccookcommunitycollege,1534,51.0,24.0,30.0,6.0,0.9,444.0,260.0,202.0,0.777,153.0,287.0
+2015,2014-15,McHenry County,mchenrycountycollege,1881,0.0,44.0,13.0,3.0,0.95,335.0,204.0,132.0,0.647,132.0,350.0
+2015,2014-15,McLennan,mclennancommunitycollege,2432,56.0,40.0,20.0,13.0,0.822,620.0,389.0,333.0,0.856,224.0,453.0
+2015,2014-15,Mercer County,mercercountycommunitycollege,2412,50.0,38.0,12.0,7.0,0.877,312.0,175.0,133.0,0.76,147.0,385.0
+2015,2014-15,Mercyhurst North East,mercyhurstnortheast,1560,48.0,25.0,18.0,1.0,0.977,392.0,261.0,189.0,0.724,157.0,249.0
+2015,2014-15,Meridian,meridiancommunitycollege,1537,50.0,32.0,16.0,4.0,0.923,436.0,264.0,205.0,0.777,157.0,313.0
+2015,2014-15,Mesa,mesacommunitycollege,2244,54.0,37.0,20.0,7.0,0.891,451.0,256.0,185.0,0.723,169.0,455.0
+2015,2014-15,Miami Dade,miamidadecollege,1152,4.0,20.0,9.0,0.0,1.0,395.0,215.0,171.0,0.795,128.0,254.0
+2015,2014-15,Middlesex College,middlesexcountycollege,1134,0.0,17.0,19.0,4.0,0.9,332.0,243.0,184.0,0.757,131.0,187.0
+2015,2014-15,Midland,midlandcollege,2257,59.0,35.0,25.0,8.0,0.882,596.0,422.0,353.0,0.836,234.0,359.0
+2015,2014-15,Miles,milescommunitycollege,1836,4.0,18.0,33.0,2.0,0.962,413.0,281.0,215.0,0.765,206.0,230.0
+2015,2014-15,Milwaukee Area Tech,milwaukeeareatechnicalcollege,1020,4.0,6.0,28.0,0.0,1.0,388.0,350.0,265.0,0.757,156.0,159.0
+2015,2014-15,Mineral Area,mineralareacollege,1736,46.0,23.0,20.0,3.0,0.935,385.0,262.0,184.0,0.702,151.0,299.0
+2015,2014-15,Minnesota North College - Itasca,itascacommunitycollege,1428,0.0,8.0,12.0,0.0,1.0,334.0,247.0,163.0,0.66,170.0,238.0
+2015,2014-15,Minnesota North College - Mesabi Range,mesabirangectc,1080,41.0,25.0,15.0,4.0,0.909,322.0,202.0,179.0,0.886,142.0,247.0
+2015,2014-15,Minnesota North College - Rainy River,rainyrivercommunitycollege,880,38.0,17.0,23.0,4.0,0.909,326.0,247.0,169.0,0.684,141.0,262.0
+2015,2014-15,Minnesota North College - Vermilion,vermilioncommunitycollege,576,35.0,13.0,22.0,1.0,0.972,341.0,231.0,175.0,0.758,110.0,128.0
+2015,2014-15,Minnesota State,minnesotastatecommunityandtechnical,1176,42.0,27.0,15.0,4.0,0.913,317.0,214.0,161.0,0.752,144.0,235.0
+2015,2014-15,Mississippi Delta,mississippideltacommunitycollege,1222,4.0,16.0,23.0,4.0,0.907,379.0,264.0,192.0,0.727,187.0,226.0
+2015,2014-15,Mississippi Gulf Coast,mississippigulfcoastcommunitycollege,1260,10.0,15.0,18.0,2.0,0.943,298.0,229.0,176.0,0.769,142.0,129.0
+2015,2014-15,Mohawk Valley,mohawkvalleycommunitycollege,1376,9.0,19.0,24.0,2.0,0.956,365.0,272.0,208.0,0.765,153.0,249.0
+2015,2014-15,Monroe CC,monroecommunitycollege,1224,51.0,33.0,18.0,4.0,0.927,400.0,254.0,198.0,0.78,151.0,268.0
+2015,2014-15,Monroe College,monroecollege,1947,49.0,25.0,8.0,7.0,0.825,311.0,197.0,156.0,0.792,198.0,311.0
+2015,2014-15,Montgomery,montgomerycollegemd,1650,7.0,32.0,21.0,7.0,0.883,443.0,307.0,217.0,0.707,156.0,277.0
+2015,2014-15,Montgomery County,montgomerycountycommunitycollegepa,931,17.0,15.0,5.0,0.0,1.0,136.0,110.0,70.0,0.636,113.0,195.0
+2015,2014-15,Moraine Valley,morainevalleycommunitycollege,1035,42.0,3.0,8.0,0.0,1.0,350.0,297.0,262.0,0.882,194.0,118.0
+2015,2014-15,Morris,countycollegeofmorris,1375,45.0,24.0,20.0,8.0,0.846,401.0,263.0,189.0,0.719,161.0,257.0
+2015,2014-15,Morton,mortoncollege,1650,36.0,6.0,7.0,1.0,0.929,404.0,362.0,254.0,0.702,202.0,197.0
+2015,2014-15,Mott,mottcommunitycollege,1305,44.0,25.0,19.0,7.0,0.863,338.0,294.0,226.0,0.769,211.0,217.0
+2015,2014-15,Murray State,murraystatecollege,1980,56.0,39.0,17.0,11.0,0.836,468.0,280.0,190.0,0.679,181.0,355.0
+2015,2014-15,Muscatine,muscatinecommunitycollege,1560,51.0,23.0,28.0,3.0,0.944,432.0,324.0,237.0,0.731,143.0,307.0
+2015,2014-15,Muskegon,muskegoncommunitycollege,1260,41.0,22.0,14.0,8.0,0.818,291.0,213.0,168.0,0.789,152.0,258.0
+2015,2014-15,Nassau,nassaucommunitycollege,1085,7.0,0.0,1.0,0.0,1.0,43.0,31.0,21.0,0.677,15.0,12.0
+2015,2014-15,Navarro,navarrocollege,1430,0.0,29.0,15.0,11.0,0.8,380.0,207.0,158.0,0.763,171.0,351.0
+2015,2014-15,Neosho County,neoshocountycommunitycollege,1612,43.0,41.0,16.0,10.0,0.851,482.0,284.0,222.0,0.782,152.0,324.0
+2015,2014-15,New Mexico,newmexicojuniorcollege,1769,61.0,41.0,20.0,13.0,0.824,557.0,366.0,279.0,0.762,168.0,509.0
+2015,2014-15,New Mexico Military,newmexicomilitaryinstitute,1960,55.0,25.0,29.0,11.0,0.831,569.0,399.0,317.0,0.794,190.0,379.0
+2015,2014-15,New River,newrivercommunitycollege,1000,50.0,8.0,42.0,2.0,0.962,470.0,440.0,276.0,0.627,177.0,164.0
+2015,2014-15,Niagara County,niagaracountycommunitycollege,1700,34.0,31.0,13.0,7.0,0.863,264.0,166.0,143.0,0.861,126.0,310.0
+2015,2014-15,North Arkansas,northarkansascollege,1300,11.0,31.0,13.0,9.0,0.83,344.0,254.0,163.0,0.642,174.0,263.0
+2015,2014-15,North Central Missouri,northcentralmissouricollege,1430,55.0,22.0,31.0,5.0,0.914,398.0,321.0,222.0,0.692,235.0,340.0
+2015,2014-15,North Central Texas,northcentraltexascollege,1566,45.0,20.0,22.0,12.0,0.778,396.0,253.0,205.0,0.81,163.0,290.0
+2015,2014-15,North Iowa Area,northiowaareacommunitycollege,4810,65.0,49.0,16.0,16.0,0.802,545.0,361.0,269.0,0.745,221.0,372.0
+2015,2014-15,Northampton,northamptoncommunitycollege,1225,13.0,23.0,18.0,4.0,0.911,273.0,179.0,147.0,0.821,130.0,279.0
+2015,2014-15,Northeast Mississippi,northeastmississippicommunitycollege,1102,38.0,11.0,27.0,6.0,0.864,416.0,292.0,201.0,0.688,116.0,182.0
+2015,2014-15,Northeast Texas,northeasttexascommunitycollege,1598,43.0,25.0,18.0,9.0,0.827,350.0,239.0,177.0,0.741,188.0,314.0
+2015,2014-15,Northeastern,northeasternjuniorcollege,2139,8.0,28.0,26.0,5.0,0.915,422.0,307.0,218.0,0.71,158.0,333.0
+2015,2014-15,Northeastern Oklahoma A&M,northeasternoklahomaamcollege,1540,43.0,27.0,12.0,7.0,0.848,353.0,253.0,190.0,0.751,161.0,267.0
+2015,2014-15,Northern Essex,northernessexcommunitycollege,693,16.0,27.0,4.0,0.0,1.0,227.0,136.0,103.0,0.757,112.0,223.0
+2015,2014-15,Northern Oklahoma Enid,northernoklahomacollegeenid,2160,1.0,33.0,25.0,9.0,0.866,467.0,323.0,251.0,0.777,170.0,335.0
+2015,2014-15,Northern Oklahoma Tonkawa,northernoklahomacollegetonkawa,2013,56.0,37.0,24.0,4.0,0.938,443.0,306.0,215.0,0.703,233.0,338.0
+2015,2014-15,Northland,northlandcommunitytechnicalcollege,138,0.0,0.0,0.0,0.0,,0.0,0.0,0.0,,0.0,0.0
+2015,2014-15,Northwest Florida State,northwestfloridastatecollege,1450,55.0,41.0,13.0,12.0,0.818,345.0,176.0,127.0,0.722,141.0,368.0
+2015,2014-15,Northwest Mississippi,northwestmississippicommunitycollege,1350,50.0,33.0,17.0,13.0,0.794,419.0,253.0,190.0,0.751,161.0,276.0
+2015,2014-15,Oakton,oaktoncommunitycollege,1770,0.0,41.0,17.0,10.0,0.853,470.0,257.0,183.0,0.712,147.0,280.0
+2015,2014-15,Ocean County,oceancountycollege,828,0.0,15.0,12.0,0.0,1.0,243.0,157.0,93.0,0.592,65.0,133.0
+2015,2014-15,Odessa,odessacollege,1464,56.0,20.0,17.0,0.0,1.0,581.0,402.0,359.0,0.893,152.0,337.0
+2015,2014-15,Olive-Harvey,oliveharveycollege,55,3.0,0.0,3.0,0.0,1.0,48.0,58.0,43.0,0.741,11.0,1.0
+2015,2014-15,Olney Central,olneycentralcollege,1591,42.0,22.0,20.0,5.0,0.894,314.0,182.0,130.0,0.714,114.0,247.0
+2015,2014-15,Onondaga,onondagacommunitycollege,1222,39.0,19.0,20.0,5.0,0.886,284.0,203.0,162.0,0.798,138.0,217.0
+2015,2014-15,Orange County,orangecountycommunitycollege,713,30.0,8.0,21.0,1.0,0.967,313.0,261.0,193.0,0.739,121.0,109.0
+2015,2014-15,Otero,oterojuniorcollege,2415,58.0,33.0,25.0,10.0,0.853,397.0,218.0,165.0,0.757,189.0,368.0
+2015,2014-15,Owens,owenscommunitycollege,1488,48.0,23.0,25.0,6.0,0.889,362.0,263.0,203.0,0.772,218.0,248.0
+2015,2014-15,Palm Beach State,palmbeachstatecollege,1508,1.0,41.0,16.0,13.0,0.814,482.0,185.0,151.0,0.816,147.0,438.0
+2015,2014-15,Panola,panolacollege,1550,47.0,16.0,31.0,1.0,0.979,431.0,318.0,236.0,0.742,208.0,304.0
+2015,2014-15,Paradise Valley,paradisevalleycommunitycollege,1782,1.0,38.0,14.0,15.0,0.776,444.0,246.0,188.0,0.764,173.0,412.0
+2015,2014-15,Paris,parisjuniorcollege,1372,47.0,13.0,34.0,6.0,0.887,467.0,329.0,214.0,0.65,192.0,273.0
+2015,2014-15,Parkland,parklandcollege,2262,0.0,33.0,23.0,3.0,0.949,366.0,208.0,145.0,0.697,152.0,403.0
+2015,2014-15,Pasco-Hernando State,pascohernandostatecollege,1152,47.0,32.0,15.0,6.0,0.887,333.0,158.0,116.0,0.734,156.0,319.0
+2015,2014-15,Patrick & Henry,patrickhenrycommunitycollege,2109,55.0,39.0,16.0,6.0,0.902,379.0,190.0,149.0,0.784,90.0,327.0
+2015,2014-15,Pearl River,pearlrivercommunitycollege,1188,43.0,14.0,29.0,4.0,0.915,382.0,297.0,218.0,0.734,167.0,232.0
+2015,2014-15,Pensacola State,pensacolastatecollege,1274,34.0,24.0,24.0,7.0,0.873,341.0,252.0,188.0,0.746,176.0,297.0
+2015,2014-15,Phoenix,phoenixcollege,1953,1.0,33.0,25.0,8.0,0.879,517.0,290.0,226.0,0.779,188.0,355.0
+2015,2014-15,Pima,pimacommunitycollege,1537,50.0,24.0,27.0,11.0,0.823,412.0,285.0,206.0,0.723,215.0,303.0
+2015,2014-15,Pitt,pittcommunitycollege,2030,32.0,32.0,12.0,1.0,0.978,316.0,139.0,99.0,0.712,94.0,264.0
+2015,2014-15,Polk State,polkstatecollege,1275,51.0,35.0,15.0,13.0,0.794,356.0,175.0,120.0,0.686,157.0,416.0
+2015,2014-15,Potomac State,potomacstatecollegeofwvu,2080,46.0,36.0,10.0,8.0,0.852,317.0,153.0,121.0,0.791,150.0,250.0
+2015,2014-15,Prairie State,prairiestatecollege,432,35.0,4.0,24.0,2.0,0.933,368.0,331.0,223.0,0.674,149.0,67.0
+2015,2014-15,Pratt,prattcommunitycollege,1925,4.0,21.0,28.0,6.0,0.891,469.0,353.0,257.0,0.728,187.0,268.0
+2015,2014-15,Prince George's,princegeorgescommunitycollege,940,4.0,14.0,17.0,2.0,0.939,261.0,202.0,127.0,0.629,109.0,137.0
+2015,2014-15,Queensborough,queensboroughcommunitycollege,1376,0.0,7.0,19.0,1.0,0.963,201.0,209.0,145.0,0.694,135.0,141.0
+2015,2014-15,Quinsigamond,quinsigamondcommunitycollege,289,12.0,3.0,3.0,3.0,0.667,110.0,103.0,63.0,0.612,57.0,63.0
+2015,2014-15,RCSJ Cumberland,cumberlandcountycollege,1566,45.0,36.0,9.0,2.0,0.957,255.0,129.0,91.0,0.705,133.0,356.0
+2015,2014-15,RCSJ Gloucester,rowancollegeatgloucestercounty,1326,46.0,38.0,10.0,6.0,0.889,353.0,208.0,162.0,0.779,164.0,323.0
+2015,2014-15,Ranger,rangercollege,1938,0.0,6.0,6.0,3.0,0.8,553.0,399.0,318.0,0.797,197.0,276.0
+2015,2014-15,Raritan Valley,raritanvalleycommunitycollege,462,27.0,5.0,22.0,3.0,0.9,294.0,230.0,200.0,0.87,126.0,92.0
+2015,2014-15,Redlands,redlandscommunitycollege,1404,1.0,27.0,24.0,5.0,0.911,394.0,265.0,221.0,0.834,167.0,328.0
+2015,2014-15,Rend Lake,rendlakecollege,1189,5.0,15.0,13.0,2.0,0.933,338.0,181.0,142.0,0.785,123.0,266.0
+2015,2014-15,Rhode Island,communitycollegeofrhodeisland,952,0.0,17.0,13.0,2.0,0.938,245.0,145.0,126.0,0.869,105.0,177.0
+2015,2014-15,Ridgewater,ridgewatercollege,770,33.0,5.0,29.0,1.0,0.971,357.0,304.0,223.0,0.734,123.0,120.0
+2015,2014-15,Riverland,riverlandcommunitycollege,1247,42.0,37.0,5.0,1.0,0.977,252.0,138.0,105.0,0.761,114.0,330.0
+2015,2014-15,Roane State,roanestatecommunitycollege,1250,27.0,3.0,22.0,0.0,1.0,363.0,276.0,224.0,0.812,132.0,202.0
+2015,2014-15,Rochester,rochestercommunityandtechnicalcolleg,1363,42.0,31.0,11.0,4.0,0.913,280.0,158.0,131.0,0.829,150.0,193.0
+2015,2014-15,Rock Valley,rockvalleycollege,1008,5.0,0.0,5.0,0.0,1.0,46.0,35.0,29.0,0.829,18.0,10.0
+2015,2014-15,Rockingham,rockinghamcommunitycollege,1323,39.0,17.0,21.0,1.0,0.974,314.0,205.0,156.0,0.761,105.0,164.0
+2015,2014-15,Rockland,rocklandcommunitycollege,714,28.0,13.0,14.0,4.0,0.871,268.0,193.0,146.0,0.756,110.0,116.0
+2015,2014-15,Rose State,rosestatecollege,1352,44.0,10.0,34.0,3.0,0.936,406.0,345.0,255.0,0.739,171.0,271.0
+2015,2014-15,Rowan Burlington,burlingtoncountycollege,1032,0.0,8.0,4.0,0.0,1.0,154.0,123.0,82.0,0.667,78.0,133.0
+2015,2014-15,SUNY Adirondack,sunyadirondack,846,38.0,11.0,22.0,2.0,0.943,373.0,336.0,256.0,0.762,199.0,144.0
+2015,2014-15,SUNY Broome,sunybroomecommunitycollege,912,5.0,5.0,23.0,1.0,0.966,254.0,227.0,145.0,0.639,92.0,131.0
+2015,2014-15,Salt Lake,saltlakecommunitycollege,1920,56.0,37.0,19.0,8.0,0.875,409.0,219.0,160.0,0.731,201.0,329.0
+2015,2014-15,San Jacinto-North,sanjacintocollegenorth,2574,63.0,42.0,20.0,27.0,0.697,481.0,299.0,171.0,0.572,244.0,531.0
+2015,2014-15,Santa Fe,santafecollege,1242,43.0,31.0,12.0,13.0,0.768,340.0,180.0,125.0,0.694,123.0,334.0
+2015,2014-15,Sauk Valley,saukvalleycommunitycollege,950,50.0,13.0,36.0,1.0,0.98,408.0,314.0,251.0,0.799,160.0,200.0
+2015,2014-15,Schenectady County,schenectadycountycommunitycollege,1242,11.0,11.0,13.0,1.0,0.96,239.0,193.0,131.0,0.679,82.0,104.0
+2015,2014-15,Scottsdale,scottsdalecommunitycollege,1920,60.0,31.0,26.0,13.0,0.814,530.0,357.0,267.0,0.748,260.0,369.0
+2015,2014-15,Seminole State (FL),seminolestatecollegeofflorida,1272,52.0,20.0,32.0,4.0,0.929,479.0,288.0,235.0,0.816,187.0,271.0
+2015,2014-15,Seminole State (OK),seminolestatecollege,2432,55.0,39.0,17.0,7.0,0.889,482.0,258.0,206.0,0.798,157.0,467.0
+2015,2014-15,Seward County,sewardcountycommunitycollege,1711,59.0,34.0,25.0,7.0,0.894,511.0,298.0,213.0,0.715,146.0,418.0
+2015,2014-15,Shawnee,shawneecommunitycollege,960,7.0,13.0,17.0,3.0,0.909,250.0,165.0,129.0,0.782,85.0,99.0
+2015,2014-15,Shelton State,sheltonstatecommunitycollege,1650,52.0,29.0,22.0,8.0,0.864,324.0,228.0,148.0,0.649,185.0,314.0
+2015,2014-15,Sinclair,sinclaircommunitycollege,2074,60.0,50.0,11.0,9.0,0.871,405.0,245.0,186.0,0.759,204.0,456.0
+2015,2014-15,Snead State,sneadstatecommunitycollege,2040,8.0,5.0,13.0,1.0,0.947,322.0,227.0,155.0,0.683,145.0,200.0
+2015,2014-15,South Florida State,southfloridastatecollege,1197,55.0,24.0,32.0,6.0,0.903,503.0,295.0,198.0,0.671,168.0,303.0
+2015,2014-15,South Georgia State,southgeorgiastatecollege,1984,1.0,35.0,21.0,8.0,0.875,449.0,284.0,209.0,0.736,202.0,326.0
+2015,2014-15,South Mountain,southmountaincommunitycollege,1947,7.0,34.0,25.0,14.0,0.808,577.0,321.0,261.0,0.813,157.0,364.0
+2015,2014-15,South Suburban,southsuburbancollege,1755,34.0,32.0,19.0,2.0,0.962,433.0,334.0,264.0,0.79,247.0,279.0
+2015,2014-15,Southeast,southeastcommunitycollege,1638,63.0,41.0,21.0,11.0,0.849,500.0,318.0,209.0,0.657,216.0,406.0
+2015,2014-15,Southeastern,southeasterncommunitycollege,1980,60.0,42.0,18.0,13.0,0.822,473.0,296.0,236.0,0.797,204.0,409.0
+2015,2014-15,Southeastern Illinois,southeasternillinoiscollege,1344,18.0,4.0,23.0,1.0,0.964,293.0,250.0,180.0,0.72,147.0,145.0
+2015,2014-15,Southeastern-Whiteville,southeasterncommunitycollegewhitevill,1485,47.0,22.0,25.0,9.0,0.839,399.0,275.0,185.0,0.673,211.0,257.0
+2015,2014-15,Southern Idaho,collegeofsouthernidaho,1920,54.0,28.0,24.0,5.0,0.912,399.0,222.0,157.0,0.707,157.0,348.0
+2015,2014-15,Southern Maryland,collegeofsouthernmaryland,1127,33.0,6.0,28.0,3.0,0.919,325.0,292.0,198.0,0.678,146.0,111.0
+2015,2014-15,Southern Nevada,collegeofsouthernnevada,1664,62.0,43.0,18.0,13.0,0.824,389.0,202.0,167.0,0.827,167.0,480.0
+2015,2014-15,Southern Union State,southernunionstatecommunitycollege,1760,48.0,28.0,21.0,7.0,0.875,306.0,207.0,135.0,0.652,155.0,257.0
+2015,2014-15,Southwest Mississippi,southwestmississippicommunitycollege,1296,2.0,20.0,24.0,9.0,0.83,403.0,277.0,184.0,0.664,134.0,231.0
+2015,2014-15,Southwest Tennessee,southwesttennesseecommunitycollege,904,47.0,20.0,26.0,2.0,0.958,406.0,262.0,193.0,0.737,139.0,251.0
+2015,2014-15,Southwestern,southwesterncommunitycollege,1736,52.0,17.0,35.0,7.0,0.881,528.0,444.0,329.0,0.741,252.0,286.0
+2015,2014-15,Southwestern Illinois,southwesternillinoiscollege,1392,48.0,30.0,18.0,16.0,0.75,376.0,203.0,164.0,0.808,155.0,227.0
+2015,2014-15,Spartanburg Methodist,spartanburgmethodist,2262,48.0,29.0,23.0,6.0,0.897,340.0,230.0,143.0,0.622,195.0,342.0
+2015,2014-15,Spoon River,spoonrivercollege,705,5.0,1.0,3.0,0.0,1.0,250.0,242.0,172.0,0.711,159.0,137.0
+2015,2014-15,St. Charles,stcharlescommunitycollege,1326,29.0,9.0,36.0,0.0,1.0,426.0,374.0,272.0,0.727,245.0,178.0
+2015,2014-15,St. Clair County,stclaircountycommunitycollege,1134,22.0,9.0,17.0,0.0,1.0,331.0,275.0,202.0,0.735,146.0,215.0
+2015,2014-15,St. Cloud Tech,stcloudtechnicalcommunitycollege,1995,49.0,31.0,18.0,5.0,0.907,332.0,195.0,149.0,0.764,133.0,240.0
+2015,2014-15,St. Johns River State,stjohnsriverstatecollege,1357,57.0,47.0,10.0,19.0,0.75,426.0,204.0,157.0,0.77,184.0,404.0
+2015,2014-15,St. Louis,stlouiscommunitycollege,2070,2.0,34.0,23.0,9.0,0.864,460.0,350.0,280.0,0.8,229.0,345.0
+2015,2014-15,St. Petersburg,stpetersburgcollege,1404,49.0,20.0,7.0,7.0,0.794,421.0,209.0,170.0,0.813,122.0,273.0
+2015,2014-15,State College of Florida,statecollegeoffloridamanateesaraso,1612,57.0,39.0,18.0,20.0,0.74,472.0,236.0,170.0,0.72,141.0,394.0
+2015,2014-15,Suffolk County,suffolkcc,1450,0.0,24.0,12.0,4.0,0.9,233.0,122.0,96.0,0.787,103.0,308.0
+2015,2014-15,Sullivan County,sullivancountycommunitycollege,1344,38.0,19.0,19.0,1.0,0.974,331.0,249.0,149.0,0.598,113.0,183.0
+2015,2014-15,Surry,surrycommunitycollege,1620,40.0,13.0,24.0,3.0,0.925,356.0,213.0,159.0,0.746,124.0,242.0
+2015,2014-15,Sussex County,sussexcountycommunitycollege,1352,34.0,15.0,19.0,2.0,0.944,278.0,202.0,122.0,0.604,102.0,187.0
+2015,2014-15,Tallahassee,tallahasseecommunitycollege,1566,49.0,27.0,21.0,9.0,0.842,393.0,258.0,175.0,0.678,143.0,318.0
+2015,2014-15,Temple,templecollege,1792,0.0,27.0,27.0,9.0,0.857,450.0,312.0,251.0,0.804,207.0,346.0
+2015,2014-15,The Albemarle,collegeofthealbemarle,1484,1.0,23.0,17.0,5.0,0.889,344.0,232.0,167.0,0.72,184.0,234.0
+2015,2014-15,Three Rivers,threeriverscommunitycollegemo,1247,42.0,20.0,22.0,5.0,0.894,332.0,233.0,170.0,0.73,159.0,252.0
+2015,2014-15,Tompkins Cortland,tompkinscortlandcommunitycollege,1000,38.0,15.0,23.0,2.0,0.95,317.0,283.0,170.0,0.601,160.0,198.0
+2015,2014-15,Trinidad State,trinidadstatejuniorcollege,1980,59.0,36.0,23.0,11.0,0.843,493.0,300.0,237.0,0.79,132.0,313.0
+2015,2014-15,Triton,tritoncollege,1769,43.0,24.0,21.0,3.0,0.938,380.0,237.0,175.0,0.738,178.0,240.0
+2015,2014-15,Tyler,tylerjuniorcollege,3096,49.0,41.0,8.0,8.0,0.86,301.0,173.0,136.0,0.786,126.0,398.0
+2015,2014-15,UConn Avery Point,universityofconnecticutataverypoint,1482,2.0,32.0,10.0,7.0,0.857,236.0,144.0,87.0,0.604,92.0,333.0
+2015,2014-15,USC Lancaster,usclancaster,1860,5.0,30.0,17.0,6.0,0.887,310.0,207.0,165.0,0.797,178.0,272.0
+2015,2014-15,USC Salkehatchie,uscsalkehatchie,853,35.0,16.0,35.0,5.0,0.911,404.0,255.0,186.0,0.729,225.0,242.0
+2015,2014-15,USC Sumter,uscsumter,2244,59.0,43.0,21.0,9.0,0.877,475.0,272.0,197.0,0.724,194.0,454.0
+2015,2014-15,Ulster County,ulstercountycommunitycollege,810,1.0,10.0,3.0,0.0,1.0,164.0,94.0,82.0,0.872,73.0,111.0
+2015,2014-15,Union,unioncountycollege,836,29.0,4.0,27.0,2.0,0.939,295.0,333.0,204.0,0.613,187.0,147.0
+2015,2014-15,Utah State Eastern,utahstateeastern,1265,50.0,13.0,38.0,1.0,0.981,418.0,307.0,242.0,0.788,249.0,244.0
+2015,2014-15,Vernon,vernoncollege,1323,0.0,12.0,36.0,4.0,0.923,510.0,432.0,339.0,0.785,232.0,245.0
+2015,2014-15,Vincennes,vincennesuniversity,1716,52.0,27.0,25.0,7.0,0.881,408.0,307.0,232.0,0.756,228.0,250.0
+2015,2014-15,Volunteer State,volunteerstatecommunitycollege,1350,43.0,27.0,16.0,4.0,0.915,313.0,253.0,189.0,0.747,222.0,270.0
+2015,2014-15,Wabash Valley,wabashvalleycollege,1850,3.0,29.0,19.0,11.0,0.814,343.0,208.0,146.0,0.702,147.0,346.0
+2015,2014-15,Wake Tech,waketechnicalcommunitycollege,1363,2.0,29.0,10.0,3.0,0.929,278.0,130.0,95.0,0.731,119.0,293.0
+2015,2014-15,Wallace State,wallacestatecommunitycollegehancevil,1855,8.0,22.0,18.0,3.0,0.93,300.0,184.0,128.0,0.696,167.0,279.0
+2015,2014-15,Wallace-Dothan,wallacecommunitycollegedothan,1508,8.0,29.0,24.0,14.0,0.791,378.0,224.0,157.0,0.701,181.0,259.0
+2015,2014-15,Wallace-Selma,wallacecommunitycollegeselma,1534,54.0,25.0,29.0,8.0,0.871,395.0,267.0,203.0,0.76,221.0,243.0
+2015,2014-15,Walters State,waltersstatecommunitycollege,2160,69.0,57.0,12.0,13.0,0.841,479.0,256.0,199.0,0.777,178.0,568.0
+2015,2014-15,Waubonsee,waubonseecommunitycollege,1920,50.0,14.0,37.0,1.0,0.981,486.0,375.0,293.0,0.781,195.0,249.0
+2015,2014-15,Weatherford,weatherfordcollege,1914,53.0,25.0,8.0,4.0,0.892,469.0,278.0,225.0,0.809,163.0,374.0
+2015,2014-15,Wentworth Military,wentworthmilitaryacademy,1104,17.0,11.0,24.0,3.0,0.921,288.0,270.0,206.0,0.763,162.0,199.0
+2015,2014-15,West Georgia Tech,westgeorgiatechnicalcollege,1595,41.0,22.0,20.0,9.0,0.824,320.0,219.0,155.0,0.708,213.0,220.0
+2015,2014-15,Westchester,westchestercommunitycollege,1560,5.0,43.0,6.0,9.0,0.845,319.0,183.0,135.0,0.738,146.0,338.0
+2015,2014-15,Western Nebraska,westernnebraskacommunitycollege,1770,35.0,9.0,21.0,3.0,0.909,268.0,219.0,148.0,0.676,130.0,177.0
+2015,2014-15,Western Nevada,westernnevadacollege,1475,59.0,33.0,26.0,10.0,0.855,391.0,249.0,170.0,0.683,214.0,380.0
+2015,2014-15,Western Oklahoma State,westernoklahomastatecollege,1863,0.0,53.0,13.0,14.0,0.825,468.0,293.0,211.0,0.72,173.0,539.0
+2015,2014-15,Western Tech,westerntechnicalcollege,774,34.0,5.0,29.0,0.0,1.0,317.0,316.0,242.0,0.766,166.0,108.0
+2015,2014-15,Western Texas,westerntexascollege,1540,54.0,11.0,41.0,3.0,0.945,541.0,488.0,369.0,0.756,248.0,351.0
+2015,2014-15,Westmoreland,westmorelandcountycommunitycollege,918,27.0,7.0,10.0,1.0,0.944,270.0,227.0,169.0,0.744,122.0,125.0
+2015,2014-15,Wharton County,whartoncountyjuniorcollege,1728,9.0,27.0,27.0,9.0,0.857,440.0,291.0,191.0,0.656,181.0,279.0
+2015,2014-15,Williston State,willistonstatecollege,860,43.0,28.0,15.0,0.0,1.0,275.0,161.0,127.0,0.789,106.0,247.0
+2015,2014-15,Yavapai,yavapaicollege,1575,63.0,45.0,18.0,16.0,0.797,474.0,334.0,269.0,0.805,267.0,419.0
