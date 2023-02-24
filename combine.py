@@ -46,6 +46,7 @@ def mergeBattingStats():
     df = mergeFilesMultithreaded(f)
     max_season = df['season'].max()
     min_season = df['season'].min()
+
     for i in range(min_season,max_season+1):
         s_df = df[df['season'] == i]
         s_df.to_parquet(f'game_stats/player/batting_game_stats/parquet/{i}_batting.parquet')

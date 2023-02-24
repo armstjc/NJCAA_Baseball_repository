@@ -157,14 +157,26 @@ def getNjcaaGamelogs(teams_df: pd.DataFrame()):
                         game_score = str(game_score_raw[1]).replace(',', '')
                     except:
                         game_score = None
-                    try:
-                        game_team_score = str(game_score.split('-', -1)[0])
-                    except:
-                        game_team_score = None
-                    try:
-                        game_opp_score = str(game_score.split('-', -1)[1])
-                    except:
-                        game_opp_score = None
+
+                    if game_result == "L":
+                        try:
+                            game_team_score = str(game_score.split('-', -1)[1])
+                        except:
+                            game_team_score = None
+                        try:
+                            game_opp_score = str(game_score.split('-', -1)[0])
+                        except:
+                            game_opp_score = None
+                    else:
+                        try:
+                            game_team_score = str(game_score.split('-', -1)[0])
+                        except:
+                            game_team_score = None
+                        try:
+                            game_opp_score = str(game_score.split('-', -1)[1])
+                        except:
+                            game_opp_score = None
+
                     try:
                         game_score_diff = int(
                             game_team_score) - int(game_opp_score)
