@@ -1,10 +1,19 @@
 date,location,opponent,result,score,team_score,opp_score,game_score_diff,game_win_loss,game_id,GS,W,L,SV,IP,H,R,ER,ERA,BB,K,HR,season,njcaa_season,njcaa_division,team,team_id,player_id,player_name
+Feb 11,home,Weatherford,L,3-0,3.0,0.0,3.0,win,20230211_8f31,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2023,2022-23,div1,Lamar,lamarcommunitycollege,skylerahernj2fm,Skyler Ahern
+Feb 10,home,Weatherford,L,9-3,9.0,3.0,6.0,win,20230210_un19,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2023,2022-23,div1,Lamar,lamarcommunitycollege,skylerahernj2fm,Skyler Ahern
+Feb 10,home,Weatherford,L,4-3,4.0,3.0,1.0,win,20230210_1lae,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2023,2022-23,div1,Lamar,lamarcommunitycollege,skylerahernj2fm,Skyler Ahern
+Feb 5,home,Southern Nevada,L,14-3,14.0,3.0,11.0,win,20230205_bb7x,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2023,2022-23,div1,Lamar,lamarcommunitycollege,skylerahernj2fm,Skyler Ahern
+Feb 4,home,Central Arizona,L,12-5,12.0,5.0,7.0,win,20230204_7k4y,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2023,2022-23,div1,Lamar,lamarcommunitycollege,skylerahernj2fm,Skyler Ahern
+Feb 3,home,South Mountain,L,6-3,6.0,3.0,3.0,win,20230203_z6td,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2023,2022-23,div1,Lamar,lamarcommunitycollege,skylerahernj2fm,Skyler Ahern
 Feb 3,home,GateWay (AZ),L,10-0,10.0,0.0,10.0,win,20230203_rj7r,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2023,2022-23,div1,Lamar,lamarcommunitycollege,skylerahernj2fm,Skyler Ahern
 Feb 18,home,Yavapai,L,6-4,6.0,4.0,2.0,win,20230218_u448,0.0,0.0,0.0,0.0,2.0,4.0,2.0,2.0,9.0,,5.0,,2023,2022-23,div1,Cochise,cochisecollege,mathiaslacombe0ijx,Mathias Lacombe
 Feb 14,home,Central Arizona,L,4-1,4.0,1.0,3.0,win,20230214_2kj7,0.0,0.0,0.0,0.0,2.0,2.0,,,0.0,,4.0,,2023,2022-23,div1,Cochise,cochisecollege,mathiaslacombe0ijx,Mathias Lacombe
 Feb 7,home,Utah State Eastern,W,10-4,10.0,4.0,6.0,win,20230207_rros,0.0,0.0,0.0,0.0,1.0,,,,0.0,,2.0,,2023,2022-23,div1,Cochise,cochisecollege,mathiaslacombe0ijx,Mathias Lacombe
 Jan 28,home,Colorado Northwestern,W,4-1,4.0,1.0,3.0,win,20230128_zpgf,0.0,0.0,0.0,0.0,1.0,,,,0.0,,2.0,,2023,2022-23,div1,Cochise,cochisecollege,mathiaslacombe0ijx,Mathias Lacombe
 Jan 27,home,Colorado Northwestern,W,4-1,4.0,1.0,3.0,win,20230127_asfs,0.0,0.0,0.0,1.0,1.0,1.0,,,0.0,,3.0,,2023,2022-23,div1,Cochise,cochisecollege,mathiaslacombe0ijx,Mathias Lacombe
+Feb 19,home,Copiah-Lincoln,L,5-1,5.0,1.0,4.0,win,20230219_tzc6,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2023,2022-23,div1,Kaskaskia,kaskaskiacollege,justinbogardg6fp,Justin Bogard
+Feb 18,home,Southwest Mississippi,W,3-2,3.0,2.0,1.0,win,20230218_52st,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2023,2022-23,div1,Kaskaskia,kaskaskiacollege,justinbogardg6fp,Justin Bogard
+Feb 18,home,Southwest Mississippi,L,5-4,5.0,4.0,1.0,win,20230218_iyyw,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2023,2022-23,div1,Kaskaskia,kaskaskiacollege,justinbogardg6fp,Justin Bogard
 Feb 11,home,Northeast Mississippi,W,12-8,12.0,8.0,4.0,win,20230211_sv83,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2023,2022-23,div1,Kaskaskia,kaskaskiacollege,justinbogardg6fp,Justin Bogard
 Feb 11,home,Northeast Mississippi,W,8-7,8.0,7.0,1.0,win,20230211_9zfr,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2023,2022-23,div1,Kaskaskia,kaskaskiacollege,justinbogardg6fp,Justin Bogard
 Feb 10,home,Northeast Mississippi,L,9-8,9.0,8.0,1.0,win,20230210_hngn,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2023,2022-23,div1,Kaskaskia,kaskaskiacollege,justinbogardg6fp,Justin Bogard
@@ -23,6 +32,8 @@ Feb 6,home,Benedictine University JV,W,6-0,6.0,0.0,6.0,win,20230206_kwl0,0.0,0.0
 Jan 28,home,Luna,W,5-4,5.0,4.0,1.0,win,20230128_nhfi,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2023,2022-23,div1,Eastern Arizona,easternarizonacollege,gustavosotopr8x,Gustavo Soto
 Jan 28,home,Luna,W,2-0,2.0,0.0,2.0,win,20230128_2pkd,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2023,2022-23,div1,Eastern Arizona,easternarizonacollege,gustavosotopr8x,Gustavo Soto
 Jan 27,home,Luna,L,4-2,4.0,2.0,2.0,win,20230127_cu57,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2023,2022-23,div1,Eastern Arizona,easternarizonacollege,gustavosotopr8x,Gustavo Soto
+Feb 21,home,Coastal Bend,W,6-2,6.0,2.0,4.0,win,20230221_aen7,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2023,2022-23,div1,San Jacinto-North,sanjacintocollegenorth,josetorresr131,Jose Torres
+Feb 20,home,Temple,L,8-7,8.0,7.0,1.0,win,20230220_3yst,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2023,2022-23,div1,San Jacinto-North,sanjacintocollegenorth,josetorresr131,Jose Torres
 Feb 19,home,Monroe College,W,10-7,10.0,7.0,3.0,win,20230219_7v6q,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2023,2022-23,div1,San Jacinto-North,sanjacintocollegenorth,josetorresr131,Jose Torres
 Feb 17,home,Monroe College,W,16-2,16.0,2.0,14.0,win,20230217_3f6g,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2023,2022-23,div1,San Jacinto-North,sanjacintocollegenorth,josetorresr131,Jose Torres
 Feb 16,home,Monroe College,W,11-0,11.0,0.0,11.0,win,20230216_5uew,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2023,2022-23,div1,San Jacinto-North,sanjacintocollegenorth,josetorresr131,Jose Torres
@@ -113,6 +124,8 @@ Feb 5,home,Salt Lake,L,19-6,19.0,6.0,13.0,win,20230205_ujf9,0.0,0.0,0.0,0.0,0.0,
 Feb 4,home,El Paso,W,9-1,9.0,1.0,8.0,win,20230204_n390,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2023,2022-23,div1,Yavapai,yavapaicollege,judehalld18i,Jude Hall
 Feb 3,home,New Mexico,L,5-2,5.0,2.0,3.0,win,20230203_e7yw,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2023,2022-23,div1,Yavapai,yavapaicollege,judehalld18i,Jude Hall
 Feb 3,home,Central Arizona,L,4-0,4.0,0.0,4.0,win,20230203_r790,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2023,2022-23,div1,Yavapai,yavapaicollege,judehalld18i,Jude Hall
+Feb 21,home,Ozarks University,W,10-1,10.0,1.0,9.0,win,20230221_hza3,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2023,2022-23,div1,Connors State,connorsstatecollege,elijahalexanderlgyk,Elijah Alexander
+Feb 21,home,Ozarks University,W,11-0,11.0,0.0,11.0,win,20230221_pxbg,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2023,2022-23,div1,Connors State,connorsstatecollege,elijahalexanderlgyk,Elijah Alexander
 Feb 20,home,Arkansas Tech,W,7-6,7.0,6.0,1.0,win,20230220_plnk,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2023,2022-23,div1,Connors State,connorsstatecollege,elijahalexanderlgyk,Elijah Alexander
 Feb 20,home,Arkansas Tech,W,16-6,16.0,6.0,10.0,win,20230220_tr0s,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2023,2022-23,div1,Connors State,connorsstatecollege,elijahalexanderlgyk,Elijah Alexander
 Feb 18,home,TCS Postgrad,W,15-7,15.0,7.0,8.0,win,20230218_5xox,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2023,2022-23,div1,Connors State,connorsstatecollege,elijahalexanderlgyk,Elijah Alexander
@@ -225,6 +238,9 @@ Feb 14,home,Lenoir,W,8-3,8.0,3.0,5.0,win,20230214_d9fj,0.0,0.0,0.0,0.0,0.0,0.0,0
 Feb 11,home,Camp,W,7-0,7.0,0.0,7.0,win,20230211_0rqm,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2023,2022-23,div1,Louisburg,louisburgcollege,drewstanleyagdp,Drew Stanley
 Feb 11,home,Camp,W,6-2,6.0,2.0,4.0,win,20230211_pjak,1.0,1.0,0.0,0.0,4.0,4.0,2.0,2.0,4.5,2.0,6.0,1.0,2023,2022-23,div1,Louisburg,louisburgcollege,drewstanleyagdp,Drew Stanley
 Feb 5,home,Bryant & Stratton (VA),L,2-1,2.0,1.0,1.0,win,20230205_itkm,1.0,0.0,0.0,0.0,4.0,2.0,1.0,1.0,2.25,0.0,6.0,1.0,2023,2022-23,div1,Louisburg,louisburgcollege,drewstanleyagdp,Drew Stanley
+Feb 18,home,Des Moines Area,W,4-3,4.0,3.0,1.0,win,20230218_6hpa,0.0,0.0,0.0,0.0,1.1,,,,0.0,1.0,,,2023,2022-23,div3,Dallas College - Eastfield,dallascollegeeastfield,marcuspetersfc0g,Marcus Peters
+Feb 15,home,Wharton County,L,4-3,4.0,3.0,1.0,win,20230215_iddb,0.0,0.0,0.0,0.0,1.0,2.0,,,0.0,,1.0,,2023,2022-23,div3,Dallas College - Eastfield,dallascollegeeastfield,marcuspetersfc0g,Marcus Peters
+Feb 6,home,LeTourneau,W,6-0,6.0,0.0,6.0,win,20230206_7n4e,0.0,0.0,0.0,0.0,1.0,,,,0.0,,1.0,,2023,2022-23,div3,Dallas College - Eastfield,dallascollegeeastfield,marcuspetersfc0g,Marcus Peters
 Feb 5,home,Eastern Oklahoma State,L,13-2,13.0,2.0,11.0,win,20230205_qiwd,0.0,0.0,1.0,0.0,1.2,3.0,6.0,3.0,16.2,2.0,5.0,,2023,2022-23,div1,Garden City,gardencitycommunitycollege,kurisuuetai5zi,Kurisu Ueta
 Feb 19,home,Hudson Valley,W,11-3,11.0,3.0,8.0,win,20230219_ehet,0.0,0.0,0.0,0.0,2.0,2.0,2.0,2.0,9.0,1.0,2.0,,2023,2022-23,div2,Anne Arundel,annearundelcommunitycollege,bradymacdonaldezbr,Brady MacDonald
 Feb 18,home,Hudson Valley,W,2-1,2.0,1.0,1.0,win,20230218_wcxz,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2023,2022-23,div2,Anne Arundel,annearundelcommunitycollege,bradymacdonaldezbr,Brady MacDonald
@@ -328,6 +344,7 @@ Feb 10,home,Southwest Mississippi,W,8-7,8.0,7.0,1.0,win,20230210_sg8h,0.0,0.0,0.
 Feb 4,home,East Central (MS),W,2-1,2.0,1.0,1.0,win,20230204_yujx,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2023,2022-23,div1,Mineral Area,mineralareacollege,kaleblemos4eb2,Kaleb Lemos
 Feb 4,home,Pensacola State,L,8-2,8.0,2.0,6.0,win,20230204_3epa,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2023,2022-23,div1,Mineral Area,mineralareacollege,kaleblemos4eb2,Kaleb Lemos
 Feb 3,home,Pensacola State,W,16-13,16.0,13.0,3.0,win,20230203_tx6j,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2023,2022-23,div1,Mineral Area,mineralareacollege,kaleblemos4eb2,Kaleb Lemos
+Feb 20,home,Temple,L,8-7,8.0,7.0,1.0,win,20230220_3yst,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2023,2022-23,div1,San Jacinto-North,sanjacintocollegenorth,derekgippsonyya9,Derek Gippson
 Feb 19,home,Monroe College,W,10-7,10.0,7.0,3.0,win,20230219_7v6q,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2023,2022-23,div1,San Jacinto-North,sanjacintocollegenorth,derekgippsonyya9,Derek Gippson
 Feb 17,home,Monroe College,W,16-2,16.0,2.0,14.0,win,20230217_3f6g,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2023,2022-23,div1,San Jacinto-North,sanjacintocollegenorth,derekgippsonyya9,Derek Gippson
 Feb 11,home,Baton Rouge,W,11-2,11.0,2.0,9.0,win,20230211_5exr,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2023,2022-23,div1,San Jacinto-North,sanjacintocollegenorth,derekgippsonyya9,Derek Gippson
@@ -338,12 +355,14 @@ Feb 4,home,Mineral Area,W,8-2,8.0,2.0,6.0,win,20230204_3epa,0.0,0.0,0.0,0.0,1.2,
 Feb 3,home,Mineral Area,L,16-13,16.0,13.0,3.0,win,20230203_tx6j,0.0,0.0,0.0,0.0,0.2,1.0,,,0.0,,2.0,,2023,2022-23,div1,Pensacola State,pensacolastatecollege,jakecohenumuy,Jake Cohen
 Jan 28,home,Southwest Tennessee,L,3-2,3.0,2.0,1.0,win,20230128_3w4m,0.0,0.0,0.0,0.0,1.0,3.0,2.0,2.0,18.0,1.0,,,2023,2022-23,div1,Pensacola State,pensacolastatecollege,jakecohenumuy,Jake Cohen
 Feb 11,home,Oklahoma Wesleyan JV,W,9-0,9.0,0.0,9.0,win,20230211_410t,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2023,2022-23,div1,Labette,labettecommunitycollege,zacharyisbellq3du,Zachary Isbell
+Feb 21,home,Redlands,L,6-5,6.0,5.0,1.0,win,20230221_gwyl,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2023,2022-23,div1,Rose State,rosestatecollege,jaretjohnsonm56u,Jaret Johnson
 Feb 18,home,Colby,W,8-4,8.0,4.0,4.0,win,20230218_qaa3,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2023,2022-23,div1,Rose State,rosestatecollege,jaretjohnsonm56u,Jaret Johnson
 Feb 14,home,Redlands,W,20-6,20.0,6.0,14.0,win,20230214_0ou4,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2023,2022-23,div1,Rose State,rosestatecollege,jaretjohnsonm56u,Jaret Johnson
 Feb 11,home,Barton,L,12-2,12.0,2.0,10.0,win,20230211_b9lq,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2023,2022-23,div1,Rose State,rosestatecollege,jaretjohnsonm56u,Jaret Johnson
 Feb 4,home,Carl Albert State,W,13-10,13.0,10.0,3.0,win,20230204_mh2p,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2023,2022-23,div1,Rose State,rosestatecollege,jaretjohnsonm56u,Jaret Johnson
 Feb 4,home,Carl Albert State,W,17-7,17.0,7.0,10.0,win,20230204_tsn4,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2023,2022-23,div1,Rose State,rosestatecollege,jaretjohnsonm56u,Jaret Johnson
 Feb 18,home,Meridian,L,14-0,14.0,0.0,14.0,win,20230218_hzq7,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2023,2022-23,div2,East Central (MO),eastcentralcollege,devonjenningst92v,Devon Jennings
+Feb 22,home,Santa Fe,L,10-2,10.0,2.0,8.0,win,20230222_8mey,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2023,2022-23,div1,Tallahassee,tallahasseecommunitycollege,ziggythomasojdn,Ziggy Thomas
 Feb 18,home,State College of Florida,L,8-2,8.0,2.0,6.0,win,20230218_mb1t,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2023,2022-23,div1,Tallahassee,tallahasseecommunitycollege,ziggythomasojdn,Ziggy Thomas
 Feb 17,home,State College of Florida,W,11-10,11.0,10.0,1.0,win,20230217_roj1,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2023,2022-23,div1,Tallahassee,tallahasseecommunitycollege,ziggythomasojdn,Ziggy Thomas
 Feb 13,home,Shelton State,W,12-2,12.0,2.0,10.0,win,20230213_bfqx,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2023,2022-23,div1,Tallahassee,tallahasseecommunitycollege,ziggythomasojdn,Ziggy Thomas
@@ -355,6 +374,15 @@ Feb 4,home,Florida State Jacksonville,W,13-4,13.0,4.0,9.0,win,20230204_rtl8,0.0,
 Jan 29,home,South Georgia State,W,4-3,4.0,3.0,1.0,win,20230129_6g7w,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2023,2022-23,div1,Tallahassee,tallahasseecommunitycollege,ziggythomasojdn,Ziggy Thomas
 Jan 29,home,South Georgia State,W,8-3,8.0,3.0,5.0,win,20230129_g96p,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2023,2022-23,div1,Tallahassee,tallahasseecommunitycollege,ziggythomasojdn,Ziggy Thomas
 Feb 18,home,USC Salkehatchie,W,12-2,12.0,2.0,10.0,win,20230218_t9e7,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2023,2022-23,div1,Andrew,andrewcollege,tylerlambertb4je,Tyler Lambert
+Feb 22,home,Dallas College - Mountain View,W,11-5,11.0,5.0,6.0,win,20230222_g9c4,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2023,2022-23,div3,Dallas College - Eastfield,dallascollegeeastfield,joseramirezhlxw,Jose Ramirez
+Feb 18,home,Des Moines Area,W,4-3,4.0,3.0,1.0,win,20230218_6hpa,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2023,2022-23,div3,Dallas College - Eastfield,dallascollegeeastfield,joseramirezhlxw,Jose Ramirez
+Feb 15,home,Texas Post Grad,W,10-2,10.0,2.0,8.0,win,20230215_a12d,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2023,2022-23,div3,Dallas College - Eastfield,dallascollegeeastfield,joseramirezhlxw,Jose Ramirez
+Feb 12,home,North Arkansas,W,3-2,3.0,2.0,1.0,win,20230212_2aaz,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2023,2022-23,div3,Dallas College - Eastfield,dallascollegeeastfield,joseramirezhlxw,Jose Ramirez
+Feb 11,home,DFW Post Grad,W,9-0,9.0,0.0,9.0,win,20230211_3b0n,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2023,2022-23,div3,Dallas College - Eastfield,dallascollegeeastfield,joseramirezhlxw,Jose Ramirez
+Feb 10,home,DFW Post Grad,W,3-1,3.0,1.0,2.0,win,20230210_3gdd,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2023,2022-23,div3,Dallas College - Eastfield,dallascollegeeastfield,joseramirezhlxw,Jose Ramirez
+Feb 6,home,LeTourneau,W,8-1,8.0,1.0,7.0,win,20230206_dm3d,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2023,2022-23,div3,Dallas College - Eastfield,dallascollegeeastfield,joseramirezhlxw,Jose Ramirez
+Feb 19,home,Southwestern,W,8-4,8.0,4.0,4.0,win,20230219_dcc9,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2023,2022-23,div1,Johnson County,johnsoncountycommunitycollege,dylanhufftbmfi,Dylan Hufft
+Feb 19,home,Southwestern,W,5-3,5.0,3.0,2.0,win,20230219_oa5y,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2023,2022-23,div1,Johnson County,johnsoncountycommunitycollege,dylanhufftbmfi,Dylan Hufft
 Feb 18,home,Southwestern,W,10-0,10.0,0.0,10.0,win,20230218_nz0e,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2023,2022-23,div1,Johnson County,johnsoncountycommunitycollege,dylanhufftbmfi,Dylan Hufft
 Feb 18,home,Southwestern,W,14-4,14.0,4.0,10.0,win,20230218_hy85,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2023,2022-23,div1,Johnson County,johnsoncountycommunitycollege,dylanhufftbmfi,Dylan Hufft
 Feb 11,home,Crowder,W,9-8,9.0,8.0,1.0,win,20230211_u40t,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2023,2022-23,div1,Johnson County,johnsoncountycommunitycollege,dylanhufftbmfi,Dylan Hufft
@@ -612,6 +640,7 @@ Jan 27,home,Spartan Post Grad,W,9-2,9.0,2.0,7.0,win,20230127_tdoz,0.0,0.0,0.0,0.
 Jan 27,home,Spartan Post Grad,W,11-1,11.0,1.0,10.0,win,20230127_ziop,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2023,2022-23,div1,Coastal Bend,coastalbendcollege,keagansolomonogar,Keagan Solomon
 Feb 14,home,Lenoir,W,8-3,8.0,3.0,5.0,win,20230214_d9fj,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,2023,2022-23,div1,Louisburg,louisburgcollege,covemashburn1u42,Cove Mashburn
 Feb 8,home,Lenoir,L,6-4,6.0,4.0,2.0,win,20230208_mmqe,0.0,0.0,0.0,0.0,1.0,2.0,1.0,1.0,9.0,1.0,1.0,,2023,2022-23,div1,Louisburg,louisburgcollege,covemashburn1u42,Cove Mashburn
+Feb 21,home,Ozarks University,W,10-1,10.0,1.0,9.0,win,20230221_hza3,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,2023,2022-23,div1,Connors State,connorsstatecollege,alexspringer8c19,Alex Springer
 Feb 11,home,Cecil,W,7-6,7.0,6.0,1.0,win,20230211_mric,0.0,0.0,0.0,0.0,1.0,2.0,3.0,3.0,27.0,2.0,1.0,,2023,2022-23,div2,Delaware Tech,delawaretechnicalcommunitycollege,jeremynetsch21la,Jeremy Netsch
 Feb 18,home,Louisburg,L,6-4,6.0,4.0,2.0,win,20230218_rx0c,0.0,0.0,0.0,0.0,0.2,1.0,0.0,0.0,0.0,0.0,1.0,0.0,2023,2022-23,div2,Wake Tech,waketechnicalcommunitycollege,treyhodgin8yl1,Trey Hodgin
 Feb 11,home,CCBC Dundalk,W,11-5,11.0,5.0,6.0,win,20230211_pcxx,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,2023,2022-23,div2,Wake Tech,waketechnicalcommunitycollege,treyhodgin8yl1,Trey Hodgin
@@ -689,6 +718,7 @@ Feb 8,home,William Peace University JV,L,7-5,7.0,5.0,2.0,win,20230208_hr8y,0.0,0
 Feb 5,home,Caldwell Tech,L,9-8,9.0,8.0,1.0,win,20230205_c92y,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2023,2022-23,div2,Wake Tech,waketechnicalcommunitycollege,cameronverrierc6ht,Cameron Verrier
 Feb 5,home,Caldwell Tech,L,16-8,16.0,8.0,8.0,win,20230205_6791,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2023,2022-23,div2,Wake Tech,waketechnicalcommunitycollege,cameronverrierc6ht,Cameron Verrier
 Feb 9,home,Gordon State,L,10-8,10.0,8.0,2.0,win,20230209_g9s7,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2023,2022-23,div1,Roane State,roanestatecommunitycollege,evanpetrie3xwo,Evan Petrie
+Feb 22,home,Brunswick,W,15-5,15.0,5.0,10.0,win,20230222_3h90,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2023,2022-23,div1,Florence-Darlington Tech,florencedarlingtontechnicalcollege,andersonfulkskx8,Anderson Fulk
 Feb 19,home,Southeastern-Whiteville,W,4-2,4.0,2.0,2.0,win,20230219_3wsy,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2023,2022-23,div1,Florence-Darlington Tech,florencedarlingtontechnicalcollege,andersonfulkskx8,Anderson Fulk
 Feb 18,home,Southeastern-Whiteville,W,6-2,6.0,2.0,4.0,win,20230218_9wtb,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2023,2022-23,div1,Florence-Darlington Tech,florencedarlingtontechnicalcollege,andersonfulkskx8,Anderson Fulk
 Feb 18,home,Harford,W,5-4,5.0,4.0,1.0,win,20230218_3fs5,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2023,2022-23,div1,Florence-Darlington Tech,florencedarlingtontechnicalcollege,andersonfulkskx8,Anderson Fulk
@@ -709,6 +739,10 @@ Feb 10,home,Frontier,W,10-0,10.0,0.0,10.0,win,20230210_f0wx,0.0,0.0,0.0,0.0,0.0,
 Feb 10,home,Frontier,W,6-1,6.0,1.0,5.0,win,20230210_p9vz,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2023,2022-23,div1,Wallace State,wallacestatecommunitycollegehancevil,tuckerburnsei44,Tucker Burns
 Feb 4,home,Motlow State,W,3-0,3.0,0.0,3.0,win,20230204_fkmh,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2023,2022-23,div1,Wallace State,wallacestatecommunitycollegehancevil,tuckerburnsei44,Tucker Burns
 Feb 4,home,Motlow State,L,4-3,4.0,3.0,1.0,win,20230204_qoei,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2023,2022-23,div1,Wallace State,wallacestatecommunitycollegehancevil,tuckerburnsei44,Tucker Burns
+Feb 22,home,Dallas College - Mountain View,W,11-5,11.0,5.0,6.0,win,20230222_g9c4,1.0,1.0,0.0,0.0,5.0,5.0,2.0,1.0,1.8,3.0,10.0,,2023,2022-23,div3,Dallas College - Eastfield,dallascollegeeastfield,jacobprokarym680z,Jacob Prokarym
+Feb 15,home,Wharton County,L,4-3,4.0,3.0,1.0,win,20230215_iddb,1.0,0.0,1.0,0.0,3.1,3.0,4.0,4.0,10.8,1.0,4.0,,2023,2022-23,div3,Dallas College - Eastfield,dallascollegeeastfield,jacobprokarym680z,Jacob Prokarym
+Feb 12,home,North Arkansas,W,3-2,3.0,2.0,1.0,win,20230212_2aaz,0.0,1.0,0.0,0.0,2.0,,,,0.0,1.0,3.0,,2023,2022-23,div3,Dallas College - Eastfield,dallascollegeeastfield,jacobprokarym680z,Jacob Prokarym
+Feb 6,home,LeTourneau,W,8-1,8.0,1.0,7.0,win,20230206_dm3d,0.0,0.0,0.0,0.0,2.0,,,,0.0,,5.0,,2023,2022-23,div3,Dallas College - Eastfield,dallascollegeeastfield,jacobprokarym680z,Jacob Prokarym
 Feb 12,home,Howard (TX),L,8-7,8.0,7.0,1.0,win,20230212_ui8t,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2023,2022-23,div1,Grayson,graysoncollege,blakemccarthyemmm,Blake McCarthy
 Feb 12,home,Howard (TX),W,8-7,8.0,7.0,1.0,win,20230212_alow,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2023,2022-23,div1,Grayson,graysoncollege,blakemccarthyemmm,Blake McCarthy
 Feb 11,home,Wharton County,W,2-1,2.0,1.0,1.0,win,20230211_r7m9,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2023,2022-23,div1,Grayson,graysoncollege,blakemccarthyemmm,Blake McCarthy
@@ -783,6 +817,8 @@ Feb 15,home,Dyersburg State,L,7-6,7.0,6.0,1.0,win,20230215_ccqv,0.0,0.0,0.0,0.0,
 Feb 13,home,North Iowa Area,L,12-11,12.0,11.0,1.0,win,20230213_zne2,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2023,2022-23,div1,Three Rivers,threeriverscommunitycollegemo,charlieparker9673,Charlie Parker
 Feb 12,home,North Iowa Area,W,5-3,5.0,3.0,2.0,win,20230212_0vrl,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2023,2022-23,div1,Three Rivers,threeriverscommunitycollegemo,charlieparker9673,Charlie Parker
 Feb 12,home,North Iowa Area,W,6-5,6.0,5.0,1.0,win,20230212_7w86,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2023,2022-23,div1,Three Rivers,threeriverscommunitycollegemo,charlieparker9673,Charlie Parker
+Feb 19,home,Southeastern Illinois,L,4-3,4.0,3.0,1.0,win,20230219_19hc,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2023,2022-23,div1,Kishwaukee,kishwaukeecollege,adamraclawski6rji,Adam Raclawski
+Feb 18,home,Southeastern Illinois,L,11-1,11.0,1.0,10.0,win,20230218_ao2e,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2023,2022-23,div1,Kishwaukee,kishwaukeecollege,adamraclawski6rji,Adam Raclawski
 Feb 18,home,Southeastern Illinois,L,7-6,7.0,6.0,1.0,win,20230218_6kph,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2023,2022-23,div1,Kishwaukee,kishwaukeecollege,adamraclawski6rji,Adam Raclawski
 Feb 21,home,Lurleen B. Wallace,W,15-2,15.0,2.0,13.0,win,20230221_p7da,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2023,2022-23,div1,Northwest Florida State,northwestfloridastatecollege,colbyjonest2yi,Colby Jones
 Feb 18,home,Motlow State,W,10-2,10.0,2.0,8.0,win,20230218_dd5m,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2023,2022-23,div1,Northwest Florida State,northwestfloridastatecollege,colbyjonest2yi,Colby Jones
@@ -875,6 +911,20 @@ Feb 5,home,Florida SouthWestern State,L,16-1,16.0,1.0,15.0,win,20230205_rkxc,0.0
 Feb 4,home,McLennan,L,4-3,4.0,3.0,1.0,win,20230204_0a8z,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2023,2022-23,div1,Wabash Valley,wabashvalleycollege,keatonmahanzlt9,Keaton Mahan
 Feb 4,home,Wallace-Dothan,L,3-2,3.0,2.0,1.0,win,20230204_555f,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2023,2022-23,div1,Wabash Valley,wabashvalleycollege,keatonmahanzlt9,Keaton Mahan
 Feb 3,home,Northwest Florida State,W,2-1,2.0,1.0,1.0,win,20230203_jflz,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2023,2022-23,div1,Wabash Valley,wabashvalleycollege,keatonmahanzlt9,Keaton Mahan
+Feb 22,home,Dallas College - Mountain View,W,11-5,11.0,5.0,6.0,win,20230222_g9c4,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2023,2022-23,div3,Dallas College - Eastfield,dallascollegeeastfield,rivercurs2k5y,River Curs
+Feb 20,home,Tyler,L,16-12,16.0,12.0,4.0,win,20230220_4vsc,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2023,2022-23,div3,Dallas College - Eastfield,dallascollegeeastfield,rivercurs2k5y,River Curs
+Feb 18,home,Des Moines Area,L,4-3,4.0,3.0,1.0,win,20230218_ygw3,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2023,2022-23,div3,Dallas College - Eastfield,dallascollegeeastfield,rivercurs2k5y,River Curs
+Feb 18,home,Des Moines Area,W,4-3,4.0,3.0,1.0,win,20230218_6hpa,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2023,2022-23,div3,Dallas College - Eastfield,dallascollegeeastfield,rivercurs2k5y,River Curs
+Feb 16,home,Blinn,L,5-4,5.0,4.0,1.0,win,20230216_j7uu,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2023,2022-23,div3,Dallas College - Eastfield,dallascollegeeastfield,rivercurs2k5y,River Curs
+Feb 15,home,Texas Post Grad,W,10-2,10.0,2.0,8.0,win,20230215_a12d,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2023,2022-23,div3,Dallas College - Eastfield,dallascollegeeastfield,rivercurs2k5y,River Curs
+Feb 15,home,Wharton County,L,4-3,4.0,3.0,1.0,win,20230215_iddb,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2023,2022-23,div3,Dallas College - Eastfield,dallascollegeeastfield,rivercurs2k5y,River Curs
+Feb 12,home,North Arkansas,W,12-2,12.0,2.0,10.0,win,20230212_l9dd,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2023,2022-23,div3,Dallas College - Eastfield,dallascollegeeastfield,rivercurs2k5y,River Curs
+Feb 12,home,North Arkansas,W,3-2,3.0,2.0,1.0,win,20230212_2aaz,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2023,2022-23,div3,Dallas College - Eastfield,dallascollegeeastfield,rivercurs2k5y,River Curs
+Feb 11,home,DFW Post Grad,W,9-0,9.0,0.0,9.0,win,20230211_3b0n,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2023,2022-23,div3,Dallas College - Eastfield,dallascollegeeastfield,rivercurs2k5y,River Curs
+Feb 10,home,DFW Post Grad,W,10-0,10.0,0.0,10.0,win,20230210_d5rm,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2023,2022-23,div3,Dallas College - Eastfield,dallascollegeeastfield,rivercurs2k5y,River Curs
+Feb 10,home,DFW Post Grad,W,3-1,3.0,1.0,2.0,win,20230210_3gdd,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2023,2022-23,div3,Dallas College - Eastfield,dallascollegeeastfield,rivercurs2k5y,River Curs
+Feb 6,home,LeTourneau,W,8-1,8.0,1.0,7.0,win,20230206_dm3d,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2023,2022-23,div3,Dallas College - Eastfield,dallascollegeeastfield,rivercurs2k5y,River Curs
+Feb 6,home,LeTourneau,W,6-0,6.0,0.0,6.0,win,20230206_7n4e,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2023,2022-23,div3,Dallas College - Eastfield,dallascollegeeastfield,rivercurs2k5y,River Curs
 Feb 11,home,Redlands,W,10-2,10.0,2.0,8.0,win,20230211_70ju,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2023,2022-23,div1,Vernon,vernoncollege,jaydenhill4j1x,Jayden Hill
 Feb 11,home,Redlands,W,4-3,4.0,3.0,1.0,win,20230211_ucuk,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2023,2022-23,div1,Vernon,vernoncollege,jaydenhill4j1x,Jayden Hill
 Feb 10,home,Redlands,W,15-1,15.0,1.0,14.0,win,20230210_1wto,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2023,2022-23,div1,Vernon,vernoncollege,jaydenhill4j1x,Jayden Hill
@@ -943,6 +993,15 @@ Feb 10,home,Georgia Highlands,W,4-3,4.0,3.0,1.0,win,20230210_dzna,0.0,0.0,0.0,0.
 Feb 5,home,Northwest-Shoals Community College,W,3-1,3.0,1.0,2.0,win,20230205_6v6q,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2023,2022-23,div1,Lincoln Trail,lincolntrailcollege,colbymorsejl1c,Colby Morse
 Feb 4,home,Northwest-Shoals Community College,W,5-3,5.0,3.0,2.0,win,20230204_y6di,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2023,2022-23,div1,Lincoln Trail,lincolntrailcollege,colbymorsejl1c,Colby Morse
 Feb 4,home,Northwest-Shoals Community College,L,10-8,10.0,8.0,2.0,win,20230204_ajwc,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2023,2022-23,div1,Lincoln Trail,lincolntrailcollege,colbymorsejl1c,Colby Morse
+Feb 20,home,Tyler,L,16-12,16.0,12.0,4.0,win,20230220_4vsc,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2023,2022-23,div3,Dallas College - Eastfield,dallascollegeeastfield,griffintartereqje,Griffin Tarter
+Feb 18,home,Des Moines Area,L,4-3,4.0,3.0,1.0,win,20230218_ygw3,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2023,2022-23,div3,Dallas College - Eastfield,dallascollegeeastfield,griffintartereqje,Griffin Tarter
+Feb 16,home,Blinn,L,5-4,5.0,4.0,1.0,win,20230216_j7uu,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2023,2022-23,div3,Dallas College - Eastfield,dallascollegeeastfield,griffintartereqje,Griffin Tarter
+Feb 15,home,Wharton County,L,4-3,4.0,3.0,1.0,win,20230215_iddb,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2023,2022-23,div3,Dallas College - Eastfield,dallascollegeeastfield,griffintartereqje,Griffin Tarter
+Feb 12,home,North Arkansas,W,12-2,12.0,2.0,10.0,win,20230212_l9dd,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2023,2022-23,div3,Dallas College - Eastfield,dallascollegeeastfield,griffintartereqje,Griffin Tarter
+Feb 12,home,North Arkansas,W,3-2,3.0,2.0,1.0,win,20230212_2aaz,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2023,2022-23,div3,Dallas College - Eastfield,dallascollegeeastfield,griffintartereqje,Griffin Tarter
+Feb 11,home,DFW Post Grad,W,9-0,9.0,0.0,9.0,win,20230211_3b0n,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2023,2022-23,div3,Dallas College - Eastfield,dallascollegeeastfield,griffintartereqje,Griffin Tarter
+Feb 10,home,DFW Post Grad,W,10-0,10.0,0.0,10.0,win,20230210_d5rm,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2023,2022-23,div3,Dallas College - Eastfield,dallascollegeeastfield,griffintartereqje,Griffin Tarter
+Feb 6,home,LeTourneau,W,6-0,6.0,0.0,6.0,win,20230206_7n4e,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2023,2022-23,div3,Dallas College - Eastfield,dallascollegeeastfield,griffintartereqje,Griffin Tarter
 Feb 15,home,NC Wesleyan University JV,W,13-5,13.0,5.0,8.0,win,20230215_m4vy,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2023,2022-23,div2,Lenoir,lenoircommunitycollege,jacobstrimpleya7i,Jacob Strimple
 Feb 11,home,Richard Bland,L,10-2,10.0,2.0,8.0,win,20230211_qnhy,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2023,2022-23,div2,Lenoir,lenoircommunitycollege,jacobstrimpleya7i,Jacob Strimple
 Feb 7,home,William Peace University JV,W,8-3,8.0,3.0,5.0,win,20230207_fh3p,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2023,2022-23,div2,Lenoir,lenoircommunitycollege,jacobstrimpleya7i,Jacob Strimple
@@ -1051,6 +1110,7 @@ Feb 6,home,Weatherford,L,8-3,8.0,3.0,5.0,win,20230206_cccq,0.0,0.0,0.0,0.0,0.0,,
 Feb 4,home,Weatherford,L,1-0,1.0,0.0,1.0,win,20230204_8nez,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2023,2022-23,div1,Tyler,tylerjuniorcollege,tannerchelette497i,Tanner Chelette
 Feb 4,home,Weatherford,W,3-0,3.0,0.0,3.0,win,20230204_nqaj,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2023,2022-23,div1,Tyler,tylerjuniorcollege,tannerchelette497i,Tanner Chelette
 Jan 27,home,Frank Phillips,W,6-5,6.0,5.0,1.0,win,20230127_fguv,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2023,2022-23,div1,Tyler,tylerjuniorcollege,tannerchelette497i,Tanner Chelette
+Feb 22,home,Southeastern-Whiteville,W,18-11,18.0,11.0,7.0,win,20230222_edb1,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2023,2022-23,div1,USC Lancaster,usclancaster,buddyhowardqrh3,Buddy Howard
 Feb 19,home,Camp,L,7-1,7.0,1.0,6.0,win,20230219_oftv,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2023,2022-23,div1,USC Lancaster,usclancaster,buddyhowardqrh3,Buddy Howard
 Feb 18,home,Camp,W,4-1,4.0,1.0,3.0,win,20230218_9pdj,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2023,2022-23,div1,USC Lancaster,usclancaster,buddyhowardqrh3,Buddy Howard
 Feb 11,home,Patrick & Henry,W,6-4,6.0,4.0,2.0,win,20230211_2vk0,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2023,2022-23,div1,USC Lancaster,usclancaster,buddyhowardqrh3,Buddy Howard
@@ -1111,6 +1171,7 @@ Feb 22,home,Pro 5 Academy,L,3-2,3.0,2.0,1.0,win,20230222_sxpt,0.0,0.0,0.0,0.0,1.
 Feb 12,home,Marian-Ancilla,W,9-1,9.0,1.0,8.0,win,20230212_kq9v,0.0,0.0,0.0,0.0,1.0,,,,0.0,,,,2023,2022-23,div1,Southeastern Illinois,southeasternillinoiscollege,noahboon6v18,Noah Boon
 Feb 11,home,Marian-Ancilla,W,7-1,7.0,1.0,6.0,win,20230211_y2dt,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2023,2022-23,div1,Southeastern Illinois,southeasternillinoiscollege,noahboon6v18,Noah Boon
 Feb 11,home,Marian-Ancilla,W,14-1,14.0,1.0,13.0,win,20230211_t8w1,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2023,2022-23,div1,Southeastern Illinois,southeasternillinoiscollege,noahboon6v18,Noah Boon
+Feb 21,home,Redlands,L,6-5,6.0,5.0,1.0,win,20230221_gwyl,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2023,2022-23,div1,Rose State,rosestatecollege,krewtaylorm4e1,Krew Taylor
 Feb 18,home,Dodge City,L,1-0,1.0,0.0,1.0,win,20230218_9ix1,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2023,2022-23,div1,Rose State,rosestatecollege,krewtaylorm4e1,Krew Taylor
 Feb 17,home,Butler,W,8-3,8.0,3.0,5.0,win,20230217_dtlq,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2023,2022-23,div1,Rose State,rosestatecollege,krewtaylorm4e1,Krew Taylor
 Feb 14,home,Redlands,W,17-6,17.0,6.0,11.0,win,20230214_b0h8,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2023,2022-23,div1,Rose State,rosestatecollege,krewtaylorm4e1,Krew Taylor
@@ -1143,6 +1204,7 @@ Feb 6,home,TCS Post Grad,L,11-10,11.0,10.0,1.0,win,20230206_t3d9,0.0,0.0,0.0,0.0
 Feb 3,home,Texas Post Grad,W,6-3,6.0,3.0,3.0,win,20230203_enay,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2023,2022-23,div1,Clarendon,clarendoncollege,isaiasurriolahb59,Isaias Urriola
 Feb 3,home,Texas Post Grad,W,2-0,2.0,0.0,2.0,win,20230203_lrip,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2023,2022-23,div1,Clarendon,clarendoncollege,isaiasurriolahb59,Isaias Urriola
 Feb 12,home,SAU Tech,L,4-2,4.0,2.0,2.0,win,20230212_b2k6,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2023,2022-23,div2,Moberly Area,moberlyareacommunitycollege,nathancuppx3x3,Nathan Cupp
+Feb 21,home,New Mexico Military,L,5-4,5.0,4.0,1.0,win,20230221_58re,0.0,0.0,1.0,0.0,2.0,5.0,2.0,2.0,9.0,2.0,1.0,,2023,2022-23,div1,Luna,lunacommunitycollege,marcussanchezqyz5,Marcus Sanchez
 Feb 18,home,Ranger,L,6-1,6.0,1.0,5.0,win,20230218_9ogf,0.0,0.0,0.0,0.0,3.0,3.0,1.0,1.0,3.0,2.0,3.0,,2023,2022-23,div1,Luna,lunacommunitycollege,marcussanchezqyz5,Marcus Sanchez
 Feb 5,home,Amarillo College,L,15-5,15.0,5.0,10.0,win,20230205_0zqe,1.0,0.0,1.0,0.0,0.1,4.0,8.0,8.0,216.0,3.0,1.0,1.0,2023,2022-23,div1,Luna,lunacommunitycollege,marcussanchezqyz5,Marcus Sanchez
 Jan 28,home,Eastern Arizona,L,5-4,5.0,4.0,1.0,win,20230128_nhfi,1.0,0.0,0.0,0.0,5.0,3.0,0.0,0.0,0.0,0.0,2.0,,2023,2022-23,div1,Luna,lunacommunitycollege,marcussanchezqyz5,Marcus Sanchez
@@ -1320,6 +1382,8 @@ Feb 17,home,Northeastern Oklahoma A&M,W,11-5,11.0,5.0,6.0,win,20230217_g9f4,0.0,
 Feb 19,home,Atlantic Cape,W,15-1,15.0,1.0,14.0,win,20230219_mocf,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2023,2022-23,div2,Delaware Tech,delawaretechnicalcommunitycollege,jackford3i3w,Jack Ford
 Feb 12,home,Cecil,L,6-3,6.0,3.0,3.0,win,20230212_8v9o,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2023,2022-23,div2,Delaware Tech,delawaretechnicalcommunitycollege,jackford3i3w,Jack Ford
 Feb 11,home,Cecil,W,7-6,7.0,6.0,1.0,win,20230211_mric,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2023,2022-23,div2,Delaware Tech,delawaretechnicalcommunitycollege,jackford3i3w,Jack Ford
+Feb 21,home,Enterprise State,W,7-0,7.0,0.0,7.0,win,20230221_xlt1,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2023,2022-23,div1,Marion Military,marionmilitaryinstitute,skylersmithviso,Skyler Smith
+Feb 21,home,Enterprise State,L,5-3,5.0,3.0,2.0,win,20230221_3dw5,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2023,2022-23,div1,Marion Military,marionmilitaryinstitute,skylersmithviso,Skyler Smith
 Feb 15,home,Coastal Alabama - Monroeville,L,6-4,6.0,4.0,2.0,win,20230215_5ze0,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2023,2022-23,div1,Marion Military,marionmilitaryinstitute,skylersmithviso,Skyler Smith
 Feb 10,home,Wallace-Selma,W,8-3,8.0,3.0,5.0,win,20230210_c0o7,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2023,2022-23,div1,Marion Military,marionmilitaryinstitute,skylersmithviso,Skyler Smith
 Feb 6,home,Wallace-Selma,W,6-1,6.0,1.0,5.0,win,20230206_4qx6,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2023,2022-23,div1,Marion Military,marionmilitaryinstitute,skylersmithviso,Skyler Smith
@@ -1665,6 +1729,7 @@ Jan 27,home,Paradise Valley,W,5-2,5.0,2.0,3.0,win,20230127_db9a,0.0,0.0,0.0,0.0,
 Jan 27,home,Paradise Valley,W,8-6,8.0,6.0,2.0,win,20230127_29v3,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2023,2022-23,div1,Pima,pimacommunitycollege,luisgarcia9jx8,Luis Garcia
 Feb 11,home,Dyersburg State,W,2-0,2.0,0.0,2.0,win,20230211_b55u,1.0,1.0,0.0,0.0,4.0,1.0,0.0,0.0,0.0,2.0,10.0,0.0,2023,2022-23,div1,Jefferson (MO),jeffersoncollege,jacobroettgen43ip,Jacob Roettgen
 Feb 4,home,Columbia State,W,10-0,10.0,0.0,10.0,win,20230204_k9bc,0.0,1.0,0.0,0.0,4.0,1.0,,,0.0,,10.0,,2023,2022-23,div1,Jefferson (MO),jeffersoncollege,jacobroettgen43ip,Jacob Roettgen
+Feb 22,home,Southeastern-Whiteville,W,18-11,18.0,11.0,7.0,win,20230222_edb1,0.0,0.0,0.0,0.0,0.0,2.0,4.0,4.0,inf,1.0,,,2023,2022-23,div1,USC Lancaster,usclancaster,benrehkow714p,Ben Rehkow
 Feb 19,home,Camp,L,7-1,7.0,1.0,6.0,win,20230219_oftv,0.0,0.0,0.0,0.0,2.2,3.0,1.0,1.0,3.38,1.0,3.0,,2023,2022-23,div1,USC Lancaster,usclancaster,benrehkow714p,Ben Rehkow
 Feb 4,home,Southwest Virginia,W,14-2,14.0,2.0,12.0,win,20230204_nqww,0.0,0.0,0.0,0.0,1.0,1.0,,,0.0,,,,2023,2022-23,div1,USC Lancaster,usclancaster,benrehkow714p,Ben Rehkow
 Feb 18,home,Mesa,W,10-3,10.0,3.0,7.0,win,20230218_4sew,0.0,0.0,0.0,0.0,1.0,1.0,,,0.0,1.0,3.0,,2023,2022-23,div2,Phoenix,phoenixcollege,eddietorres79zk,Eddie Torres
@@ -1722,6 +1787,7 @@ Feb 4,home,Grand Canyon Club Team,W,11-5,11.0,5.0,6.0,win,20230204_j6nc,0.0,0.0,
 Jan 31,home,Grand Canyon Club Team,W,11-5,11.0,5.0,6.0,win,20230131_0y5j,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2023,2022-23,div2,Mesa,mesacommunitycollege,aidenjackson60yb,Aiden Jackson
 Jan 30,home,Benedictine University JV,W,13-3,13.0,3.0,10.0,win,20230130_nzxj,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2023,2022-23,div2,Mesa,mesacommunitycollege,aidenjackson60yb,Aiden Jackson
 Jan 28,home,Arizona Christian University JV,W,9-5,9.0,5.0,4.0,win,20230128_s5aa,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2023,2022-23,div2,Mesa,mesacommunitycollege,aidenjackson60yb,Aiden Jackson
+Feb 21,home,New Mexico Military,L,5-4,5.0,4.0,1.0,win,20230221_58re,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2023,2022-23,div1,Luna,lunacommunitycollege,samuelestrada7o9w,Samuel Estrada
 Feb 18,home,Ranger,L,6-1,6.0,1.0,5.0,win,20230218_9ogf,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2023,2022-23,div1,Luna,lunacommunitycollege,samuelestrada7o9w,Samuel Estrada
 Feb 17,home,Ranger,L,4-2,4.0,2.0,2.0,win,20230217_8uc6,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2023,2022-23,div1,Luna,lunacommunitycollege,samuelestrada7o9w,Samuel Estrada
 Feb 11,home,El Paso,L,6-3,6.0,3.0,3.0,win,20230211_lzx6,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2023,2022-23,div1,Luna,lunacommunitycollege,samuelestrada7o9w,Samuel Estrada
@@ -1730,6 +1796,7 @@ Feb 5,home,Amarillo College,L,15-5,15.0,5.0,10.0,win,20230205_0zqe,0.0,0.0,0.0,0
 Feb 4,home,Amarillo College,L,21-1,21.0,1.0,20.0,win,20230204_cg2i,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2023,2022-23,div1,Luna,lunacommunitycollege,samuelestrada7o9w,Samuel Estrada
 Jan 28,home,Eastern Arizona,L,2-0,2.0,0.0,2.0,win,20230128_2pkd,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2023,2022-23,div1,Luna,lunacommunitycollege,samuelestrada7o9w,Samuel Estrada
 Jan 27,home,Eastern Arizona,W,4-2,4.0,2.0,2.0,win,20230127_cu57,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2023,2022-23,div1,Luna,lunacommunitycollege,samuelestrada7o9w,Samuel Estrada
+Feb 22,home,Southeastern-Whiteville,W,18-11,18.0,11.0,7.0,win,20230222_edb1,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2023,2022-23,div1,USC Lancaster,usclancaster,jhovanymolinayyqa,Jhovany Molina
 Feb 18,home,Camp,L,10-5,10.0,5.0,5.0,win,20230218_9gmb,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2023,2022-23,div1,USC Lancaster,usclancaster,jhovanymolinayyqa,Jhovany Molina
 Feb 5,home,Southwest Virginia,W,19-2,19.0,2.0,17.0,win,20230205_653z,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2023,2022-23,div1,USC Lancaster,usclancaster,jhovanymolinayyqa,Jhovany Molina
 Feb 5,home,Southwest Virginia,W,11-1,11.0,1.0,10.0,win,20230205_5rp8,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2023,2022-23,div1,USC Lancaster,usclancaster,jhovanymolinayyqa,Jhovany Molina
@@ -1805,6 +1872,8 @@ Feb 14,home,Coastal Alabama - Bay Minette,W,6-2,6.0,2.0,4.0,win,20230214_d07h,0.
 Feb 4,home,Wharton County,W,6-1,6.0,1.0,5.0,win,20230204_6tm9,0.0,0.0,0.0,0.0,1.0,1.0,,,0.0,,,,2023,2022-23,div2,Pearl River,pearlrivercommunitycollege,landenpayner6jx,Landen Payne
 Feb 18,home,Garden City,W,18-10,18.0,10.0,8.0,win,20230218_b6a2,0.0,0.0,0.0,1.0,1.0,2.0,2.0,1.0,9.0,1.0,3.0,0.0,2023,2022-23,div1,Southeast,southeastcommunitycollege,coreypalmerz4xh,Corey Palmer
 Feb 11,home,Hutchinson,L,8-5,8.0,5.0,3.0,win,20230211_2fxg,0.0,0.0,0.0,0.0,1.0,,,,0.0,,2.0,,2023,2022-23,div1,Southeast,southeastcommunitycollege,coreypalmerz4xh,Corey Palmer
+Feb 21,home,Ozarks University,W,10-1,10.0,1.0,9.0,win,20230221_hza3,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2023,2022-23,div1,Connors State,connorsstatecollege,gavinalvetin02u,Gavin Alveti
+Feb 21,home,Ozarks University,W,11-0,11.0,0.0,11.0,win,20230221_pxbg,1.0,1.0,0.0,0.0,5.0,2.0,0.0,0.0,0.0,1.0,8.0,0.0,2023,2022-23,div1,Connors State,connorsstatecollege,gavinalvetin02u,Gavin Alveti
 Feb 20,home,Arkansas Tech,W,16-6,16.0,6.0,10.0,win,20230220_tr0s,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2023,2022-23,div1,Connors State,connorsstatecollege,gavinalvetin02u,Gavin Alveti
 Feb 18,home,TCS Postgrad,W,15-7,15.0,7.0,8.0,win,20230218_5xox,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2023,2022-23,div1,Connors State,connorsstatecollege,gavinalvetin02u,Gavin Alveti
 Feb 18,home,TCS Postgrad,W,10-0,10.0,0.0,10.0,win,20230218_5h5c,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2023,2022-23,div1,Connors State,connorsstatecollege,gavinalvetin02u,Gavin Alveti
@@ -1838,12 +1907,15 @@ Feb 10,home,Marion Military,L,7-1,7.0,1.0,6.0,win,20230210_aoqh,0.0,0.0,0.0,0.0,
 Feb 10,home,Marion Military,L,8-3,8.0,3.0,5.0,win,20230210_c0o7,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2023,2022-23,div1,Wallace-Selma,wallacecommunitycollegeselma,austinevanstyxb,Austin Evans
 Feb 6,home,Marion Military,W,3-1,3.0,1.0,2.0,win,20230206_1yh8,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2023,2022-23,div1,Wallace-Selma,wallacecommunitycollegeselma,austinevanstyxb,Austin Evans
 Feb 6,home,Marion Military,L,6-1,6.0,1.0,5.0,win,20230206_4qx6,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2023,2022-23,div1,Wallace-Selma,wallacecommunitycollegeselma,austinevanstyxb,Austin Evans
+Feb 19,home,Southeastern Illinois,L,4-3,4.0,3.0,1.0,win,20230219_19hc,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2023,2022-23,div1,Kishwaukee,kishwaukeecollege,zachvancuralqkq,Zach Van Cura
+Feb 18,home,Southeastern Illinois,L,11-1,11.0,1.0,10.0,win,20230218_ao2e,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2023,2022-23,div1,Kishwaukee,kishwaukeecollege,zachvancuralqkq,Zach Van Cura
 Feb 18,home,Southeastern Illinois,L,7-6,7.0,6.0,1.0,win,20230218_6kph,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2023,2022-23,div1,Kishwaukee,kishwaukeecollege,zachvancuralqkq,Zach Van Cura
 Feb 11,home,New Mexico,W,15-14,15.0,14.0,1.0,win,20230211_wyiz,0.0,0.0,0.0,0.0,0.0,3.0,4.0,2.0,inf,,,,2023,2022-23,div1,Dodge City,dodgecitycommunitycollege,michaellopezxf5q,Michael Lopez
 Feb 10,home,New Mexico,L,7-2,7.0,2.0,5.0,win,20230210_ffco,0.0,0.0,0.0,0.0,0.1,2.0,2.0,2.0,54.0,2.0,,,2023,2022-23,div1,Dodge City,dodgecitycommunitycollege,michaellopezxf5q,Michael Lopez
 Feb 13,home,John A. Logan,W,7-6,7.0,6.0,1.0,win,20230213_acr4,0.0,0.0,0.0,0.0,0.0,,2.0,2.0,inf,4.0,,,2023,2022-23,div1,Gulf Coast State,gulfcoaststatecollege,alexcollins7cyx,Alex Collins
 Feb 5,home,Wallace-Dothan,L,7-4,7.0,4.0,3.0,win,20230205_hdqp,0.0,0.0,0.0,0.0,4.2,2.0,,,0.0,3.0,3.0,,2023,2022-23,div1,Gulf Coast State,gulfcoaststatecollege,alexcollins7cyx,Alex Collins
 Jan 29,home,Miami Dade,L,13-6,13.0,6.0,7.0,win,20230129_iytq,0.0,0.0,0.0,0.0,2.1,3.0,2.0,2.0,7.71,4.0,4.0,1.0,2023,2022-23,div1,Gulf Coast State,gulfcoaststatecollege,alexcollins7cyx,Alex Collins
+Feb 22,home,Santa Fe,L,10-2,10.0,2.0,8.0,win,20230222_8mey,0.0,0.0,0.0,0.0,1.0,2.0,,,0.0,,,,2023,2022-23,div1,Tallahassee,tallahasseecommunitycollege,harpermclendon95wg,Harper McLendon
 Feb 17,home,State College of Florida,W,11-10,11.0,10.0,1.0,win,20230217_roj1,0.0,1.0,0.0,0.0,2.2,5.0,,,0.0,1.0,1.0,,2023,2022-23,div1,Tallahassee,tallahasseecommunitycollege,harpermclendon95wg,Harper McLendon
 Feb 13,home,Shelton State,W,12-2,12.0,2.0,10.0,win,20230213_bfqx,0.0,0.0,0.0,0.0,0.1,1.0,,,0.0,,1.0,,2023,2022-23,div1,Tallahassee,tallahasseecommunitycollege,harpermclendon95wg,Harper McLendon
 Feb 12,home,Shelton State,W,9-6,9.0,6.0,3.0,win,20230212_hfel,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2023,2022-23,div1,Tallahassee,tallahasseecommunitycollege,harpermclendon95wg,Harper McLendon
@@ -1976,7 +2048,7 @@ Jan 27,home,Paradise Valley,W,8-6,8.0,6.0,2.0,win,20230127_29v3,0.0,0.0,0.0,0.0,
 Feb 5,home,ASU Mountain Home,W,27-8,27.0,8.0,19.0,win,20230205_redm,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2023,2022-23,div1,Coffeyville,coffeyvillecommunitycollege,coopersmithuo9g,Cooper Smith
 Feb 19,home,Catawba Valley,W,6-1,6.0,1.0,5.0,win,20230219_qpsm,0.0,0.0,0.0,0.0,1.0,2.0,0.0,0.0,0.0,0.0,2.0,0.0,2023,2022-23,div1,Gaston College,gastoncollege,sawyersuttonaapp,Sawyer Sutton
 Feb 15,home,Caldwell Tech,W,7-0,7.0,0.0,7.0,win,20230215_dnix,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,3.0,0.0,2023,2022-23,div1,Gaston College,gastoncollege,sawyersuttonaapp,Sawyer Sutton
-Feb 5,home,Walters State,W,4-2,4.0,2.0,2.0,win,20230205_see3,0.0,0.0,0.0,1.0,0.2,1.0,2.0,0.0,0.0,1.0,1.0,0.0,2023,2022-23,div1,Gaston College,gastoncollege,sawyersuttonaapp,Sawyer Sutton
+Feb 5,home,Walters State,W,4-2,4.0,2.0,2.0,win,20230205_see3,0.0,0.0,0.0,1.0,1.0,1.0,2.0,,0.0,1.0,2.0,,2023,2022-23,div1,Gaston College,gastoncollege,sawyersuttonaapp,Sawyer Sutton
 Jan 29,home,Roane State,W,10-0,10.0,0.0,10.0,win,20230129_6854,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,2023,2022-23,div1,Gaston College,gastoncollege,sawyersuttonaapp,Sawyer Sutton
 Feb 11,home,Dyersburg State,L,13-5,13.0,5.0,8.0,win,20230211_ou3u,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2023,2022-23,div1,Olney Central,olneycentralcollege,makaiistonerhqh9,Makaii Stoner
 Feb 11,home,Northwest-Shoals Community College,L,5-4,5.0,4.0,1.0,win,20230211_vjiq,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2023,2022-23,div1,Olney Central,olneycentralcollege,makaiistonerhqh9,Makaii Stoner
@@ -2053,16 +2125,22 @@ Jan 28,home,Cochise,L,4-1,4.0,1.0,3.0,win,20230128_zpgf,0.0,0.0,0.0,0.0,0.0,,,,0
 Jan 28,home,Cochise,W,5-3,5.0,3.0,2.0,win,20230128_nbdz,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2023,2022-23,div1,Colorado Northwestern,coloradonorthwesterncommunitycollege,jesusvalenciaqn15,Jesus Valencia
 Jan 27,home,Cochise,L,4-1,4.0,1.0,3.0,win,20230127_asfs,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2023,2022-23,div1,Colorado Northwestern,coloradonorthwesterncommunitycollege,jesusvalenciaqn15,Jesus Valencia
 Feb 13,home,Blue Mountain College JV,W,10-7,10.0,7.0,3.0,win,20230213_nq3y,0.0,1.0,0.0,0.0,5.0,3.0,,,0.0,,2.0,,2023,2022-23,div1,Bevill State,bevillstatecommunitycollege,ashtonbraggjz82,Ashton Bragg
+Feb 19,home,Copiah-Lincoln,W,5-4,5.0,4.0,1.0,win,20230219_vfwj,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2023,2022-23,div1,Kaskaskia,kaskaskiacollege,hunterbilek5nle,Hunter Bilek
+Feb 19,home,Copiah-Lincoln,L,5-1,5.0,1.0,4.0,win,20230219_tzc6,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2023,2022-23,div1,Kaskaskia,kaskaskiacollege,hunterbilek5nle,Hunter Bilek
+Feb 18,home,Southwest Mississippi,W,3-2,3.0,2.0,1.0,win,20230218_52st,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2023,2022-23,div1,Kaskaskia,kaskaskiacollege,hunterbilek5nle,Hunter Bilek
+Feb 18,home,Southwest Mississippi,L,5-4,5.0,4.0,1.0,win,20230218_iyyw,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2023,2022-23,div1,Kaskaskia,kaskaskiacollege,hunterbilek5nle,Hunter Bilek
 Feb 11,home,Northeast Mississippi,W,12-8,12.0,8.0,4.0,win,20230211_sv83,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2023,2022-23,div1,Kaskaskia,kaskaskiacollege,hunterbilek5nle,Hunter Bilek
 Feb 11,home,Northeast Mississippi,W,8-7,8.0,7.0,1.0,win,20230211_9zfr,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2023,2022-23,div1,Kaskaskia,kaskaskiacollege,hunterbilek5nle,Hunter Bilek
 Feb 10,home,Northeast Mississippi,L,9-8,9.0,8.0,1.0,win,20230210_hngn,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2023,2022-23,div1,Kaskaskia,kaskaskiacollege,hunterbilek5nle,Hunter Bilek
 Feb 10,home,Northeast Mississippi,W,7-3,7.0,3.0,4.0,win,20230210_wdgn,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2023,2022-23,div1,Kaskaskia,kaskaskiacollege,hunterbilek5nle,Hunter Bilek
+Feb 20,home,Labette,L,9-7,9.0,7.0,2.0,win,20230220_txuh,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2023,2022-23,div1,McCook,mccookcommunitycollege,jasonserafinchonwmla,Jason Serafinchon
 Feb 19,home,Labette,W,11-1,11.0,1.0,10.0,win,20230219_d1hr,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2023,2022-23,div1,McCook,mccookcommunitycollege,jasonserafinchonwmla,Jason Serafinchon
 Feb 19,home,Labette,W,18-3,18.0,3.0,15.0,win,20230219_dfks,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2023,2022-23,div1,McCook,mccookcommunitycollege,jasonserafinchonwmla,Jason Serafinchon
 Feb 12,home,Clarendon,L,20-14,20.0,14.0,6.0,win,20230212_lvts,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2023,2022-23,div1,McCook,mccookcommunitycollege,jasonserafinchonwmla,Jason Serafinchon
 Feb 11,home,Clarendon,L,9-5,9.0,5.0,4.0,win,20230211_pvq7,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2023,2022-23,div1,McCook,mccookcommunitycollege,jasonserafinchonwmla,Jason Serafinchon
 Feb 7,home,Dallas College - North Lake,W,10-2,10.0,2.0,8.0,win,20230207_2xf6,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2023,2022-23,div1,McCook,mccookcommunitycollege,jasonserafinchonwmla,Jason Serafinchon
 Feb 6,home,Murray State,L,9-3,9.0,3.0,6.0,win,20230206_gdaa,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2023,2022-23,div1,McCook,mccookcommunitycollege,jasonserafinchonwmla,Jason Serafinchon
+Feb 22,home,Brunswick,W,15-5,15.0,5.0,10.0,win,20230222_3h90,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2023,2022-23,div1,Florence-Darlington Tech,florencedarlingtontechnicalcollege,romkellisdu2d,Rom Kellis
 Feb 19,home,Southeastern-Whiteville,W,4-2,4.0,2.0,2.0,win,20230219_3wsy,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2023,2022-23,div1,Florence-Darlington Tech,florencedarlingtontechnicalcollege,romkellisdu2d,Rom Kellis
 Feb 19,home,Harford,W,5-2,5.0,2.0,3.0,win,20230219_cz14,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2023,2022-23,div1,Florence-Darlington Tech,florencedarlingtontechnicalcollege,romkellisdu2d,Rom Kellis
 Feb 18,home,Southeastern-Whiteville,W,6-2,6.0,2.0,4.0,win,20230218_9wtb,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2023,2022-23,div1,Florence-Darlington Tech,florencedarlingtontechnicalcollege,romkellisdu2d,Rom Kellis
@@ -2145,6 +2223,8 @@ Feb 10,home,Weatherford,L,4-3,4.0,3.0,1.0,win,20230210_1lae,0.0,0.0,0.0,0.0,0.0,
 Feb 4,home,Central Arizona,L,12-5,12.0,5.0,7.0,win,20230204_7k4y,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2023,2022-23,div1,Lamar,lamarcommunitycollege,adrianmatagarciarrpg,Adrian Mata-Garcia
 Feb 3,home,South Mountain,L,6-3,6.0,3.0,3.0,win,20230203_z6td,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2023,2022-23,div1,Lamar,lamarcommunitycollege,adrianmatagarciarrpg,Adrian Mata-Garcia
 Feb 3,home,GateWay (AZ),L,10-0,10.0,0.0,10.0,win,20230203_rj7r,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2023,2022-23,div1,Lamar,lamarcommunitycollege,adrianmatagarciarrpg,Adrian Mata-Garcia
+Feb 19,home,Southeastern Illinois,L,4-3,4.0,3.0,1.0,win,20230219_19hc,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2023,2022-23,div1,Kishwaukee,kishwaukeecollege,isaacriveraujcr,Isaac Rivera
+Feb 18,home,Southeastern Illinois,L,11-1,11.0,1.0,10.0,win,20230218_ao2e,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2023,2022-23,div1,Kishwaukee,kishwaukeecollege,isaacriveraujcr,Isaac Rivera
 Feb 18,home,Southeastern Illinois,L,7-6,7.0,6.0,1.0,win,20230218_6kph,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2023,2022-23,div1,Kishwaukee,kishwaukeecollege,isaacriveraujcr,Isaac Rivera
 Feb 19,home,Dyersburg State,L,6-5,6.0,5.0,1.0,win,20230219_t4s1,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2023,2022-23,div1,Shelton State,sheltonstatecommunitycollege,davisrandolph3ty6,Davis Randolph
 Feb 18,home,Dyersburg State,W,9-0,9.0,0.0,9.0,win,20230218_hshb,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2023,2022-23,div1,Shelton State,sheltonstatecommunitycollege,davisrandolph3ty6,Davis Randolph
@@ -2210,6 +2290,8 @@ Jan 27,home,Frank Phillips,W,6-5,6.0,5.0,1.0,win,20230127_fguv,0.0,1.0,0.0,0.0,2
 Feb 17,home,Iowa Western,L,8-5,8.0,5.0,3.0,win,20230217_f06d,0.0,0.0,0.0,0.0,0.1,1.0,,,0.0,2.0,,,2023,2022-23,div1,McLennan,mclennancommunitycollege,jakesmith5r0l,Jake Smith
 Feb 4,home,Andrew,L,5-2,5.0,2.0,3.0,win,20230204_ms9o,0.0,0.0,0.0,0.0,2.0,1.0,,,0.0,1.0,3.0,,2023,2022-23,div1,McLennan,mclennancommunitycollege,jakesmith5r0l,Jake Smith
 Jan 29,home,Navarro,W,7-1,7.0,1.0,6.0,win,20230129_zju4,0.0,0.0,0.0,0.0,1.0,,,,0.0,1.0,1.0,,2023,2022-23,div1,McLennan,mclennancommunitycollege,jakesmith5r0l,Jake Smith
+Feb 21,home,New Mexico Military,L,5-4,5.0,4.0,1.0,win,20230221_58re,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2023,2022-23,div1,Luna,lunacommunitycollege,wilmerhenriqueznei7,Wilmer Henriquez
+Feb 21,home,New Mexico Military,L,18-6,18.0,6.0,12.0,win,20230221_i076,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2023,2022-23,div1,Luna,lunacommunitycollege,wilmerhenriqueznei7,Wilmer Henriquez
 Feb 18,home,Ranger,L,6-1,6.0,1.0,5.0,win,20230218_9ogf,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2023,2022-23,div1,Luna,lunacommunitycollege,wilmerhenriqueznei7,Wilmer Henriquez
 Feb 18,home,Ranger,W,14-12,14.0,12.0,2.0,win,20230218_yy5t,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2023,2022-23,div1,Luna,lunacommunitycollege,wilmerhenriqueznei7,Wilmer Henriquez
 Feb 17,home,Ranger,L,9-8,9.0,8.0,1.0,win,20230217_xbk6,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2023,2022-23,div1,Luna,lunacommunitycollege,wilmerhenriqueznei7,Wilmer Henriquez
@@ -2294,6 +2376,7 @@ Feb 19,home,Northern Oklahoma Tonkawa,L,10-5,10.0,5.0,5.0,win,20230219_w5bn,0.0,
 Feb 11,home,Fort Scott,L,15-2,15.0,2.0,13.0,win,20230211_vcv3,0.0,0.0,0.0,0.0,1.0,1.0,,,0.0,1.0,,,2023,2022-23,div1,Pratt,prattcommunitycollege,carsonpadgettchs5,Carson Padgett
 Feb 18,home,Lake Michigan,W,10-5,10.0,5.0,5.0,win,20230218_z1fi,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2023,2022-23,div1,Rend Lake,rendlakecollege,houstoncompton221t,Houston Compton
 Feb 10,home,Copiah-Lincoln,W,7-1,7.0,1.0,6.0,win,20230210_xhbt,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2023,2022-23,div1,Rend Lake,rendlakecollege,houstoncompton221t,Houston Compton
+Feb 21,home,New Mexico Military,L,5-4,5.0,4.0,1.0,win,20230221_58re,0.0,0.0,0.0,0.0,1.0,1.0,,,0.0,,2.0,,2023,2022-23,div1,Luna,lunacommunitycollege,kellanturnerfru7,Kellan Turner
 Feb 18,home,Ranger,W,14-12,14.0,12.0,2.0,win,20230218_yy5t,0.0,0.0,0.0,1.0,0.1,,,,0.0,,,,2023,2022-23,div1,Luna,lunacommunitycollege,kellanturnerfru7,Kellan Turner
 Feb 17,home,Ranger,L,9-8,9.0,8.0,1.0,win,20230217_xbk6,0.0,0.0,0.0,0.0,2.0,3.0,1.0,1.0,4.5,2.0,2.0,,2023,2022-23,div1,Luna,lunacommunitycollege,kellanturnerfru7,Kellan Turner
 Feb 10,home,El Paso,L,15-8,15.0,8.0,7.0,win,20230210_stdk,0.0,0.0,1.0,0.0,1.0,5.0,6.0,6.0,54.0,,2.0,1.0,2023,2022-23,div1,Luna,lunacommunitycollege,kellanturnerfru7,Kellan Turner
@@ -2349,6 +2432,8 @@ Feb 18,home,Blinn,L,8-5,8.0,5.0,3.0,win,20230218_8uit,0.0,0.0,0.0,0.0,3.1,2.0,,,
 Feb 10,home,Western Texas,W,1-0,1.0,0.0,1.0,win,20230210_d3kh,0.0,0.0,0.0,1.0,1.2,,,,0.0,1.0,4.0,,2023,2022-23,div1,McLennan,mclennancommunitycollege,willglatchv4ad,Will Glatch
 Feb 3,home,Chipola,W,3-2,3.0,2.0,1.0,win,20230203_mtby,0.0,1.0,0.0,0.0,3.0,1.0,,,0.0,3.0,3.0,,2023,2022-23,div1,McLennan,mclennancommunitycollege,willglatchv4ad,Will Glatch
 Jan 29,home,Navarro,W,7-1,7.0,1.0,6.0,win,20230129_zju4,0.0,0.0,0.0,0.0,1.0,1.0,,,0.0,,1.0,,2023,2022-23,div1,McLennan,mclennancommunitycollege,willglatchv4ad,Will Glatch
+Feb 21,home,Redlands,W,10-0,10.0,0.0,10.0,win,20230221_8975,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2023,2022-23,div1,Rose State,rosestatecollege,weldonsherrell0tzp,Weldon Sherrell
+Feb 21,home,Redlands,L,6-5,6.0,5.0,1.0,win,20230221_gwyl,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2023,2022-23,div1,Rose State,rosestatecollege,weldonsherrell0tzp,Weldon Sherrell
 Feb 18,home,Dodge City,L,1-0,1.0,0.0,1.0,win,20230218_9ix1,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2023,2022-23,div1,Rose State,rosestatecollege,weldonsherrell0tzp,Weldon Sherrell
 Feb 18,home,Colby,W,8-4,8.0,4.0,4.0,win,20230218_qaa3,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2023,2022-23,div1,Rose State,rosestatecollege,weldonsherrell0tzp,Weldon Sherrell
 Feb 17,home,Butler,W,8-3,8.0,3.0,5.0,win,20230217_dtlq,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2023,2022-23,div1,Rose State,rosestatecollege,weldonsherrell0tzp,Weldon Sherrell
@@ -2513,6 +2598,7 @@ Feb 3,home,Yavapai,W,4-0,4.0,0.0,4.0,win,20230203_r790,0.0,0.0,0.0,1.0,2.0,,,,0.
 Jan 28,home,Utah State Eastern,W,8-2,8.0,2.0,6.0,win,20230128_z61u,0.0,0.0,0.0,0.0,1.0,,,,0.0,,2.0,,2023,2022-23,div1,Central Arizona,centralarizonacollege,josharibalw4yn,Josh Aribal
 Feb 18,home,Bevill State,W,7-0,7.0,0.0,7.0,win,20230218_ulg0,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2023,2022-23,div2,Itawamba,itawambacommunitycollege,waltgardnersh1v,Walt Gardner
 Feb 14,home,Snead State,W,14-6,14.0,6.0,8.0,win,20230214_be1i,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2023,2022-23,div2,Itawamba,itawambacommunitycollege,waltgardnersh1v,Walt Gardner
+Feb 19,home,Southwestern,W,8-4,8.0,4.0,4.0,win,20230219_dcc9,0.0,0.0,0.0,0.0,1.0,,,,0.0,,1.0,,2023,2022-23,div1,Johnson County,johnsoncountycommunitycollege,michaelinfrancac6pk,Michael Infranca
 Feb 11,home,Crowder,W,9-8,9.0,8.0,1.0,win,20230211_u40t,0.0,1.0,0.0,0.0,1.0,,,,0.0,,1.0,,2023,2022-23,div1,Johnson County,johnsoncountycommunitycollege,michaelinfrancac6pk,Michael Infranca
 Feb 17,home,Spartanburg Methodist,W,7-6,7.0,6.0,1.0,win,20230217_rxld,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2023,2022-23,div1,Southern Union State,southernunionstatecommunitycollege,rileyaustin6jea,RILEY AUSTIN
 Feb 7,home,Gordon State,L,7-6,7.0,6.0,1.0,win,20230207_as5r,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2023,2022-23,div1,Southern Union State,southernunionstatecommunitycollege,rileyaustin6jea,RILEY AUSTIN
@@ -2697,6 +2783,8 @@ Feb 18,home,Dallas College - Richland,W,13-8,13.0,8.0,5.0,win,20230218_d2tw,0.0,
 Feb 18,home,Dallas College - Richland,W,17-0,17.0,0.0,17.0,win,20230218_4btg,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2023,2022-23,div1,Odessa,odessacollege,brockrodgers7geg,Brock Rodgers
 Feb 17,home,Seward County,W,9-7,9.0,7.0,2.0,win,20230217_uope,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2023,2022-23,div1,Odessa,odessacollege,brockrodgers7geg,Brock Rodgers
 Feb 5,home,Grayson,W,7-3,7.0,3.0,4.0,win,20230205_pckz,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2023,2022-23,div1,Odessa,odessacollege,brockrodgers7geg,Brock Rodgers
+Feb 21,home,New Mexico Military,L,5-4,5.0,4.0,1.0,win,20230221_58re,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2023,2022-23,div1,Luna,lunacommunitycollege,kohlekerin894o,Kohle Kerin
+Feb 21,home,New Mexico Military,L,18-6,18.0,6.0,12.0,win,20230221_i076,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2023,2022-23,div1,Luna,lunacommunitycollege,kohlekerin894o,Kohle Kerin
 Feb 18,home,Ranger,L,6-1,6.0,1.0,5.0,win,20230218_9ogf,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2023,2022-23,div1,Luna,lunacommunitycollege,kohlekerin894o,Kohle Kerin
 Feb 18,home,Ranger,W,14-12,14.0,12.0,2.0,win,20230218_yy5t,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2023,2022-23,div1,Luna,lunacommunitycollege,kohlekerin894o,Kohle Kerin
 Feb 17,home,Ranger,L,9-8,9.0,8.0,1.0,win,20230217_xbk6,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2023,2022-23,div1,Luna,lunacommunitycollege,kohlekerin894o,Kohle Kerin
@@ -3106,6 +3194,10 @@ Feb 17,home,East Mississippi,W,14-7,14.0,7.0,7.0,win,20230217_036f,1.0,1.0,0.0,0
 Feb 4,home,Chipola,L,10-9,10.0,9.0,1.0,win,20230204_b00r,1.0,0.0,0.0,0.0,5.0,6.0,4.0,4.0,7.2,2.0,6.0,,2023,2022-23,div1,Miami Dade,miamidadecollege,carloscolungabtfe,Carlos Colunga
 Jan 27,home,Northwest Florida State,T,1-1,1.0,1.0,0.0,tie,20230127_xt5z,1.0,0.0,0.0,0.0,5.1,4.0,0.0,0.0,0.0,1.0,6.0,0.0,2023,2022-23,div1,Miami Dade,miamidadecollege,carloscolungabtfe,Carlos Colunga
 Feb 15,home,Heartland,L,21-3,21.0,3.0,18.0,win,20230215_5zma,0.0,0.0,0.0,0.0,1.0,0.0,1.0,0.0,0.0,1.0,1.0,,2023,2022-23,div2,Carl Sandburg,carlsandburgcollege,brettgiesel9yy,Brett Giese
+Feb 22,home,Dallas College - Mountain View,W,11-5,11.0,5.0,6.0,win,20230222_g9c4,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2023,2022-23,div3,Dallas College - Eastfield,dallascollegeeastfield,trentmcgee7mgl,Trent McGee
+Feb 18,home,Des Moines Area,L,4-3,4.0,3.0,1.0,win,20230218_ygw3,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2023,2022-23,div3,Dallas College - Eastfield,dallascollegeeastfield,trentmcgee7mgl,Trent McGee
+Feb 21,home,Coastal Bend,W,6-2,6.0,2.0,4.0,win,20230221_aen7,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2023,2022-23,div1,San Jacinto-North,sanjacintocollegenorth,mjrodriguez3i9s,MJ Rodriguez
+Feb 20,home,Temple,L,8-7,8.0,7.0,1.0,win,20230220_3yst,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2023,2022-23,div1,San Jacinto-North,sanjacintocollegenorth,mjrodriguez3i9s,MJ Rodriguez
 Feb 19,home,Monroe College,W,10-7,10.0,7.0,3.0,win,20230219_7v6q,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2023,2022-23,div1,San Jacinto-North,sanjacintocollegenorth,mjrodriguez3i9s,MJ Rodriguez
 Feb 18,home,Monroe College,L,3-2,3.0,2.0,1.0,win,20230218_o10d,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2023,2022-23,div1,San Jacinto-North,sanjacintocollegenorth,mjrodriguez3i9s,MJ Rodriguez
 Feb 16,home,Monroe College,W,11-0,11.0,0.0,11.0,win,20230216_5uew,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2023,2022-23,div1,San Jacinto-North,sanjacintocollegenorth,mjrodriguez3i9s,MJ Rodriguez
@@ -3128,6 +3220,7 @@ Feb 11,home,Luna,W,8-2,8.0,2.0,6.0,win,20230211_eow3,0.0,0.0,0.0,0.0,0.0,,,,0.0,
 Feb 5,home,GateWay (AZ),L,6-5,6.0,5.0,1.0,win,20230205_krdc,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2023,2022-23,div1,El Paso,elpasocommunitycollege,dominicvicencio0ybd,Dominic Vicencio
 Feb 4,home,Yavapai,L,9-1,9.0,1.0,8.0,win,20230204_n390,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2023,2022-23,div1,El Paso,elpasocommunitycollege,dominicvicencio0ybd,Dominic Vicencio
 Feb 8,home,Catawba Valley,L,6-5,6.0,5.0,1.0,win,20230208_e8za,0.0,0.0,0.0,0.0,1.0,1.0,1.0,,0.0,,3.0,,2023,2022-23,div1,Spartanburg Methodist,spartanburgmethodist,milesfeldnerdchv,Miles Feldner
+Feb 22,home,Santa Fe,L,10-2,10.0,2.0,8.0,win,20230222_8mey,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2023,2022-23,div1,Tallahassee,tallahasseecommunitycollege,jadenflowersizbi,Jaden Flowers
 Feb 18,home,State College of Florida,W,8-5,8.0,5.0,3.0,win,20230218_8yhj,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2023,2022-23,div1,Tallahassee,tallahasseecommunitycollege,jadenflowersizbi,Jaden Flowers
 Feb 12,home,Shelton State,W,9-6,9.0,6.0,3.0,win,20230212_hfel,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2023,2022-23,div1,Tallahassee,tallahasseecommunitycollege,jadenflowersizbi,Jaden Flowers
 Feb 12,home,Shelton State,W,6-3,6.0,3.0,3.0,win,20230212_qd5c,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2023,2022-23,div1,Tallahassee,tallahasseecommunitycollege,jadenflowersizbi,Jaden Flowers
@@ -3301,6 +3394,8 @@ Feb 8,home,Lake-Sumter State,W,13-10,13.0,10.0,3.0,win,20230208_gk0e,0.0,0.0,0.0
 Feb 4,home,Polk State,L,10-8,10.0,8.0,2.0,win,20230204_dodv,0.0,0.0,0.0,0.0,1.0,3.0,3.0,3.0,27.0,,2.0,,2023,2022-23,div1,Daytona State,daytonastatecollege,nicschininan1dt,Nic Schinina
 Feb 1,home,Lake-Sumter State,L,5-4,5.0,4.0,1.0,win,20230201_f77g,0.0,0.0,0.0,0.0,2.1,2.0,1.0,1.0,3.86,,2.0,,2023,2022-23,div1,Daytona State,daytonastatecollege,nicschininan1dt,Nic Schinina
 Jan 27,home,Florida State Jacksonville,W,7-4,7.0,4.0,3.0,win,20230127_x69p,0.0,0.0,0.0,0.0,3.0,4.0,1.0,1.0,3.0,1.0,2.0,,2023,2022-23,div1,Daytona State,daytonastatecollege,nicschininan1dt,Nic Schinina
+Feb 19,home,Southwestern,W,8-4,8.0,4.0,4.0,win,20230219_dcc9,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2023,2022-23,div1,Johnson County,johnsoncountycommunitycollege,ryancallahanuv1m,Ryan Callahan
+Feb 19,home,Southwestern,W,5-3,5.0,3.0,2.0,win,20230219_oa5y,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2023,2022-23,div1,Johnson County,johnsoncountycommunitycollege,ryancallahanuv1m,Ryan Callahan
 Feb 18,home,Southwestern,W,10-0,10.0,0.0,10.0,win,20230218_nz0e,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2023,2022-23,div1,Johnson County,johnsoncountycommunitycollege,ryancallahanuv1m,Ryan Callahan
 Feb 18,home,Southwestern,W,14-4,14.0,4.0,10.0,win,20230218_hy85,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2023,2022-23,div1,Johnson County,johnsoncountycommunitycollege,ryancallahanuv1m,Ryan Callahan
 Feb 11,home,Crowder,W,9-8,9.0,8.0,1.0,win,20230211_u40t,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2023,2022-23,div1,Johnson County,johnsoncountycommunitycollege,ryancallahanuv1m,Ryan Callahan
@@ -3342,6 +3437,7 @@ Feb 19,home,Northeast Texas,L,8-4,8.0,4.0,4.0,win,20230219_zlq4,0.0,0.0,0.0,0.0,
 Feb 12,home,Grayson,L,8-7,8.0,7.0,1.0,win,20230212_alow,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2023,2022-23,div1,Howard (TX),howardcollege,juliovasquezg5yr,Julio Vasquez
 Feb 4,home,Navarro,L,17-4,17.0,4.0,13.0,win,20230204_4mzz,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2023,2022-23,div1,Howard (TX),howardcollege,juliovasquezg5yr,Julio Vasquez
 Feb 7,home,Bryan College,L,10-5,10.0,5.0,5.0,win,20230207_j5if,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2023,2022-23,div1,Motlow State,motlowstatecommunitycollege,rileystantonywby,Riley Stanton
+Feb 22,home,Guilford Tech,W,5-0,5.0,0.0,5.0,win,20230222_7xm3,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2023,2022-23,div1,Gaston College,gastoncollege,enriquewood0opp,Enrique Wood
 Feb 19,home,Catawba Valley,W,6-1,6.0,1.0,5.0,win,20230219_qpsm,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2023,2022-23,div1,Gaston College,gastoncollege,enriquewood0opp,Enrique Wood
 Feb 18,home,USC Sumter,W,12-2,12.0,2.0,10.0,win,20230218_zn9t,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2023,2022-23,div1,Gaston College,gastoncollege,enriquewood0opp,Enrique Wood
 Feb 17,home,Catawba Valley,W,15-5,15.0,5.0,10.0,win,20230217_1tyu,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2023,2022-23,div1,Gaston College,gastoncollege,enriquewood0opp,Enrique Wood
@@ -3383,6 +3479,7 @@ Feb 13,home,Hill,W,12-2,12.0,2.0,10.0,win,20230213_86ox,0.0,0.0,0.0,0.0,0.0,,,,0
 Feb 13,home,Hill,L,5-0,5.0,0.0,5.0,win,20230213_nqrh,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2023,2022-23,div1,Bossier Parish,bossierparishcommunitycollege,kobelaevens9ok7,Kobe Laevens
 Feb 4,home,South Arkansas,W,16-4,16.0,4.0,12.0,win,20230204_zhyk,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2023,2022-23,div1,Bossier Parish,bossierparishcommunitycollege,kobelaevens9ok7,Kobe Laevens
 Jan 27,home,ASU Mountain Home,W,16-3,16.0,3.0,13.0,win,20230127_5w91,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2023,2022-23,div1,Bossier Parish,bossierparishcommunitycollege,kobelaevens9ok7,Kobe Laevens
+Feb 19,home,Southwestern,W,8-4,8.0,4.0,4.0,win,20230219_dcc9,0.0,0.0,0.0,0.0,1.0,,,,0.0,1.0,2.0,,2023,2022-23,div1,Johnson County,johnsoncountycommunitycollege,willfrickertilc,Will Fricker
 Feb 19,home,Chipola,L,8-5,8.0,5.0,3.0,win,20230219_3eu7,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2023,2022-23,div1,Columbia State,columbiastatecommunitycollege,gattishenleyctew,Gattis Henley
 Feb 18,home,St. Johns River State,L,27-0,27.0,0.0,27.0,win,20230218_nisy,0.0,0.0,0.0,0.0,0.2,2.0,1.0,,0.0,,2.0,,2023,2022-23,div1,Columbia State,columbiastatecommunitycollege,gattishenleyctew,Gattis Henley
 Feb 11,home,Glen Oaks,W,10-3,10.0,3.0,7.0,win,20230211_npco,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2023,2022-23,div1,Columbia State,columbiastatecommunitycollege,gattishenleyctew,Gattis Henley
@@ -3533,6 +3630,19 @@ Feb 5,home,Arizona Western,L,11-0,11.0,0.0,11.0,win,20230205_pe2d,0.0,0.0,0.0,0.
 Feb 4,home,Arizona Western,L,6-1,6.0,1.0,5.0,win,20230204_e22z,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2023,2022-23,div1,Northeastern,northeasternjuniorcollege,jacksontroutr2ip,Jackson Trout
 Feb 3,home,Arizona Western,L,5-2,5.0,2.0,3.0,win,20230203_0lgq,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2023,2022-23,div1,Northeastern,northeasternjuniorcollege,jacksontroutr2ip,Jackson Trout
 Feb 2,home,Park Univeristy JV,L,9-4,9.0,4.0,5.0,win,20230202_a9i1,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2023,2022-23,div1,Northeastern,northeasternjuniorcollege,jacksontroutr2ip,Jackson Trout
+Feb 22,home,Dallas College - Mountain View,W,11-5,11.0,5.0,6.0,win,20230222_g9c4,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2023,2022-23,div3,Dallas College - Eastfield,dallascollegeeastfield,guswittc1y4,Gus Witt
+Feb 20,home,Tyler,L,16-12,16.0,12.0,4.0,win,20230220_4vsc,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2023,2022-23,div3,Dallas College - Eastfield,dallascollegeeastfield,guswittc1y4,Gus Witt
+Feb 18,home,Des Moines Area,L,4-3,4.0,3.0,1.0,win,20230218_ygw3,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2023,2022-23,div3,Dallas College - Eastfield,dallascollegeeastfield,guswittc1y4,Gus Witt
+Feb 18,home,Des Moines Area,W,4-3,4.0,3.0,1.0,win,20230218_6hpa,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2023,2022-23,div3,Dallas College - Eastfield,dallascollegeeastfield,guswittc1y4,Gus Witt
+Feb 16,home,Blinn,L,5-4,5.0,4.0,1.0,win,20230216_j7uu,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2023,2022-23,div3,Dallas College - Eastfield,dallascollegeeastfield,guswittc1y4,Gus Witt
+Feb 15,home,Wharton County,L,4-3,4.0,3.0,1.0,win,20230215_iddb,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2023,2022-23,div3,Dallas College - Eastfield,dallascollegeeastfield,guswittc1y4,Gus Witt
+Feb 12,home,North Arkansas,W,12-2,12.0,2.0,10.0,win,20230212_l9dd,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2023,2022-23,div3,Dallas College - Eastfield,dallascollegeeastfield,guswittc1y4,Gus Witt
+Feb 12,home,North Arkansas,W,3-2,3.0,2.0,1.0,win,20230212_2aaz,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2023,2022-23,div3,Dallas College - Eastfield,dallascollegeeastfield,guswittc1y4,Gus Witt
+Feb 11,home,DFW Post Grad,W,9-0,9.0,0.0,9.0,win,20230211_3b0n,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2023,2022-23,div3,Dallas College - Eastfield,dallascollegeeastfield,guswittc1y4,Gus Witt
+Feb 10,home,DFW Post Grad,W,10-0,10.0,0.0,10.0,win,20230210_d5rm,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2023,2022-23,div3,Dallas College - Eastfield,dallascollegeeastfield,guswittc1y4,Gus Witt
+Feb 10,home,DFW Post Grad,W,3-1,3.0,1.0,2.0,win,20230210_3gdd,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2023,2022-23,div3,Dallas College - Eastfield,dallascollegeeastfield,guswittc1y4,Gus Witt
+Feb 6,home,LeTourneau,W,8-1,8.0,1.0,7.0,win,20230206_dm3d,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2023,2022-23,div3,Dallas College - Eastfield,dallascollegeeastfield,guswittc1y4,Gus Witt
+Feb 6,home,LeTourneau,W,6-0,6.0,0.0,6.0,win,20230206_7n4e,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2023,2022-23,div3,Dallas College - Eastfield,dallascollegeeastfield,guswittc1y4,Gus Witt
 Feb 11,home,Southeast,W,8-5,8.0,5.0,3.0,win,20230211_2fxg,0.0,0.0,0.0,0.0,1.1,3.0,3.0,3.0,20.25,,3.0,1.0,2023,2022-23,div1,Hutchinson,hutchinsoncommunitycollege,michaeluhlerxoof,Michael Uhler
 Feb 18,home,Cochise,W,6-4,6.0,4.0,2.0,win,20230218_u448,1.0,0.0,0.0,0.0,4.2,2.0,2.0,0.0,0.0,6.0,5.0,,2023,2022-23,div1,Yavapai,yavapaicollege,tommygroomp2p1,Tommy Groom
 Feb 14,home,Pima,L,3-2,3.0,2.0,1.0,win,20230214_z0zx,0.0,0.0,0.0,0.0,0.2,,,,0.0,1.0,1.0,,2023,2022-23,div1,Yavapai,yavapaicollege,tommygroomp2p1,Tommy Groom
@@ -3697,6 +3807,7 @@ Feb 5,home,Southwest Tennessee,W,5-3,5.0,3.0,2.0,win,20230205_aoqu,0.0,0.0,0.0,0
 Feb 5,home,Jackson State,W,15-14,15.0,14.0,1.0,win,20230205_vvvo,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2023,2022-23,div1,John A. Logan,johnalogancollege,vytasvalinciuscltu,Vytas Valincius
 Feb 4,home,Northeast Mississippi,L,9-3,9.0,3.0,6.0,win,20230204_9p0v,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2023,2022-23,div1,John A. Logan,johnalogancollege,vytasvalinciuscltu,Vytas Valincius
 Feb 4,home,Chattanooga State,L,3-2,3.0,2.0,1.0,win,20230204_zxpq,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2023,2022-23,div1,John A. Logan,johnalogancollege,vytasvalinciuscltu,Vytas Valincius
+Feb 21,home,Coastal Bend,W,6-2,6.0,2.0,4.0,win,20230221_aen7,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2023,2022-23,div1,San Jacinto-North,sanjacintocollegenorth,josemolina6si0,Jose Molina
 Feb 19,home,Monroe College,W,10-7,10.0,7.0,3.0,win,20230219_7v6q,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2023,2022-23,div1,San Jacinto-North,sanjacintocollegenorth,josemolina6si0,Jose Molina
 Feb 17,home,Monroe College,W,16-2,16.0,2.0,14.0,win,20230217_3f6g,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2023,2022-23,div1,San Jacinto-North,sanjacintocollegenorth,josemolina6si0,Jose Molina
 Feb 16,home,Monroe College,W,11-0,11.0,0.0,11.0,win,20230216_5uew,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2023,2022-23,div1,San Jacinto-North,sanjacintocollegenorth,josemolina6si0,Jose Molina
@@ -3770,6 +3881,7 @@ Feb 18,home,Western Nebraska,W,21-6,21.0,6.0,15.0,win,20230218_ywog,0.0,0.0,0.0,
 Feb 11,home,Rose State,L,10-5,10.0,5.0,5.0,win,20230211_qh3u,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2023,2022-23,div1,Barton,bartoncommunitycollege,ricardosanchez1r7b,Ricardo Sanchez
 Feb 11,home,Rose State,W,12-2,12.0,2.0,10.0,win,20230211_b9lq,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2023,2022-23,div1,Barton,bartoncommunitycollege,ricardosanchez1r7b,Ricardo Sanchez
 Feb 10,home,Rose State,W,19-11,19.0,11.0,8.0,win,20230210_ez2u,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2023,2022-23,div1,Barton,bartoncommunitycollege,ricardosanchez1r7b,Ricardo Sanchez
+Feb 21,home,Ozarks University,W,11-0,11.0,0.0,11.0,win,20230221_pxbg,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2023,2022-23,div1,Connors State,connorsstatecollege,cristopheracevedolhsn,Cristopher Acevedo
 Feb 17,home,Thompson River University,W,11-1,11.0,1.0,10.0,win,20230217_ek52,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2023,2022-23,div2,Paradise Valley,paradisevalleycommunitycollege,jonnygarberpe21,Jonny Garber
 Feb 14,home,Scottsdale,L,4-3,4.0,3.0,1.0,win,20230214_pkwj,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2023,2022-23,div2,Paradise Valley,paradisevalleycommunitycollege,jonnygarberpe21,Jonny Garber
 Feb 7,home,Ottawa University JV,W,10-0,10.0,0.0,10.0,win,20230207_3kdl,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2023,2022-23,div2,Paradise Valley,paradisevalleycommunitycollege,jonnygarberpe21,Jonny Garber
@@ -3833,6 +3945,7 @@ Feb 4,home,Wayland Baptist,W,8-0,8.0,0.0,8.0,win,20230204_xs2v,0.0,0.0,0.0,0.0,0
 Jan 29,home,Alvin,W,8-1,8.0,1.0,7.0,win,20230129_wl9p,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2023,2022-23,div1,Midland,midlandcollege,rhettclark6ihs,Rhett Clark
 Jan 28,home,Alvin,W,10-5,10.0,5.0,5.0,win,20230128_nmdo,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2023,2022-23,div1,Midland,midlandcollege,rhettclark6ihs,Rhett Clark
 Jan 28,home,Alvin,W,2-1,2.0,1.0,1.0,win,20230128_adg7,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2023,2022-23,div1,Midland,midlandcollege,rhettclark6ihs,Rhett Clark
+Feb 19,home,Southeastern Illinois,L,18-2,18.0,2.0,16.0,win,20230219_bgtm,1.0,0.0,1.0,0.0,1.0,6.0,14.0,14.0,126.0,7.0,1.0,,2023,2022-23,div1,Kishwaukee,kishwaukeecollege,tylerpotterdckr,Tyler Potter
 Feb 10,home,Georgia Highlands,L,4-0,4.0,0.0,4.0,win,20230210_kssf,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2023,2022-23,div1,Lincoln Trail,lincolntrailcollege,jackbeverly1jh2,Jack Beverly
 Feb 10,home,Georgia Highlands,W,4-3,4.0,3.0,1.0,win,20230210_dzna,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2023,2022-23,div1,Lincoln Trail,lincolntrailcollege,jackbeverly1jh2,Jack Beverly
 Feb 5,home,Northwest-Shoals Community College,W,3-1,3.0,1.0,2.0,win,20230205_6v6q,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2023,2022-23,div1,Lincoln Trail,lincolntrailcollege,jackbeverly1jh2,Jack Beverly
@@ -3886,6 +3999,8 @@ Feb 4,home,Texas Reds Post Grad,W,13-5,13.0,5.0,8.0,win,20230204_hznj,0.0,0.0,0.
 Feb 4,home,Texas Reds Post Grad,W,18-8,18.0,8.0,10.0,win,20230204_jata,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2023,2022-23,div1,Coastal Bend,coastalbendcollege,isaiahaguilarlrdm,Isaiah Aguilar
 Jan 27,home,Spartan Post Grad,W,9-2,9.0,2.0,7.0,win,20230127_tdoz,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2023,2022-23,div1,Coastal Bend,coastalbendcollege,isaiahaguilarlrdm,Isaiah Aguilar
 Jan 27,home,Spartan Post Grad,W,11-1,11.0,1.0,10.0,win,20230127_ziop,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2023,2022-23,div1,Coastal Bend,coastalbendcollege,isaiahaguilarlrdm,Isaiah Aguilar
+Feb 21,home,Coastal Bend,W,6-2,6.0,2.0,4.0,win,20230221_aen7,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2023,2022-23,div1,San Jacinto-North,sanjacintocollegenorth,lukenailpizd,Luke Nail
+Feb 20,home,Temple,L,8-7,8.0,7.0,1.0,win,20230220_3yst,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2023,2022-23,div1,San Jacinto-North,sanjacintocollegenorth,lukenailpizd,Luke Nail
 Feb 19,home,Monroe College,W,10-7,10.0,7.0,3.0,win,20230219_7v6q,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2023,2022-23,div1,San Jacinto-North,sanjacintocollegenorth,lukenailpizd,Luke Nail
 Feb 18,home,Monroe College,L,3-2,3.0,2.0,1.0,win,20230218_o10d,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2023,2022-23,div1,San Jacinto-North,sanjacintocollegenorth,lukenailpizd,Luke Nail
 Feb 17,home,Monroe College,W,16-2,16.0,2.0,14.0,win,20230217_3f6g,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2023,2022-23,div1,San Jacinto-North,sanjacintocollegenorth,lukenailpizd,Luke Nail
@@ -3914,6 +4029,9 @@ Feb 4,home,Florida SouthWestern State,W,4-2,4.0,2.0,2.0,win,20230204_s3kl,0.0,0.
 Feb 3,home,Coastal Alabama - Bay Minette,W,7-5,7.0,5.0,2.0,win,20230203_zk96,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2023,2022-23,div1,Florence-Darlington Tech,florencedarlingtontechnicalcollege,dylanjohnsongr3j,Dylan Johnson
 Jan 29,home,Bryant & Stratton (VA),W,7-1,7.0,1.0,6.0,win,20230129_1o25,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2023,2022-23,div1,Florence-Darlington Tech,florencedarlingtontechnicalcollege,dylanjohnsongr3j,Dylan Johnson
 Jan 28,home,Bryant & Stratton (VA),L,8-7,8.0,7.0,1.0,win,20230128_u9j9,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2023,2022-23,div1,Florence-Darlington Tech,florencedarlingtontechnicalcollege,dylanjohnsongr3j,Dylan Johnson
+Feb 18,home,Des Moines Area,L,4-3,4.0,3.0,1.0,win,20230218_ygw3,1.0,0.0,1.0,0.0,2.0,2.0,4.0,4.0,18.0,2.0,4.0,1.0,2023,2022-23,div3,Dallas College - Eastfield,dallascollegeeastfield,jalenjohnstonxgsn,Jalen Johnston
+Feb 10,home,DFW Post Grad,W,10-0,10.0,0.0,10.0,win,20230210_d5rm,1.0,1.0,0.0,0.0,5.0,1.0,0.0,0.0,0.0,1.0,10.0,,2023,2022-23,div3,Dallas College - Eastfield,dallascollegeeastfield,jalenjohnstonxgsn,Jalen Johnston
+Feb 6,home,LeTourneau,W,6-0,6.0,0.0,6.0,win,20230206_7n4e,0.0,0.0,0.0,0.0,1.0,,,,0.0,1.0,3.0,,2023,2022-23,div3,Dallas College - Eastfield,dallascollegeeastfield,jalenjohnstonxgsn,Jalen Johnston
 Feb 18,home,Brunswick,L,4-1,4.0,1.0,3.0,win,20230218_t1p0,0.0,0.0,0.0,0.0,2.0,2.0,1.0,1.0,4.5,0.0,4.0,0.0,2023,2022-23,div2,Bryant & Stratton (VA),bryantstrattoncollegeva,jeancarlperez4wpk,Jean Carl Perez
 Feb 15,home,Virginia Peninsula,W,21-4,21.0,4.0,17.0,win,20230215_du8y,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,2023,2022-23,div2,Bryant & Stratton (VA),bryantstrattoncollegeva,jeancarlperez4wpk,Jean Carl Perez
 Feb 11,home,Pitt,L,15-1,15.0,1.0,14.0,win,20230211_jv4g,0.0,0.0,0.0,0.0,0.2,0.0,0.0,0.0,0.0,0.0,1.0,0.0,2023,2022-23,div2,Bryant & Stratton (VA),bryantstrattoncollegeva,jeancarlperez4wpk,Jean Carl Perez
@@ -3940,6 +4058,7 @@ Feb 5,home,Ranger,W,17-0,17.0,0.0,17.0,win,20230205_pi9q,0.0,0.0,0.0,0.0,0.0,,,,
 Feb 4,home,Ranger,L,11-10,11.0,10.0,1.0,win,20230204_1tfw,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2023,2022-23,div1,Dodge City,dodgecitycommunitycollege,coopertomkinsoncpz2,Cooper Tomkinson
 Feb 4,home,Ranger,L,12-9,12.0,9.0,3.0,win,20230204_a5f7,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2023,2022-23,div1,Dodge City,dodgecitycommunitycollege,coopertomkinsoncpz2,Cooper Tomkinson
 Feb 12,home,Snead State,L,16-4,16.0,4.0,12.0,win,20230212_ubft,0.0,0.0,0.0,0.0,1.0,6.0,7.0,7.0,63.0,2.0,,1.0,2023,2022-23,div2,East Mississippi,eastmississippicommunitycollege,hunterbrunsonh5bs,Hunter Brunson
+Feb 22,home,Guilford Tech,W,5-0,5.0,0.0,5.0,win,20230222_7xm3,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,2023,2022-23,div1,Gaston College,gastoncollege,jaxsonmangumyw98,Jaxson Mangum
 Feb 8,home,Caldwell Tech,W,12-2,12.0,2.0,10.0,win,20230208_psab,0.0,1.0,0.0,0.0,2.0,,,,0.0,1.0,3.0,,2023,2022-23,div1,Gaston College,gastoncollege,jaxsonmangumyw98,Jaxson Mangum
 Feb 5,home,Walters State,L,4-1,4.0,1.0,3.0,win,20230205_mof6,0.0,0.0,0.0,0.0,1.0,,,,0.0,3.0,,,2023,2022-23,div1,Gaston College,gastoncollege,jaxsonmangumyw98,Jaxson Mangum
 Feb 17,home,Cowley,L,9-5,9.0,5.0,4.0,win,20230217_4ft0,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2023,2022-23,div1,Grayson,graysoncollege,mattdelsolgwwk,Matt Del Sol
@@ -4033,6 +4152,20 @@ Jan 28,home,Alvin,W,2-1,2.0,1.0,1.0,win,20230128_adg7,0.0,0.0,0.0,0.0,0.0,,,,0.0
 Feb 18,home,Community Christian (CA),W,12-2,12.0,2.0,10.0,win,20230218_bp2v,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2023,2022-23,div1,Pima,pimacommunitycollege,brantkrageljwvs,Brant Kragel
 Feb 17,home,Community Christian (CA),W,20-0,20.0,0.0,20.0,win,20230217_ia45,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2023,2022-23,div1,Pima,pimacommunitycollege,brantkrageljwvs,Brant Kragel
 Feb 3,home,Southern Nevada,W,8-2,8.0,2.0,6.0,win,20230203_e4g8,0.0,0.0,0.0,0.0,0.2,,,,0.0,1.0,1.0,,2023,2022-23,div1,Pima,pimacommunitycollege,brantkrageljwvs,Brant Kragel
+Feb 22,home,Dallas College - Mountain View,W,11-5,11.0,5.0,6.0,win,20230222_g9c4,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2023,2022-23,div3,Dallas College - Eastfield,dallascollegeeastfield,angelrodriguezw70m,Angel Rodriguez
+Feb 20,home,Tyler,L,16-12,16.0,12.0,4.0,win,20230220_4vsc,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2023,2022-23,div3,Dallas College - Eastfield,dallascollegeeastfield,angelrodriguezw70m,Angel Rodriguez
+Feb 18,home,Des Moines Area,L,4-3,4.0,3.0,1.0,win,20230218_ygw3,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2023,2022-23,div3,Dallas College - Eastfield,dallascollegeeastfield,angelrodriguezw70m,Angel Rodriguez
+Feb 18,home,Des Moines Area,W,4-3,4.0,3.0,1.0,win,20230218_6hpa,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2023,2022-23,div3,Dallas College - Eastfield,dallascollegeeastfield,angelrodriguezw70m,Angel Rodriguez
+Feb 16,home,Blinn,L,5-4,5.0,4.0,1.0,win,20230216_j7uu,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2023,2022-23,div3,Dallas College - Eastfield,dallascollegeeastfield,angelrodriguezw70m,Angel Rodriguez
+Feb 15,home,Texas Post Grad,W,10-2,10.0,2.0,8.0,win,20230215_a12d,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2023,2022-23,div3,Dallas College - Eastfield,dallascollegeeastfield,angelrodriguezw70m,Angel Rodriguez
+Feb 15,home,Wharton County,L,4-3,4.0,3.0,1.0,win,20230215_iddb,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2023,2022-23,div3,Dallas College - Eastfield,dallascollegeeastfield,angelrodriguezw70m,Angel Rodriguez
+Feb 12,home,North Arkansas,W,12-2,12.0,2.0,10.0,win,20230212_l9dd,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2023,2022-23,div3,Dallas College - Eastfield,dallascollegeeastfield,angelrodriguezw70m,Angel Rodriguez
+Feb 12,home,North Arkansas,W,3-2,3.0,2.0,1.0,win,20230212_2aaz,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2023,2022-23,div3,Dallas College - Eastfield,dallascollegeeastfield,angelrodriguezw70m,Angel Rodriguez
+Feb 11,home,DFW Post Grad,W,9-0,9.0,0.0,9.0,win,20230211_3b0n,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2023,2022-23,div3,Dallas College - Eastfield,dallascollegeeastfield,angelrodriguezw70m,Angel Rodriguez
+Feb 10,home,DFW Post Grad,W,10-0,10.0,0.0,10.0,win,20230210_d5rm,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2023,2022-23,div3,Dallas College - Eastfield,dallascollegeeastfield,angelrodriguezw70m,Angel Rodriguez
+Feb 10,home,DFW Post Grad,W,3-1,3.0,1.0,2.0,win,20230210_3gdd,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2023,2022-23,div3,Dallas College - Eastfield,dallascollegeeastfield,angelrodriguezw70m,Angel Rodriguez
+Feb 6,home,LeTourneau,W,8-1,8.0,1.0,7.0,win,20230206_dm3d,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2023,2022-23,div3,Dallas College - Eastfield,dallascollegeeastfield,angelrodriguezw70m,Angel Rodriguez
+Feb 6,home,LeTourneau,W,6-0,6.0,0.0,6.0,win,20230206_7n4e,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2023,2022-23,div3,Dallas College - Eastfield,dallascollegeeastfield,angelrodriguezw70m,Angel Rodriguez
 Feb 10,home,Georgia Highlands,L,4-0,4.0,0.0,4.0,win,20230210_kssf,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2023,2022-23,div1,Lincoln Trail,lincolntrailcollege,collinsweeneytyu7,Collin Sweeney
 Feb 5,home,Northwest-Shoals Community College,W,3-1,3.0,1.0,2.0,win,20230205_6v6q,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2023,2022-23,div1,Lincoln Trail,lincolntrailcollege,collinsweeneytyu7,Collin Sweeney
 Feb 4,home,Northwest-Shoals Community College,W,5-3,5.0,3.0,2.0,win,20230204_y6di,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2023,2022-23,div1,Lincoln Trail,lincolntrailcollege,collinsweeneytyu7,Collin Sweeney
@@ -4120,6 +4253,7 @@ Feb 17,home,Dallas College - Brookhaven,W,4-3,4.0,3.0,1.0,win,20230217_kc0x,1.0,
 Feb 11,home,Howard (TX),W,3-2,3.0,2.0,1.0,win,20230211_hmnj,0.0,0.0,0.0,0.0,4.0,2.0,1.0,1.0,2.25,,3.0,,2023,2022-23,div1,Alvin,alvincommunitycollege,oscarcuello5nbg,Oscar Cuello
 Jan 28,home,Midland,L,2-1,2.0,1.0,1.0,win,20230128_adg7,1.0,0.0,0.0,0.0,5.0,2.0,1.0,0.0,0.0,1.0,6.0,,2023,2022-23,div1,Alvin,alvincommunitycollege,oscarcuello5nbg,Oscar Cuello
 Feb 5,home,Yavapai,W,19-6,19.0,6.0,13.0,win,20230205_ujf9,1.0,1.0,0.0,0.0,2.0,4.0,1.0,1.0,4.5,0.0,1.0,,2023,2022-23,div1,Salt Lake,saltlakecommunitycollege,shaytimmersl9t,Shay Timmer
+Feb 11,home,DFW Post Grad,W,9-0,9.0,0.0,9.0,win,20230211_3b0n,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2023,2022-23,div3,Dallas College - Eastfield,dallascollegeeastfield,calebgastonp1zn,Caleb Gaston
 Feb 18,home,Alvin,W,6-3,6.0,3.0,3.0,win,20230218_lkb1,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2023,2022-23,div1,New Mexico,newmexicojuniorcollege,luisgonzalez02wi,Luis Gonzalez
 Feb 17,home,Galveston,W,16-12,16.0,12.0,4.0,win,20230217_o3gl,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2023,2022-23,div1,New Mexico,newmexicojuniorcollege,luisgonzalez02wi,Luis Gonzalez
 Feb 17,home,Wharton County,W,23-1,23.0,1.0,22.0,win,20230217_sd9i,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2023,2022-23,div1,New Mexico,newmexicojuniorcollege,luisgonzalez02wi,Luis Gonzalez
@@ -4247,6 +4381,7 @@ Feb 14,home,Lenoir,W,8-3,8.0,3.0,5.0,win,20230214_d9fj,0.0,0.0,0.0,0.0,0.0,,,,0.
 Feb 11,home,Camp,W,7-0,7.0,0.0,7.0,win,20230211_0rqm,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2023,2022-23,div1,Louisburg,louisburgcollege,calhenderson01hp,Cal Henderson
 Feb 11,home,Camp,W,6-2,6.0,2.0,4.0,win,20230211_pjak,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2023,2022-23,div1,Louisburg,louisburgcollege,calhenderson01hp,Cal Henderson
 Feb 5,home,Bryant & Stratton (VA),L,2-1,2.0,1.0,1.0,win,20230205_itkm,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2023,2022-23,div1,Louisburg,louisburgcollege,calhenderson01hp,Cal Henderson
+Feb 22,home,Guilford Tech,W,5-0,5.0,0.0,5.0,win,20230222_7xm3,0.0,0.0,0.0,0.0,0.1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2023,2022-23,div1,Gaston College,gastoncollege,davidsandea58q,David Sande
 Feb 18,home,USC Sumter,W,12-2,12.0,2.0,10.0,win,20230218_zn9t,0.0,0.0,0.0,0.0,1.0,,,,0.0,,,,2023,2022-23,div1,Gaston College,gastoncollege,davidsandea58q,David Sande
 Feb 15,home,Caldwell Tech,W,7-0,7.0,0.0,7.0,win,20230215_dnix,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,3.0,0.0,2023,2022-23,div1,Gaston College,gastoncollege,davidsandea58q,David Sande
 Feb 11,home,Combine Academy (Lincolnton),W,16-1,16.0,1.0,15.0,win,20230211_c9m9,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2023,2022-23,div1,Gaston College,gastoncollege,davidsandea58q,David Sande
@@ -4348,6 +4483,8 @@ Feb 17,home,Miami Dade,L,13-3,13.0,3.0,10.0,win,20230217_qly2,0.0,0.0,0.0,0.0,0.
 Feb 12,home,Central Alabama,L,11-7,11.0,7.0,4.0,win,20230212_fzy8,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2023,2022-23,div1,Chipola,chipolacollege,brandyndurandjvv3,Brandyn Durand
 Feb 12,home,Three Rivers,L,5-3,5.0,3.0,2.0,win,20230212_0vrl,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2023,2022-23,div2,North Iowa Area,northiowaareacommunitycollege,johndotywd6u,John Doty
 Feb 12,home,Three Rivers,L,6-5,6.0,5.0,1.0,win,20230212_7w86,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2023,2022-23,div2,North Iowa Area,northiowaareacommunitycollege,johndotywd6u,John Doty
+Feb 21,home,Ozarks University,W,10-1,10.0,1.0,9.0,win,20230221_hza3,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2023,2022-23,div1,Connors State,connorsstatecollege,tanneramondqrfw,Tanner Amond
+Feb 21,home,Ozarks University,W,11-0,11.0,0.0,11.0,win,20230221_pxbg,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2023,2022-23,div1,Connors State,connorsstatecollege,tanneramondqrfw,Tanner Amond
 Feb 20,home,Arkansas Tech,W,7-6,7.0,6.0,1.0,win,20230220_plnk,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2023,2022-23,div1,Connors State,connorsstatecollege,tanneramondqrfw,Tanner Amond
 Feb 20,home,Arkansas Tech,W,16-6,16.0,6.0,10.0,win,20230220_tr0s,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2023,2022-23,div1,Connors State,connorsstatecollege,tanneramondqrfw,Tanner Amond
 Feb 18,home,TCS Postgrad,W,15-7,15.0,7.0,8.0,win,20230218_5xox,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2023,2022-23,div1,Connors State,connorsstatecollege,tanneramondqrfw,Tanner Amond
@@ -4361,6 +4498,7 @@ Feb 6,home,Oklahoma Wesleyan,W,12-2,12.0,2.0,10.0,win,20230206_ii9z,0.0,0.0,0.0,
 Feb 6,home,Oklahoma Wesleyan,W,19-0,19.0,0.0,19.0,win,20230206_rd09,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2023,2022-23,div1,Connors State,connorsstatecollege,tanneramondqrfw,Tanner Amond
 Feb 11,home,Hutchinson,L,10-7,10.0,7.0,3.0,win,20230211_1vmc,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2023,2022-23,div1,Southeast,southeastcommunitycollege,jonathanreedprpa,Jonathan Reed
 Feb 18,home,Kansas City Kansas,L,18-3,18.0,3.0,15.0,win,20230218_6vgq,0.0,0.0,0.0,0.0,2.2,4.0,6.0,3.0,10.13,2.0,,1.0,2023,2022-23,div1,Marshalltown,marshalltowncc,shanetarlton7ukd,Shane Tarlton
+Feb 22,home,Southeastern-Whiteville,W,18-11,18.0,11.0,7.0,win,20230222_edb1,0.0,0.0,0.0,0.0,1.0,1.0,,,0.0,,,,2023,2022-23,div1,USC Lancaster,usclancaster,alexsmallsw02f,Alex Smalls
 Feb 18,home,Camp,W,4-1,4.0,1.0,3.0,win,20230218_9pdj,0.0,0.0,0.0,0.0,0.1,1.0,1.0,1.0,27.0,1.0,1.0,,2023,2022-23,div1,USC Lancaster,usclancaster,alexsmallsw02f,Alex Smalls
 Feb 11,home,Patrick & Henry,W,9-0,9.0,0.0,9.0,win,20230211_s260,0.0,0.0,0.0,0.0,2.0,3.0,,,0.0,,1.0,,2023,2022-23,div1,USC Lancaster,usclancaster,alexsmallsw02f,Alex Smalls
 Feb 5,home,Southwest Virginia,W,11-1,11.0,1.0,10.0,win,20230205_5rp8,1.0,1.0,0.0,0.0,3.0,2.0,1.0,0.0,0.0,2.0,2.0,,2023,2022-23,div1,USC Lancaster,usclancaster,alexsmallsw02f,Alex Smalls
@@ -4533,6 +4671,7 @@ Feb 1,home,St. Johns River State,W,3-2,3.0,2.0,1.0,win,20230201_qpz7,0.0,0.0,0.0
 Jan 30,home,Hillsborough,L,5-4,5.0,4.0,1.0,win,20230130_h50s,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2023,2022-23,div1,Seminole State (FL),seminolestatecollegeofflorida,joseperez7eu8,Jose Perez
 Jan 28,home,Hillsborough,W,5-1,5.0,1.0,4.0,win,20230128_3zia,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2023,2022-23,div1,Seminole State (FL),seminolestatecollegeofflorida,joseperez7eu8,Jose Perez
 Jan 27,home,St. Petersburg,W,3-2,3.0,2.0,1.0,win,20230127_vgzz,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2023,2022-23,div1,Seminole State (FL),seminolestatecollegeofflorida,joseperez7eu8,Jose Perez
+Feb 20,home,Temple,L,8-7,8.0,7.0,1.0,win,20230220_3yst,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2023,2022-23,div1,San Jacinto-North,sanjacintocollegenorth,bradychristensen65km,Brady Christensen
 Feb 18,home,Monroe College,L,3-2,3.0,2.0,1.0,win,20230218_o10d,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2023,2022-23,div1,San Jacinto-North,sanjacintocollegenorth,bradychristensen65km,Brady Christensen
 Feb 17,home,Monroe College,W,16-2,16.0,2.0,14.0,win,20230217_3f6g,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2023,2022-23,div1,San Jacinto-North,sanjacintocollegenorth,bradychristensen65km,Brady Christensen
 Feb 16,home,Monroe College,W,11-0,11.0,0.0,11.0,win,20230216_5uew,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2023,2022-23,div1,San Jacinto-North,sanjacintocollegenorth,bradychristensen65km,Brady Christensen
@@ -4647,6 +4786,7 @@ Jan 28,home,Southern Union State,W,7-3,7.0,3.0,4.0,win,20230128_dmfb,0.0,0.0,0.0
 Jan 28,home,Southern Union State,L,3-2,3.0,2.0,1.0,win,20230128_4ziw,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2023,2022-23,div1,Gordon State,gordonstatecollege,farideljaiekom7v,Farid Eljaiek
 Jan 27,home,Chattahoochee Valley,W,10-0,10.0,0.0,10.0,win,20230127_il9d,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2023,2022-23,div1,Gordon State,gordonstatecollege,farideljaiekom7v,Farid Eljaiek
 Jan 27,home,Chattahoochee Valley,W,6-3,6.0,3.0,3.0,win,20230127_8gnd,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2023,2022-23,div1,Gordon State,gordonstatecollege,farideljaiekom7v,Farid Eljaiek
+Feb 22,home,Santa Fe,L,10-2,10.0,2.0,8.0,win,20230222_8mey,0.0,0.0,0.0,0.0,1.0,1.0,1.0,1.0,9.0,,2.0,1.0,2023,2022-23,div1,Tallahassee,tallahasseecommunitycollege,zachmizrahidb9o,Zach Mizrahi
 Feb 13,home,Shelton State,W,12-2,12.0,2.0,10.0,win,20230213_bfqx,0.0,0.0,0.0,0.0,0.2,1.0,2.0,2.0,27.0,1.0,2.0,,2023,2022-23,div1,Tallahassee,tallahasseecommunitycollege,zachmizrahidb9o,Zach Mizrahi
 Feb 12,home,Shelton State,W,6-3,6.0,3.0,3.0,win,20230212_qd5c,0.0,1.0,0.0,0.0,0.1,,,,0.0,,,,2023,2022-23,div1,Tallahassee,tallahasseecommunitycollege,zachmizrahidb9o,Zach Mizrahi
 Feb 4,home,Florida State Jacksonville,W,13-4,13.0,4.0,9.0,win,20230204_rtl8,0.0,0.0,0.0,0.0,0.1,,,,0.0,,,,2023,2022-23,div1,Tallahassee,tallahasseecommunitycollege,zachmizrahidb9o,Zach Mizrahi
@@ -4786,6 +4926,8 @@ Feb 15,home,Heartland,L,21-3,21.0,3.0,18.0,win,20230215_5zma,0.0,0.0,0.0,0.0,0.0
 Feb 19,home,Southeast,W,5-2,5.0,2.0,3.0,win,20230219_ih7o,1.0,1.0,0.0,0.0,6.0,3.0,2.0,2.0,3.0,2.0,8.0,1.0,2023,2022-23,div1,Garden City,gardencitycommunitycollege,taylordooleyrnkj,Taylor Dooley
 Feb 12,home,Amarillo College,W,4-3,4.0,3.0,1.0,win,20230212_1mr2,1.0,1.0,0.0,0.0,4.2,5.0,3.0,2.0,3.86,3.0,6.0,1.0,2023,2022-23,div1,Garden City,gardencitycommunitycollege,taylordooleyrnkj,Taylor Dooley
 Feb 5,home,Eastern Oklahoma State,L,8-6,8.0,6.0,2.0,win,20230205_8q7k,1.0,0.0,0.0,0.0,3.2,4.0,1.0,1.0,2.45,6.0,6.0,,2023,2022-23,div1,Garden City,gardencitycommunitycollege,taylordooleyrnkj,Taylor Dooley
+Feb 19,home,Southwestern,W,8-4,8.0,4.0,4.0,win,20230219_dcc9,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2023,2022-23,div1,Johnson County,johnsoncountycommunitycollege,nicholassallaxlc,Nicholas Sall
+Feb 19,home,Southwestern,W,5-3,5.0,3.0,2.0,win,20230219_oa5y,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2023,2022-23,div1,Johnson County,johnsoncountycommunitycollege,nicholassallaxlc,Nicholas Sall
 Feb 18,home,Southwestern,W,10-0,10.0,0.0,10.0,win,20230218_nz0e,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2023,2022-23,div1,Johnson County,johnsoncountycommunitycollege,nicholassallaxlc,Nicholas Sall
 Feb 18,home,Southwestern,W,14-4,14.0,4.0,10.0,win,20230218_hy85,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2023,2022-23,div1,Johnson County,johnsoncountycommunitycollege,nicholassallaxlc,Nicholas Sall
 Feb 11,home,Crowder,W,9-8,9.0,8.0,1.0,win,20230211_u40t,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2023,2022-23,div1,Johnson County,johnsoncountycommunitycollege,nicholassallaxlc,Nicholas Sall
@@ -4794,6 +4936,7 @@ Feb 9,home,Crowder,L,6-4,6.0,4.0,2.0,win,20230209_xw39,0.0,0.0,0.0,0.0,0.0,,,,0.
 Feb 5,home,North Arkansas,W,8-4,8.0,4.0,4.0,win,20230205_9qs1,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2023,2022-23,div1,Johnson County,johnsoncountycommunitycollege,nicholassallaxlc,Nicholas Sall
 Feb 18,home,Moberly Area,W,4-3,4.0,3.0,1.0,win,20230218_znq0,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2023,2022-23,div2,Coahoma,coahomacommunitycollege,jacoblanierofvq,Jacob Lanier
 Feb 10,home,Meridian,L,13-3,13.0,3.0,10.0,win,20230210_x04s,0.0,0.0,1.0,0.0,1.1,3.0,9.0,5.0,33.75,3.0,1.0,,2023,2022-23,div2,Coahoma,coahomacommunitycollege,jacoblanierofvq,Jacob Lanier
+Feb 22,home,Santa Fe,L,10-2,10.0,2.0,8.0,win,20230222_8mey,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2023,2022-23,div1,Tallahassee,tallahasseecommunitycollege,brennanbakervvkg,Brennan Baker
 Feb 18,home,State College of Florida,L,8-2,8.0,2.0,6.0,win,20230218_mb1t,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2023,2022-23,div1,Tallahassee,tallahasseecommunitycollege,brennanbakervvkg,Brennan Baker
 Feb 18,home,State College of Florida,W,8-5,8.0,5.0,3.0,win,20230218_8yhj,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2023,2022-23,div1,Tallahassee,tallahasseecommunitycollege,brennanbakervvkg,Brennan Baker
 Feb 17,home,State College of Florida,W,11-10,11.0,10.0,1.0,win,20230217_roj1,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2023,2022-23,div1,Tallahassee,tallahasseecommunitycollege,brennanbakervvkg,Brennan Baker
@@ -4955,6 +5098,8 @@ Feb 6,home,Labette,W,15-4,15.0,4.0,11.0,win,20230206_iyqy,1.0,0.0,0.0,0.0,4.1,6.
 Feb 12,home,Delgado,L,5-2,5.0,2.0,3.0,win,20230212_cfh8,0.0,0.0,0.0,0.0,0.1,1.0,,,0.0,,,,2023,2022-23,div1,Pensacola State,pensacolastatecollege,tuckerjackson6sjj,Tucker Jackson
 Feb 7,home,Bishop State,W,3-1,3.0,1.0,2.0,win,20230207_viqs,0.0,0.0,0.0,0.0,1.0,,,,0.0,,1.0,,2023,2022-23,div1,Pensacola State,pensacolastatecollege,tuckerjackson6sjj,Tucker Jackson
 Jan 28,home,Southwest Tennessee,L,3-2,3.0,2.0,1.0,win,20230128_3w4m,0.0,0.0,0.0,0.0,1.1,,,,0.0,3.0,1.0,,2023,2022-23,div1,Pensacola State,pensacolastatecollege,tuckerjackson6sjj,Tucker Jackson
+Feb 21,home,Ozarks University,W,10-1,10.0,1.0,9.0,win,20230221_hza3,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2023,2022-23,div1,Connors State,connorsstatecollege,bradycerkownykmw9a,Brady Cerkownyk
+Feb 21,home,Ozarks University,W,11-0,11.0,0.0,11.0,win,20230221_pxbg,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2023,2022-23,div1,Connors State,connorsstatecollege,bradycerkownykmw9a,Brady Cerkownyk
 Feb 20,home,Arkansas Tech,W,7-6,7.0,6.0,1.0,win,20230220_plnk,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2023,2022-23,div1,Connors State,connorsstatecollege,bradycerkownykmw9a,Brady Cerkownyk
 Feb 20,home,Arkansas Tech,W,16-6,16.0,6.0,10.0,win,20230220_tr0s,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2023,2022-23,div1,Connors State,connorsstatecollege,bradycerkownykmw9a,Brady Cerkownyk
 Feb 18,home,TCS Postgrad,W,15-7,15.0,7.0,8.0,win,20230218_5xox,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2023,2022-23,div1,Connors State,connorsstatecollege,bradycerkownykmw9a,Brady Cerkownyk
@@ -5077,6 +5222,7 @@ Feb 12,home,East Mississippi,W,16-4,16.0,4.0,12.0,win,20230212_ubft,0.0,0.0,0.0,
 Feb 10,home,Odessa,L,21-18,21.0,18.0,3.0,win,20230210_wjg8,0.0,0.0,0.0,0.0,1.0,3.0,4.0,2.0,18.0,,2.0,,2023,2022-23,div1,Blinn,blinncollege,samcrain7byi,Sam Crain
 Feb 4,home,Baton Rouge,W,4-2,4.0,2.0,2.0,win,20230204_ih84,0.0,1.0,0.0,0.0,4.0,3.0,1.0,,0.0,2.0,8.0,,2023,2022-23,div1,Blinn,blinncollege,samcrain7byi,Sam Crain
 Jan 27,home,Weatherford,L,8-1,8.0,1.0,7.0,win,20230127_9xui,0.0,0.0,1.0,0.0,4.0,6.0,2.0,2.0,4.5,2.0,6.0,1.0,2023,2022-23,div1,Blinn,blinncollege,samcrain7byi,Sam Crain
+Feb 19,home,Southeastern Illinois,L,18-2,18.0,2.0,16.0,win,20230219_bgtm,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2023,2022-23,div1,Kishwaukee,kishwaukeecollege,forrestgerbervnty,Forrest Gerber
 Feb 15,home,Cisco,L,21-2,21.0,2.0,19.0,win,20230215_7cfu,0.0,0.0,0.0,0.0,0.2,3.0,6.0,2.0,27.0,2.0,1.0,,2023,2022-23,div1,Western Texas,westerntexascollege,hunterroland8kle,Hunter Roland
 Feb 6,home,Wayland Baptist JV,W,10-3,10.0,3.0,7.0,win,20230206_l83a,0.0,0.0,0.0,0.0,1.0,,2.0,2.0,18.0,4.0,1.0,,2023,2022-23,div1,Western Texas,westerntexascollege,hunterroland8kle,Hunter Roland
 Feb 18,home,Yavapai,L,6-4,6.0,4.0,2.0,win,20230218_u448,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2023,2022-23,div1,Cochise,cochisecollege,gerardohernandezbkjl,Gerardo Hernandez
@@ -5205,6 +5351,7 @@ Feb 1,home,Arizona Christian University JV,W,8-7,8.0,7.0,1.0,win,20230201_3miu,0
 Jan 28,home,Pima,L,9-7,9.0,7.0,2.0,win,20230128_n9xt,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2023,2022-23,div2,Paradise Valley,paradisevalleycommunitycollege,mattgraft7er,Matt Graf
 Jan 27,home,Pima,L,5-2,5.0,2.0,3.0,win,20230127_db9a,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2023,2022-23,div2,Paradise Valley,paradisevalleycommunitycollege,mattgraft7er,Matt Graf
 Jan 27,home,Pima,L,8-6,8.0,6.0,2.0,win,20230127_29v3,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2023,2022-23,div2,Paradise Valley,paradisevalleycommunitycollege,mattgraft7er,Matt Graf
+Feb 19,home,Southwestern,W,5-3,5.0,3.0,2.0,win,20230219_oa5y,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2023,2022-23,div1,Johnson County,johnsoncountycommunitycollege,coopercombstqqc,Cooper Combs
 Feb 18,home,Southwestern,W,14-4,14.0,4.0,10.0,win,20230218_hy85,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2023,2022-23,div1,Johnson County,johnsoncountycommunitycollege,coopercombstqqc,Cooper Combs
 Feb 11,home,Crowder,W,9-8,9.0,8.0,1.0,win,20230211_u40t,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2023,2022-23,div1,Johnson County,johnsoncountycommunitycollege,coopercombstqqc,Cooper Combs
 Feb 11,home,Crowder,W,3-0,3.0,0.0,3.0,win,20230211_zikb,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2023,2022-23,div1,Johnson County,johnsoncountycommunitycollege,coopercombstqqc,Cooper Combs
@@ -5269,6 +5416,8 @@ Feb 4,home,Gaston College,L,6-1,6.0,1.0,5.0,win,20230204_slwo,0.0,0.0,0.0,0.0,0.
 Feb 4,home,Gaston College,L,5-0,5.0,0.0,5.0,win,20230204_zsjp,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2023,2022-23,div2,Southeastern-Whiteville,southeasterncommunitycollegewhitevill,jakestanleyj6pm,Jake Stanley
 Jan 29,home,Cleveland,W,12-11,12.0,11.0,1.0,win,20230129_b37a,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2023,2022-23,div2,Southeastern-Whiteville,southeasterncommunitycollegewhitevill,jakestanleyj6pm,Jake Stanley
 Jan 28,home,Cleveland,W,4-3,4.0,3.0,1.0,win,20230128_rm9m,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2023,2022-23,div2,Southeastern-Whiteville,southeasterncommunitycollegewhitevill,jakestanleyj6pm,Jake Stanley
+Feb 22,home,Dallas College - Mountain View,W,11-5,11.0,5.0,6.0,win,20230222_g9c4,0.0,0.0,0.0,0.0,2.0,3.0,2.0,2.0,9.0,1.0,1.0,,2023,2022-23,div3,Dallas College - Eastfield,dallascollegeeastfield,austinnoelsm2r,Austin Noel
+Feb 11,home,DFW Post Grad,W,9-0,9.0,0.0,9.0,win,20230211_3b0n,0.0,0.0,0.0,0.0,2.0,1.0,,,0.0,1.0,2.0,,2023,2022-23,div3,Dallas College - Eastfield,dallascollegeeastfield,austinnoelsm2r,Austin Noel
 Feb 18,home,Wallace-Dothan,L,7-5,7.0,5.0,2.0,win,20230218_oxdq,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2023,2022-23,div1,Abraham Baldwin,abrahambaldwinagriculturalcollege,jabaridanielyzwkq,Jabari Daniely
 Feb 14,home,USC Salkehatchie,L,7-5,7.0,5.0,2.0,win,20230214_kdbi,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2023,2022-23,div1,Abraham Baldwin,abrahambaldwinagriculturalcollege,jabaridanielyzwkq,Jabari Daniely
 Feb 7,home,Tallahassee,L,10-3,10.0,3.0,7.0,win,20230207_b7lm,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2023,2022-23,div1,Abraham Baldwin,abrahambaldwinagriculturalcollege,jabaridanielyzwkq,Jabari Daniely
@@ -5298,6 +5447,8 @@ Jan 28,home,Walters State,L,16-0,16.0,0.0,16.0,win,20230128_nqp6,0.0,0.0,0.0,0.0
 Jan 27,home,Walters State,L,22-1,22.0,1.0,21.0,win,20230127_s0zq,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2023,2022-23,div1,USC Salkehatchie,uscsalkehatchie,calinbrunsonmbo2,Calin Brunson
 Feb 15,home,Centenary JV,W,8-2,8.0,2.0,6.0,win,20230215_5iug,0.0,0.0,0.0,0.0,1.0,,,,0.0,3.0,2.0,,2023,2022-23,div1,Northeast Texas,northeasttexascommunitycollege,connorolsonk5rt,Connor Olson
 Feb 5,home,UA Rich Mountain,W,12-2,12.0,2.0,10.0,win,20230205_ws2a,0.0,0.0,0.0,0.0,0.1,,,,0.0,3.0,1.0,,2023,2022-23,div1,Northeast Texas,northeasttexascommunitycollege,connorolsonk5rt,Connor Olson
+Feb 19,home,Copiah-Lincoln,L,5-1,5.0,1.0,4.0,win,20230219_tzc6,0.0,0.0,0.0,0.0,1.0,1.0,,,0.0,,,,2023,2022-23,div1,Kaskaskia,kaskaskiacollege,noahgodfreylkzf,Noah Godfrey
+Feb 18,home,Southwest Mississippi,L,5-4,5.0,4.0,1.0,win,20230218_iyyw,0.0,0.0,0.0,0.0,0.2,,,,0.0,,,,2023,2022-23,div1,Kaskaskia,kaskaskiacollege,noahgodfreylkzf,Noah Godfrey
 Feb 11,home,Northeast Mississippi,W,12-8,12.0,8.0,4.0,win,20230211_sv83,0.0,0.0,0.0,1.0,1.0,3.0,2.0,2.0,18.0,,,,2023,2022-23,div1,Kaskaskia,kaskaskiacollege,noahgodfreylkzf,Noah Godfrey
 Feb 10,home,Northeast Mississippi,L,9-8,9.0,8.0,1.0,win,20230210_hngn,0.0,0.0,0.0,0.0,0.1,3.0,2.0,2.0,54.0,,,1.0,2023,2022-23,div1,Kaskaskia,kaskaskiacollege,noahgodfreylkzf,Noah Godfrey
 Feb 19,home,Lenoir,L,5-3,5.0,3.0,2.0,win,20230219_g7g7,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2023,2022-23,div2,Fayetteville Tech,fayettevilletechnicalcommunitycollege,jackclancyk1s8,Jack Clancy
@@ -5371,6 +5522,8 @@ Feb 18,home,Ranger,W,14-12,14.0,12.0,2.0,win,20230218_yy5t,1.0,0.0,0.0,0.0,3.0,7
 Feb 11,home,El Paso,L,8-2,8.0,2.0,6.0,win,20230211_eow3,1.0,0.0,1.0,0.0,4.0,5.0,3.0,2.0,4.5,3.0,3.0,,2023,2022-23,div1,Luna,lunacommunitycollege,ashtonluerakkm0,Ashton Luera
 Feb 4,home,Amarillo College,W,18-6,18.0,6.0,12.0,win,20230204_smug,1.0,1.0,0.0,0.0,6.2,10.0,4.0,3.0,4.05,2.0,5.0,,2023,2022-23,div1,Luna,lunacommunitycollege,ashtonluerakkm0,Ashton Luera
 Jan 27,home,Eastern Arizona,L,11-1,11.0,1.0,10.0,win,20230127_ftyr,1.0,0.0,1.0,0.0,1.0,3.0,6.0,1.0,9.0,2.0,1.0,,2023,2022-23,div1,Luna,lunacommunitycollege,ashtonluerakkm0,Ashton Luera
+Feb 19,home,Southeastern Illinois,L,4-3,4.0,3.0,1.0,win,20230219_19hc,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2023,2022-23,div1,Kishwaukee,kishwaukeecollege,blakenovinskyumn9,Blake Novinsky
+Feb 18,home,Southeastern Illinois,L,11-1,11.0,1.0,10.0,win,20230218_ao2e,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2023,2022-23,div1,Kishwaukee,kishwaukeecollege,blakenovinskyumn9,Blake Novinsky
 Feb 18,home,Southeastern Illinois,L,7-6,7.0,6.0,1.0,win,20230218_6kph,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2023,2022-23,div1,Kishwaukee,kishwaukeecollege,blakenovinskyumn9,Blake Novinsky
 Feb 17,home,Gulf Coast State,L,9-2,9.0,2.0,7.0,win,20230217_tjnp,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2023,2022-23,div1,Coastal Alabama - Brewton,coastalalabamaeast,justinbrunson3x3f,Justin Brunson
 Feb 14,home,Mississippi Gulf Coast,L,11-1,11.0,1.0,10.0,win,20230214_vlru,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2023,2022-23,div1,Coastal Alabama - Brewton,coastalalabamaeast,justinbrunson3x3f,Justin Brunson
@@ -5401,7 +5554,9 @@ Feb 10,home,Volunteer State,L,3-2,3.0,2.0,1.0,win,20230210_ep7r,0.0,0.0,1.0,0.0,
 Feb 19,home,Pratt,W,10-5,10.0,5.0,5.0,win,20230219_w5bn,0.0,0.0,0.0,0.0,1.0,2.0,4.0,4.0,36.0,3.0,1.0,,2023,2022-23,div2,Northern Oklahoma Tonkawa,northernoklahomacollegetonkawa,caleschroedery0lt,Cale Schroeder
 Feb 11,home,ASU Mountain Home,W,10-9,10.0,9.0,1.0,win,20230211_k9r5,0.0,1.0,0.0,0.0,1.1,3.0,4.0,4.0,27.0,1.0,,,2023,2022-23,div2,Northern Oklahoma Tonkawa,northernoklahomacollegetonkawa,caleschroedery0lt,Cale Schroeder
 Feb 4,home,Des Moines Area,L,11-2,11.0,2.0,9.0,win,20230204_s6lk,0.0,0.0,0.0,0.0,1.1,3.0,3.0,3.0,20.25,1.0,,1.0,2023,2022-23,div2,Northern Oklahoma Tonkawa,northernoklahomacollegetonkawa,caleschroedery0lt,Cale Schroeder
+Feb 19,home,Southwestern,W,8-4,8.0,4.0,4.0,win,20230219_dcc9,0.0,0.0,0.0,0.0,1.0,,,,0.0,,2.0,,2023,2022-23,div1,Johnson County,johnsoncountycommunitycollege,christianjohnsoncp33,Christian Johnson
 Feb 9,home,Crowder,L,6-4,6.0,4.0,2.0,win,20230209_xw39,0.0,0.0,0.0,0.0,1.0,,,,0.0,1.0,2.0,,2023,2022-23,div1,Johnson County,johnsoncountycommunitycollege,christianjohnsoncp33,Christian Johnson
+Feb 21,home,Ozarks University,W,11-0,11.0,0.0,11.0,win,20230221_pxbg,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2023,2022-23,div1,Connors State,connorsstatecollege,pierrecabrald7d5,Pierre Cabral
 Feb 11,home,Murray State,W,3-2,3.0,2.0,1.0,win,20230211_u2b5,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2023,2022-23,div1,Connors State,connorsstatecollege,pierrecabrald7d5,Pierre Cabral
 Feb 6,home,Oklahoma Wesleyan,W,19-0,19.0,0.0,19.0,win,20230206_rd09,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2023,2022-23,div1,Connors State,connorsstatecollege,pierrecabrald7d5,Pierre Cabral
 Feb 19,home,Dyersburg State,L,6-5,6.0,5.0,1.0,win,20230219_t4s1,0.0,0.0,0.0,0.0,3.0,8.0,4.0,4.0,12.0,0.0,5.0,0.0,2023,2022-23,div1,Shelton State,sheltonstatecommunitycollege,huntermerrickewvu,Hunter Merrick
@@ -5522,7 +5677,7 @@ Feb 8,home,Andrew,W,3-1,3.0,1.0,2.0,win,20230208_e1a9,0.0,1.0,0.0,0.0,1.2,,,,0.0
 Feb 4,home,Volunteer State,L,1-0,1.0,0.0,1.0,win,20230204_a7qy,0.0,0.0,0.0,0.0,2.0,,,,0.0,1.0,1.0,,2023,2022-23,div1,Central Alabama,centralalabamacommunitycollege,davisgastonto9o,Davis Gaston
 Feb 18,home,USC Sumter,W,12-2,12.0,2.0,10.0,win,20230218_zn9t,0.0,1.0,0.0,0.0,6.0,4.0,2.0,,0.0,,5.0,,2023,2022-23,div1,Gaston College,gastoncollege,nolanstranierobo5z,Nolan Straniero
 Feb 11,home,Combine Academy (Lincolnton),W,14-0,14.0,0.0,14.0,win,20230211_e4ih,1.0,1.0,0.0,0.0,4.0,0.0,0.0,0.0,0.0,0.0,7.0,0.0,2023,2022-23,div1,Gaston College,gastoncollege,nolanstranierobo5z,Nolan Straniero
-Feb 5,home,Walters State,W,4-2,4.0,2.0,2.0,win,20230205_see3,1.0,1.0,0.0,0.0,5.0,3.0,0.0,0.0,0.0,3.0,4.0,0.0,2023,2022-23,div1,Gaston College,gastoncollege,nolanstranierobo5z,Nolan Straniero
+Feb 5,home,Walters State,W,4-2,4.0,2.0,2.0,win,20230205_see3,1.0,1.0,0.0,0.0,5.0,3.0,0.0,0.0,0.0,3.0,4.0,,2023,2022-23,div1,Gaston College,gastoncollege,nolanstranierobo5z,Nolan Straniero
 Jan 29,home,Roane State,W,10-0,10.0,0.0,10.0,win,20230129_6854,1.0,1.0,0.0,0.0,3.0,0.0,0.0,0.0,0.0,0.0,4.0,0.0,2023,2022-23,div1,Gaston College,gastoncollege,nolanstranierobo5z,Nolan Straniero
 Feb 13,home,Oakland City JV,W,13-4,13.0,4.0,9.0,win,20230213_xoot,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2023,2022-23,div1,Frontier,frontiercommunitycollege,luismejianwx4,Luis Mejia
 Feb 10,home,Wallace State,L,10-0,10.0,0.0,10.0,win,20230210_f0wx,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2023,2022-23,div1,Frontier,frontiercommunitycollege,luismejianwx4,Luis Mejia
@@ -5566,6 +5721,7 @@ Feb 7,home,Spartan Post Grad,W,7-2,7.0,2.0,5.0,win,20230207_uql5,0.0,0.0,0.0,0.0
 Feb 3,home,Angelina,W,3-1,3.0,1.0,2.0,win,20230203_dwqk,0.0,0.0,0.0,1.0,1.0,2.0,1.0,1.0,9.0,,,,2023,2022-23,div1,Galveston,galvestoncollege,isaacgarcia1cvs,Isaac Garcia
 Jan 27,home,Baton Rouge,L,10-9,10.0,9.0,1.0,win,20230127_2i36,0.0,0.0,0.0,0.0,1.0,,,,0.0,,,,2023,2022-23,div1,Galveston,galvestoncollege,isaacgarcia1cvs,Isaac Garcia
 Feb 12,home,Northeastern Oklahoma A&M,L,8-2,8.0,2.0,6.0,win,20230212_a1zn,0.0,0.0,0.0,0.0,1.1,1.0,,,0.0,2.0,3.0,,2023,2022-23,div1,Metropolitan,metropolitancommunitycollege,joelpalecek1xhj,Joel Palecek
+Feb 20,home,Temple,L,8-7,8.0,7.0,1.0,win,20230220_3yst,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2023,2022-23,div1,San Jacinto-North,sanjacintocollegenorth,augiemojica4cc5,Augie Mojica
 Feb 19,home,Monroe College,W,10-7,10.0,7.0,3.0,win,20230219_7v6q,0.0,0.0,0.0,1.0,0.2,,,,0.0,,1.0,,2023,2022-23,div1,San Jacinto-North,sanjacintocollegenorth,augiemojica4cc5,Augie Mojica
 Feb 18,home,Monroe College,L,3-2,3.0,2.0,1.0,win,20230218_o10d,0.0,0.0,0.0,0.0,2.0,,,,0.0,,1.0,,2023,2022-23,div1,San Jacinto-North,sanjacintocollegenorth,augiemojica4cc5,Augie Mojica
 Feb 11,home,Wabash Valley,W,3-2,3.0,2.0,1.0,win,20230211_l40r,0.0,1.0,0.0,0.0,3.0,3.0,,,0.0,,4.0,,2023,2022-23,div1,San Jacinto-North,sanjacintocollegenorth,augiemojica4cc5,Augie Mojica
@@ -5664,6 +5820,7 @@ Feb 12,home,Wabash Valley,W,5-2,5.0,2.0,3.0,win,20230212_behu,0.0,0.0,0.0,0.0,0.
 Feb 11,home,Navarro,L,5-0,5.0,0.0,5.0,win,20230211_cdmg,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2023,2022-23,div1,Seminole State (OK),seminolestatecollegeok,houstonrussellc705,Houston Russell
 Feb 10,home,Galveston,L,3-2,3.0,2.0,1.0,win,20230210_65dn,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2023,2022-23,div1,Seminole State (OK),seminolestatecollegeok,houstonrussellc705,Houston Russell
 Feb 4,home,Murray State,L,10-6,10.0,6.0,4.0,win,20230204_uc7h,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2023,2022-23,div1,Seminole State (OK),seminolestatecollegeok,houstonrussellc705,Houston Russell
+Feb 22,home,Southeastern-Whiteville,W,18-11,18.0,11.0,7.0,win,20230222_edb1,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2023,2022-23,div1,USC Lancaster,usclancaster,kylewimmerq2xb,Kyle Wimmer
 Feb 18,home,Camp,L,10-5,10.0,5.0,5.0,win,20230218_9gmb,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2023,2022-23,div1,USC Lancaster,usclancaster,kylewimmerq2xb,Kyle Wimmer
 Feb 5,home,Southwest Virginia,W,19-2,19.0,2.0,17.0,win,20230205_653z,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2023,2022-23,div1,USC Lancaster,usclancaster,kylewimmerq2xb,Kyle Wimmer
 Feb 4,home,Southwest Virginia,W,10-6,10.0,6.0,4.0,win,20230204_1yqq,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2023,2022-23,div1,USC Lancaster,usclancaster,kylewimmerq2xb,Kyle Wimmer
@@ -5732,6 +5889,7 @@ Feb 20,home,Williams Baptist JV,W,3-0,3.0,0.0,3.0,win,20230220_i5xy,0.0,0.0,0.0,
 Feb 15,home,Dyersburg State,L,7-6,7.0,6.0,1.0,win,20230215_ccqv,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2023,2022-23,div1,Three Rivers,threeriverscommunitycollegemo,christionclearyl6cy,Christion Cleary
 Feb 11,home,Baton Rouge,W,8-3,8.0,3.0,5.0,win,20230211_egku,0.0,0.0,0.0,1.0,3.0,,,,0.0,,4.0,,2023,2022-23,div1,Wabash Valley,wabashvalleycollege,cadeschneiderab1e,Cade Schneider
 Feb 5,home,Florida SouthWestern State,L,16-1,16.0,1.0,15.0,win,20230205_rkxc,1.0,0.0,1.0,0.0,2.0,3.0,4.0,4.0,18.0,3.0,2.0,1.0,2023,2022-23,div1,Wabash Valley,wabashvalleycollege,cadeschneiderab1e,Cade Schneider
+Feb 20,home,Labette,L,9-7,9.0,7.0,2.0,win,20230220_txuh,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2023,2022-23,div1,McCook,mccookcommunitycollege,oliverdaviesczi6,Oliver Davies
 Feb 19,home,Labette,W,11-1,11.0,1.0,10.0,win,20230219_d1hr,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2023,2022-23,div1,McCook,mccookcommunitycollege,oliverdaviesczi6,Oliver Davies
 Feb 19,home,Labette,W,18-3,18.0,3.0,15.0,win,20230219_dfks,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2023,2022-23,div1,McCook,mccookcommunitycollege,oliverdaviesczi6,Oliver Davies
 Feb 12,home,Clarendon,L,20-14,20.0,14.0,6.0,win,20230212_lvts,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2023,2022-23,div1,McCook,mccookcommunitycollege,oliverdaviesczi6,Oliver Davies
@@ -6026,6 +6184,7 @@ Feb 16,home,Francis Marion JV,W,8-6,8.0,6.0,2.0,win,20230216_hc8k,0.0,0.0,0.0,0.
 Feb 4,home,Gaston College,L,6-1,6.0,1.0,5.0,win,20230204_slwo,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2023,2022-23,div2,Southeastern-Whiteville,southeasterncommunitycollegewhitevill,bradyhollingsworth0s6n,Brady Hollingsworth
 Feb 4,home,Gaston College,L,5-0,5.0,0.0,5.0,win,20230204_zsjp,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2023,2022-23,div2,Southeastern-Whiteville,southeasterncommunitycollegewhitevill,bradyhollingsworth0s6n,Brady Hollingsworth
 Jan 28,home,Cleveland,L,5-2,5.0,2.0,3.0,win,20230128_x6a5,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2023,2022-23,div2,Southeastern-Whiteville,southeasterncommunitycollegewhitevill,bradyhollingsworth0s6n,Brady Hollingsworth
+Feb 18,home,Southwest Mississippi,L,5-4,5.0,4.0,1.0,win,20230218_iyyw,0.0,0.0,0.0,0.0,1.0,1.0,1.0,,0.0,1.0,1.0,,2023,2022-23,div1,Kaskaskia,kaskaskiacollege,jaydonlotz02gq,Jaydon Lotz
 Feb 11,home,Northeast Mississippi,W,12-8,12.0,8.0,4.0,win,20230211_sv83,0.0,0.0,0.0,0.0,0.2,1.0,,,0.0,1.0,,,2023,2022-23,div1,Kaskaskia,kaskaskiacollege,jaydonlotz02gq,Jaydon Lotz
 Feb 12,home,Northeast,L,9-0,9.0,0.0,9.0,win,20230212_rk98,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2023,2022-23,div1,Allen County,allencountycommunitycollege,gagestark07lj,Gage Stark
 Feb 11,home,Northeast,L,5-0,5.0,0.0,5.0,win,20230211_7oxc,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2023,2022-23,div1,Allen County,allencountycommunitycollege,gagestark07lj,Gage Stark
@@ -6052,6 +6211,7 @@ Feb 19,home,Lake Area Academy,L,9-4,9.0,4.0,5.0,win,20230219_73wx,0.0,0.0,0.0,0.
 Feb 19,home,Lake Area Academy,W,11-8,11.0,8.0,3.0,win,20230219_8aoa,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2023,2022-23,div2,Spoon River,spoonrivercollege,brycevorwaldb88f,Bryce Vorwald
 Feb 18,home,Lake Area Academy,W,14-3,14.0,3.0,11.0,win,20230218_nku6,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2023,2022-23,div2,Spoon River,spoonrivercollege,brycevorwaldb88f,Bryce Vorwald
 Feb 18,home,Lake Area Academy,W,4-3,4.0,3.0,1.0,win,20230218_uo59,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2023,2022-23,div2,Spoon River,spoonrivercollege,brycevorwaldb88f,Bryce Vorwald
+Feb 22,home,Brunswick,W,15-5,15.0,5.0,10.0,win,20230222_3h90,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2023,2022-23,div1,Florence-Darlington Tech,florencedarlingtontechnicalcollege,kristianamaroyhj7,Kristian Amaro
 Feb 18,home,Southeastern-Whiteville,W,6-2,6.0,2.0,4.0,win,20230218_9wtb,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2023,2022-23,div1,Florence-Darlington Tech,florencedarlingtontechnicalcollege,kristianamaroyhj7,Kristian Amaro
 Feb 11,home,Miami Dade,W,4-0,4.0,0.0,4.0,win,20230211_704v,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2023,2022-23,div1,Florence-Darlington Tech,florencedarlingtontechnicalcollege,kristianamaroyhj7,Kristian Amaro
 Feb 4,home,Florida SouthWestern State,W,4-2,4.0,2.0,2.0,win,20230204_s3kl,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2023,2022-23,div1,Florence-Darlington Tech,florencedarlingtontechnicalcollege,kristianamaroyhj7,Kristian Amaro
@@ -6271,6 +6431,8 @@ Feb 3,home,Seminole State (FL),W,5-0,5.0,0.0,5.0,win,20230203_bb9i,0.0,0.0,0.0,0
 Feb 2,home,Palm Beach State,L,5-3,5.0,3.0,2.0,win,20230202_c10p,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2023,2022-23,div1,Indian River State,indianriverstatecollege,diegoalana22lw,Diego Alana
 Jan 28,home,Santa Fe,L,6-5,6.0,5.0,1.0,win,20230128_dsbb,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2023,2022-23,div1,Indian River State,indianriverstatecollege,diegoalana22lw,Diego Alana
 Jan 27,home,Palm Beach State,W,4-3,4.0,3.0,1.0,win,20230127_lz1o,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2023,2022-23,div1,Indian River State,indianriverstatecollege,diegoalana22lw,Diego Alana
+Feb 19,home,Southeastern Illinois,L,4-3,4.0,3.0,1.0,win,20230219_19hc,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2023,2022-23,div1,Kishwaukee,kishwaukeecollege,samwilliamsaypl,Sam Williams
+Feb 18,home,Southeastern Illinois,L,11-1,11.0,1.0,10.0,win,20230218_ao2e,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2023,2022-23,div1,Kishwaukee,kishwaukeecollege,samwilliamsaypl,Sam Williams
 Feb 18,home,Southeastern Illinois,L,7-6,7.0,6.0,1.0,win,20230218_6kph,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2023,2022-23,div1,Kishwaukee,kishwaukeecollege,samwilliamsaypl,Sam Williams
 Feb 18,home,Southwestern Illinois,W,9-8,9.0,8.0,1.0,win,20230218_hi7j,0.0,0.0,0.0,0.0,1.1,1.0,1.0,,0.0,,5.0,,2023,2022-23,div1,Northeastern Oklahoma A&M,northeasternoklahomaamcollege,gunnarmccollough4d24,Gunnar McCollough
 Feb 15,home,Coffeyville,W,6-4,6.0,4.0,2.0,win,20230215_yfvx,0.0,0.0,0.0,0.0,2.0,1.0,,,0.0,,,,2023,2022-23,div1,Northeastern Oklahoma A&M,northeasternoklahomaamcollege,gunnarmccollough4d24,Gunnar McCollough
@@ -6317,6 +6479,7 @@ Feb 3,home,Navarro,W,9-6,9.0,6.0,3.0,win,20230203_opxg,0.0,0.0,0.0,0.0,0.0,,,,0.
 Feb 3,home,Howard (TX),L,8-3,8.0,3.0,5.0,win,20230203_kv0m,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2023,2022-23,div1,Odessa,odessacollege,austinrusselly61p,Austin Russell
 Feb 15,home,Coastal Alabama - Monroeville,L,10-2,10.0,2.0,8.0,win,20230215_lbo9,0.0,0.0,0.0,0.0,1.0,2.0,1.0,1.0,9.0,,1.0,,2023,2022-23,div1,Marion Military,marionmilitaryinstitute,jamesbeallpq41,James Beall
 Feb 13,home,Lawson State,W,4-3,4.0,3.0,1.0,win,20230213_5gii,1.0,0.0,0.0,0.0,4.2,2.0,2.0,1.0,1.93,2.0,10.0,,2023,2022-23,div2,Jones,jonescollege,drewdruckenmillero3vk,Drew Druckenmiller
+Feb 19,home,Southwestern,W,8-4,8.0,4.0,4.0,win,20230219_dcc9,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2023,2022-23,div1,Johnson County,johnsoncountycommunitycollege,dagenbrewerid5j,Dagen Brewer
 Feb 18,home,Southwestern,W,10-0,10.0,0.0,10.0,win,20230218_nz0e,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2023,2022-23,div1,Johnson County,johnsoncountycommunitycollege,dagenbrewerid5j,Dagen Brewer
 Feb 11,home,Crowder,W,9-8,9.0,8.0,1.0,win,20230211_u40t,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2023,2022-23,div1,Johnson County,johnsoncountycommunitycollege,dagenbrewerid5j,Dagen Brewer
 Feb 11,home,Crowder,W,3-0,3.0,0.0,3.0,win,20230211_zikb,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2023,2022-23,div1,Johnson County,johnsoncountycommunitycollege,dagenbrewerid5j,Dagen Brewer
@@ -6362,6 +6525,7 @@ Feb 11,home,Glen Oaks,W,10-3,10.0,3.0,7.0,win,20230211_npco,0.0,0.0,0.0,0.0,0.0,
 Feb 5,home,Jefferson (MO),L,5-4,5.0,4.0,1.0,win,20230205_kc3n,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2023,2022-23,div1,Columbia State,columbiastatecommunitycollege,andrewreed8cvt,Andrew Reed
 Feb 5,home,Jefferson (MO),L,10-7,10.0,7.0,3.0,win,20230205_k55a,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2023,2022-23,div1,Columbia State,columbiastatecommunitycollege,andrewreed8cvt,Andrew Reed
 Feb 4,home,Jefferson (MO),L,6-5,6.0,5.0,1.0,win,20230204_fp26,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2023,2022-23,div1,Columbia State,columbiastatecommunitycollege,andrewreed8cvt,Andrew Reed
+Feb 20,home,Labette,L,9-7,9.0,7.0,2.0,win,20230220_txuh,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2023,2022-23,div1,McCook,mccookcommunitycollege,michaelquick1hwy,Michael Quick
 Feb 19,home,Labette,W,11-1,11.0,1.0,10.0,win,20230219_d1hr,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2023,2022-23,div1,McCook,mccookcommunitycollege,michaelquick1hwy,Michael Quick
 Feb 19,home,Labette,W,18-3,18.0,3.0,15.0,win,20230219_dfks,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2023,2022-23,div1,McCook,mccookcommunitycollege,michaelquick1hwy,Michael Quick
 Feb 12,home,Clarendon,L,20-14,20.0,14.0,6.0,win,20230212_lvts,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2023,2022-23,div1,McCook,mccookcommunitycollege,michaelquick1hwy,Michael Quick
@@ -6511,6 +6675,7 @@ Jan 31,home,Ottawa University JV,W,11-4,11.0,4.0,7.0,win,20230131_qgrc,0.0,0.0,0
 Jan 27,home,Pima,L,5-2,5.0,2.0,3.0,win,20230127_db9a,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2023,2022-23,div2,Paradise Valley,paradisevalleycommunitycollege,tynelson2qno,Ty Nelson
 Feb 19,home,Barton,L,11-1,11.0,1.0,10.0,win,20230219_lowk,0.0,0.0,0.0,0.0,1.0,3.0,2.0,2.0,18.0,,,1.0,2023,2022-23,div1,Western Nebraska,westernnebraskacommunitycollege,thibaultmercadierps5o,Thibault Mercadier
 Feb 11,home,New Mexico Military,L,11-1,11.0,1.0,10.0,win,20230211_j47b,0.0,0.0,0.0,0.0,0.2,3.0,4.0,4.0,54.0,2.0,2.0,,2023,2022-23,div1,Western Nebraska,westernnebraskacommunitycollege,thibaultmercadierps5o,Thibault Mercadier
+Feb 22,home,Santa Fe,L,10-2,10.0,2.0,8.0,win,20230222_8mey,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2023,2022-23,div1,Tallahassee,tallahasseecommunitycollege,jesusvanegasoioh,Jesus Vanegas
 Feb 18,home,State College of Florida,L,8-2,8.0,2.0,6.0,win,20230218_mb1t,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2023,2022-23,div1,Tallahassee,tallahasseecommunitycollege,jesusvanegasoioh,Jesus Vanegas
 Feb 18,home,State College of Florida,W,8-5,8.0,5.0,3.0,win,20230218_8yhj,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2023,2022-23,div1,Tallahassee,tallahasseecommunitycollege,jesusvanegasoioh,Jesus Vanegas
 Feb 17,home,State College of Florida,W,11-10,11.0,10.0,1.0,win,20230217_roj1,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2023,2022-23,div1,Tallahassee,tallahasseecommunitycollege,jesusvanegasoioh,Jesus Vanegas
@@ -6577,6 +6742,7 @@ Feb 18,home,Motlow State,W,10-2,10.0,2.0,8.0,win,20230218_dd5m,1.0,1.0,0.0,0.0,5
 Feb 14,home,Lurleen B. Wallace,L,5-0,5.0,0.0,5.0,win,20230214_65jx,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,2023,2022-23,div1,Northwest Florida State,northwestfloridastatecollege,kysonwitherspoon0yoy,Kyson Witherspoon
 Feb 9,home,St. Johns River State,L,8-5,8.0,5.0,3.0,win,20230209_wv9p,0.0,0.0,0.0,0.0,2.1,4.0,4.0,3.0,11.57,4.0,6.0,0.0,2023,2022-23,div1,Northwest Florida State,northwestfloridastatecollege,kysonwitherspoon0yoy,Kyson Witherspoon
 Jan 28,home,State College of Florida,L,12-0,12.0,0.0,12.0,win,20230128_uh7u,0.0,0.0,0.0,0.0,1.2,2.0,2.0,0.0,0.0,1.0,1.0,0.0,2023,2022-23,div1,Northwest Florida State,northwestfloridastatecollege,kysonwitherspoon0yoy,Kyson Witherspoon
+Feb 22,home,Santa Fe,L,10-2,10.0,2.0,8.0,win,20230222_8mey,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2023,2022-23,div1,Tallahassee,tallahasseecommunitycollege,danielaxsonjkg0,Daniel Axson
 Feb 18,home,State College of Florida,L,8-2,8.0,2.0,6.0,win,20230218_mb1t,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2023,2022-23,div1,Tallahassee,tallahasseecommunitycollege,danielaxsonjkg0,Daniel Axson
 Feb 13,home,Shelton State,W,12-2,12.0,2.0,10.0,win,20230213_bfqx,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2023,2022-23,div1,Tallahassee,tallahasseecommunitycollege,danielaxsonjkg0,Daniel Axson
 Feb 12,home,Shelton State,W,9-6,9.0,6.0,3.0,win,20230212_hfel,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2023,2022-23,div1,Tallahassee,tallahasseecommunitycollege,danielaxsonjkg0,Daniel Axson
@@ -6586,7 +6752,6 @@ Feb 15,home,Gordon State,L,3-1,3.0,1.0,2.0,win,20230215_s7a8,1.0,0.0,0.0,0.0,5.0
 Feb 3,home,Florida SouthWestern State,L,9-7,9.0,7.0,2.0,win,20230203_vdr5,0.0,0.0,0.0,0.0,4.0,4.0,4.0,3.0,6.75,4.0,2.0,,2023,2022-23,div1,Chattahoochee Valley,chattahoocheevalleycommunitycollege,cademitchellzifo,Cade Mitchell
 Jan 27,home,Gordon State,L,6-3,6.0,3.0,3.0,win,20230127_8gnd,0.0,0.0,1.0,0.0,1.0,2.0,4.0,3.0,27.0,2.0,1.0,,2023,2022-23,div1,Chattahoochee Valley,chattahoocheevalleycommunitycollege,cademitchellzifo,Cade Mitchell
 Feb 19,home,Virginia Peninsula,L,14-1,14.0,1.0,13.0,win,20230219_9pyv,1.0,0.0,0.0,0.0,0.2,3.0,6.0,6.0,81.0,1.0,0.0,0.0,2023,2022-23,div3,Monroe College - Bronx,monroecollegebronx,victorvilomar8vh1,Victor Vilomar
-Feb 18,home,Camp,W,4-1,4.0,1.0,3.0,win,20230218_9pdj,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2023,2022-23,div1,USC Lancaster,usclancaster,hunterlancasterdgza,Hunter Lancaster
 Feb 4,home,Southwest Virginia,W,14-2,14.0,2.0,12.0,win,20230204_nqww,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2023,2022-23,div1,USC Lancaster,usclancaster,hunterlancasterdgza,Hunter Lancaster
 Feb 17,home,Wallace State,W,7-1,7.0,1.0,6.0,win,20230217_sfl9,1.0,1.0,0.0,0.0,5.0,4.0,0.0,0.0,0.0,1.0,4.0,,2023,2022-23,div2,Kirkwood,kirkwoodcommunitycollege,loganrundetbsn,Logan Runde
 Feb 11,home,Seward County,W,15-7,15.0,7.0,8.0,win,20230211_t2xd,1.0,1.0,0.0,0.0,3.0,8.0,5.0,1.0,3.0,1.0,4.0,,2023,2022-23,div2,Kirkwood,kirkwoodcommunitycollege,loganrundetbsn,Logan Runde
@@ -6764,6 +6929,7 @@ Feb 18,home,Southwest Virginia,W,12-0,12.0,0.0,12.0,win,20230218_rwu1,0.0,0.0,0.
 Feb 19,home,Labette,W,11-1,11.0,1.0,10.0,win,20230219_d1hr,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2023,2022-23,div1,McCook,mccookcommunitycollege,abelreyesujsm,Abel Reyes
 Feb 11,home,Clarendon,L,9-5,9.0,5.0,4.0,win,20230211_pvq7,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2023,2022-23,div1,McCook,mccookcommunitycollege,abelreyesujsm,Abel Reyes
 Feb 6,home,Murray State,L,9-3,9.0,3.0,6.0,win,20230206_gdaa,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2023,2022-23,div1,McCook,mccookcommunitycollege,abelreyesujsm,Abel Reyes
+Feb 22,home,Southeastern-Whiteville,W,18-11,18.0,11.0,7.0,win,20230222_edb1,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2023,2022-23,div1,USC Lancaster,usclancaster,tannerhendersonvnsw,Tanner Henderson
 Feb 18,home,Camp,L,10-5,10.0,5.0,5.0,win,20230218_9gmb,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2023,2022-23,div1,USC Lancaster,usclancaster,tannerhendersonvnsw,Tanner Henderson
 Feb 18,home,Camp,W,4-1,4.0,1.0,3.0,win,20230218_9pdj,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2023,2022-23,div1,USC Lancaster,usclancaster,tannerhendersonvnsw,Tanner Henderson
 Feb 11,home,Patrick & Henry,W,6-4,6.0,4.0,2.0,win,20230211_2vk0,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2023,2022-23,div1,USC Lancaster,usclancaster,tannerhendersonvnsw,Tanner Henderson
@@ -6912,6 +7078,7 @@ Feb 3,home,Pima,L,8-2,8.0,2.0,6.0,win,20230203_e4g8,0.0,0.0,0.0,0.0,0.0,,,,0.0,,
 Feb 3,home,New Mexico,W,5-4,5.0,4.0,1.0,win,20230203_beco,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2023,2022-23,div1,Southern Nevada,collegeofsouthernnevada,garrisongeis0bkz,Garrison Geis
 Jan 28,home,Arizona Western,W,16-6,16.0,6.0,10.0,win,20230128_kci0,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2023,2022-23,div1,Southern Nevada,collegeofsouthernnevada,garrisongeis0bkz,Garrison Geis
 Jan 27,home,Central Arizona,W,4-3,4.0,3.0,1.0,win,20230127_b853,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2023,2022-23,div1,Southern Nevada,collegeofsouthernnevada,garrisongeis0bkz,Garrison Geis
+Feb 22,home,Guilford Tech,W,5-0,5.0,0.0,5.0,win,20230222_7xm3,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2023,2022-23,div1,Gaston College,gastoncollege,andrewmuracowkdr,Andrew Muraco
 Feb 18,home,USC Sumter,W,12-2,12.0,2.0,10.0,win,20230218_zn9t,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2023,2022-23,div1,Gaston College,gastoncollege,andrewmuracowkdr,Andrew Muraco
 Feb 17,home,Catawba Valley,W,15-5,15.0,5.0,10.0,win,20230217_1tyu,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2023,2022-23,div1,Gaston College,gastoncollege,andrewmuracowkdr,Andrew Muraco
 Feb 15,home,Caldwell Tech,W,7-0,7.0,0.0,7.0,win,20230215_dnix,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2023,2022-23,div1,Gaston College,gastoncollege,andrewmuracowkdr,Andrew Muraco
@@ -7011,6 +7178,7 @@ Feb 5,home,New Mexico Military,L,14-8,14.0,8.0,6.0,win,20230205_318m,0.0,0.0,0.0
 Feb 5,home,New Mexico Military,L,23-11,23.0,11.0,12.0,win,20230205_hlkk,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2023,2022-23,div1,Otero,oterocollege,philcarter6q17,Phil Carter
 Feb 4,home,New Mexico Military,L,12-2,12.0,2.0,10.0,win,20230204_8woi,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2023,2022-23,div1,Otero,oterocollege,philcarter6q17,Phil Carter
 Feb 4,home,New Mexico Military,L,16-10,16.0,10.0,6.0,win,20230204_0abb,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2023,2022-23,div1,Otero,oterocollege,philcarter6q17,Phil Carter
+Feb 20,home,Temple,L,8-7,8.0,7.0,1.0,win,20230220_3yst,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2023,2022-23,div1,San Jacinto-North,sanjacintocollegenorth,jaykelleyvqzb,Jay Kelley
 Feb 19,home,Monroe College,W,10-7,10.0,7.0,3.0,win,20230219_7v6q,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2023,2022-23,div1,San Jacinto-North,sanjacintocollegenorth,jaykelleyvqzb,Jay Kelley
 Feb 17,home,Monroe College,W,16-2,16.0,2.0,14.0,win,20230217_3f6g,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2023,2022-23,div1,San Jacinto-North,sanjacintocollegenorth,jaykelleyvqzb,Jay Kelley
 Feb 16,home,Monroe College,W,11-0,11.0,0.0,11.0,win,20230216_5uew,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2023,2022-23,div1,San Jacinto-North,sanjacintocollegenorth,jaykelleyvqzb,Jay Kelley
@@ -7064,40 +7232,3 @@ Feb 4,home,El Paso,W,9-1,9.0,1.0,8.0,win,20230204_n390,0.0,0.0,0.0,0.0,2.0,2.0,1
 Feb 18,home,Southeastern,W,5-3,5.0,3.0,2.0,win,20230218_vxgu,0.0,0.0,0.0,0.0,0.1,,,,0.0,1.0,,,2023,2022-23,div2,East Central (MS),eastcentralcommunitycollege,gavinbrown1xpm,Gavin Brown
 Feb 13,home,Baton Rouge,L,10-6,10.0,6.0,4.0,win,20230213_ygbh,0.0,0.0,0.0,0.0,1.0,3.0,3.0,3.0,27.0,,,,2023,2022-23,div2,East Central (MS),eastcentralcommunitycollege,gavinbrown1xpm,Gavin Brown
 Feb 10,home,Jackson State,W,8-7,8.0,7.0,1.0,win,20230210_dn70,0.0,0.0,0.0,0.0,1.0,,1.0,1.0,9.0,,2.0,,2023,2022-23,div2,East Central (MS),eastcentralcommunitycollege,gavinbrown1xpm,Gavin Brown
-Feb 4,home,Pensacola State,L,3-1,3.0,1.0,2.0,win,20230204_tsrr,0.0,0.0,0.0,0.0,0.1,1.0,1.0,1.0,27.0,1.0,,,2023,2022-23,div2,East Central (MS),eastcentralcommunitycollege,gavinbrown1xpm,Gavin Brown
-Feb 7,home,Ivy Tech Fort Wayne,W,9-2,9.0,2.0,7.0,win,20230207_bgr6,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2023,2022-23,div2,Kellogg,kelloggcommunitycollege,donovanthompsonrfkd,Donovan Thompson
-Feb 13,home,Northwestern Oklahoma State University JV,W,15-6,15.0,6.0,9.0,win,20230213_ki8m,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2023,2022-23,div2,Hesston,hesstoncollege,brianlugogermany2dh,Brian Lugo German
-Feb 19,home,Atlantic Cape,L,6-3,6.0,3.0,3.0,win,20230219_41ou,0.0,0.0,1.0,0.0,2.0,2.0,3.0,2.0,9.0,1.0,4.0,,2023,2022-23,div2,Delaware Tech,delawaretechnicalcommunitycollege,ryanwilliams9mpn,Ryan Williams
-Feb 11,home,Cecil,W,7-3,7.0,3.0,4.0,win,20230211_h60b,0.0,0.0,0.0,0.0,2.0,1.0,1.0,1.0,4.5,2.0,3.0,1.0,2023,2022-23,div2,Delaware Tech,delawaretechnicalcommunitycollege,ryanwilliams9mpn,Ryan Williams
-Feb 11,home,Trinidad State,W,16-0,16.0,0.0,16.0,win,20230211_o9nc,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2023,2022-23,div1,Midland,midlandcollege,landonpylesjxp7,Landon Pyles
-Feb 10,home,Trinidad State,W,14-1,14.0,1.0,13.0,win,20230210_s0me,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2023,2022-23,div1,Midland,midlandcollege,landonpylesjxp7,Landon Pyles
-Feb 4,home,Wayland Baptist,W,14-0,14.0,0.0,14.0,win,20230204_iwdn,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2023,2022-23,div1,Midland,midlandcollege,landonpylesjxp7,Landon Pyles
-Jan 28,home,Alvin,W,2-1,2.0,1.0,1.0,win,20230128_adg7,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2023,2022-23,div1,Midland,midlandcollege,landonpylesjxp7,Landon Pyles
-Feb 12,home,Dawson,W,9-7,9.0,7.0,2.0,win,20230212_122l,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2023,2022-23,div1,Northeastern,northeasternjuniorcollege,jaylanruffinfaj9,Jaylan Ruffin
-Feb 11,home,Dawson,W,4-3,4.0,3.0,1.0,win,20230211_3zoo,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2023,2022-23,div1,Northeastern,northeasternjuniorcollege,jaylanruffinfaj9,Jaylan Ruffin
-Feb 5,home,Arizona Western,L,11-0,11.0,0.0,11.0,win,20230205_pe2d,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2023,2022-23,div1,Northeastern,northeasternjuniorcollege,jaylanruffinfaj9,Jaylan Ruffin
-Feb 4,home,Arizona Western,L,6-1,6.0,1.0,5.0,win,20230204_e22z,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2023,2022-23,div1,Northeastern,northeasternjuniorcollege,jaylanruffinfaj9,Jaylan Ruffin
-Feb 3,home,Arizona Western,L,5-2,5.0,2.0,3.0,win,20230203_0lgq,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2023,2022-23,div1,Northeastern,northeasternjuniorcollege,jaylanruffinfaj9,Jaylan Ruffin
-Feb 2,home,Park Univeristy JV,L,9-4,9.0,4.0,5.0,win,20230202_a9i1,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2023,2022-23,div1,Northeastern,northeasternjuniorcollege,jaylanruffinfaj9,Jaylan Ruffin
-Feb 18,home,Yavapai,L,6-0,6.0,0.0,6.0,win,20230218_vn6l,0.0,0.0,0.0,0.0,1.0,,1.0,,0.0,1.0,,,2023,2022-23,div1,Cochise,cochisecollege,martinmirandazxdc,Martin Miranda
-Feb 7,home,Utah State Eastern,L,14-4,14.0,4.0,10.0,win,20230207_jyh3,0.0,0.0,0.0,0.0,1.0,2.0,3.0,3.0,27.0,2.0,1.0,,2023,2022-23,div1,Cochise,cochisecollege,martinmirandazxdc,Martin Miranda
-Feb 3,home,Community Christian (CA),W,15-0,15.0,0.0,15.0,win,20230203_of4c,0.0,0.0,0.0,0.0,1.0,,,,0.0,,2.0,,2023,2022-23,div1,Cochise,cochisecollege,martinmirandazxdc,Martin Miranda
-Jan 28,home,Colorado Northwestern,L,5-3,5.0,3.0,2.0,win,20230128_nbdz,0.0,0.0,0.0,0.0,0.2,3.0,3.0,3.0,40.5,2.0,2.0,,2023,2022-23,div1,Cochise,cochisecollege,martinmirandazxdc,Martin Miranda
-Feb 15,home,Crowder,W,13-10,13.0,10.0,3.0,win,20230215_2qyq,0.0,0.0,0.0,0.0,1.0,1.0,2.0,2.0,18.0,3.0,1.0,,2023,2022-23,div2,Northern Oklahoma Enid,northernoklahomacollegeenid,landongutierrezb2dn,Landon Gutierrez
-Feb 5,home,Northeast,W,11-10,11.0,10.0,1.0,win,20230205_mnvf,0.0,0.0,0.0,0.0,2.1,4.0,5.0,5.0,19.29,4.0,1.0,0.0,2023,2022-23,div2,Northern Oklahoma Enid,northernoklahomacollegeenid,landongutierrezb2dn,Landon Gutierrez
-Feb 19,home,Hudson Valley,W,6-3,6.0,3.0,3.0,win,20230219_9486,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2023,2022-23,div2,Anne Arundel,annearundelcommunitycollege,dyllonbarrett9e2v,Dyllon Barrett
-Feb 19,home,Hudson Valley,W,11-3,11.0,3.0,8.0,win,20230219_ehet,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2023,2022-23,div2,Anne Arundel,annearundelcommunitycollege,dyllonbarrett9e2v,Dyllon Barrett
-Feb 18,home,Hudson Valley,W,5-2,5.0,2.0,3.0,win,20230218_ttu2,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2023,2022-23,div2,Anne Arundel,annearundelcommunitycollege,dyllonbarrett9e2v,Dyllon Barrett
-Feb 18,home,Hudson Valley,W,2-1,2.0,1.0,1.0,win,20230218_wcxz,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2023,2022-23,div2,Anne Arundel,annearundelcommunitycollege,dyllonbarrett9e2v,Dyllon Barrett
-Feb 5,home,Surry,L,5-4,5.0,4.0,1.0,win,20230205_0f3q,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2023,2022-23,div2,Anne Arundel,annearundelcommunitycollege,dyllonbarrett9e2v,Dyllon Barrett
-Feb 5,home,Surry,L,4-3,4.0,3.0,1.0,win,20230205_ma2v,0.0,0.0,1.0,0.0,0.2,2.0,1.0,1.0,13.5,,1.0,,2023,2022-23,div2,Anne Arundel,annearundelcommunitycollege,dyllonbarrett9e2v,Dyllon Barrett
-Feb 4,home,Surry,L,6-5,6.0,5.0,1.0,win,20230204_ejg5,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2023,2022-23,div2,Anne Arundel,annearundelcommunitycollege,dyllonbarrett9e2v,Dyllon Barrett
-Feb 4,home,Surry,L,3-0,3.0,0.0,3.0,win,20230204_guob,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2023,2022-23,div2,Anne Arundel,annearundelcommunitycollege,dyllonbarrett9e2v,Dyllon Barrett
-Feb 18,home,Pratt,W,8-7,8.0,7.0,1.0,win,20230218_7se7,1.0,1.0,0.0,0.0,6.0,4.0,4.0,0.0,0.0,2.0,5.0,,2023,2022-23,div2,Northern Oklahoma Tonkawa,northernoklahomacollegetonkawa,caleblunnonbpbc,Caleb Lunnon
-Feb 11,home,ASU Mountain Home,W,17-2,17.0,2.0,15.0,win,20230211_3vjn,1.0,1.0,0.0,0.0,3.0,5.0,2.0,2.0,6.0,2.0,3.0,,2023,2022-23,div2,Northern Oklahoma Tonkawa,northernoklahomacollegetonkawa,caleblunnonbpbc,Caleb Lunnon
-Feb 5,home,Des Moines Area,W,15-3,15.0,3.0,12.0,win,20230205_getj,1.0,1.0,0.0,0.0,5.0,4.0,3.0,3.0,5.4,2.0,4.0,1.0,2023,2022-23,div2,Northern Oklahoma Tonkawa,northernoklahomacollegetonkawa,caleblunnonbpbc,Caleb Lunnon
-Feb 5,home,Baton Rouge,W,12-4,12.0,4.0,8.0,win,20230205_j4tq,0.0,0.0,0.0,0.0,0.1,,,,0.0,2.0,1.0,,2023,2022-23,div1,Blinn,blinncollege,tristandukew5fo,Tristan Duke
-Feb 14,home,USC Salkehatchie,L,7-5,7.0,5.0,2.0,win,20230214_kdbi,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2023,2022-23,div1,Abraham Baldwin,abrahambaldwinagriculturalcollege,cameronsumnertxow,Cameron Sumner
-Feb 14,home,USC Salkehatchie,W,11-0,11.0,0.0,11.0,win,20230214_xktu,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2023,2022-23,div1,Abraham Baldwin,abrahambaldwinagriculturalcollege,cameronsumnertxow,Cameron Sumner
-Feb 7,home,Tallahassee,L,10-3,10.0,3.0,7.0,win,20230207_b7lm,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2023,2022-23,div1,Abraham Baldwin,abrahambaldwinagriculturalcollege,cameronsumnertxow,Cameron Sumner
-Feb 4,home,Roane State,W,9-1,9.0,1.0,8.0,win,20230204_2wxu,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2023,2022-23,div1,Abraham Baldwin,abrahambaldwinagriculturalcollege,cameronsumnertxow,Cameron Sumner
