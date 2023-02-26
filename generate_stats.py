@@ -46,6 +46,10 @@ def generate_leauge_batting_stats(save=False):
     finished_df['BAbip'] = (finished_df['H'] - finished_df['HR']) / (finished_df['AB'] - finished_df['K'] - finished_df['HR'] + finished_df['SF'])
     finished_df['BAbip'] = finished_df['BAbip'].round(3)
 
+    ## Isolated power
+    finished_df['ISO'] = (finished_df['2B'] + (finished_df['3B'] * 2) + (finished_df['3B'])) / finished_df['AB']
+    finished_df['ISO'] = finished_df['ISO'].round(3)
+
     ## Runs scored percentage
     finished_df['RS%'] = (finished_df['R'] - finished_df['HR']) / (finished_df['H'] + finished_df['HBP'] + finished_df['BB'] - finished_df['HR'])
     finished_df['RS%'] = finished_df['RS%'].round(3)
@@ -186,6 +190,10 @@ def generate_season_player_batting_stats(season:int,save=False):
         ## OPS+
         main_df['OPS+'] = 100 * (main_df['OPS'] / lg_obs)
         main_df['OPS+'] = main_df['OPS+'].round(0)
+
+        ## Isolated power
+        main_df['ISO'] = (main_df['2B'] + (main_df['3B'] * 2) + (main_df['3B'])) / main_df['AB']
+        main_df['ISO'] = main_df['ISO'].round(3)
         
         ## Batting Average on balls in play
         main_df['BAbip'] = (main_df['H'] - main_df['HR']) / (main_df['AB'] - main_df['K'] - main_df['HR'] + main_df['SF'])
