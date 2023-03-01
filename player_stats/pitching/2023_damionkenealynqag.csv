@@ -1,21 +1,11 @@
 date,location,opponent,result,score,team_score,opp_score,game_score_diff,game_win_loss,game_id,GS,W,L,SV,IP,H,R,ER,ERA,BB,K,HR,season,njcaa_season,njcaa_division,team,team_id,player_id,player_name
-Feb 25,home,Rollins College (B),W,10-3,10,3,7,win,20230225_cfze,0,0,0,0,1.0,2,1,1,9.00,,2,,2023,2022-23,div1,Polk State,polkstatecollege,damionkenealynqag,Damion Kenealy
-Feb 24,home,Florida SouthWestern State,L,12-1,12,1,11,win,20230224_9g70,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div1,Polk State,polkstatecollege,damionkenealynqag,Damion Kenealy
-Feb 22,home,St. Johns River State,L,10-9,10,9,1,win,20230222_2yzj,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div1,Polk State,polkstatecollege,damionkenealynqag,Damion Kenealy
-Feb 21,home,St. Johns River State,W,12-5,12,5,7,win,20230221_0mf2,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div1,Polk State,polkstatecollege,damionkenealynqag,Damion Kenealy
-Feb 20,home,Santa Fe,L,3-2,3,2,1,win,20230220_hxzu,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div1,Polk State,polkstatecollege,damionkenealynqag,Damion Kenealy
-Feb 18,home,Eastern Florida State,W,5-4,5,4,1,win,20230218_rkvy,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div1,Polk State,polkstatecollege,damionkenealynqag,Damion Kenealy
-Feb 17,home,Seminole State (FL),W,9-7,9,7,2,win,20230217_s0cj,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div1,Polk State,polkstatecollege,damionkenealynqag,Damion Kenealy
-Feb 15,home,South Florida State,W,12-4,12,4,8,win,20230215_twp6,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div1,Polk State,polkstatecollege,damionkenealynqag,Damion Kenealy
-Feb 14,home,Eastern Florida State,W,10-6,10,6,4,win,20230214_crv0,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div1,Polk State,polkstatecollege,damionkenealynqag,Damion Kenealy
-Feb 11,home,Lake-Sumter State,L,10-4,10,4,6,win,20230211_rmxg,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div1,Polk State,polkstatecollege,damionkenealynqag,Damion Kenealy
-Feb 10,home,Lake-Sumter State,W,8-6,8,6,2,win,20230210_siol,0,0,0,0,0.0,,2,2,INF,2,,,2023,2022-23,div1,Polk State,polkstatecollege,damionkenealynqag,Damion Kenealy
-Feb 8,home,South Florida State,W,4-1,4,1,3,win,20230208_gjyg,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div1,Polk State,polkstatecollege,damionkenealynqag,Damion Kenealy
-Feb 7,home,Webber International University (B),W,16-2,16,2,14,win,20230207_1i0u,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div1,Polk State,polkstatecollege,damionkenealynqag,Damion Kenealy
-Feb 6,home,Seminole State (FL),W,7-5,7,5,2,win,20230206_2yjf,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div1,Polk State,polkstatecollege,damionkenealynqag,Damion Kenealy
-Feb 4,home,Daytona State,W,10-8,10,8,2,win,20230204_dodv,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div1,Polk State,polkstatecollege,damionkenealynqag,Damion Kenealy
-Feb 1,home,Santa Fe,L,11-6,11,6,5,win,20230201_ewy0,0,0,0,0,1.0,,,,0.00,1,2,,2023,2022-23,div1,Polk State,polkstatecollege,damionkenealynqag,Damion Kenealy
-Jan 30,home,Pasco-Hernando State,L,6-1,6,1,5,win,20230130_3049,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div1,Polk State,polkstatecollege,damionkenealynqag,Damion Kenealy
-Jan 28,home,Florida SouthWestern State,L,8-6,8,6,2,win,20230128_0cjs,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div1,Polk State,polkstatecollege,damionkenealynqag,Damion Kenealy
-Jan 27,home,Central Florida,L,5-2,5,2,3,win,20230127_1f90,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div1,Polk State,polkstatecollege,damionkenealynqag,Damion Kenealy
-Jan 27,home,Chipola,L,13-7,13,7,6,win,20230127_ntwa,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div1,Polk State,polkstatecollege,damionkenealynqag,Damion Kenealy
+Feb 25,home,Treasure Valley,W,4-3,4,3,1,win,20230225_4vtn,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div1,Polk State,polkstatecollege,damionkenealynqag,Damion Kenealy
+Feb 24,home,Treasure Valley,W,3-0,3,0,3,win,20230224_7vpy,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div1,Polk State,polkstatecollege,damionkenealynqag,Damion Kenealy
+Feb 24,home,Treasure Valley,W,10-0,10,0,10,win,20230224_ynh3,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div1,Polk State,polkstatecollege,damionkenealynqag,Damion Kenealy
+Feb 3,home,Scottsdale,W,4-3,4,3,1,win,20230203_l93e,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div1,Polk State,polkstatecollege,damionkenealynqag,Damion Kenealy
+Feb 3,home,Scottsdale,W,3-1,3,1,2,win,20230203_xaq5,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div1,Polk State,polkstatecollege,damionkenealynqag,Damion Kenealy
+Feb 2,home,Scottsdale,W,6-4,6,4,2,win,20230202_vbld,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div1,Polk State,polkstatecollege,damionkenealynqag,Damion Kenealy
+Jan 31,home,Utah State University Club,W,18-1,18,1,17,win,20230131_o8vg,0,0,0,0,1.0,1,1,,0.00,1,3,,2023,2022-23,div1,Polk State,polkstatecollege,damionkenealynqag,Damion Kenealy
+Jan 31,home,Utah State University Club,W,14-4,14,4,10,win,20230131_lzrf,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div1,Polk State,polkstatecollege,damionkenealynqag,Damion Kenealy
+Jan 30,home,Utah State University Club,W,16-3,16,3,13,win,20230130_g6dc,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div1,Polk State,polkstatecollege,damionkenealynqag,Damion Kenealy
+Jan 30,home,Utah State University Club,W,12-2,12,2,10,win,20230130_gy7b,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div1,Polk State,polkstatecollege,damionkenealynqag,Damion Kenealy
