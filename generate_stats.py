@@ -725,7 +725,7 @@ def generate_team_game_fielding_stats(season:int,save=False):
     return finished_df
 
 
-def main():
+def generate_stats_main():
     print('starting up')
     current_year = int(datetime.now().year)
 
@@ -746,4 +746,4 @@ def main():
         generate_season_team_fielding_stats(i,True)
 
 if __name__ == "__main__":
-    main()
+    generate_stats_main()

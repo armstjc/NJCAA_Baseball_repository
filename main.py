@@ -1,5 +1,6 @@
 import pandas as pd
 from combine import *
+from generate_stats import generate_stats_main
 from get_njcaa_game_stats import getNjcaaGamelogs
 from get_njcaa_rosters import getNjcaaRosters
 
@@ -28,3 +29,5 @@ if __name__ == "__main__":
     mergeBattingStats()
     mergePitchingStats()
     mergeFieldingStats()
+
+    generate_stats_main()
