@@ -1,8 +1,17 @@
 date,location,opponent,result,score,team_score,opp_score,game_score_diff,game_win_loss,game_id,TC,PO,A,E,FPCT,DP,SBA,RCS,RCS_PCT,PB,CI,season,njcaa_season,njcaa_division,team,team_id,player_id,player_name
-Jan 28,home,Midland,L,10-5,10,5,5,win,20230128_nmdo,0,0,0,0,1.2,2,4,4,21.60,1,3,2023,2022-23,div1,Alvin,alvincommunitycollege,samuelcarpenteryiw9,Samuel Carpenter
-Feb 9,home,Odessa,W,10-8,10,8,2,win,20230209_iekq,0,0,0,0,2.2,1,2,1,3.38,1,1,2023,2022-23,div1,Alvin,alvincommunitycollege,samuelcarpenteryiw9,Samuel Carpenter
-Feb 14,home,Monroe College,L,1-0,1,0,1,win,20230214_1hx0,0,0,0,0,1.0,,,,0.00,,2,2023,2022-23,div1,Alvin,alvincommunitycollege,samuelcarpenteryiw9,Samuel Carpenter
-Feb 17,home,Dallas College - Brookhaven,W,4-3,4,3,1,win,20230217_kc0x,0,0,0,0,1.0,1,1,1,9.00,2,2,2023,2022-23,div1,Alvin,alvincommunitycollege,samuelcarpenteryiw9,Samuel Carpenter
-Feb 21,home,Blinn,L,22-15,22,15,7,win,20230221_x68z,0,0,0,0,1.0,3,7,2,18.00,2,2,2023,2022-23,div1,Alvin,alvincommunitycollege,samuelcarpenteryiw9,Samuel Carpenter
-Feb 25,home,Blinn,L,8-1,8,1,7,win,20230225_wif0,0,0,0,0,1.0,,,,0.00,,3,2023,2022-23,div1,Alvin,alvincommunitycollege,samuelcarpenteryiw9,Samuel Carpenter
-Mar 4,home,Wharton County,L,11-4,11,4,7,win,20230304_j41h,0,0,0,0,1.1,3,5,3,20.25,2,1,2023,2022-23,div1,Alvin,alvincommunitycollege,samuelcarpenteryiw9,Samuel Carpenter
+Jan 27,home,ASU Mountain Home,W,17-11,17,11,6,win,20230127_c2tv,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Alvin,alvincommunitycollege,samuelcarpenteryiw9,Samuel Carpenter
+Jan 27,home,ASU Mountain Home,W,16-3,16,3,13,win,20230127_5w91,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Alvin,alvincommunitycollege,samuelcarpenteryiw9,Samuel Carpenter
+Feb 4,home,South Arkansas,W,16-4,16,4,12,win,20230204_zhyk,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Alvin,alvincommunitycollege,samuelcarpenteryiw9,Samuel Carpenter
+Feb 5,home,South Arkansas,W,5-2,5,2,3,win,20230205_4ioy,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Alvin,alvincommunitycollege,samuelcarpenteryiw9,Samuel Carpenter
+Feb 13,home,Hill,L,5-0,5,0,5,win,20230213_nqrh,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Alvin,alvincommunitycollege,samuelcarpenteryiw9,Samuel Carpenter
+Feb 13,home,Hill,W,12-2,12,2,10,win,20230213_86ox,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Alvin,alvincommunitycollege,samuelcarpenteryiw9,Samuel Carpenter
+Feb 18,home,Tyler,L,13-5,13,5,8,win,20230218_uo7t,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Alvin,alvincommunitycollege,samuelcarpenteryiw9,Samuel Carpenter
+Feb 18,home,Tyler,L,14-2,14,2,12,win,20230218_m8o2,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Alvin,alvincommunitycollege,samuelcarpenteryiw9,Samuel Carpenter
+Feb 22,home,Panola,W,4-1,4,1,3,win,20230222_lm0q,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Alvin,alvincommunitycollege,samuelcarpenteryiw9,Samuel Carpenter
+Feb 22,home,Panola,W,7-2,7,2,5,win,20230222_xy9p,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Alvin,alvincommunitycollege,samuelcarpenteryiw9,Samuel Carpenter
+Feb 25,home,Angelina,L,4-3,4,3,1,win,20230225_d4t8,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Alvin,alvincommunitycollege,samuelcarpenteryiw9,Samuel Carpenter
+Feb 25,home,Angelina,L,13-3,13,3,10,win,20230225_te2r,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Alvin,alvincommunitycollege,samuelcarpenteryiw9,Samuel Carpenter
+Feb 28,home,SAU Tech,W,16-3,16,3,13,win,20230228_sod1,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Alvin,alvincommunitycollege,samuelcarpenteryiw9,Samuel Carpenter
+Mar 1,home,Centenary College,W,13-6,13,6,7,win,20230301_gjvl,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Alvin,alvincommunitycollege,samuelcarpenteryiw9,Samuel Carpenter
+Mar 4,home,Paris,L,8-2,8,2,6,win,20230304_u8o8,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Alvin,alvincommunitycollege,samuelcarpenteryiw9,Samuel Carpenter
+Mar 4,home,Paris,W,7-6,7,6,1,win,20230304_1s8t,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Alvin,alvincommunitycollege,samuelcarpenteryiw9,Samuel Carpenter
