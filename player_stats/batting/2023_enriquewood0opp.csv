@@ -1,20 +1,3 @@
 date,location,opponent,result,score,team_score,opp_score,game_score_diff,game_win_loss,game_id,AB,R,H,2B,3B,HR,RBI,BB,K,SB,CS,HBP,SF,SH,TB,XBH,HDP,GO,FO,GO/FO,PA,season,njcaa_season,njcaa_division,team,team_id,player_id,player_name
-Jan 29,home,Roane State,W,10-0,10,0,10,win,20230129_8zxk,4,1,2,0,0,0,1,0,1,0,0,0,0,0,2,0,,0,,,4,2023,2022-23,div1,Gaston College,gastoncollege,enriquewood0opp,Enrique Wood
-Jan 29,home,Roane State,W,10-0,10,0,10,win,20230129_6854,2,1,1,1,0,0,2,0,0,0,0,0,0,0,2,1,,0,,,2,2023,2022-23,div1,Gaston College,gastoncollege,enriquewood0opp,Enrique Wood
-Feb 4,home,Southeastern-Whiteville,W,5-0,5,0,5,win,20230204_zsjp,2,1,1,0,0,0,1,0,0,1,0,0,0,0,1,0,,0,,,2,2023,2022-23,div1,Gaston College,gastoncollege,enriquewood0opp,Enrique Wood
-Feb 4,home,Southeastern-Whiteville,W,6-1,6,1,5,win,20230204_slwo,2,1,2,0,0,0,1,0,0,0,1,1,0,0,2,0,,0,,,3,2023,2022-23,div1,Gaston College,gastoncollege,enriquewood0opp,Enrique Wood
-Feb 5,home,Walters State,W,4-2,4,2,2,win,20230205_see3,3,0,1,,,,0,,,,,,,,1,0,,,2,,3,2023,2022-23,div1,Gaston College,gastoncollege,enriquewood0opp,Enrique Wood
-Feb 8,home,Caldwell Tech,W,12-2,12,2,10,win,20230208_psab,4,0,2,,,,1,,1,,,,,,2,0,,,,,4,2023,2022-23,div1,Gaston College,gastoncollege,enriquewood0opp,Enrique Wood
-Feb 10,home,Combine Academy (Lincolnton),W,11-2,11,2,9,win,20230210_yte7,4,1,0,0,0,0,0,1,1,1,0,0,0,0,0,0,,0,,,5,2023,2022-23,div1,Gaston College,gastoncollege,enriquewood0opp,Enrique Wood
-Feb 11,home,Combine Academy (Lincolnton),W,14-0,14,0,14,win,20230211_e4ih,3,2,1,0,0,0,1,0,1,0,0,0,0,0,1,0,,0,,,3,2023,2022-23,div1,Gaston College,gastoncollege,enriquewood0opp,Enrique Wood
-Feb 11,home,Combine Academy (Lincolnton),W,16-1,16,1,15,win,20230211_c9m9,3,1,1,0,0,0,1,0,2,0,0,0,0,0,1,0,,0,,,3,2023,2022-23,div1,Gaston College,gastoncollege,enriquewood0opp,Enrique Wood
-Feb 15,home,Caldwell Tech,W,7-0,7,0,7,win,20230215_dnix,3,2,1,1,0,0,0,0,0,0,0,1,0,0,2,1,,0,,,4,2023,2022-23,div1,Gaston College,gastoncollege,enriquewood0opp,Enrique Wood
-Feb 17,home,Catawba Valley,W,15-5,15,5,10,win,20230217_1tyu,3,1,0,0,0,0,0,1,1,1,0,0,0,0,0,0,,0,,,4,2023,2022-23,div1,Gaston College,gastoncollege,enriquewood0opp,Enrique Wood
-Feb 18,home,USC Sumter,W,12-2,12,2,10,win,20230218_zn9t,3,0,0,,,,0,1,,,,,,,0,0,,,,,4,2023,2022-23,div1,Gaston College,gastoncollege,enriquewood0opp,Enrique Wood
-Feb 19,home,Catawba Valley,W,6-1,6,1,5,win,20230219_qpsm,4,1,1,1,0,0,1,0,1,0,0,0,0,0,2,1,,0,,,4,2023,2022-23,div1,Gaston College,gastoncollege,enriquewood0opp,Enrique Wood
-Feb 22,home,Guilford Tech,W,5-0,5,0,5,win,20230222_7xm3,4,1,1,0,0,0,0,0,1,0,0,0,0,0,1,0,,0,,,4,2023,2022-23,div1,Gaston College,gastoncollege,enriquewood0opp,Enrique Wood
-Feb 24,home,Lenoir,W,10-5,10,5,5,win,20230224_lulu,4,1,1,,,,0,,1,1,,,,1,1,0,,1,1,1.00,5,2023,2022-23,div1,Gaston College,gastoncollege,enriquewood0opp,Enrique Wood
-Feb 25,home,Lenoir,W,14-6,14,6,8,win,20230225_2b7k,3,2,2,1,,,2,,,1,,,,1,3,1,,2,,,4,2023,2022-23,div1,Gaston College,gastoncollege,enriquewood0opp,Enrique Wood
-Mar 1,home,Surry,W,8-2,8,2,6,win,20230301_inhw,3,1,2,0,0,0,1,0,1,0,0,0,0,1,2,0,,0,,,4,2023,2022-23,div1,Gaston College,gastoncollege,enriquewood0opp,Enrique Wood
-Mar 4,home,Pro 5 Academy,W,7-3,7,3,4,win,20230304_o0sw,3,2,1,0,0,0,0,1,0,1,0,0,0,0,1,0,,0,,,4,2023,2022-23,div1,Gaston College,gastoncollege,enriquewood0opp,Enrique Wood
-Mar 4,home,Pro 5 Academy,W,13-3,13,3,10,win,20230304_uixf,4,1,2,0,0,0,1,0,0,0,0,0,0,0,2,0,,0,,,4,2023,2022-23,div1,Gaston College,gastoncollege,enriquewood0opp,Enrique Wood
+Feb 22,home,Brunswick,W,15-5,15,5,10,win,20230222_3h90,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0,,,0,2023,2022-23,div1,Gaston College,gastoncollege,enriquewood0opp,Enrique Wood
+Mar 1,home,Fayetteville Tech,W,19-10,19,10,9,win,20230301_shg6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0,,,0,2023,2022-23,div1,Gaston College,gastoncollege,enriquewood0opp,Enrique Wood
