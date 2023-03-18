@@ -36,6 +36,8 @@ season,njcaa_division,team,team_id,location,opponent,result,score,game_id,G,TC,P
 2023,div1,Allen County,allencountycommunitycollege,home,Highland (KS),W,4-3,20230310_9oat,15,0.0,1.0,0.0,0.0,1.0,6.0,3.0,2.0,0.667,6.0,13.0
 2023,div1,Allen County,allencountycommunitycollege,home,Highland (KS),W,7-4,20230312_ar1w,12,0.0,1.0,0.0,1.0,0.5,5.0,4.0,4.0,1.0,8.0,9.0
 2023,div1,Allen County,allencountycommunitycollege,home,Kansas City Kansas,W,11-8,20230312_1v12,1,0.0,0.0,0.0,0.0,,8.0,8.0,5.0,0.625,3.0,2.0
+2023,div1,Allen County,allencountycommunitycollege,home,Neosho County,L,6-2,20230317_hxj8,13,0.0,0.0,1.0,0.0,1.0,8.0,6.0,5.0,0.833,6.0,10.0
+2023,div1,Allen County,allencountycommunitycollege,home,Neosho County,W,6-0,20230317_2zx1,10,0.0,1.0,0.0,0.0,1.0,3.0,0.0,0.0,,2.0,8.0
 2023,div1,Allen County,allencountycommunitycollege,home,North Iowa Area,L,6-1,20230219_udiw,13,0.0,0.0,0.0,0.0,,8.0,6.0,6.0,1.0,6.0,11.0
 2023,div1,Allen County,allencountycommunitycollege,home,North Iowa Area,W,6-5,20230219_3ipw,13,0.0,1.0,0.0,0.0,1.0,7.0,5.0,3.0,0.6,4.0,12.0
 2023,div1,Allen County,allencountycommunitycollege,home,North Iowa Area,W,6-5,20230220_0fe4,14,0.0,1.0,0.0,0.0,1.0,14.0,5.0,5.0,1.0,3.0,11.0
@@ -62,9 +64,10 @@ season,njcaa_division,team,team_id,location,opponent,result,score,game_id,G,TC,P
 2023,div1,Alvin,alvincommunitycollege,home,Centenary College,W,13-6,20230301_gjvl,1,0.0,0.0,0.0,0.0,,0.0,0.0,0.0,,0.0,0.0
 2023,div1,Alvin,alvincommunitycollege,home,Coastal Bend,W,5-4,20230311_cpij,12,1.0,1.0,0.0,0.0,1.0,6.0,4.0,4.0,1.0,1.0,12.0
 2023,div1,Alvin,alvincommunitycollege,home,Coastal Bend,W,8-2,20230309_peww,11,1.0,1.0,0.0,0.0,1.0,4.0,2.0,1.0,0.5,2.0,9.0
-2023,div1,Alvin,alvincommunitycollege,home,Coastal Bend,W,8-3,20230311_jtuf,13,1.0,0.0,0.0,0.0,,8.0,3.0,3.0,1.0,1.0,12.0
-2023,div1,Alvin,alvincommunitycollege,home,Coastal Bend,W,8-7,20230307_b4j3,17,1.0,0.0,0.0,0.0,,9.0,7.0,7.0,1.0,7.0,20.0
+2023,div1,Alvin,alvincommunitycollege,home,Coastal Bend,W,8-3,20230311_jtuf,12,1.0,1.0,0.0,0.0,1.0,8.0,3.0,3.0,1.0,1.0,12.0
+2023,div1,Alvin,alvincommunitycollege,home,Coastal Bend,W,8-7,20230307_b4j3,16,1.0,1.0,0.0,0.0,1.0,9.0,7.0,7.0,1.0,7.0,20.0
 2023,div1,Alvin,alvincommunitycollege,home,Dallas College - Brookhaven,W,4-3,20230217_kc0x,13,1.0,1.0,0.0,0.0,1.0,3.0,3.0,1.0,0.333,4.0,13.0
+2023,div1,Alvin,alvincommunitycollege,home,Galveston,W,9-6,20230316_y5g4,12,1.0,1.0,0.0,1.0,0.5,14.0,6.0,5.0,0.833,4.0,12.0
 2023,div1,Alvin,alvincommunitycollege,home,Grayson,W,9-0,20230211_6p99,13,1.0,0.0,1.0,0.0,1.0,16.0,9.0,8.0,0.889,5.0,11.0
 2023,div1,Alvin,alvincommunitycollege,home,Hill,L,10-1,20230204_8wli,14,1.0,0.0,1.0,0.0,1.0,13.0,10.0,7.0,0.7,5.0,6.0
 2023,div1,Alvin,alvincommunitycollege,home,Hill,L,5-0,20230213_nqrh,1,0.0,0.0,0.0,0.0,,0.0,0.0,0.0,,0.0,0.0
@@ -131,8 +134,10 @@ season,njcaa_division,team,team_id,location,opponent,result,score,game_id,G,TC,P
 2023,div1,Angelina,angelinacollege,home,Northeast Texas,W,8-1,20230308_hsbd,14,1.0,1.0,0.0,0.0,1.0,8.0,1.0,1.0,1.0,1.0,9.0
 2023,div1,Angelina,angelinacollege,home,Panola,L,11-0,20230304_tkwj,11,1.0,0.0,0.0,0.0,,11.0,11.0,6.0,0.545,1.0,4.0
 2023,div1,Angelina,angelinacollege,home,Panola,L,6-5,20230304_ouwh,13,1.0,0.0,1.0,0.0,1.0,11.0,6.0,6.0,1.0,6.0,13.0
+2023,div1,Angelina,angelinacollege,home,Paris,L,4-3,20230315_bufq,15,0.0,0.0,0.0,0.0,,0.0,0.0,0.0,,0.0,0.0
 2023,div1,Angelina,angelinacollege,home,Paris,L,5-2,20230218_z525,11,1.0,0.0,1.0,0.0,1.0,6.0,5.0,2.0,0.4,3.0,10.0
 2023,div1,Angelina,angelinacollege,home,Paris,L,9-0,20230218_kipa,14,1.0,0.0,0.0,0.0,,7.0,9.0,5.0,0.556,5.0,5.0
+2023,div1,Angelina,angelinacollege,home,Paris,W,3-2,20230315_du81,12,1.0,0.0,0.0,0.0,,6.0,2.0,1.0,0.5,3.0,3.0
 2023,div1,Angelina,angelinacollege,home,Spartan Post Grad,W,13-2,20230215_ofsd,15,1.0,1.0,0.0,0.0,1.0,6.0,2.0,2.0,1.0,3.0,6.0
 2023,div1,Angelina,angelinacollege,home,Spartan Post Grad,W,14-0,20230215_sah4,16,1.0,1.0,0.0,0.0,1.0,2.0,0.0,0.0,,1.0,10.0
 2023,div1,Angelina,angelinacollege,home,TCS Post Grad,W,13-3,20230211_okf7,16,1.0,1.0,0.0,0.0,1.0,3.0,3.0,3.0,1.0,2.0,3.0
@@ -325,6 +330,8 @@ season,njcaa_division,team,team_id,location,opponent,result,score,game_id,G,TC,P
 2023,div1,Bishop State,bishopstatecommunitycollege,home,Spring Hill JV,L,5-3,20230215_34zh,15,1.0,0.0,1.0,0.0,1.0,5.0,5.0,5.0,1.0,4.0,4.0
 2023,div1,Bishop State,bishopstatecommunitycollege,home,Spring Hill JV,W,16-2,20230215_azyo,17,1.0,1.0,0.0,0.0,1.0,5.0,2.0,2.0,1.0,0.0,8.0
 2023,div1,Bishop State,bishopstatecommunitycollege,home,Spring Hill JV,W,8-2,20230302_bdod,26,1.0,1.0,0.0,0.0,1.0,6.0,2.0,2.0,1.0,7.0,7.0
+2023,div1,Bishop State,bishopstatecommunitycollege,home,Wallace-Dothan,L,14-2,20230316_7zjy,11,1.0,0.0,1.0,0.0,1.0,12.0,10.0,6.0,0.6,0.0,1.0
+2023,div1,Bishop State,bishopstatecommunitycollege,home,Wallace-Dothan,W,9-5,20230316_drbd,12,1.0,1.0,0.0,0.0,1.0,11.0,5.0,2.0,0.4,1.0,4.0
 2023,div1,Blinn,blinncollege,home,Alvin,L,3-2,20230223_pbsq,13,0.0,0.0,1.0,0.0,1.0,10.0,3.0,3.0,1.0,5.0,13.0
 2023,div1,Blinn,blinncollege,home,Alvin,W,22-15,20230221_x68z,18,0.0,1.0,0.0,0.0,1.0,12.0,15.0,9.0,0.6,12.0,15.0
 2023,div1,Blinn,blinncollege,home,Alvin,W,4-3,20230225_7j3o,13,0.0,1.0,0.0,1.0,0.5,3.0,3.0,3.0,1.0,6.0,13.0
@@ -334,6 +341,7 @@ season,njcaa_division,team,team_id,location,opponent,result,score,game_id,G,TC,P
 2023,div1,Blinn,blinncollege,home,Baton Rouge,W,12-4,20230205_j4tq,15,0.0,1.0,0.0,0.0,1.0,3.0,4.0,3.0,0.75,8.0,15.0
 2023,div1,Blinn,blinncollege,home,Baton Rouge,W,4-2,20230204_ih84,11,0.0,1.0,0.0,0.0,1.0,5.0,2.0,1.0,0.5,3.0,12.0
 2023,div1,Blinn,blinncollege,home,Baton Rouge,W,8-2,20230205_dxco,11,0.0,1.0,0.0,0.0,1.0,4.0,2.0,2.0,1.0,3.0,9.0
+2023,div1,Blinn,blinncollege,home,Coastal Bend,W,13-3,20230315_3d1g,11,0.0,1.0,0.0,0.0,1.0,9.0,3.0,3.0,1.0,2.0,9.0
 2023,div1,Blinn,blinncollege,home,Dallas College - Eastfield,W,5-4,20230216_j7uu,13,0.0,1.0,0.0,1.0,0.5,8.0,4.0,4.0,1.0,7.0,7.0
 2023,div1,Blinn,blinncollege,home,McLennan,W,8-5,20230218_8uit,13,0.0,1.0,0.0,0.0,1.0,11.0,5.0,5.0,1.0,4.0,11.0
 2023,div1,Blinn,blinncollege,home,Navarro,W,13-6,20230227_toco,14,0.0,1.0,0.0,0.0,1.0,8.0,6.0,6.0,1.0,5.0,12.0
@@ -342,12 +350,16 @@ season,njcaa_division,team,team_id,location,opponent,result,score,game_id,G,TC,P
 2023,div1,Blinn,blinncollege,home,San Jacinto,W,14-3,20230304_l6qn,12,0.0,1.0,0.0,0.0,1.0,5.0,3.0,2.0,0.667,5.0,9.0
 2023,div1,Blinn,blinncollege,home,San Jacinto,W,16-9,20230302_9bxm,13,0.0,1.0,0.0,0.0,1.0,12.0,9.0,4.0,0.444,4.0,15.0
 2023,div1,Blinn,blinncollege,home,San Jacinto,W,5-3,20230304_v2o4,13,0.0,1.0,0.0,1.0,0.5,7.0,3.0,2.0,0.667,3.0,7.0
+2023,div1,Blinn,blinncollege,home,South Suburban,W,13-9,20230315_q5v3,15,0.0,1.0,0.0,0.0,1.0,9.0,9.0,9.0,1.0,8.0,11.0
 2023,div1,Blinn,blinncollege,home,Tyler,W,5-1,20230215_fa8f,12,0.0,1.0,0.0,0.0,1.0,6.0,1.0,1.0,1.0,5.0,9.0
 2023,div1,Blinn,blinncollege,home,Tyler,W,7-5,20230210_gxnu,13,0.0,1.0,0.0,0.0,1.0,8.0,5.0,4.0,0.8,6.0,19.0
 2023,div1,Blinn,blinncollege,home,Weatherford,L,4-3,20230128_16nb,13,0.0,0.0,1.0,0.0,1.0,6.0,4.0,3.0,0.75,3.0,12.0
 2023,div1,Blinn,blinncollege,home,Weatherford,L,8-1,20230127_9xui,15,0.0,0.0,1.0,0.0,1.0,12.0,8.0,5.0,0.625,8.0,16.0
 2023,div1,Blinn,blinncollege,home,Weatherford,W,12-2,20230128_4fka,12,0.0,1.0,0.0,1.0,0.5,3.0,2.0,2.0,1.0,2.0,5.0
 2023,div1,Blinn,blinncollege,home,Wharton County,L,5-3,20230307_9kt4,12,0.0,0.0,1.0,0.0,1.0,9.0,5.0,5.0,1.0,4.0,5.0
+2023,div1,Blinn,blinncollege,home,Wharton County,L,6-5,20230311_6l47,14,0.0,0.0,1.0,0.0,1.0,7.0,6.0,3.0,0.5,6.0,8.0
+2023,div1,Blinn,blinncollege,home,Wharton County,W,11-1,20230311_xl4g,10,0.0,1.0,0.0,0.0,1.0,3.0,1.0,1.0,1.0,4.0,9.0
+2023,div1,Blinn,blinncollege,home,Wharton County,W,15-2,20230309_csp4,11,0.0,1.0,0.0,0.0,1.0,0.0,2.0,2.0,1.0,7.0,3.0
 2023,div1,Bossier Parish,bossierparishcommunitycollege,home,ASU Mountain Home,W,16-3,20230127_5w91,18,0.0,1.0,0.0,0.0,1.0,5.0,3.0,2.0,0.667,7.0,10.0
 2023,div1,Bossier Parish,bossierparishcommunitycollege,home,ASU Mountain Home,W,17-11,20230127_c2tv,15,0.0,1.0,0.0,0.0,1.0,12.0,11.0,11.0,1.0,5.0,8.0
 2023,div1,Bossier Parish,bossierparishcommunitycollege,home,Angelina,L,13-3,20230225_te2r,15,1.0,0.0,1.0,0.0,1.0,15.0,13.0,8.0,0.615,7.0,3.0
@@ -382,6 +394,9 @@ season,njcaa_division,team,team_id,location,opponent,result,score,game_id,G,TC,P
 2023,div1,Butler,butlercommunitycollegeks,home,Des Moines Area,W,6-3,20230304_rj3m,14,1.0,1.0,0.0,1.0,0.5,4.0,3.0,2.0,0.667,4.0,11.0
 2023,div1,Butler,butlercommunitycollegeks,home,Des Moines Area,W,9-6,20230303_2aqw,12,1.0,1.0,0.0,0.0,1.0,6.0,6.0,3.0,0.5,5.0,6.0
 2023,div1,Butler,butlercommunitycollegeks,home,Eastern Oklahoma State,L,7-2,20230217_jmlb,13,1.0,0.0,1.0,0.0,1.0,8.0,7.0,7.0,1.0,8.0,10.0
+2023,div1,Butler,butlercommunitycollegeks,home,Highland (KS),W,14-4,20230315_7w8e,12,1.0,1.0,0.0,0.0,1.0,7.0,4.0,3.0,0.75,1.0,15.0
+2023,div1,Butler,butlercommunitycollegeks,home,Highland (KS),W,17-6,20230317_igkq,13,1.0,1.0,0.0,0.0,1.0,11.0,6.0,4.0,0.667,5.0,7.0
+2023,div1,Butler,butlercommunitycollegeks,home,Highland (KS),W,8-6,20230315_8h28,12,1.0,1.0,0.0,1.0,0.5,5.0,6.0,4.0,0.667,2.0,10.0
 2023,div1,Butler,butlercommunitycollegeks,home,Kansas City Kansas,L,10-8,20230225_wxsi,13,1.0,0.0,1.0,0.0,1.0,9.0,10.0,7.0,0.7,5.0,2.0
 2023,div1,Butler,butlercommunitycollegeks,home,Kansas City Kansas,L,8-3,20230222_pipw,13,1.0,0.0,1.0,0.0,1.0,7.0,8.0,8.0,1.0,3.0,12.0
 2023,div1,Butler,butlercommunitycollegeks,home,Kansas City Kansas,W,14-7,20230222_sh2k,19,1.0,1.0,0.0,0.0,1.0,12.0,22.0,14.0,0.636,11.0,22.0
@@ -398,6 +413,8 @@ season,njcaa_division,team,team_id,location,opponent,result,score,game_id,G,TC,P
 2023,div1,Calhoun,calhouncommunitycollege,home,Cleveland State,L,23-0,20230208_ip9v,14,1.0,0.0,1.0,0.0,1.0,21.0,23.0,17.0,0.739,7.0,5.0
 2023,div1,Calhoun,calhouncommunitycollege,home,Itawamba,L,13-10,20230210_ri4u,13,1.0,0.0,1.0,0.0,1.0,15.0,13.0,10.0,0.769,9.0,5.0
 2023,div1,Calhoun,calhouncommunitycollege,home,Lurleen B. Wallace,W,2-0,20230203_mh4l,10,1.0,1.0,0.0,0.0,1.0,2.0,0.0,0.0,,3.0,7.0
+2023,div1,Calhoun,calhouncommunitycollege,home,Marion Military,L,8-3,20230316_jlo6,11,1.0,0.0,1.0,0.0,1.0,9.0,8.0,5.0,0.625,5.0,4.0
+2023,div1,Calhoun,calhouncommunitycollege,home,Marion Military,W,7-4,20230316_winr,12,1.0,1.0,0.0,1.0,0.5,8.0,4.0,4.0,1.0,5.0,8.0
 2023,div1,Calhoun,calhouncommunitycollege,home,Northwest-Shoals Community College,L,13-4,20230311_ikqx,11,1.0,0.0,1.0,0.0,1.0,10.0,13.0,6.0,0.462,8.0,8.0
 2023,div1,Calhoun,calhouncommunitycollege,home,Northwest-Shoals Community College,L,4-1,20230310_hpmh,12,1.0,0.0,1.0,0.0,1.0,5.0,4.0,2.0,0.5,5.0,9.0
 2023,div1,Calhoun,calhouncommunitycollege,home,Northwest-Shoals Community College,L,4-3,20230311_mq3d,12,1.0,0.0,1.0,0.0,1.0,3.0,4.0,4.0,1.0,9.0,5.0
@@ -423,6 +440,8 @@ season,njcaa_division,team,team_id,location,opponent,result,score,game_id,G,TC,P
 2023,div1,Central Alabama,centralalabamacommunitycollege,home,Shelton State,L,3-2,20230308_qlf5,12,1.0,0.0,1.0,0.0,1.0,5.0,3.0,3.0,1.0,2.0,15.0
 2023,div1,Central Alabama,centralalabamacommunitycollege,home,Shelton State,W,3-2,20230308_w4fz,10,1.0,1.0,0.0,0.0,1.0,7.0,2.0,2.0,1.0,0.0,6.0
 2023,div1,Central Alabama,centralalabamacommunitycollege,home,Shelton State,W,7-1,20230311_va83,11,1.0,1.0,0.0,0.0,1.0,3.0,1.0,0.0,0.0,3.0,4.0
+2023,div1,Central Alabama,centralalabamacommunitycollege,home,Snead State,L,14-8,20230316_09zc,14,1.0,0.0,1.0,0.0,1.0,14.0,14.0,10.0,0.714,10.0,9.0
+2023,div1,Central Alabama,centralalabamacommunitycollege,home,Snead State,W,4-3,20230316_1j07,11,1.0,1.0,0.0,1.0,0.5,8.0,3.0,3.0,1.0,4.0,6.0
 2023,div1,Central Alabama,centralalabamacommunitycollege,home,Volunteer State,L,1-0,20230204_a7qy,10,1.0,0.0,1.0,0.0,1.0,4.0,1.0,1.0,1.0,5.0,7.0
 2023,div1,Central Alabama,centralalabamacommunitycollege,home,Volunteer State,L,11-4,20230205_mw5i,16,1.0,0.0,1.0,0.0,1.0,12.0,11.0,6.0,0.545,3.0,9.0
 2023,div1,Central Alabama,centralalabamacommunitycollege,home,Volunteer State,W,3-2,20230205_wl6h,11,1.0,1.0,0.0,1.0,0.5,5.0,2.0,2.0,1.0,2.0,7.0
@@ -445,17 +464,19 @@ season,njcaa_division,team,team_id,location,opponent,result,score,game_id,G,TC,P
 2023,div1,Central Arizona,centralarizonacollege,home,GateWay (AZ),W,9-0,20230228_zndh,15,1.0,1.0,0.0,0.0,1.0,4.0,0.0,0.0,,2.0,11.0
 2023,div1,Central Arizona,centralarizonacollege,home,Glendale,W,5-2,20230315_8t9p,11,1.0,1.0,0.0,0.0,1.0,4.0,2.0,2.0,1.0,1.0,4.0
 2023,div1,Central Arizona,centralarizonacollege,home,Lamar,W,12-5,20230204_7k4y,16,1.0,1.0,0.0,0.0,1.0,8.0,5.0,3.0,0.6,6.0,13.0
+2023,div1,Central Arizona,centralarizonacollege,home,Langley Blaze,W,7-0,20230317_gz3w,17,1.0,1.0,0.0,0.0,1.0,2.0,0.0,0.0,,4.0,12.0
 2023,div1,Central Arizona,centralarizonacollege,home,New Mexico,W,11-2,20230205_6mw6,15,1.0,1.0,0.0,0.0,1.0,7.0,2.0,1.0,0.5,1.0,16.0
 2023,div1,Central Arizona,centralarizonacollege,home,Phoenix,W,10-5,20230208_uj1h,18,1.0,1.0,0.0,0.0,1.0,6.0,5.0,4.0,0.8,5.0,11.0
 2023,div1,Central Arizona,centralarizonacollege,home,Pima,W,5-1,20230211_k9mp,12,1.0,1.0,0.0,0.0,1.0,4.0,1.0,1.0,1.0,1.0,12.0
 2023,div1,Central Arizona,centralarizonacollege,home,Pima,W,9-1,20230211_a86u,15,1.0,1.0,0.0,0.0,1.0,4.0,1.0,1.0,1.0,1.0,13.0
+2023,div1,Central Arizona,centralarizonacollege,home,Scottsdale Post Grad,W,8-2,20230316_ro2w,12,1.0,1.0,0.0,0.0,1.0,5.0,2.0,2.0,1.0,1.0,7.0
 2023,div1,Central Arizona,centralarizonacollege,home,South Mountain,L,5-1,20230222_utju,13,1.0,0.0,1.0,0.0,1.0,6.0,5.0,3.0,0.6,7.0,8.0
 2023,div1,Central Arizona,centralarizonacollege,home,South Mountain,W,9-8,20230222_bma0,14,1.0,1.0,0.0,0.0,1.0,11.0,8.0,7.0,0.875,6.0,15.0
 2023,div1,Central Arizona,centralarizonacollege,home,Southern Nevada,L,4-3,20230127_b853,14,1.0,0.0,1.0,0.0,1.0,6.0,4.0,4.0,1.0,2.0,13.0
 2023,div1,Central Arizona,centralarizonacollege,home,Southern Nevada,L,8-1,20230128_l1nu,14,1.0,0.0,1.0,0.0,1.0,7.0,8.0,6.0,0.75,7.0,9.0
 2023,div1,Central Arizona,centralarizonacollege,home,Utah State Eastern,W,2-1,20230129_a5kp,15,1.0,1.0,0.0,1.0,0.5,4.0,1.0,0.0,0.0,6.0,14.0
 2023,div1,Central Arizona,centralarizonacollege,home,Utah State Eastern,W,8-2,20230128_z61u,14,1.0,1.0,0.0,0.0,1.0,6.0,2.0,2.0,1.0,3.0,9.0
-2023,div1,Central Arizona,centralarizonacollege,home,Western Nebraska,W,2-0,20230313_p8hf,13,1.0,1.0,0.0,1.0,0.5,1.0,0.0,0.0,,0.0,9.0
+2023,div1,Central Arizona,centralarizonacollege,home,Western Nebraska,W,2-0,20230313_p8hf,11,1.0,1.0,0.0,1.0,0.5,1.0,0.0,0.0,,0.0,9.0
 2023,div1,Central Arizona,centralarizonacollege,home,Western Nebraska,W,9-3,20230313_cwfm,16,1.0,1.0,0.0,0.0,1.0,5.0,3.0,1.0,0.333,3.0,13.0
 2023,div1,Central Arizona,centralarizonacollege,home,Yavapai,W,10-2,20230304_p9qi,16,1.0,1.0,0.0,0.0,1.0,5.0,2.0,2.0,1.0,3.0,17.0
 2023,div1,Central Arizona,centralarizonacollege,home,Yavapai,W,4-0,20230203_r790,11,1.0,1.0,0.0,1.0,0.5,3.0,0.0,0.0,,0.0,13.0
@@ -479,6 +500,7 @@ season,njcaa_division,team,team_id,location,opponent,result,score,game_id,G,TC,P
 2023,div1,Central Florida,collegeofcentralflorida,home,Lincoln Land,W,8-5,20230307_4dkz,14,1.0,1.0,0.0,1.0,0.5,5.0,5.0,0.0,0.0,5.0,10.0
 2023,div1,Central Florida,collegeofcentralflorida,home,Palm Beach State,W,17-2,20230128_gkng,14,1.0,1.0,0.0,0.0,1.0,2.0,2.0,2.0,1.0,1.0,8.0
 2023,div1,Central Florida,collegeofcentralflorida,home,Polk State,W,5-2,20230127_1f90,15,1.0,1.0,0.0,1.0,0.5,5.0,2.0,1.0,0.5,5.0,14.0
+2023,div1,Central Florida,collegeofcentralflorida,home,Seminole State (FL),W,17-6,20230317_gj5h,12,1.0,1.0,0.0,0.0,1.0,10.0,6.0,6.0,1.0,3.0,4.0
 2023,div1,Central Florida,collegeofcentralflorida,home,Seminole State (FL),W,6-4,20230315_oxal,13,1.0,1.0,0.0,0.0,1.0,12.0,4.0,4.0,1.0,4.0,8.0
 2023,div1,Central Florida,collegeofcentralflorida,home,South Florida State,W,17-4,20230210_5qq9,17,1.0,1.0,0.0,0.0,1.0,5.0,4.0,3.0,0.75,4.0,11.0
 2023,div1,Central Florida,collegeofcentralflorida,home,South Florida State,W,6-5,20230203_w9qe,13,1.0,1.0,0.0,1.0,0.5,5.0,5.0,2.0,0.4,5.0,12.0
@@ -490,6 +512,8 @@ season,njcaa_division,team,team_id,location,opponent,result,score,game_id,G,TC,P
 2023,div1,Central Florida,collegeofcentralflorida,home,State College of Florida,W,12-11,20230220_uqil,13,1.0,1.0,0.0,1.0,0.5,16.0,11.0,10.0,0.909,4.0,13.0
 2023,div1,Central Florida,collegeofcentralflorida,home,TNXL Academy,W,27-4,20230303_40l2,16,1.0,1.0,0.0,0.0,1.0,7.0,4.0,3.0,0.75,2.0,10.0
 2023,div1,Chattahoochee Valley,chattahoocheevalleycommunitycollege,home,Coastal Alabama - Bay Minette,W,14-4,20230204_fp4i,11,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,,0.0,0.0
+2023,div1,Chattahoochee Valley,chattahoocheevalleycommunitycollege,home,Coastal Alabama - Monroeville,L,5-0,20230316_zaij,10,0.0,0.0,1.0,0.0,1.0,9.0,5.0,5.0,1.0,2.0,7.0
+2023,div1,Chattahoochee Valley,chattahoocheevalleycommunitycollege,home,Coastal Alabama - Monroeville,W,6-0,20230316_qfkj,10,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,,3.0,6.0
 2023,div1,Chattahoochee Valley,chattahoocheevalleycommunitycollege,home,Delgado,L,11-5,20230204_do7x,11,1.0,0.0,1.0,0.0,1.0,10.0,11.0,11.0,1.0,7.0,11.0
 2023,div1,Chattahoochee Valley,chattahoocheevalleycommunitycollege,home,Florida SouthWestern State,L,9-7,20230203_vdr5,15,0.0,0.0,1.0,0.0,1.0,8.0,9.0,6.0,0.667,9.0,4.0
 2023,div1,Chattahoochee Valley,chattahoocheevalleycommunitycollege,home,Georgia Highlands,L,5-3,20230224_8um2,11,0.0,0.0,1.0,0.0,1.0,9.0,5.0,3.0,0.6,3.0,5.0
@@ -585,6 +609,8 @@ season,njcaa_division,team,team_id,location,opponent,result,score,game_id,G,TC,P
 2023,div1,Cisco,ciscocollege,home,Western Texas,W,9-5,20230128_tbyy,12,1.0,1.0,0.0,0.0,1.0,7.0,5.0,5.0,1.0,4.0,6.0
 2023,div1,Clarendon,clarendoncollege,home,Cisco,L,6-5,20230301_81ol,16,1.0,0.0,1.0,0.0,1.0,9.0,6.0,4.0,0.667,8.0,10.0
 2023,div1,Clarendon,clarendoncollege,home,Cisco,W,9-3,20230301_1561,11,1.0,1.0,0.0,0.0,1.0,6.0,3.0,2.0,0.667,6.0,7.0
+2023,div1,Clarendon,clarendoncollege,home,El Paso,L,3-1,20230317_pu04,13,1.0,0.0,1.0,0.0,1.0,7.0,3.0,3.0,1.0,0.0,10.0
+2023,div1,Clarendon,clarendoncollege,home,El Paso,W,2-1,20230317_myp8,11,1.0,1.0,0.0,0.0,1.0,4.0,1.0,1.0,1.0,1.0,6.0
 2023,div1,Clarendon,clarendoncollege,home,McCook,W,20-14,20230212_lvts,16,1.0,1.0,0.0,0.0,1.0,14.0,14.0,13.0,0.929,11.0,12.0
 2023,div1,Clarendon,clarendoncollege,home,McCook,W,8-0,20230211_qkr8,12,1.0,1.0,0.0,0.0,1.0,3.0,0.0,0.0,,5.0,13.0
 2023,div1,Clarendon,clarendoncollege,home,McCook,W,9-5,20230211_pvq7,18,1.0,3.0,0.0,0.0,1.0,10.0,5.0,5.0,1.0,6.0,17.0
@@ -656,6 +682,8 @@ season,njcaa_division,team,team_id,location,opponent,result,score,game_id,G,TC,P
 2023,div1,Coastal Alabama - Bay Minette,coastalalabamasouth,home,Chipola,L,13-1,20230304_af3l,13,1.0,0.0,1.0,0.0,1.0,10.0,13.0,4.0,0.308,4.0,2.0
 2023,div1,Coastal Alabama - Bay Minette,coastalalabamasouth,home,Chipola,L,2-1,20230303_imb0,13,1.0,0.0,1.0,0.0,1.0,7.0,2.0,2.0,1.0,1.0,7.0
 2023,div1,Coastal Alabama - Bay Minette,coastalalabamasouth,home,Chipola,L,6-3,20230225_861z,10,1.0,0.0,1.0,0.0,1.0,6.0,6.0,3.0,0.5,3.0,3.0
+2023,div1,Coastal Alabama - Bay Minette,coastalalabamasouth,home,Coastal Alabama - Brewton,W,17-7,20230316_j38u,14,1.0,1.0,0.0,0.0,1.0,7.0,7.0,7.0,1.0,9.0,4.0
+2023,div1,Coastal Alabama - Bay Minette,coastalalabamasouth,home,Coastal Alabama - Brewton,W,18-2,20230316_749z,15,1.0,1.0,0.0,0.0,1.0,4.0,2.0,2.0,1.0,2.0,5.0
 2023,div1,Coastal Alabama - Bay Minette,coastalalabamasouth,home,East Central (MS),L,8-7,20230210_dn70,2,0.0,0.0,2.0,0.0,1.0,12.0,6.0,6.0,1.0,0.0,6.0
 2023,div1,Coastal Alabama - Bay Minette,coastalalabamasouth,home,Florence-Darlington Tech,L,7-5,20230203_zk96,12,1.0,0.0,1.0,0.0,1.0,8.0,7.0,7.0,1.0,5.0,3.0
 2023,div1,Coastal Alabama - Bay Minette,coastalalabamasouth,home,Grand Rapids,L,9-2,20230304_aqji,12,1.0,0.0,1.0,0.0,1.0,11.0,9.0,9.0,1.0,4.0,9.0
@@ -677,8 +705,8 @@ season,njcaa_division,team,team_id,location,opponent,result,score,game_id,G,TC,P
 2023,div1,Coastal Alabama - Bay Minette,coastalalabamasouth,home,San Jacinto,L,10-6,20230204_j0fs,14,1.0,0.0,1.0,0.0,1.0,3.0,10.0,9.0,0.9,12.0,7.0
 2023,div1,Coastal Alabama - Bay Minette,coastalalabamasouth,home,Wallace-Dothan,L,14-3,20230309_6ivi,12,1.0,0.0,1.0,0.0,1.0,8.0,14.0,9.0,0.643,7.0,4.0
 2023,div1,Coastal Alabama - Bay Minette,coastalalabamasouth,home,Wallace-Dothan,L,3-2,20230309_5vur,13,1.0,0.0,1.0,0.0,1.0,6.0,3.0,2.0,0.667,4.0,11.0
-2023,div1,Coastal Alabama - Bay Minette,coastalalabamasouth,home,Wallace-Dothan,L,6-4,20230311_vpm2,13,1.0,0.0,0.0,0.0,,8.0,6.0,5.0,0.833,4.0,4.0
-2023,div1,Coastal Alabama - Bay Minette,coastalalabamasouth,home,Wallace-Dothan,L,8-4,20230311_e5y9,12,1.0,0.0,0.0,0.0,,13.0,8.0,6.0,0.75,6.0,4.0
+2023,div1,Coastal Alabama - Bay Minette,coastalalabamasouth,home,Wallace-Dothan,L,6-4,20230311_vpm2,13,1.0,0.0,1.0,0.0,1.0,8.0,6.0,5.0,0.833,4.0,4.0
+2023,div1,Coastal Alabama - Bay Minette,coastalalabamasouth,home,Wallace-Dothan,L,8-4,20230311_e5y9,12,1.0,0.0,1.0,0.0,1.0,13.0,8.0,6.0,0.75,6.0,4.0
 2023,div1,Coastal Alabama - Brewton,coastalalabamaeast,home,Delgado,L,8-4,20230304_wl8y,14,1.0,0.0,1.0,0.0,1.0,10.0,8.0,8.0,1.0,2.0,6.0
 2023,div1,Coastal Alabama - Brewton,coastalalabamaeast,home,Georgia Highlands,L,13-3,20230203_w2l6,16,0.0,0.0,1.0,0.0,1.0,10.0,13.0,13.0,1.0,9.0,7.0
 2023,div1,Coastal Alabama - Brewton,coastalalabamaeast,home,Georgia Highlands,L,16-0,20230204_mlmr,20,0.0,0.0,1.0,0.0,1.0,11.0,16.0,3.0,0.188,12.0,7.0
@@ -703,6 +731,8 @@ season,njcaa_division,team,team_id,location,opponent,result,score,game_id,G,TC,P
 2023,div1,Coastal Alabama - Brewton,coastalalabamaeast,home,Wallace-Selma,L,7-6,20230311_8ywy,13,0.0,0.0,1.0,0.0,1.0,8.0,7.0,7.0,1.0,8.0,7.0
 2023,div1,Coastal Alabama - Brewton,coastalalabamaeast,home,Wallace-Selma,W,13-10,20230311_3wp5,15,0.0,1.0,0.0,0.0,1.0,8.0,10.0,9.0,0.9,8.0,9.0
 2023,div1,Coastal Alabama - Monroeville,coastalalabamanorth,home,Central Alabama,W,7-6,20230224_uu48,10,1.0,1.0,0.0,0.0,1.0,7.0,6.0,5.0,0.833,7.0,8.0
+2023,div1,Coastal Alabama - Monroeville,coastalalabamanorth,home,Chattahoochee Valley,L,6-0,20230316_qfkj,14,1.0,0.0,1.0,0.0,1.0,7.0,6.0,6.0,1.0,5.0,2.0
+2023,div1,Coastal Alabama - Monroeville,coastalalabamanorth,home,Chattahoochee Valley,W,5-0,20230316_zaij,10,1.0,1.0,0.0,0.0,1.0,3.0,0.0,0.0,,2.0,5.0
 2023,div1,Coastal Alabama - Monroeville,coastalalabamanorth,home,Faulkner Univeristy,W,22-3,20230221_syjj,12,1.0,1.0,0.0,0.0,1.0,5.0,3.0,2.0,0.667,2.0,8.0
 2023,div1,Coastal Alabama - Monroeville,coastalalabamanorth,home,Faulkner University,W,14-4,20230221_pkgv,10,1.0,1.0,0.0,0.0,1.0,8.0,4.0,2.0,0.5,7.0,2.0
 2023,div1,Coastal Alabama - Monroeville,coastalalabamanorth,home,John Melvin University JV,W,16-0,20230211_i2rn,10,1.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,,2.0,10.0
@@ -833,6 +863,8 @@ season,njcaa_division,team,team_id,location,opponent,result,score,game_id,G,TC,P
 2023,div1,Colorado Northwestern,coloradonorthwesterncommunitycollege,home,Salt Lake,L,7-1,20230313_irv8,12,1.0,0.0,1.0,0.0,1.0,14.0,7.0,7.0,1.0,4.0,4.0
 2023,div1,Colorado Northwestern,coloradonorthwesterncommunitycollege,home,Salt Lake,L,7-2,20230312_w1q1,12,1.0,0.0,1.0,0.0,1.0,8.0,7.0,7.0,1.0,4.0,3.0
 2023,div1,Colorado Northwestern,coloradonorthwesterncommunitycollege,home,Salt Lake,L,7-6,20230312_kvcx,12,1.0,0.0,1.0,0.0,1.0,6.0,7.0,7.0,1.0,5.0,8.0
+2023,div1,Colorado Northwestern,coloradonorthwesterncommunitycollege,home,Utah State Eastern,L,11-0,20230317_dodc,12,1.0,0.0,1.0,0.0,1.0,10.0,11.0,7.0,0.636,4.0,6.0
+2023,div1,Colorado Northwestern,coloradonorthwesterncommunitycollege,home,Utah State Eastern,W,12-8,20230317_8n9q,15,1.0,1.0,0.0,0.0,1.0,11.0,8.0,7.0,0.875,2.0,5.0
 2023,div1,Columbia State,columbiastatecommunitycollege,home,Chipola,L,10-9,20230219_ae8d,16,0.0,0.0,0.0,0.0,,11.0,10.0,9.0,0.9,7.0,7.0
 2023,div1,Columbia State,columbiastatecommunitycollege,home,Chipola,L,8-5,20230219_3eu7,14,0.0,0.0,0.0,0.0,,9.0,8.0,8.0,1.0,3.0,4.0
 2023,div1,Columbia State,columbiastatecommunitycollege,home,Dyersburg State,L,2-1,20230310_4mod,12,1.0,0.0,1.0,0.0,1.0,6.0,2.0,2.0,1.0,1.0,6.0
@@ -913,6 +945,7 @@ season,njcaa_division,team,team_id,location,opponent,result,score,game_id,G,TC,P
 2023,div1,Cowley,cowleycountycommunitycollege,home,Indian Hills,W,7-6,20230305_y3e5,14,1.0,1.0,0.0,0.0,1.0,5.0,6.0,4.0,0.667,5.0,8.0
 2023,div1,Cowley,cowleycountycommunitycollege,home,Indian Hills,W,8-0,20230304_6hda,15,1.0,1.0,0.0,0.0,1.0,2.0,0.0,0.0,,4.0,7.0
 2023,div1,Cowley,cowleycountycommunitycollege,home,Kansas City Kansas,L,10-7,20230315_8d5a,15,1.0,0.0,1.0,0.0,1.0,11.0,10.0,8.0,0.8,7.0,10.0
+2023,div1,Cowley,cowleycountycommunitycollege,home,Kansas City Kansas,W,11-10,20230315_ny4t,12,1.0,1.0,0.0,0.0,1.0,9.0,10.0,8.0,0.8,2.0,9.0
 2023,div1,Cowley,cowleycountycommunitycollege,home,McLennan,L,2-0,20230224_qspf,13,1.0,0.0,1.0,0.0,1.0,5.0,2.0,1.0,0.5,3.0,9.0
 2023,div1,Cowley,cowleycountycommunitycollege,home,McLennan,L,3-1,20230224_5ot5,14,1.0,0.0,1.0,0.0,1.0,6.0,3.0,3.0,1.0,3.0,8.0
 2023,div1,Cowley,cowleycountycommunitycollege,home,McLennan,L,5-2,20230225_urrs,17,1.0,0.0,1.0,0.0,1.0,8.0,5.0,5.0,1.0,12.0,8.0
@@ -962,6 +995,7 @@ season,njcaa_division,team,team_id,location,opponent,result,score,game_id,G,TC,P
 2023,div1,Daytona State,daytonastatecollege,home,Rollins College JV,W,5-3,20230213_079q,15,1.0,1.0,0.0,1.0,0.5,3.0,3.0,0.0,0.0,3.0,6.0
 2023,div1,Daytona State,daytonastatecollege,home,Rollins College JV,W,8-7,20230220_9ayb,16,1.0,1.0,0.0,0.0,1.0,10.0,7.0,6.0,0.857,6.0,12.0
 2023,div1,Daytona State,daytonastatecollege,home,Santa Fe,L,6-3,20230315_xlle,14,1.0,0.0,1.0,0.0,1.0,7.0,6.0,4.0,0.667,7.0,4.0
+2023,div1,Daytona State,daytonastatecollege,home,Santa Fe,L,6-5,20230317_6axx,18,1.0,0.0,1.0,0.0,1.0,13.0,6.0,6.0,1.0,4.0,15.0
 2023,div1,Daytona State,daytonastatecollege,home,St. Johns River State,L,10-7,20230215_7glj,18,1.0,0.0,1.0,0.0,1.0,11.0,11.0,10.0,0.909,11.0,10.0
 2023,div1,Daytona State,daytonastatecollege,home,St. Johns River State,L,11-10,20230301_85y7,14,1.0,0.0,1.0,0.0,1.0,11.0,11.0,10.0,0.909,4.0,14.0
 2023,div1,Daytona State,daytonastatecollege,home,Webber International University JV,W,9-6,20230227_tftg,15,1.0,1.0,0.0,1.0,0.5,10.0,6.0,4.0,0.667,2.0,6.0
@@ -984,6 +1018,8 @@ season,njcaa_division,team,team_id,location,opponent,result,score,game_id,G,TC,P
 2023,div1,Delgado,delgadocommunitycollege,home,Pensacola State,L,10-2,20230303_j902,13,1.0,0.0,1.0,0.0,1.0,12.0,10.0,9.0,0.9,5.0,3.0
 2023,div1,Delgado,delgadocommunitycollege,home,Pensacola State,L,4-0,20230305_8qlh,11,1.0,0.0,1.0,0.0,1.0,6.0,4.0,3.0,0.75,2.0,7.0
 2023,div1,Delgado,delgadocommunitycollege,home,Pensacola State,W,5-2,20230212_cfh8,12,1.0,1.0,0.0,1.0,0.5,4.0,2.0,2.0,1.0,6.0,4.0
+2023,div1,Delgado,delgadocommunitycollege,home,RCSJ Cumberland,W,12-8,20230316_5rk1,15,1.0,1.0,0.0,0.0,1.0,12.0,8.0,7.0,0.875,4.0,9.0
+2023,div1,Delgado,delgadocommunitycollege,home,RCSJ Cumberland,W,5-3,20230316_020b,13,1.0,1.0,0.0,0.0,1.0,7.0,3.0,3.0,1.0,1.0,4.0
 2023,div1,Delgado,delgadocommunitycollege,home,San Jacinto,W,7-4,20230204_2gxa,15,1.0,1.0,0.0,1.0,0.5,8.0,4.0,3.0,0.75,6.0,8.0
 2023,div1,Delgado,delgadocommunitycollege,home,Triton,W,19-3,20230312_gqqh,17,1.0,1.0,0.0,0.0,1.0,7.0,3.0,3.0,1.0,1.0,4.0
 2023,div1,Delgado,delgadocommunitycollege,home,Triton,W,8-5,20230312_scn1,16,1.0,1.0,0.0,0.0,1.0,9.0,5.0,3.0,0.6,0.0,7.0
@@ -1156,13 +1192,15 @@ season,njcaa_division,team,team_id,location,opponent,result,score,game_id,G,TC,P
 2023,div1,Eastern Oklahoma State,easternoklahomastatecollege,home,Pratt,L,11-7,20230225_rmey,15,1.0,0.0,1.0,0.0,1.0,9.0,11.0,10.0,0.909,7.0,4.0
 2023,div1,Eastern Oklahoma State,easternoklahomastatecollege,home,Pratt,W,11-1,20230224_m668,11,1.0,1.0,0.0,0.0,1.0,6.0,1.0,1.0,1.0,0.0,9.0
 2023,div1,Eastern Oklahoma State,easternoklahomastatecollege,home,Pratt,W,4-3,20230224_5ux4,11,1.0,1.0,0.0,0.0,1.0,6.0,3.0,0.0,0.0,2.0,6.0
-2023,div1,Eastern Oklahoma State,easternoklahomastatecollege,home,Seminole State (OK),W,9-8,20230316_gmt8,12,1.0,1.0,0.0,0.0,1.0,8.0,8.0,7.0,0.875,3.0,8.0
+2023,div1,Eastern Oklahoma State,easternoklahomastatecollege,home,Seminole State (OK),W,9-8,20230316_gmt8,12,1.0,1.0,0.0,0.0,1.0,9.0,8.0,7.0,0.875,3.0,8.0
 2023,div1,Eastern Oklahoma State,easternoklahomastatecollege,home,UA Rich Mountain,W,8-3,20230221_bklt,15,1.0,1.0,0.0,0.0,1.0,8.0,3.0,2.0,0.667,3.0,12.0
 2023,div1,Eastern Oklahoma State,easternoklahomastatecollege,home,Wallace-Dothan,L,18-10,20230216_7q2b,3,0.0,0.0,0.0,0.0,,0.0,0.0,0.0,,0.0,0.0
 2023,div1,Eastern Oklahoma State,easternoklahomastatecollege,home,Wharton County,L,6-1,20230127_rqs2,12,1.0,0.0,1.0,0.0,1.0,7.0,6.0,4.0,0.667,1.0,5.0
 2023,div1,Eastern Oklahoma State,easternoklahomastatecollege,home,Wharton County,W,4-3,20230127_vxyc,15,1.0,1.0,0.0,1.0,0.5,8.0,3.0,3.0,1.0,4.0,9.0
 2023,div1,Eastern Oklahoma State,easternoklahomastatecollege,home,Wharton County,W,6-4,20230128_kyb1,14,1.0,1.0,0.0,1.0,0.5,11.0,4.0,4.0,1.0,2.0,4.0
 2023,div1,El Paso,elpasocommunitycollege,home,Central Arizona,W,10-8,20230204_oxca,15,1.0,1.0,0.0,1.0,0.5,8.0,8.0,7.0,0.875,8.0,8.0
+2023,div1,El Paso,elpasocommunitycollege,home,Clarendon,L,2-1,20230317_myp8,10,1.0,0.0,1.0,0.0,1.0,5.0,2.0,1.0,0.5,1.0,9.0
+2023,div1,El Paso,elpasocommunitycollege,home,Clarendon,T,0-0,20230317_pu04,11,1.0,0.0,0.0,0.0,,9.0,1.0,1.0,1.0,2.0,17.0
 2023,div1,El Paso,elpasocommunitycollege,home,Community Christian (CA),W,23-5,20230303_e3qy,18,1.0,1.0,0.0,0.0,1.0,10.0,5.0,2.0,0.4,0.0,10.0
 2023,div1,El Paso,elpasocommunitycollege,home,Community Christian (CA),W,6-4,20230303_r2m4,15,1.0,1.0,0.0,1.0,0.5,6.0,4.0,3.0,0.75,5.0,18.0
 2023,div1,El Paso,elpasocommunitycollege,home,Frank Phillips,L,13-5,20230311_qlu8,14,1.0,0.0,1.0,0.0,1.0,10.0,11.0,6.0,0.545,1.0,9.0
@@ -1177,7 +1215,7 @@ season,njcaa_division,team,team_id,location,opponent,result,score,game_id,G,TC,P
 2023,div1,El Paso,elpasocommunitycollege,home,Otero,W,10-5,20230218_b00e,12,1.0,1.0,0.0,0.0,1.0,9.0,5.0,5.0,1.0,7.0,15.0
 2023,div1,El Paso,elpasocommunitycollege,home,Otero,W,12-1,20230219_rbwx,11,1.0,1.0,0.0,0.0,1.0,2.0,1.0,1.0,1.0,5.0,12.0
 2023,div1,El Paso,elpasocommunitycollege,home,Otero,W,3-1,20230218_57l4,12,1.0,1.0,0.0,1.0,0.5,4.0,1.0,1.0,1.0,1.0,13.0
-2023,div1,El Paso,elpasocommunitycollege,home,Otero,W,9-4,20230219_ot01,13,1.0,1.0,0.0,0.0,1.0,10.0,4.0,3.0,0.75,0.0,15.0
+2023,div1,El Paso,elpasocommunitycollege,home,Otero,W,9-4,20230219_ot01,13,1.0,1.0,0.0,1.0,0.5,10.0,4.0,3.0,0.75,0.0,15.0
 2023,div1,El Paso,elpasocommunitycollege,home,South Mountain,L,5-3,20230203_kmeb,12,1.0,0.0,1.0,0.0,1.0,6.0,5.0,2.0,0.4,5.0,12.0
 2023,div1,El Paso,elpasocommunitycollege,home,Sul Ross State University,W,13-12,20230215_0l2m,15,1.0,1.0,0.0,0.0,1.0,11.0,12.0,11.0,0.917,6.0,11.0
 2023,div1,El Paso,elpasocommunitycollege,home,Sul Ross State University,W,7-0,20230215_4jms,16,1.0,1.0,0.0,0.0,1.0,5.0,0.0,0.0,,4.0,7.0
@@ -1249,6 +1287,7 @@ season,njcaa_division,team,team_id,location,opponent,result,score,game_id,G,TC,P
 2023,div1,Florida SouthWestern State,floridasouthwesternstatecollege,home,Indian River State,W,6-2,20230308_3bxa,12,1.0,1.0,0.0,1.0,0.5,6.0,2.0,0.0,0.0,6.0,13.0
 2023,div1,Florida SouthWestern State,floridasouthwesternstatecollege,home,Inspiration Academy,W,11-0,20230214_m8ym,12,1.0,1.0,0.0,0.0,1.0,2.0,0.0,0.0,,1.0,3.0
 2023,div1,Florida SouthWestern State,floridasouthwesternstatecollege,home,Meridian,L,7-0,20230204_zziw,10,1.0,0.0,1.0,0.0,1.0,8.0,7.0,7.0,1.0,5.0,4.0
+2023,div1,Florida SouthWestern State,floridasouthwesternstatecollege,home,Miami Dade,L,8-3,20230317_5paw,14,1.0,0.0,1.0,0.0,1.0,12.0,8.0,8.0,1.0,6.0,9.0
 2023,div1,Florida SouthWestern State,floridasouthwesternstatecollege,home,Miami Dade,W,5-2,20230315_292h,13,1.0,1.0,0.0,1.0,0.5,5.0,2.0,1.0,0.5,5.0,7.0
 2023,div1,Florida SouthWestern State,floridasouthwesternstatecollege,home,Pasco-Hernando State,W,7-2,20230218_z76c,12,1.0,1.0,0.0,1.0,0.5,10.0,2.0,2.0,1.0,4.0,4.0
 2023,div1,Florida SouthWestern State,floridasouthwesternstatecollege,home,Pasco-Hernando State,W,7-6,20230127_lcd6,14,1.0,1.0,0.0,0.0,1.0,4.0,6.0,5.0,0.833,7.0,11.0
@@ -1272,12 +1311,14 @@ season,njcaa_division,team,team_id,location,opponent,result,score,game_id,G,TC,P
 2023,div1,Fort Scott,fortscottcommunitycollege,home,Iowa Lakes,W,3-2,20230303_lpor,13,1.0,1.0,0.0,0.0,1.0,2.0,2.0,2.0,1.0,6.0,7.0
 2023,div1,Fort Scott,fortscottcommunitycollege,home,Iowa Lakes,W,8-0,20230304_8s8h,11,1.0,1.0,0.0,0.0,1.0,2.0,0.0,0.0,,1.0,8.0
 2023,div1,Fort Scott,fortscottcommunitycollege,home,Iowa Lakes,W,8-6,20230304_w7f7,33,1.0,20.0,0.0,0.0,1.0,45.0,25.0,24.0,0.96,7.0,28.0
-2023,div1,Fort Scott,fortscottcommunitycollege,home,Johnson County,L,10-8,20230310_9haj,12,1.0,0.0,0.0,0.0,,10.0,10.0,9.0,0.9,3.0,3.0
+2023,div1,Fort Scott,fortscottcommunitycollege,home,Johnson County,L,10-8,20230310_9haj,12,1.0,0.0,1.0,0.0,1.0,10.0,10.0,9.0,0.9,3.0,3.0
 2023,div1,Fort Scott,fortscottcommunitycollege,home,Johnson County,L,11-10,20230310_fq5b,17,1.0,0.0,0.0,0.0,,18.0,11.0,10.0,0.909,7.0,4.0
 2023,div1,Fort Scott,fortscottcommunitycollege,home,Johnson County,L,13-3,20230308_aj7k,11,1.0,0.0,1.0,0.0,1.0,10.0,13.0,11.0,0.846,5.0,4.0
-2023,div1,Fort Scott,fortscottcommunitycollege,home,Johnson County,L,5-1,20230308_e5nr,15,1.0,0.0,0.0,0.0,,8.0,5.0,4.0,0.8,3.0,6.0
+2023,div1,Fort Scott,fortscottcommunitycollege,home,Johnson County,L,5-1,20230308_e5nr,15,1.0,0.0,1.0,0.0,1.0,8.0,5.0,4.0,0.8,3.0,6.0
+2023,div1,Fort Scott,fortscottcommunitycollege,home,Labette,L,10-7,20230317_zinm,15,1.0,0.0,1.0,0.0,1.0,9.0,10.0,10.0,1.0,11.0,9.0
 2023,div1,Fort Scott,fortscottcommunitycollege,home,Labette,W,11-6,20230315_gs49,12,1.0,1.0,0.0,0.0,1.0,5.0,6.0,4.0,0.667,6.0,10.0
 2023,div1,Fort Scott,fortscottcommunitycollege,home,Labette,W,16-6,20230315_krcs,10,1.0,1.0,0.0,0.0,1.0,10.0,6.0,6.0,1.0,1.0,6.0
+2023,div1,Fort Scott,fortscottcommunitycollege,home,Labette,W,7-2,20230317_7vnl,11,1.0,1.0,0.0,0.0,1.0,7.0,2.0,2.0,1.0,4.0,5.0
 2023,div1,Fort Scott,fortscottcommunitycollege,home,Ottawa University JV,W,11-1,20230219_ha9r,12,1.0,1.0,0.0,0.0,1.0,2.0,1.0,1.0,1.0,4.0,7.0
 2023,div1,Fort Scott,fortscottcommunitycollege,home,Ottawa University JV,W,8-4,20230219_rvf5,32,20.0,20.0,0.0,0.0,1.0,103.0,61.0,41.0,0.672,43.0,22.0
 2023,div1,Fort Scott,fortscottcommunitycollege,home,Pratt,L,5-2,20230210_478b,11,1.0,0.0,1.0,0.0,1.0,8.0,5.0,1.0,0.2,5.0,5.0
@@ -1320,7 +1361,7 @@ season,njcaa_division,team,team_id,location,opponent,result,score,game_id,G,TC,P
 2023,div1,Frontier,frontiercommunitycollege,home,Gulf Coast State,W,7-5,20230303_7dk7,6,0.0,0.0,0.0,0.0,,0.0,0.0,0.0,,0.0,0.0
 2023,div1,Frontier,frontiercommunitycollege,home,Huntingdon College,W,12-9,20230214_qbhl,6,0.0,0.0,0.0,0.0,,0.0,0.0,0.0,,0.0,0.0
 2023,div1,Frontier,frontiercommunitycollege,home,Huntingdon College,W,6-0,20230214_amiq,6,0.0,0.0,0.0,0.0,,0.0,0.0,0.0,,0.0,0.0
-2023,div1,Frontier,frontiercommunitycollege,home,Kishwaukee,W,10-0,20230224_xo53,12,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,,5.0,7.0
+2023,div1,Frontier,frontiercommunitycollege,home,Kishwaukee,W,10-0,20230224_xo53,11,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,,5.0,7.0
 2023,div1,Frontier,frontiercommunitycollege,home,Kishwaukee,W,11-0,20230225_kcj4,11,0.0,1.0,0.0,0.0,1.0,1.0,0.0,0.0,,2.0,11.0
 2023,div1,Frontier,frontiercommunitycollege,home,Kishwaukee,W,3-0,20230225_1lwc,9,0.0,0.0,0.0,0.0,,0.0,0.0,0.0,,0.0,0.0
 2023,div1,Frontier,frontiercommunitycollege,home,Kishwaukee,W,5-4,20230224_r338,12,0.0,1.0,0.0,0.0,1.0,7.0,4.0,3.0,0.75,2.0,5.0
@@ -1498,6 +1539,8 @@ season,njcaa_division,team,team_id,location,opponent,result,score,game_id,G,TC,P
 2023,div1,Grayson,graysoncollege,home,North Central Texas,W,2-1,20230310_f004,11,1.0,0.0,0.0,0.0,,1.0,1.0,1.0,1.0,5.0,10.0
 2023,div1,Grayson,graysoncollege,home,Odessa,L,7-3,20230205_pckz,16,1.0,0.0,1.0,0.0,1.0,10.0,7.0,5.0,0.714,6.0,11.0
 2023,div1,Grayson,graysoncollege,home,Seminole State (OK),L,14-7,20230222_ctnl,12,1.0,0.0,0.0,0.0,,13.0,14.0,13.0,0.929,6.0,7.0
+2023,div1,Grayson,graysoncollege,home,Temple,W,10-4,20230315_bl3z,12,1.0,1.0,0.0,0.0,1.0,6.0,4.0,4.0,1.0,5.0,8.0
+2023,div1,Grayson,graysoncollege,home,Temple,W,11-2,20230315_d0jm,10,1.0,1.0,0.0,0.0,1.0,5.0,2.0,2.0,1.0,1.0,16.0
 2023,div1,Grayson,graysoncollege,home,Wharton County,L,9-0,20230211_r7m9,13,1.0,1.0,0.0,1.0,0.5,2.0,1.0,0.0,0.0,1.0,9.0
 2023,div1,Gulf Coast State,gulfcoaststatecollege,home,Andrew,W,17-10,20230225_lw8u,15,1.0,1.0,0.0,0.0,1.0,9.0,10.0,7.0,0.7,8.0,12.0
 2023,div1,Gulf Coast State,gulfcoaststatecollege,home,Andrew,W,9-0,20230225_x6d9,13,1.0,1.0,0.0,0.0,1.0,2.0,0.0,0.0,,2.0,11.0
@@ -1541,6 +1584,7 @@ season,njcaa_division,team,team_id,location,opponent,result,score,game_id,G,TC,P
 2023,div1,Hagerstown,hagerstowncommunitycollege,home,PSU Beaver,W,15-3,20230310_grdo,15,1.0,1.0,0.0,0.0,1.0,6.0,3.0,3.0,1.0,4.0,6.0
 2023,div1,Hagerstown,hagerstowncommunitycollege,home,Shenandoah University,L,10-3,20230305_wqm3,15,1.0,0.0,1.0,0.0,1.0,13.0,10.0,9.0,0.9,5.0,7.0
 2023,div1,Hagerstown,hagerstowncommunitycollege,home,Shenandoah University,L,4-3,20230305_fvhw,13,1.0,0.0,1.0,0.0,1.0,6.0,4.0,4.0,1.0,4.0,5.0
+2023,div1,Hagerstown,hagerstowncommunitycollege,home,Sunshine State Academy,W,7-4,20230316_977u,13,1.0,1.0,0.0,0.0,1.0,6.0,4.0,4.0,1.0,1.0,10.0
 2023,div1,Harford,harfordcommunitycollege,home,Anne Arundel,W,10-7,20230228_728h,13,1.0,1.0,0.0,1.0,0.5,8.0,7.0,3.0,0.429,3.0,12.0
 2023,div1,Harford,harfordcommunitycollege,home,Anne Arundel,W,11-7,20230228_8z13,14,1.0,1.0,0.0,0.0,1.0,6.0,7.0,5.0,0.714,5.0,7.0
 2023,div1,Harford,harfordcommunitycollege,home,CCBC Essex,L,7-4,20230307_ob23,15,1.0,0.0,1.0,0.0,1.0,8.0,7.0,2.0,0.286,6.0,6.0
@@ -1555,6 +1599,7 @@ season,njcaa_division,team,team_id,location,opponent,result,score,game_id,G,TC,P
 2023,div1,Harford,harfordcommunitycollege,home,Mercer County,W,4-3,20230302_e7vm,13,1.0,1.0,0.0,0.0,1.0,8.0,3.0,1.0,0.333,4.0,6.0
 2023,div1,Harford,harfordcommunitycollege,home,Monroe College,L,2-1,20230312_vkxc,13,1.0,0.0,1.0,0.0,1.0,6.0,2.0,2.0,1.0,6.0,8.0
 2023,div1,Harford,harfordcommunitycollege,home,Monroe College,L,3-2,20230312_t2h0,13,1.0,0.0,1.0,0.0,1.0,9.0,3.0,2.0,0.667,6.0,5.0
+2023,div1,Harford,harfordcommunitycollege,home,RCSJ Gloucester,L,13-2,20230317_9ysk,13,1.0,0.0,1.0,0.0,1.0,13.0,13.0,9.0,0.692,6.0,5.0
 2023,div1,Harford,harfordcommunitycollege,home,Southeastern-Whiteville,L,3-2,20230219_0kn4,12,1.0,0.0,1.0,0.0,1.0,5.0,3.0,2.0,0.667,2.0,8.0
 2023,div1,Harford,harfordcommunitycollege,home,Southeastern-Whiteville,W,12-10,20230218_0zkt,14,1.0,1.0,0.0,0.0,1.0,11.0,10.0,10.0,1.0,2.0,8.0
 2023,div1,Harford,harfordcommunitycollege,home,Sullivan County,W,29-5,20230316_f9dk,21,1.0,1.0,0.0,1.0,0.5,6.0,5.0,0.0,0.0,4.0,10.0
@@ -1819,6 +1864,7 @@ season,njcaa_division,team,team_id,location,opponent,result,score,game_id,G,TC,P
 2023,div1,Jefferson (MO),jeffersoncollege,home,Lake Land,L,11-5,20230219_s476,14,0.0,0.0,1.0,0.0,1.0,9.0,11.0,8.0,0.727,4.0,11.0
 2023,div1,Jefferson (MO),jeffersoncollege,home,Lincoln Land,W,6-3,20230225_b84u,13,0.0,0.0,0.0,0.0,,7.0,3.0,3.0,1.0,3.0,6.0
 2023,div1,Jefferson (MO),jeffersoncollege,home,McLennan,L,3-2,20230203_mtby,2,0.0,0.0,2.0,0.0,1.0,6.0,2.0,2.0,1.0,2.0,2.0
+2023,div1,Jefferson (MO),jeffersoncollege,home,Metropolitan,W,27-4,20230315_eter,15,0.0,1.0,0.0,0.0,1.0,6.0,4.0,2.0,0.5,3.0,5.0
 2023,div1,Jefferson (MO),jeffersoncollege,home,Metropolitan,W,8-7,20230315_gwxi,13,0.0,0.0,0.0,0.0,,12.0,7.0,7.0,1.0,3.0,4.0
 2023,div1,Jefferson (MO),jeffersoncollege,home,Mineral Area,L,7-5,20230310_c5h9,11,0.0,0.0,1.0,0.0,1.0,9.0,7.0,3.0,0.429,5.0,5.0
 2023,div1,Jefferson (MO),jeffersoncollege,home,Mineral Area,W,9-2,20230310_guyj,11,0.0,1.0,0.0,0.0,1.0,7.0,2.0,2.0,1.0,3.0,14.0
@@ -1839,6 +1885,7 @@ season,njcaa_division,team,team_id,location,opponent,result,score,game_id,G,TC,P
 2023,div1,John A. Logan,johnalogancollege,home,Illinois Central,W,7-2,20230304_h97h,12,1.0,1.0,0.0,0.0,1.0,6.0,2.0,2.0,1.0,3.0,12.0
 2023,div1,John A. Logan,johnalogancollege,home,Jackson State,W,15-14,20230205_vvvo,15,1.0,1.0,0.0,0.0,1.0,6.0,14.0,10.0,0.714,8.0,14.0
 2023,div1,John A. Logan,johnalogancollege,home,Kankakee,W,22-7,20230305_p3fj,20,1.0,1.0,0.0,0.0,1.0,9.0,7.0,7.0,1.0,3.0,8.0
+2023,div1,John A. Logan,johnalogancollege,home,Kaskaskia,W,11-0,20230316_m2wc,11,1.0,1.0,0.0,0.0,1.0,4.0,0.0,0.0,,2.0,12.0
 2023,div1,John A. Logan,johnalogancollege,home,Muskegon,L,11-5,20230224_15i2,13,1.0,0.0,1.0,0.0,1.0,7.0,11.0,8.0,0.727,3.0,12.0
 2023,div1,John A. Logan,johnalogancollege,home,Muskegon,W,3-0,20230224_vsw7,13,1.0,1.0,0.0,1.0,0.5,0.0,0.0,0.0,,7.0,8.0
 2023,div1,John A. Logan,johnalogancollege,home,Northeast Mississippi,L,9-3,20230204_9p0v,15,1.0,0.0,1.0,0.0,1.0,4.0,9.0,9.0,1.0,12.0,7.0
@@ -1855,10 +1902,13 @@ season,njcaa_division,team,team_id,location,opponent,result,score,game_id,G,TC,P
 2023,div1,Johnson County,johnsoncountycommunitycollege,home,Cloud County,W,14-4,20230303_xivc,16,1.0,1.0,0.0,0.0,1.0,6.0,4.0,2.0,0.5,1.0,7.0
 2023,div1,Johnson County,johnsoncountycommunitycollege,home,Cloud County,W,15-3,20230303_q52x,14,1.0,1.0,0.0,0.0,1.0,6.0,3.0,3.0,1.0,1.0,11.0
 2023,div1,Johnson County,johnsoncountycommunitycollege,home,Cloud County,W,7-1,20230304_d8z2,11,1.0,1.0,0.0,1.0,0.5,4.0,1.0,1.0,1.0,1.0,4.0
+2023,div1,Johnson County,johnsoncountycommunitycollege,home,Coffeyville,W,13-4,20230315_7fz4,15,1.0,1.0,0.0,0.0,1.0,10.0,4.0,3.0,0.75,1.0,19.0
+2023,div1,Johnson County,johnsoncountycommunitycollege,home,Coffeyville,W,8-5,20230315_in3y,11,1.0,1.0,0.0,0.0,1.0,4.0,5.0,4.0,0.8,2.0,9.0
 2023,div1,Johnson County,johnsoncountycommunitycollege,home,Crowder,L,4-1,20230209_apb0,19,1.0,0.0,1.0,0.0,1.0,5.0,4.0,3.0,0.75,6.0,17.0
 2023,div1,Johnson County,johnsoncountycommunitycollege,home,Crowder,L,6-4,20230209_xw39,13,1.0,0.0,1.0,0.0,1.0,7.0,6.0,4.0,0.667,2.0,8.0
 2023,div1,Johnson County,johnsoncountycommunitycollege,home,Crowder,W,3-0,20230211_zikb,11,1.0,1.0,0.0,1.0,0.5,1.0,0.0,0.0,,3.0,14.0
 2023,div1,Johnson County,johnsoncountycommunitycollege,home,Crowder,W,9-8,20230211_u40t,19,1.0,1.0,0.0,1.0,0.5,8.0,8.0,6.0,0.75,8.0,13.0
+2023,div1,Johnson County,johnsoncountycommunitycollege,home,Des Moines Area,L,8-3,20230314_enu8,18,1.0,0.0,0.0,0.0,,6.0,8.0,6.0,0.75,6.0,16.0
 2023,div1,Johnson County,johnsoncountycommunitycollege,home,Fort Scott,W,10-8,20230310_9haj,16,1.0,1.0,0.0,0.0,1.0,12.0,8.0,8.0,1.0,1.0,5.0
 2023,div1,Johnson County,johnsoncountycommunitycollege,home,Fort Scott,W,11-10,20230310_fq5b,21,1.0,1.0,0.0,1.0,0.5,14.0,10.0,10.0,1.0,11.0,10.0
 2023,div1,Johnson County,johnsoncountycommunitycollege,home,Fort Scott,W,13-3,20230308_aj7k,10,1.0,1.0,0.0,0.0,1.0,6.0,3.0,3.0,1.0,0.0,8.0
@@ -1881,6 +1931,7 @@ season,njcaa_division,team,team_id,location,opponent,result,score,game_id,G,TC,P
 2023,div1,Kansas City Kansas,kansascitykansascommunitycollege,home,Butler,L,19-7,20230225_c3vt,18,1.0,0.0,1.0,0.0,1.0,17.0,18.0,17.0,0.944,8.0,5.0
 2023,div1,Kansas City Kansas,kansascitykansascommunitycollege,home,Butler,W,10-8,20230225_wxsi,13,1.0,1.0,0.0,1.0,0.5,16.0,8.0,8.0,1.0,3.0,5.0
 2023,div1,Kansas City Kansas,kansascitykansascommunitycollege,home,Butler,W,8-3,20230222_pipw,12,1.0,1.0,0.0,0.0,1.0,4.0,3.0,3.0,1.0,5.0,10.0
+2023,div1,Kansas City Kansas,kansascitykansascommunitycollege,home,Cowley,L,11-10,20230315_ny4t,15,1.0,0.0,1.0,0.0,1.0,12.0,11.0,11.0,1.0,6.0,8.0
 2023,div1,Kansas City Kansas,kansascitykansascommunitycollege,home,Cowley,W,10-7,20230315_8d5a,13,1.0,1.0,0.0,0.0,1.0,11.0,7.0,6.0,0.857,4.0,9.0
 2023,div1,Kansas City Kansas,kansascitykansascommunitycollege,home,Marshalltown,W,13-7,20230219_f6dn,20,1.0,1.0,0.0,0.0,1.0,8.0,7.0,7.0,1.0,5.0,6.0
 2023,div1,Kansas City Kansas,kansascitykansascommunitycollege,home,Marshalltown,W,14-7,20230218_37xo,14,1.0,1.0,0.0,0.0,1.0,7.0,7.0,4.0,0.571,3.0,11.0
@@ -1899,6 +1950,7 @@ season,njcaa_division,team,team_id,location,opponent,result,score,game_id,G,TC,P
 2023,div1,Kaskaskia,kaskaskiacollege,home,Illinois College,W,17-5,20230228_6tx2,20,1.0,1.0,0.0,0.0,1.0,6.0,5.0,5.0,1.0,3.0,6.0
 2023,div1,Kaskaskia,kaskaskiacollege,home,Illinois College,W,6-3,20230228_3omr,16,1.0,1.0,0.0,1.0,0.5,9.0,3.0,3.0,1.0,1.0,8.0
 2023,div1,Kaskaskia,kaskaskiacollege,home,Indian Hills,L,7-2,20230224_b36g,13,1.0,0.0,1.0,0.0,1.0,10.0,7.0,6.0,0.857,4.0,3.0
+2023,div1,Kaskaskia,kaskaskiacollege,home,John A. Logan,L,11-0,20230316_m2wc,12,1.0,0.0,1.0,0.0,1.0,13.0,11.0,6.0,0.545,1.0,2.0
 2023,div1,Kaskaskia,kaskaskiacollege,home,Lincoln Trail,L,11-10,20230310_93pw,15,1.0,0.0,1.0,0.0,1.0,12.0,11.0,8.0,0.727,6.0,10.0
 2023,div1,Kaskaskia,kaskaskiacollege,home,Lincoln Trail,L,15-7,20230311_lzx8,13,1.0,0.0,1.0,0.0,1.0,11.0,15.0,13.0,0.867,8.0,3.0
 2023,div1,Kaskaskia,kaskaskiacollege,home,Lincoln Trail,W,5-1,20230311_8k4r,11,1.0,1.0,0.0,1.0,0.5,4.0,1.0,1.0,1.0,3.0,12.0
@@ -1915,7 +1967,7 @@ season,njcaa_division,team,team_id,location,opponent,result,score,game_id,G,TC,P
 2023,div1,Kaskaskia,kaskaskiacollege,home,Northeastern Oklahoma A&M,W,7-6,20230225_29iw,15,1.0,1.0,0.0,0.0,1.0,11.0,6.0,6.0,1.0,3.0,3.0
 2023,div1,Kaskaskia,kaskaskiacollege,home,Southwest Mississippi,L,5-4,20230218_iyyw,15,1.0,0.0,1.0,0.0,1.0,4.0,5.0,3.0,0.6,7.0,3.0
 2023,div1,Kaskaskia,kaskaskiacollege,home,Southwest Mississippi,W,3-2,20230218_52st,10,1.0,1.0,0.0,0.0,1.0,2.0,2.0,2.0,1.0,0.0,5.0
-2023,div1,Kishwaukee,kishwaukeecollege,home,Frontier,L,10-0,20230224_xo53,11,1.0,0.0,1.0,0.0,1.0,11.0,10.0,9.0,0.9,5.0,4.0
+2023,div1,Kishwaukee,kishwaukeecollege,home,Frontier,L,10-0,20230224_xo53,11,1.0,0.0,1.0,0.0,1.0,11.0,10.0,3.0,0.3,5.0,4.0
 2023,div1,Kishwaukee,kishwaukeecollege,home,Frontier,L,11-0,20230225_kcj4,12,1.0,0.0,1.0,0.0,1.0,8.0,11.0,9.0,0.818,9.0,0.0
 2023,div1,Kishwaukee,kishwaukeecollege,home,Frontier,L,3-0,20230225_1lwc,15,1.0,0.0,1.0,0.0,1.0,2.0,3.0,1.0,0.333,5.0,5.0
 2023,div1,Kishwaukee,kishwaukeecollege,home,Frontier,L,5-4,20230224_r338,10,1.0,0.0,1.0,0.0,1.0,5.0,5.0,2.0,0.4,3.0,4.0
@@ -1963,10 +2015,12 @@ season,njcaa_division,team,team_id,location,opponent,result,score,game_id,G,TC,P
 2023,div1,Lake Land,lakelandcollege,home,Coastal Alabama - Brewton,L,6-3,20230213_he5o,15,1.0,0.0,1.0,0.0,1.0,9.0,6.0,6.0,1.0,5.0,4.0
 2023,div1,Lake Land,lakelandcollege,home,Coastal Alabama - Brewton,L,8-4,20230212_03q9,16,1.0,0.0,1.0,0.0,1.0,6.0,8.0,3.0,0.375,2.0,9.0
 2023,div1,Lake Land,lakelandcollege,home,Coastal Alabama - Brewton,W,4-1,20230212_82ky,12,1.0,1.0,0.0,1.0,0.5,3.0,1.0,1.0,1.0,3.0,9.0
+2023,div1,Lake Land,lakelandcollege,home,Danville Area,W,11-10,20230315_xcbk,18,1.0,1.0,0.0,0.0,1.0,11.0,10.0,5.0,0.5,5.0,12.0
 2023,div1,Lake Land,lakelandcollege,home,Florida State Jacksonville,W,14-13,20230210_odhb,6,0.0,0.0,0.0,0.0,,0.0,0.0,0.0,,0.0,0.0
 2023,div1,Lake Land,lakelandcollege,home,Florida State Jacksonville,W,14-2,20230227_bs1o,6,0.0,0.0,0.0,0.0,,0.0,0.0,0.0,,0.0,0.0
 2023,div1,Lake Land,lakelandcollege,home,Hillsborough,W,7-5,20230206_up4v,6,0.0,0.0,0.0,0.0,,0.0,0.0,0.0,,0.0,0.0
 2023,div1,Lake Land,lakelandcollege,home,Hillsborough,W,9-0,20230215_bc2x,6,0.0,0.0,0.0,0.0,,0.0,0.0,0.0,,0.0,0.0
+2023,div1,Lake Land,lakelandcollege,home,Illinois Central,L,5-3,20230316_uggw,11,1.0,0.0,1.0,0.0,1.0,5.0,5.0,3.0,0.6,4.0,6.0
 2023,div1,Lake Land,lakelandcollege,home,Indian River State,W,6-5,20230128_dsbb,6,0.0,0.0,0.0,0.0,,0.0,0.0,0.0,,0.0,0.0
 2023,div1,Lake Land,lakelandcollege,home,Iowa Central,L,9-3,20230219_1ivu,18,1.0,0.0,1.0,0.0,1.0,8.0,8.0,8.0,1.0,9.0,10.0
 2023,div1,Lake Land,lakelandcollege,home,Jefferson (MO),W,11-5,20230219_s476,15,1.0,1.0,0.0,0.0,1.0,6.0,6.0,5.0,0.833,3.0,10.0
@@ -2040,18 +2094,20 @@ season,njcaa_division,team,team_id,location,opponent,result,score,game_id,G,TC,P
 2023,div1,Lawson State,lawsonstatecommunitycollege,home,Mineral Area,L,5-2,20230225_h2e1,13,0.0,0.0,1.0,0.0,1.0,6.0,5.0,5.0,1.0,2.0,4.0
 2023,div1,Lawson State,lawsonstatecommunitycollege,home,Mineral Area,W,2-0,20230225_he9r,10,0.0,1.0,0.0,0.0,1.0,4.0,0.0,0.0,,1.0,2.0
 2023,div1,Lawson State,lawsonstatecommunitycollege,home,Mineral Area,W,4-2,20230224_geq3,10,0.0,1.0,0.0,0.0,1.0,6.0,2.0,2.0,1.0,1.0,5.0
-2023,div1,Lawson State,lawsonstatecommunitycollege,home,Northeastern Oklahoma A&M,L,11-9,20230219_ytv7,6,0.0,0.0,0.0,0.0,,0.0,0.0,0.0,,0.0,0.0
-2023,div1,Lawson State,lawsonstatecommunitycollege,home,Northeastern Oklahoma A&M,L,5-4,20230218_tp8f,6,0.0,0.0,0.0,0.0,,0.0,0.0,0.0,,0.0,0.0
+2023,div1,Lawson State,lawsonstatecommunitycollege,home,Northeastern Oklahoma A&M,L,11-9,20230219_ytv7,5,0.0,0.0,0.0,0.0,,0.0,0.0,0.0,,0.0,0.0
+2023,div1,Lawson State,lawsonstatecommunitycollege,home,Northeastern Oklahoma A&M,L,5-4,20230218_tp8f,5,0.0,0.0,0.0,0.0,,0.0,0.0,0.0,,0.0,0.0
 2023,div1,Lawson State,lawsonstatecommunitycollege,home,Snead State,L,12-11,20230309_dah7,13,0.0,0.0,1.0,0.0,1.0,13.0,12.0,11.0,0.917,4.0,8.0
 2023,div1,Lawson State,lawsonstatecommunitycollege,home,Snead State,W,12-0,20230309_gww5,10,0.0,1.0,0.0,0.0,1.0,3.0,0.0,0.0,,1.0,3.0
 2023,div1,Lawson State,lawsonstatecommunitycollege,home,Snead State,W,19-2,20230311_i7a9,12,0.0,1.0,0.0,0.0,1.0,3.0,2.0,2.0,1.0,4.0,7.0
 2023,div1,Lawson State,lawsonstatecommunitycollege,home,Snead State,W,4-2,20230311_wj0m,14,0.0,1.0,0.0,1.0,0.5,5.0,2.0,2.0,1.0,12.0,8.0
-2023,div1,Lawson State,lawsonstatecommunitycollege,home,St. Charles,W,11-10,20230307_sa07,6,0.0,0.0,0.0,0.0,,0.0,0.0,0.0,,0.0,0.0
-2023,div1,Lawson State,lawsonstatecommunitycollege,home,St. Louis,W,15-3,20230225_svtz,6,0.0,0.0,0.0,0.0,,0.0,0.0,0.0,,0.0,0.0
-2023,div1,Lawson State,lawsonstatecommunitycollege,home,Triton,W,9-4,20230226_nzb0,6,0.0,0.0,0.0,0.0,,0.0,0.0,0.0,,0.0,0.0
-2023,div1,Lawson State,lawsonstatecommunitycollege,home,Volunteer State,L,3-2,20230210_ep7r,6,0.0,0.0,0.0,0.0,,0.0,0.0,0.0,,0.0,0.0
-2023,div1,Lawson State,lawsonstatecommunitycollege,home,Volunteer State,W,5-2,20230211_tk9r,6,0.0,0.0,0.0,0.0,,0.0,0.0,0.0,,0.0,0.0
-2023,div1,Lawson State,lawsonstatecommunitycollege,home,Webster University JV,W,20-9,20230301_k7za,6,0.0,0.0,0.0,0.0,,0.0,0.0,0.0,,0.0,0.0
+2023,div1,Lawson State,lawsonstatecommunitycollege,home,St. Charles,W,11-10,20230307_sa07,5,0.0,0.0,0.0,0.0,,0.0,0.0,0.0,,0.0,0.0
+2023,div1,Lawson State,lawsonstatecommunitycollege,home,St. Louis,W,15-3,20230225_svtz,5,0.0,0.0,0.0,0.0,,0.0,0.0,0.0,,0.0,0.0
+2023,div1,Lawson State,lawsonstatecommunitycollege,home,Triton,W,9-4,20230226_nzb0,5,0.0,0.0,0.0,0.0,,0.0,0.0,0.0,,0.0,0.0
+2023,div1,Lawson State,lawsonstatecommunitycollege,home,Volunteer State,L,3-2,20230210_ep7r,5,0.0,0.0,0.0,0.0,,0.0,0.0,0.0,,0.0,0.0
+2023,div1,Lawson State,lawsonstatecommunitycollege,home,Volunteer State,W,5-2,20230211_tk9r,5,0.0,0.0,0.0,0.0,,0.0,0.0,0.0,,0.0,0.0
+2023,div1,Lawson State,lawsonstatecommunitycollege,home,Wallace State,L,13-3,20230316_9xvc,11,0.0,0.0,1.0,0.0,1.0,11.0,13.0,10.0,0.769,3.0,5.0
+2023,div1,Lawson State,lawsonstatecommunitycollege,home,Wallace State,L,9-3,20230316_y8dt,13,0.0,0.0,1.0,0.0,1.0,11.0,9.0,8.0,0.889,5.0,3.0
+2023,div1,Lawson State,lawsonstatecommunitycollege,home,Webster University JV,W,20-9,20230301_k7za,5,0.0,0.0,0.0,0.0,,0.0,0.0,0.0,,0.0,0.0
 2023,div1,Lincoln Trail,lincolntrailcollege,home,Georgia Highlands,L,4-0,20230210_kssf,19,1.0,0.0,0.0,0.0,,6.0,4.0,3.0,0.75,6.0,3.0
 2023,div1,Lincoln Trail,lincolntrailcollege,home,Georgia Highlands,W,4-3,20230210_dzna,14,1.0,0.0,0.0,1.0,0.0,6.0,3.0,3.0,1.0,6.0,7.0
 2023,div1,Lincoln Trail,lincolntrailcollege,home,Indian Hills,W,13-7,20230225_uddc,17,1.0,1.0,0.0,1.0,0.5,10.0,7.0,6.0,0.857,3.0,8.0
@@ -2168,6 +2224,8 @@ season,njcaa_division,team,team_id,location,opponent,result,score,game_id,G,TC,P
 2023,div1,Lurleen B. Wallace,lurleenbwallacecommunitycollege,home,Utah State University Club,W,18-1,20230131_o8vg,1,0.0,0.0,0.0,0.0,,1.0,1.0,0.0,0.0,1.0,3.0
 2023,div1,Marion Military,marionmilitaryinstitute,home,Bishop State,L,2-1,20230301_vp0x,13,1.0,0.0,1.0,0.0,1.0,3.0,2.0,0.0,0.0,4.0,6.0
 2023,div1,Marion Military,marionmilitaryinstitute,home,Bishop State,L,3-1,20230301_9tah,13,1.0,0.0,1.0,0.0,1.0,3.0,3.0,0.0,0.0,4.0,5.0
+2023,div1,Marion Military,marionmilitaryinstitute,home,Calhoun,L,7-4,20230316_winr,1,0.0,0.0,0.0,0.0,,0.0,0.0,0.0,,0.0,0.0
+2023,div1,Marion Military,marionmilitaryinstitute,home,Calhoun,W,8-3,20230316_jlo6,1,0.0,0.0,0.0,0.0,,0.0,0.0,0.0,,0.0,0.0
 2023,div1,Marion Military,marionmilitaryinstitute,home,Coastal Alabama - Brewton,L,7-6,20230131_l3m0,15,1.0,0.0,1.0,0.0,1.0,11.0,7.0,6.0,0.857,2.0,3.0
 2023,div1,Marion Military,marionmilitaryinstitute,home,Coastal Alabama - Brewton,W,9-5,20230131_zp3v,13,1.0,1.0,0.0,0.0,1.0,9.0,5.0,4.0,0.8,5.0,5.0
 2023,div1,Marion Military,marionmilitaryinstitute,home,Coastal Alabama - Monroeville,L,10-2,20230215_lbo9,16,1.0,0.0,1.0,0.0,1.0,13.0,10.0,8.0,0.8,4.0,6.0
@@ -2223,6 +2281,11 @@ season,njcaa_division,team,team_id,location,opponent,result,score,game_id,G,TC,P
 2023,div1,McCook,mccookcommunitycollege,home,Northeastern,L,16-4,20230226_60g2,18,1.0,0.0,1.0,0.0,1.0,15.0,17.0,15.0,0.882,7.0,7.0
 2023,div1,McCook,mccookcommunitycollege,home,Northeastern,L,8-7,20230226_zdu1,14,1.0,0.0,1.0,0.0,1.0,7.0,8.0,7.0,0.875,3.0,5.0
 2023,div1,McCook,mccookcommunitycollege,home,Northeastern,W,6-3,20230225_v1c2,12,1.0,1.0,0.0,1.0,0.5,8.0,3.0,2.0,0.667,4.0,9.0
+2023,div1,McCook,mccookcommunitycollege,home,Northwestern Ok State JV,W,13-4,20230315_5ugp,15,1.0,1.0,0.0,0.0,1.0,10.0,4.0,4.0,1.0,7.0,4.0
+2023,div1,McCook,mccookcommunitycollege,home,Northwestern Ok State JV,W,15-6,20230315_wn3u,14,1.0,1.0,0.0,0.0,1.0,7.0,6.0,5.0,0.833,8.0,7.0
+2023,div1,McCook,mccookcommunitycollege,home,Southeast,L,12-9,20230314_wy8i,14,1.0,0.0,1.0,0.0,1.0,15.0,12.0,8.0,0.667,5.0,12.0
+2023,div1,McCook,mccookcommunitycollege,home,Southeast,L,6-3,20230314_ujwv,12,1.0,0.0,1.0,0.0,1.0,0.0,0.0,0.0,,0.0,0.0
+2023,div1,McCook,mccookcommunitycollege,home,Southeast,W,11-10,20230311_0q96,14,1.0,1.0,0.0,1.0,0.5,9.0,10.0,10.0,1.0,8.0,9.0
 2023,div1,McCook,mccookcommunitycollege,home,Trinidad State,L,14-11,20230306_non2,17,1.0,0.0,1.0,0.0,1.0,14.0,14.0,8.0,0.571,6.0,8.0
 2023,div1,McCook,mccookcommunitycollege,home,Trinidad State,L,5-2,20230305_c5bf,11,1.0,0.0,1.0,0.0,1.0,9.0,5.0,5.0,1.0,3.0,5.0
 2023,div1,McCook,mccookcommunitycollege,home,Trinidad State,L,8-7,20230306_f8fp,11,1.0,0.0,1.0,0.0,1.0,8.0,8.0,7.0,0.875,3.0,6.0
@@ -2281,6 +2344,7 @@ season,njcaa_division,team,team_id,location,opponent,result,score,game_id,G,TC,P
 2023,div1,Miami Dade,miamidadecollege,home,Elite Squad Academy,W,7-2,20230131_khct,15,1.0,1.0,0.0,1.0,0.5,3.0,2.0,0.0,0.0,6.0,9.0
 2023,div1,Miami Dade,miamidadecollege,home,Florence-Darlington Tech,L,4-0,20230211_704v,13,1.0,0.0,1.0,0.0,1.0,7.0,4.0,3.0,0.75,6.0,3.0
 2023,div1,Miami Dade,miamidadecollege,home,Florida Palms,W,12-5,20230224_bghf,14,1.0,1.0,0.0,0.0,1.0,9.0,5.0,5.0,1.0,5.0,10.0
+2023,div1,Miami Dade,miamidadecollege,home,Florida SouthWestern State,W,8-3,20230317_5paw,12,1.0,1.0,0.0,0.0,1.0,9.0,3.0,3.0,1.0,1.0,7.0
 2023,div1,Miami Dade,miamidadecollege,home,Gulf Coast State,W,13-6,20230129_iytq,16,1.0,1.0,0.0,0.0,1.0,10.0,6.0,6.0,1.0,8.0,17.0
 2023,div1,Miami Dade,miamidadecollege,home,Hillsborough,W,3-0,20230225_z27v,13,1.0,1.0,0.0,1.0,0.5,6.0,0.0,0.0,,2.0,9.0
 2023,div1,Miami Dade,miamidadecollege,home,Hillsborough,W,8-5,20230304_iov6,14,1.0,1.0,0.0,1.0,0.5,5.0,5.0,2.0,0.4,3.0,5.0
@@ -2335,6 +2399,8 @@ season,njcaa_division,team,team_id,location,opponent,result,score,game_id,G,TC,P
 2023,div1,Mineral Area,mineralareacollege,home,Pensacola State,W,16-13,20230203_tx6j,14,1.0,1.0,0.0,0.0,1.0,8.0,13.0,10.0,0.769,13.0,5.0
 2023,div1,Mineral Area,mineralareacollege,home,Southwest Mississippi,L,5-4,20230210_czz9,11,1.0,0.0,1.0,0.0,1.0,3.0,5.0,1.0,0.2,4.0,11.0
 2023,div1,Mineral Area,mineralareacollege,home,Southwest Mississippi,W,8-7,20230210_sg8h,15,1.0,1.0,0.0,1.0,0.5,11.0,7.0,6.0,0.857,7.0,17.0
+2023,div1,Mineral Area,mineralareacollege,home,St. Charles,L,7-3,20230316_g24k,13,1.0,0.0,1.0,0.0,1.0,9.0,7.0,3.0,0.429,4.0,10.0
+2023,div1,Mineral Area,mineralareacollege,home,St. Charles,W,5-2,20230316_omni,12,1.0,1.0,0.0,0.0,1.0,4.0,2.0,0.0,0.0,3.0,21.0
 2023,div1,Mineral Area,mineralareacollege,home,UA Rich Mountain,L,4-3,20230304_lr2u,11,1.0,0.0,1.0,0.0,1.0,6.0,4.0,4.0,1.0,1.0,4.0
 2023,div1,Mineral Area,mineralareacollege,home,UA Rich Mountain,W,16-3,20230305_ntdb,13,1.0,1.0,0.0,0.0,1.0,5.0,3.0,0.0,0.0,4.0,7.0
 2023,div1,Mineral Area,mineralareacollege,home,UA Rich Mountain,W,5-1,20230304_yywq,11,1.0,1.0,0.0,0.0,1.0,3.0,1.0,1.0,1.0,4.0,7.0
@@ -2391,13 +2457,15 @@ season,njcaa_division,team,team_id,location,opponent,result,score,game_id,G,TC,P
 2023,div1,Navarro,navarrocollege,home,Howard (TX),W,17-4,20230204_4mzz,15,0.0,1.0,0.0,0.0,1.0,7.0,4.0,4.0,1.0,4.0,7.0
 2023,div1,Navarro,navarrocollege,home,Lamar,W,13-3,20230226_4lcy,4,4.0,4.0,0.0,0.0,1.0,32.0,12.0,8.0,0.667,8.0,24.0
 2023,div1,Navarro,navarrocollege,home,McLennan,L,6-1,20230129_l7q5,14,0.0,0.0,1.0,0.0,1.0,3.0,6.0,2.0,0.333,9.0,6.0
-2023,div1,Navarro,navarrocollege,home,McLennan,L,7-1,20230129_zju4,13,0.0,0.0,0.0,0.0,,6.0,7.0,6.0,0.857,10.0,11.0
+2023,div1,Navarro,navarrocollege,home,McLennan,L,7-1,20230129_zju4,13,0.0,0.0,1.0,0.0,1.0,6.0,7.0,6.0,0.857,10.0,11.0
 2023,div1,Navarro,navarrocollege,home,McLennan,W,7-3,20230127_4ry5,12,0.0,1.0,0.0,0.0,1.0,6.0,3.0,3.0,1.0,5.0,4.0
 2023,div1,Navarro,navarrocollege,home,Northeast Texas,W,13-0,20230305_0wf0,9,1.0,1.0,0.0,0.0,1.0,2.0,0.0,0.0,,3.0,5.0
 2023,div1,Navarro,navarrocollege,home,Northeast Texas,W,9-6,20230305_emki,14,0.0,1.0,0.0,1.0,0.5,9.0,6.0,2.0,0.333,10.0,13.0
 2023,div1,Navarro,navarrocollege,home,Odessa,L,9-6,20230203_opxg,13,0.0,0.0,1.0,0.0,1.0,9.0,9.0,7.0,0.778,8.0,3.0
 2023,div1,Navarro,navarrocollege,home,Panola,L,10-9,20230218_qvzh,14,0.0,0.0,1.0,0.0,1.0,10.0,10.0,5.0,0.5,5.0,8.0
+2023,div1,Navarro,navarrocollege,home,Panola,L,2-1,20230315_59bk,13,0.0,0.0,1.0,0.0,1.0,6.0,2.0,2.0,1.0,1.0,8.0
 2023,div1,Navarro,navarrocollege,home,Panola,W,10-3,20230218_05ct,14,0.0,1.0,0.0,1.0,0.5,3.0,3.0,1.0,0.333,2.0,10.0
+2023,div1,Navarro,navarrocollege,home,Panola,W,12-2,20230315_58w2,13,0.0,1.0,0.0,0.0,1.0,9.0,2.0,2.0,1.0,4.0,4.0
 2023,div1,Navarro,navarrocollege,home,Paris,L,10-8,20230301_7smq,14,0.0,0.0,0.0,0.0,,9.0,10.0,7.0,0.7,6.0,9.0
 2023,div1,Navarro,navarrocollege,home,Paris,W,8-4,20230301_tqz4,11,0.0,1.0,0.0,0.0,1.0,6.0,4.0,3.0,0.75,2.0,8.0
 2023,div1,Navarro,navarrocollege,home,Ranger,L,6-1,20230218_9ogf,4,4.0,0.0,4.0,0.0,1.0,24.0,20.0,20.0,1.0,16.0,12.0
@@ -2409,6 +2477,8 @@ season,njcaa_division,team,team_id,location,opponent,result,score,game_id,G,TC,P
 2023,div1,Navarro,navarrocollege,home,Temple,W,5-2,20230225_93vk,11,0.0,1.0,0.0,1.0,0.5,3.0,2.0,1.0,0.5,1.0,10.0
 2023,div1,Navarro,navarrocollege,home,Tyler,W,2-0,20230311_xrzs,9,1.0,1.0,0.0,0.0,1.0,4.0,0.0,0.0,,1.0,4.0
 2023,div1,Navarro,navarrocollege,home,Tyler,W,6-5,20230311_aqha,14,0.0,1.0,0.0,0.0,1.0,8.0,5.0,4.0,0.8,4.0,7.0
+2023,div1,Neosho County,neoshocountycommunitycollege,home,Allen County,L,6-0,20230317_2zx1,10,0.0,0.0,0.0,0.0,,0.0,0.0,0.0,,0.0,0.0
+2023,div1,Neosho County,neoshocountycommunitycollege,home,Allen County,W,6-2,20230317_hxj8,12,0.0,1.0,0.0,0.0,1.0,6.0,2.0,0.0,0.0,6.0,4.0
 2023,div1,Neosho County,neoshocountycommunitycollege,home,Baker Community College,W,16-1,20230228_xhow,15,1.0,1.0,0.0,0.0,1.0,3.0,1.0,1.0,1.0,2.0,5.0
 2023,div1,Neosho County,neoshocountycommunitycollege,home,Baker Community College,W,9-1,20230228_7pkt,13,1.0,1.0,0.0,0.0,1.0,2.0,1.0,0.0,0.0,1.0,13.0
 2023,div1,Neosho County,neoshocountycommunitycollege,home,Baker University,W,11-1,20230304_0b6m,10,1.0,1.0,0.0,0.0,1.0,1.0,1.0,1.0,1.0,4.0,5.0
@@ -2465,6 +2535,8 @@ season,njcaa_division,team,team_id,location,opponent,result,score,game_id,G,TC,P
 2023,div1,New Mexico Military,newmexicomilitaryinstitute,home,Luna,W,5-4,20230221_58re,14,1.0,1.0,0.0,0.0,1.0,8.0,4.0,4.0,1.0,2.0,4.0
 2023,div1,New Mexico Military,newmexicomilitaryinstitute,home,Marion Military,W,2-1,20230301_vp0x,4,0.0,0.0,0.0,0.0,,0.0,0.0,0.0,,0.0,0.0
 2023,div1,New Mexico Military,newmexicomilitaryinstitute,home,Marion Military,W,3-1,20230301_9tah,4,0.0,0.0,0.0,0.0,,0.0,0.0,0.0,,0.0,0.0
+2023,div1,New Mexico Military,newmexicomilitaryinstitute,home,Midland,L,13-0,20230317_fyqa,14,1.0,0.0,1.0,0.0,1.0,15.0,13.0,10.0,0.769,4.0,7.0
+2023,div1,New Mexico Military,newmexicomilitaryinstitute,home,Midland,W,13-4,20230317_ltos,12,1.0,1.0,0.0,0.0,1.0,6.0,4.0,4.0,1.0,5.0,6.0
 2023,div1,New Mexico Military,newmexicomilitaryinstitute,home,Northwest Florida State,L,14-1,20230222_c6sh,4,0.0,0.0,0.0,0.0,,0.0,0.0,0.0,,0.0,0.0
 2023,div1,New Mexico Military,newmexicomilitaryinstitute,home,Nunez,L,5-4,20230204_qkeq,4,0.0,0.0,0.0,0.0,,0.0,0.0,0.0,,0.0,0.0
 2023,div1,New Mexico Military,newmexicomilitaryinstitute,home,Nunez,L,6-5,20230204_l159,4,0.0,0.0,0.0,0.0,,0.0,0.0,0.0,,0.0,0.0
@@ -2541,12 +2613,15 @@ season,njcaa_division,team,team_id,location,opponent,result,score,game_id,G,TC,P
 2023,div1,Northeast Texas,northeasttexascommunitycollege,home,Tyler,W,9-2,20230222_o6hg,11,1.0,1.0,0.0,0.0,1.0,4.0,2.0,1.0,0.5,6.0,12.0
 2023,div1,Northeast Texas,northeasttexascommunitycollege,home,UA Rich Mountain,W,12-2,20230205_ws2a,19,1.0,1.0,0.0,0.0,1.0,5.0,2.0,1.0,0.5,5.0,14.0
 2023,div1,Northeast Texas,northeasttexascommunitycollege,home,UA Rich Mountain,W,8-4,20230205_sytb,13,1.0,1.0,0.0,0.0,1.0,9.0,4.0,4.0,1.0,1.0,8.0
+2023,div1,Northeastern,northeasternjuniorcollege,home,Adams State University JV,W,16-3,20230311_3gra,22,0.0,1.0,0.0,0.0,1.0,7.0,3.0,3.0,1.0,8.0,7.0
 2023,div1,Northeastern,northeasternjuniorcollege,home,Arizona Western,L,10-5,20230204_0sjq,14,0.0,0.0,1.0,0.0,1.0,9.0,10.0,10.0,1.0,8.0,7.0
 2023,div1,Northeastern,northeasternjuniorcollege,home,Arizona Western,L,11-0,20230205_pe2d,20,0.0,0.0,1.0,0.0,1.0,9.0,11.0,10.0,0.909,6.0,6.0
 2023,div1,Northeastern,northeasternjuniorcollege,home,Arizona Western,L,5-2,20230203_0lgq,15,0.0,0.0,1.0,0.0,1.0,6.0,5.0,4.0,0.8,4.0,9.0
 2023,div1,Northeastern,northeasternjuniorcollege,home,Arizona Western,L,6-1,20230204_e22z,13,0.0,0.0,1.0,0.0,1.0,5.0,6.0,4.0,0.667,5.0,8.0
+2023,div1,Northeastern,northeasternjuniorcollege,home,CSU Pueblo JV,L,20-19,20230314_3z9h,18,0.0,0.0,1.0,0.0,1.0,16.0,20.0,19.0,0.95,13.0,6.0
 2023,div1,Northeastern,northeasternjuniorcollege,home,CSU Pueblo JV,L,4-1,20230308_g7ia,15,0.0,0.0,1.0,0.0,1.0,5.0,4.0,4.0,1.0,4.0,6.0
 2023,div1,Northeastern,northeasternjuniorcollege,home,CSU Pueblo JV,L,7-1,20230308_kpa4,17,0.0,0.0,1.0,0.0,1.0,5.0,7.0,5.0,0.714,7.0,7.0
+2023,div1,Northeastern,northeasternjuniorcollege,home,CSU Pueblo JV,L,9-8,20230314_cmgn,17,0.0,0.0,1.0,0.0,1.0,7.0,9.0,8.0,0.889,11.0,8.0
 2023,div1,Northeastern,northeasternjuniorcollege,home,Dawson,W,10-9,20230211_a131,14,0.0,1.0,0.0,1.0,0.5,9.0,9.0,8.0,0.889,6.0,3.0
 2023,div1,Northeastern,northeasternjuniorcollege,home,Dawson,W,4-3,20230211_3zoo,14,0.0,1.0,0.0,0.0,1.0,5.0,3.0,1.0,0.333,2.0,7.0
 2023,div1,Northeastern,northeasternjuniorcollege,home,Dawson,W,7-3,20230212_wavg,13,0.0,1.0,0.0,1.0,0.5,5.0,3.0,3.0,1.0,3.0,11.0
@@ -2611,6 +2686,7 @@ season,njcaa_division,team,team_id,location,opponent,result,score,game_id,G,TC,P
 2023,div1,Northwest Florida State,northwestfloridastatecollege,home,St. Johns River State,L,8-5,20230209_wv9p,13,1.0,0.0,1.0,0.0,1.0,6.0,8.0,6.0,0.75,9.0,12.0
 2023,div1,Northwest Florida State,northwestfloridastatecollege,home,State College of Florida,W,7-3,20230204_lcd7,13,1.0,1.0,0.0,1.0,0.5,5.0,3.0,2.0,0.667,5.0,7.0
 2023,div1,Northwest Florida State,northwestfloridastatecollege,home,State College of Florida,W,9-0,20230128_uh7u,13,1.0,0.0,1.0,0.0,1.0,9.0,12.0,7.0,0.583,3.0,6.0
+2023,div1,Northwest Florida State,northwestfloridastatecollege,home,Tallahassee,W,16-9,20230317_3b3s,15,1.0,1.0,0.0,0.0,1.0,15.0,9.0,7.0,0.778,4.0,6.0
 2023,div1,Northwest Florida State,northwestfloridastatecollege,home,Wabash Valley,L,2-1,20230203_jflz,12,1.0,0.0,1.0,0.0,1.0,5.0,2.0,1.0,0.5,1.0,8.0
 2023,div1,Nunez,nunezcommunitycollege,home,Bishop State,L,3-2,20230220_cqoq,11,0.0,0.0,1.0,0.0,1.0,4.0,3.0,2.0,0.667,0.0,8.0
 2023,div1,Nunez,nunezcommunitycollege,home,Bishop State,W,5-4,20230204_qkeq,13,0.0,1.0,0.0,1.0,0.5,4.0,4.0,0.0,0.0,6.0,4.0
@@ -2702,6 +2778,7 @@ season,njcaa_division,team,team_id,location,opponent,result,score,game_id,G,TC,P
 2023,div1,Olney Central,olneycentralcollege,home,Schoolcraft,W,8-6,20230302_ieym,14,1.0,1.0,0.0,1.0,0.5,5.0,6.0,4.0,0.667,1.0,8.0
 2023,div1,Olney Central,olneycentralcollege,home,Schoolcraft,W,9-1,20230302_ugh5,10,1.0,1.0,0.0,0.0,1.0,6.0,1.0,1.0,1.0,1.0,3.0
 2023,div1,Olney Central,olneycentralcollege,home,Scouts USA,W,10-0,20230303_huu7,12,1.0,1.0,0.0,0.0,1.0,2.0,0.0,0.0,,3.0,5.0
+2023,div1,Olney Central,olneycentralcollege,home,Shawnee,L,10-9,20230316_0vqu,11,1.0,0.0,1.0,0.0,1.0,14.0,10.0,3.0,0.3,3.0,12.0
 2023,div1,Olney Central,olneycentralcollege,home,Southwest Tennessee,L,5-1,20230210_3ty9,15,1.0,0.0,1.0,0.0,1.0,8.0,5.0,3.0,0.6,1.0,3.0
 2023,div1,Olney Central,olneycentralcollege,home,State Fair,W,4-3,20230210_0rnx,13,1.0,1.0,0.0,0.0,1.0,6.0,3.0,3.0,1.0,2.0,7.0
 2023,div1,Olney Central,olneycentralcollege,home,Vincennes,W,9-5,20230224_pom1,14,1.0,1.0,0.0,1.0,0.5,9.0,5.0,4.0,0.8,5.0,11.0
@@ -2763,7 +2840,7 @@ season,njcaa_division,team,team_id,location,opponent,result,score,game_id,G,TC,P
 2023,div1,Panola,panolacollege,home,Paris,W,10-0,20230311_zv9k,12,0.0,0.0,0.0,0.0,,0.0,0.0,0.0,,3.0,9.0
 2023,div1,Panola,panolacollege,home,Tyler,L,3-1,20230225_2au6,13,0.0,0.0,1.0,0.0,1.0,6.0,3.0,2.0,0.667,3.0,5.0
 2023,div1,Panola,panolacollege,home,Tyler,L,7-4,20230225_4h1d,14,0.0,0.0,0.0,0.0,,7.0,7.0,4.0,0.571,3.0,6.0
-2023,div1,Paris,parisjuniorcollege,home,Angelina,L,3-2,20230315_du81,13,1.0,0.0,1.0,0.0,1.0,9.0,3.0,2.0,0.667,5.0,4.0
+2023,div1,Paris,parisjuniorcollege,home,Angelina,L,3-2,20230315_du81,12,1.0,0.0,1.0,0.0,1.0,9.0,3.0,2.0,0.667,5.0,4.0
 2023,div1,Paris,parisjuniorcollege,home,Angelina,W,4-3,20230315_bufq,14,1.0,1.0,0.0,0.0,1.0,5.0,3.0,0.0,0.0,3.0,7.0
 2023,div1,Paris,parisjuniorcollege,home,Angelina,W,5-2,20230218_z525,12,1.0,1.0,0.0,1.0,0.5,5.0,2.0,1.0,0.5,3.0,10.0
 2023,div1,Paris,parisjuniorcollege,home,Angelina,W,9-0,20230218_kipa,12,1.0,1.0,0.0,0.0,1.0,3.0,0.0,0.0,,3.0,5.0
@@ -2894,6 +2971,7 @@ season,njcaa_division,team,team_id,location,opponent,result,score,game_id,G,TC,P
 2023,div1,Polk State,polkstatecollege,home,South Florida State,W,4-1,20230208_gjyg,13,1.0,1.0,0.0,1.0,0.5,7.0,1.0,1.0,1.0,1.0,15.0
 2023,div1,Polk State,polkstatecollege,home,St. Johns River State,L,10-9,20230222_2yzj,13,1.0,0.0,1.0,0.0,1.0,7.0,10.0,8.0,0.8,6.0,11.0
 2023,div1,Polk State,polkstatecollege,home,St. Johns River State,W,12-5,20230221_0mf2,16,1.0,1.0,0.0,2.0,0.333,15.0,5.0,5.0,1.0,7.0,17.0
+2023,div1,Polk State,polkstatecollege,home,St. Petersburg,W,8-7,20230317_mvcu,14,1.0,1.0,0.0,1.0,0.5,12.0,7.0,6.0,0.857,2.0,10.0
 2023,div1,Polk State,polkstatecollege,home,TNXL Academy,W,13-2,20230306_dwj2,14,1.0,1.0,0.0,0.0,1.0,6.0,2.0,1.0,0.5,2.0,8.0
 2023,div1,Polk State,polkstatecollege,home,University of Tampa (B),W,8-2,20230304_skio,16,1.0,1.0,0.0,1.0,0.5,8.0,2.0,2.0,1.0,5.0,14.0
 2023,div1,Polk State,polkstatecollege,home,Webber International University (B),W,16-2,20230207_1i0u,14,1.0,1.0,0.0,0.0,1.0,6.0,2.0,2.0,1.0,3.0,15.0
@@ -2906,6 +2984,7 @@ season,njcaa_division,team,team_id,location,opponent,result,score,game_id,G,TC,P
 2023,div1,Potomac State,wvupotomacstatecollege,home,USC Sumter,W,2-1,20230304_0qr0,12,1.0,1.0,0.0,1.0,0.5,4.0,1.0,1.0,1.0,1.0,4.0
 2023,div1,Potomac State,wvupotomacstatecollege,home,USC Sumter,W,3-2,20230305_kdwg,13,1.0,1.0,0.0,1.0,0.5,6.0,2.0,1.0,0.5,2.0,4.0
 2023,div1,Potomac State,wvupotomacstatecollege,home,Walters State,L,2-1,20230316_09bg,11,1.0,0.0,1.0,0.0,1.0,2.0,2.0,2.0,1.0,2.0,15.0
+2023,div1,Potomac State,wvupotomacstatecollege,home,Walters State,L,6-1,20230316_ajg4,11,1.0,0.0,1.0,0.0,1.0,9.0,6.0,5.0,0.833,4.0,3.0
 2023,div1,Potomac State,wvupotomacstatecollege,home,Washington & Jefferson,L,4-0,20230308_r3hn,12,1.0,0.0,1.0,0.0,1.0,7.0,4.0,4.0,1.0,1.0,7.0
 2023,div1,Potomac State,wvupotomacstatecollege,home,Washington & Jefferson,W,4-0,20230308_ugyx,14,1.0,1.0,0.0,1.0,0.5,5.0,0.0,0.0,,0.0,7.0
 2023,div1,Pratt,prattcommunitycollege,home,Allen County,L,9-0,20230202_4rem,13,1.0,0.0,1.0,0.0,1.0,11.0,9.0,8.0,0.889,3.0,8.0
@@ -3093,6 +3172,7 @@ season,njcaa_division,team,team_id,location,opponent,result,score,game_id,G,TC,P
 2023,div1,San Jacinto-North,sanjacintocollegenorth,home,New Mexico,W,10-7,20230128_x7n3,14,1.0,1.0,0.0,1.0,0.5,8.0,7.0,2.0,0.286,6.0,12.0
 2023,div1,San Jacinto-North,sanjacintocollegenorth,home,New Mexico,W,8-7,20230129_haw0,15,1.0,1.0,0.0,0.0,1.0,11.0,7.0,7.0,1.0,5.0,14.0
 2023,div1,San Jacinto-North,sanjacintocollegenorth,home,Ranger,W,3-0,20230212_4vzg,15,1.0,1.0,0.0,0.0,1.0,3.0,0.0,0.0,,2.0,7.0
+2023,div1,San Jacinto-North,sanjacintocollegenorth,home,South Suburban,W,9-3,20230313_z4ib,24,1.0,1.0,0.0,0.0,1.0,9.0,3.0,2.0,0.667,2.0,9.0
 2023,div1,San Jacinto-North,sanjacintocollegenorth,home,State College of Florida,L,11-3,20230205_oqh0,23,1.0,0.0,1.0,0.0,1.0,14.0,11.0,10.0,0.909,4.0,8.0
 2023,div1,San Jacinto-North,sanjacintocollegenorth,home,Temple,L,8-7,20230220_3yst,19,1.0,0.0,0.0,0.0,,0.0,0.0,0.0,,0.0,0.0
 2023,div1,San Jacinto-North,sanjacintocollegenorth,home,Wabash Valley,W,3-2,20230211_l40r,19,1.0,1.0,0.0,0.0,1.0,10.0,2.0,2.0,1.0,4.0,21.0
@@ -3100,6 +3180,7 @@ season,njcaa_division,team,team_id,location,opponent,result,score,game_id,G,TC,P
 2023,div1,Santa Fe,santafecollege,home,Abraham Baldwin,W,10-3,20230216_d657,26,1.0,1.0,0.0,0.0,1.0,8.0,3.0,2.0,0.667,3.0,10.0
 2023,div1,Santa Fe,santafecollege,home,Abraham Baldwin,W,14-4,20230301_n36r,26,1.0,1.0,0.0,0.0,1.0,6.0,4.0,1.0,0.25,4.0,12.0
 2023,div1,Santa Fe,santafecollege,home,Daytona State,W,6-3,20230315_xlle,12,1.0,1.0,0.0,1.0,0.5,5.0,3.0,2.0,0.667,1.0,5.0
+2023,div1,Santa Fe,santafecollege,home,Daytona State,W,6-5,20230317_6axx,13,1.0,1.0,0.0,1.0,0.5,7.0,5.0,5.0,1.0,6.0,10.0
 2023,div1,Santa Fe,santafecollege,home,Florida State Jacksonville,W,14-13,20230210_odhb,26,1.0,1.0,0.0,0.0,1.0,10.0,13.0,12.0,0.923,10.0,8.0
 2023,div1,Santa Fe,santafecollege,home,Florida State Jacksonville,W,14-2,20230227_bs1o,30,1.0,1.0,0.0,0.0,1.0,7.0,2.0,2.0,1.0,0.0,9.0
 2023,div1,Santa Fe,santafecollege,home,Hillsborough,W,7-5,20230206_up4v,31,1.0,1.0,0.0,1.0,0.5,14.0,9.0,9.0,1.0,1.0,11.0
@@ -3165,6 +3246,7 @@ season,njcaa_division,team,team_id,location,opponent,result,score,game_id,G,TC,P
 2023,div1,Seminole State (OK),seminolestatecollegeok,home,Dallas College - Brookhaven,W,14-3,20230220_svj8,19,0.0,1.0,0.0,0.0,1.0,6.0,3.0,2.0,0.667,2.0,11.0
 2023,div1,Seminole State (OK),seminolestatecollegeok,home,Des Moines Area,L,9-8,20230225_h526,12,0.0,0.0,1.0,0.0,1.0,5.0,9.0,3.0,0.333,3.0,10.0
 2023,div1,Seminole State (OK),seminolestatecollegeok,home,Dodge City,W,12-2,20230219_3zp3,11,0.0,1.0,0.0,0.0,1.0,4.0,2.0,2.0,1.0,6.0,9.0
+2023,div1,Seminole State (OK),seminolestatecollegeok,home,Eastern Oklahoma State,L,9-8,20230316_gmt8,16,1.0,0.0,0.0,0.0,,11.0,9.0,8.0,0.889,8.0,10.0
 2023,div1,Seminole State (OK),seminolestatecollegeok,home,Galveston,L,3-2,20230210_65dn,13,0.0,0.0,1.0,0.0,1.0,5.0,3.0,3.0,1.0,7.0,7.0
 2023,div1,Seminole State (OK),seminolestatecollegeok,home,Grayson,W,14-7,20230222_ctnl,22,0.0,1.0,0.0,0.0,1.0,9.0,7.0,7.0,1.0,5.0,14.0
 2023,div1,Seminole State (OK),seminolestatecollegeok,home,Murray State,L,10-6,20230204_uc7h,17,0.0,0.0,1.0,0.0,1.0,4.0,10.0,10.0,1.0,9.0,13.0
@@ -3213,8 +3295,10 @@ season,njcaa_division,team,team_id,location,opponent,result,score,game_id,G,TC,P
 2023,div1,Shawnee,shawneecommunitycollege,home,Moberly Area,W,9-8,20230225_pp5s,17,0.0,1.0,0.0,0.0,1.0,2.0,8.0,4.0,0.5,14.0,12.0
 2023,div1,Shawnee,shawneecommunitycollege,home,Three Rivers,L,6-2,20230301_ees9,17,0.0,0.0,1.0,0.0,1.0,10.0,6.0,5.0,0.833,3.0,7.0
 2023,div1,Shawnee,shawneecommunitycollege,home,Three Rivers,W,13-6,20230301_dnaf,12,0.0,1.0,0.0,0.0,1.0,8.0,6.0,6.0,1.0,5.0,9.0
+2023,div1,Shelton State,sheltonstatecommunitycollege,home,Bevill State,W,4-0,20230316_vfg1,10,1.0,1.0,0.0,0.0,1.0,3.0,0.0,0.0,,1.0,6.0
 2023,div1,Shelton State,sheltonstatecommunitycollege,home,Central Alabama,L,3-2,20230308_w4fz,12,1.0,0.0,1.0,0.0,1.0,10.0,3.0,2.0,0.667,1.0,5.0
 2023,div1,Shelton State,sheltonstatecommunitycollege,home,Central Alabama,L,7-1,20230311_va83,17,1.0,0.0,1.0,0.0,1.0,7.0,7.0,3.0,0.429,5.0,3.0
+2023,div1,Shelton State,sheltonstatecommunitycollege,home,Central Alabama,W,3-0,20230311_ks77,10,1.0,1.0,0.0,0.0,1.0,7.0,0.0,0.0,,1.0,6.0
 2023,div1,Shelton State,sheltonstatecommunitycollege,home,Central Alabama,W,3-2,20230308_qlf5,11,0.0,0.0,0.0,1.0,0.0,2.0,0.0,0.0,,0.0,0.0
 2023,div1,Shelton State,sheltonstatecommunitycollege,home,Dyersburg State,L,6-5,20230219_t4s1,18,1.0,0.0,1.0,0.0,1.0,10.0,6.0,5.0,0.833,1.0,9.0
 2023,div1,Shelton State,sheltonstatecommunitycollege,home,Dyersburg State,W,13-12,20230219_jxwm,20,2.0,1.0,0.0,0.0,1.0,7.0,17.0,11.0,0.647,15.0,10.0
@@ -3340,7 +3424,7 @@ season,njcaa_division,team,team_id,location,opponent,result,score,game_id,G,TC,P
 2023,div1,Southeast,southeastcommunitycollege,home,Luna,W,5-4,20230305_974x,12,1.0,1.0,0.0,1.0,0.5,5.0,4.0,1.0,0.25,3.0,7.0
 2023,div1,Southeast,southeastcommunitycollege,home,McCook,L,11-10,20230311_0q96,13,1.0,0.0,1.0,0.0,1.0,12.0,11.0,8.0,0.727,6.0,10.0
 2023,div1,Southeast,southeastcommunitycollege,home,McCook,W,12-9,20230314_wy8i,15,1.0,1.0,0.0,0.0,1.0,11.0,9.0,8.0,0.889,7.0,14.0
-2023,div1,Southeast,southeastcommunitycollege,home,McCook,W,6-3,20230314_ujwv,12,1.0,1.0,0.0,1.0,0.5,4.0,3.0,3.0,1.0,4.0,8.0
+2023,div1,Southeast,southeastcommunitycollege,home,McCook,W,6-3,20230314_ujwv,11,1.0,1.0,0.0,1.0,0.5,4.0,3.0,3.0,1.0,4.0,8.0
 2023,div1,Southeast,southeastcommunitycollege,home,Northeastern Oklahoma A&M,W,12-10,20230224_gkpc,14,1.0,1.0,0.0,0.0,1.0,10.0,10.0,10.0,1.0,11.0,14.0
 2023,div1,Southeast,southeastcommunitycollege,home,Southeastern,L,4-3,20230225_7a0h,12,1.0,0.0,1.0,0.0,1.0,6.0,4.0,4.0,1.0,6.0,4.0
 2023,div1,Southeast,southeastcommunitycollege,home,Southwest Tennessee,L,3-1,20230226_6dlp,14,1.0,0.0,1.0,0.0,1.0,4.0,3.0,2.0,0.667,5.0,5.0
@@ -3363,6 +3447,9 @@ season,njcaa_division,team,team_id,location,opponent,result,score,game_id,G,TC,P
 2023,div1,Southeastern Illinois,southeasternillinoiscollege,home,Marian-Ancilla,W,14-1,20230211_t8w1,11,1.0,1.0,0.0,0.0,1.0,3.0,1.0,1.0,1.0,4.0,6.0
 2023,div1,Southeastern Illinois,southeasternillinoiscollege,home,Marian-Ancilla,W,7-1,20230211_y2dt,11,1.0,1.0,0.0,1.0,0.5,3.0,1.0,1.0,1.0,7.0,11.0
 2023,div1,Southeastern Illinois,southeasternillinoiscollege,home,Marian-Ancilla,W,9-1,20230212_kq9v,11,1.0,1.0,0.0,0.0,1.0,5.0,1.0,1.0,1.0,2.0,7.0
+2023,div1,Southeastern Illinois,southeasternillinoiscollege,home,Southwestern Illinois,W,9-2,20230316_4w17,11,1.0,1.0,0.0,0.0,1.0,4.0,2.0,2.0,1.0,3.0,9.0
+2023,div1,Southern Idaho,collegeofsouthernidaho,home,Salt Lake,L,11-6,20230317_pw8w,12,1.0,0.0,1.0,0.0,1.0,11.0,11.0,9.0,0.818,3.0,10.0
+2023,div1,Southern Idaho,collegeofsouthernidaho,home,Salt Lake,L,4-2,20230317_9r7b,14,1.0,0.0,1.0,0.0,1.0,10.0,4.0,3.0,0.75,0.0,14.0
 2023,div1,Southern Idaho,collegeofsouthernidaho,home,Scottsdale,W,15-7,20230204_abk2,17,1.0,1.0,0.0,0.0,1.0,8.0,7.0,6.0,0.857,3.0,8.0
 2023,div1,Southern Idaho,collegeofsouthernidaho,home,Scottsdale,W,3-1,20230203_xaq5,11,1.0,1.0,0.0,0.0,1.0,3.0,1.0,0.0,0.0,3.0,10.0
 2023,div1,Southern Idaho,collegeofsouthernidaho,home,Scottsdale,W,4-3,20230203_l93e,15,1.0,1.0,0.0,1.0,0.5,3.0,3.0,1.0,0.333,1.0,9.0
@@ -3467,7 +3554,7 @@ season,njcaa_division,team,team_id,location,opponent,result,score,game_id,G,TC,P
 2023,div1,Southwestern,southwesterncommunitycollege,home,Fort Scott,W,5-4,20230226_sijb,12,0.0,1.0,0.0,1.0,0.5,6.0,4.0,3.0,0.75,3.0,2.0
 2023,div1,Southwestern,southwesterncommunitycollege,home,Fort Scott,W,6-4,20230226_0uye,13,0.0,1.0,0.0,1.0,0.5,6.0,4.0,2.0,0.5,3.0,7.0
 2023,div1,Southwestern,southwesterncommunitycollege,home,Iowa Central,L,1-0,20230315_n4d4,11,1.0,0.0,1.0,0.0,1.0,3.0,1.0,0.0,0.0,3.0,6.0
-2023,div1,Southwestern,southwesterncommunitycollege,home,Iowa Central,L,7-2,20230315_dogz,15,1.0,0.0,1.0,0.0,1.0,11.0,7.0,7.0,1.0,11.0,2.0
+2023,div1,Southwestern,southwesterncommunitycollege,home,Iowa Central,L,7-2,20230315_dogz,18,1.0,0.0,1.0,0.0,1.0,11.0,7.0,7.0,1.0,11.0,2.0
 2023,div1,Southwestern,southwesterncommunitycollege,home,Johnson County,L,10-0,20230218_nz0e,12,1.0,0.0,0.0,0.0,,11.0,10.0,9.0,0.9,7.0,5.0
 2023,div1,Southwestern,southwesterncommunitycollege,home,Johnson County,L,14-4,20230218_hy85,15,1.0,0.0,0.0,0.0,,10.0,14.0,10.0,0.714,3.0,3.0
 2023,div1,Southwestern,southwesterncommunitycollege,home,Johnson County,L,5-3,20230219_oa5y,11,1.0,0.0,0.0,0.0,,6.0,5.0,4.0,0.8,2.0,2.0
@@ -3489,6 +3576,7 @@ season,njcaa_division,team,team_id,location,opponent,result,score,game_id,G,TC,P
 2023,div1,Southwestern Illinois,southwesternillinoiscollege,home,Rend Lake,W,2-1,20230312_n62a,14,1.0,1.0,0.0,1.0,0.5,4.0,1.0,0.0,0.0,3.0,8.0
 2023,div1,Southwestern Illinois,southwesternillinoiscollege,home,Rend Lake,W,21-6,20230309_cqyf,17,1.0,1.0,0.0,0.0,1.0,9.0,6.0,2.0,0.333,4.0,9.0
 2023,div1,Southwestern Illinois,southwesternillinoiscollege,home,South Suburban,W,6-5,20230305_k4ws,13,1.0,1.0,0.0,1.0,0.5,11.0,5.0,4.0,0.8,2.0,6.0
+2023,div1,Southwestern Illinois,southwesternillinoiscollege,home,Southeastern Illinois,L,9-2,20230316_4w17,16,1.0,0.0,1.0,0.0,1.0,9.0,9.0,4.0,0.444,3.0,5.0
 2023,div1,Southwestern Illinois,southwesternillinoiscollege,home,St. Charles,W,11-10,20230307_sa07,23,1.0,1.0,0.0,1.0,0.5,9.0,10.0,6.0,0.6,8.0,8.0
 2023,div1,Southwestern Illinois,southwesternillinoiscollege,home,St. Louis,L,6-5,20230302_xpev,13,1.0,0.0,1.0,0.0,1.0,14.0,6.0,6.0,1.0,5.0,5.0
 2023,div1,Southwestern Illinois,southwesternillinoiscollege,home,St. Louis,W,15-3,20230225_svtz,19,0.0,1.0,0.0,0.0,1.0,6.0,3.0,3.0,1.0,1.0,5.0
@@ -3530,6 +3618,8 @@ season,njcaa_division,team,team_id,location,opponent,result,score,game_id,G,TC,P
 2023,div1,St. Charles,stcharlescommunitycollege,home,Meridian,L,10-9,20230218_5k63,19,1.0,0.0,1.0,0.0,1.0,15.0,10.0,9.0,0.9,9.0,8.0
 2023,div1,St. Charles,stcharlescommunitycollege,home,Metropolitan,W,6-4,20230310_gv6i,10,0.0,1.0,0.0,0.0,1.0,8.0,4.0,2.0,0.5,2.0,6.0
 2023,div1,St. Charles,stcharlescommunitycollege,home,Metropolitan,W,8-6,20230310_dgf5,15,0.0,1.0,0.0,0.0,1.0,11.0,6.0,5.0,0.833,5.0,10.0
+2023,div1,St. Charles,stcharlescommunitycollege,home,Mineral Area,L,5-2,20230316_omni,13,0.0,0.0,1.0,0.0,1.0,6.0,5.0,4.0,0.8,9.0,7.0
+2023,div1,St. Charles,stcharlescommunitycollege,home,Mineral Area,W,7-3,20230316_g24k,10,0.0,1.0,0.0,0.0,1.0,7.0,3.0,3.0,1.0,2.0,10.0
 2023,div1,St. Charles,stcharlescommunitycollege,home,Mississippi Delta,W,12-6,20230217_tify,14,0.0,1.0,0.0,1.0,0.5,7.0,6.0,3.0,0.5,6.0,8.0
 2023,div1,St. Charles,stcharlescommunitycollege,home,Moberly Area,W,13-0,20230314_th76,15,0.0,1.0,0.0,0.0,1.0,4.0,0.0,0.0,,2.0,11.0
 2023,div1,St. Charles,stcharlescommunitycollege,home,Moberly Area,W,5-4,20230314_4bfp,14,0.0,1.0,0.0,1.0,0.5,6.0,4.0,4.0,1.0,5.0,6.0
@@ -3541,7 +3631,7 @@ season,njcaa_division,team,team_id,location,opponent,result,score,game_id,G,TC,P
 2023,div1,St. Charles,stcharlescommunitycollege,home,Southwest Tennessee,L,7-5,20230216_sn0o,14,0.0,0.0,1.0,0.0,1.0,7.0,7.0,7.0,1.0,5.0,9.0
 2023,div1,St. Charles,stcharlescommunitycollege,home,Southwestern Illinois,L,11-10,20230307_sa07,23,0.0,0.0,1.0,0.0,1.0,8.0,11.0,7.0,0.636,9.0,6.0
 2023,div1,St. Charles,stcharlescommunitycollege,home,St. Louis,W,5-4,20230226_0vil,14,0.0,1.0,0.0,0.0,1.0,7.0,4.0,4.0,1.0,4.0,10.0
-2023,div1,St. Charles,stcharlescommunitycollege,home,Triton,L,10-4,20230225_amxd,13,0.0,0.0,1.0,0.0,1.0,7.0,10.0,3.0,0.3,3.0,6.0
+2023,div1,St. Charles,stcharlescommunitycollege,home,Triton,L,10-4,20230225_amxd,12,0.0,0.0,1.0,0.0,1.0,7.0,10.0,3.0,0.3,3.0,6.0
 2023,div1,St. Charles,stcharlescommunitycollege,home,Triton,L,15-9,20230225_c80n,19,0.0,0.0,1.0,0.0,1.0,10.0,11.0,5.0,0.455,9.0,7.0
 2023,div1,St. Louis,stlouiscommunitycollege,home,Baton Rouge,L,4-3,20230218_mkiy,11,0.0,0.0,1.0,0.0,1.0,5.0,4.0,3.0,0.75,5.0,4.0
 2023,div1,St. Louis,stlouiscommunitycollege,home,Baton Rouge,L,6-5,20230219_0had,16,0.0,0.0,1.0,0.0,1.0,7.0,6.0,6.0,1.0,6.0,2.0
@@ -3581,6 +3671,7 @@ season,njcaa_division,team,team_id,location,opponent,result,score,game_id,G,TC,P
 2023,div1,St. Petersburg,stpetersburgcollege,home,Pasco-Hernando State,L,3-1,20230204_1kod,11,1.0,0.0,1.0,0.0,1.0,7.0,3.0,3.0,1.0,5.0,6.0
 2023,div1,St. Petersburg,stpetersburgcollege,home,Pasco-Hernando State,L,8-0,20230208_2xlu,15,1.0,0.0,1.0,0.0,1.0,14.0,8.0,7.0,0.875,3.0,14.0
 2023,div1,St. Petersburg,stpetersburgcollege,home,Pasco-Hernando State,L,9-2,20230204_upwd,12,1.0,0.0,1.0,0.0,1.0,10.0,9.0,7.0,0.778,4.0,5.0
+2023,div1,St. Petersburg,stpetersburgcollege,home,Polk State,L,8-7,20230317_mvcu,15,1.0,0.0,1.0,0.0,1.0,10.0,8.0,8.0,1.0,1.0,7.0
 2023,div1,St. Petersburg,stpetersburgcollege,home,Santa Fe,L,17-0,20230213_f5mi,15,1.0,0.0,1.0,0.0,1.0,14.0,17.0,14.0,0.824,12.0,5.0
 2023,div1,St. Petersburg,stpetersburgcollege,home,Santa Fe,L,6-2,20230225_gpza,13,1.0,0.0,1.0,0.0,1.0,5.0,6.0,6.0,1.0,3.0,5.0
 2023,div1,St. Petersburg,stpetersburgcollege,home,Santa Fe,L,7-6,20230225_q726,11,1.0,0.0,1.0,0.0,1.0,9.0,7.0,5.0,0.714,2.0,4.0
@@ -3623,6 +3714,7 @@ season,njcaa_division,team,team_id,location,opponent,result,score,game_id,G,TC,P
 2023,div1,State College of Florida,statecollegeoffloridamanateesaraso,home,Spartanburg Methodist,L,10-4,20230225_o109,1,0.0,0.0,0.0,0.0,,0.0,0.0,0.0,,0.0,0.0
 2023,div1,State College of Florida,statecollegeoffloridamanateesaraso,home,Spartanburg Methodist,L,15-3,20230226_heg0,1,0.0,0.0,0.0,0.0,,0.0,0.0,0.0,,0.0,0.0
 2023,div1,State College of Florida,statecollegeoffloridamanateesaraso,home,St. Petersburg,L,5-3,20230311_h5lz,15,1.0,0.0,1.0,0.0,1.0,14.0,5.0,5.0,1.0,6.0,6.0
+2023,div1,State College of Florida,statecollegeoffloridamanateesaraso,home,St. Petersburg,W,10-0,20230315_eeyi,11,1.0,1.0,0.0,0.0,1.0,6.0,0.0,0.0,,3.0,10.0
 2023,div1,State College of Florida,statecollegeoffloridamanateesaraso,home,St. Petersburg,W,11-1,20230313_rix9,10,1.0,1.0,0.0,0.0,1.0,8.0,1.0,1.0,1.0,3.0,4.0
 2023,div1,State College of Florida,statecollegeoffloridamanateesaraso,home,St. Petersburg,W,7-5,20230310_wx2m,11,1.0,1.0,0.0,1.0,0.5,10.0,5.0,5.0,1.0,5.0,13.0
 2023,div1,State College of Florida,statecollegeoffloridamanateesaraso,home,Tallahassee,L,11-10,20230217_roj1,15,1.0,0.0,1.0,0.0,1.0,12.0,11.0,6.0,0.545,6.0,9.0
@@ -3717,6 +3809,8 @@ season,njcaa_division,team,team_id,location,opponent,result,score,game_id,G,TC,P
 2023,div1,Temple,templecollege,home,Wharton County,L,5-4,20230212_mvhd,21,6.0,0.0,1.0,0.0,1.0,11.0,5.0,5.0,1.0,18.0,27.0
 2023,div1,Three Rivers,threeriverscommunitycollegemo,home,Crowder,L,15-0,20230310_3me9,14,1.0,0.0,1.0,0.0,1.0,10.0,15.0,14.0,0.933,10.0,9.0
 2023,div1,Three Rivers,threeriverscommunitycollegemo,home,Crowder,W,11-3,20230310_f2ea,12,1.0,1.0,0.0,0.0,1.0,4.0,3.0,0.0,0.0,6.0,11.0
+2023,div1,Three Rivers,threeriverscommunitycollegemo,home,Drury JV,W,11-8,20230314_35mj,16,1.0,1.0,0.0,1.0,0.5,9.0,8.0,8.0,1.0,5.0,7.0
+2023,div1,Three Rivers,threeriverscommunitycollegemo,home,Drury JV,W,12-5,20230314_4ort,17,1.0,1.0,0.0,0.0,1.0,7.0,4.0,3.0,0.75,4.0,9.0
 2023,div1,Three Rivers,threeriverscommunitycollegemo,home,Dyersburg State,L,7-6,20230215_ccqv,17,1.0,0.0,1.0,0.0,1.0,8.0,7.0,7.0,1.0,4.0,6.0
 2023,div1,Three Rivers,threeriverscommunitycollegemo,home,East Central (MO),L,12-5,20230226_log9,16,1.0,0.0,1.0,0.0,1.0,7.0,12.0,8.0,0.667,4.0,5.0
 2023,div1,Three Rivers,threeriverscommunitycollegemo,home,East Central (MO),L,4-3,20230225_7pb7,14,1.0,0.0,1.0,0.0,1.0,8.0,4.0,3.0,0.75,1.0,8.0
@@ -3732,6 +3826,7 @@ season,njcaa_division,team,team_id,location,opponent,result,score,game_id,G,TC,P
 2023,div1,Three Rivers,threeriverscommunitycollegemo,home,Williams Baptist JV,W,11-1,20230308_likt,16,1.0,1.0,0.0,0.0,1.0,3.0,1.0,0.0,0.0,2.0,8.0
 2023,div1,Three Rivers,threeriverscommunitycollegemo,home,Williams Baptist JV,W,14-2,20230220_tzsf,15,1.0,1.0,0.0,0.0,1.0,0.0,2.0,0.0,0.0,5.0,5.0
 2023,div1,Three Rivers,threeriverscommunitycollegemo,home,Williams Baptist JV,W,3-0,20230220_i5xy,14,1.0,1.0,0.0,1.0,0.5,2.0,0.0,0.0,,1.0,17.0
+2023,div1,Trinidad State,trinidadstatecollege,home,Adams State JV,W,12-2,20230315_b434,14,0.0,1.0,0.0,0.0,1.0,2.0,2.0,1.0,0.5,4.0,6.0
 2023,div1,Trinidad State,trinidadstatecollege,home,CSU Fort Collins,W,15-2,20230219_crah,12,0.0,1.0,0.0,0.0,1.0,6.0,2.0,2.0,1.0,0.0,6.0
 2023,div1,Trinidad State,trinidadstatecollege,home,CSU Fort Collins,W,15-5,20230219_qh1k,14,0.0,1.0,0.0,0.0,1.0,5.0,5.0,4.0,0.8,2.0,9.0
 2023,div1,Trinidad State,trinidadstatecollege,home,Luna,L,10-6,20230311_krvx,13,0.0,0.0,0.0,0.0,,12.0,10.0,10.0,1.0,2.0,10.0
@@ -3758,6 +3853,11 @@ season,njcaa_division,team,team_id,location,opponent,result,score,game_id,G,TC,P
 2023,div1,Trinidad State,trinidadstatecollege,home,Seward County,L,7-4,20230204_rav7,14,0.0,0.0,1.0,0.0,1.0,8.0,7.0,7.0,1.0,4.0,6.0
 2023,div1,Triton,tritoncollege,home,Delgado,L,19-3,20230312_gqqh,14,1.0,0.0,1.0,0.0,1.0,15.0,19.0,19.0,1.0,10.0,5.0
 2023,div1,Triton,tritoncollege,home,Delgado,L,8-5,20230312_scn1,12,1.0,0.0,1.0,0.0,1.0,9.0,8.0,8.0,1.0,6.0,6.0
+2023,div1,Triton,tritoncollege,home,Milwaukee Area Tech,L,12-2,20230219_20d9,14,1.0,0.0,1.0,0.0,1.0,6.0,12.0,10.0,0.833,9.0,8.0
+2023,div1,Triton,tritoncollege,home,Milwaukee Area Tech,W,12-2,20230219_han0,12,1.0,1.0,0.0,0.0,1.0,4.0,2.0,1.0,0.5,1.0,5.0
+2023,div1,Triton,tritoncollege,home,Southwestern Illinois,L,9-4,20230226_nzb0,17,1.0,0.0,0.0,0.0,,9.0,9.0,8.0,0.889,8.0,6.0
+2023,div1,Triton,tritoncollege,home,St. Charles,W,10-4,20230225_amxd,11,1.0,1.0,0.0,0.0,1.0,8.0,4.0,4.0,1.0,1.0,8.0
+2023,div1,Triton,tritoncollege,home,St. Charles,W,15-9,20230225_c80n,14,1.0,1.0,0.0,0.0,1.0,6.0,9.0,7.0,0.778,11.0,10.0
 2023,div1,Tyler,tylerjuniorcollege,home,Angelina,L,7-4,20230301_nb9z,12,1.0,0.0,1.0,0.0,1.0,6.0,7.0,7.0,1.0,3.0,5.0
 2023,div1,Tyler,tylerjuniorcollege,home,Angelina,W,7-4,20230301_3g90,14,1.0,1.0,0.0,0.0,1.0,5.0,4.0,1.0,0.25,4.0,10.0
 2023,div1,Tyler,tylerjuniorcollege,home,Blinn,L,5-1,20230215_fa8f,21,1.0,0.0,1.0,0.0,1.0,9.0,5.0,4.0,0.8,10.0,11.0
@@ -3773,7 +3873,7 @@ season,njcaa_division,team,team_id,location,opponent,result,score,game_id,G,TC,P
 2023,div1,Tyler,tylerjuniorcollege,home,Howard (TX),W,19-9,20230211_fekc,14,1.0,1.0,0.0,0.0,1.0,7.0,9.0,6.0,0.667,3.0,6.0
 2023,div1,Tyler,tylerjuniorcollege,home,Joliet,L,6-4,20230312_cm54,19,1.0,0.0,1.0,0.0,1.0,7.0,6.0,4.0,0.667,4.0,12.0
 2023,div1,Tyler,tylerjuniorcollege,home,McLennan,L,10-9,20230227_0jlz,22,1.0,0.0,1.0,0.0,1.0,9.0,10.0,6.0,0.6,4.0,11.0
-2023,div1,Tyler,tylerjuniorcollege,home,Navarro,L,2-0,20230311_xrzs,12,1.0,0.0,1.0,0.0,1.0,5.0,2.0,2.0,1.0,1.0,4.0
+2023,div1,Tyler,tylerjuniorcollege,home,Navarro,L,2-0,20230311_xrzs,11,1.0,0.0,1.0,0.0,1.0,5.0,2.0,2.0,1.0,1.0,4.0
 2023,div1,Tyler,tylerjuniorcollege,home,Navarro,L,6-5,20230311_aqha,16,1.0,0.0,1.0,0.0,1.0,8.0,6.0,4.0,0.667,2.0,6.0
 2023,div1,Tyler,tylerjuniorcollege,home,Northeast Texas,L,9-2,20230222_o6hg,15,1.0,0.0,1.0,0.0,1.0,8.0,9.0,6.0,0.667,6.0,6.0
 2023,div1,Tyler,tylerjuniorcollege,home,Northeast Texas,W,3-2,20230222_6m4r,16,1.0,1.0,0.0,0.0,1.0,8.0,2.0,2.0,1.0,3.0,18.0
@@ -3795,7 +3895,7 @@ season,njcaa_division,team,team_id,location,opponent,result,score,game_id,G,TC,P
 2023,div1,USC Lancaster,usclancaster,home,Francis Marion JV,W,3-0,20230309_4oth,12,1.0,1.0,0.0,1.0,0.5,1.0,0.0,0.0,,4.0,8.0
 2023,div1,USC Lancaster,usclancaster,home,Louisburg,L,9-8,20230311_hevr,11,1.0,0.0,1.0,0.0,1.0,12.0,9.0,5.0,0.556,3.0,12.0
 2023,div1,USC Lancaster,usclancaster,home,Louisburg,W,4-3,20230311_vnfk,11,1.0,1.0,0.0,1.0,0.5,10.0,3.0,2.0,0.667,1.0,4.0
-2023,div1,USC Lancaster,usclancaster,home,Northeastern Oklahoma A&M,L,12-4,20230212_muh3,4,0.0,0.0,0.0,0.0,,0.0,0.0,0.0,,0.0,0.0
+2023,div1,USC Lancaster,usclancaster,home,Northeastern Oklahoma A&M,L,12-4,20230212_muh3,3,0.0,0.0,0.0,0.0,,0.0,0.0,0.0,,0.0,0.0
 2023,div1,USC Lancaster,usclancaster,home,Patrick & Henry,W,6-4,20230211_2vk0,11,0.0,1.0,0.0,0.0,1.0,6.0,4.0,2.0,0.5,2.0,7.0
 2023,div1,USC Lancaster,usclancaster,home,Patrick & Henry,W,9-0,20230211_s260,14,1.0,1.0,0.0,0.0,1.0,4.0,0.0,0.0,,5.0,5.0
 2023,div1,USC Lancaster,usclancaster,home,Rockingham,W,3-0,20230225_577o,11,1.0,1.0,0.0,1.0,0.5,5.0,0.0,0.0,,2.0,11.0
@@ -3808,9 +3908,8 @@ season,njcaa_division,team,team_id,location,opponent,result,score,game_id,G,TC,P
 2023,div1,USC Lancaster,usclancaster,home,Southwest Virginia,W,11-1,20230205_5rp8,14,1.0,1.0,0.0,0.0,1.0,2.0,1.0,0.0,0.0,2.0,4.0
 2023,div1,USC Lancaster,usclancaster,home,Southwest Virginia,W,14-2,20230204_nqww,12,0.0,1.0,0.0,0.0,1.0,6.0,2.0,2.0,1.0,0.0,3.0
 2023,div1,USC Lancaster,usclancaster,home,Southwest Virginia,W,19-2,20230205_653z,17,1.0,1.0,0.0,0.0,1.0,4.0,2.0,2.0,1.0,1.0,7.0
-2023,div1,USC Lancaster,usclancaster,home,Southwestern,L,8-3,20230304_khog,4,0.0,0.0,0.0,0.0,,0.0,0.0,0.0,,0.0,0.0
-2023,div1,USC Lancaster,usclancaster,home,Surry,T,0-0,20230315_1jy7,15,0.0,0.0,0.0,0.0,,0.0,0.0,0.0,,0.0,0.0
-2023,div1,USC Lancaster,usclancaster,home,Surry,W,19-3,20230315_1jy7,2,1.0,1.0,0.0,0.0,1.0,3.0,1.0,1.0,1.0,1.0,3.0
+2023,div1,USC Lancaster,usclancaster,home,Southwestern,L,8-3,20230304_khog,3,0.0,0.0,0.0,0.0,,0.0,0.0,0.0,,0.0,0.0
+2023,div1,USC Lancaster,usclancaster,home,Surry,W,19-3,20230315_1jy7,19,1.0,1.0,0.0,0.0,1.0,7.0,3.0,3.0,1.0,1.0,9.0
 2023,div1,USC Salkehatchie,uscsalkehatchie,home,Abraham Baldwin,L,11-0,20230214_xktu,12,1.0,0.0,1.0,0.0,1.0,11.0,11.0,9.0,0.818,3.0,3.0
 2023,div1,USC Salkehatchie,uscsalkehatchie,home,Abraham Baldwin,L,12-1,20230220_g0pc,14,1.0,0.0,1.0,0.0,1.0,6.0,12.0,10.0,0.833,6.0,1.0
 2023,div1,USC Salkehatchie,uscsalkehatchie,home,Abraham Baldwin,L,6-2,20230220_wtu6,13,1.0,0.0,1.0,0.0,1.0,9.0,6.0,6.0,1.0,4.0,4.0
@@ -3881,6 +3980,8 @@ season,njcaa_division,team,team_id,location,opponent,result,score,game_id,G,TC,P
 2023,div1,Utah State Eastern,utahstateeastern,home,Cochise,L,11-1,20230208_gvat,13,1.0,0.0,0.0,0.0,,9.0,11.0,10.0,0.909,12.0,8.0
 2023,div1,Utah State Eastern,utahstateeastern,home,Cochise,L,11-2,20230208_moo5,12,1.0,0.0,0.0,0.0,,11.0,11.0,11.0,1.0,8.0,2.0
 2023,div1,Utah State Eastern,utahstateeastern,home,Cochise,W,14-4,20230207_jyh3,14,1.0,1.0,0.0,0.0,1.0,4.0,4.0,0.0,0.0,7.0,10.0
+2023,div1,Utah State Eastern,utahstateeastern,home,Colorado Northwestern,L,12-8,20230317_8n9q,13,1.0,0.0,1.0,0.0,1.0,10.0,12.0,10.0,0.833,8.0,6.0
+2023,div1,Utah State Eastern,utahstateeastern,home,Colorado Northwestern,W,11-0,20230317_dodc,10,1.0,1.0,0.0,0.0,1.0,2.0,0.0,0.0,,2.0,10.0
 2023,div1,Utah State Eastern,utahstateeastern,home,Eastern Arizona,L,1-0,20230210_xl4v,12,1.0,0.0,0.0,0.0,,4.0,1.0,1.0,1.0,2.0,6.0
 2023,div1,Utah State Eastern,utahstateeastern,home,Eastern Arizona,W,5-1,20230210_woj5,11,1.0,0.0,0.0,0.0,,5.0,1.0,1.0,1.0,1.0,11.0
 2023,div1,Utah State Eastern,utahstateeastern,home,Eastern Arizona,W,5-2,20230211_62ge,11,1.0,0.0,0.0,0.0,,7.0,2.0,2.0,1.0,2.0,5.0
@@ -3973,6 +4074,8 @@ season,njcaa_division,team,team_id,location,opponent,result,score,game_id,G,TC,P
 2023,div1,Wallace State,wallacestatecommunitycollegehancevil,home,Jones,W,8-5,20230217_a5ff,11,1.0,1.0,0.0,0.0,1.0,6.0,5.0,3.0,0.6,7.0,5.0
 2023,div1,Wallace State,wallacestatecommunitycollegehancevil,home,Kirkwood,L,7-1,20230217_sfl9,17,1.0,0.0,1.0,0.0,1.0,8.0,7.0,4.0,0.571,5.0,10.0
 2023,div1,Wallace State,wallacestatecommunitycollegehancevil,home,Kirkwood,L,7-6,20230218_t61c,12,1.0,0.0,1.0,0.0,1.0,11.0,7.0,4.0,0.571,6.0,12.0
+2023,div1,Wallace State,wallacestatecommunitycollegehancevil,home,Lawson State,W,13-3,20230316_9xvc,10,1.0,1.0,0.0,0.0,1.0,8.0,3.0,3.0,1.0,2.0,4.0
+2023,div1,Wallace State,wallacestatecommunitycollegehancevil,home,Lawson State,W,9-3,20230316_y8dt,14,1.0,1.0,0.0,0.0,1.0,8.0,3.0,3.0,1.0,0.0,6.0
 2023,div1,Wallace State,wallacestatecommunitycollegehancevil,home,Motlow State,L,4-3,20230204_qoei,13,1.0,0.0,1.0,0.0,1.0,4.0,4.0,3.0,0.75,2.0,11.0
 2023,div1,Wallace State,wallacestatecommunitycollegehancevil,home,Motlow State,W,3-0,20230204_fkmh,12,1.0,1.0,0.0,1.0,0.5,2.0,0.0,0.0,,4.0,13.0
 2023,div1,Wallace State,wallacestatecommunitycollegehancevil,home,Northeast Mississippi,L,6-5,20230226_ka3e,13,1.0,0.0,1.0,0.0,1.0,8.0,6.0,5.0,0.833,2.0,6.0
@@ -3986,6 +4089,8 @@ season,njcaa_division,team,team_id,location,opponent,result,score,game_id,G,TC,P
 2023,div1,Wallace-Dothan,wallacecommunitycollegedothan,home,Andrew,L,11-10,20230223_s3fz,13,1.0,0.0,1.0,0.0,1.0,9.0,11.0,10.0,0.909,8.0,7.0
 2023,div1,Wallace-Dothan,wallacecommunitycollegedothan,home,Andrew,W,3-2,20230204_pkkk,11,1.0,1.0,0.0,0.0,1.0,4.0,2.0,2.0,1.0,5.0,7.0
 2023,div1,Wallace-Dothan,wallacecommunitycollegedothan,home,Andrew,W,5-2,20230223_xlok,13,1.0,1.0,0.0,0.0,1.0,9.0,2.0,2.0,1.0,4.0,9.0
+2023,div1,Wallace-Dothan,wallacecommunitycollegedothan,home,Bishop State,L,9-5,20230316_drbd,12,1.0,0.0,1.0,0.0,1.0,6.0,9.0,3.0,0.333,4.0,8.0
+2023,div1,Wallace-Dothan,wallacecommunitycollegedothan,home,Bishop State,W,14-2,20230316_7zjy,10,1.0,1.0,0.0,0.0,1.0,5.0,2.0,0.0,0.0,1.0,8.0
 2023,div1,Wallace-Dothan,wallacecommunitycollegedothan,home,Central Alabama,L,4-1,20230212_2xbz,11,1.0,0.0,1.0,0.0,1.0,7.0,4.0,4.0,1.0,5.0,7.0
 2023,div1,Wallace-Dothan,wallacecommunitycollegedothan,home,Central Alabama,L,6-2,20230225_dlh6,13,1.0,0.0,1.0,0.0,1.0,9.0,6.0,6.0,1.0,6.0,6.0
 2023,div1,Wallace-Dothan,wallacecommunitycollegedothan,home,Central Alabama,W,8-2,20230302_5m4d,11,1.0,1.0,0.0,0.0,1.0,6.0,2.0,2.0,1.0,4.0,13.0
@@ -4009,6 +4114,8 @@ season,njcaa_division,team,team_id,location,opponent,result,score,game_id,G,TC,P
 2023,div1,Wallace-Selma,wallacecommunitycollegeselma,home,Coastal Alabama - Brewton,W,6-5,20230309_wpdx,12,1.0,1.0,0.0,0.0,1.0,9.0,5.0,5.0,1.0,5.0,9.0
 2023,div1,Wallace-Selma,wallacecommunitycollegeselma,home,Coastal Alabama - Brewton,W,7-6,20230311_8ywy,18,1.0,1.0,0.0,0.0,1.0,13.0,6.0,3.0,0.5,3.0,4.0
 2023,div1,Wallace-Selma,wallacecommunitycollegeselma,home,East Mississippi,L,3-2,20230225_sp62,12,1.0,0.0,1.0,0.0,1.0,5.0,3.0,3.0,1.0,2.0,5.0
+2023,div1,Wallace-Selma,wallacecommunitycollegeselma,home,Enterprise State,L,5-4,20230316_i9rv,13,1.0,0.0,1.0,0.0,1.0,5.0,5.0,5.0,1.0,4.0,4.0
+2023,div1,Wallace-Selma,wallacecommunitycollegeselma,home,Enterprise State,W,6-4,20230316_rht8,13,1.0,1.0,0.0,1.0,0.5,7.0,4.0,4.0,1.0,1.0,5.0
 2023,div1,Wallace-Selma,wallacecommunitycollegeselma,home,Faulkner University J.V.,W,10-5,20230304_gc8d,14,1.0,1.0,0.0,0.0,1.0,8.0,5.0,2.0,0.4,2.0,10.0
 2023,div1,Wallace-Selma,wallacecommunitycollegeselma,home,Faulkner University J.V.,W,15-1,20230304_xytf,16,1.0,1.0,0.0,0.0,1.0,5.0,1.0,1.0,1.0,2.0,9.0
 2023,div1,Wallace-Selma,wallacecommunitycollegeselma,home,Huntingdon College J.V.,W,19-7,20230227_ejbw,20,1.0,1.0,0.0,0.0,1.0,6.0,7.0,7.0,1.0,1.0,6.0
@@ -4080,7 +4187,10 @@ season,njcaa_division,team,team_id,location,opponent,result,score,game_id,G,TC,P
 2023,div1,Western Nebraska,westernnebraskacommunitycollege,home,Barton,L,11-6,20230218_uskg,12,1.0,0.0,1.0,0.0,1.0,16.0,11.0,10.0,0.909,2.0,11.0
 2023,div1,Western Nebraska,westernnebraskacommunitycollege,home,Barton,L,21-6,20230218_ywog,11,1.0,0.0,1.0,0.0,1.0,16.0,21.0,14.0,0.667,5.0,1.0
 2023,div1,Western Nebraska,westernnebraskacommunitycollege,home,Barton,L,4-3,20230219_ixvx,11,1.0,0.0,1.0,0.0,1.0,8.0,4.0,3.0,0.75,3.0,2.0
+2023,div1,Western Nebraska,westernnebraskacommunitycollege,home,Central Arizona,L,2-0,20230313_p8hf,10,1.0,0.0,0.0,0.0,,4.0,2.0,2.0,1.0,2.0,3.0
+2023,div1,Western Nebraska,westernnebraskacommunitycollege,home,Central Arizona,L,9-3,20230313_cwfm,13,1.0,0.0,1.0,0.0,1.0,7.0,9.0,5.0,0.556,3.0,5.0
 2023,div1,Western Nebraska,westernnebraskacommunitycollege,home,Madison,L,6-5,20230312_en1f,15,1.0,0.0,1.0,0.0,1.0,14.0,6.0,6.0,1.0,7.0,8.0
+2023,div1,Western Nebraska,westernnebraskacommunitycollege,home,Mesa,L,7-6,20230316_5ja6,15,1.0,0.0,1.0,0.0,1.0,8.0,7.0,7.0,1.0,6.0,8.0
 2023,div1,Western Nebraska,westernnebraskacommunitycollege,home,New Mexico Military,L,10-0,20230212_5jd9,11,1.0,0.0,1.0,0.0,1.0,9.0,10.0,10.0,1.0,3.0,4.0
 2023,div1,Western Nebraska,westernnebraskacommunitycollege,home,New Mexico Military,L,10-1,20230211_ebf1,11,1.0,0.0,1.0,0.0,1.0,10.0,10.0,10.0,1.0,4.0,7.0
 2023,div1,Western Nebraska,westernnebraskacommunitycollege,home,New Mexico Military,L,11-1,20230211_j47b,11,1.0,0.0,1.0,0.0,1.0,10.0,11.0,11.0,1.0,3.0,5.0
@@ -4089,6 +4199,8 @@ season,njcaa_division,team,team_id,location,opponent,result,score,game_id,G,TC,P
 2023,div1,Western Nebraska,westernnebraskacommunitycollege,home,Otero,L,3-0,20230305_t8xt,11,1.0,0.0,1.0,0.0,1.0,3.0,3.0,3.0,1.0,3.0,5.0
 2023,div1,Western Nebraska,westernnebraskacommunitycollege,home,Otero,L,5-3,20230306_f41v,10,1.0,0.0,1.0,0.0,1.0,8.0,5.0,4.0,0.8,3.0,5.0
 2023,div1,Western Nebraska,westernnebraskacommunitycollege,home,Otero,L,6-2,20230305_l6mk,13,1.0,0.0,1.0,0.0,1.0,7.0,6.0,6.0,1.0,4.0,8.0
+2023,div1,Western Nebraska,westernnebraskacommunitycollege,home,South Mountain,L,10-0,20230314_94r4,11,1.0,0.0,1.0,0.0,1.0,10.0,10.0,7.0,0.7,4.0,9.0
+2023,div1,Western Nebraska,westernnebraskacommunitycollege,home,South Mountain,L,9-3,20230314_r6ac,11,1.0,0.0,1.0,0.0,1.0,8.0,9.0,9.0,1.0,7.0,2.0
 2023,div1,Western Texas,westerntexascollege,home,Cisco,L,21-2,20230215_7cfu,15,0.0,0.0,1.0,0.0,1.0,12.0,21.0,6.0,0.286,8.0,6.0
 2023,div1,Western Texas,westerntexascollege,home,Cisco,L,5-3,20230128_fv0f,13,0.0,0.0,1.0,0.0,1.0,9.0,5.0,4.0,0.8,0.0,6.0
 2023,div1,Western Texas,westerntexascollege,home,Cisco,L,7-2,20230215_ubbr,16,0.0,0.0,1.0,0.0,1.0,5.0,7.0,5.0,0.714,7.0,9.0
@@ -4189,6 +4301,8 @@ season,njcaa_division,team,team_id,location,opponent,result,score,game_id,G,TC,P
 2023,div1,Yavapai,yavapaicollege,home,TNXL Academy,W,6-3,20230127_j899,1,0.0,0.0,0.0,0.0,,0.0,0.0,0.0,,0.0,0.0
 2023,div1,Yavapai,yavapaicollege,home,Tallahassee,W,10-2,20230222_8mey,1,0.0,0.0,0.0,0.0,,0.0,0.0,0.0,,0.0,0.0
 2023,div1,Yavapai,yavapaicollege,home,Tallahassee,W,7-4,20230208_11y9,1,0.0,0.0,0.0,0.0,,0.0,0.0,0.0,,0.0,0.0
+2023,div2,Allegany Maryland,alleganycollegeofmaryland,home,CC of Allegheny County,L,15-9,20230316_scyg,16,0.0,0.0,1.0,0.0,1.0,12.0,15.0,9.0,0.6,5.0,6.0
+2023,div2,Allegany Maryland,alleganycollegeofmaryland,home,CC of Allegheny County,W,13-7,20230316_ux1t,13,1.0,1.0,0.0,0.0,1.0,8.0,7.0,5.0,0.714,2.0,8.0
 2023,div2,Allegany Maryland,alleganycollegeofmaryland,home,Delaware Tech,L,13-5,20230312_3t60,15,0.0,0.0,1.0,0.0,1.0,12.0,13.0,9.0,0.692,6.0,6.0
 2023,div2,Allegany Maryland,alleganycollegeofmaryland,home,Delaware Tech,L,6-3,20230312_iqqo,13,0.0,0.0,0.0,0.0,,8.0,6.0,3.0,0.5,4.0,8.0
 2023,div2,Allegany Maryland,alleganycollegeofmaryland,home,Frederick,L,11-9,20230309_vlzn,16,1.0,0.0,1.0,0.0,1.0,13.0,11.0,11.0,1.0,7.0,4.0
@@ -4228,25 +4342,29 @@ season,njcaa_division,team,team_id,location,opponent,result,score,game_id,G,TC,P
 2023,div2,Anne Arundel,annearundelcommunitycollege,home,Surry,L,5-4,20230205_0f3q,12,1.0,0.0,1.0,0.0,1.0,6.0,5.0,5.0,1.0,9.0,9.0
 2023,div2,Anne Arundel,annearundelcommunitycollege,home,Surry,L,6-5,20230204_ejg5,15,1.0,0.0,1.0,0.0,1.0,6.0,6.0,5.0,0.833,7.0,11.0
 2023,div2,Bismarck State,bismarckstatecollege,home,Abbotsford Cardinals,W,19-2,20230313_eqyk,13,0.0,1.0,0.0,0.0,1.0,8.0,2.0,2.0,1.0,1.0,8.0
+2023,div2,Bismarck State,bismarckstatecollege,home,Abbotsford Cardinals,W,20-14,20230317_2j7i,14,0.0,1.0,0.0,0.0,1.0,8.0,14.0,12.0,0.857,11.0,12.0
 2023,div2,Bismarck State,bismarckstatecollege,home,Abbotsford Cardinals,W,7-1,20230313_txh5,11,0.0,1.0,0.0,0.0,1.0,3.0,1.0,1.0,1.0,2.0,10.0
 2023,div2,Bismarck State,bismarckstatecollege,home,Anoka-Ramsey,W,18-0,20230316_pdqh,12,1.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,,0.0,0.0
 2023,div2,Bismarck State,bismarckstatecollege,home,Anoka-Ramsey,W,6-2,20230316_2qad,13,0.0,1.0,0.0,0.0,1.0,4.0,2.0,0.0,0.0,0.0,6.0
 2023,div2,Bismarck State,bismarckstatecollege,home,Central Lakes,W,16-5,20230312_bbki,11,1.0,1.0,0.0,0.0,1.0,8.0,5.0,5.0,1.0,2.0,8.0
 2023,div2,Bismarck State,bismarckstatecollege,home,Concorida University - WI - JV,W,8-3,20230314_hs38,13,0.0,1.0,0.0,0.0,1.0,5.0,3.0,2.0,0.667,7.0,10.0
+2023,div2,Bismarck State,bismarckstatecollege,home,Pima,L,9-2,20230317_h7wt,13,0.0,0.0,1.0,0.0,1.0,6.0,9.0,3.0,0.333,3.0,8.0
 2023,div2,Bismarck State,bismarckstatecollege,home,Southern California Leadership University,W,12-2,20230312_4p06,11,0.0,1.0,0.0,0.0,1.0,2.0,2.0,0.0,0.0,2.0,4.0
-2023,div2,Black Hawk-Moline,blackhawkcollegemoline,home,Carl Sandburg,L,9-8,20230311_nwbf,12,0.0,0.0,0.0,0.0,,0.0,0.0,0.0,,0.0,0.0
-2023,div2,Black Hawk-Moline,blackhawkcollegemoline,home,Iowa Lakes,W,6-2,20230314_dcxh,12,0.0,0.0,0.0,0.0,,0.0,0.0,0.0,,0.0,0.0
+2023,div2,Black Hawk-Moline,blackhawkcollegemoline,home,Carl Sandburg,L,9-8,20230311_nwbf,8,0.0,0.0,0.0,0.0,,0.0,0.0,0.0,,0.0,0.0
+2023,div2,Black Hawk-Moline,blackhawkcollegemoline,home,Iowa Lakes,W,6-2,20230314_dcxh,8,0.0,0.0,0.0,0.0,,0.0,0.0,0.0,,0.0,0.0
 2023,div2,Black Hawk-Moline,blackhawkcollegemoline,home,John Wood,L,3-0,20230307_qapv,11,1.0,0.0,1.0,0.0,1.0,4.0,3.0,3.0,1.0,7.0,6.0
 2023,div2,Black Hawk-Moline,blackhawkcollegemoline,home,John Wood,L,8-6,20230307_vpdp,13,1.0,0.0,1.0,0.0,1.0,9.0,8.0,7.0,0.875,3.0,8.0
 2023,div2,Black Hawk-Moline,blackhawkcollegemoline,home,Lake Land,L,6-0,20230304_ef8l,11,1.0,0.0,1.0,0.0,1.0,5.0,6.0,2.0,0.333,3.0,11.0
 2023,div2,Black Hawk-Moline,blackhawkcollegemoline,home,Lake Land,L,8-1,20230304_7g0l,11,1.0,0.0,1.0,0.0,1.0,8.0,8.0,8.0,1.0,5.0,6.0
 2023,div2,Black Hawk-Moline,blackhawkcollegemoline,home,Lake Land,L,8-7,20230305_ag7t,11,1.0,0.0,1.0,0.0,1.0,10.0,8.0,7.0,0.875,5.0,6.0
-2023,div2,Black Hawk-Moline,blackhawkcollegemoline,home,Lake Land,W,10-1,20230226_72vf,12,0.0,0.0,0.0,0.0,,0.0,0.0,0.0,,0.0,0.0
+2023,div2,Black Hawk-Moline,blackhawkcollegemoline,home,Lake Land,W,10-1,20230226_72vf,8,0.0,0.0,0.0,0.0,,0.0,0.0,0.0,,0.0,0.0
 2023,div2,Black Hawk-Moline,blackhawkcollegemoline,home,Lake Land,W,8-7,20230305_e9no,13,1.0,1.0,0.0,0.0,1.0,8.0,7.0,6.0,0.857,4.0,7.0
-2023,div2,Black Hawk-Moline,blackhawkcollegemoline,home,Lansing,L,4-3,20230225_g06q,12,0.0,0.0,0.0,0.0,,0.0,0.0,0.0,,0.0,0.0
-2023,div2,Black Hawk-Moline,blackhawkcollegemoline,home,Northwest Mississippi,W,5-1,20230315_wvwy,12,0.0,0.0,0.0,0.0,,0.0,0.0,0.0,,0.0,0.0
-2023,div2,Black Hawk-Moline,blackhawkcollegemoline,home,Sauk Valley,W,4-3,20230218_rej1,12,0.0,0.0,0.0,0.0,,0.0,0.0,0.0,,0.0,0.0
-2023,div2,Black Hawk-Moline,blackhawkcollegemoline,home,South Suburban,W,7-6,20230305_fnkj,12,0.0,0.0,0.0,0.0,,0.0,0.0,0.0,,0.0,0.0
+2023,div2,Black Hawk-Moline,blackhawkcollegemoline,home,Lansing,L,4-3,20230225_g06q,8,0.0,0.0,0.0,0.0,,0.0,0.0,0.0,,0.0,0.0
+2023,div2,Black Hawk-Moline,blackhawkcollegemoline,home,Northwest Mississippi,W,5-1,20230315_wvwy,8,0.0,0.0,0.0,0.0,,0.0,0.0,0.0,,0.0,0.0
+2023,div2,Black Hawk-Moline,blackhawkcollegemoline,home,Sauk Valley,W,4-3,20230218_rej1,8,0.0,0.0,0.0,0.0,,0.0,0.0,0.0,,0.0,0.0
+2023,div2,Black Hawk-Moline,blackhawkcollegemoline,home,South Suburban,W,7-6,20230305_fnkj,8,0.0,0.0,0.0,0.0,,0.0,0.0,0.0,,0.0,0.0
+2023,div2,Black Hawk-Moline,blackhawkcollegemoline,home,Southeastern,L,13-1,20230315_lg58,16,1.0,0.0,1.0,0.0,1.0,11.0,13.0,9.0,0.692,7.0,3.0
+2023,div2,Black Hawk-Moline,blackhawkcollegemoline,home,Southeastern,L,17-8,20230315_fuol,15,1.0,0.0,1.0,0.0,1.0,12.0,17.0,14.0,0.824,5.0,6.0
 2023,div2,Brunswick,brunswickcommunitycollege,home,Bryant & Stratton (VA),W,11-3,20230218_wpcx,13,1.0,1.0,0.0,0.0,1.0,4.0,3.0,1.0,0.333,2.0,6.0
 2023,div2,Brunswick,brunswickcommunitycollege,home,Bryant & Stratton (VA),W,11-5,20230219_lsve,15,1.0,1.0,0.0,0.0,1.0,6.0,5.0,2.0,0.4,4.0,9.0
 2023,div2,Brunswick,brunswickcommunitycollege,home,Bryant & Stratton (VA),W,4-1,20230218_t1p0,12,1.0,0.0,0.0,0.0,,4.0,1.0,1.0,1.0,3.0,11.0
@@ -4302,6 +4420,7 @@ season,njcaa_division,team,team_id,location,opponent,result,score,game_id,G,TC,P
 2023,div2,Bryant & Stratton College (WI),bryantstrattoncollegewi,home,Minnesota North College - Mesabi Range,W,10-0,20230302_35jb,11,1.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,,1.0,10.0
 2023,div2,Bryant & Stratton College (WI),bryantstrattoncollegewi,home,Western Tech,W,11-1,20230302_rijv,12,1.0,1.0,0.0,0.0,1.0,4.0,1.0,0.0,0.0,1.0,7.0
 2023,div2,Bryant & Stratton-Cleveland,bryantstrattoncleveland,home,Apprentice School,W,7-2,20230304_5cfj,8,1.0,0.0,0.0,0.0,,7.0,2.0,2.0,1.0,2.0,9.0
+2023,div2,Bryant & Stratton-Cleveland,bryantstrattoncleveland,home,Macomb,W,8-7,20230317_7ise,3,1.0,1.0,0.0,0.0,1.0,5.0,7.0,7.0,1.0,6.0,10.0
 2023,div2,Bryant & Stratton-Cleveland,bryantstrattoncleveland,home,Penn St Schykill,L,4-1,20230305_0wqz,7,1.0,0.0,0.0,0.0,,7.0,4.0,0.0,0.0,1.0,7.0
 2023,div2,Bryant & Stratton-Cleveland,bryantstrattoncleveland,home,Penn St Schykill,L,4-2,20230305_ygol,7,1.0,0.0,0.0,0.0,,4.0,2.0,0.0,0.0,3.0,5.0
 2023,div2,Bryant & Stratton-Cleveland,bryantstrattoncleveland,home,Penn State Schykill,W,4-1,20230305_rzbg,6,1.0,0.0,0.0,0.0,,7.0,1.0,1.0,1.0,1.0,13.0
@@ -4316,6 +4435,8 @@ season,njcaa_division,team,team_id,location,opponent,result,score,game_id,G,TC,P
 2023,div2,CCBC Catonsville,ccbccatonsville,home,Daytona State,L,11-4,20230224_i9ok,15,1.0,0.0,1.0,0.0,1.0,12.0,11.0,11.0,1.0,13.0,8.0
 2023,div2,CCBC Catonsville,ccbccatonsville,home,Daytona State,L,8-2,20230223_2upy,11,1.0,0.0,1.0,0.0,1.0,10.0,8.0,7.0,0.875,6.0,4.0
 2023,div2,CCBC Catonsville,ccbccatonsville,home,Daytona State,W,10-9,20230223_uhe7,12,1.0,1.0,0.0,1.0,0.5,8.0,9.0,9.0,1.0,7.0,7.0
+2023,div2,CCBC Catonsville,ccbccatonsville,home,Erie,W,14-6,20230317_ktjc,14,1.0,1.0,0.0,0.0,1.0,13.0,6.0,6.0,1.0,6.0,8.0
+2023,div2,CCBC Catonsville,ccbccatonsville,home,Erie,W,9-8,20230317_lzs3,18,1.0,0.0,0.0,0.0,,14.0,8.0,8.0,1.0,4.0,5.0
 2023,div2,CCBC Catonsville,ccbccatonsville,home,Lake-Sumter State,L,4-3,20230220_04q6,12,1.0,0.0,1.0,0.0,1.0,7.0,4.0,4.0,1.0,6.0,6.0
 2023,div2,CCBC Catonsville,ccbccatonsville,home,Lakeland,W,11-1,20230305_1e00,11,0.0,0.0,0.0,0.0,,0.0,0.0,0.0,,0.0,0.0
 2023,div2,CCBC Catonsville,ccbccatonsville,home,Lakeland,W,4-2,20230305_uonb,14,1.0,1.0,0.0,1.0,0.5,7.0,2.0,2.0,1.0,2.0,6.0
@@ -4325,18 +4446,18 @@ season,njcaa_division,team,team_id,location,opponent,result,score,game_id,G,TC,P
 2023,div2,CCBC Catonsville,ccbccatonsville,home,Seminole State (FL),L,8-7,20230218_4j16,14,0.0,0.0,0.0,0.0,,9.0,8.0,6.0,0.75,4.0,4.0
 2023,div2,CCBC Catonsville,ccbccatonsville,home,Sussex County,L,10-5,20230304_e8r0,14,0.0,0.0,0.0,0.0,,0.0,0.0,0.0,,0.0,0.0
 2023,div2,CCBC Catonsville,ccbccatonsville,home,UConn Avery Point,L,5-3,20230315_zu1y,14,1.0,0.0,1.0,0.0,1.0,5.0,5.0,3.0,0.6,11.0,4.0
-2023,div2,CCBC Dundalk,ccbcdundalk,home,Bergen,L,7-5,20230226_xdjf,16,1.0,0.0,1.0,0.0,1.0,9.0,7.0,4.0,0.571,5.0,11.0
+2023,div2,CCBC Dundalk,ccbcdundalk,home,Bergen,L,7-5,20230226_xdjf,17,1.0,0.0,1.0,0.0,1.0,9.0,7.0,4.0,0.571,5.0,11.0
 2023,div2,CCBC Dundalk,ccbcdundalk,home,Bergen,L,8-5,20230226_88cg,17,1.0,0.0,1.0,0.0,1.0,7.0,8.0,6.0,0.75,3.0,15.0
 2023,div2,CCBC Dundalk,ccbcdundalk,home,CCBC Catonsville,L,9-2,20230307_6nv9,15,1.0,0.0,1.0,0.0,1.0,16.0,9.0,9.0,1.0,7.0,9.0
 2023,div2,CCBC Dundalk,ccbcdundalk,home,CCBC Catonsville,L,9-6,20230309_ksht,14,0.0,0.0,2.0,0.0,1.0,11.0,7.0,10.0,1.429,5.0,12.0
 2023,div2,CCBC Dundalk,ccbcdundalk,home,Central Penn College,L,5-4,20230312_cnpg,15,1.0,0.0,1.0,0.0,1.0,6.0,5.0,4.0,0.8,6.0,13.0
-2023,div2,CCBC Dundalk,ccbcdundalk,home,Central Penn College,W,8-4,20230312_efas,15,1.0,1.0,0.0,1.0,0.5,6.0,4.0,4.0,1.0,2.0,10.0
-2023,div2,CCBC Dundalk,ccbcdundalk,home,Orange County,W,14-5,20230311_2hgo,16,1.0,1.0,0.0,0.0,1.0,7.0,5.0,5.0,1.0,7.0,8.0
+2023,div2,CCBC Dundalk,ccbcdundalk,home,Central Penn College,W,8-4,20230312_efas,14,1.0,1.0,0.0,1.0,0.5,4.0,2.0,2.0,1.0,1.0,8.0
+2023,div2,CCBC Dundalk,ccbcdundalk,home,Orange County,W,14-5,20230311_2hgo,17,1.0,1.0,0.0,0.0,1.0,7.0,5.0,5.0,1.0,7.0,8.0
 2023,div2,CCBC Dundalk,ccbcdundalk,home,Orange County,W,7-6,20230311_2jrv,12,1.0,1.0,0.0,1.0,0.5,8.0,6.0,4.0,0.667,3.0,3.0
-2023,div2,CCBC Dundalk,ccbcdundalk,home,UConn Avery Point,L,9-5,20230316_uw0w,22,1.0,0.0,1.0,0.0,1.0,13.0,9.0,8.0,0.889,5.0,8.0
+2023,div2,CCBC Dundalk,ccbcdundalk,home,UConn Avery Point,L,9-5,20230316_uw0w,22,1.0,0.0,1.0,0.0,1.0,12.0,7.0,7.0,1.0,4.0,7.0
 2023,div2,CCBC Dundalk,ccbcdundalk,home,UConn Avery Point,W,10-9,20230316_gyw1,23,1.0,1.0,0.0,0.0,1.0,9.0,9.0,9.0,1.0,11.0,9.0
-2023,div2,CCBC Dundalk,ccbcdundalk,home,Wake Tech,L,11-5,20230211_pcxx,19,1.0,0.0,1.0,0.0,1.0,6.0,11.0,10.0,0.909,13.0,6.0
-2023,div2,CCBC Dundalk,ccbcdundalk,home,Wake Tech,L,8-1,20230211_bswd,15,1.0,0.0,1.0,0.0,1.0,8.0,8.0,8.0,1.0,5.0,8.0
+2023,div2,CCBC Dundalk,ccbcdundalk,home,Wake Tech,L,11-5,20230211_pcxx,20,1.0,0.0,1.0,0.0,1.0,6.0,11.0,10.0,0.909,13.0,6.0
+2023,div2,CCBC Dundalk,ccbcdundalk,home,Wake Tech,L,8-1,20230211_bswd,16,1.0,0.0,1.0,0.0,1.0,8.0,8.0,8.0,1.0,5.0,8.0
 2023,div2,CCBC Essex,ccbcessex,home,Cayuga,L,7-3,20230312_zp5s,14,1.0,0.0,1.0,0.0,1.0,3.0,7.0,7.0,1.0,8.0,10.0
 2023,div2,CCBC Essex,ccbcessex,home,Cayuga,L,8-2,20230312_tq25,15,1.0,0.0,1.0,0.0,1.0,7.0,8.0,7.0,0.875,10.0,6.0
 2023,div2,CCBC Essex,ccbcessex,home,Combine Academy,W,5-2,20230228_1oo8,12,1.0,1.0,0.0,1.0,0.5,4.0,2.0,2.0,1.0,4.0,11.0
@@ -4447,6 +4568,7 @@ season,njcaa_division,team,team_id,location,opponent,result,score,game_id,G,TC,P
 2023,div2,Chandler-Gilbert,chandlergilbertcommunitycollege,home,Southwestern Oregon Community College,W,13-8,20230202_9j24,15,1.0,1.0,0.0,0.0,1.0,9.0,8.0,8.0,1.0,3.0,9.0
 2023,div2,Chesapeake,chesapeakecollege,home,Cecil,L,13-3,20230311_pue4,11,1.0,0.0,1.0,0.0,1.0,14.0,13.0,13.0,1.0,3.0,6.0
 2023,div2,Chesapeake,chesapeakecollege,home,Cecil,W,14-6,20230311_1rt4,11,1.0,1.0,0.0,0.0,1.0,9.0,6.0,3.0,0.5,5.0,7.0
+2023,div2,Chesapeake,chesapeakecollege,home,Delaware Tech,L,11-4,20230316_n5xp,13,1.0,0.0,1.0,0.0,1.0,10.0,11.0,8.0,0.727,2.0,10.0
 2023,div2,Chesapeake,chesapeakecollege,home,Delaware Tech,L,7-6,20230223_ottg,16,1.0,0.0,1.0,0.0,1.0,6.0,7.0,3.0,0.429,0.0,12.0
 2023,div2,Chesapeake,chesapeakecollege,home,Lake County,L,12-2,20230304_7uck,15,1.0,0.0,1.0,0.0,1.0,12.0,12.0,10.0,0.833,6.0,2.0
 2023,div2,Chesapeake,chesapeakecollege,home,Lake County,W,9-5,20230304_azx2,12,1.0,1.0,0.0,0.0,1.0,6.0,5.0,5.0,1.0,5.0,6.0
@@ -4459,6 +4581,8 @@ season,njcaa_division,team,team_id,location,opponent,result,score,game_id,G,TC,P
 2023,div2,Clark State,clarkstatecollege,home,Brookdale,L,4-3,20230314_e4s8,13,0.0,0.0,0.0,0.0,,5.0,4.0,1.0,0.25,4.0,11.0
 2023,div2,Clark State,clarkstatecollege,home,Finger Lakes,L,18-14,20230314_a98u,22,0.0,0.0,0.0,0.0,,9.0,18.0,9.0,0.5,15.0,11.0
 2023,div2,Clark State,clarkstatecollege,home,Mercer County,L,14-2,20230312_xz33,12,0.0,0.0,0.0,0.0,,11.0,14.0,9.0,0.643,5.0,2.0
+2023,div2,Clark State,clarkstatecollege,home,Montgomery,L,13-1,20230316_9z1l,13,0.0,0.0,0.0,0.0,,12.0,13.0,11.0,0.846,6.0,6.0
+2023,div2,Clark State,clarkstatecollege,home,Sussex County,L,5-0,20230316_iycc,11,0.0,0.0,0.0,0.0,,4.0,5.0,2.0,0.4,5.0,8.0
 2023,div2,Clark State,clarkstatecollege,home,Terra State,W,5-0,20230304_bpmz,11,0.0,0.0,0.0,0.0,,4.0,0.0,0.0,,2.0,6.0
 2023,div2,Clark State,clarkstatecollege,home,Terra State,W,7-3,20230305_2jk6,13,0.0,0.0,0.0,0.0,,0.0,0.0,0.0,,0.0,0.0
 2023,div2,Clark State,clarkstatecollege,home,Terra State,W,9-5,20230304_9ch6,14,0.0,1.0,0.0,0.0,1.0,6.0,5.0,5.0,1.0,7.0,9.0
@@ -4500,6 +4624,7 @@ season,njcaa_division,team,team_id,location,opponent,result,score,game_id,G,TC,P
 2023,div2,Coahoma,coahomacommunitycollege,home,North Arkansas,W,7-2,20230218_5vll,10,1.0,1.0,0.0,0.0,1.0,4.0,2.0,1.0,0.5,1.0,5.0
 2023,div2,Coahoma,coahomacommunitycollege,home,Northeast Mississippi,L,11-0,20230315_axrh,12,1.0,0.0,1.0,0.0,1.0,12.0,11.0,11.0,1.0,8.0,6.0
 2023,div2,Coahoma,coahomacommunitycollege,home,Northeast Mississippi,L,12-2,20230307_kxyr,14,1.0,0.0,1.0,0.0,1.0,11.0,12.0,12.0,1.0,6.0,3.0
+2023,div2,Coahoma,coahomacommunitycollege,home,Northeast Mississippi,L,4-2,20230315_572n,11,1.0,0.0,1.0,0.0,1.0,7.0,4.0,4.0,1.0,3.0,3.0
 2023,div2,Coahoma,coahomacommunitycollege,home,SAU Tech,L,11-1,20230304_54ko,16,1.0,0.0,0.0,0.0,,14.0,11.0,3.0,0.273,5.0,3.0
 2023,div2,Coahoma,coahomacommunitycollege,home,SAU Tech,L,17-3,20230304_o5zk,14,1.0,0.0,0.0,0.0,,19.0,17.0,12.0,0.706,3.0,12.0
 2023,div2,Copiah-Lincoln,copiahlincolncommunitycollege,home,Delgado,L,17-4,20230228_k9bn,12,1.0,0.0,1.0,0.0,1.0,16.0,17.0,17.0,1.0,5.0,2.0
@@ -4570,7 +4695,7 @@ season,njcaa_division,team,team_id,location,opponent,result,score,game_id,G,TC,P
 2023,div2,Delaware Tech,delawaretechnicalcommunitycollege,home,Cecil,W,4-3,20230212_sjgs,11,1.0,1.0,0.0,0.0,1.0,3.0,3.0,3.0,1.0,7.0,6.0
 2023,div2,Delaware Tech,delawaretechnicalcommunitycollege,home,Cecil,W,7-3,20230211_h60b,11,1.0,1.0,0.0,0.0,1.0,9.0,3.0,3.0,1.0,3.0,11.0
 2023,div2,Delaware Tech,delawaretechnicalcommunitycollege,home,Cecil,W,7-6,20230211_mric,16,1.0,1.0,0.0,0.0,1.0,7.0,6.0,6.0,1.0,8.0,8.0
-2023,div2,Delaware Tech,delawaretechnicalcommunitycollege,home,Chesapeake,W,11-4,20230316_n5xp,14,1.0,1.0,0.0,0.0,1.0,5.0,4.0,3.0,0.75,5.0,13.0
+2023,div2,Delaware Tech,delawaretechnicalcommunitycollege,home,Chesapeake,W,11-4,20230316_n5xp,13,1.0,1.0,0.0,0.0,1.0,5.0,4.0,3.0,0.75,5.0,13.0
 2023,div2,Delaware Tech,delawaretechnicalcommunitycollege,home,Chesapeake,W,7-6,20230223_ottg,16,1.0,1.0,0.0,1.0,0.5,8.0,6.0,5.0,0.833,6.0,10.0
 2023,div2,Delaware Tech,delawaretechnicalcommunitycollege,home,Harford,L,15-5,20230304_evz4,14,1.0,0.0,1.0,0.0,1.0,11.0,15.0,13.0,0.867,8.0,5.0
 2023,div2,Delaware Tech,delawaretechnicalcommunitycollege,home,Harford,L,6-5,20230304_dq8h,12,1.0,0.0,1.0,0.0,1.0,6.0,6.0,4.0,0.667,1.0,5.0
@@ -4711,7 +4836,9 @@ season,njcaa_division,team,team_id,location,opponent,result,score,game_id,G,TC,P
 2023,div2,Florida State Jacksonville,floridastatecollegeatjacksonville,home,Lake-Sumter State,L,2-1,20230225_h79f,12,1.0,0.0,1.0,0.0,1.0,5.0,2.0,2.0,1.0,7.0,11.0
 2023,div2,Florida State Jacksonville,floridastatecollegeatjacksonville,home,Lake-Sumter State,W,6-5,20230225_91xo,13,1.0,1.0,0.0,1.0,0.5,6.0,5.0,5.0,1.0,6.0,5.0
 2023,div2,Florida State Jacksonville,floridastatecollegeatjacksonville,home,Lake-Sumter State,W,8-3,20230224_xtdv,14,1.0,1.0,0.0,0.0,1.0,6.0,3.0,2.0,0.667,5.0,11.0
+2023,div2,Florida State Jacksonville,floridastatecollegeatjacksonville,home,Palm Beach State,L,8-3,20230317_w2iw,14,1.0,0.0,1.0,0.0,1.0,11.0,8.0,5.0,0.625,3.0,7.0
 2023,div2,Florida State Jacksonville,floridastatecollegeatjacksonville,home,Palm Beach State,L,9-1,20230316_qei6,11,1.0,0.0,1.0,0.0,1.0,9.0,9.0,9.0,1.0,6.0,2.0
+2023,div2,Florida State Jacksonville,floridastatecollegeatjacksonville,home,Palm Beach State,W,2-1,20230317_7oqs,14,1.0,1.0,0.0,0.0,1.0,5.0,1.0,1.0,1.0,2.0,4.0
 2023,div2,Florida State Jacksonville,floridastatecollegeatjacksonville,home,Pasco-Hernando State,L,1-0,20230310_b8oh,11,1.0,0.0,1.0,0.0,1.0,3.0,1.0,0.0,0.0,2.0,11.0
 2023,div2,Florida State Jacksonville,floridastatecollegeatjacksonville,home,Pasco-Hernando State,L,12-2,20230311_wlqp,12,1.0,0.0,1.0,0.0,1.0,12.0,12.0,8.0,0.667,4.0,3.0
 2023,div2,Florida State Jacksonville,floridastatecollegeatjacksonville,home,Pasco-Hernando State,L,13-8,20230311_kzgz,13,1.0,0.0,1.0,0.0,1.0,14.0,13.0,12.0,0.923,4.0,5.0
@@ -4843,7 +4970,8 @@ season,njcaa_division,team,team_id,location,opponent,result,score,game_id,G,TC,P
 2023,div2,Heartland,heartlandcommunitycollege,home,Kirkwood,W,12-11,20230301_mbsz,13,1.0,1.0,0.0,0.0,1.0,8.0,11.0,11.0,1.0,7.0,9.0
 2023,div2,Heartland,heartlandcommunitycollege,home,Kirkwood,W,6-3,20230301_f060,12,1.0,1.0,0.0,1.0,0.5,8.0,3.0,3.0,1.0,4.0,11.0
 2023,div2,Heartland,heartlandcommunitycollege,home,Muskegon,W,19-9,20230306_oong,14,1.0,1.0,0.0,0.0,1.0,7.0,9.0,9.0,1.0,3.0,3.0
-2023,div2,Heartland,heartlandcommunitycollege,home,Northern Essex,W,19-8,20230311_kstk,1,0.0,0.0,0.0,0.0,,1.0,2.0,1.0,0.5,0.0,1.0
+2023,div2,Heartland,heartlandcommunitycollege,home,Northern Essex,W,11-5,20230311_cd8z,11,1.0,1.0,0.0,0.0,1.0,7.0,5.0,3.0,0.6,2.0,12.0
+2023,div2,Heartland,heartlandcommunitycollege,home,Northern Essex,W,19-8,20230311_kstk,14,1.0,1.0,0.0,0.0,1.0,9.0,8.0,3.0,0.375,1.0,7.0
 2023,div2,Heartland,heartlandcommunitycollege,home,RCSJ Cumberland,W,5-1,20230313_e7y2,13,1.0,1.0,0.0,0.0,1.0,2.0,1.0,1.0,1.0,1.0,7.0
 2023,div2,Heartland,heartlandcommunitycollege,home,Rockland,W,11-1,20230314_j9s5,11,1.0,1.0,0.0,0.0,1.0,3.0,1.0,1.0,1.0,3.0,4.0
 2023,div2,Heartland,heartlandcommunitycollege,home,Rockland,W,15-1,20230314_1j1j,16,1.0,1.0,0.0,0.0,1.0,1.0,1.0,0.0,0.0,1.0,6.0
@@ -4860,27 +4988,27 @@ season,njcaa_division,team,team_id,location,opponent,result,score,game_id,G,TC,P
 2023,div2,Henry Ford,henryfordcollege,home,Salem,L,9-8,20230311_acmm,16,0.0,0.0,1.0,0.0,1.0,9.0,9.0,6.0,0.667,2.0,7.0
 2023,div2,Henry Ford,henryfordcollege,home,USC Sumter,L,5-4,20230309_kh5k,11,1.0,0.0,1.0,0.0,1.0,6.0,5.0,5.0,1.0,1.0,5.0
 2023,div2,Henry Ford,henryfordcollege,home,USC Sumter,W,7-6,20230309_t7kt,12,0.0,1.0,0.0,0.0,1.0,7.0,6.0,3.0,0.5,1.0,6.0
-2023,div2,Hesston,hesstoncollege,home,Coffeyville,L,18-9,20230226_rc3m,17,0.0,0.0,1.0,0.0,1.0,16.0,17.0,13.0,0.765,4.0,3.0
-2023,div2,Hesston,hesstoncollege,home,Coffeyville,L,9-4,20230225_k2ui,11,0.0,0.0,1.0,0.0,1.0,10.0,9.0,6.0,0.667,4.0,3.0
-2023,div2,Hesston,hesstoncollege,home,Coffeyville,L,9-4,20230226_5mlo,10,0.0,0.0,1.0,0.0,1.0,10.0,9.0,9.0,1.0,2.0,1.0
+2023,div2,Hesston,hesstoncollege,home,Coffeyville,L,18-9,20230226_rc3m,18,0.0,0.0,1.0,0.0,1.0,16.0,17.0,13.0,0.765,4.0,3.0
+2023,div2,Hesston,hesstoncollege,home,Coffeyville,L,9-4,20230225_k2ui,12,0.0,0.0,1.0,0.0,1.0,10.0,9.0,6.0,0.667,4.0,3.0
+2023,div2,Hesston,hesstoncollege,home,Coffeyville,L,9-4,20230226_5mlo,11,0.0,0.0,1.0,0.0,1.0,10.0,9.0,9.0,1.0,2.0,1.0
 2023,div2,Hesston,hesstoncollege,home,Coffeyville,W,4-1,20230225_m8w8,11,0.0,1.0,0.0,0.0,1.0,4.0,1.0,0.0,0.0,2.0,1.0
 2023,div2,Hesston,hesstoncollege,home,Dallas College - Cedar Valley,L,15-5,20230218_kq5w,23,0.0,0.0,1.0,0.0,1.0,9.0,15.0,10.0,0.667,9.0,3.0
-2023,div2,Hesston,hesstoncollege,home,Dallas College - Cedar Valley,L,9-5,20230217_ogll,12,0.0,0.0,1.0,0.0,1.0,9.0,9.0,7.0,0.778,4.0,3.0
-2023,div2,Hesston,hesstoncollege,home,Dallas College - Cedar Valley,W,11-9,20230217_xzqt,13,0.0,1.0,0.0,0.0,1.0,7.0,9.0,7.0,0.778,6.0,5.0
-2023,div2,Hesston,hesstoncollege,home,Dallas College - Cedar Valley,W,7-1,20230218_97f1,11,0.0,1.0,0.0,0.0,1.0,5.0,1.0,0.0,0.0,5.0,5.0
+2023,div2,Hesston,hesstoncollege,home,Dallas College - Cedar Valley,L,9-5,20230217_ogll,13,0.0,0.0,1.0,0.0,1.0,9.0,9.0,7.0,0.778,4.0,3.0
+2023,div2,Hesston,hesstoncollege,home,Dallas College - Cedar Valley,W,11-9,20230217_xzqt,14,0.0,1.0,0.0,0.0,1.0,7.0,9.0,7.0,0.778,6.0,5.0
+2023,div2,Hesston,hesstoncollege,home,Dallas College - Cedar Valley,W,7-1,20230218_97f1,12,0.0,1.0,0.0,0.0,1.0,5.0,1.0,0.0,0.0,5.0,5.0
 2023,div2,Hesston,hesstoncollege,home,Friends University JV,W,13-8,20230207_zfhp,13,0.0,1.0,0.0,0.0,1.0,7.0,8.0,4.0,0.5,7.0,6.0
 2023,div2,Hesston,hesstoncollege,home,Friends University JV,W,9-4,20230207_8kyt,12,0.0,1.0,0.0,1.0,0.5,6.0,4.0,4.0,1.0,7.0,7.0
 2023,div2,Hesston,hesstoncollege,home,Kansas Wesleyan University JV,W,11-4,20230221_yyo1,12,0.0,1.0,0.0,0.0,1.0,7.0,4.0,1.0,0.25,1.0,7.0
-2023,div2,Hesston,hesstoncollege,home,Kansas Wesleyan University JV,W,9-5,20230221_gy66,15,0.0,1.0,0.0,0.0,1.0,6.0,5.0,5.0,1.0,4.0,9.0
-2023,div2,Hesston,hesstoncollege,home,Labette,L,14-7,20230310_gnji,14,0.0,0.0,1.0,0.0,1.0,13.0,14.0,11.0,0.786,6.0,5.0
-2023,div2,Hesston,hesstoncollege,home,Labette,W,4-3,20230312_8riw,12,0.0,1.0,0.0,0.0,1.0,11.0,3.0,2.0,0.667,2.0,7.0
-2023,div2,Hesston,hesstoncollege,home,Labette,W,7-0,20230312_2uqi,11,0.0,1.0,0.0,0.0,1.0,5.0,0.0,0.0,,0.0,16.0
-2023,div2,Hesston,hesstoncollege,home,Labette,W,8-6,20230310_3b7q,11,0.0,1.0,0.0,0.0,1.0,9.0,6.0,6.0,1.0,4.0,3.0
-2023,div2,Hesston,hesstoncollege,home,Lake Region State,W,13-3,20230304_romt,10,0.0,1.0,0.0,0.0,1.0,7.0,3.0,1.0,0.333,1.0,6.0
-2023,div2,Hesston,hesstoncollege,home,Lake Region State,W,2-0,20230305_57l1,11,0.0,1.0,0.0,0.0,1.0,3.0,0.0,0.0,,0.0,6.0
-2023,div2,Hesston,hesstoncollege,home,Lake Region State,W,4-1,20230304_zmh7,12,1.0,1.0,0.0,1.0,0.5,6.0,1.0,0.0,0.0,1.0,14.0
-2023,div2,Hesston,hesstoncollege,home,Lake Region State,W,5-0,20230305_wr41,11,0.0,1.0,0.0,0.0,1.0,4.0,0.0,0.0,,1.0,5.0
-2023,div2,Hesston,hesstoncollege,home,Northern Oklahoma Tonkawa,L,10-0,20230307_ksae,16,0.0,0.0,1.0,0.0,1.0,13.0,10.0,8.0,0.8,1.0,3.0
+2023,div2,Hesston,hesstoncollege,home,Kansas Wesleyan University JV,W,9-5,20230221_gy66,14,0.0,1.0,0.0,0.0,1.0,6.0,5.0,5.0,1.0,4.0,9.0
+2023,div2,Hesston,hesstoncollege,home,Labette,L,14-7,20230310_gnji,15,0.0,0.0,1.0,0.0,1.0,13.0,14.0,11.0,0.786,6.0,5.0
+2023,div2,Hesston,hesstoncollege,home,Labette,W,4-3,20230312_8riw,13,0.0,1.0,0.0,0.0,1.0,11.0,3.0,2.0,0.667,2.0,7.0
+2023,div2,Hesston,hesstoncollege,home,Labette,W,7-0,20230312_2uqi,12,0.0,1.0,0.0,0.0,1.0,5.0,0.0,0.0,,0.0,16.0
+2023,div2,Hesston,hesstoncollege,home,Labette,W,8-6,20230310_3b7q,12,0.0,1.0,0.0,0.0,1.0,9.0,6.0,6.0,1.0,4.0,3.0
+2023,div2,Hesston,hesstoncollege,home,Lake Region State,W,13-3,20230304_romt,11,0.0,1.0,0.0,0.0,1.0,7.0,3.0,1.0,0.333,1.0,6.0
+2023,div2,Hesston,hesstoncollege,home,Lake Region State,W,2-0,20230305_57l1,12,0.0,1.0,0.0,0.0,1.0,3.0,0.0,0.0,,0.0,6.0
+2023,div2,Hesston,hesstoncollege,home,Lake Region State,W,4-1,20230304_zmh7,13,1.0,1.0,0.0,1.0,0.5,6.0,1.0,0.0,0.0,1.0,14.0
+2023,div2,Hesston,hesstoncollege,home,Lake Region State,W,5-0,20230305_wr41,12,0.0,1.0,0.0,0.0,1.0,4.0,0.0,0.0,,1.0,5.0
+2023,div2,Hesston,hesstoncollege,home,Northern Oklahoma Tonkawa,L,10-0,20230307_ksae,15,0.0,0.0,1.0,0.0,1.0,13.0,10.0,8.0,0.8,1.0,3.0
 2023,div2,Hesston,hesstoncollege,home,Northwestern Oklahoma State University JV,L,7-6,20230213_vbpc,15,0.0,0.0,1.0,0.0,1.0,7.0,7.0,7.0,1.0,7.0,9.0
 2023,div2,Hesston,hesstoncollege,home,Northwestern Oklahoma State University JV,W,15-6,20230213_ki8m,13,0.0,1.0,0.0,0.0,1.0,12.0,6.0,6.0,1.0,5.0,7.0
 2023,div2,Hesston,hesstoncollege,home,Randall University,W,13-5,20230228_pau7,17,0.0,1.0,0.0,0.0,1.0,10.0,5.0,4.0,0.8,7.0,10.0
@@ -5120,7 +5248,7 @@ season,njcaa_division,team,team_id,location,opponent,result,score,game_id,G,TC,P
 2023,div2,Kirkwood,kirkwoodcommunitycollege,home,East Central (MS),L,8-7,20230218_nwe1,14,1.0,0.0,1.0,0.0,1.0,12.0,8.0,6.0,0.75,5.0,7.0
 2023,div2,Kirkwood,kirkwoodcommunitycollege,home,Heartland,L,12-11,20230301_mbsz,15,1.0,0.0,1.0,0.0,1.0,9.0,12.0,9.0,0.75,7.0,10.0
 2023,div2,Kirkwood,kirkwoodcommunitycollege,home,Heartland,L,6-3,20230301_f060,15,1.0,0.0,1.0,0.0,1.0,5.0,6.0,2.0,0.333,4.0,4.0
-2023,div2,Kirkwood,kirkwoodcommunitycollege,home,Iowa Lakes,W,15-3,20230313_emem,20,1.0,1.0,0.0,0.0,1.0,5.0,3.0,3.0,1.0,3.0,10.0
+2023,div2,Kirkwood,kirkwoodcommunitycollege,home,Iowa Lakes,W,15-3,20230313_emem,21,1.0,1.0,0.0,0.0,1.0,5.0,3.0,3.0,1.0,3.0,11.0
 2023,div2,Kirkwood,kirkwoodcommunitycollege,home,Jefferson (MO),L,5-1,20230306_k1zf,13,1.0,0.0,1.0,0.0,1.0,8.0,5.0,5.0,1.0,6.0,3.0
 2023,div2,Kirkwood,kirkwoodcommunitycollege,home,Jefferson (MO),W,12-9,20230305_8p34,13,1.0,1.0,0.0,1.0,0.5,9.0,9.0,9.0,1.0,7.0,15.0
 2023,div2,Kirkwood,kirkwoodcommunitycollege,home,Jefferson (MO),W,8-6,20230306_u65l,12,1.0,1.0,0.0,1.0,0.5,9.0,6.0,6.0,1.0,4.0,10.0
@@ -5211,6 +5339,8 @@ season,njcaa_division,team,team_id,location,opponent,result,score,game_id,G,TC,P
 2023,div2,Lake-Sumter State,lakesumterstatecollege,home,Hillsborough,L,15-11,20230222_30zg,16,1.0,0.0,1.0,0.0,1.0,13.0,15.0,11.0,0.733,12.0,13.0
 2023,div2,Lake-Sumter State,lakesumterstatecollege,home,Hillsborough,W,9-0,20230204_sxcg,16,1.0,0.0,0.0,0.0,,7.0,12.0,12.0,1.0,15.0,6.0
 2023,div2,Lake-Sumter State,lakesumterstatecollege,home,North Dakota SCS,W,5-2,20230314_1b3m,12,1.0,1.0,0.0,1.0,0.5,4.0,2.0,2.0,1.0,2.0,7.0
+2023,div2,Lake-Sumter State,lakesumterstatecollege,home,Pasco-Hernando State,L,17-7,20230317_9hx2,15,1.0,0.0,1.0,0.0,1.0,10.0,17.0,17.0,1.0,18.0,6.0
+2023,div2,Lake-Sumter State,lakesumterstatecollege,home,Pasco-Hernando State,L,8-6,20230317_5ar2,13,1.0,0.0,1.0,0.0,1.0,10.0,8.0,7.0,0.875,5.0,9.0
 2023,div2,Lake-Sumter State,lakesumterstatecollege,home,Polk State,L,8-6,20230210_siol,12,1.0,0.0,1.0,0.0,1.0,5.0,8.0,7.0,0.875,5.0,8.0
 2023,div2,Lake-Sumter State,lakesumterstatecollege,home,Polk State,W,10-4,20230211_rmxg,12,1.0,1.0,0.0,0.0,1.0,10.0,4.0,3.0,0.75,3.0,15.0
 2023,div2,Lake-Sumter State,lakesumterstatecollege,home,Rollins College JV,L,4-2,20230308_zgo4,16,1.0,0.0,1.0,0.0,1.0,7.0,4.0,1.0,0.25,4.0,6.0
@@ -5245,6 +5375,7 @@ season,njcaa_division,team,team_id,location,opponent,result,score,game_id,G,TC,P
 2023,div2,Lansing,lansingcommunitycollege,home,Pearl River,L,4-3,20230305_sys8,11,1.0,0.0,1.0,0.0,1.0,3.0,4.0,3.0,0.75,5.0,4.0
 2023,div2,Lehigh Carbon,lehighcarboncommunitycollege,home,King's College JV,L,2-0,20230307_rlnu,12,1.0,0.0,1.0,0.0,1.0,4.0,2.0,2.0,1.0,2.0,10.0
 2023,div2,Lehigh Carbon,lehighcarboncommunitycollege,home,King's College JV,W,17-5,20230307_oubh,16,1.0,1.0,0.0,0.0,1.0,6.0,5.0,3.0,0.6,4.0,12.0
+2023,div2,Lehigh Carbon,lehighcarboncommunitycollege,home,Mercer County,L,9-5,20230317_crvw,13,1.0,0.0,1.0,0.0,1.0,9.0,9.0,8.0,0.889,7.0,6.0
 2023,div2,Lehigh Carbon,lehighcarboncommunitycollege,home,RCSJ Gloucester,L,5-0,20230312_ludt,10,1.0,0.0,1.0,0.0,1.0,8.0,5.0,4.0,0.8,3.0,8.0
 2023,div2,Lehigh Carbon,lehighcarboncommunitycollege,home,RCSJ Gloucester,L,7-3,20230312_batc,11,1.0,0.0,1.0,0.0,1.0,8.0,7.0,7.0,1.0,3.0,5.0
 2023,div2,Lenoir,lenoircommunitycollege,home,Barton College JV,L,12-11,20230315_iuek,30,1.0,0.0,1.0,0.0,1.0,10.0,12.0,8.0,0.667,6.0,14.0
@@ -5305,6 +5436,7 @@ season,njcaa_division,team,team_id,location,opponent,result,score,game_id,G,TC,P
 2023,div2,Lincoln Land,lincolnlandcommunitycollege,home,Western Tech,W,11-1,20230304_bt89,11,1.0,1.0,0.0,0.0,1.0,3.0,1.0,1.0,1.0,1.0,9.0
 2023,div2,Macomb,macombcommunitycollege,home,Bryan College JV,L,11-10,20230306_ljt9,18,1.0,0.0,1.0,0.0,1.0,6.0,11.0,9.0,0.818,13.0,11.0
 2023,div2,Macomb,macombcommunitycollege,home,Bryan College JV,W,16-14,20230306_xvs3,19,1.0,1.0,0.0,1.0,0.5,11.0,14.0,13.0,0.929,12.0,10.0
+2023,div2,Macomb,macombcommunitycollege,home,Bryant & Stratton (OH),L,8-7,20230317_7ise,17,1.0,0.0,1.0,0.0,1.0,10.0,8.0,8.0,1.0,5.0,11.0
 2023,div2,Macomb,macombcommunitycollege,home,Bryant & Stratton (OH),W,6-4,20230316_ozsk,13,1.0,1.0,0.0,1.0,0.5,7.0,4.0,3.0,0.75,6.0,9.0
 2023,div2,Macomb,macombcommunitycollege,home,Georgia Highlands,L,11-1,20230310_dngf,14,1.0,0.0,1.0,0.0,1.0,14.0,11.0,7.0,0.636,1.0,2.0
 2023,div2,Macomb,macombcommunitycollege,home,Georgia Highlands,L,13-1,20230310_v94g,14,1.0,0.0,1.0,0.0,1.0,10.0,13.0,13.0,1.0,8.0,2.0
@@ -5318,6 +5450,7 @@ season,njcaa_division,team,team_id,location,opponent,result,score,game_id,G,TC,P
 2023,div2,Madison,madisoncollege,home,Glendale,L,6-2,20230314_10zg,12,1.0,0.0,1.0,0.0,1.0,13.0,6.0,6.0,1.0,3.0,7.0
 2023,div2,Madison,madisoncollege,home,Mesa,W,17-5,20230310_iri9,17,1.0,1.0,0.0,0.0,1.0,13.0,5.0,4.0,0.8,2.0,7.0
 2023,div2,Madison,madisoncollege,home,Miles,W,12-1,20230311_cdm2,14,1.0,1.0,0.0,0.0,1.0,6.0,1.0,1.0,1.0,3.0,6.0
+2023,div2,Madison,madisoncollege,home,Paradise Valley,W,6-4,20230317_c6kg,16,1.0,1.0,0.0,1.0,0.5,7.0,4.0,4.0,1.0,3.0,8.0
 2023,div2,Madison,madisoncollege,home,Western Nebraska,W,6-5,20230312_en1f,19,1.0,1.0,0.0,0.0,1.0,8.0,5.0,1.0,0.2,6.0,15.0
 2023,div2,Madison,madisoncollege,home,Williston State,W,4-1,20230311_mqk3,12,1.0,1.0,0.0,0.0,1.0,6.0,1.0,0.0,0.0,1.0,7.0
 2023,div2,Marian-Ancilla,ancillacollege,home,Alexandria Technical & Community College,L,6-0,20230311_56d4,15,1.0,0.0,1.0,0.0,1.0,6.0,6.0,6.0,1.0,5.0,4.0
@@ -5348,6 +5481,7 @@ season,njcaa_division,team,team_id,location,opponent,result,score,game_id,G,TC,P
 2023,div2,Mercer County,mercercountycommunitycollege,home,Garrett,W,7-5,20230314_us6e,12,1.0,1.0,0.0,1.0,0.5,6.0,5.0,5.0,1.0,7.0,10.0
 2023,div2,Mercer County,mercercountycommunitycollege,home,Harford,L,3-1,20230302_ndr7,11,1.0,0.0,1.0,0.0,1.0,3.0,3.0,3.0,1.0,6.0,5.0
 2023,div2,Mercer County,mercercountycommunitycollege,home,Harford,L,4-3,20230302_e7vm,13,1.0,0.0,1.0,0.0,1.0,6.0,4.0,3.0,0.75,4.0,6.0
+2023,div2,Mercer County,mercercountycommunitycollege,home,Lehigh Carbon,W,9-5,20230317_crvw,11,1.0,1.0,0.0,0.0,1.0,8.0,5.0,4.0,0.8,3.0,10.0
 2023,div2,Mercer County,mercercountycommunitycollege,home,Monroe College,L,13-2,20230305_56mc,11,1.0,0.0,1.0,0.0,1.0,15.0,13.0,10.0,0.769,4.0,3.0
 2023,div2,Mercer County,mercercountycommunitycollege,home,Monroe College,L,8-1,20230305_fyto,12,1.0,0.0,1.0,0.0,1.0,6.0,8.0,2.0,0.25,7.0,11.0
 2023,div2,Mercer County,mercercountycommunitycollege,home,Nassau,W,6-5,20230311_cmwb,15,1.0,1.0,0.0,0.0,1.0,6.0,5.0,4.0,0.8,6.0,7.0
@@ -5400,11 +5534,13 @@ season,njcaa_division,team,team_id,location,opponent,result,score,game_id,G,TC,P
 2023,div2,Mesa,mesacommunitycollege,home,Paradise Valley,L,11-9,20230303_gk3a,13,0.0,0.0,1.0,0.0,1.0,15.0,11.0,6.0,0.545,7.0,1.0
 2023,div2,Mesa,mesacommunitycollege,home,Paradise Valley,L,2-1,20230304_1ve5,18,1.0,0.0,1.0,0.0,1.0,2.0,2.0,0.0,0.0,4.0,6.0
 2023,div2,Mesa,mesacommunitycollege,home,Park-Gilbert JV,W,7-6,20230207_f45r,21,1.0,1.0,0.0,1.0,0.5,9.0,6.0,6.0,1.0,5.0,8.0
+2023,div2,Mesa,mesacommunitycollege,home,Park-Gilbert JV,W,9-8,20230313_il88,16,1.0,0.0,0.0,0.0,,0.0,0.0,0.0,,0.0,0.0
 2023,div2,Mesa,mesacommunitycollege,home,Phoenix,L,10-3,20230218_4sew,17,0.0,0.0,1.0,0.0,1.0,14.0,10.0,7.0,0.7,5.0,4.0
 2023,div2,Mesa,mesacommunitycollege,home,Phoenix,L,13-3,20230217_sqi4,13,0.0,0.0,1.0,0.0,1.0,8.0,13.0,12.0,0.923,9.0,1.0
 2023,div2,Mesa,mesacommunitycollege,home,Pima,L,10-2,20230311_42k0,19,0.0,0.0,1.0,0.0,1.0,16.0,10.0,9.0,0.9,4.0,7.0
 2023,div2,Mesa,mesacommunitycollege,home,Pima,L,3-0,20230311_a7xb,13,0.0,0.0,1.0,0.0,1.0,3.0,3.0,1.0,0.333,4.0,5.0
 2023,div2,Mesa,mesacommunitycollege,home,Scottsdale,L,8-4,20230228_dtn6,15,0.0,0.0,1.0,0.0,1.0,11.0,8.0,6.0,0.75,4.0,4.0
+2023,div2,Mesa,mesacommunitycollege,home,Scottsdale,W,3-2,20230314_28ln,13,1.0,0.0,0.0,0.0,,5.0,2.0,1.0,0.5,2.0,8.0
 2023,div2,Mesa,mesacommunitycollege,home,Thompson River,W,11-2,20230219_0vw3,24,1.0,1.0,0.0,0.0,1.0,5.0,3.0,3.0,1.0,6.0,15.0
 2023,div2,Mid Michigan,midmichigancollege,home,Century,L,10-6,20230307_a0tw,12,0.0,0.0,1.0,0.0,1.0,7.0,10.0,8.0,0.8,9.0,2.0
 2023,div2,Mid Michigan,midmichigancollege,home,Erie,W,6-4,20230304_jr87,16,0.0,1.0,0.0,0.0,1.0,6.0,4.0,1.0,0.25,7.0,9.0
@@ -5497,6 +5633,7 @@ season,njcaa_division,team,team_id,location,opponent,result,score,game_id,G,TC,P
 2023,div2,Moberly Area,moberlyareacommunitycollege,home,Shawnee,L,9-8,20230225_pp5s,18,0.0,0.0,1.0,0.0,1.0,12.0,9.0,7.0,0.778,4.0,6.0
 2023,div2,Moberly Area,moberlyareacommunitycollege,home,Shawnee,W,11-1,20230226_rcj0,10,0.0,1.0,0.0,0.0,1.0,5.0,1.0,1.0,1.0,0.0,4.0
 2023,div2,Moberly Area,moberlyareacommunitycollege,home,State Fair,L,10-8,20230307_kr6f,15,0.0,0.0,1.0,0.0,1.0,9.0,10.0,7.0,0.7,8.0,8.0
+2023,div2,Monroe CC,monroecommunitycollege,home,Cayuga,W,11-3,20230317_fyqm,11,1.0,1.0,0.0,0.0,1.0,4.0,3.0,2.0,0.667,4.0,3.0
 2023,div2,Monroe CC,monroecommunitycollege,home,Henry Ford,L,10-6,20230308_a1jx,15,1.0,0.0,1.0,0.0,1.0,10.0,10.0,6.0,0.6,3.0,4.0
 2023,div2,Monroe CC,monroecommunitycollege,home,Northampton,L,11-5,20230307_2ozo,15,2.0,0.0,1.0,0.0,1.0,11.0,19.0,17.0,0.895,10.0,10.0
 2023,div2,Monroe CC,monroecommunitycollege,home,Northampton,L,9-5,20230307_fxt6,13,1.0,0.0,1.0,0.0,1.0,8.0,9.0,8.0,0.889,8.0,8.0
@@ -5505,18 +5642,20 @@ season,njcaa_division,team,team_id,location,opponent,result,score,game_id,G,TC,P
 2023,div2,Monroe CC,monroecommunitycollege,home,Olney Central,L,5-3,20230306_1hrd,1,1.0,0.0,0.0,0.0,,1.0,0.0,0.0,,1.0,0.0
 2023,div2,Monroe CC,monroecommunitycollege,home,Olney Central,W,11-1,20230306_i2hg,1,0.0,0.0,0.0,0.0,,0.0,0.0,0.0,,0.0,0.0
 2023,div2,Monroe CC,monroecommunitycollege,home,St. Clair County,W,8-1,20230308_m2ud,10,1.0,1.0,0.0,0.0,1.0,6.0,1.0,1.0,1.0,1.0,3.0
-2023,div2,Montgomery,montgomerycollegemd,home,Anne Arundel,L,8-1,20230310_eaq7,13,1.0,0.0,1.0,0.0,1.0,7.0,8.0,1.0,0.125,4.0,5.0
-2023,div2,Montgomery,montgomerycollegemd,home,Anne Arundel,W,18-4,20230310_p9az,12,1.0,1.0,0.0,0.0,1.0,5.0,4.0,4.0,1.0,5.0,6.0
-2023,div2,Montgomery,montgomerycollegemd,home,Bergen,W,5-0,20230314_bosh,9,0.0,1.0,0.0,0.0,1.0,4.0,0.0,0.0,,2.0,8.0
-2023,div2,Montgomery,montgomerycollegemd,home,Monroe College - Bronx,W,3-2,20230223_a8bj,11,0.0,1.0,0.0,1.0,0.5,7.0,2.0,0.0,0.0,0.0,6.0
-2023,div2,Montgomery,montgomerycollegemd,home,Monroe College - Bronx,W,8-5,20230223_3od7,17,0.0,1.0,0.0,0.0,1.0,3.0,5.0,4.0,0.8,10.0,8.0
-2023,div2,Montgomery,montgomerycollegemd,home,Richard Bland,W,9-7,20230215_hz81,13,1.0,1.0,0.0,0.0,1.0,17.0,7.0,7.0,1.0,2.0,7.0
-2023,div2,Montgomery,montgomerycollegemd,home,Shenandoah University JV,W,11-4,20230219_gdur,13,0.0,1.0,0.0,0.0,1.0,10.0,4.0,3.0,0.75,5.0,6.0
-2023,div2,Montgomery,montgomerycollegemd,home,Shenandoah University JV,W,7-4,20230219_h2ui,13,0.0,1.0,0.0,1.0,0.5,6.0,4.0,3.0,0.75,7.0,7.0
-2023,div2,Montgomery,montgomerycollegemd,home,Southern Maryland,W,10-7,20230305_vmty,11,0.0,1.0,0.0,0.0,1.0,9.0,7.0,7.0,1.0,1.0,9.0
-2023,div2,Montgomery,montgomerycollegemd,home,Southern Maryland,W,2-1,20230305_h9ne,11,0.0,1.0,0.0,0.0,1.0,7.0,1.0,1.0,1.0,4.0,8.0
-2023,div2,Montgomery,montgomerycollegemd,home,Sullivan County,L,6-5,20230313_d6ha,11,0.0,0.0,0.0,0.0,,11.0,6.0,6.0,1.0,5.0,6.0
-2023,div2,Montgomery,montgomerycollegemd,home,Sussex County,L,10-8,20230314_1ug0,9,0.0,0.0,0.0,0.0,,9.0,5.0,3.0,0.6,3.0,2.0
+2023,div2,Montgomery,montgomerycollegemd,home,Anne Arundel,L,8-1,20230310_eaq7,16,1.0,0.0,1.0,0.0,1.0,7.0,8.0,1.0,0.125,4.0,5.0
+2023,div2,Montgomery,montgomerycollegemd,home,Anne Arundel,W,18-4,20230310_p9az,17,1.0,1.0,0.0,0.0,1.0,5.0,4.0,4.0,1.0,5.0,6.0
+2023,div2,Montgomery,montgomerycollegemd,home,Bergen,W,5-0,20230314_bosh,12,0.0,1.0,0.0,0.0,1.0,4.0,0.0,0.0,,2.0,8.0
+2023,div2,Montgomery,montgomerycollegemd,home,Brookdale,L,14-4,20230316_eho1,13,0.0,0.0,0.0,0.0,,6.0,14.0,9.0,0.643,8.0,6.0
+2023,div2,Montgomery,montgomerycollegemd,home,Clark State,W,13-1,20230316_9z1l,14,0.0,1.0,0.0,0.0,1.0,6.0,1.0,0.0,0.0,4.0,7.0
+2023,div2,Montgomery,montgomerycollegemd,home,Monroe College - Bronx,W,3-2,20230223_a8bj,14,0.0,1.0,0.0,1.0,0.5,7.0,2.0,0.0,0.0,0.0,6.0
+2023,div2,Montgomery,montgomerycollegemd,home,Monroe College - Bronx,W,8-5,20230223_3od7,21,0.0,1.0,0.0,0.0,1.0,3.0,5.0,4.0,0.8,10.0,8.0
+2023,div2,Montgomery,montgomerycollegemd,home,Richard Bland,W,9-7,20230215_hz81,16,1.0,1.0,0.0,0.0,1.0,17.0,7.0,7.0,1.0,2.0,7.0
+2023,div2,Montgomery,montgomerycollegemd,home,Shenandoah University JV,W,11-4,20230219_gdur,16,0.0,1.0,0.0,0.0,1.0,10.0,4.0,3.0,0.75,5.0,6.0
+2023,div2,Montgomery,montgomerycollegemd,home,Shenandoah University JV,W,7-4,20230219_h2ui,16,0.0,1.0,0.0,1.0,0.5,6.0,4.0,3.0,0.75,7.0,7.0
+2023,div2,Montgomery,montgomerycollegemd,home,Southern Maryland,W,10-7,20230305_vmty,14,0.0,1.0,0.0,0.0,1.0,9.0,7.0,7.0,1.0,1.0,9.0
+2023,div2,Montgomery,montgomerycollegemd,home,Southern Maryland,W,2-1,20230305_h9ne,14,0.0,1.0,0.0,0.0,1.0,7.0,1.0,1.0,1.0,4.0,8.0
+2023,div2,Montgomery,montgomerycollegemd,home,Sullivan County,L,6-5,20230313_d6ha,14,0.0,0.0,0.0,0.0,,11.0,6.0,6.0,1.0,5.0,6.0
+2023,div2,Montgomery,montgomerycollegemd,home,Sussex County,L,10-8,20230314_1ug0,13,0.0,0.0,1.0,0.0,1.0,12.0,10.0,7.0,0.7,8.0,4.0
 2023,div2,Moraine Valley,morainevalleycommunitycollege,home,Joliet,L,9-6,20230307_qrgm,12,1.0,0.0,0.0,0.0,,6.0,4.0,3.0,0.75,3.0,10.0
 2023,div2,Moraine Valley,morainevalleycommunitycollege,home,North Arkansas,L,12-0,20230305_pnju,11,1.0,0.0,0.0,0.0,,5.0,12.0,6.0,0.5,7.0,7.0
 2023,div2,Moraine Valley,morainevalleycommunitycollege,home,North Arkansas,L,6-4,20230304_p9xe,10,1.0,0.0,0.0,0.0,,7.0,6.0,3.0,0.5,7.0,3.0
@@ -5526,11 +5665,13 @@ season,njcaa_division,team,team_id,location,opponent,result,score,game_id,G,TC,P
 2023,div2,Morris,countycollegeofmorris,home,Brookdale,L,10-6,20230308_2n7z,16,0.0,0.0,0.0,0.0,,13.0,10.0,8.0,0.8,8.0,2.0
 2023,div2,Morris,countycollegeofmorris,home,Central Maine community college,W,6-3,20230312_ya4p,15,0.0,1.0,0.0,1.0,0.5,6.0,3.0,2.0,0.667,9.0,6.0
 2023,div2,Morris,countycollegeofmorris,home,Delaware Tech,L,6-4,20230226_wdn4,13,0.0,0.0,1.0,0.0,1.0,7.0,6.0,5.0,0.833,2.0,4.0
-2023,div2,Morris,countycollegeofmorris,home,Delaware Tech,L,9-1,20230226_6h8x,14,0.0,0.0,1.0,0.0,1.0,8.0,8.0,6.0,0.75,4.0,6.0
+2023,div2,Morris,countycollegeofmorris,home,Delaware Tech,L,9-1,20230226_6h8x,13,0.0,0.0,1.0,0.0,1.0,8.0,8.0,6.0,0.75,4.0,6.0
+2023,div2,Morris,countycollegeofmorris,home,Garrett,L,4-3,20230317_sl8i,16,0.0,0.0,0.0,0.0,,6.0,4.0,2.0,0.5,3.0,10.0
 2023,div2,Morris,countycollegeofmorris,home,Mohawk Valley,W,5-0,20230314_pxj7,11,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,,1.0,8.0
 2023,div2,Morris,countycollegeofmorris,home,Montgomery,L,7-2,20230315_1rmk,14,0.0,0.0,0.0,0.0,,7.0,7.0,2.0,0.286,5.0,1.0
-2023,div2,Morris,countycollegeofmorris,home,Montgomery County,L,7-3,20230314_up2i,14,0.0,0.0,0.0,0.0,,6.0,7.0,0.0,0.0,2.0,10.0
+2023,div2,Morris,countycollegeofmorris,home,Montgomery County,L,7-3,20230314_up2i,14,0.0,0.0,1.0,0.0,1.0,6.0,7.0,0.0,0.0,2.0,10.0
 2023,div2,Morris,countycollegeofmorris,home,Raritan Valley,W,7-6,20230302_88qp,15,1.0,1.0,0.0,1.0,0.5,6.0,6.0,6.0,1.0,9.0,5.0
+2023,div2,Morris,countycollegeofmorris,home,Rhode Island,W,13-9,20230317_9k8x,16,0.0,0.0,0.0,0.0,,13.0,9.0,8.0,0.889,5.0,10.0
 2023,div2,Morris,countycollegeofmorris,home,Scoutz USA,W,8-7,20230316_zwkv,13,0.0,1.0,0.0,1.0,0.5,9.0,7.0,4.0,0.571,4.0,12.0
 2023,div2,Morris,countycollegeofmorris,home,Sullivan County,W,18-5,20230315_0rk5,19,0.0,1.0,0.0,0.0,1.0,0.0,5.0,0.0,0.0,6.0,12.0
 2023,div2,Morris,countycollegeofmorris,home,Westchester,L,7-6,20230305_r3vo,18,0.0,0.0,0.0,0.0,,5.0,7.0,5.0,0.714,4.0,8.0
@@ -5575,6 +5716,8 @@ season,njcaa_division,team,team_id,location,opponent,result,score,game_id,G,TC,P
 2023,div2,Murray State,murraystatecollege,home,Northern Oklahoma Tonkawa,L,9-4,20230313_9cyt,13,1.0,0.0,1.0,0.0,1.0,9.0,9.0,8.0,0.889,6.0,6.0
 2023,div2,Murray State,murraystatecollege,home,Northern Oklahoma Tonkawa,W,10-1,20230311_ok1m,12,1.0,1.0,0.0,0.0,1.0,3.0,1.0,1.0,1.0,3.0,9.0
 2023,div2,Murray State,murraystatecollege,home,Northern Oklahoma Tonkawa,W,9-8,20230311_707w,15,1.0,1.0,0.0,0.0,1.0,12.0,8.0,8.0,1.0,3.0,5.0
+2023,div2,Murray State,murraystatecollege,home,SAU Tech,L,6-4,20230317_fjhh,12,1.0,0.0,1.0,0.0,1.0,6.0,6.0,2.0,0.333,5.0,8.0
+2023,div2,Murray State,murraystatecollege,home,SAU Tech,W,11-9,20230317_3cgi,15,1.0,1.0,0.0,1.0,0.5,11.0,9.0,7.0,0.778,9.0,11.0
 2023,div2,Murray State,murraystatecollege,home,Seminole State (OK),W,10-6,20230204_uc7h,18,1.0,1.0,0.0,0.0,1.0,8.0,6.0,6.0,1.0,3.0,16.0
 2023,div2,Murray State,murraystatecollege,home,Texas Post Grad,W,16-4,20230128_vn4b,22,1.0,1.0,0.0,0.0,1.0,8.0,4.0,4.0,1.0,1.0,13.0
 2023,div2,Murray State,murraystatecollege,home,Texas Post Grad,W,9-1,20230128_75tl,21,1.0,1.0,0.0,0.0,1.0,3.0,1.0,0.0,0.0,1.0,15.0
@@ -5662,8 +5805,9 @@ season,njcaa_division,team,team_id,location,opponent,result,score,game_id,G,TC,P
 2023,div2,Northeast,northeastcommunitycollege,home,Northwestern Oklahoma St. University JV,W,9-1,20230307_ke6r,17,1.0,1.0,0.0,0.0,1.0,4.0,1.0,1.0,1.0,5.0,13.0
 2023,div2,Northeast,northeastcommunitycollege,home,Southern Nazarene University JV,W,4-0,20230306_e1vh,13,1.0,1.0,0.0,0.0,1.0,2.0,0.0,0.0,,1.0,11.0
 2023,div2,Northeast Mississippi,northeastmississippicommunitycollege,home,Chattanooga State,W,5-4,20230205_ghoj,11,1.0,1.0,0.0,0.0,1.0,5.0,4.0,4.0,1.0,0.0,7.0
-2023,div2,Northeast Mississippi,northeastmississippicommunitycollege,home,Coahoma,W,11-0,20230315_axrh,14,1.0,1.0,0.0,1.0,0.5,4.0,0.0,0.0,,0.0,3.0
+2023,div2,Northeast Mississippi,northeastmississippicommunitycollege,home,Coahoma,W,11-0,20230315_axrh,14,1.0,1.0,0.0,0.0,1.0,4.0,0.0,0.0,,0.0,3.0
 2023,div2,Northeast Mississippi,northeastmississippicommunitycollege,home,Coahoma,W,12-2,20230307_kxyr,17,1.0,1.0,0.0,0.0,1.0,5.0,2.0,2.0,1.0,6.0,3.0
+2023,div2,Northeast Mississippi,northeastmississippicommunitycollege,home,Coahoma,W,4-2,20230315_572n,14,1.0,1.0,0.0,0.0,1.0,7.0,2.0,2.0,1.0,5.0,4.0
 2023,div2,Northeast Mississippi,northeastmississippicommunitycollege,home,East Central (MO),W,18-0,20230219_y7rp,14,1.0,1.0,0.0,0.0,1.0,1.0,0.0,0.0,,2.0,0.0
 2023,div2,Northeast Mississippi,northeastmississippicommunitycollege,home,East Central (MS),W,7-3,20230307_sbfu,13,1.0,1.0,0.0,0.0,1.0,7.0,3.0,3.0,1.0,3.0,9.0
 2023,div2,Northeast Mississippi,northeastmississippicommunitycollege,home,Holmes,W,7-3,20230221_87ji,12,1.0,1.0,0.0,1.0,0.5,5.0,3.0,3.0,1.0,6.0,8.0
@@ -5835,6 +5979,8 @@ season,njcaa_division,team,team_id,location,opponent,result,score,game_id,G,TC,P
 2023,div2,Pasco-Hernando State,pascohernandostatecollege,home,Hillsborough,L,3-2,20230221_23ug,19,1.0,0.0,1.0,0.0,1.0,8.0,3.0,2.0,0.667,6.0,8.0
 2023,div2,Pasco-Hernando State,pascohernandostatecollege,home,Hillsborough,W,9-0,20230127_ndau,11,1.0,0.0,0.0,0.0,,8.0,1.0,1.0,1.0,2.0,8.0
 2023,div2,Pasco-Hernando State,pascohernandostatecollege,home,Hillsborough,W,9-3,20230213_tefi,17,1.0,1.0,0.0,0.0,1.0,9.0,3.0,2.0,0.667,4.0,5.0
+2023,div2,Pasco-Hernando State,pascohernandostatecollege,home,Lake-Sumter State,W,17-7,20230317_9hx2,14,1.0,1.0,0.0,1.0,0.5,9.0,7.0,7.0,1.0,7.0,4.0
+2023,div2,Pasco-Hernando State,pascohernandostatecollege,home,Lake-Sumter State,W,8-6,20230317_5ar2,10,1.0,1.0,0.0,0.0,1.0,7.0,6.0,6.0,1.0,7.0,11.0
 2023,div2,Pasco-Hernando State,pascohernandostatecollege,home,Lincoln Land,W,9-4,20230308_2k63,19,1.0,1.0,0.0,0.0,1.0,6.0,4.0,3.0,0.75,7.0,9.0
 2023,div2,Pasco-Hernando State,pascohernandostatecollege,home,Palm Beach State,L,9-7,20230303_qvh5,13,1.0,0.0,1.0,0.0,1.0,8.0,9.0,7.0,0.778,9.0,6.0
 2023,div2,Pasco-Hernando State,pascohernandostatecollege,home,Palm Beach State,W,11-1,20230304_81uq,10,1.0,1.0,0.0,0.0,1.0,3.0,1.0,1.0,1.0,4.0,5.0
@@ -5850,7 +5996,7 @@ season,njcaa_division,team,team_id,location,opponent,result,score,game_id,G,TC,P
 2023,div2,Pasco-Hernando State,pascohernandostatecollege,home,St. Petersburg,W,9-2,20230204_upwd,10,1.0,1.0,0.0,0.0,1.0,8.0,2.0,2.0,1.0,1.0,7.0
 2023,div2,Pasco-Hernando State,pascohernandostatecollege,home,State College of Florida,W,5-4,20230210_nc6o,12,1.0,1.0,0.0,1.0,0.5,9.0,4.0,2.0,0.5,5.0,9.0
 2023,div2,Pasco-Hernando State,pascohernandostatecollege,home,State College of Florida,W,9-0,20230207_gm87,13,1.0,0.0,0.0,0.0,,9.0,11.0,10.0,0.909,13.0,4.0
-2023,div2,Patrick & Henry,patrickhenrycommunitycollege,home,Caldwell Tech,L,9-1,20230314_fix2,19,1.0,0.0,0.0,0.0,,11.0,9.0,9.0,1.0,9.0,4.0
+2023,div2,Patrick & Henry,patrickhenrycommunitycollege,home,Caldwell Tech,L,9-1,20230314_fix2,19,1.0,0.0,1.0,0.0,1.0,11.0,9.0,9.0,1.0,9.0,4.0
 2023,div2,Patrick & Henry,patrickhenrycommunitycollege,home,Catawba Valley,W,6-1,20230305_cb20,13,1.0,1.0,0.0,0.0,1.0,7.0,1.0,1.0,1.0,3.0,8.0
 2023,div2,Patrick & Henry,patrickhenrycommunitycollege,home,Catawba Valley,W,7-6,20230304_6s5g,16,1.0,1.0,0.0,0.0,1.0,5.0,6.0,6.0,1.0,6.0,8.0
 2023,div2,Patrick & Henry,patrickhenrycommunitycollege,home,Catawba Valley,W,8-6,20230304_ie92,15,1.0,1.0,0.0,0.0,1.0,15.0,6.0,6.0,1.0,5.0,9.0
@@ -5864,6 +6010,8 @@ season,njcaa_division,team,team_id,location,opponent,result,score,game_id,G,TC,P
 2023,div2,Patrick & Henry,patrickhenrycommunitycollege,home,Rockingham,W,6-1,20230205_tc5d,9,0.0,0.0,0.0,0.0,,0.0,0.0,0.0,,0.0,0.0
 2023,div2,Patrick & Henry,patrickhenrycommunitycollege,home,USC Lancaster,L,6-4,20230211_2vk0,13,0.0,0.0,1.0,0.0,1.0,2.0,3.0,1.0,0.333,5.0,6.0
 2023,div2,Patrick & Henry,patrickhenrycommunitycollege,home,USC Lancaster,L,9-0,20230211_s260,14,0.0,0.0,1.0,0.0,1.0,3.0,7.0,5.0,0.714,9.0,5.0
+2023,div2,Patrick & Henry,patrickhenrycommunitycollege,home,Wake Tech,W,6-2,20230311_z6di,12,1.0,1.0,0.0,0.0,1.0,6.0,2.0,2.0,1.0,1.0,15.0
+2023,div2,Patrick & Henry,patrickhenrycommunitycollege,home,Wake Tech,W,9-2,20230311_5d79,12,1.0,1.0,0.0,0.0,1.0,5.0,2.0,2.0,1.0,6.0,8.0
 2023,div2,Patrick & Henry,patrickhenrycommunitycollege,home,Walters State,L,10-4,20230219_q9qq,13,1.0,0.0,1.0,0.0,1.0,8.0,10.0,8.0,0.8,11.0,8.0
 2023,div2,Patrick & Henry,patrickhenrycommunitycollege,home,Walters State,L,8-4,20230219_z42l,11,1.0,0.0,1.0,0.0,1.0,9.0,8.0,7.0,0.875,4.0,6.0
 2023,div2,Pearl River,pearlrivercommunitycollege,home,Baton Rouge,W,10-2,20230303_4x6x,12,1.0,1.0,0.0,0.0,1.0,4.0,2.0,2.0,1.0,4.0,7.0
@@ -5885,6 +6033,7 @@ season,njcaa_division,team,team_id,location,opponent,result,score,game_id,G,TC,P
 2023,div2,Pearl River,pearlrivercommunitycollege,home,Northeast Mississippi,L,6-5,20230311_xeae,14,1.0,0.0,1.0,0.0,1.0,9.0,6.0,6.0,1.0,5.0,8.0
 2023,div2,Pearl River,pearlrivercommunitycollege,home,Northeast Mississippi,W,6-4,20230311_pezn,14,1.0,1.0,0.0,1.0,0.5,4.0,4.0,3.0,0.75,6.0,9.0
 2023,div2,Pearl River,pearlrivercommunitycollege,home,Pensacola State,L,7-6,20230218_0h5h,14,1.0,0.0,1.0,0.0,1.0,6.0,7.0,2.0,0.286,4.0,10.0
+2023,div2,Pearl River,pearlrivercommunitycollege,home,Southwest Mississippi,W,10-2,20230315_ldps,14,1.0,1.0,0.0,0.0,1.0,4.0,2.0,2.0,1.0,4.0,10.0
 2023,div2,Pearl River,pearlrivercommunitycollege,home,Southwest Mississippi,W,22-1,20230315_8pt2,15,1.0,1.0,0.0,0.0,1.0,6.0,1.0,1.0,1.0,2.0,12.0
 2023,div2,Pearl River,pearlrivercommunitycollege,home,Southwest Mississippi,W,9-5,20230307_4xlh,14,1.0,0.0,0.0,0.0,,0.0,0.0,0.0,,0.0,0.0
 2023,div2,Pearl River,pearlrivercommunitycollege,home,Wharton County,W,11-7,20230205_c7ye,15,1.0,1.0,0.0,0.0,1.0,9.0,7.0,7.0,1.0,9.0,9.0
@@ -6016,6 +6165,8 @@ season,njcaa_division,team,team_id,location,opponent,result,score,game_id,G,TC,P
 2023,div2,Rock Valley,rockvalleycollege,home,University of Health Sciences and Pharmacy,W,10-8,20230304_5jjr,19,1.0,1.0,0.0,1.0,0.5,5.0,8.0,3.0,0.375,11.0,13.0
 2023,div2,Rockland,rocklandcommunitycollege,home,Bucks County Community College,L,10-4,20230316_qw1k,12,0.0,0.0,1.0,0.0,1.0,11.0,10.0,3.0,0.3,5.0,4.0
 2023,div2,Rockland,rocklandcommunitycollege,home,Columbia-Greene,W,12-1,20230315_cx4f,13,0.0,1.0,0.0,0.0,1.0,3.0,1.0,1.0,1.0,7.0,8.0
+2023,div2,Rockland,rocklandcommunitycollege,home,Elgin,L,5-0,20230317_kke9,14,0.0,0.0,1.0,0.0,1.0,7.0,5.0,4.0,0.8,4.0,4.0
+2023,div2,Rockland,rocklandcommunitycollege,home,Elgin,W,11-1,20230317_513f,11,0.0,1.0,0.0,0.0,1.0,5.0,1.0,1.0,1.0,3.0,10.0
 2023,div2,Rockland,rocklandcommunitycollege,home,Heartland,L,11-1,20230314_j9s5,10,1.0,0.0,1.0,0.0,1.0,15.0,11.0,11.0,1.0,4.0,1.0
 2023,div2,Rockland,rocklandcommunitycollege,home,Heartland,L,15-1,20230314_1j1j,13,1.0,0.0,1.0,0.0,1.0,13.0,15.0,13.0,0.867,6.0,7.0
 2023,div2,Rockland,rocklandcommunitycollege,home,Herkimer,L,13-2,20230313_t95d,20,0.0,0.0,1.0,0.0,1.0,9.0,11.0,10.0,0.909,8.0,5.0
@@ -6066,7 +6217,7 @@ season,njcaa_division,team,team_id,location,opponent,result,score,game_id,G,TC,P
 2023,div2,Scottsdale,scottsdalecommunitycollege,home,GateWay (AZ),W,4-0,20230304_jw6s,12,1.0,1.0,0.0,0.0,1.0,2.0,0.0,0.0,,3.0,11.0
 2023,div2,Scottsdale,scottsdalecommunitycollege,home,Glendale,L,7-2,20230217_74j0,14,1.0,0.0,1.0,0.0,1.0,10.0,7.0,6.0,0.857,4.0,5.0
 2023,div2,Scottsdale,scottsdalecommunitycollege,home,Glendale,W,4-2,20230218_055p,12,1.0,0.0,0.0,0.0,,6.0,2.0,0.0,0.0,1.0,7.0
-2023,div2,Scottsdale,scottsdalecommunitycollege,home,Mesa,L,3-2,20230314_28ln,18,1.0,0.0,0.0,0.0,,8.0,3.0,2.0,0.667,2.0,9.0
+2023,div2,Scottsdale,scottsdalecommunitycollege,home,Mesa,L,3-2,20230314_28ln,17,1.0,0.0,0.0,0.0,,8.0,3.0,2.0,0.667,2.0,9.0
 2023,div2,Scottsdale,scottsdalecommunitycollege,home,Mesa,W,8-4,20230228_dtn6,14,1.0,1.0,0.0,0.0,1.0,7.0,4.0,2.0,0.5,3.0,10.0
 2023,div2,Scottsdale,scottsdalecommunitycollege,home,Ottawa University JV,W,20-1,20230209_od4q,19,1.0,1.0,0.0,0.0,1.0,4.0,1.0,0.0,0.0,2.0,6.0
 2023,div2,Scottsdale,scottsdalecommunitycollege,home,Paradise Valley,W,3-2,20230216_3fom,15,1.0,1.0,0.0,1.0,0.5,7.0,2.0,2.0,1.0,4.0,13.0
@@ -6255,17 +6406,20 @@ season,njcaa_division,team,team_id,location,opponent,result,score,game_id,G,TC,P
 2023,div2,St. Clair County,stclaircountycommunitycollege,home,Penn State Greater Allegheny,L,5-3,20230309_pnuq,12,0.0,0.0,0.0,0.0,,4.0,5.0,4.0,0.8,4.0,2.0
 2023,div2,St. Clair County,stclaircountycommunitycollege,home,Salem,W,5-2,20230310_xxbp,13,0.0,0.0,0.0,0.0,,1.0,2.0,2.0,1.0,11.0,12.0
 2023,div2,St. Clair County,stclaircountycommunitycollege,home,Salem,W,6-4,20230310_x4lt,12,0.0,0.0,0.0,0.0,,5.0,4.0,2.0,0.5,7.0,6.0
-2023,div2,Sullivan County,sullivancountycommunitycollege,home,Brookdale,L,11-3,20230314_0hje,10,1.0,0.0,0.0,0.0,,0.0,0.0,0.0,,0.0,0.0
+2023,div2,Sullivan County,sullivancountycommunitycollege,home,Brookdale,L,11-3,20230314_0hje,12,1.0,0.0,0.0,0.0,,10.0,11.0,10.0,0.909,6.0,4.0
 2023,div2,Sullivan County,sullivancountycommunitycollege,home,Craven Community College,W,12-0,20230311_mr5n,16,0.0,1.0,0.0,0.0,1.0,1.0,0.0,0.0,,1.0,5.0
 2023,div2,Sullivan County,sullivancountycommunitycollege,home,Craven Community College,W,13-6,20230311_iofg,15,1.0,1.0,0.0,0.0,1.0,10.0,6.0,4.0,0.667,2.0,5.0
 2023,div2,Sullivan County,sullivancountycommunitycollege,home,Harford,L,29-5,20230316_f9dk,18,1.0,0.0,1.0,0.0,1.0,23.0,29.0,21.0,0.724,11.0,6.0
 2023,div2,Sullivan County,sullivancountycommunitycollege,home,Kingsborough,L,14-4,20230305_qk22,12,1.0,0.0,1.0,0.0,1.0,10.0,14.0,7.0,0.5,6.0,6.0
 2023,div2,Sullivan County,sullivancountycommunitycollege,home,Kingsborough,L,3-1,20230305_w14m,12,1.0,0.0,1.0,0.0,1.0,8.0,3.0,3.0,1.0,1.0,10.0
 2023,div2,Sullivan County,sullivancountycommunitycollege,home,Montgomery,W,6-5,20230313_d6ha,11,1.0,1.0,0.0,1.0,0.5,9.0,5.0,5.0,1.0,5.0,5.0
+2023,div2,Sullivan County,sullivancountycommunitycollege,home,Montgomery County,L,3-2,20230315_zk6v,10,0.0,0.0,1.0,0.0,1.0,5.0,3.0,2.0,0.667,2.0,6.0
 2023,div2,Sullivan County,sullivancountycommunitycollege,home,Montgomery County,W,6-1,20230312_ngry,12,1.0,1.0,0.0,0.0,1.0,2.0,1.0,0.0,0.0,0.0,7.0
+2023,div2,Sullivan County,sullivancountycommunitycollege,home,Morris,L,18-5,20230315_0rk5,16,0.0,0.0,1.0,0.0,1.0,15.0,17.0,13.0,0.765,9.0,5.0
 2023,div2,Sullivan County,sullivancountycommunitycollege,home,North Central Missouri,W,5-4,20230313_638a,11,1.0,1.0,0.0,1.0,0.5,5.0,4.0,4.0,1.0,7.0,4.0
 2023,div2,Sullivan County,sullivancountycommunitycollege,home,Rhode Island,L,7-6,20230314_zg0e,9,1.0,0.0,0.0,0.0,,0.0,0.0,0.0,,0.0,0.0
 2023,div2,Sussex County,sussexcountycommunitycollege,home,CCBC Catonsville,W,10-5,20230304_e8r0,14,0.0,1.0,0.0,0.0,1.0,6.0,5.0,5.0,1.0,7.0,3.0
+2023,div2,Sussex County,sussexcountycommunitycollege,home,Cairn University,W,18-8,20230317_4wl8,15,1.0,1.0,0.0,0.0,1.0,5.0,8.0,3.0,0.375,5.0,7.0
 2023,div2,Sussex County,sussexcountycommunitycollege,home,Clark State,W,5-0,20230316_iycc,10,1.0,1.0,0.0,0.0,1.0,2.0,0.0,0.0,,2.0,9.0
 2023,div2,Sussex County,sussexcountycommunitycollege,home,Lakeland,W,8-6,20230304_9s9n,14,1.0,1.0,0.0,1.0,0.5,6.0,6.0,6.0,1.0,8.0,7.0
 2023,div2,Sussex County,sussexcountycommunitycollege,home,Mohawk Valley,W,6-1,20230313_7zsb,13,1.0,1.0,0.0,1.0,0.5,5.0,1.0,1.0,1.0,3.0,2.0
@@ -6275,11 +6429,14 @@ season,njcaa_division,team,team_id,location,opponent,result,score,game_id,G,TC,P
 2023,div2,Sussex County,sussexcountycommunitycollege,home,Raritan Valley,W,19-9,20230309_eu4m,13,1.0,1.0,0.0,0.0,1.0,13.0,9.0,2.0,0.222,3.0,11.0
 2023,div2,Sussex County,sussexcountycommunitycollege,home,Raritan Valley,W,7-4,20230310_8kr3,12,1.0,1.0,0.0,1.0,0.5,2.0,4.0,3.0,0.75,5.0,5.0
 2023,div2,Sussex County,sussexcountycommunitycollege,home,Raritan Valley,W,8-3,20230310_n8e3,12,1.0,1.0,0.0,0.0,1.0,2.0,3.0,2.0,0.667,6.0,5.0
+2023,div2,Sussex County,sussexcountycommunitycollege,home,Rhode Island,W,4-0,20230317_l8ku,12,1.0,1.0,0.0,0.0,1.0,3.0,0.0,0.0,,1.0,3.0
 2023,div2,Sussex County,sussexcountycommunitycollege,home,Scoutz USA,W,5-4,20230315_o671,13,1.0,1.0,0.0,0.0,1.0,4.0,4.0,3.0,0.75,5.0,6.0
 2023,div2,UA Rich Mountain,uarichmountain,home,ASU Mountain Home,W,6-5,20230218_pcnm,13,1.0,1.0,0.0,0.0,1.0,8.0,5.0,4.0,0.8,5.0,11.0
 2023,div2,UA Rich Mountain,uarichmountain,home,ASU Mountain Home,W,8-6,20230218_yxar,12,1.0,1.0,0.0,0.0,1.0,11.0,6.0,3.0,0.5,1.0,8.0
 2023,div2,UA Rich Mountain,uarichmountain,home,Arkansas Tech University JV,L,12-2,20230227_s6iz,15,1.0,0.0,1.0,0.0,1.0,14.0,12.0,9.0,0.75,2.0,9.0
 2023,div2,UA Rich Mountain,uarichmountain,home,Arkansas Tech University JV,W,8-1,20230227_zpe4,11,1.0,1.0,0.0,0.0,1.0,2.0,1.0,1.0,1.0,3.0,4.0
+2023,div2,UA Rich Mountain,uarichmountain,home,Carl Albert State,W,12-5,20230317_8744,14,1.0,1.0,0.0,0.0,1.0,9.0,5.0,5.0,1.0,4.0,10.0
+2023,div2,UA Rich Mountain,uarichmountain,home,Carl Albert State,W,5-4,20230317_k5r7,11,1.0,1.0,0.0,0.0,1.0,15.0,4.0,2.0,0.5,0.0,3.0
 2023,div2,UA Rich Mountain,uarichmountain,home,Connors State,L,13-1,20230225_4b4q,13,1.0,0.0,1.0,0.0,1.0,12.0,13.0,12.0,0.923,10.0,4.0
 2023,div2,UA Rich Mountain,uarichmountain,home,Eastern Oklahoma State,L,8-3,20230221_bklt,20,1.0,0.0,1.0,0.0,1.0,11.0,8.0,5.0,0.625,6.0,6.0
 2023,div2,UA Rich Mountain,uarichmountain,home,Mineral Area,L,16-3,20230305_ntdb,16,1.0,0.0,1.0,0.0,1.0,16.0,16.0,12.0,0.75,8.0,3.0
@@ -6325,25 +6482,27 @@ season,njcaa_division,team,team_id,location,opponent,result,score,game_id,G,TC,P
 2023,div2,Vincennes,vincennesuniversity,home,Wabash Valley,L,16-5,20230305_m2hc,20,1.0,0.0,1.0,0.0,1.0,6.0,17.0,14.0,0.824,15.0,5.0
 2023,div2,Vincennes,vincennesuniversity,home,Wabash Valley,L,8-2,20230221_js4y,16,1.0,0.0,1.0,0.0,1.0,10.0,8.0,8.0,1.0,7.0,6.0
 2023,div2,Wake Tech,waketechnicalcommunitycollege,home,CCBC Dundalk,W,11-5,20230211_pcxx,17,1.0,1.0,0.0,0.0,1.0,6.0,5.0,4.0,0.8,4.0,9.0
-2023,div2,Wake Tech,waketechnicalcommunitycollege,home,CCBC Dundalk,W,8-1,20230211_bswd,18,1.0,1.0,0.0,0.0,1.0,3.0,1.0,1.0,1.0,1.0,10.0
-2023,div2,Wake Tech,waketechnicalcommunitycollege,home,Caldwell Tech,L,16-8,20230205_6791,16,1.0,0.0,0.0,0.0,,12.0,16.0,16.0,1.0,9.0,6.0
-2023,div2,Wake Tech,waketechnicalcommunitycollege,home,Caldwell Tech,L,9-8,20230205_c92y,18,1.0,0.0,1.0,0.0,1.0,7.0,9.0,7.0,0.778,9.0,9.0
-2023,div2,Wake Tech,waketechnicalcommunitycollege,home,Camp,L,14-13,20230228_52rx,26,1.0,0.0,1.0,0.0,1.0,12.0,14.0,12.0,0.857,10.0,16.0
-2023,div2,Wake Tech,waketechnicalcommunitycollege,home,Catawba Valley,L,12-4,20230226_gzt9,14,1.0,0.0,1.0,0.0,1.0,10.0,12.0,8.0,0.667,9.0,5.0
+2023,div2,Wake Tech,waketechnicalcommunitycollege,home,CCBC Dundalk,W,8-1,20230211_bswd,19,1.0,1.0,0.0,0.0,1.0,3.0,1.0,1.0,1.0,1.0,10.0
+2023,div2,Wake Tech,waketechnicalcommunitycollege,home,Caldwell Tech,L,16-8,20230205_6791,17,1.0,0.0,0.0,0.0,,12.0,16.0,16.0,1.0,9.0,6.0
+2023,div2,Wake Tech,waketechnicalcommunitycollege,home,Caldwell Tech,L,9-8,20230205_c92y,19,1.0,0.0,1.0,0.0,1.0,7.0,9.0,7.0,0.778,9.0,9.0
+2023,div2,Wake Tech,waketechnicalcommunitycollege,home,Camp,L,14-13,20230228_52rx,27,1.0,0.0,1.0,0.0,1.0,12.0,14.0,12.0,0.857,10.0,16.0
+2023,div2,Wake Tech,waketechnicalcommunitycollege,home,Catawba Valley,L,12-4,20230226_gzt9,15,1.0,0.0,1.0,0.0,1.0,10.0,12.0,8.0,0.667,9.0,5.0
 2023,div2,Wake Tech,waketechnicalcommunitycollege,home,Catawba Valley,L,14-6,20230224_jzwb,13,1.0,0.0,1.0,0.0,1.0,11.0,14.0,10.0,0.714,11.0,5.0
-2023,div2,Wake Tech,waketechnicalcommunitycollege,home,Catawba Valley,L,9-3,20230224_thfc,14,1.0,0.0,1.0,0.0,1.0,8.0,9.0,7.0,0.778,3.0,3.0
-2023,div2,Wake Tech,waketechnicalcommunitycollege,home,Fayetteville Tech,L,15-11,20230215_jjl1,19,1.0,0.0,1.0,0.0,1.0,17.0,15.0,13.0,0.867,10.0,11.0
+2023,div2,Wake Tech,waketechnicalcommunitycollege,home,Catawba Valley,L,9-3,20230224_thfc,15,1.0,0.0,1.0,0.0,1.0,8.0,9.0,7.0,0.778,3.0,3.0
+2023,div2,Wake Tech,waketechnicalcommunitycollege,home,Fayetteville Tech,L,15-11,20230215_jjl1,20,1.0,0.0,1.0,0.0,1.0,17.0,15.0,13.0,0.867,10.0,11.0
 2023,div2,Wake Tech,waketechnicalcommunitycollege,home,Lackawanna,L,15-10,20230308_ee3j,13,1.0,0.0,1.0,0.0,1.0,12.0,15.0,14.0,0.933,14.0,7.0
 2023,div2,Wake Tech,waketechnicalcommunitycollege,home,Lackawanna,W,8-4,20230308_mw4d,12,1.0,1.0,0.0,0.0,1.0,6.0,4.0,3.0,0.75,6.0,9.0
-2023,div2,Wake Tech,waketechnicalcommunitycollege,home,Louisburg,L,6-0,20230219_2xly,20,1.0,0.0,1.0,0.0,1.0,5.0,6.0,2.0,0.333,8.0,8.0
-2023,div2,Wake Tech,waketechnicalcommunitycollege,home,Louisburg,L,6-4,20230218_rx0c,14,1.0,0.0,1.0,0.0,1.0,12.0,6.0,6.0,1.0,2.0,5.0
+2023,div2,Wake Tech,waketechnicalcommunitycollege,home,Louisburg,L,6-0,20230219_2xly,21,1.0,0.0,1.0,0.0,1.0,5.0,6.0,2.0,0.333,8.0,8.0
+2023,div2,Wake Tech,waketechnicalcommunitycollege,home,Louisburg,L,6-4,20230218_rx0c,15,1.0,0.0,1.0,0.0,1.0,12.0,6.0,6.0,1.0,2.0,5.0
 2023,div2,Wake Tech,waketechnicalcommunitycollege,home,Louisburg,L,8-1,20230219_csob,12,1.0,0.0,1.0,0.0,1.0,10.0,8.0,6.0,0.75,6.0,5.0
-2023,div2,Wake Tech,waketechnicalcommunitycollege,home,Louisburg,L,9-2,20230218_wt23,20,1.0,0.0,1.0,0.0,1.0,9.0,9.0,9.0,1.0,5.0,5.0
-2023,div2,Wake Tech,waketechnicalcommunitycollege,home,Southwest Virginia,L,9-6,20230304_1b2x,14,0.0,0.0,1.0,0.0,1.0,7.0,9.0,3.0,0.333,7.0,5.0
-2023,div2,Wake Tech,waketechnicalcommunitycollege,home,Southwest Virginia,W,6-3,20230305_bvwb,13,0.0,0.0,0.0,0.0,,7.0,3.0,1.0,0.333,2.0,6.0
+2023,div2,Wake Tech,waketechnicalcommunitycollege,home,Louisburg,L,9-2,20230218_wt23,21,1.0,0.0,1.0,0.0,1.0,9.0,9.0,9.0,1.0,5.0,5.0
+2023,div2,Wake Tech,waketechnicalcommunitycollege,home,Patrick & Henry,L,6-2,20230311_z6di,14,1.0,0.0,1.0,0.0,1.0,11.0,6.0,6.0,1.0,5.0,5.0
+2023,div2,Wake Tech,waketechnicalcommunitycollege,home,Patrick & Henry,L,9-2,20230311_5d79,12,1.0,0.0,1.0,0.0,1.0,12.0,9.0,8.0,0.889,4.0,4.0
+2023,div2,Wake Tech,waketechnicalcommunitycollege,home,Southwest Virginia,L,9-6,20230304_1b2x,15,0.0,0.0,1.0,0.0,1.0,7.0,9.0,3.0,0.333,7.0,5.0
+2023,div2,Wake Tech,waketechnicalcommunitycollege,home,Southwest Virginia,W,6-3,20230305_bvwb,14,0.0,0.0,0.0,0.0,,7.0,3.0,1.0,0.333,2.0,6.0
 2023,div2,Wake Tech,waketechnicalcommunitycollege,home,Southwest Virginia,W,9-8,20230305_quly,14,0.0,0.0,0.0,0.0,,6.0,8.0,8.0,1.0,8.0,6.0
-2023,div2,Wake Tech,waketechnicalcommunitycollege,home,William Peace University JV,L,7-5,20230208_hr8y,23,1.0,0.0,1.0,0.0,1.0,6.0,7.0,6.0,0.857,10.0,9.0
-2023,div2,Wake Tech,waketechnicalcommunitycollege,home,William Peace University JV,W,9-3,20230222_i3lq,23,1.0,1.0,0.0,0.0,1.0,5.0,3.0,1.0,0.333,5.0,6.0
+2023,div2,Wake Tech,waketechnicalcommunitycollege,home,William Peace University JV,L,7-5,20230208_hr8y,24,1.0,0.0,1.0,0.0,1.0,6.0,7.0,6.0,0.857,10.0,9.0
+2023,div2,Wake Tech,waketechnicalcommunitycollege,home,William Peace University JV,W,9-3,20230222_i3lq,24,1.0,1.0,0.0,0.0,1.0,5.0,3.0,1.0,0.333,5.0,6.0
 2023,div2,Westchester,westchestercommunitycollege,home,Alexandria Technical & Community College,W,4-2,20230314_lg44,10,1.0,1.0,0.0,0.0,1.0,3.0,2.0,0.0,0.0,1.0,8.0
 2023,div2,Westchester,westchestercommunitycollege,home,Bucks County Community College,W,14-10,20230314_kxr1,12,1.0,1.0,0.0,0.0,1.0,6.0,10.0,4.0,0.4,8.0,7.0
 2023,div2,Westchester,westchestercommunitycollege,home,Cecil,W,10-2,20230224_slci,12,1.0,1.0,0.0,0.0,1.0,5.0,2.0,2.0,1.0,7.0,8.0
@@ -6351,6 +6510,7 @@ season,njcaa_division,team,team_id,location,opponent,result,score,game_id,G,TC,P
 2023,div2,Westchester,westchestercommunitycollege,home,Cecil,W,11-8,20230224_4z8d,11,1.0,1.0,0.0,0.0,1.0,8.0,8.0,5.0,0.625,10.0,12.0
 2023,div2,Westchester,westchestercommunitycollege,home,Cecil,W,12-1,20230226_rkm3,14,1.0,1.0,0.0,0.0,1.0,3.0,1.0,1.0,1.0,2.0,5.0
 2023,div2,Westchester,westchestercommunitycollege,home,College of Mount Saint Vincent,W,10-3,20230306_38zx,20,1.0,1.0,0.0,0.0,1.0,7.0,3.0,1.0,0.333,9.0,16.0
+2023,div2,Westchester,westchestercommunitycollege,home,Holyoke,W,12-0,20230317_s0fh,14,1.0,1.0,0.0,0.0,1.0,3.0,0.0,0.0,,2.0,7.0
 2023,div2,Westchester,westchestercommunitycollege,home,Kingsborough,L,12-10,20230308_anxx,10,1.0,0.0,1.0,0.0,1.0,10.0,12.0,7.0,0.583,6.0,4.0
 2023,div2,Westchester,westchestercommunitycollege,home,Manhattanville College JV,W,11-1,20230215_ezc7,10,1.0,1.0,0.0,0.0,1.0,4.0,1.0,1.0,1.0,1.0,7.0
 2023,div2,Westchester,westchestercommunitycollege,home,Manhattanville College JV,W,16-1,20230215_a768,18,1.0,1.0,0.0,0.0,1.0,1.0,1.0,1.0,1.0,2.0,9.0
@@ -6385,7 +6545,9 @@ season,njcaa_division,team,team_id,location,opponent,result,score,game_id,G,TC,P
 2023,div2,Western Oklahoma State,westernoklahomastatecollege,home,Wharton County,W,6-4,20230217_x65y,11,1.0,1.0,0.0,1.0,0.5,9.0,4.0,1.0,0.25,4.0,7.0
 2023,div2,Williston State,willistonstatecollege,home,Anoka-Ramsey,W,10-0,20230315_bov9,10,1.0,1.0,0.0,0.0,1.0,3.0,0.0,0.0,,1.0,12.0
 2023,div2,Williston State,willistonstatecollege,home,Central Lakes,W,4-3,20230312_8mpc,13,1.0,1.0,0.0,1.0,0.5,5.0,3.0,3.0,1.0,5.0,9.0
+2023,div2,Williston State,willistonstatecollege,home,Coquitlam Reds Post Grad,W,8-7,20230316_o868,15,1.0,1.0,0.0,0.0,1.0,11.0,7.0,7.0,1.0,2.0,7.0
 2023,div2,Williston State,willistonstatecollege,home,Dakota-Bottineau,W,9-2,20230313_sf73,15,1.0,1.0,0.0,0.0,1.0,3.0,2.0,2.0,1.0,2.0,12.0
+2023,div2,Williston State,willistonstatecollege,home,Luther College JV,W,8-7,20230317_wqgp,12,1.0,1.0,0.0,1.0,0.5,7.0,7.0,4.0,0.571,2.0,8.0
 2023,div2,Williston State,willistonstatecollege,home,Madison,L,4-1,20230311_mqk3,12,1.0,0.0,1.0,0.0,1.0,3.0,4.0,2.0,0.5,4.0,7.0
 2023,div2,Williston State,willistonstatecollege,home,Midland University,L,8-5,20230225_dwqc,14,0.0,0.0,0.0,0.0,,4.0,8.0,3.0,0.375,9.0,7.0
 2023,div2,Williston State,willistonstatecollege,home,Midland University,L,8-7,20230225_029v,14,1.0,0.0,1.0,0.0,1.0,5.0,0.0,4.0,inf,3.0,11.0
@@ -6396,6 +6558,7 @@ season,njcaa_division,team,team_id,location,opponent,result,score,game_id,G,TC,P
 2023,div2,Williston State,willistonstatecollege,home,Pima,L,4-2,20230315_yggz,12,1.0,0.0,1.0,0.0,1.0,3.0,4.0,3.0,0.75,6.0,5.0
 2023,div2,Williston State,willistonstatecollege,home,Riverland,L,5-2,20230308_vpc3,15,0.0,0.0,1.0,0.0,1.0,3.0,5.0,5.0,1.0,4.0,5.0
 2023,div2,Williston State,willistonstatecollege,home,Riverland,W,2-1,20230308_cwsc,13,0.0,1.0,0.0,0.0,1.0,6.0,1.0,1.0,1.0,3.0,11.0
+2023,div2,Williston State,willistonstatecollege,home,Whalley Chiefs Post Grad,W,11-3,20230316_13sq,16,1.0,1.0,0.0,0.0,1.0,7.0,3.0,3.0,1.0,1.0,4.0
 2023,div3,Anoka-Ramsey,anokaramseycommunitycollege,home,Bismarck State,L,18-0,20230316_pdqh,11,1.0,0.0,1.0,0.0,1.0,14.0,18.0,14.0,0.778,9.0,8.0
 2023,div3,Anoka-Ramsey,anokaramseycommunitycollege,home,Bismarck State,L,6-2,20230316_2qad,10,1.0,0.0,1.0,0.0,1.0,4.0,6.0,5.0,0.833,6.0,5.0
 2023,div3,Atlantic Cape,atlanticcapecommunitycollege,home,Delaware Tech,L,15-1,20230219_mocf,16,1.0,0.0,1.0,0.0,1.0,10.0,14.0,11.0,0.786,5.0,1.0
@@ -6411,32 +6574,40 @@ season,njcaa_division,team,team_id,location,opponent,result,score,game_id,G,TC,P
 2023,div3,Atlantic Cape,atlanticcapecommunitycollege,home,USC Lancaster,L,4-1,20230218_9pdj,4,0.0,0.0,0.0,0.0,,0.0,0.0,0.0,,0.0,0.0
 2023,div3,Bergen,bergencommunitycollege,home,CCBC Dundalk,W,7-5,20230226_xdjf,11,1.0,1.0,0.0,1.0,0.5,6.0,5.0,4.0,0.8,0.0,6.0
 2023,div3,Bergen,bergencommunitycollege,home,CCBC Dundalk,W,8-5,20230226_88cg,14,1.0,1.0,0.0,0.0,1.0,5.0,5.0,3.0,0.6,6.0,9.0
+2023,div3,Bergen,bergencommunitycollege,home,Central Maine community college,W,15-2,20230315_0mnq,15,1.0,1.0,0.0,0.0,1.0,5.0,2.0,2.0,1.0,7.0,6.0
+2023,div3,Bergen,bergencommunitycollege,home,Garrett,L,2-1,20230313_9o7n,11,1.0,0.0,1.0,0.0,1.0,4.0,2.0,2.0,1.0,2.0,11.0
 2023,div3,Bergen,bergencommunitycollege,home,Mohawk Valley,L,7-5,20230312_m8fn,15,1.0,0.0,0.0,0.0,,6.0,7.0,5.0,0.714,5.0,4.0
 2023,div3,Bergen,bergencommunitycollege,home,Mohawk Valley,W,13-0,20230312_txfr,16,1.0,1.0,0.0,0.0,1.0,3.0,0.0,0.0,,2.0,2.0
+2023,div3,Bergen,bergencommunitycollege,home,Montgomery,L,5-0,20230314_bosh,11,1.0,0.0,1.0,0.0,1.0,6.0,5.0,0.0,0.0,1.0,7.0
+2023,div3,Bergen,bergencommunitycollege,home,North Central Missouri,L,15-3,20230314_v5ef,13,1.0,0.0,1.0,0.0,1.0,11.0,15.0,11.0,0.733,9.0,8.0
 2023,div3,Bergen,bergencommunitycollege,home,RCSJ Cumberland,L,8-2,20230305_et22,16,1.0,0.0,1.0,0.0,1.0,7.0,8.0,5.0,0.625,6.0,5.0
 2023,div3,Bergen,bergencommunitycollege,home,RCSJ Cumberland,W,9-7,20230305_6dn7,12,1.0,1.0,0.0,1.0,0.5,15.0,7.0,6.0,0.857,3.0,7.0
 2023,div3,Bronx,bronxcommunitycollege,home,Southern Maryland,L,10-0,20230311_cfgb,11,0.0,0.0,1.0,0.0,1.0,11.0,10.0,9.0,0.9,5.0,4.0
 2023,div3,Bronx,bronxcommunitycollege,home,Southern Maryland,L,17-1,20230311_1ogl,13,0.0,0.0,1.0,0.0,1.0,10.0,17.0,12.0,0.706,9.0,3.0
 2023,div3,Brookdale,brookdalecommunitycollege,home,Camden County,W,17-4,20230306_37vy,17,1.0,1.0,0.0,0.0,1.0,6.0,4.0,3.0,0.75,7.0,7.0
 2023,div3,Brookdale,brookdalecommunitycollege,home,Central Maine community college,W,13-9,20230315_dt4c,14,1.0,1.0,0.0,1.0,0.5,10.0,9.0,9.0,1.0,6.0,4.0
+2023,div3,Brookdale,brookdalecommunitycollege,home,Clark State,W,10-0,20230317_wml9,13,1.0,1.0,0.0,0.0,1.0,4.0,0.0,0.0,,1.0,4.0
 2023,div3,Brookdale,brookdalecommunitycollege,home,Clark State,W,4-3,20230314_e4s8,14,1.0,1.0,0.0,1.0,0.5,8.0,3.0,3.0,1.0,3.0,5.0
 2023,div3,Brookdale,brookdalecommunitycollege,home,Finger Lakes,L,12-1,20230315_2nqc,16,1.0,0.0,1.0,0.0,1.0,11.0,13.0,13.0,1.0,5.0,3.0
 2023,div3,Brookdale,brookdalecommunitycollege,home,Garrett,W,5-1,20230316_iyea,10,1.0,1.0,0.0,0.0,1.0,3.0,1.0,0.0,0.0,6.0,7.0
 2023,div3,Brookdale,brookdalecommunitycollege,home,Holyoke,W,18-0,20230310_zdjc,16,1.0,1.0,0.0,0.0,1.0,3.0,1.0,1.0,1.0,6.0,10.0
 2023,div3,Brookdale,brookdalecommunitycollege,home,Kingsborough,W,12-3,20230227_jic8,15,1.0,1.0,0.0,0.0,1.0,2.0,2.0,0.0,0.0,3.0,15.0
-2023,div3,Brookdale,brookdalecommunitycollege,home,Montgomery,W,14-0,20230316_eho1,14,1.0,1.0,0.0,0.0,1.0,7.0,4.0,1.0,0.25,0.0,1.0
+2023,div3,Brookdale,brookdalecommunitycollege,home,Montgomery,W,14-4,20230316_eho1,14,1.0,1.0,0.0,0.0,1.0,7.0,4.0,1.0,0.25,0.0,1.0
 2023,div3,Brookdale,brookdalecommunitycollege,home,Morris,W,10-6,20230308_2n7z,14,1.0,1.0,0.0,0.0,1.0,6.0,6.0,4.0,0.667,5.0,15.0
 2023,div3,Brookdale,brookdalecommunitycollege,home,North Central Missouri,L,4-0,20230312_w3ao,13,1.0,0.0,1.0,0.0,1.0,8.0,4.0,2.0,0.5,2.0,4.0
 2023,div3,Brookdale,brookdalecommunitycollege,home,North Central Missouri,W,4-0,20230312_38c9,10,1.0,1.0,0.0,0.0,1.0,4.0,0.0,0.0,,1.0,10.0
 2023,div3,Brookdale,brookdalecommunitycollege,home,Rhode Island,W,16-0,20230313_in5c,14,1.0,1.0,0.0,0.0,1.0,4.0,0.0,0.0,,1.0,16.0
 2023,div3,Brookdale,brookdalecommunitycollege,home,Rhode Island,W,7-0,20230313_olqv,11,1.0,1.0,0.0,0.0,1.0,5.0,0.0,0.0,,1.0,16.0
 2023,div3,Brookdale,brookdalecommunitycollege,home,Sullivan County,W,11-3,20230314_0hje,13,1.0,1.0,0.0,0.0,1.0,6.0,3.0,0.0,0.0,1.0,7.0
+2023,div3,CC of Allegheny County,ccofalleghenycounty,home,Allegany Maryland,L,13-7,20230316_ux1t,12,0.0,0.0,1.0,0.0,1.0,11.0,12.0,12.0,1.0,10.0,6.0
+2023,div3,CC of Allegheny County,ccofalleghenycounty,home,Allegany Maryland,W,15-9,20230316_scyg,11,0.0,1.0,0.0,0.0,1.0,11.0,9.0,8.0,0.889,5.0,8.0
 2023,div3,CC of Allegheny County,ccofalleghenycounty,home,PSU New Kensington,L,6-5,20230226_koer,11,0.0,0.0,0.0,0.0,,4.0,3.0,3.0,1.0,6.0,7.0
 2023,div3,CC of Allegheny County,ccofalleghenycounty,home,PSU New Kensington,W,6-3,20230226_nuro,1,0.0,0.0,0.0,0.0,,0.0,0.0,0.0,,0.0,0.0
 2023,div3,Caldwell Tech,caldwellcommunitycollegetechnicali,home,Camp,W,12-4,20230304_hr8g,11,1.0,1.0,0.0,0.0,1.0,7.0,4.0,2.0,0.5,1.0,6.0
 2023,div3,Caldwell Tech,caldwellcommunitycollegetechnicali,home,Camp,W,17-4,20230305_bxm7,12,1.0,1.0,0.0,0.0,1.0,4.0,4.0,2.0,0.5,3.0,4.0
 2023,div3,Caldwell Tech,caldwellcommunitycollegetechnicali,home,Camp,W,19-8,20230304_nrlp,14,1.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,,0.0,0.0
 2023,div3,Caldwell Tech,caldwellcommunitycollegetechnicali,home,Catawba Valley,W,14-8,20230211_rjsa,13,1.0,1.0,0.0,0.0,1.0,8.0,7.0,3.0,0.429,7.0,7.0
+2023,div3,Caldwell Tech,caldwellcommunitycollegetechnicali,home,Catawba Valley,W,16-0,20230316_nqn5,10,1.0,1.0,0.0,0.0,1.0,2.0,0.0,0.0,,3.0,6.0
 2023,div3,Caldwell Tech,caldwellcommunitycollegetechnicali,home,Catawba Valley,W,17-4,20230210_yu28,11,1.0,1.0,0.0,0.0,1.0,6.0,4.0,4.0,1.0,3.0,6.0
 2023,div3,Caldwell Tech,caldwellcommunitycollegetechnicali,home,Cleveland,W,10-7,20230301_1qps,12,1.0,0.0,0.0,0.0,,9.0,7.0,7.0,1.0,6.0,4.0
 2023,div3,Caldwell Tech,caldwellcommunitycollegetechnicali,home,Cleveland,W,14-11,20230308_28ze,15,1.0,0.0,0.0,0.0,,14.0,11.0,9.0,0.818,6.0,6.0
@@ -6446,8 +6617,8 @@ season,njcaa_division,team,team_id,location,opponent,result,score,game_id,G,TC,P
 2023,div3,Caldwell Tech,caldwellcommunitycollegetechnicali,home,Gaston College,L,7-0,20230215_dnix,13,1.0,0.0,1.0,0.0,1.0,10.0,7.0,7.0,1.0,3.0,3.0
 2023,div3,Caldwell Tech,caldwellcommunitycollegetechnicali,home,MontreJV,W,11-1,20230220_sh9v,12,1.0,1.0,0.0,0.0,1.0,2.0,1.0,1.0,1.0,4.0,13.0
 2023,div3,Caldwell Tech,caldwellcommunitycollegetechnicali,home,MontreJV,W,18-1,20230220_jirn,14,1.0,1.0,0.0,0.0,1.0,2.0,1.0,0.0,0.0,3.0,7.0
-2023,div3,Caldwell Tech,caldwellcommunitycollegetechnicali,home,Patrick & Henry,W,9-1,20230314_fix2,12,1.0,0.0,0.0,0.0,,3.0,1.0,1.0,1.0,3.0,8.0
-2023,div3,Caldwell Tech,caldwellcommunitycollegetechnicali,home,Rockingham,W,11-4,20230311_go44,12,1.0,0.0,0.0,0.0,,4.0,4.0,2.0,0.5,3.0,6.0
+2023,div3,Caldwell Tech,caldwellcommunitycollegetechnicali,home,Patrick & Henry,W,9-1,20230314_fix2,12,1.0,1.0,0.0,0.0,1.0,3.0,1.0,1.0,1.0,3.0,8.0
+2023,div3,Caldwell Tech,caldwellcommunitycollegetechnicali,home,Rockingham,W,11-4,20230311_go44,12,1.0,1.0,0.0,0.0,1.0,4.0,4.0,2.0,0.5,3.0,6.0
 2023,div3,Caldwell Tech,caldwellcommunitycollegetechnicali,home,Rockingham,W,14-1,20230311_aeb4,13,1.0,1.0,0.0,0.0,1.0,4.0,1.0,0.0,0.0,3.0,7.0
 2023,div3,Caldwell Tech,caldwellcommunitycollegetechnicali,home,Surry,W,10-4,20230224_exyb,11,1.0,1.0,0.0,1.0,0.5,8.0,6.0,4.0,0.667,4.0,14.0
 2023,div3,Caldwell Tech,caldwellcommunitycollegetechnicali,home,Surry,W,8-5,20230224_s6eq,11,1.0,1.0,0.0,1.0,0.5,7.0,5.0,3.0,0.6,3.0,7.0
@@ -6482,6 +6653,7 @@ season,njcaa_division,team,team_id,location,opponent,result,score,game_id,G,TC,P
 2023,div3,Cayuga,cayugacommunitycollege,home,CCBC Catonsville,W,6-5,20230311_t4gw,12,1.0,1.0,0.0,0.0,1.0,8.0,5.0,3.0,0.6,3.0,2.0
 2023,div3,Cayuga,cayugacommunitycollege,home,CCBC Essex,W,7-3,20230312_zp5s,12,1.0,1.0,0.0,0.0,1.0,8.0,3.0,3.0,1.0,1.0,9.0
 2023,div3,Cayuga,cayugacommunitycollege,home,CCBC Essex,W,8-2,20230312_tq25,13,1.0,1.0,0.0,0.0,1.0,5.0,2.0,2.0,1.0,3.0,6.0
+2023,div3,Cayuga,cayugacommunitycollege,home,Monroe CC,L,11-3,20230317_fyqm,16,1.0,0.0,1.0,0.0,1.0,12.0,11.0,10.0,0.909,6.0,3.0
 2023,div3,Central Lakes,centrallakescollegebrainerd,home,Bismarck State,L,16-5,20230312_bbki,15,1.0,0.0,1.0,0.0,1.0,11.0,16.0,16.0,1.0,8.0,5.0
 2023,div3,Central Lakes,centrallakescollegebrainerd,home,California Miramar University,W,11-0,20230312_ovav,12,1.0,1.0,0.0,1.0,0.5,3.0,0.0,0.0,,0.0,5.0
 2023,div3,Central Lakes,centrallakescollegebrainerd,home,Lake Region State,W,10-2,20230314_yp6y,13,1.0,1.0,0.0,1.0,0.5,6.0,2.0,1.0,0.5,5.0,8.0
@@ -6585,6 +6757,7 @@ season,njcaa_division,team,team_id,location,opponent,result,score,game_id,G,TC,P
 2023,div3,Dallas College - Mountain View,dallascollegemountainview,home,John Melvin University,L,8-7,20230306_znrh,14,0.0,0.0,0.0,0.0,,10.0,8.0,7.0,0.875,3.0,4.0
 2023,div3,Dallas College - Mountain View,dallascollegemountainview,home,Louisiana Christian University,W,3-2,20230306_n3l2,13,0.0,0.0,0.0,0.0,,1.0,2.0,2.0,1.0,3.0,5.0
 2023,div3,Dallas College - Mountain View,dallascollegemountainview,home,North Arkansas,L,9-1,20230213_6jq0,14,0.0,0.0,0.0,0.0,,11.0,9.0,7.0,0.778,8.0,5.0
+2023,div3,Dallas College - Mountain View,dallascollegemountainview,home,Olive-Harvey,W,5-0,20230317_o6s0,11,0.0,0.0,0.0,0.0,,5.0,0.0,0.0,,6.0,8.0
 2023,div3,Dallas College - Mountain View,dallascollegemountainview,home,Rust College,L,15-1,20230210_o3yw,15,0.0,0.0,0.0,0.0,,7.0,15.0,10.0,0.667,14.0,4.0
 2023,div3,Dallas College - Mountain View,dallascollegemountainview,home,Rust College,W,10-2,20230211_jnoi,13,0.0,0.0,0.0,0.0,,4.0,2.0,1.0,0.5,2.0,8.0
 2023,div3,Dallas College - Mountain View,dallascollegemountainview,home,SAGU JV,W,12-11,20230220_y8q0,17,0.0,0.0,0.0,0.0,,13.0,11.0,6.0,0.545,7.0,10.0
@@ -6639,6 +6812,8 @@ season,njcaa_division,team,team_id,location,opponent,result,score,game_id,G,TC,P
 2023,div3,DuPage,collegeofdupage,home,Penn State DuBois,W,23-0,20230305_buvb,17,1.0,1.0,0.0,0.0,1.0,6.0,0.0,0.0,,4.0,2.0
 2023,div3,DuPage,collegeofdupage,home,Penn State Schuylkill,W,7-1,20230309_bcm4,12,1.0,1.0,0.0,0.0,1.0,4.0,1.0,1.0,1.0,1.0,9.0
 2023,div3,DuPage,collegeofdupage,home,Rochester,W,13-3,20230308_5xef,12,1.0,1.0,0.0,0.0,1.0,9.0,3.0,3.0,1.0,3.0,3.0
+2023,div3,Erie,eriecommunitycollege,home,CCBC Catonsville,L,14-6,20230317_ktjc,16,1.0,0.0,1.0,0.0,1.0,10.0,14.0,12.0,0.857,8.0,5.0
+2023,div3,Erie,eriecommunitycollege,home,CCBC Catonsville,L,9-8,20230317_lzs3,14,1.0,0.0,0.0,0.0,,11.0,9.0,9.0,1.0,11.0,8.0
 2023,div3,Erie,eriecommunitycollege,home,Century,L,4-3,20230308_5wn7,13,1.0,0.0,1.0,0.0,1.0,4.0,4.0,0.0,0.0,1.0,7.0
 2023,div3,Erie,eriecommunitycollege,home,Century,L,7-3,20230308_klz9,15,1.0,0.0,1.0,0.0,1.0,6.0,7.0,1.0,0.143,3.0,4.0
 2023,div3,Erie,eriecommunitycollege,home,Frederick,L,8-2,20230303_dk6k,14,1.0,0.0,1.0,0.0,1.0,10.0,8.0,0.0,0.0,3.0,5.0
@@ -6653,7 +6828,7 @@ season,njcaa_division,team,team_id,location,opponent,result,score,game_id,G,TC,P
 2023,div3,Finger Lakes,fingerlakescommunitycollege,home,Cecil,W,7-3,20230310_uxip,14,1.0,1.0,0.0,0.0,1.0,5.0,3.0,2.0,0.667,2.0,7.0
 2023,div3,Finger Lakes,fingerlakescommunitycollege,home,Clark State,W,18-14,20230314_a98u,16,0.0,1.0,0.0,0.0,1.0,14.0,14.0,14.0,1.0,7.0,11.0
 2023,div3,Finger Lakes,fingerlakescommunitycollege,home,Middlesex College,L,6-1,20230312_eqzp,13,1.0,0.0,1.0,0.0,1.0,5.0,6.0,3.0,0.5,3.0,8.0
-2023,div3,Finger Lakes,fingerlakescommunitycollege,home,Montgomery County,L,4-2,20230313_fozs,15,1.0,0.0,1.0,0.0,1.0,2.0,3.0,1.0,0.333,4.0,6.0
+2023,div3,Finger Lakes,fingerlakescommunitycollege,home,Montgomery County,L,4-2,20230313_fozs,14,1.0,0.0,1.0,0.0,1.0,2.0,3.0,1.0,0.333,4.0,6.0
 2023,div3,Finger Lakes,fingerlakescommunitycollege,home,Montgomery County,W,11-5,20230313_u48f,13,1.0,1.0,0.0,0.0,1.0,5.0,2.0,2.0,1.0,7.0,10.0
 2023,div3,Finger Lakes,fingerlakescommunitycollege,home,Susquehanna University JV,W,2-1,20230314_goqn,14,1.0,1.0,0.0,1.0,0.5,5.0,1.0,0.0,0.0,3.0,9.0
 2023,div3,Finger Lakes,fingerlakescommunitycollege,home,Virginia Peninsula,W,12-3,20230316_49dq,15,1.0,1.0,0.0,0.0,1.0,7.0,3.0,3.0,1.0,2.0,8.0
@@ -6661,17 +6836,18 @@ season,njcaa_division,team,team_id,location,opponent,result,score,game_id,G,TC,P
 2023,div3,Finger Lakes,fingerlakescommunitycollege,home,Westmoreland,W,16-0,20230305_5fj6,15,1.0,1.0,0.0,0.0,1.0,2.0,0.0,0.0,,0.0,0.0
 2023,div3,Finger Lakes,fingerlakescommunitycollege,home,Westmoreland,W,4-1,20230304_rc8r,14,1.0,1.0,0.0,0.0,1.0,6.0,1.0,1.0,1.0,6.0,6.0
 2023,div3,Finger Lakes,fingerlakescommunitycollege,home,Westmoreland,W,8-3,20230304_ss67,16,1.0,1.0,0.0,0.0,1.0,8.0,3.0,3.0,1.0,3.0,10.0
-2023,div3,Genesee,geneseecommunitycollege,home,Hagerstown,W,10-4,20230315_9snv,13,0.0,1.0,0.0,0.0,1.0,7.0,4.0,4.0,1.0,5.0,7.0
-2023,div3,Genesee,geneseecommunitycollege,home,Hagerstown,W,6-4,20230315_xlwz,10,0.0,1.0,0.0,0.0,1.0,4.0,4.0,3.0,0.75,4.0,5.0
-2023,div3,Genesee,geneseecommunitycollege,home,Suffolk County,W,11-0,20230316_pxvo,12,0.0,0.0,0.0,0.0,,1.0,0.0,0.0,,4.0,6.0
-2023,div3,Genesee,geneseecommunitycollege,home,Suffolk County,W,7-3,20230316_ohc3,9,0.0,1.0,0.0,0.0,1.0,3.0,3.0,1.0,0.333,3.0,8.0
+2023,div3,Genesee,geneseecommunitycollege,home,Hagerstown,W,10-4,20230315_9snv,14,0.0,1.0,0.0,0.0,1.0,7.0,4.0,4.0,1.0,5.0,7.0
+2023,div3,Genesee,geneseecommunitycollege,home,Hagerstown,W,6-4,20230315_xlwz,11,0.0,1.0,0.0,0.0,1.0,4.0,4.0,3.0,0.75,4.0,5.0
+2023,div3,Genesee,geneseecommunitycollege,home,Suffolk County,W,11-0,20230316_pxvo,13,0.0,0.0,0.0,0.0,,1.0,0.0,0.0,,4.0,6.0
+2023,div3,Genesee,geneseecommunitycollege,home,Suffolk County,W,11-8,20230317_bb84,13,0.0,1.0,0.0,0.0,1.0,8.0,8.0,6.0,0.75,3.0,3.0
+2023,div3,Genesee,geneseecommunitycollege,home,Suffolk County,W,7-3,20230316_ohc3,10,0.0,1.0,0.0,0.0,1.0,3.0,3.0,1.0,0.333,3.0,8.0
 2023,div3,Harper,harpercollege,home,Kankakee,L,7-5,20230304_0w2k,11,1.0,0.0,1.0,0.0,1.0,7.0,7.0,7.0,1.0,3.0,4.0
 2023,div3,Harper,harpercollege,home,Lake County,L,9-4,20230315_6lwa,15,1.0,0.0,1.0,0.0,1.0,13.0,9.0,6.0,0.667,4.0,8.0
 2023,div3,Harper,harpercollege,home,Parkland,L,13-0,20230305_1y1j,16,1.0,0.0,1.0,0.0,1.0,7.0,13.0,12.0,0.923,7.0,1.0
 2023,div3,Harper,harpercollege,home,Parkland,L,13-5,20230304_4b7z,15,1.0,0.0,0.0,0.0,,7.0,3.0,3.0,1.0,0.0,4.0
 2023,div3,Harper,harpercollege,home,Southwestern Illinois,L,12-10,20230305_xudg,12,1.0,0.0,1.0,0.0,1.0,3.0,12.0,6.0,0.5,9.0,7.0
 2023,div3,Herkimer,herkimercollege,home,Oakton,W,3-2,20230312_abt3,14,0.0,1.0,0.0,0.0,1.0,5.0,2.0,2.0,1.0,1.0,12.0
-2023,div3,Herkimer,herkimercollege,home,Oakton,W,9-1,20230312_dkal,15,0.0,1.0,0.0,0.0,1.0,2.0,1.0,0.0,0.0,2.0,14.0
+2023,div3,Herkimer,herkimercollege,home,Oakton,W,9-1,20230312_dkal,13,0.0,1.0,0.0,0.0,1.0,2.0,1.0,0.0,0.0,2.0,14.0
 2023,div3,Herkimer,herkimercollege,home,Rockland,W,13-2,20230313_t95d,15,0.0,1.0,0.0,0.0,1.0,4.0,2.0,0.0,0.0,1.0,4.0
 2023,div3,Herkimer,herkimercollege,home,Rockland,W,8-6,20230313_pidx,12,0.0,1.0,0.0,0.0,1.0,12.0,6.0,6.0,1.0,2.0,6.0
 2023,div3,Holyoke,holyokecommunitycollege,home,Minnesota State,L,15-11,20230314_372h,12,0.0,0.0,0.0,0.0,,10.0,15.0,11.0,0.733,11.0,8.0
@@ -6689,9 +6865,11 @@ season,njcaa_division,team,team_id,location,opponent,result,score,game_id,G,TC,P
 2023,div3,Joliet,jolietjuniorcollege,home,Angelina,L,10-5,20230311_mf2s,12,1.0,0.0,1.0,0.0,1.0,8.0,10.0,10.0,1.0,4.0,3.0
 2023,div3,Joliet,jolietjuniorcollege,home,Angelina,L,5-0,20230311_01b8,12,1.0,0.0,1.0,0.0,1.0,10.0,5.0,5.0,1.0,2.0,2.0
 2023,div3,Joliet,jolietjuniorcollege,home,Austin College,L,10-8,20230313_6m04,22,1.0,0.0,0.0,0.0,,0.0,0.0,0.0,,0.0,0.0
+2023,div3,Joliet,jolietjuniorcollege,home,DFW Post Grad,W,9-1,20230317_3zmj,12,1.0,1.0,0.0,0.0,1.0,4.0,1.0,1.0,1.0,1.0,9.0
 2023,div3,Joliet,jolietjuniorcollege,home,Dallas College - Eastfield,L,11-3,20230314_obs9,11,1.0,0.0,1.0,0.0,1.0,12.0,11.0,11.0,1.0,5.0,3.0
 2023,div3,Joliet,jolietjuniorcollege,home,Dallas College - Eastfield,L,8-1,20230314_hoxy,11,1.0,0.0,1.0,0.0,1.0,6.0,8.0,8.0,1.0,5.0,6.0
 2023,div3,Joliet,jolietjuniorcollege,home,Illinois Valley,W,18-3,20230219_q87d,30,1.0,1.0,0.0,0.0,1.0,5.0,3.0,3.0,1.0,4.0,7.0
+2023,div3,Joliet,jolietjuniorcollege,home,Minnesota Post Grad,W,4-2,20230317_w51h,12,1.0,1.0,0.0,1.0,0.5,2.0,2.0,1.0,0.5,6.0,9.0
 2023,div3,Joliet,jolietjuniorcollege,home,Moraine Valley,W,9-6,20230307_qrgm,18,1.0,1.0,0.0,1.0,0.5,9.0,6.0,4.0,0.667,5.0,14.0
 2023,div3,Joliet,jolietjuniorcollege,home,Morton,W,10-7,20230224_88oh,13,1.0,1.0,0.0,1.0,0.5,10.0,7.0,6.0,0.857,2.0,11.0
 2023,div3,Joliet,jolietjuniorcollege,home,Olney Central,L,5-2,20230226_7bss,17,1.0,0.0,1.0,0.0,1.0,9.0,5.0,3.0,0.6,3.0,5.0
@@ -6774,12 +6952,29 @@ season,njcaa_division,team,team_id,location,opponent,result,score,game_id,G,TC,P
 2023,div3,Monroe College - Bronx,monroecollegebronx,home,Virginia Peninsula,L,6-5,20230218_judn,12,1.0,0.0,0.0,0.0,,7.0,6.0,6.0,1.0,3.0,7.0
 2023,div3,Monroe College - Bronx,monroecollegebronx,home,Virginia Peninsula,W,9-3,20230218_75pv,10,1.0,0.0,0.0,0.0,,3.0,3.0,2.0,0.667,0.0,7.0
 2023,div3,Montgomery County,montgomerycountycommunitycollegepa,home,Cairn University,W,13-1,20230224_8q8i,14,1.0,1.0,0.0,0.0,1.0,3.0,1.0,0.0,0.0,3.0,11.0
+2023,div3,Montgomery County,montgomerycountycommunitycollegepa,home,Central Maine community college,W,8-1,20230316_99y2,13,1.0,1.0,0.0,0.0,1.0,3.0,1.0,0.0,0.0,1.0,5.0
 2023,div3,Montgomery County,montgomerycountycommunitycollegepa,home,Central Penn College,W,11-5,20230305_8klr,15,1.0,1.0,0.0,0.0,1.0,3.0,5.0,3.0,0.6,2.0,6.0
-2023,div3,Montgomery County,montgomerycountycommunitycollegepa,home,Central Penn College,W,4-0,20230305_eoha,12,1.0,1.0,0.0,0.0,1.0,2.0,0.0,0.0,,3.0,9.0
+2023,div3,Montgomery County,montgomerycountycommunitycollegepa,home,Central Penn College,W,4-0,20230305_eoha,12,1.0,1.0,0.0,1.0,0.5,2.0,0.0,0.0,,3.0,9.0
+2023,div3,Montgomery County,montgomerycountycommunitycollegepa,home,Finger Lakes,L,11-5,20230313_u48f,14,1.0,0.0,1.0,0.0,1.0,6.0,11.0,8.0,0.727,11.0,4.0
+2023,div3,Montgomery County,montgomerycountycommunitycollegepa,home,Finger Lakes,W,4-2,20230313_fozs,12,1.0,1.0,0.0,1.0,0.5,4.0,2.0,0.0,0.0,1.0,7.0
+2023,div3,Montgomery County,montgomerycountycommunitycollegepa,home,Morris,W,7-3,20230314_up2i,9,1.0,1.0,0.0,0.0,1.0,3.0,3.0,2.0,0.667,4.0,5.0
 2023,div3,Montgomery County,montgomerycountycommunitycollegepa,home,Penn State Scranton,W,18-5,20230219_pw21,14,1.0,1.0,0.0,0.0,1.0,5.0,9.0,5.0,0.556,9.0,9.0
+2023,div3,Montgomery County,montgomerycountycommunitycollegepa,home,Rhode Island,L,18-8,20230315_yred,10,1.0,0.0,1.0,0.0,1.0,12.0,18.0,14.0,0.778,13.0,5.0
 2023,div3,Montgomery County,montgomerycountycommunitycollegepa,home,Sullivan County,L,6-1,20230312_ngry,12,1.0,0.0,1.0,0.0,1.0,5.0,6.0,2.0,0.333,3.0,3.0
+2023,div3,Montgomery County,montgomerycountycommunitycollegepa,home,Sullivan County,W,3-2,20230315_zk6v,10,1.0,1.0,0.0,0.0,1.0,6.0,2.0,0.0,0.0,1.0,10.0
+2023,div3,Nassau,nassaucommunitycollege,home,Garrett,W,9-6,20230312_0l8t,9,0.0,0.0,0.0,0.0,,0.0,0.0,0.0,,0.0,0.0
 2023,div3,Nassau,nassaucommunitycollege,home,Mercer County,L,6-5,20230311_cmwb,11,1.0,0.0,0.0,0.0,,6.0,6.0,4.0,0.667,8.0,7.0
 2023,div3,Nassau,nassaucommunitycollege,home,Middlesex College,W,6-1,20230311_iu4s,10,0.0,0.0,0.0,0.0,,5.0,1.0,0.0,0.0,3.0,4.0
+2023,div3,Nassau,nassaucommunitycollege,home,St. Joseph's University - Long Island,L,17-1,20230316_6flp,16,1.0,0.0,0.0,0.0,,22.0,17.0,7.0,0.412,12.0,7.0
+2023,div3,Niagara County,niagaracountycommunitycollege,home,Century,W,14-0,20230309_e83u,12,1.0,1.0,0.0,0.0,1.0,1.0,0.0,0.0,,0.0,5.0
+2023,div3,Niagara County,niagaracountycommunitycollege,home,Century,W,9-6,20230309_kcuf,12,1.0,1.0,0.0,0.0,1.0,7.0,6.0,5.0,0.833,7.0,5.0
+2023,div3,Niagara County,niagaracountycommunitycollege,home,Marian-Ancilla,W,8-3,20230308_q56t,11,1.0,1.0,0.0,0.0,1.0,5.0,3.0,3.0,1.0,0.0,12.0
+2023,div3,Niagara County,niagaracountycommunitycollege,home,Mid Michigan,W,6-1,20230308_p9h4,12,1.0,1.0,0.0,1.0,0.5,1.0,1.0,0.0,0.0,4.0,17.0
+2023,div3,Niagara County,niagaracountycommunitycollege,home,Northern Essex,W,9-8,20230310_djdq,14,1.0,1.0,0.0,1.0,0.5,4.0,5.0,6.0,1.2,7.0,14.0
+2023,div3,Niagara County,niagaracountycommunitycollege,home,Rockland,W,10-4,20230312_zrqy,13,1.0,0.0,0.0,0.0,,5.0,2.0,0.0,0.0,1.0,2.0
+2023,div3,Niagara County,niagaracountycommunitycollege,home,Rockland,W,5-1,20230312_gwmo,12,1.0,1.0,0.0,0.0,1.0,4.0,1.0,0.0,0.0,0.0,7.0
+2023,div3,Niagara County,niagaracountycommunitycollege,home,Waubonsee,L,3-2,20230314_zf8s,12,1.0,0.0,1.0,0.0,1.0,3.0,3.0,3.0,1.0,3.0,10.0
+2023,div3,Niagara County,niagaracountycommunitycollege,home,Waubonsee,W,8-2,20230314_p43o,12,1.0,1.0,0.0,0.0,1.0,2.0,2.0,2.0,1.0,3.0,8.0
 2023,div3,North Arkansas,northarkansascollege,home,Baptist Bible College JV,W,17-3,20230222_5mb4,19,1.0,1.0,0.0,0.0,1.0,5.0,3.0,2.0,0.667,3.0,11.0
 2023,div3,North Arkansas,northarkansascollege,home,Baptist Bible College JV,W,6-0,20230222_98cw,12,0.0,1.0,0.0,0.0,1.0,2.0,0.0,0.0,,2.0,15.0
 2023,div3,North Arkansas,northarkansascollege,home,Central Baptist College JV,W,13-0,20230313_y1c0,20,1.0,1.0,0.0,0.0,1.0,1.0,0.0,0.0,,4.0,11.0
@@ -6819,11 +7014,13 @@ season,njcaa_division,team,team_id,location,opponent,result,score,game_id,G,TC,P
 2023,div3,Northampton,northamptoncommunitycollege,home,Monroe CC,W,9-5,20230307_fxt6,16,1.0,1.0,0.0,0.0,1.0,6.0,5.0,1.0,0.2,2.0,4.0
 2023,div3,Northampton,northamptoncommunitycollege,home,Penn State - Dubois,W,4-3,20230305_9liy,12,1.0,1.0,0.0,0.0,1.0,6.0,3.0,3.0,1.0,4.0,7.0
 2023,div3,Northampton,northamptoncommunitycollege,home,Rochester,W,17-10,20230308_e94o,13,1.0,1.0,0.0,0.0,1.0,12.0,10.0,10.0,1.0,2.0,11.0
+2023,div3,Northampton,northamptoncommunitycollege,home,Salem,L,5-4,20230317_6tp1,11,1.0,0.0,1.0,0.0,1.0,8.0,5.0,1.0,0.2,7.0,13.0
 2023,div3,Northern Essex,northernessexcommunitycollege,home,"Bucks County, PA",L,14-6,20230312_7mwi,17,0.0,0.0,1.0,0.0,1.0,8.0,14.0,14.0,1.0,13.0,11.0
-2023,div3,Northern Essex,northernessexcommunitycollege,home,Heartland,L,11-5,20230311_cd8z,13,0.0,0.0,0.0,0.0,,7.0,11.0,4.0,0.364,7.0,1.0
-2023,div3,Northern Essex,northernessexcommunitycollege,home,Heartland,L,19-8,20230311_kstk,17,0.0,0.0,1.0,0.0,1.0,10.0,19.0,19.0,1.0,16.0,7.0
+2023,div3,Northern Essex,northernessexcommunitycollege,home,Heartland,L,11-5,20230311_cd8z,12,1.0,0.0,1.0,0.0,1.0,7.0,11.0,4.0,0.364,6.0,1.0
+2023,div3,Northern Essex,northernessexcommunitycollege,home,Heartland,L,19-8,20230311_kstk,15,1.0,0.0,1.0,0.0,1.0,10.0,19.0,19.0,1.0,16.0,7.0
+2023,div3,Northern Essex,northernessexcommunitycollege,home,Herkimer,W,14-3,20230317_e4ij,11,0.0,1.0,0.0,0.0,1.0,4.0,2.0,2.0,1.0,5.0,6.0
 2023,div3,Northern Essex,northernessexcommunitycollege,home,Minnesota North College - Itasca,W,14-2,20230310_fjpt,12,1.0,1.0,0.0,0.0,1.0,6.0,2.0,2.0,1.0,2.0,6.0
-2023,div3,Northern Essex,northernessexcommunitycollege,home,Niagara County,L,9-8,20230310_djdq,17,0.0,0.0,1.0,0.0,1.0,4.0,9.0,4.0,0.444,7.0,8.0
+2023,div3,Northern Essex,northernessexcommunitycollege,home,Niagara County,L,9-8,20230310_djdq,14,0.0,0.0,1.0,0.0,1.0,4.0,9.0,4.0,0.444,7.0,8.0
 2023,div3,Northern Essex,northernessexcommunitycollege,home,Oakton,W,6-0,20230314_29jq,11,0.0,1.0,0.0,0.0,1.0,3.0,0.0,0.0,,3.0,17.0
 2023,div3,Northern Essex,northernessexcommunitycollege,home,Oakton,W,6-1,20230314_8wui,12,0.0,1.0,0.0,1.0,0.5,0.0,1.0,1.0,1.0,11.0,11.0
 2023,div3,Northern Essex,northernessexcommunitycollege,home,SUNY Adirondack,W,4-1,20230312_d9bi,12,0.0,1.0,0.0,0.0,1.0,5.0,1.0,1.0,1.0,2.0,6.0
@@ -6835,13 +7032,15 @@ season,njcaa_division,team,team_id,location,opponent,result,score,game_id,G,TC,P
 2023,div3,Oakton,oaktoncommunitycollege,home,Herkimer,L,3-2,20230312_abt3,11,1.0,0.0,1.0,0.0,1.0,6.0,3.0,1.0,0.333,4.0,10.0
 2023,div3,Oakton,oaktoncommunitycollege,home,Herkimer,L,9-1,20230312_dkal,23,1.0,0.0,1.0,0.0,1.0,9.0,9.0,9.0,1.0,6.0,10.0
 2023,div3,Oakton,oaktoncommunitycollege,home,Minnesota North College - Itasca,W,11-1,20230311_e2ya,13,1.0,1.0,0.0,0.0,1.0,3.0,1.0,1.0,1.0,2.0,4.0
-2023,div3,Oakton,oaktoncommunitycollege,home,Northern Essex,L,6-0,20230314_29jq,14,1.0,0.0,1.0,0.0,1.0,7.0,6.0,5.0,0.833,8.0,9.0
+2023,div3,Oakton,oaktoncommunitycollege,home,Northern Essex,L,6-0,20230314_29jq,15,1.0,0.0,1.0,0.0,1.0,7.0,6.0,5.0,0.833,8.0,9.0
 2023,div3,Oakton,oaktoncommunitycollege,home,Northern Essex,L,6-1,20230314_8wui,15,1.0,0.0,1.0,0.0,1.0,5.0,6.0,3.0,0.5,7.0,9.0
 2023,div3,Oakton,oaktoncommunitycollege,home,RCSJ Cumberland,W,5-1,20230315_spbh,13,1.0,1.0,0.0,1.0,0.5,8.0,1.0,0.0,0.0,1.0,7.0
 2023,div3,Oakton,oaktoncommunitycollege,home,SUNY Adirondack,W,9-7,20230311_exof,17,1.0,1.0,0.0,1.0,0.5,9.0,7.0,5.0,0.714,6.0,8.0
+2023,div3,Ocean County,oceancountycollege,home,Clark State,L,4-2,20230317_310i,9,0.0,0.0,0.0,0.0,,0.0,0.0,0.0,,0.0,0.0
+2023,div3,Ocean County,oceancountycollege,home,Garrett,W,17-2,20230317_ubrq,13,0.0,1.0,0.0,0.0,1.0,2.0,2.0,1.0,0.5,3.0,4.0
 2023,div3,Ocean County,oceancountycollege,home,RCSJ Cumberland,W,13-8,20230309_pzzu,11,0.0,1.0,0.0,0.0,1.0,14.0,8.0,7.0,0.875,3.0,4.0
 2023,div3,Ocean County,oceancountycollege,home,Rhode Island,W,3-2,20230316_vsiz,10,0.0,1.0,0.0,0.0,1.0,4.0,2.0,2.0,1.0,0.0,0.0
-2023,div3,Ocean County,oceancountycollege,home,Rhode Island,W,4-3,20230316_6fyw,10,0.0,0.0,0.0,0.0,,4.0,3.0,2.0,0.667,4.0,5.0
+2023,div3,Ocean County,oceancountycollege,home,Rhode Island,W,4-3,20230316_6fyw,1,0.0,0.0,0.0,0.0,,4.0,3.0,2.0,0.667,4.0,5.0
 2023,div3,Owens,owenscommunitycollege,home,Alexandria Technical & Community College,L,10-6,20230308_k2wl,12,1.0,0.0,1.0,0.0,1.0,12.0,10.0,10.0,1.0,9.0,11.0
 2023,div3,Owens,owenscommunitycollege,home,Lake Michigan,W,7-6,20230310_sfbg,13,1.0,1.0,0.0,0.0,1.0,7.0,6.0,2.0,0.333,8.0,11.0
 2023,div3,Owens,owenscommunitycollege,home,Mid Michigan,W,16-2,20230305_ce7t,13,0.0,1.0,0.0,0.0,1.0,3.0,2.0,1.0,0.5,2.0,9.0
@@ -6868,6 +7067,7 @@ season,njcaa_division,team,team_id,location,opponent,result,score,game_id,G,TC,P
 2023,div3,RCSJ Cumberland,rowancollegeofsouthjerseycumberland,home,SUNY Adirondack,W,10-2,20230224_rqoc,12,0.0,1.0,0.0,0.0,1.0,4.0,2.0,1.0,0.5,5.0,13.0
 2023,div3,RCSJ Cumberland,rowancollegeofsouthjerseycumberland,home,SUNY Adirondack,W,7-6,20230223_jqog,21,0.0,1.0,0.0,0.0,1.0,5.0,6.0,5.0,0.833,8.0,10.0
 2023,div3,RCSJ Gloucester,rowancollegesouthjerseygloucester,home,Camden County,W,18-12,20230309_fzlq,17,1.0,1.0,0.0,0.0,1.0,2.0,12.0,11.0,0.917,18.0,11.0
+2023,div3,RCSJ Gloucester,rowancollegesouthjerseygloucester,home,Harford,W,13-2,20230317_9ysk,11,1.0,1.0,0.0,1.0,0.5,3.0,2.0,2.0,1.0,4.0,14.0
 2023,div3,RCSJ Gloucester,rowancollegesouthjerseygloucester,home,Lehigh Carbon,W,5-0,20230312_ludt,10,1.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,,1.0,12.0
 2023,div3,RCSJ Gloucester,rowancollegesouthjerseygloucester,home,Lehigh Carbon,W,7-3,20230312_batc,14,1.0,1.0,0.0,0.0,1.0,7.0,3.0,2.0,0.667,0.0,9.0
 2023,div3,RCSJ Gloucester,rowancollegesouthjerseygloucester,home,Louisburg,L,4-3,20230227_hy4a,14,1.0,0.0,1.0,0.0,1.0,5.0,4.0,2.0,0.5,4.0,5.0
@@ -6952,6 +7152,7 @@ season,njcaa_division,team,team_id,location,opponent,result,score,game_id,G,TC,P
 2023,div3,Salem,salemcommunitycollege,home,Danville Area,L,9-8,20230309_9aoh,14,0.0,0.0,1.0,0.0,1.0,10.0,9.0,7.0,0.778,1.0,3.0
 2023,div3,Salem,salemcommunitycollege,home,Henry Ford,W,9-8,20230311_acmm,13,0.0,0.0,0.0,0.0,,0.0,0.0,0.0,,0.0,0.0
 2023,div3,Salem,salemcommunitycollege,home,Manhattanville College,L,10-8,20230306_42nx,16,0.0,0.0,1.0,0.0,1.0,8.0,9.0,8.0,0.889,5.0,13.0
+2023,div3,Salem,salemcommunitycollege,home,Northampton,W,5-4,20230317_6tp1,13,0.0,1.0,0.0,0.0,1.0,10.0,4.0,4.0,1.0,1.0,5.0
 2023,div3,Salem,salemcommunitycollege,home,Penn State DuBois,W,8-7,20230306_x3b8,14,0.0,1.0,0.0,0.0,1.0,11.0,7.0,6.0,0.857,4.0,7.0
 2023,div3,Salem,salemcommunitycollege,home,Penn State DuBois,W,8-7,20230307_rftz,11,0.0,1.0,0.0,0.0,1.0,6.0,8.0,8.0,1.0,5.0,4.0
 2023,div3,Salem,salemcommunitycollege,home,Penn State Hazleton,W,7-2,20230309_jq1b,17,0.0,1.0,0.0,0.0,1.0,1.0,2.0,1.0,0.5,5.0,10.0
@@ -6984,6 +7185,7 @@ season,njcaa_division,team,team_id,location,opponent,result,score,game_id,G,TC,P
 2023,div3,Surry,surrycommunitycollege,home,Southwest Virginia,L,5-2,20230222_01bz,18,0.0,0.0,1.0,0.0,1.0,4.0,5.0,4.0,0.8,7.0,8.0
 2023,div3,Surry,surrycommunitycollege,home,Southwest Virginia,W,4-2,20230222_mmnf,12,0.0,1.0,0.0,0.0,1.0,5.0,1.0,1.0,1.0,4.0,5.0
 2023,div3,Surry,surrycommunitycollege,home,USC Lancaster,L,19-3,20230315_1jy7,25,0.0,0.0,1.0,0.0,1.0,11.0,19.0,10.0,0.526,8.0,5.0
+2023,div3,Terra State,terrastate,home,Bluffton JV's,L,12-4,20230316_50np,15,0.0,0.0,1.0,0.0,1.0,10.0,12.0,0.0,0.0,5.0,4.0
 2023,div3,Terra State,terrastate,home,Clark State,L,5-0,20230304_bpmz,13,1.0,0.0,1.0,0.0,1.0,6.0,5.0,4.0,0.8,7.0,5.0
 2023,div3,Terra State,terrastate,home,Clark State,L,7-3,20230305_2jk6,12,0.0,0.0,0.0,0.0,,6.0,7.0,4.0,0.571,5.0,3.0
 2023,div3,Terra State,terrastate,home,Clark State,L,9-5,20230304_9ch6,12,0.0,0.0,1.0,0.0,1.0,4.0,9.0,4.0,0.444,3.0,7.0
@@ -7015,14 +7217,17 @@ season,njcaa_division,team,team_id,location,opponent,result,score,game_id,G,TC,P
 2023,div3,Virginia Peninsula Community College,virginiapeninsulacommunitycollege,home,Rockingham,W,10-7,20230305_g334,14,1.0,1.0,0.0,0.0,1.0,10.0,4.0,4.0,1.0,4.0,8.0
 2023,div3,Virginia Peninsula Community College,virginiapeninsulacommunitycollege,home,William and Mary Club,W,12-4,20230204_p26y,12,1.0,1.0,0.0,0.0,1.0,3.0,4.0,1.0,0.25,6.0,5.0
 2023,div3,Virginia Peninsula Community College,virginiapeninsulacommunitycollege,home,William and Mary Club,W,15-7,20230204_j3ck,18,1.0,0.0,0.0,0.0,,3.0,7.0,6.0,0.857,10.0,7.0
-2023,div3,Waubonsee,waubonseecommunitycollege,home,Coe College (IA) JV,W,5-3,20230311_avtj,14,1.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,,0.0,0.0
+2023,div3,Waubonsee,waubonseecommunitycollege,home,Coe College (IA) JV,W,5-3,20230311_avtj,13,1.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,,0.0,0.0
 2023,div3,Waubonsee,waubonseecommunitycollege,home,Heartland,L,6-5,20230312_hjqs,14,1.0,0.0,1.0,0.0,1.0,11.0,6.0,5.0,0.833,4.0,8.0
+2023,div3,Waubonsee,waubonseecommunitycollege,home,Herkimer,L,6-4,20230315_n627,13,1.0,0.0,0.0,0.0,,7.0,6.0,5.0,0.833,4.0,8.0
+2023,div3,Waubonsee,waubonseecommunitycollege,home,Herkimer,W,11-5,20230315_a5sd,14,1.0,0.0,0.0,0.0,,3.0,5.0,5.0,1.0,4.0,4.0
 2023,div3,Waubonsee,waubonseecommunitycollege,home,Marian-Ancilla,W,15-1,20230311_20ql,18,1.0,1.0,0.0,0.0,1.0,3.0,1.0,1.0,1.0,5.0,7.0
-2023,div3,Waubonsee,waubonseecommunitycollege,home,Niagara County,L,8-2,20230314_p43o,13,1.0,0.0,0.0,0.0,,12.0,8.0,7.0,0.875,3.0,2.0
+2023,div3,Waubonsee,waubonseecommunitycollege,home,Niagara County,L,8-2,20230314_p43o,12,1.0,0.0,0.0,0.0,,12.0,8.0,7.0,0.875,3.0,2.0
+2023,div3,Waubonsee,waubonseecommunitycollege,home,Niagara County,W,3-2,20230314_zf8s,12,1.0,1.0,0.0,0.0,1.0,5.0,2.0,2.0,1.0,4.0,8.0
 2023,div3,Waubonsee,waubonseecommunitycollege,home,Ontario Royals College Prep,L,9-3,20230310_xnsz,14,1.0,0.0,0.0,0.0,,6.0,9.0,9.0,1.0,10.0,7.0
 2023,div3,Waubonsee,waubonseecommunitycollege,home,Ontario Royals College Prep,W,18-5,20230312_qdqj,16,1.0,0.0,0.0,0.0,,5.0,5.0,4.0,0.8,6.0,7.0
-2023,div3,Waubonsee,waubonseecommunitycollege,home,Triton,L,2-1,20230306_ym20,16,1.0,0.0,0.0,0.0,,5.0,2.0,1.0,0.5,4.0,4.0
-2023,div3,Waubonsee,waubonseecommunitycollege,home,Triton,L,5-2,20230306_6r7o,11,1.0,0.0,0.0,0.0,,3.0,5.0,1.0,0.2,3.0,4.0
+2023,div3,Waubonsee,waubonseecommunitycollege,home,Triton,L,2-1,20230306_ym20,13,1.0,0.0,1.0,0.0,1.0,5.0,2.0,1.0,0.5,4.0,4.0
+2023,div3,Waubonsee,waubonseecommunitycollege,home,Triton,L,5-2,20230306_6r7o,11,1.0,0.0,1.0,0.0,1.0,3.0,5.0,1.0,0.2,3.0,4.0
 2023,div3,Western Tech,westerntechnicalcollege,home,Bryant & Stratton College (WI),L,11-1,20230302_rijv,13,1.0,0.0,1.0,0.0,1.0,6.0,11.0,10.0,0.909,13.0,3.0
 2023,div3,Western Tech,westerntechnicalcollege,home,Jackson,L,8-7,20230304_2jiy,14,1.0,0.0,1.0,0.0,1.0,7.0,8.0,5.0,0.625,6.0,2.0
 2023,div3,Western Tech,westerntechnicalcollege,home,Lincoln Land,L,11-1,20230304_bt89,14,0.0,0.0,0.0,0.0,,7.0,11.0,11.0,1.0,10.0,7.0
