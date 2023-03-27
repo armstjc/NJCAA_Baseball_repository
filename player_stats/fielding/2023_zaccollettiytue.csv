@@ -1,9 +1,23 @@
 date,location,opponent,result,score,team_score,opp_score,game_score_diff,game_win_loss,game_id,TC,PO,A,E,FPCT,DP,SBA,RCS,RCS_PCT,PB,CI,season,njcaa_season,njcaa_division,team,team_id,player_id,player_name
-Jan 28,home,Western Texas,W,9-5,9,5,4,win,20230128_tbyy,1,1,0,0,4.0,5,4,4,9.00,1,5,2023,2022-23,div1,Cisco,ciscocollege,zaccollettiytue,Zac Colletti
-Feb 5,home,Dallas College - Brookhaven,W,11-3,11,3,8,win,20230205_nels,1,1,0,0,4.2,3,3,2,3.86,3,6,2023,2022-23,div1,Cisco,ciscocollege,zaccollettiytue,Zac Colletti
-Feb 11,home,Frank Phillips,W,10-4,10,4,6,win,20230211_6eab,1,0,0,0,0.2,2,4,4,54.00,5,1,2023,2022-23,div1,Cisco,ciscocollege,zaccollettiytue,Zac Colletti
-Feb 15,home,Western Texas,W,21-2,21,2,19,win,20230215_7cfu,1,1,0,0,2.0,5,2,2,9.00,3,2,2023,2022-23,div1,Cisco,ciscocollege,zaccollettiytue,Zac Colletti
-Mar 1,home,Clarendon,W,6-5,6,5,1,win,20230301_81ol,1,0,0,0,5.0,5,5,4,7.20,2,3,2023,2022-23,div1,Cisco,ciscocollege,zaccollettiytue,Zac Colletti
-Mar 8,home,Temple,L,15-5,15,5,10,win,20230308_jr4z,1,0,1,0,2.1,4,7,5,19.29,5,1,2023,2022-23,div1,Cisco,ciscocollege,zaccollettiytue,Zac Colletti
-Mar 17,home,Dallas College - North Lake,W,9-6,9,6,3,win,20230317_15mi,1,0,0,0,0.1,4,4,4,108.00,1,0,2023,2022-23,div1,Cisco,ciscocollege,zaccollettiytue,Zac Colletti
-Mar 22,home,Grayson,L,11-1,11,1,10,win,20230322_b91d,1,0,1,0,4.2,6,8,8,15.43,6,6,2023,2022-23,div1,Cisco,ciscocollege,zaccollettiytue,Zac Colletti
+Jan 28,home,Western Texas,W,9-5,9,5,4,win,20230128_tbyy,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Cisco,ciscocollege,zaccollettiytue,Zac Colletti
+Jan 28,home,Western Texas,W,5-3,5,3,2,win,20230128_fv0f,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Cisco,ciscocollege,zaccollettiytue,Zac Colletti
+Feb 5,home,Dallas College - Brookhaven,W,11-3,11,3,8,win,20230205_nels,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Cisco,ciscocollege,zaccollettiytue,Zac Colletti
+Feb 5,home,Dallas College - Brookhaven,W,10-9,10,9,1,win,20230205_7krm,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Cisco,ciscocollege,zaccollettiytue,Zac Colletti
+Feb 6,home,Dallas College - Mountain View,W,8-2,8,2,6,win,20230206_e2x2,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Cisco,ciscocollege,zaccollettiytue,Zac Colletti
+Feb 10,home,Frank Phillips,L,7-3,7,3,4,win,20230210_da1a,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Cisco,ciscocollege,zaccollettiytue,Zac Colletti
+Feb 11,home,Frank Phillips,W,10-4,10,4,6,win,20230211_6eab,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Cisco,ciscocollege,zaccollettiytue,Zac Colletti
+Feb 11,home,Frank Phillips,L,7-2,7,2,5,win,20230211_x64i,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Cisco,ciscocollege,zaccollettiytue,Zac Colletti
+Feb 15,home,Western Texas,W,7-2,7,2,5,win,20230215_ubbr,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Cisco,ciscocollege,zaccollettiytue,Zac Colletti
+Feb 18,home,State Fair,W,3-0,3,0,3,win,20230218_oowr,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Cisco,ciscocollege,zaccollettiytue,Zac Colletti
+Feb 22,home,Howard Payne University,W,14-1,14,1,13,win,20230222_7hqo,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Cisco,ciscocollege,zaccollettiytue,Zac Colletti
+Feb 22,home,Howard Payne University,W,12-2,12,2,10,win,20230222_ukvm,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Cisco,ciscocollege,zaccollettiytue,Zac Colletti
+Feb 25,home,Spartan Baseball Academy,W,13-0,13,0,13,win,20230225_druu,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Cisco,ciscocollege,zaccollettiytue,Zac Colletti
+Feb 25,home,Spartan Baseball Academy,W,12-0,12,0,12,win,20230225_erll,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Cisco,ciscocollege,zaccollettiytue,Zac Colletti
+Mar 1,home,Clarendon,L,9-3,9,3,6,win,20230301_1561,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Cisco,ciscocollege,zaccollettiytue,Zac Colletti
+Mar 8,home,Temple,L,15-5,15,5,10,win,20230308_jr4z,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Cisco,ciscocollege,zaccollettiytue,Zac Colletti
+Mar 8,home,Temple,L,18-2,18,2,16,win,20230308_90rm,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Cisco,ciscocollege,zaccollettiytue,Zac Colletti
+Mar 11,home,Temple,L,12-7,12,7,5,win,20230311_jzn8,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Cisco,ciscocollege,zaccollettiytue,Zac Colletti
+Mar 17,home,Dallas College - North Lake,W,9-6,9,6,3,win,20230317_15mi,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Cisco,ciscocollege,zaccollettiytue,Zac Colletti
+Mar 18,home,Minnesota Post Grad,W,12-9,12,9,3,win,20230318_a9n4,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Cisco,ciscocollege,zaccollettiytue,Zac Colletti
+Mar 22,home,Grayson,L,11-1,11,1,10,win,20230322_b91d,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Cisco,ciscocollege,zaccollettiytue,Zac Colletti
+Mar 22,home,Grayson,W,25-23,25,23,2,win,20230322_wjaw,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Cisco,ciscocollege,zaccollettiytue,Zac Colletti
