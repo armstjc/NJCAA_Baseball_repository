@@ -1,8 +1,16 @@
 date,location,opponent,result,score,team_score,opp_score,game_score_diff,game_win_loss,game_id,TC,PO,A,E,FPCT,DP,SBA,RCS,RCS_PCT,PB,CI,season,njcaa_season,njcaa_division,team,team_id,player_id,player_name
-Feb 11,home,Hutchinson,L,10-7,10,7,3,win,20230211_1vmc,0,0,0,0,2.0,5,3,2,9.00,,2,2023,2022-23,div1,Southeast,southeastcommunitycollege,jddiprima47es,JD Diprima
-Feb 19,home,Garden City,L,5-2,5,2,3,win,20230219_ih7o,0,0,0,0,2.0,0,2,1,4.50,2,1,2023,2022-23,div1,Southeast,southeastcommunitycollege,jddiprima47es,JD Diprima
-Feb 24,home,Northeastern Oklahoma A&M,W,12-10,12,10,2,win,20230224_gkpc,0,0,0,0,0.2,3,6,6,81.00,3,2,2023,2022-23,div1,Southeast,southeastcommunitycollege,jddiprima47es,JD Diprima
-Mar 14,home,McCook,W,12-9,12,9,3,win,20230314_wy8i,0,0,0,0,2.1,2,1,1,3.86,,3,2023,2022-23,div1,Southeast,southeastcommunitycollege,jddiprima47es,JD Diprima
-Mar 19,home,Otero,W,4-0,4,0,4,win,20230319_004h,0,0,0,0,1.0,,,,0.00,1,3,2023,2022-23,div1,Southeast,southeastcommunitycollege,jddiprima47es,JD Diprima
-Mar 24,home,Lamar,W,10-9,10,9,1,win,20230324_ch5a,0,0,0,0,1.0,1,,,0.00,,,2023,2022-23,div1,Southeast,southeastcommunitycollege,jddiprima47es,JD Diprima
-Mar 25,home,Lamar,W,10-0,10,0,10,win,20230325_b94v,0,0,0,0,2.0,,,,0.00,,2,2023,2022-23,div1,Southeast,southeastcommunitycollege,jddiprima47es,JD Diprima
+Feb 11,home,Hutchinson,L,10-7,10,7,3,win,20230211_1vmc,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Southeast,southeastcommunitycollege,jddiprima47es,JD Diprima
+Feb 13,home,Hutchinson,W,5-4,5,4,1,win,20230213_m7zc,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Southeast,southeastcommunitycollege,jddiprima47es,JD Diprima
+Feb 18,home,Garden City,W,4-1,4,1,3,win,20230218_o5rd,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Southeast,southeastcommunitycollege,jddiprima47es,JD Diprima
+Feb 19,home,Garden City,W,7-3,7,3,4,win,20230219_9nse,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Southeast,southeastcommunitycollege,jddiprima47es,JD Diprima
+Feb 25,home,Itawamba,L,4-0,4,0,4,win,20230225_d0lm,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Southeast,southeastcommunitycollege,jddiprima47es,JD Diprima
+Feb 26,home,Dyersburg State,W,4-2,4,2,2,win,20230226_9xxp,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Southeast,southeastcommunitycollege,jddiprima47es,JD Diprima
+Mar 4,home,Luna,W,14-4,14,4,10,win,20230304_iyzl,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Southeast,southeastcommunitycollege,jddiprima47es,JD Diprima
+Mar 5,home,Luna,W,13-0,13,0,13,win,20230305_yojd,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Southeast,southeastcommunitycollege,jddiprima47es,JD Diprima
+Mar 14,home,McCook,W,6-3,6,3,3,win,20230314_ujwv,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Southeast,southeastcommunitycollege,jddiprima47es,JD Diprima
+Mar 14,home,McCook,W,12-9,12,9,3,win,20230314_wy8i,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Southeast,southeastcommunitycollege,jddiprima47es,JD Diprima
+Mar 19,home,Otero,W,4-0,4,0,4,win,20230319_004h,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Southeast,southeastcommunitycollege,jddiprima47es,JD Diprima
+Mar 20,home,Otero,W,11-1,11,1,10,win,20230320_tmi4,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Southeast,southeastcommunitycollege,jddiprima47es,JD Diprima
+Mar 22,home,Doane JV,W,8-4,8,4,4,win,20230322_oyg5,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Southeast,southeastcommunitycollege,jddiprima47es,JD Diprima
+Mar 24,home,Lamar,W,10-9,10,9,1,win,20230324_ch5a,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Southeast,southeastcommunitycollege,jddiprima47es,JD Diprima
+Mar 25,home,Lamar,W,16-6,16,6,10,win,20230325_oeye,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Southeast,southeastcommunitycollege,jddiprima47es,JD Diprima

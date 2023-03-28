@@ -1,9 +1,16 @@
 date,location,opponent,result,score,team_score,opp_score,game_score_diff,game_win_loss,game_id,TC,PO,A,E,FPCT,DP,SBA,RCS,RCS_PCT,PB,CI,season,njcaa_season,njcaa_division,team,team_id,player_id,player_name
-Feb 4,home,Central Alabama,W,1-0,1,0,1,win,20230204_a7qy,0,0,0,1,1.0,,,,0.00,,1,2023,2022-23,div1,Volunteer State,volunteerstatecommunitycollege,jayshiarla4u79,Jay Shiarla
-Feb 10,home,Southwestern Illinois,W,3-2,3,2,1,win,20230210_ep7r,0,1,0,0,3.2,1,,,0.00,1,5,2023,2022-23,div1,Volunteer State,volunteerstatecommunitycollege,jayshiarla4u79,Jay Shiarla
-Feb 18,home,Jackson,W,9-1,9,1,8,win,20230218_wqvw,0,0,0,0,2.0,,,,0.00,,5,2023,2022-23,div1,Volunteer State,volunteerstatecommunitycollege,jayshiarla4u79,Jay Shiarla
-Feb 23,home,Rend Lake,L,6-4,6,4,2,win,20230223_8x2k,0,0,1,0,2.0,2,3,3,13.50,3,1,2023,2022-23,div1,Volunteer State,volunteerstatecommunitycollege,jayshiarla4u79,Jay Shiarla
-Feb 28,home,Calhoun,L,8-7,8,7,1,win,20230228_giek,0,0,1,0,1.0,3,2,2,18.00,2,1,2023,2022-23,div1,Volunteer State,volunteerstatecommunitycollege,jayshiarla4u79,Jay Shiarla
-Mar 11,home,Roane State,W,4-2,4,2,2,win,20230311_tbxd,0,1,0,0,2.0,1,,,0.00,1,4,2023,2022-23,div1,Volunteer State,volunteerstatecommunitycollege,jayshiarla4u79,Jay Shiarla
-Mar 19,home,Columbia State,W,7-1,7,1,6,win,20230319_6tt3,0,0,0,0,1.0,,,,0.00,,2,2023,2022-23,div1,Volunteer State,volunteerstatecommunitycollege,jayshiarla4u79,Jay Shiarla
-Mar 26,home,Dyersburg State,L,3-0,3,0,3,win,20230326_60gy,0,0,0,0,1.0,0,0,0,0.00,0,2,2023,2022-23,div1,Volunteer State,volunteerstatecommunitycollege,jayshiarla4u79,Jay Shiarla
+Feb 10,home,Southwestern Illinois,W,3-2,3,2,1,win,20230210_ep7r,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Volunteer State,volunteerstatecommunitycollege,jayshiarla4u79,Jay Shiarla
+Feb 17,home,Jackson,W,10-8,10,8,2,win,20230217_m4j5,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Volunteer State,volunteerstatecommunitycollege,jayshiarla4u79,Jay Shiarla
+Feb 18,home,Jackson,W,7-2,7,2,5,win,20230218_dnso,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Volunteer State,volunteerstatecommunitycollege,jayshiarla4u79,Jay Shiarla
+Feb 18,home,Jackson,W,9-1,9,1,8,win,20230218_wqvw,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Volunteer State,volunteerstatecommunitycollege,jayshiarla4u79,Jay Shiarla
+Feb 28,home,Calhoun,L,6-4,6,4,2,win,20230228_4v8d,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Volunteer State,volunteerstatecommunitycollege,jayshiarla4u79,Jay Shiarla
+Mar 5,home,Chattanooga State,L,6-3,6,3,3,win,20230305_3323,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Volunteer State,volunteerstatecommunitycollege,jayshiarla4u79,Jay Shiarla
+Mar 6,home,Chattanooga State,W,7-3,7,3,4,win,20230306_mnke,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Volunteer State,volunteerstatecommunitycollege,jayshiarla4u79,Jay Shiarla
+Mar 8,home,Vincennes,W,16-3,16,3,13,win,20230308_nvw0,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Volunteer State,volunteerstatecommunitycollege,jayshiarla4u79,Jay Shiarla
+Mar 10,home,Roane State,L,6-5,6,5,1,win,20230310_v77q,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Volunteer State,volunteerstatecommunitycollege,jayshiarla4u79,Jay Shiarla
+Mar 11,home,Roane State,W,4-2,4,2,2,win,20230311_tbxd,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Volunteer State,volunteerstatecommunitycollege,jayshiarla4u79,Jay Shiarla
+Mar 18,home,Columbia State,W,17-9,17,9,8,win,20230318_o4cx,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Volunteer State,volunteerstatecommunitycollege,jayshiarla4u79,Jay Shiarla
+Mar 19,home,Columbia State,L,6-4,6,4,2,win,20230319_n9mr,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Volunteer State,volunteerstatecommunitycollege,jayshiarla4u79,Jay Shiarla
+Mar 19,home,Columbia State,W,7-1,7,1,6,win,20230319_6tt3,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Volunteer State,volunteerstatecommunitycollege,jayshiarla4u79,Jay Shiarla
+Mar 21,home,Calhoun,W,11-5,11,5,6,win,20230321_yx55,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Volunteer State,volunteerstatecommunitycollege,jayshiarla4u79,Jay Shiarla
+Mar 26,home,Dyersburg State,L,5-3,5,3,2,win,20230326_1unx,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Volunteer State,volunteerstatecommunitycollege,jayshiarla4u79,Jay Shiarla

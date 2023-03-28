@@ -1,9 +1,22 @@
 date,location,opponent,result,score,team_score,opp_score,game_score_diff,game_win_loss,game_id,GS,W,L,SV,IP,H,R,ER,ERA,BB,K,HR,season,njcaa_season,njcaa_division,team,team_id,player_id,player_name
-Mar 26,home,Dyersburg State,L,3-0,3,0,3,win,20230326_60gy,0,0,0,0,1.0,0,0,0,0.00,0,2,0,2023,2022-23,div1,Southeast,southeastcommunitycollege,tysongerdes4jwl,Tyson Gerdes
-Mar 19,home,Columbia State,W,7-1,7,1,6,win,20230319_6tt3,0,0,0,0,1.0,,,,0.00,,2,,2023,2022-23,div1,Southeast,southeastcommunitycollege,tysongerdes4jwl,Tyson Gerdes
-Mar 11,home,Roane State,W,4-2,4,2,2,win,20230311_tbxd,0,1,0,0,2.0,1,,,0.00,1,4,,2023,2022-23,div1,Southeast,southeastcommunitycollege,tysongerdes4jwl,Tyson Gerdes
-Feb 28,home,Calhoun,L,8-7,8,7,1,win,20230228_giek,0,0,1,0,1.0,3,2,2,18.00,2,1,,2023,2022-23,div1,Southeast,southeastcommunitycollege,tysongerdes4jwl,Tyson Gerdes
-Feb 23,home,Rend Lake,L,6-4,6,4,2,win,20230223_8x2k,0,0,1,0,2.0,2,3,3,13.50,3,1,,2023,2022-23,div1,Southeast,southeastcommunitycollege,tysongerdes4jwl,Tyson Gerdes
-Feb 18,home,Jackson,W,9-1,9,1,8,win,20230218_wqvw,0,0,0,0,2.0,,,,0.00,,5,,2023,2022-23,div1,Southeast,southeastcommunitycollege,tysongerdes4jwl,Tyson Gerdes
-Feb 10,home,Southwestern Illinois,W,3-2,3,2,1,win,20230210_ep7r,0,1,0,0,3.2,1,,,0.00,1,5,,2023,2022-23,div1,Southeast,southeastcommunitycollege,tysongerdes4jwl,Tyson Gerdes
-Feb 4,home,Central Alabama,W,1-0,1,0,1,win,20230204_a7qy,0,0,0,1,1.0,,,,0.00,,1,,2023,2022-23,div1,Southeast,southeastcommunitycollege,tysongerdes4jwl,Tyson Gerdes
+Mar 25,home,Lamar,W,16-6,16,6,10,win,20230325_oeye,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div1,Southeast,southeastcommunitycollege,tysongerdes4jwl,Tyson Gerdes
+Mar 24,home,Lamar,W,10-9,10,9,1,win,20230324_ch5a,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div1,Southeast,southeastcommunitycollege,tysongerdes4jwl,Tyson Gerdes
+Mar 24,home,Lamar,W,6-1,6,1,5,win,20230324_3zbn,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div1,Southeast,southeastcommunitycollege,tysongerdes4jwl,Tyson Gerdes
+Mar 22,home,Doane JV,W,13-3,13,3,10,win,20230322_q4m1,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div1,Southeast,southeastcommunitycollege,tysongerdes4jwl,Tyson Gerdes
+Mar 20,home,Otero,W,8-6,8,6,2,win,20230320_y68w,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div1,Southeast,southeastcommunitycollege,tysongerdes4jwl,Tyson Gerdes
+Mar 19,home,Otero,W,4-0,4,0,4,win,20230319_004h,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div1,Southeast,southeastcommunitycollege,tysongerdes4jwl,Tyson Gerdes
+Mar 19,home,Otero,W,2-1,2,1,1,win,20230319_6mzm,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div1,Southeast,southeastcommunitycollege,tysongerdes4jwl,Tyson Gerdes
+Mar 14,home,McCook,W,12-9,12,9,3,win,20230314_wy8i,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div1,Southeast,southeastcommunitycollege,tysongerdes4jwl,Tyson Gerdes
+Mar 14,home,McCook,W,6-3,6,3,3,win,20230314_ujwv,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div1,Southeast,southeastcommunitycollege,tysongerdes4jwl,Tyson Gerdes
+Mar 11,home,McCook,L,11-10,11,10,1,win,20230311_0q96,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div1,Southeast,southeastcommunitycollege,tysongerdes4jwl,Tyson Gerdes
+Mar 5,home,Luna,W,13-0,13,0,13,win,20230305_yojd,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div1,Southeast,southeastcommunitycollege,tysongerdes4jwl,Tyson Gerdes
+Mar 5,home,Luna,W,5-4,5,4,1,win,20230305_974x,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div1,Southeast,southeastcommunitycollege,tysongerdes4jwl,Tyson Gerdes
+Mar 4,home,Luna,L,16-5,16,5,11,win,20230304_cwdh,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div1,Southeast,southeastcommunitycollege,tysongerdes4jwl,Tyson Gerdes
+Feb 25,home,Itawamba,L,4-0,4,0,4,win,20230225_d0lm,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div1,Southeast,southeastcommunitycollege,tysongerdes4jwl,Tyson Gerdes
+Feb 24,home,Northeastern Oklahoma A&M,W,12-10,12,10,2,win,20230224_gkpc,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div1,Southeast,southeastcommunitycollege,tysongerdes4jwl,Tyson Gerdes
+Feb 19,home,Garden City,W,7-3,7,3,4,win,20230219_9nse,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div1,Southeast,southeastcommunitycollege,tysongerdes4jwl,Tyson Gerdes
+Feb 19,home,Garden City,L,5-2,5,2,3,win,20230219_ih7o,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div1,Southeast,southeastcommunitycollege,tysongerdes4jwl,Tyson Gerdes
+Feb 18,home,Garden City,W,18-10,18,10,8,win,20230218_b6a2,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div1,Southeast,southeastcommunitycollege,tysongerdes4jwl,Tyson Gerdes
+Feb 13,home,Hutchinson,L,8-4,8,4,4,win,20230213_rt66,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div1,Southeast,southeastcommunitycollege,tysongerdes4jwl,Tyson Gerdes
+Feb 11,home,Hutchinson,L,10-7,10,7,3,win,20230211_1vmc,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div1,Southeast,southeastcommunitycollege,tysongerdes4jwl,Tyson Gerdes
+Feb 11,home,Hutchinson,L,8-5,8,5,3,win,20230211_2fxg,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div1,Southeast,southeastcommunitycollege,tysongerdes4jwl,Tyson Gerdes
