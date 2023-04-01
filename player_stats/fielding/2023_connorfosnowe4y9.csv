@@ -1,30 +1,8 @@
 date,location,opponent,result,score,team_score,opp_score,game_score_diff,game_win_loss,game_id,TC,PO,A,E,FPCT,DP,SBA,RCS,RCS_PCT,PB,CI,season,njcaa_season,njcaa_division,team,team_id,player_id,player_name
-Jan 27,home,Palm Beach State,W,4-3,4,3,1,win,20230127_lz1o,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Indian River State,indianriverstatecollege,connorfosnowe4y9,Connor Fosnow
-Jan 28,home,Santa Fe,L,6-5,6,5,1,win,20230128_dsbb,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Indian River State,indianriverstatecollege,connorfosnowe4y9,Connor Fosnow
-Jan 28,home,St. Petersburg,W,16-4,16,4,12,win,20230128_so8y,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Indian River State,indianriverstatecollege,connorfosnowe4y9,Connor Fosnow
-Feb 2,home,Palm Beach State,L,5-3,5,3,2,win,20230202_c10p,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Indian River State,indianriverstatecollege,connorfosnowe4y9,Connor Fosnow
-Feb 3,home,Seminole State (FL),W,5-0,5,0,5,win,20230203_bb9i,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Indian River State,indianriverstatecollege,connorfosnowe4y9,Connor Fosnow
-Feb 4,home,Seminole State (FL),W,12-7,12,7,5,win,20230204_2vdz,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Indian River State,indianriverstatecollege,connorfosnowe4y9,Connor Fosnow
-Feb 8,home,TNXL,W,8-7,8,7,1,win,20230208_hich,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Indian River State,indianriverstatecollege,connorfosnowe4y9,Connor Fosnow
-Feb 10,home,Inspiration Academy,W,22-2,22,2,20,win,20230210_3blh,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Indian River State,indianriverstatecollege,connorfosnowe4y9,Connor Fosnow
-Feb 13,home,A3 Academy,W,12-4,12,4,8,win,20230213_4qve,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Indian River State,indianriverstatecollege,connorfosnowe4y9,Connor Fosnow
-Feb 18,home,South Florida State,L,4-3,4,3,1,win,20230218_9v9e,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Indian River State,indianriverstatecollege,connorfosnowe4y9,Connor Fosnow
-Feb 18,home,South Florida State,W,5-4,5,4,1,win,20230218_ndiv,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Indian River State,indianriverstatecollege,connorfosnowe4y9,Connor Fosnow
-Feb 22,home,Elevate,W,12-3,12,3,9,win,20230222_c3x8,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Indian River State,indianriverstatecollege,connorfosnowe4y9,Connor Fosnow
-Feb 24,home,Hillsborough,W,7-1,7,1,6,win,20230224_7d0f,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Indian River State,indianriverstatecollege,connorfosnowe4y9,Connor Fosnow
-Feb 25,home,TNXL,W,17-3,17,3,14,win,20230225_j1iz,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Indian River State,indianriverstatecollege,connorfosnowe4y9,Connor Fosnow
-Feb 27,home,State College of Florida,W,7-5,7,5,2,win,20230227_eknu,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Indian River State,indianriverstatecollege,connorfosnowe4y9,Connor Fosnow
-Mar 1,home,Polk State,L,13-10,13,10,3,win,20230301_72iv,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Indian River State,indianriverstatecollege,connorfosnowe4y9,Connor Fosnow
-Mar 3,home,Hillsborough,W,11-8,11,8,3,win,20230303_d9xk,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Indian River State,indianriverstatecollege,connorfosnowe4y9,Connor Fosnow
-Mar 4,home,Central Florida,L,7-2,7,2,5,win,20230304_qzri,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Indian River State,indianriverstatecollege,connorfosnowe4y9,Connor Fosnow
-Mar 7,home,Polk State,L,9-3,9,3,6,win,20230307_xkvj,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Indian River State,indianriverstatecollege,connorfosnowe4y9,Connor Fosnow
-Mar 8,home,Florida SouthWestern State,L,6-2,6,2,4,win,20230308_3bxa,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Indian River State,indianriverstatecollege,connorfosnowe4y9,Connor Fosnow
-Mar 10,home,Florida SouthWestern State,W,8-7,8,7,1,win,20230310_bdqu,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Indian River State,indianriverstatecollege,connorfosnowe4y9,Connor Fosnow
-Mar 11,home,Florida SouthWestern State,L,15-9,15,9,6,win,20230311_w10p,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Indian River State,indianriverstatecollege,connorfosnowe4y9,Connor Fosnow
-Mar 15,home,Eastern Florida State,W,9-1,9,1,8,win,20230315_4o7w,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Indian River State,indianriverstatecollege,connorfosnowe4y9,Connor Fosnow
-Mar 17,home,Eastern Florida State,L,6-4,6,4,2,win,20230317_j80j,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Indian River State,indianriverstatecollege,connorfosnowe4y9,Connor Fosnow
-Mar 18,home,Eastern Florida State,L,10-9,10,9,1,win,20230318_k621,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Indian River State,indianriverstatecollege,connorfosnowe4y9,Connor Fosnow
-Mar 20,home,Seminole State (FL),W,9-4,9,4,5,win,20230320_msuc,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Indian River State,indianriverstatecollege,connorfosnowe4y9,Connor Fosnow
-Mar 22,home,Miami Dade,W,9-8,9,8,1,win,20230322_jl13,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Indian River State,indianriverstatecollege,connorfosnowe4y9,Connor Fosnow
-Mar 24,home,Miami Dade,L,8-2,8,2,6,win,20230324_8vz0,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Indian River State,indianriverstatecollege,connorfosnowe4y9,Connor Fosnow
-Mar 25,home,Miami Dade,W,8-5,8,5,3,win,20230325_a9c7,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Indian River State,indianriverstatecollege,connorfosnowe4y9,Connor Fosnow
+Feb 5,home,Bryant & Stratton (VA),L,6-3,6,3,3,win,20230205_narz,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Indian River State,indianriverstatecollege,connorfosnowe4y9,Connor Fosnow
+Feb 18,home,Wake Tech,W,9-2,9,2,7,win,20230218_wt23,0,0,0,0,1.0,2,1,1,9.00,1,2,2023,2022-23,div1,Indian River State,indianriverstatecollege,connorfosnowe4y9,Connor Fosnow
+Mar 1,home,Brunswick,L,13-8,13,8,5,win,20230301_zuk4,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Indian River State,indianriverstatecollege,connorfosnowe4y9,Connor Fosnow
+Mar 6,home,NC Wesleyan JV,W,14-6,14,6,8,win,20230306_1vqx,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Indian River State,indianriverstatecollege,connorfosnowe4y9,Connor Fosnow
+Mar 26,home,USC Union,W,16-0,16,0,16,win,20230326_oc2u,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Indian River State,indianriverstatecollege,connorfosnowe4y9,Connor Fosnow
+Mar 29,home,Chowan University JV,W,12-2,12,2,10,win,20230329_rnfv,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Indian River State,indianriverstatecollege,connorfosnowe4y9,Connor Fosnow
+Mar 29,home,Chowan University JV,L,10-9,10,9,1,win,20230329_bya8,0,0,0,0,1.0,1,1,1,9.00,2,2,2023,2022-23,div1,Indian River State,indianriverstatecollege,connorfosnowe4y9,Connor Fosnow
