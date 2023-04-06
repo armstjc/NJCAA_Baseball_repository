@@ -1,4 +1,20 @@
 date,location,opponent,result,score,team_score,opp_score,game_score_diff,game_win_loss,game_id,AB,R,H,2B,3B,HR,RBI,BB,K,SB,CS,HBP,SF,SH,TB,XBH,HDP,GO,FO,GO/FO,PA,season,njcaa_season,njcaa_division,team,team_id,player_id,player_name
-Jan 30,home,Hillsborough,W,9-0,9,0,9,win,20230130_h50s,0,0,0,,,,0,,,,,,,,0,0,,,,,0,2023,2022-23,div1,Harford,harfordcommunitycollege,treycruzghzc,Trey Cruz
-Feb 13,home,Lake-Sumter State,W,17-3,17,3,14,win,20230213_wgwi,0,0,0,,,,0,,,,,,,,0,0,,,,,0,2023,2022-23,div1,Harford,harfordcommunitycollege,treycruzghzc,Trey Cruz
-Feb 20,home,Eastern Florida State,W,7-3,7,3,4,win,20230220_upya,0,0,0,,,,0,,,,,,,,0,0,,,,,0,2023,2022-23,div1,Harford,harfordcommunitycollege,treycruzghzc,Trey Cruz
+Feb 18,home,Southeastern-Whiteville,W,12-10,12,10,2,win,20230218_0zkt,4,2,1,,,,0,1,,,,,,,1,0,,1,1,1.00,5,2023,2022-23,div1,Harford,harfordcommunitycollege,treycruzghzc,Trey Cruz
+Feb 23,home,Lackawanna,W,3-1,3,1,2,win,20230223_xk9h,2,1,0,,,,0,1,1,,,,,,0,0,,1,,,3,2023,2022-23,div1,Harford,harfordcommunitycollege,treycruzghzc,Trey Cruz
+Feb 28,home,Anne Arundel,W,11-7,11,7,4,win,20230228_8z13,4,2,1,,,1,1,1,3,,,,,,4,1,,,,,5,2023,2022-23,div1,Harford,harfordcommunitycollege,treycruzghzc,Trey Cruz
+Feb 28,home,Anne Arundel,W,10-7,10,7,3,win,20230228_728h,1,2,0,,,,0,2,,,,,,,0,0,,,1,,3,2023,2022-23,div1,Harford,harfordcommunitycollege,treycruzghzc,Trey Cruz
+Mar 2,home,Mercer County,W,4-3,4,3,1,win,20230302_e7vm,3,1,2,2,,,1,,,,,,,,4,2,,,1,,3,2023,2022-23,div1,Harford,harfordcommunitycollege,treycruzghzc,Trey Cruz
+Mar 2,home,Mercer County,W,3-1,3,1,2,win,20230302_ndr7,2,1,1,,,1,2,1,,,,,,,4,1,,1,,,3,2023,2022-23,div1,Harford,harfordcommunitycollege,treycruzghzc,Trey Cruz
+Mar 4,home,Delaware Tech,W,6-5,6,5,1,win,20230304_dq8h,3,1,1,,,,1,,1,,,,,,1,0,,1,,,3,2023,2022-23,div1,Harford,harfordcommunitycollege,treycruzghzc,Trey Cruz
+Mar 4,home,Delaware Tech,W,15-5,15,5,10,win,20230304_evz4,4,1,1,,,1,3,,,,,,,,4,1,,2,1,2.00,4,2023,2022-23,div1,Harford,harfordcommunitycollege,treycruzghzc,Trey Cruz
+Mar 7,home,CCBC Essex,W,17-12,17,12,5,win,20230307_qhzq,3,2,2,1,,,2,1,,,,,1,,3,1,,,2,,5,2023,2022-23,div1,Harford,harfordcommunitycollege,treycruzghzc,Trey Cruz
+Mar 16,home,Sullivan County,W,29-5,29,5,24,win,20230316_f9dk,1,2,1,,,,0,2,,,,,,,1,0,,,,,3,2023,2022-23,div1,Harford,harfordcommunitycollege,treycruzghzc,Trey Cruz
+Mar 21,home,Prince George's,W,7-3,7,3,4,win,20230321_xsmx,3,2,1,,,,0,2,,,,,,,1,0,,1,1,1.00,5,2023,2022-23,div1,Harford,harfordcommunitycollege,treycruzghzc,Trey Cruz
+Mar 21,home,Prince George's,W,9-0,9,0,9,win,20230321_6l2g,2,1,0,,,,0,1,,,,,,,0,0,,,2,,3,2023,2022-23,div1,Harford,harfordcommunitycollege,treycruzghzc,Trey Cruz
+Mar 28,home,Cecil,W,11-6,11,6,5,win,20230328_0ad2,2,3,1,,,1,1,2,,,,,,,4,1,,,1,,4,2023,2022-23,div1,Harford,harfordcommunitycollege,treycruzghzc,Trey Cruz
+Mar 28,home,Cecil,W,11-0,11,0,11,win,20230328_e9xj,3,0,1,1,,,0,,,,,,,,2,1,,2,,,3,2023,2022-23,div1,Harford,harfordcommunitycollege,treycruzghzc,Trey Cruz
+Mar 31,home,Chesapeake,W,7-1,7,1,6,win,20230331_kb0g,2,1,0,,,,0,2,1,,,,,,0,0,,,1,,4,2023,2022-23,div1,Harford,harfordcommunitycollege,treycruzghzc,Trey Cruz
+Mar 31,home,Chesapeake,W,6-4,6,4,2,win,20230331_rrvn,4,1,2,,,,2,,,,,,,,2,0,,3,1,3.00,4,2023,2022-23,div1,Harford,harfordcommunitycollege,treycruzghzc,Trey Cruz
+Apr 2,home,CCBC Catonsville,W,7-0,7,0,7,win,20230402_1fd1,3,1,1,,,,1,1,1,,,,,,1,0,,,1,,4,2023,2022-23,div1,Harford,harfordcommunitycollege,treycruzghzc,Trey Cruz
+Apr 4,home,Frederick,W,9-8,9,8,1,win,20230404_klxm,4,1,1,1,,,2,,1,,,,,,2,1,,,1,,4,2023,2022-23,div1,Harford,harfordcommunitycollege,treycruzghzc,Trey Cruz
+Apr 4,home,Frederick,W,14-9,14,9,5,win,20230404_xog3,3,2,1,1,,,3,1,,,,,,,2,1,,2,,,4,2023,2022-23,div1,Harford,harfordcommunitycollege,treycruzghzc,Trey Cruz

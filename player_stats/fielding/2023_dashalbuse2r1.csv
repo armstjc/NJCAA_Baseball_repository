@@ -1,31 +1,9 @@
 date,location,opponent,result,score,team_score,opp_score,game_score_diff,game_win_loss,game_id,TC,PO,A,E,FPCT,DP,SBA,RCS,RCS_PCT,PB,CI,season,njcaa_season,njcaa_division,team,team_id,player_id,player_name
-Jan 27,home,Northwest Florida State,T,1-1,1,1,0,tie,20230127_xt5z,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Temple,templecollege,dashalbuse2r1,Dash Albus
-Jan 28,home,State College of Florida,L,7-6,7,6,1,win,20230128_r3ms,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Temple,templecollege,dashalbuse2r1,Dash Albus
-Jan 31,home,Elite Squad Academy,W,7-2,7,2,5,win,20230131_khct,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Temple,templecollege,dashalbuse2r1,Dash Albus
-Feb 3,home,Andrew,L,5-0,5,0,5,win,20230203_v5ij,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Temple,templecollege,dashalbuse2r1,Dash Albus
-Feb 4,home,Chipola,L,10-9,10,9,1,win,20230204_b00r,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Temple,templecollege,dashalbuse2r1,Dash Albus
-Feb 4,home,Northwest Florida State,W,5-4,5,4,1,win,20230204_hk46,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Temple,templecollege,dashalbuse2r1,Dash Albus
-Feb 5,home,Coastal Alabama - Bay Minette,W,10-3,10,3,7,win,20230205_jpz5,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Temple,templecollege,dashalbuse2r1,Dash Albus
-Feb 10,home,East Georgia State,W,5-0,5,0,5,win,20230210_g2qh,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Temple,templecollege,dashalbuse2r1,Dash Albus
-Feb 10,home,St. Johns River State,L,7-2,7,2,5,win,20230210_yzf2,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Temple,templecollege,dashalbuse2r1,Dash Albus
-Feb 11,home,Florence-Darlington Tech,L,4-0,4,0,4,win,20230211_704v,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Temple,templecollege,dashalbuse2r1,Dash Albus
-Feb 14,home,Palm Beach State,W,4-1,4,1,3,win,20230214_zk07,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Temple,templecollege,dashalbuse2r1,Dash Albus
-Feb 15,home,Elite Squad Academy,W,13-10,13,10,3,win,20230215_1bbc,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Temple,templecollege,dashalbuse2r1,Dash Albus
-Feb 17,home,East Mississippi,W,14-7,14,7,7,win,20230217_036f,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Temple,templecollege,dashalbuse2r1,Dash Albus
-Feb 17,home,Chipola,W,13-3,13,3,10,win,20230217_qly2,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Temple,templecollege,dashalbuse2r1,Dash Albus
-Feb 18,home,Columbia State,L,11-3,11,3,8,win,20230218_t0l6,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Temple,templecollege,dashalbuse2r1,Dash Albus
-Feb 21,home,Atlantis University,W,5-2,5,2,3,win,20230221_rla1,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Temple,templecollege,dashalbuse2r1,Dash Albus
-Feb 22,home,State College of Florida,W,12-9,12,9,3,win,20230222_0sfs,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Temple,templecollege,dashalbuse2r1,Dash Albus
-Feb 24,home,Florida Palms,W,12-5,12,5,7,win,20230224_bghf,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Temple,templecollege,dashalbuse2r1,Dash Albus
-Feb 25,home,Hillsborough,W,3-0,3,0,3,win,20230225_z27v,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Temple,templecollege,dashalbuse2r1,Dash Albus
-Feb 28,home,TNXL Academy,L,7-3,7,3,4,win,20230228_ugoq,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Temple,templecollege,dashalbuse2r1,Dash Albus
-Mar 3,home,Elevate Academy,W,9-8,9,8,1,win,20230303_33cd,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Temple,templecollege,dashalbuse2r1,Dash Albus
-Mar 4,home,Hillsborough,W,8-5,8,5,3,win,20230304_iov6,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Temple,templecollege,dashalbuse2r1,Dash Albus
-Mar 8,home,Eastern Florida State,W,5-0,5,0,5,win,20230308_g52i,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Temple,templecollege,dashalbuse2r1,Dash Albus
-Mar 10,home,Eastern Florida State,W,8-1,8,1,7,win,20230310_2lnv,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Temple,templecollege,dashalbuse2r1,Dash Albus
-Mar 11,home,Eastern Florida State,W,20-7,20,7,13,win,20230311_zm19,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Temple,templecollege,dashalbuse2r1,Dash Albus
-Mar 15,home,Florida SouthWestern State,L,5-2,5,2,3,win,20230315_292h,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Temple,templecollege,dashalbuse2r1,Dash Albus
-Mar 18,home,Florida SouthWestern State,L,9-6,9,6,3,win,20230318_m9q3,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Temple,templecollege,dashalbuse2r1,Dash Albus
-Mar 22,home,Indian River State,L,9-8,9,8,1,win,20230322_jl13,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Temple,templecollege,dashalbuse2r1,Dash Albus
-Mar 24,home,Indian River State,W,8-2,8,2,6,win,20230324_8vz0,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Temple,templecollege,dashalbuse2r1,Dash Albus
-Mar 29,home,Eastern Florida State,W,8-6,8,6,2,win,20230329_njkg,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Temple,templecollege,dashalbuse2r1,Dash Albus
+Jan 27,home,Angelina,W,7-3,7,3,4,win,20230127_xedj,1,1,0,0,2.0,2,2,2,9.00,1,2,2023,2022-23,div1,Temple,templecollege,dashalbuse2r1,Dash Albus
+Feb 20,home,San Jacinto,W,8-7,8,7,1,win,20230220_3yst,0,0,0,0,2.0,1,1,1,4.50,1,2,2023,2022-23,div1,Temple,templecollege,dashalbuse2r1,Dash Albus
+Feb 25,home,Navarro,L,5-2,5,2,3,win,20230225_93vk,0,0,0,0,1.0,1,,,0.00,,1,2023,2022-23,div1,Temple,templecollege,dashalbuse2r1,Dash Albus
+Feb 27,home,University of Mary Hardin Baylor JV,W,12-5,12,5,7,win,20230227_s2xd,1,1,0,0,4.0,3,0,0,0.00,2,1,2023,2022-23,div1,Temple,templecollege,dashalbuse2r1,Dash Albus
+Mar 8,home,Cisco,W,15-5,15,5,10,win,20230308_jr4z,0,0,0,0,0.0,2,2,2,INF,1,,2023,2022-23,div1,Temple,templecollege,dashalbuse2r1,Dash Albus
+Mar 11,home,Cisco,L,16-10,16,10,6,win,20230311_qm3n,1,0,1,0,2.1,5,6,6,23.14,0,3,2023,2022-23,div1,Temple,templecollege,dashalbuse2r1,Dash Albus
+Mar 25,home,Ranger,W,5-4,5,4,1,win,20230325_c9ai,1,0,0,0,3.2,4,1,1,2.45,0,3,2023,2022-23,div1,Temple,templecollege,dashalbuse2r1,Dash Albus
+Apr 1,home,Hill,L,14-3,14,3,11,win,20230401_b996,1,0,1,0,1.0,2,5,4,36.00,1,1,2023,2022-23,div1,Temple,templecollege,dashalbuse2r1,Dash Albus
