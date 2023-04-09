@@ -1,10 +1,18 @@
 date,location,opponent,result,score,team_score,opp_score,game_score_diff,game_win_loss,game_id,GS,W,L,SV,IP,H,R,ER,ERA,BB,K,HR,season,njcaa_season,njcaa_division,team,team_id,player_id,player_name
-Apr 1,home,Colby,W,12-5,12,5,7,win,20230401_13i7,1,1,0,0,5.1,7,4,4,6.75,2,7,1,2023,2022-23,div1,Dodge City,dodgecitycommunitycollege,michaeldebattista9tmc,Michael DeBattista
-Mar 25,home,Barton,L,12-5,12,5,7,win,20230325_3xkh,1,0,1,0,3.2,7,4,4,9.82,1,1,1,2023,2022-23,div1,Dodge City,dodgecitycommunitycollege,michaeldebattista9tmc,Michael DeBattista
-Mar 18,home,Garden City,W,12-5,12,5,7,win,20230318_nkcl,1,1,0,0,4.1,4,4,2,4.15,4,6,0,2023,2022-23,div1,Dodge City,dodgecitycommunitycollege,michaeldebattista9tmc,Michael DeBattista
-Mar 11,home,Hutchinson,W,1-0,1,0,1,win,20230311_f0tz,1,1,0,0,7.0,1,0,0,0.00,2,10,,2023,2022-23,div1,Dodge City,dodgecitycommunitycollege,michaeldebattista9tmc,Michael DeBattista
-Mar 4,home,North Central Texas,W,8-7,8,7,1,win,20230304_6aec,1,0,0,0,4.0,1,1,1,2.25,3,6,,2023,2022-23,div1,Dodge City,dodgecitycommunitycollege,michaeldebattista9tmc,Michael DeBattista
-Feb 26,home,Iowa Western,L,16-3,16,3,13,win,20230226_tuuh,1,0,1,0,2.2,7,11,5,16.88,2,3,1,2023,2022-23,div1,Dodge City,dodgecitycommunitycollege,michaeldebattista9tmc,Michael DeBattista
-Feb 19,home,Coffeyville,L,4-2,4,2,2,win,20230219_wph5,1,0,0,0,3.0,3,0,0,0.00,1,5,,2023,2022-23,div1,Dodge City,dodgecitycommunitycollege,michaeldebattista9tmc,Michael DeBattista
-Feb 11,home,New Mexico,W,15-14,15,14,1,win,20230211_wyiz,0,0,0,0,0.1,2,3,3,81.00,2,1,1,2023,2022-23,div1,Dodge City,dodgecitycommunitycollege,michaeldebattista9tmc,Michael DeBattista
-Feb 4,home,Ranger,L,11-10,11,10,1,win,20230204_1tfw,0,0,0,0,3.0,4,4,4,12.00,2,4,,2023,2022-23,div1,Dodge City,dodgecitycommunitycollege,michaeldebattista9tmc,Michael DeBattista
+Mar 20,home,Louisiana State University Alexandria,L,10-5,10,5,5,win,20230320_h36b,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div1,Dodge City,dodgecitycommunitycollege,michaeldebattista9tmc,Michael DeBattista
+Mar 13,home,Triton,W,16-8,16,8,8,win,20230313_c5yp,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div1,Dodge City,dodgecitycommunitycollege,michaeldebattista9tmc,Michael DeBattista
+Mar 5,home,Lansing,W,13-2,13,2,11,win,20230305_bq0x,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div1,Dodge City,dodgecitycommunitycollege,michaeldebattista9tmc,Michael DeBattista
+Mar 3,home,Pearl River,L,8-3,8,3,5,win,20230303_pi1j,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div1,Dodge City,dodgecitycommunitycollege,michaeldebattista9tmc,Michael DeBattista
+Mar 3,home,Pearl River,L,10-2,10,2,8,win,20230303_4x6x,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div1,Dodge City,dodgecitycommunitycollege,michaeldebattista9tmc,Michael DeBattista
+Feb 26,home,Jones,L,10-7,10,7,3,win,20230226_cggg,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div1,Dodge City,dodgecitycommunitycollege,michaeldebattista9tmc,Michael DeBattista
+Feb 24,home,Illinois Central,L,8-1,8,1,7,win,20230224_m2py,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div1,Dodge City,dodgecitycommunitycollege,michaeldebattista9tmc,Michael DeBattista
+Feb 19,home,St. Louis,W,6-5,6,5,1,win,20230219_0had,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div1,Dodge City,dodgecitycommunitycollege,michaeldebattista9tmc,Michael DeBattista
+Feb 19,home,St. Louis,W,7-4,7,4,3,win,20230219_2opq,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div1,Dodge City,dodgecitycommunitycollege,michaeldebattista9tmc,Michael DeBattista
+Feb 18,home,St. Louis,W,4-3,4,3,1,win,20230218_mkiy,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div1,Dodge City,dodgecitycommunitycollege,michaeldebattista9tmc,Michael DeBattista
+Feb 11,home,San Jacinto,L,11-2,11,2,9,win,20230211_5exr,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div1,Dodge City,dodgecitycommunitycollege,michaeldebattista9tmc,Michael DeBattista
+Feb 10,home,Navarro,L,6-1,6,1,5,win,20230210_w6vk,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div1,Dodge City,dodgecitycommunitycollege,michaeldebattista9tmc,Michael DeBattista
+Feb 5,home,Blinn,L,12-4,12,4,8,win,20230205_j4tq,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div1,Dodge City,dodgecitycommunitycollege,michaeldebattista9tmc,Michael DeBattista
+Feb 5,home,Blinn,L,8-2,8,2,6,win,20230205_dxco,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div1,Dodge City,dodgecitycommunitycollege,michaeldebattista9tmc,Michael DeBattista
+Feb 4,home,Blinn,L,4-2,4,2,2,win,20230204_ih84,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div1,Dodge City,dodgecitycommunitycollege,michaeldebattista9tmc,Michael DeBattista
+Jan 28,home,Ranger,L,18-2,18,2,16,win,20230128_ob63,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div1,Dodge City,dodgecitycommunitycollege,michaeldebattista9tmc,Michael DeBattista
+Jan 28,home,Galveston,L,9-4,9,4,5,win,20230128_sv86,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div1,Dodge City,dodgecitycommunitycollege,michaeldebattista9tmc,Michael DeBattista

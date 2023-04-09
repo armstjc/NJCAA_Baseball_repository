@@ -1,20 +1,6 @@
 date,location,opponent,result,score,team_score,opp_score,game_score_diff,game_win_loss,game_id,AB,R,H,2B,3B,HR,RBI,BB,K,SB,CS,HBP,SF,SH,TB,XBH,HDP,GO,FO,GO/FO,PA,season,njcaa_season,njcaa_division,team,team_id,player_id,player_name
-Jan 27,home,St. Petersburg,W,3-2,3,2,1,win,20230127_vgzz,4,0,1,,,,0,,,,,,,,1,0,1,,,,4,2023,2022-23,div1,Seminole State (FL),seminolestatecollegeofflorida,jhoanderirigoyen3mza,Jhoander Irigoyen
-Jan 30,home,Hillsborough,W,9-0,9,0,9,win,20230130_h50s,5,0,0,,,,0,,1,,,,,,0,0,,,,,5,2023,2022-23,div1,Seminole State (FL),seminolestatecollegeofflorida,jhoanderirigoyen3mza,Jhoander Irigoyen
-Feb 1,home,St. Johns River State,W,3-2,3,2,1,win,20230201_qpz7,5,0,3,1,,,0,,,,,,,,4,1,,,,,5,2023,2022-23,div1,Seminole State (FL),seminolestatecollegeofflorida,jhoanderirigoyen3mza,Jhoander Irigoyen
-Feb 10,home,St. Petersburg,W,11-7,11,7,4,win,20230210_n3jh,5,2,4,,1,,3,,,,,,,,6,1,,,,,5,2023,2022-23,div1,Seminole State (FL),seminolestatecollegeofflorida,jhoanderirigoyen3mza,Jhoander Irigoyen
-Feb 11,home,St. Petersburg,W,10-5,10,5,5,win,20230211_kqhw,5,1,1,1,,,1,,1,,,,,,2,1,,,,,5,2023,2022-23,div1,Seminole State (FL),seminolestatecollegeofflorida,jhoanderirigoyen3mza,Jhoander Irigoyen
-Feb 13,home,Lake-Sumter State,W,17-3,17,3,14,win,20230213_wgwi,5,2,3,1,,,2,,,,,,,,4,1,,,,,5,2023,2022-23,div1,Seminole State (FL),seminolestatecollegeofflorida,jhoanderirigoyen3mza,Jhoander Irigoyen
-Feb 15,home,Lake-Sumter State,W,8-5,8,5,3,win,20230215_3arn,5,1,1,,,,0,,,,,,,,1,0,1,,,,5,2023,2022-23,div1,Seminole State (FL),seminolestatecollegeofflorida,jhoanderirigoyen3mza,Jhoander Irigoyen
-Feb 18,home,CCBC Catonsville,W,6-5,6,5,1,win,20230218_73u1,2,1,0,,,,0,1,1,,,,,,0,0,,,,,3,2023,2022-23,div1,Seminole State (FL),seminolestatecollegeofflorida,jhoanderirigoyen3mza,Jhoander Irigoyen
-Feb 18,home,CCBC Catonsville,W,8-7,8,7,1,win,20230218_4j16,3,0,1,,,,0,,,,,,,,1,0,,,,,3,2023,2022-23,div1,Seminole State (FL),seminolestatecollegeofflorida,jhoanderirigoyen3mza,Jhoander Irigoyen
-Feb 22,home,Eastern Florida State,W,3-1,3,1,2,win,20230222_mggs,4,1,2,,1,1,1,,1,,,,,,7,2,,,,,4,2023,2022-23,div1,Seminole State (FL),seminolestatecollegeofflorida,jhoanderirigoyen3mza,Jhoander Irigoyen
-Feb 25,home,Florida SouthWestern State,W,5-4,5,4,1,win,20230225_nutb,3,1,1,,,,0,1,,,,,,,1,0,,,,,4,2023,2022-23,div1,Seminole State (FL),seminolestatecollegeofflorida,jhoanderirigoyen3mza,Jhoander Irigoyen
-Mar 1,home,Florida State Jacksonville,W,11-1,11,1,10,win,20230301_bc6h,4,3,2,,,1,3,1,,,,,,,5,1,,,,,5,2023,2022-23,div1,Seminole State (FL),seminolestatecollegeofflorida,jhoanderirigoyen3mza,Jhoander Irigoyen
-Mar 4,home,Florida SouthWestern State,W,5-4,5,4,1,win,20230304_k74z,3,0,1,,,,0,,1,,,,,,1,0,,1,,,3,2023,2022-23,div1,Seminole State (FL),seminolestatecollegeofflorida,jhoanderirigoyen3mza,Jhoander Irigoyen
-Mar 11,home,Santa Fe,W,3-2,3,2,1,win,20230311_dbjt,4,1,1,,,,1,1,,,,,,,1,0,,,,,5,2023,2022-23,div1,Seminole State (FL),seminolestatecollegeofflorida,jhoanderirigoyen3mza,Jhoander Irigoyen
-Mar 22,home,Daytona State,W,17-10,17,10,7,win,20230322_cg54,5,3,2,,,2,5,1,,1,,,,,8,2,,,,,6,2023,2022-23,div1,Seminole State (FL),seminolestatecollegeofflorida,jhoanderirigoyen3mza,Jhoander Irigoyen
-Mar 25,home,Daytona State,W,4-2,4,2,2,win,20230325_xuia,5,1,1,2,,,0,,,,,,,,3,2,,,,,5,2023,2022-23,div1,Seminole State (FL),seminolestatecollegeofflorida,jhoanderirigoyen3mza,Jhoander Irigoyen
-Mar 27,home,Lake-Sumter State,W,5-4,5,4,1,win,20230327_1s3j,2,0,0,,,,0,1,,,,,,,0,0,,,,,3,2023,2022-23,div1,Seminole State (FL),seminolestatecollegeofflorida,jhoanderirigoyen3mza,Jhoander Irigoyen
-Mar 29,home,Santa Fe,W,2-1,2,1,1,win,20230329_gdi4,4,0,0,,,,0,1,1,,,,,,0,0,,,,,5,2023,2022-23,div1,Seminole State (FL),seminolestatecollegeofflorida,jhoanderirigoyen3mza,Jhoander Irigoyen
-Mar 31,home,Santa Fe,W,13-5,13,5,8,win,20230331_0m8g,3,3,3,,,1,2,2,,,,,,,6,1,,,,,5,2023,2022-23,div1,Seminole State (FL),seminolestatecollegeofflorida,jhoanderirigoyen3mza,Jhoander Irigoyen
+Feb 18,home,Weatherford,W,8-7,8,7,1,win,20230218_icow,0,0,0,,,,0,,,,,,,,0,0,,,,,0,2023,2022-23,div1,Seminole State (FL),seminolestatecollegeofflorida,jhoanderirigoyen3mza,Jhoander Irigoyen
+Mar 5,home,Minnesota West,W,11-1,11,1,10,win,20230305_cc1d,0,0,0,,,,0,,,,,,,,0,0,,,,,0,2023,2022-23,div1,Seminole State (FL),seminolestatecollegeofflorida,jhoanderirigoyen3mza,Jhoander Irigoyen
+Mar 20,home,Augustana University,W,18-8,18,8,10,win,20230320_hwrr,0,0,0,,,,0,,,,,,,,0,0,,,,,0,2023,2022-23,div1,Seminole State (FL),seminolestatecollegeofflorida,jhoanderirigoyen3mza,Jhoander Irigoyen
+Mar 30,home,Iowa Central,W,7-4,7,4,3,win,20230330_npay,0,0,0,,,,0,,,,,,,,0,0,,,,,0,2023,2022-23,div1,Seminole State (FL),seminolestatecollegeofflorida,jhoanderirigoyen3mza,Jhoander Irigoyen
+Apr 5,home,Iowa Lakes,W,10-2,10,2,8,win,20230405_7lbi,0,0,0,,,,0,,,,,,,,0,0,,,,,0,2023,2022-23,div1,Seminole State (FL),seminolestatecollegeofflorida,jhoanderirigoyen3mza,Jhoander Irigoyen
