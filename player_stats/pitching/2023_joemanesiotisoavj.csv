@@ -1,10 +1,15 @@
 date,location,opponent,result,score,team_score,opp_score,game_score_diff,game_win_loss,game_id,GS,W,L,SV,IP,H,R,ER,ERA,BB,K,HR,season,njcaa_season,njcaa_division,team,team_id,player_id,player_name
-Apr 1,home,Shelton State,L,12-3,12,3,9,win,20230401_etda,1,0,1,0,1.0,2,4,3,27.00,2,1,1,2023,2022-23,div1,Southern Union State,southernunionstatecommunitycollege,joemanesiotisoavj,JOE MANESIOTIS
-Mar 25,home,Wallace State,L,7-2,7,2,5,win,20230325_t8ig,1,0,1,0,3.2,7,7,5,12.27,1,5,3,2023,2022-23,div1,Southern Union State,southernunionstatecommunitycollege,joemanesiotisoavj,JOE MANESIOTIS
-Mar 18,home,Northwest-Shoals Community College,W,2-0,2,0,2,win,20230318_1n2w,1,1,0,0,5.2,4,0,0,0.00,2,3,,2023,2022-23,div1,Southern Union State,southernunionstatecommunitycollege,joemanesiotisoavj,JOE MANESIOTIS
-Mar 11,home,Marion Military,W,8-2,8,2,6,win,20230311_thrp,1,1,0,0,4.0,7,2,1,2.25,2,4,,2023,2022-23,div1,Southern Union State,southernunionstatecommunitycollege,joemanesiotisoavj,JOE MANESIOTIS
-Mar 4,home,South Georgia State,W,7-4,7,4,3,win,20230304_z3wn,1,1,0,0,5.0,9,4,4,7.20,2,1,1,2023,2022-23,div1,Southern Union State,southernunionstatecommunitycollege,joemanesiotisoavj,JOE MANESIOTIS
-Feb 26,home,Spartanburg Methodist,L,6-0,6,0,6,win,20230226_69xi,1,0,1,0,3.0,7,5,4,12.00,3,4,,2023,2022-23,div1,Southern Union State,southernunionstatecommunitycollege,joemanesiotisoavj,JOE MANESIOTIS
-Feb 18,home,John A. Logan,L,10-3,10,3,7,win,20230218_5591,1,0,0,0,2.0,4,2,2,9.00,1,4,,2023,2022-23,div1,Southern Union State,southernunionstatecommunitycollege,joemanesiotisoavj,JOE MANESIOTIS
-Feb 3,home,Lurleen B. Wallace,W,11-1,11,1,10,win,20230203_ia0q,1,1,0,0,4.0,3,1,0,0.00,0,8,,2023,2022-23,div1,Southern Union State,southernunionstatecommunitycollege,joemanesiotisoavj,JOE MANESIOTIS
-Jan 28,home,Gordon State,L,7-3,7,3,4,win,20230128_dmfb,0,0,0,0,1.0,,,,0.00,,2,,2023,2022-23,div1,Southern Union State,southernunionstatecommunitycollege,joemanesiotisoavj,JOE MANESIOTIS
+Apr 1,home,Shelton State,W,2-0,2,0,2,win,20230401_yu1t,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div1,Southern Union State,southernunionstatecommunitycollege,joemanesiotisoavj,JOE MANESIOTIS
+Apr 1,home,Shelton State,L,12-3,12,3,9,win,20230401_etda,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div1,Southern Union State,southernunionstatecommunitycollege,joemanesiotisoavj,JOE MANESIOTIS
+Mar 30,home,Shelton State,L,12-9,12,9,3,win,20230330_9ahh,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div1,Southern Union State,southernunionstatecommunitycollege,joemanesiotisoavj,JOE MANESIOTIS
+Mar 25,home,Wallace State,L,7-2,7,2,5,win,20230325_t8ig,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div1,Southern Union State,southernunionstatecommunitycollege,joemanesiotisoavj,JOE MANESIOTIS
+Mar 11,home,Marion Military,L,4-0,4,0,4,win,20230311_0r0c,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div1,Southern Union State,southernunionstatecommunitycollege,joemanesiotisoavj,JOE MANESIOTIS
+Mar 2,home,South Georgia State,W,10-2,10,2,8,win,20230302_0fo8,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div1,Southern Union State,southernunionstatecommunitycollege,joemanesiotisoavj,JOE MANESIOTIS
+Mar 2,home,South Georgia State,L,15-5,15,5,10,win,20230302_yprw,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div1,Southern Union State,southernunionstatecommunitycollege,joemanesiotisoavj,JOE MANESIOTIS
+Feb 26,home,Spartanburg Methodist,L,6-0,6,0,6,win,20230226_69xi,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div1,Southern Union State,southernunionstatecommunitycollege,joemanesiotisoavj,JOE MANESIOTIS
+Feb 25,home,USC Salkehatchie,W,8-2,8,2,6,win,20230225_6f0n,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div1,Southern Union State,southernunionstatecommunitycollege,joemanesiotisoavj,JOE MANESIOTIS
+Feb 25,home,Spartanburg Methodist,L,5-3,5,3,2,win,20230225_ea0l,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div1,Southern Union State,southernunionstatecommunitycollege,joemanesiotisoavj,JOE MANESIOTIS
+Feb 18,home,John A. Logan,L,10-3,10,3,7,win,20230218_5591,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div1,Southern Union State,southernunionstatecommunitycollege,joemanesiotisoavj,JOE MANESIOTIS
+Feb 7,home,Gordon State,L,7-6,7,6,1,win,20230207_as5r,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div1,Southern Union State,southernunionstatecommunitycollege,joemanesiotisoavj,JOE MANESIOTIS
+Feb 3,home,Calhoun,L,5-4,5,4,1,win,20230203_1eop,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div1,Southern Union State,southernunionstatecommunitycollege,joemanesiotisoavj,JOE MANESIOTIS
+Jan 28,home,Gordon State,L,7-3,7,3,4,win,20230128_dmfb,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div1,Southern Union State,southernunionstatecommunitycollege,joemanesiotisoavj,JOE MANESIOTIS

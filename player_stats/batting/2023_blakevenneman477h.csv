@@ -1,13 +1,19 @@
 date,location,opponent,result,score,team_score,opp_score,game_score_diff,game_win_loss,game_id,AB,R,H,2B,3B,HR,RBI,BB,K,SB,CS,HBP,SF,SH,TB,XBH,HDP,GO,FO,GO/FO,PA,season,njcaa_season,njcaa_division,team,team_id,player_id,player_name
-Feb 4,home,East Central (MS),W,2-1,2,1,1,win,20230204_yujx,2,0,0,,,,0,,,,,,,,0,0,,,,,2,2023,2022-23,div1,Allen County,allencountycommunitycollege,blakevenneman477h,Blake Venneman
-Feb 17,home,Northwest-Shoals Community College,W,24-1,24,1,23,win,20230217_6av9,2,3,1,,,,1,2,,,,1,,,1,0,,,,,5,2023,2022-23,div1,Allen County,allencountycommunitycollege,blakevenneman477h,Blake Venneman
-Feb 18,home,Northwest-Shoals Community College,W,7-2,7,2,5,win,20230218_u93p,2,0,0,,,,0,,,,,,,,0,0,,,,,2,2023,2022-23,div1,Allen County,allencountycommunitycollege,blakevenneman477h,Blake Venneman
-Feb 25,home,Lawson State,W,5-2,5,2,3,win,20230225_h2e1,2,0,0,,,,1,,2,,,,1,,0,0,,,,,3,2023,2022-23,div1,Allen County,allencountycommunitycollege,blakevenneman477h,Blake Venneman
-Feb 28,home,Williams Baptist University JV,W,15-2,15,2,13,win,20230228_vb21,0,0,0,,,,0,,,,,,,,0,0,,,,,0,2023,2022-23,div1,Allen County,allencountycommunitycollege,blakevenneman477h,Blake Venneman
-Feb 28,home,Williams Baptist University JV,W,10-0,10,0,10,win,20230228_iaio,2,0,0,,,,1,,1,,,1,,,0,0,,,,,3,2023,2022-23,div1,Allen County,allencountycommunitycollege,blakevenneman477h,Blake Venneman
-Mar 4,home,UA Rich Mountain,W,5-1,5,1,4,win,20230304_yywq,3,0,0,,,,0,,,,,,,,0,0,,,,,3,2023,2022-23,div1,Allen County,allencountycommunitycollege,blakevenneman477h,Blake Venneman
-Mar 7,home,Missouri Valley College JV,W,10-0,10,0,10,win,20230307_7nv1,0,0,0,,,,0,,,,,,,,0,0,,,,,0,2023,2022-23,div1,Allen County,allencountycommunitycollege,blakevenneman477h,Blake Venneman
-Mar 7,home,Missouri Valley College JV,W,8-0,8,0,8,win,20230307_o502,2,0,1,1,,,2,1,1,,,1,,,2,1,,,,,4,2023,2022-23,div1,Allen County,allencountycommunitycollege,blakevenneman477h,Blake Venneman
-Apr 3,home,Crowley's Ridge College JV,W,14-4,14,4,10,win,20230403_zjl5,0,0,0,,,,0,,,,,,,,0,0,,,,,0,2023,2022-23,div1,Allen County,allencountycommunitycollege,blakevenneman477h,Blake Venneman
-Apr 4,home,UHSP,W,9-3,9,3,6,win,20230404_mwij,0,0,0,,,,0,,,,,,,,0,0,,,,,0,2023,2022-23,div1,Allen County,allencountycommunitycollege,blakevenneman477h,Blake Venneman
-Apr 7,home,Metropolitan,W,10-2,10,2,8,win,20230407_gs54,1,2,0,,,,0,2,,,,1,,,0,0,,,,,4,2023,2022-23,div1,Allen County,allencountycommunitycollege,blakevenneman477h,Blake Venneman
+Feb 19,home,North Iowa Area,W,6-5,6,5,1,win,20230219_3ipw,2,0,0,,,,0,2,,1,,,,,0,0,,,,,4,2023,2022-23,div1,Allen County,allencountycommunitycollege,blakevenneman477h,Blake Venneman
+Feb 20,home,North Iowa Area,W,6-5,6,5,1,win,20230220_0fe4,5,1,1,1,,,0,1,,2,,,,,2,1,,,,,6,2023,2022-23,div1,Allen County,allencountycommunitycollege,blakevenneman477h,Blake Venneman
+Feb 22,home,Baker University,W,5-2,5,2,3,win,20230222_pb85,4,1,1,,,,0,,,1,,,,,1,0,,,,,4,2023,2022-23,div1,Allen County,allencountycommunitycollege,blakevenneman477h,Blake Venneman
+Feb 22,home,Baker University,W,6-3,6,3,3,win,20230222_3cug,1,1,0,,,,1,2,,1,,,1,1,0,0,,,,,5,2023,2022-23,div1,Allen County,allencountycommunitycollege,blakevenneman477h,Blake Venneman
+Mar 1,home,Ottawa University,W,1-0,1,0,1,win,20230301_1twm,3,0,1,,,,1,,,2,,,1,,1,0,,,,,4,2023,2022-23,div1,Allen County,allencountycommunitycollege,blakevenneman477h,Blake Venneman
+Mar 1,home,Ottawa University,W,11-2,11,2,9,win,20230301_tpay,2,2,1,,,,1,,1,,,1,,,1,0,,,,,3,2023,2022-23,div1,Allen County,allencountycommunitycollege,blakevenneman477h,Blake Venneman
+Mar 10,home,Highland (KS),W,13-3,13,3,10,win,20230310_jolg,4,2,3,,,,1,,,2,,,,,3,0,,,,,4,2023,2022-23,div1,Allen County,allencountycommunitycollege,blakevenneman477h,Blake Venneman
+Mar 10,home,Highland (KS),W,4-3,4,3,1,win,20230310_9oat,4,0,0,,,,0,1,,1,,,,,0,0,,,,,5,2023,2022-23,div1,Allen County,allencountycommunitycollege,blakevenneman477h,Blake Venneman
+Mar 12,home,Highland (KS),W,3-2,3,2,1,win,20230312_cmz5,2,1,1,,,,0,1,,1,,,,,1,0,,,,,3,2023,2022-23,div1,Allen County,allencountycommunitycollege,blakevenneman477h,Blake Venneman
+Mar 12,home,Highland (KS),W,7-4,7,4,3,win,20230312_ar1w,2,2,0,,,,0,3,,,,,,,0,0,,,,,5,2023,2022-23,div1,Allen County,allencountycommunitycollege,blakevenneman477h,Blake Venneman
+Mar 17,home,Neosho County,W,6-0,6,0,6,win,20230317_2zx1,4,1,4,,,,1,,,,1,,,,4,0,,,,,4,2023,2022-23,div1,Allen County,allencountycommunitycollege,blakevenneman477h,Blake Venneman
+Mar 25,home,Cowley,W,7-6,7,6,1,win,20230325_mbry,3,0,1,,,,0,1,1,,,,,,1,0,,,1,,4,2023,2022-23,div1,Allen County,allencountycommunitycollege,blakevenneman477h,Blake Venneman
+Mar 28,home,Baker University,W,4-3,4,3,1,win,20230328_v5sl,2,2,1,,,,0,1,,1,,1,,,1,0,,,,,4,2023,2022-23,div1,Allen County,allencountycommunitycollege,blakevenneman477h,Blake Venneman
+Mar 30,home,Johnson County,W,8-0,8,0,8,win,20230330_8flz,3,0,1,,,,1,1,,,,1,,,1,0,,,,,5,2023,2022-23,div1,Allen County,allencountycommunitycollege,blakevenneman477h,Blake Venneman
+Apr 1,home,Johnson County,W,8-7,8,7,1,win,20230401_8pu3,5,2,2,1,,,0,,,2,,,,,3,1,,,,,5,2023,2022-23,div1,Allen County,allencountycommunitycollege,blakevenneman477h,Blake Venneman
+Apr 5,home,Southwestern College,W,5-1,5,1,4,win,20230405_rp2b,2,2,2,,,,0,1,,1,,,,,2,0,,,,,3,2023,2022-23,div1,Allen County,allencountycommunitycollege,blakevenneman477h,Blake Venneman
+Apr 5,home,Southwestern College,W,4-0,4,0,4,win,20230405_2qfq,3,1,1,,,,0,,1,1,,,,,1,0,,,,,3,2023,2022-23,div1,Allen County,allencountycommunitycollege,blakevenneman477h,Blake Venneman
+Apr 6,home,Labette,W,16-5,16,5,11,win,20230406_8sgn,5,1,1,,,,0,,,,1,1,,,1,0,,,,,6,2023,2022-23,div1,Allen County,allencountycommunitycollege,blakevenneman477h,Blake Venneman

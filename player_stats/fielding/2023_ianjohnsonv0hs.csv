@@ -1,18 +1,13 @@
 date,location,opponent,result,score,team_score,opp_score,game_score_diff,game_win_loss,game_id,TC,PO,A,E,FPCT,DP,SBA,RCS,RCS_PCT,PB,CI,season,njcaa_season,njcaa_division,team,team_id,player_id,player_name
-Jan 28,home,Galveston,L,9-4,9,4,5,win,20230128_sv86,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Baton Rouge,batonrougecommunitycollege,ianjohnsonv0hs,Ian Johnson
-Jan 28,home,Ranger,L,18-2,18,2,16,win,20230128_ob63,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Baton Rouge,batonrougecommunitycollege,ianjohnsonv0hs,Ian Johnson
-Feb 4,home,Blinn,L,4-2,4,2,2,win,20230204_ih84,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Baton Rouge,batonrougecommunitycollege,ianjohnsonv0hs,Ian Johnson
-Feb 5,home,Blinn,L,8-2,8,2,6,win,20230205_dxco,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Baton Rouge,batonrougecommunitycollege,ianjohnsonv0hs,Ian Johnson
-Feb 5,home,Blinn,L,12-4,12,4,8,win,20230205_j4tq,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Baton Rouge,batonrougecommunitycollege,ianjohnsonv0hs,Ian Johnson
-Feb 10,home,Navarro,L,6-1,6,1,5,win,20230210_w6vk,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Baton Rouge,batonrougecommunitycollege,ianjohnsonv0hs,Ian Johnson
-Feb 11,home,San Jacinto,L,11-2,11,2,9,win,20230211_5exr,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Baton Rouge,batonrougecommunitycollege,ianjohnsonv0hs,Ian Johnson
-Feb 18,home,St. Louis,W,4-3,4,3,1,win,20230218_mkiy,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Baton Rouge,batonrougecommunitycollege,ianjohnsonv0hs,Ian Johnson
-Feb 19,home,St. Louis,W,7-4,7,4,3,win,20230219_2opq,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Baton Rouge,batonrougecommunitycollege,ianjohnsonv0hs,Ian Johnson
-Feb 19,home,St. Louis,W,6-5,6,5,1,win,20230219_0had,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Baton Rouge,batonrougecommunitycollege,ianjohnsonv0hs,Ian Johnson
-Feb 24,home,Illinois Central,L,8-1,8,1,7,win,20230224_m2py,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Baton Rouge,batonrougecommunitycollege,ianjohnsonv0hs,Ian Johnson
-Feb 26,home,Jones,L,10-7,10,7,3,win,20230226_cggg,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Baton Rouge,batonrougecommunitycollege,ianjohnsonv0hs,Ian Johnson
-Mar 3,home,Pearl River,L,10-2,10,2,8,win,20230303_4x6x,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Baton Rouge,batonrougecommunitycollege,ianjohnsonv0hs,Ian Johnson
-Mar 3,home,Pearl River,L,8-3,8,3,5,win,20230303_pi1j,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Baton Rouge,batonrougecommunitycollege,ianjohnsonv0hs,Ian Johnson
-Mar 5,home,Lansing,W,13-2,13,2,11,win,20230305_bq0x,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Baton Rouge,batonrougecommunitycollege,ianjohnsonv0hs,Ian Johnson
-Mar 13,home,Triton,W,16-8,16,8,8,win,20230313_c5yp,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Baton Rouge,batonrougecommunitycollege,ianjohnsonv0hs,Ian Johnson
-Mar 20,home,Louisiana State University Alexandria,L,10-5,10,5,5,win,20230320_h36b,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Baton Rouge,batonrougecommunitycollege,ianjohnsonv0hs,Ian Johnson
+Feb 5,home,Blinn,L,12-4,12,4,8,win,20230205_j4tq,0,0,0,0,2.0,1,,,0.00,,3,2023,2022-23,div1,Baton Rouge,batonrougecommunitycollege,ianjohnsonv0hs,Ian Johnson
+Feb 13,home,Southwest Mississippi,L,8-3,8,3,5,win,20230213_863a,0,0,0,0,1.2,2,1,1,5.40,1,1,2023,2022-23,div1,Baton Rouge,batonrougecommunitycollege,ianjohnsonv0hs,Ian Johnson
+Feb 19,home,St. Louis,W,6-5,6,5,1,win,20230219_0had,0,0,0,0,0.2,3,1,1,13.50,1,,2023,2022-23,div1,Baton Rouge,batonrougecommunitycollege,ianjohnsonv0hs,Ian Johnson
+Feb 24,home,Illinois Central,L,8-1,8,1,7,win,20230224_m2py,1,0,1,0,3.1,6,5,5,13.50,0,2,2023,2022-23,div1,Baton Rouge,batonrougecommunitycollege,ianjohnsonv0hs,Ian Johnson
+Mar 5,home,Pearl River,L,2-0,2,0,2,win,20230305_ydsk,0,0,0,0,1.0,0,0,0,0.00,0,1,2023,2022-23,div1,Baton Rouge,batonrougecommunitycollege,ianjohnsonv0hs,Ian Johnson
+Mar 7,home,Northwest Florida State,W,9-4,9,4,5,win,20230307_wh3m,0,0,0,0,2.0,1,0,0,0.00,1,1,2023,2022-23,div1,Baton Rouge,batonrougecommunitycollege,ianjohnsonv0hs,Ian Johnson
+Mar 10,home,Triton,W,14-13,14,13,1,win,20230310_2otp,0,0,0,0,0.2,1,2,2,27.00,,,2023,2022-23,div1,Baton Rouge,batonrougecommunitycollege,ianjohnsonv0hs,Ian Johnson
+Mar 13,home,Triton,W,16-8,16,8,8,win,20230313_c5yp,1,0,0,0,3.2,1,0,0,0.00,1,0,2023,2022-23,div1,Baton Rouge,batonrougecommunitycollege,ianjohnsonv0hs,Ian Johnson
+Mar 18,home,East Central (MS),W,14-4,14,4,10,win,20230318_mzhe,1,1,0,0,5.0,6,4,4,7.20,2,2,2023,2022-23,div1,Baton Rouge,batonrougecommunitycollege,ianjohnsonv0hs,Ian Johnson
+Mar 25,home,Bossier Parish,L,16-5,16,5,11,win,20230325_kimx,1,0,0,0,1.2,4,6,0,0.00,0,1,2023,2022-23,div1,Baton Rouge,batonrougecommunitycollege,ianjohnsonv0hs,Ian Johnson
+Apr 2,home,Delgado,L,20-12,20,12,8,win,20230402_8xr1,0,0,0,0,0.2,2,4,4,54.00,4,,2023,2022-23,div1,Baton Rouge,batonrougecommunitycollege,ianjohnsonv0hs,Ian Johnson
+Apr 7,home,Nunez,L,8-5,8,5,3,win,20230407_6bhn,0,0,0,0,1.1,2,1,1,6.75,,1,2023,2022-23,div1,Baton Rouge,batonrougecommunitycollege,ianjohnsonv0hs,Ian Johnson
