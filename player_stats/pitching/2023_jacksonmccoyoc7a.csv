@@ -1,7 +1,17 @@
 date,location,opponent,result,score,team_score,opp_score,game_score_diff,game_win_loss,game_id,GS,W,L,SV,IP,H,R,ER,ERA,BB,K,HR,season,njcaa_season,njcaa_division,team,team_id,player_id,player_name
+Apr 24,home,Mississippi Delta,L,6-5,6,5,1,win,20230424_fwxl,0,0,1,0,1.1,3,1,1,6.75,1,2,,2023,2022-23,div2,Northeast Mississippi,northeastmississippicommunitycollege,jacksonmccoyoc7a,Jackson McCoy
+Apr 24,home,Mississippi Delta,W,12-1,12,1,11,win,20230424_8aua,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div2,Northeast Mississippi,northeastmississippicommunitycollege,jacksonmccoyoc7a,Jackson McCoy
+Apr 22,home,Meridian,L,9-5,9,5,4,win,20230422_dhr0,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div2,Northeast Mississippi,northeastmississippicommunitycollege,jacksonmccoyoc7a,Jackson McCoy
+Apr 22,home,Meridian,W,12-11,12,11,1,win,20230422_xxg1,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div2,Northeast Mississippi,northeastmississippicommunitycollege,jacksonmccoyoc7a,Jackson McCoy
+Apr 18,home,Holmes,W,8-7,8,7,1,win,20230418_kxhx,0,1,0,0,1.0,,,,0.00,,,,2023,2022-23,div2,Northeast Mississippi,northeastmississippicommunitycollege,jacksonmccoyoc7a,Jackson McCoy
+Apr 18,home,Holmes,W,14-2,14,2,12,win,20230418_41cm,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div2,Northeast Mississippi,northeastmississippicommunitycollege,jacksonmccoyoc7a,Jackson McCoy
+Apr 15,home,Jones,L,17-6,17,6,11,win,20230415_0flw,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div2,Northeast Mississippi,northeastmississippicommunitycollege,jacksonmccoyoc7a,Jackson McCoy
+Apr 15,home,Jones,W,10-0,10,0,10,win,20230415_ov6d,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div2,Northeast Mississippi,northeastmississippicommunitycollege,jacksonmccoyoc7a,Jackson McCoy
+Apr 12,home,Northwest Mississippi,W,15-2,15,2,13,win,20230412_c601,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div2,Northeast Mississippi,northeastmississippicommunitycollege,jacksonmccoyoc7a,Jackson McCoy
+Apr 12,home,Northwest Mississippi,W,14-4,14,4,10,win,20230412_dpn9,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div2,Northeast Mississippi,northeastmississippicommunitycollege,jacksonmccoyoc7a,Jackson McCoy
 Apr 4,home,East Mississippi,L,13-5,13,5,8,win,20230404_tflz,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div2,Northeast Mississippi,northeastmississippicommunitycollege,jacksonmccoyoc7a,Jackson McCoy
 Apr 4,home,East Mississippi,W,12-5,12,5,7,win,20230404_txc1,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div2,Northeast Mississippi,northeastmississippicommunitycollege,jacksonmccoyoc7a,Jackson McCoy
-Apr 1,home,East Central (MS),L,11-8,11,8,3,win,20230401_jgmj,0,0,1,0,0.2,4,4,3,40.50,,,,2023,2022-23,div2,Northeast Mississippi,northeastmississippicommunitycollege,jacksonmccoyoc7a,Jackson McCoy
+Apr 1,home,East Central (MS),L,11-8,11,8,3,win,20230401_jgmj,0,0,1,0,0.2,4,4,1,13.50,,,,2023,2022-23,div2,Northeast Mississippi,northeastmississippicommunitycollege,jacksonmccoyoc7a,Jackson McCoy
 Apr 1,home,East Central (MS),L,19-10,19,10,9,win,20230401_4zaz,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div2,Northeast Mississippi,northeastmississippicommunitycollege,jacksonmccoyoc7a,Jackson McCoy
 Mar 29,home,Itawamba,L,3-0,3,0,3,win,20230329_0gey,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div2,Northeast Mississippi,northeastmississippicommunitycollege,jacksonmccoyoc7a,Jackson McCoy
 Mar 29,home,Itawamba,W,9-5,9,5,4,win,20230329_isb9,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div2,Northeast Mississippi,northeastmississippicommunitycollege,jacksonmccoyoc7a,Jackson McCoy
@@ -12,9 +22,9 @@ Mar 18,home,Southwest Mississippi,W,20-7,20,7,13,win,20230318_1fdw,0,0,0,0,0.0,,
 Mar 15,home,Coahoma,W,4-2,4,2,2,win,20230315_572n,0,1,0,0,2.1,2,,,0.00,,1,,2023,2022-23,div2,Northeast Mississippi,northeastmississippicommunitycollege,jacksonmccoyoc7a,Jackson McCoy
 Mar 15,home,Coahoma,W,11-0,11,0,11,win,20230315_axrh,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div2,Northeast Mississippi,northeastmississippicommunitycollege,jacksonmccoyoc7a,Jackson McCoy
 Mar 11,home,Pearl River,L,6-4,6,4,2,win,20230311_pezn,0,0,0,0,0.2,2,0,0,0.00,0,1,0,2023,2022-23,div2,Northeast Mississippi,northeastmississippicommunitycollege,jacksonmccoyoc7a,Jackson McCoy
-Mar 11,home,Pearl River,W,6-5,6,5,1,win,20230311_xeae,0,0,0,0,0.0,0,0,0,0.00,0,0,0,2023,2022-23,div2,Northeast Mississippi,northeastmississippicommunitycollege,jacksonmccoyoc7a,Jackson McCoy
+Mar 11,home,Pearl River,W,6-5,6,5,1,win,20230311_xeae,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div2,Northeast Mississippi,northeastmississippicommunitycollege,jacksonmccoyoc7a,Jackson McCoy
 Mar 7,home,East Central (MS),W,7-3,7,3,4,win,20230307_sbfu,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div2,Northeast Mississippi,northeastmississippicommunitycollege,jacksonmccoyoc7a,Jackson McCoy
-Mar 7,home,Coahoma,W,12-2,12,2,10,win,20230307_kxyr,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div2,Northeast Mississippi,northeastmississippicommunitycollege,jacksonmccoyoc7a,Jackson McCoy
+Mar 7,home,Coahoma,W,11-2,11,2,9,win,20230307_kxyr,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div2,Northeast Mississippi,northeastmississippicommunitycollege,jacksonmccoyoc7a,Jackson McCoy
 Mar 4,home,Wallace State,L,7-1,7,1,6,win,20230304_c3wu,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div2,Northeast Mississippi,northeastmississippicommunitycollege,jacksonmccoyoc7a,Jackson McCoy
 Mar 4,home,Wallace State,L,3-1,3,1,2,win,20230304_53nh,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div2,Northeast Mississippi,northeastmississippicommunitycollege,jacksonmccoyoc7a,Jackson McCoy
 Feb 28,home,Itawamba,L,5-1,5,1,4,win,20230228_9jwf,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div2,Northeast Mississippi,northeastmississippicommunitycollege,jacksonmccoyoc7a,Jackson McCoy

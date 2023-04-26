@@ -1,5 +1,5 @@
 date,location,opponent,result,score,team_score,opp_score,game_score_diff,game_win_loss,game_id,AB,R,H,2B,3B,HR,RBI,BB,K,SB,CS,HBP,SF,SH,TB,XBH,HDP,GO,FO,GO/FO,PA,season,njcaa_season,njcaa_division,team,team_id,player_id,player_name
-Feb 18,home,Southwest Virginia,W,12-0,12,0,12,win,20230218_rwu1,3,0,1,,,,2,,,,,,1,,1,0,,,3,,4,2023,2022-23,div2,Lackawanna,lackawannacollege,ericludwickj6us,Eric Ludwick
+Feb 18,home,Southwest Virginia,W,12-0,12,0,12,win,20230218_rwu1,3,0,1,1,,,2,,,,,,1,,2,1,,,3,,4,2023,2022-23,div2,Lackawanna,lackawannacollege,ericludwickj6us,Eric Ludwick
 Feb 19,home,Southwest Virginia,W,10-5,10,5,5,win,20230219_uf8c,3,0,0,,,,1,,,1,,,,,0,0,,2,,,3,2023,2022-23,div2,Lackawanna,lackawannacollege,ericludwickj6us,Eric Ludwick
 Feb 23,home,Harford,W,10-6,10,6,4,win,20230223_dqbo,3,2,2,,,,2,1,,,,,,,2,0,,1,,,4,2023,2022-23,div2,Lackawanna,lackawannacollege,ericludwickj6us,Eric Ludwick
 Mar 5,home,Florence-Darlington Tech,W,10-5,10,5,5,win,20230305_9sus,3,2,1,0,0,0,0,1,0,0,0,0,0,0,1,0,,0,,,4,2023,2022-23,div2,Lackawanna,lackawannacollege,ericludwickj6us,Eric Ludwick
@@ -15,5 +15,14 @@ Apr 4,home,Lehigh Carbon,W,22-1,22,1,21,win,20230404_6tso,3,2,1,,,,1,,1,,,1,,,1,
 Apr 5,home,Lehigh Carbon,W,17-5,17,5,12,win,20230405_4oir,4,1,2,,,,3,1,1,1,,,,,2,0,,,1,,5,2023,2022-23,div2,Lackawanna,lackawannacollege,ericludwickj6us,Eric Ludwick
 Apr 5,home,Lehigh Carbon,W,7-5,7,5,2,win,20230405_lsp4,3,0,0,,,,0,,,,,,,,0,0,,1,2,0.50,3,2023,2022-23,div2,Lackawanna,lackawannacollege,ericludwickj6us,Eric Ludwick
 Apr 7,home,Monroe CC,W,12-0,12,0,12,win,20230407_42pe,4,1,1,1,,,0,,,,,,,,2,1,,1,2,0.50,4,2023,2022-23,div2,Lackawanna,lackawannacollege,ericludwickj6us,Eric Ludwick
-Apr 7,home,Monroe CC,W,20-17,20,17,3,win,20230407_djah,3,3,0,,,,1,,,,,1,,,0,0,,,2,,4,2023,2022-23,div2,Lackawanna,lackawannacollege,ericludwickj6us,Eric Ludwick
+Apr 7,home,Monroe CC,W,20-17,20,17,3,win,20230407_djah,3,3,1,,,,1,,,,,1,,,1,0,,,2,,4,2023,2022-23,div2,Lackawanna,lackawannacollege,ericludwickj6us,Eric Ludwick
 Apr 8,home,UConn Avery Point,W,6-2,6,2,4,win,20230408_0rt5,4,0,2,,,,3,,1,,,,,,2,0,,1,,,4,2023,2022-23,div2,Lackawanna,lackawannacollege,ericludwickj6us,Eric Ludwick
+Apr 14,home,Delaware Tech,W,15-7,15,7,8,win,20230414_pkx8,4,2,1,,,,1,1,1,,,,,,1,0,,1,1,1.00,5,2023,2022-23,div2,Lackawanna,lackawannacollege,ericludwickj6us,Eric Ludwick
+Apr 16,home,Delaware Tech,W,6-5,6,5,1,win,20230416_lcu8,3,0,0,,,,0,,,,,,,,0,0,,3,,,3,2023,2022-23,div2,Lackawanna,lackawannacollege,ericludwickj6us,Eric Ludwick
+Apr 18,home,Salem,W,16-5,16,5,11,win,20230418_ar06,3,1,1,1,,,2,2,,,,,,,2,1,,,2,,5,2023,2022-23,div2,Lackawanna,lackawannacollege,ericludwickj6us,Eric Ludwick
+Apr 20,home,Montgomery County,W,21-7,21,7,14,win,20230420_7xmj,5,2,3,,,,1,1,,,,,,,3,0,,,2,,6,2023,2022-23,div2,Lackawanna,lackawannacollege,ericludwickj6us,Eric Ludwick
+Apr 21,home,Raritan Valley,W,22-6,22,6,16,win,20230421_bbpx,3,3,2,,,1,3,3,,,,,,,5,1,,,1,,6,2023,2022-23,div2,Lackawanna,lackawannacollege,ericludwickj6us,Eric Ludwick
+Apr 22,home,Raritan Valley,W,23-11,23,11,12,win,20230422_8c5v,3,2,1,,,1,5,1,1,,,,1,,4,1,,,2,,5,2023,2022-23,div2,Lackawanna,lackawannacollege,ericludwickj6us,Eric Ludwick
+Apr 22,home,Raritan Valley,W,13-0,13,0,13,win,20230422_54el,2,1,1,,,,1,,,,,,,,1,0,,,,,2,2023,2022-23,div2,Lackawanna,lackawannacollege,ericludwickj6us,Eric Ludwick
+Apr 23,home,Sussex County,W,8-7,8,7,1,win,20230423_jp2g,3,1,1,,,,1,1,2,,,,,,1,0,,,,,4,2023,2022-23,div2,Lackawanna,lackawannacollege,ericludwickj6us,Eric Ludwick
+Apr 23,home,Sussex County,W,9-2,9,2,7,win,20230423_e2tu,4,1,1,1,,,0,,1,,,,,,2,1,,,2,,4,2023,2022-23,div2,Lackawanna,lackawannacollege,ericludwickj6us,Eric Ludwick

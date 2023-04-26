@@ -1,7 +1,7 @@
 date,location,opponent,result,score,team_score,opp_score,game_score_diff,game_win_loss,game_id,AB,R,H,2B,3B,HR,RBI,BB,K,SB,CS,HBP,SF,SH,TB,XBH,HDP,GO,FO,GO/FO,PA,season,njcaa_season,njcaa_division,team,team_id,player_id,player_name
 Feb 4,home,Jackson State,W,10-0,10,0,10,win,20230204_kc4b,3,1,2,1,,,2,1,,,,,,,3,1,,,1,,4,2023,2022-23,div2,Northeast Mississippi,northeastmississippicommunitycollege,khiholidayo4mw,Khi Holiday
 Feb 4,home,John A. Logan,W,9-3,9,3,6,win,20230204_9p0v,2,2,0,,,,0,2,1,1,,,,,0,0,,,1,,4,2023,2022-23,div2,Northeast Mississippi,northeastmississippicommunitycollege,khiholidayo4mw,Khi Holiday
-Feb 5,home,Chattanooga State,W,5-4,5,4,1,win,20230205_ghoj,3,2,2,,,,1,,1,,,,1,,2,0,,,1,,4,2023,2022-23,div2,Northeast Mississippi,northeastmississippicommunitycollege,khiholidayo4mw,Khi Holiday
+Feb 5,home,Chattanooga State,W,5-4,5,4,1,win,20230205_ghoj,3,2,1,,,,1,,1,,,,1,,1,0,,,1,,4,2023,2022-23,div2,Northeast Mississippi,northeastmississippicommunitycollege,khiholidayo4mw,Khi Holiday
 Feb 10,home,Kaskaskia,W,9-8,9,8,1,win,20230210_hngn,4,2,1,,,,0,1,,,,,,,1,0,,3,,,5,2023,2022-23,div2,Northeast Mississippi,northeastmississippicommunitycollege,khiholidayo4mw,Khi Holiday
 Feb 18,home,Iowa Central,W,2-0,2,0,2,win,20230218_dvyg,3,1,1,,,,0,,1,,,,,,1,0,,1,,,3,2023,2022-23,div2,Northeast Mississippi,northeastmississippicommunitycollege,khiholidayo4mw,Khi Holiday
 Feb 19,home,Jefferson (MO),W,6-2,6,2,4,win,20230219_2fx6,4,1,2,,,,1,,2,1,,,,,2,0,,,,,4,2023,2022-23,div2,Northeast Mississippi,northeastmississippicommunitycollege,khiholidayo4mw,Khi Holiday
@@ -10,7 +10,7 @@ Feb 21,home,Southwest Mississippi,W,12-3,12,3,9,win,20230221_u59v,3,1,0,,,,0,1,2
 Feb 21,home,Holmes,W,7-3,7,3,4,win,20230221_87ji,3,0,2,,1,,2,1,,1,,,,,4,1,,,1,,4,2023,2022-23,div2,Northeast Mississippi,northeastmississippicommunitycollege,khiholidayo4mw,Khi Holiday
 Feb 26,home,Wallace State,W,6-5,6,5,1,win,20230226_ka3e,4,1,1,,,,1,,1,,,,,,1,0,,,2,,4,2023,2022-23,div2,Northeast Mississippi,northeastmississippicommunitycollege,khiholidayo4mw,Khi Holiday
 Feb 28,home,Northwest Mississippi,W,20-11,20,11,9,win,20230228_g45t,2,5,2,,,1,2,3,,2,,1,,,5,1,,,,,6,2023,2022-23,div2,Northeast Mississippi,northeastmississippicommunitycollege,khiholidayo4mw,Khi Holiday
-Mar 7,home,Coahoma,W,12-2,12,2,10,win,20230307_kxyr,3,1,1,1,,,1,,,,,1,,,2,1,,1,1,1.00,4,2023,2022-23,div2,Northeast Mississippi,northeastmississippicommunitycollege,khiholidayo4mw,Khi Holiday
+Mar 7,home,Coahoma,W,11-2,11,2,9,win,20230307_kxyr,3,1,1,1,,,1,,,,,1,,,2,1,,1,1,1.00,4,2023,2022-23,div2,Northeast Mississippi,northeastmississippicommunitycollege,khiholidayo4mw,Khi Holiday
 Mar 7,home,East Central (MS),W,7-3,7,3,4,win,20230307_sbfu,4,1,0,,,,0,,2,,,1,,,0,0,,2,,,5,2023,2022-23,div2,Northeast Mississippi,northeastmississippicommunitycollege,khiholidayo4mw,Khi Holiday
 Mar 11,home,Pearl River,W,6-5,6,5,1,win,20230311_xeae,4,2,1,0,0,0,1,1,0,0,0,0,0,0,1,0,0,1,2,0.50,5,2023,2022-23,div2,Northeast Mississippi,northeastmississippicommunitycollege,khiholidayo4mw,Khi Holiday
 Mar 15,home,Coahoma,W,11-0,11,0,11,win,20230315_axrh,5,1,1,,,,0,,1,1,,,,,1,0,,2,1,2.00,5,2023,2022-23,div2,Northeast Mississippi,northeastmississippicommunitycollege,khiholidayo4mw,Khi Holiday
@@ -20,3 +20,10 @@ Mar 18,home,Southwest Mississippi,W,14-9,14,9,5,win,20230318_oefm,3,3,2,,,,1,2,1
 Mar 25,home,Copiah-Lincoln,W,9-8,9,8,1,win,20230325_iv2i,5,2,4,,1,,2,,,,1,,,,6,1,,1,,,5,2023,2022-23,div2,Northeast Mississippi,northeastmississippicommunitycollege,khiholidayo4mw,Khi Holiday
 Mar 29,home,Itawamba,W,9-5,9,5,4,win,20230329_isb9,4,0,0,,,,0,1,1,,,,,,0,0,,1,2,0.50,5,2023,2022-23,div2,Northeast Mississippi,northeastmississippicommunitycollege,khiholidayo4mw,Khi Holiday
 Apr 4,home,East Mississippi,W,12-5,12,5,7,win,20230404_txc1,3,1,2,,,,2,1,,1,,2,,,2,0,,,1,,6,2023,2022-23,div2,Northeast Mississippi,northeastmississippicommunitycollege,khiholidayo4mw,Khi Holiday
+Apr 12,home,Northwest Mississippi,W,14-4,14,4,10,win,20230412_dpn9,2,1,1,,,,1,2,1,,,1,,,1,0,,,,,5,2023,2022-23,div2,Northeast Mississippi,northeastmississippicommunitycollege,khiholidayo4mw,Khi Holiday
+Apr 12,home,Northwest Mississippi,W,15-2,15,2,13,win,20230412_c601,4,4,3,1,,,2,,1,2,,1,,,4,1,,,,,5,2023,2022-23,div2,Northeast Mississippi,northeastmississippicommunitycollege,khiholidayo4mw,Khi Holiday
+Apr 15,home,Jones,W,10-0,10,0,10,win,20230415_ov6d,5,2,2,,,,1,,1,2,,,,,2,0,,2,,,5,2023,2022-23,div2,Northeast Mississippi,northeastmississippicommunitycollege,khiholidayo4mw,Khi Holiday
+Apr 18,home,Holmes,W,14-2,14,2,12,win,20230418_41cm,2,1,1,1,,,0,2,,1,,1,,,2,1,,1,,,5,2023,2022-23,div2,Northeast Mississippi,northeastmississippicommunitycollege,khiholidayo4mw,Khi Holiday
+Apr 18,home,Holmes,W,8-7,8,7,1,win,20230418_kxhx,3,2,0,,,,0,2,,2,,,,,0,0,,,2,,5,2023,2022-23,div2,Northeast Mississippi,northeastmississippicommunitycollege,khiholidayo4mw,Khi Holiday
+Apr 22,home,Meridian,W,12-11,12,11,1,win,20230422_xxg1,5,1,1,,,,0,1,1,,,,,,1,0,,2,1,2.00,6,2023,2022-23,div2,Northeast Mississippi,northeastmississippicommunitycollege,khiholidayo4mw,Khi Holiday
+Apr 24,home,Mississippi Delta,W,12-1,12,1,11,win,20230424_8aua,5,1,2,,,,2,,1,1,1,,,,2,0,,1,1,1.00,5,2023,2022-23,div2,Northeast Mississippi,northeastmississippicommunitycollege,khiholidayo4mw,Khi Holiday

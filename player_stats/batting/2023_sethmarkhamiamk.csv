@@ -1,12 +1,23 @@
 date,location,opponent,result,score,team_score,opp_score,game_score_diff,game_win_loss,game_id,AB,R,H,2B,3B,HR,RBI,BB,K,SB,CS,HBP,SF,SH,TB,XBH,HDP,GO,FO,GO/FO,PA,season,njcaa_season,njcaa_division,team,team_id,player_id,player_name
-Feb 6,home,DFW Post Grad,W,12-8,12,8,4,win,20230206_30lv,4,0,0,,,,0,,2,,,,,,0,0,,,,,4,2023,2022-23,div3,Dallas College - Richland,dallascollegerichland,sethmarkhamiamk,Seth Markham
-Feb 11,home,South Arkansas,W,7-6,7,6,1,win,20230211_q8e1,3,0,3,1,,,1,,,,,1,,,4,1,,,,,4,2023,2022-23,div3,Dallas College - Richland,dallascollegerichland,sethmarkhamiamk,Seth Markham
-Feb 20,home,DFW Post Grad,W,11-6,11,6,5,win,20230220_llhf,4,0,0,,,,1,,,,,,,,0,0,,,,,4,2023,2022-23,div3,Dallas College - Richland,dallascollegerichland,sethmarkhamiamk,Seth Markham
-Feb 22,home,Dallas College - Brookhaven,W,13-3,13,3,10,win,20230222_hkzo,4,0,0,,,,0,,,,,,,,0,0,,,,,4,2023,2022-23,div3,Dallas College - Richland,dallascollegerichland,sethmarkhamiamk,Seth Markham
-Feb 24,home,Dallas College - Brookhaven,W,12-11,12,11,1,win,20230224_gbw1,2,0,0,,,,1,,,,,,,2,0,0,,,,,4,2023,2022-23,div3,Dallas College - Richland,dallascollegerichland,sethmarkhamiamk,Seth Markham
-Mar 6,home,Dallas Christian,W,9-6,9,6,3,win,20230306_zghz,4,0,1,1,,,1,,1,,,,,,2,1,,,,,4,2023,2022-23,div3,Dallas College - Richland,dallascollegerichland,sethmarkhamiamk,Seth Markham
-Mar 24,home,Dallas College - Cedar Valley,W,15-3,15,3,12,win,20230324_nes0,4,1,1,,,,1,,1,,,,,,1,0,,,,,4,2023,2022-23,div3,Dallas College - Richland,dallascollegerichland,sethmarkhamiamk,Seth Markham
-Mar 25,home,Dallas College - Cedar Valley,W,15-11,15,11,4,win,20230325_dnl7,3,2,1,,,,2,1,1,1,,,1,,1,0,,,,,5,2023,2022-23,div3,Dallas College - Richland,dallascollegerichland,sethmarkhamiamk,Seth Markham
-Mar 27,home,DFW Post Grad,W,7-0,7,0,7,win,20230327_ls37,3,0,2,,,,0,1,1,,1,,,,2,0,,,,,4,2023,2022-23,div3,Dallas College - Richland,dallascollegerichland,sethmarkhamiamk,Seth Markham
-Mar 29,home,Dallas College - Mountain View,W,4-1,4,1,3,win,20230329_85kr,3,1,1,1,,,0,1,,,,,,,2,1,,,,,4,2023,2022-23,div3,Dallas College - Richland,dallascollegerichland,sethmarkhamiamk,Seth Markham
-Mar 31,home,Dallas College - Mountain View,W,15-12,15,12,3,win,20230331_f2fg,5,1,3,,,,1,,1,,,,,,3,0,,,,,5,2023,2022-23,div3,Dallas College - Richland,dallascollegerichland,sethmarkhamiamk,Seth Markham
+Feb 6,home,DFW Post Grad,W,12-8,12,8,4,win,20230206_30lv,0,0,0,,,,1,,,,,,1,,0,0,,,,,1,2023,2022-23,div3,Dallas College - Richland,dallascollegerichland,sethmarkhamiamk,Seth Markham
+Feb 11,home,South Arkansas,W,7-6,7,6,1,win,20230211_q8e1,2,0,0,,,,0,,1,,,1,,,0,0,,,,,3,2023,2022-23,div3,Dallas College - Richland,dallascollegerichland,sethmarkhamiamk,Seth Markham
+Feb 20,home,DFW Post Grad,W,11-6,11,6,5,win,20230220_llhf,4,3,3,,,1,2,,1,,,,,,6,1,,,,,4,2023,2022-23,div3,Dallas College - Richland,dallascollegerichland,sethmarkhamiamk,Seth Markham
+Feb 20,home,DFW Post Grad,W,12-0,12,0,12,win,20230220_sg2p,3,1,1,,,,1,,,,,,,,1,0,,,,,3,2023,2022-23,div3,Dallas College - Richland,dallascollegerichland,sethmarkhamiamk,Seth Markham
+Feb 22,home,Dallas College - Brookhaven,W,13-3,13,3,10,win,20230222_hkzo,4,2,2,1,,1,1,,1,1,,,,,6,2,,,,,4,2023,2022-23,div3,Dallas College - Richland,dallascollegerichland,sethmarkhamiamk,Seth Markham
+Feb 24,home,Dallas College - Brookhaven,W,12-11,12,11,1,win,20230224_gbw1,3,1,2,1,,,2,1,1,,,,1,,3,1,,,,,5,2023,2022-23,div3,Dallas College - Richland,dallascollegerichland,sethmarkhamiamk,Seth Markham
+Feb 25,home,Dallas College - Brookhaven,W,15-3,15,3,12,win,20230225_fg8s,3,2,1,,,,0,2,,,,,,,1,0,,,,,5,2023,2022-23,div3,Dallas College - Richland,dallascollegerichland,sethmarkhamiamk,Seth Markham
+Mar 1,home,Dallas College - Eastfield,W,7-5,7,5,2,win,20230301_zs9p,3,0,0,,,,0,1,3,,,,,,0,0,,,,,4,2023,2022-23,div3,Dallas College - Richland,dallascollegerichland,sethmarkhamiamk,Seth Markham
+Mar 6,home,Dallas Christian,W,9-6,9,6,3,win,20230306_zghz,1,1,0,,,,0,1,,1,,1,,,0,0,,,,,3,2023,2022-23,div3,Dallas College - Richland,dallascollegerichland,sethmarkhamiamk,Seth Markham
+Mar 6,home,Dallas Christian,W,16-4,16,4,12,win,20230306_860r,1,2,0,,,,0,2,,1,,,,,0,0,,,,,3,2023,2022-23,div3,Dallas College - Richland,dallascollegerichland,sethmarkhamiamk,Seth Markham
+Mar 8,home,Dallas College - North Lake,W,13-1,13,1,12,win,20230308_2y59,3,2,0,,,,0,1,,1,,1,,,0,0,,,,,5,2023,2022-23,div3,Dallas College - Richland,dallascollegerichland,sethmarkhamiamk,Seth Markham
+Mar 24,home,Dallas College - Cedar Valley,W,15-3,15,3,12,win,20230324_nes0,4,1,3,,,,1,,,1,,,,,3,0,,,,,4,2023,2022-23,div3,Dallas College - Richland,dallascollegerichland,sethmarkhamiamk,Seth Markham
+Mar 25,home,Dallas College - Cedar Valley,W,15-11,15,11,4,win,20230325_dnl7,4,2,2,1,,,3,,1,1,,,,,3,1,,,,,4,2023,2022-23,div3,Dallas College - Richland,dallascollegerichland,sethmarkhamiamk,Seth Markham
+Mar 29,home,Dallas College - Mountain View,W,4-1,4,1,3,win,20230329_85kr,4,0,1,,,,0,,2,,,,,,1,0,,,,,4,2023,2022-23,div3,Dallas College - Richland,dallascollegerichland,sethmarkhamiamk,Seth Markham
+Mar 31,home,Dallas College - Mountain View,W,15-12,15,12,3,win,20230331_f2fg,3,1,1,,,,0,,1,,,,,,1,0,,,,,3,2023,2022-23,div3,Dallas College - Richland,dallascollegerichland,sethmarkhamiamk,Seth Markham
+Apr 3,home,Vernon,W,12-2,12,2,10,win,20230403_285c,4,2,3,,,,1,,,,,,,,3,0,,,,,4,2023,2022-23,div3,Dallas College - Richland,dallascollegerichland,sethmarkhamiamk,Seth Markham
+Apr 5,home,Dallas College - Brookhaven,W,13-2,13,2,11,win,20230405_wq0g,5,2,3,,,,1,,,,,,,,3,0,,,,,5,2023,2022-23,div3,Dallas College - Richland,dallascollegerichland,sethmarkhamiamk,Seth Markham
+Apr 7,home,Dallas College - Brookhaven,W,15-8,15,8,7,win,20230407_qx6p,5,1,0,,,,0,1,3,,,,,,0,0,,,,,6,2023,2022-23,div3,Dallas College - Richland,dallascollegerichland,sethmarkhamiamk,Seth Markham
+Apr 14,home,Dallas College - Eastfield,W,3-2,3,2,1,win,20230414_04mo,3,0,2,1,,,0,1,,,,,,,3,1,,,,,4,2023,2022-23,div3,Dallas College - Richland,dallascollegerichland,sethmarkhamiamk,Seth Markham
+Apr 19,home,Dallas College - North Lake,W,12-10,12,10,2,win,20230419_cx7h,4,2,2,,,,0,1,,,,,,,2,0,,,,,5,2023,2022-23,div3,Dallas College - Richland,dallascollegerichland,sethmarkhamiamk,Seth Markham
+Apr 21,home,Dallas College - North Lake,W,6-3,6,3,3,win,20230421_44c1,4,2,2,,,,0,,1,1,,,,,2,0,,,,,4,2023,2022-23,div3,Dallas College - Richland,dallascollegerichland,sethmarkhamiamk,Seth Markham
+Apr 22,home,Dallas College - North Lake,W,17-5,17,5,12,win,20230422_5a0i,2,0,0,,,,0,,2,,,,,,0,0,,,,,2,2023,2022-23,div3,Dallas College - Richland,dallascollegerichland,sethmarkhamiamk,Seth Markham
