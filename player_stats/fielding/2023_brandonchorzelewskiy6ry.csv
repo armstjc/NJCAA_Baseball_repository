@@ -1,15 +1,18 @@
 date,location,opponent,result,score,team_score,opp_score,game_score_diff,game_win_loss,game_id,TC,PO,A,E,FPCT,DP,SBA,RCS,RCS_PCT,PB,CI,season,njcaa_season,njcaa_division,team,team_id,player_id,player_name
-Jan 28,home,Santa Fe,L,10-3,10,3,7,win,20230128_iaga,0,0,0,0,3.1,4,4,3,8.10,3,1,2023,2022-23,div2,South Florida State,southfloridastatecollege,brandonchorzelewskiy6ry,Brandon Chorzelewski
-Feb 1,home,State College of Florida,W,9-0,9,0,9,win,20230201_w2cv,0,0,0,0,1.0,2,3,1,9.00,3,2,2023,2022-23,div2,South Florida State,southfloridastatecollege,brandonchorzelewskiy6ry,Brandon Chorzelewski
-Feb 4,home,Santa Fe,L,4-3,4,3,1,win,20230204_4gnh,1,0,1,0,4.0,7,3,1,2.25,2,2,2023,2022-23,div2,South Florida State,southfloridastatecollege,brandonchorzelewskiy6ry,Brandon Chorzelewski
-Feb 10,home,Central Florida,L,17-4,17,4,13,win,20230210_5qq9,1,0,1,0,4.0,4,5,2,4.50,2,4,2023,2022-23,div2,South Florida State,southfloridastatecollege,brandonchorzelewskiy6ry,Brandon Chorzelewski
-Feb 17,home,Inspiration Academy,W,17-3,17,3,14,win,20230217_o40q,1,1,0,0,6.0,3,3,1,1.50,1,10,2023,2022-23,div2,South Florida State,southfloridastatecollege,brandonchorzelewskiy6ry,Brandon Chorzelewski
-Feb 25,home,Pasco-Hernando State,L,9-4,9,4,5,win,20230225_11d9,1,0,1,0,6.0,5,4,4,6.00,3,6,2023,2022-23,div2,South Florida State,southfloridastatecollege,brandonchorzelewskiy6ry,Brandon Chorzelewski
-Mar 4,home,Lake-Sumter State,L,2-1,2,1,1,win,20230304_v1r1,1,0,1,0,5.2,2,2,1,1.59,1,8,2023,2022-23,div2,South Florida State,southfloridastatecollege,brandonchorzelewskiy6ry,Brandon Chorzelewski
-Mar 11,home,Palm Beach State,W,17-10,17,10,7,win,20230311_z9bi,1,0,0,0,4.1,6,3,3,6.23,4,5,2023,2022-23,div2,South Florida State,southfloridastatecollege,brandonchorzelewskiy6ry,Brandon Chorzelewski
-Mar 18,home,St. Johns River State,W,11-8,11,8,3,win,20230318_i8gq,1,0,0,0,2.2,4,4,3,10.13,5,0,2023,2022-23,div2,South Florida State,southfloridastatecollege,brandonchorzelewskiy6ry,Brandon Chorzelewski
-Mar 25,home,Florida State Jacksonville,W,8-5,8,5,3,win,20230325_5115,1,1,0,0,6.0,3,4,1,1.50,1,6,2023,2022-23,div2,South Florida State,southfloridastatecollege,brandonchorzelewskiy6ry,Brandon Chorzelewski
-Apr 1,home,Pasco-Hernando State,W,5-2,5,2,3,win,20230401_olmt,1,1,0,0,6.0,3,2,2,3.00,3,5,2023,2022-23,div2,South Florida State,southfloridastatecollege,brandonchorzelewskiy6ry,Brandon Chorzelewski
-Apr 8,home,Lake-Sumter State,L,7-3,7,3,4,win,20230408_qknm,1,0,0,0,6.2,3,1,0,0.00,0,3,2023,2022-23,div2,South Florida State,southfloridastatecollege,brandonchorzelewskiy6ry,Brandon Chorzelewski
-Apr 15,home,Palm Beach State,L,12-5,12,5,7,win,20230415_emso,1,0,1,0,4.1,6,7,3,6.23,1,2,2023,2022-23,div2,South Florida State,southfloridastatecollege,brandonchorzelewskiy6ry,Brandon Chorzelewski
-Apr 22,home,St. Johns River State,W,6-3,6,3,3,win,20230422_zbdn,1,1,0,0,7.0,3,1,1,1.29,1,7,2023,2022-23,div2,South Florida State,southfloridastatecollege,brandonchorzelewskiy6ry,Brandon Chorzelewski
+Jan 27,home,Inspiration Academy,L,14-5,14,5,9,win,20230127_y40p,0,0,0,0,0.2,,,,0.00,,,2023,2022-23,div2,South Florida State,southfloridastatecollege,brandonchorzelewskiy6ry,Brandon Chorzelewski
+Jan 30,home,Webber International University (B),W,9-5,9,5,4,win,20230130_js5q,0,0,0,0,0.1,2,,,0.00,1,,2023,2022-23,div2,South Florida State,southfloridastatecollege,brandonchorzelewskiy6ry,Brandon Chorzelewski
+Feb 1,home,State College of Florida,W,9-0,9,0,9,win,20230201_w2cv,0,0,0,0,0.2,2,5,4,54.00,3,1,2023,2022-23,div2,South Florida State,southfloridastatecollege,brandonchorzelewskiy6ry,Brandon Chorzelewski
+Feb 6,home,Webber International University (B),W,14-3,14,3,11,win,20230206_tivp,0,0,0,0,1.0,2,2,2,18.00,,2,2023,2022-23,div2,South Florida State,southfloridastatecollege,brandonchorzelewskiy6ry,Brandon Chorzelewski
+Feb 10,home,Central Florida,L,17-4,17,4,13,win,20230210_5qq9,0,0,0,0,0.2,1,,,0.00,1,1,2023,2022-23,div2,South Florida State,southfloridastatecollege,brandonchorzelewskiy6ry,Brandon Chorzelewski
+Feb 15,home,Polk State,L,12-4,12,4,8,win,20230215_twp6,0,0,0,0,0.1,1,,,0.00,1,,2023,2022-23,div2,South Florida State,southfloridastatecollege,brandonchorzelewskiy6ry,Brandon Chorzelewski
+Feb 22,home,Warner University (B),W,8-0,8,0,8,win,20230222_f1x6,0,0,0,0,1.0,,,,0.00,,,2023,2022-23,div2,South Florida State,southfloridastatecollege,brandonchorzelewskiy6ry,Brandon Chorzelewski
+Feb 24,home,Pasco-Hernando State,L,15-7,15,7,8,win,20230224_mqga,0,0,0,0,0.0,1,,,0.00,,,2023,2022-23,div2,South Florida State,southfloridastatecollege,brandonchorzelewskiy6ry,Brandon Chorzelewski
+Feb 25,home,Pasco-Hernando State,L,9-4,9,4,5,win,20230225_11d9,0,0,0,0,0.0,2,1,1,INF,,,2023,2022-23,div2,South Florida State,southfloridastatecollege,brandonchorzelewskiy6ry,Brandon Chorzelewski
+Mar 1,home,Webber International University (B),W,12-1,12,1,11,win,20230301_p9p5,0,0,0,0,1.0,,,,0.00,,,2023,2022-23,div2,South Florida State,southfloridastatecollege,brandonchorzelewskiy6ry,Brandon Chorzelewski
+Mar 4,home,Lake-Sumter State,L,6-3,6,3,3,win,20230304_yjtk,0,0,0,0,1.0,,,,0.00,,,2023,2022-23,div2,South Florida State,southfloridastatecollege,brandonchorzelewskiy6ry,Brandon Chorzelewski
+Mar 8,home,Webber International University (B),W,11-3,11,3,8,win,20230308_orm4,0,1,0,0,3.0,2,1,,0.00,1,,2023,2022-23,div2,South Florida State,southfloridastatecollege,brandonchorzelewskiy6ry,Brandon Chorzelewski
+Mar 17,home,St. Johns River State,L,12-2,12,2,10,win,20230317_sdlj,0,0,0,0,0.1,1,,,0.00,,,2023,2022-23,div2,South Florida State,southfloridastatecollege,brandonchorzelewskiy6ry,Brandon Chorzelewski
+Mar 22,home,Warner University (B),W,12-2,12,2,10,win,20230322_vizv,0,0,0,0,1.0,2,1,1,9.00,2,,2023,2022-23,div2,South Florida State,southfloridastatecollege,brandonchorzelewskiy6ry,Brandon Chorzelewski
+Mar 29,home,Warner University (B),W,7-4,7,4,3,win,20230329_ziiw,0,0,0,0,1.0,,,,0.00,,,2023,2022-23,div2,South Florida State,southfloridastatecollege,brandonchorzelewskiy6ry,Brandon Chorzelewski
+Apr 19,home,Florida Southern College (B),W,10-0,10,0,10,win,20230419_uqm7,0,0,0,0,1.0,1,,,0.00,,1,2023,2022-23,div2,South Florida State,southfloridastatecollege,brandonchorzelewskiy6ry,Brandon Chorzelewski
+Apr 22,home,St. Johns River State,L,10-3,10,3,7,win,20230422_mel2,0,0,0,0,1.2,1,2,1,5.40,3,1,2023,2022-23,div2,South Florida State,southfloridastatecollege,brandonchorzelewskiy6ry,Brandon Chorzelewski
