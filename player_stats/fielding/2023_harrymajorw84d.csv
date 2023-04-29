@@ -1,11 +1,32 @@
 date,location,opponent,result,score,team_score,opp_score,game_score_diff,game_win_loss,game_id,TC,PO,A,E,FPCT,DP,SBA,RCS,RCS_PCT,PB,CI,season,njcaa_season,njcaa_division,team,team_id,player_id,player_name
-Feb 6,home,Millsaps College,T,0-0,0,0,0,tie,20230206_8ho5,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div2,Jackson,jacksoncollege,harrymajorw84d,Harry Major
-Feb 17,home,Rend Lake,L,12-2,12,2,10,win,20230217_gz27,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div2,Jackson,jacksoncollege,harrymajorw84d,Harry Major
-Feb 24,home,LSU Eunice,L,22-14,22,14,8,win,20230224_sxxf,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div2,Jackson,jacksoncollege,harrymajorw84d,Harry Major
-Mar 25,home,Southwest Mississippi,L,13-5,13,5,8,win,20230325_72n7,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div2,Jackson,jacksoncollege,harrymajorw84d,Harry Major
-Apr 6,home,East Central (MS),L,14-0,14,0,14,win,20230406_ozhp,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div2,Jackson,jacksoncollege,harrymajorw84d,Harry Major
-Apr 6,home,East Central (MS),L,14-3,14,3,11,win,20230406_zwk9,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div2,Jackson,jacksoncollege,harrymajorw84d,Harry Major
-Apr 12,home,Coahoma,L,4-3,4,3,1,win,20230412_0bk0,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div2,Jackson,jacksoncollege,harrymajorw84d,Harry Major
-Apr 18,home,Itawamba,W,5-1,5,1,4,win,20230418_8ovu,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div2,Jackson,jacksoncollege,harrymajorw84d,Harry Major
-Apr 22,home,Jones,W,7-5,7,5,2,win,20230422_fwk5,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div2,Jackson,jacksoncollege,harrymajorw84d,Harry Major
-Apr 24,home,Northeast Mississippi,W,6-5,6,5,1,win,20230424_fwxl,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div2,Jackson,jacksoncollege,harrymajorw84d,Harry Major
+Feb 18,home,Volunteer State,L,9-1,9,1,8,win,20230218_wqvw,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div2,Jackson,jacksoncollege,harrymajorw84d,Harry Major
+Mar 3,home,Minnesota North College - Mesabi Range,W,19-1,19,1,18,win,20230303_pr11,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div2,Jackson,jacksoncollege,harrymajorw84d,Harry Major
+Mar 4,home,Western Tech,W,8-7,8,7,1,win,20230304_2jiy,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div2,Jackson,jacksoncollege,harrymajorw84d,Harry Major
+Mar 5,home,Erie,W,12-2,12,2,10,win,20230305_j3cb,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div2,Jackson,jacksoncollege,harrymajorw84d,Harry Major
+Mar 8,home,Minnesota North College - Itasca,W,4-2,4,2,2,win,20230308_e20k,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div2,Jackson,jacksoncollege,harrymajorw84d,Harry Major
+Mar 9,home,Abraham Baldwin,L,17-0,17,0,17,win,20230309_q5gi,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div2,Jackson,jacksoncollege,harrymajorw84d,Harry Major
+Mar 16,home,Siena Heights,W,8-3,8,3,5,win,20230316_zizo,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div2,Jackson,jacksoncollege,harrymajorw84d,Harry Major
+Mar 21,home,Macomb,W,9-2,9,2,7,win,20230321_2iaa,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div2,Jackson,jacksoncollege,harrymajorw84d,Harry Major
+Mar 24,home,Siena Heights University,W,4-3,4,3,1,win,20230324_mq6w,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div2,Jackson,jacksoncollege,harrymajorw84d,Harry Major
+Mar 26,home,St. Clair County,W,15-5,15,5,10,win,20230326_2tf0,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div2,Jackson,jacksoncollege,harrymajorw84d,Harry Major
+Mar 28,home,Henry Ford,W,7-6,7,6,1,win,20230328_z6gi,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div2,Jackson,jacksoncollege,harrymajorw84d,Harry Major
+Mar 30,home,Schoolcraft,L,8-1,8,1,7,win,20230330_vmmc,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div2,Jackson,jacksoncollege,harrymajorw84d,Harry Major
+Apr 2,home,Mott,W,18-12,18,12,6,win,20230402_zsdj,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div2,Jackson,jacksoncollege,harrymajorw84d,Harry Major
+Apr 4,home,Kellogg,L,16-6,16,6,10,win,20230404_7zst,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div2,Jackson,jacksoncollege,harrymajorw84d,Harry Major
+Apr 6,home,Macomb,W,11-1,11,1,10,win,20230406_a1x8,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div2,Jackson,jacksoncollege,harrymajorw84d,Harry Major
+Apr 6,home,Macomb,W,16-9,16,9,7,win,20230406_25nn,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div2,Jackson,jacksoncollege,harrymajorw84d,Harry Major
+Apr 8,home,Macomb,W,11-0,11,0,11,win,20230408_9ykf,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div2,Jackson,jacksoncollege,harrymajorw84d,Harry Major
+Apr 8,home,Macomb,W,12-1,12,1,11,win,20230408_8zmm,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div2,Jackson,jacksoncollege,harrymajorw84d,Harry Major
+Apr 11,home,Muskegon,W,7-6,7,6,1,win,20230411_cjub,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div2,Jackson,jacksoncollege,harrymajorw84d,Harry Major
+Apr 13,home,St. Clair County,W,9-4,9,4,5,win,20230413_7blr,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div2,Jackson,jacksoncollege,harrymajorw84d,Harry Major
+Apr 13,home,St. Clair County,W,11-7,11,7,4,win,20230413_s3v6,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div2,Jackson,jacksoncollege,harrymajorw84d,Harry Major
+Apr 15,home,St. Clair County,W,13-3,13,3,10,win,20230415_m4op,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div2,Jackson,jacksoncollege,harrymajorw84d,Harry Major
+Apr 15,home,St. Clair County,W,7-6,7,6,1,win,20230415_frsp,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div2,Jackson,jacksoncollege,harrymajorw84d,Harry Major
+Apr 18,home,Kellogg,L,8-3,8,3,5,win,20230418_rs99,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div2,Jackson,jacksoncollege,harrymajorw84d,Harry Major
+Apr 20,home,Henry Ford,W,6-4,6,4,2,win,20230420_gaf7,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div2,Jackson,jacksoncollege,harrymajorw84d,Harry Major
+Apr 20,home,Henry Ford,W,6-5,6,5,1,win,20230420_h7b2,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div2,Jackson,jacksoncollege,harrymajorw84d,Harry Major
+Apr 22,home,Henry Ford,L,8-1,8,1,7,win,20230422_tbl9,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div2,Jackson,jacksoncollege,harrymajorw84d,Harry Major
+Apr 22,home,Henry Ford,L,4-3,4,3,1,win,20230422_41lp,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div2,Jackson,jacksoncollege,harrymajorw84d,Harry Major
+Apr 25,home,Ivy Tech Fort Wayne,L,1-0,1,0,1,win,20230425_mv3r,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div2,Jackson,jacksoncollege,harrymajorw84d,Harry Major
+Apr 27,home,Schoolcraft,L,5-4,5,4,1,win,20230427_x9vx,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div2,Jackson,jacksoncollege,harrymajorw84d,Harry Major
+Apr 27,home,Schoolcraft,W,11-4,11,4,7,win,20230427_xdi7,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div2,Jackson,jacksoncollege,harrymajorw84d,Harry Major
