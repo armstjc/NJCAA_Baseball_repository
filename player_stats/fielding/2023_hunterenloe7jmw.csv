@@ -1,6 +1,33 @@
 date,location,opponent,result,score,team_score,opp_score,game_score_diff,game_win_loss,game_id,TC,PO,A,E,FPCT,DP,SBA,RCS,RCS_PCT,PB,CI,season,njcaa_season,njcaa_division,team,team_id,player_id,player_name
-Mar 20,home,North Central College JV,L,11-3,11,3,8,win,20230320_643m,0,0,0,0,1.0,2,1,1,9.00,,2,2023,2022-23,div2,McHenry County,mchenrycountycollege,hunterenloe7jmw,Hunter Enloe
-Apr 2,home,Joliet,L,14-6,14,6,8,win,20230402_42gf,0,0,0,0,3.0,5,6,4,12.00,,1,2023,2022-23,div2,McHenry County,mchenrycountycollege,hunterenloe7jmw,Hunter Enloe
-Apr 12,home,Rockford University JV,W,30-4,30,4,26,win,20230412_05xy,0,0,0,0,2.0,,,,0.00,1,1,2023,2022-23,div2,McHenry County,mchenrycountycollege,hunterenloe7jmw,Hunter Enloe
-Apr 18,home,Lake County,L,7-2,7,2,5,win,20230418_ynuu,0,0,0,0,2.0,,,,0.00,4,4,2023,2022-23,div2,McHenry County,mchenrycountycollege,hunterenloe7jmw,Hunter Enloe
-Apr 25,home,Triton,L,12-2,12,2,10,win,20230425_2f26,0,0,1,0,3.0,4,4,2,6.00,,1,2023,2022-23,div2,McHenry County,mchenrycountycollege,hunterenloe7jmw,Hunter Enloe
+Feb 8,home,Spartanburg Methodist,W,6-5,6,5,1,win,20230208_e8za,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div2,McHenry County,mchenrycountycollege,hunterenloe7jmw,Hunter Enloe
+Feb 11,home,Caldwell Tech,L,14-8,14,8,6,win,20230211_rjsa,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div2,McHenry County,mchenrycountycollege,hunterenloe7jmw,Hunter Enloe
+Feb 17,home,Gaston College,L,15-5,15,5,10,win,20230217_1tyu,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div2,McHenry County,mchenrycountycollege,hunterenloe7jmw,Hunter Enloe
+Feb 18,home,USC Sumter,L,8-6,8,6,2,win,20230218_hpri,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div2,McHenry County,mchenrycountycollege,hunterenloe7jmw,Hunter Enloe
+Feb 19,home,USC Sumter,W,5-1,5,1,4,win,20230219_zd66,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div2,McHenry County,mchenrycountycollege,hunterenloe7jmw,Hunter Enloe
+Feb 22,home,Cleveland,L,6-4,6,4,2,win,20230222_b9fe,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div2,McHenry County,mchenrycountycollege,hunterenloe7jmw,Hunter Enloe
+Feb 26,home,Wake Tech,W,12-4,12,4,8,win,20230226_gzt9,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div2,McHenry County,mchenrycountycollege,hunterenloe7jmw,Hunter Enloe
+Mar 1,home,Spartanburg Methodist,L,13-6,13,6,7,win,20230301_jh4h,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div2,McHenry County,mchenrycountycollege,hunterenloe7jmw,Hunter Enloe
+Mar 4,home,Patrick & Henry,L,8-6,8,6,2,win,20230304_ie92,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div2,McHenry County,mchenrycountycollege,hunterenloe7jmw,Hunter Enloe
+Mar 4,home,Patrick & Henry,L,7-6,7,6,1,win,20230304_6s5g,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div2,McHenry County,mchenrycountycollege,hunterenloe7jmw,Hunter Enloe
+Mar 5,home,Patrick & Henry,L,6-1,6,1,5,win,20230305_cb20,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div2,McHenry County,mchenrycountycollege,hunterenloe7jmw,Hunter Enloe
+Mar 8,home,MontreJV,W,12-3,12,3,9,win,20230308_t4tp,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div2,McHenry County,mchenrycountycollege,hunterenloe7jmw,Hunter Enloe
+Mar 10,home,Guilford Tech,W,8-7,8,7,1,win,20230310_d3zj,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div2,McHenry County,mchenrycountycollege,hunterenloe7jmw,Hunter Enloe
+Mar 11,home,Guilford Tech,W,12-0,12,0,12,win,20230311_0k9q,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div2,McHenry County,mchenrycountycollege,hunterenloe7jmw,Hunter Enloe
+Mar 16,home,Caldwell Tech,L,16-0,16,0,16,win,20230316_nqn5,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div2,McHenry County,mchenrycountycollege,hunterenloe7jmw,Hunter Enloe
+Mar 18,home,Southwest Virginia,W,9-7,9,7,2,win,20230318_aumc,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div2,McHenry County,mchenrycountycollege,hunterenloe7jmw,Hunter Enloe
+Mar 18,home,Southwest Virginia,W,8-0,8,0,8,win,20230318_tlq5,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div2,McHenry County,mchenrycountycollege,hunterenloe7jmw,Hunter Enloe
+Mar 23,home,USC Sumter,L,8-5,8,5,3,win,20230323_3dln,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div2,McHenry County,mchenrycountycollege,hunterenloe7jmw,Hunter Enloe
+Mar 24,home,Cleveland,W,9-3,9,3,6,win,20230324_d0xe,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div2,McHenry County,mchenrycountycollege,hunterenloe7jmw,Hunter Enloe
+Mar 26,home,Cleveland,L,5-4,5,4,1,win,20230326_ya77,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div2,McHenry County,mchenrycountycollege,hunterenloe7jmw,Hunter Enloe
+Mar 26,home,Cleveland,W,5-1,5,1,4,win,20230326_os1n,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div2,McHenry County,mchenrycountycollege,hunterenloe7jmw,Hunter Enloe
+Mar 29,home,Lenoir-Rhyne JV,L,15-6,15,6,9,win,20230329_byzr,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div2,McHenry County,mchenrycountycollege,hunterenloe7jmw,Hunter Enloe
+Apr 1,home,Wake Tech,W,17-11,17,11,6,win,20230401_65fl,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div2,McHenry County,mchenrycountycollege,hunterenloe7jmw,Hunter Enloe
+Apr 5,home,Surry,W,10-9,10,9,1,win,20230405_e49r,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div2,McHenry County,mchenrycountycollege,hunterenloe7jmw,Hunter Enloe
+Apr 6,home,Patrick & Henry,W,7-3,7,3,4,win,20230406_rug7,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div2,McHenry County,mchenrycountycollege,hunterenloe7jmw,Hunter Enloe
+Apr 12,home,USC Sumter,L,11-5,11,5,6,win,20230412_l4r6,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div2,McHenry County,mchenrycountycollege,hunterenloe7jmw,Hunter Enloe
+Apr 16,home,Guilford Tech,W,9-4,9,4,5,win,20230416_l2t4,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div2,McHenry County,mchenrycountycollege,hunterenloe7jmw,Hunter Enloe
+Apr 18,home,Caldwell Tech,L,19-15,19,15,4,win,20230418_s0xf,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div2,McHenry County,mchenrycountycollege,hunterenloe7jmw,Hunter Enloe
+Apr 23,home,Southwest Virginia,W,11-0,11,0,11,win,20230423_e7wg,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div2,McHenry County,mchenrycountycollege,hunterenloe7jmw,Hunter Enloe
+Apr 25,home,Surry,W,21-11,21,11,10,win,20230425_g9hw,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div2,McHenry County,mchenrycountycollege,hunterenloe7jmw,Hunter Enloe
+Apr 29,home,Cleveland,L,10-2,10,2,8,win,20230429_nxcv,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div2,McHenry County,mchenrycountycollege,hunterenloe7jmw,Hunter Enloe
+Apr 29,home,Cleveland,L,6-3,6,3,3,win,20230429_ezey,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div2,McHenry County,mchenrycountycollege,hunterenloe7jmw,Hunter Enloe
