@@ -1,16 +1,11 @@
 date,location,opponent,result,score,team_score,opp_score,game_score_diff,game_win_loss,game_id,GS,W,L,SV,IP,H,R,ER,ERA,BB,K,HR,season,njcaa_season,njcaa_division,team,team_id,player_id,player_name
-Apr 27,home,Garrett,W,6-4,6,4,2,win,20230427_3jqv,0,0,0,0,1.0,1,2,2,18.00,2,1,1,2023,2022-23,div2,Allegany Maryland,alleganycollegeofmaryland,johndhima6lt7,John Dhima
-Apr 23,home,Anne Arundel,W,2-1,2,1,1,win,20230423_qm1z,0,0,0,0,1.0,1,,,0.00,,1,,2023,2022-23,div2,Allegany Maryland,alleganycollegeofmaryland,johndhima6lt7,John Dhima
-Apr 16,home,Cecil,L,10-9,10,9,1,win,20230416_xlye,0,0,1,0,1.1,2,2,2,13.50,3,,1,2023,2022-23,div2,Allegany Maryland,alleganycollegeofmaryland,johndhima6lt7,John Dhima
-Apr 12,home,Potomac State,L,6-5,6,5,1,win,20230412_bptp,0,0,0,0,1.0,1,,,0.00,,2,,2023,2022-23,div2,Allegany Maryland,alleganycollegeofmaryland,johndhima6lt7,John Dhima
-Apr 8,home,Montgomery,W,12-9,12,9,3,win,20230408_g4iv,0,1,0,0,3.1,1,5,5,13.50,7,7,1,2023,2022-23,div2,Allegany Maryland,alleganycollegeofmaryland,johndhima6lt7,John Dhima
-Apr 1,home,CCBC Dundalk,L,18-15,18,15,3,win,20230401_kuts,0,0,0,0,1.0,2,4,4,36.00,2,3,2,2023,2022-23,div2,Allegany Maryland,alleganycollegeofmaryland,johndhima6lt7,John Dhima
-Apr 1,home,CCBC Dundalk,L,11-8,11,8,3,win,20230401_tetv,0,0,0,0,3.0,,,,0.00,2,6,,2023,2022-23,div2,Allegany Maryland,alleganycollegeofmaryland,johndhima6lt7,John Dhima
-Mar 26,home,CCBC Catonsville,L,14-8,14,8,6,win,20230326_026g,0,0,0,0,1.1,1,1,,0.00,1,2,,2023,2022-23,div2,Allegany Maryland,alleganycollegeofmaryland,johndhima6lt7,John Dhima
-Mar 18,home,CCBC Essex,W,4-3,4,3,1,win,20230318_c7o5,0,0,0,0,2.0,1,,,0.00,1,,,2023,2022-23,div2,Allegany Maryland,alleganycollegeofmaryland,johndhima6lt7,John Dhima
-Mar 16,home,CC of Allegheny County,W,13-7,13,7,6,win,20230316_ux1t,0,0,0,0,1.0,1,,,0.00,,3,,2023,2022-23,div2,Allegany Maryland,alleganycollegeofmaryland,johndhima6lt7,John Dhima
-Mar 12,home,Delaware Tech,L,6-3,6,3,3,win,20230312_iqqo,0,0,0,0,1.0,,,,0.00,,3,,2023,2022-23,div2,Allegany Maryland,alleganycollegeofmaryland,johndhima6lt7,John Dhima
-Mar 9,home,Frederick,L,7-6,7,6,1,win,20230309_qnqf,0,0,0,0,1.2,1,,,0.00,3,3,,2023,2022-23,div2,Allegany Maryland,alleganycollegeofmaryland,johndhima6lt7,John Dhima
-Mar 1,home,Garrett,W,8-4,8,4,4,win,20230301_ch0e,0,1,0,0,1.1,,,,0.00,1,4,,2023,2022-23,div2,Allegany Maryland,alleganycollegeofmaryland,johndhima6lt7,John Dhima
-Feb 24,home,The Apprentice School,L,4-1,4,1,3,win,20230224_w5gf,0,0,0,0,0.1,,,,0.00,,1,,2023,2022-23,div2,Allegany Maryland,alleganycollegeofmaryland,johndhima6lt7,John Dhima
-Feb 20,home,Mt. Aloysius College JV's,W,8-7,8,7,1,win,20230220_30eq,0,0,0,0,2.0,,,,0.00,1,4,,2023,2022-23,div2,Allegany Maryland,alleganycollegeofmaryland,johndhima6lt7,John Dhima
+Apr 24,home,Northeast Mississippi,L,12-1,12,1,11,win,20230424_8aua,1,0,1,0,5.0,6,3,3,5.40,3,2,1,2023,2022-23,div2,Allegany Maryland,alleganycollegeofmaryland,johndhima6lt7,John Dhima
+Apr 18,home,Itawamba,L,20-16,20,16,4,win,20230418_4ci0,0,0,1,0,3.0,7,5,5,15.00,,3,2,2023,2022-23,div2,Allegany Maryland,alleganycollegeofmaryland,johndhima6lt7,John Dhima
+Apr 12,home,Coahoma,L,6-5,6,5,1,win,20230412_a7od,0,0,0,0,7.0,8,4,4,5.14,,5,1,2023,2022-23,div2,Allegany Maryland,alleganycollegeofmaryland,johndhima6lt7,John Dhima
+Mar 25,home,Southwest Mississippi,L,20-5,20,5,15,win,20230325_0o7t,0,0,0,0,2.0,,2,2,9.00,1,,,2023,2022-23,div2,Allegany Maryland,alleganycollegeofmaryland,johndhima6lt7,John Dhima
+Mar 18,home,Pearl River,L,19-6,19,6,13,win,20230318_z4q2,0,0,0,0,2.0,0,0,0,0.00,0,1,0,2023,2022-23,div2,Allegany Maryland,alleganycollegeofmaryland,johndhima6lt7,John Dhima
+Feb 24,home,LSU Eunice,L,5-1,5,1,4,win,20230224_ur0e,0,0,0,0,1.1,1,,,0.00,,2,,2023,2022-23,div2,Allegany Maryland,alleganycollegeofmaryland,johndhima6lt7,John Dhima
+Feb 21,home,Coahoma,L,12-10,12,10,2,win,20230221_nr7g,0,0,0,0,1.1,4,2,2,13.50,1,,1,2023,2022-23,div2,Allegany Maryland,alleganycollegeofmaryland,johndhima6lt7,John Dhima
+Feb 17,home,St. Charles,L,12-6,12,6,6,win,20230217_tify,0,0,0,0,0.2,3,4,4,54.00,3,,,2023,2022-23,div2,Allegany Maryland,alleganycollegeofmaryland,johndhima6lt7,John Dhima
+Feb 6,home,Millsaps College,L,9-8,9,8,1,win,20230206_jjg0,0,0,1,0,0.2,3,5,2,27.00,1,,,2023,2022-23,div2,Allegany Maryland,alleganycollegeofmaryland,johndhima6lt7,John Dhima
+Feb 4,home,Southwest Tennessee,L,11-7,11,7,4,win,20230204_xr9l,0,0,0,0,2.0,2,,,0.00,1,1,,2023,2022-23,div2,Allegany Maryland,alleganycollegeofmaryland,johndhima6lt7,John Dhima
