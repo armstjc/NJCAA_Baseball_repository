@@ -1,8 +1,18 @@
 date,location,opponent,result,score,team_score,opp_score,game_score_diff,game_win_loss,game_id,GS,W,L,SV,IP,H,R,ER,ERA,BB,K,HR,season,njcaa_season,njcaa_division,team,team_id,player_id,player_name
-Apr 28,home,Oakton,W,14-7,14,7,7,win,20230428_hsj8,0,0,0,0,2.0,2,,,0.00,2,4,,2023,2022-23,div1,Triton,tritoncollege,nickstrieteroh7k,Nick Strieter
-Apr 21,home,Morton,L,14-12,14,12,2,win,20230421_hjyg,0,0,0,0,4.0,7,4,4,9.00,3,6,,2023,2022-23,div1,Triton,tritoncollege,nickstrieteroh7k,Nick Strieter
-Mar 26,home,Prairie State,W,9-7,9,7,2,win,20230326_0733,1,0,0,0,1.2,3,4,4,21.60,3,2,,2023,2022-23,div1,Triton,tritoncollege,nickstrieteroh7k,Nick Strieter
-Mar 13,home,Baton Rouge,W,9-8,9,8,1,win,20230313_tc1o,0,0,0,0,2.2,3,2,,0.00,2,5,,2023,2022-23,div1,Triton,tritoncollege,nickstrieteroh7k,Nick Strieter
-Mar 11,home,Baton Rouge,L,7-3,7,3,4,win,20230311_cur6,0,0,0,0,1.0,2,3,3,27.00,2,1,,2023,2022-23,div1,Triton,tritoncollege,nickstrieteroh7k,Nick Strieter
-Mar 1,home,Joliet,L,8-7,8,7,1,win,20230301_qi1t,0,0,0,0,2.0,2,1,1,4.50,2,4,,2023,2022-23,div1,Triton,tritoncollege,nickstrieteroh7k,Nick Strieter
-Feb 19,home,Milwaukee Area Tech,L,12-2,12,2,10,win,20230219_20d9,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div1,Triton,tritoncollege,nickstrieteroh7k,Nick Strieter
+Apr 8,home,Kankakee,W,5-4,5,4,1,win,20230408_g81r,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div1,Triton,tritoncollege,nickstrieteroh7k,Nick Strieter
+Apr 4,home,Joliet,W,13-3,13,3,10,win,20230404_08d7,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div1,Triton,tritoncollege,nickstrieteroh7k,Nick Strieter
+Apr 2,home,Moraine Valley,W,13-4,13,4,9,win,20230402_m0n7,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div1,Triton,tritoncollege,nickstrieteroh7k,Nick Strieter
+Mar 30,home,Moraine Valley,W,4-2,4,2,2,win,20230330_h1ga,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div1,Triton,tritoncollege,nickstrieteroh7k,Nick Strieter
+Mar 27,home,Harper,L,18-12,18,12,6,win,20230327_1702,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div1,Triton,tritoncollege,nickstrieteroh7k,Nick Strieter
+Mar 27,home,Harper,W,6-5,6,5,1,win,20230327_rguy,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div1,Triton,tritoncollege,nickstrieteroh7k,Nick Strieter
+Mar 26,home,Prairie State,W,9-7,9,7,2,win,20230326_0733,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div1,Triton,tritoncollege,nickstrieteroh7k,Nick Strieter
+Mar 24,home,Olive-Harvey,W,7-2,7,2,5,win,20230324_legj,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div1,Triton,tritoncollege,nickstrieteroh7k,Nick Strieter
+Mar 21,home,South Suburban,W,10-5,10,5,5,win,20230321_vx46,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div1,Triton,tritoncollege,nickstrieteroh7k,Nick Strieter
+Mar 14,home,Nunez,L,7-2,7,2,5,win,20230314_njqm,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div1,Triton,tritoncollege,nickstrieteroh7k,Nick Strieter
+Mar 13,home,Baton Rouge,W,9-8,9,8,1,win,20230313_tc1o,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div1,Triton,tritoncollege,nickstrieteroh7k,Nick Strieter
+Mar 12,home,Delgado,L,19-3,19,3,16,win,20230312_gqqh,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div1,Triton,tritoncollege,nickstrieteroh7k,Nick Strieter
+Mar 6,home,Waubonsee,W,5-2,5,2,3,win,20230306_6r7o,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div1,Triton,tritoncollege,nickstrieteroh7k,Nick Strieter
+Mar 1,home,Joliet,L,8-7,8,7,1,win,20230301_qi1t,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div1,Triton,tritoncollege,nickstrieteroh7k,Nick Strieter
+Feb 26,home,Southwestern Illinois,L,10-8,10,8,2,win,20230226_hvm5,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div1,Triton,tritoncollege,nickstrieteroh7k,Nick Strieter
+Feb 25,home,St. Charles,W,10-4,10,4,6,win,20230225_amxd,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div1,Triton,tritoncollege,nickstrieteroh7k,Nick Strieter
+Feb 19,home,Milwaukee Area Tech,W,12-2,12,2,10,win,20230219_han0,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div1,Triton,tritoncollege,nickstrieteroh7k,Nick Strieter

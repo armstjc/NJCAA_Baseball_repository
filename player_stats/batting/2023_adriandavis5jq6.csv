@@ -1,6 +1,28 @@
 date,location,opponent,result,score,team_score,opp_score,game_score_diff,game_win_loss,game_id,AB,R,H,2B,3B,HR,RBI,BB,K,SB,CS,HBP,SF,SH,TB,XBH,HDP,GO,FO,GO/FO,PA,season,njcaa_season,njcaa_division,team,team_id,player_id,player_name
-Mar 21,home,Terra State,W,12-6,12,6,6,win,20230321_r0f4,0,0,0,,,,0,,,,,,,,0,0,,,,,0,2023,2022-23,div2,South Florida State,southfloridastatecollege,adriandavis5jq6,Adrian Davis
-Mar 25,home,Lorain County,W,17-10,17,10,7,win,20230325_7oj2,0,0,0,,,,0,,,,,,,,0,0,,,,,0,2023,2022-23,div2,South Florida State,southfloridastatecollege,adriandavis5jq6,Adrian Davis
-Apr 4,home,University of Mount Union,W,9-4,9,4,5,win,20230404_pejt,0,0,0,,,,0,,,,,,,,0,0,,,,,0,2023,2022-23,div2,South Florida State,southfloridastatecollege,adriandavis5jq6,Adrian Davis
-Apr 10,home,Lakeland,W,4-1,4,1,3,win,20230410_1ddg,0,0,0,,,,0,,,,,,,,0,0,,,,,0,2023,2022-23,div2,South Florida State,southfloridastatecollege,adriandavis5jq6,Adrian Davis
-Apr 20,home,Edison State,W,8-7,8,7,1,win,20230420_6u98,0,0,0,,,,0,,,,,,,,0,0,,,,,0,2023,2022-23,div2,South Florida State,southfloridastatecollege,adriandavis5jq6,Adrian Davis
+Jan 28,home,Chipola,W,7-1,7,1,6,win,20230128_c76t,1,1,0,,,,0,2,,,,,,,0,0,,,,,3,2023,2022-23,div2,South Florida State,southfloridastatecollege,adriandavis5jq6,Adrian Davis
+Jan 30,home,Webber International University (B),W,9-5,9,5,4,win,20230130_js5q,6,1,2,,,,2,,,2,,,,,2,0,,,,,6,2023,2022-23,div2,South Florida State,southfloridastatecollege,adriandavis5jq6,Adrian Davis
+Feb 1,home,State College of Florida,W,9-0,9,0,9,win,20230201_w2cv,2,2,1,,,,0,2,,1,,1,,,1,0,,,,,5,2023,2022-23,div2,South Florida State,southfloridastatecollege,adriandavis5jq6,Adrian Davis
+Feb 6,home,Webber International University (B),W,14-3,14,3,11,win,20230206_tivp,4,1,2,,,,1,,1,,,,,,2,0,,,,,4,2023,2022-23,div2,South Florida State,southfloridastatecollege,adriandavis5jq6,Adrian Davis
+Feb 18,home,Indian River State,W,4-3,4,3,1,win,20230218_9v9e,1,1,0,,,,0,2,,2,,,,,0,0,,,,,3,2023,2022-23,div2,South Florida State,southfloridastatecollege,adriandavis5jq6,Adrian Davis
+Feb 22,home,Warner University (B),W,8-0,8,0,8,win,20230222_f1x6,4,0,1,,,,1,,1,,,,,1,1,0,1,,,,5,2023,2022-23,div2,South Florida State,southfloridastatecollege,adriandavis5jq6,Adrian Davis
+Feb 25,home,Pasco-Hernando State,W,4-1,4,1,3,win,20230225_l2e2,3,0,0,,,,0,,1,,,,,,0,0,,,,,3,2023,2022-23,div2,South Florida State,southfloridastatecollege,adriandavis5jq6,Adrian Davis
+Mar 1,home,Webber International University (B),W,12-1,12,1,11,win,20230301_p9p5,3,1,1,,,,0,,2,,,,,,1,0,,,,,3,2023,2022-23,div2,South Florida State,southfloridastatecollege,adriandavis5jq6,Adrian Davis
+Mar 3,home,Lake-Sumter State,W,13-5,13,5,8,win,20230303_32yc,4,2,2,,,,0,1,1,1,,,,,2,0,,,1,,5,2023,2022-23,div2,South Florida State,southfloridastatecollege,adriandavis5jq6,Adrian Davis
+Mar 6,home,Lincoln Land,W,10-8,10,8,2,win,20230306_p1it,4,3,3,,,,0,,,1,,,,,3,0,,,,,4,2023,2022-23,div2,South Florida State,southfloridastatecollege,adriandavis5jq6,Adrian Davis
+Mar 8,home,Webber International University (B),W,11-3,11,3,8,win,20230308_orm4,4,0,1,,,,1,1,,,,,,,1,0,,,,,5,2023,2022-23,div2,South Florida State,southfloridastatecollege,adriandavis5jq6,Adrian Davis
+Mar 11,home,Palm Beach State,W,8-2,8,2,6,win,20230311_drvg,3,2,1,,,,0,,1,,,,,1,1,0,,,,,4,2023,2022-23,div2,South Florida State,southfloridastatecollege,adriandavis5jq6,Adrian Davis
+Mar 11,home,Palm Beach State,W,17-10,17,10,7,win,20230311_z9bi,5,2,2,1,,,1,,,,,,,1,3,1,,,,,6,2023,2022-23,div2,South Florida State,southfloridastatecollege,adriandavis5jq6,Adrian Davis
+Mar 18,home,St. Johns River State,W,11-8,11,8,3,win,20230318_i8gq,5,3,3,2,,,3,,1,,1,,,,5,2,,,,,5,2023,2022-23,div2,South Florida State,southfloridastatecollege,adriandavis5jq6,Adrian Davis
+Mar 22,home,Warner University (B),W,12-2,12,2,10,win,20230322_vizv,0,0,0,,,,0,1,,,,,,,0,0,,,,,1,2023,2022-23,div2,South Florida State,southfloridastatecollege,adriandavis5jq6,Adrian Davis
+Mar 24,home,Florida State Jacksonville,W,11-0,11,0,11,win,20230324_5m1m,2,1,1,,,,1,1,,1,,,,,1,0,,,,,3,2023,2022-23,div2,South Florida State,southfloridastatecollege,adriandavis5jq6,Adrian Davis
+Mar 25,home,Florida State Jacksonville,W,6-1,6,1,5,win,20230325_99q3,3,1,1,,,,0,,,,,,,,1,0,1,,,,3,2023,2022-23,div2,South Florida State,southfloridastatecollege,adriandavis5jq6,Adrian Davis
+Mar 25,home,Florida State Jacksonville,W,8-5,8,5,3,win,20230325_5115,4,2,2,,,,1,1,,2,,,,,2,0,,,,,5,2023,2022-23,div2,South Florida State,southfloridastatecollege,adriandavis5jq6,Adrian Davis
+Mar 29,home,Warner University (B),W,7-4,7,4,3,win,20230329_ziiw,2,2,1,,,,1,1,,2,,,,,1,0,,,,,3,2023,2022-23,div2,South Florida State,southfloridastatecollege,adriandavis5jq6,Adrian Davis
+Mar 31,home,Pasco-Hernando State,W,8-3,8,3,5,win,20230331_d8p4,2,1,0,,,,1,2,,,,,,,0,0,,,,,4,2023,2022-23,div2,South Florida State,southfloridastatecollege,adriandavis5jq6,Adrian Davis
+Apr 1,home,Pasco-Hernando State,W,5-2,5,2,3,win,20230401_olmt,4,0,0,,,,0,,,,,,,,0,0,,,,,4,2023,2022-23,div2,South Florida State,southfloridastatecollege,adriandavis5jq6,Adrian Davis
+Apr 7,home,Lake-Sumter State,W,23-5,23,5,18,win,20230407_puvv,5,2,3,1,,,3,1,,,,,,,4,1,,,2,,6,2023,2022-23,div2,South Florida State,southfloridastatecollege,adriandavis5jq6,Adrian Davis
+Apr 8,home,Lake-Sumter State,W,5-2,5,2,3,win,20230408_fh6v,3,0,1,,,,0,,1,,,,,,1,0,,1,,,3,2023,2022-23,div2,South Florida State,southfloridastatecollege,adriandavis5jq6,Adrian Davis
+Apr 15,home,Palm Beach State,W,12-9,12,9,3,win,20230415_iy9v,3,0,2,,,,2,1,,1,,,,,2,0,,,,,4,2023,2022-23,div2,South Florida State,southfloridastatecollege,adriandavis5jq6,Adrian Davis
+Apr 19,home,Florida Southern College (B),W,10-0,10,0,10,win,20230419_uqm7,4,2,2,1,,,1,,,1,,1,,,3,1,,,,,5,2023,2022-23,div2,South Florida State,southfloridastatecollege,adriandavis5jq6,Adrian Davis
+Apr 22,home,St. Johns River State,W,6-3,6,3,3,win,20230422_zbdn,4,1,1,,,,0,,,,,,,,1,0,,,,,4,2023,2022-23,div2,South Florida State,southfloridastatecollege,adriandavis5jq6,Adrian Davis
+Apr 29,home,Florida State Jacksonville,W,14-6,14,6,8,win,20230429_flwt,1,0,0,,,,0,,,,,,,,0,0,,,,,1,2023,2022-23,div2,South Florida State,southfloridastatecollege,adriandavis5jq6,Adrian Davis

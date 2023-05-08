@@ -1,28 +1,11 @@
 date,location,opponent,result,score,team_score,opp_score,game_score_diff,game_win_loss,game_id,AB,R,H,2B,3B,HR,RBI,BB,K,SB,CS,HBP,SF,SH,TB,XBH,HDP,GO,FO,GO/FO,PA,season,njcaa_season,njcaa_division,team,team_id,player_id,player_name
-Mar 4,home,Coastal Alabama - Bay Minette,W,9-2,9,2,7,win,20230304_aqji,3,0,0,,,,0,1,2,,,,,,0,0,,,,,4,2023,2022-23,div2,Mercer County,mercercountycommunitycollege,evrinvirola4d08,Evrin Virola
-Mar 5,home,Chipola,W,17-6,17,6,11,win,20230305_72kr,4,4,3,1,,,2,,,,,,,,4,1,,,,,4,2023,2022-23,div2,Mercer County,mercercountycommunitycollege,evrinvirola4d08,Evrin Virola
-Mar 21,home,Davenport University JV,W,8-2,8,2,6,win,20230321_4nzj,4,0,1,,,,0,,1,,,,,,1,0,,1,,,4,2023,2022-23,div2,Mercer County,mercercountycommunitycollege,evrinvirola4d08,Evrin Virola
-Mar 22,home,Cornerstone University JV,W,13-6,13,6,7,win,20230322_ls9a,4,2,1,,,,1,1,1,,,,,,1,0,,1,1,1.00,5,2023,2022-23,div2,Mercer County,mercercountycommunitycollege,evrinvirola4d08,Evrin Virola
-Mar 24,home,Delta,W,6-0,6,0,6,win,20230324_oy6u,2,1,2,,,,1,1,,,,,,,2,0,,,,,3,2023,2022-23,div2,Mercer County,mercercountycommunitycollege,evrinvirola4d08,Evrin Virola
-Mar 24,home,Delta,W,6-3,6,3,3,win,20230324_4o3g,3,1,1,,,,0,,,1,,,,,1,0,,,1,,3,2023,2022-23,div2,Mercer County,mercercountycommunitycollege,evrinvirola4d08,Evrin Virola
-Mar 26,home,Delta,W,13-2,13,2,11,win,20230326_dvju,2,2,1,,,,0,1,,,,,,,1,0,,1,,,3,2023,2022-23,div2,Mercer County,mercercountycommunitycollege,evrinvirola4d08,Evrin Virola
-Mar 26,home,Delta,W,9-0,9,0,9,win,20230326_a9ib,2,0,0,,,,1,,1,,,,1,,0,0,,,2,,3,2023,2022-23,div2,Mercer County,mercercountycommunitycollege,evrinvirola4d08,Evrin Virola
-Mar 28,home,Calvin University JV,W,15-9,15,9,6,win,20230328_8ouc,5,0,1,,,,0,1,2,,,,,,1,0,,1,1,1.00,6,2023,2022-23,div2,Mercer County,mercercountycommunitycollege,evrinvirola4d08,Evrin Virola
-Mar 30,home,Mid Michigan,W,13-7,13,7,6,win,20230330_259y,4,1,1,1,,,1,,,,,,,,2,1,,,,,4,2023,2022-23,div2,Mercer County,mercercountycommunitycollege,evrinvirola4d08,Evrin Virola
-Apr 2,home,Mid Michigan,W,3-2,3,2,1,win,20230402_wtu1,2,0,0,,,,0,1,,,,,,,0,0,,1,1,1.00,3,2023,2022-23,div2,Mercer County,mercercountycommunitycollege,evrinvirola4d08,Evrin Virola
-Apr 2,home,Mid Michigan,W,17-3,17,3,14,win,20230402_8760,4,2,2,,,,0,1,,,,,,,2,0,,,2,,5,2023,2022-23,div2,Mercer County,mercercountycommunitycollege,evrinvirola4d08,Evrin Virola
-Apr 7,home,Delta,W,10-0,10,0,10,win,20230407_ccht,2,1,1,,,,1,,,,,,,,1,0,,,,,2,2023,2022-23,div2,Mercer County,mercercountycommunitycollege,evrinvirola4d08,Evrin Virola
-Apr 10,home,Aquinas College JV,W,14-4,14,4,10,win,20230410_mxtk,2,0,0,,,,0,,,,,,,,0,0,,2,,,2,2023,2022-23,div2,Mercer County,mercercountycommunitycollege,evrinvirola4d08,Evrin Virola
-Apr 11,home,Mid Michigan,W,4-1,4,1,3,win,20230411_9uwx,2,0,0,,,,0,,1,,,,,,0,0,,1,,,2,2023,2022-23,div2,Mercer County,mercercountycommunitycollege,evrinvirola4d08,Evrin Virola
-Apr 14,home,Alpena,W,17-4,17,4,13,win,20230414_c6nu,4,1,3,1,,,2,,,,,,,,4,1,,1,,,4,2023,2022-23,div2,Mercer County,mercercountycommunitycollege,evrinvirola4d08,Evrin Virola
-Apr 15,home,Alpena,W,9-2,9,2,7,win,20230415_d7ng,3,1,3,,,,1,1,,,,,,,3,0,,,,,4,2023,2022-23,div2,Mercer County,mercercountycommunitycollege,evrinvirola4d08,Evrin Virola
-Apr 15,home,Alpena,W,4-0,4,0,4,win,20230415_16rf,3,1,1,,,,1,,1,1,,,,,1,0,,,1,,3,2023,2022-23,div2,Mercer County,mercercountycommunitycollege,evrinvirola4d08,Evrin Virola
-Apr 19,home,Aquinas College JV,W,10-0,10,0,10,win,20230419_wkw8,1,2,0,,,,0,2,,,,,,,0,0,1,1,,,3,2023,2022-23,div2,Mercer County,mercercountycommunitycollege,evrinvirola4d08,Evrin Virola
-Apr 21,home,Muskegon,W,8-0,8,0,8,win,20230421_gf70,2,1,0,,,,0,1,,,,,,,0,0,,2,,,3,2023,2022-23,div2,Mercer County,mercercountycommunitycollege,evrinvirola4d08,Evrin Virola
-Apr 22,home,Muskegon,W,3-2,3,2,1,win,20230422_wpox,5,1,2,1,,,0,1,,,,,,,3,1,,1,2,0.50,6,2023,2022-23,div2,Mercer County,mercercountycommunitycollege,evrinvirola4d08,Evrin Virola
-Apr 22,home,Muskegon,W,6-5,6,5,1,win,20230422_m12b,2,0,0,,,,0,2,,,,,,,0,0,,2,,,4,2023,2022-23,div2,Mercer County,mercercountycommunitycollege,evrinvirola4d08,Evrin Virola
-Apr 27,home,Bay College,W,3-1,3,1,2,win,20230427_qigz,3,0,0,,,,0,,,,,,,,0,0,,2,1,2.00,3,2023,2022-23,div2,Mercer County,mercercountycommunitycollege,evrinvirola4d08,Evrin Virola
-Apr 27,home,Bay College,W,5-4,5,4,1,win,20230427_6ptc,3,0,0,,,,0,,,,,,,,0,0,,1,2,0.50,3,2023,2022-23,div2,Mercer County,mercercountycommunitycollege,evrinvirola4d08,Evrin Virola
-Apr 28,home,Bay College,W,16-2,16,2,14,win,20230428_buur,1,3,0,,,,0,2,,,,1,,,0,0,,,1,,4,2023,2022-23,div2,Mercer County,mercercountycommunitycollege,evrinvirola4d08,Evrin Virola
-May 4,home,Muskegon,W,17-5,17,5,12,win,20230504_bkcm,2,0,1,,,,1,,1,,,,1,,1,0,,,1,,3,2023,2022-23,div2,Mercer County,mercercountycommunitycollege,evrinvirola4d08,Evrin Virola
-May 4,home,Muskegon,W,20-8,20,8,12,win,20230504_y90u,2,2,1,1,,,1,2,1,,,,,,2,1,,,,,4,2023,2022-23,div2,Mercer County,mercercountycommunitycollege,evrinvirola4d08,Evrin Virola
+Mar 4,home,Rockland,W,10-6,10,6,4,win,20230304_yby1,2,0,2,,,,0,1,,,,1,,,2,0,,,,,4,2023,2022-23,div2,Mercer County,mercercountycommunitycollege,evrinvirola4d08,Evrin Virola
+Mar 4,home,Rockland,W,7-4,7,4,3,win,20230304_n61m,3,1,2,1,,,1,,,,,,1,,3,1,,1,1,1.00,4,2023,2022-23,div2,Mercer County,mercercountycommunitycollege,evrinvirola4d08,Evrin Virola
+Mar 11,home,St. Clair County,W,8-4,8,4,4,win,20230311_51js,3,1,2,,,,1,,,1,,,,,2,0,,,1,,3,2023,2022-23,div2,Mercer County,mercercountycommunitycollege,evrinvirola4d08,Evrin Virola
+Mar 17,home,Lehigh Carbon,W,9-5,9,5,4,win,20230317_crvw,3,1,1,,,,0,1,1,,,1,,,1,0,,1,,,5,2023,2022-23,div2,Mercer County,mercercountycommunitycollege,evrinvirola4d08,Evrin Virola
+Mar 18,home,Lehigh Carbon,W,12-2,12,2,10,win,20230318_fdmn,4,2,2,,,,1,1,1,,,,,,2,0,,1,,,5,2023,2022-23,div2,Mercer County,mercercountycommunitycollege,evrinvirola4d08,Evrin Virola
+Apr 14,home,Morris,W,8-3,8,3,5,win,20230414_8d0e,4,0,1,,,,1,,,,,1,,,1,0,,,3,,5,2023,2022-23,div2,Mercer County,mercercountycommunitycollege,evrinvirola4d08,Evrin Virola
+Apr 16,home,Morris,W,9-6,9,6,3,win,20230416_djd5,5,2,3,1,,,2,,,,,,,,4,1,,1,1,1.00,5,2023,2022-23,div2,Mercer County,mercercountycommunitycollege,evrinvirola4d08,Evrin Virola
+Apr 18,home,Bucks County College,W,16-1,16,1,15,win,20230418_xx0r,4,2,4,2,,,5,,,,,,,,6,2,,,,,4,2023,2022-23,div2,Mercer County,mercercountycommunitycollege,evrinvirola4d08,Evrin Virola
+Apr 22,home,Sussex County,W,8-4,8,4,4,win,20230422_b15f,3,0,0,,,,0,,2,,,,,,0,0,,,1,,3,2023,2022-23,div2,Mercer County,mercercountycommunitycollege,evrinvirola4d08,Evrin Virola
+May 1,home,Lackawanna,W,6-5,6,5,1,win,20230501_kfmz,3,0,0,,,,1,1,,,,,,,0,0,,1,1,1.00,4,2023,2022-23,div2,Mercer County,mercercountycommunitycollege,evrinvirola4d08,Evrin Virola

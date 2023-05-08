@@ -1,16 +1,12 @@
 date,location,opponent,result,score,team_score,opp_score,game_score_diff,game_win_loss,game_id,AB,R,H,2B,3B,HR,RBI,BB,K,SB,CS,HBP,SF,SH,TB,XBH,HDP,GO,FO,GO/FO,PA,season,njcaa_season,njcaa_division,team,team_id,player_id,player_name
-Apr 7,home,North Dakota SCS,W,11-4,11,4,7,win,20230407_7fw7,2,1,1,,,,1,1,,2,,,,,1,0,,,,,3,2023,2022-23,div2,Dawson,dawsoncommunitycollege,cyrusrichardsonmkih,Cyrus Richardson
-Apr 7,home,North Dakota SCS,W,11-0,11,0,11,win,20230407_xqfn,3,1,3,1,,,2,1,,,,,,,4,1,,,,,4,2023,2022-23,div2,Dawson,dawsoncommunitycollege,cyrusrichardsonmkih,Cyrus Richardson
-Apr 8,home,Dakota-Bottineau,W,11-4,11,4,7,win,20230408_iun6,4,0,0,,,,0,,1,,,,,,0,0,,,,,4,2023,2022-23,div2,Dawson,dawsoncommunitycollege,cyrusrichardsonmkih,Cyrus Richardson
-Apr 8,home,Dakota-Bottineau,W,14-4,14,4,10,win,20230408_g2ma,4,0,1,,,,2,,,,,,,,1,0,,,,,4,2023,2022-23,div2,Dawson,dawsoncommunitycollege,cyrusrichardsonmkih,Cyrus Richardson
-Apr 10,home,Williston State,W,3-1,3,1,2,win,20230410_l42k,3,0,0,,,,0,,,,,,,,0,0,1,,,,3,2023,2022-23,div2,Dawson,dawsoncommunitycollege,cyrusrichardsonmkih,Cyrus Richardson
-Apr 16,home,Lake Region State,W,3-0,3,0,3,win,20230416_3w7n,3,0,1,,,,0,,1,,,,,,1,0,,,,,3,2023,2022-23,div2,Dawson,dawsoncommunitycollege,cyrusrichardsonmkih,Cyrus Richardson
-Apr 16,home,Lake Region State,W,8-5,8,5,3,win,20230416_7olb,3,1,0,,,,0,1,,1,,,,,0,0,,,,,4,2023,2022-23,div2,Dawson,dawsoncommunitycollege,cyrusrichardsonmkih,Cyrus Richardson
-Apr 22,home,Dakota-Bottineau,W,13-2,13,2,11,win,20230422_knqg,1,3,0,,,,0,2,,1,,,,,0,0,,,,,3,2023,2022-23,div2,Dawson,dawsoncommunitycollege,cyrusrichardsonmkih,Cyrus Richardson
-Apr 22,home,Dakota-Bottineau,W,10-2,10,2,8,win,20230422_64i5,5,2,2,1,1,,2,,1,,,,,,5,2,,,,,5,2023,2022-23,div2,Dawson,dawsoncommunitycollege,cyrusrichardsonmkih,Cyrus Richardson
-Apr 23,home,North Dakota SCS,W,3-1,3,1,2,win,20230423_ed9c,3,0,1,,,,1,,,,,,,,1,0,,,,,3,2023,2022-23,div2,Dawson,dawsoncommunitycollege,cyrusrichardsonmkih,Cyrus Richardson
-Apr 24,home,Lake Region State,W,9-4,9,4,5,win,20230424_148y,3,3,2,,,,1,1,,2,,,,,2,0,,,,,4,2023,2022-23,div2,Dawson,dawsoncommunitycollege,cyrusrichardsonmkih,Cyrus Richardson
-Apr 24,home,Lake Region State,W,16-4,16,4,12,win,20230424_yz6a,2,1,0,,,,0,2,,,,,,,0,0,,,,,4,2023,2022-23,div2,Dawson,dawsoncommunitycollege,cyrusrichardsonmkih,Cyrus Richardson
-Apr 27,home,Bismarck State,W,7-6,7,6,1,win,20230427_jizv,3,3,1,1,,,0,2,1,,,,,,2,1,,,,,5,2023,2022-23,div2,Dawson,dawsoncommunitycollege,cyrusrichardsonmkih,Cyrus Richardson
-Apr 28,home,Williston State,W,4-2,4,2,2,win,20230428_8uir,3,1,1,1,,,1,1,,,,,,,2,1,,,,,4,2023,2022-23,div2,Dawson,dawsoncommunitycollege,cyrusrichardsonmkih,Cyrus Richardson
-Apr 30,home,Miles,W,6-5,6,5,1,win,20230430_ta0d,4,0,1,,,,0,,,,,,,,1,0,,,,,4,2023,2022-23,div2,Dawson,dawsoncommunitycollege,cyrusrichardsonmkih,Cyrus Richardson
+Apr 7,home,North Dakota SCS,W,11-4,11,4,7,win,20230407_7fw7,1,0,1,1,,,0,,,,,,,,2,1,,,,,1,2023,2022-23,div2,Dawson,dawsoncommunitycollege,cyrusrichardsonmkih,Cyrus Richardson
+Apr 7,home,North Dakota SCS,W,11-0,11,0,11,win,20230407_xqfn,0,1,0,,,,0,1,,,,,,,0,0,,,,,1,2023,2022-23,div2,Dawson,dawsoncommunitycollege,cyrusrichardsonmkih,Cyrus Richardson
+Apr 8,home,Dakota-Bottineau,W,11-4,11,4,7,win,20230408_iun6,3,1,1,,,,0,1,1,1,,,,,1,0,,,,,4,2023,2022-23,div2,Dawson,dawsoncommunitycollege,cyrusrichardsonmkih,Cyrus Richardson
+Apr 10,home,Williston State,W,3-1,3,1,2,win,20230410_l42k,3,1,1,,,,0,,,,,,,,1,0,1,,,,3,2023,2022-23,div2,Dawson,dawsoncommunitycollege,cyrusrichardsonmkih,Cyrus Richardson
+Apr 16,home,Lake Region State,W,3-0,3,0,3,win,20230416_3w7n,3,1,1,,,,1,,1,,,,,,1,0,,,,,3,2023,2022-23,div2,Dawson,dawsoncommunitycollege,cyrusrichardsonmkih,Cyrus Richardson
+Apr 22,home,Dakota-Bottineau,W,13-2,13,2,11,win,20230422_knqg,2,0,0,,,,0,,,,,1,,,0,0,,,,,3,2023,2022-23,div2,Dawson,dawsoncommunitycollege,cyrusrichardsonmkih,Cyrus Richardson
+Apr 23,home,North Dakota SCS,W,3-1,3,1,2,win,20230423_ed9c,3,0,1,,,,0,,1,,,,,,1,0,,,,,3,2023,2022-23,div2,Dawson,dawsoncommunitycollege,cyrusrichardsonmkih,Cyrus Richardson
+Apr 24,home,Lake Region State,W,16-4,16,4,12,win,20230424_yz6a,3,2,1,,,,3,,,1,,2,,,1,0,,,,,5,2023,2022-23,div2,Dawson,dawsoncommunitycollege,cyrusrichardsonmkih,Cyrus Richardson
+Apr 27,home,Bismarck State,W,7-6,7,6,1,win,20230427_jizv,5,0,2,,,,1,,1,,,,,,2,0,,,,,5,2023,2022-23,div2,Dawson,dawsoncommunitycollege,cyrusrichardsonmkih,Cyrus Richardson
+Apr 28,home,Williston State,W,4-2,4,2,2,win,20230428_8uir,3,0,0,,,,0,,1,,,,,,0,0,,,,,3,2023,2022-23,div2,Dawson,dawsoncommunitycollege,cyrusrichardsonmkih,Cyrus Richardson
+Apr 30,home,Miles,W,6-5,6,5,1,win,20230430_ta0d,1,1,0,,,,0,1,,,,,,,0,0,,,,,2,2023,2022-23,div2,Dawson,dawsoncommunitycollege,cyrusrichardsonmkih,Cyrus Richardson
