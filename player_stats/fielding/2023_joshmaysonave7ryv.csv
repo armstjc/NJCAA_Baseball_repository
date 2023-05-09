@@ -1,6 +1,52 @@
 date,location,opponent,result,score,team_score,opp_score,game_score_diff,game_win_loss,game_id,TC,PO,A,E,FPCT,DP,SBA,RCS,RCS_PCT,PB,CI,season,njcaa_season,njcaa_division,team,team_id,player_id,player_name
-Mar 28,home,Patrick & Henry,W,12-11,12,11,1,win,20230328_9wtu,0,0,0,0,1.2,3,4,4,21.60,1,2,2023,2022-23,div1,McCook,mccookcommunitycollege,joshmaysonave7ryv,Josh Maysonave
-Apr 2,home,Spartanburg Methodist,W,7-6,7,6,1,win,20230402_lc1u,0,0,0,1,1.0,1,,,0.00,,2,2023,2022-23,div1,McCook,mccookcommunitycollege,joshmaysonave7ryv,Josh Maysonave
-Apr 15,home,Louisburg,W,4-3,4,3,1,win,20230415_8lfx,0,0,0,0,1.0,2,0,0,0.00,0,0,2023,2022-23,div1,McCook,mccookcommunitycollege,joshmaysonave7ryv,Josh Maysonave
-Apr 23,home,Florence-Darlington Tech,W,7-4,7,4,3,win,20230423_g1b4,1,0,0,0,2.0,1,0,0,0.00,0,1,2023,2022-23,div1,McCook,mccookcommunitycollege,joshmaysonave7ryv,Josh Maysonave
-Apr 29,home,Hosanna Bible College,W,14-2,14,2,12,win,20230429_ospt,0,0,0,0,1.0,1,0,0,0.00,0,2,2023,2022-23,div1,McCook,mccookcommunitycollege,joshmaysonave7ryv,Josh Maysonave
+Feb 6,home,Dallas College - North Lake,W,4-3,4,3,1,win,20230206_1hme,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,McCook,mccookcommunitycollege,joshmaysonave7ryv,Josh Maysonave
+Feb 6,home,Murray State,L,9-3,9,3,6,win,20230206_gdaa,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,McCook,mccookcommunitycollege,joshmaysonave7ryv,Josh Maysonave
+Feb 7,home,Dallas College - North Lake,L,3-0,3,0,3,win,20230207_5eln,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,McCook,mccookcommunitycollege,joshmaysonave7ryv,Josh Maysonave
+Feb 7,home,Dallas College - North Lake,W,10-2,10,2,8,win,20230207_2xf6,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,McCook,mccookcommunitycollege,joshmaysonave7ryv,Josh Maysonave
+Feb 11,home,Clarendon,L,8-0,8,0,8,win,20230211_qkr8,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,McCook,mccookcommunitycollege,joshmaysonave7ryv,Josh Maysonave
+Feb 11,home,Clarendon,L,9-5,9,5,4,win,20230211_pvq7,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,McCook,mccookcommunitycollege,joshmaysonave7ryv,Josh Maysonave
+Feb 12,home,Clarendon,L,20-14,20,14,6,win,20230212_lvts,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,McCook,mccookcommunitycollege,joshmaysonave7ryv,Josh Maysonave
+Feb 19,home,Labette,W,18-3,18,3,15,win,20230219_dfks,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,McCook,mccookcommunitycollege,joshmaysonave7ryv,Josh Maysonave
+Feb 19,home,Labette,W,11-1,11,1,10,win,20230219_d1hr,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,McCook,mccookcommunitycollege,joshmaysonave7ryv,Josh Maysonave
+Feb 20,home,Labette,L,9-7,9,7,2,win,20230220_txuh,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,McCook,mccookcommunitycollege,joshmaysonave7ryv,Josh Maysonave
+Feb 25,home,Northeastern,W,6-3,6,3,3,win,20230225_v1c2,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,McCook,mccookcommunitycollege,joshmaysonave7ryv,Josh Maysonave
+Feb 26,home,Northeastern,L,8-7,8,7,1,win,20230226_zdu1,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,McCook,mccookcommunitycollege,joshmaysonave7ryv,Josh Maysonave
+Feb 26,home,Northeastern,L,16-4,16,4,12,win,20230226_60g2,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,McCook,mccookcommunitycollege,joshmaysonave7ryv,Josh Maysonave
+Mar 1,home,Northeast,W,7-1,7,1,6,win,20230301_w48a,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,McCook,mccookcommunitycollege,joshmaysonave7ryv,Josh Maysonave
+Mar 5,home,Trinidad State,L,5-2,5,2,3,win,20230305_c5bf,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,McCook,mccookcommunitycollege,joshmaysonave7ryv,Josh Maysonave
+Mar 5,home,Trinidad State,W,15-5,15,5,10,win,20230305_v3bn,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,McCook,mccookcommunitycollege,joshmaysonave7ryv,Josh Maysonave
+Mar 6,home,Trinidad State,L,8-7,8,7,1,win,20230306_f8fp,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,McCook,mccookcommunitycollege,joshmaysonave7ryv,Josh Maysonave
+Mar 6,home,Trinidad State,L,14-11,14,11,3,win,20230306_non2,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,McCook,mccookcommunitycollege,joshmaysonave7ryv,Josh Maysonave
+Mar 11,home,Southeast,W,11-10,11,10,1,win,20230311_0q96,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,McCook,mccookcommunitycollege,joshmaysonave7ryv,Josh Maysonave
+Mar 14,home,Southeast,L,6-3,6,3,3,win,20230314_ujwv,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,McCook,mccookcommunitycollege,joshmaysonave7ryv,Josh Maysonave
+Mar 14,home,Southeast,L,12-9,12,9,3,win,20230314_wy8i,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,McCook,mccookcommunitycollege,joshmaysonave7ryv,Josh Maysonave
+Mar 15,home,Northwestern Ok State JV,W,15-6,15,6,9,win,20230315_wn3u,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,McCook,mccookcommunitycollege,joshmaysonave7ryv,Josh Maysonave
+Mar 15,home,Northwestern Ok State JV,W,13-4,13,4,9,win,20230315_5ugp,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,McCook,mccookcommunitycollege,joshmaysonave7ryv,Josh Maysonave
+Mar 19,home,Lamar,W,19-5,19,5,14,win,20230319_omza,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,McCook,mccookcommunitycollege,joshmaysonave7ryv,Josh Maysonave
+Mar 19,home,Lamar,W,5-2,5,2,3,win,20230319_3y5r,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,McCook,mccookcommunitycollege,joshmaysonave7ryv,Josh Maysonave
+Mar 20,home,Lamar,W,6-4,6,4,2,win,20230320_l3sf,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,McCook,mccookcommunitycollege,joshmaysonave7ryv,Josh Maysonave
+Mar 20,home,Lamar,W,13-10,13,10,3,win,20230320_6pnm,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,McCook,mccookcommunitycollege,joshmaysonave7ryv,Josh Maysonave
+Mar 24,home,Luna,W,8-7,8,7,1,win,20230324_hy40,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,McCook,mccookcommunitycollege,joshmaysonave7ryv,Josh Maysonave
+Mar 24,home,Luna,W,4-3,4,3,1,win,20230324_tft4,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,McCook,mccookcommunitycollege,joshmaysonave7ryv,Josh Maysonave
+Mar 25,home,Luna,W,4-3,4,3,1,win,20230325_130x,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,McCook,mccookcommunitycollege,joshmaysonave7ryv,Josh Maysonave
+Mar 29,home,Hastings College JV,W,15-0,15,0,15,win,20230329_g72z,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,McCook,mccookcommunitycollege,joshmaysonave7ryv,Josh Maysonave
+Apr 1,home,Otero,W,16-5,16,5,11,win,20230401_a8hd,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,McCook,mccookcommunitycollege,joshmaysonave7ryv,Josh Maysonave
+Apr 1,home,Otero,W,14-7,14,7,7,win,20230401_9hc4,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,McCook,mccookcommunitycollege,joshmaysonave7ryv,Josh Maysonave
+Apr 2,home,Otero,W,6-4,6,4,2,win,20230402_azty,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,McCook,mccookcommunitycollege,joshmaysonave7ryv,Josh Maysonave
+Apr 2,home,Otero,W,13-5,13,5,8,win,20230402_x34j,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,McCook,mccookcommunitycollege,joshmaysonave7ryv,Josh Maysonave
+Apr 5,home,Colby,L,14-13,14,13,1,win,20230405_jbwq,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,McCook,mccookcommunitycollege,joshmaysonave7ryv,Josh Maysonave
+Apr 7,home,Western Nebraska,L,9-1,9,1,8,win,20230407_wvj3,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,McCook,mccookcommunitycollege,joshmaysonave7ryv,Josh Maysonave
+Apr 7,home,Western Nebraska,W,13-5,13,5,8,win,20230407_bxep,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,McCook,mccookcommunitycollege,joshmaysonave7ryv,Josh Maysonave
+Apr 8,home,Western Nebraska,W,7-5,7,5,2,win,20230408_9njk,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,McCook,mccookcommunitycollege,joshmaysonave7ryv,Josh Maysonave
+Apr 16,home,Southeast,L,12-2,12,2,10,win,20230416_rvhr,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,McCook,mccookcommunitycollege,joshmaysonave7ryv,Josh Maysonave
+Apr 16,home,Southeast,L,16-13,16,13,3,win,20230416_oi12,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,McCook,mccookcommunitycollege,joshmaysonave7ryv,Josh Maysonave
+Apr 17,home,Southeast,L,5-4,5,4,1,win,20230417_bj88,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,McCook,mccookcommunitycollege,joshmaysonave7ryv,Josh Maysonave
+Apr 22,home,Northeastern,W,18-8,18,8,10,win,20230422_4q7k,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,McCook,mccookcommunitycollege,joshmaysonave7ryv,Josh Maysonave
+Apr 23,home,Northeastern,W,10-3,10,3,7,win,20230423_r0qu,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,McCook,mccookcommunitycollege,joshmaysonave7ryv,Josh Maysonave
+Apr 23,home,Northeastern,L,17-7,17,7,10,win,20230423_574g,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,McCook,mccookcommunitycollege,joshmaysonave7ryv,Josh Maysonave
+Apr 24,home,Luna,W,21-11,21,11,10,win,20230424_9ld0,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,McCook,mccookcommunitycollege,joshmaysonave7ryv,Josh Maysonave
+Apr 29,home,Western Nebraska,W,6-5,6,5,1,win,20230429_sxi0,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,McCook,mccookcommunitycollege,joshmaysonave7ryv,Josh Maysonave
+Apr 29,home,Western Nebraska,W,13-4,13,4,9,win,20230429_cpis,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,McCook,mccookcommunitycollege,joshmaysonave7ryv,Josh Maysonave
+May 1,home,Colby,L,12-9,12,9,3,win,20230501_2nun,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,McCook,mccookcommunitycollege,joshmaysonave7ryv,Josh Maysonave
+May 5,home,Lamar,W,12-2,12,2,10,win,20230505_v0kd,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,McCook,mccookcommunitycollege,joshmaysonave7ryv,Josh Maysonave
+May 6,home,Lamar,W,20-13,20,13,7,win,20230506_xc5e,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,McCook,mccookcommunitycollege,joshmaysonave7ryv,Josh Maysonave

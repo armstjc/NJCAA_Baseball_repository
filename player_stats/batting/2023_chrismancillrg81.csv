@@ -1,4 +1,22 @@
 date,location,opponent,result,score,team_score,opp_score,game_score_diff,game_win_loss,game_id,AB,R,H,2B,3B,HR,RBI,BB,K,SB,CS,HBP,SF,SH,TB,XBH,HDP,GO,FO,GO/FO,PA,season,njcaa_season,njcaa_division,team,team_id,player_id,player_name
-Feb 6,home,Marion Military,W,3-1,3,1,2,win,20230206_1yh8,2,0,0,,,,0,,,,,,,1,0,0,,,,,3,2023,2022-23,div1,Wallace-Selma,wallacecommunitycollegeselma,chrismancillrg81,Chris Mancill
-Feb 20,home,Point University J.V.,W,11-5,11,5,6,win,20230220_wfgd,1,0,0,,,,0,,,,,,,,0,0,,,,,1,2023,2022-23,div1,Wallace-Selma,wallacecommunitycollegeselma,chrismancillrg81,Chris Mancill
-Feb 23,home,Stillman College J.V.,W,13-5,13,5,8,win,20230223_dwju,0,0,0,,,,0,,,,,,,,0,0,,,,,0,2023,2022-23,div1,Wallace-Selma,wallacecommunitycollegeselma,chrismancillrg81,Chris Mancill
+Feb 6,home,Marion Military,W,3-1,3,1,2,win,20230206_1yh8,0,0,0,,,,0,,,,,,,,0,0,,,,,0,2023,2022-23,div1,Wallace-Selma,wallacecommunitycollegeselma,chrismancillrg81,Chris Mancill
+Feb 20,home,Point University J.V.,W,11-5,11,5,6,win,20230220_wfgd,2,1,1,,,,1,1,,,,,,,1,0,,,,,3,2023,2022-23,div1,Wallace-Selma,wallacecommunitycollegeselma,chrismancillrg81,Chris Mancill
+Feb 23,home,Stillman College J.V.,W,13-5,13,5,8,win,20230223_dwju,2,1,0,,,,0,2,,,,,,,0,0,,,,,4,2023,2022-23,div1,Wallace-Selma,wallacecommunitycollegeselma,chrismancillrg81,Chris Mancill
+Feb 27,home,Huntingdon College J.V.,W,19-7,19,7,12,win,20230227_ejbw,3,1,1,,,,2,1,1,,,,,,1,0,,,,,4,2023,2022-23,div1,Wallace-Selma,wallacecommunitycollegeselma,chrismancillrg81,Chris Mancill
+Mar 4,home,Faulkner University J.V.,W,10-5,10,5,5,win,20230304_gc8d,2,0,0,,,,0,2,,,,,,,0,0,,,,,4,2023,2022-23,div1,Wallace-Selma,wallacecommunitycollegeselma,chrismancillrg81,Chris Mancill
+Mar 4,home,Faulkner University J.V.,W,15-1,15,1,14,win,20230304_xytf,0,0,0,,,,0,,,,,,,,0,0,,,,,0,2023,2022-23,div1,Wallace-Selma,wallacecommunitycollegeselma,chrismancillrg81,Chris Mancill
+Mar 6,home,Shelton State,W,6-5,6,5,1,win,20230306_yxvl,4,0,2,,,,0,,2,,,,,,2,0,,,,,4,2023,2022-23,div1,Wallace-Selma,wallacecommunitycollegeselma,chrismancillrg81,Chris Mancill
+Mar 9,home,Coastal Alabama - Brewton,W,6-5,6,5,1,win,20230309_wpdx,3,0,0,,,,1,,1,,,,1,,0,0,,,,,4,2023,2022-23,div1,Wallace-Selma,wallacecommunitycollegeselma,chrismancillrg81,Chris Mancill
+Mar 9,home,Coastal Alabama - Brewton,W,5-2,5,2,3,win,20230309_n9ua,1,2,1,1,,,0,1,,,,1,,,2,1,,,,,3,2023,2022-23,div1,Wallace-Selma,wallacecommunitycollegeselma,chrismancillrg81,Chris Mancill
+Mar 11,home,Coastal Alabama - Brewton,W,7-6,7,6,1,win,20230311_8ywy,1,0,0,,,,0,,1,,,,,,0,0,,,,,1,2023,2022-23,div1,Wallace-Selma,wallacecommunitycollegeselma,chrismancillrg81,Chris Mancill
+Mar 16,home,Enterprise State,W,6-4,6,4,2,win,20230316_rht8,1,1,0,,,,1,,,,,1,1,,0,0,,,,,3,2023,2022-23,div1,Wallace-Selma,wallacecommunitycollegeselma,chrismancillrg81,Chris Mancill
+Mar 18,home,Enterprise State,W,5-3,5,3,2,win,20230318_0j39,2,0,0,,,,0,,,,,1,,,0,0,,,,,3,2023,2022-23,div1,Wallace-Selma,wallacecommunitycollegeselma,chrismancillrg81,Chris Mancill
+Mar 18,home,Enterprise State,W,2-1,2,1,1,win,20230318_hgsu,2,0,1,,,,1,,,,,1,,,1,0,,,,,3,2023,2022-23,div1,Wallace-Selma,wallacecommunitycollegeselma,chrismancillrg81,Chris Mancill
+Mar 23,home,Bishop State,W,12-6,12,6,6,win,20230323_fc2n,4,1,1,1,,,1,,,,,,,,2,1,,,,,4,2023,2022-23,div1,Wallace-Selma,wallacecommunitycollegeselma,chrismancillrg81,Chris Mancill
+Mar 30,home,Spring Hill College J.V.,W,5-1,5,1,4,win,20230330_qsvt,3,1,3,2,,,1,,,,,,,,5,2,,,,,3,2023,2022-23,div1,Wallace-Selma,wallacecommunitycollegeselma,chrismancillrg81,Chris Mancill
+Mar 30,home,Spring Hill College J.V.,W,12-3,12,3,9,win,20230330_6rc0,0,1,0,,,,1,1,,,,,,,0,0,,,,,1,2023,2022-23,div1,Wallace-Selma,wallacecommunitycollegeselma,chrismancillrg81,Chris Mancill
+Apr 6,home,Coastal Alabama - Monroeville,W,4-1,4,1,3,win,20230406_gbct,0,0,0,,,,0,,,,,,,,0,0,,,,,0,2023,2022-23,div1,Wallace-Selma,wallacecommunitycollegeselma,chrismancillrg81,Chris Mancill
+Apr 12,home,Lurleen B. Wallace,W,2-0,2,0,2,win,20230412_4jfy,1,0,0,,,,0,2,,,,,,,0,0,,,,,3,2023,2022-23,div1,Wallace-Selma,wallacecommunitycollegeselma,chrismancillrg81,Chris Mancill
+Apr 15,home,Lurleen B. Wallace,W,10-2,10,2,8,win,20230415_xgj3,1,0,0,,,,0,,,,,,,,0,0,,,,,1,2023,2022-23,div1,Wallace-Selma,wallacecommunitycollegeselma,chrismancillrg81,Chris Mancill
+Apr 20,home,Chattahoochee Valley,W,7-6,7,6,1,win,20230420_3wsm,3,0,0,,,,0,,1,,,,,,0,0,,,,,3,2023,2022-23,div1,Wallace-Selma,wallacecommunitycollegeselma,chrismancillrg81,Chris Mancill
+May 6,home,Wallace-Dothan,W,8-4,8,4,4,win,20230506_4df2,3,0,1,,,,0,,,,,,,,1,0,1,,,,3,2023,2022-23,div1,Wallace-Selma,wallacecommunitycollegeselma,chrismancillrg81,Chris Mancill

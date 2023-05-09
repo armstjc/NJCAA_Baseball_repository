@@ -1,5 +1,16 @@
 date,location,opponent,result,score,team_score,opp_score,game_score_diff,game_win_loss,game_id,AB,R,H,2B,3B,HR,RBI,BB,K,SB,CS,HBP,SF,SH,TB,XBH,HDP,GO,FO,GO/FO,PA,season,njcaa_season,njcaa_division,team,team_id,player_id,player_name
-Feb 5,home,Yavapai,W,19-6,19,6,13,win,20230205_ujf9,0,0,0,,,,0,,,,,,,,0,0,,,,,0,2023,2022-23,div1,USC Sumter,uscsumter,nikolaingxy0f,Niko Laing
-Mar 12,home,Colorado Northwestern,W,7-2,7,2,5,win,20230312_w1q1,0,0,0,,,,0,,,,,,,,0,0,,,,,0,2023,2022-23,div1,USC Sumter,uscsumter,nikolaingxy0f,Niko Laing
-Mar 27,home,Utah State Eastern,W,8-6,8,6,2,win,20230327_wr0k,0,0,0,,,,0,,,,,,,,0,0,,,,,0,2023,2022-23,div1,USC Sumter,uscsumter,nikolaingxy0f,Niko Laing
-Apr 15,home,Colorado Northwestern,W,14-1,14,1,13,win,20230415_qxix,0,0,0,,,,0,,,,,,,,0,0,,,,,0,2023,2022-23,div1,USC Sumter,uscsumter,nikolaingxy0f,Niko Laing
+Mar 5,home,Potomac State,W,5-3,5,3,2,win,20230305_wnvj,2,1,1,,,1,3,,,,,,1,,4,1,,1,1,1.00,3,2023,2022-23,div1,USC Sumter,uscsumter,nikolaingxy0f,Niko Laing
+Mar 9,home,Henry Ford,W,5-4,5,4,1,win,20230309_kh5k,1,0,0,,,,0,,,,,,,,0,0,,,,,1,2023,2022-23,div1,USC Sumter,uscsumter,nikolaingxy0f,Niko Laing
+Mar 18,home,USC Union,W,4-3,4,3,1,win,20230318_rm5w,1,0,1,0,0,0,1,0,0,0,0,0,0,0,1,0,,0,,,1,2023,2022-23,div1,USC Sumter,uscsumter,nikolaingxy0f,Niko Laing
+Mar 19,home,USC Union,W,6-5,6,5,1,win,20230319_w3pi,2,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,0,,,3,2023,2022-23,div1,USC Sumter,uscsumter,nikolaingxy0f,Niko Laing
+Mar 19,home,USC Union,W,9-8,9,8,1,win,20230319_2yy8,3,1,1,0,0,0,0,1,0,0,0,0,0,0,1,0,,0,,,4,2023,2022-23,div1,USC Sumter,uscsumter,nikolaingxy0f,Niko Laing
+Mar 23,home,Catawba Valley,W,9-2,9,2,7,win,20230323_joke,4,0,2,1,0,0,1,0,1,1,0,0,0,0,3,1,,0,,,4,2023,2022-23,div1,USC Sumter,uscsumter,nikolaingxy0f,Niko Laing
+Mar 23,home,Catawba Valley,W,8-5,8,5,3,win,20230323_3dln,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0,,,1,2023,2022-23,div1,USC Sumter,uscsumter,nikolaingxy0f,Niko Laing
+Mar 28,home,Francis Marion University JV,W,11-6,11,6,5,win,20230328_04s2,1,1,0,0,0,0,0,2,0,0,0,0,0,0,0,0,,0,,,3,2023,2022-23,div1,USC Sumter,uscsumter,nikolaingxy0f,Niko Laing
+Apr 2,home,Louisburg,W,3-2,3,2,1,win,20230402_f1fb,4,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,0,,,4,2023,2022-23,div1,USC Sumter,uscsumter,nikolaingxy0f,Niko Laing
+Apr 12,home,Catawba Valley,W,11-5,11,5,6,win,20230412_l4r6,3,2,2,0,0,0,0,1,0,1,0,0,0,0,2,0,,0,,,4,2023,2022-23,div1,USC Sumter,uscsumter,nikolaingxy0f,Niko Laing
+Apr 12,home,Catawba Valley,W,9-3,9,3,6,win,20230412_7ffa,4,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,,0,,,4,2023,2022-23,div1,USC Sumter,uscsumter,nikolaingxy0f,Niko Laing
+Apr 18,home,P27 Academy,W,24-1,24,1,23,win,20230418_5le1,3,4,3,2,0,0,3,0,0,0,0,1,1,0,5,2,,0,,,5,2023,2022-23,div1,USC Sumter,uscsumter,nikolaingxy0f,Niko Laing
+Apr 22,home,USC Salkehatchie,W,8-2,8,2,6,win,20230422_60iv,2,1,1,0,0,0,0,1,1,0,0,0,0,0,1,0,,0,,,3,2023,2022-23,div1,USC Sumter,uscsumter,nikolaingxy0f,Niko Laing
+Apr 23,home,USC Salkehatchie,W,17-2,17,2,15,win,20230423_loha,2,1,0,0,0,0,1,2,0,0,0,0,0,0,0,0,,0,,,4,2023,2022-23,div1,USC Sumter,uscsumter,nikolaingxy0f,Niko Laing
+Apr 23,home,USC Salkehatchie,W,17-2,17,2,15,win,20230423_78sv,1,3,1,0,0,0,0,3,0,0,0,0,0,0,1,0,,0,,,4,2023,2022-23,div1,USC Sumter,uscsumter,nikolaingxy0f,Niko Laing

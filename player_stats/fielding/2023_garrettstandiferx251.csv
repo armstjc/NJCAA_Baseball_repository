@@ -1,9 +1,40 @@
 date,location,opponent,result,score,team_score,opp_score,game_score_diff,game_win_loss,game_id,TC,PO,A,E,FPCT,DP,SBA,RCS,RCS_PCT,PB,CI,season,njcaa_season,njcaa_division,team,team_id,player_id,player_name
-Feb 6,home,Oklahoma Wesleyan,W,19-0,19,0,19,win,20230206_rd09,0,0,0,0,1.0,0,0,0,0.00,2,1,2023,2022-23,div1,Connors State,connorsstatecollege,garrettstandiferx251,Garrett Standifer
-Feb 18,home,TCS Postgrad,W,15-7,15,7,8,win,20230218_5xox,0,0,0,0,1.1,0,2,0,0.00,4,2,2023,2022-23,div1,Connors State,connorsstatecollege,garrettstandiferx251,Garrett Standifer
-Feb 21,home,Ozarks University,W,10-1,10,1,9,win,20230221_hza3,0,0,0,0,1.0,1,0,0,0.00,0,3,2023,2022-23,div1,Connors State,connorsstatecollege,garrettstandiferx251,Garrett Standifer
-Mar 6,home,Oklahoma Christian,W,15-1,15,1,14,win,20230306_pvgk,0,1,0,0,2.0,0,0,0,0.00,0,4,2023,2022-23,div1,Connors State,connorsstatecollege,garrettstandiferx251,Garrett Standifer
-Mar 20,home,Carl Albert State,L,9-6,9,6,3,win,20230320_gr0j,1,0,0,0,1.0,2,3,3,27.00,3,0,2023,2022-23,div1,Connors State,connorsstatecollege,garrettstandiferx251,Garrett Standifer
-Apr 10,home,TCS Postgrad,W,14-0,14,0,14,win,20230410_15f3,0,0,0,0,1.0,0,0,0,0.00,0,2,2023,2022-23,div1,Connors State,connorsstatecollege,garrettstandiferx251,Garrett Standifer
-Apr 10,home,TCS Postgrad,W,13-7,13,7,6,win,20230410_fkma,0,0,0,1,2.0,4,0,0,0.00,0,6,2023,2022-23,div1,Connors State,connorsstatecollege,garrettstandiferx251,Garrett Standifer
-Apr 13,home,Rose State,W,26-8,26,8,18,win,20230413_563t,0,0,0,0,0.0,,2,2,INF,2,,2023,2022-23,div1,Connors State,connorsstatecollege,garrettstandiferx251,Garrett Standifer
+Feb 21,home,Ozarks University,W,10-1,10,1,9,win,20230221_hza3,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Connors State,connorsstatecollege,garrettstandiferx251,Garrett Standifer
+Feb 27,home,Ozarks University,W,17-0,17,0,17,win,20230227_kbql,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Connors State,connorsstatecollege,garrettstandiferx251,Garrett Standifer
+Feb 27,home,Ozarks University,W,17-1,17,1,16,win,20230227_wue5,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Connors State,connorsstatecollege,garrettstandiferx251,Garrett Standifer
+Mar 4,home,Eastern Oklahoma State,W,11-0,11,0,11,win,20230304_rjc3,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Connors State,connorsstatecollege,garrettstandiferx251,Garrett Standifer
+Mar 4,home,Eastern Oklahoma State,W,8-6,8,6,2,win,20230304_dzy3,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Connors State,connorsstatecollege,garrettstandiferx251,Garrett Standifer
+Mar 5,home,Eastern Oklahoma State,W,9-4,9,4,5,win,20230305_cj1x,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Connors State,connorsstatecollege,garrettstandiferx251,Garrett Standifer
+Mar 6,home,Oklahoma Christian,W,8-1,8,1,7,win,20230306_41f0,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Connors State,connorsstatecollege,garrettstandiferx251,Garrett Standifer
+Mar 6,home,Oklahoma Christian,W,15-1,15,1,14,win,20230306_pvgk,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Connors State,connorsstatecollege,garrettstandiferx251,Garrett Standifer
+Mar 10,home,Rose State,W,10-0,10,0,10,win,20230310_7j53,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Connors State,connorsstatecollege,garrettstandiferx251,Garrett Standifer
+Mar 11,home,Rose State,W,10-2,10,2,8,win,20230311_1o2o,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Connors State,connorsstatecollege,garrettstandiferx251,Garrett Standifer
+Mar 11,home,Rose State,W,6-2,6,2,4,win,20230311_6j85,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Connors State,connorsstatecollege,garrettstandiferx251,Garrett Standifer
+Mar 14,home,Crowder,W,10-6,10,6,4,win,20230314_gdeg,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Connors State,connorsstatecollege,garrettstandiferx251,Garrett Standifer
+Mar 18,home,Northeastern Oklahoma A&M,W,8-3,8,3,5,win,20230318_13r4,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Connors State,connorsstatecollege,garrettstandiferx251,Garrett Standifer
+Mar 18,home,Northeastern Oklahoma A&M,W,11-8,11,8,3,win,20230318_65sx,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Connors State,connorsstatecollege,garrettstandiferx251,Garrett Standifer
+Mar 19,home,Northeastern Oklahoma A&M,W,7-3,7,3,4,win,20230319_wa24,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Connors State,connorsstatecollege,garrettstandiferx251,Garrett Standifer
+Mar 20,home,Carl Albert State,L,9-6,9,6,3,win,20230320_gr0j,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Connors State,connorsstatecollege,garrettstandiferx251,Garrett Standifer
+Mar 25,home,Seminole State (OK),L,3-2,3,2,1,win,20230325_gz7l,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Connors State,connorsstatecollege,garrettstandiferx251,Garrett Standifer
+Mar 25,home,Seminole State (OK),W,10-4,10,4,6,win,20230325_vf64,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Connors State,connorsstatecollege,garrettstandiferx251,Garrett Standifer
+Mar 26,home,Seminole State (OK),W,14-10,14,10,4,win,20230326_9o87,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Connors State,connorsstatecollege,garrettstandiferx251,Garrett Standifer
+Mar 30,home,DFW Postgrad,W,9-0,9,0,9,win,20230330_8n82,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Connors State,connorsstatecollege,garrettstandiferx251,Garrett Standifer
+Apr 1,home,Oklahoma Christian,W,25-0,25,0,25,win,20230401_ot2i,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Connors State,connorsstatecollege,garrettstandiferx251,Garrett Standifer
+Apr 1,home,Oklahoma Christian,W,13-3,13,3,10,win,20230401_7eue,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Connors State,connorsstatecollege,garrettstandiferx251,Garrett Standifer
+Apr 4,home,Crowder,L,12-3,12,3,9,win,20230404_k6jx,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Connors State,connorsstatecollege,garrettstandiferx251,Garrett Standifer
+Apr 6,home,Eastern Oklahoma State,W,11-1,11,1,10,win,20230406_vezr,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Connors State,connorsstatecollege,garrettstandiferx251,Garrett Standifer
+Apr 8,home,Eastern Oklahoma State,W,4-0,4,0,4,win,20230408_ap6v,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Connors State,connorsstatecollege,garrettstandiferx251,Garrett Standifer
+Apr 8,home,Eastern Oklahoma State,L,12-2,12,2,10,win,20230408_zdjv,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Connors State,connorsstatecollege,garrettstandiferx251,Garrett Standifer
+Apr 10,home,TCS Postgrad,W,14-0,14,0,14,win,20230410_15f3,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Connors State,connorsstatecollege,garrettstandiferx251,Garrett Standifer
+Apr 10,home,TCS Postgrad,W,13-7,13,7,6,win,20230410_fkma,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Connors State,connorsstatecollege,garrettstandiferx251,Garrett Standifer
+Apr 13,home,Rose State,W,26-8,26,8,18,win,20230413_563t,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Connors State,connorsstatecollege,garrettstandiferx251,Garrett Standifer
+Apr 15,home,Rose State,W,11-8,11,8,3,win,20230415_m4lt,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Connors State,connorsstatecollege,garrettstandiferx251,Garrett Standifer
+Apr 15,home,Rose State,W,21-5,21,5,16,win,20230415_s168,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Connors State,connorsstatecollege,garrettstandiferx251,Garrett Standifer
+Apr 21,home,Northeastern Oklahoma A&M,W,9-3,9,3,6,win,20230421_6sb2,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Connors State,connorsstatecollege,garrettstandiferx251,Garrett Standifer
+Apr 22,home,Northeastern Oklahoma A&M,W,13-9,13,9,4,win,20230422_4xpf,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Connors State,connorsstatecollege,garrettstandiferx251,Garrett Standifer
+Apr 22,home,Northeastern Oklahoma A&M,W,14-9,14,9,5,win,20230422_ecjx,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Connors State,connorsstatecollege,garrettstandiferx251,Garrett Standifer
+Apr 24,home,Oklahoma Wesleyan,W,11-1,11,1,10,win,20230424_8wg1,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Connors State,connorsstatecollege,garrettstandiferx251,Garrett Standifer
+Apr 27,home,Seminole State (OK),W,7-5,7,5,2,win,20230427_jcnv,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Connors State,connorsstatecollege,garrettstandiferx251,Garrett Standifer
+Apr 29,home,Seminole State (OK),W,12-11,12,11,1,win,20230429_plz0,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Connors State,connorsstatecollege,garrettstandiferx251,Garrett Standifer
+Apr 29,home,Seminole State (OK),W,14-4,14,4,10,win,20230429_jmuv,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Connors State,connorsstatecollege,garrettstandiferx251,Garrett Standifer
+May 6,home,ASU Mountain Home,W,15-3,15,3,12,win,20230506_jiij,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Connors State,connorsstatecollege,garrettstandiferx251,Garrett Standifer

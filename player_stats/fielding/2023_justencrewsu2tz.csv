@@ -1,9 +1,14 @@
 date,location,opponent,result,score,team_score,opp_score,game_score_diff,game_win_loss,game_id,TC,PO,A,E,FPCT,DP,SBA,RCS,RCS_PCT,PB,CI,season,njcaa_season,njcaa_division,team,team_id,player_id,player_name
-Feb 6,home,Oklahoma Wesleyan,W,19-0,19,0,19,win,20230206_rd09,0,0,0,0,1.0,0,0,0,0.00,2,1,2023,2022-23,div1,Tallahassee,tallahasseecommunitycollege,justencrewsu2tz,Justen Crews
-Feb 18,home,TCS Postgrad,W,15-7,15,7,8,win,20230218_5xox,0,0,0,0,1.1,0,2,0,0.00,4,2,2023,2022-23,div1,Tallahassee,tallahasseecommunitycollege,justencrewsu2tz,Justen Crews
-Feb 21,home,Ozarks University,W,10-1,10,1,9,win,20230221_hza3,0,0,0,0,1.0,1,0,0,0.00,0,3,2023,2022-23,div1,Tallahassee,tallahasseecommunitycollege,justencrewsu2tz,Justen Crews
-Mar 6,home,Oklahoma Christian,W,15-1,15,1,14,win,20230306_pvgk,0,1,0,0,2.0,0,0,0,0.00,0,4,2023,2022-23,div1,Tallahassee,tallahasseecommunitycollege,justencrewsu2tz,Justen Crews
-Mar 20,home,Carl Albert State,L,9-6,9,6,3,win,20230320_gr0j,1,0,0,0,1.0,2,3,3,27.00,3,0,2023,2022-23,div1,Tallahassee,tallahasseecommunitycollege,justencrewsu2tz,Justen Crews
-Apr 10,home,TCS Postgrad,W,14-0,14,0,14,win,20230410_15f3,0,0,0,0,1.0,0,0,0,0.00,0,2,2023,2022-23,div1,Tallahassee,tallahasseecommunitycollege,justencrewsu2tz,Justen Crews
-Apr 10,home,TCS Postgrad,W,13-7,13,7,6,win,20230410_fkma,0,0,0,1,2.0,4,0,0,0.00,0,6,2023,2022-23,div1,Tallahassee,tallahasseecommunitycollege,justencrewsu2tz,Justen Crews
-Apr 13,home,Rose State,W,26-8,26,8,18,win,20230413_563t,0,0,0,0,0.0,,2,2,INF,2,,2023,2022-23,div1,Tallahassee,tallahasseecommunitycollege,justencrewsu2tz,Justen Crews
+Jan 29,home,South Georgia State,W,8-3,8,3,5,win,20230129_g96p,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Tallahassee,tallahasseecommunitycollege,justencrewsu2tz,Justen Crews
+Jan 29,home,South Georgia State,W,4-3,4,3,1,win,20230129_6g7w,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Tallahassee,tallahasseecommunitycollege,justencrewsu2tz,Justen Crews
+Feb 4,home,Florida State Jacksonville,W,13-4,13,4,9,win,20230204_rtl8,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Tallahassee,tallahasseecommunitycollege,justencrewsu2tz,Justen Crews
+Feb 7,home,Abraham Baldwin,W,10-3,10,3,7,win,20230207_b7lm,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Tallahassee,tallahasseecommunitycollege,justencrewsu2tz,Justen Crews
+Feb 8,home,Santa Fe,L,7-4,7,4,3,win,20230208_11y9,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Tallahassee,tallahasseecommunitycollege,justencrewsu2tz,Justen Crews
+Feb 12,home,Shelton State,W,6-3,6,3,3,win,20230212_qd5c,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Tallahassee,tallahasseecommunitycollege,justencrewsu2tz,Justen Crews
+Feb 12,home,Shelton State,W,9-6,9,6,3,win,20230212_hfel,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Tallahassee,tallahasseecommunitycollege,justencrewsu2tz,Justen Crews
+Feb 13,home,Shelton State,W,12-2,12,2,10,win,20230213_bfqx,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Tallahassee,tallahasseecommunitycollege,justencrewsu2tz,Justen Crews
+Feb 17,home,State College of Florida,W,11-10,11,10,1,win,20230217_roj1,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Tallahassee,tallahasseecommunitycollege,justencrewsu2tz,Justen Crews
+Feb 18,home,State College of Florida,W,8-5,8,5,3,win,20230218_8yhj,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Tallahassee,tallahasseecommunitycollege,justencrewsu2tz,Justen Crews
+Feb 22,home,Santa Fe,L,10-2,10,2,8,win,20230222_8mey,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Tallahassee,tallahasseecommunitycollege,justencrewsu2tz,Justen Crews
+Feb 25,home,Abraham Baldwin,W,4-1,4,1,3,win,20230225_th7r,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Tallahassee,tallahasseecommunitycollege,justencrewsu2tz,Justen Crews
+Feb 25,home,Abraham Baldwin,W,9-2,9,2,7,win,20230225_2xm8,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Tallahassee,tallahasseecommunitycollege,justencrewsu2tz,Justen Crews

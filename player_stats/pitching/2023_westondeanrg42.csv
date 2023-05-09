@@ -1,11 +1,23 @@
 date,location,opponent,result,score,team_score,opp_score,game_score_diff,game_win_loss,game_id,GS,W,L,SV,IP,H,R,ER,ERA,BB,K,HR,season,njcaa_season,njcaa_division,team,team_id,player_id,player_name
-Apr 22,home,USC Lancaster,L,8-7,8,7,1,win,20230422_f2tt,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div1,Angelina,angelinacollege,westondeanrg42,Weston Dean
-Apr 15,home,Florence-Darlington Tech,L,12-0,12,0,12,win,20230415_dpgb,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div1,Angelina,angelinacollege,westondeanrg42,Weston Dean
-Mar 25,home,Louisburg,L,6-2,6,2,4,win,20230325_cybr,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div1,Angelina,angelinacollege,westondeanrg42,Weston Dean
-Mar 25,home,Louisburg,W,13-2,13,2,11,win,20230325_ybps,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div1,Angelina,angelinacollege,westondeanrg42,Weston Dean
-Mar 19,home,USC Sumter,L,9-8,9,8,1,win,20230319_2yy8,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div1,Angelina,angelinacollege,westondeanrg42,Weston Dean
-Mar 18,home,USC Sumter,L,4-3,4,3,1,win,20230318_rm5w,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div1,Angelina,angelinacollege,westondeanrg42,Weston Dean
-Feb 27,home,MontreJV,L,6-3,6,3,3,win,20230227_elky,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div1,Angelina,angelinacollege,westondeanrg42,Weston Dean
-Feb 24,home,Mott,L,8-3,8,3,5,win,20230224_vp9l,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div1,Angelina,angelinacollege,westondeanrg42,Weston Dean
-Feb 8,home,Limestone JV,W,11-3,11,3,8,win,20230208_5znm,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div1,Angelina,angelinacollege,westondeanrg42,Weston Dean
-Feb 7,home,Walters State,L,11-1,11,1,10,win,20230207_6ggj,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div1,Angelina,angelinacollege,westondeanrg42,Weston Dean
+Apr 26,home,Northeast Texas,W,6-2,6,2,4,win,20230426_nf00,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div1,Angelina,angelinacollege,westondeanrg42,Weston Dean
+Apr 26,home,Northeast Texas,W,7-6,7,6,1,win,20230426_mvc2,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div1,Angelina,angelinacollege,westondeanrg42,Weston Dean
+Apr 1,home,Northeast Texas,W,5-2,5,2,3,win,20230401_lh32,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div1,Angelina,angelinacollege,westondeanrg42,Weston Dean
+Mar 29,home,Panola,W,3-2,3,2,1,win,20230329_9c2i,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div1,Angelina,angelinacollege,westondeanrg42,Weston Dean
+Mar 29,home,Panola,L,6-4,6,4,2,win,20230329_smh5,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div1,Angelina,angelinacollege,westondeanrg42,Weston Dean
+Mar 27,home,Alvin,L,9-8,9,8,1,win,20230327_1ij5,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div1,Angelina,angelinacollege,westondeanrg42,Weston Dean
+Mar 25,home,Tyler,L,7-3,7,3,4,win,20230325_rjrh,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div1,Angelina,angelinacollege,westondeanrg42,Weston Dean
+Mar 25,home,Tyler,L,12-0,12,0,12,win,20230325_33iq,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div1,Angelina,angelinacollege,westondeanrg42,Weston Dean
+Mar 22,home,Bossier Parish,W,19-18,19,18,1,win,20230322_su9h,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div1,Angelina,angelinacollege,westondeanrg42,Weston Dean
+Mar 22,home,Bossier Parish,W,11-10,11,10,1,win,20230322_oz4f,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div1,Angelina,angelinacollege,westondeanrg42,Weston Dean
+Mar 18,home,Navarro,W,4-3,4,3,1,win,20230318_n61j,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div1,Angelina,angelinacollege,westondeanrg42,Weston Dean
+Mar 18,home,Navarro,W,9-6,9,6,3,win,20230318_ndc7,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div1,Angelina,angelinacollege,westondeanrg42,Weston Dean
+Mar 13,home,Alvin,L,8-3,8,3,5,win,20230313_kau1,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div1,Angelina,angelinacollege,westondeanrg42,Weston Dean
+Mar 11,home,Joliet,W,5-0,5,0,5,win,20230311_01b8,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div1,Angelina,angelinacollege,westondeanrg42,Weston Dean
+Feb 23,home,Navarro,L,9-6,9,6,3,win,20230223_f9la,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div1,Angelina,angelinacollege,westondeanrg42,Weston Dean
+Feb 15,home,Spartan Post Grad,W,14-0,14,0,14,win,20230215_sah4,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div1,Angelina,angelinacollege,westondeanrg42,Weston Dean
+Feb 11,home,TCS Post Grad,W,13-3,13,3,10,win,20230211_okf7,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div1,Angelina,angelinacollege,westondeanrg42,Weston Dean
+Feb 9,home,Temple,W,7-4,7,4,3,win,20230209_aehi,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div1,Angelina,angelinacollege,westondeanrg42,Weston Dean
+Feb 9,home,Temple,W,9-8,9,8,1,win,20230209_17wu,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div1,Angelina,angelinacollege,westondeanrg42,Weston Dean
+Feb 5,home,Galveston,L,9-7,9,7,2,win,20230205_jm2l,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div1,Angelina,angelinacollege,westondeanrg42,Weston Dean
+Feb 3,home,Galveston,L,7-3,7,3,4,win,20230203_jgpw,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div1,Angelina,angelinacollege,westondeanrg42,Weston Dean
+Jan 27,home,Temple,L,7-3,7,3,4,win,20230127_xedj,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div1,Angelina,angelinacollege,westondeanrg42,Weston Dean

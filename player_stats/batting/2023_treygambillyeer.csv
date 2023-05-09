@@ -1,5 +1,24 @@
 date,location,opponent,result,score,team_score,opp_score,game_score_diff,game_win_loss,game_id,AB,R,H,2B,3B,HR,RBI,BB,K,SB,CS,HBP,SF,SH,TB,XBH,HDP,GO,FO,GO/FO,PA,season,njcaa_season,njcaa_division,team,team_id,player_id,player_name
-Jan 29,home,North Central Texas,W,9-4,9,4,5,win,20230129_1iod,0,0,0,,,,0,,,,,,,,0,0,,,,,0,2023,2022-23,div1,Salt Lake,saltlakecommunitycollege,treygambillyeer,Trey Gambill
-Feb 4,home,Carl Albert State,W,13-10,13,10,3,win,20230204_mh2p,0,0,0,,,,0,,,,,,,,0,0,,,,,0,2023,2022-23,div1,Salt Lake,saltlakecommunitycollege,treygambillyeer,Trey Gambill
-Feb 14,home,Redlands,W,20-6,20,6,14,win,20230214_0ou4,0,0,0,,,,0,,,,,,,,0,0,,,,,0,2023,2022-23,div1,Salt Lake,saltlakecommunitycollege,treygambillyeer,Trey Gambill
-Feb 17,home,Butler,W,8-3,8,3,5,win,20230217_dtlq,0,0,0,,,,0,,,,,,,,0,0,,,,,0,2023,2022-23,div1,Salt Lake,saltlakecommunitycollege,treygambillyeer,Trey Gambill
+Feb 3,home,GateWay (AZ),W,7-2,7,2,5,win,20230203_9z2q,2,4,2,,,,1,2,,,,,,,2,0,,,,,4,2023,2022-23,div1,Salt Lake,saltlakecommunitycollege,treygambillyeer,Trey Gambill
+Feb 5,home,Yavapai,W,19-6,19,6,13,win,20230205_ujf9,3,0,0,,,,0,1,1,,,,,,0,0,,,,,4,2023,2022-23,div1,Salt Lake,saltlakecommunitycollege,treygambillyeer,Trey Gambill
+Mar 3,home,Southern Nevada,W,8-1,8,1,7,win,20230303_9wby,2,2,0,,,,0,2,,,,,,,0,0,,1,1,1.00,4,2023,2022-23,div1,Salt Lake,saltlakecommunitycollege,treygambillyeer,Trey Gambill
+Mar 4,home,Southern Nevada,W,11-0,11,0,11,win,20230304_tmvr,1,2,0,,,,0,2,1,,,,,,0,0,,,,,3,2023,2022-23,div1,Salt Lake,saltlakecommunitycollege,treygambillyeer,Trey Gambill
+Mar 12,home,Colorado Northwestern,W,7-2,7,2,5,win,20230312_w1q1,3,3,1,,,,0,,,,,1,,,1,0,,2,,,4,2023,2022-23,div1,Salt Lake,saltlakecommunitycollege,treygambillyeer,Trey Gambill
+Mar 12,home,Colorado Northwestern,W,7-6,7,6,1,win,20230312_kvcx,4,0,0,,,,0,1,1,,,,,,0,0,,3,,,5,2023,2022-23,div1,Salt Lake,saltlakecommunitycollege,treygambillyeer,Trey Gambill
+Mar 13,home,Colorado Northwestern,W,7-1,7,1,6,win,20230313_irv8,2,0,1,,,,1,1,,,,,,,1,0,,1,,,3,2023,2022-23,div1,Salt Lake,saltlakecommunitycollege,treygambillyeer,Trey Gambill
+Mar 13,home,Colorado Northwestern,W,11-1,11,1,10,win,20230313_2sxs,2,2,1,,,,1,2,,,,,,,1,0,,1,,,4,2023,2022-23,div1,Salt Lake,saltlakecommunitycollege,treygambillyeer,Trey Gambill
+Mar 17,home,Southern Idaho,W,4-2,4,2,2,win,20230317_9r7b,3,0,1,,,,0,,2,,,1,,,1,0,,,,,4,2023,2022-23,div1,Salt Lake,saltlakecommunitycollege,treygambillyeer,Trey Gambill
+Mar 17,home,Southern Idaho,W,11-6,11,6,5,win,20230317_pw8w,3,1,0,,,,0,2,1,,,,,,0,0,,,1,,5,2023,2022-23,div1,Salt Lake,saltlakecommunitycollege,treygambillyeer,Trey Gambill
+Mar 18,home,Southern Idaho,W,6-5,6,5,1,win,20230318_5b54,0,1,0,,,,0,1,,,,,,,0,0,,,,,1,2023,2022-23,div1,Salt Lake,saltlakecommunitycollege,treygambillyeer,Trey Gambill
+Mar 27,home,Utah State Eastern,W,7-2,7,2,5,win,20230327_0jyz,2,2,1,,,,1,2,,,,,,,1,0,,1,,,4,2023,2022-23,div1,Salt Lake,saltlakecommunitycollege,treygambillyeer,Trey Gambill
+Mar 27,home,Utah State Eastern,W,8-6,8,6,2,win,20230327_wr0k,4,0,0,,,,0,1,,,,,,,0,0,,,4,,5,2023,2022-23,div1,Salt Lake,saltlakecommunitycollege,treygambillyeer,Trey Gambill
+Mar 28,home,Utah State Eastern,W,3-2,3,2,1,win,20230328_tmi2,3,1,1,1,,,0,,,,,,,,2,1,,1,1,1.00,3,2023,2022-23,div1,Salt Lake,saltlakecommunitycollege,treygambillyeer,Trey Gambill
+Mar 28,home,Utah State Eastern,W,10-5,10,5,5,win,20230328_1tdb,2,1,1,,,,2,2,,,,1,,,1,0,,,1,,5,2023,2022-23,div1,Salt Lake,saltlakecommunitycollege,treygambillyeer,Trey Gambill
+Apr 10,home,Southern Nevada,W,5-2,5,2,3,win,20230410_ojub,3,1,2,,,,0,1,,,,,,,2,0,,,1,,4,2023,2022-23,div1,Salt Lake,saltlakecommunitycollege,treygambillyeer,Trey Gambill
+Apr 15,home,Colorado Northwestern,W,14-1,14,1,13,win,20230415_wfss,4,2,1,,,,0,,1,,,,,,1,0,,1,1,1.00,4,2023,2022-23,div1,Salt Lake,saltlakecommunitycollege,treygambillyeer,Trey Gambill
+Apr 15,home,Colorado Northwestern,W,14-1,14,1,13,win,20230415_qxix,2,1,1,1,,,2,3,,,,,,,2,1,,,1,,5,2023,2022-23,div1,Salt Lake,saltlakecommunitycollege,treygambillyeer,Trey Gambill
+Apr 16,home,Colorado Northwestern,W,18-8,18,8,10,win,20230416_f3pb,3,2,1,,,1,2,1,,,,,,1,4,1,,2,1,2.00,5,2023,2022-23,div1,Salt Lake,saltlakecommunitycollege,treygambillyeer,Trey Gambill
+Apr 16,home,Colorado Northwestern,W,6-3,6,3,3,win,20230416_bx3m,4,1,2,,,1,3,,1,1,,,,,5,1,,1,,,4,2023,2022-23,div1,Salt Lake,saltlakecommunitycollege,treygambillyeer,Trey Gambill
+Apr 21,home,Southern Idaho,W,7-4,7,4,3,win,20230421_bhr6,3,1,1,,,,0,1,1,1,,,,,1,0,,,1,,4,2023,2022-23,div1,Salt Lake,saltlakecommunitycollege,treygambillyeer,Trey Gambill
+Apr 21,home,Southern Idaho,W,7-5,7,5,2,win,20230421_f60g,4,0,1,,,,1,1,1,,,,,,1,0,,,2,,5,2023,2022-23,div1,Salt Lake,saltlakecommunitycollege,treygambillyeer,Trey Gambill
+Apr 28,home,Utah State Eastern,W,13-1,13,1,12,win,20230428_cgv5,3,0,1,,,,0,,1,,,,,,1,0,,,1,,3,2023,2022-23,div1,Salt Lake,saltlakecommunitycollege,treygambillyeer,Trey Gambill

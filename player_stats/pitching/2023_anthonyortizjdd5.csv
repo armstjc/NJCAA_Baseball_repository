@@ -1,10 +1,18 @@
 date,location,opponent,result,score,team_score,opp_score,game_score_diff,game_win_loss,game_id,GS,W,L,SV,IP,H,R,ER,ERA,BB,K,HR,season,njcaa_season,njcaa_division,team,team_id,player_id,player_name
-Apr 28,home,Utah State Eastern,L,6-5,6,5,1,win,20230428_46aa,0,0,0,0,2.0,3,3,3,13.50,1,2,2,2023,2022-23,div1,Labette,labettecommunitycollege,anthonyortizjdd5,Anthony Ortiz
-Apr 22,home,Southern Idaho,L,5-1,5,1,4,win,20230422_qh6h,0,0,0,0,1.1,,,,0.00,1,,,2023,2022-23,div1,Labette,labettecommunitycollege,anthonyortizjdd5,Anthony Ortiz
-Apr 15,home,Colorado Northwestern,W,14-1,14,1,13,win,20230415_qxix,0,0,0,0,1.0,1,1,1,9.00,,1,1,2023,2022-23,div1,Labette,labettecommunitycollege,anthonyortizjdd5,Anthony Ortiz
-Mar 27,home,Utah State Eastern,W,8-6,8,6,2,win,20230327_wr0k,0,0,0,0,2.0,6,4,2,9.00,,2,,2023,2022-23,div1,Labette,labettecommunitycollege,anthonyortizjdd5,Anthony Ortiz
-Mar 18,home,Southern Idaho,L,3-2,3,2,1,win,20230318_xh5p,0,0,1,0,0.2,2,1,1,13.50,,,,2023,2022-23,div1,Labette,labettecommunitycollege,anthonyortizjdd5,Anthony Ortiz
-Mar 12,home,Colorado Northwestern,W,7-2,7,2,5,win,20230312_w1q1,0,0,0,0,0.2,1,,,0.00,,,,2023,2022-23,div1,Labette,labettecommunitycollege,anthonyortizjdd5,Anthony Ortiz
-Mar 4,home,Southern Nevada,L,9-4,9,4,5,win,20230304_v69e,0,0,0,0,2.1,3,3,3,11.57,1,2,,2023,2022-23,div1,Labette,labettecommunitycollege,anthonyortizjdd5,Anthony Ortiz
-Feb 5,home,Yavapai,W,19-6,19,6,13,win,20230205_ujf9,0,0,0,0,1.0,1,1,,0.00,1,1,,2023,2022-23,div1,Labette,labettecommunitycollege,anthonyortizjdd5,Anthony Ortiz
-Jan 28,home,South Mountain,L,5-3,5,3,2,win,20230128_a76a,0,0,0,0,3.0,2,1,1,3.00,1,2,,2023,2022-23,div1,Labette,labettecommunitycollege,anthonyortizjdd5,Anthony Ortiz
+May 5,home,Johnson County,L,6-1,6,1,5,win,20230505_0cro,1,0,1,0,4.2,8,5,5,9.64,4,2,,2023,2022-23,div1,Labette,labettecommunitycollege,anthonyortizjdd5,Anthony Ortiz
+Apr 29,home,Cowley,L,22-8,22,8,14,win,20230429_vys6,0,0,0,0,3.0,4,4,4,12.00,3,1,1,2023,2022-23,div1,Labette,labettecommunitycollege,anthonyortizjdd5,Anthony Ortiz
+Apr 27,home,Cowley,L,17-4,17,4,13,win,20230427_gojh,0,0,0,0,1.0,3,2,1,9.00,2,,,2023,2022-23,div1,Labette,labettecommunitycollege,anthonyortizjdd5,Anthony Ortiz
+Apr 20,home,Neosho County,L,6-1,6,1,5,win,20230420_38ne,1,0,1,0,6.1,6,5,4,5.68,3,9,,2023,2022-23,div1,Labette,labettecommunitycollege,anthonyortizjdd5,Anthony Ortiz
+Apr 15,home,Highland (KS),W,9-5,9,5,4,win,20230415_m2qa,0,0,0,1,1.2,,,,0.00,,2,,2023,2022-23,div1,Labette,labettecommunitycollege,anthonyortizjdd5,Anthony Ortiz
+Apr 13,home,Highland (KS),W,7-6,7,6,1,win,20230413_jz5t,0,1,0,0,1.2,1,3,1,5.40,1,2,,2023,2022-23,div1,Labette,labettecommunitycollege,anthonyortizjdd5,Anthony Ortiz
+Apr 8,home,Allen County,W,16-15,16,15,1,win,20230408_0pqw,1,0,0,0,3.2,7,7,3,7.36,1,5,,2023,2022-23,div1,Labette,labettecommunitycollege,anthonyortizjdd5,Anthony Ortiz
+Apr 1,home,Kansas City Kansas,L,9-5,9,5,4,win,20230401_wp62,1,0,1,0,3.0,6,9,9,27.00,3,2,1,2023,2022-23,div1,Labette,labettecommunitycollege,anthonyortizjdd5,Anthony Ortiz
+Mar 30,home,Kansas City Kansas,W,5-2,5,2,3,win,20230330_8fyo,0,0,0,1,1.1,,,,0.00,,3,,2023,2022-23,div1,Labette,labettecommunitycollege,anthonyortizjdd5,Anthony Ortiz
+Mar 25,home,Coffeyville,L,5-3,5,3,2,win,20230325_o76n,1,0,1,0,7.1,5,5,5,6.14,3,6,,2023,2022-23,div1,Labette,labettecommunitycollege,anthonyortizjdd5,Anthony Ortiz
+Mar 17,home,Fort Scott,L,7-2,7,2,5,win,20230317_7vnl,1,0,1,0,5.0,6,7,5,9.00,3,10,1,2023,2022-23,div1,Labette,labettecommunitycollege,anthonyortizjdd5,Anthony Ortiz
+Mar 12,home,Hesston,L,7-0,7,0,7,win,20230312_2uqi,1,0,1,0,5.2,3,4,3,4.76,2,6,1,2023,2022-23,div1,Labette,labettecommunitycollege,anthonyortizjdd5,Anthony Ortiz
+Mar 5,home,Carl Albert State,W,21-5,21,5,16,win,20230305_8kgg,1,1,0,0,5.0,11,5,4,7.20,0,9,3,2023,2022-23,div1,Labette,labettecommunitycollege,anthonyortizjdd5,Anthony Ortiz
+Feb 25,home,ASU Mountain Home,W,4-3,4,3,1,win,20230225_6zuh,1,1,0,0,4.0,3,3,3,6.75,4,6,,2023,2022-23,div1,Labette,labettecommunitycollege,anthonyortizjdd5,Anthony Ortiz
+Feb 19,home,McCook,L,11-1,11,1,10,win,20230219_d1hr,0,0,0,0,3.0,4,4,,0.00,1,3,1,2023,2022-23,div1,Labette,labettecommunitycollege,anthonyortizjdd5,Anthony Ortiz
+Feb 11,home,Oklahoma Wesleyan,L,7-6,7,6,1,win,20230211_943a,1,0,0,0,3.1,9,5,5,13.50,2,4,,2023,2022-23,div1,Labette,labettecommunitycollege,anthonyortizjdd5,Anthony Ortiz
+Feb 4,home,Crowder,L,16-6,16,6,10,win,20230204_vbkv,1,0,1,0,1.1,8,8,8,54.00,2,0,3,2023,2022-23,div1,Labette,labettecommunitycollege,anthonyortizjdd5,Anthony Ortiz

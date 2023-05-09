@@ -1,10 +1,46 @@
 date,location,opponent,result,score,team_score,opp_score,game_score_diff,game_win_loss,game_id,TC,PO,A,E,FPCT,DP,SBA,RCS,RCS_PCT,PB,CI,season,njcaa_season,njcaa_division,team,team_id,player_id,player_name
-Jan 28,home,South Mountain,L,5-3,5,3,2,win,20230128_a76a,0,0,0,0,3.0,2,1,1,3.00,1,2,2023,2022-23,div1,Coastal Alabama - Bay Minette,coastalalabamasouth,darrylleenjn1,Darryl Lee
-Feb 5,home,Yavapai,W,19-6,19,6,13,win,20230205_ujf9,0,0,0,0,1.0,1,1,,0.00,1,1,2023,2022-23,div1,Coastal Alabama - Bay Minette,coastalalabamasouth,darrylleenjn1,Darryl Lee
-Mar 4,home,Southern Nevada,L,9-4,9,4,5,win,20230304_v69e,0,0,0,0,2.1,3,3,3,11.57,1,2,2023,2022-23,div1,Coastal Alabama - Bay Minette,coastalalabamasouth,darrylleenjn1,Darryl Lee
-Mar 12,home,Colorado Northwestern,W,7-2,7,2,5,win,20230312_w1q1,0,0,0,0,0.2,1,,,0.00,,,2023,2022-23,div1,Coastal Alabama - Bay Minette,coastalalabamasouth,darrylleenjn1,Darryl Lee
-Mar 18,home,Southern Idaho,L,3-2,3,2,1,win,20230318_xh5p,0,0,1,0,0.2,2,1,1,13.50,,,2023,2022-23,div1,Coastal Alabama - Bay Minette,coastalalabamasouth,darrylleenjn1,Darryl Lee
-Mar 27,home,Utah State Eastern,W,8-6,8,6,2,win,20230327_wr0k,0,0,0,0,2.0,6,4,2,9.00,,2,2023,2022-23,div1,Coastal Alabama - Bay Minette,coastalalabamasouth,darrylleenjn1,Darryl Lee
-Apr 15,home,Colorado Northwestern,W,14-1,14,1,13,win,20230415_qxix,0,0,0,0,1.0,1,1,1,9.00,,1,2023,2022-23,div1,Coastal Alabama - Bay Minette,coastalalabamasouth,darrylleenjn1,Darryl Lee
-Apr 22,home,Southern Idaho,L,5-1,5,1,4,win,20230422_qh6h,0,0,0,0,1.1,,,,0.00,1,,2023,2022-23,div1,Coastal Alabama - Bay Minette,coastalalabamasouth,darrylleenjn1,Darryl Lee
-Apr 28,home,Utah State Eastern,L,6-5,6,5,1,win,20230428_46aa,0,0,0,0,2.0,3,3,3,13.50,1,2,2023,2022-23,div1,Coastal Alabama - Bay Minette,coastalalabamasouth,darrylleenjn1,Darryl Lee
+Feb 3,home,Florence-Darlington Tech,L,7-5,7,5,2,win,20230203_zk96,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Coastal Alabama - Bay Minette,coastalalabamasouth,darrylleenjn1,Darryl Lee
+Feb 4,home,Chattahoochee Valley,L,14-4,14,4,10,win,20230204_fp4i,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Coastal Alabama - Bay Minette,coastalalabamasouth,darrylleenjn1,Darryl Lee
+Feb 4,home,San Jacinto,L,10-6,10,6,4,win,20230204_j0fs,0,0,0,0,1.1,,1,1,6.75,5,1,2023,2022-23,div1,Coastal Alabama - Bay Minette,coastalalabamasouth,darrylleenjn1,Darryl Lee
+Feb 5,home,Miami Dade,L,10-3,10,3,7,win,20230205_jpz5,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Coastal Alabama - Bay Minette,coastalalabamasouth,darrylleenjn1,Darryl Lee
+Feb 10,home,Mississippi Gulf Coast,W,6-4,6,4,2,win,20230210_83oy,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Coastal Alabama - Bay Minette,coastalalabamasouth,darrylleenjn1,Darryl Lee
+Feb 10,home,Mississippi Gulf Coast,L,12-5,12,5,7,win,20230210_8k0m,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Coastal Alabama - Bay Minette,coastalalabamasouth,darrylleenjn1,Darryl Lee
+Feb 14,home,Pearl River,L,6-1,6,1,5,win,20230214_8075,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Coastal Alabama - Bay Minette,coastalalabamasouth,darrylleenjn1,Darryl Lee
+Feb 17,home,Pensacola State,L,16-8,16,8,8,win,20230217_lz5d,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Coastal Alabama - Bay Minette,coastalalabamasouth,darrylleenjn1,Darryl Lee
+Feb 18,home,Pearl River,L,13-4,13,4,9,win,20230218_usjh,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Coastal Alabama - Bay Minette,coastalalabamasouth,darrylleenjn1,Darryl Lee
+Feb 23,home,Gulf Coast State,L,12-6,12,6,6,win,20230223_1agi,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Coastal Alabama - Bay Minette,coastalalabamasouth,darrylleenjn1,Darryl Lee
+Feb 23,home,Gulf Coast State,L,14-6,14,6,8,win,20230223_nr0x,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Coastal Alabama - Bay Minette,coastalalabamasouth,darrylleenjn1,Darryl Lee
+Feb 24,home,Northwest-Shoals Community College,W,6-5,6,5,1,win,20230224_wlo8,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Coastal Alabama - Bay Minette,coastalalabamasouth,darrylleenjn1,Darryl Lee
+Feb 25,home,Northwest-Shoals Community College,L,11-5,11,5,6,win,20230225_01lj,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Coastal Alabama - Bay Minette,coastalalabamasouth,darrylleenjn1,Darryl Lee
+Feb 25,home,Chipola,L,6-3,6,3,3,win,20230225_861z,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Coastal Alabama - Bay Minette,coastalalabamasouth,darrylleenjn1,Darryl Lee
+Feb 28,home,Northwest Florida State,L,14-4,14,4,10,win,20230228_4x3c,0,0,0,0,1.0,3,3,3,27.00,1,2,2023,2022-23,div1,Coastal Alabama - Bay Minette,coastalalabamasouth,darrylleenjn1,Darryl Lee
+Mar 1,home,Pensacola State,L,14-1,14,1,13,win,20230301_gr3k,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Coastal Alabama - Bay Minette,coastalalabamasouth,darrylleenjn1,Darryl Lee
+Mar 3,home,Chipola,L,2-1,2,1,1,win,20230303_imb0,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Coastal Alabama - Bay Minette,coastalalabamasouth,darrylleenjn1,Darryl Lee
+Mar 4,home,Chipola,L,13-1,13,1,12,win,20230304_af3l,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Coastal Alabama - Bay Minette,coastalalabamasouth,darrylleenjn1,Darryl Lee
+Mar 4,home,Grand Rapids,L,9-2,9,2,7,win,20230304_aqji,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Coastal Alabama - Bay Minette,coastalalabamasouth,darrylleenjn1,Darryl Lee
+Mar 9,home,Wallace-Dothan,L,3-2,3,2,1,win,20230309_5vur,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Coastal Alabama - Bay Minette,coastalalabamasouth,darrylleenjn1,Darryl Lee
+Mar 9,home,Wallace-Dothan,L,14-3,14,3,11,win,20230309_6ivi,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Coastal Alabama - Bay Minette,coastalalabamasouth,darrylleenjn1,Darryl Lee
+Mar 11,home,Wallace-Dothan,L,8-4,8,4,4,win,20230311_e5y9,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Coastal Alabama - Bay Minette,coastalalabamasouth,darrylleenjn1,Darryl Lee
+Mar 11,home,Wallace-Dothan,L,6-4,6,4,2,win,20230311_vpm2,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Coastal Alabama - Bay Minette,coastalalabamasouth,darrylleenjn1,Darryl Lee
+Mar 16,home,Coastal Alabama - Brewton,W,18-2,18,2,16,win,20230316_749z,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Coastal Alabama - Bay Minette,coastalalabamasouth,darrylleenjn1,Darryl Lee
+Mar 16,home,Coastal Alabama - Brewton,W,17-7,17,7,10,win,20230316_j38u,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Coastal Alabama - Bay Minette,coastalalabamasouth,darrylleenjn1,Darryl Lee
+Mar 18,home,Coastal Alabama - Brewton,W,4-2,4,2,2,win,20230318_gimc,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Coastal Alabama - Bay Minette,coastalalabamasouth,darrylleenjn1,Darryl Lee
+Mar 18,home,Coastal Alabama - Brewton,L,5-0,5,0,5,win,20230318_pzv7,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Coastal Alabama - Bay Minette,coastalalabamasouth,darrylleenjn1,Darryl Lee
+Mar 27,home,East Central (MS),L,14-5,14,5,9,win,20230327_7l2m,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Coastal Alabama - Bay Minette,coastalalabamasouth,darrylleenjn1,Darryl Lee
+Mar 30,home,Bishop State,W,6-2,6,2,4,win,20230330_81cm,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Coastal Alabama - Bay Minette,coastalalabamasouth,darrylleenjn1,Darryl Lee
+Apr 1,home,Bishop State,W,10-4,10,4,6,win,20230401_c1w6,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Coastal Alabama - Bay Minette,coastalalabamasouth,darrylleenjn1,Darryl Lee
+Apr 1,home,Bishop State,L,11-0,11,0,11,win,20230401_ir94,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Coastal Alabama - Bay Minette,coastalalabamasouth,darrylleenjn1,Darryl Lee
+Apr 5,home,Lurleen B. Wallace,W,10-4,10,4,6,win,20230405_j54h,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Coastal Alabama - Bay Minette,coastalalabamasouth,darrylleenjn1,Darryl Lee
+Apr 6,home,Lurleen B. Wallace,L,11-5,11,5,6,win,20230406_k0ry,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Coastal Alabama - Bay Minette,coastalalabamasouth,darrylleenjn1,Darryl Lee
+Apr 12,home,Chattahoochee Valley,L,5-3,5,3,2,win,20230412_yfy5,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Coastal Alabama - Bay Minette,coastalalabamasouth,darrylleenjn1,Darryl Lee
+Apr 17,home,Chattahoochee Valley,L,3-1,3,1,2,win,20230417_zizh,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Coastal Alabama - Bay Minette,coastalalabamasouth,darrylleenjn1,Darryl Lee
+Apr 17,home,Chattahoochee Valley,L,10-5,10,5,5,win,20230417_4e8g,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Coastal Alabama - Bay Minette,coastalalabamasouth,darrylleenjn1,Darryl Lee
+Apr 20,home,Coastal Alabama - Monroeville,L,9-6,9,6,3,win,20230420_jykx,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Coastal Alabama - Bay Minette,coastalalabamasouth,darrylleenjn1,Darryl Lee
+Apr 22,home,Coastal Alabama - Monroeville,L,8-0,8,0,8,win,20230422_49xb,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Coastal Alabama - Bay Minette,coastalalabamasouth,darrylleenjn1,Darryl Lee
+Apr 26,home,Wallace-Selma,W,15-5,15,5,10,win,20230426_i8h7,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Coastal Alabama - Bay Minette,coastalalabamasouth,darrylleenjn1,Darryl Lee
+Apr 26,home,Wallace-Selma,W,14-5,14,5,9,win,20230426_j74l,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Coastal Alabama - Bay Minette,coastalalabamasouth,darrylleenjn1,Darryl Lee
+Apr 29,home,Wallace-Selma,L,5-2,5,2,3,win,20230429_x625,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Coastal Alabama - Bay Minette,coastalalabamasouth,darrylleenjn1,Darryl Lee
+Apr 29,home,Wallace-Selma,W,3-1,3,1,2,win,20230429_wlp8,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Coastal Alabama - Bay Minette,coastalalabamasouth,darrylleenjn1,Darryl Lee
+May 4,home,Enterprise State,W,10-9,10,9,1,win,20230504_n210,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Coastal Alabama - Bay Minette,coastalalabamasouth,darrylleenjn1,Darryl Lee
+May 4,home,Enterprise State,W,10-0,10,0,10,win,20230504_2uzr,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Coastal Alabama - Bay Minette,coastalalabamasouth,darrylleenjn1,Darryl Lee
+May 6,home,Enterprise State,L,12-11,12,11,1,win,20230506_hklh,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Coastal Alabama - Bay Minette,coastalalabamasouth,darrylleenjn1,Darryl Lee

@@ -1,42 +1,49 @@
 date,location,opponent,result,score,team_score,opp_score,game_score_diff,game_win_loss,game_id,TC,PO,A,E,FPCT,DP,SBA,RCS,RCS_PCT,PB,CI,season,njcaa_season,njcaa_division,team,team_id,player_id,player_name
-Jan 27,home,McLennan,W,7-3,7,3,4,win,20230127_4ry5,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Gaston College,gastoncollege,millerstjohn4g4h,Miller St. John
-Jan 29,home,McLennan,L,6-1,6,1,5,win,20230129_l7q5,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Gaston College,gastoncollege,millerstjohn4g4h,Miller St. John
-Jan 29,home,McLennan,L,7-1,7,1,6,win,20230129_zju4,0,0,0,0,2.2,,1,1,3.38,4,2,2023,2022-23,div1,Gaston College,gastoncollege,millerstjohn4g4h,Miller St. John
-Feb 3,home,Odessa,L,9-6,9,6,3,win,20230203_opxg,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Gaston College,gastoncollege,millerstjohn4g4h,Miller St. John
-Feb 4,home,Howard (TX),W,17-4,17,4,13,win,20230204_4mzz,0,0,0,0,0.2,1,,,0.00,,1,2023,2022-23,div1,Gaston College,gastoncollege,millerstjohn4g4h,Miller St. John
-Feb 4,home,Grayson,W,8-6,8,6,2,win,20230204_0ttb,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Gaston College,gastoncollege,millerstjohn4g4h,Miller St. John
-Feb 10,home,Ranger,W,5-3,5,3,2,win,20230210_0qo5,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Gaston College,gastoncollege,millerstjohn4g4h,Miller St. John
-Feb 10,home,Baton Rouge,W,6-1,6,1,5,win,20230210_w6vk,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Gaston College,gastoncollege,millerstjohn4g4h,Miller St. John
-Feb 11,home,Seminole State (OK),W,5-0,5,0,5,win,20230211_cdmg,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Gaston College,gastoncollege,millerstjohn4g4h,Miller St. John
-Feb 15,home,Temple,W,3-1,3,1,2,win,20230215_14n7,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Gaston College,gastoncollege,millerstjohn4g4h,Miller St. John
-Feb 18,home,Panola,W,10-3,10,3,7,win,20230218_05ct,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Gaston College,gastoncollege,millerstjohn4g4h,Miller St. John
-Feb 18,home,Panola,L,10-9,10,9,1,win,20230218_qvzh,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Gaston College,gastoncollege,millerstjohn4g4h,Miller St. John
-Feb 23,home,Angelina,W,9-3,9,3,6,win,20230223_dslr,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Gaston College,gastoncollege,millerstjohn4g4h,Miller St. John
-Feb 23,home,Angelina,W,9-6,9,6,3,win,20230223_f9la,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Gaston College,gastoncollege,millerstjohn4g4h,Miller St. John
-Feb 25,home,Temple,W,14-7,14,7,7,win,20230225_5ctx,0,0,0,0,3.0,3,1,1,3.00,1,1,2023,2022-23,div1,Gaston College,gastoncollege,millerstjohn4g4h,Miller St. John
-Feb 27,home,Blinn,L,13-6,13,6,7,win,20230227_toco,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Gaston College,gastoncollege,millerstjohn4g4h,Miller St. John
-Mar 1,home,Paris,W,8-4,8,4,4,win,20230301_tqz4,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Gaston College,gastoncollege,millerstjohn4g4h,Miller St. John
-Mar 1,home,Paris,L,10-8,10,8,2,win,20230301_7smq,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Gaston College,gastoncollege,millerstjohn4g4h,Miller St. John
-Mar 5,home,Northeast Texas,W,13-0,13,0,13,win,20230305_0wf0,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Gaston College,gastoncollege,millerstjohn4g4h,Miller St. John
-Mar 5,home,Northeast Texas,W,9-6,9,6,3,win,20230305_emki,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Gaston College,gastoncollege,millerstjohn4g4h,Miller St. John
-Mar 8,home,Bossier Parish,W,6-1,6,1,5,win,20230308_0gth,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Gaston College,gastoncollege,millerstjohn4g4h,Miller St. John
-Mar 8,home,Bossier Parish,L,6-3,6,3,3,win,20230308_r7ac,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Gaston College,gastoncollege,millerstjohn4g4h,Miller St. John
-Mar 11,home,Tyler,W,6-5,6,5,1,win,20230311_aqha,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Gaston College,gastoncollege,millerstjohn4g4h,Miller St. John
-Mar 15,home,Panola,L,2-1,2,1,1,win,20230315_59bk,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Gaston College,gastoncollege,millerstjohn4g4h,Miller St. John
-Mar 18,home,Angelina,L,9-6,9,6,3,win,20230318_ndc7,0,0,0,0,1.0,,,,0.00,1,3,2023,2022-23,div1,Gaston College,gastoncollege,millerstjohn4g4h,Miller St. John
-Mar 18,home,Angelina,L,4-3,4,3,1,win,20230318_n61j,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Gaston College,gastoncollege,millerstjohn4g4h,Miller St. John
-Mar 22,home,Odessa,L,7-2,7,2,5,win,20230322_mm8a,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Gaston College,gastoncollege,millerstjohn4g4h,Miller St. John
-Mar 25,home,Paris,W,4-3,4,3,1,win,20230325_v7ml,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Gaston College,gastoncollege,millerstjohn4g4h,Miller St. John
-Mar 25,home,Paris,L,7-5,7,5,2,win,20230325_kmme,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Gaston College,gastoncollege,millerstjohn4g4h,Miller St. John
-Mar 27,home,Blinn,L,9-8,9,8,1,win,20230327_t8gu,0,0,1,0,1.1,2,5,5,33.75,6,,2023,2022-23,div1,Gaston College,gastoncollege,millerstjohn4g4h,Miller St. John
-Apr 5,home,Tyler,L,9-5,9,5,4,win,20230405_mqyd,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Gaston College,gastoncollege,millerstjohn4g4h,Miller St. John
-Apr 7,home,Panola,W,10-1,10,1,9,win,20230407_ce8m,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Gaston College,gastoncollege,millerstjohn4g4h,Miller St. John
-Apr 12,home,Angelina,W,11-5,11,5,6,win,20230412_9bv9,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Gaston College,gastoncollege,millerstjohn4g4h,Miller St. John
-Apr 17,home,Grayson,W,4-3,4,3,1,win,20230417_pxji,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Gaston College,gastoncollege,millerstjohn4g4h,Miller St. John
-Apr 19,home,Paris,W,9-2,9,2,7,win,20230419_zwaa,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Gaston College,gastoncollege,millerstjohn4g4h,Miller St. John
-Apr 19,home,Paris,L,5-4,5,4,1,win,20230419_87fl,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Gaston College,gastoncollege,millerstjohn4g4h,Miller St. John
-Apr 22,home,Northeast Texas,W,10-2,10,2,8,win,20230422_upn5,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Gaston College,gastoncollege,millerstjohn4g4h,Miller St. John
-Apr 22,home,Northeast Texas,L,4-3,4,3,1,win,20230422_j1p4,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Gaston College,gastoncollege,millerstjohn4g4h,Miller St. John
-Apr 25,home,Bossier Parish,L,7-6,7,6,1,win,20230425_7alh,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Gaston College,gastoncollege,millerstjohn4g4h,Miller St. John
-Apr 29,home,Tyler,W,3-1,3,1,2,win,20230429_t61a,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Gaston College,gastoncollege,millerstjohn4g4h,Miller St. John
-May 5,home,Alvin,W,5-4,5,4,1,win,20230505_kf5h,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Gaston College,gastoncollege,millerstjohn4g4h,Miller St. John
+Jan 29,home,Roane State,W,10-0,10,0,10,win,20230129_8zxk,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Gaston College,gastoncollege,millerstjohn4g4h,Miller St. John
+Jan 29,home,Roane State,W,10-0,10,0,10,win,20230129_6854,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Gaston College,gastoncollege,millerstjohn4g4h,Miller St. John
+Feb 4,home,Southeastern-Whiteville,W,5-0,5,0,5,win,20230204_zsjp,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Gaston College,gastoncollege,millerstjohn4g4h,Miller St. John
+Feb 4,home,Southeastern-Whiteville,W,6-1,6,1,5,win,20230204_slwo,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Gaston College,gastoncollege,millerstjohn4g4h,Miller St. John
+Feb 5,home,Walters State,L,4-1,4,1,3,win,20230205_mof6,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Gaston College,gastoncollege,millerstjohn4g4h,Miller St. John
+Feb 5,home,Walters State,W,4-2,4,2,2,win,20230205_see3,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Gaston College,gastoncollege,millerstjohn4g4h,Miller St. John
+Feb 8,home,Caldwell Tech,W,12-2,12,2,10,win,20230208_psab,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Gaston College,gastoncollege,millerstjohn4g4h,Miller St. John
+Feb 10,home,Combine Academy (Lincolnton),W,11-2,11,2,9,win,20230210_yte7,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Gaston College,gastoncollege,millerstjohn4g4h,Miller St. John
+Feb 11,home,Combine Academy (Lincolnton),W,14-0,14,0,14,win,20230211_e4ih,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Gaston College,gastoncollege,millerstjohn4g4h,Miller St. John
+Feb 11,home,Combine Academy (Lincolnton),W,16-1,16,1,15,win,20230211_c9m9,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Gaston College,gastoncollege,millerstjohn4g4h,Miller St. John
+Feb 15,home,Caldwell Tech,W,7-0,7,0,7,win,20230215_dnix,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Gaston College,gastoncollege,millerstjohn4g4h,Miller St. John
+Feb 17,home,Catawba Valley,W,15-5,15,5,10,win,20230217_1tyu,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Gaston College,gastoncollege,millerstjohn4g4h,Miller St. John
+Feb 18,home,USC Sumter,W,12-2,12,2,10,win,20230218_zn9t,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Gaston College,gastoncollege,millerstjohn4g4h,Miller St. John
+Feb 19,home,Catawba Valley,W,6-1,6,1,5,win,20230219_qpsm,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Gaston College,gastoncollege,millerstjohn4g4h,Miller St. John
+Feb 24,home,Lenoir,W,10-5,10,5,5,win,20230224_lulu,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Gaston College,gastoncollege,millerstjohn4g4h,Miller St. John
+Feb 24,home,Lenoir,L,7-3,7,3,4,win,20230224_hxk8,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Gaston College,gastoncollege,millerstjohn4g4h,Miller St. John
+Feb 25,home,Lenoir,W,14-6,14,6,8,win,20230225_2b7k,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Gaston College,gastoncollege,millerstjohn4g4h,Miller St. John
+Mar 1,home,Surry,W,8-2,8,2,6,win,20230301_inhw,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Gaston College,gastoncollege,millerstjohn4g4h,Miller St. John
+Mar 4,home,Pro 5 Academy,W,7-3,7,3,4,win,20230304_o0sw,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Gaston College,gastoncollege,millerstjohn4g4h,Miller St. John
+Mar 4,home,Pro 5 Academy,W,13-3,13,3,10,win,20230304_uixf,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Gaston College,gastoncollege,millerstjohn4g4h,Miller St. John
+Mar 7,home,Brunswick,W,21-9,21,9,12,win,20230307_6zf1,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Gaston College,gastoncollege,millerstjohn4g4h,Miller St. John
+Mar 11,home,USC Sumter,L,9-3,9,3,6,win,20230311_pnll,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Gaston College,gastoncollege,millerstjohn4g4h,Miller St. John
+Mar 11,home,USC Sumter,W,9-4,9,4,5,win,20230311_xzke,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Gaston College,gastoncollege,millerstjohn4g4h,Miller St. John
+Mar 18,home,USC Lancaster,W,12-2,12,2,10,win,20230318_tbyj,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Gaston College,gastoncollege,millerstjohn4g4h,Miller St. John
+Mar 18,home,USC Lancaster,W,10-3,10,3,7,win,20230318_cv37,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Gaston College,gastoncollege,millerstjohn4g4h,Miller St. John
+Mar 19,home,USC Lancaster,W,8-0,8,0,8,win,20230319_r0ew,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Gaston College,gastoncollege,millerstjohn4g4h,Miller St. John
+Mar 19,home,USC Lancaster,W,3-2,3,2,1,win,20230319_sbq8,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Gaston College,gastoncollege,millerstjohn4g4h,Miller St. John
+Mar 22,home,Guilford Tech,W,24-2,24,2,22,win,20230322_vb9l,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Gaston College,gastoncollege,millerstjohn4g4h,Miller St. John
+Mar 25,home,USC Salkehatchie,W,5-0,5,0,5,win,20230325_auqq,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Gaston College,gastoncollege,millerstjohn4g4h,Miller St. John
+Mar 25,home,USC Salkehatchie,W,5-0,5,0,5,win,20230325_bu62,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Gaston College,gastoncollege,millerstjohn4g4h,Miller St. John
+Mar 28,home,Patrick & Henry,W,12-11,12,11,1,win,20230328_9wtu,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Gaston College,gastoncollege,millerstjohn4g4h,Miller St. John
+Apr 1,home,Spartanburg Methodist,L,7-6,7,6,1,win,20230401_qyk1,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Gaston College,gastoncollege,millerstjohn4g4h,Miller St. John
+Apr 1,home,Spartanburg Methodist,L,10-5,10,5,5,win,20230401_z6r7,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Gaston College,gastoncollege,millerstjohn4g4h,Miller St. John
+Apr 2,home,Spartanburg Methodist,W,7-6,7,6,1,win,20230402_lc1u,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Gaston College,gastoncollege,millerstjohn4g4h,Miller St. John
+Apr 2,home,Spartanburg Methodist,W,11-5,11,5,6,win,20230402_fngw,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Gaston College,gastoncollege,millerstjohn4g4h,Miller St. John
+Apr 4,home,Patrick & Henry,W,15-6,15,6,9,win,20230404_808s,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Gaston College,gastoncollege,millerstjohn4g4h,Miller St. John
+Apr 7,home,USC Union,W,23-1,23,1,22,win,20230407_xcnc,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Gaston College,gastoncollege,millerstjohn4g4h,Miller St. John
+Apr 7,home,USC Union,W,13-0,13,0,13,win,20230407_ouso,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Gaston College,gastoncollege,millerstjohn4g4h,Miller St. John
+Apr 15,home,Louisburg,W,4-3,4,3,1,win,20230415_8lfx,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Gaston College,gastoncollege,millerstjohn4g4h,Miller St. John
+Apr 15,home,Louisburg,W,14-13,14,13,1,win,20230415_0ozw,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Gaston College,gastoncollege,millerstjohn4g4h,Miller St. John
+Apr 16,home,Louisburg,W,4-1,4,1,3,win,20230416_g76r,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Gaston College,gastoncollege,millerstjohn4g4h,Miller St. John
+Apr 16,home,Louisburg,W,4-0,4,0,4,win,20230416_vnym,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Gaston College,gastoncollege,millerstjohn4g4h,Miller St. John
+Apr 22,home,Florence-Darlington Tech,L,14-5,14,5,9,win,20230422_f5ve,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Gaston College,gastoncollege,millerstjohn4g4h,Miller St. John
+Apr 22,home,Florence-Darlington Tech,L,8-1,8,1,7,win,20230422_kmqy,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Gaston College,gastoncollege,millerstjohn4g4h,Miller St. John
+Apr 23,home,Florence-Darlington Tech,W,7-4,7,4,3,win,20230423_g1b4,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Gaston College,gastoncollege,millerstjohn4g4h,Miller St. John
+Apr 29,home,Hosanna Bible College,W,14-2,14,2,12,win,20230429_ospt,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Gaston College,gastoncollege,millerstjohn4g4h,Miller St. John
+May 5,home,Louisburg,W,11-3,11,3,8,win,20230505_tdq4,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Gaston College,gastoncollege,millerstjohn4g4h,Miller St. John
+May 7,home,USC Lancaster,W,9-6,9,6,3,win,20230507_hrbr,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Gaston College,gastoncollege,millerstjohn4g4h,Miller St. John

@@ -1,11 +1,9 @@
 date,location,opponent,result,score,team_score,opp_score,game_score_diff,game_win_loss,game_id,GS,W,L,SV,IP,H,R,ER,ERA,BB,K,HR,season,njcaa_season,njcaa_division,team,team_id,player_id,player_name
-Apr 22,home,USC Lancaster,L,8-7,8,7,1,win,20230422_f2tt,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div1,USC Union,uscunion,sethhansonzerj,Seth Hanson
-Apr 15,home,Florence-Darlington Tech,L,12-0,12,0,12,win,20230415_dpgb,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div1,USC Union,uscunion,sethhansonzerj,Seth Hanson
-Mar 25,home,Louisburg,L,6-2,6,2,4,win,20230325_cybr,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div1,USC Union,uscunion,sethhansonzerj,Seth Hanson
-Mar 25,home,Louisburg,W,13-2,13,2,11,win,20230325_ybps,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div1,USC Union,uscunion,sethhansonzerj,Seth Hanson
-Mar 19,home,USC Sumter,L,9-8,9,8,1,win,20230319_2yy8,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div1,USC Union,uscunion,sethhansonzerj,Seth Hanson
-Mar 18,home,USC Sumter,L,4-3,4,3,1,win,20230318_rm5w,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div1,USC Union,uscunion,sethhansonzerj,Seth Hanson
-Feb 27,home,MontreJV,L,6-3,6,3,3,win,20230227_elky,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div1,USC Union,uscunion,sethhansonzerj,Seth Hanson
-Feb 24,home,Mott,L,8-3,8,3,5,win,20230224_vp9l,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div1,USC Union,uscunion,sethhansonzerj,Seth Hanson
-Feb 8,home,Limestone JV,W,11-3,11,3,8,win,20230208_5znm,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div1,USC Union,uscunion,sethhansonzerj,Seth Hanson
-Feb 7,home,Walters State,L,11-1,11,1,10,win,20230207_6ggj,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div1,USC Union,uscunion,sethhansonzerj,Seth Hanson
+Apr 15,home,Florence-Darlington Tech,L,12-0,12,0,12,win,20230415_dpgb,1,0,1,0,1.0,3,5,5,45.00,2,0,0,2023,2022-23,div1,USC Union,uscunion,sethhansonzerj,Seth Hanson
+Apr 2,home,USC Salkehatchie,L,11-8,11,8,3,win,20230402_45kh,0,0,0,0,0.0,0,2,2,INF,2,0,0,2023,2022-23,div1,USC Union,uscunion,sethhansonzerj,Seth Hanson
+Mar 26,home,Louisburg,L,8-5,8,5,3,win,20230326_1qq6,0,0,0,0,3.0,1,0,0,0.00,1,2,0,2023,2022-23,div1,USC Union,uscunion,sethhansonzerj,Seth Hanson
+Mar 8,home,Walters State,L,11-3,11,3,8,win,20230308_0ylp,0,0,0,0,0.2,1,2,2,27.00,3,,,2023,2022-23,div1,USC Union,uscunion,sethhansonzerj,Seth Hanson
+Feb 27,home,MontreJV,W,7-1,7,1,6,win,20230227_0znw,0,1,0,0,3.2,4,1,1,2.45,3,1,,2023,2022-23,div1,USC Union,uscunion,sethhansonzerj,Seth Hanson
+Feb 25,home,Mott,W,12-10,12,10,2,win,20230225_n2d9,0,0,0,0,0.2,1,2,2,27.00,1,1,,2023,2022-23,div1,USC Union,uscunion,sethhansonzerj,Seth Hanson
+Feb 20,home,Limestone JV,W,6-1,6,1,5,win,20230220_atmd,0,0,0,0,2.2,,1,1,3.38,2,3,1,2023,2022-23,div1,USC Union,uscunion,sethhansonzerj,Seth Hanson
+Feb 8,home,Limestone JV,W,12-1,12,1,11,win,20230208_2jq3,0,0,0,0,1.0,,,,0.00,,2,,2023,2022-23,div1,USC Union,uscunion,sethhansonzerj,Seth Hanson
