@@ -1,10 +1,16 @@
 date,location,opponent,result,score,team_score,opp_score,game_score_diff,game_win_loss,game_id,AB,R,H,2B,3B,HR,RBI,BB,K,SB,CS,HBP,SF,SH,TB,XBH,HDP,GO,FO,GO/FO,PA,season,njcaa_season,njcaa_division,team,team_id,player_id,player_name
-Jan 28,home,GCU Club,W,12-3,12,3,9,win,20230128_eyb2,0,0,0,,,,0,,,,,,,,0,0,,,,,0,2023,2022-23,div2,Glendale,glendalecommunitycollege,dallancurthoysti2c,Dallan Curthoys
-Feb 1,home,Colorado Northwestern,W,6-1,6,1,5,win,20230201_ucf7,0,0,0,,,,0,,,,,,,,0,0,,,,,0,2023,2022-23,div2,Glendale,glendalecommunitycollege,dallancurthoysti2c,Dallan Curthoys
-Feb 10,home,Mesa,W,8-3,8,3,5,win,20230210_b2i9,0,0,0,,,,0,,,,,,,,0,0,,,,,0,2023,2022-23,div2,Glendale,glendalecommunitycollege,dallancurthoysti2c,Dallan Curthoys
-Feb 17,home,Scottsdale,W,7-2,7,2,5,win,20230217_74j0,0,0,0,,,,0,,,,,,,,0,0,,,,,0,2023,2022-23,div2,Glendale,glendalecommunitycollege,dallancurthoysti2c,Dallan Curthoys
-Mar 1,home,Chandler-Gilbert,W,5-4,5,4,1,win,20230301_gd1d,0,0,0,,,,0,,,,,,,,0,0,,,,,0,2023,2022-23,div2,Glendale,glendalecommunitycollege,dallancurthoysti2c,Dallan Curthoys
-Mar 7,home,Cochise,W,4-2,4,2,2,win,20230307_anyq,0,0,0,,,,0,,,,,,,,0,0,,,,,0,2023,2022-23,div2,Glendale,glendalecommunitycollege,dallancurthoysti2c,Dallan Curthoys
-Mar 24,home,South Mountain,W,6-4,6,4,2,win,20230324_mxfy,0,0,0,,,,0,,,,,,,,0,0,,,,,0,2023,2022-23,div2,Glendale,glendalecommunitycollege,dallancurthoysti2c,Dallan Curthoys
-Apr 12,home,GateWay (AZ),W,12-8,12,8,4,win,20230412_nbvg,0,0,0,,,,0,,,,,,,,0,0,,,,,0,2023,2022-23,div2,Glendale,glendalecommunitycollege,dallancurthoysti2c,Dallan Curthoys
-Apr 28,home,Phoenix,W,16-10,16,10,6,win,20230428_feq7,0,0,0,,,,0,,,,,,,,0,0,,,,,0,2023,2022-23,div2,Glendale,glendalecommunitycollege,dallancurthoysti2c,Dallan Curthoys
+Feb 10,home,Coastal Alabama - Bay Minette,W,12-5,12,5,7,win,20230210_8k0m,1,0,0,,,,0,,,,,,,,0,0,,,,,1,2023,2022-23,div2,Glendale,glendalecommunitycollege,dallancurthoysti2c,Dallan Curthoys
+Feb 14,home,Coastal Alabama - Brewton,W,11-1,11,1,10,win,20230214_vlru,2,2,1,,,,0,1,,1,,,,,1,0,,,,,3,2023,2022-23,div2,Glendale,glendalecommunitycollege,dallancurthoysti2c,Dallan Curthoys
+Feb 18,home,Nunez,W,9-4,9,4,5,win,20230218_q5tq,0,0,0,,,,0,,,,,,,,0,0,,,,,0,2023,2022-23,div2,Glendale,glendalecommunitycollege,dallancurthoysti2c,Dallan Curthoys
+Feb 18,home,Nunez,W,15-3,15,3,12,win,20230218_uilh,4,1,3,1,,,1,,,1,,,,,4,1,,,,,4,2023,2022-23,div2,Glendale,glendalecommunitycollege,dallancurthoysti2c,Dallan Curthoys
+Feb 26,home,Illinois Central,W,3-1,3,1,2,win,20230226_6usp,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0,,,0,2023,2022-23,div2,Glendale,glendalecommunitycollege,dallancurthoysti2c,Dallan Curthoys
+Mar 4,home,Lansing,W,9-8,9,8,1,win,20230304_tty3,1,0,0,,,,0,,,,,,,,0,0,,,,,1,2023,2022-23,div2,Glendale,glendalecommunitycollege,dallancurthoysti2c,Dallan Curthoys
+Mar 15,home,Copiah-Lincoln,W,8-2,8,2,6,win,20230315_xogf,3,1,1,,,,1,1,,,,,,,1,0,,,,,4,2023,2022-23,div2,Glendale,glendalecommunitycollege,dallancurthoysti2c,Dallan Curthoys
+Mar 18,home,Itawamba,W,10-6,10,6,4,win,20230318_vvc9,4,1,3,,,,0,,,,1,,,,3,0,,,,,4,2023,2022-23,div2,Glendale,glendalecommunitycollege,dallancurthoysti2c,Dallan Curthoys
+Mar 18,home,Itawamba,W,7-6,7,6,1,win,20230318_ztgb,3,0,1,,,,0,,2,,,1,,,1,0,,,,,4,2023,2022-23,div2,Glendale,glendalecommunitycollege,dallancurthoysti2c,Dallan Curthoys
+Mar 21,home,Southwest Mississippi,W,10-7,10,7,3,win,20230321_r9cn,3,1,1,,,,0,,,1,,,,,1,0,,,,,3,2023,2022-23,div2,Glendale,glendalecommunitycollege,dallancurthoysti2c,Dallan Curthoys
+Apr 1,home,East Mississippi,W,8-7,8,7,1,win,20230401_gacr,0,0,0,,,,0,,,,,,,,0,0,,,,,0,2023,2022-23,div2,Glendale,glendalecommunitycollege,dallancurthoysti2c,Dallan Curthoys
+Apr 4,home,East Central (MS),W,13-7,13,7,6,win,20230404_tlpp,4,2,2,,,,0,1,1,1,,,,,2,0,,,,,5,2023,2022-23,div2,Glendale,glendalecommunitycollege,dallancurthoysti2c,Dallan Curthoys
+Apr 6,home,Coahoma,W,10-8,10,8,2,win,20230406_cmto,2,0,1,,,,1,,,,,,,,1,0,,,,,2,2023,2022-23,div2,Glendale,glendalecommunitycollege,dallancurthoysti2c,Dallan Curthoys
+Apr 22,home,Northwest Mississippi,W,8-6,8,6,2,win,20230422_a8kx,0,0,0,,,,0,,,,,,,,0,0,,,,,0,2023,2022-23,div2,Glendale,glendalecommunitycollege,dallancurthoysti2c,Dallan Curthoys
+Apr 22,home,Northwest Mississippi,W,8-7,8,7,1,win,20230422_0u2x,3,0,2,1,0,0,0,0,1,1,0,0,0,1,3,1,,0,,,4,2023,2022-23,div2,Glendale,glendalecommunitycollege,dallancurthoysti2c,Dallan Curthoys
