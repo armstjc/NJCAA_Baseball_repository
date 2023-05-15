@@ -1,43 +1,54 @@
 date,location,opponent,result,score,team_score,opp_score,game_score_diff,game_win_loss,game_id,TC,PO,A,E,FPCT,DP,SBA,RCS,RCS_PCT,PB,CI,season,njcaa_season,njcaa_division,team,team_id,player_id,player_name
-Feb 3,home,Nunez,L,3-0,3,0,3,win,20230203_64a6,0,0,0,0,0.2,,,,0.00,,,2023,2022-23,div2,Des Moines Area,desmoinesareacommunitycollege,reedstallmanw6vo,Reed Stallman
-Feb 3,home,Nunez,L,9-0,9,0,9,win,20230203_4gs2,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div2,Des Moines Area,desmoinesareacommunitycollege,reedstallmanw6vo,Reed Stallman
-Feb 10,home,Coastal Alabama - Bay Minette,L,6-4,6,4,2,win,20230210_83oy,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div2,Des Moines Area,desmoinesareacommunitycollege,reedstallmanw6vo,Reed Stallman
-Feb 10,home,Coastal Alabama - Bay Minette,W,12-5,12,5,7,win,20230210_8k0m,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div2,Des Moines Area,desmoinesareacommunitycollege,reedstallmanw6vo,Reed Stallman
-Feb 14,home,Coastal Alabama - Brewton,L,7-5,7,5,2,win,20230214_vxo6,0,0,0,0,2.0,,,,0.00,,3,2023,2022-23,div2,Des Moines Area,desmoinesareacommunitycollege,reedstallmanw6vo,Reed Stallman
-Feb 14,home,Coastal Alabama - Brewton,W,11-1,11,1,10,win,20230214_vlru,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div2,Des Moines Area,desmoinesareacommunitycollege,reedstallmanw6vo,Reed Stallman
-Feb 18,home,Nunez,W,9-4,9,4,5,win,20230218_q5tq,0,0,0,0,0.2,1,,,0.00,,,2023,2022-23,div2,Des Moines Area,desmoinesareacommunitycollege,reedstallmanw6vo,Reed Stallman
-Feb 18,home,Nunez,W,15-3,15,3,12,win,20230218_uilh,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div2,Des Moines Area,desmoinesareacommunitycollege,reedstallmanw6vo,Reed Stallman
-Feb 21,home,Hinds,L,12-11,12,11,1,win,20230221_s678,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div2,Des Moines Area,desmoinesareacommunitycollege,reedstallmanw6vo,Reed Stallman
-Feb 21,home,Itawamba,L,10-6,10,6,4,win,20230221_oklc,0,0,1,0,0.1,1,2,2,54.00,,,2023,2022-23,div2,Des Moines Area,desmoinesareacommunitycollege,reedstallmanw6vo,Reed Stallman
-Feb 26,home,Illinois Central,W,3-1,3,1,2,win,20230226_6usp,0,1,0,0,6.1,2,0,0,0.00,2,9,2023,2022-23,div2,Des Moines Area,desmoinesareacommunitycollege,reedstallmanw6vo,Reed Stallman
-Mar 1,home,Jones,L,7-3,7,3,4,win,20230301_dxeb,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div2,Des Moines Area,desmoinesareacommunitycollege,reedstallmanw6vo,Reed Stallman
-Mar 1,home,Pearl River,L,3-2,3,2,1,win,20230301_7npi,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div2,Des Moines Area,desmoinesareacommunitycollege,reedstallmanw6vo,Reed Stallman
-Mar 4,home,Lansing,W,9-8,9,8,1,win,20230304_tty3,0,1,0,0,0.1,,,,0.00,,,2023,2022-23,div2,Des Moines Area,desmoinesareacommunitycollege,reedstallmanw6vo,Reed Stallman
-Mar 4,home,Lansing,L,15-9,15,9,6,win,20230304_ngwn,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div2,Des Moines Area,desmoinesareacommunitycollege,reedstallmanw6vo,Reed Stallman
-Mar 7,home,Meridian,L,12-7,12,7,5,win,20230307_kpib,0,0,0,0,2.1,2,4,3,11.57,1,1,2023,2022-23,div2,Des Moines Area,desmoinesareacommunitycollege,reedstallmanw6vo,Reed Stallman
-Mar 7,home,Holmes,L,4-1,4,1,3,win,20230307_a466,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div2,Des Moines Area,desmoinesareacommunitycollege,reedstallmanw6vo,Reed Stallman
-Mar 11,home,Mississippi Delta,L,16-8,16,8,8,win,20230311_ideu,0,0,1,0,2.0,4,5,5,22.50,4,,2023,2022-23,div2,Des Moines Area,desmoinesareacommunitycollege,reedstallmanw6vo,Reed Stallman
-Mar 15,home,Copiah-Lincoln,W,8-2,8,2,6,win,20230315_xogf,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div2,Des Moines Area,desmoinesareacommunitycollege,reedstallmanw6vo,Reed Stallman
-Mar 15,home,Copiah-Lincoln,L,5-4,5,4,1,win,20230315_yco3,0,0,1,0,3.2,4,2,1,2.45,,4,2023,2022-23,div2,Des Moines Area,desmoinesareacommunitycollege,reedstallmanw6vo,Reed Stallman
-Mar 18,home,Itawamba,W,10-6,10,6,4,win,20230318_vvc9,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div2,Des Moines Area,desmoinesareacommunitycollege,reedstallmanw6vo,Reed Stallman
-Mar 18,home,Itawamba,W,7-6,7,6,1,win,20230318_ztgb,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div2,Des Moines Area,desmoinesareacommunitycollege,reedstallmanw6vo,Reed Stallman
-Mar 21,home,Southwest Mississippi,W,10-7,10,7,3,win,20230321_r9cn,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div2,Des Moines Area,desmoinesareacommunitycollege,reedstallmanw6vo,Reed Stallman
-Mar 21,home,Southwest Mississippi,L,6-4,6,4,2,win,20230321_5kna,0,0,0,0,0.2,2,4,,0.00,1,,2023,2022-23,div2,Des Moines Area,desmoinesareacommunitycollege,reedstallmanw6vo,Reed Stallman
-Mar 25,home,Holmes,L,9-8,9,8,1,win,20230325_abib,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div2,Des Moines Area,desmoinesareacommunitycollege,reedstallmanw6vo,Reed Stallman
-Mar 29,home,Jones,L,17-4,17,4,13,win,20230329_0z3l,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div2,Des Moines Area,desmoinesareacommunitycollege,reedstallmanw6vo,Reed Stallman
-Mar 29,home,Jones,L,12-0,12,0,12,win,20230329_ymrf,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div2,Des Moines Area,desmoinesareacommunitycollege,reedstallmanw6vo,Reed Stallman
-Apr 1,home,East Mississippi,W,8-7,8,7,1,win,20230401_gacr,0,0,0,0,0.1,,1,1,27.00,1,1,2023,2022-23,div2,Des Moines Area,desmoinesareacommunitycollege,reedstallmanw6vo,Reed Stallman
-Apr 1,home,East Mississippi,L,6-2,6,2,4,win,20230401_ecg6,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div2,Des Moines Area,desmoinesareacommunitycollege,reedstallmanw6vo,Reed Stallman
-Apr 4,home,East Central (MS),W,13-7,13,7,6,win,20230404_tlpp,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div2,Des Moines Area,desmoinesareacommunitycollege,reedstallmanw6vo,Reed Stallman
-Apr 4,home,East Central (MS),L,3-2,3,2,1,win,20230404_6453,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div2,Des Moines Area,desmoinesareacommunitycollege,reedstallmanw6vo,Reed Stallman
-Apr 6,home,Coahoma,W,10-8,10,8,2,win,20230406_cmto,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div2,Des Moines Area,desmoinesareacommunitycollege,reedstallmanw6vo,Reed Stallman
-Apr 11,home,Pearl River,L,5-1,5,1,4,win,20230411_lwi0,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div2,Des Moines Area,desmoinesareacommunitycollege,reedstallmanw6vo,Reed Stallman
-Apr 11,home,Pearl River,L,3-1,3,1,2,win,20230411_k2zx,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div2,Des Moines Area,desmoinesareacommunitycollege,reedstallmanw6vo,Reed Stallman
-Apr 18,home,Hinds,L,10-6,10,6,4,win,20230418_nbmm,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div2,Des Moines Area,desmoinesareacommunitycollege,reedstallmanw6vo,Reed Stallman
-Apr 18,home,Hinds,L,9-5,9,5,4,win,20230418_vpdj,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div2,Des Moines Area,desmoinesareacommunitycollege,reedstallmanw6vo,Reed Stallman
-Apr 22,home,Northwest Mississippi,W,8-6,8,6,2,win,20230422_a8kx,0,0,0,0,2.1,4,1,1,3.86,1,1,2023,2022-23,div2,Des Moines Area,desmoinesareacommunitycollege,reedstallmanw6vo,Reed Stallman
-Apr 22,home,Northwest Mississippi,W,8-7,8,7,1,win,20230422_0u2x,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div2,Des Moines Area,desmoinesareacommunitycollege,reedstallmanw6vo,Reed Stallman
-Apr 25,home,Meridian,L,9-8,9,8,1,win,20230425_2zpc,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div2,Des Moines Area,desmoinesareacommunitycollege,reedstallmanw6vo,Reed Stallman
-Apr 25,home,Meridian,L,14-6,14,6,8,win,20230425_upvb,0,0,0,0,1.2,2,1,1,5.40,1,3,2023,2022-23,div2,Des Moines Area,desmoinesareacommunitycollege,reedstallmanw6vo,Reed Stallman
-Apr 28,home,Northeast Mississippi,L,9-2,9,2,7,win,20230428_pzx3,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div2,Des Moines Area,desmoinesareacommunitycollege,reedstallmanw6vo,Reed Stallman
-Apr 28,home,Northeast Mississippi,L,8-6,8,6,2,win,20230428_2ekr,0,0,0,0,1.2,1,,,0.00,,1,2023,2022-23,div2,Des Moines Area,desmoinesareacommunitycollege,reedstallmanw6vo,Reed Stallman
+Feb 4,home,Northern Oklahoma Tonkawa,W,6-2,6,2,4,win,20230204_5h17,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div2,Des Moines Area,desmoinesareacommunitycollege,reedstallmanw6vo,Reed Stallman
+Feb 4,home,Northern Oklahoma Tonkawa,W,11-2,11,2,9,win,20230204_s6lk,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div2,Des Moines Area,desmoinesareacommunitycollege,reedstallmanw6vo,Reed Stallman
+Feb 5,home,Northern Oklahoma Tonkawa,L,5-3,5,3,2,win,20230205_pexa,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div2,Des Moines Area,desmoinesareacommunitycollege,reedstallmanw6vo,Reed Stallman
+Feb 5,home,Northern Oklahoma Tonkawa,L,15-3,15,3,12,win,20230205_getj,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div2,Des Moines Area,desmoinesareacommunitycollege,reedstallmanw6vo,Reed Stallman
+Feb 17,home,North Central Texas,W,5-4,5,4,1,win,20230217_3qt5,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div2,Des Moines Area,desmoinesareacommunitycollege,reedstallmanw6vo,Reed Stallman
+Feb 17,home,North Central Texas,L,3-1,3,1,2,win,20230217_ii5q,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div2,Des Moines Area,desmoinesareacommunitycollege,reedstallmanw6vo,Reed Stallman
+Feb 18,home,Dallas College - Eastfield,L,4-3,4,3,1,win,20230218_6hpa,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div2,Des Moines Area,desmoinesareacommunitycollege,reedstallmanw6vo,Reed Stallman
+Feb 18,home,Dallas College - Eastfield,W,4-3,4,3,1,win,20230218_ygw3,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div2,Des Moines Area,desmoinesareacommunitycollege,reedstallmanw6vo,Reed Stallman
+Feb 25,home,Northern Oklahoma Enid,W,3-1,3,1,2,win,20230225_xlcm,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div2,Des Moines Area,desmoinesareacommunitycollege,reedstallmanw6vo,Reed Stallman
+Feb 25,home,Seminole State (OK),W,9-8,9,8,1,win,20230225_h526,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div2,Des Moines Area,desmoinesareacommunitycollege,reedstallmanw6vo,Reed Stallman
+Feb 26,home,Northern Oklahoma Enid,W,4-3,4,3,1,win,20230226_fs6u,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div2,Des Moines Area,desmoinesareacommunitycollege,reedstallmanw6vo,Reed Stallman
+Feb 26,home,Barton,L,7-2,7,2,5,win,20230226_ilao,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div2,Des Moines Area,desmoinesareacommunitycollege,reedstallmanw6vo,Reed Stallman
+Mar 3,home,Butler,L,10-2,10,2,8,win,20230303_3k8u,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div2,Des Moines Area,desmoinesareacommunitycollege,reedstallmanw6vo,Reed Stallman
+Mar 3,home,Butler,L,9-6,9,6,3,win,20230303_2aqw,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div2,Des Moines Area,desmoinesareacommunitycollege,reedstallmanw6vo,Reed Stallman
+Mar 4,home,Butler,L,6-3,6,3,3,win,20230304_rj3m,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div2,Des Moines Area,desmoinesareacommunitycollege,reedstallmanw6vo,Reed Stallman
+Mar 4,home,Butler,W,5-4,5,4,1,win,20230304_pqyx,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div2,Des Moines Area,desmoinesareacommunitycollege,reedstallmanw6vo,Reed Stallman
+Mar 14,home,Johnson County,W,8-3,8,3,5,win,20230314_enu8,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div2,Des Moines Area,desmoinesareacommunitycollege,reedstallmanw6vo,Reed Stallman
+Mar 15,home,Ottawa J.V.,W,17-12,17,12,5,win,20230315_7xxb,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div2,Des Moines Area,desmoinesareacommunitycollege,reedstallmanw6vo,Reed Stallman
+Mar 15,home,Ottawa J.V.,W,13-1,13,1,12,win,20230315_ujps,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div2,Des Moines Area,desmoinesareacommunitycollege,reedstallmanw6vo,Reed Stallman
+Mar 22,home,Northeast,W,4-3,4,3,1,win,20230322_lkcz,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div2,Des Moines Area,desmoinesareacommunitycollege,reedstallmanw6vo,Reed Stallman
+Mar 22,home,Northeast,L,12-0,12,0,12,win,20230322_5142,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div2,Des Moines Area,desmoinesareacommunitycollege,reedstallmanw6vo,Reed Stallman
+Mar 24,home,Kirkwood,W,5-4,5,4,1,win,20230324_2d3g,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div2,Des Moines Area,desmoinesareacommunitycollege,reedstallmanw6vo,Reed Stallman
+Mar 24,home,Kirkwood,L,6-1,6,1,5,win,20230324_0spt,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div2,Des Moines Area,desmoinesareacommunitycollege,reedstallmanw6vo,Reed Stallman
+Mar 27,home,Kirkwood,L,10-9,10,9,1,win,20230327_saia,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div2,Des Moines Area,desmoinesareacommunitycollege,reedstallmanw6vo,Reed Stallman
+Mar 28,home,Marshalltown,W,12-1,12,1,11,win,20230328_bbme,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div2,Des Moines Area,desmoinesareacommunitycollege,reedstallmanw6vo,Reed Stallman
+Mar 28,home,Marshalltown,W,16-0,16,0,16,win,20230328_ogam,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div2,Des Moines Area,desmoinesareacommunitycollege,reedstallmanw6vo,Reed Stallman
+Apr 2,home,North Iowa Area,L,5-4,5,4,1,win,20230402_5g3v,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div2,Des Moines Area,desmoinesareacommunitycollege,reedstallmanw6vo,Reed Stallman
+Apr 2,home,North Iowa Area,L,6-4,6,4,2,win,20230402_s5ip,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div2,Des Moines Area,desmoinesareacommunitycollege,reedstallmanw6vo,Reed Stallman
+Apr 3,home,North Iowa Area,L,9-4,9,4,5,win,20230403_4jl9,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div2,Des Moines Area,desmoinesareacommunitycollege,reedstallmanw6vo,Reed Stallman
+Apr 4,home,Northeast,L,20-5,20,5,15,win,20230404_iysq,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div2,Des Moines Area,desmoinesareacommunitycollege,reedstallmanw6vo,Reed Stallman
+Apr 7,home,Indian Hills,L,5-4,5,4,1,win,20230407_anm4,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div2,Des Moines Area,desmoinesareacommunitycollege,reedstallmanw6vo,Reed Stallman
+Apr 7,home,Indian Hills,W,16-6,16,6,10,win,20230407_vmg8,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div2,Des Moines Area,desmoinesareacommunitycollege,reedstallmanw6vo,Reed Stallman
+Apr 8,home,Indian Hills,L,11-9,11,9,2,win,20230408_4cwy,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div2,Des Moines Area,desmoinesareacommunitycollege,reedstallmanw6vo,Reed Stallman
+Apr 12,home,Southeastern,W,20-10,20,10,10,win,20230412_vnvf,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div2,Des Moines Area,desmoinesareacommunitycollege,reedstallmanw6vo,Reed Stallman
+Apr 14,home,Iowa Central,L,4-3,4,3,1,win,20230414_vwdy,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div2,Des Moines Area,desmoinesareacommunitycollege,reedstallmanw6vo,Reed Stallman
+Apr 14,home,Iowa Central,L,14-5,14,5,9,win,20230414_mg8v,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div2,Des Moines Area,desmoinesareacommunitycollege,reedstallmanw6vo,Reed Stallman
+Apr 15,home,Iowa Central,L,10-0,10,0,10,win,20230415_2q1z,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div2,Des Moines Area,desmoinesareacommunitycollege,reedstallmanw6vo,Reed Stallman
+Apr 18,home,Marshalltown,W,5-2,5,2,3,win,20230418_4sel,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div2,Des Moines Area,desmoinesareacommunitycollege,reedstallmanw6vo,Reed Stallman
+Apr 20,home,Iowa Western,W,10-4,10,4,6,win,20230420_txcl,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div2,Des Moines Area,desmoinesareacommunitycollege,reedstallmanw6vo,Reed Stallman
+Apr 23,home,Ellsworth,W,8-3,8,3,5,win,20230423_063r,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div2,Des Moines Area,desmoinesareacommunitycollege,reedstallmanw6vo,Reed Stallman
+Apr 23,home,Ellsworth,W,22-3,22,3,19,win,20230423_w8lf,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div2,Des Moines Area,desmoinesareacommunitycollege,reedstallmanw6vo,Reed Stallman
+Apr 24,home,Ellsworth,W,11-0,11,0,11,win,20230424_2cc2,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div2,Des Moines Area,desmoinesareacommunitycollege,reedstallmanw6vo,Reed Stallman
+Apr 26,home,Southeastern,L,4-0,4,0,4,win,20230426_5pv2,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div2,Des Moines Area,desmoinesareacommunitycollege,reedstallmanw6vo,Reed Stallman
+Apr 26,home,Southeastern,W,11-0,11,0,11,win,20230426_hng8,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div2,Des Moines Area,desmoinesareacommunitycollege,reedstallmanw6vo,Reed Stallman
+Apr 29,home,Iowa Lakes,W,21-2,21,2,19,win,20230429_dcj9,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div2,Des Moines Area,desmoinesareacommunitycollege,reedstallmanw6vo,Reed Stallman
+Apr 29,home,Iowa Lakes,W,15-6,15,6,9,win,20230429_x9no,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div2,Des Moines Area,desmoinesareacommunitycollege,reedstallmanw6vo,Reed Stallman
+Apr 30,home,Iowa Lakes,W,8-5,8,5,3,win,20230430_uigk,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div2,Des Moines Area,desmoinesareacommunitycollege,reedstallmanw6vo,Reed Stallman
+May 3,home,Iowa Western,W,13-3,13,3,10,win,20230503_q1zt,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div2,Des Moines Area,desmoinesareacommunitycollege,reedstallmanw6vo,Reed Stallman
+May 3,home,Iowa Western,L,25-17,25,17,8,win,20230503_rlx8,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div2,Des Moines Area,desmoinesareacommunitycollege,reedstallmanw6vo,Reed Stallman
+May 6,home,Southwestern,W,7-6,7,6,1,win,20230506_mzlr,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div2,Des Moines Area,desmoinesareacommunitycollege,reedstallmanw6vo,Reed Stallman
+May 6,home,Southwestern,W,7-2,7,2,5,win,20230506_u8n1,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div2,Des Moines Area,desmoinesareacommunitycollege,reedstallmanw6vo,Reed Stallman
+May 11,home,Kirkwood,L,8-7,8,7,1,win,20230511_1dix,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div2,Des Moines Area,desmoinesareacommunitycollege,reedstallmanw6vo,Reed Stallman
+May 11,home,Northeast,L,8-7,8,7,1,win,20230511_57zs,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div2,Des Moines Area,desmoinesareacommunitycollege,reedstallmanw6vo,Reed Stallman
