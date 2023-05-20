@@ -1,3 +1,29 @@
 date,location,opponent,result,score,team_score,opp_score,game_score_diff,game_win_loss,game_id,AB,R,H,2B,3B,HR,RBI,BB,K,SB,CS,HBP,SF,SH,TB,XBH,HDP,GO,FO,GO/FO,PA,season,njcaa_season,njcaa_division,team,team_id,player_id,player_name
-Feb 19,home,Triton,W,12-2,12,2,10,win,20230219_20d9,3,1,0,,,,1,1,,,,,,,0,0,,,,,4,2023,2022-23,div3,Milwaukee Area Tech,milwaukeeareatechnicalcollege,brettstuesseldg6q,Brett Stuessel
-Mar 1,home,Carroll University JV,W,17-8,17,8,9,win,20230301_0hb5,3,1,2,,1,,1,,,,,,,,4,1,,,,,3,2023,2022-23,div3,Milwaukee Area Tech,milwaukeeareatechnicalcollege,brettstuesseldg6q,Brett Stuessel
+Feb 19,home,Triton,W,12-2,12,2,10,win,20230219_20d9,2,3,1,1,,,0,2,,,,,,,2,1,,,,,4,2023,2022-23,div3,Milwaukee Area Tech,milwaukeeareatechnicalcollege,brettstuesseldg6q,Brett Stuessel
+Mar 1,home,Carroll University JV,W,17-8,17,8,9,win,20230301_0hb5,3,0,2,2,,,2,,1,,,1,,,4,2,,,,,4,2023,2022-23,div3,Milwaukee Area Tech,milwaukeeareatechnicalcollege,brettstuesseldg6q,Brett Stuessel
+Mar 3,home,South Arkansas,W,7-6,7,6,1,win,20230303_ytma,4,1,1,,,,0,1,1,,,,,,1,0,,,,,5,2023,2022-23,div3,Milwaukee Area Tech,milwaukeeareatechnicalcollege,brettstuesseldg6q,Brett Stuessel
+Mar 4,home,Lake Area Post Grad,W,9-4,9,4,5,win,20230304_8q9s,0,0,0,,,,0,,,,,,,,0,0,,,,,0,2023,2022-23,div3,Milwaukee Area Tech,milwaukeeareatechnicalcollege,brettstuesseldg6q,Brett Stuessel
+Mar 4,home,Lake Area Post Grad,W,11-9,11,9,2,win,20230304_goiz,5,1,1,,,,0,,,,,,,,1,0,,,,,5,2023,2022-23,div3,Milwaukee Area Tech,milwaukeeareatechnicalcollege,brettstuesseldg6q,Brett Stuessel
+Mar 20,home,Black Hawk-Moline,W,1-0,1,0,1,win,20230320_b75g,0,0,0,,,,0,,,,,,,,0,0,,,,,0,2023,2022-23,div3,Milwaukee Area Tech,milwaukeeareatechnicalcollege,brettstuesseldg6q,Brett Stuessel
+Mar 21,home,Wisconsin Lutheran College JV,W,11-3,11,3,8,win,20230321_l4kd,4,0,0,,,,0,,1,,,,,,0,0,,,,,4,2023,2022-23,div3,Milwaukee Area Tech,milwaukeeareatechnicalcollege,brettstuesseldg6q,Brett Stuessel
+Mar 23,home,Bryant & Stratton College (WI),W,16-6,16,6,10,win,20230323_kxcm,5,2,3,1,,,2,1,1,1,,,,,4,1,,,,,6,2023,2022-23,div3,Milwaukee Area Tech,milwaukeeareatechnicalcollege,brettstuesseldg6q,Brett Stuessel
+Apr 2,home,Harper,W,2-1,2,1,1,win,20230402_hmmd,4,0,0,,,,0,,1,,,,,,0,0,,,,,4,2023,2022-23,div3,Milwaukee Area Tech,milwaukeeareatechnicalcollege,brettstuesseldg6q,Brett Stuessel
+Apr 2,home,Harper,W,12-11,12,11,1,win,20230402_lc8g,4,1,2,1,,,2,,,,,,,,3,1,,,,,4,2023,2022-23,div3,Milwaukee Area Tech,milwaukeeareatechnicalcollege,brettstuesseldg6q,Brett Stuessel
+Apr 6,home,Marian University JV,W,12-1,12,1,11,win,20230406_i6pe,1,1,1,,,,1,2,,1,1,,,,1,0,,,,,3,2023,2022-23,div3,Milwaukee Area Tech,milwaukeeareatechnicalcollege,brettstuesseldg6q,Brett Stuessel
+Apr 7,home,Moraine Valley,W,20-12,20,12,8,win,20230407_hgft,6,2,2,2,,,2,1,3,,,,,,4,2,,,,,7,2023,2022-23,div3,Milwaukee Area Tech,milwaukeeareatechnicalcollege,brettstuesseldg6q,Brett Stuessel
+Apr 11,home,Rockford University JV,W,12-5,12,5,7,win,20230411_ekc7,3,2,2,,,,0,,,1,,,,,2,0,,,,,3,2023,2022-23,div3,Milwaukee Area Tech,milwaukeeareatechnicalcollege,brettstuesseldg6q,Brett Stuessel
+Apr 14,home,Elgin,W,8-2,8,2,6,win,20230414_7ny4,4,1,1,,,,0,,2,,,,,,1,0,,,,,4,2023,2022-23,div3,Milwaukee Area Tech,milwaukeeareatechnicalcollege,brettstuesseldg6q,Brett Stuessel
+Apr 15,home,Harper,W,14-4,14,4,10,win,20230415_qonz,3,1,2,,,,3,,,1,1,1,,,2,0,,,,,4,2023,2022-23,div3,Milwaukee Area Tech,milwaukeeareatechnicalcollege,brettstuesseldg6q,Brett Stuessel
+Apr 15,home,Harper,W,9-8,9,8,1,win,20230415_dpci,5,1,2,,,,0,,3,,,,,,2,0,,,,,5,2023,2022-23,div3,Milwaukee Area Tech,milwaukeeareatechnicalcollege,brettstuesseldg6q,Brett Stuessel
+Apr 18,home,Wisconsin Lutheran College JV,W,25-4,25,4,21,win,20230418_1a08,3,0,1,,,,1,,,,,,,,1,0,,,,,3,2023,2022-23,div3,Milwaukee Area Tech,milwaukeeareatechnicalcollege,brettstuesseldg6q,Brett Stuessel
+Apr 19,home,Lake County,W,11-5,11,5,6,win,20230419_72le,4,2,2,2,,,3,1,,,,,,,4,2,,,,,5,2023,2022-23,div3,Milwaukee Area Tech,milwaukeeareatechnicalcollege,brettstuesseldg6q,Brett Stuessel
+Apr 19,home,Lake County,T,2-2,2,2,0,tie,20230419_hwst,3,1,2,,,,1,,,,,,,,2,0,,,,,3,2023,2022-23,div3,Milwaukee Area Tech,milwaukeeareatechnicalcollege,brettstuesseldg6q,Brett Stuessel
+Apr 21,home,Joliet,W,8-0,8,0,8,win,20230421_dp3h,3,1,0,,,,0,1,1,1,,,,,0,0,,,,,4,2023,2022-23,div3,Milwaukee Area Tech,milwaukeeareatechnicalcollege,brettstuesseldg6q,Brett Stuessel
+Apr 21,home,Joliet,W,5-0,5,0,5,win,20230421_sbwq,3,0,0,,,,0,,2,,,,,,0,0,,,,,3,2023,2022-23,div3,Milwaukee Area Tech,milwaukeeareatechnicalcollege,brettstuesseldg6q,Brett Stuessel
+Apr 22,home,Kishwaukee,W,16-8,16,8,8,win,20230422_nsby,6,2,2,,,1,2,,2,,,,,,5,1,,,,,6,2023,2022-23,div3,Milwaukee Area Tech,milwaukeeareatechnicalcollege,brettstuesseldg6q,Brett Stuessel
+Apr 25,home,Waubonsee,W,11-1,11,1,10,win,20230425_igu0,3,1,1,,,,0,1,1,2,,,,,1,0,,,,,4,2023,2022-23,div3,Milwaukee Area Tech,milwaukeeareatechnicalcollege,brettstuesseldg6q,Brett Stuessel
+Apr 28,home,Prairie State,W,11-0,11,0,11,win,20230428_qgcd,2,2,1,,1,,2,2,,1,,,,,3,1,,,,,4,2023,2022-23,div3,Milwaukee Area Tech,milwaukeeareatechnicalcollege,brettstuesseldg6q,Brett Stuessel
+Apr 28,home,Prairie State,W,8-5,8,5,3,win,20230428_5cio,2,0,0,,,,0,2,,,,,,,0,0,,,,,4,2023,2022-23,div3,Milwaukee Area Tech,milwaukeeareatechnicalcollege,brettstuesseldg6q,Brett Stuessel
+May 5,home,Olive-Harvey,W,8-1,8,1,7,win,20230505_ibz7,3,1,2,,1,,1,1,1,2,,,,,4,1,,,,,4,2023,2022-23,div3,Milwaukee Area Tech,milwaukeeareatechnicalcollege,brettstuesseldg6q,Brett Stuessel
+May 6,home,Moraine Valley,W,5-0,5,0,5,win,20230506_15pi,2,0,0,,,,0,,2,,1,1,,,0,0,,,,,3,2023,2022-23,div3,Milwaukee Area Tech,milwaukeeareatechnicalcollege,brettstuesseldg6q,Brett Stuessel
+May 11,home,Oakton,W,9-1,9,1,8,win,20230511_c3jv,4,1,2,,,,1,,2,1,,,,,2,0,,,,,4,2023,2022-23,div3,Milwaukee Area Tech,milwaukeeareatechnicalcollege,brettstuesseldg6q,Brett Stuessel
