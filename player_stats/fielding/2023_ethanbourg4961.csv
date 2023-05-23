@@ -1,13 +1,39 @@
 date,location,opponent,result,score,team_score,opp_score,game_score_diff,game_win_loss,game_id,TC,PO,A,E,FPCT,DP,SBA,RCS,RCS_PCT,PB,CI,season,njcaa_season,njcaa_division,team,team_id,player_id,player_name
-Feb 25,home,Wayland Baptist University,W,9-6,9,6,3,win,20230225_5k1y,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Howard (TX),howardcollege,ethanbourg4961,Ethan Bourg
-Mar 3,home,Wayland Baptist University,W,12-2,12,2,10,win,20230303_cbut,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Howard (TX),howardcollege,ethanbourg4961,Ethan Bourg
-Apr 7,home,Clarendon,L,13-11,13,11,2,win,20230407_0s6m,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Howard (TX),howardcollege,ethanbourg4961,Ethan Bourg
-Apr 8,home,Clarendon,L,12-7,12,7,5,win,20230408_zpzj,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Howard (TX),howardcollege,ethanbourg4961,Ethan Bourg
-Apr 8,home,Clarendon,L,9-3,9,3,6,win,20230408_tal6,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Howard (TX),howardcollege,ethanbourg4961,Ethan Bourg
-Apr 11,home,Midland,L,11-4,11,4,7,win,20230411_0ud6,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Howard (TX),howardcollege,ethanbourg4961,Ethan Bourg
-Apr 15,home,Western Texas,W,8-2,8,2,6,win,20230415_qvtx,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Howard (TX),howardcollege,ethanbourg4961,Ethan Bourg
-Apr 15,home,Western Texas,W,19-9,19,9,10,win,20230415_1mka,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Howard (TX),howardcollege,ethanbourg4961,Ethan Bourg
-Apr 16,home,Western Texas,L,8-6,8,6,2,win,20230416_aw1n,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Howard (TX),howardcollege,ethanbourg4961,Ethan Bourg
-Apr 18,home,Wayland Baptist University,W,15-2,15,2,13,win,20230418_jn0i,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Howard (TX),howardcollege,ethanbourg4961,Ethan Bourg
-Apr 21,home,El Paso,L,11-1,11,1,10,win,20230421_td8g,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Howard (TX),howardcollege,ethanbourg4961,Ethan Bourg
-Apr 29,home,New Mexico,L,17-5,17,5,12,win,20230429_qpfp,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Howard (TX),howardcollege,ethanbourg4961,Ethan Bourg
+Feb 3,home,Trinidad State,W,7-1,7,1,6,win,20230203_76ou,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Howard (TX),howardcollege,ethanbourg4961,Ethan Bourg
+Feb 3,home,Trinidad State,W,15-1,15,1,14,win,20230203_wluc,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Howard (TX),howardcollege,ethanbourg4961,Ethan Bourg
+Feb 4,home,Trinidad State,W,7-4,7,4,3,win,20230204_rav7,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Howard (TX),howardcollege,ethanbourg4961,Ethan Bourg
+Feb 4,home,Trinidad State,W,10-9,10,9,1,win,20230204_twc8,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Howard (TX),howardcollege,ethanbourg4961,Ethan Bourg
+Feb 11,home,Kirkwood,L,15-5,15,5,10,win,20230211_yjmu,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Howard (TX),howardcollege,ethanbourg4961,Ethan Bourg
+Feb 11,home,Kirkwood,L,15-7,15,7,8,win,20230211_t2xd,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Howard (TX),howardcollege,ethanbourg4961,Ethan Bourg
+Feb 12,home,Kirkwood,L,14-3,14,3,11,win,20230212_sbv4,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Howard (TX),howardcollege,ethanbourg4961,Ethan Bourg
+Feb 17,home,Odessa,L,5-4,5,4,1,win,20230217_txfd,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Howard (TX),howardcollege,ethanbourg4961,Ethan Bourg
+Feb 17,home,Odessa,L,9-7,9,7,2,win,20230217_uope,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Howard (TX),howardcollege,ethanbourg4961,Ethan Bourg
+Feb 18,home,Midland,L,8-0,8,0,8,win,20230218_29wj,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Howard (TX),howardcollege,ethanbourg4961,Ethan Bourg
+Feb 25,home,Vernon,L,4-0,4,0,4,win,20230225_ffxc,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Howard (TX),howardcollege,ethanbourg4961,Ethan Bourg
+Mar 4,home,Redlands,W,5-4,5,4,1,win,20230304_q0y0,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Howard (TX),howardcollege,ethanbourg4961,Ethan Bourg
+Mar 11,home,Butler,L,4-3,4,3,1,win,20230311_b0x2,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Howard (TX),howardcollege,ethanbourg4961,Ethan Bourg
+Mar 19,home,Cloud County,L,15-4,15,4,11,win,20230319_w5c2,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Howard (TX),howardcollege,ethanbourg4961,Ethan Bourg
+Mar 23,home,Hutchinson,L,4-2,4,2,2,win,20230323_cves,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Howard (TX),howardcollege,ethanbourg4961,Ethan Bourg
+Mar 23,home,Hutchinson,W,13-3,13,3,10,win,20230323_38ff,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Howard (TX),howardcollege,ethanbourg4961,Ethan Bourg
+Mar 25,home,Hutchinson,W,8-7,8,7,1,win,20230325_213t,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Howard (TX),howardcollege,ethanbourg4961,Ethan Bourg
+Mar 25,home,Hutchinson,W,11-5,11,5,6,win,20230325_i6v2,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Howard (TX),howardcollege,ethanbourg4961,Ethan Bourg
+Mar 28,home,Lamar,W,19-9,19,9,10,win,20230328_985d,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Howard (TX),howardcollege,ethanbourg4961,Ethan Bourg
+Mar 30,home,Garden City,W,26-6,26,6,20,win,20230330_f46d,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Howard (TX),howardcollege,ethanbourg4961,Ethan Bourg
+Mar 30,home,Garden City,W,30-5,30,5,25,win,20230330_01dp,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Howard (TX),howardcollege,ethanbourg4961,Ethan Bourg
+Apr 1,home,Garden City,W,24-9,24,9,15,win,20230401_1cb6,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Howard (TX),howardcollege,ethanbourg4961,Ethan Bourg
+Apr 1,home,Garden City,W,23-8,23,8,15,win,20230401_ra7u,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Howard (TX),howardcollege,ethanbourg4961,Ethan Bourg
+Apr 6,home,Barton,W,4-3,4,3,1,win,20230406_1zza,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Howard (TX),howardcollege,ethanbourg4961,Ethan Bourg
+Apr 6,home,Barton,L,12-11,12,11,1,win,20230406_phcy,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Howard (TX),howardcollege,ethanbourg4961,Ethan Bourg
+Apr 8,home,Barton,L,6-0,6,0,6,win,20230408_d6gh,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Howard (TX),howardcollege,ethanbourg4961,Ethan Bourg
+Apr 14,home,Colby,W,15-5,15,5,10,win,20230414_od0s,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Howard (TX),howardcollege,ethanbourg4961,Ethan Bourg
+Apr 14,home,Colby,W,13-8,13,8,5,win,20230414_jqtj,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Howard (TX),howardcollege,ethanbourg4961,Ethan Bourg
+Apr 16,home,Colby,W,8-6,8,6,2,win,20230416_jjax,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Howard (TX),howardcollege,ethanbourg4961,Ethan Bourg
+Apr 16,home,Colby,W,12-11,12,11,1,win,20230416_oz7s,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Howard (TX),howardcollege,ethanbourg4961,Ethan Bourg
+Apr 18,home,Clarendon,W,35-25,35,25,10,win,20230418_m56b,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Howard (TX),howardcollege,ethanbourg4961,Ethan Bourg
+Apr 27,home,Pratt,W,13-6,13,6,7,win,20230427_2fnt,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Howard (TX),howardcollege,ethanbourg4961,Ethan Bourg
+Apr 30,home,Pratt,L,7-6,7,6,1,win,20230430_x059,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Howard (TX),howardcollege,ethanbourg4961,Ethan Bourg
+Apr 30,home,Pratt,L,8-6,8,6,2,win,20230430_atm8,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Howard (TX),howardcollege,ethanbourg4961,Ethan Bourg
+May 10,home,Neosho County,W,15-7,15,7,8,win,20230510_js91,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Howard (TX),howardcollege,ethanbourg4961,Ethan Bourg
+May 11,home,Neosho County,W,21-18,21,18,3,win,20230511_qtxd,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Howard (TX),howardcollege,ethanbourg4961,Ethan Bourg
+May 17,home,Johnson County,L,7-3,7,3,4,win,20230517_2kyf,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Howard (TX),howardcollege,ethanbourg4961,Ethan Bourg
+May 18,home,Fort Scott,L,10-2,10,2,8,win,20230518_job2,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Howard (TX),howardcollege,ethanbourg4961,Ethan Bourg

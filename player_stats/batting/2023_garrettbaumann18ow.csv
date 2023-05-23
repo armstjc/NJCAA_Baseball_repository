@@ -1,15 +1,28 @@
 date,location,opponent,result,score,team_score,opp_score,game_score_diff,game_win_loss,game_id,AB,R,H,2B,3B,HR,RBI,BB,K,SB,CS,HBP,SF,SH,TB,XBH,HDP,GO,FO,GO/FO,PA,season,njcaa_season,njcaa_division,team,team_id,player_id,player_name
-Feb 14,home,University of Houston St. Thomas,W,3-0,3,0,3,win,20230214_pznc,0,0,0,,,,0,,,,,,,,0,0,,,,,0,2023,2022-23,div1,Temple,templecollege,garrettbaumann18ow,Garrett Baumann
-Feb 17,home,Hutchinson,W,7-2,7,2,5,win,20230217_coxs,0,0,0,,,,0,,,,,,,,0,0,,,,,0,2023,2022-23,div1,Temple,templecollege,garrettbaumann18ow,Garrett Baumann
-Feb 27,home,University of Mary Hardin Baylor JV,W,12-5,12,5,7,win,20230227_s2xd,0,0,0,,,,0,,,,,,,,0,0,,,,,0,2023,2022-23,div1,Temple,templecollege,garrettbaumann18ow,Garrett Baumann
-Mar 1,home,Concordia University Texas JV,W,6-4,6,4,2,win,20230301_5xgt,0,0,0,,,,0,,,,,,,,0,0,,,,,0,2023,2022-23,div1,Temple,templecollege,garrettbaumann18ow,Garrett Baumann
-Mar 11,home,Cisco,W,12-7,12,7,5,win,20230311_jzn8,0,0,0,,,,0,,,,,,,,0,0,,,,,0,2023,2022-23,div1,Temple,templecollege,garrettbaumann18ow,Garrett Baumann
-Mar 18,home,Grayson,W,10-6,10,6,4,win,20230318_iop5,0,0,0,,,,0,,,,,,,,0,0,,,,,0,2023,2022-23,div1,Temple,templecollege,garrettbaumann18ow,Garrett Baumann
-Mar 22,home,Ranger,W,3-2,3,2,1,win,20230322_re7e,0,0,0,,,,0,,,,,,,,0,0,,,,,0,2023,2022-23,div1,Temple,templecollege,garrettbaumann18ow,Garrett Baumann
-Mar 25,home,Ranger,W,5-4,5,4,1,win,20230325_c9ai,0,0,0,,,,0,,,,,,,,0,0,,,,,0,2023,2022-23,div1,Temple,templecollege,garrettbaumann18ow,Garrett Baumann
-Mar 29,home,Hill,W,9-1,9,1,8,win,20230329_c6oc,0,0,0,,,,0,,,,,,,,0,0,,,,,0,2023,2022-23,div1,Temple,templecollege,garrettbaumann18ow,Garrett Baumann
-Apr 5,home,McLennan,W,7-2,7,2,5,win,20230405_zqry,0,0,0,,,,0,,,,,,,,0,0,,,,,0,2023,2022-23,div1,Temple,templecollege,garrettbaumann18ow,Garrett Baumann
-Apr 12,home,Weatherford,W,16-9,16,9,7,win,20230412_14ns,0,0,0,,,,0,,,,,,,,0,0,,,,,0,2023,2022-23,div1,Temple,templecollege,garrettbaumann18ow,Garrett Baumann
-Apr 19,home,Vernon,W,5-4,5,4,1,win,20230419_v8p6,0,0,0,,,,0,,,,,,,,0,0,,,,,0,2023,2022-23,div1,Temple,templecollege,garrettbaumann18ow,Garrett Baumann
-Apr 27,home,North Central Texas,W,14-3,14,3,11,win,20230427_chub,0,0,0,,,,0,,,,,,,,0,0,,,,,0,2023,2022-23,div1,Temple,templecollege,garrettbaumann18ow,Garrett Baumann
-May 3,home,DFW Post Grad,W,15-0,15,0,15,win,20230503_sxx3,0,0,0,,,,0,,,,,,,,0,0,,,,,0,2023,2022-23,div1,Temple,templecollege,garrettbaumann18ow,Garrett Baumann
+Jan 27,home,Angelina,W,8-0,8,0,8,win,20230127_2yoa,4,1,1,,,,0,,,,,,,,1,0,,,,,4,2023,2022-23,div1,Temple,templecollege,garrettbaumann18ow,Garrett Baumann
+Jan 27,home,Angelina,W,7-3,7,3,4,win,20230127_xedj,0,0,0,,,,0,,,,,,,,0,0,,,,,0,2023,2022-23,div1,Temple,templecollege,garrettbaumann18ow,Garrett Baumann
+Feb 5,home,Galveston,W,3-2,3,2,1,win,20230205_ak5q,0,0,0,,,,0,,,,,,,,0,0,,,,,0,2023,2022-23,div1,Temple,templecollege,garrettbaumann18ow,Garrett Baumann
+Feb 17,home,Hutchinson,W,7-2,7,2,5,win,20230217_coxs,2,0,0,,,,0,,2,,,,,,0,0,,,,,2,2023,2022-23,div1,Temple,templecollege,garrettbaumann18ow,Garrett Baumann
+Feb 20,home,San Jacinto,W,8-7,8,7,1,win,20230220_3yst,1,0,0,,,,0,,,,,,,,0,0,,,,,1,2023,2022-23,div1,Temple,templecollege,garrettbaumann18ow,Garrett Baumann
+Feb 22,home,St. Edward's University JV,W,6-1,6,1,5,win,20230222_e87r,3,1,2,,,,0,,,,,,,,2,0,,,,,3,2023,2022-23,div1,Temple,templecollege,garrettbaumann18ow,Garrett Baumann
+Feb 22,home,St. Edward's University JV,W,12-0,12,0,12,win,20230222_pfui,3,0,1,,,,1,,,1,,,,,1,0,,,,,3,2023,2022-23,div1,Temple,templecollege,garrettbaumann18ow,Garrett Baumann
+Feb 27,home,University of Mary Hardin Baylor JV,W,12-5,12,5,7,win,20230227_s2xd,5,2,3,,,,3,,,,,,,,3,0,,,,,5,2023,2022-23,div1,Temple,templecollege,garrettbaumann18ow,Garrett Baumann
+Mar 1,home,Concordia University Texas JV,W,6-4,6,4,2,win,20230301_5xgt,3,0,1,,,,1,,1,,,,1,,1,0,,,,,4,2023,2022-23,div1,Temple,templecollege,garrettbaumann18ow,Garrett Baumann
+Mar 1,home,Concordia University Texas JV,W,7-3,7,3,4,win,20230301_741i,1,0,0,,,,0,,1,,,,,,0,0,,,,,1,2023,2022-23,div1,Temple,templecollege,garrettbaumann18ow,Garrett Baumann
+Mar 8,home,Cisco,W,15-5,15,5,10,win,20230308_jr4z,3,1,1,,,,2,,,,,1,,,1,0,,,,,4,2023,2022-23,div1,Temple,templecollege,garrettbaumann18ow,Garrett Baumann
+Mar 11,home,Cisco,W,12-7,12,7,5,win,20230311_jzn8,4,1,1,,,,1,,1,,,,,,1,0,,,,,4,2023,2022-23,div1,Temple,templecollege,garrettbaumann18ow,Garrett Baumann
+Mar 18,home,Grayson,W,10-0,10,0,10,win,20230318_sppu,3,1,1,,,,3,,,1,,,,,1,0,,,,,3,2023,2022-23,div1,Temple,templecollege,garrettbaumann18ow,Garrett Baumann
+Mar 18,home,Grayson,W,10-6,10,6,4,win,20230318_iop5,4,1,1,,,,0,,1,,,,,,1,0,,,,,4,2023,2022-23,div1,Temple,templecollege,garrettbaumann18ow,Garrett Baumann
+Mar 22,home,Ranger,W,3-2,3,2,1,win,20230322_re7e,1,0,0,,,,0,,1,,,,,,0,0,,,,,1,2023,2022-23,div1,Temple,templecollege,garrettbaumann18ow,Garrett Baumann
+Mar 25,home,Ranger,W,13-6,13,6,7,win,20230325_r9so,4,1,2,,,,1,,1,,,,,1,2,0,,,,,5,2023,2022-23,div1,Temple,templecollege,garrettbaumann18ow,Garrett Baumann
+Mar 25,home,Ranger,W,5-4,5,4,1,win,20230325_c9ai,1,0,0,,,,0,,,,,,,,0,0,,,,,1,2023,2022-23,div1,Temple,templecollege,garrettbaumann18ow,Garrett Baumann
+Mar 29,home,Hill,W,3-2,3,2,1,win,20230329_pcc3,1,0,0,,,,0,1,,,,,,1,0,0,,,,,3,2023,2022-23,div1,Temple,templecollege,garrettbaumann18ow,Garrett Baumann
+Apr 1,home,Hill,W,15-1,15,1,14,win,20230401_ddjw,3,1,0,,,,0,1,2,,,,,,0,0,,,,,4,2023,2022-23,div1,Temple,templecollege,garrettbaumann18ow,Garrett Baumann
+Apr 5,home,McLennan,W,7-2,7,2,5,win,20230405_zqry,2,0,0,,,,1,1,2,,,,,,0,0,,,,,3,2023,2022-23,div1,Temple,templecollege,garrettbaumann18ow,Garrett Baumann
+Apr 5,home,McLennan,W,2-1,2,1,1,win,20230405_k68x,3,0,0,,,,0,,1,1,,,,,0,0,,,,,3,2023,2022-23,div1,Temple,templecollege,garrettbaumann18ow,Garrett Baumann
+Apr 8,home,McLennan,W,3-0,3,0,3,win,20230408_mk0u,3,1,1,,,,0,,,,,,,,1,0,,,,,3,2023,2022-23,div1,Temple,templecollege,garrettbaumann18ow,Garrett Baumann
+Apr 19,home,Vernon,W,5-4,5,4,1,win,20230419_v8p6,2,1,1,1,,,2,2,,,,,,,2,1,,,,,4,2023,2022-23,div1,Temple,templecollege,garrettbaumann18ow,Garrett Baumann
+Apr 22,home,Vernon,W,2-0,2,0,2,win,20230422_rvcb,2,0,0,,,,0,,2,,,,,1,0,0,,,,,3,2023,2022-23,div1,Temple,templecollege,garrettbaumann18ow,Garrett Baumann
+Apr 27,home,North Central Texas,W,14-3,14,3,11,win,20230427_chub,3,1,1,,,,0,,1,,,,,,1,0,,,,,3,2023,2022-23,div1,Temple,templecollege,garrettbaumann18ow,Garrett Baumann
+Apr 29,home,North Central Texas,W,5-1,5,1,4,win,20230429_qpko,2,1,1,,,,0,1,,,,,,,1,0,,,,,3,2023,2022-23,div1,Temple,templecollege,garrettbaumann18ow,Garrett Baumann
+Apr 29,home,North Central Texas,W,10-1,10,1,9,win,20230429_mhpj,3,0,0,,,,0,1,1,2,,1,,,0,0,,,,,5,2023,2022-23,div1,Temple,templecollege,garrettbaumann18ow,Garrett Baumann

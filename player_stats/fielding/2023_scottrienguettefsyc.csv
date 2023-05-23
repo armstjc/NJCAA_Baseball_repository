@@ -1,11 +1,24 @@
 date,location,opponent,result,score,team_score,opp_score,game_score_diff,game_win_loss,game_id,TC,PO,A,E,FPCT,DP,SBA,RCS,RCS_PCT,PB,CI,season,njcaa_season,njcaa_division,team,team_id,player_id,player_name
-Feb 13,home,Kansas Wesleyan JV,W,11-2,11,2,9,win,20230213_is5d,0,0,0,0,1.0,1,1,,0.00,1,1,2023,2022-23,div1,Cloud County,cloudcountycommunitycollege,scottrienguettefsyc,Scott Rienguette
-Feb 26,home,Marshalltown,W,22-5,22,5,17,win,20230226_lven,0,0,0,0,1.0,,,,0.00,1,3,2023,2022-23,div1,Cloud County,cloudcountycommunitycollege,scottrienguettefsyc,Scott Rienguette
-Mar 3,home,Johnson County,L,15-3,15,3,12,win,20230303_q52x,0,0,0,0,1.0,,,,0.00,1,2,2023,2022-23,div1,Cloud County,cloudcountycommunitycollege,scottrienguettefsyc,Scott Rienguette
-Mar 21,home,Highland (KS),L,8-6,8,6,2,win,20230321_svi1,0,0,1,0,0.1,1,4,4,108.00,3,1,2023,2022-23,div1,Cloud County,cloudcountycommunitycollege,scottrienguettefsyc,Scott Rienguette
-Apr 10,home,Baker JV,W,10-0,10,0,10,win,20230410_x60c,0,0,0,1,3.0,,,,0.00,,7,2023,2022-23,div1,Cloud County,cloudcountycommunitycollege,scottrienguettefsyc,Scott Rienguette
-Apr 10,home,Baker University JV,W,12-5,12,5,7,win,20230410_fmcd,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Cloud County,cloudcountycommunitycollege,scottrienguettefsyc,Scott Rienguette
-Apr 15,home,Garden City,W,10-5,10,5,5,win,20230415_508l,0,0,0,0,1.0,,,,0.00,,2,2023,2022-23,div1,Cloud County,cloudcountycommunitycollege,scottrienguettefsyc,Scott Rienguette
-Apr 17,home,Kansas Wesleyan JV,W,9-1,9,1,8,win,20230417_nbq8,0,0,0,0,1.0,,,,0.00,1,1,2023,2022-23,div1,Cloud County,cloudcountycommunitycollege,scottrienguettefsyc,Scott Rienguette
-Apr 27,home,Colby,L,9-4,9,4,5,win,20230427_nrxs,0,0,0,0,0.0,,,,0.00,1,,2023,2022-23,div1,Cloud County,cloudcountycommunitycollege,scottrienguettefsyc,Scott Rienguette
-May 6,home,Dodge City,L,12-9,12,9,3,win,20230506_a1if,0,0,0,0,1.0,2,2,2,18.00,1,3,2023,2022-23,div1,Cloud County,cloudcountycommunitycollege,scottrienguettefsyc,Scott Rienguette
+Feb 19,home,Lincoln Land,L,11-4,11,4,7,win,20230219_i56j,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Cloud County,cloudcountycommunitycollege,scottrienguettefsyc,Scott Rienguette
+Mar 4,home,Cowley,L,8-0,8,0,8,win,20230304_6hda,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Cloud County,cloudcountycommunitycollege,scottrienguettefsyc,Scott Rienguette
+Mar 5,home,Cowley,L,7-6,7,6,1,win,20230305_y3e5,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Cloud County,cloudcountycommunitycollege,scottrienguettefsyc,Scott Rienguette
+Apr 2,home,Iowa Lakes,W,21-2,21,2,19,win,20230402_kknn,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Cloud County,cloudcountycommunitycollege,scottrienguettefsyc,Scott Rienguette
+Apr 2,home,Iowa Lakes,W,23-4,23,4,19,win,20230402_nh24,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Cloud County,cloudcountycommunitycollege,scottrienguettefsyc,Scott Rienguette
+Apr 7,home,Des Moines Area,L,16-6,16,6,10,win,20230407_vmg8,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Cloud County,cloudcountycommunitycollege,scottrienguettefsyc,Scott Rienguette
+Apr 8,home,Des Moines Area,W,11-9,11,9,2,win,20230408_4cwy,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Cloud County,cloudcountycommunitycollege,scottrienguettefsyc,Scott Rienguette
+Apr 8,home,Des Moines Area,W,12-7,12,7,5,win,20230408_azz3,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Cloud County,cloudcountycommunitycollege,scottrienguettefsyc,Scott Rienguette
+Apr 12,home,Marshalltown,W,22-2,22,2,20,win,20230412_zxb4,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Cloud County,cloudcountycommunitycollege,scottrienguettefsyc,Scott Rienguette
+Apr 17,home,Northeast,W,3-2,3,2,1,win,20230417_8hqm,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Cloud County,cloudcountycommunitycollege,scottrienguettefsyc,Scott Rienguette
+Apr 18,home,Ellsworth,W,18-8,18,8,10,win,20230418_p7wh,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Cloud County,cloudcountycommunitycollege,scottrienguettefsyc,Scott Rienguette
+Apr 19,home,North Iowa Area,L,7-6,7,6,1,win,20230419_psnm,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Cloud County,cloudcountycommunitycollege,scottrienguettefsyc,Scott Rienguette
+Apr 23,home,Southwestern,W,8-2,8,2,6,win,20230423_bic8,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Cloud County,cloudcountycommunitycollege,scottrienguettefsyc,Scott Rienguette
+Apr 23,home,Southwestern,W,18-2,18,2,16,win,20230423_v0tp,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Cloud County,cloudcountycommunitycollege,scottrienguettefsyc,Scott Rienguette
+Apr 24,home,Southwestern,W,12-2,12,2,10,win,20230424_8b23,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Cloud County,cloudcountycommunitycollege,scottrienguettefsyc,Scott Rienguette
+Apr 26,home,Marshalltown,W,8-2,8,2,6,win,20230426_sov8,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Cloud County,cloudcountycommunitycollege,scottrienguettefsyc,Scott Rienguette
+Apr 26,home,Marshalltown,W,18-5,18,5,13,win,20230426_flgf,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Cloud County,cloudcountycommunitycollege,scottrienguettefsyc,Scott Rienguette
+Apr 29,home,Iowa Western,L,10-1,10,1,9,win,20230429_bbea,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Cloud County,cloudcountycommunitycollege,scottrienguettefsyc,Scott Rienguette
+Apr 30,home,Iowa Western,L,4-0,4,0,4,win,20230430_hexy,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Cloud County,cloudcountycommunitycollege,scottrienguettefsyc,Scott Rienguette
+May 6,home,Southeastern,L,6-2,6,2,4,win,20230506_vw75,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Cloud County,cloudcountycommunitycollege,scottrienguettefsyc,Scott Rienguette
+May 6,home,Southeastern,L,12-2,12,2,10,win,20230506_uq1z,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Cloud County,cloudcountycommunitycollege,scottrienguettefsyc,Scott Rienguette
+May 12,home,Southwestern,W,5-4,5,4,1,win,20230512_vkhw,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Cloud County,cloudcountycommunitycollege,scottrienguettefsyc,Scott Rienguette
+May 18,home,South Suburban,L,8-7,8,7,1,win,20230518_lt8n,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Cloud County,cloudcountycommunitycollege,scottrienguettefsyc,Scott Rienguette
