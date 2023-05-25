@@ -1,14 +1,40 @@
 date,location,opponent,result,score,team_score,opp_score,game_score_diff,game_win_loss,game_id,AB,R,H,2B,3B,HR,RBI,BB,K,SB,CS,HBP,SF,SH,TB,XBH,HDP,GO,FO,GO/FO,PA,season,njcaa_season,njcaa_division,team,team_id,player_id,player_name
-Feb 18,home,Frontier,W,21-0,21,0,21,win,20230218_f5em,2,0,1,,,,1,,1,,,,,,1,0,,,,,2,2023,2022-23,div1,South Suburban,southsuburbancollege,nicholasjohnstone1mz6,Nicholas Johnstone
-Feb 26,home,Muskegon,W,14-4,14,4,10,win,20230226_dbfu,0,0,0,,,,0,,,,,,,,0,0,,,,,0,2023,2022-23,div1,South Suburban,southsuburbancollege,nicholasjohnstone1mz6,Nicholas Johnstone
-Mar 9,home,Spartans Post Grad Academy,W,28-0,28,0,28,win,20230309_7o24,0,0,0,,,,0,,,,,,,,0,0,,,,,0,2023,2022-23,div1,South Suburban,southsuburbancollege,nicholasjohnstone1mz6,Nicholas Johnstone
-Mar 11,home,Spartans Post Grad Academy,W,10-0,10,0,10,win,20230311_908b,3,0,1,,,,2,,1,,,,,,1,0,,,1,,3,2023,2022-23,div1,South Suburban,southsuburbancollege,nicholasjohnstone1mz6,Nicholas Johnstone
-Mar 14,home,Wharton County,W,10-8,10,8,2,win,20230314_k84d,2,2,0,,,,1,1,1,,,2,,,0,0,,1,,,5,2023,2022-23,div1,South Suburban,southsuburbancollege,nicholasjohnstone1mz6,Nicholas Johnstone
-Mar 16,home,Spartans Post Grad Academy,W,12-3,12,3,9,win,20230316_fp91,0,0,0,,,,0,,,,,,,,0,0,,,,,0,2023,2022-23,div1,South Suburban,southsuburbancollege,nicholasjohnstone1mz6,Nicholas Johnstone
-Mar 24,home,Carl Sandburg,W,13-8,13,8,5,win,20230324_c6tq,0,0,0,,,,0,,,,,,,,0,0,,,,,0,2023,2022-23,div1,South Suburban,southsuburbancollege,nicholasjohnstone1mz6,Nicholas Johnstone
-Apr 2,home,Sauk Valley,W,13-10,13,10,3,win,20230402_993z,0,0,0,,,,0,,,,,,,,0,0,,,,,0,2023,2022-23,div1,South Suburban,southsuburbancollege,nicholasjohnstone1mz6,Nicholas Johnstone
-Apr 7,home,Black Hawk-Moline,W,8-2,8,2,6,win,20230407_v8dh,0,0,0,,,,0,,,,,,,,0,0,,,,,0,2023,2022-23,div1,South Suburban,southsuburbancollege,nicholasjohnstone1mz6,Nicholas Johnstone
-Apr 13,home,Morton,W,8-5,8,5,3,win,20230413_mj2v,0,0,0,,,,0,,,,,,,,0,0,,,,,0,2023,2022-23,div1,South Suburban,southsuburbancollege,nicholasjohnstone1mz6,Nicholas Johnstone
-Apr 20,home,DuPage,W,9-7,9,7,2,win,20230420_005t,0,0,0,,,,0,,,,,,,,0,0,,,,,0,2023,2022-23,div1,South Suburban,southsuburbancollege,nicholasjohnstone1mz6,Nicholas Johnstone
-Apr 26,home,Elgin,W,10-2,10,2,8,win,20230426_hjhm,0,0,0,,,,0,,,,,,,,0,0,,,,,0,2023,2022-23,div1,South Suburban,southsuburbancollege,nicholasjohnstone1mz6,Nicholas Johnstone
-May 3,home,Prairie State,W,12-2,12,2,10,win,20230503_903s,0,0,0,,,,0,,,,,,,,0,0,,,,,0,2023,2022-23,div1,South Suburban,southsuburbancollege,nicholasjohnstone1mz6,Nicholas Johnstone
+Feb 18,home,Vincennes,W,15-12,15,12,3,win,20230218_ruh8,4,2,3,,,,2,1,1,,,,,,3,0,,,,,5,2023,2022-23,div1,South Suburban,southsuburbancollege,nicholasjohnstone1mz6,Nicholas Johnstone
+Feb 18,home,Frontier,W,21-0,21,0,21,win,20230218_f5em,1,3,1,1,,,1,1,,,,1,,,2,1,,,,,3,2023,2022-23,div1,South Suburban,southsuburbancollege,nicholasjohnstone1mz6,Nicholas Johnstone
+Feb 19,home,Marian-Ancilla,W,16-9,16,9,7,win,20230219_7z7s,4,2,4,,2,,5,1,,,,,,,8,2,,,,,5,2023,2022-23,div1,South Suburban,southsuburbancollege,nicholasjohnstone1mz6,Nicholas Johnstone
+Feb 19,home,Frontier,W,13-4,13,4,9,win,20230219_85m7,4,1,0,,,,0,,2,,,1,,,0,0,1,1,1,1.00,5,2023,2022-23,div1,South Suburban,southsuburbancollege,nicholasjohnstone1mz6,Nicholas Johnstone
+Feb 25,home,Muskegon,W,7-2,7,2,5,win,20230225_sdfg,4,1,0,,,,0,,2,,,1,,,0,0,,1,1,1.00,5,2023,2022-23,div1,South Suburban,southsuburbancollege,nicholasjohnstone1mz6,Nicholas Johnstone
+Feb 26,home,Muskegon,W,14-4,14,4,10,win,20230226_dbfu,4,0,1,,1,,0,,2,,,1,,,3,1,,,1,,5,2023,2022-23,div1,South Suburban,southsuburbancollege,nicholasjohnstone1mz6,Nicholas Johnstone
+Mar 4,home,Carl Sandburg,W,9-4,9,4,5,win,20230304_vuoe,3,1,1,,,,1,1,1,,,,,,1,0,,1,,,4,2023,2022-23,div1,South Suburban,southsuburbancollege,nicholasjohnstone1mz6,Nicholas Johnstone
+Mar 9,home,Spartans Post Grad Academy,W,28-0,28,0,28,win,20230309_7o24,3,4,2,1,,,2,1,,,,2,,,3,1,,,1,,6,2023,2022-23,div1,South Suburban,southsuburbancollege,nicholasjohnstone1mz6,Nicholas Johnstone
+Mar 12,home,Galveston,W,6-3,6,3,3,win,20230312_oc3j,4,1,3,,,,1,,,,,1,,,3,0,,,,,5,2023,2022-23,div1,South Suburban,southsuburbancollege,nicholasjohnstone1mz6,Nicholas Johnstone
+Mar 22,home,Olive-Harvey,W,7-0,7,0,7,win,20230322_5qd2,4,1,1,,,,0,,3,,,,,,1,0,,,,,4,2023,2022-23,div1,South Suburban,southsuburbancollege,nicholasjohnstone1mz6,Nicholas Johnstone
+Mar 24,home,Carl Sandburg,W,4-3,4,3,1,win,20230324_cnv9,4,0,0,,,,0,,3,,,,,,0,0,,,1,,4,2023,2022-23,div1,South Suburban,southsuburbancollege,nicholasjohnstone1mz6,Nicholas Johnstone
+Mar 24,home,Carl Sandburg,W,13-8,13,8,5,win,20230324_c6tq,3,2,1,,,,1,1,,,,1,,,1,0,,,1,,5,2023,2022-23,div1,South Suburban,southsuburbancollege,nicholasjohnstone1mz6,Nicholas Johnstone
+Mar 26,home,Milwaukee Area Tech,W,13-6,13,6,7,win,20230326_etfa,3,1,1,,,,1,,,,,1,1,,1,0,,2,1,2.00,5,2023,2022-23,div1,South Suburban,southsuburbancollege,nicholasjohnstone1mz6,Nicholas Johnstone
+Mar 28,home,Joliet,W,15-5,15,5,10,win,20230328_waue,2,3,1,,,,0,2,,,,1,,,1,0,,,1,,5,2023,2022-23,div1,South Suburban,southsuburbancollege,nicholasjohnstone1mz6,Nicholas Johnstone
+Mar 30,home,Kishwaukee,W,7-0,7,0,7,win,20230330_68cc,4,1,2,,,,1,,,,,1,,,2,0,,,1,,5,2023,2022-23,div1,South Suburban,southsuburbancollege,nicholasjohnstone1mz6,Nicholas Johnstone
+Apr 2,home,Sauk Valley,W,13-10,13,10,3,win,20230402_993z,1,2,0,,,,1,3,,,,,1,,0,0,1,1,1,1.00,5,2023,2022-23,div1,South Suburban,southsuburbancollege,nicholasjohnstone1mz6,Nicholas Johnstone
+Apr 6,home,Oakton,W,15-3,15,3,12,win,20230406_shga,4,2,1,,,,0,1,,,,,,,1,0,,,,,5,2023,2022-23,div1,South Suburban,southsuburbancollege,nicholasjohnstone1mz6,Nicholas Johnstone
+Apr 7,home,Black Hawk-Moline,W,5-0,5,0,5,win,20230407_21vi,3,2,2,1,,,1,,,,,,,,3,1,,,,,3,2023,2022-23,div1,South Suburban,southsuburbancollege,nicholasjohnstone1mz6,Nicholas Johnstone
+Apr 7,home,Black Hawk-Moline,W,8-2,8,2,6,win,20230407_v8dh,4,0,0,,,,0,,2,,,,,,0,0,,1,1,1.00,4,2023,2022-23,div1,South Suburban,southsuburbancollege,nicholasjohnstone1mz6,Nicholas Johnstone
+Apr 12,home,Rock Valley,W,8-0,8,0,8,win,20230412_875q,2,1,1,,,,2,1,1,,,1,,,1,0,,,,,4,2023,2022-23,div1,South Suburban,southsuburbancollege,nicholasjohnstone1mz6,Nicholas Johnstone
+Apr 12,home,Rock Valley,W,13-3,13,3,10,win,20230412_rnc5,2,3,2,1,,1,3,2,,,,,,,6,2,,,,,4,2023,2022-23,div1,South Suburban,southsuburbancollege,nicholasjohnstone1mz6,Nicholas Johnstone
+Apr 13,home,Morton,W,8-5,8,5,3,win,20230413_mj2v,4,0,1,,,,1,,2,,,,1,,1,0,,1,1,1.00,5,2023,2022-23,div1,South Suburban,southsuburbancollege,nicholasjohnstone1mz6,Nicholas Johnstone
+Apr 19,home,Olive-Harvey,W,24-4,24,4,20,win,20230419_w9p1,1,4,0,,,,0,3,,1,,1,,,0,0,,,1,,5,2023,2022-23,div1,South Suburban,southsuburbancollege,nicholasjohnstone1mz6,Nicholas Johnstone
+Apr 20,home,DuPage,W,9-7,9,7,2,win,20230420_005t,2,2,1,,1,,0,1,,,,1,,,3,1,1,1,,,4,2023,2022-23,div1,South Suburban,southsuburbancollege,nicholasjohnstone1mz6,Nicholas Johnstone
+Apr 21,home,Waubonsee,W,11-1,11,1,10,win,20230421_5kgw,3,1,2,1,,1,3,2,1,,,,,,6,2,,,,,5,2023,2022-23,div1,South Suburban,southsuburbancollege,nicholasjohnstone1mz6,Nicholas Johnstone
+Apr 25,home,Joliet,W,12-4,12,4,8,win,20230425_o518,3,1,0,,,,1,,1,,,1,1,,0,0,,,2,,5,2023,2022-23,div1,South Suburban,southsuburbancollege,nicholasjohnstone1mz6,Nicholas Johnstone
+Apr 26,home,Elgin,W,10-2,10,2,8,win,20230426_hjhm,4,2,1,,,,1,,1,,,1,,,1,0,,1,1,1.00,5,2023,2022-23,div1,South Suburban,southsuburbancollege,nicholasjohnstone1mz6,Nicholas Johnstone
+Apr 28,home,Moraine Valley,W,20-7,20,7,13,win,20230428_2019,5,2,3,,,,0,,1,,,,,,3,0,,,1,,5,2023,2022-23,div1,South Suburban,southsuburbancollege,nicholasjohnstone1mz6,Nicholas Johnstone
+Apr 29,home,Bryant & Stratton College (WI),W,9-0,9,0,9,win,20230429_61k4,4,1,1,1,,,1,,1,,,,,,2,1,,2,,,4,2023,2022-23,div1,South Suburban,southsuburbancollege,nicholasjohnstone1mz6,Nicholas Johnstone
+Apr 29,home,Bryant & Stratton College (WI),W,11-0,11,0,11,win,20230429_0lod,2,1,1,,,,2,,,1,,,1,,1,0,,,1,,3,2023,2022-23,div1,South Suburban,southsuburbancollege,nicholasjohnstone1mz6,Nicholas Johnstone
+May 2,home,Kishwaukee,W,18-2,18,2,16,win,20230502_fv8i,3,1,1,,1,,3,,1,,,1,,,3,1,,,,,4,2023,2022-23,div1,South Suburban,southsuburbancollege,nicholasjohnstone1mz6,Nicholas Johnstone
+May 3,home,Prairie State,W,12-2,12,2,10,win,20230503_903s,2,1,0,,,,0,3,,,,,,,0,0,,1,1,1.00,5,2023,2022-23,div1,South Suburban,southsuburbancollege,nicholasjohnstone1mz6,Nicholas Johnstone
+May 4,home,Morton,W,9-5,9,5,4,win,20230504_vrls,4,1,1,,,,0,1,,,,,,,1,0,,,1,,5,2023,2022-23,div1,South Suburban,southsuburbancollege,nicholasjohnstone1mz6,Nicholas Johnstone
+May 7,home,North Central JV,W,6-3,6,3,3,win,20230507_wnly,2,2,2,,,,1,2,,,,,,,2,0,,,,,4,2023,2022-23,div1,South Suburban,southsuburbancollege,nicholasjohnstone1mz6,Nicholas Johnstone
+May 10,home,Kishwaukee,W,10-0,10,0,10,win,20230510_l51b,3,1,2,,,,2,,,,,,,,2,0,,1,,,3,2023,2022-23,div1,South Suburban,southsuburbancollege,nicholasjohnstone1mz6,Nicholas Johnstone
+May 11,home,Triton,W,20-10,20,10,10,win,20230511_vbr9,3,2,2,1,,,2,2,,,,1,,,3,1,,,1,,6,2023,2022-23,div1,South Suburban,southsuburbancollege,nicholasjohnstone1mz6,Nicholas Johnstone
+May 13,home,Triton,W,5-3,5,3,2,win,20230513_7r03,4,0,2,,,,1,,,,,,,,2,0,,1,1,1.00,4,2023,2022-23,div1,South Suburban,southsuburbancollege,nicholasjohnstone1mz6,Nicholas Johnstone
+May 17,home,Indian Hills,W,10-6,10,6,4,win,20230517_5zdn,3,0,2,2,,,4,1,,,,,1,,4,2,,1,1,1.00,5,2023,2022-23,div1,South Suburban,southsuburbancollege,nicholasjohnstone1mz6,Nicholas Johnstone
+May 18,home,Indian Hills,W,8-7,8,7,1,win,20230518_lt8n,5,2,2,,,1,1,,1,,,,,,5,1,,,2,,5,2023,2022-23,div1,South Suburban,southsuburbancollege,nicholasjohnstone1mz6,Nicholas Johnstone

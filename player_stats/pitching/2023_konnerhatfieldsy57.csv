@@ -1,12 +1,43 @@
 date,location,opponent,result,score,team_score,opp_score,game_score_diff,game_win_loss,game_id,GS,W,L,SV,IP,H,R,ER,ERA,BB,K,HR,season,njcaa_season,njcaa_division,team,team_id,player_id,player_name
-May 6,home,Barton,L,9-3,9,3,6,win,20230506_llcw,0,0,0,0,3.0,2,1,1,3.00,,3,,2023,2022-23,div1,Garden City,gardencitycommunitycollege,konnerhatfieldsy57,Konner Hatfield
-May 3,home,Barton,L,20-11,20,11,9,win,20230503_0rd0,0,0,0,0,1.2,7,6,6,32.40,1,2,1,2023,2022-23,div1,Garden City,gardencitycommunitycollege,konnerhatfieldsy57,Konner Hatfield
-Apr 22,home,Hutchinson,L,3-0,3,0,3,win,20230422_pa4e,1,0,1,0,5.0,3,3,1,1.80,2,3,,2023,2022-23,div1,Garden City,gardencitycommunitycollege,konnerhatfieldsy57,Konner Hatfield
-Apr 15,home,Cloud County,L,10-5,10,5,5,win,20230415_508l,1,0,1,0,5.0,8,9,8,14.40,2,3,2,2023,2022-23,div1,Garden City,gardencitycommunitycollege,konnerhatfieldsy57,Konner Hatfield
-Apr 8,home,Butler,L,10-9,10,9,1,win,20230408_13o2,1,0,0,0,4.0,10,6,6,13.50,3,2,1,2023,2022-23,div1,Garden City,gardencitycommunitycollege,konnerhatfieldsy57,Konner Hatfield
-Apr 1,home,Seward County,L,23-8,23,8,15,win,20230401_ra7u,0,0,0,0,2.1,11,8,8,30.86,2,1,1,2023,2022-23,div1,Garden City,gardencitycommunitycollege,konnerhatfieldsy57,Konner Hatfield
-Mar 30,home,Seward County,L,30-5,30,5,25,win,20230330_01dp,0,0,0,0,1.0,3,2,0,0.00,1,0,0,2023,2022-23,div1,Garden City,gardencitycommunitycollege,konnerhatfieldsy57,Konner Hatfield
-Mar 28,home,Otero,W,14-5,14,5,9,win,20230328_vtfc,0,0,0,0,1.0,1,0,0,0.00,0,0,0,2023,2022-23,div1,Garden City,gardencitycommunitycollege,konnerhatfieldsy57,Konner Hatfield
+May 6,home,Barton,L,9-3,9,3,6,win,20230506_llcw,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div1,Garden City,gardencitycommunitycollege,konnerhatfieldsy57,Konner Hatfield
+May 6,home,Barton,L,14-1,14,1,13,win,20230506_hqwz,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div1,Garden City,gardencitycommunitycollege,konnerhatfieldsy57,Konner Hatfield
+May 3,home,Barton,L,20-11,20,11,9,win,20230503_0rd0,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div1,Garden City,gardencitycommunitycollege,konnerhatfieldsy57,Konner Hatfield
+May 3,home,Barton,L,3-1,3,1,2,win,20230503_e2vj,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div1,Garden City,gardencitycommunitycollege,konnerhatfieldsy57,Konner Hatfield
+Apr 28,home,Colorado State University Pueblo,L,11-6,11,6,5,win,20230428_65l1,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div1,Garden City,gardencitycommunitycollege,konnerhatfieldsy57,Konner Hatfield
+Apr 15,home,Cloud County,L,17-5,17,5,12,win,20230415_ypkg,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div1,Garden City,gardencitycommunitycollege,konnerhatfieldsy57,Konner Hatfield
+Apr 15,home,Cloud County,L,10-5,10,5,5,win,20230415_508l,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div1,Garden City,gardencitycommunitycollege,konnerhatfieldsy57,Konner Hatfield
+Apr 13,home,Cloud County,L,15-1,15,1,14,win,20230413_lr70,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div1,Garden City,gardencitycommunitycollege,konnerhatfieldsy57,Konner Hatfield
+Apr 13,home,Cloud County,L,11-0,11,0,11,win,20230413_8ntb,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div1,Garden City,gardencitycommunitycollege,konnerhatfieldsy57,Konner Hatfield
+Apr 8,home,Butler,L,11-6,11,6,5,win,20230408_z8wp,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div1,Garden City,gardencitycommunitycollege,konnerhatfieldsy57,Konner Hatfield
+Apr 8,home,Butler,L,10-9,10,9,1,win,20230408_13o2,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div1,Garden City,gardencitycommunitycollege,konnerhatfieldsy57,Konner Hatfield
+Apr 6,home,Butler,L,10-3,10,3,7,win,20230406_96wo,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div1,Garden City,gardencitycommunitycollege,konnerhatfieldsy57,Konner Hatfield
+Apr 6,home,Butler,L,13-2,13,2,11,win,20230406_euz3,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div1,Garden City,gardencitycommunitycollege,konnerhatfieldsy57,Konner Hatfield
+Apr 3,home,Western Nebraska,L,13-11,13,11,2,win,20230403_4k32,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div1,Garden City,gardencitycommunitycollege,konnerhatfieldsy57,Konner Hatfield
+Apr 3,home,Western Nebraska,W,15-5,15,5,10,win,20230403_ta5g,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div1,Garden City,gardencitycommunitycollege,konnerhatfieldsy57,Konner Hatfield
+Apr 1,home,Seward County,L,23-8,23,8,15,win,20230401_ra7u,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div1,Garden City,gardencitycommunitycollege,konnerhatfieldsy57,Konner Hatfield
+Apr 1,home,Seward County,L,24-9,24,9,15,win,20230401_1cb6,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div1,Garden City,gardencitycommunitycollege,konnerhatfieldsy57,Konner Hatfield
+Mar 30,home,Seward County,L,30-5,30,5,25,win,20230330_01dp,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div1,Garden City,gardencitycommunitycollege,konnerhatfieldsy57,Konner Hatfield
+Mar 30,home,Seward County,L,26-6,26,6,20,win,20230330_f46d,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div1,Garden City,gardencitycommunitycollege,konnerhatfieldsy57,Konner Hatfield
+Mar 28,home,Otero,W,14-5,14,5,9,win,20230328_vtfc,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div1,Garden City,gardencitycommunitycollege,konnerhatfieldsy57,Konner Hatfield
+Mar 25,home,Pratt,L,15-5,15,5,10,win,20230325_xjun,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div1,Garden City,gardencitycommunitycollege,konnerhatfieldsy57,Konner Hatfield
 Mar 25,home,Pratt,L,11-2,11,2,9,win,20230325_gctp,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div1,Garden City,gardencitycommunitycollege,konnerhatfieldsy57,Konner Hatfield
-Mar 23,home,Pratt,L,12-0,12,0,12,win,20230323_3x8e,0,0,0,0,2.0,1,,,0.00,,2,,2023,2022-23,div1,Garden City,gardencitycommunitycollege,konnerhatfieldsy57,Konner Hatfield
-Mar 18,home,Dodge City,L,12-5,12,5,7,win,20230318_nkcl,0,0,0,0,0.1,2,0,0,0.00,2,0,0,2023,2022-23,div1,Garden City,gardencitycommunitycollege,konnerhatfieldsy57,Konner Hatfield
+Mar 23,home,Pratt,L,12-0,12,0,12,win,20230323_3x8e,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div1,Garden City,gardencitycommunitycollege,konnerhatfieldsy57,Konner Hatfield
+Mar 23,home,Pratt,L,6-3,6,3,3,win,20230323_swll,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div1,Garden City,gardencitycommunitycollege,konnerhatfieldsy57,Konner Hatfield
+Mar 18,home,Dodge City,L,12-5,12,5,7,win,20230318_nkcl,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div1,Garden City,gardencitycommunitycollege,konnerhatfieldsy57,Konner Hatfield
+Mar 18,home,Dodge City,W,4-3,4,3,1,win,20230318_3lqj,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div1,Garden City,gardencitycommunitycollege,konnerhatfieldsy57,Konner Hatfield
+Mar 15,home,Dodge City,L,13-2,13,2,11,win,20230315_6dh9,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div1,Garden City,gardencitycommunitycollege,konnerhatfieldsy57,Konner Hatfield
+Mar 15,home,Dodge City,L,11-10,11,10,1,win,20230315_240f,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div1,Garden City,gardencitycommunitycollege,konnerhatfieldsy57,Konner Hatfield
+Mar 14,home,Lamar,L,23-9,23,9,14,win,20230314_2f9g,1,0,1,0,1.2,6,7,7,37.80,1,1,0,2023,2022-23,div1,Garden City,gardencitycommunitycollege,konnerhatfieldsy57,Konner Hatfield
+Mar 11,home,Colby,L,14-10,14,10,4,win,20230311_xv53,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div1,Garden City,gardencitycommunitycollege,konnerhatfieldsy57,Konner Hatfield
+Mar 11,home,Colby,W,19-12,19,12,7,win,20230311_z4i1,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div1,Garden City,gardencitycommunitycollege,konnerhatfieldsy57,Konner Hatfield
+Mar 9,home,Colby,L,4-3,4,3,1,win,20230309_y1u4,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div1,Garden City,gardencitycommunitycollege,konnerhatfieldsy57,Konner Hatfield
+Mar 9,home,Colby,W,8-7,8,7,1,win,20230309_uaez,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div1,Garden City,gardencitycommunitycollege,konnerhatfieldsy57,Konner Hatfield
+Mar 7,home,Lamar,L,6-5,6,5,1,win,20230307_nlwv,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div1,Garden City,gardencitycommunitycollege,konnerhatfieldsy57,Konner Hatfield
+Mar 1,home,Lamar,L,18-11,18,11,7,win,20230301_mwac,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div1,Garden City,gardencitycommunitycollege,konnerhatfieldsy57,Konner Hatfield
+Feb 19,home,Southeast,L,7-3,7,3,4,win,20230219_9nse,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div1,Garden City,gardencitycommunitycollege,konnerhatfieldsy57,Konner Hatfield
+Feb 19,home,Southeast,W,5-2,5,2,3,win,20230219_ih7o,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div1,Garden City,gardencitycommunitycollege,konnerhatfieldsy57,Konner Hatfield
+Feb 18,home,Southeast,L,4-1,4,1,3,win,20230218_o5rd,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div1,Garden City,gardencitycommunitycollege,konnerhatfieldsy57,Konner Hatfield
+Feb 18,home,Southeast,L,18-10,18,10,8,win,20230218_b6a2,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div1,Garden City,gardencitycommunitycollege,konnerhatfieldsy57,Konner Hatfield
+Feb 12,home,Amarillo College,L,11-5,11,5,6,win,20230212_xvam,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div1,Garden City,gardencitycommunitycollege,konnerhatfieldsy57,Konner Hatfield
+Feb 12,home,Amarillo College,W,4-3,4,3,1,win,20230212_1mr2,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div1,Garden City,gardencitycommunitycollege,konnerhatfieldsy57,Konner Hatfield
+Feb 11,home,Amarillo College,L,9-5,9,5,4,win,20230211_2vfj,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div1,Garden City,gardencitycommunitycollege,konnerhatfieldsy57,Konner Hatfield

@@ -1,22 +1,52 @@
 date,location,opponent,result,score,team_score,opp_score,game_score_diff,game_win_loss,game_id,GS,W,L,SV,IP,H,R,ER,ERA,BB,K,HR,season,njcaa_season,njcaa_division,team,team_id,player_id,player_name
-May 14,home,Florence-Darlington Tech,W,12-2,12,2,10,win,20230514_yqe6,0,0,0,0,1.0,0,0,0,0.00,0,0,0,2023,2022-23,div1,Gaston College,gastoncollege,davidsandea58q,David Sande
-May 13,home,Harford,W,8-7,8,7,1,win,20230513_kgng,0,0,0,0,0.1,2,1,1,27.00,0,1,1,2023,2022-23,div1,Gaston College,gastoncollege,davidsandea58q,David Sande
-May 12,home,Potomac State,W,5-3,5,3,2,win,20230512_rik8,0,0,0,0,2.0,2,0,0,0.00,0,2,0,2023,2022-23,div1,Gaston College,gastoncollege,davidsandea58q,David Sande
-May 7,home,USC Lancaster,W,9-6,9,6,3,win,20230507_hrbr,0,0,0,0,2.0,1,1,1,4.50,2,3,0,2023,2022-23,div1,Gaston College,gastoncollege,davidsandea58q,David Sande
-Apr 29,home,Hosanna Bible College,W,14-2,14,2,12,win,20230429_ospt,0,0,0,0,1.0,0,0,0,0.00,0,4,0,2023,2022-23,div1,Gaston College,gastoncollege,davidsandea58q,David Sande
-Apr 26,home,Walters State,L,9-7,9,7,2,win,20230426_srmp,0,0,0,0,1.0,1,1,1,9.00,1,3,,2023,2022-23,div1,Gaston College,gastoncollege,davidsandea58q,David Sande
-Apr 23,home,Florence-Darlington Tech,W,7-4,7,4,3,win,20230423_g1b4,0,0,0,0,2.0,2,1,1,4.50,2,1,0,2023,2022-23,div1,Gaston College,gastoncollege,davidsandea58q,David Sande
-Apr 15,home,Louisburg,W,14-13,14,13,1,win,20230415_0ozw,0,0,0,0,1.2,4,5,4,21.60,3,4,0,2023,2022-23,div1,Gaston College,gastoncollege,davidsandea58q,David Sande
-Apr 4,home,Patrick & Henry,W,15-6,15,6,9,win,20230404_808s,0,0,0,0,2.0,1,0,0,0.00,1,1,0,2023,2022-23,div1,Gaston College,gastoncollege,davidsandea58q,David Sande
-Apr 1,home,Spartanburg Methodist,L,10-5,10,5,5,win,20230401_z6r7,0,0,0,0,1.0,4,2,2,18.00,,2,,2023,2022-23,div1,Gaston College,gastoncollege,davidsandea58q,David Sande
-Mar 28,home,Patrick & Henry,W,12-11,12,11,1,win,20230328_9wtu,0,0,0,0,1.1,1,0,0,0.00,1,2,0,2023,2022-23,div1,Gaston College,gastoncollege,davidsandea58q,David Sande
-Mar 19,home,USC Lancaster,W,3-2,3,2,1,win,20230319_sbq8,0,0,0,0,2.0,2,2,2,9.00,2,4,0,2023,2022-23,div1,Gaston College,gastoncollege,davidsandea58q,David Sande
-Mar 11,home,USC Sumter,L,9-3,9,3,6,win,20230311_pnll,0,0,0,0,0.2,1,1,1,13.50,2,0,0,2023,2022-23,div1,Gaston College,gastoncollege,davidsandea58q,David Sande
-Mar 7,home,Brunswick,W,21-9,21,9,12,win,20230307_6zf1,0,0,0,0,2.0,1,1,0,0.00,0,2,0,2023,2022-23,div1,Gaston College,gastoncollege,davidsandea58q,David Sande
-Mar 1,home,Surry,W,8-2,8,2,6,win,20230301_inhw,0,0,0,0,2.0,1,0,0,0.00,0,6,0,2023,2022-23,div1,Gaston College,gastoncollege,davidsandea58q,David Sande
-Feb 22,home,Guilford Tech,W,5-0,5,0,5,win,20230222_7xm3,0,0,0,0,0.1,0,0,0,0.00,0,0,0,2023,2022-23,div1,Gaston College,gastoncollege,davidsandea58q,David Sande
-Feb 18,home,USC Sumter,W,12-2,12,2,10,win,20230218_zn9t,0,0,0,0,1.0,,,,0.00,,,,2023,2022-23,div1,Gaston College,gastoncollege,davidsandea58q,David Sande
-Feb 15,home,Caldwell Tech,W,7-0,7,0,7,win,20230215_dnix,0,0,0,0,2.0,0,0,0,0.00,0,3,0,2023,2022-23,div1,Gaston College,gastoncollege,davidsandea58q,David Sande
+May 14,home,Florence-Darlington Tech,W,12-2,12,2,10,win,20230514_yqe6,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div1,Gaston College,gastoncollege,davidsandea58q,David Sande
+May 14,home,Florence-Darlington Tech,W,6-5,6,5,1,win,20230514_0evb,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div1,Gaston College,gastoncollege,davidsandea58q,David Sande
+May 13,home,Harford,W,8-7,8,7,1,win,20230513_kgng,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div1,Gaston College,gastoncollege,davidsandea58q,David Sande
+May 13,home,Florence-Darlington Tech,L,12-4,12,4,8,win,20230513_28si,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div1,Gaston College,gastoncollege,davidsandea58q,David Sande
+May 12,home,Potomac State,W,5-3,5,3,2,win,20230512_rik8,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div1,Gaston College,gastoncollege,davidsandea58q,David Sande
+May 9,home,USC Lancaster,W,5-3,5,3,2,win,20230509_ob7o,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div1,Gaston College,gastoncollege,davidsandea58q,David Sande
+May 8,home,USC Lancaster,L,8-2,8,2,6,win,20230508_ti2g,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div1,Gaston College,gastoncollege,davidsandea58q,David Sande
+May 7,home,USC Lancaster,W,9-6,9,6,3,win,20230507_hrbr,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div1,Gaston College,gastoncollege,davidsandea58q,David Sande
+May 6,home,USC Sumter,W,8-0,8,0,8,win,20230506_njul,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div1,Gaston College,gastoncollege,davidsandea58q,David Sande
+May 5,home,Louisburg,W,11-3,11,3,8,win,20230505_tdq4,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div1,Gaston College,gastoncollege,davidsandea58q,David Sande
+Apr 29,home,Hosanna Bible College,W,14-2,14,2,12,win,20230429_ospt,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div1,Gaston College,gastoncollege,davidsandea58q,David Sande
+Apr 26,home,Walters State,L,9-7,9,7,2,win,20230426_srmp,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div1,Gaston College,gastoncollege,davidsandea58q,David Sande
+Apr 23,home,Florence-Darlington Tech,W,7-4,7,4,3,win,20230423_g1b4,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div1,Gaston College,gastoncollege,davidsandea58q,David Sande
+Apr 23,home,Florence-Darlington Tech,L,7-6,7,6,1,win,20230423_z0t4,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div1,Gaston College,gastoncollege,davidsandea58q,David Sande
+Apr 22,home,Florence-Darlington Tech,L,8-1,8,1,7,win,20230422_kmqy,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div1,Gaston College,gastoncollege,davidsandea58q,David Sande
+Apr 22,home,Florence-Darlington Tech,L,14-5,14,5,9,win,20230422_f5ve,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div1,Gaston College,gastoncollege,davidsandea58q,David Sande
+Apr 16,home,Louisburg,W,4-0,4,0,4,win,20230416_vnym,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div1,Gaston College,gastoncollege,davidsandea58q,David Sande
+Apr 16,home,Louisburg,W,4-1,4,1,3,win,20230416_g76r,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div1,Gaston College,gastoncollege,davidsandea58q,David Sande
+Apr 15,home,Louisburg,W,14-13,14,13,1,win,20230415_0ozw,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div1,Gaston College,gastoncollege,davidsandea58q,David Sande
+Apr 15,home,Louisburg,W,4-3,4,3,1,win,20230415_8lfx,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div1,Gaston College,gastoncollege,davidsandea58q,David Sande
+Apr 7,home,USC Union,W,13-0,13,0,13,win,20230407_ouso,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div1,Gaston College,gastoncollege,davidsandea58q,David Sande
+Apr 7,home,USC Union,W,23-1,23,1,22,win,20230407_xcnc,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div1,Gaston College,gastoncollege,davidsandea58q,David Sande
+Mar 19,home,USC Lancaster,W,3-2,3,2,1,win,20230319_sbq8,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div1,Gaston College,gastoncollege,davidsandea58q,David Sande
+Mar 19,home,USC Lancaster,W,8-0,8,0,8,win,20230319_r0ew,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div1,Gaston College,gastoncollege,davidsandea58q,David Sande
+Mar 18,home,USC Lancaster,W,10-3,10,3,7,win,20230318_cv37,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div1,Gaston College,gastoncollege,davidsandea58q,David Sande
+Mar 18,home,USC Lancaster,W,12-2,12,2,10,win,20230318_tbyj,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div1,Gaston College,gastoncollege,davidsandea58q,David Sande
+Mar 14,home,Brunswick,W,14-3,14,3,11,win,20230314_b1g8,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div1,Gaston College,gastoncollege,davidsandea58q,David Sande
+Mar 11,home,USC Sumter,W,9-4,9,4,5,win,20230311_xzke,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div1,Gaston College,gastoncollege,davidsandea58q,David Sande
+Mar 11,home,USC Sumter,L,9-3,9,3,6,win,20230311_pnll,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div1,Gaston College,gastoncollege,davidsandea58q,David Sande
+Mar 7,home,Brunswick,W,21-9,21,9,12,win,20230307_6zf1,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div1,Gaston College,gastoncollege,davidsandea58q,David Sande
+Mar 4,home,Pro 5 Academy,W,13-3,13,3,10,win,20230304_uixf,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div1,Gaston College,gastoncollege,davidsandea58q,David Sande
+Mar 4,home,Pro 5 Academy,W,7-3,7,3,4,win,20230304_o0sw,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div1,Gaston College,gastoncollege,davidsandea58q,David Sande
+Mar 1,home,Surry,W,8-2,8,2,6,win,20230301_inhw,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div1,Gaston College,gastoncollege,davidsandea58q,David Sande
+Feb 25,home,Lenoir,W,14-6,14,6,8,win,20230225_2b7k,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div1,Gaston College,gastoncollege,davidsandea58q,David Sande
+Feb 24,home,Lenoir,L,7-3,7,3,4,win,20230224_hxk8,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div1,Gaston College,gastoncollege,davidsandea58q,David Sande
+Feb 24,home,Lenoir,W,10-5,10,5,5,win,20230224_lulu,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div1,Gaston College,gastoncollege,davidsandea58q,David Sande
+Feb 22,home,Guilford Tech,W,5-0,5,0,5,win,20230222_7xm3,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div1,Gaston College,gastoncollege,davidsandea58q,David Sande
+Feb 19,home,Catawba Valley,W,6-1,6,1,5,win,20230219_qpsm,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div1,Gaston College,gastoncollege,davidsandea58q,David Sande
+Feb 18,home,USC Sumter,W,12-2,12,2,10,win,20230218_zn9t,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div1,Gaston College,gastoncollege,davidsandea58q,David Sande
+Feb 17,home,Catawba Valley,W,15-5,15,5,10,win,20230217_1tyu,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div1,Gaston College,gastoncollege,davidsandea58q,David Sande
+Feb 15,home,Caldwell Tech,W,7-0,7,0,7,win,20230215_dnix,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div1,Gaston College,gastoncollege,davidsandea58q,David Sande
 Feb 11,home,Combine Academy (Lincolnton),W,16-1,16,1,15,win,20230211_c9m9,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div1,Gaston College,gastoncollege,davidsandea58q,David Sande
-Feb 8,home,Caldwell Tech,W,12-2,12,2,10,win,20230208_psab,0,0,0,0,2.0,,,,0.00,1,1,,2023,2022-23,div1,Gaston College,gastoncollege,davidsandea58q,David Sande
-Feb 4,home,Southeastern-Whiteville,W,6-1,6,1,5,win,20230204_slwo,0,0,0,0,2.0,0,0,0,0.00,0,2,0,2023,2022-23,div1,Gaston College,gastoncollege,davidsandea58q,David Sande
+Feb 11,home,Combine Academy (Lincolnton),W,14-0,14,0,14,win,20230211_e4ih,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div1,Gaston College,gastoncollege,davidsandea58q,David Sande
+Feb 10,home,Combine Academy (Lincolnton),W,11-2,11,2,9,win,20230210_yte7,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div1,Gaston College,gastoncollege,davidsandea58q,David Sande
+Feb 8,home,Caldwell Tech,W,12-2,12,2,10,win,20230208_psab,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div1,Gaston College,gastoncollege,davidsandea58q,David Sande
+Feb 5,home,Walters State,W,4-2,4,2,2,win,20230205_see3,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div1,Gaston College,gastoncollege,davidsandea58q,David Sande
+Feb 5,home,Walters State,L,4-1,4,1,3,win,20230205_mof6,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div1,Gaston College,gastoncollege,davidsandea58q,David Sande
+Feb 4,home,Southeastern-Whiteville,W,6-1,6,1,5,win,20230204_slwo,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div1,Gaston College,gastoncollege,davidsandea58q,David Sande
+Feb 4,home,Southeastern-Whiteville,W,5-0,5,0,5,win,20230204_zsjp,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div1,Gaston College,gastoncollege,davidsandea58q,David Sande
+Jan 29,home,Roane State,W,10-0,10,0,10,win,20230129_6854,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div1,Gaston College,gastoncollege,davidsandea58q,David Sande
+Jan 29,home,Roane State,W,10-0,10,0,10,win,20230129_8zxk,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div1,Gaston College,gastoncollege,davidsandea58q,David Sande
