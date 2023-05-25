@@ -1,18 +1,50 @@
 date,location,opponent,result,score,team_score,opp_score,game_score_diff,game_win_loss,game_id,TC,PO,A,E,FPCT,DP,SBA,RCS,RCS_PCT,PB,CI,season,njcaa_season,njcaa_division,team,team_id,player_id,player_name
-Jan 28,home,Galveston,L,9-4,9,4,5,win,20230128_sv86,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Butler,butlercommunitycollegeks,daytonpelfreyram0,Dayton Pelfrey
-Jan 28,home,Ranger,L,18-2,18,2,16,win,20230128_ob63,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Butler,butlercommunitycollegeks,daytonpelfreyram0,Dayton Pelfrey
-Feb 4,home,Blinn,L,4-2,4,2,2,win,20230204_ih84,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Butler,butlercommunitycollegeks,daytonpelfreyram0,Dayton Pelfrey
-Feb 5,home,Blinn,L,8-2,8,2,6,win,20230205_dxco,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Butler,butlercommunitycollegeks,daytonpelfreyram0,Dayton Pelfrey
-Feb 5,home,Blinn,L,12-4,12,4,8,win,20230205_j4tq,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Butler,butlercommunitycollegeks,daytonpelfreyram0,Dayton Pelfrey
-Feb 10,home,Navarro,L,6-1,6,1,5,win,20230210_w6vk,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Butler,butlercommunitycollegeks,daytonpelfreyram0,Dayton Pelfrey
-Feb 11,home,San Jacinto,L,11-2,11,2,9,win,20230211_5exr,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Butler,butlercommunitycollegeks,daytonpelfreyram0,Dayton Pelfrey
-Feb 18,home,St. Louis,W,4-3,4,3,1,win,20230218_mkiy,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Butler,butlercommunitycollegeks,daytonpelfreyram0,Dayton Pelfrey
-Feb 19,home,St. Louis,W,7-4,7,4,3,win,20230219_2opq,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Butler,butlercommunitycollegeks,daytonpelfreyram0,Dayton Pelfrey
-Feb 19,home,St. Louis,W,6-5,6,5,1,win,20230219_0had,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Butler,butlercommunitycollegeks,daytonpelfreyram0,Dayton Pelfrey
-Feb 24,home,Illinois Central,L,8-1,8,1,7,win,20230224_m2py,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Butler,butlercommunitycollegeks,daytonpelfreyram0,Dayton Pelfrey
-Feb 26,home,Jones,L,10-7,10,7,3,win,20230226_cggg,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Butler,butlercommunitycollegeks,daytonpelfreyram0,Dayton Pelfrey
-Mar 3,home,Pearl River,L,10-2,10,2,8,win,20230303_4x6x,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Butler,butlercommunitycollegeks,daytonpelfreyram0,Dayton Pelfrey
-Mar 3,home,Pearl River,L,8-3,8,3,5,win,20230303_pi1j,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Butler,butlercommunitycollegeks,daytonpelfreyram0,Dayton Pelfrey
-Mar 5,home,Lansing,W,13-2,13,2,11,win,20230305_bq0x,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Butler,butlercommunitycollegeks,daytonpelfreyram0,Dayton Pelfrey
-Mar 13,home,Triton,W,16-8,16,8,8,win,20230313_c5yp,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Butler,butlercommunitycollegeks,daytonpelfreyram0,Dayton Pelfrey
-Mar 20,home,Louisiana State University Alexandria,L,10-5,10,5,5,win,20230320_h36b,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Butler,butlercommunitycollegeks,daytonpelfreyram0,Dayton Pelfrey
+Feb 8,home,Northwestern Oklahoma State University JV,W,10-5,10,5,5,win,20230208_s0vy,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Butler,butlercommunitycollegeks,daytonpelfreyram0,Dayton Pelfrey
+Feb 15,home,Northern Oklahoma Enid,L,9-7,9,7,2,win,20230215_u3bx,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Butler,butlercommunitycollegeks,daytonpelfreyram0,Dayton Pelfrey
+Feb 15,home,Crowder,L,11-4,11,4,7,win,20230215_x4t6,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Butler,butlercommunitycollegeks,daytonpelfreyram0,Dayton Pelfrey
+Feb 17,home,Rose State,L,8-3,8,3,5,win,20230217_dtlq,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Butler,butlercommunitycollegeks,daytonpelfreyram0,Dayton Pelfrey
+Feb 17,home,Eastern Oklahoma State,L,7-2,7,2,5,win,20230217_jmlb,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Butler,butlercommunitycollegeks,daytonpelfreyram0,Dayton Pelfrey
+Feb 22,home,Kansas City Kansas,L,8-3,8,3,5,win,20230222_pipw,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Butler,butlercommunitycollegeks,daytonpelfreyram0,Dayton Pelfrey
+Feb 25,home,Kansas City Kansas,W,19-7,19,7,12,win,20230225_c3vt,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Butler,butlercommunitycollegeks,daytonpelfreyram0,Dayton Pelfrey
+Mar 3,home,Des Moines Area,W,9-6,9,6,3,win,20230303_2aqw,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Butler,butlercommunitycollegeks,daytonpelfreyram0,Dayton Pelfrey
+Mar 4,home,Des Moines Area,W,6-3,6,3,3,win,20230304_rj3m,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Butler,butlercommunitycollegeks,daytonpelfreyram0,Dayton Pelfrey
+Mar 4,home,Des Moines Area,L,5-4,5,4,1,win,20230304_pqyx,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Butler,butlercommunitycollegeks,daytonpelfreyram0,Dayton Pelfrey
+Mar 9,home,Seward County,L,4-0,4,0,4,win,20230309_1mpa,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Butler,butlercommunitycollegeks,daytonpelfreyram0,Dayton Pelfrey
+Mar 9,home,Seward County,W,3-1,3,1,2,win,20230309_xak5,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Butler,butlercommunitycollegeks,daytonpelfreyram0,Dayton Pelfrey
+Mar 11,home,Seward County,W,4-3,4,3,1,win,20230311_b0x2,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Butler,butlercommunitycollegeks,daytonpelfreyram0,Dayton Pelfrey
+Mar 15,home,Highland (KS),W,8-6,8,6,2,win,20230315_8h28,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Butler,butlercommunitycollegeks,daytonpelfreyram0,Dayton Pelfrey
+Mar 17,home,Highland (KS),W,17-6,17,6,11,win,20230317_igkq,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Butler,butlercommunitycollegeks,daytonpelfreyram0,Dayton Pelfrey
+Mar 21,home,Coffeyville,W,4-3,4,3,1,win,20230321_id3o,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Butler,butlercommunitycollegeks,daytonpelfreyram0,Dayton Pelfrey
+Mar 25,home,Cloud County,W,9-8,9,8,1,win,20230325_wyu3,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Butler,butlercommunitycollegeks,daytonpelfreyram0,Dayton Pelfrey
+Mar 30,home,Hutchinson,L,11-1,11,1,10,win,20230330_1rnh,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Butler,butlercommunitycollegeks,daytonpelfreyram0,Dayton Pelfrey
+Apr 1,home,Hutchinson,L,9-5,9,5,4,win,20230401_mkmm,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Butler,butlercommunitycollegeks,daytonpelfreyram0,Dayton Pelfrey
+Apr 4,home,Neosho County,L,17-10,17,10,7,win,20230404_6j2w,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Butler,butlercommunitycollegeks,daytonpelfreyram0,Dayton Pelfrey
+Apr 6,home,Garden City,W,13-2,13,2,11,win,20230406_euz3,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Butler,butlercommunitycollegeks,daytonpelfreyram0,Dayton Pelfrey
+Apr 6,home,Garden City,W,10-3,10,3,7,win,20230406_96wo,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Butler,butlercommunitycollegeks,daytonpelfreyram0,Dayton Pelfrey
+Apr 8,home,Garden City,W,10-9,10,9,1,win,20230408_13o2,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Butler,butlercommunitycollegeks,daytonpelfreyram0,Dayton Pelfrey
+Apr 8,home,Garden City,W,11-6,11,6,5,win,20230408_z8wp,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Butler,butlercommunitycollegeks,daytonpelfreyram0,Dayton Pelfrey
+Apr 11,home,Cowley,L,9-7,9,7,2,win,20230411_nm7f,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Butler,butlercommunitycollegeks,daytonpelfreyram0,Dayton Pelfrey
+Apr 13,home,Barton,W,8-3,8,3,5,win,20230413_lbjm,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Butler,butlercommunitycollegeks,daytonpelfreyram0,Dayton Pelfrey
+Apr 13,home,Barton,L,17-8,17,8,9,win,20230413_k60o,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Butler,butlercommunitycollegeks,daytonpelfreyram0,Dayton Pelfrey
+Apr 16,home,Barton,L,5-2,5,2,3,win,20230416_slg4,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Butler,butlercommunitycollegeks,daytonpelfreyram0,Dayton Pelfrey
+Apr 16,home,Barton,L,9-6,9,6,3,win,20230416_o2si,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Butler,butlercommunitycollegeks,daytonpelfreyram0,Dayton Pelfrey
+Apr 20,home,Colby,W,13-0,13,0,13,win,20230420_1rtz,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Butler,butlercommunitycollegeks,daytonpelfreyram0,Dayton Pelfrey
+Apr 20,home,Colby,W,12-9,12,9,3,win,20230420_tvn7,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Butler,butlercommunitycollegeks,daytonpelfreyram0,Dayton Pelfrey
+Apr 22,home,Colby,W,6-3,6,3,3,win,20230422_agam,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Butler,butlercommunitycollegeks,daytonpelfreyram0,Dayton Pelfrey
+Apr 22,home,Colby,W,9-4,9,4,5,win,20230422_80fp,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Butler,butlercommunitycollegeks,daytonpelfreyram0,Dayton Pelfrey
+Apr 25,home,Coffeyville,W,13-6,13,6,7,win,20230425_d5l3,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Butler,butlercommunitycollegeks,daytonpelfreyram0,Dayton Pelfrey
+Apr 27,home,Dodge City,W,4-2,4,2,2,win,20230427_4rq3,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Butler,butlercommunitycollegeks,daytonpelfreyram0,Dayton Pelfrey
+Apr 27,home,Dodge City,W,5-2,5,2,3,win,20230427_ed4n,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Butler,butlercommunitycollegeks,daytonpelfreyram0,Dayton Pelfrey
+Apr 29,home,Dodge City,L,7-1,7,1,6,win,20230429_up9f,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Butler,butlercommunitycollegeks,daytonpelfreyram0,Dayton Pelfrey
+Apr 29,home,Dodge City,W,6-3,6,3,3,win,20230429_xehf,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Butler,butlercommunitycollegeks,daytonpelfreyram0,Dayton Pelfrey
+May 1,home,Neosho County,W,13-1,13,1,12,win,20230501_qvow,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Butler,butlercommunitycollegeks,daytonpelfreyram0,Dayton Pelfrey
+May 3,home,Pratt,W,2-0,2,0,2,win,20230503_w0z9,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Butler,butlercommunitycollegeks,daytonpelfreyram0,Dayton Pelfrey
+May 3,home,Pratt,W,4-0,4,0,4,win,20230503_btra,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Butler,butlercommunitycollegeks,daytonpelfreyram0,Dayton Pelfrey
+May 6,home,Pratt,W,19-2,19,2,17,win,20230506_kzkr,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Butler,butlercommunitycollegeks,daytonpelfreyram0,Dayton Pelfrey
+May 6,home,Pratt,L,14-11,14,11,3,win,20230506_2e4g,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Butler,butlercommunitycollegeks,daytonpelfreyram0,Dayton Pelfrey
+May 10,home,Allen County,L,7-6,7,6,1,win,20230510_lujh,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Butler,butlercommunitycollegeks,daytonpelfreyram0,Dayton Pelfrey
+May 11,home,Allen County,W,4-2,4,2,2,win,20230511_7c3a,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Butler,butlercommunitycollegeks,daytonpelfreyram0,Dayton Pelfrey
+May 12,home,Allen County,W,20-8,20,8,12,win,20230512_ovoy,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Butler,butlercommunitycollegeks,daytonpelfreyram0,Dayton Pelfrey
+May 17,home,Fort Scott,W,3-2,3,2,1,win,20230517_w6mq,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Butler,butlercommunitycollegeks,daytonpelfreyram0,Dayton Pelfrey
+May 18,home,Johnson County,L,12-10,12,10,2,win,20230518_9ma5,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Butler,butlercommunitycollegeks,daytonpelfreyram0,Dayton Pelfrey
+May 19,home,Kansas City Kansas,L,8-0,8,0,8,win,20230519_uazd,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Butler,butlercommunitycollegeks,daytonpelfreyram0,Dayton Pelfrey

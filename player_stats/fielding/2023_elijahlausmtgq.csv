@@ -1,35 +1,11 @@
 date,location,opponent,result,score,team_score,opp_score,game_score_diff,game_win_loss,game_id,TC,PO,A,E,FPCT,DP,SBA,RCS,RCS_PCT,PB,CI,season,njcaa_season,njcaa_division,team,team_id,player_id,player_name
-Feb 4,home,Des Moines Area,L,11-2,11,2,9,win,20230204_s6lk,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div2,Northern Oklahoma Tonkawa,northernoklahomacollegetonkawa,elijahlausmtgq,Elijah Laus
-Feb 5,home,Des Moines Area,W,15-3,15,3,12,win,20230205_getj,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div2,Northern Oklahoma Tonkawa,northernoklahomacollegetonkawa,elijahlausmtgq,Elijah Laus
-Feb 10,home,ASU Mountain Home,L,8-7,8,7,1,win,20230210_eq7c,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div2,Northern Oklahoma Tonkawa,northernoklahomacollegetonkawa,elijahlausmtgq,Elijah Laus
-Feb 11,home,ASU Mountain Home,W,17-2,17,2,15,win,20230211_3vjn,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div2,Northern Oklahoma Tonkawa,northernoklahomacollegetonkawa,elijahlausmtgq,Elijah Laus
-Feb 19,home,Pratt,W,10-3,10,3,7,win,20230219_2oyy,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div2,Northern Oklahoma Tonkawa,northernoklahomacollegetonkawa,elijahlausmtgq,Elijah Laus
-Feb 21,home,Coffeyville,W,23-8,23,8,15,win,20230221_6syt,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div2,Northern Oklahoma Tonkawa,northernoklahomacollegetonkawa,elijahlausmtgq,Elijah Laus
-Feb 25,home,Barton,L,6-1,6,1,5,win,20230225_vh11,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div2,Northern Oklahoma Tonkawa,northernoklahomacollegetonkawa,elijahlausmtgq,Elijah Laus
-Feb 28,home,Rose State,L,9-0,9,0,9,win,20230228_68ht,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div2,Northern Oklahoma Tonkawa,northernoklahomacollegetonkawa,elijahlausmtgq,Elijah Laus
-Mar 11,home,Murray State,L,9-8,9,8,1,win,20230311_707w,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div2,Northern Oklahoma Tonkawa,northernoklahomacollegetonkawa,elijahlausmtgq,Elijah Laus
-Mar 13,home,Murray State,W,9-4,9,4,5,win,20230313_9cyt,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div2,Northern Oklahoma Tonkawa,northernoklahomacollegetonkawa,elijahlausmtgq,Elijah Laus
-Mar 13,home,Murray State,W,6-4,6,4,2,win,20230313_t558,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div2,Northern Oklahoma Tonkawa,northernoklahomacollegetonkawa,elijahlausmtgq,Elijah Laus
-Mar 17,home,Western Oklahoma State,L,6-3,6,3,3,win,20230317_bmwj,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div2,Northern Oklahoma Tonkawa,northernoklahomacollegetonkawa,elijahlausmtgq,Elijah Laus
-Mar 17,home,Western Oklahoma State,W,4-3,4,3,1,win,20230317_1xpt,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div2,Northern Oklahoma Tonkawa,northernoklahomacollegetonkawa,elijahlausmtgq,Elijah Laus
-Mar 19,home,Western Oklahoma State,W,6-0,6,0,6,win,20230319_gcz2,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div2,Northern Oklahoma Tonkawa,northernoklahomacollegetonkawa,elijahlausmtgq,Elijah Laus
-Mar 21,home,Hesston,W,14-8,14,8,6,win,20230321_ihpz,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div2,Northern Oklahoma Tonkawa,northernoklahomacollegetonkawa,elijahlausmtgq,Elijah Laus
-Mar 23,home,Carl Albert State,W,6-0,6,0,6,win,20230323_9bxl,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div2,Northern Oklahoma Tonkawa,northernoklahomacollegetonkawa,elijahlausmtgq,Elijah Laus
-Mar 23,home,Carl Albert State,W,5-2,5,2,3,win,20230323_lu8s,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div2,Northern Oklahoma Tonkawa,northernoklahomacollegetonkawa,elijahlausmtgq,Elijah Laus
-Mar 26,home,Carl Albert State,L,6-5,6,5,1,win,20230326_175e,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div2,Northern Oklahoma Tonkawa,northernoklahomacollegetonkawa,elijahlausmtgq,Elijah Laus
-Mar 26,home,Carl Albert State,L,13-9,13,9,4,win,20230326_n9ae,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div2,Northern Oklahoma Tonkawa,northernoklahomacollegetonkawa,elijahlausmtgq,Elijah Laus
-Mar 28,home,Hesston,W,16-12,16,12,4,win,20230328_yacn,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div2,Northern Oklahoma Tonkawa,northernoklahomacollegetonkawa,elijahlausmtgq,Elijah Laus
-Apr 1,home,SAU Tech,W,6-5,6,5,1,win,20230401_iuys,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div2,Northern Oklahoma Tonkawa,northernoklahomacollegetonkawa,elijahlausmtgq,Elijah Laus
-Apr 1,home,SAU Tech,W,9-7,9,7,2,win,20230401_mt06,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div2,Northern Oklahoma Tonkawa,northernoklahomacollegetonkawa,elijahlausmtgq,Elijah Laus
-Apr 2,home,SAU Tech,W,7-5,7,5,2,win,20230402_lvho,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div2,Northern Oklahoma Tonkawa,northernoklahomacollegetonkawa,elijahlausmtgq,Elijah Laus
-Apr 2,home,SAU Tech,W,16-4,16,4,12,win,20230402_zkno,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div2,Northern Oklahoma Tonkawa,northernoklahomacollegetonkawa,elijahlausmtgq,Elijah Laus
-Apr 4,home,Rose State,W,10-4,10,4,6,win,20230404_xjkq,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div2,Northern Oklahoma Tonkawa,northernoklahomacollegetonkawa,elijahlausmtgq,Elijah Laus
-Apr 7,home,National Park,L,5-3,5,3,2,win,20230407_dr1r,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div2,Northern Oklahoma Tonkawa,northernoklahomacollegetonkawa,elijahlausmtgq,Elijah Laus
-Apr 7,home,National Park,W,8-5,8,5,3,win,20230407_lobr,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div2,Northern Oklahoma Tonkawa,northernoklahomacollegetonkawa,elijahlausmtgq,Elijah Laus
-Apr 8,home,National Park,W,14-12,14,12,2,win,20230408_f4w8,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div2,Northern Oklahoma Tonkawa,northernoklahomacollegetonkawa,elijahlausmtgq,Elijah Laus
-Apr 8,home,National Park,W,13-10,13,10,3,win,20230408_lvrv,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div2,Northern Oklahoma Tonkawa,northernoklahomacollegetonkawa,elijahlausmtgq,Elijah Laus
-Apr 14,home,Northern Oklahoma Enid,W,6-4,6,4,2,win,20230414_kqf4,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div2,Northern Oklahoma Tonkawa,northernoklahomacollegetonkawa,elijahlausmtgq,Elijah Laus
-Apr 14,home,Northern Oklahoma Enid,L,17-5,17,5,12,win,20230414_2cba,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div2,Northern Oklahoma Tonkawa,northernoklahomacollegetonkawa,elijahlausmtgq,Elijah Laus
-Apr 29,home,South Arkansas,W,5-4,5,4,1,win,20230429_ylqj,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div2,Northern Oklahoma Tonkawa,northernoklahomacollegetonkawa,elijahlausmtgq,Elijah Laus
-May 5,home,Redlands,W,10-2,10,2,8,win,20230505_oojn,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div2,Northern Oklahoma Tonkawa,northernoklahomacollegetonkawa,elijahlausmtgq,Elijah Laus
-May 7,home,Redlands,W,13-0,13,0,13,win,20230507_4ka3,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div2,Northern Oklahoma Tonkawa,northernoklahomacollegetonkawa,elijahlausmtgq,Elijah Laus
+Feb 4,home,Des Moines Area,L,11-2,11,2,9,win,20230204_s6lk,0,0,0,0,0.0,1,2,2,INF,2,,2023,2022-23,div2,Northern Oklahoma Tonkawa,northernoklahomacollegetonkawa,elijahlausmtgq,Elijah Laus
+Feb 11,home,ASU Mountain Home,W,17-2,17,2,15,win,20230211_3vjn,0,0,0,0,1.0,,,,0.00,2,2,2023,2022-23,div2,Northern Oklahoma Tonkawa,northernoklahomacollegetonkawa,elijahlausmtgq,Elijah Laus
+Feb 21,home,Coffeyville,W,23-8,23,8,15,win,20230221_6syt,0,1,0,0,2.0,3,3,,0.00,2,2,2023,2022-23,div2,Northern Oklahoma Tonkawa,northernoklahomacollegetonkawa,elijahlausmtgq,Elijah Laus
+Feb 28,home,Rose State,L,9-0,9,0,9,win,20230228_68ht,0,0,0,0,0.2,3,4,3,40.50,,,2023,2022-23,div2,Northern Oklahoma Tonkawa,northernoklahomacollegetonkawa,elijahlausmtgq,Elijah Laus
+Mar 11,home,Murray State,L,9-8,9,8,1,win,20230311_707w,0,0,0,0,0.2,,,,0.00,1,,2023,2022-23,div2,Northern Oklahoma Tonkawa,northernoklahomacollegetonkawa,elijahlausmtgq,Elijah Laus
+Mar 21,home,Hesston,W,14-8,14,8,6,win,20230321_ihpz,1,0,0,0,2.1,6,7,3,11.57,1,3,2023,2022-23,div2,Northern Oklahoma Tonkawa,northernoklahomacollegetonkawa,elijahlausmtgq,Elijah Laus
+Mar 28,home,Hesston,W,16-12,16,12,4,win,20230328_yacn,1,0,0,0,2.0,2,1,1,4.50,2,0,2023,2022-23,div2,Northern Oklahoma Tonkawa,northernoklahomacollegetonkawa,elijahlausmtgq,Elijah Laus
+Apr 4,home,Rose State,W,10-4,10,4,6,win,20230404_xjkq,0,0,0,0,2.0,2,1,1,4.50,1,1,2023,2022-23,div2,Northern Oklahoma Tonkawa,northernoklahomacollegetonkawa,elijahlausmtgq,Elijah Laus
+Apr 11,home,Hutchinson,W,14-1,14,1,13,win,20230411_45m6,0,0,0,0,3.0,4,,,0.00,,1,2023,2022-23,div2,Northern Oklahoma Tonkawa,northernoklahomacollegetonkawa,elijahlausmtgq,Elijah Laus
+Apr 14,home,Northern Oklahoma Enid,L,17-5,17,5,12,win,20230414_2cba,0,0,0,0,1.2,,,,0.00,,1,2023,2022-23,div2,Northern Oklahoma Tonkawa,northernoklahomacollegetonkawa,elijahlausmtgq,Elijah Laus

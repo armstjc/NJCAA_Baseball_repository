@@ -1,10 +1,25 @@
 date,location,opponent,result,score,team_score,opp_score,game_score_diff,game_win_loss,game_id,AB,R,H,2B,3B,HR,RBI,BB,K,SB,CS,HBP,SF,SH,TB,XBH,HDP,GO,FO,GO/FO,PA,season,njcaa_season,njcaa_division,team,team_id,player_id,player_name
-Mar 6,home,Henry Ford,W,1-0,1,0,1,win,20230306_9ldx,2,0,0,,,,0,1,,,,,,,0,0,,,,,3,2023,2022-23,div2,North Iowa Area,northiowaareacommunitycollege,bennettmccollowckb5,Bennett McCollow
-Mar 7,home,Salem,W,16-4,16,4,12,win,20230307_4ugg,2,1,0,,,,0,1,,,,,,,0,0,,,,,3,2023,2022-23,div2,North Iowa Area,northiowaareacommunitycollege,bennettmccollowckb5,Bennett McCollow
-Mar 9,home,Salem,W,9-8,9,8,1,win,20230309_9aoh,0,1,0,,,,0,1,,,,,,,0,0,,,,,1,2023,2022-23,div2,North Iowa Area,northiowaareacommunitycollege,bennettmccollowckb5,Bennett McCollow
-Mar 9,home,Westmoreland,W,9-2,9,2,7,win,20230309_abq5,2,1,0,,,,0,1,,1,,,,,0,0,,,,,3,2023,2022-23,div2,North Iowa Area,northiowaareacommunitycollege,bennettmccollowckb5,Bennett McCollow
-Mar 25,home,John Wood,W,17-15,17,15,2,win,20230325_7fiw,5,2,1,,,,0,1,4,,,,,,1,0,,,,,6,2023,2022-23,div2,North Iowa Area,northiowaareacommunitycollege,bennettmccollowckb5,Bennett McCollow
-Apr 7,home,Lewis & Clark,W,4-3,4,3,1,win,20230407_cpyp,3,0,1,,,,0,,2,,,,,,1,0,,,,,3,2023,2022-23,div2,North Iowa Area,northiowaareacommunitycollege,bennettmccollowckb5,Bennett McCollow
-Apr 8,home,Lewis & Clark,W,9-5,9,5,4,win,20230408_wa9k,2,1,0,,,,0,1,1,,,1,,,0,0,,,,,4,2023,2022-23,div2,North Iowa Area,northiowaareacommunitycollege,bennettmccollowckb5,Bennett McCollow
-Apr 26,home,Franklin College JV,W,19-6,19,6,13,win,20230426_2mry,0,0,0,,,,0,,,,,,,,0,0,,,,,0,2023,2022-23,div2,North Iowa Area,northiowaareacommunitycollege,bennettmccollowckb5,Bennett McCollow
-Apr 26,home,Franklin College JV,W,8-1,8,1,7,win,20230426_2sua,4,2,1,,,,1,,1,1,,,,,1,0,,,,,4,2023,2022-23,div2,North Iowa Area,northiowaareacommunitycollege,bennettmccollowckb5,Bennett McCollow
+Feb 13,home,Three Rivers,W,12-11,12,11,1,win,20230213_zne2,5,2,3,1,,1,5,1,,,,,,,7,2,,1,1,1.00,6,2023,2022-23,div2,North Iowa Area,northiowaareacommunitycollege,bennettmccollowckb5,Bennett McCollow
+Feb 19,home,Allen County,W,6-1,6,1,5,win,20230219_udiw,3,0,1,,,,1,,1,,,,1,,1,0,,,2,,4,2023,2022-23,div2,North Iowa Area,northiowaareacommunitycollege,bennettmccollowckb5,Bennett McCollow
+Mar 4,home,Crowder,W,12-5,12,5,7,win,20230304_df2g,3,3,2,2,,,1,2,,,,,,,4,2,,1,,,5,2023,2022-23,div2,North Iowa Area,northiowaareacommunitycollege,bennettmccollowckb5,Bennett McCollow
+Mar 5,home,Crowder,W,10-3,10,3,7,win,20230305_n9mo,2,1,0,,,,0,2,1,,,1,,,0,0,,1,,,5,2023,2022-23,div2,North Iowa Area,northiowaareacommunitycollege,bennettmccollowckb5,Bennett McCollow
+Mar 22,home,Ellsworth,W,14-4,14,4,10,win,20230322_nldc,3,1,0,,,,0,2,,,,,,,0,0,1,1,2,0.50,5,2023,2022-23,div2,North Iowa Area,northiowaareacommunitycollege,bennettmccollowckb5,Bennett McCollow
+Mar 29,home,Southwestern,W,11-2,11,2,9,win,20230329_yxch,3,0,1,,,,1,1,,,,,,,1,0,,1,1,1.00,4,2023,2022-23,div2,North Iowa Area,northiowaareacommunitycollege,bennettmccollowckb5,Bennett McCollow
+Apr 2,home,Des Moines Area,W,5-4,5,4,1,win,20230402_5g3v,3,3,3,1,,2,3,,,,,,,,10,3,,,,,3,2023,2022-23,div2,North Iowa Area,northiowaareacommunitycollege,bennettmccollowckb5,Bennett McCollow
+Apr 2,home,Des Moines Area,W,6-4,6,4,2,win,20230402_s5ip,3,0,2,,,,1,1,,,,,,,2,0,,1,,,4,2023,2022-23,div2,North Iowa Area,northiowaareacommunitycollege,bennettmccollowckb5,Bennett McCollow
+Apr 3,home,Des Moines Area,W,9-4,9,4,5,win,20230403_4jl9,5,2,1,,,,0,1,1,,,,,,1,0,,1,1,1.00,6,2023,2022-23,div2,North Iowa Area,northiowaareacommunitycollege,bennettmccollowckb5,Bennett McCollow
+Apr 5,home,Ellsworth,W,10-9,10,9,1,win,20230405_5oby,3,0,0,,,,0,2,,,1,,,,0,0,3,,1,,5,2023,2022-23,div2,North Iowa Area,northiowaareacommunitycollege,bennettmccollowckb5,Bennett McCollow
+Apr 7,home,Marshalltown,W,19-8,19,8,11,win,20230407_f8ay,4,2,2,1,,1,3,1,1,,,,,,6,2,,1,,,5,2023,2022-23,div2,North Iowa Area,northiowaareacommunitycollege,bennettmccollowckb5,Bennett McCollow
+Apr 7,home,Marshalltown,W,34-5,34,5,29,win,20230407_7cnl,4,2,2,1,,1,1,,1,,,,,,6,2,,,,,4,2023,2022-23,div2,North Iowa Area,northiowaareacommunitycollege,bennettmccollowckb5,Bennett McCollow
+Apr 8,home,Marshalltown,W,28-6,28,6,22,win,20230408_yom5,6,3,2,1,,,2,1,1,,,,,,3,1,,,3,,7,2023,2022-23,div2,North Iowa Area,northiowaareacommunitycollege,bennettmccollowckb5,Bennett McCollow
+Apr 19,home,Indian Hills,W,7-6,7,6,1,win,20230419_psnm,3,1,0,,,,0,1,,,,1,,,0,0,1,2,1,2.00,5,2023,2022-23,div2,North Iowa Area,northiowaareacommunitycollege,bennettmccollowckb5,Bennett McCollow
+Apr 23,home,Northeast,W,6-5,6,5,1,win,20230423_q5b7,5,1,3,,,,0,,1,,,,,,3,0,,,1,,5,2023,2022-23,div2,North Iowa Area,northiowaareacommunitycollege,bennettmccollowckb5,Bennett McCollow
+Apr 24,home,Northeast,W,10-6,10,6,4,win,20230424_pu78,4,3,2,,,1,1,1,,,,1,,,5,1,,1,1,1.00,6,2023,2022-23,div2,North Iowa Area,northiowaareacommunitycollege,bennettmccollowckb5,Bennett McCollow
+Apr 26,home,Kirkwood,W,8-3,8,3,5,win,20230426_8t9i,2,2,1,,,,0,,1,,,2,,,1,0,,,,,4,2023,2022-23,div2,North Iowa Area,northiowaareacommunitycollege,bennettmccollowckb5,Bennett McCollow
+Apr 29,home,Iowa Central,W,15-7,15,7,8,win,20230429_osjx,3,3,1,,,1,1,,2,,,1,,,4,1,,1,,,4,2023,2022-23,div2,North Iowa Area,northiowaareacommunitycollege,bennettmccollowckb5,Bennett McCollow
+May 3,home,Indian Hills,W,12-2,12,2,10,win,20230503_pfxx,2,3,2,,,2,3,,,,,1,,,8,2,,,,,3,2023,2022-23,div2,North Iowa Area,northiowaareacommunitycollege,bennettmccollowckb5,Bennett McCollow
+May 3,home,Indian Hills,W,9-1,9,1,8,win,20230503_8owd,3,2,2,1,,,1,1,,,,1,,,3,1,,,,,5,2023,2022-23,div2,North Iowa Area,northiowaareacommunitycollege,bennettmccollowckb5,Bennett McCollow
+May 5,home,Iowa Lakes,W,10-0,10,0,10,win,20230505_iajd,3,2,2,1,,,2,2,,,,,,,3,1,,,,,5,2023,2022-23,div2,North Iowa Area,northiowaareacommunitycollege,bennettmccollowckb5,Bennett McCollow
+May 5,home,Iowa Lakes,W,8-3,8,3,5,win,20230505_g4yj,3,1,2,,,,1,3,,,,,,,2,0,,,1,,6,2023,2022-23,div2,North Iowa Area,northiowaareacommunitycollege,bennettmccollowckb5,Bennett McCollow
+May 6,home,Iowa Lakes,W,3-2,3,2,1,win,20230506_6cdf,4,0,1,,,,0,,,,,,,,1,0,,1,2,0.50,4,2023,2022-23,div2,North Iowa Area,northiowaareacommunitycollege,bennettmccollowckb5,Bennett McCollow
+May 11,home,Northeast,W,5-4,5,4,1,win,20230511_472u,4,2,1,,,1,1,,,,,1,,,4,1,,1,2,0.50,5,2023,2022-23,div2,North Iowa Area,northiowaareacommunitycollege,bennettmccollowckb5,Bennett McCollow

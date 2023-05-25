@@ -1,48 +1,16 @@
 date,location,opponent,result,score,team_score,opp_score,game_score_diff,game_win_loss,game_id,TC,PO,A,E,FPCT,DP,SBA,RCS,RCS_PCT,PB,CI,season,njcaa_season,njcaa_division,team,team_id,player_id,player_name
-Feb 28,home,McHenry County,L,7-3,7,3,4,win,20230228_pqxq,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div3,Harper,harpercollege,micahonealbpp4,Micah O'Neal
-Mar 4,home,Kankakee,L,7-5,7,5,2,win,20230304_0w2k,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div3,Harper,harpercollege,micahonealbpp4,Micah O'Neal
-Mar 4,home,Parkland,L,13-5,13,5,8,win,20230304_4b7z,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div3,Harper,harpercollege,micahonealbpp4,Micah O'Neal
-Mar 5,home,Southwestern Illinois,L,12-10,12,10,2,win,20230305_xudg,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div3,Harper,harpercollege,micahonealbpp4,Micah O'Neal
-Mar 5,home,Parkland,L,13-0,13,0,13,win,20230305_1y1j,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div3,Harper,harpercollege,micahonealbpp4,Micah O'Neal
-Mar 15,home,Lake County,L,9-4,9,4,5,win,20230315_6lwa,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div3,Harper,harpercollege,micahonealbpp4,Micah O'Neal
-Mar 20,home,Rock Valley,L,13-12,13,12,1,win,20230320_7map,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div3,Harper,harpercollege,micahonealbpp4,Micah O'Neal
-Mar 21,home,Prairie State,W,10-9,10,9,1,win,20230321_09fr,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div3,Harper,harpercollege,micahonealbpp4,Micah O'Neal
-Mar 23,home,Rockford University,W,16-6,16,6,10,win,20230323_jbms,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div3,Harper,harpercollege,micahonealbpp4,Micah O'Neal
-Mar 27,home,Triton,L,6-5,6,5,1,win,20230327_rguy,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div3,Harper,harpercollege,micahonealbpp4,Micah O'Neal
-Mar 27,home,Triton,W,18-12,18,12,6,win,20230327_1702,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div3,Harper,harpercollege,micahonealbpp4,Micah O'Neal
-Apr 2,home,Milwaukee Area Tech,L,2-1,2,1,1,win,20230402_hmmd,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div3,Harper,harpercollege,micahonealbpp4,Micah O'Neal
-Apr 2,home,Milwaukee Area Tech,L,12-11,12,11,1,win,20230402_lc8g,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div3,Harper,harpercollege,micahonealbpp4,Micah O'Neal
-Apr 3,home,Joliet,L,10-4,10,4,6,win,20230403_iee8,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div3,Harper,harpercollege,micahonealbpp4,Micah O'Neal
-Apr 3,home,Joliet,L,19-2,19,2,17,win,20230403_32j9,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div3,Harper,harpercollege,micahonealbpp4,Micah O'Neal
-Apr 4,home,Olive-Harvey,W,6-4,6,4,2,win,20230404_ia8l,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div3,Harper,harpercollege,micahonealbpp4,Micah O'Neal
-Apr 4,home,Olive-Harvey,L,8-7,8,7,1,win,20230404_wt7k,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div3,Harper,harpercollege,micahonealbpp4,Micah O'Neal
-Apr 6,home,Triton,L,10-4,10,4,6,win,20230406_op2i,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div3,Harper,harpercollege,micahonealbpp4,Micah O'Neal
-Apr 8,home,DuPage,L,19-2,19,2,17,win,20230408_b2le,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div3,Harper,harpercollege,micahonealbpp4,Micah O'Neal
-Apr 8,home,DuPage,L,8-6,8,6,2,win,20230408_aooj,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div3,Harper,harpercollege,micahonealbpp4,Micah O'Neal
-Apr 11,home,Kankakee,L,21-6,21,6,15,win,20230411_yx2c,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div3,Harper,harpercollege,micahonealbpp4,Micah O'Neal
-Apr 12,home,Kishwaukee,W,21-15,21,15,6,win,20230412_btna,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div3,Harper,harpercollege,micahonealbpp4,Micah O'Neal
-Apr 14,home,Waubonsee,L,6-5,6,5,1,win,20230414_csra,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div3,Harper,harpercollege,micahonealbpp4,Micah O'Neal
-Apr 14,home,Waubonsee,W,8-4,8,4,4,win,20230414_h9et,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div3,Harper,harpercollege,micahonealbpp4,Micah O'Neal
-Apr 15,home,Milwaukee Area Tech,L,14-4,14,4,10,win,20230415_qonz,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div3,Harper,harpercollege,micahonealbpp4,Micah O'Neal
-Apr 15,home,Milwaukee Area Tech,L,9-8,9,8,1,win,20230415_dpci,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div3,Harper,harpercollege,micahonealbpp4,Micah O'Neal
-Apr 18,home,North Central College,W,13-12,13,12,1,win,20230418_mx2m,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div3,Harper,harpercollege,micahonealbpp4,Micah O'Neal
-Apr 23,home,Morton,L,14-12,14,12,2,win,20230423_18m7,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div3,Harper,harpercollege,micahonealbpp4,Micah O'Neal
-Apr 23,home,Morton,L,10-9,10,9,1,win,20230423_kpwl,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div3,Harper,harpercollege,micahonealbpp4,Micah O'Neal
-Apr 24,home,Madison,L,14-9,14,9,5,win,20230424_n50w,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div3,Harper,harpercollege,micahonealbpp4,Micah O'Neal
-Apr 24,home,Madison,L,8-3,8,3,5,win,20230424_76zb,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div3,Harper,harpercollege,micahonealbpp4,Micah O'Neal
-Apr 27,home,Oakton,L,11-7,11,7,4,win,20230427_ekg4,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div3,Harper,harpercollege,micahonealbpp4,Micah O'Neal
-Apr 27,home,Oakton,L,12-3,12,3,9,win,20230427_u0gx,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div3,Harper,harpercollege,micahonealbpp4,Micah O'Neal
-Apr 29,home,Moraine Valley,W,6-1,6,1,5,win,20230429_5wbh,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div3,Harper,harpercollege,micahonealbpp4,Micah O'Neal
-Apr 30,home,Morton,L,12-11,12,11,1,win,20230430_9zc7,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div3,Harper,harpercollege,micahonealbpp4,Micah O'Neal
-May 3,home,Elgin,L,15-12,15,12,3,win,20230503_rokg,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div3,Harper,harpercollege,micahonealbpp4,Micah O'Neal
-May 4,home,McHenry County,L,19-4,19,4,15,win,20230504_dmpz,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div3,Harper,harpercollege,micahonealbpp4,Micah O'Neal
-May 5,home,Waubonsee,L,11-2,11,2,9,win,20230505_k93e,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div3,Harper,harpercollege,micahonealbpp4,Micah O'Neal
-May 5,home,Waubonsee,W,13-11,13,11,2,win,20230505_3oha,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div3,Harper,harpercollege,micahonealbpp4,Micah O'Neal
-May 6,home,Olive-Harvey,L,7-3,7,3,4,win,20230506_9rcv,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div3,Harper,harpercollege,micahonealbpp4,Micah O'Neal
-May 6,home,Olive-Harvey,W,10-1,10,1,9,win,20230506_3nqr,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div3,Harper,harpercollege,micahonealbpp4,Micah O'Neal
-May 7,home,Prairie State,L,10-7,10,7,3,win,20230507_2oa4,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div3,Harper,harpercollege,micahonealbpp4,Micah O'Neal
-May 7,home,Prairie State,L,7-1,7,1,6,win,20230507_pt2q,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div3,Harper,harpercollege,micahonealbpp4,Micah O'Neal
-May 11,home,Waubonsee,W,12-8,12,8,4,win,20230511_4aja,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div3,Harper,harpercollege,micahonealbpp4,Micah O'Neal
-May 11,home,DuPage,W,8-6,8,6,2,win,20230511_dtdz,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div3,Harper,harpercollege,micahonealbpp4,Micah O'Neal
-May 13,home,Joliet,L,7-3,7,3,4,win,20230513_7hwt,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div3,Harper,harpercollege,micahonealbpp4,Micah O'Neal
-May 13,home,Waubonsee,L,16-7,16,7,9,win,20230513_m9cv,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div3,Harper,harpercollege,micahonealbpp4,Micah O'Neal
+Feb 19,home,Virginia Peninsula,L,12-6,12,6,6,win,20230219_sqeh,0,0,0,0,2.1,4,5,5,19.29,4,1,2023,2022-23,div3,Harper,harpercollege,micahonealbpp4,Micah O'Neal
+Feb 23,home,Montgomery,L,3-2,3,2,1,win,20230223_a8bj,0,0,1,0,2.0,2,1,1,4.50,1,1,2023,2022-23,div3,Harper,harpercollege,micahonealbpp4,Micah O'Neal
+Mar 9,home,Cecil,W,12-9,12,9,3,win,20230309_y3e0,0,1,0,0,3.0,1,,,0.00,,3,2023,2022-23,div3,Harper,harpercollege,micahonealbpp4,Micah O'Neal
+Mar 12,home,Anne Arundel,W,5-3,5,3,2,win,20230312_9qnt,0,0,0,1,1.0,,,,0.00,1,1,2023,2022-23,div3,Harper,harpercollege,micahonealbpp4,Micah O'Neal
+Mar 24,home,Nassau,W,10-9,10,9,1,win,20230324_m6gx,0,0,0,0,2.0,2,2,2,9.00,5,3,2023,2022-23,div3,Harper,harpercollege,micahonealbpp4,Micah O'Neal
+Mar 28,home,Hudson Valley,W,8-7,8,7,1,win,20230328_sshm,0,0,0,1,1.0,,,,0.00,,,2023,2022-23,div3,Harper,harpercollege,micahonealbpp4,Micah O'Neal
+Mar 31,home,Dutchess,W,4-2,4,2,2,win,20230331_9bmh,0,0,0,1,1.0,,,,0.00,1,1,2023,2022-23,div3,Harper,harpercollege,micahonealbpp4,Micah O'Neal
+Apr 4,home,Suffolk County,L,8-6,8,6,2,win,20230404_yg4o,0,0,0,0,0.1,,,,0.00,,1,2023,2022-23,div3,Harper,harpercollege,micahonealbpp4,Micah O'Neal
+Apr 7,home,Suffolk County,W,10-9,10,9,1,win,20230407_71p2,0,0,0,0,1.0,2,4,4,36.00,4,3,2023,2022-23,div3,Harper,harpercollege,micahonealbpp4,Micah O'Neal
+Apr 12,home,Kingsborough,W,7-2,7,2,5,win,20230412_pn92,0,0,0,0,1.0,,,,0.00,1,2,2023,2022-23,div3,Harper,harpercollege,micahonealbpp4,Micah O'Neal
+Apr 14,home,Kingsborough,W,18-17,18,17,1,win,20230414_gldh,0,0,0,0,2.0,5,6,3,13.50,,4,2023,2022-23,div3,Harper,harpercollege,micahonealbpp4,Micah O'Neal
+Apr 22,home,Bronx,W,9-8,9,8,1,win,20230422_iox1,0,1,0,0,2.0,,2,2,9.00,4,4,2023,2022-23,div3,Harper,harpercollege,micahonealbpp4,Micah O'Neal
+May 3,home,Middlesex College,W,16-15,16,15,1,win,20230503_vuat,0,0,0,0,2.1,3,1,1,3.86,3,1,2023,2022-23,div3,Harper,harpercollege,micahonealbpp4,Micah O'Neal
+May 7,home,RCSJ Gloucester,L,26-1,26,1,25,win,20230507_0pgw,0,0,0,0,1.0,1,1,1,9.00,1,1,2023,2022-23,div3,Harper,harpercollege,micahonealbpp4,Micah O'Neal
+May 12,home,Suffolk County,W,29-18,29,18,11,win,20230512_1b48,0,0,0,0,3.2,2,1,1,2.45,1,4,2023,2022-23,div3,Harper,harpercollege,micahonealbpp4,Micah O'Neal

@@ -1,10 +1,16 @@
 date,location,opponent,result,score,team_score,opp_score,game_score_diff,game_win_loss,game_id,GS,W,L,SV,IP,H,R,ER,ERA,BB,K,HR,season,njcaa_season,njcaa_division,team,team_id,player_id,player_name
-May 6,home,Borough of Manhattan,W,12-0,12,0,12,win,20230506_6gks,1,1,0,0,5.0,3,0,0,0.00,0,7,,2023,2022-23,div3,Monroe College - Bronx,monroecollegebronx,emmanuelavilesddmc,Emmanuel Aviles
-Apr 27,home,Queensborough,W,6-4,6,4,2,win,20230427_gy96,0,0,0,0,1.1,3,2,2,13.50,2,1,1,2023,2022-23,div3,Monroe College - Bronx,monroecollegebronx,emmanuelavilesddmc,Emmanuel Aviles
-Apr 23,home,Nassau,L,13-5,13,5,8,win,20230423_efy7,0,0,0,0,2.0,4,5,3,13.50,,2,,2023,2022-23,div3,Monroe College - Bronx,monroecollegebronx,emmanuelavilesddmc,Emmanuel Aviles
-Apr 19,home,Sussex County,L,8-4,8,4,4,win,20230419_1n6z,0,0,0,0,2.2,2,3,3,10.13,1,1,,2023,2022-23,div3,Monroe College - Bronx,monroecollegebronx,emmanuelavilesddmc,Emmanuel Aviles
-Apr 8,home,Suffolk County,L,15-5,15,5,10,win,20230408_1lp1,0,0,0,0,0.2,1,,,0.00,2,1,,2023,2022-23,div3,Monroe College - Bronx,monroecollegebronx,emmanuelavilesddmc,Emmanuel Aviles
-Mar 26,home,Orange County,W,8-4,8,4,4,win,20230326_33dw,0,0,0,0,0.2,,,,0.00,,1,,2023,2022-23,div3,Monroe College - Bronx,monroecollegebronx,emmanuelavilesddmc,Emmanuel Aviles
-Mar 9,home,Cecil,L,14-8,14,8,6,win,20230309_0f4w,1,0,1,0,1.1,5,6,6,40.50,1,1,,2023,2022-23,div3,Monroe College - Bronx,monroecollegebronx,emmanuelavilesddmc,Emmanuel Aviles
-Feb 23,home,Montgomery,L,8-5,8,5,3,win,20230223_3od7,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div3,Monroe College - Bronx,monroecollegebronx,emmanuelavilesddmc,Emmanuel Aviles
-Feb 18,home,Virginia Peninsula,L,6-5,6,5,1,win,20230218_judn,0,0,0,0,0.1,1,0,0,0.00,1,0,0,2023,2022-23,div3,Monroe College - Bronx,monroecollegebronx,emmanuelavilesddmc,Emmanuel Aviles
+May 12,home,Suffolk County,W,29-18,29,18,11,win,20230512_1b48,0,0,0,0,3.2,2,1,1,2.45,1,4,1,2023,2022-23,div3,Monroe College - Bronx,monroecollegebronx,emmanuelavilesddmc,Emmanuel Aviles
+May 7,home,RCSJ Gloucester,L,26-1,26,1,25,win,20230507_0pgw,0,0,0,0,1.0,1,1,1,9.00,1,1,0,2023,2022-23,div3,Monroe College - Bronx,monroecollegebronx,emmanuelavilesddmc,Emmanuel Aviles
+May 3,home,Middlesex College,W,16-15,16,15,1,win,20230503_vuat,0,0,0,0,2.1,3,1,1,3.86,3,1,0,2023,2022-23,div3,Monroe College - Bronx,monroecollegebronx,emmanuelavilesddmc,Emmanuel Aviles
+Apr 22,home,Bronx,W,9-8,9,8,1,win,20230422_iox1,0,1,0,0,2.0,,2,2,9.00,4,4,,2023,2022-23,div3,Monroe College - Bronx,monroecollegebronx,emmanuelavilesddmc,Emmanuel Aviles
+Apr 14,home,Kingsborough,W,18-17,18,17,1,win,20230414_gldh,0,0,0,0,2.0,5,6,3,13.50,,4,1,2023,2022-23,div3,Monroe College - Bronx,monroecollegebronx,emmanuelavilesddmc,Emmanuel Aviles
+Apr 12,home,Kingsborough,W,7-2,7,2,5,win,20230412_pn92,0,0,0,0,1.0,,,,0.00,1,2,,2023,2022-23,div3,Monroe College - Bronx,monroecollegebronx,emmanuelavilesddmc,Emmanuel Aviles
+Apr 7,home,Suffolk County,W,10-9,10,9,1,win,20230407_71p2,0,0,0,0,1.0,2,4,4,36.00,4,3,,2023,2022-23,div3,Monroe College - Bronx,monroecollegebronx,emmanuelavilesddmc,Emmanuel Aviles
+Apr 4,home,Suffolk County,L,8-6,8,6,2,win,20230404_yg4o,0,0,0,0,0.1,,,,0.00,,1,,2023,2022-23,div3,Monroe College - Bronx,monroecollegebronx,emmanuelavilesddmc,Emmanuel Aviles
+Mar 31,home,Dutchess,W,4-2,4,2,2,win,20230331_9bmh,0,0,0,1,1.0,,,,0.00,1,1,,2023,2022-23,div3,Monroe College - Bronx,monroecollegebronx,emmanuelavilesddmc,Emmanuel Aviles
+Mar 28,home,Hudson Valley,W,8-7,8,7,1,win,20230328_sshm,0,0,0,1,1.0,,,,0.00,,,,2023,2022-23,div3,Monroe College - Bronx,monroecollegebronx,emmanuelavilesddmc,Emmanuel Aviles
+Mar 24,home,Nassau,W,10-9,10,9,1,win,20230324_m6gx,0,0,0,0,2.0,2,2,2,9.00,5,3,,2023,2022-23,div3,Monroe College - Bronx,monroecollegebronx,emmanuelavilesddmc,Emmanuel Aviles
+Mar 12,home,Anne Arundel,W,5-3,5,3,2,win,20230312_9qnt,0,0,0,1,1.0,,,,0.00,1,1,,2023,2022-23,div3,Monroe College - Bronx,monroecollegebronx,emmanuelavilesddmc,Emmanuel Aviles
+Mar 9,home,Cecil,W,12-9,12,9,3,win,20230309_y3e0,0,1,0,0,3.0,1,,,0.00,,3,,2023,2022-23,div3,Monroe College - Bronx,monroecollegebronx,emmanuelavilesddmc,Emmanuel Aviles
+Feb 23,home,Montgomery,L,3-2,3,2,1,win,20230223_a8bj,0,0,1,0,2.0,2,1,1,4.50,1,1,,2023,2022-23,div3,Monroe College - Bronx,monroecollegebronx,emmanuelavilesddmc,Emmanuel Aviles
+Feb 19,home,Virginia Peninsula,L,12-6,12,6,6,win,20230219_sqeh,0,0,0,0,2.1,4,5,5,19.29,4,1,0,2023,2022-23,div3,Monroe College - Bronx,monroecollegebronx,emmanuelavilesddmc,Emmanuel Aviles

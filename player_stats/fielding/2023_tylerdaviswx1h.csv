@@ -1,4 +1,52 @@
 date,location,opponent,result,score,team_score,opp_score,game_score_diff,game_win_loss,game_id,TC,PO,A,E,FPCT,DP,SBA,RCS,RCS_PCT,PB,CI,season,njcaa_season,njcaa_division,team,team_id,player_id,player_name
-Feb 21,home,Eastern Oklahoma State,L,8-3,8,3,5,win,20230221_bklt,0,0,0,0,1.0,3,2,2,18.00,1,2,2023,2022-23,div2,UA Rich Mountain,uarichmountain,tylerdaviswx1h,Tyler Davis
-Mar 5,home,Mineral Area,L,16-3,16,3,13,win,20230305_ntdb,0,0,0,0,1.0,4,3,3,27.00,,1,2023,2022-23,div2,UA Rich Mountain,uarichmountain,tylerdaviswx1h,Tyler Davis
-Mar 14,home,Seminole State (OK),L,20-7,20,7,13,win,20230314_idit,0,0,0,0,1.0,,,,0.00,,,2023,2022-23,div2,UA Rich Mountain,uarichmountain,tylerdaviswx1h,Tyler Davis
+Mar 9,home,Chandler-Gilbert,W,8-7,8,7,1,win,20230309_h23z,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div2,UA Rich Mountain,uarichmountain,tylerdaviswx1h,Tyler Davis
+Mar 9,home,Chandler-Gilbert,W,3-2,3,2,1,win,20230309_n3mt,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div2,UA Rich Mountain,uarichmountain,tylerdaviswx1h,Tyler Davis
+Mar 10,home,Mesa,W,17-5,17,5,12,win,20230310_iri9,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div2,UA Rich Mountain,uarichmountain,tylerdaviswx1h,Tyler Davis
+Mar 11,home,Williston State,W,4-1,4,1,3,win,20230311_mqk3,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div2,UA Rich Mountain,uarichmountain,tylerdaviswx1h,Tyler Davis
+Mar 12,home,Western Nebraska,W,6-5,6,5,1,win,20230312_en1f,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div2,UA Rich Mountain,uarichmountain,tylerdaviswx1h,Tyler Davis
+Mar 14,home,Glendale,L,2-1,2,1,1,win,20230314_948z,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div2,UA Rich Mountain,uarichmountain,tylerdaviswx1h,Tyler Davis
+Mar 14,home,Glendale,L,6-2,6,2,4,win,20230314_10zg,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div2,UA Rich Mountain,uarichmountain,tylerdaviswx1h,Tyler Davis
+Mar 17,home,GateWay (AZ),W,6-1,6,1,5,win,20230317_fqxd,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div2,UA Rich Mountain,uarichmountain,tylerdaviswx1h,Tyler Davis
+Mar 24,home,Morton,W,11-1,11,1,10,win,20230324_0y54,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div2,UA Rich Mountain,uarichmountain,tylerdaviswx1h,Tyler Davis
+Mar 26,home,Carl Sandburg,W,9-0,9,0,9,win,20230326_b4tp,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div2,UA Rich Mountain,uarichmountain,tylerdaviswx1h,Tyler Davis
+Mar 26,home,Carl Sandburg,L,13-12,13,12,1,win,20230326_m5zi,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div2,UA Rich Mountain,uarichmountain,tylerdaviswx1h,Tyler Davis
+Mar 29,home,Lake County,W,9-3,9,3,6,win,20230329_ye7x,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div2,UA Rich Mountain,uarichmountain,tylerdaviswx1h,Tyler Davis
+Mar 30,home,Highland (IL),W,10-9,10,9,1,win,20230330_4udi,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div2,UA Rich Mountain,uarichmountain,tylerdaviswx1h,Tyler Davis
+Apr 2,home,Elgin,W,13-3,13,3,10,win,20230402_zb1i,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div2,UA Rich Mountain,uarichmountain,tylerdaviswx1h,Tyler Davis
+Apr 2,home,Elgin,W,11-0,11,0,11,win,20230402_chai,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div2,UA Rich Mountain,uarichmountain,tylerdaviswx1h,Tyler Davis
+Apr 6,home,Rock Valley,W,14-4,14,4,10,win,20230406_qn0c,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div2,UA Rich Mountain,uarichmountain,tylerdaviswx1h,Tyler Davis
+Apr 7,home,Waubonsee,W,9-5,9,5,4,win,20230407_pewu,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div2,UA Rich Mountain,uarichmountain,tylerdaviswx1h,Tyler Davis
+Apr 7,home,Waubonsee,W,7-1,7,1,6,win,20230407_xvs5,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div2,UA Rich Mountain,uarichmountain,tylerdaviswx1h,Tyler Davis
+Apr 8,home,Milwaukee Area Tech,W,11-7,11,7,4,win,20230408_amc1,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div2,UA Rich Mountain,uarichmountain,tylerdaviswx1h,Tyler Davis
+Apr 8,home,Milwaukee Area Tech,W,11-2,11,2,9,win,20230408_rh2v,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div2,UA Rich Mountain,uarichmountain,tylerdaviswx1h,Tyler Davis
+Apr 10,home,Rock Valley,W,14-2,14,2,12,win,20230410_tkgf,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div2,UA Rich Mountain,uarichmountain,tylerdaviswx1h,Tyler Davis
+Apr 11,home,Bryant & Stratton College (WI),L,10-0,10,0,10,win,20230411_oi2s,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div2,UA Rich Mountain,uarichmountain,tylerdaviswx1h,Tyler Davis
+Apr 12,home,Bryant & Stratton College (WI),L,3-2,3,2,1,win,20230412_try2,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div2,UA Rich Mountain,uarichmountain,tylerdaviswx1h,Tyler Davis
+Apr 13,home,Sauk Valley,W,11-10,11,10,1,win,20230413_jcen,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div2,UA Rich Mountain,uarichmountain,tylerdaviswx1h,Tyler Davis
+Apr 15,home,Kankakee,W,14-5,14,5,9,win,20230415_3puh,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div2,UA Rich Mountain,uarichmountain,tylerdaviswx1h,Tyler Davis
+Apr 15,home,Kankakee,L,7-4,7,4,3,win,20230415_xb6k,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div2,UA Rich Mountain,uarichmountain,tylerdaviswx1h,Tyler Davis
+Apr 21,home,Carl Sandburg,W,2-1,2,1,1,win,20230421_0h1r,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div2,UA Rich Mountain,uarichmountain,tylerdaviswx1h,Tyler Davis
+Apr 21,home,Carl Sandburg,W,8-3,8,3,5,win,20230421_mc9d,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div2,UA Rich Mountain,uarichmountain,tylerdaviswx1h,Tyler Davis
+Apr 23,home,Triton,W,4-3,4,3,1,win,20230423_a9wq,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div2,UA Rich Mountain,uarichmountain,tylerdaviswx1h,Tyler Davis
+Apr 23,home,Triton,W,5-4,5,4,1,win,20230423_fthi,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div2,UA Rich Mountain,uarichmountain,tylerdaviswx1h,Tyler Davis
+Apr 24,home,Harper,W,14-9,14,9,5,win,20230424_n50w,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div2,UA Rich Mountain,uarichmountain,tylerdaviswx1h,Tyler Davis
+Apr 24,home,Harper,W,8-3,8,3,5,win,20230424_76zb,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div2,UA Rich Mountain,uarichmountain,tylerdaviswx1h,Tyler Davis
+Apr 25,home,Lake County,L,7-3,7,3,4,win,20230425_x2y3,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div2,UA Rich Mountain,uarichmountain,tylerdaviswx1h,Tyler Davis
+Apr 26,home,McHenry County,L,6-1,6,1,5,win,20230426_ds8t,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div2,UA Rich Mountain,uarichmountain,tylerdaviswx1h,Tyler Davis
+Apr 27,home,McHenry County,W,10-2,10,2,8,win,20230427_ivpg,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div2,UA Rich Mountain,uarichmountain,tylerdaviswx1h,Tyler Davis
+Apr 29,home,Joliet,W,3-2,3,2,1,win,20230429_ab2b,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div2,UA Rich Mountain,uarichmountain,tylerdaviswx1h,Tyler Davis
+Apr 29,home,Joliet,L,5-1,5,1,4,win,20230429_7m6s,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div2,UA Rich Mountain,uarichmountain,tylerdaviswx1h,Tyler Davis
+May 1,home,Black Hawk-Moline,W,13-5,13,5,8,win,20230501_xuhv,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div2,UA Rich Mountain,uarichmountain,tylerdaviswx1h,Tyler Davis
+May 1,home,Black Hawk-Moline,L,8-1,8,1,7,win,20230501_jxaf,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div2,UA Rich Mountain,uarichmountain,tylerdaviswx1h,Tyler Davis
+May 4,home,DuPage,W,10-4,10,4,6,win,20230504_zayw,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div2,UA Rich Mountain,uarichmountain,tylerdaviswx1h,Tyler Davis
+May 4,home,DuPage,W,11-5,11,5,6,win,20230504_zzuc,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div2,UA Rich Mountain,uarichmountain,tylerdaviswx1h,Tyler Davis
+May 5,home,Kishwaukee,W,20-2,20,2,18,win,20230505_p16e,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div2,UA Rich Mountain,uarichmountain,tylerdaviswx1h,Tyler Davis
+May 6,home,South Suburban,W,8-4,8,4,4,win,20230506_p1z7,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div2,UA Rich Mountain,uarichmountain,tylerdaviswx1h,Tyler Davis
+May 6,home,South Suburban,W,8-7,8,7,1,win,20230506_wv2x,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div2,UA Rich Mountain,uarichmountain,tylerdaviswx1h,Tyler Davis
+May 7,home,Oakton,W,10-2,10,2,8,win,20230507_a5j9,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div2,UA Rich Mountain,uarichmountain,tylerdaviswx1h,Tyler Davis
+May 12,home,Lake County,W,11-2,11,2,9,win,20230512_s33f,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div2,UA Rich Mountain,uarichmountain,tylerdaviswx1h,Tyler Davis
+May 12,home,Elgin,W,12-1,12,1,11,win,20230512_pxz0,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div2,UA Rich Mountain,uarichmountain,tylerdaviswx1h,Tyler Davis
+May 13,home,Elgin,W,8-0,8,0,8,win,20230513_w2b0,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div2,UA Rich Mountain,uarichmountain,tylerdaviswx1h,Tyler Davis
+May 18,home,Kankakee,W,2-1,2,1,1,win,20230518_we8j,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div2,UA Rich Mountain,uarichmountain,tylerdaviswx1h,Tyler Davis
+May 19,home,McHenry County,W,7-4,7,4,3,win,20230519_wsq1,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div2,UA Rich Mountain,uarichmountain,tylerdaviswx1h,Tyler Davis
+May 20,home,McHenry County,W,14-8,14,8,6,win,20230520_zxy7,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div2,UA Rich Mountain,uarichmountain,tylerdaviswx1h,Tyler Davis

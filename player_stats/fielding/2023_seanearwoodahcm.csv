@@ -1,11 +1,31 @@
 date,location,opponent,result,score,team_score,opp_score,game_score_diff,game_win_loss,game_id,TC,PO,A,E,FPCT,DP,SBA,RCS,RCS_PCT,PB,CI,season,njcaa_season,njcaa_division,team,team_id,player_id,player_name
-Mar 10  #,home,Ontario Royals College Prep,L,9-3,9,3,6,win,20230310_xnsz,1,0,0,0,2.0,0,4,4,18.00,6,2,2023,2022-23,div3,Waubonsee,waubonseecommunitycollege,seanearwoodahcm,Sean Earwood
-Mar 17  #,home,Ohio Northern University JV,W,12-2,12,2,10,win,20230317_cgq9,0,0,0,0,3.0,1,1,1,3.00,1,3,2023,2022-23,div3,Waubonsee,waubonseecommunitycollege,seanearwoodahcm,Sean Earwood
-Mar 30,home,Sauk Valley,L,9-6,9,6,3,win,20230330_kqzo,0,0,0,0,2.0,2,1,,0.00,3,2,2023,2022-23,div3,Waubonsee,waubonseecommunitycollege,seanearwoodahcm,Sean Earwood
-Apr 3,home,Oakton,W,10-2,10,2,8,win,20230403_tuaw,0,0,0,0,2.0,4,,,0.00,,3,2023,2022-23,div3,Waubonsee,waubonseecommunitycollege,seanearwoodahcm,Sean Earwood
-Apr 8,home,Elgin,W,9-3,9,3,6,win,20230408_lwgh,0,1,0,0,3.1,,,,0.00,1,4,2023,2022-23,div3,Waubonsee,waubonseecommunitycollege,seanearwoodahcm,Sean Earwood
-Apr 12,home,Kankakee,L,9-7,9,7,2,win,20230412_p093,0,0,0,0,2.0,2,5,,0.00,3,,2023,2022-23,div3,Waubonsee,waubonseecommunitycollege,seanearwoodahcm,Sean Earwood
-Apr 25,home,Milwaukee Area Tech,L,11-1,11,1,10,win,20230425_igu0,1,0,1,0,2.1,6,9,4,15.43,4,1,2023,2022-23,div3,Waubonsee,waubonseecommunitycollege,seanearwoodahcm,Sean Earwood
-May 3,home,Morton,W,10-9,10,9,1,win,20230503_a30i,0,0,0,0,0.1,1,1,,0.00,,1,2023,2022-23,div3,Waubonsee,waubonseecommunitycollege,seanearwoodahcm,Sean Earwood
-May 4,home,Kankakee,L,5-2,5,2,3,win,20230504_f93p,0,0,1,0,2.0,3,2,2,9.00,1,,2023,2022-23,div3,Waubonsee,waubonseecommunitycollege,seanearwoodahcm,Sean Earwood
-May 5,home,Harper,L,13-11,13,11,2,win,20230505_3oha,0,0,0,0,3.0,3,,,0.00,2,4,2023,2022-23,div3,Waubonsee,waubonseecommunitycollege,seanearwoodahcm,Sean Earwood
+Mar 7,home,Colby-Sawyer College,L,11-7,11,7,4,win,20230307_d087,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div3,Waubonsee,waubonseecommunitycollege,seanearwoodahcm,Sean Earwood
+Mar 12,home,New Hampshire Technical Institute,W,8-0,8,0,8,win,20230312_dqh8,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div3,Waubonsee,waubonseecommunitycollege,seanearwoodahcm,Sean Earwood
+Mar 12,home,New Hampshire Technical Institute,W,9-3,9,3,6,win,20230312_w5hf,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div3,Waubonsee,waubonseecommunitycollege,seanearwoodahcm,Sean Earwood
+Mar 19,home,Quincy College,W,8-7,8,7,1,win,20230319_n65m,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div3,Waubonsee,waubonseecommunitycollege,seanearwoodahcm,Sean Earwood
+Mar 19,home,Quincy College,W,23-3,23,3,20,win,20230319_m4cz,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div3,Waubonsee,waubonseecommunitycollege,seanearwoodahcm,Sean Earwood
+Mar 23,home,Quinsigamond,W,17-1,17,1,16,win,20230323_7oaq,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div3,Waubonsee,waubonseecommunitycollege,seanearwoodahcm,Sean Earwood
+Mar 26,home,Quinsigamond,W,5-4,5,4,1,win,20230326_8ns5,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div3,Waubonsee,waubonseecommunitycollege,seanearwoodahcm,Sean Earwood
+Mar 26,home,Quinsigamond,W,15-10,15,10,5,win,20230326_qrvm,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div3,Waubonsee,waubonseecommunitycollege,seanearwoodahcm,Sean Earwood
+Mar 28,home,UConn Avery Point,L,10-0,10,0,10,win,20230328_9hem,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div3,Waubonsee,waubonseecommunitycollege,seanearwoodahcm,Sean Earwood
+Mar 30,home,Quincy College,W,10-0,10,0,10,win,20230330_a48e,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div3,Waubonsee,waubonseecommunitycollege,seanearwoodahcm,Sean Earwood
+Apr 2,home,Quincy College,W,12-9,12,9,3,win,20230402_erm9,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div3,Waubonsee,waubonseecommunitycollege,seanearwoodahcm,Sean Earwood
+Apr 2,home,Quincy College,W,15-2,15,2,13,win,20230402_8qks,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div3,Waubonsee,waubonseecommunitycollege,seanearwoodahcm,Sean Earwood
+Apr 6,home,Roxbury,W,11-0,11,0,11,win,20230406_m4bx,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div3,Waubonsee,waubonseecommunitycollege,seanearwoodahcm,Sean Earwood
+Apr 8,home,Roxbury,W,28-4,28,4,24,win,20230408_awyt,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div3,Waubonsee,waubonseecommunitycollege,seanearwoodahcm,Sean Earwood
+Apr 8,home,Roxbury,W,20-1,20,1,19,win,20230408_etni,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div3,Waubonsee,waubonseecommunitycollege,seanearwoodahcm,Sean Earwood
+Apr 11,home,UConn Avery Point,L,7-2,7,2,5,win,20230411_37gt,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div3,Waubonsee,waubonseecommunitycollege,seanearwoodahcm,Sean Earwood
+Apr 13,home,Bunker Hill,W,18-0,18,0,18,win,20230413_9l37,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div3,Waubonsee,waubonseecommunitycollege,seanearwoodahcm,Sean Earwood
+Apr 15,home,Bunker Hill,W,21-7,21,7,14,win,20230415_9gn0,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div3,Waubonsee,waubonseecommunitycollege,seanearwoodahcm,Sean Earwood
+Apr 15,home,Bunker Hill,W,30-0,30,0,30,win,20230415_7du6,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div3,Waubonsee,waubonseecommunitycollege,seanearwoodahcm,Sean Earwood
+Apr 18,home,Southern Maine Community College,L,15-10,15,10,5,win,20230418_bckn,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div3,Waubonsee,waubonseecommunitycollege,seanearwoodahcm,Sean Earwood
+Apr 20,home,Holyoke,W,12-8,12,8,4,win,20230420_wtgb,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div3,Waubonsee,waubonseecommunitycollege,seanearwoodahcm,Sean Earwood
+Apr 22,home,Holyoke,W,12-2,12,2,10,win,20230422_ctgc,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div3,Waubonsee,waubonseecommunitycollege,seanearwoodahcm,Sean Earwood
+Apr 22,home,Holyoke,W,4-1,4,1,3,win,20230422_k72j,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div3,Waubonsee,waubonseecommunitycollege,seanearwoodahcm,Sean Earwood
+Apr 27,home,Northern Essex,L,12-2,12,2,10,win,20230427_d9d0,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div3,Waubonsee,waubonseecommunitycollege,seanearwoodahcm,Sean Earwood
+Apr 28,home,Northern Essex,L,15-5,15,5,10,win,20230428_zowm,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div3,Waubonsee,waubonseecommunitycollege,seanearwoodahcm,Sean Earwood
+Apr 28,home,Northern Essex,L,6-5,6,5,1,win,20230428_mpbd,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div3,Waubonsee,waubonseecommunitycollege,seanearwoodahcm,Sean Earwood
+May 4,home,Rhode Island,W,3-2,3,2,1,win,20230504_b0l6,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div3,Waubonsee,waubonseecommunitycollege,seanearwoodahcm,Sean Earwood
+May 4,home,Rhode Island,L,18-6,18,6,12,win,20230504_cd8l,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div3,Waubonsee,waubonseecommunitycollege,seanearwoodahcm,Sean Earwood
+May 6,home,Rhode Island,L,10-0,10,0,10,win,20230506_7dkh,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div3,Waubonsee,waubonseecommunitycollege,seanearwoodahcm,Sean Earwood
+May 11,home,Rhode Island,L,10-6,10,6,4,win,20230511_d22t,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div3,Waubonsee,waubonseecommunitycollege,seanearwoodahcm,Sean Earwood
