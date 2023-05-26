@@ -1,11 +1,47 @@
 date,location,opponent,result,score,team_score,opp_score,game_score_diff,game_win_loss,game_id,GS,W,L,SV,IP,H,R,ER,ERA,BB,K,HR,season,njcaa_season,njcaa_division,team,team_id,player_id,player_name
-Apr 25,home,CCBC Dundalk,T,12-12,12,12,0,tie,20230425_sco5,0,0,0,0,1.0,,,,0.00,2,,,2023,2022-23,div1,Harford,harfordcommunitycollege,jasonskeenr6vt,Jason Skeen
-Apr 23,home,CCBC Dundalk,W,10-0,10,0,10,win,20230423_eqeg,0,1,0,0,1.0,,,,0.00,,1,,2023,2022-23,div1,Harford,harfordcommunitycollege,jasonskeenr6vt,Jason Skeen
-Apr 18,home,Southern Maryland,W,13-3,13,3,10,win,20230418_8cm4,0,0,0,0,1.0,1,2,2,18.00,4,1,,2023,2022-23,div1,Harford,harfordcommunitycollege,jasonskeenr6vt,Jason Skeen
-Apr 12,home,RCSJ Gloucester,L,12-2,12,2,10,win,20230412_f7k0,0,0,0,0,1.0,1,,,0.00,2,,,2023,2022-23,div1,Harford,harfordcommunitycollege,jasonskeenr6vt,Jason Skeen
-Apr 4,home,Frederick,W,9-8,9,8,1,win,20230404_klxm,0,0,0,0,1.2,2,2,2,10.80,2,3,1,2023,2022-23,div1,Harford,harfordcommunitycollege,jasonskeenr6vt,Jason Skeen
-Mar 31,home,Chesapeake,W,6-4,6,4,2,win,20230331_rrvn,0,0,0,1,2.0,,,,0.00,2,1,,2023,2022-23,div1,Harford,harfordcommunitycollege,jasonskeenr6vt,Jason Skeen
-Mar 21,home,Prince George's,W,9-0,9,0,9,win,20230321_6l2g,0,0,0,0,2.0,,,,0.00,1,2,,2023,2022-23,div1,Harford,harfordcommunitycollege,jasonskeenr6vt,Jason Skeen
-Mar 16,home,Sullivan County,W,29-5,29,5,24,win,20230316_f9dk,0,0,0,1,1.0,1,,,0.00,,,,2023,2022-23,div1,Harford,harfordcommunitycollege,jasonskeenr6vt,Jason Skeen
-Mar 4,home,Delaware Tech,W,15-5,15,5,10,win,20230304_evz4,0,0,0,0,0.0,1,1,1,INF,3,,,2023,2022-23,div1,Harford,harfordcommunitycollege,jasonskeenr6vt,Jason Skeen
-Feb 21,home,USC Sumter,L,14-9,14,9,5,win,20230221_xhag,0,0,0,0,1.0,1,1,0,0.00,1,1,0,2023,2022-23,div1,Harford,harfordcommunitycollege,jasonskeenr6vt,Jason Skeen
+May 13,home,Gaston College,L,8-7,8,7,1,win,20230513_kgng,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div1,Harford,harfordcommunitycollege,jasonskeenr6vt,Jason Skeen
+May 13,home,Potomac State,W,5-0,5,0,5,win,20230513_hy6f,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div1,Harford,harfordcommunitycollege,jasonskeenr6vt,Jason Skeen
+May 12,home,Florence-Darlington Tech,L,6-5,6,5,1,win,20230512_rb59,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div1,Harford,harfordcommunitycollege,jasonskeenr6vt,Jason Skeen
+May 7,home,Potomac State,W,16-5,16,5,11,win,20230507_ovep,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div1,Harford,harfordcommunitycollege,jasonskeenr6vt,Jason Skeen
+May 6,home,Potomac State,W,9-6,9,6,3,win,20230506_d9yx,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div1,Harford,harfordcommunitycollege,jasonskeenr6vt,Jason Skeen
+May 5,home,Hagerstown,W,11-6,11,6,5,win,20230505_f5r3,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div1,Harford,harfordcommunitycollege,jasonskeenr6vt,Jason Skeen
+Apr 29,home,Hagerstown,W,8-2,8,2,6,win,20230429_n7uv,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div1,Harford,harfordcommunitycollege,jasonskeenr6vt,Jason Skeen
+Apr 29,home,Hagerstown,W,11-1,11,1,10,win,20230429_qacl,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div1,Harford,harfordcommunitycollege,jasonskeenr6vt,Jason Skeen
+Apr 25,home,CCBC Dundalk,T,12-12,12,12,0,tie,20230425_sco5,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div1,Harford,harfordcommunitycollege,jasonskeenr6vt,Jason Skeen
+Apr 25,home,CCBC Dundalk,L,5-4,5,4,1,win,20230425_fq2i,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div1,Harford,harfordcommunitycollege,jasonskeenr6vt,Jason Skeen
+Apr 23,home,CCBC Dundalk,W,10-0,10,0,10,win,20230423_eqeg,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div1,Harford,harfordcommunitycollege,jasonskeenr6vt,Jason Skeen
+Apr 20,home,RCSJ Gloucester,L,17-11,17,11,6,win,20230420_6iiw,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div1,Harford,harfordcommunitycollege,jasonskeenr6vt,Jason Skeen
+Apr 18,home,Southern Maryland,W,13-3,13,3,10,win,20230418_8cm4,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div1,Harford,harfordcommunitycollege,jasonskeenr6vt,Jason Skeen
+Apr 16,home,Monroe College,W,7-4,7,4,3,win,20230416_wz0w,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div1,Harford,harfordcommunitycollege,jasonskeenr6vt,Jason Skeen
+Apr 16,home,Monroe College,W,20-2,20,2,18,win,20230416_s0f3,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div1,Harford,harfordcommunitycollege,jasonskeenr6vt,Jason Skeen
+Apr 15,home,Monroe College,L,14-6,14,6,8,win,20230415_57yz,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div1,Harford,harfordcommunitycollege,jasonskeenr6vt,Jason Skeen
+Apr 12,home,RCSJ Gloucester,L,12-2,12,2,10,win,20230412_f7k0,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div1,Harford,harfordcommunitycollege,jasonskeenr6vt,Jason Skeen
+Apr 11,home,Montgomery,W,4-3,4,3,1,win,20230411_8ip2,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div1,Harford,harfordcommunitycollege,jasonskeenr6vt,Jason Skeen
+Apr 11,home,Montgomery,W,17-1,17,1,16,win,20230411_8ar9,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div1,Harford,harfordcommunitycollege,jasonskeenr6vt,Jason Skeen
+Apr 8,home,Potomac State,W,7-6,7,6,1,win,20230408_944m,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div1,Harford,harfordcommunitycollege,jasonskeenr6vt,Jason Skeen
+Apr 8,home,Potomac State,W,8-4,8,4,4,win,20230408_abv4,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div1,Harford,harfordcommunitycollege,jasonskeenr6vt,Jason Skeen
+Apr 4,home,Frederick,W,14-9,14,9,5,win,20230404_xog3,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div1,Harford,harfordcommunitycollege,jasonskeenr6vt,Jason Skeen
+Apr 4,home,Frederick,W,9-8,9,8,1,win,20230404_klxm,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div1,Harford,harfordcommunitycollege,jasonskeenr6vt,Jason Skeen
+Apr 2,home,CCBC Catonsville,L,5-3,5,3,2,win,20230402_weqp,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div1,Harford,harfordcommunitycollege,jasonskeenr6vt,Jason Skeen
+Apr 2,home,CCBC Catonsville,W,7-0,7,0,7,win,20230402_1fd1,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div1,Harford,harfordcommunitycollege,jasonskeenr6vt,Jason Skeen
+Mar 31,home,Chesapeake,W,7-1,7,1,6,win,20230331_kb0g,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div1,Harford,harfordcommunitycollege,jasonskeenr6vt,Jason Skeen
+Mar 28,home,Cecil,W,11-6,11,6,5,win,20230328_0ad2,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div1,Harford,harfordcommunitycollege,jasonskeenr6vt,Jason Skeen
+Mar 26,home,Mercer County,L,13-11,13,11,2,win,20230326_gy63,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div1,Harford,harfordcommunitycollege,jasonskeenr6vt,Jason Skeen
+Mar 26,home,Mercer County,L,11-3,11,3,8,win,20230326_ydfk,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div1,Harford,harfordcommunitycollege,jasonskeenr6vt,Jason Skeen
+Mar 21,home,Prince George's,W,7-3,7,3,4,win,20230321_xsmx,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div1,Harford,harfordcommunitycollege,jasonskeenr6vt,Jason Skeen
+Mar 17,home,RCSJ Gloucester,L,13-2,13,2,11,win,20230317_9ysk,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div1,Harford,harfordcommunitycollege,jasonskeenr6vt,Jason Skeen
+Mar 16,home,Sullivan County,W,29-5,29,5,24,win,20230316_f9dk,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div1,Harford,harfordcommunitycollege,jasonskeenr6vt,Jason Skeen
+Mar 12,home,Monroe College,L,3-2,3,2,1,win,20230312_t2h0,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div1,Harford,harfordcommunitycollege,jasonskeenr6vt,Jason Skeen
+Mar 12,home,Monroe College,L,2-1,2,1,1,win,20230312_vkxc,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div1,Harford,harfordcommunitycollege,jasonskeenr6vt,Jason Skeen
+Mar 7,home,CCBC Essex,L,7-4,7,4,3,win,20230307_ob23,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div1,Harford,harfordcommunitycollege,jasonskeenr6vt,Jason Skeen
+Mar 7,home,CCBC Essex,W,17-12,17,12,5,win,20230307_qhzq,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div1,Harford,harfordcommunitycollege,jasonskeenr6vt,Jason Skeen
+Mar 4,home,Delaware Tech,W,15-5,15,5,10,win,20230304_evz4,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div1,Harford,harfordcommunitycollege,jasonskeenr6vt,Jason Skeen
+Mar 4,home,Delaware Tech,W,6-5,6,5,1,win,20230304_dq8h,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div1,Harford,harfordcommunitycollege,jasonskeenr6vt,Jason Skeen
+Mar 2,home,Mercer County,W,4-3,4,3,1,win,20230302_e7vm,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div1,Harford,harfordcommunitycollege,jasonskeenr6vt,Jason Skeen
+Feb 28,home,Anne Arundel,W,10-7,10,7,3,win,20230228_728h,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div1,Harford,harfordcommunitycollege,jasonskeenr6vt,Jason Skeen
+Feb 28,home,Anne Arundel,W,11-7,11,7,4,win,20230228_8z13,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div1,Harford,harfordcommunitycollege,jasonskeenr6vt,Jason Skeen
+Feb 23,home,Lackawanna,L,10-6,10,6,4,win,20230223_dqbo,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div1,Harford,harfordcommunitycollege,jasonskeenr6vt,Jason Skeen
+Feb 21,home,USC Sumter,L,14-9,14,9,5,win,20230221_xhag,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div1,Harford,harfordcommunitycollege,jasonskeenr6vt,Jason Skeen
+Feb 19,home,Southeastern-Whiteville,L,3-2,3,2,1,win,20230219_0kn4,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div1,Harford,harfordcommunitycollege,jasonskeenr6vt,Jason Skeen
+Feb 19,home,Florence-Darlington Tech,L,5-2,5,2,3,win,20230219_cz14,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div1,Harford,harfordcommunitycollege,jasonskeenr6vt,Jason Skeen
+Feb 18,home,Southeastern-Whiteville,W,12-10,12,10,2,win,20230218_0zkt,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div1,Harford,harfordcommunitycollege,jasonskeenr6vt,Jason Skeen

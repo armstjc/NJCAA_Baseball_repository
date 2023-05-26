@@ -1,18 +1,10 @@
 date,location,opponent,result,score,team_score,opp_score,game_score_diff,game_win_loss,game_id,TC,PO,A,E,FPCT,DP,SBA,RCS,RCS_PCT,PB,CI,season,njcaa_season,njcaa_division,team,team_id,player_id,player_name
-Mar 7,home,King's College JV,W,17-5,17,5,12,win,20230307_oubh,0,0,0,0,1.0,,,,0.00,1,1,2023,2022-23,div2,Lehigh Carbon,lehighcarboncommunitycollege,seanriveraipvv,Sean Rivera
-Mar 12,home,RCSJ Gloucester,L,5-0,5,0,5,win,20230312_ludt,1,0,1,0,3.0,3,3,2,6.00,2,3,2023,2022-23,div2,Lehigh Carbon,lehighcarboncommunitycollege,seanriveraipvv,Sean Rivera
-Mar 18,home,Mercer County,L,12-2,12,2,10,win,20230318_fdmn,1,0,1,0,2.0,3,6,6,27.00,7,2,2023,2022-23,div2,Lehigh Carbon,lehighcarboncommunitycollege,seanriveraipvv,Sean Rivera
-Mar 26,home,Sussex County,L,8-2,8,2,6,win,20230326_4uyi,1,0,1,0,4.2,4,6,5,9.64,9,7,2023,2022-23,div2,Lehigh Carbon,lehighcarboncommunitycollege,seanriveraipvv,Sean Rivera
-Mar 31,home,Morris,L,11-1,11,1,10,win,20230331_khjo,0,0,0,0,1.2,3,4,4,21.60,4,2,2023,2022-23,div2,Lehigh Carbon,lehighcarboncommunitycollege,seanriveraipvv,Sean Rivera
-Apr 2,home,Morris,L,6-3,6,3,3,win,20230402_fucp,1,0,1,0,4.2,5,6,3,5.79,5,8,2023,2022-23,div2,Lehigh Carbon,lehighcarboncommunitycollege,seanriveraipvv,Sean Rivera
-Apr 4,home,Lackawanna,L,22-1,22,1,21,win,20230404_6tso,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div2,Lehigh Carbon,lehighcarboncommunitycollege,seanriveraipvv,Sean Rivera
-Apr 5,home,Lackawanna,L,17-5,17,5,12,win,20230405_4oir,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div2,Lehigh Carbon,lehighcarboncommunitycollege,seanriveraipvv,Sean Rivera
-Apr 5,home,Lackawanna,L,7-5,7,5,2,win,20230405_lsp4,0,0,0,0,1.0,,,,0.00,1,2,2023,2022-23,div2,Lehigh Carbon,lehighcarboncommunitycollege,seanriveraipvv,Sean Rivera
-Apr 10,home,Penn State Hazleton,W,14-9,14,9,5,win,20230410_1n4e,1,1,0,0,5.0,4,7,2,3.60,7,6,2023,2022-23,div2,Lehigh Carbon,lehighcarboncommunitycollege,seanriveraipvv,Sean Rivera
-Apr 14,home,Raritan Valley,W,16-11,16,11,5,win,20230414_urbx,0,0,0,0,1.0,,1,1,9.00,1,1,2023,2022-23,div2,Lehigh Carbon,lehighcarboncommunitycollege,seanriveraipvv,Sean Rivera
-Apr 16,home,Raritan Valley,W,9-1,9,1,8,win,20230416_u96i,1,1,0,0,7.0,5,1,1,1.29,3,8,2023,2022-23,div2,Lehigh Carbon,lehighcarboncommunitycollege,seanriveraipvv,Sean Rivera
-Apr 16,home,Raritan Valley,L,8-6,8,6,2,win,20230416_3pqo,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div2,Lehigh Carbon,lehighcarboncommunitycollege,seanriveraipvv,Sean Rivera
-Apr 18,home,Northampton,L,13-9,13,9,4,win,20230418_rhhq,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div2,Lehigh Carbon,lehighcarboncommunitycollege,seanriveraipvv,Sean Rivera
-Apr 22,home,Delaware Tech,L,24-1,24,1,23,win,20230422_b384,1,0,1,0,4.0,9,11,8,18.00,8,2,2023,2022-23,div2,Lehigh Carbon,lehighcarboncommunitycollege,seanriveraipvv,Sean Rivera
-Apr 22,home,Delaware Tech,L,11-7,11,7,4,win,20230422_5kqa,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div2,Lehigh Carbon,lehighcarboncommunitycollege,seanriveraipvv,Sean Rivera
-Apr 27,home,Montgomery County,W,5-3,5,3,2,win,20230427_mz7m,0,0,0,1,0.2,,,,0.00,,1,2023,2022-23,div2,Lehigh Carbon,lehighcarboncommunitycollege,seanriveraipvv,Sean Rivera
+Mar 6,home,Muskegon,W,19-9,19,9,10,win,20230306_oong,0,0,0,0,1.0,2,2,2,18.00,0,1,2023,2022-23,div2,Lehigh Carbon,lehighcarboncommunitycollege,seanriveraipvv,Sean Rivera
+Mar 13,home,RCSJ Cumberland,W,5-1,5,1,4,win,20230313_e7y2,0,1,0,0,3.1,1,0,0,0.00,0,3,2023,2022-23,div2,Lehigh Carbon,lehighcarboncommunitycollege,seanriveraipvv,Sean Rivera
+Mar 28,home,Parkland,W,17-3,17,3,14,win,20230328_m9qj,0,0,0,0,1.0,,,,0.00,2,1,2023,2022-23,div2,Lehigh Carbon,lehighcarboncommunitycollege,seanriveraipvv,Sean Rivera
+Apr 3,home,Lincoln Land,L,9-8,9,8,1,win,20230403_3hq1,0,0,1,0,0.0,1,2,2,INF,2,,2023,2022-23,div2,Lehigh Carbon,lehighcarboncommunitycollege,seanriveraipvv,Sean Rivera
+Apr 18,home,South Suburban,W,3-2,3,2,1,win,20230418_hhgx,0,1,0,0,2.0,1,,,0.00,,2,2023,2022-23,div2,Lehigh Carbon,lehighcarboncommunitycollege,seanriveraipvv,Sean Rivera
+Apr 28,home,Danville Area,W,11-1,11,1,10,win,20230428_dnur,0,0,0,0,1.0,2,1,1,9.00,,,2023,2022-23,div2,Lehigh Carbon,lehighcarboncommunitycollege,seanriveraipvv,Sean Rivera
+May 2,home,Lake Land,W,12-10,12,10,2,win,20230502_zkvp,0,0,0,0,2.0,3,0,0,0.00,2,2,2023,2022-23,div2,Lehigh Carbon,lehighcarboncommunitycollege,seanriveraipvv,Sean Rivera
+May 7,home,John Wood,W,24-11,24,11,13,win,20230507_987x,0,0,0,0,1.1,1,,,0.00,,1,2023,2022-23,div2,Lehigh Carbon,lehighcarboncommunitycollege,seanriveraipvv,Sean Rivera
+May 18,home,Lewis & Clark,W,10-2,10,2,8,win,20230518_2qgi,0,0,0,0,1.0,1,1,1,9.00,1,,2023,2022-23,div2,Lehigh Carbon,lehighcarboncommunitycollege,seanriveraipvv,Sean Rivera

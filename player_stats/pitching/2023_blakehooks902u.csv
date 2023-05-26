@@ -1,34 +1,3 @@
 date,location,opponent,result,score,team_score,opp_score,game_score_diff,game_win_loss,game_id,GS,W,L,SV,IP,H,R,ER,ERA,BB,K,HR,season,njcaa_season,njcaa_division,team,team_id,player_id,player_name
-May 16,home,LSU Eunice,L,6-4,6,4,2,win,20230516_syoa,0,0,0,0,1.0,3,2,2,18.00,1,,,2023,2022-23,div2,Pearl River,pearlrivercommunitycollege,blakehooks902u,Blake Hooks
-May 4,home,Southwest Mississippi,W,23-1,23,1,22,win,20230504_nb55,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div2,Pearl River,pearlrivercommunitycollege,blakehooks902u,Blake Hooks
-Apr 28,home,Northwest Mississippi,L,3-2,3,2,1,win,20230428_ktqy,0,0,0,0,0.2,2,1,0,0.00,2,1,,2023,2022-23,div2,Pearl River,pearlrivercommunitycollege,blakehooks902u,Blake Hooks
-Apr 25,home,Jones,L,6-5,6,5,1,win,20230425_kpa5,0,0,0,0,1.0,1,0,0,0.00,0,2,,2023,2022-23,div2,Pearl River,pearlrivercommunitycollege,blakehooks902u,Blake Hooks
-Apr 20,home,Spring Hill JV,W,12-1,12,1,11,win,20230420_mb4a,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div2,Pearl River,pearlrivercommunitycollege,blakehooks902u,Blake Hooks
-Apr 18,home,East Central (MS),L,8-7,8,7,1,win,20230418_jenc,0,0,0,0,1.0,2,2,2,18.00,,2,,2023,2022-23,div2,Pearl River,pearlrivercommunitycollege,blakehooks902u,Blake Hooks
-Apr 14,home,Coahoma,W,19-2,19,2,17,win,20230414_eni3,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div2,Pearl River,pearlrivercommunitycollege,blakehooks902u,Blake Hooks
-Apr 11,home,Mississippi Gulf Coast,W,5-1,5,1,4,win,20230411_lwi0,0,0,0,1,2.0,0,0,0,0.00,1,1,0,2023,2022-23,div2,Pearl River,pearlrivercommunitycollege,blakehooks902u,Blake Hooks
-Apr 8,home,East Mississippi,L,3-1,3,1,2,win,20230408_gxj5,0,0,0,0,0.1,1,,,0.00,,1,,2023,2022-23,div2,Pearl River,pearlrivercommunitycollege,blakehooks902u,Blake Hooks
-Apr 4,home,Copiah-Lincoln,W,10-4,10,4,6,win,20230404_a5is,0,0,0,1,3.0,3,2,2,6.00,0,3,0,2023,2022-23,div2,Pearl River,pearlrivercommunitycollege,blakehooks902u,Blake Hooks
-Apr 1,home,Holmes,W,12-1,12,1,11,win,20230401_9wcd,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div2,Pearl River,pearlrivercommunitycollege,blakehooks902u,Blake Hooks
-Mar 29,home,Hinds,L,6-3,6,3,3,win,20230329_si2k,0,0,0,0,2.2,4,2,1,3.38,1,1,,2023,2022-23,div2,Pearl River,pearlrivercommunitycollege,blakehooks902u,Blake Hooks
-Mar 25,home,Itawamba,L,12-11,12,11,1,win,20230325_tdv1,0,0,0,0,0.1,1,2,2,54.00,2,1,1,2023,2022-23,div2,Pearl River,pearlrivercommunitycollege,blakehooks902u,Blake Hooks
-Mar 21,home,Meridian,W,7-6,7,6,1,win,20230321_z315,0,0,0,0,2.2,3,1,1,3.38,1,2,0,2023,2022-23,div2,Pearl River,pearlrivercommunitycollege,blakehooks902u,Blake Hooks
-Mar 15,home,Southwest Mississippi,W,10-2,10,2,8,win,20230315_ldps,0,0,0,0,2.0,1,,,0.00,1,3,,2023,2022-23,div2,Pearl River,pearlrivercommunitycollege,blakehooks902u,Blake Hooks
-Mar 15,home,Southwest Mississippi,W,22-1,22,1,21,win,20230315_8pt2,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div2,Pearl River,pearlrivercommunitycollege,blakehooks902u,Blake Hooks
-Mar 11,home,Northeast Mississippi,W,6-4,6,4,2,win,20230311_pezn,0,0,0,0,1.2,1,1,1,5.40,2,3,0,2023,2022-23,div2,Pearl River,pearlrivercommunitycollege,blakehooks902u,Blake Hooks
-Mar 11,home,Northeast Mississippi,L,6-5,6,5,1,win,20230311_xeae,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div2,Pearl River,pearlrivercommunitycollege,blakehooks902u,Blake Hooks
-Mar 5,home,Baton Rouge,W,2-0,2,0,2,win,20230305_ydsk,0,0,0,1,2.2,0,0,0,0.00,1,4,0,2023,2022-23,div2,Pearl River,pearlrivercommunitycollege,blakehooks902u,Blake Hooks
-Mar 3,home,Baton Rouge,W,8-3,8,3,5,win,20230303_pi1j,0,1,0,0,2.2,,,,0.00,,3,,2023,2022-23,div2,Pearl River,pearlrivercommunitycollege,blakehooks902u,Blake Hooks
-Mar 3,home,Baton Rouge,W,10-2,10,2,8,win,20230303_4x6x,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div2,Pearl River,pearlrivercommunitycollege,blakehooks902u,Blake Hooks
-Mar 1,home,Mississippi Gulf Coast,W,3-2,3,2,1,win,20230301_7npi,0,0,0,1,0.1,,,,0.00,,1,,2023,2022-23,div2,Pearl River,pearlrivercommunitycollege,blakehooks902u,Blake Hooks
-Feb 25,home,Illinois Central,L,3-1,3,1,2,win,20230225_smdn,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div2,Pearl River,pearlrivercommunitycollege,blakehooks902u,Blake Hooks
-Feb 21,home,Meridian,W,10-1,10,1,9,win,20230221_u6n7,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div2,Pearl River,pearlrivercommunitycollege,blakehooks902u,Blake Hooks
-Feb 18,home,Pensacola State,L,7-6,7,6,1,win,20230218_0h5h,0,0,1,0,3.1,2,1,,0.00,,4,,2023,2022-23,div2,Pearl River,pearlrivercommunitycollege,blakehooks902u,Blake Hooks
-Feb 18,home,Coastal Alabama - Bay Minette,W,13-4,13,4,9,win,20230218_usjh,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div2,Pearl River,pearlrivercommunitycollege,blakehooks902u,Blake Hooks
-Feb 14,home,Coastal Alabama - Bay Minette,W,6-1,6,1,5,win,20230214_8075,0,0,0,0,0.1,,,,0.00,,1,,2023,2022-23,div2,Pearl River,pearlrivercommunitycollege,blakehooks902u,Blake Hooks
-Feb 10,home,Enterprise State,W,17-4,17,4,13,win,20230210_x50x,0,1,0,0,1.0,,,,0.00,,2,,2023,2022-23,div2,Pearl River,pearlrivercommunitycollege,blakehooks902u,Blake Hooks
-Feb 10,home,Enterprise State,W,11-1,11,1,10,win,20230210_mnlb,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div2,Pearl River,pearlrivercommunitycollege,blakehooks902u,Blake Hooks
-Feb 5,home,Wharton County,W,11-7,11,7,4,win,20230205_c7ye,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div2,Pearl River,pearlrivercommunitycollege,blakehooks902u,Blake Hooks
-Feb 5,home,Wharton County,W,8-3,8,3,5,win,20230205_2hi0,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div2,Pearl River,pearlrivercommunitycollege,blakehooks902u,Blake Hooks
-Feb 4,home,Wharton County,W,6-1,6,1,5,win,20230204_6tm9,0,0,0,0,2.0,,,,0.00,5,,,2023,2022-23,div2,Pearl River,pearlrivercommunitycollege,blakehooks902u,Blake Hooks
-Feb 4,home,Wharton County,W,6-2,6,2,4,win,20230204_3oje,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div2,Pearl River,pearlrivercommunitycollege,blakehooks902u,Blake Hooks
+Feb 28,home,Mid America Christian University Jv,W,24-7,24,7,17,win,20230228_4eu1,0,0,0,0,0.1,1,4,3,81.00,3,,,2023,2022-23,div2,Pearl River,pearlrivercommunitycollege,blakehooks902u,Blake Hooks
+Feb 21,home,Wayland Baptist JV,W,19-3,19,3,16,win,20230221_1w20,1,1,0,0,1.1,2,3,3,20.25,4,3,1,2023,2022-23,div2,Pearl River,pearlrivercommunitycollege,blakehooks902u,Blake Hooks

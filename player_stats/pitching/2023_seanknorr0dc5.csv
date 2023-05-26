@@ -1,15 +1,27 @@
 date,location,opponent,result,score,team_score,opp_score,game_score_diff,game_win_loss,game_id,GS,W,L,SV,IP,H,R,ER,ERA,BB,K,HR,season,njcaa_season,njcaa_division,team,team_id,player_id,player_name
-May 21,home,Lansing,L,16-8,16,8,8,win,20230521_k7pf,1,0,0,0,4.0,5,3,3,6.75,2,3,,2023,2022-23,div2,Kellogg,kelloggcommunitycollege,seanknorr0dc5,Sean Knorr
-May 18,home,Grand Rapids,W,8-4,8,4,4,win,20230518_y9ir,1,0,0,0,2.0,1,0,0,0.00,1,1,,2023,2022-23,div2,Kellogg,kelloggcommunitycollege,seanknorr0dc5,Sean Knorr
-May 11,home,Mid Michigan,W,5-0,5,0,5,win,20230511_c4zu,1,1,0,0,5.0,1,0,0,0.00,1,5,,2023,2022-23,div2,Kellogg,kelloggcommunitycollege,seanknorr0dc5,Sean Knorr
-May 4,home,Lansing,W,8-2,8,2,6,win,20230504_vjaa,1,1,0,0,6.0,6,3,0,0.00,4,7,,2023,2022-23,div2,Kellogg,kelloggcommunitycollege,seanknorr0dc5,Sean Knorr
-Apr 27,home,Lake Michigan,W,15-2,15,2,13,win,20230427_9ds8,1,1,0,0,4.0,2,2,2,4.50,5,7,,2023,2022-23,div2,Kellogg,kelloggcommunitycollege,seanknorr0dc5,Sean Knorr
-Apr 20,home,Glen Oaks,W,12-2,12,2,10,win,20230420_lq4s,1,0,0,0,3.0,4,2,2,6.00,0,4,,2023,2022-23,div2,Kellogg,kelloggcommunitycollege,seanknorr0dc5,Sean Knorr
-Apr 13,home,Marian-Ancilla,W,21-5,21,5,16,win,20230413_y0kd,1,1,0,0,3.0,4,3,2,6.00,0,8,,2023,2022-23,div2,Kellogg,kelloggcommunitycollege,seanknorr0dc5,Sean Knorr
-Apr 4,home,Jackson,W,16-6,16,6,10,win,20230404_7zst,0,0,0,0,1.0,3,2,2,18.00,,2,,2023,2022-23,div2,Kellogg,kelloggcommunitycollege,seanknorr0dc5,Sean Knorr
-Mar 27,home,Mott,W,11-3,11,3,8,win,20230327_4fip,0,0,0,0,1.0,,,,0.00,,2,,2023,2022-23,div2,Kellogg,kelloggcommunitycollege,seanknorr0dc5,Sean Knorr
-Mar 11,home,Muskegon,W,7-4,7,4,3,win,20230311_ks71,0,0,0,1,0.1,,,,0.00,,1,,2023,2022-23,div2,Kellogg,kelloggcommunitycollege,seanknorr0dc5,Sean Knorr
-Mar 5,home,Wabash Valley,L,2-1,2,1,1,win,20230305_ggdm,0,0,1,0,1.0,1,1,,0.00,3,3,,2023,2022-23,div2,Kellogg,kelloggcommunitycollege,seanknorr0dc5,Sean Knorr
-Feb 22,home,Murray State,L,10-2,10,2,8,win,20230222_vg94,1,0,0,0,3.0,4,5,3,9.00,1,3,,2023,2022-23,div2,Kellogg,kelloggcommunitycollege,seanknorr0dc5,Sean Knorr
-Feb 16,home,Centenary College (JV),L,14-10,14,10,4,win,20230216_ujj7,1,0,0,0,1.2,4,7,2,10.80,2,3,,2023,2022-23,div2,Kellogg,kelloggcommunitycollege,seanknorr0dc5,Sean Knorr
-Feb 7,home,Ivy Tech Fort Wayne,W,9-2,9,2,7,win,20230207_bgr6,1,0,0,0,2.0,3,0,0,0.00,2,2,,2023,2022-23,div2,Kellogg,kelloggcommunitycollege,seanknorr0dc5,Sean Knorr
+May 20,home,Lansing,W,15-7,15,7,8,win,20230520_i9f1,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div2,Kellogg,kelloggcommunitycollege,seanknorr0dc5,Sean Knorr
+May 18,home,Henry Ford,L,3-2,3,2,1,win,20230518_lpf8,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div2,Kellogg,kelloggcommunitycollege,seanknorr0dc5,Sean Knorr
+May 11,home,Mid Michigan,W,8-7,8,7,1,win,20230511_2upa,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div2,Kellogg,kelloggcommunitycollege,seanknorr0dc5,Sean Knorr
+May 4,home,Lansing,W,8-2,8,2,6,win,20230504_vjaa,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div2,Kellogg,kelloggcommunitycollege,seanknorr0dc5,Sean Knorr
+May 4,home,Lansing,W,8-1,8,1,7,win,20230504_clze,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div2,Kellogg,kelloggcommunitycollege,seanknorr0dc5,Sean Knorr
+Apr 29,home,Lake Michigan,W,12-0,12,0,12,win,20230429_afq4,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div2,Kellogg,kelloggcommunitycollege,seanknorr0dc5,Sean Knorr
+Apr 29,home,Lake Michigan,W,3-0,3,0,3,win,20230429_a7fp,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div2,Kellogg,kelloggcommunitycollege,seanknorr0dc5,Sean Knorr
+Apr 27,home,Lake Michigan,W,15-2,15,2,13,win,20230427_9ds8,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div2,Kellogg,kelloggcommunitycollege,seanknorr0dc5,Sean Knorr
+Apr 27,home,Lake Michigan,W,13-1,13,1,12,win,20230427_nec7,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div2,Kellogg,kelloggcommunitycollege,seanknorr0dc5,Sean Knorr
+Apr 21,home,Glen Oaks,W,17-7,17,7,10,win,20230421_w52g,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div2,Kellogg,kelloggcommunitycollege,seanknorr0dc5,Sean Knorr
+Apr 21,home,Glen Oaks,W,13-7,13,7,6,win,20230421_98m4,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div2,Kellogg,kelloggcommunitycollege,seanknorr0dc5,Sean Knorr
+Apr 20,home,Glen Oaks,W,12-2,12,2,10,win,20230420_lq4s,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div2,Kellogg,kelloggcommunitycollege,seanknorr0dc5,Sean Knorr
+Apr 20,home,Glen Oaks,W,14-5,14,5,9,win,20230420_z8lu,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div2,Kellogg,kelloggcommunitycollege,seanknorr0dc5,Sean Knorr
+Apr 18,home,Jackson,W,8-3,8,3,5,win,20230418_rs99,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div2,Kellogg,kelloggcommunitycollege,seanknorr0dc5,Sean Knorr
+Apr 15,home,Marian-Ancilla,W,12-2,12,2,10,win,20230415_zim1,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div2,Kellogg,kelloggcommunitycollege,seanknorr0dc5,Sean Knorr
+Apr 15,home,Marian-Ancilla,W,12-2,12,2,10,win,20230415_rm30,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div2,Kellogg,kelloggcommunitycollege,seanknorr0dc5,Sean Knorr
+Apr 13,home,Marian-Ancilla,W,21-5,21,5,16,win,20230413_y0kd,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div2,Kellogg,kelloggcommunitycollege,seanknorr0dc5,Sean Knorr
+Apr 13,home,Marian-Ancilla,W,14-4,14,4,10,win,20230413_n34u,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div2,Kellogg,kelloggcommunitycollege,seanknorr0dc5,Sean Knorr
+Apr 11,home,Ivy Tech Fort Wayne,W,17-9,17,9,8,win,20230411_ibwz,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div2,Kellogg,kelloggcommunitycollege,seanknorr0dc5,Sean Knorr
+Mar 27,home,Mott,W,11-3,11,3,8,win,20230327_4fip,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div2,Kellogg,kelloggcommunitycollege,seanknorr0dc5,Sean Knorr
+Mar 24,home,Marian-Ancilla,W,10-1,10,1,9,win,20230324_82q4,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div2,Kellogg,kelloggcommunitycollege,seanknorr0dc5,Sean Knorr
+Mar 9,home,Muskegon,W,9-4,9,4,5,win,20230309_3saj,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div2,Kellogg,kelloggcommunitycollege,seanknorr0dc5,Sean Knorr
+Mar 4,home,Vincennes,W,5-2,5,2,3,win,20230304_m0tb,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div2,Kellogg,kelloggcommunitycollege,seanknorr0dc5,Sean Knorr
+Feb 18,home,LSU Eunice,L,13-0,13,0,13,win,20230218_7jiz,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div2,Kellogg,kelloggcommunitycollege,seanknorr0dc5,Sean Knorr
+Feb 17,home,LSU Eunice,L,8-6,8,6,2,win,20230217_gkuj,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div2,Kellogg,kelloggcommunitycollege,seanknorr0dc5,Sean Knorr
+Feb 16,home,Centenary College (JV),L,14-10,14,10,4,win,20230216_ujj7,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div2,Kellogg,kelloggcommunitycollege,seanknorr0dc5,Sean Knorr

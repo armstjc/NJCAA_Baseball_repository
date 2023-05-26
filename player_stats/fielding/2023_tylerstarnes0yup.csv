@@ -1,9 +1,17 @@
 date,location,opponent,result,score,team_score,opp_score,game_score_diff,game_win_loss,game_id,TC,PO,A,E,FPCT,DP,SBA,RCS,RCS_PCT,PB,CI,season,njcaa_season,njcaa_division,team,team_id,player_id,player_name
-Mar 7,home,Meridian,L,16-1,16,1,15,win,20230307_bldh,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div2,Holmes,holmescommunitycollege,tylerstarnes0yup,Tyler Starnes
-Mar 15,home,Itawamba,L,17-3,17,3,14,win,20230315_lbg7,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div2,Holmes,holmescommunitycollege,tylerstarnes0yup,Tyler Starnes
-Mar 18,home,Meridian,L,15-3,15,3,12,win,20230318_a5ds,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div2,Holmes,holmescommunitycollege,tylerstarnes0yup,Tyler Starnes
-Mar 25,home,Mississippi Gulf Coast,L,15-6,15,6,9,win,20230325_dloe,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div2,Holmes,holmescommunitycollege,tylerstarnes0yup,Tyler Starnes
-Apr 1,home,Pearl River,L,12-1,12,1,11,win,20230401_9wcd,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div2,Holmes,holmescommunitycollege,tylerstarnes0yup,Tyler Starnes
-Apr 10,home,Southwest Mississippi,L,5-4,5,4,1,win,20230410_2pnk,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div2,Holmes,holmescommunitycollege,tylerstarnes0yup,Tyler Starnes
-Apr 10,home,Southwest Mississippi,L,16-2,16,2,14,win,20230410_4ot0,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div2,Holmes,holmescommunitycollege,tylerstarnes0yup,Tyler Starnes
-Apr 22,home,East Central (MS),L,11-1,11,1,10,win,20230422_4ut2,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div2,Holmes,holmescommunitycollege,tylerstarnes0yup,Tyler Starnes
+Jan 29,home,Southeastern-Whiteville,L,12-11,12,11,1,win,20230129_b37a,0,0,0,0,4.0,2,2,2,4.50,3,10,2023,2022-23,div2,Holmes,holmescommunitycollege,tylerstarnes0yup,Tyler Starnes
+Feb 11,home,Spartanburg Methodist,L,5-4,5,4,1,win,20230211_2hzt,0,0,1,0,2.0,,1,1,4.50,3,1,2023,2022-23,div2,Holmes,holmescommunitycollege,tylerstarnes0yup,Tyler Starnes
+Feb 19,home,USC Union,L,5-4,5,4,1,win,20230219_zl64,0,0,1,0,0.2,0,1,0,0.00,2,2,2023,2022-23,div2,Holmes,holmescommunitycollege,tylerstarnes0yup,Tyler Starnes
+Feb 22,home,Catawba Valley,W,6-4,6,4,2,win,20230222_b9fe,0,1,0,0,3.1,0,0,0,0.00,3,4,2023,2022-23,div2,Holmes,holmescommunitycollege,tylerstarnes0yup,Tyler Starnes
+Feb 25,home,Patrick & Henry,L,2-1,2,1,1,win,20230225_yrmu,0,0,0,0,0.1,,1,,0.00,2,1,2023,2022-23,div2,Holmes,holmescommunitycollege,tylerstarnes0yup,Tyler Starnes
+Feb 26,home,Patrick & Henry,L,9-1,9,1,8,win,20230226_5qgd,0,0,0,0,0.0,0,0,0,0.00,0,0,2023,2022-23,div2,Holmes,holmescommunitycollege,tylerstarnes0yup,Tyler Starnes
+Mar 1,home,Caldwell Tech,L,10-7,10,7,3,win,20230301_1qps,0,0,0,0,2.0,3,3,1,4.50,1,4,2023,2022-23,div2,Holmes,holmescommunitycollege,tylerstarnes0yup,Tyler Starnes
+Mar 8,home,Caldwell Tech,L,14-11,14,11,3,win,20230308_28ze,0,0,0,0,0.2,0,0,0,0.00,1,1,2023,2022-23,div2,Holmes,holmescommunitycollege,tylerstarnes0yup,Tyler Starnes
+Mar 15,home,Florence-Darlington Tech,W,12-8,12,8,4,win,20230315_xfit,0,0,0,0,1.0,2,1,1,9.00,0,2,2023,2022-23,div2,Holmes,holmescommunitycollege,tylerstarnes0yup,Tyler Starnes
+Mar 26,home,Catawba Valley,L,5-1,5,1,4,win,20230326_os1n,0,0,0,0,2.0,1,0,0,0.00,1,2,2023,2022-23,div2,Holmes,holmescommunitycollege,tylerstarnes0yup,Tyler Starnes
+Apr 2,home,Patrick & Henry,W,4-2,4,2,2,win,20230402_rpm2,0,0,0,0,1.0,0,0,0,0.00,1,1,2023,2022-23,div2,Holmes,holmescommunitycollege,tylerstarnes0yup,Tyler Starnes
+Apr 6,home,Guilford Tech,L,9-6,9,6,3,win,20230406_algq,0,0,1,0,1.0,3,3,3,27.00,1,2,2023,2022-23,div2,Holmes,holmescommunitycollege,tylerstarnes0yup,Tyler Starnes
+Apr 12,home,Rockingham,W,10-9,10,9,1,win,20230412_895q,1,0,0,0,3.0,0,0,0,0.00,1,4,2023,2022-23,div2,Holmes,holmescommunitycollege,tylerstarnes0yup,Tyler Starnes
+Apr 19,home,Rockingham,W,11-0,11,0,11,win,20230419_o6nl,0,0,0,0,3.0,2,0,0,0.00,1,4,2023,2022-23,div2,Holmes,holmescommunitycollege,tylerstarnes0yup,Tyler Starnes
+Apr 25,home,Limestone JV,W,9-1,9,1,8,win,20230425_wku3,1,0,0,0,3.0,0,0,0,0.00,0,5,2023,2022-23,div2,Holmes,holmescommunitycollege,tylerstarnes0yup,Tyler Starnes
+May 6,home,Lenoir,L,5-4,5,4,1,win,20230506_i0s8,1,0,0,0,3.0,3,5,5,15.00,3,6,2023,2022-23,div2,Holmes,holmescommunitycollege,tylerstarnes0yup,Tyler Starnes

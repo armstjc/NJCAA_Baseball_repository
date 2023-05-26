@@ -1,11 +1,13 @@
 date,location,opponent,result,score,team_score,opp_score,game_score_diff,game_win_loss,game_id,TC,PO,A,E,FPCT,DP,SBA,RCS,RCS_PCT,PB,CI,season,njcaa_season,njcaa_division,team,team_id,player_id,player_name
-Feb 11,home,Rockingham,W,10-1,10,1,9,win,20230211_agny,0,0,0,0,3.0,0,0,0,0.00,1,2,2023,2022-23,div2,Guilford Tech,guilfordtechnicalcommunitycollege,jackratliffo70b,Jack Ratliff
-Feb 22,home,Gaston College,L,5-0,5,0,5,win,20230222_7xm3,0,0,0,0,1.0,0,0,0,0.00,1,1,2023,2022-23,div2,Guilford Tech,guilfordtechnicalcommunitycollege,jackratliffo70b,Jack Ratliff
-Feb 25,home,Southwest Virginia,W,16-5,16,5,11,win,20230225_k40i,1,1,0,0,4.0,3,5,1,2.25,6,4,2023,2022-23,div2,Guilford Tech,guilfordtechnicalcommunitycollege,jackratliffo70b,Jack Ratliff
-Mar 5,home,Cleveland,L,14-3,14,3,11,win,20230305_zzec,0,0,0,0,2.2,2,3,3,10.13,3,2,2023,2022-23,div2,Guilford Tech,guilfordtechnicalcommunitycollege,jackratliffo70b,Jack Ratliff
-Mar 10,home,Catawba Valley,L,8-7,8,7,1,win,20230310_d3zj,1,0,0,0,3.0,2,6,6,18.00,6,4,2023,2022-23,div2,Guilford Tech,guilfordtechnicalcommunitycollege,jackratliffo70b,Jack Ratliff
-Mar 22,home,Gaston College,L,24-2,24,2,22,win,20230322_vb9l,1,0,0,0,1.0,1,0,0,0.00,0,1,2023,2022-23,div2,Guilford Tech,guilfordtechnicalcommunitycollege,jackratliffo70b,Jack Ratliff
-Mar 25,home,Wake Tech,L,9-7,9,7,2,win,20230325_aqf5,1,0,0,0,2.0,6,5,5,22.50,4,2,2023,2022-23,div2,Guilford Tech,guilfordtechnicalcommunitycollege,jackratliffo70b,Jack Ratliff
-Apr 6,home,Cleveland,W,9-6,9,6,3,win,20230406_algq,0,1,0,0,4.0,3,0,0,0.00,5,2,2023,2022-23,div2,Guilford Tech,guilfordtechnicalcommunitycollege,jackratliffo70b,Jack Ratliff
-Apr 16,home,Catawba Valley,L,9-4,9,4,5,win,20230416_l2t4,0,0,0,0,4.1,9,5,5,10.38,4,2,2023,2022-23,div2,Guilford Tech,guilfordtechnicalcommunitycollege,jackratliffo70b,Jack Ratliff
-Apr 23,home,Patrick & Henry,L,6-5,6,5,1,win,20230423_9yqx,0,0,1,0,4.2,2,1,1,1.93,4,4,2023,2022-23,div2,Guilford Tech,guilfordtechnicalcommunitycollege,jackratliffo70b,Jack Ratliff
+Feb 4,home,East Carolina Club,W,10-1,10,1,9,win,20230204_4h0v,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div2,Guilford Tech,guilfordtechnicalcommunitycollege,jackratliffo70b,Jack Ratliff
+Feb 22,home,Florence-Darlington Tech,L,15-5,15,5,10,win,20230222_3h90,0,0,0,0,0.2,0,0,0,0.00,0,1,2023,2022-23,div2,Guilford Tech,guilfordtechnicalcommunitycollege,jackratliffo70b,Jack Ratliff
+Feb 24,home,Pitt,W,22-13,22,13,9,win,20230224_6blx,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div2,Guilford Tech,guilfordtechnicalcommunitycollege,jackratliffo70b,Jack Ratliff
+Mar 1,home,Louisburg,W,13-8,13,8,5,win,20230301_zuk4,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div2,Guilford Tech,guilfordtechnicalcommunitycollege,jackratliffo70b,Jack Ratliff
+Mar 4,home,Lenoir,W,2-0,2,0,2,win,20230304_3ml7,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div2,Guilford Tech,guilfordtechnicalcommunitycollege,jackratliffo70b,Jack Ratliff
+Mar 7,home,Gaston College,L,21-9,21,9,12,win,20230307_6zf1,1,0,0,0,2.0,3,5,4,18.00,2,1,2023,2022-23,div2,Guilford Tech,guilfordtechnicalcommunitycollege,jackratliffo70b,Jack Ratliff
+Mar 14,home,Gaston College,L,14-3,14,3,11,win,20230314_b1g8,0,0,0,0,1.2,2,4,2,10.80,2,2,2023,2022-23,div2,Guilford Tech,guilfordtechnicalcommunitycollege,jackratliffo70b,Jack Ratliff
+Apr 2,home,Bryant & Stratton (VA),L,8-5,8,5,3,win,20230402_fska,0,0,0,0,1.0,2,2,2,18.00,0,1,2023,2022-23,div2,Guilford Tech,guilfordtechnicalcommunitycollege,jackratliffo70b,Jack Ratliff
+Apr 15,home,Lenoir,L,4-3,4,3,1,win,20230415_emfq,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div2,Guilford Tech,guilfordtechnicalcommunitycollege,jackratliffo70b,Jack Ratliff
+Apr 19,home,Southeastern-Whiteville,W,8-4,8,4,4,win,20230419_rk4u,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div2,Guilford Tech,guilfordtechnicalcommunitycollege,jackratliffo70b,Jack Ratliff
+Apr 22,home,Richard Bland,L,15-6,15,6,9,win,20230422_xoaz,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div2,Guilford Tech,guilfordtechnicalcommunitycollege,jackratliffo70b,Jack Ratliff
+May 4,home,Patrick & Henry,L,9-7,9,7,2,win,20230504_yvbh,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div2,Guilford Tech,guilfordtechnicalcommunitycollege,jackratliffo70b,Jack Ratliff

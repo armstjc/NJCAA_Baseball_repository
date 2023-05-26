@@ -1,22 +1,3 @@
 date,location,opponent,result,score,team_score,opp_score,game_score_diff,game_win_loss,game_id,AB,R,H,2B,3B,HR,RBI,BB,K,SB,CS,HBP,SF,SH,TB,XBH,HDP,GO,FO,GO/FO,PA,season,njcaa_season,njcaa_division,team,team_id,player_id,player_name
-Feb 26,home,Midland University,W,6-1,6,1,5,win,20230226_7rpw,2,0,0,,,,1,1,,,,1,,,0,0,,,,,4,2023,2022-23,div2,Williston State,willistonstatecollege,shanecowanx10m,Shane Cowan
-Feb 26,home,Midland University,W,5-2,5,2,3,win,20230226_bjst,2,1,0,,,,0,2,,,,,,,0,0,,,,,4,2023,2022-23,div2,Williston State,willistonstatecollege,shanecowanx10m,Shane Cowan
-Mar 8,home,Riverland,W,2-1,2,1,1,win,20230308_cwsc,3,0,0,,,,0,,1,,,,,,0,0,,,,,3,2023,2022-23,div2,Williston State,willistonstatecollege,shanecowanx10m,Shane Cowan
-Mar 10,home,Minnesota North College - Rainy River,W,20-5,20,5,15,win,20230310_tfwd,5,0,2,1,,,1,,1,,,,,,3,1,,,,,5,2023,2022-23,div2,Williston State,willistonstatecollege,shanecowanx10m,Shane Cowan
-Mar 11,home,Central Lakes,W,4-3,4,3,1,win,20230312_8mpc,2,0,1,,,,1,1,,,,1,,,1,0,,,,,4,2023,2022-23,div2,Williston State,willistonstatecollege,shanecowanx10m,Shane Cowan
-Mar 13,home,Dakota-Bottineau,W,9-2,9,2,7,win,20230313_sf73,0,0,0,,,,0,1,,,,,,,0,0,,,,,1,2023,2022-23,div2,Williston State,willistonstatecollege,shanecowanx10m,Shane Cowan
-Mar 15,home,Anoka-Ramsey,W,10-0,10,0,10,win,20230315_bov9,2,1,1,,,,0,,,,,2,,,1,0,,,,,4,2023,2022-23,div2,Williston State,willistonstatecollege,shanecowanx10m,Shane Cowan
-Mar 16,home,Whalley Chiefs Post Grad,W,11-3,11,3,8,win,20230316_13sq,3,0,1,,,,1,1,1,,,,,,1,0,,,,,4,2023,2022-23,div2,Williston State,willistonstatecollege,shanecowanx10m,Shane Cowan
-Mar 16,home,Coquitlam Reds Post Grad,W,8-7,8,7,1,win,20230316_o868,3,1,1,,,,0,1,,,,,,,1,0,,,,,4,2023,2022-23,div2,Williston State,willistonstatecollege,shanecowanx10m,Shane Cowan
-Mar 17,home,Luther College JV,W,8-7,8,7,1,win,20230317_wqgp,2,3,1,,,1,1,,1,1,,2,,,4,1,,,,,4,2023,2022-23,div2,Williston State,willistonstatecollege,shanecowanx10m,Shane Cowan
-Mar 30,home,Mount Marty,W,6-4,6,4,2,win,20230330_e3hz,4,2,3,,,,0,,1,,,,,,3,0,,,,,4,2023,2022-23,div2,Williston State,willistonstatecollege,shanecowanx10m,Shane Cowan
-Apr 8,home,Miles,W,8-2,8,2,6,win,20230408_osyx,2,1,0,,,,0,1,1,,,1,,,0,0,,,,,4,2023,2022-23,div2,Williston State,willistonstatecollege,shanecowanx10m,Shane Cowan
-Apr 9,home,Dakota-Bottineau,W,6-1,6,1,5,win,20230409_bh2d,2,1,1,,,,0,,,,,,,1,1,0,,,,,3,2023,2022-23,div2,Williston State,willistonstatecollege,shanecowanx10m,Shane Cowan
-Apr 9,home,Dakota-Bottineau,W,13-3,13,3,10,win,20230409_wkkh,4,1,2,1,,,1,,,1,,,,,3,1,,,,,4,2023,2022-23,div2,Williston State,willistonstatecollege,shanecowanx10m,Shane Cowan
-Apr 10,home,Dawson,W,10-2,10,2,8,win,20230410_q9fa,3,1,0,,,,0,,1,,,1,,,0,0,,,,,4,2023,2022-23,div2,Williston State,willistonstatecollege,shanecowanx10m,Shane Cowan
-Apr 14,home,Lake Region State,W,11-1,11,1,10,win,20230414_gzc3,2,2,1,,,,0,2,,,,,,,1,0,,,,,4,2023,2022-23,div2,Williston State,willistonstatecollege,shanecowanx10m,Shane Cowan
-Apr 16,home,North Dakota SCS,W,5-4,5,4,1,win,20230416_wyj4,3,1,1,,,,0,,1,,,1,,,1,0,,,,,4,2023,2022-23,div2,Williston State,willistonstatecollege,shanecowanx10m,Shane Cowan
-Apr 22,home,North Dakota SCS,W,6-0,6,0,6,win,20230422_ukil,2,1,0,,,,0,,1,1,,1,,,0,0,,,,,3,2023,2022-23,div2,Williston State,willistonstatecollege,shanecowanx10m,Shane Cowan
-Apr 28,home,Dawson,W,3-2,3,2,1,win,20230428_s85w,4,0,0,,,,0,,2,,,,,,0,0,,,,,4,2023,2022-23,div2,Williston State,willistonstatecollege,shanecowanx10m,Shane Cowan
-Apr 29,home,Miles,W,13-7,13,7,6,win,20230429_ny4p,1,0,1,,,,1,,,,,,,,1,0,,,,,1,2023,2022-23,div2,Williston State,willistonstatecollege,shanecowanx10m,Shane Cowan
-Apr 30,home,Bismarck State,W,11-1,11,1,10,win,20230430_jk1t,1,0,0,,,1,3,,,,,,,,3,1,,,,,1,2023,2022-23,div2,Williston State,willistonstatecollege,shanecowanx10m,Shane Cowan
+Feb 21,home,Wayland Baptist JV,W,19-3,19,3,16,win,20230221_1w20,0,0,0,,,,0,,,,,,,,0,0,,,,,0,2023,2022-23,div2,Williston State,willistonstatecollege,shanecowanx10m,Shane Cowan
+Feb 28,home,Mid America Christian University Jv,W,24-7,24,7,17,win,20230228_4eu1,0,0,0,,,,0,,,,,,,,0,0,,,,,0,2023,2022-23,div2,Williston State,willistonstatecollege,shanecowanx10m,Shane Cowan

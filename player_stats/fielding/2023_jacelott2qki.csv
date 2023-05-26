@@ -1,6 +1,54 @@
 date,location,opponent,result,score,team_score,opp_score,game_score_diff,game_win_loss,game_id,TC,PO,A,E,FPCT,DP,SBA,RCS,RCS_PCT,PB,CI,season,njcaa_season,njcaa_division,team,team_id,player_id,player_name
-Feb 6,home,Shelton State,L,6-5,6,5,1,win,20230206_snsv,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div2,Jones,jonescollege,jacelott2qki,Jace Lott
-Feb 13,home,Lawson State,L,4-3,4,3,1,win,20230213_ypeg,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div2,Jones,jonescollege,jacelott2qki,Jace Lott
-Feb 17,home,Kirkwood,L,7-3,7,3,4,win,20230217_dl4c,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div2,Jones,jonescollege,jacelott2qki,Jace Lott
-Feb 21,home,Northwest Mississippi,W,18-11,18,11,7,win,20230221_q0io,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div2,Jones,jonescollege,jacelott2qki,Jace Lott
-Feb 24,home,Baton Rouge,W,19-9,19,9,10,win,20230224_hdhe,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div2,Jones,jonescollege,jacelott2qki,Jace Lott
+Jan 21  #,home,Flagler College,L,10-7,10,7,3,win,20230121_dx9l,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div2,Jones,jonescollege,jacelott2qki,Jace Lott
+Jan 28,home,Florida Palms University,W,7-3,7,3,4,win,20230128_vay1,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div2,Jones,jonescollege,jacelott2qki,Jace Lott
+Jan 30,home,Santa Fe,L,13-9,13,9,4,win,20230130_7jks,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div2,Jones,jonescollege,jacelott2qki,Jace Lott
+Feb 1,home,Daytona State,W,5-4,5,4,1,win,20230201_f77g,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div2,Jones,jonescollege,jacelott2qki,Jace Lott
+Feb 3,home,Santa Fe,L,5-3,5,3,2,win,20230203_tbd5,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div2,Jones,jonescollege,jacelott2qki,Jace Lott
+Feb 6,home,Daytona State,L,12-4,12,4,8,win,20230206_al60,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div2,Jones,jonescollege,jacelott2qki,Jace Lott
+Feb 8,home,Daytona State,L,13-10,13,10,3,win,20230208_gk0e,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div2,Jones,jonescollege,jacelott2qki,Jace Lott
+Feb 10,home,Polk State,L,8-6,8,6,2,win,20230210_siol,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div2,Jones,jonescollege,jacelott2qki,Jace Lott
+Feb 13,home,Seminole State (FL),L,17-3,17,3,14,win,20230213_wgwi,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div2,Jones,jonescollege,jacelott2qki,Jace Lott
+Feb 15,home,Seminole State (FL),L,8-5,8,5,3,win,20230215_3arn,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div2,Jones,jonescollege,jacelott2qki,Jace Lott
+Feb 17,home,USA Scoutz Atlanta,W,11-1,11,1,10,win,20230217_781x,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div2,Jones,jonescollege,jacelott2qki,Jace Lott
+Feb 20,home,CCBC Catonsville,W,4-3,4,3,1,win,20230220_04q6,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div2,Jones,jonescollege,jacelott2qki,Jace Lott
+Feb 22,home,Hillsborough,L,15-11,15,11,4,win,20230222_30zg,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div2,Jones,jonescollege,jacelott2qki,Jace Lott
+Feb 24,home,Florida State Jacksonville,L,8-3,8,3,5,win,20230224_xtdv,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div2,Jones,jonescollege,jacelott2qki,Jace Lott
+Feb 25,home,Florida State Jacksonville,L,6-5,6,5,1,win,20230225_91xo,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div2,Jones,jonescollege,jacelott2qki,Jace Lott
+Feb 25,home,Florida State Jacksonville,W,2-1,2,1,1,win,20230225_h79f,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div2,Jones,jonescollege,jacelott2qki,Jace Lott
+Feb 27,home,Central Florida,L,8-2,8,2,6,win,20230227_wkgc,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div2,Jones,jonescollege,jacelott2qki,Jace Lott
+Mar 1,home,Central Florida,L,16-3,16,3,13,win,20230301_1rcd,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div2,Jones,jonescollege,jacelott2qki,Jace Lott
+Mar 3,home,South Florida State,L,13-5,13,5,8,win,20230303_32yc,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div2,Jones,jonescollege,jacelott2qki,Jace Lott
+Mar 4,home,South Florida State,W,6-3,6,3,3,win,20230304_yjtk,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div2,Jones,jonescollege,jacelott2qki,Jace Lott
+Mar 4,home,South Florida State,W,2-1,2,1,1,win,20230304_v1r1,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div2,Jones,jonescollege,jacelott2qki,Jace Lott
+Mar 8,home,Rollins College JV,L,4-2,4,2,2,win,20230308_zgo4,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div2,Jones,jonescollege,jacelott2qki,Jace Lott
+Mar 10,home,St. Johns River State,L,9-4,9,4,5,win,20230310_rcey,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div2,Jones,jonescollege,jacelott2qki,Jace Lott
+Mar 11,home,St. Johns River State,L,6-5,6,5,1,win,20230311_ndqv,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div2,Jones,jonescollege,jacelott2qki,Jace Lott
+Mar 14,home,North Dakota SCS,W,5-2,5,2,3,win,20230314_1b3m,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div2,Jones,jonescollege,jacelott2qki,Jace Lott
+Mar 15,home,Webber JV,W,11-1,11,1,10,win,20230315_toky,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div2,Jones,jonescollege,jacelott2qki,Jace Lott
+Mar 17,home,Pasco-Hernando State,L,8-6,8,6,2,win,20230317_5ar2,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div2,Jones,jonescollege,jacelott2qki,Jace Lott
+Mar 17,home,Pasco-Hernando State,L,17-7,17,7,10,win,20230317_9hx2,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div2,Jones,jonescollege,jacelott2qki,Jace Lott
+Mar 19,home,Pasco-Hernando State,L,11-1,11,1,10,win,20230319_6n5p,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div2,Jones,jonescollege,jacelott2qki,Jace Lott
+Mar 22,home,Embry Riddle JV,W,12-11,12,11,1,win,20230322_0wgm,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div2,Jones,jonescollege,jacelott2qki,Jace Lott
+Mar 24,home,Palm Beach State,W,11-7,11,7,4,win,20230324_wy48,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div2,Jones,jonescollege,jacelott2qki,Jace Lott
+Mar 25,home,Palm Beach State,L,7-4,7,4,3,win,20230325_czms,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div2,Jones,jonescollege,jacelott2qki,Jace Lott
+Mar 25,home,Palm Beach State,W,12-3,12,3,9,win,20230325_f729,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div2,Jones,jonescollege,jacelott2qki,Jace Lott
+Mar 27,home,Seminole State (FL),L,5-4,5,4,1,win,20230327_1s3j,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div2,Jones,jonescollege,jacelott2qki,Jace Lott
+Mar 31,home,Florida State Jacksonville,L,7-4,7,4,3,win,20230331_r47y,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div2,Jones,jonescollege,jacelott2qki,Jace Lott
+Apr 1,home,Florida State Jacksonville,L,4-3,4,3,1,win,20230401_k2b6,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div2,Jones,jonescollege,jacelott2qki,Jace Lott
+Apr 1,home,Florida State Jacksonville,W,4-1,4,1,3,win,20230401_e4mu,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div2,Jones,jonescollege,jacelott2qki,Jace Lott
+Apr 3,home,Seminole State (FL),L,14-11,14,11,3,win,20230403_4ba9,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div2,Jones,jonescollege,jacelott2qki,Jace Lott
+Apr 5,home,Inspiration Academy Post-Grad,W,15-5,15,5,10,win,20230405_3cfk,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div2,Jones,jonescollege,jacelott2qki,Jace Lott
+Apr 7,home,South Florida State,L,23-5,23,5,18,win,20230407_puvv,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div2,Jones,jonescollege,jacelott2qki,Jace Lott
+Apr 8,home,South Florida State,L,5-2,5,2,3,win,20230408_fh6v,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div2,Jones,jonescollege,jacelott2qki,Jace Lott
+Apr 8,home,South Florida State,W,7-3,7,3,4,win,20230408_qknm,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div2,Jones,jonescollege,jacelott2qki,Jace Lott
+Apr 12,home,A3 Academy,L,10-6,10,6,4,win,20230412_e5xj,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div2,Jones,jonescollege,jacelott2qki,Jace Lott
+Apr 14,home,St. Johns River State,L,16-10,16,10,6,win,20230414_s6ks,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div2,Jones,jonescollege,jacelott2qki,Jace Lott
+Apr 15,home,St. Johns River State,L,8-3,8,3,5,win,20230415_plu4,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div2,Jones,jonescollege,jacelott2qki,Jace Lott
+Apr 15,home,St. Johns River State,W,4-3,4,3,1,win,20230415_vi3j,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div2,Jones,jonescollege,jacelott2qki,Jace Lott
+Apr 19,home,A3 Academy,L,10-6,10,6,4,win,20230419_1pyv,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div2,Jones,jonescollege,jacelott2qki,Jace Lott
+Apr 21,home,Pasco-Hernando State,L,5-0,5,0,5,win,20230421_9sdd,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div2,Jones,jonescollege,jacelott2qki,Jace Lott
+Apr 21,home,Pasco-Hernando State,L,9-1,9,1,8,win,20230421_kvwk,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div2,Jones,jonescollege,jacelott2qki,Jace Lott
+Apr 22,home,Pasco-Hernando State,W,10-9,10,9,1,win,20230422_r8qg,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div2,Jones,jonescollege,jacelott2qki,Jace Lott
+Apr 27,home,Palm Beach State,L,11-1,11,1,10,win,20230427_bnq0,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div2,Jones,jonescollege,jacelott2qki,Jace Lott
+Apr 27,home,Palm Beach State,L,12-11,12,11,1,win,20230427_lyg4,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div2,Jones,jonescollege,jacelott2qki,Jace Lott
+Apr 28,home,Palm Beach State,L,8-1,8,1,7,win,20230428_opxl,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div2,Jones,jonescollege,jacelott2qki,Jace Lott

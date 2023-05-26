@@ -1,9 +1,15 @@
 date,location,opponent,result,score,team_score,opp_score,game_score_diff,game_win_loss,game_id,TC,PO,A,E,FPCT,DP,SBA,RCS,RCS_PCT,PB,CI,season,njcaa_season,njcaa_division,team,team_id,player_id,player_name
-Mar 3,home,Fort Scott,L,11-7,11,7,4,win,20230303_cyok,0,0,0,0,0.2,,,,0.00,2,1,2023,2022-23,div2,Iowa Lakes,iowalakescommunitycollege,edilgonzalezt87p,Edil Gonzalez
-Mar 13,home,Kirkwood,L,15-3,15,3,12,win,20230313_emem,0,0,0,0,0.0,2,2,1,INF,1,,2023,2022-23,div2,Iowa Lakes,iowalakescommunitycollege,edilgonzalezt87p,Edil Gonzalez
-Mar 26,home,Southeastern,L,26-1,26,1,25,win,20230326_8zq6,0,0,0,0,0.0,1,4,4,INF,1,,2023,2022-23,div2,Iowa Lakes,iowalakescommunitycollege,edilgonzalezt87p,Edil Gonzalez
-Apr 2,home,Indian Hills,L,23-4,23,4,19,win,20230402_nh24,0,0,0,0,0.2,5,5,4,54.00,1,,2023,2022-23,div2,Iowa Lakes,iowalakescommunitycollege,edilgonzalezt87p,Edil Gonzalez
-Apr 8,home,Ellsworth,L,37-6,37,6,31,win,20230408_1iz3,0,0,0,0,0.0,,4,4,INF,2,,2023,2022-23,div2,Iowa Lakes,iowalakescommunitycollege,edilgonzalezt87p,Edil Gonzalez
-Apr 18,home,Northeast,L,12-2,12,2,10,win,20230418_6f9k,1,0,1,0,4.1,7,7,6,12.46,3,3,2023,2022-23,div2,Iowa Lakes,iowalakescommunitycollege,edilgonzalezt87p,Edil Gonzalez
-Apr 24,home,Kirkwood,L,14-2,14,2,12,win,20230424_ybnv,1,0,1,0,2.0,7,8,8,36.00,2,1,2023,2022-23,div2,Iowa Lakes,iowalakescommunitycollege,edilgonzalezt87p,Edil Gonzalez
-Apr 29,home,Des Moines Area,L,21-2,21,2,19,win,20230429_dcj9,0,0,0,0,0.2,,,,0.00,1,1,2023,2022-23,div2,Iowa Lakes,iowalakescommunitycollege,edilgonzalezt87p,Edil Gonzalez
+Mar 4,home,Fort Scott,L,8-0,8,0,8,win,20230304_8s8h,0,0,0,0,0.1,2,4,3,81.00,1,1,2023,2022-23,div2,Iowa Lakes,iowalakescommunitycollege,edilgonzalezt87p,Edil Gonzalez
+Mar 7,home,Iowa Central,L,7-4,7,4,3,win,20230307_6ve4,0,0,0,0,2.0,2,2,2,9.00,,,2023,2022-23,div2,Iowa Lakes,iowalakescommunitycollege,edilgonzalezt87p,Edil Gonzalez
+Mar 13,home,Ripon Jv,W,7-6,7,6,1,win,20230313_wtwz,0,0,0,0,3.1,1,2,1,2.70,1,5,2023,2022-23,div2,Iowa Lakes,iowalakescommunitycollege,edilgonzalezt87p,Edil Gonzalez
+Mar 22,home,Iowa Western,L,7-1,7,1,6,win,20230322_mqkx,1,0,0,0,3.0,3,0,0,0.00,0,3,2023,2022-23,div2,Iowa Lakes,iowalakescommunitycollege,edilgonzalezt87p,Edil Gonzalez
+Mar 27,home,Southeastern,L,6-3,6,3,3,win,20230327_fjfp,1,0,1,0,7.0,8,4,3,3.86,2,3,2023,2022-23,div2,Iowa Lakes,iowalakescommunitycollege,edilgonzalezt87p,Edil Gonzalez
+Apr 1,home,Indian Hills,L,14-4,14,4,10,win,20230401_vjfo,1,0,1,0,3.1,9,8,6,16.20,0,1,2023,2022-23,div2,Iowa Lakes,iowalakescommunitycollege,edilgonzalezt87p,Edil Gonzalez
+Apr 5,home,Iowa Western,L,10-2,10,2,8,win,20230405_7lbi,0,0,0,0,1.2,5,2,2,10.80,,1,2023,2022-23,div2,Iowa Lakes,iowalakescommunitycollege,edilgonzalezt87p,Edil Gonzalez
+Apr 8,home,Ellsworth,L,37-6,37,6,31,win,20230408_1iz3,1,0,1,0,2.2,12,13,9,30.38,1,0,2023,2022-23,div2,Iowa Lakes,iowalakescommunitycollege,edilgonzalezt87p,Edil Gonzalez
+Apr 12,home,Iowa Central,L,16-4,16,4,12,win,20230412_dyha,0,0,0,0,1.1,7,4,4,27.00,2,,2023,2022-23,div2,Iowa Lakes,iowalakescommunitycollege,edilgonzalezt87p,Edil Gonzalez
+Apr 18,home,Northeast,L,11-1,11,1,10,win,20230418_1v58,1,0,1,0,3.0,11,10,9,27.00,1,1,2023,2022-23,div2,Iowa Lakes,iowalakescommunitycollege,edilgonzalezt87p,Edil Gonzalez
+Apr 23,home,Kirkwood,L,11-1,11,1,10,win,20230423_jti8,0,0,0,0,2.0,5,6,3,13.50,1,1,2023,2022-23,div2,Iowa Lakes,iowalakescommunitycollege,edilgonzalezt87p,Edil Gonzalez
+Apr 30,home,Des Moines Area,L,8-5,8,5,3,win,20230430_uigk,0,0,0,0,1.2,3,0,0,0.00,0,0,2023,2022-23,div2,Iowa Lakes,iowalakescommunitycollege,edilgonzalezt87p,Edil Gonzalez
+May 3,home,Marshalltown,L,7-4,7,4,3,win,20230503_04td,1,0,1,0,6.0,11,7,6,9.00,0,5,2023,2022-23,div2,Iowa Lakes,iowalakescommunitycollege,edilgonzalezt87p,Edil Gonzalez
+May 6,home,North Iowa Area,L,3-2,3,2,1,win,20230506_6cdf,0,0,0,0,1.2,1,,,0.00,1,2,2023,2022-23,div2,Iowa Lakes,iowalakescommunitycollege,edilgonzalezt87p,Edil Gonzalez
