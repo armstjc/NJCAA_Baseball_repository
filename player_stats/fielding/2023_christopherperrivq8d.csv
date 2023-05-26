@@ -1,14 +1,10 @@
 date,location,opponent,result,score,team_score,opp_score,game_score_diff,game_win_loss,game_id,TC,PO,A,E,FPCT,DP,SBA,RCS,RCS_PCT,PB,CI,season,njcaa_season,njcaa_division,team,team_id,player_id,player_name
-Mar 11,home,Marian-Ancilla,W,15-1,15,1,14,win,20230311_20ql,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div3,Nassau,nassaucommunitycollege,christopherperrivq8d,Christopher Perri
-Mar 12  #,home,Ontario Royals College Prep,W,18-5,18,5,13,win,20230312_qdqj,0,0,0,0,1.0,1,1,,0.00,1,1,2023,2022-23,div3,Nassau,nassaucommunitycollege,christopherperrivq8d,Christopher Perri
-Mar 15,home,Herkimer,L,6-4,6,4,2,win,20230315_n627,0,0,0,0,4.1,1,1,,0.00,,7,2023,2022-23,div3,Nassau,nassaucommunitycollege,christopherperrivq8d,Christopher Perri
-Mar 18,home,Delgado,L,11-5,11,5,6,win,20230318_i247,0,0,0,0,0.2,,,,0.00,1,,2023,2022-23,div3,Nassau,nassaucommunitycollege,christopherperrivq8d,Christopher Perri
-Mar 24,home,Black Hawk-Moline,L,2-0,2,0,2,win,20230324_bbfk,0,0,0,0,2.2,1,1,1,3.38,4,1,2023,2022-23,div3,Nassau,nassaucommunitycollege,christopherperrivq8d,Christopher Perri
-Mar 30,home,Sauk Valley,L,9-6,9,6,3,win,20230330_kqzo,0,0,1,0,1.0,2,3,3,27.00,1,,2023,2022-23,div3,Nassau,nassaucommunitycollege,christopherperrivq8d,Christopher Perri
-Apr 8,home,Elgin,W,8-3,8,3,5,win,20230408_5lxn,0,1,0,0,3.1,1,,,0.00,2,5,2023,2022-23,div3,Nassau,nassaucommunitycollege,christopherperrivq8d,Christopher Perri
-Apr 12,home,Kankakee,L,9-7,9,7,2,win,20230412_p093,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div3,Nassau,nassaucommunitycollege,christopherperrivq8d,Christopher Perri
-Apr 15,home,Lake County,W,7-0,7,0,7,win,20230415_5y5d,0,0,0,0,2.1,3,5,5,19.29,3,3,2023,2022-23,div3,Nassau,nassaucommunitycollege,christopherperrivq8d,Christopher Perri
-Apr 22,home,McHenry County,L,12-7,12,7,5,win,20230422_on2l,0,0,0,0,1.2,2,4,2,10.80,5,1,2023,2022-23,div3,Nassau,nassaucommunitycollege,christopherperrivq8d,Christopher Perri
-Apr 28,home,Sauk Valley,L,7-6,7,6,1,win,20230428_9wet,0,0,0,0,0.1,2,1,1,27.00,,,2023,2022-23,div3,Nassau,nassaucommunitycollege,christopherperrivq8d,Christopher Perri
-May 5,home,Harper,L,13-11,13,11,2,win,20230505_3oha,0,0,0,0,0.1,,2,2,54.00,1,,2023,2022-23,div3,Nassau,nassaucommunitycollege,christopherperrivq8d,Christopher Perri
-May 7,home,Kishwaukee,W,3-1,3,1,2,win,20230507_fmd3,0,0,0,0,1.0,,,,0.00,,2,2023,2022-23,div3,Nassau,nassaucommunitycollege,christopherperrivq8d,Christopher Perri
+Mar 12,home,Garrett,L,8-1,8,1,7,win,20230312_bq2n,0,0,0,0,4.2,4,5,4,7.71,2,2,2023,2022-23,div3,Nassau,nassaucommunitycollege,christopherperrivq8d,Christopher Perri
+Mar 24,home,Monroe College - Bronx,L,10-9,10,9,1,win,20230324_m6gx,0,0,1,0,5.0,7,8,2,3.60,3,7,2023,2022-23,div3,Nassau,nassaucommunitycollege,christopherperrivq8d,Christopher Perri
+Mar 29,home,Suffolk County,W,12-1,12,1,11,win,20230329_0bpr,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div3,Nassau,nassaucommunitycollege,christopherperrivq8d,Christopher Perri
+Mar 31,home,Suffolk County,L,14-8,14,8,6,win,20230331_pyex,0,0,0,0,5.0,7,7,7,12.60,5,7,2023,2022-23,div3,Nassau,nassaucommunitycollege,christopherperrivq8d,Christopher Perri
+Apr 8,home,Bronx,W,12-11,12,11,1,win,20230408_gyiw,0,0,0,0,4.2,4,8,7,13.50,5,6,2023,2022-23,div3,Nassau,nassaucommunitycollege,christopherperrivq8d,Christopher Perri
+Apr 15,home,Orange County,W,11-1,11,1,10,win,20230415_ja7j,0,0,0,0,1.0,,,,0.00,,2,2023,2022-23,div3,Nassau,nassaucommunitycollege,christopherperrivq8d,Christopher Perri
+Apr 22,home,Queensborough,L,9-6,9,6,3,win,20230422_tczu,0,0,0,0,3.2,6,7,4,9.82,2,3,2023,2022-23,div3,Nassau,nassaucommunitycollege,christopherperrivq8d,Christopher Perri
+May 5,home,Kingsborough,W,18-1,18,1,17,win,20230505_0m2o,0,0,0,0,1.0,,,,0.00,2,2,2023,2022-23,div3,Nassau,nassaucommunitycollege,christopherperrivq8d,Christopher Perri
+May 6,home,Kingsborough,W,7-6,7,6,1,win,20230506_8bcf,0,0,0,0,0.0,1,1,1,INF,1,,2023,2022-23,div3,Nassau,nassaucommunitycollege,christopherperrivq8d,Christopher Perri

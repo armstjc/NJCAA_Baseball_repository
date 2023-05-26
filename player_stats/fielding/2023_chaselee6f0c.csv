@@ -1,6 +1,30 @@
 date,location,opponent,result,score,team_score,opp_score,game_score_diff,game_win_loss,game_id,TC,PO,A,E,FPCT,DP,SBA,RCS,RCS_PCT,PB,CI,season,njcaa_season,njcaa_division,team,team_id,player_id,player_name
-Feb 10,home,Texas Reds Post Grad,L,13-4,13,4,9,win,20230210_hrqx,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div3,Rockingham,rockinghamcommunitycollege,chaselee6f0c,Chase Lee
-Feb 10,home,Rust College,L,15-1,15,1,14,win,20230210_o3yw,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div3,Rockingham,rockinghamcommunitycollege,chaselee6f0c,Chase Lee
-Feb 13,home,North Arkansas,L,9-1,9,1,8,win,20230213_6jq0,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div3,Rockingham,rockinghamcommunitycollege,chaselee6f0c,Chase Lee
-Mar 3,home,Dallas College - Cedar Valley,L,15-10,15,10,5,win,20230303_srrd,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div3,Rockingham,rockinghamcommunitycollege,chaselee6f0c,Chase Lee
-Mar 13,home,Spartan Post Grad,W,9-4,9,4,5,win,20230313_06tu,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div3,Rockingham,rockinghamcommunitycollege,chaselee6f0c,Chase Lee
+Feb 4,home,Patrick & Henry,W,5-2,5,2,3,win,20230204_v90q,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div3,Rockingham,rockinghamcommunitycollege,chaselee6f0c,Chase Lee
+Feb 5,home,Patrick & Henry,L,6-1,6,1,5,win,20230205_tc5d,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div3,Rockingham,rockinghamcommunitycollege,chaselee6f0c,Chase Lee
+Feb 5,home,Patrick & Henry,L,15-5,15,5,10,win,20230205_r65j,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div3,Rockingham,rockinghamcommunitycollege,chaselee6f0c,Chase Lee
+Feb 11,home,Guilford Tech,L,10-1,10,1,9,win,20230211_agny,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div3,Rockingham,rockinghamcommunitycollege,chaselee6f0c,Chase Lee
+Feb 15,home,Pro 5 Academy,W,7-5,7,5,2,win,20230215_gg2w,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div3,Rockingham,rockinghamcommunitycollege,chaselee6f0c,Chase Lee
+Feb 15,home,Pro 5 Academy,L,10-3,10,3,7,win,20230215_2wpq,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div3,Rockingham,rockinghamcommunitycollege,chaselee6f0c,Chase Lee
+Feb 22,home,Pro 5 Academy,L,3-2,3,2,1,win,20230222_sxpt,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div3,Rockingham,rockinghamcommunitycollege,chaselee6f0c,Chase Lee
+Feb 25,home,USC Lancaster,L,4-0,4,0,4,win,20230225_7mak,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div3,Rockingham,rockinghamcommunitycollege,chaselee6f0c,Chase Lee
+Feb 26,home,USC Lancaster,L,7-0,7,0,7,win,20230226_m6u4,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div3,Rockingham,rockinghamcommunitycollege,chaselee6f0c,Chase Lee
+Mar 1,home,Barton JV,L,10-7,10,7,3,win,20230301_ulcn,0,0,0,0,1.0,4,2,2,18.00,,1,2023,2022-23,div3,Rockingham,rockinghamcommunitycollege,chaselee6f0c,Chase Lee
+Mar 7,home,Ferrum JV,L,10-3,10,3,7,win,20230307_a7ly,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div3,Rockingham,rockinghamcommunitycollege,chaselee6f0c,Chase Lee
+Mar 14,home,Ferrum JV,L,14-13,14,13,1,win,20230314_dcss,0,0,0,0,1.0,,,,0.00,2,1,2023,2022-23,div3,Rockingham,rockinghamcommunitycollege,chaselee6f0c,Chase Lee
+Mar 18,home,Camp,L,7-2,7,2,5,win,20230318_9wpm,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div3,Rockingham,rockinghamcommunitycollege,chaselee6f0c,Chase Lee
+Mar 19,home,Camp,W,13-11,13,11,2,win,20230319_q6eo,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div3,Rockingham,rockinghamcommunitycollege,chaselee6f0c,Chase Lee
+Mar 25,home,Surry,L,12-2,12,2,10,win,20230325_73k6,0,0,0,0,1.1,4,2,2,13.50,1,,2023,2022-23,div3,Rockingham,rockinghamcommunitycollege,chaselee6f0c,Chase Lee
+Mar 26,home,Surry,W,4-3,4,3,1,win,20230326_r1br,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div3,Rockingham,rockinghamcommunitycollege,chaselee6f0c,Chase Lee
+Apr 3,home,MontreJV,W,7-5,7,5,2,win,20230403_12z5,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div3,Rockingham,rockinghamcommunitycollege,chaselee6f0c,Chase Lee
+Apr 3,home,MontreJV,W,6-2,6,2,4,win,20230403_6hmx,0,1,0,0,1.1,,,,0.00,1,2,2023,2022-23,div3,Rockingham,rockinghamcommunitycollege,chaselee6f0c,Chase Lee
+Apr 12,home,Cleveland,L,10-9,10,9,1,win,20230412_895q,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div3,Rockingham,rockinghamcommunitycollege,chaselee6f0c,Chase Lee
+Apr 15,home,Caldwell Tech,L,10-9,10,9,1,win,20230415_zu89,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div3,Rockingham,rockinghamcommunitycollege,chaselee6f0c,Chase Lee
+Apr 15,home,Caldwell Tech,L,6-4,6,4,2,win,20230415_achx,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div3,Rockingham,rockinghamcommunitycollege,chaselee6f0c,Chase Lee
+Apr 16,home,Caldwell Tech,L,9-2,9,2,7,win,20230416_yb1e,0,0,0,0,1.1,1,1,1,6.75,,,2023,2022-23,div3,Rockingham,rockinghamcommunitycollege,chaselee6f0c,Chase Lee
+Apr 21,home,Camp,L,6-4,6,4,2,win,20230421_p3nz,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div3,Rockingham,rockinghamcommunitycollege,chaselee6f0c,Chase Lee
+Apr 22,home,Camp,L,21-11,21,11,10,win,20230422_64wv,0,0,0,0,0.2,2,3,3,40.50,2,1,2023,2022-23,div3,Rockingham,rockinghamcommunitycollege,chaselee6f0c,Chase Lee
+Apr 29,home,Surry,L,4-2,4,2,2,win,20230429_8dxc,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div3,Rockingham,rockinghamcommunitycollege,chaselee6f0c,Chase Lee
+Apr 29,home,Surry,L,13-0,13,0,13,win,20230429_l3hm,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div3,Rockingham,rockinghamcommunitycollege,chaselee6f0c,Chase Lee
+May 4,home,Virginia Peninsula,W,13-3,13,3,10,win,20230504_07rn,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div3,Rockingham,rockinghamcommunitycollege,chaselee6f0c,Chase Lee
+May 5,home,Caldwell Tech,L,9-1,9,1,8,win,20230505_ze0p,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div3,Rockingham,rockinghamcommunitycollege,chaselee6f0c,Chase Lee
+May 5,home,Surry,L,8-7,8,7,1,win,20230505_s23t,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div3,Rockingham,rockinghamcommunitycollege,chaselee6f0c,Chase Lee

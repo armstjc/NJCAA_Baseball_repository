@@ -1,31 +1,3 @@
 date,location,opponent,result,score,team_score,opp_score,game_score_diff,game_win_loss,game_id,TC,PO,A,E,FPCT,DP,SBA,RCS,RCS_PCT,PB,CI,season,njcaa_season,njcaa_division,team,team_id,player_id,player_name
-Feb 4,home,Northeast,L,17-16,17,16,1,win,20230204_claj,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div2,Northern Oklahoma Enid,northernoklahomacollegeenid,natonherchockzk30,Naton Herchock
-Feb 5,home,Northeast,W,11-10,11,10,1,win,20230205_mnvf,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div2,Northern Oklahoma Enid,northernoklahomacollegeenid,natonherchockzk30,Naton Herchock
-Feb 10,home,Iowa Central,L,13-5,13,5,8,win,20230210_l3n4,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div2,Northern Oklahoma Enid,northernoklahomacollegeenid,natonherchockzk30,Naton Herchock
-Feb 15,home,Butler,W,9-7,9,7,2,win,20230215_u3bx,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div2,Northern Oklahoma Enid,northernoklahomacollegeenid,natonherchockzk30,Naton Herchock
-Feb 17,home,Cloud County,W,8-7,8,7,1,win,20230217_ippl,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div2,Northern Oklahoma Enid,northernoklahomacollegeenid,natonherchockzk30,Naton Herchock
-Feb 25,home,Seminole State (OK),L,6-3,6,3,3,win,20230225_qn2z,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div2,Northern Oklahoma Enid,northernoklahomacollegeenid,natonherchockzk30,Naton Herchock
-Feb 26,home,Barton,L,5-1,5,1,4,win,20230226_qbp1,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div2,Northern Oklahoma Enid,northernoklahomacollegeenid,natonherchockzk30,Naton Herchock
-Feb 28,home,Hutchinson,W,12-9,12,9,3,win,20230228_twnv,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div2,Northern Oklahoma Enid,northernoklahomacollegeenid,natonherchockzk30,Naton Herchock
-Mar 4,home,Oklahoma Christian Jv,W,14-4,14,4,10,win,20230304_hbqo,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div2,Northern Oklahoma Enid,northernoklahomacollegeenid,natonherchockzk30,Naton Herchock
-Mar 5,home,Texas Post Grad,W,18-1,18,1,17,win,20230305_ss4v,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div2,Northern Oklahoma Enid,northernoklahomacollegeenid,natonherchockzk30,Naton Herchock
-Mar 8,home,UA Rich Mountain,W,10-0,10,0,10,win,20230308_akt5,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div2,Northern Oklahoma Enid,northernoklahomacollegeenid,natonherchockzk30,Naton Herchock
-Mar 17,home,South Arkansas,L,9-7,9,7,2,win,20230317_62kr,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div2,Northern Oklahoma Enid,northernoklahomacollegeenid,natonherchockzk30,Naton Herchock
-Mar 18,home,South Arkansas,L,10-4,10,4,6,win,20230318_x4b0,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div2,Northern Oklahoma Enid,northernoklahomacollegeenid,natonherchockzk30,Naton Herchock
-Mar 23,home,Redlands,L,5-3,5,3,2,win,20230323_h029,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div2,Northern Oklahoma Enid,northernoklahomacollegeenid,natonherchockzk30,Naton Herchock
-Mar 25,home,Redlands,W,7-2,7,2,5,win,20230325_1d46,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div2,Northern Oklahoma Enid,northernoklahomacollegeenid,natonherchockzk30,Naton Herchock
-Mar 29,home,Murray State,W,6-5,6,5,1,win,20230329_rt5t,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div2,Northern Oklahoma Enid,northernoklahomacollegeenid,natonherchockzk30,Naton Herchock
-Mar 29,home,Murray State,W,18-8,18,8,10,win,20230329_j92k,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div2,Northern Oklahoma Enid,northernoklahomacollegeenid,natonherchockzk30,Naton Herchock
-Apr 1,home,Murray State,L,12-2,12,2,10,win,20230401_und9,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div2,Northern Oklahoma Enid,northernoklahomacollegeenid,natonherchockzk30,Naton Herchock
-Apr 5,home,Western Oklahoma State,L,21-7,21,7,14,win,20230405_u4lv,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div2,Northern Oklahoma Enid,northernoklahomacollegeenid,natonherchockzk30,Naton Herchock
-Apr 8,home,Western Oklahoma State,L,18-10,18,10,8,win,20230408_pky8,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div2,Northern Oklahoma Enid,northernoklahomacollegeenid,natonherchockzk30,Naton Herchock
-Apr 14,home,Northern Oklahoma Tonkawa,W,17-5,17,5,12,win,20230414_2cba,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div2,Northern Oklahoma Enid,northernoklahomacollegeenid,natonherchockzk30,Naton Herchock
-Apr 16,home,Northern Oklahoma Tonkawa,W,14-6,14,6,8,win,20230416_4ui2,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div2,Northern Oklahoma Enid,northernoklahomacollegeenid,natonherchockzk30,Naton Herchock
-Apr 20,home,SAU Tech,W,7-5,7,5,2,win,20230420_pctw,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div2,Northern Oklahoma Enid,northernoklahomacollegeenid,natonherchockzk30,Naton Herchock
-Apr 21,home,SAU Tech,L,19-18,19,18,1,win,20230421_p0n6,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div2,Northern Oklahoma Enid,northernoklahomacollegeenid,natonherchockzk30,Naton Herchock
-Apr 29,home,National Park,W,13-11,13,11,2,win,20230429_hyxh,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div2,Northern Oklahoma Enid,northernoklahomacollegeenid,natonherchockzk30,Naton Herchock
-Apr 30,home,National Park,L,10-2,10,2,8,win,20230430_u45a,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div2,Northern Oklahoma Enid,northernoklahomacollegeenid,natonherchockzk30,Naton Herchock
-May 4,home,Carl Albert State,W,16-11,16,11,5,win,20230504_lbue,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div2,Northern Oklahoma Enid,northernoklahomacollegeenid,natonherchockzk30,Naton Herchock
-May 7,home,Carl Albert State,W,14-6,14,6,8,win,20230507_e0ei,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div2,Northern Oklahoma Enid,northernoklahomacollegeenid,natonherchockzk30,Naton Herchock
-May 11,home,Western Oklahoma State,W,6-4,6,4,2,win,20230511_bftb,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div2,Northern Oklahoma Enid,northernoklahomacollegeenid,natonherchockzk30,Naton Herchock
-May 13,home,South Arkansas,L,11-10,11,10,1,win,20230513_jpmp,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div2,Northern Oklahoma Enid,northernoklahomacollegeenid,natonherchockzk30,Naton Herchock
+Apr 16,home,Northern Oklahoma Tonkawa,W,14-6,14,6,8,win,20230416_4ui2,1,0,0,0,0.1,2,4,4,108.00,2,0,2023,2022-23,div2,Northern Oklahoma Enid,northernoklahomacollegeenid,natonherchockzk30,Naton Herchock
+May 2,home,DFW Post Grad,W,22-2,22,2,20,win,20230502_r4mp,0,0,0,0,0.1,1,1,1,27.00,,1,2023,2022-23,div2,Northern Oklahoma Enid,northernoklahomacollegeenid,natonherchockzk30,Naton Herchock

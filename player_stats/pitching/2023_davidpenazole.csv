@@ -1,16 +1,10 @@
 date,location,opponent,result,score,team_score,opp_score,game_score_diff,game_win_loss,game_id,GS,W,L,SV,IP,H,R,ER,ERA,BB,K,HR,season,njcaa_season,njcaa_division,team,team_id,player_id,player_name
-May 12,home,Suffolk County,W,29-18,29,18,11,win,20230512_1b48,0,0,0,0,3.2,2,1,1,2.45,1,4,1,2023,2022-23,div3,Monroe College - Bronx,monroecollegebronx,davidpenazole,David Pena
-May 7,home,RCSJ Gloucester,L,26-1,26,1,25,win,20230507_0pgw,0,0,0,0,1.0,1,1,1,9.00,1,1,0,2023,2022-23,div3,Monroe College - Bronx,monroecollegebronx,davidpenazole,David Pena
-May 3,home,Middlesex College,W,16-15,16,15,1,win,20230503_vuat,0,0,0,0,2.1,3,1,1,3.86,3,1,0,2023,2022-23,div3,Monroe College - Bronx,monroecollegebronx,davidpenazole,David Pena
-Apr 22,home,Bronx,W,9-8,9,8,1,win,20230422_iox1,0,1,0,0,2.0,,2,2,9.00,4,4,,2023,2022-23,div3,Monroe College - Bronx,monroecollegebronx,davidpenazole,David Pena
-Apr 14,home,Kingsborough,W,18-17,18,17,1,win,20230414_gldh,0,0,0,0,2.0,5,6,3,13.50,,4,1,2023,2022-23,div3,Monroe College - Bronx,monroecollegebronx,davidpenazole,David Pena
-Apr 12,home,Kingsborough,W,7-2,7,2,5,win,20230412_pn92,0,0,0,0,1.0,,,,0.00,1,2,,2023,2022-23,div3,Monroe College - Bronx,monroecollegebronx,davidpenazole,David Pena
-Apr 7,home,Suffolk County,W,10-9,10,9,1,win,20230407_71p2,0,0,0,0,1.0,2,4,4,36.00,4,3,,2023,2022-23,div3,Monroe College - Bronx,monroecollegebronx,davidpenazole,David Pena
-Apr 4,home,Suffolk County,L,8-6,8,6,2,win,20230404_yg4o,0,0,0,0,0.1,,,,0.00,,1,,2023,2022-23,div3,Monroe College - Bronx,monroecollegebronx,davidpenazole,David Pena
-Mar 31,home,Dutchess,W,4-2,4,2,2,win,20230331_9bmh,0,0,0,1,1.0,,,,0.00,1,1,,2023,2022-23,div3,Monroe College - Bronx,monroecollegebronx,davidpenazole,David Pena
-Mar 28,home,Hudson Valley,W,8-7,8,7,1,win,20230328_sshm,0,0,0,1,1.0,,,,0.00,,,,2023,2022-23,div3,Monroe College - Bronx,monroecollegebronx,davidpenazole,David Pena
-Mar 24,home,Nassau,W,10-9,10,9,1,win,20230324_m6gx,0,0,0,0,2.0,2,2,2,9.00,5,3,,2023,2022-23,div3,Monroe College - Bronx,monroecollegebronx,davidpenazole,David Pena
-Mar 12,home,Anne Arundel,W,5-3,5,3,2,win,20230312_9qnt,0,0,0,1,1.0,,,,0.00,1,1,,2023,2022-23,div3,Monroe College - Bronx,monroecollegebronx,davidpenazole,David Pena
-Mar 9,home,Cecil,W,12-9,12,9,3,win,20230309_y3e0,0,1,0,0,3.0,1,,,0.00,,3,,2023,2022-23,div3,Monroe College - Bronx,monroecollegebronx,davidpenazole,David Pena
-Feb 23,home,Montgomery,L,3-2,3,2,1,win,20230223_a8bj,0,0,1,0,2.0,2,1,1,4.50,1,1,,2023,2022-23,div3,Monroe College - Bronx,monroecollegebronx,davidpenazole,David Pena
-Feb 19,home,Virginia Peninsula,L,12-6,12,6,6,win,20230219_sqeh,0,0,0,0,2.1,4,5,5,19.29,4,1,0,2023,2022-23,div3,Monroe College - Bronx,monroecollegebronx,davidpenazole,David Pena
+May 12,home,Suffolk County,W,29-18,29,18,11,win,20230512_1b48,0,0,0,0,1.1,2,1,0,0.00,2,0,0,2023,2022-23,div3,Monroe College - Bronx,monroecollegebronx,davidpenazole,David Pena
+May 6,home,Borough of Manhattan,W,19-5,19,5,14,win,20230506_5qe3,1,1,0,0,3.0,3,2,2,6.00,5,2,,2023,2022-23,div3,Monroe College - Bronx,monroecollegebronx,davidpenazole,David Pena
+Apr 27,home,Queensborough,W,6-4,6,4,2,win,20230427_gy96,1,1,0,0,5.0,4,2,2,3.60,4,2,,2023,2022-23,div3,Monroe College - Bronx,monroecollegebronx,davidpenazole,David Pena
+Apr 22,home,Bronx,W,5-3,5,3,2,win,20230422_gi2k,1,0,0,0,3.2,4,3,3,7.36,5,2,,2023,2022-23,div3,Monroe College - Bronx,monroecollegebronx,davidpenazole,David Pena
+Apr 16,home,Kingsborough,L,10-8,10,8,2,win,20230416_5lbw,0,0,0,0,2.1,5,3,3,11.57,1,1,,2023,2022-23,div3,Monroe College - Bronx,monroecollegebronx,davidpenazole,David Pena
+Apr 14,home,Kingsborough,W,18-17,18,17,1,win,20230414_gldh,0,1,0,0,1.1,4,1,,0.00,,1,,2023,2022-23,div3,Monroe College - Bronx,monroecollegebronx,davidpenazole,David Pena
+Apr 3,home,Orange County,W,14-5,14,5,9,win,20230403_nzay,0,0,0,0,1.0,2,2,2,18.00,3,,,2023,2022-23,div3,Monroe College - Bronx,monroecollegebronx,davidpenazole,David Pena
+Mar 26,home,Orange County,W,7-0,7,0,7,win,20230326_i59l,1,1,0,0,7.0,1,0,0,0.00,2,4,0,2023,2022-23,div3,Monroe College - Bronx,monroecollegebronx,davidpenazole,David Pena
+Mar 19,home,Middlesex College,L,12-4,12,4,8,win,20230319_pht3,0,0,0,0,4.0,3,2,2,4.50,3,4,1,2023,2022-23,div3,Monroe College - Bronx,monroecollegebronx,davidpenazole,David Pena
