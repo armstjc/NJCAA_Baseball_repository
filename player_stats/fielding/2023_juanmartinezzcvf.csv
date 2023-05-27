@@ -1,21 +1,16 @@
 date,location,opponent,result,score,team_score,opp_score,game_score_diff,game_win_loss,game_id,TC,PO,A,E,FPCT,DP,SBA,RCS,RCS_PCT,PB,CI,season,njcaa_season,njcaa_division,team,team_id,player_id,player_name
-Mar 21,home,Ivy Tech Fort Wayne,L,11-1,11,1,10,win,20230321_ys22,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div2,Western Oklahoma State,westernoklahomastatecollege,juanmartinezzcvf,Juan Martinez
-Mar 21,home,Ivy Tech Fort Wayne,L,17-2,17,2,15,win,20230321_jb9o,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div2,Western Oklahoma State,westernoklahomastatecollege,juanmartinezzcvf,Juan Martinez
-Mar 26,home,Clark State,L,8-7,8,7,1,win,20230326_tttn,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div2,Western Oklahoma State,westernoklahomastatecollege,juanmartinezzcvf,Juan Martinez
-Apr 2,home,Cuyahoga,L,8-5,8,5,3,win,20230402_k0c4,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div2,Western Oklahoma State,westernoklahomastatecollege,juanmartinezzcvf,Juan Martinez
-Apr 2,home,Cuyahoga,L,5-3,5,3,2,win,20230402_rupz,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div2,Western Oklahoma State,westernoklahomastatecollege,juanmartinezzcvf,Juan Martinez
-Apr 11,home,Terra State,L,4-1,4,1,3,win,20230411_9jie,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div2,Western Oklahoma State,westernoklahomastatecollege,juanmartinezzcvf,Juan Martinez
-Apr 14,home,Edison State,L,10-5,10,5,5,win,20230414_t6e1,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div2,Western Oklahoma State,westernoklahomastatecollege,juanmartinezzcvf,Juan Martinez
-Apr 14,home,Edison State,L,8-6,8,6,2,win,20230414_b1dl,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div2,Western Oklahoma State,westernoklahomastatecollege,juanmartinezzcvf,Juan Martinez
-Apr 15,home,Edison State,W,9-8,9,8,1,win,20230415_9tzh,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div2,Western Oklahoma State,westernoklahomastatecollege,juanmartinezzcvf,Juan Martinez
-Apr 15,home,Edison State,L,9-4,9,4,5,win,20230415_99d1,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div2,Western Oklahoma State,westernoklahomastatecollege,juanmartinezzcvf,Juan Martinez
-Apr 19,home,Terra State,W,3-2,3,2,1,win,20230419_aqbj,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div2,Western Oklahoma State,westernoklahomastatecollege,juanmartinezzcvf,Juan Martinez
-Apr 20,home,Bryant & Stratton (OH),L,5-3,5,3,2,win,20230420_r6tb,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div2,Western Oklahoma State,westernoklahomastatecollege,juanmartinezzcvf,Juan Martinez
-Apr 20,home,Bryant & Stratton (OH),L,14-0,14,0,14,win,20230420_09ah,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div2,Western Oklahoma State,westernoklahomastatecollege,juanmartinezzcvf,Juan Martinez
-Apr 23,home,Bryant & Stratton (OH),L,10-0,10,0,10,win,20230423_wvp7,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div2,Western Oklahoma State,westernoklahomastatecollege,juanmartinezzcvf,Juan Martinez
-Apr 23,home,Bryant & Stratton (OH),L,10-4,10,4,6,win,20230423_7l94,0,0,1,0,2.0,5,7,6,27.00,2,2,2023,2022-23,div2,Western Oklahoma State,westernoklahomastatecollege,juanmartinezzcvf,Juan Martinez
-Apr 25,home,Clark State,W,13-1,13,1,12,win,20230425_yaaz,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div2,Western Oklahoma State,westernoklahomastatecollege,juanmartinezzcvf,Juan Martinez
-Apr 25,home,Clark State,L,5-4,5,4,1,win,20230425_gnx7,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div2,Western Oklahoma State,westernoklahomastatecollege,juanmartinezzcvf,Juan Martinez
-Apr 25,home,Clark State,L,6-4,6,4,2,win,20230425_ty5f,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div2,Western Oklahoma State,westernoklahomastatecollege,juanmartinezzcvf,Juan Martinez
-Apr 30,home,Hocking,W,8-6,8,6,2,win,20230430_uh1n,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div2,Western Oklahoma State,westernoklahomastatecollege,juanmartinezzcvf,Juan Martinez
-Apr 30,home,Hocking,W,19-5,19,5,14,win,20230430_2fam,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div2,Western Oklahoma State,westernoklahomastatecollege,juanmartinezzcvf,Juan Martinez
+Feb 14,home,Oklahoma Christian Jv,W,5-2,5,2,3,win,20230214_tz51,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div2,Western Oklahoma State,westernoklahomastatecollege,juanmartinezzcvf,Juan Martinez
+Feb 18,home,Coastal Bend,W,5-0,5,0,5,win,20230218_8k4v,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div2,Western Oklahoma State,westernoklahomastatecollege,juanmartinezzcvf,Juan Martinez
+Feb 19,home,Alvin,L,6-2,6,2,4,win,20230219_jkr7,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div2,Western Oklahoma State,westernoklahomastatecollege,juanmartinezzcvf,Juan Martinez
+Feb 21,home,Wayland Baptist JV,W,17-5,17,5,12,win,20230221_6izl,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div2,Western Oklahoma State,westernoklahomastatecollege,juanmartinezzcvf,Juan Martinez
+Feb 21,home,Wayland Baptist JV,W,19-3,19,3,16,win,20230221_1w20,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div2,Western Oklahoma State,westernoklahomastatecollege,juanmartinezzcvf,Juan Martinez
+Feb 24,home,El Paso,W,15-2,15,2,13,win,20230224_b0u0,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div2,Western Oklahoma State,westernoklahomastatecollege,juanmartinezzcvf,Juan Martinez
+Feb 25,home,El Paso,L,11-4,11,4,7,win,20230225_dlnb,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div2,Western Oklahoma State,westernoklahomastatecollege,juanmartinezzcvf,Juan Martinez
+Feb 26,home,El Paso,W,12-8,12,8,4,win,20230226_2g6q,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div2,Western Oklahoma State,westernoklahomastatecollege,juanmartinezzcvf,Juan Martinez
+Feb 28,home,Mid America Christian University Jv,W,24-7,24,7,17,win,20230228_4eu1,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div2,Western Oklahoma State,westernoklahomastatecollege,juanmartinezzcvf,Juan Martinez
+Mar 3,home,New Mexico,L,8-2,8,2,6,win,20230303_vcei,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div2,Western Oklahoma State,westernoklahomastatecollege,juanmartinezzcvf,Juan Martinez
+Mar 4,home,New Mexico,L,9-1,9,1,8,win,20230304_0924,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div2,Western Oklahoma State,westernoklahomastatecollege,juanmartinezzcvf,Juan Martinez
+Mar 7,home,Wayland Baptist JV,W,6-3,6,3,3,win,20230307_y8vj,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div2,Western Oklahoma State,westernoklahomastatecollege,juanmartinezzcvf,Juan Martinez
+Mar 19,home,Northern Oklahoma Tonkawa,L,15-5,15,5,10,win,20230319_o0zs,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div2,Western Oklahoma State,westernoklahomastatecollege,juanmartinezzcvf,Juan Martinez
+Mar 22,home,Rose State,L,16-15,16,15,1,win,20230322_vbzw,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div2,Western Oklahoma State,westernoklahomastatecollege,juanmartinezzcvf,Juan Martinez
+Mar 28,home,Seminole State (OK),L,13-7,13,7,6,win,20230328_8i2w,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div2,Western Oklahoma State,westernoklahomastatecollege,juanmartinezzcvf,Juan Martinez

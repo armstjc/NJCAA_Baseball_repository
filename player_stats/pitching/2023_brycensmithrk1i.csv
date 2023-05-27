@@ -1,14 +1,12 @@
 date,location,opponent,result,score,team_score,opp_score,game_score_diff,game_win_loss,game_id,GS,W,L,SV,IP,H,R,ER,ERA,BB,K,HR,season,njcaa_season,njcaa_division,team,team_id,player_id,player_name
-May 4,home,Lake County,W,13-8,13,8,5,win,20230504_ter5,1,1,0,0,6.0,5,7,6,9.00,5,4,,2023,2022-23,div2,Southwest Mississippi,southwestmississippicommunitycollege,brycensmithrk1i,Brycen Smith
-Apr 29,home,Harper,L,6-1,6,1,5,win,20230429_5wbh,1,0,0,0,5.1,6,2,1,1.69,3,6,,2023,2022-23,div2,Southwest Mississippi,southwestmississippicommunitycollege,brycensmithrk1i,Brycen Smith
-Apr 28,home,South Suburban,L,20-7,20,7,13,win,20230428_2019,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div2,Southwest Mississippi,southwestmississippicommunitycollege,brycensmithrk1i,Brycen Smith
-Apr 25,home,Kankakee,L,12-5,12,5,7,win,20230425_6a8i,1,0,0,0,4.2,9,7,1,1.93,2,3,,2023,2022-23,div2,Southwest Mississippi,southwestmississippicommunitycollege,brycensmithrk1i,Brycen Smith
-Apr 22,home,Oakton,W,5-1,5,1,4,win,20230422_ntbd,0,0,0,0,1.0,,,,0.00,,,,2023,2022-23,div2,Southwest Mississippi,southwestmississippicommunitycollege,brycensmithrk1i,Brycen Smith
-Apr 18,home,Prairie State,W,5-2,5,2,3,win,20230418_h6g9,1,1,0,0,7.1,7,2,1,1.23,2,4,,2023,2022-23,div2,Southwest Mississippi,southwestmississippicommunitycollege,brycensmithrk1i,Brycen Smith
-Apr 15,home,Elgin,W,12-4,12,4,8,win,20230415_skcs,0,0,0,0,1.0,,,,0.00,,2,,2023,2022-23,div2,Southwest Mississippi,southwestmississippicommunitycollege,brycensmithrk1i,Brycen Smith
-Apr 11,home,Waubonsee,L,9-5,9,5,4,win,20230411_gjyv,1,0,0,0,1.2,7,8,8,43.20,3,2,,2023,2022-23,div2,Southwest Mississippi,southwestmississippicommunitycollege,brycensmithrk1i,Brycen Smith
-Mar 30,home,Triton,L,4-2,4,2,2,win,20230330_h1ga,1,0,0,0,6.0,7,4,3,4.50,2,2,,2023,2022-23,div2,Southwest Mississippi,southwestmississippicommunitycollege,brycensmithrk1i,Brycen Smith
-Mar 21,home,Rock Valley,L,9-0,9,0,9,win,20230321_0u51,0,0,0,0,5.0,4,4,2,3.60,4,5,,2023,2022-23,div2,Southwest Mississippi,southwestmississippicommunitycollege,brycensmithrk1i,Brycen Smith
-Mar 14,home,Black Hawk-Moline,L,23-0,23,0,23,win,20230314_ge34,0,0,0,0,1.2,6,11,5,27.00,4,3,,2023,2022-23,div2,Southwest Mississippi,southwestmississippicommunitycollege,brycensmithrk1i,Brycen Smith
-Mar 8,home,Olive-Harvey,L,6-5,6,5,1,win,20230308_t7v1,0,0,0,0,1.2,2,,,0.00,,3,,2023,2022-23,div2,Southwest Mississippi,southwestmississippicommunitycollege,brycensmithrk1i,Brycen Smith
-Mar 5,home,North Arkansas,L,9-1,9,1,8,win,20230305_w9ph,1,0,1,0,2.0,3,8,8,36.00,7,0,,2023,2022-23,div2,Southwest Mississippi,southwestmississippicommunitycollege,brycensmithrk1i,Brycen Smith
+May 4,home,Pearl River,L,23-1,23,1,22,win,20230504_nb55,1,0,1,0,2.1,5,8,7,27.00,3,1,1,2023,2022-23,div2,Southwest Mississippi,southwestmississippicommunitycollege,brycensmithrk1i,Brycen Smith
+Apr 12,home,Hinds,W,16-8,16,8,8,win,20230412_wgxy,1,1,0,0,4.0,8,5,5,11.25,2,2,,2023,2022-23,div2,Southwest Mississippi,southwestmississippicommunitycollege,brycensmithrk1i,Brycen Smith
+Apr 4,home,Jones,W,3-2,3,2,1,win,20230404_030v,1,0,0,0,7.0,3,1,0,0.00,3,8,,2023,2022-23,div2,Southwest Mississippi,southwestmississippicommunitycollege,brycensmithrk1i,Brycen Smith
+Mar 29,home,Meridian,L,3-2,3,2,1,win,20230329_p9u2,1,0,1,0,6.0,4,3,2,3.00,4,7,,2023,2022-23,div2,Southwest Mississippi,southwestmississippicommunitycollege,brycensmithrk1i,Brycen Smith
+Mar 21,home,Mississippi Gulf Coast,L,10-7,10,7,3,win,20230321_r9cn,1,0,0,0,6.1,7,7,7,9.95,4,4,1,2023,2022-23,div2,Southwest Mississippi,southwestmississippicommunitycollege,brycensmithrk1i,Brycen Smith
+Mar 15,home,Pearl River,L,22-1,22,1,21,win,20230315_8pt2,1,0,1,0,6.0,5,3,1,1.50,4,8,,2023,2022-23,div2,Southwest Mississippi,southwestmississippicommunitycollege,brycensmithrk1i,Brycen Smith
+Mar 7,home,Hinds,L,7-6,7,6,1,win,20230307_6tgl,1,0,0,0,2.2,2,5,5,16.88,3,3,2,2023,2022-23,div2,Southwest Mississippi,southwestmississippicommunitycollege,brycensmithrk1i,Brycen Smith
+Mar 1,home,Hinds,W,4-1,4,1,3,win,20230301_yb1m,1,1,0,0,4.0,3,1,1,2.25,3,3,0,2023,2022-23,div2,Southwest Mississippi,southwestmississippicommunitycollege,brycensmithrk1i,Brycen Smith
+Feb 21,home,Holmes,L,11-8,11,8,3,win,20230221_mq2w,0,0,1,0,1.0,4,5,5,45.00,2,1,,2023,2022-23,div2,Southwest Mississippi,southwestmississippicommunitycollege,brycensmithrk1i,Brycen Smith
+Feb 18,home,Kaskaskia,L,3-2,3,2,1,win,20230218_52st,1,0,1,0,1.2,3,3,2,10.80,2,0,,2023,2022-23,div2,Southwest Mississippi,southwestmississippicommunitycollege,brycensmithrk1i,Brycen Smith
+Feb 10,home,Mineral Area,W,5-4,5,4,1,win,20230210_czz9,1,0,0,0,3.0,3,0,0,0.00,1,2,,2023,2022-23,div2,Southwest Mississippi,southwestmississippicommunitycollege,brycensmithrk1i,Brycen Smith

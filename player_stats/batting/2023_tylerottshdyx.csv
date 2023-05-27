@@ -1,5 +1,24 @@
 date,location,opponent,result,score,team_score,opp_score,game_score_diff,game_win_loss,game_id,AB,R,H,2B,3B,HR,RBI,BB,K,SB,CS,HBP,SF,SH,TB,XBH,HDP,GO,FO,GO/FO,PA,season,njcaa_season,njcaa_division,team,team_id,player_id,player_name
-Apr 15,home,Elgin,W,12-4,12,4,8,win,20230415_skcs,0,0,0,,,,0,,,,,,,,0,0,,,,,0,2023,2022-23,div2,Southwest Mississippi,southwestmississippicommunitycollege,tylerottshdyx,Tyler Otts
-Apr 18,home,Prairie State,W,5-2,5,2,3,win,20230418_h6g9,0,0,0,,,,0,,,,,,,,0,0,,,,,0,2023,2022-23,div2,Southwest Mississippi,southwestmississippicommunitycollege,tylerottshdyx,Tyler Otts
-Apr 22,home,Oakton,W,5-1,5,1,4,win,20230422_ntbd,0,0,0,,,,0,,,,,,,,0,0,,,,,0,2023,2022-23,div2,Southwest Mississippi,southwestmississippicommunitycollege,tylerottshdyx,Tyler Otts
-May 4,home,Lake County,W,13-8,13,8,5,win,20230504_ter5,0,0,0,,,,0,,,,,,,,0,0,,,,,0,2023,2022-23,div2,Southwest Mississippi,southwestmississippicommunitycollege,tylerottshdyx,Tyler Otts
+Feb 7,home,Baton Rouge,W,1-0,1,0,1,win,20230207_me0s,4,0,1,1,,,1,,1,,1,,,,2,1,,,,,4,2023,2022-23,div2,Southwest Mississippi,southwestmississippicommunitycollege,tylerottshdyx,Tyler Otts
+Feb 10,home,Mineral Area,W,5-4,5,4,1,win,20230210_czz9,3,1,2,,,,1,1,,2,,,,,2,0,,,,,4,2023,2022-23,div2,Southwest Mississippi,southwestmississippicommunitycollege,tylerottshdyx,Tyler Otts
+Feb 13,home,East Central (MS),W,10-3,10,3,7,win,20230213_dntw,2,3,1,,,,1,2,,1,,,,,1,0,,,,,4,2023,2022-23,div2,Southwest Mississippi,southwestmississippicommunitycollege,tylerottshdyx,Tyler Otts
+Feb 13,home,Baton Rouge,W,8-3,8,3,5,win,20230213_863a,4,0,0,,,,0,,2,,,,,,0,0,,,,,4,2023,2022-23,div2,Southwest Mississippi,southwestmississippicommunitycollege,tylerottshdyx,Tyler Otts
+Feb 18,home,Kaskaskia,W,5-4,5,4,1,win,20230218_iyyw,1,0,0,,,,0,2,,,,1,,,0,0,,,,,4,2023,2022-23,div2,Southwest Mississippi,southwestmississippicommunitycollege,tylerottshdyx,Tyler Otts
+Feb 19,home,Southeastern,W,8-5,8,5,3,win,20230219_zsp7,4,1,1,,,1,1,,,,,,,,4,1,,,,,4,2023,2022-23,div2,Southwest Mississippi,southwestmississippicommunitycollege,tylerottshdyx,Tyler Otts
+Feb 24,home,Northwest Mississippi,W,2-1,2,1,1,win,20230224_iun7,3,0,1,,,,1,,,1,,,,,1,0,,,,,3,2023,2022-23,div2,Southwest Mississippi,southwestmississippicommunitycollege,tylerottshdyx,Tyler Otts
+Feb 28,home,Nunez,W,11-4,11,4,7,win,20230228_jlmz,4,0,0,,,,2,1,2,1,,,,,0,0,,,,,5,2023,2022-23,div2,Southwest Mississippi,southwestmississippicommunitycollege,tylerottshdyx,Tyler Otts
+Mar 1,home,Hinds,W,4-1,4,1,3,win,20230301_yb1m,2,1,1,0,0,0,0,1,0,0,0,0,0,0,1,0,,0,,,3,2023,2022-23,div2,Southwest Mississippi,southwestmississippicommunitycollege,tylerottshdyx,Tyler Otts
+Mar 3,home,Southeastern,W,13-2,13,2,11,win,20230303_dy2k,2,2,0,,,,0,2,,,,,,,0,0,,,,,4,2023,2022-23,div2,Southwest Mississippi,southwestmississippicommunitycollege,tylerottshdyx,Tyler Otts
+Mar 11,home,Northwest Mississippi,W,5-2,5,2,3,win,20230311_obwa,3,1,1,,,,1,1,1,1,,,,,1,0,,,,,4,2023,2022-23,div2,Southwest Mississippi,southwestmississippicommunitycollege,tylerottshdyx,Tyler Otts
+Mar 21,home,Mississippi Gulf Coast,W,6-4,6,4,2,win,20230321_5kna,2,0,0,,,,0,1,2,1,,,,,0,0,,,,,3,2023,2022-23,div2,Southwest Mississippi,southwestmississippicommunitycollege,tylerottshdyx,Tyler Otts
+Mar 25,home,Mississippi Delta,W,20-5,20,5,15,win,20230325_0o7t,5,1,2,1,,,2,,,,,,,,3,1,,,,,5,2023,2022-23,div2,Southwest Mississippi,southwestmississippicommunitycollege,tylerottshdyx,Tyler Otts
+Mar 25,home,Mississippi Delta,W,13-5,13,5,8,win,20230325_72n7,3,2,1,,,,0,1,,2,,,,,1,0,,,,,4,2023,2022-23,div2,Southwest Mississippi,southwestmississippicommunitycollege,tylerottshdyx,Tyler Otts
+Apr 4,home,Jones,W,3-2,3,2,1,win,20230404_030v,3,1,2,,,,0,,,,,,,,2,0,,,,,3,2023,2022-23,div2,Southwest Mississippi,southwestmississippicommunitycollege,tylerottshdyx,Tyler Otts
+Apr 10,home,Holmes,W,5-4,5,4,1,win,20230410_2pnk,3,0,1,,,,0,,,,,,,,1,0,,,,,3,2023,2022-23,div2,Southwest Mississippi,southwestmississippicommunitycollege,tylerottshdyx,Tyler Otts
+Apr 10,home,Holmes,W,16-2,16,2,14,win,20230410_4ot0,3,2,3,1,,,1,1,,,,,,,4,1,,,,,4,2023,2022-23,div2,Southwest Mississippi,southwestmississippicommunitycollege,tylerottshdyx,Tyler Otts
+Apr 12,home,Hinds,W,12-2,12,2,10,win,20230412_8yi2,4,2,1,,,,2,,,,,,,,1,0,1,,,,4,2023,2022-23,div2,Southwest Mississippi,southwestmississippicommunitycollege,tylerottshdyx,Tyler Otts
+Apr 12,home,Hinds,W,16-8,16,8,8,win,20230412_wgxy,2,3,1,,,,0,1,,1,1,1,,,1,0,,,,,4,2023,2022-23,div2,Southwest Mississippi,southwestmississippicommunitycollege,tylerottshdyx,Tyler Otts
+Apr 15,home,East Mississippi,W,4-0,4,0,4,win,20230415_v2uz,3,0,2,,,,2,,1,,,,,,2,0,,,,,3,2023,2022-23,div2,Southwest Mississippi,southwestmississippicommunitycollege,tylerottshdyx,Tyler Otts
+Apr 18,home,Copiah-Lincoln,W,3-1,3,1,2,win,20230418_t8x9,3,0,1,,,,0,,1,1,1,,,,1,0,,,,,3,2023,2022-23,div2,Southwest Mississippi,southwestmississippicommunitycollege,tylerottshdyx,Tyler Otts
+Apr 20,home,Coahoma,W,13-6,13,6,7,win,20230420_n186,5,1,1,,,,1,,,,,,,,1,0,,,,,5,2023,2022-23,div2,Southwest Mississippi,southwestmississippicommunitycollege,tylerottshdyx,Tyler Otts
+Apr 20,home,Coahoma,W,10-7,10,7,3,win,20230420_1qyb,2,2,1,,,,0,1,,1,,,,,1,0,,,,,3,2023,2022-23,div2,Southwest Mississippi,southwestmississippicommunitycollege,tylerottshdyx,Tyler Otts

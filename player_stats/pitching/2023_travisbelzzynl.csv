@@ -1,40 +1,18 @@
 date,location,opponent,result,score,team_score,opp_score,game_score_diff,game_win_loss,game_id,GS,W,L,SV,IP,H,R,ER,ERA,BB,K,HR,season,njcaa_season,njcaa_division,team,team_id,player_id,player_name
-May 15,home,South Arkansas,L,6-4,6,4,2,win,20230515_qtbf,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div2,Western Oklahoma State,westernoklahomastatecollege,travisbelzzynl,Travis Belz
-May 15,home,South Arkansas,W,17-3,17,3,14,win,20230515_ue22,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div2,Western Oklahoma State,westernoklahomastatecollege,travisbelzzynl,Travis Belz
-May 14,home,Northern Oklahoma Enid,W,16-8,16,8,8,win,20230514_uq27,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div2,Western Oklahoma State,westernoklahomastatecollege,travisbelzzynl,Travis Belz
-May 11,home,Northern Oklahoma Enid,L,6-4,6,4,2,win,20230511_bftb,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div2,Western Oklahoma State,westernoklahomastatecollege,travisbelzzynl,Travis Belz
-May 6,home,Murray State,W,19-3,19,3,16,win,20230506_3pcu,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div2,Western Oklahoma State,westernoklahomastatecollege,travisbelzzynl,Travis Belz
-May 6,home,Murray State,W,9-4,9,4,5,win,20230506_ctsp,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div2,Western Oklahoma State,westernoklahomastatecollege,travisbelzzynl,Travis Belz
-May 4,home,Murray State,L,11-7,11,7,4,win,20230504_cyif,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div2,Western Oklahoma State,westernoklahomastatecollege,travisbelzzynl,Travis Belz
-May 4,home,Murray State,W,7-6,7,6,1,win,20230504_v0w0,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div2,Western Oklahoma State,westernoklahomastatecollege,travisbelzzynl,Travis Belz
-May 2,home,Rose State,W,8-7,8,7,1,win,20230502_3n19,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div2,Western Oklahoma State,westernoklahomastatecollege,travisbelzzynl,Travis Belz
-Apr 30,home,Redlands,W,10-2,10,2,8,win,20230430_42yw,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div2,Western Oklahoma State,westernoklahomastatecollege,travisbelzzynl,Travis Belz
-Apr 30,home,Redlands,W,9-0,9,0,9,win,20230430_c0st,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div2,Western Oklahoma State,westernoklahomastatecollege,travisbelzzynl,Travis Belz
-Apr 29,home,Redlands,L,9-8,9,8,1,win,20230429_viww,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div2,Western Oklahoma State,westernoklahomastatecollege,travisbelzzynl,Travis Belz
-Apr 29,home,Redlands,W,3-2,3,2,1,win,20230429_4yjo,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div2,Western Oklahoma State,westernoklahomastatecollege,travisbelzzynl,Travis Belz
-Apr 20,home,South Arkansas,L,13-9,13,9,4,win,20230420_eppc,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div2,Western Oklahoma State,westernoklahomastatecollege,travisbelzzynl,Travis Belz
-Apr 20,home,South Arkansas,L,6-4,6,4,2,win,20230420_zxkx,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div2,Western Oklahoma State,westernoklahomastatecollege,travisbelzzynl,Travis Belz
-Apr 19,home,South Arkansas,L,8-7,8,7,1,win,20230419_ug5n,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div2,Western Oklahoma State,westernoklahomastatecollege,travisbelzzynl,Travis Belz
-Apr 15,home,UA Rich Mountain,W,6-5,6,5,1,win,20230415_vwk9,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div2,Western Oklahoma State,westernoklahomastatecollege,travisbelzzynl,Travis Belz
-Apr 15,home,UA Rich Mountain,W,6-3,6,3,3,win,20230415_lrq4,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div2,Western Oklahoma State,westernoklahomastatecollege,travisbelzzynl,Travis Belz
-Apr 14,home,UA Rich Mountain,W,10-0,10,0,10,win,20230414_0rq2,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div2,Western Oklahoma State,westernoklahomastatecollege,travisbelzzynl,Travis Belz
-Apr 11,home,Seminole State (OK),W,13-6,13,6,7,win,20230411_keuj,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div2,Western Oklahoma State,westernoklahomastatecollege,travisbelzzynl,Travis Belz
-Apr 8,home,Northern Oklahoma Enid,W,18-10,18,10,8,win,20230408_pky8,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div2,Western Oklahoma State,westernoklahomastatecollege,travisbelzzynl,Travis Belz
-Apr 8,home,Northern Oklahoma Enid,W,9-8,9,8,1,win,20230408_nt7b,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div2,Western Oklahoma State,westernoklahomastatecollege,travisbelzzynl,Travis Belz
-Apr 5,home,Northern Oklahoma Enid,W,21-7,21,7,14,win,20230405_u4lv,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div2,Western Oklahoma State,westernoklahomastatecollege,travisbelzzynl,Travis Belz
-Apr 5,home,Northern Oklahoma Enid,W,11-1,11,1,10,win,20230405_nets,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div2,Western Oklahoma State,westernoklahomastatecollege,travisbelzzynl,Travis Belz
-Apr 2,home,National Park,L,5-3,5,3,2,win,20230402_yp5i,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div2,Western Oklahoma State,westernoklahomastatecollege,travisbelzzynl,Travis Belz
-Apr 2,home,National Park,W,7-2,7,2,5,win,20230402_1zaq,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div2,Western Oklahoma State,westernoklahomastatecollege,travisbelzzynl,Travis Belz
-Apr 1,home,National Park,W,12-4,12,4,8,win,20230401_1t2j,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div2,Western Oklahoma State,westernoklahomastatecollege,travisbelzzynl,Travis Belz
-Mar 25,home,SAU Tech,W,4-3,4,3,1,win,20230325_3x1a,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div2,Western Oklahoma State,westernoklahomastatecollege,travisbelzzynl,Travis Belz
-Mar 25,home,SAU Tech,W,6-3,6,3,3,win,20230325_t0l1,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div2,Western Oklahoma State,westernoklahomastatecollege,travisbelzzynl,Travis Belz
-Mar 24,home,SAU Tech,W,20-10,20,10,10,win,20230324_q16e,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div2,Western Oklahoma State,westernoklahomastatecollege,travisbelzzynl,Travis Belz
-Mar 24,home,SAU Tech,W,13-12,13,12,1,win,20230324_n38w,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div2,Western Oklahoma State,westernoklahomastatecollege,travisbelzzynl,Travis Belz
-Mar 22,home,Rose State,L,16-15,16,15,1,win,20230322_vbzw,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div2,Western Oklahoma State,westernoklahomastatecollege,travisbelzzynl,Travis Belz
-Mar 19,home,Northern Oklahoma Tonkawa,L,6-0,6,0,6,win,20230319_gcz2,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div2,Western Oklahoma State,westernoklahomastatecollege,travisbelzzynl,Travis Belz
-Mar 17,home,Northern Oklahoma Tonkawa,L,4-3,4,3,1,win,20230317_1xpt,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div2,Western Oklahoma State,westernoklahomastatecollege,travisbelzzynl,Travis Belz
-Mar 17,home,Northern Oklahoma Tonkawa,W,6-3,6,3,3,win,20230317_bmwj,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div2,Western Oklahoma State,westernoklahomastatecollege,travisbelzzynl,Travis Belz
-Mar 11,home,Carl Albert State,W,10-8,10,8,2,win,20230311_5v7u,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div2,Western Oklahoma State,westernoklahomastatecollege,travisbelzzynl,Travis Belz
-Mar 11,home,Carl Albert State,W,22-1,22,1,21,win,20230311_942l,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div2,Western Oklahoma State,westernoklahomastatecollege,travisbelzzynl,Travis Belz
-Feb 28,home,Mid America Christian University Jv,W,24-7,24,7,17,win,20230228_4eu1,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div2,Western Oklahoma State,westernoklahomastatecollege,travisbelzzynl,Travis Belz
-Feb 21,home,Wayland Baptist JV,W,19-3,19,3,16,win,20230221_1w20,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div2,Western Oklahoma State,westernoklahomastatecollege,travisbelzzynl,Travis Belz
+May 14,home,Northern Oklahoma Enid,W,16-8,16,8,8,win,20230514_uq27,1,0,0,0,5.0,5,6,2,3.60,2,2,1,2023,2022-23,div2,Western Oklahoma State,westernoklahomastatecollege,travisbelzzynl,Travis Belz
+May 6,home,Murray State,W,19-3,19,3,16,win,20230506_3pcu,0,1,0,0,4.0,3,,,0.00,4,3,,2023,2022-23,div2,Western Oklahoma State,westernoklahomastatecollege,travisbelzzynl,Travis Belz
+May 2,home,Rose State,W,8-7,8,7,1,win,20230502_3n19,0,0,0,0,1.0,,,,0.00,,,,2023,2022-23,div2,Western Oklahoma State,westernoklahomastatecollege,travisbelzzynl,Travis Belz
+Apr 30,home,Redlands,W,10-2,10,2,8,win,20230430_42yw,0,0,0,0,2.0,4,1,,0.00,,3,,2023,2022-23,div2,Western Oklahoma State,westernoklahomastatecollege,travisbelzzynl,Travis Belz
+Apr 19,home,South Arkansas,L,11-8,11,8,3,win,20230419_hsji,1,0,0,0,1.0,1,2,2,18.00,2,1,,2023,2022-23,div2,Western Oklahoma State,westernoklahomastatecollege,travisbelzzynl,Travis Belz
+Apr 14,home,UA Rich Mountain,W,10-0,10,0,10,win,20230414_0rq2,1,1,0,0,6.0,4,0,0,0.00,1,4,,2023,2022-23,div2,Western Oklahoma State,westernoklahomastatecollege,travisbelzzynl,Travis Belz
+Apr 8,home,Northern Oklahoma Enid,W,18-10,18,10,8,win,20230408_pky8,1,1,0,0,3.0,3,3,3,9.00,3,4,,2023,2022-23,div2,Western Oklahoma State,westernoklahomastatecollege,travisbelzzynl,Travis Belz
+Apr 1,home,National Park,W,10-4,10,4,6,win,20230401_c2ho,1,1,0,0,5.0,5,2,2,3.60,4,5,,2023,2022-23,div2,Western Oklahoma State,westernoklahomastatecollege,travisbelzzynl,Travis Belz
+Mar 25,home,SAU Tech,W,4-3,4,3,1,win,20230325_3x1a,1,0,0,0,6.0,5,2,1,1.50,0,6,,2023,2022-23,div2,Western Oklahoma State,westernoklahomastatecollege,travisbelzzynl,Travis Belz
+Mar 22,home,Rose State,L,16-15,16,15,1,win,20230322_vbzw,0,0,0,0,2.0,1,1,,0.00,2,3,,2023,2022-23,div2,Western Oklahoma State,westernoklahomastatecollege,travisbelzzynl,Travis Belz
+Mar 19,home,Northern Oklahoma Tonkawa,L,15-5,15,5,10,win,20230319_o0zs,1,0,1,0,2.1,5,5,5,19.29,2,3,,2023,2022-23,div2,Western Oklahoma State,westernoklahomastatecollege,travisbelzzynl,Travis Belz
+Mar 11,home,Carl Albert State,W,10-8,10,8,2,win,20230311_5v7u,1,0,0,0,2.0,3,1,1,4.50,1,1,1,2023,2022-23,div2,Western Oklahoma State,westernoklahomastatecollege,travisbelzzynl,Travis Belz
+Mar 7,home,Wayland Baptist JV,W,6-3,6,3,3,win,20230307_y8vj,0,0,0,0,1.0,1,,,0.00,,,,2023,2022-23,div2,Western Oklahoma State,westernoklahomastatecollege,travisbelzzynl,Travis Belz
+Feb 26,home,El Paso,W,12-8,12,8,4,win,20230226_2g6q,1,1,0,0,5.0,8,4,3,5.40,1,4,,2023,2022-23,div2,Western Oklahoma State,westernoklahomastatecollege,travisbelzzynl,Travis Belz
+Feb 24,home,El Paso,W,15-2,15,2,13,win,20230224_b0u0,0,0,0,0,0.1,,,,0.00,1,1,,2023,2022-23,div2,Western Oklahoma State,westernoklahomastatecollege,travisbelzzynl,Travis Belz
+Feb 19,home,Alvin,L,6-2,6,2,4,win,20230219_jkr7,1,0,1,0,3.1,7,4,4,10.80,1,1,,2023,2022-23,div2,Western Oklahoma State,westernoklahomastatecollege,travisbelzzynl,Travis Belz
+Feb 14,home,Oklahoma Christian Jv,W,5-2,5,2,3,win,20230214_tz51,0,0,0,1,2.0,1,,,0.00,1,2,,2023,2022-23,div2,Western Oklahoma State,westernoklahomastatecollege,travisbelzzynl,Travis Belz

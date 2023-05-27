@@ -1,17 +1,29 @@
 date,location,opponent,result,score,team_score,opp_score,game_score_diff,game_win_loss,game_id,GS,W,L,SV,IP,H,R,ER,ERA,BB,K,HR,season,njcaa_season,njcaa_division,team,team_id,player_id,player_name
-May 6,home,Lenoir,L,5-4,5,4,1,win,20230506_i0s8,1,0,0,0,3.0,3,5,5,15.00,3,6,0,2023,2022-23,div2,Ivy Tech Fort Wayne,ivytechcommunitycollegenortheast,grantcollinshdte,Grant Collins
-Apr 25,home,Limestone JV,W,9-1,9,1,8,win,20230425_wku3,1,0,0,0,3.0,0,0,0,0.00,0,5,0,2023,2022-23,div2,Ivy Tech Fort Wayne,ivytechcommunitycollegenortheast,grantcollinshdte,Grant Collins
-Apr 19,home,Rockingham,W,11-0,11,0,11,win,20230419_o6nl,0,0,0,0,3.0,2,0,0,0.00,1,4,0,2023,2022-23,div2,Ivy Tech Fort Wayne,ivytechcommunitycollegenortheast,grantcollinshdte,Grant Collins
-Apr 12,home,Rockingham,W,10-9,10,9,1,win,20230412_895q,1,0,0,0,3.0,0,0,0,0.00,1,4,0,2023,2022-23,div2,Ivy Tech Fort Wayne,ivytechcommunitycollegenortheast,grantcollinshdte,Grant Collins
-Apr 6,home,Guilford Tech,L,9-6,9,6,3,win,20230406_algq,0,0,1,0,1.0,3,3,3,27.00,1,2,0,2023,2022-23,div2,Ivy Tech Fort Wayne,ivytechcommunitycollegenortheast,grantcollinshdte,Grant Collins
-Apr 2,home,Patrick & Henry,W,4-2,4,2,2,win,20230402_rpm2,0,0,0,0,1.0,0,0,0,0.00,1,1,0,2023,2022-23,div2,Ivy Tech Fort Wayne,ivytechcommunitycollegenortheast,grantcollinshdte,Grant Collins
-Mar 26,home,Catawba Valley,L,5-1,5,1,4,win,20230326_os1n,0,0,0,0,2.0,1,0,0,0.00,1,2,0,2023,2022-23,div2,Ivy Tech Fort Wayne,ivytechcommunitycollegenortheast,grantcollinshdte,Grant Collins
-Mar 15,home,Florence-Darlington Tech,W,12-8,12,8,4,win,20230315_xfit,0,0,0,0,1.0,2,1,1,9.00,0,2,0,2023,2022-23,div2,Ivy Tech Fort Wayne,ivytechcommunitycollegenortheast,grantcollinshdte,Grant Collins
-Mar 8,home,Caldwell Tech,L,14-11,14,11,3,win,20230308_28ze,0,0,0,0,0.2,0,0,0,0.00,1,1,0,2023,2022-23,div2,Ivy Tech Fort Wayne,ivytechcommunitycollegenortheast,grantcollinshdte,Grant Collins
-Mar 1,home,Caldwell Tech,L,10-7,10,7,3,win,20230301_1qps,0,0,0,0,2.0,3,3,1,4.50,1,4,0,2023,2022-23,div2,Ivy Tech Fort Wayne,ivytechcommunitycollegenortheast,grantcollinshdte,Grant Collins
-Feb 26,home,Patrick & Henry,L,9-1,9,1,8,win,20230226_5qgd,0,0,0,0,0.0,0,0,0,0.00,0,0,0,2023,2022-23,div2,Ivy Tech Fort Wayne,ivytechcommunitycollegenortheast,grantcollinshdte,Grant Collins
-Feb 25,home,Patrick & Henry,L,2-1,2,1,1,win,20230225_yrmu,0,0,0,0,0.1,,1,,0.00,2,1,,2023,2022-23,div2,Ivy Tech Fort Wayne,ivytechcommunitycollegenortheast,grantcollinshdte,Grant Collins
-Feb 22,home,Catawba Valley,W,6-4,6,4,2,win,20230222_b9fe,0,1,0,0,3.1,0,0,0,0.00,3,4,0,2023,2022-23,div2,Ivy Tech Fort Wayne,ivytechcommunitycollegenortheast,grantcollinshdte,Grant Collins
-Feb 19,home,USC Union,L,5-4,5,4,1,win,20230219_zl64,0,0,1,0,0.2,0,1,0,0.00,2,2,0,2023,2022-23,div2,Ivy Tech Fort Wayne,ivytechcommunitycollegenortheast,grantcollinshdte,Grant Collins
-Feb 11,home,Spartanburg Methodist,L,5-4,5,4,1,win,20230211_2hzt,0,0,1,0,2.0,,1,1,4.50,3,1,,2023,2022-23,div2,Ivy Tech Fort Wayne,ivytechcommunitycollegenortheast,grantcollinshdte,Grant Collins
-Jan 29,home,Southeastern-Whiteville,L,12-11,12,11,1,win,20230129_b37a,0,0,0,0,4.0,2,2,2,4.50,3,10,0,2023,2022-23,div2,Ivy Tech Fort Wayne,ivytechcommunitycollegenortheast,grantcollinshdte,Grant Collins
+May 11,home,Grand Rapids,L,3-0,3,0,3,win,20230511_pccn,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div2,Ivy Tech Fort Wayne,ivytechcommunitycollegenortheast,grantcollinshdte,Grant Collins
+May 11,home,Grand Rapids,L,12-2,12,2,10,win,20230511_man1,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div2,Ivy Tech Fort Wayne,ivytechcommunitycollegenortheast,grantcollinshdte,Grant Collins
+May 4,home,Clark State,W,6-5,6,5,1,win,20230504_ghy5,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div2,Ivy Tech Fort Wayne,ivytechcommunitycollegenortheast,grantcollinshdte,Grant Collins
+May 4,home,Edison State,W,3-1,3,1,2,win,20230504_4hfl,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div2,Ivy Tech Fort Wayne,ivytechcommunitycollegenortheast,grantcollinshdte,Grant Collins
+May 2,home,Indiana Tech JV,L,5-2,5,2,3,win,20230502_1x2y,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div2,Ivy Tech Fort Wayne,ivytechcommunitycollegenortheast,grantcollinshdte,Grant Collins
+May 2,home,Indiana Tech JV,L,13-5,13,5,8,win,20230502_ca0k,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div2,Ivy Tech Fort Wayne,ivytechcommunitycollegenortheast,grantcollinshdte,Grant Collins
+Apr 27,home,University of Northwestern Ohio JV,W,23-1,23,1,22,win,20230427_w1c2,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div2,Ivy Tech Fort Wayne,ivytechcommunitycollegenortheast,grantcollinshdte,Grant Collins
+Apr 25,home,Jackson,W,1-0,1,0,1,win,20230425_mv3r,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div2,Ivy Tech Fort Wayne,ivytechcommunitycollegenortheast,grantcollinshdte,Grant Collins
+Apr 22,home,Owens,L,10-4,10,4,6,win,20230422_qfzk,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div2,Ivy Tech Fort Wayne,ivytechcommunitycollegenortheast,grantcollinshdte,Grant Collins
+Apr 20,home,Adrian University JV,W,17-7,17,7,10,win,20230420_vay4,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div2,Ivy Tech Fort Wayne,ivytechcommunitycollegenortheast,grantcollinshdte,Grant Collins
+Apr 18,home,Glen Oaks,W,11-1,11,1,10,win,20230418_pwov,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div2,Ivy Tech Fort Wayne,ivytechcommunitycollegenortheast,grantcollinshdte,Grant Collins
+Apr 15,home,Terra State,W,11-4,11,4,7,win,20230415_rtxd,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div2,Ivy Tech Fort Wayne,ivytechcommunitycollegenortheast,grantcollinshdte,Grant Collins
+Apr 12,home,Clark State,W,11-6,11,6,5,win,20230412_4zjq,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div2,Ivy Tech Fort Wayne,ivytechcommunitycollegenortheast,grantcollinshdte,Grant Collins
+Apr 12,home,Clark State,W,10-4,10,4,6,win,20230412_gdd9,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div2,Ivy Tech Fort Wayne,ivytechcommunitycollegenortheast,grantcollinshdte,Grant Collins
+Apr 11,home,Kellogg,L,17-9,17,9,8,win,20230411_ibwz,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div2,Ivy Tech Fort Wayne,ivytechcommunitycollegenortheast,grantcollinshdte,Grant Collins
+Apr 8,home,Muskegon,W,9-8,9,8,1,win,20230408_lj6f,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div2,Ivy Tech Fort Wayne,ivytechcommunitycollegenortheast,grantcollinshdte,Grant Collins
+Apr 6,home,Adrian University JV,W,5-4,5,4,1,win,20230406_urxw,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div2,Ivy Tech Fort Wayne,ivytechcommunitycollegenortheast,grantcollinshdte,Grant Collins
+Apr 6,home,Adrian University JV,W,4-0,4,0,4,win,20230406_6v9u,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div2,Ivy Tech Fort Wayne,ivytechcommunitycollegenortheast,grantcollinshdte,Grant Collins
+Mar 21,home,Lakeland,W,11-1,11,1,10,win,20230321_ys22,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div2,Ivy Tech Fort Wayne,ivytechcommunitycollegenortheast,grantcollinshdte,Grant Collins
+Mar 6,home,Anderson University,W,9-7,9,7,2,win,20230306_y7bg,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div2,Ivy Tech Fort Wayne,ivytechcommunitycollegenortheast,grantcollinshdte,Grant Collins
+Mar 1,home,Edison State,W,21-6,21,6,15,win,20230301_ktfa,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div2,Ivy Tech Fort Wayne,ivytechcommunitycollegenortheast,grantcollinshdte,Grant Collins
+Mar 1,home,Edison State,L,6-5,6,5,1,win,20230301_k9wj,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div2,Ivy Tech Fort Wayne,ivytechcommunitycollegenortheast,grantcollinshdte,Grant Collins
+Feb 28,home,Edison State,L,8-3,8,3,5,win,20230228_0bcl,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div2,Ivy Tech Fort Wayne,ivytechcommunitycollegenortheast,grantcollinshdte,Grant Collins
+Feb 19,home,Olney Central,W,2-1,2,1,1,win,20230219_22is,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div2,Ivy Tech Fort Wayne,ivytechcommunitycollegenortheast,grantcollinshdte,Grant Collins
+Feb 19,home,Olney Central,L,9-2,9,2,7,win,20230219_9u3l,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div2,Ivy Tech Fort Wayne,ivytechcommunitycollegenortheast,grantcollinshdte,Grant Collins
+Feb 18,home,Olney Central,L,9-1,9,1,8,win,20230218_e3dt,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div2,Ivy Tech Fort Wayne,ivytechcommunitycollegenortheast,grantcollinshdte,Grant Collins
+Feb 18,home,Olney Central,L,5-3,5,3,2,win,20230218_c8dz,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div2,Ivy Tech Fort Wayne,ivytechcommunitycollegenortheast,grantcollinshdte,Grant Collins
+Feb 7,home,Kellogg,L,9-2,9,2,7,win,20230207_bgr6,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div2,Ivy Tech Fort Wayne,ivytechcommunitycollegenortheast,grantcollinshdte,Grant Collins

@@ -1,21 +1,9 @@
 date,location,opponent,result,score,team_score,opp_score,game_score_diff,game_win_loss,game_id,TC,PO,A,E,FPCT,DP,SBA,RCS,RCS_PCT,PB,CI,season,njcaa_season,njcaa_division,team,team_id,player_id,player_name
-Mar 21,home,Ivy Tech Fort Wayne,L,11-1,11,1,10,win,20230321_ys22,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div2,Lake County,collegeoflakecounty,cadenherron8gae,Caden Herron
-Mar 21,home,Ivy Tech Fort Wayne,L,17-2,17,2,15,win,20230321_jb9o,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div2,Lake County,collegeoflakecounty,cadenherron8gae,Caden Herron
-Mar 26,home,Clark State,L,8-7,8,7,1,win,20230326_tttn,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div2,Lake County,collegeoflakecounty,cadenherron8gae,Caden Herron
-Apr 2,home,Cuyahoga,L,8-5,8,5,3,win,20230402_k0c4,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div2,Lake County,collegeoflakecounty,cadenherron8gae,Caden Herron
-Apr 2,home,Cuyahoga,L,5-3,5,3,2,win,20230402_rupz,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div2,Lake County,collegeoflakecounty,cadenherron8gae,Caden Herron
-Apr 11,home,Terra State,L,4-1,4,1,3,win,20230411_9jie,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div2,Lake County,collegeoflakecounty,cadenherron8gae,Caden Herron
-Apr 14,home,Edison State,L,10-5,10,5,5,win,20230414_t6e1,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div2,Lake County,collegeoflakecounty,cadenherron8gae,Caden Herron
-Apr 14,home,Edison State,L,8-6,8,6,2,win,20230414_b1dl,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div2,Lake County,collegeoflakecounty,cadenherron8gae,Caden Herron
-Apr 15,home,Edison State,W,9-8,9,8,1,win,20230415_9tzh,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div2,Lake County,collegeoflakecounty,cadenherron8gae,Caden Herron
-Apr 15,home,Edison State,L,9-4,9,4,5,win,20230415_99d1,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div2,Lake County,collegeoflakecounty,cadenherron8gae,Caden Herron
-Apr 19,home,Terra State,W,3-2,3,2,1,win,20230419_aqbj,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div2,Lake County,collegeoflakecounty,cadenherron8gae,Caden Herron
-Apr 20,home,Bryant & Stratton (OH),L,5-3,5,3,2,win,20230420_r6tb,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div2,Lake County,collegeoflakecounty,cadenherron8gae,Caden Herron
-Apr 20,home,Bryant & Stratton (OH),L,14-0,14,0,14,win,20230420_09ah,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div2,Lake County,collegeoflakecounty,cadenherron8gae,Caden Herron
-Apr 23,home,Bryant & Stratton (OH),L,10-0,10,0,10,win,20230423_wvp7,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div2,Lake County,collegeoflakecounty,cadenherron8gae,Caden Herron
-Apr 23,home,Bryant & Stratton (OH),L,10-4,10,4,6,win,20230423_7l94,0,0,1,0,2.0,5,7,6,27.00,2,2,2023,2022-23,div2,Lake County,collegeoflakecounty,cadenherron8gae,Caden Herron
-Apr 25,home,Clark State,W,13-1,13,1,12,win,20230425_yaaz,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div2,Lake County,collegeoflakecounty,cadenherron8gae,Caden Herron
-Apr 25,home,Clark State,L,5-4,5,4,1,win,20230425_gnx7,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div2,Lake County,collegeoflakecounty,cadenherron8gae,Caden Herron
-Apr 25,home,Clark State,L,6-4,6,4,2,win,20230425_ty5f,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div2,Lake County,collegeoflakecounty,cadenherron8gae,Caden Herron
-Apr 30,home,Hocking,W,8-6,8,6,2,win,20230430_uh1n,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div2,Lake County,collegeoflakecounty,cadenherron8gae,Caden Herron
-Apr 30,home,Hocking,W,19-5,19,5,14,win,20230430_2fam,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div2,Lake County,collegeoflakecounty,cadenherron8gae,Caden Herron
+Mar 5,home,St. Cloud Tech,W,6-4,6,4,2,win,20230305_vajj,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div2,Lake County,collegeoflakecounty,cadenherron8gae,Caden Herron
+Mar 6,home,Penn State New Kensington,W,13-3,13,3,10,win,20230306_urhp,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div2,Lake County,collegeoflakecounty,cadenherron8gae,Caden Herron
+Mar 8,home,Penn State Mont Alto,W,19-8,19,8,11,win,20230308_kxmc,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div2,Lake County,collegeoflakecounty,cadenherron8gae,Caden Herron
+Mar 9,home,Penn State Beaver,W,11-0,11,0,11,win,20230309_f1dc,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div2,Lake County,collegeoflakecounty,cadenherron8gae,Caden Herron
+Mar 9,home,Penn State Beaver,W,14-1,14,1,13,win,20230309_cyh6,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div2,Lake County,collegeoflakecounty,cadenherron8gae,Caden Herron
+Mar 20,home,Bryant & Stratton College (WI),T,5-5,5,5,0,tie,20230320_5t67,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div2,Lake County,collegeoflakecounty,cadenherron8gae,Caden Herron
+Mar 28,home,Rock Valley,W,8-2,8,2,6,win,20230328_l0dh,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div2,Lake County,collegeoflakecounty,cadenherron8gae,Caden Herron
+Apr 8,home,Moraine Valley,L,4-2,4,2,2,win,20230408_0q7r,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div2,Lake County,collegeoflakecounty,cadenherron8gae,Caden Herron

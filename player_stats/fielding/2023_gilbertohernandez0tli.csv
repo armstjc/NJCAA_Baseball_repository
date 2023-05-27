@@ -1,14 +1,29 @@
 date,location,opponent,result,score,team_score,opp_score,game_score_diff,game_win_loss,game_id,TC,PO,A,E,FPCT,DP,SBA,RCS,RCS_PCT,PB,CI,season,njcaa_season,njcaa_division,team,team_id,player_id,player_name
-Mar 5,home,North Arkansas,L,9-1,9,1,8,win,20230305_w9ph,1,0,1,0,2.0,3,8,8,36.00,7,0,2023,2022-23,div2,Moraine Valley,morainevalleycommunitycollege,gilbertohernandez0tli,Gilberto Hernandez
-Mar 8,home,Olive-Harvey,L,6-5,6,5,1,win,20230308_t7v1,0,0,0,0,1.2,2,,,0.00,,3,2023,2022-23,div2,Moraine Valley,morainevalleycommunitycollege,gilbertohernandez0tli,Gilberto Hernandez
-Mar 14,home,Black Hawk-Moline,L,23-0,23,0,23,win,20230314_ge34,0,0,0,0,1.2,6,11,5,27.00,4,3,2023,2022-23,div2,Moraine Valley,morainevalleycommunitycollege,gilbertohernandez0tli,Gilberto Hernandez
-Mar 21,home,Rock Valley,L,9-0,9,0,9,win,20230321_0u51,0,0,0,0,5.0,4,4,2,3.60,4,5,2023,2022-23,div2,Moraine Valley,morainevalleycommunitycollege,gilbertohernandez0tli,Gilberto Hernandez
-Mar 30,home,Triton,L,4-2,4,2,2,win,20230330_h1ga,1,0,0,0,6.0,7,4,3,4.50,2,2,2023,2022-23,div2,Moraine Valley,morainevalleycommunitycollege,gilbertohernandez0tli,Gilberto Hernandez
-Apr 11,home,Waubonsee,L,9-5,9,5,4,win,20230411_gjyv,1,0,0,0,1.2,7,8,8,43.20,3,2,2023,2022-23,div2,Moraine Valley,morainevalleycommunitycollege,gilbertohernandez0tli,Gilberto Hernandez
-Apr 15,home,Elgin,W,12-4,12,4,8,win,20230415_skcs,0,0,0,0,1.0,,,,0.00,,2,2023,2022-23,div2,Moraine Valley,morainevalleycommunitycollege,gilbertohernandez0tli,Gilberto Hernandez
-Apr 18,home,Prairie State,W,5-2,5,2,3,win,20230418_h6g9,1,1,0,0,7.1,7,2,1,1.23,2,4,2023,2022-23,div2,Moraine Valley,morainevalleycommunitycollege,gilbertohernandez0tli,Gilberto Hernandez
-Apr 22,home,Oakton,W,5-1,5,1,4,win,20230422_ntbd,0,0,0,0,1.0,,,,0.00,,,2023,2022-23,div2,Moraine Valley,morainevalleycommunitycollege,gilbertohernandez0tli,Gilberto Hernandez
-Apr 25,home,Kankakee,L,12-5,12,5,7,win,20230425_6a8i,1,0,0,0,4.2,9,7,1,1.93,2,3,2023,2022-23,div2,Moraine Valley,morainevalleycommunitycollege,gilbertohernandez0tli,Gilberto Hernandez
-Apr 28,home,South Suburban,L,20-7,20,7,13,win,20230428_2019,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div2,Moraine Valley,morainevalleycommunitycollege,gilbertohernandez0tli,Gilberto Hernandez
-Apr 29,home,Harper,L,6-1,6,1,5,win,20230429_5wbh,1,0,0,0,5.1,6,2,1,1.69,3,6,2023,2022-23,div2,Moraine Valley,morainevalleycommunitycollege,gilbertohernandez0tli,Gilberto Hernandez
-May 4,home,Lake County,W,13-8,13,8,5,win,20230504_ter5,1,1,0,0,6.0,5,7,6,9.00,5,4,2023,2022-23,div2,Moraine Valley,morainevalleycommunitycollege,gilbertohernandez0tli,Gilberto Hernandez
+Mar 4,home,North Arkansas,L,9-3,9,3,6,win,20230304_04t3,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div2,Moraine Valley,morainevalleycommunitycollege,gilbertohernandez0tli,Gilberto Hernandez
+Mar 4,home,North Arkansas,L,6-4,6,4,2,win,20230304_p9xe,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div2,Moraine Valley,morainevalleycommunitycollege,gilbertohernandez0tli,Gilberto Hernandez
+Mar 5,home,North Arkansas,L,9-1,9,1,8,win,20230305_w9ph,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div2,Moraine Valley,morainevalleycommunitycollege,gilbertohernandez0tli,Gilberto Hernandez
+Mar 7,home,Joliet,L,9-6,9,6,3,win,20230307_qrgm,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div2,Moraine Valley,morainevalleycommunitycollege,gilbertohernandez0tli,Gilberto Hernandez
+Mar 8,home,Olive-Harvey,L,6-5,6,5,1,win,20230308_t7v1,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div2,Moraine Valley,morainevalleycommunitycollege,gilbertohernandez0tli,Gilberto Hernandez
+Mar 14,home,Black Hawk-Moline,W,9-5,9,5,4,win,20230314_jzem,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div2,Moraine Valley,morainevalleycommunitycollege,gilbertohernandez0tli,Gilberto Hernandez
+Mar 24,home,DuPage,L,18-8,18,8,10,win,20230324_gksa,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div2,Moraine Valley,morainevalleycommunitycollege,gilbertohernandez0tli,Gilberto Hernandez
+Mar 27,home,Morton,L,17-3,17,3,14,win,20230327_hc8y,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div2,Moraine Valley,morainevalleycommunitycollege,gilbertohernandez0tli,Gilberto Hernandez
+Mar 30,home,Triton,L,4-2,4,2,2,win,20230330_h1ga,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div2,Moraine Valley,morainevalleycommunitycollege,gilbertohernandez0tli,Gilberto Hernandez
+Mar 30,home,Triton,L,11-1,11,1,10,win,20230330_5mlr,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div2,Moraine Valley,morainevalleycommunitycollege,gilbertohernandez0tli,Gilberto Hernandez
+Apr 11,home,Waubonsee,L,9-5,9,5,4,win,20230411_gjyv,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div2,Moraine Valley,morainevalleycommunitycollege,gilbertohernandez0tli,Gilberto Hernandez
+Apr 11,home,Waubonsee,L,4-3,4,3,1,win,20230411_ius4,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div2,Moraine Valley,morainevalleycommunitycollege,gilbertohernandez0tli,Gilberto Hernandez
+Apr 13,home,DuPage,L,16-6,16,6,10,win,20230413_p0u1,0,0,0,0,2.0,5,8,7,31.50,4,1,2023,2022-23,div2,Moraine Valley,morainevalleycommunitycollege,gilbertohernandez0tli,Gilberto Hernandez
+Apr 13,home,DuPage,L,11-7,11,7,4,win,20230413_4f6s,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div2,Moraine Valley,morainevalleycommunitycollege,gilbertohernandez0tli,Gilberto Hernandez
+Apr 22,home,Oakton,W,5-1,5,1,4,win,20230422_ntbd,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div2,Moraine Valley,morainevalleycommunitycollege,gilbertohernandez0tli,Gilberto Hernandez
+Apr 22,home,Oakton,L,10-7,10,7,3,win,20230422_25mf,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div2,Moraine Valley,morainevalleycommunitycollege,gilbertohernandez0tli,Gilberto Hernandez
+Apr 25,home,Kankakee,L,12-5,12,5,7,win,20230425_6a8i,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div2,Moraine Valley,morainevalleycommunitycollege,gilbertohernandez0tli,Gilberto Hernandez
+Apr 27,home,Olive-Harvey,W,7-5,7,5,2,win,20230427_hcix,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div2,Moraine Valley,morainevalleycommunitycollege,gilbertohernandez0tli,Gilberto Hernandez
+Apr 27,home,Olive-Harvey,W,13-8,13,8,5,win,20230427_hgx0,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div2,Moraine Valley,morainevalleycommunitycollege,gilbertohernandez0tli,Gilberto Hernandez
+Apr 28,home,South Suburban,L,20-7,20,7,13,win,20230428_2019,0,0,0,0,0.2,,,,0.00,,,2023,2022-23,div2,Moraine Valley,morainevalleycommunitycollege,gilbertohernandez0tli,Gilberto Hernandez
+Apr 29,home,Harper,L,6-1,6,1,5,win,20230429_5wbh,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div2,Moraine Valley,morainevalleycommunitycollege,gilbertohernandez0tli,Gilberto Hernandez
+May 2,home,Sauk Valley,W,3-2,3,2,1,win,20230502_sbo8,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div2,Moraine Valley,morainevalleycommunitycollege,gilbertohernandez0tli,Gilberto Hernandez
+May 2,home,Sauk Valley,W,5-3,5,3,2,win,20230502_jt4k,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div2,Moraine Valley,morainevalleycommunitycollege,gilbertohernandez0tli,Gilberto Hernandez
+May 4,home,Lake County,W,13-8,13,8,5,win,20230504_ter5,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div2,Moraine Valley,morainevalleycommunitycollege,gilbertohernandez0tli,Gilberto Hernandez
+May 6,home,Milwaukee Area Tech,W,3-1,3,1,2,win,20230506_z0rd,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div2,Moraine Valley,morainevalleycommunitycollege,gilbertohernandez0tli,Gilberto Hernandez
+May 6,home,Milwaukee Area Tech,L,5-0,5,0,5,win,20230506_15pi,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div2,Moraine Valley,morainevalleycommunitycollege,gilbertohernandez0tli,Gilberto Hernandez
+May 7,home,Illinois Valley,L,3-2,3,2,1,win,20230507_1j7r,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div2,Moraine Valley,morainevalleycommunitycollege,gilbertohernandez0tli,Gilberto Hernandez
+May 7,home,Illinois Valley,W,3-0,3,0,3,win,20230507_b6yw,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div2,Moraine Valley,morainevalleycommunitycollege,gilbertohernandez0tli,Gilberto Hernandez

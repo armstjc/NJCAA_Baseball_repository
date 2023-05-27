@@ -1,4 +1,20 @@
 date,location,opponent,result,score,team_score,opp_score,game_score_diff,game_win_loss,game_id,AB,R,H,2B,3B,HR,RBI,BB,K,SB,CS,HBP,SF,SH,TB,XBH,HDP,GO,FO,GO/FO,PA,season,njcaa_season,njcaa_division,team,team_id,player_id,player_name
-Mar 17,home,Cayuga,W,4-3,4,3,1,win,20230317_arfr,0,0,0,,,,0,,,,,,,,0,0,,,,,0,2023,2022-23,div2,Glendale,glendalecommunitycollege,matthewkaminsduef,Matthew Kamins
-Mar 28,home,Utica JV,W,14-0,14,0,14,win,20230328_r6by,1,0,0,,,,0,1,,,,,,,0,0,,1,,,2,2023,2022-23,div2,Glendale,glendalecommunitycollege,matthewkaminsduef,Matthew Kamins
-Apr 20,home,Erie,W,5-3,5,3,2,win,20230420_wze6,0,0,0,,,,0,,,,,,,,0,0,,,,,0,2023,2022-23,div2,Glendale,glendalecommunitycollege,matthewkaminsduef,Matthew Kamins
+Jan 27,home,Park University JV,W,16-2,16,2,14,win,20230127_x7s0,3,1,0,,,,0,1,2,2,,,,,0,0,,,,,4,2023,2022-23,div2,Glendale,glendalecommunitycollege,matthewkaminsduef,Matthew Kamins
+Jan 28,home,GCU Club,W,12-3,12,3,9,win,20230128_eyb2,4,2,2,,,,0,1,1,1,,,,,2,0,,,,,5,2023,2022-23,div2,Glendale,glendalecommunitycollege,matthewkaminsduef,Matthew Kamins
+Feb 1,home,Colorado Northwestern,W,6-1,6,1,5,win,20230201_ucf7,3,1,2,,,,0,,,,,,,1,2,0,,,,,4,2023,2022-23,div2,Glendale,glendalecommunitycollege,matthewkaminsduef,Matthew Kamins
+Feb 1,home,Colorado Northwestern,W,10-3,10,3,7,win,20230201_ryb0,2,2,0,,,,0,1,1,2,,,,,0,0,,,,,3,2023,2022-23,div2,Glendale,glendalecommunitycollege,matthewkaminsduef,Matthew Kamins
+Feb 3,home,Park University JV,W,11-2,11,2,9,win,20230203_zxo2,4,1,1,,1,,1,,,,,,,,3,1,,,,,4,2023,2022-23,div2,Glendale,glendalecommunitycollege,matthewkaminsduef,Matthew Kamins
+Feb 7,home,ACU JV,W,4-2,4,2,2,win,20230207_aubz,3,0,0,,,,0,1,,,,,,1,0,0,,,,,5,2023,2022-23,div2,Glendale,glendalecommunitycollege,matthewkaminsduef,Matthew Kamins
+Feb 10,home,Mesa,W,8-3,8,3,5,win,20230210_b2i9,5,3,2,,1,,0,,,,,,,,4,1,,,,,5,2023,2022-23,div2,Glendale,glendalecommunitycollege,matthewkaminsduef,Matthew Kamins
+Feb 11,home,Mesa,W,7-2,7,2,5,win,20230211_9mr7,5,1,3,,,,2,,,,,,,,3,0,,,,,5,2023,2022-23,div2,Glendale,glendalecommunitycollege,matthewkaminsduef,Matthew Kamins
+Feb 15,home,GateWay (AZ),W,5-4,5,4,1,win,20230215_ql98,5,0,1,1,,,0,,2,,,,,,2,1,,,,,5,2023,2022-23,div2,Glendale,glendalecommunitycollege,matthewkaminsduef,Matthew Kamins
+Feb 17,home,Scottsdale,W,7-2,7,2,5,win,20230217_74j0,3,1,1,,,,0,2,,1,,,,,1,0,,,,,5,2023,2022-23,div2,Glendale,glendalecommunitycollege,matthewkaminsduef,Matthew Kamins
+Feb 25,home,Vancouver International College,W,2-1,2,1,1,win,20230225_z4wh,2,0,0,,,,0,1,,,,,,,0,0,,,,,3,2023,2022-23,div2,Glendale,glendalecommunitycollege,matthewkaminsduef,Matthew Kamins
+Mar 1,home,Chandler-Gilbert,W,5-4,5,4,1,win,20230301_gd1d,1,0,1,1,,,1,,,,,1,,,2,1,,,,,2,2023,2022-23,div2,Glendale,glendalecommunitycollege,matthewkaminsduef,Matthew Kamins
+Apr 12,home,GateWay (AZ),W,12-8,12,8,4,win,20230412_nbvg,0,0,0,,,,0,,,1,,,,,0,0,,,,,0,2023,2022-23,div2,Glendale,glendalecommunitycollege,matthewkaminsduef,Matthew Kamins
+Apr 15,home,Scottsdale,W,11-0,11,0,11,win,20230415_mh40,4,1,1,,,,1,,,1,,,,,1,0,,,,,4,2023,2022-23,div2,Glendale,glendalecommunitycollege,matthewkaminsduef,Matthew Kamins
+Apr 19,home,Paradise Valley,W,7-6,7,6,1,win,20230419_e0qa,3,2,2,1,,,0,1,1,,,,,,3,1,,,,,4,2023,2022-23,div2,Glendale,glendalecommunitycollege,matthewkaminsduef,Matthew Kamins
+May 4,home,GateWay (AZ),W,10-2,10,2,8,win,20230504_1zfy,2,1,1,1,,,1,1,1,,,,,,2,1,,,,,3,2023,2022-23,div2,Glendale,glendalecommunitycollege,matthewkaminsduef,Matthew Kamins
+May 6,home,GateWay (AZ),W,11-5,11,5,6,win,20230506_kob6,4,1,1,,,,1,,,,,,1,,1,0,,,,,5,2023,2022-23,div2,Glendale,glendalecommunitycollege,matthewkaminsduef,Matthew Kamins
+May 11,home,Chandler-Gilbert,W,4-2,4,2,2,win,20230511_r6e2,3,1,1,1,,,0,1,1,,,,,,2,1,,,,,4,2023,2022-23,div2,Glendale,glendalecommunitycollege,matthewkaminsduef,Matthew Kamins
+May 12,home,Chandler-Gilbert,W,12-3,12,3,9,win,20230512_abgz,4,1,1,,,,1,,3,,,,1,,1,0,,,,,5,2023,2022-23,div2,Glendale,glendalecommunitycollege,matthewkaminsduef,Matthew Kamins

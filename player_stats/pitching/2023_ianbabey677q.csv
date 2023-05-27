@@ -1,13 +1,12 @@
 date,location,opponent,result,score,team_score,opp_score,game_score_diff,game_win_loss,game_id,GS,W,L,SV,IP,H,R,ER,ERA,BB,K,HR,season,njcaa_season,njcaa_division,team,team_id,player_id,player_name
-May 4,home,Patrick & Henry,L,9-7,9,7,2,win,20230504_yvbh,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div2,CCBC Essex,ccbcessex,ianbabey677q,Ian Babey
-Apr 22,home,Richard Bland,L,15-6,15,6,9,win,20230422_xoaz,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div2,CCBC Essex,ccbcessex,ianbabey677q,Ian Babey
-Apr 19,home,Southeastern-Whiteville,W,8-4,8,4,4,win,20230419_rk4u,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div2,CCBC Essex,ccbcessex,ianbabey677q,Ian Babey
-Apr 15,home,Lenoir,L,4-3,4,3,1,win,20230415_emfq,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div2,CCBC Essex,ccbcessex,ianbabey677q,Ian Babey
-Apr 2,home,Bryant & Stratton (VA),L,8-5,8,5,3,win,20230402_fska,0,0,0,0,1.0,2,2,2,18.00,0,1,1,2023,2022-23,div2,CCBC Essex,ccbcessex,ianbabey677q,Ian Babey
-Mar 14,home,Gaston College,L,14-3,14,3,11,win,20230314_b1g8,0,0,0,0,1.2,2,4,2,10.80,2,2,0,2023,2022-23,div2,CCBC Essex,ccbcessex,ianbabey677q,Ian Babey
-Mar 7,home,Gaston College,L,21-9,21,9,12,win,20230307_6zf1,1,0,0,0,2.0,3,5,4,18.00,2,1,0,2023,2022-23,div2,CCBC Essex,ccbcessex,ianbabey677q,Ian Babey
-Mar 4,home,Lenoir,W,2-0,2,0,2,win,20230304_3ml7,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div2,CCBC Essex,ccbcessex,ianbabey677q,Ian Babey
-Mar 1,home,Louisburg,W,13-8,13,8,5,win,20230301_zuk4,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div2,CCBC Essex,ccbcessex,ianbabey677q,Ian Babey
-Feb 24,home,Pitt,W,22-13,22,13,9,win,20230224_6blx,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div2,CCBC Essex,ccbcessex,ianbabey677q,Ian Babey
-Feb 22,home,Florence-Darlington Tech,L,15-5,15,5,10,win,20230222_3h90,0,0,0,0,0.2,0,0,0,0.00,0,1,0,2023,2022-23,div2,CCBC Essex,ccbcessex,ianbabey677q,Ian Babey
-Feb 4,home,East Carolina Club,W,10-1,10,1,9,win,20230204_4h0v,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div2,CCBC Essex,ccbcessex,ianbabey677q,Ian Babey
+May 9,home,Cecil,W,7-2,7,2,5,win,20230509_x42i,1,1,0,0,8.0,10,2,2,2.25,1,3,,2023,2022-23,div2,CCBC Essex,ccbcessex,ianbabey677q,Ian Babey
+Apr 29,home,Frederick,L,10-8,10,8,2,win,20230429_i4wq,1,0,1,0,4.0,7,8,8,18.00,1,1,1,2023,2022-23,div2,CCBC Essex,ccbcessex,ianbabey677q,Ian Babey
+Apr 22,home,CCBC Dundalk,L,11-6,11,6,5,win,20230422_o0v2,1,0,1,0,3.1,8,8,8,21.60,1,3,1,2023,2022-23,div2,CCBC Essex,ccbcessex,ianbabey677q,Ian Babey
+Apr 13,home,Garrett,L,9-2,9,2,7,win,20230413_04jg,1,0,1,0,5.0,9,3,3,5.40,0,4,1,2023,2022-23,div2,CCBC Essex,ccbcessex,ianbabey677q,Ian Babey
+Apr 8,home,Cecil,W,4-1,4,1,3,win,20230408_pam7,1,1,0,0,7.0,5,1,1,1.29,0,4,,2023,2022-23,div2,CCBC Essex,ccbcessex,ianbabey677q,Ian Babey
+Apr 4,home,Camp,W,7-6,7,6,1,win,20230404_7rwz,1,0,0,0,1.0,0,0,0,0.00,0,0,0,2023,2022-23,div2,CCBC Essex,ccbcessex,ianbabey677q,Ian Babey
+Mar 28,home,Anne Arundel,W,10-0,10,0,10,win,20230328_m9uz,1,1,0,0,5.0,2,0,0,0.00,1,6,,2023,2022-23,div2,CCBC Essex,ccbcessex,ianbabey677q,Ian Babey
+Mar 23,home,Prince George's,L,8-6,8,6,2,win,20230323_a46y,0,0,0,0,1.0,1,,,0.00,,1,,2023,2022-23,div2,CCBC Essex,ccbcessex,ianbabey677q,Ian Babey
+Mar 18,home,Allegany Maryland,L,13-2,13,2,11,win,20230318_1kj2,1,0,1,0,4.2,5,9,7,13.50,4,3,,2023,2022-23,div2,CCBC Essex,ccbcessex,ianbabey677q,Ian Babey
+Mar 7,home,Harford,L,17-12,17,12,5,win,20230307_qhzq,1,0,1,0,2.0,6,10,9,40.50,5,0,1,2023,2022-23,div2,CCBC Essex,ccbcessex,ianbabey677q,Ian Babey
+Feb 28,home,Combine Academy,W,7-4,7,4,3,win,20230228_qqmt,1,1,0,0,3.0,4,1,0,0.00,0,3,,2023,2022-23,div2,CCBC Essex,ccbcessex,ianbabey677q,Ian Babey

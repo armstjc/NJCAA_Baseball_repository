@@ -1,15 +1,21 @@
 date,location,opponent,result,score,team_score,opp_score,game_score_diff,game_win_loss,game_id,TC,PO,A,E,FPCT,DP,SBA,RCS,RCS_PCT,PB,CI,season,njcaa_season,njcaa_division,team,team_id,player_id,player_name
-Mar 23,home,Columbia-Greene,L,7-6,7,6,1,win,20230323_qrry,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div2,Southeastern-Whiteville,southeasterncommunitycollegewhitevill,coltonstarlingxbar,Colton Starling
-Mar 26,home,Bergen,L,9-0,9,0,9,win,20230326_8msy,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div2,Southeastern-Whiteville,southeasterncommunitycollegewhitevill,coltonstarlingxbar,Colton Starling
-Mar 26,home,Bergen,L,19-11,19,11,8,win,20230326_25nv,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div2,Southeastern-Whiteville,southeasterncommunitycollegewhitevill,coltonstarlingxbar,Colton Starling
-Mar 31,home,Monroe College - Bronx,L,4-2,4,2,2,win,20230331_9bmh,0,0,0,0,1.0,1,,,0.00,,,2023,2022-23,div2,Southeastern-Whiteville,southeasterncommunitycollegewhitevill,coltonstarlingxbar,Colton Starling
-Apr 4,home,Hudson Valley,L,10-4,10,4,6,win,20230404_22jb,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div2,Southeastern-Whiteville,southeasterncommunitycollegewhitevill,coltonstarlingxbar,Colton Starling
-Apr 13,home,Rockland,L,16-6,16,6,10,win,20230413_8prv,0,0,0,0,0.2,3,6,2,27.00,,,2023,2022-23,div2,Southeastern-Whiteville,southeasterncommunitycollegewhitevill,coltonstarlingxbar,Colton Starling
-Apr 14,home,Rockland,L,17-2,17,2,15,win,20230414_lpju,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div2,Southeastern-Whiteville,southeasterncommunitycollegewhitevill,coltonstarlingxbar,Colton Starling
-Apr 15,home,Rockland,L,9-1,9,1,8,win,20230415_2w74,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div2,Southeastern-Whiteville,southeasterncommunitycollegewhitevill,coltonstarlingxbar,Colton Starling
-Apr 20,home,Orange County,W,15-13,15,13,2,win,20230420_147e,1,1,0,0,5.0,2,1,1,1.80,2,0,2023,2022-23,div2,Southeastern-Whiteville,southeasterncommunitycollegewhitevill,coltonstarlingxbar,Colton Starling
-Apr 25,home,Lackawanna,L,13-9,13,9,4,win,20230425_74op,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div2,Southeastern-Whiteville,southeasterncommunitycollegewhitevill,coltonstarlingxbar,Colton Starling
-Apr 27,home,SUNY Adirondack,L,3-1,3,1,2,win,20230427_8wzk,1,0,1,0,0.0,0,0,0,0.00,0,0,2023,2022-23,div2,Southeastern-Whiteville,southeasterncommunitycollegewhitevill,coltonstarlingxbar,Colton Starling
-May 5,home,Sullivan County,L,7-3,7,3,4,win,20230505_jpzs,1,0,1,0,4.0,4,5,5,11.25,5,2,2023,2022-23,div2,Southeastern-Whiteville,southeasterncommunitycollegewhitevill,coltonstarlingxbar,Colton Starling
-May 7,home,Sullivan County,L,20-6,20,6,14,win,20230507_ev2r,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div2,Southeastern-Whiteville,southeasterncommunitycollegewhitevill,coltonstarlingxbar,Colton Starling
-May 11,home,Westchester,L,8-5,8,5,3,win,20230511_wdq8,1,0,1,0,5.2,9,8,0,0.00,0,0,2023,2022-23,div2,Southeastern-Whiteville,southeasterncommunitycollegewhitevill,coltonstarlingxbar,Colton Starling
+Jan 28,home,Cleveland,L,5-2,5,2,3,win,20230128_x6a5,1,0,0,0,3.0,4,2,0,0.00,0,2,2023,2022-23,div2,Southeastern-Whiteville,southeasterncommunitycollegewhitevill,coltonstarlingxbar,Colton Starling
+Feb 4,home,Gaston College,L,6-1,6,1,5,win,20230204_slwo,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div2,Southeastern-Whiteville,southeasterncommunitycollegewhitevill,coltonstarlingxbar,Colton Starling
+Feb 16,home,Francis Marion JV,W,8-6,8,6,2,win,20230216_hc8k,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div2,Southeastern-Whiteville,southeasterncommunitycollegewhitevill,coltonstarlingxbar,Colton Starling
+Feb 18,home,Harford,L,12-10,12,10,2,win,20230218_0zkt,0,0,0,0,1.1,4,4,4,27.00,2,1,2023,2022-23,div2,Southeastern-Whiteville,southeasterncommunitycollegewhitevill,coltonstarlingxbar,Colton Starling
+Feb 22,home,USC Lancaster,L,18-11,18,11,7,win,20230222_edb1,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div2,Southeastern-Whiteville,southeasterncommunitycollegewhitevill,coltonstarlingxbar,Colton Starling
+Feb 24,home,Richard Bland,W,11-3,11,3,8,win,20230224_pmcz,0,0,0,0,2.2,1,,,0.00,1,4,2023,2022-23,div2,Southeastern-Whiteville,southeasterncommunitycollegewhitevill,coltonstarlingxbar,Colton Starling
+Mar 1,home,USC Lancaster,L,8-2,8,2,6,win,20230301_6hgf,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div2,Southeastern-Whiteville,southeasterncommunitycollegewhitevill,coltonstarlingxbar,Colton Starling
+Mar 4,home,Bryant & Stratton (VA),L,6-5,6,5,1,win,20230304_odw3,0,0,0,0,1.1,1,1,1,6.75,2,0,2023,2022-23,div2,Southeastern-Whiteville,southeasterncommunitycollegewhitevill,coltonstarlingxbar,Colton Starling
+Mar 7,home,Bay College,W,9-4,9,4,5,win,20230307_g65c,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div2,Southeastern-Whiteville,southeasterncommunitycollegewhitevill,coltonstarlingxbar,Colton Starling
+Mar 7,home,Bay College,W,7-3,7,3,4,win,20230307_6sn7,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div2,Southeastern-Whiteville,southeasterncommunitycollegewhitevill,coltonstarlingxbar,Colton Starling
+Mar 17,home,Pitt,L,5-3,5,3,2,win,20230317_peh3,0,0,0,0,1.1,3,1,1,6.75,,3,2023,2022-23,div2,Southeastern-Whiteville,southeasterncommunitycollegewhitevill,coltonstarlingxbar,Colton Starling
+Mar 22,home,Francis Marion JV,L,12-2,12,2,10,win,20230322_u3d2,0,0,0,0,1.0,1,,,0.00,1,2,2023,2022-23,div2,Southeastern-Whiteville,southeasterncommunitycollegewhitevill,coltonstarlingxbar,Colton Starling
+Mar 25,home,Fayetteville Tech,L,11-1,11,1,10,win,20230325_kwaa,0,0,0,0,1.1,3,5,0,0.00,2,1,2023,2022-23,div2,Southeastern-Whiteville,southeasterncommunitycollegewhitevill,coltonstarlingxbar,Colton Starling
+Mar 26,home,Fayetteville Tech,L,6-2,6,2,4,win,20230326_9m30,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div2,Southeastern-Whiteville,southeasterncommunitycollegewhitevill,coltonstarlingxbar,Colton Starling
+Apr 4,home,Brunswick,L,9-8,9,8,1,win,20230404_wgi0,0,0,0,0,0.2,3,3,3,40.50,1,0,2023,2022-23,div2,Southeastern-Whiteville,southeasterncommunitycollegewhitevill,coltonstarlingxbar,Colton Starling
+Apr 19,home,Brunswick,L,8-4,8,4,4,win,20230419_rk4u,0,0,0,0,0.1,3,2,2,54.00,0,0,2023,2022-23,div2,Southeastern-Whiteville,southeasterncommunitycollegewhitevill,coltonstarlingxbar,Colton Starling
+Apr 22,home,Lenoir,L,9-7,9,7,2,win,20230422_xtc3,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div2,Southeastern-Whiteville,southeasterncommunitycollegewhitevill,coltonstarlingxbar,Colton Starling
+Apr 23,home,Lenoir,L,6-2,6,2,4,win,20230423_eydk,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div2,Southeastern-Whiteville,southeasterncommunitycollegewhitevill,coltonstarlingxbar,Colton Starling
+Apr 23,home,Lenoir,L,4-1,4,1,3,win,20230423_50fe,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div2,Southeastern-Whiteville,southeasterncommunitycollegewhitevill,coltonstarlingxbar,Colton Starling
+Apr 25,home,Brunswick,L,11-1,11,1,10,win,20230425_jmnx,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div2,Southeastern-Whiteville,southeasterncommunitycollegewhitevill,coltonstarlingxbar,Colton Starling

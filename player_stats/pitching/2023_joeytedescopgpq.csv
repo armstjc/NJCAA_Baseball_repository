@@ -1,14 +1,38 @@
 date,location,opponent,result,score,team_score,opp_score,game_score_diff,game_win_loss,game_id,GS,W,L,SV,IP,H,R,ER,ERA,BB,K,HR,season,njcaa_season,njcaa_division,team,team_id,player_id,player_name
-May 4,home,Lake County,W,13-8,13,8,5,win,20230504_ter5,1,1,0,0,6.0,5,7,6,9.00,5,4,,2023,2022-23,div2,Macomb,macombcommunitycollege,joeytedescopgpq,Joey Tedesco
-Apr 29,home,Harper,L,6-1,6,1,5,win,20230429_5wbh,1,0,0,0,5.1,6,2,1,1.69,3,6,,2023,2022-23,div2,Macomb,macombcommunitycollege,joeytedescopgpq,Joey Tedesco
-Apr 28,home,South Suburban,L,20-7,20,7,13,win,20230428_2019,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div2,Macomb,macombcommunitycollege,joeytedescopgpq,Joey Tedesco
-Apr 25,home,Kankakee,L,12-5,12,5,7,win,20230425_6a8i,1,0,0,0,4.2,9,7,1,1.93,2,3,,2023,2022-23,div2,Macomb,macombcommunitycollege,joeytedescopgpq,Joey Tedesco
-Apr 22,home,Oakton,W,5-1,5,1,4,win,20230422_ntbd,0,0,0,0,1.0,,,,0.00,,,,2023,2022-23,div2,Macomb,macombcommunitycollege,joeytedescopgpq,Joey Tedesco
-Apr 18,home,Prairie State,W,5-2,5,2,3,win,20230418_h6g9,1,1,0,0,7.1,7,2,1,1.23,2,4,,2023,2022-23,div2,Macomb,macombcommunitycollege,joeytedescopgpq,Joey Tedesco
-Apr 15,home,Elgin,W,12-4,12,4,8,win,20230415_skcs,0,0,0,0,1.0,,,,0.00,,2,,2023,2022-23,div2,Macomb,macombcommunitycollege,joeytedescopgpq,Joey Tedesco
-Apr 11,home,Waubonsee,L,9-5,9,5,4,win,20230411_gjyv,1,0,0,0,1.2,7,8,8,43.20,3,2,,2023,2022-23,div2,Macomb,macombcommunitycollege,joeytedescopgpq,Joey Tedesco
-Mar 30,home,Triton,L,4-2,4,2,2,win,20230330_h1ga,1,0,0,0,6.0,7,4,3,4.50,2,2,,2023,2022-23,div2,Macomb,macombcommunitycollege,joeytedescopgpq,Joey Tedesco
-Mar 21,home,Rock Valley,L,9-0,9,0,9,win,20230321_0u51,0,0,0,0,5.0,4,4,2,3.60,4,5,,2023,2022-23,div2,Macomb,macombcommunitycollege,joeytedescopgpq,Joey Tedesco
-Mar 14,home,Black Hawk-Moline,L,23-0,23,0,23,win,20230314_ge34,0,0,0,0,1.2,6,11,5,27.00,4,3,,2023,2022-23,div2,Macomb,macombcommunitycollege,joeytedescopgpq,Joey Tedesco
-Mar 8,home,Olive-Harvey,L,6-5,6,5,1,win,20230308_t7v1,0,0,0,0,1.2,2,,,0.00,,3,,2023,2022-23,div2,Macomb,macombcommunitycollege,joeytedescopgpq,Joey Tedesco
-Mar 5,home,North Arkansas,L,9-1,9,1,8,win,20230305_w9ph,1,0,1,0,2.0,3,8,8,36.00,7,0,,2023,2022-23,div2,Macomb,macombcommunitycollege,joeytedescopgpq,Joey Tedesco
+May 6,home,St. Clair County,W,2-1,2,1,1,win,20230506_75ph,1,1,0,0,7.0,4,1,1,1.29,3,10,,2023,2022-23,div2,Macomb,macombcommunitycollege,joeytedescopgpq,Joey Tedesco
+May 6,home,St. Clair County,W,12-10,12,10,2,win,20230506_pn75,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div2,Macomb,macombcommunitycollege,joeytedescopgpq,Joey Tedesco
+May 4,home,St. Clair County,L,4-2,4,2,2,win,20230504_w6gr,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div2,Macomb,macombcommunitycollege,joeytedescopgpq,Joey Tedesco
+May 4,home,St. Clair County,W,2-1,2,1,1,win,20230504_pgp9,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div2,Macomb,macombcommunitycollege,joeytedescopgpq,Joey Tedesco
+Apr 29,home,Henry Ford,L,3-2,3,2,1,win,20230429_x127,1,0,1,0,4.1,6,3,3,6.23,6,2,,2023,2022-23,div2,Macomb,macombcommunitycollege,joeytedescopgpq,Joey Tedesco
+Apr 29,home,Henry Ford,L,7-4,7,4,3,win,20230429_woa1,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div2,Macomb,macombcommunitycollege,joeytedescopgpq,Joey Tedesco
+Apr 27,home,Henry Ford,L,5-2,5,2,3,win,20230427_cmzi,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div2,Macomb,macombcommunitycollege,joeytedescopgpq,Joey Tedesco
+Apr 27,home,Henry Ford,L,5-2,5,2,3,win,20230427_8aaf,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div2,Macomb,macombcommunitycollege,joeytedescopgpq,Joey Tedesco
+Apr 24,home,Terra State,W,5-3,5,3,2,win,20230424_dtsw,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div2,Macomb,macombcommunitycollege,joeytedescopgpq,Joey Tedesco
+Apr 22,home,Mott,L,9-1,9,1,8,win,20230422_mhza,1,0,1,0,5.0,7,8,7,12.60,5,6,,2023,2022-23,div2,Macomb,macombcommunitycollege,joeytedescopgpq,Joey Tedesco
+Apr 22,home,Mott,L,4-0,4,0,4,win,20230422_aftj,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div2,Macomb,macombcommunitycollege,joeytedescopgpq,Joey Tedesco
+Apr 20,home,Mott,W,5-4,5,4,1,win,20230420_yvj6,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div2,Macomb,macombcommunitycollege,joeytedescopgpq,Joey Tedesco
+Apr 20,home,Mott,W,5-4,5,4,1,win,20230420_a22p,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div2,Macomb,macombcommunitycollege,joeytedescopgpq,Joey Tedesco
+Apr 18,home,Rochester University JV,W,13-7,13,7,6,win,20230418_0yia,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div2,Macomb,macombcommunitycollege,joeytedescopgpq,Joey Tedesco
+Apr 15,home,Schoolcraft,L,3-1,3,1,2,win,20230415_sfme,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div2,Macomb,macombcommunitycollege,joeytedescopgpq,Joey Tedesco
+Apr 13,home,Schoolcraft,L,8-7,8,7,1,win,20230413_lkew,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div2,Macomb,macombcommunitycollege,joeytedescopgpq,Joey Tedesco
+Apr 13,home,Schoolcraft,L,14-8,14,8,6,win,20230413_lg13,1,0,1,0,1.2,5,8,3,16.20,6,4,,2023,2022-23,div2,Macomb,macombcommunitycollege,joeytedescopgpq,Joey Tedesco
+Apr 11,home,Alma College JV,L,10-9,10,9,1,win,20230411_vre8,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div2,Macomb,macombcommunitycollege,joeytedescopgpq,Joey Tedesco
+Apr 8,home,Jackson,L,12-1,12,1,11,win,20230408_8zmm,1,0,1,0,4.1,5,9,7,14.54,7,5,,2023,2022-23,div2,Macomb,macombcommunitycollege,joeytedescopgpq,Joey Tedesco
+Apr 6,home,Jackson,L,11-1,11,1,10,win,20230406_a1x8,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div2,Macomb,macombcommunitycollege,joeytedescopgpq,Joey Tedesco
+Apr 4,home,Concordia University-Ann Arbor JV,L,16-11,16,11,5,win,20230404_oxzh,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div2,Macomb,macombcommunitycollege,joeytedescopgpq,Joey Tedesco
+Apr 4,home,Concordia University-Ann Arbor JV,W,6-2,6,2,4,win,20230404_miji,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div2,Macomb,macombcommunitycollege,joeytedescopgpq,Joey Tedesco
+Apr 2,home,St. Clair County,L,10-0,10,0,10,win,20230402_zwnk,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div2,Macomb,macombcommunitycollege,joeytedescopgpq,Joey Tedesco
+Mar 30,home,Henry Ford,L,5-3,5,3,2,win,20230330_c88z,1,0,1,0,6.0,5,4,4,6.00,3,7,,2023,2022-23,div2,Macomb,macombcommunitycollege,joeytedescopgpq,Joey Tedesco
+Mar 28,home,Cornerstone University JV,W,11-0,11,0,11,win,20230328_qv6m,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div2,Macomb,macombcommunitycollege,joeytedescopgpq,Joey Tedesco
+Mar 26,home,Mott,L,11-7,11,7,4,win,20230326_e80v,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div2,Macomb,macombcommunitycollege,joeytedescopgpq,Joey Tedesco
+Mar 24,home,Schoolcraft,L,13-2,13,2,11,win,20230324_0uh1,1,0,1,0,5.1,5,3,3,5.06,4,8,,2023,2022-23,div2,Macomb,macombcommunitycollege,joeytedescopgpq,Joey Tedesco
+Mar 17,home,Bryant & Stratton (OH),L,8-7,8,7,1,win,20230317_7ise,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div2,Macomb,macombcommunitycollege,joeytedescopgpq,Joey Tedesco
+Mar 16,home,Bryant & Stratton (OH),W,6-4,6,4,2,win,20230316_ozsk,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div2,Macomb,macombcommunitycollege,joeytedescopgpq,Joey Tedesco
+Mar 11,home,Georgia Highlands,L,7-5,7,5,2,win,20230311_g3xz,1,0,0,0,2.2,4,3,3,10.13,3,3,1,2023,2022-23,div2,Macomb,macombcommunitycollege,joeytedescopgpq,Joey Tedesco
+Mar 11,home,Georgia Highlands,L,9-0,9,0,9,win,20230311_y3xy,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div2,Macomb,macombcommunitycollege,joeytedescopgpq,Joey Tedesco
+Mar 10,home,Georgia Highlands,L,13-1,13,1,12,win,20230310_v94g,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div2,Macomb,macombcommunitycollege,joeytedescopgpq,Joey Tedesco
+Mar 10,home,Georgia Highlands,L,11-1,11,1,10,win,20230310_dngf,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div2,Macomb,macombcommunitycollege,joeytedescopgpq,Joey Tedesco
+Mar 8,home,Roane State,L,3-1,3,1,2,win,20230308_eloa,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div2,Macomb,macombcommunitycollege,joeytedescopgpq,Joey Tedesco
+Mar 8,home,Roane State,L,6-3,6,3,3,win,20230308_0uwt,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div2,Macomb,macombcommunitycollege,joeytedescopgpq,Joey Tedesco
+Mar 6,home,Bryan College JV,L,11-10,11,10,1,win,20230306_ljt9,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div2,Macomb,macombcommunitycollege,joeytedescopgpq,Joey Tedesco
+Mar 6,home,Bryan College JV,W,16-14,16,14,2,win,20230306_xvs3,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div2,Macomb,macombcommunitycollege,joeytedescopgpq,Joey Tedesco

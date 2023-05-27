@@ -1,15 +1,30 @@
 date,location,opponent,result,score,team_score,opp_score,game_score_diff,game_win_loss,game_id,GS,W,L,SV,IP,H,R,ER,ERA,BB,K,HR,season,njcaa_season,njcaa_division,team,team_id,player_id,player_name
-May 6,home,North Iowa Area,L,3-2,3,2,1,win,20230506_6cdf,0,0,0,0,1.2,1,,,0.00,1,2,,2023,2022-23,div2,Northeast Mississippi,northeastmississippicommunitycollege,harrismcreynoldslv7v,Harris McReynolds
-May 3,home,Marshalltown,L,7-4,7,4,3,win,20230503_04td,1,0,1,0,6.0,11,7,6,9.00,0,5,,2023,2022-23,div2,Northeast Mississippi,northeastmississippicommunitycollege,harrismcreynoldslv7v,Harris McReynolds
-Apr 30,home,Des Moines Area,L,8-5,8,5,3,win,20230430_uigk,0,0,0,0,1.2,3,0,0,0.00,0,0,,2023,2022-23,div2,Northeast Mississippi,northeastmississippicommunitycollege,harrismcreynoldslv7v,Harris McReynolds
-Apr 23,home,Kirkwood,L,11-1,11,1,10,win,20230423_jti8,0,0,0,0,2.0,5,6,3,13.50,1,1,1,2023,2022-23,div2,Northeast Mississippi,northeastmississippicommunitycollege,harrismcreynoldslv7v,Harris McReynolds
-Apr 18,home,Northeast,L,11-1,11,1,10,win,20230418_1v58,1,0,1,0,3.0,11,10,9,27.00,1,1,1,2023,2022-23,div2,Northeast Mississippi,northeastmississippicommunitycollege,harrismcreynoldslv7v,Harris McReynolds
-Apr 12,home,Iowa Central,L,16-4,16,4,12,win,20230412_dyha,0,0,0,0,1.1,7,4,4,27.00,2,,,2023,2022-23,div2,Northeast Mississippi,northeastmississippicommunitycollege,harrismcreynoldslv7v,Harris McReynolds
-Apr 8,home,Ellsworth,L,37-6,37,6,31,win,20230408_1iz3,1,0,1,0,2.2,12,13,9,30.38,1,0,3,2023,2022-23,div2,Northeast Mississippi,northeastmississippicommunitycollege,harrismcreynoldslv7v,Harris McReynolds
-Apr 5,home,Iowa Western,L,10-2,10,2,8,win,20230405_7lbi,0,0,0,0,1.2,5,2,2,10.80,,1,,2023,2022-23,div2,Northeast Mississippi,northeastmississippicommunitycollege,harrismcreynoldslv7v,Harris McReynolds
-Apr 1,home,Indian Hills,L,14-4,14,4,10,win,20230401_vjfo,1,0,1,0,3.1,9,8,6,16.20,0,1,,2023,2022-23,div2,Northeast Mississippi,northeastmississippicommunitycollege,harrismcreynoldslv7v,Harris McReynolds
-Mar 27,home,Southeastern,L,6-3,6,3,3,win,20230327_fjfp,1,0,1,0,7.0,8,4,3,3.86,2,3,,2023,2022-23,div2,Northeast Mississippi,northeastmississippicommunitycollege,harrismcreynoldslv7v,Harris McReynolds
-Mar 22,home,Iowa Western,L,7-1,7,1,6,win,20230322_mqkx,1,0,0,0,3.0,3,0,0,0.00,0,3,,2023,2022-23,div2,Northeast Mississippi,northeastmississippicommunitycollege,harrismcreynoldslv7v,Harris McReynolds
-Mar 13,home,Ripon Jv,W,7-6,7,6,1,win,20230313_wtwz,0,0,0,0,3.1,1,2,1,2.70,1,5,,2023,2022-23,div2,Northeast Mississippi,northeastmississippicommunitycollege,harrismcreynoldslv7v,Harris McReynolds
-Mar 7,home,Iowa Central,L,7-4,7,4,3,win,20230307_6ve4,0,0,0,0,2.0,2,2,2,9.00,,,,2023,2022-23,div2,Northeast Mississippi,northeastmississippicommunitycollege,harrismcreynoldslv7v,Harris McReynolds
-Mar 4,home,Fort Scott,L,8-0,8,0,8,win,20230304_8s8h,0,0,0,0,0.1,2,4,3,81.00,1,1,,2023,2022-23,div2,Northeast Mississippi,northeastmississippicommunitycollege,harrismcreynoldslv7v,Harris McReynolds
+May 15,home,LSU Eunice,L,7-6,7,6,1,win,20230515_ikqm,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div2,Northeast Mississippi,northeastmississippicommunitycollege,harrismcreynoldslv7v,Harris McReynolds
+Apr 30,home,Hinds,W,16-3,16,3,13,win,20230430_sk0i,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div2,Northeast Mississippi,northeastmississippicommunitycollege,harrismcreynoldslv7v,Harris McReynolds
+Apr 28,home,Mississippi Gulf Coast,W,8-6,8,6,2,win,20230428_2ekr,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div2,Northeast Mississippi,northeastmississippicommunitycollege,harrismcreynoldslv7v,Harris McReynolds
+Apr 22,home,Meridian,W,12-11,12,11,1,win,20230422_xxg1,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div2,Northeast Mississippi,northeastmississippicommunitycollege,harrismcreynoldslv7v,Harris McReynolds
+Apr 18,home,Holmes,W,8-7,8,7,1,win,20230418_kxhx,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div2,Northeast Mississippi,northeastmississippicommunitycollege,harrismcreynoldslv7v,Harris McReynolds
+Apr 18,home,Holmes,W,14-2,14,2,12,win,20230418_41cm,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div2,Northeast Mississippi,northeastmississippicommunitycollege,harrismcreynoldslv7v,Harris McReynolds
+Apr 15,home,Jones,L,17-6,17,6,11,win,20230415_0flw,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div2,Northeast Mississippi,northeastmississippicommunitycollege,harrismcreynoldslv7v,Harris McReynolds
+Apr 12,home,Northwest Mississippi,W,14-4,14,4,10,win,20230412_dpn9,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div2,Northeast Mississippi,northeastmississippicommunitycollege,harrismcreynoldslv7v,Harris McReynolds
+Apr 4,home,East Mississippi,L,13-5,13,5,8,win,20230404_tflz,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div2,Northeast Mississippi,northeastmississippicommunitycollege,harrismcreynoldslv7v,Harris McReynolds
+Apr 4,home,East Mississippi,W,12-5,12,5,7,win,20230404_txc1,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div2,Northeast Mississippi,northeastmississippicommunitycollege,harrismcreynoldslv7v,Harris McReynolds
+Apr 1,home,East Central (MS),L,11-8,11,8,3,win,20230401_jgmj,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div2,Northeast Mississippi,northeastmississippicommunitycollege,harrismcreynoldslv7v,Harris McReynolds
+Apr 1,home,East Central (MS),L,19-10,19,10,9,win,20230401_4zaz,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div2,Northeast Mississippi,northeastmississippicommunitycollege,harrismcreynoldslv7v,Harris McReynolds
+Mar 29,home,Itawamba,L,3-0,3,0,3,win,20230329_0gey,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div2,Northeast Mississippi,northeastmississippicommunitycollege,harrismcreynoldslv7v,Harris McReynolds
+Mar 29,home,Itawamba,W,9-5,9,5,4,win,20230329_isb9,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div2,Northeast Mississippi,northeastmississippicommunitycollege,harrismcreynoldslv7v,Harris McReynolds
+Mar 25,home,Copiah-Lincoln,W,9-8,9,8,1,win,20230325_iv2i,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div2,Northeast Mississippi,northeastmississippicommunitycollege,harrismcreynoldslv7v,Harris McReynolds
+Mar 25,home,Copiah-Lincoln,L,7-6,7,6,1,win,20230325_sw2a,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div2,Northeast Mississippi,northeastmississippicommunitycollege,harrismcreynoldslv7v,Harris McReynolds
+Mar 18,home,Southwest Mississippi,W,14-9,14,9,5,win,20230318_oefm,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div2,Northeast Mississippi,northeastmississippicommunitycollege,harrismcreynoldslv7v,Harris McReynolds
+Mar 18,home,Southwest Mississippi,W,20-7,20,7,13,win,20230318_1fdw,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div2,Northeast Mississippi,northeastmississippicommunitycollege,harrismcreynoldslv7v,Harris McReynolds
+Mar 15,home,Coahoma,W,4-2,4,2,2,win,20230315_572n,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div2,Northeast Mississippi,northeastmississippicommunitycollege,harrismcreynoldslv7v,Harris McReynolds
+Mar 15,home,Coahoma,W,11-0,11,0,11,win,20230315_axrh,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div2,Northeast Mississippi,northeastmississippicommunitycollege,harrismcreynoldslv7v,Harris McReynolds
+Mar 11,home,Pearl River,W,6-5,6,5,1,win,20230311_xeae,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div2,Northeast Mississippi,northeastmississippicommunitycollege,harrismcreynoldslv7v,Harris McReynolds
+Mar 7,home,East Central (MS),W,7-3,7,3,4,win,20230307_sbfu,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div2,Northeast Mississippi,northeastmississippicommunitycollege,harrismcreynoldslv7v,Harris McReynolds
+Mar 4,home,Wallace State,L,7-1,7,1,6,win,20230304_c3wu,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div2,Northeast Mississippi,northeastmississippicommunitycollege,harrismcreynoldslv7v,Harris McReynolds
+Feb 26,home,Wallace State,L,8-2,8,2,6,win,20230226_wixp,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div2,Northeast Mississippi,northeastmississippicommunitycollege,harrismcreynoldslv7v,Harris McReynolds
+Feb 21,home,Southwest Mississippi,W,12-3,12,3,9,win,20230221_u59v,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div2,Northeast Mississippi,northeastmississippicommunitycollege,harrismcreynoldslv7v,Harris McReynolds
+Feb 19,home,East Central (MO),W,18-0,18,0,18,win,20230219_y7rp,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div2,Northeast Mississippi,northeastmississippicommunitycollege,harrismcreynoldslv7v,Harris McReynolds
+Feb 11,home,Kaskaskia,L,8-7,8,7,1,win,20230211_9zfr,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div2,Northeast Mississippi,northeastmississippicommunitycollege,harrismcreynoldslv7v,Harris McReynolds
+Feb 10,home,Kaskaskia,W,9-8,9,8,1,win,20230210_hngn,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div2,Northeast Mississippi,northeastmississippicommunitycollege,harrismcreynoldslv7v,Harris McReynolds
+Feb 4,home,John A. Logan,W,9-3,9,3,6,win,20230204_9p0v,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div2,Northeast Mississippi,northeastmississippicommunitycollege,harrismcreynoldslv7v,Harris McReynolds

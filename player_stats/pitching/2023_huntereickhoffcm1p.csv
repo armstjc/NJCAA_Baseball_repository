@@ -1,10 +1,13 @@
 date,location,opponent,result,score,team_score,opp_score,game_score_diff,game_win_loss,game_id,GS,W,L,SV,IP,H,R,ER,ERA,BB,K,HR,season,njcaa_season,njcaa_division,team,team_id,player_id,player_name
-May 18,home,Lewis & Clark,W,10-2,10,2,8,win,20230518_2qgi,0,0,0,0,1.0,1,1,1,9.00,1,,,2023,2022-23,div2,North Central Missouri,northcentralmissouricollege,huntereickhoffcm1p,Hunter Eickhoff
-May 7,home,John Wood,W,24-11,24,11,13,win,20230507_987x,0,0,0,0,1.1,1,,,0.00,,1,,2023,2022-23,div2,North Central Missouri,northcentralmissouricollege,huntereickhoffcm1p,Hunter Eickhoff
-May 2,home,Lake Land,W,12-10,12,10,2,win,20230502_zkvp,0,0,0,0,2.0,3,0,0,0.00,2,2,0,2023,2022-23,div2,North Central Missouri,northcentralmissouricollege,huntereickhoffcm1p,Hunter Eickhoff
-Apr 28,home,Danville Area,W,11-1,11,1,10,win,20230428_dnur,0,0,0,0,1.0,2,1,1,9.00,,,,2023,2022-23,div2,North Central Missouri,northcentralmissouricollege,huntereickhoffcm1p,Hunter Eickhoff
-Apr 18,home,South Suburban,W,3-2,3,2,1,win,20230418_hhgx,0,1,0,0,2.0,1,,,0.00,,2,,2023,2022-23,div2,North Central Missouri,northcentralmissouricollege,huntereickhoffcm1p,Hunter Eickhoff
-Apr 3,home,Lincoln Land,L,9-8,9,8,1,win,20230403_3hq1,0,0,1,0,0.0,1,2,2,INF,2,,,2023,2022-23,div2,North Central Missouri,northcentralmissouricollege,huntereickhoffcm1p,Hunter Eickhoff
-Mar 28,home,Parkland,W,17-3,17,3,14,win,20230328_m9qj,0,0,0,0,1.0,,,,0.00,2,1,,2023,2022-23,div2,North Central Missouri,northcentralmissouricollege,huntereickhoffcm1p,Hunter Eickhoff
-Mar 13,home,RCSJ Cumberland,W,5-1,5,1,4,win,20230313_e7y2,0,1,0,0,3.1,1,0,0,0.00,0,3,0,2023,2022-23,div2,North Central Missouri,northcentralmissouricollege,huntereickhoffcm1p,Hunter Eickhoff
-Mar 6,home,Muskegon,W,19-9,19,9,10,win,20230306_oong,0,0,0,0,1.0,2,2,2,18.00,0,1,0,2023,2022-23,div2,North Central Missouri,northcentralmissouricollege,huntereickhoffcm1p,Hunter Eickhoff
+May 5,home,Hesston,L,13-5,13,5,8,win,20230505_atyf,0,0,0,0,1.2,2,2,1,5.40,3,2,,2023,2022-23,div2,North Central Missouri,northcentralmissouricollege,huntereickhoffcm1p,Hunter Eickhoff
+Apr 25,home,State Fair,L,8-6,8,6,2,win,20230425_iu4y,0,0,0,0,1.0,2,,,0.00,,,,2023,2022-23,div2,North Central Missouri,northcentralmissouricollege,huntereickhoffcm1p,Hunter Eickhoff
+Apr 19,home,Southeast,L,11-0,11,0,11,win,20230419_4rij,0,0,0,0,2.0,4,4,3,13.50,,4,1,2023,2022-23,div2,North Central Missouri,northcentralmissouricollege,huntereickhoffcm1p,Hunter Eickhoff
+Apr 11,home,Missouri Valley College JV,W,11-2,11,2,9,win,20230411_nvke,0,0,0,0,1.0,1,,,0.00,,2,,2023,2022-23,div2,North Central Missouri,northcentralmissouricollege,huntereickhoffcm1p,Hunter Eickhoff
+Apr 4,home,Graceland University JV,W,23-16,23,16,7,win,20230404_d4yc,0,0,0,0,1.0,2,4,3,27.00,2,2,,2023,2022-23,div2,North Central Missouri,northcentralmissouricollege,huntereickhoffcm1p,Hunter Eickhoff
+Apr 2,home,Moberly Area,W,22-12,22,12,10,win,20230402_9fhh,0,0,0,0,1.0,4,3,2,18.00,1,1,,2023,2022-23,div2,North Central Missouri,northcentralmissouricollege,huntereickhoffcm1p,Hunter Eickhoff
+Mar 29,home,Central Christian College of Kansas JV,W,12-7,12,7,5,win,20230329_tsdl,0,0,0,0,1.0,3,5,1,9.00,1,1,2,2023,2022-23,div2,North Central Missouri,northcentralmissouricollege,huntereickhoffcm1p,Hunter Eickhoff
+Mar 13,home,Sullivan County,L,5-4,5,4,1,win,20230313_638a,0,0,0,0,5.0,2,,,0.00,,4,,2023,2022-23,div2,North Central Missouri,northcentralmissouricollege,huntereickhoffcm1p,Hunter Eickhoff
+Mar 5,home,Lewis & Clark,L,12-2,12,2,10,win,20230305_h3nc,0,0,0,0,1.1,2,2,,0.00,,1,,2023,2022-23,div2,North Central Missouri,northcentralmissouricollege,huntereickhoffcm1p,Hunter Eickhoff
+Mar 4,home,Lewis & Clark,L,10-3,10,3,7,win,20230304_slb6,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div2,North Central Missouri,northcentralmissouricollege,huntereickhoffcm1p,Hunter Eickhoff
+Feb 26,home,Redlands,L,18-7,18,7,11,win,20230226_krgz,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div2,North Central Missouri,northcentralmissouricollege,huntereickhoffcm1p,Hunter Eickhoff
+Feb 17,home,Murray State,L,15-5,15,5,10,win,20230217_kldf,0,0,0,0,0.0,2,2,1,INF,,,,2023,2022-23,div2,North Central Missouri,northcentralmissouricollege,huntereickhoffcm1p,Hunter Eickhoff

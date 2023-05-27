@@ -1,10 +1,32 @@
 date,location,opponent,result,score,team_score,opp_score,game_score_diff,game_win_loss,game_id,GS,W,L,SV,IP,H,R,ER,ERA,BB,K,HR,season,njcaa_season,njcaa_division,team,team_id,player_id,player_name
-May 1,home,IMG Academy,W,11-6,11,6,5,win,20230501_ies7,0,0,0,0,1.0,1,,,0.00,,2,,2023,2022-23,div1,State College of Florida,statecollegeoffloridamanateesaraso,evanmastromaurojpw4,Evan Mastromauro
-Apr 1,home,University of Tampa JV,W,11-8,11,8,3,win,20230401_zo82,1,0,0,0,2.0,6,3,3,13.50,1,1,,2023,2022-23,div1,State College of Florida,statecollegeoffloridamanateesaraso,evanmastromaurojpw4,Evan Mastromauro
-Mar 6,home,IMG Academy,W,18-5,18,5,13,win,20230306_aeyg,1,0,0,0,3.0,3,1,1,3.00,2,4,,2023,2022-23,div1,State College of Florida,statecollegeoffloridamanateesaraso,evanmastromaurojpw4,Evan Mastromauro
-Mar 1,home,Miami Dade,L,16-7,16,7,9,win,20230301_o35q,0,0,0,0,1.0,1,,,0.00,,,,2023,2022-23,div1,State College of Florida,statecollegeoffloridamanateesaraso,evanmastromaurojpw4,Evan Mastromauro
-Feb 22,home,Miami Dade,L,12-9,12,9,3,win,20230222_0sfs,1,0,1,0,2.2,5,7,7,23.63,5,0,,2023,2022-23,div1,State College of Florida,statecollegeoffloridamanateesaraso,evanmastromaurojpw4,Evan Mastromauro
-Feb 13,home,University of Tampa JV,W,4-2,4,2,2,win,20230213_ymu1,1,1,0,0,5.0,4,0,0,0.00,1,7,,2023,2022-23,div1,State College of Florida,statecollegeoffloridamanateesaraso,evanmastromaurojpw4,Evan Mastromauro
-Feb 7,home,Pasco-Hernando State,L,9-0,9,0,9,win,20230207_gm87,1,0,0,0,4.0,4,2,2,4.50,2,1,,2023,2022-23,div1,State College of Florida,statecollegeoffloridamanateesaraso,evanmastromaurojpw4,Evan Mastromauro
-Feb 3,home,Wallace-Dothan,L,9-0,9,0,9,win,20230203_5tnq,0,0,0,0,1.2,,,,0.00,,1,,2023,2022-23,div1,State College of Florida,statecollegeoffloridamanateesaraso,evanmastromaurojpw4,Evan Mastromauro
-Feb 1,home,South Florida State,L,9-0,9,0,9,win,20230201_w2cv,0,0,0,0,1.0,,,,0.00,,2,,2023,2022-23,div1,State College of Florida,statecollegeoffloridamanateesaraso,evanmastromaurojpw4,Evan Mastromauro
+May 1,home,IMG Academy,W,11-6,11,6,5,win,20230501_ies7,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div1,State College of Florida,statecollegeoffloridamanateesaraso,evanmastromaurojpw4,Evan Mastromauro
+Apr 26,home,Polk State,W,14-1,14,1,13,win,20230426_zubw,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div1,State College of Florida,statecollegeoffloridamanateesaraso,evanmastromaurojpw4,Evan Mastromauro
+Apr 24,home,Polk State,L,8-7,8,7,1,win,20230424_9bhc,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div1,State College of Florida,statecollegeoffloridamanateesaraso,evanmastromaurojpw4,Evan Mastromauro
+Apr 22,home,Polk State,W,21-4,21,4,17,win,20230422_9e1r,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div1,State College of Florida,statecollegeoffloridamanateesaraso,evanmastromaurojpw4,Evan Mastromauro
+Apr 21,home,Polk State,W,8-2,8,2,6,win,20230421_v4sw,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div1,State College of Florida,statecollegeoffloridamanateesaraso,evanmastromaurojpw4,Evan Mastromauro
+Apr 4,home,University of Tampa JV,W,11-3,11,3,8,win,20230404_npsw,0,0,0,0,2.0,5,3,3,13.50,,1,1,2023,2022-23,div1,State College of Florida,statecollegeoffloridamanateesaraso,evanmastromaurojpw4,Evan Mastromauro
+Apr 1,home,University of Tampa JV,W,11-8,11,8,3,win,20230401_zo82,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div1,State College of Florida,statecollegeoffloridamanateesaraso,evanmastromaurojpw4,Evan Mastromauro
+Mar 27,home,Polk State,W,11-1,11,1,10,win,20230327_pyu4,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div1,State College of Florida,statecollegeoffloridamanateesaraso,evanmastromaurojpw4,Evan Mastromauro
+Mar 11,home,St. Petersburg,L,5-3,5,3,2,win,20230311_h5lz,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div1,State College of Florida,statecollegeoffloridamanateesaraso,evanmastromaurojpw4,Evan Mastromauro
+Mar 6,home,IMG Academy,W,18-5,18,5,13,win,20230306_aeyg,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div1,State College of Florida,statecollegeoffloridamanateesaraso,evanmastromaurojpw4,Evan Mastromauro
+Mar 1,home,Miami Dade,L,16-7,16,7,9,win,20230301_o35q,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div1,State College of Florida,statecollegeoffloridamanateesaraso,evanmastromaurojpw4,Evan Mastromauro
+Feb 28,home,Eastern Florida State,W,10-6,10,6,4,win,20230228_1n6n,0,0,0,0,0.2,2,3,2,27.00,2,,,2023,2022-23,div1,State College of Florida,statecollegeoffloridamanateesaraso,evanmastromaurojpw4,Evan Mastromauro
+Feb 27,home,Indian River State,L,7-5,7,5,2,win,20230227_eknu,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div1,State College of Florida,statecollegeoffloridamanateesaraso,evanmastromaurojpw4,Evan Mastromauro
+Feb 25,home,Eastern Florida State,L,9-1,9,1,8,win,20230225_x08s,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div1,State College of Florida,statecollegeoffloridamanateesaraso,evanmastromaurojpw4,Evan Mastromauro
+Feb 22,home,Miami Dade,L,12-9,12,9,3,win,20230222_0sfs,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div1,State College of Florida,statecollegeoffloridamanateesaraso,evanmastromaurojpw4,Evan Mastromauro
+Feb 21,home,University of Tampa JV,W,18-7,18,7,11,win,20230221_e50p,0,0,0,0,2.0,4,3,3,13.50,,1,1,2023,2022-23,div1,State College of Florida,statecollegeoffloridamanateesaraso,evanmastromaurojpw4,Evan Mastromauro
+Feb 18,home,Tallahassee,L,8-5,8,5,3,win,20230218_8yhj,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div1,State College of Florida,statecollegeoffloridamanateesaraso,evanmastromaurojpw4,Evan Mastromauro
+Feb 17,home,Tallahassee,L,11-10,11,10,1,win,20230217_roj1,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div1,State College of Florida,statecollegeoffloridamanateesaraso,evanmastromaurojpw4,Evan Mastromauro
+Feb 13,home,University of Tampa JV,W,4-2,4,2,2,win,20230213_ymu1,0,0,0,1,0.1,,,,0.00,1,1,,2023,2022-23,div1,State College of Florida,statecollegeoffloridamanateesaraso,evanmastromaurojpw4,Evan Mastromauro
+Feb 10,home,Pasco-Hernando State,L,5-4,5,4,1,win,20230210_nc6o,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div1,State College of Florida,statecollegeoffloridamanateesaraso,evanmastromaurojpw4,Evan Mastromauro
+Feb 9,home,Indian River State,L,15-2,15,2,13,win,20230209_nfpr,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div1,State College of Florida,statecollegeoffloridamanateesaraso,evanmastromaurojpw4,Evan Mastromauro
+Feb 8,home,Warner University JV,W,12-2,12,2,10,win,20230208_a855,0,0,0,0,1.0,0,0,0,0.00,0,1,0,2023,2022-23,div1,State College of Florida,statecollegeoffloridamanateesaraso,evanmastromaurojpw4,Evan Mastromauro
+Feb 7,home,Pasco-Hernando State,L,9-0,9,0,9,win,20230207_gm87,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div1,State College of Florida,statecollegeoffloridamanateesaraso,evanmastromaurojpw4,Evan Mastromauro
+Feb 5,home,San Jacinto,W,11-3,11,3,8,win,20230205_oqh0,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div1,State College of Florida,statecollegeoffloridamanateesaraso,evanmastromaurojpw4,Evan Mastromauro
+Feb 4,home,Chipola,W,3-2,3,2,1,win,20230204_epad,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div1,State College of Florida,statecollegeoffloridamanateesaraso,evanmastromaurojpw4,Evan Mastromauro
+Feb 3,home,Wallace-Dothan,L,9-0,9,0,9,win,20230203_5tnq,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div1,State College of Florida,statecollegeoffloridamanateesaraso,evanmastromaurojpw4,Evan Mastromauro
+Feb 1,home,South Florida State,L,9-0,9,0,9,win,20230201_w2cv,0,0,0,0,1.0,2,2,2,18.00,1,,,2023,2022-23,div1,State College of Florida,statecollegeoffloridamanateesaraso,evanmastromaurojpw4,Evan Mastromauro
+Jan 29,home,Eastern Florida State,L,9-0,9,0,9,win,20230129_xuds,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div1,State College of Florida,statecollegeoffloridamanateesaraso,evanmastromaurojpw4,Evan Mastromauro
+Jan 28,home,Miami Dade,W,7-6,7,6,1,win,20230128_r3ms,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div1,State College of Florida,statecollegeoffloridamanateesaraso,evanmastromaurojpw4,Evan Mastromauro
+Jan 28,home,Northwest Florida State,L,9-0,9,0,9,win,20230128_uh7u,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div1,State College of Florida,statecollegeoffloridamanateesaraso,evanmastromaurojpw4,Evan Mastromauro
+Jan 27,home,Gulf Coast State,L,3-2,3,2,1,win,20230127_xhe6,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div1,State College of Florida,statecollegeoffloridamanateesaraso,evanmastromaurojpw4,Evan Mastromauro
