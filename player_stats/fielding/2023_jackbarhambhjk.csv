@@ -1,54 +1,31 @@
 date,location,opponent,result,score,team_score,opp_score,game_score_diff,game_win_loss,game_id,TC,PO,A,E,FPCT,DP,SBA,RCS,RCS_PCT,PB,CI,season,njcaa_season,njcaa_division,team,team_id,player_id,player_name
-Feb 15,home,Heartland,L,21-3,21,3,18,win,20230215_5zma,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div2,Carl Sandburg,carlsandburgcollege,jackbarhambhjk,Jack Barham
-Mar 4,home,South Suburban,L,9-4,9,4,5,win,20230304_vuoe,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div2,Carl Sandburg,carlsandburgcollege,jackbarhambhjk,Jack Barham
-Mar 5,home,Kankakee,W,15-14,15,14,1,win,20230305_pmv6,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div2,Carl Sandburg,carlsandburgcollege,jackbarhambhjk,Jack Barham
-Mar 8,home,Kankakee,L,6-2,6,2,4,win,20230308_073l,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div2,Carl Sandburg,carlsandburgcollege,jackbarhambhjk,Jack Barham
-Mar 10,home,Kirkwood,L,12-1,12,1,11,win,20230310_m3a9,0,0,0,0,1.0,,,,0.00,1,2,2023,2022-23,div2,Carl Sandburg,carlsandburgcollege,jackbarhambhjk,Jack Barham
-Mar 10,home,Mott,W,4-3,4,3,1,win,20230310_i24z,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div2,Carl Sandburg,carlsandburgcollege,jackbarhambhjk,Jack Barham
-Mar 11,home,Parkland,W,9-8,9,8,1,win,20230311_nwbf,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div2,Carl Sandburg,carlsandburgcollege,jackbarhambhjk,Jack Barham
-Mar 12,home,John A. Logan,L,8-7,8,7,1,win,20230312_00iu,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div2,Carl Sandburg,carlsandburgcollege,jackbarhambhjk,Jack Barham
-Mar 14,home,John A. Logan,L,20-15,20,15,5,win,20230314_h7x4,0,0,0,0,0.2,,2,2,27.00,3,,2023,2022-23,div2,Carl Sandburg,carlsandburgcollege,jackbarhambhjk,Jack Barham
-Mar 21,home,Southeastern,L,22-4,22,4,18,win,20230321_pwfl,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div2,Carl Sandburg,carlsandburgcollege,jackbarhambhjk,Jack Barham
+Feb 15,home,Heartland,L,21-3,21,3,18,win,20230215_5zma,1,0,0,0,1.0,0,0,0,0.00,0,0,2023,2022-23,div2,Carl Sandburg,carlsandburgcollege,jackbarhambhjk,Jack Barham
+Mar 4,home,South Suburban,L,9-4,9,4,5,win,20230304_vuoe,0,0,1,0,1.2,5,8,2,10.80,3,1,2023,2022-23,div2,Carl Sandburg,carlsandburgcollege,jackbarhambhjk,Jack Barham
+Mar 10,home,Mott,W,4-3,4,3,1,win,20230310_i24z,1,1,0,0,7.0,5,3,1,1.29,0,8,2023,2022-23,div2,Carl Sandburg,carlsandburgcollege,jackbarhambhjk,Jack Barham
 Mar 22,home,Illinois Central,L,3-2,3,2,1,win,20230322_lupa,0,0,0,0,1.0,,,,0.00,,2,2023,2022-23,div2,Carl Sandburg,carlsandburgcollege,jackbarhambhjk,Jack Barham
-Mar 24,home,South Suburban,L,4-3,4,3,1,win,20230324_cnv9,0,0,0,0,1.0,1,1,1,9.00,,,2023,2022-23,div2,Carl Sandburg,carlsandburgcollege,jackbarhambhjk,Jack Barham
-Mar 24,home,South Suburban,L,13-8,13,8,5,win,20230324_c6tq,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div2,Carl Sandburg,carlsandburgcollege,jackbarhambhjk,Jack Barham
-Mar 26,home,Madison,L,9-0,9,0,9,win,20230326_b4tp,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div2,Carl Sandburg,carlsandburgcollege,jackbarhambhjk,Jack Barham
-Mar 26,home,Madison,W,13-12,13,12,1,win,20230326_m5zi,0,0,0,1,1.0,1,1,,0.00,2,,2023,2022-23,div2,Carl Sandburg,carlsandburgcollege,jackbarhambhjk,Jack Barham
-Mar 28,home,Kishwaukee,L,4-3,4,3,1,win,20230328_s212,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div2,Carl Sandburg,carlsandburgcollege,jackbarhambhjk,Jack Barham
-Mar 28,home,Kishwaukee,W,13-3,13,3,10,win,20230328_zn7u,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div2,Carl Sandburg,carlsandburgcollege,jackbarhambhjk,Jack Barham
-Apr 3,home,Kishwaukee,W,4-2,4,2,2,win,20230403_53bo,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div2,Carl Sandburg,carlsandburgcollege,jackbarhambhjk,Jack Barham
-Apr 3,home,Kishwaukee,W,13-3,13,3,10,win,20230403_y7jh,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div2,Carl Sandburg,carlsandburgcollege,jackbarhambhjk,Jack Barham
-Apr 5,home,Highland (IL),L,5-4,5,4,1,win,20230405_7duh,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div2,Carl Sandburg,carlsandburgcollege,jackbarhambhjk,Jack Barham
-Apr 5,home,Highland (IL),W,9-5,9,5,4,win,20230405_wff9,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div2,Carl Sandburg,carlsandburgcollege,jackbarhambhjk,Jack Barham
-Apr 7,home,Joliet,L,7-4,7,4,3,win,20230407_hwip,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div2,Carl Sandburg,carlsandburgcollege,jackbarhambhjk,Jack Barham
-Apr 7,home,Joliet,W,5-1,5,1,4,win,20230407_lhc5,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div2,Carl Sandburg,carlsandburgcollege,jackbarhambhjk,Jack Barham
-Apr 8,home,Illinois Valley,L,4-1,4,1,3,win,20230408_rlnc,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div2,Carl Sandburg,carlsandburgcollege,jackbarhambhjk,Jack Barham
-Apr 8,home,Illinois Valley,W,15-2,15,2,13,win,20230408_7w8z,0,0,0,0,1.0,1,2,1,9.00,1,2,2023,2022-23,div2,Carl Sandburg,carlsandburgcollege,jackbarhambhjk,Jack Barham
+Mar 24,home,South Suburban,L,13-8,13,8,5,win,20230324_c6tq,1,0,1,0,4.0,6,8,6,13.50,3,5,2023,2022-23,div2,Carl Sandburg,carlsandburgcollege,jackbarhambhjk,Jack Barham
+Apr 3,home,Kishwaukee,W,13-3,13,3,10,win,20230403_y7jh,1,1,0,0,4.0,3,2,1,2.25,2,3,2023,2022-23,div2,Carl Sandburg,carlsandburgcollege,jackbarhambhjk,Jack Barham
+Apr 7,home,Joliet,L,7-4,7,4,3,win,20230407_hwip,1,0,1,0,5.0,11,7,5,9.00,2,4,2023,2022-23,div2,Carl Sandburg,carlsandburgcollege,jackbarhambhjk,Jack Barham
 Apr 11,home,Illinois Valley,W,13-0,13,0,13,win,20230411_506b,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div2,Carl Sandburg,carlsandburgcollege,jackbarhambhjk,Jack Barham
 Apr 11,home,Illinois Valley,W,14-13,14,13,1,win,20230411_zyuu,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div2,Carl Sandburg,carlsandburgcollege,jackbarhambhjk,Jack Barham
 Apr 13,home,Southeastern,L,10-5,10,5,5,win,20230413_sg20,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div2,Carl Sandburg,carlsandburgcollege,jackbarhambhjk,Jack Barham
-Apr 14,home,McHenry County,L,5-1,5,1,4,win,20230414_ah4a,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div2,Carl Sandburg,carlsandburgcollege,jackbarhambhjk,Jack Barham
-Apr 14,home,McHenry County,L,7-4,7,4,3,win,20230414_kyjy,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div2,Carl Sandburg,carlsandburgcollege,jackbarhambhjk,Jack Barham
+Apr 14,home,McHenry County,L,7-4,7,4,3,win,20230414_kyjy,1,0,1,0,3.0,6,7,3,9.00,3,2,2023,2022-23,div2,Carl Sandburg,carlsandburgcollege,jackbarhambhjk,Jack Barham
 Apr 15,home,Sauk Valley,W,4-3,4,3,1,win,20230415_787e,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div2,Carl Sandburg,carlsandburgcollege,jackbarhambhjk,Jack Barham
-Apr 15,home,Sauk Valley,W,17-12,17,12,5,win,20230415_xb79,0,1,0,0,2.0,3,,,0.00,1,1,2023,2022-23,div2,Carl Sandburg,carlsandburgcollege,jackbarhambhjk,Jack Barham
+Apr 15,home,Sauk Valley,W,17-12,17,12,5,win,20230415_xb79,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div2,Carl Sandburg,carlsandburgcollege,jackbarhambhjk,Jack Barham
 Apr 18,home,Sauk Valley,W,11-0,11,0,11,win,20230418_qigw,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div2,Carl Sandburg,carlsandburgcollege,jackbarhambhjk,Jack Barham
 Apr 18,home,Sauk Valley,W,5-3,5,3,2,win,20230418_wiek,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div2,Carl Sandburg,carlsandburgcollege,jackbarhambhjk,Jack Barham
-Apr 21,home,Madison,L,2-1,2,1,1,win,20230421_0h1r,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div2,Carl Sandburg,carlsandburgcollege,jackbarhambhjk,Jack Barham
-Apr 21,home,Madison,L,8-3,8,3,5,win,20230421_mc9d,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div2,Carl Sandburg,carlsandburgcollege,jackbarhambhjk,Jack Barham
+Apr 21,home,Madison,L,8-3,8,3,5,win,20230421_mc9d,1,0,0,0,3.0,3,3,2,6.00,3,0,2023,2022-23,div2,Carl Sandburg,carlsandburgcollege,jackbarhambhjk,Jack Barham
 Apr 22,home,Black Hawk-Moline,W,8-3,8,3,5,win,20230422_vwy2,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div2,Carl Sandburg,carlsandburgcollege,jackbarhambhjk,Jack Barham
 Apr 22,home,Black Hawk-Moline,L,4-3,4,3,1,win,20230422_00rx,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div2,Carl Sandburg,carlsandburgcollege,jackbarhambhjk,Jack Barham
 Apr 23,home,Kankakee,W,5-3,5,3,2,win,20230423_jbyg,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div2,Carl Sandburg,carlsandburgcollege,jackbarhambhjk,Jack Barham
 Apr 23,home,Kankakee,L,11-8,11,8,3,win,20230423_wl03,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div2,Carl Sandburg,carlsandburgcollege,jackbarhambhjk,Jack Barham
-Apr 25,home,Black Hawk-Moline,W,12-0,12,0,12,win,20230425_2erd,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div2,Carl Sandburg,carlsandburgcollege,jackbarhambhjk,Jack Barham
-Apr 25,home,Black Hawk-Moline,L,3-0,3,0,3,win,20230425_j3dc,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div2,Carl Sandburg,carlsandburgcollege,jackbarhambhjk,Jack Barham
+Apr 25,home,Black Hawk-Moline,L,3-0,3,0,3,win,20230425_j3dc,1,0,1,0,7.0,3,3,1,1.29,1,7,2023,2022-23,div2,Carl Sandburg,carlsandburgcollege,jackbarhambhjk,Jack Barham
 May 2,home,Parkland,L,13-8,13,8,5,win,20230502_iq29,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div2,Carl Sandburg,carlsandburgcollege,jackbarhambhjk,Jack Barham
 May 2,home,Parkland,L,9-2,9,2,7,win,20230502_hl8e,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div2,Carl Sandburg,carlsandburgcollege,jackbarhambhjk,Jack Barham
 May 3,home,Illinois Central,W,15-8,15,8,7,win,20230503_hf3s,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div2,Carl Sandburg,carlsandburgcollege,jackbarhambhjk,Jack Barham
-May 4,home,Highland (IL),W,11-10,11,10,1,win,20230504_5wfz,0,1,0,0,1.0,2,3,3,27.00,1,1,2023,2022-23,div2,Carl Sandburg,carlsandburgcollege,jackbarhambhjk,Jack Barham
+May 4,home,Highland (IL),W,11-10,11,10,1,win,20230504_5wfz,1,0,0,0,5.0,6,6,6,10.80,2,9,2023,2022-23,div2,Carl Sandburg,carlsandburgcollege,jackbarhambhjk,Jack Barham
 May 4,home,Highland (IL),W,9-5,9,5,4,win,20230504_egj3,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div2,Carl Sandburg,carlsandburgcollege,jackbarhambhjk,Jack Barham
-May 6,home,Oakton,W,12-6,12,6,6,win,20230506_cqvb,0,0,0,0,1.0,,,,0.00,2,3,2023,2022-23,div2,Carl Sandburg,carlsandburgcollege,jackbarhambhjk,Jack Barham
-May 6,home,Oakton,W,14-4,14,4,10,win,20230506_1l08,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div2,Carl Sandburg,carlsandburgcollege,jackbarhambhjk,Jack Barham
-May 9,home,Heartland,L,10-8,10,8,2,win,20230509_o7zn,0,0,1,0,1.0,3,2,2,18.00,1,1,2023,2022-23,div2,Carl Sandburg,carlsandburgcollege,jackbarhambhjk,Jack Barham
+May 9,home,Heartland,L,10-8,10,8,2,win,20230509_o7zn,0,0,0,0,2.0,4,3,3,13.50,2,1,2023,2022-23,div2,Carl Sandburg,carlsandburgcollege,jackbarhambhjk,Jack Barham
 May 10,home,Illinois Central,W,9-6,9,6,3,win,20230510_ghpo,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div2,Carl Sandburg,carlsandburgcollege,jackbarhambhjk,Jack Barham
 May 12,home,Highland (IL),L,7-6,7,6,1,win,20230512_yw87,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div2,Carl Sandburg,carlsandburgcollege,jackbarhambhjk,Jack Barham
 May 12,home,Kankakee,L,8-5,8,5,3,win,20230512_cbmo,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div2,Carl Sandburg,carlsandburgcollege,jackbarhambhjk,Jack Barham

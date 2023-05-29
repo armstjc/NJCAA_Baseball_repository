@@ -1,11 +1,13 @@
 date,location,opponent,result,score,team_score,opp_score,game_score_diff,game_win_loss,game_id,TC,PO,A,E,FPCT,DP,SBA,RCS,RCS_PCT,PB,CI,season,njcaa_season,njcaa_division,team,team_id,player_id,player_name
-Feb 9,home,Philander Smith College,W,24-2,24,2,22,win,20230209_kfdu,0,0,0,0,3.0,2,,,0.00,,5,2023,2022-23,div2,UA Rich Mountain,uarichmountain,austinraineyndrq,Austin Rainey
-Feb 18,home,ASU Mountain Home,W,8-6,8,6,2,win,20230218_yxar,0,1,0,0,1.1,1,2,,0.00,1,2,2023,2022-23,div2,UA Rich Mountain,uarichmountain,austinraineyndrq,Austin Rainey
-Feb 25,home,Connors State,L,13-1,13,1,12,win,20230225_4b4q,0,0,0,0,0.1,1,,,0.00,,,2023,2022-23,div2,UA Rich Mountain,uarichmountain,austinraineyndrq,Austin Rainey
-Mar 5,home,Mineral Area,L,16-3,16,3,13,win,20230305_ntdb,1,0,1,0,3.0,6,6,4,12.00,4,0,2023,2022-23,div2,UA Rich Mountain,uarichmountain,austinraineyndrq,Austin Rainey
-Mar 12,home,Northern Oklahoma Enid,L,11-10,11,10,1,win,20230312_e3bg,0,0,0,0,3.1,4,5,3,8.10,4,3,2023,2022-23,div2,UA Rich Mountain,uarichmountain,austinraineyndrq,Austin Rainey
-Mar 21,home,Eastern Oklahoma State,W,13-11,13,11,2,win,20230321_2z18,1,0,0,0,4.0,9,8,4,9.00,2,3,2023,2022-23,div2,UA Rich Mountain,uarichmountain,austinraineyndrq,Austin Rainey
-Mar 25,home,South Arkansas,L,13-7,13,7,6,win,20230325_l5wi,0,0,0,0,0.1,1,1,1,27.00,2,,2023,2022-23,div2,UA Rich Mountain,uarichmountain,austinraineyndrq,Austin Rainey
-Mar 30,home,Redlands,L,10-1,10,1,9,win,20230330_h3z8,0,0,0,0,1.2,,,,0.00,,2,2023,2022-23,div2,UA Rich Mountain,uarichmountain,austinraineyndrq,Austin Rainey
-Apr 11,home,Eastern Oklahoma State,L,12-8,12,8,4,win,20230411_sa2r,0,0,0,0,0.2,3,2,2,27.00,2,1,2023,2022-23,div2,UA Rich Mountain,uarichmountain,austinraineyndrq,Austin Rainey
-Apr 18,home,Arkansas Baptist,W,13-3,13,3,10,win,20230418_ekmx,1,0,0,0,3.0,3,3,2,6.00,2,6,2023,2022-23,div2,UA Rich Mountain,uarichmountain,austinraineyndrq,Austin Rainey
+Feb 5,home,Northeast Texas,L,12-2,12,2,10,win,20230205_ws2a,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div2,UA Rich Mountain,uarichmountain,austinraineyndrq,Austin Rainey
+Feb 18,home,ASU Mountain Home,W,8-6,8,6,2,win,20230218_yxar,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div2,UA Rich Mountain,uarichmountain,austinraineyndrq,Austin Rainey
+Feb 21,home,Eastern Oklahoma State,L,8-3,8,3,5,win,20230221_bklt,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div2,UA Rich Mountain,uarichmountain,austinraineyndrq,Austin Rainey
+Feb 27,home,Arkansas Tech University JV,W,8-1,8,1,7,win,20230227_zpe4,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div2,UA Rich Mountain,uarichmountain,austinraineyndrq,Austin Rainey
+Mar 5,home,Mineral Area,L,16-3,16,3,13,win,20230305_ntdb,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div2,UA Rich Mountain,uarichmountain,austinraineyndrq,Austin Rainey
+Mar 12,home,Northern Oklahoma Enid,L,11-10,11,10,1,win,20230312_e3bg,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div2,UA Rich Mountain,uarichmountain,austinraineyndrq,Austin Rainey
+Mar 12,home,Northern Oklahoma Enid,W,11-7,11,7,4,win,20230312_wxfl,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div2,UA Rich Mountain,uarichmountain,austinraineyndrq,Austin Rainey
+Mar 14,home,Seminole State (OK),L,20-7,20,7,13,win,20230314_idit,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div2,UA Rich Mountain,uarichmountain,austinraineyndrq,Austin Rainey
+Mar 18,home,Carl Albert State,W,14-5,14,5,9,win,20230318_houb,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div2,UA Rich Mountain,uarichmountain,austinraineyndrq,Austin Rainey
+Mar 25,home,South Arkansas,L,13-7,13,7,6,win,20230325_l5wi,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div2,UA Rich Mountain,uarichmountain,austinraineyndrq,Austin Rainey
+Apr 4,home,Arkansas Baptist,W,15-3,15,3,12,win,20230404_kk4a,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div2,UA Rich Mountain,uarichmountain,austinraineyndrq,Austin Rainey
+Apr 30,home,SAU Tech,W,23-4,23,4,19,win,20230430_78ku,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div2,UA Rich Mountain,uarichmountain,austinraineyndrq,Austin Rainey

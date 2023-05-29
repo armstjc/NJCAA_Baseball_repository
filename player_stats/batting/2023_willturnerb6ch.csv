@@ -1,6 +1,33 @@
 date,location,opponent,result,score,team_score,opp_score,game_score_diff,game_win_loss,game_id,AB,R,H,2B,3B,HR,RBI,BB,K,SB,CS,HBP,SF,SH,TB,XBH,HDP,GO,FO,GO/FO,PA,season,njcaa_season,njcaa_division,team,team_id,player_id,player_name
-Feb 23,home,Chesapeake,W,7-6,7,6,1,win,20230223_ottg,0,0,0,,,,0,,,,,,,,0,0,,,,,0,2023,2022-23,div2,Delaware Tech,delawaretechnicalcommunitycollege,willturnerb6ch,Will Turner
-Mar 12,home,Allegany Maryland,W,13-5,13,5,8,win,20230312_3t60,0,0,0,,,,0,,,,,,,,0,0,,,,,0,2023,2022-23,div2,Delaware Tech,delawaretechnicalcommunitycollege,willturnerb6ch,Will Turner
-Mar 23,home,Raritan Valley,W,23-1,23,1,22,win,20230323_l3fg,0,0,0,,,,0,,,,,,,,0,0,,,,,0,2023,2022-23,div2,Delaware Tech,delawaretechnicalcommunitycollege,willturnerb6ch,Will Turner
-Apr 2,home,Mercer County,W,7-4,7,4,3,win,20230402_89y4,0,0,0,,,,0,,,,,,,,0,0,,,,,0,2023,2022-23,div2,Delaware Tech,delawaretechnicalcommunitycollege,willturnerb6ch,Will Turner
-Apr 5,home,Southern Maryland,W,9-1,9,1,8,win,20230405_1a4a,0,0,0,,,,0,,,,,,,,0,0,,,,,0,2023,2022-23,div2,Delaware Tech,delawaretechnicalcommunitycollege,willturnerb6ch,Will Turner
+Feb 11,home,Cecil,W,7-3,7,3,4,win,20230211_h60b,3,0,0,,,,0,,1,,,,,,0,0,,,,,3,2023,2022-23,div2,Delaware Tech,delawaretechnicalcommunitycollege,willturnerb6ch,Will Turner
+Feb 12,home,Cecil,W,4-3,4,3,1,win,20230212_sjgs,4,0,1,,,,0,,,,,,,,1,0,,1,,,4,2023,2022-23,div2,Delaware Tech,delawaretechnicalcommunitycollege,willturnerb6ch,Will Turner
+Feb 19,home,Atlantic Cape,W,15-1,15,1,14,win,20230219_mocf,3,1,1,1,,,2,,1,,,,,,2,1,,,,,3,2023,2022-23,div2,Delaware Tech,delawaretechnicalcommunitycollege,willturnerb6ch,Will Turner
+Feb 22,home,Anne Arundel,W,11-1,11,1,10,win,20230222_71qh,3,1,2,,,1,2,1,1,,,,,,5,1,,,,,4,2023,2022-23,div2,Delaware Tech,delawaretechnicalcommunitycollege,willturnerb6ch,Will Turner
+Feb 23,home,Chesapeake,W,7-6,7,6,1,win,20230223_ottg,4,2,3,1,1,,3,,,1,,,,,6,2,,,,,4,2023,2022-23,div2,Delaware Tech,delawaretechnicalcommunitycollege,willturnerb6ch,Will Turner
+Feb 26,home,Morris,W,6-4,6,4,2,win,20230226_wdn4,3,1,2,,,,3,,,,,,,,2,0,,,,,3,2023,2022-23,div2,Delaware Tech,delawaretechnicalcommunitycollege,willturnerb6ch,Will Turner
+Feb 26,home,Morris,W,9-1,9,1,8,win,20230226_6h8x,3,2,1,,,,2,1,2,,,,,,1,0,,,,,4,2023,2022-23,div2,Delaware Tech,delawaretechnicalcommunitycollege,willturnerb6ch,Will Turner
+Mar 5,home,Anne Arundel,W,1-0,1,0,1,win,20230305_9qpe,2,0,0,,,,0,1,1,,,,,,0,0,,,,,3,2023,2022-23,div2,Delaware Tech,delawaretechnicalcommunitycollege,willturnerb6ch,Will Turner
+Mar 5,home,Anne Arundel,W,8-4,8,4,4,win,20230305_e3r2,2,1,1,,,,1,,,,1,1,,,1,0,,,,,3,2023,2022-23,div2,Delaware Tech,delawaretechnicalcommunitycollege,willturnerb6ch,Will Turner
+Mar 12,home,Allegany Maryland,W,13-5,13,5,8,win,20230312_3t60,2,2,1,,,,0,1,1,,,1,,,1,0,,,,,4,2023,2022-23,div2,Delaware Tech,delawaretechnicalcommunitycollege,willturnerb6ch,Will Turner
+Mar 12,home,Allegany Maryland,W,6-3,6,3,3,win,20230312_iqqo,3,0,0,,,,0,,,,,,,,0,0,,,,,3,2023,2022-23,div2,Delaware Tech,delawaretechnicalcommunitycollege,willturnerb6ch,Will Turner
+Mar 16,home,Chesapeake,W,11-4,11,4,7,win,20230316_n5xp,5,2,3,1,,1,3,,,,,,,,7,2,,,,,5,2023,2022-23,div2,Delaware Tech,delawaretechnicalcommunitycollege,willturnerb6ch,Will Turner
+Mar 18,home,RCSJ Gloucester,W,5-4,5,4,1,win,20230318_ojdd,4,1,0,,,,0,,1,,,,,,0,0,,,,,4,2023,2022-23,div2,Delaware Tech,delawaretechnicalcommunitycollege,willturnerb6ch,Will Turner
+Mar 22,home,Morris,W,3-1,3,1,2,win,20230322_6lrt,5,0,2,,,,0,,,1,,,,,2,0,,,,,5,2023,2022-23,div2,Delaware Tech,delawaretechnicalcommunitycollege,willturnerb6ch,Will Turner
+Mar 23,home,Raritan Valley,W,23-1,23,1,22,win,20230323_l3fg,4,1,4,2,,1,6,,,1,,,,,9,3,,,,,4,2023,2022-23,div2,Delaware Tech,delawaretechnicalcommunitycollege,willturnerb6ch,Will Turner
+Mar 26,home,Raritan Valley,W,24-3,24,3,21,win,20230326_vj53,4,4,2,1,,,2,,,,,1,,,3,1,,,,,5,2023,2022-23,div2,Delaware Tech,delawaretechnicalcommunitycollege,willturnerb6ch,Will Turner
+Mar 26,home,Raritan Valley,W,11-1,11,1,10,win,20230326_qy4x,4,1,2,1,,1,5,,1,,,,,,6,2,,,,,4,2023,2022-23,div2,Delaware Tech,delawaretechnicalcommunitycollege,willturnerb6ch,Will Turner
+Apr 2,home,Mercer County,W,15-2,15,2,13,win,20230402_qjzz,3,0,0,,,,0,,1,1,,2,,,0,0,,,,,5,2023,2022-23,div2,Delaware Tech,delawaretechnicalcommunitycollege,willturnerb6ch,Will Turner
+Apr 2,home,Mercer County,W,7-4,7,4,3,win,20230402_89y4,3,1,1,,,,0,,,,,,,,1,0,,,,,3,2023,2022-23,div2,Delaware Tech,delawaretechnicalcommunitycollege,willturnerb6ch,Will Turner
+Apr 5,home,Southern Maryland,W,9-1,9,1,8,win,20230405_1a4a,2,1,1,,,,0,1,,1,,1,,,1,0,,,,,4,2023,2022-23,div2,Delaware Tech,delawaretechnicalcommunitycollege,willturnerb6ch,Will Turner
+Apr 5,home,Southern Maryland,W,8-0,8,0,8,win,20230405_cpfy,4,0,1,1,,,2,,1,,,,,,2,1,,,,,4,2023,2022-23,div2,Delaware Tech,delawaretechnicalcommunitycollege,willturnerb6ch,Will Turner
+Apr 6,home,CCBC Essex,W,10-2,10,2,8,win,20230406_t4jl,1,0,0,,,,0,1,,,,,,,0,0,,,,,2,2023,2022-23,div2,Delaware Tech,delawaretechnicalcommunitycollege,willturnerb6ch,Will Turner
+Apr 12,home,CCBC Dundalk,W,13-6,13,6,7,win,20230412_7idl,5,2,4,,,,2,,,4,,,,,4,0,,,,,5,2023,2022-23,div2,Delaware Tech,delawaretechnicalcommunitycollege,willturnerb6ch,Will Turner
+Apr 21,home,Lehigh Carbon,W,15-2,15,2,13,win,20230421_anqo,3,0,1,1,,,1,,,,1,1,,,2,1,,,,,4,2023,2022-23,div2,Delaware Tech,delawaretechnicalcommunitycollege,willturnerb6ch,Will Turner
+Apr 22,home,Lehigh Carbon,W,24-1,24,1,23,win,20230422_b384,3,4,3,1,,,1,1,,1,,,,,4,1,,,,,4,2023,2022-23,div2,Delaware Tech,delawaretechnicalcommunitycollege,willturnerb6ch,Will Turner
+Apr 22,home,Lehigh Carbon,W,11-7,11,7,4,win,20230422_5kqa,2,1,1,,,,0,,,1,,1,,,1,0,,,,,3,2023,2022-23,div2,Delaware Tech,delawaretechnicalcommunitycollege,willturnerb6ch,Will Turner
+May 1,home,Sussex County,W,11-1,11,1,10,win,20230501_5sf4,4,1,2,,,1,2,,,,,,,,5,1,,,,,4,2023,2022-23,div2,Delaware Tech,delawaretechnicalcommunitycollege,willturnerb6ch,Will Turner
+May 6,home,CCBC Dundalk,W,6-4,6,4,2,win,20230506_vxmw,4,0,0,,,,0,,1,,,,,,0,0,,,,,4,2023,2022-23,div2,Delaware Tech,delawaretechnicalcommunitycollege,willturnerb6ch,Will Turner
+May 6,home,CCBC Dundalk,W,6-5,6,5,1,win,20230506_es7h,3,0,1,,,,0,,1,1,,,,,1,0,,,,,3,2023,2022-23,div2,Delaware Tech,delawaretechnicalcommunitycollege,willturnerb6ch,Will Turner
+May 12,home,Sussex County,W,8-6,8,6,2,win,20230512_5fzh,5,1,2,,,,0,,1,,,,,,2,0,,,,,5,2023,2022-23,div2,Delaware Tech,delawaretechnicalcommunitycollege,willturnerb6ch,Will Turner
+May 13,home,Sussex County,W,12-4,12,4,8,win,20230513_abf4,5,0,2,,,,1,,1,,,,,,2,0,,,,,5,2023,2022-23,div2,Delaware Tech,delawaretechnicalcommunitycollege,willturnerb6ch,Will Turner
+May 19,home,Sullivan County,W,14-9,14,9,5,win,20230519_6apm,6,1,1,,,,0,,,,,,,,1,0,,,,,6,2023,2022-23,div2,Delaware Tech,delawaretechnicalcommunitycollege,willturnerb6ch,Will Turner

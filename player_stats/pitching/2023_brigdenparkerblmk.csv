@@ -1,15 +1,22 @@
 date,location,opponent,result,score,team_score,opp_score,game_score_diff,game_win_loss,game_id,GS,W,L,SV,IP,H,R,ER,ERA,BB,K,HR,season,njcaa_season,njcaa_division,team,team_id,player_id,player_name
-May 20,home,Johnson County,L,2-0,2,0,2,win,20230520_79p9,1,0,1,0,4.1,3,1,1,2.08,3,1,,2023,2022-23,div1,Cowley,cowleycountycommunitycollege,brigdenparkerblmk,Brigden Parker
-May 11,home,Pratt,L,10-9,10,9,1,win,20230511_cwt8,1,0,1,0,3.0,8,3,3,9.00,1,4,,2023,2022-23,div1,Cowley,cowleycountycommunitycollege,brigdenparkerblmk,Brigden Parker
-May 3,home,Fort Scott,L,11-3,11,3,8,win,20230503_kv6t,1,0,1,0,3.2,6,7,7,17.18,2,4,2,2023,2022-23,div1,Cowley,cowleycountycommunitycollege,brigdenparkerblmk,Brigden Parker
-Apr 27,home,Labette,W,17-4,17,4,13,win,20230427_gojh,1,1,0,0,6.0,10,4,4,6.00,2,7,,2023,2022-23,div1,Cowley,cowleycountycommunitycollege,brigdenparkerblmk,Brigden Parker
-Apr 22,home,Johnson County,L,9-0,9,0,9,win,20230422_be3a,1,0,1,0,3.1,6,7,4,10.80,2,1,,2023,2022-23,div1,Cowley,cowleycountycommunitycollege,brigdenparkerblmk,Brigden Parker
-Apr 15,home,Hutchinson,W,6-0,6,0,6,win,20230415_6w9u,1,1,0,0,7.0,4,0,0,0.00,0,7,,2023,2022-23,div1,Cowley,cowleycountycommunitycollege,brigdenparkerblmk,Brigden Parker
-Apr 8,home,Neosho County,W,5-4,5,4,1,win,20230408_i14o,1,0,0,0,4.0,0,1,1,2.25,5,3,,2023,2022-23,div1,Cowley,cowleycountycommunitycollege,brigdenparkerblmk,Brigden Parker
-Apr 1,home,Highland (KS),W,10-0,10,0,10,win,20230401_ytq9,1,1,0,0,5.0,0,0,0,0.00,0,7,,2023,2022-23,div1,Cowley,cowleycountycommunitycollege,brigdenparkerblmk,Brigden Parker
-Mar 25,home,Allen County,W,7-2,7,2,5,win,20230325_h3o5,1,1,0,0,6.0,3,1,0,0.00,2,8,,2023,2022-23,div1,Cowley,cowleycountycommunitycollege,brigdenparkerblmk,Brigden Parker
-Mar 17,home,Kansas City Kansas,W,8-6,8,6,2,win,20230317_ghxr,1,0,0,0,4.2,4,5,3,5.79,2,7,1,2023,2022-23,div1,Cowley,cowleycountycommunitycollege,brigdenparkerblmk,Brigden Parker
-Mar 12,home,Coffeyville,W,5-1,5,1,4,win,20230312_7noq,1,0,0,0,4.0,4,1,1,2.25,0,5,,2023,2022-23,div1,Cowley,cowleycountycommunitycollege,brigdenparkerblmk,Brigden Parker
-Mar 5,home,Indian Hills,W,7-6,7,6,1,win,20230305_y3e5,0,0,0,0,2.0,2,1,1,4.50,1,3,,2023,2022-23,div1,Cowley,cowleycountycommunitycollege,brigdenparkerblmk,Brigden Parker
-Feb 24,home,McLennan,L,2-0,2,0,2,win,20230224_qspf,0,0,0,0,2.0,1,2,1,4.50,2,4,,2023,2022-23,div1,Cowley,cowleycountycommunitycollege,brigdenparkerblmk,Brigden Parker
-Feb 17,home,Grayson,W,9-0,9,0,9,win,20230217_tdc1,0,0,0,0,2.0,3,4,3,13.50,3,3,,2023,2022-23,div1,Cowley,cowleycountycommunitycollege,brigdenparkerblmk,Brigden Parker
+May 21,home,Johnson County,L,11-2,11,2,9,win,20230521_xozc,0,0,0,0,0.1,1,,,0.00,1,,,2023,2022-23,div1,Cowley,cowleycountycommunitycollege,brigdenparkerblmk,Brigden Parker
+May 18,home,Barton,W,9-6,9,6,3,win,20230518_eq2v,0,0,0,0,0.2,,,,0.00,3,2,,2023,2022-23,div1,Cowley,cowleycountycommunitycollege,brigdenparkerblmk,Brigden Parker
+May 11,home,Pratt,L,10-9,10,9,1,win,20230511_cwt8,0,0,0,0,2.0,2,,,0.00,,4,,2023,2022-23,div1,Cowley,cowleycountycommunitycollege,brigdenparkerblmk,Brigden Parker
+May 10,home,Pratt,W,6-2,6,2,4,win,20230510_dqn2,0,0,0,0,1.0,2,2,2,18.00,,1,1,2023,2022-23,div1,Cowley,cowleycountycommunitycollege,brigdenparkerblmk,Brigden Parker
+May 3,home,Fort Scott,L,11-3,11,3,8,win,20230503_kv6t,0,0,0,0,3.0,2,2,2,6.00,,7,1,2023,2022-23,div1,Cowley,cowleycountycommunitycollege,brigdenparkerblmk,Brigden Parker
+Apr 29,home,Labette,W,22-8,22,8,14,win,20230429_vys6,0,0,0,0,1.1,4,2,2,13.50,,3,1,2023,2022-23,div1,Cowley,cowleycountycommunitycollege,brigdenparkerblmk,Brigden Parker
+Apr 20,home,Johnson County,L,11-10,11,10,1,win,20230420_v678,0,0,0,0,1.2,2,3,3,16.20,1,2,1,2023,2022-23,div1,Cowley,cowleycountycommunitycollege,brigdenparkerblmk,Brigden Parker
+Apr 17,home,Rose State,L,13-12,13,12,1,win,20230417_rccz,0,0,0,0,0.2,2,1,1,13.50,1,,,2023,2022-23,div1,Cowley,cowleycountycommunitycollege,brigdenparkerblmk,Brigden Parker
+Apr 13,home,Hutchinson,L,18-12,18,12,6,win,20230413_9um8,0,0,0,0,1.0,4,5,5,45.00,2,1,2,2023,2022-23,div1,Cowley,cowleycountycommunitycollege,brigdenparkerblmk,Brigden Parker
+Apr 8,home,Neosho County,W,5-4,5,4,1,win,20230408_i14o,0,0,0,0,4.0,3,3,3,6.75,1,2,,2023,2022-23,div1,Cowley,cowleycountycommunitycollege,brigdenparkerblmk,Brigden Parker
+Apr 6,home,Neosho County,W,6-2,6,2,4,win,20230406_3n9k,0,0,0,0,1.2,1,1,1,5.40,3,1,,2023,2022-23,div1,Cowley,cowleycountycommunitycollege,brigdenparkerblmk,Brigden Parker
+Apr 3,home,Seminole State (OK),W,18-9,18,9,9,win,20230403_ls4k,0,0,0,1,3.0,2,,,0.00,,1,,2023,2022-23,div1,Cowley,cowleycountycommunitycollege,brigdenparkerblmk,Brigden Parker
+Mar 30,home,Highland (KS),W,11-8,11,8,3,win,20230330_9pvw,0,1,0,0,2.2,3,1,1,3.38,,5,,2023,2022-23,div1,Cowley,cowleycountycommunitycollege,brigdenparkerblmk,Brigden Parker
+Mar 28,home,Cloud County,L,8-7,8,7,1,win,20230328_kz1t,0,0,0,0,1.0,1,,,0.00,1,1,,2023,2022-23,div1,Cowley,cowleycountycommunitycollege,brigdenparkerblmk,Brigden Parker
+Mar 25,home,Allen County,W,7-2,7,2,5,win,20230325_h3o5,0,0,0,0,3.0,2,1,1,3.00,,2,,2023,2022-23,div1,Cowley,cowleycountycommunitycollege,brigdenparkerblmk,Brigden Parker
+Mar 21,home,Seminole State (OK),L,14-4,14,4,10,win,20230321_4s14,0,0,0,0,1.0,,,,0.00,2,1,,2023,2022-23,div1,Cowley,cowleycountycommunitycollege,brigdenparkerblmk,Brigden Parker
+Mar 15,home,Kansas City Kansas,L,10-7,10,7,3,win,20230315_8d5a,1,0,1,0,0.2,4,5,5,67.50,3,1,,2023,2022-23,div1,Cowley,cowleycountycommunitycollege,brigdenparkerblmk,Brigden Parker
+Mar 9,home,Coffeyville,W,6-3,6,3,3,win,20230309_ps97,1,0,0,0,4.0,4,2,1,2.25,1,4,,2023,2022-23,div1,Cowley,cowleycountycommunitycollege,brigdenparkerblmk,Brigden Parker
+Mar 5,home,Indian Hills,W,7-6,7,6,1,win,20230305_y3e5,1,0,0,0,3.0,2,2,0,0.00,1,5,,2023,2022-23,div1,Cowley,cowleycountycommunitycollege,brigdenparkerblmk,Brigden Parker
+Feb 24,home,McLennan,L,2-0,2,0,2,win,20230224_qspf,0,0,0,0,3.0,2,,,0.00,1,4,,2023,2022-23,div1,Cowley,cowleycountycommunitycollege,brigdenparkerblmk,Brigden Parker
+Feb 17,home,Grayson,W,9-5,9,5,4,win,20230217_4ft0,0,0,0,0,1.0,1,,,0.00,,3,,2023,2022-23,div1,Cowley,cowleycountycommunitycollege,brigdenparkerblmk,Brigden Parker

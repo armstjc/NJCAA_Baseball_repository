@@ -1,28 +1,2 @@
 date,location,opponent,result,score,team_score,opp_score,game_score_diff,game_win_loss,game_id,AB,R,H,2B,3B,HR,RBI,BB,K,SB,CS,HBP,SF,SH,TB,XBH,HDP,GO,FO,GO/FO,PA,season,njcaa_season,njcaa_division,team,team_id,player_id,player_name
-Mar 12,home,CCBC Essex,W,8-2,8,2,6,win,20230312_tq25,2,0,0,,,,1,2,,1,,,,,0,0,,1,1,1.00,4,2023,2022-23,div3,Cayuga,cayugacommunitycollege,alexgaudet5174,Alex Gaudet
-Mar 12,home,CCBC Essex,W,7-3,7,3,4,win,20230312_zp5s,3,0,2,2,,,4,,,,1,,,,4,2,,,1,,3,2023,2022-23,div3,Cayuga,cayugacommunitycollege,alexgaudet5174,Alex Gaudet
-Mar 21,home,Onondaga,W,10-5,10,5,5,win,20230321_udys,2,2,2,,,,1,2,,2,,,,,2,0,,,,,4,2023,2022-23,div3,Cayuga,cayugacommunitycollege,alexgaudet5174,Alex Gaudet
-Mar 22,home,Tompkins Cortland,W,6-2,6,2,4,win,20230322_7c2d,2,0,0,,,,0,,,,,1,,,0,0,,,,,3,2023,2022-23,div3,Cayuga,cayugacommunitycollege,alexgaudet5174,Alex Gaudet
-Mar 22,home,Tompkins Cortland,W,14-9,14,9,5,win,20230322_dcf3,3,1,1,,1,,2,1,,,,,,,3,1,,,,,4,2023,2022-23,div3,Cayuga,cayugacommunitycollege,alexgaudet5174,Alex Gaudet
-Mar 26,home,Mohawk Valley,W,10-6,10,6,4,win,20230326_133j,2,0,0,,,,0,2,1,,,,,,0,0,,,,,4,2023,2022-23,div3,Cayuga,cayugacommunitycollege,alexgaudet5174,Alex Gaudet
-Mar 26,home,Mohawk Valley,W,11-4,11,4,7,win,20230326_49bi,3,0,0,,,,0,1,1,,,,,,0,0,,,,,4,2023,2022-23,div3,Cayuga,cayugacommunitycollege,alexgaudet5174,Alex Gaudet
-Mar 28,home,Mohawk Valley,W,10-2,10,2,8,win,20230328_0btg,4,1,1,,,,0,,,,,,,,1,0,,,,,4,2023,2022-23,div3,Cayuga,cayugacommunitycollege,alexgaudet5174,Alex Gaudet
-Mar 30,home,Columbia-Greene,W,12-2,12,2,10,win,20230330_wwj3,3,1,2,1,,,1,1,,,,,,,3,1,,,,,4,2023,2022-23,div3,Cayuga,cayugacommunitycollege,alexgaudet5174,Alex Gaudet
-Mar 30,home,Columbia-Greene,W,10-0,10,0,10,win,20230330_v5rk,2,1,0,,,,1,,,1,,1,,,0,0,,,,,3,2023,2022-23,div3,Cayuga,cayugacommunitycollege,alexgaudet5174,Alex Gaudet
-Apr 4,home,Columbia-Greene,W,10-6,10,6,4,win,20230404_ome3,2,2,1,,,,1,2,,,,,,,1,0,,,,,4,2023,2022-23,div3,Cayuga,cayugacommunitycollege,alexgaudet5174,Alex Gaudet
-Apr 4,home,Columbia-Greene,W,20-1,20,1,19,win,20230404_pr9w,0,3,0,,,,2,4,,,,,,,0,0,,,,,4,2023,2022-23,div3,Cayuga,cayugacommunitycollege,alexgaudet5174,Alex Gaudet
-Apr 8,home,SUNY Adirondack,W,4-1,4,1,3,win,20230408_xl3o,2,0,0,,,,0,1,1,,,,,,0,0,,,,,3,2023,2022-23,div3,Cayuga,cayugacommunitycollege,alexgaudet5174,Alex Gaudet
-Apr 13,home,SUNY Adirondack,W,6-4,6,4,2,win,20230413_1r8o,3,0,1,,,,0,,,,,,,,1,0,,,,,3,2023,2022-23,div3,Cayuga,cayugacommunitycollege,alexgaudet5174,Alex Gaudet
-Apr 13,home,SUNY Adirondack,W,9-0,9,0,9,win,20230413_g0sj,3,1,2,1,,,3,,,1,1,,,,3,1,,,,,3,2023,2022-23,div3,Cayuga,cayugacommunitycollege,alexgaudet5174,Alex Gaudet
-Apr 15,home,SUNY Broome,W,9-7,9,7,2,win,20230415_uoe1,3,1,0,,,,0,1,,,,,,,0,0,,,,,4,2023,2022-23,div3,Cayuga,cayugacommunitycollege,alexgaudet5174,Alex Gaudet
-Apr 16,home,SUNY Broome,W,15-3,15,3,12,win,20230416_nkiv,2,1,1,,,,0,,,,,,,,1,0,,,,,2,2023,2022-23,div3,Cayuga,cayugacommunitycollege,alexgaudet5174,Alex Gaudet
-Apr 16,home,SUNY Broome,W,13-2,13,2,11,win,20230416_p72u,4,1,1,,,,0,,,,,,,,1,0,,,,,4,2023,2022-23,div3,Cayuga,cayugacommunitycollege,alexgaudet5174,Alex Gaudet
-Apr 20,home,Herkimer,W,7-3,7,3,4,win,20230420_qn9o,2,1,1,,,,0,1,1,,,1,,,1,0,,,,,4,2023,2022-23,div3,Cayuga,cayugacommunitycollege,alexgaudet5174,Alex Gaudet
-Apr 22,home,Herkimer,W,11-8,11,8,3,win,20230422_tyze,4,2,0,,,,1,,1,,,,,,0,0,,,,,4,2023,2022-23,div3,Cayuga,cayugacommunitycollege,alexgaudet5174,Alex Gaudet
-Apr 23,home,Hudson Valley,W,5-3,5,3,2,win,20230423_00jh,3,1,0,,,,0,,1,,,,,,0,0,,,,,3,2023,2022-23,div3,Cayuga,cayugacommunitycollege,alexgaudet5174,Alex Gaudet
-May 1,home,Jefferson (NY),W,16-6,16,6,10,win,20230501_5ikq,4,2,2,,,,2,1,,2,,,,,2,0,,,,,5,2023,2022-23,div3,Cayuga,cayugacommunitycollege,alexgaudet5174,Alex Gaudet
-May 1,home,Jefferson (NY),W,8-2,8,2,6,win,20230501_sg93,4,0,1,,,,0,,1,,,,,,1,0,,,,,4,2023,2022-23,div3,Cayuga,cayugacommunitycollege,alexgaudet5174,Alex Gaudet
-May 4,home,Corning,W,11-0,11,0,11,win,20230504_lu2k,3,0,1,,,,1,,,,1,,,,1,0,,,,,3,2023,2022-23,div3,Cayuga,cayugacommunitycollege,alexgaudet5174,Alex Gaudet
-May 4,home,Corning,W,17-7,17,7,10,win,20230504_8ex8,3,2,3,,1,,3,,,,,,1,,5,1,,,,,4,2023,2022-23,div3,Cayuga,cayugacommunitycollege,alexgaudet5174,Alex Gaudet
-May 7,home,Finger Lakes,W,5-4,5,4,1,win,20230507_c1ej,1,0,0,,,,0,2,,,,,,,0,0,,,,,3,2023,2022-23,div3,Cayuga,cayugacommunitycollege,alexgaudet5174,Alex Gaudet
-May 7,home,Finger Lakes,W,5-3,5,3,2,win,20230507_5w4b,2,0,1,,,,0,,1,,,,,,1,0,,,,,2,2023,2022-23,div3,Cayuga,cayugacommunitycollege,alexgaudet5174,Alex Gaudet
+Apr 11,home,NHTI,W,17-5,17,5,12,win,20230411_59cj,0,0,0,,,,0,,,,,,,,0,0,,,,,0,2023,2022-23,div3,Cayuga,cayugacommunitycollege,alexgaudet5174,Alex Gaudet

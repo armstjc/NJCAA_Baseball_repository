@@ -1,9 +1,31 @@
 date,location,opponent,result,score,team_score,opp_score,game_score_diff,game_win_loss,game_id,TC,PO,A,E,FPCT,DP,SBA,RCS,RCS_PCT,PB,CI,season,njcaa_season,njcaa_division,team,team_id,player_id,player_name
-Feb 19,home,Illinois Valley,W,18-3,18,3,15,win,20230219_q87d,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div3,Joliet,jolietjuniorcollege,marquissimszg54,Marquis Sims
-Feb 25,home,Olney Central,W,7-6,7,6,1,win,20230225_k6sj,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div3,Joliet,jolietjuniorcollege,marquissimszg54,Marquis Sims
-Mar 13,home,Austin College,L,10-8,10,8,2,win,20230313_6m04,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div3,Joliet,jolietjuniorcollege,marquissimszg54,Marquis Sims
-Mar 15,home,TCS Post Grad,L,17-14,17,14,3,win,20230315_me0v,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div3,Joliet,jolietjuniorcollege,marquissimszg54,Marquis Sims
-Mar 17,home,Minnesota Post Grad,W,4-2,4,2,2,win,20230317_w51h,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div3,Joliet,jolietjuniorcollege,marquissimszg54,Marquis Sims
-Mar 18,home,Paris,W,12-11,12,11,1,win,20230318_jvon,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div3,Joliet,jolietjuniorcollege,marquissimszg54,Marquis Sims
-Apr 11,home,North Central College,W,8-6,8,6,2,win,20230411_zr0q,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div3,Joliet,jolietjuniorcollege,marquissimszg54,Marquis Sims
-May 6,home,Prairie State,W,10-8,10,8,2,win,20230506_5ul0,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div3,Joliet,jolietjuniorcollege,marquissimszg54,Marquis Sims
+Mar 4,home,Hocking,L,3-1,3,1,2,win,20230304_5z33,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div3,Joliet,jolietjuniorcollege,marquissimszg54,Marquis Sims
+Mar 4,home,Hocking,L,7-4,7,4,3,win,20230304_g6i4,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div3,Joliet,jolietjuniorcollege,marquissimszg54,Marquis Sims
+Mar 6,home,Oberlin College JV,L,6-5,6,5,1,win,20230306_j0ri,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div3,Joliet,jolietjuniorcollege,marquissimszg54,Marquis Sims
+Mar 16,home,Cuyahoga,L,17-0,17,0,17,win,20230316_jpsp,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div3,Joliet,jolietjuniorcollege,marquissimszg54,Marquis Sims
+Mar 22,home,Indiana Tech,L,16-2,16,2,14,win,20230322_sigz,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div3,Joliet,jolietjuniorcollege,marquissimszg54,Marquis Sims
+Mar 25,home,Cuyahoga,L,27-4,27,4,23,win,20230325_9tb8,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div3,Joliet,jolietjuniorcollege,marquissimszg54,Marquis Sims
+Mar 25,home,Cuyahoga,L,17-10,17,10,7,win,20230325_7oj2,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div3,Joliet,jolietjuniorcollege,marquissimszg54,Marquis Sims
+Mar 29,home,Westmoreland,L,3-2,3,2,1,win,20230329_sw3m,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div3,Joliet,jolietjuniorcollege,marquissimszg54,Marquis Sims
+Mar 29,home,Westmoreland,W,6-5,6,5,1,win,20230329_srih,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div3,Joliet,jolietjuniorcollege,marquissimszg54,Marquis Sims
+Apr 2,home,Westmoreland,L,6-4,6,4,2,win,20230402_3q3r,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div3,Joliet,jolietjuniorcollege,marquissimszg54,Marquis Sims
+Apr 2,home,Westmoreland,W,8-7,8,7,1,win,20230402_exbi,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div3,Joliet,jolietjuniorcollege,marquissimszg54,Marquis Sims
+Apr 7,home,Lakeland,L,5-4,5,4,1,win,20230407_rq68,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div3,Joliet,jolietjuniorcollege,marquissimszg54,Marquis Sims
+Apr 7,home,Lakeland,L,12-0,12,0,12,win,20230407_0nvm,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div3,Joliet,jolietjuniorcollege,marquissimszg54,Marquis Sims
+Apr 8,home,Lakeland,L,8-2,8,2,6,win,20230408_hl0z,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div3,Joliet,jolietjuniorcollege,marquissimszg54,Marquis Sims
+Apr 8,home,Lakeland,L,11-0,11,0,11,win,20230408_0y3q,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div3,Joliet,jolietjuniorcollege,marquissimszg54,Marquis Sims
+Apr 10,home,Oberlin College JV,L,17-2,17,2,15,win,20230410_ry98,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div3,Joliet,jolietjuniorcollege,marquissimszg54,Marquis Sims
+Apr 12,home,Hocking,W,8-6,8,6,2,win,20230412_t20s,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div3,Joliet,jolietjuniorcollege,marquissimszg54,Marquis Sims
+Apr 12,home,Hocking,L,20-10,20,10,10,win,20230412_a6vn,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div3,Joliet,jolietjuniorcollege,marquissimszg54,Marquis Sims
+Apr 15,home,Owens,L,19-4,19,4,15,win,20230415_reoy,0,0,0,0,1.2,3,3,3,16.20,4,1,2023,2022-23,div3,Joliet,jolietjuniorcollege,marquissimszg54,Marquis Sims
+Apr 19,home,Butler County,W,16-3,16,3,13,win,20230419_0xv0,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div3,Joliet,jolietjuniorcollege,marquissimszg54,Marquis Sims
+Apr 19,home,Butler County,W,14-4,14,4,10,win,20230419_2y0o,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div3,Joliet,jolietjuniorcollege,marquissimszg54,Marquis Sims
+Apr 22,home,Terra State,L,11-1,11,1,10,win,20230422_rxua,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div3,Joliet,jolietjuniorcollege,marquissimszg54,Marquis Sims
+Apr 25,home,Schoolcraft,L,13-2,13,2,11,win,20230425_d807,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div3,Joliet,jolietjuniorcollege,marquissimszg54,Marquis Sims
+Apr 25,home,Schoolcraft,L,15-0,15,0,15,win,20230425_3mwe,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div3,Joliet,jolietjuniorcollege,marquissimszg54,Marquis Sims
+Apr 30,home,Kent State University (Club),W,8-4,8,4,4,win,20230430_evhp,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div3,Joliet,jolietjuniorcollege,marquissimszg54,Marquis Sims
+Apr 30,home,Kent State University (Club),L,11-1,11,1,10,win,20230430_31qv,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div3,Joliet,jolietjuniorcollege,marquissimszg54,Marquis Sims
+May 2,home,Delta,L,6-5,6,5,1,win,20230502_ojs8,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div3,Joliet,jolietjuniorcollege,marquissimszg54,Marquis Sims
+May 6,home,Terra State,T,3-3,3,3,0,tie,20230506_84c7,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div3,Joliet,jolietjuniorcollege,marquissimszg54,Marquis Sims
+May 10,home,Owens,L,13-5,13,5,8,win,20230510_iivo,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div3,Joliet,jolietjuniorcollege,marquissimszg54,Marquis Sims
+May 10,home,Terra State,L,11-3,11,3,8,win,20230510_ljw1,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div3,Joliet,jolietjuniorcollege,marquissimszg54,Marquis Sims
