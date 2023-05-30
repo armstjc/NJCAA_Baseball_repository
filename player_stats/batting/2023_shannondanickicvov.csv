@@ -1,4 +1,27 @@
 date,location,opponent,result,score,team_score,opp_score,game_score_diff,game_win_loss,game_id,AB,R,H,2B,3B,HR,RBI,BB,K,SB,CS,HBP,SF,SH,TB,XBH,HDP,GO,FO,GO/FO,PA,season,njcaa_season,njcaa_division,team,team_id,player_id,player_name
-Feb 11,home,Barton,W,10-5,10,5,5,win,20230211_qh3u,0,0,0,,,,0,,,,,,,,0,0,,,,,0,2023,2022-23,div1,Rose State,rosestatecollege,shannondanickicvov,Shannon Danicki
-Feb 25,home,Hutchinson,W,9-6,9,6,3,win,20230225_1w6q,0,0,0,,,,0,,,,,,,,0,0,,,,,0,2023,2022-23,div1,Rose State,rosestatecollege,shannondanickicvov,Shannon Danicki
-Mar 5,home,Northeastern Oklahoma A&M,W,22-21,22,21,1,win,20230305_0wlv,0,0,0,,,,0,,,,,,,,0,0,,,,,0,2023,2022-23,div1,Rose State,rosestatecollege,shannondanickicvov,Shannon Danicki
+Jan 29,home,North Central Texas,W,9-4,9,4,5,win,20230129_1iod,3,0,1,1,,,1,,,,,1,1,,2,1,,,,,5,2023,2022-23,div1,Rose State,rosestatecollege,shannondanickicvov,Shannon Danicki
+Jan 29,home,North Central Texas,W,11-5,11,5,6,win,20230129_x8ow,3,2,2,,,,1,,,,,1,,,2,0,,,,,4,2023,2022-23,div1,Rose State,rosestatecollege,shannondanickicvov,Shannon Danicki
+Feb 4,home,Carl Albert State,W,17-7,17,7,10,win,20230204_tsn4,3,3,2,2,,,1,1,,,,,,,4,2,,,,,4,2023,2022-23,div1,Rose State,rosestatecollege,shannondanickicvov,Shannon Danicki
+Feb 4,home,Carl Albert State,W,13-10,13,10,3,win,20230204_mh2p,5,3,3,1,,,2,1,1,1,,,,,4,1,,,,,6,2023,2022-23,div1,Rose State,rosestatecollege,shannondanickicvov,Shannon Danicki
+Feb 14,home,Redlands,W,17-6,17,6,11,win,20230214_b0h8,3,0,1,1,,,1,1,2,,,1,,,2,1,,,,,5,2023,2022-23,div1,Rose State,rosestatecollege,shannondanickicvov,Shannon Danicki
+Feb 14,home,Redlands,W,20-6,20,6,14,win,20230214_0ou4,4,4,3,1,,,4,1,,,,,,,4,1,,,,,5,2023,2022-23,div1,Rose State,rosestatecollege,shannondanickicvov,Shannon Danicki
+Feb 17,home,Butler,W,8-3,8,3,5,win,20230217_dtlq,3,1,2,,,,2,1,,,,,,,2,0,,1,,,4,2023,2022-23,div1,Rose State,rosestatecollege,shannondanickicvov,Shannon Danicki
+Feb 18,home,Colby,W,8-4,8,4,4,win,20230218_qaa3,4,1,0,,,,2,,1,1,,,,,0,0,,,,,4,2023,2022-23,div1,Rose State,rosestatecollege,shannondanickicvov,Shannon Danicki
+Feb 21,home,Redlands,W,10-0,10,0,10,win,20230221_8975,4,2,4,,,,2,,,2,,,,,4,0,,,,,4,2023,2022-23,div1,Rose State,rosestatecollege,shannondanickicvov,Shannon Danicki
+Feb 23,home,Hutchinson,W,13-7,13,7,6,win,20230223_ubrq,3,1,1,1,,,2,1,,,,,,,2,1,,,,,4,2023,2022-23,div1,Rose State,rosestatecollege,shannondanickicvov,Shannon Danicki
+Feb 25,home,Hutchinson,W,9-6,9,6,3,win,20230225_1w6q,4,3,1,,,,0,1,,,,,,,1,0,,,,,5,2023,2022-23,div1,Rose State,rosestatecollege,shannondanickicvov,Shannon Danicki
+Feb 28,home,Northern Oklahoma Tonkawa,W,9-0,9,0,9,win,20230228_68ht,4,2,2,1,,,2,1,,1,,1,,,3,1,,,,,6,2023,2022-23,div1,Rose State,rosestatecollege,shannondanickicvov,Shannon Danicki
+Mar 4,home,Northeastern Oklahoma A&M,W,12-3,12,3,9,win,20230304_5a7z,4,2,2,1,,,3,,1,1,,,,,3,1,,,,,4,2023,2022-23,div1,Rose State,rosestatecollege,shannondanickicvov,Shannon Danicki
+Mar 5,home,Northeastern Oklahoma A&M,W,22-21,22,21,1,win,20230305_0wlv,6,2,1,,,,2,,1,,,1,,,1,0,,,,,7,2023,2022-23,div1,Rose State,rosestatecollege,shannondanickicvov,Shannon Danicki
+Mar 22,home,Western Oklahoma State,W,16-15,16,15,1,win,20230322_vbzw,3,2,2,,,,2,3,,,,,,,2,0,,,,,6,2023,2022-23,div1,Rose State,rosestatecollege,shannondanickicvov,Shannon Danicki
+Mar 25,home,Eastern Oklahoma State,W,12-2,12,2,10,win,20230325_ziji,3,2,0,,,,1,2,,,,,,,0,0,,,,,5,2023,2022-23,div1,Rose State,rosestatecollege,shannondanickicvov,Shannon Danicki
+Apr 8,home,Northeastern Oklahoma A&M,W,11-1,11,1,10,win,20230408_hl2w,2,3,1,,,,0,3,,2,,,,,1,0,,,,,5,2023,2022-23,div1,Rose State,rosestatecollege,shannondanickicvov,Shannon Danicki
+Apr 17,home,Cowley,W,13-12,13,12,1,win,20230417_rccz,2,3,0,,,,1,3,,1,,,,,0,0,,,2,,5,2023,2022-23,div1,Rose State,rosestatecollege,shannondanickicvov,Shannon Danicki
+Apr 22,home,ASU Mountain Home,W,6-5,6,5,1,win,20230422_cfk0,2,0,0,,,,0,,,,,1,,,0,0,,,,,3,2023,2022-23,div1,Rose State,rosestatecollege,shannondanickicvov,Shannon Danicki
+Apr 22,home,ASU Mountain Home,W,13-1,13,1,12,win,20230422_fium,4,2,1,1,,,1,1,2,,,,,,2,1,,,,,5,2023,2022-23,div1,Rose State,rosestatecollege,shannondanickicvov,Shannon Danicki
+Apr 28,home,Eastern Oklahoma State,W,4-3,4,3,1,win,20230428_a93h,2,1,2,,,,1,2,,1,,,,,2,0,,,,,4,2023,2022-23,div1,Rose State,rosestatecollege,shannondanickicvov,Shannon Danicki
+Apr 29,home,Eastern Oklahoma State,W,6-4,6,4,2,win,20230429_ywkk,3,0,0,,,,0,,,,,,,1,0,0,,,,,4,2023,2022-23,div1,Rose State,rosestatecollege,shannondanickicvov,Shannon Danicki
+May 6,home,Seminole State (OK),W,20-0,20,0,20,win,20230506_xabe,4,2,2,1,,,3,1,,,,,,,3,1,,,,,5,2023,2022-23,div1,Rose State,rosestatecollege,shannondanickicvov,Shannon Danicki
+May 6,home,Seminole State (OK),W,12-11,12,11,1,win,20230506_w3ff,4,2,2,,,1,2,1,1,,,1,,,5,1,,,,,6,2023,2022-23,div1,Rose State,rosestatecollege,shannondanickicvov,Shannon Danicki
+May 11,home,Northeastern Oklahoma A&M,W,13-11,13,11,2,win,20230511_04dw,4,4,3,,,,1,1,,1,,,,,3,0,,,,,5,2023,2022-23,div1,Rose State,rosestatecollege,shannondanickicvov,Shannon Danicki
+May 12,home,Connors State,W,5-3,5,3,2,win,20230512_5fzb,3,1,0,,,,0,1,,1,,1,,,0,0,,,,,5,2023,2022-23,div1,Rose State,rosestatecollege,shannondanickicvov,Shannon Danicki

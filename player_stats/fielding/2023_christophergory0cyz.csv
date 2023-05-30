@@ -1,7 +1,32 @@
 date,location,opponent,result,score,team_score,opp_score,game_score_diff,game_win_loss,game_id,TC,PO,A,E,FPCT,DP,SBA,RCS,RCS_PCT,PB,CI,season,njcaa_season,njcaa_division,team,team_id,player_id,player_name
-Feb 4,home,Lawson State,L,9-5,9,5,4,win,20230204_mfe1,0,0,0,0,0.2,3,3,3,40.50,1,2,2023,2022-23,div1,Dyersburg State,dyersburgstatecommunitycollege,christophergory0cyz,Christopher Gory
-Feb 12,home,Northwest-Shoals Community College,W,7-0,7,0,7,win,20230212_hxl2,0,0,0,0,1.0,2,0,0,0.00,1,1,2023,2022-23,div1,Dyersburg State,dyersburgstatecommunitycollege,christophergory0cyz,Christopher Gory
-Feb 26,home,Lewis & Clark,W,8-5,8,5,3,win,20230226_jjnl,0,0,0,0,1.1,1,0,0,0.00,2,2,2023,2022-23,div1,Dyersburg State,dyersburgstatecommunitycollege,christophergory0cyz,Christopher Gory
-Mar 11,home,Columbia State,L,8-3,8,3,5,win,20230311_yhht,0,0,0,0,0.1,1,0,0,0.00,0,1,2023,2022-23,div1,Dyersburg State,dyersburgstatecommunitycollege,christophergory0cyz,Christopher Gory
-Mar 22,home,Freed Hardeman University,L,12-6,12,6,6,win,20230322_dd6l,0,0,1,0,0.2,3,5,5,67.50,2,0,2023,2022-23,div1,Dyersburg State,dyersburgstatecommunitycollege,christophergory0cyz,Christopher Gory
-Apr 11,home,John A. Logan,L,13-2,13,2,11,win,20230411_yqdo,0,0,0,0,0.2,0,0,0,0.00,1,1,2023,2022-23,div1,Dyersburg State,dyersburgstatecommunitycollege,christophergory0cyz,Christopher Gory
+Feb 4,home,Lawson State,L,9-5,9,5,4,win,20230204_mfe1,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Dyersburg State,dyersburgstatecommunitycollege,christophergory0cyz,Christopher Gory
+Feb 4,home,Lawson State,L,12-2,12,2,10,win,20230204_s1ks,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Dyersburg State,dyersburgstatecommunitycollege,christophergory0cyz,Christopher Gory
+Feb 5,home,Lawson State,W,10-3,10,3,7,win,20230205_kd0j,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Dyersburg State,dyersburgstatecommunitycollege,christophergory0cyz,Christopher Gory
+Feb 7,home,Coahoma,W,12-1,12,1,11,win,20230207_1g0j,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Dyersburg State,dyersburgstatecommunitycollege,christophergory0cyz,Christopher Gory
+Feb 15,home,Three Rivers,W,7-6,7,6,1,win,20230215_ccqv,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Dyersburg State,dyersburgstatecommunitycollege,christophergory0cyz,Christopher Gory
+Feb 18,home,Shelton State,L,9-0,9,0,9,win,20230218_hshb,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Dyersburg State,dyersburgstatecommunitycollege,christophergory0cyz,Christopher Gory
+Feb 19,home,Shelton State,W,6-5,6,5,1,win,20230219_t4s1,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Dyersburg State,dyersburgstatecommunitycollege,christophergory0cyz,Christopher Gory
+Feb 25,home,Kaskaskia,W,7-0,7,0,7,win,20230225_swoh,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Dyersburg State,dyersburgstatecommunitycollege,christophergory0cyz,Christopher Gory
+Feb 25,home,Northeastern Oklahoma A&M,W,9-1,9,1,8,win,20230225_v5am,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Dyersburg State,dyersburgstatecommunitycollege,christophergory0cyz,Christopher Gory
+Feb 26,home,Southeast,L,4-2,4,2,2,win,20230226_9xxp,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Dyersburg State,dyersburgstatecommunitycollege,christophergory0cyz,Christopher Gory
+Mar 1,home,Freed Hardeman University,W,9-3,9,3,6,win,20230301_nfst,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Dyersburg State,dyersburgstatecommunitycollege,christophergory0cyz,Christopher Gory
+Mar 4,home,Cleveland State,L,5-1,5,1,4,win,20230304_trx9,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Dyersburg State,dyersburgstatecommunitycollege,christophergory0cyz,Christopher Gory
+Mar 4,home,Cleveland State,W,3-0,3,0,3,win,20230304_vvhy,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Dyersburg State,dyersburgstatecommunitycollege,christophergory0cyz,Christopher Gory
+Mar 5,home,Cleveland State,W,6-3,6,3,3,win,20230305_egkq,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Dyersburg State,dyersburgstatecommunitycollege,christophergory0cyz,Christopher Gory
+Mar 18,home,Southwest Tennessee,L,5-0,5,0,5,win,20230318_2hd3,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Dyersburg State,dyersburgstatecommunitycollege,christophergory0cyz,Christopher Gory
+Mar 22,home,Freed Hardeman University,W,5-4,5,4,1,win,20230322_w4re,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Dyersburg State,dyersburgstatecommunitycollege,christophergory0cyz,Christopher Gory
+Mar 22,home,Freed Hardeman University,L,12-6,12,6,6,win,20230322_dd6l,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Dyersburg State,dyersburgstatecommunitycollege,christophergory0cyz,Christopher Gory
+Mar 25,home,Volunteer State,W,5-1,5,1,4,win,20230325_f8lp,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Dyersburg State,dyersburgstatecommunitycollege,christophergory0cyz,Christopher Gory
+Apr 2,home,Jackson State,W,13-3,13,3,10,win,20230402_yzc1,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Dyersburg State,dyersburgstatecommunitycollege,christophergory0cyz,Christopher Gory
+Apr 3,home,Jackson State,L,16-4,16,4,12,win,20230403_rzzm,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Dyersburg State,dyersburgstatecommunitycollege,christophergory0cyz,Christopher Gory
+Apr 10,home,Motlow State,W,4-2,4,2,2,win,20230410_vfc3,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Dyersburg State,dyersburgstatecommunitycollege,christophergory0cyz,Christopher Gory
+Apr 10,home,Motlow State,L,2-1,2,1,1,win,20230410_2ajc,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Dyersburg State,dyersburgstatecommunitycollege,christophergory0cyz,Christopher Gory
+Apr 11,home,John A. Logan,L,13-2,13,2,11,win,20230411_yqdo,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Dyersburg State,dyersburgstatecommunitycollege,christophergory0cyz,Christopher Gory
+Apr 14,home,Roane State,W,9-0,9,0,9,win,20230414_jhf4,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Dyersburg State,dyersburgstatecommunitycollege,christophergory0cyz,Christopher Gory
+Apr 15,home,Roane State,W,5-0,5,0,5,win,20230415_lmua,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Dyersburg State,dyersburgstatecommunitycollege,christophergory0cyz,Christopher Gory
+Apr 15,home,Roane State,W,12-0,12,0,12,win,20230415_js5l,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Dyersburg State,dyersburgstatecommunitycollege,christophergory0cyz,Christopher Gory
+Apr 23,home,Walters State,W,3-2,3,2,1,win,20230423_wna6,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Dyersburg State,dyersburgstatecommunitycollege,christophergory0cyz,Christopher Gory
+Apr 23,home,Walters State,W,8-4,8,4,4,win,20230423_0bk8,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Dyersburg State,dyersburgstatecommunitycollege,christophergory0cyz,Christopher Gory
+Apr 29,home,Chattanooga State,L,10-8,10,8,2,win,20230429_mi5b,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Dyersburg State,dyersburgstatecommunitycollege,christophergory0cyz,Christopher Gory
+May 10,home,Walters State,L,6-4,6,4,2,win,20230510_jums,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Dyersburg State,dyersburgstatecommunitycollege,christophergory0cyz,Christopher Gory
+May 11,home,Volunteer State,L,9-6,9,6,3,win,20230511_vuis,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Dyersburg State,dyersburgstatecommunitycollege,christophergory0cyz,Christopher Gory

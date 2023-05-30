@@ -1,13 +1,29 @@
 date,location,opponent,result,score,team_score,opp_score,game_score_diff,game_win_loss,game_id,TC,PO,A,E,FPCT,DP,SBA,RCS,RCS_PCT,PB,CI,season,njcaa_season,njcaa_division,team,team_id,player_id,player_name
-Jan 27,home,Temple,L,8-0,8,0,8,win,20230127_2yoa,1,0,1,0,2.0,3,5,3,13.50,5,1,2023,2022-23,div1,Angelina,angelinacollege,matthewtippiev0t8,Matthew Tippie
-Feb 5,home,Galveston,L,9-7,9,7,2,win,20230205_jm2l,1,0,1,0,3.0,4,6,3,9.00,1,5,2023,2022-23,div1,Angelina,angelinacollege,matthewtippiev0t8,Matthew Tippie
-Feb 11,home,TCS Post Grad,W,7-3,7,3,4,win,20230211_ko3u,1,1,0,0,4.0,2,0,0,0.00,2,4,2023,2022-23,div1,Angelina,angelinacollege,matthewtippiev0t8,Matthew Tippie
-Feb 15,home,Spartan Post Grad,W,13-2,13,2,11,win,20230215_ofsd,1,0,0,0,1.0,1,0,0,0.00,0,0,2023,2022-23,div1,Angelina,angelinacollege,matthewtippiev0t8,Matthew Tippie
-Feb 18,home,Paris,L,5-2,5,2,3,win,20230218_z525,1,0,1,0,5.1,4,4,1,1.69,3,8,2023,2022-23,div1,Angelina,angelinacollege,matthewtippiev0t8,Matthew Tippie
-Feb 25,home,Bossier Parish,W,4-3,4,3,1,win,20230225_d4t8,1,1,0,0,6.0,4,2,1,1.50,3,6,2023,2022-23,div1,Angelina,angelinacollege,matthewtippiev0t8,Matthew Tippie
-Mar 4,home,Panola,L,11-0,11,0,11,win,20230304_tkwj,1,0,1,0,4.2,8,9,4,7.71,1,3,2023,2022-23,div1,Angelina,angelinacollege,matthewtippiev0t8,Matthew Tippie
-Mar 11,home,Joliet,W,10-5,10,5,5,win,20230311_mf2s,1,1,0,0,5.0,2,2,2,3.60,5,7,2023,2022-23,div1,Angelina,angelinacollege,matthewtippiev0t8,Matthew Tippie
-Mar 15,home,Paris,L,4-3,4,3,1,win,20230315_bufq,0,0,0,0,0.2,1,,,0.00,,,2023,2022-23,div1,Angelina,angelinacollege,matthewtippiev0t8,Matthew Tippie
-Mar 18,home,Navarro,W,9-6,9,6,3,win,20230318_ndc7,1,0,0,0,3.0,6,6,6,18.00,2,4,2023,2022-23,div1,Angelina,angelinacollege,matthewtippiev0t8,Matthew Tippie
-Apr 15,home,Bossier Parish,W,6-4,6,4,2,win,20230415_s1bh,1,0,0,0,4.1,5,3,1,2.08,1,1,2023,2022-23,div1,Angelina,angelinacollege,matthewtippiev0t8,Matthew Tippie
-Apr 22,home,Panola,L,4-1,4,1,3,win,20230422_yelr,1,0,1,0,4.0,5,4,4,9.00,3,3,2023,2022-23,div1,Angelina,angelinacollege,matthewtippiev0t8,Matthew Tippie
+Jan 27,home,Temple,L,8-0,8,0,8,win,20230127_2yoa,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Angelina,angelinacollege,matthewtippiev0t8,Matthew Tippie
+Feb 3,home,Galveston,L,3-1,3,1,2,win,20230203_dwqk,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Angelina,angelinacollege,matthewtippiev0t8,Matthew Tippie
+Feb 5,home,Galveston,L,9-7,9,7,2,win,20230205_jm2l,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Angelina,angelinacollege,matthewtippiev0t8,Matthew Tippie
+Feb 9,home,Temple,W,9-8,9,8,1,win,20230209_17wu,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Angelina,angelinacollege,matthewtippiev0t8,Matthew Tippie
+Feb 11,home,TCS Post Grad,W,7-3,7,3,4,win,20230211_ko3u,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Angelina,angelinacollege,matthewtippiev0t8,Matthew Tippie
+Feb 15,home,Spartan Post Grad,W,13-2,13,2,11,win,20230215_ofsd,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Angelina,angelinacollege,matthewtippiev0t8,Matthew Tippie
+Feb 18,home,Paris,L,5-2,5,2,3,win,20230218_z525,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Angelina,angelinacollege,matthewtippiev0t8,Matthew Tippie
+Feb 18,home,Paris,L,9-0,9,0,9,win,20230218_kipa,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Angelina,angelinacollege,matthewtippiev0t8,Matthew Tippie
+Feb 23,home,Navarro,L,9-3,9,3,6,win,20230223_dslr,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Angelina,angelinacollege,matthewtippiev0t8,Matthew Tippie
+Feb 23,home,Navarro,L,9-6,9,6,3,win,20230223_f9la,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Angelina,angelinacollege,matthewtippiev0t8,Matthew Tippie
+Feb 25,home,Bossier Parish,W,4-3,4,3,1,win,20230225_d4t8,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Angelina,angelinacollege,matthewtippiev0t8,Matthew Tippie
+Feb 25,home,Bossier Parish,W,13-3,13,3,10,win,20230225_te2r,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Angelina,angelinacollege,matthewtippiev0t8,Matthew Tippie
+Mar 1,home,Tyler,W,7-4,7,4,3,win,20230301_nb9z,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Angelina,angelinacollege,matthewtippiev0t8,Matthew Tippie
+Mar 1,home,Tyler,L,7-4,7,4,3,win,20230301_3g90,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Angelina,angelinacollege,matthewtippiev0t8,Matthew Tippie
+Mar 4,home,Panola,L,11-0,11,0,11,win,20230304_tkwj,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Angelina,angelinacollege,matthewtippiev0t8,Matthew Tippie
+Mar 4,home,Panola,L,6-5,6,5,1,win,20230304_ouwh,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Angelina,angelinacollege,matthewtippiev0t8,Matthew Tippie
+Mar 8,home,Northeast Texas,L,6-2,6,2,4,win,20230308_e3ta,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Angelina,angelinacollege,matthewtippiev0t8,Matthew Tippie
+Mar 8,home,Northeast Texas,W,8-1,8,1,7,win,20230308_hsbd,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Angelina,angelinacollege,matthewtippiev0t8,Matthew Tippie
+Mar 11,home,Joliet,W,10-5,10,5,5,win,20230311_mf2s,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Angelina,angelinacollege,matthewtippiev0t8,Matthew Tippie
+Mar 13,home,Alvin,L,8-3,8,3,5,win,20230313_kau1,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Angelina,angelinacollege,matthewtippiev0t8,Matthew Tippie
+Mar 15,home,Paris,W,3-2,3,2,1,win,20230315_du81,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Angelina,angelinacollege,matthewtippiev0t8,Matthew Tippie
+Mar 15,home,Paris,L,4-3,4,3,1,win,20230315_bufq,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Angelina,angelinacollege,matthewtippiev0t8,Matthew Tippie
+Mar 18,home,Navarro,W,9-6,9,6,3,win,20230318_ndc7,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Angelina,angelinacollege,matthewtippiev0t8,Matthew Tippie
+Mar 18,home,Navarro,W,4-3,4,3,1,win,20230318_n61j,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Angelina,angelinacollege,matthewtippiev0t8,Matthew Tippie
+Mar 22,home,Bossier Parish,W,11-10,11,10,1,win,20230322_oz4f,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Angelina,angelinacollege,matthewtippiev0t8,Matthew Tippie
+Mar 22,home,Bossier Parish,W,19-18,19,18,1,win,20230322_su9h,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Angelina,angelinacollege,matthewtippiev0t8,Matthew Tippie
+Apr 19,home,Tyler,W,3-2,3,2,1,win,20230419_3iy5,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Angelina,angelinacollege,matthewtippiev0t8,Matthew Tippie
+Apr 22,home,Panola,L,4-1,4,1,3,win,20230422_yelr,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Angelina,angelinacollege,matthewtippiev0t8,Matthew Tippie
