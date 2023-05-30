@@ -1,32 +1,4 @@
 date,location,opponent,result,score,team_score,opp_score,game_score_diff,game_win_loss,game_id,TC,PO,A,E,FPCT,DP,SBA,RCS,RCS_PCT,PB,CI,season,njcaa_season,njcaa_division,team,team_id,player_id,player_name
-Feb 1,home,Bryan College,W,4-0,4,0,4,win,20230201_cxm9,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Georgia Highlands,georgiahighlandscollege,barretteldridge28yb,Barrett Eldridge
-Feb 1,home,Bryan College,W,14-3,14,3,11,win,20230201_xmtc,0,0,0,0,1.0,,,,0.00,,2,2023,2022-23,div1,Georgia Highlands,georgiahighlandscollege,barretteldridge28yb,Barrett Eldridge
-Feb 3,home,Coastal Alabama - Brewton,W,13-3,13,3,10,win,20230203_w2l6,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Georgia Highlands,georgiahighlandscollege,barretteldridge28yb,Barrett Eldridge
-Feb 4,home,Coastal Alabama - Brewton,W,16-0,16,0,16,win,20230204_mlmr,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Georgia Highlands,georgiahighlandscollege,barretteldridge28yb,Barrett Eldridge
-Feb 4,home,Coastal Alabama - Brewton,W,17-8,17,8,9,win,20230204_892k,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Georgia Highlands,georgiahighlandscollege,barretteldridge28yb,Barrett Eldridge
-Feb 10,home,Lincoln Trail,L,4-3,4,3,1,win,20230210_dzna,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Georgia Highlands,georgiahighlandscollege,barretteldridge28yb,Barrett Eldridge
-Feb 10,home,Lincoln Trail,W,4-0,4,0,4,win,20230210_kssf,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Georgia Highlands,georgiahighlandscollege,barretteldridge28yb,Barrett Eldridge
-Feb 13,home,Point University,W,10-0,10,0,10,win,20230213_hu4q,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Georgia Highlands,georgiahighlandscollege,barretteldridge28yb,Barrett Eldridge
-Feb 14,home,Cleveland State,W,16-6,16,6,10,win,20230214_a7j9,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Georgia Highlands,georgiahighlandscollege,barretteldridge28yb,Barrett Eldridge
-Feb 18,home,Wabash Valley,L,4-3,4,3,1,win,20230218_dvas,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Georgia Highlands,georgiahighlandscollege,barretteldridge28yb,Barrett Eldridge
-Feb 28,home,Chattahoochee Valley,W,9-1,9,1,8,win,20230228_eqvy,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Georgia Highlands,georgiahighlandscollege,barretteldridge28yb,Barrett Eldridge
-Mar 4,home,USC Salkehatchie,W,24-16,24,16,8,win,20230304_8r37,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Georgia Highlands,georgiahighlandscollege,barretteldridge28yb,Barrett Eldridge
-Mar 7,home,Roane State,L,12-2,12,2,10,win,20230307_gu7j,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Georgia Highlands,georgiahighlandscollege,barretteldridge28yb,Barrett Eldridge
-Mar 7,home,Roane State,W,11-6,11,6,5,win,20230307_i6g5,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Georgia Highlands,georgiahighlandscollege,barretteldridge28yb,Barrett Eldridge
-Mar 10,home,Macomb,W,13-1,13,1,12,win,20230310_v94g,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Georgia Highlands,georgiahighlandscollege,barretteldridge28yb,Barrett Eldridge
-Mar 11,home,Macomb,W,9-0,9,0,9,win,20230311_y3xy,0,0,0,0,1.0,,,,0.00,,1,2023,2022-23,div1,Georgia Highlands,georgiahighlandscollege,barretteldridge28yb,Barrett Eldridge
-Mar 11,home,Macomb,W,7-5,7,5,2,win,20230311_g3xz,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Georgia Highlands,georgiahighlandscollege,barretteldridge28yb,Barrett Eldridge
-Mar 14,home,Roane State,L,13-1,13,1,12,win,20230314_x7nf,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Georgia Highlands,georgiahighlandscollege,barretteldridge28yb,Barrett Eldridge
-Mar 14,home,Roane State,L,11-10,11,10,1,win,20230314_rzcf,0,0,0,0,0.2,2,1,1,13.50,1,0,2023,2022-23,div1,Georgia Highlands,georgiahighlandscollege,barretteldridge28yb,Barrett Eldridge
-Mar 21,home,Abraham Baldwin,W,4-3,4,3,1,win,20230321_kp1b,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Georgia Highlands,georgiahighlandscollege,barretteldridge28yb,Barrett Eldridge
-Mar 24,home,Abraham Baldwin,W,16-0,16,0,16,win,20230324_d5st,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Georgia Highlands,georgiahighlandscollege,barretteldridge28yb,Barrett Eldridge
-Mar 29,home,East Georgia State,L,2-1,2,1,1,win,20230329_m3nd,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Georgia Highlands,georgiahighlandscollege,barretteldridge28yb,Barrett Eldridge
-Apr 1,home,East Georgia State,W,2-1,2,1,1,win,20230401_fsxn,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Georgia Highlands,georgiahighlandscollege,barretteldridge28yb,Barrett Eldridge
-Apr 1,home,East Georgia State,W,6-1,6,1,5,win,20230401_kn66,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Georgia Highlands,georgiahighlandscollege,barretteldridge28yb,Barrett Eldridge
-Apr 4,home,Gordon State,L,14-2,14,2,12,win,20230404_vok1,0,0,0,0,1.0,2,1,1,9.00,1,,2023,2022-23,div1,Georgia Highlands,georgiahighlandscollege,barretteldridge28yb,Barrett Eldridge
-Apr 6,home,Gordon State,L,11-10,11,10,1,win,20230406_w8hp,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Georgia Highlands,georgiahighlandscollege,barretteldridge28yb,Barrett Eldridge
-Apr 7,home,Gordon State,L,8-4,8,4,4,win,20230407_3a35,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Georgia Highlands,georgiahighlandscollege,barretteldridge28yb,Barrett Eldridge
-Apr 15,home,South Georgia State,L,2-0,2,0,2,win,20230415_2aca,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Georgia Highlands,georgiahighlandscollege,barretteldridge28yb,Barrett Eldridge
-Apr 18,home,Andrew,W,10-8,10,8,2,win,20230418_ddf1,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Georgia Highlands,georgiahighlandscollege,barretteldridge28yb,Barrett Eldridge
-Apr 29,home,Gordon State,W,14-4,14,4,10,win,20230429_01w9,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Georgia Highlands,georgiahighlandscollege,barretteldridge28yb,Barrett Eldridge
-May 2,home,South Georgia State,W,6-5,6,5,1,win,20230502_4thx,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Georgia Highlands,georgiahighlandscollege,barretteldridge28yb,Barrett Eldridge
+Feb 1,home,Bryan College,W,4-0,4,0,4,win,20230201_cxm9,0,0,0,0,2.0,1,,,0.00,,2,2023,2022-23,div1,Georgia Highlands,georgiahighlandscollege,barretteldridge28yb,Barrett Eldridge
+Feb 13,home,Point University,W,13-9,13,9,4,win,20230213_kgim,0,0,0,0,1.0,,4,3,27.00,2,2,2023,2022-23,div1,Georgia Highlands,georgiahighlandscollege,barretteldridge28yb,Barrett Eldridge
+Mar 11,home,Macomb,W,7-5,7,5,2,win,20230311_g3xz,0,0,0,0,1.0,,,,0.00,1,,2023,2022-23,div1,Georgia Highlands,georgiahighlandscollege,barretteldridge28yb,Barrett Eldridge

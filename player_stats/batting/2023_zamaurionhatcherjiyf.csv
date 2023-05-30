@@ -1,38 +1,37 @@
 date,location,opponent,result,score,team_score,opp_score,game_score_diff,game_win_loss,game_id,AB,R,H,2B,3B,HR,RBI,BB,K,SB,CS,HBP,SF,SH,TB,XBH,HDP,GO,FO,GO/FO,PA,season,njcaa_season,njcaa_division,team,team_id,player_id,player_name
-Feb 10,home,Galveston,W,11-3,11,3,8,win,20230210_31g7,3,1,0,,,,1,,2,1,,1,,,0,0,,,,,4,2023,2022-23,div1,Wabash Valley,wabashvalleycollege,zamaurionhatcherjiyf,Zamaurion Hatcher
-Feb 18,home,Georgia Highlands,W,4-3,4,3,1,win,20230218_dvas,0,0,0,,,,0,1,,,,,,,0,0,,,,,1,2023,2022-23,div1,Wabash Valley,wabashvalleycollege,zamaurionhatcherjiyf,Zamaurion Hatcher
-Feb 18,home,Georgia Highlands,W,7-4,7,4,3,win,20230218_lwq6,0,0,0,,,,0,,,,,,,,0,0,,,,,0,2023,2022-23,div1,Wabash Valley,wabashvalleycollege,zamaurionhatcherjiyf,Zamaurion Hatcher
-Feb 19,home,Georgia Highlands,W,16-7,16,7,9,win,20230219_iok5,0,1,0,,,,0,2,,,,,,,0,0,,,,,2,2023,2022-23,div1,Wabash Valley,wabashvalleycollege,zamaurionhatcherjiyf,Zamaurion Hatcher
-Feb 24,home,Southwest Tennessee,W,15-1,15,1,14,win,20230224_olj6,0,1,0,,,,0,,,,,,,,0,0,,,,,0,2023,2022-23,div1,Wabash Valley,wabashvalleycollege,zamaurionhatcherjiyf,Zamaurion Hatcher
-Feb 25,home,Carl Albert State,W,25-10,25,10,15,win,20230225_kxhq,1,1,0,,,,0,,1,,,,,,0,0,,,,,1,2023,2022-23,div1,Wabash Valley,wabashvalleycollege,zamaurionhatcherjiyf,Zamaurion Hatcher
-Mar 1,home,Oakland CIty University,W,9-4,9,4,5,win,20230301_99p9,2,0,1,,,,2,,,,,,,,1,0,,,,,2,2023,2022-23,div1,Wabash Valley,wabashvalleycollege,zamaurionhatcherjiyf,Zamaurion Hatcher
-Mar 4,home,Lincoln Trail,W,6-0,6,0,6,win,20230304_jkxo,2,0,0,,,,0,1,,,,1,,,0,0,,,,,4,2023,2022-23,div1,Wabash Valley,wabashvalleycollege,zamaurionhatcherjiyf,Zamaurion Hatcher
-Mar 5,home,Kellogg,W,2-1,2,1,1,win,20230305_ggdm,1,0,0,,,,0,,1,,,,,,0,0,,,,,1,2023,2022-23,div1,Wabash Valley,wabashvalleycollege,zamaurionhatcherjiyf,Zamaurion Hatcher
-Mar 9,home,Frontier,W,9-4,9,4,5,win,20230309_47xj,0,0,0,,,,0,1,,,,,,,0,0,,,,,1,2023,2022-23,div1,Wabash Valley,wabashvalleycollege,zamaurionhatcherjiyf,Zamaurion Hatcher
-Mar 11,home,Frontier,W,10-6,10,6,4,win,20230311_cfx7,1,0,0,,,,0,,,,,,,,0,0,,,,,1,2023,2022-23,div1,Wabash Valley,wabashvalleycollege,zamaurionhatcherjiyf,Zamaurion Hatcher
-Mar 16,home,Lincoln Trail,W,14-2,14,2,12,win,20230316_jb88,1,0,0,,,,0,,1,,,,,,0,0,,,,,1,2023,2022-23,div1,Wabash Valley,wabashvalleycollege,zamaurionhatcherjiyf,Zamaurion Hatcher
-Mar 20,home,Lincoln Trail,W,7-6,7,6,1,win,20230320_q6w3,2,1,2,1,,,0,,,,,,,,3,1,,,,,2,2023,2022-23,div1,Wabash Valley,wabashvalleycollege,zamaurionhatcherjiyf,Zamaurion Hatcher
-Mar 26,home,John A. Logan,W,5-4,5,4,1,win,20230326_hspl,2,0,0,,,,0,,1,,,1,,,0,0,,,,,3,2023,2022-23,div1,Wabash Valley,wabashvalleycollege,zamaurionhatcherjiyf,Zamaurion Hatcher
-Apr 10,home,Oakland CIty University,W,11-9,11,9,2,win,20230410_qxki,0,1,0,,,,0,,,,,1,,,0,0,,,,,1,2023,2022-23,div1,Wabash Valley,wabashvalleycollege,zamaurionhatcherjiyf,Zamaurion Hatcher
-Apr 11,home,Columbia State,W,15-5,15,5,10,win,20230411_p5vg,0,2,0,,,,0,1,,2,,,,,0,0,,,,,1,2023,2022-23,div1,Wabash Valley,wabashvalleycollege,zamaurionhatcherjiyf,Zamaurion Hatcher
-Apr 13,home,Kaskaskia,W,20-10,20,10,10,win,20230413_bx8f,2,2,2,,,1,3,,,,,1,,,5,1,,,,,3,2023,2022-23,div1,Wabash Valley,wabashvalleycollege,zamaurionhatcherjiyf,Zamaurion Hatcher
-Apr 14,home,Kaskaskia,W,19-2,19,2,17,win,20230414_rxu9,3,3,1,1,,,3,1,1,,,1,,,2,1,,,,,5,2023,2022-23,div1,Wabash Valley,wabashvalleycollege,zamaurionhatcherjiyf,Zamaurion Hatcher
-Apr 14,home,Kaskaskia,W,7-2,7,2,5,win,20230414_jrpv,4,1,1,,,,0,,2,1,,,,,1,0,,,,,4,2023,2022-23,div1,Wabash Valley,wabashvalleycollege,zamaurionhatcherjiyf,Zamaurion Hatcher
-Apr 18,home,Lindsey Wilson College,W,27-0,27,0,27,win,20230418_9ph8,3,0,1,,,,0,,1,,,,,,1,0,,,,,3,2023,2022-23,div1,Wabash Valley,wabashvalleycollege,zamaurionhatcherjiyf,Zamaurion Hatcher
-Apr 23,home,Rend Lake,W,9-5,9,5,4,win,20230423_wkuy,1,1,0,,,,0,,1,,,,,,0,0,,,,,1,2023,2022-23,div1,Wabash Valley,wabashvalleycollege,zamaurionhatcherjiyf,Zamaurion Hatcher
-Apr 23,home,Rend Lake,W,4-1,4,1,3,win,20230423_ws7g,0,0,0,,,,1,1,,,,,,,0,0,,,,,1,2023,2022-23,div1,Wabash Valley,wabashvalleycollege,zamaurionhatcherjiyf,Zamaurion Hatcher
-Apr 25,home,Volunteer State,W,12-6,12,6,6,win,20230425_66yg,1,0,0,,,,0,,,,,,,,0,0,,,,,1,2023,2022-23,div1,Wabash Valley,wabashvalleycollege,zamaurionhatcherjiyf,Zamaurion Hatcher
-Apr 28,home,Southeastern Illinois,W,11-1,11,1,10,win,20230428_i4mv,0,0,0,,,,0,,,,,,,,0,0,,,,,0,2023,2022-23,div1,Wabash Valley,wabashvalleycollege,zamaurionhatcherjiyf,Zamaurion Hatcher
-Apr 29,home,Southeastern Illinois,W,15-1,15,1,14,win,20230429_90wh,2,0,0,,,,0,,1,,,,,,0,0,,,,,2,2023,2022-23,div1,Wabash Valley,wabashvalleycollege,zamaurionhatcherjiyf,Zamaurion Hatcher
-Apr 29,home,Southeastern Illinois,W,7-5,7,5,2,win,20230429_qdmg,1,1,1,,,1,1,,,,,,,,4,1,,,,,1,2023,2022-23,div1,Wabash Valley,wabashvalleycollege,zamaurionhatcherjiyf,Zamaurion Hatcher
-May 1,home,Olney Central,W,20-2,20,2,18,win,20230501_xemy,2,1,1,,,,3,1,,,,1,,,1,0,,,,,4,2023,2022-23,div1,Wabash Valley,wabashvalleycollege,zamaurionhatcherjiyf,Zamaurion Hatcher
-May 6,home,Southwestern Illinois,W,8-7,8,7,1,win,20230506_0d6u,4,2,1,,,1,2,1,1,,,,,,4,1,,,,,5,2023,2022-23,div1,Wabash Valley,wabashvalleycollege,zamaurionhatcherjiyf,Zamaurion Hatcher
-May 6,home,Southwestern Illinois,W,21-5,21,5,16,win,20230506_ei2f,3,1,1,1,,,1,,,,,1,,,2,1,,,,,4,2023,2022-23,div1,Wabash Valley,wabashvalleycollege,zamaurionhatcherjiyf,Zamaurion Hatcher
-May 11,home,Frontier,W,12-3,12,3,9,win,20230511_g5ct,3,1,3,,,,0,1,,1,,,,,3,0,,,,,4,2023,2022-23,div1,Wabash Valley,wabashvalleycollege,zamaurionhatcherjiyf,Zamaurion Hatcher
-May 12,home,Lincoln Trail,W,13-3,13,3,10,win,20230512_1ssn,4,2,2,,,1,5,,,,,,,,5,1,,,,,4,2023,2022-23,div1,Wabash Valley,wabashvalleycollege,zamaurionhatcherjiyf,Zamaurion Hatcher
-May 13,home,Lake Land,W,4-3,4,3,1,win,20230513_nzai,3,0,0,,,,0,1,1,,,,,,0,0,,,,,4,2023,2022-23,div1,Wabash Valley,wabashvalleycollege,zamaurionhatcherjiyf,Zamaurion Hatcher
-May 13,home,Lake Land,W,11-8,11,8,3,win,20230513_azaz,4,1,1,,,,0,1,2,,,,,,1,0,,,,,5,2023,2022-23,div1,Wabash Valley,wabashvalleycollege,zamaurionhatcherjiyf,Zamaurion Hatcher
-May 17,home,John A. Logan,W,5-2,5,2,3,win,20230517_k0oa,3,1,2,1,,,1,1,,,,,,1,3,1,,2,,,5,2023,2022-23,div1,Wabash Valley,wabashvalleycollege,zamaurionhatcherjiyf,Zamaurion Hatcher
-May 18,home,South Suburban,W,3-2,3,2,1,win,20230518_8so2,2,1,1,,,,1,,1,,,,,2,1,0,,2,,,4,2023,2022-23,div1,Wabash Valley,wabashvalleycollege,zamaurionhatcherjiyf,Zamaurion Hatcher
-May 19,home,South Suburban,W,15-1,15,1,14,win,20230519_7x53,4,1,1,1,,,1,1,,,,,,,2,1,,3,,,5,2023,2022-23,div1,Wabash Valley,wabashvalleycollege,zamaurionhatcherjiyf,Zamaurion Hatcher
-May 27,home,Salt Lake,W,9-8,9,8,1,win,20230527_rief,5,1,1,,,,1,,3,1,,,,,1,0,,1,,,5,2023,2022-23,div1,Wabash Valley,wabashvalleycollege,zamaurionhatcherjiyf,Zamaurion Hatcher
+Feb 3,home,Northwest Florida State,W,2-1,2,1,1,win,20230203_jflz,3,0,0,0,0,0,1,0,2,0,0,0,0,0,0,0,,0,,,3,2023,2022-23,div1,Wabash Valley,wabashvalleycollege,zamaurionhatcherjiyf,Zamaurion Hatcher
+Feb 11,home,Baton Rouge,W,8-3,8,3,5,win,20230211_egku,2,1,1,,,,1,1,,,,,,,1,0,,,,,3,2023,2022-23,div1,Wabash Valley,wabashvalleycollege,zamaurionhatcherjiyf,Zamaurion Hatcher
+Feb 19,home,Georgia Highlands,W,16-7,16,7,9,win,20230219_iok5,0,0,0,,,,0,,,,,,,,0,0,,,,,0,2023,2022-23,div1,Wabash Valley,wabashvalleycollege,zamaurionhatcherjiyf,Zamaurion Hatcher
+Feb 21,home,Vincennes,W,8-2,8,2,6,win,20230221_js4y,1,0,0,,,,0,,,,,,,,0,0,,,,,1,2023,2022-23,div1,Wabash Valley,wabashvalleycollege,zamaurionhatcherjiyf,Zamaurion Hatcher
+Feb 25,home,Carl Albert State,W,25-10,25,10,15,win,20230225_kxhq,0,1,0,,,,0,1,,,,,,,0,0,,,,,1,2023,2022-23,div1,Wabash Valley,wabashvalleycollege,zamaurionhatcherjiyf,Zamaurion Hatcher
+Mar 1,home,Oakland CIty University,W,9-4,9,4,5,win,20230301_99p9,1,0,0,,,,0,,,,,,,,0,0,,,,,1,2023,2022-23,div1,Wabash Valley,wabashvalleycollege,zamaurionhatcherjiyf,Zamaurion Hatcher
+Mar 4,home,Lincoln Trail,W,6-0,6,0,6,win,20230304_jkxo,0,0,0,,,,0,,,,,,,,0,0,,,,,0,2023,2022-23,div1,Wabash Valley,wabashvalleycollege,zamaurionhatcherjiyf,Zamaurion Hatcher
+Mar 5,home,Kellogg,W,2-1,2,1,1,win,20230305_ggdm,0,0,0,,,,0,1,,,,,,,0,0,,,,,1,2023,2022-23,div1,Wabash Valley,wabashvalleycollege,zamaurionhatcherjiyf,Zamaurion Hatcher
+Mar 5,home,Vincennes,W,16-5,16,5,11,win,20230305_m2hc,3,2,1,,,,2,,,,,1,,,1,0,,,,,4,2023,2022-23,div1,Wabash Valley,wabashvalleycollege,zamaurionhatcherjiyf,Zamaurion Hatcher
+Mar 9,home,Frontier,W,9-4,9,4,5,win,20230309_47xj,1,0,0,,,,0,,,,,,,,0,0,,,,,1,2023,2022-23,div1,Wabash Valley,wabashvalleycollege,zamaurionhatcherjiyf,Zamaurion Hatcher
+Mar 14,home,Columbia State,W,11-5,11,5,6,win,20230314_ps2v,0,0,0,,,,0,,,,,,,,0,0,,,,,0,2023,2022-23,div1,Wabash Valley,wabashvalleycollege,zamaurionhatcherjiyf,Zamaurion Hatcher
+Mar 16,home,Lincoln Trail,W,14-2,14,2,12,win,20230316_jb88,0,0,0,,,,0,1,,,,,,,0,0,,,,,1,2023,2022-23,div1,Wabash Valley,wabashvalleycollege,zamaurionhatcherjiyf,Zamaurion Hatcher
+Mar 20,home,Lincoln Trail,W,7-6,7,6,1,win,20230320_q6w3,1,0,0,,,,0,,1,,,,,,0,0,,,,,1,2023,2022-23,div1,Wabash Valley,wabashvalleycollege,zamaurionhatcherjiyf,Zamaurion Hatcher
+Mar 23,home,John A. Logan,W,7-6,7,6,1,win,20230323_snb0,0,0,0,,,,0,,,,,,,,0,0,,,,,0,2023,2022-23,div1,Wabash Valley,wabashvalleycollege,zamaurionhatcherjiyf,Zamaurion Hatcher
+Mar 28,home,Shawnee,W,26-3,26,3,23,win,20230328_zl05,5,4,3,,,,2,1,,,,,,,3,0,,,,,6,2023,2022-23,div1,Wabash Valley,wabashvalleycollege,zamaurionhatcherjiyf,Zamaurion Hatcher
+Mar 30,home,Lake Land,W,26-3,26,3,23,win,20230330_cm50,5,3,3,1,,,1,,,,,1,,,4,1,,,,,6,2023,2022-23,div1,Wabash Valley,wabashvalleycollege,zamaurionhatcherjiyf,Zamaurion Hatcher
+Apr 1,home,Lake Land,W,18-6,18,6,12,win,20230401_7ry5,2,1,2,2,,,4,1,,,,,,,4,2,,,,,3,2023,2022-23,div1,Wabash Valley,wabashvalleycollege,zamaurionhatcherjiyf,Zamaurion Hatcher
+Apr 4,home,Shawnee,W,5-3,5,3,2,win,20230404_q2a1,5,1,4,,,,0,,,1,,,,,4,0,,,,,5,2023,2022-23,div1,Wabash Valley,wabashvalleycollege,zamaurionhatcherjiyf,Zamaurion Hatcher
+Apr 4,home,Shawnee,W,12-0,12,0,12,win,20230404_o452,3,1,0,,,,0,1,,,,,,,0,0,,,,,4,2023,2022-23,div1,Wabash Valley,wabashvalleycollege,zamaurionhatcherjiyf,Zamaurion Hatcher
+Apr 7,home,Olney Central,W,3-1,3,1,2,win,20230407_mnx9,3,1,0,,,,0,1,1,,,,,,0,0,,,,,4,2023,2022-23,div1,Wabash Valley,wabashvalleycollege,zamaurionhatcherjiyf,Zamaurion Hatcher
+Apr 7,home,Olney Central,W,4-1,4,1,3,win,20230407_r1f3,2,0,1,,,,0,,,,,,,,1,0,,,,,2,2023,2022-23,div1,Wabash Valley,wabashvalleycollege,zamaurionhatcherjiyf,Zamaurion Hatcher
+Apr 10,home,Oakland CIty University,W,11-9,11,9,2,win,20230410_qxki,2,0,1,,,,0,,,,,,,,1,0,,,,,2,2023,2022-23,div1,Wabash Valley,wabashvalleycollege,zamaurionhatcherjiyf,Zamaurion Hatcher
+Apr 11,home,Columbia State,W,15-5,15,5,10,win,20230411_p5vg,3,1,0,,,,0,1,,,,,,,0,0,,,,,4,2023,2022-23,div1,Wabash Valley,wabashvalleycollege,zamaurionhatcherjiyf,Zamaurion Hatcher
+Apr 14,home,Kaskaskia,W,19-2,19,2,17,win,20230414_rxu9,1,2,1,,,,1,,,,,,,,1,0,,,,,1,2023,2022-23,div1,Wabash Valley,wabashvalleycollege,zamaurionhatcherjiyf,Zamaurion Hatcher
+Apr 18,home,Lindsey Wilson College,W,27-0,27,0,27,win,20230418_9ph8,1,2,1,,,,0,2,,,,,,,1,0,,,,,3,2023,2022-23,div1,Wabash Valley,wabashvalleycollege,zamaurionhatcherjiyf,Zamaurion Hatcher
+Apr 20,home,Rend Lake,W,18-8,18,8,10,win,20230420_t1os,4,1,1,,,1,3,,,,,,,,4,1,,,,,4,2023,2022-23,div1,Wabash Valley,wabashvalleycollege,zamaurionhatcherjiyf,Zamaurion Hatcher
+Apr 23,home,Rend Lake,W,4-1,4,1,3,win,20230423_ws7g,3,0,0,,,,0,1,2,,,,,,0,0,,,,,4,2023,2022-23,div1,Wabash Valley,wabashvalleycollege,zamaurionhatcherjiyf,Zamaurion Hatcher
+Apr 25,home,Volunteer State,W,12-6,12,6,6,win,20230425_66yg,1,0,0,,,,0,,1,,,,,,0,0,,,,,1,2023,2022-23,div1,Wabash Valley,wabashvalleycollege,zamaurionhatcherjiyf,Zamaurion Hatcher
+Apr 29,home,Southeastern Illinois,W,15-1,15,1,14,win,20230429_90wh,1,0,0,,,,0,,,,,1,,,0,0,,,,,2,2023,2022-23,div1,Wabash Valley,wabashvalleycollege,zamaurionhatcherjiyf,Zamaurion Hatcher
+Apr 29,home,Southeastern Illinois,W,7-5,7,5,2,win,20230429_qdmg,0,0,0,,,,0,,,,,,,,0,0,,,,,0,2023,2022-23,div1,Wabash Valley,wabashvalleycollege,zamaurionhatcherjiyf,Zamaurion Hatcher
+May 1,home,Olney Central,W,20-2,20,2,18,win,20230501_xemy,3,1,1,,,,0,,1,,,,,,1,0,,,,,3,2023,2022-23,div1,Wabash Valley,wabashvalleycollege,zamaurionhatcherjiyf,Zamaurion Hatcher
+May 6,home,Southwestern Illinois,W,8-7,8,7,1,win,20230506_0d6u,0,1,0,,,,0,,,,,,,,0,0,,,,,0,2023,2022-23,div1,Wabash Valley,wabashvalleycollege,zamaurionhatcherjiyf,Zamaurion Hatcher
+May 6,home,Southwestern Illinois,W,21-5,21,5,16,win,20230506_ei2f,3,2,2,,,,3,,,,,,,,2,0,,,,,3,2023,2022-23,div1,Wabash Valley,wabashvalleycollege,zamaurionhatcherjiyf,Zamaurion Hatcher
+May 17,home,John A. Logan,W,5-2,5,2,3,win,20230517_k0oa,0,0,0,,,,0,,,,,,,,0,0,,,,,0,2023,2022-23,div1,Wabash Valley,wabashvalleycollege,zamaurionhatcherjiyf,Zamaurion Hatcher
+May 18,home,South Suburban,W,3-2,3,2,1,win,20230518_8so2,1,0,0,,,,0,,,,,,,,0,0,,1,,,1,2023,2022-23,div1,Wabash Valley,wabashvalleycollege,zamaurionhatcherjiyf,Zamaurion Hatcher
+May 19,home,South Suburban,W,15-1,15,1,14,win,20230519_7x53,1,0,0,,,,0,,1,,,,,,0,0,,,,,1,2023,2022-23,div1,Wabash Valley,wabashvalleycollege,zamaurionhatcherjiyf,Zamaurion Hatcher
