@@ -1,3 +1,25 @@
 date,location,opponent,result,score,team_score,opp_score,game_score_diff,game_win_loss,game_id,TC,PO,A,E,FPCT,DP,SBA,RCS,RCS_PCT,PB,CI,season,njcaa_season,njcaa_division,team,team_id,player_id,player_name
-Mar 11,home,Heartland,L,19-8,19,8,11,win,20230311_kstk,0,0,0,0,0.1,3,3,3,81.00,2,0,2023,2022-23,div3,Northland,northlandcommunitytechnicalcollege,odhanmanhasneam,Odhan Manhas
-Apr 11,home,NHTI,W,17-5,17,5,12,win,20230411_59cj,0,0,0,0,0.2,,,,0.00,2,1,2023,2022-23,div3,Northland,northlandcommunitytechnicalcollege,odhanmanhasneam,Odhan Manhas
+Mar 4,home,Miles,L,5-4,5,4,1,win,20230304_1isv,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div3,Northland,northlandcommunitytechnicalcollege,odhanmanhasneam,Odhan Manhas
+Mar 5,home,Riverland,L,13-3,13,3,10,win,20230305_rtnj,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div3,Northland,northlandcommunitytechnicalcollege,odhanmanhasneam,Odhan Manhas
+Mar 5,home,Miles,L,11-3,11,3,8,win,20230305_qu2j,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div3,Northland,northlandcommunitytechnicalcollege,odhanmanhasneam,Odhan Manhas
+Mar 8,home,Minnesota West,W,15-5,15,5,10,win,20230308_wm16,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div3,Northland,northlandcommunitytechnicalcollege,odhanmanhasneam,Odhan Manhas
+Apr 16,home,Minnesota North College - Hibbing,L,15-8,15,8,7,win,20230416_sq29,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div3,Northland,northlandcommunitytechnicalcollege,odhanmanhasneam,Odhan Manhas
+Apr 16,home,Minnesota North College - Hibbing,L,7-5,7,5,2,win,20230416_pgbu,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div3,Northland,northlandcommunitytechnicalcollege,odhanmanhasneam,Odhan Manhas
+Apr 17,home,Minnesota North College - Hibbing,W,8-6,8,6,2,win,20230417_cns3,0,1,0,0,2.0,1,1,1,4.50,2,2,2023,2022-23,div3,Northland,northlandcommunitytechnicalcollege,odhanmanhasneam,Odhan Manhas
+Apr 17,home,Minnesota North College - Hibbing,L,10-6,10,6,4,win,20230417_8e4j,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div3,Northland,northlandcommunitytechnicalcollege,odhanmanhasneam,Odhan Manhas
+Apr 23,home,Minnesota North College - Mesabi Range,L,6-5,6,5,1,win,20230423_0h4g,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div3,Northland,northlandcommunitytechnicalcollege,odhanmanhasneam,Odhan Manhas
+Apr 23,home,Minnesota North College - Mesabi Range,W,8-1,8,1,7,win,20230423_s2gi,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div3,Northland,northlandcommunitytechnicalcollege,odhanmanhasneam,Odhan Manhas
+Apr 26,home,Minnesota North College - Itasca,L,12-2,12,2,10,win,20230426_fbxd,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div3,Northland,northlandcommunitytechnicalcollege,odhanmanhasneam,Odhan Manhas
+Apr 26,home,Minnesota North College - Itasca,W,10-8,10,8,2,win,20230426_uonw,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div3,Northland,northlandcommunitytechnicalcollege,odhanmanhasneam,Odhan Manhas
+Apr 29,home,Minnesota North College - Rainy River,W,9-4,9,4,5,win,20230429_b617,1,1,0,0,4.0,4,2,2,4.50,1,2,2023,2022-23,div3,Northland,northlandcommunitytechnicalcollege,odhanmanhasneam,Odhan Manhas
+Apr 29,home,Minnesota North College - Rainy River,L,8-7,8,7,1,win,20230429_6iiq,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div3,Northland,northlandcommunitytechnicalcollege,odhanmanhasneam,Odhan Manhas
+Apr 30,home,Minnesota North College - Rainy River,W,22-10,22,10,12,win,20230430_c60h,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div3,Northland,northlandcommunitytechnicalcollege,odhanmanhasneam,Odhan Manhas
+Apr 30,home,Minnesota North College - Rainy River,W,14-6,14,6,8,win,20230430_fl95,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div3,Northland,northlandcommunitytechnicalcollege,odhanmanhasneam,Odhan Manhas
+May 3,home,Minnesota North College - Itasca,L,7-5,7,5,2,win,20230503_yshr,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div3,Northland,northlandcommunitytechnicalcollege,odhanmanhasneam,Odhan Manhas
+May 3,home,Minnesota North College - Itasca,L,11-9,11,9,2,win,20230503_qvrp,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div3,Northland,northlandcommunitytechnicalcollege,odhanmanhasneam,Odhan Manhas
+May 4,home,Minnesota North College - Mesabi Range,W,6-1,6,1,5,win,20230504_x8ix,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div3,Northland,northlandcommunitytechnicalcollege,odhanmanhasneam,Odhan Manhas
+May 4,home,Minnesota North College - Mesabi Range,W,14-2,14,2,12,win,20230504_ywz2,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div3,Northland,northlandcommunitytechnicalcollege,odhanmanhasneam,Odhan Manhas
+May 6,home,Minnesota North College - Vermilion,W,4-2,4,2,2,win,20230506_9dsd,1,1,0,0,7.0,5,2,0,0.00,0,4,2023,2022-23,div3,Northland,northlandcommunitytechnicalcollege,odhanmanhasneam,Odhan Manhas
+May 6,home,Minnesota North College - Vermilion,W,13-7,13,7,6,win,20230506_1sdt,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div3,Northland,northlandcommunitytechnicalcollege,odhanmanhasneam,Odhan Manhas
+May 7,home,Minnesota North College - Vermilion,L,16-7,16,7,9,win,20230507_p8f4,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div3,Northland,northlandcommunitytechnicalcollege,odhanmanhasneam,Odhan Manhas
+May 7,home,Minnesota North College - Vermilion,L,14-7,14,7,7,win,20230507_ifpn,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div3,Northland,northlandcommunitytechnicalcollege,odhanmanhasneam,Odhan Manhas

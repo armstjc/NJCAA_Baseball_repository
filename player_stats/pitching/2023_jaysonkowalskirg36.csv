@@ -1,12 +1,38 @@
 date,location,opponent,result,score,team_score,opp_score,game_score_diff,game_win_loss,game_id,GS,W,L,SV,IP,H,R,ER,ERA,BB,K,HR,season,njcaa_season,njcaa_division,team,team_id,player_id,player_name
-May 14,home,Frederick,W,16-10,16,10,6,win,20230514_ya8k,0,0,0,0,0.2,2,2,1,13.50,,,,2023,2022-23,div2,CCBC Catonsville,ccbccatonsville,jaysonkowalskirg36,Jayson Kowalski
-May 6,home,Frederick,L,9-7,9,7,2,win,20230506_d4ui,0,0,0,0,1.0,,1,1,9.00,2,,,2023,2022-23,div2,CCBC Catonsville,ccbccatonsville,jaysonkowalskirg36,Jayson Kowalski
-Apr 23,home,Potomac State,L,11-5,11,5,6,win,20230423_8j3k,0,0,0,0,1.1,2,2,2,13.50,1,,2,2023,2022-23,div2,CCBC Catonsville,ccbccatonsville,jaysonkowalskirg36,Jayson Kowalski
-Apr 12,home,Westmoreland,W,14-3,14,3,11,win,20230412_f4n6,0,0,0,0,2.0,,2,2,9.00,5,2,,2023,2022-23,div2,CCBC Catonsville,ccbccatonsville,jaysonkowalskirg36,Jayson Kowalski
-Apr 2,home,Harford,L,7-0,7,0,7,win,20230402_1fd1,0,0,0,0,2.0,6,4,4,18.00,1,2,1,2023,2022-23,div2,CCBC Catonsville,ccbccatonsville,jaysonkowalskirg36,Jayson Kowalski
-Mar 26,home,Allegany Maryland,L,13-1,13,1,12,win,20230326_i208,0,0,1,0,2.2,7,5,5,16.88,2,4,,2023,2022-23,div2,CCBC Catonsville,ccbccatonsville,jaysonkowalskirg36,Jayson Kowalski
-Mar 19,home,Delaware Tech,W,11-9,11,9,2,win,20230319_n5kt,0,0,0,0,5.0,9,6,6,10.80,3,4,,2023,2022-23,div2,CCBC Catonsville,ccbccatonsville,jaysonkowalskirg36,Jayson Kowalski
-Mar 12,home,Orange County,W,10-0,10,0,10,win,20230312_d2rq,1,1,0,0,5.0,0,0,0,0.00,3,6,,2023,2022-23,div2,CCBC Catonsville,ccbccatonsville,jaysonkowalskirg36,Jayson Kowalski
-Mar 4,home,Sussex County,L,10-5,10,5,5,win,20230304_e8r0,0,0,0,0,2.1,2,1,1,3.86,,3,,2023,2022-23,div2,CCBC Catonsville,ccbccatonsville,jaysonkowalskirg36,Jayson Kowalski
-Feb 23,home,Daytona State,W,10-9,10,9,1,win,20230223_uhe7,0,0,0,1,1.1,,,,0.00,,1,,2023,2022-23,div2,CCBC Catonsville,ccbccatonsville,jaysonkowalskirg36,Jayson Kowalski
-Feb 21,home,Central Florida,L,13-1,13,1,12,win,20230221_4pvq,0,0,0,0,1.1,3,5,5,33.75,2,1,,2023,2022-23,div2,CCBC Catonsville,ccbccatonsville,jaysonkowalskirg36,Jayson Kowalski
+May 14,home,Frederick,L,18-6,18,6,12,win,20230514_0uvv,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div2,CCBC Catonsville,ccbccatonsville,jaysonkowalskirg36,Jayson Kowalski
+May 14,home,Frederick,W,16-10,16,10,6,win,20230514_ya8k,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div2,CCBC Catonsville,ccbccatonsville,jaysonkowalskirg36,Jayson Kowalski
+May 13,home,CCBC Essex,W,12-4,12,4,8,win,20230513_mwf9,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div2,CCBC Catonsville,ccbccatonsville,jaysonkowalskirg36,Jayson Kowalski
+May 13,home,Frederick,L,10-5,10,5,5,win,20230513_ce5c,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div2,CCBC Catonsville,ccbccatonsville,jaysonkowalskirg36,Jayson Kowalski
+May 12,home,Anne Arundel,W,9-0,9,0,9,win,20230512_cnvk,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div2,CCBC Catonsville,ccbccatonsville,jaysonkowalskirg36,Jayson Kowalski
+May 6,home,Frederick,L,9-7,9,7,2,win,20230506_d4ui,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div2,CCBC Catonsville,ccbccatonsville,jaysonkowalskirg36,Jayson Kowalski
+Apr 29,home,Potomac State,W,6-4,6,4,2,win,20230429_1b6o,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div2,CCBC Catonsville,ccbccatonsville,jaysonkowalskirg36,Jayson Kowalski
+Apr 29,home,Potomac State,W,6-3,6,3,3,win,20230429_fsl9,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div2,CCBC Catonsville,ccbccatonsville,jaysonkowalskirg36,Jayson Kowalski
+Apr 25,home,Garrett,W,2-1,2,1,1,win,20230425_t85r,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div2,CCBC Catonsville,ccbccatonsville,jaysonkowalskirg36,Jayson Kowalski
+Apr 25,home,Garrett,W,13-3,13,3,10,win,20230425_8k4w,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div2,CCBC Catonsville,ccbccatonsville,jaysonkowalskirg36,Jayson Kowalski
+Apr 23,home,Potomac State,L,11-5,11,5,6,win,20230423_8j3k,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div2,CCBC Catonsville,ccbccatonsville,jaysonkowalskirg36,Jayson Kowalski
+Apr 16,home,Hagerstown,W,7-5,7,5,2,win,20230416_m7wr,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div2,CCBC Catonsville,ccbccatonsville,jaysonkowalskirg36,Jayson Kowalski
+Apr 15,home,Montgomery,W,10-5,10,5,5,win,20230415_xlyz,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div2,CCBC Catonsville,ccbccatonsville,jaysonkowalskirg36,Jayson Kowalski
+Apr 15,home,Montgomery,L,7-2,7,2,5,win,20230415_1mek,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div2,CCBC Catonsville,ccbccatonsville,jaysonkowalskirg36,Jayson Kowalski
+Apr 12,home,Westmoreland,W,17-3,17,3,14,win,20230412_g5xu,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div2,CCBC Catonsville,ccbccatonsville,jaysonkowalskirg36,Jayson Kowalski
+Apr 10,home,Southern Maryland,W,11-2,11,2,9,win,20230410_5utm,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div2,CCBC Catonsville,ccbccatonsville,jaysonkowalskirg36,Jayson Kowalski
+Apr 8,home,Anne Arundel,W,2-0,2,0,2,win,20230408_ppnv,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div2,CCBC Catonsville,ccbccatonsville,jaysonkowalskirg36,Jayson Kowalski
+Apr 8,home,Anne Arundel,W,4-0,4,0,4,win,20230408_76av,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div2,CCBC Catonsville,ccbccatonsville,jaysonkowalskirg36,Jayson Kowalski
+Apr 2,home,Harford,L,7-0,7,0,7,win,20230402_1fd1,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div2,CCBC Catonsville,ccbccatonsville,jaysonkowalskirg36,Jayson Kowalski
+Mar 30,home,Prince George's,W,13-0,13,0,13,win,20230330_fmcb,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div2,CCBC Catonsville,ccbccatonsville,jaysonkowalskirg36,Jayson Kowalski
+Mar 28,home,Prince George's,W,8-4,8,4,4,win,20230328_zgiw,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div2,CCBC Catonsville,ccbccatonsville,jaysonkowalskirg36,Jayson Kowalski
+Mar 26,home,Allegany Maryland,W,14-8,14,8,6,win,20230326_026g,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div2,CCBC Catonsville,ccbccatonsville,jaysonkowalskirg36,Jayson Kowalski
+Mar 22,home,CCBC Essex,W,15-5,15,5,10,win,20230322_5w28,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div2,CCBC Catonsville,ccbccatonsville,jaysonkowalskirg36,Jayson Kowalski
+Mar 20,home,Chesapeake,W,10-9,10,9,1,win,20230320_ivwv,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div2,CCBC Catonsville,ccbccatonsville,jaysonkowalskirg36,Jayson Kowalski
+Mar 19,home,Delaware Tech,W,22-5,22,5,17,win,20230319_3mdu,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div2,CCBC Catonsville,ccbccatonsville,jaysonkowalskirg36,Jayson Kowalski
+Mar 17,home,Erie,W,9-8,9,8,1,win,20230317_lzs3,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div2,CCBC Catonsville,ccbccatonsville,jaysonkowalskirg36,Jayson Kowalski
+Mar 11,home,Cayuga,L,2-0,2,0,2,win,20230311_da6y,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div2,CCBC Catonsville,ccbccatonsville,jaysonkowalskirg36,Jayson Kowalski
+Mar 9,home,CCBC Dundalk,W,9-6,9,6,3,win,20230309_ksht,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div2,CCBC Catonsville,ccbccatonsville,jaysonkowalskirg36,Jayson Kowalski
+Mar 7,home,CCBC Dundalk,W,9-2,9,2,7,win,20230307_6nv9,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div2,CCBC Catonsville,ccbccatonsville,jaysonkowalskirg36,Jayson Kowalski
+Mar 5,home,Lakeland,W,4-2,4,2,2,win,20230305_uonb,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div2,CCBC Catonsville,ccbccatonsville,jaysonkowalskirg36,Jayson Kowalski
+Mar 4,home,Sussex County,L,10-5,10,5,5,win,20230304_e8r0,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div2,CCBC Catonsville,ccbccatonsville,jaysonkowalskirg36,Jayson Kowalski
+Feb 24,home,Daytona State,L,11-4,11,4,7,win,20230224_i9ok,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div2,CCBC Catonsville,ccbccatonsville,jaysonkowalskirg36,Jayson Kowalski
+Feb 23,home,Daytona State,W,10-9,10,9,1,win,20230223_uhe7,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div2,CCBC Catonsville,ccbccatonsville,jaysonkowalskirg36,Jayson Kowalski
+Feb 21,home,Central Florida,L,13-1,13,1,12,win,20230221_4pvq,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div2,CCBC Catonsville,ccbccatonsville,jaysonkowalskirg36,Jayson Kowalski
+Feb 20,home,Lake-Sumter State,L,4-3,4,3,1,win,20230220_04q6,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div2,CCBC Catonsville,ccbccatonsville,jaysonkowalskirg36,Jayson Kowalski
+Feb 18,home,Seminole State (FL),L,8-7,8,7,1,win,20230218_4j16,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div2,CCBC Catonsville,ccbccatonsville,jaysonkowalskirg36,Jayson Kowalski
+Feb 18,home,Seminole State (FL),L,6-5,6,5,1,win,20230218_73u1,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div2,CCBC Catonsville,ccbccatonsville,jaysonkowalskirg36,Jayson Kowalski

@@ -1,8 +1,15 @@
 date,location,opponent,result,score,team_score,opp_score,game_score_diff,game_win_loss,game_id,AB,R,H,2B,3B,HR,RBI,BB,K,SB,CS,HBP,SF,SH,TB,XBH,HDP,GO,FO,GO/FO,PA,season,njcaa_season,njcaa_division,team,team_id,player_id,player_name
-Feb 8,home,Methodist University JV,W,8-3,8,3,5,win,20230208_2slc,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0,,,0,2023,2022-23,div2,Fayetteville Tech,fayettevilletechnicalcommunitycollege,hunterbeardemqp,Hunter Beard
-Feb 15,home,Wake Tech,W,15-11,15,11,4,win,20230215_jjl1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0,,,0,2023,2022-23,div2,Fayetteville Tech,fayettevilletechnicalcommunitycollege,hunterbeardemqp,Hunter Beard
-Feb 22,home,NC Wesleyan JV,W,10-0,10,0,10,win,20230222_6ffh,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0,,,0,2023,2022-23,div2,Fayetteville Tech,fayettevilletechnicalcommunitycollege,hunterbeardemqp,Hunter Beard
-Mar 4,home,Richard Bland,W,9-0,9,0,9,win,20230304_6otk,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0,,,0,2023,2022-23,div2,Fayetteville Tech,fayettevilletechnicalcommunitycollege,hunterbeardemqp,Hunter Beard
-Mar 21,home,Camp,W,6-3,6,3,3,win,20230321_8rau,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0,,,0,2023,2022-23,div2,Fayetteville Tech,fayettevilletechnicalcommunitycollege,hunterbeardemqp,Hunter Beard
-Apr 15,home,Richard Bland,W,11-7,11,7,4,win,20230415_1s2m,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0,,,0,2023,2022-23,div2,Fayetteville Tech,fayettevilletechnicalcommunitycollege,hunterbeardemqp,Hunter Beard
-Apr 18,home,Scoutz USA,W,10-9,10,9,1,win,20230418_hg83,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0,,,0,2023,2022-23,div2,Fayetteville Tech,fayettevilletechnicalcommunitycollege,hunterbeardemqp,Hunter Beard
+Mar 11,home,Abbotsford Cardinals,W,6-2,6,2,4,win,20230311_nzzv,2,0,0,,,,0,,2,,,,,,0,0,,,,,2,2023,2022-23,div2,Fayetteville Tech,fayettevilletechnicalcommunitycollege,hunterbeardemqp,Hunter Beard
+Mar 14,home,Central Lakes,W,10-6,10,6,4,win,20230314_sl7e,4,0,1,,,,0,1,1,,,,,,1,0,,,2,,5,2023,2022-23,div2,Fayetteville Tech,fayettevilletechnicalcommunitycollege,hunterbeardemqp,Hunter Beard
+Mar 15,home,Minnesota North College - Rainy River,W,9-3,9,3,6,win,20230315_030j,3,0,0,,,,0,1,2,,,,,,0,0,,,,,4,2023,2022-23,div2,Fayetteville Tech,fayettevilletechnicalcommunitycollege,hunterbeardemqp,Hunter Beard
+Mar 15,home,Minnesota North College - Rainy River,W,2-1,2,1,1,win,20230315_1758,3,0,0,,,,0,,1,,,,,,0,0,1,,,,3,2023,2022-23,div2,Fayetteville Tech,fayettevilletechnicalcommunitycollege,hunterbeardemqp,Hunter Beard
+Apr 1,home,Northland,W,12-0,12,0,12,win,20230401_30jw,2,3,1,1,,,1,2,1,,,,,,2,1,,,,,4,2023,2022-23,div2,Fayetteville Tech,fayettevilletechnicalcommunitycollege,hunterbeardemqp,Hunter Beard
+Apr 2,home,Northland,W,5-1,5,1,4,win,20230402_2w8j,2,1,0,,,,0,1,,,,,,,0,0,,,,,3,2023,2022-23,div2,Fayetteville Tech,fayettevilletechnicalcommunitycollege,hunterbeardemqp,Hunter Beard
+Apr 2,home,Northland,W,18-17,18,17,1,win,20230402_mmxu,5,1,3,1,,,1,,2,,,,,,4,1,,,,,5,2023,2022-23,div2,Fayetteville Tech,fayettevilletechnicalcommunitycollege,hunterbeardemqp,Hunter Beard
+Apr 7,home,Dakota-Bottineau,W,7-6,7,6,1,win,20230407_yvpu,4,0,1,,,,2,1,2,,,,,,1,0,,,,,5,2023,2022-23,div2,Fayetteville Tech,fayettevilletechnicalcommunitycollege,hunterbeardemqp,Hunter Beard
+Apr 7,home,Dakota-Bottineau,W,13-9,13,9,4,win,20230407_cvi0,4,0,1,,,,0,,,,,,,,1,0,,,,,4,2023,2022-23,div2,Fayetteville Tech,fayettevilletechnicalcommunitycollege,hunterbeardemqp,Hunter Beard
+Apr 10,home,North Dakota SCS,W,17-0,17,0,17,win,20230410_f6wb,3,2,3,1,,,3,1,,,,,,,4,1,,,,,4,2023,2022-23,div2,Fayetteville Tech,fayettevilletechnicalcommunitycollege,hunterbeardemqp,Hunter Beard
+Apr 14,home,Williston State,W,15-6,15,6,9,win,20230414_rcm5,4,2,2,,,,2,,1,,,,,,2,0,,,,,4,2023,2022-23,div2,Fayetteville Tech,fayettevilletechnicalcommunitycollege,hunterbeardemqp,Hunter Beard
+Apr 22,home,Miles,W,10-6,10,6,4,win,20230422_pmqx,4,0,1,,,,1,,,,,,,,1,0,,,,,4,2023,2022-23,div2,Fayetteville Tech,fayettevilletechnicalcommunitycollege,hunterbeardemqp,Hunter Beard
+Apr 28,home,North Dakota SCS,W,11-2,11,2,9,win,20230428_3o1y,3,1,1,,,,0,,1,1,,,,1,1,0,,,,,4,2023,2022-23,div2,Fayetteville Tech,fayettevilletechnicalcommunitycollege,hunterbeardemqp,Hunter Beard
+Apr 29,home,Dakota-Bottineau,W,14-7,14,7,7,win,20230429_osey,4,0,1,,,,1,1,1,,,,,,1,0,,,,,5,2023,2022-23,div2,Fayetteville Tech,fayettevilletechnicalcommunitycollege,hunterbeardemqp,Hunter Beard
