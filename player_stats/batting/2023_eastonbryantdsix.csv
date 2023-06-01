@@ -1,12 +1,20 @@
 date,location,opponent,result,score,team_score,opp_score,game_score_diff,game_win_loss,game_id,AB,R,H,2B,3B,HR,RBI,BB,K,SB,CS,HBP,SF,SH,TB,XBH,HDP,GO,FO,GO/FO,PA,season,njcaa_season,njcaa_division,team,team_id,player_id,player_name
-Jan 27,home,GCU Club,W,10-2,10,2,8,win,20230127_zbdl,1,0,0,,,,0,,,,,,,,0,0,,,,,1,2023,2022-23,div2,Chandler-Gilbert,chandlergilbertcommunitycollege,eastonbryantdsix,Easton Bryant
-Feb 3,home,Post Grad,W,9-3,9,3,6,win,20230203_7ksc,3,2,2,,,,1,1,,,,,,,2,0,,,,,4,2023,2022-23,div2,Chandler-Gilbert,chandlergilbertcommunitycollege,eastonbryantdsix,Easton Bryant
-Feb 14,home,Mesa,W,19-0,19,0,19,win,20230214_p6ei,1,0,1,,,,0,,,,,,,,1,0,,,,,1,2023,2022-23,div2,Chandler-Gilbert,chandlergilbertcommunitycollege,eastonbryantdsix,Easton Bryant
-Mar 13,home,Arizona Christian University JV,W,11-5,11,5,6,win,20230313_bkhg,4,0,1,1,,,0,1,,,1,,,,2,1,,,,,5,2023,2022-23,div2,Chandler-Gilbert,chandlergilbertcommunitycollege,eastonbryantdsix,Easton Bryant
-Mar 14,home,Scottsdale Post Grad,W,7-6,7,6,1,win,20230314_xplc,3,0,0,,,,1,,1,,,,,,0,0,,,,,3,2023,2022-23,div2,Chandler-Gilbert,chandlergilbertcommunitycollege,eastonbryantdsix,Easton Bryant
-Mar 21,home,Cochise,W,5-4,5,4,1,win,20230321_r08v,3,0,0,,,,0,,2,,,,,1,0,0,,,,,4,2023,2022-23,div2,Chandler-Gilbert,chandlergilbertcommunitycollege,eastonbryantdsix,Easton Bryant
-Mar 23,home,Langley Blaze,W,9-8,9,8,1,win,20230323_2258,3,1,1,,1,,2,,,,,,,,3,1,,,,,3,2023,2022-23,div2,Chandler-Gilbert,chandlergilbertcommunitycollege,eastonbryantdsix,Easton Bryant
-Mar 30,home,BenU Mesa,W,11-4,11,4,7,win,20230330_u1ca,3,1,0,,,,0,1,,,,,,,0,0,,,,,4,2023,2022-23,div2,Chandler-Gilbert,chandlergilbertcommunitycollege,eastonbryantdsix,Easton Bryant
-Apr 6,home,Ottawa University JV,W,10-2,10,2,8,win,20230406_u5ng,3,0,0,,,,0,,,,,,,,0,0,,,,,3,2023,2022-23,div2,Chandler-Gilbert,chandlergilbertcommunitycollege,eastonbryantdsix,Easton Bryant
-Apr 13,home,Arizona Christian University JV,W,13-3,13,3,10,win,20230413_ooqr,4,2,2,2,,,0,,,1,,,,,4,2,,,,,4,2023,2022-23,div2,Chandler-Gilbert,chandlergilbertcommunitycollege,eastonbryantdsix,Easton Bryant
-Apr 15,home,GateWay (AZ),W,11-5,11,5,6,win,20230415_7ln6,0,0,0,,,,0,,,,,,,,0,0,,,,,0,2023,2022-23,div2,Chandler-Gilbert,chandlergilbertcommunitycollege,eastonbryantdsix,Easton Bryant
+Jan 27,home,GCU Club,W,11-1,11,1,10,win,20230127_akvu,2,2,1,,,,0,1,,1,,,,1,1,0,,,,,4,2023,2022-23,div2,Chandler-Gilbert,chandlergilbertcommunitycollege,eastonbryantdsix,Easton Bryant
+Feb 1,home,Ottowa University JV,W,8-4,8,4,4,win,20230201_cnar,2,1,0,,,,0,2,,,1,,,,0,0,,,,,4,2023,2022-23,div2,Chandler-Gilbert,chandlergilbertcommunitycollege,eastonbryantdsix,Easton Bryant
+Feb 3,home,Post Grad,W,7-4,7,4,3,win,20230203_zl86,2,2,1,,,,0,,,1,,1,,,1,0,,,,,3,2023,2022-23,div2,Chandler-Gilbert,chandlergilbertcommunitycollege,eastonbryantdsix,Easton Bryant
+Feb 14,home,Mesa,W,19-0,19,0,19,win,20230214_p6ei,1,0,0,,,,0,,1,,,,,,0,0,,,,,1,2023,2022-23,div2,Chandler-Gilbert,chandlergilbertcommunitycollege,eastonbryantdsix,Easton Bryant
+Feb 18,home,GateWay (AZ),W,9-6,9,6,3,win,20230218_mxxy,3,0,0,,,,0,,3,,,,,,0,0,,,,,3,2023,2022-23,div2,Chandler-Gilbert,chandlergilbertcommunitycollege,eastonbryantdsix,Easton Bryant
+Feb 25,home,Paradise Valley,W,13-0,13,0,13,win,20230225_r8zj,0,0,0,,,,0,,1,,,,,,0,0,,,,,0,2023,2022-23,div2,Chandler-Gilbert,chandlergilbertcommunitycollege,eastonbryantdsix,Easton Bryant
+Mar 13,home,Arizona Christian University JV,W,11-5,11,5,6,win,20230313_bkhg,3,0,0,,,,2,1,3,,,,1,,0,0,,,,,5,2023,2022-23,div2,Chandler-Gilbert,chandlergilbertcommunitycollege,eastonbryantdsix,Easton Bryant
+Mar 14,home,Scottsdale Post Grad,W,7-6,7,6,1,win,20230314_xplc,2,0,0,,,,0,1,1,,,,,,0,0,,,,,3,2023,2022-23,div2,Chandler-Gilbert,chandlergilbertcommunitycollege,eastonbryantdsix,Easton Bryant
+Mar 23,home,Langley Blaze,W,9-8,9,8,1,win,20230323_2258,4,2,2,,,,1,,,3,,,,,2,0,,,,,4,2023,2022-23,div2,Chandler-Gilbert,chandlergilbertcommunitycollege,eastonbryantdsix,Easton Bryant
+Mar 25,home,Eastern Arizona,W,5-3,5,3,2,win,20230325_ezeu,3,0,1,,,,1,,1,,,,,,1,0,,,,,3,2023,2022-23,div2,Chandler-Gilbert,chandlergilbertcommunitycollege,eastonbryantdsix,Easton Bryant
+Mar 30,home,BenU Mesa,W,11-4,11,4,7,win,20230330_u1ca,4,2,2,,,1,2,,1,,,,,,5,1,,,,,4,2023,2022-23,div2,Chandler-Gilbert,chandlergilbertcommunitycollege,eastonbryantdsix,Easton Bryant
+Apr 6,home,Ottawa University JV,W,10-2,10,2,8,win,20230406_u5ng,2,0,2,,,,2,,,,,,,,2,0,,,,,2,2023,2022-23,div2,Chandler-Gilbert,chandlergilbertcommunitycollege,eastonbryantdsix,Easton Bryant
+Apr 7,home,Phoenix,W,9-0,9,0,9,win,20230407_pzbb,5,0,0,,,,0,,2,,,,,,0,0,,,,,5,2023,2022-23,div2,Chandler-Gilbert,chandlergilbertcommunitycollege,eastonbryantdsix,Easton Bryant
+Apr 8,home,Phoenix,W,11-1,11,1,10,win,20230408_r1o3,3,2,2,,,,0,1,,1,,,,,2,0,,,,,4,2023,2022-23,div2,Chandler-Gilbert,chandlergilbertcommunitycollege,eastonbryantdsix,Easton Bryant
+Apr 15,home,GateWay (AZ),W,11-5,11,5,6,win,20230415_7ln6,4,0,1,,,,0,1,1,1,,,,,1,0,,,,,5,2023,2022-23,div2,Chandler-Gilbert,chandlergilbertcommunitycollege,eastonbryantdsix,Easton Bryant
+Apr 19,home,Scottsdale,W,6-2,6,2,4,win,20230419_vzod,4,1,1,,,,1,,2,,,,,,1,0,,,,,4,2023,2022-23,div2,Chandler-Gilbert,chandlergilbertcommunitycollege,eastonbryantdsix,Easton Bryant
+Apr 22,home,Paradise Valley,W,7-6,7,6,1,win,20230422_4slk,3,0,0,,,,0,1,3,,,,,,0,0,,,,,4,2023,2022-23,div2,Chandler-Gilbert,chandlergilbertcommunitycollege,eastonbryantdsix,Easton Bryant
+May 5,home,Paradise Valley,W,5-4,5,4,1,win,20230505_2lw3,0,0,0,,,,0,,,,,,,,0,0,,,,,0,2023,2022-23,div2,Chandler-Gilbert,chandlergilbertcommunitycollege,eastonbryantdsix,Easton Bryant
+May 6,home,Paradise Valley,W,10-4,10,4,6,win,20230506_v5by,0,0,0,,,,0,,,1,,,,,0,0,,,,,0,2023,2022-23,div2,Chandler-Gilbert,chandlergilbertcommunitycollege,eastonbryantdsix,Easton Bryant

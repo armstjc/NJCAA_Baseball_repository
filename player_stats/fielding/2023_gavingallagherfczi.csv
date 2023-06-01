@@ -1,15 +1,18 @@
 date,location,opponent,result,score,team_score,opp_score,game_score_diff,game_win_loss,game_id,TC,PO,A,E,FPCT,DP,SBA,RCS,RCS_PCT,PB,CI,season,njcaa_season,njcaa_division,team,team_id,player_id,player_name
-Feb 18,home,Southeastern Illinois,L,7-6,7,6,1,win,20230218_6kph,0,0,0,0,4.0,2,2,1,2.25,1,9,2023,2022-23,div1,Kishwaukee,kishwaukeecollege,gavingallagherfczi,Gavin Gallagher
-Feb 24,home,Frontier,L,10-0,10,0,10,win,20230224_xo53,1,0,1,0,3.2,7,7,1,2.45,4,4,2023,2022-23,div1,Kishwaukee,kishwaukeecollege,gavingallagherfczi,Gavin Gallagher
-Mar 7,home,Rock Valley,L,10-4,10,4,6,win,20230307_9ta3,0,0,1,0,7.1,9,4,2,2.45,2,6,2023,2022-23,div1,Kishwaukee,kishwaukeecollege,gavingallagherfczi,Gavin Gallagher
-Mar 21,home,Pasco-Hernando State,L,27-0,27,0,27,win,20230321_gmyd,1,0,1,0,5.0,6,6,6,10.80,4,3,2023,2022-23,div1,Kishwaukee,kishwaukeecollege,gavingallagherfczi,Gavin Gallagher
-Mar 28,home,Carl Sandburg,W,4-3,4,3,1,win,20230328_s212,1,1,0,0,6.2,5,2,2,2.70,2,5,2023,2022-23,div1,Kishwaukee,kishwaukeecollege,gavingallagherfczi,Gavin Gallagher
-Apr 3,home,Carl Sandburg,L,4-2,4,2,2,win,20230403_53bo,1,0,1,0,5.0,3,3,3,5.40,2,7,2023,2022-23,div1,Kishwaukee,kishwaukeecollege,gavingallagherfczi,Gavin Gallagher
-Apr 7,home,Illinois Valley,L,8-3,8,3,5,win,20230407_8tam,0,0,1,0,4.0,9,7,7,15.75,2,4,2023,2022-23,div1,Kishwaukee,kishwaukeecollege,gavingallagherfczi,Gavin Gallagher
-Apr 11,home,Black Hawk-Moline,L,10-0,10,0,10,win,20230411_c8eq,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Kishwaukee,kishwaukeecollege,gavingallagherfczi,Gavin Gallagher
-Apr 12,home,Harper,L,21-15,21,15,6,win,20230412_btna,1,0,1,0,3.1,8,9,7,18.90,4,4,2023,2022-23,div1,Kishwaukee,kishwaukeecollege,gavingallagherfczi,Gavin Gallagher
-Apr 18,home,Highland (IL),L,15-2,15,2,13,win,20230418_um8v,0,0,0,0,4.0,6,6,3,6.75,1,5,2023,2022-23,div1,Kishwaukee,kishwaukeecollege,gavingallagherfczi,Gavin Gallagher
-Apr 22,home,Milwaukee Area Tech,L,16-8,16,8,8,win,20230422_nsby,0,0,0,0,2.2,5,5,3,10.13,1,5,2023,2022-23,div1,Kishwaukee,kishwaukeecollege,gavingallagherfczi,Gavin Gallagher
-Apr 27,home,Triton,L,12-3,12,3,9,win,20230427_lytj,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Kishwaukee,kishwaukeecollege,gavingallagherfczi,Gavin Gallagher
-May 2,home,South Suburban,L,18-2,18,2,16,win,20230502_fv8i,0,0,0,0,0.1,1,4,4,108.00,4,,2023,2022-23,div1,Kishwaukee,kishwaukeecollege,gavingallagherfczi,Gavin Gallagher
-May 7,home,Waubonsee,L,3-1,3,1,2,win,20230507_fmd3,0,0,0,0,2.0,2,,,0.00,2,2,2023,2022-23,div1,Kishwaukee,kishwaukeecollege,gavingallagherfczi,Gavin Gallagher
+Jan 27,home,State College of Florida,W,3-2,3,2,1,win,20230127_xhe6,0,1,0,0,3.0,1,,,0.00,3,3,2023,2022-23,div1,Kishwaukee,kishwaukeecollege,gavingallagherfczi,Gavin Gallagher
+Feb 3,home,San Jacinto,W,5-3,5,3,2,win,20230203_r17c,0,0,0,0,2.0,3,2,2,9.00,,1,2023,2022-23,div1,Kishwaukee,kishwaukeecollege,gavingallagherfczi,Gavin Gallagher
+Feb 4,home,Florence-Darlington Tech,W,6-2,6,2,4,win,20230204_8s75,0,0,0,0,1.0,,,,0.00,,2,2023,2022-23,div1,Kishwaukee,kishwaukeecollege,gavingallagherfczi,Gavin Gallagher
+Feb 13,home,John A. Logan,W,7-6,7,6,1,win,20230213_acr4,0,0,0,0,3.0,1,,,0.00,2,2,2023,2022-23,div1,Kishwaukee,kishwaukeecollege,gavingallagherfczi,Gavin Gallagher
+Feb 17,home,Coastal Alabama - Brewton,W,9-2,9,2,7,win,20230217_tjnp,0,0,0,0,1.0,,,,0.00,,1,2023,2022-23,div1,Kishwaukee,kishwaukeecollege,gavingallagherfczi,Gavin Gallagher
+Feb 21,home,Wallace-Dothan,W,15-12,15,12,3,win,20230221_ydiv,0,0,0,0,1.0,1,4,,0.00,3,2,2023,2022-23,div1,Kishwaukee,kishwaukeecollege,gavingallagherfczi,Gavin Gallagher
+Feb 25,home,Andrew,W,17-10,17,10,7,win,20230225_lw8u,0,1,0,0,3.1,4,3,,0.00,2,7,2023,2022-23,div1,Kishwaukee,kishwaukeecollege,gavingallagherfczi,Gavin Gallagher
+Mar 1,home,Shelton State,W,11-6,11,6,5,win,20230301_kmx5,0,1,0,0,3.1,2,,,0.00,2,6,2023,2022-23,div1,Kishwaukee,kishwaukeecollege,gavingallagherfczi,Gavin Gallagher
+Mar 11,home,Pensacola State,L,12-4,12,4,8,win,20230311_po32,0,0,0,0,1.2,2,3,3,16.20,4,3,2023,2022-23,div1,Kishwaukee,kishwaukeecollege,gavingallagherfczi,Gavin Gallagher
+Mar 17,home,Chipola,W,9-8,9,8,1,win,20230317_kk0w,0,1,0,0,4.1,3,2,2,4.15,1,6,2023,2022-23,div1,Kishwaukee,kishwaukeecollege,gavingallagherfczi,Gavin Gallagher
+Mar 22,home,Tallahassee,W,6-3,6,3,3,win,20230322_cwg4,1,1,0,0,6.1,5,1,1,1.42,1,9,2023,2022-23,div1,Kishwaukee,kishwaukeecollege,gavingallagherfczi,Gavin Gallagher
+Mar 29,home,Pensacola State,W,7-6,7,6,1,win,20230329_yes9,1,0,0,0,5.0,6,5,5,9.00,4,6,2023,2022-23,div1,Kishwaukee,kishwaukeecollege,gavingallagherfczi,Gavin Gallagher
+Apr 11,home,Chipola,L,23-8,23,8,15,win,20230411_9jxq,1,0,1,0,0.0,2,6,5,INF,3,0,2023,2022-23,div1,Kishwaukee,kishwaukeecollege,gavingallagherfczi,Gavin Gallagher
+Apr 15,home,Chipola,L,7-4,7,4,3,win,20230415_sedi,0,0,0,0,1.1,,4,4,27.00,2,2,2023,2022-23,div1,Kishwaukee,kishwaukeecollege,gavingallagherfczi,Gavin Gallagher
+Apr 18,home,Tallahassee,W,14-4,14,4,10,win,20230418_4o3z,1,1,0,0,5.0,1,4,4,7.20,5,6,2023,2022-23,div1,Kishwaukee,kishwaukeecollege,gavingallagherfczi,Gavin Gallagher
+Apr 25,home,Northwest Florida State,L,17-7,17,7,10,win,20230425_i8p3,1,0,0,0,3.2,6,8,5,12.27,3,3,2023,2022-23,div1,Kishwaukee,kishwaukeecollege,gavingallagherfczi,Gavin Gallagher
+Apr 30,home,Northwest Florida State,L,7-6,7,6,1,win,20230430_x277,0,0,1,0,1.0,2,3,3,27.00,1,1,2023,2022-23,div1,Kishwaukee,kishwaukeecollege,gavingallagherfczi,Gavin Gallagher

@@ -1,39 +1,13 @@
 date,location,opponent,result,score,team_score,opp_score,game_score_diff,game_win_loss,game_id,TC,PO,A,E,FPCT,DP,SBA,RCS,RCS_PCT,PB,CI,season,njcaa_season,njcaa_division,team,team_id,player_id,player_name
-Jan 27,home,South Mountain,L,5-0,5,0,5,win,20230127_xdnp,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Salt Lake,saltlakecommunitycollege,tratonstahelirshf,Traton Staheli
-Jan 27,home,South Mountain,L,11-0,11,0,11,win,20230127_x38f,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Salt Lake,saltlakecommunitycollege,tratonstahelirshf,Traton Staheli
-Jan 28,home,South Mountain,L,6-5,6,5,1,win,20230128_bctt,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Salt Lake,saltlakecommunitycollege,tratonstahelirshf,Traton Staheli
-Jan 28,home,South Mountain,L,5-3,5,3,2,win,20230128_a76a,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Salt Lake,saltlakecommunitycollege,tratonstahelirshf,Traton Staheli
-Feb 3,home,Pima,L,8-2,8,2,6,win,20230203_578n,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Salt Lake,saltlakecommunitycollege,tratonstahelirshf,Traton Staheli
-Feb 3,home,GateWay (AZ),W,7-2,7,2,5,win,20230203_9z2q,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Salt Lake,saltlakecommunitycollege,tratonstahelirshf,Traton Staheli
-Feb 5,home,Yavapai,W,19-6,19,6,13,win,20230205_ujf9,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Salt Lake,saltlakecommunitycollege,tratonstahelirshf,Traton Staheli
-Mar 3,home,Southern Nevada,L,7-6,7,6,1,win,20230303_4jsb,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Salt Lake,saltlakecommunitycollege,tratonstahelirshf,Traton Staheli
-Mar 3,home,Southern Nevada,W,8-1,8,1,7,win,20230303_9wby,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Salt Lake,saltlakecommunitycollege,tratonstahelirshf,Traton Staheli
-Mar 4,home,Southern Nevada,W,11-0,11,0,11,win,20230304_tmvr,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Salt Lake,saltlakecommunitycollege,tratonstahelirshf,Traton Staheli
-Mar 4,home,Southern Nevada,L,9-4,9,4,5,win,20230304_v69e,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Salt Lake,saltlakecommunitycollege,tratonstahelirshf,Traton Staheli
-Mar 12,home,Colorado Northwestern,W,7-6,7,6,1,win,20230312_kvcx,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Salt Lake,saltlakecommunitycollege,tratonstahelirshf,Traton Staheli
-Mar 13,home,Colorado Northwestern,W,7-1,7,1,6,win,20230313_irv8,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Salt Lake,saltlakecommunitycollege,tratonstahelirshf,Traton Staheli
-Mar 18,home,Southern Idaho,W,6-5,6,5,1,win,20230318_5b54,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Salt Lake,saltlakecommunitycollege,tratonstahelirshf,Traton Staheli
-Mar 28,home,Utah State Eastern,W,10-5,10,5,5,win,20230328_1tdb,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Salt Lake,saltlakecommunitycollege,tratonstahelirshf,Traton Staheli
-Apr 10,home,Southern Nevada,L,9-4,9,4,5,win,20230410_rrot,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Salt Lake,saltlakecommunitycollege,tratonstahelirshf,Traton Staheli
-Apr 15,home,Colorado Northwestern,W,14-1,14,1,13,win,20230415_wfss,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Salt Lake,saltlakecommunitycollege,tratonstahelirshf,Traton Staheli
-Apr 15,home,Colorado Northwestern,W,14-1,14,1,13,win,20230415_qxix,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Salt Lake,saltlakecommunitycollege,tratonstahelirshf,Traton Staheli
-Apr 16,home,Colorado Northwestern,W,18-8,18,8,10,win,20230416_f3pb,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Salt Lake,saltlakecommunitycollege,tratonstahelirshf,Traton Staheli
-Apr 16,home,Colorado Northwestern,W,6-3,6,3,3,win,20230416_bx3m,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Salt Lake,saltlakecommunitycollege,tratonstahelirshf,Traton Staheli
-Apr 21,home,Southern Idaho,W,7-4,7,4,3,win,20230421_bhr6,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Salt Lake,saltlakecommunitycollege,tratonstahelirshf,Traton Staheli
-Apr 21,home,Southern Idaho,W,7-5,7,5,2,win,20230421_f60g,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Salt Lake,saltlakecommunitycollege,tratonstahelirshf,Traton Staheli
-Apr 22,home,Southern Idaho,L,5-1,5,1,4,win,20230422_qh6h,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Salt Lake,saltlakecommunitycollege,tratonstahelirshf,Traton Staheli
-Apr 22,home,Southern Idaho,L,6-5,6,5,1,win,20230422_55rn,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Salt Lake,saltlakecommunitycollege,tratonstahelirshf,Traton Staheli
-Apr 28,home,Utah State Eastern,W,13-1,13,1,12,win,20230428_cgv5,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Salt Lake,saltlakecommunitycollege,tratonstahelirshf,Traton Staheli
-Apr 29,home,Utah State Eastern,L,4-1,4,1,3,win,20230429_paq7,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Salt Lake,saltlakecommunitycollege,tratonstahelirshf,Traton Staheli
-Apr 29,home,Utah State Eastern,W,12-5,12,5,7,win,20230429_3q3w,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Salt Lake,saltlakecommunitycollege,tratonstahelirshf,Traton Staheli
-May 10,home,Southern Idaho,W,6-2,6,2,4,win,20230510_ez7n,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Salt Lake,saltlakecommunitycollege,tratonstahelirshf,Traton Staheli
-May 11,home,Southern Nevada,L,13-5,13,5,8,win,20230511_to8k,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Salt Lake,saltlakecommunitycollege,tratonstahelirshf,Traton Staheli
-May 11,home,Southern Idaho,W,6-1,6,1,5,win,20230511_apbl,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Salt Lake,saltlakecommunitycollege,tratonstahelirshf,Traton Staheli
-May 12,home,Southern Nevada,W,7-2,7,2,5,win,20230512_gfm3,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Salt Lake,saltlakecommunitycollege,tratonstahelirshf,Traton Staheli
-May 12,home,Southern Nevada,W,4-1,4,1,3,win,20230512_qwg1,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Salt Lake,saltlakecommunitycollege,tratonstahelirshf,Traton Staheli
-May 18,home,Southeast,W,13-3,13,3,10,win,20230518_cbz0,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Salt Lake,saltlakecommunitycollege,tratonstahelirshf,Traton Staheli
-May 19,home,Pima,W,7-5,7,5,2,win,20230519_6yd8,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Salt Lake,saltlakecommunitycollege,tratonstahelirshf,Traton Staheli
-May 20,home,Southeast,L,15-6,15,6,9,win,20230520_vdjq,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Salt Lake,saltlakecommunitycollege,tratonstahelirshf,Traton Staheli
-May 20,home,Southeast,W,14-1,14,1,13,win,20230520_ddx2,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Salt Lake,saltlakecommunitycollege,tratonstahelirshf,Traton Staheli
-May 27,home,Wabash Valley,L,9-8,9,8,1,win,20230527_rief,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Salt Lake,saltlakecommunitycollege,tratonstahelirshf,Traton Staheli
-May 28,home,Johnson County,L,16-4,16,4,12,win,20230528_2mr0,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Salt Lake,saltlakecommunitycollege,tratonstahelirshf,Traton Staheli
+Feb 3,home,GateWay (AZ),W,7-2,7,2,5,win,20230203_9z2q,0,0,0,0,1.0,1,,,0.00,,1,2023,2022-23,div1,Salt Lake,saltlakecommunitycollege,tratonstahelirshf,Traton Staheli
+Mar 3,home,Southern Nevada,W,8-1,8,1,7,win,20230303_9wby,1,1,0,0,5.0,3,1,1,1.80,3,2,2023,2022-23,div1,Salt Lake,saltlakecommunitycollege,tratonstahelirshf,Traton Staheli
+Mar 12,home,Colorado Northwestern,W,7-6,7,6,1,win,20230312_kvcx,1,0,0,0,3.1,5,6,6,16.20,3,3,2023,2022-23,div1,Salt Lake,saltlakecommunitycollege,tratonstahelirshf,Traton Staheli
+Mar 17,home,Southern Idaho,W,11-6,11,6,5,win,20230317_pw8w,1,1,0,0,5.0,2,1,1,1.80,3,3,2023,2022-23,div1,Salt Lake,saltlakecommunitycollege,tratonstahelirshf,Traton Staheli
+Mar 27,home,Utah State Eastern,W,8-6,8,6,2,win,20230327_wr0k,1,0,0,0,5.0,2,2,1,1.80,2,7,2023,2022-23,div1,Salt Lake,saltlakecommunitycollege,tratonstahelirshf,Traton Staheli
+Apr 9,home,Southern Nevada,L,5-2,5,2,3,win,20230409_328o,1,0,1,0,5.1,4,5,4,6.75,7,1,2023,2022-23,div1,Salt Lake,saltlakecommunitycollege,tratonstahelirshf,Traton Staheli
+Apr 15,home,Colorado Northwestern,W,14-1,14,1,13,win,20230415_qxix,1,1,0,0,5.0,5,0,0,0.00,3,4,2023,2022-23,div1,Salt Lake,saltlakecommunitycollege,tratonstahelirshf,Traton Staheli
+Apr 21,home,Southern Idaho,W,7-5,7,5,2,win,20230421_f60g,1,1,0,0,7.0,1,0,0,0.00,2,8,2023,2022-23,div1,Salt Lake,saltlakecommunitycollege,tratonstahelirshf,Traton Staheli
+Apr 28,home,Utah State Eastern,L,6-5,6,5,1,win,20230428_46aa,1,0,0,0,6.0,6,1,1,1.50,3,8,2023,2022-23,div1,Salt Lake,saltlakecommunitycollege,tratonstahelirshf,Traton Staheli
+May 11,home,Southern Nevada,L,13-5,13,5,8,win,20230511_to8k,1,0,1,0,4.1,8,9,9,18.69,2,0,2023,2022-23,div1,Salt Lake,saltlakecommunitycollege,tratonstahelirshf,Traton Staheli
+May 20,home,Southeast,W,14-1,14,1,13,win,20230520_ddx2,1,1,0,0,7.2,2,1,1,1.17,3,9,2023,2022-23,div1,Salt Lake,saltlakecommunitycollege,tratonstahelirshf,Traton Staheli
+May 28,home,Johnson County,L,16-4,16,4,12,win,20230528_2mr0,0,0,0,0,0.2,2,3,3,40.50,3,0,2023,2022-23,div1,Salt Lake,saltlakecommunitycollege,tratonstahelirshf,Traton Staheli

@@ -1,24 +1,7 @@
 date,location,opponent,result,score,team_score,opp_score,game_score_diff,game_win_loss,game_id,TC,PO,A,E,FPCT,DP,SBA,RCS,RCS_PCT,PB,CI,season,njcaa_season,njcaa_division,team,team_id,player_id,player_name
-Feb 9,home,Snead State,W,6-4,6,4,2,win,20230209_y1wg,0,0,0,1,0.2,,,,0.00,,1,2023,2022-23,div2,East Mississippi,eastmississippicommunitycollege,coopergarrisonscms,Cooper Garrison
-Feb 12,home,Snead State,W,11-9,11,9,2,win,20230212_iwo1,0,0,0,1,0.2,,,,0.00,,1,2023,2022-23,div2,East Mississippi,eastmississippicommunitycollege,coopergarrisonscms,Cooper Garrison
-Feb 18,home,St. Johns River State,W,2-1,2,1,1,win,20230218_dd4n,0,1,0,0,4.2,,,,0.00,2,6,2023,2022-23,div2,East Mississippi,eastmississippicommunitycollege,coopergarrisonscms,Cooper Garrison
-Feb 21,home,Mississippi Delta,L,11-9,11,9,2,win,20230221_6hzu,0,0,1,0,0.2,2,2,2,27.00,,,2023,2022-23,div2,East Mississippi,eastmississippicommunitycollege,coopergarrisonscms,Cooper Garrison
-Feb 25,home,Wallace-Selma,W,3-2,3,2,1,win,20230225_sp62,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div2,East Mississippi,eastmississippicommunitycollege,coopergarrisonscms,Cooper Garrison
-Feb 25,home,Shelton State,L,6-4,6,4,2,win,20230225_iht7,0,0,1,0,0.0,1,2,2,INF,,,2023,2022-23,div2,East Mississippi,eastmississippicommunitycollege,coopergarrisonscms,Cooper Garrison
-Feb 28,home,Meridian,L,3-2,3,2,1,win,20230228_me6b,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div2,East Mississippi,eastmississippicommunitycollege,coopergarrisonscms,Cooper Garrison
-Feb 28,home,East Central (MS),W,8-6,8,6,2,win,20230228_dl79,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div2,East Mississippi,eastmississippicommunitycollege,coopergarrisonscms,Cooper Garrison
-Mar 4,home,Lawson State,W,11-5,11,5,6,win,20230304_g53u,0,0,0,0,1.2,1,,,0.00,1,2,2023,2022-23,div2,East Mississippi,eastmississippicommunitycollege,coopergarrisonscms,Cooper Garrison
-Mar 7,home,Copiah-Lincoln,W,6-4,6,4,2,win,20230307_b9s7,0,1,0,0,1.2,0,0,0,0.00,0,1,2023,2022-23,div2,East Mississippi,eastmississippicommunitycollege,coopergarrisonscms,Cooper Garrison
-Mar 11,home,Hinds,L,11-4,11,4,7,win,20230311_8m2s,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div2,East Mississippi,eastmississippicommunitycollege,coopergarrisonscms,Cooper Garrison
-Mar 16,home,Mississippi Delta,L,12-11,12,11,1,win,20230316_sso6,0,0,0,0,2.2,1,2,2,6.75,2,1,2023,2022-23,div2,East Mississippi,eastmississippicommunitycollege,coopergarrisonscms,Cooper Garrison
-Mar 18,home,Jones,L,7-6,7,6,1,win,20230318_282y,0,0,0,0,2.0,1,,,0.00,,,2023,2022-23,div2,East Mississippi,eastmississippicommunitycollege,coopergarrisonscms,Cooper Garrison
-Mar 21,home,Holmes,L,8-7,8,7,1,win,20230321_qi3b,0,0,0,0,0.2,5,2,2,27.00,,,2023,2022-23,div2,East Mississippi,eastmississippicommunitycollege,coopergarrisonscms,Cooper Garrison
-Mar 27,home,Shelton State,W,9-7,9,7,2,win,20230327_fepr,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div2,East Mississippi,eastmississippicommunitycollege,coopergarrisonscms,Cooper Garrison
-Mar 29,home,Coahoma,W,16-5,16,5,11,win,20230329_26o6,0,0,0,0,2.0,4,2,,0.00,1,1,2023,2022-23,div2,East Mississippi,eastmississippicommunitycollege,coopergarrisonscms,Cooper Garrison
-Apr 1,home,Mississippi Gulf Coast,W,6-2,6,2,4,win,20230401_ecg6,0,1,0,0,3.0,,,,0.00,1,2,2023,2022-23,div2,East Mississippi,eastmississippicommunitycollege,coopergarrisonscms,Cooper Garrison
-Apr 4,home,Northeast Mississippi,W,13-5,13,5,8,win,20230404_tflz,0,1,0,0,5.0,8,3,3,5.40,,4,2023,2022-23,div2,East Mississippi,eastmississippicommunitycollege,coopergarrisonscms,Cooper Garrison
-Apr 12,home,Itawamba,L,7-6,7,6,1,win,20230412_omlf,1,0,0,0,4.1,5,6,5,10.38,4,3,2023,2022-23,div2,East Mississippi,eastmississippicommunitycollege,coopergarrisonscms,Cooper Garrison
-Apr 15,home,Southwest Mississippi,W,9-5,9,5,4,win,20230415_f1n7,0,0,0,0,2.2,2,1,1,3.38,,2,2023,2022-23,div2,East Mississippi,eastmississippicommunitycollege,coopergarrisonscms,Cooper Garrison
-Apr 18,home,Northwest Mississippi,W,14-6,14,6,8,win,20230418_vweu,0,1,0,0,3.1,2,,,0.00,,2,2023,2022-23,div2,East Mississippi,eastmississippicommunitycollege,coopergarrisonscms,Cooper Garrison
-Apr 22,home,Copiah-Lincoln,W,8-6,8,6,2,win,20230422_6vs6,0,0,0,1,4.2,6,3,3,5.79,4,1,2023,2022-23,div2,East Mississippi,eastmississippicommunitycollege,coopergarrisonscms,Cooper Garrison
-May 5,home,Meridian,L,9-1,9,1,8,win,20230505_htag,0,0,0,0,0.2,1,,,0.00,,,2023,2022-23,div2,East Mississippi,eastmississippicommunitycollege,coopergarrisonscms,Cooper Garrison
+Mar 5,home,Triton,L,8-3,8,3,5,win,20230305_ga1e,0,0,1,0,0.1,4,4,4,108.00,1,,2023,2022-23,div2,East Mississippi,eastmississippicommunitycollege,coopergarrisonscms,Cooper Garrison
+Mar 16,home,Holyoke,W,28-5,28,5,23,win,20230316_jm93,0,0,0,0,1.0,1,,,0.00,,2,2023,2022-23,div2,East Mississippi,eastmississippicommunitycollege,coopergarrisonscms,Cooper Garrison
+Mar 28,home,Aurora University JV,L,21-10,21,10,11,win,20230328_ykdt,0,0,0,0,1.1,,1,,0.00,,3,2023,2022-23,div2,East Mississippi,eastmississippicommunitycollege,coopergarrisonscms,Cooper Garrison
+Apr 7,home,Bryant & Stratton College (WI),L,18-8,18,8,10,win,20230407_graq,0,0,0,0,1.0,3,2,2,18.00,1,,2023,2022-23,div2,East Mississippi,eastmississippicommunitycollege,coopergarrisonscms,Cooper Garrison
+Apr 10,home,Lake County,W,7-0,7,0,7,win,20230410_t48g,0,0,0,0,1.1,4,4,4,27.00,1,,2023,2022-23,div2,East Mississippi,eastmississippicommunitycollege,coopergarrisonscms,Cooper Garrison
+Apr 15,home,Moraine Valley,L,12-5,12,5,7,win,20230415_ucms,0,0,0,0,1.2,2,3,3,16.20,,2,2023,2022-23,div2,East Mississippi,eastmississippicommunitycollege,coopergarrisonscms,Cooper Garrison

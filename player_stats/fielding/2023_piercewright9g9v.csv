@@ -1,18 +1,12 @@
 date,location,opponent,result,score,team_score,opp_score,game_score_diff,game_win_loss,game_id,TC,PO,A,E,FPCT,DP,SBA,RCS,RCS_PCT,PB,CI,season,njcaa_season,njcaa_division,team,team_id,player_id,player_name
-Feb 5,home,Northern Oklahoma Enid,W,14-4,14,4,10,win,20230205_9xpl,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div2,Northeast,northeastcommunitycollege,piercewright9g9v,Pierce Wright
-Feb 12,home,Allen County,W,9-0,9,0,9,win,20230212_rk98,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div2,Northeast,northeastcommunitycollege,piercewright9g9v,Pierce Wright
-Feb 18,home,Neosho County,L,10-8,10,8,2,win,20230218_ly5v,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div2,Northeast,northeastcommunitycollege,piercewright9g9v,Pierce Wright
-Mar 6,home,Southern Nazarene University JV,W,4-0,4,0,4,win,20230306_e1vh,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div2,Northeast,northeastcommunitycollege,piercewright9g9v,Pierce Wright
-Mar 15,home,Mount Marty University JV,W,11-5,11,5,6,win,20230315_b4ig,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div2,Northeast,northeastcommunitycollege,piercewright9g9v,Pierce Wright
-Mar 19,home,Lake Region State,W,26-0,26,0,26,win,20230319_rzin,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div2,Northeast,northeastcommunitycollege,piercewright9g9v,Pierce Wright
-Mar 20,home,Lake Region State,W,6-5,6,5,1,win,20230320_dk71,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div2,Northeast,northeastcommunitycollege,piercewright9g9v,Pierce Wright
-Mar 24,home,Marshalltown,W,16-5,16,5,11,win,20230324_78mc,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div2,Northeast,northeastcommunitycollege,piercewright9g9v,Pierce Wright
-Mar 29,home,Iowa Lakes,W,14-4,14,4,10,win,20230329_tkly,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div2,Northeast,northeastcommunitycollege,piercewright9g9v,Pierce Wright
-Apr 3,home,Kirkwood,W,7-6,7,6,1,win,20230403_bwwo,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div2,Northeast,northeastcommunitycollege,piercewright9g9v,Pierce Wright
-Apr 4,home,Des Moines Area,W,20-5,20,5,15,win,20230404_iysq,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div2,Northeast,northeastcommunitycollege,piercewright9g9v,Pierce Wright
-Apr 7,home,Southwestern,W,17-8,17,8,9,win,20230407_dq3t,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div2,Northeast,northeastcommunitycollege,piercewright9g9v,Pierce Wright
-Apr 7,home,Southwestern,W,19-4,19,4,15,win,20230407_vq28,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div2,Northeast,northeastcommunitycollege,piercewright9g9v,Pierce Wright
-Apr 8,home,Southwestern,W,15-3,15,3,12,win,20230408_ljy5,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div2,Northeast,northeastcommunitycollege,piercewright9g9v,Pierce Wright
-Apr 10,home,McCook,L,9-5,9,5,4,win,20230410_syhz,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div2,Northeast,northeastcommunitycollege,piercewright9g9v,Pierce Wright
-May 7,home,Iowa Western,L,10-3,10,3,7,win,20230507_cttw,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div2,Northeast,northeastcommunitycollege,piercewright9g9v,Pierce Wright
-May 12,home,North Iowa Area,W,8-7,8,7,1,win,20230512_7yy6,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div2,Northeast,northeastcommunitycollege,piercewright9g9v,Pierce Wright
+Feb 28,home,Combine Academy,W,7-4,7,4,3,win,20230228_qqmt,0,0,0,0,3.0,1,3,1,3.00,4,1,2023,2022-23,div2,Northeast,northeastcommunitycollege,piercewright9g9v,Pierce Wright
+Mar 7,home,Harford,W,7-4,7,4,3,win,20230307_ob23,0,0,0,0,2.0,1,,,0.00,1,,2023,2022-23,div2,Northeast,northeastcommunitycollege,piercewright9g9v,Pierce Wright
+Mar 12,home,Cayuga,L,7-3,7,3,4,win,20230312_zp5s,0,0,0,0,1.0,2,5,5,45.00,3,,2023,2022-23,div2,Northeast,northeastcommunitycollege,piercewright9g9v,Pierce Wright
+Mar 22,home,CCBC Catonsville,L,9-8,9,8,1,win,20230322_71rt,1,0,0,0,5.1,4,5,5,8.44,5,1,2023,2022-23,div2,Northeast,northeastcommunitycollege,piercewright9g9v,Pierce Wright
+Mar 28,home,Anne Arundel,L,5-4,5,4,1,win,20230328_749s,1,0,0,0,4.0,1,2,2,4.50,4,3,2023,2022-23,div2,Northeast,northeastcommunitycollege,piercewright9g9v,Pierce Wright
+Apr 4,home,Camp,W,7-6,7,6,1,win,20230404_7rwz,0,0,0,0,1.0,1,1,0,0.00,2,0,2023,2022-23,div2,Northeast,northeastcommunitycollege,piercewright9g9v,Pierce Wright
+Apr 8,home,Cecil,W,3-2,3,2,1,win,20230408_0gmq,1,0,0,0,5.2,4,2,0,0.00,3,5,2023,2022-23,div2,Northeast,northeastcommunitycollege,piercewright9g9v,Pierce Wright
+Apr 13,home,Garrett,L,6-4,6,4,2,win,20230413_uhs3,0,0,1,0,3.1,6,3,3,8.10,,3,2023,2022-23,div2,Northeast,northeastcommunitycollege,piercewright9g9v,Pierce Wright
+Apr 22,home,CCBC Dundalk,W,11-5,11,5,6,win,20230422_oq5g,1,0,0,0,2.0,5,3,3,13.50,2,2,2023,2022-23,div2,Northeast,northeastcommunitycollege,piercewright9g9v,Pierce Wright
+Apr 29,home,Frederick,L,6-1,6,1,5,win,20230429_2jwr,0,0,0,0,1.1,2,1,1,6.75,,,2023,2022-23,div2,Northeast,northeastcommunitycollege,piercewright9g9v,Pierce Wright
+May 13,home,Anne Arundel,W,10-1,10,1,9,win,20230513_tx60,1,1,0,0,7.0,2,1,1,1.29,1,6,2023,2022-23,div2,Northeast,northeastcommunitycollege,piercewright9g9v,Pierce Wright

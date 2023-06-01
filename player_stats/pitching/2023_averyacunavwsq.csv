@@ -1,40 +1,5 @@
 date,location,opponent,result,score,team_score,opp_score,game_score_diff,game_win_loss,game_id,GS,W,L,SV,IP,H,R,ER,ERA,BB,K,HR,season,njcaa_season,njcaa_division,team,team_id,player_id,player_name
-May 14,home,Northern Essex,L,29-10,29,10,19,win,20230514_918n,0,0,0,0,1.1,3,9,9,60.75,3,1,,2023,2022-23,div3,Rhode Island,communitycollegeofrhodeisland,averyacunavwsq,Avery Acuna
-May 13,home,Massasoit,W,7-6,7,6,1,win,20230513_8urm,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div3,Rhode Island,communitycollegeofrhodeisland,averyacunavwsq,Avery Acuna
-May 13,home,Northern Essex,L,11-9,11,9,2,win,20230513_8r4m,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div3,Rhode Island,communitycollegeofrhodeisland,averyacunavwsq,Avery Acuna
-May 11,home,Massasoit,W,10-6,10,6,4,win,20230511_d22t,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div3,Rhode Island,communitycollegeofrhodeisland,averyacunavwsq,Avery Acuna
-May 7,home,Quinsigamond,W,14-7,14,7,7,win,20230507_3yw0,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div3,Rhode Island,communitycollegeofrhodeisland,averyacunavwsq,Avery Acuna
-May 6,home,Massasoit,W,10-0,10,0,10,win,20230506_7dkh,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div3,Rhode Island,communitycollegeofrhodeisland,averyacunavwsq,Avery Acuna
-May 4,home,Massasoit,W,18-6,18,6,12,win,20230504_cd8l,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div3,Rhode Island,communitycollegeofrhodeisland,averyacunavwsq,Avery Acuna
-May 4,home,Massasoit,L,3-2,3,2,1,win,20230504_b0l6,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div3,Rhode Island,communitycollegeofrhodeisland,averyacunavwsq,Avery Acuna
-Apr 27,home,Quinsigamond,W,12-6,12,6,6,win,20230427_cz5i,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div3,Rhode Island,communitycollegeofrhodeisland,averyacunavwsq,Avery Acuna
-Apr 26,home,New Hampshire Technical Institute,W,16-0,16,0,16,win,20230426_u747,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div3,Rhode Island,communitycollegeofrhodeisland,averyacunavwsq,Avery Acuna
-Apr 26,home,New Hampshire Technical Institute,W,15-9,15,9,6,win,20230426_zyqr,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div3,Rhode Island,communitycollegeofrhodeisland,averyacunavwsq,Avery Acuna
-Apr 20,home,Bunker Hill,W,19-4,19,4,15,win,20230420_dkz8,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div3,Rhode Island,communitycollegeofrhodeisland,averyacunavwsq,Avery Acuna
-Apr 18,home,UConn Avery Point,L,14-7,14,7,7,win,20230418_x90y,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div3,Rhode Island,communitycollegeofrhodeisland,averyacunavwsq,Avery Acuna
-Apr 16,home,University of St. Joseph,L,5-3,5,3,2,win,20230416_sk5y,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div3,Rhode Island,communitycollegeofrhodeisland,averyacunavwsq,Avery Acuna
-Apr 16,home,University of St. Joseph's,L,12-1,12,1,11,win,20230416_2eso,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div3,Rhode Island,communitycollegeofrhodeisland,averyacunavwsq,Avery Acuna
-Apr 15,home,Northern Essex,L,5-4,5,4,1,win,20230415_e4vf,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div3,Rhode Island,communitycollegeofrhodeisland,averyacunavwsq,Avery Acuna
-Apr 15,home,Northern Essex,L,6-1,6,1,5,win,20230415_1a04,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div3,Rhode Island,communitycollegeofrhodeisland,averyacunavwsq,Avery Acuna
-Apr 13,home,Northern Essex,W,5-3,5,3,2,win,20230413_fzom,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div3,Rhode Island,communitycollegeofrhodeisland,averyacunavwsq,Avery Acuna
-Apr 8,home,Holyoke,W,19-1,19,1,18,win,20230408_jkll,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div3,Rhode Island,communitycollegeofrhodeisland,averyacunavwsq,Avery Acuna
-Apr 8,home,Holyoke,W,4-0,4,0,4,win,20230408_h1w3,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div3,Rhode Island,communitycollegeofrhodeisland,averyacunavwsq,Avery Acuna
-Apr 6,home,Holyoke,W,2-1,2,1,1,win,20230406_6h34,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div3,Rhode Island,communitycollegeofrhodeisland,averyacunavwsq,Avery Acuna
-Apr 5,home,University of St. Joseph,W,21-11,21,11,10,win,20230405_uuky,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div3,Rhode Island,communitycollegeofrhodeisland,averyacunavwsq,Avery Acuna
-Apr 4,home,UConn Avery Point,L,10-8,10,8,2,win,20230404_ahdz,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div3,Rhode Island,communitycollegeofrhodeisland,averyacunavwsq,Avery Acuna
-Apr 3,home,Southern Maine Community College,W,12-10,12,10,2,win,20230403_6th4,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div3,Rhode Island,communitycollegeofrhodeisland,averyacunavwsq,Avery Acuna
-Apr 2,home,Roxbury,W,19-0,19,0,19,win,20230402_4gyi,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div3,Rhode Island,communitycollegeofrhodeisland,averyacunavwsq,Avery Acuna
-Mar 31,home,Southern Maine Community College,W,3-0,3,0,3,win,20230331_8oc1,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div3,Rhode Island,communitycollegeofrhodeisland,averyacunavwsq,Avery Acuna
+May 7,home,Quinsigamond,W,14-7,14,7,7,win,20230507_3yw0,0,0,0,0,0.1,1,4,4,108.00,6,,,2023,2022-23,div3,Rhode Island,communitycollegeofrhodeisland,averyacunavwsq,Avery Acuna
+Apr 20,home,Bunker Hill,W,19-4,19,4,15,win,20230420_dkz8,1,0,0,0,2.1,3,4,4,15.43,9,2,,2023,2022-23,div3,Rhode Island,communitycollegeofrhodeisland,averyacunavwsq,Avery Acuna
 Mar 30,home,Roxbury,W,40-6,40,6,34,win,20230330_i1qy,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div3,Rhode Island,communitycollegeofrhodeisland,averyacunavwsq,Avery Acuna
-Mar 26,home,Quincy College,W,12-0,12,0,12,win,20230326_ag82,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div3,Rhode Island,communitycollegeofrhodeisland,averyacunavwsq,Avery Acuna
-Mar 26,home,Quincy College,W,6-1,6,1,5,win,20230326_eow7,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div3,Rhode Island,communitycollegeofrhodeisland,averyacunavwsq,Avery Acuna
-Mar 23,home,Quincy College,W,4-3,4,3,1,win,20230323_zrif,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div3,Rhode Island,communitycollegeofrhodeisland,averyacunavwsq,Avery Acuna
-Mar 17,home,Morris,L,13-9,13,9,4,win,20230317_9k8x,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div3,Rhode Island,communitycollegeofrhodeisland,averyacunavwsq,Avery Acuna
-Mar 17,home,Sussex County,L,4-0,4,0,4,win,20230317_l8ku,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div3,Rhode Island,communitycollegeofrhodeisland,averyacunavwsq,Avery Acuna
-Mar 16,home,Ocean County,L,3-2,3,2,1,win,20230316_vsiz,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div3,Rhode Island,communitycollegeofrhodeisland,averyacunavwsq,Avery Acuna
-Mar 16,home,Ocean County,L,4-3,4,3,1,win,20230316_6fyw,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div3,Rhode Island,communitycollegeofrhodeisland,averyacunavwsq,Avery Acuna
-Mar 15,home,Montgomery County,L,1-0,1,0,1,win,20230315_yred,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div3,Rhode Island,communitycollegeofrhodeisland,averyacunavwsq,Avery Acuna
-Mar 14,home,Middlesex College,L,10-1,10,1,9,win,20230314_59j1,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div3,Rhode Island,communitycollegeofrhodeisland,averyacunavwsq,Avery Acuna
-Mar 14,home,Sullivan County,W,7-6,7,6,1,win,20230314_zg0e,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div3,Rhode Island,communitycollegeofrhodeisland,averyacunavwsq,Avery Acuna
-Mar 13,home,Brookdale,L,16-0,16,0,16,win,20230313_in5c,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div3,Rhode Island,communitycollegeofrhodeisland,averyacunavwsq,Avery Acuna
-Mar 13,home,Brookdale,L,7-0,7,0,7,win,20230313_olqv,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div3,Rhode Island,communitycollegeofrhodeisland,averyacunavwsq,Avery Acuna
+Mar 14,home,Middlesex College,L,10-1,10,1,9,win,20230314_59j1,1,0,1,0,0.0,0,1,1,INF,2,0,,2023,2022-23,div3,Rhode Island,communitycollegeofrhodeisland,averyacunavwsq,Avery Acuna

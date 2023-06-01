@@ -1,21 +1,55 @@
 date,location,opponent,result,score,team_score,opp_score,game_score_diff,game_win_loss,game_id,TC,PO,A,E,FPCT,DP,SBA,RCS,RCS_PCT,PB,CI,season,njcaa_season,njcaa_division,team,team_id,player_id,player_name
-Feb 4,home,Southern Nevada,W,7-6,7,6,1,win,20230204_t5h2,0,0,0,0,0.2,,2,,0.00,4,,2023,2022-23,div2,GateWay (AZ),gatewaycommunitycollegeaz,kaedenmooreyn9t,Kaeden Moore
-Feb 8,home,Scottsdale Post Grad,W,12-2,12,2,10,win,20230208_5d42,0,0,0,0,1.0,1,,,0.00,,2,2023,2022-23,div2,GateWay (AZ),gatewaycommunitycollegeaz,kaedenmooreyn9t,Kaeden Moore
-Feb 15,home,Glendale,L,5-4,5,4,1,win,20230215_ql98,0,0,0,0,2.1,1,1,,0.00,3,2,2023,2022-23,div2,GateWay (AZ),gatewaycommunitycollegeaz,kaedenmooreyn9t,Kaeden Moore
-Feb 18,home,Chandler-Gilbert,L,9-6,9,6,3,win,20230218_mxxy,0,0,0,0,1.1,1,,,0.00,,3,2023,2022-23,div2,GateWay (AZ),gatewaycommunitycollegeaz,kaedenmooreyn9t,Kaeden Moore
-Feb 25,home,Mesa,W,6-1,6,1,5,win,20230225_8ckk,0,0,0,0,1.0,2,,,0.00,1,2,2023,2022-23,div2,GateWay (AZ),gatewaycommunitycollegeaz,kaedenmooreyn9t,Kaeden Moore
-Mar 1,home,Central Arizona,L,11-1,11,1,10,win,20230301_j52d,0,0,0,0,2.0,2,2,2,9.00,3,2,2023,2022-23,div2,GateWay (AZ),gatewaycommunitycollegeaz,kaedenmooreyn9t,Kaeden Moore
-Mar 7,home,Central Arizona,L,8-6,8,6,2,win,20230307_zf15,0,0,0,0,0.2,3,4,1,13.50,1,2,2023,2022-23,div2,GateWay (AZ),gatewaycommunitycollegeaz,kaedenmooreyn9t,Kaeden Moore
-Mar 17,home,Madison,L,6-1,6,1,5,win,20230317_fqxd,0,0,0,0,1.0,1,,,0.00,,,2023,2022-23,div2,GateWay (AZ),gatewaycommunitycollegeaz,kaedenmooreyn9t,Kaeden Moore
-Mar 21,home,Eastern Arizona,W,14-9,14,9,5,win,20230321_8lmu,0,0,0,1,3.0,3,,,0.00,1,3,2023,2022-23,div2,GateWay (AZ),gatewaycommunitycollegeaz,kaedenmooreyn9t,Kaeden Moore
-Mar 24,home,Pima,L,15-2,15,2,13,win,20230324_3v2q,0,0,0,0,1.1,5,6,5,33.75,2,2,2023,2022-23,div2,GateWay (AZ),gatewaycommunitycollegeaz,kaedenmooreyn9t,Kaeden Moore
-Mar 29,home,South Mountain,L,11-2,11,2,9,win,20230329_wbg2,0,0,0,0,1.2,5,2,2,10.80,,1,2023,2022-23,div2,GateWay (AZ),gatewaycommunitycollegeaz,kaedenmooreyn9t,Kaeden Moore
-Mar 31,home,Yavapai,W,9-0,9,0,9,win,20230331_so19,0,0,0,0,1.0,,,,0.00,1,2,2023,2022-23,div2,GateWay (AZ),gatewaycommunitycollegeaz,kaedenmooreyn9t,Kaeden Moore
-Apr 4,home,Arizona Western,W,7-6,7,6,1,win,20230404_m84w,0,0,0,0,3.1,3,2,2,5.40,1,3,2023,2022-23,div2,GateWay (AZ),gatewaycommunitycollegeaz,kaedenmooreyn9t,Kaeden Moore
-Apr 7,home,Paradise Valley,W,11-10,11,10,1,win,20230407_o65a,0,0,0,0,0.2,1,3,3,40.50,2,1,2023,2022-23,div2,GateWay (AZ),gatewaycommunitycollegeaz,kaedenmooreyn9t,Kaeden Moore
-Apr 12,home,Glendale,L,12-8,12,8,4,win,20230412_nbvg,0,0,1,0,1.0,2,3,2,18.00,1,1,2023,2022-23,div2,GateWay (AZ),gatewaycommunitycollegeaz,kaedenmooreyn9t,Kaeden Moore
-Apr 15,home,Chandler-Gilbert,L,11-5,11,5,6,win,20230415_7ln6,0,0,0,0,2.1,3,3,1,3.86,2,3,2023,2022-23,div2,GateWay (AZ),gatewaycommunitycollegeaz,kaedenmooreyn9t,Kaeden Moore
-Apr 18,home,Phoenix,W,11-5,11,5,6,win,20230418_kuzy,0,0,0,0,1.0,2,,,0.00,,1,2023,2022-23,div2,GateWay (AZ),gatewaycommunitycollegeaz,kaedenmooreyn9t,Kaeden Moore
-Apr 22,home,Mesa,W,12-5,12,5,7,win,20230422_csi3,0,0,0,0,1.0,,,,0.00,1,2,2023,2022-23,div2,GateWay (AZ),gatewaycommunitycollegeaz,kaedenmooreyn9t,Kaeden Moore
-Apr 26,home,Central Arizona,W,10-9,10,9,1,win,20230426_olrp,0,0,0,0,1.0,,,,0.00,,1,2023,2022-23,div2,GateWay (AZ),gatewaycommunitycollegeaz,kaedenmooreyn9t,Kaeden Moore
-May 4,home,Glendale,L,10-2,10,2,8,win,20230504_1zfy,0,0,0,0,0.2,2,4,4,54.00,3,,2023,2022-23,div2,GateWay (AZ),gatewaycommunitycollegeaz,kaedenmooreyn9t,Kaeden Moore
+Jan 31,home,ACU JV,W,9-6,9,6,3,win,20230131_kody,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div2,GateWay (AZ),gatewaycommunitycollegeaz,kaedenmooreyn9t,Kaeden Moore
+Feb 3,home,Salt Lake,L,7-2,7,2,5,win,20230203_9z2q,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div2,GateWay (AZ),gatewaycommunitycollegeaz,kaedenmooreyn9t,Kaeden Moore
+Feb 4,home,Southern Nevada,W,7-6,7,6,1,win,20230204_t5h2,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div2,GateWay (AZ),gatewaycommunitycollegeaz,kaedenmooreyn9t,Kaeden Moore
+Feb 5,home,El Paso,W,6-5,6,5,1,win,20230205_krdc,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div2,GateWay (AZ),gatewaycommunitycollegeaz,kaedenmooreyn9t,Kaeden Moore
+Feb 8,home,Scottsdale Post Grad,W,12-2,12,2,10,win,20230208_5d42,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div2,GateWay (AZ),gatewaycommunitycollegeaz,kaedenmooreyn9t,Kaeden Moore
+Feb 10,home,Paradise Valley,L,1-0,1,0,1,win,20230210_4h0g,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div2,GateWay (AZ),gatewaycommunitycollegeaz,kaedenmooreyn9t,Kaeden Moore
+Feb 11,home,Paradise Valley,W,8-4,8,4,4,win,20230211_52yh,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div2,GateWay (AZ),gatewaycommunitycollegeaz,kaedenmooreyn9t,Kaeden Moore
+Feb 14,home,Glendale,W,15-9,15,9,6,win,20230214_u90h,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div2,GateWay (AZ),gatewaycommunitycollegeaz,kaedenmooreyn9t,Kaeden Moore
+Feb 15,home,Glendale,L,5-4,5,4,1,win,20230215_ql98,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div2,GateWay (AZ),gatewaycommunitycollegeaz,kaedenmooreyn9t,Kaeden Moore
+Feb 17,home,Chandler-Gilbert,W,7-6,7,6,1,win,20230217_1hkw,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div2,GateWay (AZ),gatewaycommunitycollegeaz,kaedenmooreyn9t,Kaeden Moore
+Feb 18,home,Chandler-Gilbert,L,9-6,9,6,3,win,20230218_mxxy,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div2,GateWay (AZ),gatewaycommunitycollegeaz,kaedenmooreyn9t,Kaeden Moore
+Feb 22,home,Phoenix,W,5-2,5,2,3,win,20230222_5mr2,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div2,GateWay (AZ),gatewaycommunitycollegeaz,kaedenmooreyn9t,Kaeden Moore
+Feb 22,home,Phoenix,L,4-2,4,2,2,win,20230222_epmr,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div2,GateWay (AZ),gatewaycommunitycollegeaz,kaedenmooreyn9t,Kaeden Moore
+Feb 24,home,Mesa,L,4-3,4,3,1,win,20230224_j3mw,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div2,GateWay (AZ),gatewaycommunitycollegeaz,kaedenmooreyn9t,Kaeden Moore
+Feb 25,home,Mesa,W,6-1,6,1,5,win,20230225_8ckk,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div2,GateWay (AZ),gatewaycommunitycollegeaz,kaedenmooreyn9t,Kaeden Moore
+Feb 28,home,Central Arizona,L,9-0,9,0,9,win,20230228_zndh,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div2,GateWay (AZ),gatewaycommunitycollegeaz,kaedenmooreyn9t,Kaeden Moore
+Mar 1,home,Central Arizona,L,11-1,11,1,10,win,20230301_j52d,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div2,GateWay (AZ),gatewaycommunitycollegeaz,kaedenmooreyn9t,Kaeden Moore
+Mar 4,home,Scottsdale,L,1-0,1,0,1,win,20230304_djh5,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div2,GateWay (AZ),gatewaycommunitycollegeaz,kaedenmooreyn9t,Kaeden Moore
+Mar 4,home,Scottsdale,L,4-0,4,0,4,win,20230304_jw6s,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div2,GateWay (AZ),gatewaycommunitycollegeaz,kaedenmooreyn9t,Kaeden Moore
+Mar 7,home,Central Arizona,L,8-6,8,6,2,win,20230307_zf15,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div2,GateWay (AZ),gatewaycommunitycollegeaz,kaedenmooreyn9t,Kaeden Moore
+Mar 8,home,Ottawa University JV,L,9-8,9,8,1,win,20230308_osm8,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div2,GateWay (AZ),gatewaycommunitycollegeaz,kaedenmooreyn9t,Kaeden Moore
+Mar 11,home,Cochise,W,8-5,8,5,3,win,20230311_khgj,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div2,GateWay (AZ),gatewaycommunitycollegeaz,kaedenmooreyn9t,Kaeden Moore
+Mar 11,home,Cochise,L,11-4,11,4,7,win,20230311_h0c1,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div2,GateWay (AZ),gatewaycommunitycollegeaz,kaedenmooreyn9t,Kaeden Moore
+Mar 13,home,Okotok Dawgs,W,18-5,18,5,13,win,20230313_mim9,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div2,GateWay (AZ),gatewaycommunitycollegeaz,kaedenmooreyn9t,Kaeden Moore
+Mar 14,home,Benedictine JV,W,6-0,6,0,6,win,20230314_i719,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div2,GateWay (AZ),gatewaycommunitycollegeaz,kaedenmooreyn9t,Kaeden Moore
+Mar 17,home,Madison,L,6-1,6,1,5,win,20230317_fqxd,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div2,GateWay (AZ),gatewaycommunitycollegeaz,kaedenmooreyn9t,Kaeden Moore
+Mar 21,home,Eastern Arizona,L,4-0,4,0,4,win,20230321_ilvg,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div2,GateWay (AZ),gatewaycommunitycollegeaz,kaedenmooreyn9t,Kaeden Moore
+Mar 21,home,Eastern Arizona,W,14-9,14,9,5,win,20230321_8lmu,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div2,GateWay (AZ),gatewaycommunitycollegeaz,kaedenmooreyn9t,Kaeden Moore
+Mar 23,home,ACU JV,W,9-6,9,6,3,win,20230323_o62z,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div2,GateWay (AZ),gatewaycommunitycollegeaz,kaedenmooreyn9t,Kaeden Moore
+Mar 24,home,Pima,L,10-3,10,3,7,win,20230324_9xix,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div2,GateWay (AZ),gatewaycommunitycollegeaz,kaedenmooreyn9t,Kaeden Moore
+Mar 24,home,Pima,L,15-2,15,2,13,win,20230324_3v2q,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div2,GateWay (AZ),gatewaycommunitycollegeaz,kaedenmooreyn9t,Kaeden Moore
+Mar 28,home,South Mountain,L,13-3,13,3,10,win,20230328_v7g2,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div2,GateWay (AZ),gatewaycommunitycollegeaz,kaedenmooreyn9t,Kaeden Moore
+Mar 29,home,South Mountain,L,11-2,11,2,9,win,20230329_wbg2,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div2,GateWay (AZ),gatewaycommunitycollegeaz,kaedenmooreyn9t,Kaeden Moore
+Mar 31,home,Yavapai,W,7-6,7,6,1,win,20230331_jm32,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div2,GateWay (AZ),gatewaycommunitycollegeaz,kaedenmooreyn9t,Kaeden Moore
+Mar 31,home,Yavapai,W,9-0,9,0,9,win,20230331_so19,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div2,GateWay (AZ),gatewaycommunitycollegeaz,kaedenmooreyn9t,Kaeden Moore
+Apr 4,home,Arizona Western,L,2-0,2,0,2,win,20230404_p4pp,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div2,GateWay (AZ),gatewaycommunitycollegeaz,kaedenmooreyn9t,Kaeden Moore
+Apr 4,home,Arizona Western,W,7-6,7,6,1,win,20230404_m84w,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div2,GateWay (AZ),gatewaycommunitycollegeaz,kaedenmooreyn9t,Kaeden Moore
+Apr 7,home,Paradise Valley,W,11-10,11,10,1,win,20230407_o65a,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div2,GateWay (AZ),gatewaycommunitycollegeaz,kaedenmooreyn9t,Kaeden Moore
+Apr 8,home,Paradise Valley,W,7-1,7,1,6,win,20230408_ley9,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div2,GateWay (AZ),gatewaycommunitycollegeaz,kaedenmooreyn9t,Kaeden Moore
+Apr 11,home,Glendale,W,4-3,4,3,1,win,20230411_ulkm,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div2,GateWay (AZ),gatewaycommunitycollegeaz,kaedenmooreyn9t,Kaeden Moore
+Apr 12,home,Glendale,L,12-8,12,8,4,win,20230412_nbvg,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div2,GateWay (AZ),gatewaycommunitycollegeaz,kaedenmooreyn9t,Kaeden Moore
+Apr 14,home,Chandler-Gilbert,W,14-4,14,4,10,win,20230414_eloc,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div2,GateWay (AZ),gatewaycommunitycollegeaz,kaedenmooreyn9t,Kaeden Moore
+Apr 15,home,Chandler-Gilbert,L,11-5,11,5,6,win,20230415_7ln6,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div2,GateWay (AZ),gatewaycommunitycollegeaz,kaedenmooreyn9t,Kaeden Moore
+Apr 18,home,Phoenix,W,11-5,11,5,6,win,20230418_kuzy,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div2,GateWay (AZ),gatewaycommunitycollegeaz,kaedenmooreyn9t,Kaeden Moore
+Apr 19,home,Phoenix,W,9-8,9,8,1,win,20230419_pzmj,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div2,GateWay (AZ),gatewaycommunitycollegeaz,kaedenmooreyn9t,Kaeden Moore
+Apr 21,home,Mesa,W,30-9,30,9,21,win,20230421_2ary,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div2,GateWay (AZ),gatewaycommunitycollegeaz,kaedenmooreyn9t,Kaeden Moore
+Apr 22,home,Mesa,W,12-5,12,5,7,win,20230422_csi3,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div2,GateWay (AZ),gatewaycommunitycollegeaz,kaedenmooreyn9t,Kaeden Moore
+Apr 25,home,Central Arizona,L,3-2,3,2,1,win,20230425_rrim,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div2,GateWay (AZ),gatewaycommunitycollegeaz,kaedenmooreyn9t,Kaeden Moore
+Apr 26,home,Central Arizona,W,10-9,10,9,1,win,20230426_olrp,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div2,GateWay (AZ),gatewaycommunitycollegeaz,kaedenmooreyn9t,Kaeden Moore
+Apr 28,home,Scottsdale,W,20-19,20,19,1,win,20230428_68qd,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div2,GateWay (AZ),gatewaycommunitycollegeaz,kaedenmooreyn9t,Kaeden Moore
+Apr 28,home,Scottsdale,L,10-3,10,3,7,win,20230428_m10w,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div2,GateWay (AZ),gatewaycommunitycollegeaz,kaedenmooreyn9t,Kaeden Moore
+May 4,home,Glendale,L,10-2,10,2,8,win,20230504_1zfy,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div2,GateWay (AZ),gatewaycommunitycollegeaz,kaedenmooreyn9t,Kaeden Moore
+May 5,home,Glendale,W,7-2,7,2,5,win,20230505_ngzz,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div2,GateWay (AZ),gatewaycommunitycollegeaz,kaedenmooreyn9t,Kaeden Moore
+May 6,home,Glendale,L,11-5,11,5,6,win,20230506_kob6,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div2,GateWay (AZ),gatewaycommunitycollegeaz,kaedenmooreyn9t,Kaeden Moore

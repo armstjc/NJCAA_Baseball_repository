@@ -1,41 +1,33 @@
 date,location,opponent,result,score,team_score,opp_score,game_score_diff,game_win_loss,game_id,AB,R,H,2B,3B,HR,RBI,BB,K,SB,CS,HBP,SF,SH,TB,XBH,HDP,GO,FO,GO/FO,PA,season,njcaa_season,njcaa_division,team,team_id,player_id,player_name
-Feb 18,home,Southwest Virginia,W,12-0,12,0,12,win,20230218_rwu1,4,0,2,,,,0,,2,,,,,,2,0,,,,,4,2023,2022-23,div2,Lackawanna,lackawannacollege,ianmurphyjnyo,Ian Murphy
-Feb 19,home,Southwest Virginia,W,10-5,10,5,5,win,20230219_uf8c,2,0,0,,,,0,,1,,,,,,0,0,,1,,,2,2023,2022-23,div2,Lackawanna,lackawannacollege,ianmurphyjnyo,Ian Murphy
-Feb 23,home,Harford,W,10-6,10,6,4,win,20230223_dqbo,4,0,1,1,,,1,,1,,,,,,2,1,,2,,,4,2023,2022-23,div2,Lackawanna,lackawannacollege,ianmurphyjnyo,Ian Murphy
-Mar 5,home,Florence-Darlington Tech,W,10-5,10,5,5,win,20230305_9sus,4,1,3,2,0,1,8,0,0,0,0,0,0,0,8,3,,0,,,4,2023,2022-23,div2,Lackawanna,lackawannacollege,ianmurphyjnyo,Ian Murphy
-Mar 8,home,Wake Tech,W,15-10,15,10,5,win,20230308_ee3j,3,2,0,,,,0,2,,,,,,,0,0,,3,,,5,2023,2022-23,div2,Lackawanna,lackawannacollege,ianmurphyjnyo,Ian Murphy
-Mar 11,home,Bryant & Stratton (VA),W,13-3,13,3,10,win,20230311_qugr,4,3,3,0,0,2,4,1,0,0,0,0,0,0,9,2,,0,,,5,2023,2022-23,div2,Lackawanna,lackawannacollege,ianmurphyjnyo,Ian Murphy
-Mar 11,home,Bryant & Stratton (VA),W,16-1,16,1,15,win,20230311_pob0,3,2,1,1,0,0,2,0,0,0,0,1,0,0,2,1,,0,,,4,2023,2022-23,div2,Lackawanna,lackawannacollege,ianmurphyjnyo,Ian Murphy
-Mar 21,home,Sullivan County,W,14-4,14,4,10,win,20230321_k3sg,5,0,0,,,,0,,2,,,,,,0,0,,3,,,5,2023,2022-23,div2,Lackawanna,lackawannacollege,ianmurphyjnyo,Ian Murphy
-Mar 24,home,Morris,W,8-3,8,3,5,win,20230324_ds6y,4,2,2,1,,,1,1,,,,,,,3,1,,,2,,5,2023,2022-23,div2,Lackawanna,lackawannacollege,ianmurphyjnyo,Ian Murphy
-Mar 26,home,Morris,W,10-9,10,9,1,win,20230326_hrr0,3,2,2,,,,2,1,,,,,1,,2,0,,,2,,5,2023,2022-23,div2,Lackawanna,lackawannacollege,ianmurphyjnyo,Ian Murphy
-Mar 31,home,Sussex County,W,15-5,15,5,10,win,20230331_tyoa,4,0,1,,,,0,1,1,,,,,,1,0,,1,1,1.00,5,2023,2022-23,div2,Lackawanna,lackawannacollege,ianmurphyjnyo,Ian Murphy
-Apr 2,home,UConn Avery Point,W,7-6,7,6,1,win,20230402_e76g,4,1,2,,,1,3,,1,,,,,,5,1,,1,,,4,2023,2022-23,div2,Lackawanna,lackawannacollege,ianmurphyjnyo,Ian Murphy
-Apr 4,home,Lehigh Carbon,W,22-1,22,1,21,win,20230404_6tso,3,2,1,,,,1,2,,,,,,,1,0,,1,,,5,2023,2022-23,div2,Lackawanna,lackawannacollege,ianmurphyjnyo,Ian Murphy
-Apr 5,home,Lehigh Carbon,W,17-5,17,5,12,win,20230405_4oir,3,2,1,,,,1,1,,1,,1,,,1,0,,,1,,5,2023,2022-23,div2,Lackawanna,lackawannacollege,ianmurphyjnyo,Ian Murphy
-Apr 5,home,Lehigh Carbon,W,7-5,7,5,2,win,20230405_lsp4,2,1,1,1,,,1,,,,,1,1,,2,1,,,2,,4,2023,2022-23,div2,Lackawanna,lackawannacollege,ianmurphyjnyo,Ian Murphy
-Apr 7,home,Monroe CC,W,12-0,12,0,12,win,20230407_42pe,4,1,3,1,,,2,,,,,,,,4,1,,,1,,4,2023,2022-23,div2,Lackawanna,lackawannacollege,ianmurphyjnyo,Ian Murphy
-Apr 7,home,Monroe CC,W,20-17,20,17,3,win,20230407_djah,5,2,3,,,,2,,1,,,1,,,3,0,,,1,,6,2023,2022-23,div2,Lackawanna,lackawannacollege,ianmurphyjnyo,Ian Murphy
-Apr 8,home,UConn Avery Point,W,6-2,6,2,4,win,20230408_0rt5,4,1,0,,,,1,,2,,,,,,0,0,,2,,,4,2023,2022-23,div2,Lackawanna,lackawannacollege,ianmurphyjnyo,Ian Murphy
-Apr 14,home,Delaware Tech,W,15-7,15,7,8,win,20230414_pkx8,4,1,1,,,,1,1,,,,,1,,1,0,,,4,,6,2023,2022-23,div2,Lackawanna,lackawannacollege,ianmurphyjnyo,Ian Murphy
-Apr 16,home,Delaware Tech,W,4-2,4,2,2,win,20230416_540h,3,2,2,,,,0,,1,,,,,,2,0,,,,,3,2023,2022-23,div2,Lackawanna,lackawannacollege,ianmurphyjnyo,Ian Murphy
-Apr 16,home,Delaware Tech,W,6-5,6,5,1,win,20230416_lcu8,3,1,0,,,,0,1,1,,,,,,0,0,,1,1,1.00,4,2023,2022-23,div2,Lackawanna,lackawannacollege,ianmurphyjnyo,Ian Murphy
-Apr 18,home,Salem,W,16-5,16,5,11,win,20230418_ar06,4,2,1,1,,,1,,1,1,,1,,,2,1,,2,,,5,2023,2022-23,div2,Lackawanna,lackawannacollege,ianmurphyjnyo,Ian Murphy
-Apr 20,home,Montgomery County,W,21-7,21,7,14,win,20230420_7xmj,4,4,1,,,,2,2,,,,,,,1,0,,1,1,1.00,6,2023,2022-23,div2,Lackawanna,lackawannacollege,ianmurphyjnyo,Ian Murphy
-Apr 21,home,Raritan Valley,W,22-6,22,6,16,win,20230421_bbpx,5,1,1,1,,,1,1,,,,,,,2,1,,2,2,1.00,6,2023,2022-23,div2,Lackawanna,lackawannacollege,ianmurphyjnyo,Ian Murphy
-Apr 22,home,Raritan Valley,W,23-11,23,11,12,win,20230422_8c5v,3,1,1,,,1,3,,,,,,1,,4,1,,1,2,0.50,4,2023,2022-23,div2,Lackawanna,lackawannacollege,ianmurphyjnyo,Ian Murphy
-Apr 22,home,Raritan Valley,W,13-0,13,0,13,win,20230422_54el,3,2,2,1,,,3,1,,,,,,,3,1,,1,,,4,2023,2022-23,div2,Lackawanna,lackawannacollege,ianmurphyjnyo,Ian Murphy
-Apr 23,home,Sussex County,W,8-7,8,7,1,win,20230423_jp2g,4,2,2,1,,,0,,1,,,,,,3,1,,,1,,4,2023,2022-23,div2,Lackawanna,lackawannacollege,ianmurphyjnyo,Ian Murphy
-Apr 23,home,Sussex County,W,9-2,9,2,7,win,20230423_e2tu,3,1,2,,,,2,,1,,,,1,,2,0,,,1,,4,2023,2022-23,div2,Lackawanna,lackawannacollege,ianmurphyjnyo,Ian Murphy
-Apr 25,home,Dutchess,W,13-9,13,9,4,win,20230425_74op,2,1,1,,,,1,1,,,,1,1,,1,0,,,2,,5,2023,2022-23,div2,Lackawanna,lackawannacollege,ianmurphyjnyo,Ian Murphy
-Apr 28,home,Mercer County,W,12-7,12,7,5,win,20230428_12e8,4,1,1,1,,,1,1,1,,,,,,2,1,,,2,,5,2023,2022-23,div2,Lackawanna,lackawannacollege,ianmurphyjnyo,Ian Murphy
-May 1,home,Mercer County,W,4-1,4,1,3,win,20230501_1om0,4,0,0,,,,0,,,,,,,,0,0,,4,,,4,2023,2022-23,div2,Lackawanna,lackawannacollege,ianmurphyjnyo,Ian Murphy
-May 2,home,CCBC Essex,W,14-2,14,2,12,win,20230502_mbcb,3,1,1,,,,2,1,,,,,,,1,0,,1,1,1.00,4,2023,2022-23,div2,Lackawanna,lackawannacollege,ianmurphyjnyo,Ian Murphy
-May 12,home,Morris,W,4-2,4,2,2,win,20230512_s04e,4,0,1,,,,1,,1,,,,,,1,0,,2,,,4,2023,2022-23,div2,Lackawanna,lackawannacollege,ianmurphyjnyo,Ian Murphy
-May 12,home,Delaware Tech,W,6-4,6,4,2,win,20230512_662a,4,0,0,,,,0,1,2,,1,,,,0,0,,1,1,1.00,5,2023,2022-23,div2,Lackawanna,lackawannacollege,ianmurphyjnyo,Ian Murphy
-May 13,home,Delaware Tech,W,15-2,15,2,13,win,20230513_srl3,5,2,2,2,,,2,,2,,,,,,4,2,,,1,,5,2023,2022-23,div2,Lackawanna,lackawannacollege,ianmurphyjnyo,Ian Murphy
-May 19,home,UConn Avery Point,W,12-4,12,4,8,win,20230519_u34h,4,1,2,,,,2,1,1,,,,,,2,0,,1,,,5,2023,2022-23,div2,Lackawanna,lackawannacollege,ianmurphyjnyo,Ian Murphy
-May 19,home,Delaware Tech,W,7-5,7,5,2,win,20230519_ec69,5,1,2,,,,0,,1,,,,,,2,0,,1,1,1.00,5,2023,2022-23,div2,Lackawanna,lackawannacollege,ianmurphyjnyo,Ian Murphy
-May 20,home,Sullivan County,W,4-2,4,2,2,win,20230520_yosu,4,1,1,,,1,1,1,,,,,,,4,1,,3,,,5,2023,2022-23,div2,Lackawanna,lackawannacollege,ianmurphyjnyo,Ian Murphy
-May 27,home,(9) Glendale,W,9-1,9,1,8,win,20230527_ip79,3,0,0,,,,0,1,2,,,,,,0,0,,1,,,4,2023,2022-23,div2,Lackawanna,lackawannacollege,ianmurphyjnyo,Ian Murphy
-May 29,home,(9) Glendale,W,10-8,10,8,2,win,20230529_e82q,5,0,0,,,,0,,1,,,,,,0,0,,3,1,3.00,5,2023,2022-23,div2,Lackawanna,lackawannacollege,ianmurphyjnyo,Ian Murphy
+Feb 19,home,Southwest Virginia,W,10-5,10,5,5,win,20230219_uf8c,2,1,0,,,,0,1,1,,,,,,0,0,,,1,,3,2023,2022-23,div2,Lackawanna,lackawannacollege,ianmurphyjnyo,Ian Murphy
+Mar 5,home,Florence-Darlington Tech,W,10-5,10,5,5,win,20230305_9sus,2,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,0,,,2,2023,2022-23,div2,Lackawanna,lackawannacollege,ianmurphyjnyo,Ian Murphy
+Mar 8,home,Wake Tech,W,15-10,15,10,5,win,20230308_ee3j,0,1,0,,,,0,2,,,,,,,0,0,,,,,2,2023,2022-23,div2,Lackawanna,lackawannacollege,ianmurphyjnyo,Ian Murphy
+Mar 11,home,Bryant & Stratton (VA),W,16-1,16,1,15,win,20230311_pob0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,,0,,,1,2023,2022-23,div2,Lackawanna,lackawannacollege,ianmurphyjnyo,Ian Murphy
+Mar 21,home,Sullivan County,W,14-4,14,4,10,win,20230321_k3sg,3,0,1,1,,,1,1,,,,,,,2,1,,2,,,4,2023,2022-23,div2,Lackawanna,lackawannacollege,ianmurphyjnyo,Ian Murphy
+Mar 24,home,Morris,W,8-3,8,3,5,win,20230324_ds6y,3,0,0,,,,0,1,,,,,,,0,0,,2,,,4,2023,2022-23,div2,Lackawanna,lackawannacollege,ianmurphyjnyo,Ian Murphy
+Mar 26,home,Morris,W,10-9,10,9,1,win,20230326_hrr0,4,1,2,1,,,0,,2,,,,,,3,1,,,,,4,2023,2022-23,div2,Lackawanna,lackawannacollege,ianmurphyjnyo,Ian Murphy
+Apr 2,home,UConn Avery Point,W,7-6,7,6,1,win,20230402_e76g,2,0,1,,,,0,,1,,,,,,1,0,,,,,2,2023,2022-23,div2,Lackawanna,lackawannacollege,ianmurphyjnyo,Ian Murphy
+Apr 4,home,Lehigh Carbon,W,22-1,22,1,21,win,20230404_6tso,0,1,0,,,,0,1,,,,,,,0,0,,,,,1,2023,2022-23,div2,Lackawanna,lackawannacollege,ianmurphyjnyo,Ian Murphy
+Apr 5,home,Lehigh Carbon,W,17-5,17,5,12,win,20230405_4oir,4,3,2,,1,,1,1,,1,,,,,4,1,,,1,,5,2023,2022-23,div2,Lackawanna,lackawannacollege,ianmurphyjnyo,Ian Murphy
+Apr 7,home,Monroe CC,W,12-0,12,0,12,win,20230407_42pe,0,1,0,,,,0,1,,,,,,,0,0,,,,,1,2023,2022-23,div2,Lackawanna,lackawannacollege,ianmurphyjnyo,Ian Murphy
+Apr 7,home,Monroe CC,W,20-17,20,17,3,win,20230407_djah,4,2,3,,1,,2,1,,2,,,,,5,1,,,1,,5,2023,2022-23,div2,Lackawanna,lackawannacollege,ianmurphyjnyo,Ian Murphy
+Apr 8,home,UConn Avery Point,W,6-2,6,2,4,win,20230408_0rt5,3,1,2,1,,,0,,,,,,,,3,1,,,1,,3,2023,2022-23,div2,Lackawanna,lackawannacollege,ianmurphyjnyo,Ian Murphy
+Apr 14,home,Delaware Tech,W,15-7,15,7,8,win,20230414_pkx8,3,1,1,,,,0,1,1,1,,,,,1,0,,,1,,4,2023,2022-23,div2,Lackawanna,lackawannacollege,ianmurphyjnyo,Ian Murphy
+Apr 16,home,Delaware Tech,W,4-2,4,2,2,win,20230416_540h,2,0,0,,,,0,,,,,,,,0,0,,2,,,2,2023,2022-23,div2,Lackawanna,lackawannacollege,ianmurphyjnyo,Ian Murphy
+Apr 16,home,Delaware Tech,W,6-5,6,5,1,win,20230416_lcu8,2,0,1,,,,0,,,,,,,,1,0,,,,,2,2023,2022-23,div2,Lackawanna,lackawannacollege,ianmurphyjnyo,Ian Murphy
+Apr 20,home,Montgomery County,W,21-7,21,7,14,win,20230420_7xmj,3,0,1,,,,2,,,1,,,,,1,0,,2,,,3,2023,2022-23,div2,Lackawanna,lackawannacollege,ianmurphyjnyo,Ian Murphy
+Apr 21,home,Raritan Valley,W,22-6,22,6,16,win,20230421_bbpx,2,0,1,,,,0,1,,,,,,,1,0,,,1,,3,2023,2022-23,div2,Lackawanna,lackawannacollege,ianmurphyjnyo,Ian Murphy
+Apr 22,home,Raritan Valley,W,23-11,23,11,12,win,20230422_8c5v,2,3,1,,1,,3,2,,1,,,,,3,1,,1,,,4,2023,2022-23,div2,Lackawanna,lackawannacollege,ianmurphyjnyo,Ian Murphy
+Apr 23,home,Sussex County,W,8-7,8,7,1,win,20230423_jp2g,3,1,2,1,,,1,,1,,,,,,3,1,,,,,3,2023,2022-23,div2,Lackawanna,lackawannacollege,ianmurphyjnyo,Ian Murphy
+Apr 23,home,Sussex County,W,9-2,9,2,7,win,20230423_e2tu,2,1,1,,,,1,,,,,,,,1,0,,,1,,2,2023,2022-23,div2,Lackawanna,lackawannacollege,ianmurphyjnyo,Ian Murphy
+Apr 28,home,Mercer County,W,12-7,12,7,5,win,20230428_12e8,4,1,1,,,,0,,,1,,,,,1,0,,1,2,0.50,4,2023,2022-23,div2,Lackawanna,lackawannacollege,ianmurphyjnyo,Ian Murphy
+May 1,home,Mercer County,W,4-1,4,1,3,win,20230501_1om0,1,0,1,,,,1,,,,,,,,1,0,,,,,1,2023,2022-23,div2,Lackawanna,lackawannacollege,ianmurphyjnyo,Ian Murphy
+May 2,home,CCBC Essex,W,14-2,14,2,12,win,20230502_mbcb,1,0,0,,,,0,,,,,,,,0,0,,1,,,1,2023,2022-23,div2,Lackawanna,lackawannacollege,ianmurphyjnyo,Ian Murphy
+May 12,home,Morris,W,4-2,4,2,2,win,20230512_s04e,3,0,1,,,,1,,1,1,,,,,1,0,,1,,,3,2023,2022-23,div2,Lackawanna,lackawannacollege,ianmurphyjnyo,Ian Murphy
+May 12,home,Delaware Tech,W,6-4,6,4,2,win,20230512_662a,2,1,0,,,,0,1,,,,,,,0,0,,,2,,3,2023,2022-23,div2,Lackawanna,lackawannacollege,ianmurphyjnyo,Ian Murphy
+May 13,home,Delaware Tech,W,15-2,15,2,13,win,20230513_srl3,4,0,2,,1,,1,,2,,1,,,,4,1,,,,,4,2023,2022-23,div2,Lackawanna,lackawannacollege,ianmurphyjnyo,Ian Murphy
+May 19,home,UConn Avery Point,W,12-4,12,4,8,win,20230519_u34h,2,0,0,,,,1,,1,,,,1,,0,0,,,2,,3,2023,2022-23,div2,Lackawanna,lackawannacollege,ianmurphyjnyo,Ian Murphy
+May 19,home,Delaware Tech,W,7-5,7,5,2,win,20230519_ec69,3,0,1,1,,,0,,1,,,,,,2,1,,,1,,3,2023,2022-23,div2,Lackawanna,lackawannacollege,ianmurphyjnyo,Ian Murphy
+May 20,home,Sullivan County,W,4-2,4,2,2,win,20230520_yosu,3,0,0,,,,0,,,,,,,,0,0,,2,1,2.00,3,2023,2022-23,div2,Lackawanna,lackawannacollege,ianmurphyjnyo,Ian Murphy
+May 27,home,(9) Glendale,W,9-1,9,1,8,win,20230527_ip79,2,0,0,,,,0,,1,,,,,,0,0,,,1,,2,2023,2022-23,div2,Lackawanna,lackawannacollege,ianmurphyjnyo,Ian Murphy
+May 29,home,(9) Glendale,W,10-8,10,8,2,win,20230529_e82q,1,1,0,,,,0,2,,,,,,,0,0,,1,,,3,2023,2022-23,div2,Lackawanna,lackawannacollege,ianmurphyjnyo,Ian Murphy

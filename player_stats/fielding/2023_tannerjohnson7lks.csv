@@ -1,12 +1,14 @@
 date,location,opponent,result,score,team_score,opp_score,game_score_diff,game_win_loss,game_id,TC,PO,A,E,FPCT,DP,SBA,RCS,RCS_PCT,PB,CI,season,njcaa_season,njcaa_division,team,team_id,player_id,player_name
-Feb 19,home,Milwaukee Area Tech,L,12-2,12,2,10,win,20230219_20d9,0,0,0,0,2.2,4,2,2,6.75,,4,2023,2022-23,div1,Triton,tritoncollege,tannerjohnson7lks,Tanner Johnson
-Mar 10,home,Baton Rouge,L,14-13,14,13,1,win,20230310_2otp,0,0,0,0,4.0,3,4,2,4.50,2,8,2023,2022-23,div1,Triton,tritoncollege,tannerjohnson7lks,Tanner Johnson
-Mar 14,home,Nunez,L,7-2,7,2,5,win,20230314_njqm,0,0,0,0,1.0,,2,2,18.00,4,2,2023,2022-23,div1,Triton,tritoncollege,tannerjohnson7lks,Tanner Johnson
-Mar 24,home,Olive-Harvey,W,7-2,7,2,5,win,20230324_legj,0,0,0,0,1.0,,1,1,9.00,3,,2023,2022-23,div1,Triton,tritoncollege,tannerjohnson7lks,Tanner Johnson
-Apr 2,home,Moraine Valley,W,13-4,13,4,9,win,20230402_m0n7,0,0,0,0,1.0,2,,,0.00,1,1,2023,2022-23,div1,Triton,tritoncollege,tannerjohnson7lks,Tanner Johnson
-Apr 6,home,Harper,W,10-4,10,4,6,win,20230406_op2i,0,0,0,0,3.0,1,2,2,6.00,1,7,2023,2022-23,div1,Triton,tritoncollege,tannerjohnson7lks,Tanner Johnson
-Apr 11,home,DuPage,W,15-9,15,9,6,win,20230411_m9k7,0,0,0,0,2.0,2,5,5,22.50,5,1,2023,2022-23,div1,Triton,tritoncollege,tannerjohnson7lks,Tanner Johnson
-Apr 19,home,Heartland,L,7-5,7,5,2,win,20230419_mbvk,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Triton,tritoncollege,tannerjohnson7lks,Tanner Johnson
-Apr 25,home,McHenry County,W,12-2,12,2,10,win,20230425_2f26,0,0,0,0,1.0,,,,0.00,,2,2023,2022-23,div1,Triton,tritoncollege,tannerjohnson7lks,Tanner Johnson
-Apr 29,home,Black Hawk-Moline,L,11-10,11,10,1,win,20230429_l25m,0,0,0,0,0.0,,3,3,INF,1,,2023,2022-23,div1,Triton,tritoncollege,tannerjohnson7lks,Tanner Johnson
-May 11,home,Kishwaukee,W,6-4,6,4,2,win,20230511_b2hg,0,0,0,0,0.1,,2,2,54.00,1,1,2023,2022-23,div1,Triton,tritoncollege,tannerjohnson7lks,Tanner Johnson
+Feb 19,home,Milwaukee Area Tech,L,12-2,12,2,10,win,20230219_20d9,0,0,0,0,0.2,,2,,0.00,2,2,2023,2022-23,div1,Triton,tritoncollege,tannerjohnson7lks,Tanner Johnson
+Feb 25,home,St. Charles,W,15-9,15,9,6,win,20230225_c80n,0,0,0,0,3.0,2,1,1,3.00,3,3,2023,2022-23,div1,Triton,tritoncollege,tannerjohnson7lks,Tanner Johnson
+Mar 5,home,Elgin,W,8-3,8,3,5,win,20230305_ga1e,0,1,0,0,4.0,1,,,0.00,,3,2023,2022-23,div1,Triton,tritoncollege,tannerjohnson7lks,Tanner Johnson
+Mar 10,home,Baton Rouge,L,14-13,14,13,1,win,20230310_2otp,1,0,0,0,2.0,3,6,5,22.50,5,0,2023,2022-23,div1,Triton,tritoncollege,tannerjohnson7lks,Tanner Johnson
+Mar 14,home,Nunez,L,5-2,5,2,3,win,20230314_rlao,1,0,1,0,4.1,7,4,3,6.23,2,8,2023,2022-23,div1,Triton,tritoncollege,tannerjohnson7lks,Tanner Johnson
+Mar 23,home,McHenry County,W,3-1,3,1,2,win,20230323_frxg,1,0,0,0,5.0,5,1,1,1.80,1,8,2023,2022-23,div1,Triton,tritoncollege,tannerjohnson7lks,Tanner Johnson
+Mar 30,home,Moraine Valley,W,4-2,4,2,2,win,20230330_h1ga,1,1,0,0,6.0,7,2,2,3.00,1,6,2023,2022-23,div1,Triton,tritoncollege,tannerjohnson7lks,Tanner Johnson
+Apr 4,home,Joliet,W,13-3,13,3,10,win,20230404_08d7,1,0,0,0,5.0,5,3,0,0.00,3,3,2023,2022-23,div1,Triton,tritoncollege,tannerjohnson7lks,Tanner Johnson
+Apr 11,home,DuPage,W,15-9,15,9,6,win,20230411_m9k7,1,0,0,0,4.2,6,3,3,5.79,3,1,2023,2022-23,div1,Triton,tritoncollege,tannerjohnson7lks,Tanner Johnson
+Apr 18,home,Bryant & Stratton College (WI),W,8-0,8,0,8,win,20230418_jsh5,1,1,0,0,7.0,4,0,0,0.00,2,5,2023,2022-23,div1,Triton,tritoncollege,tannerjohnson7lks,Tanner Johnson
+Apr 25,home,McHenry County,W,12-2,12,2,10,win,20230425_2f26,1,0,0,0,6.0,3,2,2,3.00,6,2,2023,2022-23,div1,Triton,tritoncollege,tannerjohnson7lks,Tanner Johnson
+May 2,home,Milwaukee Area Tech,W,12-4,12,4,8,win,20230502_1z4d,1,0,0,0,5.2,5,3,2,3.18,5,3,2023,2022-23,div1,Triton,tritoncollege,tannerjohnson7lks,Tanner Johnson
+May 13,home,South Suburban,L,5-3,5,3,2,win,20230513_7r03,1,0,0,0,6.2,6,5,4,5.40,4,4,2023,2022-23,div1,Triton,tritoncollege,tannerjohnson7lks,Tanner Johnson
