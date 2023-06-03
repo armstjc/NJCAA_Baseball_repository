@@ -1,21 +1,6 @@
 date,location,opponent,result,score,team_score,opp_score,game_score_diff,game_win_loss,game_id,GS,W,L,SV,IP,H,R,ER,ERA,BB,K,HR,season,njcaa_season,njcaa_division,team,team_id,player_id,player_name
-Apr 29,home,Southeast,W,17-13,17,13,4,win,20230429_psj9,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div1,Northeastern,northeasternjuniorcollege,amarmahmoodvjau,Amar Mahmood
-Apr 28,home,Southeast,L,17-0,17,0,17,win,20230428_tyvl,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div1,Northeastern,northeasternjuniorcollege,amarmahmoodvjau,Amar Mahmood
-Apr 23,home,McCook,W,17-7,17,7,10,win,20230423_574g,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div1,Northeastern,northeasternjuniorcollege,amarmahmoodvjau,Amar Mahmood
-Apr 13,home,Western Nebraska,W,19-5,19,5,14,win,20230413_gfot,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div1,Northeastern,northeasternjuniorcollege,amarmahmoodvjau,Amar Mahmood
-Apr 11,home,CSU Club,W,14-7,14,7,7,win,20230411_g9jy,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div1,Northeastern,northeasternjuniorcollege,amarmahmoodvjau,Amar Mahmood
-Apr 8,home,Southeast,L,17-6,17,6,11,win,20230408_3l6p,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div1,Northeastern,northeasternjuniorcollege,amarmahmoodvjau,Amar Mahmood
-Apr 3,home,Luna,W,9-0,9,0,9,win,20230403_4qdf,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div1,Northeastern,northeasternjuniorcollege,amarmahmoodvjau,Amar Mahmood
-Mar 14,home,CSU Pueblo JV,L,9-8,9,8,1,win,20230314_cmgn,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div1,Northeastern,northeasternjuniorcollege,amarmahmoodvjau,Amar Mahmood
-Mar 11,home,Adams State University JV,W,16-3,16,3,13,win,20230311_3gra,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div1,Northeastern,northeasternjuniorcollege,amarmahmoodvjau,Amar Mahmood
-Mar 8,home,CSU Pueblo JV,L,7-1,7,1,6,win,20230308_kpa4,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div1,Northeastern,northeasternjuniorcollege,amarmahmoodvjau,Amar Mahmood
-Mar 4,home,Lamar,L,7-2,7,2,5,win,20230304_yh39,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div1,Northeastern,northeasternjuniorcollege,amarmahmoodvjau,Amar Mahmood
-Feb 26,home,McCook,W,8-7,8,7,1,win,20230226_zdu1,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div1,Northeastern,northeasternjuniorcollege,amarmahmoodvjau,Amar Mahmood
-Feb 20,home,Miles,L,10-6,10,6,4,win,20230220_iagf,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div1,Northeastern,northeasternjuniorcollege,amarmahmoodvjau,Amar Mahmood
-Feb 19,home,Miles,W,11-5,11,5,6,win,20230219_3v1y,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div1,Northeastern,northeasternjuniorcollege,amarmahmoodvjau,Amar Mahmood
-Feb 12,home,Dawson,W,7-3,7,3,4,win,20230212_wavg,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div1,Northeastern,northeasternjuniorcollege,amarmahmoodvjau,Amar Mahmood
-Feb 11,home,Dawson,W,10-9,10,9,1,win,20230211_a131,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div1,Northeastern,northeasternjuniorcollege,amarmahmoodvjau,Amar Mahmood
-Feb 5,home,Arizona Western,L,11-0,11,0,11,win,20230205_pe2d,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div1,Northeastern,northeasternjuniorcollege,amarmahmoodvjau,Amar Mahmood
-Feb 4,home,Arizona Western,L,6-1,6,1,5,win,20230204_e22z,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div1,Northeastern,northeasternjuniorcollege,amarmahmoodvjau,Amar Mahmood
-Feb 4,home,Arizona Western,L,10-5,10,5,5,win,20230204_0sjq,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div1,Northeastern,northeasternjuniorcollege,amarmahmoodvjau,Amar Mahmood
-Feb 2,home,Park Univeristy JV,L,9-4,9,4,5,win,20230202_a9i1,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div1,Northeastern,northeasternjuniorcollege,amarmahmoodvjau,Amar Mahmood
+Apr 28,home,Snead State,L,14-4,14,4,10,win,20230428_8ck2,0,0,0,0,1.0,1,1,1,9.00,1,,,2023,2022-23,div1,Northeastern,northeasternjuniorcollege,amarmahmoodvjau,Amar Mahmood
+Mar 25,home,Wallace State,L,8-0,8,0,8,win,20230325_wz2u,0,0,0,0,0.1,1,2,2,54.00,1,1,,2023,2022-23,div1,Northeastern,northeasternjuniorcollege,amarmahmoodvjau,Amar Mahmood
+Feb 26,home,USC Salkehatchie,W,13-3,13,3,10,win,20230226_7wvv,0,0,0,0,1.0,1,,,0.00,,1,,2023,2022-23,div1,Northeastern,northeasternjuniorcollege,amarmahmoodvjau,Amar Mahmood
+Feb 18,home,John A. Logan,L,10-3,10,3,7,win,20230218_5591,0,0,1,0,1.2,2,3,3,16.20,2,1,2,2023,2022-23,div1,Northeastern,northeasternjuniorcollege,amarmahmoodvjau,Amar Mahmood
+Feb 4,home,Lurleen B. Wallace,L,6-2,6,2,4,win,20230204_fg98,0,0,0,0,1.0,1,1,,0.00,,2,,2023,2022-23,div1,Northeastern,northeasternjuniorcollege,amarmahmoodvjau,Amar Mahmood

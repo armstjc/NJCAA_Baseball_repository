@@ -1,4 +1,30 @@
 date,location,opponent,result,score,team_score,opp_score,game_score_diff,game_win_loss,game_id,AB,R,H,2B,3B,HR,RBI,BB,K,SB,CS,HBP,SF,SH,TB,XBH,HDP,GO,FO,GO/FO,PA,season,njcaa_season,njcaa_division,team,team_id,player_id,player_name
-Feb 5,home,Northeastern,W,11-0,11,0,11,win,20230205_pe2d,0,0,0,,,,0,,,,,,,,0,0,,,,,0,2023,2022-23,div1,Arizona Western,arizonawesterncollege,jackwatersgp54,Jack Waters
-Feb 18,home,Central Arizona,W,7-1,7,1,6,win,20230218_m7zf,0,0,0,,,,0,,,,,,,,0,0,,,,,0,2023,2022-23,div1,Arizona Western,arizonawesterncollege,jackwatersgp54,Jack Waters
-Mar 25,home,Paradise Valley,W,11-2,11,2,9,win,20230325_geq1,0,0,0,,,,0,,,,,,,,0,0,,,,,0,2023,2022-23,div1,Arizona Western,arizonawesterncollege,jackwatersgp54,Jack Waters
+Feb 4,home,El Paso,W,9-1,9,1,8,win,20230204_n390,4,1,2,,,,1,,,1,,,,,2,0,,,,,4,2023,2022-23,div1,Arizona Western,arizonawesterncollege,jackwatersgp54,Jack Waters
+Feb 9,home,Scottsdale Post Grad,W,10-0,10,0,10,win,20230209_v4dv,4,3,2,1,,,1,,,,,,,,3,1,,,,,4,2023,2022-23,div1,Arizona Western,arizonawesterncollege,jackwatersgp54,Jack Waters
+Feb 9,home,Scottsdale Post Grad,W,8-2,8,2,6,win,20230209_zb02,4,2,2,1,,,1,,2,,,1,,,3,1,,,,,5,2023,2022-23,div1,Arizona Western,arizonawesterncollege,jackwatersgp54,Jack Waters
+Feb 18,home,Cochise,W,6-0,6,0,6,win,20230218_vn6l,2,1,1,,1,,2,1,,,,,1,,3,1,,,,,4,2023,2022-23,div1,Arizona Western,arizonawesterncollege,jackwatersgp54,Jack Waters
+Feb 18,home,Cochise,W,6-4,6,4,2,win,20230218_u448,5,1,2,,,,0,,2,,,,,,2,0,,,,,5,2023,2022-23,div1,Arizona Western,arizonawesterncollege,jackwatersgp54,Jack Waters
+Feb 21,home,Arizona Western,W,2-1,2,1,1,win,20230221_dtcl,3,0,1,,,,0,,,,,,,,1,0,,,,,3,2023,2022-23,div1,Arizona Western,arizonawesterncollege,jackwatersgp54,Jack Waters
+Feb 28,home,Eastern Arizona,W,7-2,7,2,5,win,20230228_gi5n,3,2,1,,,1,2,1,1,,,,,,4,1,,,,,4,2023,2022-23,div1,Arizona Western,arizonawesterncollege,jackwatersgp54,Jack Waters
+Feb 28,home,Eastern Arizona,W,9-7,9,7,2,win,20230228_vybk,6,2,2,1,,,2,,1,,,,,,3,1,,,,,6,2023,2022-23,div1,Arizona Western,arizonawesterncollege,jackwatersgp54,Jack Waters
+Mar 11,home,Phoenix,W,5-2,5,2,3,win,20230311_7irp,3,0,1,,,,1,1,,,,,,,1,0,,,,,4,2023,2022-23,div1,Arizona Western,arizonawesterncollege,jackwatersgp54,Jack Waters
+Mar 11,home,Phoenix,W,11-8,11,8,3,win,20230311_c0ya,4,1,2,1,,,1,1,2,,,1,,,3,1,,,,,6,2023,2022-23,div1,Arizona Western,arizonawesterncollege,jackwatersgp54,Jack Waters
+Mar 13,home,Scottsdale Post Grad,W,12-2,12,2,10,win,20230313_blm6,3,2,2,,1,,4,1,,,,,1,,4,1,,,,,5,2023,2022-23,div1,Arizona Western,arizonawesterncollege,jackwatersgp54,Jack Waters
+Mar 17,home,Langley Blaze,W,12-5,12,5,7,win,20230317_zymh,3,1,0,,,,1,1,1,1,,,,,0,0,,,,,4,2023,2022-23,div1,Arizona Western,arizonawesterncollege,jackwatersgp54,Jack Waters
+Mar 23,home,Paradise Valley,W,3-2,3,2,1,win,20230323_zjxn,3,0,1,1,,,1,,,,,,,,2,1,,,,,3,2023,2022-23,div1,Arizona Western,arizonawesterncollege,jackwatersgp54,Jack Waters
+Mar 23,home,Paradise Valley,W,10-2,10,2,8,win,20230323_rtm2,5,1,3,,,,1,,1,2,,,,,3,0,,,,,5,2023,2022-23,div1,Arizona Western,arizonawesterncollege,jackwatersgp54,Jack Waters
+Mar 25,home,Mesa,W,8-1,8,1,7,win,20230325_iq1o,3,0,1,1,,,1,1,,,,,,,2,1,,,,,4,2023,2022-23,div1,Arizona Western,arizonawesterncollege,jackwatersgp54,Jack Waters
+Mar 25,home,Mesa,W,9-7,9,7,2,win,20230325_y4ms,4,1,1,,,1,1,1,,,,,,,4,1,1,,,,5,2023,2022-23,div1,Arizona Western,arizonawesterncollege,jackwatersgp54,Jack Waters
+Mar 28,home,Glendale,W,9-7,9,7,2,win,20230328_30mu,4,1,2,,,1,4,,2,,,,,,5,1,,,,,4,2023,2022-23,div1,Arizona Western,arizonawesterncollege,jackwatersgp54,Jack Waters
+Mar 28,home,Glendale,W,8-1,8,1,7,win,20230328_9v2w,2,0,1,1,,,0,2,,,,,,,2,1,,,,,4,2023,2022-23,div1,Arizona Western,arizonawesterncollege,jackwatersgp54,Jack Waters
+Apr 4,home,Chandler-Gilbert,W,15-6,15,6,9,win,20230404_kasr,3,2,1,,,1,2,1,,,,,1,,4,1,,,,,5,2023,2022-23,div1,Arizona Western,arizonawesterncollege,jackwatersgp54,Jack Waters
+Apr 4,home,Chandler-Gilbert,W,5-2,5,2,3,win,20230404_fd62,4,0,2,1,,,1,,2,,,,,,3,1,,,,,4,2023,2022-23,div1,Arizona Western,arizonawesterncollege,jackwatersgp54,Jack Waters
+Apr 7,home,Arizona Christian University,W,5-4,5,4,1,win,20230407_7yw8,3,1,1,,,1,1,1,1,,,,,,4,1,,,,,4,2023,2022-23,div1,Arizona Western,arizonawesterncollege,jackwatersgp54,Jack Waters
+Apr 7,home,Arizona Christian University,W,12-2,12,2,10,win,20230407_u1hl,4,1,3,2,,1,5,,1,,,,,,8,3,,,,,4,2023,2022-23,div1,Arizona Western,arizonawesterncollege,jackwatersgp54,Jack Waters
+Apr 8,home,Scottsdale,W,8-0,8,0,8,win,20230408_dz1h,3,1,1,1,,,1,1,1,1,,,,,2,1,,,,,4,2023,2022-23,div1,Arizona Western,arizonawesterncollege,jackwatersgp54,Jack Waters
+Apr 8,home,Scottsdale,W,9-1,9,1,8,win,20230408_mpcg,4,2,2,,,1,1,,1,,,,,,5,1,,,,,4,2023,2022-23,div1,Arizona Western,arizonawesterncollege,jackwatersgp54,Jack Waters
+Apr 11,home,Pima,W,9-3,9,3,6,win,20230411_yyqu,3,1,2,1,,,2,1,1,,,,,,3,1,,,,,4,2023,2022-23,div1,Arizona Western,arizonawesterncollege,jackwatersgp54,Jack Waters
+Apr 18,home,Arizona Western,W,10-7,10,7,3,win,20230418_ntfw,3,2,1,,,,1,1,1,,,,,,1,0,,,,,4,2023,2022-23,div1,Arizona Western,arizonawesterncollege,jackwatersgp54,Jack Waters
+Apr 25,home,Eastern Arizona,W,8-5,8,5,3,win,20230425_van1,4,0,2,,,,3,,2,,,,,,2,0,,,,,4,2023,2022-23,div1,Arizona Western,arizonawesterncollege,jackwatersgp54,Jack Waters
+Apr 25,home,Eastern Arizona,W,20-10,20,10,10,win,20230425_srny,6,1,2,,,1,3,,2,,,,,,5,1,,,,,6,2023,2022-23,div1,Arizona Western,arizonawesterncollege,jackwatersgp54,Jack Waters
+Apr 29,home,Central Arizona,W,13-5,13,5,8,win,20230429_pp3v,3,3,2,1,,,2,2,1,,,,,,3,1,,,,,5,2023,2022-23,div1,Arizona Western,arizonawesterncollege,jackwatersgp54,Jack Waters

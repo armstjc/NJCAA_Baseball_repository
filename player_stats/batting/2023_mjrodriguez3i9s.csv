@@ -1,21 +1,7 @@
 date,location,opponent,result,score,team_score,opp_score,game_score_diff,game_win_loss,game_id,AB,R,H,2B,3B,HR,RBI,BB,K,SB,CS,HBP,SF,SH,TB,XBH,HDP,GO,FO,GO/FO,PA,season,njcaa_season,njcaa_division,team,team_id,player_id,player_name
-Jan 28,home,New Mexico,W,10-7,10,7,3,win,20230128_x7n3,2,1,0,,,,0,3,1,,1,,,,0,0,,,,,5,2023,2022-23,div1,San Jacinto-North,sanjacintocollegenorth,mjrodriguez3i9s,MJ Rodriguez
-Feb 11,home,Baton Rouge,W,11-2,11,2,9,win,20230211_5exr,3,0,0,,,,0,1,1,,,,,,0,0,1,1,1,1.00,4,2023,2022-23,div1,San Jacinto-North,sanjacintocollegenorth,mjrodriguez3i9s,MJ Rodriguez
-Feb 11,home,Wabash Valley,W,3-2,3,2,1,win,20230211_l40r,6,0,1,,,,0,,1,,,,,,1,0,,2,2,1.00,6,2023,2022-23,div1,San Jacinto-North,sanjacintocollegenorth,mjrodriguez3i9s,MJ Rodriguez
-Feb 12,home,Ranger,W,3-0,3,0,3,win,20230212_4vzg,0,0,0,,,,0,,,,,,,,0,0,,,,,0,2023,2022-23,div1,San Jacinto-North,sanjacintocollegenorth,mjrodriguez3i9s,MJ Rodriguez
-Feb 16,home,Monroe College,W,11-0,11,0,11,win,20230216_5uew,1,1,1,,,,2,1,,1,,,,1,1,0,,1,,,3,2023,2022-23,div1,San Jacinto-North,sanjacintocollegenorth,mjrodriguez3i9s,MJ Rodriguez
-Feb 19,home,Monroe College,W,10-7,10,7,3,win,20230219_7v6q,4,0,1,,,,2,,1,,,,,,1,0,,,2,,4,2023,2022-23,div1,San Jacinto-North,sanjacintocollegenorth,mjrodriguez3i9s,MJ Rodriguez
-Feb 21,home,Coastal Bend,W,6-2,6,2,4,win,20230221_aen7,3,0,1,,,,1,,,,,,1,,1,0,,1,2,0.50,4,2023,2022-23,div1,San Jacinto-North,sanjacintocollegenorth,mjrodriguez3i9s,MJ Rodriguez
-Feb 26,home,Coastal Bend,W,2-0,2,0,2,win,20230226_2zfp,2,0,1,,,,0,,,,,,,1,1,0,,1,1,1.00,3,2023,2022-23,div1,San Jacinto-North,sanjacintocollegenorth,mjrodriguez3i9s,MJ Rodriguez
-Feb 26,home,Coastal Bend,W,13-5,13,5,8,win,20230226_h77i,4,2,2,1,,1,6,,1,,,,,,6,2,,,1,,4,2023,2022-23,div1,San Jacinto-North,sanjacintocollegenorth,mjrodriguez3i9s,MJ Rodriguez
-Mar 6,home,McLennan,W,9-8,9,8,1,win,20230306_s579,5,0,0,,,,0,,2,,,,,,0,0,,1,2,0.50,5,2023,2022-23,div1,San Jacinto-North,sanjacintocollegenorth,mjrodriguez3i9s,MJ Rodriguez
-Mar 7,home,Galveston,W,16-6,16,6,10,win,20230307_9lm1,4,0,0,,,,0,1,,,,,,,0,0,,2,2,1.00,5,2023,2022-23,div1,San Jacinto-North,sanjacintocollegenorth,mjrodriguez3i9s,MJ Rodriguez
-Mar 11,home,Galveston,W,4-2,4,2,2,win,20230311_gtt5,3,0,1,,,,1,,,,,,,,1,0,,1,1,1.00,3,2023,2022-23,div1,San Jacinto-North,sanjacintocollegenorth,mjrodriguez3i9s,MJ Rodriguez
-Mar 11,home,Galveston,W,6-3,6,3,3,win,20230311_regs,4,0,3,1,,,1,,,,,,,,4,1,,1,,,4,2023,2022-23,div1,San Jacinto-North,sanjacintocollegenorth,mjrodriguez3i9s,MJ Rodriguez
-Mar 13,home,South Suburban,W,9-3,9,3,6,win,20230313_z4ib,2,1,0,,,,0,1,,,,,,,0,0,,,,,3,2023,2022-23,div1,San Jacinto-North,sanjacintocollegenorth,mjrodriguez3i9s,MJ Rodriguez
-Mar 15,home,Wharton County,W,9-1,9,1,8,win,20230315_x4t6,3,1,2,,,,0,1,,,1,,,,2,0,1,1,,,4,2023,2022-23,div1,San Jacinto-North,sanjacintocollegenorth,mjrodriguez3i9s,MJ Rodriguez
-Mar 21,home,Alvin,W,5-3,5,3,2,win,20230321_j4z2,4,0,1,,,,0,,,,,1,,,1,0,,2,1,2.00,5,2023,2022-23,div1,San Jacinto-North,sanjacintocollegenorth,mjrodriguez3i9s,MJ Rodriguez
-Apr 10,home,Blinn,W,11-8,11,8,3,win,20230410_bi8t,2,0,0,,,,0,2,2,,1,,,1,0,0,,,,,5,2023,2022-23,div1,San Jacinto-North,sanjacintocollegenorth,mjrodriguez3i9s,MJ Rodriguez
-Apr 14,home,Galveston,W,7-3,7,3,4,win,20230414_xw75,3,0,0,,,,0,1,,,,,,,0,0,,2,1,2.00,4,2023,2022-23,div1,San Jacinto-North,sanjacintocollegenorth,mjrodriguez3i9s,MJ Rodriguez
-Apr 22,home,Wharton County,W,1-0,1,0,1,win,20230422_cpuw,1,0,0,,,,0,1,,,,1,,,0,0,,1,,,3,2023,2022-23,div1,San Jacinto-North,sanjacintocollegenorth,mjrodriguez3i9s,MJ Rodriguez
-Apr 28,home,Alvin,W,8-7,8,7,1,win,20230428_fsbc,5,1,1,,,1,2,,1,,,,1,,4,1,,1,3,0.33,6,2023,2022-23,div1,San Jacinto-North,sanjacintocollegenorth,mjrodriguez3i9s,MJ Rodriguez
+Feb 4,home,Coastal Alabama - Bay Minette,W,10-6,10,6,4,win,20230204_j0fs,0,0,0,,,,0,,,,,,,,0,0,,,,,0,2023,2022-23,div1,San Jacinto-North,sanjacintocollegenorth,mjrodriguez3i9s,MJ Rodriguez
+Feb 26,home,Coastal Bend,W,13-5,13,5,8,win,20230226_h77i,0,0,0,,,,0,,,,,,,,0,0,,,,,0,2023,2022-23,div1,San Jacinto-North,sanjacintocollegenorth,mjrodriguez3i9s,MJ Rodriguez
+Mar 7,home,Galveston,W,16-6,16,6,10,win,20230307_9lm1,0,0,0,,,,0,,,,,,,,0,0,,,,,0,2023,2022-23,div1,San Jacinto-North,sanjacintocollegenorth,mjrodriguez3i9s,MJ Rodriguez
+Mar 13,home,South Suburban,W,9-3,9,3,6,win,20230313_z4ib,0,0,0,,,,0,,,,,,,,0,0,,,,,0,2023,2022-23,div1,San Jacinto-North,sanjacintocollegenorth,mjrodriguez3i9s,MJ Rodriguez
+Mar 21,home,Alvin,W,5-3,5,3,2,win,20230321_j4z2,0,0,0,,,,0,,,,,,,,0,0,,,,,0,2023,2022-23,div1,San Jacinto-North,sanjacintocollegenorth,mjrodriguez3i9s,MJ Rodriguez
+Apr 14,home,Galveston,W,7-3,7,3,4,win,20230414_xw75,0,0,0,,,,0,,,,,,,,0,0,,,,,0,2023,2022-23,div1,San Jacinto-North,sanjacintocollegenorth,mjrodriguez3i9s,MJ Rodriguez

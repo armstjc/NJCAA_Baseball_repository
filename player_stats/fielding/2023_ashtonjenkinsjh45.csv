@@ -1,13 +1,24 @@
 date,location,opponent,result,score,team_score,opp_score,game_score_diff,game_win_loss,game_id,TC,PO,A,E,FPCT,DP,SBA,RCS,RCS_PCT,PB,CI,season,njcaa_season,njcaa_division,team,team_id,player_id,player_name
-Feb 4,home,Ranger,W,9-0,9,0,9,win,20230204_a5f7,0,0,1,0,0.2,4,6,3,40.50,,1,2023,2022-23,div1,Dodge City,dodgecitycommunitycollege,ashtonjenkinsjh45,Ashton Jenkins
-Feb 11,home,New Mexico,W,15-14,15,14,1,win,20230211_wyiz,0,1,0,0,3.0,2,1,1,3.00,1,4,2023,2022-23,div1,Dodge City,dodgecitycommunitycollege,ashtonjenkinsjh45,Ashton Jenkins
-Feb 18,home,Rose State,W,1-0,1,0,1,win,20230218_9ix1,0,0,0,1,1.0,,,,0.00,1,1,2023,2022-23,div1,Dodge City,dodgecitycommunitycollege,ashtonjenkinsjh45,Ashton Jenkins
-Feb 25,home,Iowa Western,L,9-4,9,4,5,win,20230225_q0zh,0,0,1,0,0.0,2,3,3,INF,2,,2023,2022-23,div1,Dodge City,dodgecitycommunitycollege,ashtonjenkinsjh45,Ashton Jenkins
-Mar 11,home,Hutchinson,W,7-2,7,2,5,win,20230311_9659,0,0,0,0,1.0,,,,0.00,2,1,2023,2022-23,div1,Dodge City,dodgecitycommunitycollege,ashtonjenkinsjh45,Ashton Jenkins
-Mar 18,home,Garden City,L,4-3,4,3,1,win,20230318_3lqj,0,0,1,0,0.2,2,1,0,0.00,1,1,2023,2022-23,div1,Dodge City,dodgecitycommunitycollege,ashtonjenkinsjh45,Ashton Jenkins
-Mar 23,home,Barton,L,13-7,13,7,6,win,20230323_lymo,0,0,0,0,0.0,1,2,2,INF,1,,2023,2022-23,div1,Dodge City,dodgecitycommunitycollege,ashtonjenkinsjh45,Ashton Jenkins
-Mar 30,home,Colby,W,19-12,19,12,7,win,20230330_zp78,0,1,0,0,4.0,1,,,0.00,,4,2023,2022-23,div1,Dodge City,dodgecitycommunitycollege,ashtonjenkinsjh45,Ashton Jenkins
-Apr 3,home,Northwestern Oklahoma State JV,W,7-1,7,1,6,win,20230403_z6aa,0,0,0,0,1.0,,,,0.00,1,3,2023,2022-23,div1,Dodge City,dodgecitycommunitycollege,ashtonjenkinsjh45,Ashton Jenkins
-Apr 20,home,Seward County,L,14-11,14,11,3,win,20230420_ayds,0,0,0,0,0.2,1,3,2,27.00,1,1,2023,2022-23,div1,Dodge City,dodgecitycommunitycollege,ashtonjenkinsjh45,Ashton Jenkins
-Apr 27,home,Butler,L,4-2,4,2,2,win,20230427_4rq3,0,0,0,0,2.0,1,,,0.00,2,2,2023,2022-23,div1,Dodge City,dodgecitycommunitycollege,ashtonjenkinsjh45,Ashton Jenkins
-May 11,home,Kansas City Kansas,W,10-5,10,5,5,win,20230511_2fnf,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Dodge City,dodgecitycommunitycollege,ashtonjenkinsjh45,Ashton Jenkins
+Jan 28,home,Ranger,L,18-2,18,2,16,win,20230128_ob63,0,0,0,0,0.2,3,4,2,27.00,1,1,2023,2022-23,div1,Dodge City,dodgecitycommunitycollege,ashtonjenkinsjh45,Ashton Jenkins
+Feb 5,home,Blinn,L,8-2,8,2,6,win,20230205_dxco,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Dodge City,dodgecitycommunitycollege,ashtonjenkinsjh45,Ashton Jenkins
+Feb 7,home,Southwest Mississippi,L,1-0,1,0,1,win,20230207_me0s,0,0,0,0,0.2,,,,0.00,,,2023,2022-23,div1,Dodge City,dodgecitycommunitycollege,ashtonjenkinsjh45,Ashton Jenkins
+Feb 13,home,East Central (MS),W,10-6,10,6,4,win,20230213_ygbh,0,0,0,0,1.0,,,,0.00,,,2023,2022-23,div1,Dodge City,dodgecitycommunitycollege,ashtonjenkinsjh45,Ashton Jenkins
+Feb 19,home,St. Louis,W,6-5,6,5,1,win,20230219_0had,0,1,0,0,1.1,2,2,2,13.50,,1,2023,2022-23,div1,Dodge City,dodgecitycommunitycollege,ashtonjenkinsjh45,Ashton Jenkins
+Feb 24,home,Illinois Central,L,8-1,8,1,7,win,20230224_m2py,0,0,0,0,1.1,1,2,,0.00,1,1,2023,2022-23,div1,Dodge City,dodgecitycommunitycollege,ashtonjenkinsjh45,Ashton Jenkins
+Feb 26,home,Jones,L,10-7,10,7,3,win,20230226_cggg,0,0,0,0,1.2,2,1,1,5.40,0,0,2023,2022-23,div1,Dodge City,dodgecitycommunitycollege,ashtonjenkinsjh45,Ashton Jenkins
+Mar 5,home,Pearl River,L,2-0,2,0,2,win,20230305_ydsk,0,0,0,0,1.0,1,0,0,0.00,0,2,2023,2022-23,div1,Dodge City,dodgecitycommunitycollege,ashtonjenkinsjh45,Ashton Jenkins
+Mar 11,home,Triton,W,7-3,7,3,4,win,20230311_cur6,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Dodge City,dodgecitycommunitycollege,ashtonjenkinsjh45,Ashton Jenkins
+Mar 11,home,Triton,W,6-4,6,4,2,win,20230311_upq7,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Dodge City,dodgecitycommunitycollege,ashtonjenkinsjh45,Ashton Jenkins
+Mar 13,home,Triton,W,16-8,16,8,8,win,20230313_c5yp,0,1,0,0,0.2,1,2,2,27.00,3,1,2023,2022-23,div1,Dodge City,dodgecitycommunitycollege,ashtonjenkinsjh45,Ashton Jenkins
+Mar 13,home,Triton,L,9-8,9,8,1,win,20230313_tc1o,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Dodge City,dodgecitycommunitycollege,ashtonjenkinsjh45,Ashton Jenkins
+Mar 18,home,East Central (MS),L,8-7,8,7,1,win,20230318_047t,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Dodge City,dodgecitycommunitycollege,ashtonjenkinsjh45,Ashton Jenkins
+Mar 20,home,Louisiana State University Alexandria,L,10-5,10,5,5,win,20230320_h36b,0,0,0,0,1.2,1,,,0.00,1,2,2023,2022-23,div1,Dodge City,dodgecitycommunitycollege,ashtonjenkinsjh45,Ashton Jenkins
+Mar 25,home,Bossier Parish,L,9-3,9,3,6,win,20230325_ws5g,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Dodge City,dodgecitycommunitycollege,ashtonjenkinsjh45,Ashton Jenkins
+Mar 25,home,Bossier Parish,L,16-5,16,5,11,win,20230325_kimx,0,0,0,0,0.2,1,1,1,13.50,3,,2023,2022-23,div1,Dodge City,dodgecitycommunitycollege,ashtonjenkinsjh45,Ashton Jenkins
+Apr 1,home,Delgado,L,10-0,10,0,10,win,20230401_wobc,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Dodge City,dodgecitycommunitycollege,ashtonjenkinsjh45,Ashton Jenkins
+Apr 2,home,Delgado,L,20-12,20,12,8,win,20230402_8xr1,0,0,0,0,2.1,1,1,1,3.86,3,3,2023,2022-23,div1,Dodge City,dodgecitycommunitycollege,ashtonjenkinsjh45,Ashton Jenkins
+Apr 8,home,Nunez,L,1-0,1,0,1,win,20230408_t7vo,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Dodge City,dodgecitycommunitycollege,ashtonjenkinsjh45,Ashton Jenkins
+Apr 17,home,Louisiana Christian College,W,6-1,6,1,5,win,20230417_8auc,0,0,0,0,1.0,1,1,1,9.00,2,1,2023,2022-23,div1,Dodge City,dodgecitycommunitycollege,ashtonjenkinsjh45,Ashton Jenkins
+Apr 23,home,Delgado,L,5-4,5,4,1,win,20230423_h4m6,0,0,0,0,1.0,1,1,1,9.00,,,2023,2022-23,div1,Dodge City,dodgecitycommunitycollege,ashtonjenkinsjh45,Ashton Jenkins
+Apr 28,home,Nunez,L,12-5,12,5,7,win,20230428_e4um,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Dodge City,dodgecitycommunitycollege,ashtonjenkinsjh45,Ashton Jenkins
+May 5,home,Delgado,L,8-7,8,7,1,win,20230505_p5g5,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Dodge City,dodgecitycommunitycollege,ashtonjenkinsjh45,Ashton Jenkins
