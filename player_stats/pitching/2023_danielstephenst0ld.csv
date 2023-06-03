@@ -1,21 +1,37 @@
 date,location,opponent,result,score,team_score,opp_score,game_score_diff,game_win_loss,game_id,GS,W,L,SV,IP,H,R,ER,ERA,BB,K,HR,season,njcaa_season,njcaa_division,team,team_id,player_id,player_name
-May 15,home,LSU Eunice,L,7-6,7,6,1,win,20230515_ikqm,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div2,Brunswick,brunswickcommunitycollege,danielstephenst0ld,Daniel Stephens
-May 4,home,Jones,W,14-8,14,8,6,win,20230504_8iqo,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div2,Brunswick,brunswickcommunitycollege,danielstephenst0ld,Daniel Stephens
-Apr 30,home,Hinds,W,16-3,16,3,13,win,20230430_sk0i,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div2,Brunswick,brunswickcommunitycollege,danielstephenst0ld,Daniel Stephens
-Apr 28,home,Mississippi Gulf Coast,W,8-6,8,6,2,win,20230428_2ekr,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div2,Brunswick,brunswickcommunitycollege,danielstephenst0ld,Daniel Stephens
-Apr 15,home,Jones,L,17-6,17,6,11,win,20230415_0flw,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div2,Brunswick,brunswickcommunitycollege,danielstephenst0ld,Daniel Stephens
-Apr 12,home,Northwest Mississippi,W,15-2,15,2,13,win,20230412_c601,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div2,Brunswick,brunswickcommunitycollege,danielstephenst0ld,Daniel Stephens
-Apr 4,home,East Mississippi,W,12-5,12,5,7,win,20230404_txc1,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div2,Brunswick,brunswickcommunitycollege,danielstephenst0ld,Daniel Stephens
-Mar 18,home,Southwest Mississippi,W,14-9,14,9,5,win,20230318_oefm,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div2,Brunswick,brunswickcommunitycollege,danielstephenst0ld,Daniel Stephens
-Mar 18,home,Southwest Mississippi,W,20-7,20,7,13,win,20230318_1fdw,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div2,Brunswick,brunswickcommunitycollege,danielstephenst0ld,Daniel Stephens
-Mar 15,home,Coahoma,W,4-2,4,2,2,win,20230315_572n,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div2,Brunswick,brunswickcommunitycollege,danielstephenst0ld,Daniel Stephens
-Mar 15,home,Coahoma,W,11-0,11,0,11,win,20230315_axrh,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div2,Brunswick,brunswickcommunitycollege,danielstephenst0ld,Daniel Stephens
-Mar 7,home,East Central (MS),W,7-3,7,3,4,win,20230307_sbfu,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div2,Brunswick,brunswickcommunitycollege,danielstephenst0ld,Daniel Stephens
-Mar 7,home,Coahoma,W,11-2,11,2,9,win,20230307_kxyr,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div2,Brunswick,brunswickcommunitycollege,danielstephenst0ld,Daniel Stephens
-Mar 4,home,Wallace State,L,3-1,3,1,2,win,20230304_53nh,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div2,Brunswick,brunswickcommunitycollege,danielstephenst0ld,Daniel Stephens
-Feb 19,home,East Central (MO),W,18-0,18,0,18,win,20230219_y7rp,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div2,Brunswick,brunswickcommunitycollege,danielstephenst0ld,Daniel Stephens
-Feb 11,home,Kaskaskia,L,12-8,12,8,4,win,20230211_sv83,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div2,Brunswick,brunswickcommunitycollege,danielstephenst0ld,Daniel Stephens
-Feb 11,home,Kaskaskia,L,8-7,8,7,1,win,20230211_9zfr,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div2,Brunswick,brunswickcommunitycollege,danielstephenst0ld,Daniel Stephens
-Feb 10,home,Kaskaskia,W,9-8,9,8,1,win,20230210_hngn,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div2,Brunswick,brunswickcommunitycollege,danielstephenst0ld,Daniel Stephens
-Feb 5,home,Chattanooga State,W,5-4,5,4,1,win,20230205_ghoj,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div2,Brunswick,brunswickcommunitycollege,danielstephenst0ld,Daniel Stephens
-Feb 4,home,John A. Logan,W,9-3,9,3,6,win,20230204_9p0v,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div2,Brunswick,brunswickcommunitycollege,danielstephenst0ld,Daniel Stephens
+May 5,home,Bryant & Stratton (VA),L,4-1,4,1,3,win,20230505_gyvn,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div2,Brunswick,brunswickcommunitycollege,danielstephenst0ld,Daniel Stephens
+May 4,home,Patrick & Henry,L,9-7,9,7,2,win,20230504_yvbh,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div2,Brunswick,brunswickcommunitycollege,danielstephenst0ld,Daniel Stephens
+Apr 29,home,Fayetteville Tech,W,5-4,5,4,1,win,20230429_rflk,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div2,Brunswick,brunswickcommunitycollege,danielstephenst0ld,Daniel Stephens
+Apr 25,home,Southeastern-Whiteville,W,11-1,11,1,10,win,20230425_jmnx,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div2,Brunswick,brunswickcommunitycollege,danielstephenst0ld,Daniel Stephens
+Apr 23,home,Richard Bland,L,4-3,4,3,1,win,20230423_qe96,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div2,Brunswick,brunswickcommunitycollege,danielstephenst0ld,Daniel Stephens
+Apr 22,home,Richard Bland,W,5-3,5,3,2,win,20230422_qywm,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div2,Brunswick,brunswickcommunitycollege,danielstephenst0ld,Daniel Stephens
+Apr 19,home,Southeastern-Whiteville,W,8-4,8,4,4,win,20230419_rk4u,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div2,Brunswick,brunswickcommunitycollege,danielstephenst0ld,Daniel Stephens
+Apr 19,home,Southeastern-Whiteville,W,11-3,11,3,8,win,20230419_dqac,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div2,Brunswick,brunswickcommunitycollege,danielstephenst0ld,Daniel Stephens
+Apr 15,home,Lenoir,L,4-3,4,3,1,win,20230415_emfq,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div2,Brunswick,brunswickcommunitycollege,danielstephenst0ld,Daniel Stephens
+Apr 15,home,Lenoir,W,12-11,12,11,1,win,20230415_0enl,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div2,Brunswick,brunswickcommunitycollege,danielstephenst0ld,Daniel Stephens
+Apr 12,home,Southeastern-Whiteville,L,6-1,6,1,5,win,20230412_r53m,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div2,Brunswick,brunswickcommunitycollege,danielstephenst0ld,Daniel Stephens
+Apr 12,home,Southeastern-Whiteville,W,14-3,14,3,11,win,20230412_kkwg,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div2,Brunswick,brunswickcommunitycollege,danielstephenst0ld,Daniel Stephens
+Apr 7,home,Pitt,W,6-5,6,5,1,win,20230407_s8sy,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div2,Brunswick,brunswickcommunitycollege,danielstephenst0ld,Daniel Stephens
+Apr 7,home,Pitt,L,9-2,9,2,7,win,20230407_2j43,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div2,Brunswick,brunswickcommunitycollege,danielstephenst0ld,Daniel Stephens
+Apr 4,home,Southeastern-Whiteville,W,9-8,9,8,1,win,20230404_wgi0,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div2,Brunswick,brunswickcommunitycollege,danielstephenst0ld,Daniel Stephens
+Apr 2,home,Bryant & Stratton (VA),L,8-5,8,5,3,win,20230402_fska,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div2,Brunswick,brunswickcommunitycollege,danielstephenst0ld,Daniel Stephens
+Apr 1,home,Bryant & Stratton (VA),L,9-3,9,3,6,win,20230401_n1ou,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div2,Brunswick,brunswickcommunitycollege,danielstephenst0ld,Daniel Stephens
+Apr 1,home,Bryant & Stratton (VA),W,11-5,11,5,6,win,20230401_4y4j,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div2,Brunswick,brunswickcommunitycollege,danielstephenst0ld,Daniel Stephens
+Mar 28,home,Louisburg,W,3-1,3,1,2,win,20230328_o5ft,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div2,Brunswick,brunswickcommunitycollege,danielstephenst0ld,Daniel Stephens
+Mar 22,home,Florence-Darlington Tech,L,13-1,13,1,12,win,20230322_ntu8,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div2,Brunswick,brunswickcommunitycollege,danielstephenst0ld,Daniel Stephens
+Mar 19,home,Fayetteville Tech,W,5-4,5,4,1,win,20230319_tvcd,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div2,Brunswick,brunswickcommunitycollege,danielstephenst0ld,Daniel Stephens
+Mar 17,home,Fayetteville Tech,W,10-6,10,6,4,win,20230317_tkpc,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div2,Brunswick,brunswickcommunitycollege,danielstephenst0ld,Daniel Stephens
+Mar 12,home,Richard Bland,W,12-0,12,0,12,win,20230312_pcgt,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div2,Brunswick,brunswickcommunitycollege,danielstephenst0ld,Daniel Stephens
+Mar 11,home,Richard Bland,W,11-9,11,9,2,win,20230311_m2xp,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div2,Brunswick,brunswickcommunitycollege,danielstephenst0ld,Daniel Stephens
+Mar 11,home,Richard Bland,W,9-8,9,8,1,win,20230311_51pp,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div2,Brunswick,brunswickcommunitycollege,danielstephenst0ld,Daniel Stephens
+Mar 7,home,Gaston College,L,21-9,21,9,12,win,20230307_6zf1,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div2,Brunswick,brunswickcommunitycollege,danielstephenst0ld,Daniel Stephens
+Mar 5,home,Lenoir,L,6-5,6,5,1,win,20230305_gd0p,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div2,Brunswick,brunswickcommunitycollege,danielstephenst0ld,Daniel Stephens
+Mar 4,home,Lenoir,W,8-6,8,6,2,win,20230304_pu0w,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div2,Brunswick,brunswickcommunitycollege,danielstephenst0ld,Daniel Stephens
+Mar 4,home,Lenoir,W,2-0,2,0,2,win,20230304_3ml7,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div2,Brunswick,brunswickcommunitycollege,danielstephenst0ld,Daniel Stephens
+Mar 1,home,Louisburg,W,13-8,13,8,5,win,20230301_zuk4,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div2,Brunswick,brunswickcommunitycollege,danielstephenst0ld,Daniel Stephens
+Feb 24,home,Pitt,L,6-3,6,3,3,win,20230224_slpn,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div2,Brunswick,brunswickcommunitycollege,danielstephenst0ld,Daniel Stephens
+Feb 24,home,Pitt,W,22-13,22,13,9,win,20230224_6blx,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div2,Brunswick,brunswickcommunitycollege,danielstephenst0ld,Daniel Stephens
+Feb 22,home,Florence-Darlington Tech,L,15-5,15,5,10,win,20230222_3h90,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div2,Brunswick,brunswickcommunitycollege,danielstephenst0ld,Daniel Stephens
+Feb 18,home,Bryant & Stratton (VA),W,11-3,11,3,8,win,20230218_wpcx,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div2,Brunswick,brunswickcommunitycollege,danielstephenst0ld,Daniel Stephens
+Feb 18,home,Bryant & Stratton (VA),W,4-1,4,1,3,win,20230218_t1p0,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div2,Brunswick,brunswickcommunitycollege,danielstephenst0ld,Daniel Stephens
+Feb 4,home,East Carolina Club,W,4-3,4,3,1,win,20230204_03pr,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div2,Brunswick,brunswickcommunitycollege,danielstephenst0ld,Daniel Stephens

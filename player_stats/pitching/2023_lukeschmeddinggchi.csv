@@ -1,9 +1,45 @@
 date,location,opponent,result,score,team_score,opp_score,game_score_diff,game_win_loss,game_id,GS,W,L,SV,IP,H,R,ER,ERA,BB,K,HR,season,njcaa_season,njcaa_division,team,team_id,player_id,player_name
-Apr 10,home,Baker University JV,W,12-5,12,5,7,win,20230410_fmcd,1,0,0,0,2.0,3,2,2,9.00,1,2,,2023,2022-23,div1,Cloud County,cloudcountycommunitycollege,lukeschmeddinggchi,Luke Schmedding
-Mar 25,home,Butler,L,10-4,10,4,6,win,20230325_i2hw,0,0,0,0,1.2,3,2,2,10.80,1,1,,2023,2022-23,div1,Cloud County,cloudcountycommunitycollege,lukeschmeddinggchi,Luke Schmedding
-Mar 21,home,Highland (KS),L,8-6,8,6,2,win,20230321_svi1,0,0,0,0,1.0,2,1,,0.00,,2,,2023,2022-23,div1,Cloud County,cloudcountycommunitycollege,lukeschmeddinggchi,Luke Schmedding
-Mar 11,home,Pratt,L,12-2,12,2,10,win,20230311_vxvu,0,0,0,0,0.2,4,3,3,40.50,,1,,2023,2022-23,div1,Cloud County,cloudcountycommunitycollege,lukeschmeddinggchi,Luke Schmedding
-Mar 4,home,Johnson County,L,7-1,7,1,6,win,20230304_d8z2,0,0,0,0,0.2,,,,0.00,,,,2023,2022-23,div1,Cloud County,cloudcountycommunitycollege,lukeschmeddinggchi,Luke Schmedding
-Mar 3,home,Johnson County,L,14-4,14,4,10,win,20230303_xivc,0,0,0,0,1.0,,,,0.00,,,,2023,2022-23,div1,Cloud County,cloudcountycommunitycollege,lukeschmeddinggchi,Luke Schmedding
-Feb 26,home,Marshalltown,W,15-5,15,5,10,win,20230226_669v,0,1,0,0,2.0,1,,,0.00,,2,,2023,2022-23,div1,Cloud County,cloudcountycommunitycollege,lukeschmeddinggchi,Luke Schmedding
-Feb 19,home,Crowder,L,9-2,9,2,7,win,20230219_lsvu,0,0,0,0,1.0,,,,0.00,,1,,2023,2022-23,div1,Cloud County,cloudcountycommunitycollege,lukeschmeddinggchi,Luke Schmedding
+May 18,home,Kansas City Kansas,L,11-3,11,3,8,win,20230518_sn6g,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div1,Cloud County,cloudcountycommunitycollege,lukeschmeddinggchi,Luke Schmedding
+May 17,home,Cowley,L,3-1,3,1,2,win,20230517_g7fz,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div1,Cloud County,cloudcountycommunitycollege,lukeschmeddinggchi,Luke Schmedding
+May 12,home,Coffeyville,W,7-3,7,3,4,win,20230512_qjph,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div1,Cloud County,cloudcountycommunitycollege,lukeschmeddinggchi,Luke Schmedding
+May 11,home,Coffeyville,L,1-0,1,0,1,win,20230511_g6yy,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div1,Cloud County,cloudcountycommunitycollege,lukeschmeddinggchi,Luke Schmedding
+May 10,home,Coffeyville,W,10-4,10,4,6,win,20230510_5ghe,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div1,Cloud County,cloudcountycommunitycollege,lukeschmeddinggchi,Luke Schmedding
+May 6,home,Dodge City,L,12-9,12,9,3,win,20230506_a1if,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div1,Cloud County,cloudcountycommunitycollege,lukeschmeddinggchi,Luke Schmedding
+May 6,home,Dodge City,W,9-1,9,1,8,win,20230506_0s7x,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div1,Cloud County,cloudcountycommunitycollege,lukeschmeddinggchi,Luke Schmedding
+May 4,home,Dodge City,W,12-6,12,6,6,win,20230504_rvdc,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div1,Cloud County,cloudcountycommunitycollege,lukeschmeddinggchi,Luke Schmedding
+May 4,home,Dodge City,L,1-0,1,0,1,win,20230504_xsty,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div1,Cloud County,cloudcountycommunitycollege,lukeschmeddinggchi,Luke Schmedding
+Apr 29,home,Colby,W,20-18,20,18,2,win,20230429_p1cy,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div1,Cloud County,cloudcountycommunitycollege,lukeschmeddinggchi,Luke Schmedding
+Apr 29,home,Colby,W,15-9,15,9,6,win,20230429_zt00,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div1,Cloud County,cloudcountycommunitycollege,lukeschmeddinggchi,Luke Schmedding
+Apr 20,home,Barton,L,5-4,5,4,1,win,20230420_45jc,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div1,Cloud County,cloudcountycommunitycollege,lukeschmeddinggchi,Luke Schmedding
+Apr 17,home,Kansas Wesleyan JV,W,10-0,10,0,10,win,20230417_7m0d,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div1,Cloud County,cloudcountycommunitycollege,lukeschmeddinggchi,Luke Schmedding
+Apr 15,home,Garden City,W,17-5,17,5,12,win,20230415_ypkg,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div1,Cloud County,cloudcountycommunitycollege,lukeschmeddinggchi,Luke Schmedding
+Apr 15,home,Garden City,W,10-5,10,5,5,win,20230415_508l,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div1,Cloud County,cloudcountycommunitycollege,lukeschmeddinggchi,Luke Schmedding
+Apr 13,home,Garden City,W,15-1,15,1,14,win,20230413_lr70,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div1,Cloud County,cloudcountycommunitycollege,lukeschmeddinggchi,Luke Schmedding
+Apr 13,home,Garden City,W,11-0,11,0,11,win,20230413_8ntb,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div1,Cloud County,cloudcountycommunitycollege,lukeschmeddinggchi,Luke Schmedding
+Apr 8,home,Hutchinson,L,5-3,5,3,2,win,20230408_560h,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div1,Cloud County,cloudcountycommunitycollege,lukeschmeddinggchi,Luke Schmedding
+Apr 8,home,Hutchinson,W,10-4,10,4,6,win,20230408_sste,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div1,Cloud County,cloudcountycommunitycollege,lukeschmeddinggchi,Luke Schmedding
+Apr 6,home,Hutchinson,W,9-5,9,5,4,win,20230406_zkqx,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div1,Cloud County,cloudcountycommunitycollege,lukeschmeddinggchi,Luke Schmedding
+Apr 6,home,Hutchinson,W,4-1,4,1,3,win,20230406_ezil,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div1,Cloud County,cloudcountycommunitycollege,lukeschmeddinggchi,Luke Schmedding
+Apr 1,home,Neosho County,L,2-1,2,1,1,win,20230401_geyf,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div1,Cloud County,cloudcountycommunitycollege,lukeschmeddinggchi,Luke Schmedding
+Apr 1,home,Neosho County,W,3-2,3,2,1,win,20230401_83xd,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div1,Cloud County,cloudcountycommunitycollege,lukeschmeddinggchi,Luke Schmedding
+Mar 28,home,Cowley,W,8-7,8,7,1,win,20230328_kz1t,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div1,Cloud County,cloudcountycommunitycollege,lukeschmeddinggchi,Luke Schmedding
+Mar 25,home,Butler,L,9-8,9,8,1,win,20230325_wyu3,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div1,Cloud County,cloudcountycommunitycollege,lukeschmeddinggchi,Luke Schmedding
+Mar 25,home,Butler,L,10-4,10,4,6,win,20230325_i2hw,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div1,Cloud County,cloudcountycommunitycollege,lukeschmeddinggchi,Luke Schmedding
+Mar 23,home,Butler,L,5-1,5,1,4,win,20230323_17q0,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div1,Cloud County,cloudcountycommunitycollege,lukeschmeddinggchi,Luke Schmedding
+Mar 23,home,Butler,W,3-1,3,1,2,win,20230323_1qna,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div1,Cloud County,cloudcountycommunitycollege,lukeschmeddinggchi,Luke Schmedding
+Mar 21,home,Highland (KS),L,8-6,8,6,2,win,20230321_svi1,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div1,Cloud County,cloudcountycommunitycollege,lukeschmeddinggchi,Luke Schmedding
+Mar 19,home,Seward County,W,15-4,15,4,11,win,20230319_w5c2,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div1,Cloud County,cloudcountycommunitycollege,lukeschmeddinggchi,Luke Schmedding
+Mar 19,home,Seward County,W,13-2,13,2,11,win,20230319_pxod,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div1,Cloud County,cloudcountycommunitycollege,lukeschmeddinggchi,Luke Schmedding
+Mar 17,home,Seward County,W,6-5,6,5,1,win,20230317_6gke,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div1,Cloud County,cloudcountycommunitycollege,lukeschmeddinggchi,Luke Schmedding
+Mar 17,home,Seward County,L,5-4,5,4,1,win,20230317_05a9,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div1,Cloud County,cloudcountycommunitycollege,lukeschmeddinggchi,Luke Schmedding
+Mar 3,home,Johnson County,L,15-3,15,3,12,win,20230303_q52x,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div1,Cloud County,cloudcountycommunitycollege,lukeschmeddinggchi,Luke Schmedding
+Feb 26,home,Marshalltown,W,22-5,22,5,17,win,20230226_lven,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div1,Cloud County,cloudcountycommunitycollege,lukeschmeddinggchi,Luke Schmedding
+Feb 25,home,Marshalltown,W,3-1,3,1,2,win,20230225_jcw7,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div1,Cloud County,cloudcountycommunitycollege,lukeschmeddinggchi,Luke Schmedding
+Feb 25,home,Marshalltown,W,10-9,10,9,1,win,20230225_0up9,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div1,Cloud County,cloudcountycommunitycollege,lukeschmeddinggchi,Luke Schmedding
+Feb 19,home,Crowder,L,9-2,9,2,7,win,20230219_lsvu,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div1,Cloud County,cloudcountycommunitycollege,lukeschmeddinggchi,Luke Schmedding
+Feb 19,home,Crowder,W,12-3,12,3,9,win,20230219_6src,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div1,Cloud County,cloudcountycommunitycollege,lukeschmeddinggchi,Luke Schmedding
+Feb 18,home,Crowder,L,9-6,9,6,3,win,20230218_waa0,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div1,Cloud County,cloudcountycommunitycollege,lukeschmeddinggchi,Luke Schmedding
+Feb 17,home,Northern Oklahoma Enid,L,8-7,8,7,1,win,20230217_ippl,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div1,Cloud County,cloudcountycommunitycollege,lukeschmeddinggchi,Luke Schmedding
+Feb 17,home,Eastern Oklahoma State,W,11-5,11,5,6,win,20230217_jm6w,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div1,Cloud County,cloudcountycommunitycollege,lukeschmeddinggchi,Luke Schmedding
+Feb 13,home,Kansas Wesleyan JV,W,11-2,11,2,9,win,20230213_is5d,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div1,Cloud County,cloudcountycommunitycollege,lukeschmeddinggchi,Luke Schmedding
+Feb 13,home,Kansas Wesleyan JV,W,11-0,11,0,11,win,20230213_dabo,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div1,Cloud County,cloudcountycommunitycollege,lukeschmeddinggchi,Luke Schmedding

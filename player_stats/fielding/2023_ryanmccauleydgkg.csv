@@ -1,13 +1,16 @@
 date,location,opponent,result,score,team_score,opp_score,game_score_diff,game_win_loss,game_id,TC,PO,A,E,FPCT,DP,SBA,RCS,RCS_PCT,PB,CI,season,njcaa_season,njcaa_division,team,team_id,player_id,player_name
-Feb 18,home,Florence-Darlington Tech,L,5-4,5,4,1,win,20230218_3fs5,0,0,0,0,1.1,,,,0.00,1,1,2023,2022-23,div1,Harford,harfordcommunitycollege,ryanmccauleydgkg,Ryan McCauley
-Feb 21,home,USC Sumter,L,14-9,14,9,5,win,20230221_xhag,0,0,0,0,0.2,2,5,5,67.50,4,0,2023,2022-23,div1,Harford,harfordcommunitycollege,ryanmccauleydgkg,Ryan McCauley
-Mar 2,home,Mercer County,W,4-3,4,3,1,win,20230302_e7vm,0,1,0,0,1.1,1,,,0.00,2,2,2023,2022-23,div1,Harford,harfordcommunitycollege,ryanmccauleydgkg,Ryan McCauley
-Mar 4,home,Delaware Tech,W,6-5,6,5,1,win,20230304_dq8h,0,0,0,1,1.0,,,,0.00,1,1,2023,2022-23,div1,Harford,harfordcommunitycollege,ryanmccauleydgkg,Ryan McCauley
-Mar 7,home,CCBC Essex,W,17-12,17,12,5,win,20230307_qhzq,0,1,0,0,3.0,3,4,4,12.00,3,5,2023,2022-23,div1,Harford,harfordcommunitycollege,ryanmccauleydgkg,Ryan McCauley
-Mar 12,home,Monroe College,L,2-1,2,1,1,win,20230312_vkxc,0,0,0,0,1.0,,,,0.00,2,1,2023,2022-23,div1,Harford,harfordcommunitycollege,ryanmccauleydgkg,Ryan McCauley
-Mar 17,home,RCSJ Gloucester,L,13-2,13,2,11,win,20230317_9ysk,0,0,0,0,0.1,1,,,0.00,1,,2023,2022-23,div1,Harford,harfordcommunitycollege,ryanmccauleydgkg,Ryan McCauley
-Mar 21,home,Prince George's,W,9-0,9,0,9,win,20230321_6l2g,0,0,0,0,1.0,2,,,0.00,,2,2023,2022-23,div1,Harford,harfordcommunitycollege,ryanmccauleydgkg,Ryan McCauley
-Mar 26,home,Mercer County,L,11-3,11,3,8,win,20230326_ydfk,0,0,0,0,1.0,2,2,2,18.00,1,2,2023,2022-23,div1,Harford,harfordcommunitycollege,ryanmccauleydgkg,Ryan McCauley
-Mar 28,home,Cecil,W,11-0,11,0,11,win,20230328_e9xj,0,0,0,0,1.0,,,,0.00,3,1,2023,2022-23,div1,Harford,harfordcommunitycollege,ryanmccauleydgkg,Ryan McCauley
-Apr 2,home,CCBC Catonsville,L,5-3,5,3,2,win,20230402_weqp,0,0,0,0,1.1,1,1,1,6.75,2,1,2023,2022-23,div1,Harford,harfordcommunitycollege,ryanmccauleydgkg,Ryan McCauley
-Apr 12,home,RCSJ Gloucester,L,12-2,12,2,10,win,20230412_f7k0,0,0,1,0,0.1,2,5,4,108.00,2,,2023,2022-23,div1,Harford,harfordcommunitycollege,ryanmccauleydgkg,Ryan McCauley
+Jan 28,home,Hillsborough,W,5-1,5,1,4,win,20230128_3zia,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Harford,harfordcommunitycollege,ryanmccauleydgkg,Ryan McCauley
+Feb 1,home,St. Johns River State,W,3-2,3,2,1,win,20230201_qpz7,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Harford,harfordcommunitycollege,ryanmccauleydgkg,Ryan McCauley
+Feb 3,home,Indian River State,L,5-0,5,0,5,win,20230203_bb9i,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Harford,harfordcommunitycollege,ryanmccauleydgkg,Ryan McCauley
+Feb 10,home,St. Petersburg,W,11-7,11,7,4,win,20230210_n3jh,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Harford,harfordcommunitycollege,ryanmccauleydgkg,Ryan McCauley
+Feb 13,home,Lake-Sumter State,W,17-3,17,3,14,win,20230213_wgwi,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Harford,harfordcommunitycollege,ryanmccauleydgkg,Ryan McCauley
+Mar 1,home,Florida State Jacksonville,W,11-1,11,1,10,win,20230301_bc6h,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Harford,harfordcommunitycollege,ryanmccauleydgkg,Ryan McCauley
+Mar 3,home,State College of Florida,L,11-3,11,3,8,win,20230303_ha5a,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Harford,harfordcommunitycollege,ryanmccauleydgkg,Ryan McCauley
+Mar 20,home,Indian River State,L,9-4,9,4,5,win,20230320_msuc,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Harford,harfordcommunitycollege,ryanmccauleydgkg,Ryan McCauley
+Mar 27,home,Lake-Sumter State,W,5-4,5,4,1,win,20230327_1s3j,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Harford,harfordcommunitycollege,ryanmccauleydgkg,Ryan McCauley
+Apr 3,home,Lake-Sumter State,W,14-11,14,11,3,win,20230403_4ba9,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Harford,harfordcommunitycollege,ryanmccauleydgkg,Ryan McCauley
+Apr 15,home,Daytona State,W,11-6,11,6,5,win,20230415_kyv1,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Harford,harfordcommunitycollege,ryanmccauleydgkg,Ryan McCauley
+Apr 19,home,Santa Fe,L,7-5,7,5,2,win,20230419_9o00,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Harford,harfordcommunitycollege,ryanmccauleydgkg,Ryan McCauley
+Apr 21,home,Central Florida,L,16-8,16,8,8,win,20230421_kut5,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Harford,harfordcommunitycollege,ryanmccauleydgkg,Ryan McCauley
+Apr 22,home,Central Florida,L,6-3,6,3,3,win,20230422_sepn,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Harford,harfordcommunitycollege,ryanmccauleydgkg,Ryan McCauley
+Apr 26,home,Daytona State,L,15-6,15,6,9,win,20230426_q1bc,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Harford,harfordcommunitycollege,ryanmccauleydgkg,Ryan McCauley

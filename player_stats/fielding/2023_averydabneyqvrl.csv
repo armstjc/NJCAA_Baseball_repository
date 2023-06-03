@@ -1,11 +1,20 @@
 date,location,opponent,result,score,team_score,opp_score,game_score_diff,game_win_loss,game_id,TC,PO,A,E,FPCT,DP,SBA,RCS,RCS_PCT,PB,CI,season,njcaa_season,njcaa_division,team,team_id,player_id,player_name
-Feb 19,home,Atlantic Cape,L,6-3,6,3,3,win,20230219_41ou,0,0,0,0,1.0,1,,,0.00,,3,2023,2022-23,div2,Delaware Tech,delawaretechnicalcommunitycollege,averydabneyqvrl,Avery Dabney
-Feb 23,home,Chesapeake,W,7-6,7,6,1,win,20230223_ottg,0,0,0,0,1.1,1,,,0.00,2,2,2023,2022-23,div2,Delaware Tech,delawaretechnicalcommunitycollege,averydabneyqvrl,Avery Dabney
-Mar 12,home,Allegany Maryland,W,13-5,13,5,8,win,20230312_3t60,0,0,0,0,2.0,1,1,1,4.50,2,4,2023,2022-23,div2,Delaware Tech,delawaretechnicalcommunitycollege,averydabneyqvrl,Avery Dabney
-Mar 18,home,RCSJ Gloucester,L,6-1,6,1,5,win,20230318_b0wg,0,0,0,0,0.2,1,,,0.00,,1,2023,2022-23,div2,Delaware Tech,delawaretechnicalcommunitycollege,averydabneyqvrl,Avery Dabney
-Mar 19,home,CCBC Catonsville,L,11-9,11,9,2,win,20230319_n5kt,0,0,0,0,1.0,,,,0.00,1,1,2023,2022-23,div2,Delaware Tech,delawaretechnicalcommunitycollege,averydabneyqvrl,Avery Dabney
-Mar 23,home,Raritan Valley,W,23-1,23,1,22,win,20230323_l3fg,0,0,0,0,0.2,,,,0.00,,2,2023,2022-23,div2,Delaware Tech,delawaretechnicalcommunitycollege,averydabneyqvrl,Avery Dabney
-Apr 2,home,Mercer County,W,7-4,7,4,3,win,20230402_89y4,0,0,0,1,1.1,2,,,0.00,,3,2023,2022-23,div2,Delaware Tech,delawaretechnicalcommunitycollege,averydabneyqvrl,Avery Dabney
-Apr 5,home,Southern Maryland,W,9-1,9,1,8,win,20230405_1a4a,0,0,0,0,2.0,1,,,0.00,,3,2023,2022-23,div2,Delaware Tech,delawaretechnicalcommunitycollege,averydabneyqvrl,Avery Dabney
-Apr 12,home,CCBC Dundalk,L,11-6,11,6,5,win,20230412_2moy,0,0,1,0,0.0,2,3,3,INF,1,,2023,2022-23,div2,Delaware Tech,delawaretechnicalcommunitycollege,averydabneyqvrl,Avery Dabney
-Apr 16,home,Lackawanna,L,6-5,6,5,1,win,20230416_lcu8,0,0,0,0,0.1,2,1,1,27.00,1,,2023,2022-23,div2,Delaware Tech,delawaretechnicalcommunitycollege,averydabneyqvrl,Avery Dabney
+Feb 11,home,Cecil,W,7-6,7,6,1,win,20230211_mric,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div2,Delaware Tech,delawaretechnicalcommunitycollege,averydabneyqvrl,Avery Dabney
+Feb 12,home,Cecil,L,6-3,6,3,3,win,20230212_8v9o,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div2,Delaware Tech,delawaretechnicalcommunitycollege,averydabneyqvrl,Avery Dabney
+Feb 19,home,Atlantic Cape,W,15-1,15,1,14,win,20230219_mocf,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div2,Delaware Tech,delawaretechnicalcommunitycollege,averydabneyqvrl,Avery Dabney
+Feb 22,home,Anne Arundel,W,11-1,11,1,10,win,20230222_71qh,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div2,Delaware Tech,delawaretechnicalcommunitycollege,averydabneyqvrl,Avery Dabney
+Feb 23,home,Chesapeake,W,7-6,7,6,1,win,20230223_ottg,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div2,Delaware Tech,delawaretechnicalcommunitycollege,averydabneyqvrl,Avery Dabney
+Mar 4,home,Harford,L,15-5,15,5,10,win,20230304_evz4,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div2,Delaware Tech,delawaretechnicalcommunitycollege,averydabneyqvrl,Avery Dabney
+Mar 19,home,CCBC Catonsville,L,22-5,22,5,17,win,20230319_3mdu,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div2,Delaware Tech,delawaretechnicalcommunitycollege,averydabneyqvrl,Avery Dabney
+Mar 23,home,Raritan Valley,W,23-1,23,1,22,win,20230323_l3fg,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div2,Delaware Tech,delawaretechnicalcommunitycollege,averydabneyqvrl,Avery Dabney
+Apr 6,home,CCBC Essex,W,10-2,10,2,8,win,20230406_t4jl,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div2,Delaware Tech,delawaretechnicalcommunitycollege,averydabneyqvrl,Avery Dabney
+Apr 22,home,Lehigh Carbon,W,24-1,24,1,23,win,20230422_b384,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div2,Delaware Tech,delawaretechnicalcommunitycollege,averydabneyqvrl,Avery Dabney
+Apr 22,home,Lehigh Carbon,W,11-7,11,7,4,win,20230422_5kqa,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div2,Delaware Tech,delawaretechnicalcommunitycollege,averydabneyqvrl,Avery Dabney
+Apr 23,home,Bucks County Community College,L,12-1,12,1,11,win,20230423_1q8r,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div2,Delaware Tech,delawaretechnicalcommunitycollege,averydabneyqvrl,Avery Dabney
+May 6,home,CCBC Dundalk,W,6-5,6,5,1,win,20230506_es7h,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div2,Delaware Tech,delawaretechnicalcommunitycollege,averydabneyqvrl,Avery Dabney
+May 12,home,Sussex County,W,8-6,8,6,2,win,20230512_5fzh,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div2,Delaware Tech,delawaretechnicalcommunitycollege,averydabneyqvrl,Avery Dabney
+May 12,home,Lackawanna,L,6-4,6,4,2,win,20230512_662a,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div2,Delaware Tech,delawaretechnicalcommunitycollege,averydabneyqvrl,Avery Dabney
+May 13,home,Sussex County,W,12-4,12,4,8,win,20230513_abf4,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div2,Delaware Tech,delawaretechnicalcommunitycollege,averydabneyqvrl,Avery Dabney
+May 13,home,Lackawanna,L,15-2,15,2,13,win,20230513_srl3,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div2,Delaware Tech,delawaretechnicalcommunitycollege,averydabneyqvrl,Avery Dabney
+May 19,home,Sullivan County,W,14-9,14,9,5,win,20230519_6apm,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div2,Delaware Tech,delawaretechnicalcommunitycollege,averydabneyqvrl,Avery Dabney
+May 19,home,Lackawanna,L,7-5,7,5,2,win,20230519_ec69,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div2,Delaware Tech,delawaretechnicalcommunitycollege,averydabneyqvrl,Avery Dabney

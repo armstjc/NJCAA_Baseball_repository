@@ -1,11 +1,14 @@
 date,location,opponent,result,score,team_score,opp_score,game_score_diff,game_win_loss,game_id,GS,W,L,SV,IP,H,R,ER,ERA,BB,K,HR,season,njcaa_season,njcaa_division,team,team_id,player_id,player_name
-May 6,home,New Mexico Military,W,19-8,19,8,11,win,20230506_32y4,1,1,0,0,3.2,6,7,7,17.18,3,4,1,2023,2022-23,div1,Howard (TX),howardcollege,elistewart1oae,Eli Stewart
-Apr 30,home,New Mexico,W,9-7,9,7,2,win,20230430_i06s,1,0,0,0,3.2,6,6,5,12.27,1,2,2,2023,2022-23,div1,Howard (TX),howardcollege,elistewart1oae,Eli Stewart
-Apr 22,home,El Paso,L,11-9,11,9,2,win,20230422_z0mx,1,0,0,0,5.2,4,3,3,4.76,1,5,1,2023,2022-23,div1,Howard (TX),howardcollege,elistewart1oae,Eli Stewart
-Apr 16,home,Western Texas,L,7-6,7,6,1,win,20230416_bb2v,1,0,0,0,3.2,2,2,2,4.91,6,2,,2023,2022-23,div1,Howard (TX),howardcollege,elistewart1oae,Eli Stewart
-Apr 8,home,Clarendon,L,9-3,9,3,6,win,20230408_tal6,1,0,0,0,4.2,5,3,3,5.79,6,2,1,2023,2022-23,div1,Howard (TX),howardcollege,elistewart1oae,Eli Stewart
-Mar 25,home,Frank Phillips,W,13-11,13,11,2,win,20230325_9rz0,0,0,0,0,1.1,2,5,5,33.75,4,1,,2023,2022-23,div1,Howard (TX),howardcollege,elistewart1oae,Eli Stewart
-Mar 14,home,Western Texas,L,11-10,11,10,1,win,20230314_jjga,1,0,0,0,4.0,3,3,3,6.75,3,3,,2023,2022-23,div1,Howard (TX),howardcollege,elistewart1oae,Eli Stewart
-Feb 25,home,Wayland Baptist University,W,3-2,3,2,1,win,20230225_56y9,1,0,0,0,2.0,2,2,2,9.00,4,3,,2023,2022-23,div1,Howard (TX),howardcollege,elistewart1oae,Eli Stewart
-Feb 19,home,Northeast Texas,L,8-4,8,4,4,win,20230219_zlq4,0,0,0,0,1.0,,,,0.00,1,,,2023,2022-23,div1,Howard (TX),howardcollege,elistewart1oae,Eli Stewart
-Feb 11,home,Tyler,L,19-9,19,9,10,win,20230211_fekc,0,0,0,0,1.0,2,2,2,18.00,,,1,2023,2022-23,div1,Howard (TX),howardcollege,elistewart1oae,Eli Stewart
+May 6,home,Wallace State,W,4-3,4,3,1,win,20230506_49en,0,0,0,0,1.0,,,,0.00,,1,,2023,2022-23,div1,Howard (TX),howardcollege,elistewart1oae,Eli Stewart
+May 4,home,Wallace State,L,10-7,10,7,3,win,20230504_os66,0,0,0,0,1.1,1,1,1,6.75,,,,2023,2022-23,div1,Howard (TX),howardcollege,elistewart1oae,Eli Stewart
+Apr 29,home,Lawson State,L,12-5,12,5,7,win,20230429_6cq1,0,0,0,0,1.0,1,,,0.00,1,1,,2023,2022-23,div1,Howard (TX),howardcollege,elistewart1oae,Eli Stewart
+Apr 22,home,Southern Union State,L,12-10,12,10,2,win,20230422_isd6,0,0,0,0,1.2,1,,,0.00,1,2,,2023,2022-23,div1,Howard (TX),howardcollege,elistewart1oae,Eli Stewart
+Apr 13,home,Northwest-Shoals Community College,L,8-7,8,7,1,win,20230413_zy8x,0,0,0,0,1.0,2,1,1,9.00,,1,,2023,2022-23,div1,Howard (TX),howardcollege,elistewart1oae,Eli Stewart
+Apr 13,home,Northwest-Shoals Community College,L,8-2,8,2,6,win,20230413_ubzo,0,0,0,0,1.0,,,,0.00,,1,,2023,2022-23,div1,Howard (TX),howardcollege,elistewart1oae,Eli Stewart
+Apr 11,home,Point University JV,W,9-0,9,0,9,win,20230411_480a,0,0,0,0,1.0,1,,,0.00,,1,,2023,2022-23,div1,Howard (TX),howardcollege,elistewart1oae,Eli Stewart
+Mar 31,home,Bevill State,L,3-1,3,1,2,win,20230331_yh0z,0,0,0,0,0.1,1,2,2,54.00,4,,,2023,2022-23,div1,Howard (TX),howardcollege,elistewart1oae,Eli Stewart
+Mar 16,home,Snead State,L,14-8,14,8,6,win,20230316_09zc,0,0,0,0,0.1,1,,,0.00,2,,,2023,2022-23,div1,Howard (TX),howardcollege,elistewart1oae,Eli Stewart
+Feb 25,home,Wallace-Dothan,W,6-2,6,2,4,win,20230225_dlh6,0,0,0,0,1.0,2,,,0.00,,,,2023,2022-23,div1,Howard (TX),howardcollege,elistewart1oae,Eli Stewart
+Feb 16,home,John A. Logan,W,9-6,9,6,3,win,20230216_4h27,0,1,0,0,2.1,2,,,0.00,1,,,2023,2022-23,div1,Howard (TX),howardcollege,elistewart1oae,Eli Stewart
+Feb 8,home,Andrew,L,5-1,5,1,4,win,20230208_5v4k,0,0,0,0,2.0,2,1,1,4.50,,,,2023,2022-23,div1,Howard (TX),howardcollege,elistewart1oae,Eli Stewart
+Feb 5,home,Volunteer State,L,11-4,11,4,7,win,20230205_mw5i,0,0,0,0,1.0,,,,0.00,,2,,2023,2022-23,div1,Howard (TX),howardcollege,elistewart1oae,Eli Stewart

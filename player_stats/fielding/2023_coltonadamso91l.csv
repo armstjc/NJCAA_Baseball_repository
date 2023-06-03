@@ -1,9 +1,16 @@
 date,location,opponent,result,score,team_score,opp_score,game_score_diff,game_win_loss,game_id,TC,PO,A,E,FPCT,DP,SBA,RCS,RCS_PCT,PB,CI,season,njcaa_season,njcaa_division,team,team_id,player_id,player_name
-Feb 18,home,Southeastern-Whiteville,W,12-10,12,10,2,win,20230218_0zkt,0,0,0,0,0.1,4,5,5,135.00,1,,2023,2022-23,div1,Harford,harfordcommunitycollege,coltonadamso91l,Colton Adams
-Feb 28,home,Anne Arundel,W,10-7,10,7,3,win,20230228_728h,1,1,0,0,3.0,2,2,2,6.00,2,3,2023,2022-23,div1,Harford,harfordcommunitycollege,coltonadamso91l,Colton Adams
-Mar 4,home,Delaware Tech,W,15-5,15,5,10,win,20230304_evz4,0,0,0,0,1.0,1,1,1,9.00,1,1,2023,2022-23,div1,Harford,harfordcommunitycollege,coltonadamso91l,Colton Adams
-Mar 21,home,Prince George's,W,7-3,7,3,4,win,20230321_xsmx,0,1,0,0,2.1,,,,0.00,2,5,2023,2022-23,div1,Harford,harfordcommunitycollege,coltonadamso91l,Colton Adams
-Apr 4,home,Frederick,W,9-8,9,8,1,win,20230404_klxm,0,1,0,0,1.1,2,,,0.00,,2,2023,2022-23,div1,Harford,harfordcommunitycollege,coltonadamso91l,Colton Adams
-Apr 12,home,RCSJ Gloucester,L,12-2,12,2,10,win,20230412_f7k0,0,0,0,0,1.2,2,4,1,5.40,2,2,2023,2022-23,div1,Harford,harfordcommunitycollege,coltonadamso91l,Colton Adams
-Apr 18,home,Southern Maryland,W,13-3,13,3,10,win,20230418_8cm4,1,1,0,0,3.2,2,1,1,2.45,2,5,2023,2022-23,div1,Harford,harfordcommunitycollege,coltonadamso91l,Colton Adams
-Apr 25,home,CCBC Dundalk,L,5-4,5,4,1,win,20230425_fq2i,0,0,0,0,0.1,1,2,2,54.00,1,,2023,2022-23,div1,Harford,harfordcommunitycollege,coltonadamso91l,Colton Adams
+Jan 28,home,Hillsborough,W,5-1,5,1,4,win,20230128_3zia,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Harford,harfordcommunitycollege,coltonadamso91l,Colton Adams
+Feb 1,home,St. Johns River State,W,3-2,3,2,1,win,20230201_qpz7,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Harford,harfordcommunitycollege,coltonadamso91l,Colton Adams
+Feb 3,home,Indian River State,L,5-0,5,0,5,win,20230203_bb9i,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Harford,harfordcommunitycollege,coltonadamso91l,Colton Adams
+Feb 10,home,St. Petersburg,W,11-7,11,7,4,win,20230210_n3jh,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Harford,harfordcommunitycollege,coltonadamso91l,Colton Adams
+Feb 13,home,Lake-Sumter State,W,17-3,17,3,14,win,20230213_wgwi,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Harford,harfordcommunitycollege,coltonadamso91l,Colton Adams
+Mar 1,home,Florida State Jacksonville,W,11-1,11,1,10,win,20230301_bc6h,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Harford,harfordcommunitycollege,coltonadamso91l,Colton Adams
+Mar 3,home,State College of Florida,L,11-3,11,3,8,win,20230303_ha5a,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Harford,harfordcommunitycollege,coltonadamso91l,Colton Adams
+Mar 20,home,Indian River State,L,9-4,9,4,5,win,20230320_msuc,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Harford,harfordcommunitycollege,coltonadamso91l,Colton Adams
+Mar 27,home,Lake-Sumter State,W,5-4,5,4,1,win,20230327_1s3j,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Harford,harfordcommunitycollege,coltonadamso91l,Colton Adams
+Apr 3,home,Lake-Sumter State,W,14-11,14,11,3,win,20230403_4ba9,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Harford,harfordcommunitycollege,coltonadamso91l,Colton Adams
+Apr 15,home,Daytona State,W,11-6,11,6,5,win,20230415_kyv1,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Harford,harfordcommunitycollege,coltonadamso91l,Colton Adams
+Apr 19,home,Santa Fe,L,7-5,7,5,2,win,20230419_9o00,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Harford,harfordcommunitycollege,coltonadamso91l,Colton Adams
+Apr 21,home,Central Florida,L,16-8,16,8,8,win,20230421_kut5,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Harford,harfordcommunitycollege,coltonadamso91l,Colton Adams
+Apr 22,home,Central Florida,L,6-3,6,3,3,win,20230422_sepn,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Harford,harfordcommunitycollege,coltonadamso91l,Colton Adams
+Apr 26,home,Daytona State,L,15-6,15,6,9,win,20230426_q1bc,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Harford,harfordcommunitycollege,coltonadamso91l,Colton Adams

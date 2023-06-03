@@ -1,10 +1,40 @@
 date,location,opponent,result,score,team_score,opp_score,game_score_diff,game_win_loss,game_id,GS,W,L,SV,IP,H,R,ER,ERA,BB,K,HR,season,njcaa_season,njcaa_division,team,team_id,player_id,player_name
-May 11,home,Lansing,L,9-4,9,4,5,win,20230511_29nc,0,0,0,0,3.0,1,,,0.00,,1,,2023,2022-23,div2,Cuyahoga,cuyahogacommunitycollege,rileymcelwainmv0k,Riley McElwain
-Apr 29,home,Bryant & Stratton (OH),L,5-0,5,0,5,win,20230429_rwu1,1,0,1,0,3.0,6,4,3,9.00,3,4,1,2023,2022-23,div2,Cuyahoga,cuyahogacommunitycollege,rileymcelwainmv0k,Riley McElwain
-Apr 23,home,Edison State,W,14-9,14,9,5,win,20230423_5fjh,0,0,0,0,0.1,2,3,3,81.00,3,,,2023,2022-23,div2,Cuyahoga,cuyahogacommunitycollege,rileymcelwainmv0k,Riley McElwain
-Apr 16,home,Hocking,W,22-2,22,2,20,win,20230416_qwei,0,0,0,0,3.0,2,1,1,3.00,,4,,2023,2022-23,div2,Cuyahoga,cuyahogacommunitycollege,rileymcelwainmv0k,Riley McElwain
-Apr 10,home,Lakeland,L,5-3,5,3,2,win,20230410_2dvz,0,0,0,0,2.1,4,4,4,15.43,4,4,,2023,2022-23,div2,Cuyahoga,cuyahogacommunitycollege,rileymcelwainmv0k,Riley McElwain
-Apr 4,home,University of Mount Union,W,9-4,9,4,5,win,20230404_pejt,0,0,0,0,5.2,7,2,2,3.18,1,8,,2023,2022-23,div2,Cuyahoga,cuyahogacommunitycollege,rileymcelwainmv0k,Riley McElwain
-Mar 25,home,Lorain County,W,17-10,17,10,7,win,20230325_7oj2,0,0,0,0,2.0,2,3,,0.00,1,4,,2023,2022-23,div2,Cuyahoga,cuyahogacommunitycollege,rileymcelwainmv0k,Riley McElwain
-Mar 16,home,Lorain County,W,17-0,17,0,17,win,20230316_jpsp,0,0,0,0,1.0,1,,,0.00,1,3,,2023,2022-23,div2,Cuyahoga,cuyahogacommunitycollege,rileymcelwainmv0k,Riley McElwain
-Feb 18,home,Chattanooga State,L,18-7,18,7,11,win,20230218_0yqe,0,0,1,0,0.2,4,6,6,81.00,2,,,2023,2022-23,div2,Cuyahoga,cuyahogacommunitycollege,rileymcelwainmv0k,Riley McElwain
+May 11,home,Lansing,L,4-1,4,1,3,win,20230511_nmd4,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div2,Cuyahoga,cuyahogacommunitycollege,rileymcelwainmv0k,Riley McElwain
+May 11,home,Lansing,L,9-4,9,4,5,win,20230511_29nc,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div2,Cuyahoga,cuyahogacommunitycollege,rileymcelwainmv0k,Riley McElwain
+Apr 29,home,Bryant & Stratton (OH),L,5-0,5,0,5,win,20230429_rwu1,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div2,Cuyahoga,cuyahogacommunitycollege,rileymcelwainmv0k,Riley McElwain
+Apr 29,home,Bryant & Stratton (OH),L,12-2,12,2,10,win,20230429_68bi,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div2,Cuyahoga,cuyahogacommunitycollege,rileymcelwainmv0k,Riley McElwain
+Apr 26,home,Bryant & Stratton (OH),W,10-1,10,1,9,win,20230426_iheu,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div2,Cuyahoga,cuyahogacommunitycollege,rileymcelwainmv0k,Riley McElwain
+Apr 26,home,Bryant & Stratton (OH),W,7-6,7,6,1,win,20230426_xbjv,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div2,Cuyahoga,cuyahogacommunitycollege,rileymcelwainmv0k,Riley McElwain
+Apr 23,home,Edison State,W,14-9,14,9,5,win,20230423_5fjh,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div2,Cuyahoga,cuyahogacommunitycollege,rileymcelwainmv0k,Riley McElwain
+Apr 23,home,Edison State,W,11-2,11,2,9,win,20230423_d2y2,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div2,Cuyahoga,cuyahogacommunitycollege,rileymcelwainmv0k,Riley McElwain
+Apr 20,home,Edison State,W,8-7,8,7,1,win,20230420_6u98,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div2,Cuyahoga,cuyahogacommunitycollege,rileymcelwainmv0k,Riley McElwain
+Apr 20,home,Edison State,W,3-2,3,2,1,win,20230420_mg99,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div2,Cuyahoga,cuyahogacommunitycollege,rileymcelwainmv0k,Riley McElwain
+Apr 16,home,Hocking,W,22-2,22,2,20,win,20230416_qwei,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div2,Cuyahoga,cuyahogacommunitycollege,rileymcelwainmv0k,Riley McElwain
+Apr 16,home,Hocking,W,10-3,10,3,7,win,20230416_1f22,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div2,Cuyahoga,cuyahogacommunitycollege,rileymcelwainmv0k,Riley McElwain
+Apr 15,home,Hocking,W,12-6,12,6,6,win,20230415_varo,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div2,Cuyahoga,cuyahogacommunitycollege,rileymcelwainmv0k,Riley McElwain
+Apr 15,home,Hocking,W,10-1,10,1,9,win,20230415_zws3,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div2,Cuyahoga,cuyahogacommunitycollege,rileymcelwainmv0k,Riley McElwain
+Apr 10,home,Lakeland,W,4-1,4,1,3,win,20230410_1ddg,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div2,Cuyahoga,cuyahogacommunitycollege,rileymcelwainmv0k,Riley McElwain
+Apr 10,home,Lakeland,L,5-3,5,3,2,win,20230410_2dvz,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div2,Cuyahoga,cuyahogacommunitycollege,rileymcelwainmv0k,Riley McElwain
+Apr 8,home,Clark State,W,9-4,9,4,5,win,20230408_wp3s,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div2,Cuyahoga,cuyahogacommunitycollege,rileymcelwainmv0k,Riley McElwain
+Apr 8,home,Clark State,W,8-2,8,2,6,win,20230408_52yj,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div2,Cuyahoga,cuyahogacommunitycollege,rileymcelwainmv0k,Riley McElwain
+Apr 7,home,Clark State,W,8-5,8,5,3,win,20230407_d7zy,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div2,Cuyahoga,cuyahogacommunitycollege,rileymcelwainmv0k,Riley McElwain
+Apr 7,home,Clark State,W,6-5,6,5,1,win,20230407_knr6,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div2,Cuyahoga,cuyahogacommunitycollege,rileymcelwainmv0k,Riley McElwain
+Apr 4,home,University of Mount Union,W,9-4,9,4,5,win,20230404_pejt,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div2,Cuyahoga,cuyahogacommunitycollege,rileymcelwainmv0k,Riley McElwain
+Apr 2,home,Lakeland,W,5-3,5,3,2,win,20230402_rupz,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div2,Cuyahoga,cuyahogacommunitycollege,rileymcelwainmv0k,Riley McElwain
+Apr 2,home,Lakeland,W,8-5,8,5,3,win,20230402_k0c4,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div2,Cuyahoga,cuyahogacommunitycollege,rileymcelwainmv0k,Riley McElwain
+Mar 27,home,Westmoreland,W,6-5,6,5,1,win,20230327_cs02,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div2,Cuyahoga,cuyahogacommunitycollege,rileymcelwainmv0k,Riley McElwain
+Mar 27,home,Westmoreland,W,10-0,10,0,10,win,20230327_ms8c,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div2,Cuyahoga,cuyahogacommunitycollege,rileymcelwainmv0k,Riley McElwain
+Mar 26,home,McHenry County,L,6-5,6,5,1,win,20230326_pku4,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div2,Cuyahoga,cuyahogacommunitycollege,rileymcelwainmv0k,Riley McElwain
+Mar 26,home,Ivy Tech Fort Wayne,L,5-4,5,4,1,win,20230326_hrrq,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div2,Cuyahoga,cuyahogacommunitycollege,rileymcelwainmv0k,Riley McElwain
+Mar 25,home,Lorain County,W,27-4,27,4,23,win,20230325_9tb8,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div2,Cuyahoga,cuyahogacommunitycollege,rileymcelwainmv0k,Riley McElwain
+Mar 21,home,Terra State,W,12-6,12,6,6,win,20230321_r0f4,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div2,Cuyahoga,cuyahogacommunitycollege,rileymcelwainmv0k,Riley McElwain
+Mar 21,home,Terra State,W,6-5,6,5,1,win,20230321_sms2,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div2,Cuyahoga,cuyahogacommunitycollege,rileymcelwainmv0k,Riley McElwain
+Mar 20,home,Lorain County,W,25-3,25,3,22,win,20230320_vs6m,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div2,Cuyahoga,cuyahogacommunitycollege,rileymcelwainmv0k,Riley McElwain
+Mar 20,home,Lorain County,W,14-0,14,0,14,win,20230320_cjsl,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div2,Cuyahoga,cuyahogacommunitycollege,rileymcelwainmv0k,Riley McElwain
+Mar 16,home,Lorain County,W,17-0,17,0,17,win,20230316_jpsp,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div2,Cuyahoga,cuyahogacommunitycollege,rileymcelwainmv0k,Riley McElwain
+Mar 9,home,Terra State,W,8-0,8,0,8,win,20230309_z7kz,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div2,Cuyahoga,cuyahogacommunitycollege,rileymcelwainmv0k,Riley McElwain
+Mar 9,home,Terra State,L,12-8,12,8,4,win,20230309_2qi9,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div2,Cuyahoga,cuyahogacommunitycollege,rileymcelwainmv0k,Riley McElwain
+Feb 19,home,Chattanooga State,L,11-2,11,2,9,win,20230219_mzxa,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div2,Cuyahoga,cuyahogacommunitycollege,rileymcelwainmv0k,Riley McElwain
+Feb 19,home,Chattanooga State,L,10-0,10,0,10,win,20230219_565e,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div2,Cuyahoga,cuyahogacommunitycollege,rileymcelwainmv0k,Riley McElwain
+Feb 18,home,Chattanooga State,L,18-7,18,7,11,win,20230218_0yqe,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div2,Cuyahoga,cuyahogacommunitycollege,rileymcelwainmv0k,Riley McElwain
+Feb 18,home,Chattanooga State,L,8-7,8,7,1,win,20230218_j5bo,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div2,Cuyahoga,cuyahogacommunitycollege,rileymcelwainmv0k,Riley McElwain

@@ -1,11 +1,16 @@
 date,location,opponent,result,score,team_score,opp_score,game_score_diff,game_win_loss,game_id,TC,PO,A,E,FPCT,DP,SBA,RCS,RCS_PCT,PB,CI,season,njcaa_season,njcaa_division,team,team_id,player_id,player_name
-Mar 4,home,Delaware Tech,W,15-5,15,5,10,win,20230304_evz4,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Harford,harfordcommunitycollege,jadenwatermanmmit,Jaden Waterman
-Mar 16,home,Sullivan County,W,29-5,29,5,24,win,20230316_f9dk,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Harford,harfordcommunitycollege,jadenwatermanmmit,Jaden Waterman
-Mar 21,home,Prince George's,W,9-0,9,0,9,win,20230321_6l2g,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Harford,harfordcommunitycollege,jadenwatermanmmit,Jaden Waterman
-Mar 28,home,Cecil,W,11-0,11,0,11,win,20230328_e9xj,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Harford,harfordcommunitycollege,jadenwatermanmmit,Jaden Waterman
-Apr 2,home,CCBC Catonsville,W,7-0,7,0,7,win,20230402_1fd1,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Harford,harfordcommunitycollege,jadenwatermanmmit,Jaden Waterman
-Apr 11,home,Montgomery,W,17-1,17,1,16,win,20230411_8ar9,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Harford,harfordcommunitycollege,jadenwatermanmmit,Jaden Waterman
-Apr 18,home,Southern Maryland,W,22-6,22,6,16,win,20230418_v7oy,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Harford,harfordcommunitycollege,jadenwatermanmmit,Jaden Waterman
-Apr 18,home,Southern Maryland,W,13-3,13,3,10,win,20230418_8cm4,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Harford,harfordcommunitycollege,jadenwatermanmmit,Jaden Waterman
-Apr 23,home,CCBC Dundalk,W,10-0,10,0,10,win,20230423_eqeg,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Harford,harfordcommunitycollege,jadenwatermanmmit,Jaden Waterman
-Apr 23,home,CCBC Dundalk,W,14-2,14,2,12,win,20230423_irs0,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Harford,harfordcommunitycollege,jadenwatermanmmit,Jaden Waterman
+Jan 28,home,Hillsborough,W,5-1,5,1,4,win,20230128_3zia,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Harford,harfordcommunitycollege,jadenwatermanmmit,Jaden Waterman
+Feb 1,home,St. Johns River State,W,3-2,3,2,1,win,20230201_qpz7,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Harford,harfordcommunitycollege,jadenwatermanmmit,Jaden Waterman
+Feb 3,home,Indian River State,L,5-0,5,0,5,win,20230203_bb9i,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Harford,harfordcommunitycollege,jadenwatermanmmit,Jaden Waterman
+Feb 10,home,St. Petersburg,W,11-7,11,7,4,win,20230210_n3jh,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Harford,harfordcommunitycollege,jadenwatermanmmit,Jaden Waterman
+Feb 13,home,Lake-Sumter State,W,17-3,17,3,14,win,20230213_wgwi,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Harford,harfordcommunitycollege,jadenwatermanmmit,Jaden Waterman
+Mar 1,home,Florida State Jacksonville,W,11-1,11,1,10,win,20230301_bc6h,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Harford,harfordcommunitycollege,jadenwatermanmmit,Jaden Waterman
+Mar 3,home,State College of Florida,L,11-3,11,3,8,win,20230303_ha5a,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Harford,harfordcommunitycollege,jadenwatermanmmit,Jaden Waterman
+Mar 20,home,Indian River State,L,9-4,9,4,5,win,20230320_msuc,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Harford,harfordcommunitycollege,jadenwatermanmmit,Jaden Waterman
+Mar 27,home,Lake-Sumter State,W,5-4,5,4,1,win,20230327_1s3j,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Harford,harfordcommunitycollege,jadenwatermanmmit,Jaden Waterman
+Apr 3,home,Lake-Sumter State,W,14-11,14,11,3,win,20230403_4ba9,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Harford,harfordcommunitycollege,jadenwatermanmmit,Jaden Waterman
+Apr 15,home,Daytona State,W,11-6,11,6,5,win,20230415_kyv1,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Harford,harfordcommunitycollege,jadenwatermanmmit,Jaden Waterman
+Apr 19,home,Santa Fe,L,7-5,7,5,2,win,20230419_9o00,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Harford,harfordcommunitycollege,jadenwatermanmmit,Jaden Waterman
+Apr 21,home,Central Florida,L,16-8,16,8,8,win,20230421_kut5,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Harford,harfordcommunitycollege,jadenwatermanmmit,Jaden Waterman
+Apr 22,home,Central Florida,L,6-3,6,3,3,win,20230422_sepn,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Harford,harfordcommunitycollege,jadenwatermanmmit,Jaden Waterman
+Apr 26,home,Daytona State,L,15-6,15,6,9,win,20230426_q1bc,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Harford,harfordcommunitycollege,jadenwatermanmmit,Jaden Waterman

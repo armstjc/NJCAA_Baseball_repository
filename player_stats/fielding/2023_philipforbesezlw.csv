@@ -1,38 +1,6 @@
 date,location,opponent,result,score,team_score,opp_score,game_score_diff,game_win_loss,game_id,TC,PO,A,E,FPCT,DP,SBA,RCS,RCS_PCT,PB,CI,season,njcaa_season,njcaa_division,team,team_id,player_id,player_name
-Feb 5,home,Bryant & Stratton (VA),L,2-1,2,1,1,win,20230205_itkm,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Louisburg,louisburgcollege,philipforbesezlw,Philip Forbes
-Feb 5,home,Bryant & Stratton (VA),L,6-3,6,3,3,win,20230205_narz,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Louisburg,louisburgcollege,philipforbesezlw,Philip Forbes
-Feb 8,home,Lenoir,L,6-4,6,4,2,win,20230208_mmqe,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Louisburg,louisburgcollege,philipforbesezlw,Philip Forbes
-Feb 11,home,Camp,W,6-2,6,2,4,win,20230211_pjak,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Louisburg,louisburgcollege,philipforbesezlw,Philip Forbes
-Feb 11,home,Camp,W,7-0,7,0,7,win,20230211_0rqm,0,0,0,0,1.0,0,0,0,0.00,0,3,2023,2022-23,div1,Louisburg,louisburgcollege,philipforbesezlw,Philip Forbes
-Feb 14,home,Lenoir,W,8-3,8,3,5,win,20230214_d9fj,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Louisburg,louisburgcollege,philipforbesezlw,Philip Forbes
-Feb 18,home,Wake Tech,W,6-4,6,4,2,win,20230218_rx0c,0,1,0,0,1.1,2,0,0,0.00,0,2,2023,2022-23,div1,Louisburg,louisburgcollege,philipforbesezlw,Philip Forbes
-Feb 18,home,Wake Tech,W,9-2,9,2,7,win,20230218_wt23,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Louisburg,louisburgcollege,philipforbesezlw,Philip Forbes
-Feb 19,home,Wake Tech,W,6-0,6,0,6,win,20230219_2xly,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Louisburg,louisburgcollege,philipforbesezlw,Philip Forbes
-Feb 26,home,RCSJ Gloucester,W,6-5,6,5,1,win,20230226_8obr,0,1,0,0,1.1,0,0,0,0.00,0,4,2023,2022-23,div1,Louisburg,louisburgcollege,philipforbesezlw,Philip Forbes
-Feb 27,home,RCSJ Gloucester,L,5-2,5,2,3,win,20230227_f7kp,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Louisburg,louisburgcollege,philipforbesezlw,Philip Forbes
-Feb 27,home,RCSJ Gloucester,W,4-3,4,3,1,win,20230227_hy4a,0,0,0,1,1.0,0,0,0,0.00,0,2,2023,2022-23,div1,Louisburg,louisburgcollege,philipforbesezlw,Philip Forbes
-Mar 1,home,Brunswick,L,13-8,13,8,5,win,20230301_zuk4,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Louisburg,louisburgcollege,philipforbesezlw,Philip Forbes
-Mar 4,home,Pitt,W,5-3,5,3,2,win,20230304_dyug,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Louisburg,louisburgcollege,philipforbesezlw,Philip Forbes
-Mar 5,home,Pitt,L,5-3,5,3,2,win,20230305_fwny,0,0,0,0,1.1,1,1,0,0.00,2,3,2023,2022-23,div1,Louisburg,louisburgcollege,philipforbesezlw,Philip Forbes
-Mar 6,home,NC Wesleyan JV,W,14-6,14,6,8,win,20230306_1vqx,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Louisburg,louisburgcollege,philipforbesezlw,Philip Forbes
-Mar 11,home,USC Lancaster,L,4-3,4,3,1,win,20230311_vnfk,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Louisburg,louisburgcollege,philipforbesezlw,Philip Forbes
-Mar 11,home,USC Lancaster,W,9-8,9,8,1,win,20230311_hevr,0,1,0,0,2.2,3,0,0,0.00,1,5,2023,2022-23,div1,Louisburg,louisburgcollege,philipforbesezlw,Philip Forbes
-Mar 18,home,Florence-Darlington Tech,L,8-4,8,4,4,win,20230318_dbis,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Louisburg,louisburgcollege,philipforbesezlw,Philip Forbes
-Mar 19,home,Florence-Darlington Tech,L,9-2,9,2,7,win,20230319_ju8l,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Louisburg,louisburgcollege,philipforbesezlw,Philip Forbes
-Mar 22,home,Pitt,L,11-10,11,10,1,win,20230322_gsgs,0,0,0,0,3.2,3,2,2,4.91,2,6,2023,2022-23,div1,Louisburg,louisburgcollege,philipforbesezlw,Philip Forbes
-Mar 25,home,USC Union,W,6-2,6,2,4,win,20230325_cybr,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Louisburg,louisburgcollege,philipforbesezlw,Philip Forbes
-Mar 26,home,USC Union,W,16-0,16,0,16,win,20230326_oc2u,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Louisburg,louisburgcollege,philipforbesezlw,Philip Forbes
-Mar 28,home,Brunswick,L,3-1,3,1,2,win,20230328_o5ft,0,0,0,0,0.2,0,0,0,0.00,1,2,2023,2022-23,div1,Louisburg,louisburgcollege,philipforbesezlw,Philip Forbes
-Mar 29,home,Chowan University JV,L,10-9,10,9,1,win,20230329_bya8,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Louisburg,louisburgcollege,philipforbesezlw,Philip Forbes
-Apr 2,home,USC Sumter,L,3-2,3,2,1,win,20230402_f1fb,0,0,1,0,1.2,1,1,0,0.00,1,3,2023,2022-23,div1,Louisburg,louisburgcollege,philipforbesezlw,Philip Forbes
-Apr 2,home,USC Sumter,L,9-4,9,4,5,win,20230402_2mmw,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Louisburg,louisburgcollege,philipforbesezlw,Philip Forbes
-Apr 4,home,William Peace JV,W,10-3,10,3,7,win,20230404_qrqn,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Louisburg,louisburgcollege,philipforbesezlw,Philip Forbes
-Apr 11,home,Wake Tech,W,10-9,10,9,1,win,20230411_snra,0,1,0,0,1.0,0,0,0,0.00,0,2,2023,2022-23,div1,Louisburg,louisburgcollege,philipforbesezlw,Philip Forbes
-Apr 12,home,NC Wesleyan JV,W,8-6,8,6,2,win,20230412_zm63,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Louisburg,louisburgcollege,philipforbesezlw,Philip Forbes
-Apr 15,home,Gaston College,L,4-3,4,3,1,win,20230415_8lfx,0,0,1,0,0.1,0,2,2,54.00,4,0,2023,2022-23,div1,Louisburg,louisburgcollege,philipforbesezlw,Philip Forbes
-Apr 16,home,Gaston College,L,4-0,4,0,4,win,20230416_vnym,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Louisburg,louisburgcollege,philipforbesezlw,Philip Forbes
-Apr 19,home,Fayetteville Tech,L,4-2,4,2,2,win,20230419_tvbn,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Louisburg,louisburgcollege,philipforbesezlw,Philip Forbes
-Apr 22,home,Spartanburg Methodist,T,1-1,1,1,0,tie,20230422_johi,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Louisburg,louisburgcollege,philipforbesezlw,Philip Forbes
-Apr 23,home,Spartanburg Methodist,W,4-3,4,3,1,win,20230423_zip3,0,1,0,0,3.0,1,2,2,6.00,2,6,2023,2022-23,div1,Louisburg,louisburgcollege,philipforbesezlw,Philip Forbes
-May 5,home,Gaston College,L,11-3,11,3,8,win,20230505_tdq4,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Louisburg,louisburgcollege,philipforbesezlw,Philip Forbes
-May 6,home,USC Union,L,8-6,8,6,2,win,20230506_vd34,0,0,0,0,2.0,2,0,0,0.00,0,5,2023,2022-23,div1,Louisburg,louisburgcollege,philipforbesezlw,Philip Forbes
+Feb 9,home,Lurleen B. Wallace,L,10-2,10,2,8,win,20230209_97hl,0,0,0,0,0.2,1,1,,0.00,,,2023,2022-23,div1,Louisburg,louisburgcollege,philipforbesezlw,Philip Forbes
+Mar 25,home,Mineral Area,W,8-7,8,7,1,win,20230325_64or,0,1,0,0,2.0,1,,,0.00,1,,2023,2022-23,div1,Louisburg,louisburgcollege,philipforbesezlw,Philip Forbes
+Mar 30,home,Jefferson (MO),L,10-6,10,6,4,win,20230330_w176,0,0,0,0,1.0,,,,0.00,1,,2023,2022-23,div1,Louisburg,louisburgcollege,philipforbesezlw,Philip Forbes
+Apr 18,home,Kansas City Kansas,L,12-5,12,5,7,win,20230418_5ayj,0,0,0,0,1.0,1,,,0.00,1,,2023,2022-23,div1,Louisburg,louisburgcollege,philipforbesezlw,Philip Forbes
+Apr 26,home,North Central Missouri,L,5-4,5,4,1,win,20230426_pmmv,0,0,1,0,0.1,,1,,0.00,2,,2023,2022-23,div1,Louisburg,louisburgcollege,philipforbesezlw,Philip Forbes

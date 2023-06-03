@@ -1,7 +1,18 @@
 date,location,opponent,result,score,team_score,opp_score,game_score_diff,game_win_loss,game_id,AB,R,H,2B,3B,HR,RBI,BB,K,SB,CS,HBP,SF,SH,TB,XBH,HDP,GO,FO,GO/FO,PA,season,njcaa_season,njcaa_division,team,team_id,player_id,player_name
-Feb 28,home,Combine Academy,W,7-4,7,4,3,win,20230228_qqmt,0,0,0,,,,0,,,,,,,,0,0,,,,,0,2023,2022-23,div2,Northeast,northeastcommunitycollege,gageingramticc,Gage Ingram
-Mar 7,home,Harford,W,7-4,7,4,3,win,20230307_ob23,0,0,0,,,,0,,,,,,,,0,0,,,,,0,2023,2022-23,div2,Northeast,northeastcommunitycollege,gageingramticc,Gage Ingram
-Apr 4,home,Camp,W,7-6,7,6,1,win,20230404_7rwz,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0,,,0,2023,2022-23,div2,Northeast,northeastcommunitycollege,gageingramticc,Gage Ingram
-Apr 8,home,Cecil,W,3-2,3,2,1,win,20230408_0gmq,0,0,0,,,,0,,,,,,,,0,0,,,,,0,2023,2022-23,div2,Northeast,northeastcommunitycollege,gageingramticc,Gage Ingram
-Apr 22,home,CCBC Dundalk,W,11-5,11,5,6,win,20230422_oq5g,0,0,0,,,,0,,,,,,,,0,0,,,,,0,2023,2022-23,div2,Northeast,northeastcommunitycollege,gageingramticc,Gage Ingram
-May 13,home,Anne Arundel,W,10-1,10,1,9,win,20230513_tx60,0,0,0,,,,0,,,,,,,,0,0,,,,,0,2023,2022-23,div2,Northeast,northeastcommunitycollege,gageingramticc,Gage Ingram
+Feb 5,home,Northern Oklahoma Enid,W,14-4,14,4,10,win,20230205_9xpl,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0,,,0,2023,2022-23,div2,Northeast,northeastcommunitycollege,gageingramticc,Gage Ingram
+Feb 12,home,Allen County,W,9-0,9,0,9,win,20230212_rk98,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0,,,0,2023,2022-23,div2,Northeast,northeastcommunitycollege,gageingramticc,Gage Ingram
+Feb 19,home,Neosho County,W,3-0,3,0,3,win,20230219_0xqz,0,0,0,,,,0,,,,,,,,0,0,,,,,0,2023,2022-23,div2,Northeast,northeastcommunitycollege,gageingramticc,Gage Ingram
+Mar 7,home,Northwestern Oklahoma St. University JV,W,9-1,9,1,8,win,20230307_ke6r,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0,,,0,2023,2022-23,div2,Northeast,northeastcommunitycollege,gageingramticc,Gage Ingram
+Mar 15,home,Mount Marty University JV,W,9-2,9,2,7,win,20230315_4ddo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0,,,0,2023,2022-23,div2,Northeast,northeastcommunitycollege,gageingramticc,Gage Ingram
+Mar 29,home,Iowa Lakes,W,14-4,14,4,10,win,20230329_tkly,0,0,0,,,,0,,,,,,,,0,0,,,,,0,2023,2022-23,div2,Northeast,northeastcommunitycollege,gageingramticc,Gage Ingram
+Apr 2,home,Kirkwood,W,10-8,10,8,2,win,20230402_tjfw,0,0,0,,,,0,,,,,,,,0,0,,,,,0,2023,2022-23,div2,Northeast,northeastcommunitycollege,gageingramticc,Gage Ingram
+Apr 3,home,Kirkwood,W,7-6,7,6,1,win,20230403_bwwo,0,0,0,,,,0,,,,,,,,0,0,,,,,0,2023,2022-23,div2,Northeast,northeastcommunitycollege,gageingramticc,Gage Ingram
+Apr 16,home,Indian Hills,W,8-7,8,7,1,win,20230416_o7af,0,0,0,,,,0,,,,,,,,0,0,,,,,0,2023,2022-23,div2,Northeast,northeastcommunitycollege,gageingramticc,Gage Ingram
+Apr 20,home,Iowa Central,W,9-8,9,8,1,win,20230420_7k1n,0,0,0,,,,0,,,,,,,,0,0,,,,,0,2023,2022-23,div2,Northeast,northeastcommunitycollege,gageingramticc,Gage Ingram
+Apr 26,home,Ellsworth,W,9-8,9,8,1,win,20230426_bxpv,0,0,0,,,,0,,,,,,,,0,0,,,,,0,2023,2022-23,div2,Northeast,northeastcommunitycollege,gageingramticc,Gage Ingram
+Apr 29,home,Southeastern,W,3-2,3,2,1,win,20230429_ezdb,0,0,0,,,,0,,,,,,,,0,0,,,,,0,2023,2022-23,div2,Northeast,northeastcommunitycollege,gageingramticc,Gage Ingram
+Apr 29,home,Southeastern,W,2-0,2,0,2,win,20230429_ewu7,0,0,0,,,,0,,,,,,,,0,0,,,,,0,2023,2022-23,div2,Northeast,northeastcommunitycollege,gageingramticc,Gage Ingram
+May 6,home,Iowa Western,W,10-9,10,9,1,win,20230506_qej2,0,0,0,,,,0,,,,,,,,0,0,,,,,0,2023,2022-23,div2,Northeast,northeastcommunitycollege,gageingramticc,Gage Ingram
+May 6,home,Iowa Western,W,12-7,12,7,5,win,20230506_dijp,0,0,0,,,,0,,,,,,,,0,0,,,,,0,2023,2022-23,div2,Northeast,northeastcommunitycollege,gageingramticc,Gage Ingram
+May 11,home,Des Moines Area,W,8-7,8,7,1,win,20230511_57zs,0,0,0,,,,0,,,,,,,,0,0,,,,,0,2023,2022-23,div2,Northeast,northeastcommunitycollege,gageingramticc,Gage Ingram
+May 12,home,North Iowa Area,W,8-7,8,7,1,win,20230512_7yy6,0,0,0,,,,0,,,,,,,,0,0,,,,,0,2023,2022-23,div2,Northeast,northeastcommunitycollege,gageingramticc,Gage Ingram

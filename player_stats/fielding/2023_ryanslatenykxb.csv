@@ -1,16 +1,14 @@
 date,location,opponent,result,score,team_score,opp_score,game_score_diff,game_win_loss,game_id,TC,PO,A,E,FPCT,DP,SBA,RCS,RCS_PCT,PB,CI,season,njcaa_season,njcaa_division,team,team_id,player_id,player_name
-Feb 5,home,Volunteer State,L,11-4,11,4,7,win,20230205_mw5i,1,0,1,0,3.0,8,6,4,12.00,2,4,2023,2022-23,div1,Central Alabama,centralalabamacommunitycollege,ryanslatenykxb,Ryan Slaten
-Feb 12,home,Wallace-Dothan,W,4-1,4,1,3,win,20230212_2xbz,1,1,0,0,4.2,4,1,1,1.93,1,2,2023,2022-23,div1,Central Alabama,centralalabamacommunitycollege,ryanslatenykxb,Ryan Slaten
-Feb 18,home,Gordon State,W,6-2,6,2,4,win,20230218_6sgf,1,1,0,0,6.0,5,2,2,3.00,0,4,2023,2022-23,div1,Central Alabama,centralalabamacommunitycollege,ryanslatenykxb,Ryan Slaten
-Feb 24,home,Coastal Alabama - Monroeville,L,7-6,7,6,1,win,20230224_uu48,1,0,0,0,5.0,7,4,3,5.40,1,2,2023,2022-23,div1,Central Alabama,centralalabamacommunitycollege,ryanslatenykxb,Ryan Slaten
-Mar 2,home,Wallace-Dothan,L,8-2,8,2,6,win,20230302_5m4d,0,0,0,0,4.0,4,2,1,2.25,1,4,2023,2022-23,div1,Central Alabama,centralalabamacommunitycollege,ryanslatenykxb,Ryan Slaten
-Mar 8,home,Shelton State,L,3-2,3,2,1,win,20230308_qlf5,1,0,1,0,6.0,5,3,3,4.50,2,13,2023,2022-23,div1,Central Alabama,centralalabamacommunitycollege,ryanslatenykxb,Ryan Slaten
-Mar 16,home,Snead State,W,4-3,4,3,1,win,20230316_1j07,1,1,0,0,6.1,8,3,3,4.26,4,6,2023,2022-23,div1,Central Alabama,centralalabamacommunitycollege,ryanslatenykxb,Ryan Slaten
-Mar 23,home,Marion Military,W,7-2,7,2,5,win,20230323_oq4p,1,1,0,0,7.0,6,2,2,2.57,3,4,2023,2022-23,div1,Central Alabama,centralalabamacommunitycollege,ryanslatenykxb,Ryan Slaten
-Mar 30,home,Bevill State,W,7-3,7,3,4,win,20230330_jyub,1,0,0,0,5.0,4,3,2,3.60,4,7,2023,2022-23,div1,Central Alabama,centralalabamacommunitycollege,ryanslatenykxb,Ryan Slaten
-Apr 6,home,Calhoun,W,9-6,9,6,3,win,20230406_d3ud,1,1,0,0,6.0,8,4,3,4.50,1,2,2023,2022-23,div1,Central Alabama,centralalabamacommunitycollege,ryanslatenykxb,Ryan Slaten
-Apr 15,home,Northwest-Shoals Community College,L,6-1,6,1,5,win,20230415_ehfw,0,0,0,0,1.0,,,,0.00,,1,2023,2022-23,div1,Central Alabama,centralalabamacommunitycollege,ryanslatenykxb,Ryan Slaten
-Apr 20,home,Southern Union State,L,6-4,6,4,2,win,20230420_hfdn,1,0,1,0,6.0,9,6,0,0.00,2,6,2023,2022-23,div1,Central Alabama,centralalabamacommunitycollege,ryanslatenykxb,Ryan Slaten
-Apr 26,home,Lawson State,L,5-1,5,1,4,win,20230426_axuj,1,0,1,0,7.0,5,5,4,5.14,4,4,2023,2022-23,div1,Central Alabama,centralalabamacommunitycollege,ryanslatenykxb,Ryan Slaten
-May 4,home,Wallace State,L,10-7,10,7,3,win,20230504_os66,1,0,0,0,4.0,9,5,5,11.25,1,5,2023,2022-23,div1,Central Alabama,centralalabamacommunitycollege,ryanslatenykxb,Ryan Slaten
-May 6,home,Wallace State,W,4-3,4,3,1,win,20230506_49en,0,0,0,0,1.0,2,,,0.00,,1,2023,2022-23,div1,Central Alabama,centralalabamacommunitycollege,ryanslatenykxb,Ryan Slaten
+Feb 5,home,Volunteer State,L,11-4,11,4,7,win,20230205_mw5i,0,0,0,0,1.0,,,,0.00,,2,2023,2022-23,div1,Central Alabama,centralalabamacommunitycollege,ryanslatenykxb,Ryan Slaten
+Feb 8,home,Andrew,L,5-1,5,1,4,win,20230208_5v4k,0,0,0,0,2.0,2,1,1,4.50,,,2023,2022-23,div1,Central Alabama,centralalabamacommunitycollege,ryanslatenykxb,Ryan Slaten
+Feb 16,home,John A. Logan,W,9-6,9,6,3,win,20230216_4h27,0,1,0,0,2.1,2,,,0.00,1,,2023,2022-23,div1,Central Alabama,centralalabamacommunitycollege,ryanslatenykxb,Ryan Slaten
+Feb 25,home,Wallace-Dothan,W,6-2,6,2,4,win,20230225_dlh6,0,0,0,0,1.0,2,,,0.00,,,2023,2022-23,div1,Central Alabama,centralalabamacommunitycollege,ryanslatenykxb,Ryan Slaten
+Mar 16,home,Snead State,L,14-8,14,8,6,win,20230316_09zc,0,0,0,0,0.1,1,,,0.00,2,,2023,2022-23,div1,Central Alabama,centralalabamacommunitycollege,ryanslatenykxb,Ryan Slaten
+Mar 31,home,Bevill State,L,3-1,3,1,2,win,20230331_yh0z,0,0,0,0,0.1,1,2,2,54.00,4,,2023,2022-23,div1,Central Alabama,centralalabamacommunitycollege,ryanslatenykxb,Ryan Slaten
+Apr 11,home,Point University JV,W,9-0,9,0,9,win,20230411_480a,0,0,0,0,1.0,1,,,0.00,,1,2023,2022-23,div1,Central Alabama,centralalabamacommunitycollege,ryanslatenykxb,Ryan Slaten
+Apr 13,home,Northwest-Shoals Community College,L,8-2,8,2,6,win,20230413_ubzo,0,0,0,0,1.0,,,,0.00,,1,2023,2022-23,div1,Central Alabama,centralalabamacommunitycollege,ryanslatenykxb,Ryan Slaten
+Apr 13,home,Northwest-Shoals Community College,L,8-7,8,7,1,win,20230413_zy8x,0,0,0,0,1.0,2,1,1,9.00,,1,2023,2022-23,div1,Central Alabama,centralalabamacommunitycollege,ryanslatenykxb,Ryan Slaten
+Apr 22,home,Southern Union State,L,12-10,12,10,2,win,20230422_isd6,0,0,0,0,1.2,1,,,0.00,1,2,2023,2022-23,div1,Central Alabama,centralalabamacommunitycollege,ryanslatenykxb,Ryan Slaten
+Apr 29,home,Lawson State,L,12-5,12,5,7,win,20230429_6cq1,0,0,0,0,1.0,1,,,0.00,1,1,2023,2022-23,div1,Central Alabama,centralalabamacommunitycollege,ryanslatenykxb,Ryan Slaten
+May 4,home,Wallace State,L,10-7,10,7,3,win,20230504_os66,0,0,0,0,1.1,1,1,1,6.75,,,2023,2022-23,div1,Central Alabama,centralalabamacommunitycollege,ryanslatenykxb,Ryan Slaten
+May 6,home,Wallace State,W,4-3,4,3,1,win,20230506_49en,0,0,0,0,1.0,,,,0.00,,1,2023,2022-23,div1,Central Alabama,centralalabamacommunitycollege,ryanslatenykxb,Ryan Slaten

@@ -1,13 +1,23 @@
 date,location,opponent,result,score,team_score,opp_score,game_score_diff,game_win_loss,game_id,AB,R,H,2B,3B,HR,RBI,BB,K,SB,CS,HBP,SF,SH,TB,XBH,HDP,GO,FO,GO/FO,PA,season,njcaa_season,njcaa_division,team,team_id,player_id,player_name
-Feb 7,home,William Peace University JV,W,8-3,8,3,5,win,20230207_fh3p,1,0,0,,,,0,,,,,,,,0,0,,1,,,1,2023,2022-23,div2,Lenoir,lenoircommunitycollege,brightonberthronguq5k,Brighton Berthrong
-Feb 8,home,Louisburg,W,6-4,6,4,2,win,20230208_mmqe,0,0,0,,,,0,,,,,,,,0,0,,,,,0,2023,2022-23,div2,Lenoir,lenoircommunitycollege,brightonberthronguq5k,Brighton Berthrong
-Feb 11,home,Richard Bland,W,8-7,8,7,1,win,20230211_7tac,2,1,1,0,0,0,2,1,1,0,0,0,0,0,1,0,,0,,,3,2023,2022-23,div2,Lenoir,lenoircommunitycollege,brightonberthronguq5k,Brighton Berthrong
-Feb 15,home,NC Wesleyan University JV,W,13-5,13,5,8,win,20230215_m4vy,2,0,0,,,,0,,,,,,,,0,0,,2,,,2,2023,2022-23,div2,Lenoir,lenoircommunitycollege,brightonberthronguq5k,Brighton Berthrong
-Feb 18,home,Fayetteville Tech,W,17-4,17,4,13,win,20230218_cw6o,4,1,1,0,0,0,1,0,1,0,0,0,0,0,1,0,,0,,,4,2023,2022-23,div2,Lenoir,lenoircommunitycollege,brightonberthronguq5k,Brighton Berthrong
-Feb 19,home,Fayetteville Tech,W,5-3,5,3,2,win,20230219_g7g7,0,0,0,,,,0,,,,,,,,0,0,,,,,0,2023,2022-23,div2,Lenoir,lenoircommunitycollege,brightonberthronguq5k,Brighton Berthrong
-Feb 22,home,Chowan University JV,W,10-4,10,4,6,win,20230222_zt4z,2,0,1,,,,0,,1,,,,,,1,0,,,,,2,2023,2022-23,div2,Lenoir,lenoircommunitycollege,brightonberthronguq5k,Brighton Berthrong
-Feb 24,home,Gaston College,W,7-3,7,3,4,win,20230224_hxk8,3,1,1,,,,0,,2,,,,,,1,0,,,,,3,2023,2022-23,div2,Lenoir,lenoircommunitycollege,brightonberthronguq5k,Brighton Berthrong
-Mar 1,home,NC Wesleyan University JV,W,8-4,8,4,4,win,20230301_lt8v,0,0,0,,,,0,,,,,,,,0,0,,,,,0,2023,2022-23,div2,Lenoir,lenoircommunitycollege,brightonberthronguq5k,Brighton Berthrong
-Mar 11,home,Southeastern-Whiteville,W,10-5,10,5,5,win,20230311_dxy0,2,1,0,,,,1,2,1,,,,,,0,0,,,1,,4,2023,2022-23,div2,Lenoir,lenoircommunitycollege,brightonberthronguq5k,Brighton Berthrong
-Mar 25,home,Richard Bland,W,6-5,6,5,1,win,20230325_xtts,1,0,0,,,,0,,,,,,,,0,0,,,1,,1,2023,2022-23,div2,Lenoir,lenoircommunitycollege,brightonberthronguq5k,Brighton Berthrong
-Apr 22,home,Southeastern-Whiteville,W,9-7,9,7,2,win,20230422_xtc3,0,0,0,,,,0,,,,,,,,0,0,,,,,0,2023,2022-23,div2,Lenoir,lenoircommunitycollege,brightonberthronguq5k,Brighton Berthrong
+Feb 7,home,William Peace University JV,W,8-3,8,3,5,win,20230207_fh3p,5,1,1,1,,,0,,1,,,,,,2,1,,1,2,0.50,5,2023,2022-23,div2,Lenoir,lenoircommunitycollege,brightonberthronguq5k,Brighton Berthrong
+Feb 8,home,Louisburg,W,6-4,6,4,2,win,20230208_mmqe,4,1,1,,,,0,,,,,,,,1,0,,,3,,4,2023,2022-23,div2,Lenoir,lenoircommunitycollege,brightonberthronguq5k,Brighton Berthrong
+Feb 11,home,Richard Bland,W,8-7,8,7,1,win,20230211_7tac,3,2,1,1,0,0,0,2,2,0,0,0,0,0,2,1,,0,,,5,2023,2022-23,div2,Lenoir,lenoircommunitycollege,brightonberthronguq5k,Brighton Berthrong
+Feb 15,home,NC Wesleyan University JV,W,13-5,13,5,8,win,20230215_m4vy,3,1,0,,,,0,,2,1,,,,,0,0,,,,,3,2023,2022-23,div2,Lenoir,lenoircommunitycollege,brightonberthronguq5k,Brighton Berthrong
+Feb 18,home,Fayetteville Tech,W,4-3,4,3,1,win,20230218_6xel,2,0,1,0,0,0,0,1,0,1,0,0,0,1,1,0,,0,,,4,2023,2022-23,div2,Lenoir,lenoircommunitycollege,brightonberthronguq5k,Brighton Berthrong
+Feb 18,home,Fayetteville Tech,W,17-4,17,4,13,win,20230218_cw6o,3,2,2,0,0,0,1,2,0,0,0,0,0,0,2,0,,0,,,5,2023,2022-23,div2,Lenoir,lenoircommunitycollege,brightonberthronguq5k,Brighton Berthrong
+Feb 19,home,Fayetteville Tech,W,5-3,5,3,2,win,20230219_g7g7,3,0,0,,,,1,,,,,,1,,0,0,,1,2,0.50,4,2023,2022-23,div2,Lenoir,lenoircommunitycollege,brightonberthronguq5k,Brighton Berthrong
+Feb 21,home,Methodist University JV,W,20-12,20,12,8,win,20230221_7nvo,1,0,0,,,,0,,,,,,,,0,0,,,,,1,2023,2022-23,div2,Lenoir,lenoircommunitycollege,brightonberthronguq5k,Brighton Berthrong
+Feb 22,home,Chowan University JV,W,10-4,10,4,6,win,20230222_zt4z,4,0,0,,,,0,,1,,,,,,0,0,,1,2,0.50,4,2023,2022-23,div2,Lenoir,lenoircommunitycollege,brightonberthronguq5k,Brighton Berthrong
+Feb 24,home,Gaston College,W,7-3,7,3,4,win,20230224_hxk8,3,1,2,1,,,0,,,1,,,,,3,1,,,1,,3,2023,2022-23,div2,Lenoir,lenoircommunitycollege,brightonberthronguq5k,Brighton Berthrong
+Mar 1,home,NC Wesleyan University JV,W,8-4,8,4,4,win,20230301_lt8v,2,0,0,,,,0,1,2,,1,,,,0,0,,,,,3,2023,2022-23,div2,Lenoir,lenoircommunitycollege,brightonberthronguq5k,Brighton Berthrong
+Mar 5,home,Brunswick,W,6-5,6,5,1,win,20230305_gd0p,2,0,0,,,,0,2,1,,,,,,0,0,,,1,,4,2023,2022-23,div2,Lenoir,lenoircommunitycollege,brightonberthronguq5k,Brighton Berthrong
+Mar 11,home,Southeastern-Whiteville,W,14-6,14,6,8,win,20230311_3jfn,3,1,2,,,,2,1,,,,,,,2,0,,1,,,4,2023,2022-23,div2,Lenoir,lenoircommunitycollege,brightonberthronguq5k,Brighton Berthrong
+Mar 11,home,Southeastern-Whiteville,W,10-5,10,5,5,win,20230311_dxy0,3,1,2,2,,,1,,1,,,,,,4,2,,,,,3,2023,2022-23,div2,Lenoir,lenoircommunitycollege,brightonberthronguq5k,Brighton Berthrong
+Apr 15,home,Brunswick,W,4-3,4,3,1,win,20230415_emfq,2,0,0,,,,0,,,,,,,,0,0,,,2,,2,2023,2022-23,div2,Lenoir,lenoircommunitycollege,brightonberthronguq5k,Brighton Berthrong
+Apr 16,home,Brunswick,W,22-8,22,8,14,win,20230416_nyoa,2,2,1,1,0,0,2,2,1,1,0,0,1,0,2,1,,0,,,5,2023,2022-23,div2,Lenoir,lenoircommunitycollege,brightonberthronguq5k,Brighton Berthrong
+Apr 22,home,Southeastern-Whiteville,W,9-7,9,7,2,win,20230422_xtc3,3,1,1,,,,0,1,,,,,,,1,0,,,2,,4,2023,2022-23,div2,Lenoir,lenoircommunitycollege,brightonberthronguq5k,Brighton Berthrong
+Apr 23,home,Southeastern-Whiteville,W,4-1,4,1,3,win,20230423_50fe,2,1,1,1,,,0,,,,,,,1,2,1,,1,1,1.00,3,2023,2022-23,div2,Lenoir,lenoircommunitycollege,brightonberthronguq5k,Brighton Berthrong
+Apr 29,home,Bryant & Stratton (VA),W,13-4,13,4,9,win,20230429_d6bq,4,0,1,0,0,0,0,0,1,0,0,0,0,0,1,0,,0,,,4,2023,2022-23,div2,Lenoir,lenoircommunitycollege,brightonberthronguq5k,Brighton Berthrong
+May 4,home,Wake Tech,W,12-4,12,4,8,win,20230504_6wjg,4,2,2,0,0,0,1,0,0,0,0,0,0,0,2,0,,0,,,4,2023,2022-23,div2,Lenoir,lenoircommunitycollege,brightonberthronguq5k,Brighton Berthrong
+May 6,home,Cleveland,W,5-4,5,4,1,win,20230506_i0s8,4,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,,0,,,4,2023,2022-23,div2,Lenoir,lenoircommunitycollege,brightonberthronguq5k,Brighton Berthrong
+May 7,home,Pitt,W,7-0,7,0,7,win,20230507_l00z,4,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,,0,,,4,2023,2022-23,div2,Lenoir,lenoircommunitycollege,brightonberthronguq5k,Brighton Berthrong

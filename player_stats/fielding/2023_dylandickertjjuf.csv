@@ -1,16 +1,14 @@
 date,location,opponent,result,score,team_score,opp_score,game_score_diff,game_win_loss,game_id,TC,PO,A,E,FPCT,DP,SBA,RCS,RCS_PCT,PB,CI,season,njcaa_season,njcaa_division,team,team_id,player_id,player_name
-Feb 4,home,Wabash Valley,W,3-2,3,2,1,win,20230204_555f,1,0,0,0,5.0,4,2,2,3.60,2,2,2023,2022-23,div1,Wallace-Dothan,wallacecommunitycollegedothan,dylandickertjjuf,Dylan Dickert
-Feb 12,home,Walters State,L,9-5,9,5,4,win,20230212_4qjy,1,0,1,0,3.0,8,6,6,18.00,1,5,2023,2022-23,div1,Wallace-Dothan,wallacecommunitycollegedothan,dylandickertjjuf,Dylan Dickert
-Feb 18,home,Abraham Baldwin,W,7-5,7,5,2,win,20230218_oxdq,0,0,0,1,1.0,,,,0.00,,,2023,2022-23,div1,Wallace-Dothan,wallacecommunitycollegedothan,dylandickertjjuf,Dylan Dickert
-Feb 23,home,Andrew,W,5-2,5,2,3,win,20230223_xlok,1,0,0,0,5.0,7,2,2,3.60,2,4,2023,2022-23,div1,Wallace-Dothan,wallacecommunitycollegedothan,dylandickertjjuf,Dylan Dickert
-Mar 9,home,Coastal Alabama - Bay Minette,W,14-3,14,3,11,win,20230309_6ivi,1,1,0,0,5.0,4,3,3,5.40,2,8,2023,2022-23,div1,Wallace-Dothan,wallacecommunitycollegedothan,dylandickertjjuf,Dylan Dickert
-Mar 16,home,Bishop State,L,9-5,9,5,4,win,20230316_drbd,1,0,1,0,5.0,4,4,1,1.80,1,7,2023,2022-23,div1,Wallace-Dothan,wallacecommunitycollegedothan,dylandickertjjuf,Dylan Dickert
-Mar 23,home,Lurleen B. Wallace,L,4-2,4,2,2,win,20230323_bwqb,1,0,0,0,5.0,7,2,2,3.60,0,6,2023,2022-23,div1,Wallace-Dothan,wallacecommunitycollegedothan,dylandickertjjuf,Dylan Dickert
-Mar 30,home,Coastal Alabama - Monroeville,W,1-0,1,0,1,win,20230330_ejhr,1,1,0,0,7.0,3,0,0,0.00,1,8,2023,2022-23,div1,Wallace-Dothan,wallacecommunitycollegedothan,dylandickertjjuf,Dylan Dickert
-Apr 6,home,Coastal Alabama - Brewton,L,6-5,6,5,1,win,20230406_3lyn,1,0,0,0,5.0,5,5,5,9.00,2,7,2023,2022-23,div1,Wallace-Dothan,wallacecommunitycollegedothan,dylandickertjjuf,Dylan Dickert
-Apr 14,home,LSU Eunice,W,10-2,10,2,8,win,20230414_mi4i,1,1,0,0,4.0,4,1,1,2.25,2,5,2023,2022-23,div1,Wallace-Dothan,wallacecommunitycollegedothan,dylandickertjjuf,Dylan Dickert
-Apr 22,home,Enterprise State,W,16-6,16,6,10,win,20230422_5qw7,1,1,0,0,5.0,11,6,6,10.80,2,1,2023,2022-23,div1,Wallace-Dothan,wallacecommunitycollegedothan,dylandickertjjuf,Dylan Dickert
-Apr 26,home,Chattahoochee Valley,L,7-4,7,4,3,win,20230426_wb66,1,0,0,0,3.0,4,4,4,12.00,4,2,2023,2022-23,div1,Wallace-Dothan,wallacecommunitycollegedothan,dylandickertjjuf,Dylan Dickert
-May 6,home,Wallace-Selma,W,11-0,11,0,11,win,20230506_2lg5,1,0,0,0,1.0,1,0,0,0.00,1,0,2023,2022-23,div1,Wallace-Dothan,wallacecommunitycollegedothan,dylandickertjjuf,Dylan Dickert
-May 12,home,Lawson State,W,3-1,3,1,2,win,20230512_c9qg,1,1,0,0,9.0,5,1,1,1.00,1,11,2023,2022-23,div1,Wallace-Dothan,wallacecommunitycollegedothan,dylandickertjjuf,Dylan Dickert
-May 15,home,Shelton State,L,15-3,15,3,12,win,20230515_rny8,1,0,1,0,1.0,5,4,4,36.00,1,0,2023,2022-23,div1,Wallace-Dothan,wallacecommunitycollegedothan,dylandickertjjuf,Dylan Dickert
+Feb 5,home,Volunteer State,L,11-4,11,4,7,win,20230205_mw5i,0,0,0,0,1.0,,,,0.00,,2,2023,2022-23,div1,Wallace-Dothan,wallacecommunitycollegedothan,dylandickertjjuf,Dylan Dickert
+Feb 8,home,Andrew,L,5-1,5,1,4,win,20230208_5v4k,0,0,0,0,2.0,2,1,1,4.50,,,2023,2022-23,div1,Wallace-Dothan,wallacecommunitycollegedothan,dylandickertjjuf,Dylan Dickert
+Feb 16,home,John A. Logan,W,9-6,9,6,3,win,20230216_4h27,0,1,0,0,2.1,2,,,0.00,1,,2023,2022-23,div1,Wallace-Dothan,wallacecommunitycollegedothan,dylandickertjjuf,Dylan Dickert
+Feb 25,home,Wallace-Dothan,W,6-2,6,2,4,win,20230225_dlh6,0,0,0,0,1.0,2,,,0.00,,,2023,2022-23,div1,Wallace-Dothan,wallacecommunitycollegedothan,dylandickertjjuf,Dylan Dickert
+Mar 16,home,Snead State,L,14-8,14,8,6,win,20230316_09zc,0,0,0,0,0.1,1,,,0.00,2,,2023,2022-23,div1,Wallace-Dothan,wallacecommunitycollegedothan,dylandickertjjuf,Dylan Dickert
+Mar 31,home,Bevill State,L,3-1,3,1,2,win,20230331_yh0z,0,0,0,0,0.1,1,2,2,54.00,4,,2023,2022-23,div1,Wallace-Dothan,wallacecommunitycollegedothan,dylandickertjjuf,Dylan Dickert
+Apr 11,home,Point University JV,W,9-0,9,0,9,win,20230411_480a,0,0,0,0,1.0,1,,,0.00,,1,2023,2022-23,div1,Wallace-Dothan,wallacecommunitycollegedothan,dylandickertjjuf,Dylan Dickert
+Apr 13,home,Northwest-Shoals Community College,L,8-2,8,2,6,win,20230413_ubzo,0,0,0,0,1.0,,,,0.00,,1,2023,2022-23,div1,Wallace-Dothan,wallacecommunitycollegedothan,dylandickertjjuf,Dylan Dickert
+Apr 13,home,Northwest-Shoals Community College,L,8-7,8,7,1,win,20230413_zy8x,0,0,0,0,1.0,2,1,1,9.00,,1,2023,2022-23,div1,Wallace-Dothan,wallacecommunitycollegedothan,dylandickertjjuf,Dylan Dickert
+Apr 22,home,Southern Union State,L,12-10,12,10,2,win,20230422_isd6,0,0,0,0,1.2,1,,,0.00,1,2,2023,2022-23,div1,Wallace-Dothan,wallacecommunitycollegedothan,dylandickertjjuf,Dylan Dickert
+Apr 29,home,Lawson State,L,12-5,12,5,7,win,20230429_6cq1,0,0,0,0,1.0,1,,,0.00,1,1,2023,2022-23,div1,Wallace-Dothan,wallacecommunitycollegedothan,dylandickertjjuf,Dylan Dickert
+May 4,home,Wallace State,L,10-7,10,7,3,win,20230504_os66,0,0,0,0,1.1,1,1,1,6.75,,,2023,2022-23,div1,Wallace-Dothan,wallacecommunitycollegedothan,dylandickertjjuf,Dylan Dickert
+May 6,home,Wallace State,W,4-3,4,3,1,win,20230506_49en,0,0,0,0,1.0,,,,0.00,,1,2023,2022-23,div1,Wallace-Dothan,wallacecommunitycollegedothan,dylandickertjjuf,Dylan Dickert
