@@ -1,46 +1,16 @@
 date,location,opponent,result,score,team_score,opp_score,game_score_diff,game_win_loss,game_id,TC,PO,A,E,FPCT,DP,SBA,RCS,RCS_PCT,PB,CI,season,njcaa_season,njcaa_division,team,team_id,player_id,player_name
-Feb 10,home,Pearl River,L,11-1,11,1,10,win,20230210_mnlb,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Ranger,rangercollege,emirencalada94nh,Emir Encalada
-Feb 10,home,Pearl River,L,17-4,17,4,13,win,20230210_x50x,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Ranger,rangercollege,emirencalada94nh,Emir Encalada
-Feb 14,home,Huntingdon College,W,6-0,6,0,6,win,20230214_amiq,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Ranger,rangercollege,emirencalada94nh,Emir Encalada
-Feb 14,home,Huntingdon College,W,12-9,12,9,3,win,20230214_qbhl,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Ranger,rangercollege,emirencalada94nh,Emir Encalada
-Feb 16,home,Wallace-Dothan,L,18-10,18,10,8,win,20230216_7q2b,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Ranger,rangercollege,emirencalada94nh,Emir Encalada
-Feb 21,home,Marion Military,W,5-3,5,3,2,win,20230221_3dw5,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Ranger,rangercollege,emirencalada94nh,Emir Encalada
-Feb 21,home,Marion Military,L,7-0,7,0,7,win,20230221_xlt1,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Ranger,rangercollege,emirencalada94nh,Emir Encalada
-Feb 24,home,Nunez,W,11-9,11,9,2,win,20230224_nrer,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Ranger,rangercollege,emirencalada94nh,Emir Encalada
-Feb 25,home,Nunez,W,11-7,11,7,4,win,20230225_zq4t,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Ranger,rangercollege,emirencalada94nh,Emir Encalada
-Feb 25,home,Nunez,W,18-8,18,8,10,win,20230225_bb0b,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Ranger,rangercollege,emirencalada94nh,Emir Encalada
-Feb 28,home,Marion Military,L,16-9,16,9,7,win,20230228_t48f,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Ranger,rangercollege,emirencalada94nh,Emir Encalada
-Feb 28,home,Marion Military,W,8-4,8,4,4,win,20230228_pgpw,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Ranger,rangercollege,emirencalada94nh,Emir Encalada
-Mar 3,home,Gulf Coast State,L,14-0,14,0,14,win,20230303_y0ps,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Ranger,rangercollege,emirencalada94nh,Emir Encalada
-Mar 3,home,Gulf Coast State,W,7-5,7,5,2,win,20230303_7dk7,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Ranger,rangercollege,emirencalada94nh,Emir Encalada
-Mar 9,home,Bishop State,L,11-1,11,1,10,win,20230309_guiw,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Ranger,rangercollege,emirencalada94nh,Emir Encalada
-Mar 9,home,Bishop State,L,10-2,10,2,8,win,20230309_qukm,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Ranger,rangercollege,emirencalada94nh,Emir Encalada
-Mar 11,home,Bishop State,L,13-8,13,8,5,win,20230311_60y4,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Ranger,rangercollege,emirencalada94nh,Emir Encalada
-Mar 11,home,Bishop State,W,8-7,8,7,1,win,20230311_4lng,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Ranger,rangercollege,emirencalada94nh,Emir Encalada
-Mar 16,home,Wallace-Selma,W,5-4,5,4,1,win,20230316_i9rv,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Ranger,rangercollege,emirencalada94nh,Emir Encalada
-Mar 16,home,Wallace-Selma,L,6-4,6,4,2,win,20230316_rht8,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Ranger,rangercollege,emirencalada94nh,Emir Encalada
-Mar 18,home,Wallace-Selma,L,5-3,5,3,2,win,20230318_0j39,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Ranger,rangercollege,emirencalada94nh,Emir Encalada
-Mar 18,home,Wallace-Selma,L,2-1,2,1,1,win,20230318_hgsu,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Ranger,rangercollege,emirencalada94nh,Emir Encalada
-Mar 23,home,Coastal Alabama - Monroeville,L,7-0,7,0,7,win,20230323_tful,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Ranger,rangercollege,emirencalada94nh,Emir Encalada
-Mar 23,home,Coastal Alabama - Monroeville,L,10-8,10,8,2,win,20230323_ss2h,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Ranger,rangercollege,emirencalada94nh,Emir Encalada
-Mar 24,home,Coastal Alabama - Monroeville,L,5-4,5,4,1,win,20230324_9eym,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Ranger,rangercollege,emirencalada94nh,Emir Encalada
-Mar 24,home,Coastal Alabama - Monroeville,W,7-3,7,3,4,win,20230324_ryqw,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Ranger,rangercollege,emirencalada94nh,Emir Encalada
-Mar 30,home,Chattahoochee Valley,L,6-3,6,3,3,win,20230330_ujpx,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Ranger,rangercollege,emirencalada94nh,Emir Encalada
-Mar 30,home,Chattahoochee Valley,L,8-2,8,2,6,win,20230330_8458,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Ranger,rangercollege,emirencalada94nh,Emir Encalada
-Apr 1,home,Chattahoochee Valley,L,11-0,11,0,11,win,20230401_glgm,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Ranger,rangercollege,emirencalada94nh,Emir Encalada
-Apr 1,home,Chattahoochee Valley,W,6-5,6,5,1,win,20230401_y3fy,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Ranger,rangercollege,emirencalada94nh,Emir Encalada
-Apr 5,home,Gulf Coast State,L,11-3,11,3,8,win,20230405_39od,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Ranger,rangercollege,emirencalada94nh,Emir Encalada
-Apr 12,home,Coastal Alabama - Brewton,W,8-7,8,7,1,win,20230412_b4ug,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Ranger,rangercollege,emirencalada94nh,Emir Encalada
-Apr 12,home,Coastal Alabama - Brewton,W,11-0,11,0,11,win,20230412_dyrs,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Ranger,rangercollege,emirencalada94nh,Emir Encalada
-Apr 15,home,Coastal Alabama - Brewton,W,6-0,6,0,6,win,20230415_trus,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Ranger,rangercollege,emirencalada94nh,Emir Encalada
-Apr 15,home,Coastal Alabama - Brewton,W,4-3,4,3,1,win,20230415_2xtb,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Ranger,rangercollege,emirencalada94nh,Emir Encalada
-Apr 20,home,Wallace-Dothan,L,11-1,11,1,10,win,20230420_muz3,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Ranger,rangercollege,emirencalada94nh,Emir Encalada
-Apr 20,home,Wallace-Dothan,L,12-2,12,2,10,win,20230420_8fde,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Ranger,rangercollege,emirencalada94nh,Emir Encalada
-Apr 22,home,Wallace-Dothan,L,16-6,16,6,10,win,20230422_5qw7,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Ranger,rangercollege,emirencalada94nh,Emir Encalada
-Apr 22,home,Wallace-Dothan,L,5-2,5,2,3,win,20230422_u3ki,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Ranger,rangercollege,emirencalada94nh,Emir Encalada
-Apr 26,home,Lurleen B. Wallace,W,5-4,5,4,1,win,20230426_7ysd,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Ranger,rangercollege,emirencalada94nh,Emir Encalada
-Apr 26,home,Lurleen B. Wallace,W,4-0,4,0,4,win,20230426_eqjc,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Ranger,rangercollege,emirencalada94nh,Emir Encalada
-Apr 30,home,Lurleen B. Wallace,L,10-6,10,6,4,win,20230430_7i05,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Ranger,rangercollege,emirencalada94nh,Emir Encalada
-Apr 30,home,Lurleen B. Wallace,L,2-1,2,1,1,win,20230430_itcx,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Ranger,rangercollege,emirencalada94nh,Emir Encalada
-May 6,home,Coastal Alabama - Bay Minette,W,12-11,12,11,1,win,20230506_hklh,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Ranger,rangercollege,emirencalada94nh,Emir Encalada
-May 6,home,Coastal Alabama - Bay Minette,W,5-4,5,4,1,win,20230506_vhbg,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Ranger,rangercollege,emirencalada94nh,Emir Encalada
+Jan 28,home,Baton Rouge,W,18-2,18,2,16,win,20230128_ob63,0,1,0,0,2.2,5,2,2,6.75,2,2,2023,2022-23,div1,Ranger,rangercollege,emirencalada94nh,Emir Encalada
+Feb 5,home,Dodge City,L,17-0,17,0,17,win,20230205_pi9q,0,0,0,0,2.0,4,5,4,18.00,2,,2023,2022-23,div1,Ranger,rangercollege,emirencalada94nh,Emir Encalada
+Feb 18,home,Luna,W,6-1,6,1,5,win,20230218_9ogf,0,0,0,1,2.0,1,,,0.00,1,4,2023,2022-23,div1,Ranger,rangercollege,emirencalada94nh,Emir Encalada
+Feb 25,home,Frank Phillips,W,7-5,7,5,2,win,20230225_i91x,0,1,0,0,7.0,3,2,,0.00,,11,2023,2022-23,div1,Ranger,rangercollege,emirencalada94nh,Emir Encalada
+Mar 1,home,Western Texas,W,6-3,6,3,3,win,20230301_o266,0,0,0,0,3.0,3,1,,0.00,,2,2023,2022-23,div1,Ranger,rangercollege,emirencalada94nh,Emir Encalada
+Mar 8,home,Vernon,W,15-13,15,13,2,win,20230308_ni7k,0,0,0,0,1.2,1,3,1,5.40,3,,2023,2022-23,div1,Ranger,rangercollege,emirencalada94nh,Emir Encalada
+Mar 15,home,North Central Texas,L,4-1,4,1,3,win,20230315_jzyz,0,0,1,0,7.0,5,4,,0.00,2,4,2023,2022-23,div1,Ranger,rangercollege,emirencalada94nh,Emir Encalada
+Mar 22,home,Temple,L,3-2,3,2,1,win,20230322_re7e,0,0,0,0,6.0,3,2,1,1.50,4,6,2023,2022-23,div1,Ranger,rangercollege,emirencalada94nh,Emir Encalada
+Mar 29,home,Cisco,L,9-0,9,0,9,win,20230329_6cqx,0,1,0,0,5.2,4,3,1,1.59,6,8,2023,2022-23,div1,Ranger,rangercollege,emirencalada94nh,Emir Encalada
+Apr 5,home,Grayson,L,9-1,9,1,8,win,20230405_zhn0,0,0,1,0,4.1,9,5,2,4.15,3,6,2023,2022-23,div1,Ranger,rangercollege,emirencalada94nh,Emir Encalada
+Apr 19,home,Hill,L,16-8,16,8,8,win,20230419_f9v2,0,0,1,0,1.1,1,5,5,33.75,2,2,2023,2022-23,div1,Ranger,rangercollege,emirencalada94nh,Emir Encalada
+Apr 22,home,Hill,L,9-0,9,0,9,win,20230422_b9vj,0,0,0,0,0.1,,,,0.00,,,2023,2022-23,div1,Ranger,rangercollege,emirencalada94nh,Emir Encalada
+Apr 27,home,McLennan,L,9-0,9,0,9,win,20230427_b8ra,0,0,0,0,6.0,3,3,,0.00,3,6,2023,2022-23,div1,Ranger,rangercollege,emirencalada94nh,Emir Encalada
+May 3,home,Weatherford,L,13-10,13,10,3,win,20230503_2vs4,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Ranger,rangercollege,emirencalada94nh,Emir Encalada
+May 6,home,Weatherford,L,9-2,9,2,7,win,20230506_vw42,0,0,1,0,1.2,2,3,3,16.20,2,1,2023,2022-23,div1,Ranger,rangercollege,emirencalada94nh,Emir Encalada

@@ -1,19 +1,18 @@
 date,location,opponent,result,score,team_score,opp_score,game_score_diff,game_win_loss,game_id,GS,W,L,SV,IP,H,R,ER,ERA,BB,K,HR,season,njcaa_season,njcaa_division,team,team_id,player_id,player_name
-Apr 28,home,Blinn,L,4-3,4,3,1,win,20230428_3szj,0,0,1,0,1.1,4,2,2,13.50,3,2,2,2023,2022-23,div1,Galveston,galvestoncollege,cullenflowershwkv,Cullen Flowers
-Apr 26,home,Blinn,L,9-7,9,7,2,win,20230426_zj5p,0,0,0,0,1.1,1,,,0.00,1,1,,2023,2022-23,div1,Galveston,galvestoncollege,cullenflowershwkv,Cullen Flowers
-Apr 22,home,Alvin,W,2-1,2,1,1,win,20230422_hook,0,1,0,0,1.2,,,,0.00,2,2,,2023,2022-23,div1,Galveston,galvestoncollege,cullenflowershwkv,Cullen Flowers
-Apr 18,home,Alvin,W,1-0,1,0,1,win,20230418_uh85,1,1,0,0,4.0,3,0,0,0.00,2,4,,2023,2022-23,div1,Galveston,galvestoncollege,cullenflowershwkv,Cullen Flowers
-Apr 14,home,San Jacinto,L,7-3,7,3,4,win,20230414_xw75,0,0,0,0,1.1,0,0,0,0.00,1,3,,2023,2022-23,div1,Galveston,galvestoncollege,cullenflowershwkv,Cullen Flowers
-Apr 11,home,Coastal Bend,L,9-0,9,0,9,win,20230411_jr96,0,0,0,0,2.0,2,,,0.00,1,1,,2023,2022-23,div1,Galveston,galvestoncollege,cullenflowershwkv,Cullen Flowers
-Apr 1,home,Wharton County,W,8-5,8,5,3,win,20230401_npv6,0,0,0,0,0.1,2,2,2,54.00,,,,2023,2022-23,div1,Galveston,galvestoncollege,cullenflowershwkv,Cullen Flowers
-Mar 25,home,Blinn,L,15-5,15,5,10,win,20230325_crsc,0,0,0,0,1.1,4,3,3,20.25,2,2,,2023,2022-23,div1,Galveston,galvestoncollege,cullenflowershwkv,Cullen Flowers
-Mar 23,home,Blinn,L,11-2,11,2,9,win,20230323_ydhm,0,0,0,0,0.0,,1,1,INF,1,1,,2023,2022-23,div1,Galveston,galvestoncollege,cullenflowershwkv,Cullen Flowers
-Mar 19,home,Alvin,L,9-4,9,4,5,win,20230319_5826,0,0,0,0,1.1,1,1,,0.00,,2,,2023,2022-23,div1,Galveston,galvestoncollege,cullenflowershwkv,Cullen Flowers
-Mar 16,home,Alvin,L,9-6,9,6,3,win,20230316_y5g4,0,0,0,0,2.0,2,,,0.00,1,2,,2023,2022-23,div1,Galveston,galvestoncollege,cullenflowershwkv,Cullen Flowers
-Mar 12,home,South Suburban,L,6-3,6,3,3,win,20230312_oc3j,0,0,0,0,2.1,1,1,1,3.86,2,3,,2023,2022-23,div1,Galveston,galvestoncollege,cullenflowershwkv,Cullen Flowers
-Mar 9,home,San Jacinto,W,10-8,10,8,2,win,20230309_opp0,0,0,0,0,4.0,5,2,2,4.50,0,2,1,2023,2022-23,div1,Galveston,galvestoncollege,cullenflowershwkv,Cullen Flowers
-Feb 28,home,Spartan Post Grad,W,10-0,10,0,10,win,20230228_41h4,0,0,0,0,1.0,,,,0.00,,1,,2023,2022-23,div1,Galveston,galvestoncollege,cullenflowershwkv,Cullen Flowers
-Feb 21,home,Wharton County,L,10-0,10,0,10,win,20230221_asbs,0,0,0,0,0.0,2,,,0.00,,,,2023,2022-23,div1,Galveston,galvestoncollege,cullenflowershwkv,Cullen Flowers
-Feb 14,home,Texas Post Grad,W,8-3,8,3,5,win,20230214_63fz,0,0,0,0,1.0,3,1,1,9.00,,1,,2023,2022-23,div1,Galveston,galvestoncollege,cullenflowershwkv,Cullen Flowers
-Feb 7,home,Spartan Post Grad,W,4-0,4,0,4,win,20230207_de59,0,0,0,0,1.0,,,,0.00,,,,2023,2022-23,div1,Galveston,galvestoncollege,cullenflowershwkv,Cullen Flowers
-Feb 3,home,Angelina,W,7-3,7,3,4,win,20230203_jgpw,0,0,0,0,1.0,,1,1,9.00,3,2,,2023,2022-23,div1,Galveston,galvestoncollege,cullenflowershwkv,Cullen Flowers
+Apr 26,home,Blinn,L,9-7,9,7,2,win,20230426_zj5p,0,0,1,0,1.1,,2,,0.00,1,3,,2023,2022-23,div1,Galveston,galvestoncollege,cullenflowershwkv,Cullen Flowers
+Apr 22,home,Alvin,L,9-4,9,4,5,win,20230422_63lj,0,0,0,0,3.2,1,,,0.00,,4,,2023,2022-23,div1,Galveston,galvestoncollege,cullenflowershwkv,Cullen Flowers
+Apr 20,home,Alvin,L,8-0,8,0,8,win,20230420_yxce,0,0,0,0,0.0,2,3,3,INF,2,1,1,2023,2022-23,div1,Galveston,galvestoncollege,cullenflowershwkv,Cullen Flowers
+Apr 14,home,San Jacinto,L,7-3,7,3,4,win,20230414_xw75,0,0,0,0,2.0,2,2,2,9.00,0,2,,2023,2022-23,div1,Galveston,galvestoncollege,cullenflowershwkv,Cullen Flowers
+Apr 4,home,Coastal Bend,W,7-5,7,5,2,win,20230404_0r79,1,0,0,0,2.2,4,3,3,10.13,1,2,,2023,2022-23,div1,Galveston,galvestoncollege,cullenflowershwkv,Cullen Flowers
+Apr 4,home,Coastal Bend,L,5-3,5,3,2,win,20230404_qmox,0,0,0,0,0.2,,,,0.00,,,,2023,2022-23,div1,Galveston,galvestoncollege,cullenflowershwkv,Cullen Flowers
+Mar 25,home,Blinn,L,15-5,15,5,10,win,20230325_crsc,0,0,0,0,2.0,1,1,1,4.50,2,3,,2023,2022-23,div1,Galveston,galvestoncollege,cullenflowershwkv,Cullen Flowers
+Mar 9,home,San Jacinto,W,10-8,10,8,2,win,20230309_opp0,0,1,0,0,2.1,1,0,0,0.00,0,4,,2023,2022-23,div1,Galveston,galvestoncollege,cullenflowershwkv,Cullen Flowers
+Mar 7,home,San Jacinto,L,16-6,16,6,10,win,20230307_9lm1,0,0,0,0,0.1,2,2,2,54.00,0,0,1,2023,2022-23,div1,Galveston,galvestoncollege,cullenflowershwkv,Cullen Flowers
+Feb 28,home,Spartan Post Grad,W,12-0,12,0,12,win,20230228_a57o,0,0,0,0,2.0,1,,,0.00,1,4,,2023,2022-23,div1,Galveston,galvestoncollege,cullenflowershwkv,Cullen Flowers
+Feb 25,home,Wharton County,L,10-8,10,8,2,win,20230225_wlxn,0,0,0,0,0.0,1,3,4,INF,1,,,2023,2022-23,div1,Galveston,galvestoncollege,cullenflowershwkv,Cullen Flowers
+Feb 24,home,Wharton County,W,2-1,2,1,1,win,20230224_o846,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div1,Galveston,galvestoncollege,cullenflowershwkv,Cullen Flowers
+Feb 17,home,New Mexico,L,16-12,16,12,4,win,20230217_o3gl,0,0,0,0,2.0,3,5,5,22.50,5,3,1,2023,2022-23,div1,Galveston,galvestoncollege,cullenflowershwkv,Cullen Flowers
+Feb 11,home,Ranger,L,12-0,12,0,12,win,20230211_goxl,0,0,0,0,0.2,4,4,4,54.00,2,2,,2023,2022-23,div1,Galveston,galvestoncollege,cullenflowershwkv,Cullen Flowers
+Feb 7,home,Spartan Post Grad,W,4-0,4,0,4,win,20230207_de59,0,0,0,0,1.0,,,,0.00,1,3,,2023,2022-23,div1,Galveston,galvestoncollege,cullenflowershwkv,Cullen Flowers
+Feb 3,home,Angelina,W,7-3,7,3,4,win,20230203_jgpw,0,0,0,0,2.0,3,1,1,4.50,,1,,2023,2022-23,div1,Galveston,galvestoncollege,cullenflowershwkv,Cullen Flowers
+Jan 27,home,Baton Rouge,L,10-9,10,9,1,win,20230127_2i36,0,0,1,0,1.0,,1,,0.00,1,1,,2023,2022-23,div1,Galveston,galvestoncollege,cullenflowershwkv,Cullen Flowers

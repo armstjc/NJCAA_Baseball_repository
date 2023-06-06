@@ -1,12 +1,35 @@
 date,location,opponent,result,score,team_score,opp_score,game_score_diff,game_win_loss,game_id,GS,W,L,SV,IP,H,R,ER,ERA,BB,K,HR,season,njcaa_season,njcaa_division,team,team_id,player_id,player_name
-May 12,home,Chattahoochee Valley,L,9-8,9,8,1,win,20230512_jxg4,0,0,1,0,1.0,1,1,,0.00,1,1,,2023,2022-23,div1,USC Salkehatchie,uscsalkehatchie,gavinphillipspnzc,Gavin Phillips
-Apr 24,home,Goode Elite,W,8-3,8,3,5,win,20230424_cate,0,0,0,0,1.0,,,,0.00,,1,,2023,2022-23,div1,USC Salkehatchie,uscsalkehatchie,gavinphillipspnzc,Gavin Phillips
-Apr 22,home,Lurleen B. Wallace,W,15-5,15,5,10,win,20230422_kwvg,0,0,0,0,0.1,3,1,1,27.00,1,1,,2023,2022-23,div1,USC Salkehatchie,uscsalkehatchie,gavinphillipspnzc,Gavin Phillips
-Apr 14,home,Coastal Alabama - Monroeville,W,4-2,4,2,2,win,20230414_zu9d,0,1,0,0,1.0,,,,0.00,,2,,2023,2022-23,div1,USC Salkehatchie,uscsalkehatchie,gavinphillipspnzc,Gavin Phillips
-Apr 12,home,Coastal Alabama - Monroeville,W,11-8,11,8,3,win,20230412_d43j,0,0,0,0,0.0,1,,,0.00,,,,2023,2022-23,div1,USC Salkehatchie,uscsalkehatchie,gavinphillipspnzc,Gavin Phillips
-Apr 6,home,Chattahoochee Valley,W,9-6,9,6,3,win,20230406_89zu,0,0,0,0,0.2,1,,,0.00,2,1,,2023,2022-23,div1,USC Salkehatchie,uscsalkehatchie,gavinphillipspnzc,Gavin Phillips
-Apr 5,home,Chattahoochee Valley,L,6-5,6,5,1,win,20230405_9vfy,0,0,0,0,2.0,,,,0.00,,,,2023,2022-23,div1,USC Salkehatchie,uscsalkehatchie,gavinphillipspnzc,Gavin Phillips
-Mar 11,home,Enterprise State,L,8-7,8,7,1,win,20230311_4lng,0,0,0,0,0.0,2,,,0.00,,,,2023,2022-23,div1,USC Salkehatchie,uscsalkehatchie,gavinphillipspnzc,Gavin Phillips
-Mar 2,home,Spring Hill JV,W,8-2,8,2,6,win,20230302_bdod,0,0,0,0,0.2,2,2,2,27.00,2,,,2023,2022-23,div1,USC Salkehatchie,uscsalkehatchie,gavinphillipspnzc,Gavin Phillips
-Feb 23,home,Faulkner University JV,W,9-1,9,1,8,win,20230223_71n8,0,0,0,0,1.0,,,,0.00,1,1,,2023,2022-23,div1,USC Salkehatchie,uscsalkehatchie,gavinphillipspnzc,Gavin Phillips
-Feb 20,home,Nunez,L,9-0,9,0,9,win,20230220_p4pv,0,0,0,0,1.0,,,,0.00,,1,,2023,2022-23,div1,USC Salkehatchie,uscsalkehatchie,gavinphillipspnzc,Gavin Phillips
+May 6,home,Spartanburg Methodist,L,10-0,10,0,10,win,20230506_4tw9,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div1,USC Salkehatchie,uscsalkehatchie,gavinphillipspnzc,Gavin Phillips
+May 5,home,Florence-Darlington Tech,L,12-2,12,2,10,win,20230505_2np1,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div1,USC Salkehatchie,uscsalkehatchie,gavinphillipspnzc,Gavin Phillips
+Apr 23,home,USC Sumter,L,17-2,17,2,15,win,20230423_78sv,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div1,USC Salkehatchie,uscsalkehatchie,gavinphillipspnzc,Gavin Phillips
+Apr 22,home,USC Sumter,L,8-2,8,2,6,win,20230422_60iv,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div1,USC Salkehatchie,uscsalkehatchie,gavinphillipspnzc,Gavin Phillips
+Apr 16,home,USC Lancaster,W,5-4,5,4,1,win,20230416_rnns,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div1,USC Salkehatchie,uscsalkehatchie,gavinphillipspnzc,Gavin Phillips
+Apr 16,home,USC Lancaster,L,12-1,12,1,11,win,20230416_k983,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div1,USC Salkehatchie,uscsalkehatchie,gavinphillipspnzc,Gavin Phillips
+Apr 15,home,USC Lancaster,W,6-5,6,5,1,win,20230415_p32k,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div1,USC Salkehatchie,uscsalkehatchie,gavinphillipspnzc,Gavin Phillips
+Apr 13,home,Gordon State,L,10-0,10,0,10,win,20230413_xfgt,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div1,USC Salkehatchie,uscsalkehatchie,gavinphillipspnzc,Gavin Phillips
+Apr 2,home,USC Union,L,12-2,12,2,10,win,20230402_w8kb,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div1,USC Salkehatchie,uscsalkehatchie,gavinphillipspnzc,Gavin Phillips
+Apr 2,home,USC Union,W,11-8,11,8,3,win,20230402_45kh,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div1,USC Salkehatchie,uscsalkehatchie,gavinphillipspnzc,Gavin Phillips
+Apr 1,home,USC Union,L,9-3,9,3,6,win,20230401_0r53,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div1,USC Salkehatchie,uscsalkehatchie,gavinphillipspnzc,Gavin Phillips
+Apr 1,home,USC Union,L,2-1,2,1,1,win,20230401_54c5,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div1,USC Salkehatchie,uscsalkehatchie,gavinphillipspnzc,Gavin Phillips
+Mar 25,home,Gaston College,L,5-0,5,0,5,win,20230325_bu62,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div1,USC Salkehatchie,uscsalkehatchie,gavinphillipspnzc,Gavin Phillips
+Mar 25,home,Gaston College,L,5-0,5,0,5,win,20230325_auqq,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div1,USC Salkehatchie,uscsalkehatchie,gavinphillipspnzc,Gavin Phillips
+Mar 19,home,Spartanburg Methodist,L,15-5,15,5,10,win,20230319_mt1o,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div1,USC Salkehatchie,uscsalkehatchie,gavinphillipspnzc,Gavin Phillips
+Mar 19,home,Spartanburg Methodist,L,17-4,17,4,13,win,20230319_jfz4,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div1,USC Salkehatchie,uscsalkehatchie,gavinphillipspnzc,Gavin Phillips
+Mar 18,home,Spartanburg Methodist,L,12-7,12,7,5,win,20230318_o3bs,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div1,USC Salkehatchie,uscsalkehatchie,gavinphillipspnzc,Gavin Phillips
+Mar 18,home,Spartanburg Methodist,L,7-1,7,1,6,win,20230318_flfz,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div1,USC Salkehatchie,uscsalkehatchie,gavinphillipspnzc,Gavin Phillips
+Mar 12,home,Florence-Darlington Tech,L,9-0,9,0,9,win,20230312_ba1e,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div1,USC Salkehatchie,uscsalkehatchie,gavinphillipspnzc,Gavin Phillips
+Mar 11,home,Florence-Darlington Tech,L,10-0,10,0,10,win,20230311_djd2,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div1,USC Salkehatchie,uscsalkehatchie,gavinphillipspnzc,Gavin Phillips
+Mar 7,home,South Georgia State,L,14-4,14,4,10,win,20230307_llpy,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div1,USC Salkehatchie,uscsalkehatchie,gavinphillipspnzc,Gavin Phillips
+Mar 4,home,Georgia Highlands,L,13-1,13,1,12,win,20230304_6ow4,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div1,USC Salkehatchie,uscsalkehatchie,gavinphillipspnzc,Gavin Phillips
+Mar 4,home,Georgia Highlands,L,24-16,24,16,8,win,20230304_8r37,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div1,USC Salkehatchie,uscsalkehatchie,gavinphillipspnzc,Gavin Phillips
+Feb 28,home,South Georgia State,L,12-1,12,1,11,win,20230228_frqa,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div1,USC Salkehatchie,uscsalkehatchie,gavinphillipspnzc,Gavin Phillips
+Feb 26,home,Spartanburg Methodist,L,15-3,15,3,12,win,20230226_heg0,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div1,USC Salkehatchie,uscsalkehatchie,gavinphillipspnzc,Gavin Phillips
+Feb 25,home,Spartanburg Methodist,L,10-4,10,4,6,win,20230225_o109,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div1,USC Salkehatchie,uscsalkehatchie,gavinphillipspnzc,Gavin Phillips
+Feb 20,home,Abraham Baldwin,L,12-1,12,1,11,win,20230220_g0pc,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div1,USC Salkehatchie,uscsalkehatchie,gavinphillipspnzc,Gavin Phillips
+Feb 20,home,Abraham Baldwin,L,6-2,6,2,4,win,20230220_wtu6,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div1,USC Salkehatchie,uscsalkehatchie,gavinphillipspnzc,Gavin Phillips
+Feb 18,home,Andrew,L,12-2,12,2,10,win,20230218_t9e7,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div1,USC Salkehatchie,uscsalkehatchie,gavinphillipspnzc,Gavin Phillips
+Feb 18,home,Andrew,L,10-0,10,0,10,win,20230218_o9o8,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div1,USC Salkehatchie,uscsalkehatchie,gavinphillipspnzc,Gavin Phillips
+Feb 17,home,Andrew,L,10-1,10,1,9,win,20230217_b96s,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div1,USC Salkehatchie,uscsalkehatchie,gavinphillipspnzc,Gavin Phillips
+Feb 14,home,Abraham Baldwin,L,11-0,11,0,11,win,20230214_xktu,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div1,USC Salkehatchie,uscsalkehatchie,gavinphillipspnzc,Gavin Phillips
+Jan 28,home,Walters State,L,16-0,16,0,16,win,20230128_nqp6,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div1,USC Salkehatchie,uscsalkehatchie,gavinphillipspnzc,Gavin Phillips
+Jan 27,home,Walters State,L,22-1,22,1,21,win,20230127_s0zq,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div1,USC Salkehatchie,uscsalkehatchie,gavinphillipspnzc,Gavin Phillips

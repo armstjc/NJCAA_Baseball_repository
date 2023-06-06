@@ -1,15 +1,55 @@
 date,location,opponent,result,score,team_score,opp_score,game_score_diff,game_win_loss,game_id,GS,W,L,SV,IP,H,R,ER,ERA,BB,K,HR,season,njcaa_season,njcaa_division,team,team_id,player_id,player_name
-May 13,home,Lawson State,W,15-14,15,14,1,win,20230513_t81u,0,0,0,0,1.0,3,2,2,18.00,,1,1,2023,2022-23,div1,Snead State,sneadstatecommunitycollege,jebbartle70pr,Jeb Bartle
-May 11,home,Lurleen B. Wallace,W,9-7,9,7,2,win,20230511_9dge,1,1,0,0,4.0,3,5,4,9.00,1,4,,2023,2022-23,div1,Snead State,sneadstatecommunitycollege,jebbartle70pr,Jeb Bartle
-May 4,home,Bevill State,W,15-4,15,4,11,win,20230504_dajy,1,1,0,0,3.0,6,4,0,0.00,2,1,,2023,2022-23,div1,Snead State,sneadstatecommunitycollege,jebbartle70pr,Jeb Bartle
-Apr 28,home,Southern Union State,W,14-4,14,4,10,win,20230428_8ck2,1,1,0,0,5.2,6,4,4,6.35,1,6,,2023,2022-23,div1,Snead State,sneadstatecommunitycollege,jebbartle70pr,Jeb Bartle
-Apr 20,home,Marion Military,W,13-2,13,2,11,win,20230420_dd1a,1,1,0,0,6.0,6,2,2,3.00,0,9,,2023,2022-23,div1,Snead State,sneadstatecommunitycollege,jebbartle70pr,Jeb Bartle
-Apr 12,home,Wallace State,L,12-2,12,2,10,win,20230412_htbz,1,0,1,0,2.1,10,7,4,15.43,2,1,,2023,2022-23,div1,Snead State,sneadstatecommunitycollege,jebbartle70pr,Jeb Bartle
-Apr 5,home,Shelton State,W,7-4,7,4,3,win,20230405_ykd6,1,1,0,0,4.0,5,2,1,2.25,0,4,,2023,2022-23,div1,Snead State,sneadstatecommunitycollege,jebbartle70pr,Jeb Bartle
-Mar 30,home,Calhoun,W,7-6,7,6,1,win,20230330_aqlv,1,0,0,0,4.2,9,5,5,9.64,3,3,1,2023,2022-23,div1,Snead State,sneadstatecommunitycollege,jebbartle70pr,Jeb Bartle
-Mar 23,home,Northwest-Shoals Community College,W,17-1,17,1,16,win,20230323_yxym,1,1,0,0,5.0,4,1,1,1.80,2,1,1,2023,2022-23,div1,Snead State,sneadstatecommunitycollege,jebbartle70pr,Jeb Bartle
-Mar 16,home,Central Alabama,L,4-3,4,3,1,win,20230316_1j07,1,0,1,0,3.2,6,4,2,4.91,4,1,,2023,2022-23,div1,Snead State,sneadstatecommunitycollege,jebbartle70pr,Jeb Bartle
-Mar 9,home,Lawson State,W,12-11,12,11,1,win,20230309_dah7,1,1,0,0,4.0,5,6,5,11.25,2,3,,2023,2022-23,div1,Snead State,sneadstatecommunitycollege,jebbartle70pr,Jeb Bartle
-Feb 24,home,Lurleen B. Wallace,W,5-3,5,3,2,win,20230224_nxxp,1,1,0,0,4.0,3,1,0,0.00,0,5,,2023,2022-23,div1,Snead State,sneadstatecommunitycollege,jebbartle70pr,Jeb Bartle
-Feb 14,home,Itawamba,W,12-8,12,8,4,win,20230214_td0l,1,0,0,0,2.0,2,2,1,4.50,2,2,,2023,2022-23,div1,Snead State,sneadstatecommunitycollege,jebbartle70pr,Jeb Bartle
-Feb 9,home,East Mississippi,L,11-9,11,9,2,win,20230209_sojf,1,0,0,0,3.0,4,2,2,6.00,1,4,,2023,2022-23,div1,Snead State,sneadstatecommunitycollege,jebbartle70pr,Jeb Bartle
+May 14,home,Wallace-Dothan,L,10-3,10,3,7,win,20230514_po6v,0,0,0,0,1.0,3,1,1,9.00,1,,,2023,2022-23,div1,Snead State,sneadstatecommunitycollege,jebbartle70pr,Jeb Bartle
+May 13,home,Lawson State,W,15-14,15,14,1,win,20230513_t81u,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div1,Snead State,sneadstatecommunitycollege,jebbartle70pr,Jeb Bartle
+May 13,home,Wallace State,W,11-6,11,6,5,win,20230513_xp17,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div1,Snead State,sneadstatecommunitycollege,jebbartle70pr,Jeb Bartle
+May 12,home,Coastal Alabama - Monroeville,W,3-1,3,1,2,win,20230512_b8gm,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div1,Snead State,sneadstatecommunitycollege,jebbartle70pr,Jeb Bartle
+May 11,home,Wallace-Dothan,L,10-4,10,4,6,win,20230511_3bh8,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div1,Snead State,sneadstatecommunitycollege,jebbartle70pr,Jeb Bartle
+May 11,home,Lurleen B. Wallace,W,9-7,9,7,2,win,20230511_9dge,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div1,Snead State,sneadstatecommunitycollege,jebbartle70pr,Jeb Bartle
+May 6,home,Bevill State,W,2-0,2,0,2,win,20230506_xajg,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div1,Snead State,sneadstatecommunitycollege,jebbartle70pr,Jeb Bartle
+May 6,home,Bevill State,W,6-5,6,5,1,win,20230506_01i7,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div1,Snead State,sneadstatecommunitycollege,jebbartle70pr,Jeb Bartle
+May 4,home,Bevill State,W,10-3,10,3,7,win,20230504_1kix,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div1,Snead State,sneadstatecommunitycollege,jebbartle70pr,Jeb Bartle
+May 4,home,Bevill State,W,15-4,15,4,11,win,20230504_dajy,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div1,Snead State,sneadstatecommunitycollege,jebbartle70pr,Jeb Bartle
+Apr 29,home,Southern Union State,W,13-3,13,3,10,win,20230429_iefd,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div1,Snead State,sneadstatecommunitycollege,jebbartle70pr,Jeb Bartle
+Apr 28,home,Southern Union State,L,6-1,6,1,5,win,20230428_qwvf,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div1,Snead State,sneadstatecommunitycollege,jebbartle70pr,Jeb Bartle
+Apr 28,home,Southern Union State,W,14-4,14,4,10,win,20230428_8ck2,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div1,Snead State,sneadstatecommunitycollege,jebbartle70pr,Jeb Bartle
+Apr 25,home,Columbia State,W,9-2,9,2,7,win,20230425_oxhz,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div1,Snead State,sneadstatecommunitycollege,jebbartle70pr,Jeb Bartle
+Apr 22,home,Marion Military,W,5-4,5,4,1,win,20230422_zgv0,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div1,Snead State,sneadstatecommunitycollege,jebbartle70pr,Jeb Bartle
+Apr 20,home,Marion Military,L,10-8,10,8,2,win,20230420_njlr,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div1,Snead State,sneadstatecommunitycollege,jebbartle70pr,Jeb Bartle
+Apr 18,home,Roane State,W,10-2,10,2,8,win,20230418_iphg,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div1,Snead State,sneadstatecommunitycollege,jebbartle70pr,Jeb Bartle
+Apr 15,home,Wallace State,L,12-7,12,7,5,win,20230415_c8mo,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div1,Snead State,sneadstatecommunitycollege,jebbartle70pr,Jeb Bartle
+Apr 15,home,Wallace State,L,12-2,12,2,10,win,20230415_4gkn,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div1,Snead State,sneadstatecommunitycollege,jebbartle70pr,Jeb Bartle
+Apr 12,home,Wallace State,L,12-2,12,2,10,win,20230412_htbz,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div1,Snead State,sneadstatecommunitycollege,jebbartle70pr,Jeb Bartle
+Apr 6,home,Shelton State,W,5-4,5,4,1,win,20230406_kh11,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div1,Snead State,sneadstatecommunitycollege,jebbartle70pr,Jeb Bartle
+Apr 6,home,Shelton State,L,9-5,9,5,4,win,20230406_3fwo,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div1,Snead State,sneadstatecommunitycollege,jebbartle70pr,Jeb Bartle
+Apr 5,home,Shelton State,L,7-2,7,2,5,win,20230405_e0e9,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div1,Snead State,sneadstatecommunitycollege,jebbartle70pr,Jeb Bartle
+Apr 5,home,Shelton State,W,7-4,7,4,3,win,20230405_ykd6,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div1,Snead State,sneadstatecommunitycollege,jebbartle70pr,Jeb Bartle
+Apr 1,home,Calhoun,W,5-2,5,2,3,win,20230401_u2nu,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div1,Snead State,sneadstatecommunitycollege,jebbartle70pr,Jeb Bartle
+Apr 1,home,Calhoun,W,11-5,11,5,6,win,20230401_sjne,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div1,Snead State,sneadstatecommunitycollege,jebbartle70pr,Jeb Bartle
+Mar 30,home,Calhoun,L,9-7,9,7,2,win,20230330_os9z,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div1,Snead State,sneadstatecommunitycollege,jebbartle70pr,Jeb Bartle
+Mar 30,home,Calhoun,W,7-6,7,6,1,win,20230330_aqlv,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div1,Snead State,sneadstatecommunitycollege,jebbartle70pr,Jeb Bartle
+Mar 24,home,Northwest-Shoals Community College,W,9-5,9,5,4,win,20230324_v94c,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div1,Snead State,sneadstatecommunitycollege,jebbartle70pr,Jeb Bartle
+Mar 24,home,Northwest-Shoals Community College,W,11-1,11,1,10,win,20230324_y5ye,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div1,Snead State,sneadstatecommunitycollege,jebbartle70pr,Jeb Bartle
+Mar 23,home,Northwest-Shoals Community College,W,17-1,17,1,16,win,20230323_yxym,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div1,Snead State,sneadstatecommunitycollege,jebbartle70pr,Jeb Bartle
+Mar 23,home,Northwest-Shoals Community College,L,13-2,13,2,11,win,20230323_r2ea,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div1,Snead State,sneadstatecommunitycollege,jebbartle70pr,Jeb Bartle
+Mar 21,home,Roane State,W,11-10,11,10,1,win,20230321_ix8z,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div1,Snead State,sneadstatecommunitycollege,jebbartle70pr,Jeb Bartle
+Mar 21,home,Roane State,W,17-11,17,11,6,win,20230321_3pbi,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div1,Snead State,sneadstatecommunitycollege,jebbartle70pr,Jeb Bartle
+Mar 19,home,Central Alabama,L,9-3,9,3,6,win,20230319_t6jj,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div1,Snead State,sneadstatecommunitycollege,jebbartle70pr,Jeb Bartle
+Mar 19,home,Central Alabama,L,2-1,2,1,1,win,20230319_x7h2,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div1,Snead State,sneadstatecommunitycollege,jebbartle70pr,Jeb Bartle
+Mar 16,home,Central Alabama,L,4-3,4,3,1,win,20230316_1j07,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div1,Snead State,sneadstatecommunitycollege,jebbartle70pr,Jeb Bartle
+Mar 16,home,Central Alabama,W,14-8,14,8,6,win,20230316_09zc,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div1,Snead State,sneadstatecommunitycollege,jebbartle70pr,Jeb Bartle
+Mar 11,home,Lawson State,L,4-2,4,2,2,win,20230311_wj0m,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div1,Snead State,sneadstatecommunitycollege,jebbartle70pr,Jeb Bartle
+Mar 11,home,Lawson State,L,19-2,19,2,17,win,20230311_i7a9,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div1,Snead State,sneadstatecommunitycollege,jebbartle70pr,Jeb Bartle
+Mar 9,home,Lawson State,W,12-11,12,11,1,win,20230309_dah7,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div1,Snead State,sneadstatecommunitycollege,jebbartle70pr,Jeb Bartle
+Mar 9,home,Lawson State,L,12-0,12,0,12,win,20230309_gww5,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div1,Snead State,sneadstatecommunitycollege,jebbartle70pr,Jeb Bartle
+Mar 7,home,Columbia State,W,7-5,7,5,2,win,20230307_vm8v,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div1,Snead State,sneadstatecommunitycollege,jebbartle70pr,Jeb Bartle
+Mar 4,home,Lurleen B. Wallace,W,7-6,7,6,1,win,20230304_5jdl,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div1,Snead State,sneadstatecommunitycollege,jebbartle70pr,Jeb Bartle
+Mar 4,home,Andrew,L,9-7,9,7,2,win,20230304_q5iq,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div1,Snead State,sneadstatecommunitycollege,jebbartle70pr,Jeb Bartle
+Feb 25,home,Coastal Alabama - Monroeville,L,10-9,10,9,1,win,20230225_h3zo,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div1,Snead State,sneadstatecommunitycollege,jebbartle70pr,Jeb Bartle
+Feb 25,home,Lurleen B. Wallace,L,12-8,12,8,4,win,20230225_21q5,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div1,Snead State,sneadstatecommunitycollege,jebbartle70pr,Jeb Bartle
+Feb 24,home,Coastal Alabama - Monroeville,W,12-8,12,8,4,win,20230224_rrzy,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div1,Snead State,sneadstatecommunitycollege,jebbartle70pr,Jeb Bartle
+Feb 14,home,Itawamba,L,14-6,14,6,8,win,20230214_be1i,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div1,Snead State,sneadstatecommunitycollege,jebbartle70pr,Jeb Bartle
+Feb 14,home,Itawamba,W,12-8,12,8,4,win,20230214_td0l,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div1,Snead State,sneadstatecommunitycollege,jebbartle70pr,Jeb Bartle
+Feb 12,home,East Mississippi,W,16-4,16,4,12,win,20230212_ubft,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div1,Snead State,sneadstatecommunitycollege,jebbartle70pr,Jeb Bartle
+Feb 12,home,East Mississippi,L,11-9,11,9,2,win,20230212_iwo1,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div1,Snead State,sneadstatecommunitycollege,jebbartle70pr,Jeb Bartle
+Feb 9,home,East Mississippi,L,6-4,6,4,2,win,20230209_y1wg,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div1,Snead State,sneadstatecommunitycollege,jebbartle70pr,Jeb Bartle
+Feb 9,home,East Mississippi,L,11-9,11,9,2,win,20230209_sojf,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div1,Snead State,sneadstatecommunitycollege,jebbartle70pr,Jeb Bartle

@@ -1,15 +1,15 @@
 date,location,opponent,result,score,team_score,opp_score,game_score_diff,game_win_loss,game_id,TC,PO,A,E,FPCT,DP,SBA,RCS,RCS_PCT,PB,CI,season,njcaa_season,njcaa_division,team,team_id,player_id,player_name
 Jan 27,home,Central Florida,L,5-3,5,3,2,win,20230127_jjiu,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Florida SouthWestern State,floridasouthwesternstatecollege,joelgardneriohd,Joel Gardner
-Jan 27,home,Pasco-Hernando State,W,7-6,7,6,1,win,20230127_lcd6,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Florida SouthWestern State,floridasouthwesternstatecollege,joelgardneriohd,Joel Gardner
-Jan 28,home,Chipola,L,7-1,7,1,6,win,20230128_9oqn,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Florida SouthWestern State,floridasouthwesternstatecollege,joelgardneriohd,Joel Gardner
-Jan 28,home,Polk State,W,8-6,8,6,2,win,20230128_0cjs,0,0,0,1,0.1,,,,0.00,1,,2023,2022-23,div1,Florida SouthWestern State,floridasouthwesternstatecollege,joelgardneriohd,Joel Gardner
+Jan 28,home,Polk State,W,8-6,8,6,2,win,20230128_0cjs,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Florida SouthWestern State,floridasouthwesternstatecollege,joelgardneriohd,Joel Gardner
 Feb 3,home,Chattahoochee Valley,W,9-7,9,7,2,win,20230203_vdr5,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Florida SouthWestern State,floridasouthwesternstatecollege,joelgardneriohd,Joel Gardner
 Feb 4,home,Florence-Darlington Tech,L,4-2,4,2,2,win,20230204_s3kl,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Florida SouthWestern State,floridasouthwesternstatecollege,joelgardneriohd,Joel Gardner
+Feb 4,home,Meridian,L,7-0,7,0,7,win,20230204_zziw,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Florida SouthWestern State,floridasouthwesternstatecollege,joelgardneriohd,Joel Gardner
 Feb 5,home,Wabash Valley,W,16-1,16,1,15,win,20230205_rkxc,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Florida SouthWestern State,floridasouthwesternstatecollege,joelgardneriohd,Joel Gardner
 Feb 10,home,East Georgia State,L,5-3,5,3,2,win,20230210_gnm0,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Florida SouthWestern State,floridasouthwesternstatecollege,joelgardneriohd,Joel Gardner
 Feb 11,home,Florence-Darlington Tech,L,12-1,12,1,11,win,20230211_glsg,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Florida SouthWestern State,floridasouthwesternstatecollege,joelgardneriohd,Joel Gardner
-Feb 12,home,East Georgia State,W,18-9,18,9,9,win,20230212_5q4y,0,0,0,0,1.0,,,,0.00,,1,2023,2022-23,div1,Florida SouthWestern State,floridasouthwesternstatecollege,joelgardneriohd,Joel Gardner
+Feb 12,home,East Georgia State,W,18-9,18,9,9,win,20230212_5q4y,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Florida SouthWestern State,floridasouthwesternstatecollege,joelgardneriohd,Joel Gardner
 Feb 14,home,Inspiration Academy,W,11-0,11,0,11,win,20230214_m8ym,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Florida SouthWestern State,floridasouthwesternstatecollege,joelgardneriohd,Joel Gardner
+Feb 17,home,Pasco-Hernando State,W,7-6,7,6,1,win,20230217_igs5,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Florida SouthWestern State,floridasouthwesternstatecollege,joelgardneriohd,Joel Gardner
 Feb 18,home,Pasco-Hernando State,W,8-5,8,5,3,win,20230218_mhvz,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Florida SouthWestern State,floridasouthwesternstatecollege,joelgardneriohd,Joel Gardner
 Feb 18,home,Pasco-Hernando State,W,7-2,7,2,5,win,20230218_z76c,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Florida SouthWestern State,floridasouthwesternstatecollege,joelgardneriohd,Joel Gardner
 Feb 21,home,St. Petersburg,W,13-5,13,5,8,win,20230221_blur,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Florida SouthWestern State,floridasouthwesternstatecollege,joelgardneriohd,Joel Gardner
@@ -36,13 +36,16 @@ Mar 27,home,TNXL Academy,W,13-3,13,3,10,win,20230327_i3jp,0,0,0,0,0.0,,,,0.00,,,
 Mar 29,home,Indian River State,L,9-4,9,4,5,win,20230329_o1wo,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Florida SouthWestern State,floridasouthwesternstatecollege,joelgardneriohd,Joel Gardner
 Mar 31,home,Indian River State,W,9-4,9,4,5,win,20230331_9omq,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Florida SouthWestern State,floridasouthwesternstatecollege,joelgardneriohd,Joel Gardner
 Apr 1,home,Indian River State,W,11-10,11,10,1,win,20230401_0c2e,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Florida SouthWestern State,floridasouthwesternstatecollege,joelgardneriohd,Joel Gardner
-Apr 3,home,State College of Florida,L,5-2,5,2,3,win,20230403_fwgr,0,0,0,0,1.0,1,,,0.00,,1,2023,2022-23,div1,Florida SouthWestern State,floridasouthwesternstatecollege,joelgardneriohd,Joel Gardner
+Apr 3,home,State College of Florida,L,5-2,5,2,3,win,20230403_fwgr,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Florida SouthWestern State,floridasouthwesternstatecollege,joelgardneriohd,Joel Gardner
 Apr 5,home,Miami Dade,L,5-2,5,2,3,win,20230405_odbk,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Florida SouthWestern State,floridasouthwesternstatecollege,joelgardneriohd,Joel Gardner
 Apr 7,home,Miami Dade,L,7-4,7,4,3,win,20230407_iv71,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Florida SouthWestern State,floridasouthwesternstatecollege,joelgardneriohd,Joel Gardner
+Apr 8,home,Miami Dade,W,9-7,9,7,2,win,20230408_yuaq,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Florida SouthWestern State,floridasouthwesternstatecollege,joelgardneriohd,Joel Gardner
 Apr 14,home,Eastern Florida State,L,8-5,8,5,3,win,20230414_anhq,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Florida SouthWestern State,floridasouthwesternstatecollege,joelgardneriohd,Joel Gardner
 Apr 15,home,Eastern Florida State,L,3-2,3,2,1,win,20230415_tci3,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Florida SouthWestern State,floridasouthwesternstatecollege,joelgardneriohd,Joel Gardner
 Apr 17,home,Inspiration Academy,W,24-0,24,0,24,win,20230417_r2rl,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Florida SouthWestern State,floridasouthwesternstatecollege,joelgardneriohd,Joel Gardner
 Apr 19,home,Indian River State,L,5-4,5,4,1,win,20230419_8tui,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Florida SouthWestern State,floridasouthwesternstatecollege,joelgardneriohd,Joel Gardner
 Apr 21,home,Miami Dade,W,7-1,7,1,6,win,20230421_1vuy,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Florida SouthWestern State,floridasouthwesternstatecollege,joelgardneriohd,Joel Gardner
+Apr 22,home,Eastern Florida State,W,8-2,8,2,6,win,20230422_n72a,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Florida SouthWestern State,floridasouthwesternstatecollege,joelgardneriohd,Joel Gardner
+Apr 26,home,Eastern Florida State,L,7-6,7,6,1,win,20230426_apts,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Florida SouthWestern State,floridasouthwesternstatecollege,joelgardneriohd,Joel Gardner
 May 5,home,Central Florida,L,11-3,11,3,8,win,20230505_krj5,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Florida SouthWestern State,floridasouthwesternstatecollege,joelgardneriohd,Joel Gardner
 May 6,home,Central Florida,L,12-6,12,6,6,win,20230506_1zv8,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Florida SouthWestern State,floridasouthwesternstatecollege,joelgardneriohd,Joel Gardner

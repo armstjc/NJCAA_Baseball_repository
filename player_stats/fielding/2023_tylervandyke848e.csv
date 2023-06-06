@@ -1,16 +1,16 @@
 date,location,opponent,result,score,team_score,opp_score,game_score_diff,game_win_loss,game_id,TC,PO,A,E,FPCT,DP,SBA,RCS,RCS_PCT,PB,CI,season,njcaa_season,njcaa_division,team,team_id,player_id,player_name
-Jan 28,home,Hillsborough,W,5-1,5,1,4,win,20230128_3zia,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Seminole State (FL),seminolestatecollegeofflorida,tylervandyke848e,Tyler VanDyke
-Feb 1,home,St. Johns River State,W,3-2,3,2,1,win,20230201_qpz7,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Seminole State (FL),seminolestatecollegeofflorida,tylervandyke848e,Tyler VanDyke
-Feb 3,home,Indian River State,L,5-0,5,0,5,win,20230203_bb9i,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Seminole State (FL),seminolestatecollegeofflorida,tylervandyke848e,Tyler VanDyke
-Feb 10,home,St. Petersburg,W,11-7,11,7,4,win,20230210_n3jh,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Seminole State (FL),seminolestatecollegeofflorida,tylervandyke848e,Tyler VanDyke
-Feb 13,home,Lake-Sumter State,W,17-3,17,3,14,win,20230213_wgwi,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Seminole State (FL),seminolestatecollegeofflorida,tylervandyke848e,Tyler VanDyke
-Mar 1,home,Florida State Jacksonville,W,11-1,11,1,10,win,20230301_bc6h,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Seminole State (FL),seminolestatecollegeofflorida,tylervandyke848e,Tyler VanDyke
-Mar 3,home,State College of Florida,L,11-3,11,3,8,win,20230303_ha5a,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Seminole State (FL),seminolestatecollegeofflorida,tylervandyke848e,Tyler VanDyke
-Mar 20,home,Indian River State,L,9-4,9,4,5,win,20230320_msuc,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Seminole State (FL),seminolestatecollegeofflorida,tylervandyke848e,Tyler VanDyke
-Mar 27,home,Lake-Sumter State,W,5-4,5,4,1,win,20230327_1s3j,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Seminole State (FL),seminolestatecollegeofflorida,tylervandyke848e,Tyler VanDyke
-Apr 3,home,Lake-Sumter State,W,14-11,14,11,3,win,20230403_4ba9,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Seminole State (FL),seminolestatecollegeofflorida,tylervandyke848e,Tyler VanDyke
-Apr 15,home,Daytona State,W,11-6,11,6,5,win,20230415_kyv1,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Seminole State (FL),seminolestatecollegeofflorida,tylervandyke848e,Tyler VanDyke
-Apr 19,home,Santa Fe,L,7-5,7,5,2,win,20230419_9o00,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Seminole State (FL),seminolestatecollegeofflorida,tylervandyke848e,Tyler VanDyke
-Apr 21,home,Central Florida,L,16-8,16,8,8,win,20230421_kut5,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Seminole State (FL),seminolestatecollegeofflorida,tylervandyke848e,Tyler VanDyke
-Apr 22,home,Central Florida,L,6-3,6,3,3,win,20230422_sepn,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Seminole State (FL),seminolestatecollegeofflorida,tylervandyke848e,Tyler VanDyke
-Apr 26,home,Daytona State,L,15-6,15,6,9,win,20230426_q1bc,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Seminole State (FL),seminolestatecollegeofflorida,tylervandyke848e,Tyler VanDyke
+Jan 27,home,St. Petersburg,W,3-2,3,2,1,win,20230127_vgzz,1,0,0,0,4.0,4,1,0,0.00,1,7,2023,2022-23,div1,Seminole State (FL),seminolestatecollegeofflorida,tylervandyke848e,Tyler VanDyke
+Feb 3,home,Indian River State,L,5-0,5,0,5,win,20230203_bb9i,1,0,1,0,3.0,4,2,2,6.00,1,1,2023,2022-23,div1,Seminole State (FL),seminolestatecollegeofflorida,tylervandyke848e,Tyler VanDyke
+Feb 10,home,St. Petersburg,W,11-7,11,7,4,win,20230210_n3jh,1,0,0,0,7.1,6,3,3,3.68,0,9,2023,2022-23,div1,Seminole State (FL),seminolestatecollegeofflorida,tylervandyke848e,Tyler VanDyke
+Feb 17,home,Polk State,L,9-7,9,7,2,win,20230217_s0cj,1,0,0,0,6.0,10,5,4,6.00,1,7,2023,2022-23,div1,Seminole State (FL),seminolestatecollegeofflorida,tylervandyke848e,Tyler VanDyke
+Feb 24,home,State College of Florida,L,6-5,6,5,1,win,20230224_as2y,1,0,0,0,7.0,6,4,2,2.57,3,4,2023,2022-23,div1,Seminole State (FL),seminolestatecollegeofflorida,tylervandyke848e,Tyler VanDyke
+Mar 4,home,Florida SouthWestern State,W,5-4,5,4,1,win,20230304_k74z,1,1,0,0,6.1,8,4,3,4.26,1,6,2023,2022-23,div1,Seminole State (FL),seminolestatecollegeofflorida,tylervandyke848e,Tyler VanDyke
+Mar 11,home,Santa Fe,W,3-2,3,2,1,win,20230311_dbjt,1,0,0,0,6.0,4,2,2,3.00,3,4,2023,2022-23,div1,Seminole State (FL),seminolestatecollegeofflorida,tylervandyke848e,Tyler VanDyke
+Mar 19,home,Central Florida,L,12-4,12,4,8,win,20230319_a060,1,0,0,0,5.1,6,4,4,6.75,4,8,2023,2022-23,div1,Seminole State (FL),seminolestatecollegeofflorida,tylervandyke848e,Tyler VanDyke
+Mar 24,home,Daytona State,L,12-8,12,8,4,win,20230324_v075,1,0,0,0,4.0,3,3,3,6.75,4,6,2023,2022-23,div1,Seminole State (FL),seminolestatecollegeofflorida,tylervandyke848e,Tyler VanDyke
+Mar 29,home,Santa Fe,W,2-1,2,1,1,win,20230329_gdi4,1,1,0,0,9.0,5,1,1,1.00,3,8,2023,2022-23,div1,Seminole State (FL),seminolestatecollegeofflorida,tylervandyke848e,Tyler VanDyke
+Apr 5,home,Central Florida,L,11-10,11,10,1,win,20230405_rhjq,1,0,0,0,6.0,10,7,5,7.50,2,8,2023,2022-23,div1,Seminole State (FL),seminolestatecollegeofflorida,tylervandyke848e,Tyler VanDyke
+Apr 12,home,Daytona State,W,10-3,10,3,7,win,20230412_yn9c,1,1,0,0,6.0,6,3,3,4.50,2,11,2023,2022-23,div1,Seminole State (FL),seminolestatecollegeofflorida,tylervandyke848e,Tyler VanDyke
+Apr 19,home,Santa Fe,L,7-5,7,5,2,win,20230419_9o00,1,0,0,0,3.0,0,0,0,0.00,0,2,2023,2022-23,div1,Seminole State (FL),seminolestatecollegeofflorida,tylervandyke848e,Tyler VanDyke
+Apr 22,home,Central Florida,L,6-3,6,3,3,win,20230422_sepn,0,0,0,0,0.2,,,,0.00,1,2,2023,2022-23,div1,Seminole State (FL),seminolestatecollegeofflorida,tylervandyke848e,Tyler VanDyke
+Apr 24,home,Daytona State,L,11-1,11,1,10,win,20230424_664o,1,0,1,0,2.0,7,7,6,27.00,0,3,2023,2022-23,div1,Seminole State (FL),seminolestatecollegeofflorida,tylervandyke848e,Tyler VanDyke

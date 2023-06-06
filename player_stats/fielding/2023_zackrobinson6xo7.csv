@@ -1,24 +1,22 @@
 date,location,opponent,result,score,team_score,opp_score,game_score_diff,game_win_loss,game_id,TC,PO,A,E,FPCT,DP,SBA,RCS,RCS_PCT,PB,CI,season,njcaa_season,njcaa_division,team,team_id,player_id,player_name
-Jan 28,home,Ranger,L,18-2,18,2,16,win,20230128_ob63,0,0,0,0,0.2,3,4,2,27.00,1,1,2023,2022-23,div1,Dodge City,dodgecitycommunitycollege,zackrobinson6xo7,Zack Robinson
-Feb 5,home,Blinn,L,8-2,8,2,6,win,20230205_dxco,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Dodge City,dodgecitycommunitycollege,zackrobinson6xo7,Zack Robinson
-Feb 7,home,Southwest Mississippi,L,1-0,1,0,1,win,20230207_me0s,0,0,0,0,0.2,,,,0.00,,,2023,2022-23,div1,Dodge City,dodgecitycommunitycollege,zackrobinson6xo7,Zack Robinson
-Feb 13,home,East Central (MS),W,10-6,10,6,4,win,20230213_ygbh,0,0,0,0,1.0,,,,0.00,,,2023,2022-23,div1,Dodge City,dodgecitycommunitycollege,zackrobinson6xo7,Zack Robinson
-Feb 19,home,St. Louis,W,6-5,6,5,1,win,20230219_0had,0,1,0,0,1.1,2,2,2,13.50,,1,2023,2022-23,div1,Dodge City,dodgecitycommunitycollege,zackrobinson6xo7,Zack Robinson
-Feb 24,home,Illinois Central,L,8-1,8,1,7,win,20230224_m2py,0,0,0,0,1.1,1,2,,0.00,1,1,2023,2022-23,div1,Dodge City,dodgecitycommunitycollege,zackrobinson6xo7,Zack Robinson
-Feb 26,home,Jones,L,10-7,10,7,3,win,20230226_cggg,0,0,0,0,1.2,2,1,1,5.40,0,0,2023,2022-23,div1,Dodge City,dodgecitycommunitycollege,zackrobinson6xo7,Zack Robinson
-Mar 5,home,Pearl River,L,2-0,2,0,2,win,20230305_ydsk,0,0,0,0,1.0,1,0,0,0.00,0,2,2023,2022-23,div1,Dodge City,dodgecitycommunitycollege,zackrobinson6xo7,Zack Robinson
-Mar 11,home,Triton,W,7-3,7,3,4,win,20230311_cur6,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Dodge City,dodgecitycommunitycollege,zackrobinson6xo7,Zack Robinson
-Mar 11,home,Triton,W,6-4,6,4,2,win,20230311_upq7,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Dodge City,dodgecitycommunitycollege,zackrobinson6xo7,Zack Robinson
-Mar 13,home,Triton,W,16-8,16,8,8,win,20230313_c5yp,0,1,0,0,0.2,1,2,2,27.00,3,1,2023,2022-23,div1,Dodge City,dodgecitycommunitycollege,zackrobinson6xo7,Zack Robinson
-Mar 13,home,Triton,L,9-8,9,8,1,win,20230313_tc1o,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Dodge City,dodgecitycommunitycollege,zackrobinson6xo7,Zack Robinson
-Mar 18,home,East Central (MS),L,8-7,8,7,1,win,20230318_047t,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Dodge City,dodgecitycommunitycollege,zackrobinson6xo7,Zack Robinson
-Mar 20,home,Louisiana State University Alexandria,L,10-5,10,5,5,win,20230320_h36b,0,0,0,0,1.2,1,,,0.00,1,2,2023,2022-23,div1,Dodge City,dodgecitycommunitycollege,zackrobinson6xo7,Zack Robinson
-Mar 25,home,Bossier Parish,L,9-3,9,3,6,win,20230325_ws5g,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Dodge City,dodgecitycommunitycollege,zackrobinson6xo7,Zack Robinson
-Mar 25,home,Bossier Parish,L,16-5,16,5,11,win,20230325_kimx,0,0,0,0,0.2,1,1,1,13.50,3,,2023,2022-23,div1,Dodge City,dodgecitycommunitycollege,zackrobinson6xo7,Zack Robinson
-Apr 1,home,Delgado,L,10-0,10,0,10,win,20230401_wobc,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Dodge City,dodgecitycommunitycollege,zackrobinson6xo7,Zack Robinson
-Apr 2,home,Delgado,L,20-12,20,12,8,win,20230402_8xr1,0,0,0,0,2.1,1,1,1,3.86,3,3,2023,2022-23,div1,Dodge City,dodgecitycommunitycollege,zackrobinson6xo7,Zack Robinson
-Apr 8,home,Nunez,L,1-0,1,0,1,win,20230408_t7vo,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Dodge City,dodgecitycommunitycollege,zackrobinson6xo7,Zack Robinson
-Apr 17,home,Louisiana Christian College,W,6-1,6,1,5,win,20230417_8auc,0,0,0,0,1.0,1,1,1,9.00,2,1,2023,2022-23,div1,Dodge City,dodgecitycommunitycollege,zackrobinson6xo7,Zack Robinson
-Apr 23,home,Delgado,L,5-4,5,4,1,win,20230423_h4m6,0,0,0,0,1.0,1,1,1,9.00,,,2023,2022-23,div1,Dodge City,dodgecitycommunitycollege,zackrobinson6xo7,Zack Robinson
-Apr 28,home,Nunez,L,12-5,12,5,7,win,20230428_e4um,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Dodge City,dodgecitycommunitycollege,zackrobinson6xo7,Zack Robinson
-May 5,home,Delgado,L,8-7,8,7,1,win,20230505_p5g5,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Dodge City,dodgecitycommunitycollege,zackrobinson6xo7,Zack Robinson
+Feb 4,home,Ranger,L,11-10,11,10,1,win,20230204_1tfw,1,0,0,0,2.0,4,5,5,22.50,2,1,2023,2022-23,div1,Dodge City,dodgecitycommunitycollege,zackrobinson6xo7,Zack Robinson
+Feb 10,home,New Mexico,L,9-5,9,5,4,win,20230210_9pwj,1,0,0,0,0.2,0,2,1,13.50,3,0,2023,2022-23,div1,Dodge City,dodgecitycommunitycollege,zackrobinson6xo7,Zack Robinson
+Feb 25,home,Iowa Western,L,9-4,9,4,5,win,20230225_q0zh,0,0,0,0,2.0,5,3,3,13.50,1,1,2023,2022-23,div1,Dodge City,dodgecitycommunitycollege,zackrobinson6xo7,Zack Robinson
+Feb 26,home,Iowa Western,L,6-3,6,3,3,win,20230226_g3en,0,0,0,0,1.0,2,1,1,9.00,,1,2023,2022-23,div1,Dodge City,dodgecitycommunitycollege,zackrobinson6xo7,Zack Robinson
+Mar 4,home,North Central Texas,W,8-7,8,7,1,win,20230304_6aec,0,0,0,0,1.1,4,5,2,13.50,2,,2023,2022-23,div1,Dodge City,dodgecitycommunitycollege,zackrobinson6xo7,Zack Robinson
+Mar 9,home,Hutchinson,W,13-7,13,7,6,win,20230309_5z7l,0,0,0,0,0.1,3,1,1,27.00,,,2023,2022-23,div1,Dodge City,dodgecitycommunitycollege,zackrobinson6xo7,Zack Robinson
+Mar 15,home,Garden City,W,13-2,13,2,11,win,20230315_6dh9,0,0,0,0,1.0,1,,,0.00,,,2023,2022-23,div1,Dodge City,dodgecitycommunitycollege,zackrobinson6xo7,Zack Robinson
+Mar 18,home,Garden City,W,12-5,12,5,7,win,20230318_nkcl,0,0,0,0,1.0,1,0,0,0.00,1,3,2023,2022-23,div1,Dodge City,dodgecitycommunitycollege,zackrobinson6xo7,Zack Robinson
+Mar 25,home,Barton,L,9-2,9,2,7,win,20230325_hvlf,0,0,0,0,4.1,6,2,2,4.15,,5,2023,2022-23,div1,Dodge City,dodgecitycommunitycollege,zackrobinson6xo7,Zack Robinson
+Apr 1,home,Colby,L,6-3,6,3,3,win,20230401_h64l,0,0,0,0,0.2,1,,,0.00,,1,2023,2022-23,div1,Dodge City,dodgecitycommunitycollege,zackrobinson6xo7,Zack Robinson
+Apr 3,home,Northwestern Oklahoma State JV,W,7-1,7,1,6,win,20230403_z6aa,0,0,0,0,1.0,,,,0.00,,1,2023,2022-23,div1,Dodge City,dodgecitycommunitycollege,zackrobinson6xo7,Zack Robinson
+Apr 5,home,Otero,L,6-5,6,5,1,win,20230405_pb2i,0,0,1,0,1.1,3,3,2,13.50,2,2,2023,2022-23,div1,Dodge City,dodgecitycommunitycollege,zackrobinson6xo7,Zack Robinson
+Apr 20,home,Seward County,L,5-2,5,2,3,win,20230420_lsde,0,0,0,0,1.0,2,,,0.00,,,2023,2022-23,div1,Dodge City,dodgecitycommunitycollege,zackrobinson6xo7,Zack Robinson
+Apr 20,home,Seward County,L,14-11,14,11,3,win,20230420_ayds,0,0,0,0,1.1,2,1,1,6.75,1,1,2023,2022-23,div1,Dodge City,dodgecitycommunitycollege,zackrobinson6xo7,Zack Robinson
+Apr 27,home,Butler,L,4-2,4,2,2,win,20230427_4rq3,0,0,0,0,0.2,1,,,0.00,,1,2023,2022-23,div1,Dodge City,dodgecitycommunitycollege,zackrobinson6xo7,Zack Robinson
+Apr 27,home,Butler,L,5-2,5,2,3,win,20230427_ed4n,0,0,0,0,1.2,,,,0.00,,1,2023,2022-23,div1,Dodge City,dodgecitycommunitycollege,zackrobinson6xo7,Zack Robinson
+Apr 29,home,Butler,L,6-3,6,3,3,win,20230429_xehf,0,0,0,0,0.2,,,,0.00,,,2023,2022-23,div1,Dodge City,dodgecitycommunitycollege,zackrobinson6xo7,Zack Robinson
+May 4,home,Cloud County,L,12-6,12,6,6,win,20230504_rvdc,0,0,0,0,2.0,4,2,2,9.00,,,2023,2022-23,div1,Dodge City,dodgecitycommunitycollege,zackrobinson6xo7,Zack Robinson
+May 6,home,Cloud County,L,9-1,9,1,8,win,20230506_0s7x,0,0,0,0,0.2,1,,,0.00,,,2023,2022-23,div1,Dodge City,dodgecitycommunitycollege,zackrobinson6xo7,Zack Robinson
+May 11,home,Kansas City Kansas,W,10-5,10,5,5,win,20230511_2fnf,0,0,0,0,0.2,1,,,0.00,,,2023,2022-23,div1,Dodge City,dodgecitycommunitycollege,zackrobinson6xo7,Zack Robinson
+May 12,home,Kansas City Kansas,L,7-4,7,4,3,win,20230512_7vap,0,0,0,0,0.2,1,,,0.00,,,2023,2022-23,div1,Dodge City,dodgecitycommunitycollege,zackrobinson6xo7,Zack Robinson
