@@ -1,10 +1,15 @@
 date,location,opponent,result,score,team_score,opp_score,game_score_diff,game_win_loss,game_id,TC,PO,A,E,FPCT,DP,SBA,RCS,RCS_PCT,PB,CI,season,njcaa_season,njcaa_division,team,team_id,player_id,player_name
-Feb 12,home,Grayson,W,9-0,9,0,9,win,20230212_alow,0,0,0,0,1.2,1,,,0.00,4,1,2023,2022-23,div1,Miami Dade,miamidadecollege,herickhernandezx7l7,Herick Hernandez
-Feb 25,home,Wayland Baptist University,W,9-6,9,6,3,win,20230225_5k1y,0,0,0,0,2.0,4,3,3,13.50,,1,2023,2022-23,div1,Miami Dade,miamidadecollege,herickhernandezx7l7,Herick Hernandez
-Mar 11,home,Midland,L,21-9,21,9,12,win,20230311_8604,0,0,0,0,2.1,2,2,2,7.71,2,3,2023,2022-23,div1,Miami Dade,miamidadecollege,herickhernandezx7l7,Herick Hernandez
-Apr 7,home,Clarendon,L,13-11,13,11,2,win,20230407_0s6m,0,0,0,0,0.2,,,,0.00,,,2023,2022-23,div1,Miami Dade,miamidadecollege,herickhernandezx7l7,Herick Hernandez
-Apr 8,home,Clarendon,L,12-7,12,7,5,win,20230408_zpzj,0,0,0,0,1.0,1,,,0.00,,,2023,2022-23,div1,Miami Dade,miamidadecollege,herickhernandezx7l7,Herick Hernandez
-Apr 18,home,Wayland Baptist University,W,15-2,15,2,13,win,20230418_jn0i,0,0,0,0,1.0,4,2,2,18.00,1,1,2023,2022-23,div1,Miami Dade,miamidadecollege,herickhernandezx7l7,Herick Hernandez
-Apr 22,home,El Paso,L,11-9,11,9,2,win,20230422_z0mx,0,0,0,0,0.2,2,2,2,27.00,,,2023,2022-23,div1,Miami Dade,miamidadecollege,herickhernandezx7l7,Herick Hernandez
-Apr 30,home,New Mexico,W,9-7,9,7,2,win,20230430_i06s,0,0,0,0,0.1,2,,,0.00,,,2023,2022-23,div1,Miami Dade,miamidadecollege,herickhernandezx7l7,Herick Hernandez
-May 5,home,New Mexico Military,L,8-4,8,4,4,win,20230505_7psm,0,0,0,0,1.0,3,3,3,27.00,1,,2023,2022-23,div1,Miami Dade,miamidadecollege,herickhernandezx7l7,Herick Hernandez
+Jan 28,home,State College of Florida,L,7-6,7,6,1,win,20230128_r3ms,1,0,0,0,4.2,1,2,0,0.00,3,3,2023,2022-23,div1,Miami Dade,miamidadecollege,herickhernandezx7l7,Herick Hernandez
+Feb 3,home,Andrew,L,5-0,5,0,5,win,20230203_v5ij,1,0,1,0,4.1,4,2,2,4.15,2,8,2023,2022-23,div1,Miami Dade,miamidadecollege,herickhernandezx7l7,Herick Hernandez
+Feb 10,home,St. Johns River State,L,7-2,7,2,5,win,20230210_yzf2,1,0,1,0,4.0,4,5,5,11.25,4,6,2023,2022-23,div1,Miami Dade,miamidadecollege,herickhernandezx7l7,Herick Hernandez
+Feb 17,home,Chipola,W,13-3,13,3,10,win,20230217_qly2,1,1,0,0,3.2,3,3,3,7.36,2,9,2023,2022-23,div1,Miami Dade,miamidadecollege,herickhernandezx7l7,Herick Hernandez
+Feb 24,home,Florida Palms,W,12-5,12,5,7,win,20230224_bghf,1,1,0,0,6.0,7,3,3,4.50,2,8,2023,2022-23,div1,Miami Dade,miamidadecollege,herickhernandezx7l7,Herick Hernandez
+Mar 10,home,Eastern Florida State,W,8-1,8,1,7,win,20230310_2lnv,1,1,0,0,7.0,5,1,1,1.29,1,8,2023,2022-23,div1,Miami Dade,miamidadecollege,herickhernandezx7l7,Herick Hernandez
+Mar 17,home,Florida SouthWestern State,W,8-3,8,3,5,win,20230317_5paw,1,1,0,0,7.0,6,1,1,1.29,1,4,2023,2022-23,div1,Miami Dade,miamidadecollege,herickhernandezx7l7,Herick Hernandez
+Mar 24,home,Indian River State,W,8-2,8,2,6,win,20230324_8vz0,1,1,0,0,7.0,3,2,1,1.29,2,8,2023,2022-23,div1,Miami Dade,miamidadecollege,herickhernandezx7l7,Herick Hernandez
+Mar 31,home,Eastern Florida State,W,12-1,12,1,11,win,20230331_aed8,1,1,0,0,6.0,2,1,0,0.00,2,7,2023,2022-23,div1,Miami Dade,miamidadecollege,herickhernandezx7l7,Herick Hernandez
+Apr 7,home,Florida SouthWestern State,W,7-4,7,4,3,win,20230407_iv71,1,0,0,0,5.2,7,4,4,6.35,2,5,2023,2022-23,div1,Miami Dade,miamidadecollege,herickhernandezx7l7,Herick Hernandez
+Apr 14,home,Indian River State,W,9-3,9,3,6,win,20230414_c098,1,1,0,0,6.2,4,2,1,1.35,3,5,2023,2022-23,div1,Miami Dade,miamidadecollege,herickhernandezx7l7,Herick Hernandez
+Apr 21,home,Florida SouthWestern State,L,7-1,7,1,6,win,20230421_1vuy,1,0,1,0,5.1,6,4,0,0.00,5,5,2023,2022-23,div1,Miami Dade,miamidadecollege,herickhernandezx7l7,Herick Hernandez
+May 5,home,Pensacola State,W,11-3,11,3,8,win,20230505_91xr,1,1,0,0,6.0,4,1,1,1.50,3,9,2023,2022-23,div1,Miami Dade,miamidadecollege,herickhernandezx7l7,Herick Hernandez
+May 12,home,State College of Florida,W,4-3,4,3,1,win,20230512_i9rw,1,0,0,0,5.1,6,3,3,5.06,0,5,2023,2022-23,div1,Miami Dade,miamidadecollege,herickhernandezx7l7,Herick Hernandez

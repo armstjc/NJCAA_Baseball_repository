@@ -1,7 +1,15 @@
 date,location,opponent,result,score,team_score,opp_score,game_score_diff,game_win_loss,game_id,AB,R,H,2B,3B,HR,RBI,BB,K,SB,CS,HBP,SF,SH,TB,XBH,HDP,GO,FO,GO/FO,PA,season,njcaa_season,njcaa_division,team,team_id,player_id,player_name
-Mar 4,home,Crowder,W,12-5,12,5,7,win,20230304_df2g,0,0,0,,,,0,,,,,,,,0,0,,,,,0,2023,2022-23,div2,Chesapeake,chesapeakecollege,michaelkoernergi8s,Michael Koerner
-Apr 2,home,Des Moines Area,W,5-4,5,4,1,win,20230402_5g3v,0,0,0,,,,0,,,,,,,,0,0,,,,,0,2023,2022-23,div2,Chesapeake,chesapeakecollege,michaelkoernergi8s,Michael Koerner
-Apr 7,home,Marshalltown,W,19-8,19,8,11,win,20230407_f8ay,0,0,0,,,,0,,,,,,,,0,0,,,,,0,2023,2022-23,div2,Chesapeake,chesapeakecollege,michaelkoernergi8s,Michael Koerner
-Apr 29,home,Iowa Central,W,15-7,15,7,8,win,20230429_osjx,0,0,0,,,,0,,,,,,,,0,0,,,,,0,2023,2022-23,div2,Chesapeake,chesapeakecollege,michaelkoernergi8s,Michael Koerner
-May 3,home,Indian Hills,W,9-1,9,1,8,win,20230503_8owd,0,0,0,,,,0,,,,,,,,0,0,,,,,0,2023,2022-23,div2,Chesapeake,chesapeakecollege,michaelkoernergi8s,Michael Koerner
-May 6,home,Iowa Lakes,W,3-2,3,2,1,win,20230506_6cdf,0,0,0,,,,0,,,,,,,,0,0,,,,,0,2023,2022-23,div2,Chesapeake,chesapeakecollege,michaelkoernergi8s,Michael Koerner
+Mar 4,home,Lake County,W,9-5,9,5,4,win,20230304_azx2,4,0,0,,,,0,,1,,,,,,0,0,,1,1,1.00,4,2023,2022-23,div2,Chesapeake,chesapeakecollege,michaelkoernergi8s,Michael Koerner
+Mar 5,home,Penn State New Kensington,W,9-3,9,3,6,win,20230305_8gcr,2,2,2,1,,,0,2,,,,,,,3,1,,,,,4,2023,2022-23,div2,Chesapeake,chesapeakecollege,michaelkoernergi8s,Michael Koerner
+Mar 11,home,Cecil,W,14-6,14,6,8,win,20230311_1rt4,4,4,3,1,,,2,,1,,,1,,,4,1,,,,,5,2023,2022-23,div2,Chesapeake,chesapeakecollege,michaelkoernergi8s,Michael Koerner
+Mar 12,home,Raritan Valley,W,8-4,8,4,4,win,20230312_we1t,3,2,0,,,,0,,,,,1,,,0,0,,1,1,1.00,4,2023,2022-23,div2,Chesapeake,chesapeakecollege,michaelkoernergi8s,Michael Koerner
+Mar 20,home,CCBC Catonsville,W,5-4,5,4,1,win,20230320_mvbe,1,1,0,,,,1,,,,,2,1,,0,0,,1,1,1.00,4,2023,2022-23,div2,Chesapeake,chesapeakecollege,michaelkoernergi8s,Michael Koerner
+Mar 26,home,Camden County,W,5-4,5,4,1,win,20230326_zyo1,4,0,0,,,,0,,,,,,,,0,0,1,2,1,2.00,4,2023,2022-23,div2,Chesapeake,chesapeakecollege,michaelkoernergi8s,Michael Koerner
+Mar 26,home,Camden County,W,13-3,13,3,10,win,20230326_uz4o,2,2,1,1,,,1,1,,,,,1,,2,1,,1,1,1.00,4,2023,2022-23,div2,Chesapeake,chesapeakecollege,michaelkoernergi8s,Michael Koerner
+Apr 8,home,CCBC Dundalk,W,8-7,8,7,1,win,20230408_kfwn,4,1,2,1,,,2,,,,,,1,,3,1,,2,1,2.00,5,2023,2022-23,div2,Chesapeake,chesapeakecollege,michaelkoernergi8s,Michael Koerner
+Apr 11,home,CCBC Essex,W,10-6,10,6,4,win,20230411_gvpx,5,2,2,2,,,2,,,,,,,,4,2,,,1,,5,2023,2022-23,div2,Chesapeake,chesapeakecollege,michaelkoernergi8s,Michael Koerner
+Apr 16,home,Anne Arundel,W,7-2,7,2,5,win,20230416_ndck,4,0,1,1,,,0,,,,,,,,2,1,1,,2,,4,2023,2022-23,div2,Chesapeake,chesapeakecollege,michaelkoernergi8s,Michael Koerner
+Apr 23,home,Prince George's,W,14-9,14,9,5,win,20230423_bag7,3,3,1,,,,2,2,,,,,,,1,0,,1,,,5,2023,2022-23,div2,Chesapeake,chesapeakecollege,michaelkoernergi8s,Michael Koerner
+May 2,home,Montgomery,W,7-6,7,6,1,win,20230502_ckfs,4,0,1,,,,0,,1,,,1,,,1,0,,,2,,5,2023,2022-23,div2,Chesapeake,chesapeakecollege,michaelkoernergi8s,Michael Koerner
+May 6,home,Garrett,W,12-6,12,6,6,win,20230506_kpq3,4,1,3,,,,3,,,,,,1,,3,0,,,,,5,2023,2022-23,div2,Chesapeake,chesapeakecollege,michaelkoernergi8s,Michael Koerner
+May 6,home,Garrett,W,9-2,9,2,7,win,20230506_0qbd,3,0,1,,,,0,1,,,,,,,1,0,,,2,,4,2023,2022-23,div2,Chesapeake,chesapeakecollege,michaelkoernergi8s,Michael Koerner

@@ -1,21 +1,28 @@
 date,location,opponent,result,score,team_score,opp_score,game_score_diff,game_win_loss,game_id,TC,PO,A,E,FPCT,DP,SBA,RCS,RCS_PCT,PB,CI,season,njcaa_season,njcaa_division,team,team_id,player_id,player_name
-Mar 26,home,Finger Lakes,L,16-2,16,2,14,win,20230326_b0hg,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div3,SUNY Broome,sunybroomecommunitycollege,anthonybensoneuts,Anthony Benson
 Mar 26,home,Finger Lakes,L,16-6,16,6,10,win,20230326_gamj,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div3,SUNY Broome,sunybroomecommunitycollege,anthonybensoneuts,Anthony Benson
-Mar 27,home,Finger Lakes,L,24-2,24,2,22,win,20230327_l0oa,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div3,SUNY Broome,sunybroomecommunitycollege,anthonybensoneuts,Anthony Benson
-Apr 2,home,Hudson Valley,L,19-1,19,1,18,win,20230402_r36z,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div3,SUNY Broome,sunybroomecommunitycollege,anthonybensoneuts,Anthony Benson
+Mar 27,home,Finger Lakes,L,24-2,24,2,22,win,20230327_l0oa,0,0,0,0,1.0,3,2,2,18.00,1,,2023,2022-23,div3,SUNY Broome,sunybroomecommunitycollege,anthonybensoneuts,Anthony Benson
+Apr 2,home,Hudson Valley,L,13-3,13,3,10,win,20230402_p9ug,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div3,SUNY Broome,sunybroomecommunitycollege,anthonybensoneuts,Anthony Benson
+Apr 3,home,Herkimer,L,12-1,12,1,11,win,20230403_bnyk,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div3,SUNY Broome,sunybroomecommunitycollege,anthonybensoneuts,Anthony Benson
+Apr 8,home,Jefferson (NY),L,9-0,9,0,9,win,20230408_kp7z,0,0,0,0,1.0,3,5,2,18.00,2,,2023,2022-23,div3,SUNY Broome,sunybroomecommunitycollege,anthonybensoneuts,Anthony Benson
+Apr 8,home,Jefferson (NY),L,9-2,9,2,7,win,20230408_9z2c,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div3,SUNY Broome,sunybroomecommunitycollege,anthonybensoneuts,Anthony Benson
 Apr 13,home,Jefferson (NY),L,4-1,4,1,3,win,20230413_2kol,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div3,SUNY Broome,sunybroomecommunitycollege,anthonybensoneuts,Anthony Benson
+Apr 13,home,Jefferson (NY),L,23-1,23,1,22,win,20230413_gflc,0,0,0,0,1.0,4,6,1,9.00,,2,2023,2022-23,div3,SUNY Broome,sunybroomecommunitycollege,anthonybensoneuts,Anthony Benson
 Apr 15,home,Cayuga,W,9-8,9,8,1,win,20230415_fw6g,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div3,SUNY Broome,sunybroomecommunitycollege,anthonybensoneuts,Anthony Benson
-Apr 15,home,Cayuga,L,9-7,9,7,2,win,20230415_uoe1,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div3,SUNY Broome,sunybroomecommunitycollege,anthonybensoneuts,Anthony Benson
-Apr 16,home,Cayuga,L,15-3,15,3,12,win,20230416_nkiv,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div3,SUNY Broome,sunybroomecommunitycollege,anthonybensoneuts,Anthony Benson
+Apr 16,home,Cayuga,L,15-3,15,3,12,win,20230416_nkiv,1,0,0,0,4.0,16,15,14,31.50,5,1,2023,2022-23,div3,SUNY Broome,sunybroomecommunitycollege,anthonybensoneuts,Anthony Benson
 Apr 16,home,Cayuga,L,13-2,13,2,11,win,20230416_p72u,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div3,SUNY Broome,sunybroomecommunitycollege,anthonybensoneuts,Anthony Benson
 Apr 20,home,Mohawk Valley,L,15-4,15,4,11,win,20230420_7ry8,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div3,SUNY Broome,sunybroomecommunitycollege,anthonybensoneuts,Anthony Benson
+Apr 20,home,Mohawk Valley,L,5-2,5,2,3,win,20230420_lym6,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div3,SUNY Broome,sunybroomecommunitycollege,anthonybensoneuts,Anthony Benson
+Apr 22,home,Mohawk Valley,L,7-6,7,6,1,win,20230422_hd3t,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div3,SUNY Broome,sunybroomecommunitycollege,anthonybensoneuts,Anthony Benson
+Apr 22,home,Mohawk Valley,L,5-4,5,4,1,win,20230422_mrhm,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div3,SUNY Broome,sunybroomecommunitycollege,anthonybensoneuts,Anthony Benson
+Apr 25,home,Columbia-Greene,W,9-8,9,8,1,win,20230425_p9u4,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div3,SUNY Broome,sunybroomecommunitycollege,anthonybensoneuts,Anthony Benson
 Apr 25,home,Columbia-Greene,W,11-7,11,7,4,win,20230425_cme0,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div3,SUNY Broome,sunybroomecommunitycollege,anthonybensoneuts,Anthony Benson
-Apr 27,home,Columbia-Greene,L,4-2,4,2,2,win,20230427_2p92,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div3,SUNY Broome,sunybroomecommunitycollege,anthonybensoneuts,Anthony Benson
+Apr 27,home,Columbia-Greene,L,5-3,5,3,2,win,20230427_2tgr,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div3,SUNY Broome,sunybroomecommunitycollege,anthonybensoneuts,Anthony Benson
+Apr 27,home,Columbia-Greene,L,4-2,4,2,2,win,20230427_2p92,1,0,0,0,4.0,2,0,0,0.00,4,2,2023,2022-23,div3,SUNY Broome,sunybroomecommunitycollege,anthonybensoneuts,Anthony Benson
 May 2,home,Corning,L,9-4,9,4,5,win,20230502_bku5,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div3,SUNY Broome,sunybroomecommunitycollege,anthonybensoneuts,Anthony Benson
 May 2,home,Corning,W,7-3,7,3,4,win,20230502_lmfy,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div3,SUNY Broome,sunybroomecommunitycollege,anthonybensoneuts,Anthony Benson
-May 4,home,Onondaga,L,8-2,8,2,6,win,20230504_onul,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div3,SUNY Broome,sunybroomecommunitycollege,anthonybensoneuts,Anthony Benson
+May 4,home,Onondaga,L,3-0,3,0,3,win,20230504_s8xe,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div3,SUNY Broome,sunybroomecommunitycollege,anthonybensoneuts,Anthony Benson
+May 4,home,Onondaga,L,8-2,8,2,6,win,20230504_onul,1,0,0,0,6.0,8,8,2,3.00,1,1,2023,2022-23,div3,SUNY Broome,sunybroomecommunitycollege,anthonybensoneuts,Anthony Benson
 May 6,home,SUNY Adirondack,L,6-0,6,0,6,win,20230506_6o6u,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div3,SUNY Broome,sunybroomecommunitycollege,anthonybensoneuts,Anthony Benson
 May 6,home,SUNY Adirondack,L,6-5,6,5,1,win,20230506_3v5r,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div3,SUNY Broome,sunybroomecommunitycollege,anthonybensoneuts,Anthony Benson
+May 7,home,SUNY Adirondack,L,12-0,12,0,12,win,20230507_cygl,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div3,SUNY Broome,sunybroomecommunitycollege,anthonybensoneuts,Anthony Benson
 May 7,home,SUNY Adirondack,L,20-1,20,1,19,win,20230507_dtc3,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div3,SUNY Broome,sunybroomecommunitycollege,anthonybensoneuts,Anthony Benson
-May 10,home,Tompkins Cortland,L,18-4,18,4,14,win,20230510_r5e6,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div3,SUNY Broome,sunybroomecommunitycollege,anthonybensoneuts,Anthony Benson
-May 10,home,Tompkins Cortland,W,4-3,4,3,1,win,20230510_04e9,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div3,SUNY Broome,sunybroomecommunitycollege,anthonybensoneuts,Anthony Benson

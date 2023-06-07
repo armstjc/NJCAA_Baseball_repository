@@ -1,10 +1,29 @@
 date,location,opponent,result,score,team_score,opp_score,game_score_diff,game_win_loss,game_id,TC,PO,A,E,FPCT,DP,SBA,RCS,RCS_PCT,PB,CI,season,njcaa_season,njcaa_division,team,team_id,player_id,player_name
-Feb 12,home,Grayson,W,9-0,9,0,9,win,20230212_alow,0,0,0,0,1.2,1,,,0.00,4,1,2023,2022-23,div1,Miami Dade,miamidadecollege,victordavilauoy8,Victor Davila
-Feb 25,home,Wayland Baptist University,W,9-6,9,6,3,win,20230225_5k1y,0,0,0,0,2.0,4,3,3,13.50,,1,2023,2022-23,div1,Miami Dade,miamidadecollege,victordavilauoy8,Victor Davila
-Mar 11,home,Midland,L,21-9,21,9,12,win,20230311_8604,0,0,0,0,2.1,2,2,2,7.71,2,3,2023,2022-23,div1,Miami Dade,miamidadecollege,victordavilauoy8,Victor Davila
-Apr 7,home,Clarendon,L,13-11,13,11,2,win,20230407_0s6m,0,0,0,0,0.2,,,,0.00,,,2023,2022-23,div1,Miami Dade,miamidadecollege,victordavilauoy8,Victor Davila
-Apr 8,home,Clarendon,L,12-7,12,7,5,win,20230408_zpzj,0,0,0,0,1.0,1,,,0.00,,,2023,2022-23,div1,Miami Dade,miamidadecollege,victordavilauoy8,Victor Davila
-Apr 18,home,Wayland Baptist University,W,15-2,15,2,13,win,20230418_jn0i,0,0,0,0,1.0,4,2,2,18.00,1,1,2023,2022-23,div1,Miami Dade,miamidadecollege,victordavilauoy8,Victor Davila
-Apr 22,home,El Paso,L,11-9,11,9,2,win,20230422_z0mx,0,0,0,0,0.2,2,2,2,27.00,,,2023,2022-23,div1,Miami Dade,miamidadecollege,victordavilauoy8,Victor Davila
-Apr 30,home,New Mexico,W,9-7,9,7,2,win,20230430_i06s,0,0,0,0,0.1,2,,,0.00,,,2023,2022-23,div1,Miami Dade,miamidadecollege,victordavilauoy8,Victor Davila
-May 5,home,New Mexico Military,L,8-4,8,4,4,win,20230505_7psm,0,0,0,0,1.0,3,3,3,27.00,1,,2023,2022-23,div1,Miami Dade,miamidadecollege,victordavilauoy8,Victor Davila
+Jan 29,home,Gulf Coast State,W,13-6,13,6,7,win,20230129_iytq,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Miami Dade,miamidadecollege,victordavilauoy8,Victor Davila
+Jan 31,home,Elite Squad Academy,W,7-2,7,2,5,win,20230131_khct,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Miami Dade,miamidadecollege,victordavilauoy8,Victor Davila
+Feb 4,home,Northwest Florida State,W,5-4,5,4,1,win,20230204_hk46,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Miami Dade,miamidadecollege,victordavilauoy8,Victor Davila
+Feb 10,home,St. Johns River State,L,7-2,7,2,5,win,20230210_yzf2,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Miami Dade,miamidadecollege,victordavilauoy8,Victor Davila
+Feb 11,home,Florence-Darlington Tech,L,4-0,4,0,4,win,20230211_704v,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Miami Dade,miamidadecollege,victordavilauoy8,Victor Davila
+Feb 17,home,East Mississippi,W,14-7,14,7,7,win,20230217_036f,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Miami Dade,miamidadecollege,victordavilauoy8,Victor Davila
+Feb 18,home,Columbia State,L,11-3,11,3,8,win,20230218_t0l6,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Miami Dade,miamidadecollege,victordavilauoy8,Victor Davila
+Feb 21,home,Atlantis University,W,5-2,5,2,3,win,20230221_rla1,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Miami Dade,miamidadecollege,victordavilauoy8,Victor Davila
+Feb 24,home,Florida Palms,W,12-5,12,5,7,win,20230224_bghf,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Miami Dade,miamidadecollege,victordavilauoy8,Victor Davila
+Feb 25,home,Hillsborough,W,3-0,3,0,3,win,20230225_z27v,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Miami Dade,miamidadecollege,victordavilauoy8,Victor Davila
+Feb 28,home,TNXL Academy,L,7-3,7,3,4,win,20230228_ugoq,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Miami Dade,miamidadecollege,victordavilauoy8,Victor Davila
+Mar 1,home,State College of Florida,W,16-7,16,7,9,win,20230301_o35q,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Miami Dade,miamidadecollege,victordavilauoy8,Victor Davila
+Mar 3,home,Elevate Academy,W,9-8,9,8,1,win,20230303_33cd,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Miami Dade,miamidadecollege,victordavilauoy8,Victor Davila
+Mar 4,home,Hillsborough,W,8-5,8,5,3,win,20230304_iov6,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Miami Dade,miamidadecollege,victordavilauoy8,Victor Davila
+Mar 11,home,Eastern Florida State,W,20-7,20,7,13,win,20230311_zm19,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Miami Dade,miamidadecollege,victordavilauoy8,Victor Davila
+Mar 15,home,Florida SouthWestern State,L,5-2,5,2,3,win,20230315_292h,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Miami Dade,miamidadecollege,victordavilauoy8,Victor Davila
+Mar 17,home,Florida SouthWestern State,W,8-3,8,3,5,win,20230317_5paw,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Miami Dade,miamidadecollege,victordavilauoy8,Victor Davila
+Mar 25,home,Indian River State,L,8-5,8,5,3,win,20230325_a9c7,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Miami Dade,miamidadecollege,victordavilauoy8,Victor Davila
+Apr 1,home,Eastern Florida State,W,10-8,10,8,2,win,20230401_y5ac,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Miami Dade,miamidadecollege,victordavilauoy8,Victor Davila
+Apr 8,home,Florida SouthWestern State,L,9-7,9,7,2,win,20230408_yuaq,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Miami Dade,miamidadecollege,victordavilauoy8,Victor Davila
+Apr 14,home,Indian River State,W,9-3,9,3,6,win,20230414_c098,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Miami Dade,miamidadecollege,victordavilauoy8,Victor Davila
+Apr 22,home,Indian River State,W,13-3,13,3,10,win,20230422_a6hn,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Miami Dade,miamidadecollege,victordavilauoy8,Victor Davila
+Apr 26,home,Indian River State,W,8-1,8,1,7,win,20230426_0iz4,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Miami Dade,miamidadecollege,victordavilauoy8,Victor Davila
+May 5,home,Pensacola State,W,11-3,11,3,8,win,20230505_91xr,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Miami Dade,miamidadecollege,victordavilauoy8,Victor Davila
+May 7,home,Pensacola State,W,6-0,6,0,6,win,20230507_bb3x,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Miami Dade,miamidadecollege,victordavilauoy8,Victor Davila
+May 12,home,State College of Florida,W,4-3,4,3,1,win,20230512_i9rw,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Miami Dade,miamidadecollege,victordavilauoy8,Victor Davila
+May 13,home,Central Florida,L,6-0,6,0,6,win,20230513_d1z2,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Miami Dade,miamidadecollege,victordavilauoy8,Victor Davila
+May 14,home,Northwest Florida State,L,8-7,8,7,1,win,20230514_nrpl,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Miami Dade,miamidadecollege,victordavilauoy8,Victor Davila

@@ -1,7 +1,15 @@
 date,location,opponent,result,score,team_score,opp_score,game_score_diff,game_win_loss,game_id,GS,W,L,SV,IP,H,R,ER,ERA,BB,K,HR,season,njcaa_season,njcaa_division,team,team_id,player_id,player_name
-May 6,home,Montgomery County,W,23-5,23,5,18,win,20230506_3nww,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div3,RCSJ Cumberland,rowancollegeofsouthjerseycumberland,jonathancimino1xw9,Jonathan Cimino
-Apr 25,home,Brookdale,L,10-0,10,0,10,win,20230425_jqe2,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div3,RCSJ Cumberland,rowancollegeofsouthjerseycumberland,jonathancimino1xw9,Jonathan Cimino
-Apr 16,home,RCSJ Gloucester,L,21-3,21,3,18,win,20230416_y4zb,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div3,RCSJ Cumberland,rowancollegeofsouthjerseycumberland,jonathancimino1xw9,Jonathan Cimino
-Apr 4,home,Atlantic Cape,W,13-4,13,4,9,win,20230404_zjqx,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div3,RCSJ Cumberland,rowancollegeofsouthjerseycumberland,jonathancimino1xw9,Jonathan Cimino
-Mar 15,home,Oakton,L,5-1,5,1,4,win,20230315_spbh,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div3,RCSJ Cumberland,rowancollegeofsouthjerseycumberland,jonathancimino1xw9,Jonathan Cimino
-Mar 5,home,Bergen,L,9-7,9,7,2,win,20230305_6dn7,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div3,RCSJ Cumberland,rowancollegeofsouthjerseycumberland,jonathancimino1xw9,Jonathan Cimino
+May 13,home,Northampton,L,5-1,5,1,4,win,20230513_iima,0,0,0,0,7.0,7,1,1,1.29,4,4,,2023,2022-23,div3,RCSJ Cumberland,rowancollegeofsouthjerseycumberland,jonathancimino1xw9,Jonathan Cimino
+May 6,home,Montgomery County,W,23-5,23,5,18,win,20230506_3nww,1,1,0,0,5.0,7,3,2,3.60,6,7,,2023,2022-23,div3,RCSJ Cumberland,rowancollegeofsouthjerseycumberland,jonathancimino1xw9,Jonathan Cimino
+Apr 26,home,Ocean County,W,4-3,4,3,1,win,20230426_7kgl,0,0,0,0,7.0,2,3,1,1.29,5,5,1,2023,2022-23,div3,RCSJ Cumberland,rowancollegeofsouthjerseycumberland,jonathancimino1xw9,Jonathan Cimino
+Apr 21,home,Northampton,W,18-15,18,15,3,win,20230421_vmze,0,0,0,0,3.1,10,12,5,13.50,4,3,1,2023,2022-23,div3,RCSJ Cumberland,rowancollegeofsouthjerseycumberland,jonathancimino1xw9,Jonathan Cimino
+Apr 16,home,RCSJ Gloucester,L,21-3,21,3,18,win,20230416_y4zb,0,0,0,0,2.0,5,7,4,18.00,,2,1,2023,2022-23,div3,RCSJ Cumberland,rowancollegeofsouthjerseycumberland,jonathancimino1xw9,Jonathan Cimino
+Apr 10,home,Middlesex College,L,8-5,8,5,3,win,20230410_tdzy,0,0,0,0,5.0,2,3,1,1.80,2,2,1,2023,2022-23,div3,RCSJ Cumberland,rowancollegeofsouthjerseycumberland,jonathancimino1xw9,Jonathan Cimino
+Apr 7,home,Salem,W,12-6,12,6,6,win,20230407_qjtp,0,1,0,0,4.0,1,,,0.00,1,6,,2023,2022-23,div3,RCSJ Cumberland,rowancollegeofsouthjerseycumberland,jonathancimino1xw9,Jonathan Cimino
+Apr 4,home,Atlantic Cape,W,13-4,13,4,9,win,20230404_zjqx,0,0,0,0,3.0,,,,0.00,2,1,,2023,2022-23,div3,RCSJ Cumberland,rowancollegeofsouthjerseycumberland,jonathancimino1xw9,Jonathan Cimino
+Mar 26,home,Middlesex College,W,12-11,12,11,1,win,20230326_zzlz,0,0,0,1,0.2,,,,0.00,1,1,,2023,2022-23,div3,RCSJ Cumberland,rowancollegeofsouthjerseycumberland,jonathancimino1xw9,Jonathan Cimino
+Mar 21,home,Bergen,W,7-4,7,4,3,win,20230321_kmcs,0,0,0,0,0.2,2,,,0.00,,,,2023,2022-23,div3,RCSJ Cumberland,rowancollegeofsouthjerseycumberland,jonathancimino1xw9,Jonathan Cimino
+Mar 15,home,Oakton,L,5-1,5,1,4,win,20230315_spbh,0,0,1,0,2.1,2,3,3,11.57,3,4,,2023,2022-23,div3,RCSJ Cumberland,rowancollegeofsouthjerseycumberland,jonathancimino1xw9,Jonathan Cimino
+Mar 13,home,Heartland,L,5-1,5,1,4,win,20230313_e7y2,0,0,0,0,1.1,0,0,0,0.00,1,2,0,2023,2022-23,div3,RCSJ Cumberland,rowancollegeofsouthjerseycumberland,jonathancimino1xw9,Jonathan Cimino
+Mar 5,home,Bergen,L,9-7,9,7,2,win,20230305_6dn7,0,0,0,0,3.0,4,1,1,3.00,,2,,2023,2022-23,div3,RCSJ Cumberland,rowancollegeofsouthjerseycumberland,jonathancimino1xw9,Jonathan Cimino
+Feb 24,home,SUNY Adirondack,W,10-2,10,2,8,win,20230224_rqoc,0,0,0,0,5.0,,,,0.00,,10,,2023,2022-23,div3,RCSJ Cumberland,rowancollegeofsouthjerseycumberland,jonathancimino1xw9,Jonathan Cimino

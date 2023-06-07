@@ -1,32 +1,28 @@
 date,location,opponent,result,score,team_score,opp_score,game_score_diff,game_win_loss,game_id,GS,W,L,SV,IP,H,R,ER,ERA,BB,K,HR,season,njcaa_season,njcaa_division,team,team_id,player_id,player_name
-May 6,home,Glendale,L,11-5,11,5,6,win,20230506_kob6,0,0,0,0,3.1,6,3,1,2.70,,1,,2023,2022-23,div2,GateWay (AZ),gatewaycommunitycollegeaz,isaacrehfieldjlg3,Isaac Rehfield
-May 4,home,Glendale,L,10-2,10,2,8,win,20230504_1zfy,0,0,0,0,0.1,,3,3,81.00,3,,,2023,2022-23,div2,GateWay (AZ),gatewaycommunitycollegeaz,isaacrehfieldjlg3,Isaac Rehfield
-Apr 28,home,Scottsdale,W,20-19,20,19,1,win,20230428_68qd,0,0,0,0,1.2,5,6,6,32.40,2,2,,2023,2022-23,div2,GateWay (AZ),gatewaycommunitycollegeaz,isaacrehfieldjlg3,Isaac Rehfield
-Apr 26,home,Central Arizona,W,10-9,10,9,1,win,20230426_olrp,0,0,0,0,1.1,,,,0.00,,1,,2023,2022-23,div2,GateWay (AZ),gatewaycommunitycollegeaz,isaacrehfieldjlg3,Isaac Rehfield
-Apr 25,home,Central Arizona,L,3-2,3,2,1,win,20230425_rrim,0,0,0,0,1.2,,,,0.00,1,1,,2023,2022-23,div2,GateWay (AZ),gatewaycommunitycollegeaz,isaacrehfieldjlg3,Isaac Rehfield
-Apr 22,home,Mesa,W,12-5,12,5,7,win,20230422_csi3,0,0,0,0,2.0,1,,,0.00,,1,,2023,2022-23,div2,GateWay (AZ),gatewaycommunitycollegeaz,isaacrehfieldjlg3,Isaac Rehfield
-Apr 21,home,Mesa,W,30-9,30,9,21,win,20230421_2ary,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div2,GateWay (AZ),gatewaycommunitycollegeaz,isaacrehfieldjlg3,Isaac Rehfield
-Apr 19,home,Phoenix,W,9-8,9,8,1,win,20230419_pzmj,0,1,0,0,3.0,2,1,1,3.00,1,2,,2023,2022-23,div2,GateWay (AZ),gatewaycommunitycollegeaz,isaacrehfieldjlg3,Isaac Rehfield
-Apr 15,home,Chandler-Gilbert,L,11-5,11,5,6,win,20230415_7ln6,0,0,0,0,1.0,1,2,,0.00,,,,2023,2022-23,div2,GateWay (AZ),gatewaycommunitycollegeaz,isaacrehfieldjlg3,Isaac Rehfield
-Apr 14,home,Chandler-Gilbert,W,14-4,14,4,10,win,20230414_eloc,0,0,0,1,2.1,,,,0.00,1,1,,2023,2022-23,div2,GateWay (AZ),gatewaycommunitycollegeaz,isaacrehfieldjlg3,Isaac Rehfield
-Apr 12,home,Glendale,L,12-8,12,8,4,win,20230412_nbvg,0,0,0,0,1.0,1,,,0.00,,1,,2023,2022-23,div2,GateWay (AZ),gatewaycommunitycollegeaz,isaacrehfieldjlg3,Isaac Rehfield
-Apr 11,home,Glendale,W,4-3,4,3,1,win,20230411_ulkm,0,0,0,0,2.0,,,,0.00,,1,,2023,2022-23,div2,GateWay (AZ),gatewaycommunitycollegeaz,isaacrehfieldjlg3,Isaac Rehfield
-Apr 7,home,Paradise Valley,W,11-10,11,10,1,win,20230407_o65a,0,0,0,0,3.2,5,3,3,7.36,2,2,,2023,2022-23,div2,GateWay (AZ),gatewaycommunitycollegeaz,isaacrehfieldjlg3,Isaac Rehfield
-Apr 4,home,Arizona Western,L,2-0,2,0,2,win,20230404_p4pp,0,0,0,0,2.2,1,1,1,3.38,1,2,,2023,2022-23,div2,GateWay (AZ),gatewaycommunitycollegeaz,isaacrehfieldjlg3,Isaac Rehfield
-Mar 31,home,Yavapai,W,7-6,7,6,1,win,20230331_jm32,0,1,0,0,3.0,4,2,2,6.00,,5,1,2023,2022-23,div2,GateWay (AZ),gatewaycommunitycollegeaz,isaacrehfieldjlg3,Isaac Rehfield
-Mar 28,home,South Mountain,L,13-3,13,3,10,win,20230328_v7g2,0,0,0,0,1.2,4,5,5,27.00,3,1,1,2023,2022-23,div2,GateWay (AZ),gatewaycommunitycollegeaz,isaacrehfieldjlg3,Isaac Rehfield
-Mar 24,home,Pima,L,15-2,15,2,13,win,20230324_3v2q,0,0,0,0,1.0,2,1,1,9.00,1,,,2023,2022-23,div2,GateWay (AZ),gatewaycommunitycollegeaz,isaacrehfieldjlg3,Isaac Rehfield
-Mar 23,home,ACU JV,W,9-6,9,6,3,win,20230323_o62z,0,0,0,0,1.1,1,,,0.00,,,,2023,2022-23,div2,GateWay (AZ),gatewaycommunitycollegeaz,isaacrehfieldjlg3,Isaac Rehfield
-Mar 17,home,Madison,L,6-1,6,1,5,win,20230317_fqxd,0,0,0,0,1.0,,,,0.00,,,,2023,2022-23,div2,GateWay (AZ),gatewaycommunitycollegeaz,isaacrehfieldjlg3,Isaac Rehfield
-Mar 14,home,Benedictine JV,W,6-0,6,0,6,win,20230314_i719,0,0,0,0,2.0,1,,,0.00,,3,,2023,2022-23,div2,GateWay (AZ),gatewaycommunitycollegeaz,isaacrehfieldjlg3,Isaac Rehfield
-Mar 13,home,Okotok Dawgs,W,18-5,18,5,13,win,20230313_mim9,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div2,GateWay (AZ),gatewaycommunitycollegeaz,isaacrehfieldjlg3,Isaac Rehfield
-Mar 11,home,Cochise,W,8-5,8,5,3,win,20230311_khgj,0,0,0,1,0.1,,,,0.00,,,,2023,2022-23,div2,GateWay (AZ),gatewaycommunitycollegeaz,isaacrehfieldjlg3,Isaac Rehfield
-Mar 7,home,Central Arizona,L,8-6,8,6,2,win,20230307_zf15,0,0,1,0,1.1,4,1,1,6.75,1,1,,2023,2022-23,div2,GateWay (AZ),gatewaycommunitycollegeaz,isaacrehfieldjlg3,Isaac Rehfield
-Mar 1,home,Central Arizona,L,11-1,11,1,10,win,20230301_j52d,0,0,0,0,1.2,2,1,1,5.40,2,2,,2023,2022-23,div2,GateWay (AZ),gatewaycommunitycollegeaz,isaacrehfieldjlg3,Isaac Rehfield
-Feb 24,home,Mesa,L,4-3,4,3,1,win,20230224_j3mw,0,0,0,0,4.2,2,,,0.00,,4,,2023,2022-23,div2,GateWay (AZ),gatewaycommunitycollegeaz,isaacrehfieldjlg3,Isaac Rehfield
-Feb 17,home,Chandler-Gilbert,W,7-6,7,6,1,win,20230217_1hkw,0,1,0,0,1.1,3,1,1,6.75,,1,,2023,2022-23,div2,GateWay (AZ),gatewaycommunitycollegeaz,isaacrehfieldjlg3,Isaac Rehfield
-Feb 14,home,Glendale,W,15-9,15,9,6,win,20230214_u90h,0,0,0,0,0.1,,,,0.00,,1,,2023,2022-23,div2,GateWay (AZ),gatewaycommunitycollegeaz,isaacrehfieldjlg3,Isaac Rehfield
-Feb 10,home,Paradise Valley,L,1-0,1,0,1,win,20230210_4h0g,0,0,0,0,2.1,2,,,0.00,,2,,2023,2022-23,div2,GateWay (AZ),gatewaycommunitycollegeaz,isaacrehfieldjlg3,Isaac Rehfield
-Feb 5,home,El Paso,W,6-5,6,5,1,win,20230205_krdc,0,1,0,0,3.1,2,2,1,2.70,2,5,,2023,2022-23,div2,GateWay (AZ),gatewaycommunitycollegeaz,isaacrehfieldjlg3,Isaac Rehfield
-Feb 3,home,Salt Lake,L,7-2,7,2,5,win,20230203_9z2q,0,0,0,0,1.2,3,2,1,5.40,,2,,2023,2022-23,div2,GateWay (AZ),gatewaycommunitycollegeaz,isaacrehfieldjlg3,Isaac Rehfield
-Jan 31,home,ACU JV,W,9-6,9,6,3,win,20230131_kody,0,1,0,0,2.1,2,,,0.00,,4,,2023,2022-23,div2,GateWay (AZ),gatewaycommunitycollegeaz,isaacrehfieldjlg3,Isaac Rehfield
+May 20,home,Madison,L,14-8,14,8,6,win,20230520_zxy7,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div2,GateWay (AZ),gatewaycommunitycollegeaz,isaacrehfieldjlg3,Isaac Rehfield
+May 19,home,Black Hawk-Moline,W,14-10,14,10,4,win,20230519_ail4,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div2,GateWay (AZ),gatewaycommunitycollegeaz,isaacrehfieldjlg3,Isaac Rehfield
+May 19,home,Madison,L,7-4,7,4,3,win,20230519_wsq1,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div2,GateWay (AZ),gatewaycommunitycollegeaz,isaacrehfieldjlg3,Isaac Rehfield
+May 18,home,Black Hawk-Moline,W,7-1,7,1,6,win,20230518_vp46,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div2,GateWay (AZ),gatewaycommunitycollegeaz,isaacrehfieldjlg3,Isaac Rehfield
+May 14,home,Morton,W,11-0,11,0,11,win,20230514_qw5w,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div2,GateWay (AZ),gatewaycommunitycollegeaz,isaacrehfieldjlg3,Isaac Rehfield
+May 14,home,Morton,W,3-1,3,1,2,win,20230514_ubsf,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div2,GateWay (AZ),gatewaycommunitycollegeaz,isaacrehfieldjlg3,Isaac Rehfield
+May 13,home,Moraine Valley,W,8-0,8,0,8,win,20230513_nfnb,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div2,GateWay (AZ),gatewaycommunitycollegeaz,isaacrehfieldjlg3,Isaac Rehfield
+May 13,home,Morton,L,5-3,5,3,2,win,20230513_0pit,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div2,GateWay (AZ),gatewaycommunitycollegeaz,isaacrehfieldjlg3,Isaac Rehfield
+May 7,home,Olive-Harvey,W,8-1,8,1,7,win,20230507_e2vg,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div2,GateWay (AZ),gatewaycommunitycollegeaz,isaacrehfieldjlg3,Isaac Rehfield
+Apr 30,home,Kankakee,L,9-3,9,3,6,win,20230430_3cyk,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div2,GateWay (AZ),gatewaycommunitycollegeaz,isaacrehfieldjlg3,Isaac Rehfield
+Apr 27,home,Madison,L,10-2,10,2,8,win,20230427_ivpg,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div2,GateWay (AZ),gatewaycommunitycollegeaz,isaacrehfieldjlg3,Isaac Rehfield
+Apr 26,home,Madison,W,6-1,6,1,5,win,20230426_ds8t,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div2,GateWay (AZ),gatewaycommunitycollegeaz,isaacrehfieldjlg3,Isaac Rehfield
+Apr 25,home,Triton,L,12-2,12,2,10,win,20230425_2f26,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div2,GateWay (AZ),gatewaycommunitycollegeaz,isaacrehfieldjlg3,Isaac Rehfield
+Apr 23,home,Milwaukee Area Tech,W,12-0,12,0,12,win,20230423_mvjs,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div2,GateWay (AZ),gatewaycommunitycollegeaz,isaacrehfieldjlg3,Isaac Rehfield
+Apr 23,home,Milwaukee Area Tech,W,11-4,11,4,7,win,20230423_mehu,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div2,GateWay (AZ),gatewaycommunitycollegeaz,isaacrehfieldjlg3,Isaac Rehfield
+Apr 22,home,Waubonsee,W,12-7,12,7,5,win,20230422_on2l,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div2,GateWay (AZ),gatewaycommunitycollegeaz,isaacrehfieldjlg3,Isaac Rehfield
+Apr 22,home,Waubonsee,W,7-2,7,2,5,win,20230422_1bt1,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div2,GateWay (AZ),gatewaycommunitycollegeaz,isaacrehfieldjlg3,Isaac Rehfield
+Apr 21,home,Kishwaukee,W,16-4,16,4,12,win,20230421_ncus,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div2,GateWay (AZ),gatewaycommunitycollegeaz,isaacrehfieldjlg3,Isaac Rehfield
+Apr 12,home,Rockford University JV,W,30-4,30,4,26,win,20230412_05xy,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div2,GateWay (AZ),gatewaycommunitycollegeaz,isaacrehfieldjlg3,Isaac Rehfield
+Apr 3,home,Moraine Valley,W,8-5,8,5,3,win,20230403_xlb1,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div2,GateWay (AZ),gatewaycommunitycollegeaz,isaacrehfieldjlg3,Isaac Rehfield
+Mar 27,home,Ivy Tech Fort Wayne,W,8-0,8,0,8,win,20230327_fe6r,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div2,GateWay (AZ),gatewaycommunitycollegeaz,isaacrehfieldjlg3,Isaac Rehfield
+Mar 27,home,Ivy Tech Fort Wayne,W,4-0,4,0,4,win,20230327_6cs5,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div2,GateWay (AZ),gatewaycommunitycollegeaz,isaacrehfieldjlg3,Isaac Rehfield
+Mar 26,home,Ivy Tech Fort Wayne,W,19-5,19,5,14,win,20230326_e0f8,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div2,GateWay (AZ),gatewaycommunitycollegeaz,isaacrehfieldjlg3,Isaac Rehfield
+Mar 20,home,North Central College JV,L,11-3,11,3,8,win,20230320_643m,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div2,GateWay (AZ),gatewaycommunitycollegeaz,isaacrehfieldjlg3,Isaac Rehfield
+Mar 5,home,St. Louis,W,11-3,11,3,8,win,20230305_xpup,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div2,GateWay (AZ),gatewaycommunitycollegeaz,isaacrehfieldjlg3,Isaac Rehfield
+Mar 4,home,St. Louis,W,13-8,13,8,5,win,20230304_ho4k,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div2,GateWay (AZ),gatewaycommunitycollegeaz,isaacrehfieldjlg3,Isaac Rehfield
+Mar 1,home,North Park University JV,W,7-5,7,5,2,win,20230301_svm9,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div2,GateWay (AZ),gatewaycommunitycollegeaz,isaacrehfieldjlg3,Isaac Rehfield

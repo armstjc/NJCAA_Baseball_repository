@@ -1,18 +1,46 @@
 date,location,opponent,result,score,team_score,opp_score,game_score_diff,game_win_loss,game_id,TC,PO,A,E,FPCT,DP,SBA,RCS,RCS_PCT,PB,CI,season,njcaa_season,njcaa_division,team,team_id,player_id,player_name
-Feb 10,home,Cleveland State,L,3-0,3,0,3,win,20230210_repc,0,0,0,0,2.1,1,,,0.00,2,1,2023,2022-23,div2,Vincennes,vincennesuniversity,aaronfennwk45,Aaron Fenn
-Feb 15,home,Frontier,L,8-1,8,1,7,win,20230215_vr85,0,0,0,0,3.0,1,1,,0.00,,2,2023,2022-23,div2,Vincennes,vincennesuniversity,aaronfennwk45,Aaron Fenn
-Feb 18,home,South Suburban,L,15-12,15,12,3,win,20230218_ruh8,0,0,1,0,0.0,3,4,4,INF,1,,2023,2022-23,div2,Vincennes,vincennesuniversity,aaronfennwk45,Aaron Fenn
-Feb 25,home,Joliet,L,12-9,12,9,3,win,20230225_07s1,0,0,1,0,1.2,3,4,3,16.20,3,,2023,2022-23,div2,Vincennes,vincennesuniversity,aaronfennwk45,Aaron Fenn
-Mar 5,home,Wabash Valley,L,16-5,16,5,11,win,20230305_m2hc,0,0,0,0,1.0,1,2,2,18.00,1,1,2023,2022-23,div2,Vincennes,vincennesuniversity,aaronfennwk45,Aaron Fenn
-Mar 7,home,Oakland CIty,W,17-7,17,7,10,win,20230307_nj96,1,0,0,0,4.0,5,2,1,2.25,0,4,2023,2022-23,div2,Vincennes,vincennesuniversity,aaronfennwk45,Aaron Fenn
-Mar 12,home,Schoolcraft,W,5-4,5,4,1,win,20230312_5pd9,0,0,0,0,1.0,2,2,2,18.00,,1,2023,2022-23,div2,Vincennes,vincennesuniversity,aaronfennwk45,Aaron Fenn
-Mar 20,home,Danville Area,W,12-2,12,2,10,win,20230320_heqy,0,1,0,0,1.0,1,,,0.00,,1,2023,2022-23,div2,Vincennes,vincennesuniversity,aaronfennwk45,Aaron Fenn
-Mar 27,home,Illinois Central,L,8-2,8,2,6,win,20230327_6265,0,0,0,0,2.1,1,,,0.00,1,2,2023,2022-23,div2,Vincennes,vincennesuniversity,aaronfennwk45,Aaron Fenn
-Mar 30,home,Frontier,L,4-2,4,2,2,win,20230330_apg7,1,0,1,0,4.2,8,3,0,0.00,2,3,2023,2022-23,div2,Vincennes,vincennesuniversity,aaronfennwk45,Aaron Fenn
-Apr 8,home,Heartland,L,19-10,19,10,9,win,20230408_uyx9,1,0,1,0,1.1,6,7,4,27.00,2,2,2023,2022-23,div2,Vincennes,vincennesuniversity,aaronfennwk45,Aaron Fenn
-Apr 17,home,John Wood,L,11-2,11,2,9,win,20230417_n05r,0,0,0,0,2.1,3,2,1,3.86,1,4,2023,2022-23,div2,Vincennes,vincennesuniversity,aaronfennwk45,Aaron Fenn
-Apr 23,home,Lincoln Land,W,7-4,7,4,3,win,20230423_v8z7,0,0,0,1,3.0,4,1,1,3.00,,1,2023,2022-23,div2,Vincennes,vincennesuniversity,aaronfennwk45,Aaron Fenn
-Apr 30,home,Lewis & Clark,W,8-4,8,4,4,win,20230430_wtwc,0,1,0,0,3.2,3,3,2,4.91,1,4,2023,2022-23,div2,Vincennes,vincennesuniversity,aaronfennwk45,Aaron Fenn
-May 6,home,Parkland,W,3-2,3,2,1,win,20230506_eemy,0,0,0,0,0.2,1,,,0.00,,,2023,2022-23,div2,Vincennes,vincennesuniversity,aaronfennwk45,Aaron Fenn
-May 11,home,Spoon River,W,12-2,12,2,10,win,20230511_fxnw,0,0,0,0,0.1,,,,0.00,,,2023,2022-23,div2,Vincennes,vincennesuniversity,aaronfennwk45,Aaron Fenn
-May 17,home,Parkland,L,10-4,10,4,6,win,20230517_fdfx,0,0,0,0,0.0,3,4,3,INF,,,2023,2022-23,div2,Vincennes,vincennesuniversity,aaronfennwk45,Aaron Fenn
+Feb 11,home,Cleveland State,L,9-5,9,5,4,win,20230211_61um,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div2,Vincennes,vincennesuniversity,aaronfennwk45,Aaron Fenn
+Feb 15,home,Frontier,L,8-1,8,1,7,win,20230215_vr85,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div2,Vincennes,vincennesuniversity,aaronfennwk45,Aaron Fenn
+Feb 18,home,South Suburban,L,15-12,15,12,3,win,20230218_ruh8,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div2,Vincennes,vincennesuniversity,aaronfennwk45,Aaron Fenn
+Feb 19,home,Marian-Ancilla,W,13-4,13,4,9,win,20230219_ltfa,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div2,Vincennes,vincennesuniversity,aaronfennwk45,Aaron Fenn
+Feb 21,home,Wabash Valley,L,8-2,8,2,6,win,20230221_js4y,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div2,Vincennes,vincennesuniversity,aaronfennwk45,Aaron Fenn
+Feb 24,home,Olney Central,L,9-5,9,5,4,win,20230224_pom1,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div2,Vincennes,vincennesuniversity,aaronfennwk45,Aaron Fenn
+Feb 25,home,Morton,L,10-7,10,7,3,win,20230225_0vfq,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div2,Vincennes,vincennesuniversity,aaronfennwk45,Aaron Fenn
+Feb 25,home,Joliet,L,12-9,12,9,3,win,20230225_07s1,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div2,Vincennes,vincennesuniversity,aaronfennwk45,Aaron Fenn
+Feb 26,home,Morton,W,12-4,12,4,8,win,20230226_t7vf,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div2,Vincennes,vincennesuniversity,aaronfennwk45,Aaron Fenn
+Mar 4,home,Kellogg,L,5-2,5,2,3,win,20230304_m0tb,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div2,Vincennes,vincennesuniversity,aaronfennwk45,Aaron Fenn
+Mar 5,home,Lincoln Trail,W,7-6,7,6,1,win,20230305_07bi,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div2,Vincennes,vincennesuniversity,aaronfennwk45,Aaron Fenn
+Mar 5,home,Wabash Valley,L,16-5,16,5,11,win,20230305_m2hc,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div2,Vincennes,vincennesuniversity,aaronfennwk45,Aaron Fenn
+Mar 7,home,Oakland CIty,W,17-7,17,7,10,win,20230307_nj96,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div2,Vincennes,vincennesuniversity,aaronfennwk45,Aaron Fenn
+Mar 8,home,Volunteer State,L,16-3,16,3,13,win,20230308_nvw0,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div2,Vincennes,vincennesuniversity,aaronfennwk45,Aaron Fenn
+Mar 10,home,Schoolcraft,W,11-1,11,1,10,win,20230310_5u5k,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div2,Vincennes,vincennesuniversity,aaronfennwk45,Aaron Fenn
+Mar 11,home,Schoolcraft,W,5-4,5,4,1,win,20230311_t9vj,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div2,Vincennes,vincennesuniversity,aaronfennwk45,Aaron Fenn
+Mar 11,home,Schoolcraft,W,15-5,15,5,10,win,20230311_552b,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div2,Vincennes,vincennesuniversity,aaronfennwk45,Aaron Fenn
+Mar 20,home,Danville Area,W,12-2,12,2,10,win,20230320_heqy,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div2,Vincennes,vincennesuniversity,aaronfennwk45,Aaron Fenn
+Mar 20,home,Danville Area,W,7-4,7,4,3,win,20230320_nt5q,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div2,Vincennes,vincennesuniversity,aaronfennwk45,Aaron Fenn
+Mar 21,home,Danville Area,W,18-6,18,6,12,win,20230321_0lc3,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div2,Vincennes,vincennesuniversity,aaronfennwk45,Aaron Fenn
+Mar 21,home,Danville Area,W,19-11,19,11,8,win,20230321_t18h,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div2,Vincennes,vincennesuniversity,aaronfennwk45,Aaron Fenn
+Mar 26,home,Illinois Central,L,13-2,13,2,11,win,20230326_kjv2,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div2,Vincennes,vincennesuniversity,aaronfennwk45,Aaron Fenn
+Mar 26,home,Illinois Central,L,11-0,11,0,11,win,20230326_syfq,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div2,Vincennes,vincennesuniversity,aaronfennwk45,Aaron Fenn
+Mar 27,home,Illinois Central,L,7-5,7,5,2,win,20230327_zsvr,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div2,Vincennes,vincennesuniversity,aaronfennwk45,Aaron Fenn
+Mar 27,home,Illinois Central,L,8-2,8,2,6,win,20230327_6265,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div2,Vincennes,vincennesuniversity,aaronfennwk45,Aaron Fenn
+Mar 29,home,Olney Central,W,12-6,12,6,6,win,20230329_t3oy,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div2,Vincennes,vincennesuniversity,aaronfennwk45,Aaron Fenn
+Mar 30,home,Frontier,L,4-2,4,2,2,win,20230330_apg7,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div2,Vincennes,vincennesuniversity,aaronfennwk45,Aaron Fenn
+Apr 2,home,Frontier,W,12-4,12,4,8,win,20230402_ipfd,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div2,Vincennes,vincennesuniversity,aaronfennwk45,Aaron Fenn
+Apr 7,home,Heartland,L,8-3,8,3,5,win,20230407_4svb,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div2,Vincennes,vincennesuniversity,aaronfennwk45,Aaron Fenn
+Apr 7,home,Heartland,L,10-3,10,3,7,win,20230407_y9qj,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div2,Vincennes,vincennesuniversity,aaronfennwk45,Aaron Fenn
+Apr 8,home,Heartland,L,20-2,20,2,18,win,20230408_3lnn,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div2,Vincennes,vincennesuniversity,aaronfennwk45,Aaron Fenn
+Apr 8,home,Heartland,L,19-10,19,10,9,win,20230408_uyx9,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div2,Vincennes,vincennesuniversity,aaronfennwk45,Aaron Fenn
+Apr 17,home,John Wood,L,11-1,11,1,10,win,20230417_81iz,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div2,Vincennes,vincennesuniversity,aaronfennwk45,Aaron Fenn
+Apr 17,home,John Wood,L,11-2,11,2,9,win,20230417_n05r,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div2,Vincennes,vincennesuniversity,aaronfennwk45,Aaron Fenn
+Apr 18,home,John Wood,W,5-2,5,2,3,win,20230418_cok7,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div2,Vincennes,vincennesuniversity,aaronfennwk45,Aaron Fenn
+Apr 18,home,John Wood,L,14-6,14,6,8,win,20230418_0vgc,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div2,Vincennes,vincennesuniversity,aaronfennwk45,Aaron Fenn
+Apr 22,home,Lincoln Land,L,9-5,9,5,4,win,20230422_cz2g,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div2,Vincennes,vincennesuniversity,aaronfennwk45,Aaron Fenn
+Apr 22,home,Lincoln Land,L,9-1,9,1,8,win,20230422_5vff,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div2,Vincennes,vincennesuniversity,aaronfennwk45,Aaron Fenn
+Apr 23,home,Lincoln Land,W,2-1,2,1,1,win,20230423_qsth,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div2,Vincennes,vincennesuniversity,aaronfennwk45,Aaron Fenn
+Apr 23,home,Lincoln Land,W,7-4,7,4,3,win,20230423_v8z7,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div2,Vincennes,vincennesuniversity,aaronfennwk45,Aaron Fenn
+Apr 29,home,Lewis & Clark,L,8-1,8,1,7,win,20230429_gins,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div2,Vincennes,vincennesuniversity,aaronfennwk45,Aaron Fenn
+Apr 30,home,Lewis & Clark,W,8-4,8,4,4,win,20230430_wtwc,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div2,Vincennes,vincennesuniversity,aaronfennwk45,Aaron Fenn
+Apr 30,home,Lewis & Clark,L,5-4,5,4,1,win,20230430_harr,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div2,Vincennes,vincennesuniversity,aaronfennwk45,Aaron Fenn
+May 5,home,Parkland,L,12-2,12,2,10,win,20230505_bkpv,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div2,Vincennes,vincennesuniversity,aaronfennwk45,Aaron Fenn
+May 5,home,Parkland,L,11-1,11,1,10,win,20230505_g40i,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div2,Vincennes,vincennesuniversity,aaronfennwk45,Aaron Fenn

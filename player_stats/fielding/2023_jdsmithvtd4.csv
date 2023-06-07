@@ -1,10 +1,14 @@
 date,location,opponent,result,score,team_score,opp_score,game_score_diff,game_win_loss,game_id,TC,PO,A,E,FPCT,DP,SBA,RCS,RCS_PCT,PB,CI,season,njcaa_season,njcaa_division,team,team_id,player_id,player_name
-Feb 12,home,Grayson,W,9-0,9,0,9,win,20230212_alow,0,0,0,0,1.2,1,,,0.00,4,1,2023,2022-23,div1,Central Florida,collegeofcentralflorida,jdsmithvtd4,JD Smith
-Feb 25,home,Wayland Baptist University,W,9-6,9,6,3,win,20230225_5k1y,0,0,0,0,2.0,4,3,3,13.50,,1,2023,2022-23,div1,Central Florida,collegeofcentralflorida,jdsmithvtd4,JD Smith
-Mar 11,home,Midland,L,21-9,21,9,12,win,20230311_8604,0,0,0,0,2.1,2,2,2,7.71,2,3,2023,2022-23,div1,Central Florida,collegeofcentralflorida,jdsmithvtd4,JD Smith
-Apr 7,home,Clarendon,L,13-11,13,11,2,win,20230407_0s6m,0,0,0,0,0.2,,,,0.00,,,2023,2022-23,div1,Central Florida,collegeofcentralflorida,jdsmithvtd4,JD Smith
-Apr 8,home,Clarendon,L,12-7,12,7,5,win,20230408_zpzj,0,0,0,0,1.0,1,,,0.00,,,2023,2022-23,div1,Central Florida,collegeofcentralflorida,jdsmithvtd4,JD Smith
-Apr 18,home,Wayland Baptist University,W,15-2,15,2,13,win,20230418_jn0i,0,0,0,0,1.0,4,2,2,18.00,1,1,2023,2022-23,div1,Central Florida,collegeofcentralflorida,jdsmithvtd4,JD Smith
-Apr 22,home,El Paso,L,11-9,11,9,2,win,20230422_z0mx,0,0,0,0,0.2,2,2,2,27.00,,,2023,2022-23,div1,Central Florida,collegeofcentralflorida,jdsmithvtd4,JD Smith
-Apr 30,home,New Mexico,W,9-7,9,7,2,win,20230430_i06s,0,0,0,0,0.1,2,,,0.00,,,2023,2022-23,div1,Central Florida,collegeofcentralflorida,jdsmithvtd4,JD Smith
-May 5,home,New Mexico Military,L,8-4,8,4,4,win,20230505_7psm,0,0,0,0,1.0,3,3,3,27.00,1,,2023,2022-23,div1,Central Florida,collegeofcentralflorida,jdsmithvtd4,JD Smith
+Jan 27,home,Polk State,W,5-2,5,2,3,win,20230127_1f90,0,0,0,0,0.0,,,,0.00,3,,2023,2022-23,div1,Central Florida,collegeofcentralflorida,jdsmithvtd4,JD Smith
+Feb 1,home,Hillsborough,W,11-10,11,10,1,win,20230201_jhsi,1,0,0,0,2.0,0,0,0,0.00,2,1,2023,2022-23,div1,Central Florida,collegeofcentralflorida,jdsmithvtd4,JD Smith
+Feb 8,home,Hillsborough,W,13-6,13,6,7,win,20230208_hpp2,1,1,0,0,5.0,5,2,2,3.60,2,6,2023,2022-23,div1,Central Florida,collegeofcentralflorida,jdsmithvtd4,JD Smith
+Feb 13,home,Florida Southern JV,W,12-2,12,2,10,win,20230213_4gie,1,0,0,0,3.2,0,2,2,4.91,3,3,2023,2022-23,div1,Central Florida,collegeofcentralflorida,jdsmithvtd4,JD Smith
+Feb 20,home,State College of Florida,W,12-11,12,11,1,win,20230220_uqil,1,0,0,0,4.0,9,9,8,18.00,2,3,2023,2022-23,div1,Central Florida,collegeofcentralflorida,jdsmithvtd4,JD Smith
+Feb 27,home,Lake-Sumter State,W,8-2,8,2,6,win,20230227_wkgc,0,1,0,0,5.0,3,,,0.00,,6,2023,2022-23,div1,Central Florida,collegeofcentralflorida,jdsmithvtd4,JD Smith
+Mar 7,home,Lincoln Land,W,8-5,8,5,3,win,20230307_4dkz,0,0,0,1,1.0,1,,,0.00,1,2,2023,2022-23,div1,Central Florida,collegeofcentralflorida,jdsmithvtd4,JD Smith
+Mar 11,home,Daytona State,W,17-9,17,9,8,win,20230311_efl0,1,1,0,0,2.2,4,3,3,10.13,3,1,2023,2022-23,div1,Central Florida,collegeofcentralflorida,jdsmithvtd4,JD Smith
+Apr 17,home,Daytona State,W,11-4,11,4,7,win,20230417_ae6v,0,1,0,0,3.0,3,,,0.00,3,2,2023,2022-23,div1,Central Florida,collegeofcentralflorida,jdsmithvtd4,JD Smith
+Apr 24,home,Santa Fe,L,12-1,12,1,11,win,20230424_mks1,0,0,0,0,1.0,4,6,6,54.00,2,1,2023,2022-23,div1,Central Florida,collegeofcentralflorida,jdsmithvtd4,JD Smith
+May 14,home,Northwest Florida State,W,7-2,7,2,5,win,20230514_h8bt,1,0,0,0,2.1,2,1,1,3.86,3,1,2023,2022-23,div1,Central Florida,collegeofcentralflorida,jdsmithvtd4,JD Smith
+May 30,home,(7) Delgado,W,12-9,12,9,3,win,20230530_n0wq,1,0,0,0,2.0,0,2,2,9.00,2,0,2023,2022-23,div1,Central Florida,collegeofcentralflorida,jdsmithvtd4,JD Smith
+Jun 3,home,(3) Wabash Valley,W,13-6,13,6,7,win,20230603_gi2c,1,0,0,0,3.0,2,2,2,6.00,4,1,2023,2022-23,div1,Central Florida,collegeofcentralflorida,jdsmithvtd4,JD Smith

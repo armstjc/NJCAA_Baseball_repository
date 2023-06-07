@@ -1,13 +1,12 @@
 date,location,opponent,result,score,team_score,opp_score,game_score_diff,game_win_loss,game_id,TC,PO,A,E,FPCT,DP,SBA,RCS,RCS_PCT,PB,CI,season,njcaa_season,njcaa_division,team,team_id,player_id,player_name
-Mar 5,home,Penn St Schykill,L,4-1,4,1,3,win,20230305_0wqz,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div2,Coahoma,coahomacommunitycollege,jacoblanierofvq,Jacob Lanier
-Mar 6,home,Penn State Greater Allegheny,W,4-3,4,3,1,win,20230306_tbo5,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div2,Coahoma,coahomacommunitycollege,jacoblanierofvq,Jacob Lanier
-Mar 26,home,Hocking,W,20-5,20,5,15,win,20230326_m8n9,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div2,Coahoma,coahomacommunitycollege,jacoblanierofvq,Jacob Lanier
-Mar 28,home,University Northwestern Ohio,W,11-0,11,0,11,win,20230328_ix0i,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div2,Coahoma,coahomacommunitycollege,jacoblanierofvq,Jacob Lanier
-Mar 30,home,Baldwin Wallace,L,17-5,17,5,12,win,20230330_l492,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div2,Coahoma,coahomacommunitycollege,jacoblanierofvq,Jacob Lanier
-Apr 2,home,Edison State,W,13-3,13,3,10,win,20230402_pdd6,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div2,Coahoma,coahomacommunitycollege,jacoblanierofvq,Jacob Lanier
-Apr 3,home,Edison State,L,9-8,9,8,1,win,20230403_3136,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div2,Coahoma,coahomacommunitycollege,jacoblanierofvq,Jacob Lanier
-Apr 12,home,Ashland University,L,18-12,18,12,6,win,20230412_9ar7,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div2,Coahoma,coahomacommunitycollege,jacoblanierofvq,Jacob Lanier
-Apr 15,home,Clark State,L,10-0,10,0,10,win,20230415_jqc2,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div2,Coahoma,coahomacommunitycollege,jacoblanierofvq,Jacob Lanier
-Apr 16,home,Clark State,W,15-1,15,1,14,win,20230416_rcfg,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div2,Coahoma,coahomacommunitycollege,jacoblanierofvq,Jacob Lanier
-Apr 26,home,Cuyahoga,L,10-1,10,1,9,win,20230426_iheu,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div2,Coahoma,coahomacommunitycollege,jacoblanierofvq,Jacob Lanier
-Apr 27,home,Hocking,W,13-3,13,3,10,win,20230427_foc0,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div2,Coahoma,coahomacommunitycollege,jacoblanierofvq,Jacob Lanier
+Feb 10,home,Meridian,L,13-3,13,3,10,win,20230210_x04s,0,0,1,0,1.1,3,9,5,33.75,3,1,2023,2022-23,div2,Coahoma,coahomacommunitycollege,jacoblanierofvq,Jacob Lanier
+Feb 21,home,Mississippi Delta,W,12-10,12,10,2,win,20230221_nr7g,0,0,0,1,1.0,1,,,0.00,,,2023,2022-23,div2,Coahoma,coahomacommunitycollege,jacoblanierofvq,Jacob Lanier
+Mar 1,home,Holmes,L,6-5,6,5,1,win,20230301_d53o,0,0,0,0,1.0,,,,0.00,,1,2023,2022-23,div2,Coahoma,coahomacommunitycollege,jacoblanierofvq,Jacob Lanier
+Mar 4,home,SAU Tech,L,11-1,11,1,10,win,20230304_54ko,1,0,0,0,3.0,6,5,0,0.00,2,2,2023,2022-23,div2,Coahoma,coahomacommunitycollege,jacoblanierofvq,Jacob Lanier
+Mar 11,home,East Central (MS),L,10-0,10,0,10,win,20230311_d3xf,1,0,1,0,4.2,6,10,7,13.50,5,2,2023,2022-23,div2,Coahoma,coahomacommunitycollege,jacoblanierofvq,Jacob Lanier
+Mar 18,home,Hinds,L,12-7,12,7,5,win,20230318_x6ak,1,0,0,0,4.0,8,6,6,13.50,4,3,2023,2022-23,div2,Coahoma,coahomacommunitycollege,jacoblanierofvq,Jacob Lanier
+Mar 25,home,Jones,L,13-1,13,1,12,win,20230325_jnpt,1,0,1,0,4.1,7,7,7,14.54,5,0,2023,2022-23,div2,Coahoma,coahomacommunitycollege,jacoblanierofvq,Jacob Lanier
+Apr 1,home,Meridian,L,19-6,19,6,13,win,20230401_4a0k,1,0,1,0,2.0,10,11,11,49.50,2,2,2023,2022-23,div2,Coahoma,coahomacommunitycollege,jacoblanierofvq,Jacob Lanier
+Apr 6,home,Mississippi Gulf Coast,L,10-8,10,8,2,win,20230406_cmto,1,0,0,0,3.0,7,5,31,93.00,0,0,2023,2022-23,div2,Coahoma,coahomacommunitycollege,jacoblanierofvq,Jacob Lanier
+Apr 14,home,Pearl River,L,19-2,19,2,17,win,20230414_eni3,0,0,0,0,3.0,2,5,2,6.00,6,4,2023,2022-23,div2,Coahoma,coahomacommunitycollege,jacoblanierofvq,Jacob Lanier
+Apr 25,home,Holmes,W,11-7,11,7,4,win,20230425_8p6y,1,0,0,0,4.0,7,6,5,11.25,3,0,2023,2022-23,div2,Coahoma,coahomacommunitycollege,jacoblanierofvq,Jacob Lanier

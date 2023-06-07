@@ -1,9 +1,29 @@
 date,location,opponent,result,score,team_score,opp_score,game_score_diff,game_win_loss,game_id,AB,R,H,2B,3B,HR,RBI,BB,K,SB,CS,HBP,SF,SH,TB,XBH,HDP,GO,FO,GO/FO,PA,season,njcaa_season,njcaa_division,team,team_id,player_id,player_name
-Jan 28,home,Hillsborough,W,5-1,5,1,4,win,20230128_3zia,2,0,0,,,,0,,2,,,,,,0,0,,,,,2,2023,2022-23,div1,Central Alabama,centralalabamacommunitycollege,arwinburgosti9b,Arwin Burgos
-Feb 1,home,St. Johns River State,W,3-2,3,2,1,win,20230201_qpz7,0,0,0,,,,0,,,,,,,,0,0,,,,,0,2023,2022-23,div1,Central Alabama,centralalabamacommunitycollege,arwinburgosti9b,Arwin Burgos
-Feb 10,home,St. Petersburg,W,11-7,11,7,4,win,20230210_n3jh,3,1,0,,,,0,1,2,,,1,,,0,0,1,,,,5,2023,2022-23,div1,Central Alabama,centralalabamacommunitycollege,arwinburgosti9b,Arwin Burgos
-Feb 13,home,Lake-Sumter State,W,17-3,17,3,14,win,20230213_wgwi,1,0,0,,,,0,,,,,,,,0,0,,,,,1,2023,2022-23,div1,Central Alabama,centralalabamacommunitycollege,arwinburgosti9b,Arwin Burgos
-Mar 1,home,Florida State Jacksonville,W,11-1,11,1,10,win,20230301_bc6h,3,0,1,,,,1,1,1,,,,,,1,0,,,,,4,2023,2022-23,div1,Central Alabama,centralalabamacommunitycollege,arwinburgosti9b,Arwin Burgos
-Mar 27,home,Lake-Sumter State,W,5-4,5,4,1,win,20230327_1s3j,4,1,2,,,1,2,,1,,,,,,5,1,,,,,4,2023,2022-23,div1,Central Alabama,centralalabamacommunitycollege,arwinburgosti9b,Arwin Burgos
-Apr 3,home,Lake-Sumter State,W,14-11,14,11,3,win,20230403_4ba9,4,1,1,1,,,1,1,,,,1,,,2,1,1,1,2,0.50,6,2023,2022-23,div1,Central Alabama,centralalabamacommunitycollege,arwinburgosti9b,Arwin Burgos
-Apr 15,home,Daytona State,W,11-6,11,6,5,win,20230415_kyv1,4,1,2,1,,1,3,,,,,,,,6,2,,,,,4,2023,2022-23,div1,Central Alabama,centralalabamacommunitycollege,arwinburgosti9b,Arwin Burgos
+Feb 4,home,Volunteer State,W,6-2,6,2,4,win,20230204_4iht,2,1,1,1,,,1,2,1,,,,,,2,1,,,,,4,2023,2022-23,div1,Central Alabama,centralalabamacommunitycollege,arwinburgosti9b,Arwin Burgos
+Feb 5,home,Volunteer State,W,3-2,3,2,1,win,20230205_wl6h,4,0,2,,,,0,,,,,,,,2,0,,,,,4,2023,2022-23,div1,Central Alabama,centralalabamacommunitycollege,arwinburgosti9b,Arwin Burgos
+Feb 8,home,Andrew,W,3-1,3,1,2,win,20230208_e1a9,2,0,1,,,,1,1,,,,,1,,1,0,,,,,4,2023,2022-23,div1,Central Alabama,centralalabamacommunitycollege,arwinburgosti9b,Arwin Burgos
+Feb 12,home,Wallace-Dothan,W,4-1,4,1,3,win,20230212_2xbz,2,1,1,,,,0,2,,,,,,,1,0,,,,,4,2023,2022-23,div1,Central Alabama,centralalabamacommunitycollege,arwinburgosti9b,Arwin Burgos
+Feb 12,home,Chipola,W,11-7,11,7,4,win,20230212_fzy8,4,1,2,,,,0,1,1,1,,,,,2,0,,,,,5,2023,2022-23,div1,Central Alabama,centralalabamacommunitycollege,arwinburgosti9b,Arwin Burgos
+Feb 16,home,John A. Logan,W,9-6,9,6,3,win,20230216_4h27,4,1,2,1,,,2,,,,,,1,,3,1,,,,,5,2023,2022-23,div1,Central Alabama,centralalabamacommunitycollege,arwinburgosti9b,Arwin Burgos
+Feb 18,home,Gordon State,W,6-2,6,2,4,win,20230218_6sgf,1,1,0,,,,1,2,,,,1,,,0,0,,,,,4,2023,2022-23,div1,Central Alabama,centralalabamacommunitycollege,arwinburgosti9b,Arwin Burgos
+Feb 18,home,Gordon State,W,4-0,4,0,4,win,20230218_xt40,3,1,0,,,,0,1,,,,,,,0,0,,,,,4,2023,2022-23,div1,Central Alabama,centralalabamacommunitycollege,arwinburgosti9b,Arwin Burgos
+Feb 24,home,Lurleen B. Wallace,W,5-2,5,2,3,win,20230224_kd9x,3,1,0,,,,0,,,,,,,,0,0,,,,,3,2023,2022-23,div1,Central Alabama,centralalabamacommunitycollege,arwinburgosti9b,Arwin Burgos
+Feb 25,home,Wallace-Dothan,W,6-2,6,2,4,win,20230225_dlh6,4,0,1,1,,,0,1,1,1,,,,,2,1,,,,,5,2023,2022-23,div1,Central Alabama,centralalabamacommunitycollege,arwinburgosti9b,Arwin Burgos
+Mar 8,home,Shelton State,W,3-2,3,2,1,win,20230308_w4fz,4,0,1,1,,,1,,2,,,,,,2,1,,,,,4,2023,2022-23,div1,Central Alabama,centralalabamacommunitycollege,arwinburgosti9b,Arwin Burgos
+Mar 11,home,Shelton State,W,7-1,7,1,6,win,20230311_va83,2,1,0,,,,0,1,,,,,,,0,0,,,,,3,2023,2022-23,div1,Central Alabama,centralalabamacommunitycollege,arwinburgosti9b,Arwin Burgos
+Mar 16,home,Snead State,W,4-3,4,3,1,win,20230316_1j07,3,2,1,,,,0,1,,,,,,,1,0,,,,,4,2023,2022-23,div1,Central Alabama,centralalabamacommunitycollege,arwinburgosti9b,Arwin Burgos
+Mar 19,home,Snead State,W,2-1,2,1,1,win,20230319_x7h2,3,0,0,,,,0,,2,,,,,,0,0,,,,,3,2023,2022-23,div1,Central Alabama,centralalabamacommunitycollege,arwinburgosti9b,Arwin Burgos
+Mar 19,home,Snead State,W,9-3,9,3,6,win,20230319_t6jj,4,1,0,,,,1,,,,,,,,0,0,,,,,4,2023,2022-23,div1,Central Alabama,centralalabamacommunitycollege,arwinburgosti9b,Arwin Burgos
+Mar 23,home,Marion Military,W,7-2,7,2,5,win,20230323_oq4p,4,1,2,,,,1,,,,,,,,2,0,,,,,4,2023,2022-23,div1,Central Alabama,centralalabamacommunitycollege,arwinburgosti9b,Arwin Burgos
+Mar 30,home,Bevill State,W,7-3,7,3,4,win,20230330_3c7b,3,0,1,,,,1,1,,,1,,,,1,0,,,,,4,2023,2022-23,div1,Central Alabama,centralalabamacommunitycollege,arwinburgosti9b,Arwin Burgos
+Mar 30,home,Bevill State,W,7-3,7,3,4,win,20230330_jyub,4,0,0,,,,0,,1,,,,,,0,0,,,,,4,2023,2022-23,div1,Central Alabama,centralalabamacommunitycollege,arwinburgosti9b,Arwin Burgos
+Mar 31,home,Bevill State,W,4-3,4,3,1,win,20230331_v0ua,4,1,1,,,,0,,,,,,,,1,0,,,,,4,2023,2022-23,div1,Central Alabama,centralalabamacommunitycollege,arwinburgosti9b,Arwin Burgos
+Apr 6,home,Calhoun,W,12-4,12,4,8,win,20230406_5i2o,3,0,3,1,,,3,1,,,,,,,4,1,,,,,4,2023,2022-23,div1,Central Alabama,centralalabamacommunitycollege,arwinburgosti9b,Arwin Burgos
+Apr 6,home,Calhoun,W,9-6,9,6,3,win,20230406_d3ud,3,0,2,,,,1,,,1,,,,,2,0,,,,,3,2023,2022-23,div1,Central Alabama,centralalabamacommunitycollege,arwinburgosti9b,Arwin Burgos
+Apr 10,home,Calhoun,W,6-3,6,3,3,win,20230410_ax6y,4,0,3,,,,0,,,,,,,,3,0,,,,,4,2023,2022-23,div1,Central Alabama,centralalabamacommunitycollege,arwinburgosti9b,Arwin Burgos
+Apr 11,home,Point University JV,W,5-4,5,4,1,win,20230411_0dp2,3,1,2,2,,,1,,,,,,,,4,2,,,,,3,2023,2022-23,div1,Central Alabama,centralalabamacommunitycollege,arwinburgosti9b,Arwin Burgos
+Apr 11,home,Point University JV,W,9-0,9,0,9,win,20230411_480a,3,2,3,1,,,1,,,3,,,,,4,1,,,,,3,2023,2022-23,div1,Central Alabama,centralalabamacommunitycollege,arwinburgosti9b,Arwin Burgos
+Apr 20,home,Southern Union State,W,9-5,9,5,4,win,20230420_4d9t,4,0,1,,,,0,1,1,,,,,,1,0,,,,,5,2023,2022-23,div1,Central Alabama,centralalabamacommunitycollege,arwinburgosti9b,Arwin Burgos
+Apr 29,home,Lawson State,W,14-5,14,5,9,win,20230429_p0eb,4,1,0,,,,1,1,1,,,,,,0,0,,,,,5,2023,2022-23,div1,Central Alabama,centralalabamacommunitycollege,arwinburgosti9b,Arwin Burgos
+May 4,home,Wallace State,W,2-0,2,0,2,win,20230504_v71q,2,0,1,1,,,1,,,,,,,,2,1,,,,,2,2023,2022-23,div1,Central Alabama,centralalabamacommunitycollege,arwinburgosti9b,Arwin Burgos
+May 6,home,Wallace State,W,4-3,4,3,1,win,20230506_49en,2,0,0,,,,1,,,,,,,,0,0,,,,,2,2023,2022-23,div1,Central Alabama,centralalabamacommunitycollege,arwinburgosti9b,Arwin Burgos

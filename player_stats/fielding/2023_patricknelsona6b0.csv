@@ -1,18 +1,32 @@
 date,location,opponent,result,score,team_score,opp_score,game_score_diff,game_win_loss,game_id,TC,PO,A,E,FPCT,DP,SBA,RCS,RCS_PCT,PB,CI,season,njcaa_season,njcaa_division,team,team_id,player_id,player_name
-Mar 14,home,Florida SouthWestern State,L,10-2,10,2,8,win,20230314_176u,0,0,0,0,2.0,3,2,2,9.00,1,1,2023,2022-23,div2,Elgin,elgincommunitycollege,patricknelsona6b0,Patrick Nelson
-Mar 16,home,Mount Saint Joseph University JV,W,6-2,6,2,4,win,20230316_kiy6,0,0,0,0,1.0,,,,0.00,1,2,2023,2022-23,div2,Elgin,elgincommunitycollege,patricknelsona6b0,Patrick Nelson
-Mar 17,home,Rockland,W,5-0,5,0,5,win,20230317_kke9,0,0,0,0,1.0,,,,0.00,2,3,2023,2022-23,div2,Elgin,elgincommunitycollege,patricknelsona6b0,Patrick Nelson
-Mar 28,home,Aurora University JV,L,21-10,21,10,11,win,20230328_ykdt,0,0,0,0,1.0,2,,,0.00,,1,2023,2022-23,div2,Elgin,elgincommunitycollege,patricknelsona6b0,Patrick Nelson
-Apr 3,home,Prairie State,W,4-2,4,2,2,win,20230403_lh5t,0,0,0,0,0.2,1,1,,0.00,,,2023,2022-23,div2,Elgin,elgincommunitycollege,patricknelsona6b0,Patrick Nelson
-Apr 7,home,Bryant & Stratton College (WI),W,4-1,4,1,3,win,20230407_hma1,0,0,0,1,1.0,,,,0.00,1,1,2023,2022-23,div2,Elgin,elgincommunitycollege,patricknelsona6b0,Patrick Nelson
-Apr 10,home,Lake County,W,7-0,7,0,7,win,20230410_fx8g,0,0,0,0,1.0,,,,0.00,,1,2023,2022-23,div2,Elgin,elgincommunitycollege,patricknelsona6b0,Patrick Nelson
-Apr 11,home,McHenry County,L,17-5,17,5,12,win,20230411_i74q,1,0,1,0,2.0,4,4,4,18.00,1,4,2023,2022-23,div2,Elgin,elgincommunitycollege,patricknelsona6b0,Patrick Nelson
-Apr 13,home,Joliet,L,14-4,14,4,10,win,20230413_7ets,0,0,1,0,0.2,4,6,,0.00,1,1,2023,2022-23,div2,Elgin,elgincommunitycollege,patricknelsona6b0,Patrick Nelson
-Apr 18,home,Oakton,W,8-5,8,5,3,win,20230418_4buy,0,0,0,1,1.0,1,,,0.00,,3,2023,2022-23,div2,Elgin,elgincommunitycollege,patricknelsona6b0,Patrick Nelson
-Apr 23,home,Olive-Harvey,L,8-6,8,6,2,win,20230423_v3v7,0,0,0,0,0.2,1,2,2,27.00,1,,2023,2022-23,div2,Elgin,elgincommunitycollege,patricknelsona6b0,Patrick Nelson
-Apr 25,home,DuPage,W,7-4,7,4,3,win,20230425_016l,0,0,0,1,1.0,,,,0.00,,2,2023,2022-23,div2,Elgin,elgincommunitycollege,patricknelsona6b0,Patrick Nelson
-May 2,home,Highland (IL),L,6-4,6,4,2,win,20230502_9yh2,0,0,0,0,0.2,,,,0.00,,,2023,2022-23,div2,Elgin,elgincommunitycollege,patricknelsona6b0,Patrick Nelson
-May 3,home,Harper,W,15-12,15,12,3,win,20230503_rokg,0,0,0,0,1.0,,,,0.00,2,1,2023,2022-23,div2,Elgin,elgincommunitycollege,patricknelsona6b0,Patrick Nelson
-May 5,home,Triton,L,4-1,4,1,3,win,20230505_slfx,0,0,0,0,2.0,2,1,1,4.50,1,3,2023,2022-23,div2,Elgin,elgincommunitycollege,patricknelsona6b0,Patrick Nelson
-May 7,home,Sauk Valley,L,10-6,10,6,4,win,20230507_ix61,0,0,0,0,2.0,3,4,,0.00,,2,2023,2022-23,div2,Elgin,elgincommunitycollege,patricknelsona6b0,Patrick Nelson
-May 13,home,Madison,L,8-0,8,0,8,win,20230513_w2b0,0,0,0,0,4.2,3,1,1,1.93,,8,2023,2022-23,div2,Elgin,elgincommunitycollege,patricknelsona6b0,Patrick Nelson
+Mar 14,home,Florida SouthWestern State,L,10-2,10,2,8,win,20230314_176u,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div2,Elgin,elgincommunitycollege,patricknelsona6b0,Patrick Nelson
+Mar 15,home,Delgado,L,5-2,5,2,3,win,20230315_py3h,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div2,Elgin,elgincommunitycollege,patricknelsona6b0,Patrick Nelson
+Mar 16,home,Holyoke,W,28-5,28,5,23,win,20230316_jm93,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div2,Elgin,elgincommunitycollege,patricknelsona6b0,Patrick Nelson
+Mar 17,home,Rockland,L,11-1,11,1,10,win,20230317_513f,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div2,Elgin,elgincommunitycollege,patricknelsona6b0,Patrick Nelson
+Mar 19,home,Washington & Jefferson JV,W,8-2,8,2,6,win,20230319_4uns,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div2,Elgin,elgincommunitycollege,patricknelsona6b0,Patrick Nelson
+Mar 24,home,Rockford JV,L,2-1,2,1,1,win,20230324_gtne,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div2,Elgin,elgincommunitycollege,patricknelsona6b0,Patrick Nelson
+Mar 28,home,Aurora University JV,L,21-10,21,10,11,win,20230328_ykdt,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div2,Elgin,elgincommunitycollege,patricknelsona6b0,Patrick Nelson
+Apr 2,home,Madison,L,13-3,13,3,10,win,20230402_zb1i,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div2,Elgin,elgincommunitycollege,patricknelsona6b0,Patrick Nelson
+Apr 3,home,Prairie State,W,4-2,4,2,2,win,20230403_lh5t,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div2,Elgin,elgincommunitycollege,patricknelsona6b0,Patrick Nelson
+Apr 3,home,Prairie State,L,5-3,5,3,2,win,20230403_oegi,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div2,Elgin,elgincommunitycollege,patricknelsona6b0,Patrick Nelson
+Apr 6,home,Kankakee,L,11-6,11,6,5,win,20230406_5jc7,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div2,Elgin,elgincommunitycollege,patricknelsona6b0,Patrick Nelson
+Apr 7,home,Bryant & Stratton College (WI),L,18-8,18,8,10,win,20230407_graq,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div2,Elgin,elgincommunitycollege,patricknelsona6b0,Patrick Nelson
+Apr 7,home,Bryant & Stratton College (WI),W,4-1,4,1,3,win,20230407_hma1,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div2,Elgin,elgincommunitycollege,patricknelsona6b0,Patrick Nelson
+Apr 8,home,Waubonsee,L,8-3,8,3,5,win,20230408_5lxn,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div2,Elgin,elgincommunitycollege,patricknelsona6b0,Patrick Nelson
+Apr 8,home,Waubonsee,L,9-3,9,3,6,win,20230408_lwgh,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div2,Elgin,elgincommunitycollege,patricknelsona6b0,Patrick Nelson
+Apr 10,home,Lake County,W,7-0,7,0,7,win,20230410_fx8g,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div2,Elgin,elgincommunitycollege,patricknelsona6b0,Patrick Nelson
+Apr 10,home,Lake County,W,7-0,7,0,7,win,20230410_t48g,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div2,Elgin,elgincommunitycollege,patricknelsona6b0,Patrick Nelson
+Apr 11,home,McHenry County,L,17-5,17,5,12,win,20230411_i74q,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div2,Elgin,elgincommunitycollege,patricknelsona6b0,Patrick Nelson
+Apr 13,home,Joliet,L,14-4,14,4,10,win,20230413_7ets,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div2,Elgin,elgincommunitycollege,patricknelsona6b0,Patrick Nelson
+Apr 14,home,Milwaukee Area Tech,L,8-2,8,2,6,win,20230414_7ny4,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div2,Elgin,elgincommunitycollege,patricknelsona6b0,Patrick Nelson
+Apr 15,home,Moraine Valley,L,12-4,12,4,8,win,20230415_skcs,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div2,Elgin,elgincommunitycollege,patricknelsona6b0,Patrick Nelson
+Apr 15,home,Moraine Valley,L,12-5,12,5,7,win,20230415_ucms,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div2,Elgin,elgincommunitycollege,patricknelsona6b0,Patrick Nelson
+Apr 18,home,Oakton,W,8-5,8,5,3,win,20230418_4buy,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div2,Elgin,elgincommunitycollege,patricknelsona6b0,Patrick Nelson
+Apr 20,home,Kankakee,W,13-3,13,3,10,win,20230420_7gok,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div2,Elgin,elgincommunitycollege,patricknelsona6b0,Patrick Nelson
+Apr 22,home,Morton,W,1-0,1,0,1,win,20230422_3sfe,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div2,Elgin,elgincommunitycollege,patricknelsona6b0,Patrick Nelson
+Apr 25,home,DuPage,L,2-1,2,1,1,win,20230425_2s34,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div2,Elgin,elgincommunitycollege,patricknelsona6b0,Patrick Nelson
+May 3,home,Harper,W,15-12,15,12,3,win,20230503_rokg,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div2,Elgin,elgincommunitycollege,patricknelsona6b0,Patrick Nelson
+May 4,home,Rock Valley,L,8-5,8,5,3,win,20230504_8aba,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div2,Elgin,elgincommunitycollege,patricknelsona6b0,Patrick Nelson
+May 4,home,Rock Valley,L,9-6,9,6,3,win,20230504_e5r8,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div2,Elgin,elgincommunitycollege,patricknelsona6b0,Patrick Nelson
+May 6,home,Black Hawk-Moline,L,8-0,8,0,8,win,20230506_ju08,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div2,Elgin,elgincommunitycollege,patricknelsona6b0,Patrick Nelson
+May 7,home,Sauk Valley,L,10-6,10,6,4,win,20230507_ix61,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div2,Elgin,elgincommunitycollege,patricknelsona6b0,Patrick Nelson

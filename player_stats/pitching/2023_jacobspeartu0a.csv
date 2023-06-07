@@ -1,11 +1,19 @@
 date,location,opponent,result,score,team_score,opp_score,game_score_diff,game_win_loss,game_id,GS,W,L,SV,IP,H,R,ER,ERA,BB,K,HR,season,njcaa_season,njcaa_division,team,team_id,player_id,player_name
-Apr 28,home,Coahoma,W,10-6,10,6,4,win,20230428_ikkk,0,0,0,1,3.0,2,,,0.00,,1,,2023,2022-23,div2,Danville Area,danvilleareacommunitycollege,jacobspeartu0a,Jacob Spear
-Apr 22,home,East Mississippi,L,8-6,8,6,2,win,20230422_6vs6,0,0,0,0,2.2,5,2,2,6.75,2,2,1,2023,2022-23,div2,Danville Area,danvilleareacommunitycollege,jacobspeartu0a,Jacob Spear
-Apr 8,home,Itawamba,L,10-6,10,6,4,win,20230408_d3e6,1,0,0,0,5.1,8,5,5,8.44,3,1,,2023,2022-23,div2,Danville Area,danvilleareacommunitycollege,jacobspeartu0a,Jacob Spear
-Apr 1,home,Mississippi Delta,L,15-7,15,7,8,win,20230401_jasd,0,0,0,0,3.0,2,1,1,3.00,,2,1,2023,2022-23,div2,Danville Area,danvilleareacommunitycollege,jacobspeartu0a,Jacob Spear
-Mar 29,home,East Central (MS),L,8-7,8,7,1,win,20230329_rae8,0,0,1,0,1.2,2,3,1,5.40,1,2,,2023,2022-23,div2,Danville Area,danvilleareacommunitycollege,jacobspeartu0a,Jacob Spear
-Mar 18,home,Northwest Mississippi,L,9-6,9,6,3,win,20230318_53m2,0,0,1,0,2.0,7,5,5,22.50,2,2,,2023,2022-23,div2,Danville Area,danvilleareacommunitycollege,jacobspeartu0a,Jacob Spear
-Mar 9,home,Lansing,L,10-3,10,3,7,win,20230309_bjge,1,0,1,0,4.2,1,3,0,0.00,5,5,,2023,2022-23,div2,Danville Area,danvilleareacommunitycollege,jacobspeartu0a,Jacob Spear
-Feb 25,home,Meridian,W,5-4,5,4,1,win,20230225_2578,1,0,0,0,2.2,6,4,4,13.50,1,2,0,2023,2022-23,div2,Danville Area,danvilleareacommunitycollege,jacobspeartu0a,Jacob Spear
-Feb 19,home,Kaskaskia,L,5-4,5,4,1,win,20230219_vfwj,1,0,1,0,5.0,5,5,2,3.60,1,5,1,2023,2022-23,div2,Danville Area,danvilleareacommunitycollege,jacobspeartu0a,Jacob Spear
-Feb 10,home,Rend Lake,L,7-1,7,1,6,win,20230210_xhbt,1,0,1,0,4.2,4,3,3,5.79,2,4,,2023,2022-23,div2,Danville Area,danvilleareacommunitycollege,jacobspeartu0a,Jacob Spear
+May 12,home,Lincoln Land,L,5-1,5,1,4,win,20230512_sq1p,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div2,Danville Area,danvilleareacommunitycollege,jacobspeartu0a,Jacob Spear
+May 12,home,Lincoln Land,L,7-3,7,3,4,win,20230512_8s3u,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div2,Danville Area,danvilleareacommunitycollege,jacobspeartu0a,Jacob Spear
+May 11,home,Lincoln Land,L,6-3,6,3,3,win,20230511_nbjt,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div2,Danville Area,danvilleareacommunitycollege,jacobspeartu0a,Jacob Spear
+May 11,home,Lincoln Land,L,8-2,8,2,6,win,20230511_5rdh,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div2,Danville Area,danvilleareacommunitycollege,jacobspeartu0a,Jacob Spear
+May 7,home,Illinois Central,L,6-2,6,2,4,win,20230507_w1al,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div2,Danville Area,danvilleareacommunitycollege,jacobspeartu0a,Jacob Spear
+May 2,home,Olney Central,L,9-2,9,2,7,win,20230502_dfyf,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div2,Danville Area,danvilleareacommunitycollege,jacobspeartu0a,Jacob Spear
+Apr 29,home,Heartland,L,13-2,13,2,11,win,20230429_ffa5,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div2,Danville Area,danvilleareacommunitycollege,jacobspeartu0a,Jacob Spear
+Apr 26,home,Franklin College JV,W,8-1,8,1,7,win,20230426_2sua,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div2,Danville Area,danvilleareacommunitycollege,jacobspeartu0a,Jacob Spear
+Apr 20,home,Marian University JV,W,13-3,13,3,10,win,20230420_wuhj,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div2,Danville Area,danvilleareacommunitycollege,jacobspeartu0a,Jacob Spear
+Apr 18,home,Rose Hulman JV,W,12-10,12,10,2,win,20230418_st5j,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div2,Danville Area,danvilleareacommunitycollege,jacobspeartu0a,Jacob Spear
+Apr 15,home,Parkland,L,16-7,16,7,9,win,20230415_2t9x,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div2,Danville Area,danvilleareacommunitycollege,jacobspeartu0a,Jacob Spear
+Apr 15,home,Parkland,L,5-4,5,4,1,win,20230415_908c,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div2,Danville Area,danvilleareacommunitycollege,jacobspeartu0a,Jacob Spear
+Apr 13,home,Lincoln Trail,L,18-7,18,7,11,win,20230413_fj9x,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div2,Danville Area,danvilleareacommunitycollege,jacobspeartu0a,Jacob Spear
+Apr 8,home,Lewis & Clark,W,9-5,9,5,4,win,20230408_wa9k,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div2,Danville Area,danvilleareacommunitycollege,jacobspeartu0a,Jacob Spear
+Mar 29,home,Oakland City JV,W,10-1,10,1,9,win,20230329_jxtz,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div2,Danville Area,danvilleareacommunitycollege,jacobspeartu0a,Jacob Spear
+Mar 29,home,Oakland City JV,L,6-2,6,2,4,win,20230329_l34p,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div2,Danville Area,danvilleareacommunitycollege,jacobspeartu0a,Jacob Spear
+Mar 7,home,Salem,W,16-4,16,4,12,win,20230307_4ugg,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div2,Danville Area,danvilleareacommunitycollege,jacobspeartu0a,Jacob Spear
+Mar 6,home,DuPage,L,13-0,13,0,13,win,20230306_x92k,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div2,Danville Area,danvilleareacommunitycollege,jacobspeartu0a,Jacob Spear
