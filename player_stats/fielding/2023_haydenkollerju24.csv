@@ -1,12 +1,21 @@
 date,location,opponent,result,score,team_score,opp_score,game_score_diff,game_win_loss,game_id,TC,PO,A,E,FPCT,DP,SBA,RCS,RCS_PCT,PB,CI,season,njcaa_season,njcaa_division,team,team_id,player_id,player_name
-Feb 12,home,Delaware Tech,W,6-3,6,3,3,win,20230212_8v9o,1,1,0,0,3.1,5,3,2,5.40,5,3,2023,2022-23,div2,UA Rich Mountain,uarichmountain,haydenkollerju24,Hayden Koller
-Feb 26,home,Westchester,L,12-1,12,1,11,win,20230226_rkm3,1,0,1,0,6.0,10,8,8,12.00,4,5,2023,2022-23,div2,UA Rich Mountain,uarichmountain,haydenkollerju24,Hayden Koller
-Mar 11,home,Chesapeake,L,14-6,14,6,8,win,20230311_1rt4,1,0,1,0,5.0,7,8,5,9.00,3,5,2023,2022-23,div2,UA Rich Mountain,uarichmountain,haydenkollerju24,Hayden Koller
-Mar 25,home,Anne Arundel,W,13-6,13,6,7,win,20230325_j1hr,0,0,0,0,2.0,,,,0.00,,,2023,2022-23,div2,UA Rich Mountain,uarichmountain,haydenkollerju24,Hayden Koller
-Mar 26,home,Potomac State,L,5-2,5,2,3,win,20230326_nn8f,0,0,0,0,0.1,,,,0.00,,,2023,2022-23,div2,UA Rich Mountain,uarichmountain,haydenkollerju24,Hayden Koller
-Mar 28,home,Harford,L,11-0,11,0,11,win,20230328_e9xj,1,0,1,0,4.0,8,6,5,11.25,2,5,2023,2022-23,div2,UA Rich Mountain,uarichmountain,haydenkollerju24,Hayden Koller
-Apr 2,home,Bucks County,W,8-2,8,2,6,win,20230402_nxhu,0,0,0,0,1.1,,,,0.00,,2,2023,2022-23,div2,UA Rich Mountain,uarichmountain,haydenkollerju24,Hayden Koller
-Apr 5,home,Anne Arundel,L,9-7,9,7,2,win,20230405_cxgl,1,0,0,0,4.1,5,7,6,12.46,1,5,2023,2022-23,div2,UA Rich Mountain,uarichmountain,haydenkollerju24,Hayden Koller
-Apr 16,home,Allegany Maryland,W,5-3,5,3,2,win,20230416_3527,1,1,0,0,7.0,3,3,3,3.86,2,5,2023,2022-23,div2,UA Rich Mountain,uarichmountain,haydenkollerju24,Hayden Koller
-Apr 23,home,Southern Maryland,L,5-3,5,3,2,win,20230423_iolj,1,0,1,0,6.0,8,5,5,7.50,2,4,2023,2022-23,div2,UA Rich Mountain,uarichmountain,haydenkollerju24,Hayden Koller
-May 4,home,CCBC Dundalk,W,12-4,12,4,8,win,20230504_quxh,1,1,0,0,5.1,5,4,4,6.75,6,9,2023,2022-23,div2,UA Rich Mountain,uarichmountain,haydenkollerju24,Hayden Koller
+Feb 5,home,Northeast Texas,L,8-4,8,4,4,win,20230205_sytb,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div2,UA Rich Mountain,uarichmountain,haydenkollerju24,Hayden Koller
+Feb 5,home,Northeast Texas,L,12-2,12,2,10,win,20230205_ws2a,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div2,UA Rich Mountain,uarichmountain,haydenkollerju24,Hayden Koller
+Feb 9,home,Philander Smith College,W,24-2,24,2,22,win,20230209_kfdu,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div2,UA Rich Mountain,uarichmountain,haydenkollerju24,Hayden Koller
+Feb 18,home,ASU Mountain Home,W,6-5,6,5,1,win,20230218_pcnm,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div2,UA Rich Mountain,uarichmountain,haydenkollerju24,Hayden Koller
+Feb 18,home,ASU Mountain Home,W,8-6,8,6,2,win,20230218_yxar,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div2,UA Rich Mountain,uarichmountain,haydenkollerju24,Hayden Koller
+Feb 25,home,Connors State,L,13-1,13,1,12,win,20230225_4b4q,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div2,UA Rich Mountain,uarichmountain,haydenkollerju24,Hayden Koller
+Feb 27,home,Arkansas Tech University JV,L,12-2,12,2,10,win,20230227_s6iz,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div2,UA Rich Mountain,uarichmountain,haydenkollerju24,Hayden Koller
+Mar 4,home,Mineral Area,W,4-3,4,3,1,win,20230304_lr2u,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div2,UA Rich Mountain,uarichmountain,haydenkollerju24,Hayden Koller
+Mar 14,home,Seminole State (OK),L,20-7,20,7,13,win,20230314_idit,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div2,UA Rich Mountain,uarichmountain,haydenkollerju24,Hayden Koller
+Mar 23,home,South Arkansas,L,16-5,16,5,11,win,20230323_bd94,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div2,UA Rich Mountain,uarichmountain,haydenkollerju24,Hayden Koller
+Apr 1,home,Redlands,L,9-5,9,5,4,win,20230401_07em,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div2,UA Rich Mountain,uarichmountain,haydenkollerju24,Hayden Koller
+Apr 4,home,Arkansas Baptist,W,15-3,15,3,12,win,20230404_kk4a,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div2,UA Rich Mountain,uarichmountain,haydenkollerju24,Hayden Koller
+Apr 6,home,Murray State,L,3-2,3,2,1,win,20230406_lucx,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div2,UA Rich Mountain,uarichmountain,haydenkollerju24,Hayden Koller
+Apr 15,home,Western Oklahoma State,L,6-5,6,5,1,win,20230415_vwk9,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div2,UA Rich Mountain,uarichmountain,haydenkollerju24,Hayden Koller
+Apr 20,home,Northern Oklahoma Tonkawa,L,9-8,9,8,1,win,20230420_2xml,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div2,UA Rich Mountain,uarichmountain,haydenkollerju24,Hayden Koller
+Apr 28,home,SAU Tech,W,6-5,6,5,1,win,20230428_w5vg,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div2,UA Rich Mountain,uarichmountain,haydenkollerju24,Hayden Koller
+Apr 28,home,SAU Tech,W,15-4,15,4,11,win,20230428_3ah7,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div2,UA Rich Mountain,uarichmountain,haydenkollerju24,Hayden Koller
+Apr 30,home,SAU Tech,W,23-4,23,4,19,win,20230430_78ku,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div2,UA Rich Mountain,uarichmountain,haydenkollerju24,Hayden Koller
+May 6,home,National Park,W,9-1,9,1,8,win,20230506_d88b,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div2,UA Rich Mountain,uarichmountain,haydenkollerju24,Hayden Koller
+May 6,home,National Park,W,13-3,13,3,10,win,20230506_estn,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div2,UA Rich Mountain,uarichmountain,haydenkollerju24,Hayden Koller

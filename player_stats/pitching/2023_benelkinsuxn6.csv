@@ -1,13 +1,10 @@
 date,location,opponent,result,score,team_score,opp_score,game_score_diff,game_win_loss,game_id,GS,W,L,SV,IP,H,R,ER,ERA,BB,K,HR,season,njcaa_season,njcaa_division,team,team_id,player_id,player_name
-Apr 26,home,Rockland,W,25-2,25,2,23,win,20230426_engl,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div3,Caldwell Tech,caldwellcommunitycollegetechnicali,benelkinsuxn6,Ben Elkins
-Apr 16,home,Salem,L,21-2,21,2,19,win,20230416_lzw8,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div3,Caldwell Tech,caldwellcommunitycollegetechnicali,benelkinsuxn6,Ben Elkins
-Apr 8,home,Brookdale,L,17-2,17,2,15,win,20230408_fr3e,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div3,Caldwell Tech,caldwellcommunitycollegetechnicali,benelkinsuxn6,Ben Elkins
-Apr 8,home,Brookdale,L,11-5,11,5,6,win,20230408_gd37,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div3,Caldwell Tech,caldwellcommunitycollegetechnicali,benelkinsuxn6,Ben Elkins
-Mar 26,home,Dutchess,W,19-11,19,11,8,win,20230326_25nv,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div3,Caldwell Tech,caldwellcommunitycollegetechnicali,benelkinsuxn6,Ben Elkins
-Mar 26,home,Dutchess,W,9-0,9,0,9,win,20230326_8msy,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div3,Caldwell Tech,caldwellcommunitycollegetechnicali,benelkinsuxn6,Ben Elkins
-Mar 19,home,Borough of Manhattan,W,12-11,12,11,1,win,20230319_f024,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div3,Caldwell Tech,caldwellcommunitycollegetechnicali,benelkinsuxn6,Ben Elkins
-Mar 19,home,Borough of Manhattan,W,27-4,27,4,23,win,20230319_xf9g,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div3,Caldwell Tech,caldwellcommunitycollegetechnicali,benelkinsuxn6,Ben Elkins
-Mar 15,home,Central Maine community college,W,15-2,15,2,13,win,20230315_0mnq,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div3,Caldwell Tech,caldwellcommunitycollegetechnicali,benelkinsuxn6,Ben Elkins
-Mar 14,home,North Central Missouri,L,15-3,15,3,12,win,20230314_v5ef,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div3,Caldwell Tech,caldwellcommunitycollegetechnicali,benelkinsuxn6,Ben Elkins
-Mar 12,home,Mohawk Valley,W,13-0,13,0,13,win,20230312_txfr,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div3,Caldwell Tech,caldwellcommunitycollegetechnicali,benelkinsuxn6,Ben Elkins
-Mar 5,home,RCSJ Cumberland,L,8-2,8,2,6,win,20230305_et22,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div3,Caldwell Tech,caldwellcommunitycollegetechnicali,benelkinsuxn6,Ben Elkins
+May 6,home,Surry,L,10-8,10,8,2,win,20230506_z48z,0,0,0,0,0.0,3,2,2,INF,,,,2023,2022-23,div3,Caldwell Tech,caldwellcommunitycollegetechnicali,benelkinsuxn6,Ben Elkins
+Apr 20,home,Ferrum JV,W,11-9,11,9,2,win,20230420_i4vq,0,1,0,0,3.0,3,,,0.00,1,2,,2023,2022-23,div3,Caldwell Tech,caldwellcommunitycollegetechnicali,benelkinsuxn6,Ben Elkins
+Apr 18,home,Catawba Valley,W,19-15,19,15,4,win,20230418_s0xf,0,0,0,0,1.2,1,1,1,5.40,2,1,0,2023,2022-23,div3,Caldwell Tech,caldwellcommunitycollegetechnicali,benelkinsuxn6,Ben Elkins
+Apr 5,home,Combine Academy,W,7-3,7,3,4,win,20230405_qwkn,0,0,0,0,1.0,,,,0.00,,2,,2023,2022-23,div3,Caldwell Tech,caldwellcommunitycollegetechnicali,benelkinsuxn6,Ben Elkins
+Mar 25,home,Virginia Peninsula,W,12-9,12,9,3,win,20230325_9d4z,0,0,0,0,0.2,2,2,2,27.00,2,0,0,2023,2022-23,div3,Caldwell Tech,caldwellcommunitycollegetechnicali,benelkinsuxn6,Ben Elkins
+Mar 11,home,Rockingham,W,11-4,11,4,7,win,20230311_go44,0,0,0,0,3.0,1,,,0.00,2,1,,2023,2022-23,div3,Caldwell Tech,caldwellcommunitycollegetechnicali,benelkinsuxn6,Ben Elkins
+Mar 8,home,Cleveland,W,14-11,14,11,3,win,20230308_28ze,0,0,0,0,1.0,1,0,0,0.00,0,0,0,2023,2022-23,div3,Caldwell Tech,caldwellcommunitycollegetechnicali,benelkinsuxn6,Ben Elkins
+Feb 20,home,MontreJV,W,18-1,18,1,17,win,20230220_jirn,0,0,0,0,1.0,1,1,,0.00,1,2,,2023,2022-23,div3,Caldwell Tech,caldwellcommunitycollegetechnicali,benelkinsuxn6,Ben Elkins
+Feb 15,home,Gaston College,L,7-0,7,0,7,win,20230215_dnix,0,0,0,0,1.0,4,3,3,27.00,0,0,1,2023,2022-23,div3,Caldwell Tech,caldwellcommunitycollegetechnicali,benelkinsuxn6,Ben Elkins

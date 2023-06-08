@@ -1,12 +1,22 @@
 date,location,opponent,result,score,team_score,opp_score,game_score_diff,game_win_loss,game_id,TC,PO,A,E,FPCT,DP,SBA,RCS,RCS_PCT,PB,CI,season,njcaa_season,njcaa_division,team,team_id,player_id,player_name
-Mar 9,home,Westchester,L,11-1,11,1,10,win,20230309_qwor,0,0,0,0,2.0,,6,3,13.50,3,2,2023,2022-23,div3,Bronx,bronxcommunitycollege,raulchevalier898c,Raul Chevalier
-Mar 16,home,Genesee,L,7-3,7,3,4,win,20230316_ohc3,0,0,0,0,5.1,4,7,4,6.75,3,6,2023,2022-23,div3,Bronx,bronxcommunitycollege,raulchevalier898c,Raul Chevalier
-Mar 29,home,Nassau,L,12-1,12,1,11,win,20230329_0bpr,0,0,0,0,2.0,6,8,4,18.00,2,1,2023,2022-23,div3,Bronx,bronxcommunitycollege,raulchevalier898c,Raul Chevalier
-Apr 4,home,Monroe College - Bronx,W,8-6,8,6,2,win,20230404_yg4o,0,1,0,0,7.0,6,3,1,1.29,2,3,2023,2022-23,div3,Bronx,bronxcommunitycollege,raulchevalier898c,Raul Chevalier
-Apr 8,home,Monroe College - Bronx,W,15-5,15,5,10,win,20230408_1lp1,0,0,0,0,2.1,2,,,0.00,,1,2023,2022-23,div3,Bronx,bronxcommunitycollege,raulchevalier898c,Raul Chevalier
-Apr 14,home,Borough of Manhattan,W,17-6,17,6,11,win,20230414_s3o1,1,1,0,0,4.0,3,0,0,0.00,0,4,2023,2022-23,div3,Bronx,bronxcommunitycollege,raulchevalier898c,Raul Chevalier
-Apr 18,home,Kingsborough,L,14-4,14,4,10,win,20230418_svy6,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div3,Bronx,bronxcommunitycollege,raulchevalier898c,Raul Chevalier
-Apr 25,home,Bronx,W,17-3,17,3,14,win,20230425_ziny,0,1,0,0,7.0,9,,,0.00,2,9,2023,2022-23,div3,Bronx,bronxcommunitycollege,raulchevalier898c,Raul Chevalier
-May 5,home,Queensborough,W,10-7,10,7,3,win,20230505_aijt,0,0,0,0,2.0,6,6,5,22.50,4,2,2023,2022-23,div3,Bronx,bronxcommunitycollege,raulchevalier898c,Raul Chevalier
-May 7,home,Queensborough,W,18-3,18,3,15,win,20230507_4u2j,0,0,0,0,1.0,,,,0.00,,1,2023,2022-23,div3,Bronx,bronxcommunitycollege,raulchevalier898c,Raul Chevalier
-May 12,home,Monroe College - Bronx,L,29-18,29,18,11,win,20230512_1b48,0,0,0,0,0.0,0,2,2,INF,1,0,2023,2022-23,div3,Bronx,bronxcommunitycollege,raulchevalier898c,Raul Chevalier
+Mar 18,home,Bergen,L,7-6,7,6,1,win,20230318_oeq2,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div3,Bronx,bronxcommunitycollege,raulchevalier898c,Raul Chevalier
+Mar 21,home,Kingsborough,L,10-8,10,8,2,win,20230321_vezz,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div3,Bronx,bronxcommunitycollege,raulchevalier898c,Raul Chevalier
+Mar 24,home,Kingsborough,L,9-7,9,7,2,win,20230324_y2f3,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div3,Bronx,bronxcommunitycollege,raulchevalier898c,Raul Chevalier
+Mar 26,home,Kingsborough,L,16-2,16,2,14,win,20230326_klng,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div3,Bronx,bronxcommunitycollege,raulchevalier898c,Raul Chevalier
+Mar 30,home,Borough of Manhattan,W,22-3,22,3,19,win,20230330_y035,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div3,Bronx,bronxcommunitycollege,raulchevalier898c,Raul Chevalier
+Mar 31,home,Borough of Manhattan,W,12-7,12,7,5,win,20230331_kn59,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div3,Bronx,bronxcommunitycollege,raulchevalier898c,Raul Chevalier
+Apr 4,home,Nassau,L,7-2,7,2,5,win,20230404_4281,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div3,Bronx,bronxcommunitycollege,raulchevalier898c,Raul Chevalier
+Apr 7,home,Nassau,L,15-2,15,2,13,win,20230407_wszl,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div3,Bronx,bronxcommunitycollege,raulchevalier898c,Raul Chevalier
+Apr 8,home,Nassau,L,12-11,12,11,1,win,20230408_gyiw,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div3,Bronx,bronxcommunitycollege,raulchevalier898c,Raul Chevalier
+Apr 12,home,Brookdale,L,18-5,18,5,13,win,20230412_y6wf,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div3,Bronx,bronxcommunitycollege,raulchevalier898c,Raul Chevalier
+Apr 15,home,Queensborough,L,8-3,8,3,5,win,20230415_71j9,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div3,Bronx,bronxcommunitycollege,raulchevalier898c,Raul Chevalier
+Apr 17,home,Borough of Manhattan,W,7-4,7,4,3,win,20230417_40x9,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div3,Bronx,bronxcommunitycollege,raulchevalier898c,Raul Chevalier
+Apr 17,home,Borough of Manhattan,W,29-13,29,13,16,win,20230417_zadl,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div3,Bronx,bronxcommunitycollege,raulchevalier898c,Raul Chevalier
+Apr 18,home,Monroe College - Bronx,L,10-8,10,8,2,win,20230418_gq5h,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div3,Bronx,bronxcommunitycollege,raulchevalier898c,Raul Chevalier
+Apr 21,home,Monroe College - Bronx,L,11-7,11,7,4,win,20230421_d3d6,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div3,Bronx,bronxcommunitycollege,raulchevalier898c,Raul Chevalier
+Apr 22,home,Monroe College - Bronx,L,9-8,9,8,1,win,20230422_iox1,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div3,Bronx,bronxcommunitycollege,raulchevalier898c,Raul Chevalier
+Apr 22,home,Monroe College - Bronx,L,5-3,5,3,2,win,20230422_gi2k,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div3,Bronx,bronxcommunitycollege,raulchevalier898c,Raul Chevalier
+Apr 28,home,Suffolk County,L,13-7,13,7,6,win,20230428_saqc,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div3,Bronx,bronxcommunitycollege,raulchevalier898c,Raul Chevalier
+May 3,home,Suffolk County,W,6-5,6,5,1,win,20230503_wyr5,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div3,Bronx,bronxcommunitycollege,raulchevalier898c,Raul Chevalier
+May 3,home,Suffolk County,W,7-5,7,5,2,win,20230503_zgrs,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div3,Bronx,bronxcommunitycollege,raulchevalier898c,Raul Chevalier
+May 8,home,Kingsborough,L,14-4,14,4,10,win,20230508_jqk0,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div3,Bronx,bronxcommunitycollege,raulchevalier898c,Raul Chevalier

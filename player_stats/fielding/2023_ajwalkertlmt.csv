@@ -1,12 +1,35 @@
 date,location,opponent,result,score,team_score,opp_score,game_score_diff,game_win_loss,game_id,TC,PO,A,E,FPCT,DP,SBA,RCS,RCS_PCT,PB,CI,season,njcaa_season,njcaa_division,team,team_id,player_id,player_name
-Mar 9,home,Westchester,L,11-1,11,1,10,win,20230309_qwor,0,0,0,0,2.0,,6,3,13.50,3,2,2023,2022-23,div3,Suffolk County,suffolkcc,ajwalkertlmt,AJ Walker
-Mar 16,home,Genesee,L,7-3,7,3,4,win,20230316_ohc3,0,0,0,0,5.1,4,7,4,6.75,3,6,2023,2022-23,div3,Suffolk County,suffolkcc,ajwalkertlmt,AJ Walker
-Mar 29,home,Nassau,L,12-1,12,1,11,win,20230329_0bpr,0,0,0,0,2.0,6,8,4,18.00,2,1,2023,2022-23,div3,Suffolk County,suffolkcc,ajwalkertlmt,AJ Walker
-Apr 4,home,Monroe College - Bronx,W,8-6,8,6,2,win,20230404_yg4o,0,1,0,0,7.0,6,3,1,1.29,2,3,2023,2022-23,div3,Suffolk County,suffolkcc,ajwalkertlmt,AJ Walker
-Apr 8,home,Monroe College - Bronx,W,15-5,15,5,10,win,20230408_1lp1,0,0,0,0,2.1,2,,,0.00,,1,2023,2022-23,div3,Suffolk County,suffolkcc,ajwalkertlmt,AJ Walker
-Apr 14,home,Borough of Manhattan,W,17-6,17,6,11,win,20230414_s3o1,1,1,0,0,4.0,3,0,0,0.00,0,4,2023,2022-23,div3,Suffolk County,suffolkcc,ajwalkertlmt,AJ Walker
+Mar 9,home,Westchester,L,11-1,11,1,10,win,20230309_qwor,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div3,Suffolk County,suffolkcc,ajwalkertlmt,AJ Walker
+Mar 16,home,Genesee,L,7-3,7,3,4,win,20230316_ohc3,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div3,Suffolk County,suffolkcc,ajwalkertlmt,AJ Walker
+Mar 16,home,Genesee,L,11-0,11,0,11,win,20230316_pxvo,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div3,Suffolk County,suffolkcc,ajwalkertlmt,AJ Walker
+Mar 17,home,Hagerstown,L,10-6,10,6,4,win,20230317_kzti,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div3,Suffolk County,suffolkcc,ajwalkertlmt,AJ Walker
+Mar 17,home,Genesee,L,11-8,11,8,3,win,20230317_bb84,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div3,Suffolk County,suffolkcc,ajwalkertlmt,AJ Walker
+Mar 18,home,Hagerstown,W,10-6,10,6,4,win,20230318_xgul,1,1,0,0,5.0,0,2,0,0.00,5,5,2023,2022-23,div3,Suffolk County,suffolkcc,ajwalkertlmt,AJ Walker
+Mar 29,home,Nassau,L,12-1,12,1,11,win,20230329_0bpr,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div3,Suffolk County,suffolkcc,ajwalkertlmt,AJ Walker
+Mar 31,home,Nassau,W,14-8,14,8,6,win,20230331_pyex,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div3,Suffolk County,suffolkcc,ajwalkertlmt,AJ Walker
+Apr 2,home,Nassau,W,4-3,4,3,1,win,20230402_ws93,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div3,Suffolk County,suffolkcc,ajwalkertlmt,AJ Walker
+Apr 2,home,Nassau,W,11-1,11,1,10,win,20230402_ma89,1,1,0,0,5.0,0,1,1,1.80,3,5,2023,2022-23,div3,Suffolk County,suffolkcc,ajwalkertlmt,AJ Walker
+Apr 4,home,Monroe College - Bronx,W,8-6,8,6,2,win,20230404_yg4o,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div3,Suffolk County,suffolkcc,ajwalkertlmt,AJ Walker
+Apr 7,home,Monroe College - Bronx,L,10-9,10,9,1,win,20230407_71p2,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div3,Suffolk County,suffolkcc,ajwalkertlmt,AJ Walker
+Apr 8,home,Monroe College - Bronx,W,15-5,15,5,10,win,20230408_1lp1,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div3,Suffolk County,suffolkcc,ajwalkertlmt,AJ Walker
+Apr 8,home,Monroe College - Bronx,W,6-2,6,2,4,win,20230408_usuh,1,1,0,0,7.0,3,2,1,1.29,1,7,2023,2022-23,div3,Suffolk County,suffolkcc,ajwalkertlmt,AJ Walker
+Apr 11,home,Borough of Manhattan,W,32-3,32,3,29,win,20230411_4jgi,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div3,Suffolk County,suffolkcc,ajwalkertlmt,AJ Walker
+Apr 14,home,Borough of Manhattan,W,17-6,17,6,11,win,20230414_s3o1,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div3,Suffolk County,suffolkcc,ajwalkertlmt,AJ Walker
+Apr 15,home,Borough of Manhattan,W,12-0,12,0,12,win,20230415_4bt1,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div3,Suffolk County,suffolkcc,ajwalkertlmt,AJ Walker
+Apr 16,home,Brookdale,L,6-1,6,1,5,win,20230416_37re,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div3,Suffolk County,suffolkcc,ajwalkertlmt,AJ Walker
+Apr 16,home,Brookdale,L,10-6,10,6,4,win,20230416_3kpl,1,0,0,0,5.1,0,5,4,6.75,4,0,2023,2022-23,div3,Suffolk County,suffolkcc,ajwalkertlmt,AJ Walker
 Apr 18,home,Kingsborough,L,14-4,14,4,10,win,20230418_svy6,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div3,Suffolk County,suffolkcc,ajwalkertlmt,AJ Walker
-Apr 25,home,Bronx,W,17-3,17,3,14,win,20230425_ziny,0,1,0,0,7.0,9,,,0.00,2,9,2023,2022-23,div3,Suffolk County,suffolkcc,ajwalkertlmt,AJ Walker
-May 5,home,Queensborough,W,10-7,10,7,3,win,20230505_aijt,0,0,0,0,2.0,6,6,5,22.50,4,2,2023,2022-23,div3,Suffolk County,suffolkcc,ajwalkertlmt,AJ Walker
-May 7,home,Queensborough,W,18-3,18,3,15,win,20230507_4u2j,0,0,0,0,1.0,,,,0.00,,1,2023,2022-23,div3,Suffolk County,suffolkcc,ajwalkertlmt,AJ Walker
-May 12,home,Monroe College - Bronx,L,29-18,29,18,11,win,20230512_1b48,0,0,0,0,0.0,0,2,2,INF,1,0,2023,2022-23,div3,Suffolk County,suffolkcc,ajwalkertlmt,AJ Walker
+Apr 21,home,Kingsborough,W,14-6,14,6,8,win,20230421_m2j2,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div3,Suffolk County,suffolkcc,ajwalkertlmt,AJ Walker
+Apr 22,home,Kingsborough,L,6-5,6,5,1,win,20230422_2qmd,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div3,Suffolk County,suffolkcc,ajwalkertlmt,AJ Walker
+Apr 22,home,Kingsborough,W,9-8,9,8,1,win,20230422_yyjl,1,0,0,0,6.1,5,7,6,8.53,5,6,2023,2022-23,div3,Suffolk County,suffolkcc,ajwalkertlmt,AJ Walker
+Apr 25,home,Bronx,W,17-3,17,3,14,win,20230425_ziny,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div3,Suffolk County,suffolkcc,ajwalkertlmt,AJ Walker
+Apr 28,home,Bronx,W,13-7,13,7,6,win,20230428_saqc,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div3,Suffolk County,suffolkcc,ajwalkertlmt,AJ Walker
+May 2,home,Queensborough,W,15-1,15,1,14,win,20230502_3ng6,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div3,Suffolk County,suffolkcc,ajwalkertlmt,AJ Walker
+May 3,home,Bronx,L,6-5,6,5,1,win,20230503_wyr5,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div3,Suffolk County,suffolkcc,ajwalkertlmt,AJ Walker
+May 3,home,Bronx,L,7-5,7,5,2,win,20230503_zgrs,1,0,0,0,1.2,2,5,5,27.00,4,0,2023,2022-23,div3,Suffolk County,suffolkcc,ajwalkertlmt,AJ Walker
+May 5,home,Queensborough,W,10-7,10,7,3,win,20230505_aijt,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div3,Suffolk County,suffolkcc,ajwalkertlmt,AJ Walker
+May 7,home,Queensborough,W,19-0,19,0,19,win,20230507_n4gf,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div3,Suffolk County,suffolkcc,ajwalkertlmt,AJ Walker
+May 7,home,Queensborough,W,18-3,18,3,15,win,20230507_4u2j,1,1,0,0,3.0,2,3,0,0.00,1,2,2023,2022-23,div3,Suffolk County,suffolkcc,ajwalkertlmt,AJ Walker
+May 11,home,Kingsborough,L,14-7,14,7,7,win,20230511_mvtt,1,0,1,0,0.1,2,0,0,0.00,3,0,2023,2022-23,div3,Suffolk County,suffolkcc,ajwalkertlmt,AJ Walker
+May 12,home,Nassau,W,10-6,10,6,4,win,20230512_3n5x,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div3,Suffolk County,suffolkcc,ajwalkertlmt,AJ Walker
+May 12,home,Monroe College - Bronx,L,29-18,29,18,11,win,20230512_1b48,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div3,Suffolk County,suffolkcc,ajwalkertlmt,AJ Walker

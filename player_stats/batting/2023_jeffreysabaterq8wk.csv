@@ -1,38 +1,32 @@
 date,location,opponent,result,score,team_score,opp_score,game_score_diff,game_win_loss,game_id,AB,R,H,2B,3B,HR,RBI,BB,K,SB,CS,HBP,SF,SH,TB,XBH,HDP,GO,FO,GO/FO,PA,season,njcaa_season,njcaa_division,team,team_id,player_id,player_name
-Mar 4,home,Westmoreland,W,4-1,4,1,3,win,20230304_rc8r,3,1,1,,,,0,,2,1,,1,,,1,0,,,,,4,2023,2022-23,div3,Northampton,northamptoncommunitycollege,jeffreysabaterq8wk,Jeffrey Sabater
-Mar 4,home,Westmoreland,W,8-3,8,3,5,win,20230304_ss67,4,2,2,1,,,1,,,,,,,,3,1,,,2,,4,2023,2022-23,div3,Northampton,northamptoncommunitycollege,jeffreysabaterq8wk,Jeffrey Sabater
-Mar 5,home,Westmoreland,W,15-4,15,4,11,win,20230305_igtn,2,2,2,,1,,0,,,1,,,,,4,1,,,,,2,2023,2022-23,div3,Northampton,northamptoncommunitycollege,jeffreysabaterq8wk,Jeffrey Sabater
-Mar 5,home,Westmoreland,W,16-0,16,0,16,win,20230305_5fj6,4,1,2,,1,,2,,1,,,1,,,4,1,,1,,,5,2023,2022-23,div3,Northampton,northamptoncommunitycollege,jeffreysabaterq8wk,Jeffrey Sabater
-Mar 10,home,Cecil,W,7-3,7,3,4,win,20230310_uxip,4,1,1,1,,,1,,1,1,,,,,2,1,,1,1,1.00,4,2023,2022-23,div3,Northampton,northamptoncommunitycollege,jeffreysabaterq8wk,Jeffrey Sabater
-Mar 10,home,Cecil,W,5-3,5,3,2,win,20230310_81n3,3,1,1,,,,0,1,1,1,,,,,1,0,,,1,,4,2023,2022-23,div3,Northampton,northamptoncommunitycollege,jeffreysabaterq8wk,Jeffrey Sabater
-Mar 13,home,Montgomery County,W,11-5,11,5,6,win,20230313_u48f,4,1,2,,,,0,1,,2,,,,,2,0,,1,1,1.00,5,2023,2022-23,div3,Northampton,northamptoncommunitycollege,jeffreysabaterq8wk,Jeffrey Sabater
-Mar 14,home,Susquehanna University JV,W,2-1,2,1,1,win,20230314_goqn,2,0,1,,,,0,,,1,,1,,,1,0,,,1,,3,2023,2022-23,div3,Northampton,northamptoncommunitycollege,jeffreysabaterq8wk,Jeffrey Sabater
-Mar 14,home,Clark State,W,18-14,18,14,4,win,20230314_a98u,5,2,2,1,,,4,,1,,,,,,3,1,,,,,5,2023,2022-23,div3,Northampton,northamptoncommunitycollege,jeffreysabaterq8wk,Jeffrey Sabater
-Mar 15,home,Brookdale,W,12-1,12,1,11,win,20230315_2nqc,2,2,2,1,,,1,1,,1,,1,,,3,1,,,,,4,2023,2022-23,div3,Northampton,northamptoncommunitycollege,jeffreysabaterq8wk,Jeffrey Sabater
-Mar 16,home,Virginia Peninsula,W,12-3,12,3,9,win,20230316_49dq,4,2,3,2,0,0,2,1,0,2,1,0,0,0,5,2,,0,,,5,2023,2022-23,div3,Northampton,northamptoncommunitycollege,jeffreysabaterq8wk,Jeffrey Sabater
-Mar 21,home,Jefferson (NY),W,7-6,7,6,1,win,20230321_fsly,3,1,1,,,,0,2,,2,,,,,1,0,,,2,,5,2023,2022-23,div3,Northampton,northamptoncommunitycollege,jeffreysabaterq8wk,Jeffrey Sabater
-Mar 21,home,Jefferson (NY),W,23-1,23,1,22,win,20230321_6y7l,1,3,0,,,,1,2,,,,,,,0,0,,1,,,3,2023,2022-23,div3,Northampton,northamptoncommunitycollege,jeffreysabaterq8wk,Jeffrey Sabater
-Mar 26,home,SUNY Broome,W,16-2,16,2,14,win,20230326_b0hg,4,2,2,2,,,2,,1,1,,,,,4,2,,1,,,4,2023,2022-23,div3,Northampton,northamptoncommunitycollege,jeffreysabaterq8wk,Jeffrey Sabater
-Mar 26,home,SUNY Broome,W,16-6,16,6,10,win,20230326_gamj,5,3,3,2,,,3,,2,1,,,,,5,2,,,,,5,2023,2022-23,div3,Northampton,northamptoncommunitycollege,jeffreysabaterq8wk,Jeffrey Sabater
-Mar 27,home,SUNY Broome,W,24-2,24,2,22,win,20230327_l0oa,4,2,3,2,,,5,,,,,,,,5,2,,1,,,4,2023,2022-23,div3,Northampton,northamptoncommunitycollege,jeffreysabaterq8wk,Jeffrey Sabater
-Mar 30,home,Niagara County,W,4-3,4,3,1,win,20230330_zedl,4,0,0,,,,0,,4,,,,,,0,0,,,,,4,2023,2022-23,div3,Northampton,northamptoncommunitycollege,jeffreysabaterq8wk,Jeffrey Sabater
-Apr 2,home,Erie,W,4-1,4,1,3,win,20230402_kxui,3,2,3,,,,1,,,2,1,,,,3,0,,,,,3,2023,2022-23,div3,Northampton,northamptoncommunitycollege,jeffreysabaterq8wk,Jeffrey Sabater
-Apr 8,home,Onondaga,W,6-1,6,1,5,win,20230408_hr7j,4,1,2,,,,1,,,1,,,,,2,0,,,1,,4,2023,2022-23,div3,Northampton,northamptoncommunitycollege,jeffreysabaterq8wk,Jeffrey Sabater
-Apr 8,home,Onondaga,W,8-3,8,3,5,win,20230408_l9eu,4,1,1,,,,1,,1,2,,1,,,1,0,,1,1,1.00,5,2023,2022-23,div3,Northampton,northamptoncommunitycollege,jeffreysabaterq8wk,Jeffrey Sabater
-Apr 13,home,Onondaga,W,16-11,16,11,5,win,20230413_ccos,3,1,2,1,,,2,1,1,1,,,,,3,1,,,,,4,2023,2022-23,div3,Northampton,northamptoncommunitycollege,jeffreysabaterq8wk,Jeffrey Sabater
-Apr 13,home,Onondaga,W,10-3,10,3,7,win,20230413_c4ie,5,1,2,1,,,0,,,,,,,,3,1,1,2,1,2.00,5,2023,2022-23,div3,Northampton,northamptoncommunitycollege,jeffreysabaterq8wk,Jeffrey Sabater
-Apr 15,home,Tompkins Cortland,W,14-3,14,3,11,win,20230415_z7ng,2,2,0,,,,0,1,1,1,,1,,,0,0,,1,,,4,2023,2022-23,div3,Northampton,northamptoncommunitycollege,jeffreysabaterq8wk,Jeffrey Sabater
-Apr 15,home,Tompkins Cortland,W,8-1,8,1,7,win,20230415_tj0e,5,1,1,,,,1,,,,,,,,1,0,,2,2,1.00,5,2023,2022-23,div3,Northampton,northamptoncommunitycollege,jeffreysabaterq8wk,Jeffrey Sabater
-Apr 16,home,Tompkins Cortland,W,4-0,4,0,4,win,20230416_f55o,4,1,2,1,,,1,,,2,,,,,3,1,,1,1,1.00,4,2023,2022-23,div3,Northampton,northamptoncommunitycollege,jeffreysabaterq8wk,Jeffrey Sabater
-Apr 16,home,Tompkins Cortland,W,7-0,7,0,7,win,20230416_ot2k,3,0,0,,,,0,,1,,,1,,,0,0,,1,1,1.00,4,2023,2022-23,div3,Northampton,northamptoncommunitycollege,jeffreysabaterq8wk,Jeffrey Sabater
-Apr 20,home,Jamestown,W,9-4,9,4,5,win,20230420_vcni,4,2,2,,,,0,,1,2,,,,,2,0,,,1,,4,2023,2022-23,div3,Northampton,northamptoncommunitycollege,jeffreysabaterq8wk,Jeffrey Sabater
-Apr 23,home,Genesee,W,9-7,9,7,2,win,20230423_k6ub,5,1,4,,,,2,,,1,,,,,4,0,,1,,,5,2023,2022-23,div3,Northampton,northamptoncommunitycollege,jeffreysabaterq8wk,Jeffrey Sabater
-Apr 23,home,Genesee,W,10-8,10,8,2,win,20230423_geyo,4,0,2,,,,1,1,1,,1,,,,2,0,,,1,,5,2023,2022-23,div3,Northampton,northamptoncommunitycollege,jeffreysabaterq8wk,Jeffrey Sabater
-Apr 25,home,Jamestown,W,10-2,10,2,8,win,20230425_38y3,2,3,0,,,,0,2,,3,,1,,,0,0,,1,1,1.00,5,2023,2022-23,div3,Northampton,northamptoncommunitycollege,jeffreysabaterq8wk,Jeffrey Sabater
-Apr 25,home,Jamestown,W,13-3,13,3,10,win,20230425_dmnq,4,3,2,2,,,1,,,1,,,,,4,2,,,1,,4,2023,2022-23,div3,Northampton,northamptoncommunitycollege,jeffreysabaterq8wk,Jeffrey Sabater
-Apr 26,home,Utica College JV,W,10-0,10,0,10,win,20230426_pirg,1,2,1,,,,0,3,,2,,1,,,1,0,,,,,5,2023,2022-23,div3,Northampton,northamptoncommunitycollege,jeffreysabaterq8wk,Jeffrey Sabater
-Apr 29,home,Corning,W,10-0,10,0,10,win,20230429_2tvb,2,1,2,,,,0,,,2,,1,,,2,0,,,,,3,2023,2022-23,div3,Northampton,northamptoncommunitycollege,jeffreysabaterq8wk,Jeffrey Sabater
-May 2,home,Monroe CC,W,4-3,4,3,1,win,20230502_pzgg,3,0,0,,,,0,,1,,,,,,0,0,,,2,,3,2023,2022-23,div3,Northampton,northamptoncommunitycollege,jeffreysabaterq8wk,Jeffrey Sabater
-May 4,home,Monroe CC,W,14-2,14,2,12,win,20230504_n8z6,2,2,0,,,,1,3,1,,,,,,0,0,,1,,,5,2023,2022-23,div3,Northampton,northamptoncommunitycollege,jeffreysabaterq8wk,Jeffrey Sabater
-May 6,home,Corning,W,9-3,9,3,6,win,20230506_wo2a,4,1,2,1,,,2,,,2,,,,,3,1,,1,1,1.00,4,2023,2022-23,div3,Northampton,northamptoncommunitycollege,jeffreysabaterq8wk,Jeffrey Sabater
-May 6,home,Corning,W,11-1,11,1,10,win,20230506_r7g2,3,1,1,1,,,2,,1,,,,,,2,1,,1,,,3,2023,2022-23,div3,Northampton,northamptoncommunitycollege,jeffreysabaterq8wk,Jeffrey Sabater
+Feb 26,home,Atlantic Cape,W,7-0,7,0,7,win,20230226_f7o3,3,2,2,,,,2,1,,1,,,,,2,0,,,,,4,2023,2022-23,div3,Northampton,northamptoncommunitycollege,jeffreysabaterq8wk,Jeffrey Sabater
+Feb 26,home,Atlantic Cape,W,2-1,2,1,1,win,20230226_x5fe,4,0,1,,,,0,,3,1,,,,,1,0,,,,,4,2023,2022-23,div3,Northampton,northamptoncommunitycollege,jeffreysabaterq8wk,Jeffrey Sabater
+Mar 4,home,DuPage,W,11-10,11,10,1,win,20230304_bc4i,3,2,2,,,1,3,,,1,,1,,,5,1,,,,,4,2023,2022-23,div3,Northampton,northamptoncommunitycollege,jeffreysabaterq8wk,Jeffrey Sabater
+Mar 4,home,Bay College,W,12-0,12,0,12,win,20230304_syoo,3,2,2,,1,,0,,1,2,,,,,4,1,,,,,3,2023,2022-23,div3,Northampton,northamptoncommunitycollege,jeffreysabaterq8wk,Jeffrey Sabater
+Mar 5,home,Danville Area,W,4-0,4,0,4,win,20230305_nv1b,4,2,3,,,,0,,,2,,,,,3,0,,,,,4,2023,2022-23,div3,Northampton,northamptoncommunitycollege,jeffreysabaterq8wk,Jeffrey Sabater
+Mar 5,home,Penn State - Dubois,W,4-3,4,3,1,win,20230305_9liy,3,2,2,,1,,0,,,,,1,,,4,1,,,,,4,2023,2022-23,div3,Northampton,northamptoncommunitycollege,jeffreysabaterq8wk,Jeffrey Sabater
+Mar 7,home,Monroe CC,W,11-5,11,5,6,win,20230307_2ozo,1,2,1,,,,2,1,,,,,,,1,0,,,,,2,2023,2022-23,div3,Northampton,northamptoncommunitycollege,jeffreysabaterq8wk,Jeffrey Sabater
+Mar 7,home,Monroe CC,W,9-5,9,5,4,win,20230307_fxt6,2,2,0,,,,0,3,2,1,,,,,0,0,,,,,5,2023,2022-23,div3,Northampton,northamptoncommunitycollege,jeffreysabaterq8wk,Jeffrey Sabater
+Mar 8,home,Rochester,W,17-10,17,10,7,win,20230308_e94o,6,3,4,,,,3,,,1,,,,,4,0,,2,,,6,2023,2022-23,div3,Northampton,northamptoncommunitycollege,jeffreysabaterq8wk,Jeffrey Sabater
+Mar 8,home,Bryant & Stratton (OH),W,6-1,6,1,5,win,20230308_i6np,3,1,0,,,,0,1,,1,1,,,,0,0,,,,,4,2023,2022-23,div3,Northampton,northamptoncommunitycollege,jeffreysabaterq8wk,Jeffrey Sabater
+Mar 28,home,Middlesex College,W,6-5,6,5,1,win,20230328_vm0i,5,1,1,,,,0,,1,1,,,,,1,0,,,,,5,2023,2022-23,div3,Northampton,northamptoncommunitycollege,jeffreysabaterq8wk,Jeffrey Sabater
+Mar 29,home,Middlesex College,W,5-3,5,3,2,win,20230329_7rt7,2,2,2,,,1,2,2,,2,,,,,5,1,,,,,4,2023,2022-23,div3,Northampton,northamptoncommunitycollege,jeffreysabaterq8wk,Jeffrey Sabater
+Apr 4,home,Brookdale,W,10-2,10,2,8,win,20230404_zyp8,3,1,0,,,,0,1,2,,,,,,0,0,,,,,4,2023,2022-23,div3,Northampton,northamptoncommunitycollege,jeffreysabaterq8wk,Jeffrey Sabater
+Apr 4,home,Brookdale,W,11-8,11,8,3,win,20230404_bi2j,3,3,3,,,,1,1,,1,1,,,,3,0,,,,,4,2023,2022-23,div3,Northampton,northamptoncommunitycollege,jeffreysabaterq8wk,Jeffrey Sabater
+Apr 5,home,Bucks County Community College,W,11-6,11,6,5,win,20230405_eops,5,2,1,,,,0,1,1,2,,,,,1,0,,,,,6,2023,2022-23,div3,Northampton,northamptoncommunitycollege,jeffreysabaterq8wk,Jeffrey Sabater
+Apr 11,home,Camden County,W,8-3,8,3,5,win,20230411_qu24,4,3,3,1,,,1,,1,,,,,,4,1,,,,,4,2023,2022-23,div3,Northampton,northamptoncommunitycollege,jeffreysabaterq8wk,Jeffrey Sabater
+Apr 12,home,Raritan Valley,W,22-11,22,11,11,win,20230412_2m7c,3,4,3,,2,,1,1,,,,,,,7,2,,,,,4,2023,2022-23,div3,Northampton,northamptoncommunitycollege,jeffreysabaterq8wk,Jeffrey Sabater
+Apr 18,home,Lehigh Carbon,W,13-9,13,9,4,win,20230418_rhhq,6,3,3,1,1,,3,,,,,,,,6,2,,,,,6,2023,2022-23,div3,Northampton,northamptoncommunitycollege,jeffreysabaterq8wk,Jeffrey Sabater
+Apr 23,home,Atlantic Cape,W,11-1,11,1,10,win,20230423_23gg,4,1,1,,,,0,1,,,1,,,,1,0,,,,,5,2023,2022-23,div3,Northampton,northamptoncommunitycollege,jeffreysabaterq8wk,Jeffrey Sabater
+Apr 25,home,Bucks County Community College,W,13-3,13,3,10,win,20230425_9ioc,3,3,1,,,,0,2,,2,,,,,1,0,,,,,5,2023,2022-23,div3,Northampton,northamptoncommunitycollege,jeffreysabaterq8wk,Jeffrey Sabater
+Apr 26,home,Raritan Valley,W,19-5,19,5,14,win,20230426_mx6o,4,3,3,1,,,2,,,1,,1,,,4,1,,,,,5,2023,2022-23,div3,Northampton,northamptoncommunitycollege,jeffreysabaterq8wk,Jeffrey Sabater
+May 3,home,Ocean County,W,7-1,7,1,6,win,20230503_tr2q,4,1,2,,,,1,,,1,,,,,2,0,,,,,4,2023,2022-23,div3,Northampton,northamptoncommunitycollege,jeffreysabaterq8wk,Jeffrey Sabater
+May 5,home,Bergen,W,5-3,5,3,2,win,20230505_iid3,4,0,0,,,,1,,1,,,1,,,0,0,,,,,5,2023,2022-23,div3,Northampton,northamptoncommunitycollege,jeffreysabaterq8wk,Jeffrey Sabater
+May 6,home,Bergen,W,7-6,7,6,1,win,20230506_qvwb,4,0,1,,,,0,,1,2,,,,,1,0,,,,,4,2023,2022-23,div3,Northampton,northamptoncommunitycollege,jeffreysabaterq8wk,Jeffrey Sabater
+May 6,home,Bergen,W,13-4,13,4,9,win,20230506_dofw,2,2,1,,1,,3,1,,1,,,,,3,1,,,,,3,2023,2022-23,div3,Northampton,northamptoncommunitycollege,jeffreysabaterq8wk,Jeffrey Sabater
+May 7,home,Montgomery County,W,7-4,7,4,3,win,20230507_levb,4,2,3,2,,,0,,,,,,,,5,2,,,,,4,2023,2022-23,div3,Northampton,northamptoncommunitycollege,jeffreysabaterq8wk,Jeffrey Sabater
+May 7,home,Montgomery County,W,18-9,18,9,9,win,20230507_qvpk,3,1,2,,,,1,,,,,,,,2,0,,,,,3,2023,2022-23,div3,Northampton,northamptoncommunitycollege,jeffreysabaterq8wk,Jeffrey Sabater
+May 8,home,Ocean County,W,18-4,18,4,14,win,20230508_4x8f,5,3,4,,1,,3,,1,2,,,,,6,1,,,,,5,2023,2022-23,div3,Northampton,northamptoncommunitycollege,jeffreysabaterq8wk,Jeffrey Sabater
+May 13,home,RCSJ Cumberland,W,5-1,5,1,4,win,20230513_iima,5,1,2,1,,,2,,,1,,,,,3,1,,,,,5,2023,2022-23,div3,Northampton,northamptoncommunitycollege,jeffreysabaterq8wk,Jeffrey Sabater
+May 13,home,RCSJ Cumberland,W,13-1,13,1,12,win,20230513_wlnr,3,2,1,,,1,3,1,1,,,,,,4,1,,,,,4,2023,2022-23,div3,Northampton,northamptoncommunitycollege,jeffreysabaterq8wk,Jeffrey Sabater
+May 19,home,Middlesex College,W,7-5,7,5,2,win,20230519_a1sc,5,0,0,,,,0,,,,,,,,0,0,,,,,5,2023,2022-23,div3,Northampton,northamptoncommunitycollege,jeffreysabaterq8wk,Jeffrey Sabater

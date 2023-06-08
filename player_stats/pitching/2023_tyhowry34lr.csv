@@ -1,19 +1,15 @@
 date,location,opponent,result,score,team_score,opp_score,game_score_diff,game_win_loss,game_id,GS,W,L,SV,IP,H,R,ER,ERA,BB,K,HR,season,njcaa_season,njcaa_division,team,team_id,player_id,player_name
-May 3,home,North Central Texas,W,8-3,8,3,5,win,20230503_52mi,1,1,0,0,8.0,4,3,3,3.38,3,6,,2023,2022-23,div1,Cisco,ciscocollege,tyhowry34lr,Ty Howry
-Apr 27,home,Vernon,L,10-9,10,9,1,win,20230427_dx5i,0,0,1,0,4.0,2,2,2,4.50,5,2,,2023,2022-23,div1,Cisco,ciscocollege,tyhowry34lr,Ty Howry
-Apr 22,home,Weatherford,L,11-3,11,3,8,win,20230422_cfg5,0,0,0,0,1.1,4,3,3,20.25,2,,,2023,2022-23,div1,Cisco,ciscocollege,tyhowry34lr,Ty Howry
-Apr 19,home,Weatherford,L,6-1,6,1,5,win,20230419_vtt8,0,0,0,0,0.1,,3,3,81.00,4,1,,2023,2022-23,div1,Cisco,ciscocollege,tyhowry34lr,Ty Howry
-Apr 15,home,McLennan,W,10-8,10,8,2,win,20230415_otc7,0,0,0,0,1.1,1,,,0.00,2,2,,2023,2022-23,div1,Cisco,ciscocollege,tyhowry34lr,Ty Howry
-Apr 1,home,Ranger,W,5-4,5,4,1,win,20230401_2isx,0,0,0,0,2.1,3,1,1,3.86,,4,,2023,2022-23,div1,Cisco,ciscocollege,tyhowry34lr,Ty Howry
-Mar 29,home,Ranger,W,9-0,9,0,9,win,20230329_6cqx,0,0,0,0,1.2,2,3,2,10.80,1,2,,2023,2022-23,div1,Cisco,ciscocollege,tyhowry34lr,Ty Howry
-Mar 25,home,Grayson,L,12-11,12,11,1,win,20230325_ycoj,0,0,0,0,0.1,2,3,3,81.00,1,,,2023,2022-23,div1,Cisco,ciscocollege,tyhowry34lr,Ty Howry
-Mar 22,home,Grayson,W,25-23,25,23,2,win,20230322_wjaw,0,0,0,0,2.1,3,3,3,11.57,1,4,,2023,2022-23,div1,Cisco,ciscocollege,tyhowry34lr,Ty Howry
-Mar 18,home,Minnesota Post Grad,W,12-9,12,9,3,win,20230318_a9n4,0,1,0,0,2.2,4,2,2,6.75,2,4,,2023,2022-23,div1,Cisco,ciscocollege,tyhowry34lr,Ty Howry
-Mar 11,home,Temple,L,12-7,12,7,5,win,20230311_jzn8,0,0,0,0,0.0,1,2,2,INF,,,,2023,2022-23,div1,Cisco,ciscocollege,tyhowry34lr,Ty Howry
-Mar 8,home,Temple,L,18-2,18,2,16,win,20230308_90rm,0,0,0,0,2.0,4,7,4,18.00,2,1,,2023,2022-23,div1,Cisco,ciscocollege,tyhowry34lr,Ty Howry
-Mar 4,home,DFW Post Grad,W,8-4,8,4,4,win,20230304_cq6e,0,0,0,0,1.0,,,,0.00,,2,,2023,2022-23,div1,Cisco,ciscocollege,tyhowry34lr,Ty Howry
-Feb 22,home,Howard Payne University,W,12-2,12,2,10,win,20230222_ukvm,1,1,0,0,2.0,2,2,0,0.00,0,1,,2023,2022-23,div1,Cisco,ciscocollege,tyhowry34lr,Ty Howry
-Feb 18,home,State Fair,W,3-0,3,0,3,win,20230218_oowr,0,0,0,0,0.1,,,,0.00,,,,2023,2022-23,div1,Cisco,ciscocollege,tyhowry34lr,Ty Howry
-Feb 15,home,Western Texas,W,21-2,21,2,19,win,20230215_7cfu,0,0,0,0,1.2,,,,0.00,2,2,,2023,2022-23,div1,Cisco,ciscocollege,tyhowry34lr,Ty Howry
-Feb 11,home,Frank Phillips,W,10-4,10,4,6,win,20230211_6eab,0,0,0,0,2.1,1,,,0.00,,1,,2023,2022-23,div1,Cisco,ciscocollege,tyhowry34lr,Ty Howry
-Feb 6,home,Dallas College - Mountain View,W,8-2,8,2,6,win,20230206_e2x2,0,0,0,0,1.0,,,,0.00,,2,,2023,2022-23,div1,Cisco,ciscocollege,tyhowry34lr,Ty Howry
+Apr 27,home,Vernon,L,10-9,10,9,1,win,20230427_dx5i,1,0,0,0,2.0,3,3,2,9.00,2,2,,2023,2022-23,div1,Cisco,ciscocollege,tyhowry34lr,Ty Howry
+Apr 19,home,Weatherford,L,13-3,13,3,10,win,20230419_66pl,1,0,1,0,4.2,5,5,5,9.64,6,1,,2023,2022-23,div1,Cisco,ciscocollege,tyhowry34lr,Ty Howry
+Apr 12,home,McLennan,L,13-3,13,3,10,win,20230412_jhyw,1,0,0,0,1.1,2,4,4,27.00,4,0,,2023,2022-23,div1,Cisco,ciscocollege,tyhowry34lr,Ty Howry
+Apr 5,home,Hill,W,20-12,20,12,8,win,20230405_jty7,1,0,0,0,3.1,5,6,6,16.20,4,6,,2023,2022-23,div1,Cisco,ciscocollege,tyhowry34lr,Ty Howry
+Mar 29,home,Ranger,W,9-0,9,0,9,win,20230329_6cqx,1,0,0,0,4.0,6,5,2,4.50,1,0,,2023,2022-23,div1,Cisco,ciscocollege,tyhowry34lr,Ty Howry
+Mar 22,home,Grayson,W,25-23,25,23,2,win,20230322_wjaw,1,0,0,0,0.1,1,1,1,27.00,1,0,,2023,2022-23,div1,Cisco,ciscocollege,tyhowry34lr,Ty Howry
+Mar 17,home,Dallas College - North Lake,W,9-0,9,0,9,win,20230317_s2e6,1,1,0,0,6.0,1,0,0,0.00,4,6,,2023,2022-23,div1,Cisco,ciscocollege,tyhowry34lr,Ty Howry
+Mar 8,home,Temple,L,18-2,18,2,16,win,20230308_90rm,1,0,1,0,0.1,3,3,3,81.00,2,0,,2023,2022-23,div1,Cisco,ciscocollege,tyhowry34lr,Ty Howry
+Mar 1,home,Clarendon,L,9-3,9,3,6,win,20230301_1561,1,0,1,0,5.1,10,7,6,10.13,1,4,,2023,2022-23,div1,Cisco,ciscocollege,tyhowry34lr,Ty Howry
+Feb 22,home,Howard Payne University,W,14-1,14,1,13,win,20230222_7hqo,1,1,0,0,5.0,2,1,0,0.00,1,5,,2023,2022-23,div1,Cisco,ciscocollege,tyhowry34lr,Ty Howry
+Feb 15,home,Western Texas,W,7-2,7,2,5,win,20230215_ubbr,1,0,0,0,4.0,3,1,1,2.25,2,4,,2023,2022-23,div1,Cisco,ciscocollege,tyhowry34lr,Ty Howry
+Feb 10,home,Frank Phillips,L,7-3,7,3,4,win,20230210_da1a,1,0,0,0,6.0,3,1,0,0.00,1,5,,2023,2022-23,div1,Cisco,ciscocollege,tyhowry34lr,Ty Howry
+Feb 6,home,Dallas College - Mountain View,W,8-2,8,2,6,win,20230206_e2x2,0,0,0,0,2.0,1,1,,0.00,2,5,,2023,2022-23,div1,Cisco,ciscocollege,tyhowry34lr,Ty Howry
+Jan 28,home,Western Texas,W,5-3,5,3,2,win,20230128_fv0f,0,0,0,0,0.0,2,2,2,INF,,,,2023,2022-23,div1,Cisco,ciscocollege,tyhowry34lr,Ty Howry

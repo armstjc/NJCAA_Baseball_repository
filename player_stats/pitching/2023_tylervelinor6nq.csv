@@ -1,12 +1,19 @@
 date,location,opponent,result,score,team_score,opp_score,game_score_diff,game_win_loss,game_id,GS,W,L,SV,IP,H,R,ER,ERA,BB,K,HR,season,njcaa_season,njcaa_division,team,team_id,player_id,player_name
-Apr 18,home,John Melvin University,W,10-1,10,1,9,win,20230418_xfag,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div1,Delgado,delgadocommunitycollege,tylervelinor6nq,Tyler Velino
-Apr 8,home,LSU Eunice,L,11-1,11,1,10,win,20230408_ncxd,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div1,Delgado,delgadocommunitycollege,tylervelinor6nq,Tyler Velino
-Mar 16,home,RCSJ Cumberland,W,5-3,5,3,2,win,20230316_020b,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div1,Delgado,delgadocommunitycollege,tylervelinor6nq,Tyler Velino
-Mar 12,home,Triton,W,8-5,8,5,3,win,20230312_scn1,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div1,Delgado,delgadocommunitycollege,tylervelinor6nq,Tyler Velino
-Mar 4,home,Coastal Alabama - Brewton,W,8-4,8,4,4,win,20230304_wl8y,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div1,Delgado,delgadocommunitycollege,tylervelinor6nq,Tyler Velino
-Feb 26,home,Bryant & Stratton (New York),W,10-4,10,4,6,win,20230226_azug,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div1,Delgado,delgadocommunitycollege,tylervelinor6nq,Tyler Velino
-Feb 25,home,Bryant & Stratton (New York),W,8-1,8,1,7,win,20230225_lbeo,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div1,Delgado,delgadocommunitycollege,tylervelinor6nq,Tyler Velino
-Feb 23,home,Bryant & Stratton (NY),W,16-1,16,1,15,win,20230223_thtd,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div1,Delgado,delgadocommunitycollege,tylervelinor6nq,Tyler Velino
-Feb 12,home,Copiah-Lincoln,W,7-1,7,1,6,win,20230212_cttd,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div1,Delgado,delgadocommunitycollege,tylervelinor6nq,Tyler Velino
-Feb 4,home,Chattahoochee Valley,W,11-5,11,5,6,win,20230204_do7x,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div1,Delgado,delgadocommunitycollege,tylervelinor6nq,Tyler Velino
-Feb 3,home,Meridian,L,12-8,12,8,4,win,20230203_jsk9,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div1,Delgado,delgadocommunitycollege,tylervelinor6nq,Tyler Velino
+May 30,home,(1) Central Florida,L,12-9,12,9,3,win,20230530_n0wq,0,0,0,0,2.0,4,3,2,9.00,0,0,,2023,2022-23,div1,Delgado,delgadocommunitycollege,tylervelinor6nq,Tyler Velino
+May 27,home,Weatherford,L,10-9,10,9,1,win,20230527_fmcv,0,0,0,0,3.0,1,1,1,3.00,1,3,,2023,2022-23,div1,Delgado,delgadocommunitycollege,tylervelinor6nq,Tyler Velino
+May 20,home,Crowder,W,8-5,8,5,3,win,20230520_jga0,0,0,0,0,1.2,3,3,3,16.20,2,2,,2023,2022-23,div1,Delgado,delgadocommunitycollege,tylervelinor6nq,Tyler Velino
+May 5,home,Nunez,W,4-3,4,3,1,win,20230505_fmmo,0,0,0,0,2.2,1,1,1,3.38,2,6,,2023,2022-23,div1,Delgado,delgadocommunitycollege,tylervelinor6nq,Tyler Velino
+Apr 30,home,LSU Eunice,L,5-4,5,4,1,win,20230430_5e3x,0,0,1,0,3.0,3,3,3,9.00,,4,1,2023,2022-23,div1,Delgado,delgadocommunitycollege,tylervelinor6nq,Tyler Velino
+Apr 23,home,Baton Rouge,W,5-4,5,4,1,win,20230423_h4m6,0,1,0,0,3.2,1,,,0.00,,2,,2023,2022-23,div1,Delgado,delgadocommunitycollege,tylervelinor6nq,Tyler Velino
+Apr 17,home,Nunez,W,12-4,12,4,8,win,20230417_yqgb,0,0,0,0,1.0,1,,,0.00,2,2,,2023,2022-23,div1,Delgado,delgadocommunitycollege,tylervelinor6nq,Tyler Velino
+Apr 8,home,LSU Eunice,L,11-1,11,1,10,win,20230408_ncxd,0,0,0,0,1.2,4,3,3,16.20,1,,1,2023,2022-23,div1,Delgado,delgadocommunitycollege,tylervelinor6nq,Tyler Velino
+Apr 8,home,LSU Eunice,L,10-0,10,0,10,win,20230408_96i2,0,0,0,0,0.1,2,3,2,54.00,1,,1,2023,2022-23,div1,Delgado,delgadocommunitycollege,tylervelinor6nq,Tyler Velino
+Apr 2,home,Baton Rouge,W,20-12,20,12,8,win,20230402_8xr1,0,0,0,0,3.0,5,6,5,15.00,2,1,3,2023,2022-23,div1,Delgado,delgadocommunitycollege,tylervelinor6nq,Tyler Velino
+Mar 28,home,Nunez,W,7-6,7,6,1,win,20230328_46xo,0,0,0,0,4.1,6,5,5,10.38,1,,2,2023,2022-23,div1,Delgado,delgadocommunitycollege,tylervelinor6nq,Tyler Velino
+Mar 26,home,Nunez,W,2-1,2,1,1,win,20230326_ber6,0,0,0,0,3.2,2,,,0.00,2,2,,2023,2022-23,div1,Delgado,delgadocommunitycollege,tylervelinor6nq,Tyler Velino
+Mar 16,home,RCSJ Cumberland,W,5-3,5,3,2,win,20230316_020b,1,0,0,0,5.0,7,3,3,5.40,1,4,,2023,2022-23,div1,Delgado,delgadocommunitycollege,tylervelinor6nq,Tyler Velino
+Mar 12,home,Triton,W,8-5,8,5,3,win,20230312_scn1,0,1,0,0,0.2,1,,,0.00,,1,,2023,2022-23,div1,Delgado,delgadocommunitycollege,tylervelinor6nq,Tyler Velino
+Feb 28,home,Copiah-Lincoln,W,20-0,20,0,20,win,20230228_kp6r,1,1,0,0,5.0,2,0,0,0.00,2,3,,2023,2022-23,div1,Delgado,delgadocommunitycollege,tylervelinor6nq,Tyler Velino
+Feb 24,home,Bryant & Stratton (New York),W,4-1,4,1,3,win,20230224_v2n2,0,0,0,1,1.0,1,,,0.00,,1,,2023,2022-23,div1,Delgado,delgadocommunitycollege,tylervelinor6nq,Tyler Velino
+Feb 12,home,Copiah-Lincoln,W,7-1,7,1,6,win,20230212_cttd,0,0,0,0,2.0,1,,,0.00,,2,,2023,2022-23,div1,Delgado,delgadocommunitycollege,tylervelinor6nq,Tyler Velino
+Feb 4,home,San Jacinto,W,7-4,7,4,3,win,20230204_2gxa,0,0,0,1,4.2,3,1,,0.00,2,5,,2023,2022-23,div1,Delgado,delgadocommunitycollege,tylervelinor6nq,Tyler Velino

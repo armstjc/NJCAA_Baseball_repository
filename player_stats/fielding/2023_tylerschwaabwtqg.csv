@@ -1,16 +1,9 @@
 date,location,opponent,result,score,team_score,opp_score,game_score_diff,game_win_loss,game_id,TC,PO,A,E,FPCT,DP,SBA,RCS,RCS_PCT,PB,CI,season,njcaa_season,njcaa_division,team,team_id,player_id,player_name
-Mar 22,home,Cayuga,L,14-9,14,9,5,win,20230322_dcf3,1,0,1,0,3.2,7,10,8,19.64,5,2,2023,2022-23,div3,Anoka-Ramsey,anokaramseycommunitycollege,tylerschwaabwtqg,Tyler Schwaab
-Mar 30,home,Jamestown,L,10-0,10,0,10,win,20230330_pvfd,1,0,1,0,3.1,7,8,7,18.90,3,3,2023,2022-23,div3,Anoka-Ramsey,anokaramseycommunitycollege,tylerschwaabwtqg,Tyler Schwaab
-Apr 2,home,Genesee,L,12-2,12,2,10,win,20230402_60m7,0,0,0,0,0.2,1,,,0.00,,,2023,2022-23,div3,Anoka-Ramsey,anokaramseycommunitycollege,tylerschwaabwtqg,Tyler Schwaab
-Apr 8,home,Corning,W,13-2,13,2,11,win,20230408_m4c3,1,1,0,0,4.0,5,2,1,2.25,1,1,2023,2022-23,div3,Anoka-Ramsey,anokaramseycommunitycollege,tylerschwaabwtqg,Tyler Schwaab
-Apr 11,home,Jamestown,L,22-19,22,19,3,win,20230411_yj89,0,0,0,0,3.0,2,2,1,3.00,1,4,2023,2022-23,div3,Anoka-Ramsey,anokaramseycommunitycollege,tylerschwaabwtqg,Tyler Schwaab
-Apr 13,home,Corning,W,15-5,15,5,10,win,20230413_woot,0,1,0,0,1.2,,,,0.00,1,1,2023,2022-23,div3,Anoka-Ramsey,anokaramseycommunitycollege,tylerschwaabwtqg,Tyler Schwaab
-Apr 13,home,Corning,L,11-8,11,8,3,win,20230413_bdw9,0,0,0,0,0.0,2,1,1,INF,,,2023,2022-23,div3,Anoka-Ramsey,anokaramseycommunitycollege,tylerschwaabwtqg,Tyler Schwaab
-Apr 15,home,Finger Lakes,L,8-1,8,1,7,win,20230415_tj0e,0,0,0,0,0.2,,,,0.00,2,1,2023,2022-23,div3,Anoka-Ramsey,anokaramseycommunitycollege,tylerschwaabwtqg,Tyler Schwaab
-Apr 16,home,Finger Lakes,L,4-0,4,0,4,win,20230416_f55o,0,0,0,0,3.0,2,1,1,3.00,1,1,2023,2022-23,div3,Anoka-Ramsey,anokaramseycommunitycollege,tylerschwaabwtqg,Tyler Schwaab
-May 2,home,Genesee,L,18-8,18,8,10,win,20230502_g6v2,0,0,0,0,1.2,4,9,6,32.40,,1,2023,2022-23,div3,Anoka-Ramsey,anokaramseycommunitycollege,tylerschwaabwtqg,Tyler Schwaab
-May 2,home,Genesee,L,13-3,13,3,10,win,20230502_pt03,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div3,Anoka-Ramsey,anokaramseycommunitycollege,tylerschwaabwtqg,Tyler Schwaab
-May 5,home,Erie,L,7-4,7,4,3,win,20230505_u7j1,0,0,0,0,1.2,,,,0.00,1,2,2023,2022-23,div3,Anoka-Ramsey,anokaramseycommunitycollege,tylerschwaabwtqg,Tyler Schwaab
-May 6,home,Onondaga,L,13-3,13,3,10,win,20230506_r9v9,1,0,1,0,4.0,12,9,9,20.25,6,6,2023,2022-23,div3,Anoka-Ramsey,anokaramseycommunitycollege,tylerschwaabwtqg,Tyler Schwaab
-May 7,home,Onondaga,W,6-2,6,2,4,win,20230507_erie,0,0,0,0,0.1,,,,0.00,1,,2023,2022-23,div3,Anoka-Ramsey,anokaramseycommunitycollege,tylerschwaabwtqg,Tyler Schwaab
-May 9,home,Erie,L,10-2,10,2,8,win,20230509_wvf4,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div3,Anoka-Ramsey,anokaramseycommunitycollege,tylerschwaabwtqg,Tyler Schwaab
+Mar 14,home,Whalley Chiefs Baseball,W,12-4,12,4,8,win,20230314_fch0,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div3,Anoka-Ramsey,anokaramseycommunitycollege,tylerschwaabwtqg,Tyler Schwaab
+Mar 15,home,Whalley Chiefs Baseball,L,8-2,8,2,6,win,20230315_ozlb,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div3,Anoka-Ramsey,anokaramseycommunitycollege,tylerschwaabwtqg,Tyler Schwaab
+Mar 19,home,Minnesota North College - Itasca,L,2-0,2,0,2,win,20230319_spzy,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div3,Anoka-Ramsey,anokaramseycommunitycollege,tylerschwaabwtqg,Tyler Schwaab
+Apr 8,home,Minnesota North College - Rainy River,L,5-3,5,3,2,win,20230408_gvtu,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div3,Anoka-Ramsey,anokaramseycommunitycollege,tylerschwaabwtqg,Tyler Schwaab
+Apr 8,home,Minnesota North College - Rainy River,L,4-1,4,1,3,win,20230408_o4ar,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div3,Anoka-Ramsey,anokaramseycommunitycollege,tylerschwaabwtqg,Tyler Schwaab
+Apr 30,home,Minnesota State,W,24-0,24,0,24,win,20230430_326h,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div3,Anoka-Ramsey,anokaramseycommunitycollege,tylerschwaabwtqg,Tyler Schwaab
+Apr 30,home,Minnesota State,L,15-14,15,14,1,win,20230430_4vno,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div3,Anoka-Ramsey,anokaramseycommunitycollege,tylerschwaabwtqg,Tyler Schwaab
+May 5,home,Ridgewater,W,5-1,5,1,4,win,20230505_r3sa,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div3,Anoka-Ramsey,anokaramseycommunitycollege,tylerschwaabwtqg,Tyler Schwaab

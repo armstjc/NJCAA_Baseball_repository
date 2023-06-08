@@ -1,10 +1,17 @@
 date,location,opponent,result,score,team_score,opp_score,game_score_diff,game_win_loss,game_id,TC,PO,A,E,FPCT,DP,SBA,RCS,RCS_PCT,PB,CI,season,njcaa_season,njcaa_division,team,team_id,player_id,player_name
-Feb 6,home,Jones,L,10-6,10,6,4,win,20230206_2o4x,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Shelton State,sheltonstatecommunitycollege,javonchristianfkcj,Javon Christian
-Feb 12,home,Tallahassee,L,6-3,6,3,3,win,20230212_qd5c,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Shelton State,sheltonstatecommunitycollege,javonchristianfkcj,Javon Christian
-Feb 13,home,Tallahassee,L,12-2,12,2,10,win,20230213_bfqx,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Shelton State,sheltonstatecommunitycollege,javonchristianfkcj,Javon Christian
-Feb 18,home,Dyersburg State,W,9-0,9,0,9,win,20230218_hshb,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Shelton State,sheltonstatecommunitycollege,javonchristianfkcj,Javon Christian
-Feb 19,home,Dyersburg State,W,13-12,13,12,1,win,20230219_jxwm,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Shelton State,sheltonstatecommunitycollege,javonchristianfkcj,Javon Christian
-Feb 19,home,Dyersburg State,L,6-5,6,5,1,win,20230219_t4s1,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Shelton State,sheltonstatecommunitycollege,javonchristianfkcj,Javon Christian
-Mar 2,home,Northwest Florida State,L,13-1,13,1,12,win,20230302_m88a,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Shelton State,sheltonstatecommunitycollege,javonchristianfkcj,Javon Christian
-Mar 3,home,Northwest Florida State,L,10-4,10,4,6,win,20230303_1ekn,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Shelton State,sheltonstatecommunitycollege,javonchristianfkcj,Javon Christian
-Mar 4,home,Northwest Florida State,L,4-3,4,3,1,win,20230304_8gzx,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Shelton State,sheltonstatecommunitycollege,javonchristianfkcj,Javon Christian
+Feb 6,home,Jones,W,6-5,6,5,1,win,20230206_snsv,0,1,0,0,1.0,2,,,0.00,,1,2023,2022-23,div1,Shelton State,sheltonstatecommunitycollege,javonchristianfkcj,Javon Christian
+Feb 12,home,Tallahassee,L,6-3,6,3,3,win,20230212_qd5c,0,0,0,0,2.0,4,4,,0.00,,1,2023,2022-23,div1,Shelton State,sheltonstatecommunitycollege,javonchristianfkcj,Javon Christian
+Feb 13,home,Tallahassee,L,12-2,12,2,10,win,20230213_bfqx,0,0,0,0,1.0,,,,0.00,,,2023,2022-23,div1,Shelton State,sheltonstatecommunitycollege,javonchristianfkcj,Javon Christian
+Feb 24,home,East Mississippi,L,6-4,6,4,2,win,20230224_vm1e,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Shelton State,sheltonstatecommunitycollege,javonchristianfkcj,Javon Christian
+Mar 4,home,Northwest Florida State,L,4-3,4,3,1,win,20230304_8gzx,0,0,1,0,0.1,2,3,3,81.00,1,1,2023,2022-23,div1,Shelton State,sheltonstatecommunitycollege,javonchristianfkcj,Javon Christian
+Mar 6,home,Wallace-Selma,L,6-5,6,5,1,win,20230306_yxvl,0,0,1,0,3.2,2,3,1,2.45,2,2,2023,2022-23,div1,Shelton State,sheltonstatecommunitycollege,javonchristianfkcj,Javon Christian
+Mar 11,home,Central Alabama,L,7-1,7,1,6,win,20230311_va83,0,0,0,0,1.0,,,,0.00,1,2,2023,2022-23,div1,Shelton State,sheltonstatecommunitycollege,javonchristianfkcj,Javon Christian
+Mar 18,home,Bevill State,W,10-0,10,0,10,win,20230318_eo1h,0,0,0,0,1.1,,,,0.00,,3,2023,2022-23,div1,Shelton State,sheltonstatecommunitycollege,javonchristianfkcj,Javon Christian
+Mar 23,home,Calhoun,W,7-1,7,1,6,win,20230323_k532,0,0,0,0,1.0,1,1,,0.00,,1,2023,2022-23,div1,Shelton State,sheltonstatecommunitycollege,javonchristianfkcj,Javon Christian
+Mar 30,home,Southern Union State,W,12-9,12,9,3,win,20230330_9ahh,0,0,0,0,2.0,4,5,5,22.50,3,1,2023,2022-23,div1,Shelton State,sheltonstatecommunitycollege,javonchristianfkcj,Javon Christian
+Apr 4,home,Birmingham Southern,W,12-1,12,1,11,win,20230404_wjcj,0,0,0,0,1.0,1,1,1,9.00,3,1,2023,2022-23,div1,Shelton State,sheltonstatecommunitycollege,javonchristianfkcj,Javon Christian
+Apr 22,home,Wallace State,W,5-4,5,4,1,win,20230422_b31c,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Shelton State,sheltonstatecommunitycollege,javonchristianfkcj,Javon Christian
+Apr 29,home,Northwest-Shoals Community College,L,10-2,10,2,8,win,20230429_cleq,0,0,0,0,1.2,2,5,5,27.00,5,2,2023,2022-23,div1,Shelton State,sheltonstatecommunitycollege,javonchristianfkcj,Javon Christian
+May 6,home,Lawson State,L,11-10,11,10,1,win,20230506_ez6c,0,0,0,0,0.1,1,2,2,54.00,2,1,2023,2022-23,div1,Shelton State,sheltonstatecommunitycollege,javonchristianfkcj,Javon Christian
+May 13,home,Wallace-Dothan,W,4-2,4,2,2,win,20230513_x03q,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Shelton State,sheltonstatecommunitycollege,javonchristianfkcj,Javon Christian
+May 14,home,Wallace-Dothan,L,16-4,16,4,12,win,20230514_8hag,0,0,0,0,1.0,5,3,3,27.00,,,2023,2022-23,div1,Shelton State,sheltonstatecommunitycollege,javonchristianfkcj,Javon Christian

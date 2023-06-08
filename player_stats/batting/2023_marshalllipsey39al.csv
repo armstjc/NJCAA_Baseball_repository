@@ -1,35 +1,46 @@
 date,location,opponent,result,score,team_score,opp_score,game_score_diff,game_win_loss,game_id,AB,R,H,2B,3B,HR,RBI,BB,K,SB,CS,HBP,SF,SH,TB,XBH,HDP,GO,FO,GO/FO,PA,season,njcaa_season,njcaa_division,team,team_id,player_id,player_name
-Feb 4,home,Baton Rouge,W,4-2,4,2,2,win,20230204_ih84,0,0,0,,,,0,,,,,,,,0,0,,,,,0,2023,2022-23,div1,Blinn,blinncollege,marshalllipsey39al,Marshall Lipsey
-Feb 5,home,Baton Rouge,W,8-2,8,2,6,win,20230205_dxco,2,1,0,,,,0,,,,,,,1,0,0,1,,,,3,2023,2022-23,div1,Blinn,blinncollege,marshalllipsey39al,Marshall Lipsey
-Feb 18,home,McLennan,W,8-5,8,5,3,win,20230218_8uit,4,0,2,,,,0,1,1,2,,,,,2,0,,,,,5,2023,2022-23,div1,Blinn,blinncollege,marshalllipsey39al,Marshall Lipsey
-Feb 21,home,Alvin,W,22-15,22,15,7,win,20230221_x68z,3,2,1,1,,,3,3,,,,,,,2,1,,,,,6,2023,2022-23,div1,Blinn,blinncollege,marshalllipsey39al,Marshall Lipsey
-Feb 25,home,Alvin,W,4-3,4,3,1,win,20230225_7j3o,3,0,2,,,,2,,,,,,,,2,0,,,,,3,2023,2022-23,div1,Blinn,blinncollege,marshalllipsey39al,Marshall Lipsey
-Feb 25,home,Alvin,W,8-1,8,1,7,win,20230225_wif0,4,1,1,,,,1,,2,,,,,,1,0,,,,,4,2023,2022-23,div1,Blinn,blinncollege,marshalllipsey39al,Marshall Lipsey
-Feb 27,home,Navarro,W,13-6,13,6,7,win,20230227_toco,6,1,2,1,,1,4,,3,,,,,,6,2,,,,,6,2023,2022-23,div1,Blinn,blinncollege,marshalllipsey39al,Marshall Lipsey
-Mar 2,home,San Jacinto,W,16-9,16,9,7,win,20230302_9bxm,3,2,1,1,,,1,2,2,,,,,,2,1,,,,,5,2023,2022-23,div1,Blinn,blinncollege,marshalllipsey39al,Marshall Lipsey
-Mar 4,home,San Jacinto,W,5-3,5,3,2,win,20230304_v2o4,3,0,0,,,,0,,1,,,,,,0,0,,,,,3,2023,2022-23,div1,Blinn,blinncollege,marshalllipsey39al,Marshall Lipsey
-Mar 4,home,San Jacinto,W,14-3,14,3,11,win,20230304_l6qn,4,1,0,,,,0,1,2,1,,,,,0,0,,,,,5,2023,2022-23,div1,Blinn,blinncollege,marshalllipsey39al,Marshall Lipsey
-Mar 9,home,Wharton County,W,15-2,15,2,13,win,20230309_csp4,2,2,1,,,,0,1,,,,,,,1,0,,,,,3,2023,2022-23,div1,Blinn,blinncollege,marshalllipsey39al,Marshall Lipsey
-Mar 11,home,Wharton County,W,11-1,11,1,10,win,20230311_xl4g,3,1,1,,,,0,,,,,,,,1,0,,,,,3,2023,2022-23,div1,Blinn,blinncollege,marshalllipsey39al,Marshall Lipsey
-Mar 15,home,Coastal Bend,W,13-3,13,3,10,win,20230315_3d1g,2,2,1,,,,1,1,,,,,1,,1,0,,,,,4,2023,2022-23,div1,Blinn,blinncollege,marshalllipsey39al,Marshall Lipsey
-Mar 15,home,South Suburban,W,13-9,13,9,4,win,20230315_q5v3,3,2,1,,,1,2,1,,,,,,,4,1,,,,,4,2023,2022-23,div1,Blinn,blinncollege,marshalllipsey39al,Marshall Lipsey
-Mar 19,home,Coastal Bend,W,15-1,15,1,14,win,20230319_ghu4,0,1,0,,,,0,,,1,,1,,,0,0,,,,,1,2023,2022-23,div1,Blinn,blinncollege,marshalllipsey39al,Marshall Lipsey
-Mar 25,home,Galveston,W,15-5,15,5,10,win,20230325_crsc,0,0,0,,,,0,,,,,,,,0,0,,,,,0,2023,2022-23,div1,Blinn,blinncollege,marshalllipsey39al,Marshall Lipsey
-Apr 1,home,Alvin,W,14-3,14,3,11,win,20230401_k0gw,4,1,1,1,,,0,1,1,,,,,,2,1,,,,,5,2023,2022-23,div1,Blinn,blinncollege,marshalllipsey39al,Marshall Lipsey
-Apr 1,home,Alvin,W,12-5,12,5,7,win,20230401_es6r,2,1,0,,,,0,1,,,,1,,1,0,0,,,,,5,2023,2022-23,div1,Blinn,blinncollege,marshalllipsey39al,Marshall Lipsey
-Apr 8,home,San Jacinto,W,12-2,12,2,10,win,20230408_cou1,6,1,3,1,,,2,,3,,,,,,4,1,,,,,6,2023,2022-23,div1,Blinn,blinncollege,marshalllipsey39al,Marshall Lipsey
-Apr 13,home,Wharton County,W,8-1,8,1,7,win,20230413_7maa,2,1,0,,,,0,3,2,1,,,,,0,0,,,,,5,2023,2022-23,div1,Blinn,blinncollege,marshalllipsey39al,Marshall Lipsey
-Apr 16,home,Wharton County,W,9-0,9,0,9,win,20230416_u8rr,4,1,1,1,,,0,,1,,,,,,2,1,,,,,4,2023,2022-23,div1,Blinn,blinncollege,marshalllipsey39al,Marshall Lipsey
-Apr 16,home,Wharton County,W,11-3,11,3,8,win,20230416_1yk5,3,2,1,,,,0,,1,,,1,,,1,0,,,,,4,2023,2022-23,div1,Blinn,blinncollege,marshalllipsey39al,Marshall Lipsey
-Apr 18,home,Coastal Bend,W,8-7,8,7,1,win,20230418_epnm,4,0,0,,,,1,1,1,,,,,,0,0,,,,,5,2023,2022-23,div1,Blinn,blinncollege,marshalllipsey39al,Marshall Lipsey
-Apr 22,home,Coastal Bend,W,6-4,6,4,2,win,20230422_ehuk,2,0,0,,,,0,1,1,,,,,,0,0,,,,,3,2023,2022-23,div1,Blinn,blinncollege,marshalllipsey39al,Marshall Lipsey
-Apr 22,home,Coastal Bend,W,15-5,15,5,10,win,20230422_yfoi,3,1,1,,,,1,1,2,,,,,,1,0,,,,,4,2023,2022-23,div1,Blinn,blinncollege,marshalllipsey39al,Marshall Lipsey
-Apr 26,home,Galveston,W,9-7,9,7,2,win,20230426_zj5p,5,2,2,,,,2,1,1,,,,,,2,0,,,,,6,2023,2022-23,div1,Blinn,blinncollege,marshalllipsey39al,Marshall Lipsey
-Apr 28,home,Galveston,W,4-3,4,3,1,win,20230428_3szj,3,0,1,1,,,0,1,,,,,,,2,1,,,,,4,2023,2022-23,div1,Blinn,blinncollege,marshalllipsey39al,Marshall Lipsey
-May 5,home,Bossier Parish,W,13-8,13,8,5,win,20230505_ahmi,5,3,4,1,,1,1,,,,,,,,8,2,,,,,5,2023,2022-23,div1,Blinn,blinncollege,marshalllipsey39al,Marshall Lipsey
-May 6,home,Wharton County,W,7-5,7,5,2,win,20230506_4m6g,4,0,0,,,,0,,2,1,,,,,0,0,,,,,4,2023,2022-23,div1,Blinn,blinncollege,marshalllipsey39al,Marshall Lipsey
-May 7,home,Wharton County,W,12-3,12,3,9,win,20230507_slsc,6,0,1,,,,1,,1,,,,,,1,0,,,,,6,2023,2022-23,div1,Blinn,blinncollege,marshalllipsey39al,Marshall Lipsey
-May 17,home,Paris,W,11-3,11,3,8,win,20230517_gfc4,3,1,1,,,,0,1,2,,,,,,1,0,,,,,4,2023,2022-23,div1,Blinn,blinncollege,marshalllipsey39al,Marshall Lipsey
-May 18,home,Paris,W,18-0,18,0,18,win,20230518_8mhc,5,2,2,,,,0,1,,,,,,,2,0,,,,,6,2023,2022-23,div1,Blinn,blinncollege,marshalllipsey39al,Marshall Lipsey
-May 28,home,Gaston College,W,9-3,9,3,6,win,20230528_pqsr,4,0,1,,1,,0,,2,,,,,,3,1,,,1,,4,2023,2022-23,div1,Blinn,blinncollege,marshalllipsey39al,Marshall Lipsey
-May 31,home,(6) Gaston College,W,15-0,15,0,15,win,20230531_k55a,1,1,0,,,,0,2,,1,,1,,,0,0,,,1,,4,2023,2022-23,div1,Blinn,blinncollege,marshalllipsey39al,Marshall Lipsey
+Jan 28,home,Weatherford,W,12-2,12,2,10,win,20230128_4fka,3,2,1,,,1,1,1,,,,,,,4,1,,,,,4,2023,2022-23,div1,Blinn,blinncollege,marshalllipsey39al,Marshall Lipsey
+Feb 4,home,Baton Rouge,W,4-2,4,2,2,win,20230204_ih84,2,1,0,,,,0,2,1,,,,,,0,0,,,,,4,2023,2022-23,div1,Blinn,blinncollege,marshalllipsey39al,Marshall Lipsey
+Feb 4,home,Baton Rouge,W,12-1,12,1,11,win,20230204_bz4x,2,2,0,,,,0,3,1,2,,,,,0,0,,,,,5,2023,2022-23,div1,Blinn,blinncollege,marshalllipsey39al,Marshall Lipsey
+Feb 5,home,Baton Rouge,W,8-2,8,2,6,win,20230205_dxco,3,1,1,,,,2,,2,,,1,,,1,0,,,,,4,2023,2022-23,div1,Blinn,blinncollege,marshalllipsey39al,Marshall Lipsey
+Feb 5,home,Baton Rouge,W,12-4,12,4,8,win,20230205_j4tq,4,1,1,,,,2,,2,1,,,1,,1,0,,,,,5,2023,2022-23,div1,Blinn,blinncollege,marshalllipsey39al,Marshall Lipsey
+Feb 9,home,Paris,W,10-2,10,2,8,win,20230209_e4z3,4,3,2,1,1,,1,1,,,,,,,5,2,,,,,5,2023,2022-23,div1,Blinn,blinncollege,marshalllipsey39al,Marshall Lipsey
+Feb 10,home,Tyler,W,7-5,7,5,2,win,20230210_gxnu,5,2,3,,1,,2,,1,,,,,,5,1,,,,,5,2023,2022-23,div1,Blinn,blinncollege,marshalllipsey39al,Marshall Lipsey
+Feb 15,home,Tyler,W,5-1,5,1,4,win,20230215_fa8f,3,2,1,,,,1,2,1,1,,,,,1,0,1,,,,5,2023,2022-23,div1,Blinn,blinncollege,marshalllipsey39al,Marshall Lipsey
+Feb 16,home,Dallas College - Eastfield,W,5-4,5,4,1,win,20230216_j7uu,4,2,1,,,,0,1,,,,,,,1,0,,,,,5,2023,2022-23,div1,Blinn,blinncollege,marshalllipsey39al,Marshall Lipsey
+Feb 18,home,McLennan,W,8-5,8,5,3,win,20230218_8uit,5,0,0,,,,0,,1,,,,,,0,0,,,,,5,2023,2022-23,div1,Blinn,blinncollege,marshalllipsey39al,Marshall Lipsey
+Feb 21,home,Alvin,W,22-15,22,15,7,win,20230221_x68z,5,2,1,,,,0,2,1,1,,,,,1,0,,,,,7,2023,2022-23,div1,Blinn,blinncollege,marshalllipsey39al,Marshall Lipsey
+Feb 25,home,Alvin,W,4-3,4,3,1,win,20230225_7j3o,2,1,0,,,,0,1,,1,,,,,0,0,,,,,3,2023,2022-23,div1,Blinn,blinncollege,marshalllipsey39al,Marshall Lipsey
+Feb 25,home,Alvin,W,8-1,8,1,7,win,20230225_wif0,3,1,1,1,,,0,1,2,,,,,1,2,1,,,,,5,2023,2022-23,div1,Blinn,blinncollege,marshalllipsey39al,Marshall Lipsey
+Feb 27,home,Navarro,W,13-6,13,6,7,win,20230227_toco,3,1,2,,,,0,1,1,,,1,,1,2,0,,,,,6,2023,2022-23,div1,Blinn,blinncollege,marshalllipsey39al,Marshall Lipsey
+Mar 2,home,San Jacinto,W,16-9,16,9,7,win,20230302_9bxm,4,2,2,,,2,6,2,,1,,,,,8,2,,,,,6,2023,2022-23,div1,Blinn,blinncollege,marshalllipsey39al,Marshall Lipsey
+Mar 4,home,San Jacinto,W,5-3,5,3,2,win,20230304_v2o4,3,0,0,,,,0,,1,,,1,,,0,0,,,,,4,2023,2022-23,div1,Blinn,blinncollege,marshalllipsey39al,Marshall Lipsey
+Mar 4,home,San Jacinto,W,14-3,14,3,11,win,20230304_l6qn,4,4,3,,2,,1,1,1,2,,1,,,7,2,,,,,6,2023,2022-23,div1,Blinn,blinncollege,marshalllipsey39al,Marshall Lipsey
+Mar 9,home,Wharton County,W,15-2,15,2,13,win,20230309_csp4,3,3,2,1,,,2,,,,,1,,,3,1,,,,,4,2023,2022-23,div1,Blinn,blinncollege,marshalllipsey39al,Marshall Lipsey
+Mar 11,home,Wharton County,W,11-1,11,1,10,win,20230311_xl4g,4,3,3,1,,1,4,,,,,,,,7,2,,,,,4,2023,2022-23,div1,Blinn,blinncollege,marshalllipsey39al,Marshall Lipsey
+Mar 15,home,Coastal Bend,W,13-3,13,3,10,win,20230315_3d1g,3,2,2,,,1,4,1,,2,,,,,5,1,,,,,4,2023,2022-23,div1,Blinn,blinncollege,marshalllipsey39al,Marshall Lipsey
+Mar 15,home,South Suburban,W,13-9,13,9,4,win,20230315_q5v3,4,2,2,,,,1,,,1,,1,,,2,0,,,,,5,2023,2022-23,div1,Blinn,blinncollege,marshalllipsey39al,Marshall Lipsey
+Mar 19,home,Coastal Bend,W,15-1,15,1,14,win,20230319_ghu4,1,4,1,,,1,1,4,,1,,,,,4,1,,,,,5,2023,2022-23,div1,Blinn,blinncollege,marshalllipsey39al,Marshall Lipsey
+Mar 19,home,Coastal Bend,W,12-7,12,7,5,win,20230319_nxid,5,2,2,1,,,1,1,1,,,,,,3,1,,,,,6,2023,2022-23,div1,Blinn,blinncollege,marshalllipsey39al,Marshall Lipsey
+Mar 21,home,Galveston,W,6-1,6,1,5,win,20230321_x6jx,3,0,1,,,,0,1,,,1,,,1,1,0,,,,,5,2023,2022-23,div1,Blinn,blinncollege,marshalllipsey39al,Marshall Lipsey
+Mar 23,home,Galveston,W,11-2,11,2,9,win,20230323_ydhm,2,2,0,,,,0,3,2,1,1,,,,0,0,,,,,5,2023,2022-23,div1,Blinn,blinncollege,marshalllipsey39al,Marshall Lipsey
+Mar 25,home,Galveston,W,15-5,15,5,10,win,20230325_crsc,5,1,1,,,,1,,2,,,1,1,,1,0,,,,,7,2023,2022-23,div1,Blinn,blinncollege,marshalllipsey39al,Marshall Lipsey
+Mar 27,home,Navarro,W,9-8,9,8,1,win,20230327_t8gu,5,2,1,,,1,1,1,2,,,,,,4,1,,,,,6,2023,2022-23,div1,Blinn,blinncollege,marshalllipsey39al,Marshall Lipsey
+Apr 1,home,Alvin,W,14-3,14,3,11,win,20230401_k0gw,2,2,0,,,,0,3,1,1,,,,,0,0,,,,,5,2023,2022-23,div1,Blinn,blinncollege,marshalllipsey39al,Marshall Lipsey
+Apr 1,home,Alvin,W,12-5,12,5,7,win,20230401_es6r,4,2,2,1,,,3,2,,2,,,,,3,1,,,,,6,2023,2022-23,div1,Blinn,blinncollege,marshalllipsey39al,Marshall Lipsey
+Apr 8,home,San Jacinto,W,12-2,12,2,10,win,20230408_cou1,5,1,2,1,,,0,1,1,1,,,,,3,1,,,,,6,2023,2022-23,div1,Blinn,blinncollege,marshalllipsey39al,Marshall Lipsey
+Apr 13,home,Wharton County,W,8-1,8,1,7,win,20230413_7maa,3,0,0,,,,0,2,,1,1,1,,,0,0,,,,,6,2023,2022-23,div1,Blinn,blinncollege,marshalllipsey39al,Marshall Lipsey
+Apr 16,home,Wharton County,W,9-0,9,0,9,win,20230416_u8rr,4,1,1,,,,1,1,1,1,,,,,1,0,,,,,5,2023,2022-23,div1,Blinn,blinncollege,marshalllipsey39al,Marshall Lipsey
+Apr 16,home,Wharton County,W,11-3,11,3,8,win,20230416_1yk5,5,1,1,1,,,0,,2,1,,,,,2,1,,,,,5,2023,2022-23,div1,Blinn,blinncollege,marshalllipsey39al,Marshall Lipsey
+Apr 18,home,Coastal Bend,W,8-7,8,7,1,win,20230418_epnm,4,1,0,,,,0,,2,,,1,,,0,0,,,,,5,2023,2022-23,div1,Blinn,blinncollege,marshalllipsey39al,Marshall Lipsey
+Apr 22,home,Coastal Bend,W,6-4,6,4,2,win,20230422_ehuk,4,1,1,,,,0,,1,1,,,,,1,0,,,,,4,2023,2022-23,div1,Blinn,blinncollege,marshalllipsey39al,Marshall Lipsey
+Apr 22,home,Coastal Bend,W,15-5,15,5,10,win,20230422_yfoi,4,2,3,,,,1,,,,,1,,,3,0,,,,,5,2023,2022-23,div1,Blinn,blinncollege,marshalllipsey39al,Marshall Lipsey
+Apr 26,home,Galveston,W,9-7,9,7,2,win,20230426_zj5p,3,0,1,,,,0,,,,,,,,1,0,,,,,3,2023,2022-23,div1,Blinn,blinncollege,marshalllipsey39al,Marshall Lipsey
+Apr 28,home,Galveston,W,4-3,4,3,1,win,20230428_3szj,3,2,2,1,,1,1,1,,,,,,,6,2,,,,,4,2023,2022-23,div1,Blinn,blinncollege,marshalllipsey39al,Marshall Lipsey
+May 5,home,Bossier Parish,W,13-8,13,8,5,win,20230505_ahmi,5,1,1,,,1,4,1,2,,,,,,4,1,,,,,6,2023,2022-23,div1,Blinn,blinncollege,marshalllipsey39al,Marshall Lipsey
+May 6,home,Wharton County,W,7-5,7,5,2,win,20230506_4m6g,4,2,4,2,,,0,1,,2,,,,,6,2,,,,,5,2023,2022-23,div1,Blinn,blinncollege,marshalllipsey39al,Marshall Lipsey
+May 7,home,Wharton County,W,12-3,12,3,9,win,20230507_slsc,4,1,0,,,,0,2,2,,,,,,0,0,,,,,6,2023,2022-23,div1,Blinn,blinncollege,marshalllipsey39al,Marshall Lipsey
+May 17,home,Paris,W,11-3,11,3,8,win,20230517_gfc4,5,1,2,,,,1,,3,1,,,,,2,0,,,,,5,2023,2022-23,div1,Blinn,blinncollege,marshalllipsey39al,Marshall Lipsey
+May 18,home,Paris,W,18-0,18,0,18,win,20230518_8mhc,3,4,3,1,,,1,2,,,,1,,,4,1,,,,,6,2023,2022-23,div1,Blinn,blinncollege,marshalllipsey39al,Marshall Lipsey
+May 28,home,Gaston College,W,9-3,9,3,6,win,20230528_pqsr,5,0,1,,,,0,,2,,,,,,1,0,,,2,,5,2023,2022-23,div1,Blinn,blinncollege,marshalllipsey39al,Marshall Lipsey
+May 31,home,(6) Gaston College,W,15-0,15,0,15,win,20230531_k55a,3,2,0,,,,1,,,,,1,1,,0,0,,1,2,0.50,5,2023,2022-23,div1,Blinn,blinncollege,marshalllipsey39al,Marshall Lipsey

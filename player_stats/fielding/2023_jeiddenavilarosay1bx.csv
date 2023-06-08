@@ -1,13 +1,11 @@
 date,location,opponent,result,score,team_score,opp_score,game_score_diff,game_win_loss,game_id,TC,PO,A,E,FPCT,DP,SBA,RCS,RCS_PCT,PB,CI,season,njcaa_season,njcaa_division,team,team_id,player_id,player_name
-Mar 5,home,RCSJ Cumberland,L,8-2,8,2,6,win,20230305_et22,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div3,Quincy College,quincycollege,jeiddenavilarosay1bx,Jeidden Avila-Rosa
-Mar 12,home,Mohawk Valley,W,13-0,13,0,13,win,20230312_txfr,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div3,Quincy College,quincycollege,jeiddenavilarosay1bx,Jeidden Avila-Rosa
-Mar 14,home,North Central Missouri,L,15-3,15,3,12,win,20230314_v5ef,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div3,Quincy College,quincycollege,jeiddenavilarosay1bx,Jeidden Avila-Rosa
-Mar 15,home,Central Maine community college,W,15-2,15,2,13,win,20230315_0mnq,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div3,Quincy College,quincycollege,jeiddenavilarosay1bx,Jeidden Avila-Rosa
-Mar 19,home,Borough of Manhattan,W,27-4,27,4,23,win,20230319_xf9g,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div3,Quincy College,quincycollege,jeiddenavilarosay1bx,Jeidden Avila-Rosa
-Mar 19,home,Borough of Manhattan,W,12-11,12,11,1,win,20230319_f024,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div3,Quincy College,quincycollege,jeiddenavilarosay1bx,Jeidden Avila-Rosa
-Mar 26,home,Dutchess,W,9-0,9,0,9,win,20230326_8msy,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div3,Quincy College,quincycollege,jeiddenavilarosay1bx,Jeidden Avila-Rosa
-Mar 26,home,Dutchess,W,19-11,19,11,8,win,20230326_25nv,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div3,Quincy College,quincycollege,jeiddenavilarosay1bx,Jeidden Avila-Rosa
-Apr 8,home,Brookdale,L,11-5,11,5,6,win,20230408_gd37,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div3,Quincy College,quincycollege,jeiddenavilarosay1bx,Jeidden Avila-Rosa
-Apr 8,home,Brookdale,L,17-2,17,2,15,win,20230408_fr3e,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div3,Quincy College,quincycollege,jeiddenavilarosay1bx,Jeidden Avila-Rosa
-Apr 16,home,Salem,L,21-2,21,2,19,win,20230416_lzw8,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div3,Quincy College,quincycollege,jeiddenavilarosay1bx,Jeidden Avila-Rosa
-Apr 26,home,Rockland,W,25-2,25,2,23,win,20230426_engl,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div3,Quincy College,quincycollege,jeiddenavilarosay1bx,Jeidden Avila-Rosa
+Mar 19,home,Massasoit,L,8-7,8,7,1,win,20230319_n65m,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div3,Quincy College,quincycollege,jeiddenavilarosay1bx,Jeidden Avila-Rosa
+Mar 19,home,Massasoit,L,23-3,23,3,20,win,20230319_m4cz,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div3,Quincy College,quincycollege,jeiddenavilarosay1bx,Jeidden Avila-Rosa
+Mar 23,home,Rhode Island,L,4-3,4,3,1,win,20230323_zrif,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div3,Quincy College,quincycollege,jeiddenavilarosay1bx,Jeidden Avila-Rosa
+Mar 30,home,Massasoit,L,10-0,10,0,10,win,20230330_a48e,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div3,Quincy College,quincycollege,jeiddenavilarosay1bx,Jeidden Avila-Rosa
+Apr 2,home,Massasoit,L,15-2,15,2,13,win,20230402_8qks,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div3,Quincy College,quincycollege,jeiddenavilarosay1bx,Jeidden Avila-Rosa
+Apr 13,home,Holyoke,W,7-5,7,5,2,win,20230413_5ar8,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div3,Quincy College,quincycollege,jeiddenavilarosay1bx,Jeidden Avila-Rosa
+Apr 15,home,Holyoke,W,12-2,12,2,10,win,20230415_dkir,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div3,Quincy College,quincycollege,jeiddenavilarosay1bx,Jeidden Avila-Rosa
+Apr 16,home,Southern Maine CC,L,21-0,21,0,21,win,20230416_dgyq,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div3,Quincy College,quincycollege,jeiddenavilarosay1bx,Jeidden Avila-Rosa
+Apr 16,home,Southern Maine CC,W,8-7,8,7,1,win,20230416_o89u,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div3,Quincy College,quincycollege,jeiddenavilarosay1bx,Jeidden Avila-Rosa
+Apr 20,home,Roxbury,W,19-0,19,0,19,win,20230420_uap1,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div3,Quincy College,quincycollege,jeiddenavilarosay1bx,Jeidden Avila-Rosa

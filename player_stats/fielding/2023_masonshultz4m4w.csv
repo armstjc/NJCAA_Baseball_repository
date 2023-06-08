@@ -1,25 +1,39 @@
 date,location,opponent,result,score,team_score,opp_score,game_score_diff,game_win_loss,game_id,TC,PO,A,E,FPCT,DP,SBA,RCS,RCS_PCT,PB,CI,season,njcaa_season,njcaa_division,team,team_id,player_id,player_name
-Mar 2,home,Frederick,W,7-3,7,3,4,win,20230302_k8j7,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div3,Lorain County,loraincountycommunitycollege,masonshultz4m4w,Mason Shultz
-Mar 3,home,Lincoln Land,L,5-0,5,0,5,win,20230303_e2op,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div3,Lorain County,loraincountycommunitycollege,masonshultz4m4w,Mason Shultz
-Mar 5,home,Glen Oaks,L,8-6,8,6,2,win,20230305_nkiq,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div3,Lorain County,loraincountycommunitycollege,masonshultz4m4w,Mason Shultz
-Mar 6,home,Lake Michigan,W,16-13,16,13,3,win,20230306_vdux,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div3,Lorain County,loraincountycommunitycollege,masonshultz4m4w,Mason Shultz
-Mar 7,home,Mid Michigan,W,10-6,10,6,4,win,20230307_a0tw,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div3,Lorain County,loraincountycommunitycollege,masonshultz4m4w,Mason Shultz
-Mar 8,home,Erie,W,4-3,4,3,1,win,20230308_5wn7,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div3,Lorain County,loraincountycommunitycollege,masonshultz4m4w,Mason Shultz
-Mar 8,home,Erie,W,7-3,7,3,4,win,20230308_klz9,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div3,Lorain County,loraincountycommunitycollege,masonshultz4m4w,Mason Shultz
-Mar 9,home,Niagara County,L,14-0,14,0,14,win,20230309_e83u,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div3,Lorain County,loraincountycommunitycollege,masonshultz4m4w,Mason Shultz
-Mar 21,home,Iowa Central,L,2-0,2,0,2,win,20230321_2ju5,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div3,Lorain County,loraincountycommunitycollege,masonshultz4m4w,Mason Shultz
-Mar 21,home,Iowa Central,L,8-7,8,7,1,win,20230321_37d3,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div3,Lorain County,loraincountycommunitycollege,masonshultz4m4w,Mason Shultz
-Mar 27,home,Dakota County Tech,L,8-5,8,5,3,win,20230327_d3dw,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div3,Lorain County,loraincountycommunitycollege,masonshultz4m4w,Mason Shultz
-Mar 27,home,Dakota County Tech,L,2-0,2,0,2,win,20230327_syv8,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div3,Lorain County,loraincountycommunitycollege,masonshultz4m4w,Mason Shultz
-Mar 30,home,Gustavus Adolpus,W,5-2,5,2,3,win,20230330_f0cz,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div3,Lorain County,loraincountycommunitycollege,masonshultz4m4w,Mason Shultz
-Mar 30,home,Gustavus Adolpus,W,8-4,8,4,4,win,20230330_krd9,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div3,Lorain County,loraincountycommunitycollege,masonshultz4m4w,Mason Shultz
-Apr 11,home,Minnesota Post Grad,W,2-0,2,0,2,win,20230411_80dv,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div3,Lorain County,loraincountycommunitycollege,masonshultz4m4w,Mason Shultz
-Apr 11,home,Minnesota Post Grad,W,2-0,2,0,2,win,20230411_hnmz,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div3,Lorain County,loraincountycommunitycollege,masonshultz4m4w,Mason Shultz
-Apr 14,home,Western Tech,W,7-4,7,4,3,win,20230414_lsmr,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div3,Lorain County,loraincountycommunitycollege,masonshultz4m4w,Mason Shultz
-Apr 14,home,Western Tech,W,9-5,9,5,4,win,20230414_q3ew,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div3,Lorain County,loraincountycommunitycollege,masonshultz4m4w,Mason Shultz
-Apr 26,home,Minnesota Post Grad,W,12-2,12,2,10,win,20230426_qatf,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div3,Lorain County,loraincountycommunitycollege,masonshultz4m4w,Mason Shultz
-Apr 29,home,Riverland,L,8-3,8,3,5,win,20230429_bbsq,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div3,Lorain County,loraincountycommunitycollege,masonshultz4m4w,Mason Shultz
-Apr 30,home,Riverland,W,4-3,4,3,1,win,20230430_a972,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div3,Lorain County,loraincountycommunitycollege,masonshultz4m4w,Mason Shultz
-May 3,home,Minnesota Post Grad,L,8-6,8,6,2,win,20230503_zqbk,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div3,Lorain County,loraincountycommunitycollege,masonshultz4m4w,Mason Shultz
-May 5,home,Rochester,W,7-5,7,5,2,win,20230505_sfiq,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div3,Lorain County,loraincountycommunitycollege,masonshultz4m4w,Mason Shultz
-May 7,home,Rochester,W,5-3,5,3,2,win,20230507_z23l,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div3,Lorain County,loraincountycommunitycollege,masonshultz4m4w,Mason Shultz
+Mar 4,home,Hocking,L,3-1,3,1,2,win,20230304_5z33,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div3,Lorain County,loraincountycommunitycollege,masonshultz4m4w,Mason Shultz
+Mar 4,home,Hocking,L,7-4,7,4,3,win,20230304_g6i4,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div3,Lorain County,loraincountycommunitycollege,masonshultz4m4w,Mason Shultz
+Mar 6,home,Oberlin College JV,L,6-5,6,5,1,win,20230306_j0ri,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div3,Lorain County,loraincountycommunitycollege,masonshultz4m4w,Mason Shultz
+Mar 16,home,Cuyahoga,L,17-0,17,0,17,win,20230316_jpsp,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div3,Lorain County,loraincountycommunitycollege,masonshultz4m4w,Mason Shultz
+Mar 20,home,Cuyahoga,L,14-0,14,0,14,win,20230320_cjsl,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div3,Lorain County,loraincountycommunitycollege,masonshultz4m4w,Mason Shultz
+Mar 20,home,Cuyahoga,L,25-3,25,3,22,win,20230320_vs6m,0,0,1,0,2.1,11,12,11,42.43,3,4,2023,2022-23,div3,Lorain County,loraincountycommunitycollege,masonshultz4m4w,Mason Shultz
+Mar 22,home,Indiana Tech,L,16-2,16,2,14,win,20230322_sigz,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div3,Lorain County,loraincountycommunitycollege,masonshultz4m4w,Mason Shultz
+Mar 25,home,Cuyahoga,L,27-4,27,4,23,win,20230325_9tb8,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div3,Lorain County,loraincountycommunitycollege,masonshultz4m4w,Mason Shultz
+Mar 25,home,Cuyahoga,L,17-10,17,10,7,win,20230325_7oj2,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div3,Lorain County,loraincountycommunitycollege,masonshultz4m4w,Mason Shultz
+Mar 29,home,Westmoreland,L,3-2,3,2,1,win,20230329_sw3m,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div3,Lorain County,loraincountycommunitycollege,masonshultz4m4w,Mason Shultz
+Mar 29,home,Westmoreland,W,6-5,6,5,1,win,20230329_srih,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div3,Lorain County,loraincountycommunitycollege,masonshultz4m4w,Mason Shultz
+Apr 2,home,Westmoreland,L,6-4,6,4,2,win,20230402_3q3r,1,0,0,0,5.0,5,3,3,5.40,5,4,2023,2022-23,div3,Lorain County,loraincountycommunitycollege,masonshultz4m4w,Mason Shultz
+Apr 2,home,Westmoreland,W,8-7,8,7,1,win,20230402_exbi,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div3,Lorain County,loraincountycommunitycollege,masonshultz4m4w,Mason Shultz
+Apr 7,home,Lakeland,L,5-4,5,4,1,win,20230407_rq68,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div3,Lorain County,loraincountycommunitycollege,masonshultz4m4w,Mason Shultz
+Apr 7,home,Lakeland,L,12-0,12,0,12,win,20230407_0nvm,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div3,Lorain County,loraincountycommunitycollege,masonshultz4m4w,Mason Shultz
+Apr 8,home,Lakeland,L,8-2,8,2,6,win,20230408_hl0z,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div3,Lorain County,loraincountycommunitycollege,masonshultz4m4w,Mason Shultz
+Apr 8,home,Lakeland,L,11-0,11,0,11,win,20230408_0y3q,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div3,Lorain County,loraincountycommunitycollege,masonshultz4m4w,Mason Shultz
+Apr 10,home,Oberlin College JV,L,17-2,17,2,15,win,20230410_ry98,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div3,Lorain County,loraincountycommunitycollege,masonshultz4m4w,Mason Shultz
+Apr 12,home,Hocking,W,8-6,8,6,2,win,20230412_t20s,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div3,Lorain County,loraincountycommunitycollege,masonshultz4m4w,Mason Shultz
+Apr 12,home,Hocking,L,20-10,20,10,10,win,20230412_a6vn,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div3,Lorain County,loraincountycommunitycollege,masonshultz4m4w,Mason Shultz
+Apr 14,home,Owens,L,15-0,15,0,15,win,20230414_1pm0,0,0,1,0,3.0,5,12,3,9.00,5,3,2023,2022-23,div3,Lorain County,loraincountycommunitycollege,masonshultz4m4w,Mason Shultz
+Apr 14,home,Owens,L,23-1,23,1,22,win,20230414_zcbn,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div3,Lorain County,loraincountycommunitycollege,masonshultz4m4w,Mason Shultz
+Apr 15,home,Owens,L,12-1,12,1,11,win,20230415_pzvj,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div3,Lorain County,loraincountycommunitycollege,masonshultz4m4w,Mason Shultz
+Apr 15,home,Owens,L,19-4,19,4,15,win,20230415_reoy,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div3,Lorain County,loraincountycommunitycollege,masonshultz4m4w,Mason Shultz
+Apr 19,home,Butler County,W,16-3,16,3,13,win,20230419_0xv0,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div3,Lorain County,loraincountycommunitycollege,masonshultz4m4w,Mason Shultz
+Apr 19,home,Butler County,W,14-4,14,4,10,win,20230419_2y0o,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div3,Lorain County,loraincountycommunitycollege,masonshultz4m4w,Mason Shultz
+Apr 21,home,Terra State,L,7-1,7,1,6,win,20230421_n2sd,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div3,Lorain County,loraincountycommunitycollege,masonshultz4m4w,Mason Shultz
+Apr 21,home,Terra State,L,10-0,10,0,10,win,20230421_n94j,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div3,Lorain County,loraincountycommunitycollege,masonshultz4m4w,Mason Shultz
+Apr 22,home,Terra State,L,11-1,11,1,10,win,20230422_rxua,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div3,Lorain County,loraincountycommunitycollege,masonshultz4m4w,Mason Shultz
+Apr 22,home,Terra State,L,5-3,5,3,2,win,20230422_o0mp,1,0,1,0,5.0,7,5,5,9.00,1,2,2023,2022-23,div3,Lorain County,loraincountycommunitycollege,masonshultz4m4w,Mason Shultz
+Apr 25,home,Schoolcraft,L,13-2,13,2,11,win,20230425_d807,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div3,Lorain County,loraincountycommunitycollege,masonshultz4m4w,Mason Shultz
+Apr 25,home,Schoolcraft,L,15-0,15,0,15,win,20230425_3mwe,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div3,Lorain County,loraincountycommunitycollege,masonshultz4m4w,Mason Shultz
+Apr 30,home,Kent State University (Club),W,8-4,8,4,4,win,20230430_evhp,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div3,Lorain County,loraincountycommunitycollege,masonshultz4m4w,Mason Shultz
+Apr 30,home,Kent State University (Club),L,11-1,11,1,10,win,20230430_31qv,1,0,0,0,6.0,6,7,3,4.50,1,10,2023,2022-23,div3,Lorain County,loraincountycommunitycollege,masonshultz4m4w,Mason Shultz
+May 2,home,Delta,L,6-5,6,5,1,win,20230502_ojs8,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div3,Lorain County,loraincountycommunitycollege,masonshultz4m4w,Mason Shultz
+May 6,home,Terra State,T,3-3,3,3,0,tie,20230506_84c7,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div3,Lorain County,loraincountycommunitycollege,masonshultz4m4w,Mason Shultz
+May 10,home,Owens,L,13-5,13,5,8,win,20230510_iivo,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div3,Lorain County,loraincountycommunitycollege,masonshultz4m4w,Mason Shultz
+May 10,home,Terra State,L,11-3,11,3,8,win,20230510_ljw1,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div3,Lorain County,loraincountycommunitycollege,masonshultz4m4w,Mason Shultz
