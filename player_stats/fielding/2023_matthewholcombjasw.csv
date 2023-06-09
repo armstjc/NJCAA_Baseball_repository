@@ -1,11 +1,18 @@
 date,location,opponent,result,score,team_score,opp_score,game_score_diff,game_win_loss,game_id,TC,PO,A,E,FPCT,DP,SBA,RCS,RCS_PCT,PB,CI,season,njcaa_season,njcaa_division,team,team_id,player_id,player_name
-Feb 3,home,Calhoun,L,5-4,5,4,1,win,20230203_1eop,0,0,1,0,2.0,1,2,2,9.00,2,3,2023,2022-23,div1,Southern Union State,southernunionstatecommunitycollege,matthewholcombjasw,MATTHEW HOLCOMB
-Feb 7,home,Gordon State,L,7-6,7,6,1,win,20230207_as5r,0,0,0,0,1.2,3,4,,0.00,2,5,2023,2022-23,div1,Southern Union State,southernunionstatecommunitycollege,matthewholcombjasw,MATTHEW HOLCOMB
-Feb 18,home,John A. Logan,L,10-3,10,3,7,win,20230218_5591,0,0,0,0,1.0,2,3,,0.00,,1,2023,2022-23,div1,Southern Union State,southernunionstatecommunitycollege,matthewholcombjasw,MATTHEW HOLCOMB
-Feb 25,home,USC Salkehatchie,W,8-2,8,2,6,win,20230225_6f0n,0,0,0,0,1.0,2,1,1,9.00,2,3,2023,2022-23,div1,Southern Union State,southernunionstatecommunitycollege,matthewholcombjasw,MATTHEW HOLCOMB
-Mar 11,home,Marion Military,W,8-2,8,2,6,win,20230311_thrp,0,0,0,0,3.0,1,,,0.00,1,3,2023,2022-23,div1,Southern Union State,southernunionstatecommunitycollege,matthewholcombjasw,MATTHEW HOLCOMB
-Mar 23,home,Wallace State,L,6-5,6,5,1,win,20230323_2j2f,0,0,0,0,0.2,4,4,4,54.00,1,,2023,2022-23,div1,Southern Union State,southernunionstatecommunitycollege,matthewholcombjasw,MATTHEW HOLCOMB
-Apr 1,home,Shelton State,L,12-3,12,3,9,win,20230401_etda,0,0,0,0,1.2,5,1,1,5.40,1,,2023,2022-23,div1,Southern Union State,southernunionstatecommunitycollege,matthewholcombjasw,MATTHEW HOLCOMB
-Apr 16,home,Bevill State,W,12-8,12,8,4,win,20230416_nuhz,0,0,0,0,1.0,1,1,1,9.00,,,2023,2022-23,div1,Southern Union State,southernunionstatecommunitycollege,matthewholcombjasw,MATTHEW HOLCOMB
-Apr 20,home,Central Alabama,L,9-5,9,5,4,win,20230420_4d9t,0,0,0,0,2.0,4,4,4,18.00,1,3,2023,2022-23,div1,Southern Union State,southernunionstatecommunitycollege,matthewholcombjasw,MATTHEW HOLCOMB
-Apr 29,home,Snead State,L,13-3,13,3,10,win,20230429_iefd,0,0,0,0,2.0,4,4,4,18.00,2,3,2023,2022-23,div1,Southern Union State,southernunionstatecommunitycollege,matthewholcombjasw,MATTHEW HOLCOMB
+Jan 27,home,Utah State Eastern,W,12-9,12,9,3,win,20230127_u2fd,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Southern Union State,southernunionstatecommunitycollege,matthewholcombjasw,MATTHEW HOLCOMB
+Jan 27,home,Utah State Eastern,W,16-0,16,0,16,win,20230127_qxdy,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Southern Union State,southernunionstatecommunitycollege,matthewholcombjasw,MATTHEW HOLCOMB
+Jan 28,home,Southern Nevada,L,16-6,16,6,10,win,20230128_kci0,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Southern Union State,southernunionstatecommunitycollege,matthewholcombjasw,MATTHEW HOLCOMB
+Jan 29,home,Southern Nevada,L,8-1,8,1,7,win,20230129_elhn,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Southern Union State,southernunionstatecommunitycollege,matthewholcombjasw,MATTHEW HOLCOMB
+Feb 3,home,Northeastern,W,5-2,5,2,3,win,20230203_0lgq,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Southern Union State,southernunionstatecommunitycollege,matthewholcombjasw,MATTHEW HOLCOMB
+Feb 4,home,Northeastern,W,10-5,10,5,5,win,20230204_0sjq,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Southern Union State,southernunionstatecommunitycollege,matthewholcombjasw,MATTHEW HOLCOMB
+Feb 4,home,Northeastern,W,6-1,6,1,5,win,20230204_e22z,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Southern Union State,southernunionstatecommunitycollege,matthewholcombjasw,MATTHEW HOLCOMB
+Feb 5,home,Northeastern,W,11-0,11,0,11,win,20230205_pe2d,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Southern Union State,southernunionstatecommunitycollege,matthewholcombjasw,MATTHEW HOLCOMB
+Feb 14,home,Eastern Arizona,W,1-0,1,0,1,win,20230214_473t,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Southern Union State,southernunionstatecommunitycollege,matthewholcombjasw,MATTHEW HOLCOMB
+Feb 14,home,Eastern Arizona,L,19-2,19,2,17,win,20230214_evpj,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Southern Union State,southernunionstatecommunitycollege,matthewholcombjasw,MATTHEW HOLCOMB
+Feb 18,home,Central Arizona,L,12-2,12,2,10,win,20230218_2xzs,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Southern Union State,southernunionstatecommunitycollege,matthewholcombjasw,MATTHEW HOLCOMB
+Feb 18,home,Central Arizona,W,7-1,7,1,6,win,20230218_m7zf,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Southern Union State,southernunionstatecommunitycollege,matthewholcombjasw,MATTHEW HOLCOMB
+Feb 21,home,Yavapai,L,2-1,2,1,1,win,20230221_dtcl,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Southern Union State,southernunionstatecommunitycollege,matthewholcombjasw,MATTHEW HOLCOMB
+Feb 21,home,Yavapai,W,14-10,14,10,4,win,20230221_38bn,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Southern Union State,southernunionstatecommunitycollege,matthewholcombjasw,MATTHEW HOLCOMB
+Feb 25,home,Pima,W,10-2,10,2,8,win,20230225_t3w5,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Southern Union State,southernunionstatecommunitycollege,matthewholcombjasw,MATTHEW HOLCOMB
+Feb 25,home,Pima,L,11-10,11,10,1,win,20230225_bp9g,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Southern Union State,southernunionstatecommunitycollege,matthewholcombjasw,MATTHEW HOLCOMB
+Mar 2,home,Asian Breeze,W,12-3,12,3,9,win,20230302_wonj,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Southern Union State,southernunionstatecommunitycollege,matthewholcombjasw,MATTHEW HOLCOMB
