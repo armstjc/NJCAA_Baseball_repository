@@ -1,8 +1,15 @@
 date,location,opponent,result,score,team_score,opp_score,game_score_diff,game_win_loss,game_id,TC,PO,A,E,FPCT,DP,SBA,RCS,RCS_PCT,PB,CI,season,njcaa_season,njcaa_division,team,team_id,player_id,player_name
-Mar 10,home,Minnesota North College - Rainy River,W,11-4,11,4,7,win,20230310_qyc0,0,0,0,0,1.0,1,,,0.00,1,3,2023,2022-23,div2,Williston State,willistonstatecollege,zachevanochko89mg,Zach Evanochko
-Mar 11,home,Madison,L,4-1,4,1,3,win,20230311_mqk3,0,0,0,0,0.2,,,,0.00,,1,2023,2022-23,div2,Williston State,willistonstatecollege,zachevanochko89mg,Zach Evanochko
-Mar 15,home,Pima,L,4-2,4,2,2,win,20230315_yggz,0,0,0,0,1.0,,1,,0.00,,,2023,2022-23,div2,Williston State,willistonstatecollege,zachevanochko89mg,Zach Evanochko
-Apr 8,home,Miles,L,9-3,9,3,6,win,20230408_4cfl,0,0,0,0,1.1,3,3,3,20.25,2,2,2023,2022-23,div2,Williston State,willistonstatecollege,zachevanochko89mg,Zach Evanochko
-Apr 16,home,North Dakota SCS,W,5-4,5,4,1,win,20230416_wyj4,0,0,0,0,0.0,,,,0.00,1,,2023,2022-23,div2,Williston State,willistonstatecollege,zachevanochko89mg,Zach Evanochko
-Apr 23,home,Dakota-Bottineau,W,12-2,12,2,10,win,20230423_fjhe,0,0,0,0,2.0,1,1,1,4.50,3,3,2023,2022-23,div2,Williston State,willistonstatecollege,zachevanochko89mg,Zach Evanochko
-May 19,home,Southeastern,L,6-1,6,1,5,win,20230519_ecy4,0,0,0,0,3.1,3,2,2,5.40,1,1,2023,2022-23,div2,Williston State,willistonstatecollege,zachevanochko89mg,Zach Evanochko
+Feb 25,home,Midland University,L,8-5,8,5,3,win,20230225_dwqc,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div2,Williston State,willistonstatecollege,zachevanochko89mg,Zach Evanochko
+Mar 10,home,Minnesota North College - Rainy River,W,20-5,20,5,15,win,20230310_tfwd,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div2,Williston State,willistonstatecollege,zachevanochko89mg,Zach Evanochko
+Mar 10,home,Minnesota North College - Rainy River,W,11-4,11,4,7,win,20230310_qyc0,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div2,Williston State,willistonstatecollege,zachevanochko89mg,Zach Evanochko
+Mar 13,home,Dakota-Bottineau,W,9-2,9,2,7,win,20230313_sf73,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div2,Williston State,willistonstatecollege,zachevanochko89mg,Zach Evanochko
+Mar 16,home,Whalley Chiefs Post Grad,W,11-3,11,3,8,win,20230316_13sq,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div2,Williston State,willistonstatecollege,zachevanochko89mg,Zach Evanochko
+Mar 30,home,Mount Marty,W,6-4,6,4,2,win,20230330_e3hz,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div2,Williston State,willistonstatecollege,zachevanochko89mg,Zach Evanochko
+Mar 30,home,Mount Marty,L,6-5,6,5,1,win,20230330_nlqr,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div2,Williston State,willistonstatecollege,zachevanochko89mg,Zach Evanochko
+Apr 9,home,Dakota-Bottineau,W,6-1,6,1,5,win,20230409_bh2d,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div2,Williston State,willistonstatecollege,zachevanochko89mg,Zach Evanochko
+Apr 9,home,Dakota-Bottineau,W,13-3,13,3,10,win,20230409_wkkh,0,0,0,0,1.0,1,1,1,9.00,1,1,2023,2022-23,div2,Williston State,willistonstatecollege,zachevanochko89mg,Zach Evanochko
+Apr 15,home,Bismarck State,L,9-5,9,5,4,win,20230415_kdmy,0,0,0,0,1.0,,1,1,9.00,1,,2023,2022-23,div2,Williston State,willistonstatecollege,zachevanochko89mg,Zach Evanochko
+Apr 16,home,North Dakota SCS,W,15-5,15,5,10,win,20230416_4ujw,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div2,Williston State,willistonstatecollege,zachevanochko89mg,Zach Evanochko
+Apr 23,home,Dakota-Bottineau,W,12-2,12,2,10,win,20230423_fjhe,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div2,Williston State,willistonstatecollege,zachevanochko89mg,Zach Evanochko
+Apr 30,home,Bismarck State,L,12-5,12,5,7,win,20230430_pzxc,0,0,0,0,2.1,1,5,1,3.86,5,,2023,2022-23,div2,Williston State,willistonstatecollege,zachevanochko89mg,Zach Evanochko
+May 14,home,Miles,L,7-4,7,4,3,win,20230514_xypm,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div2,Williston State,willistonstatecollege,zachevanochko89mg,Zach Evanochko
