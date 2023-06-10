@@ -1,11 +1,61 @@
 date,location,opponent,result,score,team_score,opp_score,game_score_diff,game_win_loss,game_id,TC,PO,A,E,FPCT,DP,SBA,RCS,RCS_PCT,PB,CI,season,njcaa_season,njcaa_division,team,team_id,player_id,player_name
-Jan 30,home,Utah State University Club,W,12-2,12,2,10,win,20230130_gy7b,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Barton,bartoncommunitycollege,kylereese11rm,Kyle Reese
-Jan 30,home,Utah State University Club,W,16-3,16,3,13,win,20230130_g6dc,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Barton,bartoncommunitycollege,kylereese11rm,Kyle Reese
-Jan 31,home,Utah State University Club,W,14-4,14,4,10,win,20230131_lzrf,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Barton,bartoncommunitycollege,kylereese11rm,Kyle Reese
-Jan 31,home,Utah State University Club,W,18-1,18,1,17,win,20230131_o8vg,0,0,0,0,1.0,1,1,,0.00,1,3,2023,2022-23,div1,Barton,bartoncommunitycollege,kylereese11rm,Kyle Reese
-Feb 2,home,Scottsdale,W,6-4,6,4,2,win,20230202_vbld,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Barton,bartoncommunitycollege,kylereese11rm,Kyle Reese
-Feb 3,home,Scottsdale,W,3-1,3,1,2,win,20230203_xaq5,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Barton,bartoncommunitycollege,kylereese11rm,Kyle Reese
-Feb 3,home,Scottsdale,W,4-3,4,3,1,win,20230203_l93e,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Barton,bartoncommunitycollege,kylereese11rm,Kyle Reese
-Feb 24,home,Treasure Valley,W,10-0,10,0,10,win,20230224_ynh3,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Barton,bartoncommunitycollege,kylereese11rm,Kyle Reese
-Feb 24,home,Treasure Valley,W,3-0,3,0,3,win,20230224_7vpy,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Barton,bartoncommunitycollege,kylereese11rm,Kyle Reese
-Feb 25,home,Treasure Valley,W,4-3,4,3,1,win,20230225_4vtn,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Barton,bartoncommunitycollege,kylereese11rm,Kyle Reese
+Jan 27,home,St. Johns River State,L,4-2,4,2,2,win,20230127_gky7,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Barton,bartoncommunitycollege,kylereese11rm,Kyle Reese
+Jan 27,home,St. Johns River State,L,13-3,13,3,10,win,20230127_r5ba,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Barton,bartoncommunitycollege,kylereese11rm,Kyle Reese
+Jan 29,home,St. Johns River State,L,8-6,8,6,2,win,20230129_jlul,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Barton,bartoncommunitycollege,kylereese11rm,Kyle Reese
+Jan 29,home,St. Johns River State,L,10-9,10,9,1,win,20230129_e9i6,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Barton,bartoncommunitycollege,kylereese11rm,Kyle Reese
+Feb 4,home,Roane State,W,9-1,9,1,8,win,20230204_2wxu,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Barton,bartoncommunitycollege,kylereese11rm,Kyle Reese
+Feb 5,home,Roane State,W,9-1,9,1,8,win,20230205_qqd4,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Barton,bartoncommunitycollege,kylereese11rm,Kyle Reese
+Feb 7,home,Tallahassee,L,10-3,10,3,7,win,20230207_b7lm,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Barton,bartoncommunitycollege,kylereese11rm,Kyle Reese
+Feb 14,home,USC Salkehatchie,W,11-0,11,0,11,win,20230214_xktu,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Barton,bartoncommunitycollege,kylereese11rm,Kyle Reese
+Feb 14,home,USC Salkehatchie,L,7-5,7,5,2,win,20230214_kdbi,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Barton,bartoncommunitycollege,kylereese11rm,Kyle Reese
+Feb 16,home,Santa Fe,L,10-3,10,3,7,win,20230216_d657,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Barton,bartoncommunitycollege,kylereese11rm,Kyle Reese
+Feb 18,home,Wallace-Dothan,L,7-5,7,5,2,win,20230218_oxdq,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Barton,bartoncommunitycollege,kylereese11rm,Kyle Reese
+Feb 20,home,USC Salkehatchie,W,6-2,6,2,4,win,20230220_wtu6,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Barton,bartoncommunitycollege,kylereese11rm,Kyle Reese
+Feb 20,home,USC Salkehatchie,W,12-1,12,1,11,win,20230220_g0pc,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Barton,bartoncommunitycollege,kylereese11rm,Kyle Reese
+Feb 22,home,Central Florida,L,13-11,13,11,2,win,20230222_11dw,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Barton,bartoncommunitycollege,kylereese11rm,Kyle Reese
+Feb 24,home,Central Florida,L,7-6,7,6,1,win,20230224_6rdh,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Barton,bartoncommunitycollege,kylereese11rm,Kyle Reese
+Feb 25,home,Tallahassee,L,4-1,4,1,3,win,20230225_th7r,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Barton,bartoncommunitycollege,kylereese11rm,Kyle Reese
+Feb 25,home,Tallahassee,L,9-2,9,2,7,win,20230225_2xm8,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Barton,bartoncommunitycollege,kylereese11rm,Kyle Reese
+Mar 1,home,Santa Fe,L,14-4,14,4,10,win,20230301_n36r,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Barton,bartoncommunitycollege,kylereese11rm,Kyle Reese
+Mar 4,home,Tallahassee,L,6-3,6,3,3,win,20230304_e31r,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Barton,bartoncommunitycollege,kylereese11rm,Kyle Reese
+Mar 4,home,Tallahassee,W,7-2,7,2,5,win,20230304_1q9m,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Barton,bartoncommunitycollege,kylereese11rm,Kyle Reese
+Mar 7,home,Florida State Jacksonville,W,11-3,11,3,8,win,20230307_7uzq,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Barton,bartoncommunitycollege,kylereese11rm,Kyle Reese
+Mar 8,home,Florida State Jacksonville,L,11-7,11,7,4,win,20230308_pehn,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Barton,bartoncommunitycollege,kylereese11rm,Kyle Reese
+Mar 9,home,Jackson,W,5-4,5,4,1,win,20230309_1xkc,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Barton,bartoncommunitycollege,kylereese11rm,Kyle Reese
+Mar 9,home,Jackson,W,17-0,17,0,17,win,20230309_q5gi,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Barton,bartoncommunitycollege,kylereese11rm,Kyle Reese
+Mar 13,home,Wallace-Dothan,W,10-5,10,5,5,win,20230313_wvw3,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Barton,bartoncommunitycollege,kylereese11rm,Kyle Reese
+Mar 13,home,Wallace-Dothan,L,7-6,7,6,1,win,20230313_qwhw,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Barton,bartoncommunitycollege,kylereese11rm,Kyle Reese
+Mar 15,home,Thomas University JV,W,16-1,16,1,15,win,20230315_9o02,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Barton,bartoncommunitycollege,kylereese11rm,Kyle Reese
+Mar 15,home,Thomas University JV,W,11-0,11,0,11,win,20230315_ed3r,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Barton,bartoncommunitycollege,kylereese11rm,Kyle Reese
+Mar 17,home,Scoutz Post Grad,W,13-1,13,1,12,win,20230317_2yqn,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Barton,bartoncommunitycollege,kylereese11rm,Kyle Reese
+Mar 17,home,Scoutz Post Grad,W,4-3,4,3,1,win,20230317_9uk3,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Barton,bartoncommunitycollege,kylereese11rm,Kyle Reese
+Mar 21,home,Georgia Highlands,L,4-3,4,3,1,win,20230321_kp1b,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Barton,bartoncommunitycollege,kylereese11rm,Kyle Reese
+Mar 24,home,Georgia Highlands,L,16-0,16,0,16,win,20230324_d5st,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Barton,bartoncommunitycollege,kylereese11rm,Kyle Reese
+Mar 25,home,Georgia Highlands,W,10-9,10,9,1,win,20230325_ecpu,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Barton,bartoncommunitycollege,kylereese11rm,Kyle Reese
+Mar 25,home,Georgia Highlands,W,8-7,8,7,1,win,20230325_upq2,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Barton,bartoncommunitycollege,kylereese11rm,Kyle Reese
+Mar 29,home,Andrew,W,7-0,7,0,7,win,20230329_7yrx,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Barton,bartoncommunitycollege,kylereese11rm,Kyle Reese
+Mar 30,home,Andrew,L,11-8,11,8,3,win,20230330_qo74,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Barton,bartoncommunitycollege,kylereese11rm,Kyle Reese
+Mar 31,home,Andrew,W,18-12,18,12,6,win,20230331_0k5w,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Barton,bartoncommunitycollege,kylereese11rm,Kyle Reese
+Mar 31,home,Andrew,W,8-6,8,6,2,win,20230331_d15a,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Barton,bartoncommunitycollege,kylereese11rm,Kyle Reese
+Apr 4,home,South Georgia State,L,12-6,12,6,6,win,20230404_v078,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Barton,bartoncommunitycollege,kylereese11rm,Kyle Reese
+Apr 5,home,South Georgia State,L,10-6,10,6,4,win,20230405_fqxo,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Barton,bartoncommunitycollege,kylereese11rm,Kyle Reese
+Apr 6,home,South Georgia State,W,2-0,2,0,2,win,20230406_19o2,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Barton,bartoncommunitycollege,kylereese11rm,Kyle Reese
+Apr 6,home,South Georgia State,W,7-1,7,1,6,win,20230406_n9f3,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Barton,bartoncommunitycollege,kylereese11rm,Kyle Reese
+Apr 11,home,East Georgia State,L,11-9,11,9,2,win,20230411_qlc4,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Barton,bartoncommunitycollege,kylereese11rm,Kyle Reese
+Apr 12,home,East Georgia State,W,8-7,8,7,1,win,20230412_q05m,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Barton,bartoncommunitycollege,kylereese11rm,Kyle Reese
+Apr 15,home,East Georgia State,L,4-3,4,3,1,win,20230415_o16l,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Barton,bartoncommunitycollege,kylereese11rm,Kyle Reese
+Apr 15,home,East Georgia State,W,12-1,12,1,11,win,20230415_4ai1,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Barton,bartoncommunitycollege,kylereese11rm,Kyle Reese
+Apr 18,home,Gordon State,L,7-6,7,6,1,win,20230418_b4cu,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Barton,bartoncommunitycollege,kylereese11rm,Kyle Reese
+Apr 20,home,Gordon State,W,19-7,19,7,12,win,20230420_8b5s,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Barton,bartoncommunitycollege,kylereese11rm,Kyle Reese
+Apr 22,home,Gordon State,W,11-6,11,6,5,win,20230422_m2d5,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Barton,bartoncommunitycollege,kylereese11rm,Kyle Reese
+Apr 22,home,Gordon State,W,15-6,15,6,9,win,20230422_77p0,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Barton,bartoncommunitycollege,kylereese11rm,Kyle Reese
+Apr 25,home,Georgia Highlands,L,13-8,13,8,5,win,20230425_p8vz,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Barton,bartoncommunitycollege,kylereese11rm,Kyle Reese
+Apr 26,home,Andrew,W,8-6,8,6,2,win,20230426_n95x,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Barton,bartoncommunitycollege,kylereese11rm,Kyle Reese
+Apr 29,home,South Georgia State,L,16-4,16,4,12,win,20230429_q4di,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Barton,bartoncommunitycollege,kylereese11rm,Kyle Reese
+May 2,home,East Georgia State,L,20-10,20,10,10,win,20230502_15ra,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Barton,bartoncommunitycollege,kylereese11rm,Kyle Reese
+May 4,home,Gordon State,W,6-4,6,4,2,win,20230504_506s,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Barton,bartoncommunitycollege,kylereese11rm,Kyle Reese
+May 9,home,Andrew,L,12-11,12,11,1,win,20230509_gsql,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Barton,bartoncommunitycollege,kylereese11rm,Kyle Reese
+May 10,home,Gordon State,W,14-13,14,13,1,win,20230510_2qu3,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Barton,bartoncommunitycollege,kylereese11rm,Kyle Reese
+May 10,home,South Georgia State,W,19-8,19,8,11,win,20230510_ak47,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Barton,bartoncommunitycollege,kylereese11rm,Kyle Reese
+May 11,home,Andrew,W,14-4,14,4,10,win,20230511_0wiv,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Barton,bartoncommunitycollege,kylereese11rm,Kyle Reese
+May 11,home,Andrew,L,11-6,11,6,5,win,20230511_8f65,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Barton,bartoncommunitycollege,kylereese11rm,Kyle Reese

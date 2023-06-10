@@ -1,18 +1,13 @@
 date,location,opponent,result,score,team_score,opp_score,game_score_diff,game_win_loss,game_id,TC,PO,A,E,FPCT,DP,SBA,RCS,RCS_PCT,PB,CI,season,njcaa_season,njcaa_division,team,team_id,player_id,player_name
-Feb 5,home,Southwest Tennessee,W,5-3,5,3,2,win,20230205_aoqu,0,0,0,0,0.2,,1,1,13.50,2,2,2023,2022-23,div1,John A. Logan,johnalogancollege,elipillsburymnzy,Eli Pillsbury
-Feb 12,home,Gulf Coast State,L,10-3,10,3,7,win,20230212_t7i1,0,0,0,0,1.0,,1,1,9.00,1,3,2023,2022-23,div1,John A. Logan,johnalogancollege,elipillsburymnzy,Eli Pillsbury
-Feb 17,home,Chattahoochee Valley,W,15-13,15,13,2,win,20230217_dfvc,0,0,0,1,1.0,2,1,1,9.00,,3,2023,2022-23,div1,John A. Logan,johnalogancollege,elipillsburymnzy,Eli Pillsbury
-Feb 25,home,South Suburban,W,6-3,6,3,3,win,20230225_77zp,0,0,0,1,1.0,1,,,0.00,,3,2023,2022-23,div1,John A. Logan,johnalogancollege,elipillsburymnzy,Eli Pillsbury
-Mar 4,home,Illinois Central,W,7-2,7,2,5,win,20230304_h97h,0,0,0,0,2.1,,,,0.00,1,4,2023,2022-23,div1,John A. Logan,johnalogancollege,elipillsburymnzy,Eli Pillsbury
-Mar 11,home,Olney Central,W,10-0,10,0,10,win,20230311_0iyu,0,0,0,0,1.0,,,,0.00,,1,2023,2022-23,div1,John A. Logan,johnalogancollege,elipillsburymnzy,Eli Pillsbury
-Mar 12,home,Carl Sandburg,W,8-7,8,7,1,win,20230312_00iu,0,0,0,1,1.0,3,2,2,18.00,1,2,2023,2022-23,div1,John A. Logan,johnalogancollege,elipillsburymnzy,Eli Pillsbury
-Mar 20,home,Kaskaskia,L,4-0,4,0,4,win,20230320_zw5s,0,0,0,0,2.1,3,2,2,7.71,1,4,2023,2022-23,div1,John A. Logan,johnalogancollege,elipillsburymnzy,Eli Pillsbury
-Mar 26,home,Wabash Valley,W,18-8,18,8,10,win,20230326_fffi,0,1,0,0,2.2,1,1,1,3.38,4,4,2023,2022-23,div1,John A. Logan,johnalogancollege,elipillsburymnzy,Eli Pillsbury
-Apr 1,home,Southeastern Illinois,W,7-1,7,1,6,win,20230401_h8i6,0,0,0,0,1.0,1,,,0.00,,2,2023,2022-23,div1,John A. Logan,johnalogancollege,elipillsburymnzy,Eli Pillsbury
-Apr 6,home,Southwestern Illinois,W,4-3,4,3,1,win,20230406_r068,0,0,0,0,0.2,2,2,1,13.50,3,2,2023,2022-23,div1,John A. Logan,johnalogancollege,elipillsburymnzy,Eli Pillsbury
-Apr 14,home,Frontier,W,11-2,11,2,9,win,20230414_xo0o,0,0,0,0,1.0,,,,0.00,1,,2023,2022-23,div1,John A. Logan,johnalogancollege,elipillsburymnzy,Eli Pillsbury
-Apr 18,home,Lincoln Trail,W,9-2,9,2,7,win,20230418_5x7n,0,0,0,0,1.0,,,,0.00,2,2,2023,2022-23,div1,John A. Logan,johnalogancollege,elipillsburymnzy,Eli Pillsbury
-Apr 25,home,Lincoln Trail,L,10-8,10,8,2,win,20230425_gf8h,0,0,0,0,1.0,,,,0.00,,1,2023,2022-23,div1,John A. Logan,johnalogancollege,elipillsburymnzy,Eli Pillsbury
-Apr 30,home,Shawnee,W,21-7,21,7,14,win,20230430_hckt,0,0,0,0,1.0,1,1,1,9.00,1,2,2023,2022-23,div1,John A. Logan,johnalogancollege,elipillsburymnzy,Eli Pillsbury
-May 4,home,Lake Land,W,13-4,13,4,9,win,20230504_x74u,0,0,0,0,2.0,,,,0.00,,1,2023,2022-23,div1,John A. Logan,johnalogancollege,elipillsburymnzy,Eli Pillsbury
-May 12,home,Southwestern Illinois,W,10-6,10,6,4,win,20230512_cgdb,0,0,0,0,0.2,1,2,1,13.50,1,,2023,2022-23,div1,John A. Logan,johnalogancollege,elipillsburymnzy,Eli Pillsbury
+Feb 12,home,East Mississippi,W,16-4,16,4,12,win,20230212_ubft,0,1,0,0,3.0,1,2,2,6.00,1,6,2023,2022-23,div1,John A. Logan,johnalogancollege,elipillsburymnzy,Eli Pillsbury
+Feb 25,home,Coastal Alabama - Monroeville,L,10-9,10,9,1,win,20230225_h3zo,1,0,0,0,3.0,4,6,2,6.00,2,3,2023,2022-23,div1,John A. Logan,johnalogancollege,elipillsburymnzy,Eli Pillsbury
+Mar 4,home,Lurleen B. Wallace,W,7-6,7,6,1,win,20230304_5jdl,1,0,0,0,3.1,5,5,5,13.50,4,5,2023,2022-23,div1,John A. Logan,johnalogancollege,elipillsburymnzy,Eli Pillsbury
+Mar 11,home,Lawson State,L,19-2,19,2,17,win,20230311_i7a9,1,0,0,0,2.1,4,5,2,7.71,4,4,2023,2022-23,div1,John A. Logan,johnalogancollege,elipillsburymnzy,Eli Pillsbury
+Mar 19,home,Central Alabama,L,9-3,9,3,6,win,20230319_t6jj,1,0,1,0,4.2,6,5,5,9.64,2,2,2023,2022-23,div1,John A. Logan,johnalogancollege,elipillsburymnzy,Eli Pillsbury
+Mar 30,home,Calhoun,L,9-7,9,7,2,win,20230330_os9z,1,0,0,0,5.0,9,6,6,10.80,1,8,2023,2022-23,div1,John A. Logan,johnalogancollege,elipillsburymnzy,Eli Pillsbury
+Apr 5,home,Shelton State,L,7-2,7,2,5,win,20230405_e0e9,1,0,1,0,5.2,8,7,3,4.76,4,2,2023,2022-23,div1,John A. Logan,johnalogancollege,elipillsburymnzy,Eli Pillsbury
+Apr 12,home,Wallace State,L,6-2,6,2,4,win,20230412_6sox,1,0,1,0,5.0,6,5,5,9.00,4,3,2023,2022-23,div1,John A. Logan,johnalogancollege,elipillsburymnzy,Eli Pillsbury
+Apr 20,home,Marion Military,L,10-8,10,8,2,win,20230420_njlr,1,0,1,0,4.2,11,9,7,13.50,2,3,2023,2022-23,div1,John A. Logan,johnalogancollege,elipillsburymnzy,Eli Pillsbury
+Apr 28,home,Southern Union State,L,6-1,6,1,5,win,20230428_qwvf,1,0,1,0,4.0,8,6,3,6.75,2,2,2023,2022-23,div1,John A. Logan,johnalogancollege,elipillsburymnzy,Eli Pillsbury
+May 4,home,Bevill State,W,10-3,10,3,7,win,20230504_1kix,1,1,0,0,7.0,9,3,3,3.86,1,4,2023,2022-23,div1,John A. Logan,johnalogancollege,elipillsburymnzy,Eli Pillsbury
+May 12,home,Coastal Alabama - Monroeville,W,3-1,3,1,2,win,20230512_b8gm,1,1,0,0,9.0,5,1,1,1.00,1,8,2023,2022-23,div1,John A. Logan,johnalogancollege,elipillsburymnzy,Eli Pillsbury

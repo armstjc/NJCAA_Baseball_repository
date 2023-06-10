@@ -1,38 +1,10 @@
 date,location,opponent,result,score,team_score,opp_score,game_score_diff,game_win_loss,game_id,AB,R,H,2B,3B,HR,RBI,BB,K,SB,CS,HBP,SF,SH,TB,XBH,HDP,GO,FO,GO/FO,PA,season,njcaa_season,njcaa_division,team,team_id,player_id,player_name
-Feb 6,home,Labette,W,15-4,15,4,11,win,20230206_iyqy,2,1,1,1,,,2,2,,,,,,,2,1,,,,,4,2023,2022-23,div1,Crowder,crowdercollege,tylerfavrettoafmj,Tyler Favretto
-Feb 9,home,Johnson County,W,6-4,6,4,2,win,20230209_xw39,3,0,0,,,,0,,1,,,,,,0,0,,,,,3,2023,2022-23,div1,Crowder,crowdercollege,tylerfavrettoafmj,Tyler Favretto
-Feb 15,home,Butler,W,11-4,11,4,7,win,20230215_x4t6,1,2,1,,,,1,2,,,,1,,,1,0,,,,,4,2023,2022-23,div1,Crowder,crowdercollege,tylerfavrettoafmj,Tyler Favretto
-Feb 18,home,Cloud County,W,9-6,9,6,3,win,20230218_waa0,3,1,1,,,,0,1,1,,,,,,1,0,,,,,4,2023,2022-23,div1,Crowder,crowdercollege,tylerfavrettoafmj,Tyler Favretto
-Feb 19,home,Cloud County,W,9-2,9,2,7,win,20230219_lsvu,2,1,0,,,,0,1,1,,,,,,0,0,,,,,3,2023,2022-23,div1,Crowder,crowdercollege,tylerfavrettoafmj,Tyler Favretto
-Feb 25,home,Colby,W,15-3,15,3,12,win,20230225_zwkw,2,1,0,,,,0,1,,,,,,,0,0,,,,,3,2023,2022-23,div1,Crowder,crowdercollege,tylerfavrettoafmj,Tyler Favretto
-Feb 26,home,Colby,W,10-3,10,3,7,win,20230226_ilsa,2,1,0,,,,0,1,,,,,,,0,0,,,,,3,2023,2022-23,div1,Crowder,crowdercollege,tylerfavrettoafmj,Tyler Favretto
-Mar 4,home,North Iowa Area,W,8-5,8,5,3,win,20230304_eeuz,3,0,1,,,,0,,1,,1,,,,1,0,,,,,3,2023,2022-23,div1,Crowder,crowdercollege,tylerfavrettoafmj,Tyler Favretto
-Mar 6,home,Fort Scott,W,20-8,20,8,12,win,20230306_4bgf,1,1,1,,,,0,,,,,,,,1,0,,,,,1,2023,2022-23,div1,Crowder,crowdercollege,tylerfavrettoafmj,Tyler Favretto
-Mar 10,home,Three Rivers,W,15-0,15,0,15,win,20230310_3me9,2,0,0,,,,0,1,1,,,1,,,0,0,,,,,4,2023,2022-23,div1,Crowder,crowdercollege,tylerfavrettoafmj,Tyler Favretto
-Mar 19,home,State Fair,W,10-2,10,2,8,win,20230319_rxz8,3,0,0,,,,1,,,,,,1,,0,0,,,,,4,2023,2022-23,div1,Crowder,crowdercollege,tylerfavrettoafmj,Tyler Favretto
-Mar 20,home,State Fair,W,10-3,10,3,7,win,20230320_6wmk,3,1,1,,,,2,2,,,,,,,1,0,,,,,5,2023,2022-23,div1,Crowder,crowdercollege,tylerfavrettoafmj,Tyler Favretto
-Mar 27,home,Fort Scott,W,7-0,7,0,7,win,20230327_bpx5,0,1,0,,,,0,1,,1,,,,,0,0,,,,,1,2023,2022-23,div1,Crowder,crowdercollege,tylerfavrettoafmj,Tyler Favretto
-Mar 28,home,St. Louis,W,13-9,13,9,4,win,20230328_hiqa,3,0,1,,,,0,,,,,1,,,1,0,,,,,4,2023,2022-23,div1,Crowder,crowdercollege,tylerfavrettoafmj,Tyler Favretto
-Mar 28,home,St. Louis,W,14-13,14,13,1,win,20230328_guzv,5,1,1,,,,0,,1,,,1,,,1,0,,,,,6,2023,2022-23,div1,Crowder,crowdercollege,tylerfavrettoafmj,Tyler Favretto
-Mar 30,home,Metropolitan,W,30-0,30,0,30,win,20230330_pe67,1,2,1,,,,1,2,,,,,,,1,0,,,,,3,2023,2022-23,div1,Crowder,crowdercollege,tylerfavrettoafmj,Tyler Favretto
-Apr 1,home,Metropolitan,W,17-7,17,7,10,win,20230401_j98u,3,2,1,,,,1,1,,,,,,,1,0,,,,,4,2023,2022-23,div1,Crowder,crowdercollege,tylerfavrettoafmj,Tyler Favretto
-Apr 4,home,Connors State,W,12-3,12,3,9,win,20230404_k6jx,4,3,2,,,,1,,,,,1,,,2,0,,,,,5,2023,2022-23,div1,Crowder,crowdercollege,tylerfavrettoafmj,Tyler Favretto
-Apr 7,home,St. Charles,W,4-1,4,1,3,win,20230407_17i4,3,0,0,,,,0,1,1,,,,,1,0,0,,,,,5,2023,2022-23,div1,Crowder,crowdercollege,tylerfavrettoafmj,Tyler Favretto
-Apr 8,home,St. Charles,W,8-6,8,6,2,win,20230408_pmb6,4,1,3,,,,1,1,,,,,,,3,0,,,,,5,2023,2022-23,div1,Crowder,crowdercollege,tylerfavrettoafmj,Tyler Favretto
-Apr 13,home,Jefferson (MO),W,13-7,13,7,6,win,20230413_nj0a,4,2,1,,,,0,2,,,,,,,1,0,,,,,6,2023,2022-23,div1,Crowder,crowdercollege,tylerfavrettoafmj,Tyler Favretto
-Apr 14,home,Jefferson (MO),W,11-5,11,5,6,win,20230414_5ygz,5,2,3,,,1,5,1,,1,,,,,6,1,,,,,6,2023,2022-23,div1,Crowder,crowdercollege,tylerfavrettoafmj,Tyler Favretto
-Apr 18,home,Neosho County,W,21-12,21,12,9,win,20230418_blht,3,4,1,,,,1,2,1,,,1,,,1,0,,,,,6,2023,2022-23,div1,Crowder,crowdercollege,tylerfavrettoafmj,Tyler Favretto
-Apr 20,home,Mineral Area,W,6-4,6,4,2,win,20230420_4txc,3,1,1,1,,,0,1,1,,,,,,2,1,,,,,4,2023,2022-23,div1,Crowder,crowdercollege,tylerfavrettoafmj,Tyler Favretto
-Apr 21,home,Mineral Area,W,2-0,2,0,2,win,20230421_1rkn,3,0,1,,,,0,,1,,,,,,1,0,,,,,3,2023,2022-23,div1,Crowder,crowdercollege,tylerfavrettoafmj,Tyler Favretto
-Apr 21,home,Mineral Area,W,10-0,10,0,10,win,20230421_rk6l,3,3,3,,,,2,,,,,,,,3,0,,,,,3,2023,2022-23,div1,Crowder,crowdercollege,tylerfavrettoafmj,Tyler Favretto
-Apr 22,home,Mineral Area,W,7-3,7,3,4,win,20230422_g76k,4,0,0,,,,0,,,,,,,,0,0,,,,,4,2023,2022-23,div1,Crowder,crowdercollege,tylerfavrettoafmj,Tyler Favretto
-Apr 25,home,Northeastern Oklahoma A&M,W,14-1,14,1,13,win,20230425_3s0k,5,1,2,,,,1,,1,,,,,,2,0,,,,,5,2023,2022-23,div1,Crowder,crowdercollege,tylerfavrettoafmj,Tyler Favretto
-Apr 29,home,Three Rivers,W,7-5,7,5,2,win,20230429_jqk8,3,2,2,,,1,1,1,,,,,,,5,1,,,,,4,2023,2022-23,div1,Crowder,crowdercollege,tylerfavrettoafmj,Tyler Favretto
-Apr 29,home,Three Rivers,W,7-6,7,6,1,win,20230429_0aoo,3,0,1,1,,,0,1,1,,,,,,2,1,,,,,4,2023,2022-23,div1,Crowder,crowdercollege,tylerfavrettoafmj,Tyler Favretto
-Apr 30,home,St. Louis,W,6-5,6,5,1,win,20230430_0hx0,1,1,0,,,,0,2,,,,,,,0,0,,,,,3,2023,2022-23,div1,Crowder,crowdercollege,tylerfavrettoafmj,Tyler Favretto
-Apr 30,home,St. Louis,W,17-12,17,12,5,win,20230430_5qky,6,1,2,1,,,2,,,,,,,,3,1,,,,,6,2023,2022-23,div1,Crowder,crowdercollege,tylerfavrettoafmj,Tyler Favretto
-May 6,home,Metropolitan,W,12-2,12,2,10,win,20230506_579c,3,0,0,,,,0,,,,,,,,0,0,,,,,3,2023,2022-23,div1,Crowder,crowdercollege,tylerfavrettoafmj,Tyler Favretto
-May 6,home,Metropolitan,W,17-4,17,4,13,win,20230506_9dby,4,1,4,1,1,,5,,,,,,,,7,2,,,,,4,2023,2022-23,div1,Crowder,crowdercollege,tylerfavrettoafmj,Tyler Favretto
-May 11,home,Mineral Area,W,10-0,10,0,10,win,20230511_rw8b,1,1,1,1,,,0,2,,,,,,,2,1,,,,,3,2023,2022-23,div1,Crowder,crowdercollege,tylerfavrettoafmj,Tyler Favretto
-May 12,home,St. Charles,W,8-5,8,5,3,win,20230512_izc5,3,2,1,,,1,1,1,,,,,,,4,1,,,,,4,2023,2022-23,div1,Crowder,crowdercollege,tylerfavrettoafmj,Tyler Favretto
-May 13,home,St. Charles,W,13-2,13,2,11,win,20230513_rges,2,3,1,1,,,1,2,,,,1,,,2,1,,,,,5,2023,2022-23,div1,Crowder,crowdercollege,tylerfavrettoafmj,Tyler Favretto
+Feb 4,home,Coastal Alabama - Brewton,W,16-0,16,0,16,win,20230204_mlmr,0,0,0,,,,0,,,,,,,,0,0,,,,,0,2023,2022-23,div1,Crowder,crowdercollege,tylerfavrettoafmj,Tyler Favretto
+Feb 10,home,Lincoln Trail,W,4-0,4,0,4,win,20230210_kssf,0,0,0,,,,0,,,,,,,,0,0,,,,,0,2023,2022-23,div1,Crowder,crowdercollege,tylerfavrettoafmj,Tyler Favretto
+Feb 24,home,Chattahoochee Valley,W,5-3,5,3,2,win,20230224_8um2,0,0,0,,,,0,,,,,,,,0,0,,,,,0,2023,2022-23,div1,Crowder,crowdercollege,tylerfavrettoafmj,Tyler Favretto
+Mar 4,home,USC Salkehatchie,W,13-1,13,1,12,win,20230304_6ow4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0,,,0,2023,2022-23,div1,Crowder,crowdercollege,tylerfavrettoafmj,Tyler Favretto
+Mar 10,home,Macomb,W,11-1,11,1,10,win,20230310_dngf,0,0,0,,,,0,,,,,,,,0,0,,,,,0,2023,2022-23,div1,Crowder,crowdercollege,tylerfavrettoafmj,Tyler Favretto
+Apr 1,home,East Georgia State,W,2-1,2,1,1,win,20230401_fsxn,0,0,0,,,,0,,,,,,,,0,0,,,,,0,2023,2022-23,div1,Crowder,crowdercollege,tylerfavrettoafmj,Tyler Favretto
+Apr 7,home,Gordon State,W,3-2,3,2,1,win,20230407_5mvk,0,0,0,,,,0,,,,,,,,0,0,,,,,0,2023,2022-23,div1,Crowder,crowdercollege,tylerfavrettoafmj,Tyler Favretto
+Apr 21,home,Andrew,W,9-3,9,3,6,win,20230421_pt7j,0,0,0,,,,0,,,,,,,,0,0,,,,,0,2023,2022-23,div1,Crowder,crowdercollege,tylerfavrettoafmj,Tyler Favretto
+Apr 29,home,Gordon State,W,14-4,14,4,10,win,20230429_01w9,0,0,0,,,,0,,,,,,,,0,0,,,,,0,2023,2022-23,div1,Crowder,crowdercollege,tylerfavrettoafmj,Tyler Favretto

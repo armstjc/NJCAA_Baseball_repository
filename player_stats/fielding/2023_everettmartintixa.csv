@@ -1,37 +1,61 @@
 date,location,opponent,result,score,team_score,opp_score,game_score_diff,game_win_loss,game_id,TC,PO,A,E,FPCT,DP,SBA,RCS,RCS_PCT,PB,CI,season,njcaa_season,njcaa_division,team,team_id,player_id,player_name
-Jan 27,home,Chipola,L,13-7,13,7,6,win,20230127_ntwa,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Polk State,polkstatecollege,everettmartintixa,Everett Martin
-Jan 27,home,Central Florida,L,5-2,5,2,3,win,20230127_1f90,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Polk State,polkstatecollege,everettmartintixa,Everett Martin
-Jan 28,home,Florida SouthWestern State,L,8-6,8,6,2,win,20230128_0cjs,0,0,0,0,1.2,2,1,1,5.40,1,1,2023,2022-23,div1,Polk State,polkstatecollege,everettmartintixa,Everett Martin
-Feb 1,home,Santa Fe,L,11-6,11,6,5,win,20230201_ewy0,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Polk State,polkstatecollege,everettmartintixa,Everett Martin
-Feb 4,home,Daytona State,W,10-8,10,8,2,win,20230204_dodv,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Polk State,polkstatecollege,everettmartintixa,Everett Martin
-Feb 6,home,Seminole State (FL),W,7-5,7,5,2,win,20230206_2yjf,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Polk State,polkstatecollege,everettmartintixa,Everett Martin
-Feb 7,home,Webber International University (B),W,16-2,16,2,14,win,20230207_1i0u,0,0,0,0,1.0,2,2,2,18.00,2,3,2023,2022-23,div1,Polk State,polkstatecollege,everettmartintixa,Everett Martin
-Feb 10,home,Lake-Sumter State,W,8-6,8,6,2,win,20230210_siol,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Polk State,polkstatecollege,everettmartintixa,Everett Martin
-Feb 11,home,Lake-Sumter State,L,10-4,10,4,6,win,20230211_rmxg,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Polk State,polkstatecollege,everettmartintixa,Everett Martin
-Feb 15,home,South Florida State,W,12-4,12,4,8,win,20230215_twp6,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Polk State,polkstatecollege,everettmartintixa,Everett Martin
-Feb 17,home,Seminole State (FL),W,9-7,9,7,2,win,20230217_s0cj,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Polk State,polkstatecollege,everettmartintixa,Everett Martin
-Feb 20,home,Santa Fe,L,3-2,3,2,1,win,20230220_hxzu,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Polk State,polkstatecollege,everettmartintixa,Everett Martin
-Feb 21,home,St. Johns River State,W,12-5,12,5,7,win,20230221_0mf2,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Polk State,polkstatecollege,everettmartintixa,Everett Martin
-Feb 24,home,Florida SouthWestern State,L,12-1,12,1,11,win,20230224_9g70,0,0,0,0,2.0,1,,,0.00,,4,2023,2022-23,div1,Polk State,polkstatecollege,everettmartintixa,Everett Martin
-Feb 25,home,Rollins College (B),W,10-3,10,3,7,win,20230225_cfze,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Polk State,polkstatecollege,everettmartintixa,Everett Martin
-Mar 1,home,Indian River State,W,13-10,13,10,3,win,20230301_72iv,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Polk State,polkstatecollege,everettmartintixa,Everett Martin
-Mar 3,home,Florida SouthWestern State,L,13-6,13,6,7,win,20230303_fg5y,0,0,0,0,2.0,1,,,0.00,1,1,2023,2022-23,div1,Polk State,polkstatecollege,everettmartintixa,Everett Martin
-Mar 4,home,University of Tampa (B),W,8-2,8,2,6,win,20230304_skio,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Polk State,polkstatecollege,everettmartintixa,Everett Martin
-Mar 7,home,Indian River State,W,9-3,9,3,6,win,20230307_xkvj,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Polk State,polkstatecollege,everettmartintixa,Everett Martin
-Mar 13,home,Hillsborough,W,9-6,9,6,3,win,20230313_ak7v,0,0,0,0,0.1,,,,0.00,2,,2023,2022-23,div1,Polk State,polkstatecollege,everettmartintixa,Everett Martin
-Mar 17,home,St. Petersburg,W,8-7,8,7,1,win,20230317_mvcu,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Polk State,polkstatecollege,everettmartintixa,Everett Martin
-Mar 18,home,St. Petersburg,L,13-7,13,7,6,win,20230318_sfnj,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Polk State,polkstatecollege,everettmartintixa,Everett Martin
-Mar 22,home,St. Petersburg,L,16-13,16,13,3,win,20230322_eqvb,0,0,0,0,2.2,4,3,3,10.13,,4,2023,2022-23,div1,Polk State,polkstatecollege,everettmartintixa,Everett Martin
-Mar 27,home,State College of Florida,L,11-1,11,1,10,win,20230327_pyu4,0,0,0,0,1.1,6,5,5,33.75,2,2,2023,2022-23,div1,Polk State,polkstatecollege,everettmartintixa,Everett Martin
-Mar 31,home,Warner University (B),W,18-3,18,3,15,win,20230331_141l,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Polk State,polkstatecollege,everettmartintixa,Everett Martin
-Apr 3,home,Florida Southern College (B),W,13-3,13,3,10,win,20230403_03we,0,1,0,0,2.0,1,,,0.00,2,4,2023,2022-23,div1,Polk State,polkstatecollege,everettmartintixa,Everett Martin
-Apr 4,home,Warner University (B),W,10-1,10,1,9,win,20230404_v9lz,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Polk State,polkstatecollege,everettmartintixa,Everett Martin
-Apr 7,home,Hillsborough,W,9-6,9,6,3,win,20230407_s45v,0,1,0,0,1.0,,,,0.00,,2,2023,2022-23,div1,Polk State,polkstatecollege,everettmartintixa,Everett Martin
-Apr 10,home,Hillsborough,W,5-3,5,3,2,win,20230410_ii4x,0,0,0,0,0.2,1,1,1,13.50,1,,2023,2022-23,div1,Polk State,polkstatecollege,everettmartintixa,Everett Martin
-Apr 12,home,Hillsborough,L,14-6,14,6,8,win,20230412_pr1p,0,0,0,0,1.0,,,,0.00,,1,2023,2022-23,div1,Polk State,polkstatecollege,everettmartintixa,Everett Martin
-Apr 17,home,St. Petersburg,L,10-9,10,9,1,win,20230417_i24t,0,0,0,0,0.1,,,,0.00,1,1,2023,2022-23,div1,Polk State,polkstatecollege,everettmartintixa,Everett Martin
-Apr 19,home,St. Petersburg,W,4-3,4,3,1,win,20230419_1obb,0,0,0,0,1.0,2,2,2,18.00,2,,2023,2022-23,div1,Polk State,polkstatecollege,everettmartintixa,Everett Martin
-Apr 22,home,State College of Florida,L,21-4,21,4,17,win,20230422_9e1r,0,0,0,0,0.1,2,4,4,108.00,2,1,2023,2022-23,div1,Polk State,polkstatecollege,everettmartintixa,Everett Martin
-Apr 24,home,State College of Florida,W,8-7,8,7,1,win,20230424_9bhc,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Polk State,polkstatecollege,everettmartintixa,Everett Martin
-Apr 26,home,State College of Florida,L,14-1,14,1,13,win,20230426_zubw,0,0,0,0,1.2,4,6,6,32.40,2,3,2023,2022-23,div1,Polk State,polkstatecollege,everettmartintixa,Everett Martin
-May 6,home,Northwest Florida State,L,14-8,14,8,6,win,20230506_ia31,0,0,0,0,1.0,1,3,3,27.00,2,1,2023,2022-23,div1,Polk State,polkstatecollege,everettmartintixa,Everett Martin
+Jan 27,home,St. Johns River State,L,4-2,4,2,2,win,20230127_gky7,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Polk State,polkstatecollege,everettmartintixa,Everett Martin
+Jan 27,home,St. Johns River State,L,13-3,13,3,10,win,20230127_r5ba,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Polk State,polkstatecollege,everettmartintixa,Everett Martin
+Jan 29,home,St. Johns River State,L,8-6,8,6,2,win,20230129_jlul,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Polk State,polkstatecollege,everettmartintixa,Everett Martin
+Jan 29,home,St. Johns River State,L,10-9,10,9,1,win,20230129_e9i6,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Polk State,polkstatecollege,everettmartintixa,Everett Martin
+Feb 4,home,Roane State,W,9-1,9,1,8,win,20230204_2wxu,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Polk State,polkstatecollege,everettmartintixa,Everett Martin
+Feb 5,home,Roane State,W,9-1,9,1,8,win,20230205_qqd4,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Polk State,polkstatecollege,everettmartintixa,Everett Martin
+Feb 7,home,Tallahassee,L,10-3,10,3,7,win,20230207_b7lm,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Polk State,polkstatecollege,everettmartintixa,Everett Martin
+Feb 14,home,USC Salkehatchie,W,11-0,11,0,11,win,20230214_xktu,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Polk State,polkstatecollege,everettmartintixa,Everett Martin
+Feb 14,home,USC Salkehatchie,L,7-5,7,5,2,win,20230214_kdbi,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Polk State,polkstatecollege,everettmartintixa,Everett Martin
+Feb 16,home,Santa Fe,L,10-3,10,3,7,win,20230216_d657,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Polk State,polkstatecollege,everettmartintixa,Everett Martin
+Feb 18,home,Wallace-Dothan,L,7-5,7,5,2,win,20230218_oxdq,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Polk State,polkstatecollege,everettmartintixa,Everett Martin
+Feb 20,home,USC Salkehatchie,W,6-2,6,2,4,win,20230220_wtu6,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Polk State,polkstatecollege,everettmartintixa,Everett Martin
+Feb 20,home,USC Salkehatchie,W,12-1,12,1,11,win,20230220_g0pc,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Polk State,polkstatecollege,everettmartintixa,Everett Martin
+Feb 22,home,Central Florida,L,13-11,13,11,2,win,20230222_11dw,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Polk State,polkstatecollege,everettmartintixa,Everett Martin
+Feb 24,home,Central Florida,L,7-6,7,6,1,win,20230224_6rdh,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Polk State,polkstatecollege,everettmartintixa,Everett Martin
+Feb 25,home,Tallahassee,L,4-1,4,1,3,win,20230225_th7r,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Polk State,polkstatecollege,everettmartintixa,Everett Martin
+Feb 25,home,Tallahassee,L,9-2,9,2,7,win,20230225_2xm8,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Polk State,polkstatecollege,everettmartintixa,Everett Martin
+Mar 1,home,Santa Fe,L,14-4,14,4,10,win,20230301_n36r,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Polk State,polkstatecollege,everettmartintixa,Everett Martin
+Mar 4,home,Tallahassee,L,6-3,6,3,3,win,20230304_e31r,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Polk State,polkstatecollege,everettmartintixa,Everett Martin
+Mar 4,home,Tallahassee,W,7-2,7,2,5,win,20230304_1q9m,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Polk State,polkstatecollege,everettmartintixa,Everett Martin
+Mar 7,home,Florida State Jacksonville,W,11-3,11,3,8,win,20230307_7uzq,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Polk State,polkstatecollege,everettmartintixa,Everett Martin
+Mar 8,home,Florida State Jacksonville,L,11-7,11,7,4,win,20230308_pehn,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Polk State,polkstatecollege,everettmartintixa,Everett Martin
+Mar 9,home,Jackson,W,5-4,5,4,1,win,20230309_1xkc,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Polk State,polkstatecollege,everettmartintixa,Everett Martin
+Mar 9,home,Jackson,W,17-0,17,0,17,win,20230309_q5gi,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Polk State,polkstatecollege,everettmartintixa,Everett Martin
+Mar 13,home,Wallace-Dothan,W,10-5,10,5,5,win,20230313_wvw3,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Polk State,polkstatecollege,everettmartintixa,Everett Martin
+Mar 13,home,Wallace-Dothan,L,7-6,7,6,1,win,20230313_qwhw,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Polk State,polkstatecollege,everettmartintixa,Everett Martin
+Mar 15,home,Thomas University JV,W,16-1,16,1,15,win,20230315_9o02,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Polk State,polkstatecollege,everettmartintixa,Everett Martin
+Mar 15,home,Thomas University JV,W,11-0,11,0,11,win,20230315_ed3r,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Polk State,polkstatecollege,everettmartintixa,Everett Martin
+Mar 17,home,Scoutz Post Grad,W,13-1,13,1,12,win,20230317_2yqn,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Polk State,polkstatecollege,everettmartintixa,Everett Martin
+Mar 17,home,Scoutz Post Grad,W,4-3,4,3,1,win,20230317_9uk3,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Polk State,polkstatecollege,everettmartintixa,Everett Martin
+Mar 21,home,Georgia Highlands,L,4-3,4,3,1,win,20230321_kp1b,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Polk State,polkstatecollege,everettmartintixa,Everett Martin
+Mar 24,home,Georgia Highlands,L,16-0,16,0,16,win,20230324_d5st,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Polk State,polkstatecollege,everettmartintixa,Everett Martin
+Mar 25,home,Georgia Highlands,W,10-9,10,9,1,win,20230325_ecpu,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Polk State,polkstatecollege,everettmartintixa,Everett Martin
+Mar 25,home,Georgia Highlands,W,8-7,8,7,1,win,20230325_upq2,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Polk State,polkstatecollege,everettmartintixa,Everett Martin
+Mar 29,home,Andrew,W,7-0,7,0,7,win,20230329_7yrx,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Polk State,polkstatecollege,everettmartintixa,Everett Martin
+Mar 30,home,Andrew,L,11-8,11,8,3,win,20230330_qo74,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Polk State,polkstatecollege,everettmartintixa,Everett Martin
+Mar 31,home,Andrew,W,18-12,18,12,6,win,20230331_0k5w,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Polk State,polkstatecollege,everettmartintixa,Everett Martin
+Mar 31,home,Andrew,W,8-6,8,6,2,win,20230331_d15a,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Polk State,polkstatecollege,everettmartintixa,Everett Martin
+Apr 4,home,South Georgia State,L,12-6,12,6,6,win,20230404_v078,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Polk State,polkstatecollege,everettmartintixa,Everett Martin
+Apr 5,home,South Georgia State,L,10-6,10,6,4,win,20230405_fqxo,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Polk State,polkstatecollege,everettmartintixa,Everett Martin
+Apr 6,home,South Georgia State,W,2-0,2,0,2,win,20230406_19o2,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Polk State,polkstatecollege,everettmartintixa,Everett Martin
+Apr 6,home,South Georgia State,W,7-1,7,1,6,win,20230406_n9f3,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Polk State,polkstatecollege,everettmartintixa,Everett Martin
+Apr 11,home,East Georgia State,L,11-9,11,9,2,win,20230411_qlc4,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Polk State,polkstatecollege,everettmartintixa,Everett Martin
+Apr 12,home,East Georgia State,W,8-7,8,7,1,win,20230412_q05m,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Polk State,polkstatecollege,everettmartintixa,Everett Martin
+Apr 15,home,East Georgia State,L,4-3,4,3,1,win,20230415_o16l,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Polk State,polkstatecollege,everettmartintixa,Everett Martin
+Apr 15,home,East Georgia State,W,12-1,12,1,11,win,20230415_4ai1,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Polk State,polkstatecollege,everettmartintixa,Everett Martin
+Apr 18,home,Gordon State,L,7-6,7,6,1,win,20230418_b4cu,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Polk State,polkstatecollege,everettmartintixa,Everett Martin
+Apr 20,home,Gordon State,W,19-7,19,7,12,win,20230420_8b5s,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Polk State,polkstatecollege,everettmartintixa,Everett Martin
+Apr 22,home,Gordon State,W,11-6,11,6,5,win,20230422_m2d5,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Polk State,polkstatecollege,everettmartintixa,Everett Martin
+Apr 22,home,Gordon State,W,15-6,15,6,9,win,20230422_77p0,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Polk State,polkstatecollege,everettmartintixa,Everett Martin
+Apr 25,home,Georgia Highlands,L,13-8,13,8,5,win,20230425_p8vz,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Polk State,polkstatecollege,everettmartintixa,Everett Martin
+Apr 26,home,Andrew,W,8-6,8,6,2,win,20230426_n95x,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Polk State,polkstatecollege,everettmartintixa,Everett Martin
+Apr 29,home,South Georgia State,L,16-4,16,4,12,win,20230429_q4di,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Polk State,polkstatecollege,everettmartintixa,Everett Martin
+May 2,home,East Georgia State,L,20-10,20,10,10,win,20230502_15ra,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Polk State,polkstatecollege,everettmartintixa,Everett Martin
+May 4,home,Gordon State,W,6-4,6,4,2,win,20230504_506s,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Polk State,polkstatecollege,everettmartintixa,Everett Martin
+May 9,home,Andrew,L,12-11,12,11,1,win,20230509_gsql,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Polk State,polkstatecollege,everettmartintixa,Everett Martin
+May 10,home,Gordon State,W,14-13,14,13,1,win,20230510_2qu3,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Polk State,polkstatecollege,everettmartintixa,Everett Martin
+May 10,home,South Georgia State,W,19-8,19,8,11,win,20230510_ak47,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Polk State,polkstatecollege,everettmartintixa,Everett Martin
+May 11,home,Andrew,W,14-4,14,4,10,win,20230511_0wiv,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Polk State,polkstatecollege,everettmartintixa,Everett Martin
+May 11,home,Andrew,L,11-6,11,6,5,win,20230511_8f65,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Polk State,polkstatecollege,everettmartintixa,Everett Martin
