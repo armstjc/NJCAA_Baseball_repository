@@ -1,11 +1,13 @@
 date,location,opponent,result,score,team_score,opp_score,game_score_diff,game_win_loss,game_id,AB,R,H,2B,3B,HR,RBI,BB,K,SB,CS,HBP,SF,SH,TB,XBH,HDP,GO,FO,GO/FO,PA,season,njcaa_season,njcaa_division,team,team_id,player_id,player_name
-Feb 26,home,Lake Land,W,10-2,10,2,8,win,20230226_ubba,0,0,0,,,,0,,,,,,,,0,0,,,,,0,2023,2022-23,div2,Parkland,parklandcollege,cartermonke0qm8,Carter Monke
-Mar 5,home,Harper,W,13-0,13,0,13,win,20230305_1y1j,0,0,0,,,,0,,,,,,,,0,0,,,,,0,2023,2022-23,div2,Parkland,parklandcollege,cartermonke0qm8,Carter Monke
-Mar 12,home,Kirkwood,W,4-2,4,2,2,win,20230312_xzs1,0,0,0,,,,0,,,,,,,,0,0,,,,,0,2023,2022-23,div2,Parkland,parklandcollege,cartermonke0qm8,Carter Monke
-Mar 21,home,Spoon River,W,8-0,8,0,8,win,20230321_7ixq,0,0,0,,,,0,,,,,,,,0,0,,,,,0,2023,2022-23,div2,Parkland,parklandcollege,cartermonke0qm8,Carter Monke
-Apr 1,home,John Wood,W,7-2,7,2,5,win,20230401_k858,0,0,0,,,,0,,,,,,,,0,0,,,,,0,2023,2022-23,div2,Parkland,parklandcollege,cartermonke0qm8,Carter Monke
-Apr 14,home,Danville Area,W,10-0,10,0,10,win,20230414_p8cg,0,0,0,,,,0,,,,,,,,0,0,,,,,0,2023,2022-23,div2,Parkland,parklandcollege,cartermonke0qm8,Carter Monke
-Apr 21,home,Illinois Central,W,5-1,5,1,4,win,20230421_4rv5,0,0,0,,,,0,,,,,,,,0,0,,,,,0,2023,2022-23,div2,Parkland,parklandcollege,cartermonke0qm8,Carter Monke
-Apr 28,home,Lincoln Land,W,8-5,8,5,3,win,20230428_afr2,0,0,0,,,,0,,,,,,,,0,0,,,,,0,2023,2022-23,div2,Parkland,parklandcollege,cartermonke0qm8,Carter Monke
-May 5,home,Vincennes,W,12-2,12,2,10,win,20230505_bkpv,0,0,0,,,,0,,,,,,,,0,0,,,,,0,2023,2022-23,div2,Parkland,parklandcollege,cartermonke0qm8,Carter Monke
-May 18,home,Illinois Central,W,8-5,8,5,3,win,20230518_u4nb,0,0,0,,,,0,,,,,,,,0,0,,,,,0,2023,2022-23,div2,Parkland,parklandcollege,cartermonke0qm8,Carter Monke
+Feb 26,home,Lake Land,W,10-1,10,1,9,win,20230226_72vf,0,0,0,,,,0,,,,,1,,,0,0,,,,,1,2023,2022-23,div2,Parkland,parklandcollege,cartermonke0qm8,Carter Monke
+Mar 5,home,Harper,W,13-0,13,0,13,win,20230305_1y1j,0,1,0,,,,0,1,,,,,,,0,0,,,,,1,2023,2022-23,div2,Parkland,parklandcollege,cartermonke0qm8,Carter Monke
+Mar 15,home,Northwest Mississippi,W,5-1,5,1,4,win,20230315_wvwy,1,0,0,,,,0,,1,,,,,,0,0,,,,,1,2023,2022-23,div2,Parkland,parklandcollege,cartermonke0qm8,Carter Monke
+Mar 20,home,Spoon River,W,15-0,15,0,15,win,20230320_qele,1,1,1,,,1,3,,,,,,,,4,1,,,,,1,2023,2022-23,div2,Parkland,parklandcollege,cartermonke0qm8,Carter Monke
+Mar 21,home,Spoon River,W,6-1,6,1,5,win,20230321_yw49,4,1,2,,,1,2,1,1,,,,,,5,1,,,,,5,2023,2022-23,div2,Parkland,parklandcollege,cartermonke0qm8,Carter Monke
+Mar 22,home,Quincy JV,W,12-2,12,2,10,win,20230322_idcn,2,0,0,,,,0,,2,,,,,,0,0,,,,,2,2023,2022-23,div2,Parkland,parklandcollege,cartermonke0qm8,Carter Monke
+Mar 29,home,Marian University JV,W,17-12,17,12,5,win,20230329_ogls,2,0,0,,,,0,,,,,,,,0,0,,,,,2,2023,2022-23,div2,Parkland,parklandcollege,cartermonke0qm8,Carter Monke
+Apr 5,home,Illinois Wesleyan University JV,W,9-1,9,1,8,win,20230405_b2qt,0,0,0,,,,0,,,,,,,,0,0,,,,,0,2023,2022-23,div2,Parkland,parklandcollege,cartermonke0qm8,Carter Monke
+Apr 15,home,Danville Area,W,16-7,16,7,9,win,20230415_2t9x,0,0,0,,,,0,,,,,,,,0,0,,,,,0,2023,2022-23,div2,Parkland,parklandcollege,cartermonke0qm8,Carter Monke
+Apr 19,home,Millikin University,W,2-1,2,1,1,win,20230419_z244,2,0,0,,,,0,,,,,,,,0,0,,,,,2,2023,2022-23,div2,Parkland,parklandcollege,cartermonke0qm8,Carter Monke
+Apr 29,home,Lincoln Land,W,12-7,12,7,5,win,20230429_1kk2,0,0,0,,,,0,,,,,,,,0,0,,,,,0,2023,2022-23,div2,Parkland,parklandcollege,cartermonke0qm8,Carter Monke
+May 12,home,Lewis & Clark,W,2-1,2,1,1,win,20230512_pd43,0,0,0,,,,0,,,,,,,,0,0,,,,,0,2023,2022-23,div2,Parkland,parklandcollege,cartermonke0qm8,Carter Monke

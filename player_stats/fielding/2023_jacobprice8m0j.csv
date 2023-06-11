@@ -1,13 +1,22 @@
 date,location,opponent,result,score,team_score,opp_score,game_score_diff,game_win_loss,game_id,TC,PO,A,E,FPCT,DP,SBA,RCS,RCS_PCT,PB,CI,season,njcaa_season,njcaa_division,team,team_id,player_id,player_name
-Feb 26,home,Illinois Valley,W,12-0,12,0,12,win,20230226_veju,0,0,0,0,1.0,1,0,0,0.00,0,2,2023,2022-23,div2,Heartland,heartlandcommunitycollege,jacobprice8m0j,Jacob Price
-Mar 15,home,SUNY Adirondack,W,14-2,14,2,12,win,20230315_60n1,1,0,0,0,2.0,4,2,2,9.00,0,3,2023,2022-23,div2,Heartland,heartlandcommunitycollege,jacobprice8m0j,Jacob Price
-Mar 28,home,Parkland,W,17-3,17,3,14,win,20230328_m9qj,0,0,0,0,1.0,,,,0.00,,1,2023,2022-23,div2,Heartland,heartlandcommunitycollege,jacobprice8m0j,Jacob Price
-Apr 3,home,Lincoln Land,L,9-8,9,8,1,win,20230403_3hq1,0,0,0,0,0.1,1,,,0.00,,,2023,2022-23,div2,Heartland,heartlandcommunitycollege,jacobprice8m0j,Jacob Price
-Apr 11,home,Lake Land,W,26-13,26,13,13,win,20230411_2eyt,1,0,0,0,1.0,3,6,6,54.00,3,0,2023,2022-23,div2,Heartland,heartlandcommunitycollege,jacobprice8m0j,Jacob Price
-Apr 18,home,South Suburban,W,3-2,3,2,1,win,20230418_hhgx,0,0,0,0,2.0,,,,0.00,,1,2023,2022-23,div2,Heartland,heartlandcommunitycollege,jacobprice8m0j,Jacob Price
-Apr 25,home,Rock Valley,W,11-5,11,5,6,win,20230425_574d,0,0,0,0,1.0,1,,,0.00,,1,2023,2022-23,div2,Heartland,heartlandcommunitycollege,jacobprice8m0j,Jacob Price
-Apr 29,home,Danville Area,W,9-4,9,4,5,win,20230429_n8cy,0,0,0,0,2.0,2,,,0.00,,2,2023,2022-23,div2,Heartland,heartlandcommunitycollege,jacobprice8m0j,Jacob Price
-May 6,home,John Wood,W,10-9,10,9,1,win,20230506_eq4r,0,1,0,0,0.1,,,,0.00,,1,2023,2022-23,div2,Heartland,heartlandcommunitycollege,jacobprice8m0j,Jacob Price
-May 7,home,John Wood,W,24-11,24,11,13,win,20230507_987x,0,1,0,0,2.0,3,2,2,9.00,2,3,2023,2022-23,div2,Heartland,heartlandcommunitycollege,jacobprice8m0j,Jacob Price
-May 29,home,(5) St. Johns River State,W,5-4,5,4,1,win,20230529_8pt7,0,0,0,0,2.1,2,,,0.00,,1,2023,2022-23,div2,Heartland,heartlandcommunitycollege,jacobprice8m0j,Jacob Price
-Jun 3,home,(6) Southeastern,W,8-6,8,6,2,win,20230603_q8m3,0,0,0,1,2.0,,,,0.00,1,,2023,2022-23,div2,Heartland,heartlandcommunitycollege,jacobprice8m0j,Jacob Price
+Mar 1,home,Rochester,W,6-5,6,5,1,win,20230301_j8vs,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div2,Heartland,heartlandcommunitycollege,jacobprice8m0j,Jacob Price
+Mar 1,home,Rochester,W,14-3,14,3,11,win,20230301_zb8b,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div2,Heartland,heartlandcommunitycollege,jacobprice8m0j,Jacob Price
+Mar 7,home,Iowa Western,L,12-2,12,2,10,win,20230307_2hku,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div2,Heartland,heartlandcommunitycollege,jacobprice8m0j,Jacob Price
+Mar 7,home,Iowa Western,L,3-0,3,0,3,win,20230307_y2ov,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div2,Heartland,heartlandcommunitycollege,jacobprice8m0j,Jacob Price
+Mar 20,home,Iowa Central,L,15-4,15,4,11,win,20230320_xs3h,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div2,Heartland,heartlandcommunitycollege,jacobprice8m0j,Jacob Price
+Mar 20,home,Iowa Central,L,14-9,14,9,5,win,20230320_u5ht,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div2,Heartland,heartlandcommunitycollege,jacobprice8m0j,Jacob Price
+Mar 27,home,Century,W,8-5,8,5,3,win,20230327_d3dw,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div2,Heartland,heartlandcommunitycollege,jacobprice8m0j,Jacob Price
+Mar 27,home,Century,W,2-0,2,0,2,win,20230327_syv8,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div2,Heartland,heartlandcommunitycollege,jacobprice8m0j,Jacob Price
+Apr 7,home,Minnesota Post Grad,W,9-3,9,3,6,win,20230407_1yp1,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div2,Heartland,heartlandcommunitycollege,jacobprice8m0j,Jacob Price
+Apr 7,home,Minnesota North College - Itasca,W,9-4,9,4,5,win,20230407_q3h3,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div2,Heartland,heartlandcommunitycollege,jacobprice8m0j,Jacob Price
+Apr 8,home,Minnesota North College - Itasca,W,14-13,14,13,1,win,20230408_58pb,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div2,Heartland,heartlandcommunitycollege,jacobprice8m0j,Jacob Price
+Apr 23,home,Hamline JV,W,9-0,9,0,9,win,20230423_zvfu,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div2,Heartland,heartlandcommunitycollege,jacobprice8m0j,Jacob Price
+Apr 25,home,Luther College,W,6-3,6,3,3,win,20230425_m19k,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div2,Heartland,heartlandcommunitycollege,jacobprice8m0j,Jacob Price
+Apr 25,home,Luther College,L,9-7,9,7,2,win,20230425_fb4u,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div2,Heartland,heartlandcommunitycollege,jacobprice8m0j,Jacob Price
+Apr 26,home,Rochester,W,4-3,4,3,1,win,20230426_kewj,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div2,Heartland,heartlandcommunitycollege,jacobprice8m0j,Jacob Price
+Apr 26,home,Rochester,W,6-4,6,4,2,win,20230426_kl1b,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div2,Heartland,heartlandcommunitycollege,jacobprice8m0j,Jacob Price
+May 2,home,Rochester,W,15-0,15,0,15,win,20230502_pcth,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div2,Heartland,heartlandcommunitycollege,jacobprice8m0j,Jacob Price
+May 4,home,St. John's University JV,L,13-0,13,0,13,win,20230504_pq5z,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div2,Heartland,heartlandcommunitycollege,jacobprice8m0j,Jacob Price
+May 6,home,Western Tech,W,22-8,22,8,14,win,20230506_42w7,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div2,Heartland,heartlandcommunitycollege,jacobprice8m0j,Jacob Price
+May 14,home,Bismarck State,L,9-4,9,4,5,win,20230514_4o1y,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div2,Heartland,heartlandcommunitycollege,jacobprice8m0j,Jacob Price
+May 14,home,Williston State,L,9-8,9,8,1,win,20230514_eae0,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div2,Heartland,heartlandcommunitycollege,jacobprice8m0j,Jacob Price

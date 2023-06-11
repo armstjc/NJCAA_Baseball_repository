@@ -1,50 +1,19 @@
 date,location,opponent,result,score,team_score,opp_score,game_score_diff,game_win_loss,game_id,TC,PO,A,E,FPCT,DP,SBA,RCS,RCS_PCT,PB,CI,season,njcaa_season,njcaa_division,team,team_id,player_id,player_name
-Feb 3,home,Central Arizona,L,4-0,4,0,4,win,20230203_r790,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Yavapai,yavapaicollege,mitchwoodnf2c,Mitch Wood
-Feb 3,home,New Mexico,L,5-2,5,2,3,win,20230203_e7yw,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Yavapai,yavapaicollege,mitchwoodnf2c,Mitch Wood
-Feb 4,home,El Paso,W,9-1,9,1,8,win,20230204_n390,0,0,0,0,0.1,,,,0.00,1,1,2023,2022-23,div1,Yavapai,yavapaicollege,mitchwoodnf2c,Mitch Wood
-Feb 5,home,Salt Lake,L,19-6,19,6,13,win,20230205_ujf9,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Yavapai,yavapaicollege,mitchwoodnf2c,Mitch Wood
-Feb 9,home,Scottsdale Post Grad,W,10-0,10,0,10,win,20230209_v4dv,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Yavapai,yavapaicollege,mitchwoodnf2c,Mitch Wood
-Feb 9,home,Scottsdale Post Grad,W,8-2,8,2,6,win,20230209_zb02,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Yavapai,yavapaicollege,mitchwoodnf2c,Mitch Wood
-Feb 14,home,Pima,L,3-2,3,2,1,win,20230214_z0zx,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Yavapai,yavapaicollege,mitchwoodnf2c,Mitch Wood
-Feb 14,home,Pima,L,12-5,12,5,7,win,20230214_ts62,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Yavapai,yavapaicollege,mitchwoodnf2c,Mitch Wood
-Feb 18,home,Cochise,W,6-0,6,0,6,win,20230218_vn6l,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Yavapai,yavapaicollege,mitchwoodnf2c,Mitch Wood
-Feb 18,home,Cochise,W,6-4,6,4,2,win,20230218_u448,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Yavapai,yavapaicollege,mitchwoodnf2c,Mitch Wood
-Feb 21,home,Arizona Western,W,2-1,2,1,1,win,20230221_dtcl,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Yavapai,yavapaicollege,mitchwoodnf2c,Mitch Wood
-Feb 21,home,Arizona Western,L,14-10,14,10,4,win,20230221_38bn,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Yavapai,yavapaicollege,mitchwoodnf2c,Mitch Wood
-Feb 25,home,South Mountain,L,3-2,3,2,1,win,20230225_33pf,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Yavapai,yavapaicollege,mitchwoodnf2c,Mitch Wood
-Feb 25,home,South Mountain,L,22-7,22,7,15,win,20230225_6v2d,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Yavapai,yavapaicollege,mitchwoodnf2c,Mitch Wood
-Feb 28,home,Eastern Arizona,W,7-2,7,2,5,win,20230228_gi5n,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Yavapai,yavapaicollege,mitchwoodnf2c,Mitch Wood
-Feb 28,home,Eastern Arizona,W,9-7,9,7,2,win,20230228_vybk,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Yavapai,yavapaicollege,mitchwoodnf2c,Mitch Wood
-Mar 4,home,Central Arizona,L,6-2,6,2,4,win,20230304_7sx3,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Yavapai,yavapaicollege,mitchwoodnf2c,Mitch Wood
-Mar 4,home,Central Arizona,L,10-2,10,2,8,win,20230304_p9qi,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Yavapai,yavapaicollege,mitchwoodnf2c,Mitch Wood
-Mar 11,home,Phoenix,W,5-2,5,2,3,win,20230311_7irp,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Yavapai,yavapaicollege,mitchwoodnf2c,Mitch Wood
-Mar 11,home,Phoenix,W,11-8,11,8,3,win,20230311_c0ya,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Yavapai,yavapaicollege,mitchwoodnf2c,Mitch Wood
-Mar 13,home,Scottsdale Post Grad,W,12-2,12,2,10,win,20230313_blm6,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Yavapai,yavapaicollege,mitchwoodnf2c,Mitch Wood
-Mar 17,home,Langley Blaze,W,12-5,12,5,7,win,20230317_zymh,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Yavapai,yavapaicollege,mitchwoodnf2c,Mitch Wood
-Mar 17,home,Langley Blaze,L,5-3,5,3,2,win,20230317_hkzv,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Yavapai,yavapaicollege,mitchwoodnf2c,Mitch Wood
-Mar 23,home,Paradise Valley,W,3-2,3,2,1,win,20230323_zjxn,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Yavapai,yavapaicollege,mitchwoodnf2c,Mitch Wood
-Mar 23,home,Paradise Valley,W,10-2,10,2,8,win,20230323_rtm2,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Yavapai,yavapaicollege,mitchwoodnf2c,Mitch Wood
-Mar 25,home,Mesa,W,8-1,8,1,7,win,20230325_iq1o,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Yavapai,yavapaicollege,mitchwoodnf2c,Mitch Wood
-Mar 25,home,Mesa,W,9-7,9,7,2,win,20230325_y4ms,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Yavapai,yavapaicollege,mitchwoodnf2c,Mitch Wood
-Mar 28,home,Glendale,W,9-7,9,7,2,win,20230328_30mu,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Yavapai,yavapaicollege,mitchwoodnf2c,Mitch Wood
-Mar 28,home,Glendale,W,8-1,8,1,7,win,20230328_9v2w,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Yavapai,yavapaicollege,mitchwoodnf2c,Mitch Wood
-Mar 31,home,GateWay (AZ),L,7-6,7,6,1,win,20230331_jm32,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Yavapai,yavapaicollege,mitchwoodnf2c,Mitch Wood
-Mar 31,home,GateWay (AZ),L,9-0,9,0,9,win,20230331_so19,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Yavapai,yavapaicollege,mitchwoodnf2c,Mitch Wood
-Apr 4,home,Chandler-Gilbert,W,15-6,15,6,9,win,20230404_kasr,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Yavapai,yavapaicollege,mitchwoodnf2c,Mitch Wood
-Apr 4,home,Chandler-Gilbert,W,5-2,5,2,3,win,20230404_fd62,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Yavapai,yavapaicollege,mitchwoodnf2c,Mitch Wood
-Apr 7,home,Arizona Christian University,W,5-4,5,4,1,win,20230407_7yw8,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Yavapai,yavapaicollege,mitchwoodnf2c,Mitch Wood
-Apr 7,home,Arizona Christian University,W,12-2,12,2,10,win,20230407_u1hl,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Yavapai,yavapaicollege,mitchwoodnf2c,Mitch Wood
-Apr 8,home,Scottsdale,W,8-0,8,0,8,win,20230408_dz1h,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Yavapai,yavapaicollege,mitchwoodnf2c,Mitch Wood
-Apr 8,home,Scottsdale,W,9-1,9,1,8,win,20230408_mpcg,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Yavapai,yavapaicollege,mitchwoodnf2c,Mitch Wood
-Apr 11,home,Pima,W,9-3,9,3,6,win,20230411_yyqu,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Yavapai,yavapaicollege,mitchwoodnf2c,Mitch Wood
-Apr 11,home,Pima,L,21-6,21,6,15,win,20230411_7q82,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Yavapai,yavapaicollege,mitchwoodnf2c,Mitch Wood
-Apr 15,home,Cochise,L,9-6,9,6,3,win,20230415_b3so,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Yavapai,yavapaicollege,mitchwoodnf2c,Mitch Wood
-Apr 15,home,Cochise,L,14-6,14,6,8,win,20230415_be7h,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Yavapai,yavapaicollege,mitchwoodnf2c,Mitch Wood
-Apr 18,home,Arizona Western,W,10-7,10,7,3,win,20230418_ntfw,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Yavapai,yavapaicollege,mitchwoodnf2c,Mitch Wood
-Apr 18,home,Arizona Western,L,10-9,10,9,1,win,20230418_sfga,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Yavapai,yavapaicollege,mitchwoodnf2c,Mitch Wood
-Apr 22,home,South Mountain,L,7-5,7,5,2,win,20230422_9f0f,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Yavapai,yavapaicollege,mitchwoodnf2c,Mitch Wood
-Apr 22,home,South Mountain,L,15-6,15,6,9,win,20230422_ojdy,0,0,0,0,1.2,,,,0.00,2,1,2023,2022-23,div1,Yavapai,yavapaicollege,mitchwoodnf2c,Mitch Wood
-Apr 25,home,Eastern Arizona,W,8-5,8,5,3,win,20230425_van1,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Yavapai,yavapaicollege,mitchwoodnf2c,Mitch Wood
-Apr 25,home,Eastern Arizona,W,20-10,20,10,10,win,20230425_srny,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Yavapai,yavapaicollege,mitchwoodnf2c,Mitch Wood
-Apr 29,home,Central Arizona,L,3-2,3,2,1,win,20230429_16la,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Yavapai,yavapaicollege,mitchwoodnf2c,Mitch Wood
-Apr 29,home,Central Arizona,W,13-5,13,5,8,win,20230429_pp3v,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Yavapai,yavapaicollege,mitchwoodnf2c,Mitch Wood
+Jan 28,home,South Florida State,W,10-3,10,3,7,win,20230128_iaga,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Yavapai,yavapaicollege,mitchwoodnf2c,Mitch Wood
+Jan 30,home,Lake-Sumter State,W,13-9,13,9,4,win,20230130_7jks,0,0,0,0,0.1,3,4,4,108.00,2,,2023,2022-23,div1,Yavapai,yavapaicollege,mitchwoodnf2c,Mitch Wood
+Feb 4,home,South Florida State,W,3-1,3,1,2,win,20230204_7utq,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Yavapai,yavapaicollege,mitchwoodnf2c,Mitch Wood
+Feb 6,home,Hillsborough,W,7-5,7,5,2,win,20230206_up4v,0,0,0,0,1.0,1,,,0.00,,1,2023,2022-23,div1,Yavapai,yavapaicollege,mitchwoodnf2c,Mitch Wood
+Feb 10,home,Florida State Jacksonville,W,14-13,14,13,1,win,20230210_odhb,0,0,0,0,0.2,1,4,4,54.00,3,,2023,2022-23,div1,Yavapai,yavapaicollege,mitchwoodnf2c,Mitch Wood
+Feb 11,home,South Florida State,W,14-5,14,5,9,win,20230211_tqy4,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Yavapai,yavapaicollege,mitchwoodnf2c,Mitch Wood
+Feb 11,home,South Florida State,W,15-7,15,7,8,win,20230211_t244,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Yavapai,yavapaicollege,mitchwoodnf2c,Mitch Wood
+Feb 13,home,St. Petersburg,W,17-0,17,0,17,win,20230213_f5mi,0,0,0,0,2.0,1,,,0.00,,2,2023,2022-23,div1,Yavapai,yavapaicollege,mitchwoodnf2c,Mitch Wood
+Feb 18,home,South Georgia State,W,7-2,7,2,5,win,20230218_xag1,0,0,0,0,1.0,3,1,1,9.00,,2,2023,2022-23,div1,Yavapai,yavapaicollege,mitchwoodnf2c,Mitch Wood
+Feb 22,home,Tallahassee,W,10-2,10,2,8,win,20230222_8mey,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Yavapai,yavapaicollege,mitchwoodnf2c,Mitch Wood
+Feb 25,home,St. Petersburg,W,7-6,7,6,1,win,20230225_q726,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Yavapai,yavapaicollege,mitchwoodnf2c,Mitch Wood
+Feb 27,home,Florida State Jacksonville,W,14-2,14,2,12,win,20230227_bs1o,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Yavapai,yavapaicollege,mitchwoodnf2c,Mitch Wood
+Mar 1,home,Abraham Baldwin,W,14-4,14,4,10,win,20230301_n36r,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Yavapai,yavapaicollege,mitchwoodnf2c,Mitch Wood
+Mar 19,home,Daytona State,W,4-2,4,2,2,win,20230319_0n4x,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Yavapai,yavapaicollege,mitchwoodnf2c,Mitch Wood
+Mar 31,home,Seminole State (FL),L,13-5,13,5,8,win,20230331_0m8g,0,0,0,0,2.1,3,1,1,3.86,1,3,2023,2022-23,div1,Yavapai,yavapaicollege,mitchwoodnf2c,Mitch Wood
+Apr 15,home,Central Florida,L,12-4,12,4,8,win,20230415_dw1a,0,0,0,0,0.0,1,,,0.00,2,,2023,2022-23,div1,Yavapai,yavapaicollege,mitchwoodnf2c,Mitch Wood
+Apr 22,home,Daytona State,L,8-4,8,4,4,win,20230422_oja6,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Yavapai,yavapaicollege,mitchwoodnf2c,Mitch Wood
+Apr 26,home,Central Florida,W,11-3,11,3,8,win,20230426_708r,0,0,0,0,1.0,,,,0.00,,,2023,2022-23,div1,Yavapai,yavapaicollege,mitchwoodnf2c,Mitch Wood

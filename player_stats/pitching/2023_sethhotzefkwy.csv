@@ -1,12 +1,19 @@
 date,location,opponent,result,score,team_score,opp_score,game_score_diff,game_win_loss,game_id,GS,W,L,SV,IP,H,R,ER,ERA,BB,K,HR,season,njcaa_season,njcaa_division,team,team_id,player_id,player_name
-May 4,home,John A. Logan,L,13-4,13,4,9,win,20230504_x74u,0,0,0,0,0.0,1,2,2,INF,1,,,2023,2022-23,div1,Lake Land,lakelandcollege,sethhotzefkwy,Seth Hotze
-Apr 29,home,Lincoln Trail,L,8-4,8,4,4,win,20230429_bkz7,0,0,0,0,0.1,1,1,1,27.00,,,,2023,2022-23,div1,Lake Land,lakelandcollege,sethhotzefkwy,Seth Hotze
-Apr 25,home,Southwestern Illinois,L,6-4,6,4,2,win,20230425_e9j3,0,0,0,0,1.1,,,,0.00,2,1,,2023,2022-23,div1,Lake Land,lakelandcollege,sethhotzefkwy,Seth Hotze
-Apr 19,home,Lincoln Land,L,7-6,7,6,1,win,20230419_flp2,0,0,0,0,0.1,,,,0.00,,,,2023,2022-23,div1,Lake Land,lakelandcollege,sethhotzefkwy,Seth Hotze
-Apr 18,home,Southwestern Illinois,L,10-9,10,9,1,win,20230418_aq2u,0,0,1,0,0.2,1,1,1,13.50,2,1,,2023,2022-23,div1,Lake Land,lakelandcollege,sethhotzefkwy,Seth Hotze
-Apr 12,home,Lincoln Land,L,12-3,12,3,9,win,20230412_jh0a,0,0,0,0,1.0,3,2,2,18.00,,1,,2023,2022-23,div1,Lake Land,lakelandcollege,sethhotzefkwy,Seth Hotze
-Mar 30,home,Wabash Valley,L,26-3,26,3,23,win,20230330_cm50,0,0,0,0,1.0,5,5,5,45.00,,,,2023,2022-23,div1,Lake Land,lakelandcollege,sethhotzefkwy,Seth Hotze
-Mar 27,home,Olney Central,L,6-1,6,1,5,win,20230327_5qgk,0,0,0,0,1.0,2,,,0.00,,,,2023,2022-23,div1,Lake Land,lakelandcollege,sethhotzefkwy,Seth Hotze
-Mar 15,home,Danville Area,W,11-10,11,10,1,win,20230315_xcbk,0,1,0,0,1.1,1,,,0.00,,1,,2023,2022-23,div1,Lake Land,lakelandcollege,sethhotzefkwy,Seth Hotze
-Feb 26,home,Parkland,L,10-2,10,2,8,win,20230226_ubba,0,0,0,0,0.2,3,1,1,13.50,1,1,,2023,2022-23,div1,Lake Land,lakelandcollege,sethhotzefkwy,Seth Hotze
-Feb 19,home,Iowa Central,L,9-3,9,3,6,win,20230219_1ivu,0,0,0,0,2.0,,,,0.00,1,3,,2023,2022-23,div1,Lake Land,lakelandcollege,sethhotzefkwy,Seth Hotze
+Apr 26,home,Central Florida,W,11-3,11,3,8,win,20230426_708r,0,0,0,0,1.0,,,,0.00,,,,2023,2022-23,div1,Lake Land,lakelandcollege,sethhotzefkwy,Seth Hotze
+Apr 22,home,Daytona State,L,8-4,8,4,4,win,20230422_oja6,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div1,Lake Land,lakelandcollege,sethhotzefkwy,Seth Hotze
+Apr 15,home,Central Florida,L,12-4,12,4,8,win,20230415_dw1a,0,0,0,0,0.0,1,,,0.00,2,,,2023,2022-23,div1,Lake Land,lakelandcollege,sethhotzefkwy,Seth Hotze
+Mar 31,home,Seminole State (FL),L,13-5,13,5,8,win,20230331_0m8g,0,0,0,0,2.1,3,1,1,3.86,1,3,,2023,2022-23,div1,Lake Land,lakelandcollege,sethhotzefkwy,Seth Hotze
+Mar 19,home,Daytona State,W,4-2,4,2,2,win,20230319_0n4x,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div1,Lake Land,lakelandcollege,sethhotzefkwy,Seth Hotze
+Mar 1,home,Abraham Baldwin,W,14-4,14,4,10,win,20230301_n36r,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div1,Lake Land,lakelandcollege,sethhotzefkwy,Seth Hotze
+Feb 27,home,Florida State Jacksonville,W,14-2,14,2,12,win,20230227_bs1o,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div1,Lake Land,lakelandcollege,sethhotzefkwy,Seth Hotze
+Feb 25,home,St. Petersburg,W,7-6,7,6,1,win,20230225_q726,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div1,Lake Land,lakelandcollege,sethhotzefkwy,Seth Hotze
+Feb 22,home,Tallahassee,W,10-2,10,2,8,win,20230222_8mey,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div1,Lake Land,lakelandcollege,sethhotzefkwy,Seth Hotze
+Feb 18,home,South Georgia State,W,7-2,7,2,5,win,20230218_xag1,0,0,0,0,1.0,3,1,1,9.00,,2,,2023,2022-23,div1,Lake Land,lakelandcollege,sethhotzefkwy,Seth Hotze
+Feb 13,home,St. Petersburg,W,17-0,17,0,17,win,20230213_f5mi,0,0,0,0,2.0,1,,,0.00,,2,,2023,2022-23,div1,Lake Land,lakelandcollege,sethhotzefkwy,Seth Hotze
+Feb 11,home,South Florida State,W,15-7,15,7,8,win,20230211_t244,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div1,Lake Land,lakelandcollege,sethhotzefkwy,Seth Hotze
+Feb 11,home,South Florida State,W,14-5,14,5,9,win,20230211_tqy4,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div1,Lake Land,lakelandcollege,sethhotzefkwy,Seth Hotze
+Feb 10,home,Florida State Jacksonville,W,14-13,14,13,1,win,20230210_odhb,0,0,0,0,0.2,1,4,4,54.00,3,,,2023,2022-23,div1,Lake Land,lakelandcollege,sethhotzefkwy,Seth Hotze
+Feb 6,home,Hillsborough,W,7-5,7,5,2,win,20230206_up4v,0,0,0,0,1.0,1,,,0.00,,1,,2023,2022-23,div1,Lake Land,lakelandcollege,sethhotzefkwy,Seth Hotze
+Feb 4,home,South Florida State,W,3-1,3,1,2,win,20230204_7utq,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div1,Lake Land,lakelandcollege,sethhotzefkwy,Seth Hotze
+Jan 30,home,Lake-Sumter State,W,13-9,13,9,4,win,20230130_7jks,0,0,0,0,0.1,3,4,4,108.00,2,,,2023,2022-23,div1,Lake Land,lakelandcollege,sethhotzefkwy,Seth Hotze
+Jan 28,home,South Florida State,W,10-3,10,3,7,win,20230128_iaga,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div1,Lake Land,lakelandcollege,sethhotzefkwy,Seth Hotze

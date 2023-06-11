@@ -1,5 +1,28 @@
 date,location,opponent,result,score,team_score,opp_score,game_score_diff,game_win_loss,game_id,AB,R,H,2B,3B,HR,RBI,BB,K,SB,CS,HBP,SF,SH,TB,XBH,HDP,GO,FO,GO/FO,PA,season,njcaa_season,njcaa_division,team,team_id,player_id,player_name
-Feb 18,home,Wayland Baptist JV,W,6-0,6,0,6,win,20230218_mln1,0,0,0,,,,0,,,,,,,,0,0,,,,,0,2023,2022-23,div1,New Mexico Military,newmexicomilitaryinstitute,adrianochoawiuz,Adrian Ochoa
-Mar 7,home,Luna,W,10-9,10,9,1,win,20230307_w5i8,0,0,0,,,,0,,,,,,,,0,0,,,,,0,2023,2022-23,div1,New Mexico Military,newmexicomilitaryinstitute,adrianochoawiuz,Adrian Ochoa
-Apr 1,home,El Paso,W,11-9,11,9,2,win,20230401_de0o,0,0,0,,,,0,,,,,,,,0,0,,,,,0,2023,2022-23,div1,New Mexico Military,newmexicomilitaryinstitute,adrianochoawiuz,Adrian Ochoa
-May 5,home,Howard (TX),W,24-18,24,18,6,win,20230505_orph,0,0,0,,,,0,,,,,,,,0,0,,,,,0,2023,2022-23,div1,New Mexico Military,newmexicomilitaryinstitute,adrianochoawiuz,Adrian Ochoa
+Jan 28,home,Trinidad State,W,4-3,4,3,1,win,20230128_b0f3,2,0,0,,,,0,,,,,,,,0,0,,,,,2,2023,2022-23,div1,New Mexico Military,newmexicomilitaryinstitute,adrianochoawiuz,Adrian Ochoa
+Jan 28,home,Trinidad State,W,10-0,10,0,10,win,20230128_rowx,1,1,0,,,,0,3,1,,,,,,0,0,,,,,4,2023,2022-23,div1,New Mexico Military,newmexicomilitaryinstitute,adrianochoawiuz,Adrian Ochoa
+Jan 29,home,Trinidad State,W,8-7,8,7,1,win,20230129_5yvg,1,0,0,,,,0,,,,,1,,,0,0,,,,,2,2023,2022-23,div1,New Mexico Military,newmexicomilitaryinstitute,adrianochoawiuz,Adrian Ochoa
+Feb 4,home,Otero,W,16-10,16,10,6,win,20230204_0abb,3,2,1,,,,0,1,1,,,,,,1,0,,,,,4,2023,2022-23,div1,New Mexico Military,newmexicomilitaryinstitute,adrianochoawiuz,Adrian Ochoa
+Feb 5,home,Otero,W,23-11,23,11,12,win,20230205_hlkk,1,1,1,,,,0,,,,,,,,1,0,,,,,1,2023,2022-23,div1,New Mexico Military,newmexicomilitaryinstitute,adrianochoawiuz,Adrian Ochoa
+Feb 5,home,Otero,W,14-8,14,8,6,win,20230205_318m,4,0,1,,,,0,,,,,,,,1,0,1,,,,4,2023,2022-23,div1,New Mexico Military,newmexicomilitaryinstitute,adrianochoawiuz,Adrian Ochoa
+Feb 12,home,Western Nebraska,W,10-0,10,0,10,win,20230212_5jd9,3,0,1,,,,0,,,,,,,,1,0,,,,,3,2023,2022-23,div1,New Mexico Military,newmexicomilitaryinstitute,adrianochoawiuz,Adrian Ochoa
+Feb 18,home,Wayland Baptist JV,W,10-0,10,0,10,win,20230218_z0t1,3,1,1,,,,1,,,,1,,,,1,0,,,,,3,2023,2022-23,div1,New Mexico Military,newmexicomilitaryinstitute,adrianochoawiuz,Adrian Ochoa
+Mar 1,home,University of the Southwest,W,13-12,13,12,1,win,20230301_f1d8,2,1,0,,,,0,1,1,,,1,,,0,0,,,,,4,2023,2022-23,div1,New Mexico Military,newmexicomilitaryinstitute,adrianochoawiuz,Adrian Ochoa
+Mar 18,home,Midland,W,12-11,12,11,1,win,20230318_om5s,4,2,1,,,,1,1,1,,,,,,1,0,,,,,5,2023,2022-23,div1,New Mexico Military,newmexicomilitaryinstitute,adrianochoawiuz,Adrian Ochoa
+Mar 25,home,Western Texas,W,5-1,5,1,4,win,20230325_nm5s,1,1,1,,,1,2,,,,,,,,4,1,,,,,1,2023,2022-23,div1,New Mexico Military,newmexicomilitaryinstitute,adrianochoawiuz,Adrian Ochoa
+Mar 25,home,Western Texas,W,10-5,10,5,5,win,20230325_898e,3,1,1,,,,1,1,,,,,1,,1,0,,,,,5,2023,2022-23,div1,New Mexico Military,newmexicomilitaryinstitute,adrianochoawiuz,Adrian Ochoa
+Mar 26,home,Western Texas,W,9-8,9,8,1,win,20230326_uen4,3,1,1,,,,0,1,1,,,,,,1,0,,,,,4,2023,2022-23,div1,New Mexico Military,newmexicomilitaryinstitute,adrianochoawiuz,Adrian Ochoa
+Mar 31,home,El Paso,W,13-4,13,4,9,win,20230331_4u9k,3,3,1,1,,,0,2,1,,,,,,2,1,,,,,5,2023,2022-23,div1,New Mexico Military,newmexicomilitaryinstitute,adrianochoawiuz,Adrian Ochoa
+Apr 1,home,El Paso,W,6-5,6,5,1,win,20230401_15py,4,0,1,,,,1,,2,,1,,,,1,0,,,,,4,2023,2022-23,div1,New Mexico Military,newmexicomilitaryinstitute,adrianochoawiuz,Adrian Ochoa
+Apr 1,home,El Paso,W,11-9,11,9,2,win,20230401_de0o,5,0,2,1,,,2,,2,,,,,,3,1,,,,,5,2023,2022-23,div1,New Mexico Military,newmexicomilitaryinstitute,adrianochoawiuz,Adrian Ochoa
+Apr 6,home,Odessa,W,10-9,10,9,1,win,20230406_b1v1,3,2,1,1,,,1,,1,,,1,,,2,1,,,,,4,2023,2022-23,div1,New Mexico Military,newmexicomilitaryinstitute,adrianochoawiuz,Adrian Ochoa
+Apr 7,home,Odessa,W,9-6,9,6,3,win,20230407_mf35,2,0,1,,,,1,,1,1,,,,,1,0,,,,,2,2023,2022-23,div1,New Mexico Military,newmexicomilitaryinstitute,adrianochoawiuz,Adrian Ochoa
+Apr 14,home,Frank Phillips,W,9-7,9,7,2,win,20230414_dj9c,2,2,2,1,,,1,2,,,,,,,3,1,,,,,4,2023,2022-23,div1,New Mexico Military,newmexicomilitaryinstitute,adrianochoawiuz,Adrian Ochoa
+Apr 22,home,New Mexico,W,4-3,4,3,1,win,20230422_umjp,3,0,3,,,,0,,,,,,,,3,0,,,,,3,2023,2022-23,div1,New Mexico Military,newmexicomilitaryinstitute,adrianochoawiuz,Adrian Ochoa
+Apr 29,home,Clarendon,W,15-5,15,5,10,win,20230429_g4g4,4,0,1,,,,0,,,,,,,,1,0,,,,,4,2023,2022-23,div1,New Mexico Military,newmexicomilitaryinstitute,adrianochoawiuz,Adrian Ochoa
+Apr 29,home,Clarendon,W,11-10,11,10,1,win,20230429_et3n,6,2,3,1,,1,1,,1,,,,,,7,2,,,,,6,2023,2022-23,div1,New Mexico Military,newmexicomilitaryinstitute,adrianochoawiuz,Adrian Ochoa
+Apr 30,home,Clarendon,W,8-0,8,0,8,win,20230430_m45o,1,0,0,,,,0,,,,,2,,,0,0,,,,,3,2023,2022-23,div1,New Mexico Military,newmexicomilitaryinstitute,adrianochoawiuz,Adrian Ochoa
+Apr 30,home,Clarendon,W,12-2,12,2,10,win,20230430_nv6s,2,2,1,,,,0,1,,,,,,,1,0,,,,,3,2023,2022-23,div1,New Mexico Military,newmexicomilitaryinstitute,adrianochoawiuz,Adrian Ochoa
+May 5,home,Howard (TX),W,8-4,8,4,4,win,20230505_7psm,4,0,1,,,,0,,,,,,,,1,0,,,,,4,2023,2022-23,div1,New Mexico Military,newmexicomilitaryinstitute,adrianochoawiuz,Adrian Ochoa
+May 5,home,Howard (TX),W,24-18,24,18,6,win,20230505_orph,6,2,2,,,1,1,,2,,,,,,5,1,,,,,6,2023,2022-23,div1,New Mexico Military,newmexicomilitaryinstitute,adrianochoawiuz,Adrian Ochoa
+May 13,home,McLennan,W,12-4,12,4,8,win,20230513_uyem,3,2,1,,,,0,1,,,,,,,1,0,,,,,4,2023,2022-23,div1,New Mexico Military,newmexicomilitaryinstitute,adrianochoawiuz,Adrian Ochoa

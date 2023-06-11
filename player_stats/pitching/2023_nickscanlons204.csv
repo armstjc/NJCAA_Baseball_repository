@@ -1,21 +1,6 @@
 date,location,opponent,result,score,team_score,opp_score,game_score_diff,game_win_loss,game_id,GS,W,L,SV,IP,H,R,ER,ERA,BB,K,HR,season,njcaa_season,njcaa_division,team,team_id,player_id,player_name
-May 11,home,Des Moines Area,W,8-7,8,7,1,win,20230511_1dix,0,0,0,0,3.2,5,3,3,7.36,1,5,,2023,2022-23,div2,Kirkwood,kirkwoodcommunitycollege,nickscanlons204,Nick Scanlon
-May 6,home,Marshalltown,W,7-2,7,2,5,win,20230506_8lac,0,0,0,1,0.2,,,,0.00,,1,,2023,2022-23,div2,Kirkwood,kirkwoodcommunitycollege,nickscanlons204,Nick Scanlon
-May 3,home,Southwestern,W,5-4,5,4,1,win,20230503_jnix,0,0,0,1,2.0,,,,0.00,1,1,,2023,2022-23,div2,Kirkwood,kirkwoodcommunitycollege,nickscanlons204,Nick Scanlon
-Apr 30,home,Ellsworth,W,17-1,17,1,16,win,20230430_wo8t,0,0,0,0,1.0,,,,0.00,,2,,2023,2022-23,div2,Kirkwood,kirkwoodcommunitycollege,nickscanlons204,Nick Scanlon
-Apr 26,home,North Iowa Area,L,8-3,8,3,5,win,20230426_8t9i,0,0,1,0,0.2,6,5,5,67.50,1,,,2023,2022-23,div2,Kirkwood,kirkwoodcommunitycollege,nickscanlons204,Nick Scanlon
-Apr 15,home,Iowa Western,W,19-9,19,9,10,win,20230415_le9d,0,0,0,0,2.0,2,,,0.00,2,2,,2023,2022-23,div2,Kirkwood,kirkwoodcommunitycollege,nickscanlons204,Nick Scanlon
-Apr 8,home,Iowa Central,W,5-4,5,4,1,win,20230408_ij7y,0,0,0,1,1.0,,,,0.00,1,,,2023,2022-23,div2,Kirkwood,kirkwoodcommunitycollege,nickscanlons204,Nick Scanlon
-Apr 7,home,Iowa Central,W,10-4,10,4,6,win,20230407_1r9l,0,0,0,1,0.2,,,,0.00,,1,,2023,2022-23,div2,Kirkwood,kirkwoodcommunitycollege,nickscanlons204,Nick Scanlon
-Apr 3,home,Northeast,L,7-6,7,6,1,win,20230403_bwwo,0,0,1,0,1.0,1,1,1,9.00,,1,,2023,2022-23,div2,Kirkwood,kirkwoodcommunitycollege,nickscanlons204,Nick Scanlon
-Apr 2,home,Northeast,L,10-8,10,8,2,win,20230402_tjfw,0,0,0,0,0.2,1,1,,0.00,,1,,2023,2022-23,div2,Kirkwood,kirkwoodcommunitycollege,nickscanlons204,Nick Scanlon
-Mar 30,home,Southeastern,W,8-3,8,3,5,win,20230330_gtd2,0,0,0,1,1.1,,,,0.00,1,1,,2023,2022-23,div2,Kirkwood,kirkwoodcommunitycollege,nickscanlons204,Nick Scanlon
-Mar 27,home,Des Moines Area,W,10-9,10,9,1,win,20230327_saia,0,0,0,1,1.1,1,,,0.00,,,,2023,2022-23,div2,Kirkwood,kirkwoodcommunitycollege,nickscanlons204,Nick Scanlon
-Mar 22,home,Indian Hills,W,4-3,4,3,1,win,20230322_zu01,0,0,0,1,1.0,1,,,0.00,,3,,2023,2022-23,div2,Kirkwood,kirkwoodcommunitycollege,nickscanlons204,Nick Scanlon
-Mar 10,home,Rock Valley,W,5-3,5,3,2,win,20230310_88sz,0,0,0,1,1.0,1,,,0.00,,3,,2023,2022-23,div2,Kirkwood,kirkwoodcommunitycollege,nickscanlons204,Nick Scanlon
-Mar 6,home,Jefferson (MO),W,8-6,8,6,2,win,20230306_u65l,0,0,0,1,0.2,1,,,0.00,,1,,2023,2022-23,div2,Kirkwood,kirkwoodcommunitycollege,nickscanlons204,Nick Scanlon
-Mar 5,home,Jefferson (MO),W,12-9,12,9,3,win,20230305_8p34,0,0,0,1,1.0,1,,,0.00,1,2,,2023,2022-23,div2,Kirkwood,kirkwoodcommunitycollege,nickscanlons204,Nick Scanlon
-Mar 1,home,Heartland,L,12-11,12,11,1,win,20230301_mbsz,0,0,1,0,0.2,3,5,3,40.50,2,1,,2023,2022-23,div2,Kirkwood,kirkwoodcommunitycollege,nickscanlons204,Nick Scanlon
-Feb 18,home,Wallace State,W,7-6,7,6,1,win,20230218_t61c,0,0,0,1,1.0,,,,0.00,,1,,2023,2022-23,div2,Kirkwood,kirkwoodcommunitycollege,nickscanlons204,Nick Scanlon
-Feb 17,home,Jones,W,7-3,7,3,4,win,20230217_dl4c,0,0,0,1,0.1,,,,0.00,,1,,2023,2022-23,div2,Kirkwood,kirkwoodcommunitycollege,nickscanlons204,Nick Scanlon
-Feb 12,home,Seward County,W,15-6,15,6,9,win,20230212_y1mu,0,0,0,0,1.0,1,1,,0.00,,3,,2023,2022-23,div2,Kirkwood,kirkwoodcommunitycollege,nickscanlons204,Nick Scanlon
+Apr 13,home,Triton,L,20-3,20,3,17,win,20230413_q1sr,0,0,0,0,1.0,3,5,5,45.00,3,,,2023,2022-23,div2,Kirkwood,kirkwoodcommunitycollege,nickscanlons204,Nick Scanlon
+Apr 11,home,Oakton,L,11-1,11,1,10,win,20230411_omx2,0,0,0,0,1.1,1,,,0.00,1,,,2023,2022-23,div2,Kirkwood,kirkwoodcommunitycollege,nickscanlons204,Nick Scanlon
+Mar 21,home,DuPage,L,18-8,18,8,10,win,20230321_5yup,0,0,0,0,0.0,3,4,4,INF,1,,,2023,2022-23,div2,Kirkwood,kirkwoodcommunitycollege,nickscanlons204,Nick Scanlon
+Mar 8,home,Penn State Mont Alto,W,7-6,7,6,1,win,20230308_z0f8,0,0,0,0,0.0,,,,0.00,2,,,2023,2022-23,div2,Kirkwood,kirkwoodcommunitycollege,nickscanlons204,Nick Scanlon
+Mar 4,home,Chesapeake,L,9-5,9,5,4,win,20230304_azx2,0,0,1,0,1.0,,4,4,36.00,1,1,,2023,2022-23,div2,Kirkwood,kirkwoodcommunitycollege,nickscanlons204,Nick Scanlon

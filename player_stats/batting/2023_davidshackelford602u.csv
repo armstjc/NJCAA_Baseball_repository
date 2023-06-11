@@ -1,34 +1,5 @@
 date,location,opponent,result,score,team_score,opp_score,game_score_diff,game_win_loss,game_id,AB,R,H,2B,3B,HR,RBI,BB,K,SB,CS,HBP,SF,SH,TB,XBH,HDP,GO,FO,GO/FO,PA,season,njcaa_season,njcaa_division,team,team_id,player_id,player_name
-Jan 27,home,Paradise Valley,W,8-6,8,6,2,win,20230127_29v3,4,1,0,,,,0,,1,,,,,,0,0,,,,,4,2023,2022-23,div1,Pima,pimacommunitycollege,davidshackelford602u,David Shackelford
-Jan 28,home,Paradise Valley,W,7-6,7,6,1,win,20230128_0iu9,3,1,1,,,,0,1,1,,,,,,1,0,,,,,4,2023,2022-23,div1,Pima,pimacommunitycollege,davidshackelford602u,David Shackelford
-Jan 28,home,Paradise Valley,W,9-7,9,7,2,win,20230128_n9xt,5,0,2,,,,2,,,,,,,,2,0,,,,,5,2023,2022-23,div1,Pima,pimacommunitycollege,davidshackelford602u,David Shackelford
-Feb 3,home,Salt Lake,W,8-2,8,2,6,win,20230203_578n,5,1,2,,1,,1,,,,,,,,4,1,,,,,5,2023,2022-23,div1,Pima,pimacommunitycollege,davidshackelford602u,David Shackelford
-Feb 3,home,Southern Nevada,W,8-2,8,2,6,win,20230203_e4g8,4,1,1,,,,0,,1,,1,,,,1,0,,,,,4,2023,2022-23,div1,Pima,pimacommunitycollege,davidshackelford602u,David Shackelford
-Feb 4,home,New Mexico,W,7-5,7,5,2,win,20230204_roz3,3,0,0,,,,1,,1,,,,1,,0,0,,,,,4,2023,2022-23,div1,Pima,pimacommunitycollege,davidshackelford602u,David Shackelford
-Feb 14,home,Yavapai,W,3-2,3,2,1,win,20230214_z0zx,3,0,0,,,,0,,1,,,,,,0,0,,,,,3,2023,2022-23,div1,Pima,pimacommunitycollege,davidshackelford602u,David Shackelford
-Feb 14,home,Yavapai,W,12-5,12,5,7,win,20230214_ts62,2,1,1,,,,1,3,1,2,,,,,1,0,,,,,5,2023,2022-23,div1,Pima,pimacommunitycollege,davidshackelford602u,David Shackelford
-Feb 25,home,Arizona Western,W,11-10,11,10,1,win,20230225_bp9g,3,0,1,,,,0,,,,,,,,1,0,,,,,3,2023,2022-23,div1,Pima,pimacommunitycollege,davidshackelford602u,David Shackelford
-Feb 28,home,South Mountain,W,3-0,3,0,3,win,20230228_xucs,4,0,1,,,,0,,,,,,,,1,0,,,,,4,2023,2022-23,div1,Pima,pimacommunitycollege,davidshackelford602u,David Shackelford
-Mar 15,home,Williston State,W,4-2,4,2,2,win,20230315_yggz,2,0,1,,,,3,,,1,,,1,,1,0,,,,,3,2023,2022-23,div1,Pima,pimacommunitycollege,davidshackelford602u,David Shackelford
-Mar 17,home,Bismarck State,W,9-2,9,2,7,win,20230317_h7wt,3,0,0,,,,0,,1,,,,,,0,0,,,,,3,2023,2022-23,div1,Pima,pimacommunitycollege,davidshackelford602u,David Shackelford
-Mar 20,home,Langley Blaze,W,11-6,11,6,5,win,20230320_4c45,3,1,1,,,1,2,1,1,,,,,,4,1,,,,,4,2023,2022-23,div1,Pima,pimacommunitycollege,davidshackelford602u,David Shackelford
-Mar 21,home,Glendale,W,13-2,13,2,11,win,20230321_fa3t,2,2,1,1,,,2,1,,,,1,,,2,1,,,,,4,2023,2022-23,div1,Pima,pimacommunitycollege,davidshackelford602u,David Shackelford
-Mar 24,home,GateWay (AZ),W,10-3,10,3,7,win,20230324_9xix,1,1,1,1,,,2,3,,,,,,,2,1,,,,,4,2023,2022-23,div1,Pima,pimacommunitycollege,davidshackelford602u,David Shackelford
-Mar 24,home,GateWay (AZ),W,15-2,15,2,13,win,20230324_3v2q,4,2,2,1,,,2,,,1,,,,,3,1,,,,,4,2023,2022-23,div1,Pima,pimacommunitycollege,davidshackelford602u,David Shackelford
-Mar 28,home,Chandler-Gilbert,W,5-2,5,2,3,win,20230328_meay,2,0,0,,,,0,,1,,,,,,0,0,,,,,2,2023,2022-23,div1,Pima,pimacommunitycollege,davidshackelford602u,David Shackelford
-Mar 28,home,Chandler-Gilbert,W,4-3,4,3,1,win,20230328_tspb,3,1,1,,,1,1,,,,,,,,4,1,,,,,3,2023,2022-23,div1,Pima,pimacommunitycollege,davidshackelford602u,David Shackelford
-Apr 1,home,Scottsdale,W,2-0,2,0,2,win,20230401_g0g6,2,0,0,,,,0,1,2,,,,,,0,0,,,,,3,2023,2022-23,div1,Pima,pimacommunitycollege,davidshackelford602u,David Shackelford
-Apr 4,home,Phoenix,W,8-4,8,4,4,win,20230404_ppr3,4,1,1,,,1,4,,2,,,,,,4,1,,,,,4,2023,2022-23,div1,Pima,pimacommunitycollege,davidshackelford602u,David Shackelford
-Apr 4,home,Phoenix,W,13-1,13,1,12,win,20230404_bck1,0,2,0,,,,1,3,,,,1,,,0,0,,,,,4,2023,2022-23,div1,Pima,pimacommunitycollege,davidshackelford602u,David Shackelford
-Apr 11,home,Yavapai,W,21-6,21,6,15,win,20230411_7q82,5,2,3,1,1,,4,1,1,,,,,,6,2,,,,,6,2023,2022-23,div1,Pima,pimacommunitycollege,davidshackelford602u,David Shackelford
-Apr 15,home,Scottsdale Post Grad,W,13-0,13,0,13,win,20230415_z91l,4,2,2,1,,,1,1,,,,,,,3,1,,,,,5,2023,2022-23,div1,Pima,pimacommunitycollege,davidshackelford602u,David Shackelford
-Apr 18,home,Cochise,W,8-4,8,4,4,win,20230418_nj8l,3,2,2,,,,0,,1,,,,,,2,0,,,,,3,2023,2022-23,div1,Pima,pimacommunitycollege,davidshackelford602u,David Shackelford
-Apr 18,home,Cochise,W,13-8,13,8,5,win,20230418_e5dk,3,1,0,,,,0,1,1,,,1,,,0,0,,,,,5,2023,2022-23,div1,Pima,pimacommunitycollege,davidshackelford602u,David Shackelford
-Apr 22,home,Arizona Western,W,15-7,15,7,8,win,20230422_hfz1,4,0,2,,,,3,,,,,,,,2,0,,,,,4,2023,2022-23,div1,Pima,pimacommunitycollege,davidshackelford602u,David Shackelford
-Apr 25,home,South Mountain,W,6-4,6,4,2,win,20230425_cph0,3,1,1,1,,,0,,2,,,,,,2,1,,,,,3,2023,2022-23,div1,Pima,pimacommunitycollege,davidshackelford602u,David Shackelford
-Apr 29,home,Eastern Arizona,W,5-3,5,3,2,win,20230429_vtml,5,0,0,,,,0,,1,,,,,,0,0,,,,,5,2023,2022-23,div1,Pima,pimacommunitycollege,davidshackelford602u,David Shackelford
-May 4,home,South Mountain,W,5-4,5,4,1,win,20230504_d276,3,1,0,,,,0,1,1,,,,,,0,0,,,,,4,2023,2022-23,div1,Pima,pimacommunitycollege,davidshackelford602u,David Shackelford
-May 5,home,South Mountain,W,5-4,5,4,1,win,20230505_hovp,2,1,0,,,,0,2,,,,,,,0,0,,,,,4,2023,2022-23,div1,Pima,pimacommunitycollege,davidshackelford602u,David Shackelford
-May 11,home,Arizona Western,W,9-7,9,7,2,win,20230511_cpk2,5,0,0,,,,0,,2,,,,,,0,0,,,,,5,2023,2022-23,div1,Pima,pimacommunitycollege,davidshackelford602u,David Shackelford
-May 13,home,Arizona Western,W,6-4,6,4,2,win,20230513_hdhk,3,0,0,,,,0,,,,,,,,0,0,,,,,3,2023,2022-23,div1,Pima,pimacommunitycollege,davidshackelford602u,David Shackelford
-May 18,home,McCook,W,9-8,9,8,1,win,20230518_mmsg,2,0,0,,,,0,,,,,1,,,0,0,,,,,3,2023,2022-23,div1,Pima,pimacommunitycollege,davidshackelford602u,David Shackelford
+Jan 28,home,Paradise Valley,W,7-6,7,6,1,win,20230128_0iu9,0,0,0,,,,0,,,,,,,,0,0,,,,,0,2023,2022-23,div1,Pima,pimacommunitycollege,davidshackelford602u,David Shackelford
+Feb 17,home,Community Christian (CA),W,20-0,20,0,20,win,20230217_ia45,0,0,0,,,,0,,,,,,,,0,0,,,,,0,2023,2022-23,div1,Pima,pimacommunitycollege,davidshackelford602u,David Shackelford
+Feb 25,home,Arizona Western,W,11-10,11,10,1,win,20230225_bp9g,0,0,0,,,,0,,,,,,,,0,0,,,,,0,2023,2022-23,div1,Pima,pimacommunitycollege,davidshackelford602u,David Shackelford
+Mar 20,home,Langley Blaze,W,11-6,11,6,5,win,20230320_4c45,0,0,0,,,,0,,,,,,,,0,0,,,,,0,2023,2022-23,div1,Pima,pimacommunitycollege,davidshackelford602u,David Shackelford

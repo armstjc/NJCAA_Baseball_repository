@@ -1,15 +1,24 @@
 date,location,opponent,result,score,team_score,opp_score,game_score_diff,game_win_loss,game_id,GS,W,L,SV,IP,H,R,ER,ERA,BB,K,HR,season,njcaa_season,njcaa_division,team,team_id,player_id,player_name
-May 4,home,St. Clair County,W,2-1,2,1,1,win,20230504_pgp9,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div2,Macomb,macombcommunitycollege,kadenkovachoxqi,Kaden Kovach
-Apr 29,home,Henry Ford,L,3-2,3,2,1,win,20230429_x127,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div2,Macomb,macombcommunitycollege,kadenkovachoxqi,Kaden Kovach
-Apr 27,home,Henry Ford,L,5-2,5,2,3,win,20230427_cmzi,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div2,Macomb,macombcommunitycollege,kadenkovachoxqi,Kaden Kovach
-Apr 27,home,Henry Ford,L,5-2,5,2,3,win,20230427_8aaf,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div2,Macomb,macombcommunitycollege,kadenkovachoxqi,Kaden Kovach
-Apr 24,home,Terra State,W,5-3,5,3,2,win,20230424_dtsw,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div2,Macomb,macombcommunitycollege,kadenkovachoxqi,Kaden Kovach
-Apr 20,home,Mott,W,5-4,5,4,1,win,20230420_yvj6,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div2,Macomb,macombcommunitycollege,kadenkovachoxqi,Kaden Kovach
-Apr 18,home,Rochester University JV,W,13-7,13,7,6,win,20230418_0yia,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div2,Macomb,macombcommunitycollege,kadenkovachoxqi,Kaden Kovach
-Apr 8,home,Jackson,L,12-1,12,1,11,win,20230408_8zmm,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div2,Macomb,macombcommunitycollege,kadenkovachoxqi,Kaden Kovach
-Apr 6,home,Jackson,L,11-1,11,1,10,win,20230406_a1x8,0,0,0,0,0.0,1,,,0.00,,,,2023,2022-23,div2,Macomb,macombcommunitycollege,kadenkovachoxqi,Kaden Kovach
-Mar 24,home,Schoolcraft,L,13-2,13,2,11,win,20230324_0uh1,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div2,Macomb,macombcommunitycollege,kadenkovachoxqi,Kaden Kovach
-Mar 11,home,Georgia Highlands,L,9-0,9,0,9,win,20230311_y3xy,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div2,Macomb,macombcommunitycollege,kadenkovachoxqi,Kaden Kovach
-Mar 8,home,Roane State,L,6-3,6,3,3,win,20230308_0uwt,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div2,Macomb,macombcommunitycollege,kadenkovachoxqi,Kaden Kovach
-Mar 6,home,Bryan College JV,L,11-10,11,10,1,win,20230306_ljt9,0,0,0,0,0.1,2,2,2,54.00,2,1,,2023,2022-23,div2,Macomb,macombcommunitycollege,kadenkovachoxqi,Kaden Kovach
-Mar 6,home,Bryan College JV,W,16-14,16,14,2,win,20230306_xvs3,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div2,Macomb,macombcommunitycollege,kadenkovachoxqi,Kaden Kovach
+May 6,home,Middlesex College,L,7-3,7,3,4,win,20230506_fkmu,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div2,Macomb,macombcommunitycollege,kadenkovachoxqi,Kaden Kovach
+Apr 26,home,Northampton,L,19-5,19,5,14,win,20230426_mx6o,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div2,Macomb,macombcommunitycollege,kadenkovachoxqi,Kaden Kovach
+Apr 21,home,Lackawanna,L,22-6,22,6,16,win,20230421_bbpx,0,0,0,0,1.0,1,2,2,18.00,4,1,,2023,2022-23,div2,Macomb,macombcommunitycollege,kadenkovachoxqi,Kaden Kovach
+Apr 19,home,Montgomery County,L,11-8,11,8,3,win,20230419_8cn7,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div2,Macomb,macombcommunitycollege,kadenkovachoxqi,Kaden Kovach
+Apr 16,home,Lehigh Carbon,W,8-6,8,6,2,win,20230416_3pqo,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div2,Macomb,macombcommunitycollege,kadenkovachoxqi,Kaden Kovach
+Apr 16,home,Lehigh Carbon,L,9-1,9,1,8,win,20230416_u96i,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div2,Macomb,macombcommunitycollege,kadenkovachoxqi,Kaden Kovach
+Apr 14,home,Lehigh Carbon,L,16-11,16,11,5,win,20230414_urbx,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div2,Macomb,macombcommunitycollege,kadenkovachoxqi,Kaden Kovach
+Apr 12,home,Northampton,L,22-11,22,11,11,win,20230412_2m7c,0,0,0,0,4.0,7,6,6,13.50,3,3,,2023,2022-23,div2,Macomb,macombcommunitycollege,kadenkovachoxqi,Kaden Kovach
+Apr 5,home,Mercer County,L,9-4,9,4,5,win,20230405_f95a,1,0,1,0,3.0,6,5,5,15.00,1,5,1,2023,2022-23,div2,Macomb,macombcommunitycollege,kadenkovachoxqi,Kaden Kovach
+Apr 2,home,Westchester,L,11-8,11,8,3,win,20230402_s5c9,0,0,0,0,1.0,2,4,4,36.00,4,,,2023,2022-23,div2,Macomb,macombcommunitycollege,kadenkovachoxqi,Kaden Kovach
+Apr 2,home,Westchester,L,16-5,16,5,11,win,20230402_3yzl,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div2,Macomb,macombcommunitycollege,kadenkovachoxqi,Kaden Kovach
+Mar 29,home,Rockland,W,17-12,17,12,5,win,20230329_ducv,0,0,0,0,1.0,1,,,0.00,1,1,,2023,2022-23,div2,Macomb,macombcommunitycollege,kadenkovachoxqi,Kaden Kovach
+Mar 26,home,Delaware Tech,L,11-1,11,1,10,win,20230326_qy4x,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div2,Macomb,macombcommunitycollege,kadenkovachoxqi,Kaden Kovach
+Mar 26,home,Delaware Tech,L,24-3,24,3,21,win,20230326_vj53,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div2,Macomb,macombcommunitycollege,kadenkovachoxqi,Kaden Kovach
+Mar 23,home,Delaware Tech,L,23-1,23,1,22,win,20230323_l3fg,0,0,0,0,1.0,8,11,11,99.00,3,1,2,2023,2022-23,div2,Macomb,macombcommunitycollege,kadenkovachoxqi,Kaden Kovach
+Mar 22,home,Middlesex College,L,25-9,25,9,16,win,20230322_4506,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div2,Macomb,macombcommunitycollege,kadenkovachoxqi,Kaden Kovach
+Mar 20,home,RCSJ Gloucester,L,28-7,28,7,21,win,20230320_kk16,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div2,Macomb,macombcommunitycollege,kadenkovachoxqi,Kaden Kovach
+Mar 18,home,Bucks County College,L,20-14,20,14,6,win,20230318_joh4,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div2,Macomb,macombcommunitycollege,kadenkovachoxqi,Kaden Kovach
+Mar 18,home,Bucks County College,L,23-0,23,0,23,win,20230318_kyvs,0,0,0,0,4.0,8,8,7,15.75,3,3,1,2023,2022-23,div2,Macomb,macombcommunitycollege,kadenkovachoxqi,Kaden Kovach
+Mar 12,home,Chesapeake,W,7-3,7,3,4,win,20230312_qtl3,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div2,Macomb,macombcommunitycollege,kadenkovachoxqi,Kaden Kovach
+Mar 12,home,Chesapeake,L,8-4,8,4,4,win,20230312_we1t,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div2,Macomb,macombcommunitycollege,kadenkovachoxqi,Kaden Kovach
+Mar 10,home,Sussex County,L,7-4,7,4,3,win,20230310_8kr3,1,0,1,0,2.0,5,5,3,13.50,5,0,,2023,2022-23,div2,Macomb,macombcommunitycollege,kadenkovachoxqi,Kaden Kovach
+Mar 2,home,Morris,L,7-6,7,6,1,win,20230302_88qp,0,0,1,0,1.0,2,4,4,36.00,2,,2,2023,2022-23,div2,Macomb,macombcommunitycollege,kadenkovachoxqi,Kaden Kovach

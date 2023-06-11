@@ -1,20 +1,7 @@
 date,location,opponent,result,score,team_score,opp_score,game_score_diff,game_win_loss,game_id,AB,R,H,2B,3B,HR,RBI,BB,K,SB,CS,HBP,SF,SH,TB,XBH,HDP,GO,FO,GO/FO,PA,season,njcaa_season,njcaa_division,team,team_id,player_id,player_name
-Feb 11,home,Glen Oaks,W,10-3,10,3,7,win,20230211_npco,4,0,0,,,,0,,1,,,,,,0,0,,,,,4,2023,2022-23,div1,Columbia State,columbiastatecommunitycollege,carterdavishxac,Carter Davis
-Feb 18,home,Miami Dade,W,11-3,11,3,8,win,20230218_t0l6,3,2,1,,,1,2,,2,1,,,,,4,1,,,,,3,2023,2022-23,div1,Columbia State,columbiastatecommunitycollege,carterdavishxac,Carter Davis
-Feb 25,home,Kalamazoo Valley,W,17-7,17,7,10,win,20230225_bq0w,4,2,2,1,,1,5,,2,,,,1,,6,2,,,1,,5,2023,2022-23,div1,Columbia State,columbiastatecommunitycollege,carterdavishxac,Carter Davis
-Feb 26,home,Kalamazoo Valley,W,12-2,12,2,10,win,20230226_on6p,4,1,3,2,,1,1,,,1,,,,,8,3,,,1,,4,2023,2022-23,div1,Columbia State,columbiastatecommunitycollege,carterdavishxac,Carter Davis
-Feb 28,home,Wallace State,W,12-8,12,8,4,win,20230228_4e4j,3,2,2,,,1,2,,1,2,,2,,,5,1,,,,,5,2023,2022-23,div1,Columbia State,columbiastatecommunitycollege,carterdavishxac,Carter Davis
-Mar 4,home,Roane State,W,8-3,8,3,5,win,20230304_cluv,3,2,1,,,,0,,1,1,,,,,1,0,,,,,3,2023,2022-23,div1,Columbia State,columbiastatecommunitycollege,carterdavishxac,Carter Davis
-Mar 4,home,Roane State,W,12-5,12,5,7,win,20230304_ouoj,3,1,1,,,,3,,1,,,1,,,1,0,,1,,,4,2023,2022-23,div1,Columbia State,columbiastatecommunitycollege,carterdavishxac,Carter Davis
-Mar 5,home,Roane State,W,14-2,14,2,12,win,20230305_dflw,3,1,2,2,,,2,1,1,,,,,,4,2,,,,,4,2023,2022-23,div1,Columbia State,columbiastatecommunitycollege,carterdavishxac,Carter Davis
-Mar 11,home,Dyersburg State,W,8-3,8,3,5,win,20230311_yhht,2,1,1,0,0,0,0,0,1,2,1,2,0,0,1,0,,0,,,4,2023,2022-23,div1,Columbia State,columbiastatecommunitycollege,carterdavishxac,Carter Davis
-Mar 14,home,Wabash Valley,W,4-3,4,3,1,win,20230314_jajq,3,2,3,1,,,0,1,,3,,,,,4,1,,,,,4,2023,2022-23,div1,Columbia State,columbiastatecommunitycollege,carterdavishxac,Carter Davis
-Mar 19,home,Volunteer State,W,6-4,6,4,2,win,20230319_n9mr,2,1,0,,,,0,1,,2,,,,,0,0,,,1,,3,2023,2022-23,div1,Columbia State,columbiastatecommunitycollege,carterdavishxac,Carter Davis
-Mar 26,home,Jackson State,W,4-1,4,1,3,win,20230326_9s35,2,1,0,,,,0,,,,,1,,,0,0,,,,,3,2023,2022-23,div1,Columbia State,columbiastatecommunitycollege,carterdavishxac,Carter Davis
-Apr 1,home,Southwest Tennessee,W,14-6,14,6,8,win,20230401_l6og,2,2,0,,,,0,,1,1,,2,,,0,0,,,1,,4,2023,2022-23,div1,Columbia State,columbiastatecommunitycollege,carterdavishxac,Carter Davis
-Apr 2,home,Southwest Tennessee,W,12-9,12,9,3,win,20230402_b0v7,4,2,2,,,,1,,1,,,,,,2,0,,1,,,4,2023,2022-23,div1,Columbia State,columbiastatecommunitycollege,carterdavishxac,Carter Davis
-Apr 10,home,Cleveland State,W,3-2,3,2,1,win,20230410_g5dj,2,0,0,,,,0,1,1,1,,,,,0,0,,,1,,3,2023,2022-23,div1,Columbia State,columbiastatecommunitycollege,carterdavishxac,Carter Davis
-Apr 14,home,Motlow State,W,8-3,8,3,5,win,20230414_08e8,3,0,1,,,,0,,,2,,,,,1,0,,,,,3,2023,2022-23,div1,Columbia State,columbiastatecommunitycollege,carterdavishxac,Carter Davis
-Apr 15,home,Motlow State,W,5-4,5,4,1,win,20230415_zqpu,0,0,0,,,,0,1,,1,,,,,0,0,,,,,1,2023,2022-23,div1,Columbia State,columbiastatecommunitycollege,carterdavishxac,Carter Davis
-Apr 22,home,Chattanooga State,W,7-4,7,4,3,win,20230422_f6uu,3,1,2,1,1,,1,,1,1,,,,,5,2,,,,,3,2023,2022-23,div1,Columbia State,columbiastatecommunitycollege,carterdavishxac,Carter Davis
-Apr 22,home,Chattanooga State,W,5-3,5,3,2,win,20230422_3usi,3,0,0,,,,0,,,,,,,,0,0,,2,1,2.00,3,2023,2022-23,div1,Columbia State,columbiastatecommunitycollege,carterdavishxac,Carter Davis
+Feb 3,home,Pensacola State,W,16-13,16,13,3,win,20230203_tx6j,0,0,0,,,,0,,,,,,,,0,0,,,,,0,2023,2022-23,div1,Columbia State,columbiastatecommunitycollege,carterdavishxac,Carter Davis
+Feb 10,home,Southwest Mississippi,W,8-7,8,7,1,win,20230210_sg8h,0,0,0,,,,0,,,,,,,,0,0,,,,,0,2023,2022-23,div1,Columbia State,columbiastatecommunitycollege,carterdavishxac,Carter Davis
+Feb 17,home,Northwest-Shoals Community College,W,8-6,8,6,2,win,20230217_78uj,0,0,0,,,,0,,,,,,,,0,0,,,,,0,2023,2022-23,div1,Columbia State,columbiastatecommunitycollege,carterdavishxac,Carter Davis
+Feb 28,home,Williams Baptist University JV,W,10-0,10,0,10,win,20230228_iaio,0,0,0,,,,0,,,,,,,,0,0,,,,,0,2023,2022-23,div1,Columbia State,columbiastatecommunitycollege,carterdavishxac,Carter Davis
+Apr 1,home,St. Louis,W,10-6,10,6,4,win,20230401_k3nt,0,0,0,,,,0,,,,,,,,0,0,,,,,0,2023,2022-23,div1,Columbia State,columbiastatecommunitycollege,carterdavishxac,Carter Davis
+Apr 4,home,UHSP,W,9-3,9,3,6,win,20230404_mwij,0,0,0,,,,0,,,,,,,,0,0,,,,,0,2023,2022-23,div1,Columbia State,columbiastatecommunitycollege,carterdavishxac,Carter Davis

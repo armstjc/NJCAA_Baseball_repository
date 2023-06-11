@@ -1,29 +1,6 @@
 date,location,opponent,result,score,team_score,opp_score,game_score_diff,game_win_loss,game_id,AB,R,H,2B,3B,HR,RBI,BB,K,SB,CS,HBP,SF,SH,TB,XBH,HDP,GO,FO,GO/FO,PA,season,njcaa_season,njcaa_division,team,team_id,player_id,player_name
-Feb 21,home,Shawnee,W,9-2,9,2,7,win,20230221_a12a,1,1,0,,,,0,,,,,,,,0,0,,,,,1,2023,2022-23,div2,Lewis & Clark,lewisclarkcommunitycollege,austinmartiniba4,Austin Martin
-Mar 2,home,Fontbonne JV,W,10-7,10,7,3,win,20230302_78j8,4,0,1,,,,1,,1,,,1,,,1,0,,,,,5,2023,2022-23,div2,Lewis & Clark,lewisclarkcommunitycollege,austinmartiniba4,Austin Martin
-Mar 4,home,North Central Missouri,W,10-5,10,5,5,win,20230304_lekh,4,2,2,,,,0,,,1,,,,,2,0,,,,,4,2023,2022-23,div2,Lewis & Clark,lewisclarkcommunitycollege,austinmartiniba4,Austin Martin
-Mar 4,home,North Central Missouri,W,10-3,10,3,7,win,20230304_slb6,5,1,2,,,,1,,1,,,,,,2,0,,,,,5,2023,2022-23,div2,Lewis & Clark,lewisclarkcommunitycollege,austinmartiniba4,Austin Martin
-Mar 5,home,North Central Missouri,W,12-2,12,2,10,win,20230305_h3nc,3,2,2,,,,2,1,1,1,,,,,2,0,,,,,4,2023,2022-23,div2,Lewis & Clark,lewisclarkcommunitycollege,austinmartiniba4,Austin Martin
-Mar 5,home,North Central Missouri,W,11-5,11,5,6,win,20230305_jinh,3,0,1,,,,0,,,,,,,,1,0,,,,,3,2023,2022-23,div2,Lewis & Clark,lewisclarkcommunitycollege,austinmartiniba4,Austin Martin
-Mar 7,home,East Central (MO),W,6-2,6,2,4,win,20230307_9dr4,3,0,2,,,,0,,,1,,,,,2,0,,,,,3,2023,2022-23,div2,Lewis & Clark,lewisclarkcommunitycollege,austinmartiniba4,Austin Martin
-Mar 11,home,Moberly Area,W,9-1,9,1,8,win,20230311_bcpo,4,0,0,,,,0,,1,,,,,,0,0,,,,,4,2023,2022-23,div2,Lewis & Clark,lewisclarkcommunitycollege,austinmartiniba4,Austin Martin
-Mar 11,home,Moberly Area,W,3-0,3,0,3,win,20230311_n0ow,2,1,2,,,,0,1,,1,,,,,2,0,,,,,3,2023,2022-23,div2,Lewis & Clark,lewisclarkcommunitycollege,austinmartiniba4,Austin Martin
-Mar 26,home,Lincoln Land,W,3-2,3,2,1,win,20230326_4qxx,2,2,1,,,,0,2,1,,,,,,1,0,,,,,4,2023,2022-23,div2,Lewis & Clark,lewisclarkcommunitycollege,austinmartiniba4,Austin Martin
-Mar 27,home,Lincoln Land,W,5-4,5,4,1,win,20230327_3fr8,3,2,1,,,,0,1,,1,,,,,1,0,,,,,4,2023,2022-23,div2,Lewis & Clark,lewisclarkcommunitycollege,austinmartiniba4,Austin Martin
-Mar 29,home,McKendree JV,W,17-4,17,4,13,win,20230329_ma9x,4,2,2,1,,,2,1,,,,,,,3,1,,,,,5,2023,2022-23,div2,Lewis & Clark,lewisclarkcommunitycollege,austinmartiniba4,Austin Martin
-Apr 2,home,Illinois Central,W,11-8,11,8,3,win,20230402_2hbz,4,3,2,1,,,0,,2,1,,1,,,3,1,,,,,5,2023,2022-23,div2,Lewis & Clark,lewisclarkcommunitycollege,austinmartiniba4,Austin Martin
-Apr 2,home,Illinois Central,W,6-4,6,4,2,win,20230402_pjpp,3,1,1,,1,,0,1,,1,,,,,3,1,,,,,4,2023,2022-23,div2,Lewis & Clark,lewisclarkcommunitycollege,austinmartiniba4,Austin Martin
-Apr 7,home,Danville Area,W,13-8,13,8,5,win,20230407_sulx,4,2,2,,,,0,2,,3,,,,,2,0,,,,,6,2023,2022-23,div2,Lewis & Clark,lewisclarkcommunitycollege,austinmartiniba4,Austin Martin
-Apr 8,home,Danville Area,W,11-2,11,2,9,win,20230408_8u9y,1,4,0,,,,0,4,,1,,,,,0,0,,,,,5,2023,2022-23,div2,Lewis & Clark,lewisclarkcommunitycollege,austinmartiniba4,Austin Martin
-Apr 15,home,Spoon River,W,10-2,10,2,8,win,20230415_mbth,3,1,0,,,,1,2,,,,,,,0,0,,,,,5,2023,2022-23,div2,Lewis & Clark,lewisclarkcommunitycollege,austinmartiniba4,Austin Martin
-Apr 15,home,Spoon River,W,3-1,3,1,2,win,20230415_h15c,4,0,0,,,,0,,2,,,,,,0,0,,,,,4,2023,2022-23,div2,Lewis & Clark,lewisclarkcommunitycollege,austinmartiniba4,Austin Martin
-Apr 17,home,Spoon River,W,13-6,13,6,7,win,20230417_qmwz,3,1,2,1,,,1,1,,2,,1,,,3,1,,,,,5,2023,2022-23,div2,Lewis & Clark,lewisclarkcommunitycollege,austinmartiniba4,Austin Martin
-Apr 17,home,Spoon River,W,15-1,15,1,14,win,20230417_7hgb,4,3,3,,1,,0,1,,1,,,,,5,1,,,,,5,2023,2022-23,div2,Lewis & Clark,lewisclarkcommunitycollege,austinmartiniba4,Austin Martin
-Apr 19,home,McKendree JV,W,8-5,8,5,3,win,20230419_84ue,5,2,3,,,,0,,,2,,,,,3,0,,,,,5,2023,2022-23,div2,Lewis & Clark,lewisclarkcommunitycollege,austinmartiniba4,Austin Martin
-Apr 21,home,John Wood,W,13-7,13,7,6,win,20230421_f0ie,5,2,1,,,,2,,2,,,,,,1,0,,,,,5,2023,2022-23,div2,Lewis & Clark,lewisclarkcommunitycollege,austinmartiniba4,Austin Martin
-Apr 22,home,John Wood,W,17-9,17,9,8,win,20230422_s915,5,2,1,,,,0,1,3,,,,,,1,0,,,,,6,2023,2022-23,div2,Lewis & Clark,lewisclarkcommunitycollege,austinmartiniba4,Austin Martin
-Apr 25,home,Illinois College JV,W,10-5,10,5,5,win,20230425_a1ho,0,1,0,,,,2,1,,,,,1,,0,0,,,,,2,2023,2022-23,div2,Lewis & Clark,lewisclarkcommunitycollege,austinmartiniba4,Austin Martin
-Apr 29,home,Vincennes,W,8-1,8,1,7,win,20230429_gins,3,2,0,,,,0,2,2,1,,,,,0,0,,,,,5,2023,2022-23,div2,Lewis & Clark,lewisclarkcommunitycollege,austinmartiniba4,Austin Martin
-Apr 30,home,Vincennes,W,5-4,5,4,1,win,20230430_harr,2,0,0,,,,0,3,1,,,,,,0,0,,,,,5,2023,2022-23,div2,Lewis & Clark,lewisclarkcommunitycollege,austinmartiniba4,Austin Martin
-May 2,home,Blackburn College JV,W,19-4,19,4,15,win,20230502_jejb,0,1,0,,,,0,,,2,,1,,,0,0,,,,,1,2023,2022-23,div2,Lewis & Clark,lewisclarkcommunitycollege,austinmartiniba4,Austin Martin
-May 11,home,Parkland,W,9-1,9,1,8,win,20230511_x29e,4,2,2,,,,0,1,1,1,,,,,2,0,,,,,5,2023,2022-23,div2,Lewis & Clark,lewisclarkcommunitycollege,austinmartiniba4,Austin Martin
+Feb 21,home,Shawnee,W,9-2,9,2,7,win,20230221_a12a,0,0,0,,,,1,,,,,,1,,0,0,,,,,1,2023,2022-23,div2,Lewis & Clark,lewisclarkcommunitycollege,austinmartiniba4,Austin Martin
+Apr 18,home,Missouri Baptist University,W,11-9,11,9,2,win,20230418_sp2r,1,1,0,,,,1,2,1,,,,1,,0,0,,,,,4,2023,2022-23,div2,Lewis & Clark,lewisclarkcommunitycollege,austinmartiniba4,Austin Martin
+Apr 19,home,McKendree JV,W,8-5,8,5,3,win,20230419_84ue,2,0,1,,,,0,,,1,,,,,1,0,,,,,2,2023,2022-23,div2,Lewis & Clark,lewisclarkcommunitycollege,austinmartiniba4,Austin Martin
+Apr 25,home,Illinois College JV,W,10-5,10,5,5,win,20230425_a1ho,0,0,0,,,,0,,,,,,,,0,0,,,,,0,2023,2022-23,div2,Lewis & Clark,lewisclarkcommunitycollege,austinmartiniba4,Austin Martin
+May 2,home,Blackburn College JV,W,19-4,19,4,15,win,20230502_jejb,3,1,0,,,,0,3,1,,,,,,0,0,,,,,6,2023,2022-23,div2,Lewis & Clark,lewisclarkcommunitycollege,austinmartiniba4,Austin Martin

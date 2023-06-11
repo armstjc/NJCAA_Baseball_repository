@@ -1,53 +1,14 @@
 date,location,opponent,result,score,team_score,opp_score,game_score_diff,game_win_loss,game_id,GS,W,L,SV,IP,H,R,ER,ERA,BB,K,HR,season,njcaa_season,njcaa_division,team,team_id,player_id,player_name
-Apr 29,home,Glendale,W,11-2,11,2,9,win,20230429_llvm,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div2,Phoenix,phoenixcollege,issaclizarragaocio,Issac Lizarraga
-Apr 28,home,Glendale,L,16-10,16,10,6,win,20230428_feq7,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div2,Phoenix,phoenixcollege,issaclizarragaocio,Issac Lizarraga
-Apr 27,home,Arizona Western,L,5-4,5,4,1,win,20230427_6n6v,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div2,Phoenix,phoenixcollege,issaclizarragaocio,Issac Lizarraga
-Apr 27,home,Arizona Western,L,7-6,7,6,1,win,20230427_34vu,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div2,Phoenix,phoenixcollege,issaclizarragaocio,Issac Lizarraga
-Apr 26,home,Paradise Valley,L,8-6,8,6,2,win,20230426_wj8z,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div2,Phoenix,phoenixcollege,issaclizarragaocio,Issac Lizarraga
-Apr 22,home,Scottsdale,L,13-3,13,3,10,win,20230422_v36r,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div2,Phoenix,phoenixcollege,issaclizarragaocio,Issac Lizarraga
-Apr 21,home,Scottsdale,L,15-0,15,0,15,win,20230421_6x84,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div2,Phoenix,phoenixcollege,issaclizarragaocio,Issac Lizarraga
-Apr 19,home,GateWay (AZ),L,9-8,9,8,1,win,20230419_pzmj,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div2,Phoenix,phoenixcollege,issaclizarragaocio,Issac Lizarraga
-Apr 18,home,GateWay (AZ),L,11-5,11,5,6,win,20230418_kuzy,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div2,Phoenix,phoenixcollege,issaclizarragaocio,Issac Lizarraga
-Apr 15,home,Mesa,W,5-4,5,4,1,win,20230415_ylre,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div2,Phoenix,phoenixcollege,issaclizarragaocio,Issac Lizarraga
-Apr 12,home,South Mountain,L,7-6,7,6,1,win,20230412_bz64,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div2,Phoenix,phoenixcollege,issaclizarragaocio,Issac Lizarraga
-Apr 11,home,South Mountain,L,5-0,5,0,5,win,20230411_13in,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div2,Phoenix,phoenixcollege,issaclizarragaocio,Issac Lizarraga
-Apr 8,home,Chandler-Gilbert,L,11-1,11,1,10,win,20230408_r1o3,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div2,Phoenix,phoenixcollege,issaclizarragaocio,Issac Lizarraga
-Apr 7,home,Chandler-Gilbert,L,9-0,9,0,9,win,20230407_pzbb,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div2,Phoenix,phoenixcollege,issaclizarragaocio,Issac Lizarraga
-Apr 4,home,Pima,L,13-1,13,1,12,win,20230404_bck1,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div2,Phoenix,phoenixcollege,issaclizarragaocio,Issac Lizarraga
-Apr 4,home,Pima,L,8-4,8,4,4,win,20230404_ppr3,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div2,Phoenix,phoenixcollege,issaclizarragaocio,Issac Lizarraga
-Apr 1,home,Eastern Arizona,L,4-3,4,3,1,win,20230401_y1ad,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div2,Phoenix,phoenixcollege,issaclizarragaocio,Issac Lizarraga
-Apr 1,home,Eastern Arizona,W,5-4,5,4,1,win,20230401_0bko,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div2,Phoenix,phoenixcollege,issaclizarragaocio,Issac Lizarraga
-Mar 28,home,Cochise,L,10-0,10,0,10,win,20230328_keel,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div2,Phoenix,phoenixcollege,issaclizarragaocio,Issac Lizarraga
-Mar 28,home,Cochise,L,7-0,7,0,7,win,20230328_0cdx,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div2,Phoenix,phoenixcollege,issaclizarragaocio,Issac Lizarraga
-Mar 25,home,Central Arizona,L,6-3,6,3,3,win,20230325_xdqp,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div2,Phoenix,phoenixcollege,issaclizarragaocio,Issac Lizarraga
-Mar 24,home,Central Arizona,L,1-0,1,0,1,win,20230324_jbuv,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div2,Phoenix,phoenixcollege,issaclizarragaocio,Issac Lizarraga
-Mar 23,home,GCU Club,W,12-6,12,6,6,win,20230323_z5fb,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div2,Phoenix,phoenixcollege,issaclizarragaocio,Issac Lizarraga
-Mar 18,home,Scottsdale Post Grad,W,8-4,8,4,4,win,20230318_lt8c,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div2,Phoenix,phoenixcollege,issaclizarragaocio,Issac Lizarraga
-Mar 14,home,Fraser Valley,W,12-0,12,0,12,win,20230314_iw2h,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div2,Phoenix,phoenixcollege,issaclizarragaocio,Issac Lizarraga
-Mar 14,home,Fraser Valley,W,12-2,12,2,10,win,20230314_n8b3,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div2,Phoenix,phoenixcollege,issaclizarragaocio,Issac Lizarraga
-Mar 11,home,Yavapai,L,11-8,11,8,3,win,20230311_c0ya,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div2,Phoenix,phoenixcollege,issaclizarragaocio,Issac Lizarraga
-Mar 11,home,Yavapai,L,5-2,5,2,3,win,20230311_7irp,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div2,Phoenix,phoenixcollege,issaclizarragaocio,Issac Lizarraga
-Mar 8,home,South Mountain,L,13-7,13,7,6,win,20230308_zqjx,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div2,Phoenix,phoenixcollege,issaclizarragaocio,Issac Lizarraga
-Mar 7,home,South Mountain,L,9-0,9,0,9,win,20230307_1e17,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div2,Phoenix,phoenixcollege,issaclizarragaocio,Issac Lizarraga
-Mar 4,home,Glendale,W,5-4,5,4,1,win,20230304_r1gm,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div2,Phoenix,phoenixcollege,issaclizarragaocio,Issac Lizarraga
-Mar 3,home,Glendale,L,15-9,15,9,6,win,20230303_bigr,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div2,Phoenix,phoenixcollege,issaclizarragaocio,Issac Lizarraga
-Feb 28,home,Paradise Valley,L,12-7,12,7,5,win,20230228_trtp,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div2,Phoenix,phoenixcollege,issaclizarragaocio,Issac Lizarraga
-Feb 28,home,Paradise Valley,L,14-0,14,0,14,win,20230228_bwat,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div2,Phoenix,phoenixcollege,issaclizarragaocio,Issac Lizarraga
-Feb 25,home,Scottsdale,W,8-2,8,2,6,win,20230225_hatm,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div2,Phoenix,phoenixcollege,issaclizarragaocio,Issac Lizarraga
-Feb 24,home,Scottsdale,W,3-1,3,1,2,win,20230224_g42x,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div2,Phoenix,phoenixcollege,issaclizarragaocio,Issac Lizarraga
-Feb 22,home,GateWay (AZ),W,4-2,4,2,2,win,20230222_epmr,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div2,Phoenix,phoenixcollege,issaclizarragaocio,Issac Lizarraga
-Feb 22,home,GateWay (AZ),L,5-2,5,2,3,win,20230222_5mr2,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div2,Phoenix,phoenixcollege,issaclizarragaocio,Issac Lizarraga
-Feb 20,home,Mesa-Benedictine JV,W,16-7,16,7,9,win,20230220_rsqs,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div2,Phoenix,phoenixcollege,issaclizarragaocio,Issac Lizarraga
-Feb 18,home,Mesa,W,10-3,10,3,7,win,20230218_4sew,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div2,Phoenix,phoenixcollege,issaclizarragaocio,Issac Lizarraga
-Feb 17,home,Mesa,W,13-3,13,3,10,win,20230217_sqi4,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div2,Phoenix,phoenixcollege,issaclizarragaocio,Issac Lizarraga
-Feb 15,home,South Mountain,L,6-2,6,2,4,win,20230215_fhgl,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div2,Phoenix,phoenixcollege,issaclizarragaocio,Issac Lizarraga
-Feb 15,home,South Mountain,L,7-1,7,1,6,win,20230215_3i09,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div2,Phoenix,phoenixcollege,issaclizarragaocio,Issac Lizarraga
-Feb 13,home,ACU JV,W,10-1,10,1,9,win,20230213_0jkh,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div2,Phoenix,phoenixcollege,issaclizarragaocio,Issac Lizarraga
-Feb 11,home,Chandler-Gilbert,L,11-4,11,4,7,win,20230211_rggj,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div2,Phoenix,phoenixcollege,issaclizarragaocio,Issac Lizarraga
-Feb 10,home,Chandler-Gilbert,L,5-4,5,4,1,win,20230210_qnwo,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div2,Phoenix,phoenixcollege,issaclizarragaocio,Issac Lizarraga
-Feb 8,home,Central Arizona,L,10-5,10,5,5,win,20230208_uj1h,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div2,Phoenix,phoenixcollege,issaclizarragaocio,Issac Lizarraga
-Feb 6,home,GCU Club,W,15-14,15,14,1,win,20230206_mcae,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div2,Phoenix,phoenixcollege,issaclizarragaocio,Issac Lizarraga
-Feb 4,home,SW Oregon CC,W,11-3,11,3,8,win,20230204_g4b5,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div2,Phoenix,phoenixcollege,issaclizarragaocio,Issac Lizarraga
-Feb 3,home,ACU JV,L,5-4,5,4,1,win,20230203_zw95,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div2,Phoenix,phoenixcollege,issaclizarragaocio,Issac Lizarraga
-Jan 28,home,Ottawa University JV,W,5-4,5,4,1,win,20230128_at17,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div2,Phoenix,phoenixcollege,issaclizarragaocio,Issac Lizarraga
-Jan 27,home,Ottawa University JV,W,8-3,8,3,5,win,20230127_3gk6,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div2,Phoenix,phoenixcollege,issaclizarragaocio,Issac Lizarraga
+May 12,home,Rockland,L,21-0,21,0,21,win,20230512_twm4,0,0,0,0,1.0,3,6,6,54.00,3,,,2023,2022-23,div2,Phoenix,phoenixcollege,issaclizarragaocio,Issac Lizarraga
+May 6,home,Sullivan County,L,10-0,10,0,10,win,20230506_6b4w,0,0,0,0,1.2,3,2,,0.00,,1,,2023,2022-23,div2,Phoenix,phoenixcollege,issaclizarragaocio,Issac Lizarraga
+Apr 25,home,Lackawanna,L,13-9,13,9,4,win,20230425_74op,1,0,0,0,4.0,1,4,4,9.00,4,1,,2023,2022-23,div2,Phoenix,phoenixcollege,issaclizarragaocio,Issac Lizarraga
+Apr 20,home,Orange County,W,15-13,15,13,2,win,20230420_147e,0,0,0,0,1.2,1,5,5,27.00,5,1,,2023,2022-23,div2,Phoenix,phoenixcollege,issaclizarragaocio,Issac Lizarraga
+Apr 15,home,Rockland,L,9-1,9,1,8,win,20230415_2w74,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div2,Phoenix,phoenixcollege,issaclizarragaocio,Issac Lizarraga
+Apr 14,home,Rockland,L,17-2,17,2,15,win,20230414_lpju,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div2,Phoenix,phoenixcollege,issaclizarragaocio,Issac Lizarraga
+Apr 13,home,Rockland,L,16-6,16,6,10,win,20230413_8prv,0,0,0,0,3.0,2,4,4,12.00,3,,,2023,2022-23,div2,Phoenix,phoenixcollege,issaclizarragaocio,Issac Lizarraga
+Apr 8,home,Westchester,L,15-5,15,5,10,win,20230408_76p2,0,0,0,0,1.1,1,1,,0.00,3,3,,2023,2022-23,div2,Phoenix,phoenixcollege,issaclizarragaocio,Issac Lizarraga
+Apr 4,home,Hudson Valley,L,10-4,10,4,6,win,20230404_22jb,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div2,Phoenix,phoenixcollege,issaclizarragaocio,Issac Lizarraga
+Mar 31,home,Monroe College - Bronx,L,4-2,4,2,2,win,20230331_9bmh,1,0,0,0,3.0,2,1,1,3.00,3,2,,2023,2022-23,div2,Phoenix,phoenixcollege,issaclizarragaocio,Issac Lizarraga
+Mar 26,home,Bergen,L,19-11,19,11,8,win,20230326_25nv,0,0,0,0,0.1,3,6,6,162.00,2,1,,2023,2022-23,div2,Phoenix,phoenixcollege,issaclizarragaocio,Issac Lizarraga
+Mar 26,home,Bergen,L,9-0,9,0,9,win,20230326_8msy,0,0,0,0,0.1,,4,3,81.00,4,,,2023,2022-23,div2,Phoenix,phoenixcollege,issaclizarragaocio,Issac Lizarraga
+Mar 23,home,Columbia-Greene,L,7-6,7,6,1,win,20230323_qrry,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div2,Phoenix,phoenixcollege,issaclizarragaocio,Issac Lizarraga

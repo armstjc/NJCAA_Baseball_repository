@@ -1,17 +1,8 @@
 date,location,opponent,result,score,team_score,opp_score,game_score_diff,game_win_loss,game_id,TC,PO,A,E,FPCT,DP,SBA,RCS,RCS_PCT,PB,CI,season,njcaa_season,njcaa_division,team,team_id,player_id,player_name
-Feb 8,home,Louisburg,W,6-4,6,4,2,win,20230208_mmqe,0,0,0,1,1.0,2,1,1,9.00,1,2,2023,2022-23,div2,Lenoir,lenoircommunitycollege,colinwyant5dyd,Colin Wyant
-Feb 11,home,Richard Bland,W,8-7,8,7,1,win,20230211_7tac,0,0,0,0,1.0,1,0,0,0.00,1,0,2023,2022-23,div2,Lenoir,lenoircommunitycollege,colinwyant5dyd,Colin Wyant
-Feb 14,home,Louisburg,L,8-3,8,3,5,win,20230214_d9fj,0,0,0,0,0.2,1,0,0,0.00,1,1,2023,2022-23,div2,Lenoir,lenoircommunitycollege,colinwyant5dyd,Colin Wyant
-Feb 18,home,Fayetteville Tech,W,4-3,4,3,1,win,20230218_6xel,0,1,0,0,1.0,0,0,0,0.00,0,1,2023,2022-23,div2,Lenoir,lenoircommunitycollege,colinwyant5dyd,Colin Wyant
-Feb 19,home,Fayetteville Tech,W,5-3,5,3,2,win,20230219_g7g7,0,0,0,1,0.2,,,,0.00,,1,2023,2022-23,div2,Lenoir,lenoircommunitycollege,colinwyant5dyd,Colin Wyant
-Feb 22,home,Chowan University JV,W,10-4,10,4,6,win,20230222_zt4z,0,0,0,0,1.0,,,,0.00,,2,2023,2022-23,div2,Lenoir,lenoircommunitycollege,colinwyant5dyd,Colin Wyant
-Feb 25,home,Gaston College,L,14-6,14,6,8,win,20230225_2b7k,0,0,0,0,1.0,1,1,1,9.00,3,,2023,2022-23,div2,Lenoir,lenoircommunitycollege,colinwyant5dyd,Colin Wyant
-Mar 4,home,Brunswick,L,8-6,8,6,2,win,20230304_pu0w,0,0,0,0,0.1,2,1,1,27.00,1,1,2023,2022-23,div2,Lenoir,lenoircommunitycollege,colinwyant5dyd,Colin Wyant
-Mar 15,home,Barton College JV,L,12-11,12,11,1,win,20230315_iuek,0,0,0,0,1.0,2,,,0.00,,,2023,2022-23,div2,Lenoir,lenoircommunitycollege,colinwyant5dyd,Colin Wyant
-Mar 22,home,William Peace University JV,W,11-4,11,4,7,win,20230322_s5kf,0,0,0,0,1.0,,,,0.00,,2,2023,2022-23,div2,Lenoir,lenoircommunitycollege,colinwyant5dyd,Colin Wyant
-Apr 12,home,Pitt,L,8-2,8,2,6,win,20230412_zbqs,0,0,0,0,1.0,0,0,0,0.00,1,0,2023,2022-23,div2,Lenoir,lenoircommunitycollege,colinwyant5dyd,Colin Wyant
-Apr 15,home,Brunswick,W,4-3,4,3,1,win,20230415_emfq,0,1,0,0,1.0,1,1,1,9.00,,,2023,2022-23,div2,Lenoir,lenoircommunitycollege,colinwyant5dyd,Colin Wyant
-Apr 19,home,Pitt,W,9-6,9,6,3,win,20230419_vkmi,0,0,0,0,1.2,,,,0.00,3,2,2023,2022-23,div2,Lenoir,lenoircommunitycollege,colinwyant5dyd,Colin Wyant
-Apr 22,home,Southeastern-Whiteville,W,9-7,9,7,2,win,20230422_xtc3,0,0,0,0,0.1,2,2,2,54.00,,,2023,2022-23,div2,Lenoir,lenoircommunitycollege,colinwyant5dyd,Colin Wyant
-Apr 29,home,Bryant & Stratton (VA),L,14-6,14,6,8,win,20230429_6lqv,0,0,0,0,1.1,2,2,2,13.50,1,0,2023,2022-23,div2,Lenoir,lenoircommunitycollege,colinwyant5dyd,Colin Wyant
-May 7,home,Pitt,W,7-0,7,0,7,win,20230507_l00z,1,1,0,0,8.2,4,0,0,0.00,3,5,2023,2022-23,div2,Lenoir,lenoircommunitycollege,colinwyant5dyd,Colin Wyant
+Feb 13,home,Northwestern Oklahoma State University JV,L,7-6,7,6,1,win,20230213_vbpc,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div2,Lenoir,lenoircommunitycollege,colinwyant5dyd,Colin Wyant
+Feb 21,home,Kansas Wesleyan University JV,W,11-4,11,4,7,win,20230221_yyo1,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div2,Lenoir,lenoircommunitycollege,colinwyant5dyd,Colin Wyant
+Feb 28,home,Randall University,W,13-5,13,5,8,win,20230228_pau7,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div2,Lenoir,lenoircommunitycollege,colinwyant5dyd,Colin Wyant
+Mar 5,home,Lake Region State,W,2-0,2,0,2,win,20230305_57l1,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div2,Lenoir,lenoircommunitycollege,colinwyant5dyd,Colin Wyant
+Mar 7,home,Northern Oklahoma Tonkawa,L,10-0,10,0,10,win,20230307_ksae,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div2,Lenoir,lenoircommunitycollege,colinwyant5dyd,Colin Wyant
+Apr 10,home,Highland (KS),L,14-4,14,4,10,win,20230410_7r90,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div2,Lenoir,lenoircommunitycollege,colinwyant5dyd,Colin Wyant
+Apr 16,home,North Central Missouri,L,16-10,16,10,6,win,20230416_hfrf,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div2,Lenoir,lenoircommunitycollege,colinwyant5dyd,Colin Wyant

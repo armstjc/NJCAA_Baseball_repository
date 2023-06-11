@@ -1,17 +1,61 @@
 date,location,opponent,result,score,team_score,opp_score,game_score_diff,game_win_loss,game_id,TC,PO,A,E,FPCT,DP,SBA,RCS,RCS_PCT,PB,CI,season,njcaa_season,njcaa_division,team,team_id,player_id,player_name
-Jan 28,home,Dallas College - Brookhaven,W,19-1,19,1,18,win,20230128_yxwg,1,1,0,0,4.0,3,1,1,2.25,2,3,2023,2022-23,div1,Paris,parisjuniorcollege,connorkelleyxym3,Connor Kelley
-Feb 3,home,East Texas Baptist,W,3-1,3,1,2,win,20230203_wezi,1,0,0,0,4.0,3,1,1,2.25,1,6,2023,2022-23,div1,Paris,parisjuniorcollege,connorkelleyxym3,Connor Kelley
-Feb 9,home,Odessa,W,6-0,6,0,6,win,20230209_1rhi,1,1,0,0,6.0,3,0,0,0.00,2,6,2023,2022-23,div1,Paris,parisjuniorcollege,connorkelleyxym3,Connor Kelley
-Feb 18,home,Angelina,W,5-2,5,2,3,win,20230218_z525,1,1,0,0,5.0,2,1,1,1.80,3,9,2023,2022-23,div1,Paris,parisjuniorcollege,connorkelleyxym3,Connor Kelley
-Feb 25,home,Northeast Texas,L,7-2,7,2,5,win,20230225_jydv,1,0,1,0,3.0,3,6,4,12.00,3,3,2023,2022-23,div1,Paris,parisjuniorcollege,connorkelleyxym3,Connor Kelley
-Mar 4,home,Bossier Parish,W,8-2,8,2,6,win,20230304_u8o8,1,1,0,0,5.1,4,2,1,1.69,3,5,2023,2022-23,div1,Paris,parisjuniorcollege,connorkelleyxym3,Connor Kelley
-Mar 11,home,Panola,L,10-0,10,0,10,win,20230311_zv9k,1,0,1,0,2.1,4,7,7,27.00,2,2,2023,2022-23,div1,Paris,parisjuniorcollege,connorkelleyxym3,Connor Kelley
-Mar 25,home,Navarro,L,4-3,4,3,1,win,20230325_v7ml,1,0,0,0,4.1,3,2,1,2.08,1,6,2023,2022-23,div1,Paris,parisjuniorcollege,connorkelleyxym3,Connor Kelley
-Apr 1,home,Tyler,W,12-5,12,5,7,win,20230401_bb4o,1,1,0,0,4.0,4,3,3,6.75,3,7,2023,2022-23,div1,Paris,parisjuniorcollege,connorkelleyxym3,Connor Kelley
-Apr 8,home,Angelina,W,6-1,6,1,5,win,20230408_k8yf,1,1,0,0,7.0,4,1,1,1.29,1,8,2023,2022-23,div1,Paris,parisjuniorcollege,connorkelleyxym3,Connor Kelley
-Apr 15,home,Northeast Texas,L,7-4,7,4,3,win,20230415_0b9x,1,0,1,0,3.0,9,6,6,18.00,1,5,2023,2022-23,div1,Paris,parisjuniorcollege,connorkelleyxym3,Connor Kelley
-Apr 22,home,Bossier Parish,L,9-8,9,8,1,win,20230422_81t5,1,0,0,0,5.2,6,7,2,3.18,2,5,2023,2022-23,div1,Paris,parisjuniorcollege,connorkelleyxym3,Connor Kelley
-Apr 27,home,Tyler,W,5-2,5,2,3,win,20230427_ix5q,0,0,0,1,2.0,2,,,0.00,,2,2023,2022-23,div1,Paris,parisjuniorcollege,connorkelleyxym3,Connor Kelley
-Apr 29,home,Panola,W,9-7,9,7,2,win,20230429_wsk1,0,0,0,0,1.2,,,,0.00,3,2,2023,2022-23,div1,Paris,parisjuniorcollege,connorkelleyxym3,Connor Kelley
-May 5,home,San Jacinto,W,11-3,11,3,8,win,20230505_fzao,1,0,0,0,1.2,2,3,3,16.20,3,2,2023,2022-23,div1,Paris,parisjuniorcollege,connorkelleyxym3,Connor Kelley
-May 17,home,Blinn,L,11-3,11,3,8,win,20230517_gfc4,1,0,1,0,2.0,2,3,3,13.50,5,2,2023,2022-23,div1,Paris,parisjuniorcollege,connorkelleyxym3,Connor Kelley
+Jan 27,home,Dallas College - Brookhaven,W,14-9,14,9,5,win,20230127_f7y2,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Paris,parisjuniorcollege,connorkelleyxym3,Connor Kelley
+Jan 28,home,Dallas College - Brookhaven,W,13-8,13,8,5,win,20230128_n1nd,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Paris,parisjuniorcollege,connorkelleyxym3,Connor Kelley
+Jan 28,home,Dallas College - Brookhaven,W,19-1,19,1,18,win,20230128_yxwg,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Paris,parisjuniorcollege,connorkelleyxym3,Connor Kelley
+Feb 3,home,East Texas Baptist,W,3-1,3,1,2,win,20230203_wezi,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Paris,parisjuniorcollege,connorkelleyxym3,Connor Kelley
+Feb 3,home,East Texas Baptist,W,4-2,4,2,2,win,20230203_yaef,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Paris,parisjuniorcollege,connorkelleyxym3,Connor Kelley
+Feb 4,home,East Texas Baptist,W,12-8,12,8,4,win,20230204_3d9x,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Paris,parisjuniorcollege,connorkelleyxym3,Connor Kelley
+Feb 6,home,Arlington Baptist,W,16-0,16,0,16,win,20230206_tndl,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Paris,parisjuniorcollege,connorkelleyxym3,Connor Kelley
+Feb 9,home,Odessa,W,6-0,6,0,6,win,20230209_1rhi,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Paris,parisjuniorcollege,connorkelleyxym3,Connor Kelley
+Feb 9,home,Blinn,L,10-2,10,2,8,win,20230209_e4z3,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Paris,parisjuniorcollege,connorkelleyxym3,Connor Kelley
+Feb 10,home,Wharton County,W,7-6,7,6,1,win,20230210_4esq,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Paris,parisjuniorcollege,connorkelleyxym3,Connor Kelley
+Feb 12,home,TCS,W,12-6,12,6,6,win,20230212_qy0f,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Paris,parisjuniorcollege,connorkelleyxym3,Connor Kelley
+Feb 18,home,Angelina,W,5-2,5,2,3,win,20230218_z525,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Paris,parisjuniorcollege,connorkelleyxym3,Connor Kelley
+Feb 18,home,Angelina,W,9-0,9,0,9,win,20230218_kipa,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Paris,parisjuniorcollege,connorkelleyxym3,Connor Kelley
+Feb 23,home,Texas Post Grad,W,13-6,13,6,7,win,20230223_fay4,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Paris,parisjuniorcollege,connorkelleyxym3,Connor Kelley
+Feb 25,home,Northeast Texas,L,7-2,7,2,5,win,20230225_jydv,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Paris,parisjuniorcollege,connorkelleyxym3,Connor Kelley
+Feb 25,home,Northeast Texas,W,8-3,8,3,5,win,20230225_xmk0,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Paris,parisjuniorcollege,connorkelleyxym3,Connor Kelley
+Feb 27,home,Dallas College - Eastfield,W,13-11,13,11,2,win,20230227_ehu8,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Paris,parisjuniorcollege,connorkelleyxym3,Connor Kelley
+Mar 1,home,Navarro,L,8-4,8,4,4,win,20230301_tqz4,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Paris,parisjuniorcollege,connorkelleyxym3,Connor Kelley
+Mar 1,home,Navarro,W,10-8,10,8,2,win,20230301_7smq,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Paris,parisjuniorcollege,connorkelleyxym3,Connor Kelley
+Mar 4,home,Bossier Parish,W,8-2,8,2,6,win,20230304_u8o8,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Paris,parisjuniorcollege,connorkelleyxym3,Connor Kelley
+Mar 4,home,Bossier Parish,L,7-6,7,6,1,win,20230304_1s8t,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Paris,parisjuniorcollege,connorkelleyxym3,Connor Kelley
+Mar 8,home,Tyler,L,10-5,10,5,5,win,20230308_r8k3,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Paris,parisjuniorcollege,connorkelleyxym3,Connor Kelley
+Mar 8,home,Tyler,L,17-9,17,9,8,win,20230308_lu7t,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Paris,parisjuniorcollege,connorkelleyxym3,Connor Kelley
+Mar 11,home,Panola,L,10-0,10,0,10,win,20230311_zv9k,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Paris,parisjuniorcollege,connorkelleyxym3,Connor Kelley
+Mar 11,home,Panola,W,6-5,6,5,1,win,20230311_6lot,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Paris,parisjuniorcollege,connorkelleyxym3,Connor Kelley
+Mar 15,home,Angelina,L,3-2,3,2,1,win,20230315_du81,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Paris,parisjuniorcollege,connorkelleyxym3,Connor Kelley
+Mar 15,home,Angelina,W,4-3,4,3,1,win,20230315_bufq,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Paris,parisjuniorcollege,connorkelleyxym3,Connor Kelley
+Mar 18,home,Joliet,W,10-3,10,3,7,win,20230318_76k7,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Paris,parisjuniorcollege,connorkelleyxym3,Connor Kelley
+Mar 18,home,Joliet,L,12-11,12,11,1,win,20230318_jvon,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Paris,parisjuniorcollege,connorkelleyxym3,Connor Kelley
+Mar 22,home,Northeast Texas,W,9-3,9,3,6,win,20230322_sniv,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Paris,parisjuniorcollege,connorkelleyxym3,Connor Kelley
+Mar 22,home,Northeast Texas,W,10-2,10,2,8,win,20230322_bukw,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Paris,parisjuniorcollege,connorkelleyxym3,Connor Kelley
+Mar 25,home,Navarro,L,4-3,4,3,1,win,20230325_v7ml,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Paris,parisjuniorcollege,connorkelleyxym3,Connor Kelley
+Mar 25,home,Navarro,W,7-5,7,5,2,win,20230325_kmme,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Paris,parisjuniorcollege,connorkelleyxym3,Connor Kelley
+Mar 27,home,TCS,W,3-1,3,1,2,win,20230327_oj4k,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Paris,parisjuniorcollege,connorkelleyxym3,Connor Kelley
+Mar 29,home,Bossier Parish,W,12-8,12,8,4,win,20230329_xj5i,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Paris,parisjuniorcollege,connorkelleyxym3,Connor Kelley
+Mar 29,home,Bossier Parish,L,14-8,14,8,6,win,20230329_6ah2,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Paris,parisjuniorcollege,connorkelleyxym3,Connor Kelley
+Apr 1,home,Tyler,W,12-5,12,5,7,win,20230401_bb4o,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Paris,parisjuniorcollege,connorkelleyxym3,Connor Kelley
+Apr 1,home,Tyler,L,9-5,9,5,4,win,20230401_jmis,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Paris,parisjuniorcollege,connorkelleyxym3,Connor Kelley
+Apr 3,home,Dallas College - Eastfield,L,13-9,13,9,4,win,20230403_bggj,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Paris,parisjuniorcollege,connorkelleyxym3,Connor Kelley
+Apr 5,home,Panola,W,5-4,5,4,1,win,20230405_n99m,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Paris,parisjuniorcollege,connorkelleyxym3,Connor Kelley
+Apr 5,home,Panola,W,10-5,10,5,5,win,20230405_nw32,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Paris,parisjuniorcollege,connorkelleyxym3,Connor Kelley
+Apr 8,home,Angelina,W,4-1,4,1,3,win,20230408_fojc,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Paris,parisjuniorcollege,connorkelleyxym3,Connor Kelley
+Apr 8,home,Angelina,W,6-1,6,1,5,win,20230408_k8yf,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Paris,parisjuniorcollege,connorkelleyxym3,Connor Kelley
+Apr 10,home,Dallas Christian,W,7-1,7,1,6,win,20230410_a77f,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Paris,parisjuniorcollege,connorkelleyxym3,Connor Kelley
+Apr 10,home,Dallas Christian,W,11-1,11,1,10,win,20230410_s4u3,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Paris,parisjuniorcollege,connorkelleyxym3,Connor Kelley
+Apr 15,home,Northeast Texas,L,16-6,16,6,10,win,20230415_hf65,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Paris,parisjuniorcollege,connorkelleyxym3,Connor Kelley
+Apr 15,home,Northeast Texas,L,7-4,7,4,3,win,20230415_0b9x,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Paris,parisjuniorcollege,connorkelleyxym3,Connor Kelley
+Apr 19,home,Navarro,L,9-2,9,2,7,win,20230419_zwaa,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Paris,parisjuniorcollege,connorkelleyxym3,Connor Kelley
+Apr 19,home,Navarro,W,5-4,5,4,1,win,20230419_87fl,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Paris,parisjuniorcollege,connorkelleyxym3,Connor Kelley
+Apr 22,home,Bossier Parish,W,11-6,11,6,5,win,20230422_g0ro,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Paris,parisjuniorcollege,connorkelleyxym3,Connor Kelley
+Apr 22,home,Bossier Parish,L,9-8,9,8,1,win,20230422_81t5,0,0,1,0,1.1,3,2,2,13.50,,1,2023,2022-23,div1,Paris,parisjuniorcollege,connorkelleyxym3,Connor Kelley
+Apr 27,home,Tyler,L,3-0,3,0,3,win,20230427_rs0h,0,0,0,0,0.1,,,,0.00,,,2023,2022-23,div1,Paris,parisjuniorcollege,connorkelleyxym3,Connor Kelley
+Apr 27,home,Tyler,W,5-2,5,2,3,win,20230427_ix5q,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Paris,parisjuniorcollege,connorkelleyxym3,Connor Kelley
+Apr 29,home,Panola,W,8-2,8,2,6,win,20230429_sztk,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Paris,parisjuniorcollege,connorkelleyxym3,Connor Kelley
+Apr 29,home,Panola,W,9-7,9,7,2,win,20230429_wsk1,0,0,0,0,0.1,2,2,2,54.00,2,,2023,2022-23,div1,Paris,parisjuniorcollege,connorkelleyxym3,Connor Kelley
+May 5,home,San Jacinto,W,11-3,11,3,8,win,20230505_fzao,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Paris,parisjuniorcollege,connorkelleyxym3,Connor Kelley
+May 6,home,Navarro,W,13-3,13,3,10,win,20230506_smkk,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Paris,parisjuniorcollege,connorkelleyxym3,Connor Kelley
+May 7,home,San Jacinto,W,11-5,11,5,6,win,20230507_36ng,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Paris,parisjuniorcollege,connorkelleyxym3,Connor Kelley
+May 17,home,Blinn,L,11-3,11,3,8,win,20230517_gfc4,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Paris,parisjuniorcollege,connorkelleyxym3,Connor Kelley
+May 18,home,Blinn,L,18-0,18,0,18,win,20230518_8mhc,0,0,0,0,0.0,,,,0.00,,,2023,2022-23,div1,Paris,parisjuniorcollege,connorkelleyxym3,Connor Kelley

@@ -1,9 +1,17 @@
 date,location,opponent,result,score,team_score,opp_score,game_score_diff,game_win_loss,game_id,TC,PO,A,E,FPCT,DP,SBA,RCS,RCS_PCT,PB,CI,season,njcaa_season,njcaa_division,team,team_id,player_id,player_name
-Feb 5,home,Northern Oklahoma Tonkawa,L,15-3,15,3,12,win,20230205_getj,0,0,1,0,0.1,1,4,,0.00,1,,2023,2022-23,div2,Des Moines Area,desmoinesareacommunitycollege,jaqsontejadaezp5,Jaqson Tejada
-Feb 26,home,Northern Oklahoma Enid,W,4-3,4,3,1,win,20230226_fs6u,0,0,0,0,3.1,,,,0.00,2,7,2023,2022-23,div2,Des Moines Area,desmoinesareacommunitycollege,jaqsontejadaezp5,Jaqson Tejada
-Mar 3,home,Butler,L,10-2,10,2,8,win,20230303_3k8u,0,0,0,0,0.2,1,2,2,27.00,2,1,2023,2022-23,div2,Des Moines Area,desmoinesareacommunitycollege,jaqsontejadaezp5,Jaqson Tejada
-Mar 24,home,Kirkwood,L,6-1,6,1,5,win,20230324_0spt,0,0,0,0,0.2,,,,0.00,1,,2023,2022-23,div2,Des Moines Area,desmoinesareacommunitycollege,jaqsontejadaezp5,Jaqson Tejada
-Apr 3,home,North Iowa Area,L,9-4,9,4,5,win,20230403_4jl9,0,0,0,0,0.1,0,3,2,54.00,1,0,2023,2022-23,div2,Des Moines Area,desmoinesareacommunitycollege,jaqsontejadaezp5,Jaqson Tejada
-Apr 8,home,Indian Hills,L,12-7,12,7,5,win,20230408_azz3,0,0,0,0,0.1,0,1,0,0.00,3,1,2023,2022-23,div2,Des Moines Area,desmoinesareacommunitycollege,jaqsontejadaezp5,Jaqson Tejada
-Apr 14,home,Iowa Central,L,14-5,14,5,9,win,20230414_mg8v,0,0,0,0,1.0,1,1,1,9.00,1,2,2023,2022-23,div2,Des Moines Area,desmoinesareacommunitycollege,jaqsontejadaezp5,Jaqson Tejada
-May 3,home,Iowa Western,L,25-17,25,17,8,win,20230503_rlx8,0,0,0,0,0.0,0,0,0,0.00,2,0,2023,2022-23,div2,Des Moines Area,desmoinesareacommunitycollege,jaqsontejadaezp5,Jaqson Tejada
+Mar 6,home,Olney Central,L,11-1,11,1,10,win,20230306_cm1a,1,0,1,0,2.0,2,2,2,9.00,1,1,2023,2022-23,div2,Des Moines Area,desmoinesareacommunitycollege,jaqsontejadaezp5,Jaqson Tejada
+Mar 8,home,Henry Ford,L,10-6,10,6,4,win,20230308_a1jx,1,0,1,0,3.2,9,7,5,12.27,0,0,2023,2022-23,div2,Des Moines Area,desmoinesareacommunitycollege,jaqsontejadaezp5,Jaqson Tejada
+Mar 28,home,Utica JV,W,14-0,14,0,14,win,20230328_r6by,1,1,0,0,3.0,2,0,0,0.00,1,4,2023,2022-23,div2,Des Moines Area,desmoinesareacommunitycollege,jaqsontejadaezp5,Jaqson Tejada
+Apr 1,home,Anne Arundel,W,12-4,12,4,8,win,20230401_3eys,0,0,0,0,2.0,2,1,1,4.50,1,2,2023,2022-23,div2,Des Moines Area,desmoinesareacommunitycollege,jaqsontejadaezp5,Jaqson Tejada
+Apr 2,home,Frederick,W,5-3,5,3,2,win,20230402_txyn,0,1,0,0,3.0,2,,,0.00,1,3,2023,2022-23,div2,Des Moines Area,desmoinesareacommunitycollege,jaqsontejadaezp5,Jaqson Tejada
+Apr 4,home,Herkimer,L,2-1,2,1,1,win,20230404_7o8t,0,0,1,0,2.0,2,1,1,4.50,1,,2023,2022-23,div2,Des Moines Area,desmoinesareacommunitycollege,jaqsontejadaezp5,Jaqson Tejada
+Apr 7,home,Lackawanna,L,20-17,20,17,3,win,20230407_djah,0,0,0,0,0.1,5,4,4,108.00,,,2023,2022-23,div2,Des Moines Area,desmoinesareacommunitycollege,jaqsontejadaezp5,Jaqson Tejada
+Apr 8,home,Niagara County,W,6-5,6,5,1,win,20230408_plha,0,1,0,0,0.2,,,,0.00,,,2023,2022-23,div2,Des Moines Area,desmoinesareacommunitycollege,jaqsontejadaezp5,Jaqson Tejada
+Apr 13,home,Erie,L,10-3,10,3,7,win,20230413_iwmg,0,0,0,0,1.1,1,,,0.00,,1,2023,2022-23,div2,Des Moines Area,desmoinesareacommunitycollege,jaqsontejadaezp5,Jaqson Tejada
+Apr 16,home,UConn Avery Point,L,4-3,4,3,1,win,20230416_j7z4,0,0,1,0,1.0,1,1,1,9.00,2,,2023,2022-23,div2,Des Moines Area,desmoinesareacommunitycollege,jaqsontejadaezp5,Jaqson Tejada
+Apr 16,home,UConn Avery Point,L,4-0,4,0,4,win,20230416_7ohr,1,0,1,0,4.0,4,3,2,4.50,2,2,2023,2022-23,div2,Des Moines Area,desmoinesareacommunitycollege,jaqsontejadaezp5,Jaqson Tejada
+Apr 20,home,Erie,W,5-3,5,3,2,win,20230420_wze6,0,0,0,1,1.1,1,1,1,6.75,2,2,2023,2022-23,div2,Des Moines Area,desmoinesareacommunitycollege,jaqsontejadaezp5,Jaqson Tejada
+Apr 24,home,SUNY Adirondack,L,8-7,8,7,1,win,20230424_xdc6,0,0,1,0,0.1,,3,,0.00,2,1,2023,2022-23,div2,Des Moines Area,desmoinesareacommunitycollege,jaqsontejadaezp5,Jaqson Tejada
+Apr 28,home,Genesee,W,6-5,6,5,1,win,20230428_y7wp,0,1,0,0,2.2,2,1,1,3.38,3,5,2023,2022-23,div2,Des Moines Area,desmoinesareacommunitycollege,jaqsontejadaezp5,Jaqson Tejada
+May 2,home,Finger Lakes,W,8-6,8,6,2,win,20230502_l82h,1,1,0,0,6.1,9,6,6,8.53,3,2,2023,2022-23,div2,Des Moines Area,desmoinesareacommunitycollege,jaqsontejadaezp5,Jaqson Tejada
+May 13,home,UConn Avery Point,L,11-7,11,7,4,win,20230513_blnq,0,0,0,0,3.1,1,2,2,5.40,7,,2023,2022-23,div2,Des Moines Area,desmoinesareacommunitycollege,jaqsontejadaezp5,Jaqson Tejada

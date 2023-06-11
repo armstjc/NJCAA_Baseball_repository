@@ -1,13 +1,40 @@
 date,location,opponent,result,score,team_score,opp_score,game_score_diff,game_win_loss,game_id,GS,W,L,SV,IP,H,R,ER,ERA,BB,K,HR,season,njcaa_season,njcaa_division,team,team_id,player_id,player_name
-Apr 29,home,North Central Texas,W,10-1,10,1,9,win,20230429_mhpj,0,0,0,0,2.0,1,1,,0.00,,4,,2023,2022-23,div1,Temple,templecollege,dashalbuse2r1,Dash Albus
-Apr 22,home,Vernon,L,8-5,8,5,3,win,20230422_1jef,0,0,0,0,1.0,1,,,0.00,,,,2023,2022-23,div1,Temple,templecollege,dashalbuse2r1,Dash Albus
-Apr 15,home,Weatherford,L,13-2,13,2,11,win,20230415_bijw,1,0,1,0,3.0,2,5,3,9.00,5,2,1,2023,2022-23,div1,Temple,templecollege,dashalbuse2r1,Dash Albus
-Apr 8,home,McLennan,L,9-1,9,1,8,win,20230408_ogd9,1,0,1,0,4.0,3,4,0,0.00,3,5,,2023,2022-23,div1,Temple,templecollege,dashalbuse2r1,Dash Albus
-Apr 1,home,Hill,L,14-3,14,3,11,win,20230401_b996,1,0,1,0,1.0,2,5,4,36.00,1,1,1,2023,2022-23,div1,Temple,templecollege,dashalbuse2r1,Dash Albus
-Mar 25,home,Ranger,W,5-4,5,4,1,win,20230325_c9ai,1,0,0,0,3.2,4,1,1,2.45,0,3,,2023,2022-23,div1,Temple,templecollege,dashalbuse2r1,Dash Albus
-Mar 11,home,Cisco,L,16-10,16,10,6,win,20230311_qm3n,1,0,1,0,2.1,5,6,6,23.14,0,3,2,2023,2022-23,div1,Temple,templecollege,dashalbuse2r1,Dash Albus
-Mar 8,home,Cisco,W,15-5,15,5,10,win,20230308_jr4z,0,0,0,0,0.0,2,2,2,INF,1,,,2023,2022-23,div1,Temple,templecollege,dashalbuse2r1,Dash Albus
-Feb 27,home,University of Mary Hardin Baylor JV,W,12-5,12,5,7,win,20230227_s2xd,1,1,0,0,4.0,3,0,0,0.00,2,1,,2023,2022-23,div1,Temple,templecollege,dashalbuse2r1,Dash Albus
-Feb 25,home,Navarro,L,5-2,5,2,3,win,20230225_93vk,0,0,0,0,1.0,1,,,0.00,,1,,2023,2022-23,div1,Temple,templecollege,dashalbuse2r1,Dash Albus
-Feb 20,home,San Jacinto,W,8-7,8,7,1,win,20230220_3yst,0,0,0,0,2.0,1,1,1,4.50,1,2,,2023,2022-23,div1,Temple,templecollege,dashalbuse2r1,Dash Albus
-Jan 27,home,Angelina,W,7-3,7,3,4,win,20230127_xedj,1,1,0,0,2.0,2,2,2,9.00,1,2,,2023,2022-23,div1,Temple,templecollege,dashalbuse2r1,Dash Albus
+May 13,home,Cisco,L,1-0,1,0,1,win,20230513_xobo,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div1,Temple,templecollege,dashalbuse2r1,Dash Albus
+May 12,home,Odessa,L,11-2,11,2,9,win,20230512_rhd2,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div1,Temple,templecollege,dashalbuse2r1,Dash Albus
+Apr 29,home,North Central Texas,W,10-1,10,1,9,win,20230429_mhpj,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div1,Temple,templecollege,dashalbuse2r1,Dash Albus
+Apr 29,home,North Central Texas,W,5-1,5,1,4,win,20230429_qpko,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div1,Temple,templecollege,dashalbuse2r1,Dash Albus
+Apr 27,home,North Central Texas,W,14-3,14,3,11,win,20230427_chub,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div1,Temple,templecollege,dashalbuse2r1,Dash Albus
+Apr 22,home,Vernon,L,8-5,8,5,3,win,20230422_1jef,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div1,Temple,templecollege,dashalbuse2r1,Dash Albus
+Apr 22,home,Vernon,W,2-0,2,0,2,win,20230422_rvcb,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div1,Temple,templecollege,dashalbuse2r1,Dash Albus
+Apr 19,home,Vernon,W,5-4,5,4,1,win,20230419_v8p6,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div1,Temple,templecollege,dashalbuse2r1,Dash Albus
+Apr 15,home,Weatherford,L,13-2,13,2,11,win,20230415_bijw,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div1,Temple,templecollege,dashalbuse2r1,Dash Albus
+Apr 15,home,Weatherford,L,7-2,7,2,5,win,20230415_1h5s,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div1,Temple,templecollege,dashalbuse2r1,Dash Albus
+Apr 12,home,Weatherford,L,10-0,10,0,10,win,20230412_dscx,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div1,Temple,templecollege,dashalbuse2r1,Dash Albus
+Apr 8,home,McLennan,W,3-0,3,0,3,win,20230408_mk0u,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div1,Temple,templecollege,dashalbuse2r1,Dash Albus
+Apr 5,home,McLennan,W,2-1,2,1,1,win,20230405_k68x,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div1,Temple,templecollege,dashalbuse2r1,Dash Albus
+Apr 5,home,McLennan,W,7-2,7,2,5,win,20230405_zqry,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div1,Temple,templecollege,dashalbuse2r1,Dash Albus
+Apr 1,home,Hill,W,15-1,15,1,14,win,20230401_ddjw,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div1,Temple,templecollege,dashalbuse2r1,Dash Albus
+Mar 29,home,Hill,W,3-2,3,2,1,win,20230329_pcc3,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div1,Temple,templecollege,dashalbuse2r1,Dash Albus
+Mar 25,home,Ranger,W,5-4,5,4,1,win,20230325_c9ai,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div1,Temple,templecollege,dashalbuse2r1,Dash Albus
+Mar 25,home,Ranger,W,13-6,13,6,7,win,20230325_r9so,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div1,Temple,templecollege,dashalbuse2r1,Dash Albus
+Mar 22,home,Ranger,W,3-2,3,2,1,win,20230322_re7e,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div1,Temple,templecollege,dashalbuse2r1,Dash Albus
+Mar 22,home,Ranger,L,2-0,2,0,2,win,20230322_jzhe,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div1,Temple,templecollege,dashalbuse2r1,Dash Albus
+Mar 18,home,Grayson,W,10-6,10,6,4,win,20230318_iop5,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div1,Temple,templecollege,dashalbuse2r1,Dash Albus
+Mar 18,home,Grayson,W,10-0,10,0,10,win,20230318_sppu,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div1,Temple,templecollege,dashalbuse2r1,Dash Albus
+Mar 15,home,Grayson,L,10-4,10,4,6,win,20230315_bl3z,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div1,Temple,templecollege,dashalbuse2r1,Dash Albus
+Mar 15,home,Grayson,L,11-2,11,2,9,win,20230315_d0jm,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div1,Temple,templecollege,dashalbuse2r1,Dash Albus
+Mar 11,home,Cisco,W,12-7,12,7,5,win,20230311_jzn8,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div1,Temple,templecollege,dashalbuse2r1,Dash Albus
+Mar 8,home,Cisco,W,15-5,15,5,10,win,20230308_jr4z,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div1,Temple,templecollege,dashalbuse2r1,Dash Albus
+Mar 1,home,Concordia University Texas JV,W,7-3,7,3,4,win,20230301_741i,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div1,Temple,templecollege,dashalbuse2r1,Dash Albus
+Mar 1,home,Concordia University Texas JV,W,6-4,6,4,2,win,20230301_5xgt,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div1,Temple,templecollege,dashalbuse2r1,Dash Albus
+Feb 27,home,University of Mary Hardin Baylor JV,W,12-5,12,5,7,win,20230227_s2xd,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div1,Temple,templecollege,dashalbuse2r1,Dash Albus
+Feb 25,home,Navarro,L,14-7,14,7,7,win,20230225_5ctx,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div1,Temple,templecollege,dashalbuse2r1,Dash Albus
+Feb 22,home,St. Edward's University JV,W,12-0,12,0,12,win,20230222_pfui,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div1,Temple,templecollege,dashalbuse2r1,Dash Albus
+Feb 22,home,St. Edward's University JV,W,6-1,6,1,5,win,20230222_e87r,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div1,Temple,templecollege,dashalbuse2r1,Dash Albus
+Feb 20,home,San Jacinto,W,8-7,8,7,1,win,20230220_3yst,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div1,Temple,templecollege,dashalbuse2r1,Dash Albus
+Feb 17,home,Hutchinson,W,7-2,7,2,5,win,20230217_coxs,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div1,Temple,templecollege,dashalbuse2r1,Dash Albus
+Feb 9,home,Angelina,L,9-8,9,8,1,win,20230209_17wu,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div1,Temple,templecollege,dashalbuse2r1,Dash Albus
+Feb 5,home,Galveston,W,3-2,3,2,1,win,20230205_ak5q,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div1,Temple,templecollege,dashalbuse2r1,Dash Albus
+Feb 5,home,Angelina,L,3-1,3,1,2,win,20230205_vkt6,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div1,Temple,templecollege,dashalbuse2r1,Dash Albus
+Jan 27,home,Angelina,W,7-3,7,3,4,win,20230127_xedj,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div1,Temple,templecollege,dashalbuse2r1,Dash Albus
+Jan 27,home,Angelina,W,8-0,8,0,8,win,20230127_2yoa,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div1,Temple,templecollege,dashalbuse2r1,Dash Albus

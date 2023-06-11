@@ -1,5 +1,41 @@
 date,location,opponent,result,score,team_score,opp_score,game_score_diff,game_win_loss,game_id,AB,R,H,2B,3B,HR,RBI,BB,K,SB,CS,HBP,SF,SH,TB,XBH,HDP,GO,FO,GO/FO,PA,season,njcaa_season,njcaa_division,team,team_id,player_id,player_name
-Jan 28,home,Dallas College - Brookhaven,W,13-8,13,8,5,win,20230128_n1nd,0,0,0,,,,0,,,,,,,,0,0,,,,,0,2023,2022-23,div1,Paris,parisjuniorcollege,danielcunninghampxq2,Daniel Cunningham
-Feb 3,home,East Texas Baptist,W,3-1,3,1,2,win,20230203_wezi,0,0,0,,,,0,,,,,,,,0,0,,,,,0,2023,2022-23,div1,Paris,parisjuniorcollege,danielcunninghampxq2,Daniel Cunningham
-Feb 4,home,East Texas Baptist,W,12-8,12,8,4,win,20230204_3d9x,0,0,0,,,,0,,,,,,,,0,0,,,,,0,2023,2022-23,div1,Paris,parisjuniorcollege,danielcunninghampxq2,Daniel Cunningham
-Feb 12,home,TCS,W,12-6,12,6,6,win,20230212_qy0f,0,0,0,,,,0,,,,,,,,0,0,,,,,0,2023,2022-23,div1,Paris,parisjuniorcollege,danielcunninghampxq2,Daniel Cunningham
+Jan 27,home,Dallas College - Brookhaven,W,14-9,14,9,5,win,20230127_f7y2,3,3,2,1,,,2,3,,2,,,,,3,1,,,,,6,2023,2022-23,div1,Paris,parisjuniorcollege,danielcunninghampxq2,Daniel Cunningham
+Jan 28,home,Dallas College - Brookhaven,W,13-8,13,8,5,win,20230128_n1nd,3,2,2,,,1,2,1,,,,,,1,5,1,,,,,5,2023,2022-23,div1,Paris,parisjuniorcollege,danielcunninghampxq2,Daniel Cunningham
+Jan 28,home,Dallas College - Brookhaven,W,19-1,19,1,18,win,20230128_yxwg,4,4,3,1,,2,5,1,,,,,,,10,3,,,,,5,2023,2022-23,div1,Paris,parisjuniorcollege,danielcunninghampxq2,Daniel Cunningham
+Feb 3,home,East Texas Baptist,W,3-1,3,1,2,win,20230203_wezi,3,0,0,,,,0,1,3,,,,,,0,0,,,,,4,2023,2022-23,div1,Paris,parisjuniorcollege,danielcunninghampxq2,Daniel Cunningham
+Feb 3,home,East Texas Baptist,W,4-2,4,2,2,win,20230203_yaef,5,0,0,,,,0,,2,,,,,,0,0,,,,,5,2023,2022-23,div1,Paris,parisjuniorcollege,danielcunninghampxq2,Daniel Cunningham
+Feb 4,home,East Texas Baptist,W,12-8,12,8,4,win,20230204_3d9x,1,1,1,,,,0,,,,,,,,1,0,,,,,1,2023,2022-23,div1,Paris,parisjuniorcollege,danielcunninghampxq2,Daniel Cunningham
+Feb 6,home,Arlington Baptist,W,16-0,16,0,16,win,20230206_tndl,5,2,1,1,,,0,1,1,,,,,,2,1,,,,,6,2023,2022-23,div1,Paris,parisjuniorcollege,danielcunninghampxq2,Daniel Cunningham
+Feb 9,home,Odessa,W,6-0,6,0,6,win,20230209_1rhi,3,1,2,,,,0,1,,,,,,,2,0,,,,,4,2023,2022-23,div1,Paris,parisjuniorcollege,danielcunninghampxq2,Daniel Cunningham
+Feb 10,home,Wharton County,W,7-6,7,6,1,win,20230210_4esq,4,1,1,1,,,1,,,,,,1,,2,1,,,,,5,2023,2022-23,div1,Paris,parisjuniorcollege,danielcunninghampxq2,Daniel Cunningham
+Feb 12,home,TCS,W,12-6,12,6,6,win,20230212_qy0f,2,0,0,,,,1,,1,1,,,,,0,0,,,,,2,2023,2022-23,div1,Paris,parisjuniorcollege,danielcunninghampxq2,Daniel Cunningham
+Feb 18,home,Angelina,W,5-2,5,2,3,win,20230218_z525,4,0,0,,,,0,,2,,,,,,0,0,,,,,4,2023,2022-23,div1,Paris,parisjuniorcollege,danielcunninghampxq2,Daniel Cunningham
+Feb 18,home,Angelina,W,9-0,9,0,9,win,20230218_kipa,3,2,2,,,,1,1,,,,,,,2,0,,,,,4,2023,2022-23,div1,Paris,parisjuniorcollege,danielcunninghampxq2,Daniel Cunningham
+Feb 23,home,Texas Post Grad,W,13-6,13,6,7,win,20230223_fay4,5,1,2,1,,,2,,,,,,,,3,1,,,,,5,2023,2022-23,div1,Paris,parisjuniorcollege,danielcunninghampxq2,Daniel Cunningham
+Feb 25,home,Northeast Texas,W,8-3,8,3,5,win,20230225_xmk0,5,0,2,1,,,1,,1,,,,,,3,1,,,,,5,2023,2022-23,div1,Paris,parisjuniorcollege,danielcunninghampxq2,Daniel Cunningham
+Feb 27,home,Dallas College - Eastfield,W,13-11,13,11,2,win,20230227_ehu8,1,0,1,,,,0,,,,,,,,1,0,,,,,1,2023,2022-23,div1,Paris,parisjuniorcollege,danielcunninghampxq2,Daniel Cunningham
+Mar 1,home,Navarro,W,10-8,10,8,2,win,20230301_7smq,2,0,0,,,,2,,1,,,,2,,0,0,,,,,4,2023,2022-23,div1,Paris,parisjuniorcollege,danielcunninghampxq2,Daniel Cunningham
+Mar 4,home,Bossier Parish,W,8-2,8,2,6,win,20230304_u8o8,4,1,2,,1,,3,,,,,,,,4,1,,,,,4,2023,2022-23,div1,Paris,parisjuniorcollege,danielcunninghampxq2,Daniel Cunningham
+Mar 11,home,Panola,W,6-5,6,5,1,win,20230311_6lot,5,0,0,,,,0,,2,,,,,,0,0,,,,,5,2023,2022-23,div1,Paris,parisjuniorcollege,danielcunninghampxq2,Daniel Cunningham
+Mar 15,home,Angelina,W,4-3,4,3,1,win,20230315_bufq,5,0,4,,,,1,,,2,,,,,4,0,,,,,5,2023,2022-23,div1,Paris,parisjuniorcollege,danielcunninghampxq2,Daniel Cunningham
+Mar 18,home,Joliet,W,10-3,10,3,7,win,20230318_76k7,4,1,1,1,,,2,,1,,,,,,2,1,,,,,4,2023,2022-23,div1,Paris,parisjuniorcollege,danielcunninghampxq2,Daniel Cunningham
+Mar 22,home,Northeast Texas,W,9-3,9,3,6,win,20230322_sniv,4,0,0,,,,1,,1,,,,,,0,0,,,,,4,2023,2022-23,div1,Paris,parisjuniorcollege,danielcunninghampxq2,Daniel Cunningham
+Mar 22,home,Northeast Texas,W,10-2,10,2,8,win,20230322_bukw,2,1,0,,,,1,1,,,,1,,,0,0,,,,,4,2023,2022-23,div1,Paris,parisjuniorcollege,danielcunninghampxq2,Daniel Cunningham
+Mar 25,home,Navarro,W,7-5,7,5,2,win,20230325_kmme,4,1,1,,,,2,1,1,,,,,,1,0,,,,,5,2023,2022-23,div1,Paris,parisjuniorcollege,danielcunninghampxq2,Daniel Cunningham
+Mar 27,home,TCS,W,3-1,3,1,2,win,20230327_oj4k,1,0,1,,,,2,1,,,,,2,,1,0,,,,,4,2023,2022-23,div1,Paris,parisjuniorcollege,danielcunninghampxq2,Daniel Cunningham
+Mar 29,home,Bossier Parish,W,12-8,12,8,4,win,20230329_xj5i,4,2,2,,,,2,1,1,,,,,,2,0,,,,,5,2023,2022-23,div1,Paris,parisjuniorcollege,danielcunninghampxq2,Daniel Cunningham
+Apr 1,home,Tyler,W,12-5,12,5,7,win,20230401_bb4o,3,2,1,1,,,4,1,,,,,,,2,1,,,,,4,2023,2022-23,div1,Paris,parisjuniorcollege,danielcunninghampxq2,Daniel Cunningham
+Apr 5,home,Panola,W,5-4,5,4,1,win,20230405_n99m,3,1,1,,,,0,,,1,,1,,,1,0,,,,,4,2023,2022-23,div1,Paris,parisjuniorcollege,danielcunninghampxq2,Daniel Cunningham
+Apr 5,home,Panola,W,10-5,10,5,5,win,20230405_nw32,4,3,3,,,1,1,1,,,,,,,6,1,,,,,5,2023,2022-23,div1,Paris,parisjuniorcollege,danielcunninghampxq2,Daniel Cunningham
+Apr 8,home,Angelina,W,4-1,4,1,3,win,20230408_fojc,2,1,1,,,,0,1,1,,,,,,1,0,,,,,3,2023,2022-23,div1,Paris,parisjuniorcollege,danielcunninghampxq2,Daniel Cunningham
+Apr 8,home,Angelina,W,6-1,6,1,5,win,20230408_k8yf,3,1,0,,,,0,2,1,,,,,,0,0,,,,,5,2023,2022-23,div1,Paris,parisjuniorcollege,danielcunninghampxq2,Daniel Cunningham
+Apr 10,home,Dallas Christian,W,7-1,7,1,6,win,20230410_a77f,3,2,1,1,,,0,1,,1,,,,,2,1,,,,,4,2023,2022-23,div1,Paris,parisjuniorcollege,danielcunninghampxq2,Daniel Cunningham
+Apr 10,home,Dallas Christian,W,11-1,11,1,10,win,20230410_s4u3,1,1,1,1,,,1,2,,3,,,,,2,1,,,,,3,2023,2022-23,div1,Paris,parisjuniorcollege,danielcunninghampxq2,Daniel Cunningham
+Apr 19,home,Navarro,W,5-4,5,4,1,win,20230419_87fl,4,0,1,1,,,2,,,,,,,1,2,1,,,,,5,2023,2022-23,div1,Paris,parisjuniorcollege,danielcunninghampxq2,Daniel Cunningham
+Apr 22,home,Bossier Parish,W,11-6,11,6,5,win,20230422_g0ro,1,3,1,,1,,0,3,,,,,,,3,1,,,,,4,2023,2022-23,div1,Paris,parisjuniorcollege,danielcunninghampxq2,Daniel Cunningham
+Apr 27,home,Tyler,W,5-2,5,2,3,win,20230427_ix5q,4,2,1,1,,,0,1,,,,,,,2,1,,,,,5,2023,2022-23,div1,Paris,parisjuniorcollege,danielcunninghampxq2,Daniel Cunningham
+Apr 29,home,Panola,W,8-2,8,2,6,win,20230429_sztk,3,0,2,,,,2,,1,,,,1,,2,0,,,,,4,2023,2022-23,div1,Paris,parisjuniorcollege,danielcunninghampxq2,Daniel Cunningham
+Apr 29,home,Panola,W,9-7,9,7,2,win,20230429_wsk1,4,1,2,1,,,1,1,1,1,,,,,3,1,,,,,5,2023,2022-23,div1,Paris,parisjuniorcollege,danielcunninghampxq2,Daniel Cunningham
+May 5,home,San Jacinto,W,11-3,11,3,8,win,20230505_fzao,6,0,2,,,,0,,4,,,,,,2,0,,,,,6,2023,2022-23,div1,Paris,parisjuniorcollege,danielcunninghampxq2,Daniel Cunningham
+May 6,home,Navarro,W,13-3,13,3,10,win,20230506_smkk,3,0,1,,,,2,,1,,,,,2,1,0,,,,,5,2023,2022-23,div1,Paris,parisjuniorcollege,danielcunninghampxq2,Daniel Cunningham
+May 7,home,San Jacinto,W,11-5,11,5,6,win,20230507_36ng,5,0,3,,,,3,,1,,,,,,3,0,,,,,5,2023,2022-23,div1,Paris,parisjuniorcollege,danielcunninghampxq2,Daniel Cunningham

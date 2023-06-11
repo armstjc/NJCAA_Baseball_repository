@@ -1,21 +1,48 @@
 date,location,opponent,result,score,team_score,opp_score,game_score_diff,game_win_loss,game_id,GS,W,L,SV,IP,H,R,ER,ERA,BB,K,HR,season,njcaa_season,njcaa_division,team,team_id,player_id,player_name
-Apr 29,home,Bossier Parish,W,12-8,12,8,4,win,20230429_t5ua,0,0,0,0,1.0,1,,,0.00,,,,2023,2022-23,div1,Northeast Texas,northeasttexascommunitycollege,georgeaustinvbqi,George Austin
-Apr 26,home,Angelina,L,7-6,7,6,1,win,20230426_mvc2,0,0,0,0,3.1,2,,,0.00,,1,,2023,2022-23,div1,Northeast Texas,northeasttexascommunitycollege,georgeaustinvbqi,George Austin
-Apr 19,home,Panola,L,7-0,7,0,7,win,20230419_vq66,0,0,0,0,2.0,,,,0.00,3,1,,2023,2022-23,div1,Northeast Texas,northeasttexascommunitycollege,georgeaustinvbqi,George Austin
-Apr 10,home,Weatherford,W,9-6,9,6,3,win,20230410_n5t0,0,0,0,0,1.0,2,3,3,27.00,2,2,1,2023,2022-23,div1,Northeast Texas,northeasttexascommunitycollege,georgeaustinvbqi,George Austin
-Apr 4,home,Bossier Parish,L,14-9,14,9,5,win,20230404_4qh5,0,0,0,0,0.0,4,4,4,INF,,,2,2023,2022-23,div1,Northeast Texas,northeasttexascommunitycollege,georgeaustinvbqi,George Austin
-Apr 1,home,Angelina,L,8-5,8,5,3,win,20230401_s6bb,0,0,1,0,1.1,3,3,3,20.25,1,1,,2023,2022-23,div1,Northeast Texas,northeasttexascommunitycollege,georgeaustinvbqi,George Austin
-Mar 29,home,Navarro,L,6-2,6,2,4,win,20230329_kx00,0,0,0,0,2.0,1,,,0.00,,3,,2023,2022-23,div1,Northeast Texas,northeasttexascommunitycollege,georgeaustinvbqi,George Austin
-Mar 25,home,Panola,L,15-0,15,0,15,win,20230325_3ok7,0,0,0,0,0.0,3,2,2,INF,2,,,2023,2022-23,div1,Northeast Texas,northeasttexascommunitycollege,georgeaustinvbqi,George Austin
-Mar 22,home,Paris,L,9-3,9,3,6,win,20230322_sniv,0,0,0,0,1.0,3,3,2,18.00,1,3,,2023,2022-23,div1,Northeast Texas,northeasttexascommunitycollege,georgeaustinvbqi,George Austin
-Mar 18,home,Tyler,L,11-1,11,1,10,win,20230318_oqbf,0,0,0,0,1.0,1,,,0.00,2,1,,2023,2022-23,div1,Northeast Texas,northeasttexascommunitycollege,georgeaustinvbqi,George Austin
-Mar 15,home,Dallas College - Richland,W,10-9,10,9,1,win,20230315_x79h,0,1,0,0,2.0,,,,0.00,,2,,2023,2022-23,div1,Northeast Texas,northeasttexascommunitycollege,georgeaustinvbqi,George Austin
-Mar 11,home,Bossier Parish,L,7-1,7,1,6,win,20230311_c4ud,0,0,0,0,1.0,,,,0.00,3,1,,2023,2022-23,div1,Northeast Texas,northeasttexascommunitycollege,georgeaustinvbqi,George Austin
-Mar 8,home,Angelina,L,8-1,8,1,7,win,20230308_hsbd,0,0,0,0,2.0,1,4,1,4.50,1,,,2023,2022-23,div1,Northeast Texas,northeasttexascommunitycollege,georgeaustinvbqi,George Austin
-Mar 5,home,Navarro,L,13-0,13,0,13,win,20230305_0wf0,0,0,0,0,3.0,5,4,1,3.00,1,2,,2023,2022-23,div1,Northeast Texas,northeasttexascommunitycollege,georgeaustinvbqi,George Austin
-Feb 27,home,Hill,W,11-6,11,6,5,win,20230227_729i,0,0,0,0,1.1,,,,0.00,,2,,2023,2022-23,div1,Northeast Texas,northeasttexascommunitycollege,georgeaustinvbqi,George Austin
-Feb 25,home,Paris,L,8-3,8,3,5,win,20230225_xmk0,0,0,0,0,1.0,1,,,0.00,1,,,2023,2022-23,div1,Northeast Texas,northeasttexascommunitycollege,georgeaustinvbqi,George Austin
-Feb 22,home,Tyler,W,9-2,9,2,7,win,20230222_o6hg,0,0,0,0,2.0,1,,,0.00,2,2,,2023,2022-23,div1,Northeast Texas,northeasttexascommunitycollege,georgeaustinvbqi,George Austin
-Feb 18,home,Howard (TX),L,6-5,6,5,1,win,20230218_67nb,0,0,0,0,2.0,2,1,1,4.50,1,1,,2023,2022-23,div1,Northeast Texas,northeasttexascommunitycollege,georgeaustinvbqi,George Austin
-Feb 13,home,Eastern Oklahoma State,W,5-4,5,4,1,win,20230213_no8w,0,0,0,0,2.0,2,3,3,13.50,,1,1,2023,2022-23,div1,Northeast Texas,northeasttexascommunitycollege,georgeaustinvbqi,George Austin
-Feb 5,home,UA Rich Mountain,W,8-4,8,4,4,win,20230205_sytb,0,0,0,0,1.0,,,,0.00,,2,,2023,2022-23,div1,Northeast Texas,northeasttexascommunitycollege,georgeaustinvbqi,George Austin
+Apr 29,home,Bossier Parish,W,12-8,12,8,4,win,20230429_t5ua,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div1,Northeast Texas,northeasttexascommunitycollege,georgeaustinvbqi,George Austin
+Apr 29,home,Bossier Parish,L,6-5,6,5,1,win,20230429_xhnl,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div1,Northeast Texas,northeasttexascommunitycollege,georgeaustinvbqi,George Austin
+Apr 26,home,Angelina,L,6-2,6,2,4,win,20230426_nf00,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div1,Northeast Texas,northeasttexascommunitycollege,georgeaustinvbqi,George Austin
+Apr 26,home,Angelina,L,7-6,7,6,1,win,20230426_mvc2,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div1,Northeast Texas,northeasttexascommunitycollege,georgeaustinvbqi,George Austin
+Apr 19,home,Panola,W,9-0,9,0,9,win,20230419_x7k0,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div1,Northeast Texas,northeasttexascommunitycollege,georgeaustinvbqi,George Austin
+Apr 19,home,Panola,L,7-0,7,0,7,win,20230419_vq66,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div1,Northeast Texas,northeasttexascommunitycollege,georgeaustinvbqi,George Austin
+Apr 15,home,Paris,W,7-4,7,4,3,win,20230415_0b9x,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div1,Northeast Texas,northeasttexascommunitycollege,georgeaustinvbqi,George Austin
+Apr 15,home,Paris,W,16-6,16,6,10,win,20230415_hf65,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div1,Northeast Texas,northeasttexascommunitycollege,georgeaustinvbqi,George Austin
+Apr 12,home,Tyler,L,9-3,9,3,6,win,20230412_soq5,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div1,Northeast Texas,northeasttexascommunitycollege,georgeaustinvbqi,George Austin
+Apr 12,home,Tyler,L,5-3,5,3,2,win,20230412_5xfj,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div1,Northeast Texas,northeasttexascommunitycollege,georgeaustinvbqi,George Austin
+Apr 10,home,Weatherford,W,9-6,9,6,3,win,20230410_n5t0,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div1,Northeast Texas,northeasttexascommunitycollege,georgeaustinvbqi,George Austin
+Apr 4,home,Bossier Parish,L,15-1,15,1,14,win,20230404_973b,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div1,Northeast Texas,northeasttexascommunitycollege,georgeaustinvbqi,George Austin
+Apr 4,home,Bossier Parish,L,14-9,14,9,5,win,20230404_4qh5,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div1,Northeast Texas,northeasttexascommunitycollege,georgeaustinvbqi,George Austin
+Apr 1,home,Angelina,L,8-5,8,5,3,win,20230401_s6bb,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div1,Northeast Texas,northeasttexascommunitycollege,georgeaustinvbqi,George Austin
+Apr 1,home,Angelina,L,5-2,5,2,3,win,20230401_lh32,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div1,Northeast Texas,northeasttexascommunitycollege,georgeaustinvbqi,George Austin
+Mar 29,home,Navarro,L,6-2,6,2,4,win,20230329_kx00,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div1,Northeast Texas,northeasttexascommunitycollege,georgeaustinvbqi,George Austin
+Mar 29,home,Navarro,W,4-1,4,1,3,win,20230329_1cs5,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div1,Northeast Texas,northeasttexascommunitycollege,georgeaustinvbqi,George Austin
+Mar 27,home,Dallas College - Eastfield,W,16-11,16,11,5,win,20230327_pfm3,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div1,Northeast Texas,northeasttexascommunitycollege,georgeaustinvbqi,George Austin
+Mar 25,home,Panola,L,15-0,15,0,15,win,20230325_3ok7,0,0,0,0,0.2,5,6,1,13.50,,1,1,2023,2022-23,div1,Northeast Texas,northeasttexascommunitycollege,georgeaustinvbqi,George Austin
+Mar 22,home,Paris,L,9-3,9,3,6,win,20230322_sniv,0,0,0,0,1.0,1,1,1,9.00,,,,2023,2022-23,div1,Northeast Texas,northeasttexascommunitycollege,georgeaustinvbqi,George Austin
+Mar 20,home,Weatherford,L,18-9,18,9,9,win,20230320_ngd7,0,0,0,0,2.0,,1,,0.00,1,3,,2023,2022-23,div1,Northeast Texas,northeasttexascommunitycollege,georgeaustinvbqi,George Austin
+Mar 18,home,Tyler,L,11-1,11,1,10,win,20230318_oqbf,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div1,Northeast Texas,northeasttexascommunitycollege,georgeaustinvbqi,George Austin
+Mar 18,home,Tyler,W,8-3,8,3,5,win,20230318_4r10,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div1,Northeast Texas,northeasttexascommunitycollege,georgeaustinvbqi,George Austin
+Mar 15,home,Dallas College - Richland,W,10-9,10,9,1,win,20230315_x79h,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div1,Northeast Texas,northeasttexascommunitycollege,georgeaustinvbqi,George Austin
+Mar 13,home,Centenary,W,12-4,12,4,8,win,20230313_tg1a,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div1,Northeast Texas,northeasttexascommunitycollege,georgeaustinvbqi,George Austin
+Mar 11,home,Bossier Parish,L,8-0,8,0,8,win,20230311_xwql,0,0,0,0,2.2,3,2,2,6.75,,3,,2023,2022-23,div1,Northeast Texas,northeasttexascommunitycollege,georgeaustinvbqi,George Austin
+Mar 11,home,Bossier Parish,L,7-1,7,1,6,win,20230311_c4ud,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div1,Northeast Texas,northeasttexascommunitycollege,georgeaustinvbqi,George Austin
+Mar 8,home,Angelina,L,8-1,8,1,7,win,20230308_hsbd,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div1,Northeast Texas,northeasttexascommunitycollege,georgeaustinvbqi,George Austin
+Mar 8,home,Angelina,W,6-2,6,2,4,win,20230308_e3ta,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div1,Northeast Texas,northeasttexascommunitycollege,georgeaustinvbqi,George Austin
+Mar 5,home,Navarro,L,9-6,9,6,3,win,20230305_emki,0,0,0,0,1.2,2,1,1,5.40,1,,,2023,2022-23,div1,Northeast Texas,northeasttexascommunitycollege,georgeaustinvbqi,George Austin
+Mar 5,home,Navarro,L,13-0,13,0,13,win,20230305_0wf0,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div1,Northeast Texas,northeasttexascommunitycollege,georgeaustinvbqi,George Austin
+Mar 1,home,Panola,L,5-4,5,4,1,win,20230301_jldb,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div1,Northeast Texas,northeasttexascommunitycollege,georgeaustinvbqi,George Austin
+Feb 27,home,Hill,W,11-6,11,6,5,win,20230227_729i,1,1,0,0,3.0,3,1,1,3.00,1,1,,2023,2022-23,div1,Northeast Texas,northeasttexascommunitycollege,georgeaustinvbqi,George Austin
+Feb 25,home,Paris,L,8-3,8,3,5,win,20230225_xmk0,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div1,Northeast Texas,northeasttexascommunitycollege,georgeaustinvbqi,George Austin
+Feb 25,home,Paris,W,7-2,7,2,5,win,20230225_jydv,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div1,Northeast Texas,northeasttexascommunitycollege,georgeaustinvbqi,George Austin
+Feb 22,home,Tyler,W,9-2,9,2,7,win,20230222_o6hg,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div1,Northeast Texas,northeasttexascommunitycollege,georgeaustinvbqi,George Austin
+Feb 22,home,Tyler,L,3-2,3,2,1,win,20230222_6m4r,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div1,Northeast Texas,northeasttexascommunitycollege,georgeaustinvbqi,George Austin
+Feb 20,home,TCS,L,12-11,12,11,1,win,20230220_rp2x,1,0,0,0,2.0,2,0,0,0.00,0,3,,2023,2022-23,div1,Northeast Texas,northeasttexascommunitycollege,georgeaustinvbqi,George Austin
+Feb 19,home,Howard (TX),W,8-4,8,4,4,win,20230219_zlq4,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div1,Northeast Texas,northeasttexascommunitycollege,georgeaustinvbqi,George Austin
+Feb 18,home,Howard (TX),L,8-0,8,0,8,win,20230218_zks8,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div1,Northeast Texas,northeasttexascommunitycollege,georgeaustinvbqi,George Austin
+Feb 18,home,Howard (TX),L,6-5,6,5,1,win,20230218_67nb,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div1,Northeast Texas,northeasttexascommunitycollege,georgeaustinvbqi,George Austin
+Feb 15,home,Centenary JV,W,8-2,8,2,6,win,20230215_5iug,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div1,Northeast Texas,northeasttexascommunitycollege,georgeaustinvbqi,George Austin
+Feb 13,home,Eastern Oklahoma State,L,11-4,11,4,7,win,20230213_yxpp,0,0,0,0,1.0,2,1,1,9.00,,2,,2023,2022-23,div1,Northeast Texas,northeasttexascommunitycollege,georgeaustinvbqi,George Austin
+Feb 13,home,Eastern Oklahoma State,W,5-4,5,4,1,win,20230213_no8w,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div1,Northeast Texas,northeasttexascommunitycollege,georgeaustinvbqi,George Austin
+Feb 8,home,Centenary,W,17-7,17,7,10,win,20230208_ym3h,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div1,Northeast Texas,northeasttexascommunitycollege,georgeaustinvbqi,George Austin
+Feb 5,home,UA Rich Mountain,W,12-2,12,2,10,win,20230205_ws2a,0,0,0,0,1.0,2,,,0.00,,1,,2023,2022-23,div1,Northeast Texas,northeasttexascommunitycollege,georgeaustinvbqi,George Austin
+Feb 5,home,UA Rich Mountain,W,8-4,8,4,4,win,20230205_sytb,0,0,0,0,0.0,,,,0.00,,,,2023,2022-23,div1,Northeast Texas,northeasttexascommunitycollege,georgeaustinvbqi,George Austin
