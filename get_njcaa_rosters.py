@@ -1,96 +1,122 @@
-#from selenium import webdriver
+
 import time
+
 import pandas as pd
+import requests
 from bs4 import BeautifulSoup
 from tqdm import tqdm
-#from unidecode import unidecode
-import requests
+
 
 def getNjcaaRosters(season=0):
-	teams_df = pd.read_csv('njcaa_schools.csv')
-	if season !=0:
-		teams_df = teams_df[teams_df['season']==season]
-	school_name = teams_df['school_name'].tolist()
-	school_njcaa_season = teams_df['njcaa_season'].tolist()
-	school_njcaa_division = teams_df['division'].tolist()
-	school_team_id = teams_df['team_id'].tolist()
-	school_season = teams_df['season'].tolist()
-	# driver = webdriver.Chrome(
-	# 	executable_path=webdriverPath)
-	
-	roster_df = pd.DataFrame()
-	for i in tqdm(range(0,len(school_name))):
-		roster_df = pd.DataFrame()
-		## Declarations to prevent "local variable referenced before assignment" errors
-		player_num = None
-		player_name = None
-		player_position = None
-		player_year = None
-		player_url = None
-		player_id = None
+    teams_df = pd.read_csv("njcaa_schools.csv")
+    if season != 0:
+        teams_df = teams_df[teams_df["season"] == season]
+    school_name = teams_df["school_name"].tolist()
+    school_njcaa_season = teams_df["njcaa_season"].tolist()
+    school_njcaa_division = teams_df["division"].tolist()
+    school_team_id = teams_df["team_id"].tolist()
+    school_season = teams_df["season"].tolist()
+    # driver = webdriver.Chrome(
+    #     executable_path=webdriverPath)
 
-		## This data is in teams_df
-		team_name = school_name[i]
-		team_njcaa_season = school_njcaa_season[i]
-		team_njcaa_division = school_njcaa_division[i]
-		team_id = school_team_id[i]
-		team_season = school_season[i]
-		print(team_njcaa_season,team_njcaa_division,team_name)
-		url = f"https://www.njcaa.org/sports/bsb/{team_njcaa_season}/{team_njcaa_division}/teams/{team_id}?view=roster"
-		
-		headers = {"User-Agent":"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36"}
-		response = requests.get(url,headers=headers)
-		soup = BeautifulSoup(response.text, features='lxml')
-		try:
-			table = soup.find_all('table')[1]
-			#print(f"\n{table}")
+    roster_df = pd.DataFrame()
+    for i in tqdm(range(0, len(school_name))):
+        roster_df = pd.DataFrame()
+        # Declarations to prevent "local variable referenced before assignment" errors
+        player_num = None
+        player_name = None
+        player_position = None
+        player_year = None
+        player_url = None
+        player_id = None
 
-			# cols = []
-			# for j in table.tr.find_all('th'):
-			# 	cols.append(j.text.strip())
-			# 	#print(f"{j}\n")
-			# cols.append('PlayerURL')
-			# cols.append('PlayerID')
-			#print(cols)
-			count = 0
-			#try:
-			for k in table.find_all('tr'):
-				row = k.find_all('td')
-				if len(row) == 0:
-					pass
-				else:
-					player_num = row[0].text.strip()
-					player_name = row[1].text.strip()
-					player_position = row[2].text.strip()
-					player_year = row[3].text.strip()
-					player_url = "https://www.njcaa.org" + str(row[1].find("a").get("href")) #
-					try:
-						player_id = player_url.split('/')[9]
-					except:
-						player_id = player_url.split('/')[8]
-					roster_df = roster_df.append({'No.':player_num,'Name':player_name,'Position':player_position,'Year':player_year,'PlayerURL':player_url,'PlayerID':player_id},ignore_index=True)
+        # This data is in teams_df
+        team_name = school_name[i]
+        team_njcaa_season = school_njcaa_season[i]
+        team_njcaa_division = school_njcaa_division[i]
+        team_id = school_team_id[i]
+        team_season = school_season[i]
+        print(team_njcaa_season, team_njcaa_division, team_name)
+        url = f"https://www.njcaa.org/sports/bsb/{team_njcaa_season}/{team_njcaa_division}/teams/{team_id}?view=roster"
 
-				count += 1
+        headers = {
+            "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36"
+        }
+        response = requests.get(url, headers=headers)
+        soup = BeautifulSoup(response.text, features="lxml")
+        try:
+            table = soup.find_all("table")[1]
+            # print(f"\n{table}")
 
-			roster_df['team_name'] = team_name
-			roster_df['team_njcaa_season'] = team_njcaa_season
-			roster_df['team_njcaa_division'] = team_njcaa_division
-			roster_df['team_id'] = team_id
-			roster_df['team_season'] = team_season
-			roster_df.to_csv(f'rosters/{team_njcaa_division}/{team_njcaa_season}_{team_id}.csv',index=False)
-			print(roster_df)
-		except:
-			print(f"Could not find a roster for the {team_njcaa_season} {team_name} baseball team.")
-		
-		# try:
-		# 	df = pd.read_html(driver.page_source)[1]
-		# 	print(df)
-		# except:
-		# 	print(f"Could not find a roster for {njcaa_team_name}")
-		time.sleep(5)
+            # cols = []
+            # for j in table.tr.find_all('th'):
+            #     cols.append(j.text.strip())
+            #     #print(f"{j}\n")
+            # cols.append('PlayerURL')
+            # cols.append('PlayerID')
+            # print(cols)
+            count = 0
+            # try:
+            for k in table.find_all("tr"):
+                row = k.find_all("td")
+                if len(row) == 0:
+                    pass
+                else:
+                    player_num = row[0].text.strip()
+                    player_name = row[1].text.strip()
+                    player_position = row[2].text.strip()
+                    player_year = row[3].text.strip()
+                    player_url = "https://www.njcaa.org" + str(
+                        row[1].find("a").get("href")
+                    )  #
+                    try:
+                        player_id = player_url.split("/")[9]
+                    except:
+                        player_id = player_url.split("/")[8]
+                    temp_df = pd.DataFrame(
+                        {
+                            "No.": player_num,
+                            "Name": player_name,
+                            "Position": player_position,
+                            "Year": player_year,
+                            "PlayerURL": player_url,
+                            "PlayerID": player_id,
+                        },
+                        index=[0]
+                    )
+                    roster_df = pd.concat(
+                        [roster_df, temp_df], 
+                        ignore_index=True
+                    )
+
+                count += 1
+
+            roster_df["team_name"] = team_name
+            roster_df["team_njcaa_season"] = team_njcaa_season
+            roster_df["team_njcaa_division"] = team_njcaa_division
+            roster_df["team_id"] = team_id
+            roster_df["team_season"] = team_season
+            roster_df.to_csv(
+                f"rosters/{team_njcaa_division}/{team_njcaa_season}_{team_id}.csv",
+                index=False,
+            )
+            print(roster_df)
+        except Exception:
+            print(
+                f"Could not find a roster for the {team_njcaa_season} {team_name} baseball team."
+            )
+
+        # try:
+        #     df = pd.read_html(driver.page_source)[1]
+        #     print(df)
+        # except:
+        #     print(f"Could not find a roster for {njcaa_team_name}")
+        time.sleep(5)
+
 
 def main():
-	getNjcaaRosters(2023)
+    getNjcaaRosters(2024)
+
 
 if __name__ == "__main__":
-	main()
+    main()
