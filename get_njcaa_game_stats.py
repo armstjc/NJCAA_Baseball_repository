@@ -28,7 +28,7 @@ def getNjcaaGamelogs(teams_df: pd.DataFrame()):
     count = 0
     for i in tqdm(range(count, player_count)):
         count += 1
-        print(f"{count}/{player_count}")
+        #print(f"{count}/{player_count}")
         # Ensure that we have a brand new DataFame in each iteration.
         gamelog_batting_df = pd.DataFrame()
         gamelog_ex_batting_df = pd.DataFrame()
