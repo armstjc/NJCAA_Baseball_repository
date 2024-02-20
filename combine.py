@@ -19,8 +19,7 @@ def mergeFilesMultithreaded(filePath=""):
     pool = Pool(num_cpus - 1)
     main_df = pd.DataFrame()
 
-    l = filePath
-    file_list = glob.iglob(l + "/*csv")
+    file_list = glob.iglob(filePath + "/*csv")
     file_list = list(file_list)
     df_list = pool.map(reader, tqdm(file_list))
 
