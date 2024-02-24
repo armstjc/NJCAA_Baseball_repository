@@ -1,11 +1,11 @@
 season,njcaa_season,team,team_id,G,TC,PO,A,E,FPCT,DP,SBA,RCS,RCS_PCT,PB,CI
 2013,2012-13,ASA New York,asabrooklynavengers,1440,44.0,34.0,10.0,11.0,0.8,289.0,194.0,128.0,0.66,191.0,307.0
-2013,2012-13,Abraham Baldwin,abrahambaldwinagriculturalcollege,1200,40.0,14.0,27.0,6.0,0.872,399.0,290.0,220.0,0.759,210.0,294.0
+2013,2012-13,Abraham Baldwin,abrahambaldwinagriculturalcollege,642,40.0,14.0,27.0,6.0,0.872,399.0,290.0,220.0,0.759,0.0,210.0
 2013,2012-13,Alfred State College,alfredstatecollege,1029,48.0,14.0,21.0,1.0,0.972,397.0,303.0,211.0,0.696,186.0,197.0
 2013,2012-13,Allegany Maryland,alleganycollegeofmaryland,1316,48.0,22.0,25.0,3.0,0.94,362.0,269.0,166.0,0.617,205.0,262.0
 2013,2012-13,Allegheny County-Boyce,ccofalleghenycountyboyce,180,0.0,0.0,0.0,0.0,,0.0,0.0,0.0,,0.0,0.0
 2013,2012-13,Allegheny County-South,ccofalleghenycountysouth,629,24.0,9.0,12.0,1.0,0.955,177.0,136.0,102.0,0.75,49.0,71.0
-2013,2012-13,Allen County,allencountycommunitycollege,1536,7.0,8.0,27.0,0.0,1.0,291.0,253.0,223.0,0.881,185.0,180.0
+2013,2012-13,Allen County,allencountycommunitycollege,1064,7.0,8.0,27.0,0.0,1.0,291.0,253.0,223.0,0.881,233.95,158.0
 2013,2012-13,Alvin,alvincommunitycollege,1512,15.0,6.0,7.0,2.0,0.867,107.0,75.0,62.0,0.827,38.0,72.0
 2013,2012-13,Andrew,andrewcollege,1400,48.0,20.0,25.0,2.0,0.957,498.0,301.0,223.0,0.741,156.0,278.0
 2013,2012-13,Angelina,angelinacollege,1664,31.0,10.0,16.0,2.0,0.929,249.0,171.0,117.0,0.684,118.0,155.0
@@ -54,7 +54,7 @@ season,njcaa_season,team,team_id,G,TC,PO,A,E,FPCT,DP,SBA,RCS,RCS_PCT,PB,CI
 2013,2012-13,Cloud County,cloudcountycommunitycollege,1560,50.0,16.0,29.0,2.0,0.957,457.0,313.0,275.0,0.879,191.0,251.0
 2013,2012-13,Coastal Alabama - Bay Minette,faulknerstatecommunitycollege,2106,40.0,32.0,8.0,0.0,1.0,261.0,132.0,99.0,0.75,110.0,220.0
 2013,2012-13,Coastal Alabama - Brewton,jeffersondaviscommunitycollege,1316,40.0,19.0,25.0,2.0,0.957,401.0,240.0,180.0,0.75,112.0,255.0
-2013,2012-13,Coastal Alabama - Monroeville,alabamasoutherncommunitycollege,1404,50.0,9.0,14.0,1.0,0.958,360.0,251.0,179.0,0.713,200.0,288.0
+2013,2012-13,Coastal Alabama - Monroeville,alabamasoutherncommunitycollege,751,50.0,9.0,14.0,1.0,0.958,360.0,251.0,179.0,0.713,195.60999999999999,200.0
 2013,2012-13,Cochise,cochisecollege,1633,69.0,52.0,19.0,11.0,0.866,562.0,260.0,200.0,0.769,185.0,471.0
 2013,2012-13,Coffeyville,coffeyvillecommunitycollege,1972,18.0,29.0,20.0,4.0,0.925,469.0,281.0,221.0,0.786,179.0,288.0
 2013,2012-13,Colby,colbycommunitycollege,2135,29.0,40.0,20.0,11.0,0.845,479.0,275.0,218.0,0.793,155.0,342.0

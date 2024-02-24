@@ -648,6 +648,12 @@ def main():
     df = pd.read_csv("rosters/div1_rosters.csv")
     df = df[df["team_season"] == 2024]
     getNjcaaGamelogs(df)
+    df = pd.read_csv("rosters/div2_rosters.csv")
+    df = df[df["team_season"] == 2024]
+    getNjcaaGamelogs(df)
+    df = pd.read_csv("rosters/div3_rosters.csv")
+    df = df[df["team_season"] == 2024]
+    getNjcaaGamelogs(df)
 
 
 if __name__ == "__main__":

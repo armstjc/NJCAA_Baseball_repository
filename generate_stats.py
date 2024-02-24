@@ -8,21 +8,24 @@ import pandas as pd
 ##############################################################################
 
 
-def generate_leauge_batting_stats(save=False):
+def generate_leauge_batting_stats(save=False):    
     main_df = pd.DataFrame()
     s_df = pd.DataFrame()
+
     current_year = datetime.now().year
     print("Loading in NJCAA batting stats.")
     for season in range(2013, current_year + 1):
         print(f"\tLoading in {season} NJCAA batting stats.")
         s_df = pd.read_parquet(
-            "game_stats/player/batting_game_stats/" +
-            f"parquet/{season}_batting.parquet"
+            "game_stats/player/batting_game_stats/"
+            + f"parquet/{season}_batting.parquet"
         )
         main_df = pd.concat([main_df, s_df], ignore_index=True)
 
-    finished_df = pd.DataFrame(
-        main_df.groupby(["season", "njcaa_season", "njcaa_division"], as_index=False)[
+    finished_df = main_df.groupby(
+        ["season", "njcaa_season", "njcaa_division"], axis=0, as_index=False
+    )[
+        [
             "PA",
             "AB",
             "R",
@@ -43,8 +46,8 @@ def generate_leauge_batting_stats(save=False):
             "HDP",
             "GO",
             "FO",
-        ].sum()
-    )
+        ]
+    ].sum()
 
     print("Adding Stats...")
 
@@ -89,8 +92,7 @@ def generate_leauge_batting_stats(save=False):
 
     # Runs scored percentage
     finished_df["RS%"] = (finished_df["R"] - finished_df["HR"]) / (
-        finished_df["H"] + finished_df["HBP"] +
-        finished_df["BB"] - finished_df["HR"]
+        finished_df["H"] + finished_df["HBP"] + finished_df["BB"] - finished_df["HR"]
     )
     finished_df["RS%"] = finished_df["RS%"].round(3)
 
@@ -135,8 +137,9 @@ def generate_league_pitching_stats(save=False):
 
     main_df = pd.DataFrame()
     s_df = pd.DataFrame()
-    print("Loading in NJCAA batting stats.")
-    for season in range(2013, 2024):
+    current_year = datetime.now().year
+    print("Loading in NJCAA pitching stats.")
+    for season in range(2013, current_year + 1):
         print(f"\tLoading in {season} NJCAA pitching stats.")
 
         s_df = pd.read_parquet(
@@ -154,7 +157,7 @@ def generate_league_pitching_stats(save=False):
     main_df["IP"] = round(main_df["whole_innings"] + (main_df["part_innings"] / 3), 3)
     finished_df = pd.DataFrame(
         main_df.groupby(["season", "njcaa_season", "njcaa_division"], as_index=False)[
-            "IP", "H", "R", "ER", "BB", "K", "HR"
+            ["IP", "H", "R", "ER", "BB", "K", "HR"]
         ].sum()
     )
 
@@ -241,27 +244,29 @@ def generate_season_player_batting_stats(season: int, save=False):
                 ],
                 as_index=False,
             )[
-                "G",
-                "PA",
-                "AB",
-                "R",
-                "H",
-                "2B",
-                "3B",
-                "HR",
-                "RBI",
-                "SB",
-                "CS",
-                "BB",
-                "K",
-                "TB",
-                "HBP",
-                "SH",
-                "SF",
-                "XBH",
-                "HDP",
-                "GO",
-                "FO",
+                [
+                    "G",
+                    "PA",
+                    "AB",
+                    "R",
+                    "H",
+                    "2B",
+                    "3B",
+                    "HR",
+                    "RBI",
+                    "SB",
+                    "CS",
+                    "BB",
+                    "K",
+                    "TB",
+                    "HBP",
+                    "SH",
+                    "SF",
+                    "XBH",
+                    "HDP",
+                    "GO",
+                    "FO",
+                ]
             ].sum()
         )
 
@@ -388,7 +393,7 @@ def generate_season_player_pitching_stats(season: int, save=False):
                     "player_name",
                 ],
                 as_index=False,
-            )["GS", "W", "L", "SV", "IP", "H", "R", "ER", "BB", "K", "HR"].sum()
+            )[["GS", "W", "L", "SV", "IP", "H", "R", "ER", "BB", "K", "HR"]].sum()
         )
 
         # Win-loss percentage
@@ -472,7 +477,20 @@ def generate_season_player_fielding_stats(season: int, save=False):
             ["season", "njcaa_season", "team", "team_id", "player_id", "player_name"],
             as_index=False,
         )[
-            "G", "TC", "PO", "A", "E", "FPCT", "DP", "SBA", "RCS", "RCS_PCT", "PB", "CI"
+            [
+                "G",
+                "TC",
+                "PO",
+                "A",
+                "E",
+                "FPCT",
+                "DP",
+                "SBA",
+                "RCS",
+                "RCS_PCT",
+                "PB",
+                "CI",
+            ]
         ].sum()
     )
 
@@ -523,7 +541,7 @@ def generate_season_team_batting_stats(season: int, save=False):
         main_df = pd.DataFrame(
             main_df.groupby(
                 ["season", "njcaa_division", "team", "team_id"], as_index=False
-            )[
+            )[[
                 "G",
                 "PA",
                 "AB",
@@ -545,7 +563,7 @@ def generate_season_team_batting_stats(season: int, save=False):
                 "HDP",
                 "GO",
                 "FO",
-            ].sum()
+            ]].sum()
         )
 
         # Groundouts/Flyouts ratio
@@ -657,7 +675,7 @@ def generate_season_team_pitching_stats(season: int, save=False):
         main_df = pd.DataFrame(
             main_df.groupby(
                 ["season", "njcaa_season", "team", "team_id"], as_index=False
-            )["GS", "W", "L", "SV", "IP", "H", "R", "ER", "BB", "K", "HR"].sum()
+            )[["GS", "W", "L", "SV", "IP", "H", "R", "ER", "BB", "K", "HR"]].sum()
         )
 
         # Win-loss percentage
@@ -737,9 +755,9 @@ def generate_season_team_fielding_stats(season: int, save=False):
     )
     main_df["G"] = 1
     finished_df = pd.DataFrame(
-        main_df.groupby(["season", "njcaa_season", "team", "team_id"], as_index=False)[
+        main_df.groupby(["season", "njcaa_season", "team", "team_id"], as_index=False)[[
             "G", "TC", "PO", "A", "E", "FPCT", "DP", "SBA", "RCS", "RCS_PCT", "PB", "CI"
-        ].sum()
+        ]].sum()
     )
 
     # Fielding Percentage (Putouts + Assists) / (Putouts + Assists + Errors)
@@ -801,27 +819,29 @@ def generate_team_game_batting_stats(season: int, save=False):
                 ],
                 as_index=False,
             )[
-                "G",
-                "PA",
-                "AB",
-                "R",
-                "H",
-                "2B",
-                "3B",
-                "HR",
-                "RBI",
-                "SB",
-                "CS",
-                "BB",
-                "K",
-                "TB",
-                "HBP",
-                "SH",
-                "SF",
-                "XBH",
-                "HDP",
-                "GO",
-                "FO",
+                [
+                    "G",
+                    "PA",
+                    "AB",
+                    "R",
+                    "H",
+                    "2B",
+                    "3B",
+                    "HR",
+                    "RBI",
+                    "SB",
+                    "CS",
+                    "BB",
+                    "K",
+                    "TB",
+                    "HBP",
+                    "SH",
+                    "SF",
+                    "XBH",
+                    "HDP",
+                    "GO",
+                    "FO",
+                ]
             ].sum()
         )
 
@@ -946,7 +966,7 @@ def generate_team_game_pitching_stats(season: int, save=False):
                     "game_id",
                 ],
                 as_index=False,
-            )["GS", "W", "L", "SV", "IP", "H", "R", "ER", "BB", "K", "HR"].sum()
+            )[["GS", "W", "L", "SV", "IP", "H", "R", "ER", "BB", "K", "HR"]].sum()
         )
 
         # Win-loss percentage
@@ -1040,7 +1060,20 @@ def generate_team_game_fielding_stats(season: int, save=False):
             ],
             as_index=False,
         )[
-            "G", "TC", "PO", "A", "E", "FPCT", "DP", "SBA", "RCS", "RCS_PCT", "PB", "CI"
+            [
+                "G",
+                "TC",
+                "PO",
+                "A",
+                "E",
+                "FPCT",
+                "DP",
+                "SBA",
+                "RCS",
+                "RCS_PCT",
+                "PB",
+                "CI",
+            ]
         ].sum()
     )
 
@@ -1069,12 +1102,13 @@ def generate_team_game_fielding_stats(season: int, save=False):
 
 def generate_stats_main():
     print("starting up")
+    start_year = 2024
     current_year = int(datetime.now().year)
 
     generate_leauge_batting_stats(True)
     generate_league_pitching_stats(True)
 
-    for i in range(2013, current_year + 1):
+    for i in range(start_year, current_year + 1):
         generate_team_game_batting_stats(i, True)
         generate_team_game_pitching_stats(i, True)
         generate_team_game_fielding_stats(i, True)
