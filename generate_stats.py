@@ -8,7 +8,7 @@ import pandas as pd
 ##############################################################################
 
 
-def generate_leauge_batting_stats(save=False):    
+def generate_leauge_batting_stats(save=False):
     main_df = pd.DataFrame()
     s_df = pd.DataFrame()
 
@@ -541,29 +541,31 @@ def generate_season_team_batting_stats(season: int, save=False):
         main_df = pd.DataFrame(
             main_df.groupby(
                 ["season", "njcaa_division", "team", "team_id"], as_index=False
-            )[[
-                "G",
-                "PA",
-                "AB",
-                "R",
-                "H",
-                "2B",
-                "3B",
-                "HR",
-                "RBI",
-                "SB",
-                "CS",
-                "BB",
-                "K",
-                "TB",
-                "HBP",
-                "SH",
-                "SF",
-                "XBH",
-                "HDP",
-                "GO",
-                "FO",
-            ]].sum()
+            )[
+                [
+                    "G",
+                    "PA",
+                    "AB",
+                    "R",
+                    "H",
+                    "2B",
+                    "3B",
+                    "HR",
+                    "RBI",
+                    "SB",
+                    "CS",
+                    "BB",
+                    "K",
+                    "TB",
+                    "HBP",
+                    "SH",
+                    "SF",
+                    "XBH",
+                    "HDP",
+                    "GO",
+                    "FO",
+                ]
+            ].sum()
         )
 
         # Groundouts/Flyouts ratio
@@ -755,9 +757,22 @@ def generate_season_team_fielding_stats(season: int, save=False):
     )
     main_df["G"] = 1
     finished_df = pd.DataFrame(
-        main_df.groupby(["season", "njcaa_season", "team", "team_id"], as_index=False)[[
-            "G", "TC", "PO", "A", "E", "FPCT", "DP", "SBA", "RCS", "RCS_PCT", "PB", "CI"
-        ]].sum()
+        main_df.groupby(["season", "njcaa_season", "team", "team_id"], as_index=False)[
+            [
+                "G",
+                "TC",
+                "PO",
+                "A",
+                "E",
+                "FPCT",
+                "DP",
+                "SBA",
+                "RCS",
+                "RCS_PCT",
+                "PB",
+                "CI",
+            ]
+        ].sum()
     )
 
     # Fielding Percentage (Putouts + Assists) / (Putouts + Assists + Errors)
