@@ -1,329 +1,332 @@
 season,njcaa_season,team,team_id,G,TC,PO,A,E,FPCT,DP,SBA,RCS,RCS_PCT,PB,CI
 2024,2023-24,ASU Mountain Home,arkansasstateuniversitymountainhome,190,0.0,10.0,0.0,6.0,0.625,93.0,71.0,48.0,0.676,92.59,62.0
-2024,2023-24,Abraham Baldwin,abrahambaldwinagriculturalcollege,182,21.0,7.0,15.0,1.0,0.957,148.0,127.0,110.0,0.866,109.35,101.0
-2024,2023-24,Allegany Maryland,alleganycollegeofmaryland,87,6.0,5.0,0.0,1.0,0.833,39.0,28.0,28.0,1.0,44.64,43.0
-2024,2023-24,Allen County,allencountycommunitycollege,268,0.0,12.0,6.0,2.0,0.9,118.0,94.0,80.0,0.851,145.28,75.0
+2024,2023-24,Abraham Baldwin,abrahambaldwinagriculturalcollege,182,12.0,5.0,7.0,1.0,0.923,100.0,89.0,79.0,0.888,89.06,73.0
+2024,2023-24,Allegany Maryland,alleganycollegeofmaryland,88,6.0,5.0,0.0,1.0,0.833,39.0,28.0,28.0,1.0,44.64,43.0
+2024,2023-24,Allen County,allencountycommunitycollege,260,0.0,11.0,8.0,1.0,0.95,123.0,108.0,91.0,0.843,160.78,84.0
 2024,2023-24,Alvin,alvincommunitycollege,204,17.0,11.0,6.0,3.0,0.85,127.0,111.0,78.0,0.703,89.29,84.0
-2024,2023-24,Amarillo College,amarillocollege,156,15.0,10.0,5.0,1.0,0.938,84.0,75.0,38.0,0.507,68.91,64.0
-2024,2023-24,Andrew,andrewcollege,218,17.0,9.0,7.0,0.0,1.0,133.0,121.0,85.0,0.702,128.51,47.0
-2024,2023-24,Angelina,angelinacollege,191,0.0,6.0,9.0,1.0,0.938,117.0,99.0,71.0,0.717,103.39,76.0
-2024,2023-24,Anne Arundel,annearundelcommunitycollege,168,13.0,5.0,8.0,2.0,0.867,84.0,99.0,68.0,0.687,114.23,88.0
-2024,2023-24,Arizona Western,arizonawesterncollege,264,18.0,14.0,4.0,3.0,0.857,178.0,108.0,95.0,0.88,131.88,74.0
-2024,2023-24,Arkansas State Mid-South,arkansasstatemidsouth,126,3.0,3.0,6.0,0.0,1.0,72.0,89.0,58.0,0.652,121.49,74.0
-2024,2023-24,Arkansas State University - Three Rivers,arkansasstateuniversitythreerivers,186,10.0,0.0,9.0,0.0,1.0,108.0,106.0,86.0,0.811,117.29,50.0
-2024,2023-24,Barton,bartoncommunitycollege,166,12.0,9.0,4.0,3.0,0.812,92.0,65.0,42.0,0.646,92.5,55.0
-2024,2023-24,Baton Rouge,batonrougecommunitycollege,323,19.0,1.0,18.0,0.0,1.0,209.0,198.0,163.0,0.823,224.88,105.0
-2024,2023-24,Bergen,bergencommunitycollege,30,2.0,2.0,0.0,0.0,1.0,13.0,12.0,12.0,1.0,24.1,8.0
+2024,2023-24,Amarillo College,amarillocollege,156,12.0,9.0,3.0,1.0,0.923,84.0,69.0,38.0,0.551,70.06,60.0
+2024,2023-24,Andrew,andrewcollege,246,19.0,10.0,9.0,1.0,0.95,168.0,157.0,116.0,0.739,183.17,62.0
+2024,2023-24,Angelina,angelinacollege,214,0.0,7.0,10.0,1.0,0.944,132.0,113.0,82.0,0.726,111.84,83.0
+2024,2023-24,Anne Arundel,annearundelcommunitycollege,165,13.0,5.0,8.0,2.0,0.867,86.0,102.0,69.0,0.676,118.23,90.0
+2024,2023-24,Arizona Western,arizonawesterncollege,274,21.0,16.0,5.0,3.0,0.875,201.0,128.0,113.0,0.883,155.43,93.0
+2024,2023-24,Arkansas State Mid-South,arkansasstatemidsouth,130,2.0,5.0,4.0,0.0,1.0,78.0,85.0,54.0,0.635,120.63,64.0
+2024,2023-24,Arkansas State University - Three Rivers,arkansasstateuniversitythreerivers,186,14.0,1.0,13.0,0.0,1.0,136.0,133.0,104.0,0.782,130.76,69.0
+2024,2023-24,Barton,bartoncommunitycollege,166,12.0,9.0,4.0,3.0,0.812,92.0,64.0,49.0,0.766,92.5,55.0
+2024,2023-24,Baton Rouge,batonrougecommunitycollege,308,19.0,1.0,18.0,0.0,1.0,212.0,201.0,166.0,0.826,226.98,105.0
+2024,2023-24,Bergen,bergencommunitycollege,30,2.0,2.0,0.0,0.0,1.0,13.0,12.0,11.0,0.917,24.1,8.0
 2024,2023-24,Bevill State,bevillstatecommunitycollege,200,9.0,4.0,9.0,0.0,1.0,111.0,90.0,62.0,0.689,98.75,72.0
-2024,2023-24,Bishop State,bishopstatecommunitycollege,210,14.0,9.0,5.0,2.0,0.875,94.0,70.0,52.0,0.743,76.94,43.0
+2024,2023-24,Bishop State,bishopstatecommunitycollege,234,16.0,10.0,6.0,2.0,0.889,107.0,80.0,57.0,0.712,82.39,50.0
+2024,2023-24,Black Hawk,blackhawkcollegemoline,16,1.0,0.0,1.0,0.0,1.0,12.0,7.0,4.0,0.571,4.2,3.0
 2024,2023-24,Blinn,blinncollege,222,15.0,7.0,8.0,0.0,1.0,119.0,75.0,52.0,0.693,85.01,53.0
-2024,2023-24,Bossier Parish,bossierparishcommunitycollege,214,15.0,9.0,5.0,4.0,0.778,108.0,93.0,67.0,0.72,122.35,63.0
+2024,2023-24,Bossier Parish,bossierparishcommunitycollege,226,21.0,12.0,5.0,2.0,0.895,139.0,108.0,80.0,0.741,130.71,66.0
 2024,2023-24,Brookdale,brookdalecommunitycollege,24,2.0,2.0,0.0,1.0,0.667,11.0,6.0,3.0,0.5,7.8,8.0
-2024,2023-24,Brunswick,brunswickcommunitycollege,172,7.0,10.0,1.0,5.0,0.688,54.0,34.0,28.0,0.824,41.45,42.0
-2024,2023-24,Bryant & Stratton (VA),bryantstrattoncollegeva,195,17.0,6.0,5.0,2.0,0.846,145.0,123.0,91.0,0.74,139.77,70.0
-2024,2023-24,Bryant & Stratton College (WI),bryantstrattoncollegewi,24,0.0,0.0,1.0,0.0,1.0,7.0,5.0,1.0,0.2,3.41,2.0
-2024,2023-24,Butler,butlercommunitycollegeks,134,10.0,7.0,4.0,4.0,0.733,69.0,60.0,45.0,0.75,92.24,56.0
+2024,2023-24,Brunswick,brunswickcommunitycollege,193,8.0,11.0,1.0,5.0,0.706,60.0,35.0,29.0,0.829,47.2,44.0
+2024,2023-24,Bryant & Stratton (VA),bryantstrattoncollegeva,202,18.0,8.0,5.0,2.0,0.867,149.0,117.0,101.0,0.863,137.43,86.0
+2024,2023-24,Bryant & Stratton College (WI),bryantstrattoncollegewi,73,0.0,1.0,4.0,1.0,0.833,33.0,41.0,23.0,0.561,34.24,20.0
+2024,2023-24,Butler,butlercommunitycollegeks,150,10.0,7.0,3.0,2.0,0.833,68.0,59.0,44.0,0.746,90.64,55.0
 2024,2023-24,CC of Allegheny County,ccofalleghenycounty,22,2.0,1.0,1.0,0.0,1.0,24.0,10.0,9.0,0.9,7.43,3.0
-2024,2023-24,CCBC Catonsville,ccbccatonsville,70,4.0,0.0,4.0,0.0,1.0,29.0,27.0,23.0,0.852,33.56,25.0
-2024,2023-24,CCBC Dundalk,ccbcdundalk,69,5.0,0.0,4.0,0.0,1.0,73.0,72.0,59.0,0.819,44.95,30.0
-2024,2023-24,CCBC Essex,ccbcessex,18,1.0,0.0,1.0,0.0,1.0,10.0,4.0,4.0,1.0,4.83,3.0
+2024,2023-24,CCBC Catonsville,ccbccatonsville,67,5.0,0.0,5.0,0.0,1.0,33.0,33.0,29.0,0.879,34.63,26.0
+2024,2023-24,CCBC Dundalk,ccbcdundalk,73,5.0,0.0,3.0,0.0,1.0,73.0,80.0,61.0,0.762,47.56,31.0
+2024,2023-24,CCBC Essex,ccbcessex,58,3.0,0.0,1.0,0.0,1.0,32.0,24.0,22.0,0.917,34.28,15.0
 2024,2023-24,Caldwell Tech,caldwellcommunitycollegetechnicali,184,13.0,5.0,7.0,1.0,0.923,97.0,96.0,74.0,0.771,97.81,79.0
-2024,2023-24,Calhoun,calhouncommunitycollege,155,11.0,5.0,6.0,1.0,0.917,81.0,81.0,55.0,0.679,68.24,50.0
+2024,2023-24,Calhoun,calhouncommunitycollege,157,11.0,5.0,5.0,0.0,1.0,82.0,77.0,54.0,0.701,63.24,43.0
 2024,2023-24,Camden County,camdencountycollege,38,1.0,0.0,3.0,0.0,1.0,25.0,31.0,29.0,0.935,19.57,28.0
-2024,2023-24,Camp,campcommunitycollege,198,15.0,2.0,5.0,1.0,0.875,120.0,104.0,75.0,0.721,115.7,69.0
-2024,2023-24,Carl Albert State,carlalbertstatecollege,186,15.0,9.0,6.0,2.0,0.882,117.0,112.0,67.0,0.598,109.89,85.0
+2024,2023-24,Camp,campcommunitycollege,198,15.0,2.0,6.0,1.0,0.889,120.0,104.0,75.0,0.721,115.7,69.0
+2024,2023-24,Carl Albert State,carlalbertstatecollege,201,15.0,9.0,6.0,2.0,0.882,111.0,106.0,62.0,0.585,100.56,81.0
 2024,2023-24,Carl Sandburg,carlsandburgcollege,13,1.0,0.0,1.0,0.0,1.0,12.0,10.0,4.0,0.4,6.4,2.0
-2024,2023-24,Catawba Valley,catawbavalleycommunitycollege,251,15.0,5.0,8.0,5.0,0.722,137.0,149.0,115.0,0.772,171.29,81.0
-2024,2023-24,Cecil,cecilcollege,75,6.0,1.0,5.0,0.0,1.0,44.0,45.0,29.0,0.644,29.15,37.0
-2024,2023-24,Central Alabama,centralalabamacommunitycollege,214,18.0,6.0,9.0,1.0,0.938,167.0,135.0,98.0,0.726,162.0,74.0
-2024,2023-24,Central Arizona,centralarizonacollege,300,15.0,11.0,2.0,3.0,0.812,78.0,36.0,22.0,0.611,48.8,52.0
-2024,2023-24,Central Florida,collegeofcentralflorida,238,18.0,12.0,6.0,2.0,0.9,110.0,87.0,68.0,0.782,108.22,87.0
-2024,2023-24,Century,centurycollege,46,3.0,1.0,0.0,0.0,1.0,8.0,4.0,3.0,0.75,13.83,10.0
-2024,2023-24,Chandler-Gilbert,chandlergilbertcommunitycollege,269,14.0,14.0,4.0,1.0,0.947,136.0,102.0,72.0,0.706,96.23,47.0
-2024,2023-24,Chattahoochee Valley,chattahoocheevalleycommunitycollege,187,0.0,3.0,9.0,0.0,1.0,128.0,114.0,84.0,0.737,117.85,63.0
-2024,2023-24,Chattanooga State,chattanoogastatecommunitycollege,250,0.0,16.0,3.0,2.0,0.905,113.0,90.0,83.0,0.922,103.27,76.0
-2024,2023-24,Chesapeake,chesapeakecollege,79,5.0,3.0,3.0,0.0,1.0,42.0,42.0,26.0,0.619,70.0,42.0
-2024,2023-24,Chipola,chipolacollege,336,19.0,15.0,6.0,0.0,1.0,148.0,95.0,86.0,0.905,121.24,82.0
-2024,2023-24,Cisco,ciscocollege,242,16.0,14.0,3.0,3.0,0.85,111.0,75.0,67.0,0.893,119.88,70.0
-2024,2023-24,Clarendon,clarendoncollege,108,2.0,5.0,1.0,0.0,1.0,66.0,54.0,45.0,0.833,38.4,26.0
+2024,2023-24,Catawba Valley,catawbavalleycommunitycollege,270,17.0,6.0,11.0,4.0,0.81,163.0,169.0,134.0,0.793,233.86,93.0
+2024,2023-24,Cecil,cecilcollege,74,6.0,1.0,5.0,0.0,1.0,44.0,45.0,29.0,0.644,29.15,37.0
+2024,2023-24,Central Alabama,centralalabamacommunitycollege,248,19.0,4.0,10.0,2.0,0.875,166.0,136.0,101.0,0.743,156.21,80.0
+2024,2023-24,Central Arizona,centralarizonacollege,276,18.0,13.0,5.0,3.0,0.857,88.0,47.0,27.0,0.574,69.59,65.0
+2024,2023-24,Central Florida,collegeofcentralflorida,250,18.0,12.0,6.0,2.0,0.9,110.0,87.0,68.0,0.782,108.22,87.0
+2024,2023-24,Century,centurycollege,42,3.0,1.0,0.0,0.0,1.0,8.0,4.0,3.0,0.75,13.83,10.0
+2024,2023-24,Chandler-Gilbert,chandlergilbertcommunitycollege,257,17.0,12.0,5.0,1.0,0.944,131.0,89.0,60.0,0.674,87.39,72.0
+2024,2023-24,Chattahoochee Valley,chattahoocheevalleycommunitycollege,187,0.0,3.0,9.0,0.0,1.0,126.0,113.0,83.0,0.735,116.56,62.0
+2024,2023-24,Chattanooga State,chattanoogastatecommunitycollege,272,0.0,18.0,3.0,1.0,0.955,124.0,95.0,87.0,0.916,97.3,82.0
+2024,2023-24,Chesapeake,chesapeakecollege,90,6.0,2.0,4.0,0.0,1.0,45.0,49.0,30.0,0.612,72.17,50.0
+2024,2023-24,Chipola,chipolacollege,328,14.0,11.0,8.0,0.0,1.0,145.0,104.0,93.0,0.894,142.98,90.0
+2024,2023-24,Cisco,ciscocollege,255,16.0,14.0,3.0,3.0,0.85,115.0,77.0,69.0,0.896,130.88,72.0
+2024,2023-24,Clarendon,clarendoncollege,110,4.0,7.0,1.0,0.0,1.0,84.0,74.0,61.0,0.824,50.7,47.0
 2024,2023-24,Clark State,clarkstatecollege,2,0.0,0.0,0.0,0.0,,3.0,4.0,3.0,0.75,5.55,5.0
-2024,2023-24,Cleveland,clevelandcommunitycollege,238,15.0,6.0,5.0,3.0,0.786,113.0,83.0,67.0,0.807,129.28,84.0
-2024,2023-24,Cleveland State,clevelandstatecommunitycollege,217,12.0,10.0,3.0,3.0,0.812,70.0,44.0,38.0,0.864,64.83,39.0
-2024,2023-24,Cloud County,cloudcountycommunitycollege,201,13.0,9.0,4.0,1.0,0.929,95.0,83.0,73.0,0.88,100.9,55.0
-2024,2023-24,Coahoma,coahomacommunitycollege,191,16.0,2.0,6.0,0.0,1.0,133.0,124.0,113.0,0.911,87.22,86.0
-2024,2023-24,Coastal Alabama - North,coastalalabamanorth,296,6.0,6.0,10.0,1.0,0.941,130.0,101.0,86.0,0.851,159.07,66.0
-2024,2023-24,Coastal Alabama - South,coastalalabamasouth,149,13.0,1.0,9.0,0.0,1.0,105.0,68.0,67.0,0.985,72.69,45.0
+2024,2023-24,Cleveland,clevelandcommunitycollege,254,16.0,8.0,5.0,3.0,0.812,116.0,85.0,72.0,0.847,134.28,92.0
+2024,2023-24,Cleveland State,clevelandstatecommunitycollege,201,17.0,12.0,5.0,3.0,0.85,103.0,66.0,52.0,0.788,75.57,50.0
+2024,2023-24,Cloud County,cloudcountycommunitycollege,192,13.0,9.0,4.0,1.0,0.929,98.0,79.0,70.0,0.886,111.73,53.0
+2024,2023-24,Coahoma,coahomacommunitycollege,181,15.0,4.0,6.0,0.0,1.0,134.0,129.0,110.0,0.853,91.02,81.0
+2024,2023-24,Coastal Alabama - North,coastalalabamanorth,306,6.0,6.0,10.0,1.0,0.941,130.0,101.0,86.0,0.851,159.07,66.0
+2024,2023-24,Coastal Alabama - South,coastalalabamasouth,168,12.0,2.0,10.0,0.0,1.0,106.0,83.0,78.0,0.94,98.2,61.0
 2024,2023-24,Coastal Bend,coastalbendcollege,294,1.0,12.0,7.0,0.0,1.0,123.0,103.0,80.0,0.777,129.1,100.0
 2024,2023-24,Cochise,cochisecollege,282,22.0,15.0,6.0,3.0,0.875,145.0,84.0,69.0,0.821,136.75,81.0
 2024,2023-24,Coffeyville,coffeyvillecommunitycollege,135,9.0,6.0,3.0,1.0,0.9,51.0,36.0,30.0,0.833,46.54,39.0
-2024,2023-24,Colby,colbycommunitycollege,101,6.0,1.0,7.0,0.0,1.0,61.0,74.0,54.0,0.73,56.879999999999995,46.0
-2024,2023-24,Colorado Northwestern,coloradonorthwesterncommunitycollege,270,3.0,3.0,14.0,1.0,0.944,174.0,169.0,119.0,0.704,148.99,100.0
-2024,2023-24,Columbia State,columbiastatecommunitycollege,130,8.0,4.0,5.0,1.0,0.9,71.0,61.0,54.0,0.885,68.24,55.0
+2024,2023-24,Colby,colbycommunitycollege,101,6.0,2.0,7.0,0.0,1.0,64.0,80.0,55.0,0.688,65.38,51.0
+2024,2023-24,Colorado Northwestern,coloradonorthwesterncommunitycollege,256,5.0,3.0,15.0,1.0,0.947,175.0,163.0,121.0,0.742,135.29,98.0
+2024,2023-24,Columbia State,columbiastatecommunitycollege,160,12.0,6.0,5.0,1.0,0.917,102.0,82.0,72.0,0.878,97.27,60.0
 2024,2023-24,Community Christian (CA),communitychristiancollege,87,2.0,2.0,0.0,0.0,1.0,34.0,28.0,22.0,0.786,13.21,11.0
-2024,2023-24,Connors State,connorsstatecollege,220,17.0,19.0,0.0,2.0,0.905,92.0,30.0,27.0,0.9,52.35,33.0
-2024,2023-24,Copiah-Lincoln,copiahlincolncommunitycollege,174,14.0,7.0,7.0,1.0,0.933,106.0,81.0,69.0,0.852,96.66,59.0
-2024,2023-24,Cowley,cowleycountycommunitycollege,162,10.0,4.0,5.0,4.0,0.692,95.0,74.0,68.0,0.919,94.95,48.0
-2024,2023-24,Crowder,crowdercollege,209,18.0,12.0,5.0,2.0,0.895,110.0,89.0,74.0,0.831,91.19,74.0
-2024,2023-24,Cuyahoga,cuyahogacommunitycollege,71,5.0,1.0,4.0,0.0,1.0,38.0,40.0,31.0,0.775,67.23,20.0
-2024,2023-24,Dakota County Tech,dakotacountytechnicalcollege,21,1.0,0.0,1.0,0.0,1.0,8.0,12.0,9.0,0.75,21.5,11.0
-2024,2023-24,Dakota-Bottineau,dakotacollegeatbottineau,49,0.0,0.0,4.0,0.0,1.0,30.0,47.0,36.0,0.766,33.83,26.0
+2024,2023-24,Connors State,connorsstatecollege,219,13.0,17.0,0.0,2.0,0.895,78.0,26.0,23.0,0.885,47.45,27.0
+2024,2023-24,Copiah-Lincoln,copiahlincolncommunitycollege,213,16.0,7.0,9.0,1.0,0.941,141.0,103.0,86.0,0.835,113.13,68.0
+2024,2023-24,Cowley,cowleycountycommunitycollege,164,10.0,4.0,6.0,4.0,0.714,102.0,76.0,70.0,0.921,101.45,48.0
+2024,2023-24,Crowder,crowdercollege,206,18.0,12.0,5.0,2.0,0.895,124.0,105.0,90.0,0.857,107.19,76.0
+2024,2023-24,Cuyahoga,cuyahogacommunitycollege,70,5.0,1.0,4.0,0.0,1.0,39.0,40.0,31.0,0.775,69.23,21.0
+2024,2023-24,Dakota County Tech,dakotacountytechnicalcollege,48,3.0,0.0,1.0,0.0,1.0,15.0,10.0,7.0,0.7,23.7,13.0
+2024,2023-24,Dakota-Bottineau,dakotacollegeatbottineau,51,0.0,0.0,3.0,0.0,1.0,24.0,38.0,28.0,0.737,27.33,22.0
 2024,2023-24,Dallas College - Brookhaven,dallascollegebrookhaven,258,16.0,9.0,6.0,1.0,0.938,106.0,99.0,76.0,0.768,136.3,103.0
-2024,2023-24,Dallas College - Cedar Valley,dallascollegecedarvalley,175,12.0,8.0,4.0,3.0,0.8,103.0,101.0,62.0,0.614,125.07,59.0
-2024,2023-24,Dallas College - Eastfield,dallascollegeeastfield,242,18.0,12.0,0.0,1.0,0.923,95.0,93.0,59.0,0.634,86.76,79.0
-2024,2023-24,Dallas College - Mountain View,dallascollegemountainview,155,1.0,4.0,2.0,0.0,1.0,91.0,85.0,73.0,0.859,105.47,55.0
-2024,2023-24,Dallas College - North Lake,dallascollegenorthlake,243,17.0,6.0,11.0,1.0,0.944,142.0,139.0,111.0,0.799,179.44,91.0
-2024,2023-24,Dallas College - Richland,dallascollegerichland,227,17.0,10.0,7.0,4.0,0.81,136.0,135.0,102.0,0.756,149.56,98.0
-2024,2023-24,Danville Area,danvilleareacommunitycollege,191,9.0,3.0,7.0,2.0,0.833,110.0,117.0,100.0,0.855,98.76,68.0
+2024,2023-24,Dallas College - Cedar Valley,dallascollegecedarvalley,199,14.0,8.0,6.0,3.0,0.824,122.0,115.0,73.0,0.635,138.65,69.0
+2024,2023-24,Dallas College - Eastfield,dallascollegeeastfield,255,19.0,13.0,0.0,1.0,0.929,98.0,94.0,60.0,0.638,94.43,85.0
+2024,2023-24,Dallas College - Mountain View,dallascollegemountainview,171,1.0,4.0,2.0,0.0,1.0,110.0,104.0,91.0,0.875,123.1,65.0
+2024,2023-24,Dallas College - North Lake,dallascollegenorthlake,258,18.0,7.0,11.0,1.0,0.947,150.0,146.0,118.0,0.808,183.12,94.0
+2024,2023-24,Dallas College - Richland,dallascollegerichland,248,18.0,11.0,7.0,4.0,0.818,145.0,155.0,114.0,0.735,163.89,108.0
+2024,2023-24,Danville Area,danvilleareacommunitycollege,166,16.0,3.0,10.0,2.0,0.867,133.0,143.0,120.0,0.839,123.55,82.0
 2024,2023-24,Dawson,dawsoncommunitycollege,59,0.0,0.0,4.0,0.0,1.0,42.0,67.0,53.0,0.791,67.32,38.0
 2024,2023-24,Daytona State,daytonastatecollege,288,18.0,10.0,8.0,3.0,0.857,184.0,114.0,106.0,0.93,212.75,61.0
 2024,2023-24,Delaware Tech,delawaretechnicalcommunitycollege,118,9.0,7.0,2.0,2.0,0.818,57.0,50.0,38.0,0.76,37.8,47.0
-2024,2023-24,Delgado,delgadocommunitycollege,131,10.0,8.0,3.0,0.0,1.0,76.0,56.0,42.0,0.75,52.15,30.0
-2024,2023-24,Des Moines Area,desmoinesareacommunitycollege,171,18.0,6.0,7.0,2.0,0.867,114.0,86.0,65.0,0.756,118.72,63.0
-2024,2023-24,Dodge City,dodgecitycommunitycollege,207,11.0,9.0,3.0,3.0,0.8,99.0,71.0,65.0,0.915,114.5,61.0
-2024,2023-24,Dyersburg State,dyersburgstatecommunitycollege,185,15.0,0.0,0.0,3.0,0.0,95.0,72.0,55.0,0.764,69.51,53.0
-2024,2023-24,East Central (MO),eastcentralcollege,195,14.0,12.0,2.0,2.0,0.875,125.0,86.0,67.0,0.779,106.26,46.0
-2024,2023-24,East Central (MS),eastcentralcommunitycollege,290,12.0,12.0,0.0,1.0,0.923,120.0,72.0,59.0,0.819,129.52,67.0
-2024,2023-24,East Georgia State,eastgeorgiacollege,293,8.0,8.0,2.0,0.0,1.0,132.0,95.0,75.0,0.789,115.36,94.0
-2024,2023-24,East Mississippi,eastmississippicommunitycollege,269,19.0,13.0,5.0,5.0,0.783,123.0,87.0,66.0,0.759,108.26,53.0
+2024,2023-24,Delgado,delgadocommunitycollege,137,8.0,7.0,1.0,0.0,1.0,48.0,37.0,31.0,0.838,37.85,18.0
+2024,2023-24,Des Moines Area,desmoinesareacommunitycollege,182,15.0,6.0,6.0,2.0,0.857,105.0,77.0,59.0,0.766,111.15,54.0
+2024,2023-24,Dodge City,dodgecitycommunitycollege,212,14.0,10.0,4.0,3.0,0.824,108.0,79.0,72.0,0.911,114.96,62.0
+2024,2023-24,Dyersburg State,dyersburgstatecommunitycollege,193,15.0,1.0,2.0,3.0,0.5,96.0,72.0,59.0,0.819,69.84,53.0
+2024,2023-24,East Central (MO),eastcentralcollege,191,14.0,11.0,2.0,2.0,0.867,116.0,82.0,64.0,0.78,102.88,44.0
+2024,2023-24,East Central (MS),eastcentralcommunitycollege,275,14.0,12.0,0.0,1.0,0.923,121.0,72.0,59.0,0.819,131.4,74.0
+2024,2023-24,East Georgia State,eastgeorgiacollege,279,6.0,8.0,2.0,0.0,1.0,131.0,84.0,68.0,0.81,109.45,92.0
+2024,2023-24,East Mississippi,eastmississippicommunitycollege,269,19.0,13.0,5.0,5.0,0.783,130.0,97.0,70.0,0.722,115.72,57.0
 2024,2023-24,Eastern Arizona,easternarizonacollege,144,0.0,6.0,6.0,1.0,0.923,75.0,65.0,46.0,0.708,79.11,58.0
-2024,2023-24,Eastern Florida State,easternfloridastatecollege,273,20.0,10.0,9.0,3.0,0.864,156.0,98.0,78.0,0.796,99.95,72.0
-2024,2023-24,Eastern Oklahoma State,easternoklahomastatecollege,263,16.0,4.0,12.0,4.0,0.8,160.0,150.0,113.0,0.753,149.21,109.0
-2024,2023-24,El Paso,elpasocommunitycollege,203,15.0,5.0,10.0,3.0,0.833,139.0,116.0,86.0,0.741,152.41,96.0
-2024,2023-24,Elgin,elgincommunitycollege,52,7.0,1.0,3.0,0.0,1.0,43.0,49.0,31.0,0.633,30.68,25.0
-2024,2023-24,Ellsworth,ellsworthcommunitycollege,171,12.0,4.0,6.0,4.0,0.714,75.0,58.0,39.0,0.672,83.05,35.0
-2024,2023-24,Enterprise State,enterprisestatecommunitycollege,153,0.0,4.0,9.0,0.0,1.0,96.0,99.0,81.0,0.818,109.85,55.0
-2024,2023-24,Fayetteville Tech,fayettevilletechnicalcommunitycollege,224,14.0,7.0,6.0,0.0,1.0,123.0,89.0,66.0,0.742,137.92,63.0
-2024,2023-24,Finger Lakes,fingerlakescommunitycollege,53,4.0,3.0,1.0,2.0,0.667,20.0,15.0,13.0,0.867,12.75,15.0
-2024,2023-24,Florence-Darlington Tech,florencedarlingtontechnicalcollege,255,18.0,13.0,5.0,4.0,0.818,121.0,92.0,60.0,0.652,123.68,82.0
-2024,2023-24,Florida SouthWestern State,floridasouthwesternstatecollege,270,19.0,14.0,6.0,4.0,0.833,148.0,102.0,84.0,0.824,115.15,87.0
-2024,2023-24,Florida State Jacksonville,floridastatecollegeatjacksonville,241,17.0,7.0,10.0,4.0,0.81,126.0,88.0,66.0,0.75,128.52,69.0
+2024,2023-24,Eastern Florida State,easternfloridastatecollege,270,23.0,7.0,11.0,4.0,0.818,161.0,103.0,82.0,0.796,106.53,73.0
+2024,2023-24,Eastern Oklahoma State,easternoklahomastatecollege,279,19.0,4.0,15.0,4.0,0.826,165.0,164.0,122.0,0.744,168.38,108.0
+2024,2023-24,El Paso,elpasocommunitycollege,213,20.0,3.0,9.0,3.0,0.8,135.0,118.0,89.0,0.754,146.25,110.0
+2024,2023-24,Elgin,elgincommunitycollege,54,4.0,1.0,3.0,0.0,1.0,31.0,37.0,31.0,0.838,27.67,24.0
+2024,2023-24,Ellsworth,ellsworthcommunitycollege,165,11.0,4.0,6.0,4.0,0.714,72.0,54.0,37.0,0.685,80.73,33.0
+2024,2023-24,Enterprise State,enterprisestatecommunitycollege,153,0.0,4.0,7.0,0.0,1.0,86.0,85.0,68.0,0.8,100.15,51.0
+2024,2023-24,Fayetteville Tech,fayettevilletechnicalcommunitycollege,244,15.0,7.0,6.0,0.0,1.0,128.0,93.0,70.0,0.753,160.52,69.0
+2024,2023-24,Finger Lakes,fingerlakescommunitycollege,57,4.0,3.0,1.0,2.0,0.667,20.0,15.0,13.0,0.867,12.75,15.0
+2024,2023-24,Florence-Darlington Tech,florencedarlingtontechnicalcollege,273,17.0,11.0,4.0,4.0,0.789,122.0,93.0,58.0,0.624,136.59,81.0
+2024,2023-24,Florida SouthWestern State,floridasouthwesternstatecollege,266,19.0,14.0,6.0,4.0,0.833,148.0,102.0,84.0,0.824,115.15,87.0
+2024,2023-24,Florida State Jacksonville,floridastatecollegeatjacksonville,255,18.0,7.0,11.0,4.0,0.818,140.0,98.0,74.0,0.755,148.11,73.0
 2024,2023-24,Fort Scott,fortscottcommunitycollege,166,12.0,11.0,2.0,4.0,0.765,85.0,57.0,50.0,0.877,79.51,50.0
 2024,2023-24,Frank Phillips,frankphillipscollege,165,4.0,4.0,13.0,1.0,0.944,179.0,145.0,131.0,0.903,146.95,61.0
-2024,2023-24,Frederick,frederickcommunitycollege,47,3.0,3.0,1.0,1.0,0.8,11.0,12.0,12.0,1.0,8.18,11.0
+2024,2023-24,Frederick,frederickcommunitycollege,85,4.0,4.0,1.0,1.0,0.833,26.0,23.0,19.0,0.826,18.57,14.0
 2024,2023-24,Frontier,frontiercommunitycollege,193,14.0,10.0,4.0,3.0,0.824,95.0,77.0,59.0,0.766,77.92,77.0
-2024,2023-24,Galveston,galvestoncollege,276,18.0,13.0,8.0,2.0,0.913,111.0,70.0,48.0,0.686,93.32,76.0
-2024,2023-24,Garden City,gardencitycommunitycollege,210,11.0,2.0,10.0,0.0,1.0,140.0,142.0,129.0,0.908,157.72,82.0
-2024,2023-24,Gaston College,gastoncollege,230,17.0,15.0,2.0,3.0,0.85,90.0,43.0,38.0,0.884,82.66,43.0
-2024,2023-24,GateWay (AZ),gatewaycommunitycollegeaz,247,18.0,5.0,13.0,2.0,0.9,139.0,130.0,103.0,0.792,133.52,110.0
+2024,2023-24,Galveston,galvestoncollege,273,18.0,9.0,6.0,3.0,0.833,115.0,69.0,50.0,0.725,99.82,82.0
+2024,2023-24,Garden City,gardencitycommunitycollege,202,11.0,2.0,8.0,0.0,1.0,126.0,127.0,116.0,0.913,146.39,75.0
+2024,2023-24,Gaston College,gastoncollege,231,18.0,16.0,2.0,3.0,0.857,100.0,49.0,44.0,0.898,91.66,48.0
+2024,2023-24,GateWay (AZ),gatewaycommunitycollegeaz,255,18.0,5.0,13.0,3.0,0.857,145.0,128.0,106.0,0.828,141.52,110.0
 2024,2023-24,Georgia Highlands,georgiahighlandscollege,248,21.0,17.0,2.0,5.0,0.792,130.0,58.0,50.0,0.862,84.71,58.0
-2024,2023-24,Glen Oaks,glenoakscommunitycollege,143,7.0,1.0,8.0,0.0,1.0,128.0,163.0,127.0,0.779,111.38,114.0
-2024,2023-24,Glendale,glendalecommunitycollege,354,22.0,20.0,2.0,8.0,0.733,172.0,78.0,62.0,0.795,136.3,83.0
-2024,2023-24,Gordon State,gordonstatecollege,265,20.0,11.0,9.0,4.0,0.833,135.0,98.0,73.0,0.745,112.24,79.0
-2024,2023-24,Grand Rapids,grandrapidscommunitycollege,42,3.0,0.0,3.0,0.0,1.0,37.0,34.0,26.0,0.765,24.75,14.0
+2024,2023-24,Glen Oaks,glenoakscommunitycollege,140,5.0,1.0,6.0,0.0,1.0,104.0,127.0,103.0,0.811,98.1,82.0
+2024,2023-24,Glendale,glendalecommunitycollege,333,22.0,22.0,2.0,8.0,0.75,184.0,88.0,68.0,0.773,154.3,93.0
+2024,2023-24,Gordon State,gordonstatecollege,293,18.0,10.0,7.0,4.0,0.81,112.0,84.0,62.0,0.738,95.21,72.0
+2024,2023-24,Grand Rapids,grandrapidscommunitycollege,68,5.0,1.0,4.0,0.0,1.0,64.0,59.0,49.0,0.831,35.41,20.0
 2024,2023-24,Grayson,graysoncollege,154,13.0,5.0,9.0,2.0,0.875,93.0,82.0,47.0,0.573,85.6,76.0
-2024,2023-24,Guilford Tech,guilfordtechnicalcommunitycollege,253,9.0,2.0,10.0,0.0,1.0,137.0,150.0,119.0,0.793,203.04,94.0
-2024,2023-24,Gulf Coast State,gulfcoaststatecollege,228,19.0,18.0,1.0,4.0,0.826,104.0,67.0,44.0,0.657,77.33,68.0
-2024,2023-24,Hagerstown,hagerstowncommunitycollege,31,2.0,0.0,2.0,0.0,1.0,18.0,16.0,15.0,0.938,18.16,15.0
-2024,2023-24,Harford,harfordcommunitycollege,98,6.0,2.0,5.0,1.0,0.875,56.0,53.0,44.0,0.83,86.86,42.0
+2024,2023-24,Guilford Tech,guilfordtechnicalcommunitycollege,240,16.0,2.0,14.0,0.0,1.0,156.0,173.0,143.0,0.827,216.07,116.0
+2024,2023-24,Gulf Coast State,gulfcoaststatecollege,230,19.0,18.0,1.0,5.0,0.792,110.0,70.0,47.0,0.671,79.62,72.0
+2024,2023-24,Hagerstown,hagerstowncommunitycollege,32,2.0,0.0,2.0,0.0,1.0,18.0,16.0,15.0,0.938,18.16,15.0
+2024,2023-24,Harford,harfordcommunitycollege,127,8.0,4.0,5.0,1.0,0.9,65.0,59.0,44.0,0.746,74.64,45.0
 2024,2023-24,Harper,harpercollege,52,0.0,0.0,3.0,0.0,1.0,24.0,25.0,22.0,0.88,31.92,16.0
-2024,2023-24,Heartland,heartlandcommunitycollege,84,6.0,4.0,2.0,2.0,0.75,33.0,21.0,17.0,0.81,16.97,14.0
-2024,2023-24,Hesston,hesstoncollege,163,0.0,1.0,9.0,0.0,1.0,120.0,146.0,100.0,0.685,109.95,52.0
-2024,2023-24,Highland (IL),highlandcommunitycollegeillinois,29,0.0,0.0,0.0,0.0,,3.0,4.0,4.0,1.0,11.0,7.0
-2024,2023-24,Highland (KS),highlandcommunitycollegekansas,226,15.0,9.0,4.0,3.0,0.812,88.0,81.0,66.0,0.815,134.35,84.0
-2024,2023-24,Hill,hillcollege,211,0.0,9.0,6.0,2.0,0.882,110.0,89.0,53.0,0.596,104.69,69.0
-2024,2023-24,Hillsborough,hillsboroughcommunitycollege,263,1.0,14.0,5.0,9.0,0.679,165.0,105.0,80.0,0.762,136.97,80.0
-2024,2023-24,Hinds,hindscommunitycollege,213,12.0,9.0,8.0,2.0,0.895,116.0,99.0,73.0,0.737,89.16,122.0
-2024,2023-24,Hocking,hocking,96,0.0,0.0,0.0,0.0,,0.0,0.0,0.0,,0.0,0.0
-2024,2023-24,Holmes,holmescommunitycollege,136,11.0,5.0,6.0,0.0,1.0,74.0,60.0,47.0,0.783,39.05,44.0
+2024,2023-24,Heartland,heartlandcommunitycollege,82,6.0,4.0,2.0,2.0,0.75,31.0,21.0,17.0,0.81,16.3,14.0
+2024,2023-24,Hesston,hesstoncollege,192,0.0,2.0,10.0,1.0,0.923,127.0,153.0,102.0,0.667,119.1,55.0
+2024,2023-24,Highland (IL),highlandcommunitycollegeillinois,45,3.0,1.0,2.0,0.0,1.0,31.0,34.0,29.0,0.853,41.32,16.0
+2024,2023-24,Highland (KS),highlandcommunitycollegekansas,219,15.0,9.0,4.0,3.0,0.812,88.0,81.0,66.0,0.815,134.35,84.0
+2024,2023-24,Hill,hillcollege,215,0.0,9.0,6.0,2.0,0.882,110.0,89.0,53.0,0.596,104.69,69.0
+2024,2023-24,Hillsborough,hillsboroughcommunitycollege,300,0.0,13.0,6.0,8.0,0.704,169.0,111.0,88.0,0.793,145.26,77.0
+2024,2023-24,Hinds,hindscommunitycollege,238,8.0,12.0,5.0,2.0,0.895,120.0,89.0,62.0,0.697,95.99,115.0
+2024,2023-24,Hocking,hocking,102,0.0,0.0,0.0,0.0,,0.0,0.0,0.0,,0.0,0.0
+2024,2023-24,Holmes,holmescommunitycollege,157,13.0,7.0,6.0,0.0,1.0,88.0,72.0,53.0,0.736,46.53,51.0
 2024,2023-24,Howard (TX),howardcollege,176,5.0,10.0,4.0,2.0,0.875,70.0,74.0,61.0,0.824,48.54,72.0
 2024,2023-24,Hudson Valley,hudsonvalleycommunitycollege,27,2.0,1.0,1.0,1.0,0.667,20.0,9.0,6.0,0.667,24.77,7.0
-2024,2023-24,Hutchinson,hutchinsoncommunitycollege,168,11.0,8.0,3.0,2.0,0.846,72.0,45.0,44.0,0.978,58.71,35.0
-2024,2023-24,Illinois Central,illinoiscentralcollege,125,10.0,4.0,6.0,3.0,0.769,85.0,87.0,74.0,0.851,84.63,65.0
-2024,2023-24,Illinois Valley,illinoisvalleycommunitycollege,22,0.0,0.0,0.0,0.0,,17.0,9.0,8.0,0.889,13.94,9.0
-2024,2023-24,Indian Hills,indianhillscommunitycollege,104,12.0,12.0,0.0,2.0,0.857,49.0,29.0,28.0,0.966,34.74,29.0
-2024,2023-24,Indian River State,indianriverstatecollege,235,15.0,11.0,4.0,1.0,0.938,134.0,79.0,47.0,0.595,75.42,43.0
+2024,2023-24,Hutchinson,hutchinsoncommunitycollege,162,11.0,11.0,3.0,2.0,0.875,80.0,47.0,50.0,1.064,60.230000000000004,35.0
+2024,2023-24,Illinois Central,illinoiscentralcollege,140,8.0,4.0,5.0,2.0,0.818,78.0,74.0,62.0,0.838,75.63,55.0
+2024,2023-24,Illinois Valley,illinoisvalleycommunitycollege,26,0.0,0.0,0.0,0.0,,17.0,9.0,8.0,0.889,13.94,9.0
+2024,2023-24,Indian Hills,indianhillscommunitycollege,115,10.0,10.0,0.0,2.0,0.833,38.0,22.0,21.0,0.955,30.61,22.0
+2024,2023-24,Indian River State,indianriverstatecollege,243,16.0,12.0,4.0,1.0,0.941,136.0,79.0,47.0,0.595,78.59,47.0
 2024,2023-24,Iowa Central,iowacentralcommunitycollege,99,7.0,7.0,0.0,1.0,0.875,38.0,22.0,14.0,0.636,23.6,26.0
-2024,2023-24,Iowa Lakes,iowalakescommunitycollege,94,7.0,1.0,0.0,0.0,1.0,42.0,59.0,40.0,0.678,48.65,40.0
-2024,2023-24,Iowa Western,iowawesterncommunitycollege,183,12.0,9.0,4.0,5.0,0.722,87.0,66.0,66.0,1.0,114.35,82.0
-2024,2023-24,Itawamba,itawambacommunitycollege,174,13.0,5.0,8.0,0.0,1.0,93.0,74.0,58.0,0.784,98.66,53.0
-2024,2023-24,Jackson,jacksoncollege,87,5.0,2.0,3.0,0.0,1.0,25.0,22.0,14.0,0.636,30.01,29.0
+2024,2023-24,Iowa Lakes,iowalakescommunitycollege,98,7.0,1.0,0.0,0.0,1.0,45.0,62.0,43.0,0.694,52.4,42.0
+2024,2023-24,Iowa Western,iowawesterncommunitycollege,179,13.0,5.0,6.0,5.0,0.688,90.0,76.0,75.0,0.987,130.68,83.0
+2024,2023-24,Itawamba,itawambacommunitycollege,185,14.0,5.0,9.0,0.0,1.0,99.0,83.0,58.0,0.699,102.16,55.0
+2024,2023-24,Jackson,jacksoncollege,88,6.0,2.0,3.0,0.0,1.0,23.0,24.0,16.0,0.667,39.01,34.0
 2024,2023-24,Jackson State,jacksonstatecommunitycollege,109,9.0,3.0,3.0,0.0,1.0,96.0,84.0,74.0,0.881,61.33,59.0
 2024,2023-24,Jamestown,jamestowncommunitycollege,29,2.0,1.0,1.0,0.0,1.0,11.0,10.0,7.0,0.7,16.23,9.0
 2024,2023-24,Jefferson (MO),jeffersoncollege,64,4.0,4.0,1.0,3.0,0.625,26.0,12.0,10.0,0.833,24.78,22.0
-2024,2023-24,John A. Logan,johnalogancollege,198,13.0,11.0,2.0,4.0,0.765,113.0,74.0,66.0,0.892,121.77,58.0
-2024,2023-24,John Wood,johnwoodcommunitycollege,155,13.0,6.0,6.0,1.0,0.923,110.0,106.0,87.0,0.821,85.62,53.0
-2024,2023-24,Johnson County,johnsoncountycommunitycollege,242,16.0,12.0,4.0,2.0,0.889,101.0,64.0,51.0,0.797,78.83,46.0
+2024,2023-24,John A. Logan,johnalogancollege,201,13.0,11.0,2.0,4.0,0.765,110.0,74.0,66.0,0.892,120.64,58.0
+2024,2023-24,John Wood,johnwoodcommunitycollege,155,12.0,6.0,7.0,1.0,0.929,105.0,100.0,84.0,0.84,68.62,45.0
+2024,2023-24,Johnson County,johnsoncountycommunitycollege,243,16.0,12.0,4.0,2.0,0.889,101.0,64.0,51.0,0.797,78.83,46.0
 2024,2023-24,Joliet,jolietjuniorcollege,59,4.0,2.0,2.0,0.0,1.0,30.0,32.0,23.0,0.719,44.91,29.0
-2024,2023-24,Jones,jonescollege,252,21.0,16.0,3.0,5.0,0.792,110.0,83.0,64.0,0.771,93.27,84.0
-2024,2023-24,Kankakee,kankakeecommunitycollege,69,5.0,2.0,2.0,0.0,1.0,51.0,51.0,42.0,0.824,87.59,33.0
-2024,2023-24,Kansas City Kansas,kansascitykansascommunitycollege,154,10.0,8.0,2.0,1.0,0.909,56.0,34.0,26.0,0.765,48.65,39.0
-2024,2023-24,Kaskaskia,kaskaskiacollege,172,12.0,5.0,7.0,1.0,0.923,79.0,48.0,43.0,0.896,70.05,38.0
-2024,2023-24,Kellogg,kelloggcommunitycollege,128,8.0,5.0,4.0,1.0,0.9,67.0,57.0,38.0,0.667,58.63,32.0
+2024,2023-24,Jones,jonescollege,258,20.0,17.0,3.0,4.0,0.833,116.0,84.0,66.0,0.786,101.58,90.0
+2024,2023-24,Kankakee,kankakeecommunitycollege,71,5.0,2.0,2.0,0.0,1.0,45.0,44.0,35.0,0.795,66.59,32.0
+2024,2023-24,Kansas City Kansas,kansascitykansascommunitycollege,155,10.0,9.0,2.0,1.0,0.917,59.0,34.0,27.0,0.794,49.28,42.0
+2024,2023-24,Kaskaskia,kaskaskiacollege,188,12.0,5.0,7.0,1.0,0.923,79.0,48.0,43.0,0.896,70.05,38.0
+2024,2023-24,Kellogg,kelloggcommunitycollege,127,8.0,4.0,4.0,1.0,0.889,69.0,59.0,40.0,0.678,66.6,33.0
 2024,2023-24,Kingsborough,kingsboroughcommunitycollege,45,1.0,0.0,1.0,0.0,1.0,24.0,29.0,21.0,0.724,35.62,26.0
-2024,2023-24,Kirkwood,kirkwoodcommunitycollege,174,13.0,10.0,3.0,6.0,0.684,77.0,49.0,42.0,0.857,60.839999999999996,50.0
-2024,2023-24,Kishwaukee,kishwaukeecollege,13,0.0,0.0,0.0,0.0,,0.0,0.0,0.0,,0.0,0.0
-2024,2023-24,LSU Eunice,louisianastateuniversityeunice,291,3.0,16.0,0.0,1.0,0.941,76.0,30.0,27.0,0.9,62.97,44.0
+2024,2023-24,Kirkwood,kirkwoodcommunitycollege,163,13.0,12.0,3.0,14.0,0.517,85.0,51.0,44.0,0.863,64.48,50.0
+2024,2023-24,Kishwaukee,kishwaukeecollege,18,1.0,0.0,1.0,0.0,1.0,7.0,3.0,6.0,2.0,3.79,6.0
+2024,2023-24,LSU Eunice,louisianastateuniversityeunice,291,4.0,16.0,0.0,1.0,0.941,81.0,32.0,29.0,0.906,71.81,54.0
 2024,2023-24,Labette,labettecommunitycollege,172,13.0,5.0,8.0,2.0,0.867,120.0,101.0,87.0,0.861,114.93,67.0
-2024,2023-24,Lackawanna,lackawannacollege,55,4.0,0.0,4.0,0.0,1.0,23.0,31.0,26.0,0.839,25.75,26.0
-2024,2023-24,Lake County,collegeoflakecounty,42,3.0,2.0,1.0,0.0,1.0,23.0,18.0,9.0,0.5,15.36,8.0
-2024,2023-24,Lake Land,lakelandcollege,141,0.0,2.0,7.0,0.0,1.0,84.0,91.0,62.0,0.681,93.76,53.0
-2024,2023-24,Lake-Sumter State,lakesumterstatecollege,315,20.0,8.0,11.0,3.0,0.864,184.0,123.0,107.0,0.87,157.15,96.0
-2024,2023-24,Lamar,lamarcommunitycollege,216,5.0,4.0,12.0,2.0,0.889,134.0,141.0,120.0,0.851,165.35,85.0
-2024,2023-24,Lansing,lansingcommunitycollege,40,3.0,2.0,1.0,0.0,1.0,24.0,17.0,9.0,0.529,19.85,20.0
+2024,2023-24,Lackawanna,lackawannacollege,56,4.0,0.0,4.0,0.0,1.0,25.0,31.0,26.0,0.839,28.75,28.0
+2024,2023-24,Lake County,collegeoflakecounty,70,4.0,2.0,1.0,0.0,1.0,44.0,35.0,17.0,0.486,63.36,15.0
+2024,2023-24,Lake Land,lakelandcollege,143,0.0,2.0,7.0,0.0,1.0,87.0,92.0,63.0,0.685,96.26,55.0
+2024,2023-24,Lake-Sumter State,lakesumterstatecollege,333,21.0,9.0,11.0,3.0,0.87,189.0,125.0,109.0,0.872,161.15,99.0
+2024,2023-24,Lamar,lamarcommunitycollege,208,4.0,5.0,10.0,2.0,0.882,137.0,137.0,111.0,0.81,161.93,90.0
+2024,2023-24,Lansing,lansingcommunitycollege,54,4.0,2.0,2.0,0.0,1.0,34.0,30.0,18.0,0.6,29.93,28.0
 2024,2023-24,Lawson State,lawsonstatecommunitycollege,164,6.0,7.0,6.0,0.0,1.0,94.0,76.0,52.0,0.684,62.2,55.0
-2024,2023-24,Lenoir,lenoircommunitycollege,233,12.0,9.0,3.0,1.0,0.923,123.0,75.0,60.0,0.8,124.6,53.0
+2024,2023-24,Lenoir,lenoircommunitycollege,242,12.0,9.0,3.0,1.0,0.923,119.0,72.0,58.0,0.806,118.6,51.0
 2024,2023-24,Lewis & Clark,lewisclarkcommunitycollege,146,7.0,8.0,3.0,2.0,0.846,65.0,44.0,20.0,0.455,49.33,47.0
-2024,2023-24,Lincoln Land,lincolnlandcommunitycollege,78,4.0,2.0,3.0,0.0,1.0,32.0,35.0,32.0,0.914,42.9,28.0
-2024,2023-24,Lincoln Trail,lincolntrailcollege,161,12.0,1.0,10.0,0.0,1.0,109.0,105.0,83.0,0.79,141.46,72.0
-2024,2023-24,Louisburg,louisburgcollege,209,15.0,7.0,7.0,1.0,0.933,156.0,113.0,87.0,0.77,149.22,67.0
-2024,2023-24,Luna,lunacommunitycollege,221,18.0,0.0,17.0,0.0,1.0,174.0,186.0,124.0,0.667,144.62,97.0
-2024,2023-24,Lurleen B. Wallace,lurleenbwallacecommunitycollege,293,16.0,10.0,6.0,2.0,0.889,148.0,116.0,90.0,0.776,130.05,68.0
+2024,2023-24,Lincoln Land,lincolnlandcommunitycollege,92,7.0,3.0,4.0,0.0,1.0,49.0,54.0,49.0,0.907,51.3,46.0
+2024,2023-24,Lincoln Trail,lincolntrailcollege,160,12.0,1.0,10.0,0.0,1.0,111.0,111.0,89.0,0.802,148.96,75.0
+2024,2023-24,Louisburg,louisburgcollege,240,16.0,8.0,9.0,2.0,0.895,184.0,136.0,106.0,0.779,195.10999999999999,78.0
+2024,2023-24,Luna,lunacommunitycollege,219,18.0,0.0,17.0,0.0,1.0,178.0,188.0,125.0,0.665,148.37,98.0
+2024,2023-24,Lurleen B. Wallace,lurleenbwallacecommunitycollege,316,21.0,11.0,9.0,2.0,0.909,180.0,138.0,103.0,0.746,159.48,78.0
 2024,2023-24,Madison,madisoncollege,26,1.0,1.0,0.0,0.0,1.0,7.0,4.0,3.0,0.75,9.0,0.0
-2024,2023-24,Marian-Ancilla,marianuniversityancilla,87,6.0,3.0,3.0,2.0,0.75,36.0,31.0,19.0,0.613,22.68,29.0
-2024,2023-24,Marion Military,marionmilitaryinstitute,274,18.0,2.0,16.0,0.0,1.0,159.0,162.0,127.0,0.784,158.4,99.0
-2024,2023-24,Marshalltown,marshalltowncc,50,2.0,0.0,4.0,0.0,1.0,47.0,34.0,34.0,1.0,22.92,12.0
-2024,2023-24,McCook,mccookcommunitycollege,102,7.0,1.0,7.0,1.0,0.889,68.0,75.0,42.0,0.56,41.54,40.0
-2024,2023-24,McHenry County,mchenrycountycollege,49,0.0,2.0,2.0,2.0,0.667,33.0,29.0,15.0,0.517,23.53,16.0
-2024,2023-24,McLennan,mclennancommunitycollege,180,14.0,8.0,5.0,2.0,0.867,107.0,73.0,61.0,0.836,77.11,41.0
-2024,2023-24,Mercer County,mercercountycommunitycollege,61,5.0,4.0,0.0,1.0,0.8,15.0,10.0,8.0,0.8,15.43,19.0
-2024,2023-24,Meridian,meridiancommunitycollege,224,6.0,6.0,6.0,0.0,1.0,101.0,77.0,64.0,0.831,103.7,62.0
-2024,2023-24,Mesa,mesacommunitycollege,280,12.0,13.0,3.0,3.0,0.842,117.0,72.0,48.0,0.667,137.62,39.0
-2024,2023-24,Metropolitan,metropolitancommunitycollege,212,16.0,7.0,3.0,2.0,0.833,100.0,62.0,51.0,0.823,67.77,40.0
+2024,2023-24,Marian-Ancilla,marianuniversityancilla,89,6.0,3.0,3.0,2.0,0.75,37.0,33.0,19.0,0.576,24.68,30.0
+2024,2023-24,Marion Military,marionmilitaryinstitute,279,21.0,2.0,16.0,0.0,1.0,186.0,177.0,145.0,0.819,160.59,94.0
+2024,2023-24,Marshalltown,marshalltowncc,89,2.0,2.0,4.0,0.0,1.0,77.0,58.0,56.0,0.966,52.35,30.0
+2024,2023-24,McCook,mccookcommunitycollege,101,7.0,1.0,7.0,1.0,0.889,76.0,83.0,46.0,0.554,53.54,45.0
+2024,2023-24,McHenry County,mchenrycountycollege,53,0.0,2.0,2.0,2.0,0.667,33.0,29.0,15.0,0.517,23.53,16.0
+2024,2023-24,McLennan,mclennancommunitycollege,187,14.0,8.0,5.0,1.0,0.929,103.0,69.0,59.0,0.855,73.61,40.0
+2024,2023-24,Mercer County,mercercountycommunitycollege,60,5.0,4.0,0.0,1.0,0.8,15.0,10.0,8.0,0.8,15.43,19.0
+2024,2023-24,Meridian,meridiancommunitycollege,250,7.0,10.0,6.0,1.0,0.941,119.0,86.0,70.0,0.814,116.91,80.0
+2024,2023-24,Mesa,mesacommunitycollege,300,13.0,14.0,4.0,3.0,0.857,138.0,78.0,59.0,0.756,156.41,48.0
+2024,2023-24,Metropolitan,metropolitancommunitycollege,217,15.0,6.0,2.0,2.0,0.8,88.0,56.0,47.0,0.839,61.199999999999996,36.0
 2024,2023-24,Miami Dade,miamidadecollege,246,13.0,11.0,8.0,2.0,0.905,136.0,115.0,85.0,0.739,152.74,108.0
 2024,2023-24,Middlesex College,middlesexcollege,34,2.0,2.0,0.0,0.0,1.0,7.0,6.0,6.0,1.0,8.0,11.0
-2024,2023-24,Midland,midlandcollege,147,11.0,8.0,3.0,0.0,1.0,67.0,51.0,42.0,0.824,57.55,58.0
-2024,2023-24,Miles,milescommunitycollege,117,1.0,3.0,5.0,1.0,0.889,75.0,100.0,90.0,0.9,94.65,63.0
-2024,2023-24,Milwaukee Area Tech,milwaukeeareatechnicalcollege,138,13.0,3.0,11.0,1.0,0.933,97.0,111.0,75.0,0.676,113.53,49.0
-2024,2023-24,Mineral Area,mineralareacollege,209,6.0,5.0,9.0,2.0,0.875,90.0,77.0,48.0,0.623,102.08,64.0
+2024,2023-24,Midland,midlandcollege,175,13.0,10.0,3.0,2.0,0.867,79.0,61.0,50.0,0.82,86.72,65.0
+2024,2023-24,Miles,milescommunitycollege,116,1.0,3.0,5.0,1.0,0.889,75.0,100.0,90.0,0.9,94.65,63.0
+2024,2023-24,Milwaukee Area Tech,milwaukeeareatechnicalcollege,144,10.0,2.0,8.0,1.0,0.909,77.0,88.0,60.0,0.682,96.45,41.0
+2024,2023-24,Mineral Area,mineralareacollege,240,6.0,7.0,9.0,2.0,0.889,94.0,78.0,49.0,0.628,105.08,67.0
 2024,2023-24,Minnesota North College - Hibbing,minnesotanorthcollegehibbing,95,5.0,1.0,6.0,0.0,1.0,61.0,66.0,49.0,0.742,50.68,32.0
-2024,2023-24,Minnesota North College - Mesabi Range,minnesotanorthcollegemesabirange,15,1.0,0.0,1.0,0.0,1.0,12.0,13.0,10.0,0.769,9.0,8.0
+2024,2023-24,Minnesota North College - Mesabi Range,minnesotanorthcollegemesabirange,39,3.0,0.0,1.0,0.0,1.0,34.0,52.0,34.0,0.654,34.22,23.0
 2024,2023-24,Minnesota State,minnesotastatecommunityandtechnical,26,1.0,1.0,0.0,1.0,0.5,14.0,12.0,9.0,0.75,6.0,5.0
 2024,2023-24,Mississippi Delta,mississippideltacommunitycollege,127,2.0,5.0,4.0,2.0,0.818,58.0,59.0,47.0,0.797,63.95,51.0
-2024,2023-24,Mississippi Gulf Coast,mississippigulfcoastcommunitycollege,221,4.0,11.0,3.0,3.0,0.824,119.0,83.0,71.0,0.855,99.63,85.0
-2024,2023-24,Moberly Area,moberlyareacommunitycollege,167,0.0,3.0,9.0,0.0,1.0,113.0,116.0,82.0,0.707,90.09,59.0
-2024,2023-24,Monroe College,monroecollege,200,17.0,4.0,12.0,1.0,0.941,130.0,142.0,99.0,0.697,135.65,121.0
-2024,2023-24,Monroe College - Bronx,monroecollegebronx,77,5.0,0.0,3.0,0.0,1.0,45.0,54.0,43.0,0.796,57.04,32.0
+2024,2023-24,Mississippi Gulf Coast,mississippigulfcoastcommunitycollege,269,6.0,12.0,5.0,3.0,0.85,145.0,102.0,85.0,0.833,117.26,104.0
+2024,2023-24,Moberly Area,moberlyareacommunitycollege,177,0.0,3.0,7.0,0.0,1.0,100.0,106.0,76.0,0.717,84.84,49.0
+2024,2023-24,Monroe College,monroecollege,201,17.0,4.0,12.0,1.0,0.941,142.0,158.0,105.0,0.665,155.15,129.0
+2024,2023-24,Monroe College - Bronx,monroecollegebronx,86,5.0,0.0,6.0,0.0,1.0,49.0,65.0,52.0,0.8,77.04,41.0
 2024,2023-24,Montgomery,montgomerycollegemd,72,0.0,2.0,3.0,1.0,0.833,42.0,41.0,27.0,0.659,51.03,36.0
+2024,2023-24,Moraine Valley,morainevalleycommunitycollege,4,0.0,0.0,0.0,0.0,,0.0,0.0,0.0,,0.0,0.0
 2024,2023-24,Morton,mortoncollege,53,0.0,2.0,2.0,0.0,1.0,35.0,27.0,21.0,0.778,38.67,18.0
 2024,2023-24,Motlow State,motlowstatecommunitycollege,60,4.0,3.0,1.0,1.0,0.8,21.0,14.0,11.0,0.786,7.89,11.0
 2024,2023-24,Mott,mottcommunitycollege,40,3.0,1.0,2.0,1.0,0.75,22.0,23.0,23.0,1.0,16.5,23.0
 2024,2023-24,Murray State,murraystatecollege,247,17.0,11.0,6.0,5.0,0.773,130.0,93.0,69.0,0.742,95.67,81.0
-2024,2023-24,National Park College,nationalparkcollege,220,16.0,9.0,3.0,2.0,0.857,119.0,116.0,80.0,0.69,98.58,72.0
-2024,2023-24,Navarro,navarrocollege,167,1.0,6.0,5.0,1.0,0.917,91.0,73.0,52.0,0.712,94.57,75.0
-2024,2023-24,Neosho County,neoshocountycommunitycollege,147,4.0,10.0,1.0,1.0,0.917,59.0,27.0,23.0,0.852,28.06,16.0
-2024,2023-24,New Mexico,newmexicojuniorcollege,188,14.0,7.0,6.0,2.0,0.867,99.0,62.0,49.0,0.79,78.19,56.0
+2024,2023-24,National Park College,nationalparkcollege,232,17.0,9.0,4.0,2.0,0.867,124.0,116.0,80.0,0.69,94.72,67.0
+2024,2023-24,Navarro,navarrocollege,166,1.0,5.0,5.0,1.0,0.909,83.0,69.0,49.0,0.71,88.74,70.0
+2024,2023-24,Neosho County,neoshocountycommunitycollege,148,4.0,11.0,1.0,1.0,0.923,69.0,37.0,31.0,0.838,30.77,19.0
+2024,2023-24,New Mexico,newmexicojuniorcollege,188,14.0,8.0,6.0,2.0,0.875,101.0,66.0,50.0,0.758,82.19,59.0
 2024,2023-24,New Mexico Military,newmexicomilitaryinstitute,200,15.0,11.0,4.0,3.0,0.833,134.0,104.0,85.0,0.817,96.88,69.0
 2024,2023-24,North Arkansas,northarkansascollege,221,0.0,9.0,6.0,5.0,0.75,103.0,97.0,74.0,0.763,114.63,61.0
-2024,2023-24,North Central Missouri,northcentralmissouricollege,110,8.0,5.0,2.0,1.0,0.875,41.0,28.0,18.0,0.643,24.65,19.0
-2024,2023-24,North Central Texas,northcentraltexascollege,192,13.0,2.0,12.0,0.0,1.0,126.0,129.0,108.0,0.837,111.88,79.0
+2024,2023-24,North Central Missouri,northcentralmissouricollege,119,8.0,6.0,2.0,1.0,0.889,44.0,31.0,18.0,0.581,35.15,21.0
+2024,2023-24,North Central Texas,northcentraltexascollege,219,15.0,2.0,14.0,0.0,1.0,146.0,150.0,128.0,0.853,134.71,91.0
 2024,2023-24,North Dakota SCS,northdakotastatecollegeofscience,23,2.0,0.0,2.0,0.0,1.0,24.0,17.0,13.0,0.765,18.84,8.0
-2024,2023-24,North Iowa Area,northiowaareacommunitycollege,140,11.0,4.0,6.0,2.0,0.833,61.0,56.0,49.0,0.875,58.41,36.0
-2024,2023-24,Northampton,northamptoncommunitycollege,28,2.0,2.0,0.0,3.0,0.4,19.0,10.0,7.0,0.7,11.16,6.0
-2024,2023-24,Northeast,northeastcommunitycollege,148,12.0,4.0,6.0,2.0,0.833,88.0,81.0,67.0,0.827,84.37,52.0
-2024,2023-24,Northeast Mississippi,northeastmississippicommunitycollege,227,17.0,8.0,6.0,4.0,0.778,105.0,58.0,51.0,0.879,72.19,69.0
-2024,2023-24,Northeast Texas,northeasttexascommunitycollege,287,13.0,11.0,10.0,3.0,0.875,156.0,132.0,124.0,0.939,211.18,123.0
+2024,2023-24,North Iowa Area,northiowaareacommunitycollege,142,11.0,5.0,6.0,3.0,0.786,62.0,55.0,48.0,0.873,63.66,37.0
+2024,2023-24,Northampton,northamptoncommunitycollege,28,2.0,2.0,0.0,2.0,0.5,16.0,10.0,7.0,0.7,9.83,5.0
+2024,2023-24,Northeast,northeastcommunitycollege,151,12.0,4.0,6.0,2.0,0.833,99.0,89.0,76.0,0.854,91.29,55.0
+2024,2023-24,Northeast Mississippi,northeastmississippicommunitycollege,214,16.0,9.0,7.0,5.0,0.762,96.0,52.0,46.0,0.885,62.99,63.0
+2024,2023-24,Northeast Texas,northeasttexascommunitycollege,309,15.0,11.0,10.0,3.0,0.875,159.0,142.0,132.0,0.93,198.89,137.0
 2024,2023-24,Northeastern,northeasternjuniorcollege,240,0.0,8.0,8.0,1.0,0.941,129.0,113.0,94.0,0.832,134.2,71.0
-2024,2023-24,Northeastern Oklahoma A&M,northeasternoklahomaamcollege,219,16.0,8.0,8.0,1.0,0.941,121.0,88.0,70.0,0.795,113.28,85.0
+2024,2023-24,Northeastern Oklahoma A&M,northeasternoklahomaamcollege,220,14.0,8.0,7.0,1.0,0.938,117.0,85.0,67.0,0.788,111.78,87.0
 2024,2023-24,Northern Oklahoma Enid,northernoklahomacollegeenid,203,14.0,10.0,6.0,3.0,0.842,110.0,95.0,74.0,0.779,88.8,62.0
-2024,2023-24,Northern Oklahoma Tonkawa,northernoklahomacollegetonkawa,255,0.0,12.0,6.0,2.0,0.9,131.0,76.0,59.0,0.776,81.38,50.0
+2024,2023-24,Northern Oklahoma Tonkawa,northernoklahomacollegetonkawa,256,0.0,12.0,6.0,2.0,0.9,131.0,76.0,59.0,0.776,81.38,50.0
 2024,2023-24,Northland,northlandcommunitytechnicalcollege,48,4.0,1.0,3.0,1.0,0.8,36.0,43.0,30.0,0.698,30.87,14.0
 2024,2023-24,Northwest Florida State,northwestfloridastatecollege,245,18.0,13.0,5.0,1.0,0.947,99.0,63.0,49.0,0.778,75.03999999999999,64.0
-2024,2023-24,Northwest Mississippi,northwestmississippicommunitycollege,170,13.0,10.0,3.0,0.0,1.0,75.0,58.0,44.0,0.759,69.52,54.0
+2024,2023-24,Northwest Mississippi,northwestmississippicommunitycollege,180,10.0,8.0,2.0,0.0,1.0,66.0,50.0,38.0,0.76,67.12,51.0
 2024,2023-24,Northwest-Shoals Community College,northwestshoalscommunitycollege,197,0.0,7.0,4.0,2.0,0.846,96.0,68.0,55.0,0.809,85.45,42.0
 2024,2023-24,Nunez,nunezcommunitycollege,205,16.0,8.0,8.0,1.0,0.941,95.0,74.0,62.0,0.838,65.23,73.0
 2024,2023-24,Odessa,odessacollege,192,13.0,3.0,9.0,0.0,1.0,120.0,105.0,87.0,0.829,103.65,68.0
 2024,2023-24,Olive-Harvey,oliveharveycollege,50,2.0,3.0,1.0,1.0,0.8,44.0,33.0,18.0,0.545,20.92,11.0
 2024,2023-24,Olney Central,olneycentralcollege,123,0.0,2.0,1.0,0.0,1.0,77.0,58.0,41.0,0.707,56.36,31.0
 2024,2023-24,Orange County,orangecountycommunitycollege,24,0.0,0.0,2.0,0.0,1.0,31.0,42.0,31.0,0.738,32.28,10.0
-2024,2023-24,Otero,oterocollege,96,8.0,5.0,3.0,3.0,0.727,59.0,51.0,34.0,0.667,37.94,43.0
+2024,2023-24,Otero,oterocollege,100,8.0,5.0,3.0,3.0,0.727,59.0,51.0,34.0,0.667,37.94,43.0
 2024,2023-24,Owens,owenscommunitycollege,37,3.0,1.0,0.0,0.0,1.0,34.0,26.0,24.0,0.923,40.96,21.0
 2024,2023-24,Palm Beach State,palmbeachstatecollege,210,15.0,11.0,4.0,4.0,0.789,115.0,104.0,77.0,0.74,103.32000000000001,76.0
-2024,2023-24,Panola,panolacollege,234,19.0,9.0,8.0,3.0,0.85,145.0,104.0,84.0,0.808,130.71,87.0
-2024,2023-24,Paradise Valley,paradisevalleycommunitycollege,253,0.0,14.0,5.0,4.0,0.826,156.0,97.0,70.0,0.722,111.71000000000001,55.0
-2024,2023-24,Paris,parisjuniorcollege,235,17.0,11.0,6.0,3.0,0.85,121.0,91.0,75.0,0.824,102.12,62.0
-2024,2023-24,Parkland,parklandcollege,106,7.0,3.0,4.0,1.0,0.875,44.0,42.0,38.0,0.905,49.73,23.0
+2024,2023-24,Panola,panolacollege,262,16.0,8.0,9.0,3.0,0.85,150.0,112.0,90.0,0.804,146.96,97.0
+2024,2023-24,Paradise Valley,paradisevalleycommunitycollege,306,0.0,14.0,6.0,4.0,0.833,153.0,95.0,69.0,0.726,109.38,53.0
+2024,2023-24,Paris,parisjuniorcollege,223,17.0,11.0,6.0,3.0,0.85,121.0,91.0,75.0,0.824,102.12,62.0
+2024,2023-24,Parkland,parklandcollege,100,7.0,3.0,4.0,1.0,0.875,45.0,43.0,39.0,0.907,58.73,29.0
 2024,2023-24,Pasco-Hernando State,pascohernandostatecollege,219,17.0,8.0,9.0,2.0,0.895,133.0,72.0,60.0,0.833,105.56,69.0
-2024,2023-24,Patrick & Henry,patrickhenrycommunitycollege,180,7.0,9.0,5.0,1.0,0.933,77.0,51.0,42.0,0.824,68.19,53.0
-2024,2023-24,Pearl River,pearlrivercommunitycollege,269,19.0,13.0,5.0,5.0,0.783,114.0,62.0,47.0,0.758,107.13,74.0
+2024,2023-24,Patrick & Henry,patrickhenrycommunitycollege,188,8.0,6.0,4.0,1.0,0.909,67.0,36.0,27.0,0.75,56.64,44.0
+2024,2023-24,Pearl River,pearlrivercommunitycollege,302,21.0,15.0,5.0,5.0,0.8,133.0,71.0,53.0,0.746,119.89,87.0
 2024,2023-24,Pensacola State,pensacolastatecollege,243,19.0,18.0,1.0,3.0,0.864,113.0,59.0,41.0,0.695,108.27,61.0
-2024,2023-24,Phoenix,phoenixcollege,317,13.0,7.0,11.0,2.0,0.9,155.0,135.0,93.0,0.689,144.1,98.0
-2024,2023-24,Pima,pimacommunitycollege,269,22.0,15.0,4.0,4.0,0.826,111.0,52.0,31.0,0.596,69.28,56.0
-2024,2023-24,Pitt,pittcommunitycollege,159,10.0,4.0,5.0,2.0,0.818,69.0,66.0,60.0,0.909,79.83,54.0
+2024,2023-24,Phoenix,phoenixcollege,367,16.0,9.0,12.0,3.0,0.875,170.0,144.0,100.0,0.694,161.44,112.0
+2024,2023-24,Pima,pimacommunitycollege,294,17.0,15.0,6.0,4.0,0.84,108.0,53.0,32.0,0.604,79.93,57.0
+2024,2023-24,Pitt,pittcommunitycollege,158,11.0,5.0,6.0,2.0,0.846,79.0,75.0,68.0,0.907,91.71,58.0
 2024,2023-24,Polk State,polkstatecollege,317,23.0,11.0,12.0,6.0,0.793,202.0,116.0,91.0,0.784,149.33,71.0
-2024,2023-24,Potomac State,wvupotomacstatecollege,53,4.0,0.0,6.0,0.0,1.0,50.0,49.0,40.0,0.816,22.259999999999998,17.0
+2024,2023-24,Potomac State,wvupotomacstatecollege,55,4.0,0.0,4.0,0.0,1.0,34.0,35.0,30.0,0.857,17.86,15.0
 2024,2023-24,Pratt,prattcommunitycollege,208,14.0,9.0,6.0,1.0,0.938,123.0,104.0,78.0,0.75,110.87,58.0
 2024,2023-24,RCSJ Cumberland,rowancollegeofsouthjerseycumberland,42,3.0,2.0,1.0,0.0,1.0,18.0,18.0,13.0,0.722,31.89,19.0
-2024,2023-24,RCSJ Gloucester,rowancollegesouthjerseygloucester,81,5.0,6.0,0.0,1.0,0.857,28.0,18.0,9.0,0.5,35.76,28.0
-2024,2023-24,Ranger,rangercollege,230,3.0,13.0,5.0,3.0,0.857,111.0,86.0,67.0,0.779,75.32,63.0
-2024,2023-24,Redlands,redlandscommunitycollege,268,0.0,4.0,15.0,0.0,1.0,163.0,182.0,123.0,0.676,143.69,82.0
-2024,2023-24,Rend Lake,rendlakecollege,216,14.0,7.0,7.0,1.0,0.933,106.0,84.0,70.0,0.833,75.51,71.0
-2024,2023-24,Richard Bland,richardblandcollege,178,7.0,7.0,0.0,3.0,0.7,80.0,51.0,43.0,0.843,72.19,43.0
+2024,2023-24,RCSJ Gloucester,rowancollegesouthjerseygloucester,80,5.0,6.0,0.0,1.0,0.857,25.0,14.0,9.0,0.643,27.26,25.0
+2024,2023-24,Ranger,rangercollege,261,3.0,14.0,6.0,4.0,0.833,122.0,97.0,74.0,0.763,80.89,68.0
+2024,2023-24,Redlands,redlandscommunitycollege,270,0.0,6.0,13.0,0.0,1.0,173.0,186.0,136.0,0.731,166.31,92.0
+2024,2023-24,Rend Lake,rendlakecollege,215,14.0,7.0,7.0,1.0,0.933,106.0,84.0,70.0,0.833,75.51,71.0
+2024,2023-24,Richard Bland,richardblandcollege,160,11.0,8.0,1.0,3.0,0.75,102.0,73.0,60.0,0.822,88.36,63.0
 2024,2023-24,Roane State,roanestatecommunitycollege,228,14.0,6.0,4.0,2.0,0.833,141.0,128.0,110.0,0.859,136.81,68.0
-2024,2023-24,Rock Valley,rockvalleycollege,57,4.0,0.0,4.0,0.0,1.0,30.0,35.0,18.0,0.514,34.95,20.0
-2024,2023-24,Rockingham,rockinghamcommunitycollege,207,16.0,1.0,8.0,1.0,0.9,145.0,126.0,103.0,0.817,119.24,77.0
+2024,2023-24,Rock Valley,rockvalleycollege,61,4.0,0.0,4.0,0.0,1.0,30.0,35.0,18.0,0.514,34.95,20.0
+2024,2023-24,Rockingham,rockinghamcommunitycollege,207,16.0,2.0,8.0,1.0,0.909,145.0,126.0,103.0,0.817,119.24,77.0
 2024,2023-24,Rockland,rocklandcommunitycollege,26,0.0,0.0,2.0,0.0,1.0,17.0,16.0,10.0,0.625,11.1,5.0
-2024,2023-24,Rose State,rosestatecollege,201,15.0,6.0,9.0,0.0,1.0,117.0,115.0,82.0,0.713,129.05,68.0
+2024,2023-24,Rose State,rosestatecollege,185,14.0,5.0,10.0,0.0,1.0,115.0,118.0,83.0,0.703,130.51,65.0
 2024,2023-24,SUNY Adirondack,sunyadirondack,46,3.0,1.0,2.0,0.0,1.0,16.0,11.0,8.0,0.727,11.26,12.0
 2024,2023-24,Salt Lake,saltlakecommunitycollege,172,12.0,10.0,2.0,2.0,0.857,63.0,35.0,24.0,0.686,53.74,36.0
 2024,2023-24,San Jacinto,sanjacintocollegenorth,221,15.0,5.0,7.0,3.0,0.8,111.0,104.0,76.0,0.731,141.09,108.0
 2024,2023-24,Santa Fe,santafecollege,286,5.0,12.0,8.0,2.0,0.909,154.0,127.0,93.0,0.732,171.35999999999999,124.0
-2024,2023-24,Schoolcraft,schoolcraftcollege,68,5.0,0.0,5.0,0.0,1.0,40.0,53.0,38.0,0.717,39.730000000000004,30.0
-2024,2023-24,Scottsdale,scottsdalecommunitycollege,229,17.0,7.0,7.0,3.0,0.824,128.0,96.0,57.0,0.594,89.7,55.0
+2024,2023-24,Sauk Valley,saukvalleycommunitycollege,29,0.0,0.0,0.0,0.0,,20.0,18.0,14.0,0.778,11.9,5.0
+2024,2023-24,Schoolcraft,schoolcraftcollege,69,5.0,0.0,5.0,0.0,1.0,44.0,59.0,44.0,0.746,44.980000000000004,33.0
+2024,2023-24,Scottsdale,scottsdalecommunitycollege,243,18.0,7.0,11.0,3.0,0.857,148.0,108.0,65.0,0.602,106.62,67.0
 2024,2023-24,Seminole State (FL),seminolestatecollegeofflorida,274,19.0,13.0,6.0,4.0,0.826,143.0,98.0,77.0,0.786,98.82,62.0
-2024,2023-24,Seminole State (OK),seminolestatecollegeok,225,15.0,9.0,6.0,1.0,0.938,99.0,81.0,65.0,0.802,78.55,61.0
-2024,2023-24,Seward County,sewardcountycommunitycollege,196,0.0,11.0,7.0,0.0,1.0,143.0,105.0,77.0,0.733,75.6,64.0
-2024,2023-24,Shawnee,shawneecommunitycollege,73,0.0,2.0,4.0,0.0,1.0,51.0,49.0,30.0,0.612,34.86,19.0
-2024,2023-24,Shelton State,sheltonstatecommunitycollege,191,11.0,3.0,8.0,1.0,0.917,94.0,78.0,65.0,0.833,73.93,42.0
-2024,2023-24,Snead State,sneadstatecommunitycollege,206,14.0,8.0,6.0,1.0,0.933,124.0,96.0,72.0,0.75,107.07,63.0
-2024,2023-24,South Florida State,southfloridastatecollege,299,18.0,8.0,11.0,2.0,0.905,157.0,123.0,82.0,0.667,160.98,70.0
-2024,2023-24,South Georgia State,southgeorgiastatecollege,256,1.0,7.0,9.0,0.0,1.0,138.0,106.0,83.0,0.783,162.54,65.0
-2024,2023-24,South Mountain,southmountaincommunitycollege,253,19.0,9.0,10.0,4.0,0.826,134.0,86.0,75.0,0.872,86.3,90.0
-2024,2023-24,South Suburban,southsuburbancollege,90,7.0,5.0,2.0,2.0,0.778,51.0,36.0,25.0,0.694,36.64,21.0
+2024,2023-24,Seminole State (OK),seminolestatecollegeok,225,16.0,8.0,8.0,1.0,0.941,95.0,84.0,66.0,0.786,87.69,68.0
+2024,2023-24,Seward County,sewardcountycommunitycollege,188,0.0,8.0,7.0,0.0,1.0,143.0,107.0,82.0,0.766,60.74,56.0
+2024,2023-24,Shawnee,shawneecommunitycollege,116,2.0,4.0,4.0,1.0,0.889,63.0,59.0,37.0,0.627,43.019999999999996,26.0
+2024,2023-24,Shelton State,sheltonstatecommunitycollege,198,11.0,3.0,7.0,0.0,1.0,90.0,76.0,63.0,0.829,71.23,42.0
+2024,2023-24,Snead State,sneadstatecommunitycollege,213,14.0,8.0,7.0,2.0,0.882,131.0,100.0,76.0,0.76,114.32,67.0
+2024,2023-24,South Florida State,southfloridastatecollege,292,20.0,9.0,11.0,2.0,0.909,175.0,143.0,95.0,0.664,171.71,81.0
+2024,2023-24,South Georgia State,southgeorgiastatecollege,298,1.0,10.0,9.0,2.0,0.905,162.0,125.0,95.0,0.76,187.73,81.0
+2024,2023-24,South Mountain,southmountaincommunitycollege,303,21.0,10.0,10.0,4.0,0.833,153.0,95.0,83.0,0.874,94.76,93.0
+2024,2023-24,South Suburban,southsuburbancollege,85,9.0,6.0,2.0,2.0,0.8,55.0,41.0,28.0,0.683,39.24,26.0
 2024,2023-24,Southeast,southeastcommunitycollege,182,12.0,6.0,6.0,1.0,0.923,87.0,83.0,75.0,0.904,122.33,64.0
 2024,2023-24,Southeast Arkansas College,southeastarkansascollege,262,12.0,8.0,11.0,3.0,0.864,147.0,129.0,89.0,0.69,115.04,85.0
 2024,2023-24,Southeastern,southeasterncommunitycollege,121,9.0,7.0,2.0,1.0,0.9,57.0,38.0,30.0,0.789,45.17,33.0
 2024,2023-24,Southeastern Illinois,southeasternillinoiscollege,158,12.0,4.0,8.0,0.0,1.0,121.0,107.0,93.0,0.869,99.14,77.0
-2024,2023-24,Southeastern-Whiteville,southeasterncommunitycollegewhitevill,199,6.0,4.0,7.0,1.0,0.917,99.0,99.0,80.0,0.808,95.95,72.0
-2024,2023-24,Southern Arkansas University Tech,southernarkansasuniversitytech,132,0.0,3.0,7.0,2.0,0.833,76.0,86.0,72.0,0.837,60.75,63.0
-2024,2023-24,Southern Idaho,collegeofsouthernidaho,281,8.0,14.0,6.0,3.0,0.87,117.0,92.0,71.0,0.772,128.55,83.0
-2024,2023-24,Southern Maryland,collegeofsouthernmaryland,132,7.0,2.0,7.0,1.0,0.9,82.0,90.0,49.0,0.544,98.52,50.0
-2024,2023-24,Southern Nevada,collegeofsouthernnevada,244,16.0,9.0,7.0,2.0,0.889,108.0,59.0,51.0,0.864,82.42,58.0
-2024,2023-24,Southern Union State,southernunionstatecommunitycollege,184,16.0,7.0,2.0,2.0,0.818,119.0,66.0,53.0,0.803,93.61,45.0
-2024,2023-24,Southwest Mississippi,southwestmississippicommunitycollege,240,18.0,8.0,10.0,5.0,0.783,125.0,121.0,100.0,0.826,130.62,105.0
-2024,2023-24,Southwest Tennessee,southwesttennesseecommunitycollege,252,18.0,8.0,10.0,6.0,0.75,138.0,113.0,81.0,0.717,99.6,75.0
-2024,2023-24,Southwest Virginia,southwestvirginia,197,7.0,0.0,0.0,0.0,,137.0,245.0,187.0,0.763,256.58,144.0
+2024,2023-24,Southeastern-Whiteville,southeasterncommunitycollegewhitevill,210,7.0,5.0,6.0,1.0,0.917,115.0,114.0,90.0,0.789,114.62,75.0
+2024,2023-24,Southern Arkansas University Tech,southernarkansasuniversitytech,123,0.0,3.0,7.0,2.0,0.833,76.0,86.0,72.0,0.837,60.75,63.0
+2024,2023-24,Southern Idaho,collegeofsouthernidaho,297,8.0,14.0,6.0,3.0,0.87,112.0,84.0,64.0,0.762,121.55,80.0
+2024,2023-24,Southern Maryland,collegeofsouthernmaryland,137,7.0,2.0,7.0,1.0,0.9,82.0,84.0,46.0,0.548,89.52,48.0
+2024,2023-24,Southern Nevada,collegeofsouthernnevada,236,19.0,12.0,8.0,2.0,0.909,126.0,69.0,60.0,0.87,92.21,69.0
+2024,2023-24,Southern Union State,southernunionstatecommunitycollege,184,10.0,5.0,2.0,2.0,0.778,94.0,58.0,46.0,0.793,90.84,41.0
+2024,2023-24,Southwest Mississippi,southwestmississippicommunitycollege,295,21.0,10.0,11.0,5.0,0.808,149.0,135.0,111.0,0.822,150.22,124.0
+2024,2023-24,Southwest Tennessee,southwesttennesseecommunitycollege,276,19.0,8.0,11.0,6.0,0.76,151.0,119.0,86.0,0.723,118.93,78.0
+2024,2023-24,Southwest Virginia,southwestvirginia,201,11.0,0.0,0.0,0.0,,142.0,235.0,175.0,0.745,234.35999999999999,144.0
 2024,2023-24,Southwestern,southwesterncommunitycollege,142,12.0,2.0,10.0,2.0,0.857,97.0,76.0,55.0,0.724,72.6,57.0
-2024,2023-24,Southwestern Illinois,southwesternillinoiscollege,177,10.0,5.0,5.0,1.0,0.909,75.0,58.0,44.0,0.759,76.15,52.0
-2024,2023-24,Spartanburg Methodist,spartanburgmethodist,235,20.0,12.0,5.0,1.0,0.944,111.0,88.0,67.0,0.761,92.21,59.0
-2024,2023-24,Spoon River,spoonrivercollege,84,0.0,7.0,0.0,3.0,0.7,30.0,21.0,14.0,0.667,25.060000000000002,28.0
-2024,2023-24,St. Charles,stcharlescommunitycollege,192,1.0,6.0,8.0,0.0,1.0,117.0,107.0,78.0,0.729,104.71000000000001,75.0
-2024,2023-24,St. Johns River State,stjohnsriverstatecollege,276,20.0,11.0,8.0,4.0,0.826,144.0,83.0,66.0,0.795,126.45,75.0
-2024,2023-24,St. Louis,stlouiscommunitycollege,93,0.0,2.0,5.0,0.0,1.0,46.0,39.0,35.0,0.897,49.269999999999996,33.0
+2024,2023-24,Southwestern Illinois,southwesternillinoiscollege,210,12.0,6.0,6.0,2.0,0.857,95.0,79.0,56.0,0.709,88.8,61.0
+2024,2023-24,Spartanburg Methodist,spartanburgmethodist,260,21.0,14.0,6.0,1.0,0.952,114.0,96.0,72.0,0.75,113.59,69.0
+2024,2023-24,Spoon River,spoonrivercollege,107,0.0,11.0,0.0,4.0,0.733,49.0,33.0,26.0,0.788,51.09,48.0
+2024,2023-24,St. Charles,stcharlescommunitycollege,206,1.0,6.0,7.0,0.0,1.0,110.0,99.0,69.0,0.697,103.01,69.0
+2024,2023-24,St. Johns River State,stjohnsriverstatecollege,302,25.0,14.0,10.0,4.0,0.857,161.0,90.0,73.0,0.811,138.18,82.0
+2024,2023-24,St. Louis,stlouiscommunitycollege,94,0.0,2.0,4.0,0.0,1.0,43.0,36.0,32.0,0.889,44.47,31.0
 2024,2023-24,St. Petersburg,stpetersburgcollege,221,17.0,6.0,11.0,3.0,0.85,140.0,119.0,105.0,0.882,109.99,100.0
-2024,2023-24,State College of Florida,statecollegeoffloridamanateesaraso,242,18.0,12.0,6.0,4.0,0.818,142.0,106.0,81.0,0.764,138.96,116.0
+2024,2023-24,State College of Florida,statecollegeoffloridamanateesaraso,232,18.0,13.0,6.0,4.0,0.826,143.0,109.0,82.0,0.752,147.46,121.0
 2024,2023-24,State Fair,statefaircommunitycollege,208,14.0,9.0,4.0,0.0,1.0,110.0,108.0,84.0,0.778,122.67999999999999,60.0
-2024,2023-24,Suffolk County,suffolkcc,74,6.0,0.0,5.0,0.0,1.0,52.0,57.0,41.0,0.719,46.69,36.0
+2024,2023-24,Suffolk County,suffolkcc,79,6.0,0.0,5.0,0.0,1.0,52.0,57.0,41.0,0.719,46.69,36.0
 2024,2023-24,Surry,surrycommunitycollege,205,0.0,14.0,1.0,3.0,0.833,95.0,55.0,38.0,0.691,80.83,64.0
-2024,2023-24,Tallahassee,tallahasseecommunitycollege,297,20.0,12.0,11.0,2.0,0.92,218.0,165.0,118.0,0.715,137.77,100.0
+2024,2023-24,Tallahassee,tallahasseecommunitycollege,311,21.0,13.0,11.0,2.0,0.923,231.0,177.0,126.0,0.712,149.74,106.0
 2024,2023-24,Temple,templecollege,241,17.0,10.0,4.0,4.0,0.778,124.0,90.0,62.0,0.689,122.72,88.0
-2024,2023-24,Three Rivers,threeriverscommunitycollegemo,169,13.0,9.0,4.0,0.0,1.0,82.0,52.0,40.0,0.769,54.8,41.0
-2024,2023-24,Trinidad State,trinidadstatecollege,204,0.0,4.0,6.0,1.0,0.909,135.0,149.0,118.0,0.792,177.78,105.0
-2024,2023-24,Triton,tritoncollege,47,3.0,1.0,2.0,1.0,0.75,19.0,18.0,13.0,0.722,17.5,13.0
-2024,2023-24,Tyler,tylerjuniorcollege,284,17.0,14.0,3.0,3.0,0.85,113.0,86.0,73.0,0.849,106.05,92.0
-2024,2023-24,UA Rich Mountain,uarichmountain,258,16.0,2.0,14.0,0.0,1.0,166.0,187.0,137.0,0.733,180.61,87.0
-2024,2023-24,UConn Avery Point,universityofconnecticutataverypoint,9,1.0,0.0,1.0,0.0,1.0,0.0,0.0,0.0,,0.0,0.0
-2024,2023-24,USC Lancaster,usclancaster,256,7.0,13.0,4.0,0.0,1.0,117.0,93.0,74.0,0.796,121.47,66.0
+2024,2023-24,Three Rivers,threeriverscommunitycollegemo,172,13.0,9.0,4.0,0.0,1.0,85.0,56.0,43.0,0.768,61.3,45.0
+2024,2023-24,Trinidad State,trinidadstatecollege,201,0.0,4.0,6.0,1.0,0.909,135.0,149.0,118.0,0.792,177.78,105.0
+2024,2023-24,Triton,tritoncollege,51,4.0,2.0,2.0,1.0,0.8,19.0,18.0,13.0,0.722,17.5,13.0
+2024,2023-24,Tyler,tylerjuniorcollege,316,22.0,18.0,5.0,3.0,0.885,157.0,118.0,102.0,0.864,140.94,125.0
+2024,2023-24,UA Rich Mountain,uarichmountain,266,17.0,2.0,14.0,0.0,1.0,162.0,174.0,127.0,0.73,157.71,81.0
+2024,2023-24,UConn Avery Point,universityofconnecticutataverypoint,10,1.0,0.0,1.0,0.0,1.0,0.0,0.0,0.0,,0.0,0.0
+2024,2023-24,USC Lancaster,usclancaster,291,9.0,14.0,5.0,1.0,0.95,127.0,109.0,87.0,0.798,143.56,77.0
 2024,2023-24,USC Salkehatchie,uscsalkehatchie,141,10.0,1.0,4.0,1.0,0.833,100.0,102.0,81.0,0.794,99.26,63.0
-2024,2023-24,USC Sumter,uscsumter,247,15.0,10.0,8.0,4.0,0.818,131.0,95.0,83.0,0.874,120.27,74.0
-2024,2023-24,USC Union,uscunion,229,2.0,16.0,6.0,3.0,0.88,109.0,102.0,83.0,0.814,123.65,87.0
-2024,2023-24,Utah State Eastern,utahstateeastern,164,13.0,5.0,4.0,0.0,1.0,82.0,72.0,61.0,0.847,73.41,72.0
-2024,2023-24,Vernon,vernoncollege,235,18.0,11.0,7.0,4.0,0.818,136.0,113.0,84.0,0.743,108.09,72.0
-2024,2023-24,Vincennes,vincennesuniversity,171,10.0,2.0,8.0,1.0,0.909,81.0,83.0,64.0,0.771,111.2,66.0
-2024,2023-24,Virginia Peninsula CC,virginiapeninsulacc,196,10.0,2.0,5.0,1.0,0.875,120.0,121.0,96.0,0.793,150.16,76.0
-2024,2023-24,Volunteer State,volunteerstatecommunitycollege,161,11.0,4.0,7.0,3.0,0.786,88.0,86.0,66.0,0.767,95.01,46.0
-2024,2023-24,Wabash Valley,wabashvalleycollege,288,18.0,7.0,9.0,3.0,0.842,126.0,103.0,75.0,0.728,121.91,73.0
-2024,2023-24,Wake Tech,waketechnicalcommunitycollege,253,14.0,6.0,10.0,1.0,0.941,161.0,148.0,85.0,0.574,140.66,83.0
-2024,2023-24,Wallace State,wallacestatecommunitycollegehancevil,172,13.0,1.0,4.0,0.0,1.0,87.0,61.0,43.0,0.705,61.21,46.0
-2024,2023-24,Wallace-Dothan,wallacecommunitycollegedothan,187,16.0,11.0,3.0,3.0,0.824,116.0,63.0,55.0,0.873,68.06,38.0
-2024,2023-24,Wallace-Selma,wallacecommunitycollegeselma,250,15.0,12.0,5.0,2.0,0.895,101.0,62.0,43.0,0.694,52.68,44.0
-2024,2023-24,Walters State,waltersstatecommunitycollege,290,19.0,13.0,8.0,1.0,0.955,102.0,79.0,55.0,0.696,110.74,64.0
+2024,2023-24,USC Sumter,uscsumter,253,15.0,11.0,8.0,6.0,0.76,146.0,100.0,88.0,0.88,126.16,78.0
+2024,2023-24,USC Union,uscunion,239,3.0,11.0,6.0,4.0,0.81,89.0,92.0,78.0,0.848,101.93,73.0
+2024,2023-24,Utah State Eastern,utahstateeastern,164,13.0,6.0,5.0,0.0,1.0,82.0,72.0,61.0,0.847,73.41,72.0
+2024,2023-24,Vernon,vernoncollege,222,18.0,11.0,7.0,4.0,0.818,136.0,113.0,84.0,0.743,108.09,72.0
+2024,2023-24,Vincennes,vincennesuniversity,192,11.0,3.0,8.0,1.0,0.917,86.0,85.0,66.0,0.776,117.4,70.0
+2024,2023-24,Virginia Peninsula CC,virginiapeninsulacc,170,8.0,1.0,5.0,1.0,0.857,113.0,116.0,93.0,0.802,144.05,69.0
+2024,2023-24,Volunteer State,volunteerstatecommunitycollege,157,8.0,3.0,7.0,3.0,0.769,72.0,75.0,55.0,0.733,91.44,50.0
+2024,2023-24,Wabash Valley,wabashvalleycollege,289,18.0,8.0,9.0,3.0,0.85,128.0,110.0,78.0,0.709,116.94,73.0
+2024,2023-24,Wake Tech,waketechnicalcommunitycollege,275,15.0,6.0,11.0,1.0,0.944,175.0,164.0,96.0,0.585,155.99,96.0
+2024,2023-24,Wallace State,wallacestatecommunitycollegehancevil,177,14.0,1.0,5.0,0.0,1.0,99.0,77.0,57.0,0.74,76.38,56.0
+2024,2023-24,Wallace-Dothan,wallacecommunitycollegedothan,190,15.0,11.0,4.0,4.0,0.789,118.0,77.0,68.0,0.883,96.78,51.0
+2024,2023-24,Wallace-Selma,wallacecommunitycollegeselma,283,21.0,13.0,7.0,2.0,0.909,124.0,84.0,57.0,0.679,66.47,55.0
+2024,2023-24,Walters State,waltersstatecommunitycollege,307,19.0,13.0,6.0,1.0,0.95,97.0,80.0,54.0,0.675,103.74,63.0
 2024,2023-24,Weatherford,weatherfordcollege,231,16.0,12.0,4.0,6.0,0.727,108.0,64.0,52.0,0.812,99.68,52.0
-2024,2023-24,Westchester,westchestercommunitycollege,46,4.0,4.0,0.0,1.0,0.8,27.0,17.0,16.0,0.941,12.01,19.0
+2024,2023-24,Westchester,westchestercommunitycollege,48,4.0,4.0,0.0,1.0,0.8,27.0,17.0,16.0,0.941,12.01,19.0
 2024,2023-24,Western Nebraska,westernnebraskacommunitycollege,149,12.0,4.0,8.0,0.0,1.0,89.0,75.0,58.0,0.773,55.0,46.0
 2024,2023-24,Western Oklahoma State,westernoklahomastatecollege,195,4.0,7.0,4.0,1.0,0.917,106.0,72.0,64.0,0.889,66.23,39.0
 2024,2023-24,Western Tech,westerntechnicalcollege,25,2.0,0.0,0.0,0.0,,17.0,19.0,17.0,0.895,8.24,3.0
-2024,2023-24,Western Texas,westerntexascollege,190,0.0,5.0,8.0,2.0,0.867,126.0,100.0,75.0,0.75,96.1,52.0
+2024,2023-24,Western Texas,westerntexascollege,228,0.0,6.0,9.0,2.0,0.882,152.0,122.0,93.0,0.762,116.91,63.0
 2024,2023-24,Westmoreland,westmorelandcountycc,46,2.0,0.0,3.0,0.0,1.0,28.0,32.0,25.0,0.781,33.120000000000005,16.0
 2024,2023-24,Wharton County,whartoncountyjuniorcollege,262,17.0,12.0,5.0,4.0,0.81,124.0,78.0,63.0,0.808,97.28,59.0
-2024,2023-24,Williston State,willistonstatecollege,85,6.0,3.0,3.0,0.0,1.0,42.0,35.0,34.0,0.971,45.3,25.0
-2024,2023-24,Yavapai,yavapaicollege,283,18.0,8.0,10.0,3.0,0.857,146.0,136.0,124.0,0.912,166.79,95.0
+2024,2023-24,Williston State,willistonstatecollege,77,6.0,3.0,3.0,0.0,1.0,42.0,35.0,34.0,0.971,45.3,25.0
+2024,2023-24,Yavapai,yavapaicollege,283,18.0,8.0,10.0,3.0,0.857,145.0,136.0,119.0,0.875,168.3,95.0
