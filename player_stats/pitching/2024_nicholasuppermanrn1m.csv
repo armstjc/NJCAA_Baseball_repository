@@ -1,19 +1,5 @@
 date,location,opponent,result,score,team_score,opp_score,game_score_diff,game_win_loss,game_id,GS,W,L,SV,IP,H,R,ER,ERA,BB,K,HR,season,njcaa_season,njcaa_division,team,team_id,player_id,player_name
-Feb 27,home,Indian River State,L,10-0,10,0,10,win,20240227_prg0,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div1,Polk State,polkstatecollege,nicholasuppermanrn1m,Nicholas Upperman
-Feb 24,home,State College of Florida,W,3-2,3,2,1,win,20240224_mh3m,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div1,Polk State,polkstatecollege,nicholasuppermanrn1m,Nicholas Upperman
-Feb 22,home,State College of Florida,L,9-5,9,5,4,win,20240222_9rmh,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div1,Polk State,polkstatecollege,nicholasuppermanrn1m,Nicholas Upperman
-Feb 20,home,Webber International University (B),W,10-1,10,1,9,win,20240220_yoci,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div1,Polk State,polkstatecollege,nicholasuppermanrn1m,Nicholas Upperman
-Feb 16,home,Santa Fe,L,6-1,6,1,5,win,20240216_5k15,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div1,Polk State,polkstatecollege,nicholasuppermanrn1m,Nicholas Upperman
-Feb 15,home,Santa Fe,W,6-4,6,4,2,win,20240215_iltj,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div1,Polk State,polkstatecollege,nicholasuppermanrn1m,Nicholas Upperman
-Feb 10,home,Lake-Sumter State,W,15-6,15,6,9,win,20240210_p9tf,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div1,Polk State,polkstatecollege,nicholasuppermanrn1m,Nicholas Upperman
-Feb 10,home,Lake-Sumter State,L,6-2,6,2,4,win,20240210_6ydl,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div1,Polk State,polkstatecollege,nicholasuppermanrn1m,Nicholas Upperman
-Feb 8,home,Eastern Florida State,W,5-3,5,3,2,win,20240208_0sny,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div1,Polk State,polkstatecollege,nicholasuppermanrn1m,Nicholas Upperman
-Feb 7,home,South Florida State,W,12-4,12,4,8,win,20240207_jpms,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div1,Polk State,polkstatecollege,nicholasuppermanrn1m,Nicholas Upperman
-Feb 6,home,Webber International University (B),W,7-6,7,6,1,win,20240206_qfpe,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div1,Polk State,polkstatecollege,nicholasuppermanrn1m,Nicholas Upperman
-Feb 3,home,Pasco-Hernando State,L,3-1,3,1,2,win,20240203_8251,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div1,Polk State,polkstatecollege,nicholasuppermanrn1m,Nicholas Upperman
-Feb 2,home,Pasco-Hernando State,W,4-1,4,1,3,win,20240202_z18z,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div1,Polk State,polkstatecollege,nicholasuppermanrn1m,Nicholas Upperman
-Jan 31,home,Lake-Sumter State,W,2-0,2,0,2,win,20240131_nieq,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div1,Polk State,polkstatecollege,nicholasuppermanrn1m,Nicholas Upperman
-Jan 30,home,Hillsborough,L,6-5,6,5,1,win,20240130_8fha,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div1,Polk State,polkstatecollege,nicholasuppermanrn1m,Nicholas Upperman
-Jan 27,home,Palm Beach State,L,10-4,10,4,6,win,20240127_x1en,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div1,Polk State,polkstatecollege,nicholasuppermanrn1m,Nicholas Upperman
-Jan 27,home,South Florida State,L,6-3,6,3,3,win,20240127_219s,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div1,Polk State,polkstatecollege,nicholasuppermanrn1m,Nicholas Upperman
-Jan 26,home,Chipola,W,9-5,9,5,4,win,20240126_9cn7,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div1,Polk State,polkstatecollege,nicholasuppermanrn1m,Nicholas Upperman
+Feb 23,home,Hill,W,11-1,11,1,10,win,20240223_4xwi,1,1,0,0,5.0,0,0,0,0.00,1.00,5,9,2024,2023-24,div1,Polk State,polkstatecollege,nicholasuppermanrn1m,Nicholas Upperman
+Feb 18,home,Monroe College,L,13-1,13,1,12,win,20240218_z62s,1,0,1,0,5.1,8,6,5,8.44,2.06,3,5,2024,2023-24,div1,Polk State,polkstatecollege,nicholasuppermanrn1m,Nicholas Upperman
+Feb 9,home,Navarro,L,11-3,11,3,8,win,20240209_qyyr,1,0,1,0,2.1,2,6,3,11.57,3.43,6,2,2024,2023-24,div1,Polk State,polkstatecollege,nicholasuppermanrn1m,Nicholas Upperman
+Feb 4,home,Midland,W,6-2,6,2,4,win,20240204_nz1m,1,1,0,0,5.0,3,2,1,1.80,.80,1,8,2024,2023-24,div1,Polk State,polkstatecollege,nicholasuppermanrn1m,Nicholas Upperman
