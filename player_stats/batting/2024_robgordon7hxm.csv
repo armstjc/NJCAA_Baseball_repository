@@ -1,9 +1,18 @@
 date,location,opponent,result,score,team_score,opp_score,game_score_diff,game_win_loss,game_id,AB,R,H,2B,3B,HR,RBI,BB,K,SB,CS,HBP,SF,SH,TB,XBH,HDP,GO,FO,GO/FO,PA,season,njcaa_season,njcaa_division,team,team_id,player_id,player_name
-Feb 2,home,Miami Dade,W,4-1,4,1,3,win,20240202_ybp2,1,1,1,,,,2,,,1,1,,,,1,0,,,,,1,2024,2023-24,div1,Chipola,chipolacollege,robgordon7hxm,Rob Gordon
-Feb 3,home,Florence-Darlington Tech,W,2-1,2,1,1,win,20240203_nb3y,4,0,1,,,,0,,1,,,,,,1,0,,,,,4,2024,2023-24,div1,Chipola,chipolacollege,robgordon7hxm,Rob Gordon
-Feb 16,home,Columbia State,W,6-4,6,4,2,win,20240216_tsew,1,0,0,,,,0,,,,,,,,0,0,,,,,1,2024,2023-24,div1,Chipola,chipolacollege,robgordon7hxm,Rob Gordon
-Feb 24,home,Grand Rapids,W,10-0,10,0,10,win,20240224_ysr3,4,0,0,,,,1,1,,,,,,,0,0,1,2,2,1.00,5,2024,2023-24,div1,Chipola,chipolacollege,robgordon7hxm,Rob Gordon
-Feb 25,home,Grand Rapids,W,20-2,20,2,18,win,20240225_h5dz,0,1,0,,,,1,1,,,,,,,0,0,,,,,1,2024,2023-24,div1,Chipola,chipolacollege,robgordon7hxm,Rob Gordon
-Feb 25,home,Grand Rapids,W,12-2,12,2,10,win,20240225_1i1h,3,1,0,,,,2,1,2,1,,1,,,0,0,,1,,,5,2024,2023-24,div1,Chipola,chipolacollege,robgordon7hxm,Rob Gordon
-Feb 27,home,Coastal Alabama - South,W,18-2,18,2,16,win,20240227_awdi,1,0,0,,,,0,,1,,,,,,0,0,,,,,1,2024,2023-24,div1,Chipola,chipolacollege,robgordon7hxm,Rob Gordon
-Mar 3,home,Gordon State,W,11-0,11,0,11,win,20240303_gzbb,1,0,0,,,,1,1,1,1,,1,1,,0,0,,,,,4,2024,2023-24,div1,Chipola,chipolacollege,robgordon7hxm,Rob Gordon
+Jan 26,home,Central Florida,W,14-2,14,2,12,win,20240126_qj7w,3,3,2,,,1,1,,,,,,,,5,1,,,,,3,2024,2023-24,div1,Chipola,chipolacollege,robgordon7hxm,Rob Gordon
+Jan 27,home,Palm Beach State,W,9-5,9,5,4,win,20240127_hazc,3,1,0,,,,1,1,,,,1,,,0,0,,,,,5,2024,2023-24,div1,Chipola,chipolacollege,robgordon7hxm,Rob Gordon
+Feb 2,home,Miami Dade,W,4-1,4,1,3,win,20240202_ybp2,3,0,1,,,,0,,,,,,,,1,0,,,,,3,2024,2023-24,div1,Chipola,chipolacollege,robgordon7hxm,Rob Gordon
+Feb 3,home,Florence-Darlington Tech,W,2-1,2,1,1,win,20240203_nb3y,2,1,1,,,,0,1,,,,,,,1,0,,,,,3,2024,2023-24,div1,Chipola,chipolacollege,robgordon7hxm,Rob Gordon
+Feb 4,home,Florida SouthWestern State,W,9-5,9,5,4,win,20240204_vhmt,3,1,1,,,1,2,,1,,,,,1,4,1,,,,,4,2024,2023-24,div1,Chipola,chipolacollege,robgordon7hxm,Rob Gordon
+Feb 8,home,Southern Union State,W,10-0,10,0,10,win,20240208_9e76,4,0,1,,,,0,,1,,,,,,1,0,,,,,4,2024,2023-24,div1,Chipola,chipolacollege,robgordon7hxm,Rob Gordon
+Feb 10,home,Central Alabama,W,15-1,15,1,14,win,20240210_t6nq,4,2,2,,,,2,,,,,,,,2,0,,,,,4,2024,2023-24,div1,Chipola,chipolacollege,robgordon7hxm,Rob Gordon
+Feb 15,home,Columbia State,W,13-4,13,4,9,win,20240215_rv2d,0,2,0,,,,0,4,,,,1,,,0,0,,,,,5,2024,2023-24,div1,Chipola,chipolacollege,robgordon7hxm,Rob Gordon
+Feb 16,home,Columbia State,W,6-4,6,4,2,win,20240216_tsew,0,1,0,,,,0,,,1,,3,,,0,0,,,,,3,2024,2023-24,div1,Chipola,chipolacollege,robgordon7hxm,Rob Gordon
+Feb 16,home,Columbia State,W,5-2,5,2,3,win,20240216_a3a5,4,0,2,,,,1,,,,,,,,2,0,,,,,4,2024,2023-24,div1,Chipola,chipolacollege,robgordon7hxm,Rob Gordon
+Feb 24,home,Grand Rapids,W,13-3,13,3,10,win,20240224_3d7g,2,2,1,,,,1,2,,,,,,,1,0,,,,,4,2024,2023-24,div1,Chipola,chipolacollege,robgordon7hxm,Rob Gordon
+Feb 24,home,Grand Rapids,W,10-0,10,0,10,win,20240224_ysr3,3,2,1,,,,1,1,1,1,,,,,1,0,,,1,,4,2024,2023-24,div1,Chipola,chipolacollege,robgordon7hxm,Rob Gordon
+Feb 25,home,Grand Rapids,W,20-2,20,2,18,win,20240225_h5dz,0,2,0,,,,0,1,,,,2,,,0,0,,,,,3,2024,2023-24,div1,Chipola,chipolacollege,robgordon7hxm,Rob Gordon
+Feb 25,home,Grand Rapids,W,12-2,12,2,10,win,20240225_1i1h,0,0,0,,,,0,,,,,,,,0,0,,,,,0,2024,2023-24,div1,Chipola,chipolacollege,robgordon7hxm,Rob Gordon
+Feb 27,home,Coastal Alabama - South,W,18-2,18,2,16,win,20240227_awdi,3,2,1,1,,,1,2,,,,,,,2,1,,,,,5,2024,2023-24,div1,Chipola,chipolacollege,robgordon7hxm,Rob Gordon
+Mar 3,home,Gordon State,W,12-10,12,10,2,win,20240303_e9b2,5,0,1,,,,0,,2,,,,,,1,0,,,,,5,2024,2023-24,div1,Chipola,chipolacollege,robgordon7hxm,Rob Gordon
+Mar 3,home,Gordon State,W,11-0,11,0,11,win,20240303_gzbb,0,0,0,,,,0,,,,,,,,0,0,,,,,0,2024,2023-24,div1,Chipola,chipolacollege,robgordon7hxm,Rob Gordon
