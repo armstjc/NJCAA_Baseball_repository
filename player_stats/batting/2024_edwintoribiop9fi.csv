@@ -1,14 +1,16 @@
 date,location,opponent,result,score,team_score,opp_score,game_score_diff,game_win_loss,game_id,AB,R,H,2B,3B,HR,RBI,BB,K,SB,CS,HBP,SF,SH,TB,XBH,HDP,GO,FO,GO/FO,PA,season,njcaa_season,njcaa_division,team,team_id,player_id,player_name
-Jan 30,home,A3 Academy,W,8-0,8,0,8,win,20240130_59ha,3,1,0,,,,0,,1,,,1,,,0,0,,,,,4,2024,2023-24,div1,Central Florida,collegeofcentralflorida,edwintoribiop9fi,Edwin Toribio
-Feb 2,home,South Florida State,W,11-2,11,2,9,win,20240202_qsof,2,1,2,1,,1,3,,,,,1,,,6,2,,,,,3,2024,2023-24,div1,Central Florida,collegeofcentralflorida,edwintoribiop9fi,Edwin Toribio
-Feb 6,home,Rollins JV,W,14-3,14,3,11,win,20240206_y4ip,2,1,0,,,,0,2,,,,,,,0,0,,,,,4,2024,2023-24,div1,Central Florida,collegeofcentralflorida,edwintoribiop9fi,Edwin Toribio
-Feb 9,home,South Florida State,W,12-1,12,1,11,win,20240209_7205,4,1,1,,,1,3,,2,,,,,,4,1,,,,,4,2024,2023-24,div1,Central Florida,collegeofcentralflorida,edwintoribiop9fi,Edwin Toribio
-Feb 10,home,South Georgia State,W,3-2,3,2,1,win,20240210_hdp3,2,1,2,1,,1,2,1,,,,,,,6,2,,,,,3,2024,2023-24,div1,Central Florida,collegeofcentralflorida,edwintoribiop9fi,Edwin Toribio
-Feb 10,home,South Georgia State,W,14-4,14,4,10,win,20240210_qdz6,4,1,2,1,,,1,,,,,,,,3,1,,,,,4,2024,2023-24,div1,Central Florida,collegeofcentralflorida,edwintoribiop9fi,Edwin Toribio
-Feb 15,home,Miami Dade,W,9-4,9,4,5,win,20240215_vnbc,4,1,0,,,,0,1,1,,,,,,0,0,,,,,5,2024,2023-24,div1,Central Florida,collegeofcentralflorida,edwintoribiop9fi,Edwin Toribio
-Feb 17,home,Miami Dade,W,6-5,6,5,1,win,20240217_qh0y,4,1,2,,,,0,1,1,,,,,,2,0,,,,,5,2024,2023-24,div1,Central Florida,collegeofcentralflorida,edwintoribiop9fi,Edwin Toribio
-Feb 19,home,Tallahassee,W,11-2,11,2,9,win,20240219_e7nr,3,3,2,,,1,2,1,1,,,,,,5,1,,,,,4,2024,2023-24,div1,Central Florida,collegeofcentralflorida,edwintoribiop9fi,Edwin Toribio
-Feb 22,home,Eastern Florida State,W,13-12,13,12,1,win,20240222_xvhu,3,3,3,1,1,,4,2,,,1,,,,6,2,,,,,5,2024,2023-24,div1,Central Florida,collegeofcentralflorida,edwintoribiop9fi,Edwin Toribio
-Feb 27,home,Lincoln Land,W,9-1,9,1,8,win,20240227_nvxt,3,1,1,,,,1,,,,,2,,,1,0,,,,,5,2024,2023-24,div1,Central Florida,collegeofcentralflorida,edwintoribiop9fi,Edwin Toribio
-Feb 29,home,St. Petersburg,W,9-6,9,6,3,win,20240229_ukuo,5,0,3,,,,1,,1,,,,,,3,0,,,,,5,2024,2023-24,div1,Central Florida,collegeofcentralflorida,edwintoribiop9fi,Edwin Toribio
-Mar 1,home,St. Petersburg,W,11-1,11,1,10,win,20240301_dt8c,4,0,2,1,,,3,,,,,,,,3,1,,,,,4,2024,2023-24,div1,Central Florida,collegeofcentralflorida,edwintoribiop9fi,Edwin Toribio
+Jan 30,home,A3 Academy,W,8-0,8,0,8,win,20240130_59ha,3,1,1,1,,,0,1,,,,,,,2,1,,,,,4,2024,2023-24,div1,Central Florida,collegeofcentralflorida,edwintoribiop9fi,Edwin Toribio
+Feb 2,home,South Florida State,W,11-2,11,2,9,win,20240202_qsof,3,2,2,,,,0,1,,,,,,,2,0,,,,,4,2024,2023-24,div1,Central Florida,collegeofcentralflorida,edwintoribiop9fi,Edwin Toribio
+Feb 3,home,TNXL Academy,W,10-0,10,0,10,win,20240203_6d5w,3,1,2,2,,,2,1,,,,,,,4,2,,,,,4,2024,2023-24,div1,Central Florida,collegeofcentralflorida,edwintoribiop9fi,Edwin Toribio
+Feb 6,home,Rollins JV,W,14-3,14,3,11,win,20240206_y4ip,6,0,2,,,,0,,3,,,,,,2,0,,,,,6,2024,2023-24,div1,Central Florida,collegeofcentralflorida,edwintoribiop9fi,Edwin Toribio
+Feb 9,home,South Florida State,W,12-1,12,1,11,win,20240209_7205,3,2,1,,,1,2,1,,,,,,,4,1,,,,,4,2024,2023-24,div1,Central Florida,collegeofcentralflorida,edwintoribiop9fi,Edwin Toribio
+Feb 10,home,South Georgia State,W,3-2,3,2,1,win,20240210_hdp3,3,2,1,1,,,0,,,,,,,,2,1,,,,,3,2024,2023-24,div1,Central Florida,collegeofcentralflorida,edwintoribiop9fi,Edwin Toribio
+Feb 10,home,South Georgia State,W,14-4,14,4,10,win,20240210_qdz6,3,1,1,,,1,2,,,,,1,,,4,1,,,,,4,2024,2023-24,div1,Central Florida,collegeofcentralflorida,edwintoribiop9fi,Edwin Toribio
+Feb 15,home,Miami Dade,W,9-4,9,4,5,win,20240215_vnbc,4,1,2,2,,,0,1,2,,,,,,4,2,,,,,5,2024,2023-24,div1,Central Florida,collegeofcentralflorida,edwintoribiop9fi,Edwin Toribio
+Feb 17,home,Miami Dade,W,6-5,6,5,1,win,20240217_qh0y,5,0,0,,,,0,,2,,,,,,0,0,,,,,5,2024,2023-24,div1,Central Florida,collegeofcentralflorida,edwintoribiop9fi,Edwin Toribio
+Feb 19,home,Tallahassee,W,11-2,11,2,9,win,20240219_e7nr,4,2,1,,,,0,1,3,,,,,,1,0,,,,,5,2024,2023-24,div1,Central Florida,collegeofcentralflorida,edwintoribiop9fi,Edwin Toribio
+Feb 22,home,Eastern Florida State,W,13-12,13,12,1,win,20240222_xvhu,4,1,1,1,,,3,1,,,,,,,2,1,,,,,5,2024,2023-24,div1,Central Florida,collegeofcentralflorida,edwintoribiop9fi,Edwin Toribio
+Feb 27,home,Lincoln Land,W,9-1,9,1,8,win,20240227_nvxt,2,2,0,,,,0,2,1,,,,,,0,0,,,,,4,2024,2023-24,div1,Central Florida,collegeofcentralflorida,edwintoribiop9fi,Edwin Toribio
+Feb 29,home,St. Petersburg,W,9-6,9,6,3,win,20240229_ukuo,4,1,0,,,,0,,3,,,1,,,0,0,,,,,5,2024,2023-24,div1,Central Florida,collegeofcentralflorida,edwintoribiop9fi,Edwin Toribio
+Mar 1,home,St. Petersburg,W,11-1,11,1,10,win,20240301_dt8c,3,2,2,1,,1,2,,1,,,,,,6,2,,,,,3,2024,2023-24,div1,Central Florida,collegeofcentralflorida,edwintoribiop9fi,Edwin Toribio
+Mar 9,home,Seminole State (FL),W,7-6,7,6,1,win,20240309_mxxl,3,1,2,,,1,2,,,1,,,1,,5,1,,,,,4,2024,2023-24,div1,Central Florida,collegeofcentralflorida,edwintoribiop9fi,Edwin Toribio

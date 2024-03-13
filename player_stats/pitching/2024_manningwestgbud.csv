@@ -1,8 +1,21 @@
 date,location,opponent,result,score,team_score,opp_score,game_score_diff,game_win_loss,game_id,GS,W,L,SV,IP,H,R,ER,ERA,BB,K,HR,season,njcaa_season,njcaa_division,team,team_id,player_id,player_name
-Mar 9,home,Motlow State,W,11-1,11,1,10,win,20240309_sq1z,1,1,0,0,4.0,6,1,1,2.25,2.50,4,4,2024,2023-24,div1,Walters State,waltersstatecommunitycollege,manningwestgbud,Manning West
-Mar 3,home,Columbia State,L,12-11,12,11,1,win,20240303_0afb,1,0,0,0,5.0,3,2,0,0.00,1.00,2,5,2024,2023-24,div1,Walters State,waltersstatecommunitycollege,manningwestgbud,Manning West
-Feb 24,home,Highland (IL),W,11-1,11,1,10,win,20240224_fjvm,1,1,0,0,4.0,3,1,0,0.00,.75,0,6,2024,2023-24,div1,Walters State,waltersstatecommunitycollege,manningwestgbud,Manning West
-Feb 18,home,Georgia Highlands,W,4-1,4,1,3,win,20240218_vabg,1,1,0,0,5.0,2,1,1,1.80,1.20,4,6,2024,2023-24,div1,Walters State,waltersstatecommunitycollege,manningwestgbud,Manning West
-Feb 10,home,Chipola,W,13-4,13,4,9,win,20240210_06dv,1,0,0,0,3.0,3,3,3,9.00,1.67,2,4,2024,2023-24,div1,Walters State,waltersstatecommunitycollege,manningwestgbud,Manning West
-Feb 3,home,Gaston College,W,7-6,7,6,1,win,20240203_rhz7,1,0,0,0,3.0,1,0,0,0.00,.33,0,5,2024,2023-24,div1,Walters State,waltersstatecommunitycollege,manningwestgbud,Manning West
-Jan 28,home,USC Salkehatchie,W,13-6,13,6,7,win,20240128_ctdj,0,0,0,0,1.0,1,1,1,9.00,3.00,2,2,2024,2023-24,div1,Walters State,waltersstatecommunitycollege,manningwestgbud,Manning West
+Mar 9,home,Motlow State,W,11-1,11,1,10,win,20240309_sq1z,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div1,Walters State,waltersstatecommunitycollege,manningwestgbud,Manning West
+Mar 8,home,Motlow State,W,10-4,10,4,6,win,20240308_gjoq,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div1,Walters State,waltersstatecommunitycollege,manningwestgbud,Manning West
+Mar 8,home,Motlow State,W,11-2,11,2,9,win,20240308_rdf4,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div1,Walters State,waltersstatecommunitycollege,manningwestgbud,Manning West
+Mar 3,home,Columbia State,W,8-1,8,1,7,win,20240303_max9,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div1,Walters State,waltersstatecommunitycollege,manningwestgbud,Manning West
+Mar 3,home,Columbia State,L,12-11,12,11,1,win,20240303_0afb,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div1,Walters State,waltersstatecommunitycollege,manningwestgbud,Manning West
+Mar 2,home,Columbia State,L,8-7,8,7,1,win,20240302_3dnr,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div1,Walters State,waltersstatecommunitycollege,manningwestgbud,Manning West
+Feb 27,home,USC Union,W,12-0,12,0,12,win,20240227_zskv,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div1,Walters State,waltersstatecommunitycollege,manningwestgbud,Manning West
+Feb 27,home,USC Union,W,6-1,6,1,5,win,20240227_tsrr,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div1,Walters State,waltersstatecommunitycollege,manningwestgbud,Manning West
+Feb 24,home,Highland (IL),W,17-4,17,4,13,win,20240224_91hc,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div1,Walters State,waltersstatecommunitycollege,manningwestgbud,Manning West
+Feb 21,home,Cleveland,W,8-7,8,7,1,win,20240221_1m68,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div1,Walters State,waltersstatecommunitycollege,manningwestgbud,Manning West
+Feb 18,home,Georgia Highlands,W,4-1,4,1,3,win,20240218_vabg,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div1,Walters State,waltersstatecommunitycollege,manningwestgbud,Manning West
+Feb 16,home,Georgia Highlands,L,3-0,3,0,3,win,20240216_hys4,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div1,Walters State,waltersstatecommunitycollege,manningwestgbud,Manning West
+Feb 10,home,Chipola,W,13-4,13,4,9,win,20240210_06dv,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div1,Walters State,waltersstatecommunitycollege,manningwestgbud,Manning West
+Feb 10,home,Southern Union State,L,10-0,10,0,10,win,20240210_qgri,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div1,Walters State,waltersstatecommunitycollege,manningwestgbud,Manning West
+Feb 9,home,Gulf Coast State,W,8-3,8,3,5,win,20240209_e3gd,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div1,Walters State,waltersstatecommunitycollege,manningwestgbud,Manning West
+Feb 9,home,Chipola,W,10-0,10,0,10,win,20240209_zfv5,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div1,Walters State,waltersstatecommunitycollege,manningwestgbud,Manning West
+Feb 3,home,Gaston College,L,9-3,9,3,6,win,20240203_th01,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div1,Walters State,waltersstatecommunitycollege,manningwestgbud,Manning West
+Feb 2,home,Gaston College,L,3-2,3,2,1,win,20240202_ic0h,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div1,Walters State,waltersstatecommunitycollege,manningwestgbud,Manning West
+Jan 28,home,USC Salkehatchie,W,13-6,13,6,7,win,20240128_ctdj,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div1,Walters State,waltersstatecommunitycollege,manningwestgbud,Manning West
+Jan 28,home,USC Salkehatchie,W,22-5,22,5,17,win,20240128_ewe8,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div1,Walters State,waltersstatecommunitycollege,manningwestgbud,Manning West
