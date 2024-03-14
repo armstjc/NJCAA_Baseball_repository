@@ -1,19 +1,10 @@
 date,location,opponent,result,score,team_score,opp_score,game_score_diff,game_win_loss,game_id,TC,PO,A,E,FPCT,DP,SBA,RCS,RCS_PCT,PB,CI,season,njcaa_season,njcaa_division,team,team_id,player_id,player_name
-Jan 26,home,Paradise Valley,W,6-3,6,3,3,win,20240126_palw,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Pima,pimacommunitycollege,auggierichie01bd,Auggie Richie
-Jan 26,home,Paradise Valley,W,6-0,6,0,6,win,20240126_nbav,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Pima,pimacommunitycollege,auggierichie01bd,Auggie Richie
-Jan 27,home,Paradise Valley,L,7-6,7,6,1,win,20240127_ff6d,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Pima,pimacommunitycollege,auggierichie01bd,Auggie Richie
-Jan 27,home,Paradise Valley,L,9-4,9,4,5,win,20240127_widw,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Pima,pimacommunitycollege,auggierichie01bd,Auggie Richie
-Feb 3,home,New Mexico,W,6-0,6,0,6,win,20240203_xden,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Pima,pimacommunitycollege,auggierichie01bd,Auggie Richie
-Feb 4,home,Trinidad State,W,15-0,15,0,15,win,20240204_nynb,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Pima,pimacommunitycollege,auggierichie01bd,Auggie Richie
-Feb 9,home,Luna,W,15-0,15,0,15,win,20240209_a2u5,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Pima,pimacommunitycollege,auggierichie01bd,Auggie Richie
-Feb 9,home,Luna,W,11-1,11,1,10,win,20240209_bjc9,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Pima,pimacommunitycollege,auggierichie01bd,Auggie Richie
-Feb 13,home,California Miramar University,W,5-0,5,0,5,win,20240213_ji3u,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Pima,pimacommunitycollege,auggierichie01bd,Auggie Richie
-Feb 13,home,California Miramar University,W,10-0,10,0,10,win,20240213_0jas,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Pima,pimacommunitycollege,auggierichie01bd,Auggie Richie
-Feb 17,home,Yavapai,W,2-1,2,1,1,win,20240217_ehx8,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Pima,pimacommunitycollege,auggierichie01bd,Auggie Richie
-Feb 20,home,Arizona Christian University,W,7-2,7,2,5,win,20240220_yfhl,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Pima,pimacommunitycollege,auggierichie01bd,Auggie Richie
-Feb 24,home,Cochise,L,3-0,3,0,3,win,20240224_98x5,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Pima,pimacommunitycollege,auggierichie01bd,Auggie Richie
-Feb 27,home,Arizona Western,L,4-3,4,3,1,win,20240227_3saq,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Pima,pimacommunitycollege,auggierichie01bd,Auggie Richie
-Mar 5,home,Paradise Valley,W,5-1,5,1,4,win,20240305_64lh,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Pima,pimacommunitycollege,auggierichie01bd,Auggie Richie
+Jan 27,home,Paradise Valley,L,9-4,9,4,5,win,20240127_widw,0,0,0,0,2.1,1,,,0.00,.86,1,2024,2023-24,div1,Pima,pimacommunitycollege,auggierichie01bd,Auggie Richie
+Feb 4,home,Trinidad State,W,15-0,15,0,15,win,20240204_nynb,1,1,0,0,5.0,2,0,0,0.00,.80,2,2024,2023-24,div1,Pima,pimacommunitycollege,auggierichie01bd,Auggie Richie
+Feb 9,home,Luna,W,11-1,11,1,10,win,20240209_bjc9,1,1,0,0,3.0,2,0,0,0.00,.67,0,2024,2023-24,div1,Pima,pimacommunitycollege,auggierichie01bd,Auggie Richie
+Feb 13,home,California Miramar University,W,10-0,10,0,10,win,20240213_0jas,0,0,0,0,0.1,,,,0.00,,,2024,2023-24,div1,Pima,pimacommunitycollege,auggierichie01bd,Auggie Richie
+Feb 17,home,Yavapai,W,3-0,3,0,3,win,20240217_8zkd,0,0,0,1,2.0,2,,,0.00,1.00,,2024,2023-24,div1,Pima,pimacommunitycollege,auggierichie01bd,Auggie Richie
+Feb 20,home,Arizona Christian University,W,7-2,7,2,5,win,20240220_yfhl,0,0,0,0,2.0,3,,,0.00,1.50,,2024,2023-24,div1,Pima,pimacommunitycollege,auggierichie01bd,Auggie Richie
+Feb 24,home,Cochise,L,11-6,11,6,5,win,20240224_i4gb,0,0,0,0,1.0,2,2,2,18.00,4.00,2,2024,2023-24,div1,Pima,pimacommunitycollege,auggierichie01bd,Auggie Richie
+Feb 27,home,Arizona Western,L,4-3,4,3,1,win,20240227_3saq,0,0,1,0,0.2,3,2,2,27.00,4.50,,2024,2023-24,div1,Pima,pimacommunitycollege,auggierichie01bd,Auggie Richie
 Mar 5,home,Paradise Valley,L,5-4,5,4,1,win,20240305_hu6l,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Pima,pimacommunitycollege,auggierichie01bd,Auggie Richie
-Mar 9,home,Mesa,W,10-0,10,0,10,win,20240309_qx0d,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Pima,pimacommunitycollege,auggierichie01bd,Auggie Richie
-Mar 9,home,Mesa,W,7-2,7,2,5,win,20240309_010b,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Pima,pimacommunitycollege,auggierichie01bd,Auggie Richie
