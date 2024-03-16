@@ -1,17 +1,10 @@
 date,location,opponent,result,score,team_score,opp_score,game_score_diff,game_win_loss,game_id,GS,W,L,SV,IP,H,R,ER,ERA,BB,K,HR,season,njcaa_season,njcaa_division,team,team_id,player_id,player_name
-Mar 11,home,Joliet,W,15-5,15,5,10,win,20240311_4o3f,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div1,Angelina,angelinacollege,samnitzkew4v2,Sam Nitzke
-Mar 9,home,Paris,L,9-3,9,3,6,win,20240309_hsl6,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div1,Angelina,angelinacollege,samnitzkew4v2,Sam Nitzke
-Mar 9,home,Paris,L,8-7,8,7,1,win,20240309_ckqr,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div1,Angelina,angelinacollege,samnitzkew4v2,Sam Nitzke
-Mar 6,home,Tyler,W,11-3,11,3,8,win,20240306_ns9u,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div1,Angelina,angelinacollege,samnitzkew4v2,Sam Nitzke
-Mar 6,home,Tyler,L,15-5,15,5,10,win,20240306_h161,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div1,Angelina,angelinacollege,samnitzkew4v2,Sam Nitzke
-Mar 2,home,Panola,W,17-7,17,7,10,win,20240302_ayf1,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div1,Angelina,angelinacollege,samnitzkew4v2,Sam Nitzke
-Mar 2,home,Panola,W,7-5,7,5,2,win,20240302_shu7,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div1,Angelina,angelinacollege,samnitzkew4v2,Sam Nitzke
-Feb 28,home,Navarro,L,10-1,10,1,9,win,20240228_120h,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div1,Angelina,angelinacollege,samnitzkew4v2,Sam Nitzke
-Feb 28,home,Navarro,W,9-3,9,3,6,win,20240228_ud0u,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div1,Angelina,angelinacollege,samnitzkew4v2,Sam Nitzke
-Feb 24,home,Dallas College - Eastfield,W,8-3,8,3,5,win,20240224_egj0,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div1,Angelina,angelinacollege,samnitzkew4v2,Sam Nitzke
-Feb 24,home,Dallas College - Eastfield,W,14-4,14,4,10,win,20240224_38eb,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div1,Angelina,angelinacollege,samnitzkew4v2,Sam Nitzke
-Feb 21,home,Alvin,L,10-9,10,9,1,win,20240221_0fj0,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div1,Angelina,angelinacollege,samnitzkew4v2,Sam Nitzke
-Feb 21,home,Alvin,W,5-3,5,3,2,win,20240221_5hp5,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div1,Angelina,angelinacollege,samnitzkew4v2,Sam Nitzke
-Feb 17,home,Temple,L,13-0,13,0,13,win,20240217_lfvu,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div1,Angelina,angelinacollege,samnitzkew4v2,Sam Nitzke
-Jan 30,home,Galveston,L,5-4,5,4,1,win,20240130_in4s,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div1,Angelina,angelinacollege,samnitzkew4v2,Sam Nitzke
-Jan 28,home,Galveston,W,10-4,10,4,6,win,20240128_fzdu,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div1,Angelina,angelinacollege,samnitzkew4v2,Sam Nitzke
+Mar 11,home,Joliet,W,15-5,15,5,10,win,20240311_4o3f,0,0,0,0,2.0,2,,,0.00,1.50,1,4,2024,2023-24,div1,Angelina,angelinacollege,samnitzkew4v2,Sam Nitzke
+Mar 6,home,Tyler,L,15-5,15,5,10,win,20240306_h161,0,0,0,0,0.1,1,2,2,54.00,6.00,1,,2024,2023-24,div1,Angelina,angelinacollege,samnitzkew4v2,Sam Nitzke
+Feb 28,home,Navarro,L,10-1,10,1,9,win,20240228_120h,0,0,0,0,0.2,,3,,0.00,1.50,1,1,2024,2023-24,div1,Angelina,angelinacollege,samnitzkew4v2,Sam Nitzke
+Feb 24,home,Dallas College - Eastfield,W,8-3,8,3,5,win,20240224_egj0,0,0,0,0,2.0,4,2,2,9.00,2.50,1,2,2024,2023-24,div1,Angelina,angelinacollege,samnitzkew4v2,Sam Nitzke
+Feb 21,home,Alvin,W,5-3,5,3,2,win,20240221_5hp5,0,1,0,0,1.0,,,,0.00,,,,2024,2023-24,div1,Angelina,angelinacollege,samnitzkew4v2,Sam Nitzke
+Feb 17,home,Temple,L,8-6,8,6,2,win,20240217_xw92,0,0,0,0,2.1,,,,0.00,,,5,2024,2023-24,div1,Angelina,angelinacollege,samnitzkew4v2,Sam Nitzke
+Feb 14,home,Alvin,L,11-6,11,6,5,win,20240214_1gvd,0,0,0,0,2.0,3,3,,0.00,1.50,,1,2024,2023-24,div1,Angelina,angelinacollege,samnitzkew4v2,Sam Nitzke
+Feb 9,home,Temple,L,10-3,10,3,7,win,20240209_bf6c,0,0,0,0,1.1,6,6,6,40.50,5.25,1,1,2024,2023-24,div1,Angelina,angelinacollege,samnitzkew4v2,Sam Nitzke
+Jan 28,home,Galveston,W,7-6,7,6,1,win,20240128_7cog,0,0,0,0,2.0,,1,1,4.50,.50,1,3,2024,2023-24,div1,Angelina,angelinacollege,samnitzkew4v2,Sam Nitzke

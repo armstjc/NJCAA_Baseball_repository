@@ -1,17 +1,11 @@
 date,location,opponent,result,score,team_score,opp_score,game_score_diff,game_win_loss,game_id,AB,R,H,2B,3B,HR,RBI,BB,K,SB,CS,HBP,SF,SH,TB,XBH,HDP,GO,FO,GO/FO,PA,season,njcaa_season,njcaa_division,team,team_id,player_id,player_name
-Jan 27,home,Northeast Texas,W,7-3,7,3,4,win,20240127_cl6c,2,1,1,,,,2,1,,,,,,,1,0,,,,,3,2024,2023-24,div1,Weatherford,weatherfordcollege,loukadaoust9kjd,Louka Daoust
-Feb 2,home,Lamar,W,6-0,6,0,6,win,20240202_c6mf,0,0,0,,,,0,1,,,,,,,0,0,,,,,1,2024,2023-24,div1,Weatherford,weatherfordcollege,loukadaoust9kjd,Louka Daoust
-Feb 2,home,Lamar,W,30-0,30,0,30,win,20240202_4c65,2,2,2,,,,1,,,,,,,,2,0,,,,,2,2024,2023-24,div1,Weatherford,weatherfordcollege,loukadaoust9kjd,Louka Daoust
-Feb 3,home,Lamar,W,16-2,16,2,14,win,20240203_vye2,2,2,1,,,,1,1,,,,,1,,1,0,,,,,4,2024,2023-24,div1,Weatherford,weatherfordcollege,loukadaoust9kjd,Louka Daoust
-Feb 13,home,Blinn,W,9-5,9,5,4,win,20240213_ko5p,3,2,2,,,1,1,1,,,,,,,5,1,,,,,4,2024,2023-24,div1,Weatherford,weatherfordcollege,loukadaoust9kjd,Louka Daoust
-Feb 17,home,Frank Phillips,W,7-1,7,1,6,win,20240217_tu65,3,1,3,1,,,0,,,,,,,,4,1,,,,,3,2024,2023-24,div1,Weatherford,weatherfordcollege,loukadaoust9kjd,Louka Daoust
-Feb 17,home,Frank Phillips,W,10-1,10,1,9,win,20240217_mrzh,3,1,0,,,,0,1,,,,,,,0,0,,,,,4,2024,2023-24,div1,Weatherford,weatherfordcollege,loukadaoust9kjd,Louka Daoust
-Feb 23,home,Odessa,W,10-3,10,3,7,win,20240223_vu1i,3,0,1,,,,1,1,,,,,,,1,0,,,,,4,2024,2023-24,div1,Weatherford,weatherfordcollege,loukadaoust9kjd,Louka Daoust
-Feb 24,home,Odessa,W,6-3,6,3,3,win,20240224_lnir,2,0,1,1,,,1,1,,,,,,,2,1,,,,,3,2024,2023-24,div1,Weatherford,weatherfordcollege,loukadaoust9kjd,Louka Daoust
-Feb 24,home,Odessa,W,3-2,3,2,1,win,20240224_1swx,2,0,0,,,,1,1,,,,,,,0,0,,,,,3,2024,2023-24,div1,Weatherford,weatherfordcollege,loukadaoust9kjd,Louka Daoust
-Mar 1,home,New Mexico Military,W,8-1,8,1,7,win,20240301_7ocw,4,1,2,,,,1,,,1,,,,,2,0,,,,,4,2024,2023-24,div1,Weatherford,weatherfordcollege,loukadaoust9kjd,Louka Daoust
-Mar 1,home,New Mexico Military,W,6-2,6,2,4,win,20240301_yvfj,3,1,2,,,,1,1,1,1,,,,,2,0,,,,,4,2024,2023-24,div1,Weatherford,weatherfordcollege,loukadaoust9kjd,Louka Daoust
-Mar 2,home,New Mexico Military,W,10-0,10,0,10,win,20240302_lw24,2,1,1,,,,1,2,,2,,,,,1,0,,,,,4,2024,2023-24,div1,Weatherford,weatherfordcollege,loukadaoust9kjd,Louka Daoust
-Mar 2,home,New Mexico Military,W,5-1,5,1,4,win,20240302_du1j,2,1,1,,,1,2,1,,,1,,,,4,1,,,,,3,2024,2023-24,div1,Weatherford,weatherfordcollege,loukadaoust9kjd,Louka Daoust
-Mar 4,home,TCS Post Grad,W,10-0,10,0,10,win,20240304_9xsv,2,2,2,,,1,2,1,,,,,,,5,1,,,,,3,2024,2023-24,div1,Weatherford,weatherfordcollege,loukadaoust9kjd,Louka Daoust
-Mar 4,home,TCS Post Grad,W,14-4,14,4,10,win,20240304_wcla,4,2,3,2,,,2,,1,1,,,,,5,2,,,,,4,2024,2023-24,div1,Weatherford,weatherfordcollege,loukadaoust9kjd,Louka Daoust
+Jan 27,home,Northeast Texas,W,7-3,7,3,4,win,20240127_cl6c,2,1,1,1,,,0,1,,,,,,,2,1,,,,,3,2024,2023-24,div1,Weatherford,weatherfordcollege,loukadaoust9kjd,Louka Daoust
+Feb 2,home,Lamar,W,30-0,30,0,30,win,20240202_4c65,1,1,1,1,,,0,1,,,,,,,2,1,,,,,2,2024,2023-24,div1,Weatherford,weatherfordcollege,loukadaoust9kjd,Louka Daoust
+Feb 3,home,Lamar,W,16-2,16,2,14,win,20240203_vye2,3,0,1,,,,2,,,,,,1,,1,0,,,,,4,2024,2023-24,div1,Weatherford,weatherfordcollege,loukadaoust9kjd,Louka Daoust
+Feb 3,home,Lamar,W,9-6,9,6,3,win,20240203_lqjj,3,1,2,,,,0,1,,,,,,,2,0,,,,,4,2024,2023-24,div1,Weatherford,weatherfordcollege,loukadaoust9kjd,Louka Daoust
+Feb 9,home,Tyler,W,9-7,9,7,2,win,20240209_y1mh,1,0,0,,,,0,,,,,,,,0,0,,,1,,1,2024,2023-24,div1,Weatherford,weatherfordcollege,loukadaoust9kjd,Louka Daoust
+Feb 13,home,Blinn,W,9-5,9,5,4,win,20240213_ko5p,2,1,1,,,,0,1,,,,,,,1,0,,,,,3,2024,2023-24,div1,Weatherford,weatherfordcollege,loukadaoust9kjd,Louka Daoust
+Feb 17,home,Frank Phillips,W,7-1,7,1,6,win,20240217_tu65,1,0,0,,,,0,,,,,,,,0,0,,,,,1,2024,2023-24,div1,Weatherford,weatherfordcollege,loukadaoust9kjd,Louka Daoust
+Feb 23,home,Odessa,W,10-3,10,3,7,win,20240223_vu1i,1,0,0,,,,1,1,1,,,,,,0,0,,,,,2,2024,2023-24,div1,Weatherford,weatherfordcollege,loukadaoust9kjd,Louka Daoust
+Mar 2,home,New Mexico Military,W,5-1,5,1,4,win,20240302_du1j,3,0,1,,,,1,,,,,,1,,1,0,,,,,4,2024,2023-24,div1,Weatherford,weatherfordcollege,loukadaoust9kjd,Louka Daoust
+Mar 4,home,TCS Post Grad,W,10-0,10,0,10,win,20240304_9xsv,3,0,1,,,,2,,,,,,,,1,0,,,,,3,2024,2023-24,div1,Weatherford,weatherfordcollege,loukadaoust9kjd,Louka Daoust

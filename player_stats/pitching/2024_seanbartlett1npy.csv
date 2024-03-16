@@ -1,14 +1,4 @@
 date,location,opponent,result,score,team_score,opp_score,game_score_diff,game_win_loss,game_id,GS,W,L,SV,IP,H,R,ER,ERA,BB,K,HR,season,njcaa_season,njcaa_division,team,team_id,player_id,player_name
-Mar 8,home,Northern Essex,W,11-0,11,0,11,win,20240308_z5w7,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div2,Lansing,lansingcommunitycollege,seanbartlett1npy,Sean Bartlett
-Mar 8,home,Northern Essex,W,14-6,14,6,8,win,20240308_8tha,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div2,Lansing,lansingcommunitycollege,seanbartlett1npy,Sean Bartlett
-Mar 7,home,Genesee,W,25-3,25,3,22,win,20240307_6fcz,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div2,Lansing,lansingcommunitycollege,seanbartlett1npy,Sean Bartlett
-Mar 6,home,Erie,W,8-1,8,1,7,win,20240306_8v86,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div2,Lansing,lansingcommunitycollege,seanbartlett1npy,Sean Bartlett
-Mar 5,home,North Dakota SCS,W,5-3,5,3,2,win,20240305_cmg8,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div2,Lansing,lansingcommunitycollege,seanbartlett1npy,Sean Bartlett
-Mar 2,home,Meridian,L,11-1,11,1,10,win,20240302_mj2p,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div2,Lansing,lansingcommunitycollege,seanbartlett1npy,Sean Bartlett
-Mar 2,home,Meridian,L,5-4,5,4,1,win,20240302_j5mj,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div2,Lansing,lansingcommunitycollege,seanbartlett1npy,Sean Bartlett
-Mar 1,home,Southwest Mississippi,W,6-4,6,4,2,win,20240301_6yf0,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div2,Lansing,lansingcommunitycollege,seanbartlett1npy,Sean Bartlett
-Mar 1,home,Southwest Mississippi,L,6-0,6,0,6,win,20240301_8daj,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div2,Lansing,lansingcommunitycollege,seanbartlett1npy,Sean Bartlett
-Feb 29,home,Mississippi Gulf Coast,L,13-7,13,7,6,win,20240229_l0tz,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div2,Lansing,lansingcommunitycollege,seanbartlett1npy,Sean Bartlett
-Feb 18,home,Guilford Tech,W,14-6,14,6,8,win,20240218_p5uk,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div2,Lansing,lansingcommunitycollege,seanbartlett1npy,Sean Bartlett
-Feb 17,home,Guilford Tech,W,6-2,6,2,4,win,20240217_x5tr,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div2,Lansing,lansingcommunitycollege,seanbartlett1npy,Sean Bartlett
-Feb 17,home,Guilford Tech,L,9-8,9,8,1,win,20240217_htvk,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div2,Lansing,lansingcommunitycollege,seanbartlett1npy,Sean Bartlett
+Mar 8,home,Northern Essex,W,14-6,14,6,8,win,20240308_8tha,0,0,0,0,2.0,3,3,1,4.50,2.00,1,3,2024,2023-24,div2,Lansing,lansingcommunitycollege,seanbartlett1npy,Sean Bartlett
+Mar 3,home,East Central (MS),L,10-6,10,6,4,win,20240303_pcd2,0,0,0,0,3.1,4,3,1,2.70,1.20,,4,2024,2023-24,div2,Lansing,lansingcommunitycollege,seanbartlett1npy,Sean Bartlett
+Mar 1,home,Southwest Mississippi,L,6-0,6,0,6,win,20240301_8daj,0,0,0,0,2.1,1,1,,0.00,1.29,2,3,2024,2023-24,div2,Lansing,lansingcommunitycollege,seanbartlett1npy,Sean Bartlett
