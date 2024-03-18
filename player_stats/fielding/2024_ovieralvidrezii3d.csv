@@ -1,20 +1,7 @@
 date,location,opponent,result,score,team_score,opp_score,game_score_diff,game_win_loss,game_id,TC,PO,A,E,FPCT,DP,SBA,RCS,RCS_PCT,PB,CI,season,njcaa_season,njcaa_division,team,team_id,player_id,player_name
-Jan 27,home,Northeastern,W,10-7,10,7,3,win,20240127_7twm,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,New Mexico Military,newmexicomilitaryinstitute,ovieralvidrezii3d,Ovier Alvidrez
-Jan 27,home,Garden City,W,14-10,14,10,4,win,20240127_9zks,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,New Mexico Military,newmexicomilitaryinstitute,ovieralvidrezii3d,Ovier Alvidrez
-Jan 28,home,New Mexico,L,12-4,12,4,8,win,20240128_r73g,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,New Mexico Military,newmexicomilitaryinstitute,ovieralvidrezii3d,Ovier Alvidrez
-Feb 3,home,Luna,W,9-7,9,7,2,win,20240203_geek,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,New Mexico Military,newmexicomilitaryinstitute,ovieralvidrezii3d,Ovier Alvidrez
-Feb 3,home,Luna,W,15-7,15,7,8,win,20240203_3et9,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,New Mexico Military,newmexicomilitaryinstitute,ovieralvidrezii3d,Ovier Alvidrez
-Feb 4,home,Luna,W,4-3,4,3,1,win,20240204_u2dx,0,1,0,0,4.0,2,,,0.00,1.50,4,2024,2023-24,div1,New Mexico Military,newmexicomilitaryinstitute,ovieralvidrezii3d,Ovier Alvidrez
-Feb 4,home,Luna,W,9-1,9,1,8,win,20240204_c7xp,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,New Mexico Military,newmexicomilitaryinstitute,ovieralvidrezii3d,Ovier Alvidrez
-Feb 9,home,Western Nebraska,W,4-3,4,3,1,win,20240209_lbu0,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,New Mexico Military,newmexicomilitaryinstitute,ovieralvidrezii3d,Ovier Alvidrez
-Feb 10,home,Western Nebraska,W,11-10,11,10,1,win,20240210_zvcy,1,1,0,0,4.0,1,2,2,4.50,1.00,3,2024,2023-24,div1,New Mexico Military,newmexicomilitaryinstitute,ovieralvidrezii3d,Ovier Alvidrez
-Feb 24,home,Otero,L,5-4,5,4,1,win,20240224_yx5v,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,New Mexico Military,newmexicomilitaryinstitute,ovieralvidrezii3d,Ovier Alvidrez
-Feb 24,home,Otero,L,17-9,17,9,8,win,20240224_3in3,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,New Mexico Military,newmexicomilitaryinstitute,ovieralvidrezii3d,Ovier Alvidrez
-Feb 25,home,Otero,W,9-1,9,1,8,win,20240225_k8tl,1,1,0,0,5.1,3,1,1,1.69,1.13,3,2024,2023-24,div1,New Mexico Military,newmexicomilitaryinstitute,ovieralvidrezii3d,Ovier Alvidrez
-Mar 1,home,Weatherford,L,8-1,8,1,7,win,20240301_7ocw,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,New Mexico Military,newmexicomilitaryinstitute,ovieralvidrezii3d,Ovier Alvidrez
-Mar 1,home,Weatherford,L,6-2,6,2,4,win,20240301_yvfj,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,New Mexico Military,newmexicomilitaryinstitute,ovieralvidrezii3d,Ovier Alvidrez
-Mar 2,home,Weatherford,L,5-1,5,1,4,win,20240302_du1j,1,0,1,0,5.0,4,2,2,3.60,1.20,2,2024,2023-24,div1,New Mexico Military,newmexicomilitaryinstitute,ovieralvidrezii3d,Ovier Alvidrez
-Mar 8,home,New Mexico,L,7-6,7,6,1,win,20240308_4he7,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,New Mexico Military,newmexicomilitaryinstitute,ovieralvidrezii3d,Ovier Alvidrez
-Mar 8,home,New Mexico,W,10-8,10,8,2,win,20240308_lsqc,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,New Mexico Military,newmexicomilitaryinstitute,ovieralvidrezii3d,Ovier Alvidrez
-Mar 9,home,New Mexico,W,4-3,4,3,1,win,20240309_xuc4,1,1,0,0,6.0,7,3,3,4.50,1.67,3,2024,2023-24,div1,New Mexico Military,newmexicomilitaryinstitute,ovieralvidrezii3d,Ovier Alvidrez
-Mar 9,home,New Mexico,L,8-6,8,6,2,win,20240309_wthd,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,New Mexico Military,newmexicomilitaryinstitute,ovieralvidrezii3d,Ovier Alvidrez
+Jan 27,home,Garden City,W,14-10,14,10,4,win,20240127_9zks,1,0,0,0,3.2,3,3,3,7.36,1.64,3,2024,2023-24,div1,New Mexico Military,newmexicomilitaryinstitute,ovieralvidrezii3d,Ovier Alvidrez
+Feb 3,home,Luna,W,15-7,15,7,8,win,20240203_3et9,1,1,0,0,4.0,4,5,3,6.75,2.00,4,2024,2023-24,div1,New Mexico Military,newmexicomilitaryinstitute,ovieralvidrezii3d,Ovier Alvidrez
+Feb 9,home,Western Nebraska,W,4-3,4,3,1,win,20240209_lbu0,1,1,0,0,5.1,4,3,2,3.38,.94,1,2024,2023-24,div1,New Mexico Military,newmexicomilitaryinstitute,ovieralvidrezii3d,Ovier Alvidrez
+Feb 24,home,Otero,L,5-4,5,4,1,win,20240224_yx5v,1,0,1,0,4.1,5,5,5,10.38,2.08,4,2024,2023-24,div1,New Mexico Military,newmexicomilitaryinstitute,ovieralvidrezii3d,Ovier Alvidrez
+Mar 1,home,Weatherford,L,8-1,8,1,7,win,20240301_7ocw,1,0,1,0,4.2,10,5,5,9.64,2.79,3,2024,2023-24,div1,New Mexico Military,newmexicomilitaryinstitute,ovieralvidrezii3d,Ovier Alvidrez
+Mar 8,home,New Mexico,L,7-6,7,6,1,win,20240308_4he7,1,0,0,0,5.0,8,6,6,10.80,2.20,3,2024,2023-24,div1,New Mexico Military,newmexicomilitaryinstitute,ovieralvidrezii3d,Ovier Alvidrez
