@@ -1,6 +1,19 @@
 date,location,opponent,result,score,team_score,opp_score,game_score_diff,game_win_loss,game_id,TC,PO,A,E,FPCT,DP,SBA,RCS,RCS_PCT,PB,CI,season,njcaa_season,njcaa_division,team,team_id,player_id,player_name
-Feb 20,home,Shawnee,W,13-0,13,0,13,win,20240220_5qa8,1,1,0,0,4.0,1,0,0,0.00,.75,2,2024,2023-24,div1,Three Rivers,threeriverscommunitycollegemo,nicolashawkins85ts,Nicolas Hawkins
-Feb 27,home,Drury,W,12-2,12,2,10,win,20240227_s0w2,1,1,0,0,6.0,4,2,2,3.00,.83,1,2024,2023-24,div1,Three Rivers,threeriverscommunitycollegemo,nicolashawkins85ts,Nicolas Hawkins
-Mar 9,home,St. Louis,L,10-5,10,5,5,win,20240309_ok3z,0,0,1,0,4.0,6,4,4,9.00,2.25,3,2024,2023-24,div1,Three Rivers,threeriverscommunitycollegemo,nicolashawkins85ts,Nicolas Hawkins
-Mar 13,home,East Central (MO),W,9-7,9,7,2,win,20240313_y252,0,1,0,0,2.0,4,2,1,4.50,2.00,,2024,2023-24,div1,Three Rivers,threeriverscommunitycollegemo,nicolashawkins85ts,Nicolas Hawkins
-Mar 16,home,Metropolitan,W,7-0,7,0,7,win,20240316_021t,0,0,0,0,2.0,1,,,0.00,.50,,2024,2023-24,div1,Three Rivers,threeriverscommunitycollegemo,nicolashawkins85ts,Nicolas Hawkins
+Feb 17,home,North Iowa Area,L,6-4,6,4,2,win,20240217_rnye,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Three Rivers,threeriverscommunitycollegemo,nicolashawkins85ts,Nicolas Hawkins
+Feb 18,home,North Iowa Area,W,5-3,5,3,2,win,20240218_q8uf,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Three Rivers,threeriverscommunitycollegemo,nicolashawkins85ts,Nicolas Hawkins
+Feb 20,home,Shawnee,L,4-3,4,3,1,win,20240220_fdpy,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Three Rivers,threeriverscommunitycollegemo,nicolashawkins85ts,Nicolas Hawkins
+Feb 24,home,Rock Valley,W,12-7,12,7,5,win,20240224_8g9p,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Three Rivers,threeriverscommunitycollegemo,nicolashawkins85ts,Nicolas Hawkins
+Feb 25,home,Rock Valley,W,6-5,6,5,1,win,20240225_1dmj,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Three Rivers,threeriverscommunitycollegemo,nicolashawkins85ts,Nicolas Hawkins
+Feb 25,home,Rock Valley,W,12-2,12,2,10,win,20240225_z39l,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Three Rivers,threeriverscommunitycollegemo,nicolashawkins85ts,Nicolas Hawkins
+Feb 27,home,Drury,L,14-13,14,13,1,win,20240227_mv7g,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Three Rivers,threeriverscommunitycollegemo,nicolashawkins85ts,Nicolas Hawkins
+Feb 27,home,Drury,W,12-2,12,2,10,win,20240227_s0w2,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Three Rivers,threeriverscommunitycollegemo,nicolashawkins85ts,Nicolas Hawkins
+Mar 2,home,Marshalltown,W,11-3,11,3,8,win,20240302_x5gw,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Three Rivers,threeriverscommunitycollegemo,nicolashawkins85ts,Nicolas Hawkins
+Mar 2,home,Marshalltown,L,7-5,7,5,2,win,20240302_50el,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Three Rivers,threeriverscommunitycollegemo,nicolashawkins85ts,Nicolas Hawkins
+Mar 3,home,Marshalltown,W,12-2,12,2,10,win,20240303_u0nx,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Three Rivers,threeriverscommunitycollegemo,nicolashawkins85ts,Nicolas Hawkins
+Mar 3,home,Marshalltown,W,17-7,17,7,10,win,20240303_vdzx,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Three Rivers,threeriverscommunitycollegemo,nicolashawkins85ts,Nicolas Hawkins
+Mar 9,home,St. Louis,W,4-2,4,2,2,win,20240309_w9a5,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Three Rivers,threeriverscommunitycollegemo,nicolashawkins85ts,Nicolas Hawkins
+Mar 11,home,St. Louis,L,2-1,2,1,1,win,20240311_acp7,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Three Rivers,threeriverscommunitycollegemo,nicolashawkins85ts,Nicolas Hawkins
+Mar 11,home,St. Louis,W,13-8,13,8,5,win,20240311_q84a,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Three Rivers,threeriverscommunitycollegemo,nicolashawkins85ts,Nicolas Hawkins
+Mar 13,home,East Central (MO),W,9-7,9,7,2,win,20240313_y252,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Three Rivers,threeriverscommunitycollegemo,nicolashawkins85ts,Nicolas Hawkins
+Mar 16,home,Metropolitan,W,7-4,7,4,3,win,20240316_1zo0,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Three Rivers,threeriverscommunitycollegemo,nicolashawkins85ts,Nicolas Hawkins
+Mar 17,home,Metropolitan,W,18-11,18,11,7,win,20240317_33rs,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Three Rivers,threeriverscommunitycollegemo,nicolashawkins85ts,Nicolas Hawkins
