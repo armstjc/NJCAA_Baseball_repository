@@ -1,11 +1,16 @@
 date,location,opponent,result,score,team_score,opp_score,game_score_diff,game_win_loss,game_id,AB,R,H,2B,3B,HR,RBI,BB,K,SB,CS,HBP,SF,SH,TB,XBH,HDP,GO,FO,GO/FO,PA,season,njcaa_season,njcaa_division,team,team_id,player_id,player_name
-Feb 9,home,Rose State,W,14-7,14,7,7,win,20240209_awti,5,2,2,1,,1,4,,,,,,,,6,2,4,,,,5,2024,2023-24,div1,Barton,bartoncommunitycollege,wyattyetter3ysk,Wyatt Yetter
-Feb 10,home,Rose State,W,4-1,4,1,3,win,20240210_iz82,4,1,1,,,,0,,1,1,,,,,1,0,,,,,4,2024,2023-24,div1,Barton,bartoncommunitycollege,wyattyetter3ysk,Wyatt Yetter
-Feb 18,home,Western Nebraska,W,7-5,7,5,2,win,20240218_xtrq,3,0,1,,,,0,,1,,,,,,1,0,,,1,,3,2024,2023-24,div1,Barton,bartoncommunitycollege,wyattyetter3ysk,Wyatt Yetter
-Feb 18,home,Western Nebraska,W,8-5,8,5,3,win,20240218_fvju,4,0,1,,,,0,,1,,,,,,1,0,,,2,,4,2024,2023-24,div1,Barton,bartoncommunitycollege,wyattyetter3ysk,Wyatt Yetter
-Feb 19,home,Western Nebraska,W,4-1,4,1,3,win,20240219_maum,2,0,0,,,,0,1,1,,,,,,0,0,,,,,3,2024,2023-24,div1,Barton,bartoncommunitycollege,wyattyetter3ysk,Wyatt Yetter
-Feb 19,home,Western Nebraska,W,8-5,8,5,3,win,20240219_piig,4,0,0,,,,0,,,,,,,,0,0,,2,2,1.00,4,2024,2023-24,div1,Barton,bartoncommunitycollege,wyattyetter3ysk,Wyatt Yetter
-Feb 27,home,Kansas Wesleyan University JV,W,13-3,13,3,10,win,20240227_dj4c,2,2,1,,1,,1,1,,1,,,,,3,1,,,,,3,2024,2023-24,div1,Barton,bartoncommunitycollege,wyattyetter3ysk,Wyatt Yetter
-Mar 10,home,Butler,W,15-5,15,5,10,win,20240310_twf1,3,1,1,,,,0,1,1,,,,,,1,0,,1,,,4,2024,2023-24,div1,Barton,bartoncommunitycollege,wyattyetter3ysk,Wyatt Yetter
-Mar 12,home,Kansas Wesleyan University JV,W,13-2,13,2,11,win,20240312_uj92,1,0,0,,,,0,,1,,,,,,0,0,,,,,1,2024,2023-24,div1,Barton,bartoncommunitycollege,wyattyetter3ysk,Wyatt Yetter
-Mar 19,home,Cowley,W,16-8,16,8,8,win,20240319_i9f6,4,2,1,,,,0,1,1,,,,,1,1,0,,2,1,2.00,6,2024,2023-24,div1,Barton,bartoncommunitycollege,wyattyetter3ysk,Wyatt Yetter
+Feb 9,home,Rose State,W,14-7,14,7,7,win,20240209_awti,4,1,1,,,,0,,3,,,,,,1,0,2,,,,4,2024,2023-24,div1,Barton,bartoncommunitycollege,wyattyetter3ysk,Wyatt Yetter
+Feb 10,home,Rose State,W,4-1,4,1,3,win,20240210_iz82,1,0,0,,,,0,1,1,,,,,,0,0,,,,,2,2024,2023-24,div1,Barton,bartoncommunitycollege,wyattyetter3ysk,Wyatt Yetter
+Feb 18,home,Western Nebraska,W,8-5,8,5,3,win,20240218_fvju,2,0,0,,,,0,,,,,1,,,0,0,,1,1,1.00,3,2024,2023-24,div1,Barton,bartoncommunitycollege,wyattyetter3ysk,Wyatt Yetter
+Feb 19,home,Western Nebraska,W,4-1,4,1,3,win,20240219_maum,1,1,0,,,,0,1,,,,1,,,0,0,,,1,,3,2024,2023-24,div1,Barton,bartoncommunitycollege,wyattyetter3ysk,Wyatt Yetter
+Feb 27,home,Kansas Wesleyan University JV,W,16-2,16,2,14,win,20240227_lahc,2,3,2,1,,,2,1,,1,,,,,3,1,,,,,3,2024,2023-24,div1,Barton,bartoncommunitycollege,wyattyetter3ysk,Wyatt Yetter
+Mar 1,home,North Iowa Area,W,6-0,6,0,6,win,20240301_t4nx,2,1,1,,,,0,1,,,,,,,1,0,,1,,,3,2024,2023-24,div1,Barton,bartoncommunitycollege,wyattyetter3ysk,Wyatt Yetter
+Mar 1,home,North Iowa Area,W,15-5,15,5,10,win,20240301_j16y,3,2,2,1,1,,1,,1,,,,,1,5,2,,,,,4,2024,2023-24,div1,Barton,bartoncommunitycollege,wyattyetter3ysk,Wyatt Yetter
+Mar 2,home,North Iowa Area,W,10-9,10,9,1,win,20240302_dre5,3,2,1,,,,0,1,,1,,,,,1,0,,,,,4,2024,2023-24,div1,Barton,bartoncommunitycollege,wyattyetter3ysk,Wyatt Yetter
+Mar 10,home,Butler,W,15-5,15,5,10,win,20240310_twf1,5,1,4,,,1,4,,,,,,,,7,1,,,1,,5,2024,2023-24,div1,Barton,bartoncommunitycollege,wyattyetter3ysk,Wyatt Yetter
+Mar 12,home,Kansas Wesleyan University JV,W,13-2,13,2,11,win,20240312_uj92,4,0,1,1,,,1,,2,,,1,,,2,1,,,,,5,2024,2023-24,div1,Barton,bartoncommunitycollege,wyattyetter3ysk,Wyatt Yetter
+Mar 14,home,Colby,W,8-0,8,0,8,win,20240314_4911,3,1,1,,,,0,,,,1,1,,,1,0,,1,1,1.00,4,2024,2023-24,div1,Barton,bartoncommunitycollege,wyattyetter3ysk,Wyatt Yetter
+Mar 14,home,Colby,W,9-3,9,3,6,win,20240314_kr5m,5,1,2,,,,1,,1,,,,,,2,0,,,2,,5,2024,2023-24,div1,Barton,bartoncommunitycollege,wyattyetter3ysk,Wyatt Yetter
+Mar 16,home,Colby,W,13-11,13,11,2,win,20240316_b9fu,4,1,2,2,,,5,,1,,,1,,,4,2,,,,,5,2024,2023-24,div1,Barton,bartoncommunitycollege,wyattyetter3ysk,Wyatt Yetter
+Mar 16,home,Colby,W,8-7,8,7,1,win,20240316_keue,2,0,0,,,,0,,,,,,,,0,0,,,,,2,2024,2023-24,div1,Barton,bartoncommunitycollege,wyattyetter3ysk,Wyatt Yetter
+Mar 21,home,Pratt,W,8-0,8,0,8,win,20240321_84ag,2,0,1,,,,3,1,,,,,,,1,0,,1,,,3,2024,2023-24,div1,Barton,bartoncommunitycollege,wyattyetter3ysk,Wyatt Yetter

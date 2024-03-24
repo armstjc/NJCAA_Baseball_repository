@@ -1,28 +1,19 @@
 date,location,opponent,result,score,team_score,opp_score,game_score_diff,game_win_loss,game_id,AB,R,H,2B,3B,HR,RBI,BB,K,SB,CS,HBP,SF,SH,TB,XBH,HDP,GO,FO,GO/FO,PA,season,njcaa_season,njcaa_division,team,team_id,player_id,player_name
-Jan 30,home,Coastal Alabama - South,W,6-2,6,2,4,win,20240130_1bzv,4,1,1,1,,,1,,,,,,,,2,1,,,,,4,2024,2023-24,div2,Pearl River,pearlrivercommunitycollege,calebdyesserov,Caleb Dyess
-Feb 3,home,Dyersburg State,W,7-0,7,0,7,win,20240203_px0l,2,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,,0,,,2,2024,2023-24,div2,Pearl River,pearlrivercommunitycollege,calebdyesserov,Caleb Dyess
-Feb 3,home,Florida SouthWestern State,W,6-3,6,3,3,win,20240203_q2ko,1,0,0,,,,0,,1,,,,,,0,0,,,,,1,2024,2023-24,div2,Pearl River,pearlrivercommunitycollege,calebdyesserov,Caleb Dyess
-Feb 4,home,Miami Dade,W,14-0,14,0,14,win,20240204_b1ao,2,0,0,,,,0,,1,,,,,,0,0,,,,,2,2024,2023-24,div2,Pearl River,pearlrivercommunitycollege,calebdyesserov,Caleb Dyess
+Feb 3,home,Florida SouthWestern State,W,6-3,6,3,3,win,20240203_q2ko,1,0,0,,,,0,,,,,,,,0,0,,,,,1,2024,2023-24,div2,Pearl River,pearlrivercommunitycollege,calebdyesserov,Caleb Dyess
+Feb 4,home,Miami Dade,W,14-0,14,0,14,win,20240204_b1ao,2,0,0,,,,0,,,,,,,,0,0,,,,,2,2024,2023-24,div2,Pearl River,pearlrivercommunitycollege,calebdyesserov,Caleb Dyess
 Feb 9,home,Baton Rouge,W,10-0,10,0,10,win,20240209_kej4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0,2024,2023-24,div2,Pearl River,pearlrivercommunitycollege,calebdyesserov,Caleb Dyess
-Feb 9,home,Baton Rouge,W,3-0,3,0,3,win,20240209_exms,3,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,1,1.00,3,2024,2023-24,div2,Pearl River,pearlrivercommunitycollege,calebdyesserov,Caleb Dyess
-Feb 11,home,Baton Rouge,W,16-4,16,4,12,win,20240211_mcyh,5,2,3,1,,,3,,,,,,,,4,1,,,,,5,2024,2023-24,div2,Pearl River,pearlrivercommunitycollege,calebdyesserov,Caleb Dyess
-Feb 16,home,Murray State,W,10-5,10,5,5,win,20240216_orfg,3,1,0,,,,0,1,,,,,,,0,0,,,,,4,2024,2023-24,div2,Pearl River,pearlrivercommunitycollege,calebdyesserov,Caleb Dyess
-Feb 18,home,Murray State,W,10-3,10,3,7,win,20240218_hm0y,3,1,2,,,,3,1,,,,,,,2,0,,,,,4,2024,2023-24,div2,Pearl River,pearlrivercommunitycollege,calebdyesserov,Caleb Dyess
-Feb 20,home,Itawamba,W,6-1,6,1,5,win,20240220_ikmg,2,2,2,,,,1,1,,,,,1,,2,0,,,,,4,2024,2023-24,div2,Pearl River,pearlrivercommunitycollege,calebdyesserov,Caleb Dyess
-Feb 20,home,Holmes,W,8-2,8,2,6,win,20240220_6kcg,4,1,2,1,,,1,,,,,,,,3,1,,,,,4,2024,2023-24,div2,Pearl River,pearlrivercommunitycollege,calebdyesserov,Caleb Dyess
-Feb 23,home,South Arkansas,W,15-5,15,5,10,win,20240223_hnxx,3,2,2,1,,1,4,1,1,,,,,,6,2,,,,,4,2024,2023-24,div2,Pearl River,pearlrivercommunitycollege,calebdyesserov,Caleb Dyess
-Feb 25,home,Parkland,W,14-1,14,1,13,win,20240225_mb6f,4,1,0,,,,0,1,,,,,,,0,0,,,,,5,2024,2023-24,div2,Pearl River,pearlrivercommunitycollege,calebdyesserov,Caleb Dyess
-Feb 28,home,Mississippi Gulf Coast,W,6-5,6,5,1,win,20240228_0cvk,4,0,1,0,0,0,0,1,1,0,0,0,0,0,1,0,0,2,0,,5,2024,2023-24,div2,Pearl River,pearlrivercommunitycollege,calebdyesserov,Caleb Dyess
-Feb 28,home,Jones,W,5-4,5,4,1,win,20240228_5mrc,6,0,2,,,,0,,2,,,,,,2,0,,1,1,1.00,6,2024,2023-24,div2,Pearl River,pearlrivercommunitycollege,calebdyesserov,Caleb Dyess
-Mar 3,home,Illinois Central,W,20-1,20,1,19,win,20240303_0ttj,5,1,2,0,0,1,5,0,1,0,0,0,0,0,5,1,1,0,1,0.00,5,2024,2023-24,div2,Pearl River,pearlrivercommunitycollege,calebdyesserov,Caleb Dyess
-Mar 3,home,Illinois Central,W,9-1,9,1,8,win,20240303_hp0j,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0.00,2,2024,2023-24,div2,Pearl River,pearlrivercommunitycollege,calebdyesserov,Caleb Dyess
-Mar 6,home,Southwest Mississippi,W,10-3,10,3,7,win,20240306_stp4,3,0,1,1,,,3,1,,,,,,,2,1,,,,,4,2024,2023-24,div2,Pearl River,pearlrivercommunitycollege,calebdyesserov,Caleb Dyess
-Mar 6,home,Mississippi Delta,W,14-0,14,0,14,win,20240306_otxh,0,0,0,,,,0,,,,,,,,0,0,,,,,0,2024,2023-24,div2,Pearl River,pearlrivercommunitycollege,calebdyesserov,Caleb Dyess
-Mar 9,home,Northeast Mississippi,W,11-1,11,1,10,win,20240309_0zl8,4,2,1,,,1,2,,,,,1,,,4,1,,1,2,0.50,5,2024,2023-24,div2,Pearl River,pearlrivercommunitycollege,calebdyesserov,Caleb Dyess
-Mar 9,home,Northeast Mississippi,W,4-3,4,3,1,win,20240309_f7h4,3,0,0,,,,1,,1,,,,1,,0,0,,1,2,0.50,4,2024,2023-24,div2,Pearl River,pearlrivercommunitycollege,calebdyesserov,Caleb Dyess
-Mar 13,home,Southwest Mississippi,W,9-4,9,4,5,win,20240313_de1u,3,0,0,,,,1,2,2,1,,,,,0,0,,,,,5,2024,2023-24,div2,Pearl River,pearlrivercommunitycollege,calebdyesserov,Caleb Dyess
-Mar 13,home,Southwest Mississippi,W,11-2,11,2,9,win,20240313_6k1y,3,1,0,,,,0,1,1,,,,,,0,0,,,,,4,2024,2023-24,div2,Pearl River,pearlrivercommunitycollege,calebdyesserov,Caleb Dyess
-Mar 17,home,Mississippi Delta,W,17-3,17,3,14,win,20240317_i3n9,4,1,2,1,,1,4,,,,,1,,,6,2,,,,,5,2024,2023-24,div2,Pearl River,pearlrivercommunitycollege,calebdyesserov,Caleb Dyess
-Mar 17,home,Mississippi Delta,W,5-2,5,2,3,win,20240317_9y46,3,0,2,1,,,1,,,,,,,,3,1,,,,,3,2024,2023-24,div2,Pearl River,pearlrivercommunitycollege,calebdyesserov,Caleb Dyess
-Mar 19,home,Meridian,W,14-2,14,2,12,win,20240319_hocu,4,1,1,,,,1,,,,,,,,1,0,,,,,4,2024,2023-24,div2,Pearl River,pearlrivercommunitycollege,calebdyesserov,Caleb Dyess
-Mar 19,home,Meridian,W,5-2,5,2,3,win,20240319_m7ja,2,0,1,,,,1,2,,,,,,,1,0,,,,,4,2024,2023-24,div2,Pearl River,pearlrivercommunitycollege,calebdyesserov,Caleb Dyess
+Feb 11,home,Baton Rouge,W,10-3,10,3,7,win,20240211_zfoc,1,0,0,,,,0,,,,,,,,0,0,,,,,1,2024,2023-24,div2,Pearl River,pearlrivercommunitycollege,calebdyesserov,Caleb Dyess
+Feb 11,home,Baton Rouge,W,16-4,16,4,12,win,20240211_mcyh,1,0,1,,,,0,,,,,,,,1,0,,,,,1,2024,2023-24,div2,Pearl River,pearlrivercommunitycollege,calebdyesserov,Caleb Dyess
+Feb 16,home,Murray State,W,10-5,10,5,5,win,20240216_orfg,0,0,0,,,,0,,,,,,,,0,0,,,,,0,2024,2023-24,div2,Pearl River,pearlrivercommunitycollege,calebdyesserov,Caleb Dyess
+Feb 23,home,South Arkansas,W,15-5,15,5,10,win,20240223_hnxx,0,0,0,,,,0,,,,,,,,0,0,,,,,0,2024,2023-24,div2,Pearl River,pearlrivercommunitycollege,calebdyesserov,Caleb Dyess
+Feb 25,home,Parkland,W,14-1,14,1,13,win,20240225_mb6f,0,0,0,,,,0,,,,,1,,,0,0,,,,,1,2024,2023-24,div2,Pearl River,pearlrivercommunitycollege,calebdyesserov,Caleb Dyess
+Feb 28,home,Mississippi Gulf Coast,W,6-5,6,5,1,win,20240228_0cvk,2,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,,2,2024,2023-24,div2,Pearl River,pearlrivercommunitycollege,calebdyesserov,Caleb Dyess
+Feb 28,home,Jones,W,5-4,5,4,1,win,20240228_5mrc,0,0,0,,,,0,,,,,,,,0,0,,,,,0,2024,2023-24,div2,Pearl River,pearlrivercommunitycollege,calebdyesserov,Caleb Dyess
+Mar 3,home,Illinois Central,W,20-1,20,1,19,win,20240303_0ttj,1,0,1,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,,1,2024,2023-24,div2,Pearl River,pearlrivercommunitycollege,calebdyesserov,Caleb Dyess
+Mar 3,home,Illinois Central,W,9-1,9,1,8,win,20240303_hp0j,3,2,2,0,0,1,2,0,0,1,0,0,0,0,5,1,0,0,1,0.00,3,2024,2023-24,div2,Pearl River,pearlrivercommunitycollege,calebdyesserov,Caleb Dyess
+Mar 6,home,Southwest Mississippi,W,10-3,10,3,7,win,20240306_stp4,0,0,0,,,,0,,,,,,,,0,0,,,,,0,2024,2023-24,div2,Pearl River,pearlrivercommunitycollege,calebdyesserov,Caleb Dyess
+Mar 9,home,Northeast Mississippi,W,4-3,4,3,1,win,20240309_f7h4,2,1,0,,,,0,,1,,,1,,,0,0,,,,,3,2024,2023-24,div2,Pearl River,pearlrivercommunitycollege,calebdyesserov,Caleb Dyess
+Mar 13,home,Southwest Mississippi,W,11-2,11,2,9,win,20240313_6k1y,0,0,0,,,,0,,,,,,,,0,0,,,,,0,2024,2023-24,div2,Pearl River,pearlrivercommunitycollege,calebdyesserov,Caleb Dyess
+Mar 17,home,Mississippi Delta,W,17-3,17,3,14,win,20240317_i3n9,0,0,0,,,,0,,,,,,,,0,0,,,,,0,2024,2023-24,div2,Pearl River,pearlrivercommunitycollege,calebdyesserov,Caleb Dyess
+Mar 23,home,Itawamba,W,13-3,13,3,10,win,20240323_ny88,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0,2024,2023-24,div2,Pearl River,pearlrivercommunitycollege,calebdyesserov,Caleb Dyess
+Mar 23,home,Itawamba,W,18-1,18,1,17,win,20240323_we3f,1,1,1,0,0,1,1,0,0,0,0,0,0,0,4,1,0,0,0,,1,2024,2023-24,div2,Pearl River,pearlrivercommunitycollege,calebdyesserov,Caleb Dyess
