@@ -1,7 +1,23 @@
 date,location,opponent,result,score,team_score,opp_score,game_score_diff,game_win_loss,game_id,TC,PO,A,E,FPCT,DP,SBA,RCS,RCS_PCT,PB,CI,season,njcaa_season,njcaa_division,team,team_id,player_id,player_name
-Feb 6,home,Coahoma,W,19-9,19,9,10,win,20240206_lvrl,1,0,0,0,1.2,9,8,8,43.20,6.60,2,2024,2023-24,div1,Jackson State,jacksonstatecommunitycollege,kylonjoynernejn,Kylon Joyner
-Feb 17,home,Lincoln Trail,W,15-12,15,12,3,win,20240217_w1mh,1,0,0,0,4.0,11,9,5,11.25,3.75,4,2024,2023-24,div1,Jackson State,jacksonstatecommunitycollege,kylonjoynernejn,Kylon Joyner
-Mar 1,home,Roane State,W,13-10,13,10,3,win,20240301_ol7q,1,0,0,0,4.1,10,7,6,12.46,2.77,2,2024,2023-24,div1,Jackson State,jacksonstatecommunitycollege,kylonjoynernejn,Kylon Joyner
-Mar 10,home,Southwest Tennessee,W,7-3,7,3,4,win,20240310_w9g6,1,1,0,0,5.0,5,3,3,5.40,1.80,4,2024,2023-24,div1,Jackson State,jacksonstatecommunitycollege,kylonjoynernejn,Kylon Joyner
-Mar 16,home,Cleveland State,L,2-0,2,0,2,win,20240316_f1ww,1,0,1,0,6.0,4,2,2,3.00,1.17,3,2024,2023-24,div1,Jackson State,jacksonstatecommunitycollege,kylonjoynernejn,Kylon Joyner
-Mar 23,home,Walters State,L,15-6,15,6,9,win,20240323_w05h,1,0,1,0,5.0,8,6,4,7.20,2.80,6,2024,2023-24,div1,Jackson State,jacksonstatecommunitycollege,kylonjoynernejn,Kylon Joyner
+Feb 6,home,Coahoma,L,5-2,5,2,3,win,20240206_evra,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Jackson State,jacksonstatecommunitycollege,kylonjoynernejn,Kylon Joyner
+Feb 6,home,Coahoma,W,19-9,19,9,10,win,20240206_lvrl,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Jackson State,jacksonstatecommunitycollege,kylonjoynernejn,Kylon Joyner
+Feb 9,home,Northwest Mississippi,L,11-1,11,1,10,win,20240209_d226,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Jackson State,jacksonstatecommunitycollege,kylonjoynernejn,Kylon Joyner
+Feb 9,home,Northwest Mississippi,W,14-6,14,6,8,win,20240209_jprf,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Jackson State,jacksonstatecommunitycollege,kylonjoynernejn,Kylon Joyner
+Feb 16,home,Lincoln Trail,T,18-18,18,18,0,tie,20240216_z2v6,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Jackson State,jacksonstatecommunitycollege,kylonjoynernejn,Kylon Joyner
+Feb 17,home,Lincoln Trail,W,15-12,15,12,3,win,20240217_w1mh,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Jackson State,jacksonstatecommunitycollege,kylonjoynernejn,Kylon Joyner
+Feb 23,home,East Central (MS),L,14-4,14,4,10,win,20240223_g3yg,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Jackson State,jacksonstatecommunitycollege,kylonjoynernejn,Kylon Joyner
+Feb 27,home,Blue Mountain JV,W,9-6,9,6,3,win,20240227_76rs,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Jackson State,jacksonstatecommunitycollege,kylonjoynernejn,Kylon Joyner
+Mar 1,home,Roane State,W,13-10,13,10,3,win,20240301_ol7q,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Jackson State,jacksonstatecommunitycollege,kylonjoynernejn,Kylon Joyner
+Mar 2,home,Roane State,L,5-1,5,1,4,win,20240302_xtff,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Jackson State,jacksonstatecommunitycollege,kylonjoynernejn,Kylon Joyner
+Mar 2,home,Roane State,W,5-3,5,3,2,win,20240302_duas,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Jackson State,jacksonstatecommunitycollege,kylonjoynernejn,Kylon Joyner
+Mar 6,home,Williams Baptist JV,W,10-4,10,4,6,win,20240306_yz7o,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Jackson State,jacksonstatecommunitycollege,kylonjoynernejn,Kylon Joyner
+Mar 9,home,Southwest Tennessee,W,13-4,13,4,9,win,20240309_5o1f,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Jackson State,jacksonstatecommunitycollege,kylonjoynernejn,Kylon Joyner
+Mar 9,home,Southwest Tennessee,L,13-4,13,4,9,win,20240309_m30h,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Jackson State,jacksonstatecommunitycollege,kylonjoynernejn,Kylon Joyner
+Mar 10,home,Southwest Tennessee,W,7-3,7,3,4,win,20240310_w9g6,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Jackson State,jacksonstatecommunitycollege,kylonjoynernejn,Kylon Joyner
+Mar 11,home,Kishwaukee,W,12-6,12,6,6,win,20240311_oms4,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Jackson State,jacksonstatecommunitycollege,kylonjoynernejn,Kylon Joyner
+Mar 16,home,Cleveland State,L,2-0,2,0,2,win,20240316_f1ww,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Jackson State,jacksonstatecommunitycollege,kylonjoynernejn,Kylon Joyner
+Mar 16,home,Cleveland State,L,13-12,13,12,1,win,20240316_3cs8,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Jackson State,jacksonstatecommunitycollege,kylonjoynernejn,Kylon Joyner
+Mar 17,home,Cleveland State,W,11-10,11,10,1,win,20240317_bby9,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Jackson State,jacksonstatecommunitycollege,kylonjoynernejn,Kylon Joyner
+Mar 23,home,Walters State,L,15-6,15,6,9,win,20240323_w05h,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Jackson State,jacksonstatecommunitycollege,kylonjoynernejn,Kylon Joyner
+Mar 24,home,Walters State,L,5-2,5,2,3,win,20240324_mpui,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Jackson State,jacksonstatecommunitycollege,kylonjoynernejn,Kylon Joyner
+Mar 24,home,Walters State,L,12-2,12,2,10,win,20240324_vc32,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Jackson State,jacksonstatecommunitycollege,kylonjoynernejn,Kylon Joyner

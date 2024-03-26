@@ -1,17 +1,5 @@
 date,location,opponent,result,score,team_score,opp_score,game_score_diff,game_win_loss,game_id,GS,W,L,SV,IP,H,R,ER,ERA,BB,K,HR,season,njcaa_season,njcaa_division,team,team_id,player_id,player_name
-Mar 19,home,Seminole State (FL),W,20-10,20,10,10,win,20240319_i5yu,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div2,St. Johns River State,stjohnsriverstatecollege,padricsmithmtu2,Padric Smith
-Mar 15,home,South Florida State,W,21-11,21,11,10,win,20240315_bhn7,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div2,St. Johns River State,stjohnsriverstatecollege,padricsmithmtu2,Padric Smith
-Mar 12,home,Santa Fe,W,19-12,19,12,7,win,20240312_bbjc,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div2,St. Johns River State,stjohnsriverstatecollege,padricsmithmtu2,Padric Smith
-Mar 1,home,Florida State Jacksonville,L,12-5,12,5,7,win,20240301_zgya,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div2,St. Johns River State,stjohnsriverstatecollege,padricsmithmtu2,Padric Smith
-Mar 1,home,Florida State Jacksonville,W,10-0,10,0,10,win,20240301_7ezw,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div2,St. Johns River State,stjohnsriverstatecollege,padricsmithmtu2,Padric Smith
-Feb 27,home,Seminole State (FL),L,2-1,2,1,1,win,20240227_irp0,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div2,St. Johns River State,stjohnsriverstatecollege,padricsmithmtu2,Padric Smith
-Feb 23,home,Palm Beach State,L,12-9,12,9,3,win,20240223_pp0p,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div2,St. Johns River State,stjohnsriverstatecollege,padricsmithmtu2,Padric Smith
-Feb 20,home,Santa Fe,W,8-5,8,5,3,win,20240220_ihsr,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div2,St. Johns River State,stjohnsriverstatecollege,padricsmithmtu2,Padric Smith
-Feb 13,home,Daytona State,L,7-0,7,0,7,win,20240213_rgpw,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div2,St. Johns River State,stjohnsriverstatecollege,padricsmithmtu2,Padric Smith
-Feb 10,home,Hillsborough,L,6-1,6,1,5,win,20240210_21p5,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div2,St. Johns River State,stjohnsriverstatecollege,padricsmithmtu2,Padric Smith
-Feb 4,home,State College of Florida,L,11-5,11,5,6,win,20240204_s77d,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div2,St. Johns River State,stjohnsriverstatecollege,padricsmithmtu2,Padric Smith
-Feb 3,home,Gulf Coast State,L,5-0,5,0,5,win,20240203_wuzh,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div2,St. Johns River State,stjohnsriverstatecollege,padricsmithmtu2,Padric Smith
-Jan 31,home,Daytona State,W,13-1,13,1,12,win,20240131_uh9l,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div2,St. Johns River State,stjohnsriverstatecollege,padricsmithmtu2,Padric Smith
-Jan 29,home,Abraham Baldwin,W,15-1,15,1,14,win,20240129_0yd3,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div2,St. Johns River State,stjohnsriverstatecollege,padricsmithmtu2,Padric Smith
-Jan 26,home,Abraham Baldwin,W,11-4,11,4,7,win,20240126_soez,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div2,St. Johns River State,stjohnsriverstatecollege,padricsmithmtu2,Padric Smith
-Jan 26,home,Abraham Baldwin,W,9-1,9,1,8,win,20240126_mc8z,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div2,St. Johns River State,stjohnsriverstatecollege,padricsmithmtu2,Padric Smith
+Mar 12,home,Santa Fe,W,19-12,19,12,7,win,20240312_bbjc,0,0,0,0,0.1,3,4,3,81.00,12.00,1,,2024,2023-24,div2,St. Johns River State,stjohnsriverstatecollege,padricsmithmtu2,Padric Smith
+Feb 27,home,Seminole State (FL),L,2-1,2,1,1,win,20240227_irp0,1,0,1,0,3.0,2,2,2,6.00,2.00,4,0,2024,2023-24,div2,St. Johns River State,stjohnsriverstatecollege,padricsmithmtu2,Padric Smith
+Jan 31,home,Daytona State,W,13-1,13,1,12,win,20240131_uh9l,0,0,0,0,0.1,,,,0.00,6.00,2,,2024,2023-24,div2,St. Johns River State,stjohnsriverstatecollege,padricsmithmtu2,Padric Smith
+Jan 29,home,Abraham Baldwin,W,15-1,15,1,14,win,20240129_0yd3,0,0,0,0,1.0,1,1,1,9.00,2.00,1,,2024,2023-24,div2,St. Johns River State,stjohnsriverstatecollege,padricsmithmtu2,Padric Smith

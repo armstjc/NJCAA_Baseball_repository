@@ -1,8 +1,18 @@
 date,location,opponent,result,score,team_score,opp_score,game_score_diff,game_win_loss,game_id,AB,R,H,2B,3B,HR,RBI,BB,K,SB,CS,HBP,SF,SH,TB,XBH,HDP,GO,FO,GO/FO,PA,season,njcaa_season,njcaa_division,team,team_id,player_id,player_name
-Jan 29,home,Nunez,W,5-0,5,0,5,win,20240129_kcqk,0,0,0,,,,0,,,,,,,,0,0,,,,,0,2024,2023-24,div2,Bishop State,bishopstatecommunitycollege,haydenodellv0jm,Hayden ODell
-Feb 2,home,Lawson State,W,13-8,13,8,5,win,20240202_jogj,0,0,0,,,,0,,,,,,,,0,0,,,,,0,2024,2023-24,div2,Bishop State,bishopstatecommunitycollege,haydenodellv0jm,Hayden ODell
-Feb 14,home,Spring Hill JV,W,8-1,8,1,7,win,20240214_zekm,0,0,0,,,,0,,,,,,,,0,0,,,,,0,2024,2023-24,div2,Bishop State,bishopstatecommunitycollege,haydenodellv0jm,Hayden ODell
-Feb 19,home,Faulkner University JV,W,21-1,21,1,20,win,20240219_ahbb,0,0,0,,,,0,,,,,,,,0,0,,,,,0,2024,2023-24,div2,Bishop State,bishopstatecommunitycollege,haydenodellv0jm,Hayden ODell
-Feb 24,home,Bevill State,W,7-4,7,4,3,win,20240224_uqdm,0,0,0,,,,0,,,,,,,,0,0,,,,,0,2024,2023-24,div2,Bishop State,bishopstatecommunitycollege,haydenodellv0jm,Hayden ODell
-Mar 7,home,Spring Hill JV,W,12-4,12,4,8,win,20240307_1m39,0,0,0,,,,0,,,,,,,,0,0,,,,,0,2024,2023-24,div2,Bishop State,bishopstatecommunitycollege,haydenodellv0jm,Hayden ODell
-Mar 14,home,Wallace-Dothan,W,3-2,3,2,1,win,20240314_1wr9,0,0,0,,,,0,,,,,,,,0,0,,,,,0,2024,2023-24,div2,Bishop State,bishopstatecommunitycollege,haydenodellv0jm,Hayden ODell
+Jan 29,home,Nunez,W,5-0,5,0,5,win,20240129_kcqk,2,1,0,,,,1,1,1,,,,,,0,0,,,,,3,2024,2023-24,div2,Bishop State,bishopstatecommunitycollege,haydenodellv0jm,Hayden ODell
+Feb 2,home,Lawson State,W,13-8,13,8,5,win,20240202_jogj,4,1,1,,,,0,1,,1,1,,,,1,0,,,,,5,2024,2023-24,div2,Bishop State,bishopstatecommunitycollege,haydenodellv0jm,Hayden ODell
+Feb 6,home,Coastal Alabama - South,W,8-3,8,3,5,win,20240206_4uyd,2,0,0,,,,0,3,2,,1,,,,0,0,,,,,5,2024,2023-24,div2,Bishop State,bishopstatecommunitycollege,haydenodellv0jm,Hayden ODell
+Feb 14,home,Spring Hill JV,W,8-1,8,1,7,win,20240214_zekm,2,1,1,,,,0,1,1,1,,1,,,1,0,,,,,4,2024,2023-24,div2,Bishop State,bishopstatecommunitycollege,haydenodellv0jm,Hayden ODell
+Feb 19,home,Faulkner University JV,W,21-1,21,1,20,win,20240219_ahbb,2,2,2,,,,0,,,,,1,,,2,0,,,,,3,2024,2023-24,div2,Bishop State,bishopstatecommunitycollege,haydenodellv0jm,Hayden ODell
+Feb 19,home,Faulkner University JV,W,16-0,16,0,16,win,20240219_01l1,3,2,1,,,,0,1,1,1,,,,,1,0,,,,,4,2024,2023-24,div2,Bishop State,bishopstatecommunitycollege,haydenodellv0jm,Hayden ODell
+Feb 22,home,Bevill State,W,8-4,8,4,4,win,20240222_o4i1,1,1,0,,,,1,1,,,,,1,,0,0,,,,,3,2024,2023-24,div2,Bishop State,bishopstatecommunitycollege,haydenodellv0jm,Hayden ODell
+Feb 24,home,Bevill State,W,5-1,5,1,4,win,20240224_iid8,2,1,1,,,,2,,,1,,,,,1,0,,,,,2,2024,2023-24,div2,Bishop State,bishopstatecommunitycollege,haydenodellv0jm,Hayden ODell
+Feb 24,home,Bevill State,W,7-4,7,4,3,win,20240224_uqdm,0,0,0,,1,,1,,1,,,,,,0,1,,,,,0,2024,2023-24,div2,Bishop State,bishopstatecommunitycollege,haydenodellv0jm,Hayden ODell
+Feb 29,home,Central Alabama,W,6-2,6,2,4,win,20240229_ctsg,2,1,1,,,,0,,,,,,,,1,0,,,,,2,2024,2023-24,div2,Bishop State,bishopstatecommunitycollege,haydenodellv0jm,Hayden ODell
+Mar 3,home,Central Alabama,W,8-3,8,3,5,win,20240303_6ter,3,1,2,,,,1,1,1,,,,,,2,0,,,,,4,2024,2023-24,div2,Bishop State,bishopstatecommunitycollege,haydenodellv0jm,Hayden ODell
+Mar 4,home,Faulkner University JV,W,22-1,22,1,21,win,20240304_ib1f,3,3,1,,,1,2,1,1,1,,,,,4,1,,,,,4,2024,2023-24,div2,Bishop State,bishopstatecommunitycollege,haydenodellv0jm,Hayden ODell
+Mar 4,home,Faulkner University JV,W,6-3,6,3,3,win,20240304_84k6,4,0,1,,,,1,,,,,,,,1,0,,,,,4,2024,2023-24,div2,Bishop State,bishopstatecommunitycollege,haydenodellv0jm,Hayden ODell
+Mar 7,home,Spring Hill JV,W,12-4,12,4,8,win,20240307_1m39,4,1,0,,,,0,,2,,,,,,0,0,,,,,4,2024,2023-24,div2,Bishop State,bishopstatecommunitycollege,haydenodellv0jm,Hayden ODell
+Mar 14,home,Wallace-Dothan,W,3-2,3,2,1,win,20240314_1wr9,2,0,1,1,,,0,,1,,1,,,,2,1,,,,,2,2024,2023-24,div2,Bishop State,bishopstatecommunitycollege,haydenodellv0jm,Hayden ODell
+Mar 21,home,Enterprise State,W,7-2,7,2,5,win,20240321_ots6,3,1,1,,,,2,,,,,,,,1,0,,,,,3,2024,2023-24,div2,Bishop State,bishopstatecommunitycollege,haydenodellv0jm,Hayden ODell
+Mar 24,home,Enterprise State,W,4-3,4,3,1,win,20240324_dbat,2,0,0,,,,0,,1,,,1,,,0,0,,,,,3,2024,2023-24,div2,Bishop State,bishopstatecommunitycollege,haydenodellv0jm,Hayden ODell

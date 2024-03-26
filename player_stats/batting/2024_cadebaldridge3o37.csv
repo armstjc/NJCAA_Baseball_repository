@@ -1,16 +1,17 @@
 date,location,opponent,result,score,team_score,opp_score,game_score_diff,game_win_loss,game_id,AB,R,H,2B,3B,HR,RBI,BB,K,SB,CS,HBP,SF,SH,TB,XBH,HDP,GO,FO,GO/FO,PA,season,njcaa_season,njcaa_division,team,team_id,player_id,player_name
-Feb 10,home,Northeast Texas,W,4-1,4,1,3,win,20240210_s839,4,1,1,,,,1,,1,,,,,,1,0,,,2,,4,2024,2023-24,div1,Cowley,cowleycountycommunitycollege,cadebaldridge3o37,Cade Baldridge
-Feb 17,home,Panola,W,15-5,15,5,10,win,20240217_bw4v,4,1,2,,,,1,,1,,,,,,2,0,,1,,,4,2024,2023-24,div1,Cowley,cowleycountycommunitycollege,cadebaldridge3o37,Cade Baldridge
-Feb 23,home,Iowa Western,W,14-10,14,10,4,win,20240223_qrqr,5,3,3,,,1,4,,2,,,,,,6,1,,,,,5,2024,2023-24,div1,Cowley,cowleycountycommunitycollege,cadebaldridge3o37,Cade Baldridge
-Feb 24,home,Iowa Western,W,7-4,7,4,3,win,20240224_draq,4,0,0,,,,0,,1,,,,,,0,0,,,,,4,2024,2023-24,div1,Cowley,cowleycountycommunitycollege,cadebaldridge3o37,Cade Baldridge
-Mar 1,home,Indian Hills,W,14-4,14,4,10,win,20240301_jobb,2,2,1,,,,3,1,,,,1,1,,1,0,,,2,,5,2024,2023-24,div1,Cowley,cowleycountycommunitycollege,cadebaldridge3o37,Cade Baldridge
-Mar 3,home,Indian Hills,W,5-2,5,2,3,win,20240303_wy30,4,1,1,,,1,1,,,,,,,,4,1,,1,2,0.50,4,2024,2023-24,div1,Cowley,cowleycountycommunitycollege,cadebaldridge3o37,Cade Baldridge
-Mar 7,home,Coffeyville,W,3-2,3,2,1,win,20240307_srkb,3,0,1,,,,0,,,,,,,,1,0,,,2,,3,2024,2023-24,div1,Cowley,cowleycountycommunitycollege,cadebaldridge3o37,Cade Baldridge
-Mar 7,home,Coffeyville,W,4-1,4,1,3,win,20240307_0fem,4,0,1,1,,,0,,1,,,,,,2,1,1,2,,,4,2024,2023-24,div1,Cowley,cowleycountycommunitycollege,cadebaldridge3o37,Cade Baldridge
-Mar 9,home,Coffeyville,W,4-2,4,2,2,win,20240309_7xow,3,0,1,1,,,2,1,1,,,,,,2,1,,,1,,4,2024,2023-24,div1,Cowley,cowleycountycommunitycollege,cadebaldridge3o37,Cade Baldridge
-Mar 12,home,Hutchinson,W,23-22,23,22,1,win,20240312_buef,4,1,1,1,,,1,,1,,,,,,2,1,,,,,4,2024,2023-24,div1,Cowley,cowleycountycommunitycollege,cadebaldridge3o37,Cade Baldridge
-Mar 14,home,Allen County,W,7-5,7,5,2,win,20240314_dbad,2,0,0,,,,0,,2,,,,,,0,0,,,,,2,2024,2023-24,div1,Cowley,cowleycountycommunitycollege,cadebaldridge3o37,Cade Baldridge
-Mar 16,home,Allen County,W,14-3,14,3,11,win,20240316_8tpv,0,0,0,,,,0,1,,,,,,,0,0,,,,,1,2024,2023-24,div1,Cowley,cowleycountycommunitycollege,cadebaldridge3o37,Cade Baldridge
-Mar 16,home,Allen County,W,7-4,7,4,3,win,20240316_4s9t,2,1,0,,,,0,3,1,,,,,,0,0,,,1,,5,2024,2023-24,div1,Cowley,cowleycountycommunitycollege,cadebaldridge3o37,Cade Baldridge
-Mar 21,home,Labette,W,22-6,22,6,16,win,20240321_ae2a,2,3,1,,,1,3,1,,,,1,1,,4,1,1,1,1,1.00,5,2024,2023-24,div1,Cowley,cowleycountycommunitycollege,cadebaldridge3o37,Cade Baldridge
-Mar 21,home,Labette,W,21-0,21,0,21,win,20240321_3iaz,2,3,2,,,1,1,,,,,1,,,5,1,,,,,3,2024,2023-24,div1,Cowley,cowleycountycommunitycollege,cadebaldridge3o37,Cade Baldridge
+Feb 9,home,Northeast Texas,W,8-6,8,6,2,win,20240209_121g,5,0,1,,,,2,,,,,,,,1,0,,2,2,1.00,5,2024,2023-24,div1,Cowley,cowleycountycommunitycollege,cadebaldridge3o37,Cade Baldridge
+Feb 10,home,Northeast Texas,W,4-1,4,1,3,win,20240210_s839,5,1,1,,,,0,,,,,,,,1,0,,2,2,1.00,5,2024,2023-24,div1,Cowley,cowleycountycommunitycollege,cadebaldridge3o37,Cade Baldridge
+Mar 1,home,Indian Hills,W,14-4,14,4,10,win,20240301_jobb,3,3,2,1,1,,1,1,,,,1,,,5,2,,,1,,5,2024,2023-24,div1,Cowley,cowleycountycommunitycollege,cadebaldridge3o37,Cade Baldridge
+Mar 2,home,Indian Hills,W,9-4,9,4,5,win,20240302_tnfq,3,1,2,1,,,1,1,,,,,,,3,1,,1,,,4,2024,2023-24,div1,Cowley,cowleycountycommunitycollege,cadebaldridge3o37,Cade Baldridge
+Mar 3,home,Indian Hills,W,5-2,5,2,3,win,20240303_wy30,3,0,0,,,,0,1,1,,,,,,0,0,,2,,,4,2024,2023-24,div1,Cowley,cowleycountycommunitycollege,cadebaldridge3o37,Cade Baldridge
+Mar 7,home,Coffeyville,W,3-2,3,2,1,win,20240307_srkb,2,0,0,,,,0,1,,,,,,,0,0,,,2,,3,2024,2023-24,div1,Cowley,cowleycountycommunitycollege,cadebaldridge3o37,Cade Baldridge
+Mar 7,home,Coffeyville,W,4-1,4,1,3,win,20240307_0fem,4,0,0,,,,0,,1,,,,,,0,0,,1,1,1.00,4,2024,2023-24,div1,Cowley,cowleycountycommunitycollege,cadebaldridge3o37,Cade Baldridge
+Mar 9,home,Coffeyville,W,4-2,4,2,2,win,20240309_7xow,3,0,1,,,,0,1,,,,,,,1,0,,1,1,1.00,4,2024,2023-24,div1,Cowley,cowleycountycommunitycollege,cadebaldridge3o37,Cade Baldridge
+Mar 12,home,Hutchinson,W,23-22,23,22,1,win,20240312_buef,6,4,2,,,1,2,,,,,1,,,5,1,,2,1,2.00,7,2024,2023-24,div1,Cowley,cowleycountycommunitycollege,cadebaldridge3o37,Cade Baldridge
+Mar 14,home,Allen County,W,7-5,7,5,2,win,20240314_dbad,4,2,2,,,1,4,,1,,,,,,5,1,,,1,,4,2024,2023-24,div1,Cowley,cowleycountycommunitycollege,cadebaldridge3o37,Cade Baldridge
+Mar 14,home,Allen County,W,10-0,10,0,10,win,20240314_gu9p,5,1,1,,,,0,,,,,,,,1,0,,2,2,1.00,5,2024,2023-24,div1,Cowley,cowleycountycommunitycollege,cadebaldridge3o37,Cade Baldridge
+Mar 16,home,Allen County,W,14-3,14,3,11,win,20240316_8tpv,5,2,2,,,1,4,,,1,,,,,5,1,,2,1,2.00,5,2024,2023-24,div1,Cowley,cowleycountycommunitycollege,cadebaldridge3o37,Cade Baldridge
+Mar 16,home,Allen County,W,7-4,7,4,3,win,20240316_4s9t,4,1,1,,,,1,1,1,,,,,1,1,0,,3,,,6,2024,2023-24,div1,Cowley,cowleycountycommunitycollege,cadebaldridge3o37,Cade Baldridge
+Mar 21,home,Labette,W,22-6,22,6,16,win,20240321_ae2a,4,4,4,1,,,2,1,,,,,,,5,1,,,,,5,2024,2023-24,div1,Cowley,cowleycountycommunitycollege,cadebaldridge3o37,Cade Baldridge
+Mar 21,home,Labette,W,21-0,21,0,21,win,20240321_3iaz,7,1,4,,,,2,,,,,,,,4,0,,,2,,7,2024,2023-24,div1,Cowley,cowleycountycommunitycollege,cadebaldridge3o37,Cade Baldridge
+Mar 23,home,Labette,W,7-3,7,3,4,win,20240323_8z0o,5,1,1,,,,0,,,,,,,,1,0,1,2,2,1.00,5,2024,2023-24,div1,Cowley,cowleycountycommunitycollege,cadebaldridge3o37,Cade Baldridge
