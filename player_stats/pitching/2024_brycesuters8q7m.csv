@@ -1,7 +1,15 @@
 date,location,opponent,result,score,team_score,opp_score,game_score_diff,game_win_loss,game_id,GS,W,L,SV,IP,H,R,ER,ERA,BB,K,HR,season,njcaa_season,njcaa_division,team,team_id,player_id,player_name
-Mar 24,home,Cecil,L,9-5,9,5,4,win,20240324_yx2j,0,0,0,0,5.0,4,3,3,5.40,1.60,4,7,2024,2023-24,div1,Potomac State,wvupotomacstatecollege,brycesuters8q7m,Bryce Suters
-Mar 17,home,Penn State Beaver,W,24-0,24,0,24,win,20240317_fj05,1,1,0,0,3.0,0,0,0,0.00,.67,2,7,2024,2023-24,div1,Potomac State,wvupotomacstatecollege,brycesuters8q7m,Bryce Suters
-Mar 14,home,Seton Hill University,L,3-1,3,1,2,win,20240314_k4wo,0,0,0,0,3.0,,,,0.00,.33,1,2,2024,2023-24,div1,Potomac State,wvupotomacstatecollege,brycesuters8q7m,Bryce Suters
-Mar 8,home,Shenandoah,W,15-2,15,2,13,win,20240308_jdc4,0,0,0,0,1.0,2,1,1,9.00,2.00,,1,2024,2023-24,div1,Potomac State,wvupotomacstatecollege,brycesuters8q7m,Bryce Suters
-Mar 3,home,Lenoir,W,6-5,6,5,1,win,20240303_mx5i,0,0,0,0,0.1,1,2,2,54.00,6.00,1,,2024,2023-24,div1,Potomac State,wvupotomacstatecollege,brycesuters8q7m,Bryce Suters
-Feb 25,home,USC Sumter,L,5-2,5,2,3,win,20240225_1gfq,0,0,0,0,1.0,1,1,1,9.00,3.00,2,1,2024,2023-24,div1,Potomac State,wvupotomacstatecollege,brycesuters8q7m,Bryce Suters
+Mar 24,home,Cecil,L,9-5,9,5,4,win,20240324_yx2j,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div1,Potomac State,wvupotomacstatecollege,brycesuters8q7m,Bryce Suters
+Mar 24,home,Cecil,W,10-0,10,0,10,win,20240324_1fa1,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div1,Potomac State,wvupotomacstatecollege,brycesuters8q7m,Bryce Suters
+Mar 17,home,Penn State Beaver,W,24-0,24,0,24,win,20240317_fj05,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div1,Potomac State,wvupotomacstatecollege,brycesuters8q7m,Bryce Suters
+Mar 17,home,Penn State Beaver,W,15-0,15,0,15,win,20240317_uzz1,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div1,Potomac State,wvupotomacstatecollege,brycesuters8q7m,Bryce Suters
+Mar 16,home,Shenandoah,L,14-4,14,4,10,win,20240316_0cjj,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div1,Potomac State,wvupotomacstatecollege,brycesuters8q7m,Bryce Suters
+Mar 16,home,Shenandoah,W,13-3,13,3,10,win,20240316_01h8,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div1,Potomac State,wvupotomacstatecollege,brycesuters8q7m,Bryce Suters
+Mar 14,home,Seton Hill University,L,3-1,3,1,2,win,20240314_k4wo,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div1,Potomac State,wvupotomacstatecollege,brycesuters8q7m,Bryce Suters
+Mar 14,home,Seton Hill University,L,11-6,11,6,5,win,20240314_h61c,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div1,Potomac State,wvupotomacstatecollege,brycesuters8q7m,Bryce Suters
+Mar 3,home,Lenoir,L,3-2,3,2,1,win,20240303_xhsh,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div1,Potomac State,wvupotomacstatecollege,brycesuters8q7m,Bryce Suters
+Mar 2,home,Lenoir,W,11-7,11,7,4,win,20240302_8rp0,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div1,Potomac State,wvupotomacstatecollege,brycesuters8q7m,Bryce Suters
+Feb 25,home,USC Sumter,L,5-2,5,2,3,win,20240225_1gfq,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div1,Potomac State,wvupotomacstatecollege,brycesuters8q7m,Bryce Suters
+Feb 25,home,USC Sumter,L,2-1,2,1,1,win,20240225_twgx,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div1,Potomac State,wvupotomacstatecollege,brycesuters8q7m,Bryce Suters
+Feb 24,home,USC Sumter,L,7-1,7,1,6,win,20240224_uchz,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div1,Potomac State,wvupotomacstatecollege,brycesuters8q7m,Bryce Suters
+Feb 24,home,USC Sumter,L,21-9,21,9,12,win,20240224_kkfh,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div1,Potomac State,wvupotomacstatecollege,brycesuters8q7m,Bryce Suters

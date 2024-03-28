@@ -1,8 +1,20 @@
 date,location,opponent,result,score,team_score,opp_score,game_score_diff,game_win_loss,game_id,GS,W,L,SV,IP,H,R,ER,ERA,BB,K,HR,season,njcaa_season,njcaa_division,team,team_id,player_id,player_name
-Mar 22,home,Moberly Area,L,8-5,8,5,3,win,20240322_t3p2,0,0,0,0,1.1,,1,,0.00,3.00,4,,2024,2023-24,div2,North Central Missouri,northcentralmissouricollege,juancampusanofv0q,Juan Campusano
-Mar 20,home,John Melvin University,L,10-8,10,8,2,win,20240320_3cmp,0,0,0,0,1.2,0,0,0,0.00,.00,0,1,2024,2023-24,div2,North Central Missouri,northcentralmissouricollege,juancampusanofv0q,Juan Campusano
-Mar 17,home,Lewis & Clark,L,8-4,8,4,4,win,20240317_ypgg,0,0,0,0,2.0,5,3,,0.00,3.00,1,,2024,2023-24,div2,North Central Missouri,northcentralmissouricollege,juancampusanofv0q,Juan Campusano
-Mar 11,home,Ellsworth,L,14-12,14,12,2,win,20240311_qjed,0,0,1,0,0.1,1,2,2,54.00,9.00,2,,2024,2023-24,div2,North Central Missouri,northcentralmissouricollege,juancampusanofv0q,Juan Campusano
-Mar 3,home,Spoon River,L,17-8,17,8,9,win,20240303_iqc0,0,0,0,0,1.0,5,5,5,45.00,6.00,1,1,2024,2023-24,div2,North Central Missouri,northcentralmissouricollege,juancampusanofv0q,Juan Campusano
-Mar 2,home,Spoon River,W,18-8,18,8,10,win,20240302_218b,0,0,0,1,0.1,,,,0.00,,,,2024,2023-24,div2,North Central Missouri,northcentralmissouricollege,juancampusanofv0q,Juan Campusano
-Feb 24,home,North Arkansas,L,3-2,3,2,1,win,20240224_e3y3,0,0,1,0,1.2,4,2,2,10.80,2.40,,1,2024,2023-24,div2,North Central Missouri,northcentralmissouricollege,juancampusanofv0q,Juan Campusano
+Mar 23,home,Moberly Area,W,12-2,12,2,10,win,20240323_oqu9,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div2,North Central Missouri,northcentralmissouricollege,juancampusanofv0q,Juan Campusano
+Mar 22,home,Moberly Area,L,8-5,8,5,3,win,20240322_t3p2,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div2,North Central Missouri,northcentralmissouricollege,juancampusanofv0q,Juan Campusano
+Mar 20,home,John Melvin University,L,14-4,14,4,10,win,20240320_yahs,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div2,North Central Missouri,northcentralmissouricollege,juancampusanofv0q,Juan Campusano
+Mar 20,home,John Melvin University,L,10-8,10,8,2,win,20240320_3cmp,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div2,North Central Missouri,northcentralmissouricollege,juancampusanofv0q,Juan Campusano
+Mar 19,home,Baker University JV,W,12-3,12,3,9,win,20240319_3iup,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div2,North Central Missouri,northcentralmissouricollege,juancampusanofv0q,Juan Campusano
+Mar 19,home,Baker University JV,W,10-2,10,2,8,win,20240319_8wza,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div2,North Central Missouri,northcentralmissouricollege,juancampusanofv0q,Juan Campusano
+Mar 17,home,Lewis & Clark,L,5-2,5,2,3,win,20240317_d972,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div2,North Central Missouri,northcentralmissouricollege,juancampusanofv0q,Juan Campusano
+Mar 17,home,Lewis & Clark,L,8-4,8,4,4,win,20240317_ypgg,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div2,North Central Missouri,northcentralmissouricollege,juancampusanofv0q,Juan Campusano
+Mar 16,home,Lewis & Clark,W,8-0,8,0,8,win,20240316_w837,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div2,North Central Missouri,northcentralmissouricollege,juancampusanofv0q,Juan Campusano
+Mar 12,home,John Wood,L,11-8,11,8,3,win,20240312_iun4,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div2,North Central Missouri,northcentralmissouricollege,juancampusanofv0q,Juan Campusano
+Mar 11,home,Ellsworth,L,14-12,14,12,2,win,20240311_qjed,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div2,North Central Missouri,northcentralmissouricollege,juancampusanofv0q,Juan Campusano
+Mar 10,home,Ellsworth,L,7-3,7,3,4,win,20240310_mptf,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div2,North Central Missouri,northcentralmissouricollege,juancampusanofv0q,Juan Campusano
+Mar 10,home,Ellsworth,L,6-3,6,3,3,win,20240310_455v,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div2,North Central Missouri,northcentralmissouricollege,juancampusanofv0q,Juan Campusano
+Mar 3,home,Spoon River,L,14-3,14,3,11,win,20240303_oivi,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div2,North Central Missouri,northcentralmissouricollege,juancampusanofv0q,Juan Campusano
+Mar 3,home,Spoon River,L,17-8,17,8,9,win,20240303_iqc0,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div2,North Central Missouri,northcentralmissouricollege,juancampusanofv0q,Juan Campusano
+Mar 2,home,Spoon River,W,18-8,18,8,10,win,20240302_218b,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div2,North Central Missouri,northcentralmissouricollege,juancampusanofv0q,Juan Campusano
+Feb 25,home,Western Tech,W,4-3,4,3,1,win,20240225_h4pn,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div2,North Central Missouri,northcentralmissouricollege,juancampusanofv0q,Juan Campusano
+Feb 18,home,Milwaukee Area Tech,W,10-4,10,4,6,win,20240218_swxm,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div2,North Central Missouri,northcentralmissouricollege,juancampusanofv0q,Juan Campusano
+Feb 17,home,Milwaukee Area Tech,W,9-3,9,3,6,win,20240217_0r4m,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div2,North Central Missouri,northcentralmissouricollege,juancampusanofv0q,Juan Campusano
