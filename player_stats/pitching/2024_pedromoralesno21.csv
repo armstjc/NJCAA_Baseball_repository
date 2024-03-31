@@ -1,11 +1,16 @@
 date,location,opponent,result,score,team_score,opp_score,game_score_diff,game_win_loss,game_id,GS,W,L,SV,IP,H,R,ER,ERA,BB,K,HR,season,njcaa_season,njcaa_division,team,team_id,player_id,player_name
-Mar 21,home,South Florida State,W,11-1,11,1,10,win,20240321_4y2l,1,1,0,0,5.0,2,1,1,1.80,.80,2,4,2024,2023-24,div2,Florida State Jacksonville,floridastatecollegeatjacksonville,pedromoralesno21,Pedro Morales
-Mar 16,home,Palm Beach State,W,5-2,5,2,3,win,20240316_t6wq,1,1,0,0,6.1,4,2,1,1.42,.95,2,0,2024,2023-24,div2,Florida State Jacksonville,floridastatecollegeatjacksonville,pedromoralesno21,Pedro Morales
-Mar 8,home,Pasco-Hernando State,W,4-0,4,0,4,win,20240308_dvqv,1,1,0,0,7.0,4,0,0,0.00,.86,2,3,2024,2023-24,div2,Florida State Jacksonville,floridastatecollegeatjacksonville,pedromoralesno21,Pedro Morales
-Mar 1,home,St. Johns River State,L,10-0,10,0,10,win,20240301_7ezw,1,0,1,0,3.0,4,4,2,6.00,1.67,1,6,2024,2023-24,div2,Florida State Jacksonville,floridastatecollegeatjacksonville,pedromoralesno21,Pedro Morales
-Feb 24,home,Lake-Sumter State,L,3-2,3,2,1,win,20240224_z57f,1,0,0,0,4.2,2,0,0,0.00,1.07,3,7,2024,2023-24,div2,Florida State Jacksonville,floridastatecollegeatjacksonville,pedromoralesno21,Pedro Morales
-Feb 17,home,USC Sumter,W,6-3,6,3,3,win,20240217_55oa,1,1,0,0,6.0,7,3,3,4.50,1.17,0,5,2024,2023-24,div2,Florida State Jacksonville,floridastatecollegeatjacksonville,pedromoralesno21,Pedro Morales
-Feb 10,home,Daytona State,W,5-4,5,4,1,win,20240210_hvx2,0,0,0,0,3.0,2,1,,0.00,.67,,1,2024,2023-24,div2,Florida State Jacksonville,floridastatecollegeatjacksonville,pedromoralesno21,Pedro Morales
-Feb 7,home,Edward Waters University JV,W,15-1,15,1,14,win,20240207_03g1,0,0,0,0,1.0,,,,0.00,1.00,1,1,2024,2023-24,div2,Florida State Jacksonville,floridastatecollegeatjacksonville,pedromoralesno21,Pedro Morales
-Feb 2,home,Hillsborough,L,9-1,9,1,8,win,20240202_pk0t,1,0,1,0,3.2,2,4,4,9.82,1.36,3,2,2024,2023-24,div2,Florida State Jacksonville,floridastatecollegeatjacksonville,pedromoralesno21,Pedro Morales
-Jan 26,home,Daytona State,L,6-1,6,1,5,win,20240126_exzc,1,0,1,0,2.0,1,2,2,9.00,2.50,4,4,2024,2023-24,div2,Florida State Jacksonville,floridastatecollegeatjacksonville,pedromoralesno21,Pedro Morales
+Mar 29,home,Lake-Sumter State,L,4-2,4,2,2,win,20240329_av7y,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div2,Florida State Jacksonville,floridastatecollegeatjacksonville,pedromoralesno21,Pedro Morales
+Mar 21,home,South Florida State,L,9-4,9,4,5,win,20240321_or6a,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div2,Florida State Jacksonville,floridastatecollegeatjacksonville,pedromoralesno21,Pedro Morales
+Mar 21,home,South Florida State,W,11-1,11,1,10,win,20240321_4y2l,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div2,Florida State Jacksonville,floridastatecollegeatjacksonville,pedromoralesno21,Pedro Morales
+Mar 19,home,Central Florida,L,9-7,9,7,2,win,20240319_t2dr,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div2,Florida State Jacksonville,floridastatecollegeatjacksonville,pedromoralesno21,Pedro Morales
+Mar 16,home,Palm Beach State,W,9-8,9,8,1,win,20240316_z4pd,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div2,Florida State Jacksonville,floridastatecollegeatjacksonville,pedromoralesno21,Pedro Morales
+Feb 25,home,Lake-Sumter State,W,9-8,9,8,1,win,20240225_g1d8,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div2,Florida State Jacksonville,floridastatecollegeatjacksonville,pedromoralesno21,Pedro Morales
+Feb 17,home,USC Sumter,L,9-4,9,4,5,win,20240217_7u51,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div2,Florida State Jacksonville,floridastatecollegeatjacksonville,pedromoralesno21,Pedro Morales
+Feb 17,home,USC Sumter,W,6-3,6,3,3,win,20240217_55oa,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div2,Florida State Jacksonville,floridastatecollegeatjacksonville,pedromoralesno21,Pedro Morales
+Feb 14,home,South Georgia State,L,7-5,7,5,2,win,20240214_yxur,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div2,Florida State Jacksonville,floridastatecollegeatjacksonville,pedromoralesno21,Pedro Morales
+Feb 10,home,Daytona State,W,5-4,5,4,1,win,20240210_hvx2,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div2,Florida State Jacksonville,floridastatecollegeatjacksonville,pedromoralesno21,Pedro Morales
+Feb 7,home,Edward Waters University JV,W,15-1,15,1,14,win,20240207_03g1,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div2,Florida State Jacksonville,floridastatecollegeatjacksonville,pedromoralesno21,Pedro Morales
+Feb 3,home,Hillsborough,W,4-2,4,2,2,win,20240203_r3oq,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div2,Florida State Jacksonville,floridastatecollegeatjacksonville,pedromoralesno21,Pedro Morales
+Feb 2,home,Hillsborough,L,8-7,8,7,1,win,20240202_ovsg,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div2,Florida State Jacksonville,floridastatecollegeatjacksonville,pedromoralesno21,Pedro Morales
+Jan 26,home,Daytona State,L,6-5,6,5,1,win,20240126_ig27,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div2,Florida State Jacksonville,floridastatecollegeatjacksonville,pedromoralesno21,Pedro Morales
+Jan 26,home,Daytona State,L,6-1,6,1,5,win,20240126_exzc,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div2,Florida State Jacksonville,floridastatecollegeatjacksonville,pedromoralesno21,Pedro Morales

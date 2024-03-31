@@ -1,23 +1,16 @@
 date,location,opponent,result,score,team_score,opp_score,game_score_diff,game_win_loss,game_id,AB,R,H,2B,3B,HR,RBI,BB,K,SB,CS,HBP,SF,SH,TB,XBH,HDP,GO,FO,GO/FO,PA,season,njcaa_season,njcaa_division,team,team_id,player_id,player_name
-Jan 26,home,Abraham Baldwin,W,9-1,9,1,8,win,20240126_mc8z,2,1,1,,,,0,1,2,,,,,,1,0,,,,,3,2024,2023-24,div2,St. Johns River State,stjohnsriverstatecollege,andresnateradtdq,Andres Natera
-Jan 26,home,Abraham Baldwin,W,11-4,11,4,7,win,20240126_soez,3,2,1,,,,1,,2,,,1,,,1,0,,,,,4,2024,2023-24,div2,St. Johns River State,stjohnsriverstatecollege,andresnateradtdq,Andres Natera
-Jan 29,home,Abraham Baldwin,W,15-1,15,1,14,win,20240129_0yd3,4,3,2,,,1,4,1,2,1,,,,,5,1,,,,,5,2024,2023-24,div2,St. Johns River State,stjohnsriverstatecollege,andresnateradtdq,Andres Natera
-Jan 31,home,Daytona State,W,13-1,13,1,12,win,20240131_uh9l,4,2,2,,,,1,,1,,,,,,2,0,,,,,4,2024,2023-24,div2,St. Johns River State,stjohnsriverstatecollege,andresnateradtdq,Andres Natera
-Feb 2,home,Dyersburg State,W,5-2,5,2,3,win,20240202_z8ox,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0,,,3,2024,2023-24,div2,St. Johns River State,stjohnsriverstatecollege,andresnateradtdq,Andres Natera
-Feb 3,home,Wabash Valley,W,5-1,5,1,4,win,20240203_jovb,1,1,1,,,1,2,2,,,,,,,4,1,,,,,3,2024,2023-24,div2,St. Johns River State,stjohnsriverstatecollege,andresnateradtdq,Andres Natera
-Feb 11,home,East Georgia State,W,11-0,11,0,11,win,20240211_g04o,5,1,1,,,,0,,,,,,,,1,0,,,,,5,2024,2023-24,div2,St. Johns River State,stjohnsriverstatecollege,andresnateradtdq,Andres Natera
-Feb 16,home,South Georgia State,W,4-0,4,0,4,win,20240216_rnbv,4,0,1,,,,0,,2,,1,,,,1,0,,,,,4,2024,2023-24,div2,St. Johns River State,stjohnsriverstatecollege,andresnateradtdq,Andres Natera
-Feb 16,home,South Georgia State,W,2-1,2,1,1,win,20240216_x9lv,3,0,1,,,,0,,1,,,,,,1,0,,,,,3,2024,2023-24,div2,St. Johns River State,stjohnsriverstatecollege,andresnateradtdq,Andres Natera
-Feb 20,home,Santa Fe,W,8-5,8,5,3,win,20240220_ihsr,3,0,0,,,,0,2,2,,,,,,0,0,,,,,5,2024,2023-24,div2,St. Johns River State,stjohnsriverstatecollege,andresnateradtdq,Andres Natera
-Feb 24,home,Palm Beach State,W,17-4,17,4,13,win,20240224_5864,4,3,1,,,,0,2,1,,,,,,1,0,,,,,6,2024,2023-24,div2,St. Johns River State,stjohnsriverstatecollege,andresnateradtdq,Andres Natera
-Feb 29,home,Florida State Jacksonville,W,10-1,10,1,9,win,20240229_2ir7,2,0,1,,,,1,,1,,,3,,,1,0,,,,,5,2024,2023-24,div2,St. Johns River State,stjohnsriverstatecollege,andresnateradtdq,Andres Natera
-Mar 1,home,Florida State Jacksonville,W,10-0,10,0,10,win,20240301_7ezw,3,2,2,,,,0,,1,,,,,,2,0,,,,,3,2024,2023-24,div2,St. Johns River State,stjohnsriverstatecollege,andresnateradtdq,Andres Natera
-Mar 8,home,Lake-Sumter State,W,4-3,4,3,1,win,20240308_9wd2,3,0,0,,,,1,,,,,1,,,0,0,,,,,4,2024,2023-24,div2,St. Johns River State,stjohnsriverstatecollege,andresnateradtdq,Andres Natera
-Mar 9,home,Lake-Sumter State,W,11-3,11,3,8,win,20240309_607r,0,3,0,,,,1,2,,1,,2,,,0,0,,,,,4,2024,2023-24,div2,St. Johns River State,stjohnsriverstatecollege,andresnateradtdq,Andres Natera
-Mar 12,home,Santa Fe,W,19-12,19,12,7,win,20240312_bbjc,4,4,3,2,,,2,1,,,,1,,,5,2,,,,,6,2024,2023-24,div2,St. Johns River State,stjohnsriverstatecollege,andresnateradtdq,Andres Natera
-Mar 15,home,South Florida State,W,21-11,21,11,10,win,20240315_bhn7,4,3,2,,,1,1,1,,,,,,,5,1,,,,,5,2024,2023-24,div2,St. Johns River State,stjohnsriverstatecollege,andresnateradtdq,Andres Natera
-Mar 16,home,South Florida State,W,9-2,9,2,7,win,20240316_wc44,1,0,0,,,,1,2,1,1,,,1,,0,0,,,,,4,2024,2023-24,div2,St. Johns River State,stjohnsriverstatecollege,andresnateradtdq,Andres Natera
-Mar 19,home,Seminole State (FL),W,20-10,20,10,10,win,20240319_i5yu,3,4,1,,,1,3,1,1,1,,2,,,4,1,,,,,6,2024,2023-24,div2,St. Johns River State,stjohnsriverstatecollege,andresnateradtdq,Andres Natera
-Mar 23,home,Pasco-Hernando State,W,9-8,9,8,1,win,20240323_evwa,3,0,1,,,,2,1,1,,,,1,,1,0,,,,,5,2024,2023-24,div2,St. Johns River State,stjohnsriverstatecollege,andresnateradtdq,Andres Natera
-Mar 26,home,Embry Riddle University,W,9-6,9,6,3,win,20240326_8mne,5,1,2,1,,,2,1,,,,,,,3,1,,,,,6,2024,2023-24,div2,St. Johns River State,stjohnsriverstatecollege,andresnateradtdq,Andres Natera
-Mar 29,home,Palm Beach State,W,6-5,6,5,1,win,20240329_n1dx,5,1,1,,,,0,,1,,,,,,1,0,,,,,5,2024,2023-24,div2,St. Johns River State,stjohnsriverstatecollege,andresnateradtdq,Andres Natera
+Jan 26,home,Abraham Baldwin,W,11-4,11,4,7,win,20240126_soez,1,0,0,,,,0,,,,,,,,0,0,,,,,1,2024,2023-24,div2,St. Johns River State,stjohnsriverstatecollege,andresnateradtdq,Andres Natera
+Jan 29,home,Abraham Baldwin,W,4-2,4,2,2,win,20240129_01vy,2,0,0,,,,0,,,,,,,1,0,0,1,,,,3,2024,2023-24,div2,St. Johns River State,stjohnsriverstatecollege,andresnateradtdq,Andres Natera
+Jan 31,home,Daytona State,W,13-1,13,1,12,win,20240131_uh9l,1,0,1,,,,1,,,,,,,,1,0,,,,,1,2024,2023-24,div2,St. Johns River State,stjohnsriverstatecollege,andresnateradtdq,Andres Natera
+Feb 2,home,Dyersburg State,W,5-2,5,2,3,win,20240202_z8ox,3,1,1,0,0,1,1,0,1,0,0,0,0,0,4,1,,0,,,3,2024,2023-24,div2,St. Johns River State,stjohnsriverstatecollege,andresnateradtdq,Andres Natera
+Feb 3,home,Wabash Valley,W,5-1,5,1,4,win,20240203_jovb,2,0,0,,,,0,,,,,,,1,0,0,1,,,,3,2024,2023-24,div2,St. Johns River State,stjohnsriverstatecollege,andresnateradtdq,Andres Natera
+Feb 10,home,Miami Dade,W,9-0,9,0,9,win,20240210_28yp,2,2,1,,,,1,1,,,,,,,1,0,,,,,3,2024,2023-24,div2,St. Johns River State,stjohnsriverstatecollege,andresnateradtdq,Andres Natera
+Feb 11,home,East Georgia State,W,11-0,11,0,11,win,20240211_g04o,4,1,1,,,,0,,1,,,,,,1,0,1,,,,4,2024,2023-24,div2,St. Johns River State,stjohnsriverstatecollege,andresnateradtdq,Andres Natera
+Feb 16,home,South Georgia State,W,4-0,4,0,4,win,20240216_rnbv,2,0,2,,,,2,1,,1,,,,,2,0,,,,,3,2024,2023-24,div2,St. Johns River State,stjohnsriverstatecollege,andresnateradtdq,Andres Natera
+Feb 16,home,South Georgia State,W,2-1,2,1,1,win,20240216_x9lv,3,0,0,,,,0,,,,,,,,0,0,,,,,3,2024,2023-24,div2,St. Johns River State,stjohnsriverstatecollege,andresnateradtdq,Andres Natera
+Feb 20,home,Santa Fe,W,8-5,8,5,3,win,20240220_ihsr,3,0,1,1,,,2,1,1,1,,,,,2,1,,,,,4,2024,2023-24,div2,St. Johns River State,stjohnsriverstatecollege,andresnateradtdq,Andres Natera
+Feb 24,home,Palm Beach State,W,17-4,17,4,13,win,20240224_5864,5,1,2,1,,,4,1,1,,,,,,3,1,,,,,6,2024,2023-24,div2,St. Johns River State,stjohnsriverstatecollege,andresnateradtdq,Andres Natera
+Mar 8,home,Lake-Sumter State,W,4-3,4,3,1,win,20240308_9wd2,3,0,0,,,,0,1,2,,,,,,0,0,,,,,4,2024,2023-24,div2,St. Johns River State,stjohnsriverstatecollege,andresnateradtdq,Andres Natera
+Mar 9,home,Lake-Sumter State,W,11-3,11,3,8,win,20240309_607r,3,0,1,,,,1,1,1,,,,,,1,0,,,,,4,2024,2023-24,div2,St. Johns River State,stjohnsriverstatecollege,andresnateradtdq,Andres Natera
+Mar 12,home,Santa Fe,W,19-12,19,12,7,win,20240312_bbjc,4,3,2,,,,2,2,,,,,,,2,0,,,,,6,2024,2023-24,div2,St. Johns River State,stjohnsriverstatecollege,andresnateradtdq,Andres Natera
+Mar 16,home,South Florida State,W,9-2,9,2,7,win,20240316_wc44,1,0,0,,,,0,,1,,,,,,0,0,,,,,1,2024,2023-24,div2,St. Johns River State,stjohnsriverstatecollege,andresnateradtdq,Andres Natera

@@ -1,29 +1,11 @@
 date,location,opponent,result,score,team_score,opp_score,game_score_diff,game_win_loss,game_id,TC,PO,A,E,FPCT,DP,SBA,RCS,RCS_PCT,PB,CI,season,njcaa_season,njcaa_division,team,team_id,player_id,player_name
-Jan 26,home,San Jacinto,W,11-9,11,9,2,win,20240126_8rgj,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Arizona Western,arizonawesterncollege,aidenschmidgallhu8m,Aiden Schmidgall
-Jan 27,home,Utah State Eastern,W,16-10,16,10,6,win,20240127_or4w,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Arizona Western,arizonawesterncollege,aidenschmidgallhu8m,Aiden Schmidgall
-Jan 27,home,Southern Nevada,W,4-3,4,3,1,win,20240127_7clx,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Arizona Western,arizonawesterncollege,aidenschmidgallhu8m,Aiden Schmidgall
-Feb 2,home,Northeastern,W,9-8,9,8,1,win,20240202_66yj,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Arizona Western,arizonawesterncollege,aidenschmidgallhu8m,Aiden Schmidgall
-Feb 3,home,Northeastern,W,6-5,6,5,1,win,20240203_frr5,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Arizona Western,arizonawesterncollege,aidenschmidgallhu8m,Aiden Schmidgall
-Feb 10,home,Chandler-Gilbert,L,11-3,11,3,8,win,20240210_je5j,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Arizona Western,arizonawesterncollege,aidenschmidgallhu8m,Aiden Schmidgall
-Feb 17,home,Eastern Arizona,L,5-2,5,2,3,win,20240217_1ecg,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Arizona Western,arizonawesterncollege,aidenschmidgallhu8m,Aiden Schmidgall
-Feb 17,home,Eastern Arizona,W,9-6,9,6,3,win,20240217_qchc,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Arizona Western,arizonawesterncollege,aidenschmidgallhu8m,Aiden Schmidgall
-Feb 20,home,Central Arizona,W,4-3,4,3,1,win,20240220_kns9,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Arizona Western,arizonawesterncollege,aidenschmidgallhu8m,Aiden Schmidgall
-Feb 20,home,Central Arizona,L,12-7,12,7,5,win,20240220_9ja6,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Arizona Western,arizonawesterncollege,aidenschmidgallhu8m,Aiden Schmidgall
-Feb 24,home,Yavapai,W,5-4,5,4,1,win,20240224_zd48,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Arizona Western,arizonawesterncollege,aidenschmidgallhu8m,Aiden Schmidgall
-Feb 24,home,Yavapai,W,23-9,23,9,14,win,20240224_pk3j,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Arizona Western,arizonawesterncollege,aidenschmidgallhu8m,Aiden Schmidgall
-Feb 29,home,Asian Breeze,W,12-11,12,11,1,win,20240229_tua4,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Arizona Western,arizonawesterncollege,aidenschmidgallhu8m,Aiden Schmidgall
-Mar 2,home,Cochise,W,6-3,6,3,3,win,20240302_a4xt,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Arizona Western,arizonawesterncollege,aidenschmidgallhu8m,Aiden Schmidgall
-Mar 2,home,Cochise,W,9-4,9,4,5,win,20240302_hlfj,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Arizona Western,arizonawesterncollege,aidenschmidgallhu8m,Aiden Schmidgall
-Mar 5,home,Chandler-Gilbert,W,4-0,4,0,4,win,20240305_29cx,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Arizona Western,arizonawesterncollege,aidenschmidgallhu8m,Aiden Schmidgall
-Mar 5,home,Chandler-Gilbert,L,12-2,12,2,10,win,20240305_uclc,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Arizona Western,arizonawesterncollege,aidenschmidgallhu8m,Aiden Schmidgall
-Mar 9,home,Scottsdale,W,3-1,3,1,2,win,20240309_e4vp,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Arizona Western,arizonawesterncollege,aidenschmidgallhu8m,Aiden Schmidgall
-Mar 9,home,Scottsdale,W,10-0,10,0,10,win,20240309_1vt2,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Arizona Western,arizonawesterncollege,aidenschmidgallhu8m,Aiden Schmidgall
-Mar 14,home,Community Christian (CA),W,9-0,9,0,9,win,20240314_s5e5,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Arizona Western,arizonawesterncollege,aidenschmidgallhu8m,Aiden Schmidgall
-Mar 15,home,Community Christian (CA),W,17-0,17,0,17,win,20240315_zl3v,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Arizona Western,arizonawesterncollege,aidenschmidgallhu8m,Aiden Schmidgall
-Mar 15,home,Community Christian (CA),W,14-0,14,0,14,win,20240315_878j,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Arizona Western,arizonawesterncollege,aidenschmidgallhu8m,Aiden Schmidgall
-Mar 19,home,Phoenix,W,3-0,3,0,3,win,20240319_n5rb,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Arizona Western,arizonawesterncollege,aidenschmidgallhu8m,Aiden Schmidgall
-Mar 19,home,Phoenix,L,7-4,7,4,3,win,20240319_c2f1,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Arizona Western,arizonawesterncollege,aidenschmidgallhu8m,Aiden Schmidgall
-Mar 23,home,Paradise Valley,W,7-0,7,0,7,win,20240323_z4fy,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Arizona Western,arizonawesterncollege,aidenschmidgallhu8m,Aiden Schmidgall
-Mar 23,home,Paradise Valley,W,10-8,10,8,2,win,20240323_4smm,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Arizona Western,arizonawesterncollege,aidenschmidgallhu8m,Aiden Schmidgall
-Mar 26,home,Mesa,W,3-1,3,1,2,win,20240326_5zxv,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Arizona Western,arizonawesterncollege,aidenschmidgallhu8m,Aiden Schmidgall
-Mar 26,home,Mesa,W,8-4,8,4,4,win,20240326_vp49,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Arizona Western,arizonawesterncollege,aidenschmidgallhu8m,Aiden Schmidgall
+Jan 26,home,San Jacinto,W,11-9,11,9,2,win,20240126_8rgj,0,0,0,1,1.0,1,,,0.00,2.00,1,2024,2023-24,div1,Arizona Western,arizonawesterncollege,aidenschmidgallhu8m,Aiden Schmidgall
+Jan 27,home,Southern Nevada,W,4-3,4,3,1,win,20240127_7clx,0,1,0,0,3.0,1,1,1,3.00,1.00,2,2024,2023-24,div1,Arizona Western,arizonawesterncollege,aidenschmidgallhu8m,Aiden Schmidgall
+Feb 2,home,Northeastern,W,9-8,9,8,1,win,20240202_66yj,0,0,0,0,2.0,2,1,1,4.50,2.00,2,2024,2023-24,div1,Arizona Western,arizonawesterncollege,aidenschmidgallhu8m,Aiden Schmidgall
+Feb 3,home,Northeastern,W,6-5,6,5,1,win,20240203_frr5,0,0,0,0,0.1,3,3,3,81.00,9.00,,2024,2023-24,div1,Arizona Western,arizonawesterncollege,aidenschmidgallhu8m,Aiden Schmidgall
+Feb 13,home,South Mountain,L,9-4,9,4,5,win,20240213_48uq,0,0,0,0,1.2,1,,,0.00,.60,,2024,2023-24,div1,Arizona Western,arizonawesterncollege,aidenschmidgallhu8m,Aiden Schmidgall
+Feb 17,home,Eastern Arizona,L,5-2,5,2,3,win,20240217_1ecg,0,0,0,0,0.2,2,1,1,13.50,3.00,,2024,2023-24,div1,Arizona Western,arizonawesterncollege,aidenschmidgallhu8m,Aiden Schmidgall
+Feb 29,home,Asian Breeze,W,12-11,12,11,1,win,20240229_tua4,0,0,0,0,0.2,4,6,6,81.00,9.00,2,2024,2023-24,div1,Arizona Western,arizonawesterncollege,aidenschmidgallhu8m,Aiden Schmidgall
+Mar 5,home,Chandler-Gilbert,L,12-2,12,2,10,win,20240305_uclc,0,0,0,0,1.1,1,1,1,6.75,.75,,2024,2023-24,div1,Arizona Western,arizonawesterncollege,aidenschmidgallhu8m,Aiden Schmidgall
+Mar 14,home,Community Christian (CA),W,9-0,9,0,9,win,20240314_s5e5,0,0,0,0,2.0,,,,0.00,,,2024,2023-24,div1,Arizona Western,arizonawesterncollege,aidenschmidgallhu8m,Aiden Schmidgall
+Mar 19,home,Phoenix,L,7-4,7,4,3,win,20240319_c2f1,0,0,0,0,1.0,1,,,0.00,1.00,,2024,2023-24,div1,Arizona Western,arizonawesterncollege,aidenschmidgallhu8m,Aiden Schmidgall

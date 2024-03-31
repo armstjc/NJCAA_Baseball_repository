@@ -1,15 +1,10 @@
 date,location,opponent,result,score,team_score,opp_score,game_score_diff,game_win_loss,game_id,GS,W,L,SV,IP,H,R,ER,ERA,BB,K,HR,season,njcaa_season,njcaa_division,team,team_id,player_id,player_name
-Mar 26,home,Mesa,W,8-4,8,4,4,win,20240326_vp49,0,0,0,0,1.0,,,,0.00,,,2,2024,2023-24,div1,Arizona Western,arizonawesterncollege,bradynelsonhwjn,Brady Nelson
-Mar 23,home,Paradise Valley,W,10-8,10,8,2,win,20240323_4smm,1,1,0,0,5.0,4,0,0,0.00,1.00,1,2,2024,2023-24,div1,Arizona Western,arizonawesterncollege,bradynelsonhwjn,Brady Nelson
-Mar 19,home,Phoenix,L,7-4,7,4,3,win,20240319_c2f1,0,0,0,0,3.0,3,1,1,3.00,1.00,,5,2024,2023-24,div1,Arizona Western,arizonawesterncollege,bradynelsonhwjn,Brady Nelson
-Mar 15,home,Community Christian (CA),W,17-0,17,0,17,win,20240315_zl3v,0,0,0,0,2.0,1,,,0.00,1.00,1,1,2024,2023-24,div1,Arizona Western,arizonawesterncollege,bradynelsonhwjn,Brady Nelson
-Mar 2,home,Cochise,W,9-4,9,4,5,win,20240302_hlfj,0,1,0,0,4.0,1,,,0.00,.25,,3,2024,2023-24,div1,Arizona Western,arizonawesterncollege,bradynelsonhwjn,Brady Nelson
-Feb 29,home,Asian Breeze,W,12-11,12,11,1,win,20240229_tua4,1,0,0,0,1.0,0,0,0,0.00,.00,0,1,2024,2023-24,div1,Arizona Western,arizonawesterncollege,bradynelsonhwjn,Brady Nelson
-Feb 27,home,Pima,L,9-1,9,1,8,win,20240227_r9zc,0,0,0,0,2.0,2,3,2,9.00,1.50,1,2,2024,2023-24,div1,Arizona Western,arizonawesterncollege,bradynelsonhwjn,Brady Nelson
-Feb 24,home,Yavapai,W,23-9,23,9,14,win,20240224_pk3j,0,0,0,0,1.0,,,,0.00,,,,2024,2023-24,div1,Arizona Western,arizonawesterncollege,bradynelsonhwjn,Brady Nelson
-Feb 20,home,Central Arizona,L,12-7,12,7,5,win,20240220_9ja6,0,0,0,0,1.0,1,,,0.00,1.00,,,2024,2023-24,div1,Arizona Western,arizonawesterncollege,bradynelsonhwjn,Brady Nelson
-Feb 17,home,Eastern Arizona,W,9-6,9,6,3,win,20240217_qchc,0,0,0,0,2.0,2,1,1,4.50,1.50,1,1,2024,2023-24,div1,Arizona Western,arizonawesterncollege,bradynelsonhwjn,Brady Nelson
-Feb 13,home,South Mountain,L,9-4,9,4,5,win,20240213_48uq,0,0,1,0,1.0,3,5,5,45.00,5.00,2,2,2024,2023-24,div1,Arizona Western,arizonawesterncollege,bradynelsonhwjn,Brady Nelson
-Feb 10,home,Chandler-Gilbert,L,11-3,11,3,8,win,20240210_je5j,0,0,0,0,1.1,4,1,,0.00,3.00,,4,2024,2023-24,div1,Arizona Western,arizonawesterncollege,bradynelsonhwjn,Brady Nelson
-Feb 2,home,Northeastern,W,9-8,9,8,1,win,20240202_66yj,1,0,0,0,3.2,7,4,2,4.91,2.18,1,3,2024,2023-24,div1,Arizona Western,arizonawesterncollege,bradynelsonhwjn,Brady Nelson
-Jan 26,home,San Jacinto,W,11-9,11,9,2,win,20240126_8rgj,1,1,0,0,4.0,4,2,2,4.50,1.00,0,0,2024,2023-24,div1,Arizona Western,arizonawesterncollege,bradynelsonhwjn,Brady Nelson
+Mar 26,home,Mesa,W,8-4,8,4,4,win,20240326_vp49,0,0,0,0,1.0,,,,0.00,1.00,1,,2024,2023-24,div1,Arizona Western,arizonawesterncollege,bradynelsonhwjn,Brady Nelson
+Mar 2,home,Cochise,W,9-4,9,4,5,win,20240302_hlfj,0,0,0,0,1.0,,1,1,9.00,3.00,3,1,2024,2023-24,div1,Arizona Western,arizonawesterncollege,bradynelsonhwjn,Brady Nelson
+Feb 29,home,Asian Breeze,W,12-11,12,11,1,win,20240229_tua4,0,0,0,0,1.0,2,1,1,9.00,2.00,,,2024,2023-24,div1,Arizona Western,arizonawesterncollege,bradynelsonhwjn,Brady Nelson
+Feb 24,home,Yavapai,W,23-9,23,9,14,win,20240224_pk3j,0,0,0,0,1.0,2,3,3,27.00,3.00,1,,2024,2023-24,div1,Arizona Western,arizonawesterncollege,bradynelsonhwjn,Brady Nelson
+Feb 20,home,Central Arizona,L,12-7,12,7,5,win,20240220_9ja6,0,0,0,0,0.1,,,,0.00,,,,2024,2023-24,div1,Arizona Western,arizonawesterncollege,bradynelsonhwjn,Brady Nelson
+Feb 20,home,Central Arizona,W,4-3,4,3,1,win,20240220_kns9,0,0,0,0,1.0,1,,,0.00,1.00,,,2024,2023-24,div1,Arizona Western,arizonawesterncollege,bradynelsonhwjn,Brady Nelson
+Feb 17,home,Eastern Arizona,L,5-2,5,2,3,win,20240217_1ecg,0,0,0,0,1.0,1,,,0.00,1.00,,,2024,2023-24,div1,Arizona Western,arizonawesterncollege,bradynelsonhwjn,Brady Nelson
+Feb 10,home,Chandler-Gilbert,L,11-3,11,3,8,win,20240210_je5j,0,0,0,0,2.0,,,,0.00,1.00,2,3,2024,2023-24,div1,Arizona Western,arizonawesterncollege,bradynelsonhwjn,Brady Nelson
+Jan 27,home,Utah State Eastern,W,16-10,16,10,6,win,20240127_or4w,0,1,0,0,4.1,4,2,1,2.08,1.85,4,1,2024,2023-24,div1,Arizona Western,arizonawesterncollege,bradynelsonhwjn,Brady Nelson

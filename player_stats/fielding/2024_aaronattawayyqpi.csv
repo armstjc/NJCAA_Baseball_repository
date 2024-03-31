@@ -1,12 +1,14 @@
 date,location,opponent,result,score,team_score,opp_score,game_score_diff,game_win_loss,game_id,TC,PO,A,E,FPCT,DP,SBA,RCS,RCS_PCT,PB,CI,season,njcaa_season,njcaa_division,team,team_id,player_id,player_name
-Jan 26,home,Eastern Florida State,L,8-7,8,7,1,win,20240126_l4fq,0,0,0,0,0.2,3,2,1,13.50,4.50,,2024,2023-24,div1,South Georgia State,southgeorgiastatecollege,aaronattawayyqpi,Aaron Attaway
-Jan 31,home,Thomas University JV,W,9-5,9,5,4,win,20240131_wmxj,0,1,0,0,2.1,,,,0.00,,,2024,2023-24,div1,South Georgia State,southgeorgiastatecollege,aaronattawayyqpi,Aaron Attaway
-Feb 20,home,Florida State Jacksonville,L,16-6,16,6,10,win,20240220_cqqw,0,0,0,0,1.2,4,4,4,21.60,2.40,,2024,2023-24,div1,South Georgia State,southgeorgiastatecollege,aaronattawayyqpi,Aaron Attaway
-Feb 26,home,Brewton Parker JV,W,9-5,9,5,4,win,20240226_e6lp,0,1,0,0,2.0,1,,,0.00,1.50,2,2024,2023-24,div1,South Georgia State,southgeorgiastatecollege,aaronattawayyqpi,Aaron Attaway
-Feb 27,home,Thomas University JV,W,13-11,13,11,2,win,20240227_v2lb,0,0,0,1,0.2,,,,0.00,,,2024,2023-24,div1,South Georgia State,southgeorgiastatecollege,aaronattawayyqpi,Aaron Attaway
-Feb 29,home,Southern Union State,L,3-2,3,2,1,win,20240229_cnu0,0,0,0,0,1.0,1,,,0.00,2.00,1,2024,2023-24,div1,South Georgia State,southgeorgiastatecollege,aaronattawayyqpi,Aaron Attaway
-Mar 5,home,USC Salkehatchie,W,6-2,6,2,4,win,20240305_xul3,0,0,0,0,0.1,0,0,0,0.00,.00,0,2024,2023-24,div1,South Georgia State,southgeorgiastatecollege,aaronattawayyqpi,Aaron Attaway
-Mar 14,home,USC Salkehatchie,W,6-5,6,5,1,win,20240314_9mjk,0,0,0,0,0.2,1,2,2,27.00,1.50,0,2024,2023-24,div1,South Georgia State,southgeorgiastatecollege,aaronattawayyqpi,Aaron Attaway
-Mar 19,home,Andrew,W,14-9,14,9,5,win,20240319_witt,0,0,0,0,1.1,2,1,1,6.75,1.50,,2024,2023-24,div1,South Georgia State,southgeorgiastatecollege,aaronattawayyqpi,Aaron Attaway
-Mar 21,home,Andrew,L,8-7,8,7,1,win,20240321_ebnc,0,0,0,0,0.1,,,,0.00,,,2024,2023-24,div1,South Georgia State,southgeorgiastatecollege,aaronattawayyqpi,Aaron Attaway
-Mar 26,home,Gordon State,L,5-1,5,1,4,win,20240326_3tt2,0,0,0,0,0.1,2,1,,0.00,6.00,,2024,2023-24,div1,South Georgia State,southgeorgiastatecollege,aaronattawayyqpi,Aaron Attaway
+Jan 27,home,Eastern Florida State,L,4-3,4,3,1,win,20240127_1ze6,0,0,0,0,3.0,2,,,0.00,.67,,2024,2023-24,div1,South Georgia State,southgeorgiastatecollege,aaronattawayyqpi,Aaron Attaway
+Feb 10,home,Central Florida,L,14-4,14,4,10,win,20240210_qdz6,0,0,0,0,0.1,3,5,5,135.00,12.00,1,2024,2023-24,div1,South Georgia State,southgeorgiastatecollege,aaronattawayyqpi,Aaron Attaway
+Feb 20,home,Florida State Jacksonville,L,16-6,16,6,10,win,20240220_cqqw,0,0,0,0,1.0,,,,0.00,,,2024,2023-24,div1,South Georgia State,southgeorgiastatecollege,aaronattawayyqpi,Aaron Attaway
+Feb 26,home,Brewton Parker JV,W,10-0,10,0,10,win,20240226_cgik,0,1,0,0,4.0,2,,,0.00,1.00,2,2024,2023-24,div1,South Georgia State,southgeorgiastatecollege,aaronattawayyqpi,Aaron Attaway
+Feb 29,home,Southern Union State,L,3-2,3,2,1,win,20240229_cnu0,0,0,1,0,0.0,,1,1,INF,,1,2024,2023-24,div1,South Georgia State,southgeorgiastatecollege,aaronattawayyqpi,Aaron Attaway
+Mar 2,home,Southern Union State,L,9-1,9,1,8,win,20240302_665q,0,0,0,0,0.1,,,,0.00,,,2024,2023-24,div1,South Georgia State,southgeorgiastatecollege,aaronattawayyqpi,Aaron Attaway
+Mar 5,home,USC Salkehatchie,W,6-2,6,2,4,win,20240305_xul3,0,0,0,0,0.2,1,0,0,0.00,3.00,1,2024,2023-24,div1,South Georgia State,southgeorgiastatecollege,aaronattawayyqpi,Aaron Attaway
+Mar 13,home,Ed Waters JV,W,9-3,9,3,6,win,20240313_68r5,0,0,0,0,0.1,0,0,0,0.00,.00,0,2024,2023-24,div1,South Georgia State,southgeorgiastatecollege,aaronattawayyqpi,Aaron Attaway
+Mar 14,home,USC Salkehatchie,W,9-3,9,3,6,win,20240314_sowp,0,0,0,0,3.0,2,0,0,0.00,.67,0,2024,2023-24,div1,South Georgia State,southgeorgiastatecollege,aaronattawayyqpi,Aaron Attaway
+Mar 19,home,Andrew,W,14-9,14,9,5,win,20240319_witt,0,1,0,0,0.1,,,,0.00,,,2024,2023-24,div1,South Georgia State,southgeorgiastatecollege,aaronattawayyqpi,Aaron Attaway
+Mar 21,home,Andrew,L,8-7,8,7,1,win,20240321_ebnc,0,0,0,0,1.2,2,2,1,5.40,2.40,2,2024,2023-24,div1,South Georgia State,southgeorgiastatecollege,aaronattawayyqpi,Aaron Attaway
+Mar 26,home,Gordon State,L,5-1,5,1,4,win,20240326_3tt2,0,0,0,0,3.0,4,2,2,6.00,1.67,1,2024,2023-24,div1,South Georgia State,southgeorgiastatecollege,aaronattawayyqpi,Aaron Attaway
+Mar 30,home,Gordon State,L,21-6,21,6,15,win,20240330_7w8y,0,0,0,0,0.0,3,3,,0.00,,,2024,2023-24,div1,South Georgia State,southgeorgiastatecollege,aaronattawayyqpi,Aaron Attaway
