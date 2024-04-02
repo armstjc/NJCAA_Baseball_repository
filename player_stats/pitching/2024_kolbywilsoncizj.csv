@@ -1,10 +1,13 @@
 date,location,opponent,result,score,team_score,opp_score,game_score_diff,game_win_loss,game_id,GS,W,L,SV,IP,H,R,ER,ERA,BB,K,HR,season,njcaa_season,njcaa_division,team,team_id,player_id,player_name
-Mar 27,home,Galveston,L,10-8,10,8,2,win,20240327_5txb,0,0,1,0,0.2,4,6,4,54.00,9.00,2,1,2024,2023-24,div1,Wharton County,whartoncountyjuniorcollege,kolbywilsoncizj,Kolby Wilson
-Mar 24,home,Blinn,L,2-1,2,1,1,win,20240324_1s10,0,0,0,0,2.2,3,,,0.00,1.13,,1,2024,2023-24,div1,Wharton County,whartoncountyjuniorcollege,kolbywilsoncizj,Kolby Wilson
-Mar 19,home,Blinn,L,10-6,10,6,4,win,20240319_e6d8,0,0,0,0,2.2,,,,0.00,.38,1,3,2024,2023-24,div1,Wharton County,whartoncountyjuniorcollege,kolbywilsoncizj,Kolby Wilson
-Mar 15,home,Coastal Bend,W,12-1,12,1,11,win,20240315_gyon,0,0,0,0,1.0,,,,0.00,,,1,2024,2023-24,div1,Wharton County,whartoncountyjuniorcollege,kolbywilsoncizj,Kolby Wilson
-Mar 12,home,South Suburban,W,8-6,8,6,2,win,20240312_fza9,0,0,0,0,2.2,3,3,3,10.13,2.25,3,5,2024,2023-24,div1,Wharton County,whartoncountyjuniorcollege,kolbywilsoncizj,Kolby Wilson
-Feb 23,home,Howard (TX),L,17-5,17,5,12,win,20240223_u05j,0,0,0,0,2.0,5,6,,0.00,3.50,2,,2024,2023-24,div1,Wharton County,whartoncountyjuniorcollege,kolbywilsoncizj,Kolby Wilson
-Feb 19,home,Navarro,L,12-0,12,0,12,win,20240219_ukty,0,0,0,0,1.1,2,1,1,6.75,2.25,1,2,2024,2023-24,div1,Wharton County,whartoncountyjuniorcollege,kolbywilsoncizj,Kolby Wilson
-Feb 11,home,Odessa,W,12-2,12,2,10,win,20240211_la0j,0,0,0,0,1.0,1,,,0.00,2.00,1,1,2024,2023-24,div1,Wharton County,whartoncountyjuniorcollege,kolbywilsoncizj,Kolby Wilson
-Jan 27,home,Eastern Oklahoma State,W,21-0,21,0,21,win,20240127_z59d,0,0,0,0,1.0,,,,0.00,,,2,2024,2023-24,div1,Wharton County,whartoncountyjuniorcollege,kolbywilsoncizj,Kolby Wilson
+Mar 27,home,Galveston,L,10-8,10,8,2,win,20240327_5txb,0,0,0,0,1.1,1,,,0.00,.75,,2,2024,2023-24,div1,Wharton County,whartoncountyjuniorcollege,kolbywilsoncizj,Kolby Wilson
+Mar 24,home,Blinn,L,2-1,2,1,1,win,20240324_1s10,0,0,0,0,1.1,1,,,0.00,.75,,1,2024,2023-24,div1,Wharton County,whartoncountyjuniorcollege,kolbywilsoncizj,Kolby Wilson
+Mar 19,home,Blinn,L,10-6,10,6,4,win,20240319_e6d8,0,0,1,0,2.0,2,2,2,9.00,2.00,2,1,2024,2023-24,div1,Wharton County,whartoncountyjuniorcollege,kolbywilsoncizj,Kolby Wilson
+Mar 14,home,Coastal Bend,W,12-9,12,9,3,win,20240314_v2ke,0,0,0,0,5.2,7,3,3,4.76,1.41,1,1,2024,2023-24,div1,Wharton County,whartoncountyjuniorcollege,kolbywilsoncizj,Kolby Wilson
+Mar 5,home,Alvin,W,10-6,10,6,4,win,20240305_h3xr,0,0,0,0,3.0,5,3,3,9.00,1.67,,2,2024,2023-24,div1,Wharton County,whartoncountyjuniorcollege,kolbywilsoncizj,Kolby Wilson
+Feb 29,home,San Jacinto,L,5-3,5,3,2,win,20240229_1vbp,0,0,0,0,3.1,3,1,1,2.70,1.50,2,2,2024,2023-24,div1,Wharton County,whartoncountyjuniorcollege,kolbywilsoncizj,Kolby Wilson
+Feb 26,home,Tyler,W,12-4,12,4,8,win,20240226_xm7c,0,0,0,0,1.0,,1,,0.00,1.00,1,,2024,2023-24,div1,Wharton County,whartoncountyjuniorcollege,kolbywilsoncizj,Kolby Wilson
+Feb 23,home,Howard (TX),L,17-5,17,5,12,win,20240223_u05j,0,0,1,0,1.2,5,5,5,27.00,4.80,3,2,2024,2023-24,div1,Wharton County,whartoncountyjuniorcollege,kolbywilsoncizj,Kolby Wilson
+Feb 18,home,Navarro,W,8-2,8,2,6,win,20240218_fjxw,0,0,0,0,2.0,2,2,1,4.50,1.00,,2,2024,2023-24,div1,Wharton County,whartoncountyjuniorcollege,kolbywilsoncizj,Kolby Wilson
+Feb 12,home,Grayson,W,5-4,5,4,1,win,20240212_yb9x,0,0,0,0,2.2,1,2,2,6.75,1.13,2,1,2024,2023-24,div1,Wharton County,whartoncountyjuniorcollege,kolbywilsoncizj,Kolby Wilson
+Feb 2,home,Ranger,L,2-0,2,0,2,win,20240202_9smo,0,0,0,0,2.2,3,,,0.00,1.13,,4,2024,2023-24,div1,Wharton County,whartoncountyjuniorcollege,kolbywilsoncizj,Kolby Wilson
+Jan 27,home,Eastern Oklahoma State,W,21-0,21,0,21,win,20240127_z59d,0,0,0,0,2.0,2,,,0.00,1.00,,1,2024,2023-24,div1,Wharton County,whartoncountyjuniorcollege,kolbywilsoncizj,Kolby Wilson
