@@ -1,35 +1,5 @@
 date,location,opponent,result,score,team_score,opp_score,game_score_diff,game_win_loss,game_id,GS,W,L,SV,IP,H,R,ER,ERA,BB,K,HR,season,njcaa_season,njcaa_division,team,team_id,player_id,player_name
-Mar 30,home,Dodge City,W,6-3,6,3,3,win,20240330_h1ed,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div1,Cloud County,cloudcountycommunitycollege,jacksoncrossrw1s,Jackson Cross
-Mar 30,home,Dodge City,L,11-1,11,1,10,win,20240330_coag,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div1,Cloud County,cloudcountycommunitycollege,jacksoncrossrw1s,Jackson Cross
-Mar 28,home,Dodge City,L,9-5,9,5,4,win,20240328_svo2,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div1,Cloud County,cloudcountycommunitycollege,jacksoncrossrw1s,Jackson Cross
-Mar 28,home,Dodge City,W,9-2,9,2,7,win,20240328_fh1x,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div1,Cloud County,cloudcountycommunitycollege,jacksoncrossrw1s,Jackson Cross
-Mar 23,home,Seward County,L,7-6,7,6,1,win,20240323_o63a,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div1,Cloud County,cloudcountycommunitycollege,jacksoncrossrw1s,Jackson Cross
-Mar 23,home,Seward County,W,11-2,11,2,9,win,20240323_46ws,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div1,Cloud County,cloudcountycommunitycollege,jacksoncrossrw1s,Jackson Cross
-Mar 21,home,Seward County,L,14-4,14,4,10,win,20240321_qx7l,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div1,Cloud County,cloudcountycommunitycollege,jacksoncrossrw1s,Jackson Cross
-Mar 21,home,Seward County,W,5-1,5,1,4,win,20240321_zqsb,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div1,Cloud County,cloudcountycommunitycollege,jacksoncrossrw1s,Jackson Cross
-Mar 18,home,Iowa Western,W,4-2,4,2,2,win,20240318_efjv,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div1,Cloud County,cloudcountycommunitycollege,jacksoncrossrw1s,Jackson Cross
-Mar 16,home,Pratt,W,11-0,11,0,11,win,20240316_bfg1,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div1,Cloud County,cloudcountycommunitycollege,jacksoncrossrw1s,Jackson Cross
-Mar 16,home,Pratt,W,6-0,6,0,6,win,20240316_z288,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div1,Cloud County,cloudcountycommunitycollege,jacksoncrossrw1s,Jackson Cross
-Mar 14,home,Pratt,W,10-0,10,0,10,win,20240314_hwhe,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div1,Cloud County,cloudcountycommunitycollege,jacksoncrossrw1s,Jackson Cross
-Mar 14,home,Pratt,W,6-4,6,4,2,win,20240314_2hxp,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div1,Cloud County,cloudcountycommunitycollege,jacksoncrossrw1s,Jackson Cross
-Mar 12,home,Iowa Western,L,6-2,6,2,4,win,20240312_96b2,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div1,Cloud County,cloudcountycommunitycollege,jacksoncrossrw1s,Jackson Cross
-Mar 10,home,Colby,W,13-7,13,7,6,win,20240310_nd3k,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div1,Cloud County,cloudcountycommunitycollege,jacksoncrossrw1s,Jackson Cross
-Mar 10,home,Colby,W,11-6,11,6,5,win,20240310_67qh,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div1,Cloud County,cloudcountycommunitycollege,jacksoncrossrw1s,Jackson Cross
-Mar 6,home,Colby,W,11-4,11,4,7,win,20240306_tg6n,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div1,Cloud County,cloudcountycommunitycollege,jacksoncrossrw1s,Jackson Cross
-Mar 6,home,Colby,W,9-2,9,2,7,win,20240306_pkpv,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div1,Cloud County,cloudcountycommunitycollege,jacksoncrossrw1s,Jackson Cross
-Mar 2,home,Johnson County,L,14-6,14,6,8,win,20240302_88pd,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div1,Cloud County,cloudcountycommunitycollege,jacksoncrossrw1s,Jackson Cross
-Mar 2,home,Johnson County,W,6-2,6,2,4,win,20240302_62sw,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div1,Cloud County,cloudcountycommunitycollege,jacksoncrossrw1s,Jackson Cross
-Feb 29,home,Johnson County,L,7-6,7,6,1,win,20240229_6zle,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div1,Cloud County,cloudcountycommunitycollege,jacksoncrossrw1s,Jackson Cross
-Feb 29,home,Johnson County,W,7-5,7,5,2,win,20240229_4fgp,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div1,Cloud County,cloudcountycommunitycollege,jacksoncrossrw1s,Jackson Cross
-Feb 24,home,Southeast,L,17-11,17,11,6,win,20240224_xfuy,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div1,Cloud County,cloudcountycommunitycollege,jacksoncrossrw1s,Jackson Cross
-Feb 24,home,Southeast,W,3-2,3,2,1,win,20240224_c5l5,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div1,Cloud County,cloudcountycommunitycollege,jacksoncrossrw1s,Jackson Cross
-Feb 22,home,Southeast,L,11-6,11,6,5,win,20240222_p7nf,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div1,Cloud County,cloudcountycommunitycollege,jacksoncrossrw1s,Jackson Cross
-Feb 22,home,Southeast,W,5-1,5,1,4,win,20240222_9rjp,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div1,Cloud County,cloudcountycommunitycollege,jacksoncrossrw1s,Jackson Cross
-Feb 19,home,Marshalltown,W,8-2,8,2,6,win,20240219_3z7l,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div1,Cloud County,cloudcountycommunitycollege,jacksoncrossrw1s,Jackson Cross
-Feb 19,home,Marshalltown,W,7-6,7,6,1,win,20240219_pv0u,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div1,Cloud County,cloudcountycommunitycollege,jacksoncrossrw1s,Jackson Cross
-Feb 18,home,Marshalltown,W,13-12,13,12,1,win,20240218_77l7,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div1,Cloud County,cloudcountycommunitycollege,jacksoncrossrw1s,Jackson Cross
-Feb 18,home,Marshalltown,W,6-4,6,4,2,win,20240218_otlx,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div1,Cloud County,cloudcountycommunitycollege,jacksoncrossrw1s,Jackson Cross
-Feb 15,home,Northeastern Oklahoma A&M,W,5-0,5,0,5,win,20240215_6c8z,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div1,Cloud County,cloudcountycommunitycollege,jacksoncrossrw1s,Jackson Cross
-Feb 2,home,Des Moines Area,L,10-6,10,6,4,win,20240202_cdor,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div1,Cloud County,cloudcountycommunitycollege,jacksoncrossrw1s,Jackson Cross
-Feb 1,home,Des Moines Area,L,12-9,12,9,3,win,20240201_fbla,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div1,Cloud County,cloudcountycommunitycollege,jacksoncrossrw1s,Jackson Cross
-Feb 1,home,Des Moines Area,W,8-2,8,2,6,win,20240201_5pxx,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div1,Cloud County,cloudcountycommunitycollege,jacksoncrossrw1s,Jackson Cross
+Mar 21,home,Seward County,L,14-4,14,4,10,win,20240321_qx7l,0,0,0,0,0.0,,3,3,INF,,2,,2024,2023-24,div1,Cloud County,cloudcountycommunitycollege,jacksoncrossrw1s,Jackson Cross
+Mar 12,home,Iowa Western,L,6-2,6,2,4,win,20240312_96b2,0,0,0,0,1.0,2,1,,0.00,3.00,1,1,2024,2023-24,div1,Cloud County,cloudcountycommunitycollege,jacksoncrossrw1s,Jackson Cross
+Mar 2,home,Johnson County,L,14-6,14,6,8,win,20240302_88pd,0,0,0,0,1.0,,1,1,9.00,1.00,1,,2024,2023-24,div1,Cloud County,cloudcountycommunitycollege,jacksoncrossrw1s,Jackson Cross
+Feb 19,home,Marshalltown,W,7-6,7,6,1,win,20240219_pv0u,0,0,0,0,2.0,1,1,1,4.50,1.00,1,1,2024,2023-24,div1,Cloud County,cloudcountycommunitycollege,jacksoncrossrw1s,Jackson Cross

@@ -1,10 +1,17 @@
 date,location,opponent,result,score,team_score,opp_score,game_score_diff,game_win_loss,game_id,GS,W,L,SV,IP,H,R,ER,ERA,BB,K,HR,season,njcaa_season,njcaa_division,team,team_id,player_id,player_name
-Mar 26,home,Paradise Valley,W,6-1,6,1,5,win,20240326_pe4q,1,1,0,0,7.0,3,0,0,0.00,.43,0,4,2024,2023-24,div1,Central Arizona,centralarizonacollege,lukemeyersu0jj,Luke Meyers
-Mar 19,home,Scottsdale,W,7-0,7,0,7,win,20240319_l2yz,1,1,0,0,7.0,0,0,0,0.00,.14,1,8,2024,2023-24,div1,Central Arizona,centralarizonacollege,lukemeyersu0jj,Luke Meyers
-Mar 13,home,Yavapai,W,12-5,12,5,7,win,20240313_vcbo,1,1,0,0,5.0,4,3,2,3.60,1.40,3,4,2024,2023-24,div1,Central Arizona,centralarizonacollege,lukemeyersu0jj,Luke Meyers
-Mar 5,home,GateWay (AZ),L,10-1,10,1,9,win,20240305_p0bd,1,0,1,0,5.2,3,2,2,3.18,1.06,3,7,2024,2023-24,div1,Central Arizona,centralarizonacollege,lukemeyersu0jj,Luke Meyers
-Feb 27,home,Eastern Arizona,W,3-0,3,0,3,win,20240227_vaxd,1,1,0,0,7.0,3,0,0,0.00,.43,0,11,2024,2023-24,div1,Central Arizona,centralarizonacollege,lukemeyersu0jj,Luke Meyers
-Feb 20,home,Arizona Western,L,4-3,4,3,1,win,20240220_kns9,1,0,0,0,5.2,6,3,0,0.00,1.41,2,7,2024,2023-24,div1,Central Arizona,centralarizonacollege,lukemeyersu0jj,Luke Meyers
-Feb 10,home,Southern Idaho,W,7-0,7,0,7,win,20240210_277w,1,1,0,0,7.0,2,0,0,0.00,.29,0,10,2024,2023-24,div1,Central Arizona,centralarizonacollege,lukemeyersu0jj,Luke Meyers
-Feb 3,home,Salt Lake,L,5-0,5,0,5,win,20240203_oy2e,1,0,1,0,5.0,3,1,0,0.00,1.00,2,8,2024,2023-24,div1,Central Arizona,centralarizonacollege,lukemeyersu0jj,Luke Meyers
-Jan 27,home,San Jacinto,L,8-6,8,6,2,win,20240127_k377,1,0,0,0,3.0,2,2,2,6.00,2.00,4,3,2024,2023-24,div1,Central Arizona,centralarizonacollege,lukemeyersu0jj,Luke Meyers
+Mar 29,home,Mesa,W,10-3,10,3,7,win,20240329_p0if,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div1,Central Arizona,centralarizonacollege,lukemeyersu0jj,Luke Meyers
+Mar 26,home,Paradise Valley,W,6-3,6,3,3,win,20240326_l4ky,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div1,Central Arizona,centralarizonacollege,lukemeyersu0jj,Luke Meyers
+Mar 26,home,Paradise Valley,W,6-1,6,1,5,win,20240326_pe4q,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div1,Central Arizona,centralarizonacollege,lukemeyersu0jj,Luke Meyers
+Mar 23,home,Phoenix,W,13-0,13,0,13,win,20240323_7xxf,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div1,Central Arizona,centralarizonacollege,lukemeyersu0jj,Luke Meyers
+Mar 22,home,Phoenix,W,19-7,19,7,12,win,20240322_nr4n,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div1,Central Arizona,centralarizonacollege,lukemeyersu0jj,Luke Meyers
+Mar 19,home,Scottsdale,W,9-7,9,7,2,win,20240319_t2so,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div1,Central Arizona,centralarizonacollege,lukemeyersu0jj,Luke Meyers
+Mar 19,home,Scottsdale,W,7-0,7,0,7,win,20240319_l2yz,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div1,Central Arizona,centralarizonacollege,lukemeyersu0jj,Luke Meyers
+Mar 18,home,Langley Blaze,W,17-1,17,1,16,win,20240318_u1hr,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div1,Central Arizona,centralarizonacollege,lukemeyersu0jj,Luke Meyers
+Mar 16,home,Pima,W,6-2,6,2,4,win,20240316_rl1m,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div1,Central Arizona,centralarizonacollege,lukemeyersu0jj,Luke Meyers
+Mar 16,home,Pima,W,4-0,4,0,4,win,20240316_foby,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div1,Central Arizona,centralarizonacollege,lukemeyersu0jj,Luke Meyers
+Mar 13,home,Yavapai,W,12-5,12,5,7,win,20240313_vcbo,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div1,Central Arizona,centralarizonacollege,lukemeyersu0jj,Luke Meyers
+Mar 6,home,GateWay (AZ),W,5-1,5,1,4,win,20240306_m74i,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div1,Central Arizona,centralarizonacollege,lukemeyersu0jj,Luke Meyers
+Mar 5,home,GateWay (AZ),L,10-1,10,1,9,win,20240305_p0bd,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div1,Central Arizona,centralarizonacollege,lukemeyersu0jj,Luke Meyers
+Mar 2,home,Scottsdale Post Grad,W,18-1,18,1,17,win,20240302_qjx5,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div1,Central Arizona,centralarizonacollege,lukemeyersu0jj,Luke Meyers
+Feb 23,home,South Mountain,W,8-2,8,2,6,win,20240223_d37n,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div1,Central Arizona,centralarizonacollege,lukemeyersu0jj,Luke Meyers
+Feb 17,home,Cochise,W,5-1,5,1,4,win,20240217_s15f,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div1,Central Arizona,centralarizonacollege,lukemeyersu0jj,Luke Meyers

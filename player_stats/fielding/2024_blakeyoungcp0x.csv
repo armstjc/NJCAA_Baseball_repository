@@ -1,11 +1,20 @@
 date,location,opponent,result,score,team_score,opp_score,game_score_diff,game_win_loss,game_id,TC,PO,A,E,FPCT,DP,SBA,RCS,RCS_PCT,PB,CI,season,njcaa_season,njcaa_division,team,team_id,player_id,player_name
-Jan 27,home,San Jacinto,W,8-7,8,7,1,win,20240127_kbb4,0,0,0,0,4.1,5,1,1,2.08,1.15,,2024,2023-24,div1,Central Arizona,centralarizonacollege,blakeyoungcp0x,Blake Young
-Feb 4,home,Southern Nevada,W,7-1,7,1,6,win,20240204_vtgo,0,1,0,0,3.2,2,,,0.00,.55,,2024,2023-24,div1,Central Arizona,centralarizonacollege,blakeyoungcp0x,Blake Young
-Feb 10,home,Southern Idaho,L,3-1,3,1,2,win,20240210_w02x,0,0,0,0,1.2,1,,,0.00,.60,,2024,2023-24,div1,Central Arizona,centralarizonacollege,blakeyoungcp0x,Blake Young
-Feb 20,home,Arizona Western,W,12-7,12,7,5,win,20240220_9ja6,0,0,0,0,3.1,4,4,3,8.10,1.80,2,2024,2023-24,div1,Central Arizona,centralarizonacollege,blakeyoungcp0x,Blake Young
-Feb 27,home,Eastern Arizona,W,5-0,5,0,5,win,20240227_8xy3,0,0,0,0,3.0,1,,,0.00,.67,1,2024,2023-24,div1,Central Arizona,centralarizonacollege,blakeyoungcp0x,Blake Young
-Mar 8,home,Chandler-Gilbert,W,7-0,7,0,7,win,20240308_1hk4,0,0,0,0,1.2,,,,0.00,.60,1,2024,2023-24,div1,Central Arizona,centralarizonacollege,blakeyoungcp0x,Blake Young
-Mar 11,home,Western Nebraska,W,13-0,13,0,13,win,20240311_1ggs,1,1,0,0,4.0,2,0,0,0.00,.75,1,2024,2023-24,div1,Central Arizona,centralarizonacollege,blakeyoungcp0x,Blake Young
-Mar 16,home,Pima,W,6-2,6,2,4,win,20240316_rl1m,0,1,0,0,3.1,2,,,0.00,1.20,2,2024,2023-24,div1,Central Arizona,centralarizonacollege,blakeyoungcp0x,Blake Young
-Mar 22,home,Phoenix,W,19-7,19,7,12,win,20240322_nr4n,0,1,0,0,3.1,5,1,1,2.70,2.40,3,2024,2023-24,div1,Central Arizona,centralarizonacollege,blakeyoungcp0x,Blake Young
-Mar 29,home,Mesa,W,10-3,10,3,7,win,20240329_p0if,0,1,0,0,3.0,1,,,0.00,.33,,2024,2023-24,div1,Central Arizona,centralarizonacollege,blakeyoungcp0x,Blake Young
+Feb 4,home,Southern Nevada,W,7-1,7,1,6,win,20240204_vtgo,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Central Arizona,centralarizonacollege,blakeyoungcp0x,Blake Young
+Feb 11,home,Southern Idaho,W,9-0,9,0,9,win,20240211_2nh5,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Central Arizona,centralarizonacollege,blakeyoungcp0x,Blake Young
+Feb 17,home,Cochise,W,6-0,6,0,6,win,20240217_vvt9,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Central Arizona,centralarizonacollege,blakeyoungcp0x,Blake Young
+Feb 20,home,Arizona Western,W,12-7,12,7,5,win,20240220_9ja6,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Central Arizona,centralarizonacollege,blakeyoungcp0x,Blake Young
+Feb 24,home,South Mountain,W,7-3,7,3,4,win,20240224_cvou,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Central Arizona,centralarizonacollege,blakeyoungcp0x,Blake Young
+Feb 27,home,Eastern Arizona,W,3-0,3,0,3,win,20240227_vaxd,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Central Arizona,centralarizonacollege,blakeyoungcp0x,Blake Young
+Feb 27,home,Eastern Arizona,W,5-0,5,0,5,win,20240227_8xy3,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Central Arizona,centralarizonacollege,blakeyoungcp0x,Blake Young
+Mar 2,home,Scottsdale Post Grad,W,18-1,18,1,17,win,20240302_qjx5,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Central Arizona,centralarizonacollege,blakeyoungcp0x,Blake Young
+Mar 6,home,GateWay (AZ),W,5-1,5,1,4,win,20240306_m74i,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Central Arizona,centralarizonacollege,blakeyoungcp0x,Blake Young
+Mar 9,home,Chandler-Gilbert,W,4-2,4,2,2,win,20240309_1ijs,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Central Arizona,centralarizonacollege,blakeyoungcp0x,Blake Young
+Mar 11,home,Western Nebraska,W,13-0,13,0,13,win,20240311_1ggs,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Central Arizona,centralarizonacollege,blakeyoungcp0x,Blake Young
+Mar 13,home,Yavapai,W,23-3,23,3,20,win,20240313_jo21,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Central Arizona,centralarizonacollege,blakeyoungcp0x,Blake Young
+Mar 16,home,Pima,W,6-2,6,2,4,win,20240316_rl1m,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Central Arizona,centralarizonacollege,blakeyoungcp0x,Blake Young
+Mar 18,home,Langley Blaze,W,17-1,17,1,16,win,20240318_u1hr,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Central Arizona,centralarizonacollege,blakeyoungcp0x,Blake Young
+Mar 19,home,Scottsdale,W,9-7,9,7,2,win,20240319_t2so,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Central Arizona,centralarizonacollege,blakeyoungcp0x,Blake Young
+Mar 23,home,Phoenix,W,13-0,13,0,13,win,20240323_7xxf,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Central Arizona,centralarizonacollege,blakeyoungcp0x,Blake Young
+Mar 26,home,Paradise Valley,W,6-3,6,3,3,win,20240326_l4ky,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Central Arizona,centralarizonacollege,blakeyoungcp0x,Blake Young
+Mar 30,home,Mesa,L,5-3,5,3,2,win,20240330_bnwe,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Central Arizona,centralarizonacollege,blakeyoungcp0x,Blake Young
+Apr 3,home,Glendale,W,19-15,19,15,4,win,20240403_382i,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Central Arizona,centralarizonacollege,blakeyoungcp0x,Blake Young
