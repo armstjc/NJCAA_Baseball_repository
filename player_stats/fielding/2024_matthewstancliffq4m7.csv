@@ -1,25 +1,13 @@
 date,location,opponent,result,score,team_score,opp_score,game_score_diff,game_win_loss,game_id,TC,PO,A,E,FPCT,DP,SBA,RCS,RCS_PCT,PB,CI,season,njcaa_season,njcaa_division,team,team_id,player_id,player_name
-Feb 2,home,Iowa Lakes,W,9-1,9,1,8,win,20240202_aaa8,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Northern Oklahoma Tonkawa,northernoklahomacollegetonkawa,matthewstancliffq4m7,Matthew Stancliff
-Feb 2,home,Iowa Lakes,W,11-2,11,2,9,win,20240202_7zw2,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Northern Oklahoma Tonkawa,northernoklahomacollegetonkawa,matthewstancliffq4m7,Matthew Stancliff
-Feb 3,home,Iowa Lakes,W,18-8,18,8,10,win,20240203_yr0i,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Northern Oklahoma Tonkawa,northernoklahomacollegetonkawa,matthewstancliffq4m7,Matthew Stancliff
-Feb 3,home,Iowa Lakes,W,8-0,8,0,8,win,20240203_5w9o,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Northern Oklahoma Tonkawa,northernoklahomacollegetonkawa,matthewstancliffq4m7,Matthew Stancliff
-Feb 7,home,Dallas College - Brookhaven,L,6-2,6,2,4,win,20240207_wfrr,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Northern Oklahoma Tonkawa,northernoklahomacollegetonkawa,matthewstancliffq4m7,Matthew Stancliff
-Feb 9,home,Hesston,W,30-6,30,6,24,win,20240209_z6lp,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Northern Oklahoma Tonkawa,northernoklahomacollegetonkawa,matthewstancliffq4m7,Matthew Stancliff
-Feb 10,home,Hesston,W,22-2,22,2,20,win,20240210_l348,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Northern Oklahoma Tonkawa,northernoklahomacollegetonkawa,matthewstancliffq4m7,Matthew Stancliff
-Mar 8,home,Murray State,W,8-7,8,7,1,win,20240308_5uwz,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Northern Oklahoma Tonkawa,northernoklahomacollegetonkawa,matthewstancliffq4m7,Matthew Stancliff
-Mar 9,home,Murray State,W,8-1,8,1,7,win,20240309_dgmh,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Northern Oklahoma Tonkawa,northernoklahomacollegetonkawa,matthewstancliffq4m7,Matthew Stancliff
-Mar 9,home,Murray State,W,6-2,6,2,4,win,20240309_k73j,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Northern Oklahoma Tonkawa,northernoklahomacollegetonkawa,matthewstancliffq4m7,Matthew Stancliff
-Mar 11,home,Minnesota Post Grad,W,13-3,13,3,10,win,20240311_vglb,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Northern Oklahoma Tonkawa,northernoklahomacollegetonkawa,matthewstancliffq4m7,Matthew Stancliff
-Mar 11,home,Minnesota Post Grad,W,11-1,11,1,10,win,20240311_zjp9,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Northern Oklahoma Tonkawa,northernoklahomacollegetonkawa,matthewstancliffq4m7,Matthew Stancliff
-Mar 16,home,Western Oklahoma State,L,11-9,11,9,2,win,20240316_m7gs,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Northern Oklahoma Tonkawa,northernoklahomacollegetonkawa,matthewstancliffq4m7,Matthew Stancliff
-Mar 17,home,Western Oklahoma State,L,6-1,6,1,5,win,20240317_5vo7,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Northern Oklahoma Tonkawa,northernoklahomacollegetonkawa,matthewstancliffq4m7,Matthew Stancliff
-Mar 17,home,Western Oklahoma State,W,12-3,12,3,9,win,20240317_zy8l,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Northern Oklahoma Tonkawa,northernoklahomacollegetonkawa,matthewstancliffq4m7,Matthew Stancliff
-Mar 19,home,Rose State,W,6-1,6,1,5,win,20240319_9sez,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Northern Oklahoma Tonkawa,northernoklahomacollegetonkawa,matthewstancliffq4m7,Matthew Stancliff
-Mar 22,home,Carl Albert State,L,9-3,9,3,6,win,20240322_xi42,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Northern Oklahoma Tonkawa,northernoklahomacollegetonkawa,matthewstancliffq4m7,Matthew Stancliff
-Mar 23,home,Carl Albert State,L,3-0,3,0,3,win,20240323_pak4,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Northern Oklahoma Tonkawa,northernoklahomacollegetonkawa,matthewstancliffq4m7,Matthew Stancliff
-Mar 23,home,Carl Albert State,L,10-9,10,9,1,win,20240323_f579,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Northern Oklahoma Tonkawa,northernoklahomacollegetonkawa,matthewstancliffq4m7,Matthew Stancliff
-Mar 26,home,Hesston,W,30-2,30,2,28,win,20240326_wsvq,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Northern Oklahoma Tonkawa,northernoklahomacollegetonkawa,matthewstancliffq4m7,Matthew Stancliff
-Mar 28,home,Northern Oklahoma Enid,W,15-10,15,10,5,win,20240328_ibsy,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Northern Oklahoma Tonkawa,northernoklahomacollegetonkawa,matthewstancliffq4m7,Matthew Stancliff
-Mar 30,home,Northern Oklahoma Enid,L,10-6,10,6,4,win,20240330_81pw,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Northern Oklahoma Tonkawa,northernoklahomacollegetonkawa,matthewstancliffq4m7,Matthew Stancliff
-Mar 30,home,Northern Oklahoma Enid,L,10-8,10,8,2,win,20240330_kygv,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Northern Oklahoma Tonkawa,northernoklahomacollegetonkawa,matthewstancliffq4m7,Matthew Stancliff
-Apr 4,home,Redlands,W,4-3,4,3,1,win,20240404_mcdf,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Northern Oklahoma Tonkawa,northernoklahomacollegetonkawa,matthewstancliffq4m7,Matthew Stancliff
+Feb 2,home,Iowa Lakes,W,9-1,9,1,8,win,20240202_aaa8,0,1,0,0,5.1,5,1,1,1.69,1.31,2,2024,2023-24,div2,Northern Oklahoma Tonkawa,northernoklahomacollegetonkawa,matthewstancliffq4m7,Matthew Stancliff
+Feb 9,home,Hesston,W,30-6,30,6,24,win,20240209_z6lp,0,1,0,0,4.0,4,1,1,2.25,1.00,,2024,2023-24,div2,Northern Oklahoma Tonkawa,northernoklahomacollegetonkawa,matthewstancliffq4m7,Matthew Stancliff
+Feb 15,home,Pratt,W,6-5,6,5,1,win,20240215_54zd,0,0,0,0,4.2,9,5,3,5.79,2.14,1,2024,2023-24,div2,Northern Oklahoma Tonkawa,northernoklahomacollegetonkawa,matthewstancliffq4m7,Matthew Stancliff
+Feb 23,home,Southeast Arkansas College,W,15-4,15,4,11,win,20240223_9b6s,0,1,0,0,5.2,10,4,4,6.35,1.94,1,2024,2023-24,div2,Northern Oklahoma Tonkawa,northernoklahomacollegetonkawa,matthewstancliffq4m7,Matthew Stancliff
+Feb 29,home,Redlands,W,6-3,6,3,3,win,20240229_wikv,0,1,0,0,6.0,9,3,3,4.50,1.67,1,2024,2023-24,div2,Northern Oklahoma Tonkawa,northernoklahomacollegetonkawa,matthewstancliffq4m7,Matthew Stancliff
+Mar 8,home,Murray State,W,8-7,8,7,1,win,20240308_5uwz,0,0,0,0,6.0,8,5,3,4.50,1.83,3,2024,2023-24,div2,Northern Oklahoma Tonkawa,northernoklahomacollegetonkawa,matthewstancliffq4m7,Matthew Stancliff
+Mar 16,home,Western Oklahoma State,L,11-9,11,9,2,win,20240316_m7gs,0,0,0,0,5.0,8,8,5,9.00,2.00,2,2024,2023-24,div2,Northern Oklahoma Tonkawa,northernoklahomacollegetonkawa,matthewstancliffq4m7,Matthew Stancliff
+Mar 22,home,Carl Albert State,L,9-3,9,3,6,win,20240322_xi42,0,0,1,0,4.2,9,7,3,5.79,2.14,1,2024,2023-24,div2,Northern Oklahoma Tonkawa,northernoklahomacollegetonkawa,matthewstancliffq4m7,Matthew Stancliff
+Mar 26,home,Hesston,W,30-2,30,2,28,win,20240326_wsvq,0,0,0,0,1.0,,,,0.00,,,2024,2023-24,div2,Northern Oklahoma Tonkawa,northernoklahomacollegetonkawa,matthewstancliffq4m7,Matthew Stancliff
+Mar 28,home,Northern Oklahoma Enid,W,15-10,15,10,5,win,20240328_ibsy,0,0,0,0,1.0,,,,0.00,,,2024,2023-24,div2,Northern Oklahoma Tonkawa,northernoklahomacollegetonkawa,matthewstancliffq4m7,Matthew Stancliff
+Mar 30,home,Northern Oklahoma Enid,L,10-8,10,8,2,win,20240330_kygv,0,0,0,0,2.0,6,5,5,22.50,4.00,2,2024,2023-24,div2,Northern Oklahoma Tonkawa,northernoklahomacollegetonkawa,matthewstancliffq4m7,Matthew Stancliff
+Apr 4,home,Redlands,W,4-3,4,3,1,win,20240404_mcdf,0,0,0,1,2.1,2,,,0.00,.86,,2024,2023-24,div2,Northern Oklahoma Tonkawa,northernoklahomacollegetonkawa,matthewstancliffq4m7,Matthew Stancliff

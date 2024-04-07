@@ -1,11 +1,24 @@
 date,location,opponent,result,score,team_score,opp_score,game_score_diff,game_win_loss,game_id,AB,R,H,2B,3B,HR,RBI,BB,K,SB,CS,HBP,SF,SH,TB,XBH,HDP,GO,FO,GO/FO,PA,season,njcaa_season,njcaa_division,team,team_id,player_id,player_name
-Jan 27,home,Northeast Texas,W,7-3,7,3,4,win,20240127_cl6c,0,0,0,,,,0,,,,,,,,0,0,,,,,0,2024,2023-24,div1,Weatherford,weatherfordcollege,tannerwigginsioam,Tanner Wiggins
-Feb 2,home,Lamar,W,6-0,6,0,6,win,20240202_c6mf,0,0,0,,,,0,,,,,,,,0,0,,,,,0,2024,2023-24,div1,Weatherford,weatherfordcollege,tannerwigginsioam,Tanner Wiggins
-Feb 9,home,Tyler,W,9-7,9,7,2,win,20240209_y1mh,0,0,0,,,,0,,,,,,,,0,0,,,,,0,2024,2023-24,div1,Weatherford,weatherfordcollege,tannerwigginsioam,Tanner Wiggins
-Feb 13,home,Blinn,W,9-5,9,5,4,win,20240213_ko5p,0,0,0,,,,0,,,,,,,,0,0,,,,,0,2024,2023-24,div1,Weatherford,weatherfordcollege,tannerwigginsioam,Tanner Wiggins
-Feb 24,home,Odessa,W,6-3,6,3,3,win,20240224_lnir,0,0,0,,,,0,,,,,,,,0,0,,,,,0,2024,2023-24,div1,Weatherford,weatherfordcollege,tannerwigginsioam,Tanner Wiggins
-Mar 1,home,New Mexico Military,W,6-2,6,2,4,win,20240301_yvfj,0,0,0,,,,0,,,,,,,,0,0,,,,,0,2024,2023-24,div1,Weatherford,weatherfordcollege,tannerwigginsioam,Tanner Wiggins
-Mar 17,home,Vernon,W,7-4,7,4,3,win,20240317_xgbl,0,0,0,,,,0,,,,,,,,0,0,,,,,0,2024,2023-24,div1,Weatherford,weatherfordcollege,tannerwigginsioam,Tanner Wiggins
-Mar 20,home,North Central Texas,W,8-4,8,4,4,win,20240320_kx14,0,0,0,,,,0,,,,,,,,0,0,,,,,0,2024,2023-24,div1,Weatherford,weatherfordcollege,tannerwigginsioam,Tanner Wiggins
-Mar 23,home,North Central Texas,W,11-2,11,2,9,win,20240323_v4p5,0,0,0,,,,0,,,,,,,,0,0,,,,,0,2024,2023-24,div1,Weatherford,weatherfordcollege,tannerwigginsioam,Tanner Wiggins
-Mar 27,home,Temple,W,5-4,5,4,1,win,20240327_mnvg,0,0,0,,,,0,,,,,,,,0,0,,,,,0,2024,2023-24,div1,Weatherford,weatherfordcollege,tannerwigginsioam,Tanner Wiggins
+Feb 17,home,Frank Phillips,W,7-1,7,1,6,win,20240217_tu65,3,2,1,,,1,1,1,1,,,,,,4,1,,,,,4,2024,2023-24,div1,Weatherford,weatherfordcollege,tannerwigginsioam,Tanner Wiggins
+Feb 17,home,Frank Phillips,W,10-1,10,1,9,win,20240217_mrzh,4,0,1,,,,0,,,,,,,,1,0,,,,,4,2024,2023-24,div1,Weatherford,weatherfordcollege,tannerwigginsioam,Tanner Wiggins
+Feb 23,home,Odessa,W,10-3,10,3,7,win,20240223_vu1i,4,2,0,,,,1,,1,,,,,,0,0,,,,,4,2024,2023-24,div1,Weatherford,weatherfordcollege,tannerwigginsioam,Tanner Wiggins
+Feb 24,home,Odessa,W,6-3,6,3,3,win,20240224_lnir,3,1,1,,,,1,1,,,,,,,1,0,,,,,4,2024,2023-24,div1,Weatherford,weatherfordcollege,tannerwigginsioam,Tanner Wiggins
+Feb 24,home,Odessa,W,3-2,3,2,1,win,20240224_1swx,2,0,0,,,,0,1,1,,,,,,0,0,,,,,3,2024,2023-24,div1,Weatherford,weatherfordcollege,tannerwigginsioam,Tanner Wiggins
+Mar 1,home,New Mexico Military,W,8-1,8,1,7,win,20240301_7ocw,3,2,2,1,1,,2,1,,,,,,,5,2,,,,,4,2024,2023-24,div1,Weatherford,weatherfordcollege,tannerwigginsioam,Tanner Wiggins
+Mar 1,home,New Mexico Military,W,6-2,6,2,4,win,20240301_yvfj,5,1,2,,,,1,,1,,,,,,2,0,,,,,5,2024,2023-24,div1,Weatherford,weatherfordcollege,tannerwigginsioam,Tanner Wiggins
+Mar 2,home,New Mexico Military,W,10-0,10,0,10,win,20240302_lw24,0,1,0,,,,0,4,,,,,,,0,0,,,,,4,2024,2023-24,div1,Weatherford,weatherfordcollege,tannerwigginsioam,Tanner Wiggins
+Mar 2,home,New Mexico Military,W,5-1,5,1,4,win,20240302_du1j,4,1,1,,,1,1,,,,,,,,4,1,,,,,4,2024,2023-24,div1,Weatherford,weatherfordcollege,tannerwigginsioam,Tanner Wiggins
+Mar 4,home,TCS Post Grad,W,10-0,10,0,10,win,20240304_9xsv,1,1,0,,,,0,2,1,,,,,,0,0,,,,,3,2024,2023-24,div1,Weatherford,weatherfordcollege,tannerwigginsioam,Tanner Wiggins
+Mar 4,home,TCS Post Grad,W,14-4,14,4,10,win,20240304_wcla,1,0,1,,,,1,2,,,1,,,,1,0,,,,,3,2024,2023-24,div1,Weatherford,weatherfordcollege,tannerwigginsioam,Tanner Wiggins
+Mar 13,home,Vernon,W,11-3,11,3,8,win,20240313_3k89,2,2,1,,,,0,2,,,,,,,1,0,,,,,4,2024,2023-24,div1,Weatherford,weatherfordcollege,tannerwigginsioam,Tanner Wiggins
+Mar 13,home,Vernon,W,15-5,15,5,10,win,20240313_a4k1,3,2,2,,,1,6,1,,,,,,,5,1,,,,,4,2024,2023-24,div1,Weatherford,weatherfordcollege,tannerwigginsioam,Tanner Wiggins
+Mar 17,home,Vernon,W,7-4,7,4,3,win,20240317_xgbl,2,1,1,,,,1,2,,,,,,,1,0,,,,,4,2024,2023-24,div1,Weatherford,weatherfordcollege,tannerwigginsioam,Tanner Wiggins
+Mar 17,home,Vernon,W,4-0,4,0,4,win,20240317_pgjm,5,0,0,,,,1,,2,,,,,,0,0,,,,,5,2024,2023-24,div1,Weatherford,weatherfordcollege,tannerwigginsioam,Tanner Wiggins
+Mar 20,home,North Central Texas,W,8-4,8,4,4,win,20240320_kx14,4,1,2,,,1,4,,,,,,,,5,1,,,,,4,2024,2023-24,div1,Weatherford,weatherfordcollege,tannerwigginsioam,Tanner Wiggins
+Mar 20,home,North Central Texas,W,6-5,6,5,1,win,20240320_f0ji,4,0,0,,,,0,1,2,,,,,,0,0,,,,,5,2024,2023-24,div1,Weatherford,weatherfordcollege,tannerwigginsioam,Tanner Wiggins
+Mar 23,home,North Central Texas,W,11-2,11,2,9,win,20240323_v4p5,5,1,2,1,,,2,1,1,,,,,,3,1,,,,,6,2024,2023-24,div1,Weatherford,weatherfordcollege,tannerwigginsioam,Tanner Wiggins
+Mar 23,home,North Central Texas,W,10-0,10,0,10,win,20240323_hl4s,3,1,0,,,,0,1,2,,,,,,0,0,,,,,4,2024,2023-24,div1,Weatherford,weatherfordcollege,tannerwigginsioam,Tanner Wiggins
+Mar 27,home,Temple,W,5-4,5,4,1,win,20240327_mnvg,3,1,0,,,,0,1,3,,,,,,0,0,,,,,4,2024,2023-24,div1,Weatherford,weatherfordcollege,tannerwigginsioam,Tanner Wiggins
+Mar 27,home,Temple,W,8-3,8,3,5,win,20240327_nb74,3,2,1,1,,,1,2,1,,,,,,2,1,,,,,5,2024,2023-24,div1,Weatherford,weatherfordcollege,tannerwigginsioam,Tanner Wiggins
+Mar 29,home,Temple,W,9-2,9,2,7,win,20240329_7dvf,5,2,2,,1,,1,,,1,,,,,4,1,,,,,5,2024,2023-24,div1,Weatherford,weatherfordcollege,tannerwigginsioam,Tanner Wiggins
+Apr 3,home,Cisco,W,8-0,8,0,8,win,20240403_xs8z,4,1,1,,,,0,,,,,,,,1,0,,,,,4,2024,2023-24,div1,Weatherford,weatherfordcollege,tannerwigginsioam,Tanner Wiggins

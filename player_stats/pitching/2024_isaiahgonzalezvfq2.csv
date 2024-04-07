@@ -1,10 +1,12 @@
 date,location,opponent,result,score,team_score,opp_score,game_score_diff,game_win_loss,game_id,GS,W,L,SV,IP,H,R,ER,ERA,BB,K,HR,season,njcaa_season,njcaa_division,team,team_id,player_id,player_name
-Mar 29,home,New Mexico,W,11-10,11,10,1,win,20240329_c12f,1,0,0,0,4.0,7,8,8,18.00,3.00,5,5,2024,2023-24,div1,El Paso,elpasocommunitycollege,isaiahgonzalezvfq2,Isaiah Gonzalez
-Mar 22,home,Amarillo College,W,3-1,3,1,2,win,20240322_ieyu,1,1,0,0,5.0,4,1,1,1.80,2.00,6,8,2024,2023-24,div1,El Paso,elpasocommunitycollege,isaiahgonzalezvfq2,Isaiah Gonzalez
-Mar 15,home,Midland,L,7-0,7,0,7,win,20240315_vktp,1,0,1,0,4.1,9,7,6,12.46,2.77,3,0,2024,2023-24,div1,El Paso,elpasocommunitycollege,isaiahgonzalezvfq2,Isaiah Gonzalez
-Mar 8,home,Western Texas,W,11-9,11,9,2,win,20240308_y8ko,1,0,0,0,2.0,3,6,5,22.50,3.50,4,4,2024,2023-24,div1,El Paso,elpasocommunitycollege,isaiahgonzalezvfq2,Isaiah Gonzalez
-Mar 1,home,California Miramar University,W,10-0,10,0,10,win,20240301_1r0q,1,1,0,0,5.0,3,0,0,0.00,1.40,4,8,2024,2023-24,div1,El Paso,elpasocommunitycollege,isaiahgonzalezvfq2,Isaiah Gonzalez
-Feb 24,home,Western Oklahoma State,L,10-3,10,3,7,win,20240224_fox4,1,0,1,0,4.0,4,4,3,6.75,1.75,3,6,2024,2023-24,div1,El Paso,elpasocommunitycollege,isaiahgonzalezvfq2,Isaiah Gonzalez
-Feb 17,home,Otero,W,4-1,4,1,3,win,20240217_9dv7,1,1,0,0,5.0,2,1,1,1.80,1.00,3,7,2024,2023-24,div1,El Paso,elpasocommunitycollege,isaiahgonzalezvfq2,Isaiah Gonzalez
-Feb 10,home,Lamar,L,3-2,3,2,1,win,20240210_23k4,1,0,1,0,4.0,6,2,2,4.50,2.25,3,8,2024,2023-24,div1,El Paso,elpasocommunitycollege,isaiahgonzalezvfq2,Isaiah Gonzalez
-Feb 3,home,South Mountain,L,5-2,5,2,3,win,20240203_8fpv,1,0,1,0,3.0,3,5,4,12.00,2.00,3,6,2024,2023-24,div1,El Paso,elpasocommunitycollege,isaiahgonzalezvfq2,Isaiah Gonzalez
+Mar 30,home,New Mexico,L,12-2,12,2,10,win,20240330_5paf,0,0,0,0,1.2,2,3,3,16.20,1.80,1,3,2024,2023-24,div1,El Paso,elpasocommunitycollege,isaiahgonzalezvfq2,Isaiah Gonzalez
+Mar 23,home,Amarillo College,W,9-7,9,7,2,win,20240323_bjhz,0,1,0,0,1.1,1,1,1,6.75,.75,,1,2024,2023-24,div1,El Paso,elpasocommunitycollege,isaiahgonzalezvfq2,Isaiah Gonzalez
+Mar 16,home,Midland,L,13-3,13,3,10,win,20240316_jqdd,0,0,0,0,1.2,3,2,1,5.40,2.40,1,2,2024,2023-24,div1,El Paso,elpasocommunitycollege,isaiahgonzalezvfq2,Isaiah Gonzalez
+Mar 8,home,Western Texas,W,11-9,11,9,2,win,20240308_y8ko,0,0,0,0,3.0,3,2,1,3.00,1.00,,3,2024,2023-24,div1,El Paso,elpasocommunitycollege,isaiahgonzalezvfq2,Isaiah Gonzalez
+Mar 2,home,California Miramar University,W,8-7,8,7,1,win,20240302_tqul,0,1,0,0,2.0,2,,,0.00,1.50,1,2,2024,2023-24,div1,El Paso,elpasocommunitycollege,isaiahgonzalezvfq2,Isaiah Gonzalez
+Feb 25,home,Western Oklahoma State,L,15-7,15,7,8,win,20240225_fsa3,0,0,0,0,1.1,1,3,,0.00,1.50,1,2,2024,2023-24,div1,El Paso,elpasocommunitycollege,isaiahgonzalezvfq2,Isaiah Gonzalez
+Feb 23,home,Western Oklahoma State,W,7-6,7,6,1,win,20240223_o8ei,0,1,0,0,0.2,1,1,1,13.50,3.00,1,,2024,2023-24,div1,El Paso,elpasocommunitycollege,isaiahgonzalezvfq2,Isaiah Gonzalez
+Feb 18,home,Otero,L,15-12,15,12,3,win,20240218_6djj,0,0,1,0,0.2,2,3,,0.00,3.00,,,2024,2023-24,div1,El Paso,elpasocommunitycollege,isaiahgonzalezvfq2,Isaiah Gonzalez
+Feb 18,home,Otero,L,1-0,1,0,1,win,20240218_lnzb,0,0,0,0,1.0,,,,0.00,,,,2024,2023-24,div1,El Paso,elpasocommunitycollege,isaiahgonzalezvfq2,Isaiah Gonzalez
+Feb 11,home,Lamar,W,11-10,11,10,1,win,20240211_3646,0,1,0,0,3.1,2,,,0.00,.60,,3,2024,2023-24,div1,El Paso,elpasocommunitycollege,isaiahgonzalezvfq2,Isaiah Gonzalez
+Feb 3,home,South Mountain,L,7-4,7,4,3,win,20240203_1xip,0,0,1,0,2.0,5,4,4,18.00,3.50,2,5,2024,2023-24,div1,El Paso,elpasocommunitycollege,isaiahgonzalezvfq2,Isaiah Gonzalez

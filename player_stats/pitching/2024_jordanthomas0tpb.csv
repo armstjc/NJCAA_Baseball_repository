@@ -1,36 +1,16 @@
 date,location,opponent,result,score,team_score,opp_score,game_score_diff,game_win_loss,game_id,GS,W,L,SV,IP,H,R,ER,ERA,BB,K,HR,season,njcaa_season,njcaa_division,team,team_id,player_id,player_name
-Apr 2,home,University of Tampa (B),W,10-7,10,7,3,win,20240402_g20x,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div1,Polk State,polkstatecollege,jordanthomas0tpb,Jordan Thomas
-Mar 30,home,Indian River State,L,5-2,5,2,3,win,20240330_svvu,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div1,Polk State,polkstatecollege,jordanthomas0tpb,Jordan Thomas
-Mar 24,home,Daytona State,W,12-2,12,2,10,win,20240324_cft7,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div1,Polk State,polkstatecollege,jordanthomas0tpb,Jordan Thomas
-Mar 24,home,Daytona State,W,2-1,2,1,1,win,20240324_fn4m,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div1,Polk State,polkstatecollege,jordanthomas0tpb,Jordan Thomas
-Mar 19,home,Warner University (B),W,5-1,5,1,4,win,20240319_qkfi,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div1,Polk State,polkstatecollege,jordanthomas0tpb,Jordan Thomas
-Mar 16,home,Central Florida,L,11-7,11,7,4,win,20240316_5mi5,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div1,Polk State,polkstatecollege,jordanthomas0tpb,Jordan Thomas
-Mar 16,home,Central Florida,W,5-4,5,4,1,win,20240316_rltf,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div1,Polk State,polkstatecollege,jordanthomas0tpb,Jordan Thomas
-Mar 14,home,Central Florida,W,2-1,2,1,1,win,20240314_a3aj,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div1,Polk State,polkstatecollege,jordanthomas0tpb,Jordan Thomas
-Mar 12,home,Westchester,W,9-8,9,8,1,win,20240312_1g92,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div1,Polk State,polkstatecollege,jordanthomas0tpb,Jordan Thomas
-Mar 9,home,Hillsborough,W,8-2,8,2,6,win,20240309_ogmi,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div1,Polk State,polkstatecollege,jordanthomas0tpb,Jordan Thomas
-Mar 9,home,Hillsborough,W,6-3,6,3,3,win,20240309_gtrs,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div1,Polk State,polkstatecollege,jordanthomas0tpb,Jordan Thomas
-Mar 7,home,Hillsborough,W,6-2,6,2,4,win,20240307_v8q4,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div1,Polk State,polkstatecollege,jordanthomas0tpb,Jordan Thomas
-Mar 5,home,St. Johns River State,W,9-8,9,8,1,win,20240305_6esm,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div1,Polk State,polkstatecollege,jordanthomas0tpb,Jordan Thomas
-Feb 29,home,Miami Dade,L,3-2,3,2,1,win,20240229_43z2,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div1,Polk State,polkstatecollege,jordanthomas0tpb,Jordan Thomas
-Feb 27,home,Indian River State,L,10-0,10,0,10,win,20240227_prg0,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div1,Polk State,polkstatecollege,jordanthomas0tpb,Jordan Thomas
-Feb 24,home,State College of Florida,L,9-7,9,7,2,win,20240224_xj76,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div1,Polk State,polkstatecollege,jordanthomas0tpb,Jordan Thomas
-Feb 24,home,State College of Florida,W,3-2,3,2,1,win,20240224_mh3m,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div1,Polk State,polkstatecollege,jordanthomas0tpb,Jordan Thomas
-Feb 20,home,Webber International University (B),W,10-1,10,1,9,win,20240220_yoci,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div1,Polk State,polkstatecollege,jordanthomas0tpb,Jordan Thomas
-Feb 16,home,Santa Fe,L,8-1,8,1,7,win,20240216_g5bo,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div1,Polk State,polkstatecollege,jordanthomas0tpb,Jordan Thomas
-Feb 15,home,Santa Fe,W,6-4,6,4,2,win,20240215_iltj,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div1,Polk State,polkstatecollege,jordanthomas0tpb,Jordan Thomas
-Feb 13,home,Seminole State (FL),L,3-2,3,2,1,win,20240213_aehn,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div1,Polk State,polkstatecollege,jordanthomas0tpb,Jordan Thomas
-Feb 10,home,Lake-Sumter State,W,15-6,15,6,9,win,20240210_p9tf,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div1,Polk State,polkstatecollege,jordanthomas0tpb,Jordan Thomas
-Feb 10,home,Lake-Sumter State,L,6-2,6,2,4,win,20240210_6ydl,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div1,Polk State,polkstatecollege,jordanthomas0tpb,Jordan Thomas
-Feb 8,home,Eastern Florida State,W,5-3,5,3,2,win,20240208_0sny,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div1,Polk State,polkstatecollege,jordanthomas0tpb,Jordan Thomas
-Feb 7,home,South Florida State,W,12-4,12,4,8,win,20240207_jpms,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div1,Polk State,polkstatecollege,jordanthomas0tpb,Jordan Thomas
-Feb 6,home,Webber International University (B),W,7-6,7,6,1,win,20240206_qfpe,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div1,Polk State,polkstatecollege,jordanthomas0tpb,Jordan Thomas
-Feb 3,home,Pasco-Hernando State,W,4-1,4,1,3,win,20240203_f1ye,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div1,Polk State,polkstatecollege,jordanthomas0tpb,Jordan Thomas
-Feb 3,home,Pasco-Hernando State,L,3-1,3,1,2,win,20240203_8251,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div1,Polk State,polkstatecollege,jordanthomas0tpb,Jordan Thomas
-Feb 2,home,Pasco-Hernando State,W,4-1,4,1,3,win,20240202_z18z,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div1,Polk State,polkstatecollege,jordanthomas0tpb,Jordan Thomas
-Jan 31,home,Lake-Sumter State,W,2-0,2,0,2,win,20240131_nieq,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div1,Polk State,polkstatecollege,jordanthomas0tpb,Jordan Thomas
-Jan 30,home,Hillsborough,L,6-5,6,5,1,win,20240130_8fha,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div1,Polk State,polkstatecollege,jordanthomas0tpb,Jordan Thomas
-Jan 27,home,Palm Beach State,L,10-4,10,4,6,win,20240127_x1en,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div1,Polk State,polkstatecollege,jordanthomas0tpb,Jordan Thomas
-Jan 27,home,South Florida State,L,6-3,6,3,3,win,20240127_219s,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div1,Polk State,polkstatecollege,jordanthomas0tpb,Jordan Thomas
-Jan 26,home,Chipola,W,9-5,9,5,4,win,20240126_9cn7,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div1,Polk State,polkstatecollege,jordanthomas0tpb,Jordan Thomas
-Jan 26,home,St. Petersburg,L,8-6,8,6,2,win,20240126_zkr3,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div1,Polk State,polkstatecollege,jordanthomas0tpb,Jordan Thomas
+Apr 6,home,Eastern Florida State,L,5-2,5,2,3,win,20240406_s9ii,0,0,0,0,0.2,1,,,0.00,3.00,1,,2024,2023-24,div1,Polk State,polkstatecollege,jordanthomas0tpb,Jordan Thomas
+Apr 4,home,Eastern Florida State,W,13-5,13,5,8,win,20240404_3pke,0,0,0,0,1.0,,,,0.00,,,1,2024,2023-24,div1,Polk State,polkstatecollege,jordanthomas0tpb,Jordan Thomas
+Apr 2,home,University of Tampa (B),W,10-7,10,7,3,win,20240402_g20x,0,0,0,0,2.0,1,2,2,9.00,1.50,2,4,2024,2023-24,div1,Polk State,polkstatecollege,jordanthomas0tpb,Jordan Thomas
+Mar 24,home,Daytona State,W,12-2,12,2,10,win,20240324_cft7,0,0,0,0,1.0,,,,0.00,,,,2024,2023-24,div1,Polk State,polkstatecollege,jordanthomas0tpb,Jordan Thomas
+Mar 19,home,Warner University (B),W,5-1,5,1,4,win,20240319_qkfi,0,0,0,0,1.0,,,,0.00,,,2,2024,2023-24,div1,Polk State,polkstatecollege,jordanthomas0tpb,Jordan Thomas
+Mar 16,home,Central Florida,L,11-7,11,7,4,win,20240316_5mi5,0,0,0,0,0.1,1,1,1,27.00,3.00,,,2024,2023-24,div1,Polk State,polkstatecollege,jordanthomas0tpb,Jordan Thomas
+Mar 12,home,Westchester,W,9-8,9,8,1,win,20240312_1g92,0,0,0,0,2.0,2,1,1,4.50,2.00,2,1,2024,2023-24,div1,Polk State,polkstatecollege,jordanthomas0tpb,Jordan Thomas
+Mar 5,home,St. Johns River State,W,9-8,9,8,1,win,20240305_6esm,0,0,0,0,2.0,6,3,3,13.50,3.00,,3,2024,2023-24,div1,Polk State,polkstatecollege,jordanthomas0tpb,Jordan Thomas
+Mar 2,home,Miami Dade,L,9-0,9,0,9,win,20240302_2s2s,0,0,0,0,1.2,2,2,0,0.00,1.20,0,1,2024,2023-24,div1,Polk State,polkstatecollege,jordanthomas0tpb,Jordan Thomas
+Feb 24,home,State College of Florida,L,9-7,9,7,2,win,20240224_xj76,1,0,0,0,1.2,1,0,0,0.00,3.00,4,3,2024,2023-24,div1,Polk State,polkstatecollege,jordanthomas0tpb,Jordan Thomas
+Feb 16,home,Santa Fe,L,8-1,8,1,7,win,20240216_g5bo,0,0,0,0,1.0,2,3,,0.00,2.00,,1,2024,2023-24,div1,Polk State,polkstatecollege,jordanthomas0tpb,Jordan Thomas
+Feb 13,home,Seminole State (FL),L,3-2,3,2,1,win,20240213_aehn,0,0,1,0,3.0,5,3,,0.00,1.67,,4,2024,2023-24,div1,Polk State,polkstatecollege,jordanthomas0tpb,Jordan Thomas
+Feb 7,home,South Florida State,W,12-4,12,4,8,win,20240207_jpms,1,1,0,0,4.0,0,0,0,0.00,1.00,4,4,2024,2023-24,div1,Polk State,polkstatecollege,jordanthomas0tpb,Jordan Thomas
+Jan 31,home,Lake-Sumter State,W,2-0,2,0,2,win,20240131_nieq,1,0,0,0,4.0,2,0,0,0.00,.50,0,4,2024,2023-24,div1,Polk State,polkstatecollege,jordanthomas0tpb,Jordan Thomas
+Jan 27,home,Palm Beach State,L,10-4,10,4,6,win,20240127_x1en,1,0,1,0,3.0,8,4,4,12.00,3.00,1,1,2024,2023-24,div1,Polk State,polkstatecollege,jordanthomas0tpb,Jordan Thomas
