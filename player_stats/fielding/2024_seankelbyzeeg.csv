@@ -1,20 +1,8 @@
 date,location,opponent,result,score,team_score,opp_score,game_score_diff,game_win_loss,game_id,TC,PO,A,E,FPCT,DP,SBA,RCS,RCS_PCT,PB,CI,season,njcaa_season,njcaa_division,team,team_id,player_id,player_name
-Mar 1,home,Ocean County,L,7-5,7,5,2,win,20240301_1vt4,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div3,Salem,salemcommunitycollege,seankelbyzeeg,Sean Kelby
-Mar 4,home,Cairn University - JV,W,6-0,6,0,6,win,20240304_nbzd,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div3,Salem,salemcommunitycollege,seankelbyzeeg,Sean Kelby
-Mar 5,home,Penn State Kensingon,L,9-8,9,8,1,win,20240305_o3pc,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div3,Salem,salemcommunitycollege,seankelbyzeeg,Sean Kelby
-Mar 7,home,Bay College,L,11-1,11,1,10,win,20240307_5q2w,0,0,1,0,2.0,3,6,5,22.50,2.50,2,2024,2023-24,div3,Salem,salemcommunitycollege,seankelbyzeeg,Sean Kelby
-Mar 9,home,Westmoreland,W,9-7,9,7,2,win,20240309_h6oa,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div3,Salem,salemcommunitycollege,seankelbyzeeg,Sean Kelby
-Mar 9,home,Kings College -JV,W,14-0,14,0,14,win,20240309_1yv9,0,0,0,0,1.0,,,,0.00,2.00,2,2024,2023-24,div3,Salem,salemcommunitycollege,seankelbyzeeg,Sean Kelby
-Mar 10,home,Westmoreland,W,16-6,16,6,10,win,20240310_zyde,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div3,Salem,salemcommunitycollege,seankelbyzeeg,Sean Kelby
-Mar 12,home,Delaware County,W,21-3,21,3,18,win,20240312_u7ws,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div3,Salem,salemcommunitycollege,seankelbyzeeg,Sean Kelby
-Mar 14,home,Northampton,L,11-1,11,1,10,win,20240314_c1bp,0,0,0,0,2.1,,1,1,3.86,.86,2,2024,2023-24,div3,Salem,salemcommunitycollege,seankelbyzeeg,Sean Kelby
-Mar 16,home,Northampton,L,10-3,10,3,7,win,20240316_nj76,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div3,Salem,salemcommunitycollege,seankelbyzeeg,Sean Kelby
-Mar 16,home,Northampton,L,8-1,8,1,7,win,20240316_guu6,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div3,Salem,salemcommunitycollege,seankelbyzeeg,Sean Kelby
-Mar 22,home,Brookdale,W,7-6,7,6,1,win,20240322_mxny,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div3,Salem,salemcommunitycollege,seankelbyzeeg,Sean Kelby
-Mar 22,home,Brookdale,L,15-1,15,1,14,win,20240322_q4pt,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div3,Salem,salemcommunitycollege,seankelbyzeeg,Sean Kelby
-Mar 24,home,Brookdale,L,14-10,14,10,4,win,20240324_z9ae,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div3,Salem,salemcommunitycollege,seankelbyzeeg,Sean Kelby
-Mar 26,home,Lehigh Carbon,L,5-4,5,4,1,win,20240326_ypsf,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div3,Salem,salemcommunitycollege,seankelbyzeeg,Sean Kelby
-Mar 27,home,Lehigh Carbon,L,11-9,11,9,2,win,20240327_uzd5,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div3,Salem,salemcommunitycollege,seankelbyzeeg,Sean Kelby
-Mar 30,home,Keystone College - JV,W,14-6,14,6,8,win,20240330_262v,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div3,Salem,salemcommunitycollege,seankelbyzeeg,Sean Kelby
-Mar 30,home,Keystone College - JV,L,13-4,13,4,9,win,20240330_7fen,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div3,Salem,salemcommunitycollege,seankelbyzeeg,Sean Kelby
-Apr 5,home,RCSJ Cumberland,L,9-4,9,4,5,win,20240405_8vvw,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div3,Salem,salemcommunitycollege,seankelbyzeeg,Sean Kelby
+Mar 1,home,Ocean County,L,7-5,7,5,2,win,20240301_1vt4,0,0,0,0,1.0,,,,0.00,,,2024,2023-24,div3,Salem,salemcommunitycollege,seankelbyzeeg,Sean Kelby
+Mar 5,home,Penn State Kensingon,L,9-8,9,8,1,win,20240305_o3pc,0,0,1,0,2.0,4,3,3,13.50,4.00,4,2024,2023-24,div3,Salem,salemcommunitycollege,seankelbyzeeg,Sean Kelby
+Mar 9,home,Kings College -JV,W,14-0,14,0,14,win,20240309_1yv9,0,1,0,0,4.0,,,,0.00,.75,3,2024,2023-24,div3,Salem,salemcommunitycollege,seankelbyzeeg,Sean Kelby
+Mar 16,home,Northampton,L,10-3,10,3,7,win,20240316_nj76,0,0,0,0,2.1,3,6,3,11.57,2.14,2,2024,2023-24,div3,Salem,salemcommunitycollege,seankelbyzeeg,Sean Kelby
+Mar 22,home,Brookdale,L,15-1,15,1,14,win,20240322_q4pt,0,0,0,0,2.0,4,7,6,27.00,4.50,5,2024,2023-24,div3,Salem,salemcommunitycollege,seankelbyzeeg,Sean Kelby
+Mar 30,home,Keystone College - JV,W,14-6,14,6,8,win,20240330_262v,0,0,0,0,4.0,1,,,0.00,.25,,2024,2023-24,div3,Salem,salemcommunitycollege,seankelbyzeeg,Sean Kelby
+Apr 6,home,RCSJ Cumberland,L,25-7,25,7,18,win,20240406_ycw4,0,0,1,0,2.0,5,8,8,36.00,4.50,4,2024,2023-24,div3,Salem,salemcommunitycollege,seankelbyzeeg,Sean Kelby
