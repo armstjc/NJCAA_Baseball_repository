@@ -1,9 +1,26 @@
 date,location,opponent,result,score,team_score,opp_score,game_score_diff,game_win_loss,game_id,AB,R,H,2B,3B,HR,RBI,BB,K,SB,CS,HBP,SF,SH,TB,XBH,HDP,GO,FO,GO/FO,PA,season,njcaa_season,njcaa_division,team,team_id,player_id,player_name
-Feb 13,home,Arkansas State Mid-South,W,10-0,10,0,10,win,20240213_m5o5,1,1,1,1,,,1,,,,,,,,2,1,,,,,1,2024,2023-24,div2,Northwest Mississippi,northwestmississippicommunitycollege,jacobhillmh90,Jacob Hill
-Feb 13,home,Arkansas State Mid-South,W,13-1,13,1,12,win,20240213_1j41,1,1,0,,,,0,,,,,,,,0,0,,,,,1,2024,2023-24,div2,Northwest Mississippi,northwestmississippicommunitycollege,jacobhillmh90,Jacob Hill
-Feb 24,home,Illinois Central,W,6-0,6,0,6,win,20240224_970c,1,0,0,,,,0,,,,,,,,0,0,,1,,,1,2024,2023-24,div2,Northwest Mississippi,northwestmississippicommunitycollege,jacobhillmh90,Jacob Hill
-Feb 26,home,Freed-Hardeman University JV,W,10-8,10,8,2,win,20240226_fzsv,3,2,2,,,,0,1,,2,,,,,2,0,,1,,,4,2024,2023-24,div2,Northwest Mississippi,northwestmississippicommunitycollege,jacobhillmh90,Jacob Hill
-Feb 27,home,Itawamba,W,9-5,9,5,4,win,20240227_i218,0,1,0,,,,0,,,,,,,,0,0,,,,,0,2024,2023-24,div2,Northwest Mississippi,northwestmississippicommunitycollege,jacobhillmh90,Jacob Hill
-Mar 1,home,Heartland,W,3-0,3,0,3,win,20240301_nhvc,1,0,0,,,,0,1,,,,,,,0,0,,,1,,2,2024,2023-24,div2,Northwest Mississippi,northwestmississippicommunitycollege,jacobhillmh90,Jacob Hill
-Mar 9,home,Southwest Mississippi,W,4-2,4,2,2,win,20240309_dkia,1,0,0,,,,0,,,,,,,,0,0,,,1,,1,2024,2023-24,div2,Northwest Mississippi,northwestmississippicommunitycollege,jacobhillmh90,Jacob Hill
-Mar 25,home,Rhodes College JV,W,9-8,9,8,1,win,20240325_mtxu,1,3,1,,,,0,1,,1,,1,,,1,0,,,,,3,2024,2023-24,div2,Northwest Mississippi,northwestmississippicommunitycollege,jacobhillmh90,Jacob Hill
+Feb 9,home,Jackson State,W,11-1,11,1,10,win,20240209_d226,3,1,0,,,,0,1,3,1,,,,,0,0,,,,,4,2024,2023-24,div2,Northwest Mississippi,northwestmississippicommunitycollege,jacobhillmh90,Jacob Hill
+Feb 13,home,Arkansas State Mid-South,W,10-0,10,0,10,win,20240213_m5o5,2,0,0,,,,0,1,1,,,,,1,0,0,,1,1,1.00,4,2024,2023-24,div2,Northwest Mississippi,northwestmississippicommunitycollege,jacobhillmh90,Jacob Hill
+Feb 13,home,Arkansas State Mid-South,W,13-1,13,1,12,win,20240213_1j41,2,3,2,,1,,2,1,,1,,,,,4,1,,,,,3,2024,2023-24,div2,Northwest Mississippi,northwestmississippicommunitycollege,jacobhillmh90,Jacob Hill
+Feb 16,home,Bevill State,W,7-3,7,3,4,win,20240216_4lk9,4,1,1,,,,1,1,,2,1,,,,1,0,,,3,,5,2024,2023-24,div2,Northwest Mississippi,northwestmississippicommunitycollege,jacobhillmh90,Jacob Hill
+Feb 21,home,Hinds,W,5-4,5,4,1,win,20240221_yhj4,3,1,1,,,,0,1,2,3,,,,,1,0,,,,,4,2024,2023-24,div2,Northwest Mississippi,northwestmississippicommunitycollege,jacobhillmh90,Jacob Hill
+Feb 21,home,Mississippi Delta,W,6-5,6,5,1,win,20240221_lgst,3,2,2,,,,0,1,,2,1,,,,2,0,,1,,,4,2024,2023-24,div2,Northwest Mississippi,northwestmississippicommunitycollege,jacobhillmh90,Jacob Hill
+Feb 24,home,Illinois Central,W,8-1,8,1,7,win,20240224_fpzd,3,1,0,,,,0,,,,,,,,0,0,,,3,,3,2024,2023-24,div2,Northwest Mississippi,northwestmississippicommunitycollege,jacobhillmh90,Jacob Hill
+Feb 24,home,Illinois Central,W,6-0,6,0,6,win,20240224_970c,2,0,0,,,,1,,1,,,,1,,0,0,,1,1,1.00,3,2024,2023-24,div2,Northwest Mississippi,northwestmississippicommunitycollege,jacobhillmh90,Jacob Hill
+Feb 27,home,Northeast Mississippi,W,4-3,4,3,1,win,20240227_h1x9,3,0,2,,,,0,1,1,1,,,,,2,0,,,,,4,2024,2023-24,div2,Northwest Mississippi,northwestmississippicommunitycollege,jacobhillmh90,Jacob Hill
+Feb 27,home,Itawamba,W,9-5,9,5,4,win,20240227_i218,4,3,2,,,,1,,,2,,,,,2,0,,,,,4,2024,2023-24,div2,Northwest Mississippi,northwestmississippicommunitycollege,jacobhillmh90,Jacob Hill
+Mar 1,home,Heartland,W,3-0,3,0,3,win,20240301_nhvc,2,2,1,,,,0,1,,,,,,,1,0,,,1,,3,2024,2023-24,div2,Northwest Mississippi,northwestmississippicommunitycollege,jacobhillmh90,Jacob Hill
+Mar 6,home,Mississippi Gulf Coast,W,10-7,10,7,3,win,20240306_wflf,5,1,2,,,,1,,2,,,,,,2,0,,,1,,5,2024,2023-24,div2,Northwest Mississippi,northwestmississippicommunitycollege,jacobhillmh90,Jacob Hill
+Mar 9,home,Southwest Mississippi,W,4-3,4,3,1,win,20240309_tubn,4,1,0,,,,0,,1,1,,,,,0,0,,,2,,4,2024,2023-24,div2,Northwest Mississippi,northwestmississippicommunitycollege,jacobhillmh90,Jacob Hill
+Mar 9,home,Southwest Mississippi,W,4-2,4,2,2,win,20240309_dkia,4,1,1,1,,,0,,1,,,,,,2,1,,,2,,4,2024,2023-24,div2,Northwest Mississippi,northwestmississippicommunitycollege,jacobhillmh90,Jacob Hill
+Mar 16,home,Copiah-Lincoln,W,7-6,7,6,1,win,20240316_xuhq,6,2,2,,,,1,,1,2,,,,,2,0,,1,2,0.50,6,2024,2023-24,div2,Northwest Mississippi,northwestmississippicommunitycollege,jacobhillmh90,Jacob Hill
+Mar 16,home,Copiah-Lincoln,W,6-2,6,2,4,win,20240316_grhk,3,1,1,,,,0,,,1,,,,,1,0,,2,,,3,2024,2023-24,div2,Northwest Mississippi,northwestmississippicommunitycollege,jacobhillmh90,Jacob Hill
+Mar 19,home,Mississippi Delta,W,3-2,3,2,1,win,20240319_54ro,5,2,2,,,,0,,,1,,,,,2,0,,1,1,1.00,5,2024,2023-24,div2,Northwest Mississippi,northwestmississippicommunitycollege,jacobhillmh90,Jacob Hill
+Mar 19,home,Mississippi Delta,W,4-1,4,1,3,win,20240319_skii,2,1,0,,,,0,1,,,,,,,0,0,,,2,,3,2024,2023-24,div2,Northwest Mississippi,northwestmississippicommunitycollege,jacobhillmh90,Jacob Hill
+Mar 23,home,East Central (MS),W,8-7,8,7,1,win,20240323_bj38,3,1,0,,,,0,,,,,,,2,0,0,,1,1,1.00,5,2024,2023-24,div2,Northwest Mississippi,northwestmississippicommunitycollege,jacobhillmh90,Jacob Hill
+Mar 26,home,Holmes,W,10-5,10,5,5,win,20240326_v2ml,3,3,1,,,,0,1,1,1,,1,,,1,0,,,1,,5,2024,2023-24,div2,Northwest Mississippi,northwestmississippicommunitycollege,jacobhillmh90,Jacob Hill
+Mar 26,home,Holmes,W,3-0,3,0,3,win,20240326_pvwk,4,2,1,,,,0,,1,2,,,,,1,0,,1,,,4,2024,2023-24,div2,Northwest Mississippi,northwestmississippicommunitycollege,jacobhillmh90,Jacob Hill
+Mar 29,home,Hinds,W,6-5,6,5,1,win,20240329_mhw5,4,1,1,,,,0,1,1,1,,,,,1,0,,1,1,1.00,5,2024,2023-24,div2,Northwest Mississippi,northwestmississippicommunitycollege,jacobhillmh90,Jacob Hill
+Apr 3,home,Coahoma,W,23-4,23,4,19,win,20240403_qxhg,5,3,4,,,,2,,,2,1,1,,,4,0,,,1,,6,2024,2023-24,div2,Northwest Mississippi,northwestmississippicommunitycollege,jacobhillmh90,Jacob Hill
+Apr 3,home,Coahoma,W,24-4,24,4,20,win,20240403_2zlr,5,1,4,,,,0,1,,,1,,,,4,0,,,1,,6,2024,2023-24,div2,Northwest Mississippi,northwestmississippicommunitycollege,jacobhillmh90,Jacob Hill
+Apr 6,home,Jones,W,10-0,10,0,10,win,20240406_8y14,5,3,2,1,,,1,1,,1,,,,,3,1,,,3,,6,2024,2023-24,div2,Northwest Mississippi,northwestmississippicommunitycollege,jacobhillmh90,Jacob Hill

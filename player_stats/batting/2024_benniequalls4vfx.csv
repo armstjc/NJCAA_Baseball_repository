@@ -1,12 +1,21 @@
 date,location,opponent,result,score,team_score,opp_score,game_score_diff,game_win_loss,game_id,AB,R,H,2B,3B,HR,RBI,BB,K,SB,CS,HBP,SF,SH,TB,XBH,HDP,GO,FO,GO/FO,PA,season,njcaa_season,njcaa_division,team,team_id,player_id,player_name
-Feb 28,home,Tyler,W,11-5,11,5,6,win,20240228_wlzb,1,0,0,,,,0,,1,,,,,,0,0,,,,,1,2024,2023-24,div1,Northeast Texas,northeasttexascommunitycollege,benniequalls4vfx,Bennie Qualls
-Mar 4,home,Centenary College,W,13-0,13,0,13,win,20240304_dxji,3,3,2,,1,1,1,1,,1,,,1,,7,2,,,2,,5,2024,2023-24,div1,Northeast Texas,northeasttexascommunitycollege,benniequalls4vfx,Bennie Qualls
-Mar 6,home,Weatherford,W,3-0,3,0,3,win,20240306_qs2o,2,0,0,,,,0,1,1,,,,,1,0,0,,1,,,4,2024,2023-24,div1,Northeast Texas,northeasttexascommunitycollege,benniequalls4vfx,Bennie Qualls
-Mar 6,home,Weatherford,W,3-2,3,2,1,win,20240306_43ia,4,0,0,,,,0,,2,,,,,1,0,0,1,2,1,2.00,5,2024,2023-24,div1,Northeast Texas,northeasttexascommunitycollege,benniequalls4vfx,Bennie Qualls
-Mar 9,home,Bossier Parish,W,11-10,11,10,1,win,20240309_s61y,2,2,1,1,,,0,3,,,,,,,2,1,,1,,,5,2024,2023-24,div1,Northeast Texas,northeasttexascommunitycollege,benniequalls4vfx,Bennie Qualls
-Mar 11,home,Dallas College - Brookhaven,W,12-2,12,2,10,win,20240311_9tau,4,1,0,,,,2,,,1,,,,,0,0,,,3,,4,2024,2023-24,div1,Northeast Texas,northeasttexascommunitycollege,benniequalls4vfx,Bennie Qualls
-Mar 17,home,Navarro,W,12-6,12,6,6,win,20240317_4xtz,3,3,3,1,,,2,2,,1,,,,,4,1,,,,,5,2024,2023-24,div1,Northeast Texas,northeasttexascommunitycollege,benniequalls4vfx,Bennie Qualls
-Mar 18,home,TCS Post Grad,W,5-4,5,4,1,win,20240318_gmky,3,0,1,,,,0,,,,1,1,,,1,0,,1,1,1.00,4,2024,2023-24,div1,Northeast Texas,northeasttexascommunitycollege,benniequalls4vfx,Bennie Qualls
-Mar 20,home,Panola,W,11-3,11,3,8,win,20240320_fiox,5,1,2,,,,2,,,1,,,,,2,0,,,3,,5,2024,2023-24,div1,Northeast Texas,northeasttexascommunitycollege,benniequalls4vfx,Bennie Qualls
-Mar 27,home,Tyler,W,8-4,8,4,4,win,20240327_iyc2,4,2,2,,,,0,1,,,,,,,2,0,,1,,,5,2024,2023-24,div1,Northeast Texas,northeasttexascommunitycollege,benniequalls4vfx,Bennie Qualls
-Apr 3,home,Paris,W,17-6,17,6,11,win,20240403_b97e,5,1,1,,,,0,1,,,,,,1,1,0,,2,3,0.67,7,2024,2023-24,div1,Northeast Texas,northeasttexascommunitycollege,benniequalls4vfx,Bennie Qualls
+Feb 1,home,UA Rich Mountain,W,10-0,10,0,10,win,20240201_d79i,2,1,0,,,,0,,,1,,1,,,0,0,,2,,,3,2024,2023-24,div1,Northeast Texas,northeasttexascommunitycollege,benniequalls4vfx,Bennie Qualls
+Feb 2,home,UA Rich Mountain,W,8-0,8,0,8,win,20240202_ffcy,1,1,0,,,,0,,,1,,,,,0,0,,,1,,1,2024,2023-24,div1,Northeast Texas,northeasttexascommunitycollege,benniequalls4vfx,Bennie Qualls
+Feb 2,home,UA Rich Mountain,W,6-3,6,3,3,win,20240202_1euw,2,0,0,,,,0,1,1,,,,,,0,0,,,1,,3,2024,2023-24,div1,Northeast Texas,northeasttexascommunitycollege,benniequalls4vfx,Bennie Qualls
+Feb 7,home,Centenary College,W,8-7,8,7,1,win,20240207_utop,3,3,3,1,,,1,,,1,,1,,,4,1,,,,,4,2024,2023-24,div1,Northeast Texas,northeasttexascommunitycollege,benniequalls4vfx,Bennie Qualls
+Feb 9,home,Cowley,W,10-4,10,4,6,win,20240209_j031,3,1,1,,1,,2,1,,,,,,,3,1,,1,1,1.00,4,2024,2023-24,div1,Northeast Texas,northeasttexascommunitycollege,benniequalls4vfx,Bennie Qualls
+Feb 13,home,Eastern Oklahoma State,W,12-8,12,8,4,win,20240213_ol8w,5,1,1,,,1,1,,,,,,,,4,1,,3,1,3.00,5,2024,2023-24,div1,Northeast Texas,northeasttexascommunitycollege,benniequalls4vfx,Bennie Qualls
+Feb 16,home,Howard (TX),W,8-7,8,7,1,win,20240216_fzh6,3,2,1,,,,0,,1,,,1,,,1,0,,,1,,4,2024,2023-24,div1,Northeast Texas,northeasttexascommunitycollege,benniequalls4vfx,Bennie Qualls
+Feb 19,home,Southeast Arkansas College,W,14-13,14,13,1,win,20240219_ibtb,6,1,1,,,1,1,,1,,,,,,4,1,,3,1,3.00,6,2024,2023-24,div1,Northeast Texas,northeasttexascommunitycollege,benniequalls4vfx,Bennie Qualls
+Feb 24,home,Panola,W,2-1,2,1,1,win,20240224_vr0n,3,0,0,,,,0,,,,,,,,0,0,,1,2,0.50,3,2024,2023-24,div1,Northeast Texas,northeasttexascommunitycollege,benniequalls4vfx,Bennie Qualls
+Feb 24,home,Panola,W,9-8,9,8,1,win,20240224_fcyg,2,1,0,,,,0,3,2,,1,,,,0,0,,,,,5,2024,2023-24,div1,Northeast Texas,northeasttexascommunitycollege,benniequalls4vfx,Bennie Qualls
+Feb 28,home,Tyler,W,11-5,11,5,6,win,20240228_wlzb,3,2,2,1,,,4,2,1,,,,,,3,1,,,,,5,2024,2023-24,div1,Northeast Texas,northeasttexascommunitycollege,benniequalls4vfx,Bennie Qualls
+Mar 2,home,Paris,W,4-3,4,3,1,win,20240302_s9c6,3,0,0,,,,0,,,,,1,,,0,0,,2,1,2.00,4,2024,2023-24,div1,Northeast Texas,northeasttexascommunitycollege,benniequalls4vfx,Bennie Qualls
+Mar 4,home,Centenary College,W,13-0,13,0,13,win,20240304_dxji,5,1,1,,,,1,,1,1,,,,,1,0,,1,1,1.00,5,2024,2023-24,div1,Northeast Texas,northeasttexascommunitycollege,benniequalls4vfx,Bennie Qualls
+Mar 6,home,Weatherford,W,3-0,3,0,3,win,20240306_qs2o,2,1,1,,,,0,1,,,,,,,1,0,,1,,,3,2024,2023-24,div1,Northeast Texas,northeasttexascommunitycollege,benniequalls4vfx,Bennie Qualls
+Mar 6,home,Weatherford,W,3-2,3,2,1,win,20240306_43ia,4,0,1,,,,1,,,,,,,,1,0,,2,1,2.00,4,2024,2023-24,div1,Northeast Texas,northeasttexascommunitycollege,benniequalls4vfx,Bennie Qualls
+Mar 9,home,Bossier Parish,W,11-10,11,10,1,win,20240309_s61y,4,0,1,,,,0,,1,,,,,,1,0,,1,1,1.00,4,2024,2023-24,div1,Northeast Texas,northeasttexascommunitycollege,benniequalls4vfx,Bennie Qualls
+Mar 17,home,Navarro,W,12-6,12,6,6,win,20240317_4xtz,3,1,0,,,,0,1,1,,,,,,0,0,,2,,,4,2024,2023-24,div1,Northeast Texas,northeasttexascommunitycollege,benniequalls4vfx,Bennie Qualls
+Mar 18,home,TCS Post Grad,W,5-4,5,4,1,win,20240318_gmky,1,0,0,,,,0,1,1,,,,,,0,0,,,,,2,2024,2023-24,div1,Northeast Texas,northeasttexascommunitycollege,benniequalls4vfx,Bennie Qualls
+Mar 20,home,Panola,W,11-3,11,3,8,win,20240320_fiox,3,1,2,1,,,2,1,,,,,,,3,1,,,1,,4,2024,2023-24,div1,Northeast Texas,northeasttexascommunitycollege,benniequalls4vfx,Bennie Qualls
+Apr 3,home,Paris,W,17-6,17,6,11,win,20240403_b97e,5,0,2,,,,1,1,,1,1,,,,2,0,,2,1,2.00,6,2024,2023-24,div1,Northeast Texas,northeasttexascommunitycollege,benniequalls4vfx,Bennie Qualls

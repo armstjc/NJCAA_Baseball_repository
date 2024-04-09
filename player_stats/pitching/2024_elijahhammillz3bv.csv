@@ -1,11 +1,29 @@
 date,location,opponent,result,score,team_score,opp_score,game_score_diff,game_win_loss,game_id,GS,W,L,SV,IP,H,R,ER,ERA,BB,K,HR,season,njcaa_season,njcaa_division,team,team_id,player_id,player_name
-Apr 3,home,Glendale,W,19-15,19,15,4,win,20240403_382i,1,0,0,0,4.0,5,6,1,2.25,1.50,1,2,2024,2023-24,div1,Central Arizona,centralarizonacollege,elijahhammillz3bv,Elijah Hammill
-Mar 26,home,Paradise Valley,W,6-3,6,3,3,win,20240326_l4ky,1,1,0,0,6.0,3,2,2,3.00,.83,2,5,2024,2023-24,div1,Central Arizona,centralarizonacollege,elijahhammillz3bv,Elijah Hammill
-Mar 19,home,Scottsdale,W,9-7,9,7,2,win,20240319_t2so,1,1,0,0,6.0,3,1,0,0.00,.50,0,7,2024,2023-24,div1,Central Arizona,centralarizonacollege,elijahhammillz3bv,Elijah Hammill
-Mar 13,home,Yavapai,W,23-3,23,3,20,win,20240313_jo21,1,1,0,0,5.0,3,3,1,1.80,1.00,2,3,2024,2023-24,div1,Central Arizona,centralarizonacollege,elijahhammillz3bv,Elijah Hammill
-Mar 6,home,GateWay (AZ),W,5-1,5,1,4,win,20240306_m74i,1,1,0,0,7.0,4,0,0,0.00,.86,2,8,2024,2023-24,div1,Central Arizona,centralarizonacollege,elijahhammillz3bv,Elijah Hammill
-Feb 27,home,Eastern Arizona,W,5-0,5,0,5,win,20240227_8xy3,1,1,0,0,5.0,1,0,0,0.00,.60,2,5,2024,2023-24,div1,Central Arizona,centralarizonacollege,elijahhammillz3bv,Elijah Hammill
-Feb 20,home,Arizona Western,W,12-7,12,7,5,win,20240220_9ja6,1,0,0,0,1.2,0,2,2,10.80,1.80,3,1,2024,2023-24,div1,Central Arizona,centralarizonacollege,elijahhammillz3bv,Elijah Hammill
-Feb 10,home,Southern Idaho,W,7-0,7,0,7,win,20240210_277w,0,0,0,0,2.0,1,,,0.00,1.00,1,5,2024,2023-24,div1,Central Arizona,centralarizonacollege,elijahhammillz3bv,Elijah Hammill
-Feb 4,home,Southern Nevada,W,8-2,8,2,6,win,20240204_qwy9,0,1,0,0,3.0,3,,,0.00,1.67,2,3,2024,2023-24,div1,Central Arizona,centralarizonacollege,elijahhammillz3bv,Elijah Hammill
-Jan 27,home,San Jacinto,L,8-6,8,6,2,win,20240127_k377,0,0,0,0,2.1,2,3,1,3.86,1.29,1,6,2024,2023-24,div1,Central Arizona,centralarizonacollege,elijahhammillz3bv,Elijah Hammill
+Apr 6,home,Yavapai,W,13-2,13,2,11,win,20240406_vo3m,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div1,Central Arizona,centralarizonacollege,elijahhammillz3bv,Elijah Hammill
+Apr 6,home,Yavapai,L,6-1,6,1,5,win,20240406_04ig,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div1,Central Arizona,centralarizonacollege,elijahhammillz3bv,Elijah Hammill
+Apr 3,home,Glendale,W,19-15,19,15,4,win,20240403_382i,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div1,Central Arizona,centralarizonacollege,elijahhammillz3bv,Elijah Hammill
+Mar 30,home,Mesa,L,5-3,5,3,2,win,20240330_bnwe,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div1,Central Arizona,centralarizonacollege,elijahhammillz3bv,Elijah Hammill
+Mar 29,home,Mesa,W,10-3,10,3,7,win,20240329_p0if,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div1,Central Arizona,centralarizonacollege,elijahhammillz3bv,Elijah Hammill
+Mar 26,home,Paradise Valley,W,6-3,6,3,3,win,20240326_l4ky,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div1,Central Arizona,centralarizonacollege,elijahhammillz3bv,Elijah Hammill
+Mar 23,home,Phoenix,W,13-0,13,0,13,win,20240323_7xxf,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div1,Central Arizona,centralarizonacollege,elijahhammillz3bv,Elijah Hammill
+Mar 13,home,Yavapai,W,12-5,12,5,7,win,20240313_vcbo,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div1,Central Arizona,centralarizonacollege,elijahhammillz3bv,Elijah Hammill
+Mar 9,home,Chandler-Gilbert,W,4-2,4,2,2,win,20240309_1ijs,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div1,Central Arizona,centralarizonacollege,elijahhammillz3bv,Elijah Hammill
+Mar 8,home,Chandler-Gilbert,W,7-0,7,0,7,win,20240308_1hk4,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div1,Central Arizona,centralarizonacollege,elijahhammillz3bv,Elijah Hammill
+Mar 6,home,GateWay (AZ),W,5-1,5,1,4,win,20240306_m74i,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div1,Central Arizona,centralarizonacollege,elijahhammillz3bv,Elijah Hammill
+Mar 5,home,GateWay (AZ),L,10-1,10,1,9,win,20240305_p0bd,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div1,Central Arizona,centralarizonacollege,elijahhammillz3bv,Elijah Hammill
+Feb 27,home,Eastern Arizona,W,5-0,5,0,5,win,20240227_8xy3,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div1,Central Arizona,centralarizonacollege,elijahhammillz3bv,Elijah Hammill
+Feb 27,home,Eastern Arizona,W,3-0,3,0,3,win,20240227_vaxd,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div1,Central Arizona,centralarizonacollege,elijahhammillz3bv,Elijah Hammill
+Feb 24,home,South Mountain,W,7-3,7,3,4,win,20240224_cvou,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div1,Central Arizona,centralarizonacollege,elijahhammillz3bv,Elijah Hammill
+Feb 23,home,South Mountain,W,8-2,8,2,6,win,20240223_d37n,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div1,Central Arizona,centralarizonacollege,elijahhammillz3bv,Elijah Hammill
+Feb 20,home,Arizona Western,W,12-7,12,7,5,win,20240220_9ja6,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div1,Central Arizona,centralarizonacollege,elijahhammillz3bv,Elijah Hammill
+Feb 20,home,Arizona Western,L,4-3,4,3,1,win,20240220_kns9,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div1,Central Arizona,centralarizonacollege,elijahhammillz3bv,Elijah Hammill
+Feb 17,home,Cochise,W,6-0,6,0,6,win,20240217_vvt9,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div1,Central Arizona,centralarizonacollege,elijahhammillz3bv,Elijah Hammill
+Feb 10,home,Southern Idaho,L,3-1,3,1,2,win,20240210_w02x,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div1,Central Arizona,centralarizonacollege,elijahhammillz3bv,Elijah Hammill
+Feb 9,home,Southern Idaho,W,4-0,4,0,4,win,20240209_v2ea,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div1,Central Arizona,centralarizonacollege,elijahhammillz3bv,Elijah Hammill
+Feb 4,home,Southern Nevada,W,7-1,7,1,6,win,20240204_vtgo,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div1,Central Arizona,centralarizonacollege,elijahhammillz3bv,Elijah Hammill
+Feb 4,home,Southern Nevada,W,8-2,8,2,6,win,20240204_qwy9,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div1,Central Arizona,centralarizonacollege,elijahhammillz3bv,Elijah Hammill
+Feb 3,home,Salt Lake,W,4-1,4,1,3,win,20240203_sttw,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div1,Central Arizona,centralarizonacollege,elijahhammillz3bv,Elijah Hammill
+Jan 28,home,Utah State Eastern,L,4-1,4,1,3,win,20240128_cjoo,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div1,Central Arizona,centralarizonacollege,elijahhammillz3bv,Elijah Hammill
+Jan 27,home,San Jacinto,W,8-7,8,7,1,win,20240127_kbb4,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div1,Central Arizona,centralarizonacollege,elijahhammillz3bv,Elijah Hammill
+Jan 27,home,San Jacinto,L,8-6,8,6,2,win,20240127_k377,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div1,Central Arizona,centralarizonacollege,elijahhammillz3bv,Elijah Hammill
+Jan 26,home,Southern Nevada,W,4-2,4,2,2,win,20240126_gkoy,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div1,Central Arizona,centralarizonacollege,elijahhammillz3bv,Elijah Hammill

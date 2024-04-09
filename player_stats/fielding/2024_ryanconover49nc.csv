@@ -1,11 +1,14 @@
 date,location,opponent,result,score,team_score,opp_score,game_score_diff,game_win_loss,game_id,TC,PO,A,E,FPCT,DP,SBA,RCS,RCS_PCT,PB,CI,season,njcaa_season,njcaa_division,team,team_id,player_id,player_name
 Feb 16  #,home,Stockton University,T,0-0,0,0,0,tie,20240216_ngzg,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Mercer County,mercercountycommunitycollege,ryanconover49nc,Ryan Conover
-Feb 25,home,Suffolk County,W,13-5,13,5,8,win,20240225_1ih6,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Mercer County,mercercountycommunitycollege,ryanconover49nc,Ryan Conover
-Mar 3,home,Westchester,W,9-6,9,6,3,win,20240303_5se3,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Mercer County,mercercountycommunitycollege,ryanconover49nc,Ryan Conover
-Mar 5,home,Harford,L,10-0,10,0,10,win,20240305_kz7m,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Mercer County,mercercountycommunitycollege,ryanconover49nc,Ryan Conover
-Mar 8,home,Monroe College,L,7-0,7,0,7,win,20240308_m9mc,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Mercer County,mercercountycommunitycollege,ryanconover49nc,Ryan Conover
-Mar 10,home,Monroe College,L,8-5,8,5,3,win,20240310_ga2z,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Mercer County,mercercountycommunitycollege,ryanconover49nc,Ryan Conover
-Mar 15,home,Clark State,W,8-2,8,2,6,win,20240315_czj1,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Mercer County,mercercountycommunitycollege,ryanconover49nc,Ryan Conover
-Mar 17,home,Ray's Collegiate,L,17-4,17,4,13,win,20240317_3lvw,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Mercer County,mercercountycommunitycollege,ryanconover49nc,Ryan Conover
-Mar 19,home,Southern Maryland,L,11-7,11,7,4,win,20240319_4av9,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Mercer County,mercercountycommunitycollege,ryanconover49nc,Ryan Conover
-Mar 24,home,Delaware Tech,W,19-3,19,3,16,win,20240324_hd3t,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Mercer County,mercercountycommunitycollege,ryanconover49nc,Ryan Conover
+Feb 26,home,UConn Avery Point,W,2-0,2,0,2,win,20240226_chlj,0,0,0,1,1.0,,,,0.00,,,2024,2023-24,div2,Mercer County,mercercountycommunitycollege,ryanconover49nc,Ryan Conover
+Mar 1,home,Rockland,W,5-1,5,1,4,win,20240301_f05w,0,0,0,0,1.0,,,,0.00,,,2024,2023-24,div2,Mercer County,mercercountycommunitycollege,ryanconover49nc,Ryan Conover
+Mar 3,home,Westchester,W,1-0,1,0,1,win,20240303_j6xo,0,0,0,1,0.2,,,,0.00,,,2024,2023-24,div2,Mercer County,mercercountycommunitycollege,ryanconover49nc,Ryan Conover
+Mar 3,home,Westchester,W,9-6,9,6,3,win,20240303_5se3,0,0,0,0,1.0,,1,,0.00,2.00,2,2024,2023-24,div2,Mercer County,mercercountycommunitycollege,ryanconover49nc,Ryan Conover
+Mar 10,home,Monroe College,L,8-5,8,5,3,win,20240310_ga2z,0,0,0,0,3.0,3,1,,0.00,1.00,,2024,2023-24,div2,Mercer County,mercercountycommunitycollege,ryanconover49nc,Ryan Conover
+Mar 15,home,Clark State,W,6-5,6,5,1,win,20240315_awkz,0,1,0,0,1.0,1,1,1,9.00,2.00,1,2024,2023-24,div2,Mercer County,mercercountycommunitycollege,ryanconover49nc,Ryan Conover
+Mar 16,home,Sullivan County,W,12-9,12,9,3,win,20240316_audx,0,0,0,0,1.0,1,,,0.00,2.00,1,2024,2023-24,div2,Mercer County,mercercountycommunitycollege,ryanconover49nc,Ryan Conover
+Mar 19,home,Southern Maryland,W,12-7,12,7,5,win,20240319_0jjw,0,1,0,0,4.0,3,,,0.00,.75,,2024,2023-24,div2,Mercer County,mercercountycommunitycollege,ryanconover49nc,Ryan Conover
+Mar 26,home,RCSJ Gloucester,L,12-4,12,4,8,win,20240326_o2i5,0,0,0,0,1.0,2,1,1,9.00,3.00,1,2024,2023-24,div2,Mercer County,mercercountycommunitycollege,ryanconover49nc,Ryan Conover
+Mar 30,home,Sussex County,W,3-1,3,1,2,win,20240330_0zrg,0,0,0,1,2.2,2,,,0.00,1.13,1,2024,2023-24,div2,Mercer County,mercercountycommunitycollege,ryanconover49nc,Ryan Conover
+Mar 30,home,Sussex County,W,7-6,7,6,1,win,20240330_40j9,0,0,0,1,0.2,,,,0.00,,,2024,2023-24,div2,Mercer County,mercercountycommunitycollege,ryanconover49nc,Ryan Conover
+Apr 6,home,Morris,L,9-7,9,7,2,win,20240406_7ttc,0,0,0,0,1.0,2,1,1,9.00,2.00,,2024,2023-24,div2,Mercer County,mercercountycommunitycollege,ryanconover49nc,Ryan Conover

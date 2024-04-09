@@ -1,10 +1,9 @@
 date,location,opponent,result,score,team_score,opp_score,game_score_diff,game_win_loss,game_id,TC,PO,A,E,FPCT,DP,SBA,RCS,RCS_PCT,PB,CI,season,njcaa_season,njcaa_division,team,team_id,player_id,player_name
-Feb 9,home,Jackson State,L,14-6,14,6,8,win,20240209_jprf,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Northwest Mississippi,northwestmississippicommunitycollege,masonshropshirezolr,Mason Shropshire
-Feb 13,home,Arkansas State Mid-South,W,13-1,13,1,12,win,20240213_1j41,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Northwest Mississippi,northwestmississippicommunitycollege,masonshropshirezolr,Mason Shropshire
-Feb 21,home,Mississippi Delta,W,6-5,6,5,1,win,20240221_lgst,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Northwest Mississippi,northwestmississippicommunitycollege,masonshropshirezolr,Mason Shropshire
-Feb 23,home,Illinois Central,L,8-7,8,7,1,win,20240223_xaoa,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Northwest Mississippi,northwestmississippicommunitycollege,masonshropshirezolr,Mason Shropshire
-Feb 26,home,Freed-Hardeman University JV,W,10-8,10,8,2,win,20240226_fzsv,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Northwest Mississippi,northwestmississippicommunitycollege,masonshropshirezolr,Mason Shropshire
-Mar 6,home,Copiah-Lincoln,L,4-3,4,3,1,win,20240306_eclk,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Northwest Mississippi,northwestmississippicommunitycollege,masonshropshirezolr,Mason Shropshire
-Mar 18,home,Arkansas State Mid-South,L,24-22,24,22,2,win,20240318_2b9d,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Northwest Mississippi,northwestmississippicommunitycollege,masonshropshirezolr,Mason Shropshire
-Mar 25,home,Rhodes College JV,W,9-8,9,8,1,win,20240325_mtxu,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Northwest Mississippi,northwestmississippicommunitycollege,masonshropshirezolr,Mason Shropshire
-Apr 1,home,Jackson State,L,9-8,9,8,1,win,20240401_8xnv,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Northwest Mississippi,northwestmississippicommunitycollege,masonshropshirezolr,Mason Shropshire
+Feb 13,home,Arkansas State Mid-South,W,13-1,13,1,12,win,20240213_1j41,1,1,0,0,4.0,3,1,1,2.25,1.25,2,2024,2023-24,div2,Northwest Mississippi,northwestmississippicommunitycollege,masonshropshirezolr,Mason Shropshire
+Feb 21,home,Hinds,W,5-4,5,4,1,win,20240221_yhj4,1,0,0,0,5.0,8,3,2,3.60,1.60,0,2024,2023-24,div2,Northwest Mississippi,northwestmississippicommunitycollege,masonshropshirezolr,Mason Shropshire
+Feb 27,home,Northeast Mississippi,W,4-3,4,3,1,win,20240227_h1x9,1,0,0,0,6.0,4,3,2,3.00,1.67,6,2024,2023-24,div2,Northwest Mississippi,northwestmississippicommunitycollege,masonshropshirezolr,Mason Shropshire
+Mar 9,home,Southwest Mississippi,W,4-3,4,3,1,win,20240309_tubn,1,0,0,0,6.0,2,2,2,3.00,1.17,5,2024,2023-24,div2,Northwest Mississippi,northwestmississippicommunitycollege,masonshropshirezolr,Mason Shropshire
+Mar 16,home,Copiah-Lincoln,W,7-6,7,6,1,win,20240316_xuhq,1,0,0,0,5.0,4,2,2,3.60,1.60,4,2024,2023-24,div2,Northwest Mississippi,northwestmississippicommunitycollege,masonshropshirezolr,Mason Shropshire
+Mar 23,home,East Central (MS),L,9-5,9,5,4,win,20240323_b9zb,1,0,1,0,5.1,6,5,4,6.75,1.88,4,2024,2023-24,div2,Northwest Mississippi,northwestmississippicommunitycollege,masonshropshirezolr,Mason Shropshire
+Mar 29,home,Hinds,W,6-5,6,5,1,win,20240329_mhw5,1,0,0,0,4.0,7,5,4,9.00,2.50,3,2024,2023-24,div2,Northwest Mississippi,northwestmississippicommunitycollege,masonshropshirezolr,Mason Shropshire
+Apr 6,home,Jones,L,6-5,6,5,1,win,20240406_1uej,1,0,1,0,5.1,5,6,5,8.44,1.50,3,2024,2023-24,div2,Northwest Mississippi,northwestmississippicommunitycollege,masonshropshirezolr,Mason Shropshire
