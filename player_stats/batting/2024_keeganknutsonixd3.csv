@@ -1,10 +1,26 @@
 date,location,opponent,result,score,team_score,opp_score,game_score_diff,game_win_loss,game_id,AB,R,H,2B,3B,HR,RBI,BB,K,SB,CS,HBP,SF,SH,TB,XBH,HDP,GO,FO,GO/FO,PA,season,njcaa_season,njcaa_division,team,team_id,player_id,player_name
-Jan 27,home,Central Arizona,W,8-6,8,6,2,win,20240127_k377,3,1,0,,,,0,1,1,,,,,,0,0,,,2,,4,2024,2023-24,div1,San Jacinto,sanjacintocollegenorth,keeganknutsonixd3,Keegan Knutson
-Jan 28,home,Southern Nevada,W,10-8,10,8,2,win,20240128_9u9e,3,1,1,,,1,3,2,2,,,,,,4,1,,,,,5,2024,2023-24,div1,San Jacinto,sanjacintocollegenorth,keeganknutsonixd3,Keegan Knutson
-Feb 8,home,Navarro,W,3-2,3,2,1,win,20240208_tpqu,4,0,0,,,,0,,4,,,,,,0,0,,,,,4,2024,2023-24,div1,San Jacinto,sanjacintocollegenorth,keeganknutsonixd3,Keegan Knutson
-Feb 9,home,Seminole State (OK),W,9-4,9,4,5,win,20240209_mve9,1,1,0,,,,0,1,,,,,,,0,0,,,,,2,2024,2023-24,div1,San Jacinto,sanjacintocollegenorth,keeganknutsonixd3,Keegan Knutson
-Feb 17,home,Monroe College,W,8-4,8,4,4,win,20240217_8ksa,0,0,0,,,,0,,,,,,,,0,0,,,,,0,2024,2023-24,div1,San Jacinto,sanjacintocollegenorth,keeganknutsonixd3,Keegan Knutson
-Feb 24,home,Motlow State,W,14-4,14,4,10,win,20240224_hp5p,1,0,0,,,,0,,1,,,,,,0,0,,,,,1,2024,2023-24,div1,San Jacinto,sanjacintocollegenorth,keeganknutsonixd3,Keegan Knutson
-Mar 9,home,Blinn,W,4-0,4,0,4,win,20240309_uiar,2,0,1,1,,,2,,1,,,,,,2,1,,,,,2,2024,2023-24,div1,San Jacinto,sanjacintocollegenorth,keeganknutsonixd3,Keegan Knutson
-Mar 29,home,Coastal Bend,W,6-2,6,2,4,win,20240329_4kd9,3,0,2,,,,0,,,,1,,,,2,0,,,,,3,2024,2023-24,div1,San Jacinto,sanjacintocollegenorth,keeganknutsonixd3,Keegan Knutson
-Apr 2,home,Wharton County,W,6-3,6,3,3,win,20240402_j93y,2,0,0,,,,0,,2,,,,,,0,0,,,,,2,2024,2023-24,div1,San Jacinto,sanjacintocollegenorth,keeganknutsonixd3,Keegan Knutson
+Jan 27,home,Central Arizona,W,8-6,8,6,2,win,20240127_k377,4,1,1,,,,2,,1,,,,,,1,0,,,2,,4,2024,2023-24,div1,San Jacinto,sanjacintocollegenorth,keeganknutsonixd3,Keegan Knutson
+Jan 28,home,Southern Nevada,W,10-8,10,8,2,win,20240128_9u9e,5,2,2,,,,0,1,1,,,,,,2,0,,2,,,6,2024,2023-24,div1,San Jacinto,sanjacintocollegenorth,keeganknutsonixd3,Keegan Knutson
+Feb 8,home,Navarro,W,3-2,3,2,1,win,20240208_tpqu,3,0,0,,,,0,,2,,1,1,,,0,0,,,1,,4,2024,2023-24,div1,San Jacinto,sanjacintocollegenorth,keeganknutsonixd3,Keegan Knutson
+Feb 9,home,Seminole State (OK),W,9-4,9,4,5,win,20240209_mve9,4,0,2,,,,1,,,,,1,,,2,0,,,,,5,2024,2023-24,div1,San Jacinto,sanjacintocollegenorth,keeganknutsonixd3,Keegan Knutson
+Feb 17,home,Monroe College,W,8-4,8,4,4,win,20240217_8ksa,5,1,2,,,,1,,,1,,,,,2,0,,2,1,2.00,5,2024,2023-24,div1,San Jacinto,sanjacintocollegenorth,keeganknutsonixd3,Keegan Knutson
+Feb 18,home,Wabash Valley,W,17-10,17,10,7,win,20240218_rfal,3,2,0,,,,1,1,,,,,1,1,0,0,,2,2,1.00,6,2024,2023-24,div1,San Jacinto,sanjacintocollegenorth,keeganknutsonixd3,Keegan Knutson
+Feb 24,home,Motlow State,W,14-4,14,4,10,win,20240224_hp5p,3,1,1,1,,,2,,,,,,,,2,1,,1,1,1.00,3,2024,2023-24,div1,San Jacinto,sanjacintocollegenorth,keeganknutsonixd3,Keegan Knutson
+Feb 29,home,Wharton County,W,5-3,5,3,2,win,20240229_1vbp,3,1,1,1,,,1,,1,,,,,,2,1,,,,,3,2024,2023-24,div1,San Jacinto,sanjacintocollegenorth,keeganknutsonixd3,Keegan Knutson
+Mar 5,home,Blinn,W,6-5,6,5,1,win,20240305_ie7t,4,1,1,,,,0,,,1,,,,,1,0,,2,1,2.00,4,2024,2023-24,div1,San Jacinto,sanjacintocollegenorth,keeganknutsonixd3,Keegan Knutson
+Mar 9,home,Blinn,W,4-0,4,0,4,win,20240309_uiar,2,1,1,,,,1,,,1,,,,,1,0,,1,,,2,2024,2023-24,div1,San Jacinto,sanjacintocollegenorth,keeganknutsonixd3,Keegan Knutson
+Mar 9,home,Blinn,W,4-2,4,2,2,win,20240309_xcps,3,0,0,,,,0,,,1,,,,,0,0,,1,1,1.00,3,2024,2023-24,div1,San Jacinto,sanjacintocollegenorth,keeganknutsonixd3,Keegan Knutson
+Mar 13,home,South Suburban,W,11-10,11,10,1,win,20240313_cz88,2,1,0,,,,0,1,,,,,,,0,0,,,,,3,2024,2023-24,div1,San Jacinto,sanjacintocollegenorth,keeganknutsonixd3,Keegan Knutson
+Mar 14,home,Alvin,W,5-3,5,3,2,win,20240314_sy5t,3,0,2,,,,1,,,,,,,,2,0,,1,,,3,2024,2023-24,div1,San Jacinto,sanjacintocollegenorth,keeganknutsonixd3,Keegan Knutson
+Mar 14,home,Alvin,W,6-5,6,5,1,win,20240314_lu89,4,1,1,1,,,0,,,,,,,,2,1,,,3,,4,2024,2023-24,div1,San Jacinto,sanjacintocollegenorth,keeganknutsonixd3,Keegan Knutson
+Mar 15,home,Alvin,W,6-0,6,0,6,win,20240315_k9nd,4,0,1,,,,0,,1,,,,,,1,0,1,1,1,1.00,4,2024,2023-24,div1,San Jacinto,sanjacintocollegenorth,keeganknutsonixd3,Keegan Knutson
+Mar 19,home,Galveston,W,7-4,7,4,3,win,20240319_hp3b,3,1,0,,,,0,1,,,,,,1,0,0,,2,2,1.00,5,2024,2023-24,div1,San Jacinto,sanjacintocollegenorth,keeganknutsonixd3,Keegan Knutson
+Mar 20,home,Galveston,W,12-5,12,5,7,win,20240320_g7xp,5,1,3,3,,,3,,,,,,,,6,3,,1,1,1.00,5,2024,2023-24,div1,San Jacinto,sanjacintocollegenorth,keeganknutsonixd3,Keegan Knutson
+Mar 24,home,Galveston,W,8-6,8,6,2,win,20240324_u0ml,4,0,1,,,,0,1,1,,,,,,1,0,,,2,,5,2024,2023-24,div1,San Jacinto,sanjacintocollegenorth,keeganknutsonixd3,Keegan Knutson
+Mar 27,home,Coastal Bend,W,10-9,10,9,1,win,20240327_jy93,3,1,2,2,,,2,1,,1,,,,,4,2,,,,,4,2024,2023-24,div1,San Jacinto,sanjacintocollegenorth,keeganknutsonixd3,Keegan Knutson
+Mar 29,home,Coastal Bend,W,6-2,6,2,4,win,20240329_4kd9,3,1,3,,,1,1,,,,,,,,6,1,,,,,3,2024,2023-24,div1,San Jacinto,sanjacintocollegenorth,keeganknutsonixd3,Keegan Knutson
+Mar 29,home,Coastal Bend,W,13-3,13,3,10,win,20240329_pvnk,3,2,2,,,1,2,,,,,,,,5,1,,,,,3,2024,2023-24,div1,San Jacinto,sanjacintocollegenorth,keeganknutsonixd3,Keegan Knutson
+Apr 2,home,Wharton County,W,6-3,6,3,3,win,20240402_j93y,4,1,1,,,,0,,1,,,,,,1,0,,,2,,4,2024,2023-24,div1,San Jacinto,sanjacintocollegenorth,keeganknutsonixd3,Keegan Knutson
+Apr 4,home,Wharton County,W,11-8,11,8,3,win,20240404_roua,4,1,1,1,,,0,1,,,,,,,2,1,1,1,2,0.50,5,2024,2023-24,div1,San Jacinto,sanjacintocollegenorth,keeganknutsonixd3,Keegan Knutson
+Apr 6,home,Wharton County,W,5-3,5,3,2,win,20240406_6h32,4,1,1,,,,0,,,,,,,,1,0,,,,,4,2024,2023-24,div1,San Jacinto,sanjacintocollegenorth,keeganknutsonixd3,Keegan Knutson
+Apr 6,home,Wharton County,W,10-0,10,0,10,win,20240406_vu23,1,1,0,,,,0,,,,,1,,,0,0,,1,,,2,2024,2023-24,div1,San Jacinto,sanjacintocollegenorth,keeganknutsonixd3,Keegan Knutson

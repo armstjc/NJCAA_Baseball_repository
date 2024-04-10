@@ -1,11 +1,13 @@
 date,location,opponent,result,score,team_score,opp_score,game_score_diff,game_win_loss,game_id,TC,PO,A,E,FPCT,DP,SBA,RCS,RCS_PCT,PB,CI,season,njcaa_season,njcaa_division,team,team_id,player_id,player_name
-Feb 3,home,South Mountain,L,7-4,7,4,3,win,20240203_1xip,1,0,0,0,3.2,1,1,1,2.45,1.36,4,2024,2023-24,div1,El Paso,elpasocommunitycollege,davidgamezvjrh,David Gamez
-Feb 10,home,Lamar,W,9-7,9,7,2,win,20240210_qjvc,1,0,0,0,2.0,3,3,3,13.50,3.00,3,2024,2023-24,div1,El Paso,elpasocommunitycollege,davidgamezvjrh,David Gamez
-Feb 17,home,Otero,L,7-6,7,6,1,win,20240217_22e6,1,0,0,0,4.1,2,4,2,4.15,1.62,5,2024,2023-24,div1,El Paso,elpasocommunitycollege,davidgamezvjrh,David Gamez
-Feb 23,home,Western Oklahoma State,W,7-6,7,6,1,win,20240223_o8ei,1,0,0,0,4.0,3,1,1,2.25,2.25,6,2024,2023-24,div1,El Paso,elpasocommunitycollege,davidgamezvjrh,David Gamez
-Mar 1,home,California Miramar University,W,11-0,11,0,11,win,20240301_unal,1,1,0,0,4.0,2,0,0,0.00,1.25,3,2024,2023-24,div1,El Paso,elpasocommunitycollege,davidgamezvjrh,David Gamez
-Mar 8,home,Western Texas,W,12-7,12,7,5,win,20240308_xfqf,1,0,0,0,4.2,5,5,5,9.64,1.93,4,2024,2023-24,div1,El Paso,elpasocommunitycollege,davidgamezvjrh,David Gamez
-Mar 15,home,Midland,L,4-3,4,3,1,win,20240315_0z93,1,0,0,0,6.0,6,1,0,0.00,1.50,3,2024,2023-24,div1,El Paso,elpasocommunitycollege,davidgamezvjrh,David Gamez
-Mar 22,home,Amarillo College,W,13-8,13,8,5,win,20240322_ejr8,1,1,0,0,6.0,5,6,2,3.00,1.50,4,2024,2023-24,div1,El Paso,elpasocommunitycollege,davidgamezvjrh,David Gamez
-Mar 29,home,New Mexico,L,11-2,11,2,9,win,20240329_g5rz,1,0,1,0,4.0,9,7,7,15.75,3.25,4,2024,2023-24,div1,El Paso,elpasocommunitycollege,davidgamezvjrh,David Gamez
-Apr 5,home,Howard (TX),L,10-4,10,4,6,win,20240405_bswy,1,0,1,0,2.0,5,6,6,27.00,4.50,4,2024,2023-24,div1,El Paso,elpasocommunitycollege,davidgamezvjrh,David Gamez
+Feb 3,home,South Mountain,L,7-4,7,4,3,win,20240203_1xip,0,0,1,0,2.0,5,4,4,18.00,3.50,2,2024,2023-24,div1,El Paso,elpasocommunitycollege,davidgamezvjrh,David Gamez
+Feb 11,home,Lamar,W,11-10,11,10,1,win,20240211_3646,0,1,0,0,3.1,2,,,0.00,.60,,2024,2023-24,div1,El Paso,elpasocommunitycollege,davidgamezvjrh,David Gamez
+Feb 18,home,Otero,L,1-0,1,0,1,win,20240218_lnzb,0,0,0,0,1.0,,,,0.00,,,2024,2023-24,div1,El Paso,elpasocommunitycollege,davidgamezvjrh,David Gamez
+Feb 18,home,Otero,L,15-12,15,12,3,win,20240218_6djj,0,0,1,0,0.2,2,3,,0.00,3.00,,2024,2023-24,div1,El Paso,elpasocommunitycollege,davidgamezvjrh,David Gamez
+Feb 23,home,Western Oklahoma State,W,7-6,7,6,1,win,20240223_o8ei,0,1,0,0,0.2,1,1,1,13.50,3.00,1,2024,2023-24,div1,El Paso,elpasocommunitycollege,davidgamezvjrh,David Gamez
+Feb 25,home,Western Oklahoma State,L,15-7,15,7,8,win,20240225_fsa3,0,0,0,0,1.1,1,3,,0.00,1.50,1,2024,2023-24,div1,El Paso,elpasocommunitycollege,davidgamezvjrh,David Gamez
+Mar 2,home,California Miramar University,W,8-7,8,7,1,win,20240302_tqul,0,1,0,0,2.0,2,,,0.00,1.50,1,2024,2023-24,div1,El Paso,elpasocommunitycollege,davidgamezvjrh,David Gamez
+Mar 8,home,Western Texas,W,11-9,11,9,2,win,20240308_y8ko,0,0,0,0,3.0,3,2,1,3.00,1.00,,2024,2023-24,div1,El Paso,elpasocommunitycollege,davidgamezvjrh,David Gamez
+Mar 16,home,Midland,L,13-3,13,3,10,win,20240316_jqdd,0,0,0,0,1.2,3,2,1,5.40,2.40,1,2024,2023-24,div1,El Paso,elpasocommunitycollege,davidgamezvjrh,David Gamez
+Mar 23,home,Amarillo College,W,9-7,9,7,2,win,20240323_bjhz,0,1,0,0,1.1,1,1,1,6.75,.75,,2024,2023-24,div1,El Paso,elpasocommunitycollege,davidgamezvjrh,David Gamez
+Mar 30,home,New Mexico,L,12-2,12,2,10,win,20240330_5paf,0,0,0,0,1.2,2,3,3,16.20,1.80,1,2024,2023-24,div1,El Paso,elpasocommunitycollege,davidgamezvjrh,David Gamez
+Apr 5,home,Howard (TX),L,10-5,10,5,5,win,20240405_hyct,0,0,0,0,0.1,2,4,3,81.00,15.00,3,2024,2023-24,div1,El Paso,elpasocommunitycollege,davidgamezvjrh,David Gamez

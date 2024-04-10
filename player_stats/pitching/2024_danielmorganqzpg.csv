@@ -1,17 +1,8 @@
 date,location,opponent,result,score,team_score,opp_score,game_score_diff,game_win_loss,game_id,GS,W,L,SV,IP,H,R,ER,ERA,BB,K,HR,season,njcaa_season,njcaa_division,team,team_id,player_id,player_name
-Mar 30,home,Richard Bland,L,6-2,6,2,4,win,20240330_ptmc,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div2,Lenoir,lenoircommunitycollege,danielmorganqzpg,Daniel Morgan
-Mar 29,home,Richard Bland,L,3-2,3,2,1,win,20240329_b9hy,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div2,Lenoir,lenoircommunitycollege,danielmorganqzpg,Daniel Morgan
-Mar 22,home,Bryant & Stratton (VA),L,6-1,6,1,5,win,20240322_fkk5,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div2,Lenoir,lenoircommunitycollege,danielmorganqzpg,Daniel Morgan
-Mar 20,home,William Peace University JV,W,6-5,6,5,1,win,20240320_xttq,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div2,Lenoir,lenoircommunitycollege,danielmorganqzpg,Daniel Morgan
-Mar 17,home,Southeastern-Whiteville,L,7-6,7,6,1,win,20240317_uixx,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div2,Lenoir,lenoircommunitycollege,danielmorganqzpg,Daniel Morgan
-Mar 16,home,Southeastern-Whiteville,W,5-4,5,4,1,win,20240316_p66e,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div2,Lenoir,lenoircommunitycollege,danielmorganqzpg,Daniel Morgan
-Mar 10,home,Brunswick,L,4-2,4,2,2,win,20240310_54lp,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div2,Lenoir,lenoircommunitycollege,danielmorganqzpg,Daniel Morgan
-Mar 8,home,Brunswick,L,3-0,3,0,3,win,20240308_x98y,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div2,Lenoir,lenoircommunitycollege,danielmorganqzpg,Daniel Morgan
-Mar 3,home,Potomac State,L,6-5,6,5,1,win,20240303_mx5i,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div2,Lenoir,lenoircommunitycollege,danielmorganqzpg,Daniel Morgan
-Mar 3,home,Potomac State,W,3-2,3,2,1,win,20240303_xhsh,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div2,Lenoir,lenoircommunitycollege,danielmorganqzpg,Daniel Morgan
-Feb 26,home,NC Wesleyan University JV,W,8-4,8,4,4,win,20240226_4iba,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div2,Lenoir,lenoircommunitycollege,danielmorganqzpg,Daniel Morgan
-Feb 25,home,Fayetteville Tech,W,11-1,11,1,10,win,20240225_pe8d,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div2,Lenoir,lenoircommunitycollege,danielmorganqzpg,Daniel Morgan
-Feb 17,home,Richard Bland,L,9-5,9,5,4,win,20240217_vi33,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div2,Lenoir,lenoircommunitycollege,danielmorganqzpg,Daniel Morgan
-Feb 14,home,Louisburg,L,9-7,9,7,2,win,20240214_0pvl,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div2,Lenoir,lenoircommunitycollege,danielmorganqzpg,Daniel Morgan
-Feb 10,home,Camp,W,5-4,5,4,1,win,20240210_ly5h,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div2,Lenoir,lenoircommunitycollege,danielmorganqzpg,Daniel Morgan
-Feb 9,home,Willliam Peace University JV,W,9-5,9,5,4,win,20240209_he4c,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div2,Lenoir,lenoircommunitycollege,danielmorganqzpg,Daniel Morgan
+Apr 7,home,Fayetteville Tech,W,6-4,6,4,2,win,20240407_s4k6,1,1,0,0,5.0,4,4,4,7.20,1.20,2,2,2024,2023-24,div2,Lenoir,lenoircommunitycollege,danielmorganqzpg,Daniel Morgan
+Mar 29,home,Richard Bland,W,13-5,13,5,8,win,20240329_4ufb,0,0,0,0,3.0,3,1,0,0.00,1.67,2,0,2024,2023-24,div2,Lenoir,lenoircommunitycollege,danielmorganqzpg,Daniel Morgan
+Mar 24,home,Bryant & Stratton (VA),L,10-0,10,0,10,win,20240324_ip70,0,0,0,0,1.0,2,2,2,18.00,4.00,2,0,2024,2023-24,div2,Lenoir,lenoircommunitycollege,danielmorganqzpg,Daniel Morgan
+Mar 17,home,Southeastern-Whiteville,L,7-6,7,6,1,win,20240317_uixx,0,0,0,0,3.2,6,1,1,2.45,1.64,0,7,2024,2023-24,div2,Lenoir,lenoircommunitycollege,danielmorganqzpg,Daniel Morgan
+Mar 10,home,Brunswick,L,4-2,4,2,2,win,20240310_54lp,0,0,1,0,6.0,6,4,4,6.00,1.50,3,1,2024,2023-24,div2,Lenoir,lenoircommunitycollege,danielmorganqzpg,Daniel Morgan
+Mar 3,home,Potomac State,L,6-5,6,5,1,win,20240303_mx5i,0,0,0,0,3.0,2,2,2,6.00,1.67,3,2,2024,2023-24,div2,Lenoir,lenoircommunitycollege,danielmorganqzpg,Daniel Morgan
+Feb 26,home,NC Wesleyan University JV,W,8-4,8,4,4,win,20240226_4iba,0,0,0,0,1.0,,,,0.00,1.00,1,,2024,2023-24,div2,Lenoir,lenoircommunitycollege,danielmorganqzpg,Daniel Morgan
