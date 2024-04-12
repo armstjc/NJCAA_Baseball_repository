@@ -1,8 +1,34 @@
 date,location,opponent,result,score,team_score,opp_score,game_score_diff,game_win_loss,game_id,TC,PO,A,E,FPCT,DP,SBA,RCS,RCS_PCT,PB,CI,season,njcaa_season,njcaa_division,team,team_id,player_id,player_name
-Feb 9,home,Dallas College - Brookhaven,L,9-4,9,4,5,win,20240209_wwzo,1,0,1,0,4.0,4,7,2,4.50,1.75,3,2024,2023-24,div1,McCook,mccookcommunitycollege,ryanmalonespnb,Ryan Malone
-Feb 19,home,Labette,L,11-10,11,10,1,win,20240219_lf0a,1,0,0,0,6.0,6,4,2,3.00,1.67,4,2024,2023-24,div1,McCook,mccookcommunitycollege,ryanmalonespnb,Ryan Malone
+Feb 9,home,Dallas College - Brookhaven,L,5-4,5,4,1,win,20240209_3d40,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,McCook,mccookcommunitycollege,ryanmalonespnb,Ryan Malone
+Feb 9,home,Dallas College - Brookhaven,L,9-4,9,4,5,win,20240209_wwzo,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,McCook,mccookcommunitycollege,ryanmalonespnb,Ryan Malone
+Feb 18,home,Labette,W,10-5,10,5,5,win,20240218_25l3,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,McCook,mccookcommunitycollege,ryanmalonespnb,Ryan Malone
+Feb 18,home,Labette,L,10-0,10,0,10,win,20240218_e3sh,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,McCook,mccookcommunitycollege,ryanmalonespnb,Ryan Malone
+Feb 19,home,Labette,L,11-10,11,10,1,win,20240219_lf0a,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,McCook,mccookcommunitycollege,ryanmalonespnb,Ryan Malone
+Feb 23,home,Clarendon,L,5-3,5,3,2,win,20240223_gfti,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,McCook,mccookcommunitycollege,ryanmalonespnb,Ryan Malone
 Feb 23,home,Clarendon,L,12-5,12,5,7,win,20240223_8zpa,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,McCook,mccookcommunitycollege,ryanmalonespnb,Ryan Malone
-Feb 24,home,Clarendon,L,18-11,18,11,7,win,20240224_4wuq,1,0,0,0,4.0,5,9,0,0.00,1.50,1,2024,2023-24,div1,McCook,mccookcommunitycollege,ryanmalonespnb,Ryan Malone
-Mar 23,home,Lamar,L,7-6,7,6,1,win,20240323_lze4,0,0,0,0,1.0,2,1,1,9.00,2.00,,2024,2023-24,div1,McCook,mccookcommunitycollege,ryanmalonespnb,Ryan Malone
-Mar 30,home,Otero,W,4-3,4,3,1,win,20240330_cic2,1,0,0,0,2.0,5,2,2,9.00,2.50,0,2024,2023-24,div1,McCook,mccookcommunitycollege,ryanmalonespnb,Ryan Malone
-Apr 8,home,Northeastern,L,8-7,8,7,1,win,20240408_7jcq,1,0,1,0,2.0,2,3,2,9.00,2.50,3,2024,2023-24,div1,McCook,mccookcommunitycollege,ryanmalonespnb,Ryan Malone
+Feb 24,home,Clarendon,L,18-11,18,11,7,win,20240224_4wuq,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,McCook,mccookcommunitycollege,ryanmalonespnb,Ryan Malone
+Mar 1,home,Northeast,W,9-8,9,8,1,win,20240301_gtxy,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,McCook,mccookcommunitycollege,ryanmalonespnb,Ryan Malone
+Mar 1,home,Northeast,L,16-4,16,4,12,win,20240301_devn,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,McCook,mccookcommunitycollege,ryanmalonespnb,Ryan Malone
+Mar 3,home,Northeast,W,8-4,8,4,4,win,20240303_1u6m,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,McCook,mccookcommunitycollege,ryanmalonespnb,Ryan Malone
+Mar 3,home,Northeast,L,13-5,13,5,8,win,20240303_u7yy,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,McCook,mccookcommunitycollege,ryanmalonespnb,Ryan Malone
+Mar 6,home,Hesston,W,17-7,17,7,10,win,20240306_bgzc,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,McCook,mccookcommunitycollege,ryanmalonespnb,Ryan Malone
+Mar 13,home,Northwest Oklahoma State JV,W,13-2,13,2,11,win,20240313_y7ur,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,McCook,mccookcommunitycollege,ryanmalonespnb,Ryan Malone
+Mar 13,home,Northwest Oklahoma State JV,L,7-6,7,6,1,win,20240313_163b,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,McCook,mccookcommunitycollege,ryanmalonespnb,Ryan Malone
+Mar 16,home,Dallas College - Richland,L,4-3,4,3,1,win,20240316_uv4n,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,McCook,mccookcommunitycollege,ryanmalonespnb,Ryan Malone
+Mar 19,home,Hutchinson,L,20-10,20,10,10,win,20240319_0j8x,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,McCook,mccookcommunitycollege,ryanmalonespnb,Ryan Malone
+Mar 20,home,Kansas Wesleyan JV,L,5-4,5,4,1,win,20240320_vvd3,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,McCook,mccookcommunitycollege,ryanmalonespnb,Ryan Malone
+Mar 22,home,Lamar,W,7-1,7,1,6,win,20240322_eai4,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,McCook,mccookcommunitycollege,ryanmalonespnb,Ryan Malone
+Mar 22,home,Lamar,W,11-10,11,10,1,win,20240322_ynx7,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,McCook,mccookcommunitycollege,ryanmalonespnb,Ryan Malone
+Mar 23,home,Lamar,L,7-6,7,6,1,win,20240323_lze4,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,McCook,mccookcommunitycollege,ryanmalonespnb,Ryan Malone
+Mar 23,home,Lamar,W,13-6,13,6,7,win,20240323_xqjv,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,McCook,mccookcommunitycollege,ryanmalonespnb,Ryan Malone
+Mar 29,home,Otero,W,11-1,11,1,10,win,20240329_ph13,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,McCook,mccookcommunitycollege,ryanmalonespnb,Ryan Malone
+Mar 29,home,Otero,W,9-3,9,3,6,win,20240329_g5qs,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,McCook,mccookcommunitycollege,ryanmalonespnb,Ryan Malone
+Mar 30,home,Otero,L,5-4,5,4,1,win,20240330_ufwg,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,McCook,mccookcommunitycollege,ryanmalonespnb,Ryan Malone
+Mar 30,home,Otero,W,4-3,4,3,1,win,20240330_cic2,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,McCook,mccookcommunitycollege,ryanmalonespnb,Ryan Malone
+Apr 3,home,York College JV,W,9-6,9,6,3,win,20240403_u2re,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,McCook,mccookcommunitycollege,ryanmalonespnb,Ryan Malone
+Apr 3,home,York College JV,W,11-1,11,1,10,win,20240403_5msm,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,McCook,mccookcommunitycollege,ryanmalonespnb,Ryan Malone
+Apr 5,home,Northeastern,W,11-4,11,4,7,win,20240405_l84z,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,McCook,mccookcommunitycollege,ryanmalonespnb,Ryan Malone
+Apr 5,home,Northeastern,L,25-3,25,3,22,win,20240405_n1vw,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,McCook,mccookcommunitycollege,ryanmalonespnb,Ryan Malone
+Apr 8,home,Northeastern,L,8-7,8,7,1,win,20240408_7jcq,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,McCook,mccookcommunitycollege,ryanmalonespnb,Ryan Malone
+Apr 8,home,Northeastern,W,18-12,18,12,6,win,20240408_ivti,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,McCook,mccookcommunitycollege,ryanmalonespnb,Ryan Malone
+Apr 10,home,Colby,W,14-3,14,3,11,win,20240410_ah3y,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,McCook,mccookcommunitycollege,ryanmalonespnb,Ryan Malone

@@ -1,9 +1,28 @@
 date,location,opponent,result,score,team_score,opp_score,game_score_diff,game_win_loss,game_id,AB,R,H,2B,3B,HR,RBI,BB,K,SB,CS,HBP,SF,SH,TB,XBH,HDP,GO,FO,GO/FO,PA,season,njcaa_season,njcaa_division,team,team_id,player_id,player_name
-Feb 3,home,Chattahoochee Valley,W,5-3,5,3,2,win,20240203_eqvl,4,0,0,,,,0,,4,,,,,,0,0,,,,,4,2024,2023-24,div1,McLennan,mclennancommunitycollege,phoenixmeza4odf,Phoenix Meza
-Feb 9,home,Blinn,W,9-8,9,8,1,win,20240209_rij8,5,2,3,,,1,4,,,,,,,,6,1,,,,,5,2024,2023-24,div1,McLennan,mclennancommunitycollege,phoenixmeza4odf,Phoenix Meza
-Feb 13,home,Dallas College - Brookhaven,W,12-0,12,0,12,win,20240213_fkbe,5,1,1,1,,,0,,1,,,,,,2,1,,,,,5,2024,2023-24,div1,McLennan,mclennancommunitycollege,phoenixmeza4odf,Phoenix Meza
-Feb 16,home,Blinn,W,5-4,5,4,1,win,20240216_0jk1,5,2,2,,,1,1,,1,,,,,,5,1,,,,,5,2024,2023-24,div1,McLennan,mclennancommunitycollege,phoenixmeza4odf,Phoenix Meza
-Feb 18,home,Blinn,W,6-5,6,5,1,win,20240218_af4p,4,0,1,,,,0,,1,,,,,,1,0,,,,,4,2024,2023-24,div1,McLennan,mclennancommunitycollege,phoenixmeza4odf,Phoenix Meza
-Feb 23,home,Hutchinson,W,4-1,4,1,3,win,20240223_u998,2,0,0,,,,0,1,,,,,,,0,0,,,,,3,2024,2023-24,div1,McLennan,mclennancommunitycollege,phoenixmeza4odf,Phoenix Meza
-Feb 23,home,Hutchinson,W,6-1,6,1,5,win,20240223_gfsq,4,0,0,,,,0,,1,,,,,,0,0,,,,,4,2024,2023-24,div1,McLennan,mclennancommunitycollege,phoenixmeza4odf,Phoenix Meza
-Mar 2,home,Navarro,W,11-6,11,6,5,win,20240302_yfuk,4,0,1,,,,0,,2,,,,,,1,0,,,,,4,2024,2023-24,div1,McLennan,mclennancommunitycollege,phoenixmeza4odf,Phoenix Meza
+Feb 3,home,Chattahoochee Valley,W,5-3,5,3,2,win,20240203_eqvl,4,0,1,1,,,1,,1,,,,,,2,1,,,,,4,2024,2023-24,div1,McLennan,mclennancommunitycollege,phoenixmeza4odf,Phoenix Meza
+Feb 9,home,Blinn,W,9-8,9,8,1,win,20240209_rij8,3,1,1,,,,0,2,1,1,,,,,1,0,,,,,5,2024,2023-24,div1,McLennan,mclennancommunitycollege,phoenixmeza4odf,Phoenix Meza
+Feb 13,home,Dallas College - Brookhaven,W,12-0,12,0,12,win,20240213_fkbe,3,1,0,,,,1,2,,1,,,,,0,0,,,,,5,2024,2023-24,div1,McLennan,mclennancommunitycollege,phoenixmeza4odf,Phoenix Meza
+Feb 16,home,Blinn,W,5-4,5,4,1,win,20240216_0jk1,4,0,1,,,,2,1,,,,,,,1,0,,,,,5,2024,2023-24,div1,McLennan,mclennancommunitycollege,phoenixmeza4odf,Phoenix Meza
+Feb 18,home,Blinn,W,6-5,6,5,1,win,20240218_af4p,3,1,1,1,,,0,,,1,,,,,2,1,,,,,3,2024,2023-24,div1,McLennan,mclennancommunitycollege,phoenixmeza4odf,Phoenix Meza
+Feb 23,home,Hutchinson,W,4-1,4,1,3,win,20240223_u998,2,1,1,1,,,0,,,,,1,,,2,1,,,,,3,2024,2023-24,div1,McLennan,mclennancommunitycollege,phoenixmeza4odf,Phoenix Meza
+Feb 23,home,Hutchinson,W,6-1,6,1,5,win,20240223_gfsq,3,1,1,1,,,2,1,,,,,,,2,1,,,,,4,2024,2023-24,div1,McLennan,mclennancommunitycollege,phoenixmeza4odf,Phoenix Meza
+Feb 24,home,Hutchinson,W,13-6,13,6,7,win,20240224_fmu5,4,2,2,,,1,5,,,,,1,,,5,1,,,,,5,2024,2023-24,div1,McLennan,mclennancommunitycollege,phoenixmeza4odf,Phoenix Meza
+Mar 2,home,Navarro,W,11-6,11,6,5,win,20240302_yfuk,3,1,3,1,,,3,1,,,,,,,4,1,,,,,4,2024,2023-24,div1,McLennan,mclennancommunitycollege,phoenixmeza4odf,Phoenix Meza
+Mar 4,home,Navarro,W,19-1,19,1,18,win,20240304_a3j3,5,3,3,,,,2,,1,,,1,,,3,0,,,,,6,2024,2023-24,div1,McLennan,mclennancommunitycollege,phoenixmeza4odf,Phoenix Meza
+Mar 6,home,Vernon,W,7-1,7,1,6,win,20240306_v4wq,4,0,0,,,,0,,,,,,,,0,0,,,,,4,2024,2023-24,div1,McLennan,mclennancommunitycollege,phoenixmeza4odf,Phoenix Meza
+Mar 9,home,Vernon,W,14-4,14,4,10,win,20240309_om2j,3,2,2,,,1,2,,,,,1,,,5,1,,,,,4,2024,2023-24,div1,McLennan,mclennancommunitycollege,phoenixmeza4odf,Phoenix Meza
+Mar 11,home,San Jacinto,W,11-10,11,10,1,win,20240311_7e4d,5,0,2,,,,1,,1,1,,,,,2,0,,,,,5,2024,2023-24,div1,McLennan,mclennancommunitycollege,phoenixmeza4odf,Phoenix Meza
+Mar 13,home,North Central Texas,W,12-0,12,0,12,win,20240313_4gs3,3,1,2,1,,,4,,1,1,,,1,,3,1,,,,,4,2024,2023-24,div1,McLennan,mclennancommunitycollege,phoenixmeza4odf,Phoenix Meza
+Mar 13,home,North Central Texas,W,12-0,12,0,12,win,20240313_jkmq,2,2,2,,,1,2,1,,1,,,,,5,1,,,,,3,2024,2023-24,div1,McLennan,mclennancommunitycollege,phoenixmeza4odf,Phoenix Meza
+Mar 17,home,North Central Texas,W,6-0,6,0,6,win,20240317_47p0,4,0,0,,,,0,,3,,,,,,0,0,,,,,4,2024,2023-24,div1,McLennan,mclennancommunitycollege,phoenixmeza4odf,Phoenix Meza
+Mar 17,home,North Central Texas,W,13-1,13,1,12,win,20240317_53pk,3,0,0,,,,1,1,2,,,,,1,0,0,,,,,5,2024,2023-24,div1,McLennan,mclennancommunitycollege,phoenixmeza4odf,Phoenix Meza
+Mar 20,home,Temple,W,10-3,10,3,7,win,20240320_qphs,4,0,2,,,,1,1,1,,,,,,2,0,,,,,5,2024,2023-24,div1,McLennan,mclennancommunitycollege,phoenixmeza4odf,Phoenix Meza
+Mar 23,home,Temple,W,10-5,10,5,5,win,20240323_eu60,4,1,1,,,,1,,,,,,,,1,0,,,,,4,2024,2023-24,div1,McLennan,mclennancommunitycollege,phoenixmeza4odf,Phoenix Meza
+Mar 23,home,Temple,W,8-5,8,5,3,win,20240323_q2ie,5,1,1,1,,,0,,,,,,,,2,1,,,,,5,2024,2023-24,div1,McLennan,mclennancommunitycollege,phoenixmeza4odf,Phoenix Meza
+Mar 27,home,Cisco,W,9-4,9,4,5,win,20240327_rroz,4,0,2,,,,1,,,,1,,1,,2,0,,,,,5,2024,2023-24,div1,McLennan,mclennancommunitycollege,phoenixmeza4odf,Phoenix Meza
+Mar 29,home,Cisco,W,11-2,11,2,9,win,20240329_le8a,2,2,2,,,1,4,,,,,1,,,5,1,,,,,3,2024,2023-24,div1,McLennan,mclennancommunitycollege,phoenixmeza4odf,Phoenix Meza
+Mar 29,home,Cisco,W,10-0,10,0,10,win,20240329_kd7v,1,2,1,1,,,2,1,,,,1,,,2,1,,,,,3,2024,2023-24,div1,McLennan,mclennancommunitycollege,phoenixmeza4odf,Phoenix Meza
+Apr 3,home,Grayson,W,7-5,7,5,2,win,20240403_wd06,4,1,1,,,1,1,,,,,,,,4,1,,,,,4,2024,2023-24,div1,McLennan,mclennancommunitycollege,phoenixmeza4odf,Phoenix Meza
+Apr 3,home,Grayson,W,3-2,3,2,1,win,20240403_c8t8,3,0,1,,,,1,1,1,1,,,1,,1,0,,,,,5,2024,2023-24,div1,McLennan,mclennancommunitycollege,phoenixmeza4odf,Phoenix Meza
+Apr 6,home,Grayson,W,1-0,1,0,1,win,20240406_0s7d,2,1,0,,,,0,,,,,1,,,0,0,,,,,3,2024,2023-24,div1,McLennan,mclennancommunitycollege,phoenixmeza4odf,Phoenix Meza
+Apr 6,home,Grayson,W,6-5,6,5,1,win,20240406_s0ey,1,2,3,,,1,0,,,1,,2,,,6,1,,,,,3,2024,2023-24,div1,McLennan,mclennancommunitycollege,phoenixmeza4odf,Phoenix Meza

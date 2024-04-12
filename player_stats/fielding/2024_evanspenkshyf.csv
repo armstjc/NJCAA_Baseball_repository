@@ -1,9 +1,32 @@
 date,location,opponent,result,score,team_score,opp_score,game_score_diff,game_win_loss,game_id,TC,PO,A,E,FPCT,DP,SBA,RCS,RCS_PCT,PB,CI,season,njcaa_season,njcaa_division,team,team_id,player_id,player_name
-Feb 24,home,Arkansas State Mid-South,L,10-8,10,8,2,win,20240224_a7p2,1,0,1,0,2.2,3,6,2,6.75,1.88,2,2024,2023-24,div2,Lake County,collegeoflakecounty,evanspenkshyf,Evan Spenk
-Feb 27,home,Madison,L,17-4,17,4,13,win,20240227_4qwq,0,0,1,0,0.1,5,4,4,108.00,15.00,,2024,2023-24,div2,Lake County,collegeoflakecounty,evanspenkshyf,Evan Spenk
-Mar 3,home,Chesapeake,W,6-3,6,3,3,win,20240303_v7l9,1,1,0,0,6.0,6,3,3,4.50,1.33,2,2024,2023-24,div2,Lake County,collegeoflakecounty,evanspenkshyf,Evan Spenk
-Mar 7,home,Henry Ford,L,5-3,5,3,2,win,20240307_y4eq,0,0,0,0,3.2,6,2,2,4.91,1.64,,2024,2023-24,div2,Lake County,collegeoflakecounty,evanspenkshyf,Evan Spenk
-Mar 12,home,Harper,L,5-4,5,4,1,win,20240312_fzqv,1,0,1,0,2.2,5,5,0,0.00,2.25,1,2024,2023-24,div2,Lake County,collegeoflakecounty,evanspenkshyf,Evan Spenk
-Mar 21,home,Joliet,W,4-0,4,0,4,win,20240321_wkmn,1,1,0,0,7.0,3,0,0,0.00,.57,1,2024,2023-24,div2,Lake County,collegeoflakecounty,evanspenkshyf,Evan Spenk
-Mar 29,home,Highland (IL),L,7-2,7,2,5,win,20240329_jyge,1,0,1,0,4.0,4,4,2,4.50,1.50,2,2024,2023-24,div2,Lake County,collegeoflakecounty,evanspenkshyf,Evan Spenk
-Apr 6,home,Moraine Valley,W,8-3,8,3,5,win,20240406_o4kn,1,1,0,0,5.0,2,1,0,0.00,.60,1,2024,2023-24,div2,Lake County,collegeoflakecounty,evanspenkshyf,Evan Spenk
+Feb 24,home,Arkansas State Mid-South,L,10-8,10,8,2,win,20240224_a7p2,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Lake County,collegeoflakecounty,evanspenkshyf,Evan Spenk
+Feb 24,home,Arkansas State Mid-South,W,15-5,15,5,10,win,20240224_h6w9,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Lake County,collegeoflakecounty,evanspenkshyf,Evan Spenk
+Feb 25,home,Arkansas State Mid-South,W,15-3,15,3,12,win,20240225_clal,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Lake County,collegeoflakecounty,evanspenkshyf,Evan Spenk
+Feb 27,home,Madison,L,17-4,17,4,13,win,20240227_4qwq,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Lake County,collegeoflakecounty,evanspenkshyf,Evan Spenk
+Mar 2,home,St. Cloud Tech,W,5-3,5,3,2,win,20240302_7n10,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Lake County,collegeoflakecounty,evanspenkshyf,Evan Spenk
+Mar 2,home,St. Cloud Tech,W,7-3,7,3,4,win,20240302_cew6,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Lake County,collegeoflakecounty,evanspenkshyf,Evan Spenk
+Mar 3,home,Chesapeake,W,6-3,6,3,3,win,20240303_v7l9,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Lake County,collegeoflakecounty,evanspenkshyf,Evan Spenk
+Mar 4,home,Henry Ford,W,5-4,5,4,1,win,20240304_tes3,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Lake County,collegeoflakecounty,evanspenkshyf,Evan Spenk
+Mar 6,home,Delta,W,10-0,10,0,10,win,20240306_dup7,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Lake County,collegeoflakecounty,evanspenkshyf,Evan Spenk
+Mar 6,home,Delta,L,4-3,4,3,1,win,20240306_b25o,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Lake County,collegeoflakecounty,evanspenkshyf,Evan Spenk
+Mar 7,home,Hagerstown,W,6-3,6,3,3,win,20240307_r292,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Lake County,collegeoflakecounty,evanspenkshyf,Evan Spenk
+Mar 7,home,Henry Ford,L,5-3,5,3,2,win,20240307_y4eq,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Lake County,collegeoflakecounty,evanspenkshyf,Evan Spenk
+Mar 12,home,Harper,W,24-3,24,3,21,win,20240312_x0u7,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Lake County,collegeoflakecounty,evanspenkshyf,Evan Spenk
+Mar 12,home,Harper,L,5-4,5,4,1,win,20240312_fzqv,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Lake County,collegeoflakecounty,evanspenkshyf,Evan Spenk
+Mar 16,home,Milwaukee Area Tech,L,3-2,3,2,1,win,20240316_vt8n,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Lake County,collegeoflakecounty,evanspenkshyf,Evan Spenk
+Mar 16,home,Milwaukee Area Tech,W,7-5,7,5,2,win,20240316_1cx1,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Lake County,collegeoflakecounty,evanspenkshyf,Evan Spenk
+Mar 19,home,DuPage,W,15-3,15,3,12,win,20240319_0fe3,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Lake County,collegeoflakecounty,evanspenkshyf,Evan Spenk
+Mar 21,home,Joliet,W,4-0,4,0,4,win,20240321_wkmn,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Lake County,collegeoflakecounty,evanspenkshyf,Evan Spenk
+Mar 21,home,Joliet,L,4-3,4,3,1,win,20240321_n4eg,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Lake County,collegeoflakecounty,evanspenkshyf,Evan Spenk
+Mar 24,home,Kankakee,L,6-1,6,1,5,win,20240324_ra1u,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Lake County,collegeoflakecounty,evanspenkshyf,Evan Spenk
+Mar 24,home,Kankakee,L,3-0,3,0,3,win,20240324_ui7b,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Lake County,collegeoflakecounty,evanspenkshyf,Evan Spenk
+Mar 29,home,Highland (IL),W,3-2,3,2,1,win,20240329_xfbn,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Lake County,collegeoflakecounty,evanspenkshyf,Evan Spenk
+Mar 29,home,Highland (IL),L,7-2,7,2,5,win,20240329_jyge,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Lake County,collegeoflakecounty,evanspenkshyf,Evan Spenk
+Mar 30,home,Bryant & Stratton College (WI),L,2-1,2,1,1,win,20240330_wucr,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Lake County,collegeoflakecounty,evanspenkshyf,Evan Spenk
+Mar 30,home,Bryant & Stratton College (WI),L,2-1,2,1,1,win,20240330_ebk1,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Lake County,collegeoflakecounty,evanspenkshyf,Evan Spenk
+Apr 6,home,Moraine Valley,W,5-3,5,3,2,win,20240406_ty0u,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Lake County,collegeoflakecounty,evanspenkshyf,Evan Spenk
+Apr 6,home,Moraine Valley,W,8-3,8,3,5,win,20240406_o4kn,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Lake County,collegeoflakecounty,evanspenkshyf,Evan Spenk
+Apr 9,home,McHenry County,L,13-0,13,0,13,win,20240409_b450,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Lake County,collegeoflakecounty,evanspenkshyf,Evan Spenk
+Apr 9,home,McHenry County,L,15-3,15,3,12,win,20240409_61l8,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Lake County,collegeoflakecounty,evanspenkshyf,Evan Spenk
+Apr 10,home,Carthage,L,5-3,5,3,2,win,20240410_n5fy,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Lake County,collegeoflakecounty,evanspenkshyf,Evan Spenk
+Apr 11,home,Triton,W,3-1,3,1,2,win,20240411_snvl,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Lake County,collegeoflakecounty,evanspenkshyf,Evan Spenk

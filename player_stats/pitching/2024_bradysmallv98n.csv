@@ -1,30 +1,7 @@
 date,location,opponent,result,score,team_score,opp_score,game_score_diff,game_win_loss,game_id,GS,W,L,SV,IP,H,R,ER,ERA,BB,K,HR,season,njcaa_season,njcaa_division,team,team_id,player_id,player_name
-Apr 8,home,South Suburban,W,8-3,8,3,5,win,20240408_o5sq,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div1,Triton,tritoncollege,bradysmallv98n,BRADY SMALL
-Apr 6,home,Kankakee,L,3-2,3,2,1,win,20240406_90q0,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div1,Triton,tritoncollege,bradysmallv98n,BRADY SMALL
-Apr 5,home,Black Hawk,L,9-8,9,8,1,win,20240405_dzfx,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div1,Triton,tritoncollege,bradysmallv98n,BRADY SMALL
-Apr 5,home,Black Hawk,L,6-5,6,5,1,win,20240405_eyd4,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div1,Triton,tritoncollege,bradysmallv98n,BRADY SMALL
-Mar 30,home,Kankakee,L,8-3,8,3,5,win,20240330_tdpy,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div1,Triton,tritoncollege,bradysmallv98n,BRADY SMALL
-Mar 30,home,Kankakee,L,1-0,1,0,1,win,20240330_sqg5,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div1,Triton,tritoncollege,bradysmallv98n,BRADY SMALL
-Mar 29,home,Milwaukee Area Tech,L,8-5,8,5,3,win,20240329_qciz,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div1,Triton,tritoncollege,bradysmallv98n,BRADY SMALL
-Mar 29,home,Milwaukee Area Tech,W,9-6,9,6,3,win,20240329_ekxk,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div1,Triton,tritoncollege,bradysmallv98n,BRADY SMALL
-Mar 27,home,Elgin,W,7-6,7,6,1,win,20240327_czl9,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div1,Triton,tritoncollege,bradysmallv98n,BRADY SMALL
-Mar 27,home,Elgin,L,13-2,13,2,11,win,20240327_sh8g,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div1,Triton,tritoncollege,bradysmallv98n,BRADY SMALL
-Mar 26,home,Morton,W,16-11,16,11,5,win,20240326_hctt,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div1,Triton,tritoncollege,bradysmallv98n,BRADY SMALL
-Mar 19,home,McHenry County,W,7-0,7,0,7,win,20240319_1kwn,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div1,Triton,tritoncollege,bradysmallv98n,BRADY SMALL
-Mar 16,home,Harper,L,7-5,7,5,2,win,20240316_bbth,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div1,Triton,tritoncollege,bradysmallv98n,BRADY SMALL
+Apr 5,home,Black Hawk,L,6-5,6,5,1,win,20240405_eyd4,0,0,0,0,1.0,1,1,1,9.00,1.00,,,2024,2023-24,div1,Triton,tritoncollege,bradysmallv98n,BRADY SMALL
+Mar 29,home,Milwaukee Area Tech,W,9-6,9,6,3,win,20240329_ekxk,1,0,0,0,4.0,7,6,5,11.25,2.25,2,5,2024,2023-24,div1,Triton,tritoncollege,bradysmallv98n,BRADY SMALL
 Mar 16,home,Harper,W,11-4,11,4,7,win,20240316_sam4,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div1,Triton,tritoncollege,bradysmallv98n,BRADY SMALL
-Mar 12,home,Heartland,L,16-6,16,6,10,win,20240312_wmzt,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div1,Triton,tritoncollege,bradysmallv98n,BRADY SMALL
-Mar 10,home,Delgado,L,7-2,7,2,5,win,20240310_y98o,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div1,Triton,tritoncollege,bradysmallv98n,BRADY SMALL
-Mar 10,home,Delgado,L,6-5,6,5,1,win,20240310_4e31,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div1,Triton,tritoncollege,bradysmallv98n,BRADY SMALL
-Mar 9,home,Delgado,L,6-5,6,5,1,win,20240309_1uki,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div1,Triton,tritoncollege,bradysmallv98n,BRADY SMALL
-Mar 8,home,Nunez,L,7-0,7,0,7,win,20240308_viyj,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div1,Triton,tritoncollege,bradysmallv98n,BRADY SMALL
-Mar 8,home,Nunez,L,14-4,14,4,10,win,20240308_x7u5,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div1,Triton,tritoncollege,bradysmallv98n,BRADY SMALL
-Mar 3,home,Southeastern Illinois,L,7-0,7,0,7,win,20240303_o63o,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div1,Triton,tritoncollege,bradysmallv98n,BRADY SMALL
-Mar 2,home,John A. Logan,L,3-2,3,2,1,win,20240302_skul,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div1,Triton,tritoncollege,bradysmallv98n,BRADY SMALL
-Mar 2,home,John A. Logan,L,7-6,7,6,1,win,20240302_q269,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div1,Triton,tritoncollege,bradysmallv98n,BRADY SMALL
-Mar 1,home,St. Charles,L,13-4,13,4,9,win,20240301_gntr,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div1,Triton,tritoncollege,bradysmallv98n,BRADY SMALL
-Mar 1,home,St. Charles,L,8-0,8,0,8,win,20240301_5giv,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div1,Triton,tritoncollege,bradysmallv98n,BRADY SMALL
-Feb 25,home,St. Louis,W,2-1,2,1,1,win,20240225_zsiz,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div1,Triton,tritoncollege,bradysmallv98n,BRADY SMALL
-Feb 25,home,Indian Hills,L,9-2,9,2,7,win,20240225_2piz,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div1,Triton,tritoncollege,bradysmallv98n,BRADY SMALL
-Feb 24,home,Southwest Tennessee,L,8-5,8,5,3,win,20240224_88dw,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div1,Triton,tritoncollege,bradysmallv98n,BRADY SMALL
-Feb 24,home,Kaskaskia,W,4-2,4,2,2,win,20240224_0hi5,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div1,Triton,tritoncollege,bradysmallv98n,BRADY SMALL
+Mar 9,home,Delgado,L,6-5,6,5,1,win,20240309_1uki,1,0,0,0,2.1,7,3,3,11.57,4.29,3,1,2024,2023-24,div1,Triton,tritoncollege,bradysmallv98n,BRADY SMALL
+Mar 3,home,Southeastern Illinois,L,7-0,7,0,7,win,20240303_9z6c,1,1,0,0,3.0,2,0,0,0.00,1.67,3,2,2024,2023-24,div1,Triton,tritoncollege,bradysmallv98n,BRADY SMALL
+Feb 24,home,Southwest Tennessee,L,8-5,8,5,3,win,20240224_88dw,0,0,0,0,2.0,,,,0.00,1.00,2,,2024,2023-24,div1,Triton,tritoncollege,bradysmallv98n,BRADY SMALL

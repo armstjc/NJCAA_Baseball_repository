@@ -1,13 +1,10 @@
 date,location,opponent,result,score,team_score,opp_score,game_score_diff,game_win_loss,game_id,AB,R,H,2B,3B,HR,RBI,BB,K,SB,CS,HBP,SF,SH,TB,XBH,HDP,GO,FO,GO/FO,PA,season,njcaa_season,njcaa_division,team,team_id,player_id,player_name
-Feb 16,home,Volunteer State,W,8-4,8,4,4,win,20240216_cy6j,5,1,2,1,,,2,,2,,,,,,3,1,,,,,5,2024,2023-24,div2,Jackson,jacksoncollege,braylenmontgomerys8jv,Braylen Montgomery
-Feb 26,home,Spring Arbor University,W,15-0,15,0,15,win,20240226_a7st,1,1,0,,,,0,1,1,,,1,,,0,0,,,,,3,2024,2023-24,div2,Jackson,jacksoncollege,braylenmontgomerys8jv,Braylen Montgomery
-Mar 2,home,Bryant & Stratton College (WI),W,4-2,4,2,2,win,20240302_bqlt,2,0,1,,,,1,1,,,,1,,,1,0,,,,,4,2024,2023-24,div2,Jackson,jacksoncollege,braylenmontgomerys8jv,Braylen Montgomery
-Mar 3,home,Dakota County Tech,W,12-7,12,7,5,win,20240303_9bbp,1,1,0,,,,0,,1,,,,,,0,0,,,,,1,2024,2023-24,div2,Jackson,jacksoncollege,braylenmontgomerys8jv,Braylen Montgomery
-Mar 6,home,Bryant & Stratton (OH),W,7-1,7,1,6,win,20240306_ixib,3,1,0,,,,1,1,1,,,,,,0,0,,,,,4,2024,2023-24,div2,Jackson,jacksoncollege,braylenmontgomerys8jv,Braylen Montgomery
-Mar 6,home,Bryant & Stratton (OH),W,5-0,5,0,5,win,20240306_uaur,4,2,1,,,,0,,1,1,,,,,1,0,,,,,4,2024,2023-24,div2,Jackson,jacksoncollege,braylenmontgomerys8jv,Braylen Montgomery
-Mar 13,home,Siena Heights,W,13-1,13,1,12,win,20240313_e6qd,4,2,1,,,,0,,1,,,1,,,1,0,,,,,5,2024,2023-24,div2,Jackson,jacksoncollege,braylenmontgomerys8jv,Braylen Montgomery
-Mar 15,home,Concordia University AA,W,10-3,10,3,7,win,20240315_qmnl,3,0,2,,,,2,,1,,,,,1,2,0,,,,,4,2024,2023-24,div2,Jackson,jacksoncollege,braylenmontgomerys8jv,Braylen Montgomery
-Mar 25,home,Henry Ford,W,7-3,7,3,4,win,20240325_e81n,3,0,1,,,,1,1,,,,,,,1,0,,,,,4,2024,2023-24,div2,Jackson,jacksoncollege,braylenmontgomerys8jv,Braylen Montgomery
-Apr 4,home,Macomb,W,4-3,4,3,1,win,20240404_dw36,2,0,0,,,,0,,1,,,,,,0,0,,1,,,2,2024,2023-24,div2,Jackson,jacksoncollege,braylenmontgomerys8jv,Braylen Montgomery
-Apr 4,home,Macomb,W,7-4,7,4,3,win,20240404_nwtc,1,0,0,,,,0,,1,,1,1,,,0,0,,,,,2,2024,2023-24,div2,Jackson,jacksoncollege,braylenmontgomerys8jv,Braylen Montgomery
-Apr 6,home,Macomb,W,8-3,8,3,5,win,20240406_yqk0,2,1,0,,,,0,1,1,,,,,,0,0,,,,,3,2024,2023-24,div2,Jackson,jacksoncollege,braylenmontgomerys8jv,Braylen Montgomery
+Feb 26,home,Spring Arbor University,W,15-0,15,0,15,win,20240226_a7st,1,0,0,,,,0,1,,,,,,,0,0,,,,,2,2024,2023-24,div2,Jackson,jacksoncollege,braylenmontgomerys8jv,Braylen Montgomery
+Mar 2,home,Bryant & Stratton College (WI),W,4-2,4,2,2,win,20240302_bqlt,3,0,2,,,,1,,,,,,,,2,0,,,,,3,2024,2023-24,div2,Jackson,jacksoncollege,braylenmontgomerys8jv,Braylen Montgomery
+Mar 3,home,Dakota County Tech,W,12-7,12,7,5,win,20240303_9bbp,3,2,0,,,,1,2,2,,,,,,0,0,,,,,5,2024,2023-24,div2,Jackson,jacksoncollege,braylenmontgomerys8jv,Braylen Montgomery
+Mar 6,home,Bryant & Stratton (OH),W,5-0,5,0,5,win,20240306_uaur,3,2,1,,,,1,1,2,,,,,,1,0,,,,,4,2024,2023-24,div2,Jackson,jacksoncollege,braylenmontgomerys8jv,Braylen Montgomery
+Mar 13,home,Siena Heights,W,13-1,13,1,12,win,20240313_e6qd,1,0,0,,,,0,1,1,,,,,,0,0,,,,,2,2024,2023-24,div2,Jackson,jacksoncollege,braylenmontgomerys8jv,Braylen Montgomery
+Mar 21,home,St. Clair County,W,5-4,5,4,1,win,20240321_0m4d,0,0,0,,,,0,,,1,,1,,,0,0,,,,,1,2024,2023-24,div2,Jackson,jacksoncollege,braylenmontgomerys8jv,Braylen Montgomery
+Apr 4,home,Macomb,W,4-3,4,3,1,win,20240404_dw36,1,1,0,,,,0,2,1,,,,,,0,0,,,,,3,2024,2023-24,div2,Jackson,jacksoncollege,braylenmontgomerys8jv,Braylen Montgomery
+Apr 4,home,Macomb,W,7-4,7,4,3,win,20240404_nwtc,3,1,1,,,,2,1,,,,,,,1,0,,1,1,1.00,4,2024,2023-24,div2,Jackson,jacksoncollege,braylenmontgomerys8jv,Braylen Montgomery
+Apr 6,home,Macomb,W,8-3,8,3,5,win,20240406_yqk0,2,1,1,1,,,2,1,,,,,,,2,1,,,,,3,2024,2023-24,div2,Jackson,jacksoncollege,braylenmontgomerys8jv,Braylen Montgomery

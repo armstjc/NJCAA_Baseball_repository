@@ -1,11 +1,41 @@
 date,location,opponent,result,score,team_score,opp_score,game_score_diff,game_win_loss,game_id,TC,PO,A,E,FPCT,DP,SBA,RCS,RCS_PCT,PB,CI,season,njcaa_season,njcaa_division,team,team_id,player_id,player_name
-Jan 27,home,Santa Fe,L,4-0,4,0,4,win,20240127_08jn,1,0,1,0,2.2,2,3,1,3.38,.75,0,2024,2023-24,div1,Florida SouthWestern State,floridasouthwesternstatecollege,alexwalshhnzs,Alex Walsh
-Feb 2,home,Northwest Florida State,L,6-3,6,3,3,win,20240202_3g7s,1,0,1,0,3.2,8,5,5,12.27,2.18,0,2024,2023-24,div1,Florida SouthWestern State,floridasouthwesternstatecollege,alexwalshhnzs,Alex Walsh
-Feb 8,home,TNXL Academy,W,8-2,8,2,6,win,20240208_zj1d,1,1,0,0,4.0,4,0,0,0.00,1.25,1,2024,2023-24,div1,Florida SouthWestern State,floridasouthwesternstatecollege,alexwalshhnzs,Alex Walsh
-Feb 15,home,St. Petersburg,W,8-5,8,5,3,win,20240215_8wob,1,0,0,0,5.0,7,4,4,7.20,1.80,2,2024,2023-24,div1,Florida SouthWestern State,floridasouthwesternstatecollege,alexwalshhnzs,Alex Walsh
-Feb 22,home,Indian River State,W,13-12,13,12,1,win,20240222_f2ho,1,0,0,0,4.0,7,6,6,13.50,2.50,3,2024,2023-24,div1,Florida SouthWestern State,floridasouthwesternstatecollege,alexwalshhnzs,Alex Walsh
-Feb 29,home,Hillsborough,W,7-5,7,5,2,win,20240229_xx4s,1,0,0,0,1.0,3,5,3,27.00,6.00,3,2024,2023-24,div1,Florida SouthWestern State,floridasouthwesternstatecollege,alexwalshhnzs,Alex Walsh
-Mar 9,home,State College of Florida,W,11-5,11,5,6,win,20240309_moh7,0,0,0,0,0.1,2,3,2,54.00,12.00,2,2024,2023-24,div1,Florida SouthWestern State,floridasouthwesternstatecollege,alexwalshhnzs,Alex Walsh
-Mar 12,home,Indian River State,L,15-6,15,6,9,win,20240312_htor,0,0,0,0,4.0,10,10,10,22.50,3.25,3,2024,2023-24,div1,Florida SouthWestern State,floridasouthwesternstatecollege,alexwalshhnzs,Alex Walsh
-Mar 19,home,State College of Florida,L,7-2,7,2,5,win,20240319_axd5,1,0,1,0,3.2,3,7,3,7.36,3.00,8,2024,2023-24,div1,Florida SouthWestern State,floridasouthwesternstatecollege,alexwalshhnzs,Alex Walsh
-Mar 26,home,Indian River State,L,16-12,16,12,4,win,20240326_k2wx,0,0,0,0,2.0,6,5,5,22.50,3.00,,2024,2023-24,div1,Florida SouthWestern State,floridasouthwesternstatecollege,alexwalshhnzs,Alex Walsh
+Jan 26,home,Northwest Florida State,L,20-10,20,10,10,win,20240126_28o1,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Florida SouthWestern State,floridasouthwesternstatecollege,alexwalshhnzs,Alex Walsh
+Jan 27,home,Pasco-Hernando State,W,4-2,4,2,2,win,20240127_iz9x,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Florida SouthWestern State,floridasouthwesternstatecollege,alexwalshhnzs,Alex Walsh
+Jan 27,home,Santa Fe,L,4-0,4,0,4,win,20240127_08jn,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Florida SouthWestern State,floridasouthwesternstatecollege,alexwalshhnzs,Alex Walsh
+Feb 2,home,Northwest Florida State,L,6-3,6,3,3,win,20240202_3g7s,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Florida SouthWestern State,floridasouthwesternstatecollege,alexwalshhnzs,Alex Walsh
+Feb 3,home,Andrew,W,8-6,8,6,2,win,20240203_c1dm,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Florida SouthWestern State,floridasouthwesternstatecollege,alexwalshhnzs,Alex Walsh
+Feb 3,home,Pearl River,L,6-3,6,3,3,win,20240203_q2ko,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Florida SouthWestern State,floridasouthwesternstatecollege,alexwalshhnzs,Alex Walsh
+Feb 4,home,Chipola,L,9-5,9,5,4,win,20240204_vhmt,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Florida SouthWestern State,floridasouthwesternstatecollege,alexwalshhnzs,Alex Walsh
+Feb 8,home,TNXL Academy,W,8-2,8,2,6,win,20240208_zj1d,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Florida SouthWestern State,floridasouthwesternstatecollege,alexwalshhnzs,Alex Walsh
+Feb 10,home,A3 Academy,W,16-2,16,2,14,win,20240210_joy0,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Florida SouthWestern State,floridasouthwesternstatecollege,alexwalshhnzs,Alex Walsh
+Feb 10,home,A3 Academy,W,17-1,17,1,16,win,20240210_p92k,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Florida SouthWestern State,floridasouthwesternstatecollege,alexwalshhnzs,Alex Walsh
+Feb 13,home,New College of Florida,W,9-4,9,4,5,win,20240213_cuoo,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Florida SouthWestern State,floridasouthwesternstatecollege,alexwalshhnzs,Alex Walsh
+Feb 15,home,St. Petersburg,W,8-5,8,5,3,win,20240215_8wob,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Florida SouthWestern State,floridasouthwesternstatecollege,alexwalshhnzs,Alex Walsh
+Feb 17,home,St. Petersburg,W,13-12,13,12,1,win,20240217_cq3u,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Florida SouthWestern State,floridasouthwesternstatecollege,alexwalshhnzs,Alex Walsh
+Feb 20,home,Palm Beach State,W,15-2,15,2,13,win,20240220_zc2k,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Florida SouthWestern State,floridasouthwesternstatecollege,alexwalshhnzs,Alex Walsh
+Feb 22,home,Indian River State,W,13-12,13,12,1,win,20240222_f2ho,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Florida SouthWestern State,floridasouthwesternstatecollege,alexwalshhnzs,Alex Walsh
+Feb 24,home,Indian River State,L,3-2,3,2,1,win,20240224_6hbh,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Florida SouthWestern State,floridasouthwesternstatecollege,alexwalshhnzs,Alex Walsh
+Feb 24,home,Indian River State,W,6-3,6,3,3,win,20240224_tlme,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Florida SouthWestern State,floridasouthwesternstatecollege,alexwalshhnzs,Alex Walsh
+Feb 27,home,St. Petersburg,W,12-2,12,2,10,win,20240227_z79o,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Florida SouthWestern State,floridasouthwesternstatecollege,alexwalshhnzs,Alex Walsh
+Feb 29,home,Hillsborough,W,7-5,7,5,2,win,20240229_xx4s,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Florida SouthWestern State,floridasouthwesternstatecollege,alexwalshhnzs,Alex Walsh
+Mar 2,home,Hillsborough,W,11-1,11,1,10,win,20240302_evu3,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Florida SouthWestern State,floridasouthwesternstatecollege,alexwalshhnzs,Alex Walsh
+Mar 2,home,Hillsborough,W,10-6,10,6,4,win,20240302_ktkf,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Florida SouthWestern State,floridasouthwesternstatecollege,alexwalshhnzs,Alex Walsh
+Mar 7,home,State College of Florida,L,11-3,11,3,8,win,20240307_6xnw,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Florida SouthWestern State,floridasouthwesternstatecollege,alexwalshhnzs,Alex Walsh
+Mar 9,home,State College of Florida,W,11-5,11,5,6,win,20240309_moh7,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Florida SouthWestern State,floridasouthwesternstatecollege,alexwalshhnzs,Alex Walsh
+Mar 9,home,State College of Florida,L,13-7,13,7,6,win,20240309_lqd0,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Florida SouthWestern State,floridasouthwesternstatecollege,alexwalshhnzs,Alex Walsh
+Mar 12,home,Indian River State,L,15-6,15,6,9,win,20240312_htor,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Florida SouthWestern State,floridasouthwesternstatecollege,alexwalshhnzs,Alex Walsh
+Mar 14,home,Seminole State (FL),W,8-5,8,5,3,win,20240314_m249,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Florida SouthWestern State,floridasouthwesternstatecollege,alexwalshhnzs,Alex Walsh
+Mar 16,home,Seminole State (FL),W,7-0,7,0,7,win,20240316_u1od,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Florida SouthWestern State,floridasouthwesternstatecollege,alexwalshhnzs,Alex Walsh
+Mar 16,home,Seminole State (FL),W,12-9,12,9,3,win,20240316_mp79,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Florida SouthWestern State,floridasouthwesternstatecollege,alexwalshhnzs,Alex Walsh
+Mar 19,home,State College of Florida,L,7-2,7,2,5,win,20240319_axd5,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Florida SouthWestern State,floridasouthwesternstatecollege,alexwalshhnzs,Alex Walsh
+Mar 21,home,Eastern Florida State,L,5-4,5,4,1,win,20240321_obyx,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Florida SouthWestern State,floridasouthwesternstatecollege,alexwalshhnzs,Alex Walsh
+Mar 23,home,Eastern Florida State,L,9-1,9,1,8,win,20240323_7m5k,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Florida SouthWestern State,floridasouthwesternstatecollege,alexwalshhnzs,Alex Walsh
+Mar 23,home,Eastern Florida State,W,15-6,15,6,9,win,20240323_vufm,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Florida SouthWestern State,floridasouthwesternstatecollege,alexwalshhnzs,Alex Walsh
+Mar 26,home,Indian River State,L,16-12,16,12,4,win,20240326_k2wx,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Florida SouthWestern State,floridasouthwesternstatecollege,alexwalshhnzs,Alex Walsh
+Mar 28,home,Daytona State,W,9-3,9,3,6,win,20240328_38zu,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Florida SouthWestern State,floridasouthwesternstatecollege,alexwalshhnzs,Alex Walsh
+Mar 30,home,Daytona State,W,4-2,4,2,2,win,20240330_unnd,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Florida SouthWestern State,floridasouthwesternstatecollege,alexwalshhnzs,Alex Walsh
+Mar 30,home,Daytona State,W,10-9,10,9,1,win,20240330_f0gi,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Florida SouthWestern State,floridasouthwesternstatecollege,alexwalshhnzs,Alex Walsh
+Apr 2,home,St. Petersburg,W,19-7,19,7,12,win,20240402_s8md,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Florida SouthWestern State,floridasouthwesternstatecollege,alexwalshhnzs,Alex Walsh
+Apr 4,home,Santa Fe,W,16-10,16,10,6,win,20240404_hsxu,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Florida SouthWestern State,floridasouthwesternstatecollege,alexwalshhnzs,Alex Walsh
+Apr 6,home,Santa Fe,L,5-4,5,4,1,win,20240406_20m6,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Florida SouthWestern State,floridasouthwesternstatecollege,alexwalshhnzs,Alex Walsh
+Apr 6,home,Santa Fe,W,10-0,10,0,10,win,20240406_rpun,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Florida SouthWestern State,floridasouthwesternstatecollege,alexwalshhnzs,Alex Walsh

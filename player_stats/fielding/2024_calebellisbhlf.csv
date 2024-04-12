@@ -1,4 +1,21 @@
 date,location,opponent,result,score,team_score,opp_score,game_score_diff,game_win_loss,game_id,TC,PO,A,E,FPCT,DP,SBA,RCS,RCS_PCT,PB,CI,season,njcaa_season,njcaa_division,team,team_id,player_id,player_name
-Feb 3,home,Georgia Highlands,L,7-3,7,3,4,win,20240203_205d,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Central Alabama,centralalabamacommunitycollege,calebellisbhlf,Caleb Ellis
-Feb 10,home,Chipola,L,15-1,15,1,14,win,20240210_t6nq,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Central Alabama,centralalabamacommunitycollege,calebellisbhlf,Caleb Ellis
-Feb 18,home,Southern Union State,L,12-5,12,5,7,win,20240218_v9yv,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Central Alabama,centralalabamacommunitycollege,calebellisbhlf,Caleb Ellis
+Feb 2,home,Georgia Highlands,L,6-5,6,5,1,win,20240202_kx0t,0,0,0,0,1.0,3,1,1,9.00,3.00,,2024,2023-24,div2,Central Alabama,centralalabamacommunitycollege,calebellisbhlf,Caleb Ellis
+Feb 6,home,Southern Union State,L,9-1,9,1,8,win,20240206_6w0p,0,0,0,0,1.0,,,,0.00,1.00,1,2024,2023-24,div2,Central Alabama,centralalabamacommunitycollege,calebellisbhlf,Caleb Ellis
+Feb 10,home,Gulf Coast State,L,4-3,4,3,1,win,20240210_r48k,0,0,0,0,2.0,3,2,2,9.00,1.50,,2024,2023-24,div2,Central Alabama,centralalabamacommunitycollege,calebellisbhlf,Caleb Ellis
+Feb 15,home,John A. Logan,W,8-4,8,4,4,win,20240215_l7is,0,0,0,0,1.0,,,,0.00,2.00,2,2024,2023-24,div2,Central Alabama,centralalabamacommunitycollege,calebellisbhlf,Caleb Ellis
+Feb 18,home,Southern Union State,L,12-5,12,5,7,win,20240218_v9yv,0,0,0,0,1.0,,,,0.00,1.00,1,2024,2023-24,div2,Central Alabama,centralalabamacommunitycollege,calebellisbhlf,Caleb Ellis
+Feb 24,home,Marion Military,L,6-4,6,4,2,win,20240224_64i2,0,0,0,0,2.0,1,1,,0.00,1.00,1,2024,2023-24,div2,Central Alabama,centralalabamacommunitycollege,calebellisbhlf,Caleb Ellis
+Feb 29,home,Bishop State,W,8-7,8,7,1,win,20240229_rj43,0,0,0,0,1.1,1,,,0.00,.75,,2024,2023-24,div2,Central Alabama,centralalabamacommunitycollege,calebellisbhlf,Caleb Ellis
+Mar 3,home,Bishop State,L,8-3,8,3,5,win,20240303_6ter,0,0,0,0,2.0,6,5,4,18.00,4.00,2,2024,2023-24,div2,Central Alabama,centralalabamacommunitycollege,calebellisbhlf,Caleb Ellis
+Mar 7,home,Bevill State,W,8-1,8,1,7,win,20240307_wtu7,0,0,0,0,1.0,,,,0.00,,,2024,2023-24,div2,Central Alabama,centralalabamacommunitycollege,calebellisbhlf,Caleb Ellis
+Mar 7,home,Bevill State,W,10-6,10,6,4,win,20240307_4xxc,0,0,0,0,1.0,,,,0.00,,,2024,2023-24,div2,Central Alabama,centralalabamacommunitycollege,calebellisbhlf,Caleb Ellis
+Mar 10,home,Bevill State,W,11-4,11,4,7,win,20240310_k9hf,0,0,0,0,1.0,1,1,,0.00,2.00,1,2024,2023-24,div2,Central Alabama,centralalabamacommunitycollege,calebellisbhlf,Caleb Ellis
+Mar 14,home,Enterprise State,W,10-8,10,8,2,win,20240314_gev9,0,0,0,0,1.0,1,,,0.00,1.00,,2024,2023-24,div2,Central Alabama,centralalabamacommunitycollege,calebellisbhlf,Caleb Ellis
+Mar 14,home,Enterprise State,W,4-3,4,3,1,win,20240314_gjbu,0,1,0,0,1.0,1,,,0.00,1.00,,2024,2023-24,div2,Central Alabama,centralalabamacommunitycollege,calebellisbhlf,Caleb Ellis
+Mar 16,home,Enterprise State,W,6-5,6,5,1,win,20240316_6qji,0,0,0,0,1.0,1,1,,0.00,2.00,1,2024,2023-24,div2,Central Alabama,centralalabamacommunitycollege,calebellisbhlf,Caleb Ellis
+Mar 16,home,Enterprise State,W,8-5,8,5,3,win,20240316_baoy,0,0,0,1,1.0,1,,,0.00,1.00,,2024,2023-24,div2,Central Alabama,centralalabamacommunitycollege,calebellisbhlf,Caleb Ellis
+Mar 19,home,Chattahoochee Valley,W,3-2,3,2,1,win,20240319_q7g3,0,0,0,0,2.0,,,,0.00,,,2024,2023-24,div2,Central Alabama,centralalabamacommunitycollege,calebellisbhlf,Caleb Ellis
+Mar 23,home,LSU Eunice,W,5-4,5,4,1,win,20240323_wmxi,0,1,0,0,2.0,,,,0.00,.50,1,2024,2023-24,div2,Central Alabama,centralalabamacommunitycollege,calebellisbhlf,Caleb Ellis
+Mar 30,home,Lurleen B. Wallace,W,4-3,4,3,1,win,20240330_1p11,0,0,0,0,1.0,4,2,2,18.00,4.00,,2024,2023-24,div2,Central Alabama,centralalabamacommunitycollege,calebellisbhlf,Caleb Ellis
+Mar 30,home,Lurleen B. Wallace,W,13-5,13,5,8,win,20240330_1uxr,0,0,0,0,1.0,1,,,0.00,1.00,,2024,2023-24,div2,Central Alabama,centralalabamacommunitycollege,calebellisbhlf,Caleb Ellis
+Apr 6,home,Wallace-Dothan,L,6-3,6,3,3,win,20240406_hmb3,0,0,0,0,1.0,,,,0.00,,,2024,2023-24,div2,Central Alabama,centralalabamacommunitycollege,calebellisbhlf,Caleb Ellis
