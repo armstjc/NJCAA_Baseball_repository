@@ -1,17 +1,12 @@
 date,location,opponent,result,score,team_score,opp_score,game_score_diff,game_win_loss,game_id,TC,PO,A,E,FPCT,DP,SBA,RCS,RCS_PCT,PB,CI,season,njcaa_season,njcaa_division,team,team_id,player_id,player_name
-Jan 26,home,Arizona Western,L,11-9,11,9,2,win,20240126_8rgj,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,San Jacinto,sanjacintocollegenorth,byronrobinson9xe8,Byron Robinson
-Jan 27,home,Central Arizona,L,8-7,8,7,1,win,20240127_kbb4,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,San Jacinto,sanjacintocollegenorth,byronrobinson9xe8,Byron Robinson
-Jan 28,home,Southern Nevada,W,10-8,10,8,2,win,20240128_9u9e,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,San Jacinto,sanjacintocollegenorth,byronrobinson9xe8,Byron Robinson
-Feb 2,home,Temple,L,8-3,8,3,5,win,20240202_asfm,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,San Jacinto,sanjacintocollegenorth,byronrobinson9xe8,Byron Robinson
-Feb 8,home,Seminole State (OK),L,9-6,9,6,3,win,20240208_4n6h,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,San Jacinto,sanjacintocollegenorth,byronrobinson9xe8,Byron Robinson
-Feb 8,home,Navarro,W,3-2,3,2,1,win,20240208_tpqu,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,San Jacinto,sanjacintocollegenorth,byronrobinson9xe8,Byron Robinson
-Feb 17,home,Monroe College,W,8-4,8,4,4,win,20240217_8ksa,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,San Jacinto,sanjacintocollegenorth,byronrobinson9xe8,Byron Robinson
-Feb 18,home,Wabash Valley,W,17-10,17,10,7,win,20240218_rfal,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,San Jacinto,sanjacintocollegenorth,byronrobinson9xe8,Byron Robinson
-Feb 23,home,Motlow State,L,5-4,5,4,1,win,20240223_g3j5,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,San Jacinto,sanjacintocollegenorth,byronrobinson9xe8,Byron Robinson
-Feb 24,home,Northwest Florida State,L,7-6,7,6,1,win,20240224_0ua5,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,San Jacinto,sanjacintocollegenorth,byronrobinson9xe8,Byron Robinson
-Feb 24,home,Motlow State,W,14-4,14,4,10,win,20240224_hp5p,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,San Jacinto,sanjacintocollegenorth,byronrobinson9xe8,Byron Robinson
-Feb 29,home,Wharton County,W,5-3,5,3,2,win,20240229_1vbp,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,San Jacinto,sanjacintocollegenorth,byronrobinson9xe8,Byron Robinson
-Mar 5,home,Blinn,W,6-5,6,5,1,win,20240305_ie7t,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,San Jacinto,sanjacintocollegenorth,byronrobinson9xe8,Byron Robinson
-Mar 13,home,South Suburban,W,11-10,11,10,1,win,20240313_cz88,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,San Jacinto,sanjacintocollegenorth,byronrobinson9xe8,Byron Robinson
-Mar 14,home,Alvin,W,6-5,6,5,1,win,20240314_lu89,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,San Jacinto,sanjacintocollegenorth,byronrobinson9xe8,Byron Robinson
-Mar 29,home,Coastal Bend,W,6-2,6,2,4,win,20240329_4kd9,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,San Jacinto,sanjacintocollegenorth,byronrobinson9xe8,Byron Robinson
+Jan 27,home,Central Arizona,W,8-6,8,6,2,win,20240127_k377,0,0,0,0,1.0,,,,0.00,1.00,1,2024,2023-24,div1,San Jacinto,sanjacintocollegenorth,byronrobinson9xe8,Byron Robinson
+Jan 28,home,Southern Nevada,W,10-8,10,8,2,win,20240128_9u9e,0,0,0,1,0.2,,,,0.00,,,2024,2023-24,div1,San Jacinto,sanjacintocollegenorth,byronrobinson9xe8,Byron Robinson
+Feb 8,home,Seminole State (OK),L,9-6,9,6,3,win,20240208_4n6h,0,0,1,0,1.0,4,4,3,27.00,6.00,2,2024,2023-24,div1,San Jacinto,sanjacintocollegenorth,byronrobinson9xe8,Byron Robinson
+Feb 18,home,Wabash Valley,W,17-10,17,10,7,win,20240218_rfal,0,0,0,0,1.0,,,,0.00,1.00,1,2024,2023-24,div1,San Jacinto,sanjacintocollegenorth,byronrobinson9xe8,Byron Robinson
+Feb 24,home,Northwest Florida State,L,7-6,7,6,1,win,20240224_0ua5,0,0,0,0,0.2,,,,0.00,,,2024,2023-24,div1,San Jacinto,sanjacintocollegenorth,byronrobinson9xe8,Byron Robinson
+Feb 29,home,Wharton County,W,5-3,5,3,2,win,20240229_1vbp,0,0,0,1,0.1,,,,0.00,,,2024,2023-24,div1,San Jacinto,sanjacintocollegenorth,byronrobinson9xe8,Byron Robinson
+Mar 9,home,Blinn,W,4-2,4,2,2,win,20240309_xcps,0,0,0,1,1.0,,,,0.00,1.00,1,2024,2023-24,div1,San Jacinto,sanjacintocollegenorth,byronrobinson9xe8,Byron Robinson
+Mar 13,home,South Suburban,W,11-10,11,10,1,win,20240313_cz88,0,0,0,0,0.0,1,1,1,INF,,,2024,2023-24,div1,San Jacinto,sanjacintocollegenorth,byronrobinson9xe8,Byron Robinson
+Mar 14,home,Alvin,W,5-3,5,3,2,win,20240314_sy5t,0,0,0,1,1.0,1,0,0,0.00,1.00,0,2024,2023-24,div1,San Jacinto,sanjacintocollegenorth,byronrobinson9xe8,Byron Robinson
+Mar 24,home,Galveston,W,8-6,8,6,2,win,20240324_u0ml,0,0,0,1,1.0,1,0,0,0.00,1.00,0,2024,2023-24,div1,San Jacinto,sanjacintocollegenorth,byronrobinson9xe8,Byron Robinson
+Mar 27,home,Coastal Bend,W,10-9,10,9,1,win,20240327_jy93,0,0,0,1,1.0,1,,,0.00,2.00,1,2024,2023-24,div1,San Jacinto,sanjacintocollegenorth,byronrobinson9xe8,Byron Robinson

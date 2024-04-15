@@ -1,19 +1,11 @@
 date,location,opponent,result,score,team_score,opp_score,game_score_diff,game_win_loss,game_id,TC,PO,A,E,FPCT,DP,SBA,RCS,RCS_PCT,PB,CI,season,njcaa_season,njcaa_division,team,team_id,player_id,player_name
-Feb 13,home,Columbia State,L,11-10,11,10,1,win,20240213_ht5a,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Olney Central,olneycentralcollege,garrettniebrugge2996,Garrett Niebrugge
-Feb 16,home,Itawamba,L,8-1,8,1,7,win,20240216_mlgd,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Olney Central,olneycentralcollege,garrettniebrugge2996,Garrett Niebrugge
-Feb 17,home,UA Rich Mountain,L,5-3,5,3,2,win,20240217_c07g,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Olney Central,olneycentralcollege,garrettniebrugge2996,Garrett Niebrugge
-Feb 17,home,Arkansas State University - Three Rivers,W,8-1,8,1,7,win,20240217_ucbo,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Olney Central,olneycentralcollege,garrettniebrugge2996,Garrett Niebrugge
-Feb 18,home,Iowa Central,L,11-3,11,3,8,win,20240218_wz0p,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Olney Central,olneycentralcollege,garrettniebrugge2996,Garrett Niebrugge
-Feb 23,home,Joliet,W,7-6,7,6,1,win,20240223_4f21,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Olney Central,olneycentralcollege,garrettniebrugge2996,Garrett Niebrugge
-Mar 3,home,Olive-Harvey,W,2-1,2,1,1,win,20240303_8dxn,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Olney Central,olneycentralcollege,garrettniebrugge2996,Garrett Niebrugge
-Mar 12,home,Vincennes,W,15-5,15,5,10,win,20240312_khdo,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Olney Central,olneycentralcollege,garrettniebrugge2996,Garrett Niebrugge
-Mar 14,home,Shawnee,W,10-6,10,6,4,win,20240314_urhl,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Olney Central,olneycentralcollege,garrettniebrugge2996,Garrett Niebrugge
-Mar 21,home,Frontier,L,9-1,9,1,8,win,20240321_2obh,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Olney Central,olneycentralcollege,garrettniebrugge2996,Garrett Niebrugge
-Mar 23,home,Frontier,L,5-4,5,4,1,win,20240323_guri,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Olney Central,olneycentralcollege,garrettniebrugge2996,Garrett Niebrugge
-Mar 28,home,Wabash Valley,L,12-9,12,9,3,win,20240328_iue9,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Olney Central,olneycentralcollege,garrettniebrugge2996,Garrett Niebrugge
-Mar 29,home,Wabash Valley,L,27-4,27,4,23,win,20240329_74ft,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Olney Central,olneycentralcollege,garrettniebrugge2996,Garrett Niebrugge
-Mar 29,home,Wabash Valley,L,8-3,8,3,5,win,20240329_l1zo,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Olney Central,olneycentralcollege,garrettniebrugge2996,Garrett Niebrugge
-Apr 1,home,Oakland City University,W,9-2,9,2,7,win,20240401_u0w6,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Olney Central,olneycentralcollege,garrettniebrugge2996,Garrett Niebrugge
-Apr 1  #,home,Oakland City University,L,16-6,16,6,10,win,20240401_u8ei,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Olney Central,olneycentralcollege,garrettniebrugge2996,Garrett Niebrugge
-Apr 4,home,Rend Lake,L,13-3,13,3,10,win,20240404_bq4s,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Olney Central,olneycentralcollege,garrettniebrugge2996,Garrett Niebrugge
+Feb 13,home,Columbia State,L,11-10,11,10,1,win,20240213_ht5a,0,0,0,0,0.1,,,,0.00,3.00,1,2024,2023-24,div1,Olney Central,olneycentralcollege,garrettniebrugge2996,Garrett Niebrugge
+Feb 17,home,UA Rich Mountain,L,5-3,5,3,2,win,20240217_c07g,0,0,0,0,1.1,2,2,2,13.50,1.50,,2024,2023-24,div1,Olney Central,olneycentralcollege,garrettniebrugge2996,Garrett Niebrugge
+Feb 25,home,Joliet,L,15-8,15,8,7,win,20240225_m5po,0,0,0,0,0.0,1,3,3,INF,,2,2024,2023-24,div1,Olney Central,olneycentralcollege,garrettniebrugge2996,Garrett Niebrugge
+Mar 7,home,Lake Land,W,10-6,10,6,4,win,20240307_oq0j,0,0,0,0,0.2,,,,0.00,,,2024,2023-24,div1,Olney Central,olneycentralcollege,garrettniebrugge2996,Garrett Niebrugge
+Mar 12,home,Vincennes,W,15-5,15,5,10,win,20240312_khdo,0,0,0,0,2.0,,,,0.00,,,2024,2023-24,div1,Olney Central,olneycentralcollege,garrettniebrugge2996,Garrett Niebrugge
+Mar 16,home,Shawnee,W,10-3,10,3,7,win,20240316_l2mo,0,0,0,0,0.1,,,,0.00,,,2024,2023-24,div1,Olney Central,olneycentralcollege,garrettniebrugge2996,Garrett Niebrugge
+Mar 21,home,Frontier,L,9-1,9,1,8,win,20240321_2obh,0,0,0,0,1.0,,,,0.00,,,2024,2023-24,div1,Olney Central,olneycentralcollege,garrettniebrugge2996,Garrett Niebrugge
+Mar 23,home,Frontier,L,9-7,9,7,2,win,20240323_b4wo,0,0,0,0,1.0,,,,0.00,1.00,1,2024,2023-24,div1,Olney Central,olneycentralcollege,garrettniebrugge2996,Garrett Niebrugge
+Apr 1,home,Oakland City University,W,9-2,9,2,7,win,20240401_u0w6,0,0,0,0,3.0,1,,,0.00,1.33,3,2024,2023-24,div1,Olney Central,olneycentralcollege,garrettniebrugge2996,Garrett Niebrugge
 Apr 6,home,Rend Lake,L,9-4,9,4,5,win,20240406_6pre,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Olney Central,olneycentralcollege,garrettniebrugge2996,Garrett Niebrugge

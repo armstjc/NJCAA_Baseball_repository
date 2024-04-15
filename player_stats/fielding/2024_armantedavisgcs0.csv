@@ -1,12 +1,19 @@
 date,location,opponent,result,score,team_score,opp_score,game_score_diff,game_win_loss,game_id,TC,PO,A,E,FPCT,DP,SBA,RCS,RCS_PCT,PB,CI,season,njcaa_season,njcaa_division,team,team_id,player_id,player_name
-Jan 28,home,Marion Military,W,9-0,9,0,9,win,20240128_qc65,0,0,0,0,2.0,1,,,0.00,.50,,2024,2023-24,div1,Lawson State,lawsonstatecommunitycollege,armantedavisgcs0,Armante Davis
-Feb 9,home,Wallace-Selma,L,5-4,5,4,1,win,20240209_eeo6,0,0,1,0,4.1,4,5,2,4.15,1.62,3,2024,2023-24,div1,Lawson State,lawsonstatecommunitycollege,armantedavisgcs0,Armante Davis
-Feb 14,home,Enterprise State,W,14-4,14,4,10,win,20240214_xo9q,0,0,0,0,0.1,,,,0.00,3.00,1,2024,2023-24,div1,Lawson State,lawsonstatecommunitycollege,armantedavisgcs0,Armante Davis
-Feb 20,home,Bevill State,L,7-3,7,3,4,win,20240220_g837,0,0,0,0,1.0,,,,0.00,2.00,2,2024,2023-24,div1,Lawson State,lawsonstatecommunitycollege,armantedavisgcs0,Armante Davis
-Feb 26,home,Wallace-Selma,L,10-3,10,3,7,win,20240226_86ho,0,0,0,0,1.0,2,2,2,18.00,3.00,1,2024,2023-24,div1,Lawson State,lawsonstatecommunitycollege,armantedavisgcs0,Armante Davis
-Mar 7,home,Northwest-Shoals Community College,L,8-4,8,4,4,win,20240307_meet,0,0,0,0,3.2,1,1,,0.00,1.36,4,2024,2023-24,div1,Lawson State,lawsonstatecommunitycollege,armantedavisgcs0,Armante Davis
-Mar 16,home,Southern Union State,L,8-2,8,2,6,win,20240316_86el,0,0,1,0,6.0,6,8,4,6.00,1.50,3,2024,2023-24,div1,Lawson State,lawsonstatecommunitycollege,armantedavisgcs0,Armante Davis
-Mar 23,home,Snead State,L,6-5,6,5,1,win,20240323_zdls,0,0,0,0,7.1,5,4,2,2.45,1.23,4,2024,2023-24,div1,Lawson State,lawsonstatecommunitycollege,armantedavisgcs0,Armante Davis
-Mar 28,home,Chattahoochee Valley,L,11-3,11,3,8,win,20240328_hz95,0,0,0,0,0.2,,1,,0.00,1.50,1,2024,2023-24,div1,Lawson State,lawsonstatecommunitycollege,armantedavisgcs0,Armante Davis
-Mar 30,home,Chattahoochee Valley,L,12-5,12,5,7,win,20240330_pj6q,0,0,0,0,4.0,7,7,6,13.50,2.25,2,2024,2023-24,div1,Lawson State,lawsonstatecommunitycollege,armantedavisgcs0,Armante Davis
-Apr 6,home,Coastal Alabama - South,L,12-7,12,7,5,win,20240406_5zlj,0,0,1,0,5.1,6,9,7,11.81,1.88,4,2024,2023-24,div1,Lawson State,lawsonstatecommunitycollege,armantedavisgcs0,Armante Davis
+Jan 28,home,Marion Military,W,9-0,9,0,9,win,20240128_qc65,0,0,0,0,1.0,1,,,0.00,1.00,,2024,2023-24,div1,Lawson State,lawsonstatecommunitycollege,armantedavisgcs0,Armante Davis
+Jan 30,home,Marion Military,W,10-5,10,5,5,win,20240130_yybg,0,0,0,0,2.0,1,,,0.00,.50,,2024,2023-24,div1,Lawson State,lawsonstatecommunitycollege,armantedavisgcs0,Armante Davis
+Feb 2,home,Bishop State,L,13-8,13,8,5,win,20240202_jogj,0,0,1,0,3.2,5,4,3,7.36,1.36,,2024,2023-24,div1,Lawson State,lawsonstatecommunitycollege,armantedavisgcs0,Armante Davis
+Feb 8,home,Motlow State,W,5-4,5,4,1,win,20240208_5v72,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Lawson State,lawsonstatecommunitycollege,armantedavisgcs0,Armante Davis
+Feb 8,home,Motlow State,L,10-4,10,4,6,win,20240208_tdat,0,0,0,0,1.0,2,3,3,27.00,4.00,2,2024,2023-24,div1,Lawson State,lawsonstatecommunitycollege,armantedavisgcs0,Armante Davis
+Feb 9,home,Wallace-Selma,L,5-4,5,4,1,win,20240209_eeo6,0,0,0,0,0.2,,,,0.00,,,2024,2023-24,div1,Lawson State,lawsonstatecommunitycollege,armantedavisgcs0,Armante Davis
+Feb 14,home,Enterprise State,W,9-7,9,7,2,win,20240214_673p,0,1,0,0,4.0,2,1,1,2.25,.75,1,2024,2023-24,div1,Lawson State,lawsonstatecommunitycollege,armantedavisgcs0,Armante Davis
+Feb 20,home,Bevill State,L,7-3,7,3,4,win,20240220_g837,0,0,0,0,1.0,1,,,0.00,2.00,1,2024,2023-24,div1,Lawson State,lawsonstatecommunitycollege,armantedavisgcs0,Armante Davis
+Feb 26,home,Wallace-Selma,L,10-3,10,3,7,win,20240226_86ho,0,0,0,0,3.0,4,4,1,3.00,1.33,,2024,2023-24,div1,Lawson State,lawsonstatecommunitycollege,armantedavisgcs0,Armante Davis
+Mar 7,home,Northwest-Shoals Community College,L,8-4,8,4,4,win,20240307_meet,0,0,0,0,1.2,1,,,0.00,1.20,1,2024,2023-24,div1,Lawson State,lawsonstatecommunitycollege,armantedavisgcs0,Armante Davis
+Mar 10,home,Northwest-Shoals Community College,L,7-3,7,3,4,win,20240310_xnmi,0,0,0,0,5.2,6,3,,0.00,1.06,,2024,2023-24,div1,Lawson State,lawsonstatecommunitycollege,armantedavisgcs0,Armante Davis
+Mar 14,home,Southern Union State,L,9-8,9,8,1,win,20240314_70a0,0,0,0,0,3.2,3,1,1,2.45,1.09,1,2024,2023-24,div1,Lawson State,lawsonstatecommunitycollege,armantedavisgcs0,Armante Davis
+Mar 16,home,Southern Union State,L,7-0,7,0,7,win,20240316_cjzk,0,0,0,0,1.0,3,4,3,27.00,5.00,2,2024,2023-24,div1,Lawson State,lawsonstatecommunitycollege,armantedavisgcs0,Armante Davis
+Mar 21,home,Snead State,L,9-5,9,5,4,win,20240321_f5gl,0,0,0,0,0.0,2,4,2,INF,,1,2024,2023-24,div1,Lawson State,lawsonstatecommunitycollege,armantedavisgcs0,Armante Davis
+Mar 23,home,Snead State,L,6-5,6,5,1,win,20240323_zdls,0,0,0,0,2.2,2,2,1,3.38,1.88,3,2024,2023-24,div1,Lawson State,lawsonstatecommunitycollege,armantedavisgcs0,Armante Davis
+Mar 28,home,Chattahoochee Valley,L,11-3,11,3,8,win,20240328_hz95,0,0,0,0,2.1,2,5,3,11.57,2.57,4,2024,2023-24,div1,Lawson State,lawsonstatecommunitycollege,armantedavisgcs0,Armante Davis
+Mar 30,home,Chattahoochee Valley,L,12-5,12,5,7,win,20240330_pj6q,0,0,0,0,1.1,2,3,3,20.25,3.00,2,2024,2023-24,div1,Lawson State,lawsonstatecommunitycollege,armantedavisgcs0,Armante Davis
+Apr 4,home,Coastal Alabama - South,L,13-5,13,5,8,win,20240404_n8sz,0,0,1,0,6.0,10,6,5,7.50,2.50,5,2024,2023-24,div1,Lawson State,lawsonstatecommunitycollege,armantedavisgcs0,Armante Davis

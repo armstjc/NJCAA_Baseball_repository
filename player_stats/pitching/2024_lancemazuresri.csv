@@ -1,13 +1,13 @@
 date,location,opponent,result,score,team_score,opp_score,game_score_diff,game_win_loss,game_id,GS,W,L,SV,IP,H,R,ER,ERA,BB,K,HR,season,njcaa_season,njcaa_division,team,team_id,player_id,player_name
-Apr 10,home,Louisburg,L,17-4,17,4,13,win,20240410_1sqn,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div2,Wake Tech,waketechnicalcommunitycollege,lancemazuresri,Lance Mazur
-Apr 7,home,Guilford Tech,W,20-11,20,11,9,win,20240407_2wz8,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div2,Wake Tech,waketechnicalcommunitycollege,lancemazuresri,Lance Mazur
-Apr 6,home,Guilford Tech,W,17-6,17,6,11,win,20240406_xh11,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div2,Wake Tech,waketechnicalcommunitycollege,lancemazuresri,Lance Mazur
-Apr 6,home,Guilford Tech,W,15-9,15,9,6,win,20240406_5yy8,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div2,Wake Tech,waketechnicalcommunitycollege,lancemazuresri,Lance Mazur
-Apr 2,home,Louisburg,W,19-11,19,11,8,win,20240402_xpfi,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div2,Wake Tech,waketechnicalcommunitycollege,lancemazuresri,Lance Mazur
-Mar 30,home,Catawba Valley,W,13-2,13,2,11,win,20240330_buj2,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div2,Wake Tech,waketechnicalcommunitycollege,lancemazuresri,Lance Mazur
-Mar 23,home,Cleveland,L,10-9,10,9,1,win,20240323_cej1,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div2,Wake Tech,waketechnicalcommunitycollege,lancemazuresri,Lance Mazur
-Mar 19,home,Camp,W,9-4,9,4,5,win,20240319_qxk8,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div2,Wake Tech,waketechnicalcommunitycollege,lancemazuresri,Lance Mazur
-Mar 17,home,New River,W,16-1,16,1,15,win,20240317_sks5,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div2,Wake Tech,waketechnicalcommunitycollege,lancemazuresri,Lance Mazur
-Mar 16,home,New River,W,15-3,15,3,12,win,20240316_vgvf,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div2,Wake Tech,waketechnicalcommunitycollege,lancemazuresri,Lance Mazur
-Mar 13,home,Pitt,L,16-5,16,5,11,win,20240313_d3z2,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div2,Wake Tech,waketechnicalcommunitycollege,lancemazuresri,Lance Mazur
-Jan 31,home,Fayetteville Tech,W,9-0,9,0,9,win,20240131_k056,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div2,Wake Tech,waketechnicalcommunitycollege,lancemazuresri,Lance Mazur
+Apr 10,home,Louisburg,L,17-4,17,4,13,win,20240410_1sqn,1,0,0,0,3.0,5,3,3,9.00,2.33,2,1,2024,2023-24,div2,Wake Tech,waketechnicalcommunitycollege,lancemazuresri,Lance Mazur
+Apr 7,home,Guilford Tech,W,20-11,20,11,9,win,20240407_2wz8,1,1,0,0,2.0,4,4,3,13.50,4.00,4,1,2024,2023-24,div2,Wake Tech,waketechnicalcommunitycollege,lancemazuresri,Lance Mazur
+Apr 2,home,Louisburg,W,19-11,19,11,8,win,20240402_xpfi,1,0,0,0,3.1,2,6,6,16.20,2.40,6,3,2024,2023-24,div2,Wake Tech,waketechnicalcommunitycollege,lancemazuresri,Lance Mazur
+Mar 26,home,Louisburg,W,7-3,7,3,4,win,20240326_fgjc,1,1,0,0,4.1,2,2,2,4.15,1.62,5,1,2024,2023-24,div2,Wake Tech,waketechnicalcommunitycollege,lancemazuresri,Lance Mazur
+Mar 19,home,Camp,W,9-4,9,4,5,win,20240319_qxk8,0,0,0,0,2.1,2,1,0,0.00,2.57,4,5,2024,2023-24,div2,Wake Tech,waketechnicalcommunitycollege,lancemazuresri,Lance Mazur
+Mar 13,home,Pitt,L,16-5,16,5,11,win,20240313_d3z2,0,0,0,0,0.1,1,0,0,0.00,6.00,1,1,2024,2023-24,div2,Wake Tech,waketechnicalcommunitycollege,lancemazuresri,Lance Mazur
+Mar 10,home,Patrick & Henry,L,15-9,15,9,6,win,20240310_e08o,1,0,0,0,2.1,9,8,4,15.43,4.71,2,3,2024,2023-24,div2,Wake Tech,waketechnicalcommunitycollege,lancemazuresri,Lance Mazur
+Feb 24,home,Guilford Tech,W,15-9,15,9,6,win,20240224_tps5,0,0,0,0,2.0,4,4,4,18.00,3.50,3,1,2024,2023-24,div2,Wake Tech,waketechnicalcommunitycollege,lancemazuresri,Lance Mazur
+Feb 10,home,Caldwell Tech,L,10-2,10,2,8,win,20240210_f63v,0,0,0,0,1.1,3,2,2,13.50,3.75,2,1,2024,2023-24,div2,Wake Tech,waketechnicalcommunitycollege,lancemazuresri,Lance Mazur
+Feb 7,home,Camp,L,12-5,12,5,7,win,20240207_0tqd,0,0,1,0,0.1,4,5,5,135.00,12.00,,,2024,2023-24,div2,Wake Tech,waketechnicalcommunitycollege,lancemazuresri,Lance Mazur
+Feb 3,home,Southeastern-Whiteville,L,9-2,9,2,7,win,20240203_ebi9,1,0,1,0,0.2,2,6,3,40.50,9.00,4,1,2024,2023-24,div2,Wake Tech,waketechnicalcommunitycollege,lancemazuresri,Lance Mazur
+Jan 31,home,Fayetteville Tech,W,9-0,9,0,9,win,20240131_k056,0,0,0,0,1.0,4,3,2,18.00,4.00,,,2024,2023-24,div2,Wake Tech,waketechnicalcommunitycollege,lancemazuresri,Lance Mazur

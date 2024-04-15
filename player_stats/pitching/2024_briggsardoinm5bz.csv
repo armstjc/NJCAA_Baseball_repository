@@ -1,19 +1,11 @@
 date,location,opponent,result,score,team_score,opp_score,game_score_diff,game_win_loss,game_id,GS,W,L,SV,IP,H,R,ER,ERA,BB,K,HR,season,njcaa_season,njcaa_division,team,team_id,player_id,player_name
-Apr 1,home,LSU-Alexandria JV,W,12-7,12,7,5,win,20240401_xk90,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div1,Baton Rouge,batonrougecommunitycollege,briggsardoinm5bz,Briggs Ardoin
-Mar 30,home,Delgado,L,9-2,9,2,7,win,20240330_wbac,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div1,Baton Rouge,batonrougecommunitycollege,briggsardoinm5bz,Briggs Ardoin
-Mar 29,home,Delgado,L,9-3,9,3,6,win,20240329_04rq,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div1,Baton Rouge,batonrougecommunitycollege,briggsardoinm5bz,Briggs Ardoin
-Mar 23,home,Hinds,W,6-2,6,2,4,win,20240323_ikgs,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div1,Baton Rouge,batonrougecommunitycollege,briggsardoinm5bz,Briggs Ardoin
-Mar 18,home,Louisiana Christian University JV,W,11-5,11,5,6,win,20240318_09qz,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div1,Baton Rouge,batonrougecommunitycollege,briggsardoinm5bz,Briggs Ardoin
-Mar 12,home,Southeastern,L,6-4,6,4,2,win,20240312_xpwi,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div1,Baton Rouge,batonrougecommunitycollege,briggsardoinm5bz,Briggs Ardoin
-Mar 7,home,South Suburban,W,6-0,6,0,6,win,20240307_urfm,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div1,Baton Rouge,batonrougecommunitycollege,briggsardoinm5bz,Briggs Ardoin
-Mar 3,home,Copiah-Lincoln,L,7-6,7,6,1,win,20240303_sybq,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div1,Baton Rouge,batonrougecommunitycollege,briggsardoinm5bz,Briggs Ardoin
-Feb 29,home,Copiah-Lincoln,W,10-9,10,9,1,win,20240229_7mgo,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div1,Baton Rouge,batonrougecommunitycollege,briggsardoinm5bz,Briggs Ardoin
-Feb 29,home,Copiah-Lincoln,L,7-3,7,3,4,win,20240229_fldl,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div1,Baton Rouge,batonrougecommunitycollege,briggsardoinm5bz,Briggs Ardoin
-Feb 25,home,Jones,L,10-3,10,3,7,win,20240225_321o,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div1,Baton Rouge,batonrougecommunitycollege,briggsardoinm5bz,Briggs Ardoin
-Feb 25,home,Jones,L,15-5,15,5,10,win,20240225_7u35,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div1,Baton Rouge,batonrougecommunitycollege,briggsardoinm5bz,Briggs Ardoin
-Feb 16,home,Tyler,L,18-9,18,9,9,win,20240216_sips,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div1,Baton Rouge,batonrougecommunitycollege,briggsardoinm5bz,Briggs Ardoin
-Feb 6,home,Southwest Mississippi,L,11-9,11,9,2,win,20240206_20t9,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div1,Baton Rouge,batonrougecommunitycollege,briggsardoinm5bz,Briggs Ardoin
-Feb 2,home,Blinn,L,14-1,14,1,13,win,20240202_t0dp,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div1,Baton Rouge,batonrougecommunitycollege,briggsardoinm5bz,Briggs Ardoin
-Feb 2,home,Blinn,L,16-8,16,8,8,win,20240202_uj7r,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div1,Baton Rouge,batonrougecommunitycollege,briggsardoinm5bz,Briggs Ardoin
-Jan 30,home,Wharton County,L,22-4,22,4,18,win,20240130_2ul3,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div1,Baton Rouge,batonrougecommunitycollege,briggsardoinm5bz,Briggs Ardoin
-Jan 29,home,Mississippi Gulf Coast,L,12-4,12,4,8,win,20240129_hdnf,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div1,Baton Rouge,batonrougecommunitycollege,briggsardoinm5bz,Briggs Ardoin
+Apr 9,home,Holmes,L,7-3,7,3,4,win,20240409_hren,1,0,1,0,1.0,4,5,5,45.00,6.00,2,0,2024,2023-24,div1,Baton Rouge,batonrougecommunitycollege,briggsardoinm5bz,Briggs Ardoin
+Apr 1,home,LSU-Alexandria JV,W,12-7,12,7,5,win,20240401_xk90,1,1,0,0,3.0,3,1,1,3.00,1.33,1,2,2024,2023-24,div1,Baton Rouge,batonrougecommunitycollege,briggsardoinm5bz,Briggs Ardoin
+Mar 16,home,East Central (MS),L,13-3,13,3,10,win,20240316_q0x1,0,0,0,0,0.0,3,2,1,INF,,1,,2024,2023-24,div1,Baton Rouge,batonrougecommunitycollege,briggsardoinm5bz,Briggs Ardoin
+Mar 13,home,Southeastern,L,11-6,11,6,5,win,20240313_m9l1,0,0,0,0,1.0,,,,0.00,,,,2024,2023-24,div1,Baton Rouge,batonrougecommunitycollege,briggsardoinm5bz,Briggs Ardoin
+Mar 3,home,Copiah-Lincoln,L,7-6,7,6,1,win,20240303_sybq,0,0,1,0,0.0,3,4,3,INF,,1,,2024,2023-24,div1,Baton Rouge,batonrougecommunitycollege,briggsardoinm5bz,Briggs Ardoin
+Feb 29,home,Copiah-Lincoln,L,7-3,7,3,4,win,20240229_fldl,0,0,0,0,1.1,3,2,2,13.50,2.25,,2,2024,2023-24,div1,Baton Rouge,batonrougecommunitycollege,briggsardoinm5bz,Briggs Ardoin
+Feb 23,home,Jones,L,5-4,5,4,1,win,20240223_7yv8,0,0,1,0,0.2,1,1,0,0.00,3.00,1,1,2024,2023-24,div1,Baton Rouge,batonrougecommunitycollege,briggsardoinm5bz,Briggs Ardoin
+Feb 16,home,Tyler,L,18-9,18,9,9,win,20240216_sips,0,0,0,0,4.0,2,1,1,2.25,.75,1,5,2024,2023-24,div1,Baton Rouge,batonrougecommunitycollege,briggsardoinm5bz,Briggs Ardoin
+Feb 11,home,Pearl River,L,10-3,10,3,7,win,20240211_zfoc,0,0,0,0,1.0,2,,,0.00,3.00,1,2,2024,2023-24,div1,Baton Rouge,batonrougecommunitycollege,briggsardoinm5bz,Briggs Ardoin
+Jan 30,home,Wharton County,L,22-4,22,4,18,win,20240130_2ul3,1,0,1,0,0.2,5,5,5,67.50,9.00,1,1,2024,2023-24,div1,Baton Rouge,batonrougecommunitycollege,briggsardoinm5bz,Briggs Ardoin
