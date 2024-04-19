@@ -1,5 +1,17 @@
 date,location,opponent,result,score,team_score,opp_score,game_score_diff,game_win_loss,game_id,TC,PO,A,E,FPCT,DP,SBA,RCS,RCS_PCT,PB,CI,season,njcaa_season,njcaa_division,team,team_id,player_id,player_name
-Jan 29,home,Temple,W,18-4,18,4,14,win,20240129_q1pz,1,1,0,0,4.0,4,1,1,2.25,1.50,2,2024,2023-24,div1,Blinn,blinncollege,tavionvaughnswra6,Tavion Vaughns
-Feb 9,home,Tyler,L,2-1,2,1,1,win,20240209_tcaj,1,0,0,0,6.0,4,1,1,1.50,1.00,2,2024,2023-24,div1,Blinn,blinncollege,tavionvaughnswra6,Tavion Vaughns
-Feb 16,home,McLennan,L,5-4,5,4,1,win,20240216_0jk1,1,0,1,0,3.1,6,5,5,13.50,2.70,3,2024,2023-24,div1,Blinn,blinncollege,tavionvaughnswra6,Tavion Vaughns
-Feb 23,home,Grayson,L,11-6,11,6,5,win,20240223_agu1,1,0,1,0,3.0,5,6,5,15.00,2.00,1,2024,2023-24,div1,Blinn,blinncollege,tavionvaughnswra6,Tavion Vaughns
+Jan 29,home,Temple,L,5-3,5,3,2,win,20240129_40du,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Blinn,blinncollege,tavionvaughnswra6,Tavion Vaughns
+Feb 2,home,Baton Rouge,W,16-8,16,8,8,win,20240202_uj7r,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Blinn,blinncollege,tavionvaughnswra6,Tavion Vaughns
+Feb 2,home,Baton Rouge,W,14-1,14,1,13,win,20240202_t0dp,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Blinn,blinncollege,tavionvaughnswra6,Tavion Vaughns
+Feb 9,home,Tyler,L,2-1,2,1,1,win,20240209_tcaj,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Blinn,blinncollege,tavionvaughnswra6,Tavion Vaughns
+Feb 13,home,Weatherford,L,9-5,9,5,4,win,20240213_ko5p,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Blinn,blinncollege,tavionvaughnswra6,Tavion Vaughns
+Feb 16,home,McLennan,L,5-4,5,4,1,win,20240216_0jk1,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Blinn,blinncollege,tavionvaughnswra6,Tavion Vaughns
+Feb 18,home,McLennan,W,3-2,3,2,1,win,20240218_6uos,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Blinn,blinncollege,tavionvaughnswra6,Tavion Vaughns
+Feb 18,home,McLennan,L,6-5,6,5,1,win,20240218_af4p,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Blinn,blinncollege,tavionvaughnswra6,Tavion Vaughns
+Feb 23,home,Grayson,L,11-6,11,6,5,win,20240223_agu1,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Blinn,blinncollege,tavionvaughnswra6,Tavion Vaughns
+Feb 24,home,Grayson,W,5-4,5,4,1,win,20240224_phpa,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Blinn,blinncollege,tavionvaughnswra6,Tavion Vaughns
+Mar 2,home,Coastal Bend,W,11-3,11,3,8,win,20240302_0wml,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Blinn,blinncollege,tavionvaughnswra6,Tavion Vaughns
+Mar 5,home,San Jacinto,L,6-5,6,5,1,win,20240305_ie7t,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Blinn,blinncollege,tavionvaughnswra6,Tavion Vaughns
+Mar 7,home,San Jacinto,W,23-5,23,5,18,win,20240307_t4kg,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Blinn,blinncollege,tavionvaughnswra6,Tavion Vaughns
+Mar 11,home,Navarro,W,21-10,21,10,11,win,20240311_7vm1,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Blinn,blinncollege,tavionvaughnswra6,Tavion Vaughns
+Mar 15,home,Galveston,W,8-7,8,7,1,win,20240315_0v8o,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Blinn,blinncollege,tavionvaughnswra6,Tavion Vaughns
+Mar 24,home,Wharton County,W,2-1,2,1,1,win,20240324_1s10,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Blinn,blinncollege,tavionvaughnswra6,Tavion Vaughns

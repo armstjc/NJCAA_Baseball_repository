@@ -1,11 +1,16 @@
 date,location,opponent,result,score,team_score,opp_score,game_score_diff,game_win_loss,game_id,TC,PO,A,E,FPCT,DP,SBA,RCS,RCS_PCT,PB,CI,season,njcaa_season,njcaa_division,team,team_id,player_id,player_name
-Feb 12,home,Dyersburg State,W,17-7,17,7,10,win,20240212_ogln,0,0,0,0,1.0,,,,0.00,1.00,1,2024,2023-24,div2,Northeast Mississippi,northeastmississippicommunitycollege,ryanbland7bhf,Ryan Bland
-Feb 16,home,Kaskaskia,L,6-4,6,4,2,win,20240216_6jrx,1,0,1,0,5.0,5,2,2,3.60,1.40,2,2024,2023-24,div2,Northeast Mississippi,northeastmississippicommunitycollege,ryanbland7bhf,Ryan Bland
-Feb 20,home,Meridian,W,4-2,4,2,2,win,20240220_k43f,0,0,0,0,2.0,1,1,1,4.50,2.00,3,2024,2023-24,div2,Northeast Mississippi,northeastmississippicommunitycollege,ryanbland7bhf,Ryan Bland
-Feb 25,home,Jefferson (MO),L,4-2,4,2,2,win,20240225_s3zh,1,0,1,0,5.0,4,4,4,7.20,1.00,1,2024,2023-24,div2,Northeast Mississippi,northeastmississippicommunitycollege,ryanbland7bhf,Ryan Bland
-Mar 3,home,Wallace State,W,6-0,6,0,6,win,20240303_y9r9,1,1,0,0,7.0,5,0,0,0.00,.86,1,2024,2023-24,div2,Northeast Mississippi,northeastmississippicommunitycollege,ryanbland7bhf,Ryan Bland
-Mar 9,home,Pearl River,L,4-3,4,3,1,win,20240309_f7h4,0,0,0,0,1.0,,,,0.00,2.00,2,2024,2023-24,div2,Northeast Mississippi,northeastmississippicommunitycollege,ryanbland7bhf,Ryan Bland
-Mar 13,home,Coahoma,W,8-2,8,2,6,win,20240313_rgwb,1,1,0,0,6.0,6,0,0,0.00,1.17,1,2024,2023-24,div2,Northeast Mississippi,northeastmississippicommunitycollege,ryanbland7bhf,Ryan Bland
-Mar 27,home,Itawamba,L,2-1,2,1,1,win,20240327_2d4n,1,0,1,0,4.1,6,2,2,4.15,2.31,4,2024,2023-24,div2,Northeast Mississippi,northeastmississippicommunitycollege,ryanbland7bhf,Ryan Bland
-Apr 3,home,East Mississippi,W,12-9,12,9,3,win,20240403_jftn,1,0,0,0,5.0,3,6,6,10.80,1.40,4,2024,2023-24,div2,Northeast Mississippi,northeastmississippicommunitycollege,ryanbland7bhf,Ryan Bland
-Apr 8,home,Northwest Mississippi,L,8-1,8,1,7,win,20240408_hb4s,1,0,1,0,4.0,10,7,7,15.75,3.25,3,2024,2023-24,div2,Northeast Mississippi,northeastmississippicommunitycollege,ryanbland7bhf,Ryan Bland
+Feb 13,home,Dyersburg State,W,5-0,5,0,5,win,20240213_w283,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Northeast Mississippi,northeastmississippicommunitycollege,ryanbland7bhf,Ryan Bland
+Feb 16,home,Kaskaskia,W,5-2,5,2,3,win,20240216_wj0x,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Northeast Mississippi,northeastmississippicommunitycollege,ryanbland7bhf,Ryan Bland
+Feb 20,home,Coahoma,L,7-0,7,0,7,win,20240220_ai0q,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Northeast Mississippi,northeastmississippicommunitycollege,ryanbland7bhf,Ryan Bland
+Feb 27,home,Itawamba,W,15-6,15,6,9,win,20240227_2pva,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Northeast Mississippi,northeastmississippicommunitycollege,ryanbland7bhf,Ryan Bland
+Mar 2,home,Wallace State,W,2-1,2,1,1,win,20240302_lstg,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Northeast Mississippi,northeastmississippicommunitycollege,ryanbland7bhf,Ryan Bland
+Mar 3,home,Wallace State,L,10-4,10,4,6,win,20240303_0qbc,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Northeast Mississippi,northeastmississippicommunitycollege,ryanbland7bhf,Ryan Bland
+Mar 6,home,East Mississippi,W,3-2,3,2,1,win,20240306_2oe4,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Northeast Mississippi,northeastmississippicommunitycollege,ryanbland7bhf,Ryan Bland
+Mar 9,home,Pearl River,L,11-1,11,1,10,win,20240309_0zl8,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Northeast Mississippi,northeastmississippicommunitycollege,ryanbland7bhf,Ryan Bland
+Mar 9,home,Pearl River,L,4-3,4,3,1,win,20240309_f7h4,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Northeast Mississippi,northeastmississippicommunitycollege,ryanbland7bhf,Ryan Bland
+Mar 13,home,Coahoma,W,13-0,13,0,13,win,20240313_c8am,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Northeast Mississippi,northeastmississippicommunitycollege,ryanbland7bhf,Ryan Bland
+Mar 23,home,Copiah-Lincoln,L,7-4,7,4,3,win,20240323_43dp,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Northeast Mississippi,northeastmississippicommunitycollege,ryanbland7bhf,Ryan Bland
+Mar 27,home,Itawamba,L,2-1,2,1,1,win,20240327_2d4n,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Northeast Mississippi,northeastmississippicommunitycollege,ryanbland7bhf,Ryan Bland
+Mar 29,home,East Central (MS),L,10-3,10,3,7,win,20240329_92df,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Northeast Mississippi,northeastmississippicommunitycollege,ryanbland7bhf,Ryan Bland
+Apr 8,home,Northwest Mississippi,L,8-1,8,1,7,win,20240408_hb4s,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Northeast Mississippi,northeastmississippicommunitycollege,ryanbland7bhf,Ryan Bland
+Apr 13,home,Jones,L,26-3,26,3,23,win,20240413_uv7g,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Northeast Mississippi,northeastmississippicommunitycollege,ryanbland7bhf,Ryan Bland
