@@ -1,17 +1,10 @@
 date,location,opponent,result,score,team_score,opp_score,game_score_diff,game_win_loss,game_id,GS,W,L,SV,IP,H,R,ER,ERA,BB,K,HR,season,njcaa_season,njcaa_division,team,team_id,player_id,player_name
-Apr 14,home,North Iowa Area,W,11-6,11,6,5,win,20240414_mplk,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div2,Southeastern,southeasterncommunitycollege,sheppardgrafueu5,Sheppard Graf
-Apr 6,home,Iowa Lakes,W,22-0,22,0,22,win,20240406_r3xs,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div2,Southeastern,southeasterncommunitycollege,sheppardgrafueu5,Sheppard Graf
-Mar 31,home,Southwestern,W,4-3,4,3,1,win,20240331_8qcm,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div2,Southeastern,southeasterncommunitycollege,sheppardgrafueu5,Sheppard Graf
-Mar 30,home,Southwestern,W,7-2,7,2,5,win,20240330_bdfg,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div2,Southeastern,southeasterncommunitycollege,sheppardgrafueu5,Sheppard Graf
-Mar 30,home,Southwestern,W,11-1,11,1,10,win,20240330_t7tk,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div2,Southeastern,southeasterncommunitycollege,sheppardgrafueu5,Sheppard Graf
-Mar 28,home,Des Moines Area,W,10-1,10,1,9,win,20240328_3d5r,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div2,Southeastern,southeasterncommunitycollege,sheppardgrafueu5,Sheppard Graf
-Mar 24,home,Northeast,W,15-7,15,7,8,win,20240324_81zh,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div2,Southeastern,southeasterncommunitycollege,sheppardgrafueu5,Sheppard Graf
-Mar 23,home,Northeast,L,5-1,5,1,4,win,20240323_0tt9,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div2,Southeastern,southeasterncommunitycollege,sheppardgrafueu5,Sheppard Graf
-Mar 19,home,Carl Sandburg,W,9-7,9,7,2,win,20240319_hlzs,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div2,Southeastern,southeasterncommunitycollege,sheppardgrafueu5,Sheppard Graf
-Mar 12,home,Baton Rouge,W,6-4,6,4,2,win,20240312_xpwi,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div2,Southeastern,southeasterncommunitycollege,sheppardgrafueu5,Sheppard Graf
-Mar 12,home,Baton Rouge,W,9-2,9,2,7,win,20240312_yue2,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div2,Southeastern,southeasterncommunitycollege,sheppardgrafueu5,Sheppard Graf
-Mar 10,home,LSU Eunice,W,5-2,5,2,3,win,20240310_cjsa,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div2,Southeastern,southeasterncommunitycollege,sheppardgrafueu5,Sheppard Graf
-Mar 3,home,Holmes,W,11-5,11,5,6,win,20240303_9quo,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div2,Southeastern,southeasterncommunitycollege,sheppardgrafueu5,Sheppard Graf
-Mar 2,home,Hinds,W,17-6,17,6,11,win,20240302_mmhy,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div2,Southeastern,southeasterncommunitycollege,sheppardgrafueu5,Sheppard Graf
-Mar 1,home,Illinois Central,W,10-8,10,8,2,win,20240301_5k09,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div2,Southeastern,southeasterncommunitycollege,sheppardgrafueu5,Sheppard Graf
-Feb 17,home,Wallace State,W,9-0,9,0,9,win,20240217_u0c0,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div2,Southeastern,southeasterncommunitycollege,sheppardgrafueu5,Sheppard Graf
+Apr 14,home,North Iowa Area,W,11-6,11,6,5,win,20240414_mplk,1,0,0,0,5.0,2,3,2,3.60,1.20,4,5,2024,2023-24,div2,Southeastern,southeasterncommunitycollege,sheppardgrafueu5,Sheppard Graf
+Apr 10,home,Kirkwood,L,8-5,8,5,3,win,20240410_sdwo,1,0,0,0,2.0,1,0,0,0.00,1.50,2,4,2024,2023-24,div2,Southeastern,southeasterncommunitycollege,sheppardgrafueu5,Sheppard Graf
+Apr 4,home,Marshalltown,W,3-1,3,1,2,win,20240404_tvk6,1,1,0,0,7.0,3,1,0,0.00,.71,2,7,2024,2023-24,div2,Southeastern,southeasterncommunitycollege,sheppardgrafueu5,Sheppard Graf
+Mar 30,home,Southwestern,W,11-1,11,1,10,win,20240330_t7tk,1,1,0,0,5.0,1,1,1,1.80,.80,3,6,2024,2023-24,div2,Southeastern,southeasterncommunitycollege,sheppardgrafueu5,Sheppard Graf
+Mar 23,home,Northeast,L,4-1,4,1,3,win,20240323_xfov,1,0,1,0,4.1,5,3,3,6.23,1.38,1,2,2024,2023-24,div2,Southeastern,southeasterncommunitycollege,sheppardgrafueu5,Sheppard Graf
+Mar 10,home,LSU Eunice,W,5-2,5,2,3,win,20240310_cjsa,1,1,0,0,5.0,4,0,0,0.00,1.40,3,1,2024,2023-24,div2,Southeastern,southeasterncommunitycollege,sheppardgrafueu5,Sheppard Graf
+Mar 2,home,Hinds,W,17-6,17,6,11,win,20240302_mmhy,1,1,0,0,6.0,9,3,3,4.50,2.00,3,1,2024,2023-24,div2,Southeastern,southeasterncommunitycollege,sheppardgrafueu5,Sheppard Graf
+Feb 24,home,Kaskaskia,W,4-2,4,2,2,win,20240224_xvbk,1,0,0,0,4.1,3,2,1,2.08,1.15,2,0,2024,2023-24,div2,Southeastern,southeasterncommunitycollege,sheppardgrafueu5,Sheppard Graf
+Feb 17,home,East Central (MS),L,8-0,8,0,8,win,20240217_cylq,1,0,1,0,4.1,5,4,4,8.31,2.54,6,3,2024,2023-24,div2,Southeastern,southeasterncommunitycollege,sheppardgrafueu5,Sheppard Graf

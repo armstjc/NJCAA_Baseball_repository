@@ -1,16 +1,28 @@
 date,location,opponent,result,score,team_score,opp_score,game_score_diff,game_win_loss,game_id,AB,R,H,2B,3B,HR,RBI,BB,K,SB,CS,HBP,SF,SH,TB,XBH,HDP,GO,FO,GO/FO,PA,season,njcaa_season,njcaa_division,team,team_id,player_id,player_name
-Feb 22,home,Cloud County,W,11-6,11,6,5,win,20240222_p7nf,0,0,0,,,,0,,,,,,,,0,0,,,,,0,2024,2023-24,div1,Southeast,southeastcommunitycollege,averymoore8ua1,Avery Moore
-Mar 20,home,Hastings JV,W,11-0,11,0,11,win,20240320_tydi,4,1,1,,,,1,,1,1,,,,,1,0,,,,,4,2024,2023-24,div1,Southeast,southeastcommunitycollege,averymoore8ua1,Avery Moore
-Mar 22,home,Otero,W,9-3,9,3,6,win,20240322_3bg2,3,0,1,,,,2,2,2,,,,,,1,0,,,,,5,2024,2023-24,div1,Southeast,southeastcommunitycollege,averymoore8ua1,Avery Moore
-Mar 24,home,Otero,W,17-6,17,6,11,win,20240324_y8jh,3,1,1,,,,0,1,1,,,,,1,1,0,,,,,5,2024,2023-24,div1,Southeast,southeastcommunitycollege,averymoore8ua1,Avery Moore
-Mar 27,home,Concordia JV,W,10-6,10,6,4,win,20240327_xeny,0,0,0,,,,0,,,,,,,,0,0,,,,,0,2024,2023-24,div1,Southeast,southeastcommunitycollege,averymoore8ua1,Avery Moore
-Mar 29,home,Northeastern,W,12-1,12,1,11,win,20240329_9573,3,2,2,,,1,3,,,1,,,,,5,1,,,,,3,2024,2023-24,div1,Southeast,southeastcommunitycollege,averymoore8ua1,Avery Moore
-Mar 30,home,Northeastern,W,11-0,11,0,11,win,20240330_o5qt,3,1,2,,,,0,1,,,,,,,2,0,,,,,4,2024,2023-24,div1,Southeast,southeastcommunitycollege,averymoore8ua1,Avery Moore
-Mar 30,home,Northeastern,W,16-2,16,2,14,win,20240330_tvdo,0,0,0,,,,0,,,,,,,,0,0,,,,,0,2024,2023-24,div1,Southeast,southeastcommunitycollege,averymoore8ua1,Avery Moore
-Apr 7,home,Luna,W,10-2,10,2,8,win,20240407_b3mp,1,1,0,,,,0,1,1,,,1,,,0,0,,,,,3,2024,2023-24,div1,Southeast,southeastcommunitycollege,averymoore8ua1,Avery Moore
-Apr 8,home,Luna,W,10-2,10,2,8,win,20240408_b5s4,3,0,1,,,,0,,,,,,,,1,0,,,,,3,2024,2023-24,div1,Southeast,southeastcommunitycollege,averymoore8ua1,Avery Moore
-Apr 8,home,Luna,W,14-0,14,0,14,win,20240408_yr5g,0,0,0,,,,0,,,,,,,,0,0,,,,,0,2024,2023-24,div1,Southeast,southeastcommunitycollege,averymoore8ua1,Avery Moore
-Apr 9,home,Highland (KS),W,12-10,12,10,2,win,20240409_4mmo,4,0,0,,,,1,,1,,,1,,,0,0,,,,,5,2024,2023-24,div1,Southeast,southeastcommunitycollege,averymoore8ua1,Avery Moore
-Apr 13,home,Lamar,W,13-6,13,6,7,win,20240413_8d63,3,1,1,,,,0,,1,,,,,,1,0,,,,,3,2024,2023-24,div1,Southeast,southeastcommunitycollege,averymoore8ua1,Avery Moore
-Apr 14,home,Lamar,W,8-4,8,4,4,win,20240414_v6bp,4,1,1,,,,0,,1,1,,,,,1,0,,,,,4,2024,2023-24,div1,Southeast,southeastcommunitycollege,averymoore8ua1,Avery Moore
-Apr 17,home,Concordia JV,W,12-2,12,2,10,win,20240417_6ubb,0,0,0,,,,0,,,,,,,,0,0,,,,,0,2024,2023-24,div1,Southeast,southeastcommunitycollege,averymoore8ua1,Avery Moore
+Feb 19,home,Garden City,W,11-4,11,4,7,win,20240219_0tzt,2,1,0,,,,1,,,,,1,1,,0,0,,,3,,4,2024,2023-24,div1,Southeast,southeastcommunitycollege,averymoore8ua1,Avery Moore
+Feb 19,home,Garden City,W,7-6,7,6,1,win,20240219_jd89,4,0,0,,,,0,,1,,,,,,0,0,,3,,,4,2024,2023-24,div1,Southeast,southeastcommunitycollege,averymoore8ua1,Avery Moore
+Feb 20,home,Garden City,W,12-3,12,3,9,win,20240220_y6j6,4,1,1,,,,1,,1,,,,,,1,0,,,1,,4,2024,2023-24,div1,Southeast,southeastcommunitycollege,averymoore8ua1,Avery Moore
+Feb 20,home,Garden City,W,12-6,12,6,6,win,20240220_m9vb,3,0,0,,,,0,,2,,,,,,0,0,,,1,,3,2024,2023-24,div1,Southeast,southeastcommunitycollege,averymoore8ua1,Avery Moore
+Feb 22,home,Cloud County,W,11-6,11,6,5,win,20240222_p7nf,2,2,2,1,,,3,2,,,,1,,,3,1,,,,,5,2024,2023-24,div1,Southeast,southeastcommunitycollege,averymoore8ua1,Avery Moore
+Feb 24,home,Cloud County,W,17-11,17,11,6,win,20240224_xfuy,4,3,1,,,,0,1,,,,1,,,1,0,,,,,6,2024,2023-24,div1,Southeast,southeastcommunitycollege,averymoore8ua1,Avery Moore
+Mar 13,home,Northeast,W,4-3,4,3,1,win,20240313_7a3j,3,1,2,1,,1,2,,,,,,,,6,2,,,,,3,2024,2023-24,div1,Southeast,southeastcommunitycollege,averymoore8ua1,Avery Moore
+Mar 20,home,Hastings JV,W,11-0,11,0,11,win,20240320_tydi,3,1,3,1,,,2,1,,,,,,,4,1,,,,,4,2024,2023-24,div1,Southeast,southeastcommunitycollege,averymoore8ua1,Avery Moore
+Mar 22,home,Otero,W,9-3,9,3,6,win,20240322_3bg2,3,1,2,,,,0,2,,1,2,,,,2,0,,,,,5,2024,2023-24,div1,Southeast,southeastcommunitycollege,averymoore8ua1,Avery Moore
+Mar 24,home,Otero,W,17-6,17,6,11,win,20240324_y8jh,6,1,3,1,1,,5,,,1,,,,,6,2,,,,,6,2024,2023-24,div1,Southeast,southeastcommunitycollege,averymoore8ua1,Avery Moore
+Mar 27,home,Concordia JV,W,8-3,8,3,5,win,20240327_qrab,2,1,2,,,,2,2,,1,,,,,2,0,,,,,4,2024,2023-24,div1,Southeast,southeastcommunitycollege,averymoore8ua1,Avery Moore
+Mar 27,home,Concordia JV,W,10-6,10,6,4,win,20240327_xeny,3,1,1,1,,,0,,,,,1,,,2,1,,,,,4,2024,2023-24,div1,Southeast,southeastcommunitycollege,averymoore8ua1,Avery Moore
+Mar 29,home,Northeastern,W,12-1,12,1,11,win,20240329_9573,2,1,0,,,,0,,1,,,1,,,0,0,,,,,3,2024,2023-24,div1,Southeast,southeastcommunitycollege,averymoore8ua1,Avery Moore
+Mar 29,home,Northeastern,W,9-2,9,2,7,win,20240329_qysc,5,0,2,,,,0,,,,,,,,2,0,,,,,5,2024,2023-24,div1,Southeast,southeastcommunitycollege,averymoore8ua1,Avery Moore
+Mar 30,home,Northeastern,W,11-0,11,0,11,win,20240330_o5qt,4,1,3,,,1,4,,,,,,,,6,1,,,,,4,2024,2023-24,div1,Southeast,southeastcommunitycollege,averymoore8ua1,Avery Moore
+Mar 30,home,Northeastern,W,16-2,16,2,14,win,20240330_tvdo,5,1,3,,,1,6,,,2,,,,,6,1,,,,,5,2024,2023-24,div1,Southeast,southeastcommunitycollege,averymoore8ua1,Avery Moore
+Apr 7,home,Luna,W,10-2,10,2,8,win,20240407_b3mp,4,2,2,,,1,2,,,,,,,,5,1,,,,,4,2024,2023-24,div1,Southeast,southeastcommunitycollege,averymoore8ua1,Avery Moore
+Apr 7,home,Luna,W,20-5,20,5,15,win,20240407_lkws,4,1,1,,,,0,1,,,,,,,1,0,,,,,5,2024,2023-24,div1,Southeast,southeastcommunitycollege,averymoore8ua1,Avery Moore
+Apr 8,home,Luna,W,10-2,10,2,8,win,20240408_b5s4,4,2,2,,,2,5,,,,,,,,8,2,,,,,4,2024,2023-24,div1,Southeast,southeastcommunitycollege,averymoore8ua1,Avery Moore
+Apr 8,home,Luna,W,14-0,14,0,14,win,20240408_yr5g,3,2,3,,,1,4,,,,,2,,,6,1,,,,,5,2024,2023-24,div1,Southeast,southeastcommunitycollege,averymoore8ua1,Avery Moore
+Apr 9,home,Highland (KS),W,12-10,12,10,2,win,20240409_4mmo,4,2,3,,,,1,,,,,2,,,3,0,,,,,6,2024,2023-24,div1,Southeast,southeastcommunitycollege,averymoore8ua1,Avery Moore
+Apr 13,home,Lamar,W,13-6,13,6,7,win,20240413_8d63,5,0,1,,,,0,,,,,,,,1,0,,,,,5,2024,2023-24,div1,Southeast,southeastcommunitycollege,averymoore8ua1,Avery Moore
+Apr 13,home,Lamar,W,11-2,11,2,9,win,20240413_4vdg,4,1,1,,,1,2,1,2,,,,,,4,1,,,,,5,2024,2023-24,div1,Southeast,southeastcommunitycollege,averymoore8ua1,Avery Moore
+Apr 14,home,Lamar,W,8-4,8,4,4,win,20240414_v6bp,4,2,2,,,1,1,,,1,,,,,5,1,,,,,4,2024,2023-24,div1,Southeast,southeastcommunitycollege,averymoore8ua1,Avery Moore
+Apr 14,home,Lamar,W,21-12,21,12,9,win,20240414_3qcc,7,2,3,1,,,1,,4,,,,,,4,1,,,,,7,2024,2023-24,div1,Southeast,southeastcommunitycollege,averymoore8ua1,Avery Moore
+Apr 17,home,Concordia JV,W,12-2,12,2,10,win,20240417_6ubb,2,3,1,,,,0,1,,2,,1,,,1,0,,,,,4,2024,2023-24,div1,Southeast,southeastcommunitycollege,averymoore8ua1,Avery Moore
+Apr 17,home,Concordia JV,W,9-3,9,3,6,win,20240417_x4y1,2,0,0,,,,0,1,1,,,,,,0,0,,,,,3,2024,2023-24,div1,Southeast,southeastcommunitycollege,averymoore8ua1,Avery Moore

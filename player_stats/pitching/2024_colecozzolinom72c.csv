@@ -1,16 +1,11 @@
 date,location,opponent,result,score,team_score,opp_score,game_score_diff,game_win_loss,game_id,GS,W,L,SV,IP,H,R,ER,ERA,BB,K,HR,season,njcaa_season,njcaa_division,team,team_id,player_id,player_name
-Apr 16,home,Polk State,L,12-6,12,6,6,win,20240416_4fjf,0,0,0,0,2.0,1,,,0.00,.50,,4,2024,2023-24,div2,South Florida State,southfloridastatecollege,colecozzolinom72c,Cole Cozzolino
-Apr 13,home,Palm Beach State,L,6-3,6,3,3,win,20240413_4fs1,0,0,1,0,2.0,2,3,3,13.50,1.50,1,1,2024,2023-24,div2,South Florida State,southfloridastatecollege,colecozzolinom72c,Cole Cozzolino
-Apr 6,home,Lake-Sumter State,L,8-3,8,3,5,win,20240406_tjgy,1,0,1,0,2.2,5,3,2,6.75,2.63,2,0,2024,2023-24,div2,South Florida State,southfloridastatecollege,colecozzolinom72c,Cole Cozzolino
-Apr 2,home,State College of Florida,L,10-7,10,7,3,win,20240402_ar7p,0,0,0,0,1.0,1,,,0.00,2.00,1,,2024,2023-24,div2,South Florida State,southfloridastatecollege,colecozzolinom72c,Cole Cozzolino
-Mar 30,home,Pasco-Hernando State,W,7-4,7,4,3,win,20240330_zwpn,0,1,0,0,1.2,,,,0.00,,,3,2024,2023-24,div2,South Florida State,southfloridastatecollege,colecozzolinom72c,Cole Cozzolino
-Mar 27,home,Warner University (B),W,14-2,14,2,12,win,20240327_z4kk,0,0,0,0,1.0,1,,,0.00,1.00,,1,2024,2023-24,div2,South Florida State,southfloridastatecollege,colecozzolinom72c,Cole Cozzolino
-Mar 15,home,St. Johns River State,L,21-11,21,11,10,win,20240315_bhn7,0,0,1,0,1.0,5,7,7,63.00,6.00,1,1,2024,2023-24,div2,South Florida State,southfloridastatecollege,colecozzolinom72c,Cole Cozzolino
-Mar 8,home,Palm Beach State,W,5-3,5,3,2,win,20240308_0s79,0,0,0,0,1.0,3,1,1,9.00,3.00,,,2024,2023-24,div2,South Florida State,southfloridastatecollege,colecozzolinom72c,Cole Cozzolino
-Mar 1,home,Lake-Sumter State,L,4-3,4,3,1,win,20240301_tys1,0,0,0,0,1.1,3,1,1,6.75,3.00,1,1,2024,2023-24,div2,South Florida State,southfloridastatecollege,colecozzolinom72c,Cole Cozzolino
-Feb 26,home,Lincoln Land,W,13-2,13,2,11,win,20240226_dkc5,0,1,0,0,4.1,1,,,0.00,.23,,4,2024,2023-24,div2,South Florida State,southfloridastatecollege,colecozzolinom72c,Cole Cozzolino
-Feb 24,home,Pasco-Hernando State,L,10-2,10,2,8,win,20240224_cy6k,1,0,1,0,1.0,3,2,2,18.00,5.00,2,0,2024,2023-24,div2,South Florida State,southfloridastatecollege,colecozzolinom72c,Cole Cozzolino
-Feb 14,home,IMG Academy,W,7-3,7,3,4,win,20240214_81r8,1,0,0,0,4.0,2,2,1,2.25,.50,0,3,2024,2023-24,div2,South Florida State,southfloridastatecollege,colecozzolinom72c,Cole Cozzolino
-Feb 10,home,Santa Fe,L,7-4,7,4,3,win,20240210_ghd1,1,0,1,0,1.0,4,4,4,36.00,5.00,1,0,2024,2023-24,div2,South Florida State,southfloridastatecollege,colecozzolinom72c,Cole Cozzolino
-Feb 3,home,Santa Fe,L,4-2,4,2,2,win,20240203_0eqz,1,0,1,0,4.1,6,4,4,8.31,1.85,2,1,2024,2023-24,div2,South Florida State,southfloridastatecollege,colecozzolinom72c,Cole Cozzolino
-Jan 27,home,St. Petersburg,L,9-2,9,2,7,win,20240127_anr6,0,0,0,0,3.0,3,2,1,3.00,1.00,,,2024,2023-24,div2,South Florida State,southfloridastatecollege,colecozzolinom72c,Cole Cozzolino
+Mar 15,home,St. Johns River State,L,21-11,21,11,10,win,20240315_bhn7,1,0,0,0,3.2,9,5,2,4.91,2.45,0,1,2024,2023-24,div2,South Florida State,southfloridastatecollege,colecozzolinom72c,Cole Cozzolino
+Mar 8,home,Palm Beach State,W,5-3,5,3,2,win,20240308_0s79,1,1,0,0,6.0,4,2,1,1.50,.67,0,2,2024,2023-24,div2,South Florida State,southfloridastatecollege,colecozzolinom72c,Cole Cozzolino
+Mar 1,home,Lake-Sumter State,W,10-4,10,4,6,win,20240301_pwi7,1,1,0,0,5.0,7,4,2,3.60,1.60,1,3,2024,2023-24,div2,South Florida State,southfloridastatecollege,colecozzolinom72c,Cole Cozzolino
+Feb 24,home,Pasco-Hernando State,L,10-2,10,2,8,win,20240224_cy6k,0,0,0,0,1.0,1,1,,0.00,1.00,,,2024,2023-24,div2,South Florida State,southfloridastatecollege,colecozzolinom72c,Cole Cozzolino
+Feb 21,home,Warner University (B),W,11-4,11,4,7,win,20240221_u1fb,0,0,0,0,1.0,2,2,1,9.00,3.00,1,1,2024,2023-24,div2,South Florida State,southfloridastatecollege,colecozzolinom72c,Cole Cozzolino
+Feb 16,home,Inspiration Academy,W,6-3,6,3,3,win,20240216_bz30,0,0,0,0,1.0,1,2,2,18.00,3.00,2,1,2024,2023-24,div2,South Florida State,southfloridastatecollege,colecozzolinom72c,Cole Cozzolino
+Feb 10,home,Santa Fe,L,7-4,7,4,3,win,20240210_ghd1,0,0,0,0,2.0,5,2,2,9.00,3.00,1,1,2024,2023-24,div2,South Florida State,southfloridastatecollege,colecozzolinom72c,Cole Cozzolino
+Feb 7,home,Polk State,L,12-4,12,4,8,win,20240207_jpms,0,0,0,0,2.1,4,4,,0.00,2.14,1,1,2024,2023-24,div2,South Florida State,southfloridastatecollege,colecozzolinom72c,Cole Cozzolino
+Jan 29,home,Webber International University (B),W,7-6,7,6,1,win,20240129_lcpr,0,1,0,0,2.0,,,,0.00,,,3,2024,2023-24,div2,South Florida State,southfloridastatecollege,colecozzolinom72c,Cole Cozzolino
+Jan 27,home,Polk State,W,6-3,6,3,3,win,20240127_219s,0,0,0,1,1.0,,,,0.00,,,,2024,2023-24,div2,South Florida State,southfloridastatecollege,colecozzolinom72c,Cole Cozzolino

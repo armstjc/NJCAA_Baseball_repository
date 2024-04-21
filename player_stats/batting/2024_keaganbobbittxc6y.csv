@@ -1,7 +1,16 @@
 date,location,opponent,result,score,team_score,opp_score,game_score_diff,game_win_loss,game_id,AB,R,H,2B,3B,HR,RBI,BB,K,SB,CS,HBP,SF,SH,TB,XBH,HDP,GO,FO,GO/FO,PA,season,njcaa_season,njcaa_division,team,team_id,player_id,player_name
-Feb 19,home,Vincennes,W,10-0,10,0,10,win,20240219_lc0h,0,0,0,,,,0,,,,,,,,0,0,,,,,0,2024,2023-24,div1,South Suburban,southsuburbancollege,keaganbobbittxc6y,Keagan Bobbitt
-Feb 25,home,Rend Lake,W,12-10,12,10,2,win,20240225_9e7h,0,0,0,,,,0,,,,,,,,0,0,,,,,0,2024,2023-24,div1,South Suburban,southsuburbancollege,keaganbobbittxc6y,Keagan Bobbitt
-Mar 2,home,Parkland,W,3-2,3,2,1,win,20240302_uwel,0,0,0,,,,0,,,,,,,,0,0,,,,,0,2024,2023-24,div1,South Suburban,southsuburbancollege,keaganbobbittxc6y,Keagan Bobbitt
-Mar 21,home,Moraine Valley,W,9-7,9,7,2,win,20240321_t1k7,0,0,0,,,,0,,,,,,,,0,0,,,,,0,2024,2023-24,div1,South Suburban,southsuburbancollege,keaganbobbittxc6y,Keagan Bobbitt
-Apr 6,home,Milwaukee Area Tech,W,13-3,13,3,10,win,20240406_m8gv,0,0,0,,,,0,,,,,,,,0,0,,,,,0,2024,2023-24,div1,South Suburban,southsuburbancollege,keaganbobbittxc6y,Keagan Bobbitt
-Apr 13,home,Kankakee,W,7-4,7,4,3,win,20240413_jnkc,0,0,0,,,,0,,,,,,,,0,0,,,,,0,2024,2023-24,div1,South Suburban,southsuburbancollege,keaganbobbittxc6y,Keagan Bobbitt
+Feb 18,home,Southeastern Illinois,W,13-3,13,3,10,win,20240218_zl1j,4,0,2,,,,1,,1,,,,,,2,0,,1,,,4,2024,2023-24,div1,South Suburban,southsuburbancollege,keaganbobbittxc6y,Keagan Bobbitt
+Feb 19,home,Vincennes,W,10-0,10,0,10,win,20240219_lc0h,2,1,2,1,,,1,1,,,,,,,3,1,,,,,3,2024,2023-24,div1,South Suburban,southsuburbancollege,keaganbobbittxc6y,Keagan Bobbitt
+Feb 19,home,Vincennes,W,9-4,9,4,5,win,20240219_twxu,3,1,1,,,,0,1,,,,,,,1,0,,,1,,4,2024,2023-24,div1,South Suburban,southsuburbancollege,keaganbobbittxc6y,Keagan Bobbitt
+Feb 25,home,Rend Lake,W,12-10,12,10,2,win,20240225_9e7h,4,2,1,,,,0,1,,,,,,,1,0,,1,,,5,2024,2023-24,div1,South Suburban,southsuburbancollege,keaganbobbittxc6y,Keagan Bobbitt
+Mar 2,home,Harper,W,10-0,10,0,10,win,20240302_pzfp,2,2,0,,,,0,1,,,,1,,,0,0,,,,,4,2024,2023-24,div1,South Suburban,southsuburbancollege,keaganbobbittxc6y,Keagan Bobbitt
+Mar 7,home,Baton Rouge,W,5-4,5,4,1,win,20240307_srpa,2,0,1,,,,0,1,,,,,,,1,0,,1,,,3,2024,2023-24,div1,South Suburban,southsuburbancollege,keaganbobbittxc6y,Keagan Bobbitt
+Mar 9,home,Texas Post Grad Reds,W,16-11,16,11,5,win,20240309_5www,4,2,2,2,,,2,1,,,,,,,4,2,,2,,,5,2024,2023-24,div1,South Suburban,southsuburbancollege,keaganbobbittxc6y,Keagan Bobbitt
+Mar 21,home,Moraine Valley,W,9-7,9,7,2,win,20240321_t1k7,4,0,1,,,,0,,2,,,,,,1,0,,,1,,4,2024,2023-24,div1,South Suburban,southsuburbancollege,keaganbobbittxc6y,Keagan Bobbitt
+Mar 30,home,Kennedy-King,W,18-0,18,0,18,win,20240330_792d,3,3,1,,,,2,1,,1,,1,,,1,0,,,1,,5,2024,2023-24,div1,South Suburban,southsuburbancollege,keaganbobbittxc6y,Keagan Bobbitt
+Apr 6,home,Milwaukee Area Tech,W,13-3,13,3,10,win,20240406_m8gv,3,3,3,,,1,4,2,,1,,,,,6,1,,,,,5,2024,2023-24,div1,South Suburban,southsuburbancollege,keaganbobbittxc6y,Keagan Bobbitt
+Apr 13,home,Kankakee,W,7-4,7,4,3,win,20240413_jnkc,4,2,1,,,,0,1,1,,,,,,1,0,,,1,,5,2024,2023-24,div1,South Suburban,southsuburbancollege,keaganbobbittxc6y,Keagan Bobbitt
+Apr 14,home,Rock Valley,W,12-4,12,4,8,win,20240414_lk18,4,2,3,1,,,0,1,,,,,,,4,1,,,1,,5,2024,2023-24,div1,South Suburban,southsuburbancollege,keaganbobbittxc6y,Keagan Bobbitt
+Apr 14,home,Rock Valley,W,7-2,7,2,5,win,20240414_1hl3,4,0,1,,,,1,,,,,,,,1,0,,2,,,4,2024,2023-24,div1,South Suburban,southsuburbancollege,keaganbobbittxc6y,Keagan Bobbitt
+Apr 15,home,North Central JV,W,4-3,4,3,1,win,20240415_b99x,4,1,1,1,,,1,1,,,,,,,2,1,,2,,,5,2024,2023-24,div1,South Suburban,southsuburbancollege,keaganbobbittxc6y,Keagan Bobbitt
+Apr 18,home,Triton,W,4-1,4,1,3,win,20240418_qvax,3,0,1,1,,,2,,,,,,1,,2,1,,1,2,0.50,4,2024,2023-24,div1,South Suburban,southsuburbancollege,keaganbobbittxc6y,Keagan Bobbitt
