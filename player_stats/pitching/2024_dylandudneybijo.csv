@@ -1,14 +1,11 @@
 date,location,opponent,result,score,team_score,opp_score,game_score_diff,game_win_loss,game_id,GS,W,L,SV,IP,H,R,ER,ERA,BB,K,HR,season,njcaa_season,njcaa_division,team,team_id,player_id,player_name
-Apr 18,home,San Jacinto,L,10-3,10,3,7,win,20240418_bzln,1,0,1,0,5.0,8,7,4,7.20,2.60,5,0,2024,2023-24,div1,Alvin,alvincommunitycollege,dylandudneybijo,Dylan Dudney
-Apr 11,home,Wharton County,W,17-3,17,3,14,win,20240411_vox1,1,1,0,0,5.0,4,3,1,1.80,1.00,1,3,2024,2023-24,div1,Alvin,alvincommunitycollege,dylandudneybijo,Dylan Dudney
-Apr 4,home,Galveston,L,6-4,6,4,2,win,20240404_w67h,1,0,0,0,4.0,6,4,4,9.00,2.50,4,4,2024,2023-24,div1,Alvin,alvincommunitycollege,dylandudneybijo,Dylan Dudney
-Mar 27,home,Blinn,L,6-2,6,2,4,win,20240327_rqzi,1,0,1,0,3.0,2,4,4,12.00,2.33,5,2,2024,2023-24,div1,Alvin,alvincommunitycollege,dylandudneybijo,Dylan Dudney
-Mar 21,home,Coastal Bend,L,8-7,8,7,1,win,20240321_3kdm,1,0,0,0,5.2,8,3,3,4.76,1.76,2,1,2024,2023-24,div1,Alvin,alvincommunitycollege,dylandudneybijo,Dylan Dudney
-Mar 14,home,San Jacinto,L,5-3,5,3,2,win,20240314_sy5t,1,0,0,0,6.0,3,2,0,0.00,1.00,3,5,2024,2023-24,div1,Alvin,alvincommunitycollege,dylandudneybijo,Dylan Dudney
-Mar 7,home,Wharton County,W,7-4,7,4,3,win,20240307_qikz,1,1,0,0,6.0,6,1,1,1.50,1.83,5,4,2024,2023-24,div1,Alvin,alvincommunitycollege,dylandudneybijo,Dylan Dudney
-Feb 29,home,Galveston,L,14-2,14,2,12,win,20240229_gk3e,0,0,0,0,2.0,4,6,4,18.00,3.50,3,3,2024,2023-24,div1,Alvin,alvincommunitycollege,dylandudneybijo,Dylan Dudney
-Feb 23,home,Hill,W,11-1,11,1,10,win,20240223_4xwi,0,0,0,0,2.0,2,1,1,4.50,2.00,2,2,2024,2023-24,div1,Alvin,alvincommunitycollege,dylandudneybijo,Dylan Dudney
-Feb 19,home,Wabash Valley,W,12-9,12,9,3,win,20240219_vnpj,0,0,0,1,3.0,1,1,,0.00,.33,,4,2024,2023-24,div1,Alvin,alvincommunitycollege,dylandudneybijo,Dylan Dudney
-Feb 14,home,Angelina,W,11-1,11,1,10,win,20240214_vjl3,1,1,0,0,4.0,1,1,0,0.00,1.25,4,4,2024,2023-24,div1,Alvin,alvincommunitycollege,dylandudneybijo,Dylan Dudney
-Feb 8,home,Navarro,L,11-6,11,6,5,win,20240208_dba0,0,0,0,0,2.0,3,2,1,4.50,1.50,,4,2024,2023-24,div1,Alvin,alvincommunitycollege,dylandudneybijo,Dylan Dudney
-Feb 4,home,Midland,W,6-2,6,2,4,win,20240204_nz1m,0,0,0,0,1.0,1,,,0.00,1.00,,,2024,2023-24,div1,Alvin,alvincommunitycollege,dylandudneybijo,Dylan Dudney
+Apr 13,home,Wharton County,L,10-0,10,0,10,win,20240413_dlm9,1,0,1,0,3.0,7,5,5,15.00,2.67,1,3,2024,2023-24,div1,Alvin,alvincommunitycollege,dylandudneybijo,Dylan Dudney
+Apr 6,home,Galveston,W,7-0,7,0,7,win,20240406_bnnf,1,1,0,0,6.0,4,0,0,0.00,.83,1,9,2024,2023-24,div1,Alvin,alvincommunitycollege,dylandudneybijo,Dylan Dudney
+Mar 29,home,Blinn,L,11-3,11,3,8,win,20240329_s6bs,1,0,1,0,2.2,8,8,7,23.63,3.75,2,4,2024,2023-24,div1,Alvin,alvincommunitycollege,dylandudneybijo,Dylan Dudney
+Mar 24,home,Coastal Bend,W,9-1,9,1,8,win,20240324_x4ap,1,1,0,0,6.0,5,1,1,1.50,.83,0,9,2024,2023-24,div1,Alvin,alvincommunitycollege,dylandudneybijo,Dylan Dudney
+Mar 14,home,San Jacinto,L,6-5,6,5,1,win,20240314_lu89,1,0,0,0,5.2,4,4,3,4.76,1.41,4,2,2024,2023-24,div1,Alvin,alvincommunitycollege,dylandudneybijo,Dylan Dudney
+Mar 5,home,Wharton County,L,10-6,10,6,4,win,20240305_h3xr,1,0,1,0,4.2,5,7,2,3.86,2.14,5,3,2024,2023-24,div1,Alvin,alvincommunitycollege,dylandudneybijo,Dylan Dudney
+Feb 21,home,Angelina,L,5-3,5,3,2,win,20240221_5hp5,1,0,0,0,4.0,5,3,3,6.75,2.00,3,4,2024,2023-24,div1,Alvin,alvincommunitycollege,dylandudneybijo,Dylan Dudney
+Feb 13,home,Monroe College,W,13-3,13,3,10,win,20240213_j1z6,1,1,0,0,5.0,3,3,3,5.40,1.00,2,8,2024,2023-24,div1,Alvin,alvincommunitycollege,dylandudneybijo,Dylan Dudney
+Feb 9,home,Navarro,L,11-3,11,3,8,win,20240209_qyyr,0,0,0,0,1.0,1,,,0.00,1.00,,,2024,2023-24,div1,Alvin,alvincommunitycollege,dylandudneybijo,Dylan Dudney
+Feb 4,home,Midland,W,8-3,8,3,5,win,20240204_xr55,1,1,0,0,5.0,5,2,2,3.60,1.40,2,6,2024,2023-24,div1,Alvin,alvincommunitycollege,dylandudneybijo,Dylan Dudney

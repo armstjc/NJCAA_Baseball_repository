@@ -1,11 +1,38 @@
 date,location,opponent,result,score,team_score,opp_score,game_score_diff,game_win_loss,game_id,GS,W,L,SV,IP,H,R,ER,ERA,BB,K,HR,season,njcaa_season,njcaa_division,team,team_id,player_id,player_name
-Apr 12,home,Glendale,L,11-5,11,5,6,win,20240412_wp7w,0,0,0,0,5.1,6,5,5,8.44,2.06,5,5,2024,2023-24,div2,GateWay (AZ),gatewaycommunitycollegeaz,bradenwatkinsl6me,Braden Watkins
-Apr 5,home,Scottsdale,W,9-6,9,6,3,win,20240405_1utk,1,0,0,0,6.2,7,5,4,5.40,1.20,1,7,2024,2023-24,div2,GateWay (AZ),gatewaycommunitycollegeaz,bradenwatkinsl6me,Braden Watkins
-Mar 30,home,Yavapai,L,13-3,13,3,10,win,20240330_nr99,1,0,1,0,4.0,9,6,6,13.50,3.00,3,0,2024,2023-24,div2,GateWay (AZ),gatewaycommunitycollegeaz,bradenwatkinsl6me,Braden Watkins
-Mar 23,home,Pima,L,16-8,16,8,8,win,20240323_0d5i,1,0,1,0,3.0,6,8,6,18.00,3.67,5,1,2024,2023-24,div2,GateWay (AZ),gatewaycommunitycollegeaz,bradenwatkinsl6me,Braden Watkins
-Mar 6,home,Central Arizona,L,5-1,5,1,4,win,20240306_m74i,1,0,1,0,5.2,5,5,5,7.94,1.94,6,1,2024,2023-24,div2,GateWay (AZ),gatewaycommunitycollegeaz,bradenwatkinsl6me,Braden Watkins
-Feb 28,home,Mesa,W,7-4,7,4,3,win,20240228_4u03,1,1,0,0,6.0,6,3,3,4.50,1.17,1,5,2024,2023-24,div2,GateWay (AZ),gatewaycommunitycollegeaz,bradenwatkinsl6me,Braden Watkins
-Feb 21,home,Chandler-Gilbert,L,10-3,10,3,7,win,20240221_bdct,1,0,0,0,5.2,5,1,1,1.59,1.59,4,6,2024,2023-24,div2,GateWay (AZ),gatewaycommunitycollegeaz,bradenwatkinsl6me,Braden Watkins
-Feb 14,home,Paradise Valley,L,8-5,8,5,3,win,20240214_tbqb,1,0,1,0,6.0,2,1,1,1.50,.50,1,4,2024,2023-24,div2,GateWay (AZ),gatewaycommunitycollegeaz,bradenwatkinsl6me,Braden Watkins
-Feb 3,home,New Mexico,L,7-1,7,1,6,win,20240203_i5sx,1,0,1,0,5.1,6,4,4,6.75,1.50,2,3,2024,2023-24,div2,GateWay (AZ),gatewaycommunitycollegeaz,bradenwatkinsl6me,Braden Watkins
-Jan 26,home,Utah State Eastern,L,14-3,14,3,11,win,20240126_j9ua,1,0,1,0,2.0,5,7,4,18.00,4.00,3,2,2024,2023-24,div2,GateWay (AZ),gatewaycommunitycollegeaz,bradenwatkinsl6me,Braden Watkins
+Apr 20,home,Phoenix,W,8-1,8,1,7,win,20240420_12me,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div2,GateWay (AZ),gatewaycommunitycollegeaz,bradenwatkinsl6me,Braden Watkins
+Apr 19,home,Phoenix,W,7-6,7,6,1,win,20240419_g4a4,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div2,GateWay (AZ),gatewaycommunitycollegeaz,bradenwatkinsl6me,Braden Watkins
+Apr 17,home,Chandler-Gilbert,W,15-11,15,11,4,win,20240417_o44e,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div2,GateWay (AZ),gatewaycommunitycollegeaz,bradenwatkinsl6me,Braden Watkins
+Apr 16,home,Chandler-Gilbert,W,4-3,4,3,1,win,20240416_84dv,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div2,GateWay (AZ),gatewaycommunitycollegeaz,bradenwatkinsl6me,Braden Watkins
+Apr 13,home,Glendale,W,10-7,10,7,3,win,20240413_h1gm,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div2,GateWay (AZ),gatewaycommunitycollegeaz,bradenwatkinsl6me,Braden Watkins
+Apr 12,home,Glendale,L,11-5,11,5,6,win,20240412_wp7w,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div2,GateWay (AZ),gatewaycommunitycollegeaz,bradenwatkinsl6me,Braden Watkins
+Apr 10,home,Paradise Valley,L,8-1,8,1,7,win,20240410_5fgn,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div2,GateWay (AZ),gatewaycommunitycollegeaz,bradenwatkinsl6me,Braden Watkins
+Apr 9,home,Paradise Valley,L,7-5,7,5,2,win,20240409_8o3s,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div2,GateWay (AZ),gatewaycommunitycollegeaz,bradenwatkinsl6me,Braden Watkins
+Apr 5,home,Scottsdale,W,9-6,9,6,3,win,20240405_1utk,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div2,GateWay (AZ),gatewaycommunitycollegeaz,bradenwatkinsl6me,Braden Watkins
+Apr 3,home,Arizona Western,L,3-0,3,0,3,win,20240403_9h08,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div2,GateWay (AZ),gatewaycommunitycollegeaz,bradenwatkinsl6me,Braden Watkins
+Apr 3,home,Arizona Western,W,3-2,3,2,1,win,20240403_2n7s,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div2,GateWay (AZ),gatewaycommunitycollegeaz,bradenwatkinsl6me,Braden Watkins
+Mar 30,home,Yavapai,L,12-11,12,11,1,win,20240330_lil0,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div2,GateWay (AZ),gatewaycommunitycollegeaz,bradenwatkinsl6me,Braden Watkins
+Mar 30,home,Yavapai,L,13-3,13,3,10,win,20240330_nr99,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div2,GateWay (AZ),gatewaycommunitycollegeaz,bradenwatkinsl6me,Braden Watkins
+Mar 27,home,South Mountain,W,8-3,8,3,5,win,20240327_cglc,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div2,GateWay (AZ),gatewaycommunitycollegeaz,bradenwatkinsl6me,Braden Watkins
+Mar 26,home,South Mountain,L,12-9,12,9,3,win,20240326_s4b9,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div2,GateWay (AZ),gatewaycommunitycollegeaz,bradenwatkinsl6me,Braden Watkins
+Mar 23,home,Pima,L,16-8,16,8,8,win,20240323_0d5i,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div2,GateWay (AZ),gatewaycommunitycollegeaz,bradenwatkinsl6me,Braden Watkins
+Mar 23,home,Pima,L,4-3,4,3,1,win,20240323_vyak,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div2,GateWay (AZ),gatewaycommunitycollegeaz,bradenwatkinsl6me,Braden Watkins
+Mar 19,home,Eastern Arizona,W,2-0,2,0,2,win,20240319_4h6r,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div2,GateWay (AZ),gatewaycommunitycollegeaz,bradenwatkinsl6me,Braden Watkins
+Mar 14,home,ACU JV,W,7-2,7,2,5,win,20240314_vztv,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div2,GateWay (AZ),gatewaycommunitycollegeaz,bradenwatkinsl6me,Braden Watkins
+Mar 13,home,Madison,W,2-0,2,0,2,win,20240313_mc6j,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div2,GateWay (AZ),gatewaycommunitycollegeaz,bradenwatkinsl6me,Braden Watkins
+Mar 12,home,Okotok Dawgs,L,12-7,12,7,5,win,20240312_3mta,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div2,GateWay (AZ),gatewaycommunitycollegeaz,bradenwatkinsl6me,Braden Watkins
+Feb 29,home,ACU JV,W,6-1,6,1,5,win,20240229_wway,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div2,GateWay (AZ),gatewaycommunitycollegeaz,bradenwatkinsl6me,Braden Watkins
+Feb 28,home,Mesa,W,7-4,7,4,3,win,20240228_4u03,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div2,GateWay (AZ),gatewaycommunitycollegeaz,bradenwatkinsl6me,Braden Watkins
+Feb 27,home,Mesa,L,11-9,11,9,2,win,20240227_xj9b,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div2,GateWay (AZ),gatewaycommunitycollegeaz,bradenwatkinsl6me,Braden Watkins
+Feb 23,home,Phoenix,W,9-4,9,4,5,win,20240223_26wc,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div2,GateWay (AZ),gatewaycommunitycollegeaz,bradenwatkinsl6me,Braden Watkins
+Feb 22,home,Scottsdale,W,11-1,11,1,10,win,20240222_lxf6,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div2,GateWay (AZ),gatewaycommunitycollegeaz,bradenwatkinsl6me,Braden Watkins
+Feb 21,home,Chandler-Gilbert,L,10-3,10,3,7,win,20240221_bdct,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div2,GateWay (AZ),gatewaycommunitycollegeaz,bradenwatkinsl6me,Braden Watkins
+Feb 17,home,Glendale,L,4-3,4,3,1,win,20240217_7v22,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div2,GateWay (AZ),gatewaycommunitycollegeaz,bradenwatkinsl6me,Braden Watkins
+Feb 15,home,Scottsdale,L,9-7,9,7,2,win,20240215_xn26,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div2,GateWay (AZ),gatewaycommunitycollegeaz,bradenwatkinsl6me,Braden Watkins
+Feb 14,home,Paradise Valley,L,8-5,8,5,3,win,20240214_tbqb,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div2,GateWay (AZ),gatewaycommunitycollegeaz,bradenwatkinsl6me,Braden Watkins
+Feb 13,home,Paradise Valley,L,9-5,9,5,4,win,20240213_uugm,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div2,GateWay (AZ),gatewaycommunitycollegeaz,bradenwatkinsl6me,Braden Watkins
+Feb 4,home,Salt Lake,L,9-1,9,1,8,win,20240204_uvyj,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div2,GateWay (AZ),gatewaycommunitycollegeaz,bradenwatkinsl6me,Braden Watkins
+Feb 4,home,El Paso,W,12-1,12,1,11,win,20240204_c5vs,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div2,GateWay (AZ),gatewaycommunitycollegeaz,bradenwatkinsl6me,Braden Watkins
+Feb 3,home,Trinidad State,L,8-3,8,3,5,win,20240203_u8og,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div2,GateWay (AZ),gatewaycommunitycollegeaz,bradenwatkinsl6me,Braden Watkins
+Jan 28,home,Arizona Western,L,14-5,14,5,9,win,20240128_p0ra,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div2,GateWay (AZ),gatewaycommunitycollegeaz,bradenwatkinsl6me,Braden Watkins
+Jan 27,home,Southern Nevada,L,10-5,10,5,5,win,20240127_1nyx,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div2,GateWay (AZ),gatewaycommunitycollegeaz,bradenwatkinsl6me,Braden Watkins
+Jan 26,home,Utah State Eastern,W,8-2,8,2,6,win,20240126_fpe5,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div2,GateWay (AZ),gatewaycommunitycollegeaz,bradenwatkinsl6me,Braden Watkins

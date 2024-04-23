@@ -1,33 +1,36 @@
 date,location,opponent,result,score,team_score,opp_score,game_score_diff,game_win_loss,game_id,TC,PO,A,E,FPCT,DP,SBA,RCS,RCS_PCT,PB,CI,season,njcaa_season,njcaa_division,team,team_id,player_id,player_name
 Feb 16,home,Delaware Tech,L,9-8,9,8,1,win,20240216_alv0,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Cecil,cecilcollege,colinbroshgf75,Colin Brosh
-Feb 16,home,Delaware Tech,W,8-4,8,4,4,win,20240216_zutf,1,1,0,0,6.0,4,4,3,4.50,.67,0,2024,2023-24,div2,Cecil,cecilcollege,colinbroshgf75,Colin Brosh
+Feb 16,home,Delaware Tech,W,8-4,8,4,4,win,20240216_zutf,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Cecil,cecilcollege,colinbroshgf75,Colin Brosh
 Feb 24,home,Westchester,L,8-5,8,5,3,win,20240224_ruy1,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Cecil,cecilcollege,colinbroshgf75,Colin Brosh
-Feb 24,home,Westchester,L,7-5,7,5,2,win,20240224_qtie,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Cecil,cecilcollege,colinbroshgf75,Colin Brosh
 Feb 25,home,Westchester,L,6-2,6,2,4,win,20240225_b4ha,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Cecil,cecilcollege,colinbroshgf75,Colin Brosh
-Feb 25,home,Westchester,L,11-5,11,5,6,win,20240225_q0ma,1,0,0,0,4.0,5,4,1,2.25,1.50,1,2024,2023-24,div2,Cecil,cecilcollege,colinbroshgf75,Colin Brosh
-Mar 3,home,Morris,W,15-5,15,5,10,win,20240303_87ao,0,1,0,0,4.0,1,,,0.00,.75,2,2024,2023-24,div2,Cecil,cecilcollege,colinbroshgf75,Colin Brosh
+Feb 25,home,Westchester,L,11-5,11,5,6,win,20240225_q0ma,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Cecil,cecilcollege,colinbroshgf75,Colin Brosh
+Mar 3,home,Morris,W,15-5,15,5,10,win,20240303_87ao,1,0,0,0,1.0,0,5,3,27.00,6.00,6,2024,2023-24,div2,Cecil,cecilcollege,colinbroshgf75,Colin Brosh
 Mar 3,home,Morris,W,7-0,7,0,7,win,20240303_ok25,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Cecil,cecilcollege,colinbroshgf75,Colin Brosh
-Mar 7,home,Chesapeake,L,7-2,7,2,5,win,20240307_5nl1,1,0,1,0,4.0,6,5,3,6.75,1.75,1,2024,2023-24,div2,Cecil,cecilcollege,colinbroshgf75,Colin Brosh
-Mar 14,home,Finger Lakes,W,9-8,9,8,1,win,20240314_cemy,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Cecil,cecilcollege,colinbroshgf75,Colin Brosh
-Mar 14,home,Finger Lakes,L,10-8,10,8,2,win,20240314_6xds,0,0,0,0,2.0,2,2,1,4.50,1.00,,2024,2023-24,div2,Cecil,cecilcollege,colinbroshgf75,Colin Brosh
-Mar 16,home,Allegany Maryland,L,2-1,2,1,1,win,20240316_flk6,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Cecil,cecilcollege,colinbroshgf75,Colin Brosh
-Mar 16,home,Allegany Maryland,W,15-6,15,6,9,win,20240316_p6jt,0,1,0,0,5.0,7,5,1,1.80,1.60,1,2024,2023-24,div2,Cecil,cecilcollege,colinbroshgf75,Colin Brosh
+Mar 7,home,Chesapeake,L,7-2,7,2,5,win,20240307_5nl1,0,0,0,0,2.0,5,2,2,9.00,2.50,,2024,2023-24,div2,Cecil,cecilcollege,colinbroshgf75,Colin Brosh
+Mar 7,home,Chesapeake,L,7-4,7,4,3,win,20240307_bg6o,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Cecil,cecilcollege,colinbroshgf75,Colin Brosh
+Mar 14,home,Finger Lakes,W,9-8,9,8,1,win,20240314_cemy,0,1,0,0,1.0,,,,0.00,,,2024,2023-24,div2,Cecil,cecilcollege,colinbroshgf75,Colin Brosh
+Mar 14,home,Finger Lakes,L,10-8,10,8,2,win,20240314_6xds,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Cecil,cecilcollege,colinbroshgf75,Colin Brosh
+Mar 16,home,Allegany Maryland,W,15-6,15,6,9,win,20240316_p6jt,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Cecil,cecilcollege,colinbroshgf75,Colin Brosh
 Mar 20,home,CCBC Catonsville,L,10-5,10,5,5,win,20240320_ai0g,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Cecil,cecilcollege,colinbroshgf75,Colin Brosh
-Mar 20,home,CCBC Catonsville,L,15-2,15,2,13,win,20240320_pxo9,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Cecil,cecilcollege,colinbroshgf75,Colin Brosh
-Mar 22,home,Montgomery,L,9-4,9,4,5,win,20240322_ddmt,1,0,1,0,6.0,10,9,2,3.00,2.00,2,2024,2023-24,div2,Cecil,cecilcollege,colinbroshgf75,Colin Brosh
+Mar 20,home,CCBC Catonsville,L,15-2,15,2,13,win,20240320_pxo9,1,0,1,0,2.0,4,8,4,18.00,3.50,3,2024,2023-24,div2,Cecil,cecilcollege,colinbroshgf75,Colin Brosh
+Mar 22,home,Montgomery,L,9-4,9,4,5,win,20240322_ddmt,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Cecil,cecilcollege,colinbroshgf75,Colin Brosh
 Mar 22,home,Montgomery,L,3-0,3,0,3,win,20240322_t860,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Cecil,cecilcollege,colinbroshgf75,Colin Brosh
 Mar 24,home,Potomac State,L,10-0,10,0,10,win,20240324_1fa1,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Cecil,cecilcollege,colinbroshgf75,Colin Brosh
 Mar 24,home,Potomac State,W,9-5,9,5,4,win,20240324_yx2j,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Cecil,cecilcollege,colinbroshgf75,Colin Brosh
-Mar 28,home,Hagerstown,L,10-7,10,7,3,win,20240328_kupy,1,0,1,0,4.0,7,7,7,15.75,3.75,8,2024,2023-24,div2,Cecil,cecilcollege,colinbroshgf75,Colin Brosh
+Mar 28,home,Hagerstown,L,10-7,10,7,3,win,20240328_kupy,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Cecil,cecilcollege,colinbroshgf75,Colin Brosh
 Mar 28,home,Hagerstown,W,6-3,6,3,3,win,20240328_3x0e,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Cecil,cecilcollege,colinbroshgf75,Colin Brosh
 Mar 29,home,CCBC Dundalk,L,12-0,12,0,12,win,20240329_nwcq,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Cecil,cecilcollege,colinbroshgf75,Colin Brosh
 Mar 29,home,CCBC Dundalk,W,17-6,17,6,11,win,20240329_to8g,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Cecil,cecilcollege,colinbroshgf75,Colin Brosh
-Apr 4,home,Harford,L,20-4,20,4,16,win,20240404_x1gl,1,0,1,0,2.0,6,10,2,9.00,4.50,3,2024,2023-24,div2,Cecil,cecilcollege,colinbroshgf75,Colin Brosh
+Apr 4,home,Harford,L,20-4,20,4,16,win,20240404_x1gl,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Cecil,cecilcollege,colinbroshgf75,Colin Brosh
 Apr 4,home,Harford,L,7-4,7,4,3,win,20240404_xvbu,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Cecil,cecilcollege,colinbroshgf75,Colin Brosh
-Apr 9,home,Frederick,L,8-4,8,4,4,win,20240409_3xqu,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Cecil,cecilcollege,colinbroshgf75,Colin Brosh
-Apr 9,home,Frederick,L,7-1,7,1,6,win,20240409_bvog,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Cecil,cecilcollege,colinbroshgf75,Colin Brosh
-Apr 13,home,CCBC Essex,W,27-17,27,17,10,win,20240413_9slv,1,0,0,0,3.1,7,10,10,27.00,3.00,3,2024,2023-24,div2,Cecil,cecilcollege,colinbroshgf75,Colin Brosh
-Apr 13,home,CCBC Essex,L,12-9,12,9,3,win,20240413_qcul,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Cecil,cecilcollege,colinbroshgf75,Colin Brosh
+Apr 9,home,Frederick,L,7-1,7,1,6,win,20240409_bvog,1,0,1,0,4.2,6,7,0,0.00,3.00,8,2024,2023-24,div2,Cecil,cecilcollege,colinbroshgf75,Colin Brosh
+Apr 13,home,CCBC Essex,W,27-17,27,17,10,win,20240413_9slv,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Cecil,cecilcollege,colinbroshgf75,Colin Brosh
+Apr 13,home,CCBC Essex,L,12-9,12,9,3,win,20240413_qcul,1,0,0,0,1.0,4,8,8,72.00,8.00,4,2024,2023-24,div2,Cecil,cecilcollege,colinbroshgf75,Colin Brosh
+Apr 14,home,Anne Arundel,L,5-2,5,2,3,win,20240414_gxad,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Cecil,cecilcollege,colinbroshgf75,Colin Brosh
 Apr 14,home,Anne Arundel,L,9-1,9,1,8,win,20240414_ti46,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Cecil,cecilcollege,colinbroshgf75,Colin Brosh
-Apr 17,home,Prince George's,L,11-1,11,1,10,win,20240417_l8yc,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Cecil,cecilcollege,colinbroshgf75,Colin Brosh
+Apr 17,home,Prince George's,L,11-1,11,1,10,win,20240417_l8yc,0,0,0,0,0.2,,2,2,27.00,3.00,2,2024,2023-24,div2,Cecil,cecilcollege,colinbroshgf75,Colin Brosh
 Apr 17,home,Prince George's,L,14-7,14,7,7,win,20240417_d43x,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Cecil,cecilcollege,colinbroshgf75,Colin Brosh
+Apr 20,home,Westmoreland,W,5-3,5,3,2,win,20240420_0r7d,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Cecil,cecilcollege,colinbroshgf75,Colin Brosh
+Apr 20,home,Westmoreland,L,6-3,6,3,3,win,20240420_28w4,0,0,0,0,1.0,2,2,2,18.00,5.00,3,2024,2023-24,div2,Cecil,cecilcollege,colinbroshgf75,Colin Brosh
+Apr 21,home,Garrett,L,11-1,11,1,10,win,20240421_clk1,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Cecil,cecilcollege,colinbroshgf75,Colin Brosh
+Apr 21,home,Garrett,L,12-2,12,2,10,win,20240421_onmz,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Cecil,cecilcollege,colinbroshgf75,Colin Brosh

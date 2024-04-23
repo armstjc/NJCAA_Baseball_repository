@@ -1,10 +1,39 @@
 date,location,opponent,result,score,team_score,opp_score,game_score_diff,game_win_loss,game_id,GS,W,L,SV,IP,H,R,ER,ERA,BB,K,HR,season,njcaa_season,njcaa_division,team,team_id,player_id,player_name
-Apr 12,home,Amarillo College,W,18-3,18,3,15,win,20240412_8ora,0,0,0,0,1.0,1,,,0.00,1.00,,1,2024,2023-24,div1,New Mexico,newmexicojuniorcollege,montybognarms4v,Monty Bognar
-Apr 5,home,Western Texas,L,9-7,9,7,2,win,20240405_zy3q,0,0,0,0,0.1,1,2,2,54.00,6.00,1,1,2024,2023-24,div1,New Mexico,newmexicojuniorcollege,montybognarms4v,Monty Bognar
-Mar 30,home,El Paso,W,12-2,12,2,10,win,20240330_5paf,0,0,0,0,1.0,1,1,1,9.00,3.00,2,2,2024,2023-24,div1,New Mexico,newmexicojuniorcollege,montybognarms4v,Monty Bognar
-Mar 23,home,Frank Phillips,W,22-13,22,13,9,win,20240323_ayki,0,1,0,0,1.2,1,,,0.00,1.20,1,4,2024,2023-24,div1,New Mexico,newmexicojuniorcollege,montybognarms4v,Monty Bognar
-Mar 15,home,Clarendon,W,12-4,12,4,8,win,20240315_zz71,0,0,0,0,0.2,2,1,1,13.50,3.00,,1,2024,2023-24,div1,New Mexico,newmexicojuniorcollege,montybognarms4v,Monty Bognar
-Mar 2,home,Seward County,W,14-6,14,6,8,win,20240302_jfml,0,0,0,0,1.0,,,,0.00,1.00,1,2,2024,2023-24,div1,New Mexico,newmexicojuniorcollege,montybognarms4v,Monty Bognar
-Feb 19,home,USW (JV),W,11-3,11,3,8,win,20240219_mg5b,0,1,0,0,2.0,,,,0.00,,,3,2024,2023-24,div1,New Mexico,newmexicojuniorcollege,montybognarms4v,Monty Bognar
-Feb 10,home,Dodge City,L,11-5,11,5,6,win,20240210_rdku,0,0,0,0,1.0,2,3,,0.00,4.00,2,1,2024,2023-24,div1,New Mexico,newmexicojuniorcollege,montybognarms4v,Monty Bognar
-Feb 4,home,South Mountain,L,3-2,3,2,1,win,20240204_i0m6,0,0,0,0,0.0,,1,1,INF,,1,,2024,2023-24,div1,New Mexico,newmexicojuniorcollege,montybognarms4v,Monty Bognar
+Apr 19,home,Howard (TX),W,10-2,10,2,8,win,20240419_3d3m,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div1,New Mexico,newmexicojuniorcollege,montybognarms4v,Monty Bognar
+Apr 19,home,Howard (TX),L,6-0,6,0,6,win,20240419_v1w2,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div1,New Mexico,newmexicojuniorcollege,montybognarms4v,Monty Bognar
+Apr 18,home,Howard (TX),W,11-0,11,0,11,win,20240418_lwh6,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div1,New Mexico,newmexicojuniorcollege,montybognarms4v,Monty Bognar
+Apr 18,home,Howard (TX),W,5-0,5,0,5,win,20240418_xxue,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div1,New Mexico,newmexicojuniorcollege,montybognarms4v,Monty Bognar
+Apr 13,home,Amarillo College,W,15-5,15,5,10,win,20240413_t7j4,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div1,New Mexico,newmexicojuniorcollege,montybognarms4v,Monty Bognar
+Apr 12,home,Amarillo College,W,18-3,18,3,15,win,20240412_8ora,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div1,New Mexico,newmexicojuniorcollege,montybognarms4v,Monty Bognar
+Apr 12,home,Amarillo College,W,5-3,5,3,2,win,20240412_sllo,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div1,New Mexico,newmexicojuniorcollege,montybognarms4v,Monty Bognar
+Apr 5,home,Western Texas,L,9-7,9,7,2,win,20240405_zy3q,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div1,New Mexico,newmexicojuniorcollege,montybognarms4v,Monty Bognar
+Apr 5,home,Western Texas,W,18-4,18,4,14,win,20240405_8dnu,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div1,New Mexico,newmexicojuniorcollege,montybognarms4v,Monty Bognar
+Apr 4,home,Western Texas,W,17-2,17,2,15,win,20240404_3rwx,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div1,New Mexico,newmexicojuniorcollege,montybognarms4v,Monty Bognar
+Mar 30,home,El Paso,W,12-2,12,2,10,win,20240330_5paf,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div1,New Mexico,newmexicojuniorcollege,montybognarms4v,Monty Bognar
+Mar 30,home,El Paso,W,15-7,15,7,8,win,20240330_0ppm,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div1,New Mexico,newmexicojuniorcollege,montybognarms4v,Monty Bognar
+Mar 29,home,El Paso,W,11-2,11,2,9,win,20240329_g5rz,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div1,New Mexico,newmexicojuniorcollege,montybognarms4v,Monty Bognar
+Mar 29,home,El Paso,L,11-10,11,10,1,win,20240329_c12f,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div1,New Mexico,newmexicojuniorcollege,montybognarms4v,Monty Bognar
+Mar 23,home,Frank Phillips,W,22-13,22,13,9,win,20240323_ayki,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div1,New Mexico,newmexicojuniorcollege,montybognarms4v,Monty Bognar
+Mar 23,home,Frank Phillips,W,10-0,10,0,10,win,20240323_7dt1,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div1,New Mexico,newmexicojuniorcollege,montybognarms4v,Monty Bognar
+Mar 22,home,Frank Phillips,W,9-0,9,0,9,win,20240322_qb5f,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div1,New Mexico,newmexicojuniorcollege,montybognarms4v,Monty Bognar
+Mar 15,home,Clarendon,W,12-4,12,4,8,win,20240315_zz71,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div1,New Mexico,newmexicojuniorcollege,montybognarms4v,Monty Bognar
+Mar 15,home,Clarendon,W,10-3,10,3,7,win,20240315_rzlk,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div1,New Mexico,newmexicojuniorcollege,montybognarms4v,Monty Bognar
+Mar 14,home,Clarendon,W,19-0,19,0,19,win,20240314_30dl,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div1,New Mexico,newmexicojuniorcollege,montybognarms4v,Monty Bognar
+Mar 14,home,Clarendon,W,21-2,21,2,19,win,20240314_mekv,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div1,New Mexico,newmexicojuniorcollege,montybognarms4v,Monty Bognar
+Mar 9,home,New Mexico Military,W,8-6,8,6,2,win,20240309_wthd,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div1,New Mexico,newmexicojuniorcollege,montybognarms4v,Monty Bognar
+Mar 9,home,New Mexico Military,L,4-3,4,3,1,win,20240309_xuc4,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div1,New Mexico,newmexicojuniorcollege,montybognarms4v,Monty Bognar
+Mar 8,home,New Mexico Military,L,10-8,10,8,2,win,20240308_lsqc,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div1,New Mexico,newmexicojuniorcollege,montybognarms4v,Monty Bognar
+Mar 8,home,New Mexico Military,W,7-6,7,6,1,win,20240308_4he7,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div1,New Mexico,newmexicojuniorcollege,montybognarms4v,Monty Bognar
+Mar 2,home,Seward County,W,14-6,14,6,8,win,20240302_jfml,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div1,New Mexico,newmexicojuniorcollege,montybognarms4v,Monty Bognar
+Mar 1,home,Seward County,W,11-1,11,1,10,win,20240301_0yyt,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div1,New Mexico,newmexicojuniorcollege,montybognarms4v,Monty Bognar
+Mar 1,home,Seward County,W,7-1,7,1,6,win,20240301_b5ip,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div1,New Mexico,newmexicojuniorcollege,montybognarms4v,Monty Bognar
+Feb 16,home,Kansas City Kansas,L,6-0,6,0,6,win,20240216_ke2l,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div1,New Mexico,newmexicojuniorcollege,montybognarms4v,Monty Bognar
+Feb 15,home,North Central Texas,W,3-1,3,1,2,win,20240215_qzdx,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div1,New Mexico,newmexicojuniorcollege,montybognarms4v,Monty Bognar
+Feb 15,home,North Central Texas,W,15-5,15,5,10,win,20240215_mbil,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div1,New Mexico,newmexicojuniorcollege,montybognarms4v,Monty Bognar
+Feb 10,home,Dodge City,W,13-5,13,5,8,win,20240210_qrtg,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div1,New Mexico,newmexicojuniorcollege,montybognarms4v,Monty Bognar
+Feb 9,home,Dodge City,L,11-7,11,7,4,win,20240209_ar2z,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div1,New Mexico,newmexicojuniorcollege,montybognarms4v,Monty Bognar
+Feb 4,home,South Mountain,L,3-2,3,2,1,win,20240204_i0m6,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div1,New Mexico,newmexicojuniorcollege,montybognarms4v,Monty Bognar
+Feb 3,home,GateWay (AZ),W,7-1,7,1,6,win,20240203_i5sx,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div1,New Mexico,newmexicojuniorcollege,montybognarms4v,Monty Bognar
+Feb 3,home,Pima,L,6-0,6,0,6,win,20240203_xden,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div1,New Mexico,newmexicojuniorcollege,montybognarms4v,Monty Bognar
+Jan 28,home,New Mexico Military,W,12-4,12,4,8,win,20240128_r73g,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div1,New Mexico,newmexicojuniorcollege,montybognarms4v,Monty Bognar
+Jan 27,home,Garden City,W,10-1,10,1,9,win,20240127_vk9w,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div1,New Mexico,newmexicojuniorcollege,montybognarms4v,Monty Bognar

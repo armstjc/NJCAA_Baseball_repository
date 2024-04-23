@@ -1,11 +1,17 @@
 date,location,opponent,result,score,team_score,opp_score,game_score_diff,game_win_loss,game_id,GS,W,L,SV,IP,H,R,ER,ERA,BB,K,HR,season,njcaa_season,njcaa_division,team,team_id,player_id,player_name
-Apr 16,home,Rockingham,W,14-2,14,2,12,win,20240416_xa07,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div1,Gaston College,gastoncollege,jjdevos3657,J.J. DeVos
-Apr 14,home,Cleveland,W,18-4,18,4,14,win,20240414_lska,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div1,Gaston College,gastoncollege,jjdevos3657,J.J. DeVos
-Apr 13,home,Cleveland,W,15-5,15,5,10,win,20240413_s0z5,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div1,Gaston College,gastoncollege,jjdevos3657,J.J. DeVos
-Apr 6,home,USC Union,W,31-11,31,11,20,win,20240406_wn1s,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div1,Gaston College,gastoncollege,jjdevos3657,J.J. DeVos
-Mar 24,home,USC Salkehatchie,W,17-1,17,1,16,win,20240324_v0rh,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div1,Gaston College,gastoncollege,jjdevos3657,J.J. DeVos
-Mar 23,home,USC Salkehatchie,W,7-5,7,5,2,win,20240323_1vuu,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div1,Gaston College,gastoncollege,jjdevos3657,J.J. DeVos
-Mar 17,home,USC Lancaster,W,7-6,7,6,1,win,20240317_otyt,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div1,Gaston College,gastoncollege,jjdevos3657,J.J. DeVos
-Mar 11,home,USC Sumter,W,9-4,9,4,5,win,20240311_v4sm,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div1,Gaston College,gastoncollege,jjdevos3657,J.J. DeVos
-Mar 5,home,Rockingham,W,12-2,12,2,10,win,20240305_yniz,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div1,Gaston College,gastoncollege,jjdevos3657,J.J. DeVos
-Mar 2,home,Frontier,W,6-5,6,5,1,win,20240302_6y40,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div1,Gaston College,gastoncollege,jjdevos3657,J.J. DeVos
+Apr 20,home,Florence-Darlington Tech,L,10-7,10,7,3,win,20240420_cv6k,0,0,0,0,1.0,2,3,3,27.00,3.00,1,,2024,2023-24,div1,Gaston College,gastoncollege,jjdevos3657,J.J. DeVos
+Apr 13,home,Cleveland,W,15-5,15,5,10,win,20240413_s0z5,0,1,0,0,4.0,2,,,0.00,.50,,3,2024,2023-24,div1,Gaston College,gastoncollege,jjdevos3657,J.J. DeVos
+Apr 6,home,USC Union,L,5-4,5,4,1,win,20240406_gai3,0,0,0,0,0.2,2,,,0.00,3.00,,,2024,2023-24,div1,Gaston College,gastoncollege,jjdevos3657,J.J. DeVos
+Mar 30,home,Spartanburg Methodist,W,8-2,8,2,6,win,20240330_m83a,0,0,0,0,0.1,,,,0.00,,,,2024,2023-24,div1,Gaston College,gastoncollege,jjdevos3657,J.J. DeVos
+Mar 24,home,USC Salkehatchie,W,10-0,10,0,10,win,20240324_ncp2,0,0,0,0,1.0,1,,,0.00,1.00,,1,2024,2023-24,div1,Gaston College,gastoncollege,jjdevos3657,J.J. DeVos
+Mar 19,home,Catawba Valley,W,19-8,19,8,11,win,20240319_xkew,0,0,0,0,2.0,7,3,2,9.00,4.00,1,1,2024,2023-24,div1,Gaston College,gastoncollege,jjdevos3657,J.J. DeVos
+Mar 17,home,USC Lancaster,W,21-10,21,10,11,win,20240317_bxkt,0,0,0,0,1.1,,,,0.00,,,3,2024,2023-24,div1,Gaston College,gastoncollege,jjdevos3657,J.J. DeVos
+Mar 10,home,USC Sumter,W,14-11,14,11,3,win,20240310_twqw,0,1,0,0,1.1,,1,,0.00,.75,1,2,2024,2023-24,div1,Gaston College,gastoncollege,jjdevos3657,J.J. DeVos
+Mar 2,home,Frontier,W,8-7,8,7,1,win,20240302_9w47,0,0,0,0,2.0,1,,,0.00,1.00,1,1,2024,2023-24,div1,Gaston College,gastoncollege,jjdevos3657,J.J. DeVos
+Feb 28,home,Catawba Valley,W,10-6,10,6,4,win,20240228_v0qt,0,0,0,0,2.0,,,,0.00,.50,1,1,2024,2023-24,div1,Gaston College,gastoncollege,jjdevos3657,J.J. DeVos
+Feb 24,home,Pro 5 Academy,W,13-3,13,3,10,win,20240224_nta9,0,0,0,0,1.0,,,,0.00,1.00,1,1,2024,2023-24,div1,Gaston College,gastoncollege,jjdevos3657,J.J. DeVos
+Feb 14,home,Patrick & Henry,W,13-3,13,3,10,win,20240214_pt8v,0,0,0,0,0.2,1,,,0.00,1.50,,,2024,2023-24,div1,Gaston College,gastoncollege,jjdevos3657,J.J. DeVos
+Feb 10,home,Cleveland,W,8-4,8,4,4,win,20240210_wbuz,0,0,0,0,0.1,3,1,1,27.00,9.00,,,2024,2023-24,div1,Gaston College,gastoncollege,jjdevos3657,J.J. DeVos
+Feb 7,home,Fayetteville Tech,W,8-2,8,2,6,win,20240207_u9h6,0,1,0,0,1.1,1,,,0.00,.75,,1,2024,2023-24,div1,Gaston College,gastoncollege,jjdevos3657,J.J. DeVos
+Feb 2,home,Walters State,W,3-2,3,2,1,win,20240202_ic0h,0,1,0,0,0.2,1,,,0.00,1.50,,,2024,2023-24,div1,Gaston College,gastoncollege,jjdevos3657,J.J. DeVos
+Jan 28,home,Guilford Tech,W,10-2,10,2,8,win,20240128_9ieh,0,0,0,0,0.1,,,,0.00,3.00,1,1,2024,2023-24,div1,Gaston College,gastoncollege,jjdevos3657,J.J. DeVos

@@ -1,38 +1,11 @@
 date,location,opponent,result,score,team_score,opp_score,game_score_diff,game_win_loss,game_id,TC,PO,A,E,FPCT,DP,SBA,RCS,RCS_PCT,PB,CI,season,njcaa_season,njcaa_division,team,team_id,player_id,player_name
-Feb 9,home,New Mexico Military,L,4-3,4,3,1,win,20240209_lbu0,1,0,1,0,5.0,8,4,3,5.40,2.00,2,2024,2023-24,div1,Western Nebraska,westernnebraskacommunitycollege,huntermccollumi9jr,Hunter McCollum
-Feb 9,home,New Mexico Military,L,7-0,7,0,7,win,20240209_ofcc,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Western Nebraska,westernnebraskacommunitycollege,huntermccollumi9jr,Hunter McCollum
-Feb 10,home,New Mexico Military,W,16-5,16,5,11,win,20240210_ghef,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Western Nebraska,westernnebraskacommunitycollege,huntermccollumi9jr,Hunter McCollum
-Feb 18,home,Barton,L,7-5,7,5,2,win,20240218_xtrq,1,0,1,0,4.2,8,7,7,13.50,2.36,3,2024,2023-24,div1,Western Nebraska,westernnebraskacommunitycollege,huntermccollumi9jr,Hunter McCollum
-Feb 18,home,Barton,L,8-5,8,5,3,win,20240218_fvju,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Western Nebraska,westernnebraskacommunitycollege,huntermccollumi9jr,Hunter McCollum
-Feb 19,home,Barton,L,4-1,4,1,3,win,20240219_maum,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Western Nebraska,westernnebraskacommunitycollege,huntermccollumi9jr,Hunter McCollum
-Feb 24,home,Miles,L,8-6,8,6,2,win,20240224_c6tl,1,0,1,0,5.0,7,8,7,12.60,1.80,2,2024,2023-24,div1,Western Nebraska,westernnebraskacommunitycollege,huntermccollumi9jr,Hunter McCollum
-Feb 24,home,Miles,W,17-3,17,3,14,win,20240224_70dy,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Western Nebraska,westernnebraskacommunitycollege,huntermccollumi9jr,Hunter McCollum
-Feb 25,home,Miles,W,16-4,16,4,12,win,20240225_14aw,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Western Nebraska,westernnebraskacommunitycollege,huntermccollumi9jr,Hunter McCollum
-Feb 25,home,Miles,W,19-6,19,6,13,win,20240225_mw4c,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Western Nebraska,westernnebraskacommunitycollege,huntermccollumi9jr,Hunter McCollum
-Mar 1,home,Dawson,W,17-4,17,4,13,win,20240301_ah6x,1,1,0,0,0.0,0,0,0,0.00,,0,2024,2023-24,div1,Western Nebraska,westernnebraskacommunitycollege,huntermccollumi9jr,Hunter McCollum
-Mar 1,home,Dawson,W,10-2,10,2,8,win,20240301_zfnn,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Western Nebraska,westernnebraskacommunitycollege,huntermccollumi9jr,Hunter McCollum
-Mar 2,home,Dawson,W,11-1,11,1,10,win,20240302_zyie,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Western Nebraska,westernnebraskacommunitycollege,huntermccollumi9jr,Hunter McCollum
-Mar 2,home,Dawson,W,10-5,10,5,5,win,20240302_xgam,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Western Nebraska,westernnebraskacommunitycollege,huntermccollumi9jr,Hunter McCollum
-Mar 6,home,Northeast,L,13-3,13,3,10,win,20240306_mpna,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Western Nebraska,westernnebraskacommunitycollege,huntermccollumi9jr,Hunter McCollum
-Mar 10,home,Madison,L,4-1,4,1,3,win,20240310_wgkd,1,0,1,0,6.0,6,4,1,1.50,1.67,4,2024,2023-24,div1,Western Nebraska,westernnebraskacommunitycollege,huntermccollumi9jr,Hunter McCollum
-Mar 11,home,Central Arizona,L,8-1,8,1,7,win,20240311_nm91,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Western Nebraska,westernnebraskacommunitycollege,huntermccollumi9jr,Hunter McCollum
-Mar 11,home,Central Arizona,L,13-0,13,0,13,win,20240311_1ggs,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Western Nebraska,westernnebraskacommunitycollege,huntermccollumi9jr,Hunter McCollum
-Mar 13,home,South Mountain,L,19-7,19,7,12,win,20240313_bv9j,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Western Nebraska,westernnebraskacommunitycollege,huntermccollumi9jr,Hunter McCollum
-Mar 15,home,Paradise Valley,W,7-4,7,4,3,win,20240315_0s4s,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Western Nebraska,westernnebraskacommunitycollege,huntermccollumi9jr,Hunter McCollum
-Mar 22,home,Luna,W,10-9,10,9,1,win,20240322_9a36,1,0,0,0,6.0,7,6,5,7.50,1.50,2,2024,2023-24,div1,Western Nebraska,westernnebraskacommunitycollege,huntermccollumi9jr,Hunter McCollum
-Mar 22,home,Luna,W,13-1,13,1,12,win,20240322_17o8,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Western Nebraska,westernnebraskacommunitycollege,huntermccollumi9jr,Hunter McCollum
-Mar 23,home,Luna,W,6-5,6,5,1,win,20240323_fwz7,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Western Nebraska,westernnebraskacommunitycollege,huntermccollumi9jr,Hunter McCollum
-Mar 23,home,Luna,W,7-5,7,5,2,win,20240323_bm3k,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Western Nebraska,westernnebraskacommunitycollege,huntermccollumi9jr,Hunter McCollum
-Mar 29,home,Trinidad State,W,11-2,11,2,9,win,20240329_9ybj,1,1,0,0,6.0,6,2,2,3.00,1.33,2,2024,2023-24,div1,Western Nebraska,westernnebraskacommunitycollege,huntermccollumi9jr,Hunter McCollum
-Mar 29,home,Trinidad State,W,7-5,7,5,2,win,20240329_fgl5,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Western Nebraska,westernnebraskacommunitycollege,huntermccollumi9jr,Hunter McCollum
-Mar 30,home,Trinidad State,W,5-2,5,2,3,win,20240330_soo4,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Western Nebraska,westernnebraskacommunitycollege,huntermccollumi9jr,Hunter McCollum
-Mar 30,home,Trinidad State,L,16-15,16,15,1,win,20240330_ygn7,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Western Nebraska,westernnebraskacommunitycollege,huntermccollumi9jr,Hunter McCollum
-Apr 2,home,Garden City,L,8-4,8,4,4,win,20240402_urve,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Western Nebraska,westernnebraskacommunitycollege,huntermccollumi9jr,Hunter McCollum
-Apr 7,home,Lamar,W,11-6,11,6,5,win,20240407_0m05,1,1,0,0,6.0,9,6,4,6.00,2.00,3,2024,2023-24,div1,Western Nebraska,westernnebraskacommunitycollege,huntermccollumi9jr,Hunter McCollum
-Apr 7,home,Lamar,W,17-2,17,2,15,win,20240407_vg8y,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Western Nebraska,westernnebraskacommunitycollege,huntermccollumi9jr,Hunter McCollum
-Apr 8,home,Lamar,W,8-2,8,2,6,win,20240408_4rhz,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Western Nebraska,westernnebraskacommunitycollege,huntermccollumi9jr,Hunter McCollum
-Apr 8,home,Lamar,W,10-1,10,1,9,win,20240408_d5ft,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Western Nebraska,westernnebraskacommunitycollege,huntermccollumi9jr,Hunter McCollum
-Apr 13,home,Otero,L,14-3,14,3,11,win,20240413_l96t,1,0,1,0,4.0,12,9,9,20.25,3.50,2,2024,2023-24,div1,Western Nebraska,westernnebraskacommunitycollege,huntermccollumi9jr,Hunter McCollum
-Apr 13,home,Otero,L,9-2,9,2,7,win,20240413_z395,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Western Nebraska,westernnebraskacommunitycollege,huntermccollumi9jr,Hunter McCollum
-Apr 14,home,Otero,L,4-1,4,1,3,win,20240414_v4kj,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Western Nebraska,westernnebraskacommunitycollege,huntermccollumi9jr,Hunter McCollum
-Apr 14,home,Otero,W,22-12,22,12,10,win,20240414_vhtn,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Western Nebraska,westernnebraskacommunitycollege,huntermccollumi9jr,Hunter McCollum
+Feb 10,home,New Mexico Military,L,11-10,11,10,1,win,20240210_zvcy,0,0,0,0,2.0,,1,,0.00,.50,1,2024,2023-24,div1,Western Nebraska,westernnebraskacommunitycollege,huntermccollumi9jr,Hunter McCollum
+Feb 19,home,Barton,L,8-5,8,5,3,win,20240219_piig,0,0,0,0,2.0,1,2,,0.00,1.00,1,2024,2023-24,div1,Western Nebraska,westernnebraskacommunitycollege,huntermccollumi9jr,Hunter McCollum
+Feb 25,home,Miles,W,19-6,19,6,13,win,20240225_mw4c,0,0,0,0,1.0,1,,,0.00,2.00,1,2024,2023-24,div1,Western Nebraska,westernnebraskacommunitycollege,huntermccollumi9jr,Hunter McCollum
+Mar 2,home,Dawson,W,10-5,10,5,5,win,20240302_xgam,0,1,0,0,2.0,1,,,0.00,.50,,2024,2023-24,div1,Western Nebraska,westernnebraskacommunitycollege,huntermccollumi9jr,Hunter McCollum
+Mar 11,home,Central Arizona,L,8-1,8,1,7,win,20240311_nm91,0,0,0,0,1.2,3,3,3,16.20,1.80,,2024,2023-24,div1,Western Nebraska,westernnebraskacommunitycollege,huntermccollumi9jr,Hunter McCollum
+Mar 14,home,Mesa,L,12-1,12,1,11,win,20240314_pfbc,1,0,1,0,4.0,3,2,0,0.00,1.00,1,2024,2023-24,div1,Western Nebraska,westernnebraskacommunitycollege,huntermccollumi9jr,Hunter McCollum
+Mar 22,home,Luna,W,10-9,10,9,1,win,20240322_9a36,0,1,0,0,1.0,2,3,3,27.00,3.00,1,2024,2023-24,div1,Western Nebraska,westernnebraskacommunitycollege,huntermccollumi9jr,Hunter McCollum
+Mar 30,home,Trinidad State,L,16-15,16,15,1,win,20240330_ygn7,0,0,0,0,1.0,2,5,5,45.00,4.00,2,2024,2023-24,div1,Western Nebraska,westernnebraskacommunitycollege,huntermccollumi9jr,Hunter McCollum
+Apr 2,home,Garden City,L,8-0,8,0,8,win,20240402_v6kl,0,0,0,0,2.0,1,,,0.00,1.00,1,2024,2023-24,div1,Western Nebraska,westernnebraskacommunitycollege,huntermccollumi9jr,Hunter McCollum
+Apr 14,home,Otero,L,4-1,4,1,3,win,20240414_v4kj,0,0,0,0,1.0,2,2,1,9.00,3.00,1,2024,2023-24,div1,Western Nebraska,westernnebraskacommunitycollege,huntermccollumi9jr,Hunter McCollum

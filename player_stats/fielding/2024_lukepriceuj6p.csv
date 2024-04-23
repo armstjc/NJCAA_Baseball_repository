@@ -1,14 +1,9 @@
 date,location,opponent,result,score,team_score,opp_score,game_score_diff,game_win_loss,game_id,TC,PO,A,E,FPCT,DP,SBA,RCS,RCS_PCT,PB,CI,season,njcaa_season,njcaa_division,team,team_id,player_id,player_name
-Feb 3,home,Lurleen B. Wallace,L,16-6,16,6,10,win,20240203_c5z0,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Calhoun,calhouncommunitycollege,lukepriceuj6p,Luke Price
-Feb 8,home,Itawamba,L,5-4,5,4,1,win,20240208_7a1b,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Calhoun,calhouncommunitycollege,lukepriceuj6p,Luke Price
-Feb 14,home,Itawamba,W,8-6,8,6,2,win,20240214_nibd,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Calhoun,calhouncommunitycollege,lukepriceuj6p,Luke Price
-Feb 20,home,Volunteer State,W,18-7,18,7,11,win,20240220_izaf,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Calhoun,calhouncommunitycollege,lukepriceuj6p,Luke Price
-Feb 24,home,Holmes,W,12-4,12,4,8,win,20240224_59ex,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Calhoun,calhouncommunitycollege,lukepriceuj6p,Luke Price
-Mar 2,home,Shawnee,W,6-5,6,5,1,win,20240302_d85z,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Calhoun,calhouncommunitycollege,lukepriceuj6p,Luke Price
-Mar 17,home,Snead State,W,7-4,7,4,3,win,20240317_pa3e,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Calhoun,calhouncommunitycollege,lukepriceuj6p,Luke Price
-Mar 21,home,Shelton State,L,14-0,14,0,14,win,20240321_ho5n,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Calhoun,calhouncommunitycollege,lukepriceuj6p,Luke Price
-Mar 28,home,Coastal Alabama - South,L,7-2,7,2,5,win,20240328_vci3,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Calhoun,calhouncommunitycollege,lukepriceuj6p,Luke Price
-Mar 28,home,Coastal Alabama - South,L,5-4,5,4,1,win,20240328_5ph8,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Calhoun,calhouncommunitycollege,lukepriceuj6p,Luke Price
-Mar 30,home,Coastal Alabama - South,L,4-0,4,0,4,win,20240330_30ut,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Calhoun,calhouncommunitycollege,lukepriceuj6p,Luke Price
-Apr 4,home,Gadsden State,W,11-9,11,9,2,win,20240404_ylq0,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Calhoun,calhouncommunitycollege,lukepriceuj6p,Luke Price
-Apr 13,home,Northwest-Shoals Community College,L,9-4,9,4,5,win,20240413_q9r7,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Calhoun,calhouncommunitycollege,lukepriceuj6p,Luke Price
+Feb 3,home,Lurleen B. Wallace,L,16-6,16,6,10,win,20240203_c5z0,0,0,0,0,1.0,4,4,4,36.00,4.00,,2024,2023-24,div1,Calhoun,calhouncommunitycollege,lukepriceuj6p,Luke Price
+Feb 24,home,Holmes,W,12-4,12,4,8,win,20240224_59ex,0,0,0,0,1.1,,1,,0.00,1.50,2,2024,2023-24,div1,Calhoun,calhouncommunitycollege,lukepriceuj6p,Luke Price
+Mar 17,home,Snead State,L,5-2,5,2,3,win,20240317_048b,0,0,0,0,0.2,,,,0.00,1.50,1,2024,2023-24,div1,Calhoun,calhouncommunitycollege,lukepriceuj6p,Luke Price
+Mar 19,home,Columbia State,L,10-6,10,6,4,win,20240319_8zbs,0,0,0,0,1.0,,,,0.00,,,2024,2023-24,div1,Calhoun,calhouncommunitycollege,lukepriceuj6p,Luke Price
+Mar 21,home,Shelton State,L,14-0,14,0,14,win,20240321_ho5n,0,0,0,0,0.1,1,,,0.00,3.00,,2024,2023-24,div1,Calhoun,calhouncommunitycollege,lukepriceuj6p,Luke Price
+Mar 30,home,Coastal Alabama - South,L,16-6,16,6,10,win,20240330_j6g0,0,0,0,0,0.1,,,,0.00,,,2024,2023-24,div1,Calhoun,calhouncommunitycollege,lukepriceuj6p,Luke Price
+Apr 6,home,Gadsden State,L,15-5,15,5,10,win,20240406_eq5k,0,0,0,0,1.1,2,3,3,20.25,3.75,3,2024,2023-24,div1,Calhoun,calhouncommunitycollege,lukepriceuj6p,Luke Price
+Apr 11,home,Northwest-Shoals Community College,L,10-1,10,1,9,win,20240411_dv71,0,0,0,0,0.2,3,4,2,27.00,6.00,1,2024,2023-24,div1,Calhoun,calhouncommunitycollege,lukepriceuj6p,Luke Price

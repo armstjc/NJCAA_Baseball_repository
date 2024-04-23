@@ -1,7 +1,19 @@
 date,location,opponent,result,score,team_score,opp_score,game_score_diff,game_win_loss,game_id,AB,R,H,2B,3B,HR,RBI,BB,K,SB,CS,HBP,SF,SH,TB,XBH,HDP,GO,FO,GO/FO,PA,season,njcaa_season,njcaa_division,team,team_id,player_id,player_name
-Feb 16,home,Volunteer State,W,8-4,8,4,4,win,20240216_cy6j,0,0,0,,,,0,,,1,,,,,0,0,,,,,0,2024,2023-24,div2,Jackson,jacksoncollege,levilanemjj9,Levi Lane
-Feb 26,home,Spring Arbor University,W,15-0,15,0,15,win,20240226_a7st,2,1,1,,,,0,1,,,,,,,1,0,,,,,3,2024,2023-24,div2,Jackson,jacksoncollege,levilanemjj9,Levi Lane
-Mar 3,home,Dakota County Tech,W,12-7,12,7,5,win,20240303_9bbp,3,1,1,,,,0,,2,,,,,,1,0,,,,,3,2024,2023-24,div2,Jackson,jacksoncollege,levilanemjj9,Levi Lane
-Mar 6,home,Bryant & Stratton (OH),W,7-1,7,1,6,win,20240306_ixib,0,2,0,,,,0,,,2,,,,,0,0,,,,,0,2024,2023-24,div2,Jackson,jacksoncollege,levilanemjj9,Levi Lane
-Apr 4,home,Macomb,W,7-4,7,4,3,win,20240404_nwtc,0,1,0,,,,0,,,,,,,,0,0,,,,,0,2024,2023-24,div2,Jackson,jacksoncollege,levilanemjj9,Levi Lane
-Apr 13,home,St. Clair County,W,10-0,10,0,10,win,20240413_s2oy,0,0,0,,,,0,,,,,,,,0,0,,,,,0,2024,2023-24,div2,Jackson,jacksoncollege,levilanemjj9,Levi Lane
+Feb 16,home,Volunteer State,W,8-4,8,4,4,win,20240216_cy6j,2,2,0,,,,0,2,1,1,,,,,0,0,,1,,,4,2024,2023-24,div2,Jackson,jacksoncollege,levilanemjj9,Levi Lane
+Feb 26,home,Spring Arbor University,W,15-0,15,0,15,win,20240226_a7st,0,2,0,,,,0,2,,2,,1,,,0,0,,,,,3,2024,2023-24,div2,Jackson,jacksoncollege,levilanemjj9,Levi Lane
+Mar 2,home,Bryant & Stratton College (WI),W,4-2,4,2,2,win,20240302_bqlt,0,0,0,,,,0,,,2,,,,,0,0,,,,,0,2024,2023-24,div2,Jackson,jacksoncollege,levilanemjj9,Levi Lane
+Mar 3,home,Dakota County Tech,W,12-7,12,7,5,win,20240303_9bbp,0,1,0,,,,0,,,,,,,,0,0,,,,,0,2024,2023-24,div2,Jackson,jacksoncollege,levilanemjj9,Levi Lane
+Mar 6,home,Bryant & Stratton (OH),W,7-1,7,1,6,win,20240306_ixib,2,1,1,,,,1,1,,2,,,,,1,0,,,,,3,2024,2023-24,div2,Jackson,jacksoncollege,levilanemjj9,Levi Lane
+Mar 6,home,Bryant & Stratton (OH),W,5-0,5,0,5,win,20240306_uaur,0,0,0,,,,0,,,1,,,,,0,0,,,,,0,2024,2023-24,div2,Jackson,jacksoncollege,levilanemjj9,Levi Lane
+Mar 13,home,Siena Heights,W,13-1,13,1,12,win,20240313_e6qd,4,2,2,,,,2,,,,,,,,2,0,,,,,4,2024,2023-24,div2,Jackson,jacksoncollege,levilanemjj9,Levi Lane
+Mar 15,home,Concordia University AA,W,10-3,10,3,7,win,20240315_qmnl,4,0,2,1,,,1,1,,,1,,,,3,1,,,,,5,2024,2023-24,div2,Jackson,jacksoncollege,levilanemjj9,Levi Lane
+Mar 21,home,St. Clair County,W,5-4,5,4,1,win,20240321_0m4d,3,0,0,,,,0,,1,,,,,,0,0,,,,,3,2024,2023-24,div2,Jackson,jacksoncollege,levilanemjj9,Levi Lane
+Mar 25,home,Henry Ford,W,7-3,7,3,4,win,20240325_e81n,5,1,0,,,,2,,,,,,,,0,0,,,,,5,2024,2023-24,div2,Jackson,jacksoncollege,levilanemjj9,Levi Lane
+Mar 28,home,Schoolcraft,W,12-6,12,6,6,win,20240328_wj9w,3,3,1,,,,0,1,,1,1,,,1,1,0,,,,,5,2024,2023-24,div2,Jackson,jacksoncollege,levilanemjj9,Levi Lane
+Apr 13,home,St. Clair County,W,10-0,10,0,10,win,20240413_s2oy,0,2,0,,,,0,,,2,,,,,0,0,,,,,0,2024,2023-24,div2,Jackson,jacksoncollege,levilanemjj9,Levi Lane
+Apr 13,home,St. Clair County,W,10-0,10,0,10,win,20240413_czry,2,2,2,,1,,1,,,1,,1,,,4,1,,,,,3,2024,2023-24,div2,Jackson,jacksoncollege,levilanemjj9,Levi Lane
+Apr 14,home,St. Clair County,W,2-1,2,1,1,win,20240414_9505,3,0,0,,,,0,,1,,,,,,0,0,,,,,3,2024,2023-24,div2,Jackson,jacksoncollege,levilanemjj9,Levi Lane
+Apr 14,home,St. Clair County,W,11-3,11,3,8,win,20240414_o0jg,3,2,2,,,,0,1,1,2,,,,,2,0,,,,,4,2024,2023-24,div2,Jackson,jacksoncollege,levilanemjj9,Levi Lane
+Apr 18,home,Henry Ford,W,4-3,4,3,1,win,20240418_zhi1,3,1,1,,,,1,,,1,,,,,1,0,,,,,3,2024,2023-24,div2,Jackson,jacksoncollege,levilanemjj9,Levi Lane
+Apr 20,home,Henry Ford,W,2-1,2,1,1,win,20240420_09g7,1,0,1,,,,0,,,2,,1,,,1,0,,,,,2,2024,2023-24,div2,Jackson,jacksoncollege,levilanemjj9,Levi Lane
+Apr 20,home,Henry Ford,W,6-1,6,1,5,win,20240420_xbfz,2,2,1,,,,0,,,2,,1,,,1,0,,,,,3,2024,2023-24,div2,Jackson,jacksoncollege,levilanemjj9,Levi Lane

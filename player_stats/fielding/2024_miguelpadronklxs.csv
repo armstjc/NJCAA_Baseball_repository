@@ -1,13 +1,28 @@
 date,location,opponent,result,score,team_score,opp_score,game_score_diff,game_win_loss,game_id,TC,PO,A,E,FPCT,DP,SBA,RCS,RCS_PCT,PB,CI,season,njcaa_season,njcaa_division,team,team_id,player_id,player_name
-Feb 16,home,Lake Land,W,10-6,10,6,4,win,20240216_i7kz,0,1,0,0,5.0,2,,,0.00,.60,1,2024,2023-24,div1,Indian Hills,indianhillscommunitycollege,miguelpadronklxs,Miguel Padron
-Feb 24,home,Elgin,W,8-2,8,2,6,win,20240224_vgwa,1,1,0,0,5.0,2,2,2,3.60,1.20,4,2024,2023-24,div1,Indian Hills,indianhillscommunitycollege,miguelpadronklxs,Miguel Padron
-Mar 1,home,Cowley,L,14-4,14,4,10,win,20240301_jobb,1,0,1,0,2.0,6,7,5,22.50,3.50,1,2024,2023-24,div1,Indian Hills,indianhillscommunitycollege,miguelpadronklxs,Miguel Padron
-Mar 6,home,Southwestern,W,15-2,15,2,13,win,20240306_3bs9,0,0,0,0,1.0,,,,0.00,2.00,2,2024,2023-24,div1,Indian Hills,indianhillscommunitycollege,miguelpadronklxs,Miguel Padron
-Mar 12,home,Southwestern,W,8-4,8,4,4,win,20240312_ym1b,1,0,0,0,2.1,2,1,1,3.86,1.29,1,2024,2023-24,div1,Indian Hills,indianhillscommunitycollege,miguelpadronklxs,Miguel Padron
-Mar 15,home,St. Cloud Tech,W,18-1,18,1,17,win,20240315_7h9v,0,0,0,0,1.0,,,,0.00,,,2024,2023-24,div1,Indian Hills,indianhillscommunitycollege,miguelpadronklxs,Miguel Padron
-Mar 19,home,Kirkwood,W,13-7,13,7,6,win,20240319_bfr2,1,0,0,0,2.2,5,5,4,13.50,2.63,2,2024,2023-24,div1,Indian Hills,indianhillscommunitycollege,miguelpadronklxs,Miguel Padron
-Mar 27,home,North Iowa Area,W,17-2,17,2,15,win,20240327_zu1m,1,1,0,0,6.0,4,2,2,3.00,.67,0,2024,2023-24,div1,Indian Hills,indianhillscommunitycollege,miguelpadronklxs,Miguel Padron
-Apr 4,home,Kirkwood,L,12-2,12,2,10,win,20240404_avhn,1,0,0,0,3.0,4,1,1,3.00,2.33,3,2024,2023-24,div1,Indian Hills,indianhillscommunitycollege,miguelpadronklxs,Miguel Padron
-Apr 10,home,Ellsworth,W,13-3,13,3,10,win,20240410_e31q,0,1,0,0,3.2,1,,,0.00,.27,,2024,2023-24,div1,Indian Hills,indianhillscommunitycollege,miguelpadronklxs,Miguel Padron
-Apr 13,home,Northeast,L,15-7,15,7,8,win,20240413_p2if,0,0,0,0,0.1,1,3,3,81.00,6.00,1,2024,2023-24,div1,Indian Hills,indianhillscommunitycollege,miguelpadronklxs,Miguel Padron
-Apr 15,home,North Iowa Area,W,13-2,13,2,11,win,20240415_hjbe,0,0,0,0,1.1,,,,0.00,,,2024,2023-24,div1,Indian Hills,indianhillscommunitycollege,miguelpadronklxs,Miguel Padron
+Feb 16,home,John Wood,W,9-7,9,7,2,win,20240216_0uoc,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Indian Hills,indianhillscommunitycollege,miguelpadronklxs,Miguel Padron
+Feb 16,home,Lake Land,W,10-6,10,6,4,win,20240216_i7kz,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Indian Hills,indianhillscommunitycollege,miguelpadronklxs,Miguel Padron
+Feb 17,home,Lincoln Land,W,5-1,5,1,4,win,20240217_m86w,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Indian Hills,indianhillscommunitycollege,miguelpadronklxs,Miguel Padron
+Feb 24,home,Elgin,W,8-2,8,2,6,win,20240224_vgwa,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Indian Hills,indianhillscommunitycollege,miguelpadronklxs,Miguel Padron
+Feb 25,home,St. Louis,W,4-3,4,3,1,win,20240225_qknf,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Indian Hills,indianhillscommunitycollege,miguelpadronklxs,Miguel Padron
+Mar 1,home,Cowley,L,14-4,14,4,10,win,20240301_jobb,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Indian Hills,indianhillscommunitycollege,miguelpadronklxs,Miguel Padron
+Mar 2,home,Cowley,L,9-4,9,4,5,win,20240302_tnfq,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Indian Hills,indianhillscommunitycollege,miguelpadronklxs,Miguel Padron
+Mar 11,home,Iowa Lakes,W,10-0,10,0,10,win,20240311_fk0r,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Indian Hills,indianhillscommunitycollege,miguelpadronklxs,Miguel Padron
+Mar 16,home,St. Cloud Tech,W,8-7,8,7,1,win,20240316_pw6s,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Indian Hills,indianhillscommunitycollege,miguelpadronklxs,Miguel Padron
+Mar 16,home,St. Cloud Tech,L,16-9,16,9,7,win,20240316_hbie,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Indian Hills,indianhillscommunitycollege,miguelpadronklxs,Miguel Padron
+Mar 19,home,Kirkwood,W,13-7,13,7,6,win,20240319_bfr2,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Indian Hills,indianhillscommunitycollege,miguelpadronklxs,Miguel Padron
+Mar 21,home,Southwestern,W,24-0,24,0,24,win,20240321_chen,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Indian Hills,indianhillscommunitycollege,miguelpadronklxs,Miguel Padron
+Mar 21,home,Southwestern,W,21-4,21,4,17,win,20240321_9fcq,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Indian Hills,indianhillscommunitycollege,miguelpadronklxs,Miguel Padron
+Mar 23,home,Southwestern,W,18-3,18,3,15,win,20240323_te1r,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Indian Hills,indianhillscommunitycollege,miguelpadronklxs,Miguel Padron
+Mar 27,home,North Iowa Area,L,8-7,8,7,1,win,20240327_a5oc,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Indian Hills,indianhillscommunitycollege,miguelpadronklxs,Miguel Padron
+Mar 27,home,North Iowa Area,W,17-2,17,2,15,win,20240327_zu1m,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Indian Hills,indianhillscommunitycollege,miguelpadronklxs,Miguel Padron
+Mar 29,home,Iowa Lakes,W,8-6,8,6,2,win,20240329_fk25,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Indian Hills,indianhillscommunitycollege,miguelpadronklxs,Miguel Padron
+Mar 30,home,Iowa Lakes,W,23-3,23,3,20,win,20240330_7qz7,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Indian Hills,indianhillscommunitycollege,miguelpadronklxs,Miguel Padron
+Apr 4,home,Kirkwood,L,3-0,3,0,3,win,20240404_k8wg,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Indian Hills,indianhillscommunitycollege,miguelpadronklxs,Miguel Padron
+Apr 4,home,Kirkwood,L,12-2,12,2,10,win,20240404_avhn,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Indian Hills,indianhillscommunitycollege,miguelpadronklxs,Miguel Padron
+Apr 6,home,Des Moines Area,L,6-2,6,2,4,win,20240406_wgmn,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Indian Hills,indianhillscommunitycollege,miguelpadronklxs,Miguel Padron
+Apr 6,home,Des Moines Area,W,4-3,4,3,1,win,20240406_x2oc,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Indian Hills,indianhillscommunitycollege,miguelpadronklxs,Miguel Padron
+Apr 8,home,Des Moines Area,W,13-3,13,3,10,win,20240408_wej2,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Indian Hills,indianhillscommunitycollege,miguelpadronklxs,Miguel Padron
+Apr 13,home,Northeast,L,15-7,15,7,8,win,20240413_p2if,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Indian Hills,indianhillscommunitycollege,miguelpadronklxs,Miguel Padron
+Apr 14,home,Northeast,L,13-6,13,6,7,win,20240414_e6dl,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Indian Hills,indianhillscommunitycollege,miguelpadronklxs,Miguel Padron
+Apr 19,home,Marshalltown,W,11-0,11,0,11,win,20240419_rvxa,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Indian Hills,indianhillscommunitycollege,miguelpadronklxs,Miguel Padron
+Apr 20,home,Iowa Central,L,15-4,15,4,11,win,20240420_t3ht,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Indian Hills,indianhillscommunitycollege,miguelpadronklxs,Miguel Padron

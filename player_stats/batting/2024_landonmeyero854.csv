@@ -1,11 +1,28 @@
 date,location,opponent,result,score,team_score,opp_score,game_score_diff,game_win_loss,game_id,AB,R,H,2B,3B,HR,RBI,BB,K,SB,CS,HBP,SF,SH,TB,XBH,HDP,GO,FO,GO/FO,PA,season,njcaa_season,njcaa_division,team,team_id,player_id,player_name
-Mar 2,home,Frontier,W,6-5,6,5,1,win,20240302_6y40,2,1,0,,,,1,,1,,,1,,,0,0,,1,,,3,2024,2023-24,div1,Cloud County,cloudcountycommunitycollege,landonmeyero854,Landon Meyer
-Mar 5,home,Rockingham,W,12-2,12,2,10,win,20240305_yniz,3,1,1,,,,1,,,,,,,1,1,0,,3,,,4,2024,2023-24,div1,Cloud County,cloudcountycommunitycollege,landonmeyero854,Landon Meyer
-Mar 11,home,USC Sumter,W,9-4,9,4,5,win,20240311_v4sm,4,1,1,,,,0,,1,,,,,,1,0,,1,1,1.00,4,2024,2023-24,div1,Cloud County,cloudcountycommunitycollege,landonmeyero854,Landon Meyer
-Mar 17,home,USC Lancaster,W,7-6,7,6,1,win,20240317_otyt,2,0,0,,,,0,2,,,,,,,0,0,1,1,1,1.00,4,2024,2023-24,div1,Cloud County,cloudcountycommunitycollege,landonmeyero854,Landon Meyer
-Mar 23,home,USC Salkehatchie,W,7-5,7,5,2,win,20240323_1vuu,2,0,0,,,,1,,1,,,,,1,0,0,,1,1,1.00,3,2024,2023-24,div1,Cloud County,cloudcountycommunitycollege,landonmeyero854,Landon Meyer
-Mar 24,home,USC Salkehatchie,W,17-1,17,1,16,win,20240324_v0rh,2,1,1,,,,1,1,,,,,,,1,0,,,1,,3,2024,2023-24,div1,Cloud County,cloudcountycommunitycollege,landonmeyero854,Landon Meyer
-Apr 6,home,USC Union,W,31-11,31,11,20,win,20240406_wn1s,0,0,0,,,,0,,,,,1,,,0,0,,,,,1,2024,2023-24,div1,Cloud County,cloudcountycommunitycollege,landonmeyero854,Landon Meyer
-Apr 13,home,Cleveland,W,15-5,15,5,10,win,20240413_s0z5,3,1,2,,,,0,1,,,,,,1,2,0,,1,1,1.00,5,2024,2023-24,div1,Cloud County,cloudcountycommunitycollege,landonmeyero854,Landon Meyer
-Apr 14,home,Cleveland,W,18-4,18,4,14,win,20240414_lska,0,0,0,,,,0,,,,,,,,0,0,,,,,0,2024,2023-24,div1,Cloud County,cloudcountycommunitycollege,landonmeyero854,Landon Meyer
-Apr 16,home,Rockingham,W,14-2,14,2,12,win,20240416_xa07,4,1,1,,,,2,,1,,,,,,1,0,,2,,,4,2024,2023-24,div1,Cloud County,cloudcountycommunitycollege,landonmeyero854,Landon Meyer
+Feb 1,home,Des Moines Area,W,8-2,8,2,6,win,20240201_5pxx,3,1,1,,,,0,,,,,,,,1,0,,1,1,1.00,3,2024,2023-24,div1,Cloud County,cloudcountycommunitycollege,landonmeyero854,Landon Meyer
+Feb 15,home,Northeastern Oklahoma A&M,W,5-0,5,0,5,win,20240215_6c8z,4,0,2,1,,,0,,1,1,,,,,3,1,,,,,4,2024,2023-24,div1,Cloud County,cloudcountycommunitycollege,landonmeyero854,Landon Meyer
+Feb 15,home,Coffeyville,W,8-4,8,4,4,win,20240215_u8h1,3,0,1,,,,1,1,,,,,,,1,0,,,,,4,2024,2023-24,div1,Cloud County,cloudcountycommunitycollege,landonmeyero854,Landon Meyer
+Feb 18,home,Marshalltown,W,6-4,6,4,2,win,20240218_otlx,3,1,1,,,,0,,,,,,,,1,0,,,1,,3,2024,2023-24,div1,Cloud County,cloudcountycommunitycollege,landonmeyero854,Landon Meyer
+Feb 18,home,Marshalltown,W,13-12,13,12,1,win,20240218_77l7,2,0,0,,,,0,,1,,,,,,0,0,,,1,,2,2024,2023-24,div1,Cloud County,cloudcountycommunitycollege,landonmeyero854,Landon Meyer
+Feb 19,home,Marshalltown,W,7-6,7,6,1,win,20240219_pv0u,4,0,2,,,,0,,,,,,,,2,0,,,,,4,2024,2023-24,div1,Cloud County,cloudcountycommunitycollege,landonmeyero854,Landon Meyer
+Feb 22,home,Southeast,W,5-1,5,1,4,win,20240222_9rjp,2,0,1,,,,0,1,,,,,,,1,0,,,1,,3,2024,2023-24,div1,Cloud County,cloudcountycommunitycollege,landonmeyero854,Landon Meyer
+Feb 24,home,Southeast,W,3-2,3,2,1,win,20240224_c5l5,3,1,1,1,,,0,,,,,,,,2,1,,,,,3,2024,2023-24,div1,Cloud County,cloudcountycommunitycollege,landonmeyero854,Landon Meyer
+Feb 29,home,Johnson County,W,7-5,7,5,2,win,20240229_4fgp,2,2,1,,,1,2,1,1,1,,1,,,4,1,,,,,4,2024,2023-24,div1,Cloud County,cloudcountycommunitycollege,landonmeyero854,Landon Meyer
+Mar 6,home,Colby,W,9-2,9,2,7,win,20240306_pkpv,3,1,1,,,1,4,,,,,,,,4,1,,,,,3,2024,2023-24,div1,Cloud County,cloudcountycommunitycollege,landonmeyero854,Landon Meyer
+Mar 6,home,Colby,W,11-4,11,4,7,win,20240306_tg6n,4,0,1,,,,0,1,,,,,,,1,0,,,,,5,2024,2023-24,div1,Cloud County,cloudcountycommunitycollege,landonmeyero854,Landon Meyer
+Mar 10,home,Colby,W,11-6,11,6,5,win,20240310_67qh,3,2,0,,,,0,1,,,,,,,0,0,,,,,4,2024,2023-24,div1,Cloud County,cloudcountycommunitycollege,landonmeyero854,Landon Meyer
+Mar 14,home,Pratt,W,6-4,6,4,2,win,20240314_2hxp,2,0,0,,,,0,1,,,,,,,0,0,,,,,3,2024,2023-24,div1,Cloud County,cloudcountycommunitycollege,landonmeyero854,Landon Meyer
+Mar 16,home,Pratt,W,6-0,6,0,6,win,20240316_z288,3,1,1,1,,,1,,,1,,,,,2,1,1,,2,,3,2024,2023-24,div1,Cloud County,cloudcountycommunitycollege,landonmeyero854,Landon Meyer
+Mar 16,home,Pratt,W,11-0,11,0,11,win,20240316_bfg1,1,1,1,1,,,0,2,,1,,,,,2,1,,,,,3,2024,2023-24,div1,Cloud County,cloudcountycommunitycollege,landonmeyero854,Landon Meyer
+Mar 18,home,Iowa Western,W,4-2,4,2,2,win,20240318_efjv,4,0,1,,,,0,,,,,,,,1,0,,,,,4,2024,2023-24,div1,Cloud County,cloudcountycommunitycollege,landonmeyero854,Landon Meyer
+Mar 21,home,Seward County,W,5-1,5,1,4,win,20240321_zqsb,1,1,1,,,,0,1,,1,,1,,,1,0,,,,,3,2024,2023-24,div1,Cloud County,cloudcountycommunitycollege,landonmeyero854,Landon Meyer
+Mar 23,home,Seward County,W,11-2,11,2,9,win,20240323_46ws,2,2,0,,,,0,,,,,2,,,0,0,,,,,4,2024,2023-24,div1,Cloud County,cloudcountycommunitycollege,landonmeyero854,Landon Meyer
+Mar 28,home,Dodge City,W,9-2,9,2,7,win,20240328_fh1x,3,2,1,1,,,0,,,,,1,,,2,1,,,,,4,2024,2023-24,div1,Cloud County,cloudcountycommunitycollege,landonmeyero854,Landon Meyer
+Mar 30,home,Dodge City,W,6-3,6,3,3,win,20240330_h1ed,4,1,2,,,1,2,1,,,,,,,5,1,,2,,,5,2024,2023-24,div1,Cloud County,cloudcountycommunitycollege,landonmeyero854,Landon Meyer
+Apr 3,home,McPherson College JV,W,12-9,12,9,3,win,20240403_9rg6,4,0,0,,,,2,2,,,,,,,0,0,,2,2,1.00,6,2024,2023-24,div1,Cloud County,cloudcountycommunitycollege,landonmeyero854,Landon Meyer
+Apr 4,home,Highland (KS),W,15-2,15,2,13,win,20240404_kvyn,3,3,2,1,,,2,1,,,,,,,3,1,,,1,,4,2024,2023-24,div1,Cloud County,cloudcountycommunitycollege,landonmeyero854,Landon Meyer
+Apr 11,home,Barton,W,7-0,7,0,7,win,20240411_bqrp,3,2,2,1,,,0,,,,,,,,3,1,,1,,,3,2024,2023-24,div1,Cloud County,cloudcountycommunitycollege,landonmeyero854,Landon Meyer
+Apr 11,home,Barton,W,7-2,7,2,5,win,20240411_ikiq,1,0,1,,,,0,,,,,,,,1,0,,,,,1,2024,2023-24,div1,Cloud County,cloudcountycommunitycollege,landonmeyero854,Landon Meyer
+Apr 13,home,Barton,W,8-7,8,7,1,win,20240413_aoa9,4,0,0,,,,0,,,,,,,,0,0,1,2,2,1.00,4,2024,2023-24,div1,Cloud County,cloudcountycommunitycollege,landonmeyero854,Landon Meyer
+Apr 15,home,Kansas Wesleyan University JV,W,10-0,10,0,10,win,20240415_suje,2,1,1,,,1,2,,,,,,1,,4,1,,,2,,3,2024,2023-24,div1,Cloud County,cloudcountycommunitycollege,landonmeyero854,Landon Meyer
+Apr 15,home,Kansas Wesleyan University JV,W,12-1,12,1,11,win,20240415_5bjp,3,2,2,,,1,2,,,1,,1,,,5,1,,1,,,4,2024,2023-24,div1,Cloud County,cloudcountycommunitycollege,landonmeyero854,Landon Meyer
