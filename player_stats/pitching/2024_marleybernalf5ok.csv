@@ -1,20 +1,13 @@
 date,location,opponent,result,score,team_score,opp_score,game_score_diff,game_win_loss,game_id,GS,W,L,SV,IP,H,R,ER,ERA,BB,K,HR,season,njcaa_season,njcaa_division,team,team_id,player_id,player_name
-Apr 20,home,Wharton County,L,9-8,9,8,1,win,20240420_1llq,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div1,Coastal Bend,coastalbendcollege,marleybernalf5ok,Marley Bernal
-Apr 16,home,Wharton County,L,10-5,10,5,5,win,20240416_7wuj,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div1,Coastal Bend,coastalbendcollege,marleybernalf5ok,Marley Bernal
-Apr 13,home,Galveston,W,10-4,10,4,6,win,20240413_zp4z,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div1,Coastal Bend,coastalbendcollege,marleybernalf5ok,Marley Bernal
-Mar 24,home,Alvin,L,9-1,9,1,8,win,20240324_x4ap,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div1,Coastal Bend,coastalbendcollege,marleybernalf5ok,Marley Bernal
-Mar 15,home,Wharton County,L,12-1,12,1,11,win,20240315_gyon,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div1,Coastal Bend,coastalbendcollege,marleybernalf5ok,Marley Bernal
-Mar 11,home,South Suburban,W,4-0,4,0,4,win,20240311_rsto,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div1,Coastal Bend,coastalbendcollege,marleybernalf5ok,Marley Bernal
-Mar 9,home,Galveston,L,2-0,2,0,2,win,20240309_xja0,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div1,Coastal Bend,coastalbendcollege,marleybernalf5ok,Marley Bernal
-Mar 9,home,Galveston,W,3-2,3,2,1,win,20240309_6ohg,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div1,Coastal Bend,coastalbendcollege,marleybernalf5ok,Marley Bernal
-Mar 7,home,Galveston,L,10-0,10,0,10,win,20240307_w3ga,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div1,Coastal Bend,coastalbendcollege,marleybernalf5ok,Marley Bernal
-Mar 5,home,Galveston,L,10-6,10,6,4,win,20240305_g4pm,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div1,Coastal Bend,coastalbendcollege,marleybernalf5ok,Marley Bernal
-Mar 3,home,Blinn,L,11-1,11,1,10,win,20240303_ujj9,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div1,Coastal Bend,coastalbendcollege,marleybernalf5ok,Marley Bernal
-Feb 23,home,Texas Reds Post Grad,W,21-2,21,2,19,win,20240223_ga0b,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div1,Coastal Bend,coastalbendcollege,marleybernalf5ok,Marley Bernal
-Feb 21,home,St. Edwards University (JV),W,18-2,18,2,16,win,20240221_18a3,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div1,Coastal Bend,coastalbendcollege,marleybernalf5ok,Marley Bernal
-Feb 17,home,Western Oklahoma State,L,12-5,12,5,7,win,20240217_nxgt,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div1,Coastal Bend,coastalbendcollege,marleybernalf5ok,Marley Bernal
-Feb 5,home,DFW Post Grad,W,18-9,18,9,9,win,20240205_76zb,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div1,Coastal Bend,coastalbendcollege,marleybernalf5ok,Marley Bernal
-Feb 4,home,Western Texas,L,12-8,12,8,4,win,20240204_d21w,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div1,Coastal Bend,coastalbendcollege,marleybernalf5ok,Marley Bernal
-Feb 2,home,North Central Texas,W,25-3,25,3,22,win,20240202_w94s,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div1,Coastal Bend,coastalbendcollege,marleybernalf5ok,Marley Bernal
-Feb 2,home,North Central Texas,W,4-3,4,3,1,win,20240202_d5om,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div1,Coastal Bend,coastalbendcollege,marleybernalf5ok,Marley Bernal
-Jan 27,home,Ranger,W,14-3,14,3,11,win,20240127_t5l8,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div1,Coastal Bend,coastalbendcollege,marleybernalf5ok,Marley Bernal
+Apr 20,home,Wharton County,L,6-2,6,2,4,win,20240420_qzs7,0,0,0,0,4.0,4,5,4,9.00,2.50,6,2,2024,2023-24,div1,Coastal Bend,coastalbendcollege,marleybernalf5ok,Marley Bernal
+Apr 13,home,Galveston,L,8-1,8,1,7,win,20240413_oqkn,0,0,1,0,3.2,8,8,6,14.73,3.27,4,2,2024,2023-24,div1,Coastal Bend,coastalbendcollege,marleybernalf5ok,Marley Bernal
+Apr 6,home,Blinn,L,5-4,5,4,1,win,20240406_p8pm,0,0,0,0,5.0,7,4,4,7.20,2.80,7,3,2024,2023-24,div1,Coastal Bend,coastalbendcollege,marleybernalf5ok,Marley Bernal
+Mar 29,home,San Jacinto,L,6-2,6,2,4,win,20240329_4kd9,0,0,1,0,6.0,7,5,1,1.50,1.67,3,3,2024,2023-24,div1,Coastal Bend,coastalbendcollege,marleybernalf5ok,Marley Bernal
+Mar 24,home,Alvin,L,4-0,4,0,4,win,20240324_i7pq,0,0,0,0,6.0,6,4,1,1.50,1.33,2,6,2024,2023-24,div1,Coastal Bend,coastalbendcollege,marleybernalf5ok,Marley Bernal
+Mar 15,home,Wharton County,L,12-1,12,1,11,win,20240315_gyon,0,0,0,0,4.1,5,7,4,8.31,1.62,2,1,2024,2023-24,div1,Coastal Bend,coastalbendcollege,marleybernalf5ok,Marley Bernal
+Mar 9,home,Galveston,W,3-2,3,2,1,win,20240309_6ohg,0,0,0,0,5.2,2,2,1,1.59,1.06,4,7,2024,2023-24,div1,Coastal Bend,coastalbendcollege,marleybernalf5ok,Marley Bernal
+Mar 2,home,Blinn,L,7-4,7,4,3,win,20240302_xawn,0,0,1,0,4.1,8,7,7,14.54,3.00,5,3,2024,2023-24,div1,Coastal Bend,coastalbendcollege,marleybernalf5ok,Marley Bernal
+Feb 17,home,Western Oklahoma State,L,12-5,12,5,7,win,20240217_nxgt,0,0,0,0,4.0,9,4,4,9.00,2.50,1,2,2024,2023-24,div1,Coastal Bend,coastalbendcollege,marleybernalf5ok,Marley Bernal
+Feb 9,home,Ranger,W,9-2,9,2,7,win,20240209_o8kv,0,0,0,0,4.1,4,2,2,4.15,2.54,7,3,2024,2023-24,div1,Coastal Bend,coastalbendcollege,marleybernalf5ok,Marley Bernal
+Feb 2,home,North Central Texas,W,4-3,4,3,1,win,20240202_d5om,0,0,0,0,5.0,6,2,2,3.60,1.20,,7,2024,2023-24,div1,Coastal Bend,coastalbendcollege,marleybernalf5ok,Marley Bernal
+Jan 26,home,Ranger,L,4-3,4,3,1,win,20240126_osfd,0,0,0,0,5.0,,1,1,1.80,1.00,5,10,2024,2023-24,div1,Coastal Bend,coastalbendcollege,marleybernalf5ok,Marley Bernal

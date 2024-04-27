@@ -1,8 +1,18 @@
 date,location,opponent,result,score,team_score,opp_score,game_score_diff,game_win_loss,game_id,AB,R,H,2B,3B,HR,RBI,BB,K,SB,CS,HBP,SF,SH,TB,XBH,HDP,GO,FO,GO/FO,PA,season,njcaa_season,njcaa_division,team,team_id,player_id,player_name
-Feb 10,home,Danville Area,W,32-11,32,11,21,win,20240210_spek,0,0,0,,,,0,,,,,,,,0,0,,,,,0,2024,2023-24,div1,Columbia State,columbiastatecommunitycollege,natewiserd276,Nate Wiser
-Feb 21,home,Wallace State,W,16-15,16,15,1,win,20240221_9xvc,0,0,0,,,,0,,,,,,,,0,0,,,,,0,2024,2023-24,div1,Columbia State,columbiastatecommunitycollege,natewiserd276,Nate Wiser
-Feb 27,home,Snead State,W,10-6,10,6,4,win,20240227_k83u,0,0,0,,,,0,,,,,,,,0,0,,,,,0,2024,2023-24,div1,Columbia State,columbiastatecommunitycollege,natewiserd276,Nate Wiser
-Mar 12,home,Northwest-Shoals Community College,W,9-6,9,6,3,win,20240312_2ka1,0,0,0,,,,0,,,,,,,,0,0,,,,,0,2024,2023-24,div1,Columbia State,columbiastatecommunitycollege,natewiserd276,Nate Wiser
-Mar 17,home,Dyersburg State,W,4-3,4,3,1,win,20240317_hr2h,0,0,0,,,,0,,,,,,,,0,0,,,,,0,2024,2023-24,div1,Columbia State,columbiastatecommunitycollege,natewiserd276,Nate Wiser
-Mar 30,home,Jackson State,W,11-1,11,1,10,win,20240330_l5bs,0,0,0,,,,0,,,,,,,,0,0,,,,,0,2024,2023-24,div1,Columbia State,columbiastatecommunitycollege,natewiserd276,Nate Wiser
-Apr 6,home,Southwest Tennessee,W,3-1,3,1,2,win,20240406_bvgl,0,0,0,,,,0,,,,,,,,0,0,,,,,0,2024,2023-24,div1,Columbia State,columbiastatecommunitycollege,natewiserd276,Nate Wiser
+Feb 7,home,Wallace State,W,6-3,6,3,3,win,20240207_jzfr,1,0,0,,,,0,,1,,,,,,0,0,,,,,1,2024,2023-24,div1,Columbia State,columbiastatecommunitycollege,natewiserd276,Nate Wiser
+Feb 10,home,Danville Area,W,32-11,32,11,21,win,20240210_spek,5,2,1,,1,,0,,,,,1,,,3,1,,1,3,0.33,6,2024,2023-24,div1,Columbia State,columbiastatecommunitycollege,natewiserd276,Nate Wiser
+Feb 13,home,Olney Central,W,11-10,11,10,1,win,20240213_ht5a,0,1,0,,,,0,,,,,,,,0,0,,,,,0,2024,2023-24,div1,Columbia State,columbiastatecommunitycollege,natewiserd276,Nate Wiser
+Feb 21,home,Wallace State,W,16-15,16,15,1,win,20240221_9xvc,3,2,2,,,,0,2,,,,,,,2,0,,,1,,5,2024,2023-24,div1,Columbia State,columbiastatecommunitycollege,natewiserd276,Nate Wiser
+Feb 27,home,Snead State,W,10-6,10,6,4,win,20240227_k83u,4,1,0,,,,0,1,1,,,,,,0,0,1,2,,,5,2024,2023-24,div1,Columbia State,columbiastatecommunitycollege,natewiserd276,Nate Wiser
+Mar 2,home,Walters State,W,8-7,8,7,1,win,20240302_3dnr,5,1,2,,,,2,,,1,1,,,,2,0,,3,,,5,2024,2023-24,div1,Columbia State,columbiastatecommunitycollege,natewiserd276,Nate Wiser
+Mar 3,home,Walters State,W,12-11,12,11,1,win,20240303_0afb,5,1,3,1,,,3,1,2,,,,,,4,1,,,,,6,2024,2023-24,div1,Columbia State,columbiastatecommunitycollege,natewiserd276,Nate Wiser
+Mar 4,home,Wabash Valley,W,6-4,6,4,2,win,20240304_7w7h,4,0,1,,,,1,,,,,,,,1,0,,2,,,4,2024,2023-24,div1,Columbia State,columbiastatecommunitycollege,natewiserd276,Nate Wiser
+Mar 19,home,Calhoun,W,10-6,10,6,4,win,20240319_8zbs,1,0,0,,,,0,,,,,,,,0,0,,,,,1,2024,2023-24,div1,Columbia State,columbiastatecommunitycollege,natewiserd276,Nate Wiser
+Mar 23,home,Volunteer State,W,11-0,11,0,11,win,20240323_b4r5,2,0,0,,,,1,1,1,2,,,1,,0,0,,1,1,1.00,4,2024,2023-24,div1,Columbia State,columbiastatecommunitycollege,natewiserd276,Nate Wiser
+Apr 6,home,Southwest Tennessee,W,3-1,3,1,2,win,20240406_bvgl,3,1,1,,,,0,,,,,,,,1,0,,,,,3,2024,2023-24,div1,Columbia State,columbiastatecommunitycollege,natewiserd276,Nate Wiser
+Apr 12,home,Cleveland State,W,15-14,15,14,1,win,20240412_i6nx,6,2,2,,,,3,,2,,,,,,2,0,,1,,,6,2024,2023-24,div1,Columbia State,columbiastatecommunitycollege,natewiserd276,Nate Wiser
+Apr 13,home,Cleveland State,W,4-3,4,3,1,win,20240413_o1ot,4,1,2,,,,0,,2,,1,,,,2,0,,,,,4,2024,2023-24,div1,Columbia State,columbiastatecommunitycollege,natewiserd276,Nate Wiser
+Apr 13,home,Cleveland State,W,12-4,12,4,8,win,20240413_uuj8,4,2,3,,,,0,,1,,,1,,,3,0,,,,,5,2024,2023-24,div1,Columbia State,columbiastatecommunitycollege,natewiserd276,Nate Wiser
+Apr 16,home,Snead State,W,13-9,13,9,4,win,20240416_rubk,5,2,3,1,,1,4,,,,,,,,7,2,,1,1,1.00,5,2024,2023-24,div1,Columbia State,columbiastatecommunitycollege,natewiserd276,Nate Wiser
+Apr 19,home,Motlow State,W,9-8,9,8,1,win,20240419_r32k,2,0,0,,,,0,,1,,,1,1,1,0,0,,1,2,0.50,5,2024,2023-24,div1,Columbia State,columbiastatecommunitycollege,natewiserd276,Nate Wiser
+Apr 20,home,Motlow State,W,8-0,8,0,8,win,20240420_2zpx,4,0,4,3,,,2,,,,,,,,7,3,,,,,4,2024,2023-24,div1,Columbia State,columbiastatecommunitycollege,natewiserd276,Nate Wiser
