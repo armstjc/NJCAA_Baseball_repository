@@ -1,39 +1,16 @@
 date,location,opponent,result,score,team_score,opp_score,game_score_diff,game_win_loss,game_id,GS,W,L,SV,IP,H,R,ER,ERA,BB,K,HR,season,njcaa_season,njcaa_division,team,team_id,player_id,player_name
-Apr 24,home,Grayson,L,10-2,10,2,8,win,20240424_6ean,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div1,North Central Texas,northcentraltexascollege,drewthompsonf1at,Drew Thompson
-Apr 24,home,Grayson,L,19-1,19,1,18,win,20240424_0jgy,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div1,North Central Texas,northcentraltexascollege,drewthompsonf1at,Drew Thompson
-Apr 19,home,Cisco,L,12-4,12,4,8,win,20240419_z23m,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div1,North Central Texas,northcentraltexascollege,drewthompsonf1at,Drew Thompson
-Apr 19,home,Cisco,L,9-6,9,6,3,win,20240419_jh6y,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div1,North Central Texas,northcentraltexascollege,drewthompsonf1at,Drew Thompson
-Apr 17,home,Cisco,L,10-2,10,2,8,win,20240417_snih,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div1,North Central Texas,northcentraltexascollege,drewthompsonf1at,Drew Thompson
-Apr 17,home,Cisco,L,15-0,15,0,15,win,20240417_i0mb,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div1,North Central Texas,northcentraltexascollege,drewthompsonf1at,Drew Thompson
-Apr 13,home,Temple,L,8-0,8,0,8,win,20240413_s676,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div1,North Central Texas,northcentraltexascollege,drewthompsonf1at,Drew Thompson
-Apr 13,home,Temple,L,11-0,11,0,11,win,20240413_7vkd,1,0,1,0,1.1,3,4,4,27.00,5.25,4,2,2024,2023-24,div1,North Central Texas,northcentraltexascollege,drewthompsonf1at,Drew Thompson
-Apr 11,home,Temple,L,11-1,11,1,10,win,20240411_m830,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div1,North Central Texas,northcentraltexascollege,drewthompsonf1at,Drew Thompson
-Apr 11,home,Temple,W,8-7,8,7,1,win,20240411_1h50,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div1,North Central Texas,northcentraltexascollege,drewthompsonf1at,Drew Thompson
-Mar 29,home,Vernon,W,14-9,14,9,5,win,20240329_gsw5,0,0,0,0,0.2,,,,0.00,,,1,2024,2023-24,div1,North Central Texas,northcentraltexascollege,drewthompsonf1at,Drew Thompson
+May 1,home,Ranger,L,8-4,8,4,4,win,20240501_syem,0,0,0,0,1.0,,2,2,18.00,3.00,3,1,2024,2023-24,div1,North Central Texas,northcentraltexascollege,drewthompsonf1at,Drew Thompson
+Apr 27,home,Grayson,L,11-1,11,1,10,win,20240427_ww8x,0,0,0,0,2.0,3,5,3,13.50,3.00,3,2,2024,2023-24,div1,North Central Texas,northcentraltexascollege,drewthompsonf1at,Drew Thompson
+Apr 19,home,Cisco,L,9-6,9,6,3,win,20240419_jh6y,0,0,0,0,2.2,2,3,3,10.13,1.88,3,2,2024,2023-24,div1,North Central Texas,northcentraltexascollege,drewthompsonf1at,Drew Thompson
+Apr 13,home,Temple,L,11-0,11,0,11,win,20240413_7vkd,0,0,0,0,2.2,3,7,2,6.75,3.00,5,3,2024,2023-24,div1,North Central Texas,northcentraltexascollege,drewthompsonf1at,Drew Thompson
+Apr 11,home,Temple,W,8-7,8,7,1,win,20240411_1h50,0,1,0,0,0.2,,,,0.00,,,1,2024,2023-24,div1,North Central Texas,northcentraltexascollege,drewthompsonf1at,Drew Thompson
 Mar 29,home,Vernon,L,11-10,11,10,1,win,20240329_iskl,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div1,North Central Texas,northcentraltexascollege,drewthompsonf1at,Drew Thompson
-Mar 27,home,Vernon,L,11-2,11,2,9,win,20240327_ejq3,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div1,North Central Texas,northcentraltexascollege,drewthompsonf1at,Drew Thompson
-Mar 27,home,Vernon,L,7-5,7,5,2,win,20240327_mtg9,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div1,North Central Texas,northcentraltexascollege,drewthompsonf1at,Drew Thompson
-Mar 23,home,Weatherford,L,10-0,10,0,10,win,20240323_hl4s,0,0,0,0,2.0,1,5,5,22.50,3.50,6,5,2024,2023-24,div1,North Central Texas,northcentraltexascollege,drewthompsonf1at,Drew Thompson
-Mar 23,home,Weatherford,L,11-2,11,2,9,win,20240323_v4p5,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div1,North Central Texas,northcentraltexascollege,drewthompsonf1at,Drew Thompson
-Mar 20,home,Weatherford,L,6-5,6,5,1,win,20240320_f0ji,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div1,North Central Texas,northcentraltexascollege,drewthompsonf1at,Drew Thompson
 Mar 20,home,Weatherford,L,8-4,8,4,4,win,20240320_kx14,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div1,North Central Texas,northcentraltexascollege,drewthompsonf1at,Drew Thompson
-Mar 17,home,McLennan,L,13-1,13,1,12,win,20240317_53pk,1,0,1,0,1.2,3,5,0,0.00,5.40,6,2,2024,2023-24,div1,North Central Texas,northcentraltexascollege,drewthompsonf1at,Drew Thompson
-Mar 17,home,McLennan,L,6-0,6,0,6,win,20240317_47p0,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div1,North Central Texas,northcentraltexascollege,drewthompsonf1at,Drew Thompson
-Mar 13,home,McLennan,L,12-0,12,0,12,win,20240313_jkmq,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div1,North Central Texas,northcentraltexascollege,drewthompsonf1at,Drew Thompson
-Mar 13,home,McLennan,L,12-0,12,0,12,win,20240313_4gs3,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div1,North Central Texas,northcentraltexascollege,drewthompsonf1at,Drew Thompson
-Mar 9,home,Hill,L,6-4,6,4,2,win,20240309_l49f,0,0,1,0,0.2,,2,2,27.00,6.00,4,1,2024,2023-24,div1,North Central Texas,northcentraltexascollege,drewthompsonf1at,Drew Thompson
-Mar 9,home,Hill,W,5-4,5,4,1,win,20240309_b571,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div1,North Central Texas,northcentraltexascollege,drewthompsonf1at,Drew Thompson
-Mar 6,home,Hill,L,8-0,8,0,8,win,20240306_mpdn,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div1,North Central Texas,northcentraltexascollege,drewthompsonf1at,Drew Thompson
-Feb 27,home,Midland,L,7-6,7,6,1,win,20240227_1nrz,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div1,North Central Texas,northcentraltexascollege,drewthompsonf1at,Drew Thompson
-Feb 27,home,Midland,L,14-4,14,4,10,win,20240227_pcan,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div1,North Central Texas,northcentraltexascollege,drewthompsonf1at,Drew Thompson
-Feb 18,home,Kansas City Kansas,L,8-3,8,3,5,win,20240218_atet,0,0,0,0,2.0,,1,1,4.50,.50,1,4,2024,2023-24,div1,North Central Texas,northcentraltexascollege,drewthompsonf1at,Drew Thompson
-Feb 16,home,Des Moines Area,L,19-2,19,2,17,win,20240216_a0pv,1,0,1,0,1.0,2,4,4,36.00,3.00,1,2,2024,2023-24,div1,North Central Texas,northcentraltexascollege,drewthompsonf1at,Drew Thompson
-Feb 15,home,New Mexico,L,3-1,3,1,2,win,20240215_qzdx,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div1,North Central Texas,northcentraltexascollege,drewthompsonf1at,Drew Thompson
-Feb 15,home,New Mexico,L,15-5,15,5,10,win,20240215_mbil,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div1,North Central Texas,northcentraltexascollege,drewthompsonf1at,Drew Thompson
-Feb 9,home,Murray State,W,4-3,4,3,1,win,20240209_1tpb,1,0,0,0,4.0,2,2,2,4.50,1.75,5,5,2024,2023-24,div1,North Central Texas,northcentraltexascollege,drewthompsonf1at,Drew Thompson
-Feb 7,home,Galveston,W,4-2,4,2,2,win,20240207_yf3g,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div1,North Central Texas,northcentraltexascollege,drewthompsonf1at,Drew Thompson
-Feb 7,home,Galveston,L,9-7,9,7,2,win,20240207_b37t,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div1,North Central Texas,northcentraltexascollege,drewthompsonf1at,Drew Thompson
-Feb 3,home,Western Texas,L,7-5,7,5,2,win,20240203_7jdf,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div1,North Central Texas,northcentraltexascollege,drewthompsonf1at,Drew Thompson
-Feb 2,home,Coastal Bend,L,25-3,25,3,22,win,20240202_w94s,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div1,North Central Texas,northcentraltexascollege,drewthompsonf1at,Drew Thompson
-Feb 2,home,Coastal Bend,L,4-3,4,3,1,win,20240202_d5om,0,0,0,0,3.0,1,2,,0.00,1.67,4,5,2024,2023-24,div1,North Central Texas,northcentraltexascollege,drewthompsonf1at,Drew Thompson
-Jan 29,home,Rose State,L,12-7,12,7,5,win,20240129_fndc,0,0,0,0,2.0,2,1,,0.00,2.00,2,2,2024,2023-24,div1,North Central Texas,northcentraltexascollege,drewthompsonf1at,Drew Thompson
+Mar 13,home,McLennan,L,12-0,12,0,12,win,20240313_jkmq,1,0,1,0,2.2,5,9,8,27.00,4.13,6,2,2024,2023-24,div1,North Central Texas,northcentraltexascollege,drewthompsonf1at,Drew Thompson
+Mar 9,home,Hill,L,6-4,6,4,2,win,20240309_l49f,0,0,0,0,0.2,2,1,1,13.50,4.50,1,1,2024,2023-24,div1,North Central Texas,northcentraltexascollege,drewthompsonf1at,Drew Thompson
+Mar 6,home,Hill,L,8-0,8,0,8,win,20240306_mpdn,0,0,0,0,3.0,1,1,,0.00,1.33,3,2,2024,2023-24,div1,North Central Texas,northcentraltexascollege,drewthompsonf1at,Drew Thompson
+Feb 27,home,Midland,L,7-6,7,6,1,win,20240227_1nrz,0,0,0,0,1.0,2,2,2,18.00,5.00,3,,2024,2023-24,div1,North Central Texas,northcentraltexascollege,drewthompsonf1at,Drew Thompson
+Feb 15,home,New Mexico,L,15-5,15,5,10,win,20240215_mbil,0,0,0,0,1.1,2,6,6,40.50,3.75,3,1,2024,2023-24,div1,North Central Texas,northcentraltexascollege,drewthompsonf1at,Drew Thompson
+Feb 7,home,Galveston,L,9-7,9,7,2,win,20240207_b37t,0,0,1,0,2.0,3,3,1,4.50,2.50,2,3,2024,2023-24,div1,North Central Texas,northcentraltexascollege,drewthompsonf1at,Drew Thompson
+Feb 2,home,Coastal Bend,L,4-3,4,3,1,win,20240202_d5om,0,0,0,0,0.0,1,,,0.00,,,,2024,2023-24,div1,North Central Texas,northcentraltexascollege,drewthompsonf1at,Drew Thompson
+Jan 29,home,Rose State,L,12-7,12,7,5,win,20240129_fndc,0,0,0,0,2.0,1,1,1,4.50,1.50,2,3,2024,2023-24,div1,North Central Texas,northcentraltexascollege,drewthompsonf1at,Drew Thompson

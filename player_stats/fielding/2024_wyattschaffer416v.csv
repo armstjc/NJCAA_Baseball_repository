@@ -1,15 +1,13 @@
 date,location,opponent,result,score,team_score,opp_score,game_score_diff,game_win_loss,game_id,TC,PO,A,E,FPCT,DP,SBA,RCS,RCS_PCT,PB,CI,season,njcaa_season,njcaa_division,team,team_id,player_id,player_name
-Feb 3,home,Fayetteville Tech,L,8-1,8,1,7,win,20240203_55xf,0,0,0,0,1.0,2,2,2,18.00,2.00,,2024,2023-24,div2,Guilford Tech,guilfordtechnicalcommunitycollege,wyattschaffer416v,Wyatt Schaffer
-Feb 10,home,Surry,L,7-3,7,3,4,win,20240210_kon7,0,0,0,0,2.0,1,,,0.00,1.00,1,2024,2023-24,div2,Guilford Tech,guilfordtechnicalcommunitycollege,wyattschaffer416v,Wyatt Schaffer
-Feb 17,home,Lansing,W,9-8,9,8,1,win,20240217_htvk,0,0,0,0,2.2,,,,0.00,.75,2,2024,2023-24,div2,Guilford Tech,guilfordtechnicalcommunitycollege,wyattschaffer416v,Wyatt Schaffer
-Feb 21,home,Kingsborough,W,13-12,13,12,1,win,20240221_2fp7,0,0,0,0,1.0,6,7,,0.00,7.00,1,2024,2023-24,div2,Guilford Tech,guilfordtechnicalcommunitycollege,wyattschaffer416v,Wyatt Schaffer
-Feb 24,home,Wake Tech,L,24-5,24,5,19,win,20240224_juqr,0,0,0,0,0.2,4,5,,0.00,6.00,,2024,2023-24,div2,Guilford Tech,guilfordtechnicalcommunitycollege,wyattschaffer416v,Wyatt Schaffer
-Feb 25,home,Wake Tech,L,10-5,10,5,5,win,20240225_2cff,0,0,0,0,3.0,1,,,0.00,.33,,2024,2023-24,div2,Guilford Tech,guilfordtechnicalcommunitycollege,wyattschaffer416v,Wyatt Schaffer
-Mar 8,home,Cleveland,L,11-0,11,0,11,win,20240308_s1ao,0,0,0,0,1.1,6,4,4,27.00,5.25,1,2024,2023-24,div2,Guilford Tech,guilfordtechnicalcommunitycollege,wyattschaffer416v,Wyatt Schaffer
-Mar 16,home,Louisburg,L,13-1,13,1,12,win,20240316_dsgt,1,0,0,0,1.0,3,4,3,27.00,5.00,2,2024,2023-24,div2,Guilford Tech,guilfordtechnicalcommunitycollege,wyattschaffer416v,Wyatt Schaffer
-Mar 24,home,Southwest Virginia,W,7-4,7,4,3,win,20240324_oaf0,0,0,0,0,3.0,4,2,2,6.00,1.67,1,2024,2023-24,div2,Guilford Tech,guilfordtechnicalcommunitycollege,wyattschaffer416v,Wyatt Schaffer
-Apr 3,home,Patrick & Henry,L,13-1,13,1,12,win,20240403_uoyg,0,0,0,0,1.0,3,2,2,18.00,3.00,0,2024,2023-24,div2,Guilford Tech,guilfordtechnicalcommunitycollege,wyattschaffer416v,Wyatt Schaffer
-Apr 6,home,Wake Tech,L,15-9,15,9,6,win,20240406_5yy8,0,0,0,0,2.1,6,3,3,11.57,3.00,1,2024,2023-24,div2,Guilford Tech,guilfordtechnicalcommunitycollege,wyattschaffer416v,Wyatt Schaffer
-Apr 13,home,Catawba Valley,W,11-6,11,6,5,win,20240413_7utf,0,0,0,1,5.0,6,3,3,5.40,2.00,4,2024,2023-24,div2,Guilford Tech,guilfordtechnicalcommunitycollege,wyattschaffer416v,Wyatt Schaffer
-Apr 17,home,Patrick & Henry,L,11-2,11,2,9,win,20240417_phrm,0,0,0,0,2.0,3,2,2,9.00,1.50,,2024,2023-24,div2,Guilford Tech,guilfordtechnicalcommunitycollege,wyattschaffer416v,Wyatt Schaffer
-Apr 20,home,Cleveland,L,17-8,17,8,9,win,20240420_f1gg,0,0,0,0,3.1,5,3,3,8.10,1.80,1,2024,2023-24,div2,Guilford Tech,guilfordtechnicalcommunitycollege,wyattschaffer416v,Wyatt Schaffer
+Jan 28,home,Gaston College,L,10-2,10,2,8,win,20240128_9ieh,0,0,0,0,1.0,2,2,2,18.00,5.00,3,2024,2023-24,div2,Guilford Tech,guilfordtechnicalcommunitycollege,wyattschaffer416v,Wyatt Schaffer
+Feb 4,home,Fayetteville Tech,L,6-2,6,2,4,win,20240204_54bu,0,0,1,0,2.2,3,3,3,10.13,1.88,2,2024,2023-24,div2,Guilford Tech,guilfordtechnicalcommunitycollege,wyattschaffer416v,Wyatt Schaffer
+Feb 10,home,Surry,L,11-1,11,1,10,win,20240210_m59e,0,0,0,0,1.2,2,1,1,5.40,1.80,1,2024,2023-24,div2,Guilford Tech,guilfordtechnicalcommunitycollege,wyattschaffer416v,Wyatt Schaffer
+Feb 17,home,Lansing,W,9-8,9,8,1,win,20240217_htvk,0,1,0,0,1.0,1,1,1,9.00,1.00,,2024,2023-24,div2,Guilford Tech,guilfordtechnicalcommunitycollege,wyattschaffer416v,Wyatt Schaffer
+Feb 21,home,Kingsborough,W,13-12,13,12,1,win,20240221_2fp7,0,0,0,0,1.0,1,,,0.00,2.00,1,2024,2023-24,div2,Guilford Tech,guilfordtechnicalcommunitycollege,wyattschaffer416v,Wyatt Schaffer
+Feb 25,home,Wake Tech,L,10-5,10,5,5,win,20240225_2cff,0,0,1,0,0.0,3,4,4,INF,,2,2024,2023-24,div2,Guilford Tech,guilfordtechnicalcommunitycollege,wyattschaffer416v,Wyatt Schaffer
+Mar 17,home,Louisburg,L,13-1,13,1,12,win,20240317_qius,0,0,0,0,0.2,2,3,3,40.50,7.50,3,2024,2023-24,div2,Guilford Tech,guilfordtechnicalcommunitycollege,wyattschaffer416v,Wyatt Schaffer
+Apr 6,home,Wake Tech,L,15-9,15,9,6,win,20240406_5yy8,1,0,0,0,1.1,2,2,0,0.00,1.50,0,2024,2023-24,div2,Guilford Tech,guilfordtechnicalcommunitycollege,wyattschaffer416v,Wyatt Schaffer
+Apr 10,home,Patrick & Henry,L,8-2,8,2,6,win,20240410_mus7,0,0,0,0,2.0,1,2,1,4.50,1.50,2,2024,2023-24,div2,Guilford Tech,guilfordtechnicalcommunitycollege,wyattschaffer416v,Wyatt Schaffer
+Apr 20,home,Cleveland,L,15-10,15,10,5,win,20240420_x5gp,1,0,0,0,2.2,3,4,4,13.50,1.88,2,2024,2023-24,div2,Guilford Tech,guilfordtechnicalcommunitycollege,wyattschaffer416v,Wyatt Schaffer
+Apr 28,home,Louisburg,L,9-8,9,8,1,win,20240428_hht2,1,0,0,0,2.0,3,5,5,22.50,3.00,3,2024,2023-24,div2,Guilford Tech,guilfordtechnicalcommunitycollege,wyattschaffer416v,Wyatt Schaffer
+May 1,home,Patrick & Henry,L,14-2,14,2,12,win,20240501_sah7,0,0,0,0,1.0,2,5,0,0.00,3.00,1,2024,2023-24,div2,Guilford Tech,guilfordtechnicalcommunitycollege,wyattschaffer416v,Wyatt Schaffer

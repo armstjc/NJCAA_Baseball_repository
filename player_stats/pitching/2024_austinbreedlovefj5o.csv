@@ -1,9 +1,14 @@
 date,location,opponent,result,score,team_score,opp_score,game_score_diff,game_win_loss,game_id,GS,W,L,SV,IP,H,R,ER,ERA,BB,K,HR,season,njcaa_season,njcaa_division,team,team_id,player_id,player_name
-Mar 11,home,Dyersburg State,L,8-6,8,6,2,win,20240311_tppl,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div1,Cleveland State,clevelandstatecommunitycollege,austinbreedlovefj5o,Austin Breedlove
-Mar 2,home,Southwest Tennessee,L,11-9,11,9,2,win,20240302_g1uc,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div1,Cleveland State,clevelandstatecommunitycollege,austinbreedlovefj5o,Austin Breedlove
-Feb 27,home,BCA,W,3-1,3,1,2,win,20240227_2nh3,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div1,Cleveland State,clevelandstatecommunitycollege,austinbreedlovefj5o,Austin Breedlove
-Feb 23,home,Lincoln Trail,W,5-3,5,3,2,win,20240223_uwbm,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div1,Cleveland State,clevelandstatecommunitycollege,austinbreedlovefj5o,Austin Breedlove
-Feb 19,home,Cuyahoga,W,19-1,19,1,18,win,20240219_3p7t,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div1,Cleveland State,clevelandstatecommunitycollege,austinbreedlovefj5o,Austin Breedlove
-Feb 18,home,Cuyahoga,L,8-4,8,4,4,win,20240218_rbqc,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div1,Cleveland State,clevelandstatecommunitycollege,austinbreedlovefj5o,Austin Breedlove
-Feb 18,home,Cuyahoga,W,4-3,4,3,1,win,20240218_03r5,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div1,Cleveland State,clevelandstatecommunitycollege,austinbreedlovefj5o,Austin Breedlove
-Feb 17,home,Cuyahoga,W,2-0,2,0,2,win,20240217_g0tt,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div1,Cleveland State,clevelandstatecommunitycollege,austinbreedlovefj5o,Austin Breedlove
+Apr 27,home,Volunteer State,L,8-7,8,7,1,win,20240427_fzon,1,0,0,0,5.1,5,7,5,8.44,1.69,4,7,2024,2023-24,div1,Cleveland State,clevelandstatecommunitycollege,austinbreedlovefj5o,Austin Breedlove
+Apr 20,home,Walters State,L,11-1,11,1,10,win,20240420_d2at,1,0,1,0,6.0,8,9,5,7.50,1.67,2,8,2024,2023-24,div1,Cleveland State,clevelandstatecommunitycollege,austinbreedlovefj5o,Austin Breedlove
+Apr 13,home,Columbia State,L,12-4,12,4,8,win,20240413_uuj8,1,0,1,0,5.0,6,5,5,9.00,1.60,2,9,2024,2023-24,div1,Cleveland State,clevelandstatecommunitycollege,austinbreedlovefj5o,Austin Breedlove
+Apr 6,home,Chattanooga State,L,7-6,7,6,1,win,20240406_umor,1,0,0,0,4.0,5,5,5,11.25,1.75,2,7,2024,2023-24,div1,Cleveland State,clevelandstatecommunitycollege,austinbreedlovefj5o,Austin Breedlove
+Mar 30,home,Motlow State,W,4-3,4,3,1,win,20240330_f8kn,1,0,0,0,5.2,5,3,3,4.76,1.76,5,10,2024,2023-24,div1,Cleveland State,clevelandstatecommunitycollege,austinbreedlovefj5o,Austin Breedlove
+Mar 23,home,Roane State,W,14-9,14,9,5,win,20240323_eeqc,1,0,0,0,7.0,7,5,5,6.43,1.29,2,11,2024,2023-24,div1,Cleveland State,clevelandstatecommunitycollege,austinbreedlovefj5o,Austin Breedlove
+Mar 17,home,Jackson State,L,11-10,11,10,1,win,20240317_bby9,1,0,0,0,5.0,4,2,0,0.00,1.20,2,6,2024,2023-24,div1,Cleveland State,clevelandstatecommunitycollege,austinbreedlovefj5o,Austin Breedlove
+Mar 11,home,Dyersburg State,L,5-4,5,4,1,win,20240311_fxcz,1,0,0,0,5.0,5,3,1,1.80,1.80,4,8,2024,2023-24,div1,Cleveland State,clevelandstatecommunitycollege,austinbreedlovefj5o,Austin Breedlove
+Mar 2,home,Southwest Tennessee,L,3-2,3,2,1,win,20240302_a2ln,1,0,1,0,7.0,4,3,3,3.86,.86,2,12,2024,2023-24,div1,Cleveland State,clevelandstatecommunitycollege,austinbreedlovefj5o,Austin Breedlove
+Feb 24,home,Lincoln Trail,W,5-2,5,2,3,win,20240224_ygdk,1,1,0,0,7.0,2,2,2,2.57,.43,1,14,2024,2023-24,div1,Cleveland State,clevelandstatecommunitycollege,austinbreedlovefj5o,Austin Breedlove
+Feb 17,home,Cuyahoga,W,2-0,2,0,2,win,20240217_g0tt,1,1,0,0,7.0,1,0,0,0.00,.29,1,10,2024,2023-24,div1,Cleveland State,clevelandstatecommunitycollege,austinbreedlovefj5o,Austin Breedlove
+Feb 8,home,Vincennes,W,5-4,5,4,1,win,20240208_r8qg,0,0,0,0,1.0,1,,,0.00,1.00,,3,2024,2023-24,div1,Cleveland State,clevelandstatecommunitycollege,austinbreedlovefj5o,Austin Breedlove
+Feb 3,home,Abraham Baldwin,W,6-1,6,1,5,win,20240203_i422,1,1,0,0,7.0,2,1,1,1.29,.43,1,7,2024,2023-24,div1,Cleveland State,clevelandstatecommunitycollege,austinbreedlovefj5o,Austin Breedlove

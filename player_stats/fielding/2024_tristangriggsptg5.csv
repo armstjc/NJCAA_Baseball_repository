@@ -1,11 +1,12 @@
 date,location,opponent,result,score,team_score,opp_score,game_score_diff,game_win_loss,game_id,TC,PO,A,E,FPCT,DP,SBA,RCS,RCS_PCT,PB,CI,season,njcaa_season,njcaa_division,team,team_id,player_id,player_name
-Feb 3,home,Northeast Mississippi,L,3-2,3,2,1,win,20240203_ae3z,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Columbia State,columbiastatecommunitycollege,tristangriggsptg5,Tristan Griggs
-Feb 10,home,Danville Area,W,32-11,32,11,21,win,20240210_spek,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Columbia State,columbiastatecommunitycollege,tristangriggsptg5,Tristan Griggs
-Feb 15,home,Chipola,L,13-4,13,4,9,win,20240215_rv2d,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Columbia State,columbiastatecommunitycollege,tristangriggsptg5,Tristan Griggs
-Feb 21,home,Wallace State,L,6-3,6,3,3,win,20240221_blju,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Columbia State,columbiastatecommunitycollege,tristangriggsptg5,Tristan Griggs
-Feb 27,home,Snead State,W,10-6,10,6,4,win,20240227_k83u,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Columbia State,columbiastatecommunitycollege,tristangriggsptg5,Tristan Griggs
-Feb 29,home,Grand Rapids,L,7-5,7,5,2,win,20240229_o5bu,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Columbia State,columbiastatecommunitycollege,tristangriggsptg5,Tristan Griggs
-Mar 11,home,Roane State,W,7-1,7,1,6,win,20240311_ii7m,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Columbia State,columbiastatecommunitycollege,tristangriggsptg5,Tristan Griggs
-Mar 13,home,Kishwaukee,W,13-3,13,3,10,win,20240313_dcy9,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Columbia State,columbiastatecommunitycollege,tristangriggsptg5,Tristan Griggs
-Apr 15,home,Northwest-Shoals Community College,W,18-12,18,12,6,win,20240415_n6eg,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Columbia State,columbiastatecommunitycollege,tristangriggsptg5,Tristan Griggs
-Apr 16,home,Snead State,W,13-9,13,9,4,win,20240416_rubk,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Columbia State,columbiastatecommunitycollege,tristangriggsptg5,Tristan Griggs
+Feb 13,home,Olney Central,W,11-10,11,10,1,win,20240213_ht5a,1,0,0,0,1.0,1,0,0,0.00,1.00,0,2024,2023-24,div1,Columbia State,columbiastatecommunitycollege,tristangriggsptg5,Tristan Griggs
+Feb 16,home,Chipola,L,5-2,5,2,3,win,20240216_a3a5,1,0,0,0,2.0,2,0,0,0.00,1.00,0,2024,2023-24,div1,Columbia State,columbiastatecommunitycollege,tristangriggsptg5,Tristan Griggs
+Mar 2,home,Walters State,W,8-7,8,7,1,win,20240302_3dnr,1,0,0,0,2.2,4,4,4,13.50,2.63,3,2024,2023-24,div1,Columbia State,columbiastatecommunitycollege,tristangriggsptg5,Tristan Griggs
+Mar 10,home,Roane State,L,4-2,4,2,2,win,20240310_799u,1,0,0,0,4.0,4,3,2,4.50,2.50,6,2024,2023-24,div1,Columbia State,columbiastatecommunitycollege,tristangriggsptg5,Tristan Griggs
+Mar 16,home,Dyersburg State,W,17-3,17,3,14,win,20240316_bgnh,1,1,0,0,3.0,2,3,3,9.00,2.67,6,2024,2023-24,div1,Columbia State,columbiastatecommunitycollege,tristangriggsptg5,Tristan Griggs
+Mar 24,home,Volunteer State,W,16-3,16,3,13,win,20240324_gwra,1,1,0,0,4.0,2,0,0,0.00,1.75,5,2024,2023-24,div1,Columbia State,columbiastatecommunitycollege,tristangriggsptg5,Tristan Griggs
+Mar 29,home,Jackson State,W,13-1,13,1,12,win,20240329_lkis,1,1,0,0,5.0,4,0,0,0.00,1.20,2,2024,2023-24,div1,Columbia State,columbiastatecommunitycollege,tristangriggsptg5,Tristan Griggs
+Apr 5,home,Southwest Tennessee,L,8-7,8,7,1,win,20240405_zk7t,1,0,0,0,4.0,2,0,0,0.00,1.75,5,2024,2023-24,div1,Columbia State,columbiastatecommunitycollege,tristangriggsptg5,Tristan Griggs
+Apr 12,home,Cleveland State,W,15-14,15,14,1,win,20240412_i6nx,1,1,0,0,3.1,5,6,4,10.80,2.70,4,2024,2023-24,div1,Columbia State,columbiastatecommunitycollege,tristangriggsptg5,Tristan Griggs
+Apr 19,home,Motlow State,W,9-8,9,8,1,win,20240419_r32k,1,0,0,0,4.0,6,6,6,13.50,2.25,3,2024,2023-24,div1,Columbia State,columbiastatecommunitycollege,tristangriggsptg5,Tristan Griggs
+Apr 26,home,Chattanooga State,L,7-6,7,6,1,win,20240426_swj1,1,0,1,0,5.0,7,7,5,9.00,2.00,3,2024,2023-24,div1,Columbia State,columbiastatecommunitycollege,tristangriggsptg5,Tristan Griggs

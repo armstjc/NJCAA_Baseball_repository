@@ -1,8 +1,47 @@
 date,location,opponent,result,score,team_score,opp_score,game_score_diff,game_win_loss,game_id,GS,W,L,SV,IP,H,R,ER,ERA,BB,K,HR,season,njcaa_season,njcaa_division,team,team_id,player_id,player_name
-Apr 18,home,Doane University JV,L,13-6,13,6,7,win,20240418_pl4f,0,0,0,0,2.0,2,1,,0.00,2.00,2,1,2024,2023-24,div1,McCook,mccookcommunitycollege,jacksonfinderpx48,Jackson Finder
-Apr 10,home,Colby,W,14-3,14,3,11,win,20240410_ah3y,0,0,0,0,1.0,1,,,0.00,1.00,,,2024,2023-24,div1,McCook,mccookcommunitycollege,jacksonfinderpx48,Jackson Finder
-Apr 5,home,Northeastern,L,25-3,25,3,22,win,20240405_n1vw,0,0,0,0,1.1,6,7,3,20.25,5.25,1,,2024,2023-24,div1,McCook,mccookcommunitycollege,jacksonfinderpx48,Jackson Finder
-Mar 30,home,Otero,L,5-4,5,4,1,win,20240330_ufwg,0,0,0,0,0.2,,,,0.00,,,1,2024,2023-24,div1,McCook,mccookcommunitycollege,jacksonfinderpx48,Jackson Finder
-Mar 19,home,Hutchinson,L,20-10,20,10,10,win,20240319_0j8x,0,0,0,0,1.2,2,1,,0.00,1.80,1,1,2024,2023-24,div1,McCook,mccookcommunitycollege,jacksonfinderpx48,Jackson Finder
-Mar 13,home,Northwest Oklahoma State JV,L,7-6,7,6,1,win,20240313_163b,0,0,0,0,1.0,,,,0.00,,,1,2024,2023-24,div1,McCook,mccookcommunitycollege,jacksonfinderpx48,Jackson Finder
-Mar 3,home,Northeast,L,13-5,13,5,8,win,20240303_u7yy,0,0,0,0,1.0,,,,0.00,1.00,1,,2024,2023-24,div1,McCook,mccookcommunitycollege,jacksonfinderpx48,Jackson Finder
+Apr 30,home,Colby,W,10-8,10,8,2,win,20240430_89se,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div1,McCook,mccookcommunitycollege,jacksonfinderpx48,Jackson Finder
+Apr 29,home,Western Nebraska,L,15-4,15,4,11,win,20240429_x6fv,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div1,McCook,mccookcommunitycollege,jacksonfinderpx48,Jackson Finder
+Apr 29,home,Western Nebraska,W,9-1,9,1,8,win,20240429_06km,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div1,McCook,mccookcommunitycollege,jacksonfinderpx48,Jackson Finder
+Apr 25,home,Western Nebraska,W,12-2,12,2,10,win,20240425_wgyc,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div1,McCook,mccookcommunitycollege,jacksonfinderpx48,Jackson Finder
+Apr 25,home,Western Nebraska,L,10-5,10,5,5,win,20240425_r1ia,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div1,McCook,mccookcommunitycollege,jacksonfinderpx48,Jackson Finder
+Apr 24,home,Hastings College JV,W,12-0,12,0,12,win,20240424_uh3z,0,0,0,0,1.0,1,,,0.00,2.00,1,1,2024,2023-24,div1,McCook,mccookcommunitycollege,jacksonfinderpx48,Jackson Finder
+Apr 23,home,Colby,L,17-7,17,7,10,win,20240423_xe96,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div1,McCook,mccookcommunitycollege,jacksonfinderpx48,Jackson Finder
+Apr 21,home,Luna,W,13-0,13,0,13,win,20240421_zzcl,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div1,McCook,mccookcommunitycollege,jacksonfinderpx48,Jackson Finder
+Apr 21,home,Luna,W,15-2,15,2,13,win,20240421_cctk,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div1,McCook,mccookcommunitycollege,jacksonfinderpx48,Jackson Finder
+Apr 20,home,Luna,W,10-4,10,4,6,win,20240420_pifo,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div1,McCook,mccookcommunitycollege,jacksonfinderpx48,Jackson Finder
+Apr 20,home,Luna,W,6-0,6,0,6,win,20240420_lm32,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div1,McCook,mccookcommunitycollege,jacksonfinderpx48,Jackson Finder
+Apr 18,home,Doane University JV,L,13-6,13,6,7,win,20240418_pl4f,0,0,0,0,1.0,3,8,5,45.00,7.00,4,1,2024,2023-24,div1,McCook,mccookcommunitycollege,jacksonfinderpx48,Jackson Finder
+Apr 17,home,Colby,L,11-10,11,10,1,win,20240417_hayr,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div1,McCook,mccookcommunitycollege,jacksonfinderpx48,Jackson Finder
+Apr 14,home,Trinidad State,W,11-0,11,0,11,win,20240414_vb18,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div1,McCook,mccookcommunitycollege,jacksonfinderpx48,Jackson Finder
+Apr 14,home,Trinidad State,W,5-4,5,4,1,win,20240414_qdht,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div1,McCook,mccookcommunitycollege,jacksonfinderpx48,Jackson Finder
+Apr 13,home,Trinidad State,W,21-11,21,11,10,win,20240413_0cdu,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div1,McCook,mccookcommunitycollege,jacksonfinderpx48,Jackson Finder
+Apr 13,home,Trinidad State,W,13-2,13,2,11,win,20240413_2kfb,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div1,McCook,mccookcommunitycollege,jacksonfinderpx48,Jackson Finder
+Apr 10,home,Colby,W,14-3,14,3,11,win,20240410_ah3y,0,0,0,0,1.0,1,,,0.00,1.00,,2,2024,2023-24,div1,McCook,mccookcommunitycollege,jacksonfinderpx48,Jackson Finder
+Apr 8,home,Northeastern,W,18-12,18,12,6,win,20240408_ivti,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div1,McCook,mccookcommunitycollege,jacksonfinderpx48,Jackson Finder
+Apr 8,home,Northeastern,L,8-7,8,7,1,win,20240408_7jcq,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div1,McCook,mccookcommunitycollege,jacksonfinderpx48,Jackson Finder
+Apr 5,home,Northeastern,L,25-3,25,3,22,win,20240405_n1vw,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div1,McCook,mccookcommunitycollege,jacksonfinderpx48,Jackson Finder
+Apr 5,home,Northeastern,W,11-4,11,4,7,win,20240405_l84z,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div1,McCook,mccookcommunitycollege,jacksonfinderpx48,Jackson Finder
+Apr 3,home,York College JV,W,9-6,9,6,3,win,20240403_u2re,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div1,McCook,mccookcommunitycollege,jacksonfinderpx48,Jackson Finder
+Mar 30,home,Otero,W,4-3,4,3,1,win,20240330_cic2,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div1,McCook,mccookcommunitycollege,jacksonfinderpx48,Jackson Finder
+Mar 30,home,Otero,L,5-4,5,4,1,win,20240330_ufwg,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div1,McCook,mccookcommunitycollege,jacksonfinderpx48,Jackson Finder
+Mar 29,home,Otero,W,9-3,9,3,6,win,20240329_g5qs,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div1,McCook,mccookcommunitycollege,jacksonfinderpx48,Jackson Finder
+Mar 29,home,Otero,W,11-1,11,1,10,win,20240329_ph13,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div1,McCook,mccookcommunitycollege,jacksonfinderpx48,Jackson Finder
+Mar 23,home,Lamar,W,13-6,13,6,7,win,20240323_xqjv,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div1,McCook,mccookcommunitycollege,jacksonfinderpx48,Jackson Finder
+Mar 23,home,Lamar,L,7-6,7,6,1,win,20240323_lze4,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div1,McCook,mccookcommunitycollege,jacksonfinderpx48,Jackson Finder
+Mar 22,home,Lamar,W,11-10,11,10,1,win,20240322_ynx7,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div1,McCook,mccookcommunitycollege,jacksonfinderpx48,Jackson Finder
+Mar 22,home,Lamar,W,7-1,7,1,6,win,20240322_eai4,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div1,McCook,mccookcommunitycollege,jacksonfinderpx48,Jackson Finder
+Mar 20,home,Kansas Wesleyan JV,L,5-4,5,4,1,win,20240320_vvd3,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div1,McCook,mccookcommunitycollege,jacksonfinderpx48,Jackson Finder
+Mar 19,home,Hutchinson,L,20-10,20,10,10,win,20240319_0j8x,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div1,McCook,mccookcommunitycollege,jacksonfinderpx48,Jackson Finder
+Mar 16,home,Dallas College - Richland,L,4-3,4,3,1,win,20240316_uv4n,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div1,McCook,mccookcommunitycollege,jacksonfinderpx48,Jackson Finder
+Mar 13,home,Northwest Oklahoma State JV,L,7-6,7,6,1,win,20240313_163b,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div1,McCook,mccookcommunitycollege,jacksonfinderpx48,Jackson Finder
+Mar 13,home,Northwest Oklahoma State JV,W,13-2,13,2,11,win,20240313_y7ur,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div1,McCook,mccookcommunitycollege,jacksonfinderpx48,Jackson Finder
+Mar 6,home,Hesston,W,17-7,17,7,10,win,20240306_bgzc,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div1,McCook,mccookcommunitycollege,jacksonfinderpx48,Jackson Finder
+Mar 3,home,Northeast,L,13-5,13,5,8,win,20240303_u7yy,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div1,McCook,mccookcommunitycollege,jacksonfinderpx48,Jackson Finder
+Mar 3,home,Northeast,W,8-4,8,4,4,win,20240303_1u6m,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div1,McCook,mccookcommunitycollege,jacksonfinderpx48,Jackson Finder
+Mar 1,home,Northeast,L,16-4,16,4,12,win,20240301_devn,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div1,McCook,mccookcommunitycollege,jacksonfinderpx48,Jackson Finder
+Mar 1,home,Northeast,W,9-8,9,8,1,win,20240301_gtxy,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div1,McCook,mccookcommunitycollege,jacksonfinderpx48,Jackson Finder
+Feb 24,home,Clarendon,L,18-11,18,11,7,win,20240224_4wuq,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div1,McCook,mccookcommunitycollege,jacksonfinderpx48,Jackson Finder
+Feb 18,home,Labette,L,10-0,10,0,10,win,20240218_e3sh,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div1,McCook,mccookcommunitycollege,jacksonfinderpx48,Jackson Finder
+Feb 18,home,Labette,W,10-5,10,5,5,win,20240218_25l3,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div1,McCook,mccookcommunitycollege,jacksonfinderpx48,Jackson Finder
+Feb 9,home,Dallas College - Brookhaven,L,9-4,9,4,5,win,20240209_wwzo,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div1,McCook,mccookcommunitycollege,jacksonfinderpx48,Jackson Finder
+Feb 9,home,Dallas College - Brookhaven,L,5-4,5,4,1,win,20240209_3d40,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div1,McCook,mccookcommunitycollege,jacksonfinderpx48,Jackson Finder
