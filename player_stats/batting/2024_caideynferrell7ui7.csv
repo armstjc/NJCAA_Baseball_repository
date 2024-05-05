@@ -1,26 +1,2 @@
 date,location,opponent,result,score,team_score,opp_score,game_score_diff,game_win_loss,game_id,AB,R,H,2B,3B,HR,RBI,BB,K,SB,CS,HBP,SF,SH,TB,XBH,HDP,GO,FO,GO/FO,PA,season,njcaa_season,njcaa_division,team,team_id,player_id,player_name
-Feb 9,home,Minnesota North College - Hibbing,W,20-15,20,15,5,win,20240209_xdit,4,2,2,1,,,2,1,,1,,,,,3,1,,,,,5,2024,2023-24,div2,East Central (MO),eastcentralcollege,caideynferrell7ui7,Caideyn Ferrell
-Feb 10,home,Minnesota North College - Hibbing,W,11-8,11,8,3,win,20240210_mnt0,0,0,0,,,,0,,,,,1,,,0,0,,,,,1,2024,2023-24,div2,East Central (MO),eastcentralcollege,caideynferrell7ui7,Caideyn Ferrell
-Feb 10,home,Minnesota North College - Hibbing,W,11-1,11,1,10,win,20240210_hbea,4,3,3,,,,0,,,,,,,,3,0,,,,,4,2024,2023-24,div2,East Central (MO),eastcentralcollege,caideynferrell7ui7,Caideyn Ferrell
-Feb 13,home,State Fair,W,11-5,11,5,6,win,20240213_nh4i,1,3,0,,,,0,1,,,,1,,1,0,0,,,,,4,2024,2023-24,div2,East Central (MO),eastcentralcollege,caideynferrell7ui7,Caideyn Ferrell
-Feb 19,home,Northern Oklahoma Enid,W,9-7,9,7,2,win,20240219_s6ui,3,1,0,,,,0,,1,2,,1,,,0,0,,,,,4,2024,2023-24,div2,East Central (MO),eastcentralcollege,caideynferrell7ui7,Caideyn Ferrell
-Feb 23,home,Milwaukee Area Tech,W,11-6,11,6,5,win,20240223_wgm7,3,3,2,,,,0,,,3,,,,,2,0,,,,,3,2024,2023-24,div2,East Central (MO),eastcentralcollege,caideynferrell7ui7,Caideyn Ferrell
-Feb 24,home,Milwaukee Area Tech,W,7-4,7,4,3,win,20240224_zvl4,2,1,1,,,,1,,,1,,1,,,1,0,,,,,3,2024,2023-24,div2,East Central (MO),eastcentralcollege,caideynferrell7ui7,Caideyn Ferrell
-Feb 27,home,Southwestern Illinois,W,14-13,14,13,1,win,20240227_9wn8,0,1,0,,,,0,,,,,,,,0,0,,,,,0,2024,2023-24,div2,East Central (MO),eastcentralcollege,caideynferrell7ui7,Caideyn Ferrell
-Mar 16,home,North Arkansas,W,7-3,7,3,4,win,20240316_xixo,2,1,0,,,,0,1,1,1,,,,,0,0,,,,,3,2024,2023-24,div2,East Central (MO),eastcentralcollege,caideynferrell7ui7,Caideyn Ferrell
-Mar 16,home,North Arkansas,W,9-8,9,8,1,win,20240316_jbj5,2,0,0,,,,0,1,,,,,,,0,0,,,,,3,2024,2023-24,div2,East Central (MO),eastcentralcollege,caideynferrell7ui7,Caideyn Ferrell
-Mar 19,home,State Fair,W,14-4,14,4,10,win,20240319_aym9,3,1,1,1,,,3,1,1,,,,,,2,1,,,,,4,2024,2023-24,div2,East Central (MO),eastcentralcollege,caideynferrell7ui7,Caideyn Ferrell
-Mar 22,home,Hesston,W,11-1,11,1,10,win,20240322_i7by,2,1,0,,,,0,,1,,,1,,,0,0,,,,,3,2024,2023-24,div2,East Central (MO),eastcentralcollege,caideynferrell7ui7,Caideyn Ferrell
-Mar 22,home,Hesston,W,10-3,10,3,7,win,20240322_6ot9,2,2,1,1,,,0,1,,,,,,,2,1,,,,,3,2024,2023-24,div2,East Central (MO),eastcentralcollege,caideynferrell7ui7,Caideyn Ferrell
-Mar 23,home,Hesston,W,2-1,2,1,1,win,20240323_93a2,2,0,1,,1,,1,1,1,1,,,,,3,1,,,,,3,2024,2023-24,div2,East Central (MO),eastcentralcollege,caideynferrell7ui7,Caideyn Ferrell
-Mar 23,home,Hesston,W,7-1,7,1,6,win,20240323_6ivo,2,1,1,,,,0,1,,1,,,,,1,0,,,,,3,2024,2023-24,div2,East Central (MO),eastcentralcollege,caideynferrell7ui7,Caideyn Ferrell
-Mar 29,home,North Central Missouri,W,10-5,10,5,5,win,20240329_hytp,3,1,0,,,,0,1,,,,,,,0,0,,,,,4,2024,2023-24,div2,East Central (MO),eastcentralcollege,caideynferrell7ui7,Caideyn Ferrell
-Mar 29,home,North Central Missouri,W,17-7,17,7,10,win,20240329_v12y,4,2,2,,,,2,1,1,,,,,,2,0,,,,,5,2024,2023-24,div2,East Central (MO),eastcentralcollege,caideynferrell7ui7,Caideyn Ferrell
-Apr 5,home,Moberly Area,W,4-3,4,3,1,win,20240405_3w51,1,0,0,,,,0,,1,,,,,,0,0,,,,,1,2024,2023-24,div2,East Central (MO),eastcentralcollege,caideynferrell7ui7,Caideyn Ferrell
-Apr 6,home,Moberly Area,W,2-1,2,1,1,win,20240406_qukt,2,1,0,,,,0,1,1,2,,,,,0,0,,,,,3,2024,2023-24,div2,East Central (MO),eastcentralcollege,caideynferrell7ui7,Caideyn Ferrell
-Apr 9,home,St. Louis,W,9-6,9,6,3,win,20240409_itcn,3,1,1,,,,0,,1,,,,,,1,0,,,,,3,2024,2023-24,div2,East Central (MO),eastcentralcollege,caideynferrell7ui7,Caideyn Ferrell
-Apr 11,home,Westminster College,W,9-0,9,0,9,win,20240411_ljaa,4,2,3,1,,,2,,1,2,,,,,4,1,,,,,4,2024,2023-24,div2,East Central (MO),eastcentralcollege,caideynferrell7ui7,Caideyn Ferrell
-Apr 13,home,Hesston,W,5-2,5,2,3,win,20240413_zigp,3,0,0,,,,0,,,,,,,,0,0,,,,,3,2024,2023-24,div2,East Central (MO),eastcentralcollege,caideynferrell7ui7,Caideyn Ferrell
-Apr 13,home,Hesston,W,8-3,8,3,5,win,20240413_ut0a,3,2,0,,,,0,,1,2,,1,,,0,0,,,,,4,2024,2023-24,div2,East Central (MO),eastcentralcollege,caideynferrell7ui7,Caideyn Ferrell
-Apr 19,home,North Central Missouri,W,11-5,11,5,6,win,20240419_5ok0,4,3,3,,,,1,,1,1,,,,,3,0,,,,,4,2024,2023-24,div2,East Central (MO),eastcentralcollege,caideynferrell7ui7,Caideyn Ferrell
-Apr 19,home,North Central Missouri,W,5-3,5,3,2,win,20240419_tlt1,3,0,0,,,,0,,1,,,,,,0,0,,,,,3,2024,2023-24,div2,East Central (MO),eastcentralcollege,caideynferrell7ui7,Caideyn Ferrell
+Feb 18,home,Northern Oklahoma Enid,W,8-5,8,5,3,win,20240218_zfi4,0,0,0,,,,0,,,,,,,,0,0,,,,,0,2024,2023-24,div2,East Central (MO),eastcentralcollege,caideynferrell7ui7,Caideyn Ferrell
