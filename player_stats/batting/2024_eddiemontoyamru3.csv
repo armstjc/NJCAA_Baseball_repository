@@ -1,17 +1,29 @@
 date,location,opponent,result,score,team_score,opp_score,game_score_diff,game_win_loss,game_id,AB,R,H,2B,3B,HR,RBI,BB,K,SB,CS,HBP,SF,SH,TB,XBH,HDP,GO,FO,GO/FO,PA,season,njcaa_season,njcaa_division,team,team_id,player_id,player_name
-Feb 17,home,El Paso,W,7-6,7,6,1,win,20240217_22e6,5,0,2,1,,,0,,2,,,,,,3,1,,,,,5,2024,2023-24,div1,Otero,oterocollege,eddiemontoyamru3,Eddie Montoya
-Feb 18,home,El Paso,W,1-0,1,0,1,win,20240218_lnzb,2,0,1,,,,0,1,1,,,,,,1,0,,,,,3,2024,2023-24,div1,Otero,oterocollege,eddiemontoyamru3,Eddie Montoya
-Feb 18,home,El Paso,W,15-12,15,12,3,win,20240218_6djj,6,0,1,,,,1,,,,,,,,1,0,,,,,6,2024,2023-24,div1,Otero,oterocollege,eddiemontoyamru3,Eddie Montoya
-Feb 24,home,New Mexico Military,W,5-4,5,4,1,win,20240224_yx5v,3,0,0,,,,0,,,,,,,,0,0,,,,,3,2024,2023-24,div1,Otero,oterocollege,eddiemontoyamru3,Eddie Montoya
-Mar 6,home,Adam State University JV,W,12-0,12,0,12,win,20240306_bek3,4,1,1,,1,,1,,1,,,,,,3,1,,,,,4,2024,2023-24,div1,Otero,oterocollege,eddiemontoyamru3,Eddie Montoya
-Mar 18,home,Colby,W,7-6,7,6,1,win,20240318_rclu,3,0,0,,,,0,1,1,,,,,1,0,0,,,,,5,2024,2023-24,div1,Otero,oterocollege,eddiemontoyamru3,Eddie Montoya
-Mar 23,home,Southeast,W,4-3,4,3,1,win,20240323_3qhn,3,0,1,,,,1,,,,,,,,1,0,,,,,3,2024,2023-24,div1,Otero,oterocollege,eddiemontoyamru3,Eddie Montoya
-Mar 23,home,Southeast,W,7-3,7,3,4,win,20240323_iejf,3,0,0,,,,0,,2,,,,,,0,0,,,,,3,2024,2023-24,div1,Otero,oterocollege,eddiemontoyamru3,Eddie Montoya
-Mar 30,home,McCook,W,5-4,5,4,1,win,20240330_ufwg,2,0,0,,,,0,1,2,,,,,,0,0,,,,,3,2024,2023-24,div1,Otero,oterocollege,eddiemontoyamru3,Eddie Montoya
-Apr 1,home,Colby,W,15-11,15,11,4,win,20240401_2add,5,1,2,,,,3,,1,,,,,,2,0,,,,,5,2024,2023-24,div1,Otero,oterocollege,eddiemontoyamru3,Eddie Montoya
-Apr 1,home,Colby,W,10-5,10,5,5,win,20240401_b55w,2,1,0,,,,0,1,,,,1,,,0,0,,,,,4,2024,2023-24,div1,Otero,oterocollege,eddiemontoyamru3,Eddie Montoya
-Apr 7,home,Trinidad State,W,8-6,8,6,2,win,20240407_9nbv,0,0,0,,,,0,,,,,,,,0,0,,,,,0,2024,2023-24,div1,Otero,oterocollege,eddiemontoyamru3,Eddie Montoya
-Apr 16,home,Dodge City,W,12-6,12,6,6,win,20240416_caqt,3,1,1,,1,,2,1,1,,,,,,3,1,,,,,4,2024,2023-24,div1,Otero,oterocollege,eddiemontoyamru3,Eddie Montoya
-Apr 22,home,Northeastern,W,5-4,5,4,1,win,20240422_bgel,1,0,0,,,,0,,,,,,,,0,0,,,,,1,2024,2023-24,div1,Otero,oterocollege,eddiemontoyamru3,Eddie Montoya
-Apr 22,home,Northeastern,W,19-2,19,2,17,win,20240422_xjpa,1,0,0,,,,0,,,,,,,,0,0,,,,,1,2024,2023-24,div1,Otero,oterocollege,eddiemontoyamru3,Eddie Montoya
-Apr 28,home,Luna,W,3-2,3,2,1,win,20240428_5of9,2,0,1,,,,1,,1,,,,,,1,0,,,,,2,2024,2023-24,div1,Otero,oterocollege,eddiemontoyamru3,Eddie Montoya
+Feb 17,home,El Paso,W,7-6,7,6,1,win,20240217_22e6,1,0,0,,,,0,,,,,,,,0,0,,,,,1,2024,2023-24,div1,Otero,oterocollege,eddiemontoyamru3,Eddie Montoya
+Feb 18,home,El Paso,W,1-0,1,0,1,win,20240218_lnzb,2,0,2,,,,1,,,,1,,,1,2,0,,,,,3,2024,2023-24,div1,Otero,oterocollege,eddiemontoyamru3,Eddie Montoya
+Feb 18,home,El Paso,W,15-12,15,12,3,win,20240218_6djj,5,3,4,,,,5,1,1,,,,,,4,0,,,,,6,2024,2023-24,div1,Otero,oterocollege,eddiemontoyamru3,Eddie Montoya
+Feb 24,home,New Mexico Military,W,5-4,5,4,1,win,20240224_yx5v,3,0,1,,,,0,,,,,1,,,1,0,,,,,4,2024,2023-24,div1,Otero,oterocollege,eddiemontoyamru3,Eddie Montoya
+Feb 24,home,New Mexico Military,W,17-9,17,9,8,win,20240224_3in3,4,2,3,,,,2,,,,,1,,,3,0,,,,,5,2024,2023-24,div1,Otero,oterocollege,eddiemontoyamru3,Eddie Montoya
+Mar 2,home,Dodge City,W,6-5,6,5,1,win,20240302_f06m,3,1,1,1,,,1,1,1,1,,,,,2,1,,,,,4,2024,2023-24,div1,Otero,oterocollege,eddiemontoyamru3,Eddie Montoya
+Mar 6,home,Adam State University JV,W,12-0,12,0,12,win,20240306_bek3,0,0,0,,,,0,,,,,,,,0,0,,,,,0,2024,2023-24,div1,Otero,oterocollege,eddiemontoyamru3,Eddie Montoya
+Mar 18,home,Colby,W,7-6,7,6,1,win,20240318_rclu,2,1,1,,,,1,2,,,,1,,,1,0,,,,,5,2024,2023-24,div1,Otero,oterocollege,eddiemontoyamru3,Eddie Montoya
+Mar 23,home,Southeast,W,4-3,4,3,1,win,20240323_3qhn,3,1,1,,,,0,,1,,,1,,,1,0,,,,,4,2024,2023-24,div1,Otero,oterocollege,eddiemontoyamru3,Eddie Montoya
+Mar 23,home,Southeast,W,7-3,7,3,4,win,20240323_iejf,3,0,0,,,,1,1,,,,,,,0,0,,,,,4,2024,2023-24,div1,Otero,oterocollege,eddiemontoyamru3,Eddie Montoya
+Mar 30,home,McCook,W,5-4,5,4,1,win,20240330_ufwg,4,1,2,,,1,1,,1,,,,,,5,1,,,,,4,2024,2023-24,div1,Otero,oterocollege,eddiemontoyamru3,Eddie Montoya
+Apr 1,home,Colby,W,15-11,15,11,4,win,20240401_2add,2,1,0,,,,1,1,2,,,1,,,0,0,,,,,4,2024,2023-24,div1,Otero,oterocollege,eddiemontoyamru3,Eddie Montoya
+Apr 7,home,Trinidad State,W,8-6,8,6,2,win,20240407_9nbv,3,0,2,1,,,3,,,,,,,,3,1,,,,,3,2024,2023-24,div1,Otero,oterocollege,eddiemontoyamru3,Eddie Montoya
+Apr 8,home,Trinidad State,W,12-2,12,2,10,win,20240408_tihe,4,2,2,,,,2,,,,,1,,,2,0,,,,,5,2024,2023-24,div1,Otero,oterocollege,eddiemontoyamru3,Eddie Montoya
+Apr 13,home,Western Nebraska,W,14-3,14,3,11,win,20240413_l96t,3,3,2,,,,3,1,,,,,,,2,0,,,,,4,2024,2023-24,div1,Otero,oterocollege,eddiemontoyamru3,Eddie Montoya
+Apr 13,home,Western Nebraska,W,9-2,9,2,7,win,20240413_z395,3,0,0,,,,2,,1,,,,2,,0,0,,,,,5,2024,2023-24,div1,Otero,oterocollege,eddiemontoyamru3,Eddie Montoya
+Apr 14,home,Western Nebraska,W,4-1,4,1,3,win,20240414_v4kj,4,0,1,,,,1,,,,,,,,1,0,1,,,,4,2024,2023-24,div1,Otero,oterocollege,eddiemontoyamru3,Eddie Montoya
+Apr 21,home,Northeastern,W,6-3,6,3,3,win,20240421_mo9b,3,0,0,,,,0,1,,,,,,,0,0,,,,,4,2024,2023-24,div1,Otero,oterocollege,eddiemontoyamru3,Eddie Montoya
+Apr 21,home,Northeastern,W,13-5,13,5,8,win,20240421_y3n5,5,1,3,,1,,2,,1,,,,,,5,1,,,,,5,2024,2023-24,div1,Otero,oterocollege,eddiemontoyamru3,Eddie Montoya
+Apr 22,home,Northeastern,W,5-4,5,4,1,win,20240422_bgel,5,0,1,,,,2,,,,,,,,1,0,,,,,5,2024,2023-24,div1,Otero,oterocollege,eddiemontoyamru3,Eddie Montoya
+Apr 22,home,Northeastern,W,19-2,19,2,17,win,20240422_xjpa,3,2,2,,,,2,1,,,,,,,2,0,,,,,4,2024,2023-24,div1,Otero,oterocollege,eddiemontoyamru3,Eddie Montoya
+Apr 27,home,Luna,W,5-2,5,2,3,win,20240427_9cca,2,0,1,,,,2,1,,,,,,,1,0,,,,,3,2024,2023-24,div1,Otero,oterocollege,eddiemontoyamru3,Eddie Montoya
+Apr 27,home,Luna,W,17-9,17,9,8,win,20240427_inlw,6,1,1,,,,1,,,,1,,,,1,0,,,,,6,2024,2023-24,div1,Otero,oterocollege,eddiemontoyamru3,Eddie Montoya
+Apr 28,home,Luna,W,3-2,3,2,1,win,20240428_5of9,3,1,1,1,,,1,1,,,,,,,2,1,,,,,4,2024,2023-24,div1,Otero,oterocollege,eddiemontoyamru3,Eddie Montoya
+Apr 28,home,Luna,W,10-0,10,0,10,win,20240428_wm9q,2,0,0,,,,1,,,,,,,1,0,0,,,,,3,2024,2023-24,div1,Otero,oterocollege,eddiemontoyamru3,Eddie Montoya
+May 2,home,Lamar,W,10-6,10,6,4,win,20240502_6ca8,5,1,1,,,1,1,,3,,,,,,4,1,,,,,5,2024,2023-24,div1,Otero,oterocollege,eddiemontoyamru3,Eddie Montoya
+May 3,home,Lamar,W,5-3,5,3,2,win,20240503_e9m7,4,1,1,,,,0,,,,,,,,1,0,,,,,4,2024,2023-24,div1,Otero,oterocollege,eddiemontoyamru3,Eddie Montoya
+May 4,home,Lamar,W,22-3,22,3,19,win,20240504_gxh4,4,4,2,1,,1,2,1,,,,1,,,6,2,,,,,6,2024,2023-24,div1,Otero,oterocollege,eddiemontoyamru3,Eddie Montoya

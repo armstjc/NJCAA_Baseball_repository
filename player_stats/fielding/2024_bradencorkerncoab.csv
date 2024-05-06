@@ -1,28 +1,18 @@
 date,location,opponent,result,score,team_score,opp_score,game_score_diff,game_win_loss,game_id,TC,PO,A,E,FPCT,DP,SBA,RCS,RCS_PCT,PB,CI,season,njcaa_season,njcaa_division,team,team_id,player_id,player_name
-Jan 27,home,Mississippi Gulf Coast,L,8-7,8,7,1,win,20240127_ocr0,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Baton Rouge,batonrougecommunitycollege,bradencorkerncoab,Braden Corkern
-Jan 30,home,Wharton County,L,22-4,22,4,18,win,20240130_2ul3,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Baton Rouge,batonrougecommunitycollege,bradencorkerncoab,Braden Corkern
-Feb 2,home,Blinn,L,16-8,16,8,8,win,20240202_uj7r,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Baton Rouge,batonrougecommunitycollege,bradencorkerncoab,Braden Corkern
-Feb 9,home,Pearl River,L,3-0,3,0,3,win,20240209_exms,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Baton Rouge,batonrougecommunitycollege,bradencorkerncoab,Braden Corkern
-Feb 11,home,Pearl River,L,10-3,10,3,7,win,20240211_zfoc,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Baton Rouge,batonrougecommunitycollege,bradencorkerncoab,Braden Corkern
-Feb 11,home,Pearl River,L,16-4,16,4,12,win,20240211_mcyh,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Baton Rouge,batonrougecommunitycollege,bradencorkerncoab,Braden Corkern
-Feb 14,home,Southwest Mississippi,L,8-4,8,4,4,win,20240214_of6x,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Baton Rouge,batonrougecommunitycollege,bradencorkerncoab,Braden Corkern
-Feb 17,home,Tyler,L,5-3,5,3,2,win,20240217_85lp,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Baton Rouge,batonrougecommunitycollege,bradencorkerncoab,Braden Corkern
-Feb 20,home,Northwest Florida State,L,12-3,12,3,9,win,20240220_qwau,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Baton Rouge,batonrougecommunitycollege,bradencorkerncoab,Braden Corkern
-Feb 23,home,Jones,L,5-4,5,4,1,win,20240223_7yv8,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Baton Rouge,batonrougecommunitycollege,bradencorkerncoab,Braden Corkern
-Feb 25,home,Jones,L,10-3,10,3,7,win,20240225_321o,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Baton Rouge,batonrougecommunitycollege,bradencorkerncoab,Braden Corkern
-Feb 29,home,Copiah-Lincoln,W,10-9,10,9,1,win,20240229_7mgo,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Baton Rouge,batonrougecommunitycollege,bradencorkerncoab,Braden Corkern
-Mar 7,home,South Suburban,L,5-4,5,4,1,win,20240307_srpa,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Baton Rouge,batonrougecommunitycollege,bradencorkerncoab,Braden Corkern
-Mar 12,home,Southeastern,L,6-4,6,4,2,win,20240312_xpwi,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Baton Rouge,batonrougecommunitycollege,bradencorkerncoab,Braden Corkern
-Mar 13,home,Southeastern,L,11-6,11,6,5,win,20240313_m9l1,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Baton Rouge,batonrougecommunitycollege,bradencorkerncoab,Braden Corkern
-Mar 18,home,Louisiana Christian University JV,W,11-5,11,5,6,win,20240318_09qz,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Baton Rouge,batonrougecommunitycollege,bradencorkerncoab,Braden Corkern
-Mar 23,home,Hinds,W,4-2,4,2,2,win,20240323_uoze,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Baton Rouge,batonrougecommunitycollege,bradencorkerncoab,Braden Corkern
-Mar 29,home,Delgado,L,9-3,9,3,6,win,20240329_04rq,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Baton Rouge,batonrougecommunitycollege,bradencorkerncoab,Braden Corkern
-Mar 29,home,Delgado,L,2-1,2,1,1,win,20240329_nmi9,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Baton Rouge,batonrougecommunitycollege,bradencorkerncoab,Braden Corkern
+Jan 29,home,Mississippi Gulf Coast,L,12-4,12,4,8,win,20240129_hdnf,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Baton Rouge,batonrougecommunitycollege,bradencorkerncoab,Braden Corkern
+Jan 30,home,Wharton County,L,22-4,22,4,18,win,20240130_2ul3,0,0,0,0,1.0,1,1,1,9.00,4.00,3,2024,2023-24,div1,Baton Rouge,batonrougecommunitycollege,bradencorkerncoab,Braden Corkern
+Feb 2,home,Blinn,L,16-8,16,8,8,win,20240202_uj7r,0,0,0,0,1.1,3,4,4,27.00,3.00,1,2024,2023-24,div1,Baton Rouge,batonrougecommunitycollege,bradencorkerncoab,Braden Corkern
+Feb 9,home,Pearl River,L,10-0,10,0,10,win,20240209_kej4,0,0,0,0,0.1,1,,,0.00,3.00,,2024,2023-24,div1,Baton Rouge,batonrougecommunitycollege,bradencorkerncoab,Braden Corkern
+Feb 11,home,Pearl River,L,16-4,16,4,12,win,20240211_mcyh,1,0,1,0,3.0,6,6,6,18.00,2.33,1,2024,2023-24,div1,Baton Rouge,batonrougecommunitycollege,bradencorkerncoab,Braden Corkern
+Feb 14,home,Southwest Mississippi,L,8-4,8,4,4,win,20240214_of6x,0,0,0,0,0.1,,1,1,27.00,3.00,1,2024,2023-24,div1,Baton Rouge,batonrougecommunitycollege,bradencorkerncoab,Braden Corkern
+Feb 20,home,Northwest Florida State,L,14-7,14,7,7,win,20240220_lovd,0,0,0,0,1.0,1,2,2,18.00,3.00,2,2024,2023-24,div1,Baton Rouge,batonrougecommunitycollege,bradencorkerncoab,Braden Corkern
+Feb 23,home,Jones,L,8-7,8,7,1,win,20240223_fvgu,0,0,1,0,0.1,0,4,0,0.00,6.00,2,2024,2023-24,div1,Baton Rouge,batonrougecommunitycollege,bradencorkerncoab,Braden Corkern
+Feb 29,home,Copiah-Lincoln,L,7-3,7,3,4,win,20240229_fldl,0,0,0,0,1.0,,,,0.00,1.00,1,2024,2023-24,div1,Baton Rouge,batonrougecommunitycollege,bradencorkerncoab,Braden Corkern
+Mar 7,home,South Suburban,W,6-0,6,0,6,win,20240307_urfm,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Baton Rouge,batonrougecommunitycollege,bradencorkerncoab,Braden Corkern
+Mar 12,home,Southeastern,L,9-2,9,2,7,win,20240312_yue2,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Baton Rouge,batonrougecommunitycollege,bradencorkerncoab,Braden Corkern
+Mar 16,home,East Central (MS),L,13-3,13,3,10,win,20240316_q0x1,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Baton Rouge,batonrougecommunitycollege,bradencorkerncoab,Braden Corkern
+Mar 18,home,Louisiana Christian University JV,W,15-7,15,7,8,win,20240318_r3tn,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Baton Rouge,batonrougecommunitycollege,bradencorkerncoab,Braden Corkern
+Mar 30,home,Delgado,L,9-2,9,2,7,win,20240330_wbac,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Baton Rouge,batonrougecommunitycollege,bradencorkerncoab,Braden Corkern
 Apr 1,home,LSU-Alexandria JV,W,12-7,12,7,5,win,20240401_xk90,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Baton Rouge,batonrougecommunitycollege,bradencorkerncoab,Braden Corkern
 Apr 6,home,Nunez,W,13-2,13,2,11,win,20240406_w0l9,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Baton Rouge,batonrougecommunitycollege,bradencorkerncoab,Braden Corkern
-Apr 9,home,Holmes,L,7-3,7,3,4,win,20240409_hren,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Baton Rouge,batonrougecommunitycollege,bradencorkerncoab,Braden Corkern
-Apr 15,home,Louisiana Christian JV,W,7-0,7,0,7,win,20240415_mtqh,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Baton Rouge,batonrougecommunitycollege,bradencorkerncoab,Braden Corkern
-Apr 20,home,Delgado,L,8-6,8,6,2,win,20240420_h0xj,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Baton Rouge,batonrougecommunitycollege,bradencorkerncoab,Braden Corkern
-Apr 21,home,Delgado,W,10-6,10,6,4,win,20240421_pret,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Baton Rouge,batonrougecommunitycollege,bradencorkerncoab,Braden Corkern
-Apr 27,home,Nunez,W,14-13,14,13,1,win,20240427_w71p,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Baton Rouge,batonrougecommunitycollege,bradencorkerncoab,Braden Corkern
-May 2,home,Nunez,L,11-3,11,3,8,win,20240502_5ghu,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Baton Rouge,batonrougecommunitycollege,bradencorkerncoab,Braden Corkern
+Apr 15,home,LSU-Alexandria JV,W,10-1,10,1,9,win,20240415_fr52,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Baton Rouge,batonrougecommunitycollege,bradencorkerncoab,Braden Corkern

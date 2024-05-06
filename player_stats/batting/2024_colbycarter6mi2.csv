@@ -1,31 +1,10 @@
 date,location,opponent,result,score,team_score,opp_score,game_score_diff,game_win_loss,game_id,AB,R,H,2B,3B,HR,RBI,BB,K,SB,CS,HBP,SF,SH,TB,XBH,HDP,GO,FO,GO/FO,PA,season,njcaa_season,njcaa_division,team,team_id,player_id,player_name
-Jan 26,home,Cochise,W,10-4,10,4,6,win,20240126_1phs,3,1,2,1,,,0,2,,,,,,,3,1,,1,,,5,2024,2023-24,div1,Southern Idaho,collegeofsouthernidaho,colbycarter6mi2,Colby Carter
-Jan 27,home,Cochise,W,6-1,6,1,5,win,20240127_k9wy,2,0,2,1,,,2,,,,,1,1,,3,1,,,,,4,2024,2023-24,div1,Southern Idaho,collegeofsouthernidaho,colbycarter6mi2,Colby Carter
-Jan 28,home,Cochise,W,9-6,9,6,3,win,20240128_6cdr,4,3,3,,,1,2,,,,,1,,,6,1,,1,,,5,2024,2023-24,div1,Southern Idaho,collegeofsouthernidaho,colbycarter6mi2,Colby Carter
-Jan 31,home,Scottsdale,W,20-9,20,9,11,win,20240131_0551,2,2,1,1,,,3,3,1,1,,,,,2,1,,,,,5,2024,2023-24,div1,Southern Idaho,collegeofsouthernidaho,colbycarter6mi2,Colby Carter
-Feb 1,home,Scottsdale,W,6-3,6,3,3,win,20240201_iy0r,3,0,0,,,,0,1,3,,,,,,0,0,,,,,4,2024,2023-24,div1,Southern Idaho,collegeofsouthernidaho,colbycarter6mi2,Colby Carter
-Feb 10,home,Central Arizona,W,3-1,3,1,2,win,20240210_w02x,3,0,0,,,,0,,2,,,,,,0,0,,1,,,3,2024,2023-24,div1,Southern Idaho,collegeofsouthernidaho,colbycarter6mi2,Colby Carter
-Feb 16,home,Treasure Valley,W,5-0,5,0,5,win,20240216_ma9e,2,0,0,,,,0,1,1,,,,,,0,0,,1,,,3,2024,2023-24,div1,Southern Idaho,collegeofsouthernidaho,colbycarter6mi2,Colby Carter
-Feb 16,home,Treasure Valley,W,5-0,5,0,5,win,20240216_ses5,4,0,2,1,,,0,,,,,,,,3,1,,1,1,1.00,4,2024,2023-24,div1,Southern Idaho,collegeofsouthernidaho,colbycarter6mi2,Colby Carter
-Feb 17,home,Treasure Valley,W,12-2,12,2,10,win,20240217_rvtn,3,1,1,,,,2,2,1,,,,,,1,0,,1,,,5,2024,2023-24,div1,Southern Idaho,collegeofsouthernidaho,colbycarter6mi2,Colby Carter
-Feb 17,home,Treasure Valley,W,3-2,3,2,1,win,20240217_qj85,3,0,0,,,,0,,2,,,,,,0,0,,,1,,3,2024,2023-24,div1,Southern Idaho,collegeofsouthernidaho,colbycarter6mi2,Colby Carter
-Feb 23,home,Yakima Valley CC,W,10-3,10,3,7,win,20240223_qy0g,3,2,3,1,,,2,1,,,,,,,4,1,,,,,4,2024,2023-24,div1,Southern Idaho,collegeofsouthernidaho,colbycarter6mi2,Colby Carter
-Feb 23,home,Yakima Valley CC,W,8-2,8,2,6,win,20240223_h1pc,4,1,1,,,,0,,,,,,,,1,0,,1,2,0.50,4,2024,2023-24,div1,Southern Idaho,collegeofsouthernidaho,colbycarter6mi2,Colby Carter
-Feb 24,home,Yakima Valley CC,W,8-3,8,3,5,win,20240224_h39z,2,1,1,,1,,0,1,,,,,,,3,1,,,1,,3,2024,2023-24,div1,Southern Idaho,collegeofsouthernidaho,colbycarter6mi2,Colby Carter
-Feb 24,home,Yakima Valley CC,W,10-6,10,6,4,win,20240224_hap9,1,1,0,,,,0,1,,,,,,,0,0,1,,1,,2,2024,2023-24,div1,Southern Idaho,collegeofsouthernidaho,colbycarter6mi2,Colby Carter
-Mar 8,home,Salt Lake,W,8-3,8,3,5,win,20240308_i66w,4,2,2,1,,,2,1,,,,,,,3,1,,,2,,5,2024,2023-24,div1,Southern Idaho,collegeofsouthernidaho,colbycarter6mi2,Colby Carter
-Mar 13,home,Treasure Valley,W,16-2,16,2,14,win,20240313_9o9c,5,1,1,,,,0,,2,,,,,,1,0,,,,,5,2024,2023-24,div1,Southern Idaho,collegeofsouthernidaho,colbycarter6mi2,Colby Carter
-Mar 22,home,Colorado Northwestern,W,3-2,3,2,1,win,20240322_e9kv,3,0,0,,,,0,,1,,,,,,0,0,1,1,1,1.00,3,2024,2023-24,div1,Southern Idaho,collegeofsouthernidaho,colbycarter6mi2,Colby Carter
-Mar 22,home,Colorado Northwestern,W,12-2,12,2,10,win,20240322_d2sn,3,2,2,1,,1,1,,1,,,,,,6,2,,,,,3,2024,2023-24,div1,Southern Idaho,collegeofsouthernidaho,colbycarter6mi2,Colby Carter
-Mar 23,home,Colorado Northwestern,W,8-7,8,7,1,win,20240323_dthf,3,0,1,,,,1,1,,,,,,,1,0,,2,,,4,2024,2023-24,div1,Southern Idaho,collegeofsouthernidaho,colbycarter6mi2,Colby Carter
-Mar 23,home,Colorado Northwestern,W,11-4,11,4,7,win,20240323_o5hy,5,1,1,,,,1,,1,,,,,,1,0,,2,1,2.00,5,2024,2023-24,div1,Southern Idaho,collegeofsouthernidaho,colbycarter6mi2,Colby Carter
-Mar 30,home,Utah State Eastern,W,9-4,9,4,5,win,20240330_xzdi,1,0,0,,,,0,3,,,,,,,0,0,,,1,,4,2024,2023-24,div1,Southern Idaho,collegeofsouthernidaho,colbycarter6mi2,Colby Carter
-Apr 13,home,Salt Lake,W,6-5,6,5,1,win,20240413_bc1h,2,1,1,,,1,4,3,1,,,,,,4,1,,,,,5,2024,2023-24,div1,Southern Idaho,collegeofsouthernidaho,colbycarter6mi2,Colby Carter
-Apr 16,home,Utah State University Club,W,14-4,14,4,10,win,20240416_kvxd,1,1,0,,,,1,1,,,,,1,,0,0,,1,1,1.00,3,2024,2023-24,div1,Southern Idaho,collegeofsouthernidaho,colbycarter6mi2,Colby Carter
-Apr 16,home,Utah State University Club,W,12-2,12,2,10,win,20240416_572s,1,0,0,,,,0,,1,,,,,,0,0,,,,,1,2024,2023-24,div1,Southern Idaho,collegeofsouthernidaho,colbycarter6mi2,Colby Carter
-Apr 25,home,Colorado Northwestern,W,10-3,10,3,7,win,20240425_l16i,3,1,2,2,,,4,1,,,,,,,4,2,,,1,,4,2024,2023-24,div1,Southern Idaho,collegeofsouthernidaho,colbycarter6mi2,Colby Carter
-Apr 25,home,Colorado Northwestern,W,11-1,11,1,10,win,20240425_8qou,4,2,1,,,1,3,,2,,,,,,4,1,,1,,,4,2024,2023-24,div1,Southern Idaho,collegeofsouthernidaho,colbycarter6mi2,Colby Carter
-Apr 26,home,Colorado Northwestern,W,4-2,4,2,2,win,20240426_s94h,3,0,2,,,,1,,1,,,,,,2,0,,,,,3,2024,2023-24,div1,Southern Idaho,collegeofsouthernidaho,colbycarter6mi2,Colby Carter
-May 2,home,Utah State Eastern,W,7-2,7,2,5,win,20240502_hvk0,3,1,2,1,,,1,,,,,,,,3,1,,1,,,3,2024,2023-24,div1,Southern Idaho,collegeofsouthernidaho,colbycarter6mi2,Colby Carter
-May 3,home,Utah State Eastern,W,3-2,3,2,1,win,20240503_o9av,3,0,0,,,,0,,1,,,,,,0,0,,1,1,1.00,3,2024,2023-24,div1,Southern Idaho,collegeofsouthernidaho,colbycarter6mi2,Colby Carter
-May 3,home,Utah State Eastern,W,6-3,6,3,3,win,20240503_4k0l,4,0,3,,,,2,,,,,,,,3,0,,1,,,4,2024,2023-24,div1,Southern Idaho,collegeofsouthernidaho,colbycarter6mi2,Colby Carter
+Feb 11,home,Southwest Tennessee,W,13-12,13,12,1,win,20240211_3rup,0,0,0,,,,0,,,,,,,,0,0,,,,,0,2024,2023-24,div1,Southern Idaho,collegeofsouthernidaho,colbycarter6mi2,Colby Carter
+Feb 24,home,Northeast Mississippi,W,3-1,3,1,2,win,20240224_fehi,0,0,0,,,,0,,,,,,,,0,0,,,,,0,2024,2023-24,div1,Southern Idaho,collegeofsouthernidaho,colbycarter6mi2,Colby Carter
+Mar 3,home,McHenry County,W,14-8,14,8,6,win,20240303_3a26,0,0,0,,,,0,,,,,,,,0,0,,,,,0,2024,2023-24,div1,Southern Idaho,collegeofsouthernidaho,colbycarter6mi2,Colby Carter
+Mar 9,home,Metropolitan,W,2-1,2,1,1,win,20240309_amfc,0,0,0,,,,0,,,,,,,,0,0,,,,,0,2024,2023-24,div1,Southern Idaho,collegeofsouthernidaho,colbycarter6mi2,Colby Carter
+Mar 21,home,State Fair,W,11-1,11,1,10,win,20240321_5603,0,0,0,,,,0,,,,,,,,0,0,,,,,0,2024,2023-24,div1,Southern Idaho,collegeofsouthernidaho,colbycarter6mi2,Colby Carter
+Mar 30,home,St. Louis,W,12-1,12,1,11,win,20240330_ypqh,0,0,0,,,,0,,,,,,,,0,0,,,,,0,2024,2023-24,div1,Southern Idaho,collegeofsouthernidaho,colbycarter6mi2,Colby Carter
+Apr 2,home,East Central (MO),W,8-6,8,6,2,win,20240402_445g,0,0,0,,,,0,,,,,,,,0,0,,,,,0,2024,2023-24,div1,Southern Idaho,collegeofsouthernidaho,colbycarter6mi2,Colby Carter
+Apr 13,home,Three Rivers,W,24-4,24,4,20,win,20240413_w9ma,0,0,0,,,,0,,,,,,,,0,0,,,,,0,2024,2023-24,div1,Southern Idaho,collegeofsouthernidaho,colbycarter6mi2,Colby Carter
+Apr 21,home,Mineral Area,W,11-1,11,1,10,win,20240421_h9n5,0,0,0,,,,0,,,,,,,,0,0,,,,,0,2024,2023-24,div1,Southern Idaho,collegeofsouthernidaho,colbycarter6mi2,Colby Carter

@@ -1,11 +1,20 @@
 date,location,opponent,result,score,team_score,opp_score,game_score_diff,game_win_loss,game_id,TC,PO,A,E,FPCT,DP,SBA,RCS,RCS_PCT,PB,CI,season,njcaa_season,njcaa_division,team,team_id,player_id,player_name
-Jan 28,home,Wabash Valley,L,11-5,11,5,6,win,20240128_o2bl,0,0,0,0,1.1,2,3,3,20.25,2.25,1,2024,2023-24,div1,Dyersburg State,dyersburgstatecommunitycollege,jackclarkewodi,Jack Clarke
-Feb 3,home,Pearl River,L,7-0,7,0,7,win,20240203_px0l,0,0,0,0,1.1,0,0,0,0.00,.00,0,2024,2023-24,div1,Dyersburg State,dyersburgstatecommunitycollege,jackclarkewodi,Jack Clarke
-Feb 13,home,Northeast Mississippi,W,5-4,5,4,1,win,20240213_6xg4,0,1,0,0,1.0,1,1,1,9.00,1.00,,2024,2023-24,div1,Dyersburg State,dyersburgstatecommunitycollege,jackclarkewodi,Jack Clarke
-Feb 25,home,Glen Oaks,W,14-4,14,4,10,win,20240225_vqul,0,0,0,0,1.0,0,0,0,0.00,1.00,1,2024,2023-24,div1,Dyersburg State,dyersburgstatecommunitycollege,jackclarkewodi,Jack Clarke
-Mar 6,home,Freed Hardeman University,L,12-4,12,4,8,win,20240306_uu0m,1,0,0,0,1.1,1,4,4,27.00,3.75,4,2024,2023-24,div1,Dyersburg State,dyersburgstatecommunitycollege,jackclarkewodi,Jack Clarke
-Mar 12,home,Rend Lake,W,9-6,9,6,3,win,20240312_ai9i,0,0,0,1,1.0,1,2,2,18.00,2.00,1,2024,2023-24,div1,Dyersburg State,dyersburgstatecommunitycollege,jackclarkewodi,Jack Clarke
-Mar 16,home,Columbia State,L,17-3,17,3,14,win,20240316_bgnh,0,0,0,0,1.0,1,1,1,9.00,1.00,,2024,2023-24,div1,Dyersburg State,dyersburgstatecommunitycollege,jackclarkewodi,Jack Clarke
-Mar 19,home,John A. Logan,L,16-4,16,4,12,win,20240319_xlbx,0,0,0,0,1.0,2,2,2,18.00,4.00,2,2024,2023-24,div1,Dyersburg State,dyersburgstatecommunitycollege,jackclarkewodi,Jack Clarke
-Apr 5,home,Jackson State,L,13-7,13,7,6,win,20240405_aq7q,0,0,0,0,1.0,3,1,1,9.00,4.00,1,2024,2023-24,div1,Dyersburg State,dyersburgstatecommunitycollege,jackclarkewodi,Jack Clarke
-Apr 16,home,Rend Lake,W,10-4,10,4,6,win,20240416_jdz6,0,0,0,0,1.0,1,1,1,9.00,2.00,1,2024,2023-24,div1,Dyersburg State,dyersburgstatecommunitycollege,jackclarkewodi,Jack Clarke
+Jan 28,home,Wabash Valley,L,11-5,11,5,6,win,20240128_o2bl,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Dyersburg State,dyersburgstatecommunitycollege,jackclarkewodi,Jack Clarke
+Feb 3,home,Pearl River,L,7-0,7,0,7,win,20240203_px0l,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Dyersburg State,dyersburgstatecommunitycollege,jackclarkewodi,Jack Clarke
+Feb 4,home,McLennan,W,6-4,6,4,2,win,20240204_vgv4,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Dyersburg State,dyersburgstatecommunitycollege,jackclarkewodi,Jack Clarke
+Feb 13,home,Northeast Mississippi,W,5-4,5,4,1,win,20240213_6xg4,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Dyersburg State,dyersburgstatecommunitycollege,jackclarkewodi,Jack Clarke
+Feb 13,home,Northeast Mississippi,L,5-0,5,0,5,win,20240213_w283,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Dyersburg State,dyersburgstatecommunitycollege,jackclarkewodi,Jack Clarke
+Feb 17,home,Coahoma,W,4-1,4,1,3,win,20240217_ysez,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Dyersburg State,dyersburgstatecommunitycollege,jackclarkewodi,Jack Clarke
+Mar 3,home,Chattanooga State,W,6-4,6,4,2,win,20240303_8ah5,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Dyersburg State,dyersburgstatecommunitycollege,jackclarkewodi,Jack Clarke
+Mar 6,home,Freed Hardeman University,L,12-4,12,4,8,win,20240306_uu0m,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Dyersburg State,dyersburgstatecommunitycollege,jackclarkewodi,Jack Clarke
+Mar 11,home,Cleveland State,W,5-4,5,4,1,win,20240311_fxcz,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Dyersburg State,dyersburgstatecommunitycollege,jackclarkewodi,Jack Clarke
+Mar 12,home,Rend Lake,W,9-6,9,6,3,win,20240312_ai9i,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Dyersburg State,dyersburgstatecommunitycollege,jackclarkewodi,Jack Clarke
+Mar 19,home,John A. Logan,L,16-4,16,4,12,win,20240319_xlbx,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Dyersburg State,dyersburgstatecommunitycollege,jackclarkewodi,Jack Clarke
+Mar 22,home,Southwest Tennessee,W,7-5,7,5,2,win,20240322_a9ur,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Dyersburg State,dyersburgstatecommunitycollege,jackclarkewodi,Jack Clarke
+Mar 30,home,Volunteer State,W,8-5,8,5,3,win,20240330_oqfl,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Dyersburg State,dyersburgstatecommunitycollege,jackclarkewodi,Jack Clarke
+Apr 13,home,Motlow State,W,6-3,6,3,3,win,20240413_ztn7,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Dyersburg State,dyersburgstatecommunitycollege,jackclarkewodi,Jack Clarke
+Apr 14,home,Motlow State,W,10-4,10,4,6,win,20240414_6hvj,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Dyersburg State,dyersburgstatecommunitycollege,jackclarkewodi,Jack Clarke
+Apr 16,home,Rend Lake,W,10-4,10,4,6,win,20240416_jdz6,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Dyersburg State,dyersburgstatecommunitycollege,jackclarkewodi,Jack Clarke
+Apr 20,home,Roane State,L,7-6,7,6,1,win,20240420_a6j6,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Dyersburg State,dyersburgstatecommunitycollege,jackclarkewodi,Jack Clarke
+Apr 20,home,Roane State,W,5-0,5,0,5,win,20240420_u1xw,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Dyersburg State,dyersburgstatecommunitycollege,jackclarkewodi,Jack Clarke
+Apr 27,home,Walters State,L,12-2,12,2,10,win,20240427_adh6,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Dyersburg State,dyersburgstatecommunitycollege,jackclarkewodi,Jack Clarke

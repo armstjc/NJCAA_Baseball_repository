@@ -1,50 +1,13 @@
 date,location,opponent,result,score,team_score,opp_score,game_score_diff,game_win_loss,game_id,TC,PO,A,E,FPCT,DP,SBA,RCS,RCS_PCT,PB,CI,season,njcaa_season,njcaa_division,team,team_id,player_id,player_name
-Feb 9,home,Northern Oklahoma Enid,L,7-3,7,3,4,win,20240209_23d1,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Northeast,northeastcommunitycollege,gaberodriguezikel,Gabe Rodriguez
-Feb 9,home,Northern Oklahoma Enid,L,14-4,14,4,10,win,20240209_emup,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Northeast,northeastcommunitycollege,gaberodriguezikel,Gabe Rodriguez
-Feb 10,home,Northern Oklahoma Enid,L,12-10,12,10,2,win,20240210_jnzu,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Northeast,northeastcommunitycollege,gaberodriguezikel,Gabe Rodriguez
-Feb 10,home,Northern Oklahoma Enid,W,14-5,14,5,9,win,20240210_3wgw,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Northeast,northeastcommunitycollege,gaberodriguezikel,Gabe Rodriguez
-Feb 18,home,Neosho County,L,7-1,7,1,6,win,20240218_8f1v,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Northeast,northeastcommunitycollege,gaberodriguezikel,Gabe Rodriguez
-Feb 18,home,Neosho County,L,13-4,13,4,9,win,20240218_z2um,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Northeast,northeastcommunitycollege,gaberodriguezikel,Gabe Rodriguez
-Feb 19,home,Neosho County,L,6-3,6,3,3,win,20240219_z4kr,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Northeast,northeastcommunitycollege,gaberodriguezikel,Gabe Rodriguez
-Feb 19,home,Neosho County,W,11-9,11,9,2,win,20240219_tw14,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Northeast,northeastcommunitycollege,gaberodriguezikel,Gabe Rodriguez
-Feb 24,home,Luna,W,17-1,17,1,16,win,20240224_ztmc,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Northeast,northeastcommunitycollege,gaberodriguezikel,Gabe Rodriguez
-Feb 24,home,Highland (KS),W,8-3,8,3,5,win,20240224_g6oa,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Northeast,northeastcommunitycollege,gaberodriguezikel,Gabe Rodriguez
-Feb 25,home,Dodge City,W,6-3,6,3,3,win,20240225_nbxc,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Northeast,northeastcommunitycollege,gaberodriguezikel,Gabe Rodriguez
-Feb 25,home,Highland (KS),L,9-8,9,8,1,win,20240225_mu7p,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Northeast,northeastcommunitycollege,gaberodriguezikel,Gabe Rodriguez
-Mar 1,home,McCook,L,9-8,9,8,1,win,20240301_gtxy,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Northeast,northeastcommunitycollege,gaberodriguezikel,Gabe Rodriguez
-Mar 1,home,McCook,W,16-4,16,4,12,win,20240301_devn,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Northeast,northeastcommunitycollege,gaberodriguezikel,Gabe Rodriguez
-Mar 3,home,McCook,L,8-4,8,4,4,win,20240303_1u6m,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Northeast,northeastcommunitycollege,gaberodriguezikel,Gabe Rodriguez
-Mar 3,home,McCook,W,13-5,13,5,8,win,20240303_u7yy,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Northeast,northeastcommunitycollege,gaberodriguezikel,Gabe Rodriguez
-Mar 6,home,Western Nebraska,W,13-3,13,3,10,win,20240306_mpna,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Northeast,northeastcommunitycollege,gaberodriguezikel,Gabe Rodriguez
-Mar 6,home,Western Nebraska,W,14-4,14,4,10,win,20240306_2g9w,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Northeast,northeastcommunitycollege,gaberodriguezikel,Gabe Rodriguez
-Mar 13,home,Southeast,L,4-3,4,3,1,win,20240313_7a3j,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Northeast,northeastcommunitycollege,gaberodriguezikel,Gabe Rodriguez
-Mar 13,home,Southeast,W,6-5,6,5,1,win,20240313_xqlg,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Northeast,northeastcommunitycollege,gaberodriguezikel,Gabe Rodriguez
-Mar 16,home,Minnesota West,W,11-1,11,1,10,win,20240316_r2yg,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Northeast,northeastcommunitycollege,gaberodriguezikel,Gabe Rodriguez
-Mar 16,home,Minnesota West,W,6-5,6,5,1,win,20240316_alsj,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Northeast,northeastcommunitycollege,gaberodriguezikel,Gabe Rodriguez
-Mar 18,home,Mount Marty University JV,W,11-5,11,5,6,win,20240318_81lk,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Northeast,northeastcommunitycollege,gaberodriguezikel,Gabe Rodriguez
-Mar 19,home,Iowa Lakes,W,10-2,10,2,8,win,20240319_aslp,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Northeast,northeastcommunitycollege,gaberodriguezikel,Gabe Rodriguez
-Mar 19,home,Iowa Lakes,W,7-0,7,0,7,win,20240319_wq6j,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Northeast,northeastcommunitycollege,gaberodriguezikel,Gabe Rodriguez
-Mar 23,home,Southeastern,W,4-1,4,1,3,win,20240323_xfov,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Northeast,northeastcommunitycollege,gaberodriguezikel,Gabe Rodriguez
-Mar 23,home,Southeastern,W,5-1,5,1,4,win,20240323_0tt9,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Northeast,northeastcommunitycollege,gaberodriguezikel,Gabe Rodriguez
-Mar 24,home,Southeastern,L,15-7,15,7,8,win,20240324_81zh,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Northeast,northeastcommunitycollege,gaberodriguezikel,Gabe Rodriguez
-Mar 27,home,Ellsworth,W,7-3,7,3,4,win,20240327_0xrj,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Northeast,northeastcommunitycollege,gaberodriguezikel,Gabe Rodriguez
-Mar 27,home,Ellsworth,W,15-3,15,3,12,win,20240327_4bls,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Northeast,northeastcommunitycollege,gaberodriguezikel,Gabe Rodriguez
-Mar 29,home,Kirkwood,L,3-0,3,0,3,win,20240329_9c0z,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Northeast,northeastcommunitycollege,gaberodriguezikel,Gabe Rodriguez
-Mar 29,home,Kirkwood,W,7-4,7,4,3,win,20240329_udru,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Northeast,northeastcommunitycollege,gaberodriguezikel,Gabe Rodriguez
-Mar 30,home,Kirkwood,L,8-4,8,4,4,win,20240330_b9rz,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Northeast,northeastcommunitycollege,gaberodriguezikel,Gabe Rodriguez
-Apr 4,home,Des Moines Area,L,5-3,5,3,2,win,20240404_tkef,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Northeast,northeastcommunitycollege,gaberodriguezikel,Gabe Rodriguez
-Apr 4,home,Des Moines Area,W,6-5,6,5,1,win,20240404_joge,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Northeast,northeastcommunitycollege,gaberodriguezikel,Gabe Rodriguez
-Apr 5,home,Marshalltown,W,12-4,12,4,8,win,20240405_8r86,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Northeast,northeastcommunitycollege,gaberodriguezikel,Gabe Rodriguez
-Apr 6,home,Marshalltown,W,7-5,7,5,2,win,20240406_dhf9,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Northeast,northeastcommunitycollege,gaberodriguezikel,Gabe Rodriguez
-Apr 6,home,Marshalltown,W,5-3,5,3,2,win,20240406_vzxu,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Northeast,northeastcommunitycollege,gaberodriguezikel,Gabe Rodriguez
-Apr 10,home,Iowa Central,W,21-11,21,11,10,win,20240410_5ic1,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Northeast,northeastcommunitycollege,gaberodriguezikel,Gabe Rodriguez
-Apr 10,home,Iowa Central,L,12-2,12,2,10,win,20240410_yj2d,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Northeast,northeastcommunitycollege,gaberodriguezikel,Gabe Rodriguez
-Apr 13,home,Indian Hills,W,15-7,15,7,8,win,20240413_p2if,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Northeast,northeastcommunitycollege,gaberodriguezikel,Gabe Rodriguez
-Apr 14,home,Indian Hills,W,13-6,13,6,7,win,20240414_e6dl,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Northeast,northeastcommunitycollege,gaberodriguezikel,Gabe Rodriguez
-Apr 17,home,Des Moines Area,W,5-4,5,4,1,win,20240417_k2e2,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Northeast,northeastcommunitycollege,gaberodriguezikel,Gabe Rodriguez
-Apr 20,home,Southwestern,W,5-1,5,1,4,win,20240420_wm3l,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Northeast,northeastcommunitycollege,gaberodriguezikel,Gabe Rodriguez
-Apr 20,home,Southwestern,W,10-0,10,0,10,win,20240420_7579,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Northeast,northeastcommunitycollege,gaberodriguezikel,Gabe Rodriguez
-Apr 21,home,Southwestern,W,10-4,10,4,6,win,20240421_pein,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Northeast,northeastcommunitycollege,gaberodriguezikel,Gabe Rodriguez
-Apr 24,home,Iowa Central,L,7-6,7,6,1,win,20240424_qh5n,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Northeast,northeastcommunitycollege,gaberodriguezikel,Gabe Rodriguez
-Apr 27,home,North Iowa Area,L,3-0,3,0,3,win,20240427_331i,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Northeast,northeastcommunitycollege,gaberodriguezikel,Gabe Rodriguez
-Apr 27,home,North Iowa Area,W,3-1,3,1,2,win,20240427_8q48,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Northeast,northeastcommunitycollege,gaberodriguezikel,Gabe Rodriguez
+Feb 10,home,Northern Oklahoma Enid,L,12-10,12,10,2,win,20240210_jnzu,1,0,0,0,4.1,4,3,3,6.23,1.62,3,2024,2023-24,div2,Northeast,northeastcommunitycollege,gaberodriguezikel,Gabe Rodriguez
+Feb 19,home,Neosho County,L,6-3,6,3,3,win,20240219_z4kr,1,0,1,0,5.0,4,4,4,7.20,1.00,1,2024,2023-24,div2,Northeast,northeastcommunitycollege,gaberodriguezikel,Gabe Rodriguez
+Feb 25,home,Dodge City,W,6-3,6,3,3,win,20240225_nbxc,1,1,0,0,3.2,2,2,2,4.91,2.18,6,2024,2023-24,div2,Northeast,northeastcommunitycollege,gaberodriguezikel,Gabe Rodriguez
+Mar 3,home,McCook,L,8-4,8,4,4,win,20240303_1u6m,1,0,1,0,5.0,9,6,4,7.20,2.00,1,2024,2023-24,div2,Northeast,northeastcommunitycollege,gaberodriguezikel,Gabe Rodriguez
+Mar 13,home,Southeast,L,4-3,4,3,1,win,20240313_7a3j,1,0,0,0,5.0,3,2,2,3.60,.80,1,2024,2023-24,div2,Northeast,northeastcommunitycollege,gaberodriguezikel,Gabe Rodriguez
+Mar 18,home,Mount Marty University JV,W,11-5,11,5,6,win,20240318_81lk,1,1,0,0,3.0,2,1,1,3.00,1.33,2,2024,2023-24,div2,Northeast,northeastcommunitycollege,gaberodriguezikel,Gabe Rodriguez
+Mar 23,home,Southeastern,W,4-1,4,1,3,win,20240323_xfov,1,0,0,0,7.0,6,1,1,1.29,1.29,3,2024,2023-24,div2,Northeast,northeastcommunitycollege,gaberodriguezikel,Gabe Rodriguez
+Mar 29,home,Kirkwood,L,3-0,3,0,3,win,20240329_9c0z,1,0,1,0,6.1,6,3,3,4.26,1.26,2,2024,2023-24,div2,Northeast,northeastcommunitycollege,gaberodriguezikel,Gabe Rodriguez
+Apr 5,home,Marshalltown,W,12-4,12,4,8,win,20240405_8r86,1,1,0,0,5.0,6,2,2,3.60,1.80,3,2024,2023-24,div2,Northeast,northeastcommunitycollege,gaberodriguezikel,Gabe Rodriguez
+Apr 13,home,Indian Hills,L,10-5,10,5,5,win,20240413_wq9z,1,0,1,0,4.0,5,7,6,13.50,3.00,7,2024,2023-24,div2,Northeast,northeastcommunitycollege,gaberodriguezikel,Gabe Rodriguez
+Apr 20,home,Southwestern,W,5-1,5,1,4,win,20240420_wm3l,1,1,0,0,7.0,6,1,1,1.29,1.00,1,2024,2023-24,div2,Northeast,northeastcommunitycollege,gaberodriguezikel,Gabe Rodriguez
+Apr 26,home,North Iowa Area,W,12-11,12,11,1,win,20240426_t92i,1,0,0,0,4.0,10,6,6,13.50,3.00,2,2024,2023-24,div2,Northeast,northeastcommunitycollege,gaberodriguezikel,Gabe Rodriguez

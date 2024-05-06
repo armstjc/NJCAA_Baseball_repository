@@ -1,16 +1,33 @@
 date,location,opponent,result,score,team_score,opp_score,game_score_diff,game_win_loss,game_id,GS,W,L,SV,IP,H,R,ER,ERA,BB,K,HR,season,njcaa_season,njcaa_division,team,team_id,player_id,player_name
-May 1,home,Galveston,W,11-5,11,5,6,win,20240501_kizl,0,0,0,1,2.0,,,,0.00,.50,1,3,2024,2023-24,div1,Weatherford,weatherfordcollege,jcdavisxneg,JC Davis
-Apr 27,home,Blinn,L,13-11,13,11,2,win,20240427_hmwd,0,0,1,0,1.2,3,5,,0.00,3.00,2,2,2024,2023-24,div1,Weatherford,weatherfordcollege,jcdavisxneg,JC Davis
-Apr 20,home,Coastal Bend,W,9-8,9,8,1,win,20240420_1llq,0,1,0,0,1.1,1,1,,0.00,.75,,,2024,2023-24,div1,Weatherford,weatherfordcollege,jcdavisxneg,JC Davis
-Apr 18,home,Coastal Bend,W,11-2,11,2,9,win,20240418_hnuz,0,0,0,0,2.0,2,,,0.00,1.50,1,3,2024,2023-24,div1,Weatherford,weatherfordcollege,jcdavisxneg,JC Davis
-Apr 8,home,Angelina,W,9-1,9,1,8,win,20240408_f42f,0,0,0,0,1.0,1,,,0.00,1.00,,,2024,2023-24,div1,Weatherford,weatherfordcollege,jcdavisxneg,JC Davis
-Apr 4,home,San Jacinto,L,11-8,11,8,3,win,20240404_roua,0,0,0,0,2.0,6,2,2,9.00,3.50,1,0,2024,2023-24,div1,Weatherford,weatherfordcollege,jcdavisxneg,JC Davis
-Mar 27,home,Galveston,L,10-8,10,8,2,win,20240327_5txb,0,0,1,0,0.2,4,6,4,54.00,9.00,2,1,2024,2023-24,div1,Weatherford,weatherfordcollege,jcdavisxneg,JC Davis
-Mar 24,home,Blinn,L,2-1,2,1,1,win,20240324_1s10,0,0,0,0,2.2,3,,,0.00,1.13,,1,2024,2023-24,div1,Weatherford,weatherfordcollege,jcdavisxneg,JC Davis
-Mar 19,home,Blinn,L,10-6,10,6,4,win,20240319_e6d8,0,0,0,0,2.2,,,,0.00,.38,1,3,2024,2023-24,div1,Weatherford,weatherfordcollege,jcdavisxneg,JC Davis
-Mar 15,home,Coastal Bend,W,12-1,12,1,11,win,20240315_gyon,0,0,0,0,1.0,,,,0.00,,,1,2024,2023-24,div1,Weatherford,weatherfordcollege,jcdavisxneg,JC Davis
-Mar 12,home,South Suburban,W,8-6,8,6,2,win,20240312_fza9,0,0,0,0,2.2,3,3,3,10.13,2.25,3,5,2024,2023-24,div1,Weatherford,weatherfordcollege,jcdavisxneg,JC Davis
-Feb 23,home,Howard (TX),L,17-5,17,5,12,win,20240223_u05j,0,0,0,0,2.0,5,6,,0.00,3.50,2,,2024,2023-24,div1,Weatherford,weatherfordcollege,jcdavisxneg,JC Davis
-Feb 19,home,Navarro,L,12-0,12,0,12,win,20240219_ukty,0,0,0,0,1.1,2,1,1,6.75,2.25,1,2,2024,2023-24,div1,Weatherford,weatherfordcollege,jcdavisxneg,JC Davis
-Feb 11,home,Odessa,W,12-2,12,2,10,win,20240211_la0j,0,0,0,0,1.0,1,,,0.00,2.00,1,1,2024,2023-24,div1,Weatherford,weatherfordcollege,jcdavisxneg,JC Davis
-Jan 27,home,Eastern Oklahoma State,W,21-0,21,0,21,win,20240127_z59d,0,0,0,0,1.0,,,,0.00,,,2,2024,2023-24,div1,Weatherford,weatherfordcollege,jcdavisxneg,JC Davis
+May 1,home,McLennan,L,8-5,8,5,3,win,20240501_psg5,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div1,Weatherford,weatherfordcollege,jcdavisxneg,JC Davis
+Apr 27,home,Hill,W,14-3,14,3,11,win,20240427_hp3q,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div1,Weatherford,weatherfordcollege,jcdavisxneg,JC Davis
+Apr 24,home,Hill,W,9-1,9,1,8,win,20240424_2cvt,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div1,Weatherford,weatherfordcollege,jcdavisxneg,JC Davis
+Apr 20,home,Ranger,W,12-0,12,0,12,win,20240420_416c,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div1,Weatherford,weatherfordcollege,jcdavisxneg,JC Davis
+Apr 20,home,Ranger,W,5-0,5,0,5,win,20240420_1217,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div1,Weatherford,weatherfordcollege,jcdavisxneg,JC Davis
+Apr 17,home,Ranger,W,11-1,11,1,10,win,20240417_fzg1,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div1,Weatherford,weatherfordcollege,jcdavisxneg,JC Davis
+Apr 17,home,Ranger,W,5-4,5,4,1,win,20240417_k95z,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div1,Weatherford,weatherfordcollege,jcdavisxneg,JC Davis
+Apr 13,home,Grayson,L,15-4,15,4,11,win,20240413_g4d9,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div1,Weatherford,weatherfordcollege,jcdavisxneg,JC Davis
+Apr 13,home,Grayson,L,12-7,12,7,5,win,20240413_rmxg,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div1,Weatherford,weatherfordcollege,jcdavisxneg,JC Davis
+Apr 11,home,Grayson,W,8-3,8,3,5,win,20240411_tu5m,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div1,Weatherford,weatherfordcollege,jcdavisxneg,JC Davis
+Apr 6,home,Cisco,W,5-4,5,4,1,win,20240406_yewr,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div1,Weatherford,weatherfordcollege,jcdavisxneg,JC Davis
+Mar 20,home,North Central Texas,W,8-4,8,4,4,win,20240320_kx14,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div1,Weatherford,weatherfordcollege,jcdavisxneg,JC Davis
+Mar 17,home,Vernon,W,4-0,4,0,4,win,20240317_pgjm,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div1,Weatherford,weatherfordcollege,jcdavisxneg,JC Davis
+Mar 17,home,Vernon,W,7-4,7,4,3,win,20240317_xgbl,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div1,Weatherford,weatherfordcollege,jcdavisxneg,JC Davis
+Mar 13,home,Vernon,W,15-5,15,5,10,win,20240313_a4k1,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div1,Weatherford,weatherfordcollege,jcdavisxneg,JC Davis
+Mar 13,home,Vernon,W,11-3,11,3,8,win,20240313_3k89,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div1,Weatherford,weatherfordcollege,jcdavisxneg,JC Davis
+Mar 6,home,Northeast Texas,L,3-0,3,0,3,win,20240306_qs2o,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div1,Weatherford,weatherfordcollege,jcdavisxneg,JC Davis
+Mar 4,home,TCS Post Grad,W,10-0,10,0,10,win,20240304_9xsv,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div1,Weatherford,weatherfordcollege,jcdavisxneg,JC Davis
+Mar 2,home,New Mexico Military,W,10-0,10,0,10,win,20240302_lw24,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div1,Weatherford,weatherfordcollege,jcdavisxneg,JC Davis
+Mar 1,home,New Mexico Military,W,8-1,8,1,7,win,20240301_7ocw,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div1,Weatherford,weatherfordcollege,jcdavisxneg,JC Davis
+Feb 24,home,Odessa,W,3-2,3,2,1,win,20240224_1swx,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div1,Weatherford,weatherfordcollege,jcdavisxneg,JC Davis
+Feb 24,home,Odessa,W,6-3,6,3,3,win,20240224_lnir,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div1,Weatherford,weatherfordcollege,jcdavisxneg,JC Davis
+Feb 17,home,Frank Phillips,W,10-1,10,1,9,win,20240217_mrzh,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div1,Weatherford,weatherfordcollege,jcdavisxneg,JC Davis
+Feb 13,home,Blinn,W,9-5,9,5,4,win,20240213_ko5p,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div1,Weatherford,weatherfordcollege,jcdavisxneg,JC Davis
+Feb 13,home,Blinn,L,2-1,2,1,1,win,20240213_stz2,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div1,Weatherford,weatherfordcollege,jcdavisxneg,JC Davis
+Feb 9,home,Iowa Western,L,7-2,7,2,5,win,20240209_3fm2,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div1,Weatherford,weatherfordcollege,jcdavisxneg,JC Davis
+Feb 9,home,Tyler,W,9-7,9,7,2,win,20240209_y1mh,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div1,Weatherford,weatherfordcollege,jcdavisxneg,JC Davis
+Feb 3,home,Lamar,W,9-6,9,6,3,win,20240203_lqjj,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div1,Weatherford,weatherfordcollege,jcdavisxneg,JC Davis
+Feb 3,home,Lamar,W,16-2,16,2,14,win,20240203_vye2,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div1,Weatherford,weatherfordcollege,jcdavisxneg,JC Davis
+Feb 2,home,Lamar,W,30-0,30,0,30,win,20240202_4c65,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div1,Weatherford,weatherfordcollege,jcdavisxneg,JC Davis
+Feb 2,home,Lamar,W,6-0,6,0,6,win,20240202_c6mf,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div1,Weatherford,weatherfordcollege,jcdavisxneg,JC Davis
+Jan 27,home,Northeast Texas,L,11-6,11,6,5,win,20240127_l1e1,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div1,Weatherford,weatherfordcollege,jcdavisxneg,JC Davis
