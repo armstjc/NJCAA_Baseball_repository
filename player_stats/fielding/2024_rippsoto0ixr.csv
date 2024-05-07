@@ -1,17 +1,8 @@
 date,location,opponent,result,score,team_score,opp_score,game_score_diff,game_win_loss,game_id,TC,PO,A,E,FPCT,DP,SBA,RCS,RCS_PCT,PB,CI,season,njcaa_season,njcaa_division,team,team_id,player_id,player_name
-Jan 31,home,Cisco,W,11-3,11,3,8,win,20240131_11c2,0,0,0,0,1.0,,,,0.00,2.00,2,2024,2023-24,div1,Western Texas,westerntexascollege,rippsoto0ixr,Ripp Soto
-Feb 3,home,Hill,W,6-4,6,4,2,win,20240203_53od,0,0,0,0,0.1,,,,0.00,,,2024,2023-24,div1,Western Texas,westerntexascollege,rippsoto0ixr,Ripp Soto
-Feb 4,home,Hill,L,13-10,13,10,3,win,20240204_hjzt,0,0,0,0,2.1,4,3,3,11.57,2.57,2,2024,2023-24,div1,Western Texas,westerntexascollege,rippsoto0ixr,Ripp Soto
-Feb 20,home,Wayland Baptist University (JV),W,24-1,24,1,23,win,20240220_swwd,0,0,0,0,2.0,3,1,1,4.50,1.50,,2024,2023-24,div1,Western Texas,westerntexascollege,rippsoto0ixr,Ripp Soto
-Feb 24,home,Cisco,L,5-3,5,3,2,win,20240224_b9sm,0,0,0,0,1.0,1,,,0.00,1.00,,2024,2023-24,div1,Western Texas,westerntexascollege,rippsoto0ixr,Ripp Soto
-Mar 2,home,Ranger,L,10-1,10,1,9,win,20240302_1kdo,0,0,0,0,1.1,,2,2,13.50,3.75,5,2024,2023-24,div1,Western Texas,westerntexascollege,rippsoto0ixr,Ripp Soto
-Mar 8,home,El Paso,L,12-7,12,7,5,win,20240308_xfqf,0,0,0,0,0.1,1,,,0.00,6.00,1,2024,2023-24,div1,Western Texas,westerntexascollege,rippsoto0ixr,Ripp Soto
-Mar 15,home,Amarillo College,L,8-1,8,1,7,win,20240315_87ub,0,0,0,0,1.2,1,,,0.00,1.20,1,2024,2023-24,div1,Western Texas,westerntexascollege,rippsoto0ixr,Ripp Soto
-Mar 16,home,Amarillo College,W,11-6,11,6,5,win,20240316_h4ej,0,0,0,0,3.0,4,3,1,3.00,1.67,1,2024,2023-24,div1,Western Texas,westerntexascollege,rippsoto0ixr,Ripp Soto
-Mar 22,home,Howard (TX),L,13-11,13,11,2,win,20240322_i43w,0,0,1,0,0.0,2,4,4,INF,,1,2024,2023-24,div1,Western Texas,westerntexascollege,rippsoto0ixr,Ripp Soto
-Mar 28,home,Odessa,L,10-3,10,3,7,win,20240328_e9bp,0,0,0,0,2.1,,,,0.00,.43,1,2024,2023-24,div1,Western Texas,westerntexascollege,rippsoto0ixr,Ripp Soto
-Mar 29,home,Odessa,L,10-2,10,2,8,win,20240329_w5je,0,0,0,0,0.0,1,,,0.00,,,2024,2023-24,div1,Western Texas,westerntexascollege,rippsoto0ixr,Ripp Soto
-Apr 4,home,New Mexico,L,17-2,17,2,15,win,20240404_3rwx,0,0,0,0,0.2,3,5,5,67.50,7.50,2,2024,2023-24,div1,Western Texas,westerntexascollege,rippsoto0ixr,Ripp Soto
-Apr 12,home,New Mexico Military,W,9-5,9,5,4,win,20240412_apx4,0,0,0,0,0.1,1,,,0.00,3.00,,2024,2023-24,div1,Western Texas,westerntexascollege,rippsoto0ixr,Ripp Soto
-Apr 19,home,Clarendon,L,15-0,15,0,15,win,20240419_q08s,0,0,0,0,2.2,7,4,4,13.50,3.38,2,2024,2023-24,div1,Western Texas,westerntexascollege,rippsoto0ixr,Ripp Soto
-Apr 26,home,Frank Phillips,L,8-7,8,7,1,win,20240426_759d,0,0,0,0,0.0,3,1,1,INF,,,2024,2023-24,div1,Western Texas,westerntexascollege,rippsoto0ixr,Ripp Soto
+Feb 14,home,Brewton Parker JV,W,6-1,6,1,5,win,20240214_kg84,0,1,0,0,3.0,1,,,0.00,.67,1,2024,2023-24,div1,Western Texas,westerntexascollege,rippsoto0ixr,Ripp Soto
+Feb 19,home,Point JV,W,10-4,10,4,6,win,20240219_can1,1,1,0,0,5.0,1,4,1,1.80,1.00,4,2024,2023-24,div1,Western Texas,westerntexascollege,rippsoto0ixr,Ripp Soto
+Feb 24,home,Wallace State,L,9-4,9,4,5,win,20240224_t5ko,0,0,0,0,0.2,1,2,2,27.00,3.00,1,2024,2023-24,div1,Western Texas,westerntexascollege,rippsoto0ixr,Ripp Soto
+Mar 11,home,Point JV,W,12-1,12,1,11,win,20240311_8ham,0,0,0,0,2.0,,,,0.00,,,2024,2023-24,div1,Western Texas,westerntexascollege,rippsoto0ixr,Ripp Soto
+Mar 30,home,South Georgia State,W,21-6,21,6,15,win,20240330_7w8y,0,0,0,0,1.0,1,1,1,9.00,1.00,,2024,2023-24,div1,Western Texas,westerntexascollege,rippsoto0ixr,Ripp Soto
+Apr 6,home,Georgia Highlands,L,17-7,17,7,10,win,20240406_ijcg,0,0,0,0,1.0,2,5,3,27.00,4.00,2,2024,2023-24,div1,Western Texas,westerntexascollege,rippsoto0ixr,Ripp Soto
+May 2,home,Abraham Baldwin,W,8-6,8,6,2,win,20240502_zu0p,0,0,0,0,0.2,,1,,0.00,,,2024,2023-24,div1,Western Texas,westerntexascollege,rippsoto0ixr,Ripp Soto

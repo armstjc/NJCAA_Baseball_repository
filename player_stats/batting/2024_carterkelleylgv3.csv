@@ -1,11 +1,22 @@
 date,location,opponent,result,score,team_score,opp_score,game_score_diff,game_win_loss,game_id,AB,R,H,2B,3B,HR,RBI,BB,K,SB,CS,HBP,SF,SH,TB,XBH,HDP,GO,FO,GO/FO,PA,season,njcaa_season,njcaa_division,team,team_id,player_id,player_name
-Feb 4,home,Amarillo College,W,13-1,13,1,12,win,20240204_pbxc,3,1,0,,,,1,1,,,,,,,0,0,,,,,4,2024,2023-24,div1,Johnson County,johnsoncountycommunitycollege,carterkelleylgv3,Carter Kelley
-Feb 10,home,Crowder,W,12-6,12,6,6,win,20240210_y44a,3,0,0,,,,0,,2,,,,,,0,0,,,,,3,2024,2023-24,div1,Johnson County,johnsoncountycommunitycollege,carterkelleylgv3,Carter Kelley
-Feb 18,home,Southwestern,W,12-3,12,3,9,win,20240218_7mrn,0,0,0,,,,0,,,2,,,,,0,0,,,,,0,2024,2023-24,div1,Johnson County,johnsoncountycommunitycollege,carterkelleylgv3,Carter Kelley
-Feb 18,home,Southwestern,W,10-1,10,1,9,win,20240218_2vrz,1,0,1,,,,0,,,,,,,,1,0,,,,,1,2024,2023-24,div1,Johnson County,johnsoncountycommunitycollege,carterkelleylgv3,Carter Kelley
-Feb 19,home,Southwestern,W,14-0,14,0,14,win,20240219_gkfb,1,0,0,,,,0,,,,,,,,0,0,,,,,1,2024,2023-24,div1,Johnson County,johnsoncountycommunitycollege,carterkelleylgv3,Carter Kelley
-Feb 19,home,Southwestern,W,8-4,8,4,4,win,20240219_k41h,4,0,1,,,,0,,3,,,,,,1,0,,,,,4,2024,2023-24,div1,Johnson County,johnsoncountycommunitycollege,carterkelleylgv3,Carter Kelley
-Feb 24,home,Moberly Area,W,19-1,19,1,18,win,20240224_i2pk,2,1,1,1,,,1,,,,,,,,2,1,,,,,2,2024,2023-24,div1,Johnson County,johnsoncountycommunitycollege,carterkelleylgv3,Carter Kelley
-Feb 25,home,Moberly Area,W,18-4,18,4,14,win,20240225_mhgd,1,0,0,,,,0,,,,,,,,0,0,,,,,1,2024,2023-24,div1,Johnson County,johnsoncountycommunitycollege,carterkelleylgv3,Carter Kelley
-Mar 23,home,Baker University JV,W,16-2,16,2,14,win,20240323_wk31,3,1,2,,,,1,,1,,,,1,,2,0,,,,,4,2024,2023-24,div1,Johnson County,johnsoncountycommunitycollege,carterkelleylgv3,Carter Kelley
-Apr 6,home,Coffeyville,W,26-8,26,8,18,win,20240406_fdyl,0,1,0,,,,0,1,,,,,,,0,0,,,,,1,2024,2023-24,div1,Johnson County,johnsoncountycommunitycollege,carterkelleylgv3,Carter Kelley
+Jan 28,home,Carl Albert State,W,10-2,10,2,8,win,20240128_kjo9,3,2,1,,,,0,2,,,,,,,1,0,,,,,5,2024,2023-24,div1,Johnson County,johnsoncountycommunitycollege,carterkelleylgv3,Carter Kelley
+Jan 28,home,Carl Albert State,W,11-10,11,10,1,win,20240128_ve5j,1,1,1,1,,,0,,,,,,,,2,1,,,,,1,2024,2023-24,div1,Johnson County,johnsoncountycommunitycollege,carterkelleylgv3,Carter Kelley
+Feb 1,home,Northeastern Oklahoma A&M,W,5-3,5,3,2,win,20240201_ycny,3,1,1,,,,0,,1,1,,1,,,1,0,,,,,4,2024,2023-24,div1,Johnson County,johnsoncountycommunitycollege,carterkelleylgv3,Carter Kelley
+Feb 2,home,Northeastern Oklahoma A&M,W,4-0,4,0,4,win,20240202_9v41,3,0,0,,,,0,,,,,,,,0,0,2,,,,3,2024,2023-24,div1,Johnson County,johnsoncountycommunitycollege,carterkelleylgv3,Carter Kelley
+Feb 16,home,Cowley,W,3-1,3,1,2,win,20240216_0nj4,1,0,1,,,,0,,,,,,,,1,0,,,,,1,2024,2023-24,div1,Johnson County,johnsoncountycommunitycollege,carterkelleylgv3,Carter Kelley
+Feb 16,home,Cowley,W,7-3,7,3,4,win,20240216_vdhl,3,0,1,1,,,2,,,,,,,,2,1,,2,,,3,2024,2023-24,div1,Johnson County,johnsoncountycommunitycollege,carterkelleylgv3,Carter Kelley
+Feb 28,home,Bossier Parish,W,6-4,6,4,2,win,20240228_4i2d,3,1,1,,,,0,,1,,,,,,1,0,,,,,3,2024,2023-24,div1,Johnson County,johnsoncountycommunitycollege,carterkelleylgv3,Carter Kelley
+Mar 9,home,Joliet,W,14-4,14,4,10,win,20240309_j1lk,3,2,1,1,,,0,2,,,,,,,2,1,,,,,5,2024,2023-24,div1,Johnson County,johnsoncountycommunitycollege,carterkelleylgv3,Carter Kelley
+Mar 13,home,Tyler,W,9-0,9,0,9,win,20240313_9awn,2,0,0,,,,1,1,1,,,1,,,0,0,,,1,,4,2024,2023-24,div1,Johnson County,johnsoncountycommunitycollege,carterkelleylgv3,Carter Kelley
+Mar 16,home,Paris,W,10-2,10,2,8,win,20240316_mjbl,2,1,0,,,,1,2,1,,,,,,0,0,,,,,4,2024,2023-24,div1,Johnson County,johnsoncountycommunitycollege,carterkelleylgv3,Carter Kelley
+Mar 23,home,Northeast Texas,W,10-6,10,6,4,win,20240323_k96a,3,0,1,1,,,2,1,,,,,,,2,1,1,1,1,1.00,4,2024,2023-24,div1,Johnson County,johnsoncountycommunitycollege,carterkelleylgv3,Carter Kelley
+Mar 23,home,Northeast Texas,W,2-1,2,1,1,win,20240323_jvl2,3,0,1,1,,,2,,2,,,,,,2,1,,,,,3,2024,2023-24,div1,Johnson County,johnsoncountycommunitycollege,carterkelleylgv3,Carter Kelley
+Mar 29,home,Bossier Parish,W,5-4,5,4,1,win,20240329_aqp7,4,0,1,,,,0,,1,,,,,,1,0,,,,,4,2024,2023-24,div1,Johnson County,johnsoncountycommunitycollege,carterkelleylgv3,Carter Kelley
+Mar 29,home,Bossier Parish,W,7-5,7,5,2,win,20240329_uss9,3,1,2,,,,0,2,,,,,,,2,0,,,,,5,2024,2023-24,div1,Johnson County,johnsoncountycommunitycollege,carterkelleylgv3,Carter Kelley
+Apr 3,home,Angelina,W,9-5,9,5,4,win,20240403_ldmx,3,2,2,,,,1,2,1,,,,,,2,0,,,,,5,2024,2023-24,div1,Johnson County,johnsoncountycommunitycollege,carterkelleylgv3,Carter Kelley
+Apr 13,home,Navarro,W,4-2,4,2,2,win,20240413_pwfk,3,1,2,,,,0,,,,,,,,2,0,,,,,3,2024,2023-24,div1,Johnson County,johnsoncountycommunitycollege,carterkelleylgv3,Carter Kelley
+Apr 13,home,Navarro,W,2-1,2,1,1,win,20240413_vg8r,3,0,0,,,,0,1,1,,,,,,0,0,,,,,4,2024,2023-24,div1,Johnson County,johnsoncountycommunitycollege,carterkelleylgv3,Carter Kelley
+Apr 19,home,LSU Eunice,W,6-3,6,3,3,win,20240419_u6rj,3,0,0,,,,0,1,,,,,,,0,0,,,,,4,2024,2023-24,div1,Johnson County,johnsoncountycommunitycollege,carterkelleylgv3,Carter Kelley
+Apr 24,home,Tyler,W,10-9,10,9,1,win,20240424_tprn,3,1,2,,,,1,,,,,1,,1,2,0,,1,1,1.00,5,2024,2023-24,div1,Johnson County,johnsoncountycommunitycollege,carterkelleylgv3,Carter Kelley
+Apr 27,home,Tyler,W,5-3,5,3,2,win,20240427_babe,3,0,1,,,,2,,1,,,,,,1,0,,1,,,3,2024,2023-24,div1,Johnson County,johnsoncountycommunitycollege,carterkelleylgv3,Carter Kelley
+Apr 27,home,Tyler,W,4-1,4,1,3,win,20240427_3osf,3,1,1,1,,,0,1,,,,,,,2,1,,2,,,4,2024,2023-24,div1,Johnson County,johnsoncountycommunitycollege,carterkelleylgv3,Carter Kelley

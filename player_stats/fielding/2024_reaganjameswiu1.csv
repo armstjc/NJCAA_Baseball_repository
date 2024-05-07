@@ -1,35 +1,20 @@
 date,location,opponent,result,score,team_score,opp_score,game_score_diff,game_win_loss,game_id,TC,PO,A,E,FPCT,DP,SBA,RCS,RCS_PCT,PB,CI,season,njcaa_season,njcaa_division,team,team_id,player_id,player_name
-Feb 8,home,Navarro,L,11-6,11,6,5,win,20240208_dba0,0,0,0,0,3.0,1,1,1,3.00,1.00,2,2024,2023-24,div1,Alvin,alvincommunitycollege,reaganjameswiu1,Reagan James
-Feb 9,home,Navarro,L,11-3,11,3,8,win,20240209_qyyr,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Alvin,alvincommunitycollege,reaganjameswiu1,Reagan James
-Feb 13,home,Monroe College,W,13-3,13,3,10,win,20240213_j1z6,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Alvin,alvincommunitycollege,reaganjameswiu1,Reagan James
-Feb 14,home,Angelina,W,11-1,11,1,10,win,20240214_vjl3,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Alvin,alvincommunitycollege,reaganjameswiu1,Reagan James
-Feb 18,home,Monroe College,L,13-1,13,1,12,win,20240218_z62s,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Alvin,alvincommunitycollege,reaganjameswiu1,Reagan James
-Feb 19,home,Wabash Valley,W,8-3,8,3,5,win,20240219_68qn,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Alvin,alvincommunitycollege,reaganjameswiu1,Reagan James
-Feb 19,home,Wabash Valley,W,12-9,12,9,3,win,20240219_vnpj,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Alvin,alvincommunitycollege,reaganjameswiu1,Reagan James
-Feb 21,home,Angelina,L,5-3,5,3,2,win,20240221_5hp5,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Alvin,alvincommunitycollege,reaganjameswiu1,Reagan James
-Feb 21,home,Angelina,W,10-9,10,9,1,win,20240221_0fj0,1,0,0,0,3.0,5,4,3,9.00,2.00,1,2024,2023-24,div1,Alvin,alvincommunitycollege,reaganjameswiu1,Reagan James
-Feb 23,home,Hill,W,11-1,11,1,10,win,20240223_4xwi,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Alvin,alvincommunitycollege,reaganjameswiu1,Reagan James
-Feb 24,home,Hill,L,11-4,11,4,7,win,20240224_bzvk,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Alvin,alvincommunitycollege,reaganjameswiu1,Reagan James
-Mar 2,home,Galveston,L,9-5,9,5,4,win,20240302_vt71,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Alvin,alvincommunitycollege,reaganjameswiu1,Reagan James
-Mar 5,home,Wharton County,L,10-6,10,6,4,win,20240305_h3xr,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Alvin,alvincommunitycollege,reaganjameswiu1,Reagan James
-Mar 7,home,Wharton County,W,7-4,7,4,3,win,20240307_qikz,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Alvin,alvincommunitycollege,reaganjameswiu1,Reagan James
-Mar 9,home,Wharton County,L,3-0,3,0,3,win,20240309_t58p,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Alvin,alvincommunitycollege,reaganjameswiu1,Reagan James
-Mar 9,home,Wharton County,L,14-1,14,1,13,win,20240309_z47e,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Alvin,alvincommunitycollege,reaganjameswiu1,Reagan James
-Mar 14,home,San Jacinto,L,5-3,5,3,2,win,20240314_sy5t,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Alvin,alvincommunitycollege,reaganjameswiu1,Reagan James
-Mar 14,home,San Jacinto,L,6-5,6,5,1,win,20240314_lu89,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Alvin,alvincommunitycollege,reaganjameswiu1,Reagan James
-Mar 15,home,San Jacinto,L,6-0,6,0,6,win,20240315_k9nd,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Alvin,alvincommunitycollege,reaganjameswiu1,Reagan James
-Mar 19,home,Coastal Bend,W,5-4,5,4,1,win,20240319_f4dl,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Alvin,alvincommunitycollege,reaganjameswiu1,Reagan James
-Mar 21,home,Coastal Bend,L,8-7,8,7,1,win,20240321_3kdm,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Alvin,alvincommunitycollege,reaganjameswiu1,Reagan James
-Mar 26  #,home,St. Edwards,L,20-7,20,7,13,win,20240326_uvuy,0,0,0,0,1.0,2,1,,0.00,2.00,,2024,2023-24,div1,Alvin,alvincommunitycollege,reaganjameswiu1,Reagan James
-Mar 29,home,Blinn,L,11-3,11,3,8,win,20240329_s6bs,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Alvin,alvincommunitycollege,reaganjameswiu1,Reagan James
-Apr 2,home,Galveston,L,14-4,14,4,10,win,20240402_0x1q,0,0,0,0,3.0,2,1,1,3.00,.67,,2024,2023-24,div1,Alvin,alvincommunitycollege,reaganjameswiu1,Reagan James
-Apr 4,home,Galveston,L,6-4,6,4,2,win,20240404_w67h,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Alvin,alvincommunitycollege,reaganjameswiu1,Reagan James
-Apr 6,home,Galveston,L,4-2,4,2,2,win,20240406_5ra7,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Alvin,alvincommunitycollege,reaganjameswiu1,Reagan James
-Apr 16,home,San Jacinto,L,10-2,10,2,8,win,20240416_pl3d,0,0,0,0,1.2,2,2,2,10.80,1.20,0,2024,2023-24,div1,Alvin,alvincommunitycollege,reaganjameswiu1,Reagan James
-Apr 18,home,San Jacinto,L,10-3,10,3,7,win,20240418_bzln,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Alvin,alvincommunitycollege,reaganjameswiu1,Reagan James
-Apr 19,home,San Jacinto,L,10-7,10,7,3,win,20240419_dou0,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Alvin,alvincommunitycollege,reaganjameswiu1,Reagan James
-Apr 23,home,McLennan,L,6-2,6,2,4,win,20240423_s6il,1,0,0,0,5.0,4,1,1,1.80,.80,0,2024,2023-24,div1,Alvin,alvincommunitycollege,reaganjameswiu1,Reagan James
-Apr 27,home,Coastal Bend,L,6-2,6,2,4,win,20240427_2vae,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Alvin,alvincommunitycollege,reaganjameswiu1,Reagan James
-May 1,home,Blinn,L,7-5,7,5,2,win,20240501_s057,1,0,0,0,6.0,3,2,2,3.00,.83,2,2024,2023-24,div1,Alvin,alvincommunitycollege,reaganjameswiu1,Reagan James
-May 3,home,Blinn,L,8-3,8,3,5,win,20240503_b0yc,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Alvin,alvincommunitycollege,reaganjameswiu1,Reagan James
-May 3,home,Blinn,L,8-1,8,1,7,win,20240503_90mk,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Alvin,alvincommunitycollege,reaganjameswiu1,Reagan James
+Jan 26,home,Miami Dade,W,9-0,9,0,9,win,20240126_0md2,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Alvin,alvincommunitycollege,reaganjameswiu1,Reagan James
+Feb 2,home,Florida SouthWestern State,W,6-3,6,3,3,win,20240202_3g7s,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Alvin,alvincommunitycollege,reaganjameswiu1,Reagan James
+Feb 3,home,Wabash Valley,W,5-1,5,1,4,win,20240203_czre,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Alvin,alvincommunitycollege,reaganjameswiu1,Reagan James
+Feb 6,home,Lurleen B. Wallace,W,5-1,5,1,4,win,20240206_mkm6,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Alvin,alvincommunitycollege,reaganjameswiu1,Reagan James
+Feb 9,home,Bishop State,W,11-1,11,1,10,win,20240209_wrtj,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Alvin,alvincommunitycollege,reaganjameswiu1,Reagan James
+Feb 14,home,Meridian,W,12-0,12,0,12,win,20240214_vkue,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Alvin,alvincommunitycollege,reaganjameswiu1,Reagan James
+Feb 15,home,Hinds,L,4-1,4,1,3,win,20240215_wxvj,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Alvin,alvincommunitycollege,reaganjameswiu1,Reagan James
+Feb 23,home,Motlow State,W,10-0,10,0,10,win,20240223_wd01,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Alvin,alvincommunitycollege,reaganjameswiu1,Reagan James
+Feb 24,home,San Jacinto,W,7-6,7,6,1,win,20240224_0ua5,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Alvin,alvincommunitycollege,reaganjameswiu1,Reagan James
+Feb 24,home,Motlow State,W,7-1,7,1,6,win,20240224_6kmw,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Alvin,alvincommunitycollege,reaganjameswiu1,Reagan James
+Mar 8,home,Chipola,L,9-8,9,8,1,win,20240308_mfyn,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Alvin,alvincommunitycollege,reaganjameswiu1,Reagan James
+Mar 15,home,Tallahassee,W,9-1,9,1,8,win,20240315_9xx0,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Alvin,alvincommunitycollege,reaganjameswiu1,Reagan James
+Mar 18,home,Pensacola State,L,9-3,9,3,6,win,20240318_4232,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Alvin,alvincommunitycollege,reaganjameswiu1,Reagan James
+Mar 27,home,Chipola,W,9-1,9,1,8,win,20240327_fctj,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Alvin,alvincommunitycollege,reaganjameswiu1,Reagan James
+Mar 30,home,Chipola,L,18-14,18,14,4,win,20240330_avtr,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Alvin,alvincommunitycollege,reaganjameswiu1,Reagan James
+Apr 2,home,Gulf Coast State,W,14-5,14,5,9,win,20240402_bscx,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Alvin,alvincommunitycollege,reaganjameswiu1,Reagan James
+Apr 9,home,Tallahassee,W,11-0,11,0,11,win,20240409_oacm,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Alvin,alvincommunitycollege,reaganjameswiu1,Reagan James
+Apr 18,home,Pensacola State,W,10-0,10,0,10,win,20240418_j60e,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Alvin,alvincommunitycollege,reaganjameswiu1,Reagan James
+Apr 20,home,Pensacola State,L,4-3,4,3,1,win,20240420_9kti,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Alvin,alvincommunitycollege,reaganjameswiu1,Reagan James

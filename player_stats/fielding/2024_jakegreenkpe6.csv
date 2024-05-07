@@ -1,8 +1,19 @@
 date,location,opponent,result,score,team_score,opp_score,game_score_diff,game_win_loss,game_id,TC,PO,A,E,FPCT,DP,SBA,RCS,RCS_PCT,PB,CI,season,njcaa_season,njcaa_division,team,team_id,player_id,player_name
-Jan 27,home,Southern Idaho,W,17-0,17,0,17,win,20240127_fxv4,0,0,0,0,1.0,1,,,0.00,1.00,,2024,2023-24,div1,Cochise,cochisecollege,jakegreenkpe6,Jake Green
-Jan 27,home,Southern Idaho,L,6-1,6,1,5,win,20240127_k9wy,0,0,0,0,1.0,1,,,0.00,2.00,1,2024,2023-24,div1,Cochise,cochisecollege,jakegreenkpe6,Jake Green
-Feb 2,home,Utah State Eastern,L,7-5,7,5,2,win,20240202_qv07,0,0,0,0,0.1,,,,0.00,3.00,1,2024,2023-24,div1,Cochise,cochisecollege,jakegreenkpe6,Jake Green
-Feb 9,home,Colorado Northwestern,W,6-4,6,4,2,win,20240209_i8j4,0,0,0,0,1.2,1,,,0.00,1.80,2,2024,2023-24,div1,Cochise,cochisecollege,jakegreenkpe6,Jake Green
-Feb 17,home,Central Arizona,L,5-1,5,1,4,win,20240217_s15f,0,0,0,0,0.2,1,2,2,27.00,6.00,3,2024,2023-24,div1,Cochise,cochisecollege,jakegreenkpe6,Jake Green
-Feb 27,home,Scottsdale Post Grad,W,11-1,11,1,10,win,20240227_u10g,0,0,0,0,1.0,1,,,0.00,1.00,,2024,2023-24,div1,Cochise,cochisecollege,jakegreenkpe6,Jake Green
-Mar 21,home,Langley Blaze,W,8-1,8,1,7,win,20240321_rnzg,0,0,0,0,2.0,4,,,0.00,2.00,,2024,2023-24,div1,Cochise,cochisecollege,jakegreenkpe6,Jake Green
+Feb 17,home,Central Arizona,L,6-0,6,0,6,win,20240217_vvt9,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Cochise,cochisecollege,jakegreenkpe6,Jake Green
+Feb 20,home,Yavapai,W,8-5,8,5,3,win,20240220_8vdr,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Cochise,cochisecollege,jakegreenkpe6,Jake Green
+Feb 24,home,Pima,W,11-6,11,6,5,win,20240224_i4gb,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Cochise,cochisecollege,jakegreenkpe6,Jake Green
+Feb 27,home,Scottsdale Post Grad,W,12-0,12,0,12,win,20240227_figm,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Cochise,cochisecollege,jakegreenkpe6,Jake Green
+Mar 2,home,Arizona Western,L,9-4,9,4,5,win,20240302_hlfj,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Cochise,cochisecollege,jakegreenkpe6,Jake Green
+Mar 5,home,Glendale,W,4-2,4,2,2,win,20240305_u12a,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Cochise,cochisecollege,jakegreenkpe6,Jake Green
+Mar 9,home,GateWay (AZ),W,9-1,9,1,8,win,20240309_qtjx,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Cochise,cochisecollege,jakegreenkpe6,Jake Green
+Mar 13,home,Community Christian (CA),W,12-2,12,2,10,win,20240313_yry8,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Cochise,cochisecollege,jakegreenkpe6,Jake Green
+Mar 21,home,Langley Blaze,W,11-1,11,1,10,win,20240321_zuik,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Cochise,cochisecollege,jakegreenkpe6,Jake Green
+Mar 21,home,Langley Blaze,W,8-1,8,1,7,win,20240321_rnzg,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Cochise,cochisecollege,jakegreenkpe6,Jake Green
+Mar 30,home,Paradise Valley,W,2-1,2,1,1,win,20240330_oogu,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Cochise,cochisecollege,jakegreenkpe6,Jake Green
+Apr 3,home,Mesa,L,6-0,6,0,6,win,20240403_mg1n,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Cochise,cochisecollege,jakegreenkpe6,Jake Green
+Apr 6,home,South Mountain,L,7-0,7,0,7,win,20240406_1t9w,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Cochise,cochisecollege,jakegreenkpe6,Jake Green
+Apr 6,home,South Mountain,L,8-3,8,3,5,win,20240406_vlqu,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Cochise,cochisecollege,jakegreenkpe6,Jake Green
+Apr 9,home,Eastern Arizona,W,10-8,10,8,2,win,20240409_eqta,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Cochise,cochisecollege,jakegreenkpe6,Jake Green
+Apr 20,home,Pima,L,11-2,11,2,9,win,20240420_fa3i,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Cochise,cochisecollege,jakegreenkpe6,Jake Green
+Apr 20,home,Pima,L,8-4,8,4,4,win,20240420_wjw2,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Cochise,cochisecollege,jakegreenkpe6,Jake Green
+Apr 27,home,Arizona Western,L,8-6,8,6,2,win,20240427_328v,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Cochise,cochisecollege,jakegreenkpe6,Jake Green

@@ -1,25 +1,46 @@
 date,location,opponent,result,score,team_score,opp_score,game_score_diff,game_win_loss,game_id,GS,W,L,SV,IP,H,R,ER,ERA,BB,K,HR,season,njcaa_season,njcaa_division,team,team_id,player_id,player_name
-Mar 23,home,Rend Lake,W,3-2,3,2,1,win,20240323_fe1r,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div1,Lake Land,lakelandcollege,brandonjohnsonepbn,Brandon Johnson
-Mar 23,home,Rend Lake,W,5-4,5,4,1,win,20240323_kjvc,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div1,Lake Land,lakelandcollege,brandonjohnsonepbn,Brandon Johnson
-Mar 21,home,Rend Lake,L,5-2,5,2,3,win,20240321_593j,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div1,Lake Land,lakelandcollege,brandonjohnsonepbn,Brandon Johnson
-Mar 16,home,Wabash Valley,W,11-7,11,7,4,win,20240316_q43e,0,0,0,0,3.2,2,1,1,2.45,1.36,3,3,2024,2023-24,div1,Lake Land,lakelandcollege,brandonjohnsonepbn,Brandon Johnson
-Mar 16,home,Wabash Valley,W,17-13,17,13,4,win,20240316_d39n,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div1,Lake Land,lakelandcollege,brandonjohnsonepbn,Brandon Johnson
-Mar 13,home,Wabash Valley,L,19-10,19,10,9,win,20240313_h54l,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div1,Lake Land,lakelandcollege,brandonjohnsonepbn,Brandon Johnson
-Mar 12,home,Illinois Central,W,12-2,12,2,10,win,20240312_3n6p,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div1,Lake Land,lakelandcollege,brandonjohnsonepbn,Brandon Johnson
-Mar 10,home,Olney Central,W,8-4,8,4,4,win,20240310_wmsm,1,0,0,0,2.0,4,3,1,4.50,2.50,1,1,2024,2023-24,div1,Lake Land,lakelandcollege,brandonjohnsonepbn,Brandon Johnson
-Mar 10,home,Olney Central,L,12-5,12,5,7,win,20240310_ykad,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div1,Lake Land,lakelandcollege,brandonjohnsonepbn,Brandon Johnson
-Mar 7,home,Olney Central,L,10-6,10,6,4,win,20240307_oq0j,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div1,Lake Land,lakelandcollege,brandonjohnsonepbn,Brandon Johnson
-Mar 6,home,Vincennes,W,6-3,6,3,3,win,20240306_74s9,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div1,Lake Land,lakelandcollege,brandonjohnsonepbn,Brandon Johnson
-Mar 3,home,Jefferson (MO),W,8-7,8,7,1,win,20240303_56q2,1,1,0,0,3.0,1,2,2,6.00,1.33,3,7,2024,2023-24,div1,Lake Land,lakelandcollege,brandonjohnsonepbn,Brandon Johnson
-Mar 3,home,McHenry County,L,6-1,6,1,5,win,20240303_w5c8,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div1,Lake Land,lakelandcollege,brandonjohnsonepbn,Brandon Johnson
-Mar 1,home,John Wood,W,6-5,6,5,1,win,20240301_co4b,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div1,Lake Land,lakelandcollege,brandonjohnsonepbn,Brandon Johnson
-Mar 1,home,John Wood,W,5-3,5,3,2,win,20240301_kpmj,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div1,Lake Land,lakelandcollege,brandonjohnsonepbn,Brandon Johnson
-Feb 26,home,Kankakee,T,13-13,13,13,0,tie,20240226_bix1,0,0,0,0,0.2,1,1,1,13.50,3.00,1,1,2024,2023-24,div1,Lake Land,lakelandcollege,brandonjohnsonepbn,Brandon Johnson
-Feb 24,home,Kirkwood,L,6-4,6,4,2,win,20240224_t0k7,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div1,Lake Land,lakelandcollege,brandonjohnsonepbn,Brandon Johnson
-Feb 24,home,Kirkwood,L,8-0,8,0,8,win,20240224_c3pp,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div1,Lake Land,lakelandcollege,brandonjohnsonepbn,Brandon Johnson
-Feb 17,home,John Wood,L,10-9,10,9,1,win,20240217_pgew,1,0,0,0,4.0,7,7,2,4.50,2.25,2,4,2024,2023-24,div1,Lake Land,lakelandcollege,brandonjohnsonepbn,Brandon Johnson
-Feb 17,home,Iowa Central,L,12-5,12,5,7,win,20240217_mz84,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div1,Lake Land,lakelandcollege,brandonjohnsonepbn,Brandon Johnson
-Feb 16,home,Indian Hills,L,10-6,10,6,4,win,20240216_i7kz,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div1,Lake Land,lakelandcollege,brandonjohnsonepbn,Brandon Johnson
-Feb 16,home,St. Charles,L,13-8,13,8,5,win,20240216_9cg2,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div1,Lake Land,lakelandcollege,brandonjohnsonepbn,Brandon Johnson
-Feb 9,home,Parkland,W,6-3,6,3,3,win,20240209_w4iy,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div1,Lake Land,lakelandcollege,brandonjohnsonepbn,Brandon Johnson
-Feb 9,home,Parkland,W,5-1,5,1,4,win,20240209_ofco,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div1,Lake Land,lakelandcollege,brandonjohnsonepbn,Brandon Johnson
+May 4,home,Southwestern Illinois,L,7-1,7,1,6,win,20240504_enhn,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div1,Lake Land,lakelandcollege,brandonjohnsonepbn,Brandon Johnson
+May 3,home,Southwestern Illinois,L,12-4,12,4,8,win,20240503_l0yl,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div1,Lake Land,lakelandcollege,brandonjohnsonepbn,Brandon Johnson
+May 2,home,Southwestern Illinois,L,8-3,8,3,5,win,20240502_n898,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div1,Lake Land,lakelandcollege,brandonjohnsonepbn,Brandon Johnson
+Apr 27,home,John A. Logan,W,3-2,3,2,1,win,20240427_k5ke,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div1,Lake Land,lakelandcollege,brandonjohnsonepbn,Brandon Johnson
+Apr 27,home,John A. Logan,W,9-5,9,5,4,win,20240427_37x3,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div1,Lake Land,lakelandcollege,brandonjohnsonepbn,Brandon Johnson
+Apr 25,home,John A. Logan,L,6-2,6,2,4,win,20240425_a4qf,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div1,Lake Land,lakelandcollege,brandonjohnsonepbn,Brandon Johnson
+Apr 23,home,Kaskaskia,L,6-4,6,4,2,win,20240423_6yuu,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div1,Lake Land,lakelandcollege,brandonjohnsonepbn,Brandon Johnson
+Apr 23,home,Kaskaskia,W,10-9,10,9,1,win,20240423_k624,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div1,Lake Land,lakelandcollege,brandonjohnsonepbn,Brandon Johnson
+Apr 20,home,Southeastern Illinois,W,10-6,10,6,4,win,20240420_5bbr,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div1,Lake Land,lakelandcollege,brandonjohnsonepbn,Brandon Johnson
+Apr 20,home,Southeastern Illinois,W,8-3,8,3,5,win,20240420_fg20,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div1,Lake Land,lakelandcollege,brandonjohnsonepbn,Brandon Johnson
+Apr 18,home,Southeastern Illinois,W,23-7,23,7,16,win,20240418_5udu,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div1,Lake Land,lakelandcollege,brandonjohnsonepbn,Brandon Johnson
+Apr 16,home,Kaskaskia,L,10-8,10,8,2,win,20240416_m1cx,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div1,Lake Land,lakelandcollege,brandonjohnsonepbn,Brandon Johnson
+Apr 14,home,Lincoln Trail,W,17-9,17,9,8,win,20240414_zi65,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div1,Lake Land,lakelandcollege,brandonjohnsonepbn,Brandon Johnson
+Apr 13,home,Lincoln Trail,L,4-3,4,3,1,win,20240413_jgjf,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div1,Lake Land,lakelandcollege,brandonjohnsonepbn,Brandon Johnson
+Apr 13,home,Lincoln Trail,W,21-8,21,8,13,win,20240413_0982,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div1,Lake Land,lakelandcollege,brandonjohnsonepbn,Brandon Johnson
+Apr 6,home,Rend Lake,W,7-3,7,3,4,win,20240406_7fhz,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div1,Lake Land,lakelandcollege,brandonjohnsonepbn,Brandon Johnson
+Apr 6,home,Rend Lake,L,9-4,9,4,5,win,20240406_6pre,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div1,Lake Land,lakelandcollege,brandonjohnsonepbn,Brandon Johnson
+Apr 4,home,Rend Lake,L,13-3,13,3,10,win,20240404_bq4s,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div1,Lake Land,lakelandcollege,brandonjohnsonepbn,Brandon Johnson
+Apr 1  #,home,Oakland City University,L,16-6,16,6,10,win,20240401_u8ei,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div1,Lake Land,lakelandcollege,brandonjohnsonepbn,Brandon Johnson
+Mar 29,home,Wabash Valley,L,8-3,8,3,5,win,20240329_l1zo,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div1,Lake Land,lakelandcollege,brandonjohnsonepbn,Brandon Johnson
+Mar 29,home,Wabash Valley,L,27-4,27,4,23,win,20240329_74ft,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div1,Lake Land,lakelandcollege,brandonjohnsonepbn,Brandon Johnson
+Mar 28,home,Wabash Valley,L,12-9,12,9,3,win,20240328_iue9,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div1,Lake Land,lakelandcollege,brandonjohnsonepbn,Brandon Johnson
+Mar 26,home,Vincennes,L,17-12,17,12,5,win,20240326_ohw8,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div1,Lake Land,lakelandcollege,brandonjohnsonepbn,Brandon Johnson
+Mar 23,home,Frontier,L,5-4,5,4,1,win,20240323_guri,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div1,Lake Land,lakelandcollege,brandonjohnsonepbn,Brandon Johnson
+Mar 23,home,Frontier,L,9-7,9,7,2,win,20240323_b4wo,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div1,Lake Land,lakelandcollege,brandonjohnsonepbn,Brandon Johnson
+Mar 21,home,Frontier,L,9-1,9,1,8,win,20240321_2obh,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div1,Lake Land,lakelandcollege,brandonjohnsonepbn,Brandon Johnson
+Mar 16,home,Shawnee,W,9-6,9,6,3,win,20240316_d2uw,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div1,Lake Land,lakelandcollege,brandonjohnsonepbn,Brandon Johnson
+Mar 16,home,Shawnee,W,10-3,10,3,7,win,20240316_l2mo,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div1,Lake Land,lakelandcollege,brandonjohnsonepbn,Brandon Johnson
+Mar 14,home,Shawnee,W,10-6,10,6,4,win,20240314_urhl,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div1,Lake Land,lakelandcollege,brandonjohnsonepbn,Brandon Johnson
+Mar 12,home,Vincennes,W,15-5,15,5,10,win,20240312_khdo,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div1,Lake Land,lakelandcollege,brandonjohnsonepbn,Brandon Johnson
+Mar 10,home,Lake Land,L,8-4,8,4,4,win,20240310_wmsm,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div1,Lake Land,lakelandcollege,brandonjohnsonepbn,Brandon Johnson
+Mar 10,home,Lake Land,W,12-5,12,5,7,win,20240310_ykad,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div1,Lake Land,lakelandcollege,brandonjohnsonepbn,Brandon Johnson
+Mar 7,home,Lake Land,W,10-6,10,6,4,win,20240307_oq0j,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div1,Lake Land,lakelandcollege,brandonjohnsonepbn,Brandon Johnson
+Mar 3,home,Danville Area,W,10-0,10,0,10,win,20240303_2j0e,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div1,Lake Land,lakelandcollege,brandonjohnsonepbn,Brandon Johnson
+Mar 3,home,Olive-Harvey,W,2-1,2,1,1,win,20240303_8dxn,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div1,Lake Land,lakelandcollege,brandonjohnsonepbn,Brandon Johnson
+Mar 2,home,Jefferson (MO),W,7-1,7,1,6,win,20240302_uh3v,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div1,Lake Land,lakelandcollege,brandonjohnsonepbn,Brandon Johnson
+Mar 2,home,John Wood,L,3-2,3,2,1,win,20240302_hkjm,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div1,Lake Land,lakelandcollege,brandonjohnsonepbn,Brandon Johnson
+Feb 25,home,Joliet,L,15-8,15,8,7,win,20240225_m5po,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div1,Lake Land,lakelandcollege,brandonjohnsonepbn,Brandon Johnson
+Feb 24,home,Morton,W,10-0,10,0,10,win,20240224_i3b3,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div1,Lake Land,lakelandcollege,brandonjohnsonepbn,Brandon Johnson
+Feb 24,home,Vincennes,W,8-1,8,1,7,win,20240224_97hq,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div1,Lake Land,lakelandcollege,brandonjohnsonepbn,Brandon Johnson
+Feb 23,home,Joliet,W,7-6,7,6,1,win,20240223_4f21,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div1,Lake Land,lakelandcollege,brandonjohnsonepbn,Brandon Johnson
+Feb 18,home,Iowa Central,L,11-3,11,3,8,win,20240218_wz0p,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div1,Lake Land,lakelandcollege,brandonjohnsonepbn,Brandon Johnson
+Feb 17,home,UA Rich Mountain,L,5-3,5,3,2,win,20240217_c07g,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div1,Lake Land,lakelandcollege,brandonjohnsonepbn,Brandon Johnson
+Feb 16,home,Itawamba,L,8-1,8,1,7,win,20240216_mlgd,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div1,Lake Land,lakelandcollege,brandonjohnsonepbn,Brandon Johnson
+Feb 13,home,Columbia State,L,11-10,11,10,1,win,20240213_ht5a,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div1,Lake Land,lakelandcollege,brandonjohnsonepbn,Brandon Johnson

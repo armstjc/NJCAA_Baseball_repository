@@ -1,14 +1,52 @@
 date,location,opponent,result,score,team_score,opp_score,game_score_diff,game_win_loss,game_id,TC,PO,A,E,FPCT,DP,SBA,RCS,RCS_PCT,PB,CI,season,njcaa_season,njcaa_division,team,team_id,player_id,player_name
-Feb 3,home,Central Alabama,W,4-3,4,3,1,win,20240203_ny8y,1,0,0,0,4.0,7,3,3,6.75,2.50,3,2024,2023-24,div1,Georgia Highlands,georgiahighlandscollege,michaelsharmant3ps,Michael Sharman
-Feb 10,home,Lincoln Trail,W,11-1,11,1,10,win,20240210_ti2i,1,1,0,0,6.0,7,1,1,1.50,1.33,1,2024,2023-24,div1,Georgia Highlands,georgiahighlandscollege,michaelsharmant3ps,Michael Sharman
-Feb 18,home,Walters State,L,4-1,4,1,3,win,20240218_vabg,1,0,1,0,3.1,4,3,3,8.10,1.50,1,2024,2023-24,div1,Georgia Highlands,georgiahighlandscollege,michaelsharmant3ps,Michael Sharman
-Feb 24,home,Chattahoochee Valley,W,13-3,13,3,10,win,20240224_9nbw,1,1,0,0,5.0,6,3,2,3.60,1.60,2,2024,2023-24,div1,Georgia Highlands,georgiahighlandscollege,michaelsharmant3ps,Michael Sharman
-Mar 2,home,USC Salkehatchie,W,6-2,6,2,4,win,20240302_lr7v,1,1,0,0,6.1,4,2,2,2.84,.63,0,2024,2023-24,div1,Georgia Highlands,georgiahighlandscollege,michaelsharmant3ps,Michael Sharman
-Mar 9,home,USC Lancaster,W,9-3,9,3,6,win,20240309_nc59,1,1,0,0,6.0,6,3,3,4.50,1.17,1,2024,2023-24,div1,Georgia Highlands,georgiahighlandscollege,michaelsharmant3ps,Michael Sharman
-Mar 23,home,Abraham Baldwin,L,7-6,7,6,1,win,20240323_kpud,1,0,0,0,6.0,7,0,0,0.00,1.17,0,2024,2023-24,div1,Georgia Highlands,georgiahighlandscollege,michaelsharmant3ps,Michael Sharman
-Mar 29,home,East Georgia State,L,8-4,8,4,4,win,20240329_1azm,1,0,1,0,6.0,13,7,5,7.50,2.50,2,2024,2023-24,div1,Georgia Highlands,georgiahighlandscollege,michaelsharmant3ps,Michael Sharman
-Apr 4,home,Gordon State,W,14-1,14,1,13,win,20240404_nkbk,1,1,0,0,7.0,8,1,1,1.29,1.29,1,2024,2023-24,div1,Georgia Highlands,georgiahighlandscollege,michaelsharmant3ps,Michael Sharman
-Apr 12,home,South Georgia State,W,12-1,12,1,11,win,20240412_gk7k,1,1,0,0,7.0,4,1,1,1.29,.71,1,2024,2023-24,div1,Georgia Highlands,georgiahighlandscollege,michaelsharmant3ps,Michael Sharman
-Apr 19,home,Andrew,W,16-6,16,6,10,win,20240419_z5d8,1,1,0,0,6.0,10,5,4,6.00,1.83,1,2024,2023-24,div1,Georgia Highlands,georgiahighlandscollege,michaelsharmant3ps,Michael Sharman
-Apr 25,home,East Georgia State,W,12-2,12,2,10,win,20240425_ltxo,1,1,0,0,6.0,3,2,2,3.00,.50,0,2024,2023-24,div1,Georgia Highlands,georgiahighlandscollege,michaelsharmant3ps,Michael Sharman
-May 2,home,Andrew,W,10-5,10,5,5,win,20240502_ics4,1,1,0,0,3.0,2,2,2,6.00,1.33,2,2024,2023-24,div1,Georgia Highlands,georgiahighlandscollege,michaelsharmant3ps,Michael Sharman
+Feb 9,home,Pratt,W,6-0,6,0,6,win,20240209_88vu,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Georgia Highlands,georgiahighlandscollege,michaelsharmant3ps,Michael Sharman
+Feb 9,home,Pratt,L,20-10,20,10,10,win,20240209_jeow,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Georgia Highlands,georgiahighlandscollege,michaelsharmant3ps,Michael Sharman
+Feb 10,home,Pratt,W,11-10,11,10,1,win,20240210_sv1r,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Georgia Highlands,georgiahighlandscollege,michaelsharmant3ps,Michael Sharman
+Feb 12,home,Ottawa University JV,W,10-0,10,0,10,win,20240212_ax92,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Georgia Highlands,georgiahighlandscollege,michaelsharmant3ps,Michael Sharman
+Feb 18,home,Ellsworth,W,6-3,6,3,3,win,20240218_kvuu,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Georgia Highlands,georgiahighlandscollege,michaelsharmant3ps,Michael Sharman
+Feb 18,home,Ellsworth,W,5-0,5,0,5,win,20240218_vc9m,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Georgia Highlands,georgiahighlandscollege,michaelsharmant3ps,Michael Sharman
+Feb 23,home,Southwestern,L,3-0,3,0,3,win,20240223_09ni,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Georgia Highlands,georgiahighlandscollege,michaelsharmant3ps,Michael Sharman
+Feb 23,home,Southwestern,W,6-5,6,5,1,win,20240223_5ed2,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Georgia Highlands,georgiahighlandscollege,michaelsharmant3ps,Michael Sharman
+Feb 24,home,Southwestern,W,7-6,7,6,1,win,20240224_c9n9,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Georgia Highlands,georgiahighlandscollege,michaelsharmant3ps,Michael Sharman
+Feb 24,home,Southwestern,W,5-2,5,2,3,win,20240224_tmad,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Georgia Highlands,georgiahighlandscollege,michaelsharmant3ps,Michael Sharman
+Mar 1,home,Iowa Lakes,W,8-1,8,1,7,win,20240301_nr5p,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Georgia Highlands,georgiahighlandscollege,michaelsharmant3ps,Michael Sharman
+Mar 1,home,Iowa Lakes,W,9-8,9,8,1,win,20240301_rk0q,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Georgia Highlands,georgiahighlandscollege,michaelsharmant3ps,Michael Sharman
+Mar 2,home,Iowa Lakes,W,12-0,12,0,12,win,20240302_6t75,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Georgia Highlands,georgiahighlandscollege,michaelsharmant3ps,Michael Sharman
+Mar 2,home,Iowa Lakes,W,4-3,4,3,1,win,20240302_tjty,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Georgia Highlands,georgiahighlandscollege,michaelsharmant3ps,Michael Sharman
+Mar 6,home,Baker University JV,W,14-4,14,4,10,win,20240306_3xrd,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Georgia Highlands,georgiahighlandscollege,michaelsharmant3ps,Michael Sharman
+Mar 6,home,Baker University JV,W,11-0,11,0,11,win,20240306_ixpk,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Georgia Highlands,georgiahighlandscollege,michaelsharmant3ps,Michael Sharman
+Mar 9,home,Baker University JV,W,10-3,10,3,7,win,20240309_3auo,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Georgia Highlands,georgiahighlandscollege,michaelsharmant3ps,Michael Sharman
+Mar 14,home,Johnson County,L,15-6,15,6,9,win,20240314_ipt8,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Georgia Highlands,georgiahighlandscollege,michaelsharmant3ps,Michael Sharman
+Mar 14,home,Johnson County,W,9-6,9,6,3,win,20240314_e678,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Georgia Highlands,georgiahighlandscollege,michaelsharmant3ps,Michael Sharman
+Mar 16,home,Johnson County,L,16-15,16,15,1,win,20240316_02oh,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Georgia Highlands,georgiahighlandscollege,michaelsharmant3ps,Michael Sharman
+Mar 16,home,Johnson County,L,7-6,7,6,1,win,20240316_37l6,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Georgia Highlands,georgiahighlandscollege,michaelsharmant3ps,Michael Sharman
+Mar 19,home,Crowder,L,7-6,7,6,1,win,20240319_s4yq,0,0,0,0,0.1,,,,0.00,3.00,1,2024,2023-24,div1,Georgia Highlands,georgiahighlandscollege,michaelsharmant3ps,Michael Sharman
+Mar 21,home,Highland (KS),W,14-8,14,8,6,win,20240321_mz9t,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Georgia Highlands,georgiahighlandscollege,michaelsharmant3ps,Michael Sharman
+Mar 21,home,Highland (KS),W,6-4,6,4,2,win,20240321_1rwy,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Georgia Highlands,georgiahighlandscollege,michaelsharmant3ps,Michael Sharman
+Mar 23,home,Highland (KS),W,6-3,6,3,3,win,20240323_42oe,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Georgia Highlands,georgiahighlandscollege,michaelsharmant3ps,Michael Sharman
+Mar 23,home,Highland (KS),W,13-3,13,3,10,win,20240323_jszj,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Georgia Highlands,georgiahighlandscollege,michaelsharmant3ps,Michael Sharman
+Mar 28,home,Coffeyville,W,4-1,4,1,3,win,20240328_7c4l,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Georgia Highlands,georgiahighlandscollege,michaelsharmant3ps,Michael Sharman
+Mar 28,home,Coffeyville,W,7-6,7,6,1,win,20240328_o8jd,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Georgia Highlands,georgiahighlandscollege,michaelsharmant3ps,Michael Sharman
+Mar 30,home,Coffeyville,W,7-6,7,6,1,win,20240330_r4vw,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Georgia Highlands,georgiahighlandscollege,michaelsharmant3ps,Michael Sharman
+Mar 30,home,Coffeyville,W,23-4,23,4,19,win,20240330_tllk,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Georgia Highlands,georgiahighlandscollege,michaelsharmant3ps,Michael Sharman
+Apr 4,home,Allen County,W,12-8,12,8,4,win,20240404_rhsd,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Georgia Highlands,georgiahighlandscollege,michaelsharmant3ps,Michael Sharman
+Apr 4,home,Allen County,L,9-8,9,8,1,win,20240404_ubd0,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Georgia Highlands,georgiahighlandscollege,michaelsharmant3ps,Michael Sharman
+Apr 6,home,Allen County,W,9-8,9,8,1,win,20240406_5t29,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Georgia Highlands,georgiahighlandscollege,michaelsharmant3ps,Michael Sharman
+Apr 6,home,Allen County,W,11-3,11,3,8,win,20240406_yw34,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Georgia Highlands,georgiahighlandscollege,michaelsharmant3ps,Michael Sharman
+Apr 11,home,Labette,W,10-9,10,9,1,win,20240411_vul4,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Georgia Highlands,georgiahighlandscollege,michaelsharmant3ps,Michael Sharman
+Apr 11,home,Labette,W,7-6,7,6,1,win,20240411_cnyq,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Georgia Highlands,georgiahighlandscollege,michaelsharmant3ps,Michael Sharman
+Apr 13,home,Labette,W,11-10,11,10,1,win,20240413_w90w,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Georgia Highlands,georgiahighlandscollege,michaelsharmant3ps,Michael Sharman
+Apr 13,home,Labette,L,17-14,17,14,3,win,20240413_jknp,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Georgia Highlands,georgiahighlandscollege,michaelsharmant3ps,Michael Sharman
+Apr 16,home,Crowder,L,27-15,27,15,12,win,20240416_jiqy,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Georgia Highlands,georgiahighlandscollege,michaelsharmant3ps,Michael Sharman
+Apr 18,home,Cowley,L,3-2,3,2,1,win,20240418_axpc,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Georgia Highlands,georgiahighlandscollege,michaelsharmant3ps,Michael Sharman
+Apr 18,home,Cowley,L,2-1,2,1,1,win,20240418_7gmj,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Georgia Highlands,georgiahighlandscollege,michaelsharmant3ps,Michael Sharman
+Apr 20,home,Cowley,L,10-2,10,2,8,win,20240420_vjlw,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Georgia Highlands,georgiahighlandscollege,michaelsharmant3ps,Michael Sharman
+Apr 20,home,Cowley,L,12-3,12,3,9,win,20240420_yva4,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Georgia Highlands,georgiahighlandscollege,michaelsharmant3ps,Michael Sharman
+Apr 24,home,Kansas City Kansas,L,8-7,8,7,1,win,20240424_ywhs,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Georgia Highlands,georgiahighlandscollege,michaelsharmant3ps,Michael Sharman
+Apr 24,home,Kansas City Kansas,W,6-5,6,5,1,win,20240424_jo1f,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Georgia Highlands,georgiahighlandscollege,michaelsharmant3ps,Michael Sharman
+Apr 27,home,Kansas City Kansas,L,3-2,3,2,1,win,20240427_90sc,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Georgia Highlands,georgiahighlandscollege,michaelsharmant3ps,Michael Sharman
+Apr 27,home,Kansas City Kansas,L,7-6,7,6,1,win,20240427_jxh1,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Georgia Highlands,georgiahighlandscollege,michaelsharmant3ps,Michael Sharman
+May 1,home,Neosho County,W,5-4,5,4,1,win,20240501_trra,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Georgia Highlands,georgiahighlandscollege,michaelsharmant3ps,Michael Sharman
+May 1,home,Neosho County,W,8-2,8,2,6,win,20240501_wdqf,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Georgia Highlands,georgiahighlandscollege,michaelsharmant3ps,Michael Sharman
+May 3,home,Neosho County,W,2-0,2,0,2,win,20240503_fnkl,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Georgia Highlands,georgiahighlandscollege,michaelsharmant3ps,Michael Sharman
+May 3,home,Neosho County,L,9-5,9,5,4,win,20240503_m3x4,0,0,0,0,1.0,,,,0.00,,,2024,2023-24,div1,Georgia Highlands,georgiahighlandscollege,michaelsharmant3ps,Michael Sharman

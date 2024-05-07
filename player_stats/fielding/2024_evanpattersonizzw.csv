@@ -1,14 +1,30 @@
 date,location,opponent,result,score,team_score,opp_score,game_score_diff,game_win_loss,game_id,TC,PO,A,E,FPCT,DP,SBA,RCS,RCS_PCT,PB,CI,season,njcaa_season,njcaa_division,team,team_id,player_id,player_name
-Feb 14,home,Dodge City,W,11-7,11,7,4,win,20240214_7bcg,0,1,0,0,2.2,,,,0.00,.75,2,2024,2023-24,div1,Northeastern Oklahoma A&M,northeasternoklahomaamcollege,evanpattersonizzw,Evan Patterson
-Feb 22,home,Oklahoma Wesleyan,W,13-8,13,8,5,win,20240222_egv0,0,0,0,0,0.1,,,,0.00,,,2024,2023-24,div1,Northeastern Oklahoma A&M,northeasternoklahomaamcollege,evanpattersonizzw,Evan Patterson
-Feb 24,home,ASU Mountain Home,W,6-4,6,4,2,win,20240224_4o02,0,1,0,0,2.2,3,2,2,6.75,1.88,2,2024,2023-24,div1,Northeastern Oklahoma A&M,northeasternoklahomaamcollege,evanpattersonizzw,Evan Patterson
-Feb 24,home,ASU Mountain Home,L,6-2,6,2,4,win,20240224_smkm,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Northeastern Oklahoma A&M,northeasternoklahomaamcollege,evanpattersonizzw,Evan Patterson
-Feb 29,home,Connors State,L,10-2,10,2,8,win,20240229_w98m,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Northeastern Oklahoma A&M,northeasternoklahomaamcollege,evanpattersonizzw,Evan Patterson
-Mar 2,home,Connors State,L,14-4,14,4,10,win,20240302_49s9,0,0,0,0,0.0,4,2,2,INF,,,2024,2023-24,div1,Northeastern Oklahoma A&M,northeasternoklahomaamcollege,evanpattersonizzw,Evan Patterson
-Mar 26,home,Northern Oklahoma Enid,W,15-11,15,11,4,win,20240326_m1pc,0,0,0,0,1.0,2,1,1,9.00,2.00,,2024,2023-24,div1,Northeastern Oklahoma A&M,northeasternoklahomaamcollege,evanpattersonizzw,Evan Patterson
-Mar 28,home,Eastern Oklahoma State,W,8-7,8,7,1,win,20240328_n4o4,0,0,0,0,1.0,2,,,0.00,2.00,,2024,2023-24,div1,Northeastern Oklahoma A&M,northeasternoklahomaamcollege,evanpattersonizzw,Evan Patterson
-Apr 3,home,Connors State,L,12-2,12,2,10,win,20240403_3mzm,0,0,0,0,0.0,,2,2,INF,,1,2024,2023-24,div1,Northeastern Oklahoma A&M,northeasternoklahomaamcollege,evanpattersonizzw,Evan Patterson
-Apr 9,home,Crowder,L,11-1,11,1,10,win,20240409_x2bv,0,0,0,0,0.2,,,,0.00,,,2024,2023-24,div1,Northeastern Oklahoma A&M,northeasternoklahomaamcollege,evanpattersonizzw,Evan Patterson
-Apr 12,home,Seminole State (OK),L,8-6,8,6,2,win,20240412_h7dl,0,0,0,0,0.2,3,3,3,40.50,4.50,,2024,2023-24,div1,Northeastern Oklahoma A&M,northeasternoklahomaamcollege,evanpattersonizzw,Evan Patterson
-Apr 15,home,Hendrix College,W,12-9,12,9,3,win,20240415_t6cs,0,0,0,0,0.2,3,3,3,40.50,6.00,1,2024,2023-24,div1,Northeastern Oklahoma A&M,northeasternoklahomaamcollege,evanpattersonizzw,Evan Patterson
-Apr 26,home,Rose State,L,15-12,15,12,3,win,20240426_v8t6,0,0,0,0,0.1,1,,,0.00,6.00,1,2024,2023-24,div1,Northeastern Oklahoma A&M,northeasternoklahomaamcollege,evanpattersonizzw,Evan Patterson
+Feb 1,home,Pratt,W,13-3,13,3,10,win,20240201_8eno,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Northeastern Oklahoma A&M,northeasternoklahomaamcollege,evanpattersonizzw,Evan Patterson
+Feb 1,home,Pratt,L,10-4,10,4,6,win,20240201_vcfr,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Northeastern Oklahoma A&M,northeasternoklahomaamcollege,evanpattersonizzw,Evan Patterson
+Feb 15,home,Baker University,W,9-0,9,0,9,win,20240215_9b6s,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Northeastern Oklahoma A&M,northeasternoklahomaamcollege,evanpattersonizzw,Evan Patterson
+Feb 15,home,Baker University,W,10-0,10,0,10,win,20240215_yzrc,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Northeastern Oklahoma A&M,northeasternoklahomaamcollege,evanpattersonizzw,Evan Patterson
+Feb 18,home,Baker University,W,13-2,13,2,11,win,20240218_978z,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Northeastern Oklahoma A&M,northeasternoklahomaamcollege,evanpattersonizzw,Evan Patterson
+Feb 18,home,Baker University,W,6-2,6,2,4,win,20240218_hz81,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Northeastern Oklahoma A&M,northeasternoklahomaamcollege,evanpattersonizzw,Evan Patterson
+Feb 20,home,Ottawa University,W,10-0,10,0,10,win,20240220_uved,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Northeastern Oklahoma A&M,northeasternoklahomaamcollege,evanpattersonizzw,Evan Patterson
+Feb 24,home,Ellsworth,L,9-7,9,7,2,win,20240224_5fse,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Northeastern Oklahoma A&M,northeasternoklahomaamcollege,evanpattersonizzw,Evan Patterson
+Feb 24,home,Ellsworth,W,8-7,8,7,1,win,20240224_9mzj,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Northeastern Oklahoma A&M,northeasternoklahomaamcollege,evanpattersonizzw,Evan Patterson
+Feb 25,home,Ellsworth,W,6-2,6,2,4,win,20240225_5o14,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Northeastern Oklahoma A&M,northeasternoklahomaamcollege,evanpattersonizzw,Evan Patterson
+Mar 6,home,Labette,W,4-3,4,3,1,win,20240306_p3q9,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Northeastern Oklahoma A&M,northeasternoklahomaamcollege,evanpattersonizzw,Evan Patterson
+Mar 6,home,Labette,L,5-1,5,1,4,win,20240306_1ofp,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Northeastern Oklahoma A&M,northeasternoklahomaamcollege,evanpattersonizzw,Evan Patterson
+Mar 10,home,Labette,W,19-0,19,0,19,win,20240310_y22g,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Northeastern Oklahoma A&M,northeasternoklahomaamcollege,evanpattersonizzw,Evan Patterson
+Mar 10,home,Labette,W,14-8,14,8,6,win,20240310_g3s3,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Northeastern Oklahoma A&M,northeasternoklahomaamcollege,evanpattersonizzw,Evan Patterson
+Mar 14,home,Cowley,L,7-5,7,5,2,win,20240314_dbad,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Northeastern Oklahoma A&M,northeasternoklahomaamcollege,evanpattersonizzw,Evan Patterson
+Mar 14,home,Cowley,L,10-0,10,0,10,win,20240314_gu9p,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Northeastern Oklahoma A&M,northeasternoklahomaamcollege,evanpattersonizzw,Evan Patterson
+Mar 16,home,Cowley,L,14-3,14,3,11,win,20240316_8tpv,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Northeastern Oklahoma A&M,northeasternoklahomaamcollege,evanpattersonizzw,Evan Patterson
+Mar 16,home,Cowley,L,7-4,7,4,3,win,20240316_4s9t,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Northeastern Oklahoma A&M,northeasternoklahomaamcollege,evanpattersonizzw,Evan Patterson
+Mar 17,home,Northern Oklahoma Enid,W,7-6,7,6,1,win,20240317_ja90,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Northeastern Oklahoma A&M,northeasternoklahomaamcollege,evanpattersonizzw,Evan Patterson
+Mar 21,home,Kansas City Kansas,L,14-1,14,1,13,win,20240321_0t2v,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Northeastern Oklahoma A&M,northeasternoklahomaamcollege,evanpattersonizzw,Evan Patterson
+Mar 21,home,Kansas City Kansas,L,11-3,11,3,8,win,20240321_834n,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Northeastern Oklahoma A&M,northeasternoklahomaamcollege,evanpattersonizzw,Evan Patterson
+Mar 23,home,Kansas City Kansas,L,5-4,5,4,1,win,20240323_p3nn,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Northeastern Oklahoma A&M,northeasternoklahomaamcollege,evanpattersonizzw,Evan Patterson
+Mar 23,home,Kansas City Kansas,L,8-7,8,7,1,win,20240323_uoss,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Northeastern Oklahoma A&M,northeasternoklahomaamcollege,evanpattersonizzw,Evan Patterson
+Mar 28,home,Neosho County,L,13-3,13,3,10,win,20240328_qb3o,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Northeastern Oklahoma A&M,northeasternoklahomaamcollege,evanpattersonizzw,Evan Patterson
+Mar 28,home,Neosho County,L,6-4,6,4,2,win,20240328_tf46,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Northeastern Oklahoma A&M,northeasternoklahomaamcollege,evanpattersonizzw,Evan Patterson
+Mar 30,home,Neosho County,W,5-0,5,0,5,win,20240330_f6j9,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Northeastern Oklahoma A&M,northeasternoklahomaamcollege,evanpattersonizzw,Evan Patterson
+Mar 30,home,Neosho County,L,6-3,6,3,3,win,20240330_toml,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Northeastern Oklahoma A&M,northeasternoklahomaamcollege,evanpattersonizzw,Evan Patterson
+Apr 20,home,Highland (KS),L,15-9,15,9,6,win,20240420_0lb3,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Northeastern Oklahoma A&M,northeasternoklahomaamcollege,evanpattersonizzw,Evan Patterson
+May 4,home,Hutchinson,L,11-3,11,3,8,win,20240504_zgrb,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Northeastern Oklahoma A&M,northeasternoklahomaamcollege,evanpattersonizzw,Evan Patterson

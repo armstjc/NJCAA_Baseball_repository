@@ -1,38 +1,33 @@
 date,location,opponent,result,score,team_score,opp_score,game_score_diff,game_win_loss,game_id,GS,W,L,SV,IP,H,R,ER,ERA,BB,K,HR,season,njcaa_season,njcaa_division,team,team_id,player_id,player_name
-Apr 27,home,Tyler,W,5-3,5,3,2,win,20240427_babe,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div1,Panola,panolacollege,lukepaxtonuytu,Luke Paxton
-Apr 24,home,Tyler,W,10-9,10,9,1,win,20240424_tprn,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div1,Panola,panolacollege,lukepaxtonuytu,Luke Paxton
-Apr 20,home,LSU Eunice,W,4-3,4,3,1,win,20240420_ydrz,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div1,Panola,panolacollege,lukepaxtonuytu,Luke Paxton
-Apr 20,home,LSU Eunice,L,3-2,3,2,1,win,20240420_ybp7,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div1,Panola,panolacollege,lukepaxtonuytu,Luke Paxton
-Apr 19,home,LSU Eunice,W,6-3,6,3,3,win,20240419_u6rj,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div1,Panola,panolacollege,lukepaxtonuytu,Luke Paxton
-Apr 15,home,LSU Eunice,L,7-4,7,4,3,win,20240415_5gm6,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div1,Panola,panolacollege,lukepaxtonuytu,Luke Paxton
-Apr 13,home,Navarro,W,2-1,2,1,1,win,20240413_vg8r,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div1,Panola,panolacollege,lukepaxtonuytu,Luke Paxton
-Apr 13,home,Navarro,W,4-2,4,2,2,win,20240413_pwfk,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div1,Panola,panolacollege,lukepaxtonuytu,Luke Paxton
-Apr 10,home,Navarro,L,10-4,10,4,6,win,20240410_zxsd,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div1,Panola,panolacollege,lukepaxtonuytu,Luke Paxton
-Apr 6,home,Angelina,L,6-4,6,4,2,win,20240406_0bnp,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div1,Panola,panolacollege,lukepaxtonuytu,Luke Paxton
-Apr 6,home,Angelina,L,6-2,6,2,4,win,20240406_zxas,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div1,Panola,panolacollege,lukepaxtonuytu,Luke Paxton
-Apr 3,home,Angelina,W,9-5,9,5,4,win,20240403_ldmx,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div1,Panola,panolacollege,lukepaxtonuytu,Luke Paxton
-Mar 29,home,Bossier Parish,W,7-5,7,5,2,win,20240329_uss9,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div1,Panola,panolacollege,lukepaxtonuytu,Luke Paxton
-Mar 29,home,Bossier Parish,W,5-4,5,4,1,win,20240329_aqp7,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div1,Panola,panolacollege,lukepaxtonuytu,Luke Paxton
-Mar 26,home,Bossier Parish,L,6-1,6,1,5,win,20240326_w5il,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div1,Panola,panolacollege,lukepaxtonuytu,Luke Paxton
-Mar 23,home,Northeast Texas,W,2-1,2,1,1,win,20240323_jvl2,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div1,Panola,panolacollege,lukepaxtonuytu,Luke Paxton
-Mar 23,home,Northeast Texas,W,10-6,10,6,4,win,20240323_k96a,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div1,Panola,panolacollege,lukepaxtonuytu,Luke Paxton
-Mar 20,home,Northeast Texas,L,11-3,11,3,8,win,20240320_fiox,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div1,Panola,panolacollege,lukepaxtonuytu,Luke Paxton
-Mar 16,home,Paris,L,6-3,6,3,3,win,20240316_dx3y,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div1,Panola,panolacollege,lukepaxtonuytu,Luke Paxton
-Mar 13,home,Tyler,L,11-3,11,3,8,win,20240313_qp88,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div1,Panola,panolacollege,lukepaxtonuytu,Luke Paxton
-Mar 13,home,Tyler,W,9-0,9,0,9,win,20240313_9awn,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div1,Panola,panolacollege,lukepaxtonuytu,Luke Paxton
-Mar 9,home,Joliet,W,14-4,14,4,10,win,20240309_j1lk,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div1,Panola,panolacollege,lukepaxtonuytu,Luke Paxton
-Mar 6,home,Navarro,L,5-3,5,3,2,win,20240306_gmqn,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div1,Panola,panolacollege,lukepaxtonuytu,Luke Paxton
-Mar 6,home,Navarro,L,5-0,5,0,5,win,20240306_oj4n,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div1,Panola,panolacollege,lukepaxtonuytu,Luke Paxton
-Mar 2,home,Angelina,L,17-7,17,7,10,win,20240302_ayf1,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div1,Panola,panolacollege,lukepaxtonuytu,Luke Paxton
-Mar 2,home,Angelina,L,7-5,7,5,2,win,20240302_shu7,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div1,Panola,panolacollege,lukepaxtonuytu,Luke Paxton
-Feb 28,home,Bossier Parish,L,4-3,4,3,1,win,20240228_paan,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div1,Panola,panolacollege,lukepaxtonuytu,Luke Paxton
-Feb 28,home,Bossier Parish,W,6-4,6,4,2,win,20240228_4i2d,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div1,Panola,panolacollege,lukepaxtonuytu,Luke Paxton
-Feb 24,home,Northeast Texas,L,9-8,9,8,1,win,20240224_fcyg,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div1,Panola,panolacollege,lukepaxtonuytu,Luke Paxton
-Feb 24,home,Northeast Texas,L,2-1,2,1,1,win,20240224_vr0n,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div1,Panola,panolacollege,lukepaxtonuytu,Luke Paxton
-Feb 20,home,LSU Eunice,L,7-3,7,3,4,win,20240220_rge1,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div1,Panola,panolacollege,lukepaxtonuytu,Luke Paxton
-Feb 13,home,South Arkansas,W,10-6,10,6,4,win,20240213_6vxv,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div1,Panola,panolacollege,lukepaxtonuytu,Luke Paxton
-Feb 2,home,Northeastern Oklahoma A&M,L,8-3,8,3,5,win,20240202_7sb1,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div1,Panola,panolacollege,lukepaxtonuytu,Luke Paxton
-Feb 2,home,Northeastern Oklahoma A&M,W,4-0,4,0,4,win,20240202_9v41,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div1,Panola,panolacollege,lukepaxtonuytu,Luke Paxton
-Feb 1,home,Northeastern Oklahoma A&M,W,5-3,5,3,2,win,20240201_ycny,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div1,Panola,panolacollege,lukepaxtonuytu,Luke Paxton
-Jan 28,home,Carl Albert State,W,11-10,11,10,1,win,20240128_ve5j,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div1,Panola,panolacollege,lukepaxtonuytu,Luke Paxton
-Jan 27,home,Carl Albert State,W,12-6,12,6,6,win,20240127_0x6w,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div1,Panola,panolacollege,lukepaxtonuytu,Luke Paxton
+May 3,home,Cloud County,W,11-5,11,5,6,win,20240503_xmi5,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div1,Panola,panolacollege,lukepaxtonuytu,Luke Paxton
+Apr 28,home,Dodge City,W,17-2,17,2,15,win,20240428_yeo5,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div1,Panola,panolacollege,lukepaxtonuytu,Luke Paxton
+Apr 28,home,Dodge City,L,6-5,6,5,1,win,20240428_9n76,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div1,Panola,panolacollege,lukepaxtonuytu,Luke Paxton
+Apr 26,home,Dodge City,L,12-9,12,9,3,win,20240426_xau2,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div1,Panola,panolacollege,lukepaxtonuytu,Luke Paxton
+Apr 26,home,Dodge City,L,6-2,6,2,4,win,20240426_gb6l,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div1,Panola,panolacollege,lukepaxtonuytu,Luke Paxton
+Apr 21,home,Seward County,L,15-14,15,14,1,win,20240421_p2up,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div1,Panola,panolacollege,lukepaxtonuytu,Luke Paxton
+Apr 19,home,Seward County,L,15-5,15,5,10,win,20240419_2q1s,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div1,Panola,panolacollege,lukepaxtonuytu,Luke Paxton
+Apr 19,home,Seward County,W,2-0,2,0,2,win,20240419_q5qk,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div1,Panola,panolacollege,lukepaxtonuytu,Luke Paxton
+Apr 16,home,Coffeyville,L,20-10,20,10,10,win,20240416_onlw,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div1,Panola,panolacollege,lukepaxtonuytu,Luke Paxton
+Apr 13,home,Pratt,W,16-7,16,7,9,win,20240413_iyn6,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div1,Panola,panolacollege,lukepaxtonuytu,Luke Paxton
+Apr 13,home,Pratt,W,18-8,18,8,10,win,20240413_28lf,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div1,Panola,panolacollege,lukepaxtonuytu,Luke Paxton
+Apr 11,home,Pratt,W,13-6,13,6,7,win,20240411_wmdn,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div1,Panola,panolacollege,lukepaxtonuytu,Luke Paxton
+Apr 6,home,Colby,W,15-7,15,7,8,win,20240406_tsjd,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div1,Panola,panolacollege,lukepaxtonuytu,Luke Paxton
+Apr 6,home,Colby,L,6-3,6,3,3,win,20240406_7gby,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div1,Panola,panolacollege,lukepaxtonuytu,Luke Paxton
+Apr 4,home,Colby,W,12-2,12,2,10,win,20240404_zknc,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div1,Panola,panolacollege,lukepaxtonuytu,Luke Paxton
+Apr 4,home,Colby,W,14-4,14,4,10,win,20240404_zwat,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div1,Panola,panolacollege,lukepaxtonuytu,Luke Paxton
+Apr 2,home,Rose State,W,13-3,13,3,10,win,20240402_d7bq,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div1,Panola,panolacollege,lukepaxtonuytu,Luke Paxton
+Mar 30,home,Cowley,W,9-8,9,8,1,win,20240330_mb6t,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div1,Panola,panolacollege,lukepaxtonuytu,Luke Paxton
+Mar 30,home,Cowley,L,9-4,9,4,5,win,20240330_6cum,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div1,Panola,panolacollege,lukepaxtonuytu,Luke Paxton
+Mar 28,home,Cowley,L,18-2,18,2,16,win,20240328_a8hg,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div1,Panola,panolacollege,lukepaxtonuytu,Luke Paxton
+Mar 28,home,Cowley,L,7-0,7,0,7,win,20240328_k22m,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div1,Panola,panolacollege,lukepaxtonuytu,Luke Paxton
+Mar 23,home,Garden City,W,4-0,4,0,4,win,20240323_045t,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div1,Panola,panolacollege,lukepaxtonuytu,Luke Paxton
+Mar 23,home,Garden City,W,11-1,11,1,10,win,20240323_gfdv,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div1,Panola,panolacollege,lukepaxtonuytu,Luke Paxton
+Mar 21,home,Garden City,W,20-6,20,6,14,win,20240321_8n8d,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div1,Panola,panolacollege,lukepaxtonuytu,Luke Paxton
+Mar 21,home,Garden City,W,12-8,12,8,4,win,20240321_u2vq,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div1,Panola,panolacollege,lukepaxtonuytu,Luke Paxton
+Mar 16,home,Hutchinson,L,14-0,14,0,14,win,20240316_hz45,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div1,Panola,panolacollege,lukepaxtonuytu,Luke Paxton
+Mar 16,home,Hutchinson,W,5-4,5,4,1,win,20240316_9g53,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div1,Panola,panolacollege,lukepaxtonuytu,Luke Paxton
+Mar 14,home,Hutchinson,W,6-5,6,5,1,win,20240314_dvn4,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div1,Panola,panolacollege,lukepaxtonuytu,Luke Paxton
+Mar 14,home,Hutchinson,W,5-1,5,1,4,win,20240314_a5g6,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div1,Panola,panolacollege,lukepaxtonuytu,Luke Paxton
+Mar 12,home,Coffeyville,L,14-11,14,11,3,win,20240312_s5sw,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div1,Panola,panolacollege,lukepaxtonuytu,Luke Paxton
+Mar 10,home,Barton,L,15-5,15,5,10,win,20240310_twf1,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div1,Panola,panolacollege,lukepaxtonuytu,Luke Paxton
+Mar 2,home,Des Moines Area,W,6-5,6,5,1,win,20240302_v0a1,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div1,Panola,panolacollege,lukepaxtonuytu,Luke Paxton

@@ -1,19 +1,18 @@
 date,location,opponent,result,score,team_score,opp_score,game_score_diff,game_win_loss,game_id,TC,PO,A,E,FPCT,DP,SBA,RCS,RCS_PCT,PB,CI,season,njcaa_season,njcaa_division,team,team_id,player_id,player_name
-Jan 27,home,Florida SouthWestern State,W,4-0,4,0,4,win,20240127_08jn,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Santa Fe,santafecollege,nickdavidsoncx0u,Nick Davidson
+Jan 27,home,St. Petersburg,W,8-4,8,4,4,win,20240127_o0k8,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Santa Fe,santafecollege,nickdavidsoncx0u,Nick Davidson
+Jan 31,home,TNXL Academy,W,9-8,9,8,1,win,20240131_oorh,0,1,0,0,1.0,,,,0.00,,,2024,2023-24,div1,Santa Fe,santafecollege,nickdavidsoncx0u,Nick Davidson
+Feb 2,home,South Georgia State,L,13-5,13,5,8,win,20240202_i8uc,0,0,0,0,2.0,5,4,3,13.50,3.50,2,2024,2023-24,div1,Santa Fe,santafecollege,nickdavidsoncx0u,Nick Davidson
 Feb 2,home,South Georgia State,L,14-7,14,7,7,win,20240202_01ea,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Santa Fe,santafecollege,nickdavidsoncx0u,Nick Davidson
 Feb 3,home,South Florida State,W,13-3,13,3,10,win,20240203_p42t,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Santa Fe,santafecollege,nickdavidsoncx0u,Nick Davidson
-Feb 7,home,Abraham Baldwin,W,6-5,6,5,1,win,20240207_cszy,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Santa Fe,santafecollege,nickdavidsoncx0u,Nick Davidson
-Feb 10,home,South Florida State,W,7-4,7,4,3,win,20240210_ghd1,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Santa Fe,santafecollege,nickdavidsoncx0u,Nick Davidson
-Feb 13,home,Tallahassee,L,20-9,20,9,11,win,20240213_u04w,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Santa Fe,santafecollege,nickdavidsoncx0u,Nick Davidson
-Feb 20,home,St. Johns River State,L,8-5,8,5,3,win,20240220_ihsr,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Santa Fe,santafecollege,nickdavidsoncx0u,Nick Davidson
-Feb 22,home,Daytona State,L,13-9,13,9,4,win,20240222_u625,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Santa Fe,santafecollege,nickdavidsoncx0u,Nick Davidson
-Feb 27,home,Abraham Baldwin,L,5-4,5,4,1,win,20240227_8fz2,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Santa Fe,santafecollege,nickdavidsoncx0u,Nick Davidson
-Mar 2,home,Indian River State,W,6-5,6,5,1,win,20240302_p44k,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Santa Fe,santafecollege,nickdavidsoncx0u,Nick Davidson
-Mar 7,home,Miami Dade,L,10-0,10,0,10,win,20240307_t2xu,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Santa Fe,santafecollege,nickdavidsoncx0u,Nick Davidson
-Mar 12,home,St. Johns River State,L,19-12,19,12,7,win,20240312_bbjc,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Santa Fe,santafecollege,nickdavidsoncx0u,Nick Davidson
-Mar 16,home,Eastern Florida State,W,16-6,16,6,10,win,20240316_20q9,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Santa Fe,santafecollege,nickdavidsoncx0u,Nick Davidson
-Mar 30,home,Seminole State (FL),W,6-3,6,3,3,win,20240330_8sjj,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Santa Fe,santafecollege,nickdavidsoncx0u,Nick Davidson
-Apr 2,home,Florida State Jacksonville,W,4-3,4,3,1,win,20240402_oczu,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Santa Fe,santafecollege,nickdavidsoncx0u,Nick Davidson
-Apr 9,home,Florida State Jacksonville,W,9-4,9,4,5,win,20240409_dmaw,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Santa Fe,santafecollege,nickdavidsoncx0u,Nick Davidson
-Apr 14,home,State College of Florida,L,11-5,11,5,6,win,20240414_1t46,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Santa Fe,santafecollege,nickdavidsoncx0u,Nick Davidson
+Feb 10,home,South Florida State,W,14-3,14,3,11,win,20240210_q0c5,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Santa Fe,santafecollege,nickdavidsoncx0u,Nick Davidson
+Feb 13,home,Tallahassee,L,20-9,20,9,11,win,20240213_u04w,0,0,1,0,0.0,,6,4,INF,,6,2024,2023-24,div1,Santa Fe,santafecollege,nickdavidsoncx0u,Nick Davidson
+Feb 20,home,St. Johns River State,L,8-5,8,5,3,win,20240220_ihsr,0,0,0,0,0.2,,,,0.00,1.50,1,2024,2023-24,div1,Santa Fe,santafecollege,nickdavidsoncx0u,Nick Davidson
+Mar 7,home,Miami Dade,L,10-0,10,0,10,win,20240307_t2xu,0,0,0,0,0.2,0,0,0,0.00,.00,0,2024,2023-24,div1,Santa Fe,santafecollege,nickdavidsoncx0u,Nick Davidson
+Mar 12,home,St. Johns River State,L,19-12,19,12,7,win,20240312_bbjc,0,0,0,0,1.2,5,4,4,21.60,3.00,,2024,2023-24,div1,Santa Fe,santafecollege,nickdavidsoncx0u,Nick Davidson
+Mar 28,home,Seminole State (FL),L,9-1,9,1,8,win,20240328_bokp,0,0,0,0,2.0,2,1,,0.00,1.00,,2024,2023-24,div1,Santa Fe,santafecollege,nickdavidsoncx0u,Nick Davidson
+Apr 2,home,Florida State Jacksonville,W,4-3,4,3,1,win,20240402_oczu,0,1,0,0,2.0,2,,,0.00,1.00,,2024,2023-24,div1,Santa Fe,santafecollege,nickdavidsoncx0u,Nick Davidson
+Apr 4,home,Florida SouthWestern State,L,16-10,16,10,6,win,20240404_hsxu,0,0,0,0,0.1,2,2,2,54.00,15.00,3,2024,2023-24,div1,Santa Fe,santafecollege,nickdavidsoncx0u,Nick Davidson
+Apr 9,home,Florida State Jacksonville,W,9-4,9,4,5,win,20240409_dmaw,0,0,0,0,1.0,1,,,0.00,2.00,1,2024,2023-24,div1,Santa Fe,santafecollege,nickdavidsoncx0u,Nick Davidson
+Apr 17,home,Lake-Sumter State,W,12-7,12,7,5,win,20240417_ypnb,0,0,0,1,2.0,1,,,0.00,1.00,1,2024,2023-24,div1,Santa Fe,santafecollege,nickdavidsoncx0u,Nick Davidson
 Apr 20,home,St. Petersburg,W,17-0,17,0,17,win,20240420_e39g,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Santa Fe,santafecollege,nickdavidsoncx0u,Nick Davidson
+May 3,home,Florida SouthWestern State,L,8-1,8,1,7,win,20240503_imi3,0,0,0,0,0.1,,2,2,54.00,,,2024,2023-24,div1,Santa Fe,santafecollege,nickdavidsoncx0u,Nick Davidson

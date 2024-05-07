@@ -1,21 +1,12 @@
 date,location,opponent,result,score,team_score,opp_score,game_score_diff,game_win_loss,game_id,TC,PO,A,E,FPCT,DP,SBA,RCS,RCS_PCT,PB,CI,season,njcaa_season,njcaa_division,team,team_id,player_id,player_name
-Mar 7,home,Kishwaukee,L,10-0,10,0,10,win,20240307_ka4e,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Kennedy-King,kennedykingcollege,boliverwehm,B Oliver
-Mar 7,home,Kishwaukee,L,10-0,10,0,10,win,20240307_xrer,0,0,1,0,3.1,6,2,2,5.40,3.00,4,2024,2023-24,div1,Kennedy-King,kennedykingcollege,boliverwehm,B Oliver
-Mar 9,home,Olive-Harvey,L,20-1,20,1,19,win,20240309_5lc1,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Kennedy-King,kennedykingcollege,boliverwehm,B Oliver
-Mar 9,home,Olive-Harvey,L,19-9,19,9,10,win,20240309_z7jd,0,0,0,0,0.1,4,4,,0.00,12.00,,2024,2023-24,div1,Kennedy-King,kennedykingcollege,boliverwehm,B Oliver
-Mar 13,home,Olive-Harvey,L,16-1,16,1,15,win,20240313_qsp0,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Kennedy-King,kennedykingcollege,boliverwehm,B Oliver
-Mar 16,home,Sauk Valley,L,16-0,16,0,16,win,20240316_ajcf,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Kennedy-King,kennedykingcollege,boliverwehm,B Oliver
-Mar 16,home,Sauk Valley,L,11-1,11,1,10,win,20240316_7uaz,0,0,1,0,0.0,,,,0.00,,,2024,2023-24,div1,Kennedy-King,kennedykingcollege,boliverwehm,B Oliver
-Mar 18,home,Oakton,L,22-1,22,1,21,win,20240318_pbhb,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Kennedy-King,kennedykingcollege,boliverwehm,B Oliver
-Mar 27,home,Morton,L,16-3,16,3,13,win,20240327_zspq,0,0,0,0,2.1,6,10,6,23.14,4.29,4,2024,2023-24,div1,Kennedy-King,kennedykingcollege,boliverwehm,B Oliver
-Apr 8,home,Olive-Harvey,L,13-1,13,1,12,win,20240408_jk5r,1,0,0,0,1.2,4,9,4,21.60,5.40,5,2024,2023-24,div1,Kennedy-King,kennedykingcollege,boliverwehm,B Oliver
-Apr 14,home,Morton,L,13-1,13,1,12,win,20240414_3z98,0,0,0,0,2.1,3,8,3,11.57,3.00,4,2024,2023-24,div1,Kennedy-King,kennedykingcollege,boliverwehm,B Oliver
-Apr 14,home,Morton,L,16-4,16,4,12,win,20240414_8626,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Kennedy-King,kennedykingcollege,boliverwehm,B Oliver
-Apr 20,home,Harper,L,12-2,12,2,10,win,20240420_9l6x,1,0,1,0,4.2,8,12,5,9.64,2.57,4,2024,2023-24,div1,Kennedy-King,kennedykingcollege,boliverwehm,B Oliver
-Apr 20,home,Harper,L,16-13,16,13,3,win,20240420_rux0,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Kennedy-King,kennedykingcollege,boliverwehm,B Oliver
-Apr 21,home,Kishwaukee,L,16-10,16,10,6,win,20240421_wc9d,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Kennedy-King,kennedykingcollege,boliverwehm,B Oliver
-Apr 21,home,Kishwaukee,L,22-7,22,7,15,win,20240421_trfn,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Kennedy-King,kennedykingcollege,boliverwehm,B Oliver
-Apr 25,home,Prairie State,L,10-0,10,0,10,win,20240425_u4pu,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Kennedy-King,kennedykingcollege,boliverwehm,B Oliver
-Apr 25,home,Prairie State,L,11-1,11,1,10,win,20240425_gd5i,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Kennedy-King,kennedykingcollege,boliverwehm,B Oliver
-Apr 27,home,Joliet,L,23-0,23,0,23,win,20240427_cslz,1,0,1,0,3.0,6,8,6,18.00,3.33,4,2024,2023-24,div1,Kennedy-King,kennedykingcollege,boliverwehm,B Oliver
-Apr 30,home,Waubonsee,L,19-3,19,3,16,win,20240430_f0c9,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Kennedy-King,kennedykingcollege,boliverwehm,B Oliver
+Feb 10,home,Southwestern,W,7-4,7,4,3,win,20240210_4761,0,0,0,0,2.0,1,,,0.00,.50,,2024,2023-24,div1,Kennedy-King,kennedykingcollege,boliverwehm,B Oliver
+Mar 1,home,Hutchinson,L,15-3,15,3,12,win,20240301_5ibo,0,0,0,0,1.1,5,4,4,27.00,4.50,1,2024,2023-24,div1,Kennedy-King,kennedykingcollege,boliverwehm,B Oliver
+Mar 9,home,Cowley,W,6-4,6,4,2,win,20240309_qb0c,0,0,0,0,0.1,1,,,0.00,3.00,,2024,2023-24,div1,Kennedy-King,kennedykingcollege,boliverwehm,B Oliver
+Mar 12,home,Butler,W,14-11,14,11,3,win,20240312_s5sw,0,0,0,0,3.0,3,1,1,3.00,1.33,1,2024,2023-24,div1,Kennedy-King,kennedykingcollege,boliverwehm,B Oliver
+Mar 14,home,Kansas City Kansas,L,3-2,3,2,1,win,20240314_a19y,0,0,0,0,0.1,,,,0.00,6.00,2,2024,2023-24,div1,Kennedy-King,kennedykingcollege,boliverwehm,B Oliver
+Mar 23,home,Neosho County,L,7-0,7,0,7,win,20240323_n2wf,0,0,0,0,0.2,,,,0.00,,,2024,2023-24,div1,Kennedy-King,kennedykingcollege,boliverwehm,B Oliver
+Mar 30,home,Fort Scott,L,23-4,23,4,19,win,20240330_tllk,0,0,0,0,3.1,7,5,5,13.50,2.40,1,2024,2023-24,div1,Kennedy-King,kennedykingcollege,boliverwehm,B Oliver
+Apr 4,home,Johnson County,L,5-3,5,3,2,win,20240404_bh0t,0,0,1,0,0.1,1,2,2,54.00,6.00,1,2024,2023-24,div1,Kennedy-King,kennedykingcollege,boliverwehm,B Oliver
+Apr 16,home,Butler,W,20-10,20,10,10,win,20240416_onlw,0,1,0,0,2.2,3,,,0.00,1.88,2,2024,2023-24,div1,Kennedy-King,kennedykingcollege,boliverwehm,B Oliver
+Apr 20,home,Barton,L,7-4,7,4,3,win,20240420_f3el,0,0,1,0,0.2,2,4,4,54.00,6.00,2,2024,2023-24,div1,Kennedy-King,kennedykingcollege,boliverwehm,B Oliver
+May 1,home,Labette,W,10-3,10,3,7,win,20240501_wi93,0,0,0,1,2.2,1,,,0.00,.38,,2024,2023-24,div1,Kennedy-King,kennedykingcollege,boliverwehm,B Oliver

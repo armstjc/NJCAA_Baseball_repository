@@ -1,12 +1,20 @@
 date,location,opponent,result,score,team_score,opp_score,game_score_diff,game_win_loss,game_id,TC,PO,A,E,FPCT,DP,SBA,RCS,RCS_PCT,PB,CI,season,njcaa_season,njcaa_division,team,team_id,player_id,player_name
-Feb 4,home,Midland,W,8-3,8,3,5,win,20240204_xr55,1,1,0,0,5.0,5,2,2,3.60,1.40,2,2024,2023-24,div1,Alvin,alvincommunitycollege,jacobwingard53j9,Jacob Wingard
-Feb 9,home,Navarro,L,11-3,11,3,8,win,20240209_qyyr,0,0,0,0,1.0,1,,,0.00,1.00,,2024,2023-24,div1,Alvin,alvincommunitycollege,jacobwingard53j9,Jacob Wingard
-Feb 13,home,Monroe College,W,13-3,13,3,10,win,20240213_j1z6,1,1,0,0,5.0,3,3,3,5.40,1.00,2,2024,2023-24,div1,Alvin,alvincommunitycollege,jacobwingard53j9,Jacob Wingard
-Feb 21,home,Angelina,L,5-3,5,3,2,win,20240221_5hp5,1,0,0,0,4.0,5,3,3,6.75,2.00,3,2024,2023-24,div1,Alvin,alvincommunitycollege,jacobwingard53j9,Jacob Wingard
-Mar 5,home,Wharton County,L,10-6,10,6,4,win,20240305_h3xr,1,0,1,0,4.2,5,7,2,3.86,2.14,5,2024,2023-24,div1,Alvin,alvincommunitycollege,jacobwingard53j9,Jacob Wingard
-Mar 14,home,San Jacinto,L,6-5,6,5,1,win,20240314_lu89,1,0,0,0,5.2,4,4,3,4.76,1.41,4,2024,2023-24,div1,Alvin,alvincommunitycollege,jacobwingard53j9,Jacob Wingard
-Mar 24,home,Coastal Bend,W,9-1,9,1,8,win,20240324_x4ap,1,1,0,0,6.0,5,1,1,1.50,.83,0,2024,2023-24,div1,Alvin,alvincommunitycollege,jacobwingard53j9,Jacob Wingard
-Mar 29,home,Blinn,L,11-3,11,3,8,win,20240329_s6bs,1,0,1,0,2.2,8,8,7,23.63,3.75,2,2024,2023-24,div1,Alvin,alvincommunitycollege,jacobwingard53j9,Jacob Wingard
-Apr 6,home,Galveston,W,7-0,7,0,7,win,20240406_bnnf,1,1,0,0,6.0,4,0,0,0.00,.83,1,2024,2023-24,div1,Alvin,alvincommunitycollege,jacobwingard53j9,Jacob Wingard
-Apr 13,home,Wharton County,L,10-0,10,0,10,win,20240413_dlm9,1,0,1,0,3.0,7,5,5,15.00,2.67,1,2024,2023-24,div1,Alvin,alvincommunitycollege,jacobwingard53j9,Jacob Wingard
-Apr 27,home,Coastal Bend,W,10-0,10,0,10,win,20240427_v89j,1,1,0,0,4.2,3,0,0,0.00,1.29,3,2024,2023-24,div1,Alvin,alvincommunitycollege,jacobwingard53j9,Jacob Wingard
+Jan 26,home,Miami Dade,W,9-0,9,0,9,win,20240126_0md2,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Alvin,alvincommunitycollege,jacobwingard53j9,Jacob Wingard
+Feb 2,home,Florida SouthWestern State,W,6-3,6,3,3,win,20240202_3g7s,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Alvin,alvincommunitycollege,jacobwingard53j9,Jacob Wingard
+Feb 3,home,Wabash Valley,W,5-1,5,1,4,win,20240203_czre,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Alvin,alvincommunitycollege,jacobwingard53j9,Jacob Wingard
+Feb 6,home,Lurleen B. Wallace,W,5-1,5,1,4,win,20240206_mkm6,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Alvin,alvincommunitycollege,jacobwingard53j9,Jacob Wingard
+Feb 9,home,Bishop State,W,11-1,11,1,10,win,20240209_wrtj,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Alvin,alvincommunitycollege,jacobwingard53j9,Jacob Wingard
+Feb 14,home,Meridian,W,12-0,12,0,12,win,20240214_vkue,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Alvin,alvincommunitycollege,jacobwingard53j9,Jacob Wingard
+Feb 15,home,Hinds,L,4-1,4,1,3,win,20240215_wxvj,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Alvin,alvincommunitycollege,jacobwingard53j9,Jacob Wingard
+Feb 23,home,Motlow State,W,10-0,10,0,10,win,20240223_wd01,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Alvin,alvincommunitycollege,jacobwingard53j9,Jacob Wingard
+Feb 24,home,San Jacinto,W,7-6,7,6,1,win,20240224_0ua5,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Alvin,alvincommunitycollege,jacobwingard53j9,Jacob Wingard
+Feb 24,home,Motlow State,W,7-1,7,1,6,win,20240224_6kmw,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Alvin,alvincommunitycollege,jacobwingard53j9,Jacob Wingard
+Mar 8,home,Chipola,L,9-8,9,8,1,win,20240308_mfyn,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Alvin,alvincommunitycollege,jacobwingard53j9,Jacob Wingard
+Mar 15,home,Tallahassee,W,9-1,9,1,8,win,20240315_9xx0,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Alvin,alvincommunitycollege,jacobwingard53j9,Jacob Wingard
+Mar 18,home,Pensacola State,L,9-3,9,3,6,win,20240318_4232,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Alvin,alvincommunitycollege,jacobwingard53j9,Jacob Wingard
+Mar 27,home,Chipola,W,9-1,9,1,8,win,20240327_fctj,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Alvin,alvincommunitycollege,jacobwingard53j9,Jacob Wingard
+Mar 30,home,Chipola,L,18-14,18,14,4,win,20240330_avtr,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Alvin,alvincommunitycollege,jacobwingard53j9,Jacob Wingard
+Apr 2,home,Gulf Coast State,W,14-5,14,5,9,win,20240402_bscx,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Alvin,alvincommunitycollege,jacobwingard53j9,Jacob Wingard
+Apr 9,home,Tallahassee,W,11-0,11,0,11,win,20240409_oacm,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Alvin,alvincommunitycollege,jacobwingard53j9,Jacob Wingard
+Apr 18,home,Pensacola State,W,10-0,10,0,10,win,20240418_j60e,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Alvin,alvincommunitycollege,jacobwingard53j9,Jacob Wingard
+Apr 20,home,Pensacola State,L,4-3,4,3,1,win,20240420_9kti,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Alvin,alvincommunitycollege,jacobwingard53j9,Jacob Wingard

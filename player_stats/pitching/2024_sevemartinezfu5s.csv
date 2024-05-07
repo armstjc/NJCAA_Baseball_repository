@@ -1,14 +1,20 @@
 date,location,opponent,result,score,team_score,opp_score,game_score_diff,game_win_loss,game_id,GS,W,L,SV,IP,H,R,ER,ERA,BB,K,HR,season,njcaa_season,njcaa_division,team,team_id,player_id,player_name
-May 3,home,Blinn,L,8-3,8,3,5,win,20240503_b0yc,0,0,0,0,0.2,3,3,3,40.50,6.00,1,,2024,2023-24,div1,Alvin,alvincommunitycollege,sevemartinezfu5s,Seve Martinez
-Apr 27,home,Coastal Bend,L,6-2,6,2,4,win,20240427_2vae,0,0,0,0,0.1,1,,,0.00,3.00,,,2024,2023-24,div1,Alvin,alvincommunitycollege,sevemartinezfu5s,Seve Martinez
-Apr 18,home,San Jacinto,L,10-3,10,3,7,win,20240418_bzln,0,0,0,0,2.2,1,0,0,0.00,1.13,2,2,2024,2023-24,div1,Alvin,alvincommunitycollege,sevemartinezfu5s,Seve Martinez
-Apr 4,home,Galveston,L,6-4,6,4,2,win,20240404_w67h,0,0,1,0,2.0,1,2,,0.00,1.50,2,1,2024,2023-24,div1,Alvin,alvincommunitycollege,sevemartinezfu5s,Seve Martinez
-Mar 27,home,Blinn,L,6-2,6,2,4,win,20240327_rqzi,0,0,0,0,0.1,2,1,1,27.00,12.00,2,,2024,2023-24,div1,Alvin,alvincommunitycollege,sevemartinezfu5s,Seve Martinez
-Mar 9,home,Wharton County,L,14-1,14,1,13,win,20240309_z47e,0,0,0,0,0.1,,,,0.00,3.00,1,,2024,2023-24,div1,Alvin,alvincommunitycollege,sevemartinezfu5s,Seve Martinez
-Mar 5,home,Wharton County,L,10-6,10,6,4,win,20240305_h3xr,0,0,0,0,1.1,1,1,1,6.75,1.50,1,,2024,2023-24,div1,Alvin,alvincommunitycollege,sevemartinezfu5s,Seve Martinez
-Feb 29,home,Galveston,L,14-2,14,2,12,win,20240229_gk3e,1,0,1,0,4.0,8,6,3,6.75,2.25,1,1,2024,2023-24,div1,Alvin,alvincommunitycollege,sevemartinezfu5s,Seve Martinez
-Feb 24,home,Hill,L,11-4,11,4,7,win,20240224_bzvk,0,0,1,0,2.2,5,4,4,13.50,2.63,2,4,2024,2023-24,div1,Alvin,alvincommunitycollege,sevemartinezfu5s,Seve Martinez
-Feb 19,home,Wabash Valley,W,12-9,12,9,3,win,20240219_vnpj,1,1,0,0,5.0,3,4,2,3.60,1.20,3,4,2024,2023-24,div1,Alvin,alvincommunitycollege,sevemartinezfu5s,Seve Martinez
-Feb 14,home,Angelina,W,11-6,11,6,5,win,20240214_1gvd,0,1,0,0,1.2,,,,0.00,,,2,2024,2023-24,div1,Alvin,alvincommunitycollege,sevemartinezfu5s,Seve Martinez
-Feb 8,home,Seminole State (OK),W,9-6,9,6,3,win,20240208_lu00,0,1,0,0,2.1,1,,,0.00,.86,1,4,2024,2023-24,div1,Alvin,alvincommunitycollege,sevemartinezfu5s,Seve Martinez
-Feb 4,home,Midland,W,8-3,8,3,5,win,20240204_xr55,0,0,0,0,3.0,4,1,1,3.00,1.33,,2,2024,2023-24,div1,Alvin,alvincommunitycollege,sevemartinezfu5s,Seve Martinez
+Apr 20,home,Pensacola State,L,4-3,4,3,1,win,20240420_9kti,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div1,Alvin,alvincommunitycollege,sevemartinezfu5s,Seve Martinez
+Apr 18,home,Pensacola State,W,10-0,10,0,10,win,20240418_j60e,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div1,Alvin,alvincommunitycollege,sevemartinezfu5s,Seve Martinez
+Apr 9,home,Tallahassee,W,11-0,11,0,11,win,20240409_oacm,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div1,Alvin,alvincommunitycollege,sevemartinezfu5s,Seve Martinez
+Apr 2,home,Gulf Coast State,W,14-5,14,5,9,win,20240402_bscx,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div1,Alvin,alvincommunitycollege,sevemartinezfu5s,Seve Martinez
+Mar 30,home,Chipola,L,18-14,18,14,4,win,20240330_avtr,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div1,Alvin,alvincommunitycollege,sevemartinezfu5s,Seve Martinez
+Mar 27,home,Chipola,W,9-1,9,1,8,win,20240327_fctj,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div1,Alvin,alvincommunitycollege,sevemartinezfu5s,Seve Martinez
+Mar 18,home,Pensacola State,L,9-3,9,3,6,win,20240318_4232,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div1,Alvin,alvincommunitycollege,sevemartinezfu5s,Seve Martinez
+Mar 15,home,Tallahassee,W,9-1,9,1,8,win,20240315_9xx0,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div1,Alvin,alvincommunitycollege,sevemartinezfu5s,Seve Martinez
+Mar 8,home,Chipola,L,9-8,9,8,1,win,20240308_mfyn,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div1,Alvin,alvincommunitycollege,sevemartinezfu5s,Seve Martinez
+Feb 24,home,Motlow State,W,7-1,7,1,6,win,20240224_6kmw,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div1,Alvin,alvincommunitycollege,sevemartinezfu5s,Seve Martinez
+Feb 24,home,San Jacinto,W,7-6,7,6,1,win,20240224_0ua5,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div1,Alvin,alvincommunitycollege,sevemartinezfu5s,Seve Martinez
+Feb 23,home,Motlow State,W,10-0,10,0,10,win,20240223_wd01,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div1,Alvin,alvincommunitycollege,sevemartinezfu5s,Seve Martinez
+Feb 15,home,Hinds,L,4-1,4,1,3,win,20240215_wxvj,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div1,Alvin,alvincommunitycollege,sevemartinezfu5s,Seve Martinez
+Feb 14,home,Meridian,W,12-0,12,0,12,win,20240214_vkue,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div1,Alvin,alvincommunitycollege,sevemartinezfu5s,Seve Martinez
+Feb 9,home,Bishop State,W,11-1,11,1,10,win,20240209_wrtj,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div1,Alvin,alvincommunitycollege,sevemartinezfu5s,Seve Martinez
+Feb 6,home,Lurleen B. Wallace,W,5-1,5,1,4,win,20240206_mkm6,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div1,Alvin,alvincommunitycollege,sevemartinezfu5s,Seve Martinez
+Feb 3,home,Wabash Valley,W,5-1,5,1,4,win,20240203_czre,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div1,Alvin,alvincommunitycollege,sevemartinezfu5s,Seve Martinez
+Feb 2,home,Florida SouthWestern State,W,6-3,6,3,3,win,20240202_3g7s,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div1,Alvin,alvincommunitycollege,sevemartinezfu5s,Seve Martinez
+Jan 26,home,Miami Dade,W,9-0,9,0,9,win,20240126_0md2,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div1,Alvin,alvincommunitycollege,sevemartinezfu5s,Seve Martinez

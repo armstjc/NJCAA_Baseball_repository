@@ -1,14 +1,8 @@
 date,location,opponent,result,score,team_score,opp_score,game_score_diff,game_win_loss,game_id,TC,PO,A,E,FPCT,DP,SBA,RCS,RCS_PCT,PB,CI,season,njcaa_season,njcaa_division,team,team_id,player_id,player_name
-Jan 31,home,Cisco,W,11-3,11,3,8,win,20240131_11c2,0,0,0,0,1.0,1,,,0.00,1.00,,2024,2023-24,div1,Western Texas,westerntexascollege,coltonclawson7bgm,Colton Clawson
-Feb 3,home,North Central Texas,W,7-5,7,5,2,win,20240203_7jdf,0,0,0,0,3.2,9,4,4,9.82,2.73,1,2024,2023-24,div1,Western Texas,westerntexascollege,coltonclawson7bgm,Colton Clawson
-Feb 17,home,Vernon,L,20-1,20,1,19,win,20240217_bikd,0,0,1,0,1.1,5,7,7,47.25,6.00,3,2024,2023-24,div1,Western Texas,westerntexascollege,coltonclawson7bgm,Colton Clawson
-Feb 28,home,Ranger,L,9-3,9,3,6,win,20240228_m6js,0,0,0,0,0.2,,1,1,13.50,3.00,2,2024,2023-24,div1,Western Texas,westerntexascollege,coltonclawson7bgm,Colton Clawson
-Mar 5,home,Midland,L,25-1,25,1,24,win,20240305_plq6,0,0,0,0,1.0,4,4,2,18.00,5.00,1,2024,2023-24,div1,Western Texas,westerntexascollege,coltonclawson7bgm,Colton Clawson
-Mar 9,home,El Paso,W,6-3,6,3,3,win,20240309_as8i,0,1,0,0,6.0,6,3,2,3.00,1.00,,2024,2023-24,div1,Western Texas,westerntexascollege,coltonclawson7bgm,Colton Clawson
-Mar 16,home,Amarillo College,W,11-6,11,6,5,win,20240316_h4ej,0,1,0,0,5.0,8,3,3,5.40,2.00,2,2024,2023-24,div1,Western Texas,westerntexascollege,coltonclawson7bgm,Colton Clawson
-Mar 23,home,Howard (TX),L,8-7,8,7,1,win,20240323_13vt,0,0,0,0,7.0,6,4,1,1.29,1.00,1,2024,2023-24,div1,Western Texas,westerntexascollege,coltonclawson7bgm,Colton Clawson
-Mar 29,home,Odessa,L,9-5,9,5,4,win,20240329_o455,0,0,1,0,5.0,10,9,9,16.20,2.20,1,2024,2023-24,div1,Western Texas,westerntexascollege,coltonclawson7bgm,Colton Clawson
-Apr 5,home,New Mexico,L,18-4,18,4,14,win,20240405_8dnu,0,0,1,0,2.2,9,12,10,33.75,4.88,4,2024,2023-24,div1,Western Texas,westerntexascollege,coltonclawson7bgm,Colton Clawson
-Apr 13,home,New Mexico Military,L,5-3,5,3,2,win,20240413_kggb,0,0,1,0,6.0,6,5,5,7.50,1.33,2,2024,2023-24,div1,Western Texas,westerntexascollege,coltonclawson7bgm,Colton Clawson
-Apr 19,home,Clarendon,L,15-0,15,0,15,win,20240419_q08s,0,0,1,0,1.2,10,11,6,32.40,7.20,2,2024,2023-24,div1,Western Texas,westerntexascollege,coltonclawson7bgm,Colton Clawson
-Apr 27,home,Frank Phillips,W,13-11,13,11,2,win,20240427_dab5,0,0,0,0,4.2,9,11,6,11.57,2.57,3,2024,2023-24,div1,Western Texas,westerntexascollege,coltonclawson7bgm,Colton Clawson
+Feb 14,home,Brewton Parker JV,W,6-1,6,1,5,win,20240214_kg84,0,1,0,0,3.0,1,,,0.00,.67,1,2024,2023-24,div1,Western Texas,westerntexascollege,coltonclawson7bgm,Colton Clawson
+Feb 19,home,Point JV,W,10-4,10,4,6,win,20240219_can1,1,1,0,0,5.0,1,4,1,1.80,1.00,4,2024,2023-24,div1,Western Texas,westerntexascollege,coltonclawson7bgm,Colton Clawson
+Feb 24,home,Wallace State,L,9-4,9,4,5,win,20240224_t5ko,0,0,0,0,0.2,1,2,2,27.00,3.00,1,2024,2023-24,div1,Western Texas,westerntexascollege,coltonclawson7bgm,Colton Clawson
+Mar 11,home,Point JV,W,12-1,12,1,11,win,20240311_8ham,0,0,0,0,2.0,,,,0.00,,,2024,2023-24,div1,Western Texas,westerntexascollege,coltonclawson7bgm,Colton Clawson
+Mar 30,home,South Georgia State,W,21-6,21,6,15,win,20240330_7w8y,0,0,0,0,1.0,1,1,1,9.00,1.00,,2024,2023-24,div1,Western Texas,westerntexascollege,coltonclawson7bgm,Colton Clawson
+Apr 6,home,Georgia Highlands,L,17-7,17,7,10,win,20240406_ijcg,0,0,0,0,1.0,2,5,3,27.00,4.00,2,2024,2023-24,div1,Western Texas,westerntexascollege,coltonclawson7bgm,Colton Clawson
+May 2,home,Abraham Baldwin,W,8-6,8,6,2,win,20240502_zu0p,0,0,0,0,0.2,,1,,0.00,,,2024,2023-24,div1,Western Texas,westerntexascollege,coltonclawson7bgm,Colton Clawson

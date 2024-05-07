@@ -1,12 +1,10 @@
 date,location,opponent,result,score,team_score,opp_score,game_score_diff,game_win_loss,game_id,TC,PO,A,E,FPCT,DP,SBA,RCS,RCS_PCT,PB,CI,season,njcaa_season,njcaa_division,team,team_id,player_id,player_name
-Feb 10,home,Southwestern,W,3-2,3,2,1,win,20240210_t571,0,0,0,0,2.0,1,,,0.00,1.50,2,2024,2023-24,div1,Coffeyville,coffeyvillecommunitycollege,dallasgoodpastureh8db,Dallas Goodpasture
-Feb 15,home,Cloud County,L,8-4,8,4,4,win,20240215_u8h1,0,0,1,0,0.1,1,2,2,54.00,6.00,1,2024,2023-24,div1,Coffeyville,coffeyvillecommunitycollege,dallasgoodpastureh8db,Dallas Goodpasture
-Mar 1,home,Hutchinson,L,15-3,15,3,12,win,20240301_5ibo,0,0,0,0,0.1,1,2,2,54.00,9.00,2,2024,2023-24,div1,Coffeyville,coffeyvillecommunitycollege,dallasgoodpastureh8db,Dallas Goodpasture
-Mar 9,home,Cowley,W,6-4,6,4,2,win,20240309_qb0c,0,0,0,0,0.1,,,,0.00,,,2024,2023-24,div1,Coffeyville,coffeyvillecommunitycollege,dallasgoodpastureh8db,Dallas Goodpasture
-Mar 12,home,Butler,W,14-11,14,11,3,win,20240312_s5sw,0,0,0,0,0.1,1,,,0.00,6.00,1,2024,2023-24,div1,Coffeyville,coffeyvillecommunitycollege,dallasgoodpastureh8db,Dallas Goodpasture
-Mar 14,home,Kansas City Kansas,L,3-2,3,2,1,win,20240314_a19y,0,0,0,0,0.2,,,,0.00,,,2024,2023-24,div1,Coffeyville,coffeyvillecommunitycollege,dallasgoodpastureh8db,Dallas Goodpasture
-Mar 16,home,Kansas City Kansas,L,14-6,14,6,8,win,20240316_065g,0,0,0,0,0.0,1,,,0.00,,,2024,2023-24,div1,Coffeyville,coffeyvillecommunitycollege,dallasgoodpastureh8db,Dallas Goodpasture
-Mar 23,home,Neosho County,L,7-0,7,0,7,win,20240323_n2wf,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Coffeyville,coffeyvillecommunitycollege,dallasgoodpastureh8db,Dallas Goodpasture
-Mar 30,home,Fort Scott,L,23-4,23,4,19,win,20240330_tllk,0,0,0,0,0.1,1,2,2,54.00,6.00,1,2024,2023-24,div1,Coffeyville,coffeyvillecommunitycollege,dallasgoodpastureh8db,Dallas Goodpasture
-Apr 6,home,Johnson County,L,26-8,26,8,18,win,20240406_fdyl,0,0,0,0,0.2,2,4,3,40.50,3.00,,2024,2023-24,div1,Coffeyville,coffeyvillecommunitycollege,dallasgoodpastureh8db,Dallas Goodpasture
-Apr 20,home,Barton,L,7-4,7,4,3,win,20240420_f3el,0,0,0,0,0.2,1,1,1,13.50,1.50,,2024,2023-24,div1,Coffeyville,coffeyvillecommunitycollege,dallasgoodpastureh8db,Dallas Goodpasture
+Feb 9,home,Southwestern,L,6-3,6,3,3,win,20240209_oo7q,1,0,1,0,3.2,6,5,5,12.27,2.45,3,2024,2023-24,div1,Coffeyville,coffeyvillecommunitycollege,dallasgoodpastureh8db,Dallas Goodpasture
+Feb 21,home,Oklahoma Wesleyan JV,W,14-0,14,0,14,win,20240221_q0ge,0,0,0,0,1.0,2,,,0.00,3.00,1,2024,2023-24,div1,Coffeyville,coffeyvillecommunitycollege,dallasgoodpastureh8db,Dallas Goodpasture
+Feb 29,home,Hutchinson,L,17-6,17,6,11,win,20240229_brkc,0,0,0,0,2.2,10,10,3,10.13,4.88,3,2024,2023-24,div1,Coffeyville,coffeyvillecommunitycollege,dallasgoodpastureh8db,Dallas Goodpasture
+Mar 7,home,Cowley,L,4-1,4,1,3,win,20240307_0fem,0,0,0,0,0.0,2,1,1,INF,,,2024,2023-24,div1,Coffeyville,coffeyvillecommunitycollege,dallasgoodpastureh8db,Dallas Goodpasture
+Mar 25,home,Central Christian JV,W,19-7,19,7,12,win,20240325_02ek,1,1,0,0,3.0,2,0,0,0.00,1.33,2,2024,2023-24,div1,Coffeyville,coffeyvillecommunitycollege,dallasgoodpastureh8db,Dallas Goodpasture
+Apr 3,home,Baker JV,W,23-2,23,2,21,win,20240403_j2os,1,1,0,0,3.0,2,1,1,3.00,1.00,1,2024,2023-24,div1,Coffeyville,coffeyvillecommunitycollege,dallasgoodpastureh8db,Dallas Goodpasture
+Apr 8,home,Oklahoma Wesleyan JV,W,10-0,10,0,10,win,20240408_dh4l,1,1,0,0,5.0,2,0,0,0.00,.40,0,2024,2023-24,div1,Coffeyville,coffeyvillecommunitycollege,dallasgoodpastureh8db,Dallas Goodpasture
+Apr 13,home,Highland (KS),W,15-11,15,11,4,win,20240413_cy4f,1,0,0,0,1.2,6,5,5,27.00,3.60,0,2024,2023-24,div1,Coffeyville,coffeyvillecommunitycollege,dallasgoodpastureh8db,Dallas Goodpasture
+Apr 20,home,Barton,L,7-4,7,4,3,win,20240420_f3el,0,0,0,0,2.0,1,1,,0.00,.50,,2024,2023-24,div1,Coffeyville,coffeyvillecommunitycollege,dallasgoodpastureh8db,Dallas Goodpasture

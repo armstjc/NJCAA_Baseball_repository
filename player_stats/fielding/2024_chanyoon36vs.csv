@@ -1,4 +1,52 @@
 date,location,opponent,result,score,team_score,opp_score,game_score_diff,game_win_loss,game_id,TC,PO,A,E,FPCT,DP,SBA,RCS,RCS_PCT,PB,CI,season,njcaa_season,njcaa_division,team,team_id,player_id,player_name
-Feb 24,home,Otero,L,17-9,17,9,8,win,20240224_3in3,0,0,0,0,2.0,2,3,3,13.50,2.50,3,2024,2023-24,div1,New Mexico Military,newmexicomilitaryinstitute,chanyoon36vs,Chan Yoon
-Apr 20,home,El Paso,L,5-4,5,4,1,win,20240420_wzxa,0,0,0,0,1.0,1,1,,0.00,1.00,,2024,2023-24,div1,New Mexico Military,newmexicomilitaryinstitute,chanyoon36vs,Chan Yoon
-Apr 27,home,Amarillo College,L,14-1,14,1,13,win,20240427_xtx7,0,0,0,0,1.0,1,1,1,9.00,3.00,2,2024,2023-24,div1,New Mexico Military,newmexicomilitaryinstitute,chanyoon36vs,Chan Yoon
+Jan 27,home,Northeastern,W,10-7,10,7,3,win,20240127_7twm,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,New Mexico Military,newmexicomilitaryinstitute,chanyoon36vs,Chan Yoon
+Jan 27,home,Garden City,W,14-10,14,10,4,win,20240127_9zks,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,New Mexico Military,newmexicomilitaryinstitute,chanyoon36vs,Chan Yoon
+Jan 28,home,New Mexico,L,12-4,12,4,8,win,20240128_r73g,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,New Mexico Military,newmexicomilitaryinstitute,chanyoon36vs,Chan Yoon
+Feb 3,home,Luna,W,9-7,9,7,2,win,20240203_geek,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,New Mexico Military,newmexicomilitaryinstitute,chanyoon36vs,Chan Yoon
+Feb 4,home,Luna,W,9-1,9,1,8,win,20240204_c7xp,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,New Mexico Military,newmexicomilitaryinstitute,chanyoon36vs,Chan Yoon
+Feb 9,home,Western Nebraska,W,4-3,4,3,1,win,20240209_lbu0,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,New Mexico Military,newmexicomilitaryinstitute,chanyoon36vs,Chan Yoon
+Feb 9,home,Western Nebraska,W,7-0,7,0,7,win,20240209_ofcc,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,New Mexico Military,newmexicomilitaryinstitute,chanyoon36vs,Chan Yoon
+Feb 10,home,Western Nebraska,L,16-5,16,5,11,win,20240210_ghef,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,New Mexico Military,newmexicomilitaryinstitute,chanyoon36vs,Chan Yoon
+Feb 10,home,Western Nebraska,W,11-10,11,10,1,win,20240210_zvcy,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,New Mexico Military,newmexicomilitaryinstitute,chanyoon36vs,Chan Yoon
+Feb 24,home,Otero,L,5-4,5,4,1,win,20240224_yx5v,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,New Mexico Military,newmexicomilitaryinstitute,chanyoon36vs,Chan Yoon
+Feb 24,home,Otero,L,17-9,17,9,8,win,20240224_3in3,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,New Mexico Military,newmexicomilitaryinstitute,chanyoon36vs,Chan Yoon
+Feb 25,home,Otero,W,7-5,7,5,2,win,20240225_m13v,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,New Mexico Military,newmexicomilitaryinstitute,chanyoon36vs,Chan Yoon
+Feb 25,home,Otero,W,9-1,9,1,8,win,20240225_k8tl,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,New Mexico Military,newmexicomilitaryinstitute,chanyoon36vs,Chan Yoon
+Mar 1,home,Weatherford,L,8-1,8,1,7,win,20240301_7ocw,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,New Mexico Military,newmexicomilitaryinstitute,chanyoon36vs,Chan Yoon
+Mar 1,home,Weatherford,L,6-2,6,2,4,win,20240301_yvfj,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,New Mexico Military,newmexicomilitaryinstitute,chanyoon36vs,Chan Yoon
+Mar 2,home,Weatherford,L,10-0,10,0,10,win,20240302_lw24,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,New Mexico Military,newmexicomilitaryinstitute,chanyoon36vs,Chan Yoon
+Mar 2,home,Weatherford,L,5-1,5,1,4,win,20240302_du1j,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,New Mexico Military,newmexicomilitaryinstitute,chanyoon36vs,Chan Yoon
+Mar 8,home,New Mexico,L,7-6,7,6,1,win,20240308_4he7,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,New Mexico Military,newmexicomilitaryinstitute,chanyoon36vs,Chan Yoon
+Mar 8,home,New Mexico,W,10-8,10,8,2,win,20240308_lsqc,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,New Mexico Military,newmexicomilitaryinstitute,chanyoon36vs,Chan Yoon
+Mar 9,home,New Mexico,W,4-3,4,3,1,win,20240309_xuc4,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,New Mexico Military,newmexicomilitaryinstitute,chanyoon36vs,Chan Yoon
+Mar 9,home,New Mexico,L,8-6,8,6,2,win,20240309_wthd,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,New Mexico Military,newmexicomilitaryinstitute,chanyoon36vs,Chan Yoon
+Mar 15,home,Odessa,W,10-5,10,5,5,win,20240315_grq9,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,New Mexico Military,newmexicomilitaryinstitute,chanyoon36vs,Chan Yoon
+Mar 15,home,Odessa,W,17-2,17,2,15,win,20240315_7j6r,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,New Mexico Military,newmexicomilitaryinstitute,chanyoon36vs,Chan Yoon
+Mar 16,home,Odessa,L,5-3,5,3,2,win,20240316_7j0o,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,New Mexico Military,newmexicomilitaryinstitute,chanyoon36vs,Chan Yoon
+Mar 16,home,Odessa,W,6-3,6,3,3,win,20240316_il28,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,New Mexico Military,newmexicomilitaryinstitute,chanyoon36vs,Chan Yoon
+Mar 22,home,Midland,L,17-3,17,3,14,win,20240322_9uco,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,New Mexico Military,newmexicomilitaryinstitute,chanyoon36vs,Chan Yoon
+Mar 22,home,Midland,L,13-7,13,7,6,win,20240322_95k7,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,New Mexico Military,newmexicomilitaryinstitute,chanyoon36vs,Chan Yoon
+Mar 23,home,Midland,W,7-3,7,3,4,win,20240323_si8r,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,New Mexico Military,newmexicomilitaryinstitute,chanyoon36vs,Chan Yoon
+Mar 23,home,Midland,L,23-10,23,10,13,win,20240323_suwl,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,New Mexico Military,newmexicomilitaryinstitute,chanyoon36vs,Chan Yoon
+Mar 28,home,Frank Phillips,W,8-2,8,2,6,win,20240328_wck0,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,New Mexico Military,newmexicomilitaryinstitute,chanyoon36vs,Chan Yoon
+Mar 28,home,Frank Phillips,W,28-20,28,20,8,win,20240328_9y6b,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,New Mexico Military,newmexicomilitaryinstitute,chanyoon36vs,Chan Yoon
+Mar 29,home,Frank Phillips,L,14-12,14,12,2,win,20240329_dh2m,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,New Mexico Military,newmexicomilitaryinstitute,chanyoon36vs,Chan Yoon
+Mar 29,home,Frank Phillips,L,14-4,14,4,10,win,20240329_2jjm,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,New Mexico Military,newmexicomilitaryinstitute,chanyoon36vs,Chan Yoon
+Apr 5,home,Clarendon,W,14-4,14,4,10,win,20240405_3253,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,New Mexico Military,newmexicomilitaryinstitute,chanyoon36vs,Chan Yoon
+Apr 5,home,Clarendon,W,20-10,20,10,10,win,20240405_8a0f,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,New Mexico Military,newmexicomilitaryinstitute,chanyoon36vs,Chan Yoon
+Apr 6,home,Clarendon,W,8-4,8,4,4,win,20240406_jw41,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,New Mexico Military,newmexicomilitaryinstitute,chanyoon36vs,Chan Yoon
+Apr 6,home,Clarendon,W,12-8,12,8,4,win,20240406_hfmd,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,New Mexico Military,newmexicomilitaryinstitute,chanyoon36vs,Chan Yoon
+Apr 12,home,Western Texas,L,9-5,9,5,4,win,20240412_apx4,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,New Mexico Military,newmexicomilitaryinstitute,chanyoon36vs,Chan Yoon
+Apr 12,home,Western Texas,L,14-2,14,2,12,win,20240412_tynj,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,New Mexico Military,newmexicomilitaryinstitute,chanyoon36vs,Chan Yoon
+Apr 13,home,Western Texas,W,5-3,5,3,2,win,20240413_kggb,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,New Mexico Military,newmexicomilitaryinstitute,chanyoon36vs,Chan Yoon
+Apr 13,home,Western Texas,L,7-6,7,6,1,win,20240413_b7wk,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,New Mexico Military,newmexicomilitaryinstitute,chanyoon36vs,Chan Yoon
+Apr 19,home,El Paso,W,9-5,9,5,4,win,20240419_p0fs,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,New Mexico Military,newmexicomilitaryinstitute,chanyoon36vs,Chan Yoon
+Apr 20,home,El Paso,L,5-4,5,4,1,win,20240420_wzxa,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,New Mexico Military,newmexicomilitaryinstitute,chanyoon36vs,Chan Yoon
+Apr 20,home,El Paso,L,12-2,12,2,10,win,20240420_ovdp,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,New Mexico Military,newmexicomilitaryinstitute,chanyoon36vs,Chan Yoon
+Apr 26,home,Amarillo College,W,11-1,11,1,10,win,20240426_zfe7,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,New Mexico Military,newmexicomilitaryinstitute,chanyoon36vs,Chan Yoon
+Apr 26,home,Amarillo College,W,10-2,10,2,8,win,20240426_i42i,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,New Mexico Military,newmexicomilitaryinstitute,chanyoon36vs,Chan Yoon
+Apr 27,home,Amarillo College,L,14-1,14,1,13,win,20240427_xtx7,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,New Mexico Military,newmexicomilitaryinstitute,chanyoon36vs,Chan Yoon
+Apr 27,home,Amarillo College,W,9-8,9,8,1,win,20240427_fenu,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,New Mexico Military,newmexicomilitaryinstitute,chanyoon36vs,Chan Yoon
+May 3,home,Howard (TX),L,6-5,6,5,1,win,20240503_in29,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,New Mexico Military,newmexicomilitaryinstitute,chanyoon36vs,Chan Yoon
+May 3,home,Howard (TX),L,8-3,8,3,5,win,20240503_gjhn,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,New Mexico Military,newmexicomilitaryinstitute,chanyoon36vs,Chan Yoon
+May 4,home,Howard (TX),L,6-5,6,5,1,win,20240504_retl,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,New Mexico Military,newmexicomilitaryinstitute,chanyoon36vs,Chan Yoon
