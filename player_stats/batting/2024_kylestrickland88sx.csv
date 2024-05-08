@@ -1,11 +1,13 @@
 date,location,opponent,result,score,team_score,opp_score,game_score_diff,game_win_loss,game_id,AB,R,H,2B,3B,HR,RBI,BB,K,SB,CS,HBP,SF,SH,TB,XBH,HDP,GO,FO,GO/FO,PA,season,njcaa_season,njcaa_division,team,team_id,player_id,player_name
-Jan 31,home,Thomas University JV,W,9-5,9,5,4,win,20240131_wmxj,3,1,2,,,,1,,1,,,,,,2,0,,,,,3,2024,2023-24,div1,South Georgia State,southgeorgiastatecollege,kylestrickland88sx,Kyle Strickland
-Feb 2,home,Santa Fe,W,14-7,14,7,7,win,20240202_01ea,3,1,1,,,,1,,,,,,,,1,0,,,,,3,2024,2023-24,div1,South Georgia State,southgeorgiastatecollege,kylestrickland88sx,Kyle Strickland
-Feb 26,home,Brewton Parker JV,W,9-5,9,5,4,win,20240226_e6lp,4,1,1,,,,1,,1,1,,,,,1,0,,,,,4,2024,2023-24,div1,South Georgia State,southgeorgiastatecollege,kylestrickland88sx,Kyle Strickland
-Feb 27,home,Thomas University JV,W,6-3,6,3,3,win,20240227_f7vc,2,0,0,,,,0,1,1,,,,,,0,0,,,,,3,2024,2023-24,div1,South Georgia State,southgeorgiastatecollege,kylestrickland88sx,Kyle Strickland
-Feb 29,home,Southern Union State,W,7-1,7,1,6,win,20240229_3fuv,1,1,0,,,,0,1,1,,,1,,,0,0,,,,,3,2024,2023-24,div1,South Georgia State,southgeorgiastatecollege,kylestrickland88sx,Kyle Strickland
-Mar 5,home,USC Salkehatchie,W,8-2,8,2,6,win,20240305_kvcs,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0,,,1,2024,2023-24,div1,South Georgia State,southgeorgiastatecollege,kylestrickland88sx,Kyle Strickland
-Mar 13,home,Ed Waters JV,W,9-3,9,3,6,win,20240313_68r5,2,1,1,0,0,0,1,1,0,0,0,0,0,0,1,0,,0,,,3,2024,2023-24,div1,South Georgia State,southgeorgiastatecollege,kylestrickland88sx,Kyle Strickland
-Mar 14,home,USC Salkehatchie,W,9-3,9,3,6,win,20240314_sowp,3,1,1,0,0,0,0,0,1,0,0,1,0,0,1,0,,0,,,4,2024,2023-24,div1,South Georgia State,southgeorgiastatecollege,kylestrickland88sx,Kyle Strickland
-Apr 20,home,East Georgia State,W,5-3,5,3,2,win,20240420_d03g,0,2,0,,,,0,1,,,,,,,0,0,,,,,1,2024,2023-24,div1,South Georgia State,southgeorgiastatecollege,kylestrickland88sx,Kyle Strickland
-Apr 20,home,East Georgia State,W,14-4,14,4,10,win,20240420_diof,0,0,0,,,,0,,,,,,,,0,0,,,,,0,2024,2023-24,div1,South Georgia State,southgeorgiastatecollege,kylestrickland88sx,Kyle Strickland
+Jan 31,home,Thomas University JV,W,9-5,9,5,4,win,20240131_wmxj,3,1,0,,,,0,1,2,,,,,,0,0,,,,,4,2024,2023-24,div1,South Georgia State,southgeorgiastatecollege,kylestrickland88sx,Kyle Strickland
+Feb 2,home,Santa Fe,W,13-5,13,5,8,win,20240202_i8uc,2,1,1,,,,0,,1,,,,,,1,0,,,,,2,2024,2023-24,div1,South Georgia State,southgeorgiastatecollege,kylestrickland88sx,Kyle Strickland
+Feb 2,home,Santa Fe,W,14-7,14,7,7,win,20240202_01ea,0,0,0,,,,0,1,,,,,,,0,0,,,,,1,2024,2023-24,div1,South Georgia State,southgeorgiastatecollege,kylestrickland88sx,Kyle Strickland
+Feb 14,home,Florida State Jacksonville,W,7-5,7,5,2,win,20240214_yxur,2,1,1,1,,,1,,1,,,,,,2,1,,,,,2,2024,2023-24,div1,South Georgia State,southgeorgiastatecollege,kylestrickland88sx,Kyle Strickland
+Feb 20,home,Florida State Jacksonville,W,9-2,9,2,7,win,20240220_k0pm,3,1,1,,,,0,,2,,,,,,1,0,,,,,3,2024,2023-24,div1,South Georgia State,southgeorgiastatecollege,kylestrickland88sx,Kyle Strickland
+Feb 26,home,Brewton Parker JV,W,9-5,9,5,4,win,20240226_e6lp,4,1,0,,,,0,,1,,,,,,0,0,,,,,4,2024,2023-24,div1,South Georgia State,southgeorgiastatecollege,kylestrickland88sx,Kyle Strickland
+Feb 27,home,Thomas University JV,W,6-3,6,3,3,win,20240227_f7vc,3,1,1,,,,1,,1,,,,,,1,0,,,,,3,2024,2023-24,div1,South Georgia State,southgeorgiastatecollege,kylestrickland88sx,Kyle Strickland
+Mar 5,home,USC Salkehatchie,W,8-2,8,2,6,win,20240305_kvcs,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,0,,,1,2024,2023-24,div1,South Georgia State,southgeorgiastatecollege,kylestrickland88sx,Kyle Strickland
+Mar 13,home,Ed Waters JV,W,9-3,9,3,6,win,20240313_68r5,3,1,2,0,0,1,2,0,1,0,0,0,0,0,5,1,,0,,,3,2024,2023-24,div1,South Georgia State,southgeorgiastatecollege,kylestrickland88sx,Kyle Strickland
+Mar 14,home,USC Salkehatchie,W,9-3,9,3,6,win,20240314_sowp,3,1,2,0,0,1,1,0,1,0,0,0,0,0,5,1,,0,,,3,2024,2023-24,div1,South Georgia State,southgeorgiastatecollege,kylestrickland88sx,Kyle Strickland
+Apr 18,home,East Georgia State,W,7-6,7,6,1,win,20240418_k3kl,1,0,0,,,,0,,,1,,,,,0,0,,,,,1,2024,2023-24,div1,South Georgia State,southgeorgiastatecollege,kylestrickland88sx,Kyle Strickland
+Apr 27,home,Abraham Baldwin,W,4-3,4,3,1,win,20240427_2c1h,1,0,0,,,,0,,1,,,,,,0,0,,,,,1,2024,2023-24,div1,South Georgia State,southgeorgiastatecollege,kylestrickland88sx,Kyle Strickland

@@ -1,18 +1,41 @@
 date,location,opponent,result,score,team_score,opp_score,game_score_diff,game_win_loss,game_id,GS,W,L,SV,IP,H,R,ER,ERA,BB,K,HR,season,njcaa_season,njcaa_division,team,team_id,player_id,player_name
-Apr 26,home,Paradise Valley,W,4-3,4,3,1,win,20240426_39g6,0,0,0,0,0.2,1,1,1,13.50,4.50,2,,2024,2023-24,div2,Phoenix,phoenixcollege,brodytewershgov,Brody Tewers
-Apr 24,home,Scottsdale,L,19-8,19,8,11,win,20240424_f5bv,0,0,0,0,1.0,1,1,,0.00,1.00,,,2024,2023-24,div2,Phoenix,phoenixcollege,brodytewershgov,Brody Tewers
-Apr 20,home,GateWay (AZ),L,8-1,8,1,7,win,20240420_12me,0,0,0,0,1.0,1,1,1,9.00,2.00,1,2,2024,2023-24,div2,Phoenix,phoenixcollege,brodytewershgov,Brody Tewers
-Apr 12,home,South Mountain,L,19-7,19,7,12,win,20240412_ecov,1,0,1,0,2.0,7,5,5,22.50,4.00,1,0,2024,2023-24,div2,Phoenix,phoenixcollege,brodytewershgov,Brody Tewers
-Mar 30,home,Eastern Arizona,L,15-1,15,1,14,win,20240330_ke4v,0,0,0,0,0.2,4,3,3,40.50,7.50,1,2,2024,2023-24,div2,Phoenix,phoenixcollege,brodytewershgov,Brody Tewers
-Mar 26,home,Cochise,L,7-2,7,2,5,win,20240326_jhtc,0,0,0,0,0.1,,,,0.00,,,,2024,2023-24,div2,Phoenix,phoenixcollege,brodytewershgov,Brody Tewers
-Mar 23,home,Central Arizona,L,13-0,13,0,13,win,20240323_7xxf,0,0,0,0,0.2,4,3,3,40.50,6.00,,,2024,2023-24,div2,Phoenix,phoenixcollege,brodytewershgov,Brody Tewers
-Mar 15,home,Asian Breeze,T,0-0,0,0,0,tie,20240315_tnr7,1,0,0,0,3.0,2,0,0,0.00,.67,0,3,2024,2023-24,div2,Phoenix,phoenixcollege,brodytewershgov,Brody Tewers
-Mar 12,home,Ottawa University JV,W,7-3,7,3,4,win,20240312_ak0q,0,1,0,0,1.2,1,,,0.00,.60,,4,2024,2023-24,div2,Phoenix,phoenixcollege,brodytewershgov,Brody Tewers
-Mar 6,home,South Mountain,L,12-2,12,2,10,win,20240306_riww,0,0,0,0,0.0,2,4,3,INF,,1,,2024,2023-24,div2,Phoenix,phoenixcollege,brodytewershgov,Brody Tewers
-Mar 1,home,Paradise Valley,W,12-11,12,11,1,win,20240301_405l,0,0,0,0,1.1,,,,0.00,,,3,2024,2023-24,div2,Phoenix,phoenixcollege,brodytewershgov,Brody Tewers
-Feb 23,home,GateWay (AZ),L,9-4,9,4,5,win,20240223_26wc,1,0,1,0,2.1,5,6,4,15.43,4.29,5,1,2024,2023-24,div2,Phoenix,phoenixcollege,brodytewershgov,Brody Tewers
-Feb 16,home,South Mountain,W,10-9,10,9,1,win,20240216_3t8n,1,0,0,0,3.0,6,5,2,6.00,2.67,2,5,2024,2023-24,div2,Phoenix,phoenixcollege,brodytewershgov,Brody Tewers
-Feb 6,home,Scottsdale Post Grad,W,9-1,9,1,8,win,20240206_hjms,1,1,0,0,3.0,1,0,0,0.00,1.33,3,4,2024,2023-24,div2,Phoenix,phoenixcollege,brodytewershgov,Brody Tewers
-Feb 3,home,ACU JV,W,9-3,9,3,6,win,20240203_z3fp,0,0,0,0,1.0,,,,0.00,1.00,1,2,2024,2023-24,div2,Phoenix,phoenixcollege,brodytewershgov,Brody Tewers
-Jan 29,home,GCU Club,L,12-7,12,7,5,win,20240129_4oy3,0,0,0,0,0.1,1,,,0.00,3.00,,,2024,2023-24,div2,Phoenix,phoenixcollege,brodytewershgov,Brody Tewers
-Jan 26,home,Yavapai,W,9-0,9,0,9,win,20240126_rqni,0,0,0,0,2.0,1,,,0.00,.50,,1,2024,2023-24,div2,Phoenix,phoenixcollege,brodytewershgov,Brody Tewers
+Apr 26,home,Paradise Valley,W,4-3,4,3,1,win,20240426_39g6,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div2,Phoenix,phoenixcollege,brodytewershgov,Brody Tewers
+Apr 23,home,Scottsdale,L,4-3,4,3,1,win,20240423_djgo,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div2,Phoenix,phoenixcollege,brodytewershgov,Brody Tewers
+Apr 20,home,GateWay (AZ),L,8-1,8,1,7,win,20240420_12me,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div2,Phoenix,phoenixcollege,brodytewershgov,Brody Tewers
+Apr 13,home,South Mountain,L,11-6,11,6,5,win,20240413_4hk3,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div2,Phoenix,phoenixcollege,brodytewershgov,Brody Tewers
+Apr 12,home,South Mountain,L,19-7,19,7,12,win,20240412_ecov,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div2,Phoenix,phoenixcollege,brodytewershgov,Brody Tewers
+Apr 9,home,Chandler-Gilbert,L,8-3,8,3,5,win,20240409_631v,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div2,Phoenix,phoenixcollege,brodytewershgov,Brody Tewers
+Apr 6,home,Glendale,W,10-0,10,0,10,win,20240406_ko8x,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div2,Phoenix,phoenixcollege,brodytewershgov,Brody Tewers
+Apr 5,home,Glendale,L,11-10,11,10,1,win,20240405_yzwt,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div2,Phoenix,phoenixcollege,brodytewershgov,Brody Tewers
+Apr 2,home,Pima,L,9-0,9,0,9,win,20240402_t99s,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div2,Phoenix,phoenixcollege,brodytewershgov,Brody Tewers
+Mar 30,home,Eastern Arizona,L,2-0,2,0,2,win,20240330_eu58,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div2,Phoenix,phoenixcollege,brodytewershgov,Brody Tewers
+Mar 26,home,Cochise,L,7-2,7,2,5,win,20240326_jhtc,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div2,Phoenix,phoenixcollege,brodytewershgov,Brody Tewers
+Mar 23,home,Central Arizona,L,13-0,13,0,13,win,20240323_7xxf,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div2,Phoenix,phoenixcollege,brodytewershgov,Brody Tewers
+Mar 19,home,Arizona Western,W,7-4,7,4,3,win,20240319_c2f1,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div2,Phoenix,phoenixcollege,brodytewershgov,Brody Tewers
+Mar 15,home,Asian Breeze,T,0-0,0,0,0,tie,20240315_tnr7,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div2,Phoenix,phoenixcollege,brodytewershgov,Brody Tewers
+Mar 14,home,Eastern Arizona,L,9-3,9,3,6,win,20240314_map7,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div2,Phoenix,phoenixcollege,brodytewershgov,Brody Tewers
+Mar 9,home,Yavapai,W,9-0,9,0,9,win,20240309_mn11,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div2,Phoenix,phoenixcollege,brodytewershgov,Brody Tewers
+Mar 6,home,South Mountain,L,12-2,12,2,10,win,20240306_riww,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div2,Phoenix,phoenixcollege,brodytewershgov,Brody Tewers
+Mar 5,home,South Mountain,W,6-5,6,5,1,win,20240305_o2ik,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div2,Phoenix,phoenixcollege,brodytewershgov,Brody Tewers
+Mar 2,home,Paradise Valley,W,11-2,11,2,9,win,20240302_x3o7,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div2,Phoenix,phoenixcollege,brodytewershgov,Brody Tewers
+Mar 1,home,Paradise Valley,W,12-11,12,11,1,win,20240301_405l,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div2,Phoenix,phoenixcollege,brodytewershgov,Brody Tewers
+Feb 28,home,Scottsdale,W,3-1,3,1,2,win,20240228_0gdb,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div2,Phoenix,phoenixcollege,brodytewershgov,Brody Tewers
+Feb 27,home,Scottsdale,W,4-1,4,1,3,win,20240227_66pr,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div2,Phoenix,phoenixcollege,brodytewershgov,Brody Tewers
+Feb 26,home,Fraser Valley,L,8-6,8,6,2,win,20240226_k45k,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div2,Phoenix,phoenixcollege,brodytewershgov,Brody Tewers
+Feb 24,home,GateWay (AZ),L,5-1,5,1,4,win,20240224_7tc3,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div2,Phoenix,phoenixcollege,brodytewershgov,Brody Tewers
+Feb 22,home,Glendale,L,7-2,7,2,5,win,20240222_dbq0,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div2,Phoenix,phoenixcollege,brodytewershgov,Brody Tewers
+Feb 21,home,Mesa,L,6-4,6,4,2,win,20240221_j99e,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div2,Phoenix,phoenixcollege,brodytewershgov,Brody Tewers
+Feb 20,home,Mesa,L,10-6,10,6,4,win,20240220_rwx8,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div2,Phoenix,phoenixcollege,brodytewershgov,Brody Tewers
+Feb 17,home,South Mountain,L,13-0,13,0,13,win,20240217_ufwk,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div2,Phoenix,phoenixcollege,brodytewershgov,Brody Tewers
+Feb 16,home,South Mountain,W,10-9,10,9,1,win,20240216_3t8n,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div2,Phoenix,phoenixcollege,brodytewershgov,Brody Tewers
+Feb 15,home,Glendale,L,6-1,6,1,5,win,20240215_089b,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div2,Phoenix,phoenixcollege,brodytewershgov,Brody Tewers
+Feb 14,home,Chandler-Gilbert,L,20-7,20,7,13,win,20240214_sa13,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div2,Phoenix,phoenixcollege,brodytewershgov,Brody Tewers
+Feb 13,home,Chandler-Gilbert,W,9-8,9,8,1,win,20240213_295a,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div2,Phoenix,phoenixcollege,brodytewershgov,Brody Tewers
+Feb 6,home,Scottsdale Post Grad,W,9-1,9,1,8,win,20240206_hjms,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div2,Phoenix,phoenixcollege,brodytewershgov,Brody Tewers
+Feb 6,home,Scottsdale Post Grad,W,1-0,1,0,1,win,20240206_o9ft,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div2,Phoenix,phoenixcollege,brodytewershgov,Brody Tewers
+Feb 3,home,ACU JV,W,9-3,9,3,6,win,20240203_z3fp,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div2,Phoenix,phoenixcollege,brodytewershgov,Brody Tewers
+Jan 29,home,GCU Club,L,12-7,12,7,5,win,20240129_4oy3,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div2,Phoenix,phoenixcollege,brodytewershgov,Brody Tewers
+Jan 27,home,Yavapai,W,16-14,16,14,2,win,20240127_p36n,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div2,Phoenix,phoenixcollege,brodytewershgov,Brody Tewers
+Jan 27,home,Yavapai,W,19-4,19,4,15,win,20240127_v8ao,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div2,Phoenix,phoenixcollege,brodytewershgov,Brody Tewers
+Jan 26,home,Yavapai,W,9-0,9,0,9,win,20240126_rqni,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div2,Phoenix,phoenixcollege,brodytewershgov,Brody Tewers
+Jan 26,home,Yavapai,W,9-0,9,0,9,win,20240126_z9ko,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div2,Phoenix,phoenixcollege,brodytewershgov,Brody Tewers

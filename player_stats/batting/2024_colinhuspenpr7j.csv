@@ -1,21 +1,29 @@
 date,location,opponent,result,score,team_score,opp_score,game_score_diff,game_win_loss,game_id,AB,R,H,2B,3B,HR,RBI,BB,K,SB,CS,HBP,SF,SH,TB,XBH,HDP,GO,FO,GO/FO,PA,season,njcaa_season,njcaa_division,team,team_id,player_id,player_name
-Feb 2,home,San Jacinto,W,8-3,8,3,5,win,20240202_asfm,2,1,0,,,,0,2,2,,,,,,0,0,,,,,4,2024,2023-24,div1,Temple,templecollege,colinhuspenpr7j,Colin Huspen
-Feb 6,home,Concordia University Texas JV,W,17-9,17,9,8,win,20240206_w1gj,6,2,3,,,,2,,2,,,,,,3,0,,,,,6,2024,2023-24,div1,Temple,templecollege,colinhuspenpr7j,Colin Huspen
-Feb 9,home,Angelina,W,9-6,9,6,3,win,20240209_2oa7,2,1,0,,,,0,1,,,,,,,0,0,,,,,3,2024,2023-24,div1,Temple,templecollege,colinhuspenpr7j,Colin Huspen
-Feb 13,home,Navarro,W,9-0,9,0,9,win,20240213_8xk4,3,1,0,,,,0,1,,,,,,,0,0,,,,,4,2024,2023-24,div1,Temple,templecollege,colinhuspenpr7j,Colin Huspen
-Feb 17,home,Angelina,W,13-0,13,0,13,win,20240217_lfvu,2,2,1,,1,,2,2,1,,,,,,3,1,,,,,4,2024,2023-24,div1,Temple,templecollege,colinhuspenpr7j,Colin Huspen
-Feb 17,home,Angelina,W,8-6,8,6,2,win,20240217_xw92,2,1,1,,,,0,,,,,,,,1,0,,,,,2,2024,2023-24,div1,Temple,templecollege,colinhuspenpr7j,Colin Huspen
-Feb 21,home,Galveston,W,6-3,6,3,3,win,20240221_i554,0,0,0,,,,1,,,,,,,1,0,0,,,,,1,2024,2023-24,div1,Temple,templecollege,colinhuspenpr7j,Colin Huspen
-Feb 24,home,Galveston,W,5-2,5,2,3,win,20240224_78o1,3,0,0,,,,0,,2,,,,,,0,0,,,,,3,2024,2023-24,div1,Temple,templecollege,colinhuspenpr7j,Colin Huspen
-Mar 2,home,Midland,W,15-7,15,7,8,win,20240302_cqk4,2,2,2,,,,1,2,,1,,1,,,2,0,,,,,5,2024,2023-24,div1,Temple,templecollege,colinhuspenpr7j,Colin Huspen
-Mar 2,home,Midland,W,7-4,7,4,3,win,20240302_0hiu,3,2,2,,,,2,1,,1,,,,,2,0,,,,,4,2024,2023-24,div1,Temple,templecollege,colinhuspenpr7j,Colin Huspen
-Mar 9,home,Ranger,W,10-0,10,0,10,win,20240309_mj37,1,0,0,,,,1,1,,,,,1,,0,0,,,,,3,2024,2023-24,div1,Temple,templecollege,colinhuspenpr7j,Colin Huspen
-Mar 13,home,Hill,W,2-0,2,0,2,win,20240313_y89a,2,0,0,,,,0,,,,,,,1,0,0,,,,,3,2024,2023-24,div1,Temple,templecollege,colinhuspenpr7j,Colin Huspen
-Mar 13,home,Hill,W,8-0,8,0,8,win,20240313_8uqk,1,1,0,,,,1,4,,,1,,,,0,0,,,,,5,2024,2023-24,div1,Temple,templecollege,colinhuspenpr7j,Colin Huspen
-Apr 3,home,Vernon,W,8-3,8,3,5,win,20240403_1gk8,3,0,0,,,,0,1,1,,,,,,0,0,,,,,4,2024,2023-24,div1,Temple,templecollege,colinhuspenpr7j,Colin Huspen
-Apr 3,home,Vernon,W,7-3,7,3,4,win,20240403_p96t,4,0,0,,,,0,1,3,,1,,,,0,0,,,,,5,2024,2023-24,div1,Temple,templecollege,colinhuspenpr7j,Colin Huspen
-Apr 6,home,Vernon,W,5-0,5,0,5,win,20240406_c9n1,2,0,0,,,,0,1,1,,,,,,0,0,,,,,3,2024,2023-24,div1,Temple,templecollege,colinhuspenpr7j,Colin Huspen
-Apr 16,home,St. Edward's University JV,W,5-1,5,1,4,win,20240416_j1fk,4,1,2,2,,,1,,1,,,,,,4,2,,,,,4,2024,2023-24,div1,Temple,templecollege,colinhuspenpr7j,Colin Huspen
-Apr 16,home,St. Edward's University JV,W,9-5,9,5,4,win,20240416_owyf,2,1,1,,,,0,2,1,,,,,,1,0,,,,,4,2024,2023-24,div1,Temple,templecollege,colinhuspenpr7j,Colin Huspen
-Apr 19,home,John Melvin University,W,9-8,9,8,1,win,20240419_7cdx,2,0,0,,,,0,1,,1,,,,,0,0,,,,,3,2024,2023-24,div1,Temple,templecollege,colinhuspenpr7j,Colin Huspen
-Apr 24,home,Cisco,W,6-2,6,2,4,win,20240424_po74,1,0,0,,,,1,,,,,1,,,0,0,,,,,2,2024,2023-24,div1,Temple,templecollege,colinhuspenpr7j,Colin Huspen
+Jan 29,home,Blinn,W,5-3,5,3,2,win,20240129_40du,3,1,2,,,,0,,,,,,,1,2,0,,,,,4,2024,2023-24,div1,Temple,templecollege,colinhuspenpr7j,Colin Huspen
+Feb 2,home,San Jacinto,W,7-3,7,3,4,win,20240202_tbow,3,1,0,,,,0,1,,,,,,,0,0,,,,,4,2024,2023-24,div1,Temple,templecollege,colinhuspenpr7j,Colin Huspen
+Feb 2,home,San Jacinto,W,8-3,8,3,5,win,20240202_asfm,2,2,1,,,,1,2,1,1,,,,1,1,0,,,,,5,2024,2023-24,div1,Temple,templecollege,colinhuspenpr7j,Colin Huspen
+Feb 6,home,Concordia University Texas JV,W,17-9,17,9,8,win,20240206_w1gj,3,3,1,1,,,1,2,,1,,,,,2,1,,,,,5,2024,2023-24,div1,Temple,templecollege,colinhuspenpr7j,Colin Huspen
+Feb 9,home,Angelina,W,9-6,9,6,3,win,20240209_2oa7,3,1,2,,,,0,1,,,,,,,2,0,,,,,4,2024,2023-24,div1,Temple,templecollege,colinhuspenpr7j,Colin Huspen
+Feb 13,home,Navarro,W,9-0,9,0,9,win,20240213_8xk4,5,2,2,,,,0,,,,,,,,2,0,,,,,5,2024,2023-24,div1,Temple,templecollege,colinhuspenpr7j,Colin Huspen
+Feb 17,home,Angelina,W,13-0,13,0,13,win,20240217_lfvu,2,3,1,,,,0,2,,,,,,,1,0,,,,,4,2024,2023-24,div1,Temple,templecollege,colinhuspenpr7j,Colin Huspen
+Feb 17,home,Angelina,W,8-6,8,6,2,win,20240217_xw92,3,0,1,1,,,0,1,2,,,,,,2,1,,,,,4,2024,2023-24,div1,Temple,templecollege,colinhuspenpr7j,Colin Huspen
+Feb 21,home,Galveston,W,6-3,6,3,3,win,20240221_i554,2,2,1,,,,0,2,,,,,,,1,0,,,,,4,2024,2023-24,div1,Temple,templecollege,colinhuspenpr7j,Colin Huspen
+Feb 24,home,Galveston,W,5-2,5,2,3,win,20240224_78o1,1,2,1,1,,,1,1,,,,,1,1,2,1,,,,,4,2024,2023-24,div1,Temple,templecollege,colinhuspenpr7j,Colin Huspen
+Feb 24,home,Galveston,W,4-0,4,0,4,win,20240224_s85c,2,0,0,,,,0,1,1,,,,,,0,0,,,,,3,2024,2023-24,div1,Temple,templecollege,colinhuspenpr7j,Colin Huspen
+Mar 2,home,Midland,W,15-7,15,7,8,win,20240302_cqk4,2,2,0,,,,1,4,1,,,,,,0,0,,,,,6,2024,2023-24,div1,Temple,templecollege,colinhuspenpr7j,Colin Huspen
+Mar 2,home,Midland,W,7-4,7,4,3,win,20240302_0hiu,4,0,1,,,,0,1,1,2,,,,,1,0,,,,,5,2024,2023-24,div1,Temple,templecollege,colinhuspenpr7j,Colin Huspen
+Mar 9,home,Ranger,W,10-0,10,0,10,win,20240309_mj37,3,2,3,,,,2,1,,,,,,,3,0,,,,,4,2024,2023-24,div1,Temple,templecollege,colinhuspenpr7j,Colin Huspen
+Mar 13,home,Hill,W,2-0,2,0,2,win,20240313_y89a,3,0,0,,,,0,1,,1,,,,,0,0,,,,,4,2024,2023-24,div1,Temple,templecollege,colinhuspenpr7j,Colin Huspen
+Mar 13,home,Hill,W,8-0,8,0,8,win,20240313_8uqk,5,1,4,2,,,3,,1,,,,,,6,2,,,,,5,2024,2023-24,div1,Temple,templecollege,colinhuspenpr7j,Colin Huspen
+Mar 17,home,Hill,W,10-0,10,0,10,win,20240317_m9x3,3,2,0,,,,0,,,,,,,,0,0,,,,,3,2024,2023-24,div1,Temple,templecollege,colinhuspenpr7j,Colin Huspen
+Mar 20,home,McLennan,W,9-6,9,6,3,win,20240320_dxym,4,1,2,1,,,0,1,1,,1,,,,3,1,,,,,5,2024,2023-24,div1,Temple,templecollege,colinhuspenpr7j,Colin Huspen
+Apr 6,home,Vernon,W,5-0,5,0,5,win,20240406_c9n1,2,1,0,,,,0,1,,,,,,1,0,0,,,,,4,2024,2023-24,div1,Temple,templecollege,colinhuspenpr7j,Colin Huspen
+Apr 11,home,North Central Texas,W,11-1,11,1,10,win,20240411_m830,4,2,2,1,,,1,,,,,,1,,3,1,,,,,5,2024,2023-24,div1,Temple,templecollege,colinhuspenpr7j,Colin Huspen
+Apr 13,home,North Central Texas,W,11-0,11,0,11,win,20240413_7vkd,1,4,1,,,,2,2,,2,,1,,,1,0,,,,,4,2024,2023-24,div1,Temple,templecollege,colinhuspenpr7j,Colin Huspen
+Apr 13,home,North Central Texas,W,8-0,8,0,8,win,20240413_s676,2,1,0,,,,0,2,,,,,,,0,0,,,,,4,2024,2023-24,div1,Temple,templecollege,colinhuspenpr7j,Colin Huspen
+Apr 16,home,St. Edward's University JV,W,5-1,5,1,4,win,20240416_j1fk,1,0,0,,,,0,3,,,,,,,0,0,,,,,4,2024,2023-24,div1,Temple,templecollege,colinhuspenpr7j,Colin Huspen
+Apr 16,home,St. Edward's University JV,W,9-5,9,5,4,win,20240416_owyf,4,0,2,1,,,1,1,1,2,,,,,3,1,,,,,5,2024,2023-24,div1,Temple,templecollege,colinhuspenpr7j,Colin Huspen
+Apr 19,home,John Melvin University,W,9-8,9,8,1,win,20240419_7cdx,3,4,3,,,1,2,1,,,,,,,6,1,,,,,4,2024,2023-24,div1,Temple,templecollege,colinhuspenpr7j,Colin Huspen
+Apr 24,home,Cisco,W,6-2,6,2,4,win,20240424_po74,2,1,1,1,,,3,2,1,,,,,,2,1,,,,,4,2024,2023-24,div1,Temple,templecollege,colinhuspenpr7j,Colin Huspen
+Apr 27,home,Cisco,W,9-0,9,0,9,win,20240427_9pab,4,1,1,,,1,1,1,1,,,,,,4,1,,,,,5,2024,2023-24,div1,Temple,templecollege,colinhuspenpr7j,Colin Huspen
+May 4,home,Grayson,W,9-3,9,3,6,win,20240504_9tgk,4,1,2,1,,1,2,,,,,,,,6,2,,,,,4,2024,2023-24,div1,Temple,templecollege,colinhuspenpr7j,Colin Huspen

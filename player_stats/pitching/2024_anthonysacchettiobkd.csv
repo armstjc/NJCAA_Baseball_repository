@@ -1,28 +1,7 @@
 date,location,opponent,result,score,team_score,opp_score,game_score_diff,game_win_loss,game_id,GS,W,L,SV,IP,H,R,ER,ERA,BB,K,HR,season,njcaa_season,njcaa_division,team,team_id,player_id,player_name
-May 1,home,Triton,L,6-5,6,5,1,win,20240501_amos,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div2,Bryant & Stratton College (WI),bryantstrattoncollegewi,anthonysacchettiobkd,Anthony Sacchetti
-Apr 30,home,Lake County,L,13-6,13,6,7,win,20240430_fok0,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div2,Bryant & Stratton College (WI),bryantstrattoncollegewi,anthonysacchettiobkd,Anthony Sacchetti
-Apr 29,home,Oakton,W,19-8,19,8,11,win,20240429_ex6i,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div2,Bryant & Stratton College (WI),bryantstrattoncollegewi,anthonysacchettiobkd,Anthony Sacchetti
-Apr 25,home,Kishwaukee,W,12-1,12,1,11,win,20240425_wsd6,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div2,Bryant & Stratton College (WI),bryantstrattoncollegewi,anthonysacchettiobkd,Anthony Sacchetti
-Apr 23,home,Bay College,W,14-4,14,4,10,win,20240423_1fqc,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div2,Bryant & Stratton College (WI),bryantstrattoncollegewi,anthonysacchettiobkd,Anthony Sacchetti
-Apr 21,home,Elgin,L,13-5,13,5,8,win,20240421_7fl2,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div2,Bryant & Stratton College (WI),bryantstrattoncollegewi,anthonysacchettiobkd,Anthony Sacchetti
-Apr 21,home,Elgin,W,8-6,8,6,2,win,20240421_8gln,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div2,Bryant & Stratton College (WI),bryantstrattoncollegewi,anthonysacchettiobkd,Anthony Sacchetti
-Apr 17,home,Rock Valley,L,10-2,10,2,8,win,20240417_qz4e,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div2,Bryant & Stratton College (WI),bryantstrattoncollegewi,anthonysacchettiobkd,Anthony Sacchetti
-Apr 13,home,DuPage,L,10-6,10,6,4,win,20240413_ia4b,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div2,Bryant & Stratton College (WI),bryantstrattoncollegewi,anthonysacchettiobkd,Anthony Sacchetti
-Apr 13,home,DuPage,W,2-0,2,0,2,win,20240413_8v5w,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div2,Bryant & Stratton College (WI),bryantstrattoncollegewi,anthonysacchettiobkd,Anthony Sacchetti
-Apr 10,home,Madison,L,17-10,17,10,7,win,20240410_psnn,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div2,Bryant & Stratton College (WI),bryantstrattoncollegewi,anthonysacchettiobkd,Anthony Sacchetti
-Apr 9,home,Madison,L,15-7,15,7,8,win,20240409_8v6b,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div2,Bryant & Stratton College (WI),bryantstrattoncollegewi,anthonysacchettiobkd,Anthony Sacchetti
-Mar 29,home,Prairie State,W,5-4,5,4,1,win,20240329_4t99,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div2,Bryant & Stratton College (WI),bryantstrattoncollegewi,anthonysacchettiobkd,Anthony Sacchetti
-Mar 27,home,Milwaukee Area Tech,W,4-3,4,3,1,win,20240327_ejfu,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div2,Bryant & Stratton College (WI),bryantstrattoncollegewi,anthonysacchettiobkd,Anthony Sacchetti
-Mar 24,home,Black Hawk,W,10-5,10,5,5,win,20240324_4qzh,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div2,Bryant & Stratton College (WI),bryantstrattoncollegewi,anthonysacchettiobkd,Anthony Sacchetti
-Mar 15,home,Kankakee,L,6-1,6,1,5,win,20240315_3j6s,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div2,Bryant & Stratton College (WI),bryantstrattoncollegewi,anthonysacchettiobkd,Anthony Sacchetti
-Mar 7,home,Heartland,L,13-7,13,7,6,win,20240307_rxem,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div2,Bryant & Stratton College (WI),bryantstrattoncollegewi,anthonysacchettiobkd,Anthony Sacchetti
+Apr 30,home,Lake County,L,13-6,13,6,7,win,20240430_fok0,0,0,0,0,3.0,7,5,4,12.00,2.67,1,3,2024,2023-24,div2,Bryant & Stratton College (WI),bryantstrattoncollegewi,anthonysacchettiobkd,Anthony Sacchetti
+Apr 21,home,Elgin,L,13-5,13,5,8,win,20240421_7fl2,0,0,1,0,1.1,6,5,5,33.75,6.00,2,2,2024,2023-24,div2,Bryant & Stratton College (WI),bryantstrattoncollegewi,anthonysacchettiobkd,Anthony Sacchetti
+Apr 10,home,Madison,L,17-10,17,10,7,win,20240410_psnn,0,0,0,0,1.2,4,5,5,27.00,4.20,3,1,2024,2023-24,div2,Bryant & Stratton College (WI),bryantstrattoncollegewi,anthonysacchettiobkd,Anthony Sacchetti
+Mar 29,home,Prairie State,W,12-1,12,1,11,win,20240329_cxkf,0,1,0,0,5.0,3,1,1,1.80,.60,,3,2024,2023-24,div2,Bryant & Stratton College (WI),bryantstrattoncollegewi,anthonysacchettiobkd,Anthony Sacchetti
 Mar 2,home,Jackson,L,4-2,4,2,2,win,20240302_bqlt,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div2,Bryant & Stratton College (WI),bryantstrattoncollegewi,anthonysacchettiobkd,Anthony Sacchetti
-Mar 2,home,Jackson,W,5-1,5,1,4,win,20240302_39g2,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div2,Bryant & Stratton College (WI),bryantstrattoncollegewi,anthonysacchettiobkd,Anthony Sacchetti
-Mar 1,home,Owens,W,4-2,4,2,2,win,20240301_hyyl,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div2,Bryant & Stratton College (WI),bryantstrattoncollegewi,anthonysacchettiobkd,Anthony Sacchetti
-Feb 29,home,Lincoln Land,L,13-2,13,2,11,win,20240229_pdrt,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div2,Bryant & Stratton College (WI),bryantstrattoncollegewi,anthonysacchettiobkd,Anthony Sacchetti
-Feb 29,home,Lincoln Land,L,1-0,1,0,1,win,20240229_45yz,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div2,Bryant & Stratton College (WI),bryantstrattoncollegewi,anthonysacchettiobkd,Anthony Sacchetti
-Feb 27,home,Houghton College JV,W,7-3,7,3,4,win,20240227_uf0r,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div2,Bryant & Stratton College (WI),bryantstrattoncollegewi,anthonysacchettiobkd,Anthony Sacchetti
-Feb 26,home,Frederick,L,13-2,13,2,11,win,20240226_zf90,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div2,Bryant & Stratton College (WI),bryantstrattoncollegewi,anthonysacchettiobkd,Anthony Sacchetti
-Feb 26,home,Frederick,L,11-0,11,0,11,win,20240226_wk4j,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div2,Bryant & Stratton College (WI),bryantstrattoncollegewi,anthonysacchettiobkd,Anthony Sacchetti
-Feb 25,home,Frederick,L,5-2,5,2,3,win,20240225_x9re,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div2,Bryant & Stratton College (WI),bryantstrattoncollegewi,anthonysacchettiobkd,Anthony Sacchetti
-Feb 25,home,Frederick,W,12-2,12,2,10,win,20240225_qg71,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div2,Bryant & Stratton College (WI),bryantstrattoncollegewi,anthonysacchettiobkd,Anthony Sacchetti
+Feb 29,home,Lincoln Land,L,13-2,13,2,11,win,20240229_pdrt,0,0,1,0,3.0,3,4,4,12.00,3.00,6,4,2024,2023-24,div2,Bryant & Stratton College (WI),bryantstrattoncollegewi,anthonysacchettiobkd,Anthony Sacchetti

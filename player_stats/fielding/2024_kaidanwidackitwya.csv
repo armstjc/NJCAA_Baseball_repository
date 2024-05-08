@@ -1,15 +1,21 @@
 date,location,opponent,result,score,team_score,opp_score,game_score_diff,game_win_loss,game_id,TC,PO,A,E,FPCT,DP,SBA,RCS,RCS_PCT,PB,CI,season,njcaa_season,njcaa_division,team,team_id,player_id,player_name
-Feb 3,home,TCS Post Grad,L,13-3,13,3,10,win,20240203_j3ey,0,0,1,0,4.0,8,5,3,6.75,2.00,,2024,2023-24,div1,Clarendon,clarendoncollege,kaidanwidackitwya,Kaidan Widacki
-Feb 20,home,Western Oklahoma State,L,17-4,17,4,13,win,20240220_kjbw,0,0,0,0,1.2,2,3,3,16.20,1.80,1,2024,2023-24,div1,Clarendon,clarendoncollege,kaidanwidackitwya,Kaidan Widacki
-Feb 24,home,McCook,W,18-11,18,11,7,win,20240224_4wuq,0,0,0,0,2.0,5,5,5,22.50,3.00,1,2024,2023-24,div1,Clarendon,clarendoncollege,kaidanwidackitwya,Kaidan Widacki
-Mar 2,home,Vernon,L,10-9,10,9,1,win,20240302_zdsy,0,0,0,0,3.0,5,3,3,9.00,2.00,1,2024,2023-24,div1,Clarendon,clarendoncollege,kaidanwidackitwya,Kaidan Widacki
-Mar 10,home,Howard (TX),W,18-14,18,14,4,win,20240310_camf,0,0,0,0,0.0,4,6,6,INF,,2,2024,2023-24,div1,Clarendon,clarendoncollege,kaidanwidackitwya,Kaidan Widacki
-Mar 14,home,New Mexico,L,19-0,19,0,19,win,20240314_30dl,0,0,0,0,0.2,4,5,5,67.50,7.50,1,2024,2023-24,div1,Clarendon,clarendoncollege,kaidanwidackitwya,Kaidan Widacki
-Mar 19,home,Wayland Baptist JV,W,7-1,7,1,6,win,20240319_1nf0,0,0,0,0,2.0,,,,0.00,,,2024,2023-24,div1,Clarendon,clarendoncollege,kaidanwidackitwya,Kaidan Widacki
-Mar 28,home,Midland,L,18-3,18,3,15,win,20240328_3yv8,0,0,1,0,2.2,7,9,7,23.63,3.38,2,2024,2023-24,div1,Clarendon,clarendoncollege,kaidanwidackitwya,Kaidan Widacki
-Apr 2,home,Wayland Baptist JV,W,15-10,15,10,5,win,20240402_b6uf,0,0,0,0,1.0,,,,0.00,1.00,1,2024,2023-24,div1,Clarendon,clarendoncollege,kaidanwidackitwya,Kaidan Widacki
-Apr 5,home,New Mexico Military,L,20-10,20,10,10,win,20240405_8a0f,0,0,0,0,0.1,5,5,5,135.00,18.00,1,2024,2023-24,div1,Clarendon,clarendoncollege,kaidanwidackitwya,Kaidan Widacki
-Apr 12,home,Frank Phillips,L,17-4,17,4,13,win,20240412_i72x,0,0,0,0,1.0,1,,,0.00,1.00,,2024,2023-24,div1,Clarendon,clarendoncollege,kaidanwidackitwya,Kaidan Widacki
-Apr 18,home,Western Texas,L,17-14,17,14,3,win,20240418_04ha,0,0,0,0,3.2,5,8,7,17.18,3.27,7,2024,2023-24,div1,Clarendon,clarendoncollege,kaidanwidackitwya,Kaidan Widacki
-Apr 26,home,El Paso,L,23-22,23,22,1,win,20240426_nlz4,0,0,1,0,3.0,9,11,11,33.00,4.00,3,2024,2023-24,div1,Clarendon,clarendoncollege,kaidanwidackitwya,Kaidan Widacki
-May 3,home,Amarillo College,L,5-3,5,3,2,win,20240503_zem6,0,0,1,0,5.0,3,5,2,3.60,.80,1,2024,2023-24,div1,Clarendon,clarendoncollege,kaidanwidackitwya,Kaidan Widacki
+Feb 2,home,DFW Postgrad,L,14-3,14,3,11,win,20240202_i91q,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Clarendon,clarendoncollege,kaidanwidackitwya,Kaidan Widacki
+Feb 3,home,TCS Post Grad,L,13-3,13,3,10,win,20240203_j3ey,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Clarendon,clarendoncollege,kaidanwidackitwya,Kaidan Widacki
+Feb 20,home,Western Oklahoma State,L,17-4,17,4,13,win,20240220_kjbw,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Clarendon,clarendoncollege,kaidanwidackitwya,Kaidan Widacki
+Feb 24,home,McCook,W,18-11,18,11,7,win,20240224_4wuq,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Clarendon,clarendoncollege,kaidanwidackitwya,Kaidan Widacki
+Mar 1,home,Vernon,L,4-0,4,0,4,win,20240301_jvtu,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Clarendon,clarendoncollege,kaidanwidackitwya,Kaidan Widacki
+Mar 2,home,Vernon,L,10-9,10,9,1,win,20240302_zdsy,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Clarendon,clarendoncollege,kaidanwidackitwya,Kaidan Widacki
+Mar 15,home,New Mexico,L,10-3,10,3,7,win,20240315_rzlk,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Clarendon,clarendoncollege,kaidanwidackitwya,Kaidan Widacki
+Mar 15,home,New Mexico,L,12-4,12,4,8,win,20240315_zz71,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Clarendon,clarendoncollege,kaidanwidackitwya,Kaidan Widacki
+Mar 19,home,Wayland Baptist JV,W,7-1,7,1,6,win,20240319_1nf0,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Clarendon,clarendoncollege,kaidanwidackitwya,Kaidan Widacki
+Mar 22,home,Odessa,W,2-1,2,1,1,win,20240322_07w5,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Clarendon,clarendoncollege,kaidanwidackitwya,Kaidan Widacki
+Mar 23,home,Odessa,L,13-9,13,9,4,win,20240323_8zyp,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Clarendon,clarendoncollege,kaidanwidackitwya,Kaidan Widacki
+Mar 28,home,Midland,L,15-10,15,10,5,win,20240328_rkx0,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Clarendon,clarendoncollege,kaidanwidackitwya,Kaidan Widacki
+Mar 28,home,Midland,L,18-3,18,3,15,win,20240328_3yv8,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Clarendon,clarendoncollege,kaidanwidackitwya,Kaidan Widacki
+Apr 2,home,Wayland Baptist JV,W,15-10,15,10,5,win,20240402_b6uf,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Clarendon,clarendoncollege,kaidanwidackitwya,Kaidan Widacki
+Apr 6,home,New Mexico Military,L,12-8,12,8,4,win,20240406_hfmd,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Clarendon,clarendoncollege,kaidanwidackitwya,Kaidan Widacki
+Apr 13,home,Frank Phillips,W,19-2,19,2,17,win,20240413_pq8f,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Clarendon,clarendoncollege,kaidanwidackitwya,Kaidan Widacki
+Apr 19,home,Western Texas,W,15-0,15,0,15,win,20240419_q08s,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Clarendon,clarendoncollege,kaidanwidackitwya,Kaidan Widacki
+Apr 23,home,Wayland Baptist University,L,8-5,8,5,3,win,20240423_5lqz,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Clarendon,clarendoncollege,kaidanwidackitwya,Kaidan Widacki
+May 3,home,Amarillo College,L,3-2,3,2,1,win,20240503_6fjt,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Clarendon,clarendoncollege,kaidanwidackitwya,Kaidan Widacki
+May 4,home,Amarillo College,W,7-6,7,6,1,win,20240504_7nhd,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Clarendon,clarendoncollege,kaidanwidackitwya,Kaidan Widacki
