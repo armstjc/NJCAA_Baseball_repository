@@ -1,13 +1,26 @@
 date,location,opponent,result,score,team_score,opp_score,game_score_diff,game_win_loss,game_id,GS,W,L,SV,IP,H,R,ER,ERA,BB,K,HR,season,njcaa_season,njcaa_division,team,team_id,player_id,player_name
-Apr 30,home,Colby,W,10-8,10,8,2,win,20240430_89se,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div1,Seminole State (FL),seminolestatecollegeofflorida,connorhensleyatvt,Connor Hensley
-Apr 24,home,Hastings College JV,W,12-0,12,0,12,win,20240424_uh3z,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div1,Seminole State (FL),seminolestatecollegeofflorida,connorhensleyatvt,Connor Hensley
-Apr 23,home,Colby,L,17-7,17,7,10,win,20240423_xe96,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div1,Seminole State (FL),seminolestatecollegeofflorida,connorhensleyatvt,Connor Hensley
-Apr 17,home,Colby,L,11-10,11,10,1,win,20240417_hayr,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div1,Seminole State (FL),seminolestatecollegeofflorida,connorhensleyatvt,Connor Hensley
-Apr 10,home,Colby,W,14-3,14,3,11,win,20240410_ah3y,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div1,Seminole State (FL),seminolestatecollegeofflorida,connorhensleyatvt,Connor Hensley
-Apr 5,home,Northeastern,L,25-3,25,3,22,win,20240405_n1vw,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div1,Seminole State (FL),seminolestatecollegeofflorida,connorhensleyatvt,Connor Hensley
-Apr 3,home,York College JV,W,11-1,11,1,10,win,20240403_5msm,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div1,Seminole State (FL),seminolestatecollegeofflorida,connorhensleyatvt,Connor Hensley
-Mar 19,home,Hutchinson,L,20-10,20,10,10,win,20240319_0j8x,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div1,Seminole State (FL),seminolestatecollegeofflorida,connorhensleyatvt,Connor Hensley
-Mar 13,home,Northwest Oklahoma State JV,W,13-2,13,2,11,win,20240313_y7ur,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div1,Seminole State (FL),seminolestatecollegeofflorida,connorhensleyatvt,Connor Hensley
-Mar 3,home,Northeast,L,13-5,13,5,8,win,20240303_u7yy,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div1,Seminole State (FL),seminolestatecollegeofflorida,connorhensleyatvt,Connor Hensley
-Mar 1,home,Northeast,L,16-4,16,4,12,win,20240301_devn,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div1,Seminole State (FL),seminolestatecollegeofflorida,connorhensleyatvt,Connor Hensley
-Feb 23,home,Clarendon,L,12-5,12,5,7,win,20240223_8zpa,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div1,Seminole State (FL),seminolestatecollegeofflorida,connorhensleyatvt,Connor Hensley
+Apr 27,home,Daytona State,W,5-3,5,3,2,win,20240427_q2d1,0,0,0,1,3.0,2,,,0.00,1.00,1,5,2024,2023-24,div1,Seminole State (FL),seminolestatecollegeofflorida,connorhensleyatvt,Connor Hensley
+Apr 25,home,Daytona State,W,7-4,7,4,3,win,20240425_8ezo,0,1,0,0,2.0,1,,,0.00,.50,,2,2024,2023-24,div1,Seminole State (FL),seminolestatecollegeofflorida,connorhensleyatvt,Connor Hensley
+Apr 20,home,Polk State,W,4-1,4,1,3,win,20240420_uy8c,0,0,0,1,2.0,1,,,0.00,1.00,1,1,2024,2023-24,div1,Seminole State (FL),seminolestatecollegeofflorida,connorhensleyatvt,Connor Hensley
+Apr 13,home,Hillsborough,W,4-3,4,3,1,win,20240413_winn,0,1,0,0,4.0,1,,,0.00,.50,1,4,2024,2023-24,div1,Seminole State (FL),seminolestatecollegeofflorida,connorhensleyatvt,Connor Hensley
+Apr 8,home,Lake-Sumter State,W,7-6,7,6,1,win,20240408_w719,0,0,0,0,2.2,2,1,,0.00,.75,,4,2024,2023-24,div1,Seminole State (FL),seminolestatecollegeofflorida,connorhensleyatvt,Connor Hensley
+Apr 6,home,St. Petersburg,W,3-2,3,2,1,win,20240406_byc7,0,1,0,0,2.0,1,1,,0.00,.50,,1,2024,2023-24,div1,Seminole State (FL),seminolestatecollegeofflorida,connorhensleyatvt,Connor Hensley
+Apr 2,home,Eastern Florida State,W,8-3,8,3,5,win,20240402_os6c,0,0,0,0,1.0,1,,,0.00,1.00,,3,2024,2023-24,div1,Seminole State (FL),seminolestatecollegeofflorida,connorhensleyatvt,Connor Hensley
+Mar 30,home,Santa Fe,L,6-3,6,3,3,win,20240330_8sjj,0,0,0,0,0.0,1,1,1,INF,,,,2024,2023-24,div1,Seminole State (FL),seminolestatecollegeofflorida,connorhensleyatvt,Connor Hensley
+Mar 30,home,Santa Fe,L,7-1,7,1,6,win,20240330_9dgd,0,0,0,0,1.0,,,,0.00,,,1,2024,2023-24,div1,Seminole State (FL),seminolestatecollegeofflorida,connorhensleyatvt,Connor Hensley
+Mar 24,home,Indian River State,L,7-2,7,2,5,win,20240324_hs71,0,0,0,0,2.2,2,1,1,3.38,1.13,1,3,2024,2023-24,div1,Seminole State (FL),seminolestatecollegeofflorida,connorhensleyatvt,Connor Hensley
+Mar 16,home,Florida SouthWestern State,L,12-9,12,9,3,win,20240316_mp79,0,0,1,0,2.1,6,4,4,15.43,2.57,,2,2024,2023-24,div1,Seminole State (FL),seminolestatecollegeofflorida,connorhensleyatvt,Connor Hensley
+Mar 14,home,Florida SouthWestern State,L,8-5,8,5,3,win,20240314_m249,0,0,1,0,1.2,6,4,3,16.20,5.40,3,,2024,2023-24,div1,Seminole State (FL),seminolestatecollegeofflorida,connorhensleyatvt,Connor Hensley
+Mar 9,home,Central Florida,W,18-13,18,13,5,win,20240309_il9d,0,0,0,0,5.2,7,3,1,1.59,1.24,,5,2024,2023-24,div1,Seminole State (FL),seminolestatecollegeofflorida,connorhensleyatvt,Connor Hensley
+Mar 7,home,Central Florida,W,18-10,18,10,8,win,20240307_lyda,0,0,0,0,1.0,,,,0.00,1.00,1,2,2024,2023-24,div1,Seminole State (FL),seminolestatecollegeofflorida,connorhensleyatvt,Connor Hensley
+Mar 5,home,Jackson,W,7-1,7,1,6,win,20240305_z0e5,0,0,0,0,1.0,,,,0.00,,,,2024,2023-24,div1,Seminole State (FL),seminolestatecollegeofflorida,connorhensleyatvt,Connor Hensley
+Mar 1,home,Eastern Florida State,L,13-2,13,2,11,win,20240301_vdox,1,0,1,0,1.2,5,6,6,32.40,3.60,1,1,2024,2023-24,div1,Seminole State (FL),seminolestatecollegeofflorida,connorhensleyatvt,Connor Hensley
+Feb 27,home,St. Johns River State,W,2-1,2,1,1,win,20240227_irp0,0,0,0,0,1.0,2,,,0.00,2.00,,1,2024,2023-24,div1,Seminole State (FL),seminolestatecollegeofflorida,connorhensleyatvt,Connor Hensley
+Feb 24,home,Miami Dade,L,10-0,10,0,10,win,20240224_ovi1,0,0,0,0,1.1,3,3,3,20.25,3.75,2,1,2024,2023-24,div1,Seminole State (FL),seminolestatecollegeofflorida,connorhensleyatvt,Connor Hensley
+Feb 20,home,CCBC Catonsville,W,6-4,6,4,2,win,20240220_j89o,0,0,0,0,1.0,,,,0.00,,,1,2024,2023-24,div1,Seminole State (FL),seminolestatecollegeofflorida,connorhensleyatvt,Connor Hensley
+Feb 16,home,State College of Florida,L,3-1,3,1,2,win,20240216_25yq,0,0,0,0,3.2,1,1,,0.00,.55,1,5,2024,2023-24,div1,Seminole State (FL),seminolestatecollegeofflorida,connorhensleyatvt,Connor Hensley
+Feb 13,home,Polk State,W,3-2,3,2,1,win,20240213_aehn,1,0,0,0,2.0,1,0,0,0.00,1.00,1,1,2024,2023-24,div1,Seminole State (FL),seminolestatecollegeofflorida,connorhensleyatvt,Connor Hensley
+Feb 9,home,Lake-Sumter State,W,8-3,8,3,5,win,20240209_i43m,0,0,0,1,2.0,2,,,0.00,1.00,,2,2024,2023-24,div1,Seminole State (FL),seminolestatecollegeofflorida,connorhensleyatvt,Connor Hensley
+Feb 2,home,Lake-Sumter State,W,21-7,21,7,14,win,20240202_hcpz,0,0,0,0,0.2,1,1,,0.00,3.00,1,1,2024,2023-24,div1,Seminole State (FL),seminolestatecollegeofflorida,connorhensleyatvt,Connor Hensley
+Jan 30,home,Daytona State,W,13-2,13,2,11,win,20240130_o3ps,0,0,0,0,1.0,1,,,0.00,1.00,,,2024,2023-24,div1,Seminole State (FL),seminolestatecollegeofflorida,connorhensleyatvt,Connor Hensley
+Jan 27,home,Pasco-Hernando State,L,15-3,15,3,12,win,20240127_im1n,0,0,0,0,2.0,5,6,5,22.50,2.50,,4,2024,2023-24,div1,Seminole State (FL),seminolestatecollegeofflorida,connorhensleyatvt,Connor Hensley

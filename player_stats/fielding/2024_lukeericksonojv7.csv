@@ -1,10 +1,27 @@
 date,location,opponent,result,score,team_score,opp_score,game_score_diff,game_win_loss,game_id,TC,PO,A,E,FPCT,DP,SBA,RCS,RCS_PCT,PB,CI,season,njcaa_season,njcaa_division,team,team_id,player_id,player_name
-Jan 26,home,GateWay (AZ),L,8-2,8,2,6,win,20240126_fpe5,1,0,1,0,3.1,7,7,7,18.90,3.00,3,2024,2023-24,div1,St. Charles,stcharlescommunitycollege,lukeericksonojv7,Luke Erickson
-Feb 1,home,Cochise,L,5-4,5,4,1,win,20240201_b9af,1,0,0,0,5.0,4,3,3,5.40,1.60,4,2024,2023-24,div1,St. Charles,stcharlescommunitycollege,lukeericksonojv7,Luke Erickson
-Feb 23,home,Treasure Valley,L,9-7,9,7,2,win,20240223_g62h,1,0,1,0,5.0,3,4,4,7.20,1.00,2,2024,2023-24,div1,St. Charles,stcharlescommunitycollege,lukeericksonojv7,Luke Erickson
-Mar 1,home,USU Club,W,16-3,16,3,13,win,20240301_p3y2,0,0,0,0,2.0,3,2,2,9.00,1.50,,2024,2023-24,div1,St. Charles,stcharlescommunitycollege,lukeericksonojv7,Luke Erickson
-Mar 8,home,Colorado Northwestern,W,12-7,12,7,5,win,20240308_n1l1,0,0,0,0,1.1,2,2,1,6.75,2.25,1,2024,2023-24,div1,St. Charles,stcharlescommunitycollege,lukeericksonojv7,Luke Erickson
-Mar 16,home,Salt Lake,L,11-3,11,3,8,win,20240316_cdsx,0,0,0,0,1.1,4,4,3,20.25,3.75,1,2024,2023-24,div1,St. Charles,stcharlescommunitycollege,lukeericksonojv7,Luke Erickson
-Mar 22,home,Southern Nevada,L,11-7,11,7,4,win,20240322_btz1,0,0,0,0,2.2,6,3,3,10.13,3.38,3,2024,2023-24,div1,St. Charles,stcharlescommunitycollege,lukeericksonojv7,Luke Erickson
-Apr 28,home,Southern Nevada,L,11-1,11,1,10,win,20240428_hbm2,0,0,0,0,1.2,2,2,2,10.80,1.80,1,2024,2023-24,div1,St. Charles,stcharlescommunitycollege,lukeericksonojv7,Luke Erickson
-May 3,home,Southern Idaho,L,6-3,6,3,3,win,20240503_4k0l,0,0,0,0,1.0,1,1,,0.00,1.00,,2024,2023-24,div1,St. Charles,stcharlescommunitycollege,lukeericksonojv7,Luke Erickson
+Feb 8,home,East Central (MS),L,14-6,14,6,8,win,20240208_ytf5,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,St. Charles,stcharlescommunitycollege,lukeericksonojv7,Luke Erickson
+Feb 8,home,South Arkansas,W,11-2,11,2,9,win,20240208_jwa2,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,St. Charles,stcharlescommunitycollege,lukeericksonojv7,Luke Erickson
+Feb 9,home,South Arkansas,W,22-6,22,6,16,win,20240209_kpfm,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,St. Charles,stcharlescommunitycollege,lukeericksonojv7,Luke Erickson
+Feb 16,home,Lake Land,W,13-8,13,8,5,win,20240216_9cg2,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,St. Charles,stcharlescommunitycollege,lukeericksonojv7,Luke Erickson
+Feb 16,home,Danville Area,L,5-1,5,1,4,win,20240216_vgs5,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,St. Charles,stcharlescommunitycollege,lukeericksonojv7,Luke Erickson
+Feb 17,home,Indian Hills,L,11-1,11,1,10,win,20240217_bvbi,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,St. Charles,stcharlescommunitycollege,lukeericksonojv7,Luke Erickson
+Feb 23,home,Hinds,W,21-7,21,7,14,win,20240223_qc78,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,St. Charles,stcharlescommunitycollege,lukeericksonojv7,Luke Erickson
+Feb 27,home,Rend Lake,W,6-5,6,5,1,win,20240227_58yk,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,St. Charles,stcharlescommunitycollege,lukeericksonojv7,Luke Erickson
+Mar 1,home,Triton,W,8-0,8,0,8,win,20240301_5giv,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,St. Charles,stcharlescommunitycollege,lukeericksonojv7,Luke Erickson
+Mar 2,home,Lewis & Clark,W,7-2,7,2,5,win,20240302_f8az,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,St. Charles,stcharlescommunitycollege,lukeericksonojv7,Luke Erickson
+Mar 5,home,Moberly Area,W,11-6,11,6,5,win,20240305_nmjd,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,St. Charles,stcharlescommunitycollege,lukeericksonojv7,Luke Erickson
+Mar 6,home,Mineral Area,W,9-6,9,6,3,win,20240306_wy4q,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,St. Charles,stcharlescommunitycollege,lukeericksonojv7,Luke Erickson
+Mar 6,home,Mineral Area,W,13-1,13,1,12,win,20240306_gly3,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,St. Charles,stcharlescommunitycollege,lukeericksonojv7,Luke Erickson
+Mar 10,home,Mineral Area,W,6-3,6,3,3,win,20240310_yglq,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,St. Charles,stcharlescommunitycollege,lukeericksonojv7,Luke Erickson
+Mar 19,home,Webster University,W,25-3,25,3,22,win,20240319_j1dx,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,St. Charles,stcharlescommunitycollege,lukeericksonojv7,Luke Erickson
+Mar 21,home,Three Rivers,L,5-4,5,4,1,win,20240321_m9li,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,St. Charles,stcharlescommunitycollege,lukeericksonojv7,Luke Erickson
+Mar 21,home,Three Rivers,W,11-5,11,5,6,win,20240321_669d,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,St. Charles,stcharlescommunitycollege,lukeericksonojv7,Luke Erickson
+Mar 29,home,Crowder,W,10-7,10,7,3,win,20240329_2pek,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,St. Charles,stcharlescommunitycollege,lukeericksonojv7,Luke Erickson
+Apr 6,home,St. Louis,W,13-6,13,6,7,win,20240406_1u4v,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,St. Charles,stcharlescommunitycollege,lukeericksonojv7,Luke Erickson
+Apr 6,home,St. Louis,W,14-3,14,3,11,win,20240406_rlye,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,St. Charles,stcharlescommunitycollege,lukeericksonojv7,Luke Erickson
+Apr 9,home,John Wood,L,11-5,11,5,6,win,20240409_dr54,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,St. Charles,stcharlescommunitycollege,lukeericksonojv7,Luke Erickson
+Apr 13,home,State Fair,W,6-4,6,4,2,win,20240413_hvwe,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,St. Charles,stcharlescommunitycollege,lukeericksonojv7,Luke Erickson
+Apr 16,home,Lincoln Land,W,17-2,17,2,15,win,20240416_inbl,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,St. Charles,stcharlescommunitycollege,lukeericksonojv7,Luke Erickson
+Apr 17,home,Lewis & Clark,W,16-6,16,6,10,win,20240417_2qrt,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,St. Charles,stcharlescommunitycollege,lukeericksonojv7,Luke Erickson
+Apr 19,home,Metropolitan,W,8-4,8,4,4,win,20240419_1l41,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,St. Charles,stcharlescommunitycollege,lukeericksonojv7,Luke Erickson
+May 3,home,State Fair,W,10-1,10,1,9,win,20240503_wwrg,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,St. Charles,stcharlescommunitycollege,lukeericksonojv7,Luke Erickson

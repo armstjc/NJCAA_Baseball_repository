@@ -1,15 +1,34 @@
 date,location,opponent,result,score,team_score,opp_score,game_score_diff,game_win_loss,game_id,AB,R,H,2B,3B,HR,RBI,BB,K,SB,CS,HBP,SF,SH,TB,XBH,HDP,GO,FO,GO/FO,PA,season,njcaa_season,njcaa_division,team,team_id,player_id,player_name
-Jan 26,home,Miami Dade,W,9-0,9,0,9,win,20240126_0md2,4,0,0,,,,0,,1,,,,,,0,0,,,,,4,2024,2023-24,div1,Northwest Florida State,northwestfloridastatecollege,kendreymadurozwmp,Kendrey Maduro
-Feb 2,home,Florida SouthWestern State,W,6-3,6,3,3,win,20240202_3g7s,0,1,0,,,,0,,,1,,,,,0,0,,,,,0,2024,2023-24,div1,Northwest Florida State,northwestfloridastatecollege,kendreymadurozwmp,Kendrey Maduro
-Feb 3,home,Wabash Valley,W,5-1,5,1,4,win,20240203_czre,3,1,2,,,,0,,1,1,,,,,2,0,,,,,3,2024,2023-24,div1,Northwest Florida State,northwestfloridastatecollege,kendreymadurozwmp,Kendrey Maduro
-Feb 6,home,Lurleen B. Wallace,W,5-1,5,1,4,win,20240206_mkm6,0,0,0,,,,0,,,,,1,,,0,0,,,,,1,2024,2023-24,div1,Northwest Florida State,northwestfloridastatecollege,kendreymadurozwmp,Kendrey Maduro
-Feb 9,home,Bishop State,W,11-1,11,1,10,win,20240209_wrtj,3,1,1,,,,0,1,2,,,,,,1,0,,,,,4,2024,2023-24,div1,Northwest Florida State,northwestfloridastatecollege,kendreymadurozwmp,Kendrey Maduro
-Feb 14,home,Meridian,W,12-0,12,0,12,win,20240214_vkue,1,1,0,,,,0,1,,,,1,,,0,0,,,,,3,2024,2023-24,div1,Northwest Florida State,northwestfloridastatecollege,kendreymadurozwmp,Kendrey Maduro
-Feb 23,home,Motlow State,W,10-0,10,0,10,win,20240223_wd01,2,1,0,,,,0,1,2,1,,,,,0,0,,,,,3,2024,2023-24,div1,Northwest Florida State,northwestfloridastatecollege,kendreymadurozwmp,Kendrey Maduro
-Feb 24,home,San Jacinto,W,7-6,7,6,1,win,20240224_0ua5,1,0,0,,,,0,,,,,,,,0,0,,,,,1,2024,2023-24,div1,Northwest Florida State,northwestfloridastatecollege,kendreymadurozwmp,Kendrey Maduro
-Feb 24,home,Motlow State,W,7-1,7,1,6,win,20240224_6kmw,0,0,0,,,,0,,,1,1,,,,0,0,,,,,0,2024,2023-24,div1,Northwest Florida State,northwestfloridastatecollege,kendreymadurozwmp,Kendrey Maduro
-Mar 15,home,Tallahassee,W,9-1,9,1,8,win,20240315_9xx0,0,2,0,,,,0,1,,,,,,,0,0,,,,,1,2024,2023-24,div1,Northwest Florida State,northwestfloridastatecollege,kendreymadurozwmp,Kendrey Maduro
-Mar 27,home,Chipola,W,9-1,9,1,8,win,20240327_fctj,3,0,1,,,,0,,,,,1,,,1,0,,,,,4,2024,2023-24,div1,Northwest Florida State,northwestfloridastatecollege,kendreymadurozwmp,Kendrey Maduro
-Apr 2,home,Gulf Coast State,W,14-5,14,5,9,win,20240402_bscx,3,2,1,,,,2,1,,,,1,,,1,0,1,,,,5,2024,2023-24,div1,Northwest Florida State,northwestfloridastatecollege,kendreymadurozwmp,Kendrey Maduro
-Apr 9,home,Tallahassee,W,11-0,11,0,11,win,20240409_oacm,0,1,0,,,,0,,,,,,,,0,0,,,,,0,2024,2023-24,div1,Northwest Florida State,northwestfloridastatecollege,kendreymadurozwmp,Kendrey Maduro
-Apr 18,home,Pensacola State,W,10-0,10,0,10,win,20240418_j60e,0,1,0,,,,0,,,,,,,,0,0,,,,,0,2024,2023-24,div1,Northwest Florida State,northwestfloridastatecollege,kendreymadurozwmp,Kendrey Maduro
+Jan 26,home,Florida SouthWestern State,W,20-10,20,10,10,win,20240126_28o1,3,2,1,,,1,3,2,1,,,1,,,4,1,,,,,6,2024,2023-24,div1,Northwest Florida State,northwestfloridastatecollege,kendreymadurozwmp,Kendrey Maduro
+Jan 26,home,Miami Dade,W,9-0,9,0,9,win,20240126_0md2,3,1,1,1,,,0,2,,1,,,,,2,1,,,,,5,2024,2023-24,div1,Northwest Florida State,northwestfloridastatecollege,kendreymadurozwmp,Kendrey Maduro
+Feb 2,home,Florida SouthWestern State,W,6-3,6,3,3,win,20240202_3g7s,3,1,2,,,,0,,1,,,,,,2,0,,,,,3,2024,2023-24,div1,Northwest Florida State,northwestfloridastatecollege,kendreymadurozwmp,Kendrey Maduro
+Feb 3,home,Wabash Valley,W,5-1,5,1,4,win,20240203_czre,4,0,1,,,,0,,1,,,,,,1,0,,,,,4,2024,2023-24,div1,Northwest Florida State,northwestfloridastatecollege,kendreymadurozwmp,Kendrey Maduro
+Feb 6,home,Lurleen B. Wallace,W,5-1,5,1,4,win,20240206_mkm6,5,0,1,,,,0,,1,,,,,,1,0,,,,,5,2024,2023-24,div1,Northwest Florida State,northwestfloridastatecollege,kendreymadurozwmp,Kendrey Maduro
+Feb 9,home,Bishop State,W,11-1,11,1,10,win,20240209_wrtj,3,1,0,,,,0,,1,2,,,,,0,0,,,,,3,2024,2023-24,div1,Northwest Florida State,northwestfloridastatecollege,kendreymadurozwmp,Kendrey Maduro
+Feb 14,home,Meridian,W,4-2,4,2,2,win,20240214_jlla,3,1,1,,,1,1,,1,,,1,,,4,1,1,,,,4,2024,2023-24,div1,Northwest Florida State,northwestfloridastatecollege,kendreymadurozwmp,Kendrey Maduro
+Feb 14,home,Meridian,W,12-0,12,0,12,win,20240214_vkue,2,2,2,1,,,1,1,,,,,1,,3,1,,,,,4,2024,2023-24,div1,Northwest Florida State,northwestfloridastatecollege,kendreymadurozwmp,Kendrey Maduro
+Feb 20,home,Baton Rouge,W,12-3,12,3,9,win,20240220_qwau,3,2,1,1,,,0,1,1,,,,,,2,1,,,,,4,2024,2023-24,div1,Northwest Florida State,northwestfloridastatecollege,kendreymadurozwmp,Kendrey Maduro
+Feb 20,home,Baton Rouge,W,14-7,14,7,7,win,20240220_lovd,4,2,1,,,1,1,,,,,1,,,4,1,,,,,5,2024,2023-24,div1,Northwest Florida State,northwestfloridastatecollege,kendreymadurozwmp,Kendrey Maduro
+Feb 23,home,San Jacinto,W,11-2,11,2,9,win,20240223_3h79,3,1,1,1,,,2,1,1,,,,,,2,1,,,,,4,2024,2023-24,div1,Northwest Florida State,northwestfloridastatecollege,kendreymadurozwmp,Kendrey Maduro
+Feb 23,home,Motlow State,W,10-0,10,0,10,win,20240223_wd01,3,0,2,,,,1,,1,,,,,,2,0,,,,,3,2024,2023-24,div1,Northwest Florida State,northwestfloridastatecollege,kendreymadurozwmp,Kendrey Maduro
+Feb 24,home,San Jacinto,W,7-6,7,6,1,win,20240224_0ua5,5,2,2,,,1,2,,1,,,,,,5,1,,,,,5,2024,2023-24,div1,Northwest Florida State,northwestfloridastatecollege,kendreymadurozwmp,Kendrey Maduro
+Feb 24,home,Motlow State,W,7-1,7,1,6,win,20240224_6kmw,4,0,0,,,,1,,,,,,,,0,0,,,,,4,2024,2023-24,div1,Northwest Florida State,northwestfloridastatecollege,kendreymadurozwmp,Kendrey Maduro
+Feb 29,home,Shelton State,W,16-8,16,8,8,win,20240229_doht,5,3,3,1,,,1,,,,,1,,,4,1,,,,,6,2024,2023-24,div1,Northwest Florida State,northwestfloridastatecollege,kendreymadurozwmp,Kendrey Maduro
+Mar 7,home,Chipola,W,5-1,5,1,4,win,20240307_1ops,4,0,1,,,,1,,1,,,,,,1,0,,,,,4,2024,2023-24,div1,Northwest Florida State,northwestfloridastatecollege,kendreymadurozwmp,Kendrey Maduro
+Mar 11,home,Gulf Coast State,W,10-2,10,2,8,win,20240311_4p4q,3,1,0,,,,0,1,,1,,,,,0,0,,,,,4,2024,2023-24,div1,Northwest Florida State,northwestfloridastatecollege,kendreymadurozwmp,Kendrey Maduro
+Mar 15,home,Tallahassee,W,9-1,9,1,8,win,20240315_9xx0,4,0,1,1,,,1,,,,,,,,2,1,,,,,4,2024,2023-24,div1,Northwest Florida State,northwestfloridastatecollege,kendreymadurozwmp,Kendrey Maduro
+Mar 16,home,Tallahassee,W,6-4,6,4,2,win,20240316_psnm,5,1,2,,,,1,,,,,,,,2,0,1,,,,5,2024,2023-24,div1,Northwest Florida State,northwestfloridastatecollege,kendreymadurozwmp,Kendrey Maduro
+Mar 20,home,Pensacola State,W,13-8,13,8,5,win,20240320_ax4c,6,0,1,,,,0,,4,,,,,,1,0,,,,,6,2024,2023-24,div1,Northwest Florida State,northwestfloridastatecollege,kendreymadurozwmp,Kendrey Maduro
+Mar 27,home,Chipola,W,9-1,9,1,8,win,20240327_fctj,4,0,1,,,,1,,,,,,,,1,0,,,,,4,2024,2023-24,div1,Northwest Florida State,northwestfloridastatecollege,kendreymadurozwmp,Kendrey Maduro
+Mar 30,home,Chipola,W,9-1,9,1,8,win,20240330_x2al,3,1,0,,,,1,1,1,,,,,,0,0,1,,,,4,2024,2023-24,div1,Northwest Florida State,northwestfloridastatecollege,kendreymadurozwmp,Kendrey Maduro
+Apr 2,home,Gulf Coast State,W,14-5,14,5,9,win,20240402_bscx,2,3,1,,,,0,1,1,,,1,,,1,0,,,,,4,2024,2023-24,div1,Northwest Florida State,northwestfloridastatecollege,kendreymadurozwmp,Kendrey Maduro
+Apr 4,home,Gulf Coast State,W,10-1,10,1,9,win,20240404_p0p5,3,1,1,,,1,1,,1,,,1,,,4,1,,,,,4,2024,2023-24,div1,Northwest Florida State,northwestfloridastatecollege,kendreymadurozwmp,Kendrey Maduro
+Apr 6,home,Gulf Coast State,W,7-6,7,6,1,win,20240406_6ifp,4,1,1,,1,,1,,1,,,,,,3,1,,,,,4,2024,2023-24,div1,Northwest Florida State,northwestfloridastatecollege,kendreymadurozwmp,Kendrey Maduro
+Apr 9,home,Tallahassee,W,11-0,11,0,11,win,20240409_oacm,3,1,2,,,,2,,,,,,,,2,0,,,,,3,2024,2023-24,div1,Northwest Florida State,northwestfloridastatecollege,kendreymadurozwmp,Kendrey Maduro
+Apr 11,home,Tallahassee,W,11-1,11,1,10,win,20240411_qp79,3,0,1,,,,2,,,,,,,,1,0,,,,,3,2024,2023-24,div1,Northwest Florida State,northwestfloridastatecollege,kendreymadurozwmp,Kendrey Maduro
+Apr 13,home,Tallahassee,W,10-0,10,0,10,win,20240413_ierd,3,2,2,,,2,5,,,,,,,,8,2,,,1,,3,2024,2023-24,div1,Northwest Florida State,northwestfloridastatecollege,kendreymadurozwmp,Kendrey Maduro
+Apr 16,home,Pensacola State,W,10-0,10,0,10,win,20240416_23ox,3,1,1,,,1,1,,,,,,,,4,1,,,,,3,2024,2023-24,div1,Northwest Florida State,northwestfloridastatecollege,kendreymadurozwmp,Kendrey Maduro
+Apr 18,home,Pensacola State,W,10-0,10,0,10,win,20240418_j60e,2,0,1,1,,,0,2,1,,,,,,2,1,,,,,4,2024,2023-24,div1,Northwest Florida State,northwestfloridastatecollege,kendreymadurozwmp,Kendrey Maduro
+Apr 20,home,Pensacola State,W,12-2,12,2,10,win,20240420_6yd2,3,1,1,,,1,4,,,,,,,,4,1,,,,,3,2024,2023-24,div1,Northwest Florida State,northwestfloridastatecollege,kendreymadurozwmp,Kendrey Maduro
+May 3,home,Polk State,W,12-4,12,4,8,win,20240503_r0na,4,3,4,,,3,5,,,,,,,,13,3,,,,,4,2024,2023-24,div1,Northwest Florida State,northwestfloridastatecollege,kendreymadurozwmp,Kendrey Maduro
+May 4,home,Polk State,W,14-4,14,4,10,win,20240504_dxjq,5,1,1,,,,0,,,,,,,,1,0,,,,,5,2024,2023-24,div1,Northwest Florida State,northwestfloridastatecollege,kendreymadurozwmp,Kendrey Maduro

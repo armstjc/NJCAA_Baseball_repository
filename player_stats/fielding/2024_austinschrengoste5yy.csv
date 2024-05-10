@@ -1,12 +1,26 @@
 date,location,opponent,result,score,team_score,opp_score,game_score_diff,game_win_loss,game_id,TC,PO,A,E,FPCT,DP,SBA,RCS,RCS_PCT,PB,CI,season,njcaa_season,njcaa_division,team,team_id,player_id,player_name
-Feb 10,home,Southwestern,W,7-4,7,4,3,win,20240210_4761,0,0,0,0,2.0,1,,,0.00,.50,,2024,2023-24,div1,Columbia State,columbiastatecommunitycollege,austinschrengoste5yy,Austin Schrengost
-Mar 1,home,Hutchinson,L,15-3,15,3,12,win,20240301_5ibo,0,0,0,0,1.1,5,4,4,27.00,4.50,1,2024,2023-24,div1,Columbia State,columbiastatecommunitycollege,austinschrengoste5yy,Austin Schrengost
-Mar 9,home,Cowley,W,6-4,6,4,2,win,20240309_qb0c,0,0,0,0,0.1,1,,,0.00,3.00,,2024,2023-24,div1,Columbia State,columbiastatecommunitycollege,austinschrengoste5yy,Austin Schrengost
-Mar 12,home,Butler,W,14-11,14,11,3,win,20240312_s5sw,0,0,0,0,3.0,3,1,1,3.00,1.33,1,2024,2023-24,div1,Columbia State,columbiastatecommunitycollege,austinschrengoste5yy,Austin Schrengost
-Mar 14,home,Kansas City Kansas,L,3-2,3,2,1,win,20240314_a19y,0,0,0,0,0.1,,,,0.00,6.00,2,2024,2023-24,div1,Columbia State,columbiastatecommunitycollege,austinschrengoste5yy,Austin Schrengost
-Mar 23,home,Neosho County,L,7-0,7,0,7,win,20240323_n2wf,0,0,0,0,0.2,,,,0.00,,,2024,2023-24,div1,Columbia State,columbiastatecommunitycollege,austinschrengoste5yy,Austin Schrengost
-Mar 30,home,Fort Scott,L,23-4,23,4,19,win,20240330_tllk,0,0,0,0,3.1,7,5,5,13.50,2.40,1,2024,2023-24,div1,Columbia State,columbiastatecommunitycollege,austinschrengoste5yy,Austin Schrengost
-Apr 4,home,Johnson County,L,5-3,5,3,2,win,20240404_bh0t,0,0,1,0,0.1,1,2,2,54.00,6.00,1,2024,2023-24,div1,Columbia State,columbiastatecommunitycollege,austinschrengoste5yy,Austin Schrengost
-Apr 16,home,Butler,W,20-10,20,10,10,win,20240416_onlw,0,1,0,0,2.2,3,,,0.00,1.88,2,2024,2023-24,div1,Columbia State,columbiastatecommunitycollege,austinschrengoste5yy,Austin Schrengost
-Apr 20,home,Barton,L,7-4,7,4,3,win,20240420_f3el,0,0,1,0,0.2,2,4,4,54.00,6.00,2,2024,2023-24,div1,Columbia State,columbiastatecommunitycollege,austinschrengoste5yy,Austin Schrengost
-May 1,home,Labette,W,10-3,10,3,7,win,20240501_wi93,0,0,0,1,2.2,1,,,0.00,.38,,2024,2023-24,div1,Columbia State,columbiastatecommunitycollege,austinschrengoste5yy,Austin Schrengost
+Feb 3,home,Northeast Mississippi,L,3-1,3,1,2,win,20240203_o3b0,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Columbia State,columbiastatecommunitycollege,austinschrengoste5yy,Austin Schrengost
+Feb 7,home,Wallace State,W,6-3,6,3,3,win,20240207_jzfr,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Columbia State,columbiastatecommunitycollege,austinschrengoste5yy,Austin Schrengost
+Feb 10,home,Danville Area,W,32-11,32,11,21,win,20240210_spek,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Columbia State,columbiastatecommunitycollege,austinschrengoste5yy,Austin Schrengost
+Feb 13,home,Olney Central,W,11-10,11,10,1,win,20240213_ht5a,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Columbia State,columbiastatecommunitycollege,austinschrengoste5yy,Austin Schrengost
+Feb 15,home,Chipola,L,13-4,13,4,9,win,20240215_rv2d,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Columbia State,columbiastatecommunitycollege,austinschrengoste5yy,Austin Schrengost
+Feb 16,home,Chipola,L,6-4,6,4,2,win,20240216_tsew,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Columbia State,columbiastatecommunitycollege,austinschrengoste5yy,Austin Schrengost
+Feb 16,home,Chipola,L,5-2,5,2,3,win,20240216_a3a5,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Columbia State,columbiastatecommunitycollege,austinschrengoste5yy,Austin Schrengost
+Feb 21,home,Wallace State,W,16-15,16,15,1,win,20240221_9xvc,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Columbia State,columbiastatecommunitycollege,austinschrengoste5yy,Austin Schrengost
+Feb 27,home,Snead State,W,10-6,10,6,4,win,20240227_k83u,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Columbia State,columbiastatecommunitycollege,austinschrengoste5yy,Austin Schrengost
+Feb 29,home,Grand Rapids,L,7-5,7,5,2,win,20240229_o5bu,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Columbia State,columbiastatecommunitycollege,austinschrengoste5yy,Austin Schrengost
+Mar 2,home,Walters State,W,8-7,8,7,1,win,20240302_3dnr,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Columbia State,columbiastatecommunitycollege,austinschrengoste5yy,Austin Schrengost
+Mar 3,home,Walters State,W,12-11,12,11,1,win,20240303_0afb,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Columbia State,columbiastatecommunitycollege,austinschrengoste5yy,Austin Schrengost
+Mar 3,home,Walters State,L,8-1,8,1,7,win,20240303_max9,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Columbia State,columbiastatecommunitycollege,austinschrengoste5yy,Austin Schrengost
+Mar 4,home,Wabash Valley,W,6-4,6,4,2,win,20240304_7w7h,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Columbia State,columbiastatecommunitycollege,austinschrengoste5yy,Austin Schrengost
+Mar 10,home,Roane State,L,4-2,4,2,2,win,20240310_799u,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Columbia State,columbiastatecommunitycollege,austinschrengoste5yy,Austin Schrengost
+Mar 11,home,Roane State,W,7-1,7,1,6,win,20240311_ii7m,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Columbia State,columbiastatecommunitycollege,austinschrengoste5yy,Austin Schrengost
+Mar 12,home,Northwest-Shoals Community College,W,9-6,9,6,3,win,20240312_2ka1,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Columbia State,columbiastatecommunitycollege,austinschrengoste5yy,Austin Schrengost
+Mar 13,home,Kishwaukee,W,13-3,13,3,10,win,20240313_dcy9,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Columbia State,columbiastatecommunitycollege,austinschrengoste5yy,Austin Schrengost
+Mar 17,home,Dyersburg State,W,4-3,4,3,1,win,20240317_hr2h,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Columbia State,columbiastatecommunitycollege,austinschrengoste5yy,Austin Schrengost
+Mar 24,home,Volunteer State,W,16-3,16,3,13,win,20240324_gwra,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Columbia State,columbiastatecommunitycollege,austinschrengoste5yy,Austin Schrengost
+Mar 30,home,Jackson State,W,11-1,11,1,10,win,20240330_l5bs,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Columbia State,columbiastatecommunitycollege,austinschrengoste5yy,Austin Schrengost
+Apr 15,home,Northwest-Shoals Community College,W,18-12,18,12,6,win,20240415_n6eg,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Columbia State,columbiastatecommunitycollege,austinschrengoste5yy,Austin Schrengost
+Apr 20,home,Motlow State,L,9-5,9,5,4,win,20240420_tnwa,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Columbia State,columbiastatecommunitycollege,austinschrengoste5yy,Austin Schrengost
+Apr 23,home,Calhoun,W,21-10,21,10,11,win,20240423_hf1v,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Columbia State,columbiastatecommunitycollege,austinschrengoste5yy,Austin Schrengost
+May 7,home,Dyersburg State,L,14-9,14,9,5,win,20240507_dlin,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Columbia State,columbiastatecommunitycollege,austinschrengoste5yy,Austin Schrengost

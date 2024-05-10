@@ -1,8 +1,18 @@
 date,location,opponent,result,score,team_score,opp_score,game_score_diff,game_win_loss,game_id,AB,R,H,2B,3B,HR,RBI,BB,K,SB,CS,HBP,SF,SH,TB,XBH,HDP,GO,FO,GO/FO,PA,season,njcaa_season,njcaa_division,team,team_id,player_id,player_name
-Feb 24,home,Arkansas State Mid-South,W,15-5,15,5,10,win,20240224_h6w9,0,0,0,,,,0,,,,,,,,0,0,,,,,0,2024,2023-24,div2,Lake County,collegeoflakecounty,kyleniebowqc2g,Kyle Niebow
-Mar 4,home,Henry Ford,W,13-3,13,3,10,win,20240304_x5lt,0,0,0,,,,0,,,,,,,,0,0,,,,,0,2024,2023-24,div2,Lake County,collegeoflakecounty,kyleniebowqc2g,Kyle Niebow
-Mar 16,home,Milwaukee Area Tech,W,7-5,7,5,2,win,20240316_1cx1,0,0,0,,,,0,,,,,,,,0,0,,,,,0,2024,2023-24,div2,Lake County,collegeoflakecounty,kyleniebowqc2g,Kyle Niebow
-Apr 6,home,Moraine Valley,W,5-3,5,3,2,win,20240406_ty0u,0,0,0,,,,0,,,,,,,,0,0,,,,,0,2024,2023-24,div2,Lake County,collegeoflakecounty,kyleniebowqc2g,Kyle Niebow
-Apr 11,home,Triton,W,3-1,3,1,2,win,20240411_snvl,0,0,0,,,,0,,,,,,,,0,0,,,,,0,2024,2023-24,div2,Lake County,collegeoflakecounty,kyleniebowqc2g,Kyle Niebow
-Apr 27,home,Waubonsee,W,9-2,9,2,7,win,20240427_2570,0,0,0,,,,0,,,,,,,,0,0,,,,,0,2024,2023-24,div2,Lake County,collegeoflakecounty,kyleniebowqc2g,Kyle Niebow
-Apr 30,home,Bryant & Stratton College (WI),W,13-6,13,6,7,win,20240430_fok0,0,0,0,,,,0,,,,,,,,0,0,,,,,0,2024,2023-24,div2,Lake County,collegeoflakecounty,kyleniebowqc2g,Kyle Niebow
+Mar 2,home,St. Cloud Tech,W,7-3,7,3,4,win,20240302_cew6,4,1,1,,,,0,,2,,,,,,1,0,,,,,4,2024,2023-24,div2,Lake County,collegeoflakecounty,kyleniebowqc2g,Kyle Niebow
+Mar 3,home,Chesapeake,W,10-3,10,3,7,win,20240303_bp5m,3,1,0,,,,0,1,1,,,,,,0,0,,,,,4,2024,2023-24,div2,Lake County,collegeoflakecounty,kyleniebowqc2g,Kyle Niebow
+Mar 4,home,Henry Ford,W,13-3,13,3,10,win,20240304_x5lt,2,0,1,,1,,0,,,,,,,,3,1,,,,,2,2024,2023-24,div2,Lake County,collegeoflakecounty,kyleniebowqc2g,Kyle Niebow
+Mar 6,home,Delta,W,10-0,10,0,10,win,20240306_dup7,2,0,1,1,,,2,1,,,,,,,2,1,,,,,3,2024,2023-24,div2,Lake County,collegeoflakecounty,kyleniebowqc2g,Kyle Niebow
+Mar 7,home,Hagerstown,W,6-3,6,3,3,win,20240307_r292,1,1,0,,,,0,2,,,,,,,0,0,,,,,3,2024,2023-24,div2,Lake County,collegeoflakecounty,kyleniebowqc2g,Kyle Niebow
+Mar 16,home,Milwaukee Area Tech,W,7-5,7,5,2,win,20240316_1cx1,4,2,4,1,,,1,,,,,,,,5,1,,,,,4,2024,2023-24,div2,Lake County,collegeoflakecounty,kyleniebowqc2g,Kyle Niebow
+Mar 21,home,Joliet,W,4-0,4,0,4,win,20240321_wkmn,3,0,1,,,,1,,2,,,,,,1,0,,,,,3,2024,2023-24,div2,Lake County,collegeoflakecounty,kyleniebowqc2g,Kyle Niebow
+Mar 29,home,Highland (IL),W,3-2,3,2,1,win,20240329_xfbn,3,1,0,,,,0,,1,,,,,,0,0,,,,,3,2024,2023-24,div2,Lake County,collegeoflakecounty,kyleniebowqc2g,Kyle Niebow
+Apr 6,home,Moraine Valley,W,5-3,5,3,2,win,20240406_ty0u,1,0,0,,,,0,,1,,,,,,0,0,,,,,1,2024,2023-24,div2,Lake County,collegeoflakecounty,kyleniebowqc2g,Kyle Niebow
+Apr 13,home,Prairie State,W,6-1,6,1,5,win,20240413_9jlr,3,0,0,,,,0,,1,,,,,,0,0,,,,,3,2024,2023-24,div2,Lake County,collegeoflakecounty,kyleniebowqc2g,Kyle Niebow
+Apr 16,home,Elgin,W,4-3,4,3,1,win,20240416_27r2,2,2,1,1,,,0,2,1,2,,,,,2,1,,,,,4,2024,2023-24,div2,Lake County,collegeoflakecounty,kyleniebowqc2g,Kyle Niebow
+Apr 23,home,Oakton,W,5-2,5,2,3,win,20240423_fvn5,3,1,1,1,,,1,,1,,,,,,2,1,,,,,3,2024,2023-24,div2,Lake County,collegeoflakecounty,kyleniebowqc2g,Kyle Niebow
+Apr 26,home,Kankakee,W,7-6,7,6,1,win,20240426_2kii,3,1,0,,,,0,,1,,,1,,,0,0,,,,,4,2024,2023-24,div2,Lake County,collegeoflakecounty,kyleniebowqc2g,Kyle Niebow
+Apr 27,home,Waubonsee,W,5-2,5,2,3,win,20240427_ghuq,4,0,1,1,,,2,,,,,,,,2,1,,,,,4,2024,2023-24,div2,Lake County,collegeoflakecounty,kyleniebowqc2g,Kyle Niebow
+Apr 27,home,Waubonsee,W,9-2,9,2,7,win,20240427_2570,4,0,1,,,,1,,1,,,,,,1,0,,,,,4,2024,2023-24,div2,Lake County,collegeoflakecounty,kyleniebowqc2g,Kyle Niebow
+Apr 30,home,Bryant & Stratton College (WI),W,13-6,13,6,7,win,20240430_fok0,3,1,2,,,,1,1,1,,,,,,2,0,,,,,4,2024,2023-24,div2,Lake County,collegeoflakecounty,kyleniebowqc2g,Kyle Niebow
+May 2,home,Waubonsee,W,6-4,6,4,2,win,20240502_12xz,3,2,1,,,,0,1,,1,,,,,1,0,,,,,4,2024,2023-24,div2,Lake County,collegeoflakecounty,kyleniebowqc2g,Kyle Niebow

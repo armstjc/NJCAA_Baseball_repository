@@ -1,4 +1,41 @@
 date,location,opponent,result,score,team_score,opp_score,game_score_diff,game_win_loss,game_id,AB,R,H,2B,3B,HR,RBI,BB,K,SB,CS,HBP,SF,SH,TB,XBH,HDP,GO,FO,GO/FO,PA,season,njcaa_season,njcaa_division,team,team_id,player_id,player_name
-Feb 10,home,Trinidad State,W,18-2,18,2,16,win,20240210_egtu,2,1,1,1,,,0,,,,,,,,2,1,,,,,2,2024,2023-24,div1,Midland,midlandcollege,parkeribrahimikonq,Parker Ibrahimi
-Feb 16,home,Dallas College - Richland,W,12-2,12,2,10,win,20240216_xwol,0,1,0,,,,0,1,,,,,,,0,0,,,,,1,2024,2023-24,div1,Midland,midlandcollege,parkeribrahimikonq,Parker Ibrahimi
-Feb 17,home,Seward County,W,8-1,8,1,7,win,20240217_7hzu,0,0,0,,,,0,1,,,,,,,0,0,,,,,1,2024,2023-24,div1,Midland,midlandcollege,parkeribrahimikonq,Parker Ibrahimi
+Feb 3,home,Alvin,W,12-2,12,2,10,win,20240203_z4f4,3,2,1,,,1,1,2,1,,,,,,4,1,,,,,5,2024,2023-24,div1,Midland,midlandcollege,parkeribrahimikonq,Parker Ibrahimi
+Feb 9,home,Trinidad State,W,6-5,6,5,1,win,20240209_gymv,3,0,0,,,,1,1,,,,,,,0,0,,,,,4,2024,2023-24,div1,Midland,midlandcollege,parkeribrahimikonq,Parker Ibrahimi
+Feb 9,home,Trinidad State,W,13-11,13,11,2,win,20240209_44lo,4,2,1,,,,1,1,1,,,,,,1,0,,,,,5,2024,2023-24,div1,Midland,midlandcollege,parkeribrahimikonq,Parker Ibrahimi
+Feb 10,home,Trinidad State,W,18-2,18,2,16,win,20240210_egtu,4,2,4,,,,1,,,,,,,,4,0,,,,,4,2024,2023-24,div1,Midland,midlandcollege,parkeribrahimikonq,Parker Ibrahimi
+Feb 16,home,Dallas College - Richland,W,12-2,12,2,10,win,20240216_xwol,4,2,1,,,1,2,1,,,,,,,4,1,,,,,5,2024,2023-24,div1,Midland,midlandcollege,parkeribrahimikonq,Parker Ibrahimi
+Feb 17,home,Seward County,W,8-1,8,1,7,win,20240217_7hzu,3,1,1,,,,0,1,1,,,,,,1,0,,,,,4,2024,2023-24,div1,Midland,midlandcollege,parkeribrahimikonq,Parker Ibrahimi
+Feb 23,home,Wayland Baptist,W,12-2,12,2,10,win,20240223_pjmr,1,3,1,,,1,2,3,,,,,,,4,1,,,,,4,2024,2023-24,div1,Midland,midlandcollege,parkeribrahimikonq,Parker Ibrahimi
+Feb 23,home,Wayland Baptist,W,13-3,13,3,10,win,20240223_akp2,3,2,0,,,,0,1,1,,,,,,0,0,,,,,4,2024,2023-24,div1,Midland,midlandcollege,parkeribrahimikonq,Parker Ibrahimi
+Feb 27,home,North Central Texas,W,14-4,14,4,10,win,20240227_pcan,4,1,1,,,1,3,,1,,,,,,4,1,,,,,4,2024,2023-24,div1,Midland,midlandcollege,parkeribrahimikonq,Parker Ibrahimi
+Feb 27,home,North Central Texas,W,7-6,7,6,1,win,20240227_1nrz,3,1,1,,,1,1,1,,,,,,,4,1,,,,,4,2024,2023-24,div1,Midland,midlandcollege,parkeribrahimikonq,Parker Ibrahimi
+Mar 1,home,Temple,W,13-11,13,11,2,win,20240301_vf4l,5,2,1,,,,0,,2,,,,,,1,0,,,,,5,2024,2023-24,div1,Midland,midlandcollege,parkeribrahimikonq,Parker Ibrahimi
+Mar 5,home,Western Texas,W,25-1,25,1,24,win,20240305_plq6,5,5,4,1,,1,3,,1,,,1,,,8,2,,,,,6,2024,2023-24,div1,Midland,midlandcollege,parkeribrahimikonq,Parker Ibrahimi
+Mar 8,home,Odessa,W,5-2,5,2,3,win,20240308_inol,3,0,0,,,,0,1,2,,,,,,0,0,,,,,4,2024,2023-24,div1,Midland,midlandcollege,parkeribrahimikonq,Parker Ibrahimi
+Mar 8,home,Odessa,W,5-4,5,4,1,win,20240308_jy8d,4,0,0,,,,0,,1,,,,,,0,0,,,,,4,2024,2023-24,div1,Midland,midlandcollege,parkeribrahimikonq,Parker Ibrahimi
+Mar 15,home,El Paso,W,7-0,7,0,7,win,20240315_vktp,2,1,1,,,,0,2,,,1,,,,1,0,,,,,4,2024,2023-24,div1,Midland,midlandcollege,parkeribrahimikonq,Parker Ibrahimi
+Mar 15,home,El Paso,W,4-3,4,3,1,win,20240315_0z93,3,0,0,,,,0,1,1,,,,,1,0,0,,,,,5,2024,2023-24,div1,Midland,midlandcollege,parkeribrahimikonq,Parker Ibrahimi
+Mar 16,home,El Paso,W,13-3,13,3,10,win,20240316_jqdd,3,1,1,,,,2,,,,,,1,,1,0,,,,,4,2024,2023-24,div1,Midland,midlandcollege,parkeribrahimikonq,Parker Ibrahimi
+Mar 16,home,El Paso,W,7-2,7,2,5,win,20240316_250r,4,0,0,,,,0,1,,,,,,,0,0,,,,,5,2024,2023-24,div1,Midland,midlandcollege,parkeribrahimikonq,Parker Ibrahimi
+Mar 22,home,New Mexico Military,W,17-3,17,3,14,win,20240322_9uco,2,1,0,,,,1,1,2,,,,,,0,0,,,,,3,2024,2023-24,div1,Midland,midlandcollege,parkeribrahimikonq,Parker Ibrahimi
+Mar 22,home,New Mexico Military,W,13-7,13,7,6,win,20240322_95k7,1,1,0,,,,1,1,1,,,,,,0,0,,,,,2,2024,2023-24,div1,Midland,midlandcollege,parkeribrahimikonq,Parker Ibrahimi
+Mar 23,home,New Mexico Military,W,23-10,23,10,13,win,20240323_suwl,3,2,3,2,1,,2,2,,,,,,,7,3,,,,,5,2024,2023-24,div1,Midland,midlandcollege,parkeribrahimikonq,Parker Ibrahimi
+Mar 28,home,Clarendon,W,15-10,15,10,5,win,20240328_rkx0,3,2,2,2,,,1,1,,1,,,,,4,2,,,,,4,2024,2023-24,div1,Midland,midlandcollege,parkeribrahimikonq,Parker Ibrahimi
+Mar 28,home,Clarendon,W,18-3,18,3,15,win,20240328_3yv8,1,1,0,,,,2,1,1,,,,2,,0,0,,,,,4,2024,2023-24,div1,Midland,midlandcollege,parkeribrahimikonq,Parker Ibrahimi
+Mar 29,home,Clarendon,W,24-3,24,3,21,win,20240329_rr5u,4,2,1,,,,0,1,1,,,,,,1,0,,,,,5,2024,2023-24,div1,Midland,midlandcollege,parkeribrahimikonq,Parker Ibrahimi
+Mar 29,home,Clarendon,W,12-11,12,11,1,win,20240329_3zyn,3,2,2,2,,,0,2,,,,,,,4,2,,,,,5,2024,2023-24,div1,Midland,midlandcollege,parkeribrahimikonq,Parker Ibrahimi
+Apr 5,home,Amarillo College,W,14-2,14,2,12,win,20240405_5tvh,2,1,1,,,,2,,,,,1,,,1,0,,,,,3,2024,2023-24,div1,Midland,midlandcollege,parkeribrahimikonq,Parker Ibrahimi
+Apr 6,home,Amarillo College,W,6-0,6,0,6,win,20240406_ug7z,1,1,0,,,,0,1,,,,,,,0,0,,,,,2,2024,2023-24,div1,Midland,midlandcollege,parkeribrahimikonq,Parker Ibrahimi
+Apr 6,home,Amarillo College,W,18-8,18,8,10,win,20240406_nqjs,2,3,1,,1,,0,1,1,1,,1,,,3,1,,,,,4,2024,2023-24,div1,Midland,midlandcollege,parkeribrahimikonq,Parker Ibrahimi
+Apr 12,home,Howard (TX),W,13-2,13,2,11,win,20240412_922b,3,1,1,,,,1,,,,,,,,1,0,,,,,3,2024,2023-24,div1,Midland,midlandcollege,parkeribrahimikonq,Parker Ibrahimi
+Apr 12,home,Howard (TX),W,20-12,20,12,8,win,20240412_03lo,3,3,2,,,,3,1,,1,,,1,,2,0,,,,,5,2024,2023-24,div1,Midland,midlandcollege,parkeribrahimikonq,Parker Ibrahimi
+Apr 18,home,Frank Phillips,W,11-1,11,1,10,win,20240418_z0p8,2,3,2,,,,2,1,,,,,,,2,0,,,,,3,2024,2023-24,div1,Midland,midlandcollege,parkeribrahimikonq,Parker Ibrahimi
+Apr 18,home,Frank Phillips,W,9-0,9,0,9,win,20240418_uwe5,3,0,1,,,,1,,1,1,,,,,1,0,,,,,3,2024,2023-24,div1,Midland,midlandcollege,parkeribrahimikonq,Parker Ibrahimi
+Apr 19,home,Frank Phillips,W,10-9,10,9,1,win,20240419_bsxz,4,1,1,,,,0,,,,,,,,1,0,,,,,4,2024,2023-24,div1,Midland,midlandcollege,parkeribrahimikonq,Parker Ibrahimi
+Apr 26,home,New Mexico,W,16-11,16,11,5,win,20240426_csxv,4,1,2,2,,,1,1,,1,,,,,4,2,,,,,5,2024,2023-24,div1,Midland,midlandcollege,parkeribrahimikonq,Parker Ibrahimi
+Apr 27,home,New Mexico,W,4-3,4,3,1,win,20240427_aau1,3,1,2,,1,,1,,1,,,,,,4,1,,,,,3,2024,2023-24,div1,Midland,midlandcollege,parkeribrahimikonq,Parker Ibrahimi
+Apr 27,home,New Mexico,W,12-9,12,9,3,win,20240427_366a,3,0,0,,,,1,1,2,,,,1,,0,0,,,,,5,2024,2023-24,div1,Midland,midlandcollege,parkeribrahimikonq,Parker Ibrahimi
+May 3,home,Western Texas,W,13-1,13,1,12,win,20240503_i2n9,3,3,3,2,,,3,1,,,,,,,5,2,,,,,4,2024,2023-24,div1,Midland,midlandcollege,parkeribrahimikonq,Parker Ibrahimi
+May 3,home,Western Texas,W,8-6,8,6,2,win,20240503_5iuc,4,2,2,1,,,1,1,1,,,,,,3,1,,,,,5,2024,2023-24,div1,Midland,midlandcollege,parkeribrahimikonq,Parker Ibrahimi
+May 4,home,Western Texas,W,2-1,2,1,1,win,20240504_2rp6,3,0,0,,,,0,,,,,,,,0,0,,,,,3,2024,2023-24,div1,Midland,midlandcollege,parkeribrahimikonq,Parker Ibrahimi
+May 5,home,Western Texas,W,15-3,15,3,12,win,20240505_4afy,4,1,2,,,,2,,,1,,,,,2,0,,,,,4,2024,2023-24,div1,Midland,midlandcollege,parkeribrahimikonq,Parker Ibrahimi

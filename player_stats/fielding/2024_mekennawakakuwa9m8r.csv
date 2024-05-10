@@ -1,44 +1,9 @@
 date,location,opponent,result,score,team_score,opp_score,game_score_diff,game_win_loss,game_id,TC,PO,A,E,FPCT,DP,SBA,RCS,RCS_PCT,PB,CI,season,njcaa_season,njcaa_division,team,team_id,player_id,player_name
-Feb 9,home,Parkland,W,5-1,5,1,4,win,20240209_ofco,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Lake Land,lakelandcollege,mekennawakakuwa9m8r,MeKenna Wakakuwa
-Feb 10,home,St. Louis,L,14-2,14,2,12,win,20240210_qa6x,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Lake Land,lakelandcollege,mekennawakakuwa9m8r,MeKenna Wakakuwa
-Feb 16,home,St. Charles,L,13-8,13,8,5,win,20240216_9cg2,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Lake Land,lakelandcollege,mekennawakakuwa9m8r,MeKenna Wakakuwa
-Feb 16,home,Indian Hills,L,10-6,10,6,4,win,20240216_i7kz,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Lake Land,lakelandcollege,mekennawakakuwa9m8r,MeKenna Wakakuwa
-Feb 24,home,Kirkwood,L,8-0,8,0,8,win,20240224_c3pp,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Lake Land,lakelandcollege,mekennawakakuwa9m8r,MeKenna Wakakuwa
-Feb 24,home,Kirkwood,L,6-4,6,4,2,win,20240224_t0k7,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Lake Land,lakelandcollege,mekennawakakuwa9m8r,MeKenna Wakakuwa
-Feb 26,home,Kankakee,T,13-13,13,13,0,tie,20240226_bix1,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Lake Land,lakelandcollege,mekennawakakuwa9m8r,MeKenna Wakakuwa
-Mar 1,home,John Wood,W,5-3,5,3,2,win,20240301_kpmj,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Lake Land,lakelandcollege,mekennawakakuwa9m8r,MeKenna Wakakuwa
-Mar 1,home,John Wood,W,6-5,6,5,1,win,20240301_co4b,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Lake Land,lakelandcollege,mekennawakakuwa9m8r,MeKenna Wakakuwa
-Mar 3,home,McHenry County,L,6-1,6,1,5,win,20240303_w5c8,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Lake Land,lakelandcollege,mekennawakakuwa9m8r,MeKenna Wakakuwa
-Mar 6,home,Vincennes,W,6-3,6,3,3,win,20240306_74s9,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Lake Land,lakelandcollege,mekennawakakuwa9m8r,MeKenna Wakakuwa
-Mar 7,home,Olney Central,L,10-6,10,6,4,win,20240307_oq0j,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Lake Land,lakelandcollege,mekennawakakuwa9m8r,MeKenna Wakakuwa
-Mar 10,home,Olney Central,L,12-5,12,5,7,win,20240310_ykad,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Lake Land,lakelandcollege,mekennawakakuwa9m8r,MeKenna Wakakuwa
-Mar 13,home,Wabash Valley,L,19-10,19,10,9,win,20240313_h54l,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Lake Land,lakelandcollege,mekennawakakuwa9m8r,MeKenna Wakakuwa
-Mar 16,home,Wabash Valley,W,17-13,17,13,4,win,20240316_d39n,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Lake Land,lakelandcollege,mekennawakakuwa9m8r,MeKenna Wakakuwa
-Mar 16,home,Wabash Valley,W,11-7,11,7,4,win,20240316_q43e,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Lake Land,lakelandcollege,mekennawakakuwa9m8r,MeKenna Wakakuwa
-Mar 19,home,Illinois Central,W,12-5,12,5,7,win,20240319_mcuv,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Lake Land,lakelandcollege,mekennawakakuwa9m8r,MeKenna Wakakuwa
-Mar 23,home,Rend Lake,W,5-4,5,4,1,win,20240323_kjvc,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Lake Land,lakelandcollege,mekennawakakuwa9m8r,MeKenna Wakakuwa
-Mar 23,home,Rend Lake,W,3-2,3,2,1,win,20240323_fe1r,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Lake Land,lakelandcollege,mekennawakakuwa9m8r,MeKenna Wakakuwa
-Mar 26,home,Lincoln Trail,L,30-27,30,27,3,win,20240326_c1tg,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Lake Land,lakelandcollege,mekennawakakuwa9m8r,MeKenna Wakakuwa
-Mar 28,home,Kaskaskia,L,13-0,13,0,13,win,20240328_oc27,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Lake Land,lakelandcollege,mekennawakakuwa9m8r,MeKenna Wakakuwa
-Mar 29,home,Kaskaskia,L,7-6,7,6,1,win,20240329_wg3y,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Lake Land,lakelandcollege,mekennawakakuwa9m8r,MeKenna Wakakuwa
-Mar 29,home,Kaskaskia,L,11-3,11,3,8,win,20240329_z7zx,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Lake Land,lakelandcollege,mekennawakakuwa9m8r,MeKenna Wakakuwa
-Apr 5,home,Southeastern Illinois,W,12-2,12,2,10,win,20240405_h717,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Lake Land,lakelandcollege,mekennawakakuwa9m8r,MeKenna Wakakuwa
-Apr 6,home,Southeastern Illinois,W,11-6,11,6,5,win,20240406_ms82,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Lake Land,lakelandcollege,mekennawakakuwa9m8r,MeKenna Wakakuwa
-Apr 9,home,Lincoln Trail,W,13-7,13,7,6,win,20240409_7o3z,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Lake Land,lakelandcollege,mekennawakakuwa9m8r,MeKenna Wakakuwa
-Apr 9,home,Lincoln Trail,W,11-10,11,10,1,win,20240409_2d45,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Lake Land,lakelandcollege,mekennawakakuwa9m8r,MeKenna Wakakuwa
-Apr 12,home,John A. Logan,W,3-2,3,2,1,win,20240412_7ccx,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Lake Land,lakelandcollege,mekennawakakuwa9m8r,MeKenna Wakakuwa
-Apr 13,home,John A. Logan,L,12-2,12,2,10,win,20240413_r7wm,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Lake Land,lakelandcollege,mekennawakakuwa9m8r,MeKenna Wakakuwa
+Feb 16,home,Indian Hills,L,10-6,10,6,4,win,20240216_i7kz,0,0,0,0,0.1,,,,0.00,,,2024,2023-24,div1,Lake Land,lakelandcollege,mekennawakakuwa9m8r,MeKenna Wakakuwa
+Feb 17,home,John Wood,L,10-9,10,9,1,win,20240217_pgew,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Lake Land,lakelandcollege,mekennawakakuwa9m8r,MeKenna Wakakuwa
 Apr 13,home,John A. Logan,L,13-3,13,3,10,win,20240413_bhqm,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Lake Land,lakelandcollege,mekennawakakuwa9m8r,MeKenna Wakakuwa
 Apr 17,home,Southwestern Illinois,L,26-9,26,9,17,win,20240417_pzif,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Lake Land,lakelandcollege,mekennawakakuwa9m8r,MeKenna Wakakuwa
-Apr 19,home,Lincoln Land,W,5-4,5,4,1,win,20240419_rj72,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Lake Land,lakelandcollege,mekennawakakuwa9m8r,MeKenna Wakakuwa
-Apr 19,home,Lincoln Land,L,11-8,11,8,3,win,20240419_1fm7,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Lake Land,lakelandcollege,mekennawakakuwa9m8r,MeKenna Wakakuwa
 Apr 20,home,Lincoln Land,W,3-2,3,2,1,win,20240420_rhxh,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Lake Land,lakelandcollege,mekennawakakuwa9m8r,MeKenna Wakakuwa
 Apr 20,home,Lincoln Land,W,4-3,4,3,1,win,20240420_xb6j,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Lake Land,lakelandcollege,mekennawakakuwa9m8r,MeKenna Wakakuwa
-Apr 24,home,Southwestern Illinois,L,6-3,6,3,3,win,20240424_v2k8,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Lake Land,lakelandcollege,mekennawakakuwa9m8r,MeKenna Wakakuwa
 Apr 24,home,Southwestern Illinois,W,5-3,5,3,2,win,20240424_43oc,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Lake Land,lakelandcollege,mekennawakakuwa9m8r,MeKenna Wakakuwa
-Apr 25,home,Shawnee,W,12-3,12,3,9,win,20240425_e6mi,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Lake Land,lakelandcollege,mekennawakakuwa9m8r,MeKenna Wakakuwa
-Apr 27,home,Shawnee,W,15-2,15,2,13,win,20240427_m1ss,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Lake Land,lakelandcollege,mekennawakakuwa9m8r,MeKenna Wakakuwa
-May 1,home,Heartland,W,12-8,12,8,4,win,20240501_fc1b,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Lake Land,lakelandcollege,mekennawakakuwa9m8r,MeKenna Wakakuwa
-May 2,home,Frontier,W,11-2,11,2,9,win,20240502_3irc,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Lake Land,lakelandcollege,mekennawakakuwa9m8r,MeKenna Wakakuwa
-May 4,home,Frontier,W,20-3,20,3,17,win,20240504_mt9y,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Lake Land,lakelandcollege,mekennawakakuwa9m8r,MeKenna Wakakuwa
-May 4,home,Frontier,L,10-6,10,6,4,win,20240504_t71r,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Lake Land,lakelandcollege,mekennawakakuwa9m8r,MeKenna Wakakuwa
+Apr 27,home,Shawnee,W,9-3,9,3,6,win,20240427_a80c,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Lake Land,lakelandcollege,mekennawakakuwa9m8r,MeKenna Wakakuwa

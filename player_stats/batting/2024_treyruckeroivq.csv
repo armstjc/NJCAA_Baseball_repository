@@ -1,24 +1,3 @@
 date,location,opponent,result,score,team_score,opp_score,game_score_diff,game_win_loss,game_id,AB,R,H,2B,3B,HR,RBI,BB,K,SB,CS,HBP,SF,SH,TB,XBH,HDP,GO,FO,GO/FO,PA,season,njcaa_season,njcaa_division,team,team_id,player_id,player_name
-Feb 2,home,Paris,W,8-4,8,4,4,win,20240202_lmlm,4,1,1,,,,0,,1,,,,,,1,0,,,,,4,2024,2023-24,div1,San Jacinto,sanjacintocollegenorth,treyruckeroivq,Trey Rucker
-Feb 3,home,Paris,W,13-7,13,7,6,win,20240203_3tyd,4,1,1,,,,0,1,,,,,,,1,0,,,,,5,2024,2023-24,div1,San Jacinto,sanjacintocollegenorth,treyruckeroivq,Trey Rucker
-Feb 9,home,New Mexico,W,11-7,11,7,4,win,20240209_ar2z,5,1,1,,,,1,,,1,,,,,1,0,,,,,5,2024,2023-24,div1,San Jacinto,sanjacintocollegenorth,treyruckeroivq,Trey Rucker
-Feb 14,home,Coffeyville,W,12-6,12,6,6,win,20240214_lz6w,3,3,1,1,,,0,1,1,,,,,,2,1,,,,,4,2024,2023-24,div1,San Jacinto,sanjacintocollegenorth,treyruckeroivq,Trey Rucker
-Feb 15,home,Seminole State (OK),W,1-0,1,0,1,win,20240215_6d7p,2,0,0,,,,0,,,,,,,,0,0,,,,,2,2024,2023-24,div1,San Jacinto,sanjacintocollegenorth,treyruckeroivq,Trey Rucker
-Feb 23,home,Luna,W,12-3,12,3,9,win,20240223_1hj2,3,2,2,,1,,1,,,2,,1,,,4,1,,,,,4,2024,2023-24,div1,San Jacinto,sanjacintocollegenorth,treyruckeroivq,Trey Rucker
-Feb 23,home,Luna,W,8-5,8,5,3,win,20240223_ncj6,2,2,2,,,,1,,,,,,1,,2,0,,,,,3,2024,2023-24,div1,San Jacinto,sanjacintocollegenorth,treyruckeroivq,Trey Rucker
-Mar 1,home,Otero,W,12-8,12,8,4,win,20240301_7cd9,3,1,1,,1,,0,,,,,,,,3,1,,,,,3,2024,2023-24,div1,San Jacinto,sanjacintocollegenorth,treyruckeroivq,Trey Rucker
-Mar 6,home,Pratt,W,5-2,5,2,3,win,20240306_f4wu,3,0,2,1,,,0,,1,,,,,,3,1,,,,,3,2024,2023-24,div1,San Jacinto,sanjacintocollegenorth,treyruckeroivq,Trey Rucker
-Mar 6,home,Pratt,W,23-13,23,13,10,win,20240306_eh7t,4,3,3,1,,,3,1,,,,,,,4,1,,,,,5,2024,2023-24,div1,San Jacinto,sanjacintocollegenorth,treyruckeroivq,Trey Rucker
-Mar 9,home,Pratt,W,13-9,13,9,4,win,20240309_b0is,6,1,2,,,,2,1,1,4,1,,,,2,0,,,,,7,2024,2023-24,div1,San Jacinto,sanjacintocollegenorth,treyruckeroivq,Trey Rucker
-Mar 9,home,Pratt,W,7-1,7,1,6,win,20240309_u122,4,0,0,,,,0,,,,,,,,0,0,,,,,4,2024,2023-24,div1,San Jacinto,sanjacintocollegenorth,treyruckeroivq,Trey Rucker
-Mar 14,home,Seward County,W,8-5,8,5,3,win,20240314_z5z6,4,1,1,,,,0,,,,,,,,1,0,,,,,4,2024,2023-24,div1,San Jacinto,sanjacintocollegenorth,treyruckeroivq,Trey Rucker
-Mar 16,home,Seward County,W,2-1,2,1,1,win,20240316_tahh,3,0,2,,,,0,,,,,,,,2,0,,,,,3,2024,2023-24,div1,San Jacinto,sanjacintocollegenorth,treyruckeroivq,Trey Rucker
-Mar 18,home,Northwestern Oklahoma State JV,W,13-2,13,2,11,win,20240318_jcj5,2,0,0,,,,0,1,1,,,,,,0,0,,,,,3,2024,2023-24,div1,San Jacinto,sanjacintocollegenorth,treyruckeroivq,Trey Rucker
-Mar 28,home,Cloud County,W,9-5,9,5,4,win,20240328_svo2,4,1,1,,,1,1,,1,,,,,,4,1,,,,,4,2024,2023-24,div1,San Jacinto,sanjacintocollegenorth,treyruckeroivq,Trey Rucker
-Mar 30,home,Cloud County,W,11-1,11,1,10,win,20240330_coag,4,2,1,,,,0,,1,,,,,,1,0,,1,,,4,2024,2023-24,div1,San Jacinto,sanjacintocollegenorth,treyruckeroivq,Trey Rucker
-Apr 4,home,Barton,W,3-0,3,0,3,win,20240404_yvgr,2,0,0,,,,0,1,,,,,,,0,0,,,2,,3,2024,2023-24,div1,San Jacinto,sanjacintocollegenorth,treyruckeroivq,Trey Rucker
-Apr 7,home,Barton,W,12-2,12,2,10,win,20240407_9ia0,3,0,0,,,,0,,2,,,,,,0,0,,,,,3,2024,2023-24,div1,San Jacinto,sanjacintocollegenorth,treyruckeroivq,Trey Rucker
-Apr 7,home,Barton,W,12-2,12,2,10,win,20240407_dyoa,4,1,1,,,,0,,1,,,,,,1,0,1,,,,4,2024,2023-24,div1,San Jacinto,sanjacintocollegenorth,treyruckeroivq,Trey Rucker
-Apr 16,home,Otero,W,8-7,8,7,1,win,20240416_2bbp,4,0,1,,,,0,,,,,,,,1,0,,,,,4,2024,2023-24,div1,San Jacinto,sanjacintocollegenorth,treyruckeroivq,Trey Rucker
-Apr 18,home,Garden City,W,9-5,9,5,4,win,20240418_cgbd,4,0,1,,,,2,1,,1,,,,,1,0,,,2,,5,2024,2023-24,div1,San Jacinto,sanjacintocollegenorth,treyruckeroivq,Trey Rucker
-Apr 26,home,Butler,W,12-9,12,9,3,win,20240426_xau2,4,1,3,1,,,2,,1,1,,,,,4,1,,,,,4,2024,2023-24,div1,San Jacinto,sanjacintocollegenorth,treyruckeroivq,Trey Rucker
+Jan 27,home,Central Arizona,W,8-6,8,6,2,win,20240127_k377,5,0,0,,,,0,,1,,,,,,0,0,1,1,3,0.33,5,2024,2023-24,div1,San Jacinto,sanjacintocollegenorth,treyruckeroivq,Trey Rucker
+Jan 28,home,Southern Nevada,W,10-8,10,8,2,win,20240128_9u9e,5,2,1,,,,1,1,,,,,,,1,0,,4,,,6,2024,2023-24,div1,San Jacinto,sanjacintocollegenorth,treyruckeroivq,Trey Rucker

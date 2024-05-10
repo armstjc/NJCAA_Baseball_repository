@@ -1,12 +1,41 @@
 date,location,opponent,result,score,team_score,opp_score,game_score_diff,game_win_loss,game_id,TC,PO,A,E,FPCT,DP,SBA,RCS,RCS_PCT,PB,CI,season,njcaa_season,njcaa_division,team,team_id,player_id,player_name
-Jan 31,home,Columbia International Jv,W,11-10,11,10,1,win,20240131_cp0f,0,1,0,0,4.0,,,,0.00,.75,3,2024,2023-24,div1,Gulf Coast State,gulfcoaststatecollege,drewprosek1k04,Drew Prosek
-Feb 4,home,USC Sumter,W,6-1,6,1,5,win,20240204_l1h3,0,0,0,0,4.2,3,1,1,1.93,1.29,3,2024,2023-24,div1,Gulf Coast State,gulfcoaststatecollege,drewprosek1k04,Drew Prosek
-Feb 11,home,St. Johns River State,L,11-0,11,0,11,win,20240211_g04o,0,0,0,0,0.2,4,5,5,67.50,7.50,1,2024,2023-24,div1,Gulf Coast State,gulfcoaststatecollege,drewprosek1k04,Drew Prosek
-Mar 13,home,Brewton-Parker College JV,W,21-2,21,2,19,win,20240313_bulb,0,0,0,0,1.0,0,0,0,0.00,.00,0,2024,2023-24,div1,Gulf Coast State,gulfcoaststatecollege,drewprosek1k04,Drew Prosek
-Mar 24,home,Gordon State,L,16-3,16,3,13,win,20240324_bt0y,0,0,0,0,0.1,1,3,3,81.00,3.00,0,2024,2023-24,div1,Gulf Coast State,gulfcoaststatecollege,drewprosek1k04,Drew Prosek
-Mar 29,home,Georgia Highlands,W,8-4,8,4,4,win,20240329_1azm,0,1,0,0,6.0,8,4,2,3.00,2.00,4,2024,2023-24,div1,Gulf Coast State,gulfcoaststatecollege,drewprosek1k04,Drew Prosek
-Apr 5,home,Andrew,L,13-12,13,12,1,win,20240405_6hn6,0,0,0,0,3.0,9,7,7,21.00,3.33,1,2024,2023-24,div1,Gulf Coast State,gulfcoaststatecollege,drewprosek1k04,Drew Prosek
-Apr 13,home,Abraham Baldwin,L,20-4,20,4,16,win,20240413_ke2b,0,0,0,0,1.0,3,3,3,27.00,4.00,1,2024,2023-24,div1,Gulf Coast State,gulfcoaststatecollege,drewprosek1k04,Drew Prosek
-Apr 25,home,Georgia Highlands,L,12-2,12,2,10,win,20240425_ltxo,0,0,0,0,0.2,3,3,1,13.50,4.50,,2024,2023-24,div1,Gulf Coast State,gulfcoaststatecollege,drewprosek1k04,Drew Prosek
-Apr 30,home,Abraham Baldwin,W,9-7,9,7,2,win,20240430_wrjt,0,0,0,0,1.0,2,1,,0.00,3.00,1,2024,2023-24,div1,Gulf Coast State,gulfcoaststatecollege,drewprosek1k04,Drew Prosek
-May 2,home,South Georgia State,W,15-5,15,5,10,win,20240502_0kyn,0,0,0,0,1.0,,,,0.00,,,2024,2023-24,div1,Gulf Coast State,gulfcoaststatecollege,drewprosek1k04,Drew Prosek
+Jan 26,home,State College of Florida,W,4-3,4,3,1,win,20240126_17k1,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Gulf Coast State,gulfcoaststatecollege,drewprosek1k04,Drew Prosek
+Jan 27,home,Indian River State,W,12-2,12,2,10,win,20240127_sj9o,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Gulf Coast State,gulfcoaststatecollege,drewprosek1k04,Drew Prosek
+Jan 28,home,Miami Dade,W,4-2,4,2,2,win,20240128_uj0u,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Gulf Coast State,gulfcoaststatecollege,drewprosek1k04,Drew Prosek
+Feb 2,home,Pearl River,W,2-1,2,1,1,win,20240202_tg43,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Gulf Coast State,gulfcoaststatecollege,drewprosek1k04,Drew Prosek
+Feb 3,home,St. Johns River State,W,5-0,5,0,5,win,20240203_wuzh,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Gulf Coast State,gulfcoaststatecollege,drewprosek1k04,Drew Prosek
+Feb 3,home,Northwest Florida State,W,4-3,4,3,1,win,20240203_793f,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Gulf Coast State,gulfcoaststatecollege,drewprosek1k04,Drew Prosek
+Feb 4,home,Wallace-Dothan,W,12-2,12,2,10,win,20240204_736a,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Gulf Coast State,gulfcoaststatecollege,drewprosek1k04,Drew Prosek
+Feb 9,home,Walters State,L,8-3,8,3,5,win,20240209_e3gd,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Gulf Coast State,gulfcoaststatecollege,drewprosek1k04,Drew Prosek
+Feb 9,home,Central Alabama,W,12-4,12,4,8,win,20240209_12sy,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Gulf Coast State,gulfcoaststatecollege,drewprosek1k04,Drew Prosek
+Feb 10,home,Southern Union State,W,6-4,6,4,2,win,20240210_obgh,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Gulf Coast State,gulfcoaststatecollege,drewprosek1k04,Drew Prosek
+Feb 10,home,Central Alabama,W,4-3,4,3,1,win,20240210_r48k,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Gulf Coast State,gulfcoaststatecollege,drewprosek1k04,Drew Prosek
+Feb 15,home,Shelton State,W,9-0,9,0,9,win,20240215_h297,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Gulf Coast State,gulfcoaststatecollege,drewprosek1k04,Drew Prosek
+Feb 16,home,Shelton State,W,4-3,4,3,1,win,20240216_wqj5,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Gulf Coast State,gulfcoaststatecollege,drewprosek1k04,Drew Prosek
+Feb 16,home,Shelton State,W,7-3,7,3,4,win,20240216_3seu,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Gulf Coast State,gulfcoaststatecollege,drewprosek1k04,Drew Prosek
+Feb 20,home,Coastal Alabama - North,W,24-7,24,7,17,win,20240220_rk7r,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Gulf Coast State,gulfcoaststatecollege,drewprosek1k04,Drew Prosek
+Feb 24,home,Andrew,W,30-13,30,13,17,win,20240224_fbym,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Gulf Coast State,gulfcoaststatecollege,drewprosek1k04,Drew Prosek
+Feb 24,home,Andrew,W,15-8,15,8,7,win,20240224_xoxc,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Gulf Coast State,gulfcoaststatecollege,drewprosek1k04,Drew Prosek
+Feb 26,home,Grand Rapids,W,10-0,10,0,10,win,20240226_wxu7,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Gulf Coast State,gulfcoaststatecollege,drewprosek1k04,Drew Prosek
+Feb 27,home,Wallace-Dothan,W,11-4,11,4,7,win,20240227_ukbu,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Gulf Coast State,gulfcoaststatecollege,drewprosek1k04,Drew Prosek
+Mar 2,home,Coastal Alabama - South,W,12-5,12,5,7,win,20240302_w67q,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Gulf Coast State,gulfcoaststatecollege,drewprosek1k04,Drew Prosek
+Mar 2,home,Coastal Alabama - South,W,13-5,13,5,8,win,20240302_dpdx,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Gulf Coast State,gulfcoaststatecollege,drewprosek1k04,Drew Prosek
+Mar 7,home,Abraham Baldwin,W,4-1,4,1,3,win,20240307_mt8n,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Gulf Coast State,gulfcoaststatecollege,drewprosek1k04,Drew Prosek
+Mar 11,home,Northwest Florida State,L,10-2,10,2,8,win,20240311_4p4q,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Gulf Coast State,gulfcoaststatecollege,drewprosek1k04,Drew Prosek
+Mar 13,home,Northwest Florida State,W,2-1,2,1,1,win,20240313_2ugz,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Gulf Coast State,gulfcoaststatecollege,drewprosek1k04,Drew Prosek
+Mar 15,home,Chipola,W,6-3,6,3,3,win,20240315_62i2,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Gulf Coast State,gulfcoaststatecollege,drewprosek1k04,Drew Prosek
+Mar 16,home,Chipola,W,11-1,11,1,10,win,20240316_3bsa,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Gulf Coast State,gulfcoaststatecollege,drewprosek1k04,Drew Prosek
+Mar 18,home,Tallahassee,L,5-4,5,4,1,win,20240318_zjfx,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Gulf Coast State,gulfcoaststatecollege,drewprosek1k04,Drew Prosek
+Mar 20,home,Tallahassee,W,8-0,8,0,8,win,20240320_0omm,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Gulf Coast State,gulfcoaststatecollege,drewprosek1k04,Drew Prosek
+Mar 23,home,Pensacola State,L,19-18,19,18,1,win,20240323_kaw0,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Gulf Coast State,gulfcoaststatecollege,drewprosek1k04,Drew Prosek
+Mar 24,home,Pensacola State,L,9-8,9,8,1,win,20240324_tjse,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Gulf Coast State,gulfcoaststatecollege,drewprosek1k04,Drew Prosek
+Apr 2,home,Northwest Florida State,L,14-5,14,5,9,win,20240402_bscx,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Gulf Coast State,gulfcoaststatecollege,drewprosek1k04,Drew Prosek
+Apr 4,home,Northwest Florida State,L,10-1,10,1,9,win,20240404_p0p5,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Gulf Coast State,gulfcoaststatecollege,drewprosek1k04,Drew Prosek
+Apr 6,home,Northwest Florida State,W,9-5,9,5,4,win,20240406_44vd,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Gulf Coast State,gulfcoaststatecollege,drewprosek1k04,Drew Prosek
+Apr 6,home,Northwest Florida State,L,7-6,7,6,1,win,20240406_6ifp,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Gulf Coast State,gulfcoaststatecollege,drewprosek1k04,Drew Prosek
+Apr 9,home,Chipola,L,9-5,9,5,4,win,20240409_g6ma,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Gulf Coast State,gulfcoaststatecollege,drewprosek1k04,Drew Prosek
+Apr 11,home,Chipola,W,19-1,19,1,18,win,20240411_fe45,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Gulf Coast State,gulfcoaststatecollege,drewprosek1k04,Drew Prosek
+Apr 13,home,Chipola,W,7-4,7,4,3,win,20240413_d7iv,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Gulf Coast State,gulfcoaststatecollege,drewprosek1k04,Drew Prosek
+Apr 13,home,Chipola,L,7-6,7,6,1,win,20240413_q2p4,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Gulf Coast State,gulfcoaststatecollege,drewprosek1k04,Drew Prosek
+Apr 16,home,Tallahassee,L,13-6,13,6,7,win,20240416_an7x,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Gulf Coast State,gulfcoaststatecollege,drewprosek1k04,Drew Prosek
+Apr 27,home,Pensacola State,L,10-0,10,0,10,win,20240427_a1vf,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Gulf Coast State,gulfcoaststatecollege,drewprosek1k04,Drew Prosek

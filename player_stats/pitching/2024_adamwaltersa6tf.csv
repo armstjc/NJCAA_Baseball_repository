@@ -1,12 +1,44 @@
 date,location,opponent,result,score,team_score,opp_score,game_score_diff,game_win_loss,game_id,GS,W,L,SV,IP,H,R,ER,ERA,BB,K,HR,season,njcaa_season,njcaa_division,team,team_id,player_id,player_name
-Apr 28,home,Lake County,W,10-6,10,6,4,win,20240428_yzmp,0,0,0,0,1.0,,,,0.00,,,,2024,2023-24,div1,South Suburban,southsuburbancollege,adamwaltersa6tf,Adam Walters
-Apr 25,home,Waubonsee,W,17-7,17,7,10,win,20240425_l14e,0,0,0,0,0.1,,,,0.00,,,,2024,2023-24,div1,South Suburban,southsuburbancollege,adamwaltersa6tf,Adam Walters
-Apr 20,home,Kankakee,L,12-0,12,0,12,win,20240420_a3qg,0,0,0,0,1.2,,3,,0.00,1.80,3,1,2024,2023-24,div1,South Suburban,southsuburbancollege,adamwaltersa6tf,Adam Walters
-Apr 15,home,North Central JV,W,4-3,4,3,1,win,20240415_b99x,0,0,0,0,1.0,1,,,0.00,2.00,1,,2024,2023-24,div1,South Suburban,southsuburbancollege,adamwaltersa6tf,Adam Walters
-Apr 6,home,Milwaukee Area Tech,W,13-3,13,3,10,win,20240406_m8gv,0,0,0,0,1.0,,,,0.00,1.00,1,,2024,2023-24,div1,South Suburban,southsuburbancollege,adamwaltersa6tf,Adam Walters
-Mar 30,home,Kennedy-King,W,18-0,18,0,18,win,20240330_792d,0,0,0,0,1.0,1,,,0.00,1.00,,1,2024,2023-24,div1,South Suburban,southsuburbancollege,adamwaltersa6tf,Adam Walters
-Mar 24,home,Sauk Valley,L,13-11,13,11,2,win,20240324_st6r,0,0,0,0,0.1,1,1,1,27.00,3.00,,,2024,2023-24,div1,South Suburban,southsuburbancollege,adamwaltersa6tf,Adam Walters
-Mar 13,home,San Jacinto,L,11-10,11,10,1,win,20240313_cz88,0,0,1,0,0.2,,1,,0.00,1.50,1,1,2024,2023-24,div1,South Suburban,southsuburbancollege,adamwaltersa6tf,Adam Walters
-Mar 9,home,Texas Post Grad Reds,W,16-11,16,11,5,win,20240309_5www,0,0,0,0,1.1,,,,0.00,.75,1,2,2024,2023-24,div1,South Suburban,southsuburbancollege,adamwaltersa6tf,Adam Walters
-Mar 7,home,Baton Rouge,L,6-0,6,0,6,win,20240307_urfm,0,0,0,0,1.0,1,,,0.00,1.00,,,2024,2023-24,div1,South Suburban,southsuburbancollege,adamwaltersa6tf,Adam Walters
-Mar 1,home,Southwestern Illinois,L,13-3,13,3,10,win,20240301_swv8,0,0,0,0,1.0,1,1,,0.00,1.00,,,2024,2023-24,div1,South Suburban,southsuburbancollege,adamwaltersa6tf,Adam Walters
+May 5,home,Elgin,W,4-3,4,3,1,win,20240505_kbak,1,0,0,0,6.0,6,1,1,1.50,1.00,0,5,2024,2023-24,div1,South Suburban,southsuburbancollege,adamwaltersa6tf,Adam Walters
+May 4,home,Madison,L,10-9,10,9,1,win,20240504_lw25,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div1,South Suburban,southsuburbancollege,adamwaltersa6tf,Adam Walters
+May 3,home,Morton,W,5-4,5,4,1,win,20240503_iz01,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div1,South Suburban,southsuburbancollege,adamwaltersa6tf,Adam Walters
+May 2,home,Kishwaukee,W,12-9,12,9,3,win,20240502_8wuu,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div1,South Suburban,southsuburbancollege,adamwaltersa6tf,Adam Walters
+Apr 30,home,Joliet,W,12-2,12,2,10,win,20240430_85b2,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div1,South Suburban,southsuburbancollege,adamwaltersa6tf,Adam Walters
+Apr 28,home,Lake County,W,10-6,10,6,4,win,20240428_yzmp,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div1,South Suburban,southsuburbancollege,adamwaltersa6tf,Adam Walters
+Apr 27,home,Bryant & Stratton College (WI),W,11-0,11,0,11,win,20240427_wz8s,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div1,South Suburban,southsuburbancollege,adamwaltersa6tf,Adam Walters
+Apr 25,home,Waubonsee,W,17-7,17,7,10,win,20240425_l14e,1,1,0,0,6.0,5,1,1,1.50,1.33,3,5,2024,2023-24,div1,South Suburban,southsuburbancollege,adamwaltersa6tf,Adam Walters
+Apr 24,home,Olive-Harvey,L,3-1,3,1,2,win,20240424_feob,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div1,South Suburban,southsuburbancollege,adamwaltersa6tf,Adam Walters
+Apr 22,home,DuPage,L,13-1,13,1,12,win,20240422_jirr,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div1,South Suburban,southsuburbancollege,adamwaltersa6tf,Adam Walters
+Apr 21,home,Highland (IL),W,11-5,11,5,6,win,20240421_3go3,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div1,South Suburban,southsuburbancollege,adamwaltersa6tf,Adam Walters
+Apr 18,home,Triton,W,4-1,4,1,3,win,20240418_qvax,0,0,0,0,1.0,,,,0.00,2.00,2,2,2024,2023-24,div1,South Suburban,southsuburbancollege,adamwaltersa6tf,Adam Walters
+Apr 17,home,Heartland,L,6-2,6,2,4,win,20240417_1g54,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div1,South Suburban,southsuburbancollege,adamwaltersa6tf,Adam Walters
+Apr 15,home,North Central JV,W,4-3,4,3,1,win,20240415_b99x,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div1,South Suburban,southsuburbancollege,adamwaltersa6tf,Adam Walters
+Apr 14,home,Rock Valley,W,12-4,12,4,8,win,20240414_lk18,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div1,South Suburban,southsuburbancollege,adamwaltersa6tf,Adam Walters
+Apr 13,home,Kankakee,W,7-4,7,4,3,win,20240413_jnkc,0,0,0,1,3.0,2,1,1,3.00,.67,,1,2024,2023-24,div1,South Suburban,southsuburbancollege,adamwaltersa6tf,Adam Walters
+Apr 12,home,Morton,L,16-15,16,15,1,win,20240412_akxw,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div1,South Suburban,southsuburbancollege,adamwaltersa6tf,Adam Walters
+Apr 6,home,Milwaukee Area Tech,W,13-3,13,3,10,win,20240406_m8gv,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div1,South Suburban,southsuburbancollege,adamwaltersa6tf,Adam Walters
+Apr 6,home,Milwaukee Area Tech,W,5-2,5,2,3,win,20240406_lzq3,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div1,South Suburban,southsuburbancollege,adamwaltersa6tf,Adam Walters
+Mar 30,home,Kennedy-King,W,18-0,18,0,18,win,20240330_792d,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div1,South Suburban,southsuburbancollege,adamwaltersa6tf,Adam Walters
+Mar 29,home,Black Hawk,L,6-4,6,4,2,win,20240329_xdie,1,0,1,0,4.0,7,5,3,6.75,1.75,0,3,2024,2023-24,div1,South Suburban,southsuburbancollege,adamwaltersa6tf,Adam Walters
+Mar 29,home,Black Hawk,L,5-2,5,2,3,win,20240329_t5wr,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div1,South Suburban,southsuburbancollege,adamwaltersa6tf,Adam Walters
+Mar 28,home,Carl Sandburg,L,7-6,7,6,1,win,20240328_2dci,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div1,South Suburban,southsuburbancollege,adamwaltersa6tf,Adam Walters
+Mar 27,home,McHenry County,L,9-5,9,5,4,win,20240327_2gny,0,0,0,0,1.0,2,,,0.00,2.00,,2,2024,2023-24,div1,South Suburban,southsuburbancollege,adamwaltersa6tf,Adam Walters
+Mar 26,home,Joliet,L,1-0,1,0,1,win,20240326_v5ob,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div1,South Suburban,southsuburbancollege,adamwaltersa6tf,Adam Walters
+Mar 24,home,Sauk Valley,L,13-11,13,11,2,win,20240324_st6r,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div1,South Suburban,southsuburbancollege,adamwaltersa6tf,Adam Walters
+Mar 21,home,Moraine Valley,W,9-7,9,7,2,win,20240321_t1k7,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div1,South Suburban,southsuburbancollege,adamwaltersa6tf,Adam Walters
+Mar 19,home,Harper,W,5-0,5,0,5,win,20240319_la41,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div1,South Suburban,southsuburbancollege,adamwaltersa6tf,Adam Walters
+Mar 14,home,John Melvin Univeristy,L,11-4,11,4,7,win,20240314_fnb1,0,0,0,0,1.2,4,2,,0.00,2.40,,,2024,2023-24,div1,South Suburban,southsuburbancollege,adamwaltersa6tf,Adam Walters
+Mar 14,home,John Melvin Univeristy,L,6-4,6,4,2,win,20240314_6oax,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div1,South Suburban,southsuburbancollege,adamwaltersa6tf,Adam Walters
+Mar 13,home,San Jacinto,L,11-10,11,10,1,win,20240313_cz88,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div1,South Suburban,southsuburbancollege,adamwaltersa6tf,Adam Walters
+Mar 11,home,Coastal Bend,L,4-0,4,0,4,win,20240311_rsto,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div1,South Suburban,southsuburbancollege,adamwaltersa6tf,Adam Walters
+Mar 10,home,Galveston,L,8-4,8,4,4,win,20240310_k7hb,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div1,South Suburban,southsuburbancollege,adamwaltersa6tf,Adam Walters
+Mar 9,home,Texas Post Grad Reds,W,10-0,10,0,10,win,20240309_16vp,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div1,South Suburban,southsuburbancollege,adamwaltersa6tf,Adam Walters
+Mar 8,home,Alvin,L,7-3,7,3,4,win,20240308_1o50,0,0,0,0,3.0,3,3,3,9.00,1.67,2,1,2024,2023-24,div1,South Suburban,southsuburbancollege,adamwaltersa6tf,Adam Walters
+Mar 7,home,Baton Rouge,L,6-0,6,0,6,win,20240307_urfm,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div1,South Suburban,southsuburbancollege,adamwaltersa6tf,Adam Walters
+Mar 1,home,Southwestern Illinois,L,13-3,13,3,10,win,20240301_swv8,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div1,South Suburban,southsuburbancollege,adamwaltersa6tf,Adam Walters
+Feb 25,home,Rend Lake,W,12-10,12,10,2,win,20240225_9e7h,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div1,South Suburban,southsuburbancollege,adamwaltersa6tf,Adam Walters
+Feb 24,home,John A. Logan,L,10-3,10,3,7,win,20240224_jygt,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div1,South Suburban,southsuburbancollege,adamwaltersa6tf,Adam Walters
+Feb 19,home,Vincennes,W,9-4,9,4,5,win,20240219_twxu,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div1,South Suburban,southsuburbancollege,adamwaltersa6tf,Adam Walters
+Feb 19,home,Vincennes,W,10-0,10,0,10,win,20240219_lc0h,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div1,South Suburban,southsuburbancollege,adamwaltersa6tf,Adam Walters
+Feb 18,home,Southeastern Illinois,W,5-3,5,3,2,win,20240218_957l,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div1,South Suburban,southsuburbancollege,adamwaltersa6tf,Adam Walters
+Feb 18,home,Southeastern Illinois,W,13-3,13,3,10,win,20240218_zl1j,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div1,South Suburban,southsuburbancollege,adamwaltersa6tf,Adam Walters

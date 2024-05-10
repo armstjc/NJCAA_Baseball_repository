@@ -1,12 +1,16 @@
 date,location,opponent,result,score,team_score,opp_score,game_score_diff,game_win_loss,game_id,TC,PO,A,E,FPCT,DP,SBA,RCS,RCS_PCT,PB,CI,season,njcaa_season,njcaa_division,team,team_id,player_id,player_name
-Jan 31,home,Columbia International Jv,W,11-10,11,10,1,win,20240131_cp0f,0,1,0,0,4.0,,,,0.00,.75,3,2024,2023-24,div1,Bossier Parish,bossierparishcommunitycollege,jakeguidryfe6q,Jake Guidry
-Feb 4,home,USC Sumter,W,6-1,6,1,5,win,20240204_l1h3,0,0,0,0,4.2,3,1,1,1.93,1.29,3,2024,2023-24,div1,Bossier Parish,bossierparishcommunitycollege,jakeguidryfe6q,Jake Guidry
-Feb 11,home,St. Johns River State,L,11-0,11,0,11,win,20240211_g04o,0,0,0,0,0.2,4,5,5,67.50,7.50,1,2024,2023-24,div1,Bossier Parish,bossierparishcommunitycollege,jakeguidryfe6q,Jake Guidry
-Mar 13,home,Brewton-Parker College JV,W,21-2,21,2,19,win,20240313_bulb,0,0,0,0,1.0,0,0,0,0.00,.00,0,2024,2023-24,div1,Bossier Parish,bossierparishcommunitycollege,jakeguidryfe6q,Jake Guidry
-Mar 24,home,Gordon State,L,16-3,16,3,13,win,20240324_bt0y,0,0,0,0,0.1,1,3,3,81.00,3.00,0,2024,2023-24,div1,Bossier Parish,bossierparishcommunitycollege,jakeguidryfe6q,Jake Guidry
-Mar 29,home,Georgia Highlands,W,8-4,8,4,4,win,20240329_1azm,0,1,0,0,6.0,8,4,2,3.00,2.00,4,2024,2023-24,div1,Bossier Parish,bossierparishcommunitycollege,jakeguidryfe6q,Jake Guidry
-Apr 5,home,Andrew,L,13-12,13,12,1,win,20240405_6hn6,0,0,0,0,3.0,9,7,7,21.00,3.33,1,2024,2023-24,div1,Bossier Parish,bossierparishcommunitycollege,jakeguidryfe6q,Jake Guidry
-Apr 13,home,Abraham Baldwin,L,20-4,20,4,16,win,20240413_ke2b,0,0,0,0,1.0,3,3,3,27.00,4.00,1,2024,2023-24,div1,Bossier Parish,bossierparishcommunitycollege,jakeguidryfe6q,Jake Guidry
-Apr 25,home,Georgia Highlands,L,12-2,12,2,10,win,20240425_ltxo,0,0,0,0,0.2,3,3,1,13.50,4.50,,2024,2023-24,div1,Bossier Parish,bossierparishcommunitycollege,jakeguidryfe6q,Jake Guidry
-Apr 30,home,Abraham Baldwin,W,9-7,9,7,2,win,20240430_wrjt,0,0,0,0,1.0,2,1,,0.00,3.00,1,2024,2023-24,div1,Bossier Parish,bossierparishcommunitycollege,jakeguidryfe6q,Jake Guidry
-May 2,home,South Georgia State,W,15-5,15,5,10,win,20240502_0kyn,0,0,0,0,1.0,,,,0.00,,,2024,2023-24,div1,Bossier Parish,bossierparishcommunitycollege,jakeguidryfe6q,Jake Guidry
+Jan 29,home,Twin City Post Grad,W,4-1,4,1,3,win,20240129_h7ca,0,0,0,0,1.0,,,,0.00,1.00,1,2024,2023-24,div1,Bossier Parish,bossierparishcommunitycollege,jakeguidryfe6q,Jake Guidry
+Feb 9,home,Hill,W,8-7,8,7,1,win,20240209_c45m,0,1,0,0,2.0,,,,0.00,,,2024,2023-24,div1,Bossier Parish,bossierparishcommunitycollege,jakeguidryfe6q,Jake Guidry
+Feb 17,home,Eastern Oklahoma State,L,7-5,7,5,2,win,20240217_zxbq,1,0,1,0,3.1,4,4,4,10.80,2.40,4,2024,2023-24,div1,Bossier Parish,bossierparishcommunitycollege,jakeguidryfe6q,Jake Guidry
+Feb 24,home,Navarro,L,15-3,15,3,12,win,20240224_imyo,0,0,0,0,1.0,,,,0.00,,,2024,2023-24,div1,Bossier Parish,bossierparishcommunitycollege,jakeguidryfe6q,Jake Guidry
+Feb 28,home,Panola,L,6-4,6,4,2,win,20240228_4i2d,1,0,0,0,4.1,2,3,3,6.23,1.15,3,2024,2023-24,div1,Bossier Parish,bossierparishcommunitycollege,jakeguidryfe6q,Jake Guidry
+Mar 6,home,Paris,W,2-1,2,1,1,win,20240306_pust,1,1,0,0,4.0,2,1,1,2.25,1.25,3,2024,2023-24,div1,Bossier Parish,bossierparishcommunitycollege,jakeguidryfe6q,Jake Guidry
+Mar 9,home,Northeast Texas,L,11-10,11,10,1,win,20240309_s61y,0,0,1,0,1.0,2,1,1,9.00,3.00,1,2024,2023-24,div1,Bossier Parish,bossierparishcommunitycollege,jakeguidryfe6q,Jake Guidry
+Mar 13,home,LSU Eunice,L,5-0,5,0,5,win,20240313_p8iq,0,0,0,0,1.0,1,,,0.00,2.00,1,2024,2023-24,div1,Bossier Parish,bossierparishcommunitycollege,jakeguidryfe6q,Jake Guidry
+Mar 18,home,Angelina,W,12-9,12,9,3,win,20240318_tfyr,1,1,0,0,5.0,4,2,1,1.80,1.20,2,2024,2023-24,div1,Bossier Parish,bossierparishcommunitycollege,jakeguidryfe6q,Jake Guidry
+Mar 26,home,Panola,W,6-1,6,1,5,win,20240326_w5il,1,1,0,0,5.2,3,1,0,0.00,1.41,5,2024,2023-24,div1,Bossier Parish,bossierparishcommunitycollege,jakeguidryfe6q,Jake Guidry
+Apr 3,home,Tyler,L,13-3,13,3,10,win,20240403_shlv,1,0,1,0,2.0,6,7,7,31.50,4.50,3,2024,2023-24,div1,Bossier Parish,bossierparishcommunitycollege,jakeguidryfe6q,Jake Guidry
+Apr 10,home,Paris,L,6-4,6,4,2,win,20240410_hijr,1,0,0,0,6.0,5,4,4,6.00,1.33,3,2024,2023-24,div1,Bossier Parish,bossierparishcommunitycollege,jakeguidryfe6q,Jake Guidry
+Apr 17,home,Northeast Texas,W,9-8,9,8,1,win,20240417_wwyy,1,0,0,0,5.0,7,4,4,7.20,2.20,4,2024,2023-24,div1,Bossier Parish,bossierparishcommunitycollege,jakeguidryfe6q,Jake Guidry
+Apr 24,home,LSU Eunice,L,4-0,4,0,4,win,20240424_axsl,1,0,1,0,4.0,2,3,3,6.75,1.50,4,2024,2023-24,div1,Bossier Parish,bossierparishcommunitycollege,jakeguidryfe6q,Jake Guidry
+May 1,home,Angelina,L,10-8,10,8,2,win,20240501_xy9k,1,0,1,0,4.1,7,7,4,8.31,2.08,2,2024,2023-24,div1,Bossier Parish,bossierparishcommunitycollege,jakeguidryfe6q,Jake Guidry

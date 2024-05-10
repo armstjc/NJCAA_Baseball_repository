@@ -1,13 +1,14 @@
 date,location,opponent,result,score,team_score,opp_score,game_score_diff,game_win_loss,game_id,GS,W,L,SV,IP,H,R,ER,ERA,BB,K,HR,season,njcaa_season,njcaa_division,team,team_id,player_id,player_name
-May 2,home,South Mountain,L,14-6,14,6,8,win,20240502_a1wk,0,0,0,0,0.1,,,,0.00,3.00,1,,2024,2023-24,div1,Central Arizona,centralarizonacollege,kartermuckuvh6,Karter Muck
-Apr 26,home,GateWay (AZ),W,10-3,10,3,7,win,20240426_obe1,0,0,0,0,1.2,3,1,1,5.40,1.80,,5,2024,2023-24,div1,Central Arizona,centralarizonacollege,kartermuckuvh6,Karter Muck
-Apr 23,home,Eastern Arizona,L,13-9,13,9,4,win,20240423_k2vd,0,0,0,0,2.0,1,1,,0.00,1.50,2,2,2024,2023-24,div1,Central Arizona,centralarizonacollege,kartermuckuvh6,Karter Muck
-Apr 16,home,Arizona Western,L,11-7,11,7,4,win,20240416_6ogm,0,0,1,0,1.1,1,4,4,27.00,3.00,3,,2024,2023-24,div1,Central Arizona,centralarizonacollege,kartermuckuvh6,Karter Muck
-Apr 3,home,Glendale,W,19-15,19,15,4,win,20240403_382i,0,1,0,0,2.1,3,1,1,3.86,1.29,,3,2024,2023-24,div1,Central Arizona,centralarizonacollege,kartermuckuvh6,Karter Muck
-Mar 22,home,Phoenix,W,19-7,19,7,12,win,20240322_nr4n,0,0,0,0,1.0,,,,0.00,,,3,2024,2023-24,div1,Central Arizona,centralarizonacollege,kartermuckuvh6,Karter Muck
-Mar 18,home,Langley Blaze,W,17-1,17,1,16,win,20240318_u1hr,0,0,0,0,1.0,,,,0.00,,,1,2024,2023-24,div1,Central Arizona,centralarizonacollege,kartermuckuvh6,Karter Muck
-Mar 11,home,Western Nebraska,W,13-0,13,0,13,win,20240311_1ggs,0,0,0,0,3.0,2,,,0.00,.67,,5,2024,2023-24,div1,Central Arizona,centralarizonacollege,kartermuckuvh6,Karter Muck
-Mar 2,home,Scottsdale Post Grad,W,15-6,15,6,9,win,20240302_kqoy,0,0,0,0,1.1,1,,,0.00,1.50,1,3,2024,2023-24,div1,Central Arizona,centralarizonacollege,kartermuckuvh6,Karter Muck
-Feb 23,home,South Mountain,W,8-2,8,2,6,win,20240223_d37n,0,0,0,0,1.0,2,,,0.00,2.00,,,2024,2023-24,div1,Central Arizona,centralarizonacollege,kartermuckuvh6,Karter Muck
-Feb 4,home,Southern Nevada,W,8-2,8,2,6,win,20240204_qwy9,0,0,0,0,0.0,1,1,1,INF,,2,,2024,2023-24,div1,Central Arizona,centralarizonacollege,kartermuckuvh6,Karter Muck
-Jan 27,home,San Jacinto,L,8-6,8,6,2,win,20240127_k377,0,0,0,0,1.0,1,1,,0.00,2.00,1,,2024,2023-24,div1,Central Arizona,centralarizonacollege,kartermuckuvh6,Karter Muck
+May 3,home,South Mountain,W,3-2,3,2,1,win,20240503_vcs4,1,1,0,0,6.0,3,0,0,0.00,1.17,4,6,2024,2023-24,div1,Central Arizona,centralarizonacollege,kartermuckuvh6,Karter Muck
+Apr 23,home,Eastern Arizona,L,13-9,13,9,4,win,20240423_k2vd,1,0,0,0,2.0,2,2,0,0.00,1.50,1,2,2024,2023-24,div1,Central Arizona,centralarizonacollege,kartermuckuvh6,Karter Muck
+Apr 9,home,Pima,W,7-5,7,5,2,win,20240409_oql4,1,0,0,0,5.0,6,5,5,9.00,1.80,3,5,2024,2023-24,div1,Central Arizona,centralarizonacollege,kartermuckuvh6,Karter Muck
+Apr 3,home,Glendale,W,19-15,19,15,4,win,20240403_382i,1,0,0,0,4.0,5,6,1,2.25,1.50,1,2,2024,2023-24,div1,Central Arizona,centralarizonacollege,kartermuckuvh6,Karter Muck
+Mar 26,home,Paradise Valley,W,6-3,6,3,3,win,20240326_l4ky,1,1,0,0,6.0,3,2,2,3.00,.83,2,5,2024,2023-24,div1,Central Arizona,centralarizonacollege,kartermuckuvh6,Karter Muck
+Mar 19,home,Scottsdale,W,9-7,9,7,2,win,20240319_t2so,1,1,0,0,6.0,3,1,0,0.00,.50,0,7,2024,2023-24,div1,Central Arizona,centralarizonacollege,kartermuckuvh6,Karter Muck
+Mar 13,home,Yavapai,W,23-3,23,3,20,win,20240313_jo21,1,1,0,0,5.0,3,3,1,1.80,1.00,2,3,2024,2023-24,div1,Central Arizona,centralarizonacollege,kartermuckuvh6,Karter Muck
+Mar 6,home,GateWay (AZ),W,5-1,5,1,4,win,20240306_m74i,1,1,0,0,7.0,4,0,0,0.00,.86,2,8,2024,2023-24,div1,Central Arizona,centralarizonacollege,kartermuckuvh6,Karter Muck
+Feb 27,home,Eastern Arizona,W,5-0,5,0,5,win,20240227_8xy3,1,1,0,0,5.0,1,0,0,0.00,.60,2,5,2024,2023-24,div1,Central Arizona,centralarizonacollege,kartermuckuvh6,Karter Muck
+Feb 20,home,Arizona Western,W,12-7,12,7,5,win,20240220_9ja6,1,0,0,0,1.2,0,2,2,10.80,1.80,3,1,2024,2023-24,div1,Central Arizona,centralarizonacollege,kartermuckuvh6,Karter Muck
+Feb 10,home,Southern Idaho,W,7-0,7,0,7,win,20240210_277w,0,0,0,0,2.0,1,,,0.00,1.00,1,5,2024,2023-24,div1,Central Arizona,centralarizonacollege,kartermuckuvh6,Karter Muck
+Feb 4,home,Southern Nevada,W,8-2,8,2,6,win,20240204_qwy9,0,1,0,0,3.0,3,,,0.00,1.67,2,3,2024,2023-24,div1,Central Arizona,centralarizonacollege,kartermuckuvh6,Karter Muck
+Jan 27,home,San Jacinto,L,8-6,8,6,2,win,20240127_k377,0,0,0,0,2.1,2,3,1,3.86,1.29,1,6,2024,2023-24,div1,Central Arizona,centralarizonacollege,kartermuckuvh6,Karter Muck

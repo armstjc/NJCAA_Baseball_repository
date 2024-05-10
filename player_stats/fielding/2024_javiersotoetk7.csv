@@ -1,20 +1,54 @@
 date,location,opponent,result,score,team_score,opp_score,game_score_diff,game_win_loss,game_id,TC,PO,A,E,FPCT,DP,SBA,RCS,RCS_PCT,PB,CI,season,njcaa_season,njcaa_division,team,team_id,player_id,player_name
-Jan 28,home,New Mexico,L,12-4,12,4,8,win,20240128_r73g,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Santa Fe,santafecollege,javiersotoetk7,Javier Soto
-Feb 4,home,Luna,W,4-3,4,3,1,win,20240204_u2dx,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Santa Fe,santafecollege,javiersotoetk7,Javier Soto
-Feb 9,home,Western Nebraska,W,7-0,7,0,7,win,20240209_ofcc,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Santa Fe,santafecollege,javiersotoetk7,Javier Soto
-Feb 10,home,Western Nebraska,L,16-5,16,5,11,win,20240210_ghef,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Santa Fe,santafecollege,javiersotoetk7,Javier Soto
-Feb 10,home,Western Nebraska,W,11-10,11,10,1,win,20240210_zvcy,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Santa Fe,santafecollege,javiersotoetk7,Javier Soto
-Feb 24,home,Otero,L,17-9,17,9,8,win,20240224_3in3,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Santa Fe,santafecollege,javiersotoetk7,Javier Soto
-Mar 1,home,Weatherford,L,8-1,8,1,7,win,20240301_7ocw,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Santa Fe,santafecollege,javiersotoetk7,Javier Soto
-Mar 1,home,Weatherford,L,6-2,6,2,4,win,20240301_yvfj,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Santa Fe,santafecollege,javiersotoetk7,Javier Soto
-Mar 2,home,Weatherford,L,10-0,10,0,10,win,20240302_lw24,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Santa Fe,santafecollege,javiersotoetk7,Javier Soto
-Mar 2,home,Weatherford,L,5-1,5,1,4,win,20240302_du1j,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Santa Fe,santafecollege,javiersotoetk7,Javier Soto
-Mar 8,home,New Mexico,L,7-6,7,6,1,win,20240308_4he7,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Santa Fe,santafecollege,javiersotoetk7,Javier Soto
-Mar 15,home,Odessa,W,17-2,17,2,15,win,20240315_7j6r,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Santa Fe,santafecollege,javiersotoetk7,Javier Soto
-Mar 23,home,Midland,W,7-3,7,3,4,win,20240323_si8r,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Santa Fe,santafecollege,javiersotoetk7,Javier Soto
-Mar 28,home,Frank Phillips,W,28-20,28,20,8,win,20240328_9y6b,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Santa Fe,santafecollege,javiersotoetk7,Javier Soto
-Mar 29,home,Frank Phillips,L,14-12,14,12,2,win,20240329_dh2m,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Santa Fe,santafecollege,javiersotoetk7,Javier Soto
-Apr 20,home,El Paso,L,12-2,12,2,10,win,20240420_ovdp,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Santa Fe,santafecollege,javiersotoetk7,Javier Soto
-Apr 27,home,Amarillo College,L,14-1,14,1,13,win,20240427_xtx7,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Santa Fe,santafecollege,javiersotoetk7,Javier Soto
-May 4,home,Howard (TX),L,6-5,6,5,1,win,20240504_retl,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Santa Fe,santafecollege,javiersotoetk7,Javier Soto
-May 5,home,Howard (TX),L,12-11,12,11,1,win,20240505_m89y,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Santa Fe,santafecollege,javiersotoetk7,Javier Soto
+Jan 26,home,Lake-Sumter State,W,13-7,13,7,6,win,20240126_ffki,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Santa Fe,santafecollege,javiersotoetk7,Javier Soto
+Jan 27,home,Florida SouthWestern State,W,4-0,4,0,4,win,20240127_08jn,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Santa Fe,santafecollege,javiersotoetk7,Javier Soto
+Jan 27,home,St. Petersburg,W,8-4,8,4,4,win,20240127_o0k8,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Santa Fe,santafecollege,javiersotoetk7,Javier Soto
+Jan 31,home,TNXL Academy,W,9-8,9,8,1,win,20240131_oorh,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Santa Fe,santafecollege,javiersotoetk7,Javier Soto
+Feb 2,home,South Georgia State,L,13-5,13,5,8,win,20240202_i8uc,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Santa Fe,santafecollege,javiersotoetk7,Javier Soto
+Feb 2,home,South Georgia State,L,14-7,14,7,7,win,20240202_01ea,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Santa Fe,santafecollege,javiersotoetk7,Javier Soto
+Feb 3,home,South Florida State,W,4-2,4,2,2,win,20240203_0eqz,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Santa Fe,santafecollege,javiersotoetk7,Javier Soto
+Feb 3,home,South Florida State,W,13-3,13,3,10,win,20240203_p42t,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Santa Fe,santafecollege,javiersotoetk7,Javier Soto
+Feb 7,home,Abraham Baldwin,W,6-5,6,5,1,win,20240207_cszy,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Santa Fe,santafecollege,javiersotoetk7,Javier Soto
+Feb 10,home,South Florida State,W,14-3,14,3,11,win,20240210_q0c5,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Santa Fe,santafecollege,javiersotoetk7,Javier Soto
+Feb 10,home,South Florida State,W,7-4,7,4,3,win,20240210_ghd1,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Santa Fe,santafecollege,javiersotoetk7,Javier Soto
+Feb 13,home,Tallahassee,L,20-9,20,9,11,win,20240213_u04w,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Santa Fe,santafecollege,javiersotoetk7,Javier Soto
+Feb 15,home,Polk State,L,6-4,6,4,2,win,20240215_iltj,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Santa Fe,santafecollege,javiersotoetk7,Javier Soto
+Feb 16,home,Polk State,W,6-1,6,1,5,win,20240216_5k15,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Santa Fe,santafecollege,javiersotoetk7,Javier Soto
+Feb 16,home,Polk State,W,8-1,8,1,7,win,20240216_g5bo,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Santa Fe,santafecollege,javiersotoetk7,Javier Soto
+Feb 20,home,St. Johns River State,L,8-5,8,5,3,win,20240220_ihsr,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Santa Fe,santafecollege,javiersotoetk7,Javier Soto
+Feb 22,home,Daytona State,L,13-9,13,9,4,win,20240222_u625,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Santa Fe,santafecollege,javiersotoetk7,Javier Soto
+Feb 24,home,Daytona State,W,5-1,5,1,4,win,20240224_dik6,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Santa Fe,santafecollege,javiersotoetk7,Javier Soto
+Feb 24,home,Daytona State,L,9-7,9,7,2,win,20240224_ikul,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Santa Fe,santafecollege,javiersotoetk7,Javier Soto
+Feb 27,home,Abraham Baldwin,L,5-4,5,4,1,win,20240227_8fz2,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Santa Fe,santafecollege,javiersotoetk7,Javier Soto
+Feb 29,home,Indian River State,W,8-1,8,1,7,win,20240229_b0jz,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Santa Fe,santafecollege,javiersotoetk7,Javier Soto
+Mar 2,home,Indian River State,L,6-1,6,1,5,win,20240302_871z,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Santa Fe,santafecollege,javiersotoetk7,Javier Soto
+Mar 2,home,Indian River State,W,6-5,6,5,1,win,20240302_p44k,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Santa Fe,santafecollege,javiersotoetk7,Javier Soto
+Mar 7,home,Miami Dade,L,10-0,10,0,10,win,20240307_t2xu,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Santa Fe,santafecollege,javiersotoetk7,Javier Soto
+Mar 9,home,Miami Dade,W,6-1,6,1,5,win,20240309_01zj,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Santa Fe,santafecollege,javiersotoetk7,Javier Soto
+Mar 9,home,Miami Dade,L,8-5,8,5,3,win,20240309_ht4p,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Santa Fe,santafecollege,javiersotoetk7,Javier Soto
+Mar 12,home,St. Johns River State,L,19-12,19,12,7,win,20240312_bbjc,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Santa Fe,santafecollege,javiersotoetk7,Javier Soto
+Mar 14,home,Eastern Florida State,W,8-6,8,6,2,win,20240314_yjzv,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Santa Fe,santafecollege,javiersotoetk7,Javier Soto
+Mar 16,home,Eastern Florida State,L,1-0,1,0,1,win,20240316_y75s,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Santa Fe,santafecollege,javiersotoetk7,Javier Soto
+Mar 16,home,Eastern Florida State,W,16-6,16,6,10,win,20240316_20q9,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Santa Fe,santafecollege,javiersotoetk7,Javier Soto
+Mar 21,home,Central Florida,W,2-0,2,0,2,win,20240321_lk14,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Santa Fe,santafecollege,javiersotoetk7,Javier Soto
+Mar 24,home,Central Florida,W,4-3,4,3,1,win,20240324_vaq8,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Santa Fe,santafecollege,javiersotoetk7,Javier Soto
+Mar 24,home,Central Florida,L,10-4,10,4,6,win,20240324_8vsu,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Santa Fe,santafecollege,javiersotoetk7,Javier Soto
+Mar 28,home,Seminole State (FL),L,9-1,9,1,8,win,20240328_bokp,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Santa Fe,santafecollege,javiersotoetk7,Javier Soto
+Mar 30,home,Seminole State (FL),W,7-1,7,1,6,win,20240330_9dgd,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Santa Fe,santafecollege,javiersotoetk7,Javier Soto
+Mar 30,home,Seminole State (FL),W,6-3,6,3,3,win,20240330_8sjj,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Santa Fe,santafecollege,javiersotoetk7,Javier Soto
+Apr 2,home,Florida State Jacksonville,W,4-3,4,3,1,win,20240402_oczu,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Santa Fe,santafecollege,javiersotoetk7,Javier Soto
+Apr 4,home,Florida SouthWestern State,L,16-10,16,10,6,win,20240404_hsxu,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Santa Fe,santafecollege,javiersotoetk7,Javier Soto
+Apr 6,home,Florida SouthWestern State,W,5-4,5,4,1,win,20240406_20m6,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Santa Fe,santafecollege,javiersotoetk7,Javier Soto
+Apr 6,home,Florida SouthWestern State,L,10-0,10,0,10,win,20240406_rpun,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Santa Fe,santafecollege,javiersotoetk7,Javier Soto
+Apr 9,home,Florida State Jacksonville,W,9-4,9,4,5,win,20240409_dmaw,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Santa Fe,santafecollege,javiersotoetk7,Javier Soto
+Apr 12,home,State College of Florida,W,10-9,10,9,1,win,20240412_yo5s,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Santa Fe,santafecollege,javiersotoetk7,Javier Soto
+Apr 14,home,State College of Florida,L,11-5,11,5,6,win,20240414_1t46,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Santa Fe,santafecollege,javiersotoetk7,Javier Soto
+Apr 14,home,State College of Florida,W,6-4,6,4,2,win,20240414_s2fy,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Santa Fe,santafecollege,javiersotoetk7,Javier Soto
+Apr 17,home,Lake-Sumter State,W,12-7,12,7,5,win,20240417_ypnb,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Santa Fe,santafecollege,javiersotoetk7,Javier Soto
+Apr 18,home,St. Petersburg,W,10-8,10,8,2,win,20240418_d5kc,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Santa Fe,santafecollege,javiersotoetk7,Javier Soto
+Apr 20,home,St. Petersburg,W,17-0,17,0,17,win,20240420_e39g,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Santa Fe,santafecollege,javiersotoetk7,Javier Soto
+Apr 20,home,St. Petersburg,L,8-7,8,7,1,win,20240420_fyos,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Santa Fe,santafecollege,javiersotoetk7,Javier Soto
+Apr 25,home,Hillsborough,L,10-2,10,2,8,win,20240425_3nej,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Santa Fe,santafecollege,javiersotoetk7,Javier Soto
+Apr 27,home,Hillsborough,W,2-1,2,1,1,win,20240427_2ntd,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Santa Fe,santafecollege,javiersotoetk7,Javier Soto
+Apr 27,home,Hillsborough,W,6-5,6,5,1,win,20240427_oyrn,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Santa Fe,santafecollege,javiersotoetk7,Javier Soto
+May 3,home,Florida SouthWestern State,L,8-1,8,1,7,win,20240503_imi3,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Santa Fe,santafecollege,javiersotoetk7,Javier Soto
+May 4,home,Florida SouthWestern State,L,3-2,3,2,1,win,20240504_7wed,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Santa Fe,santafecollege,javiersotoetk7,Javier Soto

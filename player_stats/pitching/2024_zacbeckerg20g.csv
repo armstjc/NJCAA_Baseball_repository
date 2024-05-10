@@ -1,12 +1,23 @@
 date,location,opponent,result,score,team_score,opp_score,game_score_diff,game_win_loss,game_id,GS,W,L,SV,IP,H,R,ER,ERA,BB,K,HR,season,njcaa_season,njcaa_division,team,team_id,player_id,player_name
-May 1,home,Labette,W,10-3,10,3,7,win,20240501_wi93,0,0,0,1,2.2,1,,,0.00,.38,,3,2024,2023-24,div1,Coffeyville,coffeyvillecommunitycollege,zacbeckerg20g,Zac Becker
-Apr 20,home,Barton,L,7-4,7,4,3,win,20240420_f3el,0,0,1,0,0.2,2,4,4,54.00,6.00,2,2,2024,2023-24,div1,Coffeyville,coffeyvillecommunitycollege,zacbeckerg20g,Zac Becker
-Apr 16,home,Butler,W,20-10,20,10,10,win,20240416_onlw,0,1,0,0,2.2,3,,,0.00,1.88,2,1,2024,2023-24,div1,Coffeyville,coffeyvillecommunitycollege,zacbeckerg20g,Zac Becker
-Apr 4,home,Johnson County,L,5-3,5,3,2,win,20240404_bh0t,0,0,1,0,0.1,1,2,2,54.00,6.00,1,,2024,2023-24,div1,Coffeyville,coffeyvillecommunitycollege,zacbeckerg20g,Zac Becker
-Mar 30,home,Fort Scott,L,23-4,23,4,19,win,20240330_tllk,0,0,0,0,3.1,7,5,5,13.50,2.40,1,1,2024,2023-24,div1,Coffeyville,coffeyvillecommunitycollege,zacbeckerg20g,Zac Becker
-Mar 23,home,Neosho County,L,7-0,7,0,7,win,20240323_n2wf,0,0,0,0,0.2,,,,0.00,,,,2024,2023-24,div1,Coffeyville,coffeyvillecommunitycollege,zacbeckerg20g,Zac Becker
-Mar 14,home,Kansas City Kansas,L,3-2,3,2,1,win,20240314_a19y,0,0,0,0,0.1,,,,0.00,6.00,2,,2024,2023-24,div1,Coffeyville,coffeyvillecommunitycollege,zacbeckerg20g,Zac Becker
-Mar 12,home,Butler,W,14-11,14,11,3,win,20240312_s5sw,0,0,0,0,3.0,3,1,1,3.00,1.33,1,3,2024,2023-24,div1,Coffeyville,coffeyvillecommunitycollege,zacbeckerg20g,Zac Becker
-Mar 9,home,Cowley,W,6-4,6,4,2,win,20240309_qb0c,0,0,0,0,0.1,1,,,0.00,3.00,,,2024,2023-24,div1,Coffeyville,coffeyvillecommunitycollege,zacbeckerg20g,Zac Becker
-Mar 1,home,Hutchinson,L,15-3,15,3,12,win,20240301_5ibo,0,0,0,0,1.1,5,4,4,27.00,4.50,1,,2024,2023-24,div1,Coffeyville,coffeyvillecommunitycollege,zacbeckerg20g,Zac Becker
-Feb 10,home,Southwestern,W,7-4,7,4,3,win,20240210_4761,0,0,0,0,2.0,1,,,0.00,.50,,2,2024,2023-24,div1,Coffeyville,coffeyvillecommunitycollege,zacbeckerg20g,Zac Becker
+May 4,home,Labette,W,10-7,10,7,3,win,20240504_q5pq,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div1,Coffeyville,coffeyvillecommunitycollege,zacbeckerg20g,Zac Becker
+May 1,home,Labette,W,6-3,6,3,3,win,20240501_657v,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div1,Coffeyville,coffeyvillecommunitycollege,zacbeckerg20g,Zac Becker
+Apr 24,home,Allen County,W,12-9,12,9,3,win,20240424_7phb,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div1,Coffeyville,coffeyvillecommunitycollege,zacbeckerg20g,Zac Becker
+Apr 18,home,Barton,W,7-3,7,3,4,win,20240418_npvc,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div1,Coffeyville,coffeyvillecommunitycollege,zacbeckerg20g,Zac Becker
+Apr 13,home,Highland (KS),W,15-11,15,11,4,win,20240413_cy4f,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div1,Coffeyville,coffeyvillecommunitycollege,zacbeckerg20g,Zac Becker
+Apr 11,home,Highland (KS),W,29-5,29,5,24,win,20240411_ackr,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div1,Coffeyville,coffeyvillecommunitycollege,zacbeckerg20g,Zac Becker
+Apr 8,home,Oklahoma Wesleyan JV,W,10-0,10,0,10,win,20240408_dh4l,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div1,Coffeyville,coffeyvillecommunitycollege,zacbeckerg20g,Zac Becker
+Apr 3,home,Baker JV,W,22-1,22,1,21,win,20240403_53to,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div1,Coffeyville,coffeyvillecommunitycollege,zacbeckerg20g,Zac Becker
+Mar 30,home,Fort Scott,L,7-6,7,6,1,win,20240330_r4vw,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div1,Coffeyville,coffeyvillecommunitycollege,zacbeckerg20g,Zac Becker
+Mar 28,home,Fort Scott,L,7-6,7,6,1,win,20240328_o8jd,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div1,Coffeyville,coffeyvillecommunitycollege,zacbeckerg20g,Zac Becker
+Mar 28,home,Fort Scott,L,4-1,4,1,3,win,20240328_7c4l,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div1,Coffeyville,coffeyvillecommunitycollege,zacbeckerg20g,Zac Becker
+Mar 25,home,Central Christian JV,W,19-7,19,7,12,win,20240325_02ek,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div1,Coffeyville,coffeyvillecommunitycollege,zacbeckerg20g,Zac Becker
+Mar 1,home,Hutchinson,L,7-3,7,3,4,win,20240301_cg81,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div1,Coffeyville,coffeyvillecommunitycollege,zacbeckerg20g,Zac Becker
+Feb 29,home,Hutchinson,L,14-4,14,4,10,win,20240229_n3xx,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div1,Coffeyville,coffeyvillecommunitycollege,zacbeckerg20g,Zac Becker
+Feb 21,home,Oklahoma Wesleyan JV,W,16-2,16,2,14,win,20240221_cu7l,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div1,Coffeyville,coffeyvillecommunitycollege,zacbeckerg20g,Zac Becker
+Feb 21,home,Oklahoma Wesleyan JV,W,14-0,14,0,14,win,20240221_q0ge,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div1,Coffeyville,coffeyvillecommunitycollege,zacbeckerg20g,Zac Becker
+Feb 15,home,Cloud County,L,8-4,8,4,4,win,20240215_u8h1,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div1,Coffeyville,coffeyvillecommunitycollege,zacbeckerg20g,Zac Becker
+Feb 14,home,Dodge City,L,12-6,12,6,6,win,20240214_lz6w,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div1,Coffeyville,coffeyvillecommunitycollege,zacbeckerg20g,Zac Becker
+Feb 14,home,Butler,W,16-2,16,2,14,win,20240214_4qro,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div1,Coffeyville,coffeyvillecommunitycollege,zacbeckerg20g,Zac Becker
+Feb 10,home,Southwestern,W,3-2,3,2,1,win,20240210_t571,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div1,Coffeyville,coffeyvillecommunitycollege,zacbeckerg20g,Zac Becker
+Feb 10,home,Southwestern,W,7-4,7,4,3,win,20240210_4761,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div1,Coffeyville,coffeyvillecommunitycollege,zacbeckerg20g,Zac Becker
+Feb 9,home,Southwestern,L,6-3,6,3,3,win,20240209_oo7q,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div1,Coffeyville,coffeyvillecommunitycollege,zacbeckerg20g,Zac Becker

@@ -1,24 +1,15 @@
 date,location,opponent,result,score,team_score,opp_score,game_score_diff,game_win_loss,game_id,TC,PO,A,E,FPCT,DP,SBA,RCS,RCS_PCT,PB,CI,season,njcaa_season,njcaa_division,team,team_id,player_id,player_name
-Jan 26,home,Gulf Coast State,L,4-3,4,3,1,win,20240126_17k1,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,State College of Florida,statecollegeoffloridamanateesaraso,brandonclarkeehd9,Brandon Clarke
-Jan 27,home,Northwest Florida State,W,7-5,7,5,2,win,20240127_9k7v,0,0,0,1,2.0,3,1,1,4.50,2.00,1,2024,2023-24,div1,State College of Florida,statecollegeoffloridamanateesaraso,brandonclarkeehd9,Brandon Clarke
-Feb 2,home,McLennan,W,10-9,10,9,1,win,20240202_f1p2,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,State College of Florida,statecollegeoffloridamanateesaraso,brandonclarkeehd9,Brandon Clarke
-Feb 3,home,Wallace-Dothan,L,7-1,7,1,6,win,20240203_s341,0,0,0,0,1.2,3,2,2,10.80,2.40,1,2024,2023-24,div1,State College of Florida,statecollegeoffloridamanateesaraso,brandonclarkeehd9,Brandon Clarke
-Feb 3,home,Florence-Darlington Tech,W,7-1,7,1,6,win,20240203_rzue,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,State College of Florida,statecollegeoffloridamanateesaraso,brandonclarkeehd9,Brandon Clarke
-Feb 10,home,Tallahassee,W,14-7,14,7,7,win,20240210_2hhz,0,0,0,0,1.0,,,,0.00,,,2024,2023-24,div1,State College of Florida,statecollegeoffloridamanateesaraso,brandonclarkeehd9,Brandon Clarke
-Feb 10,home,Tallahassee,W,14-3,14,3,11,win,20240210_53uf,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,State College of Florida,statecollegeoffloridamanateesaraso,brandonclarkeehd9,Brandon Clarke
-Feb 16,home,Seminole State (FL),L,11-3,11,3,8,win,20240216_dglk,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,State College of Florida,statecollegeoffloridamanateesaraso,brandonclarkeehd9,Brandon Clarke
-Feb 24,home,Polk State,L,3-2,3,2,1,win,20240224_mh3m,0,0,0,0,2.0,1,,,0.00,.50,,2024,2023-24,div1,State College of Florida,statecollegeoffloridamanateesaraso,brandonclarkeehd9,Brandon Clarke
-Mar 1,home,Daytona State,L,11-10,11,10,1,win,20240301_5zxn,0,0,1,0,2.0,5,4,2,9.00,3.50,2,2024,2023-24,div1,State College of Florida,statecollegeoffloridamanateesaraso,brandonclarkeehd9,Brandon Clarke
-Mar 7,home,Florida SouthWestern State,W,11-3,11,3,8,win,20240307_6xnw,0,0,0,0,0.1,,,,0.00,,,2024,2023-24,div1,State College of Florida,statecollegeoffloridamanateesaraso,brandonclarkeehd9,Brandon Clarke
-Mar 9,home,Florida SouthWestern State,L,11-5,11,5,6,win,20240309_moh7,0,0,0,0,1.2,4,5,2,10.80,2.40,,2024,2023-24,div1,State College of Florida,statecollegeoffloridamanateesaraso,brandonclarkeehd9,Brandon Clarke
-Mar 16,home,Miami Dade,L,8-7,8,7,1,win,20240316_s4s7,0,0,0,0,2.1,2,0,0,0.00,.86,0,2024,2023-24,div1,State College of Florida,statecollegeoffloridamanateesaraso,brandonclarkeehd9,Brandon Clarke
-Mar 16,home,Miami Dade,L,10-7,10,7,3,win,20240316_pkxq,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,State College of Florida,statecollegeoffloridamanateesaraso,brandonclarkeehd9,Brandon Clarke
-Mar 19,home,Florida SouthWestern State,W,7-2,7,2,5,win,20240319_axd5,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,State College of Florida,statecollegeoffloridamanateesaraso,brandonclarkeehd9,Brandon Clarke
-Mar 21,home,Hillsborough,W,2-1,2,1,1,win,20240321_15y0,0,0,0,1,2.0,2,1,1,4.50,1.50,1,2024,2023-24,div1,State College of Florida,statecollegeoffloridamanateesaraso,brandonclarkeehd9,Brandon Clarke
-Mar 29,home,Central Florida,L,10-9,10,9,1,win,20240329_c2ku,0,0,1,0,1.1,2,1,1,6.75,2.25,1,2024,2023-24,div1,State College of Florida,statecollegeoffloridamanateesaraso,brandonclarkeehd9,Brandon Clarke
-Mar 30,home,Central Florida,W,16-15,16,15,1,win,20240330_pgr2,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,State College of Florida,statecollegeoffloridamanateesaraso,brandonclarkeehd9,Brandon Clarke
-Apr 4,home,Indian River State,W,6-4,6,4,2,win,20240404_p8c5,0,1,0,0,3.0,3,3,3,9.00,2.33,4,2024,2023-24,div1,State College of Florida,statecollegeoffloridamanateesaraso,brandonclarkeehd9,Brandon Clarke
-Apr 12,home,Santa Fe,L,10-9,10,9,1,win,20240412_yo5s,0,0,1,0,2.0,4,4,1,4.50,2.50,1,2024,2023-24,div1,State College of Florida,statecollegeoffloridamanateesaraso,brandonclarkeehd9,Brandon Clarke
-Apr 14,home,Santa Fe,L,6-4,6,4,2,win,20240414_s2fy,0,0,0,0,1.0,,,,0.00,1.00,1,2024,2023-24,div1,State College of Florida,statecollegeoffloridamanateesaraso,brandonclarkeehd9,Brandon Clarke
-Apr 18,home,Eastern Florida State,W,6-5,6,5,1,win,20240418_xprz,0,1,0,0,3.0,2,1,,0.00,.67,,2024,2023-24,div1,State College of Florida,statecollegeoffloridamanateesaraso,brandonclarkeehd9,Brandon Clarke
-Apr 27,home,St. Petersburg,W,9-1,9,1,8,win,20240427_emao,0,0,0,0,2.0,,,,0.00,.50,1,2024,2023-24,div1,State College of Florida,statecollegeoffloridamanateesaraso,brandonclarkeehd9,Brandon Clarke
+Jan 26,home,Gulf Coast State,L,4-3,4,3,1,win,20240126_17k1,1,0,0,0,4.0,3,1,0,0.00,1.00,1,2024,2023-24,div1,State College of Florida,statecollegeoffloridamanateesaraso,brandonclarkeehd9,Brandon Clarke
+Feb 2,home,McLennan,W,10-9,10,9,1,win,20240202_f1p2,1,0,0,0,2.0,6,5,3,13.50,5.00,4,2024,2023-24,div1,State College of Florida,statecollegeoffloridamanateesaraso,brandonclarkeehd9,Brandon Clarke
+Feb 9,home,Tallahassee,W,14-11,14,11,3,win,20240209_jxj9,1,1,0,0,4.1,8,5,4,8.31,2.08,1,2024,2023-24,div1,State College of Florida,statecollegeoffloridamanateesaraso,brandonclarkeehd9,Brandon Clarke
+Feb 15,home,Seminole State (FL),L,8-5,8,5,3,win,20240215_xy9z,1,0,1,0,5.0,5,4,4,7.20,1.40,2,2024,2023-24,div1,State College of Florida,statecollegeoffloridamanateesaraso,brandonclarkeehd9,Brandon Clarke
+Feb 22,home,Polk State,W,9-5,9,5,4,win,20240222_9rmh,1,1,0,0,5.0,4,3,2,3.60,1.20,2,2024,2023-24,div1,State College of Florida,statecollegeoffloridamanateesaraso,brandonclarkeehd9,Brandon Clarke
+Feb 29,home,Daytona State,W,11-3,11,3,8,win,20240229_brjb,1,1,0,0,7.0,5,3,3,3.86,.86,1,2024,2023-24,div1,State College of Florida,statecollegeoffloridamanateesaraso,brandonclarkeehd9,Brandon Clarke
+Mar 7,home,Florida SouthWestern State,W,11-3,11,3,8,win,20240307_6xnw,1,1,0,0,6.0,4,2,2,3.00,.83,1,2024,2023-24,div1,State College of Florida,statecollegeoffloridamanateesaraso,brandonclarkeehd9,Brandon Clarke
+Mar 14,home,Miami Dade,L,5-1,5,1,4,win,20240314_h7t7,1,0,1,0,6.1,5,4,4,5.68,1.58,5,2024,2023-24,div1,State College of Florida,statecollegeoffloridamanateesaraso,brandonclarkeehd9,Brandon Clarke
+Mar 21,home,Hillsborough,W,2-1,2,1,1,win,20240321_15y0,1,1,0,0,7.0,2,0,0,0.00,.86,4,2024,2023-24,div1,State College of Florida,statecollegeoffloridamanateesaraso,brandonclarkeehd9,Brandon Clarke
+Mar 29,home,Central Florida,L,10-9,10,9,1,win,20240329_c2ku,1,0,0,0,3.2,5,4,4,9.82,3.27,7,2024,2023-24,div1,State College of Florida,statecollegeoffloridamanateesaraso,brandonclarkeehd9,Brandon Clarke
+Apr 4,home,Indian River State,W,6-4,6,4,2,win,20240404_p8c5,1,0,0,0,6.0,4,1,1,1.50,1.17,3,2024,2023-24,div1,State College of Florida,statecollegeoffloridamanateesaraso,brandonclarkeehd9,Brandon Clarke
+Apr 12,home,Santa Fe,L,10-9,10,9,1,win,20240412_yo5s,1,0,0,0,7.0,6,6,6,7.71,1.00,1,2024,2023-24,div1,State College of Florida,statecollegeoffloridamanateesaraso,brandonclarkeehd9,Brandon Clarke
+Apr 18,home,Eastern Florida State,W,6-5,6,5,1,win,20240418_xprz,1,0,0,0,6.0,5,4,3,4.50,1.00,1,2024,2023-24,div1,State College of Florida,statecollegeoffloridamanateesaraso,brandonclarkeehd9,Brandon Clarke
+Apr 27,home,St. Petersburg,W,9-1,9,1,8,win,20240427_emao,1,1,0,0,5.0,3,1,0,0.00,1.00,2,2024,2023-24,div1,State College of Florida,statecollegeoffloridamanateesaraso,brandonclarkeehd9,Brandon Clarke

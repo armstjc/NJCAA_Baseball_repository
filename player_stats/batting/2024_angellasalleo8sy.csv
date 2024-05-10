@@ -1,6 +1,22 @@
 date,location,opponent,result,score,team_score,opp_score,game_score_diff,game_win_loss,game_id,AB,R,H,2B,3B,HR,RBI,BB,K,SB,CS,HBP,SF,SH,TB,XBH,HDP,GO,FO,GO/FO,PA,season,njcaa_season,njcaa_division,team,team_id,player_id,player_name
-Feb 14,home,Brewton Parker JV,W,6-1,6,1,5,win,20240214_kg84,0,0,0,,,,0,,,,,,,,0,0,,,,,0,2024,2023-24,div1,Odessa,odessacollege,angellasalleo8sy,Angel LaSalle
-Feb 19,home,Point JV,W,10-4,10,4,6,win,20240219_can1,0,0,0,,,,0,,,,,,,,0,0,,,,,0,2024,2023-24,div1,Odessa,odessacollege,angellasalleo8sy,Angel LaSalle
-Mar 11,home,Point JV,W,12-1,12,1,11,win,20240311_8ham,0,0,0,,,,0,,,,,,,,0,0,,,,,0,2024,2023-24,div1,Odessa,odessacollege,angellasalleo8sy,Angel LaSalle
-Mar 30,home,South Georgia State,W,21-6,21,6,15,win,20240330_7w8y,0,0,0,,,,0,,,,,,,,0,0,,,,,0,2024,2023-24,div1,Odessa,odessacollege,angellasalleo8sy,Angel LaSalle
-May 2,home,Abraham Baldwin,W,8-6,8,6,2,win,20240502_zu0p,0,0,0,,,,0,,,,,,,,0,0,,,,,0,2024,2023-24,div1,Odessa,odessacollege,angellasalleo8sy,Angel LaSalle
+Feb 16,home,Seward County,W,6-2,6,2,4,win,20240216_wspd,3,0,3,,,,0,,,,,,,,3,0,,,,,3,2024,2023-24,div1,Odessa,odessacollege,angellasalleo8sy,Angel LaSalle
+Feb 16,home,Seward County,W,15-7,15,7,8,win,20240216_4omp,3,3,3,,,,0,1,,1,,,,,3,0,,,,,4,2024,2023-24,div1,Odessa,odessacollege,angellasalleo8sy,Angel LaSalle
+Feb 17,home,Dallas College - Richland,W,4-0,4,0,4,win,20240217_ztgj,3,0,1,,,,0,,1,,,,,,1,0,,,,,3,2024,2023-24,div1,Odessa,odessacollege,angellasalleo8sy,Angel LaSalle
+Mar 1,home,Colby,W,8-1,8,1,7,win,20240301_tlbn,1,1,0,,,,1,1,,,,,,1,0,0,,,,,3,2024,2023-24,div1,Odessa,odessacollege,angellasalleo8sy,Angel LaSalle
+Mar 2,home,Colby,W,8-7,8,7,1,win,20240302_402r,3,1,1,,,,0,,,,,,,,1,0,,,,,3,2024,2023-24,div1,Odessa,odessacollege,angellasalleo8sy,Angel LaSalle
+Mar 2,home,Colby,W,6-5,6,5,1,win,20240302_hziq,0,0,0,,,,0,,,,,,,1,0,0,,,,,1,2024,2023-24,div1,Odessa,odessacollege,angellasalleo8sy,Angel LaSalle
+Mar 9,home,Midland,W,12-2,12,2,10,win,20240309_613x,4,1,3,,,,3,,,1,,,,,3,0,,,,,4,2024,2023-24,div1,Odessa,odessacollege,angellasalleo8sy,Angel LaSalle
+Mar 9,home,Midland,W,10-9,10,9,1,win,20240309_ls0n,4,1,1,1,,,2,,2,,,,1,,2,1,,,,,5,2024,2023-24,div1,Odessa,odessacollege,angellasalleo8sy,Angel LaSalle
+Mar 16,home,New Mexico Military,W,5-3,5,3,2,win,20240316_7j0o,1,1,1,,,1,2,,,,,,,,4,1,,,,,1,2024,2023-24,div1,Odessa,odessacollege,angellasalleo8sy,Angel LaSalle
+Mar 22,home,Clarendon,W,4-0,4,0,4,win,20240322_nnia,3,0,0,,,,0,,1,,,,,,0,0,,,,,3,2024,2023-24,div1,Odessa,odessacollege,angellasalleo8sy,Angel LaSalle
+Mar 23,home,Clarendon,W,13-2,13,2,11,win,20240323_b4oy,2,1,0,,,,0,1,,,,,,1,0,0,,,,,4,2024,2023-24,div1,Odessa,odessacollege,angellasalleo8sy,Angel LaSalle
+Mar 23,home,Clarendon,W,13-9,13,9,4,win,20240323_8zyp,0,0,0,,,,0,,,,,,,,0,0,,,,,0,2024,2023-24,div1,Odessa,odessacollege,angellasalleo8sy,Angel LaSalle
+Mar 28,home,Western Texas,W,11-9,11,9,2,win,20240328_77zd,3,2,2,,,,0,1,,,,,,,2,0,,,,,4,2024,2023-24,div1,Odessa,odessacollege,angellasalleo8sy,Angel LaSalle
+Mar 29,home,Western Texas,W,9-5,9,5,4,win,20240329_o455,2,1,2,1,,,2,,,,,,,,3,1,,,,,2,2024,2023-24,div1,Odessa,odessacollege,angellasalleo8sy,Angel LaSalle
+Mar 29,home,Western Texas,W,10-2,10,2,8,win,20240329_w5je,3,0,0,,,,0,,1,,,,,,0,0,,,,,3,2024,2023-24,div1,Odessa,odessacollege,angellasalleo8sy,Angel LaSalle
+Apr 4,home,Frank Phillips,W,12-4,12,4,8,win,20240404_ip8l,3,2,2,,1,,0,1,,,,,,,4,1,,,,,4,2024,2023-24,div1,Odessa,odessacollege,angellasalleo8sy,Angel LaSalle
+Apr 9,home,Wayland Baptist JV,W,12-2,12,2,10,win,20240409_29uw,2,1,1,,,,2,,,,,,,,1,0,,,,,2,2024,2023-24,div1,Odessa,odessacollege,angellasalleo8sy,Angel LaSalle
+Apr 12,home,El Paso,W,11-1,11,1,10,win,20240412_c04c,3,2,2,1,,,0,,1,,,,,,3,1,,,,,3,2024,2023-24,div1,Odessa,odessacollege,angellasalleo8sy,Angel LaSalle
+Apr 26,home,Howard (TX),W,6-4,6,4,2,win,20240426_i1j9,2,0,0,,,,0,,,,,1,,,0,0,,,,,3,2024,2023-24,div1,Odessa,odessacollege,angellasalleo8sy,Angel LaSalle
+May 3,home,New Mexico,W,11-6,11,6,5,win,20240503_8dcc,3,0,1,,,,0,,1,,,1,,,1,0,,,,,4,2024,2023-24,div1,Odessa,odessacollege,angellasalleo8sy,Angel LaSalle
+May 4,home,New Mexico,W,12-5,12,5,7,win,20240504_es6l,4,0,2,,,,0,,2,,,,,,2,0,,,,,4,2024,2023-24,div1,Odessa,odessacollege,angellasalleo8sy,Angel LaSalle

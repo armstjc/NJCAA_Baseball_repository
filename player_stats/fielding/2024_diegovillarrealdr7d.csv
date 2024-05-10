@@ -1,11 +1,45 @@
 date,location,opponent,result,score,team_score,opp_score,game_score_diff,game_win_loss,game_id,TC,PO,A,E,FPCT,DP,SBA,RCS,RCS_PCT,PB,CI,season,njcaa_season,njcaa_division,team,team_id,player_id,player_name
-Feb 17,home,El Paso,W,7-6,7,6,1,win,20240217_22e6,1,0,0,0,7.0,7,3,2,2.57,1.14,1,2024,2023-24,div1,Otero,oterocollege,diegovillarrealdr7d,Diego Villarreal
-Feb 24,home,New Mexico Military,W,17-9,17,9,8,win,20240224_3in3,1,0,0,0,4.0,4,8,3,6.75,1.75,3,2024,2023-24,div1,Otero,oterocollege,diegovillarrealdr7d,Diego Villarreal
-Mar 2,home,Dodge City,W,6-5,6,5,1,win,20240302_f06m,1,1,0,0,5.1,4,4,2,3.38,1.50,4,2024,2023-24,div1,Otero,oterocollege,diegovillarrealdr7d,Diego Villarreal
-Mar 18,home,Colby,W,7-6,7,6,1,win,20240318_rclu,0,0,0,0,2.0,3,1,1,4.50,1.50,,2024,2023-24,div1,Otero,oterocollege,diegovillarrealdr7d,Diego Villarreal
-Mar 23,home,Southeast,W,4-3,4,3,1,win,20240323_3qhn,1,0,0,0,5.1,4,3,3,5.06,1.88,6,2024,2023-24,div1,Otero,oterocollege,diegovillarrealdr7d,Diego Villarreal
-Apr 8,home,Trinidad State,W,12-2,12,2,10,win,20240408_tihe,1,1,0,0,4.0,3,0,0,0.00,1.00,1,2024,2023-24,div1,Otero,oterocollege,diegovillarrealdr7d,Diego Villarreal
-Apr 14,home,Western Nebraska,W,4-1,4,1,3,win,20240414_v4kj,1,1,0,0,7.0,5,1,1,1.29,1.14,3,2024,2023-24,div1,Otero,oterocollege,diegovillarrealdr7d,Diego Villarreal
-Apr 22,home,Northeastern,W,5-4,5,4,1,win,20240422_bgel,1,0,0,0,7.0,6,4,4,5.14,1.14,2,2024,2023-24,div1,Otero,oterocollege,diegovillarrealdr7d,Diego Villarreal
-Apr 28,home,Luna,W,3-2,3,2,1,win,20240428_5of9,1,0,0,0,6.0,7,2,2,3.00,1.50,2,2024,2023-24,div1,Otero,oterocollege,diegovillarrealdr7d,Diego Villarreal
-May 3,home,Lamar,L,4-1,4,1,3,win,20240503_fuc3,1,0,1,0,4.0,8,3,3,6.75,2.75,3,2024,2023-24,div1,Otero,oterocollege,diegovillarrealdr7d,Diego Villarreal
+Feb 17,home,El Paso,L,4-1,4,1,3,win,20240217_9dv7,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Otero,oterocollege,diegovillarrealdr7d,Diego Villarreal
+Feb 17,home,El Paso,W,7-6,7,6,1,win,20240217_22e6,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Otero,oterocollege,diegovillarrealdr7d,Diego Villarreal
+Feb 18,home,El Paso,W,1-0,1,0,1,win,20240218_lnzb,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Otero,oterocollege,diegovillarrealdr7d,Diego Villarreal
+Feb 18,home,El Paso,W,15-12,15,12,3,win,20240218_6djj,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Otero,oterocollege,diegovillarrealdr7d,Diego Villarreal
+Feb 24,home,New Mexico Military,W,5-4,5,4,1,win,20240224_yx5v,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Otero,oterocollege,diegovillarrealdr7d,Diego Villarreal
+Feb 24,home,New Mexico Military,W,17-9,17,9,8,win,20240224_3in3,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Otero,oterocollege,diegovillarrealdr7d,Diego Villarreal
+Feb 25,home,New Mexico Military,L,7-5,7,5,2,win,20240225_m13v,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Otero,oterocollege,diegovillarrealdr7d,Diego Villarreal
+Feb 25,home,New Mexico Military,L,9-1,9,1,8,win,20240225_k8tl,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Otero,oterocollege,diegovillarrealdr7d,Diego Villarreal
+Mar 1,home,Dodge City,L,12-8,12,8,4,win,20240301_7cd9,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Otero,oterocollege,diegovillarrealdr7d,Diego Villarreal
+Mar 2,home,Dodge City,W,6-5,6,5,1,win,20240302_f06m,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Otero,oterocollege,diegovillarrealdr7d,Diego Villarreal
+Mar 2,home,Dodge City,L,13-3,13,3,10,win,20240302_apkq,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Otero,oterocollege,diegovillarrealdr7d,Diego Villarreal
+Mar 6,home,Adam State University JV,W,12-0,12,0,12,win,20240306_bek3,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Otero,oterocollege,diegovillarrealdr7d,Diego Villarreal
+Mar 18,home,Colby,W,7-6,7,6,1,win,20240318_rclu,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Otero,oterocollege,diegovillarrealdr7d,Diego Villarreal
+Mar 22,home,Southeast,L,9-3,9,3,6,win,20240322_3bg2,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Otero,oterocollege,diegovillarrealdr7d,Diego Villarreal
+Mar 23,home,Southeast,W,4-3,4,3,1,win,20240323_3qhn,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Otero,oterocollege,diegovillarrealdr7d,Diego Villarreal
+Mar 23,home,Southeast,W,7-3,7,3,4,win,20240323_iejf,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Otero,oterocollege,diegovillarrealdr7d,Diego Villarreal
+Mar 24,home,Southeast,L,17-6,17,6,11,win,20240324_y8jh,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Otero,oterocollege,diegovillarrealdr7d,Diego Villarreal
+Mar 29,home,McCook,L,11-1,11,1,10,win,20240329_ph13,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Otero,oterocollege,diegovillarrealdr7d,Diego Villarreal
+Mar 29,home,McCook,L,9-3,9,3,6,win,20240329_g5qs,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Otero,oterocollege,diegovillarrealdr7d,Diego Villarreal
+Mar 30,home,McCook,W,5-4,5,4,1,win,20240330_ufwg,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Otero,oterocollege,diegovillarrealdr7d,Diego Villarreal
+Mar 30,home,McCook,L,4-3,4,3,1,win,20240330_cic2,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Otero,oterocollege,diegovillarrealdr7d,Diego Villarreal
+Apr 1,home,Colby,W,15-11,15,11,4,win,20240401_2add,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Otero,oterocollege,diegovillarrealdr7d,Diego Villarreal
+Apr 7,home,Trinidad State,W,8-6,8,6,2,win,20240407_9nbv,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Otero,oterocollege,diegovillarrealdr7d,Diego Villarreal
+Apr 7,home,Trinidad State,W,16-6,16,6,10,win,20240407_uj3i,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Otero,oterocollege,diegovillarrealdr7d,Diego Villarreal
+Apr 8,home,Trinidad State,L,3-1,3,1,2,win,20240408_hdco,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Otero,oterocollege,diegovillarrealdr7d,Diego Villarreal
+Apr 8,home,Trinidad State,W,12-2,12,2,10,win,20240408_tihe,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Otero,oterocollege,diegovillarrealdr7d,Diego Villarreal
+Apr 10,home,Colorado State University Pueblo JV,L,8-5,8,5,3,win,20240410_g1ld,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Otero,oterocollege,diegovillarrealdr7d,Diego Villarreal
+Apr 10,home,Colorado State University Pueblo JV,L,8-7,8,7,1,win,20240410_phqs,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Otero,oterocollege,diegovillarrealdr7d,Diego Villarreal
+Apr 13,home,Western Nebraska,W,14-3,14,3,11,win,20240413_l96t,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Otero,oterocollege,diegovillarrealdr7d,Diego Villarreal
+Apr 13,home,Western Nebraska,W,9-2,9,2,7,win,20240413_z395,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Otero,oterocollege,diegovillarrealdr7d,Diego Villarreal
+Apr 14,home,Western Nebraska,W,4-1,4,1,3,win,20240414_v4kj,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Otero,oterocollege,diegovillarrealdr7d,Diego Villarreal
+Apr 14,home,Western Nebraska,L,22-12,22,12,10,win,20240414_vhtn,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Otero,oterocollege,diegovillarrealdr7d,Diego Villarreal
+Apr 21,home,Northeastern,W,6-3,6,3,3,win,20240421_mo9b,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Otero,oterocollege,diegovillarrealdr7d,Diego Villarreal
+Apr 21,home,Northeastern,W,13-5,13,5,8,win,20240421_y3n5,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Otero,oterocollege,diegovillarrealdr7d,Diego Villarreal
+Apr 22,home,Northeastern,W,5-4,5,4,1,win,20240422_bgel,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Otero,oterocollege,diegovillarrealdr7d,Diego Villarreal
+Apr 22,home,Northeastern,W,19-2,19,2,17,win,20240422_xjpa,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Otero,oterocollege,diegovillarrealdr7d,Diego Villarreal
+Apr 27,home,Luna,W,5-2,5,2,3,win,20240427_9cca,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Otero,oterocollege,diegovillarrealdr7d,Diego Villarreal
+Apr 27,home,Luna,W,17-9,17,9,8,win,20240427_inlw,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Otero,oterocollege,diegovillarrealdr7d,Diego Villarreal
+Apr 28,home,Luna,W,3-2,3,2,1,win,20240428_5of9,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Otero,oterocollege,diegovillarrealdr7d,Diego Villarreal
+Apr 28,home,Luna,W,10-0,10,0,10,win,20240428_wm9q,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Otero,oterocollege,diegovillarrealdr7d,Diego Villarreal
+May 2,home,Lamar,W,10-6,10,6,4,win,20240502_6ca8,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Otero,oterocollege,diegovillarrealdr7d,Diego Villarreal
+May 3,home,Lamar,L,4-1,4,1,3,win,20240503_fuc3,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Otero,oterocollege,diegovillarrealdr7d,Diego Villarreal
+May 3,home,Lamar,W,5-3,5,3,2,win,20240503_e9m7,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Otero,oterocollege,diegovillarrealdr7d,Diego Villarreal
+May 4,home,Lamar,W,22-3,22,3,19,win,20240504_gxh4,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Otero,oterocollege,diegovillarrealdr7d,Diego Villarreal

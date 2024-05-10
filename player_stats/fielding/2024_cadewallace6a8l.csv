@@ -1,7 +1,19 @@
 date,location,opponent,result,score,team_score,opp_score,game_score_diff,game_win_loss,game_id,TC,PO,A,E,FPCT,DP,SBA,RCS,RCS_PCT,PB,CI,season,njcaa_season,njcaa_division,team,team_id,player_id,player_name
-Jan 28,home,Angelina,L,10-4,10,4,6,win,20240128_fzdu,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Galveston,galvestoncollege,cadewallace6a8l,Cade Wallace
-Jan 28,home,Angelina,L,7-6,7,6,1,win,20240128_7cog,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Galveston,galvestoncollege,cadewallace6a8l,Cade Wallace
-Jan 30,home,Angelina,W,5-4,5,4,1,win,20240130_in4s,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Galveston,galvestoncollege,cadewallace6a8l,Cade Wallace
-Jan 30,home,Angelina,W,2-1,2,1,1,win,20240130_5k9r,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Galveston,galvestoncollege,cadewallace6a8l,Cade Wallace
-Feb 9,home,Eastern Oklahoma State,W,15-5,15,5,10,win,20240209_b25e,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Galveston,galvestoncollege,cadewallace6a8l,Cade Wallace
-Feb 11,home,Grayson,W,11-1,11,1,10,win,20240211_q7jf,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Galveston,galvestoncollege,cadewallace6a8l,Cade Wallace
+Jan 30,home,Angelina,W,5-4,5,4,1,win,20240130_in4s,0,0,0,0,4.1,5,2,1,2.08,1.38,1,2024,2023-24,div1,Galveston,galvestoncollege,cadewallace6a8l,Cade Wallace
+Feb 7,home,North Central Texas,W,9-7,9,7,2,win,20240207_b37t,0,1,0,0,1.0,,,,0.00,,,2024,2023-24,div1,Galveston,galvestoncollege,cadewallace6a8l,Cade Wallace
+Feb 12,home,Odessa,W,9-2,9,2,7,win,20240212_quzt,0,0,0,0,2.1,1,,,0.00,.86,1,2024,2023-24,div1,Galveston,galvestoncollege,cadewallace6a8l,Cade Wallace
+Feb 21,home,Temple,L,6-3,6,3,3,win,20240221_i554,0,0,0,0,1.0,2,1,1,9.00,2.00,,2024,2023-24,div1,Galveston,galvestoncollege,cadewallace6a8l,Cade Wallace
+Feb 23,home,Dallas College - Eastfield,W,5-3,5,3,2,win,20240223_agz2,0,0,0,1,1.0,,,,0.00,1.00,1,2024,2023-24,div1,Galveston,galvestoncollege,cadewallace6a8l,Cade Wallace
+Feb 24,home,Temple,L,4-0,4,0,4,win,20240224_s85c,0,0,0,0,1.1,1,,,0.00,.75,,2024,2023-24,div1,Galveston,galvestoncollege,cadewallace6a8l,Cade Wallace
+Mar 2,home,Alvin,W,9-5,9,5,4,win,20240302_vt71,0,0,0,0,3.0,,,,0.00,,,2024,2023-24,div1,Galveston,galvestoncollege,cadewallace6a8l,Cade Wallace
+Mar 9,home,Coastal Bend,L,3-2,3,2,1,win,20240309_6ohg,0,0,0,0,0.1,,,,0.00,,,2024,2023-24,div1,Galveston,galvestoncollege,cadewallace6a8l,Cade Wallace
+Mar 13,home,Blinn,L,9-7,9,7,2,win,20240313_t9l0,0,0,0,0,0.2,,3,,0.00,,,2024,2023-24,div1,Galveston,galvestoncollege,cadewallace6a8l,Cade Wallace
+Mar 15,home,Blinn,L,6-5,6,5,1,win,20240315_hak7,0,0,1,0,0.2,1,1,1,13.50,3.00,1,2024,2023-24,div1,Galveston,galvestoncollege,cadewallace6a8l,Cade Wallace
+Mar 24,home,San Jacinto,L,8-6,8,6,2,win,20240324_u0ml,0,0,0,0,1.1,3,1,1,6.75,2.25,0,2024,2023-24,div1,Galveston,galvestoncollege,cadewallace6a8l,Cade Wallace
+Mar 29,home,Wharton County,W,4-0,4,0,4,win,20240329_t951,0,0,0,0,1.0,,,,0.00,,,2024,2023-24,div1,Galveston,galvestoncollege,cadewallace6a8l,Cade Wallace
+Apr 2,home,Alvin,W,14-4,14,4,10,win,20240402_0x1q,0,0,0,0,1.0,2,3,3,27.00,3.00,1,2024,2023-24,div1,Galveston,galvestoncollege,cadewallace6a8l,Cade Wallace
+Apr 13,home,Coastal Bend,L,10-4,10,4,6,win,20240413_zp4z,0,0,0,0,0.1,1,2,2,54.00,6.00,1,2024,2023-24,div1,Galveston,galvestoncollege,cadewallace6a8l,Cade Wallace
+Apr 18,home,Blinn,L,12-7,12,7,5,win,20240418_bcte,0,0,0,0,1.1,3,2,2,13.50,3.75,2,2024,2023-24,div1,Galveston,galvestoncollege,cadewallace6a8l,Cade Wallace
+Apr 27,home,San Jacinto,L,9-0,9,0,9,win,20240427_pyhs,0,0,0,0,1.0,0,1,0,0.00,2.00,2,2024,2023-24,div1,Galveston,galvestoncollege,cadewallace6a8l,Cade Wallace
+Apr 29,home,Wharton County,L,6-5,6,5,1,win,20240429_s6ir,0,0,1,0,1.0,,2,1,9.00,2.00,2,2024,2023-24,div1,Galveston,galvestoncollege,cadewallace6a8l,Cade Wallace
+May 1,home,Wharton County,L,11-5,11,5,6,win,20240501_kizl,0,0,0,0,0.1,2,1,1,27.00,9.00,1,2024,2023-24,div1,Galveston,galvestoncollege,cadewallace6a8l,Cade Wallace

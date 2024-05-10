@@ -1,20 +1,25 @@
 date,location,opponent,result,score,team_score,opp_score,game_score_diff,game_win_loss,game_id,AB,R,H,2B,3B,HR,RBI,BB,K,SB,CS,HBP,SF,SH,TB,XBH,HDP,GO,FO,GO/FO,PA,season,njcaa_season,njcaa_division,team,team_id,player_id,player_name
-Mar 2,home,Des Moines Area,W,6-5,6,5,1,win,20240302_v0a1,2,0,0,,,,0,,,,,,,,0,0,,1,1,1.00,2,2024,2023-24,div1,Panola,panolacollege,raphaelsmeenk81y9,Raphael Smeenk
-Mar 14,home,Hutchinson,W,5-1,5,1,4,win,20240314_a5g6,3,1,1,,,1,1,,1,,,,,,4,1,,,1,,3,2024,2023-24,div1,Panola,panolacollege,raphaelsmeenk81y9,Raphael Smeenk
-Mar 14,home,Hutchinson,W,6-5,6,5,1,win,20240314_dvn4,4,1,1,,,,0,,3,,,,,,1,0,,,,,4,2024,2023-24,div1,Panola,panolacollege,raphaelsmeenk81y9,Raphael Smeenk
-Mar 16,home,Hutchinson,W,5-4,5,4,1,win,20240316_9g53,2,0,1,,,,1,1,,,,,,,1,0,,,,,3,2024,2023-24,div1,Panola,panolacollege,raphaelsmeenk81y9,Raphael Smeenk
-Mar 21,home,Garden City,W,12-8,12,8,4,win,20240321_u2vq,1,2,1,1,,,1,3,,,,1,,,2,1,,,,,5,2024,2023-24,div1,Panola,panolacollege,raphaelsmeenk81y9,Raphael Smeenk
-Mar 21,home,Garden City,W,20-6,20,6,14,win,20240321_8n8d,2,1,0,,,,1,5,,,,,,,0,0,,1,1,1.00,7,2024,2023-24,div1,Panola,panolacollege,raphaelsmeenk81y9,Raphael Smeenk
-Mar 23,home,Garden City,W,11-1,11,1,10,win,20240323_gfdv,1,2,1,,,,2,2,,1,,1,,,1,0,,,,,4,2024,2023-24,div1,Panola,panolacollege,raphaelsmeenk81y9,Raphael Smeenk
-Mar 23,home,Garden City,W,4-0,4,0,4,win,20240323_045t,3,0,0,,,,1,,,,,,1,,0,0,,1,2,0.50,4,2024,2023-24,div1,Panola,panolacollege,raphaelsmeenk81y9,Raphael Smeenk
-Mar 30,home,Cowley,W,9-8,9,8,1,win,20240330_mb6t,2,1,1,,,,0,2,1,,1,,,1,1,0,,1,,,5,2024,2023-24,div1,Panola,panolacollege,raphaelsmeenk81y9,Raphael Smeenk
-Apr 2,home,Rose State,W,13-3,13,3,10,win,20240402_d7bq,4,2,2,,,,0,1,1,,,,,,2,0,,1,,,5,2024,2023-24,div1,Panola,panolacollege,raphaelsmeenk81y9,Raphael Smeenk
-Apr 4,home,Colby,W,14-4,14,4,10,win,20240404_zwat,3,1,1,,,1,4,2,1,,,,,,4,1,,1,,,5,2024,2023-24,div1,Panola,panolacollege,raphaelsmeenk81y9,Raphael Smeenk
-Apr 4,home,Colby,W,12-2,12,2,10,win,20240404_zknc,3,4,3,1,,1,1,1,,,,,,1,7,2,,1,,,5,2024,2023-24,div1,Panola,panolacollege,raphaelsmeenk81y9,Raphael Smeenk
-Apr 6,home,Colby,W,15-7,15,7,8,win,20240406_tsjd,6,1,2,,,1,1,,4,,,1,,,5,1,,,,,7,2024,2023-24,div1,Panola,panolacollege,raphaelsmeenk81y9,Raphael Smeenk
-Apr 11,home,Pratt,W,13-6,13,6,7,win,20240411_wmdn,5,0,2,,,,3,,1,1,,,,,2,0,,,,,5,2024,2023-24,div1,Panola,panolacollege,raphaelsmeenk81y9,Raphael Smeenk
-Apr 13,home,Pratt,W,18-8,18,8,10,win,20240413_28lf,3,1,1,,,,3,,1,,,1,1,,1,0,,,2,,5,2024,2023-24,div1,Panola,panolacollege,raphaelsmeenk81y9,Raphael Smeenk
-Apr 13,home,Pratt,W,16-7,16,7,9,win,20240413_iyn6,4,2,1,1,,,0,2,2,1,,,,,2,1,1,1,,,6,2024,2023-24,div1,Panola,panolacollege,raphaelsmeenk81y9,Raphael Smeenk
-Apr 19,home,Seward County,W,2-0,2,0,2,win,20240419_q5qk,3,0,0,,,,0,,1,,,,,,0,0,,2,,,3,2024,2023-24,div1,Panola,panolacollege,raphaelsmeenk81y9,Raphael Smeenk
-Apr 28,home,Dodge City,W,17-2,17,2,15,win,20240428_yeo5,0,0,0,,,,0,,,,,,,,0,0,,,,,0,2024,2023-24,div1,Panola,panolacollege,raphaelsmeenk81y9,Raphael Smeenk
-May 3,home,Cloud County,W,11-5,11,5,6,win,20240503_xmi5,3,0,0,,,,2,1,2,,,,1,,0,0,,1,1,1.00,5,2024,2023-24,div1,Panola,panolacollege,raphaelsmeenk81y9,Raphael Smeenk
+Jan 27,home,Carl Albert State,W,12-6,12,6,6,win,20240127_0x6w,4,2,2,,,1,3,1,1,,,,,,5,1,,,,,5,2024,2023-24,div1,Panola,panolacollege,raphaelsmeenk81y9,Raphael Smeenk
+Jan 28,home,Carl Albert State,W,10-2,10,2,8,win,20240128_kjo9,4,1,1,,,1,4,,,,,,,,4,1,,,,,4,2024,2023-24,div1,Panola,panolacollege,raphaelsmeenk81y9,Raphael Smeenk
+Jan 28,home,Carl Albert State,W,11-10,11,10,1,win,20240128_ve5j,3,3,3,1,,,1,2,,1,,,,,4,1,,,,,5,2024,2023-24,div1,Panola,panolacollege,raphaelsmeenk81y9,Raphael Smeenk
+Feb 1,home,Northeastern Oklahoma A&M,W,5-3,5,3,2,win,20240201_ycny,4,0,1,,,,0,1,1,,,,,,1,0,,,,,5,2024,2023-24,div1,Panola,panolacollege,raphaelsmeenk81y9,Raphael Smeenk
+Feb 2,home,Northeastern Oklahoma A&M,W,4-0,4,0,4,win,20240202_9v41,1,1,0,,,,0,2,,,,,,,0,0,,,,,3,2024,2023-24,div1,Panola,panolacollege,raphaelsmeenk81y9,Raphael Smeenk
+Feb 13,home,South Arkansas,W,10-6,10,6,4,win,20240213_6vxv,4,1,1,,,,0,1,2,,,,,,1,0,,,,,5,2024,2023-24,div1,Panola,panolacollege,raphaelsmeenk81y9,Raphael Smeenk
+Feb 16,home,Cowley,W,3-1,3,1,2,win,20240216_0nj4,3,1,2,,,1,1,,,,1,,,,5,1,,1,,,3,2024,2023-24,div1,Panola,panolacollege,raphaelsmeenk81y9,Raphael Smeenk
+Feb 16,home,Cowley,W,7-3,7,3,4,win,20240216_vdhl,4,2,2,1,,,1,,,,,,,,3,1,,,2,,4,2024,2023-24,div1,Panola,panolacollege,raphaelsmeenk81y9,Raphael Smeenk
+Feb 28,home,Bossier Parish,W,6-4,6,4,2,win,20240228_4i2d,4,1,2,,,1,3,,1,,,,,,5,1,,,,,4,2024,2023-24,div1,Panola,panolacollege,raphaelsmeenk81y9,Raphael Smeenk
+Mar 9,home,Joliet,W,14-4,14,4,10,win,20240309_j1lk,2,2,1,1,,,1,1,,,,1,1,,2,1,,,,,5,2024,2023-24,div1,Panola,panolacollege,raphaelsmeenk81y9,Raphael Smeenk
+Mar 13,home,Tyler,W,9-0,9,0,9,win,20240313_9awn,3,1,0,,,,0,1,,,,,,,0,0,1,2,,,4,2024,2023-24,div1,Panola,panolacollege,raphaelsmeenk81y9,Raphael Smeenk
+Mar 16,home,Paris,W,10-2,10,2,8,win,20240316_mjbl,2,2,0,,,,0,2,1,,,,,,0,0,,,,,4,2024,2023-24,div1,Panola,panolacollege,raphaelsmeenk81y9,Raphael Smeenk
+Mar 23,home,Northeast Texas,W,10-6,10,6,4,win,20240323_k96a,6,1,3,1,,,1,,,,,,,,4,1,,1,2,0.50,6,2024,2023-24,div1,Panola,panolacollege,raphaelsmeenk81y9,Raphael Smeenk
+Mar 23,home,Northeast Texas,W,2-1,2,1,1,win,20240323_jvl2,2,1,0,,,,0,,1,,,1,,,0,0,,,1,,3,2024,2023-24,div1,Panola,panolacollege,raphaelsmeenk81y9,Raphael Smeenk
+Mar 29,home,Bossier Parish,W,5-4,5,4,1,win,20240329_aqp7,4,0,0,,,,0,,1,,,,,,0,0,,,,,4,2024,2023-24,div1,Panola,panolacollege,raphaelsmeenk81y9,Raphael Smeenk
+Mar 29,home,Bossier Parish,W,7-5,7,5,2,win,20240329_uss9,3,0,0,,,,1,1,1,,,,1,,0,0,,,,,5,2024,2023-24,div1,Panola,panolacollege,raphaelsmeenk81y9,Raphael Smeenk
+Apr 3,home,Angelina,W,9-5,9,5,4,win,20240403_ldmx,3,1,0,,,,0,2,,,,,,,0,0,,,,,5,2024,2023-24,div1,Panola,panolacollege,raphaelsmeenk81y9,Raphael Smeenk
+Apr 13,home,Navarro,W,4-2,4,2,2,win,20240413_pwfk,2,1,1,,,,1,1,,,,,,,1,0,,,,,3,2024,2023-24,div1,Panola,panolacollege,raphaelsmeenk81y9,Raphael Smeenk
+Apr 13,home,Navarro,W,2-1,2,1,1,win,20240413_vg8r,4,1,1,,,,0,,1,,,,,,1,0,,,,,4,2024,2023-24,div1,Panola,panolacollege,raphaelsmeenk81y9,Raphael Smeenk
+Apr 19,home,LSU Eunice,W,6-3,6,3,3,win,20240419_u6rj,3,2,2,1,,1,2,1,,,,,,,6,2,,,,,4,2024,2023-24,div1,Panola,panolacollege,raphaelsmeenk81y9,Raphael Smeenk
+Apr 20,home,LSU Eunice,W,4-3,4,3,1,win,20240420_ydrz,4,1,1,,,,0,1,1,,,,,,1,0,,,,,5,2024,2023-24,div1,Panola,panolacollege,raphaelsmeenk81y9,Raphael Smeenk
+Apr 24,home,Tyler,W,10-9,10,9,1,win,20240424_tprn,4,1,1,,,,1,1,,,,,,,1,0,,2,1,2.00,5,2024,2023-24,div1,Panola,panolacollege,raphaelsmeenk81y9,Raphael Smeenk
+Apr 27,home,Tyler,W,5-3,5,3,2,win,20240427_babe,1,1,0,,,,0,1,1,,,,,1,0,0,,1,,,3,2024,2023-24,div1,Panola,panolacollege,raphaelsmeenk81y9,Raphael Smeenk
+Apr 27,home,Tyler,W,4-1,4,1,3,win,20240427_3osf,4,0,1,,,,0,,1,,,,,,1,0,,,1,,4,2024,2023-24,div1,Panola,panolacollege,raphaelsmeenk81y9,Raphael Smeenk

@@ -1,31 +1,15 @@
 date,location,opponent,result,score,team_score,opp_score,game_score_diff,game_win_loss,game_id,TC,PO,A,E,FPCT,DP,SBA,RCS,RCS_PCT,PB,CI,season,njcaa_season,njcaa_division,team,team_id,player_id,player_name
-Jan 27,home,Wayland Baptist JV,W,8-0,8,0,8,win,20240127_w8tf,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Vernon,vernoncollege,tycunninghamgr8c,Ty Cunningham
-Jan 27,home,Wayland Baptist JV,W,11-1,11,1,10,win,20240127_4rov,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Vernon,vernoncollege,tycunninghamgr8c,Ty Cunningham
-Feb 1,home,Dallas College - Richland,L,5-2,5,2,3,win,20240201_hcml,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Vernon,vernoncollege,tycunninghamgr8c,Ty Cunningham
-Feb 1,home,Dallas College - Richland,L,4-3,4,3,1,win,20240201_p57v,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Vernon,vernoncollege,tycunninghamgr8c,Ty Cunningham
-Feb 3,home,Dallas College - Richland,L,10-6,10,6,4,win,20240203_7zg4,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Vernon,vernoncollege,tycunninghamgr8c,Ty Cunningham
-Feb 9,home,Redlands,W,19-4,19,4,15,win,20240209_plyv,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Vernon,vernoncollege,tycunninghamgr8c,Ty Cunningham
-Feb 9,home,Redlands,W,7-6,7,6,1,win,20240209_7n8i,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Vernon,vernoncollege,tycunninghamgr8c,Ty Cunningham
-Feb 10,home,Redlands,W,13-11,13,11,2,win,20240210_esbu,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Vernon,vernoncollege,tycunninghamgr8c,Ty Cunningham
-Feb 15,home,Western Texas,W,8-1,8,1,7,win,20240215_ib5s,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Vernon,vernoncollege,tycunninghamgr8c,Ty Cunningham
-Feb 23,home,Seward County,L,10-6,10,6,4,win,20240223_7io4,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Vernon,vernoncollege,tycunninghamgr8c,Ty Cunningham
-Feb 24,home,Seward County,L,12-11,12,11,1,win,20240224_fs35,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Vernon,vernoncollege,tycunninghamgr8c,Ty Cunningham
-Mar 1,home,Clarendon,W,8-3,8,3,5,win,20240301_kdu8,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Vernon,vernoncollege,tycunninghamgr8c,Ty Cunningham
-Mar 2,home,Clarendon,W,6-1,6,1,5,win,20240302_2rh1,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Vernon,vernoncollege,tycunninghamgr8c,Ty Cunningham
-Mar 6,home,McLennan,W,7-4,7,4,3,win,20240306_pgnj,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Vernon,vernoncollege,tycunninghamgr8c,Ty Cunningham
-Mar 9,home,McLennan,W,5-3,5,3,2,win,20240309_1l9b,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Vernon,vernoncollege,tycunninghamgr8c,Ty Cunningham
-Mar 13,home,Weatherford,L,11-3,11,3,8,win,20240313_3k89,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Vernon,vernoncollege,tycunninghamgr8c,Ty Cunningham
-Mar 17,home,Weatherford,L,7-4,7,4,3,win,20240317_xgbl,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Vernon,vernoncollege,tycunninghamgr8c,Ty Cunningham
-Mar 17,home,Weatherford,L,4-0,4,0,4,win,20240317_pgjm,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Vernon,vernoncollege,tycunninghamgr8c,Ty Cunningham
-Mar 20,home,DFW Post Grad,W,9-1,9,1,8,win,20240320_qmgz,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Vernon,vernoncollege,tycunninghamgr8c,Ty Cunningham
-Mar 27,home,North Central Texas,W,7-5,7,5,2,win,20240327_mtg9,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Vernon,vernoncollege,tycunninghamgr8c,Ty Cunningham
-Mar 29,home,North Central Texas,W,11-10,11,10,1,win,20240329_iskl,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Vernon,vernoncollege,tycunninghamgr8c,Ty Cunningham
-Mar 29,home,North Central Texas,L,14-9,14,9,5,win,20240329_gsw5,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Vernon,vernoncollege,tycunninghamgr8c,Ty Cunningham
-Apr 3,home,Temple,L,7-3,7,3,4,win,20240403_p96t,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Vernon,vernoncollege,tycunninghamgr8c,Ty Cunningham
-Apr 6,home,Temple,L,5-0,5,0,5,win,20240406_c9n1,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Vernon,vernoncollege,tycunninghamgr8c,Ty Cunningham
-Apr 6,home,Temple,W,8-2,8,2,6,win,20240406_ibvx,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Vernon,vernoncollege,tycunninghamgr8c,Ty Cunningham
-Apr 11,home,Cisco,L,6-1,6,1,5,win,20240411_1ofo,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Vernon,vernoncollege,tycunninghamgr8c,Ty Cunningham
-Apr 17,home,Grayson,W,9-8,9,8,1,win,20240417_ii0r,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Vernon,vernoncollege,tycunninghamgr8c,Ty Cunningham
-Apr 21,home,Grayson,W,6-5,6,5,1,win,20240421_5nhv,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Vernon,vernoncollege,tycunninghamgr8c,Ty Cunningham
-Apr 24,home,Ranger,W,8-4,8,4,4,win,20240424_5e6g,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Vernon,vernoncollege,tycunninghamgr8c,Ty Cunningham
-Apr 28,home,Ranger,W,2-1,2,1,1,win,20240428_va4c,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Vernon,vernoncollege,tycunninghamgr8c,Ty Cunningham
+Jan 27,home,Wayland Baptist JV,W,8-0,8,0,8,win,20240127_w8tf,0,1,0,0,3.0,1,,,0.00,.67,1,2024,2023-24,div1,Vernon,vernoncollege,tycunninghamgr8c,Ty Cunningham
+Feb 1,home,Dallas College - Richland,L,4-3,4,3,1,win,20240201_p57v,1,0,0,0,3.2,3,3,3,7.36,1.36,2,2024,2023-24,div1,Vernon,vernoncollege,tycunninghamgr8c,Ty Cunningham
+Feb 9,home,Redlands,W,7-6,7,6,1,win,20240209_7n8i,1,0,0,0,4.0,2,1,1,2.25,.75,1,2024,2023-24,div1,Vernon,vernoncollege,tycunninghamgr8c,Ty Cunningham
+Feb 15,home,Western Texas,W,12-1,12,1,11,win,20240215_muy6,1,1,0,0,5.0,6,1,1,1.80,1.20,0,2024,2023-24,div1,Vernon,vernoncollege,tycunninghamgr8c,Ty Cunningham
+Feb 23,home,Seward County,L,17-11,17,11,6,win,20240223_hac2,1,0,1,0,3.0,5,6,2,6.00,2.67,3,2024,2023-24,div1,Vernon,vernoncollege,tycunninghamgr8c,Ty Cunningham
+Mar 1,home,Clarendon,W,8-3,8,3,5,win,20240301_kdu8,1,0,0,0,6.0,2,0,0,0.00,.83,3,2024,2023-24,div1,Vernon,vernoncollege,tycunninghamgr8c,Ty Cunningham
+Mar 9,home,McLennan,W,5-3,5,3,2,win,20240309_1l9b,1,1,0,0,6.2,6,3,3,4.05,1.35,3,2024,2023-24,div1,Vernon,vernoncollege,tycunninghamgr8c,Ty Cunningham
+Mar 17,home,Weatherford,L,7-4,7,4,3,win,20240317_xgbl,1,0,1,0,5.0,7,6,5,9.00,2.20,4,2024,2023-24,div1,Vernon,vernoncollege,tycunninghamgr8c,Ty Cunningham
+Mar 29,home,North Central Texas,W,11-10,11,10,1,win,20240329_iskl,1,0,0,0,3.2,10,10,9,22.09,3.82,4,2024,2023-24,div1,Vernon,vernoncollege,tycunninghamgr8c,Ty Cunningham
+Apr 6,home,Temple,L,5-0,5,0,5,win,20240406_c9n1,1,0,1,0,5.0,8,5,2,3.60,2.00,2,2024,2023-24,div1,Vernon,vernoncollege,tycunninghamgr8c,Ty Cunningham
+Apr 13,home,Cisco,L,3-2,3,2,1,win,20240413_4fqr,1,0,0,0,6.0,4,3,3,4.50,1.00,2,2024,2023-24,div1,Vernon,vernoncollege,tycunninghamgr8c,Ty Cunningham
+Apr 21,home,Grayson,W,6-5,6,5,1,win,20240421_5nhv,1,1,0,0,5.1,7,3,3,5.06,1.88,3,2024,2023-24,div1,Vernon,vernoncollege,tycunninghamgr8c,Ty Cunningham
+Apr 28,home,Ranger,W,2-1,2,1,1,win,20240428_va4c,1,1,0,0,7.0,2,1,1,1.29,1.00,5,2024,2023-24,div1,Vernon,vernoncollege,tycunninghamgr8c,Ty Cunningham
+May 4,home,Hill,L,5-4,5,4,1,win,20240504_y3fa,1,0,0,0,4.2,5,4,4,7.71,1.71,3,2024,2023-24,div1,Vernon,vernoncollege,tycunninghamgr8c,Ty Cunningham
