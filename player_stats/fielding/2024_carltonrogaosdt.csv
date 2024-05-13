@@ -1,12 +1,8 @@
 date,location,opponent,result,score,team_score,opp_score,game_score_diff,game_win_loss,game_id,TC,PO,A,E,FPCT,DP,SBA,RCS,RCS_PCT,PB,CI,season,njcaa_season,njcaa_division,team,team_id,player_id,player_name
-Mar 3,home,PSU Kensington,W,8-5,8,5,3,win,20240303_82vr,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div3,Rochester,rochestercommunityandtechnicalcolleg,carltonrogaosdt,Carlton Roga
-Mar 7,home,Delaware Tech,L,8-1,8,1,7,win,20240307_hrq1,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div3,Rochester,rochestercommunityandtechnicalcolleg,carltonrogaosdt,Carlton Roga
-Mar 7,home,Manhattanville College JV,W,14-10,14,10,4,win,20240307_q5u4,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div3,Rochester,rochestercommunityandtechnicalcolleg,carltonrogaosdt,Carlton Roga
-Mar 15,home,Minnesota West,L,10-0,10,0,10,win,20240315_5lk4,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div3,Rochester,rochestercommunityandtechnicalcolleg,carltonrogaosdt,Carlton Roga
-Mar 15,home,Minnesota West,L,5-3,5,3,2,win,20240315_x6sl,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div3,Rochester,rochestercommunityandtechnicalcolleg,carltonrogaosdt,Carlton Roga
-Apr 10,home,Gustavus JV,W,13-12,13,12,1,win,20240410_ia0h,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div3,Rochester,rochestercommunityandtechnicalcolleg,carltonrogaosdt,Carlton Roga
-Apr 14,home,Western Tech,W,22-5,22,5,17,win,20240414_cg5l,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div3,Rochester,rochestercommunityandtechnicalcolleg,carltonrogaosdt,Carlton Roga
-Apr 20,home,Minnesota Post Grad,L,7-6,7,6,1,win,20240420_o8bm,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div3,Rochester,rochestercommunityandtechnicalcolleg,carltonrogaosdt,Carlton Roga
-Apr 21,home,Saint Mary's of MN JV,W,6-5,6,5,1,win,20240421_5gu2,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div3,Rochester,rochestercommunityandtechnicalcolleg,carltonrogaosdt,Carlton Roga
-Apr 24,home,North Dakota SCS,L,3-2,3,2,1,win,20240424_l5pc,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div3,Rochester,rochestercommunityandtechnicalcolleg,carltonrogaosdt,Carlton Roga
-May 1,home,Luther JV,W,14-13,14,13,1,win,20240501_0704,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div3,Rochester,rochestercommunityandtechnicalcolleg,carltonrogaosdt,Carlton Roga
+Mar 7,home,Delaware Tech,L,8-1,8,1,7,win,20240307_hrq1,0,0,0,0,1.0,,,,0.00,1.00,1,2024,2023-24,div3,Rochester,rochestercommunityandtechnicalcolleg,carltonrogaosdt,Carlton Roga
+Mar 29,home,Minnesota North College - Itasca,L,5-3,5,3,2,win,20240329_xfmf,0,0,0,0,1.0,1,,,0.00,1.00,,2024,2023-24,div3,Rochester,rochestercommunityandtechnicalcolleg,carltonrogaosdt,Carlton Roga
+Apr 10,home,Gustavus JV,W,13-12,13,12,1,win,20240410_ia0h,1,0,0,0,3.0,3,3,2,6.00,2.00,3,2024,2023-24,div3,Rochester,rochestercommunityandtechnicalcolleg,carltonrogaosdt,Carlton Roga
+Apr 21,home,Saint Mary's of MN JV,W,11-9,11,9,2,win,20240421_9lg8,0,1,0,0,2.0,2,2,2,9.00,2.50,3,2024,2023-24,div3,Rochester,rochestercommunityandtechnicalcolleg,carltonrogaosdt,Carlton Roga
+Apr 24,home,North Dakota SCS,W,5-4,5,4,1,win,20240424_gcfu,0,0,0,0,1.0,1,,,0.00,1.00,,2024,2023-24,div3,Rochester,rochestercommunityandtechnicalcolleg,carltonrogaosdt,Carlton Roga
+May 1,home,Luther JV,W,14-13,14,13,1,win,20240501_0704,0,0,0,0,0.2,2,1,1,13.50,6.00,2,2024,2023-24,div3,Rochester,rochestercommunityandtechnicalcolleg,carltonrogaosdt,Carlton Roga
+May 9,home,Ridgewater,W,9-1,9,1,8,win,20240509_osnx,0,0,0,0,0.1,3,3,3,81.00,9.00,,2024,2023-24,div3,Rochester,rochestercommunityandtechnicalcolleg,carltonrogaosdt,Carlton Roga
