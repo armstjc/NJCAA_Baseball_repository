@@ -1,56 +1,12 @@
 date,location,opponent,result,score,team_score,opp_score,game_score_diff,game_win_loss,game_id,TC,PO,A,E,FPCT,DP,SBA,RCS,RCS_PCT,PB,CI,season,njcaa_season,njcaa_division,team,team_id,player_id,player_name
-Jan 27,home,GCU Club,W,10-0,10,0,10,win,20240127_cav7,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Chandler-Gilbert,chandlergilbertcommunitycollege,danteturgeonrs7i,Dante Turgeon
-Jan 27,home,GCU Club,W,8-6,8,6,2,win,20240127_h8e0,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Chandler-Gilbert,chandlergilbertcommunitycollege,danteturgeonrs7i,Dante Turgeon
-Jan 30,home,Scottsdale Post Grad,W,15-2,15,2,13,win,20240130_jxym,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Chandler-Gilbert,chandlergilbertcommunitycollege,danteturgeonrs7i,Dante Turgeon
-Jan 30,home,Scottsdale Post Grad,W,13-3,13,3,10,win,20240130_c3zw,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Chandler-Gilbert,chandlergilbertcommunitycollege,danteturgeonrs7i,Dante Turgeon
-Feb 10,home,Arizona Western,L,7-4,7,4,3,win,20240210_fc5y,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Chandler-Gilbert,chandlergilbertcommunitycollege,danteturgeonrs7i,Dante Turgeon
-Feb 10,home,Arizona Western,W,11-3,11,3,8,win,20240210_je5j,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Chandler-Gilbert,chandlergilbertcommunitycollege,danteturgeonrs7i,Dante Turgeon
-Feb 13,home,Phoenix,L,9-8,9,8,1,win,20240213_295a,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Chandler-Gilbert,chandlergilbertcommunitycollege,danteturgeonrs7i,Dante Turgeon
-Feb 14,home,Phoenix,W,20-7,20,7,13,win,20240214_sa13,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Chandler-Gilbert,chandlergilbertcommunitycollege,danteturgeonrs7i,Dante Turgeon
-Feb 15,home,Thompson Rivers,W,12-10,12,10,2,win,20240215_9tsi,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Chandler-Gilbert,chandlergilbertcommunitycollege,danteturgeonrs7i,Dante Turgeon
-Feb 16,home,Mesa,L,7-3,7,3,4,win,20240216_6erp,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Chandler-Gilbert,chandlergilbertcommunitycollege,danteturgeonrs7i,Dante Turgeon
-Feb 17,home,Mesa,L,6-5,6,5,1,win,20240217_oa2r,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Chandler-Gilbert,chandlergilbertcommunitycollege,danteturgeonrs7i,Dante Turgeon
-Feb 20,home,GateWay (AZ),W,10-0,10,0,10,win,20240220_h9fq,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Chandler-Gilbert,chandlergilbertcommunitycollege,danteturgeonrs7i,Dante Turgeon
-Feb 21,home,GateWay (AZ),W,10-3,10,3,7,win,20240221_bdct,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Chandler-Gilbert,chandlergilbertcommunitycollege,danteturgeonrs7i,Dante Turgeon
-Feb 23,home,Scottsdale,L,11-9,11,9,2,win,20240223_mrc4,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Chandler-Gilbert,chandlergilbertcommunitycollege,danteturgeonrs7i,Dante Turgeon
-Feb 24,home,Scottsdale,W,7-3,7,3,4,win,20240224_nzw9,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Chandler-Gilbert,chandlergilbertcommunitycollege,danteturgeonrs7i,Dante Turgeon
-Feb 27,home,Paradise Valley,W,9-8,9,8,1,win,20240227_5hbl,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Chandler-Gilbert,chandlergilbertcommunitycollege,danteturgeonrs7i,Dante Turgeon
-Feb 28,home,Paradise Valley,W,6-4,6,4,2,win,20240228_c9hc,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Chandler-Gilbert,chandlergilbertcommunitycollege,danteturgeonrs7i,Dante Turgeon
-Mar 1,home,Glendale,L,3-1,3,1,2,win,20240301_m3kf,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Chandler-Gilbert,chandlergilbertcommunitycollege,danteturgeonrs7i,Dante Turgeon
-Mar 2,home,Glendale,W,12-9,12,9,3,win,20240302_24s6,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Chandler-Gilbert,chandlergilbertcommunitycollege,danteturgeonrs7i,Dante Turgeon
-Mar 5,home,Arizona Western,L,4-0,4,0,4,win,20240305_29cx,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Chandler-Gilbert,chandlergilbertcommunitycollege,danteturgeonrs7i,Dante Turgeon
-Mar 5,home,Arizona Western,W,12-2,12,2,10,win,20240305_uclc,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Chandler-Gilbert,chandlergilbertcommunitycollege,danteturgeonrs7i,Dante Turgeon
-Mar 8,home,Central Arizona,L,7-0,7,0,7,win,20240308_1hk4,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Chandler-Gilbert,chandlergilbertcommunitycollege,danteturgeonrs7i,Dante Turgeon
-Mar 9,home,Central Arizona,L,4-2,4,2,2,win,20240309_1ijs,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Chandler-Gilbert,chandlergilbertcommunitycollege,danteturgeonrs7i,Dante Turgeon
-Mar 11,home,Okotoks Dawgs,W,6-4,6,4,2,win,20240311_8f8x,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Chandler-Gilbert,chandlergilbertcommunitycollege,danteturgeonrs7i,Dante Turgeon
-Mar 12,home,Okotoks Dawgs,W,9-6,9,6,3,win,20240312_rag7,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Chandler-Gilbert,chandlergilbertcommunitycollege,danteturgeonrs7i,Dante Turgeon
-Mar 12,home,Colorado State Club,W,10-0,10,0,10,win,20240312_497h,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Chandler-Gilbert,chandlergilbertcommunitycollege,danteturgeonrs7i,Dante Turgeon
-Mar 13,home,Madison,L,12-2,12,2,10,win,20240313_6m3k,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Chandler-Gilbert,chandlergilbertcommunitycollege,danteturgeonrs7i,Dante Turgeon
-Mar 13,home,Okotoks Dawgs,W,15-9,15,9,6,win,20240313_pfcc,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Chandler-Gilbert,chandlergilbertcommunitycollege,danteturgeonrs7i,Dante Turgeon
-Mar 19,home,Cochise,W,3-0,3,0,3,win,20240319_cjgu,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Chandler-Gilbert,chandlergilbertcommunitycollege,danteturgeonrs7i,Dante Turgeon
-Mar 19,home,Cochise,W,11-7,11,7,4,win,20240319_hept,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Chandler-Gilbert,chandlergilbertcommunitycollege,danteturgeonrs7i,Dante Turgeon
-Mar 21,home,Langley Blaze,W,12-11,12,11,1,win,20240321_jtsd,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Chandler-Gilbert,chandlergilbertcommunitycollege,danteturgeonrs7i,Dante Turgeon
-Mar 23,home,Eastern Arizona,L,5-4,5,4,1,win,20240323_pfzu,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Chandler-Gilbert,chandlergilbertcommunitycollege,danteturgeonrs7i,Dante Turgeon
-Mar 23,home,Eastern Arizona,L,7-2,7,2,5,win,20240323_6lul,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Chandler-Gilbert,chandlergilbertcommunitycollege,danteturgeonrs7i,Dante Turgeon
-Mar 26,home,Pima,L,9-7,9,7,2,win,20240326_a8hd,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Chandler-Gilbert,chandlergilbertcommunitycollege,danteturgeonrs7i,Dante Turgeon
-Mar 26,home,Pima,W,9-6,9,6,3,win,20240326_peo7,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Chandler-Gilbert,chandlergilbertcommunitycollege,danteturgeonrs7i,Dante Turgeon
-Mar 29,home,South Mountain,W,7-6,7,6,1,win,20240329_p0bo,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Chandler-Gilbert,chandlergilbertcommunitycollege,danteturgeonrs7i,Dante Turgeon
-Mar 30,home,South Mountain,L,14-7,14,7,7,win,20240330_96ug,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Chandler-Gilbert,chandlergilbertcommunitycollege,danteturgeonrs7i,Dante Turgeon
-Apr 3,home,Yavapai,W,4-3,4,3,1,win,20240403_s0r9,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Chandler-Gilbert,chandlergilbertcommunitycollege,danteturgeonrs7i,Dante Turgeon
-Apr 3,home,Yavapai,W,8-6,8,6,2,win,20240403_vjai,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Chandler-Gilbert,chandlergilbertcommunitycollege,danteturgeonrs7i,Dante Turgeon
-Apr 9,home,Phoenix,W,8-3,8,3,5,win,20240409_631v,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Chandler-Gilbert,chandlergilbertcommunitycollege,danteturgeonrs7i,Dante Turgeon
-Apr 10,home,Phoenix,W,8-5,8,5,3,win,20240410_52u4,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Chandler-Gilbert,chandlergilbertcommunitycollege,danteturgeonrs7i,Dante Turgeon
-Apr 12,home,Mesa,L,3-2,3,2,1,win,20240412_kbyt,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Chandler-Gilbert,chandlergilbertcommunitycollege,danteturgeonrs7i,Dante Turgeon
-Apr 13,home,Mesa,W,17-6,17,6,11,win,20240413_h5zp,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Chandler-Gilbert,chandlergilbertcommunitycollege,danteturgeonrs7i,Dante Turgeon
-Apr 16,home,GateWay (AZ),L,4-3,4,3,1,win,20240416_84dv,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Chandler-Gilbert,chandlergilbertcommunitycollege,danteturgeonrs7i,Dante Turgeon
-Apr 17,home,GateWay (AZ),L,15-11,15,11,4,win,20240417_o44e,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Chandler-Gilbert,chandlergilbertcommunitycollege,danteturgeonrs7i,Dante Turgeon
-Apr 18,home,Arizona Christian University JV,W,12-11,12,11,1,win,20240418_y0ol,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Chandler-Gilbert,chandlergilbertcommunitycollege,danteturgeonrs7i,Dante Turgeon
-Apr 19,home,Scottsdale,L,9-8,9,8,1,win,20240419_3bvv,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Chandler-Gilbert,chandlergilbertcommunitycollege,danteturgeonrs7i,Dante Turgeon
-Apr 20,home,Scottsdale,W,12-6,12,6,6,win,20240420_jm5h,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Chandler-Gilbert,chandlergilbertcommunitycollege,danteturgeonrs7i,Dante Turgeon
-Apr 23,home,Paradise Valley,L,17-11,17,11,6,win,20240423_rykf,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Chandler-Gilbert,chandlergilbertcommunitycollege,danteturgeonrs7i,Dante Turgeon
-Apr 24,home,Paradise Valley,L,9-7,9,7,2,win,20240424_g959,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Chandler-Gilbert,chandlergilbertcommunitycollege,danteturgeonrs7i,Dante Turgeon
-Apr 26,home,Glendale,W,19-5,19,5,14,win,20240426_81r6,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Chandler-Gilbert,chandlergilbertcommunitycollege,danteturgeonrs7i,Dante Turgeon
-Apr 27,home,Glendale,W,9-6,9,6,3,win,20240427_wjgc,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Chandler-Gilbert,chandlergilbertcommunitycollege,danteturgeonrs7i,Dante Turgeon
-May 2,home,Paradise Valley,W,11-8,11,8,3,win,20240502_4r22,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Chandler-Gilbert,chandlergilbertcommunitycollege,danteturgeonrs7i,Dante Turgeon
-May 3,home,Paradise Valley,L,7-1,7,1,6,win,20240503_qwgn,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Chandler-Gilbert,chandlergilbertcommunitycollege,danteturgeonrs7i,Dante Turgeon
-May 4,home,Paradise Valley,W,12-10,12,10,2,win,20240504_k960,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Chandler-Gilbert,chandlergilbertcommunitycollege,danteturgeonrs7i,Dante Turgeon
+Feb 10,home,Arizona Western,L,7-4,7,4,3,win,20240210_fc5y,0,0,0,0,2.0,,,,0.00,.50,1,2024,2023-24,div2,Chandler-Gilbert,chandlergilbertcommunitycollege,danteturgeonrs7i,Dante Turgeon
+Mar 2,home,Glendale,W,12-9,12,9,3,win,20240302_24s6,0,0,0,0,0.2,1,3,3,40.50,4.50,2,2024,2023-24,div2,Chandler-Gilbert,chandlergilbertcommunitycollege,danteturgeonrs7i,Dante Turgeon
+Mar 12,home,Okotoks Dawgs,W,9-6,9,6,3,win,20240312_rag7,0,1,0,0,4.0,1,1,1,2.25,.75,2,2024,2023-24,div2,Chandler-Gilbert,chandlergilbertcommunitycollege,danteturgeonrs7i,Dante Turgeon
+Mar 21,home,Langley Blaze,W,12-11,12,11,1,win,20240321_jtsd,0,0,0,0,2.0,1,1,,0.00,1.00,1,2024,2023-24,div2,Chandler-Gilbert,chandlergilbertcommunitycollege,danteturgeonrs7i,Dante Turgeon
+Mar 26,home,Pima,L,9-7,9,7,2,win,20240326_a8hd,0,0,0,0,0.1,,,,0.00,,,2024,2023-24,div2,Chandler-Gilbert,chandlergilbertcommunitycollege,danteturgeonrs7i,Dante Turgeon
+Apr 11,home,Arizona Christian University JV,W,8-4,8,4,4,win,20240411_s54d,0,0,0,1,4.0,4,2,2,4.50,1.25,1,2024,2023-24,div2,Chandler-Gilbert,chandlergilbertcommunitycollege,danteturgeonrs7i,Dante Turgeon
+Apr 17,home,GateWay (AZ),L,15-11,15,11,4,win,20240417_o44e,0,0,0,0,3.1,,,,0.00,.30,1,2024,2023-24,div2,Chandler-Gilbert,chandlergilbertcommunitycollege,danteturgeonrs7i,Dante Turgeon
+Apr 20,home,Scottsdale,W,12-6,12,6,6,win,20240420_jm5h,1,0,0,0,2.0,1,1,1,4.50,.50,0,2024,2023-24,div2,Chandler-Gilbert,chandlergilbertcommunitycollege,danteturgeonrs7i,Dante Turgeon
+Apr 24,home,Paradise Valley,L,9-7,9,7,2,win,20240424_g959,0,0,0,0,3.2,4,,,0.00,1.09,,2024,2023-24,div2,Chandler-Gilbert,chandlergilbertcommunitycollege,danteturgeonrs7i,Dante Turgeon
+May 4,home,Paradise Valley,W,12-10,12,10,2,win,20240504_k960,0,0,0,0,0.2,,,,0.00,,,2024,2023-24,div2,Chandler-Gilbert,chandlergilbertcommunitycollege,danteturgeonrs7i,Dante Turgeon
+May 11,home,GateWay (AZ),L,15-14,15,14,1,win,20240511_d5md,0,0,0,0,3.0,4,1,1,3.00,2.00,2,2024,2023-24,div2,Chandler-Gilbert,chandlergilbertcommunitycollege,danteturgeonrs7i,Dante Turgeon

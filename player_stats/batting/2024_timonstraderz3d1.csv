@@ -1,5 +1,21 @@
 date,location,opponent,result,score,team_score,opp_score,game_score_diff,game_win_loss,game_id,AB,R,H,2B,3B,HR,RBI,BB,K,SB,CS,HBP,SF,SH,TB,XBH,HDP,GO,FO,GO/FO,PA,season,njcaa_season,njcaa_division,team,team_id,player_id,player_name
-Feb 7,home,Louisburg,W,22-10,22,10,12,win,20240207_rxy5,0,0,0,,,,0,,,,,,,,0,0,,,,,0,2024,2023-24,div2,Lenoir,lenoircommunitycollege,timonstraderz3d1,Timon Strader
-Feb 10,home,Camp,W,5-4,5,4,1,win,20240210_ly5h,0,0,0,,,,0,,,,,,,,0,0,,,,,0,2024,2023-24,div2,Lenoir,lenoircommunitycollege,timonstraderz3d1,Timon Strader
-Feb 25,home,Fayetteville Tech,W,11-1,11,1,10,win,20240225_pe8d,0,0,0,,,,0,,,,,,,,0,0,,,,,0,2024,2023-24,div2,Lenoir,lenoircommunitycollege,timonstraderz3d1,Timon Strader
-Apr 25,home,Rays Collegiate (Post Grad),W,4-3,4,3,1,win,20240425_99v4,0,0,0,,,,0,,,,,,,,0,0,,,,,0,2024,2023-24,div2,Lenoir,lenoircommunitycollege,timonstraderz3d1,Timon Strader
+Feb 7,home,Louisburg,W,22-10,22,10,12,win,20240207_rxy5,4,3,3,1,1,,1,1,,1,,1,,,6,2,,1,,,6,2024,2023-24,div2,Lenoir,lenoircommunitycollege,timonstraderz3d1,Timon Strader
+Feb 9,home,Willliam Peace University JV,W,9-5,9,5,4,win,20240209_he4c,4,2,1,,,,0,1,1,2,,,,,1,0,,,,,5,2024,2023-24,div2,Lenoir,lenoircommunitycollege,timonstraderz3d1,Timon Strader
+Feb 10,home,Camp,W,8-2,8,2,6,win,20240210_q2oo,3,0,0,,,,0,1,,,,,,,0,0,,2,1,2.00,4,2024,2023-24,div2,Lenoir,lenoircommunitycollege,timonstraderz3d1,Timon Strader
+Feb 10,home,Camp,W,5-4,5,4,1,win,20240210_ly5h,4,0,1,1,,,1,1,,2,,,,,2,1,,2,,,5,2024,2023-24,div2,Lenoir,lenoircommunitycollege,timonstraderz3d1,Timon Strader
+Feb 17,home,Richard Bland,W,5-2,5,2,3,win,20240217_yrkx,5,0,2,,,,2,,,,,,,,2,0,,2,1,2.00,5,2024,2023-24,div2,Lenoir,lenoircommunitycollege,timonstraderz3d1,Timon Strader
+Feb 20,home,Barton College JV,W,16-5,16,5,11,win,20240220_twaw,3,0,2,,,,1,,,1,1,,1,,2,0,,,2,,4,2024,2023-24,div2,Lenoir,lenoircommunitycollege,timonstraderz3d1,Timon Strader
+Feb 24,home,Fayetteville Tech,W,14-2,14,2,12,win,20240224_ccfp,2,3,2,,,,1,2,,1,,,,,2,0,,,,,4,2024,2023-24,div2,Lenoir,lenoircommunitycollege,timonstraderz3d1,Timon Strader
+Feb 25,home,Fayetteville Tech,W,11-1,11,1,10,win,20240225_pe8d,2,2,1,,,,0,1,,,,,,,1,0,,,1,,3,2024,2023-24,div2,Lenoir,lenoircommunitycollege,timonstraderz3d1,Timon Strader
+Feb 26,home,NC Wesleyan University JV,W,8-4,8,4,4,win,20240226_4iba,1,1,0,,,,0,,1,1,,1,,,0,0,,,,,2,2024,2023-24,div2,Lenoir,lenoircommunitycollege,timonstraderz3d1,Timon Strader
+Mar 3,home,Potomac State,W,3-2,3,2,1,win,20240303_xhsh,2,1,1,,,,0,,,1,,1,,,1,0,,,1,,3,2024,2023-24,div2,Lenoir,lenoircommunitycollege,timonstraderz3d1,Timon Strader
+Mar 16,home,Southeastern-Whiteville,W,9-1,9,1,8,win,20240316_m5c0,3,1,0,,,,0,1,1,1,,,,,0,0,,1,1,1.00,4,2024,2023-24,div2,Lenoir,lenoircommunitycollege,timonstraderz3d1,Timon Strader
+Mar 16,home,Southeastern-Whiteville,W,5-4,5,4,1,win,20240316_p66e,3,0,1,,,,0,,1,1,,,,1,1,0,,1,1,1.00,4,2024,2023-24,div2,Lenoir,lenoircommunitycollege,timonstraderz3d1,Timon Strader
+Mar 20,home,William Peace University JV,W,6-5,6,5,1,win,20240320_xttq,1,0,0,,,,0,,,,,,,,0,0,1,1,,,1,2024,2023-24,div2,Lenoir,lenoircommunitycollege,timonstraderz3d1,Timon Strader
+Mar 22,home,Bryant & Stratton (VA),W,9-1,9,1,8,win,20240322_vly0,4,1,0,,,,0,1,,1,,,,,0,0,1,4,,,5,2024,2023-24,div2,Lenoir,lenoircommunitycollege,timonstraderz3d1,Timon Strader
+Mar 29,home,Richard Bland,W,13-5,13,5,8,win,20240329_4ufb,4,2,3,0,0,0,0,1,0,1,0,0,0,0,3,0,,0,,,5,2024,2023-24,div2,Lenoir,lenoircommunitycollege,timonstraderz3d1,Timon Strader
+Apr 6,home,Fayetteville Tech,W,12-4,12,4,8,win,20240406_k7sv,4,3,3,0,0,0,0,0,0,0,0,0,0,0,3,0,,0,,,4,2024,2023-24,div2,Lenoir,lenoircommunitycollege,timonstraderz3d1,Timon Strader
+Apr 7,home,Fayetteville Tech,W,6-4,6,4,2,win,20240407_s4k6,4,1,3,0,0,0,1,0,1,0,0,0,0,0,3,0,,0,,,4,2024,2023-24,div2,Lenoir,lenoircommunitycollege,timonstraderz3d1,Timon Strader
+Apr 24,home,Pitt,W,11-9,11,9,2,win,20240424_n6ml,5,1,2,1,0,0,0,0,2,0,0,0,0,0,3,1,,0,,,5,2024,2023-24,div2,Lenoir,lenoircommunitycollege,timonstraderz3d1,Timon Strader
+Apr 25,home,Rays Collegiate (Post Grad),W,4-3,4,3,1,win,20240425_99v4,3,1,1,,,,0,,,1,,,,,1,0,,1,1,1.00,3,2024,2023-24,div2,Lenoir,lenoircommunitycollege,timonstraderz3d1,Timon Strader
+Apr 28,home,Southeastern-Whiteville,W,12-3,12,3,9,win,20240428_etry,2,2,0,,,,0,2,1,,,,,,0,0,,1,,,4,2024,2023-24,div2,Lenoir,lenoircommunitycollege,timonstraderz3d1,Timon Strader

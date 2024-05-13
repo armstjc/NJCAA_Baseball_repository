@@ -1,12 +1,13 @@
 date,location,opponent,result,score,team_score,opp_score,game_score_diff,game_win_loss,game_id,TC,PO,A,E,FPCT,DP,SBA,RCS,RCS_PCT,PB,CI,season,njcaa_season,njcaa_division,team,team_id,player_id,player_name
-Feb 24,home,Olney Central,L,10-0,10,0,10,win,20240224_i3b3,0,0,0,0,3.0,4,1,,0.00,1.67,1,2024,2023-24,div2,Morton,mortoncollege,jaxsonmackay9ukh,Jaxson MacKay
-Mar 1,home,Rochester,W,6-2,6,2,4,win,20240301_7rab,0,0,0,0,0.2,,,,0.00,3.00,2,2024,2023-24,div2,Morton,mortoncollege,jaxsonmackay9ukh,Jaxson MacKay
-Mar 13,home,Kankakee,L,13-7,13,7,6,win,20240313_a6k0,0,0,0,0,2.1,5,5,4,15.43,3.43,3,2024,2023-24,div2,Morton,mortoncollege,jaxsonmackay9ukh,Jaxson MacKay
-Mar 19,home,Kankakee,L,22-7,22,7,15,win,20240319_2gzm,0,0,0,0,1.1,2,1,1,6.75,1.50,,2024,2023-24,div2,Morton,mortoncollege,jaxsonmackay9ukh,Jaxson MacKay
-Apr 5,home,Harper,L,7-4,7,4,3,win,20240405_vpj3,0,0,0,0,4.1,2,,,0.00,.92,2,2024,2023-24,div2,Morton,mortoncollege,jaxsonmackay9ukh,Jaxson MacKay
-Apr 8,home,Oakton,L,15-11,15,11,4,win,20240408_thsz,0,0,0,0,1.1,1,1,1,6.75,3.00,3,2024,2023-24,div2,Morton,mortoncollege,jaxsonmackay9ukh,Jaxson MacKay
-Apr 10,home,Olive-Harvey,W,2-0,2,0,2,win,20240410_xj8u,0,1,0,0,5.0,2,,,0.00,.60,1,2024,2023-24,div2,Morton,mortoncollege,jaxsonmackay9ukh,Jaxson MacKay
-Apr 16,home,Moraine Valley,L,12-8,12,8,4,win,20240416_yf0k,0,0,0,0,1.0,2,3,3,27.00,4.00,2,2024,2023-24,div2,Morton,mortoncollege,jaxsonmackay9ukh,Jaxson MacKay
-Apr 18,home,Joliet,L,10-2,10,2,8,win,20240418_t1bm,0,0,1,0,4.0,4,5,4,9.00,2.25,5,2024,2023-24,div2,Morton,mortoncollege,jaxsonmackay9ukh,Jaxson MacKay
-Apr 24,home,Prairie State,W,10-6,10,6,4,win,20240424_0ik4,0,0,0,1,1.1,,,,0.00,,,2024,2023-24,div2,Morton,mortoncollege,jaxsonmackay9ukh,Jaxson MacKay
-Apr 30,home,DuPage,L,21-8,21,8,13,win,20240430_ljny,0,0,0,0,1.2,2,8,4,21.60,3.60,4,2024,2023-24,div2,Morton,mortoncollege,jaxsonmackay9ukh,Jaxson MacKay
+Feb 25,home,Vincennes,W,13-4,13,4,9,win,20240225_wism,0,0,0,0,1.0,,,,0.00,,,2024,2023-24,div2,Morton,mortoncollege,jaxsonmackay9ukh,Jaxson MacKay
+Mar 1,home,Rochester,W,6-2,6,2,4,win,20240301_7rab,0,1,0,0,1.1,1,,,0.00,.75,,2024,2023-24,div2,Morton,mortoncollege,jaxsonmackay9ukh,Jaxson MacKay
+Mar 9,home,Moberly Area,L,7-5,7,5,2,win,20240309_5jfm,0,0,0,0,2.1,1,,,0.00,.86,1,2024,2023-24,div2,Morton,mortoncollege,jaxsonmackay9ukh,Jaxson MacKay
+Mar 19,home,Kankakee,L,22-7,22,7,15,win,20240319_2gzm,0,0,0,0,1.2,3,4,,0.00,3.60,3,2024,2023-24,div2,Morton,mortoncollege,jaxsonmackay9ukh,Jaxson MacKay
+Mar 21,home,DuPage,W,7-6,7,6,1,win,20240321_wu22,0,1,0,0,3.0,5,2,2,6.00,2.00,1,2024,2023-24,div2,Morton,mortoncollege,jaxsonmackay9ukh,Jaxson MacKay
+Mar 26,home,Triton,L,16-11,16,11,5,win,20240326_hctt,0,0,0,0,1.0,,,,0.00,,,2024,2023-24,div2,Morton,mortoncollege,jaxsonmackay9ukh,Jaxson MacKay
+Apr 5,home,Harper,L,7-4,7,4,3,win,20240405_vpj3,0,0,1,0,2.2,4,3,3,10.13,1.88,1,2024,2023-24,div2,Morton,mortoncollege,jaxsonmackay9ukh,Jaxson MacKay
+Apr 8,home,Oakton,L,15-11,15,11,4,win,20240408_thsz,0,0,0,0,0.2,5,3,3,40.50,10.50,2,2024,2023-24,div2,Morton,mortoncollege,jaxsonmackay9ukh,Jaxson MacKay
+Apr 10,home,Olive-Harvey,W,13-10,13,10,3,win,20240410_25qj,0,0,0,1,1.1,1,1,,0.00,.75,,2024,2023-24,div2,Morton,mortoncollege,jaxsonmackay9ukh,Jaxson MacKay
+Apr 13,home,Elgin,L,11-1,11,1,10,win,20240413_fx7q,0,0,0,0,0.1,5,3,3,81.00,21.00,2,2024,2023-24,div2,Morton,mortoncollege,jaxsonmackay9ukh,Jaxson MacKay
+Apr 15,home,Kishwaukee,W,24-17,24,17,7,win,20240415_y0qd,0,0,0,0,1.2,4,4,2,10.80,3.60,2,2024,2023-24,div2,Morton,mortoncollege,jaxsonmackay9ukh,Jaxson MacKay
+Apr 16,home,Moraine Valley,L,12-8,12,8,4,win,20240416_yf0k,0,0,0,0,2.0,,,,0.00,,,2024,2023-24,div2,Morton,mortoncollege,jaxsonmackay9ukh,Jaxson MacKay

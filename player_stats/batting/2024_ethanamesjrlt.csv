@@ -1,8 +1,20 @@
 date,location,opponent,result,score,team_score,opp_score,game_score_diff,game_win_loss,game_id,AB,R,H,2B,3B,HR,RBI,BB,K,SB,CS,HBP,SF,SH,TB,XBH,HDP,GO,FO,GO/FO,PA,season,njcaa_season,njcaa_division,team,team_id,player_id,player_name
-Feb 16,home,Redlands,W,9-7,9,7,2,win,20240216_5sxa,0,0,0,,,,0,,,,,,,,0,0,,,,,0,2024,2023-24,div2,Lewis & Clark,lewisclarkcommunitycollege,ethanamesjrlt,Ethan Ames
-Feb 24,home,Harper,W,3-1,3,1,2,win,20240224_q7cq,0,0,0,,,,0,,,,,,,,0,0,,,,,0,2024,2023-24,div2,Lewis & Clark,lewisclarkcommunitycollege,ethanamesjrlt,Ethan Ames
-Mar 17,home,North Central Missouri,W,8-4,8,4,4,win,20240317_ypgg,0,0,0,,,,0,,,,,,,,0,0,,,,,0,2024,2023-24,div2,Lewis & Clark,lewisclarkcommunitycollege,ethanamesjrlt,Ethan Ames
-Mar 20,home,McKendree JV,W,15-4,15,4,11,win,20240320_4373,0,0,0,,,,0,,,,,,,,0,0,,,,,0,2024,2023-24,div2,Lewis & Clark,lewisclarkcommunitycollege,ethanamesjrlt,Ethan Ames
-Mar 30,home,Lincoln Land,W,16-11,16,11,5,win,20240330_e80r,0,0,0,,,,0,,,,,,,,0,0,,,,,0,2024,2023-24,div2,Lewis & Clark,lewisclarkcommunitycollege,ethanamesjrlt,Ethan Ames
-Apr 21,home,Parkland,W,8-6,8,6,2,win,20240421_mz1j,0,0,0,,,,0,,,,,,,,0,0,,,,,0,2024,2023-24,div2,Lewis & Clark,lewisclarkcommunitycollege,ethanamesjrlt,Ethan Ames
-May 5,home,Illinois Central,W,9-4,9,4,5,win,20240505_0348,0,0,0,,,,0,,,,,,,,0,0,,,,,0,2024,2023-24,div2,Lewis & Clark,lewisclarkcommunitycollege,ethanamesjrlt,Ethan Ames
+Feb 17,home,Redlands,W,24-12,24,12,12,win,20240217_oqey,3,1,0,,,,0,1,2,,,,,,0,0,,,,,4,2024,2023-24,div2,Lewis & Clark,lewisclarkcommunitycollege,ethanamesjrlt,Ethan Ames
+Feb 25,home,Harper,W,11-0,11,0,11,win,20240225_fohg,1,0,0,,,,0,,,,,,,,0,0,,,,,1,2024,2023-24,div2,Lewis & Clark,lewisclarkcommunitycollege,ethanamesjrlt,Ethan Ames
+Feb 25,home,Harper,W,6-0,6,0,6,win,20240225_zjap,3,1,2,,,1,1,,,,,,,,5,1,,,,,3,2024,2023-24,div2,Lewis & Clark,lewisclarkcommunitycollege,ethanamesjrlt,Ethan Ames
+Mar 16,home,North Central Missouri,W,13-12,13,12,1,win,20240316_7w3d,4,2,2,1,,,0,,1,,,,,,3,1,,,,,4,2024,2023-24,div2,Lewis & Clark,lewisclarkcommunitycollege,ethanamesjrlt,Ethan Ames
+Mar 17,home,North Central Missouri,W,8-4,8,4,4,win,20240317_ypgg,3,0,2,,,,1,,,,,,,,2,0,,,,,3,2024,2023-24,div2,Lewis & Clark,lewisclarkcommunitycollege,ethanamesjrlt,Ethan Ames
+Mar 17,home,North Central Missouri,W,5-2,5,2,3,win,20240317_d972,3,0,0,,,,0,,,,,,,,0,0,,,,,3,2024,2023-24,div2,Lewis & Clark,lewisclarkcommunitycollege,ethanamesjrlt,Ethan Ames
+Mar 19,home,Blackburn College,W,9-1,9,1,8,win,20240319_jjjy,2,1,1,,,,1,,,,,1,1,,1,0,,,,,4,2024,2023-24,div2,Lewis & Clark,lewisclarkcommunitycollege,ethanamesjrlt,Ethan Ames
+Mar 20,home,McKendree JV,W,15-4,15,4,11,win,20240320_4373,2,0,1,1,,,2,2,,,,,,,2,1,,,,,4,2024,2023-24,div2,Lewis & Clark,lewisclarkcommunitycollege,ethanamesjrlt,Ethan Ames
+Mar 22,home,Heartland,W,6-4,6,4,2,win,20240322_t87p,4,1,2,1,,,1,,,,,,,,3,1,,,,,4,2024,2023-24,div2,Lewis & Clark,lewisclarkcommunitycollege,ethanamesjrlt,Ethan Ames
+Mar 22,home,Heartland,W,8-6,8,6,2,win,20240322_r5ir,3,1,2,1,,1,3,,,,,,,,6,2,,,,,3,2024,2023-24,div2,Lewis & Clark,lewisclarkcommunitycollege,ethanamesjrlt,Ethan Ames
+Mar 27,home,McKendree JV,W,12-2,12,2,10,win,20240327_xpih,4,3,2,1,,,1,,,,,,,,3,1,,,,,4,2024,2023-24,div2,Lewis & Clark,lewisclarkcommunitycollege,ethanamesjrlt,Ethan Ames
+Mar 30,home,Lincoln Land,W,16-11,16,11,5,win,20240330_e80r,6,1,2,2,,,3,,,,,,,,4,2,,,,,6,2024,2023-24,div2,Lewis & Clark,lewisclarkcommunitycollege,ethanamesjrlt,Ethan Ames
+Apr 6,home,Spoon River,W,5-2,5,2,3,win,20240406_4tm6,4,1,1,,,,1,1,,,,,,,1,0,,,,,5,2024,2023-24,div2,Lewis & Clark,lewisclarkcommunitycollege,ethanamesjrlt,Ethan Ames
+Apr 6,home,Spoon River,W,7-0,7,0,7,win,20240406_em7x,4,0,1,,,,1,,2,,,,,,1,0,,,,,4,2024,2023-24,div2,Lewis & Clark,lewisclarkcommunitycollege,ethanamesjrlt,Ethan Ames
+Apr 7,home,Spoon River,W,4-2,4,2,2,win,20240407_kkg0,4,0,1,,,,1,,,,,,,,1,0,,,,,4,2024,2023-24,div2,Lewis & Clark,lewisclarkcommunitycollege,ethanamesjrlt,Ethan Ames
+Apr 14,home,John Wood,W,11-7,11,7,4,win,20240414_t5bb,5,2,2,,,1,3,,2,,,,,,5,1,,,,,5,2024,2023-24,div2,Lewis & Clark,lewisclarkcommunitycollege,ethanamesjrlt,Ethan Ames
+Apr 21,home,Parkland,W,8-6,8,6,2,win,20240421_mz1j,2,0,0,,,,2,1,,,,,1,,0,0,,,,,4,2024,2023-24,div2,Lewis & Clark,lewisclarkcommunitycollege,ethanamesjrlt,Ethan Ames
+Apr 26,home,Danville Area,W,7-6,7,6,1,win,20240426_jzft,5,0,0,,,,0,,,,,,,,0,0,,,,,5,2024,2023-24,div2,Lewis & Clark,lewisclarkcommunitycollege,ethanamesjrlt,Ethan Ames
+May 5,home,Illinois Central,W,9-4,9,4,5,win,20240505_0348,5,1,1,,,,0,,,,,,,,1,0,,,,,5,2024,2023-24,div2,Lewis & Clark,lewisclarkcommunitycollege,ethanamesjrlt,Ethan Ames

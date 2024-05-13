@@ -1,27 +1,3 @@
 date,location,opponent,result,score,team_score,opp_score,game_score_diff,game_win_loss,game_id,AB,R,H,2B,3B,HR,RBI,BB,K,SB,CS,HBP,SF,SH,TB,XBH,HDP,GO,FO,GO/FO,PA,season,njcaa_season,njcaa_division,team,team_id,player_id,player_name
-Feb 7,home,Fontbonne,W,6-5,6,5,1,win,20240207_j0kb,4,2,3,,,,1,,,,,,,,3,0,,,,,4,2024,2023-24,div2,Lewis & Clark,lewisclarkcommunitycollege,ericlanouey4et,Eric Lanoue
-Feb 16,home,Redlands,W,4-2,4,2,2,win,20240216_o5zr,4,0,0,,,,0,,,,,,,,0,0,,,,,4,2024,2023-24,div2,Lewis & Clark,lewisclarkcommunitycollege,ericlanouey4et,Eric Lanoue
-Feb 16,home,Redlands,W,9-7,9,7,2,win,20240216_5sxa,2,1,1,1,,,2,2,1,,,,,,2,1,,,,,4,2024,2023-24,div2,Lewis & Clark,lewisclarkcommunitycollege,ericlanouey4et,Eric Lanoue
-Feb 17,home,Redlands,W,24-12,24,12,12,win,20240217_oqey,3,1,2,2,,,2,,,,,1,,,4,2,,,,,4,2024,2023-24,div2,Lewis & Clark,lewisclarkcommunitycollege,ericlanouey4et,Eric Lanoue
-Feb 24,home,Harper,W,5-0,5,0,5,win,20240224_529s,2,1,0,,,,0,1,,,,,,,0,0,,,,,3,2024,2023-24,div2,Lewis & Clark,lewisclarkcommunitycollege,ericlanouey4et,Eric Lanoue
-Feb 24,home,Harper,W,3-1,3,1,2,win,20240224_q7cq,3,0,0,,,,0,,,,,,,,0,0,,,,,3,2024,2023-24,div2,Lewis & Clark,lewisclarkcommunitycollege,ericlanouey4et,Eric Lanoue
-Feb 25,home,Harper,W,11-0,11,0,11,win,20240225_fohg,3,2,1,,,1,4,,,,,,,,4,1,,,,,3,2024,2023-24,div2,Lewis & Clark,lewisclarkcommunitycollege,ericlanouey4et,Eric Lanoue
-Feb 25,home,Harper,W,6-0,6,0,6,win,20240225_zjap,3,1,1,,,1,2,,1,,,,,,4,1,,,,,3,2024,2023-24,div2,Lewis & Clark,lewisclarkcommunitycollege,ericlanouey4et,Eric Lanoue
-Mar 10,home,Vincennes,W,5-3,5,3,2,win,20240310_3x7t,2,1,1,,,1,1,1,1,,,,,,4,1,,,,,3,2024,2023-24,div2,Lewis & Clark,lewisclarkcommunitycollege,ericlanouey4et,Eric Lanoue
-Mar 16,home,North Central Missouri,W,13-12,13,12,1,win,20240316_7w3d,5,1,2,1,,,2,1,1,1,,,,,3,1,,,,,6,2024,2023-24,div2,Lewis & Clark,lewisclarkcommunitycollege,ericlanouey4et,Eric Lanoue
-Mar 17,home,North Central Missouri,W,8-4,8,4,4,win,20240317_ypgg,1,1,1,,,,2,2,,,,,,,1,0,,,,,3,2024,2023-24,div2,Lewis & Clark,lewisclarkcommunitycollege,ericlanouey4et,Eric Lanoue
-Mar 17,home,North Central Missouri,W,5-2,5,2,3,win,20240317_d972,4,1,1,,,,1,,1,,,,,,1,0,,,,,4,2024,2023-24,div2,Lewis & Clark,lewisclarkcommunitycollege,ericlanouey4et,Eric Lanoue
-Mar 20,home,McKendree JV,W,15-4,15,4,11,win,20240320_4373,3,3,1,1,,,0,2,,1,,,,,2,1,,,,,5,2024,2023-24,div2,Lewis & Clark,lewisclarkcommunitycollege,ericlanouey4et,Eric Lanoue
-Mar 22,home,Heartland,W,6-4,6,4,2,win,20240322_t87p,5,0,2,,,,0,,,,,,,,2,0,,,,,5,2024,2023-24,div2,Lewis & Clark,lewisclarkcommunitycollege,ericlanouey4et,Eric Lanoue
-Mar 22,home,Heartland,W,8-6,8,6,2,win,20240322_r5ir,4,2,2,,,2,4,,,,,,,,8,2,,,,,4,2024,2023-24,div2,Lewis & Clark,lewisclarkcommunitycollege,ericlanouey4et,Eric Lanoue
-Mar 27,home,McKendree JV,W,12-2,12,2,10,win,20240327_xpih,4,1,1,,,,1,,,,,,1,,1,0,,,,,5,2024,2023-24,div2,Lewis & Clark,lewisclarkcommunitycollege,ericlanouey4et,Eric Lanoue
-Mar 30,home,Lincoln Land,W,16-11,16,11,5,win,20240330_e80r,5,1,3,,,,3,,,,,,1,,3,0,,,,,6,2024,2023-24,div2,Lewis & Clark,lewisclarkcommunitycollege,ericlanouey4et,Eric Lanoue
-Apr 6,home,Spoon River,W,5-2,5,2,3,win,20240406_4tm6,5,1,1,,,,0,,1,,,,,,1,0,,,,,5,2024,2023-24,div2,Lewis & Clark,lewisclarkcommunitycollege,ericlanouey4et,Eric Lanoue
-Apr 6,home,Spoon River,W,7-0,7,0,7,win,20240406_em7x,4,0,1,,,,1,,,,,,,,1,0,,,,,4,2024,2023-24,div2,Lewis & Clark,lewisclarkcommunitycollege,ericlanouey4et,Eric Lanoue
-Apr 7,home,Spoon River,W,4-2,4,2,2,win,20240407_kkg0,3,1,1,,,,0,1,,,,,,,1,0,,,,,4,2024,2023-24,div2,Lewis & Clark,lewisclarkcommunitycollege,ericlanouey4et,Eric Lanoue
-Apr 14,home,John Wood,W,11-7,11,7,4,win,20240414_t5bb,1,0,0,,,,0,,,,,,,,0,0,,,,,1,2024,2023-24,div2,Lewis & Clark,lewisclarkcommunitycollege,ericlanouey4et,Eric Lanoue
-Apr 21,home,Parkland,W,8-6,8,6,2,win,20240421_mz1j,3,1,2,1,,1,4,,,,,1,,,6,2,,,,,4,2024,2023-24,div2,Lewis & Clark,lewisclarkcommunitycollege,ericlanouey4et,Eric Lanoue
-Apr 26,home,Danville Area,W,7-6,7,6,1,win,20240426_jzft,5,1,1,,,1,1,,1,,,,,,4,1,,,,,5,2024,2023-24,div2,Lewis & Clark,lewisclarkcommunitycollege,ericlanouey4et,Eric Lanoue
-Apr 27,home,Danville Area,W,9-8,9,8,1,win,20240427_mouw,5,1,3,,,,0,,1,,,,,,3,0,,,,,5,2024,2023-24,div2,Lewis & Clark,lewisclarkcommunitycollege,ericlanouey4et,Eric Lanoue
-May 4,home,Illinois Central,W,6-1,6,1,5,win,20240504_vsmr,3,0,3,1,,,1,1,,,,,,,4,1,,,,,4,2024,2023-24,div2,Lewis & Clark,lewisclarkcommunitycollege,ericlanouey4et,Eric Lanoue
-May 5,home,Illinois Central,W,9-4,9,4,5,win,20240505_0348,5,2,3,1,,,1,,1,,,,,,4,1,,,,,5,2024,2023-24,div2,Lewis & Clark,lewisclarkcommunitycollege,ericlanouey4et,Eric Lanoue
+Feb 17,home,Redlands,W,24-12,24,12,12,win,20240217_oqey,0,0,0,,,,0,,,,,,,,0,0,,,,,0,2024,2023-24,div2,Lewis & Clark,lewisclarkcommunitycollege,ericlanouey4et,Eric Lanoue
+Mar 16,home,North Central Missouri,W,13-12,13,12,1,win,20240316_7w3d,0,0,0,,,,0,,,,,,,,0,0,,,,,0,2024,2023-24,div2,Lewis & Clark,lewisclarkcommunitycollege,ericlanouey4et,Eric Lanoue

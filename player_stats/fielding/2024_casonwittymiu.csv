@@ -1,9 +1,37 @@
 date,location,opponent,result,score,team_score,opp_score,game_score_diff,game_win_loss,game_id,TC,PO,A,E,FPCT,DP,SBA,RCS,RCS_PCT,PB,CI,season,njcaa_season,njcaa_division,team,team_id,player_id,player_name
-Feb 24,home,Walters State,L,11-1,11,1,10,win,20240224_fjvm,0,0,0,0,1.1,5,4,4,27.00,4.50,1,2024,2023-24,div2,Highland (IL),highlandcommunitycollegeillinois,casonwittymiu,Cason Witt
-Mar 13,home,Spoon River,W,13-5,13,5,8,win,20240313_zgjn,0,0,0,0,1.0,1,1,1,9.00,1.00,,2024,2023-24,div2,Highland (IL),highlandcommunitycollegeillinois,casonwittymiu,Cason Witt
-Apr 5,home,Rock Valley,L,6-1,6,1,5,win,20240405_nuuc,0,0,0,0,1.0,5,3,,0.00,5.00,,2024,2023-24,div2,Highland (IL),highlandcommunitycollegeillinois,casonwittymiu,Cason Witt
-Apr 9,home,Illinois Valley,L,11-1,11,1,10,win,20240409_jyut,1,0,1,0,2.0,6,6,3,13.50,3.50,1,2024,2023-24,div2,Highland (IL),highlandcommunitycollegeillinois,casonwittymiu,Cason Witt
-Apr 16,home,Sauk Valley,W,11-3,11,3,8,win,20240416_w77p,0,0,0,1,4.0,1,,,0.00,.25,,2024,2023-24,div2,Highland (IL),highlandcommunitycollegeillinois,casonwittymiu,Cason Witt
-Apr 20,home,Black Hawk,L,4-2,4,2,2,win,20240420_rep5,0,0,0,0,1.0,,,,0.00,,,2024,2023-24,div2,Highland (IL),highlandcommunitycollegeillinois,casonwittymiu,Cason Witt
-Apr 28,home,Joliet,L,6-1,6,1,5,win,20240428_7n63,0,0,0,0,2.0,2,,,0.00,1.00,,2024,2023-24,div2,Highland (IL),highlandcommunitycollegeillinois,casonwittymiu,Cason Witt
-May 5,home,Rockford University JV,W,11-2,11,2,9,win,20240505_ndt8,0,1,0,0,2.0,2,2,,0.00,1.00,,2024,2023-24,div2,Highland (IL),highlandcommunitycollegeillinois,casonwittymiu,Cason Witt
+Feb 23,home,Roane State,W,10-6,10,6,4,win,20240223_9p1w,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Highland (IL),highlandcommunitycollegeillinois,casonwittymiu,Cason Witt
+Feb 23,home,Roane State,L,15-12,15,12,3,win,20240223_vg16,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Highland (IL),highlandcommunitycollegeillinois,casonwittymiu,Cason Witt
+Feb 24,home,Walters State,L,11-1,11,1,10,win,20240224_fjvm,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Highland (IL),highlandcommunitycollegeillinois,casonwittymiu,Cason Witt
+Mar 9,home,Iowa Central,L,26-5,26,5,21,win,20240309_uhi2,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Highland (IL),highlandcommunitycollegeillinois,casonwittymiu,Cason Witt
+Mar 10,home,Iowa Central,L,15-4,15,4,11,win,20240310_pq7g,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Highland (IL),highlandcommunitycollegeillinois,casonwittymiu,Cason Witt
+Mar 10,home,Iowa Central,L,11-0,11,0,11,win,20240310_0302,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Highland (IL),highlandcommunitycollegeillinois,casonwittymiu,Cason Witt
+Mar 12,home,Clarke University,W,11-9,11,9,2,win,20240312_tixz,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Highland (IL),highlandcommunitycollegeillinois,casonwittymiu,Cason Witt
+Mar 13,home,Spoon River,W,13-5,13,5,8,win,20240313_zgjn,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Highland (IL),highlandcommunitycollegeillinois,casonwittymiu,Cason Witt
+Mar 13,home,Spoon River,W,16-0,16,0,16,win,20240313_u0bz,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Highland (IL),highlandcommunitycollegeillinois,casonwittymiu,Cason Witt
+Mar 16,home,Morton,L,7-3,7,3,4,win,20240316_0crc,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Highland (IL),highlandcommunitycollegeillinois,casonwittymiu,Cason Witt
+Mar 16,home,Morton,L,18-5,18,5,13,win,20240316_li82,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Highland (IL),highlandcommunitycollegeillinois,casonwittymiu,Cason Witt
+Mar 28,home,Madison,W,5-1,5,1,4,win,20240328_dd04,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Highland (IL),highlandcommunitycollegeillinois,casonwittymiu,Cason Witt
+Mar 29,home,Lake County,W,7-2,7,2,5,win,20240329_jyge,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Highland (IL),highlandcommunitycollegeillinois,casonwittymiu,Cason Witt
+Mar 30,home,Carl Sandburg,W,12-11,12,11,1,win,20240330_e5jn,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Highland (IL),highlandcommunitycollegeillinois,casonwittymiu,Cason Witt
+Mar 30,home,Carl Sandburg,W,10-5,10,5,5,win,20240330_xle0,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Highland (IL),highlandcommunitycollegeillinois,casonwittymiu,Cason Witt
+Apr 5,home,Rock Valley,L,8-3,8,3,5,win,20240405_mbtk,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Highland (IL),highlandcommunitycollegeillinois,casonwittymiu,Cason Witt
+Apr 6,home,Illinois Valley,L,2-0,2,0,2,win,20240406_sv2g,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Highland (IL),highlandcommunitycollegeillinois,casonwittymiu,Cason Witt
+Apr 9,home,Illinois Valley,W,9-1,9,1,8,win,20240409_8wrw,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Highland (IL),highlandcommunitycollegeillinois,casonwittymiu,Cason Witt
+Apr 9,home,Illinois Valley,L,11-1,11,1,10,win,20240409_jyut,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Highland (IL),highlandcommunitycollegeillinois,casonwittymiu,Cason Witt
+Apr 12,home,Madison,L,4-3,4,3,1,win,20240412_fe71,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Highland (IL),highlandcommunitycollegeillinois,casonwittymiu,Cason Witt
+Apr 13,home,Sauk Valley,W,8-5,8,5,3,win,20240413_nfpt,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Highland (IL),highlandcommunitycollegeillinois,casonwittymiu,Cason Witt
+Apr 13,home,Sauk Valley,L,12-2,12,2,10,win,20240413_hzeu,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Highland (IL),highlandcommunitycollegeillinois,casonwittymiu,Cason Witt
+Apr 16,home,Sauk Valley,W,11-3,11,3,8,win,20240416_w77p,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Highland (IL),highlandcommunitycollegeillinois,casonwittymiu,Cason Witt
+Apr 17,home,Prairie State,W,20-9,20,9,11,win,20240417_houa,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Highland (IL),highlandcommunitycollegeillinois,casonwittymiu,Cason Witt
+Apr 17,home,Prairie State,W,12-9,12,9,3,win,20240417_22r3,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Highland (IL),highlandcommunitycollegeillinois,casonwittymiu,Cason Witt
+Apr 20,home,Black Hawk,W,10-0,10,0,10,win,20240420_an5k,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Highland (IL),highlandcommunitycollegeillinois,casonwittymiu,Cason Witt
+Apr 20,home,Black Hawk,L,4-2,4,2,2,win,20240420_rep5,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Highland (IL),highlandcommunitycollegeillinois,casonwittymiu,Cason Witt
+Apr 21,home,South Suburban,L,11-5,11,5,6,win,20240421_3go3,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Highland (IL),highlandcommunitycollegeillinois,casonwittymiu,Cason Witt
+Apr 23,home,Black Hawk,L,9-6,9,6,3,win,20240423_7815,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Highland (IL),highlandcommunitycollegeillinois,casonwittymiu,Cason Witt
+Apr 23,home,Black Hawk,W,8-3,8,3,5,win,20240423_pyo8,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Highland (IL),highlandcommunitycollegeillinois,casonwittymiu,Cason Witt
+Apr 24,home,Carl Sandburg,L,6-5,6,5,1,win,20240424_1oco,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Highland (IL),highlandcommunitycollegeillinois,casonwittymiu,Cason Witt
+Apr 28,home,Joliet,L,6-0,6,0,6,win,20240428_wlrv,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Highland (IL),highlandcommunitycollegeillinois,casonwittymiu,Cason Witt
+Apr 30,home,Kishwaukee,W,14-4,14,4,10,win,20240430_g6i7,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Highland (IL),highlandcommunitycollegeillinois,casonwittymiu,Cason Witt
+May 3,home,McHenry County,L,3-0,3,0,3,win,20240503_t178,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Highland (IL),highlandcommunitycollegeillinois,casonwittymiu,Cason Witt
+May 4,home,Kankakee,L,5-2,5,2,3,win,20240504_ct3k,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Highland (IL),highlandcommunitycollegeillinois,casonwittymiu,Cason Witt
+May 5,home,Rockford University JV,W,11-2,11,2,9,win,20240505_ndt8,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Highland (IL),highlandcommunitycollegeillinois,casonwittymiu,Cason Witt

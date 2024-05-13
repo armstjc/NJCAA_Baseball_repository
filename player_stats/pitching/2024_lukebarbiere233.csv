@@ -1,13 +1,13 @@
 date,location,opponent,result,score,team_score,opp_score,game_score_diff,game_win_loss,game_id,GS,W,L,SV,IP,H,R,ER,ERA,BB,K,HR,season,njcaa_season,njcaa_division,team,team_id,player_id,player_name
-May 2,home,Baton Rouge,W,3-0,3,0,3,win,20240502_47if,1,1,0,0,9.0,2,0,0,0.00,.44,2,9,2024,2023-24,div1,Delgado,delgadocommunitycollege,lukebarbiere233,Luke Barbier
-Apr 27,home,LSU Eunice,L,10-0,10,0,10,win,20240427_03i4,1,0,1,0,1.0,2,2,1,9.00,5.00,3,2,2024,2023-24,div1,Delgado,delgadocommunitycollege,lukebarbiere233,Luke Barbier
-Apr 20,home,Baton Rouge,W,9-3,9,3,6,win,20240420_v1sz,1,1,0,0,6.2,6,3,2,2.70,1.35,3,4,2024,2023-24,div1,Delgado,delgadocommunitycollege,lukebarbiere233,Luke Barbier
-Apr 13,home,Nunez,L,9-0,9,0,9,win,20240413_380c,1,0,1,0,5.0,7,2,2,3.60,1.40,0,9,2024,2023-24,div1,Delgado,delgadocommunitycollege,lukebarbiere233,Luke Barbier
-Apr 6,home,LSU Eunice,L,5-2,5,2,3,win,20240406_l4ur,1,0,1,0,4.0,2,5,4,9.00,1.75,5,2,2024,2023-24,div1,Delgado,delgadocommunitycollege,lukebarbiere233,Luke Barbier
-Mar 29,home,Baton Rouge,W,9-3,9,3,6,win,20240329_04rq,1,1,0,0,5.1,7,3,0,0.00,1.69,2,5,2024,2023-24,div1,Delgado,delgadocommunitycollege,lukebarbiere233,Luke Barbier
-Mar 23,home,Nunez,W,7-0,7,0,7,win,20240323_cla7,1,1,0,0,7.0,3,0,0,0.00,.57,1,6,2024,2023-24,div1,Delgado,delgadocommunitycollege,lukebarbiere233,Luke Barbier
-Mar 15,home,Waubonsee,W,11-2,11,2,9,win,20240315_12ss,0,1,0,0,6.0,8,2,1,1.50,1.33,,8,2024,2023-24,div1,Delgado,delgadocommunitycollege,lukebarbiere233,Luke Barbier
-Mar 9,home,Triton,W,5-2,5,2,3,win,20240309_x1wd,1,1,0,0,5.1,5,2,2,3.38,.94,0,8,2024,2023-24,div1,Delgado,delgadocommunitycollege,lukebarbiere233,Luke Barbier
-Mar 2,home,Pensacola State,L,3-2,3,2,1,win,20240302_qhpk,1,0,1,0,4.2,4,3,2,3.86,1.29,2,5,2024,2023-24,div1,Delgado,delgadocommunitycollege,lukebarbiere233,Luke Barbier
-Feb 23,home,Copiah-Lincoln,W,3-2,3,2,1,win,20240223_tp0r,1,1,0,0,7.0,4,2,1,1.29,.86,2,9,2024,2023-24,div1,Delgado,delgadocommunitycollege,lukebarbiere233,Luke Barbier
-Feb 15,home,Bryant & Stratton College,W,2-0,2,0,2,win,20240215_tj78,1,1,0,0,5.0,2,0,0,0.00,.40,0,11,2024,2023-24,div1,Delgado,delgadocommunitycollege,lukebarbiere233,Luke Barbier
+Apr 28,home,LSU Eunice,W,5-2,5,2,3,win,20240428_6a4p,0,0,0,1,3.0,3,,,0.00,1.33,1,4,2024,2023-24,div1,Delgado,delgadocommunitycollege,lukebarbiere233,Luke Barbier
+Apr 24,home,John Melvin University,L,5-1,5,1,4,win,20240424_u1lw,1,0,1,0,4.0,6,5,5,11.25,2.00,2,5,2024,2023-24,div1,Delgado,delgadocommunitycollege,lukebarbiere233,Luke Barbier
+Apr 13,home,Nunez,L,9-0,9,0,9,win,20240413_380c,0,0,0,0,0.0,4,7,6,INF,,2,,2024,2023-24,div1,Delgado,delgadocommunitycollege,lukebarbiere233,Luke Barbier
+Apr 6,home,LSU Eunice,L,13-3,13,3,10,win,20240406_tp0a,1,0,1,0,3.1,7,8,8,21.60,3.30,4,4,2024,2023-24,div1,Delgado,delgadocommunitycollege,lukebarbiere233,Luke Barbier
+Apr 2,home,John Melvin University,W,8-7,8,7,1,win,20240402_lxtx,0,1,0,0,1.0,,,,0.00,,,1,2024,2023-24,div1,Delgado,delgadocommunitycollege,lukebarbiere233,Luke Barbier
+Mar 24,home,Nunez,W,14-4,14,4,10,win,20240324_sfs1,0,0,0,0,2.0,3,1,1,4.50,1.50,,3,2024,2023-24,div1,Delgado,delgadocommunitycollege,lukebarbiere233,Luke Barbier
+Mar 16,home,Massasoit,W,6-2,6,2,4,win,20240316_llsc,1,1,0,0,7.0,1,2,0,0.00,.57,3,6,2024,2023-24,div1,Delgado,delgadocommunitycollege,lukebarbiere233,Luke Barbier
+Mar 10,home,Triton,W,7-2,7,2,5,win,20240310_y98o,1,1,0,0,6.1,5,2,2,2.84,1.11,2,4,2024,2023-24,div1,Delgado,delgadocommunitycollege,lukebarbiere233,Luke Barbier
+Mar 3,home,Pensacola State,W,11-6,11,6,5,win,20240303_a9ws,0,1,0,0,4.0,4,2,1,2.25,1.00,,,2024,2023-24,div1,Delgado,delgadocommunitycollege,lukebarbiere233,Luke Barbier
+Feb 23,home,Copiah-Lincoln,L,6-4,6,4,2,win,20240223_3raj,1,0,1,0,4.2,8,4,3,5.79,2.36,3,6,2024,2023-24,div1,Delgado,delgadocommunitycollege,lukebarbiere233,Luke Barbier
+Feb 17,home,Pensacola State,L,10-4,10,4,6,win,20240217_q1at,0,0,0,0,1.1,5,5,1,6.75,5.25,2,,2024,2023-24,div1,Delgado,delgadocommunitycollege,lukebarbiere233,Luke Barbier
+Feb 6,home,Copiah-Lincoln,W,22-9,22,9,13,win,20240206_854u,0,0,0,0,2.0,3,5,4,18.00,1.50,,1,2024,2023-24,div1,Delgado,delgadocommunitycollege,lukebarbiere233,Luke Barbier

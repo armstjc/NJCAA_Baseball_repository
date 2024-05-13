@@ -1,12 +1,23 @@
 date,location,opponent,result,score,team_score,opp_score,game_score_diff,game_win_loss,game_id,GS,W,L,SV,IP,H,R,ER,ERA,BB,K,HR,season,njcaa_season,njcaa_division,team,team_id,player_id,player_name
-May 3,home,Illinois Valley,W,8-1,8,1,7,win,20240503_6v3w,1,1,0,0,7.0,5,1,1,1.29,1.00,2,7,2024,2023-24,div2,Elgin,elgincommunitycollege,noahschlupya1m,Noah Schlup
-Apr 27,home,Moraine Valley,W,15-6,15,6,9,win,20240427_jfl8,1,1,0,0,4.0,7,6,6,13.50,2.75,4,2,2024,2023-24,div2,Elgin,elgincommunitycollege,noahschlupya1m,Noah Schlup
-Apr 20,home,Prairie State,W,20-11,20,11,9,win,20240420_mxlj,1,1,0,0,5.0,8,7,3,5.40,2.00,2,3,2024,2023-24,div2,Elgin,elgincommunitycollege,noahschlupya1m,Noah Schlup
-Apr 11,home,DuPage,W,14-6,14,6,8,win,20240411_70bk,0,1,0,0,1.0,4,5,1,9.00,4.00,,2,2024,2023-24,div2,Elgin,elgincommunitycollege,noahschlupya1m,Noah Schlup
-Apr 6,home,Waubonsee,W,6-3,6,3,3,win,20240406_tqpr,0,0,0,1,1.0,,,,0.00,,,,2024,2023-24,div2,Elgin,elgincommunitycollege,noahschlupya1m,Noah Schlup
-Mar 28,home,Harper,W,10-3,10,3,7,win,20240328_lmo6,0,0,0,1,3.0,1,,,0.00,1.00,2,7,2024,2023-24,div2,Elgin,elgincommunitycollege,noahschlupya1m,Noah Schlup
-Mar 19,home,Madison,L,13-10,13,10,3,win,20240319_rv40,0,0,1,0,1.0,4,7,5,45.00,5.00,1,,2024,2023-24,div2,Elgin,elgincommunitycollege,noahschlupya1m,Noah Schlup
-Mar 12,home,Milwaukee Area Tech,L,10-5,10,5,5,win,20240312_4kf8,1,0,1,0,2.0,12,9,9,40.50,6.00,0,2,2024,2023-24,div2,Elgin,elgincommunitycollege,noahschlupya1m,Noah Schlup
-Mar 6,home,Judson JV,W,30-0,30,0,30,win,20240306_l2am,1,1,0,0,1.0,1,0,0,0.00,2.00,1,0,2024,2023-24,div2,Elgin,elgincommunitycollege,noahschlupya1m,Noah Schlup
-Mar 1,home,Mississippi Delta,W,6-3,6,3,3,win,20240301_m90h,0,1,0,0,3.0,1,,,0.00,.67,1,4,2024,2023-24,div2,Elgin,elgincommunitycollege,noahschlupya1m,Noah Schlup
-Feb 24,home,Indian Hills,L,8-2,8,2,6,win,20240224_vgwa,0,0,0,0,3.0,1,2,1,3.00,.33,,4,2024,2023-24,div2,Elgin,elgincommunitycollege,noahschlupya1m,Noah Schlup
+May 10,home,Kankakee,L,8-4,8,4,4,win,20240510_xf0q,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div2,Elgin,elgincommunitycollege,noahschlupya1m,Noah Schlup
+Apr 27,home,Moraine Valley,W,15-6,15,6,9,win,20240427_jfl8,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div2,Elgin,elgincommunitycollege,noahschlupya1m,Noah Schlup
+Apr 27,home,Moraine Valley,W,15-4,15,4,11,win,20240427_0v5x,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div2,Elgin,elgincommunitycollege,noahschlupya1m,Noah Schlup
+Apr 20,home,Prairie State,W,20-11,20,11,9,win,20240420_mxlj,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div2,Elgin,elgincommunitycollege,noahschlupya1m,Noah Schlup
+Apr 19,home,Olive-Harvey,W,11-10,11,10,1,win,20240419_3yjr,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div2,Elgin,elgincommunitycollege,noahschlupya1m,Noah Schlup
+Apr 14,home,Joliet,W,11-4,11,4,7,win,20240414_hlum,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div2,Elgin,elgincommunitycollege,noahschlupya1m,Noah Schlup
+Apr 14,home,Joliet,W,10-5,10,5,5,win,20240414_21hd,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div2,Elgin,elgincommunitycollege,noahschlupya1m,Noah Schlup
+Apr 9,home,Oakton,W,15-5,15,5,10,win,20240409_k72a,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div2,Elgin,elgincommunitycollege,noahschlupya1m,Noah Schlup
+Apr 6,home,Waubonsee,L,8-6,8,6,2,win,20240406_otot,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div2,Elgin,elgincommunitycollege,noahschlupya1m,Noah Schlup
+Mar 29,home,Kankakee,L,4-1,4,1,3,win,20240329_apdb,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div2,Elgin,elgincommunitycollege,noahschlupya1m,Noah Schlup
+Mar 28,home,Harper,W,10-3,10,3,7,win,20240328_lmo6,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div2,Elgin,elgincommunitycollege,noahschlupya1m,Noah Schlup
+Mar 27,home,Triton,L,7-6,7,6,1,win,20240327_czl9,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div2,Elgin,elgincommunitycollege,noahschlupya1m,Noah Schlup
+Mar 27,home,Triton,W,13-2,13,2,11,win,20240327_sh8g,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div2,Elgin,elgincommunitycollege,noahschlupya1m,Noah Schlup
+Mar 19,home,Madison,L,13-10,13,10,3,win,20240319_rv40,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div2,Elgin,elgincommunitycollege,noahschlupya1m,Noah Schlup
+Mar 16,home,Carl Sandburg,L,7-6,7,6,1,win,20240316_3b3m,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div2,Elgin,elgincommunitycollege,noahschlupya1m,Noah Schlup
+Mar 16,home,Carl Sandburg,L,7-4,7,4,3,win,20240316_6x5l,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div2,Elgin,elgincommunitycollege,noahschlupya1m,Noah Schlup
+Mar 12,home,Milwaukee Area Tech,L,10-5,10,5,5,win,20240312_4kf8,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div2,Elgin,elgincommunitycollege,noahschlupya1m,Noah Schlup
+Mar 6,home,Judson JV,W,30-0,30,0,30,win,20240306_l2am,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div2,Elgin,elgincommunitycollege,noahschlupya1m,Noah Schlup
+Mar 2,home,Mineral Area,L,10-5,10,5,5,win,20240302_1o36,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div2,Elgin,elgincommunitycollege,noahschlupya1m,Noah Schlup
+Mar 1,home,Mississippi Delta,W,6-3,6,3,3,win,20240301_m90h,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div2,Elgin,elgincommunitycollege,noahschlupya1m,Noah Schlup
+Feb 25,home,Southwest Tennessee,W,8-2,8,2,6,win,20240225_kqxs,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div2,Elgin,elgincommunitycollege,noahschlupya1m,Noah Schlup
+Feb 24,home,Indian Hills,L,8-2,8,2,6,win,20240224_vgwa,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div2,Elgin,elgincommunitycollege,noahschlupya1m,Noah Schlup

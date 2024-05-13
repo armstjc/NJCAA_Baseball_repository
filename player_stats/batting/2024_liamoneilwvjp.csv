@@ -1,29 +1,8 @@
 date,location,opponent,result,score,team_score,opp_score,game_score_diff,game_win_loss,game_id,AB,R,H,2B,3B,HR,RBI,BB,K,SB,CS,HBP,SF,SH,TB,XBH,HDP,GO,FO,GO/FO,PA,season,njcaa_season,njcaa_division,team,team_id,player_id,player_name
-Jan 26,home,Chipola,W,9-5,9,5,4,win,20240126_9cn7,3,0,0,,,,0,,1,,,,,,0,0,,,,,3,2024,2023-24,div1,Polk State,polkstatecollege,liamoneilwvjp,Liam O'Neil
-Jan 31,home,Lake-Sumter State,W,2-0,2,0,2,win,20240131_nieq,1,0,1,,,,0,2,,,,,,,1,0,,,,,3,2024,2023-24,div1,Polk State,polkstatecollege,liamoneilwvjp,Liam O'Neil
-Feb 3,home,Pasco-Hernando State,W,4-1,4,1,3,win,20240203_f1ye,4,0,0,,,,0,,2,,,,,,0,0,,,,,4,2024,2023-24,div1,Polk State,polkstatecollege,liamoneilwvjp,Liam O'Neil
-Feb 6,home,Webber International University (B),W,7-6,7,6,1,win,20240206_qfpe,4,1,1,,,1,2,,1,,,,,,4,1,,,,,4,2024,2023-24,div1,Polk State,polkstatecollege,liamoneilwvjp,Liam O'Neil
-Feb 7,home,South Florida State,W,12-4,12,4,8,win,20240207_jpms,4,2,4,1,,1,4,2,,1,,,,,8,2,,,,,6,2024,2023-24,div1,Polk State,polkstatecollege,liamoneilwvjp,Liam O'Neil
-Feb 8,home,Eastern Florida State,W,5-3,5,3,2,win,20240208_0sny,2,0,1,,,,0,2,,,,,,,1,0,,,1,,4,2024,2023-24,div1,Polk State,polkstatecollege,liamoneilwvjp,Liam O'Neil
-Feb 10,home,Lake-Sumter State,W,15-6,15,6,9,win,20240210_p9tf,1,0,0,,,,0,,1,,,,,,0,0,,,,,1,2024,2023-24,div1,Polk State,polkstatecollege,liamoneilwvjp,Liam O'Neil
-Feb 15,home,Santa Fe,W,6-4,6,4,2,win,20240215_iltj,5,1,3,,,,1,,2,,,,,,3,0,,,,,5,2024,2023-24,div1,Polk State,polkstatecollege,liamoneilwvjp,Liam O'Neil
-Feb 20,home,Webber International University (B),W,10-1,10,1,9,win,20240220_yoci,5,1,2,,,,1,,1,,,,,,2,0,,,,,5,2024,2023-24,div1,Polk State,polkstatecollege,liamoneilwvjp,Liam O'Neil
-Feb 24,home,State College of Florida,W,3-2,3,2,1,win,20240224_mh3m,2,0,0,,,,0,1,1,,,,,,0,0,,,,,3,2024,2023-24,div1,Polk State,polkstatecollege,liamoneilwvjp,Liam O'Neil
-Mar 2,home,Miami Dade,W,4-2,4,2,2,win,20240302_4rtr,3,0,1,,,,0,,1,,,,,,1,0,,,,,3,2024,2023-24,div1,Polk State,polkstatecollege,liamoneilwvjp,Liam O'Neil
-Mar 5,home,St. Johns River State,W,9-8,9,8,1,win,20240305_6esm,4,1,1,,,,1,1,,,,,,,1,0,,,,,5,2024,2023-24,div1,Polk State,polkstatecollege,liamoneilwvjp,Liam O'Neil
-Mar 7,home,Hillsborough,W,6-2,6,2,4,win,20240307_v8q4,4,0,1,,,,0,,,,,,,,1,0,,,3,,4,2024,2023-24,div1,Polk State,polkstatecollege,liamoneilwvjp,Liam O'Neil
-Mar 9,home,Hillsborough,W,6-3,6,3,3,win,20240309_gtrs,3,0,1,,1,,0,,1,,,,,,3,1,,,,,3,2024,2023-24,div1,Polk State,polkstatecollege,liamoneilwvjp,Liam O'Neil
-Mar 9,home,Hillsborough,W,8-2,8,2,6,win,20240309_ogmi,4,0,0,,,,2,,,,,,,,0,0,,,,,4,2024,2023-24,div1,Polk State,polkstatecollege,liamoneilwvjp,Liam O'Neil
-Mar 12,home,Westchester,W,9-8,9,8,1,win,20240312_1g92,5,1,2,1,,,3,,,1,,,,,3,1,,,,,5,2024,2023-24,div1,Polk State,polkstatecollege,liamoneilwvjp,Liam O'Neil
-Mar 14,home,Central Florida,W,2-1,2,1,1,win,20240314_a3aj,4,0,0,,,,0,,3,,,,,,0,0,,,,,4,2024,2023-24,div1,Polk State,polkstatecollege,liamoneilwvjp,Liam O'Neil
-Mar 16,home,Central Florida,W,5-4,5,4,1,win,20240316_rltf,3,1,0,,,,0,,1,,,,,,0,0,,,1,,3,2024,2023-24,div1,Polk State,polkstatecollege,liamoneilwvjp,Liam O'Neil
-Mar 19,home,Warner University (B),W,5-1,5,1,4,win,20240319_qkfi,2,0,0,,,,1,2,,,,,,,0,0,,,,,4,2024,2023-24,div1,Polk State,polkstatecollege,liamoneilwvjp,Liam O'Neil
-Mar 21,home,Daytona State,W,10-8,10,8,2,win,20240321_7suv,4,1,2,,,1,4,,2,,,,,,5,1,,,,,4,2024,2023-24,div1,Polk State,polkstatecollege,liamoneilwvjp,Liam O'Neil
-Mar 24,home,Daytona State,W,2-1,2,1,1,win,20240324_fn4m,3,0,3,,,,0,,,,,,,,3,0,,,,,3,2024,2023-24,div1,Polk State,polkstatecollege,liamoneilwvjp,Liam O'Neil
-Mar 24,home,Daytona State,W,12-2,12,2,10,win,20240324_cft7,3,1,1,,,,0,,1,,,1,,,1,0,,,,,4,2024,2023-24,div1,Polk State,polkstatecollege,liamoneilwvjp,Liam O'Neil
-Mar 28,home,Indian River State,W,5-1,5,1,4,win,20240328_7tlk,4,1,2,,,1,2,,1,,,,,,5,1,,,,,4,2024,2023-24,div1,Polk State,polkstatecollege,liamoneilwvjp,Liam O'Neil
-Apr 2,home,University of Tampa (B),W,10-7,10,7,3,win,20240402_g20x,4,1,1,,,,0,1,2,1,,,,,1,0,,,,,5,2024,2023-24,div1,Polk State,polkstatecollege,liamoneilwvjp,Liam O'Neil
-Apr 4,home,Eastern Florida State,W,13-5,13,5,8,win,20240404_3pke,4,3,3,,,2,5,1,1,,,,,,9,2,,,,,5,2024,2023-24,div1,Polk State,polkstatecollege,liamoneilwvjp,Liam O'Neil
-Apr 6,home,Eastern Florida State,W,2-1,2,1,1,win,20240406_srhe,3,0,0,,,,0,,1,,,,,,0,0,,,,,3,2024,2023-24,div1,Polk State,polkstatecollege,liamoneilwvjp,Liam O'Neil
-Apr 9,home,St. Johns River State,W,14-4,14,4,10,win,20240409_jc7n,3,1,0,,,,0,2,2,,,,,,0,0,,,,,5,2024,2023-24,div1,Polk State,polkstatecollege,liamoneilwvjp,Liam O'Neil
-Apr 12,home,St. Petersburg,W,13-6,13,6,7,win,20240412_dmvp,5,0,0,,,,0,1,2,,1,,,,0,0,,,,,6,2024,2023-24,div1,Polk State,polkstatecollege,liamoneilwvjp,Liam O'Neil
+Feb 6,home,Copiah-Lincoln,W,22-9,22,9,13,win,20240206_854u,0,0,0,,,,0,,,,,,,,0,0,,,,,0,2024,2023-24,div1,Polk State,polkstatecollege,liamoneilwvjp,Liam O'Neil
+Mar 3,home,Pensacola State,W,11-6,11,6,5,win,20240303_a9ws,0,0,0,,,,0,,,,,,,,0,0,,,,,0,2024,2023-24,div1,Polk State,polkstatecollege,liamoneilwvjp,Liam O'Neil
+Mar 10,home,Triton,W,7-2,7,2,5,win,20240310_y98o,0,0,0,,,,0,,,,,,,,0,0,,,,,0,2024,2023-24,div1,Polk State,polkstatecollege,liamoneilwvjp,Liam O'Neil
+Mar 16,home,Massasoit,W,6-2,6,2,4,win,20240316_llsc,0,0,0,,,,0,,,,,,,,0,0,,,,,0,2024,2023-24,div1,Polk State,polkstatecollege,liamoneilwvjp,Liam O'Neil
+Mar 24,home,Nunez,W,14-4,14,4,10,win,20240324_sfs1,0,0,0,,,,0,,,,,,,,0,0,,,,,0,2024,2023-24,div1,Polk State,polkstatecollege,liamoneilwvjp,Liam O'Neil
+Apr 2,home,John Melvin University,W,8-7,8,7,1,win,20240402_lxtx,0,0,0,,,,0,,,,,,,,0,0,,,,,0,2024,2023-24,div1,Polk State,polkstatecollege,liamoneilwvjp,Liam O'Neil
+Apr 28,home,LSU Eunice,W,5-2,5,2,3,win,20240428_6a4p,0,0,0,,,,0,,,,,,,,0,0,,,,,0,2024,2023-24,div1,Polk State,polkstatecollege,liamoneilwvjp,Liam O'Neil

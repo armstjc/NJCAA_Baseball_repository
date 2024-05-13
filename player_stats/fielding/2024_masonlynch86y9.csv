@@ -1,12 +1,18 @@
 date,location,opponent,result,score,team_score,opp_score,game_score_diff,game_win_loss,game_id,TC,PO,A,E,FPCT,DP,SBA,RCS,RCS_PCT,PB,CI,season,njcaa_season,njcaa_division,team,team_id,player_id,player_name
-Mar 2,home,Moraine Valley,W,14-4,14,4,10,win,20240302_1fhu,1,1,0,0,4.0,6,3,3,6.75,1.50,0,2024,2023-24,div2,Black Hawk,blackhawkcollegemoline,masonlynch86y9,Mason Lynch
-Mar 7,home,Milwaukee Area Tech,W,9-2,9,2,7,win,20240307_oob1,1,1,0,0,6.0,3,2,2,3.00,.83,2,2024,2023-24,div2,Black Hawk,blackhawkcollegemoline,masonlynch86y9,Mason Lynch
-Mar 15,home,Herkimer,L,3-2,3,2,1,win,20240315_y223,1,0,0,0,5.0,3,2,1,1.80,1.00,2,2024,2023-24,div2,Black Hawk,blackhawkcollegemoline,masonlynch86y9,Mason Lynch
-Mar 24,home,Bryant & Stratton College (WI),W,7-1,7,1,6,win,20240324_er7x,1,1,0,0,7.0,2,1,0,0.00,.43,1,2024,2023-24,div2,Black Hawk,blackhawkcollegemoline,masonlynch86y9,Mason Lynch
-Mar 30,home,Sauk Valley,W,3-2,3,2,1,win,20240330_kk0b,1,1,0,0,7.0,6,2,2,2.57,1.00,1,2024,2023-24,div2,Black Hawk,blackhawkcollegemoline,masonlynch86y9,Mason Lynch
-Apr 5,home,Triton,W,6-5,6,5,1,win,20240405_eyd4,1,0,0,0,3.2,7,5,5,12.27,2.45,2,2024,2023-24,div2,Black Hawk,blackhawkcollegemoline,masonlynch86y9,Mason Lynch
-Apr 20,home,Highland (IL),L,10-0,10,0,10,win,20240420_an5k,1,0,1,0,3.1,9,8,6,16.20,3.30,2,2024,2023-24,div2,Black Hawk,blackhawkcollegemoline,masonlynch86y9,Mason Lynch
-Apr 23,home,Highland (IL),L,8-3,8,3,5,win,20240423_pyo8,0,0,0,0,1.0,2,1,1,9.00,4.00,2,2024,2023-24,div2,Black Hawk,blackhawkcollegemoline,masonlynch86y9,Mason Lynch
-Apr 27,home,Carl Sandburg,W,5-3,5,3,2,win,20240427_v7wt,1,1,0,0,6.0,6,3,3,4.50,1.83,5,2024,2023-24,div2,Black Hawk,blackhawkcollegemoline,masonlynch86y9,Mason Lynch
-Apr 30,home,Carl Sandburg,W,18-9,18,9,9,win,20240430_6pbo,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Black Hawk,blackhawkcollegemoline,masonlynch86y9,Mason Lynch
-May 4,home,Elgin,W,15-5,15,5,10,win,20240504_tjha,0,0,0,0,0.2,,,,0.00,,,2024,2023-24,div2,Black Hawk,blackhawkcollegemoline,masonlynch86y9,Mason Lynch
+Mar 12,home,Baton Rouge,W,9-2,9,2,7,win,20240312_yue2,0,0,0,0,1.0,1,,,0.00,1.00,,2024,2023-24,div2,Black Hawk,blackhawkcollegemoline,masonlynch86y9,Mason Lynch
+Mar 19,home,Carl Sandburg,W,9-7,9,7,2,win,20240319_hlzs,0,0,0,0,0.2,,,,0.00,,,2024,2023-24,div2,Black Hawk,blackhawkcollegemoline,masonlynch86y9,Mason Lynch
+Mar 20,home,Marshalltown,W,10-7,10,7,3,win,20240320_i5m4,0,0,0,0,2.0,1,,,0.00,.50,,2024,2023-24,div2,Black Hawk,blackhawkcollegemoline,masonlynch86y9,Mason Lynch
+Mar 23,home,Northeast,L,5-1,5,1,4,win,20240323_0tt9,0,0,0,0,1.0,1,1,,0.00,2.00,1,2024,2023-24,div2,Black Hawk,blackhawkcollegemoline,masonlynch86y9,Mason Lynch
+Mar 28,home,Des Moines Area,W,10-1,10,1,9,win,20240328_3d5r,1,1,0,0,2.0,2,0,0,0.00,1.00,0,2024,2023-24,div2,Black Hawk,blackhawkcollegemoline,masonlynch86y9,Mason Lynch
+Apr 5,home,Iowa Lakes,W,14-0,14,0,14,win,20240405_6a86,1,1,0,0,6.0,2,0,0,0.00,.33,0,2024,2023-24,div2,Black Hawk,blackhawkcollegemoline,masonlynch86y9,Mason Lynch
+Apr 11,home,Carl Sandburg,W,17-9,17,9,8,win,20240411_u2x1,1,0,0,0,1.2,2,5,2,10.80,4.80,6,2024,2023-24,div2,Black Hawk,blackhawkcollegemoline,masonlynch86y9,Mason Lynch
+Apr 19,home,Des Moines Area,W,4-3,4,3,1,win,20240419_5806,1,0,0,0,4.2,3,1,1,1.93,.86,1,2024,2023-24,div2,Black Hawk,blackhawkcollegemoline,masonlynch86y9,Mason Lynch
+Apr 24,home,Kirkwood,L,5-2,5,2,3,win,20240424_scdf,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Black Hawk,blackhawkcollegemoline,masonlynch86y9,Mason Lynch
+Apr 29,home,Iowa Central,L,17-4,17,4,13,win,20240429_fe4r,1,0,1,0,1.1,4,4,4,27.00,4.50,2,2024,2023-24,div2,Black Hawk,blackhawkcollegemoline,masonlynch86y9,Mason Lynch
+May 1,home,Ellsworth,W,11-4,11,4,7,win,20240501_h66i,0,0,0,0,1.0,,,,0.00,,,2024,2023-24,div2,Black Hawk,blackhawkcollegemoline,masonlynch86y9,Mason Lynch
+May 1,home,Ellsworth,W,10-3,10,3,7,win,20240501_mrgl,0,0,0,0,1.0,,,,0.00,,,2024,2023-24,div2,Black Hawk,blackhawkcollegemoline,masonlynch86y9,Mason Lynch
+May 3,home,Indian Hills,W,6-5,6,5,1,win,20240503_kebs,0,0,0,0,1.0,1,,,0.00,1.00,,2024,2023-24,div2,Black Hawk,blackhawkcollegemoline,masonlynch86y9,Mason Lynch
+May 5,home,Indian Hills,W,7-5,7,5,2,win,20240505_hbkz,0,0,0,0,1.0,1,1,1,9.00,2.00,1,2024,2023-24,div2,Black Hawk,blackhawkcollegemoline,masonlynch86y9,Mason Lynch
+May 6,home,Carl Sandburg,W,6-4,6,4,2,win,20240506_bxj1,0,0,0,0,1.0,1,,,0.00,1.00,,2024,2023-24,div2,Black Hawk,blackhawkcollegemoline,masonlynch86y9,Mason Lynch
+May 11,home,Des Moines Area,L,9-6,9,6,3,win,20240511_7oci,0,0,0,0,0.1,2,3,1,27.00,9.00,1,2024,2023-24,div2,Black Hawk,blackhawkcollegemoline,masonlynch86y9,Mason Lynch
+May 12,home,Des Moines Area,L,19-12,19,12,7,win,20240512_3mhq,0,0,0,0,1.1,0,4,4,27.00,3.00,4,2024,2023-24,div2,Black Hawk,blackhawkcollegemoline,masonlynch86y9,Mason Lynch

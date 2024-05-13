@@ -1,13 +1,37 @@
 date,location,opponent,result,score,team_score,opp_score,game_score_diff,game_win_loss,game_id,GS,W,L,SV,IP,H,R,ER,ERA,BB,K,HR,season,njcaa_season,njcaa_division,team,team_id,player_id,player_name
-May 4,home,Dawson,W,12-4,12,4,8,win,20240504_ccgt,0,0,0,0,1.0,1,,,0.00,1.00,,2,2024,2023-24,div2,Williston State,willistonstatecollege,zachfootehbh6,Zach Foote
-Apr 27,home,North Dakota SCS,W,9-5,9,5,4,win,20240427_lggr,0,0,0,0,2.0,4,2,1,4.50,2.50,1,2,2024,2023-24,div2,Williston State,willistonstatecollege,zachfootehbh6,Zach Foote
-Apr 24,home,Lake Region State,W,11-3,11,3,8,win,20240424_o3ka,0,0,0,0,1.0,,,,0.00,,,,2024,2023-24,div2,Williston State,willistonstatecollege,zachfootehbh6,Zach Foote
-Apr 14,home,Bismarck State,L,10-7,10,7,3,win,20240414_nm77,0,0,0,0,1.2,4,3,2,10.80,3.60,2,3,2024,2023-24,div2,Williston State,willistonstatecollege,zachfootehbh6,Zach Foote
-Apr 6,home,Miles,W,5-3,5,3,2,win,20240406_buz1,0,0,0,1,0.1,,,,0.00,6.00,2,,2024,2023-24,div2,Williston State,willistonstatecollege,zachfootehbh6,Zach Foote
-Apr 5,home,Miles,L,9-5,9,5,4,win,20240405_1sih,0,0,0,0,1.0,1,1,1,9.00,3.00,2,2,2024,2023-24,div2,Williston State,willistonstatecollege,zachfootehbh6,Zach Foote
-Apr 3,home,Dakota-Bottineau,W,5-1,5,1,4,win,20240403_wnru,0,1,0,0,1.0,,,,0.00,1.00,1,2,2024,2023-24,div2,Williston State,willistonstatecollege,zachfootehbh6,Zach Foote
-Mar 17,home,Langley Blaze,W,10-0,10,0,10,win,20240317_s4sv,0,0,0,0,1.0,,,,0.00,1.00,1,2,2024,2023-24,div2,Williston State,willistonstatecollege,zachfootehbh6,Zach Foote
-Mar 13,home,Going Yard Academy,W,6-2,6,2,4,win,20240313_0r96,0,1,0,0,2.2,2,,,0.00,1.13,1,6,2024,2023-24,div2,Williston State,willistonstatecollege,zachfootehbh6,Zach Foote
-Mar 9,home,Madison,L,7-0,7,0,7,win,20240309_f93w,0,0,0,0,1.0,,,,0.00,1.00,1,1,2024,2023-24,div2,Williston State,willistonstatecollege,zachfootehbh6,Zach Foote
-Mar 4,home,Midland University,W,10-2,10,2,8,win,20240304_y506,0,0,0,0,1.0,2,,,0.00,2.00,,2,2024,2023-24,div2,Williston State,willistonstatecollege,zachfootehbh6,Zach Foote
-Feb 19,home,Adams State,L,8-7,8,7,1,win,20240219_rh0t,0,0,0,0,0.1,1,,,0.00,6.00,1,,2024,2023-24,div2,Williston State,willistonstatecollege,zachfootehbh6,Zach Foote
+May 11,home,Miles,W,11-6,11,6,5,win,20240511_r0zk,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div2,Williston State,willistonstatecollege,zachfootehbh6,Zach Foote
+May 4,home,Dawson,W,12-4,12,4,8,win,20240504_ccgt,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div2,Williston State,willistonstatecollege,zachfootehbh6,Zach Foote
+May 4,home,Dawson,W,8-6,8,6,2,win,20240504_skan,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div2,Williston State,willistonstatecollege,zachfootehbh6,Zach Foote
+Apr 28,home,North Dakota SCS,W,11-7,11,7,4,win,20240428_mon4,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div2,Williston State,willistonstatecollege,zachfootehbh6,Zach Foote
+Apr 28,home,North Dakota SCS,W,9-1,9,1,8,win,20240428_jibg,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div2,Williston State,willistonstatecollege,zachfootehbh6,Zach Foote
+Apr 27,home,North Dakota SCS,W,9-5,9,5,4,win,20240427_lggr,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div2,Williston State,willistonstatecollege,zachfootehbh6,Zach Foote
+Apr 27,home,North Dakota SCS,L,6-0,6,0,6,win,20240427_t4an,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div2,Williston State,willistonstatecollege,zachfootehbh6,Zach Foote
+Apr 24,home,Lake Region State,W,11-3,11,3,8,win,20240424_o3ka,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div2,Williston State,willistonstatecollege,zachfootehbh6,Zach Foote
+Apr 24,home,Lake Region State,W,15-5,15,5,10,win,20240424_btj8,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div2,Williston State,willistonstatecollege,zachfootehbh6,Zach Foote
+Apr 21,home,Dawson,W,7-5,7,5,2,win,20240421_z79i,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div2,Williston State,willistonstatecollege,zachfootehbh6,Zach Foote
+Apr 21,home,Dawson,W,8-2,8,2,6,win,20240421_8fcv,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div2,Williston State,willistonstatecollege,zachfootehbh6,Zach Foote
+Apr 20,home,Dawson,W,10-0,10,0,10,win,20240420_5mp7,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div2,Williston State,willistonstatecollege,zachfootehbh6,Zach Foote
+Apr 20,home,Dawson,W,7-6,7,6,1,win,20240420_o18z,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div2,Williston State,willistonstatecollege,zachfootehbh6,Zach Foote
+Apr 15,home,Dakota-Bottineau,W,14-4,14,4,10,win,20240415_s8ip,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div2,Williston State,willistonstatecollege,zachfootehbh6,Zach Foote
+Apr 15,home,Dakota-Bottineau,W,11-1,11,1,10,win,20240415_azzy,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div2,Williston State,willistonstatecollege,zachfootehbh6,Zach Foote
+Apr 14,home,Bismarck State,L,10-7,10,7,3,win,20240414_nm77,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div2,Williston State,willistonstatecollege,zachfootehbh6,Zach Foote
+Apr 13,home,Bismarck State,L,7-5,7,5,2,win,20240413_5b15,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div2,Williston State,willistonstatecollege,zachfootehbh6,Zach Foote
+Apr 10,home,Lake Region State,W,11-1,11,1,10,win,20240410_8u2q,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div2,Williston State,willistonstatecollege,zachfootehbh6,Zach Foote
+Apr 10,home,Lake Region State,W,13-4,13,4,9,win,20240410_odee,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div2,Williston State,willistonstatecollege,zachfootehbh6,Zach Foote
+Apr 5,home,Miles,L,9-5,9,5,4,win,20240405_1sih,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div2,Williston State,willistonstatecollege,zachfootehbh6,Zach Foote
+Apr 5,home,Miles,L,22-5,22,5,17,win,20240405_8mzv,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div2,Williston State,willistonstatecollege,zachfootehbh6,Zach Foote
+Apr 3,home,Dakota-Bottineau,W,15-3,15,3,12,win,20240403_51yf,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div2,Williston State,willistonstatecollege,zachfootehbh6,Zach Foote
+Apr 3,home,Dakota-Bottineau,W,5-1,5,1,4,win,20240403_wnru,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div2,Williston State,willistonstatecollege,zachfootehbh6,Zach Foote
+Mar 16,home,Minnesota North College - Rainy River,L,3-2,3,2,1,win,20240316_3pqr,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div2,Williston State,willistonstatecollege,zachfootehbh6,Zach Foote
+Mar 14,home,Riverland,L,6-4,6,4,2,win,20240314_zyue,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div2,Williston State,willistonstatecollege,zachfootehbh6,Zach Foote
+Mar 12,home,Riverland,W,17-1,17,1,16,win,20240312_mjm3,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div2,Williston State,willistonstatecollege,zachfootehbh6,Zach Foote
+Mar 11,home,Minnesota North College - Rainy River,W,12-1,12,1,11,win,20240311_qwgw,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div2,Williston State,willistonstatecollege,zachfootehbh6,Zach Foote
+Mar 9,home,Madison,W,3-2,3,2,1,win,20240309_i3ed,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div2,Williston State,willistonstatecollege,zachfootehbh6,Zach Foote
+Mar 9,home,Madison,L,7-0,7,0,7,win,20240309_f93w,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div2,Williston State,willistonstatecollege,zachfootehbh6,Zach Foote
+Mar 4,home,Midland University,W,13-7,13,7,6,win,20240304_u3ux,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div2,Williston State,willistonstatecollege,zachfootehbh6,Zach Foote
+Mar 4,home,Midland University,W,10-2,10,2,8,win,20240304_y506,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div2,Williston State,willistonstatecollege,zachfootehbh6,Zach Foote
+Mar 3,home,Midland University,W,12-5,12,5,7,win,20240303_l1f3,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div2,Williston State,willistonstatecollege,zachfootehbh6,Zach Foote
+Feb 19,home,Adams State,L,6-2,6,2,4,win,20240219_ns40,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div2,Williston State,willistonstatecollege,zachfootehbh6,Zach Foote
+Feb 19,home,Adams State,L,8-7,8,7,1,win,20240219_rh0t,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div2,Williston State,willistonstatecollege,zachfootehbh6,Zach Foote
+Feb 18,home,Adams State,W,11-1,11,1,10,win,20240218_15k2,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div2,Williston State,willistonstatecollege,zachfootehbh6,Zach Foote
+Feb 18,home,Adams State,L,15-5,15,5,10,win,20240218_vddh,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div2,Williston State,willistonstatecollege,zachfootehbh6,Zach Foote

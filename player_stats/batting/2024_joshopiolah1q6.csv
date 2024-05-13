@@ -1,8 +1,19 @@
 date,location,opponent,result,score,team_score,opp_score,game_score_diff,game_win_loss,game_id,AB,R,H,2B,3B,HR,RBI,BB,K,SB,CS,HBP,SF,SH,TB,XBH,HDP,GO,FO,GO/FO,PA,season,njcaa_season,njcaa_division,team,team_id,player_id,player_name
-Feb 27,home,Houghton College JV,W,7-3,7,3,4,win,20240227_uf0r,0,0,0,,,,0,,,,,,,,0,0,,,,,0,2024,2023-24,div2,Bryant & Stratton College (WI),bryantstrattoncollegewi,joshopiolah1q6,Josh Opiola
-Mar 2,home,Jackson,W,5-1,5,1,4,win,20240302_39g2,0,0,0,,,,0,,,,,,,,0,0,,,,,0,2024,2023-24,div2,Bryant & Stratton College (WI),bryantstrattoncollegewi,joshopiolah1q6,Josh Opiola
-Mar 24,home,Black Hawk,W,10-5,10,5,5,win,20240324_4qzh,0,0,0,,,,0,,,,,,,,0,0,,,,,0,2024,2023-24,div2,Bryant & Stratton College (WI),bryantstrattoncollegewi,joshopiolah1q6,Josh Opiola
-Mar 30,home,Lake County,W,2-1,2,1,1,win,20240330_wucr,0,0,0,,,,0,,,,,,,,0,0,,,,,0,2024,2023-24,div2,Bryant & Stratton College (WI),bryantstrattoncollegewi,joshopiolah1q6,Josh Opiola
-Apr 17,home,Rock Valley,W,12-11,12,11,1,win,20240417_95xu,0,0,0,,,,0,,,,,,,,0,0,,,,,0,2024,2023-24,div2,Bryant & Stratton College (WI),bryantstrattoncollegewi,joshopiolah1q6,Josh Opiola
-Apr 21,home,Elgin,W,8-6,8,6,2,win,20240421_8gln,0,0,0,,,,0,,,,,,,,0,0,,,,,0,2024,2023-24,div2,Bryant & Stratton College (WI),bryantstrattoncollegewi,joshopiolah1q6,Josh Opiola
-Apr 27,home,South Suburban,W,10-4,10,4,6,win,20240427_5mta,0,0,0,,,,0,,,,,,,,0,0,,,,,0,2024,2023-24,div2,Bryant & Stratton College (WI),bryantstrattoncollegewi,joshopiolah1q6,Josh Opiola
+Mar 1,home,Owens,W,4-2,4,2,2,win,20240301_hyyl,4,0,0,,,,0,,2,,,,,,0,0,,2,,,4,2024,2023-24,div2,Bryant & Stratton College (WI),bryantstrattoncollegewi,joshopiolah1q6,Josh Opiola
+Mar 2,home,Jackson,W,5-1,5,1,4,win,20240302_39g2,4,0,1,,,,0,,1,,,,,,1,0,,1,1,1.00,4,2024,2023-24,div2,Bryant & Stratton College (WI),bryantstrattoncollegewi,joshopiolah1q6,Josh Opiola
+Mar 24,home,Black Hawk,W,10-5,10,5,5,win,20240324_4qzh,5,2,4,1,,,3,,,,,,,,5,1,,,1,,5,2024,2023-24,div2,Bryant & Stratton College (WI),bryantstrattoncollegewi,joshopiolah1q6,Josh Opiola
+Mar 27,home,Milwaukee Area Tech,W,4-3,4,3,1,win,20240327_ejfu,4,0,0,,,,0,,1,,,,,,0,0,,1,,,4,2024,2023-24,div2,Bryant & Stratton College (WI),bryantstrattoncollegewi,joshopiolah1q6,Josh Opiola
+Mar 29,home,Prairie State,W,5-4,5,4,1,win,20240329_4t99,2,1,0,,,,0,1,1,1,,,,,0,0,,1,,,3,2024,2023-24,div2,Bryant & Stratton College (WI),bryantstrattoncollegewi,joshopiolah1q6,Josh Opiola
+Mar 29,home,Prairie State,W,12-1,12,1,11,win,20240329_cxkf,1,1,0,,,,0,1,,1,,,,,0,0,,1,,,2,2024,2023-24,div2,Bryant & Stratton College (WI),bryantstrattoncollegewi,joshopiolah1q6,Josh Opiola
+Mar 30,home,Lake County,W,2-1,2,1,1,win,20240330_wucr,3,0,0,,,,0,,2,,,,,,0,0,,,1,,3,2024,2023-24,div2,Bryant & Stratton College (WI),bryantstrattoncollegewi,joshopiolah1q6,Josh Opiola
+Mar 30,home,Lake County,W,2-1,2,1,1,win,20240330_ebk1,3,0,1,1,,,1,,1,,,,,,2,1,,,,,3,2024,2023-24,div2,Bryant & Stratton College (WI),bryantstrattoncollegewi,joshopiolah1q6,Josh Opiola
+Apr 12,home,Milwaukee Area Tech,W,14-8,14,8,6,win,20240412_1zwy,5,0,0,,,,0,,4,,,,,,0,0,,,,,5,2024,2023-24,div2,Bryant & Stratton College (WI),bryantstrattoncollegewi,joshopiolah1q6,Josh Opiola
+Apr 13,home,DuPage,W,2-0,2,0,2,win,20240413_8v5w,2,0,1,1,,,1,1,,,,,,,2,1,,,,,3,2024,2023-24,div2,Bryant & Stratton College (WI),bryantstrattoncollegewi,joshopiolah1q6,Josh Opiola
+Apr 17,home,Rock Valley,W,12-11,12,11,1,win,20240417_95xu,3,0,1,1,,,1,2,2,,,,,,2,1,,,,,5,2024,2023-24,div2,Bryant & Stratton College (WI),bryantstrattoncollegewi,joshopiolah1q6,Josh Opiola
+Apr 20,home,Joliet,W,5-0,5,0,5,win,20240420_q1i2,2,0,0,,,,0,1,,,,,,,0,0,,1,1,1.00,3,2024,2023-24,div2,Bryant & Stratton College (WI),bryantstrattoncollegewi,joshopiolah1q6,Josh Opiola
+Apr 21,home,Elgin,W,8-6,8,6,2,win,20240421_8gln,3,2,1,,,,0,,1,,,,,,1,0,,,1,,3,2024,2023-24,div2,Bryant & Stratton College (WI),bryantstrattoncollegewi,joshopiolah1q6,Josh Opiola
+Apr 23,home,Bay College,W,14-4,14,4,10,win,20240423_1fqc,2,0,0,,,,0,,,1,,,,,0,0,,,,,2,2024,2023-24,div2,Bryant & Stratton College (WI),bryantstrattoncollegewi,joshopiolah1q6,Josh Opiola
+Apr 25,home,Kishwaukee,W,12-1,12,1,11,win,20240425_wsd6,4,0,3,2,,,2,,1,1,,,,,5,2,,,,,4,2024,2023-24,div2,Bryant & Stratton College (WI),bryantstrattoncollegewi,joshopiolah1q6,Josh Opiola
+Apr 27,home,South Suburban,W,10-4,10,4,6,win,20240427_5mta,3,0,0,,,,0,,2,1,,1,,,0,0,,,,,4,2024,2023-24,div2,Bryant & Stratton College (WI),bryantstrattoncollegewi,joshopiolah1q6,Josh Opiola
+Apr 29,home,Oakton,W,19-8,19,8,11,win,20240429_ex6i,3,2,1,1,,,1,,,,,1,,,2,1,,1,1,1.00,4,2024,2023-24,div2,Bryant & Stratton College (WI),bryantstrattoncollegewi,joshopiolah1q6,Josh Opiola
+May 4,home,Morton,W,10-4,10,4,6,win,20240504_m2l6,3,3,2,,,,0,1,1,,,,,,2,0,,,,,4,2024,2023-24,div2,Bryant & Stratton College (WI),bryantstrattoncollegewi,joshopiolah1q6,Josh Opiola

@@ -1,14 +1,18 @@
 date,location,opponent,result,score,team_score,opp_score,game_score_diff,game_win_loss,game_id,TC,PO,A,E,FPCT,DP,SBA,RCS,RCS_PCT,PB,CI,season,njcaa_season,njcaa_division,team,team_id,player_id,player_name
-Jan 26,home,Inspiration Academy,W,5-2,5,2,3,win,20240126_9zua,0,1,0,0,2.0,1,,,0.00,.50,,2024,2023-24,div2,South Florida State,southfloridastatecollege,jacobkedingxkn5,Jacob Keding
-Jan 29,home,Webber International University (B),W,7-6,7,6,1,win,20240129_lcpr,0,0,0,0,1.0,,1,1,9.00,2.00,2,2024,2023-24,div2,South Florida State,southfloridastatecollege,jacobkedingxkn5,Jacob Keding
-Jan 31,home,IMG Academy,W,13-0,13,0,13,win,20240131_1c69,0,0,0,0,1.0,1,,,0.00,1.00,,2024,2023-24,div2,South Florida State,southfloridastatecollege,jacobkedingxkn5,Jacob Keding
-Feb 3,home,Santa Fe,L,13-3,13,3,10,win,20240203_p42t,0,0,0,0,0.1,1,1,,0.00,9.00,2,2024,2023-24,div2,South Florida State,southfloridastatecollege,jacobkedingxkn5,Jacob Keding
-Feb 9,home,Central Florida,L,12-1,12,1,11,win,20240209_7205,0,0,0,0,0.2,,,,0.00,,,2024,2023-24,div2,South Florida State,southfloridastatecollege,jacobkedingxkn5,Jacob Keding
-Feb 21,home,Warner University (B),W,11-4,11,4,7,win,20240221_u1fb,0,0,0,0,0.1,,,,0.00,,,2024,2023-24,div2,South Florida State,southfloridastatecollege,jacobkedingxkn5,Jacob Keding
-Feb 23,home,Pasco-Hernando State,L,15-4,15,4,11,win,20240223_nqvp,0,0,0,0,0.1,1,,,0.00,3.00,,2024,2023-24,div2,South Florida State,southfloridastatecollege,jacobkedingxkn5,Jacob Keding
-Mar 9,home,Palm Beach State,L,16-1,16,1,15,win,20240309_1e05,0,0,0,0,1.0,1,2,,0.00,3.00,2,2024,2023-24,div2,South Florida State,southfloridastatecollege,jacobkedingxkn5,Jacob Keding
-Mar 11,home,"Webber International University ""B""",W,11-2,11,2,9,win,20240311_g69l,0,0,0,0,1.0,,,,0.00,,,2024,2023-24,div2,South Florida State,southfloridastatecollege,jacobkedingxkn5,Jacob Keding
-Mar 27,home,Warner University (B),W,14-2,14,2,12,win,20240327_z4kk,0,1,0,0,1.0,,,,0.00,,,2024,2023-24,div2,South Florida State,southfloridastatecollege,jacobkedingxkn5,Jacob Keding
-Apr 9,home,Florida SouthWestern State,L,8-3,8,3,5,win,20240409_bdr5,0,0,0,0,1.0,1,,,0.00,1.00,,2024,2023-24,div2,South Florida State,southfloridastatecollege,jacobkedingxkn5,Jacob Keding
-Apr 16,home,Polk State,L,12-6,12,6,6,win,20240416_4fjf,0,0,0,0,0.1,,5,4,108.00,6.00,2,2024,2023-24,div2,South Florida State,southfloridastatecollege,jacobkedingxkn5,Jacob Keding
-Apr 19,home,St. Johns River State,L,14-2,14,2,12,win,20240419_y2uz,0,0,0,0,0.1,,,,0.00,,,2024,2023-24,div2,South Florida State,southfloridastatecollege,jacobkedingxkn5,Jacob Keding
+Jan 27,home,St. Petersburg,L,9-2,9,2,7,win,20240127_anr6,1,0,1,0,1.0,4,4,2,18.00,5.00,1,2024,2023-24,div2,South Florida State,southfloridastatecollege,jacobkedingxkn5,Jacob Keding
+Feb 3,home,Santa Fe,L,13-3,13,3,10,win,20240203_p42t,1,0,1,0,3.2,3,2,2,4.91,1.64,3,2024,2023-24,div2,South Florida State,southfloridastatecollege,jacobkedingxkn5,Jacob Keding
+Feb 9,home,Central Florida,L,12-1,12,1,11,win,20240209_7205,1,0,1,0,4.2,7,7,5,9.64,1.93,2,2024,2023-24,div2,South Florida State,southfloridastatecollege,jacobkedingxkn5,Jacob Keding
+Feb 16,home,Inspiration Academy,W,6-3,6,3,3,win,20240216_bz30,1,0,0,0,3.0,5,1,1,3.00,2.33,2,2024,2023-24,div2,South Florida State,southfloridastatecollege,jacobkedingxkn5,Jacob Keding
+Feb 24,home,Pasco-Hernando State,L,10-0,10,0,10,win,20240224_gzt6,1,0,1,0,2.2,5,7,7,23.63,3.75,5,2024,2023-24,div2,South Florida State,southfloridastatecollege,jacobkedingxkn5,Jacob Keding
+Mar 9,home,Palm Beach State,L,16-1,16,1,15,win,20240309_1e05,1,0,1,0,1.2,2,4,0,0.00,1.20,0,2024,2023-24,div2,South Florida State,southfloridastatecollege,jacobkedingxkn5,Jacob Keding
+Mar 16,home,St. Johns River State,L,9-2,9,2,7,win,20240316_wc44,1,0,1,0,3.0,5,4,4,12.00,2.67,3,2024,2023-24,div2,South Florida State,southfloridastatecollege,jacobkedingxkn5,Jacob Keding
+Mar 21,home,Florida State Jacksonville,W,9-4,9,4,5,win,20240321_or6a,0,1,0,0,4.0,4,1,1,2.25,1.25,1,2024,2023-24,div2,South Florida State,southfloridastatecollege,jacobkedingxkn5,Jacob Keding
+Mar 29,home,Pasco-Hernando State,L,10-4,10,4,6,win,20240329_ls6b,0,0,1,0,1.2,4,6,5,27.00,4.20,3,2024,2023-24,div2,South Florida State,southfloridastatecollege,jacobkedingxkn5,Jacob Keding
+Apr 2,home,State College of Florida,L,10-7,10,7,3,win,20240402_ar7p,0,0,0,0,2.0,1,,,0.00,1.00,1,2024,2023-24,div2,South Florida State,southfloridastatecollege,jacobkedingxkn5,Jacob Keding
+Apr 5,home,Lake-Sumter State,L,10-9,10,9,1,win,20240405_ybre,0,0,0,0,2.0,3,3,3,13.50,2.00,1,2024,2023-24,div2,South Florida State,southfloridastatecollege,jacobkedingxkn5,Jacob Keding
+Apr 9,home,Florida SouthWestern State,L,8-3,8,3,5,win,20240409_bdr5,0,0,0,0,1.0,,,,0.00,1.00,1,2024,2023-24,div2,South Florida State,southfloridastatecollege,jacobkedingxkn5,Jacob Keding
+Apr 13,home,Palm Beach State,L,6-3,6,3,3,win,20240413_4fs1,1,0,0,0,6.0,4,3,0,0.00,1.00,2,2024,2023-24,div2,South Florida State,southfloridastatecollege,jacobkedingxkn5,Jacob Keding
+Apr 20,home,St. Johns River State,L,12-8,12,8,4,win,20240420_l7ee,1,0,1,0,3.0,6,7,7,21.00,3.00,3,2024,2023-24,div2,South Florida State,southfloridastatecollege,jacobkedingxkn5,Jacob Keding
+Apr 25,home,Florida State Jacksonville,W,12-11,12,11,1,win,20240425_homx,0,0,0,0,4.2,2,2,2,3.86,.64,1,2024,2023-24,div2,South Florida State,southfloridastatecollege,jacobkedingxkn5,Jacob Keding
+May 3,home,St. Johns River State,L,7-1,7,1,6,win,20240503_20ua,1,0,1,0,2.2,6,5,2,6.75,3.00,2,2024,2023-24,div2,South Florida State,southfloridastatecollege,jacobkedingxkn5,Jacob Keding
+May 5,home,St. Johns River State,L,11-8,11,8,3,win,20240505_3qmb,0,0,1,0,2.0,3,4,4,18.00,2.00,1,2024,2023-24,div2,South Florida State,southfloridastatecollege,jacobkedingxkn5,Jacob Keding

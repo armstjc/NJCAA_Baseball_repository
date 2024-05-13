@@ -1,8 +1,37 @@
 date,location,opponent,result,score,team_score,opp_score,game_score_diff,game_win_loss,game_id,TC,PO,A,E,FPCT,DP,SBA,RCS,RCS_PCT,PB,CI,season,njcaa_season,njcaa_division,team,team_id,player_id,player_name
-Mar 8,home,Onondaga,W,18-7,18,7,11,win,20240308_xzfq,0,1,0,0,3.0,5,3,3,9.00,2.00,1,2024,2023-24,div2,Sullivan County,sullivancountycommunitycollege,mathewmurtaghk5v8,Mathew Murtagh
-Mar 16,home,Mercer County,W,3-1,3,1,2,win,20240316_9ffp,1,1,0,0,7.0,3,1,0,0.00,.71,2,2024,2023-24,div2,Sullivan County,sullivancountycommunitycollege,mathewmurtaghk5v8,Mathew Murtagh
-Apr 9,home,Lackawanna,L,21-11,21,11,10,win,20240409_lbgp,1,0,0,0,2.0,2,0,0,0.00,1.00,0,2024,2023-24,div2,Sullivan County,sullivancountycommunitycollege,mathewmurtaghk5v8,Mathew Murtagh
-Apr 14,home,Orange County,W,13-2,13,2,11,win,20240414_7glf,1,1,0,0,5.0,2,2,0,0.00,1.00,3,2024,2023-24,div2,Sullivan County,sullivancountycommunitycollege,mathewmurtaghk5v8,Mathew Murtagh
-Apr 20,home,Westchester,W,9-5,9,5,4,win,20240420_doh1,1,1,0,0,6.2,4,5,2,2.70,1.20,4,2024,2023-24,div2,Sullivan County,sullivancountycommunitycollege,mathewmurtaghk5v8,Mathew Murtagh
-Apr 28,home,Monroe CC,L,7-6,7,6,1,win,20240428_7ch0,1,0,1,0,4.0,5,5,4,9.00,2.00,3,2024,2023-24,div2,Sullivan County,sullivancountycommunitycollege,mathewmurtaghk5v8,Mathew Murtagh
-May 4,home,Rockland,W,4-0,4,0,4,win,20240504_nys9,1,1,0,0,7.0,2,0,0,0.00,.86,4,2024,2023-24,div2,Sullivan County,sullivancountycommunitycollege,mathewmurtaghk5v8,Mathew Murtagh
+Mar 8,home,Onondaga,W,18-7,18,7,11,win,20240308_xzfq,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Sullivan County,sullivancountycommunitycollege,mathewmurtaghk5v8,Mathew Murtagh
+Mar 12,home,Monroe College,L,8-4,8,4,4,win,20240312_syav,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Sullivan County,sullivancountycommunitycollege,mathewmurtaghk5v8,Mathew Murtagh
+Mar 15,home,Fredonia JV,L,6-5,6,5,1,win,20240315_2bly,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Sullivan County,sullivancountycommunitycollege,mathewmurtaghk5v8,Mathew Murtagh
+Mar 16,home,Mercer County,L,12-9,12,9,3,win,20240316_audx,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Sullivan County,sullivancountycommunitycollege,mathewmurtaghk5v8,Mathew Murtagh
+Mar 16,home,Mercer County,W,3-1,3,1,2,win,20240316_9ffp,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Sullivan County,sullivancountycommunitycollege,mathewmurtaghk5v8,Mathew Murtagh
+Mar 17,home,Bergen,W,5-4,5,4,1,win,20240317_noyr,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Sullivan County,sullivancountycommunitycollege,mathewmurtaghk5v8,Mathew Murtagh
+Mar 17,home,Bergen,W,23-8,23,8,15,win,20240317_ig06,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Sullivan County,sullivancountycommunitycollege,mathewmurtaghk5v8,Mathew Murtagh
+Mar 18,home,CCU Club,W,5-4,5,4,1,win,20240318_hto9,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Sullivan County,sullivancountycommunitycollege,mathewmurtaghk5v8,Mathew Murtagh
+Mar 19,home,Rays Collegiate,L,5-1,5,1,4,win,20240319_ktb0,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Sullivan County,sullivancountycommunitycollege,mathewmurtaghk5v8,Mathew Murtagh
+Mar 19,home,Rays Collegiate,L,4-1,4,1,3,win,20240319_v8ae,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Sullivan County,sullivancountycommunitycollege,mathewmurtaghk5v8,Mathew Murtagh
+Mar 21,home,CCBC Essex,W,1-0,1,0,1,win,20240321_p087,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Sullivan County,sullivancountycommunitycollege,mathewmurtaghk5v8,Mathew Murtagh
+Mar 21,home,CCBC Essex,L,6-3,6,3,3,win,20240321_yr0k,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Sullivan County,sullivancountycommunitycollege,mathewmurtaghk5v8,Mathew Murtagh
+Mar 22,home,Southern Maryland,W,19-5,19,5,14,win,20240322_leby,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Sullivan County,sullivancountycommunitycollege,mathewmurtaghk5v8,Mathew Murtagh
+Mar 22,home,Southern Maryland,W,11-9,11,9,2,win,20240322_b1ut,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Sullivan County,sullivancountycommunitycollege,mathewmurtaghk5v8,Mathew Murtagh
+Mar 26,home,Lackawanna,L,17-2,17,2,15,win,20240326_hrwq,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Sullivan County,sullivancountycommunitycollege,mathewmurtaghk5v8,Mathew Murtagh
+Mar 30,home,Raritan Valley,W,13-2,13,2,11,win,20240330_62f9,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Sullivan County,sullivancountycommunitycollege,mathewmurtaghk5v8,Mathew Murtagh
+Mar 30,home,Raritan Valley,W,11-4,11,4,7,win,20240330_k3ry,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Sullivan County,sullivancountycommunitycollege,mathewmurtaghk5v8,Mathew Murtagh
+Apr 9,home,Lackawanna,L,21-11,21,11,10,win,20240409_lbgp,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Sullivan County,sullivancountycommunitycollege,mathewmurtaghk5v8,Mathew Murtagh
+Apr 14,home,Orange County,W,16-2,16,2,14,win,20240414_4evc,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Sullivan County,sullivancountycommunitycollege,mathewmurtaghk5v8,Mathew Murtagh
+Apr 14,home,Orange County,W,13-2,13,2,11,win,20240414_7glf,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Sullivan County,sullivancountycommunitycollege,mathewmurtaghk5v8,Mathew Murtagh
+Apr 16,home,Orange County,W,27-0,27,0,27,win,20240416_fxyw,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Sullivan County,sullivancountycommunitycollege,mathewmurtaghk5v8,Mathew Murtagh
+Apr 19,home,Westchester,W,12-2,12,2,10,win,20240419_0cvn,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Sullivan County,sullivancountycommunitycollege,mathewmurtaghk5v8,Mathew Murtagh
+Apr 19,home,Westchester,W,7-2,7,2,5,win,20240419_m2p9,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Sullivan County,sullivancountycommunitycollege,mathewmurtaghk5v8,Mathew Murtagh
+Apr 20,home,Westchester,W,10-7,10,7,3,win,20240420_l39s,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Sullivan County,sullivancountycommunitycollege,mathewmurtaghk5v8,Mathew Murtagh
+Apr 20,home,Westchester,W,9-5,9,5,4,win,20240420_doh1,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Sullivan County,sullivancountycommunitycollege,mathewmurtaghk5v8,Mathew Murtagh
+Apr 23,home,Morris,L,15-10,15,10,5,win,20240423_qvl8,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Sullivan County,sullivancountycommunitycollege,mathewmurtaghk5v8,Mathew Murtagh
+Apr 26,home,Bryant and Stratton (Albany-NY),L,5-4,5,4,1,win,20240426_9ln1,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Sullivan County,sullivancountycommunitycollege,mathewmurtaghk5v8,Mathew Murtagh
+Apr 26,home,Bryant and Stratton (Albany-NY),W,5-2,5,2,3,win,20240426_07q5,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Sullivan County,sullivancountycommunitycollege,mathewmurtaghk5v8,Mathew Murtagh
+Apr 28,home,Monroe CC,L,7-5,7,5,2,win,20240428_kdo7,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Sullivan County,sullivancountycommunitycollege,mathewmurtaghk5v8,Mathew Murtagh
+Apr 28,home,Monroe CC,L,7-6,7,6,1,win,20240428_7ch0,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Sullivan County,sullivancountycommunitycollege,mathewmurtaghk5v8,Mathew Murtagh
+Apr 29,home,Monroe College,L,7-1,7,1,6,win,20240429_u53m,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Sullivan County,sullivancountycommunitycollege,mathewmurtaghk5v8,Mathew Murtagh
+Apr 30,home,Morris,W,15-3,15,3,12,win,20240430_aqs8,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Sullivan County,sullivancountycommunitycollege,mathewmurtaghk5v8,Mathew Murtagh
+May 2,home,Rockland,W,10-6,10,6,4,win,20240502_heyk,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Sullivan County,sullivancountycommunitycollege,mathewmurtaghk5v8,Mathew Murtagh
+May 3,home,Rockland,W,11-9,11,9,2,win,20240503_kchf,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Sullivan County,sullivancountycommunitycollege,mathewmurtaghk5v8,Mathew Murtagh
+May 4,home,Rockland,W,4-0,4,0,4,win,20240504_nys9,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Sullivan County,sullivancountycommunitycollege,mathewmurtaghk5v8,Mathew Murtagh
+May 4,home,Rockland,W,12-2,12,2,10,win,20240504_4wqv,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Sullivan County,sullivancountycommunitycollege,mathewmurtaghk5v8,Mathew Murtagh

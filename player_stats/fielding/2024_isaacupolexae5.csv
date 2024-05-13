@@ -1,43 +1,5 @@
 date,location,opponent,result,score,team_score,opp_score,game_score_diff,game_win_loss,game_id,TC,PO,A,E,FPCT,DP,SBA,RCS,RCS_PCT,PB,CI,season,njcaa_season,njcaa_division,team,team_id,player_id,player_name
-Jan 26,home,Northwest Florida State,L,20-10,20,10,10,win,20240126_28o1,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Florida SouthWestern State,floridasouthwesternstatecollege,isaacupolexae5,Isaac Upole
-Jan 27,home,Pasco-Hernando State,W,4-2,4,2,2,win,20240127_iz9x,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Florida SouthWestern State,floridasouthwesternstatecollege,isaacupolexae5,Isaac Upole
-Jan 27,home,Santa Fe,L,4-0,4,0,4,win,20240127_08jn,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Florida SouthWestern State,floridasouthwesternstatecollege,isaacupolexae5,Isaac Upole
-Feb 2,home,Northwest Florida State,L,6-3,6,3,3,win,20240202_3g7s,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Florida SouthWestern State,floridasouthwesternstatecollege,isaacupolexae5,Isaac Upole
-Feb 3,home,Andrew,W,8-6,8,6,2,win,20240203_c1dm,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Florida SouthWestern State,floridasouthwesternstatecollege,isaacupolexae5,Isaac Upole
-Feb 15,home,St. Petersburg,W,8-5,8,5,3,win,20240215_8wob,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Florida SouthWestern State,floridasouthwesternstatecollege,isaacupolexae5,Isaac Upole
-Feb 17,home,St. Petersburg,W,13-12,13,12,1,win,20240217_cq3u,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Florida SouthWestern State,floridasouthwesternstatecollege,isaacupolexae5,Isaac Upole
-Feb 24,home,Indian River State,W,6-3,6,3,3,win,20240224_tlme,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Florida SouthWestern State,floridasouthwesternstatecollege,isaacupolexae5,Isaac Upole
-Feb 27,home,St. Petersburg,W,12-2,12,2,10,win,20240227_z79o,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Florida SouthWestern State,floridasouthwesternstatecollege,isaacupolexae5,Isaac Upole
-Feb 29,home,Hillsborough,W,7-5,7,5,2,win,20240229_xx4s,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Florida SouthWestern State,floridasouthwesternstatecollege,isaacupolexae5,Isaac Upole
-Mar 2,home,Hillsborough,W,11-1,11,1,10,win,20240302_evu3,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Florida SouthWestern State,floridasouthwesternstatecollege,isaacupolexae5,Isaac Upole
-Mar 2,home,Hillsborough,W,10-6,10,6,4,win,20240302_ktkf,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Florida SouthWestern State,floridasouthwesternstatecollege,isaacupolexae5,Isaac Upole
-Mar 7,home,State College of Florida,L,11-3,11,3,8,win,20240307_6xnw,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Florida SouthWestern State,floridasouthwesternstatecollege,isaacupolexae5,Isaac Upole
-Mar 9,home,State College of Florida,W,11-5,11,5,6,win,20240309_moh7,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Florida SouthWestern State,floridasouthwesternstatecollege,isaacupolexae5,Isaac Upole
-Mar 9,home,State College of Florida,L,13-7,13,7,6,win,20240309_lqd0,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Florida SouthWestern State,floridasouthwesternstatecollege,isaacupolexae5,Isaac Upole
-Mar 12,home,Indian River State,L,15-6,15,6,9,win,20240312_htor,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Florida SouthWestern State,floridasouthwesternstatecollege,isaacupolexae5,Isaac Upole
-Mar 14,home,Seminole State (FL),W,8-5,8,5,3,win,20240314_m249,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Florida SouthWestern State,floridasouthwesternstatecollege,isaacupolexae5,Isaac Upole
-Mar 16,home,Seminole State (FL),W,7-0,7,0,7,win,20240316_u1od,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Florida SouthWestern State,floridasouthwesternstatecollege,isaacupolexae5,Isaac Upole
-Mar 16,home,Seminole State (FL),W,12-9,12,9,3,win,20240316_mp79,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Florida SouthWestern State,floridasouthwesternstatecollege,isaacupolexae5,Isaac Upole
-Mar 19,home,State College of Florida,L,7-2,7,2,5,win,20240319_axd5,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Florida SouthWestern State,floridasouthwesternstatecollege,isaacupolexae5,Isaac Upole
-Mar 21,home,Eastern Florida State,L,5-4,5,4,1,win,20240321_obyx,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Florida SouthWestern State,floridasouthwesternstatecollege,isaacupolexae5,Isaac Upole
-Mar 23,home,Eastern Florida State,L,9-1,9,1,8,win,20240323_7m5k,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Florida SouthWestern State,floridasouthwesternstatecollege,isaacupolexae5,Isaac Upole
-Mar 28,home,Daytona State,W,9-3,9,3,6,win,20240328_38zu,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Florida SouthWestern State,floridasouthwesternstatecollege,isaacupolexae5,Isaac Upole
-Mar 30,home,Daytona State,W,10-9,10,9,1,win,20240330_f0gi,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Florida SouthWestern State,floridasouthwesternstatecollege,isaacupolexae5,Isaac Upole
-Apr 2,home,St. Petersburg,W,19-7,19,7,12,win,20240402_s8md,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Florida SouthWestern State,floridasouthwesternstatecollege,isaacupolexae5,Isaac Upole
-Apr 4,home,Santa Fe,W,16-10,16,10,6,win,20240404_hsxu,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Florida SouthWestern State,floridasouthwesternstatecollege,isaacupolexae5,Isaac Upole
-Apr 6,home,Santa Fe,L,5-4,5,4,1,win,20240406_20m6,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Florida SouthWestern State,floridasouthwesternstatecollege,isaacupolexae5,Isaac Upole
-Apr 6,home,Santa Fe,W,10-0,10,0,10,win,20240406_rpun,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Florida SouthWestern State,floridasouthwesternstatecollege,isaacupolexae5,Isaac Upole
-Apr 9,home,South Florida State,W,8-3,8,3,5,win,20240409_bdr5,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Florida SouthWestern State,floridasouthwesternstatecollege,isaacupolexae5,Isaac Upole
-Apr 11,home,Central Florida,W,11-3,11,3,8,win,20240411_y02p,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Florida SouthWestern State,floridasouthwesternstatecollege,isaacupolexae5,Isaac Upole
-Apr 13,home,Central Florida,W,11-9,11,9,2,win,20240413_p7gq,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Florida SouthWestern State,floridasouthwesternstatecollege,isaacupolexae5,Isaac Upole
-Apr 13,home,Central Florida,L,7-6,7,6,1,win,20240413_fnbw,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Florida SouthWestern State,floridasouthwesternstatecollege,isaacupolexae5,Isaac Upole
-Apr 16,home,TNXL Academy,L,10-7,10,7,3,win,20240416_0ur9,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Florida SouthWestern State,floridasouthwesternstatecollege,isaacupolexae5,Isaac Upole
-Apr 18,home,Miami Dade,W,6-2,6,2,4,win,20240418_3q37,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Florida SouthWestern State,floridasouthwesternstatecollege,isaacupolexae5,Isaac Upole
-Apr 19,home,Miami Dade,L,4-2,4,2,2,win,20240419_jawv,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Florida SouthWestern State,floridasouthwesternstatecollege,isaacupolexae5,Isaac Upole
-Apr 19,home,Miami Dade,L,7-5,7,5,2,win,20240419_jiek,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Florida SouthWestern State,floridasouthwesternstatecollege,isaacupolexae5,Isaac Upole
-Apr 23,home,State College of Florida,W,10-6,10,6,4,win,20240423_9o11,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Florida SouthWestern State,floridasouthwesternstatecollege,isaacupolexae5,Isaac Upole
-Apr 25,home,Polk State,L,8-4,8,4,4,win,20240425_b3jg,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Florida SouthWestern State,floridasouthwesternstatecollege,isaacupolexae5,Isaac Upole
-Apr 27,home,Polk State,W,5-1,5,1,4,win,20240427_v2ks,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Florida SouthWestern State,floridasouthwesternstatecollege,isaacupolexae5,Isaac Upole
-Apr 27,home,Polk State,W,5-3,5,3,2,win,20240427_95qn,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Florida SouthWestern State,floridasouthwesternstatecollege,isaacupolexae5,Isaac Upole
-May 3,home,Santa Fe,W,8-1,8,1,7,win,20240503_imi3,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Florida SouthWestern State,floridasouthwesternstatecollege,isaacupolexae5,Isaac Upole
-May 4,home,Santa Fe,W,3-2,3,2,1,win,20240504_7wed,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Florida SouthWestern State,floridasouthwesternstatecollege,isaacupolexae5,Isaac Upole
+Jan 27,home,Pasco-Hernando State,W,4-2,4,2,2,win,20240127_iz9x,0,0,0,1,0.2,2,,,0.00,3.00,,2024,2023-24,div1,Florida SouthWestern State,floridasouthwesternstatecollege,isaacupolexae5,Isaac Upole
+Feb 3,home,Pearl River,L,6-3,6,3,3,win,20240203_q2ko,1,0,1,0,3.0,4,3,3,9.00,1.33,0,2024,2023-24,div1,Florida SouthWestern State,floridasouthwesternstatecollege,isaacupolexae5,Isaac Upole
+Feb 8,home,TNXL Academy,W,8-2,8,2,6,win,20240208_zj1d,0,0,0,0,2.0,,,,0.00,.50,1,2024,2023-24,div1,Florida SouthWestern State,floridasouthwesternstatecollege,isaacupolexae5,Isaac Upole
+Feb 13,home,New College of Florida,W,9-4,9,4,5,win,20240213_cuoo,1,0,0,0,2.0,5,4,4,18.00,4.00,3,2024,2023-24,div1,Florida SouthWestern State,floridasouthwesternstatecollege,isaacupolexae5,Isaac Upole
