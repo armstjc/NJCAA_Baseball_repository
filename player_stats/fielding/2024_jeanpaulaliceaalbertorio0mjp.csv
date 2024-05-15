@@ -1,15 +1,35 @@
 date,location,opponent,result,score,team_score,opp_score,game_score_diff,game_win_loss,game_id,TC,PO,A,E,FPCT,DP,SBA,RCS,RCS_PCT,PB,CI,season,njcaa_season,njcaa_division,team,team_id,player_id,player_name
-Mar 10,home,Chesapeake,L,13-6,13,6,7,win,20240310_804x,0,0,0,0,0.1,2,3,1,27.00,9.00,1,2024,2023-24,div3,Monroe College - Bronx,monroecollegebronx,jeanpaulaliceaalbertorio0mjp,Jeanpaul Alicea Albertorio
-Mar 28,home,Genesee,L,12-2,12,2,10,win,20240328_ig54,0,0,0,0,1.1,3,2,2,13.50,3.00,1,2024,2023-24,div3,Monroe College - Bronx,monroecollegebronx,jeanpaulaliceaalbertorio0mjp,Jeanpaul Alicea Albertorio
-Mar 30,home,Genesee,L,9-4,9,4,5,win,20240330_a9gr,0,0,0,0,2.0,1,,,0.00,.50,,2024,2023-24,div3,Monroe College - Bronx,monroecollegebronx,jeanpaulaliceaalbertorio0mjp,Jeanpaul Alicea Albertorio
-Apr 6,home,Onondaga,L,7-1,7,1,6,win,20240406_61kn,0,0,0,0,1.0,2,1,1,9.00,3.00,1,2024,2023-24,div3,Monroe College - Bronx,monroecollegebronx,jeanpaulaliceaalbertorio0mjp,Jeanpaul Alicea Albertorio
-Apr 7,home,Erie,L,20-0,20,0,20,win,20240407_zi06,0,0,0,0,1.0,4,4,4,36.00,5.00,1,2024,2023-24,div3,Monroe College - Bronx,monroecollegebronx,jeanpaulaliceaalbertorio0mjp,Jeanpaul Alicea Albertorio
-Apr 9,home,Onondaga,L,14-5,14,5,9,win,20240409_xp7w,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div3,Monroe College - Bronx,monroecollegebronx,jeanpaulaliceaalbertorio0mjp,Jeanpaul Alicea Albertorio
-Apr 10,home,Erie,L,10-0,10,0,10,win,20240410_frwa,0,0,0,0,1.0,1,1,,0.00,2.00,1,2024,2023-24,div3,Monroe College - Bronx,monroecollegebronx,jeanpaulaliceaalbertorio0mjp,Jeanpaul Alicea Albertorio
-Apr 15,home,Jamestown,L,15-10,15,10,5,win,20240415_yivh,0,0,0,0,0.2,1,,,0.00,1.50,,2024,2023-24,div3,Monroe College - Bronx,monroecollegebronx,jeanpaulaliceaalbertorio0mjp,Jeanpaul Alicea Albertorio
-Apr 18,home,Tompkins Cortland,L,12-11,12,11,1,win,20240418_n6ac,0,0,0,0,0.1,,2,2,54.00,6.00,2,2024,2023-24,div3,Monroe College - Bronx,monroecollegebronx,jeanpaulaliceaalbertorio0mjp,Jeanpaul Alicea Albertorio
-Apr 20,home,Tompkins Cortland,W,11-10,11,10,1,win,20240420_wpq9,0,0,0,0,1.1,1,1,,0.00,1.50,1,2024,2023-24,div3,Monroe College - Bronx,monroecollegebronx,jeanpaulaliceaalbertorio0mjp,Jeanpaul Alicea Albertorio
-Apr 23,home,Jamestown,L,10-0,10,0,10,win,20240423_5e67,0,0,0,0,1.0,5,3,1,9.00,5.00,,2024,2023-24,div3,Monroe College - Bronx,monroecollegebronx,jeanpaulaliceaalbertorio0mjp,Jeanpaul Alicea Albertorio
-Apr 27,home,Jefferson (NY),L,14-2,14,2,12,win,20240427_k4i0,0,0,0,0,2.2,7,7,6,20.25,3.00,1,2024,2023-24,div3,Monroe College - Bronx,monroecollegebronx,jeanpaulaliceaalbertorio0mjp,Jeanpaul Alicea Albertorio
-May 2,home,Cayuga,L,8-4,8,4,4,win,20240502_9lik,0,0,0,0,0.2,1,1,1,13.50,1.50,,2024,2023-24,div3,Monroe College - Bronx,monroecollegebronx,jeanpaulaliceaalbertorio0mjp,Jeanpaul Alicea Albertorio
-May 5,home,SUNY Niagara,L,10-0,10,0,10,win,20240505_xry7,0,0,0,0,0.1,3,4,4,108.00,15.00,2,2024,2023-24,div3,Monroe College - Bronx,monroecollegebronx,jeanpaulaliceaalbertorio0mjp,Jeanpaul Alicea Albertorio
+Feb 17,home,Owens,L,9-4,9,4,5,win,20240217_1l9w,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div3,Monroe College - Bronx,monroecollegebronx,jeanpaulaliceaalbertorio0mjp,Jeanpaul Alicea Albertorio
+Feb 17,home,Virginia Peninsula CC,L,13-6,13,6,7,win,20240217_9hn5,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div3,Monroe College - Bronx,monroecollegebronx,jeanpaulaliceaalbertorio0mjp,Jeanpaul Alicea Albertorio
+Feb 18,home,Virginia Peninsula CC,L,15-1,15,1,14,win,20240218_btie,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div3,Monroe College - Bronx,monroecollegebronx,jeanpaulaliceaalbertorio0mjp,Jeanpaul Alicea Albertorio
+Feb 18,home,Virginia Peninsula CC,L,6-5,6,5,1,win,20240218_erd0,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div3,Monroe College - Bronx,monroecollegebronx,jeanpaulaliceaalbertorio0mjp,Jeanpaul Alicea Albertorio
+Feb 24,home,Delaware Tech,L,5-0,5,0,5,win,20240224_b36j,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div3,Monroe College - Bronx,monroecollegebronx,jeanpaulaliceaalbertorio0mjp,Jeanpaul Alicea Albertorio
+Feb 24,home,Delaware Tech,L,19-11,19,11,8,win,20240224_nm2f,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div3,Monroe College - Bronx,monroecollegebronx,jeanpaulaliceaalbertorio0mjp,Jeanpaul Alicea Albertorio
+Mar 8,home,Montgomery,L,12-2,12,2,10,win,20240308_vrng,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div3,Monroe College - Bronx,monroecollegebronx,jeanpaulaliceaalbertorio0mjp,Jeanpaul Alicea Albertorio
+Mar 8,home,Montgomery,L,12-0,12,0,12,win,20240308_fldg,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div3,Monroe College - Bronx,monroecollegebronx,jeanpaulaliceaalbertorio0mjp,Jeanpaul Alicea Albertorio
+Mar 15,home,Lackawanna,L,29-0,29,0,29,win,20240315_6hq8,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div3,Monroe College - Bronx,monroecollegebronx,jeanpaulaliceaalbertorio0mjp,Jeanpaul Alicea Albertorio
+Mar 17,home,Middlesex College,L,21-8,21,8,13,win,20240317_x9r5,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div3,Monroe College - Bronx,monroecollegebronx,jeanpaulaliceaalbertorio0mjp,Jeanpaul Alicea Albertorio
+Mar 17,home,Middlesex College,W,13-9,13,9,4,win,20240317_soov,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div3,Monroe College - Bronx,monroecollegebronx,jeanpaulaliceaalbertorio0mjp,Jeanpaul Alicea Albertorio
+Mar 19,home,Borough of Manhattan,W,17-1,17,1,16,win,20240319_9qvq,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div3,Monroe College - Bronx,monroecollegebronx,jeanpaulaliceaalbertorio0mjp,Jeanpaul Alicea Albertorio
+Mar 21,home,Rockland,W,13-10,13,10,3,win,20240321_2f1b,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div3,Monroe College - Bronx,monroecollegebronx,jeanpaulaliceaalbertorio0mjp,Jeanpaul Alicea Albertorio
+Mar 25,home,Orange County,L,13-7,13,7,6,win,20240325_9tip,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div3,Monroe College - Bronx,monroecollegebronx,jeanpaulaliceaalbertorio0mjp,Jeanpaul Alicea Albertorio
+Mar 26,home,Nassau,W,9-3,9,3,6,win,20240326_b03g,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div3,Monroe College - Bronx,monroecollegebronx,jeanpaulaliceaalbertorio0mjp,Jeanpaul Alicea Albertorio
+Mar 30,home,Nassau,W,11-0,11,0,11,win,20240330_pa0p,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div3,Monroe College - Bronx,monroecollegebronx,jeanpaulaliceaalbertorio0mjp,Jeanpaul Alicea Albertorio
+Mar 30,home,Nassau,L,7-6,7,6,1,win,20240330_o9qp,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div3,Monroe College - Bronx,monroecollegebronx,jeanpaulaliceaalbertorio0mjp,Jeanpaul Alicea Albertorio
+Apr 5,home,Westchester,L,26-6,26,6,20,win,20240405_u3em,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div3,Monroe College - Bronx,monroecollegebronx,jeanpaulaliceaalbertorio0mjp,Jeanpaul Alicea Albertorio
+Apr 7,home,Borough of Manhattan,W,18-1,18,1,17,win,20240407_5xlf,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div3,Monroe College - Bronx,monroecollegebronx,jeanpaulaliceaalbertorio0mjp,Jeanpaul Alicea Albertorio
+Apr 9,home,Suffolk County,W,12-1,12,1,11,win,20240409_sx2m,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div3,Monroe College - Bronx,monroecollegebronx,jeanpaulaliceaalbertorio0mjp,Jeanpaul Alicea Albertorio
+Apr 10,home,Nassau,W,10-9,10,9,1,win,20240410_q60k,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div3,Monroe College - Bronx,monroecollegebronx,jeanpaulaliceaalbertorio0mjp,Jeanpaul Alicea Albertorio
+Apr 12,home,Suffolk County,L,7-0,7,0,7,win,20240412_ehgw,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div3,Monroe College - Bronx,monroecollegebronx,jeanpaulaliceaalbertorio0mjp,Jeanpaul Alicea Albertorio
+Apr 13,home,Suffolk County,L,4-3,4,3,1,win,20240413_kahd,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div3,Monroe College - Bronx,monroecollegebronx,jeanpaulaliceaalbertorio0mjp,Jeanpaul Alicea Albertorio
+Apr 13,home,Suffolk County,L,13-2,13,2,11,win,20240413_xe05,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div3,Monroe College - Bronx,monroecollegebronx,jeanpaulaliceaalbertorio0mjp,Jeanpaul Alicea Albertorio
+Apr 16,home,Kingsborough,W,11-7,11,7,4,win,20240416_6hr5,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div3,Monroe College - Bronx,monroecollegebronx,jeanpaulaliceaalbertorio0mjp,Jeanpaul Alicea Albertorio
+Apr 19,home,Kingsborough,L,11-4,11,4,7,win,20240419_8x8g,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div3,Monroe College - Bronx,monroecollegebronx,jeanpaulaliceaalbertorio0mjp,Jeanpaul Alicea Albertorio
+Apr 20,home,Kingsborough,W,12-7,12,7,5,win,20240420_bzjh,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div3,Monroe College - Bronx,monroecollegebronx,jeanpaulaliceaalbertorio0mjp,Jeanpaul Alicea Albertorio
+Apr 20,home,Kingsborough,W,5-1,5,1,4,win,20240420_7m02,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div3,Monroe College - Bronx,monroecollegebronx,jeanpaulaliceaalbertorio0mjp,Jeanpaul Alicea Albertorio
+Apr 22,home,Rockland,W,14-5,14,5,9,win,20240422_dbdj,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div3,Monroe College - Bronx,monroecollegebronx,jeanpaulaliceaalbertorio0mjp,Jeanpaul Alicea Albertorio
+Apr 23,home,Bronx,W,32-0,32,0,32,win,20240423_7kxc,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div3,Monroe College - Bronx,monroecollegebronx,jeanpaulaliceaalbertorio0mjp,Jeanpaul Alicea Albertorio
+Apr 24,home,Sussex County,L,11-1,11,1,10,win,20240424_q54v,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div3,Monroe College - Bronx,monroecollegebronx,jeanpaulaliceaalbertorio0mjp,Jeanpaul Alicea Albertorio
+Apr 26,home,Bronx,W,12-2,12,2,10,win,20240426_05zy,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div3,Monroe College - Bronx,monroecollegebronx,jeanpaulaliceaalbertorio0mjp,Jeanpaul Alicea Albertorio
+Apr 27,home,Bronx,W,17-8,17,8,9,win,20240427_kync,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div3,Monroe College - Bronx,monroecollegebronx,jeanpaulaliceaalbertorio0mjp,Jeanpaul Alicea Albertorio
+Apr 27,home,Bronx,W,15-6,15,6,9,win,20240427_p907,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div3,Monroe College - Bronx,monroecollegebronx,jeanpaulaliceaalbertorio0mjp,Jeanpaul Alicea Albertorio

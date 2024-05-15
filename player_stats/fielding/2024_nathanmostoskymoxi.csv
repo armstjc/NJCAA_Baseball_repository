@@ -1,15 +1,12 @@
 date,location,opponent,result,score,team_score,opp_score,game_score_diff,game_win_loss,game_id,TC,PO,A,E,FPCT,DP,SBA,RCS,RCS_PCT,PB,CI,season,njcaa_season,njcaa_division,team,team_id,player_id,player_name
-Feb 25,home,Kingsborough,W,5-4,5,4,1,win,20240225_arr6,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div3,Northampton,northamptoncommunitycollege,nathanmostoskymoxi,Nathan Mostosky
-Mar 2,home,Penn State Schuylkill,W,11-0,11,0,11,win,20240302_rpt9,1,1,0,0,6.0,3,0,0,0.00,1.00,3,2024,2023-24,div3,Northampton,northamptoncommunitycollege,nathanmostoskymoxi,Nathan Mostosky
-Mar 4,home,Bay College,W,12-2,12,2,10,win,20240304_82ox,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div3,Northampton,northamptoncommunitycollege,nathanmostoskymoxi,Nathan Mostosky
-Mar 7,home,St. Clair County,W,13-6,13,6,7,win,20240307_ax4z,0,0,0,0,1.1,2,2,2,13.50,1.50,,2024,2023-24,div3,Northampton,northamptoncommunitycollege,nathanmostoskymoxi,Nathan Mostosky
-Mar 16,home,Salem,W,10-3,10,3,7,win,20240316_nj76,0,0,0,0,1.0,,,,0.00,,,2024,2023-24,div3,Northampton,northamptoncommunitycollege,nathanmostoskymoxi,Nathan Mostosky
-Mar 18,home,Holy Family University,W,23-8,23,8,15,win,20240318_este,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div3,Northampton,northamptoncommunitycollege,nathanmostoskymoxi,Nathan Mostosky
-Mar 25,home,RCSJ Gloucester,W,10-9,10,9,1,win,20240325_4104,0,0,0,0,2.0,3,2,2,9.00,2.00,1,2024,2023-24,div3,Northampton,northamptoncommunitycollege,nathanmostoskymoxi,Nathan Mostosky
-Mar 27,home,Middlesex College,W,3-1,3,1,2,win,20240327_5fl5,1,1,0,0,7.0,6,1,1,1.29,1.14,2,2024,2023-24,div3,Northampton,northamptoncommunitycollege,nathanmostoskymoxi,Nathan Mostosky
-Apr 7,home,Union,W,19-1,19,1,18,win,20240407_nzm1,1,1,0,0,3.0,1,0,0,0.00,.33,0,2024,2023-24,div3,Northampton,northamptoncommunitycollege,nathanmostoskymoxi,Nathan Mostosky
-Apr 14,home,Luzerne County,W,35-0,35,0,35,win,20240414_kmfs,0,0,0,0,1.0,,,,0.00,,,2024,2023-24,div3,Northampton,northamptoncommunitycollege,nathanmostoskymoxi,Nathan Mostosky
-Apr 16,home,Lehigh Carbon,W,15-12,15,12,3,win,20240416_65rk,0,1,0,0,2.0,1,,,0.00,.50,,2024,2023-24,div3,Northampton,northamptoncommunitycollege,nathanmostoskymoxi,Nathan Mostosky
-Apr 19,home,RCSJ Cumberland,W,13-9,13,9,4,win,20240419_fbbr,0,1,0,0,7.0,5,4,3,3.86,1.14,3,2024,2023-24,div3,Northampton,northamptoncommunitycollege,nathanmostoskymoxi,Nathan Mostosky
-Apr 29,home,Sussex County,L,9-6,9,6,3,win,20240429_jmvr,1,0,1,0,6.1,12,6,4,5.68,1.89,0,2024,2023-24,div3,Northampton,northamptoncommunitycollege,nathanmostoskymoxi,Nathan Mostosky
-May 11,home,Salem,L,14-11,14,11,3,win,20240511_k3j0,0,0,0,0,2.0,3,2,1,4.50,2.50,2,2024,2023-24,div3,Northampton,northamptoncommunitycollege,nathanmostoskymoxi,Nathan Mostosky
+Mar 3,home,DuPage,L,4-1,4,1,3,win,20240303_pa5b,0,0,0,0,2.0,1,,,0.00,.50,,2024,2023-24,div3,Northampton,northamptoncommunitycollege,nathanmostoskymoxi,Nathan Mostosky
+Mar 6,home,Minnesota North College - Itasca,W,8-4,8,4,4,win,20240306_cqo1,1,1,0,0,6.0,2,1,1,1.50,.83,3,2024,2023-24,div3,Northampton,northamptoncommunitycollege,nathanmostoskymoxi,Nathan Mostosky
+Mar 18,home,Holy Family University,W,23-8,23,8,15,win,20240318_este,0,0,0,0,2.0,1,,,0.00,1.00,1,2024,2023-24,div3,Northampton,northamptoncommunitycollege,nathanmostoskymoxi,Nathan Mostosky
+Mar 27,home,Middlesex College,L,7-2,7,2,5,win,20240327_g1kg,0,0,0,0,1.0,2,2,2,18.00,3.00,1,2024,2023-24,div3,Northampton,northamptoncommunitycollege,nathanmostoskymoxi,Nathan Mostosky
+Apr 7,home,Union,W,5-3,5,3,2,win,20240407_w7qs,1,1,0,0,3.0,2,2,1,3.00,2.00,4,2024,2023-24,div3,Northampton,northamptoncommunitycollege,nathanmostoskymoxi,Nathan Mostosky
+Apr 14,home,Luzerne County,W,35-0,35,0,35,win,20240414_kmfs,0,0,0,0,2.0,,,,0.00,,,2024,2023-24,div3,Northampton,northamptoncommunitycollege,nathanmostoskymoxi,Nathan Mostosky
+Apr 21,home,Montgomery County,W,8-4,8,4,4,win,20240421_50ls,0,1,0,0,1.1,,,,0.00,,,2024,2023-24,div3,Northampton,northamptoncommunitycollege,nathanmostoskymoxi,Nathan Mostosky
+Apr 23,home,Lackawanna,L,11-7,11,7,4,win,20240423_a9a9,0,0,0,0,1.2,,1,,0.00,,,2024,2023-24,div3,Northampton,northamptoncommunitycollege,nathanmostoskymoxi,Nathan Mostosky
+Apr 29,home,Sussex County,L,9-6,9,6,3,win,20240429_jmvr,0,0,0,0,1.1,,,,0.00,,,2024,2023-24,div3,Northampton,northamptoncommunitycollege,nathanmostoskymoxi,Nathan Mostosky
+May 11,home,Salem,L,14-11,14,11,3,win,20240511_k3j0,0,0,0,0,0.2,,,,0.00,,,2024,2023-24,div3,Northampton,northamptoncommunitycollege,nathanmostoskymoxi,Nathan Mostosky
+May 12,home,Salem,W,16-12,16,12,4,win,20240512_4j3m,0,0,0,0,0.2,3,3,3,40.50,6.00,1,2024,2023-24,div3,Northampton,northamptoncommunitycollege,nathanmostoskymoxi,Nathan Mostosky

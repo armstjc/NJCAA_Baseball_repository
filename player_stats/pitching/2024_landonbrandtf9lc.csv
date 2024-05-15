@@ -1,13 +1,31 @@
 date,location,opponent,result,score,team_score,opp_score,game_score_diff,game_win_loss,game_id,GS,W,L,SV,IP,H,R,ER,ERA,BB,K,HR,season,njcaa_season,njcaa_division,team,team_id,player_id,player_name
-May 12,home,Mercer County,L,10-8,10,8,2,win,20240512_aq4s,0,0,0,0,0.1,,,,0.00,3.00,1,,2024,2023-24,div2,Lackawanna,lackawannacollege,landonbrandtf9lc,Landon Brandt
-May 1,home,Luzerne County,W,22-1,22,1,21,win,20240501_c8pv,0,1,0,0,2.0,,1,1,4.50,2.50,5,3,2024,2023-24,div2,Lackawanna,lackawannacollege,landonbrandtf9lc,Landon Brandt
-Apr 20,home,Sussex County,L,8-7,8,7,1,win,20240420_mi84,0,0,0,0,0.1,2,2,2,54.00,9.00,1,,2024,2023-24,div2,Lackawanna,lackawannacollege,landonbrandtf9lc,Landon Brandt
-Apr 16,home,Monroe CC,W,11-8,11,8,3,win,20240416_e0ro,1,0,0,0,3.0,5,3,3,9.00,3.00,4,3,2024,2023-24,div2,Lackawanna,lackawannacollege,landonbrandtf9lc,Landon Brandt
-Apr 12,home,Mercer County,L,5-3,5,3,2,win,20240412_ycd3,0,0,0,0,2.0,2,,,0.00,1.00,,3,2024,2023-24,div2,Lackawanna,lackawannacollege,landonbrandtf9lc,Landon Brandt
-Apr 7,home,Montgomery County,W,28-9,28,9,19,win,20240407_k2fb,0,1,0,0,2.1,2,5,5,19.29,3.00,5,,2024,2023-24,div2,Lackawanna,lackawannacollege,landonbrandtf9lc,Landon Brandt
-Mar 27,home,Westchester,L,10-4,10,4,6,win,20240327_xdq3,1,0,1,0,0.1,0,5,5,135.00,18.00,6,0,2024,2023-24,div2,Lackawanna,lackawannacollege,landonbrandtf9lc,Landon Brandt
-Mar 19,home,Monroe College,L,16-6,16,6,10,win,20240319_fi1v,1,0,1,0,3.0,6,7,5,15.00,3.33,4,1,2024,2023-24,div2,Lackawanna,lackawannacollege,landonbrandtf9lc,Landon Brandt
-Mar 13,home,Kingsborough,W,20-7,20,7,13,win,20240313_ck37,1,1,0,0,3.0,5,2,2,6.00,2.67,3,3,2024,2023-24,div2,Lackawanna,lackawannacollege,landonbrandtf9lc,Landon Brandt
-Mar 3,home,Florence-Darlington Tech,L,10-6,10,6,4,win,20240303_ut5w,1,0,1,0,2.1,4,9,7,27.00,5.14,8,0,2024,2023-24,div2,Lackawanna,lackawannacollege,landonbrandtf9lc,Landon Brandt
-Feb 19,home,Allegany Maryland,L,5-1,5,1,4,win,20240219_iaj3,0,0,0,0,1.0,1,2,2,18.00,2.00,1,2,2024,2023-24,div2,Lackawanna,lackawannacollege,landonbrandtf9lc,Landon Brandt
-Feb 10,home,Bryant & Stratton (VA),L,13-1,13,1,12,win,20240210_0u96,0,0,0,0,2.0,3,2,2,9.00,3.00,3,1,2024,2023-24,div2,Lackawanna,lackawannacollege,landonbrandtf9lc,Landon Brandt
+May 1,home,Luzerne County,W,22-1,22,1,21,win,20240501_c8pv,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div2,Lackawanna,lackawannacollege,landonbrandtf9lc,Landon Brandt
+May 1,home,Luzerne County,W,39-0,39,0,39,win,20240501_2ogn,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div2,Lackawanna,lackawannacollege,landonbrandtf9lc,Landon Brandt
+Apr 26,home,Delaware Tech,W,16-4,16,4,12,win,20240426_g382,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div2,Lackawanna,lackawannacollege,landonbrandtf9lc,Landon Brandt
+Apr 26,home,Delaware Tech,W,8-0,8,0,8,win,20240426_qo1u,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div2,Lackawanna,lackawannacollege,landonbrandtf9lc,Landon Brandt
+Apr 21,home,Harford,L,16-3,16,3,13,win,20240421_n2r9,0,0,0,0,1.2,5,5,5,27.00,4.20,2,3,2024,2023-24,div2,Lackawanna,lackawannacollege,landonbrandtf9lc,Landon Brandt
+Apr 20,home,Sussex County,L,8-7,8,7,1,win,20240420_mi84,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div2,Lackawanna,lackawannacollege,landonbrandtf9lc,Landon Brandt
+Apr 16,home,Monroe CC,W,11-8,11,8,3,win,20240416_e0ro,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div2,Lackawanna,lackawannacollege,landonbrandtf9lc,Landon Brandt
+Apr 14,home,Montgomery,W,23-12,23,12,11,win,20240414_1wpi,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div2,Lackawanna,lackawannacollege,landonbrandtf9lc,Landon Brandt
+Apr 12,home,Mercer County,L,5-3,5,3,2,win,20240412_ycd3,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div2,Lackawanna,lackawannacollege,landonbrandtf9lc,Landon Brandt
+Apr 9,home,Sullivan County,W,21-11,21,11,10,win,20240409_lbgp,0,0,0,0,2.0,2,1,1,4.50,2.00,2,1,2024,2023-24,div2,Lackawanna,lackawannacollege,landonbrandtf9lc,Landon Brandt
+Apr 7,home,Montgomery County,W,28-9,28,9,19,win,20240407_k2fb,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div2,Lackawanna,lackawannacollege,landonbrandtf9lc,Landon Brandt
+Apr 6,home,Raritan Valley,W,13-2,13,2,11,win,20240406_lea5,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div2,Lackawanna,lackawannacollege,landonbrandtf9lc,Landon Brandt
+Mar 30,home,Harford,L,16-4,16,4,12,win,20240330_scip,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div2,Lackawanna,lackawannacollege,landonbrandtf9lc,Landon Brandt
+Mar 26,home,Sullivan County,W,17-2,17,2,15,win,20240326_hrwq,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div2,Lackawanna,lackawannacollege,landonbrandtf9lc,Landon Brandt
+Mar 22,home,Morris,W,10-4,10,4,6,win,20240322_6jd9,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div2,Lackawanna,lackawannacollege,landonbrandtf9lc,Landon Brandt
+Mar 19,home,Monroe College,L,16-6,16,6,10,win,20240319_fi1v,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div2,Lackawanna,lackawannacollege,landonbrandtf9lc,Landon Brandt
+Mar 19,home,Monroe College,W,4-2,4,2,2,win,20240319_x9kp,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div2,Lackawanna,lackawannacollege,landonbrandtf9lc,Landon Brandt
+Mar 17,home,Frederick,L,14-4,14,4,10,win,20240317_kw55,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div2,Lackawanna,lackawannacollege,landonbrandtf9lc,Landon Brandt
+Mar 17,home,Frederick,W,8-1,8,1,7,win,20240317_qntc,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div2,Lackawanna,lackawannacollege,landonbrandtf9lc,Landon Brandt
+Mar 15,home,Monroe College - Bronx,W,29-0,29,0,29,win,20240315_6hq8,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div2,Lackawanna,lackawannacollege,landonbrandtf9lc,Landon Brandt
+Mar 14,home,Misercordia JV,W,10-7,10,7,3,win,20240314_3n7e,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div2,Lackawanna,lackawannacollege,landonbrandtf9lc,Landon Brandt
+Mar 13,home,Kingsborough,W,20-7,20,7,13,win,20240313_ck37,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div2,Lackawanna,lackawannacollege,landonbrandtf9lc,Landon Brandt
+Mar 8,home,Minnesota North College - Itasca,L,16-5,16,5,11,win,20240308_ivd2,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div2,Lackawanna,lackawannacollege,landonbrandtf9lc,Landon Brandt
+Mar 7,home,PSU York,L,7-5,7,5,2,win,20240307_saqu,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div2,Lackawanna,lackawannacollege,landonbrandtf9lc,Landon Brandt
+Mar 5,home,Brunswick,L,17-2,17,2,15,win,20240305_psy0,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div2,Lackawanna,lackawannacollege,landonbrandtf9lc,Landon Brandt
+Mar 3,home,Florence-Darlington Tech,L,10-6,10,6,4,win,20240303_ut5w,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div2,Lackawanna,lackawannacollege,landonbrandtf9lc,Landon Brandt
+Mar 2,home,Florence-Darlington Tech,L,11-1,11,1,10,win,20240302_gyks,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div2,Lackawanna,lackawannacollege,landonbrandtf9lc,Landon Brandt
+Feb 19,home,Allegany Maryland,L,4-3,4,3,1,win,20240219_snwv,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div2,Lackawanna,lackawannacollege,landonbrandtf9lc,Landon Brandt
+Feb 10,home,Bryant & Stratton (VA),L,13-1,13,1,12,win,20240210_0u96,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div2,Lackawanna,lackawannacollege,landonbrandtf9lc,Landon Brandt
+Feb 10,home,Bryant & Stratton (VA),L,9-6,9,6,3,win,20240210_ktek,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div2,Lackawanna,lackawannacollege,landonbrandtf9lc,Landon Brandt
