@@ -1,25 +1,3 @@
 date,location,opponent,result,score,team_score,opp_score,game_score_diff,game_win_loss,game_id,TC,PO,A,E,FPCT,DP,SBA,RCS,RCS_PCT,PB,CI,season,njcaa_season,njcaa_division,team,team_id,player_id,player_name
-Feb 10,home,Southeastern Illinois,W,8-5,8,5,3,win,20240210_wadc,0,0,0,0,1.0,1,2,,0.00,4.00,3,2024,2023-24,div2,Marian-Ancilla,marianuniversityancilla,nicogaleaemw6,Nico Galea
-Feb 10,home,Southeastern Illinois,L,10-0,10,0,10,win,20240210_jkg4,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Marian-Ancilla,marianuniversityancilla,nicogaleaemw6,Nico Galea
-Feb 11,home,Southeastern Illinois,L,7-2,7,2,5,win,20240211_izs6,0,0,0,0,0.1,,,,0.00,,,2024,2023-24,div2,Marian-Ancilla,marianuniversityancilla,nicogaleaemw6,Nico Galea
-Feb 11,home,Southeastern Illinois,L,6-2,6,2,4,win,20240211_b3by,0,0,0,0,0.1,,,,0.00,,,2024,2023-24,div2,Marian-Ancilla,marianuniversityancilla,nicogaleaemw6,Nico Galea
-Mar 4,home,Ridgewater,W,9-8,9,8,1,win,20240304_emsc,1,1,0,0,4.2,5,4,2,3.86,1.71,3,2024,2023-24,div2,Marian-Ancilla,marianuniversityancilla,nicogaleaemw6,Nico Galea
-Mar 8,home,Lake Region State,W,16-10,16,10,6,win,20240308_4ohy,0,0,0,0,4.1,8,5,4,8.31,1.85,,2024,2023-24,div2,Marian-Ancilla,marianuniversityancilla,nicogaleaemw6,Nico Galea
-Mar 16,home,Community Christian (Mich.),W,13-3,13,3,10,win,20240316_ib3y,1,1,0,0,5.0,7,3,3,5.40,1.80,2,2024,2023-24,div2,Marian-Ancilla,marianuniversityancilla,nicogaleaemw6,Nico Galea
-Mar 19,home,Glen Oaks,L,15-5,15,5,10,win,20240319_a3ef,0,0,0,0,0.1,3,3,2,54.00,15.00,2,2024,2023-24,div2,Marian-Ancilla,marianuniversityancilla,nicogaleaemw6,Nico Galea
-Mar 23,home,Lake Michigan,L,18-11,18,11,7,win,20240323_7s8a,1,0,1,0,5.0,11,10,10,18.00,3.00,4,2024,2023-24,div2,Marian-Ancilla,marianuniversityancilla,nicogaleaemw6,Nico Galea
-Mar 28,home,Lansing,L,6-1,6,1,5,win,20240328_ucnu,0,0,0,0,1.2,,,,0.00,1.20,2,2024,2023-24,div2,Marian-Ancilla,marianuniversityancilla,nicogaleaemw6,Nico Galea
-Apr 5,home,Glen Oaks,W,3-2,3,2,1,win,20240405_k3t0,0,0,0,1,1.0,,,,0.00,,,2024,2023-24,div2,Marian-Ancilla,marianuniversityancilla,nicogaleaemw6,Nico Galea
-Apr 5,home,Glen Oaks,W,13-8,13,8,5,win,20240405_ogno,0,0,0,0,0.2,1,2,,0.00,3.00,1,2024,2023-24,div2,Marian-Ancilla,marianuniversityancilla,nicogaleaemw6,Nico Galea
-Apr 13,home,Kellogg,L,10-4,10,4,6,win,20240413_3mtk,0,0,0,0,1.0,3,1,1,9.00,3.00,,2024,2023-24,div2,Marian-Ancilla,marianuniversityancilla,nicogaleaemw6,Nico Galea
-Apr 14,home,Kellogg,L,9-2,9,2,7,win,20240414_hsjz,0,0,0,0,0.2,1,,,0.00,3.00,1,2024,2023-24,div2,Marian-Ancilla,marianuniversityancilla,nicogaleaemw6,Nico Galea
-Apr 14,home,Kellogg,L,10-0,10,0,10,win,20240414_ljpw,0,0,0,0,2.0,1,1,,0.00,1.50,2,2024,2023-24,div2,Marian-Ancilla,marianuniversityancilla,nicogaleaemw6,Nico Galea
-Apr 18,home,Lake Michigan,L,19-7,19,7,12,win,20240418_klfy,0,0,0,0,1.1,3,4,3,20.25,3.00,1,2024,2023-24,div2,Marian-Ancilla,marianuniversityancilla,nicogaleaemw6,Nico Galea
-Apr 20,home,Lake Michigan,L,12-9,12,9,3,win,20240420_bvks,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Marian-Ancilla,marianuniversityancilla,nicogaleaemw6,Nico Galea
-Apr 21,home,Prairie State,L,15-1,15,1,14,win,20240421_81c9,1,0,1,0,4.1,6,6,3,6.23,1.62,1,2024,2023-24,div2,Marian-Ancilla,marianuniversityancilla,nicogaleaemw6,Nico Galea
-Apr 25,home,Lansing,L,18-1,18,1,17,win,20240425_nxts,0,0,0,0,1.0,3,4,4,36.00,5.00,2,2024,2023-24,div2,Marian-Ancilla,marianuniversityancilla,nicogaleaemw6,Nico Galea
-Apr 25,home,Lansing,L,6-0,6,0,6,win,20240425_t16i,0,0,0,0,1.0,,,,0.00,,,2024,2023-24,div2,Marian-Ancilla,marianuniversityancilla,nicogaleaemw6,Nico Galea
-Apr 26,home,Lansing,L,10-2,10,2,8,win,20240426_swqu,0,0,0,0,3.0,5,4,3,9.00,2.33,2,2024,2023-24,div2,Marian-Ancilla,marianuniversityancilla,nicogaleaemw6,Nico Galea
-May 2,home,Kalamazoo Valley,L,12-1,12,1,11,win,20240502_3ael,0,0,0,0,0.2,,,,0.00,,,2024,2023-24,div2,Marian-Ancilla,marianuniversityancilla,nicogaleaemw6,Nico Galea
-May 2,home,Kalamazoo Valley,L,9-3,9,3,6,win,20240502_rkx5,0,0,0,0,1.0,2,2,,0.00,3.00,1,2024,2023-24,div2,Marian-Ancilla,marianuniversityancilla,nicogaleaemw6,Nico Galea
-May 4,home,Kalamazoo Valley,L,11-0,11,0,11,win,20240504_i8jz,0,0,0,0,1.1,4,6,5,33.75,3.75,1,2024,2023-24,div2,Marian-Ancilla,marianuniversityancilla,nicogaleaemw6,Nico Galea
+Mar 6,home,Minnesota North College - Vermilion,W,15-9,15,9,6,win,20240306_g1d8,0,0,0,0,1.0,2,1,1,9.00,2.00,,2024,2023-24,div2,Marian-Ancilla,marianuniversityancilla,nicogaleaemw6,Nico Galea
+Mar 8,home,Erie,W,12-4,12,4,8,win,20240308_cnaf,0,0,0,0,1.0,2,,,0.00,2.00,,2024,2023-24,div2,Marian-Ancilla,marianuniversityancilla,nicogaleaemw6,Nico Galea

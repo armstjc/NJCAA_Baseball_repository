@@ -1,12 +1,13 @@
 date,location,opponent,result,score,team_score,opp_score,game_score_diff,game_win_loss,game_id,GS,W,L,SV,IP,H,R,ER,ERA,BB,K,HR,season,njcaa_season,njcaa_division,team,team_id,player_id,player_name
-Apr 17,home,Louisburg,L,9-6,9,6,3,win,20240417_xyj5,0,0,0,0,0.0,,2,2,INF,,1,,2024,2023-24,div2,Wake Tech,waketechnicalcommunitycollege,lucascashflt5,Lucas Cash
-Apr 10,home,Louisburg,L,17-4,17,4,13,win,20240410_1sqn,0,0,0,0,1.0,3,4,4,36.00,4.00,1,,2024,2023-24,div2,Wake Tech,waketechnicalcommunitycollege,lucascashflt5,Lucas Cash
-Mar 29,home,Catawba Valley,L,16-1,16,1,15,win,20240329_ovbz,0,0,0,0,0.0,1,5,5,INF,,4,,2024,2023-24,div2,Wake Tech,waketechnicalcommunitycollege,lucascashflt5,Lucas Cash
-Mar 26,home,Louisburg,W,7-3,7,3,4,win,20240326_fgjc,0,0,0,0,1.0,,,,0.00,1.00,1,1,2024,2023-24,div2,Wake Tech,waketechnicalcommunitycollege,lucascashflt5,Lucas Cash
-Mar 13,home,Pitt,L,16-5,16,5,11,win,20240313_d3z2,0,0,0,0,0.1,7,8,8,216.00,30.00,3,0,2024,2023-24,div2,Wake Tech,waketechnicalcommunitycollege,lucascashflt5,Lucas Cash
-Mar 10,home,Patrick & Henry,L,16-3,16,3,13,win,20240310_xtu2,0,0,0,0,0.0,1,3,3,INF,,2,,2024,2023-24,div2,Wake Tech,waketechnicalcommunitycollege,lucascashflt5,Lucas Cash
-Feb 28,home,Fayetteville Tech,L,7-4,7,4,3,win,20240228_ud2q,0,0,0,0,1.0,1,0,0,0.00,1.00,0,2,2024,2023-24,div2,Wake Tech,waketechnicalcommunitycollege,lucascashflt5,Lucas Cash
-Feb 17,home,Catawba Valley,L,13-10,13,10,3,win,20240217_jyr6,0,0,1,0,0.0,1,3,,0.00,,1,,2024,2023-24,div2,Wake Tech,waketechnicalcommunitycollege,lucascashflt5,Lucas Cash
-Feb 14,home,NC Wesleyan JV,L,11-7,11,7,4,win,20240214_twcy,0,0,1,0,1.0,2,3,1,9.00,4.00,2,2,2024,2023-24,div2,Wake Tech,waketechnicalcommunitycollege,lucascashflt5,Lucas Cash
-Feb 7,home,Camp,L,12-5,12,5,7,win,20240207_0tqd,0,0,0,0,1.0,,,,0.00,4.00,4,1,2024,2023-24,div2,Wake Tech,waketechnicalcommunitycollege,lucascashflt5,Lucas Cash
-Feb 3,home,Southeastern-Whiteville,W,13-3,13,3,10,win,20240203_yfa4,0,0,0,0,1.0,,,,0.00,,,2,2024,2023-24,div2,Wake Tech,waketechnicalcommunitycollege,lucascashflt5,Lucas Cash
+Apr 24,home,Louisburg,W,11-7,11,7,4,win,20240424_eiae,1,1,0,0,6.0,5,3,3,4.50,1.17,2,7,2024,2023-24,div2,Wake Tech,waketechnicalcommunitycollege,lucascashflt5,Lucas Cash
+Apr 17,home,Louisburg,L,9-6,9,6,3,win,20240417_xyj5,1,0,1,0,2.0,3,6,5,22.50,2.50,2,2,2024,2023-24,div2,Wake Tech,waketechnicalcommunitycollege,lucascashflt5,Lucas Cash
+Mar 29,home,Catawba Valley,L,16-1,16,1,15,win,20240329_ovbz,1,0,1,0,5.0,9,7,7,12.60,2.20,2,3,2024,2023-24,div2,Wake Tech,waketechnicalcommunitycollege,lucascashflt5,Lucas Cash
+Mar 23,home,Cleveland,W,10-4,10,4,6,win,20240323_wvr6,1,1,0,0,9.0,12,4,4,4.00,1.44,1,3,2024,2023-24,div2,Wake Tech,waketechnicalcommunitycollege,lucascashflt5,Lucas Cash
+Mar 16,home,New River,W,15-3,15,3,12,win,20240316_vgvf,1,1,0,0,5.0,3,1,0,0.00,1.60,5,2,2024,2023-24,div2,Wake Tech,waketechnicalcommunitycollege,lucascashflt5,Lucas Cash
+Mar 13,home,Pitt,L,16-5,16,5,11,win,20240313_d3z2,1,0,0,0,2.0,1,1,1,4.50,1.00,1,2,2024,2023-24,div2,Wake Tech,waketechnicalcommunitycollege,lucascashflt5,Lucas Cash
+Mar 3,home,Southwest Virginia,W,13-3,13,3,10,win,20240303_xqnl,1,1,0,0,5.0,6,3,3,5.40,1.60,2,5,2024,2023-24,div2,Wake Tech,waketechnicalcommunitycollege,lucascashflt5,Lucas Cash
+Feb 25,home,Guilford Tech,W,10-5,10,5,5,win,20240225_2cff,1,1,0,0,5.0,5,5,3,5.40,1.60,3,5,2024,2023-24,div2,Wake Tech,waketechnicalcommunitycollege,lucascashflt5,Lucas Cash
+Feb 18,home,Catawba Valley,W,19-5,19,5,14,win,20240218_per3,1,1,0,0,6.0,6,5,5,7.50,1.17,1,4,2024,2023-24,div2,Wake Tech,waketechnicalcommunitycollege,lucascashflt5,Lucas Cash
+Feb 9,home,Caldwell Tech,L,10-6,10,6,4,win,20240209_os50,1,0,1,0,5.1,8,5,2,3.38,1.88,2,5,2024,2023-24,div2,Wake Tech,waketechnicalcommunitycollege,lucascashflt5,Lucas Cash
+Feb 4,home,Southeastern-Whiteville,L,9-4,9,4,5,win,20240204_ythm,0,0,1,0,2.1,5,6,2,7.71,3.00,2,3,2024,2023-24,div2,Wake Tech,waketechnicalcommunitycollege,lucascashflt5,Lucas Cash
+Jan 31,home,Fayetteville Tech,W,9-0,9,0,9,win,20240131_k056,0,0,0,0,1.0,,,,0.00,,,1,2024,2023-24,div2,Wake Tech,waketechnicalcommunitycollege,lucascashflt5,Lucas Cash

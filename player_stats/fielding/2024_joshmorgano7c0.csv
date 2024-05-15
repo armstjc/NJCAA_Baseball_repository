@@ -1,15 +1,8 @@
 date,location,opponent,result,score,team_score,opp_score,game_score_diff,game_win_loss,game_id,TC,PO,A,E,FPCT,DP,SBA,RCS,RCS_PCT,PB,CI,season,njcaa_season,njcaa_division,team,team_id,player_id,player_name
 Feb 2,home,Caldwell Tech,W,6-4,6,4,2,win,20240202_u7lj,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Cleveland,clevelandcommunitycollege,joshmorgano7c0,Josh Morgan
 Feb 3,home,Caldwell Tech,W,11-3,11,3,8,win,20240203_8mr3,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Cleveland,clevelandcommunitycollege,joshmorgano7c0,Josh Morgan
-Feb 4,home,Caldwell Tech,W,6-5,6,5,1,win,20240204_kxfa,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Cleveland,clevelandcommunitycollege,joshmorgano7c0,Josh Morgan
-Feb 10,home,Gaston College,L,9-1,9,1,8,win,20240210_gqzv,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Cleveland,clevelandcommunitycollege,joshmorgano7c0,Josh Morgan
-Feb 10,home,Gaston College,L,8-4,8,4,4,win,20240210_wbuz,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Cleveland,clevelandcommunitycollege,joshmorgano7c0,Josh Morgan
-Feb 11,home,Gaston College,W,6-5,6,5,1,win,20240211_u05s,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Cleveland,clevelandcommunitycollege,joshmorgano7c0,Josh Morgan
-Feb 14,home,USC Lancaster,L,9-5,9,5,4,win,20240214_9k33,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Cleveland,clevelandcommunitycollege,joshmorgano7c0,Josh Morgan
-Feb 17,home,Louisburg,W,14-6,14,6,8,win,20240217_lep3,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Cleveland,clevelandcommunitycollege,joshmorgano7c0,Josh Morgan
+Feb 4,home,Caldwell Tech,W,6-5,6,5,1,win,20240204_kxfa,0,1,0,0,1.0,2,2,2,18.00,5.00,3,2024,2023-24,div2,Cleveland,clevelandcommunitycollege,joshmorgano7c0,Josh Morgan
 Feb 17,home,Louisburg,L,2-1,2,1,1,win,20240217_r268,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Cleveland,clevelandcommunitycollege,joshmorgano7c0,Josh Morgan
-Feb 18,home,Louisburg,W,6-3,6,3,3,win,20240218_6spj,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Cleveland,clevelandcommunitycollege,joshmorgano7c0,Josh Morgan
-Feb 21,home,Walters State,L,8-7,8,7,1,win,20240221_1m68,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Cleveland,clevelandcommunitycollege,joshmorgano7c0,Josh Morgan
 Feb 24,home,Southwest Virginia,W,8-0,8,0,8,win,20240224_rdd9,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Cleveland,clevelandcommunitycollege,joshmorgano7c0,Josh Morgan
 Feb 24,home,Southwest Virginia,W,18-7,18,7,11,win,20240224_a7sf,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Cleveland,clevelandcommunitycollege,joshmorgano7c0,Josh Morgan
 Feb 25,home,Southwest Virginia,W,16-4,16,4,12,win,20240225_2g2z,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Cleveland,clevelandcommunitycollege,joshmorgano7c0,Josh Morgan
@@ -22,7 +15,7 @@ Mar 12,home,Walters State,L,10-2,10,2,8,win,20240312_yjgi,0,0,0,0,0.0,,,,0.00,,,
 Mar 16,home,Patrick & Henry,L,11-2,11,2,9,win,20240316_dxvo,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Cleveland,clevelandcommunitycollege,joshmorgano7c0,Josh Morgan
 Mar 16,home,Patrick & Henry,L,16-3,16,3,13,win,20240316_0kgd,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Cleveland,clevelandcommunitycollege,joshmorgano7c0,Josh Morgan
 Mar 17,home,Patrick & Henry,W,16-8,16,8,8,win,20240317_u71z,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Cleveland,clevelandcommunitycollege,joshmorgano7c0,Josh Morgan
-Mar 20,home,Spartanburg Methodist,L,12-0,12,0,12,win,20240320_08uy,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Cleveland,clevelandcommunitycollege,joshmorgano7c0,Josh Morgan
+Mar 20,home,Spartanburg Methodist,L,12-0,12,0,12,win,20240320_08uy,1,0,1,0,1.0,2,1,1,9.00,3.00,1,2024,2023-24,div2,Cleveland,clevelandcommunitycollege,joshmorgano7c0,Josh Morgan
 Mar 23,home,Wake Tech,L,10-4,10,4,6,win,20240323_wvr6,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Cleveland,clevelandcommunitycollege,joshmorgano7c0,Josh Morgan
 Mar 23,home,Wake Tech,W,10-9,10,9,1,win,20240323_cej1,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Cleveland,clevelandcommunitycollege,joshmorgano7c0,Josh Morgan
 Mar 24,home,Wake Tech,L,4-3,4,3,1,win,20240324_ysvt,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Cleveland,clevelandcommunitycollege,joshmorgano7c0,Josh Morgan
@@ -37,6 +30,7 @@ Apr 10,home,Catawba Valley,W,14-7,14,7,7,win,20240410_5fsi,0,0,0,0,0.0,,,,0.00,,
 Apr 13,home,Gaston College,L,8-3,8,3,5,win,20240413_s34g,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Cleveland,clevelandcommunitycollege,joshmorgano7c0,Josh Morgan
 Apr 13,home,Gaston College,L,15-5,15,5,10,win,20240413_s0z5,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Cleveland,clevelandcommunitycollege,joshmorgano7c0,Josh Morgan
 Apr 14,home,Gaston College,L,18-4,18,4,14,win,20240414_lska,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Cleveland,clevelandcommunitycollege,joshmorgano7c0,Josh Morgan
+Apr 17,home,Catawba Valley,L,8-2,8,2,6,win,20240417_gpbo,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Cleveland,clevelandcommunitycollege,joshmorgano7c0,Josh Morgan
 Apr 20,home,Guilford Tech,W,17-8,17,8,9,win,20240420_f1gg,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Cleveland,clevelandcommunitycollege,joshmorgano7c0,Josh Morgan
 Apr 20,home,Guilford Tech,W,15-10,15,10,5,win,20240420_x5gp,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Cleveland,clevelandcommunitycollege,joshmorgano7c0,Josh Morgan
 Apr 24,home,Catawba Valley,L,3-2,3,2,1,win,20240424_eyqx,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Cleveland,clevelandcommunitycollege,joshmorgano7c0,Josh Morgan

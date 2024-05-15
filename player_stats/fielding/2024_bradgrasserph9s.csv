@@ -1,13 +1,20 @@
 date,location,opponent,result,score,team_score,opp_score,game_score_diff,game_win_loss,game_id,TC,PO,A,E,FPCT,DP,SBA,RCS,RCS_PCT,PB,CI,season,njcaa_season,njcaa_division,team,team_id,player_id,player_name
-Feb 6,home,Copiah-Lincoln,W,22-9,22,9,13,win,20240206_854u,0,0,0,0,2.0,3,5,4,18.00,1.50,,2024,2023-24,div1,Chattahoochee Valley,chattahoocheevalleycommunitycollege,bradgrasserph9s,Brad Grasser
-Feb 17,home,Pensacola State,L,10-4,10,4,6,win,20240217_q1at,0,0,0,0,1.1,5,5,1,6.75,5.25,2,2024,2023-24,div1,Chattahoochee Valley,chattahoocheevalleycommunitycollege,bradgrasserph9s,Brad Grasser
-Feb 23,home,Copiah-Lincoln,L,6-4,6,4,2,win,20240223_3raj,1,0,1,0,4.2,8,4,3,5.79,2.36,3,2024,2023-24,div1,Chattahoochee Valley,chattahoocheevalleycommunitycollege,bradgrasserph9s,Brad Grasser
-Mar 3,home,Pensacola State,W,11-6,11,6,5,win,20240303_a9ws,0,1,0,0,4.0,4,2,1,2.25,1.00,,2024,2023-24,div1,Chattahoochee Valley,chattahoocheevalleycommunitycollege,bradgrasserph9s,Brad Grasser
-Mar 10,home,Triton,W,7-2,7,2,5,win,20240310_y98o,1,1,0,0,6.1,5,2,2,2.84,1.11,2,2024,2023-24,div1,Chattahoochee Valley,chattahoocheevalleycommunitycollege,bradgrasserph9s,Brad Grasser
-Mar 16,home,Massasoit,W,6-2,6,2,4,win,20240316_llsc,1,1,0,0,7.0,1,2,0,0.00,.57,3,2024,2023-24,div1,Chattahoochee Valley,chattahoocheevalleycommunitycollege,bradgrasserph9s,Brad Grasser
-Mar 24,home,Nunez,W,14-4,14,4,10,win,20240324_sfs1,0,0,0,0,2.0,3,1,1,4.50,1.50,,2024,2023-24,div1,Chattahoochee Valley,chattahoocheevalleycommunitycollege,bradgrasserph9s,Brad Grasser
-Apr 2,home,John Melvin University,W,8-7,8,7,1,win,20240402_lxtx,0,1,0,0,1.0,,,,0.00,,,2024,2023-24,div1,Chattahoochee Valley,chattahoocheevalleycommunitycollege,bradgrasserph9s,Brad Grasser
-Apr 6,home,LSU Eunice,L,13-3,13,3,10,win,20240406_tp0a,1,0,1,0,3.1,7,8,8,21.60,3.30,4,2024,2023-24,div1,Chattahoochee Valley,chattahoocheevalleycommunitycollege,bradgrasserph9s,Brad Grasser
-Apr 13,home,Nunez,L,9-0,9,0,9,win,20240413_380c,0,0,0,0,0.0,4,7,6,INF,,2,2024,2023-24,div1,Chattahoochee Valley,chattahoocheevalleycommunitycollege,bradgrasserph9s,Brad Grasser
-Apr 24,home,John Melvin University,L,5-1,5,1,4,win,20240424_u1lw,1,0,1,0,4.0,6,5,5,11.25,2.00,2,2024,2023-24,div1,Chattahoochee Valley,chattahoocheevalleycommunitycollege,bradgrasserph9s,Brad Grasser
-Apr 28,home,LSU Eunice,W,5-2,5,2,3,win,20240428_6a4p,0,0,0,1,3.0,3,,,0.00,1.33,1,2024,2023-24,div1,Chattahoochee Valley,chattahoocheevalleycommunitycollege,bradgrasserph9s,Brad Grasser
+Jan 30,home,Gordon State,L,12-2,12,2,10,win,20240130_id3t,0,0,1,0,1.0,2,1,1,9.00,3.00,1,2024,2023-24,div1,Chattahoochee Valley,chattahoocheevalleycommunitycollege,bradgrasserph9s,Brad Grasser
+Feb 3,home,McLennan,L,5-3,5,3,2,win,20240203_eqvl,0,0,0,0,3.0,4,3,,0.00,1.67,1,2024,2023-24,div1,Chattahoochee Valley,chattahoocheevalleycommunitycollege,bradgrasserph9s,Brad Grasser
+Feb 9,home,Enterprise State,W,8-5,8,5,3,win,20240209_xy2h,0,1,0,0,2.1,,,,0.00,.86,2,2024,2023-24,div1,Chattahoochee Valley,chattahoocheevalleycommunitycollege,bradgrasserph9s,Brad Grasser
+Feb 20,home,Andrew,W,7-3,7,3,4,win,20240220_gfaf,0,0,0,0,2.0,3,1,1,4.50,2.00,1,2024,2023-24,div1,Chattahoochee Valley,chattahoocheevalleycommunitycollege,bradgrasserph9s,Brad Grasser
+Feb 23,home,Wabash Valley,W,8-4,8,4,4,win,20240223_0da7,0,0,0,0,1.0,1,,,0.00,2.00,1,2024,2023-24,div1,Chattahoochee Valley,chattahoocheevalleycommunitycollege,bradgrasserph9s,Brad Grasser
+Feb 24,home,Georgia Highlands,L,13-3,13,3,10,win,20240224_9nbw,0,0,0,0,2.2,5,5,4,13.50,2.25,1,2024,2023-24,div1,Chattahoochee Valley,chattahoocheevalleycommunitycollege,bradgrasserph9s,Brad Grasser
+Mar 3,home,Andrew,W,5-2,5,2,3,win,20240303_xza9,0,0,0,0,2.0,1,1,1,4.50,1.00,1,2024,2023-24,div1,Chattahoochee Valley,chattahoocheevalleycommunitycollege,bradgrasserph9s,Brad Grasser
+Mar 7,home,Calhoun,L,10-6,10,6,4,win,20240307_3jx8,0,0,0,0,4.0,4,5,3,6.75,1.25,1,2024,2023-24,div1,Chattahoochee Valley,chattahoocheevalleycommunitycollege,bradgrasserph9s,Brad Grasser
+Mar 14,home,Wallace State,L,11-2,11,2,9,win,20240314_19i9,0,0,0,0,4.0,9,6,6,13.50,2.50,1,2024,2023-24,div1,Chattahoochee Valley,chattahoocheevalleycommunitycollege,bradgrasserph9s,Brad Grasser
+Mar 21,home,Coastal Alabama - South,L,5-4,5,4,1,win,20240321_a65e,0,0,0,0,3.2,3,1,1,2.45,1.36,2,2024,2023-24,div1,Chattahoochee Valley,chattahoocheevalleycommunitycollege,bradgrasserph9s,Brad Grasser
+Mar 23,home,Coastal Alabama - South,L,3-1,3,1,2,win,20240323_lkgs,0,0,0,0,1.1,,,,0.00,.75,1,2024,2023-24,div1,Chattahoochee Valley,chattahoocheevalleycommunitycollege,bradgrasserph9s,Brad Grasser
+Mar 28,home,Lawson State,W,16-5,16,5,11,win,20240328_0rqh,0,1,0,0,2.2,2,4,4,13.50,1.50,2,2024,2023-24,div1,Chattahoochee Valley,chattahoocheevalleycommunitycollege,bradgrasserph9s,Brad Grasser
+Apr 6,home,Southern Union State,L,4-1,4,1,3,win,20240406_qc2o,0,0,0,0,0.0,3,4,4,INF,,1,2024,2023-24,div1,Chattahoochee Valley,chattahoocheevalleycommunitycollege,bradgrasserph9s,Brad Grasser
+Apr 11,home,Gadsden State,W,10-9,10,9,1,win,20240411_br4n,0,0,0,0,3.1,2,,,0.00,.90,1,2024,2023-24,div1,Chattahoochee Valley,chattahoocheevalleycommunitycollege,bradgrasserph9s,Brad Grasser
+Apr 18,home,Northwest-Shoals Community College,W,8-6,8,6,2,win,20240418_78r5,0,0,0,0,3.0,3,,,0.00,1.00,,2024,2023-24,div1,Chattahoochee Valley,chattahoocheevalleycommunitycollege,bradgrasserph9s,Brad Grasser
+Apr 20,home,Northwest-Shoals Community College,L,9-1,9,1,8,win,20240420_je55,0,0,0,0,2.2,5,,,0.00,2.63,2,2024,2023-24,div1,Chattahoochee Valley,chattahoocheevalleycommunitycollege,bradgrasserph9s,Brad Grasser
+Apr 25,home,Shelton State,L,9-4,9,4,5,win,20240425_6vgo,0,0,0,0,4.0,5,1,1,2.25,1.25,,2024,2023-24,div1,Chattahoochee Valley,chattahoocheevalleycommunitycollege,bradgrasserph9s,Brad Grasser
+Apr 27,home,Shelton State,L,3-0,3,0,3,win,20240427_vgn9,0,0,0,0,1.0,1,1,1,9.00,2.00,1,2024,2023-24,div1,Chattahoochee Valley,chattahoocheevalleycommunitycollege,bradgrasserph9s,Brad Grasser
+May 2,home,Snead State,W,5-4,5,4,1,win,20240502_rmpf,0,0,0,0,5.0,5,3,1,1.80,1.20,1,2024,2023-24,div1,Chattahoochee Valley,chattahoocheevalleycommunitycollege,bradgrasserph9s,Brad Grasser

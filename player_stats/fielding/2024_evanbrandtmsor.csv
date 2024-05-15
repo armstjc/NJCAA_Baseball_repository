@@ -1,13 +1,17 @@
 date,location,opponent,result,score,team_score,opp_score,game_score_diff,game_win_loss,game_id,TC,PO,A,E,FPCT,DP,SBA,RCS,RCS_PCT,PB,CI,season,njcaa_season,njcaa_division,team,team_id,player_id,player_name
-Feb 6,home,Copiah-Lincoln,W,22-9,22,9,13,win,20240206_854u,0,0,0,0,2.0,3,5,4,18.00,1.50,,2024,2023-24,div1,Weatherford,weatherfordcollege,evanbrandtmsor,Evan Brandt
-Feb 17,home,Pensacola State,L,10-4,10,4,6,win,20240217_q1at,0,0,0,0,1.1,5,5,1,6.75,5.25,2,2024,2023-24,div1,Weatherford,weatherfordcollege,evanbrandtmsor,Evan Brandt
-Feb 23,home,Copiah-Lincoln,L,6-4,6,4,2,win,20240223_3raj,1,0,1,0,4.2,8,4,3,5.79,2.36,3,2024,2023-24,div1,Weatherford,weatherfordcollege,evanbrandtmsor,Evan Brandt
-Mar 3,home,Pensacola State,W,11-6,11,6,5,win,20240303_a9ws,0,1,0,0,4.0,4,2,1,2.25,1.00,,2024,2023-24,div1,Weatherford,weatherfordcollege,evanbrandtmsor,Evan Brandt
-Mar 10,home,Triton,W,7-2,7,2,5,win,20240310_y98o,1,1,0,0,6.1,5,2,2,2.84,1.11,2,2024,2023-24,div1,Weatherford,weatherfordcollege,evanbrandtmsor,Evan Brandt
-Mar 16,home,Massasoit,W,6-2,6,2,4,win,20240316_llsc,1,1,0,0,7.0,1,2,0,0.00,.57,3,2024,2023-24,div1,Weatherford,weatherfordcollege,evanbrandtmsor,Evan Brandt
-Mar 24,home,Nunez,W,14-4,14,4,10,win,20240324_sfs1,0,0,0,0,2.0,3,1,1,4.50,1.50,,2024,2023-24,div1,Weatherford,weatherfordcollege,evanbrandtmsor,Evan Brandt
-Apr 2,home,John Melvin University,W,8-7,8,7,1,win,20240402_lxtx,0,1,0,0,1.0,,,,0.00,,,2024,2023-24,div1,Weatherford,weatherfordcollege,evanbrandtmsor,Evan Brandt
-Apr 6,home,LSU Eunice,L,13-3,13,3,10,win,20240406_tp0a,1,0,1,0,3.1,7,8,8,21.60,3.30,4,2024,2023-24,div1,Weatherford,weatherfordcollege,evanbrandtmsor,Evan Brandt
-Apr 13,home,Nunez,L,9-0,9,0,9,win,20240413_380c,0,0,0,0,0.0,4,7,6,INF,,2,2024,2023-24,div1,Weatherford,weatherfordcollege,evanbrandtmsor,Evan Brandt
-Apr 24,home,John Melvin University,L,5-1,5,1,4,win,20240424_u1lw,1,0,1,0,4.0,6,5,5,11.25,2.00,2,2024,2023-24,div1,Weatherford,weatherfordcollege,evanbrandtmsor,Evan Brandt
-Apr 28,home,LSU Eunice,W,5-2,5,2,3,win,20240428_6a4p,0,0,0,1,3.0,3,,,0.00,1.33,1,2024,2023-24,div1,Weatherford,weatherfordcollege,evanbrandtmsor,Evan Brandt
+Jan 27,home,Northeast Texas,L,11-6,11,6,5,win,20240127_l1e1,1,0,1,0,2.2,6,4,4,13.50,2.63,1,2024,2023-24,div1,Weatherford,weatherfordcollege,evanbrandtmsor,Evan Brandt
+Feb 2,home,Lamar,W,30-0,30,0,30,win,20240202_4c65,1,1,0,0,3.0,1,0,0,0.00,.67,1,2024,2023-24,div1,Weatherford,weatherfordcollege,evanbrandtmsor,Evan Brandt
+Feb 13,home,Blinn,L,2-1,2,1,1,win,20240213_stz2,1,0,0,0,6.0,3,1,1,1.50,.67,1,2024,2023-24,div1,Weatherford,weatherfordcollege,evanbrandtmsor,Evan Brandt
+Feb 17,home,Frank Phillips,W,10-1,10,1,9,win,20240217_mrzh,0,0,0,0,1.1,1,,,0.00,.75,,2024,2023-24,div1,Weatherford,weatherfordcollege,evanbrandtmsor,Evan Brandt
+Feb 24,home,Odessa,W,6-3,6,3,3,win,20240224_lnir,1,1,0,0,5.0,4,2,2,3.60,.80,0,2024,2023-24,div1,Weatherford,weatherfordcollege,evanbrandtmsor,Evan Brandt
+Mar 2,home,New Mexico Military,W,10-0,10,0,10,win,20240302_lw24,1,1,0,0,6.0,2,0,0,0.00,.67,2,2024,2023-24,div1,Weatherford,weatherfordcollege,evanbrandtmsor,Evan Brandt
+Mar 6,home,Northeast Texas,L,3-2,3,2,1,win,20240306_43ia,0,0,0,0,4.0,3,2,1,2.25,.75,,2024,2023-24,div1,Weatherford,weatherfordcollege,evanbrandtmsor,Evan Brandt
+Mar 17,home,Vernon,W,7-4,7,4,3,win,20240317_xgbl,1,1,0,0,5.0,5,4,3,5.40,1.40,2,2024,2023-24,div1,Weatherford,weatherfordcollege,evanbrandtmsor,Evan Brandt
+Mar 23,home,North Central Texas,W,11-2,11,2,9,win,20240323_v4p5,1,0,0,0,5.2,4,2,1,1.59,1.06,2,2024,2023-24,div1,Weatherford,weatherfordcollege,evanbrandtmsor,Evan Brandt
+Mar 29,home,Temple,L,3-1,3,1,2,win,20240329_33bp,1,0,1,0,6.2,5,3,3,4.05,1.20,3,2024,2023-24,div1,Weatherford,weatherfordcollege,evanbrandtmsor,Evan Brandt
+Apr 6,home,Cisco,W,5-4,5,4,1,win,20240406_yewr,1,1,0,0,5.0,3,0,0,0.00,.80,1,2024,2023-24,div1,Weatherford,weatherfordcollege,evanbrandtmsor,Evan Brandt
+Apr 13,home,Grayson,L,12-7,12,7,5,win,20240413_rmxg,1,0,0,0,2.0,6,6,1,4.50,3.00,0,2024,2023-24,div1,Weatherford,weatherfordcollege,evanbrandtmsor,Evan Brandt
+Apr 20,home,Ranger,W,5-0,5,0,5,win,20240420_1217,1,1,0,0,7.0,2,0,0,0.00,.57,2,2024,2023-24,div1,Weatherford,weatherfordcollege,evanbrandtmsor,Evan Brandt
+Apr 27,home,Hill,W,15-4,15,4,11,win,20240427_4ygt,1,1,0,0,6.0,7,4,4,6.00,1.67,3,2024,2023-24,div1,Weatherford,weatherfordcollege,evanbrandtmsor,Evan Brandt
+May 4,home,McLennan,W,14-4,14,4,10,win,20240504_3hby,1,1,0,0,4.0,6,4,4,9.00,1.75,1,2024,2023-24,div1,Weatherford,weatherfordcollege,evanbrandtmsor,Evan Brandt
+May 10,home,New Mexico Military,W,9-1,9,1,8,win,20240510_n5vv,0,0,0,0,2.0,,,,0.00,,,2024,2023-24,div1,Weatherford,weatherfordcollege,evanbrandtmsor,Evan Brandt

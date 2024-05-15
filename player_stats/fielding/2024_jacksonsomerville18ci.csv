@@ -1,12 +1,20 @@
 date,location,opponent,result,score,team_score,opp_score,game_score_diff,game_win_loss,game_id,TC,PO,A,E,FPCT,DP,SBA,RCS,RCS_PCT,PB,CI,season,njcaa_season,njcaa_division,team,team_id,player_id,player_name
-Feb 3,home,Iowa Lakes,W,18-8,18,8,10,win,20240203_yr0i,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Northern Oklahoma Tonkawa,northernoklahomacollegetonkawa,jacksonsomerville18ci,Jackson Somerville
-Feb 3,home,Iowa Lakes,W,8-0,8,0,8,win,20240203_5w9o,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Northern Oklahoma Tonkawa,northernoklahomacollegetonkawa,jacksonsomerville18ci,Jackson Somerville
-Feb 12,home,Southwestern (KS),W,20-0,20,0,20,win,20240212_6pop,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Northern Oklahoma Tonkawa,northernoklahomacollegetonkawa,jacksonsomerville18ci,Jackson Somerville
-Mar 2,home,Redlands,W,20-6,20,6,14,win,20240302_a06g,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Northern Oklahoma Tonkawa,northernoklahomacollegetonkawa,jacksonsomerville18ci,Jackson Somerville
-Mar 17,home,Western Oklahoma State,W,12-3,12,3,9,win,20240317_zy8l,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Northern Oklahoma Tonkawa,northernoklahomacollegetonkawa,jacksonsomerville18ci,Jackson Somerville
-Mar 19,home,Rose State,W,6-1,6,1,5,win,20240319_9sez,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Northern Oklahoma Tonkawa,northernoklahomacollegetonkawa,jacksonsomerville18ci,Jackson Somerville
-Mar 22,home,Carl Albert State,L,9-3,9,3,6,win,20240322_xi42,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Northern Oklahoma Tonkawa,northernoklahomacollegetonkawa,jacksonsomerville18ci,Jackson Somerville
-Mar 23,home,Carl Albert State,L,3-0,3,0,3,win,20240323_pak4,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Northern Oklahoma Tonkawa,northernoklahomacollegetonkawa,jacksonsomerville18ci,Jackson Somerville
-Apr 15,home,Northwestern Oklahoma State University JV,W,16-4,16,4,12,win,20240415_ot2c,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Northern Oklahoma Tonkawa,northernoklahomacollegetonkawa,jacksonsomerville18ci,Jackson Somerville
-Apr 15,home,Northwestern Oklahoma State University JV,W,17-2,17,2,15,win,20240415_kbm3,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Northern Oklahoma Tonkawa,northernoklahomacollegetonkawa,jacksonsomerville18ci,Jackson Somerville
-Apr 19,home,Western Oklahoma State,L,4-2,4,2,2,win,20240419_fbrw,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Northern Oklahoma Tonkawa,northernoklahomacollegetonkawa,jacksonsomerville18ci,Jackson Somerville
+Feb 2,home,Iowa Lakes,W,11-2,11,2,9,win,20240202_7zw2,0,1,0,0,5.0,3,1,1,1.80,.80,1,2024,2023-24,div2,Northern Oklahoma Tonkawa,northernoklahomacollegetonkawa,jacksonsomerville18ci,Jackson Somerville
+Feb 7,home,Dallas College - Brookhaven,L,6-2,6,2,4,win,20240207_wfrr,0,0,0,0,6.0,5,1,,0.00,1.00,1,2024,2023-24,div2,Northern Oklahoma Tonkawa,northernoklahomacollegetonkawa,jacksonsomerville18ci,Jackson Somerville
+Feb 15,home,Pratt,L,13-3,13,3,10,win,20240215_0z49,0,0,1,0,6.0,3,4,2,3.00,.83,2,2024,2023-24,div2,Northern Oklahoma Tonkawa,northernoklahomacollegetonkawa,jacksonsomerville18ci,Jackson Somerville
+Feb 23,home,Southeast Arkansas College,L,3-2,3,2,1,win,20240223_wfwn,0,0,1,0,6.2,9,2,2,2.70,1.35,,2024,2023-24,div2,Northern Oklahoma Tonkawa,northernoklahomacollegetonkawa,jacksonsomerville18ci,Jackson Somerville
+Mar 2,home,Redlands,W,20-6,20,6,14,win,20240302_a06g,0,1,0,0,5.0,7,5,2,3.60,2.00,3,2024,2023-24,div2,Northern Oklahoma Tonkawa,northernoklahomacollegetonkawa,jacksonsomerville18ci,Jackson Somerville
+Mar 9,home,Murray State,W,8-1,8,1,7,win,20240309_dgmh,0,1,0,0,7.0,2,1,1,1.29,.86,4,2024,2023-24,div2,Northern Oklahoma Tonkawa,northernoklahomacollegetonkawa,jacksonsomerville18ci,Jackson Somerville
+Mar 17,home,Western Oklahoma State,L,6-1,6,1,5,win,20240317_5vo7,0,0,1,0,5.2,8,6,6,9.53,1.76,2,2024,2023-24,div2,Northern Oklahoma Tonkawa,northernoklahomacollegetonkawa,jacksonsomerville18ci,Jackson Somerville
+Mar 23,home,Carl Albert State,L,3-0,3,0,3,win,20240323_pak4,0,0,1,0,7.0,8,3,3,3.86,1.43,2,2024,2023-24,div2,Northern Oklahoma Tonkawa,northernoklahomacollegetonkawa,jacksonsomerville18ci,Jackson Somerville
+Mar 30,home,Northern Oklahoma Enid,L,10-6,10,6,4,win,20240330_81pw,0,0,1,0,1.0,7,7,7,63.00,8.00,1,2024,2023-24,div2,Northern Oklahoma Tonkawa,northernoklahomacollegetonkawa,jacksonsomerville18ci,Jackson Somerville
+Apr 6,home,Redlands,L,11-6,11,6,5,win,20240406_4i0n,0,0,1,0,2.2,6,9,8,27.00,4.13,5,2024,2023-24,div2,Northern Oklahoma Tonkawa,northernoklahomacollegetonkawa,jacksonsomerville18ci,Jackson Somerville
+Apr 13,home,Murray State,W,12-11,12,11,1,win,20240413_6zty,0,0,0,0,5.2,10,7,7,11.12,2.12,2,2024,2023-24,div2,Northern Oklahoma Tonkawa,northernoklahomacollegetonkawa,jacksonsomerville18ci,Jackson Somerville
+Apr 18,home,Western Oklahoma State,W,9-7,9,7,2,win,20240418_jp5d,0,1,0,0,3.1,4,,,0.00,1.80,2,2024,2023-24,div2,Northern Oklahoma Tonkawa,northernoklahomacollegetonkawa,jacksonsomerville18ci,Jackson Somerville
+Apr 19,home,Western Oklahoma State,L,4-2,4,2,2,win,20240419_fbrw,0,0,0,0,1.0,1,1,,0.00,2.00,1,2024,2023-24,div2,Northern Oklahoma Tonkawa,northernoklahomacollegetonkawa,jacksonsomerville18ci,Jackson Somerville
+Apr 25,home,Carl Albert State,W,12-8,12,8,4,win,20240425_gdz8,0,0,0,1,3.0,1,1,1,3.00,.67,1,2024,2023-24,div2,Northern Oklahoma Tonkawa,northernoklahomacollegetonkawa,jacksonsomerville18ci,Jackson Somerville
+Apr 25,home,Carl Albert State,W,18-12,18,12,6,win,20240425_jb9o,0,0,0,0,1.1,,,,0.00,,,2024,2023-24,div2,Northern Oklahoma Tonkawa,northernoklahomacollegetonkawa,jacksonsomerville18ci,Jackson Somerville
+May 3,home,Northern Oklahoma Enid,W,9-8,9,8,1,win,20240503_xdha,0,1,0,0,2.0,1,1,1,4.50,1.00,1,2024,2023-24,div2,Northern Oklahoma Tonkawa,northernoklahomacollegetonkawa,jacksonsomerville18ci,Jackson Somerville
+May 9,home,ASU Mountain Home,W,12-5,12,5,7,win,20240509_jpfe,0,1,0,0,6.1,4,1,,0.00,.95,2,2024,2023-24,div2,Northern Oklahoma Tonkawa,northernoklahomacollegetonkawa,jacksonsomerville18ci,Jackson Somerville
+May 12,home,South Arkansas,W,13-4,13,4,9,win,20240512_cd0a,0,0,0,0,1.1,2,,,0.00,1.50,,2024,2023-24,div2,Northern Oklahoma Tonkawa,northernoklahomacollegetonkawa,jacksonsomerville18ci,Jackson Somerville
+May 13,home,South Arkansas,L,10-7,10,7,3,win,20240513_hhbq,0,0,1,0,3.0,7,5,4,12.00,2.33,,2024,2023-24,div2,Northern Oklahoma Tonkawa,northernoklahomacollegetonkawa,jacksonsomerville18ci,Jackson Somerville

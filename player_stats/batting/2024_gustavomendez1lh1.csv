@@ -1,33 +1,25 @@
 date,location,opponent,result,score,team_score,opp_score,game_score_diff,game_win_loss,game_id,AB,R,H,2B,3B,HR,RBI,BB,K,SB,CS,HBP,SF,SH,TB,XBH,HDP,GO,FO,GO/FO,PA,season,njcaa_season,njcaa_division,team,team_id,player_id,player_name
-Jan 26,home,Central Florida,W,14-2,14,2,12,win,20240126_qj7w,3,1,1,,,,1,1,1,,,,,,1,0,,,,,4,2024,2023-24,div1,Chipola,chipolacollege,gustavomendez1lh1,Gustavo Mendez
-Jan 27,home,Palm Beach State,W,9-5,9,5,4,win,20240127_hazc,4,1,1,1,,,0,,,,,,,,2,1,,,,,4,2024,2023-24,div1,Chipola,chipolacollege,gustavomendez1lh1,Gustavo Mendez
-Feb 2,home,Miami Dade,W,4-1,4,1,3,win,20240202_ybp2,3,0,0,,,,0,,1,,,,,,0,0,,,,,3,2024,2023-24,div1,Chipola,chipolacollege,gustavomendez1lh1,Gustavo Mendez
-Feb 3,home,Florence-Darlington Tech,W,2-1,2,1,1,win,20240203_nb3y,2,0,0,,,,0,1,1,,,,,,0,0,,,,,3,2024,2023-24,div1,Chipola,chipolacollege,gustavomendez1lh1,Gustavo Mendez
-Feb 4,home,Florida SouthWestern State,W,9-5,9,5,4,win,20240204_vhmt,4,1,2,,,1,3,,2,,,1,,,5,1,,,,,5,2024,2023-24,div1,Chipola,chipolacollege,gustavomendez1lh1,Gustavo Mendez
-Feb 8,home,Southern Union State,W,10-0,10,0,10,win,20240208_9e76,3,1,3,,,1,2,,,,,,,,6,1,,,,,3,2024,2023-24,div1,Chipola,chipolacollege,gustavomendez1lh1,Gustavo Mendez
-Feb 10,home,Central Alabama,W,15-1,15,1,14,win,20240210_t6nq,3,2,2,,,,2,1,,,,,,,2,0,,,,,4,2024,2023-24,div1,Chipola,chipolacollege,gustavomendez1lh1,Gustavo Mendez
-Feb 15,home,Columbia State,W,13-4,13,4,9,win,20240215_rv2d,3,1,2,2,,,3,1,1,,,,1,,4,2,,,,,5,2024,2023-24,div1,Chipola,chipolacollege,gustavomendez1lh1,Gustavo Mendez
-Feb 16,home,Columbia State,W,6-4,6,4,2,win,20240216_tsew,2,0,0,,,,0,,1,,,,,,0,0,,,,,2,2024,2023-24,div1,Chipola,chipolacollege,gustavomendez1lh1,Gustavo Mendez
-Feb 16,home,Columbia State,W,5-2,5,2,3,win,20240216_a3a5,2,2,2,1,1,,1,,,,,,,,5,2,,,,,2,2024,2023-24,div1,Chipola,chipolacollege,gustavomendez1lh1,Gustavo Mendez
-Feb 24,home,Grand Rapids,W,13-0,13,0,13,win,20240224_3d7g,4,1,3,1,,,4,,,,,,,,4,1,,,,,4,2024,2023-24,div1,Chipola,chipolacollege,gustavomendez1lh1,Gustavo Mendez
-Feb 24,home,Grand Rapids,W,10-0,10,0,10,win,20240224_ysr3,4,2,2,2,,,0,,,,,,,,4,2,,1,1,1.00,4,2024,2023-24,div1,Chipola,chipolacollege,gustavomendez1lh1,Gustavo Mendez
-Feb 25,home,Grand Rapids,W,20-2,20,2,18,win,20240225_h5dz,2,1,2,,,,2,,,,,,1,,2,0,,,1,,3,2024,2023-24,div1,Chipola,chipolacollege,gustavomendez1lh1,Gustavo Mendez
-Feb 25,home,Grand Rapids,W,12-2,12,2,10,win,20240225_1i1h,0,0,0,,,,1,,,,,,1,,0,0,,,1,,1,2024,2023-24,div1,Chipola,chipolacollege,gustavomendez1lh1,Gustavo Mendez
-Feb 27,home,Coastal Alabama - South,W,18-2,18,2,16,win,20240227_awdi,3,0,1,,,,3,1,,,,,,,1,0,1,,,,4,2024,2023-24,div1,Chipola,chipolacollege,gustavomendez1lh1,Gustavo Mendez
-Mar 3,home,Gordon State,W,12-10,12,10,2,win,20240303_e9b2,3,1,1,,,,0,1,1,,,,,,1,0,,,,,4,2024,2023-24,div1,Chipola,chipolacollege,gustavomendez1lh1,Gustavo Mendez
-Mar 3,home,Gordon State,W,11-0,11,0,11,win,20240303_gzbb,4,1,2,,,1,2,,1,,,,,,5,1,,,,,4,2024,2023-24,div1,Chipola,chipolacollege,gustavomendez1lh1,Gustavo Mendez
-Mar 8,home,Northwest Florida State,W,9-8,9,8,1,win,20240308_mfyn,5,1,2,,,,1,,1,,,,,,2,0,,,,,5,2024,2023-24,div1,Chipola,chipolacollege,gustavomendez1lh1,Gustavo Mendez
-Mar 13,home,Pensacola State,W,5-2,5,2,3,win,20240313_p3l2,1,0,0,,,,0,,1,,,,,,0,0,,,,,1,2024,2023-24,div1,Chipola,chipolacollege,gustavomendez1lh1,Gustavo Mendez
-Mar 21,home,Tallahassee,W,11-7,11,7,4,win,20240321_aaec,3,1,2,1,,,0,1,,,,1,,,3,1,,1,,,5,2024,2023-24,div1,Chipola,chipolacollege,gustavomendez1lh1,Gustavo Mendez
-Mar 23,home,Tallahassee,W,9-8,9,8,1,win,20240323_xzur,2,1,0,,,,0,2,1,,,1,,,0,0,,,,,5,2024,2023-24,div1,Chipola,chipolacollege,gustavomendez1lh1,Gustavo Mendez
-Mar 28,home,Northwest Florida State,W,9-8,9,8,1,win,20240328_ir7r,5,0,0,,,,0,,5,,,,,,0,0,,,,,5,2024,2023-24,div1,Chipola,chipolacollege,gustavomendez1lh1,Gustavo Mendez
-Mar 30,home,Northwest Florida State,W,18-14,18,14,4,win,20240330_avtr,3,1,2,,,,1,1,1,,,,,,2,0,,,,,4,2024,2023-24,div1,Chipola,chipolacollege,gustavomendez1lh1,Gustavo Mendez
-Apr 2,home,Pensacola State,W,7-1,7,1,6,win,20240402_o7rz,3,0,1,,,,0,1,,,,,,,1,0,,,,,4,2024,2023-24,div1,Chipola,chipolacollege,gustavomendez1lh1,Gustavo Mendez
-Apr 4,home,Pensacola State,W,12-11,12,11,1,win,20240404_ej90,2,2,0,,,,0,3,,,,,,,0,0,,,,,5,2024,2023-24,div1,Chipola,chipolacollege,gustavomendez1lh1,Gustavo Mendez
-Apr 6,home,Pensacola State,W,6-4,6,4,2,win,20240406_i1hs,3,1,1,,,,2,1,,,,,,,1,0,1,,,,4,2024,2023-24,div1,Chipola,chipolacollege,gustavomendez1lh1,Gustavo Mendez
-Apr 9,home,Gulf Coast State,W,9-5,9,5,4,win,20240409_g6ma,2,0,0,,,,0,,,,,,,,0,0,,,,,2,2024,2023-24,div1,Chipola,chipolacollege,gustavomendez1lh1,Gustavo Mendez
-Apr 13,home,Gulf Coast State,W,7-6,7,6,1,win,20240413_q2p4,2,1,1,,,,0,1,,,,,,,1,0,,1,1,1.00,3,2024,2023-24,div1,Chipola,chipolacollege,gustavomendez1lh1,Gustavo Mendez
-Apr 23,home,Tallahassee,W,6-3,6,3,3,win,20240423_6x32,3,0,0,,,,0,2,3,,,,,,0,0,,,,,5,2024,2023-24,div1,Chipola,chipolacollege,gustavomendez1lh1,Gustavo Mendez
-Apr 27,home,Tallahassee,W,6-4,6,4,2,win,20240427_qkr4,1,0,0,,,,1,1,1,,,,1,,0,0,,,,,3,2024,2023-24,div1,Chipola,chipolacollege,gustavomendez1lh1,Gustavo Mendez
-May 3,home,Miami Dade,W,14-5,14,5,9,win,20240503_c2uw,3,1,1,1,,,2,2,,,,,,,2,1,,,,,5,2024,2023-24,div1,Chipola,chipolacollege,gustavomendez1lh1,Gustavo Mendez
-May 4,home,Miami Dade,W,11-5,11,5,6,win,20240504_o7bk,2,1,1,,,,3,2,,,,,,,1,0,,,,,4,2024,2023-24,div1,Chipola,chipolacollege,gustavomendez1lh1,Gustavo Mendez
+Jan 27,home,Palm Beach State,W,9-5,9,5,4,win,20240127_hazc,1,0,0,,,,0,,,,,,,,0,0,,,,,1,2024,2023-24,div1,Chipola,chipolacollege,gustavomendez1lh1,Gustavo Mendez
+Feb 4,home,Florida SouthWestern State,W,9-5,9,5,4,win,20240204_vhmt,1,1,0,,,,0,,,,,2,,,0,0,,,,,3,2024,2023-24,div1,Chipola,chipolacollege,gustavomendez1lh1,Gustavo Mendez
+Feb 8,home,Southern Union State,W,10-0,10,0,10,win,20240208_9e76,2,0,0,,,,1,1,1,,,,,,0,0,,,,,3,2024,2023-24,div1,Chipola,chipolacollege,gustavomendez1lh1,Gustavo Mendez
+Feb 10,home,Central Alabama,W,15-1,15,1,14,win,20240210_t6nq,3,1,1,,,,1,,,,,,,,1,0,,,,,3,2024,2023-24,div1,Chipola,chipolacollege,gustavomendez1lh1,Gustavo Mendez
+Feb 15,home,Columbia State,W,13-4,13,4,9,win,20240215_rv2d,4,0,0,,,,0,,2,,,,,,0,0,,,,,4,2024,2023-24,div1,Chipola,chipolacollege,gustavomendez1lh1,Gustavo Mendez
+Feb 16,home,Columbia State,W,5-2,5,2,3,win,20240216_a3a5,2,0,0,,,,0,,,,,,,,0,0,,,,,2,2024,2023-24,div1,Chipola,chipolacollege,gustavomendez1lh1,Gustavo Mendez
+Feb 24,home,Grand Rapids,W,10-0,10,0,10,win,20240224_ysr3,3,1,0,,,,1,,,,,,,,0,0,,,1,,3,2024,2023-24,div1,Chipola,chipolacollege,gustavomendez1lh1,Gustavo Mendez
+Feb 25,home,Grand Rapids,W,12-2,12,2,10,win,20240225_1i1h,3,1,3,1,,,3,,,,,,,,4,1,,,,,3,2024,2023-24,div1,Chipola,chipolacollege,gustavomendez1lh1,Gustavo Mendez
+Feb 27,home,Coastal Alabama - South,W,18-2,18,2,16,win,20240227_awdi,2,0,1,,,,1,,,,,,,,1,0,,,,,2,2024,2023-24,div1,Chipola,chipolacollege,gustavomendez1lh1,Gustavo Mendez
+Mar 3,home,Gordon State,W,11-0,11,0,11,win,20240303_gzbb,1,1,1,,,,1,1,,,,,1,,1,0,,,,,3,2024,2023-24,div1,Chipola,chipolacollege,gustavomendez1lh1,Gustavo Mendez
+Mar 8,home,Northwest Florida State,W,9-8,9,8,1,win,20240308_mfyn,2,0,0,,,,0,,2,,,,,,0,0,,,,,2,2024,2023-24,div1,Chipola,chipolacollege,gustavomendez1lh1,Gustavo Mendez
+Mar 21,home,Tallahassee,W,11-7,11,7,4,win,20240321_aaec,5,1,2,,,,1,,,,,,,,2,0,,,2,,5,2024,2023-24,div1,Chipola,chipolacollege,gustavomendez1lh1,Gustavo Mendez
+Mar 23,home,Tallahassee,W,9-8,9,8,1,win,20240323_xzur,1,0,0,,,,0,,1,,,,,,0,0,,,,,1,2024,2023-24,div1,Chipola,chipolacollege,gustavomendez1lh1,Gustavo Mendez
+Mar 28,home,Northwest Florida State,W,9-8,9,8,1,win,20240328_ir7r,1,0,0,,,,0,,,,,,,,0,0,,,,,1,2024,2023-24,div1,Chipola,chipolacollege,gustavomendez1lh1,Gustavo Mendez
+Mar 30,home,Northwest Florida State,W,18-14,18,14,4,win,20240330_avtr,2,2,2,,,1,4,,,,,,,,5,1,,,,,2,2024,2023-24,div1,Chipola,chipolacollege,gustavomendez1lh1,Gustavo Mendez
+Apr 2,home,Pensacola State,W,7-1,7,1,6,win,20240402_o7rz,1,0,0,,,,0,,,,,,,,0,0,1,,,,1,2024,2023-24,div1,Chipola,chipolacollege,gustavomendez1lh1,Gustavo Mendez
+Apr 4,home,Pensacola State,W,12-11,12,11,1,win,20240404_ej90,4,0,1,,,,1,,1,,,1,,,1,0,,,,,5,2024,2023-24,div1,Chipola,chipolacollege,gustavomendez1lh1,Gustavo Mendez
+Apr 6,home,Pensacola State,W,6-4,6,4,2,win,20240406_i1hs,1,0,0,,,,0,,,,,,,,0,0,,,,,1,2024,2023-24,div1,Chipola,chipolacollege,gustavomendez1lh1,Gustavo Mendez
+Apr 6,home,Pensacola State,W,11-4,11,4,7,win,20240406_m2bt,2,1,0,,,,1,,,,,1,,,0,0,,,,,3,2024,2023-24,div1,Chipola,chipolacollege,gustavomendez1lh1,Gustavo Mendez
+Apr 9,home,Gulf Coast State,W,9-5,9,5,4,win,20240409_g6ma,1,0,0,,,,0,,,,,,,,0,0,,,,,1,2024,2023-24,div1,Chipola,chipolacollege,gustavomendez1lh1,Gustavo Mendez
+Apr 13,home,Gulf Coast State,W,7-6,7,6,1,win,20240413_q2p4,3,0,0,,,,0,,1,,,,,,0,0,,,2,,3,2024,2023-24,div1,Chipola,chipolacollege,gustavomendez1lh1,Gustavo Mendez
+Apr 27,home,Tallahassee,W,6-4,6,4,2,win,20240427_qkr4,3,0,1,1,,,0,,1,,,,,,2,1,,,,,3,2024,2023-24,div1,Chipola,chipolacollege,gustavomendez1lh1,Gustavo Mendez
+May 4,home,Miami Dade,W,11-5,11,5,6,win,20240504_o7bk,2,1,1,,,,1,2,,,,,,,1,0,,,,,4,2024,2023-24,div1,Chipola,chipolacollege,gustavomendez1lh1,Gustavo Mendez
+May 12,home,Indian River State,W,8-3,8,3,5,win,20240512_1agm,2,0,0,,,,1,1,,,,,1,,0,0,,1,1,1.00,4,2024,2023-24,div1,Chipola,chipolacollege,gustavomendez1lh1,Gustavo Mendez

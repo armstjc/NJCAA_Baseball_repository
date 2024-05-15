@@ -1,15 +1,21 @@
 date,location,opponent,result,score,team_score,opp_score,game_score_diff,game_win_loss,game_id,GS,W,L,SV,IP,H,R,ER,ERA,BB,K,HR,season,njcaa_season,njcaa_division,team,team_id,player_id,player_name
-May 3,home,Carl Albert State,W,13-1,13,1,12,win,20240503_y1ye,1,1,0,0,5.0,3,1,1,1.80,.80,1,5,2024,2023-24,div2,Murray State,murraystatecollege,kyleholzervgrm,Kyle Holzer
-Apr 27,home,Redlands,W,10-2,10,2,8,win,20240427_9pwb,1,1,0,0,7.0,5,2,1,1.29,1.00,2,9,2024,2023-24,div2,Murray State,murraystatecollege,kyleholzervgrm,Kyle Holzer
-Apr 19,home,Northern Oklahoma Enid,L,5-4,5,4,1,win,20240419_u3g3,1,0,1,0,5.1,8,5,5,8.44,2.06,3,4,2024,2023-24,div2,Murray State,murraystatecollege,kyleholzervgrm,Kyle Holzer
-Apr 13,home,Northern Oklahoma Tonkawa,L,12-11,12,11,1,win,20240413_6zty,1,0,0,0,5.0,6,6,5,9.00,1.80,3,3,2024,2023-24,div2,Murray State,murraystatecollege,kyleholzervgrm,Kyle Holzer
-Apr 6,home,Western Oklahoma State,W,16-11,16,11,5,win,20240406_t0xn,1,1,0,0,5.0,9,10,8,14.40,2.20,2,5,2024,2023-24,div2,Murray State,murraystatecollege,kyleholzervgrm,Kyle Holzer
-Mar 30,home,Carl Albert State,W,8-4,8,4,4,win,20240330_vaih,1,1,0,0,5.2,8,4,4,6.35,1.94,3,4,2024,2023-24,div2,Murray State,murraystatecollege,kyleholzervgrm,Kyle Holzer
-Mar 23,home,Redlands,W,7-4,7,4,3,win,20240323_2e7t,1,1,0,0,6.0,4,3,1,1.50,1.00,2,8,2024,2023-24,div2,Murray State,murraystatecollege,kyleholzervgrm,Kyle Holzer
-Mar 16,home,Northern Oklahoma Enid,L,8-1,8,1,7,win,20240316_bqul,1,0,1,0,2.1,4,7,3,11.57,3.00,3,3,2024,2023-24,div2,Murray State,murraystatecollege,kyleholzervgrm,Kyle Holzer
-Mar 9,home,Northern Oklahoma Tonkawa,L,8-1,8,1,7,win,20240309_dgmh,1,0,1,0,1.2,4,2,2,10.80,3.60,2,4,2024,2023-24,div2,Murray State,murraystatecollege,kyleholzervgrm,Kyle Holzer
-Mar 2,home,Western Oklahoma State,L,7-3,7,3,4,win,20240302_q4ss,1,0,0,0,5.0,6,2,2,3.60,1.80,3,5,2024,2023-24,div2,Murray State,murraystatecollege,kyleholzervgrm,Kyle Holzer
-Feb 24,home,Arkansas State University - Three Rivers,W,14-1,14,1,13,win,20240224_q7km,1,1,0,0,5.0,5,1,0,0.00,1.20,1,9,2024,2023-24,div2,Murray State,murraystatecollege,kyleholzervgrm,Kyle Holzer
-Feb 17,home,Pearl River,W,15-9,15,9,6,win,20240217_j3mc,1,0,0,0,3.2,7,5,2,4.91,2.18,1,2,2024,2023-24,div2,Murray State,murraystatecollege,kyleholzervgrm,Kyle Holzer
-Feb 10,home,Connors State,L,8-4,8,4,4,win,20240210_xg76,0,0,1,0,1.2,2,4,4,21.60,3.60,4,1,2024,2023-24,div2,Murray State,murraystatecollege,kyleholzervgrm,Kyle Holzer
-Feb 3,home,Navarro,L,7-2,7,2,5,win,20240203_r465,1,0,1,0,3.0,5,5,3,9.00,2.00,1,3,2024,2023-24,div2,Murray State,murraystatecollege,kyleholzervgrm,Kyle Holzer
+May 3,home,Carl Albert State,L,12-11,12,11,1,win,20240503_x0uc,0,0,0,0,1.1,2,3,3,20.25,2.25,1,1,2024,2023-24,div2,Murray State,murraystatecollege,kyleholzervgrm,Kyle Holzer
+Apr 30,home,Rose State,W,23-11,23,11,12,win,20240430_bt4x,0,0,0,0,1.0,,,,0.00,,,1,2024,2023-24,div2,Murray State,murraystatecollege,kyleholzervgrm,Kyle Holzer
+Apr 27,home,Redlands,W,8-6,8,6,2,win,20240427_ndeu,0,0,0,0,1.1,,,,0.00,,,2,2024,2023-24,div2,Murray State,murraystatecollege,kyleholzervgrm,Kyle Holzer
+Apr 25,home,Redlands,W,10-9,10,9,1,win,20240425_hh5p,0,0,0,0,1.1,3,6,,0.00,3.00,1,,2024,2023-24,div2,Murray State,murraystatecollege,kyleholzervgrm,Kyle Holzer
+Apr 22,home,Dallas College - Richland,W,7-4,7,4,3,win,20240422_cekg,0,0,0,0,1.0,,,,0.00,,,2,2024,2023-24,div2,Murray State,murraystatecollege,kyleholzervgrm,Kyle Holzer
+Apr 19,home,Northern Oklahoma Enid,L,5-4,5,4,1,win,20240419_u3g3,0,0,0,0,0.2,1,,,0.00,1.50,,1,2024,2023-24,div2,Murray State,murraystatecollege,kyleholzervgrm,Kyle Holzer
+Apr 12,home,Northern Oklahoma Tonkawa,L,14-4,14,4,10,win,20240412_a993,0,0,0,0,1.1,1,2,2,13.50,1.50,1,,2024,2023-24,div2,Murray State,murraystatecollege,kyleholzervgrm,Kyle Holzer
+Apr 6,home,Western Oklahoma State,L,12-4,12,4,8,win,20240406_l2q5,0,0,0,0,0.0,,,,0.00,,2,,2024,2023-24,div2,Murray State,murraystatecollege,kyleholzervgrm,Kyle Holzer
+Mar 29,home,Carl Albert State,L,17-7,17,7,10,win,20240329_cdhh,0,0,0,0,0.0,4,5,5,INF,,,,2024,2023-24,div2,Murray State,murraystatecollege,kyleholzervgrm,Kyle Holzer
+Mar 15,home,Northern Oklahoma Enid,L,6-1,6,1,5,win,20240315_borv,0,0,0,0,2.0,3,1,1,4.50,1.50,,1,2024,2023-24,div2,Murray State,murraystatecollege,kyleholzervgrm,Kyle Holzer
+Mar 8,home,Northern Oklahoma Tonkawa,L,8-7,8,7,1,win,20240308_5uwz,0,0,0,0,2.0,4,5,5,22.50,2.50,1,2,2024,2023-24,div2,Murray State,murraystatecollege,kyleholzervgrm,Kyle Holzer
+Mar 5,home,Seminole State (OK),W,6-5,6,5,1,win,20240305_hvs9,0,0,0,0,2.0,1,,,0.00,.50,,2,2024,2023-24,div2,Murray State,murraystatecollege,kyleholzervgrm,Kyle Holzer
+Mar 2,home,Western Oklahoma State,L,4-1,4,1,3,win,20240302_5mgc,0,0,0,0,3.0,3,1,1,3.00,1.00,,1,2024,2023-24,div2,Murray State,murraystatecollege,kyleholzervgrm,Kyle Holzer
+Feb 26,home,Dallas College - Richland,W,9-7,9,7,2,win,20240226_6hg0,0,0,0,0,1.2,2,,,0.00,1.80,1,1,2024,2023-24,div2,Murray State,murraystatecollege,kyleholzervgrm,Kyle Holzer
+Feb 23,home,Arkansas State University - Three Rivers,W,5-2,5,2,3,win,20240223_4aby,0,0,0,0,2.0,2,,,0.00,1.00,,1,2024,2023-24,div2,Murray State,murraystatecollege,kyleholzervgrm,Kyle Holzer
+Feb 21,home,Northeast Texas,W,10-0,10,0,10,win,20240221_x09l,0,0,0,0,0.2,,,,0.00,,,,2024,2023-24,div2,Murray State,murraystatecollege,kyleholzervgrm,Kyle Holzer
+Feb 16,home,Pearl River,L,10-5,10,5,5,win,20240216_orfg,0,0,0,0,1.0,,,,0.00,,,1,2024,2023-24,div2,Murray State,murraystatecollege,kyleholzervgrm,Kyle Holzer
+Feb 12,home,DFW Post Grad,W,8-7,8,7,1,win,20240212_pv3g,0,1,0,0,3.1,1,,,0.00,.30,,5,2024,2023-24,div2,Murray State,murraystatecollege,kyleholzervgrm,Kyle Holzer
+Feb 9,home,North Central Texas,L,4-3,4,3,1,win,20240209_1tpb,0,0,0,0,2.2,4,,,0.00,1.50,,3,2024,2023-24,div2,Murray State,murraystatecollege,kyleholzervgrm,Kyle Holzer
+Feb 2,home,Grayson,W,8-7,8,7,1,win,20240202_jhk2,0,1,0,0,1.0,1,,,0.00,1.00,,,2024,2023-24,div2,Murray State,murraystatecollege,kyleholzervgrm,Kyle Holzer

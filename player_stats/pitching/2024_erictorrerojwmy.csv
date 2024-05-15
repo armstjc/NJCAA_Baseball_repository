@@ -1,14 +1,13 @@
 date,location,opponent,result,score,team_score,opp_score,game_score_diff,game_win_loss,game_id,GS,W,L,SV,IP,H,R,ER,ERA,BB,K,HR,season,njcaa_season,njcaa_division,team,team_id,player_id,player_name
-May 5,home,Hesston,W,13-3,13,3,10,win,20240505_7vuk,1,1,0,0,5.0,3,3,2,3.60,1.00,2,8,2024,2023-24,div2,North Central Missouri,northcentralmissouricollege,erictorrerojwmy,Eric Torrero
-Apr 20,home,East Central (MO),W,13-7,13,7,6,win,20240420_luvf,1,0,0,0,2.0,5,5,5,22.50,3.50,2,2,2024,2023-24,div2,North Central Missouri,northcentralmissouricollege,erictorrerojwmy,Eric Torrero
-Apr 14,home,Moberly Area,W,13-3,13,3,10,win,20240414_860r,1,1,0,0,7.0,8,3,3,3.86,1.29,1,8,2024,2023-24,div2,North Central Missouri,northcentralmissouricollege,erictorrerojwmy,Eric Torrero
-Apr 7,home,Hesston,W,5-1,5,1,4,win,20240407_tcyb,1,0,0,0,6.0,3,1,1,1.50,1.00,3,5,2024,2023-24,div2,North Central Missouri,northcentralmissouricollege,erictorrerojwmy,Eric Torrero
-Mar 29,home,East Central (MO),L,17-7,17,7,10,win,20240329_v12y,1,0,1,0,1.2,3,4,4,21.60,3.60,3,2,2024,2023-24,div2,North Central Missouri,northcentralmissouricollege,erictorrerojwmy,Eric Torrero
-Mar 23,home,Moberly Area,W,12-2,12,2,10,win,20240323_oqu9,1,1,0,0,0.0,0,0,0,0.00,,0,0,2024,2023-24,div2,North Central Missouri,northcentralmissouricollege,erictorrerojwmy,Eric Torrero
-Mar 17,home,Lewis & Clark,L,8-4,8,4,4,win,20240317_ypgg,1,0,1,0,4.0,5,5,4,9.00,1.50,1,5,2024,2023-24,div2,North Central Missouri,northcentralmissouricollege,erictorrerojwmy,Eric Torrero
-Mar 12,home,John Wood,L,11-8,11,8,3,win,20240312_iun4,1,0,1,0,3.1,4,5,5,13.50,2.70,5,2,2024,2023-24,div2,North Central Missouri,northcentralmissouricollege,erictorrerojwmy,Eric Torrero
-Mar 10,home,Ellsworth,L,6-3,6,3,3,win,20240310_455v,0,0,1,0,0.2,1,1,1,13.50,3.00,1,1,2024,2023-24,div2,North Central Missouri,northcentralmissouricollege,erictorrerojwmy,Eric Torrero
-Mar 3,home,Spoon River,L,14-3,14,3,11,win,20240303_oivi,0,0,0,0,0.0,3,4,2,INF,,,,2024,2023-24,div2,North Central Missouri,northcentralmissouricollege,erictorrerojwmy,Eric Torrero
-Mar 2,home,Spoon River,W,18-8,18,8,10,win,20240302_218b,0,1,0,0,1.2,5,3,1,5.40,4.20,2,3,2024,2023-24,div2,North Central Missouri,northcentralmissouricollege,erictorrerojwmy,Eric Torrero
-Feb 24,home,North Arkansas,L,10-7,10,7,3,win,20240224_ufkd,0,0,0,0,1.0,,,,0.00,1.00,1,1,2024,2023-24,div2,North Central Missouri,northcentralmissouricollege,erictorrerojwmy,Eric Torrero
-Feb 17,home,Milwaukee Area Tech,W,9-3,9,3,6,win,20240217_0r4m,0,0,0,0,3.0,1,1,,0.00,.33,,6,2024,2023-24,div2,North Central Missouri,northcentralmissouricollege,erictorrerojwmy,Eric Torrero
+May 9,home,Moberly Area,W,5-3,5,3,2,win,20240509_v0as,1,0,0,0,6.0,7,3,1,1.50,1.50,2,3,2024,2023-24,div2,North Central Missouri,northcentralmissouricollege,erictorrerojwmy,Eric Torrero
+May 4,home,Hesston,W,10-0,10,0,10,win,20240504_8yz7,1,1,0,0,5.0,1,0,0,0.00,.60,2,9,2024,2023-24,div2,North Central Missouri,northcentralmissouricollege,erictorrerojwmy,Eric Torrero
+Apr 19,home,East Central (MO),L,5-3,5,3,2,win,20240419_tlt1,1,0,0,0,5.1,3,1,0,0.00,1.13,3,3,2024,2023-24,div2,North Central Missouri,northcentralmissouricollege,erictorrerojwmy,Eric Torrero
+Apr 13,home,Moberly Area,L,5-4,5,4,1,win,20240413_rg0m,1,0,0,0,6.0,4,4,3,4.50,1.00,2,7,2024,2023-24,div2,North Central Missouri,northcentralmissouricollege,erictorrerojwmy,Eric Torrero
+Apr 6,home,Hesston,L,6-3,6,3,3,win,20240406_mawr,1,0,1,0,3.2,4,3,3,7.36,2.18,4,5,2024,2023-24,div2,North Central Missouri,northcentralmissouricollege,erictorrerojwmy,Eric Torrero
+Mar 28,home,East Central (MO),W,8-4,8,4,4,win,20240328_qq8r,1,1,0,0,7.0,7,4,4,5.14,1.00,0,5,2024,2023-24,div2,North Central Missouri,northcentralmissouricollege,erictorrerojwmy,Eric Torrero
+Mar 23,home,Moberly Area,W,5-0,5,0,5,win,20240323_kiww,1,1,0,0,7.0,4,0,0,0.00,1.00,3,10,2024,2023-24,div2,North Central Missouri,northcentralmissouricollege,erictorrerojwmy,Eric Torrero
+Mar 16,home,Lewis & Clark,W,8-0,8,0,8,win,20240316_w837,1,1,0,0,7.0,4,0,0,0.00,1.00,3,11,2024,2023-24,div2,North Central Missouri,northcentralmissouricollege,erictorrerojwmy,Eric Torrero
+Mar 11,home,Ellsworth,L,14-12,14,12,2,win,20240311_qjed,1,0,0,0,4.0,5,3,3,6.75,2.25,4,5,2024,2023-24,div2,North Central Missouri,northcentralmissouricollege,erictorrerojwmy,Eric Torrero
+Mar 3,home,Spoon River,L,17-8,17,8,9,win,20240303_iqc0,1,0,0,0,2.1,7,5,5,19.29,3.86,2,4,2024,2023-24,div2,North Central Missouri,northcentralmissouricollege,erictorrerojwmy,Eric Torrero
+Feb 25,home,Western Tech,W,4-3,4,3,1,win,20240225_h4pn,1,0,0,0,4.0,2,3,3,6.75,1.00,2,9,2024,2023-24,div2,North Central Missouri,northcentralmissouricollege,erictorrerojwmy,Eric Torrero
+Feb 18,home,Milwaukee Area Tech,W,10-4,10,4,6,win,20240218_swxm,1,0,0,0,3.0,5,3,3,9.00,3.00,4,4,2024,2023-24,div2,North Central Missouri,northcentralmissouricollege,erictorrerojwmy,Eric Torrero

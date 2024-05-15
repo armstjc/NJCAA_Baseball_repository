@@ -1,14 +1,48 @@
 date,location,opponent,result,score,team_score,opp_score,game_score_diff,game_win_loss,game_id,TC,PO,A,E,FPCT,DP,SBA,RCS,RCS_PCT,PB,CI,season,njcaa_season,njcaa_division,team,team_id,player_id,player_name
-Feb 10,home,USC Salkehatchie,W,11-8,11,8,3,win,20240210_jv8s,0,1,0,0,1.0,,,,0.00,,,2024,2023-24,div2,Catawba Valley,catawbavalleycommunitycollege,samuelstowe4i2q,Samuel Stowe
-Feb 17,home,Wake Tech,W,13-12,13,12,1,win,20240217_l9e7,0,0,0,0,2.0,1,1,,0.00,.50,,2024,2023-24,div2,Catawba Valley,catawbavalleycommunitycollege,samuelstowe4i2q,Samuel Stowe
-Feb 24,home,Louisburg,L,11-2,11,2,9,win,20240224_xqp4,0,0,0,0,3.0,10,7,6,18.00,3.33,,2024,2023-24,div2,Catawba Valley,catawbavalleycommunitycollege,samuelstowe4i2q,Samuel Stowe
-Mar 7,home,Spartanburg Methodist,W,3-2,3,2,1,win,20240307_b5y9,1,1,0,0,5.0,6,1,1,1.80,1.60,2,2024,2023-24,div2,Catawba Valley,catawbavalleycommunitycollege,samuelstowe4i2q,Samuel Stowe
-Mar 15,home,Southwest Virginia,W,12-2,12,2,10,win,20240315_z25i,1,1,0,0,6.0,5,2,2,3.00,1.00,1,2024,2023-24,div2,Catawba Valley,catawbavalleycommunitycollege,samuelstowe4i2q,Samuel Stowe
-Mar 22,home,Patrick & Henry,L,7-4,7,4,3,win,20240322_dbe6,0,0,1,0,6.0,8,5,4,6.00,1.67,2,2024,2023-24,div2,Catawba Valley,catawbavalleycommunitycollege,samuelstowe4i2q,Samuel Stowe
-Mar 29,home,Wake Tech,W,16-1,16,1,15,win,20240329_ovbz,1,1,0,0,6.0,6,1,1,1.50,1.50,3,2024,2023-24,div2,Catawba Valley,catawbavalleycommunitycollege,samuelstowe4i2q,Samuel Stowe
-Apr 6,home,Louisburg,L,12-8,12,8,4,win,20240406_9aaa,1,0,1,0,6.0,6,7,6,9.00,1.67,4,2024,2023-24,div2,Catawba Valley,catawbavalleycommunitycollege,samuelstowe4i2q,Samuel Stowe
-Apr 13,home,Guilford Tech,L,11-6,11,6,5,win,20240413_7utf,1,0,1,0,3.2,9,9,8,19.64,3.00,2,2024,2023-24,div2,Catawba Valley,catawbavalleycommunitycollege,samuelstowe4i2q,Samuel Stowe
-Apr 17,home,Cleveland,W,8-2,8,2,6,win,20240417_gpbo,1,1,0,0,5.0,4,1,1,1.80,1.00,1,2024,2023-24,div2,Catawba Valley,catawbavalleycommunitycollege,samuelstowe4i2q,Samuel Stowe
-Apr 24,home,Cleveland,W,3-2,3,2,1,win,20240424_eyqx,1,1,0,0,5.2,5,2,2,3.18,1.24,2,2024,2023-24,div2,Catawba Valley,catawbavalleycommunitycollege,samuelstowe4i2q,Samuel Stowe
-Apr 30,home,Cleveland,W,4-0,4,0,4,win,20240430_s1p2,1,1,0,0,6.2,1,0,0,0.00,.45,2,2024,2023-24,div2,Catawba Valley,catawbavalleycommunitycollege,samuelstowe4i2q,Samuel Stowe
-May 9,home,Brunswick,L,6-2,6,2,4,win,20240509_n2qi,1,0,1,0,5.0,8,6,6,10.80,1.80,1,2024,2023-24,div2,Catawba Valley,catawbavalleycommunitycollege,samuelstowe4i2q,Samuel Stowe
+Feb 3,home,USC Lancaster,W,11-9,11,9,2,win,20240203_axf5,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Catawba Valley,catawbavalleycommunitycollege,samuelstowe4i2q,Samuel Stowe
+Feb 4,home,USC Lancaster,L,15-9,15,9,6,win,20240204_sx1z,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Catawba Valley,catawbavalleycommunitycollege,samuelstowe4i2q,Samuel Stowe
+Feb 7,home,Spartanburg Methodist,L,14-4,14,4,10,win,20240207_rh69,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Catawba Valley,catawbavalleycommunitycollege,samuelstowe4i2q,Samuel Stowe
+Feb 10,home,USC Salkehatchie,W,11-8,11,8,3,win,20240210_jv8s,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Catawba Valley,catawbavalleycommunitycollege,samuelstowe4i2q,Samuel Stowe
+Feb 11,home,USC Salkehatchie,L,4-2,4,2,2,win,20240211_baj5,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Catawba Valley,catawbavalleycommunitycollege,samuelstowe4i2q,Samuel Stowe
+Feb 14,home,Surry,L,10-2,10,2,8,win,20240214_j2dp,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Catawba Valley,catawbavalleycommunitycollege,samuelstowe4i2q,Samuel Stowe
+Feb 17,home,Wake Tech,W,13-12,13,12,1,win,20240217_l9e7,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Catawba Valley,catawbavalleycommunitycollege,samuelstowe4i2q,Samuel Stowe
+Feb 17,home,Wake Tech,W,13-10,13,10,3,win,20240217_jyr6,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Catawba Valley,catawbavalleycommunitycollege,samuelstowe4i2q,Samuel Stowe
+Feb 18,home,Wake Tech,L,19-5,19,5,14,win,20240218_per3,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Catawba Valley,catawbavalleycommunitycollege,samuelstowe4i2q,Samuel Stowe
+Feb 21,home,USC Sumter,L,13-6,13,6,7,win,20240221_t62c,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Catawba Valley,catawbavalleycommunitycollege,samuelstowe4i2q,Samuel Stowe
+Feb 24,home,Louisburg,L,11-2,11,2,9,win,20240224_xqp4,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Catawba Valley,catawbavalleycommunitycollege,samuelstowe4i2q,Samuel Stowe
+Feb 24,home,Louisburg,L,5-1,5,1,4,win,20240224_mbss,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Catawba Valley,catawbavalleycommunitycollege,samuelstowe4i2q,Samuel Stowe
+Feb 25,home,Louisburg,L,13-5,13,5,8,win,20240225_xma0,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Catawba Valley,catawbavalleycommunitycollege,samuelstowe4i2q,Samuel Stowe
+Feb 28,home,Gaston College,L,10-6,10,6,4,win,20240228_v0qt,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Catawba Valley,catawbavalleycommunitycollege,samuelstowe4i2q,Samuel Stowe
+Mar 7,home,Spartanburg Methodist,W,3-2,3,2,1,win,20240307_b5y9,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Catawba Valley,catawbavalleycommunitycollege,samuelstowe4i2q,Samuel Stowe
+Mar 7,home,Spartanburg Methodist,L,8-3,8,3,5,win,20240307_3mo3,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Catawba Valley,catawbavalleycommunitycollege,samuelstowe4i2q,Samuel Stowe
+Mar 12,home,MontreJV,W,12-6,12,6,6,win,20240312_8xts,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Catawba Valley,catawbavalleycommunitycollege,samuelstowe4i2q,Samuel Stowe
+Mar 13,home,Caldwell Tech,W,10-4,10,4,6,win,20240313_9pji,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Catawba Valley,catawbavalleycommunitycollege,samuelstowe4i2q,Samuel Stowe
+Mar 15,home,Southwest Virginia,W,12-2,12,2,10,win,20240315_z25i,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Catawba Valley,catawbavalleycommunitycollege,samuelstowe4i2q,Samuel Stowe
+Mar 16,home,Southwest Virginia,W,11-2,11,2,9,win,20240316_wy7x,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Catawba Valley,catawbavalleycommunitycollege,samuelstowe4i2q,Samuel Stowe
+Mar 16,home,Southwest Virginia,W,23-1,23,1,22,win,20240316_s4py,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Catawba Valley,catawbavalleycommunitycollege,samuelstowe4i2q,Samuel Stowe
+Mar 19,home,Gaston College,L,19-8,19,8,11,win,20240319_xkew,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Catawba Valley,catawbavalleycommunitycollege,samuelstowe4i2q,Samuel Stowe
+Mar 20,home,Caldwell Tech,L,13-10,13,10,3,win,20240320_3eq0,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Catawba Valley,catawbavalleycommunitycollege,samuelstowe4i2q,Samuel Stowe
+Mar 22,home,Patrick & Henry,L,7-4,7,4,3,win,20240322_dbe6,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Catawba Valley,catawbavalleycommunitycollege,samuelstowe4i2q,Samuel Stowe
+Mar 24,home,Patrick & Henry,L,4-3,4,3,1,win,20240324_48ck,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Catawba Valley,catawbavalleycommunitycollege,samuelstowe4i2q,Samuel Stowe
+Mar 24,home,Patrick & Henry,L,5-1,5,1,4,win,20240324_2dww,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Catawba Valley,catawbavalleycommunitycollege,samuelstowe4i2q,Samuel Stowe
+Mar 27,home,Cleveland,W,13-12,13,12,1,win,20240327_mx3y,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Catawba Valley,catawbavalleycommunitycollege,samuelstowe4i2q,Samuel Stowe
+Mar 29,home,Wake Tech,W,16-1,16,1,15,win,20240329_ovbz,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Catawba Valley,catawbavalleycommunitycollege,samuelstowe4i2q,Samuel Stowe
+Mar 30,home,Wake Tech,W,15-12,15,12,3,win,20240330_q1dn,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Catawba Valley,catawbavalleycommunitycollege,samuelstowe4i2q,Samuel Stowe
+Mar 30,home,Wake Tech,L,13-2,13,2,11,win,20240330_buj2,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Catawba Valley,catawbavalleycommunitycollege,samuelstowe4i2q,Samuel Stowe
+Apr 3,home,Cleveland,L,12-8,12,8,4,win,20240403_k356,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Catawba Valley,catawbavalleycommunitycollege,samuelstowe4i2q,Samuel Stowe
+Apr 6,home,Louisburg,L,12-8,12,8,4,win,20240406_9aaa,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Catawba Valley,catawbavalleycommunitycollege,samuelstowe4i2q,Samuel Stowe
+Apr 6,home,Louisburg,W,8-6,8,6,2,win,20240406_2844,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Catawba Valley,catawbavalleycommunitycollege,samuelstowe4i2q,Samuel Stowe
+Apr 7,home,Louisburg,W,15-7,15,7,8,win,20240407_508g,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Catawba Valley,catawbavalleycommunitycollege,samuelstowe4i2q,Samuel Stowe
+Apr 10,home,Cleveland,L,14-7,14,7,7,win,20240410_5fsi,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Catawba Valley,catawbavalleycommunitycollege,samuelstowe4i2q,Samuel Stowe
+Apr 13,home,Guilford Tech,L,11-6,11,6,5,win,20240413_7utf,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Catawba Valley,catawbavalleycommunitycollege,samuelstowe4i2q,Samuel Stowe
+Apr 13,home,Guilford Tech,L,7-2,7,2,5,win,20240413_89wn,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Catawba Valley,catawbavalleycommunitycollege,samuelstowe4i2q,Samuel Stowe
+Apr 14,home,Guilford Tech,W,9-0,9,0,9,win,20240414_ksyk,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Catawba Valley,catawbavalleycommunitycollege,samuelstowe4i2q,Samuel Stowe
+Apr 17,home,Cleveland,W,8-2,8,2,6,win,20240417_gpbo,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Catawba Valley,catawbavalleycommunitycollege,samuelstowe4i2q,Samuel Stowe
+Apr 18,home,Caldwell Tech,W,10-6,10,6,4,win,20240418_uy9w,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Catawba Valley,catawbavalleycommunitycollege,samuelstowe4i2q,Samuel Stowe
+Apr 27,home,Southwest Virginia,W,20-2,20,2,18,win,20240427_hewm,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Catawba Valley,catawbavalleycommunitycollege,samuelstowe4i2q,Samuel Stowe
+Apr 28,home,Southwest Virginia,W,16-1,16,1,15,win,20240428_kuo2,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Catawba Valley,catawbavalleycommunitycollege,samuelstowe4i2q,Samuel Stowe
+Apr 30,home,Cleveland,W,4-0,4,0,4,win,20240430_s1p2,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Catawba Valley,catawbavalleycommunitycollege,samuelstowe4i2q,Samuel Stowe
+May 9,home,Brunswick,L,6-2,6,2,4,win,20240509_n2qi,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Catawba Valley,catawbavalleycommunitycollege,samuelstowe4i2q,Samuel Stowe
+May 10,home,Fayetteville Tech,W,13-3,13,3,10,win,20240510_ufk4,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Catawba Valley,catawbavalleycommunitycollege,samuelstowe4i2q,Samuel Stowe
+May 11,home,Cleveland,W,8-4,8,4,4,win,20240511_3aod,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Catawba Valley,catawbavalleycommunitycollege,samuelstowe4i2q,Samuel Stowe
+May 11,home,Brunswick,L,13-2,13,2,11,win,20240511_9hz0,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Catawba Valley,catawbavalleycommunitycollege,samuelstowe4i2q,Samuel Stowe

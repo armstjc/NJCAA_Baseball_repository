@@ -1,15 +1,21 @@
 date,location,opponent,result,score,team_score,opp_score,game_score_diff,game_win_loss,game_id,TC,PO,A,E,FPCT,DP,SBA,RCS,RCS_PCT,PB,CI,season,njcaa_season,njcaa_division,team,team_id,player_id,player_name
-Jan 26,home,Utah State Eastern,W,8-2,8,2,6,win,20240126_fpe5,0,0,0,0,1.1,2,2,2,13.50,3.75,3,2024,2023-24,div2,GateWay (AZ),gatewaycommunitycollegeaz,wyattbauer5fpq,Wyatt Bauer
-Feb 4,home,Salt Lake,L,9-1,9,1,8,win,20240204_uvyj,0,0,0,0,2.2,4,3,3,10.13,1.50,,2024,2023-24,div2,GateWay (AZ),gatewaycommunitycollegeaz,wyattbauer5fpq,Wyatt Bauer
-Feb 15,home,Scottsdale,L,9-7,9,7,2,win,20240215_xn26,0,0,0,0,4.0,6,2,2,4.50,1.75,1,2024,2023-24,div2,GateWay (AZ),gatewaycommunitycollegeaz,wyattbauer5fpq,Wyatt Bauer
-Feb 21,home,Chandler-Gilbert,L,10-3,10,3,7,win,20240221_bdct,0,0,1,0,0.2,2,5,5,67.50,6.00,2,2024,2023-24,div2,GateWay (AZ),gatewaycommunitycollegeaz,wyattbauer5fpq,Wyatt Bauer
-Feb 24,home,Phoenix,W,5-1,5,1,4,win,20240224_7tc3,0,0,0,0,1.0,,,,0.00,1.00,1,2024,2023-24,div2,GateWay (AZ),gatewaycommunitycollegeaz,wyattbauer5fpq,Wyatt Bauer
-Feb 28,home,Mesa,W,7-4,7,4,3,win,20240228_4u03,0,0,0,1,3.0,2,1,1,3.00,.67,,2024,2023-24,div2,GateWay (AZ),gatewaycommunitycollegeaz,wyattbauer5fpq,Wyatt Bauer
-Mar 6,home,Central Arizona,L,5-1,5,1,4,win,20240306_m74i,0,0,0,0,1.1,2,,,0.00,1.50,,2024,2023-24,div2,GateWay (AZ),gatewaycommunitycollegeaz,wyattbauer5fpq,Wyatt Bauer
-Mar 9,home,Cochise,W,7-6,7,6,1,win,20240309_lkek,0,0,0,0,0.1,2,3,3,81.00,9.00,1,2024,2023-24,div2,GateWay (AZ),gatewaycommunitycollegeaz,wyattbauer5fpq,Wyatt Bauer
-Mar 21,home,Langley Blaze,L,5-4,5,4,1,win,20240321_8krx,0,0,0,0,3.2,2,1,1,2.45,.82,1,2024,2023-24,div2,GateWay (AZ),gatewaycommunitycollegeaz,wyattbauer5fpq,Wyatt Bauer
-Mar 26,home,South Mountain,L,12-9,12,9,3,win,20240326_s4b9,0,0,0,0,3.0,1,,,0.00,.33,,2024,2023-24,div2,GateWay (AZ),gatewaycommunitycollegeaz,wyattbauer5fpq,Wyatt Bauer
-Apr 3,home,Arizona Western,W,3-2,3,2,1,win,20240403_2n7s,0,1,0,0,2.1,1,,,0.00,.86,1,2024,2023-24,div2,GateWay (AZ),gatewaycommunitycollegeaz,wyattbauer5fpq,Wyatt Bauer
-Apr 6,home,Scottsdale,L,4-1,4,1,3,win,20240406_3xd5,0,0,1,0,0.2,1,2,2,27.00,3.00,1,2024,2023-24,div2,GateWay (AZ),gatewaycommunitycollegeaz,wyattbauer5fpq,Wyatt Bauer
-Apr 26,home,Central Arizona,L,10-3,10,3,7,win,20240426_obe1,0,0,0,0,1.0,,,,0.00,2.00,2,2024,2023-24,div2,GateWay (AZ),gatewaycommunitycollegeaz,wyattbauer5fpq,Wyatt Bauer
-May 3,home,Mesa,W,11-1,11,1,10,win,20240503_9mw5,0,0,0,0,1.0,1,,,0.00,2.00,1,2024,2023-24,div2,GateWay (AZ),gatewaycommunitycollegeaz,wyattbauer5fpq,Wyatt Bauer
+Jan 26,home,Utah State Eastern,L,14-3,14,3,11,win,20240126_j9ua,0,0,0,0,0.2,,,,0.00,,,2024,2023-24,div2,GateWay (AZ),gatewaycommunitycollegeaz,wyattbauer5fpq,Wyatt Bauer
+Jan 27,home,Southern Nevada,L,10-5,10,5,5,win,20240127_1nyx,0,0,0,0,0.2,1,1,1,13.50,3.00,1,2024,2023-24,div2,GateWay (AZ),gatewaycommunitycollegeaz,wyattbauer5fpq,Wyatt Bauer
+Feb 3,home,Trinidad State,L,8-3,8,3,5,win,20240203_u8og,0,0,0,0,3.0,2,1,1,3.00,1.00,1,2024,2023-24,div2,GateWay (AZ),gatewaycommunitycollegeaz,wyattbauer5fpq,Wyatt Bauer
+Feb 13,home,Paradise Valley,L,9-5,9,5,4,win,20240213_uugm,0,0,0,0,1.0,3,4,4,36.00,3.00,,2024,2023-24,div2,GateWay (AZ),gatewaycommunitycollegeaz,wyattbauer5fpq,Wyatt Bauer
+Feb 16,home,Glendale,L,7-3,7,3,4,win,20240216_5nce,0,0,0,0,2.0,3,1,,0.00,1.50,,2024,2023-24,div2,GateWay (AZ),gatewaycommunitycollegeaz,wyattbauer5fpq,Wyatt Bauer
+Feb 21,home,Chandler-Gilbert,L,10-3,10,3,7,win,20240221_bdct,0,0,0,0,1.0,5,3,3,27.00,5.00,,2024,2023-24,div2,GateWay (AZ),gatewaycommunitycollegeaz,wyattbauer5fpq,Wyatt Bauer
+Feb 27,home,Mesa,L,11-9,11,9,2,win,20240227_xj9b,0,0,0,0,2.0,3,,,0.00,2.00,1,2024,2023-24,div2,GateWay (AZ),gatewaycommunitycollegeaz,wyattbauer5fpq,Wyatt Bauer
+Mar 9,home,Cochise,L,9-1,9,1,8,win,20240309_qtjx,0,0,0,0,0.1,1,1,1,27.00,12.00,3,2024,2023-24,div2,GateWay (AZ),gatewaycommunitycollegeaz,wyattbauer5fpq,Wyatt Bauer
+Mar 14,home,ACU JV,W,7-2,7,2,5,win,20240314_vztv,0,1,0,0,4.0,3,1,1,2.25,1.25,2,2024,2023-24,div2,GateWay (AZ),gatewaycommunitycollegeaz,wyattbauer5fpq,Wyatt Bauer
+Mar 19,home,Eastern Arizona,L,8-5,8,5,3,win,20240319_skg9,0,0,0,0,2.2,2,,,0.00,.75,,2024,2023-24,div2,GateWay (AZ),gatewaycommunitycollegeaz,wyattbauer5fpq,Wyatt Bauer
+Mar 26,home,South Mountain,L,12-9,12,9,3,win,20240326_s4b9,0,0,0,0,4.0,,1,,0.00,.50,2,2024,2023-24,div2,GateWay (AZ),gatewaycommunitycollegeaz,wyattbauer5fpq,Wyatt Bauer
+Mar 30,home,Yavapai,L,12-11,12,11,1,win,20240330_lil0,0,0,1,0,1.2,4,6,3,16.20,3.60,2,2024,2023-24,div2,GateWay (AZ),gatewaycommunitycollegeaz,wyattbauer5fpq,Wyatt Bauer
+Apr 5,home,Scottsdale,W,9-6,9,6,3,win,20240405_1utk,0,0,0,1,1.0,1,,,0.00,1.00,,2024,2023-24,div2,GateWay (AZ),gatewaycommunitycollegeaz,wyattbauer5fpq,Wyatt Bauer
+Apr 10,home,Paradise Valley,L,8-1,8,1,7,win,20240410_5fgn,0,0,0,0,1.2,4,3,2,10.80,3.00,1,2024,2023-24,div2,GateWay (AZ),gatewaycommunitycollegeaz,wyattbauer5fpq,Wyatt Bauer
+Apr 16,home,Chandler-Gilbert,W,4-3,4,3,1,win,20240416_84dv,0,1,0,0,2.2,1,,,0.00,.75,1,2024,2023-24,div2,GateWay (AZ),gatewaycommunitycollegeaz,wyattbauer5fpq,Wyatt Bauer
+Apr 20,home,Phoenix,W,8-1,8,1,7,win,20240420_12me,0,0,0,0,1.1,1,,,0.00,.75,,2024,2023-24,div2,GateWay (AZ),gatewaycommunitycollegeaz,wyattbauer5fpq,Wyatt Bauer
+Apr 24,home,Mesa,W,15-11,15,11,4,win,20240424_lbht,0,1,0,0,3.2,4,1,1,2.45,1.09,,2024,2023-24,div2,GateWay (AZ),gatewaycommunitycollegeaz,wyattbauer5fpq,Wyatt Bauer
+Apr 26,home,Central Arizona,L,10-3,10,3,7,win,20240426_obe1,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,GateWay (AZ),gatewaycommunitycollegeaz,wyattbauer5fpq,Wyatt Bauer
+May 10,home,Chandler-Gilbert,W,7-3,7,3,4,win,20240510_2tf8,0,0,0,0,1.0,,,,0.00,,,2024,2023-24,div2,GateWay (AZ),gatewaycommunitycollegeaz,wyattbauer5fpq,Wyatt Bauer
+May 11,home,Chandler-Gilbert,W,15-14,15,14,1,win,20240511_d5md,0,0,0,0,2.1,4,5,2,7.71,3.00,3,2024,2023-24,div2,GateWay (AZ),gatewaycommunitycollegeaz,wyattbauer5fpq,Wyatt Bauer

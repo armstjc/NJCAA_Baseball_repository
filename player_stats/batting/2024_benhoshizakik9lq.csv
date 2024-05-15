@@ -1,8 +1,33 @@
 date,location,opponent,result,score,team_score,opp_score,game_score_diff,game_win_loss,game_id,AB,R,H,2B,3B,HR,RBI,BB,K,SB,CS,HBP,SF,SH,TB,XBH,HDP,GO,FO,GO/FO,PA,season,njcaa_season,njcaa_division,team,team_id,player_id,player_name
-Jan 30,home,Scottsdale Post Grad,W,13-3,13,3,10,win,20240130_c3zw,0,0,0,,,,0,,,,,,,,0,0,,,,,0,2024,2023-24,div2,Chandler-Gilbert,chandlergilbertcommunitycollege,benhoshizakik9lq,Ben Hoshizaki
-Feb 14,home,Phoenix,W,20-7,20,7,13,win,20240214_sa13,0,0,0,,,,0,,,,,,,,0,0,,,,,0,2024,2023-24,div2,Chandler-Gilbert,chandlergilbertcommunitycollege,benhoshizakik9lq,Ben Hoshizaki
-Feb 21,home,GateWay (AZ),W,10-3,10,3,7,win,20240221_bdct,0,0,0,,,,0,,,,,,,,0,0,,,,,0,2024,2023-24,div2,Chandler-Gilbert,chandlergilbertcommunitycollege,benhoshizakik9lq,Ben Hoshizaki
-Feb 24,home,Scottsdale,W,7-3,7,3,4,win,20240224_nzw9,0,0,0,,,,0,,,,,,,,0,0,,,,,0,2024,2023-24,div2,Chandler-Gilbert,chandlergilbertcommunitycollege,benhoshizakik9lq,Ben Hoshizaki
-Feb 28,home,Paradise Valley,W,6-4,6,4,2,win,20240228_c9hc,0,0,0,,,,0,,,,,,,,0,0,,,,,0,2024,2023-24,div2,Chandler-Gilbert,chandlergilbertcommunitycollege,benhoshizakik9lq,Ben Hoshizaki
-Mar 5,home,Arizona Western,W,12-2,12,2,10,win,20240305_uclc,0,0,0,,,,0,,,,,,,,0,0,,,,,0,2024,2023-24,div2,Chandler-Gilbert,chandlergilbertcommunitycollege,benhoshizakik9lq,Ben Hoshizaki
-Mar 19,home,Cochise,W,11-7,11,7,4,win,20240319_hept,0,0,0,,,,0,,,,,,,,0,0,,,,,0,2024,2023-24,div2,Chandler-Gilbert,chandlergilbertcommunitycollege,benhoshizakik9lq,Ben Hoshizaki
+Jan 27,home,GCU Club,W,10-0,10,0,10,win,20240127_cav7,3,1,1,,,,1,1,,1,,,,,1,0,,,,,4,2024,2023-24,div2,Chandler-Gilbert,chandlergilbertcommunitycollege,benhoshizakik9lq,Ben Hoshizaki
+Jan 30,home,Scottsdale Post Grad,W,15-2,15,2,13,win,20240130_jxym,2,3,2,,1,,3,,,1,,1,,,4,1,,,,,3,2024,2023-24,div2,Chandler-Gilbert,chandlergilbertcommunitycollege,benhoshizakik9lq,Ben Hoshizaki
+Jan 30,home,Scottsdale Post Grad,W,13-3,13,3,10,win,20240130_c3zw,1,3,1,1,,,0,1,,3,,1,,,2,1,,,,,3,2024,2023-24,div2,Chandler-Gilbert,chandlergilbertcommunitycollege,benhoshizakik9lq,Ben Hoshizaki
+Feb 14,home,Phoenix,W,20-7,20,7,13,win,20240214_sa13,6,3,2,,,,1,1,,5,,,,,2,0,,,,,7,2024,2023-24,div2,Chandler-Gilbert,chandlergilbertcommunitycollege,benhoshizakik9lq,Ben Hoshizaki
+Feb 15,home,Thompson Rivers,W,12-10,12,10,2,win,20240215_9tsi,1,1,1,,,,0,,,1,,,,,1,0,,,,,1,2024,2023-24,div2,Chandler-Gilbert,chandlergilbertcommunitycollege,benhoshizakik9lq,Ben Hoshizaki
+Feb 20,home,GateWay (AZ),W,10-0,10,0,10,win,20240220_h9fq,4,2,3,,,,3,,,1,1,,1,,3,0,,,,,5,2024,2023-24,div2,Chandler-Gilbert,chandlergilbertcommunitycollege,benhoshizakik9lq,Ben Hoshizaki
+Feb 21,home,GateWay (AZ),W,10-3,10,3,7,win,20240221_bdct,6,1,2,,,,0,,,,,,,,2,0,,,,,6,2024,2023-24,div2,Chandler-Gilbert,chandlergilbertcommunitycollege,benhoshizakik9lq,Ben Hoshizaki
+Feb 24,home,Scottsdale,W,7-3,7,3,4,win,20240224_nzw9,4,0,0,,,,0,1,1,,,,,,0,0,,,,,5,2024,2023-24,div2,Chandler-Gilbert,chandlergilbertcommunitycollege,benhoshizakik9lq,Ben Hoshizaki
+Feb 27,home,Paradise Valley,W,9-8,9,8,1,win,20240227_5hbl,5,1,3,,,,0,,,1,,,,,3,0,,,,,5,2024,2023-24,div2,Chandler-Gilbert,chandlergilbertcommunitycollege,benhoshizakik9lq,Ben Hoshizaki
+Feb 28,home,Paradise Valley,W,6-4,6,4,2,win,20240228_c9hc,5,0,0,,,,0,,1,,,,,,0,0,,,,,5,2024,2023-24,div2,Chandler-Gilbert,chandlergilbertcommunitycollege,benhoshizakik9lq,Ben Hoshizaki
+Mar 2,home,Glendale,W,12-9,12,9,3,win,20240302_24s6,4,1,2,,,,2,,1,,,1,,,2,0,,,,,5,2024,2023-24,div2,Chandler-Gilbert,chandlergilbertcommunitycollege,benhoshizakik9lq,Ben Hoshizaki
+Mar 5,home,Arizona Western,W,12-2,12,2,10,win,20240305_uclc,3,1,1,1,,,1,,,,,,,2,2,1,,,,,5,2024,2023-24,div2,Chandler-Gilbert,chandlergilbertcommunitycollege,benhoshizakik9lq,Ben Hoshizaki
+Mar 11,home,Okotoks Dawgs,W,6-4,6,4,2,win,20240311_8f8x,3,0,0,,,,0,1,,1,,,,,0,0,,,,,4,2024,2023-24,div2,Chandler-Gilbert,chandlergilbertcommunitycollege,benhoshizakik9lq,Ben Hoshizaki
+Mar 12,home,Okotoks Dawgs,W,9-6,9,6,3,win,20240312_rag7,1,1,1,,,,0,,,,,,,,1,0,,,,,1,2024,2023-24,div2,Chandler-Gilbert,chandlergilbertcommunitycollege,benhoshizakik9lq,Ben Hoshizaki
+Mar 12,home,Colorado State Club,W,10-0,10,0,10,win,20240312_497h,2,0,0,,,,0,2,,,1,,,,0,0,,,,,4,2024,2023-24,div2,Chandler-Gilbert,chandlergilbertcommunitycollege,benhoshizakik9lq,Ben Hoshizaki
+Mar 13,home,Okotoks Dawgs,W,15-9,15,9,6,win,20240313_pfcc,3,3,1,,,,0,2,,3,,,,,1,0,,,,,5,2024,2023-24,div2,Chandler-Gilbert,chandlergilbertcommunitycollege,benhoshizakik9lq,Ben Hoshizaki
+Mar 19,home,Cochise,W,3-0,3,0,3,win,20240319_cjgu,3,0,0,,,,0,,1,,,,,,0,0,,,,,3,2024,2023-24,div2,Chandler-Gilbert,chandlergilbertcommunitycollege,benhoshizakik9lq,Ben Hoshizaki
+Mar 19,home,Cochise,W,11-7,11,7,4,win,20240319_hept,4,3,2,,,,0,1,,,1,1,,,2,0,,,,,6,2024,2023-24,div2,Chandler-Gilbert,chandlergilbertcommunitycollege,benhoshizakik9lq,Ben Hoshizaki
+Mar 21,home,Langley Blaze,W,12-11,12,11,1,win,20240321_jtsd,1,1,1,1,,,0,,,1,,,,,2,1,,,,,1,2024,2023-24,div2,Chandler-Gilbert,chandlergilbertcommunitycollege,benhoshizakik9lq,Ben Hoshizaki
+Mar 26,home,Pima,W,9-6,9,6,3,win,20240326_peo7,5,2,3,,,,0,,1,1,,,,,3,0,,,,,5,2024,2023-24,div2,Chandler-Gilbert,chandlergilbertcommunitycollege,benhoshizakik9lq,Ben Hoshizaki
+Mar 29,home,South Mountain,W,7-6,7,6,1,win,20240329_p0bo,4,2,0,,,,0,1,,2,,,,,0,0,,,,,5,2024,2023-24,div2,Chandler-Gilbert,chandlergilbertcommunitycollege,benhoshizakik9lq,Ben Hoshizaki
+Apr 3,home,Yavapai,W,4-3,4,3,1,win,20240403_s0r9,1,0,0,,,,0,1,,1,,,,2,0,0,,,,,4,2024,2023-24,div2,Chandler-Gilbert,chandlergilbertcommunitycollege,benhoshizakik9lq,Ben Hoshizaki
+Apr 3,home,Yavapai,W,8-6,8,6,2,win,20240403_vjai,5,2,2,1,,,1,,,2,,,,,3,1,,,,,5,2024,2023-24,div2,Chandler-Gilbert,chandlergilbertcommunitycollege,benhoshizakik9lq,Ben Hoshizaki
+Apr 9,home,Phoenix,W,8-3,8,3,5,win,20240409_631v,5,0,0,,,,2,1,1,,,,,,0,0,,,,,6,2024,2023-24,div2,Chandler-Gilbert,chandlergilbertcommunitycollege,benhoshizakik9lq,Ben Hoshizaki
+Apr 10,home,Phoenix,W,8-5,8,5,3,win,20240410_52u4,4,1,1,,,,0,1,1,,,,,,1,0,,,,,5,2024,2023-24,div2,Chandler-Gilbert,chandlergilbertcommunitycollege,benhoshizakik9lq,Ben Hoshizaki
+Apr 13,home,Mesa,W,17-6,17,6,11,win,20240413_h5zp,4,4,3,,1,,2,,,,,1,1,,5,1,,,,,6,2024,2023-24,div2,Chandler-Gilbert,chandlergilbertcommunitycollege,benhoshizakik9lq,Ben Hoshizaki
+Apr 18,home,Arizona Christian University JV,W,12-11,12,11,1,win,20240418_y0ol,0,0,0,,,,1,,,,,1,,,0,0,,,,,1,2024,2023-24,div2,Chandler-Gilbert,chandlergilbertcommunitycollege,benhoshizakik9lq,Ben Hoshizaki
+Apr 26,home,Glendale,W,19-5,19,5,14,win,20240426_81r6,4,1,2,,,,2,,,,,,,,2,0,,,,,4,2024,2023-24,div2,Chandler-Gilbert,chandlergilbertcommunitycollege,benhoshizakik9lq,Ben Hoshizaki
+Apr 27,home,Glendale,W,9-6,9,6,3,win,20240427_wjgc,4,3,3,,1,,1,1,,3,,,,,5,1,,,,,5,2024,2023-24,div2,Chandler-Gilbert,chandlergilbertcommunitycollege,benhoshizakik9lq,Ben Hoshizaki
+May 2,home,Paradise Valley,W,11-8,11,8,3,win,20240502_4r22,5,0,2,,,,1,,,2,,,1,,2,0,,,,,6,2024,2023-24,div2,Chandler-Gilbert,chandlergilbertcommunitycollege,benhoshizakik9lq,Ben Hoshizaki
+May 4,home,Paradise Valley,W,12-10,12,10,2,win,20240504_k960,4,2,3,,1,,1,1,,1,,,,1,5,1,,,,,6,2024,2023-24,div2,Chandler-Gilbert,chandlergilbertcommunitycollege,benhoshizakik9lq,Ben Hoshizaki
+May 9,home,GateWay (AZ),W,13-3,13,3,10,win,20240509_za2n,3,3,2,,,,2,1,,1,,,,1,2,0,,,,,5,2024,2023-24,div2,Chandler-Gilbert,chandlergilbertcommunitycollege,benhoshizakik9lq,Ben Hoshizaki

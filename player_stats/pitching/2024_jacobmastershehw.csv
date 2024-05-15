@@ -1,11 +1,13 @@
 date,location,opponent,result,score,team_score,opp_score,game_score_diff,game_win_loss,game_id,GS,W,L,SV,IP,H,R,ER,ERA,BB,K,HR,season,njcaa_season,njcaa_division,team,team_id,player_id,player_name
-Mar 27,home,Central Baptist College,W,7-2,7,2,5,win,20240327_1jiu,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div2,Southeast Arkansas College,southeastarkansascollege,jacobmastershehw,Jacob Masters
-Mar 14,home,Bellhaven University,W,1-0,1,0,1,win,20240314_bf7a,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div2,Southeast Arkansas College,southeastarkansascollege,jacobmastershehw,Jacob Masters
-Mar 13,home,Lyon College JV,W,15-7,15,7,8,win,20240313_odkr,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div2,Southeast Arkansas College,southeastarkansascollege,jacobmastershehw,Jacob Masters
-Mar 2,home,John Melvin College,W,8-5,8,5,3,win,20240302_jst2,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div2,Southeast Arkansas College,southeastarkansascollege,jacobmastershehw,Jacob Masters
-Mar 2,home,John Melvin College,W,12-4,12,4,8,win,20240302_oopa,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div2,Southeast Arkansas College,southeastarkansascollege,jacobmastershehw,Jacob Masters
-Feb 28,home,Lyon College JV,W,13-8,13,8,5,win,20240228_yw8w,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div2,Southeast Arkansas College,southeastarkansascollege,jacobmastershehw,Jacob Masters
-Feb 23,home,Northern Oklahoma Tonkawa,W,3-2,3,2,1,win,20240223_wfwn,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div2,Southeast Arkansas College,southeastarkansascollege,jacobmastershehw,Jacob Masters
-Feb 21,home,Lyon College JV,W,13-7,13,7,6,win,20240221_118r,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div2,Southeast Arkansas College,southeastarkansascollege,jacobmastershehw,Jacob Masters
-Feb 2,home,Northern Oklahoma Enid,L,13-4,13,4,9,win,20240202_2369,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div2,Southeast Arkansas College,southeastarkansascollege,jacobmastershehw,Jacob Masters
-Feb 1,home,Northern Oklahoma Enid,L,3-1,3,1,2,win,20240201_6fh7,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div2,Southeast Arkansas College,southeastarkansascollege,jacobmastershehw,Jacob Masters
+Apr 22,home,Central Baptist College JV,W,20-3,20,3,17,win,20240422_pduc,0,0,0,0,1.0,1,,,0.00,1.00,,1,2024,2023-24,div2,Southeast Arkansas College,southeastarkansascollege,jacobmastershehw,Jacob Masters
+Apr 13,home,LSU Eunice,L,10-1,10,1,9,win,20240413_mbp4,0,0,0,0,0.0,,2,2,INF,,2,,2024,2023-24,div2,Southeast Arkansas College,southeastarkansascollege,jacobmastershehw,Jacob Masters
+Apr 8,home,National Park College,L,8-6,8,6,2,win,20240408_0m89,0,0,0,0,0.1,,1,1,27.00,3.00,1,1,2024,2023-24,div2,Southeast Arkansas College,southeastarkansascollege,jacobmastershehw,Jacob Masters
+Apr 5,home,North Arkansas,L,14-9,14,9,5,win,20240405_z1g5,0,0,0,0,1.0,,,,0.00,1.00,1,1,2024,2023-24,div2,Southeast Arkansas College,southeastarkansascollege,jacobmastershehw,Jacob Masters
+Mar 30,home,LSU Eunice,L,10-0,10,0,10,win,20240330_l8sz,0,0,0,0,0.2,1,1,,0.00,3.00,1,1,2024,2023-24,div2,Southeast Arkansas College,southeastarkansascollege,jacobmastershehw,Jacob Masters
+Mar 27,home,Central Baptist College,W,7-2,7,2,5,win,20240327_1jiu,1,0,0,0,2.0,1,2,0,0.00,1.00,1,3,2024,2023-24,div2,Southeast Arkansas College,southeastarkansascollege,jacobmastershehw,Jacob Masters
+Mar 13,home,Lyon College JV,W,15-7,15,7,8,win,20240313_odkr,0,1,0,0,3.0,1,,,0.00,.67,1,3,2024,2023-24,div2,Southeast Arkansas College,southeastarkansascollege,jacobmastershehw,Jacob Masters
+Mar 5,home,Henderson State JV,W,3-2,3,2,1,win,20240305_wf1f,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div2,Southeast Arkansas College,southeastarkansascollege,jacobmastershehw,Jacob Masters
+Feb 28,home,Lyon College JV,W,13-8,13,8,5,win,20240228_yw8w,0,1,0,0,3.1,2,3,3,8.10,1.20,2,4,2024,2023-24,div2,Southeast Arkansas College,southeastarkansascollege,jacobmastershehw,Jacob Masters
+Feb 23,home,Northern Oklahoma Tonkawa,L,15-4,15,4,11,win,20240223_9b6s,0,0,0,0,1.2,,3,3,16.20,1.80,3,,2024,2023-24,div2,Southeast Arkansas College,southeastarkansascollege,jacobmastershehw,Jacob Masters
+Feb 21,home,Lyon College JV,W,6-3,6,3,3,win,20240221_arp1,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div2,Southeast Arkansas College,southeastarkansascollege,jacobmastershehw,Jacob Masters
+Feb 9,home,Southern Arkansas University Tech,W,15-4,15,4,11,win,20240209_g6pp,0,0,0,0,0.1,1,1,1,27.00,6.00,1,,2024,2023-24,div2,Southeast Arkansas College,southeastarkansascollege,jacobmastershehw,Jacob Masters

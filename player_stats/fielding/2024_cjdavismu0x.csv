@@ -1,10 +1,15 @@
 date,location,opponent,result,score,team_score,opp_score,game_score_diff,game_win_loss,game_id,TC,PO,A,E,FPCT,DP,SBA,RCS,RCS_PCT,PB,CI,season,njcaa_season,njcaa_division,team,team_id,player_id,player_name
-Feb 1,home,Seward County,L,12-2,12,2,10,win,20240201_4m8b,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Redlands,redlandscommunitycollege,cjdavismu0x,CJ Davis
-Feb 2,home,Seward County,L,9-3,9,3,6,win,20240202_c5qo,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Redlands,redlandscommunitycollege,cjdavismu0x,CJ Davis
-Feb 9,home,Vernon,L,19-4,19,4,15,win,20240209_plyv,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Redlands,redlandscommunitycollege,cjdavismu0x,CJ Davis
-Feb 16,home,Lewis & Clark,L,4-2,4,2,2,win,20240216_o5zr,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Redlands,redlandscommunitycollege,cjdavismu0x,CJ Davis
-Feb 23,home,Dallas College - Cedar Valley,L,18-17,18,17,1,win,20240223_vk1v,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Redlands,redlandscommunitycollege,cjdavismu0x,CJ Davis
-Mar 2,home,Northern Oklahoma Tonkawa,L,18-7,18,7,11,win,20240302_6usd,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Redlands,redlandscommunitycollege,cjdavismu0x,CJ Davis
-Apr 2,home,Randall University,W,10-8,10,8,2,win,20240402_vqbv,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Redlands,redlandscommunitycollege,cjdavismu0x,CJ Davis
-Apr 9,home,Oklahoma Christian,W,5-2,5,2,3,win,20240409_mw7q,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Redlands,redlandscommunitycollege,cjdavismu0x,CJ Davis
-May 4,home,Western Oklahoma State,L,5-0,5,0,5,win,20240504_ksda,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Redlands,redlandscommunitycollege,cjdavismu0x,CJ Davis
+Feb 1,home,Seward County,L,12-2,12,2,10,win,20240201_4m8b,0,0,0,0,2.0,4,3,3,13.50,2.00,,2024,2023-24,div2,Redlands,redlandscommunitycollege,cjdavismu0x,CJ Davis
+Feb 6,home,Rose State,W,14-5,14,5,9,win,20240206_c8ci,0,0,0,0,1.0,,,,0.00,,,2024,2023-24,div2,Redlands,redlandscommunitycollege,cjdavismu0x,CJ Davis
+Feb 10,home,Vernon,L,13-11,13,11,2,win,20240210_esbu,0,0,1,0,0.0,1,3,2,INF,,,2024,2023-24,div2,Redlands,redlandscommunitycollege,cjdavismu0x,CJ Davis
+Feb 16,home,Lewis & Clark,L,4-2,4,2,2,win,20240216_o5zr,0,0,1,0,4.0,,2,1,2.25,,,2024,2023-24,div2,Redlands,redlandscommunitycollege,cjdavismu0x,CJ Davis
+Feb 23,home,Dallas College - Cedar Valley,L,18-17,18,17,1,win,20240223_vk1v,0,0,0,0,1.0,3,1,1,9.00,3.00,,2024,2023-24,div2,Redlands,redlandscommunitycollege,cjdavismu0x,CJ Davis
+Feb 24,home,Dallas College - Cedar Valley,W,18-6,18,6,12,win,20240224_y1ia,0,0,0,0,1.1,1,,,0.00,.75,,2024,2023-24,div2,Redlands,redlandscommunitycollege,cjdavismu0x,CJ Davis
+Mar 2,home,Northern Oklahoma Tonkawa,L,20-6,20,6,14,win,20240302_a06g,0,0,0,0,0.2,2,6,,0.00,3.00,,2024,2023-24,div2,Redlands,redlandscommunitycollege,cjdavismu0x,CJ Davis
+Mar 9,home,Northern Oklahoma Enid,L,14-11,14,11,3,win,20240309_dojw,0,0,1,0,1.1,3,5,3,20.25,2.25,,2024,2023-24,div2,Redlands,redlandscommunitycollege,cjdavismu0x,CJ Davis
+Mar 12,home,Dallas College - Richland,L,14-0,14,0,14,win,20240312_6fyv,0,0,0,0,1.0,4,5,5,45.00,5.00,1,2024,2023-24,div2,Redlands,redlandscommunitycollege,cjdavismu0x,CJ Davis
+Mar 15,home,Carl Albert State,L,10-2,10,2,8,win,20240315_a7dv,0,0,0,0,2.2,,,,0.00,,,2024,2023-24,div2,Redlands,redlandscommunitycollege,cjdavismu0x,CJ Davis
+Mar 28,home,Western Oklahoma State,L,12-9,12,9,3,win,20240328_gxfx,0,0,0,0,0.1,,,,0.00,,,2024,2023-24,div2,Redlands,redlandscommunitycollege,cjdavismu0x,CJ Davis
+Apr 2,home,Randall University,W,11-0,11,0,11,win,20240402_fvx3,0,0,0,0,1.0,1,,,0.00,1.00,,2024,2023-24,div2,Redlands,redlandscommunitycollege,cjdavismu0x,CJ Davis
+Apr 9,home,Oklahoma Christian,W,6-3,6,3,3,win,20240409_g2dc,0,0,0,1,1.0,1,,,0.00,1.00,,2024,2023-24,div2,Redlands,redlandscommunitycollege,cjdavismu0x,CJ Davis
+Apr 20,home,Carl Albert State,L,14-8,14,8,6,win,20240420_bp2w,0,0,0,0,0.0,4,4,3,INF,,1,2024,2023-24,div2,Redlands,redlandscommunitycollege,cjdavismu0x,CJ Davis

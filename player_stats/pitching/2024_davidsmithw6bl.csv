@@ -1,11 +1,15 @@
 date,location,opponent,result,score,team_score,opp_score,game_score_diff,game_win_loss,game_id,GS,W,L,SV,IP,H,R,ER,ERA,BB,K,HR,season,njcaa_season,njcaa_division,team,team_id,player_id,player_name
-May 10,home,Sauk Valley,L,17-11,17,11,6,win,20240510_0eaz,0,0,0,0,2.1,3,3,2,7.71,1.71,1,1,2024,2023-24,div2,Carl Sandburg,carlsandburgcollege,davidsmithw6bl,David Smith
-May 6,home,Southeastern,L,6-4,6,4,2,win,20240506_bxj1,0,0,0,0,0.1,3,1,1,27.00,12.00,1,,2024,2023-24,div2,Carl Sandburg,carlsandburgcollege,davidsmithw6bl,David Smith
-May 1,home,Illinois Central,L,9-3,9,3,6,win,20240501_zxif,0,0,0,0,1.1,2,2,1,6.75,2.25,1,,2024,2023-24,div2,Carl Sandburg,carlsandburgcollege,davidsmithw6bl,David Smith
-Apr 27,home,Black Hawk,L,11-1,11,1,10,win,20240427_vcow,0,0,0,0,1.2,5,2,2,10.80,3.60,1,,2024,2023-24,div2,Carl Sandburg,carlsandburgcollege,davidsmithw6bl,David Smith
-Apr 24,home,Highland (IL),L,12-0,12,0,12,win,20240424_vfx3,0,0,0,0,1.2,3,2,2,10.80,1.80,,1,2024,2023-24,div2,Carl Sandburg,carlsandburgcollege,davidsmithw6bl,David Smith
-Apr 20,home,Illinois Valley,W,15-12,15,12,3,win,20240420_vr5e,0,0,0,0,0.2,3,5,,0.00,6.00,1,,2024,2023-24,div2,Carl Sandburg,carlsandburgcollege,davidsmithw6bl,David Smith
-Apr 17,home,Illinois Central,L,15-9,15,9,6,win,20240417_ur2m,0,0,0,0,1.2,2,1,1,5.40,1.80,1,,2024,2023-24,div2,Carl Sandburg,carlsandburgcollege,davidsmithw6bl,David Smith
-Apr 15,home,Parkland,L,10-7,10,7,3,win,20240415_160u,0,0,0,0,1.0,1,1,,0.00,1.00,,,2024,2023-24,div2,Carl Sandburg,carlsandburgcollege,davidsmithw6bl,David Smith
-Apr 12,home,Southwestern Illinois,L,14-4,14,4,10,win,20240412_7i7b,0,0,0,0,2.0,1,,,0.00,1.50,2,,2024,2023-24,div2,Carl Sandburg,carlsandburgcollege,davidsmithw6bl,David Smith
-Mar 24,home,Madison,L,21-4,21,4,17,win,20240324_daip,0,0,0,0,0.1,,2,2,54.00,6.00,2,1,2024,2023-24,div2,Carl Sandburg,carlsandburgcollege,davidsmithw6bl,David Smith
+May 10,home,Rock Valley,L,6-2,6,2,4,win,20240510_h36y,1,0,1,0,5.0,5,5,5,9.00,1.80,4,5,2024,2023-24,div2,Carl Sandburg,carlsandburgcollege,davidsmithw6bl,David Smith
+May 6,home,Southeastern,L,6-4,6,4,2,win,20240506_bxj1,1,0,1,0,2.0,5,3,3,13.50,2.50,0,1,2024,2023-24,div2,Carl Sandburg,carlsandburgcollege,davidsmithw6bl,David Smith
+Apr 27,home,Black Hawk,L,5-3,5,3,2,win,20240427_v7wt,1,0,1,0,6.0,4,5,3,4.50,1.17,3,7,2024,2023-24,div2,Carl Sandburg,carlsandburgcollege,davidsmithw6bl,David Smith
+Apr 20,home,Illinois Valley,W,6-4,6,4,2,win,20240420_8mqa,1,1,0,0,6.0,5,2,2,3.00,1.17,2,14,2024,2023-24,div2,Carl Sandburg,carlsandburgcollege,davidsmithw6bl,David Smith
+Apr 17,home,Illinois Central,L,15-9,15,9,6,win,20240417_ur2m,0,0,0,0,1.0,,,,0.00,1.00,1,1,2024,2023-24,div2,Carl Sandburg,carlsandburgcollege,davidsmithw6bl,David Smith
+Apr 13,home,Kishwaukee,W,25-1,25,1,24,win,20240413_tvkm,1,1,0,0,5.0,4,1,1,1.80,1.00,1,10,2024,2023-24,div2,Carl Sandburg,carlsandburgcollege,davidsmithw6bl,David Smith
+Apr 8,home,Kankakee,L,18-3,18,3,15,win,20240408_f1sk,1,0,1,0,3.1,10,11,9,24.30,3.60,2,7,2024,2023-24,div2,Carl Sandburg,carlsandburgcollege,davidsmithw6bl,David Smith
+Mar 28,home,South Suburban,W,7-6,7,6,1,win,20240328_2dci,0,0,0,0,5.0,7,4,2,3.60,1.60,1,14,2024,2023-24,div2,Carl Sandburg,carlsandburgcollege,davidsmithw6bl,David Smith
+Mar 23,home,McHenry County,W,5-3,5,3,2,win,20240323_luky,1,1,0,0,6.0,3,0,0,0.00,.83,2,9,2024,2023-24,div2,Carl Sandburg,carlsandburgcollege,davidsmithw6bl,David Smith
+Mar 19,home,Southeastern,L,9-7,9,7,2,win,20240319_hlzs,1,0,0,0,2.0,4,1,1,4.50,2.00,0,2,2024,2023-24,div2,Carl Sandburg,carlsandburgcollege,davidsmithw6bl,David Smith
+Mar 16,home,Elgin,W,7-4,7,4,3,win,20240316_6x5l,0,1,0,0,2.0,1,,,0.00,1.00,1,4,2024,2023-24,div2,Carl Sandburg,carlsandburgcollege,davidsmithw6bl,David Smith
+Mar 12,home,Parkland,L,18-8,18,8,10,win,20240312_jpas,1,0,1,0,3.0,11,13,12,36.00,5.00,4,3,2024,2023-24,div2,Carl Sandburg,carlsandburgcollege,davidsmithw6bl,David Smith
+Mar 1,home,John A. Logan,L,11-1,11,1,10,win,20240301_n5je,1,0,1,0,5.0,5,6,6,10.80,1.80,4,5,2024,2023-24,div2,Carl Sandburg,carlsandburgcollege,davidsmithw6bl,David Smith
+Feb 9,home,Heartland,L,10-0,10,0,10,win,20240209_mjfj,1,0,1,0,3.1,7,5,2,5.40,2.40,1,4,2024,2023-24,div2,Carl Sandburg,carlsandburgcollege,davidsmithw6bl,David Smith

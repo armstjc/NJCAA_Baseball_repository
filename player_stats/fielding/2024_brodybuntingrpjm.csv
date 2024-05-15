@@ -1,15 +1,50 @@
 date,location,opponent,result,score,team_score,opp_score,game_score_diff,game_win_loss,game_id,TC,PO,A,E,FPCT,DP,SBA,RCS,RCS_PCT,PB,CI,season,njcaa_season,njcaa_division,team,team_id,player_id,player_name
-Feb 3,home,Amarillo College,L,7-6,7,6,1,win,20240203_pefz,0,0,0,0,2.0,4,2,2,9.00,2.00,,2024,2023-24,div1,Johnson County,johnsoncountycommunitycollege,brodybuntingrpjm,Brody Bunting
-Feb 8,home,Crowder,L,17-16,17,16,1,win,20240208_m04s,0,0,1,0,0.2,2,1,1,13.50,3.00,,2024,2023-24,div1,Johnson County,johnsoncountycommunitycollege,brodybuntingrpjm,Brody Bunting
-Feb 18,home,Southwestern,W,12-3,12,3,9,win,20240218_7mrn,0,0,0,0,1.0,,,,0.00,2.00,2,2024,2023-24,div1,Johnson County,johnsoncountycommunitycollege,brodybuntingrpjm,Brody Bunting
-Feb 29,home,Cloud County,W,7-6,7,6,1,win,20240229_6zle,0,0,0,1,1.0,,,,0.00,,,2024,2023-24,div1,Johnson County,johnsoncountycommunitycollege,brodybuntingrpjm,Brody Bunting
-Mar 9,home,Neosho County,W,11-1,11,1,10,win,20240309_rx4p,0,0,0,0,1.0,,,,0.00,,,2024,2023-24,div1,Johnson County,johnsoncountycommunitycollege,brodybuntingrpjm,Brody Bunting
-Mar 16,home,Fort Scott,W,16-15,16,15,1,win,20240316_02oh,0,0,0,0,3.1,3,5,5,13.50,1.50,2,2024,2023-24,div1,Johnson County,johnsoncountycommunitycollege,brodybuntingrpjm,Brody Bunting
-Mar 23,home,Baker University JV,W,12-0,12,0,12,win,20240323_1l0x,0,0,0,0,1.0,,,,0.00,,,2024,2023-24,div1,Johnson County,johnsoncountycommunitycollege,brodybuntingrpjm,Brody Bunting
-Mar 30,home,Highland (KS),W,14-0,14,0,14,win,20240330_740x,0,0,0,0,1.0,,,,0.00,,,2024,2023-24,div1,Johnson County,johnsoncountycommunitycollege,brodybuntingrpjm,Brody Bunting
-Apr 6,home,Coffeyville,W,26-8,26,8,18,win,20240406_fdyl,0,0,0,0,2.1,,,,0.00,.86,2,2024,2023-24,div1,Johnson County,johnsoncountycommunitycollege,brodybuntingrpjm,Brody Bunting
-Apr 13,home,Allen County,W,15-4,15,4,11,win,20240413_pvay,0,0,0,0,2.1,2,1,1,3.86,1.29,1,2024,2023-24,div1,Johnson County,johnsoncountycommunitycollege,brodybuntingrpjm,Brody Bunting
-Apr 20,home,Labette,W,14-4,14,4,10,win,20240420_qyc1,0,0,0,0,1.0,,,,0.00,,,2024,2023-24,div1,Johnson County,johnsoncountycommunitycollege,brodybuntingrpjm,Brody Bunting
-Apr 24,home,Cowley,L,10-5,10,5,5,win,20240424_lb3k,0,0,1,0,0.2,3,4,4,54.00,7.50,2,2024,2023-24,div1,Johnson County,johnsoncountycommunitycollege,brodybuntingrpjm,Brody Bunting
-Apr 28,home,Cowley,W,13-3,13,3,10,win,20240428_2s2c,0,0,0,0,1.1,,,,0.00,,,2024,2023-24,div1,Johnson County,johnsoncountycommunitycollege,brodybuntingrpjm,Brody Bunting
-May 3,home,Kansas City Kansas,L,6-3,6,3,3,win,20240503_j12k,0,0,0,0,1.2,2,2,2,10.80,2.40,2,2024,2023-24,div1,Johnson County,johnsoncountycommunitycollege,brodybuntingrpjm,Brody Bunting
+Feb 3,home,Amarillo College,L,7-6,7,6,1,win,20240203_pefz,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Johnson County,johnsoncountycommunitycollege,brodybuntingrpjm,Brody Bunting
+Feb 4,home,Amarillo College,L,4-1,4,1,3,win,20240204_yr5s,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Johnson County,johnsoncountycommunitycollege,brodybuntingrpjm,Brody Bunting
+Feb 4,home,Amarillo College,W,13-1,13,1,12,win,20240204_pbxc,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Johnson County,johnsoncountycommunitycollege,brodybuntingrpjm,Brody Bunting
+Feb 10,home,Crowder,L,10-0,10,0,10,win,20240210_802n,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Johnson County,johnsoncountycommunitycollege,brodybuntingrpjm,Brody Bunting
+Feb 10,home,Crowder,W,12-6,12,6,6,win,20240210_y44a,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Johnson County,johnsoncountycommunitycollege,brodybuntingrpjm,Brody Bunting
+Feb 18,home,Southwestern,W,12-3,12,3,9,win,20240218_7mrn,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Johnson County,johnsoncountycommunitycollege,brodybuntingrpjm,Brody Bunting
+Feb 19,home,Southwestern,W,14-0,14,0,14,win,20240219_gkfb,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Johnson County,johnsoncountycommunitycollege,brodybuntingrpjm,Brody Bunting
+Feb 19,home,Southwestern,W,8-4,8,4,4,win,20240219_k41h,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Johnson County,johnsoncountycommunitycollege,brodybuntingrpjm,Brody Bunting
+Feb 24,home,Moberly Area,W,6-1,6,1,5,win,20240224_qcjn,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Johnson County,johnsoncountycommunitycollege,brodybuntingrpjm,Brody Bunting
+Feb 24,home,Moberly Area,W,19-1,19,1,18,win,20240224_i2pk,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Johnson County,johnsoncountycommunitycollege,brodybuntingrpjm,Brody Bunting
+Feb 25,home,Moberly Area,W,18-4,18,4,14,win,20240225_mhgd,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Johnson County,johnsoncountycommunitycollege,brodybuntingrpjm,Brody Bunting
+Feb 29,home,Cloud County,L,7-5,7,5,2,win,20240229_4fgp,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Johnson County,johnsoncountycommunitycollege,brodybuntingrpjm,Brody Bunting
+Feb 29,home,Cloud County,W,7-6,7,6,1,win,20240229_6zle,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Johnson County,johnsoncountycommunitycollege,brodybuntingrpjm,Brody Bunting
+Mar 2,home,Cloud County,W,14-6,14,6,8,win,20240302_88pd,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Johnson County,johnsoncountycommunitycollege,brodybuntingrpjm,Brody Bunting
+Mar 9,home,Neosho County,W,1-0,1,0,1,win,20240309_lr0i,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Johnson County,johnsoncountycommunitycollege,brodybuntingrpjm,Brody Bunting
+Mar 9,home,Neosho County,W,11-1,11,1,10,win,20240309_rx4p,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Johnson County,johnsoncountycommunitycollege,brodybuntingrpjm,Brody Bunting
+Mar 10,home,Neosho County,W,8-2,8,2,6,win,20240310_h41y,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Johnson County,johnsoncountycommunitycollege,brodybuntingrpjm,Brody Bunting
+Mar 10,home,Neosho County,W,7-2,7,2,5,win,20240310_3wbj,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Johnson County,johnsoncountycommunitycollege,brodybuntingrpjm,Brody Bunting
+Mar 14,home,Fort Scott,W,15-6,15,6,9,win,20240314_ipt8,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Johnson County,johnsoncountycommunitycollege,brodybuntingrpjm,Brody Bunting
+Mar 14,home,Fort Scott,L,9-6,9,6,3,win,20240314_e678,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Johnson County,johnsoncountycommunitycollege,brodybuntingrpjm,Brody Bunting
+Mar 16,home,Fort Scott,W,16-15,16,15,1,win,20240316_02oh,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Johnson County,johnsoncountycommunitycollege,brodybuntingrpjm,Brody Bunting
+Mar 16,home,Fort Scott,W,7-6,7,6,1,win,20240316_37l6,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Johnson County,johnsoncountycommunitycollege,brodybuntingrpjm,Brody Bunting
+Mar 23,home,Baker University JV,W,16-2,16,2,14,win,20240323_wk31,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Johnson County,johnsoncountycommunitycollege,brodybuntingrpjm,Brody Bunting
+Mar 28,home,Highland (KS),W,16-5,16,5,11,win,20240328_nmtp,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Johnson County,johnsoncountycommunitycollege,brodybuntingrpjm,Brody Bunting
+Mar 28,home,Highland (KS),W,6-2,6,2,4,win,20240328_9dpx,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Johnson County,johnsoncountycommunitycollege,brodybuntingrpjm,Brody Bunting
+Mar 30,home,Highland (KS),W,6-0,6,0,6,win,20240330_vvkw,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Johnson County,johnsoncountycommunitycollege,brodybuntingrpjm,Brody Bunting
+Mar 30,home,Highland (KS),W,14-0,14,0,14,win,20240330_740x,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Johnson County,johnsoncountycommunitycollege,brodybuntingrpjm,Brody Bunting
+Apr 4,home,Coffeyville,W,7-1,7,1,6,win,20240404_85ap,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Johnson County,johnsoncountycommunitycollege,brodybuntingrpjm,Brody Bunting
+Apr 4,home,Coffeyville,W,5-3,5,3,2,win,20240404_bh0t,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Johnson County,johnsoncountycommunitycollege,brodybuntingrpjm,Brody Bunting
+Apr 6,home,Coffeyville,W,8-7,8,7,1,win,20240406_3t9n,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Johnson County,johnsoncountycommunitycollege,brodybuntingrpjm,Brody Bunting
+Apr 6,home,Coffeyville,W,26-8,26,8,18,win,20240406_fdyl,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Johnson County,johnsoncountycommunitycollege,brodybuntingrpjm,Brody Bunting
+Apr 11,home,Allen County,L,4-3,4,3,1,win,20240411_g79o,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Johnson County,johnsoncountycommunitycollege,brodybuntingrpjm,Brody Bunting
+Apr 11,home,Allen County,W,18-0,18,0,18,win,20240411_d5l6,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Johnson County,johnsoncountycommunitycollege,brodybuntingrpjm,Brody Bunting
+Apr 13,home,Allen County,W,15-4,15,4,11,win,20240413_pvay,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Johnson County,johnsoncountycommunitycollege,brodybuntingrpjm,Brody Bunting
+Apr 13,home,Allen County,W,16-6,16,6,10,win,20240413_268d,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Johnson County,johnsoncountycommunitycollege,brodybuntingrpjm,Brody Bunting
+Apr 17,home,Labette,W,11-1,11,1,10,win,20240417_vqe3,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Johnson County,johnsoncountycommunitycollege,brodybuntingrpjm,Brody Bunting
+Apr 17,home,Labette,W,11-2,11,2,9,win,20240417_awxn,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Johnson County,johnsoncountycommunitycollege,brodybuntingrpjm,Brody Bunting
+Apr 20,home,Labette,W,14-4,14,4,10,win,20240420_qyc1,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Johnson County,johnsoncountycommunitycollege,brodybuntingrpjm,Brody Bunting
+Apr 20,home,Labette,W,11-0,11,0,11,win,20240420_4wna,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Johnson County,johnsoncountycommunitycollege,brodybuntingrpjm,Brody Bunting
+Apr 24,home,Cowley,W,7-4,7,4,3,win,20240424_ozsh,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Johnson County,johnsoncountycommunitycollege,brodybuntingrpjm,Brody Bunting
+Apr 24,home,Cowley,L,10-5,10,5,5,win,20240424_lb3k,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Johnson County,johnsoncountycommunitycollege,brodybuntingrpjm,Brody Bunting
+Apr 28,home,Cowley,W,10-7,10,7,3,win,20240428_my4t,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Johnson County,johnsoncountycommunitycollege,brodybuntingrpjm,Brody Bunting
+Apr 28,home,Cowley,W,13-3,13,3,10,win,20240428_2s2c,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Johnson County,johnsoncountycommunitycollege,brodybuntingrpjm,Brody Bunting
+May 3,home,Kansas City Kansas,W,7-3,7,3,4,win,20240503_7njg,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Johnson County,johnsoncountycommunitycollege,brodybuntingrpjm,Brody Bunting
+May 3,home,Kansas City Kansas,L,6-3,6,3,3,win,20240503_j12k,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Johnson County,johnsoncountycommunitycollege,brodybuntingrpjm,Brody Bunting
+May 4,home,Kansas City Kansas,W,3-2,3,2,1,win,20240504_6612,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Johnson County,johnsoncountycommunitycollege,brodybuntingrpjm,Brody Bunting
+May 4,home,Kansas City Kansas,W,6-5,6,5,1,win,20240504_86zr,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Johnson County,johnsoncountycommunitycollege,brodybuntingrpjm,Brody Bunting
+May 9,home,Pratt,W,8-5,8,5,3,win,20240509_lj90,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Johnson County,johnsoncountycommunitycollege,brodybuntingrpjm,Brody Bunting
+May 10,home,Pratt,W,9-2,9,2,7,win,20240510_9oxc,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Johnson County,johnsoncountycommunitycollege,brodybuntingrpjm,Brody Bunting

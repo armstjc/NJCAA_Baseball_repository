@@ -1,13 +1,15 @@
 date,location,opponent,result,score,team_score,opp_score,game_score_diff,game_win_loss,game_id,TC,PO,A,E,FPCT,DP,SBA,RCS,RCS_PCT,PB,CI,season,njcaa_season,njcaa_division,team,team_id,player_id,player_name
-Feb 6,home,Copiah-Lincoln,W,22-9,22,9,13,win,20240206_854u,0,0,0,0,2.0,3,5,4,18.00,1.50,,2024,2023-24,div1,Southwest Tennessee,southwesttennesseecommunitycollege,masonlittlejzbo,Mason Little
-Feb 17,home,Pensacola State,L,10-4,10,4,6,win,20240217_q1at,0,0,0,0,1.1,5,5,1,6.75,5.25,2,2024,2023-24,div1,Southwest Tennessee,southwesttennesseecommunitycollege,masonlittlejzbo,Mason Little
-Feb 23,home,Copiah-Lincoln,L,6-4,6,4,2,win,20240223_3raj,1,0,1,0,4.2,8,4,3,5.79,2.36,3,2024,2023-24,div1,Southwest Tennessee,southwesttennesseecommunitycollege,masonlittlejzbo,Mason Little
-Mar 3,home,Pensacola State,W,11-6,11,6,5,win,20240303_a9ws,0,1,0,0,4.0,4,2,1,2.25,1.00,,2024,2023-24,div1,Southwest Tennessee,southwesttennesseecommunitycollege,masonlittlejzbo,Mason Little
-Mar 10,home,Triton,W,7-2,7,2,5,win,20240310_y98o,1,1,0,0,6.1,5,2,2,2.84,1.11,2,2024,2023-24,div1,Southwest Tennessee,southwesttennesseecommunitycollege,masonlittlejzbo,Mason Little
-Mar 16,home,Massasoit,W,6-2,6,2,4,win,20240316_llsc,1,1,0,0,7.0,1,2,0,0.00,.57,3,2024,2023-24,div1,Southwest Tennessee,southwesttennesseecommunitycollege,masonlittlejzbo,Mason Little
-Mar 24,home,Nunez,W,14-4,14,4,10,win,20240324_sfs1,0,0,0,0,2.0,3,1,1,4.50,1.50,,2024,2023-24,div1,Southwest Tennessee,southwesttennesseecommunitycollege,masonlittlejzbo,Mason Little
-Apr 2,home,John Melvin University,W,8-7,8,7,1,win,20240402_lxtx,0,1,0,0,1.0,,,,0.00,,,2024,2023-24,div1,Southwest Tennessee,southwesttennesseecommunitycollege,masonlittlejzbo,Mason Little
-Apr 6,home,LSU Eunice,L,13-3,13,3,10,win,20240406_tp0a,1,0,1,0,3.1,7,8,8,21.60,3.30,4,2024,2023-24,div1,Southwest Tennessee,southwesttennesseecommunitycollege,masonlittlejzbo,Mason Little
-Apr 13,home,Nunez,L,9-0,9,0,9,win,20240413_380c,0,0,0,0,0.0,4,7,6,INF,,2,2024,2023-24,div1,Southwest Tennessee,southwesttennesseecommunitycollege,masonlittlejzbo,Mason Little
-Apr 24,home,John Melvin University,L,5-1,5,1,4,win,20240424_u1lw,1,0,1,0,4.0,6,5,5,11.25,2.00,2,2024,2023-24,div1,Southwest Tennessee,southwesttennesseecommunitycollege,masonlittlejzbo,Mason Little
-Apr 28,home,LSU Eunice,W,5-2,5,2,3,win,20240428_6a4p,0,0,0,1,3.0,3,,,0.00,1.33,1,2024,2023-24,div1,Southwest Tennessee,southwesttennesseecommunitycollege,masonlittlejzbo,Mason Little
+Jan 26,home,Rhodes College,L,5-2,5,2,3,win,20240126_5d7u,0,0,0,0,1.2,3,2,2,10.80,2.40,1,2024,2023-24,div1,Southwest Tennessee,southwesttennesseecommunitycollege,masonlittlejzbo,Mason Little
+Feb 3,home,Jones,L,10-2,10,2,8,win,20240203_bz7d,0,0,0,0,0.2,2,3,3,40.50,6.00,2,2024,2023-24,div1,Southwest Tennessee,southwesttennesseecommunitycollege,masonlittlejzbo,Mason Little
+Feb 11,home,Danville Area,W,10-8,10,8,2,win,20240211_l78y,0,0,0,1,1.0,1,,,0.00,2.00,1,2024,2023-24,div1,Southwest Tennessee,southwesttennesseecommunitycollege,masonlittlejzbo,Mason Little
+Feb 18,home,Southwestern Illinois,L,5-4,5,4,1,win,20240218_11ff,0,0,1,0,1.0,1,1,,0.00,1.00,,2024,2023-24,div1,Southwest Tennessee,southwesttennesseecommunitycollege,masonlittlejzbo,Mason Little
+Feb 25,home,Elgin,L,8-2,8,2,6,win,20240225_kqxs,0,0,0,0,1.0,2,2,1,9.00,4.00,2,2024,2023-24,div1,Southwest Tennessee,southwesttennesseecommunitycollege,masonlittlejzbo,Mason Little
+Feb 28,home,Rhodes College,L,6-5,6,5,1,win,20240228_to4e,0,0,0,0,2.2,,,,0.00,,,2024,2023-24,div1,Southwest Tennessee,southwesttennesseecommunitycollege,masonlittlejzbo,Mason Little
+Mar 6,home,Rhodes College,W,13-10,13,10,3,win,20240306_jodf,0,0,0,1,1.0,,,,0.00,1.00,1,2024,2023-24,div1,Southwest Tennessee,southwesttennesseecommunitycollege,masonlittlejzbo,Mason Little
+Mar 12,home,Rock Valley,W,6-2,6,2,4,win,20240312_xk30,0,0,0,1,2.0,,,,0.00,1.50,3,2024,2023-24,div1,Southwest Tennessee,southwesttennesseecommunitycollege,masonlittlejzbo,Mason Little
+Mar 22,home,Dyersburg State,L,7-5,7,5,2,win,20240322_a9ur,1,0,0,0,3.0,2,1,1,3.00,1.33,2,2024,2023-24,div1,Southwest Tennessee,southwesttennesseecommunitycollege,masonlittlejzbo,Mason Little
+Mar 28,home,Walters State,W,7-6,7,6,1,win,20240328_kldl,1,0,0,0,3.0,4,5,5,15.00,2.00,2,2024,2023-24,div1,Southwest Tennessee,southwesttennesseecommunitycollege,masonlittlejzbo,Mason Little
+Apr 5,home,Columbia State,W,8-7,8,7,1,win,20240405_zk7t,0,0,0,0,2.1,2,2,1,3.86,1.71,2,2024,2023-24,div1,Southwest Tennessee,southwesttennesseecommunitycollege,masonlittlejzbo,Mason Little
+Apr 13,home,Volunteer State,W,5-4,5,4,1,win,20240413_jqdi,0,0,0,0,0.1,1,2,2,54.00,9.00,2,2024,2023-24,div1,Southwest Tennessee,southwesttennesseecommunitycollege,masonlittlejzbo,Mason Little
+Apr 16,home,Three Rivers,L,5-0,5,0,5,win,20240416_g3ez,0,0,0,0,1.0,,1,1,9.00,1.00,1,2024,2023-24,div1,Southwest Tennessee,southwesttennesseecommunitycollege,masonlittlejzbo,Mason Little
+May 7,home,Motlow State,L,12-2,12,2,10,win,20240507_q9uj,0,0,0,0,1.0,1,1,1,9.00,2.00,1,2024,2023-24,div1,Southwest Tennessee,southwesttennesseecommunitycollege,masonlittlejzbo,Mason Little
