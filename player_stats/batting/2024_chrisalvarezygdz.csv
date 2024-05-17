@@ -1,7 +1,20 @@
 date,location,opponent,result,score,team_score,opp_score,game_score_diff,game_win_loss,game_id,AB,R,H,2B,3B,HR,RBI,BB,K,SB,CS,HBP,SF,SH,TB,XBH,HDP,GO,FO,GO/FO,PA,season,njcaa_season,njcaa_division,team,team_id,player_id,player_name
-Feb 3,home,Andrew,W,7-2,7,2,5,win,20240203_v6wf,2,1,1,0,0,1,1,1,1,0,0,0,0,0,4,1,,0,,,3,2024,2023-24,div1,Dyersburg State,dyersburgstatecommunitycollege,chrisalvarezygdz,Chris Alvarez
-Mar 12,home,Rend Lake,W,9-6,9,6,3,win,20240312_ai9i,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0,,,1,2024,2023-24,div1,Dyersburg State,dyersburgstatecommunitycollege,chrisalvarezygdz,Chris Alvarez
-May 6,home,Chattanooga State,W,8-0,8,0,8,win,20240506_g1m5,2,1,1,0,0,0,0,1,0,0,0,0,0,0,1,0,,0,,,3,2024,2023-24,div1,Dyersburg State,dyersburgstatecommunitycollege,chrisalvarezygdz,Chris Alvarez
-May 7,home,Columbia State,W,14-9,14,9,5,win,20240507_dlin,5,0,0,,,,0,,3,,,,,,0,0,,2,,,5,2024,2023-24,div1,Dyersburg State,dyersburgstatecommunitycollege,chrisalvarezygdz,Chris Alvarez
-May 8,home,Motlow State,W,8-3,8,3,5,win,20240508_ernt,2,3,2,0,0,1,1,1,0,0,0,1,0,0,5,1,,0,,,4,2024,2023-24,div1,Dyersburg State,dyersburgstatecommunitycollege,chrisalvarezygdz,Chris Alvarez
-May 10,home,Cleveland State,W,26-2,26,2,24,win,20240510_spod,5,2,1,,,,3,,1,,,1,1,,1,0,,1,2,0.50,7,2024,2023-24,div1,Dyersburg State,dyersburgstatecommunitycollege,chrisalvarezygdz,Chris Alvarez
+Feb 17,home,Coahoma,W,2-1,2,1,1,win,20240217_wmhg,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0,,,1,2024,2023-24,div1,Dyersburg State,dyersburgstatecommunitycollege,chrisalvarezygdz,Chris Alvarez
+Feb 17,home,Coahoma,W,4-1,4,1,3,win,20240217_ysez,1,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,,0,,,1,2024,2023-24,div1,Dyersburg State,dyersburgstatecommunitycollege,chrisalvarezygdz,Chris Alvarez
+Feb 25,home,Glen Oaks,W,14-4,14,4,10,win,20240225_vqul,1,0,1,1,0,0,0,0,0,0,0,0,0,0,2,1,,0,,,1,2024,2023-24,div1,Dyersburg State,dyersburgstatecommunitycollege,chrisalvarezygdz,Chris Alvarez
+Feb 25,home,Glen Oaks,W,12-2,12,2,10,win,20240225_gacb,0,1,0,0,0,0,1,1,0,0,0,0,0,0,0,0,,0,,,1,2024,2023-24,div1,Dyersburg State,dyersburgstatecommunitycollege,chrisalvarezygdz,Chris Alvarez
+Mar 3,home,Chattanooga State,W,6-4,6,4,2,win,20240303_8ah5,2,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,,0,,,2,2024,2023-24,div1,Dyersburg State,dyersburgstatecommunitycollege,chrisalvarezygdz,Chris Alvarez
+Mar 11,home,Cleveland State,W,5-4,5,4,1,win,20240311_fxcz,4,0,3,,,,2,,,,,,,,3,0,,1,,,4,2024,2023-24,div1,Dyersburg State,dyersburgstatecommunitycollege,chrisalvarezygdz,Chris Alvarez
+Mar 12,home,Rend Lake,W,9-6,9,6,3,win,20240312_ai9i,2,1,0,0,0,0,0,0,2,0,0,2,0,0,0,0,,0,,,4,2024,2023-24,div1,Dyersburg State,dyersburgstatecommunitycollege,chrisalvarezygdz,Chris Alvarez
+Apr 6,home,Jackson State,W,10-0,10,0,10,win,20240406_xpkg,2,1,1,0,0,0,0,1,0,0,0,0,0,0,1,0,,0,,,3,2024,2023-24,div1,Dyersburg State,dyersburgstatecommunitycollege,chrisalvarezygdz,Chris Alvarez
+Apr 13,home,Motlow State,W,6-3,6,3,3,win,20240413_ztn7,3,0,1,1,0,0,1,0,1,0,0,0,0,0,2,1,,0,,,3,2024,2023-24,div1,Dyersburg State,dyersburgstatecommunitycollege,chrisalvarezygdz,Chris Alvarez
+Apr 13,home,Motlow State,W,11-1,11,1,10,win,20240413_yyfs,3,1,0,0,0,0,0,1,2,0,0,0,0,0,0,0,,0,,,4,2024,2023-24,div1,Dyersburg State,dyersburgstatecommunitycollege,chrisalvarezygdz,Chris Alvarez
+Apr 14,home,Motlow State,W,10-4,10,4,6,win,20240414_6hvj,2,0,0,0,0,0,1,0,1,0,0,1,1,0,0,0,,0,,,4,2024,2023-24,div1,Dyersburg State,dyersburgstatecommunitycollege,chrisalvarezygdz,Chris Alvarez
+Apr 16,home,Rend Lake,W,10-4,10,4,6,win,20240416_jdz6,4,1,2,1,0,0,2,0,0,0,0,1,0,0,3,1,,0,,,5,2024,2023-24,div1,Dyersburg State,dyersburgstatecommunitycollege,chrisalvarezygdz,Chris Alvarez
+Apr 19,home,Roane State,W,8-1,8,1,7,win,20240419_3mi3,4,1,1,0,0,1,3,0,1,0,0,0,0,0,4,1,,0,,,4,2024,2023-24,div1,Dyersburg State,dyersburgstatecommunitycollege,chrisalvarezygdz,Chris Alvarez
+Apr 20,home,Roane State,W,5-0,5,0,5,win,20240420_u1xw,3,0,2,0,0,0,1,0,0,0,0,0,0,0,2,0,,0,,,3,2024,2023-24,div1,Dyersburg State,dyersburgstatecommunitycollege,chrisalvarezygdz,Chris Alvarez
+May 6,home,Chattanooga State,W,8-0,8,0,8,win,20240506_g1m5,4,1,2,0,0,1,1,0,0,0,0,0,0,0,5,1,,0,,,4,2024,2023-24,div1,Dyersburg State,dyersburgstatecommunitycollege,chrisalvarezygdz,Chris Alvarez
+May 7,home,Columbia State,W,14-9,14,9,5,win,20240507_dlin,5,1,3,,1,,1,,1,,,,,,5,1,,1,,,5,2024,2023-24,div1,Dyersburg State,dyersburgstatecommunitycollege,chrisalvarezygdz,Chris Alvarez
+May 8,home,Motlow State,W,8-3,8,3,5,win,20240508_ernt,5,1,2,1,0,0,0,0,2,0,0,0,0,0,3,1,,0,,,5,2024,2023-24,div1,Dyersburg State,dyersburgstatecommunitycollege,chrisalvarezygdz,Chris Alvarez
+May 10,home,Cleveland State,W,26-2,26,2,24,win,20240510_spod,5,3,0,,,,1,2,1,,,,,,0,0,,3,,,7,2024,2023-24,div1,Dyersburg State,dyersburgstatecommunitycollege,chrisalvarezygdz,Chris Alvarez
+May 15,home,Georgia Highlands,W,3-2,3,2,1,win,20240515_bh8k,4,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,,0,,,4,2024,2023-24,div1,Dyersburg State,dyersburgstatecommunitycollege,chrisalvarezygdz,Chris Alvarez

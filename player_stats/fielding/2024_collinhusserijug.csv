@@ -1,17 +1,55 @@
 date,location,opponent,result,score,team_score,opp_score,game_score_diff,game_win_loss,game_id,TC,PO,A,E,FPCT,DP,SBA,RCS,RCS_PCT,PB,CI,season,njcaa_season,njcaa_division,team,team_id,player_id,player_name
-Jan 27,home,Dallas College - North Lake,W,14-1,14,1,13,win,20240127_tnp6,0,1,0,0,3.1,4,1,1,2.70,1.20,,2024,2023-24,div2,LSU Eunice,louisianastateuniversityeunice,collinhusserijug,Collin Husser
-Feb 2,home,National Park College,W,7-1,7,1,6,win,20240202_aj7r,0,1,0,0,5.0,1,,,0.00,.40,1,2024,2023-24,div2,LSU Eunice,louisianastateuniversityeunice,collinhusserijug,Collin Husser
-Feb 8,home,Monroe College,W,12-7,12,7,5,win,20240208_7txy,1,0,0,0,5.1,6,5,4,6.75,1.13,0,2024,2023-24,div2,LSU Eunice,louisianastateuniversityeunice,collinhusserijug,Collin Husser
-Feb 16,home,Kellogg,W,7-1,7,1,6,win,20240216_5xtm,0,1,0,0,5.0,1,,,0.00,.60,2,2024,2023-24,div2,LSU Eunice,louisianastateuniversityeunice,collinhusserijug,Collin Husser
-Feb 23,home,Southern Arkansas University Tech,W,12-2,12,2,10,win,20240223_29em,0,1,0,0,2.0,2,,,0.00,1.00,,2024,2023-24,div2,LSU Eunice,louisianastateuniversityeunice,collinhusserijug,Collin Husser
-Mar 1,home,Garrett,W,11-1,11,1,10,win,20240301_2p1k,1,1,0,0,4.0,1,1,0,0.00,.25,0,2024,2023-24,div2,LSU Eunice,louisianastateuniversityeunice,collinhusserijug,Collin Husser
-Mar 9,home,Southeastern,W,17-3,17,3,14,win,20240309_v1s4,0,1,0,0,5.2,6,2,2,3.18,1.24,1,2024,2023-24,div2,LSU Eunice,louisianastateuniversityeunice,collinhusserijug,Collin Husser
-Mar 15,home,North Iowa Area,W,3-0,3,0,3,win,20240315_lnse,0,1,0,0,6.0,1,,,0.00,.67,3,2024,2023-24,div2,LSU Eunice,louisianastateuniversityeunice,collinhusserijug,Collin Husser
-Mar 23,home,Central Alabama,W,14-4,14,4,10,win,20240323_z1xt,1,1,0,0,4.0,5,1,1,2.25,1.50,1,2024,2023-24,div2,LSU Eunice,louisianastateuniversityeunice,collinhusserijug,Collin Husser
-Mar 29,home,Southeast Arkansas College,W,11-2,11,2,9,win,20240329_q9d3,1,1,0,0,6.2,5,2,2,2.70,1.05,2,2024,2023-24,div2,LSU Eunice,louisianastateuniversityeunice,collinhusserijug,Collin Husser
-Apr 6,home,Delgado,W,5-2,5,2,3,win,20240406_l4ur,1,1,0,0,7.0,9,2,2,2.57,1.43,1,2024,2023-24,div2,LSU Eunice,louisianastateuniversityeunice,collinhusserijug,Collin Husser
-Apr 13,home,Southeast Arkansas College,W,10-1,10,1,9,win,20240413_mbp4,1,1,0,0,7.2,5,1,1,1.17,1.04,3,2024,2023-24,div2,LSU Eunice,louisianastateuniversityeunice,collinhusserijug,Collin Husser
-Apr 19,home,Panola,L,6-3,6,3,3,win,20240419_u6rj,1,0,0,0,7.0,7,3,3,3.86,1.00,0,2024,2023-24,div2,LSU Eunice,louisianastateuniversityeunice,collinhusserijug,Collin Husser
-Apr 27,home,Delgado,W,10-0,10,0,10,win,20240427_03i4,1,1,0,0,6.0,5,0,0,0.00,1.17,2,2024,2023-24,div2,LSU Eunice,louisianastateuniversityeunice,collinhusserijug,Collin Husser
-May 4,home,Tyler,W,8-7,8,7,1,win,20240504_lfdy,1,0,0,0,6.2,8,2,2,2.70,1.35,1,2024,2023-24,div2,LSU Eunice,louisianastateuniversityeunice,collinhusserijug,Collin Husser
-May 14,home,Jones,W,7-5,7,5,2,win,20240514_7ge4,1,1,0,0,7.1,10,1,1,1.23,1.36,0,2024,2023-24,div2,LSU Eunice,louisianastateuniversityeunice,collinhusserijug,Collin Husser
+Jan 27,home,Dallas College - North Lake,W,14-1,14,1,13,win,20240127_tnp6,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,LSU Eunice,louisianastateuniversityeunice,collinhusserijug,Collin Husser
+Jan 28,home,Dallas College - North Lake,W,11-0,11,0,11,win,20240128_ukbt,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,LSU Eunice,louisianastateuniversityeunice,collinhusserijug,Collin Husser
+Jan 28,home,Dallas College - North Lake,W,13-4,13,4,9,win,20240128_o6dt,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,LSU Eunice,louisianastateuniversityeunice,collinhusserijug,Collin Husser
+Feb 2,home,National Park College,W,7-1,7,1,6,win,20240202_aj7r,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,LSU Eunice,louisianastateuniversityeunice,collinhusserijug,Collin Husser
+Feb 4,home,National Park College,W,10-1,10,1,9,win,20240204_oag2,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,LSU Eunice,louisianastateuniversityeunice,collinhusserijug,Collin Husser
+Feb 4,home,National Park College,W,10-0,10,0,10,win,20240204_om4m,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,LSU Eunice,louisianastateuniversityeunice,collinhusserijug,Collin Husser
+Feb 8,home,Monroe College,W,12-7,12,7,5,win,20240208_7txy,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,LSU Eunice,louisianastateuniversityeunice,collinhusserijug,Collin Husser
+Feb 9,home,Monroe College,W,9-1,9,1,8,win,20240209_06w4,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,LSU Eunice,louisianastateuniversityeunice,collinhusserijug,Collin Husser
+Feb 10,home,Monroe College,W,6-3,6,3,3,win,20240210_y9db,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,LSU Eunice,louisianastateuniversityeunice,collinhusserijug,Collin Husser
+Feb 11,home,Monroe College,W,15-1,15,1,14,win,20240211_ee8y,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,LSU Eunice,louisianastateuniversityeunice,collinhusserijug,Collin Husser
+Feb 16,home,Kellogg,W,7-1,7,1,6,win,20240216_5xtm,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,LSU Eunice,louisianastateuniversityeunice,collinhusserijug,Collin Husser
+Feb 17,home,Kellogg,W,20-4,20,4,16,win,20240217_ypeq,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,LSU Eunice,louisianastateuniversityeunice,collinhusserijug,Collin Husser
+Feb 18,home,Kellogg,W,9-0,9,0,9,win,20240218_746k,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,LSU Eunice,louisianastateuniversityeunice,collinhusserijug,Collin Husser
+Feb 20,home,Panola,W,7-3,7,3,4,win,20240220_rge1,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,LSU Eunice,louisianastateuniversityeunice,collinhusserijug,Collin Husser
+Feb 23,home,Southern Arkansas University Tech,W,12-2,12,2,10,win,20240223_29em,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,LSU Eunice,louisianastateuniversityeunice,collinhusserijug,Collin Husser
+Feb 25,home,Southern Arkansas University Tech,W,12-1,12,1,11,win,20240225_37os,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,LSU Eunice,louisianastateuniversityeunice,collinhusserijug,Collin Husser
+Mar 1,home,Garrett,W,11-1,11,1,10,win,20240301_2p1k,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,LSU Eunice,louisianastateuniversityeunice,collinhusserijug,Collin Husser
+Mar 2,home,Garrett,W,8-1,8,1,7,win,20240302_gxy9,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,LSU Eunice,louisianastateuniversityeunice,collinhusserijug,Collin Husser
+Mar 2,home,Garrett,W,13-1,13,1,12,win,20240302_5uyd,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,LSU Eunice,louisianastateuniversityeunice,collinhusserijug,Collin Husser
+Mar 9,home,Southeastern,W,17-3,17,3,14,win,20240309_v1s4,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,LSU Eunice,louisianastateuniversityeunice,collinhusserijug,Collin Husser
+Mar 13,home,Bossier Parish,W,5-0,5,0,5,win,20240313_p8iq,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,LSU Eunice,louisianastateuniversityeunice,collinhusserijug,Collin Husser
+Mar 14,home,North Iowa Area,W,17-2,17,2,15,win,20240314_obto,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,LSU Eunice,louisianastateuniversityeunice,collinhusserijug,Collin Husser
+Mar 15,home,North Iowa Area,W,3-0,3,0,3,win,20240315_lnse,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,LSU Eunice,louisianastateuniversityeunice,collinhusserijug,Collin Husser
+Mar 16,home,North Iowa Area,W,5-3,5,3,2,win,20240316_qpvz,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,LSU Eunice,louisianastateuniversityeunice,collinhusserijug,Collin Husser
+Mar 19,home,Southern Arkansas University Tech,W,13-3,13,3,10,win,20240319_j5ku,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,LSU Eunice,louisianastateuniversityeunice,collinhusserijug,Collin Husser
+Mar 23,home,Central Alabama,W,14-4,14,4,10,win,20240323_z1xt,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,LSU Eunice,louisianastateuniversityeunice,collinhusserijug,Collin Husser
+Mar 23,home,Central Alabama,L,5-4,5,4,1,win,20240323_wmxi,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,LSU Eunice,louisianastateuniversityeunice,collinhusserijug,Collin Husser
+Mar 24,home,Central Alabama,W,2-1,2,1,1,win,20240324_mtny,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,LSU Eunice,louisianastateuniversityeunice,collinhusserijug,Collin Husser
+Mar 27,home,South Arkansas,W,10-4,10,4,6,win,20240327_0b41,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,LSU Eunice,louisianastateuniversityeunice,collinhusserijug,Collin Husser
+Mar 29,home,Southeast Arkansas College,W,11-2,11,2,9,win,20240329_q9d3,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,LSU Eunice,louisianastateuniversityeunice,collinhusserijug,Collin Husser
+Mar 30,home,Southeast Arkansas College,W,10-0,10,0,10,win,20240330_l8sz,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,LSU Eunice,louisianastateuniversityeunice,collinhusserijug,Collin Husser
+Mar 30,home,Southeast Arkansas College,W,7-3,7,3,4,win,20240330_usd0,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,LSU Eunice,louisianastateuniversityeunice,collinhusserijug,Collin Husser
+Apr 3,home,Centenary College,W,12-1,12,1,11,win,20240403_wzk7,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,LSU Eunice,louisianastateuniversityeunice,collinhusserijug,Collin Husser
+Apr 6,home,Delgado,W,5-2,5,2,3,win,20240406_l4ur,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,LSU Eunice,louisianastateuniversityeunice,collinhusserijug,Collin Husser
+Apr 6,home,Delgado,W,13-3,13,3,10,win,20240406_tp0a,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,LSU Eunice,louisianastateuniversityeunice,collinhusserijug,Collin Husser
+Apr 7,home,Delgado,W,6-4,6,4,2,win,20240407_ei9t,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,LSU Eunice,louisianastateuniversityeunice,collinhusserijug,Collin Husser
+Apr 11,home,Centenary College,W,19-4,19,4,15,win,20240411_ayph,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,LSU Eunice,louisianastateuniversityeunice,collinhusserijug,Collin Husser
+Apr 13,home,Southeast Arkansas College,W,10-1,10,1,9,win,20240413_mbp4,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,LSU Eunice,louisianastateuniversityeunice,collinhusserijug,Collin Husser
+Apr 14,home,Southeast Arkansas College,W,10-0,10,0,10,win,20240414_kbi1,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,LSU Eunice,louisianastateuniversityeunice,collinhusserijug,Collin Husser
+Apr 14,home,Southeast Arkansas College,L,5-4,5,4,1,win,20240414_jgaq,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,LSU Eunice,louisianastateuniversityeunice,collinhusserijug,Collin Husser
+Apr 15,home,Panola,W,7-4,7,4,3,win,20240415_5gm6,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,LSU Eunice,louisianastateuniversityeunice,collinhusserijug,Collin Husser
+Apr 19,home,Panola,L,6-3,6,3,3,win,20240419_u6rj,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,LSU Eunice,louisianastateuniversityeunice,collinhusserijug,Collin Husser
+Apr 20,home,Panola,W,3-2,3,2,1,win,20240420_ybp7,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,LSU Eunice,louisianastateuniversityeunice,collinhusserijug,Collin Husser
+Apr 20,home,Panola,L,4-3,4,3,1,win,20240420_ydrz,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,LSU Eunice,louisianastateuniversityeunice,collinhusserijug,Collin Husser
+Apr 24,home,Bossier Parish,W,4-0,4,0,4,win,20240424_axsl,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,LSU Eunice,louisianastateuniversityeunice,collinhusserijug,Collin Husser
+Apr 27,home,Delgado,W,10-0,10,0,10,win,20240427_03i4,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,LSU Eunice,louisianastateuniversityeunice,collinhusserijug,Collin Husser
+Apr 27,home,Delgado,L,2-0,2,0,2,win,20240427_n5og,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,LSU Eunice,louisianastateuniversityeunice,collinhusserijug,Collin Husser
+Apr 28,home,Delgado,L,5-2,5,2,3,win,20240428_6a4p,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,LSU Eunice,louisianastateuniversityeunice,collinhusserijug,Collin Husser
+Apr 30,home,South Arkansas,W,15-5,15,5,10,win,20240430_m26t,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,LSU Eunice,louisianastateuniversityeunice,collinhusserijug,Collin Husser
+May 4,home,Tyler,W,8-7,8,7,1,win,20240504_lfdy,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,LSU Eunice,louisianastateuniversityeunice,collinhusserijug,Collin Husser
+May 5,home,Tyler,W,9-1,9,1,8,win,20240505_q5ch,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,LSU Eunice,louisianastateuniversityeunice,collinhusserijug,Collin Husser
+May 14,home,Jones,W,7-5,7,5,2,win,20240514_7ge4,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,LSU Eunice,louisianastateuniversityeunice,collinhusserijug,Collin Husser
+May 15,home,Pearl River,W,11-3,11,3,8,win,20240515_li8d,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,LSU Eunice,louisianastateuniversityeunice,collinhusserijug,Collin Husser
+May 16,home,Pearl River,W,10-0,10,0,10,win,20240516_q8vv,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,LSU Eunice,louisianastateuniversityeunice,collinhusserijug,Collin Husser

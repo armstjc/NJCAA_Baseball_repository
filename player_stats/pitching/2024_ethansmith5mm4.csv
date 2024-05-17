@@ -1,13 +1,10 @@
 date,location,opponent,result,score,team_score,opp_score,game_score_diff,game_win_loss,game_id,GS,W,L,SV,IP,H,R,ER,ERA,BB,K,HR,season,njcaa_season,njcaa_division,team,team_id,player_id,player_name
-May 9,home,Jefferson (MO),W,10-6,10,6,4,win,20240509_77mu,0,0,0,0,5.0,4,5,2,3.60,1.40,3,7,2024,2023-24,div1,St. Louis,stlouiscommunitycollege,ethansmith5mm4,Ethan Smith
-May 3,home,Mineral Area,W,10-2,10,2,8,win,20240503_ky1o,0,1,0,0,6.0,7,2,2,3.00,1.17,,12,2024,2023-24,div1,St. Louis,stlouiscommunitycollege,ethansmith5mm4,Ethan Smith
-Apr 19,home,State Fair,W,4-2,4,2,2,win,20240419_jspb,0,1,0,0,7.0,5,2,1,1.29,1.00,2,11,2024,2023-24,div1,St. Louis,stlouiscommunitycollege,ethansmith5mm4,Ethan Smith
-Apr 13,home,Metropolitan,W,10-6,10,6,4,win,20240413_kmqc,0,0,0,0,4.0,4,4,4,9.00,2.25,5,7,2024,2023-24,div1,St. Louis,stlouiscommunitycollege,ethansmith5mm4,Ethan Smith
-Apr 5,home,St. Charles,L,9-5,9,5,4,win,20240405_nmr2,0,0,1,0,3.2,6,6,6,14.73,2.73,4,2,2024,2023-24,div1,St. Louis,stlouiscommunitycollege,ethansmith5mm4,Ethan Smith
-Mar 29,home,Jefferson (MO),W,6-3,6,3,3,win,20240329_u5gk,0,1,0,0,6.0,5,3,2,3.00,1.00,1,11,2024,2023-24,div1,St. Louis,stlouiscommunitycollege,ethansmith5mm4,Ethan Smith
-Mar 21,home,Mineral Area,L,5-1,5,1,4,win,20240321_8vqo,0,0,1,0,6.0,7,4,4,6.00,1.33,1,7,2024,2023-24,div1,St. Louis,stlouiscommunitycollege,ethansmith5mm4,Ethan Smith
-Mar 16,home,Crowder,L,9-4,9,4,5,win,20240316_mvwn,0,0,1,0,3.2,6,6,6,14.73,2.45,3,7,2024,2023-24,div1,St. Louis,stlouiscommunitycollege,ethansmith5mm4,Ethan Smith
-Mar 9,home,Three Rivers,L,4-2,4,2,2,win,20240309_w9a5,0,0,1,0,4.0,6,2,1,2.25,1.50,,9,2024,2023-24,div1,St. Louis,stlouiscommunitycollege,ethansmith5mm4,Ethan Smith
-Mar 2,home,Rock Valley,L,4-1,4,1,3,win,20240302_kecy,0,0,0,0,4.0,2,1,1,2.25,.75,1,7,2024,2023-24,div1,St. Louis,stlouiscommunitycollege,ethansmith5mm4,Ethan Smith
-Feb 24,home,Shawnee,L,6-4,6,4,2,win,20240224_ddwh,0,0,0,0,4.0,3,1,1,2.25,1.00,1,10,2024,2023-24,div1,St. Louis,stlouiscommunitycollege,ethansmith5mm4,Ethan Smith
-Feb 10,home,Lake Land,W,14-2,14,2,12,win,20240210_qa6x,0,1,0,0,3.0,1,1,1,3.00,1.67,4,5,2024,2023-24,div1,St. Louis,stlouiscommunitycollege,ethansmith5mm4,Ethan Smith
+Apr 21,home,Volunteer State,L,4-0,4,0,4,win,20240421_mp2y,1,0,0,0,5.0,9,4,3,5.40,2.00,1,1,2024,2023-24,div1,St. Louis,stlouiscommunitycollege,ethansmith5mm4,Ethan Smith
+Apr 13,home,Chattanooga State,L,5-3,5,3,2,win,20240413_cub4,1,0,1,0,3.0,3,0,0,0.00,1.33,1,1,2024,2023-24,div1,St. Louis,stlouiscommunitycollege,ethansmith5mm4,Ethan Smith
+Apr 6,home,Dyersburg State,W,6-4,6,4,2,win,20240406_gmot,1,0,0,0,5.2,6,4,4,6.35,1.76,4,3,2024,2023-24,div1,St. Louis,stlouiscommunitycollege,ethansmith5mm4,Ethan Smith
+Mar 30,home,Columbia State,L,11-1,11,1,10,win,20240330_l5bs,1,0,1,0,4.0,6,6,2,4.50,2.25,3,2,2024,2023-24,div1,St. Louis,stlouiscommunitycollege,ethansmith5mm4,Ethan Smith
+Mar 24,home,Walters State,L,12-2,12,2,10,win,20240324_vc32,1,0,1,0,3.0,8,9,9,27.00,4.00,4,2,2024,2023-24,div1,St. Louis,stlouiscommunitycollege,ethansmith5mm4,Ethan Smith
+Mar 17,home,Cleveland State,W,11-10,11,10,1,win,20240317_bby9,1,0,0,0,4.1,8,7,7,14.54,3.23,6,3,2024,2023-24,div1,St. Louis,stlouiscommunitycollege,ethansmith5mm4,Ethan Smith
+Mar 11,home,Kishwaukee,W,5-4,5,4,1,win,20240311_olos,0,0,0,0,5.0,9,4,1,1.80,1.80,,4,2024,2023-24,div1,St. Louis,stlouiscommunitycollege,ethansmith5mm4,Ethan Smith
+Mar 6,home,Williams Baptist JV,W,10-4,10,4,6,win,20240306_yz7o,1,1,0,0,4.1,3,3,1,2.08,.92,1,9,2024,2023-24,div1,St. Louis,stlouiscommunitycollege,ethansmith5mm4,Ethan Smith
+Feb 27,home,Blue Mountain JV,W,9-6,9,6,3,win,20240227_76rs,0,0,0,0,0.2,,3,,0.00,,,1,2024,2023-24,div1,St. Louis,stlouiscommunitycollege,ethansmith5mm4,Ethan Smith

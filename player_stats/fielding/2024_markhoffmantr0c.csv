@@ -1,7 +1,27 @@
 date,location,opponent,result,score,team_score,opp_score,game_score_diff,game_win_loss,game_id,TC,PO,A,E,FPCT,DP,SBA,RCS,RCS_PCT,PB,CI,season,njcaa_season,njcaa_division,team,team_id,player_id,player_name
-Feb 9,home,Northeast Texas,L,10-4,10,4,6,win,20240209_j031,0,0,0,0,1.2,5,5,5,27.00,3.60,1,2024,2023-24,div1,Cowley,cowleycountycommunitycollege,markhoffmantr0c,Mark Hoffman
-Feb 17,home,Panola,W,15-5,15,5,10,win,20240217_bw4v,0,0,0,0,1.0,3,3,2,18.00,4.00,1,2024,2023-24,div1,Cowley,cowleycountycommunitycollege,markhoffmantr0c,Mark Hoffman
-Feb 24,home,Iowa Western,W,7-4,7,4,3,win,20240224_draq,0,0,0,0,1.1,3,2,2,13.50,3.75,2,2024,2023-24,div1,Cowley,cowleycountycommunitycollege,markhoffmantr0c,Mark Hoffman
-Mar 9,home,Coffeyville,L,6-4,6,4,2,win,20240309_qb0c,0,0,0,0,2.1,1,,,0.00,.43,,2024,2023-24,div1,Cowley,cowleycountycommunitycollege,markhoffmantr0c,Mark Hoffman
-Mar 12,home,Hutchinson,W,23-22,23,22,1,win,20240312_buef,0,0,0,0,1.2,2,1,1,5.40,3.00,3,2024,2023-24,div1,Cowley,cowleycountycommunitycollege,markhoffmantr0c,Mark Hoffman
-Mar 16,home,Allen County,W,7-4,7,4,3,win,20240316_4s9t,0,0,0,0,2.0,3,1,1,4.50,1.50,,2024,2023-24,div1,Cowley,cowleycountycommunitycollege,markhoffmantr0c,Mark Hoffman
+Feb 16,home,Panola,L,7-3,7,3,4,win,20240216_vdhl,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Cowley,cowleycountycommunitycollege,markhoffmantr0c,Mark Hoffman
+Mar 2,home,Indian Hills,L,9-7,9,7,2,win,20240302_vw7s,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Cowley,cowleycountycommunitycollege,markhoffmantr0c,Mark Hoffman
+Mar 7,home,Coffeyville,W,4-1,4,1,3,win,20240307_0fem,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Cowley,cowleycountycommunitycollege,markhoffmantr0c,Mark Hoffman
+Mar 9,home,Coffeyville,L,6-4,6,4,2,win,20240309_qb0c,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Cowley,cowleycountycommunitycollege,markhoffmantr0c,Mark Hoffman
+Mar 12,home,Hutchinson,W,23-22,23,22,1,win,20240312_buef,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Cowley,cowleycountycommunitycollege,markhoffmantr0c,Mark Hoffman
+Mar 14,home,Allen County,W,7-5,7,5,2,win,20240314_dbad,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Cowley,cowleycountycommunitycollege,markhoffmantr0c,Mark Hoffman
+Mar 14,home,Allen County,W,10-0,10,0,10,win,20240314_gu9p,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Cowley,cowleycountycommunitycollege,markhoffmantr0c,Mark Hoffman
+Mar 16,home,Allen County,W,7-4,7,4,3,win,20240316_4s9t,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Cowley,cowleycountycommunitycollege,markhoffmantr0c,Mark Hoffman
+Mar 19,home,Barton,L,16-8,16,8,8,win,20240319_i9f6,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Cowley,cowleycountycommunitycollege,markhoffmantr0c,Mark Hoffman
+Mar 21,home,Labette,W,21-0,21,0,21,win,20240321_3iaz,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Cowley,cowleycountycommunitycollege,markhoffmantr0c,Mark Hoffman
+Mar 23,home,Labette,W,7-3,7,3,4,win,20240323_8z0o,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Cowley,cowleycountycommunitycollege,markhoffmantr0c,Mark Hoffman
+Mar 28,home,Butler,W,18-2,18,2,16,win,20240328_a8hg,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Cowley,cowleycountycommunitycollege,markhoffmantr0c,Mark Hoffman
+Mar 30,home,Butler,L,9-8,9,8,1,win,20240330_mb6t,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Cowley,cowleycountycommunitycollege,markhoffmantr0c,Mark Hoffman
+Apr 2,home,Hutchinson,L,6-5,6,5,1,win,20240402_hfj3,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Cowley,cowleycountycommunitycollege,markhoffmantr0c,Mark Hoffman
+Apr 6,home,Kansas City Kansas,W,5-1,5,1,4,win,20240406_nsis,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Cowley,cowleycountycommunitycollege,markhoffmantr0c,Mark Hoffman
+Apr 9,home,Seminole State (OK),L,10-9,10,9,1,win,20240409_nk0x,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Cowley,cowleycountycommunitycollege,markhoffmantr0c,Mark Hoffman
+Apr 11,home,Neosho County,W,21-1,21,1,20,win,20240411_7slp,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Cowley,cowleycountycommunitycollege,markhoffmantr0c,Mark Hoffman
+Apr 13,home,Neosho County,W,17-7,17,7,10,win,20240413_c6ip,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Cowley,cowleycountycommunitycollege,markhoffmantr0c,Mark Hoffman
+Apr 16,home,Barton,L,21-18,21,18,3,win,20240416_go7p,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Cowley,cowleycountycommunitycollege,markhoffmantr0c,Mark Hoffman
+Apr 18,home,Fort Scott,W,2-1,2,1,1,win,20240418_7gmj,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Cowley,cowleycountycommunitycollege,markhoffmantr0c,Mark Hoffman
+Apr 20,home,Fort Scott,W,12-3,12,3,9,win,20240420_yva4,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Cowley,cowleycountycommunitycollege,markhoffmantr0c,Mark Hoffman
+Apr 24,home,Johnson County,W,10-5,10,5,5,win,20240424_lb3k,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Cowley,cowleycountycommunitycollege,markhoffmantr0c,Mark Hoffman
+Apr 28,home,Johnson County,L,10-7,10,7,3,win,20240428_my4t,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Cowley,cowleycountycommunitycollege,markhoffmantr0c,Mark Hoffman
+Apr 28,home,Johnson County,L,13-3,13,3,10,win,20240428_2s2c,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Cowley,cowleycountycommunitycollege,markhoffmantr0c,Mark Hoffman
+May 1,home,Highland (KS),W,23-1,23,1,22,win,20240501_gozk,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Cowley,cowleycountycommunitycollege,markhoffmantr0c,Mark Hoffman
+May 3,home,Highland (KS),W,9-6,9,6,3,win,20240503_dcto,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Cowley,cowleycountycommunitycollege,markhoffmantr0c,Mark Hoffman

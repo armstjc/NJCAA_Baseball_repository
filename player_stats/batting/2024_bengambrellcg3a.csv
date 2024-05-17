@@ -1,9 +1,25 @@
 date,location,opponent,result,score,team_score,opp_score,game_score_diff,game_win_loss,game_id,AB,R,H,2B,3B,HR,RBI,BB,K,SB,CS,HBP,SF,SH,TB,XBH,HDP,GO,FO,GO/FO,PA,season,njcaa_season,njcaa_division,team,team_id,player_id,player_name
-Feb 4,home,Catawba Valley,W,15-9,15,9,6,win,20240204_sx1z,0,0,0,,,,0,,,,,,,,0,0,,,,,0,2024,2023-24,div1,USC Lancaster,usclancaster,bengambrellcg3a,Ben Gambrell
-Feb 14,home,Cleveland,W,9-2,9,2,7,win,20240214_b7ya,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0,,,0,2024,2023-24,div1,USC Lancaster,usclancaster,bengambrellcg3a,Ben Gambrell
-Feb 17,home,Rockingham,W,11-3,11,3,8,win,20240217_2vbi,0,0,0,,,,0,,,,,,,,0,0,,,,,0,2024,2023-24,div1,USC Lancaster,usclancaster,bengambrellcg3a,Ben Gambrell
-Feb 27,home,Francis Marion JV,W,5-3,5,3,2,win,20240227_28me,0,0,0,,,,0,,,,,,,,0,0,,,,,0,2024,2023-24,div1,USC Lancaster,usclancaster,bengambrellcg3a,Ben Gambrell
-Mar 24,home,Spartanburg Methodist,W,11-5,11,5,6,win,20240324_6hzg,0,0,0,,,,0,,,,,,,,0,0,,,,,0,2024,2023-24,div1,USC Lancaster,usclancaster,bengambrellcg3a,Ben Gambrell
-Apr 14,home,USC Salkehatchie,W,12-2,12,2,10,win,20240414_o2xs,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0,,,0,2024,2023-24,div1,USC Lancaster,usclancaster,bengambrellcg3a,Ben Gambrell
-Apr 22,home,USC Union,W,13-1,13,1,12,win,20240422_6nsn,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0,,,0,2024,2023-24,div1,USC Lancaster,usclancaster,bengambrellcg3a,Ben Gambrell
-May 5,home,USC Union,W,14-13,14,13,1,win,20240505_q5f2,0,0,0,,,,0,,,,,,,,0,0,,,,,0,2024,2023-24,div1,USC Lancaster,usclancaster,bengambrellcg3a,Ben Gambrell
+Feb 4,home,Catawba Valley,W,15-9,15,9,6,win,20240204_sx1z,4,1,3,,,,1,1,1,,,,,,3,0,,,,,5,2024,2023-24,div1,USC Lancaster,usclancaster,bengambrellcg3a,Ben Gambrell
+Feb 10,home,Fayetteville Tech,W,11-9,11,9,2,win,20240210_34h7,2,2,1,,,,0,2,,,,,,,1,0,,,,,4,2024,2023-24,div1,USC Lancaster,usclancaster,bengambrellcg3a,Ben Gambrell
+Feb 10,home,Fayetteville Tech,W,7-6,7,6,1,win,20240210_5td0,3,1,1,1,,,1,,1,,,,,,2,1,,,,,3,2024,2023-24,div1,USC Lancaster,usclancaster,bengambrellcg3a,Ben Gambrell
+Feb 11,home,Fayetteville Tech,W,13-6,13,6,7,win,20240211_77g5,3,3,2,,,,0,1,1,,,,,,2,0,,,,,4,2024,2023-24,div1,USC Lancaster,usclancaster,bengambrellcg3a,Ben Gambrell
+Feb 14,home,Cleveland,W,9-5,9,5,4,win,20240214_9k33,4,1,0,,,,0,,1,,,1,,,0,0,,,,,5,2024,2023-24,div1,USC Lancaster,usclancaster,bengambrellcg3a,Ben Gambrell
+Feb 17,home,Rockingham,W,11-0,11,0,11,win,20240217_9llg,3,0,0,,,,0,,1,,,,,,0,0,,,,,3,2024,2023-24,div1,USC Lancaster,usclancaster,bengambrellcg3a,Ben Gambrell
+Feb 18,home,Rockingham,W,14-4,14,4,10,win,20240218_w8qd,3,0,1,,,,0,,,1,,,,,1,0,,,,,3,2024,2023-24,div1,USC Lancaster,usclancaster,bengambrellcg3a,Ben Gambrell
+Feb 18,home,Rockingham,W,11-6,11,6,5,win,20240218_a3te,5,2,2,1,,,1,,1,1,,,,,3,1,,,,,5,2024,2023-24,div1,USC Lancaster,usclancaster,bengambrellcg3a,Ben Gambrell
+Feb 22,home,Surry,W,11-3,11,3,8,win,20240222_zv2x,3,1,1,1,,,0,2,,1,,,,,2,1,1,,,,5,2024,2023-24,div1,USC Lancaster,usclancaster,bengambrellcg3a,Ben Gambrell
+Feb 24,home,Southeastern-Whiteville,W,10-1,10,1,9,win,20240224_cawv,2,1,1,,,,1,1,,,,,,,1,0,,,,,3,2024,2023-24,div1,USC Lancaster,usclancaster,bengambrellcg3a,Ben Gambrell
+Feb 25,home,Southeastern-Whiteville,W,13-1,13,1,12,win,20240225_b6o2,2,1,1,,,,1,1,,,,,,,1,0,,,,,3,2024,2023-24,div1,USC Lancaster,usclancaster,bengambrellcg3a,Ben Gambrell
+Feb 25,home,Southeastern-Whiteville,W,10-1,10,1,9,win,20240225_17nz,3,2,1,1,,,2,,,1,,,,,2,1,,,,,3,2024,2023-24,div1,USC Lancaster,usclancaster,bengambrellcg3a,Ben Gambrell
+Feb 27,home,Francis Marion JV,W,5-3,5,3,2,win,20240227_28me,4,1,1,1,,,0,,2,,,,,,2,1,,,,,4,2024,2023-24,div1,USC Lancaster,usclancaster,bengambrellcg3a,Ben Gambrell
+Mar 2,home,Macomb,W,12-4,12,4,8,win,20240302_lts3,3,0,2,1,,,0,,,,,,,,3,1,,,,,3,2024,2023-24,div1,USC Lancaster,usclancaster,bengambrellcg3a,Ben Gambrell
+Mar 2,home,Macomb,W,13-2,13,2,11,win,20240302_w1z7,4,2,2,,1,1,4,,,,,,,,7,2,,,,,4,2024,2023-24,div1,USC Lancaster,usclancaster,bengambrellcg3a,Ben Gambrell
+Mar 13,home,Surry,W,13-2,13,2,11,win,20240313_tnws,2,2,2,1,,,2,,,3,,1,,,3,1,,,,,3,2024,2023-24,div1,USC Lancaster,usclancaster,bengambrellcg3a,Ben Gambrell
+Apr 9,home,Southeastern-Whiteville,W,12-7,12,7,5,win,20240409_rikc,4,3,2,,,1,1,1,,2,,1,,,5,1,,,,,6,2024,2023-24,div1,USC Lancaster,usclancaster,bengambrellcg3a,Ben Gambrell
+Apr 13,home,USC Salkehatchie,W,15-5,15,5,10,win,20240413_2yei,3,1,1,0,0,0,1,0,0,0,0,0,0,0,1,0,,0,,,3,2024,2023-24,div1,USC Lancaster,usclancaster,bengambrellcg3a,Ben Gambrell
+Apr 13,home,USC Salkehatchie,W,13-3,13,3,10,win,20240413_02ma,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0,,,2,2024,2023-24,div1,USC Lancaster,usclancaster,bengambrellcg3a,Ben Gambrell
+Apr 20,home,USC Union,W,16-10,16,10,6,win,20240420_wgpq,3,4,1,1,0,0,0,1,0,1,0,1,0,0,2,1,,0,,,5,2024,2023-24,div1,USC Lancaster,usclancaster,bengambrellcg3a,Ben Gambrell
+Apr 20,home,USC Union,W,14-5,14,5,9,win,20240420_ak6p,2,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,0,,,3,2024,2023-24,div1,USC Lancaster,usclancaster,bengambrellcg3a,Ben Gambrell
+Apr 22,home,USC Union,W,13-1,13,1,12,win,20240422_6nsn,3,3,3,1,0,0,2,1,0,0,0,1,0,0,4,1,,0,,,5,2024,2023-24,div1,USC Lancaster,usclancaster,bengambrellcg3a,Ben Gambrell
+May 3,home,USC Sumter,W,1-0,1,0,1,win,20240503_cj7w,2,0,0,,,,0,,1,,,,,,0,0,,,1,,2,2024,2023-24,div1,USC Lancaster,usclancaster,bengambrellcg3a,Ben Gambrell
+May 5,home,USC Union,W,14-13,14,13,1,win,20240505_q5f2,2,2,0,,,,0,2,2,1,,,,,0,0,,,,,4,2024,2023-24,div1,USC Lancaster,usclancaster,bengambrellcg3a,Ben Gambrell

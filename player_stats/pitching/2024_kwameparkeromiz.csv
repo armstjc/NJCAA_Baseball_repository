@@ -1,9 +1,22 @@
 date,location,opponent,result,score,team_score,opp_score,game_score_diff,game_win_loss,game_id,GS,W,L,SV,IP,H,R,ER,ERA,BB,K,HR,season,njcaa_season,njcaa_division,team,team_id,player_id,player_name
-May 4,home,USC Union,L,9-1,9,1,8,win,20240504_dclt,0,0,0,0,0.2,0,2,1,13.50,.00,0,1,2024,2023-24,div1,USC Salkehatchie,uscsalkehatchie,kwameparkeromiz,Kwame Parker
-Apr 13,home,USC Lancaster,L,15-5,15,5,10,win,20240413_2yei,0,0,0,0,0.1,1,1,1,27.00,3.00,0,1,2024,2023-24,div1,USC Salkehatchie,uscsalkehatchie,kwameparkeromiz,Kwame Parker
-Mar 23,home,Gaston College,L,8-1,8,1,7,win,20240323_3tgc,0,0,0,0,1.2,1,2,2,10.80,2.40,3,,2024,2023-24,div1,USC Salkehatchie,uscsalkehatchie,kwameparkeromiz,Kwame Parker
-Mar 10,home,Florence-Darlington Tech,L,16-1,16,1,15,win,20240310_3jf7,0,0,0,0,0.1,1,5,4,108.00,15.00,4,0,2024,2023-24,div1,USC Salkehatchie,uscsalkehatchie,kwameparkeromiz,Kwame Parker
-Mar 3,home,Georgia Highlands,L,10-0,10,0,10,win,20240303_8aps,0,0,0,0,1.2,2,4,,0.00,1.80,1,,2024,2023-24,div1,USC Salkehatchie,uscsalkehatchie,kwameparkeromiz,Kwame Parker
-Feb 17,home,East Georgia State,L,13-1,13,1,12,win,20240217_wdtu,0,0,0,0,0.1,2,4,4,108.00,9.00,1,,2024,2023-24,div1,USC Salkehatchie,uscsalkehatchie,kwameparkeromiz,Kwame Parker
-Feb 11,home,Catawba Valley,W,4-2,4,2,2,win,20240211_baj5,0,0,0,0,1.0,,,,0.00,1.00,1,1,2024,2023-24,div1,USC Salkehatchie,uscsalkehatchie,kwameparkeromiz,Kwame Parker
-Feb 7,home,Southeastern-Whiteville,L,11-1,11,1,10,win,20240207_aydl,0,0,0,0,1.0,1,1,1,9.00,2.00,1,,2024,2023-24,div1,USC Salkehatchie,uscsalkehatchie,kwameparkeromiz,Kwame Parker
+Apr 22,home,USC Sumter,W,5-3,5,3,2,win,20240422_98dp,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div1,USC Salkehatchie,uscsalkehatchie,kwameparkeromiz,Kwame Parker
+Apr 20,home,USC Sumter,L,8-2,8,2,6,win,20240420_ikjz,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div1,USC Salkehatchie,uscsalkehatchie,kwameparkeromiz,Kwame Parker
+Apr 14,home,USC Lancaster,L,12-2,12,2,10,win,20240414_o2xs,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div1,USC Salkehatchie,uscsalkehatchie,kwameparkeromiz,Kwame Parker
+Apr 13,home,USC Lancaster,L,13-3,13,3,10,win,20240413_02ma,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div1,USC Salkehatchie,uscsalkehatchie,kwameparkeromiz,Kwame Parker
+Mar 29,home,USC Union,L,13-3,13,3,10,win,20240329_9qfs,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div1,USC Salkehatchie,uscsalkehatchie,kwameparkeromiz,Kwame Parker
+Mar 29,home,USC Union,L,5-4,5,4,1,win,20240329_xace,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div1,USC Salkehatchie,uscsalkehatchie,kwameparkeromiz,Kwame Parker
+Mar 24,home,Gaston College,L,17-1,17,1,16,win,20240324_v0rh,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div1,USC Salkehatchie,uscsalkehatchie,kwameparkeromiz,Kwame Parker
+Mar 24,home,Gaston College,L,10-0,10,0,10,win,20240324_ncp2,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div1,USC Salkehatchie,uscsalkehatchie,kwameparkeromiz,Kwame Parker
+Mar 23,home,Gaston College,L,7-5,7,5,2,win,20240323_1vuu,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div1,USC Salkehatchie,uscsalkehatchie,kwameparkeromiz,Kwame Parker
+Mar 20,home,Lander University JV,L,15-5,15,5,10,win,20240320_6m2z,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div1,USC Salkehatchie,uscsalkehatchie,kwameparkeromiz,Kwame Parker
+Mar 17,home,Spartanburg Methodist,L,12-3,12,3,9,win,20240317_lw9d,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div1,USC Salkehatchie,uscsalkehatchie,kwameparkeromiz,Kwame Parker
+Mar 17,home,Spartanburg Methodist,L,12-0,12,0,12,win,20240317_xq5v,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div1,USC Salkehatchie,uscsalkehatchie,kwameparkeromiz,Kwame Parker
+Mar 14,home,South Georgia State,L,9-3,9,3,6,win,20240314_sowp,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div1,USC Salkehatchie,uscsalkehatchie,kwameparkeromiz,Kwame Parker
+Mar 14,home,South Georgia State,L,6-5,6,5,1,win,20240314_9mjk,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div1,USC Salkehatchie,uscsalkehatchie,kwameparkeromiz,Kwame Parker
+Mar 11,home,Florence-Darlington Tech,L,10-0,10,0,10,win,20240311_7zwb,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div1,USC Salkehatchie,uscsalkehatchie,kwameparkeromiz,Kwame Parker
+Mar 11,home,Florence-Darlington Tech,L,13-3,13,3,10,win,20240311_r569,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div1,USC Salkehatchie,uscsalkehatchie,kwameparkeromiz,Kwame Parker
+Mar 10,home,Florence-Darlington Tech,L,12-2,12,2,10,win,20240310_w4fw,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div1,USC Salkehatchie,uscsalkehatchie,kwameparkeromiz,Kwame Parker
+Mar 5,home,South Georgia State,L,6-2,6,2,4,win,20240305_xul3,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div1,USC Salkehatchie,uscsalkehatchie,kwameparkeromiz,Kwame Parker
+Feb 24,home,Spartanburg Methodist,L,11-0,11,0,11,win,20240224_nufz,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div1,USC Salkehatchie,uscsalkehatchie,kwameparkeromiz,Kwame Parker
+Feb 17,home,East Georgia State,L,7-2,7,2,5,win,20240217_uzz8,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div1,USC Salkehatchie,uscsalkehatchie,kwameparkeromiz,Kwame Parker
+Feb 11,home,Catawba Valley,W,4-2,4,2,2,win,20240211_baj5,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div1,USC Salkehatchie,uscsalkehatchie,kwameparkeromiz,Kwame Parker

@@ -1,11 +1,14 @@
 date,location,opponent,result,score,team_score,opp_score,game_score_diff,game_win_loss,game_id,GS,W,L,SV,IP,H,R,ER,ERA,BB,K,HR,season,njcaa_season,njcaa_division,team,team_id,player_id,player_name
-May 11,home,Allen County,W,15-8,15,8,7,win,20240511_f5r3,1,1,0,0,6.0,4,1,1,1.50,1.33,4,5,2024,2023-24,div1,Cloud County,cloudcountycommunitycollege,wilyamkaan5f,Wil Yamka
-May 4,home,Butler,W,14-3,14,3,11,win,20240504_jysh,1,1,0,0,6.0,8,3,3,4.50,1.33,0,3,2024,2023-24,div1,Cloud County,cloudcountycommunitycollege,wilyamkaan5f,Wil Yamka
-Apr 26,home,Garden City,W,25-4,25,4,21,win,20240426_o5r0,0,0,0,0,2.0,,,,0.00,.50,1,2,2024,2023-24,div1,Cloud County,cloudcountycommunitycollege,wilyamkaan5f,Wil Yamka
-Apr 21,home,Hutchinson,L,6-3,6,3,3,win,20240421_dsac,0,0,0,0,4.0,4,,,0.00,1.25,1,4,2024,2023-24,div1,Cloud County,cloudcountycommunitycollege,wilyamkaan5f,Wil Yamka
-Apr 13,home,Barton,W,8-7,8,7,1,win,20240413_aoa9,0,1,0,0,2.2,1,3,3,10.13,.75,1,,2024,2023-24,div1,Cloud County,cloudcountycommunitycollege,wilyamkaan5f,Wil Yamka
-Apr 3,home,McPherson College JV,W,12-9,12,9,3,win,20240403_9rg6,1,0,0,0,3.2,6,7,7,17.18,1.64,0,4,2024,2023-24,div1,Cloud County,cloudcountycommunitycollege,wilyamkaan5f,Wil Yamka
-Mar 30,home,Dodge City,W,6-3,6,3,3,win,20240330_h1ed,0,0,0,0,1.0,2,1,1,9.00,2.00,,,2024,2023-24,div1,Cloud County,cloudcountycommunitycollege,wilyamkaan5f,Wil Yamka
-Feb 22,home,Southeast,L,11-6,11,6,5,win,20240222_p7nf,1,0,0,0,3.0,0,2,2,6.00,1.33,4,4,2024,2023-24,div1,Cloud County,cloudcountycommunitycollege,wilyamkaan5f,Wil Yamka
-Feb 15,home,Coffeyville,W,8-4,8,4,4,win,20240215_u8h1,1,0,0,0,4.0,5,3,3,6.75,1.50,1,1,2024,2023-24,div1,Cloud County,cloudcountycommunitycollege,wilyamkaan5f,Wil Yamka
-Feb 1,home,Des Moines Area,W,8-2,8,2,6,win,20240201_5pxx,0,1,0,0,4.0,4,,,0.00,1.25,1,4,2024,2023-24,div1,Cloud County,cloudcountycommunitycollege,wilyamkaan5f,Wil Yamka
+May 10,home,Allen County,W,10-3,10,3,7,win,20240510_d8dx,0,0,0,0,1.0,,,,0.00,1.00,1,3,2024,2023-24,div1,Cloud County,cloudcountycommunitycollege,wilyamkaan5f,Wil Yamka
+Apr 26,home,Garden City,W,11-1,11,1,10,win,20240426_78hs,0,0,0,0,1.0,1,,,0.00,2.00,1,3,2024,2023-24,div1,Cloud County,cloudcountycommunitycollege,wilyamkaan5f,Wil Yamka
+Apr 15,home,Kansas Wesleyan University JV,W,12-1,12,1,11,win,20240415_5bjp,0,0,0,0,1.0,,,,0.00,,,2,2024,2023-24,div1,Cloud County,cloudcountycommunitycollege,wilyamkaan5f,Wil Yamka
+Apr 3,home,McPherson College JV,W,12-9,12,9,3,win,20240403_9rg6,0,0,0,0,1.0,,2,2,18.00,3.00,3,2,2024,2023-24,div1,Cloud County,cloudcountycommunitycollege,wilyamkaan5f,Wil Yamka
+Mar 28,home,Dodge City,L,9-5,9,5,4,win,20240328_svo2,0,0,0,0,0.2,,,,0.00,1.50,1,,2024,2023-24,div1,Cloud County,cloudcountycommunitycollege,wilyamkaan5f,Wil Yamka
+Mar 21,home,Seward County,L,14-4,14,4,10,win,20240321_qx7l,0,0,0,0,4.0,5,2,2,4.50,1.50,1,4,2024,2023-24,div1,Cloud County,cloudcountycommunitycollege,wilyamkaan5f,Wil Yamka
+Mar 12,home,Iowa Western,L,6-2,6,2,4,win,20240312_96b2,0,0,0,0,1.0,1,1,1,9.00,2.00,1,,2024,2023-24,div1,Cloud County,cloudcountycommunitycollege,wilyamkaan5f,Wil Yamka
+Mar 6,home,Colby,W,11-4,11,4,7,win,20240306_tg6n,0,0,0,0,1.0,3,2,2,18.00,3.00,,2,2024,2023-24,div1,Cloud County,cloudcountycommunitycollege,wilyamkaan5f,Wil Yamka
+Feb 29,home,Johnson County,L,7-6,7,6,1,win,20240229_6zle,0,0,0,0,0.1,,,,0.00,3.00,1,1,2024,2023-24,div1,Cloud County,cloudcountycommunitycollege,wilyamkaan5f,Wil Yamka
+Feb 24,home,Southeast,L,17-11,17,11,6,win,20240224_xfuy,0,0,0,0,0.1,,3,2,54.00,6.00,2,,2024,2023-24,div1,Cloud County,cloudcountycommunitycollege,wilyamkaan5f,Wil Yamka
+Feb 22,home,Southeast,L,11-6,11,6,5,win,20240222_p7nf,0,0,0,0,0.2,2,1,1,13.50,3.00,,2,2024,2023-24,div1,Cloud County,cloudcountycommunitycollege,wilyamkaan5f,Wil Yamka
+Feb 19,home,Marshalltown,W,7-6,7,6,1,win,20240219_pv0u,1,1,0,0,4.0,4,3,3,6.75,1.25,1,7,2024,2023-24,div1,Cloud County,cloudcountycommunitycollege,wilyamkaan5f,Wil Yamka
+Feb 1,home,Des Moines Area,L,12-9,12,9,3,win,20240201_fbla,1,0,0,0,2.1,2,6,6,23.14,2.14,3,3,2024,2023-24,div1,Cloud County,cloudcountycommunitycollege,wilyamkaan5f,Wil Yamka

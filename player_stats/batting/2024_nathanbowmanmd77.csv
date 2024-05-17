@@ -1,22 +1,12 @@
 date,location,opponent,result,score,team_score,opp_score,game_score_diff,game_win_loss,game_id,AB,R,H,2B,3B,HR,RBI,BB,K,SB,CS,HBP,SF,SH,TB,XBH,HDP,GO,FO,GO/FO,PA,season,njcaa_season,njcaa_division,team,team_id,player_id,player_name
-Feb 9,home,Rose State,W,14-7,14,7,7,win,20240209_awti,2,1,1,,,,1,1,,1,,1,,1,1,0,,,,,5,2024,2023-24,div1,Barton,bartoncommunitycollege,nathanbowmanmd77,Nathan Bowman
-Feb 10,home,Rose State,W,4-1,4,1,3,win,20240210_iz82,2,0,0,,,,0,,1,,,,,,0,0,,,,,2,2024,2023-24,div1,Barton,bartoncommunitycollege,nathanbowmanmd77,Nathan Bowman
-Feb 18,home,Western Nebraska,W,7-5,7,5,2,win,20240218_xtrq,1,0,0,,,,2,,1,,,,2,,0,0,,,2,,3,2024,2023-24,div1,Barton,bartoncommunitycollege,nathanbowmanmd77,Nathan Bowman
-Feb 27,home,Kansas Wesleyan University JV,W,13-3,13,3,10,win,20240227_dj4c,2,1,1,1,,,1,1,1,1,,,,,2,1,,,,,3,2024,2023-24,div1,Barton,bartoncommunitycollege,nathanbowmanmd77,Nathan Bowman
-Mar 6,home,Butler,W,3-2,3,2,1,win,20240306_mg50,4,0,0,,,,0,,2,,,,,,0,0,,,,,4,2024,2023-24,div1,Barton,bartoncommunitycollege,nathanbowmanmd77,Nathan Bowman
-Mar 12,home,Kansas Wesleyan University JV,W,13-2,13,2,11,win,20240312_uj92,5,1,1,,,,0,,2,,,,,,1,0,,1,1,1.00,5,2024,2023-24,div1,Barton,bartoncommunitycollege,nathanbowmanmd77,Nathan Bowman
-Mar 16,home,Colby,W,8-7,8,7,1,win,20240316_keue,1,0,0,,,,0,2,,,,,,,0,0,,,,,3,2024,2023-24,div1,Barton,bartoncommunitycollege,nathanbowmanmd77,Nathan Bowman
-Mar 21,home,Pratt,W,8-0,8,0,8,win,20240321_84ag,2,1,1,,1,,1,,,,,,,,3,1,,,,,2,2024,2023-24,div1,Barton,bartoncommunitycollege,nathanbowmanmd77,Nathan Bowman
-Mar 21,home,Pratt,W,22-12,22,12,10,win,20240321_ool1,2,2,1,,,,0,2,,1,,1,,,1,0,,,1,,5,2024,2023-24,div1,Barton,bartoncommunitycollege,nathanbowmanmd77,Nathan Bowman
-Mar 23,home,Pratt,W,5-3,5,3,2,win,20240323_3vhb,2,0,2,,,,1,,,,,,1,,2,0,,,,,3,2024,2023-24,div1,Barton,bartoncommunitycollege,nathanbowmanmd77,Nathan Bowman
-Mar 23,home,Pratt,W,2-1,2,1,1,win,20240323_ipdn,3,1,1,,,,0,,1,,,1,,,1,0,,,,,4,2024,2023-24,div1,Barton,bartoncommunitycollege,nathanbowmanmd77,Nathan Bowman
-Mar 28,home,Seward County,W,14-4,14,4,10,win,20240328_r6tn,3,1,2,,,,1,,1,1,,,,,2,0,,,,,3,2024,2023-24,div1,Barton,bartoncommunitycollege,nathanbowmanmd77,Nathan Bowman
-Mar 28,home,Seward County,W,18-5,18,5,13,win,20240328_dwht,4,2,1,,,,1,1,,,,,,,1,0,,,,,5,2024,2023-24,div1,Barton,bartoncommunitycollege,nathanbowmanmd77,Nathan Bowman
-Apr 4,home,Dodge City,W,7-3,7,3,4,win,20240404_cokb,3,0,0,,,,0,,1,,,,,,0,0,,,2,,3,2024,2023-24,div1,Barton,bartoncommunitycollege,nathanbowmanmd77,Nathan Bowman
-Apr 9,home,McPherson College JV,W,5-0,5,0,5,win,20240409_svd7,2,0,0,,,,0,1,,,,1,,,0,0,,1,1,1.00,4,2024,2023-24,div1,Barton,bartoncommunitycollege,nathanbowmanmd77,Nathan Bowman
-Apr 13,home,Cloud County,W,20-10,20,10,10,win,20240413_jon1,3,2,1,,,,1,,1,,,1,,,1,0,,,1,,4,2024,2023-24,div1,Barton,bartoncommunitycollege,nathanbowmanmd77,Nathan Bowman
-Apr 16,home,Cowley,W,21-18,21,18,3,win,20240416_go7p,5,2,2,,,1,4,,,,,,,,5,1,,2,1,2.00,5,2024,2023-24,div1,Barton,bartoncommunitycollege,nathanbowmanmd77,Nathan Bowman
-Apr 18,home,Coffeyville,W,9-4,9,4,5,win,20240418_jyk8,3,0,1,,,,0,1,1,,1,,,,1,0,,1,,,4,2024,2023-24,div1,Barton,bartoncommunitycollege,nathanbowmanmd77,Nathan Bowman
-Apr 20,home,Coffeyville,W,7-4,7,4,3,win,20240420_f3el,0,0,0,,,,0,,,,,1,,,0,0,,,,,1,2024,2023-24,div1,Barton,bartoncommunitycollege,nathanbowmanmd77,Nathan Bowman
-May 2,home,Garden City,W,13-0,13,0,13,win,20240502_hv0r,2,1,0,,,,1,1,2,,,,,,0,0,,,,,3,2024,2023-24,div1,Barton,bartoncommunitycollege,nathanbowmanmd77,Nathan Bowman
-May 10,home,Fort Scott,W,18-7,18,7,11,win,20240510_m0t6,3,3,2,2,,,1,,,,,2,,,4,2,,,1,,5,2024,2023-24,div1,Barton,bartoncommunitycollege,nathanbowmanmd77,Nathan Bowman
+Feb 9,home,Rose State,W,14-7,14,7,7,win,20240209_awti,0,0,0,,,,0,,,,,,,,0,0,,,,,0,2024,2023-24,div1,Barton,bartoncommunitycollege,nathanbowmanmd77,Nathan Bowman
+Feb 18,home,Western Nebraska,W,7-5,7,5,2,win,20240218_xtrq,0,0,0,,,,0,,,,,,,,0,0,,,,,0,2024,2023-24,div1,Barton,bartoncommunitycollege,nathanbowmanmd77,Nathan Bowman
+Mar 1,home,North Iowa Area,W,15-5,15,5,10,win,20240301_j16y,0,0,0,,,,0,,,,,,,,0,0,,,,,0,2024,2023-24,div1,Barton,bartoncommunitycollege,nathanbowmanmd77,Nathan Bowman
+Mar 2,home,North Iowa Area,W,10-9,10,9,1,win,20240302_dre5,0,0,0,,,,0,,,,,,,,0,0,,,,,0,2024,2023-24,div1,Barton,bartoncommunitycollege,nathanbowmanmd77,Nathan Bowman
+Mar 14,home,Colby,W,8-0,8,0,8,win,20240314_4911,0,0,0,,,,0,,,,,,,,0,0,,,,,0,2024,2023-24,div1,Barton,bartoncommunitycollege,nathanbowmanmd77,Nathan Bowman
+Mar 16,home,Colby,W,13-11,13,11,2,win,20240316_b9fu,0,0,0,,,,0,,,,,,,,0,0,,,,,0,2024,2023-24,div1,Barton,bartoncommunitycollege,nathanbowmanmd77,Nathan Bowman
+Mar 19,home,Cowley,W,16-8,16,8,8,win,20240319_i9f6,0,0,0,,,,0,,,,,,,,0,0,,,,,0,2024,2023-24,div1,Barton,bartoncommunitycollege,nathanbowmanmd77,Nathan Bowman
+Mar 21,home,Pratt,W,22-12,22,12,10,win,20240321_ool1,0,0,0,,,,0,,,,,,,,0,0,,,,,0,2024,2023-24,div1,Barton,bartoncommunitycollege,nathanbowmanmd77,Nathan Bowman
+Mar 28,home,Seward County,W,18-5,18,5,13,win,20240328_dwht,0,0,0,,,,0,,,,,,,,0,0,,,,,0,2024,2023-24,div1,Barton,bartoncommunitycollege,nathanbowmanmd77,Nathan Bowman
+Apr 9,home,McPherson College JV,W,5-0,5,0,5,win,20240409_svd7,0,0,0,,,,0,,,,,,,,0,0,,,,,0,2024,2023-24,div1,Barton,bartoncommunitycollege,nathanbowmanmd77,Nathan Bowman
+May 3,home,Garden City,W,9-3,9,3,6,win,20240503_flfi,0,0,0,,,,0,,,,,,,,0,0,,,,,0,2024,2023-24,div1,Barton,bartoncommunitycollege,nathanbowmanmd77,Nathan Bowman

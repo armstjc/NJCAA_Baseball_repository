@@ -1,40 +1,25 @@
 date,location,opponent,result,score,team_score,opp_score,game_score_diff,game_win_loss,game_id,TC,PO,A,E,FPCT,DP,SBA,RCS,RCS_PCT,PB,CI,season,njcaa_season,njcaa_division,team,team_id,player_id,player_name
-Jan 26,home,Cochise,W,10-4,10,4,6,win,20240126_1phs,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Community Christian (CA),communitychristiancollege,joshuafarnerap82,Joshua Farner
-Jan 27,home,Cochise,L,17-0,17,0,17,win,20240127_fxv4,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Community Christian (CA),communitychristiancollege,joshuafarnerap82,Joshua Farner
-Jan 28,home,Cochise,W,9-6,9,6,3,win,20240128_6cdr,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Community Christian (CA),communitychristiancollege,joshuafarnerap82,Joshua Farner
-Jan 31,home,Scottsdale,L,2-1,2,1,1,win,20240131_vxah,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Community Christian (CA),communitychristiancollege,joshuafarnerap82,Joshua Farner
-Feb 1,home,Scottsdale,L,11-3,11,3,8,win,20240201_xn5v,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Community Christian (CA),communitychristiancollege,joshuafarnerap82,Joshua Farner
-Feb 1,home,Scottsdale,W,6-3,6,3,3,win,20240201_iy0r,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Community Christian (CA),communitychristiancollege,joshuafarnerap82,Joshua Farner
-Feb 9,home,Central Arizona,L,4-0,4,0,4,win,20240209_v2ea,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Community Christian (CA),communitychristiancollege,joshuafarnerap82,Joshua Farner
-Feb 10,home,Central Arizona,W,3-1,3,1,2,win,20240210_w02x,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Community Christian (CA),communitychristiancollege,joshuafarnerap82,Joshua Farner
-Feb 11,home,Central Arizona,L,9-0,9,0,9,win,20240211_2nh5,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Community Christian (CA),communitychristiancollege,joshuafarnerap82,Joshua Farner
-Feb 16,home,Treasure Valley,W,5-0,5,0,5,win,20240216_ma9e,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Community Christian (CA),communitychristiancollege,joshuafarnerap82,Joshua Farner
-Feb 16,home,Treasure Valley,W,5-0,5,0,5,win,20240216_ses5,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Community Christian (CA),communitychristiancollege,joshuafarnerap82,Joshua Farner
-Feb 17,home,Treasure Valley,W,12-2,12,2,10,win,20240217_rvtn,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Community Christian (CA),communitychristiancollege,joshuafarnerap82,Joshua Farner
-Feb 23,home,Yakima Valley CC,W,10-3,10,3,7,win,20240223_qy0g,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Community Christian (CA),communitychristiancollege,joshuafarnerap82,Joshua Farner
-Feb 24,home,Yakima Valley CC,W,8-3,8,3,5,win,20240224_h39z,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Community Christian (CA),communitychristiancollege,joshuafarnerap82,Joshua Farner
-Mar 1,home,Southern Nevada,L,6-3,6,3,3,win,20240301_1czr,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Community Christian (CA),communitychristiancollege,joshuafarnerap82,Joshua Farner
-Mar 8,home,Salt Lake,L,2-1,2,1,1,win,20240308_d35s,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Community Christian (CA),communitychristiancollege,joshuafarnerap82,Joshua Farner
-Mar 8,home,Salt Lake,W,8-3,8,3,5,win,20240308_i66w,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Community Christian (CA),communitychristiancollege,joshuafarnerap82,Joshua Farner
-Mar 9,home,Salt Lake,L,4-3,4,3,1,win,20240309_0tib,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Community Christian (CA),communitychristiancollege,joshuafarnerap82,Joshua Farner
-Mar 9,home,Salt Lake,L,7-5,7,5,2,win,20240309_6c97,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Community Christian (CA),communitychristiancollege,joshuafarnerap82,Joshua Farner
-Mar 13,home,Treasure Valley,L,7-1,7,1,6,win,20240313_t68f,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Community Christian (CA),communitychristiancollege,joshuafarnerap82,Joshua Farner
-Mar 22,home,Colorado Northwestern,W,3-2,3,2,1,win,20240322_e9kv,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Community Christian (CA),communitychristiancollege,joshuafarnerap82,Joshua Farner
-Mar 23,home,Colorado Northwestern,W,8-7,8,7,1,win,20240323_dthf,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Community Christian (CA),communitychristiancollege,joshuafarnerap82,Joshua Farner
-Mar 23,home,Colorado Northwestern,W,11-4,11,4,7,win,20240323_o5hy,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Community Christian (CA),communitychristiancollege,joshuafarnerap82,Joshua Farner
-Mar 29,home,Utah State Eastern,L,5-0,5,0,5,win,20240329_rfql,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Community Christian (CA),communitychristiancollege,joshuafarnerap82,Joshua Farner
-Mar 30,home,Utah State Eastern,W,9-4,9,4,5,win,20240330_xzdi,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Community Christian (CA),communitychristiancollege,joshuafarnerap82,Joshua Farner
-Mar 30,home,Utah State Eastern,L,13-9,13,9,4,win,20240330_0v2c,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Community Christian (CA),communitychristiancollege,joshuafarnerap82,Joshua Farner
-Apr 5,home,Southern Nevada,L,2-1,2,1,1,win,20240405_kksm,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Community Christian (CA),communitychristiancollege,joshuafarnerap82,Joshua Farner
-Apr 6,home,Southern Nevada,L,6-2,6,2,4,win,20240406_8vil,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Community Christian (CA),communitychristiancollege,joshuafarnerap82,Joshua Farner
-Apr 6,home,Southern Nevada,L,8-7,8,7,1,win,20240406_9f12,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Community Christian (CA),communitychristiancollege,joshuafarnerap82,Joshua Farner
-Apr 12,home,Salt Lake,L,5-4,5,4,1,win,20240412_gy0f,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Community Christian (CA),communitychristiancollege,joshuafarnerap82,Joshua Farner
-Apr 13,home,Salt Lake,L,13-5,13,5,8,win,20240413_1fc3,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Community Christian (CA),communitychristiancollege,joshuafarnerap82,Joshua Farner
-Apr 16,home,Utah State University Club,W,14-4,14,4,10,win,20240416_kvxd,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Community Christian (CA),communitychristiancollege,joshuafarnerap82,Joshua Farner
-Apr 16,home,Utah State University Club,W,12-2,12,2,10,win,20240416_572s,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Community Christian (CA),communitychristiancollege,joshuafarnerap82,Joshua Farner
-Apr 25,home,Colorado Northwestern,W,10-3,10,3,7,win,20240425_l16i,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Community Christian (CA),communitychristiancollege,joshuafarnerap82,Joshua Farner
-Apr 26,home,Colorado Northwestern,L,4-0,4,0,4,win,20240426_61u2,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Community Christian (CA),communitychristiancollege,joshuafarnerap82,Joshua Farner
-May 3,home,Utah State Eastern,W,6-3,6,3,3,win,20240503_4k0l,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Community Christian (CA),communitychristiancollege,joshuafarnerap82,Joshua Farner
-May 9,home,Southern Nevada,L,5-3,5,3,2,win,20240509_solb,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Community Christian (CA),communitychristiancollege,joshuafarnerap82,Joshua Farner
-May 10,home,Utah State Eastern,W,5-0,5,0,5,win,20240510_rcy1,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Community Christian (CA),communitychristiancollege,joshuafarnerap82,Joshua Farner
-May 10,home,Southern Nevada,L,13-3,13,3,10,win,20240510_kjf4,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Community Christian (CA),communitychristiancollege,joshuafarnerap82,Joshua Farner
+Jan 27,home,California Post Graduate,W,8-5,8,5,3,win,20240127_a8ed,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Community Christian (CA),communitychristiancollege,joshuafarnerap82,Joshua Farner
+Feb 4,home,California Post Graduate,L,10-9,10,9,1,win,20240204_tgyd,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Community Christian (CA),communitychristiancollege,joshuafarnerap82,Joshua Farner
+Feb 10,home,California Post Graduate,W,13-4,13,4,9,win,20240210_xeob,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Community Christian (CA),communitychristiancollege,joshuafarnerap82,Joshua Farner
+Feb 10,home,California Post Graduate,W,11-9,11,9,2,win,20240210_kn13,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Community Christian (CA),communitychristiancollege,joshuafarnerap82,Joshua Farner
+Feb 17,home,California Leadership University,W,9-2,9,2,7,win,20240217_jm4y,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Community Christian (CA),communitychristiancollege,joshuafarnerap82,Joshua Farner
+Feb 24,home,Vancouver island university,W,9-7,9,7,2,win,20240224_cwxf,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Community Christian (CA),communitychristiancollege,joshuafarnerap82,Joshua Farner
+Feb 24,home,Vancouver island university,L,15-5,15,5,10,win,20240224_5050,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Community Christian (CA),communitychristiancollege,joshuafarnerap82,Joshua Farner
+Mar 8,home,Southern Nevada,L,12-2,12,2,10,win,20240308_z0ak,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Community Christian (CA),communitychristiancollege,joshuafarnerap82,Joshua Farner
+Mar 8,home,Southern Nevada,L,8-2,8,2,6,win,20240308_z0hu,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Community Christian (CA),communitychristiancollege,joshuafarnerap82,Joshua Farner
+Mar 9,home,Southern Nevada,L,15-0,15,0,15,win,20240309_t7ni,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Community Christian (CA),communitychristiancollege,joshuafarnerap82,Joshua Farner
+Mar 9,home,Southern Nevada,L,12-0,12,0,12,win,20240309_b386,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Community Christian (CA),communitychristiancollege,joshuafarnerap82,Joshua Farner
+Mar 13,home,Cochise,W,1-0,1,0,1,win,20240313_wc0r,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Community Christian (CA),communitychristiancollege,joshuafarnerap82,Joshua Farner
+Mar 13,home,Cochise,L,12-2,12,2,10,win,20240313_yry8,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Community Christian (CA),communitychristiancollege,joshuafarnerap82,Joshua Farner
+Mar 14,home,Arizona Western,L,9-0,9,0,9,win,20240314_s5e5,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Community Christian (CA),communitychristiancollege,joshuafarnerap82,Joshua Farner
+Mar 15,home,Arizona Western,L,17-0,17,0,17,win,20240315_zl3v,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Community Christian (CA),communitychristiancollege,joshuafarnerap82,Joshua Farner
+Mar 15,home,Arizona Western,L,14-0,14,0,14,win,20240315_878j,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Community Christian (CA),communitychristiancollege,joshuafarnerap82,Joshua Farner
+Mar 21,home,Salt Lake,L,14-3,14,3,11,win,20240321_vis5,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Community Christian (CA),communitychristiancollege,joshuafarnerap82,Joshua Farner
+Mar 21,home,Salt Lake,L,13-0,13,0,13,win,20240321_q303,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Community Christian (CA),communitychristiancollege,joshuafarnerap82,Joshua Farner
+Mar 22,home,Salt Lake,L,15-3,15,3,12,win,20240322_e9qd,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Community Christian (CA),communitychristiancollege,joshuafarnerap82,Joshua Farner
+Mar 22,home,Salt Lake,L,24-0,24,0,24,win,20240322_2cxu,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Community Christian (CA),communitychristiancollege,joshuafarnerap82,Joshua Farner
+Apr 12,home,Southern Nevada,L,10-0,10,0,10,win,20240412_3dcl,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Community Christian (CA),communitychristiancollege,joshuafarnerap82,Joshua Farner
+Apr 12,home,Southern Nevada,L,24-2,24,2,22,win,20240412_dso8,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Community Christian (CA),communitychristiancollege,joshuafarnerap82,Joshua Farner
+Apr 13,home,Southern Nevada,L,14-0,14,0,14,win,20240413_5j1r,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Community Christian (CA),communitychristiancollege,joshuafarnerap82,Joshua Farner
+Apr 13,home,Southern Nevada,L,17-6,17,6,11,win,20240413_5n90,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Community Christian (CA),communitychristiancollege,joshuafarnerap82,Joshua Farner

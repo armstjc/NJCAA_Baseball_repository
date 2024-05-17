@@ -1,31 +1,17 @@
 date,location,opponent,result,score,team_score,opp_score,game_score_diff,game_win_loss,game_id,AB,R,H,2B,3B,HR,RBI,BB,K,SB,CS,HBP,SF,SH,TB,XBH,HDP,GO,FO,GO/FO,PA,season,njcaa_season,njcaa_division,team,team_id,player_id,player_name
-Jan 28,home,Carolina Elite Post Grad,W,28-2,28,2,26,win,20240128_7ha8,1,3,1,,,,0,3,,,,,,,1,0,,1,,,4,2024,2023-24,div1,East Georgia State,eastgeorgiacollege,craigheflinkbhl,Craig Heflin
-Jan 28,home,Carolina Elite Post Grad,W,9-3,9,3,6,win,20240128_yszk,1,0,1,,,,1,2,,,1,1,,,1,0,,1,,,4,2024,2023-24,div1,East Georgia State,eastgeorgiacollege,craigheflinkbhl,Craig Heflin
-Jan 31,home,Columbia International Jv,W,6-5,6,5,1,win,20240131_p03c,3,0,0,,,,0,,1,,,,,,0,0,,,1,,3,2024,2023-24,div1,East Georgia State,eastgeorgiacollege,craigheflinkbhl,Craig Heflin
-Jan 31,home,Columbia International Jv,W,11-10,11,10,1,win,20240131_cp0f,4,1,3,,,1,5,1,,,,,,,6,1,,2,2,1.00,5,2024,2023-24,div1,East Georgia State,eastgeorgiacollege,craigheflinkbhl,Craig Heflin
-Feb 3,home,USC Sumter,W,10-0,10,0,10,win,20240203_6tzy,1,1,1,,,,2,2,,,,,1,,1,0,,,1,,4,2024,2023-24,div1,East Georgia State,eastgeorgiacollege,craigheflinkbhl,Craig Heflin
-Feb 3,home,USC Sumter,W,7-6,7,6,1,win,20240203_sq2o,2,0,1,,,,0,2,,,,,,,1,0,,1,,,4,2024,2023-24,div1,East Georgia State,eastgeorgiacollege,craigheflinkbhl,Craig Heflin
-Feb 4,home,USC Sumter,W,6-3,6,3,3,win,20240204_dzet,3,0,2,,,,1,1,1,,,,,,2,0,,2,,,4,2024,2023-24,div1,East Georgia State,eastgeorgiacollege,craigheflinkbhl,Craig Heflin
-Feb 4,home,USC Sumter,W,6-1,6,1,5,win,20240204_l1h3,3,0,0,,,,0,1,1,,,,,,0,0,,,2,,4,2024,2023-24,div1,East Georgia State,eastgeorgiacollege,craigheflinkbhl,Craig Heflin
-Feb 9,home,Florence-Darlington Tech,W,13-3,13,3,10,win,20240209_m2sf,2,2,2,,,1,3,2,,,,,1,,5,1,,1,2,0.50,5,2024,2023-24,div1,East Georgia State,eastgeorgiacollege,craigheflinkbhl,Craig Heflin
-Feb 10,home,Hillsborough,W,13-0,13,0,13,win,20240210_xkaf,3,2,0,,,,0,,2,,,2,,,0,0,,,,,5,2024,2023-24,div1,East Georgia State,eastgeorgiacollege,craigheflinkbhl,Craig Heflin
-Feb 14,home,Erskine jv,W,11-1,11,1,10,win,20240214_03bp,3,2,1,,,1,4,1,2,,,,,,4,1,,,,,4,2024,2023-24,div1,East Georgia State,eastgeorgiacollege,craigheflinkbhl,Craig Heflin
-Feb 14,home,Erskine jv,W,12-2,12,2,10,win,20240214_hpwt,2,1,1,,,,1,,,1,,,,,1,0,,,,,2,2024,2023-24,div1,East Georgia State,eastgeorgiacollege,craigheflinkbhl,Craig Heflin
-Feb 17,home,USC Salkehatchie,W,7-2,7,2,5,win,20240217_uzz8,3,1,0,0,0,0,1,0,1,0,0,1,0,0,0,0,,0,,,4,2024,2023-24,div1,East Georgia State,eastgeorgiacollege,craigheflinkbhl,Craig Heflin
-Feb 17,home,USC Salkehatchie,W,13-1,13,1,12,win,20240217_wdtu,2,2,1,,,,0,1,1,,,1,,,1,0,,,,,4,2024,2023-24,div1,East Georgia State,eastgeorgiacollege,craigheflinkbhl,Craig Heflin
-Feb 18,home,USC Salkehatchie,W,6-3,6,3,3,win,20240218_sm87,3,1,2,1,0,0,1,1,0,0,0,0,0,0,3,1,,0,,,4,2024,2023-24,div1,East Georgia State,eastgeorgiacollege,craigheflinkbhl,Craig Heflin
-Feb 18,home,USC Salkehatchie,W,15-3,15,3,12,win,20240218_nbdm,4,3,2,2,0,0,3,0,0,0,0,1,0,0,4,2,,0,,,5,2024,2023-24,div1,East Georgia State,eastgeorgiacollege,craigheflinkbhl,Craig Heflin
-Feb 24,home,USC Salkehatchie,W,18-8,18,8,10,win,20240224_bb0n,3,2,1,1,0,0,1,0,0,0,0,1,0,0,2,1,,0,,,4,2024,2023-24,div1,East Georgia State,eastgeorgiacollege,craigheflinkbhl,Craig Heflin
-Mar 8,home,Macomb,W,14-11,14,11,3,win,20240308_px7a,2,3,2,0,0,1,3,3,0,0,0,0,0,0,5,1,,0,,,5,2024,2023-24,div1,East Georgia State,eastgeorgiacollege,craigheflinkbhl,Craig Heflin
-Mar 13,home,Brewton-Parker College JV,W,16-3,16,3,13,win,20240313_7vgs,4,2,3,1,0,0,3,0,0,0,0,0,0,0,4,1,,0,,,4,2024,2023-24,div1,East Georgia State,eastgeorgiacollege,craigheflinkbhl,Craig Heflin
-Mar 13,home,Brewton-Parker College JV,W,21-2,21,2,19,win,20240313_bulb,2,2,1,0,0,1,3,2,0,0,0,0,0,0,4,1,,0,,,4,2024,2023-24,div1,East Georgia State,eastgeorgiacollege,craigheflinkbhl,Craig Heflin
-Mar 27,home,Georgia Highlands,W,17-12,17,12,5,win,20240327_60y3,4,3,2,,,1,3,2,,,,,,,5,1,,,,,6,2024,2023-24,div1,East Georgia State,eastgeorgiacollege,craigheflinkbhl,Craig Heflin
-Mar 29,home,Georgia Highlands,W,8-4,8,4,4,win,20240329_1azm,5,1,2,2,,,1,,,,,,,,4,2,,,,,5,2024,2023-24,div1,East Georgia State,eastgeorgiacollege,craigheflinkbhl,Craig Heflin
-Apr 6,home,Andrew,W,9-6,9,6,3,win,20240406_1a1e,4,1,2,,,1,6,,1,,,,,,5,1,,,,,4,2024,2023-24,div1,East Georgia State,eastgeorgiacollege,craigheflinkbhl,Craig Heflin
-Apr 6,home,Andrew,W,16-9,16,9,7,win,20240406_uoh3,6,3,4,,,2,2,,1,,,,,,10,2,,,,,6,2024,2023-24,div1,East Georgia State,eastgeorgiacollege,craigheflinkbhl,Craig Heflin
-Apr 9,home,Abraham Baldwin,W,9-6,9,6,3,win,20240409_fi63,5,1,1,,,,1,,2,,,,,,1,0,,,,,5,2024,2023-24,div1,East Georgia State,eastgeorgiacollege,craigheflinkbhl,Craig Heflin
-Apr 12,home,Abraham Baldwin,W,17-11,17,11,6,win,20240412_subn,5,3,3,1,,2,4,,,,,1,,,10,3,,,,,6,2024,2023-24,div1,East Georgia State,eastgeorgiacollege,craigheflinkbhl,Craig Heflin
-Apr 16,home,South Georgia State,W,12-4,12,4,8,win,20240416_o5n7,4,2,3,2,,,2,,,,1,1,,,5,2,,,,,5,2024,2023-24,div1,East Georgia State,eastgeorgiacollege,craigheflinkbhl,Craig Heflin
-Apr 27,home,Andrew,W,12-2,12,2,10,win,20240427_t4pz,3,0,0,,,,0,1,1,,,1,,,0,0,,,,,5,2024,2023-24,div1,East Georgia State,eastgeorgiacollege,craigheflinkbhl,Craig Heflin
-Apr 30,home,Abraham Baldwin,W,9-7,9,7,2,win,20240430_wrjt,4,2,2,,,1,2,1,1,,,,,,5,1,,,,,5,2024,2023-24,div1,East Georgia State,eastgeorgiacollege,craigheflinkbhl,Craig Heflin
-May 2,home,South Georgia State,W,15-5,15,5,10,win,20240502_0kyn,5,3,3,1,,1,3,,1,,,,,,7,2,,,,,5,2024,2023-24,div1,East Georgia State,eastgeorgiacollege,craigheflinkbhl,Craig Heflin
+Jan 28,home,Carolina Elite Post Grad,W,28-2,28,2,26,win,20240128_7ha8,2,1,1,,,,2,,,,,,,,1,0,,1,,,2,2024,2023-24,div1,East Georgia State,eastgeorgiacollege,craigheflinkbhl,Craig Heflin
+Jan 31,home,Columbia International Jv,W,6-5,6,5,1,win,20240131_p03c,1,0,0,,,,0,,,,,,,,0,0,,,1,,1,2024,2023-24,div1,East Georgia State,eastgeorgiacollege,craigheflinkbhl,Craig Heflin
+Feb 3,home,USC Sumter,W,7-6,7,6,1,win,20240203_sq2o,2,0,0,,,,0,1,1,,,,,,0,0,,1,,,3,2024,2023-24,div1,East Georgia State,eastgeorgiacollege,craigheflinkbhl,Craig Heflin
+Feb 14,home,Erskine jv,W,11-1,11,1,10,win,20240214_03bp,2,0,0,,,,0,,2,,,,,,0,0,,,,,2,2024,2023-24,div1,East Georgia State,eastgeorgiacollege,craigheflinkbhl,Craig Heflin
+Feb 17,home,USC Salkehatchie,W,13-1,13,1,12,win,20240217_wdtu,0,0,0,,,,0,1,,,,,,,0,0,,,,,1,2024,2023-24,div1,East Georgia State,eastgeorgiacollege,craigheflinkbhl,Craig Heflin
+Feb 18,home,USC Salkehatchie,W,6-3,6,3,3,win,20240218_sm87,2,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,,0,,,3,2024,2023-24,div1,East Georgia State,eastgeorgiacollege,craigheflinkbhl,Craig Heflin
+Feb 18,home,USC Salkehatchie,W,15-3,15,3,12,win,20240218_nbdm,1,0,0,0,0,0,1,0,1,0,0,0,1,0,0,0,,0,,,2,2024,2023-24,div1,East Georgia State,eastgeorgiacollege,craigheflinkbhl,Craig Heflin
+Feb 24,home,USC Salkehatchie,W,18-8,18,8,10,win,20240224_bb0n,3,0,2,1,0,0,4,0,0,0,0,1,0,0,3,1,,0,,,4,2024,2023-24,div1,East Georgia State,eastgeorgiacollege,craigheflinkbhl,Craig Heflin
+Mar 12,home,Next Level Post Grad,W,22-5,22,5,17,win,20240312_mvzd,3,3,1,1,0,0,0,2,1,1,0,0,0,0,2,1,,0,,,5,2024,2023-24,div1,East Georgia State,eastgeorgiacollege,craigheflinkbhl,Craig Heflin
+Mar 12,home,Next Level Post Grad,W,25-7,25,7,18,win,20240312_gdc1,1,4,0,0,0,0,0,4,0,1,0,1,0,0,0,0,,0,,,6,2024,2023-24,div1,East Georgia State,eastgeorgiacollege,craigheflinkbhl,Craig Heflin
+Mar 27,home,Georgia Highlands,W,17-12,17,12,5,win,20240327_60y3,5,2,2,,,,1,1,1,,,,,,2,0,,,,,6,2024,2023-24,div1,East Georgia State,eastgeorgiacollege,craigheflinkbhl,Craig Heflin
+Mar 29,home,Georgia Highlands,W,8-4,8,4,4,win,20240329_1azm,5,0,1,,,,0,,2,,,,,,1,0,,,,,5,2024,2023-24,div1,East Georgia State,eastgeorgiacollege,craigheflinkbhl,Craig Heflin
+Apr 6,home,Andrew,W,16-9,16,9,7,win,20240406_uoh3,1,1,1,,,,0,,,,,,,,1,0,,,,,1,2024,2023-24,div1,East Georgia State,eastgeorgiacollege,craigheflinkbhl,Craig Heflin
+Apr 27,home,Andrew,W,12-2,12,2,10,win,20240427_t4pz,0,1,0,,,,0,1,,,,,,,0,0,,,,,1,2024,2023-24,div1,East Georgia State,eastgeorgiacollege,craigheflinkbhl,Craig Heflin
+Apr 30,home,Abraham Baldwin,W,9-7,9,7,2,win,20240430_wrjt,2,1,1,1,,,0,1,,,,,,,2,1,,,,,3,2024,2023-24,div1,East Georgia State,eastgeorgiacollege,craigheflinkbhl,Craig Heflin
+May 2,home,South Georgia State,W,15-5,15,5,10,win,20240502_0kyn,1,0,0,,,,0,1,,,,,,,0,0,,,,,2,2024,2023-24,div1,East Georgia State,eastgeorgiacollege,craigheflinkbhl,Craig Heflin

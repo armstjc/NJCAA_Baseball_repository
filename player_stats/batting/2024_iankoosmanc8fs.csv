@@ -1,29 +1,13 @@
 date,location,opponent,result,score,team_score,opp_score,game_score_diff,game_win_loss,game_id,AB,R,H,2B,3B,HR,RBI,BB,K,SB,CS,HBP,SF,SH,TB,XBH,HDP,GO,FO,GO/FO,PA,season,njcaa_season,njcaa_division,team,team_id,player_id,player_name
-Jan 27,home,Pima,W,7-6,7,6,1,win,20240127_ff6d,4,1,1,,,,0,,2,,,,,,1,0,,,,,4,2024,2023-24,div2,Paradise Valley,paradisevalleycommunitycollege,iankoosmanc8fs,Ian Koosman
-Jan 31,home,Utah State Eastern,W,8-2,8,2,6,win,20240131_wghj,1,0,1,,,,1,,,,,,,,1,0,,,,,1,2024,2023-24,div2,Paradise Valley,paradisevalleycommunitycollege,iankoosmanc8fs,Ian Koosman
-Feb 1,home,Colorado Northwestern,W,5-1,5,1,4,win,20240201_nl73,3,0,0,,,,0,,2,,,,,,0,0,,,,,3,2024,2023-24,div2,Paradise Valley,paradisevalleycommunitycollege,iankoosmanc8fs,Ian Koosman
-Feb 1,home,Colorado Northwestern,W,4-1,4,1,3,win,20240201_ylbp,2,1,0,,,,0,,,,,1,,,0,0,,,,,3,2024,2023-24,div2,Paradise Valley,paradisevalleycommunitycollege,iankoosmanc8fs,Ian Koosman
-Feb 5,home,Colorado Northwestern,W,14-5,14,5,9,win,20240205_winl,3,3,2,,,1,4,1,,1,,,1,,5,1,,,,,5,2024,2023-24,div2,Paradise Valley,paradisevalleycommunitycollege,iankoosmanc8fs,Ian Koosman
-Feb 5,home,Colorado Northwestern,W,11-7,11,7,4,win,20240205_pay3,3,1,1,1,,,1,,,,,,,,2,1,,,,,3,2024,2023-24,div2,Paradise Valley,paradisevalleycommunitycollege,iankoosmanc8fs,Ian Koosman
-Feb 6,home,Southwest Oregon,W,12-8,12,8,4,win,20240206_56ru,4,0,2,1,,,1,1,,,,,,,3,1,,,,,5,2024,2023-24,div2,Paradise Valley,paradisevalleycommunitycollege,iankoosmanc8fs,Ian Koosman
-Feb 13,home,GateWay (AZ),W,9-5,9,5,4,win,20240213_uugm,5,3,2,,1,,3,,,1,,,,,4,1,,,,,5,2024,2023-24,div2,Paradise Valley,paradisevalleycommunitycollege,iankoosmanc8fs,Ian Koosman
-Feb 14,home,GateWay (AZ),W,8-5,8,5,3,win,20240214_tbqb,4,1,1,,,,0,,1,1,,,,,1,0,,,,,4,2024,2023-24,div2,Paradise Valley,paradisevalleycommunitycollege,iankoosmanc8fs,Ian Koosman
-Feb 16,home,Scottsdale,W,8-5,8,5,3,win,20240216_7t4k,4,1,1,,,,0,,,,,1,,,1,0,,,,,5,2024,2023-24,div2,Paradise Valley,paradisevalleycommunitycollege,iankoosmanc8fs,Ian Koosman
-Feb 17,home,Scottsdale,W,5-3,5,3,2,win,20240217_fjoc,4,1,1,,,,0,1,1,,,,,,1,0,,,,,5,2024,2023-24,div2,Paradise Valley,paradisevalleycommunitycollege,iankoosmanc8fs,Ian Koosman
-Feb 22,home,Thompson Rivers University,W,16-4,16,4,12,win,20240222_c12u,2,0,0,,,,0,,1,,,,,,0,0,,,,,2,2024,2023-24,div2,Paradise Valley,paradisevalleycommunitycollege,iankoosmanc8fs,Ian Koosman
-Mar 5,home,Pima,W,5-4,5,4,1,win,20240305_hu6l,4,1,1,,,,0,,1,,,,,,1,0,,,,,4,2024,2023-24,div2,Paradise Valley,paradisevalleycommunitycollege,iankoosmanc8fs,Ian Koosman
-Mar 9,home,South Mountain,W,2-0,2,0,2,win,20240309_euin,1,0,0,,,,0,,,,,,,,0,0,,,,,1,2024,2023-24,div2,Paradise Valley,paradisevalleycommunitycollege,iankoosmanc8fs,Ian Koosman
-Mar 21,home,Yavapai,W,5-3,5,3,2,win,20240321_0vm1,1,0,0,,,,0,,,,,,,,0,0,,,,,1,2024,2023-24,div2,Paradise Valley,paradisevalleycommunitycollege,iankoosmanc8fs,Ian Koosman
-Mar 21,home,Yavapai,W,13-3,13,3,10,win,20240321_ehbs,5,0,0,,,,0,,4,,,,,,0,0,,,,,5,2024,2023-24,div2,Paradise Valley,paradisevalleycommunitycollege,iankoosmanc8fs,Ian Koosman
+Jan 27,home,Pima,W,7-6,7,6,1,win,20240127_ff6d,0,0,0,,,,0,,,,,,,,0,0,,,,,0,2024,2023-24,div2,Paradise Valley,paradisevalleycommunitycollege,iankoosmanc8fs,Ian Koosman
+Feb 1,home,Colorado Northwestern,W,4-1,4,1,3,win,20240201_ylbp,0,0,0,,,,0,,,,,,,,0,0,,,,,0,2024,2023-24,div2,Paradise Valley,paradisevalleycommunitycollege,iankoosmanc8fs,Ian Koosman
+Feb 14,home,GateWay (AZ),W,8-5,8,5,3,win,20240214_tbqb,0,0,0,,,,0,,,,,,,,0,0,,,,,0,2024,2023-24,div2,Paradise Valley,paradisevalleycommunitycollege,iankoosmanc8fs,Ian Koosman
+Feb 17,home,Scottsdale,W,5-3,5,3,2,win,20240217_fjoc,0,0,0,,,,0,,,,,,,,0,0,,,,,0,2024,2023-24,div2,Paradise Valley,paradisevalleycommunitycollege,iankoosmanc8fs,Ian Koosman
+Mar 5,home,Pima,W,5-4,5,4,1,win,20240305_hu6l,0,0,0,,,,0,,,,,,,,0,0,,,,,0,2024,2023-24,div2,Paradise Valley,paradisevalleycommunitycollege,iankoosmanc8fs,Ian Koosman
+Mar 9,home,South Mountain,W,2-0,2,0,2,win,20240309_euin,0,0,0,,,,0,,,,,,,,0,0,,,,,0,2024,2023-24,div2,Paradise Valley,paradisevalleycommunitycollege,iankoosmanc8fs,Ian Koosman
+Mar 21,home,Yavapai,W,13-3,13,3,10,win,20240321_ehbs,0,0,0,,,,0,,,,,,,,0,0,,,,,0,2024,2023-24,div2,Paradise Valley,paradisevalleycommunitycollege,iankoosmanc8fs,Ian Koosman
 Apr 3,home,Eastern Arizona,W,5-3,5,3,2,win,20240403_w9ds,0,0,0,,,,0,,,,,,,,0,0,,,,,0,2024,2023-24,div2,Paradise Valley,paradisevalleycommunitycollege,iankoosmanc8fs,Ian Koosman
-Apr 9,home,GateWay (AZ),W,7-5,7,5,2,win,20240409_8o3s,3,2,3,,1,,1,1,,,,1,,,5,1,,,,,5,2024,2023-24,div2,Paradise Valley,paradisevalleycommunitycollege,iankoosmanc8fs,Ian Koosman
-Apr 10,home,GateWay (AZ),W,8-1,8,1,7,win,20240410_5fgn,4,0,2,,,,4,,,,,1,,,2,0,,,,,5,2024,2023-24,div2,Paradise Valley,paradisevalleycommunitycollege,iankoosmanc8fs,Ian Koosman
-Apr 13,home,Scottsdale,W,10-0,10,0,10,win,20240413_fgyz,3,2,1,,,,1,,1,1,,1,,,1,0,,,,,4,2024,2023-24,div2,Paradise Valley,paradisevalleycommunitycollege,iankoosmanc8fs,Ian Koosman
-Apr 15,home,Benedictine University - JV,W,17-4,17,4,13,win,20240415_waj3,4,0,3,,,,4,,,,,,,,3,0,,,,,4,2024,2023-24,div2,Paradise Valley,paradisevalleycommunitycollege,iankoosmanc8fs,Ian Koosman
-Apr 16,home,Arizona Christian University - JV,W,8-2,8,2,6,win,20240416_hf1l,5,0,2,,,,2,,,,,,,,2,0,,,,,5,2024,2023-24,div2,Paradise Valley,paradisevalleycommunitycollege,iankoosmanc8fs,Ian Koosman
-Apr 19,home,Glendale,W,2-1,2,1,1,win,20240419_xry7,4,0,1,,,,0,,1,,,,,,1,0,,,,,4,2024,2023-24,div2,Paradise Valley,paradisevalleycommunitycollege,iankoosmanc8fs,Ian Koosman
-Apr 20,home,Glendale,W,4-3,4,3,1,win,20240420_qqha,5,0,1,1,,,0,,,,,,,,2,1,,,,,5,2024,2023-24,div2,Paradise Valley,paradisevalleycommunitycollege,iankoosmanc8fs,Ian Koosman
-Apr 23,home,Chandler-Gilbert,W,17-11,17,11,6,win,20240423_rykf,5,0,0,,,,0,,,,,,,,0,0,,,,,5,2024,2023-24,div2,Paradise Valley,paradisevalleycommunitycollege,iankoosmanc8fs,Ian Koosman
-Apr 24,home,Chandler-Gilbert,W,9-7,9,7,2,win,20240424_g959,4,2,2,,1,,1,,,1,,1,,,4,1,,,,,5,2024,2023-24,div2,Paradise Valley,paradisevalleycommunitycollege,iankoosmanc8fs,Ian Koosman
-Apr 27,home,Phoenix,W,6-3,6,3,3,win,20240427_pj8h,3,1,2,,,,0,1,,,,,,,2,0,,,,,4,2024,2023-24,div2,Paradise Valley,paradisevalleycommunitycollege,iankoosmanc8fs,Ian Koosman
-May 3,home,Chandler-Gilbert,W,7-1,7,1,6,win,20240503_qwgn,5,2,2,,,,0,,2,,,,,,2,0,,,,,5,2024,2023-24,div2,Paradise Valley,paradisevalleycommunitycollege,iankoosmanc8fs,Ian Koosman
+Apr 6,home,Mesa,W,3-1,3,1,2,win,20240406_6kzq,0,0,0,,,,0,,,,,,,,0,0,,,,,0,2024,2023-24,div2,Paradise Valley,paradisevalleycommunitycollege,iankoosmanc8fs,Ian Koosman
+Apr 13,home,Scottsdale,W,10-0,10,0,10,win,20240413_fgyz,0,0,0,,,,0,,,,,,,,0,0,,,,,0,2024,2023-24,div2,Paradise Valley,paradisevalleycommunitycollege,iankoosmanc8fs,Ian Koosman
+Apr 20,home,Glendale,W,4-3,4,3,1,win,20240420_qqha,0,0,0,,,,0,,,,,,,,0,0,,,,,0,2024,2023-24,div2,Paradise Valley,paradisevalleycommunitycollege,iankoosmanc8fs,Ian Koosman
+May 3,home,Chandler-Gilbert,W,7-1,7,1,6,win,20240503_qwgn,0,0,0,,,,0,,,,,,,,0,0,,,,,0,2024,2023-24,div2,Paradise Valley,paradisevalleycommunitycollege,iankoosmanc8fs,Ian Koosman
