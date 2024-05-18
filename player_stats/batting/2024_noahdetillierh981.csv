@@ -1,6 +1,25 @@
 date,location,opponent,result,score,team_score,opp_score,game_score_diff,game_win_loss,game_id,AB,R,H,2B,3B,HR,RBI,BB,K,SB,CS,HBP,SF,SH,TB,XBH,HDP,GO,FO,GO/FO,PA,season,njcaa_season,njcaa_division,team,team_id,player_id,player_name
-Feb 4,home,Enterprise State,W,11-6,11,6,5,win,20240204_r38g,0,0,0,,,,0,,,,,,,,0,0,,,,,0,2024,2023-24,div1,Nunez,nunezcommunitycollege,noahdetillierh981,Noah Detillier
-Feb 25,home,John Melvin University,W,18-2,18,2,16,win,20240225_uty2,0,0,0,,,,0,,,,,,,,0,0,,,,,0,2024,2023-24,div1,Nunez,nunezcommunitycollege,noahdetillierh981,Noah Detillier
-Mar 8,home,Triton,W,7-0,7,0,7,win,20240308_viyj,0,0,0,,,,0,,,,,,,,0,0,,,,,0,2024,2023-24,div1,Nunez,nunezcommunitycollege,noahdetillierh981,Noah Detillier
-Apr 15,home,Spring Hill JV,W,23-0,23,0,23,win,20240415_hz2y,0,0,0,,,,0,,,,,,,,0,0,,,,,0,2024,2023-24,div1,Nunez,nunezcommunitycollege,noahdetillierh981,Noah Detillier
-Apr 22,home,Louisiana Christian University,W,5-3,5,3,2,win,20240422_e2yf,0,0,0,,,,0,,,,,,,,0,0,,,,,0,2024,2023-24,div1,Nunez,nunezcommunitycollege,noahdetillierh981,Noah Detillier
+Jan 29,home,Bishop State,W,11-1,11,1,10,win,20240129_6j1o,3,0,0,,,,0,,1,,,,,,0,0,,,,,3,2024,2023-24,div1,Nunez,nunezcommunitycollege,noahdetillierh981,Noah Detillier
+Feb 4,home,Enterprise State,W,11-6,11,6,5,win,20240204_r38g,3,2,2,1,,,3,,1,,,,,,3,1,,,,,3,2024,2023-24,div1,Nunez,nunezcommunitycollege,noahdetillierh981,Noah Detillier
+Feb 7,home,John Melvin University,W,7-6,7,6,1,win,20240207_vzeh,3,0,2,1,,,1,1,,,1,,,,3,1,,,,,4,2024,2023-24,div1,Nunez,nunezcommunitycollege,noahdetillierh981,Noah Detillier
+Feb 15,home,Copiah-Lincoln,W,6-0,6,0,6,win,20240215_3ey3,3,2,2,1,,,0,2,,,,,,,3,1,,,,,5,2024,2023-24,div1,Nunez,nunezcommunitycollege,noahdetillierh981,Noah Detillier
+Feb 23,home,Mississippi Gulf Coast,W,11-10,11,10,1,win,20240223_l18d,1,0,0,,,,1,3,1,,,,1,,0,0,,,,,5,2024,2023-24,div1,Nunez,nunezcommunitycollege,noahdetillierh981,Noah Detillier
+Feb 25,home,John Melvin University,W,18-2,18,2,16,win,20240225_uty2,5,2,2,,,,3,,1,4,,,,,2,0,,,,,5,2024,2023-24,div1,Nunez,nunezcommunitycollege,noahdetillierh981,Noah Detillier
+Feb 25,home,John Melvin University,W,19-0,19,0,19,win,20240225_dzb3,3,3,1,,,1,2,,,,,2,,,4,1,,,,,5,2024,2023-24,div1,Nunez,nunezcommunitycollege,noahdetillierh981,Noah Detillier
+Feb 27,home,Southwest Mississippi,W,10-0,10,0,10,win,20240227_u467,4,1,1,,,1,2,,1,1,,,,,4,1,,,,,4,2024,2023-24,div1,Nunez,nunezcommunitycollege,noahdetillierh981,Noah Detillier
+Mar 8,home,Triton,W,14-4,14,4,10,win,20240308_x7u5,2,0,0,,,,2,,1,,,1,2,,0,0,,,,,5,2024,2023-24,div1,Nunez,nunezcommunitycollege,noahdetillierh981,Noah Detillier
+Mar 8,home,Triton,W,7-0,7,0,7,win,20240308_viyj,4,1,1,,,,0,,1,,,,,,1,0,,,,,4,2024,2023-24,div1,Nunez,nunezcommunitycollege,noahdetillierh981,Noah Detillier
+Mar 12,home,Southern University New Orleans,W,15-7,15,7,8,win,20240312_oqkw,4,2,2,,,,1,2,,,,,,,2,0,,,,,6,2024,2023-24,div1,Nunez,nunezcommunitycollege,noahdetillierh981,Noah Detillier
+Mar 16,home,John Melvin University,W,5-2,5,2,3,win,20240316_e5rq,4,0,2,,,,1,,,,,,,,2,0,,,,,4,2024,2023-24,div1,Nunez,nunezcommunitycollege,noahdetillierh981,Noah Detillier
+Apr 5,home,Baton Rouge,W,5-4,5,4,1,win,20240405_s9c0,4,1,2,2,,,0,,,,,,,,4,2,,,,,4,2024,2023-24,div1,Nunez,nunezcommunitycollege,noahdetillierh981,Noah Detillier
+Apr 6,home,Baton Rouge,W,10-7,10,7,3,win,20240406_v2e5,3,2,2,,,1,4,1,,,,,,,5,1,,,,,4,2024,2023-24,div1,Nunez,nunezcommunitycollege,noahdetillierh981,Noah Detillier
+Apr 13,home,Delgado,W,9-0,9,0,9,win,20240413_380c,5,1,2,1,,,2,,,,,,,,3,1,,,2,,5,2024,2023-24,div1,Nunez,nunezcommunitycollege,noahdetillierh981,Noah Detillier
+Apr 15,home,Spring Hill JV,W,23-0,23,0,23,win,20240415_hz2y,6,6,6,2,,1,6,1,,1,,,,,11,3,,,,,7,2024,2023-24,div1,Nunez,nunezcommunitycollege,noahdetillierh981,Noah Detillier
+Apr 15,home,Spring Hill JV,W,10-4,10,4,6,win,20240415_o64p,2,0,0,,,,2,,,,,1,2,,0,0,,,,,5,2024,2023-24,div1,Nunez,nunezcommunitycollege,noahdetillierh981,Noah Detillier
+Apr 16,home,Southern University New Orleans,W,5-3,5,3,2,win,20240416_9k35,3,1,1,,,1,1,1,,,,,,,4,1,,,,,4,2024,2023-24,div1,Nunez,nunezcommunitycollege,noahdetillierh981,Noah Detillier
+Apr 16,home,Southern University New Orleans,W,10-7,10,7,3,win,20240416_3t2j,3,1,1,,,1,1,1,,,,,,,4,1,,,,,4,2024,2023-24,div1,Nunez,nunezcommunitycollege,noahdetillierh981,Noah Detillier
+Apr 21,home,John Melvin University,W,6-2,6,2,4,win,20240421_k550,3,0,1,,,,0,,,,,,,,1,0,,,,,3,2024,2023-24,div1,Nunez,nunezcommunitycollege,noahdetillierh981,Noah Detillier
+Apr 22,home,Louisiana Christian University,W,5-3,5,3,2,win,20240422_e2yf,2,1,1,,,,0,2,,,,,,,1,0,,,,,4,2024,2023-24,div1,Nunez,nunezcommunitycollege,noahdetillierh981,Noah Detillier
+Apr 22,home,Louisiana Christian University,W,6-2,6,2,4,win,20240422_m2xh,4,1,2,,1,,1,,,,,,,,4,1,,1,,,4,2024,2023-24,div1,Nunez,nunezcommunitycollege,noahdetillierh981,Noah Detillier
+Apr 26,home,Baton Rouge,W,15-14,15,14,1,win,20240426_24kr,5,3,3,1,,,3,,,,,,,,4,1,,,,,5,2024,2023-24,div1,Nunez,nunezcommunitycollege,noahdetillierh981,Noah Detillier
+May 2,home,Baton Rouge,W,11-3,11,3,8,win,20240502_5ghu,4,1,2,,,1,2,,,,,,,,5,1,,,,,4,2024,2023-24,div1,Nunez,nunezcommunitycollege,noahdetillierh981,Noah Detillier
