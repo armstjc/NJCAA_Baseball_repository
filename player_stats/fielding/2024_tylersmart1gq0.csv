@@ -1,13 +1,22 @@
 date,location,opponent,result,score,team_score,opp_score,game_score_diff,game_win_loss,game_id,TC,PO,A,E,FPCT,DP,SBA,RCS,RCS_PCT,PB,CI,season,njcaa_season,njcaa_division,team,team_id,player_id,player_name
-Feb 3,home,Caldwell Tech,W,11-3,11,3,8,win,20240203_8mr3,1,1,0,0,3.0,2,3,3,9.00,2.33,5,2024,2023-24,div2,Cleveland,clevelandcommunitycollege,tylersmart1gq0,Tyler Smart
-Feb 10,home,Gaston College,L,8-4,8,4,4,win,20240210_wbuz,1,0,1,0,1.0,4,6,6,54.00,7.00,3,2024,2023-24,div2,Cleveland,clevelandcommunitycollege,tylersmart1gq0,Tyler Smart
-Feb 17,home,Louisburg,L,2-1,2,1,1,win,20240217_r268,1,0,0,0,4.0,4,1,1,2.25,1.50,2,2024,2023-24,div2,Cleveland,clevelandcommunitycollege,tylersmart1gq0,Tyler Smart
-Feb 24,home,Southwest Virginia,W,18-7,18,7,11,win,20240224_a7sf,1,0,0,0,2.0,5,5,5,22.50,2.50,0,2024,2023-24,div2,Cleveland,clevelandcommunitycollege,tylersmart1gq0,Tyler Smart
-Mar 3,home,USC Union,L,9-3,9,3,6,win,20240303_6fk4,1,0,1,0,3.0,7,5,5,15.00,2.33,0,2024,2023-24,div2,Cleveland,clevelandcommunitycollege,tylersmart1gq0,Tyler Smart
-Mar 16,home,Patrick & Henry,L,16-3,16,3,13,win,20240316_0kgd,0,0,0,0,0.2,2,2,1,13.50,4.50,1,2024,2023-24,div2,Cleveland,clevelandcommunitycollege,tylersmart1gq0,Tyler Smart
-Mar 24,home,Wake Tech,L,4-3,4,3,1,win,20240324_ysvt,0,0,1,0,2.1,2,1,1,3.86,1.29,1,2024,2023-24,div2,Cleveland,clevelandcommunitycollege,tylersmart1gq0,Tyler Smart
-Mar 27,home,Catawba Valley,L,13-12,13,12,1,win,20240327_mx3y,0,0,1,0,4.1,2,1,1,2.08,.92,2,2024,2023-24,div2,Cleveland,clevelandcommunitycollege,tylersmart1gq0,Tyler Smart
-Mar 30,home,Louisburg,L,5-2,5,2,3,win,20240330_8p86,0,0,0,0,2.0,1,,,0.00,.50,,2024,2023-24,div2,Cleveland,clevelandcommunitycollege,tylersmart1gq0,Tyler Smart
-Apr 3,home,Catawba Valley,W,12-8,12,8,4,win,20240403_k356,0,0,0,0,1.0,0,0,0,0.00,1.00,1,2024,2023-24,div2,Cleveland,clevelandcommunitycollege,tylersmart1gq0,Tyler Smart
-Apr 10,home,Catawba Valley,W,14-7,14,7,7,win,20240410_5fsi,1,0,0,0,2.1,4,6,5,19.29,3.00,3,2024,2023-24,div2,Cleveland,clevelandcommunitycollege,tylersmart1gq0,Tyler Smart
-Apr 14,home,Gaston College,L,18-4,18,4,14,win,20240414_lska,0,0,0,0,0.2,3,6,6,81.00,9.00,3,2024,2023-24,div2,Cleveland,clevelandcommunitycollege,tylersmart1gq0,Tyler Smart
+Feb 10,home,Gaston College,L,9-1,9,1,8,win,20240210_gqzv,0,0,0,0,2.0,1,3,3,13.50,2.00,3,2024,2023-24,div2,Cleveland,clevelandcommunitycollege,tylersmart1gq0,Tyler Smart
+Feb 11,home,Gaston College,W,6-5,6,5,1,win,20240211_u05s,0,1,0,0,0.2,,,,0.00,,,2024,2023-24,div2,Cleveland,clevelandcommunitycollege,tylersmart1gq0,Tyler Smart
+Feb 14,home,USC Lancaster,L,9-2,9,2,7,win,20240214_b7ya,0,0,0,0,1.0,1,0,0,0.00,2.00,1,2024,2023-24,div2,Cleveland,clevelandcommunitycollege,tylersmart1gq0,Tyler Smart
+Feb 17,home,Louisburg,W,14-6,14,6,8,win,20240217_lep3,0,0,0,0,2.2,,,,0.00,.38,1,2024,2023-24,div2,Cleveland,clevelandcommunitycollege,tylersmart1gq0,Tyler Smart
+Feb 21,home,Walters State,L,8-7,8,7,1,win,20240221_1m68,0,0,0,0,0.1,,,,0.00,,,2024,2023-24,div2,Cleveland,clevelandcommunitycollege,tylersmart1gq0,Tyler Smart
+Feb 24,home,Southwest Virginia,W,18-7,18,7,11,win,20240224_a7sf,0,1,0,0,3.0,2,2,2,6.00,1.00,1,2024,2023-24,div2,Cleveland,clevelandcommunitycollege,tylersmart1gq0,Tyler Smart
+Mar 3,home,USC Union,W,3-1,3,1,2,win,20240303_x3gz,0,0,0,0,1.0,2,1,1,9.00,2.00,,2024,2023-24,div2,Cleveland,clevelandcommunitycollege,tylersmart1gq0,Tyler Smart
+Mar 8,home,Guilford Tech,W,9-8,9,8,1,win,20240308_7vsr,0,0,0,0,1.0,3,1,1,9.00,3.00,0,2024,2023-24,div2,Cleveland,clevelandcommunitycollege,tylersmart1gq0,Tyler Smart
+Mar 12,home,Walters State,L,10-2,10,2,8,win,20240312_yjgi,0,0,0,0,2.0,4,3,3,13.50,2.00,,2024,2023-24,div2,Cleveland,clevelandcommunitycollege,tylersmart1gq0,Tyler Smart
+Mar 16,home,Patrick & Henry,L,16-3,16,3,13,win,20240316_0kgd,0,0,0,0,0.2,5,6,4,54.00,7.50,0,2024,2023-24,div2,Cleveland,clevelandcommunitycollege,tylersmart1gq0,Tyler Smart
+Mar 20,home,Spartanburg Methodist,L,12-0,12,0,12,win,20240320_08uy,0,0,0,0,0.1,,,,0.00,,,2024,2023-24,div2,Cleveland,clevelandcommunitycollege,tylersmart1gq0,Tyler Smart
+Mar 29,home,Louisburg,L,19-11,19,11,8,win,20240329_x08n,0,0,0,0,2.0,5,4,3,13.50,4.00,3,2024,2023-24,div2,Cleveland,clevelandcommunitycollege,tylersmart1gq0,Tyler Smart
+Mar 30,home,Louisburg,L,8-2,8,2,6,win,20240330_dqa4,0,0,0,0,1.0,2,,,0.00,2.00,,2024,2023-24,div2,Cleveland,clevelandcommunitycollege,tylersmart1gq0,Tyler Smart
+Apr 13,home,Gaston College,L,8-3,8,3,5,win,20240413_s34g,0,0,0,0,0.2,,,,0.00,3.00,2,2024,2023-24,div2,Cleveland,clevelandcommunitycollege,tylersmart1gq0,Tyler Smart
+Apr 14,home,Gaston College,L,18-4,18,4,14,win,20240414_lska,0,0,0,0,0.1,1,,,0.00,3.00,,2024,2023-24,div2,Cleveland,clevelandcommunitycollege,tylersmart1gq0,Tyler Smart
+Apr 17,home,Catawba Valley,L,8-2,8,2,6,win,20240417_gpbo,0,0,0,0,2.0,2,1,1,4.50,1.50,1,2024,2023-24,div2,Cleveland,clevelandcommunitycollege,tylersmart1gq0,Tyler Smart
+Apr 20,home,Guilford Tech,W,15-10,15,10,5,win,20240420_x5gp,0,1,0,0,1.2,2,0,0,0.00,1.80,1,2024,2023-24,div2,Cleveland,clevelandcommunitycollege,tylersmart1gq0,Tyler Smart
+Apr 24,home,Catawba Valley,L,3-2,3,2,1,win,20240424_eyqx,0,0,0,0,2.1,1,,,0.00,.43,,2024,2023-24,div2,Cleveland,clevelandcommunitycollege,tylersmart1gq0,Tyler Smart
+Apr 28,home,Patrick & Henry,W,6-4,6,4,2,win,20240428_0z67,0,1,0,0,0.1,2,1,1,27.00,6.00,,2024,2023-24,div2,Cleveland,clevelandcommunitycollege,tylersmart1gq0,Tyler Smart
+Apr 30,home,Catawba Valley,L,4-0,4,0,4,win,20240430_s1p2,0,0,0,0,1.0,0,0,0,0.00,1.00,1,2024,2023-24,div2,Cleveland,clevelandcommunitycollege,tylersmart1gq0,Tyler Smart
+May 11,home,Catawba Valley,L,8-4,8,4,4,win,20240511_3aod,0,0,0,0,1.0,,,,0.00,,,2024,2023-24,div2,Cleveland,clevelandcommunitycollege,tylersmart1gq0,Tyler Smart

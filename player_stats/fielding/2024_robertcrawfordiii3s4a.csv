@@ -1,18 +1,39 @@
 date,location,opponent,result,score,team_score,opp_score,game_score_diff,game_win_loss,game_id,TC,PO,A,E,FPCT,DP,SBA,RCS,RCS_PCT,PB,CI,season,njcaa_season,njcaa_division,team,team_id,player_id,player_name
-Feb 17,home,North Central Missouri,L,15-5,15,5,10,win,20240217_x9j9,1,0,1,0,2.2,4,6,5,16.88,3.00,4,2024,2023-24,div2,Milwaukee Area Tech,milwaukeeareatechnicalcollege,robertcrawfordiii3s4a,Robert Crawford III
-Feb 23,home,East Central (MO),L,11-6,11,6,5,win,20240223_wgm7,1,0,1,0,4.0,7,6,2,4.50,2.25,2,2024,2023-24,div2,Milwaukee Area Tech,milwaukeeareatechnicalcollege,robertcrawfordiii3s4a,Robert Crawford III
-Mar 1,home,Moberly Area,W,10-8,10,8,2,win,20240301_bfdc,1,1,0,0,4.0,5,4,4,9.00,2.00,3,2024,2023-24,div2,Milwaukee Area Tech,milwaukeeareatechnicalcollege,robertcrawfordiii3s4a,Robert Crawford III
-Mar 7,home,Black Hawk,L,9-2,9,2,7,win,20240307_oob1,1,0,1,0,1.2,4,6,3,16.20,2.40,0,2024,2023-24,div2,Milwaukee Area Tech,milwaukeeareatechnicalcollege,robertcrawfordiii3s4a,Robert Crawford III
-Mar 16,home,Lake County,L,7-5,7,5,2,win,20240316_1cx1,1,0,0,0,2.0,1,2,2,9.00,2.50,4,2024,2023-24,div2,Milwaukee Area Tech,milwaukeeareatechnicalcollege,robertcrawfordiii3s4a,Robert Crawford III
-Mar 23,home,Kankakee,L,8-1,8,1,7,win,20240323_6udi,0,0,0,0,1.0,,,,0.00,1.00,1,2024,2023-24,div2,Milwaukee Area Tech,milwaukeeareatechnicalcollege,robertcrawfordiii3s4a,Robert Crawford III
-Mar 27,home,Bryant & Stratton College (WI),L,4-3,4,3,1,win,20240327_ejfu,0,0,0,0,1.0,,1,,0.00,2.00,2,2024,2023-24,div2,Milwaukee Area Tech,milwaukeeareatechnicalcollege,robertcrawfordiii3s4a,Robert Crawford III
-Mar 30,home,Oakton,W,5-1,5,1,4,win,20240330_nmr5,0,0,0,0,1.0,,,,0.00,1.00,1,2024,2023-24,div2,Milwaukee Area Tech,milwaukeeareatechnicalcollege,robertcrawfordiii3s4a,Robert Crawford III
-Apr 5,home,Waubonsee,L,8-7,8,7,1,win,20240405_vp2p,0,0,0,0,0.2,,,,0.00,,,2024,2023-24,div2,Milwaukee Area Tech,milwaukeeareatechnicalcollege,robertcrawfordiii3s4a,Robert Crawford III
-Apr 8,home,Harper,W,12-5,12,5,7,win,20240408_ba1w,1,1,0,0,4.0,1,1,1,2.25,1.75,6,2024,2023-24,div2,Milwaukee Area Tech,milwaukeeareatechnicalcollege,robertcrawfordiii3s4a,Robert Crawford III
-Apr 13,home,Joliet,L,5-3,5,3,2,win,20240413_hxqv,0,0,1,0,1.1,2,2,2,13.50,2.25,1,2024,2023-24,div2,Milwaukee Area Tech,milwaukeeareatechnicalcollege,robertcrawfordiii3s4a,Robert Crawford III
-Apr 16,home,Madison,L,14-0,14,0,14,win,20240416_5t8f,0,0,0,0,2.0,2,4,4,18.00,2.50,3,2024,2023-24,div2,Milwaukee Area Tech,milwaukeeareatechnicalcollege,robertcrawfordiii3s4a,Robert Crawford III
-Apr 20,home,DuPage,L,4-2,4,2,2,win,20240420_ze02,0,0,0,0,1.2,2,,,0.00,1.20,,2024,2023-24,div2,Milwaukee Area Tech,milwaukeeareatechnicalcollege,robertcrawfordiii3s4a,Robert Crawford III
-Apr 26,home,McHenry County,L,13-6,13,6,7,win,20240426_i9oa,0,0,0,0,1.0,2,3,1,9.00,3.00,1,2024,2023-24,div2,Milwaukee Area Tech,milwaukeeareatechnicalcollege,robertcrawfordiii3s4a,Robert Crawford III
-Apr 30,home,Triton,L,8-4,8,4,4,win,20240430_y7zq,1,0,0,0,4.0,1,1,1,2.25,1.25,4,2024,2023-24,div2,Milwaukee Area Tech,milwaukeeareatechnicalcollege,robertcrawfordiii3s4a,Robert Crawford III
-May 5,home,Prairie State,W,4-2,4,2,2,win,20240505_4b6m,0,0,0,0,1.1,,2,,0.00,2.25,3,2024,2023-24,div2,Milwaukee Area Tech,milwaukeeareatechnicalcollege,robertcrawfordiii3s4a,Robert Crawford III
-May 10,home,Bryant & Stratton College (WI),L,3-2,3,2,1,win,20240510_7okz,0,0,1,0,4.1,,1,,0.00,.46,2,2024,2023-24,div2,Milwaukee Area Tech,milwaukeeareatechnicalcollege,robertcrawfordiii3s4a,Robert Crawford III
+Feb 17,home,North Central Missouri,L,9-3,9,3,6,win,20240217_0r4m,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Milwaukee Area Tech,milwaukeeareatechnicalcollege,robertcrawfordiii3s4a,Robert Crawford III
+Feb 18,home,North Central Missouri,L,12-1,12,1,11,win,20240218_arwn,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Milwaukee Area Tech,milwaukeeareatechnicalcollege,robertcrawfordiii3s4a,Robert Crawford III
+Feb 23,home,East Central (MO),L,11-6,11,6,5,win,20240223_wgm7,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Milwaukee Area Tech,milwaukeeareatechnicalcollege,robertcrawfordiii3s4a,Robert Crawford III
+Feb 23,home,East Central (MO),L,7-6,7,6,1,win,20240223_7bz6,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Milwaukee Area Tech,milwaukeeareatechnicalcollege,robertcrawfordiii3s4a,Robert Crawford III
+Feb 24,home,East Central (MO),L,7-4,7,4,3,win,20240224_zvl4,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Milwaukee Area Tech,milwaukeeareatechnicalcollege,robertcrawfordiii3s4a,Robert Crawford III
+Feb 26,home,Kishwaukee,W,8-0,8,0,8,win,20240226_mukc,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Milwaukee Area Tech,milwaukeeareatechnicalcollege,robertcrawfordiii3s4a,Robert Crawford III
+Mar 1,home,Moberly Area,W,10-8,10,8,2,win,20240301_bfdc,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Milwaukee Area Tech,milwaukeeareatechnicalcollege,robertcrawfordiii3s4a,Robert Crawford III
+Mar 2,home,Moberly Area,L,17-7,17,7,10,win,20240302_ytbg,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Milwaukee Area Tech,milwaukeeareatechnicalcollege,robertcrawfordiii3s4a,Robert Crawford III
+Mar 7,home,Black Hawk,W,9-4,9,4,5,win,20240307_oxdt,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Milwaukee Area Tech,milwaukeeareatechnicalcollege,robertcrawfordiii3s4a,Robert Crawford III
+Mar 12,home,Elgin,L,6-1,6,1,5,win,20240312_cdpu,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Milwaukee Area Tech,milwaukeeareatechnicalcollege,robertcrawfordiii3s4a,Robert Crawford III
+Mar 12,home,Elgin,W,10-5,10,5,5,win,20240312_4kf8,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Milwaukee Area Tech,milwaukeeareatechnicalcollege,robertcrawfordiii3s4a,Robert Crawford III
+Mar 16,home,Lake County,W,3-2,3,2,1,win,20240316_vt8n,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Milwaukee Area Tech,milwaukeeareatechnicalcollege,robertcrawfordiii3s4a,Robert Crawford III
+Mar 16,home,Lake County,L,7-5,7,5,2,win,20240316_1cx1,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Milwaukee Area Tech,milwaukeeareatechnicalcollege,robertcrawfordiii3s4a,Robert Crawford III
+Mar 17,home,Western Tech,W,1-0,1,0,1,win,20240317_o86u,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Milwaukee Area Tech,milwaukeeareatechnicalcollege,robertcrawfordiii3s4a,Robert Crawford III
+Mar 19,home,Rock Valley,L,26-3,26,3,23,win,20240319_jav9,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Milwaukee Area Tech,milwaukeeareatechnicalcollege,robertcrawfordiii3s4a,Robert Crawford III
+Mar 19,home,Rock Valley,W,13-10,13,10,3,win,20240319_ky13,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Milwaukee Area Tech,milwaukeeareatechnicalcollege,robertcrawfordiii3s4a,Robert Crawford III
+Mar 23,home,Kankakee,L,8-1,8,1,7,win,20240323_6udi,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Milwaukee Area Tech,milwaukeeareatechnicalcollege,robertcrawfordiii3s4a,Robert Crawford III
+Mar 27,home,Bryant & Stratton College (WI),L,4-3,4,3,1,win,20240327_ejfu,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Milwaukee Area Tech,milwaukeeareatechnicalcollege,robertcrawfordiii3s4a,Robert Crawford III
+Mar 29,home,Triton,L,9-6,9,6,3,win,20240329_ekxk,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Milwaukee Area Tech,milwaukeeareatechnicalcollege,robertcrawfordiii3s4a,Robert Crawford III
+Mar 29,home,Triton,W,8-5,8,5,3,win,20240329_qciz,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Milwaukee Area Tech,milwaukeeareatechnicalcollege,robertcrawfordiii3s4a,Robert Crawford III
+Mar 30,home,Oakton,W,2-1,2,1,1,win,20240330_0jn0,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Milwaukee Area Tech,milwaukeeareatechnicalcollege,robertcrawfordiii3s4a,Robert Crawford III
+Mar 30,home,Oakton,W,5-1,5,1,4,win,20240330_nmr5,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Milwaukee Area Tech,milwaukeeareatechnicalcollege,robertcrawfordiii3s4a,Robert Crawford III
+Apr 5,home,Waubonsee,W,5-3,5,3,2,win,20240405_uvmz,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Milwaukee Area Tech,milwaukeeareatechnicalcollege,robertcrawfordiii3s4a,Robert Crawford III
+Apr 5,home,Waubonsee,L,8-7,8,7,1,win,20240405_vp2p,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Milwaukee Area Tech,milwaukeeareatechnicalcollege,robertcrawfordiii3s4a,Robert Crawford III
+Apr 6,home,South Suburban,L,5-2,5,2,3,win,20240406_lzq3,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Milwaukee Area Tech,milwaukeeareatechnicalcollege,robertcrawfordiii3s4a,Robert Crawford III
+Apr 6,home,South Suburban,L,13-3,13,3,10,win,20240406_m8gv,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Milwaukee Area Tech,milwaukeeareatechnicalcollege,robertcrawfordiii3s4a,Robert Crawford III
+Apr 8,home,Harper,W,18-2,18,2,16,win,20240408_sfuo,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Milwaukee Area Tech,milwaukeeareatechnicalcollege,robertcrawfordiii3s4a,Robert Crawford III
+Apr 8,home,Harper,W,12-5,12,5,7,win,20240408_ba1w,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Milwaukee Area Tech,milwaukeeareatechnicalcollege,robertcrawfordiii3s4a,Robert Crawford III
+Apr 20,home,DuPage,L,4-2,4,2,2,win,20240420_ze02,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Milwaukee Area Tech,milwaukeeareatechnicalcollege,robertcrawfordiii3s4a,Robert Crawford III
+Apr 21,home,Illinois Valley,L,5-4,5,4,1,win,20240421_aalb,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Milwaukee Area Tech,milwaukeeareatechnicalcollege,robertcrawfordiii3s4a,Robert Crawford III
+Apr 26,home,McHenry County,L,13-6,13,6,7,win,20240426_i9oa,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Milwaukee Area Tech,milwaukeeareatechnicalcollege,robertcrawfordiii3s4a,Robert Crawford III
+Apr 27,home,Olive-Harvey,W,5-2,5,2,3,win,20240427_jtow,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Milwaukee Area Tech,milwaukeeareatechnicalcollege,robertcrawfordiii3s4a,Robert Crawford III
+Apr 30,home,Triton,L,8-4,8,4,4,win,20240430_y7zq,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Milwaukee Area Tech,milwaukeeareatechnicalcollege,robertcrawfordiii3s4a,Robert Crawford III
+May 4,home,Kennedy-King,W,10-0,10,0,10,win,20240504_0imw,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Milwaukee Area Tech,milwaukeeareatechnicalcollege,robertcrawfordiii3s4a,Robert Crawford III
+May 5,home,Prairie State,W,13-1,13,1,12,win,20240505_00xv,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Milwaukee Area Tech,milwaukeeareatechnicalcollege,robertcrawfordiii3s4a,Robert Crawford III
+May 5,home,Prairie State,W,4-2,4,2,2,win,20240505_4b6m,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Milwaukee Area Tech,milwaukeeareatechnicalcollege,robertcrawfordiii3s4a,Robert Crawford III
+May 10,home,Bryant & Stratton College (WI),L,3-2,3,2,1,win,20240510_7okz,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Milwaukee Area Tech,milwaukeeareatechnicalcollege,robertcrawfordiii3s4a,Robert Crawford III
+May 10,home,Black Hawk,L,9-4,9,4,5,win,20240510_271n,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Milwaukee Area Tech,milwaukeeareatechnicalcollege,robertcrawfordiii3s4a,Robert Crawford III
