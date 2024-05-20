@@ -1,55 +1,25 @@
 date,location,opponent,result,score,team_score,opp_score,game_score_diff,game_win_loss,game_id,GS,W,L,SV,IP,H,R,ER,ERA,BB,K,HR,season,njcaa_season,njcaa_division,team,team_id,player_id,player_name
-May 5,home,Illinois Central,L,7-1,7,1,6,win,20240505_1p1h,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div2,Lewis & Clark,lewisclarkcommunitycollege,isaaclemanski3nyi,Isaac Lemanski
-May 5,home,Illinois Central,W,9-4,9,4,5,win,20240505_0348,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div2,Lewis & Clark,lewisclarkcommunitycollege,isaaclemanski3nyi,Isaac Lemanski
-May 4,home,Illinois Central,W,6-1,6,1,5,win,20240504_vsmr,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div2,Lewis & Clark,lewisclarkcommunitycollege,isaaclemanski3nyi,Isaac Lemanski
-May 4,home,Illinois Central,L,6-1,6,1,5,win,20240504_xc19,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div2,Lewis & Clark,lewisclarkcommunitycollege,isaaclemanski3nyi,Isaac Lemanski
-Apr 27,home,Danville Area,W,9-8,9,8,1,win,20240427_mouw,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div2,Lewis & Clark,lewisclarkcommunitycollege,isaaclemanski3nyi,Isaac Lemanski
-Apr 27,home,Danville Area,L,2-0,2,0,2,win,20240427_m6g1,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div2,Lewis & Clark,lewisclarkcommunitycollege,isaaclemanski3nyi,Isaac Lemanski
-Apr 26,home,Danville Area,L,11-2,11,2,9,win,20240426_grgt,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div2,Lewis & Clark,lewisclarkcommunitycollege,isaaclemanski3nyi,Isaac Lemanski
-Apr 26,home,Danville Area,W,7-6,7,6,1,win,20240426_jzft,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div2,Lewis & Clark,lewisclarkcommunitycollege,isaaclemanski3nyi,Isaac Lemanski
-Apr 21,home,Parkland,L,10-2,10,2,8,win,20240421_o4rb,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div2,Lewis & Clark,lewisclarkcommunitycollege,isaaclemanski3nyi,Isaac Lemanski
-Apr 21,home,Parkland,W,8-6,8,6,2,win,20240421_mz1j,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div2,Lewis & Clark,lewisclarkcommunitycollege,isaaclemanski3nyi,Isaac Lemanski
-Apr 20,home,Parkland,L,13-3,13,3,10,win,20240420_puwv,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div2,Lewis & Clark,lewisclarkcommunitycollege,isaaclemanski3nyi,Isaac Lemanski
-Apr 20,home,Parkland,L,14-6,14,6,8,win,20240420_dd9k,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div2,Lewis & Clark,lewisclarkcommunitycollege,isaaclemanski3nyi,Isaac Lemanski
-Apr 17,home,St. Charles,L,16-6,16,6,10,win,20240417_2qrt,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div2,Lewis & Clark,lewisclarkcommunitycollege,isaaclemanski3nyi,Isaac Lemanski
-Apr 14,home,John Wood,W,11-7,11,7,4,win,20240414_t5bb,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div2,Lewis & Clark,lewisclarkcommunitycollege,isaaclemanski3nyi,Isaac Lemanski
-Apr 14,home,John Wood,L,3-2,3,2,1,win,20240414_t25o,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div2,Lewis & Clark,lewisclarkcommunitycollege,isaaclemanski3nyi,Isaac Lemanski
-Apr 13,home,John Wood,L,5-4,5,4,1,win,20240413_ma78,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div2,Lewis & Clark,lewisclarkcommunitycollege,isaaclemanski3nyi,Isaac Lemanski
-Apr 13,home,John Wood,L,11-3,11,3,8,win,20240413_5mct,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div2,Lewis & Clark,lewisclarkcommunitycollege,isaaclemanski3nyi,Isaac Lemanski
-Apr 7,home,Spoon River,W,4-2,4,2,2,win,20240407_kkg0,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div2,Lewis & Clark,lewisclarkcommunitycollege,isaaclemanski3nyi,Isaac Lemanski
-Apr 7,home,Spoon River,L,7-4,7,4,3,win,20240407_razj,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div2,Lewis & Clark,lewisclarkcommunitycollege,isaaclemanski3nyi,Isaac Lemanski
-Apr 6,home,Spoon River,W,7-0,7,0,7,win,20240406_em7x,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div2,Lewis & Clark,lewisclarkcommunitycollege,isaaclemanski3nyi,Isaac Lemanski
-Apr 6,home,Spoon River,W,5-2,5,2,3,win,20240406_4tm6,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div2,Lewis & Clark,lewisclarkcommunitycollege,isaaclemanski3nyi,Isaac Lemanski
-Mar 30,home,Lincoln Land,W,16-11,16,11,5,win,20240330_e80r,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div2,Lewis & Clark,lewisclarkcommunitycollege,isaaclemanski3nyi,Isaac Lemanski
-Mar 30,home,Lincoln Land,L,14-7,14,7,7,win,20240330_wvgz,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div2,Lewis & Clark,lewisclarkcommunitycollege,isaaclemanski3nyi,Isaac Lemanski
-Mar 29,home,Lincoln Land,L,5-3,5,3,2,win,20240329_hxud,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div2,Lewis & Clark,lewisclarkcommunitycollege,isaaclemanski3nyi,Isaac Lemanski
-Mar 29,home,Lincoln Land,L,15-6,15,6,9,win,20240329_24yk,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div2,Lewis & Clark,lewisclarkcommunitycollege,isaaclemanski3nyi,Isaac Lemanski
-Mar 27,home,McKendree JV,W,12-2,12,2,10,win,20240327_xpih,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div2,Lewis & Clark,lewisclarkcommunitycollege,isaaclemanski3nyi,Isaac Lemanski
-Mar 24,home,Heartland,L,3-2,3,2,1,win,20240324_bkd4,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div2,Lewis & Clark,lewisclarkcommunitycollege,isaaclemanski3nyi,Isaac Lemanski
-Mar 24,home,Heartland,L,15-9,15,9,6,win,20240324_8qi5,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div2,Lewis & Clark,lewisclarkcommunitycollege,isaaclemanski3nyi,Isaac Lemanski
-Mar 22,home,Heartland,W,8-6,8,6,2,win,20240322_r5ir,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div2,Lewis & Clark,lewisclarkcommunitycollege,isaaclemanski3nyi,Isaac Lemanski
-Mar 22,home,Heartland,W,6-4,6,4,2,win,20240322_t87p,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div2,Lewis & Clark,lewisclarkcommunitycollege,isaaclemanski3nyi,Isaac Lemanski
-Mar 20,home,McKendree JV,W,15-4,15,4,11,win,20240320_4373,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div2,Lewis & Clark,lewisclarkcommunitycollege,isaaclemanski3nyi,Isaac Lemanski
-Mar 19,home,Blackburn College,W,9-1,9,1,8,win,20240319_jjjy,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div2,Lewis & Clark,lewisclarkcommunitycollege,isaaclemanski3nyi,Isaac Lemanski
-Mar 17,home,North Central Missouri,W,5-2,5,2,3,win,20240317_d972,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div2,Lewis & Clark,lewisclarkcommunitycollege,isaaclemanski3nyi,Isaac Lemanski
-Mar 17,home,North Central Missouri,W,8-4,8,4,4,win,20240317_ypgg,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div2,Lewis & Clark,lewisclarkcommunitycollege,isaaclemanski3nyi,Isaac Lemanski
-Mar 16,home,North Central Missouri,L,8-0,8,0,8,win,20240316_w837,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div2,Lewis & Clark,lewisclarkcommunitycollege,isaaclemanski3nyi,Isaac Lemanski
-Mar 16,home,North Central Missouri,W,13-12,13,12,1,win,20240316_7w3d,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div2,Lewis & Clark,lewisclarkcommunitycollege,isaaclemanski3nyi,Isaac Lemanski
-Mar 10,home,Vincennes,L,12-1,12,1,11,win,20240310_ondi,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div2,Lewis & Clark,lewisclarkcommunitycollege,isaaclemanski3nyi,Isaac Lemanski
-Mar 9,home,Vincennes,L,8-5,8,5,3,win,20240309_7ybx,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div2,Lewis & Clark,lewisclarkcommunitycollege,isaaclemanski3nyi,Isaac Lemanski
-Mar 9,home,Vincennes,L,17-9,17,9,8,win,20240309_lkm7,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div2,Lewis & Clark,lewisclarkcommunitycollege,isaaclemanski3nyi,Isaac Lemanski
-Mar 2,home,St. Charles,L,2-1,2,1,1,win,20240302_9kbr,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div2,Lewis & Clark,lewisclarkcommunitycollege,isaaclemanski3nyi,Isaac Lemanski
-Mar 2,home,St. Charles,L,7-2,7,2,5,win,20240302_f8az,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div2,Lewis & Clark,lewisclarkcommunitycollege,isaaclemanski3nyi,Isaac Lemanski
-Mar 1,home,Kaskaskia,L,2-1,2,1,1,win,20240301_40ua,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div2,Lewis & Clark,lewisclarkcommunitycollege,isaaclemanski3nyi,Isaac Lemanski
-Mar 1,home,Kaskaskia,L,3-1,3,1,2,win,20240301_zjit,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div2,Lewis & Clark,lewisclarkcommunitycollege,isaaclemanski3nyi,Isaac Lemanski
-Feb 25,home,Harper,W,6-0,6,0,6,win,20240225_zjap,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div2,Lewis & Clark,lewisclarkcommunitycollege,isaaclemanski3nyi,Isaac Lemanski
-Feb 25,home,Harper,W,11-0,11,0,11,win,20240225_fohg,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div2,Lewis & Clark,lewisclarkcommunitycollege,isaaclemanski3nyi,Isaac Lemanski
-Feb 24,home,Harper,W,3-1,3,1,2,win,20240224_q7cq,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div2,Lewis & Clark,lewisclarkcommunitycollege,isaaclemanski3nyi,Isaac Lemanski
-Feb 24,home,Harper,W,5-0,5,0,5,win,20240224_529s,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div2,Lewis & Clark,lewisclarkcommunitycollege,isaaclemanski3nyi,Isaac Lemanski
-Feb 21,home,UMSL,L,7-2,7,2,5,win,20240221_mbrw,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div2,Lewis & Clark,lewisclarkcommunitycollege,isaaclemanski3nyi,Isaac Lemanski
-Feb 21,home,UMSL,L,3-1,3,1,2,win,20240221_hhke,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div2,Lewis & Clark,lewisclarkcommunitycollege,isaaclemanski3nyi,Isaac Lemanski
-Feb 17,home,Redlands,W,24-12,24,12,12,win,20240217_oqey,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div2,Lewis & Clark,lewisclarkcommunitycollege,isaaclemanski3nyi,Isaac Lemanski
-Feb 16,home,Redlands,W,9-7,9,7,2,win,20240216_5sxa,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div2,Lewis & Clark,lewisclarkcommunitycollege,isaaclemanski3nyi,Isaac Lemanski
-Feb 16,home,Redlands,W,4-2,4,2,2,win,20240216_o5zr,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div2,Lewis & Clark,lewisclarkcommunitycollege,isaaclemanski3nyi,Isaac Lemanski
-Feb 7,home,Fontbonne,L,8-7,8,7,1,win,20240207_7ijv,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div2,Lewis & Clark,lewisclarkcommunitycollege,isaaclemanski3nyi,Isaac Lemanski
-Feb 7,home,Fontbonne,W,6-5,6,5,1,win,20240207_j0kb,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div2,Lewis & Clark,lewisclarkcommunitycollege,isaaclemanski3nyi,Isaac Lemanski
+May 4,home,St. Clair County,W,16-1,16,1,15,win,20240504_fjhz,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div2,Lewis & Clark,lewisclarkcommunitycollege,isaaclemanski3nyi,Isaac Lemanski
+May 2,home,St. Clair County,W,11-0,11,0,11,win,20240502_o0vv,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div2,Lewis & Clark,lewisclarkcommunitycollege,isaaclemanski3nyi,Isaac Lemanski
+Apr 30,home,Henry Ford,W,16-2,16,2,14,win,20240430_lvoq,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div2,Lewis & Clark,lewisclarkcommunitycollege,isaaclemanski3nyi,Isaac Lemanski
+Apr 26,home,Henry Ford,W,13-3,13,3,10,win,20240426_icci,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div2,Lewis & Clark,lewisclarkcommunitycollege,isaaclemanski3nyi,Isaac Lemanski
+Apr 25,home,Cleary University JV,W,12-6,12,6,6,win,20240425_gbcl,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div2,Lewis & Clark,lewisclarkcommunitycollege,isaaclemanski3nyi,Isaac Lemanski
+Apr 21,home,Mott,W,12-0,12,0,12,win,20240421_eady,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div2,Lewis & Clark,lewisclarkcommunitycollege,isaaclemanski3nyi,Isaac Lemanski
+Apr 20,home,Mott,W,10-6,10,6,4,win,20240420_8o1p,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div2,Lewis & Clark,lewisclarkcommunitycollege,isaaclemanski3nyi,Isaac Lemanski
+Apr 20,home,Mott,W,15-3,15,3,12,win,20240420_ihii,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div2,Lewis & Clark,lewisclarkcommunitycollege,isaaclemanski3nyi,Isaac Lemanski
+Apr 14,home,Schoolcraft,W,8-4,8,4,4,win,20240414_b2ix,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div2,Lewis & Clark,lewisclarkcommunitycollege,isaaclemanski3nyi,Isaac Lemanski
+Apr 14,home,Schoolcraft,W,3-2,3,2,1,win,20240414_rzqn,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div2,Lewis & Clark,lewisclarkcommunitycollege,isaaclemanski3nyi,Isaac Lemanski
+Apr 13,home,Schoolcraft,W,15-5,15,5,10,win,20240413_erf4,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div2,Lewis & Clark,lewisclarkcommunitycollege,isaaclemanski3nyi,Isaac Lemanski
+Apr 13,home,Schoolcraft,L,4-3,4,3,1,win,20240413_pg9i,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div2,Lewis & Clark,lewisclarkcommunitycollege,isaaclemanski3nyi,Isaac Lemanski
+Apr 9,home,Indiana Tech JV,W,11-4,11,4,7,win,20240409_ntiv,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div2,Lewis & Clark,lewisclarkcommunitycollege,isaaclemanski3nyi,Isaac Lemanski
+Apr 9,home,Indiana Tech JV,W,15-10,15,10,5,win,20240409_7320,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div2,Lewis & Clark,lewisclarkcommunitycollege,isaaclemanski3nyi,Isaac Lemanski
+Apr 4,home,Jackson,L,7-4,7,4,3,win,20240404_nwtc,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div2,Lewis & Clark,lewisclarkcommunitycollege,isaaclemanski3nyi,Isaac Lemanski
+Mar 29,home,Henry Ford,W,11-6,11,6,5,win,20240329_6yga,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div2,Lewis & Clark,lewisclarkcommunitycollege,isaaclemanski3nyi,Isaac Lemanski
+Mar 21,home,Schoolcraft,W,5-4,5,4,1,win,20240321_yxhs,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div2,Lewis & Clark,lewisclarkcommunitycollege,isaaclemanski3nyi,Isaac Lemanski
+Mar 17,home,Albion College JV,L,4-3,4,3,1,win,20240317_88p3,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div2,Lewis & Clark,lewisclarkcommunitycollege,isaaclemanski3nyi,Isaac Lemanski
+Mar 8,home,East Georgia State,L,14-11,14,11,3,win,20240308_px7a,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div2,Lewis & Clark,lewisclarkcommunitycollege,isaaclemanski3nyi,Isaac Lemanski
+Mar 6,home,Brewton-Parker College JV,W,17-4,17,4,13,win,20240306_vjrs,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div2,Lewis & Clark,lewisclarkcommunitycollege,isaaclemanski3nyi,Isaac Lemanski
+Mar 6,home,Brewton-Parker College JV,W,18-8,18,8,10,win,20240306_e9rx,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div2,Lewis & Clark,lewisclarkcommunitycollege,isaaclemanski3nyi,Isaac Lemanski
+Mar 4,home,Lander University JV,W,10-0,10,0,10,win,20240304_tz8l,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div2,Lewis & Clark,lewisclarkcommunitycollege,isaaclemanski3nyi,Isaac Lemanski
+Mar 2,home,USC Lancaster,L,13-2,13,2,11,win,20240302_w1z7,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div2,Lewis & Clark,lewisclarkcommunitycollege,isaaclemanski3nyi,Isaac Lemanski
+Mar 2,home,USC Lancaster,L,12-4,12,4,8,win,20240302_lts3,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div2,Lewis & Clark,lewisclarkcommunitycollege,isaaclemanski3nyi,Isaac Lemanski

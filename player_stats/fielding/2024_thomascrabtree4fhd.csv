@@ -1,16 +1,10 @@
 date,location,opponent,result,score,team_score,opp_score,game_score_diff,game_win_loss,game_id,TC,PO,A,E,FPCT,DP,SBA,RCS,RCS_PCT,PB,CI,season,njcaa_season,njcaa_division,team,team_id,player_id,player_name
-Feb 3,home,Dyersburg State,W,7-0,7,0,7,win,20240203_px0l,1,0,0,0,4.0,2,0,0,0.00,1.00,2,2024,2023-24,div2,Pearl River,pearlrivercommunitycollege,thomascrabtree4fhd,Thomas Crabtree
-Feb 9,home,Baton Rouge,W,3-0,3,0,3,win,20240209_exms,1,1,0,0,6.0,1,0,0,0.00,.67,3,2024,2023-24,div2,Pearl River,pearlrivercommunitycollege,thomascrabtree4fhd,Thomas Crabtree
-Feb 16,home,Murray State,W,10-5,10,5,5,win,20240216_orfg,1,1,0,0,5.0,6,3,2,3.60,1.80,3,2024,2023-24,div2,Pearl River,pearlrivercommunitycollege,thomascrabtree4fhd,Thomas Crabtree
-Feb 23,home,Parkland,L,5-1,5,1,4,win,20240223_t2ru,1,0,1,0,5.0,8,5,5,9.00,2.00,2,2024,2023-24,div2,Pearl River,pearlrivercommunitycollege,thomascrabtree4fhd,Thomas Crabtree
-Feb 28,home,Mississippi Gulf Coast,W,6-5,6,5,1,win,20240228_0cvk,1,0,0,0,4.0,4,2,2,4.50,1.50,2,2024,2023-24,div2,Pearl River,pearlrivercommunitycollege,thomascrabtree4fhd,Thomas Crabtree
-Mar 6,home,Mississippi Delta,W,14-0,14,0,14,win,20240306_otxh,1,1,0,0,3.0,1,0,0,0.00,.33,0,2024,2023-24,div2,Pearl River,pearlrivercommunitycollege,thomascrabtree4fhd,Thomas Crabtree
-Mar 13,home,Southwest Mississippi,W,11-2,11,2,9,win,20240313_6k1y,1,1,0,0,5.0,8,2,2,3.60,1.80,1,2024,2023-24,div2,Pearl River,pearlrivercommunitycollege,thomascrabtree4fhd,Thomas Crabtree
-Mar 19,home,Meridian,W,14-2,14,2,12,win,20240319_hocu,1,1,0,0,7.0,5,2,2,2.57,.86,1,2024,2023-24,div2,Pearl River,pearlrivercommunitycollege,thomascrabtree4fhd,Thomas Crabtree
-Mar 26,home,Hinds,W,9-2,9,2,7,win,20240326_whil,1,1,0,0,7.0,1,0,0,0.00,.14,0,2024,2023-24,div2,Pearl River,pearlrivercommunitycollege,thomascrabtree4fhd,Thomas Crabtree
-Apr 2,home,Copiah-Lincoln,W,16-1,16,1,15,win,20240402_j6f2,1,1,0,0,5.0,2,0,0,0.00,.80,2,2024,2023-24,div2,Pearl River,pearlrivercommunitycollege,thomascrabtree4fhd,Thomas Crabtree
-Apr 9,home,Mississippi Gulf Coast,W,13-3,13,3,10,win,20240409_jpbq,1,1,0,0,5.0,6,2,2,3.60,1.80,3,2024,2023-24,div2,Pearl River,pearlrivercommunitycollege,thomascrabtree4fhd,Thomas Crabtree
-Apr 17,home,East Central (MS),L,3-1,3,1,2,win,20240417_zjvw,1,0,1,0,6.0,4,2,2,3.00,.67,0,2024,2023-24,div2,Pearl River,pearlrivercommunitycollege,thomascrabtree4fhd,Thomas Crabtree
-Apr 24,home,Jones,W,16-8,16,8,8,win,20240424_dwyt,1,1,0,0,6.0,8,6,6,9.00,1.67,2,2024,2023-24,div2,Pearl River,pearlrivercommunitycollege,thomascrabtree4fhd,Thomas Crabtree
-May 6,home,North Arkansas,W,11-4,11,4,7,win,20240506_y5ia,0,0,0,0,2.0,1,,,0.00,.50,,2024,2023-24,div2,Pearl River,pearlrivercommunitycollege,thomascrabtree4fhd,Thomas Crabtree
-May 14,home,Hinds,W,5-2,5,2,3,win,20240514_16xd,1,1,0,0,6.0,3,2,2,3.00,1.67,7,2024,2023-24,div2,Pearl River,pearlrivercommunitycollege,thomascrabtree4fhd,Thomas Crabtree
+Mar 2,home,Edison State,L,11-3,11,3,8,win,20240302_j5bx,0,0,0,0,4.0,6,5,4,9.00,2.50,4,2024,2023-24,div2,Pearl River,pearlrivercommunitycollege,thomascrabtree4fhd,Thomas Crabtree
+Mar 7,home,Northampton,L,13-6,13,6,7,win,20240307_ax4z,1,0,1,0,2.0,4,6,5,22.50,4.50,5,2024,2023-24,div2,Pearl River,pearlrivercommunitycollege,thomascrabtree4fhd,Thomas Crabtree
+Mar 21,home,Jackson,L,5-4,5,4,1,win,20240321_0m4d,0,0,1,0,1.2,3,1,1,5.40,3.60,3,2024,2023-24,div2,Pearl River,pearlrivercommunitycollege,thomascrabtree4fhd,Thomas Crabtree
+Mar 29,home,Mott,L,13-4,13,4,9,win,20240329_aagc,0,0,0,0,3.1,5,3,2,5.40,2.10,2,2024,2023-24,div2,Pearl River,pearlrivercommunitycollege,thomascrabtree4fhd,Thomas Crabtree
+Apr 7,home,Henry Ford,L,3-2,3,2,1,win,20240407_05xc,0,0,1,0,1.0,1,1,,0.00,2.00,1,2024,2023-24,div2,Pearl River,pearlrivercommunitycollege,thomascrabtree4fhd,Thomas Crabtree
+Apr 9,home,Concordia University JV,L,7-3,7,3,4,win,20240409_x88w,1,0,1,0,2.0,5,4,4,18.00,3.00,1,2024,2023-24,div2,Pearl River,pearlrivercommunitycollege,thomascrabtree4fhd,Thomas Crabtree
+Apr 14,home,Jackson,L,11-3,11,3,8,win,20240414_o0jg,0,0,0,0,2.0,4,5,5,22.50,3.00,2,2024,2023-24,div2,Pearl River,pearlrivercommunitycollege,thomascrabtree4fhd,Thomas Crabtree
+Apr 20,home,Schoolcraft,L,8-4,8,4,4,win,20240420_gqaq,1,0,1,0,1.1,6,7,7,47.25,6.00,2,2024,2023-24,div2,Pearl River,pearlrivercommunitycollege,thomascrabtree4fhd,Thomas Crabtree
+May 2,home,Macomb,L,11-0,11,0,11,win,20240502_o0vv,0,0,0,0,2.1,7,7,7,27.00,3.86,2,2024,2023-24,div2,Pearl River,pearlrivercommunitycollege,thomascrabtree4fhd,Thomas Crabtree

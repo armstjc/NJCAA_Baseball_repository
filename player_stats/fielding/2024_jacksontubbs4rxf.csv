@@ -1,8 +1,15 @@
 date,location,opponent,result,score,team_score,opp_score,game_score_diff,game_win_loss,game_id,TC,PO,A,E,FPCT,DP,SBA,RCS,RCS_PCT,PB,CI,season,njcaa_season,njcaa_division,team,team_id,player_id,player_name
-Feb 18,home,Cloud County,L,13-12,13,12,1,win,20240218_77l7,1,0,0,0,2.2,5,6,6,20.25,2.63,2,2024,2023-24,div2,Marshalltown,marshalltowncc,jacksontubbs4rxf,Jackson Tubbs
-Apr 4,home,Southeastern,L,3-1,3,1,2,win,20240404_tvk6,0,0,1,0,1.2,1,2,2,10.80,3.00,4,2024,2023-24,div2,Marshalltown,marshalltowncc,jacksontubbs4rxf,Jackson Tubbs
-Apr 9,home,Ellsworth,L,9-4,9,4,5,win,20240409_d7j1,0,0,1,0,3.0,1,3,1,3.00,1.00,2,2024,2023-24,div2,Marshalltown,marshalltowncc,jacksontubbs4rxf,Jackson Tubbs
-Apr 17,home,Iowa Lakes,L,7-5,7,5,2,win,20240417_y1sz,0,0,1,0,4.0,7,7,2,4.50,2.25,2,2024,2023-24,div2,Marshalltown,marshalltowncc,jacksontubbs4rxf,Jackson Tubbs
-Apr 24,home,Des Moines Area,L,6-0,6,0,6,win,20240424_xkx5,0,0,1,0,1.1,2,4,4,27.00,4.50,4,2024,2023-24,div2,Marshalltown,marshalltowncc,jacksontubbs4rxf,Jackson Tubbs
-Apr 27,home,Southwestern,L,10-3,10,3,7,win,20240427_r82w,0,0,0,0,1.2,4,5,4,21.60,3.00,1,2024,2023-24,div2,Marshalltown,marshalltowncc,jacksontubbs4rxf,Jackson Tubbs
-May 4,home,Kirkwood,L,9-3,9,3,6,win,20240504_l033,0,0,1,0,2.0,2,3,3,13.50,2.00,2,2024,2023-24,div2,Marshalltown,marshalltowncc,jacksontubbs4rxf,Jackson Tubbs
+Mar 9,home,Delaware Tech,W,18-4,18,4,14,win,20240309_3ikp,1,1,0,0,4.0,6,4,3,6.75,2.00,2,2024,2023-24,div2,Marshalltown,marshalltowncc,jacksontubbs4rxf,Jackson Tubbs
+Mar 12,home,Middlesex College,W,3-2,3,2,1,win,20240312_xhyz,0,0,0,0,0.0,,,,0.00,,1,2024,2023-24,div2,Marshalltown,marshalltowncc,jacksontubbs4rxf,Jackson Tubbs
+Mar 17,home,Cayuga,L,6-2,6,2,4,win,20240317_gwog,1,0,1,0,5.0,5,5,2,3.60,1.00,0,2024,2023-24,div2,Marshalltown,marshalltowncc,jacksontubbs4rxf,Jackson Tubbs
+Mar 26,home,SUNY Niagara,L,4-2,4,2,2,win,20240326_1emn,1,0,0,0,5.0,3,1,1,1.80,.80,1,2024,2023-24,div2,Marshalltown,marshalltowncc,jacksontubbs4rxf,Jackson Tubbs
+Apr 1,home,Erie,L,9-0,9,0,9,win,20240401_lgce,1,0,1,0,4.0,9,4,4,9.00,2.25,0,2024,2023-24,div2,Marshalltown,marshalltowncc,jacksontubbs4rxf,Jackson Tubbs
+Apr 6,home,UConn Avery Point,W,5-3,5,3,2,win,20240406_avof,0,0,0,1,2.0,,,,0.00,.50,1,2024,2023-24,div2,Marshalltown,marshalltowncc,jacksontubbs4rxf,Jackson Tubbs
+Apr 9,home,SUNY Niagara,L,11-3,11,3,8,win,20240409_k76e,1,0,1,0,4.0,6,4,4,9.00,2.25,3,2024,2023-24,div2,Marshalltown,marshalltowncc,jacksontubbs4rxf,Jackson Tubbs
+Apr 16,home,Lackawanna,L,11-8,11,8,3,win,20240416_e0ro,1,0,1,0,5.0,10,7,6,10.80,2.20,1,2024,2023-24,div2,Marshalltown,marshalltowncc,jacksontubbs4rxf,Jackson Tubbs
+Apr 21,home,SUNY Adirondack,W,8-3,8,3,5,win,20240421_8v1c,0,0,0,1,3.0,3,,,0.00,1.33,1,2024,2023-24,div2,Marshalltown,marshalltowncc,jacksontubbs4rxf,Jackson Tubbs
+Apr 28,home,Sullivan County,W,7-5,7,5,2,win,20240428_kdo7,0,0,0,1,1.0,3,2,2,18.00,4.00,1,2024,2023-24,div2,Marshalltown,marshalltowncc,jacksontubbs4rxf,Jackson Tubbs
+Apr 28,home,Sullivan County,W,7-6,7,6,1,win,20240428_7ch0,0,0,0,1,1.0,1,,,0.00,1.00,,2024,2023-24,div2,Marshalltown,marshalltowncc,jacksontubbs4rxf,Jackson Tubbs
+May 2,home,Genesee,W,10-8,10,8,2,win,20240502_2j83,0,0,0,1,2.1,4,3,3,11.57,1.71,,2024,2023-24,div2,Marshalltown,marshalltowncc,jacksontubbs4rxf,Jackson Tubbs
+May 10,home,UConn Avery Point,L,7-4,7,4,3,win,20240510_l63e,0,0,1,0,0.0,3,4,3,INF,,,2024,2023-24,div2,Marshalltown,marshalltowncc,jacksontubbs4rxf,Jackson Tubbs
+May 11,home,UConn Avery Point,L,6-3,6,3,3,win,20240511_9lej,0,0,0,0,3.1,1,1,,0.00,.30,,2024,2023-24,div2,Marshalltown,marshalltowncc,jacksontubbs4rxf,Jackson Tubbs

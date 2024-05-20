@@ -1,54 +1,10 @@
 date,location,opponent,result,score,team_score,opp_score,game_score_diff,game_win_loss,game_id,TC,PO,A,E,FPCT,DP,SBA,RCS,RCS_PCT,PB,CI,season,njcaa_season,njcaa_division,team,team_id,player_id,player_name
-Feb 9,home,Weatherford,W,7-2,7,2,5,win,20240209_3fm2,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Iowa Western,iowawesterncommunitycollege,masonengelsru0,Mason Engel
-Feb 11,home,McLennan,W,6-2,6,2,4,win,20240211_0qw2,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Iowa Western,iowawesterncommunitycollege,masonengelsru0,Mason Engel
-Feb 11,home,McLennan,W,4-2,4,2,2,win,20240211_o6wc,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Iowa Western,iowawesterncommunitycollege,masonengelsru0,Mason Engel
-Feb 12,home,Tyler,L,10-4,10,4,6,win,20240212_nloh,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Iowa Western,iowawesterncommunitycollege,masonengelsru0,Mason Engel
-Feb 18,home,Crowder,W,9-3,9,3,6,win,20240218_h1zk,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Iowa Western,iowawesterncommunitycollege,masonengelsru0,Mason Engel
-Feb 18,home,Crowder,L,10-5,10,5,5,win,20240218_zdqd,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Iowa Western,iowawesterncommunitycollege,masonengelsru0,Mason Engel
-Feb 19,home,Crowder,W,3-2,3,2,1,win,20240219_1pha,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Iowa Western,iowawesterncommunitycollege,masonengelsru0,Mason Engel
-Feb 19,home,Crowder,W,16-2,16,2,14,win,20240219_s27e,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Iowa Western,iowawesterncommunitycollege,masonengelsru0,Mason Engel
-Feb 23,home,Cowley,L,14-10,14,10,4,win,20240223_qrqr,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Iowa Western,iowawesterncommunitycollege,masonengelsru0,Mason Engel
-Feb 24,home,Cowley,W,11-8,11,8,3,win,20240224_8p2o,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Iowa Western,iowawesterncommunitycollege,masonengelsru0,Mason Engel
-Feb 24,home,Cowley,L,7-4,7,4,3,win,20240224_draq,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Iowa Western,iowawesterncommunitycollege,masonengelsru0,Mason Engel
-Feb 25,home,Cowley,W,17-2,17,2,15,win,20240225_n345,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Iowa Western,iowawesterncommunitycollege,masonengelsru0,Mason Engel
-Mar 2,home,Minnesota North College - Hibbing,W,27-0,27,0,27,win,20240302_3ony,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Iowa Western,iowawesterncommunitycollege,masonengelsru0,Mason Engel
-Mar 2,home,Minnesota North College - Hibbing,W,23-0,23,0,23,win,20240302_m1jh,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Iowa Western,iowawesterncommunitycollege,masonengelsru0,Mason Engel
-Mar 3,home,Minnesota North College - Hibbing,W,21-1,21,1,20,win,20240303_hnk8,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Iowa Western,iowawesterncommunitycollege,masonengelsru0,Mason Engel
-Mar 10,home,Ottawa University,W,33-0,33,0,33,win,20240310_hgzn,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Iowa Western,iowawesterncommunitycollege,masonengelsru0,Mason Engel
-Mar 12,home,Cloud County,W,6-2,6,2,4,win,20240312_96b2,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Iowa Western,iowawesterncommunitycollege,masonengelsru0,Mason Engel
-Mar 16,home,Southeast,W,7-5,7,5,2,win,20240316_4e5m,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Iowa Western,iowawesterncommunitycollege,masonengelsru0,Mason Engel
-Mar 16,home,Southeast,W,18-4,18,4,14,win,20240316_4dqr,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Iowa Western,iowawesterncommunitycollege,masonengelsru0,Mason Engel
-Mar 18,home,Cloud County,L,4-2,4,2,2,win,20240318_efjv,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Iowa Western,iowawesterncommunitycollege,masonengelsru0,Mason Engel
-Mar 19,home,Des Moines Area,W,13-3,13,3,10,win,20240319_9sow,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Iowa Western,iowawesterncommunitycollege,masonengelsru0,Mason Engel
-Mar 19,home,Des Moines Area,W,14-8,14,8,6,win,20240319_uih5,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Iowa Western,iowawesterncommunitycollege,masonengelsru0,Mason Engel
-Mar 22,home,North Iowa Area,W,8-1,8,1,7,win,20240322_c36r,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Iowa Western,iowawesterncommunitycollege,masonengelsru0,Mason Engel
-Mar 22,home,North Iowa Area,W,2-0,2,0,2,win,20240322_znwu,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Iowa Western,iowawesterncommunitycollege,masonengelsru0,Mason Engel
-Mar 23,home,North Iowa Area,W,11-3,11,3,8,win,20240323_o2rt,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Iowa Western,iowawesterncommunitycollege,masonengelsru0,Mason Engel
-Mar 27,home,Iowa Central,W,9-4,9,4,5,win,20240327_pqq0,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Iowa Western,iowawesterncommunitycollege,masonengelsru0,Mason Engel
-Mar 27,home,Iowa Central,W,16-3,16,3,13,win,20240327_b3yy,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Iowa Western,iowawesterncommunitycollege,masonengelsru0,Mason Engel
-Mar 29,home,Ellsworth,W,6-3,6,3,3,win,20240329_b3mg,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Iowa Western,iowawesterncommunitycollege,masonengelsru0,Mason Engel
-Mar 29,home,Ellsworth,W,17-2,17,2,15,win,20240329_jetd,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Iowa Western,iowawesterncommunitycollege,masonengelsru0,Mason Engel
-Mar 30,home,Ellsworth,W,15-13,15,13,2,win,20240330_a9e2,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Iowa Western,iowawesterncommunitycollege,masonengelsru0,Mason Engel
-Apr 4,home,Southwestern,W,10-0,10,0,10,win,20240404_e6yi,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Iowa Western,iowawesterncommunitycollege,masonengelsru0,Mason Engel
-Apr 4,home,Southwestern,W,18-5,18,5,13,win,20240404_vl0u,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Iowa Western,iowawesterncommunitycollege,masonengelsru0,Mason Engel
-Apr 6,home,Kirkwood,W,3-0,3,0,3,win,20240406_zz5d,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Iowa Western,iowawesterncommunitycollege,masonengelsru0,Mason Engel
-Apr 6,home,Kirkwood,W,11-1,11,1,10,win,20240406_fnj3,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Iowa Western,iowawesterncommunitycollege,masonengelsru0,Mason Engel
-Apr 7,home,Kirkwood,W,17-0,17,0,17,win,20240407_g0vv,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Iowa Western,iowawesterncommunitycollege,masonengelsru0,Mason Engel
-Apr 10,home,Iowa Lakes,W,14-0,14,0,14,win,20240410_t1pj,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Iowa Western,iowawesterncommunitycollege,masonengelsru0,Mason Engel
-Apr 13,home,Marshalltown,W,12-2,12,2,10,win,20240413_3u9g,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Iowa Western,iowawesterncommunitycollege,masonengelsru0,Mason Engel
-Apr 13,home,Marshalltown,W,16-2,16,2,14,win,20240413_wolb,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Iowa Western,iowawesterncommunitycollege,masonengelsru0,Mason Engel
-Apr 14,home,Marshalltown,W,12-1,12,1,11,win,20240414_lzfz,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Iowa Western,iowawesterncommunitycollege,masonengelsru0,Mason Engel
-Apr 17,home,Iowa Central,W,18-4,18,4,14,win,20240417_kk0q,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Iowa Western,iowawesterncommunitycollege,masonengelsru0,Mason Engel
-Apr 18,home,Southwestern,W,10-0,10,0,10,win,20240418_oa1v,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Iowa Western,iowawesterncommunitycollege,masonengelsru0,Mason Engel
-Apr 20,home,Southeastern,L,10-0,10,0,10,win,20240420_rt4f,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Iowa Western,iowawesterncommunitycollege,masonengelsru0,Mason Engel
-Apr 20,home,Southeastern,L,4-3,4,3,1,win,20240420_ag00,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Iowa Western,iowawesterncommunitycollege,masonengelsru0,Mason Engel
-Apr 21,home,Southeastern,W,15-3,15,3,12,win,20240421_qwyh,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Iowa Western,iowawesterncommunitycollege,masonengelsru0,Mason Engel
-Apr 24,home,Iowa Lakes,W,10-0,10,0,10,win,20240424_atrw,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Iowa Western,iowawesterncommunitycollege,masonengelsru0,Mason Engel
-Apr 24,home,Iowa Lakes,W,11-3,11,3,8,win,20240424_sr42,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Iowa Western,iowawesterncommunitycollege,masonengelsru0,Mason Engel
-Apr 27,home,Indian Hills,W,11-5,11,5,6,win,20240427_fksa,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Iowa Western,iowawesterncommunitycollege,masonengelsru0,Mason Engel
-Apr 27,home,Indian Hills,W,9-3,9,3,6,win,20240427_6hkg,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Iowa Western,iowawesterncommunitycollege,masonengelsru0,Mason Engel
-Apr 29,home,Indian Hills,W,10-3,10,3,7,win,20240429_vm24,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Iowa Western,iowawesterncommunitycollege,masonengelsru0,Mason Engel
-May 1,home,Des Moines Area,W,4-2,4,2,2,win,20240501_vq7v,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Iowa Western,iowawesterncommunitycollege,masonengelsru0,Mason Engel
-May 3,home,Northeast,W,10-7,10,7,3,win,20240503_a13e,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Iowa Western,iowawesterncommunitycollege,masonengelsru0,Mason Engel
-May 4,home,Northeast,W,5-4,5,4,1,win,20240504_gg5g,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Iowa Western,iowawesterncommunitycollege,masonengelsru0,Mason Engel
-May 9,home,Indian Hills,W,10-0,10,0,10,win,20240509_7jee,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Iowa Western,iowawesterncommunitycollege,masonengelsru0,Mason Engel
+Mar 18,home,Cloud County,L,4-2,4,2,2,win,20240318_efjv,0,0,0,0,0.2,,,,0.00,,,2024,2023-24,div1,Iowa Western,iowawesterncommunitycollege,masonengelsru0,Mason Engel
+Mar 22,home,North Iowa Area,W,2-0,2,0,2,win,20240322_znwu,0,0,0,0,1.0,,,,0.00,,,2024,2023-24,div1,Iowa Western,iowawesterncommunitycollege,masonengelsru0,Mason Engel
+Mar 30,home,Ellsworth,W,15-13,15,13,2,win,20240330_a9e2,0,0,0,0,0.0,1,2,2,INF,,1,2024,2023-24,div1,Iowa Western,iowawesterncommunitycollege,masonengelsru0,Mason Engel
+Apr 10,home,Iowa Lakes,W,14-0,14,0,14,win,20240410_t1pj,0,0,0,0,1.0,,,,0.00,,,2024,2023-24,div1,Iowa Western,iowawesterncommunitycollege,masonengelsru0,Mason Engel
+Apr 18,home,Southwestern,W,10-0,10,0,10,win,20240418_oa1v,0,0,0,0,1.0,1,,,0.00,2.00,1,2024,2023-24,div1,Iowa Western,iowawesterncommunitycollege,masonengelsru0,Mason Engel
+Apr 24,home,Iowa Lakes,W,11-3,11,3,8,win,20240424_sr42,0,0,0,0,1.0,,,,0.00,1.00,1,2024,2023-24,div1,Iowa Western,iowawesterncommunitycollege,masonengelsru0,Mason Engel
+Apr 29,home,Indian Hills,W,10-3,10,3,7,win,20240429_vm24,0,0,0,0,1.0,,,,0.00,,,2024,2023-24,div1,Iowa Western,iowawesterncommunitycollege,masonengelsru0,Mason Engel
+May 4,home,Northeast,W,4-0,4,0,4,win,20240504_xoq7,0,0,0,0,2.0,,,,0.00,,,2024,2023-24,div1,Iowa Western,iowawesterncommunitycollege,masonengelsru0,Mason Engel
+May 17,home,Wabash Valley,W,16-5,16,5,11,win,20240517_wgzi,0,0,0,0,2.0,1,,,0.00,1.00,1,2024,2023-24,div1,Iowa Western,iowawesterncommunitycollege,masonengelsru0,Mason Engel

@@ -1,8 +1,22 @@
 date,location,opponent,result,score,team_score,opp_score,game_score_diff,game_win_loss,game_id,TC,PO,A,E,FPCT,DP,SBA,RCS,RCS_PCT,PB,CI,season,njcaa_season,njcaa_division,team,team_id,player_id,player_name
-Feb 2,home,USC Union,W,10-1,10,1,9,win,20240202_hgka,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Roane State,roanestatecommunitycollege,mitchvictoriix5,Mitch Victor
-Feb 14,home,BC Post Grad,W,3-2,3,2,1,win,20240214_ldw1,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Roane State,roanestatecommunitycollege,mitchvictoriix5,Mitch Victor
-Mar 1,home,Jackson State,L,13-10,13,10,3,win,20240301_ol7q,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Roane State,roanestatecommunitycollege,mitchvictoriix5,Mitch Victor
-Mar 13,home,New River,W,8-7,8,7,1,win,20240313_3vdi,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Roane State,roanestatecommunitycollege,mitchvictoriix5,Mitch Victor
-Mar 19,home,King University,W,16-9,16,9,7,win,20240319_xqc3,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Roane State,roanestatecommunitycollege,mitchvictoriix5,Mitch Victor
-Apr 3,home,Southwest Virginia,W,10-0,10,0,10,win,20240403_1z5s,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Roane State,roanestatecommunitycollege,mitchvictoriix5,Mitch Victor
-Apr 22,home,BC Post Grad,L,4-3,4,3,1,win,20240422_y59p,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Roane State,roanestatecommunitycollege,mitchvictoriix5,Mitch Victor
+Jan 27,home,Salt Lake,L,4-2,4,2,2,win,20240127_y9zo,0,0,0,0,4.1,4,1,1,2.08,.92,,2024,2023-24,div1,Roane State,roanestatecommunitycollege,mitchvictoriix5,Mitch Victor
+Feb 4,home,New Mexico,W,3-2,3,2,1,win,20240204_i0m6,0,1,0,0,3.1,3,1,1,2.70,1.20,1,2024,2023-24,div1,Roane State,roanestatecommunitycollege,mitchvictoriix5,Mitch Victor
+Feb 9,home,Southern Nevada,W,1-0,1,0,1,win,20240209_20m4,0,0,0,0,3.0,2,,,0.00,1.33,2,2024,2023-24,div1,Roane State,roanestatecommunitycollege,mitchvictoriix5,Mitch Victor
+Feb 13,home,Arizona Western,W,9-4,9,4,5,win,20240213_48uq,0,0,0,0,4.2,2,,,0.00,1.07,3,2024,2023-24,div1,Roane State,roanestatecommunitycollege,mitchvictoriix5,Mitch Victor
+Feb 20,home,Eastern Arizona,W,8-5,8,5,3,win,20240220_0a55,0,0,0,1,1.0,,,,0.00,1.00,1,2024,2023-24,div1,Roane State,roanestatecommunitycollege,mitchvictoriix5,Mitch Victor
+Feb 23,home,Central Arizona,L,8-2,8,2,6,win,20240223_d37n,1,0,1,0,5.0,7,3,3,5.40,1.80,2,2024,2023-24,div1,Roane State,roanestatecommunitycollege,mitchvictoriix5,Mitch Victor
+Mar 2,home,Pima,L,15-5,15,5,10,win,20240302_xmyd,1,0,1,0,3.2,10,9,6,14.73,2.73,0,2024,2023-24,div1,Roane State,roanestatecommunitycollege,mitchvictoriix5,Mitch Victor
+Mar 9,home,Paradise Valley,L,2-0,2,0,2,win,20240309_euin,0,0,1,0,4.2,4,2,2,3.86,1.07,1,2024,2023-24,div1,Roane State,roanestatecommunitycollege,mitchvictoriix5,Mitch Victor
+Mar 16,home,Cochise,W,5-3,5,3,2,win,20240316_v0xn,0,1,0,0,5.0,,,,0.00,,,2024,2023-24,div1,Roane State,roanestatecommunitycollege,mitchvictoriix5,Mitch Victor
+Mar 22,home,Glendale,W,2-1,2,1,1,win,20240322_k2dw,0,1,0,0,8.0,3,,,0.00,.38,,2024,2023-24,div1,Roane State,roanestatecommunitycollege,mitchvictoriix5,Mitch Victor
+Mar 29,home,Chandler-Gilbert,L,7-6,7,6,1,win,20240329_p0bo,0,0,0,0,1.0,2,2,2,18.00,3.00,1,2024,2023-24,div1,Roane State,roanestatecommunitycollege,mitchvictoriix5,Mitch Victor
+Mar 30,home,Chandler-Gilbert,W,14-7,14,7,7,win,20240330_96ug,0,0,0,0,2.0,,,,0.00,,,2024,2023-24,div1,Roane State,roanestatecommunitycollege,mitchvictoriix5,Mitch Victor
+Apr 2,home,Scottsdale,W,5-2,5,2,3,win,20240402_4qzz,0,0,0,1,2.0,,,,0.00,,,2024,2023-24,div1,Roane State,roanestatecommunitycollege,mitchvictoriix5,Mitch Victor
+Apr 6,home,Cochise,W,8-3,8,3,5,win,20240406_vlqu,0,1,0,0,4.2,3,2,,0.00,1.07,2,2024,2023-24,div1,Roane State,roanestatecommunitycollege,mitchvictoriix5,Mitch Victor
+Apr 13,home,Phoenix,W,11-6,11,6,5,win,20240413_4hk3,0,0,0,0,1.0,2,,,0.00,2.00,,2024,2023-24,div1,Roane State,roanestatecommunitycollege,mitchvictoriix5,Mitch Victor
+Apr 16,home,Eastern Arizona,W,17-5,17,5,12,win,20240416_eosn,0,0,0,0,0.1,6,5,5,135.00,18.00,,2024,2023-24,div1,Roane State,roanestatecommunitycollege,mitchvictoriix5,Mitch Victor
+Apr 20,home,Central Arizona,L,8-7,8,7,1,win,20240420_rjk0,0,0,0,0,1.2,1,1,1,5.40,.60,,2024,2023-24,div1,Roane State,roanestatecommunitycollege,mitchvictoriix5,Mitch Victor
+Apr 27,home,Pima,L,10-7,10,7,3,win,20240427_bfj2,0,0,1,0,1.0,3,4,4,36.00,5.00,2,2024,2023-24,div1,Roane State,roanestatecommunitycollege,mitchvictoriix5,Mitch Victor
+May 11,home,Pima,W,11-1,11,1,10,win,20240511_a4d5,0,1,0,0,5.0,3,,,0.00,.60,,2024,2023-24,div1,Roane State,roanestatecommunitycollege,mitchvictoriix5,Mitch Victor
+May 16,home,Southeast,W,8-4,8,4,4,win,20240516_plm3,0,0,0,1,0.1,,,,0.00,,,2024,2023-24,div1,Roane State,roanestatecommunitycollege,mitchvictoriix5,Mitch Victor
+May 17,home,Southeast,W,5-4,5,4,1,win,20240517_7kpn,0,0,0,0,2.2,3,2,2,6.75,1.88,2,2024,2023-24,div1,Roane State,roanestatecommunitycollege,mitchvictoriix5,Mitch Victor

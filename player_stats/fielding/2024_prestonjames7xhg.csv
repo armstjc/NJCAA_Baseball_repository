@@ -1,19 +1,22 @@
 date,location,opponent,result,score,team_score,opp_score,game_score_diff,game_win_loss,game_id,TC,PO,A,E,FPCT,DP,SBA,RCS,RCS_PCT,PB,CI,season,njcaa_season,njcaa_division,team,team_id,player_id,player_name
-Jan 20  #,home,Flagler College,L,5-3,5,3,2,win,20240120_dxpa,0,0,0,0,1.0,0,0,0,0.00,.00,0,2024,2023-24,div2,Lake-Sumter State,lakesumterstatecollege,prestonjames7xhg,Preston James
-Jan 26,home,Santa Fe,L,13-7,13,7,6,win,20240126_ffki,0,0,0,0,0.2,4,5,5,67.50,7.50,1,2024,2023-24,div2,Lake-Sumter State,lakesumterstatecollege,prestonjames7xhg,Preston James
-Jan 31,home,Polk State,L,2-0,2,0,2,win,20240131_nieq,1,0,1,0,4.0,2,1,1,2.25,1.75,5,2024,2023-24,div2,Lake-Sumter State,lakesumterstatecollege,prestonjames7xhg,Preston James
-Feb 7,home,Tallahassee,L,6-2,6,2,4,win,20240207_69ff,1,0,1,0,3.2,2,3,2,4.91,1.36,3,2024,2023-24,div2,Lake-Sumter State,lakesumterstatecollege,prestonjames7xhg,Preston James
-Feb 14,home,St. Petersburg,W,9-6,9,6,3,win,20240214_g1t5,0,1,0,0,2.2,3,1,1,3.38,1.50,1,2024,2023-24,div2,Lake-Sumter State,lakesumterstatecollege,prestonjames7xhg,Preston James
-Feb 20,home,Eastern Florida State,W,7-3,7,3,4,win,20240220_dtbn,0,0,0,0,2.0,2,2,2,9.00,2.00,2,2024,2023-24,div2,Lake-Sumter State,lakesumterstatecollege,prestonjames7xhg,Preston James
-Feb 25,home,Florida State Jacksonville,L,9-8,9,8,1,win,20240225_g1d8,0,0,1,0,1.2,5,4,4,21.60,3.60,1,2024,2023-24,div2,Lake-Sumter State,lakesumterstatecollege,prestonjames7xhg,Preston James
-Mar 2,home,South Florida State,L,14-13,14,13,1,win,20240302_b58p,0,0,0,0,2.1,5,6,5,19.29,3.00,2,2024,2023-24,div2,Lake-Sumter State,lakesumterstatecollege,prestonjames7xhg,Preston James
-Mar 9,home,St. Johns River State,L,11-3,11,3,8,win,20240309_607r,0,0,0,0,2.1,1,1,,0.00,2.14,4,2024,2023-24,div2,Lake-Sumter State,lakesumterstatecollege,prestonjames7xhg,Preston James
-Mar 13,home,Northern Essex,W,25-17,25,17,8,win,20240313_5g8m,0,1,0,0,2.2,2,1,,0.00,.75,,2024,2023-24,div2,Lake-Sumter State,lakesumterstatecollege,prestonjames7xhg,Preston James
-Mar 16,home,Pasco-Hernando State,L,12-3,12,3,9,win,20240316_esp9,0,0,0,0,4.2,1,,,0.00,.21,,2024,2023-24,div2,Lake-Sumter State,lakesumterstatecollege,prestonjames7xhg,Preston James
-Mar 21,home,Palm Beach State,L,16-5,16,5,11,win,20240321_d2zv,1,0,1,0,0.1,4,6,6,162.00,12.00,0,2024,2023-24,div2,Lake-Sumter State,lakesumterstatecollege,prestonjames7xhg,Preston James
-Mar 25,home,Inspiration Academy Post-Grad,W,13-2,13,2,11,win,20240325_lzag,0,0,0,0,1.0,,,,0.00,,,2024,2023-24,div2,Lake-Sumter State,lakesumterstatecollege,prestonjames7xhg,Preston James
-Mar 30,home,Florida State Jacksonville,W,6-4,6,4,2,win,20240330_lilh,1,0,0,0,2.1,2,0,0,0.00,1.71,2,2024,2023-24,div2,Lake-Sumter State,lakesumterstatecollege,prestonjames7xhg,Preston James
-Apr 5,home,South Florida State,W,10-9,10,9,1,win,20240405_ybre,1,0,0,0,4.1,3,5,1,2.08,1.38,3,2024,2023-24,div2,Lake-Sumter State,lakesumterstatecollege,prestonjames7xhg,Preston James
-Apr 13,home,St. Johns River State,W,7-4,7,4,3,win,20240413_rduw,1,1,0,0,5.1,7,4,4,6.75,1.31,0,2024,2023-24,div2,Lake-Sumter State,lakesumterstatecollege,prestonjames7xhg,Preston James
-Apr 20,home,Pasco-Hernando State,L,2-1,2,1,1,win,20240420_w5p2,1,0,1,0,6.0,9,2,2,3.00,1.50,0,2024,2023-24,div2,Lake-Sumter State,lakesumterstatecollege,prestonjames7xhg,Preston James
-Apr 26,home,Palm Beach State,W,10-5,10,5,5,win,20240426_vqdc,1,0,0,0,7.0,8,4,4,5.14,1.29,1,2024,2023-24,div2,Lake-Sumter State,lakesumterstatecollege,prestonjames7xhg,Preston James
+Jan 31,home,Fayetteville Tech,W,9-0,9,0,9,win,20240131_k056,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Lake-Sumter State,lakesumterstatecollege,prestonjames7xhg,Preston James
+Feb 3,home,Southeastern-Whiteville,W,13-3,13,3,10,win,20240203_yfa4,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Lake-Sumter State,lakesumterstatecollege,prestonjames7xhg,Preston James
+Feb 3,home,Southeastern-Whiteville,L,9-2,9,2,7,win,20240203_ebi9,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Lake-Sumter State,lakesumterstatecollege,prestonjames7xhg,Preston James
+Feb 4,home,Southeastern-Whiteville,L,14-3,14,3,11,win,20240204_p8br,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Lake-Sumter State,lakesumterstatecollege,prestonjames7xhg,Preston James
+Feb 4,home,Southeastern-Whiteville,L,9-4,9,4,5,win,20240204_ythm,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Lake-Sumter State,lakesumterstatecollege,prestonjames7xhg,Preston James
+Feb 7,home,Camp,L,12-5,12,5,7,win,20240207_0tqd,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Lake-Sumter State,lakesumterstatecollege,prestonjames7xhg,Preston James
+Feb 9,home,Caldwell Tech,L,10-6,10,6,4,win,20240209_os50,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Lake-Sumter State,lakesumterstatecollege,prestonjames7xhg,Preston James
+Feb 14,home,NC Wesleyan JV,L,11-7,11,7,4,win,20240214_twcy,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Lake-Sumter State,lakesumterstatecollege,prestonjames7xhg,Preston James
+Feb 24,home,Guilford Tech,W,24-5,24,5,19,win,20240224_juqr,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Lake-Sumter State,lakesumterstatecollege,prestonjames7xhg,Preston James
+Feb 25,home,Guilford Tech,W,10-5,10,5,5,win,20240225_2cff,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Lake-Sumter State,lakesumterstatecollege,prestonjames7xhg,Preston James
+Feb 28,home,Fayetteville Tech,L,7-4,7,4,3,win,20240228_ud2q,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Lake-Sumter State,lakesumterstatecollege,prestonjames7xhg,Preston James
+Mar 2,home,Southwest Virginia,W,10-0,10,0,10,win,20240302_6tic,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Lake-Sumter State,lakesumterstatecollege,prestonjames7xhg,Preston James
+Mar 9,home,Patrick & Henry,L,19-5,19,5,14,win,20240309_iuuw,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Lake-Sumter State,lakesumterstatecollege,prestonjames7xhg,Preston James
+Mar 13,home,Pitt,L,16-5,16,5,11,win,20240313_d3z2,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Lake-Sumter State,lakesumterstatecollege,prestonjames7xhg,Preston James
+Mar 16,home,New River,W,15-3,15,3,12,win,20240316_vgvf,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Lake-Sumter State,lakesumterstatecollege,prestonjames7xhg,Preston James
+Mar 16,home,New River,W,12-2,12,2,10,win,20240316_cca3,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Lake-Sumter State,lakesumterstatecollege,prestonjames7xhg,Preston James
+Mar 17,home,New River,W,16-1,16,1,15,win,20240317_sks5,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Lake-Sumter State,lakesumterstatecollege,prestonjames7xhg,Preston James
+Mar 19,home,Camp,W,9-4,9,4,5,win,20240319_qxk8,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Lake-Sumter State,lakesumterstatecollege,prestonjames7xhg,Preston James
+Mar 23,home,Cleveland,W,10-4,10,4,6,win,20240323_wvr6,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Lake-Sumter State,lakesumterstatecollege,prestonjames7xhg,Preston James
+Mar 30,home,Catawba Valley,L,15-12,15,12,3,win,20240330_q1dn,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Lake-Sumter State,lakesumterstatecollege,prestonjames7xhg,Preston James
+Apr 14,home,Southwest Virginia,L,11-7,11,7,4,win,20240414_yg1h,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Lake-Sumter State,lakesumterstatecollege,prestonjames7xhg,Preston James

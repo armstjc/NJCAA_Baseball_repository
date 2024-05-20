@@ -1,13 +1,15 @@
 date,location,opponent,result,score,team_score,opp_score,game_score_diff,game_win_loss,game_id,GS,W,L,SV,IP,H,R,ER,ERA,BB,K,HR,season,njcaa_season,njcaa_division,team,team_id,player_id,player_name
-Apr 26,home,Wallace-Dothan,L,9-7,9,7,2,win,20240426_fkgy,0,0,0,0,5.0,9,1,1,1.80,2.20,2,1,2024,2023-24,div2,Bishop State,bishopstatecommunitycollege,brettnixug0p,Brett Nix
-Apr 20,home,Coastal Alabama - North,L,5-2,5,2,3,win,20240420_f4gw,0,0,0,0,0.2,1,,,0.00,1.50,,,2024,2023-24,div2,Bishop State,bishopstatecommunitycollege,brettnixug0p,Brett Nix
-Apr 13,home,Lurleen B. Wallace,L,3-2,3,2,1,win,20240413_x5or,1,0,1,0,6.0,5,3,2,3.00,.83,0,3,2024,2023-24,div2,Bishop State,bishopstatecommunitycollege,brettnixug0p,Brett Nix
-Apr 4,home,Wallace-Selma,W,8-5,8,5,3,win,20240404_1l7h,0,0,0,1,1.0,,,,0.00,,,,2024,2023-24,div2,Bishop State,bishopstatecommunitycollege,brettnixug0p,Brett Nix
-Mar 30,home,Marion Military,L,11-10,11,10,1,win,20240330_auxz,0,0,0,0,0.1,1,1,1,27.00,6.00,1,,2024,2023-24,div2,Bishop State,bishopstatecommunitycollege,brettnixug0p,Brett Nix
-Mar 28,home,Marion Military,W,3-2,3,2,1,win,20240328_88w5,0,1,0,0,1.0,2,,,0.00,2.00,,,2024,2023-24,div2,Bishop State,bishopstatecommunitycollege,brettnixug0p,Brett Nix
-Mar 21,home,Enterprise State,W,7-2,7,2,5,win,20240321_ots6,0,0,0,1,3.2,1,,,0.00,.27,,,2024,2023-24,div2,Bishop State,bishopstatecommunitycollege,brettnixug0p,Brett Nix
-Feb 29,home,Central Alabama,W,6-2,6,2,4,win,20240229_ctsg,0,0,0,1,3.1,3,,,0.00,.90,,3,2024,2023-24,div2,Bishop State,bishopstatecommunitycollege,brettnixug0p,Brett Nix
-Feb 24,home,Bevill State,W,5-1,5,1,4,win,20240224_iid8,0,0,0,1,3.0,,,,0.00,,,,2024,2023-24,div2,Bishop State,bishopstatecommunitycollege,brettnixug0p,Brett Nix
-Feb 19,home,Faulkner University JV,W,16-0,16,0,16,win,20240219_01l1,0,0,0,0,1.0,,,,0.00,,,1,2024,2023-24,div2,Bishop State,bishopstatecommunitycollege,brettnixug0p,Brett Nix
-Feb 14,home,Spring Hill JV,L,11-10,11,10,1,win,20240214_5m8l,0,0,1,0,1.2,2,1,1,5.40,1.80,1,,2024,2023-24,div2,Bishop State,bishopstatecommunitycollege,brettnixug0p,Brett Nix
-Feb 6,home,Coastal Alabama - South,W,8-3,8,3,5,win,20240206_4uyd,0,0,0,1,4.1,3,,,0.00,.69,,4,2024,2023-24,div2,Bishop State,bishopstatecommunitycollege,brettnixug0p,Brett Nix
+May 11,home,UConn Avery Point,L,6-3,6,3,3,win,20240511_9lej,0,0,0,0,3.1,1,1,,0.00,.30,,3,2024,2023-24,div2,Bishop State,bishopstatecommunitycollege,brettnixug0p,Brett Nix
+May 10,home,UConn Avery Point,L,7-4,7,4,3,win,20240510_l63e,0,0,1,0,0.0,3,4,3,INF,,,,2024,2023-24,div2,Bishop State,bishopstatecommunitycollege,brettnixug0p,Brett Nix
+May 2,home,Genesee,W,10-8,10,8,2,win,20240502_2j83,0,0,0,1,2.1,4,3,3,11.57,1.71,,4,2024,2023-24,div2,Bishop State,bishopstatecommunitycollege,brettnixug0p,Brett Nix
+Apr 28,home,Sullivan County,W,7-6,7,6,1,win,20240428_7ch0,0,0,0,1,1.0,1,,,0.00,1.00,,2,2024,2023-24,div2,Bishop State,bishopstatecommunitycollege,brettnixug0p,Brett Nix
+Apr 28,home,Sullivan County,W,7-5,7,5,2,win,20240428_kdo7,0,0,0,1,1.0,3,2,2,18.00,4.00,1,1,2024,2023-24,div2,Bishop State,bishopstatecommunitycollege,brettnixug0p,Brett Nix
+Apr 21,home,SUNY Adirondack,W,8-3,8,3,5,win,20240421_8v1c,0,0,0,1,3.0,3,,,0.00,1.33,1,5,2024,2023-24,div2,Bishop State,bishopstatecommunitycollege,brettnixug0p,Brett Nix
+Apr 16,home,Lackawanna,L,11-8,11,8,3,win,20240416_e0ro,1,0,1,0,5.0,10,7,6,10.80,2.20,1,9,2024,2023-24,div2,Bishop State,bishopstatecommunitycollege,brettnixug0p,Brett Nix
+Apr 9,home,SUNY Niagara,L,11-3,11,3,8,win,20240409_k76e,1,0,1,0,4.0,6,4,4,9.00,2.25,3,2,2024,2023-24,div2,Bishop State,bishopstatecommunitycollege,brettnixug0p,Brett Nix
+Apr 6,home,UConn Avery Point,W,5-3,5,3,2,win,20240406_avof,0,0,0,1,2.0,,,,0.00,.50,1,4,2024,2023-24,div2,Bishop State,bishopstatecommunitycollege,brettnixug0p,Brett Nix
+Apr 1,home,Erie,L,9-0,9,0,9,win,20240401_lgce,1,0,1,0,4.0,9,4,4,9.00,2.25,0,5,2024,2023-24,div2,Bishop State,bishopstatecommunitycollege,brettnixug0p,Brett Nix
+Mar 26,home,SUNY Niagara,L,4-2,4,2,2,win,20240326_1emn,1,0,0,0,5.0,3,1,1,1.80,.80,1,4,2024,2023-24,div2,Bishop State,bishopstatecommunitycollege,brettnixug0p,Brett Nix
+Mar 17,home,Cayuga,L,6-2,6,2,4,win,20240317_gwog,1,0,1,0,5.0,5,5,2,3.60,1.00,0,4,2024,2023-24,div2,Bishop State,bishopstatecommunitycollege,brettnixug0p,Brett Nix
+Mar 12,home,Middlesex College,W,3-2,3,2,1,win,20240312_xhyz,0,0,0,0,0.0,,,,0.00,,1,,2024,2023-24,div2,Bishop State,bishopstatecommunitycollege,brettnixug0p,Brett Nix
+Mar 9,home,Delaware Tech,W,18-4,18,4,14,win,20240309_3ikp,1,1,0,0,4.0,6,4,3,6.75,2.00,2,3,2024,2023-24,div2,Bishop State,bishopstatecommunitycollege,brettnixug0p,Brett Nix

@@ -1,18 +1,26 @@
 date,location,opponent,result,score,team_score,opp_score,game_score_diff,game_win_loss,game_id,AB,R,H,2B,3B,HR,RBI,BB,K,SB,CS,HBP,SF,SH,TB,XBH,HDP,GO,FO,GO/FO,PA,season,njcaa_season,njcaa_division,team,team_id,player_id,player_name
-Feb 24,home,Lake Land,W,8-0,8,0,8,win,20240224_c3pp,1,1,1,,,1,2,,,,,,,,4,1,,,,,1,2024,2023-24,div2,Kirkwood,kirkwoodcommunitycollege,jaserundejr3d,Jase Runde
-Feb 24,home,Lake Land,W,6-4,6,4,2,win,20240224_t0k7,1,0,0,,,,0,2,1,,,,,,0,0,,,,,3,2024,2023-24,div2,Kirkwood,kirkwoodcommunitycollege,jaserundejr3d,Jase Runde
-Mar 8,home,UConn Avery Point,W,9-3,9,3,6,win,20240308_7vky,4,1,0,,,,0,,,,,1,,,0,0,,,,,5,2024,2023-24,div2,Kirkwood,kirkwoodcommunitycollege,jaserundejr3d,Jase Runde
-Mar 9,home,UConn Avery Point,W,19-3,19,3,16,win,20240309_v83s,1,0,0,,,,0,,,,,,,,0,0,,,,,1,2024,2023-24,div2,Kirkwood,kirkwoodcommunitycollege,jaserundejr3d,Jase Runde
-Mar 11,home,Prairie State,W,12-2,12,2,10,win,20240311_lequ,2,1,1,1,,,2,1,,,,,,,2,1,,,,,3,2024,2023-24,div2,Kirkwood,kirkwoodcommunitycollege,jaserundejr3d,Jase Runde
-Mar 12,home,Westchester,W,23-1,23,1,22,win,20240312_ytzf,2,1,1,,,,1,1,,,,,,,1,0,,,,,3,2024,2023-24,div2,Kirkwood,kirkwoodcommunitycollege,jaserundejr3d,Jase Runde
-Mar 13,home,Waubonsee,W,15-1,15,1,14,win,20240313_bn7c,0,0,0,,,,0,,,,,1,,,0,0,,,,,1,2024,2023-24,div2,Kirkwood,kirkwoodcommunitycollege,jaserundejr3d,Jase Runde
-Mar 29,home,Northeast,W,3-0,3,0,3,win,20240329_9c0z,1,0,0,,,,0,,1,,,,,,0,0,,,,,1,2024,2023-24,div2,Kirkwood,kirkwoodcommunitycollege,jaserundejr3d,Jase Runde
-Apr 4,home,Indian Hills,W,12-2,12,2,10,win,20240404_avhn,0,0,0,,,,0,1,,,,,,,0,0,,,,,1,2024,2023-24,div2,Kirkwood,kirkwoodcommunitycollege,jaserundejr3d,Jase Runde
-Apr 9,home,Iowa Lakes,W,7-0,7,0,7,win,20240409_ddq8,1,1,0,,,,0,,1,,,1,,1,0,0,,,,,3,2024,2023-24,div2,Kirkwood,kirkwoodcommunitycollege,jaserundejr3d,Jase Runde
-Apr 21,home,Des Moines Area,W,15-2,15,2,13,win,20240421_mofd,1,0,0,,,,0,,,,,,,,0,0,,1,,,1,2024,2023-24,div2,Kirkwood,kirkwoodcommunitycollege,jaserundejr3d,Jase Runde
-Apr 23,home,Iowa Lakes,W,24-3,24,3,21,win,20240423_4ofy,1,2,1,,,,2,,,,,1,,,1,0,,,,,2,2024,2023-24,div2,Kirkwood,kirkwoodcommunitycollege,jaserundejr3d,Jase Runde
-Apr 27,home,Ellsworth,W,12-0,12,0,12,win,20240427_7au2,0,0,0,,,,0,1,,,,,,,0,0,,,,,1,2024,2023-24,div2,Kirkwood,kirkwoodcommunitycollege,jaserundejr3d,Jase Runde
-Apr 29,home,Ellsworth,W,21-8,21,8,13,win,20240429_yyez,1,0,1,,,,0,,,,,,,,1,0,,,,,1,2024,2023-24,div2,Kirkwood,kirkwoodcommunitycollege,jaserundejr3d,Jase Runde
-May 1,home,North Iowa Area,W,8-5,8,5,3,win,20240501_qbxs,1,1,0,,,,0,1,,,,,,,0,0,,,,,2,2024,2023-24,div2,Kirkwood,kirkwoodcommunitycollege,jaserundejr3d,Jase Runde
-May 4,home,Marshalltown,W,9-3,9,3,6,win,20240504_l033,4,1,1,,,,0,,,,,,,,1,0,,,,,4,2024,2023-24,div2,Kirkwood,kirkwoodcommunitycollege,jaserundejr3d,Jase Runde
-May 5,home,Marshalltown,W,10-0,10,0,10,win,20240505_vw11,1,0,1,,,,1,,,,,,,,1,0,,,,,1,2024,2023-24,div2,Kirkwood,kirkwoodcommunitycollege,jaserundejr3d,Jase Runde
+Feb 2,home,Southwest Virginia,W,11-1,11,1,10,win,20240202_am97,2,0,0,,,,0,1,1,1,,,,,0,0,,,,,3,2024,2023-24,div2,Kirkwood,kirkwoodcommunitycollege,jaserundejr3d,Jase Runde
+Feb 2,home,Southwest Virginia,W,30-1,30,1,29,win,20240202_cxnt,0,0,0,,,,0,,,,,,,,0,0,,,,,0,2024,2023-24,div2,Kirkwood,kirkwoodcommunitycollege,jaserundejr3d,Jase Runde
+Feb 3,home,Southwest Virginia,W,17-0,17,0,17,win,20240203_jjyy,1,1,0,,,,1,1,,,,,1,,0,0,,,,,3,2024,2023-24,div2,Kirkwood,kirkwoodcommunitycollege,jaserundejr3d,Jase Runde
+Feb 8,home,Snead State,W,9-7,9,7,2,win,20240208_8uhp,3,2,2,,,1,1,,,1,,,,,5,1,,,,,3,2024,2023-24,div2,Kirkwood,kirkwoodcommunitycollege,jaserundejr3d,Jase Runde
+Feb 9,home,Snead State,W,2-1,2,1,1,win,20240209_qvyx,4,0,0,,,,0,,2,,,,,,0,0,,,,,4,2024,2023-24,div2,Kirkwood,kirkwoodcommunitycollege,jaserundejr3d,Jase Runde
+Feb 20,home,Southwest Mississippi,W,7-6,7,6,1,win,20240220_ltqy,3,1,1,,,,1,,,,,1,,,1,0,,,,,4,2024,2023-24,div2,Kirkwood,kirkwoodcommunitycollege,jaserundejr3d,Jase Runde
+Feb 22,home,Shelton State,W,12-8,12,8,4,win,20240222_0gwr,4,2,3,,2,1,4,,1,,,,,,10,3,,,,,4,2024,2023-24,div2,Kirkwood,kirkwoodcommunitycollege,jaserundejr3d,Jase Runde
+Feb 24,home,Shelton State,W,17-8,17,8,9,win,20240224_sgkm,5,3,2,,,1,4,1,1,,,,,,5,1,,,,,6,2024,2023-24,div2,Kirkwood,kirkwoodcommunitycollege,jaserundejr3d,Jase Runde
+Mar 6,home,Jones,W,4-1,4,1,3,win,20240306_j23d,3,0,0,,,,0,,1,,,,,,0,0,,,2,,3,2024,2023-24,div2,Kirkwood,kirkwoodcommunitycollege,jaserundejr3d,Jase Runde
+Mar 9,home,Hinds,W,8-0,8,0,8,win,20240309_hrwi,3,0,1,,,,1,,,,,,1,,1,0,,,,,4,2024,2023-24,div2,Kirkwood,kirkwoodcommunitycollege,jaserundejr3d,Jase Runde
+Mar 13,home,Mississippi Delta,W,9-8,9,8,1,win,20240313_1n2n,3,4,2,,,2,2,2,,,,,,,8,2,,,,,5,2024,2023-24,div2,Kirkwood,kirkwoodcommunitycollege,jaserundejr3d,Jase Runde
+Mar 13,home,Mississippi Delta,W,17-1,17,1,16,win,20240313_81x3,3,1,1,,,,2,1,,,,,,,1,0,,,,,4,2024,2023-24,div2,Kirkwood,kirkwoodcommunitycollege,jaserundejr3d,Jase Runde
+Mar 19,home,Holmes,W,11-5,11,5,6,win,20240319_097u,3,0,0,,,,0,2,2,,,,,,0,0,,,,,5,2024,2023-24,div2,Kirkwood,kirkwoodcommunitycollege,jaserundejr3d,Jase Runde
+Mar 19,home,Holmes,W,7-6,7,6,1,win,20240319_v03a,3,0,0,,,,0,,2,,,1,,,0,0,,,,,4,2024,2023-24,div2,Kirkwood,kirkwoodcommunitycollege,jaserundejr3d,Jase Runde
+Mar 23,home,Meridian,W,3-2,3,2,1,win,20240323_odph,3,0,1,1,,,1,1,1,,,,,,2,1,,,,,4,2024,2023-24,div2,Kirkwood,kirkwoodcommunitycollege,jaserundejr3d,Jase Runde
+Mar 23,home,Meridian,W,11-5,11,5,6,win,20240323_82cr,4,1,1,,,,0,1,1,1,,,,,1,0,,,,,5,2024,2023-24,div2,Kirkwood,kirkwoodcommunitycollege,jaserundejr3d,Jase Runde
+Mar 25,home,Coahoma,W,11-1,11,1,10,win,20240325_y19n,5,0,2,2,,,2,,,,,,,,4,2,,,,,5,2024,2023-24,div2,Kirkwood,kirkwoodcommunitycollege,jaserundejr3d,Jase Runde
+Mar 25,home,Coahoma,W,20-2,20,2,18,win,20240325_e1a6,4,2,2,,1,,1,1,,1,,,,,4,1,,,,,5,2024,2023-24,div2,Kirkwood,kirkwoodcommunitycollege,jaserundejr3d,Jase Runde
+Mar 29,home,Mississippi Gulf Coast,W,6-4,6,4,2,win,20240329_4pfs,4,0,0,,,,0,,1,,,,,,0,0,,,,,4,2024,2023-24,div2,Kirkwood,kirkwoodcommunitycollege,jaserundejr3d,Jase Runde
+Apr 3,home,Northeast Mississippi,W,8-5,8,5,3,win,20240403_nt1w,3,1,0,,,,0,1,1,,,,,,0,0,,1,1,1.00,4,2024,2023-24,div2,Kirkwood,kirkwoodcommunitycollege,jaserundejr3d,Jase Runde
+Apr 9,home,Itawamba,W,4-3,4,3,1,win,20240409_wasr,4,0,2,,,,2,1,2,1,,,,,2,0,,,,,5,2024,2023-24,div2,Kirkwood,kirkwoodcommunitycollege,jaserundejr3d,Jase Runde
+Apr 13,home,Southwest Mississippi,W,9-2,9,2,7,win,20240413_84cm,4,0,1,1,,,1,,,,,1,,,2,1,,,,,5,2024,2023-24,div2,Kirkwood,kirkwoodcommunitycollege,jaserundejr3d,Jase Runde
+Apr 17,home,Northwest Mississippi,W,9-6,9,6,3,win,20240417_9nyz,5,0,1,,,,1,,1,,,,,,1,0,,2,1,2.00,5,2024,2023-24,div2,Kirkwood,kirkwoodcommunitycollege,jaserundejr3d,Jase Runde
+Apr 20,home,Copiah-Lincoln,W,10-7,10,7,3,win,20240420_nrjb,3,0,0,,,,1,1,1,,,,1,,0,0,,,,,5,2024,2023-24,div2,Kirkwood,kirkwoodcommunitycollege,jaserundejr3d,Jase Runde
+May 5,home,Jones,W,6-5,6,5,1,win,20240505_9ygt,4,1,1,,,,0,1,,,1,,,,1,0,,1,2,0.50,5,2024,2023-24,div2,Kirkwood,kirkwoodcommunitycollege,jaserundejr3d,Jase Runde

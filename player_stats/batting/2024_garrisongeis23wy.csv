@@ -1,36 +1,19 @@
 date,location,opponent,result,score,team_score,opp_score,game_score_diff,game_win_loss,game_id,AB,R,H,2B,3B,HR,RBI,BB,K,SB,CS,HBP,SF,SH,TB,XBH,HDP,GO,FO,GO/FO,PA,season,njcaa_season,njcaa_division,team,team_id,player_id,player_name
-Jan 27,home,GateWay (AZ),W,10-5,10,5,5,win,20240127_1nyx,3,1,2,1,,,4,2,,1,,,,,3,1,,,1,,5,2024,2023-24,div1,Southern Nevada,collegeofsouthernnevada,garrisongeis23wy,Garrison Geis
-Feb 3,home,Yavapai,W,18-0,18,0,18,win,20240203_py70,3,2,1,,,,1,1,2,2,,,,,1,0,,,,,4,2024,2023-24,div1,Southern Nevada,collegeofsouthernnevada,garrisongeis23wy,Garrison Geis
-Feb 3,home,Yavapai,W,9-0,9,0,9,win,20240203_qwmv,4,0,0,,,,0,,1,,,,,,0,0,,1,2,0.50,4,2024,2023-24,div1,Southern Nevada,collegeofsouthernnevada,garrisongeis23wy,Garrison Geis
-Feb 9,home,South Mountain,W,4-3,4,3,1,win,20240209_71zi,3,2,1,,,,0,1,1,1,,,,,1,0,,,1,,4,2024,2023-24,div1,Southern Nevada,collegeofsouthernnevada,garrisongeis23wy,Garrison Geis
-Feb 10,home,South Mountain,W,5-2,5,2,3,win,20240210_43ob,4,0,1,,,,1,,1,,,,,,1,0,1,1,1,1.00,4,2024,2023-24,div1,Southern Nevada,collegeofsouthernnevada,garrisongeis23wy,Garrison Geis
-Feb 10,home,South Mountain,W,4-2,4,2,2,win,20240210_w4zs,3,1,1,1,,,1,,,,,,,1,2,1,,2,,,4,2024,2023-24,div1,Southern Nevada,collegeofsouthernnevada,garrisongeis23wy,Garrison Geis
-Mar 1,home,Southern Idaho,W,6-3,6,3,3,win,20240301_1czr,3,0,2,1,,,3,2,,,,,,,3,1,,,1,,5,2024,2023-24,div1,Southern Nevada,collegeofsouthernnevada,garrisongeis23wy,Garrison Geis
-Mar 8,home,Community Christian (CA),W,12-2,12,2,10,win,20240308_z0ak,2,1,1,,,,2,,,,,,1,1,1,0,,,,,4,2024,2023-24,div1,Southern Nevada,collegeofsouthernnevada,garrisongeis23wy,Garrison Geis
-Mar 8,home,Community Christian (CA),W,8-2,8,2,6,win,20240308_z0hu,4,1,2,1,,,1,,1,,,,,,3,1,,,1,,4,2024,2023-24,div1,Southern Nevada,collegeofsouthernnevada,garrisongeis23wy,Garrison Geis
-Mar 9,home,Community Christian (CA),W,15-0,15,0,15,win,20240309_t7ni,3,1,1,1,,,2,1,,,,,,,2,1,,,2,,4,2024,2023-24,div1,Southern Nevada,collegeofsouthernnevada,garrisongeis23wy,Garrison Geis
-Mar 9,home,Community Christian (CA),W,12-0,12,0,12,win,20240309_b386,2,0,1,1,,,3,,,,,1,,,2,1,,1,,,3,2024,2023-24,div1,Southern Nevada,collegeofsouthernnevada,garrisongeis23wy,Garrison Geis
-Mar 16,home,Colorado Northwestern,W,8-1,8,1,7,win,20240316_j5gz,3,2,2,,,1,1,1,,2,,,,,5,1,,1,,,4,2024,2023-24,div1,Southern Nevada,collegeofsouthernnevada,garrisongeis23wy,Garrison Geis
-Mar 16,home,Colorado Northwestern,W,11-0,11,0,11,win,20240316_pa3l,2,2,1,,,,0,2,1,1,,,,,1,0,,,,,4,2024,2023-24,div1,Southern Nevada,collegeofsouthernnevada,garrisongeis23wy,Garrison Geis
-Mar 17,home,Colorado Northwestern,W,9-3,9,3,6,win,20240317_rl28,3,2,2,1,,,1,,,,,,1,,3,1,,,2,,4,2024,2023-24,div1,Southern Nevada,collegeofsouthernnevada,garrisongeis23wy,Garrison Geis
-Mar 17,home,Colorado Northwestern,W,9-4,9,4,5,win,20240317_ptez,5,0,1,,,,0,,,,,,,,1,0,,1,3,0.33,5,2024,2023-24,div1,Southern Nevada,collegeofsouthernnevada,garrisongeis23wy,Garrison Geis
-Mar 22,home,Utah State Eastern,W,8-7,8,7,1,win,20240322_0d1w,4,2,2,1,,,1,1,,,,,,,3,1,,,2,,5,2024,2023-24,div1,Southern Nevada,collegeofsouthernnevada,garrisongeis23wy,Garrison Geis
-Mar 22,home,Utah State Eastern,W,11-7,11,7,4,win,20240322_btz1,3,2,1,,,,1,1,,2,,1,,,1,0,,2,,,5,2024,2023-24,div1,Southern Nevada,collegeofsouthernnevada,garrisongeis23wy,Garrison Geis
-Apr 5,home,Southern Idaho,W,2-1,2,1,1,win,20240405_kksm,3,0,0,,,,0,,,,,,,,0,0,,3,,,3,2024,2023-24,div1,Southern Nevada,collegeofsouthernnevada,garrisongeis23wy,Garrison Geis
-Apr 19,home,Colorado Northwestern,W,13-2,13,2,11,win,20240419_9p33,3,2,1,,,,0,1,,,,,,,1,0,,,,,4,2024,2023-24,div1,Southern Nevada,collegeofsouthernnevada,garrisongeis23wy,Garrison Geis
-Apr 19,home,Colorado Northwestern,W,8-6,8,6,2,win,20240419_d5kh,2,1,1,,,,0,2,1,1,,,,,1,0,,,,,4,2024,2023-24,div1,Southern Nevada,collegeofsouthernnevada,garrisongeis23wy,Garrison Geis
-Apr 20,home,Colorado Northwestern,W,13-2,13,2,11,win,20240420_qq3o,3,2,1,,,,2,1,,1,,,,,1,0,1,1,,,4,2024,2023-24,div1,Southern Nevada,collegeofsouthernnevada,garrisongeis23wy,Garrison Geis
-Apr 20,home,Colorado Northwestern,W,9-0,9,0,9,win,20240420_ugut,2,1,0,,,,1,1,,,,,1,,0,0,,2,1,2.00,4,2024,2023-24,div1,Southern Nevada,collegeofsouthernnevada,garrisongeis23wy,Garrison Geis
-Apr 27,home,Utah State Eastern,W,8-4,8,4,4,win,20240427_uq32,4,1,0,,,,0,,,,,,,,0,0,,,3,,4,2024,2023-24,div1,Southern Nevada,collegeofsouthernnevada,garrisongeis23wy,Garrison Geis
-Apr 28,home,Utah State Eastern,W,11-1,11,1,10,win,20240428_hbm2,2,0,1,,,,1,,,,,1,,,1,0,,,1,,3,2024,2023-24,div1,Southern Nevada,collegeofsouthernnevada,garrisongeis23wy,Garrison Geis
-Apr 28,home,Utah State Eastern,W,15-5,15,5,10,win,20240428_o48d,4,2,2,,,1,1,,,,,,,,5,1,,1,1,1.00,4,2024,2023-24,div1,Southern Nevada,collegeofsouthernnevada,garrisongeis23wy,Garrison Geis
-May 2,home,Salt Lake,W,5-0,5,0,5,win,20240502_vomv,2,0,0,,,,1,,1,,,1,,1,0,0,,2,,,4,2024,2023-24,div1,Southern Nevada,collegeofsouthernnevada,garrisongeis23wy,Garrison Geis
-May 2,home,Salt Lake,W,7-4,7,4,3,win,20240502_298r,4,1,4,2,,,1,,,,,,,,6,2,,,,,4,2024,2023-24,div1,Southern Nevada,collegeofsouthernnevada,garrisongeis23wy,Garrison Geis
-May 3,home,Salt Lake,W,10-2,10,2,8,win,20240503_qms9,2,1,1,,,,0,1,,,,,,,1,0,,,1,,3,2024,2023-24,div1,Southern Nevada,collegeofsouthernnevada,garrisongeis23wy,Garrison Geis
-May 3,home,Salt Lake,W,10-7,10,7,3,win,20240503_sk9i,2,0,0,,,,0,,1,,,,,,0,0,,1,,,2,2024,2023-24,div1,Southern Nevada,collegeofsouthernnevada,garrisongeis23wy,Garrison Geis
-May 9,home,Southern Idaho,W,5-3,5,3,2,win,20240509_solb,3,1,2,,,,0,,,,,1,,,2,0,,,1,,4,2024,2023-24,div1,Southern Nevada,collegeofsouthernnevada,garrisongeis23wy,Garrison Geis
-May 10,home,Southern Idaho,W,13-3,13,3,10,win,20240510_kjf4,4,0,1,,,,0,,1,,,,,,1,0,,,2,,4,2024,2023-24,div1,Southern Nevada,collegeofsouthernnevada,garrisongeis23wy,Garrison Geis
-May 11,home,Salt Lake,W,18-5,18,5,13,win,20240511_of5b,5,2,3,,,,2,1,,,,,,,3,0,,1,1,1.00,6,2024,2023-24,div1,Southern Nevada,collegeofsouthernnevada,garrisongeis23wy,Garrison Geis
-May 11,home,Salt Lake,W,10-6,10,6,4,win,20240511_h91f,6,2,2,,,,1,,,,,,,,2,0,1,1,1,1.00,6,2024,2023-24,div1,Southern Nevada,collegeofsouthernnevada,garrisongeis23wy,Garrison Geis
-May 16,home,Pima,W,7-5,7,5,2,win,20240516_qwzd,3,1,2,,,,1,,,,,1,,,2,0,,,1,,4,2024,2023-24,div1,Southern Nevada,collegeofsouthernnevada,garrisongeis23wy,Garrison Geis
-May 17,home,South Mountain,W,10-5,10,5,5,win,20240517_0hox,4,0,0,,,,0,,,,,1,,,0,0,,,3,,5,2024,2023-24,div1,Southern Nevada,collegeofsouthernnevada,garrisongeis23wy,Garrison Geis
+Jan 27,home,Indian River State,W,15-12,15,12,3,win,20240127_wtga,4,1,0,,,,0,1,3,,,,,,0,0,,,,,5,2024,2023-24,div1,Southern Nevada,collegeofsouthernnevada,garrisongeis23wy,Garrison Geis
+Mar 9,home,Santa Fe,W,8-5,8,5,3,win,20240309_ht4p,1,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,,0,,,1,2024,2023-24,div1,Southern Nevada,collegeofsouthernnevada,garrisongeis23wy,Garrison Geis
+Mar 14,home,State College of Florida,W,5-1,5,1,4,win,20240314_h7t7,4,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,0,,,4,2024,2023-24,div1,Southern Nevada,collegeofsouthernnevada,garrisongeis23wy,Garrison Geis
+Mar 16,home,State College of Florida,W,8-7,8,7,1,win,20240316_s4s7,3,2,2,0,0,0,2,0,1,1,0,1,0,0,2,0,,0,,,4,2024,2023-24,div1,Southern Nevada,collegeofsouthernnevada,garrisongeis23wy,Garrison Geis
+Mar 16,home,State College of Florida,W,10-7,10,7,3,win,20240316_pkxq,5,1,1,0,0,0,1,0,3,0,0,0,0,0,1,0,,0,,,5,2024,2023-24,div1,Southern Nevada,collegeofsouthernnevada,garrisongeis23wy,Garrison Geis
+Mar 19,home,United International College,W,10-0,10,0,10,win,20240319_5zxm,2,0,1,0,0,0,3,0,1,0,0,0,1,0,1,0,,0,,,3,2024,2023-24,div1,Southern Nevada,collegeofsouthernnevada,garrisongeis23wy,Garrison Geis
+Mar 23,home,St. Petersburg,W,15-13,15,13,2,win,20240323_ebl9,6,1,3,,1,,4,,1,1,,,,,5,1,,,,,6,2024,2023-24,div1,Southern Nevada,collegeofsouthernnevada,garrisongeis23wy,Garrison Geis
+Mar 25,home,State College of Florida,W,9-7,9,7,2,win,20240325_b5d4,4,0,0,,,,0,,1,,,,,,0,0,,,,,4,2024,2023-24,div1,Southern Nevada,collegeofsouthernnevada,garrisongeis23wy,Garrison Geis
+Mar 28,home,Hillsborough,W,6-5,6,5,1,win,20240328_37xc,4,0,2,0,0,0,0,0,0,0,0,0,0,0,2,0,,0,,,4,2024,2023-24,div1,Southern Nevada,collegeofsouthernnevada,garrisongeis23wy,Garrison Geis
+Mar 30,home,Hillsborough,W,6-1,6,1,5,win,20240330_s53t,2,1,1,0,0,0,0,0,0,0,0,1,0,0,1,0,,0,,,3,2024,2023-24,div1,Southern Nevada,collegeofsouthernnevada,garrisongeis23wy,Garrison Geis
+Apr 4,home,Daytona State,W,2-1,2,1,1,win,20240404_89zi,3,0,1,,,,0,,1,,1,1,,,1,0,,1,,,4,2024,2023-24,div1,Southern Nevada,collegeofsouthernnevada,garrisongeis23wy,Garrison Geis
+Apr 6,home,Daytona State,W,9-2,9,2,7,win,20240406_1irw,2,0,0,0,0,0,0,1,1,1,0,1,0,0,0,0,,0,,,4,2024,2023-24,div1,Southern Nevada,collegeofsouthernnevada,garrisongeis23wy,Garrison Geis
+Apr 8,home,State College of Florida,W,15-12,15,12,3,win,20240408_rj5j,3,2,1,0,0,1,2,1,1,0,0,1,1,0,4,1,,0,,,6,2024,2023-24,div1,Southern Nevada,collegeofsouthernnevada,garrisongeis23wy,Garrison Geis
+Apr 13,home,Indian River State,W,3-0,3,0,3,win,20240413_6uhd,3,1,1,,,1,2,,2,,,,,,4,1,,,,,3,2024,2023-24,div1,Southern Nevada,collegeofsouthernnevada,garrisongeis23wy,Garrison Geis
+Apr 19,home,Florida SouthWestern State,W,4-2,4,2,2,win,20240419_jawv,3,0,2,1,,,2,,1,,,,,,3,1,,,,,3,2024,2023-24,div1,Southern Nevada,collegeofsouthernnevada,garrisongeis23wy,Garrison Geis
+Apr 19,home,Florida SouthWestern State,W,7-5,7,5,2,win,20240419_jiek,4,1,1,,,1,3,,1,,,,,,4,1,,1,1,1.00,4,2024,2023-24,div1,Southern Nevada,collegeofsouthernnevada,garrisongeis23wy,Garrison Geis
+Apr 23,home,United International College,W,4-1,4,1,3,win,20240423_wtii,3,0,1,0,0,0,0,0,0,0,0,1,0,0,1,0,,0,,,4,2024,2023-24,div1,Southern Nevada,collegeofsouthernnevada,garrisongeis23wy,Garrison Geis
+Apr 27,home,Eastern Florida State,W,2-1,2,1,1,win,20240427_7zfs,3,0,1,,,,0,,1,,,,,,1,0,,,,,3,2024,2023-24,div1,Southern Nevada,collegeofsouthernnevada,garrisongeis23wy,Garrison Geis

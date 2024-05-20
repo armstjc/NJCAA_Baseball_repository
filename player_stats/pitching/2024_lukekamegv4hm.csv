@@ -1,9 +1,19 @@
 date,location,opponent,result,score,team_score,opp_score,game_score_diff,game_win_loss,game_id,GS,W,L,SV,IP,H,R,ER,ERA,BB,K,HR,season,njcaa_season,njcaa_division,team,team_id,player_id,player_name
-May 5,home,Delta,W,12-3,12,3,9,win,20240505_hfu0,1,1,0,0,6.0,5,3,0,0.00,1.67,5,4,2024,2023-24,div2,Lansing,lansingcommunitycollege,lukekamegv4hm,Luke Kameg
-Apr 23,home,Adrian College,W,14-0,14,0,14,win,20240423_vk9m,1,1,0,0,6.0,1,0,0,0.00,.67,3,3,2024,2023-24,div2,Lansing,lansingcommunitycollege,lukekamegv4hm,Luke Kameg
-Apr 15,home,Cleary University,W,13-8,13,8,5,win,20240415_q7ua,1,1,0,0,4.1,4,6,3,6.23,1.85,4,4,2024,2023-24,div2,Lansing,lansingcommunitycollege,lukekamegv4hm,Luke Kameg
-Apr 9,home,Mid Michigan,W,17-7,17,7,10,win,20240409_v1dh,0,0,0,0,1.0,2,,,0.00,2.00,,1,2024,2023-24,div2,Lansing,lansingcommunitycollege,lukekamegv4hm,Luke Kameg
-Mar 21,home,Glen Oaks,W,16-2,16,2,14,win,20240321_p43m,0,0,0,0,2.0,3,1,1,4.50,1.50,,2,2024,2023-24,div2,Lansing,lansingcommunitycollege,lukekamegv4hm,Luke Kameg
-Mar 6,home,Erie,W,13-3,13,3,10,win,20240306_nmfj,1,0,0,0,4.0,8,2,2,4.50,2.25,1,4,2024,2023-24,div2,Lansing,lansingcommunitycollege,lukekamegv4hm,Luke Kameg
-Mar 1,home,Southwest Mississippi,L,6-0,6,0,6,win,20240301_8daj,1,0,1,0,3.2,7,5,5,12.27,2.45,2,3,2024,2023-24,div2,Lansing,lansingcommunitycollege,lukekamegv4hm,Luke Kameg
-Feb 17,home,Guilford Tech,L,9-8,9,8,1,win,20240217_htvk,0,0,0,0,3.2,4,1,1,2.45,1.64,2,4,2024,2023-24,div2,Lansing,lansingcommunitycollege,lukekamegv4hm,Luke Kameg
+May 5,home,Delta,W,12-3,12,3,9,win,20240505_hfu0,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div2,Lansing,lansingcommunitycollege,lukekamegv4hm,Luke Kameg
+Apr 26,home,Marian-Ancilla,W,10-2,10,2,8,win,20240426_swqu,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div2,Lansing,lansingcommunitycollege,lukekamegv4hm,Luke Kameg
+Apr 25,home,Marian-Ancilla,W,18-1,18,1,17,win,20240425_nxts,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div2,Lansing,lansingcommunitycollege,lukekamegv4hm,Luke Kameg
+Apr 20,home,Kalamazoo Valley,L,3-0,3,0,3,win,20240420_rd6l,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div2,Lansing,lansingcommunitycollege,lukekamegv4hm,Luke Kameg
+Apr 15,home,Cleary University,W,13-8,13,8,5,win,20240415_q7ua,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div2,Lansing,lansingcommunitycollege,lukekamegv4hm,Luke Kameg
+Apr 15,home,Cleary University,W,8-7,8,7,1,win,20240415_1l6k,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div2,Lansing,lansingcommunitycollege,lukekamegv4hm,Luke Kameg
+Apr 13,home,Glen Oaks,W,13-3,13,3,10,win,20240413_whkm,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div2,Lansing,lansingcommunitycollege,lukekamegv4hm,Luke Kameg
+Apr 9,home,Mid Michigan,W,17-7,17,7,10,win,20240409_v1dh,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div2,Lansing,lansingcommunitycollege,lukekamegv4hm,Luke Kameg
+Apr 6,home,Lake Michigan,W,19-7,19,7,12,win,20240406_i672,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div2,Lansing,lansingcommunitycollege,lukekamegv4hm,Luke Kameg
+Apr 4,home,Lake Michigan,W,17-1,17,1,16,win,20240404_dc5n,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div2,Lansing,lansingcommunitycollege,lukekamegv4hm,Luke Kameg
+Mar 21,home,Glen Oaks,W,16-2,16,2,14,win,20240321_p43m,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div2,Lansing,lansingcommunitycollege,lukekamegv4hm,Luke Kameg
+Mar 15,home,Bryant & Stratton (OH),W,12-0,12,0,12,win,20240315_ovpn,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div2,Lansing,lansingcommunitycollege,lukekamegv4hm,Luke Kameg
+Mar 7,home,Genesee,W,25-3,25,3,22,win,20240307_6fcz,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div2,Lansing,lansingcommunitycollege,lukekamegv4hm,Luke Kameg
+Mar 5,home,Century,W,19-5,19,5,14,win,20240305_w70p,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div2,Lansing,lansingcommunitycollege,lukekamegv4hm,Luke Kameg
+Mar 3,home,East Central (MS),L,10-6,10,6,4,win,20240303_pcd2,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div2,Lansing,lansingcommunitycollege,lukekamegv4hm,Luke Kameg
+Mar 1,home,Southwest Mississippi,W,6-4,6,4,2,win,20240301_6yf0,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div2,Lansing,lansingcommunitycollege,lukekamegv4hm,Luke Kameg
+Feb 29,home,Mississippi Gulf Coast,L,13-7,13,7,6,win,20240229_l0tz,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div2,Lansing,lansingcommunitycollege,lukekamegv4hm,Luke Kameg
+Feb 17,home,Guilford Tech,L,9-8,9,8,1,win,20240217_htvk,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div2,Lansing,lansingcommunitycollege,lukekamegv4hm,Luke Kameg

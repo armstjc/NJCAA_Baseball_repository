@@ -1,15 +1,16 @@
 date,location,opponent,result,score,team_score,opp_score,game_score_diff,game_win_loss,game_id,TC,PO,A,E,FPCT,DP,SBA,RCS,RCS_PCT,PB,CI,season,njcaa_season,njcaa_division,team,team_id,player_id,player_name
-Jan 27,home,GCU Club,W,7-6,7,6,1,win,20240127_9ryi,0,1,0,0,1.0,,,,0.00,1.00,1,2024,2023-24,div2,Glendale,glendalecommunitycollege,marcopacheco8wcy,Marco Pacheco
-Jan 30,home,Colorado Northwestern,W,5-2,5,2,3,win,20240130_96x7,0,0,0,0,0.1,2,2,2,54.00,9.00,1,2024,2023-24,div2,Glendale,glendalecommunitycollege,marcopacheco8wcy,Marco Pacheco
-Feb 6,home,Colorado Northwestern,W,11-2,11,2,9,win,20240206_qt96,0,0,0,0,1.0,1,1,,0.00,2.00,1,2024,2023-24,div2,Glendale,glendalecommunitycollege,marcopacheco8wcy,Marco Pacheco
-Feb 14,home,Mesa,L,11-1,11,1,10,win,20240214_8tfs,0,0,0,0,0.2,2,2,1,13.50,4.50,1,2024,2023-24,div2,Glendale,glendalecommunitycollege,marcopacheco8wcy,Marco Pacheco
-Feb 21,home,Scottsdale,W,5-4,5,4,1,win,20240221_t0hc,0,1,0,0,3.2,3,,,0.00,.82,,2024,2023-24,div2,Glendale,glendalecommunitycollege,marcopacheco8wcy,Marco Pacheco
-Feb 24,home,Paradise Valley,W,6-3,6,3,3,win,20240224_c3x9,0,0,0,0,2.0,3,,,0.00,2.00,1,2024,2023-24,div2,Glendale,glendalecommunitycollege,marcopacheco8wcy,Marco Pacheco
-Mar 2,home,Chandler-Gilbert,L,12-9,12,9,3,win,20240302_24s6,0,0,0,0,1.1,2,2,2,13.50,1.50,,2024,2023-24,div2,Glendale,glendalecommunitycollege,marcopacheco8wcy,Marco Pacheco
-Mar 9,home,Eastern Arizona,L,15-2,15,2,13,win,20240309_2v43,0,0,0,0,0.1,5,5,5,135.00,15.00,,2024,2023-24,div2,Glendale,glendalecommunitycollege,marcopacheco8wcy,Marco Pacheco
-Mar 22,home,South Mountain,L,2-1,2,1,1,win,20240322_k2dw,0,0,0,0,0.1,,,,0.00,,,2024,2023-24,div2,Glendale,glendalecommunitycollege,marcopacheco8wcy,Marco Pacheco
-Mar 23,home,South Mountain,L,6-2,6,2,4,win,20240323_7vxr,0,0,0,0,0.1,3,2,2,54.00,15.00,2,2024,2023-24,div2,Glendale,glendalecommunitycollege,marcopacheco8wcy,Marco Pacheco
-Apr 3,home,Central Arizona,L,19-15,19,15,4,win,20240403_382i,0,0,0,0,0.2,2,,,0.00,3.00,,2024,2023-24,div2,Glendale,glendalecommunitycollege,marcopacheco8wcy,Marco Pacheco
-Apr 10,home,Mesa,L,11-0,11,0,11,win,20240410_y1n8,0,0,0,0,0.1,1,,,0.00,3.00,,2024,2023-24,div2,Glendale,glendalecommunitycollege,marcopacheco8wcy,Marco Pacheco
-Apr 26,home,Chandler-Gilbert,L,19-5,19,5,14,win,20240426_81r6,0,0,0,0,0.1,,,,0.00,,,2024,2023-24,div2,Glendale,glendalecommunitycollege,marcopacheco8wcy,Marco Pacheco
+Jan 27,home,GCU Club,W,7-6,7,6,1,win,20240127_9ryi,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Glendale,glendalecommunitycollege,marcopacheco8wcy,Marco Pacheco
+Mar 4,home,Benedictine University JV,W,10-3,10,3,7,win,20240304_5tnl,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Glendale,glendalecommunitycollege,marcopacheco8wcy,Marco Pacheco
+Mar 5,home,Cochise,L,6-2,6,2,4,win,20240305_qdvj,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Glendale,glendalecommunitycollege,marcopacheco8wcy,Marco Pacheco
+Mar 12,home,Madison,W,2-1,2,1,1,win,20240312_8na1,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Glendale,glendalecommunitycollege,marcopacheco8wcy,Marco Pacheco
+Mar 13,home,Scottsdale Post Grad,W,17-2,17,2,15,win,20240313_cmuj,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Glendale,glendalecommunitycollege,marcopacheco8wcy,Marco Pacheco
+Mar 13,home,Scottsdale Post Grad,W,10-0,10,0,10,win,20240313_i0eo,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Glendale,glendalecommunitycollege,marcopacheco8wcy,Marco Pacheco
+Mar 19,home,Pima,L,9-0,9,0,9,win,20240319_9jqg,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Glendale,glendalecommunitycollege,marcopacheco8wcy,Marco Pacheco
+Mar 23,home,South Mountain,L,6-2,6,2,4,win,20240323_7vxr,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Glendale,glendalecommunitycollege,marcopacheco8wcy,Marco Pacheco
+Mar 25,home,ACU JV,W,8-2,8,2,6,win,20240325_r87w,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Glendale,glendalecommunitycollege,marcopacheco8wcy,Marco Pacheco
+Mar 30,home,Arizona Western,L,14-4,14,4,10,win,20240330_g914,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Glendale,glendalecommunitycollege,marcopacheco8wcy,Marco Pacheco
+Apr 6,home,Phoenix,L,10-0,10,0,10,win,20240406_ko8x,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Glendale,glendalecommunitycollege,marcopacheco8wcy,Marco Pacheco
+Apr 9,home,Mesa,L,9-3,9,3,6,win,20240409_14oi,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Glendale,glendalecommunitycollege,marcopacheco8wcy,Marco Pacheco
+Apr 10,home,Mesa,L,11-0,11,0,11,win,20240410_y1n8,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Glendale,glendalecommunitycollege,marcopacheco8wcy,Marco Pacheco
+Apr 20,home,Paradise Valley,L,4-3,4,3,1,win,20240420_qqha,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Glendale,glendalecommunitycollege,marcopacheco8wcy,Marco Pacheco
 Apr 27,home,Chandler-Gilbert,L,9-6,9,6,3,win,20240427_wjgc,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Glendale,glendalecommunitycollege,marcopacheco8wcy,Marco Pacheco

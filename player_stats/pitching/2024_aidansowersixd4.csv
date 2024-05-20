@@ -1,16 +1,22 @@
 date,location,opponent,result,score,team_score,opp_score,game_score_diff,game_win_loss,game_id,GS,W,L,SV,IP,H,R,ER,ERA,BB,K,HR,season,njcaa_season,njcaa_division,team,team_id,player_id,player_name
-May 16,home,Cowley,W,9-8,9,8,1,win,20240516_5ya4,1,0,0,0,4.0,3,3,3,6.75,1.50,3,1,2024,2023-24,div1,Barton,bartoncommunitycollege,aidansowersixd4,Aidan Sowers
-May 10,home,Fort Scott,W,18-7,18,7,11,win,20240510_m0t6,1,0,0,0,3.1,3,3,1,2.70,2.70,6,2,2024,2023-24,div1,Barton,bartoncommunitycollege,aidansowersixd4,Aidan Sowers
-May 2,home,Garden City,W,14-1,14,1,13,win,20240502_349z,1,1,0,0,5.0,2,1,1,1.80,1.60,6,5,2024,2023-24,div1,Barton,bartoncommunitycollege,aidansowersixd4,Aidan Sowers
-Apr 24,home,Hutchinson,W,10-9,10,9,1,win,20240424_kyol,1,0,0,0,4.1,6,6,5,10.38,2.08,3,2,2024,2023-24,div1,Barton,bartoncommunitycollege,aidansowersixd4,Aidan Sowers
-Apr 18,home,Coffeyville,W,9-4,9,4,5,win,20240418_jyk8,1,1,0,0,4.0,5,4,3,6.75,2.00,3,5,2024,2023-24,div1,Barton,bartoncommunitycollege,aidansowersixd4,Aidan Sowers
-Apr 11,home,Cloud County,L,7-2,7,2,5,win,20240411_ikiq,1,0,1,0,6.0,10,5,5,7.50,1.83,1,4,2024,2023-24,div1,Barton,bartoncommunitycollege,aidansowersixd4,Aidan Sowers
-Apr 4,home,Dodge City,L,3-0,3,0,3,win,20240404_yvgr,1,0,1,0,5.0,3,3,2,3.60,1.20,3,1,2024,2023-24,div1,Barton,bartoncommunitycollege,aidansowersixd4,Aidan Sowers
-Mar 28,home,Seward County,W,18-5,18,5,13,win,20240328_dwht,1,1,0,0,4.0,6,4,3,6.75,2.25,3,0,2024,2023-24,div1,Barton,bartoncommunitycollege,aidansowersixd4,Aidan Sowers
-Mar 21,home,Pratt,W,22-12,22,12,10,win,20240321_ool1,1,0,0,0,3.1,5,6,4,10.80,2.40,3,1,2024,2023-24,div1,Barton,bartoncommunitycollege,aidansowersixd4,Aidan Sowers
-Mar 14,home,Colby,W,9-3,9,3,6,win,20240314_kr5m,1,1,0,0,7.0,4,2,2,2.57,.71,1,4,2024,2023-24,div1,Barton,bartoncommunitycollege,aidansowersixd4,Aidan Sowers
-Mar 6,home,Butler,W,3-2,3,2,1,win,20240306_mg50,1,1,0,0,5.2,3,2,2,3.18,.88,2,5,2024,2023-24,div1,Barton,bartoncommunitycollege,aidansowersixd4,Aidan Sowers
-Mar 1,home,North Iowa Area,W,15-5,15,5,10,win,20240301_j16y,1,1,0,0,6.2,3,4,0,0.00,.60,1,8,2024,2023-24,div1,Barton,bartoncommunitycollege,aidansowersixd4,Aidan Sowers
-Feb 24,home,Kansas City Kansas,L,9-3,9,3,6,win,20240224_vu0j,1,0,0,0,4.0,6,2,1,2.25,2.50,4,3,2024,2023-24,div1,Barton,bartoncommunitycollege,aidansowersixd4,Aidan Sowers
-Feb 18,home,Western Nebraska,W,8-5,8,5,3,win,20240218_fvju,1,0,0,0,4.1,0,1,1,2.08,.92,4,5,2024,2023-24,div1,Barton,bartoncommunitycollege,aidansowersixd4,Aidan Sowers
-Feb 10,home,Rose State,L,7-6,7,6,1,win,20240210_r4yp,1,0,0,0,3.0,6,3,3,9.00,2.33,1,3,2024,2023-24,div1,Barton,bartoncommunitycollege,aidansowersixd4,Aidan Sowers
+May 17,home,Southeast,W,5-4,5,4,1,win,20240517_7kpn,0,0,0,0,2.2,3,2,2,6.75,1.88,2,2,2024,2023-24,div1,Barton,bartoncommunitycollege,aidansowersixd4,Aidan Sowers
+May 16,home,Southeast,W,8-4,8,4,4,win,20240516_plm3,0,0,0,1,0.1,,,,0.00,,,1,2024,2023-24,div1,Barton,bartoncommunitycollege,aidansowersixd4,Aidan Sowers
+May 11,home,Pima,W,11-1,11,1,10,win,20240511_a4d5,0,1,0,0,5.0,3,,,0.00,.60,,5,2024,2023-24,div1,Barton,bartoncommunitycollege,aidansowersixd4,Aidan Sowers
+Apr 27,home,Pima,L,10-7,10,7,3,win,20240427_bfj2,0,0,1,0,1.0,3,4,4,36.00,5.00,2,2,2024,2023-24,div1,Barton,bartoncommunitycollege,aidansowersixd4,Aidan Sowers
+Apr 20,home,Central Arizona,L,8-7,8,7,1,win,20240420_rjk0,0,0,0,0,1.2,1,1,1,5.40,.60,,1,2024,2023-24,div1,Barton,bartoncommunitycollege,aidansowersixd4,Aidan Sowers
+Apr 16,home,Eastern Arizona,W,17-5,17,5,12,win,20240416_eosn,0,0,0,0,0.1,6,5,5,135.00,18.00,,,2024,2023-24,div1,Barton,bartoncommunitycollege,aidansowersixd4,Aidan Sowers
+Apr 13,home,Phoenix,W,11-6,11,6,5,win,20240413_4hk3,0,0,0,0,1.0,2,,,0.00,2.00,,,2024,2023-24,div1,Barton,bartoncommunitycollege,aidansowersixd4,Aidan Sowers
+Apr 6,home,Cochise,W,8-3,8,3,5,win,20240406_vlqu,0,1,0,0,4.2,3,2,,0.00,1.07,2,4,2024,2023-24,div1,Barton,bartoncommunitycollege,aidansowersixd4,Aidan Sowers
+Apr 2,home,Scottsdale,W,5-2,5,2,3,win,20240402_4qzz,0,0,0,1,2.0,,,,0.00,,,2,2024,2023-24,div1,Barton,bartoncommunitycollege,aidansowersixd4,Aidan Sowers
+Mar 30,home,Chandler-Gilbert,W,14-7,14,7,7,win,20240330_96ug,0,0,0,0,2.0,,,,0.00,,,3,2024,2023-24,div1,Barton,bartoncommunitycollege,aidansowersixd4,Aidan Sowers
+Mar 29,home,Chandler-Gilbert,L,7-6,7,6,1,win,20240329_p0bo,0,0,0,0,1.0,2,2,2,18.00,3.00,1,1,2024,2023-24,div1,Barton,bartoncommunitycollege,aidansowersixd4,Aidan Sowers
+Mar 22,home,Glendale,W,2-1,2,1,1,win,20240322_k2dw,0,1,0,0,8.0,3,,,0.00,.38,,6,2024,2023-24,div1,Barton,bartoncommunitycollege,aidansowersixd4,Aidan Sowers
+Mar 16,home,Cochise,W,5-3,5,3,2,win,20240316_v0xn,0,1,0,0,5.0,,,,0.00,,,8,2024,2023-24,div1,Barton,bartoncommunitycollege,aidansowersixd4,Aidan Sowers
+Mar 9,home,Paradise Valley,L,2-0,2,0,2,win,20240309_euin,0,0,1,0,4.2,4,2,2,3.86,1.07,1,8,2024,2023-24,div1,Barton,bartoncommunitycollege,aidansowersixd4,Aidan Sowers
+Mar 2,home,Pima,L,15-5,15,5,10,win,20240302_xmyd,1,0,1,0,3.2,10,9,6,14.73,2.73,0,2,2024,2023-24,div1,Barton,bartoncommunitycollege,aidansowersixd4,Aidan Sowers
+Feb 23,home,Central Arizona,L,8-2,8,2,6,win,20240223_d37n,1,0,1,0,5.0,7,3,3,5.40,1.80,2,6,2024,2023-24,div1,Barton,bartoncommunitycollege,aidansowersixd4,Aidan Sowers
+Feb 20,home,Eastern Arizona,W,8-5,8,5,3,win,20240220_0a55,0,0,0,1,1.0,,,,0.00,1.00,1,2,2024,2023-24,div1,Barton,bartoncommunitycollege,aidansowersixd4,Aidan Sowers
+Feb 13,home,Arizona Western,W,9-4,9,4,5,win,20240213_48uq,0,0,0,0,4.2,2,,,0.00,1.07,3,7,2024,2023-24,div1,Barton,bartoncommunitycollege,aidansowersixd4,Aidan Sowers
+Feb 9,home,Southern Nevada,W,1-0,1,0,1,win,20240209_20m4,0,0,0,0,3.0,2,,,0.00,1.33,2,4,2024,2023-24,div1,Barton,bartoncommunitycollege,aidansowersixd4,Aidan Sowers
+Feb 4,home,New Mexico,W,3-2,3,2,1,win,20240204_i0m6,0,1,0,0,3.1,3,1,1,2.70,1.20,1,6,2024,2023-24,div1,Barton,bartoncommunitycollege,aidansowersixd4,Aidan Sowers
+Jan 27,home,Salt Lake,L,4-2,4,2,2,win,20240127_y9zo,0,0,0,0,4.1,4,1,1,2.08,.92,,5,2024,2023-24,div1,Barton,bartoncommunitycollege,aidansowersixd4,Aidan Sowers

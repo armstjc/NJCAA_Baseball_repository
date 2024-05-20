@@ -1,15 +1,8 @@
 date,location,opponent,result,score,team_score,opp_score,game_score_diff,game_win_loss,game_id,TC,PO,A,E,FPCT,DP,SBA,RCS,RCS_PCT,PB,CI,season,njcaa_season,njcaa_division,team,team_id,player_id,player_name
-Feb 25,home,Chipola,L,20-2,20,2,18,win,20240225_h5dz,0,0,0,0,1.0,0,0,0,0.00,1.00,1,2024,2023-24,div2,Grand Rapids,grandrapidscommunitycollege,loganvansurksums71e,Logan VanSurksum
-Feb 26,home,Gulf Coast State,L,10-0,10,0,10,win,20240226_wxu7,0,0,0,0,1.0,2,3,3,27.00,3.00,1,2024,2023-24,div2,Grand Rapids,grandrapidscommunitycollege,loganvansurksums71e,Logan VanSurksum
-Feb 27,home,Tallahassee,L,14-7,14,7,7,win,20240227_ivrd,0,0,1,0,2.0,8,7,5,22.50,4.00,0,2024,2023-24,div2,Grand Rapids,grandrapidscommunitycollege,loganvansurksums71e,Logan VanSurksum
-Mar 4,home,Aquinas College JV,W,5-4,5,4,1,win,20240304_26sz,0,0,0,1,0.1,0,0,0,0.00,.00,0,2024,2023-24,div2,Grand Rapids,grandrapidscommunitycollege,loganvansurksums71e,Logan VanSurksum
-Mar 12,home,Davenport University JV,W,18-6,18,6,12,win,20240312_5agd,0,0,0,0,2.0,3,1,1,4.50,2.00,1,2024,2023-24,div2,Grand Rapids,grandrapidscommunitycollege,loganvansurksums71e,Logan VanSurksum
-Mar 15,home,Kalamazoo Valley,L,4-3,4,3,1,win,20240315_9i31,0,0,0,0,2.0,1,0,0,0.00,.50,0,2024,2023-24,div2,Grand Rapids,grandrapidscommunitycollege,loganvansurksums71e,Logan VanSurksum
-Mar 29,home,Delta,W,9-5,9,5,4,win,20240329_eia8,0,0,0,0,2.2,5,4,3,10.13,2.63,2,2024,2023-24,div2,Grand Rapids,grandrapidscommunitycollege,loganvansurksums71e,Logan VanSurksum
-Apr 6,home,Bay College,W,7-2,7,2,5,win,20240406_87jm,0,0,0,0,0.2,0,0,0,0.00,.00,0,2024,2023-24,div2,Grand Rapids,grandrapidscommunitycollege,loganvansurksums71e,Logan VanSurksum
-Apr 7,home,Bay College,W,6-3,6,3,3,win,20240407_rq17,0,0,0,0,2.0,0,2,0,0.00,1.50,3,2024,2023-24,div2,Grand Rapids,grandrapidscommunitycollege,loganvansurksums71e,Logan VanSurksum
-Apr 14,home,Muskegon,W,9-5,9,5,4,win,20240414_cb3u,0,0,0,0,1.0,2,4,4,36.00,5.00,3,2024,2023-24,div2,Grand Rapids,grandrapidscommunitycollege,loganvansurksums71e,Logan VanSurksum
-Apr 16,home,Aquinas College JV,L,6-2,6,2,4,win,20240416_1jhm,0,0,0,0,1.0,0,0,0,0.00,.00,0,2024,2023-24,div2,Grand Rapids,grandrapidscommunitycollege,loganvansurksums71e,Logan VanSurksum
-Apr 19,home,Alpena,W,5-4,5,4,1,win,20240419_c5fk,0,1,0,0,2.0,1,0,0,0.00,1.00,1,2024,2023-24,div2,Grand Rapids,grandrapidscommunitycollege,loganvansurksums71e,Logan VanSurksum
-Apr 23,home,Kellogg,W,1-0,1,0,1,win,20240423_mqfq,0,0,0,1,1.0,0,0,0,0.00,.00,0,2024,2023-24,div2,Grand Rapids,grandrapidscommunitycollege,loganvansurksums71e,Logan VanSurksum
-May 10,home,Cuyahoga,W,9-7,9,7,2,win,20240510_6pay,0,0,0,0,2.2,6,3,3,10.13,2.25,0,2024,2023-24,div2,Grand Rapids,grandrapidscommunitycollege,loganvansurksums71e,Logan VanSurksum
+Feb 24,home,Chipola,L,13-0,13,0,13,win,20240224_3d7g,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Grand Rapids,grandrapidscommunitycollege,loganvansurksums71e,Logan VanSurksum
+Feb 24,home,Chipola,L,10-0,10,0,10,win,20240224_ysr3,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Grand Rapids,grandrapidscommunitycollege,loganvansurksums71e,Logan VanSurksum
+Feb 25,home,Chipola,L,20-2,20,2,18,win,20240225_h5dz,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Grand Rapids,grandrapidscommunitycollege,loganvansurksums71e,Logan VanSurksum
+Mar 4,home,Aquinas College JV,W,5-4,5,4,1,win,20240304_26sz,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Grand Rapids,grandrapidscommunitycollege,loganvansurksums71e,Logan VanSurksum
+Mar 7,home,Mott,W,5-4,5,4,1,win,20240307_5vbu,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Grand Rapids,grandrapidscommunitycollege,loganvansurksums71e,Logan VanSurksum
+Mar 7,home,Mott,W,9-8,9,8,1,win,20240307_3qoi,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Grand Rapids,grandrapidscommunitycollege,loganvansurksums71e,Logan VanSurksum
+Mar 12,home,Davenport University JV,W,18-6,18,6,12,win,20240312_5agd,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Grand Rapids,grandrapidscommunitycollege,loganvansurksums71e,Logan VanSurksum

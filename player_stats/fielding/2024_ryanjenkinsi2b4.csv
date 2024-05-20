@@ -1,51 +1,22 @@
 date,location,opponent,result,score,team_score,opp_score,game_score_diff,game_win_loss,game_id,TC,PO,A,E,FPCT,DP,SBA,RCS,RCS_PCT,PB,CI,season,njcaa_season,njcaa_division,team,team_id,player_id,player_name
-Jan 20  #,home,Flagler College,L,5-3,5,3,2,win,20240120_dxpa,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Lake-Sumter State,lakesumterstatecollege,ryanjenkinsi2b4,Ryan Jenkins
-Jan 26,home,Santa Fe,L,13-7,13,7,6,win,20240126_ffki,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Lake-Sumter State,lakesumterstatecollege,ryanjenkinsi2b4,Ryan Jenkins
-Jan 27,home,Millenia Atlantic University,L,5-0,5,0,5,win,20240127_oll0,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Lake-Sumter State,lakesumterstatecollege,ryanjenkinsi2b4,Ryan Jenkins
-Jan 27,home,Millenia Atlantic University,W,12-0,12,0,12,win,20240127_t10i,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Lake-Sumter State,lakesumterstatecollege,ryanjenkinsi2b4,Ryan Jenkins
-Jan 29,home,Eastern Florida State,T,3-3,3,3,0,tie,20240129_lcyd,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Lake-Sumter State,lakesumterstatecollege,ryanjenkinsi2b4,Ryan Jenkins
-Jan 31,home,Polk State,L,2-0,2,0,2,win,20240131_nieq,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Lake-Sumter State,lakesumterstatecollege,ryanjenkinsi2b4,Ryan Jenkins
-Feb 2,home,Seminole State (FL),L,21-7,21,7,14,win,20240202_hcpz,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Lake-Sumter State,lakesumterstatecollege,ryanjenkinsi2b4,Ryan Jenkins
-Feb 3,home,Daytona State,L,3-1,3,1,2,win,20240203_4wsc,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Lake-Sumter State,lakesumterstatecollege,ryanjenkinsi2b4,Ryan Jenkins
-Feb 5,home,St. Petersburg,W,6-1,6,1,5,win,20240205_b7p8,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Lake-Sumter State,lakesumterstatecollege,ryanjenkinsi2b4,Ryan Jenkins
-Feb 9,home,Seminole State (FL),L,8-3,8,3,5,win,20240209_i43m,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Lake-Sumter State,lakesumterstatecollege,ryanjenkinsi2b4,Ryan Jenkins
-Feb 10,home,Polk State,W,6-2,6,2,4,win,20240210_6ydl,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Lake-Sumter State,lakesumterstatecollege,ryanjenkinsi2b4,Ryan Jenkins
-Feb 10,home,Polk State,L,15-6,15,6,9,win,20240210_p9tf,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Lake-Sumter State,lakesumterstatecollege,ryanjenkinsi2b4,Ryan Jenkins
-Feb 14,home,St. Petersburg,W,9-6,9,6,3,win,20240214_g1t5,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Lake-Sumter State,lakesumterstatecollege,ryanjenkinsi2b4,Ryan Jenkins
-Feb 16,home,Tallahassee,L,11-10,11,10,1,win,20240216_2r2h,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Lake-Sumter State,lakesumterstatecollege,ryanjenkinsi2b4,Ryan Jenkins
-Feb 20,home,Eastern Florida State,W,7-3,7,3,4,win,20240220_dtbn,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Lake-Sumter State,lakesumterstatecollege,ryanjenkinsi2b4,Ryan Jenkins
-Feb 21,home,CCBC Catonsville,W,14-6,14,6,8,win,20240221_tae5,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Lake-Sumter State,lakesumterstatecollege,ryanjenkinsi2b4,Ryan Jenkins
-Feb 24,home,Florida State Jacksonville,W,3-2,3,2,1,win,20240224_z57f,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Lake-Sumter State,lakesumterstatecollege,ryanjenkinsi2b4,Ryan Jenkins
-Feb 24,home,Florida State Jacksonville,W,3-2,3,2,1,win,20240224_t2ht,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Lake-Sumter State,lakesumterstatecollege,ryanjenkinsi2b4,Ryan Jenkins
-Feb 25,home,Florida State Jacksonville,L,9-8,9,8,1,win,20240225_g1d8,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Lake-Sumter State,lakesumterstatecollege,ryanjenkinsi2b4,Ryan Jenkins
-Feb 28,home,FSBE Academy,W,9-2,9,2,7,win,20240228_0n6g,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Lake-Sumter State,lakesumterstatecollege,ryanjenkinsi2b4,Ryan Jenkins
-Mar 1,home,South Florida State,L,10-4,10,4,6,win,20240301_pwi7,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Lake-Sumter State,lakesumterstatecollege,ryanjenkinsi2b4,Ryan Jenkins
-Mar 1,home,South Florida State,W,4-3,4,3,1,win,20240301_tys1,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Lake-Sumter State,lakesumterstatecollege,ryanjenkinsi2b4,Ryan Jenkins
-Mar 2,home,South Florida State,L,14-13,14,13,1,win,20240302_b58p,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Lake-Sumter State,lakesumterstatecollege,ryanjenkinsi2b4,Ryan Jenkins
-Mar 4,home,Jackson,W,8-4,8,4,4,win,20240304_ens7,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Lake-Sumter State,lakesumterstatecollege,ryanjenkinsi2b4,Ryan Jenkins
-Mar 8,home,St. Johns River State,L,4-3,4,3,1,win,20240308_9wd2,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Lake-Sumter State,lakesumterstatecollege,ryanjenkinsi2b4,Ryan Jenkins
-Mar 9,home,St. Johns River State,L,11-3,11,3,8,win,20240309_607r,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Lake-Sumter State,lakesumterstatecollege,ryanjenkinsi2b4,Ryan Jenkins
-Mar 9,home,St. Johns River State,W,6-5,6,5,1,win,20240309_lb82,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Lake-Sumter State,lakesumterstatecollege,ryanjenkinsi2b4,Ryan Jenkins
-Mar 13,home,Northern Essex,W,25-17,25,17,8,win,20240313_5g8m,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Lake-Sumter State,lakesumterstatecollege,ryanjenkinsi2b4,Ryan Jenkins
-Mar 15,home,Pasco-Hernando State,W,2-1,2,1,1,win,20240315_3d5r,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Lake-Sumter State,lakesumterstatecollege,ryanjenkinsi2b4,Ryan Jenkins
-Mar 16,home,Pasco-Hernando State,W,14-4,14,4,10,win,20240316_vms3,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Lake-Sumter State,lakesumterstatecollege,ryanjenkinsi2b4,Ryan Jenkins
-Mar 16,home,Pasco-Hernando State,L,12-3,12,3,9,win,20240316_esp9,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Lake-Sumter State,lakesumterstatecollege,ryanjenkinsi2b4,Ryan Jenkins
-Mar 21,home,Palm Beach State,W,2-0,2,0,2,win,20240321_0wmf,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Lake-Sumter State,lakesumterstatecollege,ryanjenkinsi2b4,Ryan Jenkins
-Mar 21,home,Palm Beach State,L,16-5,16,5,11,win,20240321_d2zv,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Lake-Sumter State,lakesumterstatecollege,ryanjenkinsi2b4,Ryan Jenkins
-Mar 25,home,Inspiration Academy Post-Grad,W,13-2,13,2,11,win,20240325_lzag,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Lake-Sumter State,lakesumterstatecollege,ryanjenkinsi2b4,Ryan Jenkins
-Mar 29,home,Florida State Jacksonville,W,4-2,4,2,2,win,20240329_av7y,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Lake-Sumter State,lakesumterstatecollege,ryanjenkinsi2b4,Ryan Jenkins
-Mar 30,home,Florida State Jacksonville,W,6-4,6,4,2,win,20240330_lilh,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Lake-Sumter State,lakesumterstatecollege,ryanjenkinsi2b4,Ryan Jenkins
-Mar 30,home,Florida State Jacksonville,W,6-5,6,5,1,win,20240330_vkdv,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Lake-Sumter State,lakesumterstatecollege,ryanjenkinsi2b4,Ryan Jenkins
-Apr 2,home,TNXL Academy,W,6-4,6,4,2,win,20240402_spc0,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Lake-Sumter State,lakesumterstatecollege,ryanjenkinsi2b4,Ryan Jenkins
-Apr 5,home,South Florida State,L,12-2,12,2,10,win,20240405_hqf9,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Lake-Sumter State,lakesumterstatecollege,ryanjenkinsi2b4,Ryan Jenkins
-Apr 5,home,South Florida State,W,10-9,10,9,1,win,20240405_ybre,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Lake-Sumter State,lakesumterstatecollege,ryanjenkinsi2b4,Ryan Jenkins
-Apr 6,home,South Florida State,W,8-3,8,3,5,win,20240406_tjgy,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Lake-Sumter State,lakesumterstatecollege,ryanjenkinsi2b4,Ryan Jenkins
-Apr 9,home,Central Florida,W,6-4,6,4,2,win,20240409_1512,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Lake-Sumter State,lakesumterstatecollege,ryanjenkinsi2b4,Ryan Jenkins
-Apr 12,home,St. Johns River State,L,11-7,11,7,4,win,20240412_j75l,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Lake-Sumter State,lakesumterstatecollege,ryanjenkinsi2b4,Ryan Jenkins
-Apr 13,home,St. Johns River State,W,7-4,7,4,3,win,20240413_rduw,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Lake-Sumter State,lakesumterstatecollege,ryanjenkinsi2b4,Ryan Jenkins
-Apr 13,home,St. Johns River State,L,5-1,5,1,4,win,20240413_m4nb,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Lake-Sumter State,lakesumterstatecollege,ryanjenkinsi2b4,Ryan Jenkins
-Apr 17,home,Santa Fe,L,12-7,12,7,5,win,20240417_ypnb,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Lake-Sumter State,lakesumterstatecollege,ryanjenkinsi2b4,Ryan Jenkins
-Apr 19,home,Pasco-Hernando State,L,7-3,7,3,4,win,20240419_4avl,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Lake-Sumter State,lakesumterstatecollege,ryanjenkinsi2b4,Ryan Jenkins
-Apr 25,home,Palm Beach State,L,5-3,5,3,2,win,20240425_m5g9,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Lake-Sumter State,lakesumterstatecollege,ryanjenkinsi2b4,Ryan Jenkins
-Apr 26,home,Palm Beach State,W,10-5,10,5,5,win,20240426_vqdc,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Lake-Sumter State,lakesumterstatecollege,ryanjenkinsi2b4,Ryan Jenkins
-Apr 26,home,Palm Beach State,L,7-6,7,6,1,win,20240426_2di3,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Lake-Sumter State,lakesumterstatecollege,ryanjenkinsi2b4,Ryan Jenkins
+Jan 31,home,Fayetteville Tech,W,9-0,9,0,9,win,20240131_k056,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Lake-Sumter State,lakesumterstatecollege,ryanjenkinsi2b4,Ryan Jenkins
+Feb 3,home,Southeastern-Whiteville,W,13-3,13,3,10,win,20240203_yfa4,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Lake-Sumter State,lakesumterstatecollege,ryanjenkinsi2b4,Ryan Jenkins
+Feb 3,home,Southeastern-Whiteville,L,9-2,9,2,7,win,20240203_ebi9,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Lake-Sumter State,lakesumterstatecollege,ryanjenkinsi2b4,Ryan Jenkins
+Feb 4,home,Southeastern-Whiteville,L,14-3,14,3,11,win,20240204_p8br,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Lake-Sumter State,lakesumterstatecollege,ryanjenkinsi2b4,Ryan Jenkins
+Feb 4,home,Southeastern-Whiteville,L,9-4,9,4,5,win,20240204_ythm,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Lake-Sumter State,lakesumterstatecollege,ryanjenkinsi2b4,Ryan Jenkins
+Feb 7,home,Camp,L,12-5,12,5,7,win,20240207_0tqd,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Lake-Sumter State,lakesumterstatecollege,ryanjenkinsi2b4,Ryan Jenkins
+Feb 9,home,Caldwell Tech,L,10-6,10,6,4,win,20240209_os50,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Lake-Sumter State,lakesumterstatecollege,ryanjenkinsi2b4,Ryan Jenkins
+Feb 14,home,NC Wesleyan JV,L,11-7,11,7,4,win,20240214_twcy,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Lake-Sumter State,lakesumterstatecollege,ryanjenkinsi2b4,Ryan Jenkins
+Feb 24,home,Guilford Tech,W,24-5,24,5,19,win,20240224_juqr,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Lake-Sumter State,lakesumterstatecollege,ryanjenkinsi2b4,Ryan Jenkins
+Feb 25,home,Guilford Tech,W,10-5,10,5,5,win,20240225_2cff,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Lake-Sumter State,lakesumterstatecollege,ryanjenkinsi2b4,Ryan Jenkins
+Feb 28,home,Fayetteville Tech,L,7-4,7,4,3,win,20240228_ud2q,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Lake-Sumter State,lakesumterstatecollege,ryanjenkinsi2b4,Ryan Jenkins
+Mar 2,home,Southwest Virginia,W,10-0,10,0,10,win,20240302_6tic,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Lake-Sumter State,lakesumterstatecollege,ryanjenkinsi2b4,Ryan Jenkins
+Mar 9,home,Patrick & Henry,L,19-5,19,5,14,win,20240309_iuuw,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Lake-Sumter State,lakesumterstatecollege,ryanjenkinsi2b4,Ryan Jenkins
+Mar 13,home,Pitt,L,16-5,16,5,11,win,20240313_d3z2,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Lake-Sumter State,lakesumterstatecollege,ryanjenkinsi2b4,Ryan Jenkins
+Mar 16,home,New River,W,15-3,15,3,12,win,20240316_vgvf,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Lake-Sumter State,lakesumterstatecollege,ryanjenkinsi2b4,Ryan Jenkins
+Mar 16,home,New River,W,12-2,12,2,10,win,20240316_cca3,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Lake-Sumter State,lakesumterstatecollege,ryanjenkinsi2b4,Ryan Jenkins
+Mar 17,home,New River,W,16-1,16,1,15,win,20240317_sks5,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Lake-Sumter State,lakesumterstatecollege,ryanjenkinsi2b4,Ryan Jenkins
+Mar 19,home,Camp,W,9-4,9,4,5,win,20240319_qxk8,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Lake-Sumter State,lakesumterstatecollege,ryanjenkinsi2b4,Ryan Jenkins
+Mar 23,home,Cleveland,W,10-4,10,4,6,win,20240323_wvr6,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Lake-Sumter State,lakesumterstatecollege,ryanjenkinsi2b4,Ryan Jenkins
+Mar 30,home,Catawba Valley,L,15-12,15,12,3,win,20240330_q1dn,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Lake-Sumter State,lakesumterstatecollege,ryanjenkinsi2b4,Ryan Jenkins
+Apr 14,home,Southwest Virginia,L,11-7,11,7,4,win,20240414_yg1h,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Lake-Sumter State,lakesumterstatecollege,ryanjenkinsi2b4,Ryan Jenkins

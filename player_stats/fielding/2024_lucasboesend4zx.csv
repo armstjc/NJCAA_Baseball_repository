@@ -1,18 +1,33 @@
 date,location,opponent,result,score,team_score,opp_score,game_score_diff,game_win_loss,game_id,TC,PO,A,E,FPCT,DP,SBA,RCS,RCS_PCT,PB,CI,season,njcaa_season,njcaa_division,team,team_id,player_id,player_name
-Jan 26,home,Central Arizona,L,4-2,4,2,2,win,20240126_gkoy,1,0,1,0,3.0,5,2,2,6.00,2.33,2,2024,2023-24,div1,Southern Nevada,collegeofsouthernnevada,lucasboesend4zx,Lucas Boesen
-Feb 3,home,Yavapai,W,18-0,18,0,18,win,20240203_py70,1,1,0,0,5.0,0,0,0,0.00,.20,1,2024,2023-24,div1,Southern Nevada,collegeofsouthernnevada,lucasboesend4zx,Lucas Boesen
-Feb 9,home,South Mountain,W,4-3,4,3,1,win,20240209_71zi,1,0,0,0,5.2,4,3,1,1.59,1.24,3,2024,2023-24,div1,Southern Nevada,collegeofsouthernnevada,lucasboesend4zx,Lucas Boesen
-Feb 17,home,Prairie Baseball Academy,W,4-2,4,2,2,win,20240217_luls,1,0,0,0,3.0,0,0,0,0.00,.33,1,2024,2023-24,div1,Southern Nevada,collegeofsouthernnevada,lucasboesend4zx,Lucas Boesen
-Mar 1,home,Southern Idaho,W,6-3,6,3,3,win,20240301_1czr,1,1,0,0,3.1,4,3,3,8.10,2.70,5,2024,2023-24,div1,Southern Nevada,collegeofsouthernnevada,lucasboesend4zx,Lucas Boesen
-Mar 8,home,Community Christian (CA),W,12-2,12,2,10,win,20240308_z0ak,1,1,0,0,3.0,1,0,0,0.00,1.00,2,2024,2023-24,div1,Southern Nevada,collegeofsouthernnevada,lucasboesend4zx,Lucas Boesen
-Mar 17,home,Colorado Northwestern,W,9-3,9,3,6,win,20240317_rl28,1,1,0,0,4.0,2,2,0,0.00,.75,1,2024,2023-24,div1,Southern Nevada,collegeofsouthernnevada,lucasboesend4zx,Lucas Boesen
-Mar 23,home,Utah State Eastern,W,10-0,10,0,10,win,20240323_49p4,1,1,0,0,6.0,2,0,0,0.00,.50,1,2024,2023-24,div1,Southern Nevada,collegeofsouthernnevada,lucasboesend4zx,Lucas Boesen
-Mar 30,home,Salt Lake,W,9-7,9,7,2,win,20240330_cdfa,1,0,0,0,4.1,6,7,7,14.54,3.00,7,2024,2023-24,div1,Southern Nevada,collegeofsouthernnevada,lucasboesend4zx,Lucas Boesen
-Apr 5,home,Southern Idaho,W,2-1,2,1,1,win,20240405_kksm,1,1,0,0,5.0,4,1,1,1.80,1.20,2,2024,2023-24,div1,Southern Nevada,collegeofsouthernnevada,lucasboesend4zx,Lucas Boesen
-Apr 12,home,Community Christian (CA),W,10-0,10,0,10,win,20240412_3dcl,1,0,0,0,2.0,0,0,0,0.00,2.00,4,2024,2023-24,div1,Southern Nevada,collegeofsouthernnevada,lucasboesend4zx,Lucas Boesen
-Apr 19,home,Colorado Northwestern,W,13-2,13,2,11,win,20240419_9p33,1,1,0,0,5.0,2,2,2,3.60,1.00,3,2024,2023-24,div1,Southern Nevada,collegeofsouthernnevada,lucasboesend4zx,Lucas Boesen
-Apr 27,home,Utah State Eastern,W,8-4,8,4,4,win,20240427_uq32,1,1,0,0,5.0,2,2,2,3.60,.60,1,2024,2023-24,div1,Southern Nevada,collegeofsouthernnevada,lucasboesend4zx,Lucas Boesen
-May 2,home,Salt Lake,W,5-0,5,0,5,win,20240502_vomv,1,1,0,0,6.0,1,0,0,0.00,.33,1,2024,2023-24,div1,Southern Nevada,collegeofsouthernnevada,lucasboesend4zx,Lucas Boesen
-May 9,home,Southern Idaho,W,5-3,5,3,2,win,20240509_solb,1,0,0,0,4.0,1,2,2,4.50,2.00,7,2024,2023-24,div1,Southern Nevada,collegeofsouthernnevada,lucasboesend4zx,Lucas Boesen
-May 11,home,Salt Lake,W,10-6,10,6,4,win,20240511_h91f,1,0,0,0,4.0,1,0,0,0.00,.25,0,2024,2023-24,div1,Southern Nevada,collegeofsouthernnevada,lucasboesend4zx,Lucas Boesen
-May 16,home,Pima,W,7-5,7,5,2,win,20240516_qwzd,1,0,0,0,4.0,5,2,1,2.25,2.25,4,2024,2023-24,div1,Southern Nevada,collegeofsouthernnevada,lucasboesend4zx,Lucas Boesen
+Jan 26,home,Northwest Florida State,L,9-0,9,0,9,win,20240126_0md2,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Southern Nevada,collegeofsouthernnevada,lucasboesend4zx,Lucas Boesen
+Jan 27,home,Indian River State,W,15-12,15,12,3,win,20240127_wtga,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Southern Nevada,collegeofsouthernnevada,lucasboesend4zx,Lucas Boesen
+Jan 28,home,Gulf Coast State,L,4-2,4,2,2,win,20240128_uj0u,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Southern Nevada,collegeofsouthernnevada,lucasboesend4zx,Lucas Boesen
+Mar 9,home,Santa Fe,W,8-5,8,5,3,win,20240309_ht4p,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Southern Nevada,collegeofsouthernnevada,lucasboesend4zx,Lucas Boesen
+Mar 14,home,State College of Florida,W,5-1,5,1,4,win,20240314_h7t7,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Southern Nevada,collegeofsouthernnevada,lucasboesend4zx,Lucas Boesen
+Mar 16,home,State College of Florida,W,8-7,8,7,1,win,20240316_s4s7,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Southern Nevada,collegeofsouthernnevada,lucasboesend4zx,Lucas Boesen
+Mar 16,home,State College of Florida,W,10-7,10,7,3,win,20240316_pkxq,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Southern Nevada,collegeofsouthernnevada,lucasboesend4zx,Lucas Boesen
+Mar 19,home,United International College,W,10-0,10,0,10,win,20240319_5zxm,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Southern Nevada,collegeofsouthernnevada,lucasboesend4zx,Lucas Boesen
+Mar 21,home,St. Petersburg,L,14-11,14,11,3,win,20240321_9azf,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Southern Nevada,collegeofsouthernnevada,lucasboesend4zx,Lucas Boesen
+Mar 23,home,St. Petersburg,L,10-4,10,4,6,win,20240323_kxei,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Southern Nevada,collegeofsouthernnevada,lucasboesend4zx,Lucas Boesen
+Mar 23,home,St. Petersburg,W,15-13,15,13,2,win,20240323_ebl9,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Southern Nevada,collegeofsouthernnevada,lucasboesend4zx,Lucas Boesen
+Mar 25,home,State College of Florida,W,9-7,9,7,2,win,20240325_b5d4,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Southern Nevada,collegeofsouthernnevada,lucasboesend4zx,Lucas Boesen
+Mar 26,home,Atlantis College,L,14-8,14,8,6,win,20240326_ab98,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Southern Nevada,collegeofsouthernnevada,lucasboesend4zx,Lucas Boesen
+Mar 28,home,Hillsborough,W,6-5,6,5,1,win,20240328_37xc,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Southern Nevada,collegeofsouthernnevada,lucasboesend4zx,Lucas Boesen
+Mar 30,home,Hillsborough,W,6-1,6,1,5,win,20240330_s53t,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Southern Nevada,collegeofsouthernnevada,lucasboesend4zx,Lucas Boesen
+Mar 30,home,Hillsborough,L,6-2,6,2,4,win,20240330_weay,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Southern Nevada,collegeofsouthernnevada,lucasboesend4zx,Lucas Boesen
+Apr 4,home,Daytona State,W,2-1,2,1,1,win,20240404_89zi,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Southern Nevada,collegeofsouthernnevada,lucasboesend4zx,Lucas Boesen
+Apr 6,home,Daytona State,W,9-2,9,2,7,win,20240406_1irw,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Southern Nevada,collegeofsouthernnevada,lucasboesend4zx,Lucas Boesen
+Apr 6,home,Daytona State,L,15-2,15,2,13,win,20240406_zc08,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Southern Nevada,collegeofsouthernnevada,lucasboesend4zx,Lucas Boesen
+Apr 8,home,State College of Florida,W,15-12,15,12,3,win,20240408_rj5j,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Southern Nevada,collegeofsouthernnevada,lucasboesend4zx,Lucas Boesen
+Apr 11,home,Indian River State,L,13-1,13,1,12,win,20240411_v3da,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Southern Nevada,collegeofsouthernnevada,lucasboesend4zx,Lucas Boesen
+Apr 13,home,Indian River State,W,3-0,3,0,3,win,20240413_6uhd,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Southern Nevada,collegeofsouthernnevada,lucasboesend4zx,Lucas Boesen
+Apr 13,home,Indian River State,L,6-5,6,5,1,win,20240413_6bt6,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Southern Nevada,collegeofsouthernnevada,lucasboesend4zx,Lucas Boesen
+Apr 18,home,Florida SouthWestern State,L,6-2,6,2,4,win,20240418_3q37,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Southern Nevada,collegeofsouthernnevada,lucasboesend4zx,Lucas Boesen
+Apr 19,home,Florida SouthWestern State,W,4-2,4,2,2,win,20240419_jawv,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Southern Nevada,collegeofsouthernnevada,lucasboesend4zx,Lucas Boesen
+Apr 19,home,Florida SouthWestern State,W,7-5,7,5,2,win,20240419_jiek,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Southern Nevada,collegeofsouthernnevada,lucasboesend4zx,Lucas Boesen
+Apr 23,home,United International College,W,4-1,4,1,3,win,20240423_wtii,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Southern Nevada,collegeofsouthernnevada,lucasboesend4zx,Lucas Boesen
+Apr 25,home,Eastern Florida State,L,14-6,14,6,8,win,20240425_jx83,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Southern Nevada,collegeofsouthernnevada,lucasboesend4zx,Lucas Boesen
+Apr 27,home,Eastern Florida State,W,2-1,2,1,1,win,20240427_7zfs,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Southern Nevada,collegeofsouthernnevada,lucasboesend4zx,Lucas Boesen
+Apr 27,home,Eastern Florida State,L,7-4,7,4,3,win,20240427_coms,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Southern Nevada,collegeofsouthernnevada,lucasboesend4zx,Lucas Boesen
+May 3,home,Chipola,L,14-5,14,5,9,win,20240503_c2uw,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Southern Nevada,collegeofsouthernnevada,lucasboesend4zx,Lucas Boesen
+May 4,home,Chipola,L,11-5,11,5,6,win,20240504_o7bk,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Southern Nevada,collegeofsouthernnevada,lucasboesend4zx,Lucas Boesen

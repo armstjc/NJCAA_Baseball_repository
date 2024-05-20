@@ -1,19 +1,30 @@
 date,location,opponent,result,score,team_score,opp_score,game_score_diff,game_win_loss,game_id,AB,R,H,2B,3B,HR,RBI,BB,K,SB,CS,HBP,SF,SH,TB,XBH,HDP,GO,FO,GO/FO,PA,season,njcaa_season,njcaa_division,team,team_id,player_id,player_name
-Feb 24,home,Arkansas State Mid-South,W,15-5,15,5,10,win,20240224_h6w9,3,1,0,,,,0,1,,,,,,,0,0,,,,,4,2024,2023-24,div2,Lake County,collegeoflakecounty,braydongibour53he,Braydon Gibour
-Feb 25,home,Arkansas State Mid-South,W,15-3,15,3,12,win,20240225_clal,3,3,1,,,1,3,1,,,,,,,4,1,,,,,4,2024,2023-24,div2,Lake County,collegeoflakecounty,braydongibour53he,Braydon Gibour
-Mar 2,home,St. Cloud Tech,W,5-3,5,3,2,win,20240302_7n10,4,1,2,,,,1,,1,,,,,,2,0,,,,,4,2024,2023-24,div2,Lake County,collegeoflakecounty,braydongibour53he,Braydon Gibour
-Mar 2,home,St. Cloud Tech,W,7-3,7,3,4,win,20240302_cew6,2,0,0,,,,0,2,,,,,,,0,0,,,,,4,2024,2023-24,div2,Lake County,collegeoflakecounty,braydongibour53he,Braydon Gibour
-Mar 3,home,Chesapeake,W,6-3,6,3,3,win,20240303_v7l9,3,0,0,,,,0,,,,,,,,0,0,,,,,3,2024,2023-24,div2,Lake County,collegeoflakecounty,braydongibour53he,Braydon Gibour
-Mar 3,home,Chesapeake,W,10-3,10,3,7,win,20240303_bp5m,3,0,0,,,,1,1,1,1,,1,,,0,0,,,,,5,2024,2023-24,div2,Lake County,collegeoflakecounty,braydongibour53he,Braydon Gibour
-Mar 4,home,Henry Ford,W,5-4,5,4,1,win,20240304_tes3,3,1,1,1,,,2,,,,,,,,2,1,,,,,3,2024,2023-24,div2,Lake County,collegeoflakecounty,braydongibour53he,Braydon Gibour
-Mar 4,home,Henry Ford,W,13-3,13,3,10,win,20240304_x5lt,3,0,0,,,,0,,,,,,,,0,0,,,,,3,2024,2023-24,div2,Lake County,collegeoflakecounty,braydongibour53he,Braydon Gibour
-Mar 6,home,Delta,W,10-0,10,0,10,win,20240306_dup7,2,1,1,1,,,2,,,,,1,,,2,1,,,,,3,2024,2023-24,div2,Lake County,collegeoflakecounty,braydongibour53he,Braydon Gibour
-Mar 7,home,Hagerstown,W,6-3,6,3,3,win,20240307_r292,3,1,2,,1,,0,,1,,,,,,4,1,,,,,3,2024,2023-24,div2,Lake County,collegeoflakecounty,braydongibour53he,Braydon Gibour
-Mar 12,home,Harper,W,24-3,24,3,21,win,20240312_x0u7,3,2,2,,,,0,1,,,,,,,2,0,,,,,4,2024,2023-24,div2,Lake County,collegeoflakecounty,braydongibour53he,Braydon Gibour
-Mar 16,home,Milwaukee Area Tech,W,7-5,7,5,2,win,20240316_1cx1,4,0,0,,,,0,,1,,,,,,0,0,,,,,4,2024,2023-24,div2,Lake County,collegeoflakecounty,braydongibour53he,Braydon Gibour
-Mar 19,home,DuPage,W,15-3,15,3,12,win,20240319_0fe3,2,1,1,1,,,1,2,,,,,,,2,1,,,,,4,2024,2023-24,div2,Lake County,collegeoflakecounty,braydongibour53he,Braydon Gibour
-Mar 21,home,Joliet,W,4-0,4,0,4,win,20240321_wkmn,4,0,2,,1,,1,,,1,,,,,4,1,,,,,4,2024,2023-24,div2,Lake County,collegeoflakecounty,braydongibour53he,Braydon Gibour
-Mar 29,home,Highland (IL),W,3-2,3,2,1,win,20240329_xfbn,4,0,2,,,,2,,,1,,,,,2,0,,,,,4,2024,2023-24,div2,Lake County,collegeoflakecounty,braydongibour53he,Braydon Gibour
-Apr 6,home,Moraine Valley,W,5-3,5,3,2,win,20240406_ty0u,4,0,1,1,,,0,,,,,,,,2,1,,,,,4,2024,2023-24,div2,Lake County,collegeoflakecounty,braydongibour53he,Braydon Gibour
-May 2,home,Waubonsee,W,6-4,6,4,2,win,20240502_12xz,3,0,1,,,,1,,,,,,,,1,0,,,,,3,2024,2023-24,div2,Lake County,collegeoflakecounty,braydongibour53he,Braydon Gibour
-May 4,home,Kishwaukee,W,5-2,5,2,3,win,20240504_wubx,4,0,1,,,,2,,1,,,,1,,1,0,,,,,5,2024,2023-24,div2,Lake County,collegeoflakecounty,braydongibour53he,Braydon Gibour
+Feb 24,home,Cecil,W,8-5,8,5,3,win,20240224_ruy1,4,1,2,1,,1,2,,1,,,,,,6,2,,1,,,4,2024,2023-24,div2,Lake County,collegeoflakecounty,braydongibour53he,Braydon Gibour
+Feb 24,home,Cecil,W,7-5,7,5,2,win,20240224_qtie,4,0,0,,,,0,,2,,,,,,0,0,,2,,,4,2024,2023-24,div2,Lake County,collegeoflakecounty,braydongibour53he,Braydon Gibour
+Feb 25,home,Cecil,W,6-2,6,2,4,win,20240225_b4ha,4,0,1,,,,0,,1,,,,,,1,0,1,1,1,1.00,4,2024,2023-24,div2,Lake County,collegeoflakecounty,braydongibour53he,Braydon Gibour
+Feb 25,home,Cecil,W,11-5,11,5,6,win,20240225_q0ma,3,0,1,1,,,2,1,1,,,1,,,2,1,,,1,,5,2024,2023-24,div2,Lake County,collegeoflakecounty,braydongibour53he,Braydon Gibour
+Mar 10,home,Genesee,W,4-2,4,2,2,win,20240310_wxcs,3,0,0,,,,0,,1,,,,,,0,0,,,,,3,2024,2023-24,div2,Lake County,collegeoflakecounty,braydongibour53he,Braydon Gibour
+Mar 14,home,Oakton,W,11-2,11,2,9,win,20240314_tsg8,4,1,1,,,1,1,,2,,,,,,4,1,,,,,4,2024,2023-24,div2,Lake County,collegeoflakecounty,braydongibour53he,Braydon Gibour
+Mar 15,home,Prairie State,W,9-4,9,4,5,win,20240315_0u2z,4,3,3,,,2,5,,1,,,,,,9,2,,,,,4,2024,2023-24,div2,Lake County,collegeoflakecounty,braydongibour53he,Braydon Gibour
+Mar 27,home,Lackawanna,W,10-4,10,4,6,win,20240327_xdq3,2,1,1,1,,,3,3,1,,,,,,2,1,,,,,5,2024,2023-24,div2,Lake County,collegeoflakecounty,braydongibour53he,Braydon Gibour
+Mar 30,home,UConn Avery Point,W,4-3,4,3,1,win,20240330_xfmo,3,0,1,,,,0,1,2,,,,,,1,0,,,,,4,2024,2023-24,div2,Lake County,collegeoflakecounty,braydongibour53he,Braydon Gibour
+Mar 30,home,UConn Avery Point,W,9-3,9,3,6,win,20240330_gn0e,4,1,1,,,,0,,,,,,,,1,0,,,,,4,2024,2023-24,div2,Lake County,collegeoflakecounty,braydongibour53he,Braydon Gibour
+Apr 5,home,Monroe College - Bronx,W,26-6,26,6,20,win,20240405_u3em,4,1,2,,,1,3,1,,1,,1,,,5,1,,,,,6,2024,2023-24,div2,Lake County,collegeoflakecounty,braydongibour53he,Braydon Gibour
+Apr 8,home,Manhattanville University (JV),W,9-2,9,2,7,win,20240408_6c65,2,1,0,,,,1,2,,,,,,,0,0,,,,,4,2024,2023-24,div2,Lake County,collegeoflakecounty,braydongibour53he,Braydon Gibour
+Apr 10,home,Suffolk County,W,11-2,11,2,9,win,20240410_wh2r,3,1,1,1,,,1,1,1,,,1,,,2,1,,,,,5,2024,2023-24,div2,Lake County,collegeoflakecounty,braydongibour53he,Braydon Gibour
+Apr 15,home,Dominican University JV,W,16-5,16,5,11,win,20240415_vqqi,4,1,2,1,,,2,,,,,,1,,3,1,,,,,5,2024,2023-24,div2,Lake County,collegeoflakecounty,braydongibour53he,Braydon Gibour
+Apr 16,home,Manhattanville University JV,W,13-1,13,1,12,win,20240416_nizt,3,1,1,1,,,1,1,2,1,,1,,,2,1,,,,,5,2024,2023-24,div2,Lake County,collegeoflakecounty,braydongibour53he,Braydon Gibour
+Apr 23,home,Raritan Valley,W,13-2,13,2,11,win,20240423_hk7r,2,1,0,,,,1,,1,,,1,,,0,0,,,,,3,2024,2023-24,div2,Lake County,collegeoflakecounty,braydongibour53he,Braydon Gibour
+Apr 25,home,Rockland,W,15-13,15,13,2,win,20240425_k7gk,4,3,4,1,,1,2,1,,,,,,,8,2,,,,,5,2024,2023-24,div2,Lake County,collegeoflakecounty,braydongibour53he,Braydon Gibour
+Apr 26,home,Rockland,W,14-2,14,2,12,win,20240426_rvuq,3,2,2,1,,1,5,1,,,,,1,,6,2,,,,,5,2024,2023-24,div2,Lake County,collegeoflakecounty,braydongibour53he,Braydon Gibour
+Apr 27,home,Rockland,W,9-6,9,6,3,win,20240427_9cqn,3,1,2,,,1,3,,,,,2,,,5,1,,,,,5,2024,2023-24,div2,Lake County,collegeoflakecounty,braydongibour53he,Braydon Gibour
+Apr 27,home,Rockland,W,8-5,8,5,3,win,20240427_979w,4,0,1,,,,1,,1,,,,,,1,0,,,,,4,2024,2023-24,div2,Lake County,collegeoflakecounty,braydongibour53he,Braydon Gibour
+May 2,home,Orange County,W,16-6,16,6,10,win,20240502_pe8c,4,2,3,,,,1,1,,,,,,,3,0,,,,,5,2024,2023-24,div2,Lake County,collegeoflakecounty,braydongibour53he,Braydon Gibour
+May 3,home,Orange County,W,19-3,19,3,16,win,20240503_mhk4,5,4,4,1,,1,4,,,,,,,,8,2,,,,,5,2024,2023-24,div2,Lake County,collegeoflakecounty,braydongibour53he,Braydon Gibour
+May 4,home,Orange County,W,7-0,7,0,7,win,20240504_idbx,2,0,0,,,,0,1,,,,,,,0,0,,,,,3,2024,2023-24,div2,Lake County,collegeoflakecounty,braydongibour53he,Braydon Gibour
+May 4,home,Orange County,W,12-0,12,0,12,win,20240504_w393,3,1,1,,,,1,,,1,,,,,1,0,,,,,3,2024,2023-24,div2,Lake County,collegeoflakecounty,braydongibour53he,Braydon Gibour
+May 10,home,Orange County,W,7-2,7,2,5,win,20240510_vtek,5,1,2,,,,1,,,,,,,,2,0,,,,,5,2024,2023-24,div2,Lake County,collegeoflakecounty,braydongibour53he,Braydon Gibour
+May 10,home,Rockland,W,16-2,16,2,14,win,20240510_bfb6,4,2,3,,,,1,1,1,,,,,,3,0,,,,,5,2024,2023-24,div2,Lake County,collegeoflakecounty,braydongibour53he,Braydon Gibour
+May 16,home,Mercer County,W,10-9,10,9,1,win,20240516_kiyv,5,1,3,1,1,,2,,1,,1,,,,6,2,,,,,5,2024,2023-24,div2,Lake County,collegeoflakecounty,braydongibour53he,Braydon Gibour
+May 17,home,UConn Avery Point,W,17-7,17,7,10,win,20240517_2glk,3,1,2,,,,3,1,,,,,,,2,0,,,,,4,2024,2023-24,div2,Lake County,collegeoflakecounty,braydongibour53he,Braydon Gibour
+May 18,home,UConn Avery Point,W,9-5,9,5,4,win,20240518_yty3,5,1,1,,,,1,,,,,,,,1,0,,,,,5,2024,2023-24,div2,Lake County,collegeoflakecounty,braydongibour53he,Braydon Gibour

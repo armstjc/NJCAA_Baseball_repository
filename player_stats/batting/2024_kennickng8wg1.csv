@@ -1,9 +1,22 @@
 date,location,opponent,result,score,team_score,opp_score,game_score_diff,game_win_loss,game_id,AB,R,H,2B,3B,HR,RBI,BB,K,SB,CS,HBP,SF,SH,TB,XBH,HDP,GO,FO,GO/FO,PA,season,njcaa_season,njcaa_division,team,team_id,player_id,player_name
-Feb 14,home,Cleveland,W,9-5,9,5,4,win,20240214_9k33,0,0,0,,,,0,,,,,,,,0,0,,,,,0,2024,2023-24,div1,USC Lancaster,usclancaster,kennickng8wg1,Kennick Ng
-Feb 14,home,Cleveland,W,9-2,9,2,7,win,20240214_b7ya,5,1,3,,,,1,,,,,,,,3,0,1,,,,5,2024,2023-24,div1,USC Lancaster,usclancaster,kennickng8wg1,Kennick Ng
-Feb 17,home,Rockingham,W,11-0,11,0,11,win,20240217_9llg,1,0,0,,,,0,,,,,,,,0,0,,,,,1,2024,2023-24,div1,USC Lancaster,usclancaster,kennickng8wg1,Kennick Ng
-Feb 18,home,Rockingham,W,14-4,14,4,10,win,20240218_w8qd,2,1,1,,,,2,,1,1,,1,,,1,0,,,,,3,2024,2023-24,div1,USC Lancaster,usclancaster,kennickng8wg1,Kennick Ng
-Feb 18,home,Rockingham,W,11-6,11,6,5,win,20240218_a3te,4,2,2,,,1,1,,1,1,1,,,,5,1,,,,,4,2024,2023-24,div1,USC Lancaster,usclancaster,kennickng8wg1,Kennick Ng
-Feb 24,home,Southeastern-Whiteville,W,10-1,10,1,9,win,20240224_cawv,1,0,0,,,,0,,1,,,,,,0,0,,,,,1,2024,2023-24,div1,USC Lancaster,usclancaster,kennickng8wg1,Kennick Ng
-Feb 25,home,Southeastern-Whiteville,W,13-1,13,1,12,win,20240225_b6o2,0,0,0,,,,0,,,,,,,,0,0,,,,,0,2024,2023-24,div1,USC Lancaster,usclancaster,kennickng8wg1,Kennick Ng
-Feb 27,home,Francis Marion JV,W,5-3,5,3,2,win,20240227_28me,3,2,1,,,,0,1,1,1,,,,,1,0,,,,,4,2024,2023-24,div1,USC Lancaster,usclancaster,kennickng8wg1,Kennick Ng
+Feb 9,home,Glen Oaks,W,15-5,15,5,10,win,20240209_0nnh,1,2,0,,,,0,3,,,,,,,0,0,,,,,4,2024,2023-24,div1,USC Lancaster,usclancaster,kennickng8wg1,Kennick Ng
+Feb 9,home,Glen Oaks,W,13-9,13,9,4,win,20240209_zht8,4,1,2,2,,,4,1,,,,,,,4,2,,,,,5,2024,2023-24,div1,USC Lancaster,usclancaster,kennickng8wg1,Kennick Ng
+Feb 10,home,Glen Oaks,W,13-5,13,5,8,win,20240210_k16r,2,2,0,,,,0,2,1,,,,,,0,0,,,,,4,2024,2023-24,div1,USC Lancaster,usclancaster,kennickng8wg1,Kennick Ng
+Feb 17,home,Holmes,W,4-2,4,2,2,win,20240217_1idl,4,0,2,,,,0,,,,,,,,2,0,,,,,4,2024,2023-24,div1,USC Lancaster,usclancaster,kennickng8wg1,Kennick Ng
+Feb 17,home,Holmes,W,4-3,4,3,1,win,20240217_60wq,6,1,2,1,,,2,,,,,,,,3,1,,,,,6,2024,2023-24,div1,USC Lancaster,usclancaster,kennickng8wg1,Kennick Ng
+Feb 18,home,Copiah-Lincoln,W,3-2,3,2,1,win,20240218_8mt4,4,0,0,,,,0,,1,,,,,,0,0,,,,,4,2024,2023-24,div1,USC Lancaster,usclancaster,kennickng8wg1,Kennick Ng
+Feb 25,home,South Suburban,W,6-4,6,4,2,win,20240225_icsi,3,0,0,,,,0,,,,,,,,0,0,,,,,3,2024,2023-24,div1,USC Lancaster,usclancaster,kennickng8wg1,Kennick Ng
+Mar 2,home,Gadsden State,W,4-3,4,3,1,win,20240302_mlug,3,1,1,,,,0,,,,,,,,1,0,,,,,3,2024,2023-24,div1,USC Lancaster,usclancaster,kennickng8wg1,Kennick Ng
+Mar 2,home,Gadsden State,W,8-1,8,1,7,win,20240302_mzul,4,0,2,1,,,3,,2,,,,,,3,1,,,,,4,2024,2023-24,div1,USC Lancaster,usclancaster,kennickng8wg1,Kennick Ng
+Mar 17,home,Southwestern Illinois,W,9-6,9,6,3,win,20240317_7dgh,4,1,1,1,,,1,1,1,,,,,,2,1,,,,,5,2024,2023-24,div1,USC Lancaster,usclancaster,kennickng8wg1,Kennick Ng
+Mar 19,home,Lake Area Post Grad,W,10-0,10,0,10,win,20240319_sinr,2,0,0,,,,0,1,,1,1,,,,0,0,,,,,3,2024,2023-24,div1,USC Lancaster,usclancaster,kennickng8wg1,Kennick Ng
+Mar 19,home,Lake Area Post Grad,W,6-3,6,3,3,win,20240319_cs2x,0,0,0,,,,0,,,,,,,,0,0,,,,,0,2024,2023-24,div1,USC Lancaster,usclancaster,kennickng8wg1,Kennick Ng
+Mar 21,home,Lake Land,W,5-2,5,2,3,win,20240321_593j,4,0,0,,,,0,,1,,,,,,0,0,,,,,4,2024,2023-24,div1,USC Lancaster,usclancaster,kennickng8wg1,Kennick Ng
+Mar 27,home,Shawnee,W,8-4,8,4,4,win,20240327_ym8b,3,0,0,,,,0,,,,,,,,0,0,,,,,3,2024,2023-24,div1,USC Lancaster,usclancaster,kennickng8wg1,Kennick Ng
+Apr 2,home,Shawnee,W,15-4,15,4,11,win,20240402_hg3t,4,1,3,,,,1,,,1,,,,,3,0,,,,,4,2024,2023-24,div1,USC Lancaster,usclancaster,kennickng8wg1,Kennick Ng
+Apr 2,home,Shawnee,W,6-3,6,3,3,win,20240402_hcip,3,1,1,1,,,0,,,,,,,,2,1,,,,,3,2024,2023-24,div1,USC Lancaster,usclancaster,kennickng8wg1,Kennick Ng
+Apr 4,home,Olney Central,W,13-3,13,3,10,win,20240404_bq4s,4,1,2,1,,,1,,,,,,,,3,1,,,,,4,2024,2023-24,div1,USC Lancaster,usclancaster,kennickng8wg1,Kennick Ng
+Apr 6,home,Olney Central,W,9-4,9,4,5,win,20240406_6pre,4,0,1,,,,1,,1,,,1,,,1,0,,,,,5,2024,2023-24,div1,USC Lancaster,usclancaster,kennickng8wg1,Kennick Ng
+Apr 20,home,Lincoln Trail,W,15-10,15,10,5,win,20240420_ha61,4,1,2,,,,2,2,1,,,,,,2,0,,,,,6,2024,2023-24,div1,USC Lancaster,usclancaster,kennickng8wg1,Kennick Ng
+Apr 20,home,Lincoln Trail,W,4-3,4,3,1,win,20240420_elw9,2,0,0,,,,0,,1,,,,,,0,0,,,,,2,2024,2023-24,div1,USC Lancaster,usclancaster,kennickng8wg1,Kennick Ng
+May 3,home,Southeastern Illinois,W,2-1,2,1,1,win,20240503_vsiq,3,0,1,,,,0,,1,,,,,,1,0,,,,,3,2024,2023-24,div1,USC Lancaster,usclancaster,kennickng8wg1,Kennick Ng
