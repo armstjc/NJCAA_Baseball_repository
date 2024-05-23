@@ -1,15 +1,18 @@
 date,location,opponent,result,score,team_score,opp_score,game_score_diff,game_win_loss,game_id,TC,PO,A,E,FPCT,DP,SBA,RCS,RCS_PCT,PB,CI,season,njcaa_season,njcaa_division,team,team_id,player_id,player_name
-Jan 27,home,Utah State Eastern,W,16-10,16,10,6,win,20240127_or4w,0,0,0,0,2.1,,,,0.00,1.29,3,2024,2023-24,div1,Arizona Western,arizonawesterncollege,hugotafoyac000,Hugo Tafoya
-Jan 28,home,GateWay (AZ),W,14-5,14,5,9,win,20240128_p0ra,0,0,0,0,0.1,,,,0.00,3.00,1,2024,2023-24,div1,Arizona Western,arizonawesterncollege,hugotafoyac000,Hugo Tafoya
-Feb 3,home,Northeastern,W,6-5,6,5,1,win,20240203_frr5,0,1,0,0,1.2,1,1,1,5.40,2.40,3,2024,2023-24,div1,Arizona Western,arizonawesterncollege,hugotafoyac000,Hugo Tafoya
-Feb 10,home,Chandler-Gilbert,L,11-3,11,3,8,win,20240210_je5j,0,0,0,0,1.0,1,1,1,9.00,2.00,1,2024,2023-24,div1,Arizona Western,arizonawesterncollege,hugotafoyac000,Hugo Tafoya
-Feb 20,home,Central Arizona,L,12-7,12,7,5,win,20240220_9ja6,1,0,0,0,3.0,1,0,0,0.00,.67,1,2024,2023-24,div1,Arizona Western,arizonawesterncollege,hugotafoyac000,Hugo Tafoya
-Feb 24,home,Yavapai,W,23-9,23,9,14,win,20240224_pk3j,0,0,0,0,1.0,4,5,5,45.00,6.00,2,2024,2023-24,div1,Arizona Western,arizonawesterncollege,hugotafoyac000,Hugo Tafoya
-Feb 27,home,Pima,L,9-1,9,1,8,win,20240227_r9zc,0,0,0,0,2.2,2,1,1,3.38,1.13,1,2024,2023-24,div1,Arizona Western,arizonawesterncollege,hugotafoyac000,Hugo Tafoya
-Mar 5,home,Chandler-Gilbert,L,12-2,12,2,10,win,20240305_uclc,1,0,1,0,4.1,4,5,5,10.38,1.62,3,2024,2023-24,div1,Arizona Western,arizonawesterncollege,hugotafoyac000,Hugo Tafoya
-Mar 15,home,Community Christian (CA),W,14-0,14,0,14,win,20240315_878j,0,0,0,0,2.0,,,,0.00,,,2024,2023-24,div1,Arizona Western,arizonawesterncollege,hugotafoyac000,Hugo Tafoya
-Mar 23,home,Paradise Valley,W,10-8,10,8,2,win,20240323_4smm,0,0,0,0,1.1,6,6,5,33.75,5.25,1,2024,2023-24,div1,Arizona Western,arizonawesterncollege,hugotafoyac000,Hugo Tafoya
-Apr 9,home,South Mountain,L,11-7,11,7,4,win,20240409_ga8q,0,0,0,0,1.0,1,1,1,9.00,3.00,2,2024,2023-24,div1,Arizona Western,arizonawesterncollege,hugotafoyac000,Hugo Tafoya
-Apr 23,home,Pima,W,15-9,15,9,6,win,20240423_z6tq,0,0,0,0,2.2,2,2,2,6.75,1.50,2,2024,2023-24,div1,Arizona Western,arizonawesterncollege,hugotafoyac000,Hugo Tafoya
-Apr 27,home,Cochise,L,4-2,4,2,2,win,20240427_6b0s,0,0,0,0,2.0,,1,,0.00,.50,1,2024,2023-24,div1,Arizona Western,arizonawesterncollege,hugotafoyac000,Hugo Tafoya
-May 2,home,Pima,L,7-6,7,6,1,win,20240502_52tq,0,0,1,0,1.2,2,1,1,5.40,1.20,,2024,2023-24,div1,Arizona Western,arizonawesterncollege,hugotafoyac000,Hugo Tafoya
+Jan 27,home,Southern Nevada,W,4-3,4,3,1,win,20240127_7clx,1,0,0,0,6.0,6,2,2,3.00,1.00,0,2024,2023-24,div1,Arizona Western,arizonawesterncollege,hugotafoyac000,Hugo Tafoya
+Feb 3,home,Northeastern,W,6-2,6,2,4,win,20240203_ngge,1,1,0,0,4.0,3,2,2,4.50,1.75,4,2024,2023-24,div1,Arizona Western,arizonawesterncollege,hugotafoyac000,Hugo Tafoya
+Feb 10,home,Chandler-Gilbert,W,7-4,7,4,3,win,20240210_fc5y,1,1,0,0,5.0,4,0,0,0.00,1.40,3,2024,2023-24,div1,Arizona Western,arizonawesterncollege,hugotafoyac000,Hugo Tafoya
+Feb 13,home,South Mountain,L,9-4,9,4,5,win,20240213_48uq,0,0,0,0,1.0,,,,0.00,,,2024,2023-24,div1,Arizona Western,arizonawesterncollege,hugotafoyac000,Hugo Tafoya
+Feb 17,home,Eastern Arizona,L,5-2,5,2,3,win,20240217_1ecg,1,0,1,0,4.1,7,4,4,8.31,2.08,2,2024,2023-24,div1,Arizona Western,arizonawesterncollege,hugotafoyac000,Hugo Tafoya
+Feb 20,home,Central Arizona,L,12-7,12,7,5,win,20240220_9ja6,0,0,0,0,1.2,3,1,1,5.40,2.40,1,2024,2023-24,div1,Arizona Western,arizonawesterncollege,hugotafoyac000,Hugo Tafoya
+Feb 24,home,Yavapai,W,5-4,5,4,1,win,20240224_zd48,1,1,0,0,6.0,5,2,1,1.50,.83,0,2024,2023-24,div1,Arizona Western,arizonawesterncollege,hugotafoyac000,Hugo Tafoya
+Mar 2,home,Cochise,W,6-3,6,3,3,win,20240302_a4xt,1,1,0,0,7.0,5,3,2,2.57,1.29,4,2024,2023-24,div1,Arizona Western,arizonawesterncollege,hugotafoyac000,Hugo Tafoya
+Mar 9,home,Scottsdale,W,3-1,3,1,2,win,20240309_e4vp,1,1,0,0,7.0,5,1,0,0.00,1.00,2,2024,2023-24,div1,Arizona Western,arizonawesterncollege,hugotafoyac000,Hugo Tafoya
+Mar 15,home,Community Christian (CA),W,17-0,17,0,17,win,20240315_zl3v,1,1,0,0,3.0,0,0,0,0.00,.00,0,2024,2023-24,div1,Arizona Western,arizonawesterncollege,hugotafoyac000,Hugo Tafoya
+Mar 23,home,Paradise Valley,W,7-0,7,0,7,win,20240323_z4fy,1,1,0,0,7.0,5,0,0,0.00,.71,0,2024,2023-24,div1,Arizona Western,arizonawesterncollege,hugotafoyac000,Hugo Tafoya
+Mar 30,home,Glendale,W,9-5,9,5,4,win,20240330_4s03,1,0,0,0,5.1,8,5,5,8.44,2.06,3,2024,2023-24,div1,Arizona Western,arizonawesterncollege,hugotafoyac000,Hugo Tafoya
+Apr 9,home,South Mountain,L,11-7,11,7,4,win,20240409_ga8q,1,0,1,0,2.1,5,7,7,27.00,3.00,2,2024,2023-24,div1,Arizona Western,arizonawesterncollege,hugotafoyac000,Hugo Tafoya
+Apr 16,home,Central Arizona,L,9-8,9,8,1,win,20240416_59fv,1,0,1,0,3.0,6,6,4,12.00,2.00,0,2024,2023-24,div1,Arizona Western,arizonawesterncollege,hugotafoyac000,Hugo Tafoya
+Apr 23,home,Pima,L,4-3,4,3,1,win,20240423_41r8,1,0,0,0,3.1,1,2,2,5.40,1.50,4,2024,2023-24,div1,Arizona Western,arizonawesterncollege,hugotafoyac000,Hugo Tafoya
+Apr 27,home,Cochise,W,8-6,8,6,2,win,20240427_328v,0,0,0,0,2.0,2,,,0.00,1.50,1,2024,2023-24,div1,Arizona Western,arizonawesterncollege,hugotafoyac000,Hugo Tafoya
+May 3,home,Pima,L,4-0,4,0,4,win,20240503_2860,1,0,1,0,6.0,7,2,2,3.00,1.50,2,2024,2023-24,div1,Arizona Western,arizonawesterncollege,hugotafoyac000,Hugo Tafoya

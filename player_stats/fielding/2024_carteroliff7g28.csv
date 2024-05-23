@@ -1,12 +1,17 @@
 date,location,opponent,result,score,team_score,opp_score,game_score_diff,game_win_loss,game_id,TC,PO,A,E,FPCT,DP,SBA,RCS,RCS_PCT,PB,CI,season,njcaa_season,njcaa_division,team,team_id,player_id,player_name
-Feb 14,home,BC Post Grad,W,3-2,3,2,1,win,20240214_ldw1,0,0,0,0,1.0,1,1,1,9.00,2.00,1,2024,2023-24,div1,Roane State,roanestatecommunitycollege,carteroliff7g28,Carter Oliff
-Feb 17,home,Gadsden State,L,20-9,20,9,11,win,20240217_q99c,0,0,0,0,0.1,2,3,,0.00,6.00,,2024,2023-24,div1,Roane State,roanestatecommunitycollege,carteroliff7g28,Carter Oliff
-Feb 22,home,New River,W,9-1,9,1,8,win,20240222_bhhh,1,0,0,0,3.2,2,0,0,0.00,.82,1,2024,2023-24,div1,Roane State,roanestatecommunitycollege,carteroliff7g28,Carter Oliff
-Mar 2,home,Jackson State,L,5-3,5,3,2,win,20240302_duas,1,0,0,0,3.0,3,3,1,3.00,1.67,2,2024,2023-24,div1,Roane State,roanestatecommunitycollege,carteroliff7g28,Carter Oliff
-Mar 14,home,Georgia Highlands,L,10-2,10,2,8,win,20240314_sp76,0,0,0,0,0.1,2,1,1,27.00,9.00,1,2024,2023-24,div1,Roane State,roanestatecommunitycollege,carteroliff7g28,Carter Oliff
-Mar 17,home,Volunteer State,W,14-4,14,4,10,win,20240317_0xh1,0,0,0,0,0.2,2,3,3,40.50,6.00,2,2024,2023-24,div1,Roane State,roanestatecommunitycollege,carteroliff7g28,Carter Oliff
-Apr 3,home,Southwest Virginia,W,16-1,16,1,15,win,20240403_ov28,0,0,0,0,2.0,1,0,0,0.00,.50,0,2024,2023-24,div1,Roane State,roanestatecommunitycollege,carteroliff7g28,Carter Oliff
-Apr 10,home,Carson-Newman University,L,3-2,3,2,1,win,20240410_i094,0,0,0,0,2.0,2,0,0,0.00,1.00,0,2024,2023-24,div1,Roane State,roanestatecommunitycollege,carteroliff7g28,Carter Oliff
-Apr 13,home,Walters State,L,13-2,13,2,11,win,20240413_oo46,0,0,0,0,0.2,3,3,3,40.50,6.00,1,2024,2023-24,div1,Roane State,roanestatecommunitycollege,carteroliff7g28,Carter Oliff
-Apr 19,home,Dyersburg State,L,8-1,8,1,7,win,20240419_3mi3,0,0,0,0,0.1,0,0,0,0.00,.00,0,2024,2023-24,div1,Roane State,roanestatecommunitycollege,carteroliff7g28,Carter Oliff
-Apr 20,home,Dyersburg State,L,5-0,5,0,5,win,20240420_u1xw,0,0,0,0,0.2,1,0,0,0.00,1.50,0,2024,2023-24,div1,Roane State,roanestatecommunitycollege,carteroliff7g28,Carter Oliff
+Feb 3,home,USC Union,W,9-8,9,8,1,win,20240203_o5mw,1,1,0,0,4.0,6,5,5,11.25,2.50,4,2024,2023-24,div1,Roane State,roanestatecommunitycollege,carteroliff7g28,Carter Oliff
+Feb 14,home,BC Post Grad,W,6-0,6,0,6,win,20240214_2f2i,1,0,0,0,2.0,1,0,0,0.00,1.50,2,2024,2023-24,div1,Roane State,roanestatecommunitycollege,carteroliff7g28,Carter Oliff
+Feb 17,home,Gadsden State,L,20-9,20,9,11,win,20240217_q99c,1,0,1,0,2.1,7,10,7,27.00,3.43,1,2024,2023-24,div1,Roane State,roanestatecommunitycollege,carteroliff7g28,Carter Oliff
+Feb 23,home,Highland (IL),W,15-12,15,12,3,win,20240223_vg16,1,0,0,0,3.2,3,7,7,17.18,2.18,5,2024,2023-24,div1,Roane State,roanestatecommunitycollege,carteroliff7g28,Carter Oliff
+Feb 27,home,Georgia Highlands,L,14-3,14,3,11,win,20240227_m8te,0,0,0,0,0.1,,,,0.00,,,2024,2023-24,div1,Roane State,roanestatecommunitycollege,carteroliff7g28,Carter Oliff
+Mar 1,home,Jackson State,L,13-10,13,10,3,win,20240301_ol7q,1,0,0,0,4.1,8,4,4,8.31,1.85,0,2024,2023-24,div1,Roane State,roanestatecommunitycollege,carteroliff7g28,Carter Oliff
+Mar 11,home,Columbia State,L,7-1,7,1,6,win,20240311_ii7m,1,0,1,0,4.1,8,5,5,10.38,2.31,2,2024,2023-24,div1,Roane State,roanestatecommunitycollege,carteroliff7g28,Carter Oliff
+Mar 14,home,Georgia Highlands,L,10-2,10,2,8,win,20240314_sp76,1,0,0,0,2.0,3,1,1,4.50,1.50,0,2024,2023-24,div1,Roane State,roanestatecommunitycollege,carteroliff7g28,Carter Oliff
+Mar 16,home,Volunteer State,W,9-1,9,1,8,win,20240316_hvsl,0,0,0,0,7.0,0,0,0,0.00,.14,1,2024,2023-24,div1,Roane State,roanestatecommunitycollege,carteroliff7g28,Carter Oliff
+Mar 22,home,Cleveland State,L,4-3,4,3,1,win,20240322_hlw1,0,0,0,0,5.0,4,1,1,1.80,1.40,3,2024,2023-24,div1,Roane State,roanestatecommunitycollege,carteroliff7g28,Carter Oliff
+Mar 29,home,Chattanooga State,L,4-0,4,0,4,win,20240329_3gc4,0,0,0,0,4.1,3,2,2,4.15,1.62,4,2024,2023-24,div1,Roane State,roanestatecommunitycollege,carteroliff7g28,Carter Oliff
+Mar 30,home,Chattanooga State,L,3-2,3,2,1,win,20240330_d4a2,0,0,0,0,0.1,2,2,2,54.00,9.00,1,2024,2023-24,div1,Roane State,roanestatecommunitycollege,carteroliff7g28,Carter Oliff
+Apr 6,home,Motlow State,W,7-5,7,5,2,win,20240406_66lv,1,0,0,0,7.0,7,5,5,6.43,1.71,5,2024,2023-24,div1,Roane State,roanestatecommunitycollege,carteroliff7g28,Carter Oliff
+Apr 14,home,Walters State,L,5-2,5,2,3,win,20240414_zhbg,1,0,1,0,6.1,7,4,4,5.68,1.42,2,2024,2023-24,div1,Roane State,roanestatecommunitycollege,carteroliff7g28,Carter Oliff
+Apr 20,home,Dyersburg State,W,7-6,7,6,1,win,20240420_a6j6,0,0,0,0,3.0,2,0,0,0.00,2.00,4,2024,2023-24,div1,Roane State,roanestatecommunitycollege,carteroliff7g28,Carter Oliff
+Apr 25,home,Southwest Tennessee,W,5-4,5,4,1,win,20240425_2uwa,1,0,0,0,6.2,6,3,3,4.05,.90,0,2024,2023-24,div1,Roane State,roanestatecommunitycollege,carteroliff7g28,Carter Oliff

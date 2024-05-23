@@ -1,11 +1,20 @@
 date,location,opponent,result,score,team_score,opp_score,game_score_diff,game_win_loss,game_id,AB,R,H,2B,3B,HR,RBI,BB,K,SB,CS,HBP,SF,SH,TB,XBH,HDP,GO,FO,GO/FO,PA,season,njcaa_season,njcaa_division,team,team_id,player_id,player_name
-Feb 7,home,Northwestern Oklahoma State JV,W,12-1,12,1,11,win,20240207_85un,0,0,0,,,,0,,,,,,,,0,0,,,,,0,2024,2023-24,div1,Butler,butlercommunitycollegeks,charliemarcantelvkkf,Charlie Marcantel
-Feb 14,home,Northeastern Oklahoma A&M,W,9-1,9,1,8,win,20240214_k6oo,0,0,0,,,,0,,,,,,,,0,0,,,,,0,2024,2023-24,div1,Butler,butlercommunitycollegeks,charliemarcantelvkkf,Charlie Marcantel
-Mar 6,home,Barton,W,4-3,4,3,1,win,20240306_dra0,0,0,0,,,,0,,,,,,,,0,0,,,,,0,2024,2023-24,div1,Butler,butlercommunitycollegeks,charliemarcantelvkkf,Charlie Marcantel
-Mar 14,home,Hutchinson,W,5-1,5,1,4,win,20240314_a5g6,0,0,0,,,,0,,,,,,,,0,0,,,,,0,2024,2023-24,div1,Butler,butlercommunitycollegeks,charliemarcantelvkkf,Charlie Marcantel
-Mar 21,home,Garden City,W,12-8,12,8,4,win,20240321_u2vq,0,0,0,,,,0,,,,,,,,0,0,,,,,0,2024,2023-24,div1,Butler,butlercommunitycollegeks,charliemarcantelvkkf,Charlie Marcantel
-Apr 4,home,Colby,W,14-4,14,4,10,win,20240404_zwat,0,0,0,,,,0,,,,,,,,0,0,,,,,0,2024,2023-24,div1,Butler,butlercommunitycollegeks,charliemarcantelvkkf,Charlie Marcantel
-Apr 11,home,Pratt,W,13-6,13,6,7,win,20240411_wmdn,0,0,0,,,,0,,,,,,,,0,0,,,,,0,2024,2023-24,div1,Butler,butlercommunitycollegeks,charliemarcantelvkkf,Charlie Marcantel
-Apr 19,home,Seward County,W,2-0,2,0,2,win,20240419_q5qk,0,0,0,,,,0,,,,,,,,0,0,,,,,0,2024,2023-24,div1,Butler,butlercommunitycollegeks,charliemarcantelvkkf,Charlie Marcantel
-May 3,home,Cloud County,W,5-3,5,3,2,win,20240503_0nw5,0,0,0,,,,0,,,,,,,,0,0,,,,,0,2024,2023-24,div1,Butler,butlercommunitycollegeks,charliemarcantelvkkf,Charlie Marcantel
-May 9,home,Neosho County,W,10-0,10,0,10,win,20240509_t9w1,0,0,0,,,,0,,,,,,,,0,0,,,,,0,2024,2023-24,div1,Butler,butlercommunitycollegeks,charliemarcantelvkkf,Charlie Marcantel
+Feb 7,home,Northwestern Oklahoma State JV,W,14-2,14,2,12,win,20240207_wwj5,4,2,2,1,,1,3,,,,,,,,6,2,,2,,,4,2024,2023-24,div1,Butler,butlercommunitycollegeks,charliemarcantelvkkf,Charlie Marcantel
+Feb 22,home,Eastern Oklahoma State,W,20-13,20,13,7,win,20240222_q4jx,5,1,2,,,,2,,,,,,,1,2,0,,,,,6,2024,2023-24,div1,Butler,butlercommunitycollegeks,charliemarcantelvkkf,Charlie Marcantel
+Mar 2,home,Des Moines Area,W,6-5,6,5,1,win,20240302_v0a1,3,0,0,,,,0,,,,,,,,0,0,,2,1,2.00,3,2024,2023-24,div1,Butler,butlercommunitycollegeks,charliemarcantelvkkf,Charlie Marcantel
+Mar 21,home,Garden City,W,20-6,20,6,14,win,20240321_8n8d,3,2,2,,,,5,,,,,,1,,2,0,,1,1,1.00,4,2024,2023-24,div1,Butler,butlercommunitycollegeks,charliemarcantelvkkf,Charlie Marcantel
+Mar 23,home,Garden City,W,4-0,4,0,4,win,20240323_045t,3,0,2,1,,,1,,,1,,1,,,3,1,,,1,,4,2024,2023-24,div1,Butler,butlercommunitycollegeks,charliemarcantelvkkf,Charlie Marcantel
+Apr 2,home,Rose State,W,13-3,13,3,10,win,20240402_d7bq,4,1,2,,,,3,,,1,,1,,,2,0,,2,,,5,2024,2023-24,div1,Butler,butlercommunitycollegeks,charliemarcantelvkkf,Charlie Marcantel
+Apr 4,home,Colby,W,14-4,14,4,10,win,20240404_zwat,3,2,1,,,,0,1,1,,,,,,1,0,,1,,,4,2024,2023-24,div1,Butler,butlercommunitycollegeks,charliemarcantelvkkf,Charlie Marcantel
+Apr 4,home,Colby,W,12-2,12,2,10,win,20240404_zknc,1,1,0,,,,1,,,,,3,,,0,0,,,1,,4,2024,2023-24,div1,Butler,butlercommunitycollegeks,charliemarcantelvkkf,Charlie Marcantel
+Apr 9,home,Neosho County,W,8-0,8,0,8,win,20240409_m2ka,3,0,0,,,,0,2,,,,,,,0,0,,,,,5,2024,2023-24,div1,Butler,butlercommunitycollegeks,charliemarcantelvkkf,Charlie Marcantel
+Apr 11,home,Pratt,W,13-6,13,6,7,win,20240411_wmdn,4,3,2,1,,1,1,1,,,,,,,6,2,,,,,5,2024,2023-24,div1,Butler,butlercommunitycollegeks,charliemarcantelvkkf,Charlie Marcantel
+Apr 13,home,Pratt,W,18-8,18,8,10,win,20240413_28lf,4,2,2,,,1,2,,1,,,,,,5,1,,,1,,4,2024,2023-24,div1,Butler,butlercommunitycollegeks,charliemarcantelvkkf,Charlie Marcantel
+Apr 13,home,Pratt,W,16-7,16,7,9,win,20240413_iyn6,3,1,0,,,,0,2,1,,,,,,0,0,,1,1,1.00,5,2024,2023-24,div1,Butler,butlercommunitycollegeks,charliemarcantelvkkf,Charlie Marcantel
+Apr 19,home,Seward County,W,2-0,2,0,2,win,20240419_q5qk,2,0,0,,,,0,,1,,,,,,0,0,,,1,,2,2024,2023-24,div1,Butler,butlercommunitycollegeks,charliemarcantelvkkf,Charlie Marcantel
+Apr 28,home,Dodge City,W,17-2,17,2,15,win,20240428_yeo5,3,1,2,1,,,3,,,,,,1,,3,1,,1,1,1.00,4,2024,2023-24,div1,Butler,butlercommunitycollegeks,charliemarcantelvkkf,Charlie Marcantel
+May 3,home,Cloud County,W,5-3,5,3,2,win,20240503_0nw5,2,0,1,,,,1,2,1,,,,,,1,0,,,,,4,2024,2023-24,div1,Butler,butlercommunitycollegeks,charliemarcantelvkkf,Charlie Marcantel
+May 3,home,Cloud County,W,11-5,11,5,6,win,20240503_xmi5,4,0,0,,,,1,1,,1,,,,,0,0,,2,2,1.00,5,2024,2023-24,div1,Butler,butlercommunitycollegeks,charliemarcantelvkkf,Charlie Marcantel
+May 9,home,Neosho County,W,10-0,10,0,10,win,20240509_t9w1,3,2,2,1,,,0,1,,,,,,,3,1,,,1,,4,2024,2023-24,div1,Butler,butlercommunitycollegeks,charliemarcantelvkkf,Charlie Marcantel
+May 10,home,Neosho County,W,3-2,3,2,1,win,20240510_tjv7,4,0,0,,,,0,,,,,1,,,0,0,,1,3,0.33,5,2024,2023-24,div1,Butler,butlercommunitycollegeks,charliemarcantelvkkf,Charlie Marcantel
+May 16,home,Cloud County,W,9-0,9,0,9,win,20240516_qajb,2,1,0,,,,0,,,,,2,,,0,0,,,2,,4,2024,2023-24,div1,Butler,butlercommunitycollegeks,charliemarcantelvkkf,Charlie Marcantel
