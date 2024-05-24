@@ -1,22 +1,15 @@
 date,location,opponent,result,score,team_score,opp_score,game_score_diff,game_win_loss,game_id,AB,R,H,2B,3B,HR,RBI,BB,K,SB,CS,HBP,SF,SH,TB,XBH,HDP,GO,FO,GO/FO,PA,season,njcaa_season,njcaa_division,team,team_id,player_id,player_name
-Feb 16,home,St. Charles,W,5-1,5,1,4,win,20240216_vgs5,4,1,4,1,,,2,,,1,,,,,5,1,,,,,4,2024,2023-24,div2,Danville Area,danvilleareacommunitycollege,kodymorton4m2w,Kody Morton
-Feb 17,home,Arkansas State University - Three Rivers,W,8-5,8,5,3,win,20240217_i946,2,1,0,,,,0,2,,1,,,,,0,0,,,,,4,2024,2023-24,div2,Danville Area,danvilleareacommunitycollege,kodymorton4m2w,Kody Morton
-Feb 23,home,Kankakee,W,7-6,7,6,1,win,20240223_eoa3,4,1,2,,,,1,,1,,,,,,2,0,,,,,4,2024,2023-24,div2,Danville Area,danvilleareacommunitycollege,kodymorton4m2w,Kody Morton
-Feb 25,home,Kankakee,W,14-6,14,6,8,win,20240225_yhmw,5,2,2,,,1,2,,2,,,,,,5,1,,,,,5,2024,2023-24,div2,Danville Area,danvilleareacommunitycollege,kodymorton4m2w,Kody Morton
-Mar 3,home,Olive-Harvey,W,6-1,6,1,5,win,20240303_18e1,3,1,0,,,,0,1,1,,,,,,0,0,,,,,4,2024,2023-24,div2,Danville Area,danvilleareacommunitycollege,kodymorton4m2w,Kody Morton
-Mar 11,home,Illinois Central,W,8-7,8,7,1,win,20240311_inc0,4,2,3,1,,,0,,1,1,,,,,4,1,,,,,4,2024,2023-24,div2,Danville Area,danvilleareacommunitycollege,kodymorton4m2w,Kody Morton
-Mar 11,home,Illinois Central,W,18-10,18,10,8,win,20240311_ipd7,3,3,2,,,,0,1,,,,,,,2,0,,,,,4,2024,2023-24,div2,Danville Area,danvilleareacommunitycollege,kodymorton4m2w,Kody Morton
-Mar 15,home,Spoon River,W,10-2,10,2,8,win,20240315_qcvk,2,3,2,,,2,3,2,,1,1,,,,8,2,,,,,4,2024,2023-24,div2,Danville Area,danvilleareacommunitycollege,kodymorton4m2w,Kody Morton
-Mar 15,home,Spoon River,W,10-4,10,4,6,win,20240315_r72x,4,2,2,,,1,3,1,1,2,,,,,5,1,,,,,5,2024,2023-24,div2,Danville Area,danvilleareacommunitycollege,kodymorton4m2w,Kody Morton
-Mar 16,home,Spoon River,W,12-3,12,3,9,win,20240316_54xr,4,2,2,1,,,1,,,1,,,1,,3,1,,,,,5,2024,2023-24,div2,Danville Area,danvilleareacommunitycollege,kodymorton4m2w,Kody Morton
-Mar 23,home,Vincennes,W,10-5,10,5,5,win,20240323_cn3l,4,1,2,1,,,1,,1,,,,1,,3,1,,,,,5,2024,2023-24,div2,Danville Area,danvilleareacommunitycollege,kodymorton4m2w,Kody Morton
-Mar 23,home,Vincennes,W,9-6,9,6,3,win,20240323_ukgl,4,2,2,2,,,2,1,2,1,,,,,4,2,,,,,5,2024,2023-24,div2,Danville Area,danvilleareacommunitycollege,kodymorton4m2w,Kody Morton
-Mar 24,home,Vincennes,W,10-2,10,2,8,win,20240324_ec18,2,3,2,,,,0,2,,,,,,,2,0,,,,,4,2024,2023-24,div2,Danville Area,danvilleareacommunitycollege,kodymorton4m2w,Kody Morton
-Mar 29,home,John Wood,W,10-9,10,9,1,win,20240329_ndb2,4,2,2,,,,1,2,1,,,,,,2,0,,,,,6,2024,2023-24,div2,Danville Area,danvilleareacommunitycollege,kodymorton4m2w,Kody Morton
-Mar 29,home,John Wood,W,12-9,12,9,3,win,20240329_5wi0,3,2,2,,,1,4,1,,,,,,,5,1,,,,,4,2024,2023-24,div2,Danville Area,danvilleareacommunitycollege,kodymorton4m2w,Kody Morton
-Mar 30,home,John Wood,W,8-2,8,2,6,win,20240330_cd5v,4,1,1,,,,0,1,2,,,,,,1,0,,,,,5,2024,2023-24,div2,Danville Area,danvilleareacommunitycollege,kodymorton4m2w,Kody Morton
-Apr 14,home,Parkland,W,14-12,14,12,2,win,20240414_2gmn,1,0,0,,,,0,1,,,,,,,0,0,,,,,2,2024,2023-24,div2,Danville Area,danvilleareacommunitycollege,kodymorton4m2w,Kody Morton
-Apr 21,home,Heartland,W,12-4,12,4,8,win,20240421_kkbw,4,0,1,,,,0,1,1,,1,,,,1,0,,,2,,5,2024,2023-24,div2,Danville Area,danvilleareacommunitycollege,kodymorton4m2w,Kody Morton
-Apr 26,home,Lewis & Clark,W,11-2,11,2,9,win,20240426_grgt,4,1,1,1,,,0,1,,,,,,,2,1,,,,,5,2024,2023-24,div2,Danville Area,danvilleareacommunitycollege,kodymorton4m2w,Kody Morton
-Apr 27,home,Lewis & Clark,W,2-0,2,0,2,win,20240427_m6g1,3,0,1,,,,0,,,1,,,,,1,0,,,,,3,2024,2023-24,div2,Danville Area,danvilleareacommunitycollege,kodymorton4m2w,Kody Morton
-May 4,home,Lincoln Land,W,5-3,5,3,2,win,20240504_b1re,3,1,1,,,1,1,1,,,,,,,4,1,,,,,4,2024,2023-24,div2,Danville Area,danvilleareacommunitycollege,kodymorton4m2w,Kody Morton
+Feb 6,home,Camp,W,10-9,10,9,1,win,20240206_masr,5,0,2,1,0,0,2,0,2,0,0,0,0,0,3,1,,0,,,5,2024,2023-24,div2,Danville Area,danvilleareacommunitycollege,kodymorton4m2w,Kody Morton
+Feb 17,home,Lenoir,W,9-5,9,5,4,win,20240217_vi33,4,1,1,,,,0,,1,,,1,,,1,0,,,2,,5,2024,2023-24,div2,Danville Area,danvilleareacommunitycollege,kodymorton4m2w,Kody Morton
+Feb 18,home,Lenoir,W,11-3,11,3,8,win,20240218_j311,6,1,4,,,,1,,,1,,,,,4,0,,,,,6,2024,2023-24,div2,Danville Area,danvilleareacommunitycollege,kodymorton4m2w,Kody Morton
+Feb 21,home,Montgomery,W,11-10,11,10,1,win,20240221_33zc,4,3,2,1,,,0,1,,1,,,,,3,1,,,,,5,2024,2023-24,div2,Danville Area,danvilleareacommunitycollege,kodymorton4m2w,Kody Morton
+Feb 24,home,Pitt,W,11-5,11,5,6,win,20240224_h8pl,4,0,0,,,,0,1,1,,1,,,,0,0,,1,2,0.50,5,2024,2023-24,div2,Danville Area,danvilleareacommunitycollege,kodymorton4m2w,Kody Morton
+Feb 25,home,Pitt,W,12-10,12,10,2,win,20240225_znpp,3,1,1,1,,,2,2,1,,,,,,2,1,,1,,,5,2024,2023-24,div2,Danville Area,danvilleareacommunitycollege,kodymorton4m2w,Kody Morton
+Feb 25,home,Pitt,W,12-4,12,4,8,win,20240225_gu5q,2,2,0,,,,0,2,1,2,,1,,,0,0,,,1,,5,2024,2023-24,div2,Danville Area,danvilleareacommunitycollege,kodymorton4m2w,Kody Morton
+Mar 8,home,Fayetteville Tech,W,7-4,7,4,3,win,20240308_db2v,4,1,1,0,0,0,1,1,2,2,0,0,0,0,1,0,,0,,,5,2024,2023-24,div2,Danville Area,danvilleareacommunitycollege,kodymorton4m2w,Kody Morton
+Mar 29,home,Lenoir,W,3-2,3,2,1,win,20240329_b9hy,2,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,,0,,,3,2024,2023-24,div2,Danville Area,danvilleareacommunitycollege,kodymorton4m2w,Kody Morton
+Mar 30,home,Lenoir,W,6-2,6,2,4,win,20240330_ptmc,5,0,0,,,,0,,1,,,,,,0,0,,3,1,3.00,5,2024,2023-24,div2,Danville Area,danvilleareacommunitycollege,kodymorton4m2w,Kody Morton
+Apr 13,home,Southeastern-Whiteville,W,10-0,10,0,10,win,20240413_l4dt,2,1,0,0,0,0,1,0,1,0,0,0,1,0,0,0,,0,,,3,2024,2023-24,div2,Danville Area,danvilleareacommunitycollege,kodymorton4m2w,Kody Morton
+Apr 13,home,Southeastern-Whiteville,W,10-7,10,7,3,win,20240413_kun9,2,0,1,0,1,0,3,2,1,0,0,0,0,0,3,1,,0,,,4,2024,2023-24,div2,Danville Area,danvilleareacommunitycollege,kodymorton4m2w,Kody Morton
+Apr 21,home,Fayetteville Tech,W,11-1,11,1,10,win,20240421_qdww,3,1,1,0,0,0,0,0,2,1,0,1,0,0,1,0,,0,,,4,2024,2023-24,div2,Danville Area,danvilleareacommunitycollege,kodymorton4m2w,Kody Morton
+Apr 27,home,Brunswick,W,4-3,4,3,1,win,20240427_u6uh,3,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,,0,,,4,2024,2023-24,div2,Danville Area,danvilleareacommunitycollege,kodymorton4m2w,Kody Morton

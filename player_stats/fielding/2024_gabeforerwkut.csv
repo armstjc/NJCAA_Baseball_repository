@@ -1,19 +1,4 @@
 date,location,opponent,result,score,team_score,opp_score,game_score_diff,game_win_loss,game_id,TC,PO,A,E,FPCT,DP,SBA,RCS,RCS_PCT,PB,CI,season,njcaa_season,njcaa_division,team,team_id,player_id,player_name
-Jan 28,home,Arkansas State University - Three Rivers,W,5-0,5,0,5,win,20240128_qqo4,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div3,Dallas College - Eastfield,dallascollegeeastfield,gabeforerwkut,Gabe Forer
-Jan 29,home,Arkansas State University - Three Rivers,W,15-2,15,2,13,win,20240129_b13d,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div3,Dallas College - Eastfield,dallascollegeeastfield,gabeforerwkut,Gabe Forer
-Feb 3,home,Howard (TX),W,6-5,6,5,1,win,20240203_ogo0,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div3,Dallas College - Eastfield,dallascollegeeastfield,gabeforerwkut,Gabe Forer
-Feb 3,home,Howard (TX),L,12-7,12,7,5,win,20240203_bhhp,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div3,Dallas College - Eastfield,dallascollegeeastfield,gabeforerwkut,Gabe Forer
-Feb 13,home,Dallas College - Mountain View,W,15-2,15,2,13,win,20240213_4sph,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div3,Dallas College - Eastfield,dallascollegeeastfield,gabeforerwkut,Gabe Forer
-Feb 18,home,Des Moines Area,W,4-3,4,3,1,win,20240218_9ucp,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div3,Dallas College - Eastfield,dallascollegeeastfield,gabeforerwkut,Gabe Forer
-Feb 21,home,DFW Post Grad,W,16-13,16,13,3,win,20240221_brji,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div3,Dallas College - Eastfield,dallascollegeeastfield,gabeforerwkut,Gabe Forer
-Mar 4,home,Hill,L,8-7,8,7,1,win,20240304_6ve5,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div3,Dallas College - Eastfield,dallascollegeeastfield,gabeforerwkut,Gabe Forer
-Mar 6,home,Dallas College - Cedar Valley,W,11-1,11,1,10,win,20240306_r0jh,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div3,Dallas College - Eastfield,dallascollegeeastfield,gabeforerwkut,Gabe Forer
-Mar 9,home,Dallas College - Cedar Valley,W,3-1,3,1,2,win,20240309_tonr,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div3,Dallas College - Eastfield,dallascollegeeastfield,gabeforerwkut,Gabe Forer
-Mar 12,home,Joliet,W,10-7,10,7,3,win,20240312_du98,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div3,Dallas College - Eastfield,dallascollegeeastfield,gabeforerwkut,Gabe Forer
-Mar 18,home,Dallas Christian College JV,W,5-3,5,3,2,win,20240318_8zm0,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div3,Dallas College - Eastfield,dallascollegeeastfield,gabeforerwkut,Gabe Forer
-Mar 20,home,Dallas College - Richland,L,11-1,11,1,10,win,20240320_qt3s,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div3,Dallas College - Eastfield,dallascollegeeastfield,gabeforerwkut,Gabe Forer
-Mar 28,home,Dallas College - Mountain View,W,13-0,13,0,13,win,20240328_gpzz,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div3,Dallas College - Eastfield,dallascollegeeastfield,gabeforerwkut,Gabe Forer
-Mar 29,home,Dallas College - Mountain View,W,21-7,21,7,14,win,20240329_i9sw,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div3,Dallas College - Eastfield,dallascollegeeastfield,gabeforerwkut,Gabe Forer
-Apr 1,home,Arlington Baptist,W,17-2,17,2,15,win,20240401_9bd7,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div3,Dallas College - Eastfield,dallascollegeeastfield,gabeforerwkut,Gabe Forer
-Apr 5,home,Dallas College - North Lake,W,11-3,11,3,8,win,20240405_mb7r,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div3,Dallas College - Eastfield,dallascollegeeastfield,gabeforerwkut,Gabe Forer
-Apr 22,home,LeTourneau,W,22-4,22,4,18,win,20240422_us0s,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div3,Dallas College - Eastfield,dallascollegeeastfield,gabeforerwkut,Gabe Forer
+Apr 16,home,Salem,L,20-2,20,2,18,win,20240416_w2n9,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div3,Dallas College - Eastfield,dallascollegeeastfield,gabeforerwkut,Gabe Forer
+Apr 21,home,Bergen,L,20-1,20,1,19,win,20240421_6zls,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div3,Dallas College - Eastfield,dallascollegeeastfield,gabeforerwkut,Gabe Forer
+Apr 23,home,Salem,L,23-1,23,1,22,win,20240423_u99v,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div3,Dallas College - Eastfield,dallascollegeeastfield,gabeforerwkut,Gabe Forer

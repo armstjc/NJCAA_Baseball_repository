@@ -1,14 +1,20 @@
 date,location,opponent,result,score,team_score,opp_score,game_score_diff,game_win_loss,game_id,AB,R,H,2B,3B,HR,RBI,BB,K,SB,CS,HBP,SF,SH,TB,XBH,HDP,GO,FO,GO/FO,PA,season,njcaa_season,njcaa_division,team,team_id,player_id,player_name
-Feb 17,home,Monroe College - Bronx,W,9-4,9,4,5,win,20240217_1l9w,2,2,1,,,,2,1,1,,,,,,1,0,,,,,3,2024,2023-24,div3,Owens,owenscommunitycollege,jacksonbauer9xzt,Jackson Bauer
-Feb 17,home,Virginia Peninsula CC,W,19-14,19,14,5,win,20240217_jzdp,5,2,2,,,,0,,2,,,,,,2,0,,,,,5,2024,2023-24,div3,Owens,owenscommunitycollege,jacksonbauer9xzt,Jackson Bauer
-Mar 5,home,Mid Michigan,W,5-0,5,0,5,win,20240305_q8rz,2,0,1,,,,0,1,,,,,,,1,0,,,,,3,2024,2023-24,div3,Owens,owenscommunitycollege,jacksonbauer9xzt,Jackson Bauer
-Mar 16,home,Alpena,W,7-4,7,4,3,win,20240316_zyhu,3,0,1,0,0,0,0,0,1,0,0,0,0,0,1,0,,0,,,3,2024,2023-24,div3,Owens,owenscommunitycollege,jacksonbauer9xzt,Jackson Bauer
-Mar 24,home,Edison State,W,5-0,5,0,5,win,20240324_lsye,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0,,,3,2024,2023-24,div3,Owens,owenscommunitycollege,jacksonbauer9xzt,Jackson Bauer
-Mar 24,home,Edison State,W,6-4,6,4,2,win,20240324_jrf2,2,0,0,0,0,0,0,2,1,0,0,0,0,0,0,0,,0,,,4,2024,2023-24,div3,Owens,owenscommunitycollege,jacksonbauer9xzt,Jackson Bauer
-Mar 25,home,Edison State,W,12-1,12,1,11,win,20240325_4j6f,2,0,1,0,0,0,1,1,1,0,0,0,0,0,1,0,,0,,,3,2024,2023-24,div3,Owens,owenscommunitycollege,jacksonbauer9xzt,Jackson Bauer
-Mar 26,home,Rochester College,W,25-13,25,13,12,win,20240326_h70r,1,2,1,0,0,0,0,2,0,0,0,1,0,0,1,0,,0,,,4,2024,2023-24,div3,Owens,owenscommunitycollege,jacksonbauer9xzt,Jackson Bauer
-Mar 29,home,Clark State,W,7-3,7,3,4,win,20240329_zkkw,3,1,1,0,0,1,1,0,2,0,0,0,0,0,4,1,,0,,,3,2024,2023-24,div3,Owens,owenscommunitycollege,jacksonbauer9xzt,Jackson Bauer
-Apr 6,home,Spring Arbor,W,11-1,11,1,10,win,20240406_q3ow,2,1,0,0,0,0,1,1,0,0,0,0,0,0,0,0,,0,,,3,2024,2023-24,div3,Owens,owenscommunitycollege,jacksonbauer9xzt,Jackson Bauer
-Apr 7,home,Delta,W,7-6,7,6,1,win,20240407_hwta,3,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,,0,,,3,2024,2023-24,div3,Owens,owenscommunitycollege,jacksonbauer9xzt,Jackson Bauer
-Apr 9,home,Bryant & Stratton (OH),W,9-7,9,7,2,win,20240409_hs1i,3,0,0,,,,0,,3,,,,,,0,0,,,,,3,2024,2023-24,div3,Owens,owenscommunitycollege,jacksonbauer9xzt,Jackson Bauer
-Apr 14,home,Lorain County,W,9-1,9,1,8,win,20240414_38v4,0,0,0,,,,0,,,,,,,,0,0,,,,,0,2024,2023-24,div3,Owens,owenscommunitycollege,jacksonbauer9xzt,Jackson Bauer
+Mar 1,home,Minnesota North College - Mesabi Range,W,14-2,14,2,12,win,20240301_24ju,1,2,1,0,0,0,0,1,0,1,0,2,0,0,1,0,,0,,,4,2024,2023-24,div3,Owens,owenscommunitycollege,jacksonbauer9xzt,Jackson Bauer
+Mar 2,home,Penn State Fayette,W,26-10,26,10,16,win,20240302_vb5c,2,4,2,,,,2,3,,1,,1,,,2,0,,,,,6,2024,2023-24,div3,Owens,owenscommunitycollege,jacksonbauer9xzt,Jackson Bauer
+Mar 5,home,Lake Region State,W,12-2,12,2,10,win,20240305_6bsl,4,3,2,,,,1,2,1,,,1,,,2,0,,1,,,7,2024,2023-24,div3,Owens,owenscommunitycollege,jacksonbauer9xzt,Jackson Bauer
+Mar 15,home,Minnesota North College - Hibbing,W,11-1,11,1,10,win,20240315_2h0r,2,3,2,,,1,2,1,1,,,1,,,5,1,,,,,4,2024,2023-24,div3,Owens,owenscommunitycollege,jacksonbauer9xzt,Jackson Bauer
+Mar 29,home,Western Tech,W,6-3,6,3,3,win,20240329_q72g,3,2,0,,,,0,,1,1,,1,,,0,0,,1,,,4,2024,2023-24,div3,Owens,owenscommunitycollege,jacksonbauer9xzt,Jackson Bauer
+Mar 30,home,Western Tech,W,19-5,19,5,14,win,20240330_r4qf,3,3,2,,,,0,,,,,1,,,2,0,,,,,4,2024,2023-24,div3,Owens,owenscommunitycollege,jacksonbauer9xzt,Jackson Bauer
+Mar 30,home,Western Tech,W,13-8,13,8,5,win,20240330_bfma,3,1,1,1,,,0,2,,1,,,,,2,1,,1,1,1.00,5,2024,2023-24,div3,Owens,owenscommunitycollege,jacksonbauer9xzt,Jackson Bauer
+Apr 4,home,Minnesota North College - Rainy River,W,22-19,22,19,3,win,20240404_doa4,5,4,4,3,0,0,3,0,0,0,0,1,0,0,7,3,,0,,,6,2024,2023-24,div3,Owens,owenscommunitycollege,jacksonbauer9xzt,Jackson Bauer
+Apr 10,home,Minnesota North College - Mesabi Range,W,15-0,15,0,15,win,20240410_bteq,2,2,0,0,0,0,1,0,0,2,0,1,0,0,0,0,,0,,,3,2024,2023-24,div3,Owens,owenscommunitycollege,jacksonbauer9xzt,Jackson Bauer
+Apr 10,home,Minnesota North College - Mesabi Range,W,13-5,13,5,8,win,20240410_53k1,2,2,1,,,,1,1,,2,,1,1,,1,0,,,1,,5,2024,2023-24,div3,Owens,owenscommunitycollege,jacksonbauer9xzt,Jackson Bauer
+Apr 13,home,Minnesota North College - Hibbing,W,10-5,10,5,5,win,20240413_q5pj,3,1,2,,,,0,1,,,,,,,2,0,,,1,,4,2024,2023-24,div3,Owens,owenscommunitycollege,jacksonbauer9xzt,Jackson Bauer
+Apr 13,home,Minnesota North College - Hibbing,W,11-6,11,6,5,win,20240413_it93,4,1,2,,,,0,,1,2,,,,,2,0,,,1,,4,2024,2023-24,div3,Owens,owenscommunitycollege,jacksonbauer9xzt,Jackson Bauer
+Apr 20,home,Minnesota North College - Itasca,W,6-5,6,5,1,win,20240420_gz6t,2,1,2,1,,,1,2,,1,,,,,3,1,,,,,4,2024,2023-24,div3,Owens,owenscommunitycollege,jacksonbauer9xzt,Jackson Bauer
+Apr 21,home,Minnesota North College - Itasca,W,10-9,10,9,1,win,20240421_9mtp,3,2,0,,,,0,2,,,,,,,0,0,1,1,1,1.00,5,2024,2023-24,div3,Owens,owenscommunitycollege,jacksonbauer9xzt,Jackson Bauer
+Apr 25,home,Minnesota North College - Rainy River,W,8-5,8,5,3,win,20240425_xlt4,5,1,1,0,0,0,2,0,0,0,0,0,0,0,1,0,,0,,,5,2024,2023-24,div3,Owens,owenscommunitycollege,jacksonbauer9xzt,Jackson Bauer
+May 4,home,Minnesota North College - Mesabi Range,W,17-3,17,3,14,win,20240504_z7no,4,3,2,1,0,0,1,0,0,1,0,0,0,0,3,1,,0,,,4,2024,2023-24,div3,Owens,owenscommunitycollege,jacksonbauer9xzt,Jackson Bauer
+May 4,home,Minnesota North College - Mesabi Range,W,15-3,15,3,12,win,20240504_kph5,3,2,2,0,1,0,2,1,0,0,0,0,0,0,4,1,,0,,,4,2024,2023-24,div3,Owens,owenscommunitycollege,jacksonbauer9xzt,Jackson Bauer
+May 5,home,Minnesota North College - Mesabi Range,W,15-5,15,5,10,win,20240505_ecxc,5,2,3,2,0,0,4,0,0,2,0,0,0,0,5,2,,0,,,5,2024,2023-24,div3,Owens,owenscommunitycollege,jacksonbauer9xzt,Jackson Bauer
+May 5,home,Minnesota North College - Mesabi Range,W,18-8,18,8,10,win,20240505_8e8z,3,1,0,0,0,0,1,0,1,0,0,0,1,0,0,0,,0,,,4,2024,2023-24,div3,Owens,owenscommunitycollege,jacksonbauer9xzt,Jackson Bauer

@@ -1,16 +1,29 @@
 date,location,opponent,result,score,team_score,opp_score,game_score_diff,game_win_loss,game_id,AB,R,H,2B,3B,HR,RBI,BB,K,SB,CS,HBP,SF,SH,TB,XBH,HDP,GO,FO,GO/FO,PA,season,njcaa_season,njcaa_division,team,team_id,player_id,player_name
-Jan 31,home,Park University,W,10-0,10,0,10,win,20240131_ds3l,0,0,0,,,,0,,,,,,,,0,0,,,,,0,2024,2023-24,div2,Mesa,mesacommunitycollege,christianwoodwardtkic,Christian Woodward
-Feb 3,home,Grand Canyon University Club,W,7-2,7,2,5,win,20240203_kvme,0,0,0,,,,0,,,,,,,,0,0,,,,,0,2024,2023-24,div2,Mesa,mesacommunitycollege,christianwoodwardtkic,Christian Woodward
-Feb 16,home,Chandler-Gilbert,W,7-3,7,3,4,win,20240216_6erp,0,0,0,,,,0,,,,,,,,0,0,,,,,0,2024,2023-24,div2,Mesa,mesacommunitycollege,christianwoodwardtkic,Christian Woodward
-Feb 17,home,Chandler-Gilbert,W,6-5,6,5,1,win,20240217_oa2r,0,0,0,,,,0,,,,,,,,0,0,,,,,0,2024,2023-24,div2,Mesa,mesacommunitycollege,christianwoodwardtkic,Christian Woodward
-Feb 21,home,Phoenix,W,6-4,6,4,2,win,20240221_j99e,0,0,0,,,,0,,,,,,,,0,0,,,,,0,2024,2023-24,div2,Mesa,mesacommunitycollege,christianwoodwardtkic,Christian Woodward
-Feb 24,home,Arizona Christian University,W,3-2,3,2,1,win,20240224_rriv,0,0,0,,,,0,,,,,,,,0,0,,,,,0,2024,2023-24,div2,Mesa,mesacommunitycollege,christianwoodwardtkic,Christian Woodward
-Feb 27,home,GateWay (AZ),W,11-9,11,9,2,win,20240227_xj9b,0,0,0,,,,0,,,,,,,,0,0,,,,,0,2024,2023-24,div2,Mesa,mesacommunitycollege,christianwoodwardtkic,Christian Woodward
-Mar 2,home,Scottsdale,W,3-1,3,1,2,win,20240302_6f3p,0,0,0,,,,0,,,,,,,,0,0,,,,,0,2024,2023-24,div2,Mesa,mesacommunitycollege,christianwoodwardtkic,Christian Woodward
-Mar 8,home,Madison,W,6-4,6,4,2,win,20240308_0gzp,0,0,0,,,,0,,,,,,,,0,0,,,,,0,2024,2023-24,div2,Mesa,mesacommunitycollege,christianwoodwardtkic,Christian Woodward
-Mar 12,home,Paradise Valley,W,3-1,3,1,2,win,20240312_6mb6,0,0,0,,,,0,,,,,,,,0,0,,,,,0,2024,2023-24,div2,Mesa,mesacommunitycollege,christianwoodwardtkic,Christian Woodward
-Mar 13,home,Paradise Valley,W,6-4,6,4,2,win,20240313_mpjg,0,0,0,,,,0,,,,,,,,0,0,,,,,0,2024,2023-24,div2,Mesa,mesacommunitycollege,christianwoodwardtkic,Christian Woodward
-Mar 30,home,Central Arizona,W,5-3,5,3,2,win,20240330_bnwe,0,0,0,,,,0,,,,,,,,0,0,,,,,0,2024,2023-24,div2,Mesa,mesacommunitycollege,christianwoodwardtkic,Christian Woodward
-Apr 3,home,Cochise,W,4-1,4,1,3,win,20240403_sdre,0,0,0,,,,0,,,,,,,,0,0,,,,,0,2024,2023-24,div2,Mesa,mesacommunitycollege,christianwoodwardtkic,Christian Woodward
-Apr 5,home,Paradise Valley,W,8-2,8,2,6,win,20240405_czcf,0,0,0,,,,0,,,,,,,,0,0,,,,,0,2024,2023-24,div2,Mesa,mesacommunitycollege,christianwoodwardtkic,Christian Woodward
-Apr 12,home,Chandler-Gilbert,W,3-2,3,2,1,win,20240412_kbyt,0,0,0,,,,0,,,,,,,,0,0,,,,,0,2024,2023-24,div2,Mesa,mesacommunitycollege,christianwoodwardtkic,Christian Woodward
+Jan 26,home,Arizona Christian University,W,11-1,11,1,10,win,20240126_df24,1,2,1,,,,0,2,,1,,,,,1,0,,,,,3,2024,2023-24,div2,Mesa,mesacommunitycollege,christianwoodwardtkic,Christian Woodward
+Jan 27,home,Arizona Christian University,W,6-3,6,3,3,win,20240127_y1sh,3,0,0,,,,0,,,,,,,,0,0,,,,,3,2024,2023-24,div2,Mesa,mesacommunitycollege,christianwoodwardtkic,Christian Woodward
+Jan 31,home,Park University,W,10-0,10,0,10,win,20240131_ds3l,5,2,1,,1,,1,,,,,,,,3,1,,,,,5,2024,2023-24,div2,Mesa,mesacommunitycollege,christianwoodwardtkic,Christian Woodward
+Feb 3,home,Grand Canyon University Club,W,5-4,5,4,1,win,20240203_q2av,5,0,1,,,,2,,,1,,,,,1,0,,,,,5,2024,2023-24,div2,Mesa,mesacommunitycollege,christianwoodwardtkic,Christian Woodward
+Feb 14,home,Glendale,W,11-1,11,1,10,win,20240214_8tfs,4,3,1,,,,1,1,,,,,,,1,0,,1,1,1.00,5,2024,2023-24,div2,Mesa,mesacommunitycollege,christianwoodwardtkic,Christian Woodward
+Feb 16,home,Chandler-Gilbert,W,7-3,7,3,4,win,20240216_6erp,5,1,2,,,,0,,,,,,,,2,0,,,,,5,2024,2023-24,div2,Mesa,mesacommunitycollege,christianwoodwardtkic,Christian Woodward
+Feb 17,home,Chandler-Gilbert,W,6-5,6,5,1,win,20240217_oa2r,7,1,1,,,,0,,2,1,,,,,1,0,,,,,7,2024,2023-24,div2,Mesa,mesacommunitycollege,christianwoodwardtkic,Christian Woodward
+Feb 18,home,Thompson River,W,5-4,5,4,1,win,20240218_hd2c,1,0,0,,,,0,,,,,,,,0,0,,,,,1,2024,2023-24,div2,Mesa,mesacommunitycollege,christianwoodwardtkic,Christian Woodward
+Feb 20,home,Phoenix,W,10-6,10,6,4,win,20240220_rwx8,5,1,2,,,,0,1,,,,,,,2,0,,,,,6,2024,2023-24,div2,Mesa,mesacommunitycollege,christianwoodwardtkic,Christian Woodward
+Feb 21,home,Phoenix,W,6-4,6,4,2,win,20240221_j99e,5,1,1,,,,0,,1,2,,,,,1,0,,,,,5,2024,2023-24,div2,Mesa,mesacommunitycollege,christianwoodwardtkic,Christian Woodward
+Feb 24,home,Arizona Christian University,W,3-2,3,2,1,win,20240224_rriv,3,1,0,,,,0,1,,,,,,,0,0,,,,,4,2024,2023-24,div2,Mesa,mesacommunitycollege,christianwoodwardtkic,Christian Woodward
+Feb 27,home,GateWay (AZ),W,11-9,11,9,2,win,20240227_xj9b,3,1,1,,,,1,3,,1,,,,,1,0,,,,,6,2024,2023-24,div2,Mesa,mesacommunitycollege,christianwoodwardtkic,Christian Woodward
+Mar 2,home,Scottsdale,W,3-1,3,1,2,win,20240302_6f3p,3,1,2,,,,0,,,,,1,,1,2,0,,,,,5,2024,2023-24,div2,Mesa,mesacommunitycollege,christianwoodwardtkic,Christian Woodward
+Mar 12,home,Paradise Valley,W,3-1,3,1,2,win,20240312_6mb6,4,0,1,,,,0,,1,1,,,,,1,0,,,,,4,2024,2023-24,div2,Mesa,mesacommunitycollege,christianwoodwardtkic,Christian Woodward
+Mar 13,home,Paradise Valley,W,6-4,6,4,2,win,20240313_mpjg,5,0,0,,,,0,,2,,,,,,0,0,,2,,,5,2024,2023-24,div2,Mesa,mesacommunitycollege,christianwoodwardtkic,Christian Woodward
+Mar 18,home,Grand Canyon University Club,W,8-1,8,1,7,win,20240318_bkez,2,1,1,,,,0,,,,,,,,1,0,,,,,2,2024,2023-24,div2,Mesa,mesacommunitycollege,christianwoodwardtkic,Christian Woodward
+Mar 19,home,South Mountain,W,4-3,4,3,1,win,20240319_albu,2,0,1,,,,0,2,,1,,,,,1,0,,1,,,4,2024,2023-24,div2,Mesa,mesacommunitycollege,christianwoodwardtkic,Christian Woodward
+Mar 30,home,Central Arizona,W,5-3,5,3,2,win,20240330_bnwe,4,1,1,,,,0,1,,,,,,,1,0,,,,,5,2024,2023-24,div2,Mesa,mesacommunitycollege,christianwoodwardtkic,Christian Woodward
+Apr 3,home,Cochise,W,4-1,4,1,3,win,20240403_sdre,3,1,2,,,,3,,,1,,,,,2,0,,,,,3,2024,2023-24,div2,Mesa,mesacommunitycollege,christianwoodwardtkic,Christian Woodward
+Apr 3,home,Cochise,W,6-0,6,0,6,win,20240403_mg1n,2,0,1,,,,2,1,,,1,,,1,1,0,,,,,4,2024,2023-24,div2,Mesa,mesacommunitycollege,christianwoodwardtkic,Christian Woodward
+Apr 5,home,Paradise Valley,W,8-2,8,2,6,win,20240405_czcf,5,0,2,,1,,0,,,,,,,,4,1,,,,,5,2024,2023-24,div2,Mesa,mesacommunitycollege,christianwoodwardtkic,Christian Woodward
+Apr 9,home,Glendale,W,9-3,9,3,6,win,20240409_14oi,4,1,3,1,,,0,,,,1,,,1,4,1,,,,,5,2024,2023-24,div2,Mesa,mesacommunitycollege,christianwoodwardtkic,Christian Woodward
+Apr 10,home,Glendale,W,11-0,11,0,11,win,20240410_y1n8,6,3,4,,,,0,,,,,,,,4,0,,,,,6,2024,2023-24,div2,Mesa,mesacommunitycollege,christianwoodwardtkic,Christian Woodward
+Apr 12,home,Chandler-Gilbert,W,3-2,3,2,1,win,20240412_kbyt,2,1,0,,,,1,1,1,,,,,1,0,0,,,,,4,2024,2023-24,div2,Mesa,mesacommunitycollege,christianwoodwardtkic,Christian Woodward
+Apr 16,home,Phoenix,W,3-2,3,2,1,win,20240416_x5uk,3,0,0,,,,0,1,,,,,,,0,0,,,,,4,2024,2023-24,div2,Mesa,mesacommunitycollege,christianwoodwardtkic,Christian Woodward
+Apr 17,home,Phoenix,W,11-9,11,9,2,win,20240417_vkp4,4,1,2,,,,2,1,,1,1,,,1,2,0,,,,,6,2024,2023-24,div2,Mesa,mesacommunitycollege,christianwoodwardtkic,Christian Woodward
+Apr 20,home,Park University,W,21-7,21,7,14,win,20240420_sti5,2,2,2,,,,0,1,,1,,,,,2,0,,,,,3,2024,2023-24,div2,Mesa,mesacommunitycollege,christianwoodwardtkic,Christian Woodward
+Apr 27,home,Scottsdale,W,5-1,5,1,4,win,20240427_f8xf,3,1,1,,,,0,,,,,,,1,1,0,,,,,4,2024,2023-24,div2,Mesa,mesacommunitycollege,christianwoodwardtkic,Christian Woodward

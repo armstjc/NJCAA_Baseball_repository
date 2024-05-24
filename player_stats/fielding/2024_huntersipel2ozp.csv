@@ -1,10 +1,45 @@
 date,location,opponent,result,score,team_score,opp_score,game_score_diff,game_win_loss,game_id,TC,PO,A,E,FPCT,DP,SBA,RCS,RCS_PCT,PB,CI,season,njcaa_season,njcaa_division,team,team_id,player_id,player_name
-Mar 2,home,Edison State,L,11-3,11,3,8,win,20240302_j5bx,0,0,0,0,4.0,6,5,4,9.00,2.50,4,2024,2023-24,div2,Cecil,cecilcollege,huntersipel2ozp,Hunter Sipel
-Mar 7,home,Northampton,L,13-6,13,6,7,win,20240307_ax4z,1,0,1,0,2.0,4,6,5,22.50,4.50,5,2024,2023-24,div2,Cecil,cecilcollege,huntersipel2ozp,Hunter Sipel
-Mar 21,home,Jackson,L,5-4,5,4,1,win,20240321_0m4d,0,0,1,0,1.2,3,1,1,5.40,3.60,3,2024,2023-24,div2,Cecil,cecilcollege,huntersipel2ozp,Hunter Sipel
-Mar 29,home,Mott,L,13-4,13,4,9,win,20240329_aagc,0,0,0,0,3.1,5,3,2,5.40,2.10,2,2024,2023-24,div2,Cecil,cecilcollege,huntersipel2ozp,Hunter Sipel
-Apr 7,home,Henry Ford,L,3-2,3,2,1,win,20240407_05xc,0,0,1,0,1.0,1,1,,0.00,2.00,1,2024,2023-24,div2,Cecil,cecilcollege,huntersipel2ozp,Hunter Sipel
-Apr 9,home,Concordia University JV,L,7-3,7,3,4,win,20240409_x88w,1,0,1,0,2.0,5,4,4,18.00,3.00,1,2024,2023-24,div2,Cecil,cecilcollege,huntersipel2ozp,Hunter Sipel
-Apr 14,home,Jackson,L,11-3,11,3,8,win,20240414_o0jg,0,0,0,0,2.0,4,5,5,22.50,3.00,2,2024,2023-24,div2,Cecil,cecilcollege,huntersipel2ozp,Hunter Sipel
-Apr 20,home,Schoolcraft,L,8-4,8,4,4,win,20240420_gqaq,1,0,1,0,1.1,6,7,7,47.25,6.00,2,2024,2023-24,div2,Cecil,cecilcollege,huntersipel2ozp,Hunter Sipel
-May 2,home,Macomb,L,11-0,11,0,11,win,20240502_o0vv,0,0,0,0,2.1,7,7,7,27.00,3.86,2,2024,2023-24,div2,Cecil,cecilcollege,huntersipel2ozp,Hunter Sipel
+Feb 16,home,Delaware Tech,L,9-8,9,8,1,win,20240216_alv0,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Cecil,cecilcollege,huntersipel2ozp,Hunter Sipel
+Feb 16,home,Delaware Tech,W,8-4,8,4,4,win,20240216_zutf,1,1,0,0,6.0,4,4,3,4.50,.67,0,2024,2023-24,div2,Cecil,cecilcollege,huntersipel2ozp,Hunter Sipel
+Feb 24,home,Westchester,L,8-5,8,5,3,win,20240224_ruy1,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Cecil,cecilcollege,huntersipel2ozp,Hunter Sipel
+Feb 24,home,Westchester,L,7-5,7,5,2,win,20240224_qtie,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Cecil,cecilcollege,huntersipel2ozp,Hunter Sipel
+Feb 25,home,Westchester,L,6-2,6,2,4,win,20240225_b4ha,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Cecil,cecilcollege,huntersipel2ozp,Hunter Sipel
+Feb 25,home,Westchester,L,11-5,11,5,6,win,20240225_q0ma,1,0,0,0,4.0,5,4,1,2.25,1.50,1,2024,2023-24,div2,Cecil,cecilcollege,huntersipel2ozp,Hunter Sipel
+Mar 3,home,Morris,W,15-5,15,5,10,win,20240303_87ao,0,1,0,0,4.0,1,,,0.00,.75,2,2024,2023-24,div2,Cecil,cecilcollege,huntersipel2ozp,Hunter Sipel
+Mar 3,home,Morris,W,7-0,7,0,7,win,20240303_ok25,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Cecil,cecilcollege,huntersipel2ozp,Hunter Sipel
+Mar 7,home,Chesapeake,L,7-2,7,2,5,win,20240307_5nl1,1,0,1,0,4.0,6,5,3,6.75,1.75,1,2024,2023-24,div2,Cecil,cecilcollege,huntersipel2ozp,Hunter Sipel
+Mar 14,home,Finger Lakes,W,9-8,9,8,1,win,20240314_cemy,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Cecil,cecilcollege,huntersipel2ozp,Hunter Sipel
+Mar 14,home,Finger Lakes,L,10-8,10,8,2,win,20240314_6xds,0,0,0,0,2.0,2,2,1,4.50,1.00,,2024,2023-24,div2,Cecil,cecilcollege,huntersipel2ozp,Hunter Sipel
+Mar 16,home,Allegany Maryland,L,2-1,2,1,1,win,20240316_flk6,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Cecil,cecilcollege,huntersipel2ozp,Hunter Sipel
+Mar 16,home,Allegany Maryland,W,15-6,15,6,9,win,20240316_p6jt,0,1,0,0,5.0,7,5,1,1.80,1.60,1,2024,2023-24,div2,Cecil,cecilcollege,huntersipel2ozp,Hunter Sipel
+Mar 20,home,CCBC Catonsville,L,10-5,10,5,5,win,20240320_ai0g,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Cecil,cecilcollege,huntersipel2ozp,Hunter Sipel
+Mar 20,home,CCBC Catonsville,L,15-2,15,2,13,win,20240320_pxo9,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Cecil,cecilcollege,huntersipel2ozp,Hunter Sipel
+Mar 22,home,Montgomery,L,9-4,9,4,5,win,20240322_ddmt,1,0,1,0,6.0,10,9,2,3.00,2.00,2,2024,2023-24,div2,Cecil,cecilcollege,huntersipel2ozp,Hunter Sipel
+Mar 22,home,Montgomery,L,3-0,3,0,3,win,20240322_t860,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Cecil,cecilcollege,huntersipel2ozp,Hunter Sipel
+Mar 24,home,Potomac State,L,10-0,10,0,10,win,20240324_1fa1,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Cecil,cecilcollege,huntersipel2ozp,Hunter Sipel
+Mar 24,home,Potomac State,W,9-5,9,5,4,win,20240324_yx2j,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Cecil,cecilcollege,huntersipel2ozp,Hunter Sipel
+Mar 28,home,Hagerstown,L,10-7,10,7,3,win,20240328_kupy,1,0,1,0,4.0,7,7,7,15.75,3.75,8,2024,2023-24,div2,Cecil,cecilcollege,huntersipel2ozp,Hunter Sipel
+Mar 28,home,Hagerstown,W,6-3,6,3,3,win,20240328_3x0e,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Cecil,cecilcollege,huntersipel2ozp,Hunter Sipel
+Mar 29,home,CCBC Dundalk,L,12-0,12,0,12,win,20240329_nwcq,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Cecil,cecilcollege,huntersipel2ozp,Hunter Sipel
+Mar 29,home,CCBC Dundalk,W,17-6,17,6,11,win,20240329_to8g,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Cecil,cecilcollege,huntersipel2ozp,Hunter Sipel
+Apr 4,home,Harford,L,20-4,20,4,16,win,20240404_x1gl,1,0,1,0,2.0,6,10,2,9.00,4.50,3,2024,2023-24,div2,Cecil,cecilcollege,huntersipel2ozp,Hunter Sipel
+Apr 4,home,Harford,L,7-4,7,4,3,win,20240404_xvbu,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Cecil,cecilcollege,huntersipel2ozp,Hunter Sipel
+Apr 9,home,Frederick,L,8-4,8,4,4,win,20240409_3xqu,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Cecil,cecilcollege,huntersipel2ozp,Hunter Sipel
+Apr 9,home,Frederick,L,7-1,7,1,6,win,20240409_bvog,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Cecil,cecilcollege,huntersipel2ozp,Hunter Sipel
+Apr 13,home,CCBC Essex,W,27-17,27,17,10,win,20240413_9slv,1,0,0,0,3.1,7,10,10,27.00,3.00,3,2024,2023-24,div2,Cecil,cecilcollege,huntersipel2ozp,Hunter Sipel
+Apr 13,home,CCBC Essex,L,12-9,12,9,3,win,20240413_qcul,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Cecil,cecilcollege,huntersipel2ozp,Hunter Sipel
+Apr 14,home,Anne Arundel,L,9-1,9,1,8,win,20240414_ti46,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Cecil,cecilcollege,huntersipel2ozp,Hunter Sipel
+Apr 17,home,Prince George's,L,11-1,11,1,10,win,20240417_l8yc,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Cecil,cecilcollege,huntersipel2ozp,Hunter Sipel
+Apr 17,home,Prince George's,L,14-7,14,7,7,win,20240417_d43x,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Cecil,cecilcollege,huntersipel2ozp,Hunter Sipel
+Apr 20,home,Westmoreland,W,5-3,5,3,2,win,20240420_0r7d,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Cecil,cecilcollege,huntersipel2ozp,Hunter Sipel
+Apr 20,home,Westmoreland,L,6-3,6,3,3,win,20240420_28w4,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Cecil,cecilcollege,huntersipel2ozp,Hunter Sipel
+Apr 21,home,Garrett,L,11-1,11,1,10,win,20240421_clk1,1,0,1,0,3.1,3,7,5,13.50,1.50,2,2024,2023-24,div2,Cecil,cecilcollege,huntersipel2ozp,Hunter Sipel
+Apr 24,home,Mercer County,L,20-0,20,0,20,win,20240424_mlsi,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Cecil,cecilcollege,huntersipel2ozp,Hunter Sipel
+Apr 27,home,Potomac State,L,5-0,5,0,5,win,20240427_qq0y,0,0,0,0,3.0,2,2,1,3.00,1.33,2,2024,2023-24,div2,Cecil,cecilcollege,huntersipel2ozp,Hunter Sipel
+Apr 27,home,Potomac State,L,11-6,11,6,5,win,20240427_vy2m,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Cecil,cecilcollege,huntersipel2ozp,Hunter Sipel
+Apr 28,home,Morris,L,8-7,8,7,1,win,20240428_auj1,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Cecil,cecilcollege,huntersipel2ozp,Hunter Sipel
+Apr 28,home,Morris,L,12-6,12,6,6,win,20240428_jg0r,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Cecil,cecilcollege,huntersipel2ozp,Hunter Sipel
+Apr 30,home,Southern Maryland,L,5-2,5,2,3,win,20240430_jnwd,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Cecil,cecilcollege,huntersipel2ozp,Hunter Sipel
+Apr 30,home,Southern Maryland,L,5-3,5,3,2,win,20240430_5ob0,1,0,1,0,5.0,6,5,2,3.60,2.00,4,2024,2023-24,div2,Cecil,cecilcollege,huntersipel2ozp,Hunter Sipel
+May 2,home,Mercer County,L,6-5,6,5,1,win,20240502_ldn3,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Cecil,cecilcollege,huntersipel2ozp,Hunter Sipel
+May 2,home,Mercer County,L,12-7,12,7,5,win,20240502_00yi,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Cecil,cecilcollege,huntersipel2ozp,Hunter Sipel

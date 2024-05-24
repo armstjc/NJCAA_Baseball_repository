@@ -1,18 +1,24 @@
 date,location,opponent,result,score,team_score,opp_score,game_score_diff,game_win_loss,game_id,AB,R,H,2B,3B,HR,RBI,BB,K,SB,CS,HBP,SF,SH,TB,XBH,HDP,GO,FO,GO/FO,PA,season,njcaa_season,njcaa_division,team,team_id,player_id,player_name
-Feb 25,home,Orange County,W,15-0,15,0,15,win,20240225_rbsg,3,2,2,,1,,1,1,,1,,1,,,4,1,,,,,5,2024,2023-24,div3,Middlesex College,middlesexcollege,brettlukachyknpto,Brett Lukachyk
-Feb 25,home,Orange County,W,24-6,24,6,18,win,20240225_72fr,3,3,3,1,,,1,,,1,,1,,,4,1,,,,,4,2024,2023-24,div3,Middlesex College,middlesexcollege,brettlukachyknpto,Brett Lukachyk
-Mar 1,home,RCSJ Gloucester,W,6-2,6,2,4,win,20240301_gyr9,2,1,1,,,,0,2,,,,,,,1,0,,,,,4,2024,2023-24,div3,Middlesex College,middlesexcollege,brettlukachyknpto,Brett Lukachyk
-Mar 11,home,Illinois Valley,W,4-3,4,3,1,win,20240311_chjz,3,0,0,,,,0,,1,,,,,,0,0,,,,,3,2024,2023-24,div3,Middlesex College,middlesexcollege,brettlukachyknpto,Brett Lukachyk
-Mar 22,home,RCSJ Cumberland,W,8-7,8,7,1,win,20240322_0w28,4,2,1,,,,0,,,,,,,1,1,0,,,,,5,2024,2023-24,div3,Middlesex College,middlesexcollege,brettlukachyknpto,Brett Lukachyk
-Mar 24,home,RCSJ Cumberland,W,7-5,7,5,2,win,20240324_hpf1,1,1,1,,,,1,3,,,1,,,,1,0,,,,,4,2024,2023-24,div3,Middlesex College,middlesexcollege,brettlukachyknpto,Brett Lukachyk
-Mar 27,home,Northampton,W,7-2,7,2,5,win,20240327_g1kg,4,0,0,,,,1,,1,,,,,,0,0,,,,,4,2024,2023-24,div3,Middlesex College,middlesexcollege,brettlukachyknpto,Brett Lukachyk
-Mar 30,home,Ocean County,W,8-5,8,5,3,win,20240330_6ygj,4,1,2,,,,1,,,1,,,,,2,0,,,,,4,2024,2023-24,div3,Middlesex College,middlesexcollege,brettlukachyknpto,Brett Lukachyk
-Apr 6,home,Lehigh Carbon,W,6-1,6,1,5,win,20240406_ahlo,3,0,0,,,,0,1,1,1,,,,,0,0,,,,,4,2024,2023-24,div3,Middlesex College,middlesexcollege,brettlukachyknpto,Brett Lukachyk
-Apr 7,home,Salem,W,5-2,5,2,3,win,20240407_0ste,3,1,1,1,,,2,,1,1,,,1,,2,1,,,,,4,2024,2023-24,div3,Middlesex College,middlesexcollege,brettlukachyknpto,Brett Lukachyk
-Apr 7,home,Salem,W,16-8,16,8,8,win,20240407_h157,3,2,1,,1,,1,1,1,,,,,,3,1,,,,,4,2024,2023-24,div3,Middlesex College,middlesexcollege,brettlukachyknpto,Brett Lukachyk
-Apr 9,home,Salem,W,6-5,6,5,1,win,20240409_7six,4,2,1,1,,,1,1,1,,,,,,2,1,,,,,5,2024,2023-24,div3,Middlesex College,middlesexcollege,brettlukachyknpto,Brett Lukachyk
-Apr 10,home,Bronx,W,17-5,17,5,12,win,20240410_asfy,2,1,1,1,,,2,2,,1,,,1,,2,1,,,,,5,2024,2023-24,div3,Middlesex College,middlesexcollege,brettlukachyknpto,Brett Lukachyk
-Apr 14,home,Lehigh Carbon,W,6-5,6,5,1,win,20240414_gipv,5,1,1,,,,0,,,1,,,,,1,0,,,,,5,2024,2023-24,div3,Middlesex College,middlesexcollege,brettlukachyknpto,Brett Lukachyk
-Apr 16,home,Montgomery County,W,4-1,4,1,3,win,20240416_ibya,4,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,,0,,,4,2024,2023-24,div3,Middlesex College,middlesexcollege,brettlukachyknpto,Brett Lukachyk
-May 11,home,RCSJ Cumberland,W,7-6,7,6,1,win,20240511_hnbj,5,1,1,,,1,1,1,1,,,,,,4,1,,,,,6,2024,2023-24,div3,Middlesex College,middlesexcollege,brettlukachyknpto,Brett Lukachyk
-May 11,home,RCSJ Cumberland,W,15-7,15,7,8,win,20240511_99pi,3,1,0,,,,3,2,,2,,,,,0,0,,,,,5,2024,2023-24,div3,Middlesex College,middlesexcollege,brettlukachyknpto,Brett Lukachyk
+Mar 3,home,Raritan Valley,W,13-2,13,2,11,win,20240303_tss8,1,0,0,,,,0,,,,,,,,0,0,,,,,1,2024,2023-24,div3,Middlesex College,middlesexcollege,brettlukachyknpto,Brett Lukachyk
+Mar 8,home,Jamestown,W,6-0,6,0,6,win,20240308_hp7b,1,0,0,,,,0,,,,,,,,0,0,,,1,,1,2024,2023-24,div3,Middlesex College,middlesexcollege,brettlukachyknpto,Brett Lukachyk
+Mar 8,home,Jamestown,W,6-1,6,1,5,win,20240308_ifyo,2,0,1,,,,1,1,1,,,,,,1,0,,,,,3,2024,2023-24,div3,Middlesex College,middlesexcollege,brettlukachyknpto,Brett Lukachyk
+Mar 9,home,Jamestown,W,3-2,3,2,1,win,20240309_b672,1,0,1,,,,0,,,,,,,,1,0,,,,,1,2024,2023-24,div3,Middlesex College,middlesexcollege,brettlukachyknpto,Brett Lukachyk
+Mar 9,home,Jamestown,W,6-5,6,5,1,win,20240309_s9kx,1,0,0,,,,1,,,,,,,,0,0,,,,,1,2024,2023-24,div3,Middlesex College,middlesexcollege,brettlukachyknpto,Brett Lukachyk
+Mar 17,home,Northern Essex,W,13-4,13,4,9,win,20240317_drpj,3,2,0,,,,1,1,,,,,,1,0,0,,1,2,0.50,5,2024,2023-24,div3,Middlesex College,middlesexcollege,brettlukachyknpto,Brett Lukachyk
+Mar 22,home,Queensborough,W,30-3,30,3,27,win,20240322_mbjs,5,2,1,1,,,1,1,2,1,,,,,2,1,,,1,,6,2024,2023-24,div3,Middlesex College,middlesexcollege,brettlukachyknpto,Brett Lukachyk
+Mar 27,home,Monroe College JV,W,14-1,14,1,13,win,20240327_g4yf,1,0,0,,,,0,,1,,,,,,0,0,,,,,1,2024,2023-24,div3,Middlesex College,middlesexcollege,brettlukachyknpto,Brett Lukachyk
+Mar 29,home,Monroe College JV,W,22-3,22,3,19,win,20240329_pkj3,2,0,0,,,,0,,2,,,,,,0,0,,,,,2,2024,2023-24,div3,Middlesex College,middlesexcollege,brettlukachyknpto,Brett Lukachyk
+Apr 5,home,Nassau,W,12-2,12,2,10,win,20240405_88m3,4,1,2,1,,,1,,,,,,,,3,1,,1,1,1.00,4,2024,2023-24,div3,Middlesex College,middlesexcollege,brettlukachyknpto,Brett Lukachyk
+Apr 6,home,Nassau,W,11-2,11,2,9,win,20240406_ruqv,3,2,1,1,,,0,1,,,,,,,2,1,,1,1,1.00,4,2024,2023-24,div3,Middlesex College,middlesexcollege,brettlukachyknpto,Brett Lukachyk
+Apr 13,home,Monroe College - Bronx,W,4-3,4,3,1,win,20240413_kahd,0,0,0,,,,0,,,,1,,,,0,0,,,,,0,2024,2023-24,div3,Middlesex College,middlesexcollege,brettlukachyknpto,Brett Lukachyk
+Apr 13,home,Monroe College - Bronx,W,13-2,13,2,11,win,20240413_xe05,1,2,1,,,,0,2,,1,,,,,1,0,,,,,3,2024,2023-24,div3,Middlesex College,middlesexcollege,brettlukachyknpto,Brett Lukachyk
+Apr 15,home,Nassau,W,13-8,13,8,5,win,20240415_0305,4,0,0,,,,0,1,2,1,,,,,0,0,,1,2,0.50,5,2024,2023-24,div3,Middlesex College,middlesexcollege,brettlukachyknpto,Brett Lukachyk
+Apr 16,home,Borough of Manhattan,W,24-11,24,11,13,win,20240416_9jkp,2,2,0,,,,1,1,1,,,,,,0,0,,1,,,3,2024,2023-24,div3,Middlesex College,middlesexcollege,brettlukachyknpto,Brett Lukachyk
+Apr 19,home,Borough of Manhattan,W,15-5,15,5,10,win,20240419_gxx6,1,0,0,,,,0,,,,,2,,,0,0,,,1,,3,2024,2023-24,div3,Middlesex College,middlesexcollege,brettlukachyknpto,Brett Lukachyk
+Apr 23,home,Kingsborough,W,5-1,5,1,4,win,20240423_sufh,2,0,0,,,,1,1,,,,,,,0,0,,,2,,3,2024,2023-24,div3,Middlesex College,middlesexcollege,brettlukachyknpto,Brett Lukachyk
+Apr 26,home,Kingsborough,W,20-1,20,1,19,win,20240426_bafl,1,1,1,,,,0,,,,,,,,1,0,,,,,1,2024,2023-24,div3,Middlesex College,middlesexcollege,brettlukachyknpto,Brett Lukachyk
+Apr 27,home,Kingsborough,W,12-8,12,8,4,win,20240427_oh17,0,1,0,,,,0,,,1,,,,,0,0,,,,,0,2024,2023-24,div3,Middlesex College,middlesexcollege,brettlukachyknpto,Brett Lukachyk
+Apr 28,home,Borough of Manhattan,W,19-5,19,5,14,win,20240428_to3v,4,1,1,1,,,2,,1,,,,,,2,1,,2,,,4,2024,2023-24,div3,Middlesex College,middlesexcollege,brettlukachyknpto,Brett Lukachyk
+Apr 30,home,Bronx,W,23-1,23,1,22,win,20240430_n5yv,2,1,0,,,,0,2,2,1,,,,,0,0,,,,,4,2024,2023-24,div3,Middlesex College,middlesexcollege,brettlukachyknpto,Brett Lukachyk
+May 4,home,Bronx,W,10-1,10,1,9,win,20240504_kger,2,0,0,,,,0,1,,,,,,,0,0,,1,1,1.00,3,2024,2023-24,div3,Middlesex College,middlesexcollege,brettlukachyknpto,Brett Lukachyk
+May 11,home,Nassau,W,3-2,3,2,1,win,20240511_i0zf,3,2,2,,,,0,1,,1,,,,,2,0,,,1,,4,2024,2023-24,div3,Middlesex College,middlesexcollege,brettlukachyknpto,Brett Lukachyk

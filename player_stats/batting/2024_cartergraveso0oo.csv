@@ -1,13 +1,20 @@
 date,location,opponent,result,score,team_score,opp_score,game_score_diff,game_win_loss,game_id,AB,R,H,2B,3B,HR,RBI,BB,K,SB,CS,HBP,SF,SH,TB,XBH,HDP,GO,FO,GO/FO,PA,season,njcaa_season,njcaa_division,team,team_id,player_id,player_name
-Feb 20,home,Hendrix College JV,W,12-7,12,7,5,win,20240220_jqi1,1,0,0,,,,0,,,,,,,,0,0,,,,,1,2024,2023-24,div3,North Arkansas,northarkansascollege,cartergraveso0oo,Carter Graves
-Feb 26,home,Western Tech,W,12-1,12,1,11,win,20240226_07o5,1,0,0,,,,0,,1,,,,,,0,0,,,,,1,2024,2023-24,div3,North Arkansas,northarkansascollege,cartergraveso0oo,Carter Graves
-Mar 1,home,Western Tech,W,7-2,7,2,5,win,20240301_39h3,1,0,0,,,,0,,1,,,,,,0,0,,,,,1,2024,2023-24,div3,North Arkansas,northarkansascollege,cartergraveso0oo,Carter Graves
-Mar 2,home,Western Tech,W,5-2,5,2,3,win,20240302_2up5,3,0,0,,,,0,,1,,,,,,0,0,,,,,3,2024,2023-24,div3,North Arkansas,northarkansascollege,cartergraveso0oo,Carter Graves
-Mar 10,home,Southeast Arkansas College,W,4-1,4,1,3,win,20240310_aur9,3,0,1,1,,,1,,2,,,,,,2,1,,,,,3,2024,2023-24,div3,North Arkansas,northarkansascollege,cartergraveso0oo,Carter Graves
-Mar 12,home,CBC JV,W,13-1,13,1,12,win,20240312_47au,3,1,1,,,,1,,1,1,,,,,1,0,,,,,3,2024,2023-24,div3,North Arkansas,northarkansascollege,cartergraveso0oo,Carter Graves
-Mar 12,home,CBC JV,W,10-0,10,0,10,win,20240312_9ywg,2,0,0,,,,1,,2,,,,1,,0,0,,,,,3,2024,2023-24,div3,North Arkansas,northarkansascollege,cartergraveso0oo,Carter Graves
-Mar 20,home,Mission University JV,W,10-3,10,3,7,win,20240320_jdfy,1,0,0,,,,0,,1,,,,,,0,0,,,,,1,2024,2023-24,div3,North Arkansas,northarkansascollege,cartergraveso0oo,Carter Graves
-Apr 1,home,Hendrix College JV,W,7-4,7,4,3,win,20240401_qo27,4,0,1,1,,,1,,,,,,,,2,1,,,,,4,2024,2023-24,div3,North Arkansas,northarkansascollege,cartergraveso0oo,Carter Graves
-Apr 13,home,DFW Post Grad,W,13-2,13,2,11,win,20240413_ees7,0,0,0,,,1,0,,,,,,,,0,1,,,,,0,2024,2023-24,div3,North Arkansas,northarkansascollege,cartergraveso0oo,Carter Graves
-Apr 20,home,Arkansas State University - Three Rivers,W,7-6,7,6,1,win,20240420_yygu,0,1,0,,,,0,1,,1,,,,,0,0,,,,,1,2024,2023-24,div3,North Arkansas,northarkansascollege,cartergraveso0oo,Carter Graves
-May 18,home,Dallas College - Brookhaven,W,17-16,17,16,1,win,20240518_atvv,5,2,2,,,1,3,,1,,,1,,,5,1,,,,,6,2024,2023-24,div3,North Arkansas,northarkansascollege,cartergraveso0oo,Carter Graves
+Mar 1,home,Minnesota North College - Mesabi Range,W,14-2,14,2,12,win,20240301_24ju,1,2,1,0,0,0,0,1,0,1,0,2,0,0,1,0,,0,,,4,2024,2023-24,div3,North Arkansas,northarkansascollege,cartergraveso0oo,Carter Graves
+Mar 2,home,Penn State Fayette,W,26-10,26,10,16,win,20240302_vb5c,2,4,2,,,,2,3,,1,,1,,,2,0,,,,,6,2024,2023-24,div3,North Arkansas,northarkansascollege,cartergraveso0oo,Carter Graves
+Mar 5,home,Lake Region State,W,12-2,12,2,10,win,20240305_6bsl,4,3,2,,,,1,2,1,,,1,,,2,0,,1,,,7,2024,2023-24,div3,North Arkansas,northarkansascollege,cartergraveso0oo,Carter Graves
+Mar 15,home,Minnesota North College - Hibbing,W,11-1,11,1,10,win,20240315_2h0r,2,3,2,,,1,2,1,1,,,1,,,5,1,,,,,4,2024,2023-24,div3,North Arkansas,northarkansascollege,cartergraveso0oo,Carter Graves
+Mar 29,home,Western Tech,W,6-3,6,3,3,win,20240329_q72g,3,2,0,,,,0,,1,1,,1,,,0,0,,1,,,4,2024,2023-24,div3,North Arkansas,northarkansascollege,cartergraveso0oo,Carter Graves
+Mar 30,home,Western Tech,W,19-5,19,5,14,win,20240330_r4qf,3,3,2,,,,0,,,,,1,,,2,0,,,,,4,2024,2023-24,div3,North Arkansas,northarkansascollege,cartergraveso0oo,Carter Graves
+Mar 30,home,Western Tech,W,13-8,13,8,5,win,20240330_bfma,3,1,1,1,,,0,2,,1,,,,,2,1,,1,1,1.00,5,2024,2023-24,div3,North Arkansas,northarkansascollege,cartergraveso0oo,Carter Graves
+Apr 4,home,Minnesota North College - Rainy River,W,22-19,22,19,3,win,20240404_doa4,5,4,4,3,0,0,3,0,0,0,0,1,0,0,7,3,,0,,,6,2024,2023-24,div3,North Arkansas,northarkansascollege,cartergraveso0oo,Carter Graves
+Apr 10,home,Minnesota North College - Mesabi Range,W,15-0,15,0,15,win,20240410_bteq,2,2,0,0,0,0,1,0,0,2,0,1,0,0,0,0,,0,,,3,2024,2023-24,div3,North Arkansas,northarkansascollege,cartergraveso0oo,Carter Graves
+Apr 10,home,Minnesota North College - Mesabi Range,W,13-5,13,5,8,win,20240410_53k1,2,2,1,,,,1,1,,2,,1,1,,1,0,,,1,,5,2024,2023-24,div3,North Arkansas,northarkansascollege,cartergraveso0oo,Carter Graves
+Apr 13,home,Minnesota North College - Hibbing,W,10-5,10,5,5,win,20240413_q5pj,3,1,2,,,,0,1,,,,,,,2,0,,,1,,4,2024,2023-24,div3,North Arkansas,northarkansascollege,cartergraveso0oo,Carter Graves
+Apr 13,home,Minnesota North College - Hibbing,W,11-6,11,6,5,win,20240413_it93,4,1,2,,,,0,,1,2,,,,,2,0,,,1,,4,2024,2023-24,div3,North Arkansas,northarkansascollege,cartergraveso0oo,Carter Graves
+Apr 20,home,Minnesota North College - Itasca,W,6-5,6,5,1,win,20240420_gz6t,2,1,2,1,,,1,2,,1,,,,,3,1,,,,,4,2024,2023-24,div3,North Arkansas,northarkansascollege,cartergraveso0oo,Carter Graves
+Apr 21,home,Minnesota North College - Itasca,W,10-9,10,9,1,win,20240421_9mtp,3,2,0,,,,0,2,,,,,,,0,0,1,1,1,1.00,5,2024,2023-24,div3,North Arkansas,northarkansascollege,cartergraveso0oo,Carter Graves
+Apr 25,home,Minnesota North College - Rainy River,W,8-5,8,5,3,win,20240425_xlt4,5,1,1,0,0,0,2,0,0,0,0,0,0,0,1,0,,0,,,5,2024,2023-24,div3,North Arkansas,northarkansascollege,cartergraveso0oo,Carter Graves
+May 4,home,Minnesota North College - Mesabi Range,W,17-3,17,3,14,win,20240504_z7no,4,3,2,1,0,0,1,0,0,1,0,0,0,0,3,1,,0,,,4,2024,2023-24,div3,North Arkansas,northarkansascollege,cartergraveso0oo,Carter Graves
+May 4,home,Minnesota North College - Mesabi Range,W,15-3,15,3,12,win,20240504_kph5,3,2,2,0,1,0,2,1,0,0,0,0,0,0,4,1,,0,,,4,2024,2023-24,div3,North Arkansas,northarkansascollege,cartergraveso0oo,Carter Graves
+May 5,home,Minnesota North College - Mesabi Range,W,15-5,15,5,10,win,20240505_ecxc,5,2,3,2,0,0,4,0,0,2,0,0,0,0,5,2,,0,,,5,2024,2023-24,div3,North Arkansas,northarkansascollege,cartergraveso0oo,Carter Graves
+May 5,home,Minnesota North College - Mesabi Range,W,18-8,18,8,10,win,20240505_8e8z,3,1,0,0,0,0,1,0,1,0,0,0,1,0,0,0,,0,,,4,2024,2023-24,div3,North Arkansas,northarkansascollege,cartergraveso0oo,Carter Graves

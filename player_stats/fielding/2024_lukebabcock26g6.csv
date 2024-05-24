@@ -1,11 +1,16 @@
 date,location,opponent,result,score,team_score,opp_score,game_score_diff,game_win_loss,game_id,TC,PO,A,E,FPCT,DP,SBA,RCS,RCS_PCT,PB,CI,season,njcaa_season,njcaa_division,team,team_id,player_id,player_name
-Mar 3,home,Minnesota West,W,9-5,9,5,4,win,20240303_jaze,0,0,0,1,3.1,,,,0.00,.30,1,2024,2023-24,div2,Macomb,macombcommunitycollege,lukebabcock26g6,Luke Babcock
-Mar 7,home,Gustavus Adolphus College,W,11-5,11,5,6,win,20240307_edqk,1,1,0,0,6.0,8,5,5,7.50,1.33,0,2024,2023-24,div2,Macomb,macombcommunitycollege,lukebabcock26g6,Luke Babcock
-Mar 19,home,Miles,W,4-3,4,3,1,win,20240319_d8rd,0,0,0,1,1.1,1,,,0.00,.75,,2024,2023-24,div2,Macomb,macombcommunitycollege,lukebabcock26g6,Luke Babcock
-Apr 3,home,Lake Region State,W,5-0,5,0,5,win,20240403_j4le,1,1,0,0,7.0,1,0,0,0.00,.14,0,2024,2023-24,div2,Macomb,macombcommunitycollege,lukebabcock26g6,Luke Babcock
-Apr 12,home,Dakota-Bottineau,W,19-6,19,6,13,win,20240412_54oq,1,1,0,0,5.0,5,6,4,7.20,1.60,3,2024,2023-24,div2,Macomb,macombcommunitycollege,lukebabcock26g6,Luke Babcock
-Apr 17,home,Lake Region State,W,10-2,10,2,8,win,20240417_93qn,1,1,0,0,6.0,6,2,1,1.50,1.17,1,2024,2023-24,div2,Macomb,macombcommunitycollege,lukebabcock26g6,Luke Babcock
-Apr 28,home,Dakota County Tech,L,2-0,2,0,2,win,20240428_4sus,1,0,1,0,4.0,3,2,0,0.00,1.25,2,2024,2023-24,div2,Macomb,macombcommunitycollege,lukebabcock26g6,Luke Babcock
-May 4,home,Dakota-Bottineau,W,7-1,7,1,6,win,20240504_0hcf,0,0,0,0,2.0,2,,,0.00,1.00,,2024,2023-24,div2,Macomb,macombcommunitycollege,lukebabcock26g6,Luke Babcock
-May 11,home,Miles,W,7-6,7,6,1,win,20240511_iyui,0,0,0,0,2.2,2,1,1,3.38,.75,,2024,2023-24,div2,Macomb,macombcommunitycollege,lukebabcock26g6,Luke Babcock
-May 12,home,Dakota County Tech,L,10-5,10,5,5,win,20240512_zh2y,0,0,0,0,2.1,5,2,2,7.71,2.14,,2024,2023-24,div2,Macomb,macombcommunitycollege,lukebabcock26g6,Luke Babcock
+Mar 2,home,USC Lancaster,L,12-4,12,4,8,win,20240302_lts3,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Macomb,macombcommunitycollege,lukebabcock26g6,Luke Babcock
+Mar 3,home,USC Lancaster,W,16-12,16,12,4,win,20240303_24q7,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Macomb,macombcommunitycollege,lukebabcock26g6,Luke Babcock
+Mar 21,home,Schoolcraft,W,5-4,5,4,1,win,20240321_yxhs,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Macomb,macombcommunitycollege,lukebabcock26g6,Luke Babcock
+Mar 26,home,Mott,W,5-4,5,4,1,win,20240326_duif,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Macomb,macombcommunitycollege,lukebabcock26g6,Luke Babcock
+Mar 29,home,Henry Ford,W,11-6,11,6,5,win,20240329_6yga,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Macomb,macombcommunitycollege,lukebabcock26g6,Luke Babcock
+Apr 4,home,Jackson,L,4-3,4,3,1,win,20240404_dw36,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Macomb,macombcommunitycollege,lukebabcock26g6,Luke Babcock
+Apr 4,home,Jackson,L,7-4,7,4,3,win,20240404_nwtc,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Macomb,macombcommunitycollege,lukebabcock26g6,Luke Babcock
+Apr 6,home,Jackson,W,8-7,8,7,1,win,20240406_4r1b,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Macomb,macombcommunitycollege,lukebabcock26g6,Luke Babcock
+Apr 6,home,Jackson,L,8-3,8,3,5,win,20240406_yqk0,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Macomb,macombcommunitycollege,lukebabcock26g6,Luke Babcock
+Apr 9,home,Indiana Tech JV,W,15-10,15,10,5,win,20240409_7320,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Macomb,macombcommunitycollege,lukebabcock26g6,Luke Babcock
+Apr 9,home,Indiana Tech JV,W,11-4,11,4,7,win,20240409_ntiv,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Macomb,macombcommunitycollege,lukebabcock26g6,Luke Babcock
+Apr 13,home,Schoolcraft,L,4-3,4,3,1,win,20240413_pg9i,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Macomb,macombcommunitycollege,lukebabcock26g6,Luke Babcock
+Apr 13,home,Schoolcraft,W,15-5,15,5,10,win,20240413_erf4,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Macomb,macombcommunitycollege,lukebabcock26g6,Luke Babcock
+Apr 14,home,Schoolcraft,W,8-4,8,4,4,win,20240414_b2ix,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Macomb,macombcommunitycollege,lukebabcock26g6,Luke Babcock
+May 2,home,St. Clair County,W,11-0,11,0,11,win,20240502_o0vv,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Macomb,macombcommunitycollege,lukebabcock26g6,Luke Babcock

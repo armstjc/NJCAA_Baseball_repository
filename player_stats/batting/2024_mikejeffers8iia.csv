@@ -1,14 +1,10 @@
 date,location,opponent,result,score,team_score,opp_score,game_score_diff,game_win_loss,game_id,AB,R,H,2B,3B,HR,RBI,BB,K,SB,CS,HBP,SF,SH,TB,XBH,HDP,GO,FO,GO/FO,PA,season,njcaa_season,njcaa_division,team,team_id,player_id,player_name
-Mar 3,home,Illinois Valley,W,10-0,10,0,10,win,20240303_lsok,2,2,0,,,,0,2,1,,,,,,0,0,,1,,,4,2024,2023-24,div3,Joliet,jolietjuniorcollege,mikejeffers8iia,Mike Jeffers
-Mar 5,home,Harper,W,11-5,11,5,6,win,20240305_f9ao,1,0,1,,,,1,,,,,,,,1,0,,,,,1,2024,2023-24,div3,Joliet,jolietjuniorcollege,mikejeffers8iia,Mike Jeffers
-Mar 15,home,Dallas College - Richland,W,6-3,6,3,3,win,20240315_n5gh,5,1,0,,,,0,,1,,,,,,0,0,,,,,5,2024,2023-24,div3,Joliet,jolietjuniorcollege,mikejeffers8iia,Mike Jeffers
-Mar 21,home,Lake County,W,4-3,4,3,1,win,20240321_n4eg,2,0,0,,,,0,,,,,1,,,0,0,,,,,3,2024,2023-24,div3,Joliet,jolietjuniorcollege,mikejeffers8iia,Mike Jeffers
-Mar 26,home,South Suburban,W,1-0,1,0,1,win,20240326_v5ob,1,0,0,,,,0,,,,,1,,,0,0,,,,,2,2024,2023-24,div3,Joliet,jolietjuniorcollege,mikejeffers8iia,Mike Jeffers
-Mar 29,home,Carl Sandburg,W,2-1,2,1,1,win,20240329_r8eb,2,0,0,,,,0,1,1,,1,,,,0,0,,,,,3,2024,2023-24,div3,Joliet,jolietjuniorcollege,mikejeffers8iia,Mike Jeffers
-Apr 13,home,Milwaukee Area Tech,W,5-3,5,3,2,win,20240413_hxqv,2,0,0,,,,0,,1,,,1,,,0,0,,,,,3,2024,2023-24,div3,Joliet,jolietjuniorcollege,mikejeffers8iia,Mike Jeffers
-Apr 20,home,Bryant & Stratton College (WI),W,14-3,14,3,11,win,20240420_k13i,2,2,0,,,,1,1,,1,,2,,,0,0,,,,,5,2024,2023-24,div3,Joliet,jolietjuniorcollege,mikejeffers8iia,Mike Jeffers
-Apr 21,home,Waubonsee,W,10-0,10,0,10,win,20240421_ty7e,3,0,1,,,,1,,,,,,1,,1,0,,,,,4,2024,2023-24,div3,Joliet,jolietjuniorcollege,mikejeffers8iia,Mike Jeffers
-Apr 21,home,Waubonsee,W,8-2,8,2,6,win,20240421_5efp,1,2,0,,,,0,3,,,,,,,0,0,,,,,4,2024,2023-24,div3,Joliet,jolietjuniorcollege,mikejeffers8iia,Mike Jeffers
-Apr 23,home,Kankakee,W,8-7,8,7,1,win,20240423_rmd5,4,1,0,,,,1,3,2,,,,,,0,0,,,,,7,2024,2023-24,div3,Joliet,jolietjuniorcollege,mikejeffers8iia,Mike Jeffers
-Apr 27,home,Kennedy-King,W,23-0,23,0,23,win,20240427_cslz,1,1,0,,,,0,,,,,2,,,0,0,,,,,3,2024,2023-24,div3,Joliet,jolietjuniorcollege,mikejeffers8iia,Mike Jeffers
-May 4,home,Moraine Valley,W,5-3,5,3,2,win,20240504_tjrn,2,0,1,,,,0,,,,,,,1,1,0,,,,,3,2024,2023-24,div3,Joliet,jolietjuniorcollege,mikejeffers8iia,Mike Jeffers
+Feb 24,home,Morton,W,7-5,7,5,2,win,20240224_rles,0,0,0,,,,0,,,,,,,,0,0,,,,,0,2024,2023-24,div3,Joliet,jolietjuniorcollege,mikejeffers8iia,Mike Jeffers
+Mar 3,home,Illinois Valley,W,7-5,7,5,2,win,20240303_eo1r,0,0,0,,,,0,,,,,,,,0,0,,,,,0,2024,2023-24,div3,Joliet,jolietjuniorcollege,mikejeffers8iia,Mike Jeffers
+Mar 15,home,Dallas College - Richland,W,6-3,6,3,3,win,20240315_n5gh,0,0,0,,,,0,,,,,,,,0,0,,,,,0,2024,2023-24,div3,Joliet,jolietjuniorcollege,mikejeffers8iia,Mike Jeffers
+Mar 21,home,Lake County,W,4-3,4,3,1,win,20240321_n4eg,0,0,0,,,,0,,,,,,,,0,0,,,,,0,2024,2023-24,div3,Joliet,jolietjuniorcollege,mikejeffers8iia,Mike Jeffers
+Mar 26,home,South Suburban,W,1-0,1,0,1,win,20240326_v5ob,0,0,0,,,,0,,,,,,,,0,0,,,,,0,2024,2023-24,div3,Joliet,jolietjuniorcollege,mikejeffers8iia,Mike Jeffers
+Mar 30,home,Rock Valley,W,7-5,7,5,2,win,20240330_djaz,0,0,0,,,,0,,,,,,,,0,0,,,,,0,2024,2023-24,div3,Joliet,jolietjuniorcollege,mikejeffers8iia,Mike Jeffers
+Apr 13,home,Milwaukee Area Tech,W,6-0,6,0,6,win,20240413_n2sl,0,0,0,,,,0,,,,,,,,0,0,,,,,0,2024,2023-24,div3,Joliet,jolietjuniorcollege,mikejeffers8iia,Mike Jeffers
+Apr 28,home,Highland (IL),W,6-0,6,0,6,win,20240428_wlrv,0,0,0,,,,0,,,,,,,,0,0,,,,,0,2024,2023-24,div3,Joliet,jolietjuniorcollege,mikejeffers8iia,Mike Jeffers
+May 4,home,Moraine Valley,W,5-3,5,3,2,win,20240504_tjrn,0,0,0,,,,0,,,,,,,,0,0,,,,,0,2024,2023-24,div3,Joliet,jolietjuniorcollege,mikejeffers8iia,Mike Jeffers

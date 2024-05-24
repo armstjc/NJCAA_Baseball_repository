@@ -1,6 +1,20 @@
 date,location,opponent,result,score,team_score,opp_score,game_score_diff,game_win_loss,game_id,TC,PO,A,E,FPCT,DP,SBA,RCS,RCS_PCT,PB,CI,season,njcaa_season,njcaa_division,team,team_id,player_id,player_name
-Apr 7,home,Rhode Island,L,23-4,23,4,19,win,20240407_mzfv,0,0,0,0,0.2,2,6,6,81.00,12.00,6,2024,2023-24,div3,Roxbury,roxburycommunitycollege,xavierdeloneyphillipsrif1,Xavier Deloney-Phillips
-Apr 11,home,Massasoit,L,26-5,26,5,21,win,20240411_0qr4,0,0,1,0,2.1,4,16,16,61.71,6.86,12,2024,2023-24,div3,Roxbury,roxburycommunitycollege,xavierdeloneyphillipsrif1,Xavier Deloney-Phillips
-Apr 13,home,Massasoit,L,26-3,26,3,23,win,20240413_b66f,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div3,Roxbury,roxburycommunitycollege,xavierdeloneyphillipsrif1,Xavier Deloney-Phillips
-Apr 25,home,Quincy College,L,20-7,20,7,13,win,20240425_hlwj,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div3,Roxbury,roxburycommunitycollege,xavierdeloneyphillipsrif1,Xavier Deloney-Phillips
-May 2,home,Holyoke,L,16-12,16,12,4,win,20240502_wlqv,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div3,Roxbury,roxburycommunitycollege,xavierdeloneyphillipsrif1,Xavier Deloney-Phillips
+Jan 28,home,Arkansas State University - Three Rivers,W,5-0,5,0,5,win,20240128_qqo4,1,1,0,0,4.1,0,0,0,0.00,.46,2,2024,2023-24,div3,Roxbury,roxburycommunitycollege,xavierdeloneyphillipsrif1,Xavier Deloney-Phillips
+Feb 2,home,Howard (TX),W,13-2,13,2,11,win,20240202_1efl,1,1,0,0,5.0,2,2,0,0.00,.80,2,2024,2023-24,div3,Roxbury,roxburycommunitycollege,xavierdeloneyphillipsrif1,Xavier Deloney-Phillips
+Feb 9,home,North Arkansas,W,12-0,12,0,12,win,20240209_uazs,1,1,0,0,5.0,2,0,0,0.00,1.20,4,2024,2023-24,div3,Roxbury,roxburycommunitycollege,xavierdeloneyphillipsrif1,Xavier Deloney-Phillips
+Feb 18,home,Des Moines Area,W,4-3,4,3,1,win,20240218_9ucp,1,0,0,0,5.0,3,3,0,0.00,1.00,2,2024,2023-24,div3,Roxbury,roxburycommunitycollege,xavierdeloneyphillipsrif1,Xavier Deloney-Phillips
+Feb 23,home,Galveston,L,5-3,5,3,2,win,20240223_agz2,1,0,1,0,2.0,2,1,1,4.50,1.50,1,2024,2023-24,div3,Roxbury,roxburycommunitycollege,xavierdeloneyphillipsrif1,Xavier Deloney-Phillips
+Feb 28,home,Dallas College - Brookhaven,W,8-1,8,1,7,win,20240228_kff0,1,1,0,0,6.0,0,0,0,0.00,.67,4,2024,2023-24,div3,Roxbury,roxburycommunitycollege,xavierdeloneyphillipsrif1,Xavier Deloney-Phillips
+Mar 6,home,Dallas College - Cedar Valley,W,11-1,11,1,10,win,20240306_r0jh,1,1,0,0,6.0,3,1,1,1.50,1.00,3,2024,2023-24,div3,Roxbury,roxburycommunitycollege,xavierdeloneyphillipsrif1,Xavier Deloney-Phillips
+Mar 12,home,Joliet,W,10-7,10,7,3,win,20240312_du98,0,0,0,0,1.0,1,1,1,9.00,1.00,,2024,2023-24,div3,Roxbury,roxburycommunitycollege,xavierdeloneyphillipsrif1,Xavier Deloney-Phillips
+Mar 18,home,Dallas Christian College JV,W,3-1,3,1,2,win,20240318_va3x,1,0,0,0,2.0,1,0,0,0.00,.50,0,2024,2023-24,div3,Roxbury,roxburycommunitycollege,xavierdeloneyphillipsrif1,Xavier Deloney-Phillips
+Mar 20,home,Dallas College - Richland,L,11-1,11,1,10,win,20240320_qt3s,1,0,1,0,4.0,3,5,4,9.00,1.75,4,2024,2023-24,div3,Roxbury,roxburycommunitycollege,xavierdeloneyphillipsrif1,Xavier Deloney-Phillips
+Mar 27,home,Dallas College - Mountain View,W,8-7,8,7,1,win,20240327_g6aw,1,1,0,0,6.0,7,4,4,6.00,1.33,1,2024,2023-24,div3,Roxbury,roxburycommunitycollege,xavierdeloneyphillipsrif1,Xavier Deloney-Phillips
+Apr 3,home,Dallas College - North Lake,W,5-1,5,1,4,win,20240403_w75p,1,1,0,0,5.0,3,1,1,1.80,1.60,5,2024,2023-24,div3,Roxbury,roxburycommunitycollege,xavierdeloneyphillipsrif1,Xavier Deloney-Phillips
+Apr 11,home,Dallas College - Brookhaven,W,12-3,12,3,9,win,20240411_9412,1,1,0,0,6.1,6,2,2,2.84,1.11,1,2024,2023-24,div3,Roxbury,roxburycommunitycollege,xavierdeloneyphillipsrif1,Xavier Deloney-Phillips
+Apr 17,home,Dallas College - Cedar Valley,L,17-11,17,11,6,win,20240417_i04k,1,0,1,0,0.2,1,4,4,54.00,6.00,3,2024,2023-24,div3,Roxbury,roxburycommunitycollege,xavierdeloneyphillipsrif1,Xavier Deloney-Phillips
+Apr 22,home,LeTourneau,W,22-4,22,4,18,win,20240422_us0s,1,1,0,0,1.0,0,0,0,0.00,.00,0,2024,2023-24,div3,Roxbury,roxburycommunitycollege,xavierdeloneyphillipsrif1,Xavier Deloney-Phillips
+Apr 25,home,Dallas College - Richland,W,3-2,3,2,1,win,20240425_xsgg,1,1,0,0,7.0,5,1,1,1.29,1.14,3,2024,2023-24,div3,Roxbury,roxburycommunitycollege,xavierdeloneyphillipsrif1,Xavier Deloney-Phillips
+May 3,home,Dallas College - Mountain View,W,7-4,7,4,3,win,20240503_azg9,1,1,0,0,5.0,4,1,1,1.80,1.00,1,2024,2023-24,div3,Roxbury,roxburycommunitycollege,xavierdeloneyphillipsrif1,Xavier Deloney-Phillips
+May 11,home,Dallas College - North Lake,W,6-0,6,0,6,win,20240511_dsn9,0,0,0,0,1.0,,,,0.00,2.00,2,2024,2023-24,div3,Roxbury,roxburycommunitycollege,xavierdeloneyphillipsrif1,Xavier Deloney-Phillips
+May 18,home,Dallas College - Richland,L,7-0,7,0,7,win,20240518_qz87,1,0,1,0,5.2,4,4,3,4.76,1.59,5,2024,2023-24,div3,Roxbury,roxburycommunitycollege,xavierdeloneyphillipsrif1,Xavier Deloney-Phillips

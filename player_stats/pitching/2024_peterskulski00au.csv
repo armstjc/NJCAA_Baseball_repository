@@ -1,9 +1,58 @@
 date,location,opponent,result,score,team_score,opp_score,game_score_diff,game_win_loss,game_id,GS,W,L,SV,IP,H,R,ER,ERA,BB,K,HR,season,njcaa_season,njcaa_division,team,team_id,player_id,player_name
-May 4,home,Corning,W,12-0,12,0,12,win,20240504_ptuf,1,1,0,0,6.0,2,0,0,0.00,.67,2,8,2024,2023-24,div3,Niagara County,niagaracountycommunitycollege,peterskulski00au,Peter Skulski
-Apr 28,home,Finger Lakes,L,3-2,3,2,1,win,20240428_b8if,0,0,1,0,0.2,1,1,1,13.50,3.00,1,1,2024,2023-24,div3,Niagara County,niagaracountycommunitycollege,peterskulski00au,Peter Skulski
-Apr 18,home,Jamestown,W,7-5,7,5,2,win,20240418_mo0g,0,0,0,0,0.2,2,3,2,27.00,6.00,2,,2024,2023-24,div3,Niagara County,niagaracountycommunitycollege,peterskulski00au,Peter Skulski
-Apr 7,home,Onondaga,W,8-5,8,5,3,win,20240407_q34h,0,0,0,0,0.1,3,1,1,27.00,12.00,1,,2024,2023-24,div3,Niagara County,niagaracountycommunitycollege,peterskulski00au,Peter Skulski
-Mar 30,home,SUNY Broome,W,11-1,11,1,10,win,20240330_nqlf,1,1,0,0,5.0,4,1,1,1.80,1.00,1,5,2024,2023-24,div3,Niagara County,niagaracountycommunitycollege,peterskulski00au,Peter Skulski
-Mar 14,home,Northern Essex,W,7-0,7,0,7,win,20240314_kkoc,1,1,0,0,4.0,3,0,0,0.00,2.00,5,6,2024,2023-24,div3,Niagara County,niagaracountycommunitycollege,peterskulski00au,Peter Skulski
-Mar 8,home,Ontario College Prep Orange,W,18-0,18,0,18,win,20240308_s3qa,1,1,0,0,4.0,1,0,0,0.00,.25,0,9,2024,2023-24,div3,Niagara County,niagaracountycommunitycollege,peterskulski00au,Peter Skulski
-Mar 2,home,Cayuga,W,11-4,11,4,7,win,20240302_bmjg,1,1,0,0,4.2,4,2,0,0.00,1.29,2,5,2024,2023-24,div3,Niagara County,niagaracountycommunitycollege,peterskulski00au,Peter Skulski
+May 17,home,Herkimer,L,5-2,5,2,3,win,20240517_650i,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div3,Niagara County,niagaracountycommunitycollege,peterskulski00au,Peter Skulski
+May 17,home,Erie,W,10-6,10,6,4,win,20240517_65sm,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div3,Niagara County,niagaracountycommunitycollege,peterskulski00au,Peter Skulski
+May 16,home,Genesee,L,4-3,4,3,1,win,20240516_51qy,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div3,Niagara County,niagaracountycommunitycollege,peterskulski00au,Peter Skulski
+May 11,home,SUNY Adirondack,W,7-2,7,2,5,win,20240511_or7j,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div3,Niagara County,niagaracountycommunitycollege,peterskulski00au,Peter Skulski
+May 11,home,SUNY Adirondack,W,12-2,12,2,10,win,20240511_45du,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div3,Niagara County,niagaracountycommunitycollege,peterskulski00au,Peter Skulski
+May 6,home,Erie,W,6-0,6,0,6,win,20240506_xcnp,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div3,Niagara County,niagaracountycommunitycollege,peterskulski00au,Peter Skulski
+May 6,home,Erie,L,8-7,8,7,1,win,20240506_r1tx,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div3,Niagara County,niagaracountycommunitycollege,peterskulski00au,Peter Skulski
+May 5,home,Corning,W,10-0,10,0,10,win,20240505_xry7,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div3,Niagara County,niagaracountycommunitycollege,peterskulski00au,Peter Skulski
+May 5,home,Corning,W,13-3,13,3,10,win,20240505_t51g,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div3,Niagara County,niagaracountycommunitycollege,peterskulski00au,Peter Skulski
+May 4,home,Corning,W,10-0,10,0,10,win,20240504_wshy,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div3,Niagara County,niagaracountycommunitycollege,peterskulski00au,Peter Skulski
+May 4,home,Corning,W,12-0,12,0,12,win,20240504_ptuf,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div3,Niagara County,niagaracountycommunitycollege,peterskulski00au,Peter Skulski
+May 2,home,Onondaga,W,3-2,3,2,1,win,20240502_nsyl,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div3,Niagara County,niagaracountycommunitycollege,peterskulski00au,Peter Skulski
+May 2,home,Onondaga,W,7-6,7,6,1,win,20240502_0tno,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div3,Niagara County,niagaracountycommunitycollege,peterskulski00au,Peter Skulski
+Apr 30,home,Finger Lakes,W,15-4,15,4,11,win,20240430_3thi,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div3,Niagara County,niagaracountycommunitycollege,peterskulski00au,Peter Skulski
+Apr 30,home,Finger Lakes,W,14-2,14,2,12,win,20240430_68lt,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div3,Niagara County,niagaracountycommunitycollege,peterskulski00au,Peter Skulski
+Apr 28,home,Finger Lakes,W,13-0,13,0,13,win,20240428_2mtx,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div3,Niagara County,niagaracountycommunitycollege,peterskulski00au,Peter Skulski
+Apr 28,home,Finger Lakes,L,3-2,3,2,1,win,20240428_b8if,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div3,Niagara County,niagaracountycommunitycollege,peterskulski00au,Peter Skulski
+Apr 25,home,Tompkins Cortland,W,17-0,17,0,17,win,20240425_jvd9,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div3,Niagara County,niagaracountycommunitycollege,peterskulski00au,Peter Skulski
+Apr 25,home,Tompkins Cortland,W,11-0,11,0,11,win,20240425_7cr3,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div3,Niagara County,niagaracountycommunitycollege,peterskulski00au,Peter Skulski
+Apr 21,home,Tompkins Cortland,W,21-2,21,2,19,win,20240421_pqxs,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div3,Niagara County,niagaracountycommunitycollege,peterskulski00au,Peter Skulski
+Apr 21,home,Tompkins Cortland,W,10-0,10,0,10,win,20240421_7eac,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div3,Niagara County,niagaracountycommunitycollege,peterskulski00au,Peter Skulski
+Apr 20,home,Jamestown,W,3-0,3,0,3,win,20240420_lr2w,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div3,Niagara County,niagaracountycommunitycollege,peterskulski00au,Peter Skulski
+Apr 20,home,Jamestown,W,15-1,15,1,14,win,20240420_usyj,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div3,Niagara County,niagaracountycommunitycollege,peterskulski00au,Peter Skulski
+Apr 18,home,Jamestown,W,7-5,7,5,2,win,20240418_mo0g,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div3,Niagara County,niagaracountycommunitycollege,peterskulski00au,Peter Skulski
+Apr 18,home,Jamestown,W,5-3,5,3,2,win,20240418_0b8n,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div3,Niagara County,niagaracountycommunitycollege,peterskulski00au,Peter Skulski
+Apr 16,home,Genesee,W,12-0,12,0,12,win,20240416_i879,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div3,Niagara County,niagaracountycommunitycollege,peterskulski00au,Peter Skulski
+Apr 16,home,Genesee,W,3-1,3,1,2,win,20240416_ptm4,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div3,Niagara County,niagaracountycommunitycollege,peterskulski00au,Peter Skulski
+Apr 15,home,Erie,L,4-0,4,0,4,win,20240415_l3qw,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div3,Niagara County,niagaracountycommunitycollege,peterskulski00au,Peter Skulski
+Apr 15,home,Erie,W,11-1,11,1,10,win,20240415_0jnh,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div3,Niagara County,niagaracountycommunitycollege,peterskulski00au,Peter Skulski
+Apr 9,home,Monroe CC,W,10-3,10,3,7,win,20240409_7y6z,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div3,Niagara County,niagaracountycommunitycollege,peterskulski00au,Peter Skulski
+Apr 9,home,Monroe CC,W,11-3,11,3,8,win,20240409_k76e,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div3,Niagara County,niagaracountycommunitycollege,peterskulski00au,Peter Skulski
+Apr 7,home,Onondaga,W,8-5,8,5,3,win,20240407_q34h,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div3,Niagara County,niagaracountycommunitycollege,peterskulski00au,Peter Skulski
+Apr 7,home,Onondaga,W,7-1,7,1,6,win,20240407_wo1o,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div3,Niagara County,niagaracountycommunitycollege,peterskulski00au,Peter Skulski
+Apr 4,home,Genesee,W,8-0,8,0,8,win,20240404_d780,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div3,Niagara County,niagaracountycommunitycollege,peterskulski00au,Peter Skulski
+Apr 4,home,Genesee,W,8-0,8,0,8,win,20240404_4jpz,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div3,Niagara County,niagaracountycommunitycollege,peterskulski00au,Peter Skulski
+Mar 30,home,SUNY Broome,W,12-2,12,2,10,win,20240330_2i92,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div3,Niagara County,niagaracountycommunitycollege,peterskulski00au,Peter Skulski
+Mar 30,home,SUNY Broome,W,11-1,11,1,10,win,20240330_nqlf,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div3,Niagara County,niagaracountycommunitycollege,peterskulski00au,Peter Skulski
+Mar 28,home,SUNY Broome,W,20-0,20,0,20,win,20240328_axlx,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div3,Niagara County,niagaracountycommunitycollege,peterskulski00au,Peter Skulski
+Mar 28,home,SUNY Broome,W,13-2,13,2,11,win,20240328_8iom,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div3,Niagara County,niagaracountycommunitycollege,peterskulski00au,Peter Skulski
+Mar 26,home,Monroe CC,W,4-2,4,2,2,win,20240326_1emn,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div3,Niagara County,niagaracountycommunitycollege,peterskulski00au,Peter Skulski
+Mar 26,home,Monroe CC,W,7-2,7,2,5,win,20240326_2euv,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div3,Niagara County,niagaracountycommunitycollege,peterskulski00au,Peter Skulski
+Mar 15,home,Moraine Valley,W,14-0,14,0,14,win,20240315_xfne,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div3,Niagara County,niagaracountycommunitycollege,peterskulski00au,Peter Skulski
+Mar 15,home,Moraine Valley,W,13-12,13,12,1,win,20240315_qquw,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div3,Niagara County,niagaracountycommunitycollege,peterskulski00au,Peter Skulski
+Mar 14,home,Northern Essex,L,10-3,10,3,7,win,20240314_u1el,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div3,Niagara County,niagaracountycommunitycollege,peterskulski00au,Peter Skulski
+Mar 14,home,Northern Essex,W,7-0,7,0,7,win,20240314_kkoc,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div3,Niagara County,niagaracountycommunitycollege,peterskulski00au,Peter Skulski
+Mar 12,home,Black Hawk,W,8-5,8,5,3,win,20240312_mps8,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div3,Niagara County,niagaracountycommunitycollege,peterskulski00au,Peter Skulski
+Mar 12,home,Black Hawk,L,5-3,5,3,2,win,20240312_j71i,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div3,Niagara County,niagaracountycommunitycollege,peterskulski00au,Peter Skulski
+Mar 10,home,Kirkwood,L,13-3,13,3,10,win,20240310_wdvm,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div3,Niagara County,niagaracountycommunitycollege,peterskulski00au,Peter Skulski
+Mar 10,home,Kirkwood,L,9-8,9,8,1,win,20240310_u55n,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div3,Niagara County,niagaracountycommunitycollege,peterskulski00au,Peter Skulski
+Mar 8,home,Ontario College Prep Orange,W,19-3,19,3,16,win,20240308_uhrj,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div3,Niagara County,niagaracountycommunitycollege,peterskulski00au,Peter Skulski
+Mar 8,home,Ontario College Prep Orange,W,18-0,18,0,18,win,20240308_s3qa,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div3,Niagara County,niagaracountycommunitycollege,peterskulski00au,Peter Skulski
+Mar 7,home,Alexandria Tech,W,10-0,10,0,10,win,20240307_cmq4,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div3,Niagara County,niagaracountycommunitycollege,peterskulski00au,Peter Skulski
+Mar 7,home,Alexandria Tech,W,2-1,2,1,1,win,20240307_bkk5,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div3,Niagara County,niagaracountycommunitycollege,peterskulski00au,Peter Skulski
+Mar 6,home,Schoolcraft,L,8-7,8,7,1,win,20240306_g1xz,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div3,Niagara County,niagaracountycommunitycollege,peterskulski00au,Peter Skulski
+Mar 6,home,Schoolcraft,W,16-0,16,0,16,win,20240306_a3uk,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div3,Niagara County,niagaracountycommunitycollege,peterskulski00au,Peter Skulski
+Mar 2,home,Cayuga,W,11-4,11,4,7,win,20240302_bmjg,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div3,Niagara County,niagaracountycommunitycollege,peterskulski00au,Peter Skulski
+Mar 2,home,Cayuga,W,14-2,14,2,12,win,20240302_qcze,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div3,Niagara County,niagaracountycommunitycollege,peterskulski00au,Peter Skulski

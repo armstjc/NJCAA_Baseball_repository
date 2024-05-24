@@ -1,17 +1,6 @@
 date,location,opponent,result,score,team_score,opp_score,game_score_diff,game_win_loss,game_id,TC,PO,A,E,FPCT,DP,SBA,RCS,RCS_PCT,PB,CI,season,njcaa_season,njcaa_division,team,team_id,player_id,player_name
-Jan 29,home,DFW Post Grad,W,11-1,11,1,10,win,20240129_mh1l,1,0,0,0,2.0,3,1,1,4.50,2.50,2,2024,2023-24,div3,Dallas College - Brookhaven,dallascollegebrookhaven,slaydeberry7gb3,Slayde Berry
-Feb 9,home,McCook,W,5-4,5,4,1,win,20240209_3d40,1,1,0,0,6.0,5,4,4,6.00,1.17,2,2024,2023-24,div3,Dallas College - Brookhaven,dallascollegebrookhaven,slaydeberry7gb3,Slayde Berry
-Feb 16,home,Grayson,L,4-0,4,0,4,win,20240216_v3bf,1,0,1,0,4.0,2,3,2,4.50,1.25,3,2024,2023-24,div3,Dallas College - Brookhaven,dallascollegebrookhaven,slaydeberry7gb3,Slayde Berry
-Feb 23,home,National Park College,W,19-12,19,12,7,win,20240223_1671,1,1,0,0,4.0,5,5,4,9.00,2.25,4,2024,2023-24,div3,Dallas College - Brookhaven,dallascollegebrookhaven,slaydeberry7gb3,Slayde Berry
-Feb 28,home,Dallas College - Eastfield,L,8-1,8,1,7,win,20240228_kff0,1,0,1,0,4.1,5,6,5,10.38,1.62,2,2024,2023-24,div3,Dallas College - Brookhaven,dallascollegebrookhaven,slaydeberry7gb3,Slayde Berry
-Mar 6,home,Dallas College - Richland,L,17-10,17,10,7,win,20240306_afp3,1,0,1,0,1.0,3,9,0,0.00,5.00,2,2024,2023-24,div3,Dallas College - Brookhaven,dallascollegebrookhaven,slaydeberry7gb3,Slayde Berry
-Mar 11,home,Northeast Texas,L,12-2,12,2,10,win,20240311_9tau,1,0,1,0,3.0,4,4,4,12.00,2.67,4,2024,2023-24,div3,Dallas College - Brookhaven,dallascollegebrookhaven,slaydeberry7gb3,Slayde Berry
-Mar 20,home,Dallas College - North Lake,L,10-9,10,9,1,win,20240320_u27t,1,0,1,0,5.2,5,6,5,7.94,1.41,3,2024,2023-24,div3,Dallas College - Brookhaven,dallascollegebrookhaven,slaydeberry7gb3,Slayde Berry
-Mar 27,home,Dallas College - Cedar Valley,W,5-4,5,4,1,win,20240327_o1vu,1,0,0,0,6.0,8,3,3,4.50,1.83,3,2024,2023-24,div3,Dallas College - Brookhaven,dallascollegebrookhaven,slaydeberry7gb3,Slayde Berry
-Apr 3,home,Dallas College - Mountain View,W,16-12,16,12,4,win,20240403_qwpl,1,0,0,0,5.0,8,5,5,9.00,1.80,1,2024,2023-24,div3,Dallas College - Brookhaven,dallascollegebrookhaven,slaydeberry7gb3,Slayde Berry
-Apr 11,home,Dallas College - Eastfield,L,12-3,12,3,9,win,20240411_9412,1,0,1,0,6.0,6,7,7,10.50,1.83,5,2024,2023-24,div3,Dallas College - Brookhaven,dallascollegebrookhaven,slaydeberry7gb3,Slayde Berry
-Apr 17,home,Dallas College - Richland,L,4-3,4,3,1,win,20240417_irjx,1,0,0,0,6.0,2,2,1,1.50,1.00,4,2024,2023-24,div3,Dallas College - Brookhaven,dallascollegebrookhaven,slaydeberry7gb3,Slayde Berry
-Apr 24,home,Dallas College - North Lake,L,8-5,8,5,3,win,20240424_71bq,1,0,1,0,3.0,7,6,6,18.00,3.33,3,2024,2023-24,div3,Dallas College - Brookhaven,dallascollegebrookhaven,slaydeberry7gb3,Slayde Berry
-May 1,home,Dallas College - Cedar Valley,W,14-4,14,4,10,win,20240501_f71f,1,1,0,0,5.0,3,2,0,0.00,1.60,5,2024,2023-24,div3,Dallas College - Brookhaven,dallascollegebrookhaven,slaydeberry7gb3,Slayde Berry
-May 8,home,Dallas College - Mountain View,W,11-10,11,10,1,win,20240508_204p,1,0,0,0,4.0,3,2,2,4.50,1.00,1,2024,2023-24,div3,Dallas College - Brookhaven,dallascollegebrookhaven,slaydeberry7gb3,Slayde Berry
-May 15,home,Dallas College - Cedar Valley,W,10-0,10,0,10,win,20240515_rzxv,1,1,0,0,5.0,1,0,0,0.00,.80,3,2024,2023-24,div3,Dallas College - Brookhaven,dallascollegebrookhaven,slaydeberry7gb3,Slayde Berry
+Feb 16,home,Grayson,L,4-0,4,0,4,win,20240216_v3bf,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div3,Dallas College - Brookhaven,dallascollegebrookhaven,slaydeberry7gb3,Slayde Berry
+Feb 23,home,National Park College,L,12-2,12,2,10,win,20240223_7cez,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div3,Dallas College - Brookhaven,dallascollegebrookhaven,slaydeberry7gb3,Slayde Berry
+Feb 26,home,Seminole State (OK),L,19-11,19,11,8,win,20240226_ny4h,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div3,Dallas College - Brookhaven,dallascollegebrookhaven,slaydeberry7gb3,Slayde Berry
+Mar 25,home,TCS Post Grad,L,10-2,10,2,8,win,20240325_yxub,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div3,Dallas College - Brookhaven,dallascollegebrookhaven,slaydeberry7gb3,Slayde Berry
+May 4,home,Dallas College - Cedar Valley,W,18-3,18,3,15,win,20240504_e767,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div3,Dallas College - Brookhaven,dallascollegebrookhaven,slaydeberry7gb3,Slayde Berry

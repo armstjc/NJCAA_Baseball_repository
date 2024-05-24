@@ -1,21 +1,13 @@
 date,location,opponent,result,score,team_score,opp_score,game_score_diff,game_win_loss,game_id,GS,W,L,SV,IP,H,R,ER,ERA,BB,K,HR,season,njcaa_season,njcaa_division,team,team_id,player_id,player_name
-May 11,home,Middlesex College,L,15-7,15,7,8,win,20240511_99pi,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div3,RCSJ Cumberland,rowancollegeofsouthjerseycumberland,gavinseveraayxm,Gavin Severa
-May 11,home,Middlesex College,L,7-6,7,6,1,win,20240511_hnbj,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div3,RCSJ Cumberland,rowancollegeofsouthjerseycumberland,gavinseveraayxm,Gavin Severa
-May 4,home,Camden County,L,6-5,6,5,1,win,20240504_73r9,0,0,1,0,0.2,1,2,2,27.00,6.00,3,1,2024,2023-24,div3,RCSJ Cumberland,rowancollegeofsouthjerseycumberland,gavinseveraayxm,Gavin Severa
-Apr 27,home,Lehigh Carbon,W,6-5,6,5,1,win,20240427_bgqt,0,0,0,0,0.2,,,,0.00,3.00,2,,2024,2023-24,div3,RCSJ Cumberland,rowancollegeofsouthjerseycumberland,gavinseveraayxm,Gavin Severa
-Apr 26,home,Lehigh Carbon,W,14-11,14,11,3,win,20240426_lryq,0,0,0,0,0.1,,,,0.00,3.00,1,1,2024,2023-24,div3,RCSJ Cumberland,rowancollegeofsouthjerseycumberland,gavinseveraayxm,Gavin Severa
-Apr 19,home,Northampton,L,13-9,13,9,4,win,20240419_fbbr,0,0,0,0,2.0,,,,0.00,,,1,2024,2023-24,div3,RCSJ Cumberland,rowancollegeofsouthjerseycumberland,gavinseveraayxm,Gavin Severa
-Apr 14,home,RCSJ Gloucester,L,19-7,19,7,12,win,20240414_9beg,0,0,0,0,0.0,2,5,,0.00,,2,3,2024,2023-24,div3,RCSJ Cumberland,rowancollegeofsouthjerseycumberland,gavinseveraayxm,Gavin Severa
-Apr 13,home,RCSJ Gloucester,L,10-1,10,1,9,win,20240413_pwqj,0,0,0,0,2.0,2,3,3,13.50,1.50,1,2,2024,2023-24,div3,RCSJ Cumberland,rowancollegeofsouthjerseycumberland,gavinseveraayxm,Gavin Severa
-Apr 6,home,Salem,W,25-7,25,7,18,win,20240406_ycw4,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div3,RCSJ Cumberland,rowancollegeofsouthjerseycumberland,gavinseveraayxm,Gavin Severa
-Mar 30,home,Union,W,10-6,10,6,4,win,20240330_hyb5,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div3,RCSJ Cumberland,rowancollegeofsouthjerseycumberland,gavinseveraayxm,Gavin Severa
-Mar 30,home,Union,W,6-1,6,1,5,win,20240330_kw1g,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div3,RCSJ Cumberland,rowancollegeofsouthjerseycumberland,gavinseveraayxm,Gavin Severa
-Mar 24,home,Middlesex College,W,17-0,17,0,17,win,20240324_t6xk,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div3,RCSJ Cumberland,rowancollegeofsouthjerseycumberland,gavinseveraayxm,Gavin Severa
-Mar 18,home,Brookdale,L,25-5,25,5,20,win,20240318_nbof,0,0,0,0,0.2,1,3,3,40.50,6.00,3,,2024,2023-24,div3,RCSJ Cumberland,rowancollegeofsouthjerseycumberland,gavinseveraayxm,Gavin Severa
-Mar 17,home,Brookdale,L,15-2,15,2,13,win,20240317_lo02,0,0,0,0,0.1,1,1,1,27.00,3.00,,,2024,2023-24,div3,RCSJ Cumberland,rowancollegeofsouthjerseycumberland,gavinseveraayxm,Gavin Severa
-Mar 13,home,Mt. Aloysius College,W,14-0,14,0,14,win,20240313_y5m4,0,0,0,0,1.2,1,1,,0.00,2.40,3,3,2024,2023-24,div3,RCSJ Cumberland,rowancollegeofsouthjerseycumberland,gavinseveraayxm,Gavin Severa
-Mar 4,home,Bergen,W,3-1,3,1,2,win,20240304_pwzl,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div3,RCSJ Cumberland,rowancollegeofsouthjerseycumberland,gavinseveraayxm,Gavin Severa
-Mar 1,home,Bergen,W,7-2,7,2,5,win,20240301_nd7b,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div3,RCSJ Cumberland,rowancollegeofsouthjerseycumberland,gavinseveraayxm,Gavin Severa
-Feb 25,home,SUNY Adirondack,W,9-0,9,0,9,win,20240225_1nyh,0,0,0,0,0.0,,3,2,INF,,3,,2024,2023-24,div3,RCSJ Cumberland,rowancollegeofsouthjerseycumberland,gavinseveraayxm,Gavin Severa
-Feb 25,home,SUNY Adirondack,W,1-0,1,0,1,win,20240225_2t65,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div3,RCSJ Cumberland,rowancollegeofsouthjerseycumberland,gavinseveraayxm,Gavin Severa
-Feb 24,home,SUNY Adirondack,W,9-6,9,6,3,win,20240224_smm6,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div3,RCSJ Cumberland,rowancollegeofsouthjerseycumberland,gavinseveraayxm,Gavin Severa
+May 5,home,Rochester,L,7-6,7,6,1,win,20240505_eadi,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div3,RCSJ Cumberland,rowancollegeofsouthjerseycumberland,gavinseveraayxm,Gavin Severa
+May 3,home,Rochester,W,7-1,7,1,6,win,20240503_p9tk,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div3,RCSJ Cumberland,rowancollegeofsouthjerseycumberland,gavinseveraayxm,Gavin Severa
+May 3,home,Rochester,L,4-1,4,1,3,win,20240503_g0f9,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div3,RCSJ Cumberland,rowancollegeofsouthjerseycumberland,gavinseveraayxm,Gavin Severa
+Apr 21,home,Western Tech,W,11-4,11,4,7,win,20240421_br2w,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div3,RCSJ Cumberland,rowancollegeofsouthjerseycumberland,gavinseveraayxm,Gavin Severa
+Apr 14,home,Century,L,20-9,20,9,11,win,20240414_g7b3,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div3,RCSJ Cumberland,rowancollegeofsouthjerseycumberland,gavinseveraayxm,Gavin Severa
+Mar 6,home,Miles,L,15-7,15,7,8,win,20240306_t4z2,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div3,RCSJ Cumberland,rowancollegeofsouthjerseycumberland,gavinseveraayxm,Gavin Severa
+Mar 6,home,Miles,L,12-2,12,2,10,win,20240306_ipyq,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div3,RCSJ Cumberland,rowancollegeofsouthjerseycumberland,gavinseveraayxm,Gavin Severa
+Mar 5,home,Bismarck State,L,7-5,7,5,2,win,20240305_k0l5,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div3,RCSJ Cumberland,rowancollegeofsouthjerseycumberland,gavinseveraayxm,Gavin Severa
+Mar 5,home,Bismarck State,L,13-1,13,1,12,win,20240305_l467,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div3,RCSJ Cumberland,rowancollegeofsouthjerseycumberland,gavinseveraayxm,Gavin Severa
+Mar 4,home,DWU jv,L,8-7,8,7,1,win,20240304_sf6u,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div3,RCSJ Cumberland,rowancollegeofsouthjerseycumberland,gavinseveraayxm,Gavin Severa
+Mar 3,home,Bismarck State,L,9-5,9,5,4,win,20240303_jaze,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div3,RCSJ Cumberland,rowancollegeofsouthjerseycumberland,gavinseveraayxm,Gavin Severa
+Mar 3,home,Miles,W,14-7,14,7,7,win,20240303_s2u7,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div3,RCSJ Cumberland,rowancollegeofsouthjerseycumberland,gavinseveraayxm,Gavin Severa

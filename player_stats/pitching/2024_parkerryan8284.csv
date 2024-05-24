@@ -1,10 +1,34 @@
 date,location,opponent,result,score,team_score,opp_score,game_score_diff,game_win_loss,game_id,GS,W,L,SV,IP,H,R,ER,ERA,BB,K,HR,season,njcaa_season,njcaa_division,team,team_id,player_id,player_name
-May 2,home,Macomb,L,11-0,11,0,11,win,20240502_o0vv,0,0,0,0,2.1,7,7,7,27.00,3.86,2,3,2024,2023-24,div2,Pearl River,pearlrivercommunitycollege,parkerryan8284,Parker Ryan
-Apr 20,home,Schoolcraft,L,8-4,8,4,4,win,20240420_gqaq,1,0,1,0,1.1,6,7,7,47.25,6.00,2,2,2024,2023-24,div2,Pearl River,pearlrivercommunitycollege,parkerryan8284,Parker Ryan
-Apr 14,home,Jackson,L,11-3,11,3,8,win,20240414_o0jg,0,0,0,0,2.0,4,5,5,22.50,3.00,2,,2024,2023-24,div2,Pearl River,pearlrivercommunitycollege,parkerryan8284,Parker Ryan
-Apr 9,home,Concordia University JV,L,7-3,7,3,4,win,20240409_x88w,1,0,1,0,2.0,5,4,4,18.00,3.00,1,4,2024,2023-24,div2,Pearl River,pearlrivercommunitycollege,parkerryan8284,Parker Ryan
-Apr 7,home,Henry Ford,L,3-2,3,2,1,win,20240407_05xc,0,0,1,0,1.0,1,1,,0.00,2.00,1,,2024,2023-24,div2,Pearl River,pearlrivercommunitycollege,parkerryan8284,Parker Ryan
-Mar 29,home,Mott,L,13-4,13,4,9,win,20240329_aagc,0,0,0,0,3.1,5,3,2,5.40,2.10,2,4,2024,2023-24,div2,Pearl River,pearlrivercommunitycollege,parkerryan8284,Parker Ryan
-Mar 21,home,Jackson,L,5-4,5,4,1,win,20240321_0m4d,0,0,1,0,1.2,3,1,1,5.40,3.60,3,,2024,2023-24,div2,Pearl River,pearlrivercommunitycollege,parkerryan8284,Parker Ryan
-Mar 7,home,Northampton,L,13-6,13,6,7,win,20240307_ax4z,1,0,1,0,2.0,4,6,5,22.50,4.50,5,1,2024,2023-24,div2,Pearl River,pearlrivercommunitycollege,parkerryan8284,Parker Ryan
-Mar 2,home,Edison State,L,11-3,11,3,8,win,20240302_j5bx,0,0,0,0,4.0,6,5,4,9.00,2.50,4,6,2024,2023-24,div2,Pearl River,pearlrivercommunitycollege,parkerryan8284,Parker Ryan
+May 16,home,LSU Eunice,L,10-0,10,0,10,win,20240516_q8vv,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div2,Pearl River,pearlrivercommunitycollege,parkerryan8284,Parker Ryan
+May 16,home,Meridian,W,10-1,10,1,9,win,20240516_9xr2,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div2,Pearl River,pearlrivercommunitycollege,parkerryan8284,Parker Ryan
+May 15,home,LSU Eunice,L,11-3,11,3,8,win,20240515_li8d,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div2,Pearl River,pearlrivercommunitycollege,parkerryan8284,Parker Ryan
+May 6,home,North Arkansas,W,11-4,11,4,7,win,20240506_y5ia,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div2,Pearl River,pearlrivercommunitycollege,parkerryan8284,Parker Ryan
+Apr 27,home,Northwest Mississippi,W,7-1,7,1,6,win,20240427_t94z,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div2,Pearl River,pearlrivercommunitycollege,parkerryan8284,Parker Ryan
+Apr 27,home,Northwest Mississippi,L,9-8,9,8,1,win,20240427_9rcf,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div2,Pearl River,pearlrivercommunitycollege,parkerryan8284,Parker Ryan
+Apr 24,home,Jones,W,16-8,16,8,8,win,20240424_dwyt,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div2,Pearl River,pearlrivercommunitycollege,parkerryan8284,Parker Ryan
+Apr 19,home,Chipola,W,7-2,7,2,5,win,20240419_2uhv,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div2,Pearl River,pearlrivercommunitycollege,parkerryan8284,Parker Ryan
+Apr 17,home,East Central (MS),L,7-2,7,2,5,win,20240417_3uv1,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div2,Pearl River,pearlrivercommunitycollege,parkerryan8284,Parker Ryan
+Apr 13,home,Coahoma,W,13-2,13,2,11,win,20240413_mhab,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div2,Pearl River,pearlrivercommunitycollege,parkerryan8284,Parker Ryan
+Apr 9,home,Mississippi Gulf Coast,W,13-3,13,3,10,win,20240409_jpbq,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div2,Pearl River,pearlrivercommunitycollege,parkerryan8284,Parker Ryan
+Apr 6,home,East Mississippi,W,6-4,6,4,2,win,20240406_4tji,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div2,Pearl River,pearlrivercommunitycollege,parkerryan8284,Parker Ryan
+Apr 2,home,Copiah-Lincoln,W,16-1,16,1,15,win,20240402_j6f2,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div2,Pearl River,pearlrivercommunitycollege,parkerryan8284,Parker Ryan
+Mar 29,home,Holmes,W,9-2,9,2,7,win,20240329_1g2o,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div2,Pearl River,pearlrivercommunitycollege,parkerryan8284,Parker Ryan
+Mar 26,home,Hinds,W,9-2,9,2,7,win,20240326_whil,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div2,Pearl River,pearlrivercommunitycollege,parkerryan8284,Parker Ryan
+Mar 23,home,Itawamba,W,13-3,13,3,10,win,20240323_ny88,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div2,Pearl River,pearlrivercommunitycollege,parkerryan8284,Parker Ryan
+Mar 19,home,Meridian,W,5-2,5,2,3,win,20240319_m7ja,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div2,Pearl River,pearlrivercommunitycollege,parkerryan8284,Parker Ryan
+Mar 19,home,Meridian,W,14-2,14,2,12,win,20240319_hocu,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div2,Pearl River,pearlrivercommunitycollege,parkerryan8284,Parker Ryan
+Mar 17,home,Mississippi Delta,W,17-3,17,3,14,win,20240317_i3n9,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div2,Pearl River,pearlrivercommunitycollege,parkerryan8284,Parker Ryan
+Mar 13,home,Southwest Mississippi,W,11-2,11,2,9,win,20240313_6k1y,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div2,Pearl River,pearlrivercommunitycollege,parkerryan8284,Parker Ryan
+Mar 13,home,Southwest Mississippi,W,9-4,9,4,5,win,20240313_de1u,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div2,Pearl River,pearlrivercommunitycollege,parkerryan8284,Parker Ryan
+Mar 9,home,Northeast Mississippi,W,11-1,11,1,10,win,20240309_0zl8,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div2,Pearl River,pearlrivercommunitycollege,parkerryan8284,Parker Ryan
+Mar 6,home,Mississippi Delta,W,14-0,14,0,14,win,20240306_otxh,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div2,Pearl River,pearlrivercommunitycollege,parkerryan8284,Parker Ryan
+Mar 3,home,Illinois Central,W,20-1,20,1,19,win,20240303_0ttj,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div2,Pearl River,pearlrivercommunitycollege,parkerryan8284,Parker Ryan
+Feb 28,home,Jones,W,5-4,5,4,1,win,20240228_5mrc,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div2,Pearl River,pearlrivercommunitycollege,parkerryan8284,Parker Ryan
+Feb 25,home,Parkland,W,14-1,14,1,13,win,20240225_mb6f,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div2,Pearl River,pearlrivercommunitycollege,parkerryan8284,Parker Ryan
+Feb 23,home,South Arkansas,W,15-5,15,5,10,win,20240223_hnxx,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div2,Pearl River,pearlrivercommunitycollege,parkerryan8284,Parker Ryan
+Feb 20,home,Holmes,W,8-2,8,2,6,win,20240220_6kcg,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div2,Pearl River,pearlrivercommunitycollege,parkerryan8284,Parker Ryan
+Feb 17,home,Murray State,L,15-9,15,9,6,win,20240217_j3mc,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div2,Pearl River,pearlrivercommunitycollege,parkerryan8284,Parker Ryan
+Feb 11,home,Baton Rouge,W,16-4,16,4,12,win,20240211_mcyh,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div2,Pearl River,pearlrivercommunitycollege,parkerryan8284,Parker Ryan
+Feb 9,home,Baton Rouge,W,10-0,10,0,10,win,20240209_kej4,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div2,Pearl River,pearlrivercommunitycollege,parkerryan8284,Parker Ryan
+Feb 4,home,Miami Dade,W,14-0,14,0,14,win,20240204_b1ao,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div2,Pearl River,pearlrivercommunitycollege,parkerryan8284,Parker Ryan
+Feb 3,home,Dyersburg State,W,7-0,7,0,7,win,20240203_px0l,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div2,Pearl River,pearlrivercommunitycollege,parkerryan8284,Parker Ryan

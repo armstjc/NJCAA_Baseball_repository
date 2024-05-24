@@ -1,21 +1,17 @@
 date,location,opponent,result,score,team_score,opp_score,game_score_diff,game_win_loss,game_id,TC,PO,A,E,FPCT,DP,SBA,RCS,RCS_PCT,PB,CI,season,njcaa_season,njcaa_division,team,team_id,player_id,player_name
-Feb 10,home,TCS Post Grad,W,3-2,3,2,1,win,20240210_hxnx,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Carl Albert State,carlalbertstatecollege,alexnirider0q5l,Alex Nirider
-Feb 13,home,Labette,W,3-2,3,2,1,win,20240213_k5h8,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Carl Albert State,carlalbertstatecollege,alexnirider0q5l,Alex Nirider
-Feb 13,home,Labette,W,5-1,5,1,4,win,20240213_8atc,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Carl Albert State,carlalbertstatecollege,alexnirider0q5l,Alex Nirider
-Feb 25,home,Labette,W,16-10,16,10,6,win,20240225_voq2,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Carl Albert State,carlalbertstatecollege,alexnirider0q5l,Alex Nirider
-Feb 27,home,UA Rich Mountain,W,8-6,8,6,2,win,20240227_hbns,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Carl Albert State,carlalbertstatecollege,alexnirider0q5l,Alex Nirider
-Mar 1,home,Northern Oklahoma Enid,L,9-2,9,2,7,win,20240301_j9rb,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Carl Albert State,carlalbertstatecollege,alexnirider0q5l,Alex Nirider
-Mar 5,home,University of the Ozarks,W,14-5,14,5,9,win,20240305_o6wq,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Carl Albert State,carlalbertstatecollege,alexnirider0q5l,Alex Nirider
-Mar 9,home,Western Oklahoma State,L,8-4,8,4,4,win,20240309_0gnk,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Carl Albert State,carlalbertstatecollege,alexnirider0q5l,Alex Nirider
-Mar 12,home,University of the Ozarks,W,9-0,9,0,9,win,20240312_8t6x,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Carl Albert State,carlalbertstatecollege,alexnirider0q5l,Alex Nirider
-Mar 16,home,Redlands,W,5-3,5,3,2,win,20240316_q083,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Carl Albert State,carlalbertstatecollege,alexnirider0q5l,Alex Nirider
-Mar 23,home,Northern Oklahoma Tonkawa,W,10-9,10,9,1,win,20240323_f579,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Carl Albert State,carlalbertstatecollege,alexnirider0q5l,Alex Nirider
-Apr 2,home,Eastern Oklahoma State,W,15-2,15,2,13,win,20240402_ld4j,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Carl Albert State,carlalbertstatecollege,alexnirider0q5l,Alex Nirider
-Apr 6,home,Northern Oklahoma Enid,L,3-2,3,2,1,win,20240406_vomc,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Carl Albert State,carlalbertstatecollege,alexnirider0q5l,Alex Nirider
-Apr 12,home,Western Oklahoma State,L,16-7,16,7,9,win,20240412_opht,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Carl Albert State,carlalbertstatecollege,alexnirider0q5l,Alex Nirider
-Apr 15,home,Oklahoma Christian,W,11-6,11,6,5,win,20240415_oq52,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Carl Albert State,carlalbertstatecollege,alexnirider0q5l,Alex Nirider
-Apr 15,home,Oklahoma Christian,W,14-2,14,2,12,win,20240415_f6mg,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Carl Albert State,carlalbertstatecollege,alexnirider0q5l,Alex Nirider
-Apr 29,home,TCS Post Grad,W,5-3,5,3,2,win,20240429_2cmv,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Carl Albert State,carlalbertstatecollege,alexnirider0q5l,Alex Nirider
-Apr 29,home,TCS Post Grad,W,7-5,7,5,2,win,20240429_xegu,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Carl Albert State,carlalbertstatecollege,alexnirider0q5l,Alex Nirider
-May 4,home,Murray State,L,5-4,5,4,1,win,20240504_khd6,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Carl Albert State,carlalbertstatecollege,alexnirider0q5l,Alex Nirider
-May 11,home,Western Oklahoma State,W,7-4,7,4,3,win,20240511_dt2h,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Carl Albert State,carlalbertstatecollege,alexnirider0q5l,Alex Nirider
+Feb 11,home,Southwest Tennessee,L,10-8,10,8,2,win,20240211_l78y,0,0,0,0,1.0,1,1,1,9.00,3.00,2,2024,2023-24,div2,Carl Albert State,carlalbertstatecollege,alexnirider0q5l,Alex Nirider
+Feb 17,home,Arkansas State University - Three Rivers,W,8-5,8,5,3,win,20240217_i946,0,1,0,0,2.1,1,2,2,7.71,1.29,2,2024,2023-24,div2,Carl Albert State,carlalbertstatecollege,alexnirider0q5l,Alex Nirider
+Feb 25,home,Kankakee,L,13-8,13,8,5,win,20240225_ukb1,0,0,0,0,1.0,1,1,1,9.00,2.00,1,2024,2023-24,div2,Carl Albert State,carlalbertstatecollege,alexnirider0q5l,Alex Nirider
+Mar 2,home,McHenry County,L,5-2,5,2,3,win,20240302_0dgq,0,0,0,0,3.0,3,,,0.00,2.00,3,2024,2023-24,div2,Carl Albert State,carlalbertstatecollege,alexnirider0q5l,Alex Nirider
+Mar 10,home,Illinois Central,L,9-3,9,3,6,win,20240310_73k9,0,0,0,0,0.2,,,,0.00,3.00,2,2024,2023-24,div2,Carl Albert State,carlalbertstatecollege,alexnirider0q5l,Alex Nirider
+Mar 11,home,Illinois Central,W,18-10,18,10,8,win,20240311_ipd7,0,1,0,0,3.0,,,,0.00,1.00,3,2024,2023-24,div2,Carl Albert State,carlalbertstatecollege,alexnirider0q5l,Alex Nirider
+Mar 16,home,Spoon River,W,12-3,12,3,9,win,20240316_54xr,0,1,0,0,4.0,2,2,1,2.25,1.25,3,2024,2023-24,div2,Carl Albert State,carlalbertstatecollege,alexnirider0q5l,Alex Nirider
+Mar 23,home,Vincennes,W,10-5,10,5,5,win,20240323_cn3l,0,0,0,1,1.2,1,,,0.00,1.20,1,2024,2023-24,div2,Carl Albert State,carlalbertstatecollege,alexnirider0q5l,Alex Nirider
+Mar 24,home,Vincennes,W,10-2,10,2,8,win,20240324_ec18,0,0,0,0,1.0,,,,0.00,,,2024,2023-24,div2,Carl Albert State,carlalbertstatecollege,alexnirider0q5l,Alex Nirider
+Mar 29,home,John Wood,W,10-9,10,9,1,win,20240329_ndb2,0,1,0,0,3.0,1,2,2,6.00,1.67,4,2024,2023-24,div2,Carl Albert State,carlalbertstatecollege,alexnirider0q5l,Alex Nirider
+Apr 14,home,Parkland,W,14-12,14,12,2,win,20240414_2gmn,0,0,0,0,4.2,4,5,5,9.64,1.71,4,2024,2023-24,div2,Carl Albert State,carlalbertstatecollege,alexnirider0q5l,Alex Nirider
+Apr 21,home,Heartland,L,18-2,18,2,16,win,20240421_f5yz,0,0,0,0,1.2,4,2,2,10.80,3.60,2,2024,2023-24,div2,Carl Albert State,carlalbertstatecollege,alexnirider0q5l,Alex Nirider
+Apr 26,home,Lewis & Clark,L,7-6,7,6,1,win,20240426_jzft,0,0,1,0,0.1,2,1,1,27.00,9.00,1,2024,2023-24,div2,Carl Albert State,carlalbertstatecollege,alexnirider0q5l,Alex Nirider
+Apr 27,home,Lewis & Clark,L,9-8,9,8,1,win,20240427_mouw,0,0,1,0,2.0,3,5,,0.00,2.50,2,2024,2023-24,div2,Carl Albert State,carlalbertstatecollege,alexnirider0q5l,Alex Nirider
+May 4,home,Lincoln Land,L,7-4,7,4,3,win,20240504_jayh,0,0,0,0,5.0,,,,0.00,.40,2,2024,2023-24,div2,Carl Albert State,carlalbertstatecollege,alexnirider0q5l,Alex Nirider
+May 10,home,Parkland,L,12-4,12,4,8,win,20240510_ct3c,0,0,0,0,2.1,6,3,3,11.57,3.00,1,2024,2023-24,div2,Carl Albert State,carlalbertstatecollege,alexnirider0q5l,Alex Nirider

@@ -1,19 +1,37 @@
 date,location,opponent,result,score,team_score,opp_score,game_score_diff,game_win_loss,game_id,TC,PO,A,E,FPCT,DP,SBA,RCS,RCS_PCT,PB,CI,season,njcaa_season,njcaa_division,team,team_id,player_id,player_name
-Feb 10,home,Columbia State,L,32-11,32,11,21,win,20240210_spek,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Danville Area,danvilleareacommunitycollege,alexfernandezw7ut,Alex Fernandez
-Feb 11,home,Southwest Tennessee,L,10-8,10,8,2,win,20240211_l78y,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Danville Area,danvilleareacommunitycollege,alexfernandezw7ut,Alex Fernandez
-Feb 17,home,Arkansas State University - Three Rivers,W,8-5,8,5,3,win,20240217_i946,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Danville Area,danvilleareacommunitycollege,alexfernandezw7ut,Alex Fernandez
-Feb 18,home,Southwestern Illinois,L,11-2,11,2,9,win,20240218_8f03,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Danville Area,danvilleareacommunitycollege,alexfernandezw7ut,Alex Fernandez
-Feb 23,home,Kankakee,W,7-6,7,6,1,win,20240223_eoa3,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Danville Area,danvilleareacommunitycollege,alexfernandezw7ut,Alex Fernandez
-Mar 2,home,Olive-Harvey,L,9-2,9,2,7,win,20240302_e31p,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Danville Area,danvilleareacommunitycollege,alexfernandezw7ut,Alex Fernandez
-Mar 3,home,Olney Central,L,10-0,10,0,10,win,20240303_2j0e,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Danville Area,danvilleareacommunitycollege,alexfernandezw7ut,Alex Fernandez
-Mar 10,home,Illinois Central,L,9-3,9,3,6,win,20240310_73k9,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Danville Area,danvilleareacommunitycollege,alexfernandezw7ut,Alex Fernandez
-Mar 10,home,Illinois Central,L,13-12,13,12,1,win,20240310_bgo4,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Danville Area,danvilleareacommunitycollege,alexfernandezw7ut,Alex Fernandez
-Mar 11,home,Illinois Central,W,8-7,8,7,1,win,20240311_inc0,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Danville Area,danvilleareacommunitycollege,alexfernandezw7ut,Alex Fernandez
-Mar 23,home,Vincennes,W,10-5,10,5,5,win,20240323_cn3l,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Danville Area,danvilleareacommunitycollege,alexfernandezw7ut,Alex Fernandez
-Mar 23,home,Vincennes,W,9-6,9,6,3,win,20240323_ukgl,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Danville Area,danvilleareacommunitycollege,alexfernandezw7ut,Alex Fernandez
-Apr 14,home,Parkland,W,14-12,14,12,2,win,20240414_2gmn,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Danville Area,danvilleareacommunitycollege,alexfernandezw7ut,Alex Fernandez
-Apr 20,home,Heartland,L,7-6,7,6,1,win,20240420_eeu8,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Danville Area,danvilleareacommunitycollege,alexfernandezw7ut,Alex Fernandez
-Apr 21,home,Heartland,L,18-2,18,2,16,win,20240421_f5yz,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Danville Area,danvilleareacommunitycollege,alexfernandezw7ut,Alex Fernandez
-May 3,home,Lincoln Land,L,9-3,9,3,6,win,20240503_teii,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Danville Area,danvilleareacommunitycollege,alexfernandezw7ut,Alex Fernandez
-May 4,home,Lincoln Land,L,7-4,7,4,3,win,20240504_jayh,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Danville Area,danvilleareacommunitycollege,alexfernandezw7ut,Alex Fernandez
-May 10,home,Lewis & Clark,L,12-11,12,11,1,win,20240510_0a5f,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Danville Area,danvilleareacommunitycollege,alexfernandezw7ut,Alex Fernandez
+Feb 6,home,Camp,W,10-9,10,9,1,win,20240206_masr,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Danville Area,danvilleareacommunitycollege,alexfernandezw7ut,Alex Fernandez
+Feb 17,home,Lenoir,L,5-2,5,2,3,win,20240217_yrkx,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Danville Area,danvilleareacommunitycollege,alexfernandezw7ut,Alex Fernandez
+Feb 17,home,Lenoir,W,9-5,9,5,4,win,20240217_vi33,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Danville Area,danvilleareacommunitycollege,alexfernandezw7ut,Alex Fernandez
+Feb 18,home,Lenoir,W,11-3,11,3,8,win,20240218_j311,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Danville Area,danvilleareacommunitycollege,alexfernandezw7ut,Alex Fernandez
+Feb 21,home,Montgomery,W,11-10,11,10,1,win,20240221_33zc,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Danville Area,danvilleareacommunitycollege,alexfernandezw7ut,Alex Fernandez
+Feb 24,home,Pitt,W,11-5,11,5,6,win,20240224_h8pl,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Danville Area,danvilleareacommunitycollege,alexfernandezw7ut,Alex Fernandez
+Feb 25,home,Pitt,W,12-10,12,10,2,win,20240225_znpp,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Danville Area,danvilleareacommunitycollege,alexfernandezw7ut,Alex Fernandez
+Feb 25,home,Pitt,W,12-4,12,4,8,win,20240225_gu5q,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Danville Area,danvilleareacommunitycollege,alexfernandezw7ut,Alex Fernandez
+Mar 8,home,Fayetteville Tech,W,7-4,7,4,3,win,20240308_db2v,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Danville Area,danvilleareacommunitycollege,alexfernandezw7ut,Alex Fernandez
+Mar 10,home,Fayetteville Tech,L,12-4,12,4,8,win,20240310_xiby,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Danville Area,danvilleareacommunitycollege,alexfernandezw7ut,Alex Fernandez
+Mar 10,home,Fayetteville Tech,L,14-1,14,1,13,win,20240310_yrk4,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Danville Area,danvilleareacommunitycollege,alexfernandezw7ut,Alex Fernandez
+Mar 15,home,Brunswick,L,13-3,13,3,10,win,20240315_3o1s,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Danville Area,danvilleareacommunitycollege,alexfernandezw7ut,Alex Fernandez
+Mar 15,home,Brunswick,L,6-4,6,4,2,win,20240315_hmmj,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Danville Area,danvilleareacommunitycollege,alexfernandezw7ut,Alex Fernandez
+Mar 16,home,Brunswick,L,12-4,12,4,8,win,20240316_0cqb,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Danville Area,danvilleareacommunitycollege,alexfernandezw7ut,Alex Fernandez
+Mar 22,home,Louisburg,L,5-4,5,4,1,win,20240322_adgk,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Danville Area,danvilleareacommunitycollege,alexfernandezw7ut,Alex Fernandez
+Mar 22,home,Louisburg,L,7-4,7,4,3,win,20240322_dih0,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Danville Area,danvilleareacommunitycollege,alexfernandezw7ut,Alex Fernandez
+Mar 26,home,Bryant & Stratton (VA),L,4-3,4,3,1,win,20240326_ihw8,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Danville Area,danvilleareacommunitycollege,alexfernandezw7ut,Alex Fernandez
+Mar 29,home,Lenoir,L,13-5,13,5,8,win,20240329_4ufb,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Danville Area,danvilleareacommunitycollege,alexfernandezw7ut,Alex Fernandez
+Mar 29,home,Lenoir,W,3-2,3,2,1,win,20240329_b9hy,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Danville Area,danvilleareacommunitycollege,alexfernandezw7ut,Alex Fernandez
+Mar 30,home,Lenoir,W,6-2,6,2,4,win,20240330_ptmc,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Danville Area,danvilleareacommunitycollege,alexfernandezw7ut,Alex Fernandez
+Apr 2,home,Bryant & Stratton (VA),L,4-3,4,3,1,win,20240402_neiy,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Danville Area,danvilleareacommunitycollege,alexfernandezw7ut,Alex Fernandez
+Apr 6,home,Pitt,L,4-0,4,0,4,win,20240406_pj6e,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Danville Area,danvilleareacommunitycollege,alexfernandezw7ut,Alex Fernandez
+Apr 7,home,Pitt,L,7-2,7,2,5,win,20240407_h4lj,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Danville Area,danvilleareacommunitycollege,alexfernandezw7ut,Alex Fernandez
+Apr 10,home,Bryant & Stratton (VA),L,12-4,12,4,8,win,20240410_03uy,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Danville Area,danvilleareacommunitycollege,alexfernandezw7ut,Alex Fernandez
+Apr 13,home,Southeastern-Whiteville,W,10-0,10,0,10,win,20240413_l4dt,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Danville Area,danvilleareacommunitycollege,alexfernandezw7ut,Alex Fernandez
+Apr 13,home,Southeastern-Whiteville,W,10-7,10,7,3,win,20240413_kun9,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Danville Area,danvilleareacommunitycollege,alexfernandezw7ut,Alex Fernandez
+Apr 14,home,Southeastern-Whiteville,L,18-10,18,10,8,win,20240414_lrhw,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Danville Area,danvilleareacommunitycollege,alexfernandezw7ut,Alex Fernandez
+Apr 18,home,Bryant & Stratton (VA),L,7-6,7,6,1,win,20240418_xy60,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Danville Area,danvilleareacommunitycollege,alexfernandezw7ut,Alex Fernandez
+Apr 20,home,Fayetteville Tech,L,5-1,5,1,4,win,20240420_eoea,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Danville Area,danvilleareacommunitycollege,alexfernandezw7ut,Alex Fernandez
+Apr 20,home,Fayetteville Tech,L,7-2,7,2,5,win,20240420_tqiq,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Danville Area,danvilleareacommunitycollege,alexfernandezw7ut,Alex Fernandez
+Apr 21,home,Fayetteville Tech,W,11-1,11,1,10,win,20240421_qdww,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Danville Area,danvilleareacommunitycollege,alexfernandezw7ut,Alex Fernandez
+Apr 24,home,Bryant & Stratton (VA),L,13-8,13,8,5,win,20240424_e6cu,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Danville Area,danvilleareacommunitycollege,alexfernandezw7ut,Alex Fernandez
+Apr 27,home,Brunswick,W,4-3,4,3,1,win,20240427_u6uh,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Danville Area,danvilleareacommunitycollege,alexfernandezw7ut,Alex Fernandez
+Apr 27,home,Brunswick,L,18-2,18,2,16,win,20240427_mdv8,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Danville Area,danvilleareacommunitycollege,alexfernandezw7ut,Alex Fernandez
+Apr 28,home,Brunswick,L,11-1,11,1,10,win,20240428_mbim,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Danville Area,danvilleareacommunitycollege,alexfernandezw7ut,Alex Fernandez
+Apr 30,home,Bryant & Stratton (VA),L,14-3,14,3,11,win,20240430_rj99,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Danville Area,danvilleareacommunitycollege,alexfernandezw7ut,Alex Fernandez

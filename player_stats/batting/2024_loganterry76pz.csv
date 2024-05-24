@@ -1,14 +1,38 @@
 date,location,opponent,result,score,team_score,opp_score,game_score_diff,game_win_loss,game_id,AB,R,H,2B,3B,HR,RBI,BB,K,SB,CS,HBP,SF,SH,TB,XBH,HDP,GO,FO,GO/FO,PA,season,njcaa_season,njcaa_division,team,team_id,player_id,player_name
-Feb 3,home,Dyersburg State,W,7-0,7,0,7,win,20240203_px0l,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0,,,0,2024,2023-24,div2,Pearl River,pearlrivercommunitycollege,loganterry76pz,Logan Terry
-Feb 9,home,Baton Rouge,W,3-0,3,0,3,win,20240209_exms,0,0,0,,,,0,,,,,,,,0,0,,,,,0,2024,2023-24,div2,Pearl River,pearlrivercommunitycollege,loganterry76pz,Logan Terry
-Feb 16,home,Murray State,W,10-5,10,5,5,win,20240216_orfg,0,0,0,,,,0,,,,,,,,0,0,,,,,0,2024,2023-24,div2,Pearl River,pearlrivercommunitycollege,loganterry76pz,Logan Terry
-Feb 28,home,Mississippi Gulf Coast,W,6-5,6,5,1,win,20240228_0cvk,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0,2024,2023-24,div2,Pearl River,pearlrivercommunitycollege,loganterry76pz,Logan Terry
-Mar 6,home,Mississippi Delta,W,14-0,14,0,14,win,20240306_otxh,0,0,0,,,,0,,,,,,,,0,0,,,,,0,2024,2023-24,div2,Pearl River,pearlrivercommunitycollege,loganterry76pz,Logan Terry
-Mar 13,home,Southwest Mississippi,W,11-2,11,2,9,win,20240313_6k1y,0,0,0,,,,0,,,,,,,,0,0,,,,,0,2024,2023-24,div2,Pearl River,pearlrivercommunitycollege,loganterry76pz,Logan Terry
-Mar 19,home,Meridian,W,14-2,14,2,12,win,20240319_hocu,0,0,0,,,,0,,,,,,,,0,0,,,,,0,2024,2023-24,div2,Pearl River,pearlrivercommunitycollege,loganterry76pz,Logan Terry
-Mar 26,home,Hinds,W,9-2,9,2,7,win,20240326_whil,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0,2024,2023-24,div2,Pearl River,pearlrivercommunitycollege,loganterry76pz,Logan Terry
-Apr 2,home,Copiah-Lincoln,W,16-1,16,1,15,win,20240402_j6f2,0,0,0,,,,0,,,,,,,,0,0,,,,,0,2024,2023-24,div2,Pearl River,pearlrivercommunitycollege,loganterry76pz,Logan Terry
-Apr 9,home,Mississippi Gulf Coast,W,13-3,13,3,10,win,20240409_jpbq,0,0,0,,,,0,,,,,,,,0,0,,,,,0,2024,2023-24,div2,Pearl River,pearlrivercommunitycollege,loganterry76pz,Logan Terry
-Apr 24,home,Jones,W,16-8,16,8,8,win,20240424_dwyt,0,0,0,,,,0,,,,,,,,0,0,,,,,0,2024,2023-24,div2,Pearl River,pearlrivercommunitycollege,loganterry76pz,Logan Terry
-May 6,home,North Arkansas,W,11-4,11,4,7,win,20240506_y5ia,0,0,0,,,,0,,,,,,,,0,0,,,,,0,2024,2023-24,div2,Pearl River,pearlrivercommunitycollege,loganterry76pz,Logan Terry
-May 14,home,Hinds,W,5-2,5,2,3,win,20240514_16xd,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0,2024,2023-24,div2,Pearl River,pearlrivercommunitycollege,loganterry76pz,Logan Terry
+Jan 30,home,Coastal Alabama - South,W,6-2,6,2,4,win,20240130_1bzv,4,1,1,1,,,0,,,,,,,,2,1,,,,,4,2024,2023-24,div2,Pearl River,pearlrivercommunitycollege,loganterry76pz,Logan Terry
+Feb 3,home,Florida SouthWestern State,W,6-3,6,3,3,win,20240203_q2ko,3,0,0,,,,1,,,,,,,,0,0,,,,,3,2024,2023-24,div2,Pearl River,pearlrivercommunitycollege,loganterry76pz,Logan Terry
+Feb 4,home,Miami Dade,W,14-0,14,0,14,win,20240204_b1ao,2,1,0,,,,0,2,2,,,,,,0,0,,,,,4,2024,2023-24,div2,Pearl River,pearlrivercommunitycollege,loganterry76pz,Logan Terry
+Feb 9,home,Baton Rouge,W,3-0,3,0,3,win,20240209_exms,2,0,0,,,,0,,1,,,1,,,0,0,,,,,3,2024,2023-24,div2,Pearl River,pearlrivercommunitycollege,loganterry76pz,Logan Terry
+Feb 11,home,Baton Rouge,W,10-3,10,3,7,win,20240211_zfoc,3,1,0,,,,0,,,1,,,,,0,0,,,,,3,2024,2023-24,div2,Pearl River,pearlrivercommunitycollege,loganterry76pz,Logan Terry
+Feb 16,home,Murray State,W,10-5,10,5,5,win,20240216_orfg,3,1,0,,,,0,1,1,,1,,,,0,0,1,,,,4,2024,2023-24,div2,Pearl River,pearlrivercommunitycollege,loganterry76pz,Logan Terry
+Feb 18,home,Murray State,W,10-3,10,3,7,win,20240218_hm0y,4,1,1,,,,0,,2,,,,,,1,0,,,,,4,2024,2023-24,div2,Pearl River,pearlrivercommunitycollege,loganterry76pz,Logan Terry
+Feb 20,home,Itawamba,W,6-1,6,1,5,win,20240220_ikmg,4,0,1,,,,0,,,,,,,,1,0,,,,,4,2024,2023-24,div2,Pearl River,pearlrivercommunitycollege,loganterry76pz,Logan Terry
+Feb 25,home,Parkland,W,14-1,14,1,13,win,20240225_mb6f,4,4,4,1,,1,2,,,,,,,,8,2,,,,,4,2024,2023-24,div2,Pearl River,pearlrivercommunitycollege,loganterry76pz,Logan Terry
+Feb 28,home,Mississippi Gulf Coast,W,6-5,6,5,1,win,20240228_0cvk,4,1,1,0,0,0,0,0,1,0,0,1,0,0,1,0,0,0,2,0.00,5,2024,2023-24,div2,Pearl River,pearlrivercommunitycollege,loganterry76pz,Logan Terry
+Feb 28,home,Jones,W,5-4,5,4,1,win,20240228_5mrc,3,0,1,,,,0,,1,,,,,,1,0,,1,,,3,2024,2023-24,div2,Pearl River,pearlrivercommunitycollege,loganterry76pz,Logan Terry
+Mar 3,home,Illinois Central,W,9-1,9,1,8,win,20240303_hp0j,3,1,1,1,0,0,1,0,0,0,0,0,0,0,2,1,0,0,2,0.00,3,2024,2023-24,div2,Pearl River,pearlrivercommunitycollege,loganterry76pz,Logan Terry
+Mar 6,home,Southwest Mississippi,W,10-3,10,3,7,win,20240306_stp4,3,0,0,,,,0,1,,,1,,,,0,0,,,,,4,2024,2023-24,div2,Pearl River,pearlrivercommunitycollege,loganterry76pz,Logan Terry
+Mar 9,home,Northeast Mississippi,W,11-1,11,1,10,win,20240309_0zl8,3,2,1,,,,2,,,1,,1,,,1,0,,1,1,1.00,4,2024,2023-24,div2,Pearl River,pearlrivercommunitycollege,loganterry76pz,Logan Terry
+Mar 9,home,Northeast Mississippi,W,4-3,4,3,1,win,20240309_f7h4,2,0,2,1,,,1,,,,,,,1,3,1,,1,,,3,2024,2023-24,div2,Pearl River,pearlrivercommunitycollege,loganterry76pz,Logan Terry
+Mar 13,home,Southwest Mississippi,W,9-4,9,4,5,win,20240313_de1u,3,0,0,,,,0,1,2,,,,,,0,0,,,,,4,2024,2023-24,div2,Pearl River,pearlrivercommunitycollege,loganterry76pz,Logan Terry
+Mar 17,home,Mississippi Delta,W,5-2,5,2,3,win,20240317_9y46,3,1,1,,,1,1,,1,,,,,,4,1,,,,,3,2024,2023-24,div2,Pearl River,pearlrivercommunitycollege,loganterry76pz,Logan Terry
+Mar 19,home,Meridian,W,14-2,14,2,12,win,20240319_hocu,2,2,0,,,,0,,1,,,2,,,0,0,,,,,4,2024,2023-24,div2,Pearl River,pearlrivercommunitycollege,loganterry76pz,Logan Terry
+Mar 19,home,Meridian,W,5-2,5,2,3,win,20240319_m7ja,2,1,0,,,,0,1,1,,,,,,0,0,,,,,3,2024,2023-24,div2,Pearl River,pearlrivercommunitycollege,loganterry76pz,Logan Terry
+Mar 23,home,Itawamba,W,13-3,13,3,10,win,20240323_ny88,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0,2024,2023-24,div2,Pearl River,pearlrivercommunitycollege,loganterry76pz,Logan Terry
+Mar 23,home,Itawamba,W,18-1,18,1,17,win,20240323_we3f,2,2,1,0,0,0,0,0,1,0,0,1,0,0,1,0,0,0,0,,3,2024,2023-24,div2,Pearl River,pearlrivercommunitycollege,loganterry76pz,Logan Terry
+Mar 26,home,Hinds,W,9-2,9,2,7,win,20240326_whil,1,1,0,0,0,0,0,1,0,0,0,1,0,1,0,0,0,1,0,,4,2024,2023-24,div2,Pearl River,pearlrivercommunitycollege,loganterry76pz,Logan Terry
+Mar 26,home,Hinds,W,6-1,6,1,5,win,20240326_gg6q,1,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0.00,2,2024,2023-24,div2,Pearl River,pearlrivercommunitycollege,loganterry76pz,Logan Terry
+Mar 29,home,Holmes,W,9-6,9,6,3,win,20240329_5sf8,2,1,0,,,,0,1,1,,,,,,0,0,,,,,3,2024,2023-24,div2,Pearl River,pearlrivercommunitycollege,loganterry76pz,Logan Terry
+Apr 2,home,Copiah-Lincoln,W,16-1,16,1,15,win,20240402_j6f2,2,1,0,,,,1,,,1,,2,,,0,0,,,,,4,2024,2023-24,div2,Pearl River,pearlrivercommunitycollege,loganterry76pz,Logan Terry
+Apr 2,home,Copiah-Lincoln,W,9-0,9,0,9,win,20240402_w3mg,2,1,1,1,,,0,1,,,,,,,2,1,,,,,3,2024,2023-24,div2,Pearl River,pearlrivercommunitycollege,loganterry76pz,Logan Terry
+Apr 6,home,East Mississippi,W,6-4,6,4,2,win,20240406_4tji,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,1,2024,2023-24,div2,Pearl River,pearlrivercommunitycollege,loganterry76pz,Logan Terry
+Apr 6,home,East Mississippi,W,8-4,8,4,4,win,20240406_hifx,3,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,1,1.00,3,2024,2023-24,div2,Pearl River,pearlrivercommunitycollege,loganterry76pz,Logan Terry
+Apr 9,home,Mississippi Gulf Coast,W,13-3,13,3,10,win,20240409_jpbq,4,0,1,,,,1,,1,,,,,,1,0,,,,,4,2024,2023-24,div2,Pearl River,pearlrivercommunitycollege,loganterry76pz,Logan Terry
+Apr 9,home,Mississippi Gulf Coast,W,13-1,13,1,12,win,20240409_fqxr,2,1,2,,,,1,2,,1,,,,,2,0,,,,,4,2024,2023-24,div2,Pearl River,pearlrivercommunitycollege,loganterry76pz,Logan Terry
+Apr 13,home,Coahoma,W,12-3,12,3,9,win,20240413_odin,3,0,1,0,0,0,1,0,0,0,0,0,0,0,1,0,0,1,1,1.00,3,2024,2023-24,div2,Pearl River,pearlrivercommunitycollege,loganterry76pz,Logan Terry
+Apr 19,home,Chipola,W,7-2,7,2,5,win,20240419_2uhv,1,0,0,,,,0,,,,,,,,0,0,,,,,1,2024,2023-24,div2,Pearl River,pearlrivercommunitycollege,loganterry76pz,Logan Terry
+Apr 24,home,Jones,W,16-8,16,8,8,win,20240424_dwyt,1,1,0,,,,0,,,,,1,,,0,0,,,1,,2,2024,2023-24,div2,Pearl River,pearlrivercommunitycollege,loganterry76pz,Logan Terry
+Apr 24,home,Jones,W,9-2,9,2,7,win,20240424_ryzq,4,0,0,,,,0,,2,,,,,,0,0,,2,,,4,2024,2023-24,div2,Pearl River,pearlrivercommunitycollege,loganterry76pz,Logan Terry
+May 6,home,North Arkansas,W,11-4,11,4,7,win,20240506_y5ia,0,0,0,,,,0,,,,,1,,,0,0,,,,,1,2024,2023-24,div2,Pearl River,pearlrivercommunitycollege,loganterry76pz,Logan Terry
+May 14,home,Hinds,W,5-2,5,2,3,win,20240514_16xd,3,0,0,0,0,0,0,0,2,0,0,0,0,1,0,0,0,0,1,0.00,4,2024,2023-24,div2,Pearl River,pearlrivercommunitycollege,loganterry76pz,Logan Terry
+May 16,home,Meridian,W,10-1,10,1,9,win,20240516_9xr2,1,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,,1,2024,2023-24,div2,Pearl River,pearlrivercommunitycollege,loganterry76pz,Logan Terry

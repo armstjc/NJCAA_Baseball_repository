@@ -1,26 +1,21 @@
 date,location,opponent,result,score,team_score,opp_score,game_score_diff,game_win_loss,game_id,AB,R,H,2B,3B,HR,RBI,BB,K,SB,CS,HBP,SF,SH,TB,XBH,HDP,GO,FO,GO/FO,PA,season,njcaa_season,njcaa_division,team,team_id,player_id,player_name
-Feb 18,home,Cleveland State,W,8-4,8,4,4,win,20240218_rbqc,2,0,0,,,,1,,,,,,,,0,0,,1,,,2,2024,2023-24,div2,Cuyahoga,cuyahogacommunitycollege,bradenreed7yiz,Braden Reed
-Mar 1,home,Mott,W,14-12,14,12,2,win,20240301_wa8q,2,2,1,,,,2,2,1,1,,,1,,1,0,,,,,5,2024,2023-24,div2,Cuyahoga,cuyahogacommunitycollege,bradenreed7yiz,Braden Reed
-Mar 4,home,Point Park University,W,18-14,18,14,4,win,20240304_b0ss,6,2,3,1,,1,4,,1,1,,,,,7,2,,,,,6,2024,2023-24,div2,Cuyahoga,cuyahogacommunitycollege,bradenreed7yiz,Braden Reed
-Mar 16,home,Terra State,W,25-14,25,14,11,win,20240316_kdb8,3,3,1,,,,1,2,,2,,,,,1,0,,,,,5,2024,2023-24,div2,Cuyahoga,cuyahogacommunitycollege,bradenreed7yiz,Braden Reed
-Mar 16,home,Terra State,W,12-4,12,4,8,win,20240316_zem6,3,1,2,,1,1,5,1,,,1,,,,7,2,,,,,4,2024,2023-24,div2,Cuyahoga,cuyahogacommunitycollege,bradenreed7yiz,Braden Reed
-Mar 17,home,Terra State,W,12-8,12,8,4,win,20240317_ust2,5,2,1,,,1,3,,1,,,,,,4,1,,,,,5,2024,2023-24,div2,Cuyahoga,cuyahogacommunitycollege,bradenreed7yiz,Braden Reed
-Mar 22,home,Lorain County,W,9-3,9,3,6,win,20240322_xmk3,3,1,1,1,,,1,,1,,,1,,,2,1,,,,,4,2024,2023-24,div2,Cuyahoga,cuyahogacommunitycollege,bradenreed7yiz,Braden Reed
-Mar 22,home,Lorain County,W,11-0,11,0,11,win,20240322_997m,3,2,2,1,,,2,,,,,,,,3,1,,,,,3,2024,2023-24,div2,Cuyahoga,cuyahogacommunitycollege,bradenreed7yiz,Braden Reed
-Mar 25,home,University of Mount Union,W,7-3,7,3,4,win,20240325_52hr,3,0,1,,,,0,,2,,,,,,1,0,,,,,3,2024,2023-24,div2,Cuyahoga,cuyahogacommunitycollege,bradenreed7yiz,Braden Reed
-Mar 25,home,University of Mount Union JV,W,9-3,9,3,6,win,20240325_vwow,3,1,2,,,,1,1,,,,,,,2,0,,,,,4,2024,2023-24,div2,Cuyahoga,cuyahogacommunitycollege,bradenreed7yiz,Braden Reed
-Mar 27,home,University of Northwestern Ohio-JV,W,10-0,10,0,10,win,20240327_rzsr,4,1,1,,,,0,,3,,,,,,1,0,,,,,4,2024,2023-24,div2,Cuyahoga,cuyahogacommunitycollege,bradenreed7yiz,Braden Reed
-Mar 27,home,University of Northwestern Ohio-JV,W,11-0,11,0,11,win,20240327_zeo0,3,3,2,,,,2,,,2,,,,,2,0,,,,,3,2024,2023-24,div2,Cuyahoga,cuyahogacommunitycollege,bradenreed7yiz,Braden Reed
-Mar 29,home,Lakeland,W,10-0,10,0,10,win,20240329_494d,4,1,2,1,,,0,,1,,,,,,3,1,,,,,4,2024,2023-24,div2,Cuyahoga,cuyahogacommunitycollege,bradenreed7yiz,Braden Reed
-Apr 6,home,Clark State,W,14-4,14,4,10,win,20240406_kfqa,3,3,1,,,,0,,,,,1,,,1,0,,,,,4,2024,2023-24,div2,Cuyahoga,cuyahogacommunitycollege,bradenreed7yiz,Braden Reed
-Apr 6,home,Clark State,W,12-7,12,7,5,win,20240406_o4ci,2,1,0,,,,1,1,,,,,,,0,0,,,,,3,2024,2023-24,div2,Cuyahoga,cuyahogacommunitycollege,bradenreed7yiz,Braden Reed
-Apr 7,home,Clark State,W,15-3,15,3,12,win,20240407_2uib,2,2,2,,,,3,2,,,,,,,2,0,,,,,4,2024,2023-24,div2,Cuyahoga,cuyahogacommunitycollege,bradenreed7yiz,Braden Reed
-Apr 9,home,University of Mount Union JV,W,12-2,12,2,10,win,20240409_hawe,3,2,2,1,,,0,1,1,1,,,,,3,1,,,,,4,2024,2023-24,div2,Cuyahoga,cuyahogacommunitycollege,bradenreed7yiz,Braden Reed
-Apr 9,home,University of Mount Union-JV,W,17-7,17,7,10,win,20240409_ozb9,3,3,2,1,1,,2,1,,,,,,,5,2,,,,,4,2024,2023-24,div2,Cuyahoga,cuyahogacommunitycollege,bradenreed7yiz,Braden Reed
-Apr 14,home,Hocking,W,12-5,12,5,7,win,20240414_i7g7,4,3,1,,,,1,,,,,1,,,1,0,,,,,5,2024,2023-24,div2,Cuyahoga,cuyahogacommunitycollege,bradenreed7yiz,Braden Reed
-Apr 14,home,Hocking,W,7-4,7,4,3,win,20240414_m8vw,1,0,0,,,,0,,1,,,,,,0,0,,,,,1,2024,2023-24,div2,Cuyahoga,cuyahogacommunitycollege,bradenreed7yiz,Braden Reed
-Apr 15,home,Hocking,W,8-7,8,7,1,win,20240415_a8vm,4,2,2,1,,,2,,,,1,,,,3,1,,,,,4,2024,2023-24,div2,Cuyahoga,cuyahogacommunitycollege,bradenreed7yiz,Braden Reed
-Apr 16,home,Owens,W,14-4,14,4,10,win,20240416_irx6,4,1,3,0,0,0,1,0,1,0,0,0,0,0,3,0,,0,,,4,2024,2023-24,div2,Cuyahoga,cuyahogacommunitycollege,bradenreed7yiz,Braden Reed
-Apr 16,home,Owens,W,9-4,9,4,5,win,20240416_4pbe,2,0,1,0,0,0,1,0,0,1,0,0,0,0,1,0,,0,,,2,2024,2023-24,div2,Cuyahoga,cuyahogacommunitycollege,bradenreed7yiz,Braden Reed
-May 2,home,Clark State,W,4-0,4,0,4,win,20240502_n3ic,2,0,0,,,,0,,,,,,,,0,0,,,,,2,2024,2023-24,div2,Cuyahoga,cuyahogacommunitycollege,bradenreed7yiz,Braden Reed
-May 2,home,Bryant & Stratton (OH),W,15-7,15,7,8,win,20240502_1hr9,2,5,2,,,,1,2,,,,1,,,2,0,,,,,5,2024,2023-24,div2,Cuyahoga,cuyahogacommunitycollege,bradenreed7yiz,Braden Reed
+Feb 18,home,Cleveland State,W,8-4,8,4,4,win,20240218_rbqc,2,0,1,,,,0,,1,,,,,,1,0,,,,,2,2024,2023-24,div2,Cuyahoga,cuyahogacommunitycollege,bradenreed7yiz,Braden Reed
+Mar 1,home,Mott,W,14-12,14,12,2,win,20240301_wa8q,4,3,2,1,,,0,,,,,,,,3,1,,,,,4,2024,2023-24,div2,Cuyahoga,cuyahogacommunitycollege,bradenreed7yiz,Braden Reed
+Mar 4,home,Point Park University,W,18-14,18,14,4,win,20240304_b0ss,4,2,3,1,,,3,,,,,1,1,,4,1,,,,,6,2024,2023-24,div2,Cuyahoga,cuyahogacommunitycollege,bradenreed7yiz,Braden Reed
+Mar 16,home,Terra State,W,25-14,25,14,11,win,20240316_kdb8,3,3,3,1,1,,2,1,,1,,,,,6,2,,,,,4,2024,2023-24,div2,Cuyahoga,cuyahogacommunitycollege,bradenreed7yiz,Braden Reed
+Mar 16,home,Terra State,W,12-4,12,4,8,win,20240316_zem6,3,1,2,,,,0,1,,1,,,,,2,0,,,,,4,2024,2023-24,div2,Cuyahoga,cuyahogacommunitycollege,bradenreed7yiz,Braden Reed
+Mar 17,home,Terra State,W,12-8,12,8,4,win,20240317_ust2,2,1,2,,,,0,,,,,,,,2,0,,,,,2,2024,2023-24,div2,Cuyahoga,cuyahogacommunitycollege,bradenreed7yiz,Braden Reed
+Mar 22,home,Lorain County,W,9-3,9,3,6,win,20240322_xmk3,2,2,1,,,,0,1,1,1,,1,,,1,0,,,,,4,2024,2023-24,div2,Cuyahoga,cuyahogacommunitycollege,bradenreed7yiz,Braden Reed
+Mar 22,home,Lorain County,W,11-0,11,0,11,win,20240322_997m,2,0,0,,,,0,1,,,,,,,0,0,,,,,3,2024,2023-24,div2,Cuyahoga,cuyahogacommunitycollege,bradenreed7yiz,Braden Reed
+Mar 25,home,University of Mount Union,W,7-3,7,3,4,win,20240325_52hr,3,0,0,,,,0,1,1,,1,,,,0,0,,,,,4,2024,2023-24,div2,Cuyahoga,cuyahogacommunitycollege,bradenreed7yiz,Braden Reed
+Apr 14,home,Hocking,W,12-5,12,5,7,win,20240414_i7g7,1,0,0,,,,0,2,,,,,,,0,0,,,,,3,2024,2023-24,div2,Cuyahoga,cuyahogacommunitycollege,bradenreed7yiz,Braden Reed
+Apr 16,home,Owens,W,14-4,14,4,10,win,20240416_irx6,4,3,3,1,0,1,4,0,0,0,0,0,0,0,7,2,,0,,,4,2024,2023-24,div2,Cuyahoga,cuyahogacommunitycollege,bradenreed7yiz,Braden Reed
+Apr 16,home,Owens,W,9-4,9,4,5,win,20240416_4pbe,3,1,1,0,0,0,1,1,0,0,0,0,0,0,1,0,,0,,,4,2024,2023-24,div2,Cuyahoga,cuyahogacommunitycollege,bradenreed7yiz,Braden Reed
+Apr 20,home,Edison State,W,5-4,5,4,1,win,20240420_5ntf,4,0,1,,,,0,,,,,,,,1,0,,,,,4,2024,2023-24,div2,Cuyahoga,cuyahogacommunitycollege,bradenreed7yiz,Braden Reed
+Apr 20,home,Edison State,W,15-1,15,1,14,win,20240420_n0uf,4,3,2,,,,0,,,,,,,,2,0,,,,,4,2024,2023-24,div2,Cuyahoga,cuyahogacommunitycollege,bradenreed7yiz,Braden Reed
+Apr 21,home,Edison State,W,9-4,9,4,5,win,20240421_8g7b,3,1,1,,,,0,1,,,,,,,1,0,,,,,4,2024,2023-24,div2,Cuyahoga,cuyahogacommunitycollege,bradenreed7yiz,Braden Reed
+Apr 21,home,Edison State,W,9-1,9,1,8,win,20240421_76xf,4,2,2,,,,1,,1,,,,,,2,0,,,,,4,2024,2023-24,div2,Cuyahoga,cuyahogacommunitycollege,bradenreed7yiz,Braden Reed
+Apr 26,home,Bryant & Stratton (OH),W,9-7,9,7,2,win,20240426_3jv7,1,1,0,,,,0,3,,2,,,,,0,0,,,,,4,2024,2023-24,div2,Cuyahoga,cuyahogacommunitycollege,bradenreed7yiz,Braden Reed
+Apr 27,home,Bryant & Stratton (OH),W,11-5,11,5,6,win,20240427_vvjy,1,0,0,,,,0,3,1,,,,,,0,0,,,,,4,2024,2023-24,div2,Cuyahoga,cuyahogacommunitycollege,bradenreed7yiz,Braden Reed
+May 2,home,Clark State,W,4-0,4,0,4,win,20240502_n3ic,3,1,1,,,,0,,2,,,,,,1,0,,,,,3,2024,2023-24,div2,Cuyahoga,cuyahogacommunitycollege,bradenreed7yiz,Braden Reed
+May 2,home,Bryant & Stratton (OH),W,15-7,15,7,8,win,20240502_1hr9,5,0,3,,,,2,,,,,,,,3,0,,,,,5,2024,2023-24,div2,Cuyahoga,cuyahogacommunitycollege,bradenreed7yiz,Braden Reed

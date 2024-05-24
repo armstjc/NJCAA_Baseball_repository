@@ -1,13 +1,37 @@
 date,location,opponent,result,score,team_score,opp_score,game_score_diff,game_win_loss,game_id,TC,PO,A,E,FPCT,DP,SBA,RCS,RCS_PCT,PB,CI,season,njcaa_season,njcaa_division,team,team_id,player_id,player_name
-Feb 3,home,Northern Oklahoma Tonkawa,L,18-8,18,8,10,win,20240203_yr0i,0,0,0,0,3.1,4,4,3,8.10,1.50,1,2024,2023-24,div2,Iowa Lakes,iowalakescommunitycollege,diegogonzalezjv09,Diego Gonzalez
-Feb 18,home,Metropolitan,L,9-8,9,8,1,win,20240218_q6r1,0,0,0,0,4.0,4,4,3,6.75,1.50,2,2024,2023-24,div2,Iowa Lakes,iowalakescommunitycollege,diegogonzalezjv09,Diego Gonzalez
-Mar 2,home,Fort Scott,L,4-3,4,3,1,win,20240302_tjty,1,0,1,0,5.0,6,4,2,3.60,1.40,1,2024,2023-24,div2,Iowa Lakes,iowalakescommunitycollege,diegogonzalezjv09,Diego Gonzalez
-Mar 10,home,Southwestern,L,3-1,3,1,2,win,20240310_6nvb,1,0,1,0,5.0,3,3,1,1.80,1.00,2,2024,2023-24,div2,Iowa Lakes,iowalakescommunitycollege,diegogonzalezjv09,Diego Gonzalez
-Mar 19,home,Northeast,L,10-2,10,2,8,win,20240319_aslp,1,0,1,0,6.0,10,10,6,9.00,2.33,4,2024,2023-24,div2,Iowa Lakes,iowalakescommunitycollege,diegogonzalezjv09,Diego Gonzalez
-Mar 30,home,Indian Hills,L,23-3,23,3,20,win,20240330_7qz7,1,0,1,0,5.0,4,8,3,5.40,1.60,4,2024,2023-24,div2,Iowa Lakes,iowalakescommunitycollege,diegogonzalezjv09,Diego Gonzalez
-Apr 6,home,Southeastern,L,22-0,22,0,22,win,20240406_r3xs,1,0,1,0,1.2,5,10,4,21.60,4.80,3,2024,2023-24,div2,Iowa Lakes,iowalakescommunitycollege,diegogonzalezjv09,Diego Gonzalez
-Apr 10,home,Iowa Western,L,14-0,14,0,14,win,20240410_t1pj,0,0,0,0,1.0,2,2,,0.00,3.00,1,2024,2023-24,div2,Iowa Lakes,iowalakescommunitycollege,diegogonzalezjv09,Diego Gonzalez
-Apr 14,home,Southwestern,L,16-6,16,6,10,win,20240414_duck,1,0,1,0,5.0,5,5,5,9.00,1.40,2,2024,2023-24,div2,Iowa Lakes,iowalakescommunitycollege,diegogonzalezjv09,Diego Gonzalez
-Apr 20,home,Ellsworth,W,7-5,7,5,2,win,20240420_y4fp,1,0,0,0,5.0,10,5,4,7.20,2.60,3,2024,2023-24,div2,Iowa Lakes,iowalakescommunitycollege,diegogonzalezjv09,Diego Gonzalez
-Apr 29,home,Des Moines Area,L,4-1,4,1,3,win,20240429_0r0p,1,0,1,0,6.0,4,4,1,1.50,1.17,3,2024,2023-24,div2,Iowa Lakes,iowalakescommunitycollege,diegogonzalezjv09,Diego Gonzalez
-May 4,home,North Iowa Area,L,12-5,12,5,7,win,20240504_lrpb,1,0,1,0,4.1,11,9,7,14.54,3.92,6,2024,2023-24,div2,Iowa Lakes,iowalakescommunitycollege,diegogonzalezjv09,Diego Gonzalez
+Feb 27,home,Miami Hamilton,L,14-4,14,4,10,win,20240227_gdur,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Iowa Lakes,iowalakescommunitycollege,diegogonzalezjv09,Diego Gonzalez
+Feb 28,home,Miami Hamilton,L,15-10,15,10,5,win,20240228_n9i0,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Iowa Lakes,iowalakescommunitycollege,diegogonzalezjv09,Diego Gonzalez
+Mar 1,home,Terra State,W,16-6,16,6,10,win,20240301_9mn2,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Iowa Lakes,iowalakescommunitycollege,diegogonzalezjv09,Diego Gonzalez
+Mar 1,home,Terra State,W,11-4,11,4,7,win,20240301_u03j,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Iowa Lakes,iowalakescommunitycollege,diegogonzalezjv09,Diego Gonzalez
+Mar 7,home,Kellogg,L,7-1,7,1,6,win,20240307_28ae,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Iowa Lakes,iowalakescommunitycollege,diegogonzalezjv09,Diego Gonzalez
+Mar 7,home,Kellogg,L,6-1,6,1,5,win,20240307_lqnn,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Iowa Lakes,iowalakescommunitycollege,diegogonzalezjv09,Diego Gonzalez
+Mar 11,home,Middlesex College,L,7-1,7,1,6,win,20240311_h1p1,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Iowa Lakes,iowalakescommunitycollege,diegogonzalezjv09,Diego Gonzalez
+Mar 11,home,Morris,L,9-2,9,2,7,win,20240311_32kh,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Iowa Lakes,iowalakescommunitycollege,diegogonzalezjv09,Diego Gonzalez
+Mar 12,home,Susquehanna University,L,10-0,10,0,10,win,20240312_x3ey,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Iowa Lakes,iowalakescommunitycollege,diegogonzalezjv09,Diego Gonzalez
+Mar 12,home,Illinois Valley,L,11-5,11,5,6,win,20240312_xhrg,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Iowa Lakes,iowalakescommunitycollege,diegogonzalezjv09,Diego Gonzalez
+Mar 13,home,Montgomery County,W,15-0,15,0,15,win,20240313_lcel,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Iowa Lakes,iowalakescommunitycollege,diegogonzalezjv09,Diego Gonzalez
+Mar 14,home,Sussex County,W,7-0,7,0,7,win,20240314_b4dq,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Iowa Lakes,iowalakescommunitycollege,diegogonzalezjv09,Diego Gonzalez
+Mar 14,home,Sussex County,L,6-3,6,3,3,win,20240314_se6e,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Iowa Lakes,iowalakescommunitycollege,diegogonzalezjv09,Diego Gonzalez
+Mar 15,home,Mercer County,L,6-5,6,5,1,win,20240315_awkz,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Iowa Lakes,iowalakescommunitycollege,diegogonzalezjv09,Diego Gonzalez
+Mar 15,home,Mercer County,L,8-2,8,2,6,win,20240315_czj1,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Iowa Lakes,iowalakescommunitycollege,diegogonzalezjv09,Diego Gonzalez
+Mar 24,home,Lakeland,W,3-2,3,2,1,win,20240324_g7ar,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Iowa Lakes,iowalakescommunitycollege,diegogonzalezjv09,Diego Gonzalez
+Mar 24,home,Lakeland,W,4-2,4,2,2,win,20240324_2x4c,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Iowa Lakes,iowalakescommunitycollege,diegogonzalezjv09,Diego Gonzalez
+Mar 25,home,Lakeland,L,3-2,3,2,1,win,20240325_8ey9,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Iowa Lakes,iowalakescommunitycollege,diegogonzalezjv09,Diego Gonzalez
+Mar 25,home,Lakeland,W,11-0,11,0,11,win,20240325_j7d7,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Iowa Lakes,iowalakescommunitycollege,diegogonzalezjv09,Diego Gonzalez
+Mar 29,home,Owens,L,7-3,7,3,4,win,20240329_zkkw,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Iowa Lakes,iowalakescommunitycollege,diegogonzalezjv09,Diego Gonzalez
+Mar 29,home,Owens,W,13-6,13,6,7,win,20240329_c81p,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Iowa Lakes,iowalakescommunitycollege,diegogonzalezjv09,Diego Gonzalez
+Apr 6,home,Cuyahoga,L,14-4,14,4,10,win,20240406_kfqa,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Iowa Lakes,iowalakescommunitycollege,diegogonzalezjv09,Diego Gonzalez
+Apr 6,home,Cuyahoga,L,12-7,12,7,5,win,20240406_o4ci,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Iowa Lakes,iowalakescommunitycollege,diegogonzalezjv09,Diego Gonzalez
+Apr 7,home,Cuyahoga,L,15-3,15,3,12,win,20240407_2uib,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Iowa Lakes,iowalakescommunitycollege,diegogonzalezjv09,Diego Gonzalez
+Apr 7,home,Cuyahoga,W,5-3,5,3,2,win,20240407_qiy7,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Iowa Lakes,iowalakescommunitycollege,diegogonzalezjv09,Diego Gonzalez
+Apr 9,home,Lorain County,W,8-7,8,7,1,win,20240409_is3a,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Iowa Lakes,iowalakescommunitycollege,diegogonzalezjv09,Diego Gonzalez
+Apr 9,home,Lorain County,W,12-2,12,2,10,win,20240409_ifnz,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Iowa Lakes,iowalakescommunitycollege,diegogonzalezjv09,Diego Gonzalez
+Apr 16,home,UC clermont,L,19-8,19,8,11,win,20240416_1iy2,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Iowa Lakes,iowalakescommunitycollege,diegogonzalezjv09,Diego Gonzalez
+Apr 19,home,Hocking,W,6-3,6,3,3,win,20240419_mw8h,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Iowa Lakes,iowalakescommunitycollege,diegogonzalezjv09,Diego Gonzalez
+Apr 19,home,Hocking,L,11-5,11,5,6,win,20240419_i416,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Iowa Lakes,iowalakescommunitycollege,diegogonzalezjv09,Diego Gonzalez
+Apr 20,home,Hocking,W,10-3,10,3,7,win,20240420_mer7,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Iowa Lakes,iowalakescommunitycollege,diegogonzalezjv09,Diego Gonzalez
+Apr 21,home,Bryant & Stratton (OH),L,12-6,12,6,6,win,20240421_0i9a,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Iowa Lakes,iowalakescommunitycollege,diegogonzalezjv09,Diego Gonzalez
+Apr 21,home,Bryant & Stratton (OH),L,6-5,6,5,1,win,20240421_ghkf,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Iowa Lakes,iowalakescommunitycollege,diegogonzalezjv09,Diego Gonzalez
+Apr 26,home,Edison State,L,4-2,4,2,2,win,20240426_aieg,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Iowa Lakes,iowalakescommunitycollege,diegogonzalezjv09,Diego Gonzalez
+Apr 26,home,Edison State,W,6-1,6,1,5,win,20240426_tcl0,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Iowa Lakes,iowalakescommunitycollege,diegogonzalezjv09,Diego Gonzalez
+Apr 27,home,Edison State,W,16-8,16,8,8,win,20240427_jvwx,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Iowa Lakes,iowalakescommunitycollege,diegogonzalezjv09,Diego Gonzalez

@@ -1,18 +1,13 @@
 date,location,opponent,result,score,team_score,opp_score,game_score_diff,game_win_loss,game_id,TC,PO,A,E,FPCT,DP,SBA,RCS,RCS_PCT,PB,CI,season,njcaa_season,njcaa_division,team,team_id,player_id,player_name
-Feb 17,home,North Central Missouri,L,9-3,9,3,6,win,20240217_0r4m,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Milwaukee Area Tech,milwaukeeareatechnicalcollege,bentietyendqjx,Ben Tietyen
-Feb 17,home,North Central Missouri,L,15-5,15,5,10,win,20240217_x9j9,0,0,0,0,1.1,6,3,3,20.25,4.50,,2024,2023-24,div2,Milwaukee Area Tech,milwaukeeareatechnicalcollege,bentietyendqjx,Ben Tietyen
-Feb 18,home,North Central Missouri,L,10-4,10,4,6,win,20240218_swxm,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Milwaukee Area Tech,milwaukeeareatechnicalcollege,bentietyendqjx,Ben Tietyen
-Feb 23,home,East Central (MO),L,11-6,11,6,5,win,20240223_wgm7,0,0,0,0,1.0,1,2,,0.00,1.00,,2024,2023-24,div2,Milwaukee Area Tech,milwaukeeareatechnicalcollege,bentietyendqjx,Ben Tietyen
-Feb 24,home,East Central (MO),L,7-4,7,4,3,win,20240224_zvl4,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Milwaukee Area Tech,milwaukeeareatechnicalcollege,bentietyendqjx,Ben Tietyen
-Feb 26,home,Kishwaukee,W,4-2,4,2,2,win,20240226_qoj4,1,1,0,0,6.0,6,2,2,3.00,1.00,0,2024,2023-24,div2,Milwaukee Area Tech,milwaukeeareatechnicalcollege,bentietyendqjx,Ben Tietyen
-Mar 2,home,Moberly Area,L,17-6,17,6,11,win,20240302_evfx,1,0,1,0,2.0,5,6,5,22.50,4.00,3,2024,2023-24,div2,Milwaukee Area Tech,milwaukeeareatechnicalcollege,bentietyendqjx,Ben Tietyen
-Mar 7,home,Black Hawk,L,9-2,9,2,7,win,20240307_oob1,0,0,0,0,4.1,5,3,3,6.23,1.38,1,2024,2023-24,div2,Milwaukee Area Tech,milwaukeeareatechnicalcollege,bentietyendqjx,Ben Tietyen
-Mar 16,home,Lake County,W,3-2,3,2,1,win,20240316_vt8n,1,0,0,0,6.0,3,2,1,1.50,.83,2,2024,2023-24,div2,Milwaukee Area Tech,milwaukeeareatechnicalcollege,bentietyendqjx,Ben Tietyen
-Mar 23,home,Kankakee,L,8-1,8,1,7,win,20240323_6udi,1,0,1,0,4.1,10,8,6,12.46,2.54,1,2024,2023-24,div2,Milwaukee Area Tech,milwaukeeareatechnicalcollege,bentietyendqjx,Ben Tietyen
-Mar 30,home,Oakton,W,5-1,5,1,4,win,20240330_nmr5,1,1,0,0,4.0,4,1,1,2.25,2.00,4,2024,2023-24,div2,Milwaukee Area Tech,milwaukeeareatechnicalcollege,bentietyendqjx,Ben Tietyen
-Apr 8,home,Harper,W,18-2,18,2,16,win,20240408_sfuo,1,1,0,0,4.0,3,2,2,4.50,1.00,1,2024,2023-24,div2,Milwaukee Area Tech,milwaukeeareatechnicalcollege,bentietyendqjx,Ben Tietyen
-Apr 10,home,Rockford University JV,W,18-1,18,1,17,win,20240410_8ahr,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Milwaukee Area Tech,milwaukeeareatechnicalcollege,bentietyendqjx,Ben Tietyen
-Apr 16,home,Madison,L,14-0,14,0,14,win,20240416_5t8f,1,0,1,0,2.2,8,7,6,20.25,3.75,2,2024,2023-24,div2,Milwaukee Area Tech,milwaukeeareatechnicalcollege,bentietyendqjx,Ben Tietyen
-Apr 26,home,McHenry County,L,13-6,13,6,7,win,20240426_i9oa,0,0,0,0,2.1,5,4,3,11.57,2.57,1,2024,2023-24,div2,Milwaukee Area Tech,milwaukeeareatechnicalcollege,bentietyendqjx,Ben Tietyen
-May 4,home,Kennedy-King,W,10-0,10,0,10,win,20240504_0imw,0,0,0,0,1.0,,,,0.00,,,2024,2023-24,div2,Milwaukee Area Tech,milwaukeeareatechnicalcollege,bentietyendqjx,Ben Tietyen
-May 10,home,Black Hawk,L,9-4,9,4,5,win,20240510_271n,0,0,0,0,1.0,,,,0.00,1.00,1,2024,2023-24,div2,Milwaukee Area Tech,milwaukeeareatechnicalcollege,bentietyendqjx,Ben Tietyen
+Feb 10,home,Delaware Tech,W,10-9,10,9,1,win,20240210_s2vw,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Milwaukee Area Tech,milwaukeeareatechnicalcollege,bentietyendqjx,Ben Tietyen
+Feb 18,home,RCSJ Gloucester,L,8-3,8,3,5,win,20240218_kch9,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Milwaukee Area Tech,milwaukeeareatechnicalcollege,bentietyendqjx,Ben Tietyen
+Feb 24,home,Finger Lakes,L,6-3,6,3,3,win,20240224_9zgq,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Milwaukee Area Tech,milwaukeeareatechnicalcollege,bentietyendqjx,Ben Tietyen
+Mar 16,home,Westmoreland,L,11-1,11,1,10,win,20240316_rl4q,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Milwaukee Area Tech,milwaukeeareatechnicalcollege,bentietyendqjx,Ben Tietyen
+Mar 17,home,Chesapeake,L,6-0,6,0,6,win,20240317_hhly,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Milwaukee Area Tech,milwaukeeareatechnicalcollege,bentietyendqjx,Ben Tietyen
+Mar 22,home,Sullivan County,L,11-9,11,9,2,win,20240322_b1ut,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Milwaukee Area Tech,milwaukeeareatechnicalcollege,bentietyendqjx,Ben Tietyen
+Mar 26,home,Stevenson University,W,10-4,10,4,6,win,20240326_lk3w,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Milwaukee Area Tech,milwaukeeareatechnicalcollege,bentietyendqjx,Ben Tietyen
+Apr 13,home,Hagerstown,W,4-3,4,3,1,win,20240413_dm7y,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Milwaukee Area Tech,milwaukeeareatechnicalcollege,bentietyendqjx,Ben Tietyen
+Apr 14,home,CCBC Dundalk,W,5-4,5,4,1,win,20240414_0bfu,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Milwaukee Area Tech,milwaukeeareatechnicalcollege,bentietyendqjx,Ben Tietyen
+Apr 18,home,Shenandoah,L,6-2,6,2,4,win,20240418_lg0w,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Milwaukee Area Tech,milwaukeeareatechnicalcollege,bentietyendqjx,Ben Tietyen
+Apr 20,home,Delaware County,W,13-0,13,0,13,win,20240420_z106,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Milwaukee Area Tech,milwaukeeareatechnicalcollege,bentietyendqjx,Ben Tietyen
+Apr 20,home,Delaware County,W,20-1,20,1,19,win,20240420_894s,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Milwaukee Area Tech,milwaukeeareatechnicalcollege,bentietyendqjx,Ben Tietyen
