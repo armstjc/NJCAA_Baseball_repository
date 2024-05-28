@@ -1,17 +1,10 @@
 date,location,opponent,result,score,team_score,opp_score,game_score_diff,game_win_loss,game_id,TC,PO,A,E,FPCT,DP,SBA,RCS,RCS_PCT,PB,CI,season,njcaa_season,njcaa_division,team,team_id,player_id,player_name
-Feb 11,home,Southwest Tennessee,L,10-8,10,8,2,win,20240211_l78y,0,0,0,0,1.0,1,1,1,9.00,3.00,2,2024,2023-24,div2,Enterprise State,enterprisestatecommunitycollege,colesavage4k18,Cole Savage
-Feb 17,home,Arkansas State University - Three Rivers,W,8-5,8,5,3,win,20240217_i946,0,1,0,0,2.1,1,2,2,7.71,1.29,2,2024,2023-24,div2,Enterprise State,enterprisestatecommunitycollege,colesavage4k18,Cole Savage
-Feb 25,home,Kankakee,L,13-8,13,8,5,win,20240225_ukb1,0,0,0,0,1.0,1,1,1,9.00,2.00,1,2024,2023-24,div2,Enterprise State,enterprisestatecommunitycollege,colesavage4k18,Cole Savage
-Mar 2,home,McHenry County,L,5-2,5,2,3,win,20240302_0dgq,0,0,0,0,3.0,3,,,0.00,2.00,3,2024,2023-24,div2,Enterprise State,enterprisestatecommunitycollege,colesavage4k18,Cole Savage
-Mar 10,home,Illinois Central,L,9-3,9,3,6,win,20240310_73k9,0,0,0,0,0.2,,,,0.00,3.00,2,2024,2023-24,div2,Enterprise State,enterprisestatecommunitycollege,colesavage4k18,Cole Savage
-Mar 11,home,Illinois Central,W,18-10,18,10,8,win,20240311_ipd7,0,1,0,0,3.0,,,,0.00,1.00,3,2024,2023-24,div2,Enterprise State,enterprisestatecommunitycollege,colesavage4k18,Cole Savage
-Mar 16,home,Spoon River,W,12-3,12,3,9,win,20240316_54xr,0,1,0,0,4.0,2,2,1,2.25,1.25,3,2024,2023-24,div2,Enterprise State,enterprisestatecommunitycollege,colesavage4k18,Cole Savage
-Mar 23,home,Vincennes,W,10-5,10,5,5,win,20240323_cn3l,0,0,0,1,1.2,1,,,0.00,1.20,1,2024,2023-24,div2,Enterprise State,enterprisestatecommunitycollege,colesavage4k18,Cole Savage
-Mar 24,home,Vincennes,W,10-2,10,2,8,win,20240324_ec18,0,0,0,0,1.0,,,,0.00,,,2024,2023-24,div2,Enterprise State,enterprisestatecommunitycollege,colesavage4k18,Cole Savage
-Mar 29,home,John Wood,W,10-9,10,9,1,win,20240329_ndb2,0,1,0,0,3.0,1,2,2,6.00,1.67,4,2024,2023-24,div2,Enterprise State,enterprisestatecommunitycollege,colesavage4k18,Cole Savage
-Apr 14,home,Parkland,W,14-12,14,12,2,win,20240414_2gmn,0,0,0,0,4.2,4,5,5,9.64,1.71,4,2024,2023-24,div2,Enterprise State,enterprisestatecommunitycollege,colesavage4k18,Cole Savage
-Apr 21,home,Heartland,L,18-2,18,2,16,win,20240421_f5yz,0,0,0,0,1.2,4,2,2,10.80,3.60,2,2024,2023-24,div2,Enterprise State,enterprisestatecommunitycollege,colesavage4k18,Cole Savage
-Apr 26,home,Lewis & Clark,L,7-6,7,6,1,win,20240426_jzft,0,0,1,0,0.1,2,1,1,27.00,9.00,1,2024,2023-24,div2,Enterprise State,enterprisestatecommunitycollege,colesavage4k18,Cole Savage
-Apr 27,home,Lewis & Clark,L,9-8,9,8,1,win,20240427_mouw,0,0,1,0,2.0,3,5,,0.00,2.50,2,2024,2023-24,div2,Enterprise State,enterprisestatecommunitycollege,colesavage4k18,Cole Savage
-May 4,home,Lincoln Land,L,7-4,7,4,3,win,20240504_jayh,0,0,0,0,5.0,,,,0.00,.40,2,2024,2023-24,div2,Enterprise State,enterprisestatecommunitycollege,colesavage4k18,Cole Savage
-May 10,home,Parkland,L,12-4,12,4,8,win,20240510_ct3c,0,0,0,0,2.1,6,3,3,11.57,3.00,1,2024,2023-24,div2,Enterprise State,enterprisestatecommunitycollege,colesavage4k18,Cole Savage
+Feb 2,home,Marion Military,W,7-0,7,0,7,win,20240202_3vc1,0,0,0,0,1.0,,,,0.00,,,2024,2023-24,div2,Enterprise State,enterprisestatecommunitycollege,colesavage4k18,Cole Savage
+Feb 13,home,Bevill State,W,14-13,14,13,1,win,20240213_u7gb,0,0,0,0,0.0,1,2,2,INF,,1,2024,2023-24,div2,Enterprise State,enterprisestatecommunitycollege,colesavage4k18,Cole Savage
+Feb 13,home,Bevill State,W,13-4,13,4,9,win,20240213_4b3z,0,0,0,0,1.1,1,,,0.00,.75,,2024,2023-24,div2,Enterprise State,enterprisestatecommunitycollege,colesavage4k18,Cole Savage
+Feb 24,home,Jackson State,W,2-1,2,1,1,win,20240224_oqp9,0,0,0,0,0.2,2,1,1,13.50,4.50,1,2024,2023-24,div2,Enterprise State,enterprisestatecommunitycollege,colesavage4k18,Cole Savage
+Mar 3,home,Lansing,W,10-6,10,6,4,win,20240303_pcd2,0,0,0,0,1.0,1,,,0.00,3.00,2,2024,2023-24,div2,Enterprise State,enterprisestatecommunitycollege,colesavage4k18,Cole Savage
+Mar 16,home,Baton Rouge,W,13-3,13,3,10,win,20240316_q0x1,0,0,0,0,1.0,,,,0.00,,,2024,2023-24,div2,Enterprise State,enterprisestatecommunitycollege,colesavage4k18,Cole Savage
+Apr 3,home,Mississippi Gulf Coast,W,20-4,20,4,16,win,20240403_panu,0,0,0,0,1.0,,,,0.00,2.00,2,2024,2023-24,div2,Enterprise State,enterprisestatecommunitycollege,colesavage4k18,Cole Savage
+Apr 19,home,Holmes,W,22-2,22,2,20,win,20240419_rqk4,0,0,0,0,1.0,1,2,2,18.00,4.00,3,2024,2023-24,div2,Enterprise State,enterprisestatecommunitycollege,colesavage4k18,Cole Savage
+Apr 24,home,Southwest Mississippi,W,16-3,16,3,13,win,20240424_akb5,0,0,0,0,1.0,,,,0.00,,,2024,2023-24,div2,Enterprise State,enterprisestatecommunitycollege,colesavage4k18,Cole Savage

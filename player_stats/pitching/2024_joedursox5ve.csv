@@ -1,9 +1,31 @@
 date,location,opponent,result,score,team_score,opp_score,game_score_diff,game_win_loss,game_id,GS,W,L,SV,IP,H,R,ER,ERA,BB,K,HR,season,njcaa_season,njcaa_division,team,team_id,player_id,player_name
-Apr 17,home,CCBC Catonsville,W,14-7,14,7,7,win,20240417_r8oa,0,0,0,0,1.0,,,,0.00,1.00,1,1,2024,2023-24,div1,Harford,harfordcommunitycollege,joedursox5ve,Joe Durso
-Apr 14,home,Prince George's,W,12-2,12,2,10,win,20240414_6v2l,0,0,0,0,1.0,,,,0.00,1.00,1,3,2024,2023-24,div1,Harford,harfordcommunitycollege,joedursox5ve,Joe Durso
-Apr 7,home,CCBC Essex,W,6-3,6,3,3,win,20240407_fd8e,0,0,0,0,0.2,1,1,1,13.50,1.50,,1,2024,2023-24,div1,Harford,harfordcommunitycollege,joedursox5ve,Joe Durso
-Mar 19,home,CCBC Dundalk,W,13-12,13,12,1,win,20240319_qwk6,0,0,0,0,1.2,4,5,5,27.00,3.00,1,3,2024,2023-24,div1,Harford,harfordcommunitycollege,joedursox5ve,Joe Durso
-Mar 8,home,Mohawk Valley,W,13-3,13,3,10,win,20240308_ij6k,0,0,0,0,2.0,1,1,1,4.50,2.00,3,2,2024,2023-24,div1,Harford,harfordcommunitycollege,joedursox5ve,Joe Durso
-Mar 1,home,Southern Maryland,W,16-5,16,5,11,win,20240301_tndz,0,0,0,0,2.0,1,1,1,4.50,1.50,2,2,2024,2023-24,div1,Harford,harfordcommunitycollege,joedursox5ve,Joe Durso
-Feb 26,home,Montgomery,W,10-2,10,2,8,win,20240226_prjy,0,0,0,0,1.0,1,1,,0.00,2.00,1,2,2024,2023-24,div1,Harford,harfordcommunitycollege,joedursox5ve,Joe Durso
-Feb 17,home,Brunswick,L,7-0,7,0,7,win,20240217_9nz9,0,0,0,0,0.1,2,5,4,108.00,12.00,2,1,2024,2023-24,div1,Harford,harfordcommunitycollege,joedursox5ve,Joe Durso
+May 6,home,Monroe College,L,13-7,13,7,6,win,20240506_lw1u,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div1,Harford,harfordcommunitycollege,joedursox5ve,Joe Durso
+May 4,home,Monroe College,L,7-6,7,6,1,win,20240504_kiv2,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div1,Harford,harfordcommunitycollege,joedursox5ve,Joe Durso
+May 3,home,Potomac State,W,12-2,12,2,10,win,20240503_28ie,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div1,Harford,harfordcommunitycollege,joedursox5ve,Joe Durso
+Apr 27,home,Monroe College,W,9-1,9,1,8,win,20240427_x8dp,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div1,Harford,harfordcommunitycollege,joedursox5ve,Joe Durso
+Apr 26,home,Mercer County,W,9-1,9,1,8,win,20240426_wkno,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div1,Harford,harfordcommunitycollege,joedursox5ve,Joe Durso
+Apr 23,home,Hagerstown,W,10-7,10,7,3,win,20240423_nob3,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div1,Harford,harfordcommunitycollege,joedursox5ve,Joe Durso
+Apr 20,home,Allegany Maryland,W,8-0,8,0,8,win,20240420_yygl,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div1,Harford,harfordcommunitycollege,joedursox5ve,Joe Durso
+Apr 17,home,CCBC Catonsville,W,13-2,13,2,11,win,20240417_hoka,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div1,Harford,harfordcommunitycollege,joedursox5ve,Joe Durso
+Apr 16,home,RCSJ Gloucester,L,11-8,11,8,3,win,20240416_ni0c,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div1,Harford,harfordcommunitycollege,joedursox5ve,Joe Durso
+Apr 13,home,Chesapeake,W,15-0,15,0,15,win,20240413_jjlo,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div1,Harford,harfordcommunitycollege,joedursox5ve,Joe Durso
+Apr 9,home,RCSJ Gloucester,W,13-8,13,8,5,win,20240409_44gx,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div1,Harford,harfordcommunitycollege,joedursox5ve,Joe Durso
+Apr 7,home,CCBC Essex,W,6-3,6,3,3,win,20240407_fd8e,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div1,Harford,harfordcommunitycollege,joedursox5ve,Joe Durso
+Mar 29,home,Monroe College,W,12-7,12,7,5,win,20240329_5th2,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div1,Harford,harfordcommunitycollege,joedursox5ve,Joe Durso
+Mar 26,home,Frederick,L,4-3,4,3,1,win,20240326_tart,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div1,Harford,harfordcommunitycollege,joedursox5ve,Joe Durso
+Mar 24,home,Garrett,W,12-2,12,2,10,win,20240324_s46i,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div1,Harford,harfordcommunitycollege,joedursox5ve,Joe Durso
+Mar 22,home,Monroe College,W,15-2,15,2,13,win,20240322_7cra,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div1,Harford,harfordcommunitycollege,joedursox5ve,Joe Durso
+Mar 22,home,Monroe College,W,4-1,4,1,3,win,20240322_hd14,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div1,Harford,harfordcommunitycollege,joedursox5ve,Joe Durso
+Mar 19,home,CCBC Dundalk,W,13-12,13,12,1,win,20240319_qwk6,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div1,Harford,harfordcommunitycollege,joedursox5ve,Joe Durso
+Mar 17,home,Bryant & Stratton (VA),W,8-3,8,3,5,win,20240317_obfp,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div1,Harford,harfordcommunitycollege,joedursox5ve,Joe Durso
+Mar 16,home,Bryant & Stratton (VA),W,9-2,9,2,7,win,20240316_k5lu,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div1,Harford,harfordcommunitycollege,joedursox5ve,Joe Durso
+Mar 13,home,Delaware Tech,W,17-1,17,1,16,win,20240313_oxl6,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div1,Harford,harfordcommunitycollege,joedursox5ve,Joe Durso
+Mar 5,home,Mercer County,W,13-3,13,3,10,win,20240305_kgzw,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div1,Harford,harfordcommunitycollege,joedursox5ve,Joe Durso
+Mar 3,home,CCBC Essex,W,10-3,10,3,7,win,20240303_velo,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div1,Harford,harfordcommunitycollege,joedursox5ve,Joe Durso
+Mar 1,home,Southern Maryland,W,20-1,20,1,19,win,20240301_99u5,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div1,Harford,harfordcommunitycollege,joedursox5ve,Joe Durso
+Feb 27,home,Anne Arundel,W,13-7,13,7,6,win,20240227_9yqw,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div1,Harford,harfordcommunitycollege,joedursox5ve,Joe Durso
+Feb 27,home,Anne Arundel,L,9-5,9,5,4,win,20240227_hhr3,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div1,Harford,harfordcommunitycollege,joedursox5ve,Joe Durso
+Feb 26,home,Montgomery,W,7-6,7,6,1,win,20240226_crlb,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div1,Harford,harfordcommunitycollege,joedursox5ve,Joe Durso
+Feb 20,home,Gaston College,L,11-4,11,4,7,win,20240220_j5ti,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div1,Harford,harfordcommunitycollege,joedursox5ve,Joe Durso
+Feb 18,home,Florence-Darlington Tech,L,8-4,8,4,4,win,20240218_yyvt,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div1,Harford,harfordcommunitycollege,joedursox5ve,Joe Durso
+Feb 16,home,Florence-Darlington Tech,W,7-3,7,3,4,win,20240216_g1ru,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div1,Harford,harfordcommunitycollege,joedursox5ve,Joe Durso

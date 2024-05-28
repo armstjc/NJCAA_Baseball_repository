@@ -1,21 +1,14 @@
 date,location,opponent,result,score,team_score,opp_score,game_score_diff,game_win_loss,game_id,GS,W,L,SV,IP,H,R,ER,ERA,BB,K,HR,season,njcaa_season,njcaa_division,team,team_id,player_id,player_name
-May 1,home,Elgin,L,12-0,12,0,12,win,20240501_k3sf,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div3,Joliet,jolietjuniorcollege,jonnycarreralc9n,Jonny Carrera
-Apr 27,home,Kennedy-King,W,23-0,23,0,23,win,20240427_cslz,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div3,Joliet,jolietjuniorcollege,jonnycarreralc9n,Jonny Carrera
-Apr 21,home,Waubonsee,W,8-2,8,2,6,win,20240421_5efp,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div3,Joliet,jolietjuniorcollege,jonnycarreralc9n,Jonny Carrera
-Apr 20,home,Bryant & Stratton College (WI),W,14-3,14,3,11,win,20240420_k13i,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div3,Joliet,jolietjuniorcollege,jonnycarreralc9n,Jonny Carrera
-Apr 16,home,DuPage,L,13-12,13,12,1,win,20240416_d8az,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div3,Joliet,jolietjuniorcollege,jonnycarreralc9n,Jonny Carrera
+May 11,home,Oakton,L,2-1,2,1,1,win,20240511_h3mv,0,0,1,0,1.0,2,1,1,9.00,3.00,1,,2024,2023-24,div3,Joliet,jolietjuniorcollege,jonnycarreralc9n,Jonny Carrera
+May 4,home,Moraine Valley,W,5-3,5,3,2,win,20240504_tjrn,0,1,0,0,2.0,2,1,1,4.50,1.00,,3,2024,2023-24,div3,Joliet,jolietjuniorcollege,jonnycarreralc9n,Jonny Carrera
+May 1,home,Elgin,L,12-0,12,0,12,win,20240501_k3sf,0,0,0,0,2.0,3,3,,0.00,2.00,1,2,2024,2023-24,div3,Joliet,jolietjuniorcollege,jonnycarreralc9n,Jonny Carrera
+Apr 23,home,Kankakee,W,8-7,8,7,1,win,20240423_rmd5,1,0,0,0,4.0,7,5,5,11.25,2.25,2,1,2024,2023-24,div3,Joliet,jolietjuniorcollege,jonnycarreralc9n,Jonny Carrera
+Apr 18,home,Morton,L,8-5,8,5,3,win,20240418_by7j,1,0,0,0,4.1,3,4,4,8.31,1.38,3,1,2024,2023-24,div3,Joliet,jolietjuniorcollege,jonnycarreralc9n,Jonny Carrera
 Apr 14,home,Elgin,L,11-4,11,4,7,win,20240414_hlum,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div3,Joliet,jolietjuniorcollege,jonnycarreralc9n,Jonny Carrera
-Apr 7,home,Black Hawk,L,6-1,6,1,5,win,20240407_llz7,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div3,Joliet,jolietjuniorcollege,jonnycarreralc9n,Jonny Carrera
-Apr 6,home,Madison,L,6-0,6,0,6,win,20240406_ncjp,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div3,Joliet,jolietjuniorcollege,jonnycarreralc9n,Jonny Carrera
-Apr 5,home,South Suburban,L,14-0,14,0,14,win,20240405_xw03,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div3,Joliet,jolietjuniorcollege,jonnycarreralc9n,Jonny Carrera
-Mar 30,home,Rock Valley,W,7-5,7,5,2,win,20240330_djaz,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div3,Joliet,jolietjuniorcollege,jonnycarreralc9n,Jonny Carrera
-Mar 29,home,Carl Sandburg,L,8-4,8,4,4,win,20240329_tgda,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div3,Joliet,jolietjuniorcollege,jonnycarreralc9n,Jonny Carrera
-Mar 21,home,Lake County,L,4-0,4,0,4,win,20240321_wkmn,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div3,Joliet,jolietjuniorcollege,jonnycarreralc9n,Jonny Carrera
-Mar 14,home,TCS Post Grad,L,12-3,12,3,9,win,20240314_q4jx,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div3,Joliet,jolietjuniorcollege,jonnycarreralc9n,Jonny Carrera
-Mar 13,home,Dallas College - North Lake,L,7-1,7,1,6,win,20240313_xifj,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div3,Joliet,jolietjuniorcollege,jonnycarreralc9n,Jonny Carrera
-Mar 12,home,Dallas College - Eastfield,L,13-10,13,10,3,win,20240312_8c8e,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div3,Joliet,jolietjuniorcollege,jonnycarreralc9n,Jonny Carrera
-Mar 11,home,Angelina,L,15-5,15,5,10,win,20240311_4o3f,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div3,Joliet,jolietjuniorcollege,jonnycarreralc9n,Jonny Carrera
-Mar 9,home,Panola,L,14-4,14,4,10,win,20240309_j1lk,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div3,Joliet,jolietjuniorcollege,jonnycarreralc9n,Jonny Carrera
-Mar 5,home,Harper,W,11-5,11,5,6,win,20240305_f9ao,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div3,Joliet,jolietjuniorcollege,jonnycarreralc9n,Jonny Carrera
-Feb 24,home,Vincennes,L,12-2,12,2,10,win,20240224_thwx,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div3,Joliet,jolietjuniorcollege,jonnycarreralc9n,Jonny Carrera
-Feb 24,home,Morton,W,7-5,7,5,2,win,20240224_rles,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div3,Joliet,jolietjuniorcollege,jonnycarreralc9n,Jonny Carrera
+Apr 9,home,DuPage,W,14-4,14,4,10,win,20240409_invc,0,1,0,0,2.1,,,,0.00,.43,1,4,2024,2023-24,div3,Joliet,jolietjuniorcollege,jonnycarreralc9n,Jonny Carrera
+Apr 7,home,Black Hawk,L,6-1,6,1,5,win,20240407_u1zy,0,0,0,0,1.0,,,,0.00,1.00,1,1,2024,2023-24,div3,Joliet,jolietjuniorcollege,jonnycarreralc9n,Jonny Carrera
+Apr 6,home,Madison,L,2-1,2,1,1,win,20240406_xkpm,0,0,0,0,0.1,,,,0.00,,,1,2024,2023-24,div3,Joliet,jolietjuniorcollege,jonnycarreralc9n,Jonny Carrera
+Mar 27,home,Oakton,L,14-7,14,7,7,win,20240327_wvw4,0,0,0,0,2.0,2,1,,0.00,1.00,,1,2024,2023-24,div3,Joliet,jolietjuniorcollege,jonnycarreralc9n,Jonny Carrera
+Mar 13,home,Dallas College - North Lake,L,7-1,7,1,6,win,20240313_xifj,0,0,0,0,2.0,3,1,1,4.50,1.50,,1,2024,2023-24,div3,Joliet,jolietjuniorcollege,jonnycarreralc9n,Jonny Carrera
+Mar 11,home,Angelina,L,15-5,15,5,10,win,20240311_4o3f,0,0,0,0,1.0,2,5,1,9.00,4.00,2,,2024,2023-24,div3,Joliet,jolietjuniorcollege,jonnycarreralc9n,Jonny Carrera
+Feb 25,home,Olney Central,W,15-8,15,8,7,win,20240225_m5po,0,0,0,0,1.0,,,,0.00,,,2,2024,2023-24,div3,Joliet,jolietjuniorcollege,jonnycarreralc9n,Jonny Carrera

@@ -1,9 +1,34 @@
 date,location,opponent,result,score,team_score,opp_score,game_score_diff,game_win_loss,game_id,AB,R,H,2B,3B,HR,RBI,BB,K,SB,CS,HBP,SF,SH,TB,XBH,HDP,GO,FO,GO/FO,PA,season,njcaa_season,njcaa_division,team,team_id,player_id,player_name
-Feb 2,home,Lurleen B. Wallace,W,10-2,10,2,8,win,20240202_vw39,0,0,0,,,,0,,,,,,,,0,0,,,,,0,2024,2023-24,div1,Walters State,waltersstatecommunitycollege,milessmithdhae,Miles Smith
-Feb 18,home,Central Alabama,W,12-5,12,5,7,win,20240218_v9yv,0,0,0,,,,0,,,,,,,,0,0,,,,,0,2024,2023-24,div1,Walters State,waltersstatecommunitycollege,milessmithdhae,Miles Smith
-Mar 2,home,South Georgia State,W,13-6,13,6,7,win,20240302_4w6c,0,0,0,,,,0,,,,,,,,0,0,,,,,0,2024,2023-24,div1,Walters State,waltersstatecommunitycollege,milessmithdhae,Miles Smith
-Mar 16,home,Lawson State,W,7-0,7,0,7,win,20240316_cjzk,0,0,0,,,,0,,,,,,,,0,0,,,,,0,2024,2023-24,div1,Walters State,waltersstatecommunitycollege,milessmithdhae,Miles Smith
-Mar 23,home,Wallace State,W,9-1,9,1,8,win,20240323_rj4a,0,0,0,,,,0,,,,,,,,0,0,,,,,0,2024,2023-24,div1,Walters State,waltersstatecommunitycollege,milessmithdhae,Miles Smith
-Apr 20,home,Calhoun,W,14-2,14,2,12,win,20240420_0xs6,0,0,0,,,,0,,,,,,,,0,0,,,,,0,2024,2023-24,div1,Walters State,waltersstatecommunitycollege,milessmithdhae,Miles Smith
-Apr 27,home,Gadsden State,W,10-0,10,0,10,win,20240427_tnk0,0,0,0,,,,0,,,,,,,,0,0,,,,,0,2024,2023-24,div1,Walters State,waltersstatecommunitycollege,milessmithdhae,Miles Smith
-May 2,home,Coastal Alabama - South,W,10-8,10,8,2,win,20240502_jpte,0,0,0,,,,0,,,,,,,,0,0,,,,,0,2024,2023-24,div1,Walters State,waltersstatecommunitycollege,milessmithdhae,Miles Smith
+Jan 28,home,USC Salkehatchie,W,22-5,22,5,17,win,20240128_ewe8,0,0,0,,,,0,,,,,,,,0,0,,,,,0,2024,2023-24,div1,Walters State,waltersstatecommunitycollege,milessmithdhae,Miles Smith
+Jan 28,home,USC Salkehatchie,W,13-6,13,6,7,win,20240128_ctdj,1,1,1,,,1,2,,,,,,,,4,1,,,,,1,2024,2023-24,div1,Walters State,waltersstatecommunitycollege,milessmithdhae,Miles Smith
+Feb 9,home,Gulf Coast State,W,8-3,8,3,5,win,20240209_e3gd,0,0,0,,,,0,,,,,,,,0,0,,,,,0,2024,2023-24,div1,Walters State,waltersstatecommunitycollege,milessmithdhae,Miles Smith
+Feb 16,home,Georgia Highlands,W,8-7,8,7,1,win,20240216_fltr,0,0,0,,,,0,,,,,,,,0,0,,,,,0,2024,2023-24,div1,Walters State,waltersstatecommunitycollege,milessmithdhae,Miles Smith
+Feb 18,home,Georgia Highlands,W,4-1,4,1,3,win,20240218_vabg,4,1,1,,,1,1,,2,,,,,,4,1,,1,,,4,2024,2023-24,div1,Walters State,waltersstatecommunitycollege,milessmithdhae,Miles Smith
+Feb 21,home,Cleveland,W,8-7,8,7,1,win,20240221_1m68,2,0,1,1,,,1,,1,,,,,,2,1,,,,,2,2024,2023-24,div1,Walters State,waltersstatecommunitycollege,milessmithdhae,Miles Smith
+Feb 24,home,Highland (IL),W,17-4,17,4,13,win,20240224_91hc,0,0,0,,,,0,,,,,,,,0,0,,,,,0,2024,2023-24,div1,Walters State,waltersstatecommunitycollege,milessmithdhae,Miles Smith
+Feb 24,home,Highland (IL),W,11-1,11,1,10,win,20240224_fjvm,4,3,3,2,,,0,,,2,,,,,5,2,,1,,,4,2024,2023-24,div1,Walters State,waltersstatecommunitycollege,milessmithdhae,Miles Smith
+Feb 27,home,USC Union,W,6-1,6,1,5,win,20240227_tsrr,3,1,0,,,,1,,1,1,,,,,0,0,,1,,,3,2024,2023-24,div1,Walters State,waltersstatecommunitycollege,milessmithdhae,Miles Smith
+Feb 27,home,USC Union,W,12-0,12,0,12,win,20240227_zskv,4,0,0,,,,1,,1,,,,1,,0,0,,1,3,0.33,5,2024,2023-24,div1,Walters State,waltersstatecommunitycollege,milessmithdhae,Miles Smith
+Mar 3,home,Columbia State,W,8-1,8,1,7,win,20240303_max9,1,0,0,,,,0,,1,,,,,1,0,0,,1,,,2,2024,2023-24,div1,Walters State,waltersstatecommunitycollege,milessmithdhae,Miles Smith
+Mar 8,home,Motlow State,W,11-2,11,2,9,win,20240308_rdf4,3,0,1,,,,2,,1,,,,,,1,0,,,1,,3,2024,2023-24,div1,Walters State,waltersstatecommunitycollege,milessmithdhae,Miles Smith
+Mar 12,home,Cleveland,W,10-2,10,2,8,win,20240312_yjgi,2,0,0,,,,0,,1,,,,,,0,0,,,1,,2,2024,2023-24,div1,Walters State,waltersstatecommunitycollege,milessmithdhae,Miles Smith
+Mar 16,home,Chattanooga State,W,7-1,7,1,6,win,20240316_erzw,0,1,0,,,,0,,,,,,,,0,0,,,,,0,2024,2023-24,div1,Walters State,waltersstatecommunitycollege,milessmithdhae,Miles Smith
+Mar 17,home,Chattanooga State,W,18-0,18,0,18,win,20240317_ixhu,1,0,0,,,,0,,1,,,,,,0,0,,,,,1,2024,2023-24,div1,Walters State,waltersstatecommunitycollege,milessmithdhae,Miles Smith
+Mar 20,home,Southwest Virginia,W,35-2,35,2,33,win,20240320_dqx4,6,7,5,,1,2,5,2,,,,,,,13,3,,,1,,8,2024,2023-24,div1,Walters State,waltersstatecommunitycollege,milessmithdhae,Miles Smith
+Mar 23,home,Jackson State,W,15-6,15,6,9,win,20240323_w05h,2,1,1,,,,1,,,,,,,,1,0,,,1,,2,2024,2023-24,div1,Walters State,waltersstatecommunitycollege,milessmithdhae,Miles Smith
+Mar 24,home,Jackson State,W,5-2,5,2,3,win,20240324_mpui,4,1,1,,,,0,,,,,,,,1,0,,1,1,1.00,4,2024,2023-24,div1,Walters State,waltersstatecommunitycollege,milessmithdhae,Miles Smith
+Mar 24,home,Jackson State,W,12-2,12,2,10,win,20240324_vc32,0,0,0,,,,0,,,,,,,,0,0,,,,,0,2024,2023-24,div1,Walters State,waltersstatecommunitycollege,milessmithdhae,Miles Smith
+Mar 29,home,Southwest Tennessee,W,16-3,16,3,13,win,20240329_rxfm,2,1,0,,,,1,2,,,,,,,0,0,,,2,,4,2024,2023-24,div1,Walters State,waltersstatecommunitycollege,milessmithdhae,Miles Smith
+Mar 29,home,Southwest Tennessee,W,11-0,11,0,11,win,20240329_9uay,3,3,2,1,,,0,1,1,,,,,,3,1,,,,,4,2024,2023-24,div1,Walters State,waltersstatecommunitycollege,milessmithdhae,Miles Smith
+Apr 2,home,MontreCollege JV,W,19-2,19,2,17,win,20240402_il1t,0,0,0,,,,0,,,,,,,,0,0,,,,,0,2024,2023-24,div1,Walters State,waltersstatecommunitycollege,milessmithdhae,Miles Smith
+Apr 2,home,MontreCollege JV,W,14-2,14,2,12,win,20240402_hrss,4,1,1,,,,1,,2,1,,1,,,1,0,,,,,5,2024,2023-24,div1,Walters State,waltersstatecommunitycollege,milessmithdhae,Miles Smith
+Apr 5,home,Volunteer State,W,4-1,4,1,3,win,20240405_djx9,3,1,1,,,,0,1,1,,,,,,1,0,1,1,,,4,2024,2023-24,div1,Walters State,waltersstatecommunitycollege,milessmithdhae,Miles Smith
+Apr 6,home,Volunteer State,W,9-4,9,4,5,win,20240406_i2b8,2,1,0,,,,0,1,1,,,,,1,0,0,,2,,,4,2024,2023-24,div1,Walters State,waltersstatecommunitycollege,milessmithdhae,Miles Smith
+Apr 13,home,Roane State,W,9-4,9,4,5,win,20240413_ubop,0,0,0,,,,0,,,,,,,,0,0,,,,,0,2024,2023-24,div1,Walters State,waltersstatecommunitycollege,milessmithdhae,Miles Smith
+Apr 13,home,Roane State,W,13-2,13,2,11,win,20240413_oo46,1,0,0,,,,0,,,,,,,,0,0,,,1,,1,2024,2023-24,div1,Walters State,waltersstatecommunitycollege,milessmithdhae,Miles Smith
+Apr 14,home,Roane State,W,5-2,5,2,3,win,20240414_zhbg,2,0,1,,,,1,,,,,,,,1,0,,,1,,2,2024,2023-24,div1,Walters State,waltersstatecommunitycollege,milessmithdhae,Miles Smith
+Apr 16,home,Southwest Virginia,W,24-5,24,5,19,win,20240416_cabm,0,0,0,,,,0,,,,,,,,0,0,,,,,0,2024,2023-24,div1,Walters State,waltersstatecommunitycollege,milessmithdhae,Miles Smith
+Apr 17,home,MontreCollege JV,W,11-1,11,1,10,win,20240417_ddw7,3,1,1,,,,0,,1,1,,,,,1,0,,,1,,3,2024,2023-24,div1,Walters State,waltersstatecommunitycollege,milessmithdhae,Miles Smith
+Apr 22,home,Young Harris (JV),W,10-1,10,1,9,win,20240422_402i,0,0,0,,,,0,,,,,,,,0,0,,,,,0,2024,2023-24,div1,Walters State,waltersstatecommunitycollege,milessmithdhae,Miles Smith
+Apr 26,home,Dyersburg State,W,15-3,15,3,12,win,20240426_j26t,0,1,0,,,,0,,,1,,,,,0,0,,,,,0,2024,2023-24,div1,Walters State,waltersstatecommunitycollege,milessmithdhae,Miles Smith
+Apr 27,home,Dyersburg State,W,12-0,12,0,12,win,20240427_n8mw,2,1,1,,1,,2,,1,,,,1,,3,1,,,1,,3,2024,2023-24,div1,Walters State,waltersstatecommunitycollege,milessmithdhae,Miles Smith

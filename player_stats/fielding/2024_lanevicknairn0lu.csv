@@ -1,13 +1,14 @@
 date,location,opponent,result,score,team_score,opp_score,game_score_diff,game_win_loss,game_id,TC,PO,A,E,FPCT,DP,SBA,RCS,RCS_PCT,PB,CI,season,njcaa_season,njcaa_division,team,team_id,player_id,player_name
-Feb 5,home,Tyler,L,21-11,21,11,10,win,20240205_mtzq,0,0,0,0,1.0,4,5,5,45.00,6.00,2,2024,2023-24,div3,Dallas College - Mountain View,dallascollegemountainview,lanevicknairn0lu,Lane Vicknair
-Feb 8,home,Texas Reds Post Grad,W,9-8,9,8,1,win,20240208_fbl5,0,0,0,0,3.0,1,2,1,3.00,1.00,2,2024,2023-24,div3,Dallas College - Mountain View,dallascollegemountainview,lanevicknairn0lu,Lane Vicknair
-Feb 16,home,Hill,L,12-3,12,3,9,win,20240216_jdmg,0,0,0,0,2.0,2,1,1,4.50,2.00,2,2024,2023-24,div3,Dallas College - Mountain View,dallascollegemountainview,lanevicknairn0lu,Lane Vicknair
-Mar 1,home,Dallas College - Richland,L,18-9,18,9,9,win,20240301_enw3,0,0,0,0,2.0,4,3,2,9.00,2.00,,2024,2023-24,div3,Dallas College - Mountain View,dallascollegemountainview,lanevicknairn0lu,Lane Vicknair
-Mar 6,home,Dallas College - North Lake,L,3-1,3,1,2,win,20240306_3qmz,0,0,0,0,2.0,5,3,3,13.50,4.00,3,2024,2023-24,div3,Dallas College - Mountain View,dallascollegemountainview,lanevicknairn0lu,Lane Vicknair
-Mar 13,home,Louisiana Christian University JV,W,11-2,11,2,9,win,20240313_p180,0,0,0,0,1.0,,,,0.00,,,2024,2023-24,div3,Dallas College - Mountain View,dallascollegemountainview,lanevicknairn0lu,Lane Vicknair
-Mar 20,home,Dallas College - Cedar Valley,L,5-3,5,3,2,win,20240320_rqkk,0,0,0,0,2.0,4,1,1,4.50,2.00,,2024,2023-24,div3,Dallas College - Mountain View,dallascollegemountainview,lanevicknairn0lu,Lane Vicknair
-Mar 27,home,Dallas College - Eastfield,L,8-7,8,7,1,win,20240327_g6aw,0,0,0,0,0.2,,,,0.00,3.00,2,2024,2023-24,div3,Dallas College - Mountain View,dallascollegemountainview,lanevicknairn0lu,Lane Vicknair
-Apr 11,home,Dallas College - Richland,L,21-2,21,2,19,win,20240411_0iqx,0,0,0,0,1.0,7,8,3,27.00,9.00,2,2024,2023-24,div3,Dallas College - Mountain View,dallascollegemountainview,lanevicknairn0lu,Lane Vicknair
-Apr 15,home,Angelina,L,10-0,10,0,10,win,20240415_8d2l,0,0,0,0,3.0,5,2,2,6.00,2.00,1,2024,2023-24,div3,Dallas College - Mountain View,dallascollegemountainview,lanevicknairn0lu,Lane Vicknair
-May 4,home,Dallas College - Eastfield,L,7-2,7,2,5,win,20240504_1otb,0,0,0,0,4.1,4,1,1,2.08,1.15,1,2024,2023-24,div3,Dallas College - Mountain View,dallascollegemountainview,lanevicknairn0lu,Lane Vicknair
-May 10,home,Dallas College - Brookhaven,W,13-6,13,6,7,win,20240510_p4or,0,0,0,0,1.0,,,,0.00,,,2024,2023-24,div3,Dallas College - Mountain View,dallascollegemountainview,lanevicknairn0lu,Lane Vicknair
+Feb 25,home,Olney Central,W,15-8,15,8,7,win,20240225_m5po,0,0,0,0,1.0,,,,0.00,,,2024,2023-24,div3,Dallas College - Mountain View,dallascollegemountainview,lanevicknairn0lu,Lane Vicknair
+Mar 11,home,Angelina,L,15-5,15,5,10,win,20240311_4o3f,0,0,0,0,1.0,2,5,1,9.00,4.00,2,2024,2023-24,div3,Dallas College - Mountain View,dallascollegemountainview,lanevicknairn0lu,Lane Vicknair
+Mar 13,home,Dallas College - North Lake,L,7-1,7,1,6,win,20240313_xifj,0,0,0,0,2.0,3,1,1,4.50,1.50,,2024,2023-24,div3,Dallas College - Mountain View,dallascollegemountainview,lanevicknairn0lu,Lane Vicknair
+Mar 27,home,Oakton,L,14-7,14,7,7,win,20240327_wvw4,0,0,0,0,2.0,2,1,,0.00,1.00,,2024,2023-24,div3,Dallas College - Mountain View,dallascollegemountainview,lanevicknairn0lu,Lane Vicknair
+Apr 6,home,Madison,L,2-1,2,1,1,win,20240406_xkpm,0,0,0,0,0.1,,,,0.00,,,2024,2023-24,div3,Dallas College - Mountain View,dallascollegemountainview,lanevicknairn0lu,Lane Vicknair
+Apr 7,home,Black Hawk,L,6-1,6,1,5,win,20240407_u1zy,0,0,0,0,1.0,,,,0.00,1.00,1,2024,2023-24,div3,Dallas College - Mountain View,dallascollegemountainview,lanevicknairn0lu,Lane Vicknair
+Apr 9,home,DuPage,W,14-4,14,4,10,win,20240409_invc,0,1,0,0,2.1,,,,0.00,.43,1,2024,2023-24,div3,Dallas College - Mountain View,dallascollegemountainview,lanevicknairn0lu,Lane Vicknair
+Apr 14,home,Elgin,L,11-4,11,4,7,win,20240414_hlum,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div3,Dallas College - Mountain View,dallascollegemountainview,lanevicknairn0lu,Lane Vicknair
+Apr 18,home,Morton,L,8-5,8,5,3,win,20240418_by7j,1,0,0,0,4.1,3,4,4,8.31,1.38,3,2024,2023-24,div3,Dallas College - Mountain View,dallascollegemountainview,lanevicknairn0lu,Lane Vicknair
+Apr 23,home,Kankakee,W,8-7,8,7,1,win,20240423_rmd5,1,0,0,0,4.0,7,5,5,11.25,2.25,2,2024,2023-24,div3,Dallas College - Mountain View,dallascollegemountainview,lanevicknairn0lu,Lane Vicknair
+May 1,home,Elgin,L,12-0,12,0,12,win,20240501_k3sf,0,0,0,0,2.0,3,3,,0.00,2.00,1,2024,2023-24,div3,Dallas College - Mountain View,dallascollegemountainview,lanevicknairn0lu,Lane Vicknair
+May 4,home,Moraine Valley,W,5-3,5,3,2,win,20240504_tjrn,0,1,0,0,2.0,2,1,1,4.50,1.00,,2024,2023-24,div3,Dallas College - Mountain View,dallascollegemountainview,lanevicknairn0lu,Lane Vicknair
+May 11,home,Oakton,L,2-1,2,1,1,win,20240511_h3mv,0,0,1,0,1.0,2,1,1,9.00,3.00,1,2024,2023-24,div3,Dallas College - Mountain View,dallascollegemountainview,lanevicknairn0lu,Lane Vicknair
