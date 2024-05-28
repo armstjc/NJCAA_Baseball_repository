@@ -1,9 +1,32 @@
 date,location,opponent,result,score,team_score,opp_score,game_score_diff,game_win_loss,game_id,GS,W,L,SV,IP,H,R,ER,ERA,BB,K,HR,season,njcaa_season,njcaa_division,team,team_id,player_id,player_name
-May 4,home,Cayuga,L,5-0,5,0,5,win,20240504_8e27,0,0,1,0,6.0,8,5,3,4.50,1.33,,3,2024,2023-24,div3,Mohawk Valley,mohawkvalleycommunitycollege,kanamekanda8uw3,Kaname Kanda
-Apr 28,home,SUNY Adirondack,L,8-1,8,1,7,win,20240428_rw3w,0,0,1,0,5.0,7,8,4,7.20,2.00,3,5,2024,2023-24,div3,Mohawk Valley,mohawkvalleycommunitycollege,kanamekanda8uw3,Kaname Kanda
-Apr 23,home,Hudson Valley,L,12-1,12,1,11,win,20240423_mk3a,0,0,1,0,5.0,7,6,5,9.00,1.60,1,8,2024,2023-24,div3,Mohawk Valley,mohawkvalleycommunitycollege,kanamekanda8uw3,Kaname Kanda
-Apr 21,home,Herkimer,L,14-3,14,3,11,win,20240421_y7yy,0,0,0,0,1.1,,,,0.00,1.50,2,3,2024,2023-24,div3,Mohawk Valley,mohawkvalleycommunitycollege,kanamekanda8uw3,Kaname Kanda
-Apr 9,home,Jefferson (NY),W,3-0,3,0,3,win,20240409_yicl,0,1,0,0,6.0,3,,,0.00,1.17,4,6,2024,2023-24,div3,Mohawk Valley,mohawkvalleycommunitycollege,kanamekanda8uw3,Kaname Kanda
-Mar 26,home,Jefferson (NY),W,14-2,14,2,12,win,20240326_hk17,0,0,0,0,1.0,1,,,0.00,1.00,,3,2024,2023-24,div3,Mohawk Valley,mohawkvalleycommunitycollege,kanamekanda8uw3,Kaname Kanda
-Mar 15,home,Onondaga,L,10-1,10,1,9,win,20240315_0x0r,0,0,0,0,5.2,8,6,6,9.53,1.76,2,6,2024,2023-24,div3,Mohawk Valley,mohawkvalleycommunitycollege,kanamekanda8uw3,Kaname Kanda
-Mar 8,home,Harford,L,13-3,13,3,10,win,20240308_ij6k,0,0,0,0,1.0,1,2,2,18.00,3.00,2,1,2024,2023-24,div3,Mohawk Valley,mohawkvalleycommunitycollege,kanamekanda8uw3,Kaname Kanda
+May 18,home,St. Cloud Tech,L,24-22,24,22,2,win,20240518_8xfu,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div3,Mohawk Valley,mohawkvalleycommunitycollege,kanamekanda8uw3,Kaname Kanda
+May 18,home,St. Cloud Tech,W,9-6,9,6,3,win,20240518_n20m,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div3,Mohawk Valley,mohawkvalleycommunitycollege,kanamekanda8uw3,Kaname Kanda
+May 17,home,North Dakota SCS,W,10-0,10,0,10,win,20240517_3ab4,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div3,Mohawk Valley,mohawkvalleycommunitycollege,kanamekanda8uw3,Kaname Kanda
+May 17,home,St. Cloud Tech,L,15-8,15,8,7,win,20240517_bpcg,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div3,Mohawk Valley,mohawkvalleycommunitycollege,kanamekanda8uw3,Kaname Kanda
+May 16,home,Rochester,W,7-6,7,6,1,win,20240516_zne2,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div3,Mohawk Valley,mohawkvalleycommunitycollege,kanamekanda8uw3,Kaname Kanda
+May 4,home,Minnesota Post Grad,W,11-5,11,5,6,win,20240504_t4o0,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div3,Mohawk Valley,mohawkvalleycommunitycollege,kanamekanda8uw3,Kaname Kanda
+May 3,home,Minnesota Post Grad,W,13-1,13,1,12,win,20240503_q00m,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div3,Mohawk Valley,mohawkvalleycommunitycollege,kanamekanda8uw3,Kaname Kanda
+Apr 27,home,Rochester,L,7-6,7,6,1,win,20240427_avnb,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div3,Mohawk Valley,mohawkvalleycommunitycollege,kanamekanda8uw3,Kaname Kanda
+Apr 27,home,Rochester,L,8-3,8,3,5,win,20240427_eion,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div3,Mohawk Valley,mohawkvalleycommunitycollege,kanamekanda8uw3,Kaname Kanda
+Apr 24,home,Hamline University JV,W,13-7,13,7,6,win,20240424_um1i,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div3,Mohawk Valley,mohawkvalleycommunitycollege,kanamekanda8uw3,Kaname Kanda
+Apr 24,home,Hamline University JV,W,11-8,11,8,3,win,20240424_3376,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div3,Mohawk Valley,mohawkvalleycommunitycollege,kanamekanda8uw3,Kaname Kanda
+Apr 21,home,Riverland,W,17-7,17,7,10,win,20240421_64xm,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div3,Mohawk Valley,mohawkvalleycommunitycollege,kanamekanda8uw3,Kaname Kanda
+Apr 21,home,Riverland,W,6-2,6,2,4,win,20240421_39p4,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div3,Mohawk Valley,mohawkvalleycommunitycollege,kanamekanda8uw3,Kaname Kanda
+Apr 20,home,Riverland,L,2-1,2,1,1,win,20240420_rkbs,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div3,Mohawk Valley,mohawkvalleycommunitycollege,kanamekanda8uw3,Kaname Kanda
+Apr 14,home,Minnesota West,L,11-5,11,5,6,win,20240414_wp5o,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div3,Mohawk Valley,mohawkvalleycommunitycollege,kanamekanda8uw3,Kaname Kanda
+Apr 13,home,Minnesota West,W,11-6,11,6,5,win,20240413_y00i,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div3,Mohawk Valley,mohawkvalleycommunitycollege,kanamekanda8uw3,Kaname Kanda
+Apr 9,home,Northwestern University - St. Paul,L,5-4,5,4,1,win,20240409_pzf2,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div3,Mohawk Valley,mohawkvalleycommunitycollege,kanamekanda8uw3,Kaname Kanda
+Apr 9,home,Northwestern University - St. Paul,W,13-8,13,8,5,win,20240409_5nmc,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div3,Mohawk Valley,mohawkvalleycommunitycollege,kanamekanda8uw3,Kaname Kanda
+Apr 5,home,Western Tech,L,5-2,5,2,3,win,20240405_5fwa,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div3,Mohawk Valley,mohawkvalleycommunitycollege,kanamekanda8uw3,Kaname Kanda
+Apr 3,home,Bethany Lutheran College JV,W,12-9,12,9,3,win,20240403_p2ql,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div3,Mohawk Valley,mohawkvalleycommunitycollege,kanamekanda8uw3,Kaname Kanda
+Mar 16,home,Alexandria Tech,L,9-8,9,8,1,win,20240316_5llj,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div3,Mohawk Valley,mohawkvalleycommunitycollege,kanamekanda8uw3,Kaname Kanda
+Mar 10,home,SUNY Adirondack,W,6-5,6,5,1,win,20240310_wc6r,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div3,Mohawk Valley,mohawkvalleycommunitycollege,kanamekanda8uw3,Kaname Kanda
+Mar 9,home,Lakeland,W,5-0,5,0,5,win,20240309_hqsf,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div3,Mohawk Valley,mohawkvalleycommunitycollege,kanamekanda8uw3,Kaname Kanda
+Mar 8,home,Genesee,W,10-6,10,6,4,win,20240308_sa2j,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div3,Mohawk Valley,mohawkvalleycommunitycollege,kanamekanda8uw3,Kaname Kanda
+Mar 5,home,Lansing,L,19-5,19,5,14,win,20240305_w70p,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div3,Mohawk Valley,mohawkvalleycommunitycollege,kanamekanda8uw3,Kaname Kanda
+Mar 4,home,Mid Michigan,L,15-14,15,14,1,win,20240304_y2oa,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div3,Mohawk Valley,mohawkvalleycommunitycollege,kanamekanda8uw3,Kaname Kanda
+Mar 3,home,Marian-Ancilla,W,6-0,6,0,6,win,20240303_9fdl,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div3,Mohawk Valley,mohawkvalleycommunitycollege,kanamekanda8uw3,Kaname Kanda
+Mar 3,home,Marian-Ancilla,L,9-3,9,3,6,win,20240303_1cyn,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div3,Mohawk Valley,mohawkvalleycommunitycollege,kanamekanda8uw3,Kaname Kanda
+Feb 26,home,Hamline University JV,W,11-1,11,1,10,win,20240226_ezuk,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div3,Mohawk Valley,mohawkvalleycommunitycollege,kanamekanda8uw3,Kaname Kanda
+Feb 26,home,Hamline University JV,W,13-1,13,1,12,win,20240226_w47q,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div3,Mohawk Valley,mohawkvalleycommunitycollege,kanamekanda8uw3,Kaname Kanda
+Feb 7,home,Minnesota Post Grad,W,18-2,18,2,16,win,20240207_yzxc,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div3,Mohawk Valley,mohawkvalleycommunitycollege,kanamekanda8uw3,Kaname Kanda

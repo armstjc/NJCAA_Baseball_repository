@@ -1,14 +1,36 @@
 date,location,opponent,result,score,team_score,opp_score,game_score_diff,game_win_loss,game_id,TC,PO,A,E,FPCT,DP,SBA,RCS,RCS_PCT,PB,CI,season,njcaa_season,njcaa_division,team,team_id,player_id,player_name
-Feb 17,home,Owens,L,9-4,9,4,5,win,20240217_1l9w,0,0,0,0,1.2,,,,0.00,,,2024,2023-24,div3,Monroe College - Bronx,monroecollegebronx,eliosanchez9hh8,Elio Sanchez
-Feb 18,home,Virginia Peninsula CC,L,6-5,6,5,1,win,20240218_erd0,0,0,0,0,0.2,,,,0.00,1.50,1,2024,2023-24,div3,Monroe College - Bronx,monroecollegebronx,eliosanchez9hh8,Elio Sanchez
-Feb 24,home,Delaware Tech,L,19-11,19,11,8,win,20240224_nm2f,0,0,0,0,1.0,3,2,2,18.00,3.00,,2024,2023-24,div3,Monroe College - Bronx,monroecollegebronx,eliosanchez9hh8,Elio Sanchez
-Mar 8,home,Montgomery,L,12-0,12,0,12,win,20240308_fldg,0,0,0,0,1.0,1,1,1,9.00,1.00,,2024,2023-24,div3,Monroe College - Bronx,monroecollegebronx,eliosanchez9hh8,Elio Sanchez
-Mar 17,home,Middlesex College,L,21-8,21,8,13,win,20240317_x9r5,0,0,0,0,2.1,3,1,,0.00,1.71,1,2024,2023-24,div3,Monroe College - Bronx,monroecollegebronx,eliosanchez9hh8,Elio Sanchez
-Mar 22,home,Borough of Manhattan,W,19-2,19,2,17,win,20240322_qfy6,0,0,0,0,2.0,,1,1,4.50,1.50,3,2024,2023-24,div3,Monroe College - Bronx,monroecollegebronx,eliosanchez9hh8,Elio Sanchez
-Mar 26,home,Nassau,W,9-3,9,3,6,win,20240326_b03g,0,0,0,0,1.0,3,3,3,27.00,5.00,2,2024,2023-24,div3,Monroe College - Bronx,monroecollegebronx,eliosanchez9hh8,Elio Sanchez
-Apr 12,home,Suffolk County,L,7-0,7,0,7,win,20240412_ehgw,0,0,0,0,2.1,1,3,,0.00,1.29,2,2024,2023-24,div3,Monroe College - Bronx,monroecollegebronx,eliosanchez9hh8,Elio Sanchez
-Apr 19,home,Kingsborough,L,11-4,11,4,7,win,20240419_8x8g,0,0,0,0,4.2,3,3,2,3.86,.86,1,2024,2023-24,div3,Monroe College - Bronx,monroecollegebronx,eliosanchez9hh8,Elio Sanchez
-Apr 27,home,Bronx,W,17-8,17,8,9,win,20240427_kync,0,1,0,0,1.2,1,1,1,5.40,.60,,2024,2023-24,div3,Monroe College - Bronx,monroecollegebronx,eliosanchez9hh8,Elio Sanchez
-May 4,home,Queensborough,L,6-4,6,4,2,win,20240504_c040,0,0,0,0,3.2,3,2,1,2.45,1.09,1,2024,2023-24,div3,Monroe College - Bronx,monroecollegebronx,eliosanchez9hh8,Elio Sanchez
-May 11,home,Suffolk County,W,12-11,12,11,1,win,20240511_0tsh,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div3,Monroe College - Bronx,monroecollegebronx,eliosanchez9hh8,Elio Sanchez
-May 12,home,Kingsborough,L,12-1,12,1,11,win,20240512_1dul,0,0,0,0,3.0,5,3,3,9.00,2.67,3,2024,2023-24,div3,Monroe College - Bronx,monroecollegebronx,eliosanchez9hh8,Elio Sanchez
+Mar 4,home,Marian-Ancilla,L,15-8,15,8,7,win,20240304_kiln,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div3,Monroe College - Bronx,monroecollegebronx,eliosanchez9hh8,Elio Sanchez
+Mar 4,home,Marian-Ancilla,L,9-8,9,8,1,win,20240304_emsc,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div3,Monroe College - Bronx,monroecollegebronx,eliosanchez9hh8,Elio Sanchez
+Mar 5,home,Minnesota North College - Mesabi Range,W,21-3,21,3,18,win,20240305_g07o,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div3,Monroe College - Bronx,monroecollegebronx,eliosanchez9hh8,Elio Sanchez
+Mar 5,home,North Dakota SCS,W,11-4,11,4,7,win,20240305_9k3j,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div3,Monroe College - Bronx,monroecollegebronx,eliosanchez9hh8,Elio Sanchez
+Mar 7,home,Lake Region State,W,22-4,22,4,18,win,20240307_xsmy,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div3,Monroe College - Bronx,monroecollegebronx,eliosanchez9hh8,Elio Sanchez
+Mar 7,home,Lake Region State,W,12-2,12,2,10,win,20240307_wogc,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div3,Monroe College - Bronx,monroecollegebronx,eliosanchez9hh8,Elio Sanchez
+Mar 8,home,Owens,L,11-3,11,3,8,win,20240308_1y82,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div3,Monroe College - Bronx,monroecollegebronx,eliosanchez9hh8,Elio Sanchez
+Mar 8,home,Kalamazoo Valley,L,13-12,13,12,1,win,20240308_l43g,0,0,0,0,2.0,,,,0.00,.50,1,2024,2023-24,div3,Monroe College - Bronx,monroecollegebronx,eliosanchez9hh8,Elio Sanchez
+Mar 29,home,Alexandria Tech,L,11-1,11,1,10,win,20240329_8n0o,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div3,Monroe College - Bronx,monroecollegebronx,eliosanchez9hh8,Elio Sanchez
+Mar 29,home,Alexandria Tech,L,4-3,4,3,1,win,20240329_py7n,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div3,Monroe College - Bronx,monroecollegebronx,eliosanchez9hh8,Elio Sanchez
+Mar 30,home,Alexandria Tech,L,10-7,10,7,3,win,20240330_d6ps,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div3,Monroe College - Bronx,monroecollegebronx,eliosanchez9hh8,Elio Sanchez
+Mar 30,home,Alexandria Tech,L,10-4,10,4,6,win,20240330_u489,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div3,Monroe College - Bronx,monroecollegebronx,eliosanchez9hh8,Elio Sanchez
+Apr 6,home,Anoka-Ramsey,W,19-4,19,4,15,win,20240406_b435,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div3,Monroe College - Bronx,monroecollegebronx,eliosanchez9hh8,Elio Sanchez
+Apr 6,home,Anoka-Ramsey,W,6-5,6,5,1,win,20240406_9hw9,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div3,Monroe College - Bronx,monroecollegebronx,eliosanchez9hh8,Elio Sanchez
+Apr 10,home,Anoka-Ramsey,W,5-4,5,4,1,win,20240410_rcpr,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div3,Monroe College - Bronx,monroecollegebronx,eliosanchez9hh8,Elio Sanchez
+Apr 10,home,Anoka-Ramsey,W,6-4,6,4,2,win,20240410_jzy2,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div3,Monroe College - Bronx,monroecollegebronx,eliosanchez9hh8,Elio Sanchez
+Apr 13,home,St. Cloud Tech,W,15-5,15,5,10,win,20240413_fcda,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div3,Monroe College - Bronx,monroecollegebronx,eliosanchez9hh8,Elio Sanchez
+Apr 13,home,St. Cloud Tech,L,13-4,13,4,9,win,20240413_1d03,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div3,Monroe College - Bronx,monroecollegebronx,eliosanchez9hh8,Elio Sanchez
+Apr 14,home,St. Cloud Tech,L,7-5,7,5,2,win,20240414_jdak,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div3,Monroe College - Bronx,monroecollegebronx,eliosanchez9hh8,Elio Sanchez
+Apr 14,home,St. Cloud Tech,L,5-3,5,3,2,win,20240414_rdlg,0,0,1,0,1.2,4,3,3,16.20,2.40,,2024,2023-24,div3,Monroe College - Bronx,monroecollegebronx,eliosanchez9hh8,Elio Sanchez
+Apr 20,home,Minnesota State,W,7-0,7,0,7,win,20240420_zzlx,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div3,Monroe College - Bronx,monroecollegebronx,eliosanchez9hh8,Elio Sanchez
+Apr 20,home,Minnesota State,W,4-2,4,2,2,win,20240420_5yyd,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div3,Monroe College - Bronx,monroecollegebronx,eliosanchez9hh8,Elio Sanchez
+Apr 21,home,Minnesota State,L,12-11,12,11,1,win,20240421_9oak,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div3,Monroe College - Bronx,monroecollegebronx,eliosanchez9hh8,Elio Sanchez
+Apr 21,home,Minnesota State,W,11-9,11,9,2,win,20240421_qshn,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div3,Monroe College - Bronx,monroecollegebronx,eliosanchez9hh8,Elio Sanchez
+May 1,home,Alexandria Tech,L,11-10,11,10,1,win,20240501_tazs,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div3,Monroe College - Bronx,monroecollegebronx,eliosanchez9hh8,Elio Sanchez
+May 1,home,Alexandria Tech,L,4-2,4,2,2,win,20240501_tbmz,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div3,Monroe College - Bronx,monroecollegebronx,eliosanchez9hh8,Elio Sanchez
+May 3,home,Central Lakes,W,8-4,8,4,4,win,20240503_frv1,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div3,Monroe College - Bronx,monroecollegebronx,eliosanchez9hh8,Elio Sanchez
+May 3,home,Central Lakes,W,11-1,11,1,10,win,20240503_71iv,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div3,Monroe College - Bronx,monroecollegebronx,eliosanchez9hh8,Elio Sanchez
+May 4,home,Central Lakes,W,16-1,16,1,15,win,20240504_0z07,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div3,Monroe College - Bronx,monroecollegebronx,eliosanchez9hh8,Elio Sanchez
+May 4,home,Central Lakes,W,15-3,15,3,12,win,20240504_7u2w,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div3,Monroe College - Bronx,monroecollegebronx,eliosanchez9hh8,Elio Sanchez
+May 5,home,Alexandria Tech,L,16-2,16,2,14,win,20240505_0sxf,1,0,1,0,3.0,7,6,3,9.00,2.67,1,2024,2023-24,div3,Monroe College - Bronx,monroecollegebronx,eliosanchez9hh8,Elio Sanchez
+May 5,home,Alexandria Tech,L,16-2,16,2,14,win,20240505_fpeh,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div3,Monroe College - Bronx,monroecollegebronx,eliosanchez9hh8,Elio Sanchez
+May 9,home,Minnesota North College - Hibbing,W,8-2,8,2,6,win,20240509_91j2,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div3,Monroe College - Bronx,monroecollegebronx,eliosanchez9hh8,Elio Sanchez
+May 9,home,Rochester,L,9-1,9,1,8,win,20240509_osnx,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div3,Monroe College - Bronx,monroecollegebronx,eliosanchez9hh8,Elio Sanchez
+May 10,home,Riverland,L,12-2,12,2,10,win,20240510_qlwv,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div3,Monroe College - Bronx,monroecollegebronx,eliosanchez9hh8,Elio Sanchez
