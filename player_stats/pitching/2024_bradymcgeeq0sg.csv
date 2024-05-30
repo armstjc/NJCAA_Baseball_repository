@@ -1,32 +1,60 @@
 date,location,opponent,result,score,team_score,opp_score,game_score_diff,game_win_loss,game_id,GS,W,L,SV,IP,H,R,ER,ERA,BB,K,HR,season,njcaa_season,njcaa_division,team,team_id,player_id,player_name
-Apr 26,home,Mesa,W,8-5,8,5,3,win,20240426_9z22,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div2,East Central (MS),eastcentralcommunitycollege,bradymcgeeq0sg,Brady McGee
-Apr 24,home,Phoenix,W,19-8,19,8,11,win,20240424_f5bv,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div2,East Central (MS),eastcentralcommunitycollege,bradymcgeeq0sg,Brady McGee
-Apr 23,home,Phoenix,W,4-3,4,3,1,win,20240423_djgo,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div2,East Central (MS),eastcentralcommunitycollege,bradymcgeeq0sg,Brady McGee
-Apr 20,home,Chandler-Gilbert,L,12-6,12,6,6,win,20240420_jm5h,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div2,East Central (MS),eastcentralcommunitycollege,bradymcgeeq0sg,Brady McGee
-Apr 19,home,Chandler-Gilbert,W,9-8,9,8,1,win,20240419_3bvv,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div2,East Central (MS),eastcentralcommunitycollege,bradymcgeeq0sg,Brady McGee
-Apr 17,home,Glendale,W,9-2,9,2,7,win,20240417_pcam,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div2,East Central (MS),eastcentralcommunitycollege,bradymcgeeq0sg,Brady McGee
-Apr 16,home,Glendale,L,4-1,4,1,3,win,20240416_dc32,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div2,East Central (MS),eastcentralcommunitycollege,bradymcgeeq0sg,Brady McGee
-Apr 12,home,Paradise Valley,W,13-6,13,6,7,win,20240412_uvxa,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div2,East Central (MS),eastcentralcommunitycollege,bradymcgeeq0sg,Brady McGee
-Apr 9,home,Ottawa University JV,W,9-7,9,7,2,win,20240409_jrm5,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div2,East Central (MS),eastcentralcommunitycollege,bradymcgeeq0sg,Brady McGee
-Apr 5,home,GateWay (AZ),L,9-6,9,6,3,win,20240405_1utk,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div2,East Central (MS),eastcentralcommunitycollege,bradymcgeeq0sg,Brady McGee
-Mar 27,home,Benedictine University Mesa JV,W,10-1,10,1,9,win,20240327_o4ys,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div2,East Central (MS),eastcentralcommunitycollege,bradymcgeeq0sg,Brady McGee
-Mar 23,home,Cochise,L,12-2,12,2,10,win,20240323_0hsg,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div2,East Central (MS),eastcentralcommunitycollege,bradymcgeeq0sg,Brady McGee
-Mar 19,home,Central Arizona,L,7-0,7,0,7,win,20240319_l2yz,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div2,East Central (MS),eastcentralcommunitycollege,bradymcgeeq0sg,Brady McGee
-Mar 14,home,Madison,W,12-2,12,2,10,win,20240314_0kqt,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div2,East Central (MS),eastcentralcommunitycollege,bradymcgeeq0sg,Brady McGee
-Mar 12,home,Arizona Christian University JV,W,13-5,13,5,8,win,20240312_ox13,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div2,East Central (MS),eastcentralcommunitycollege,bradymcgeeq0sg,Brady McGee
-Mar 9,home,Arizona Western,L,3-1,3,1,2,win,20240309_e4vp,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div2,East Central (MS),eastcentralcommunitycollege,bradymcgeeq0sg,Brady McGee
-Mar 5,home,Yavapai,W,8-7,8,7,1,win,20240305_c5sp,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div2,East Central (MS),eastcentralcommunitycollege,bradymcgeeq0sg,Brady McGee
-Mar 5,home,Yavapai,W,3-2,3,2,1,win,20240305_rsai,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div2,East Central (MS),eastcentralcommunitycollege,bradymcgeeq0sg,Brady McGee
-Mar 1,home,Mesa,W,15-9,15,9,6,win,20240301_4brm,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div2,East Central (MS),eastcentralcommunitycollege,bradymcgeeq0sg,Brady McGee
-Feb 27,home,Phoenix,L,4-1,4,1,3,win,20240227_66pr,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div2,East Central (MS),eastcentralcommunitycollege,bradymcgeeq0sg,Brady McGee
-Feb 24,home,Chandler-Gilbert,L,7-3,7,3,4,win,20240224_nzw9,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div2,East Central (MS),eastcentralcommunitycollege,bradymcgeeq0sg,Brady McGee
-Feb 23,home,Chandler-Gilbert,W,11-9,11,9,2,win,20240223_mrc4,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div2,East Central (MS),eastcentralcommunitycollege,bradymcgeeq0sg,Brady McGee
-Feb 22,home,GateWay (AZ),L,11-1,11,1,10,win,20240222_lxf6,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div2,East Central (MS),eastcentralcommunitycollege,bradymcgeeq0sg,Brady McGee
-Feb 20,home,Glendale,W,7-1,7,1,6,win,20240220_g3hh,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div2,East Central (MS),eastcentralcommunitycollege,bradymcgeeq0sg,Brady McGee
-Feb 16,home,Paradise Valley,L,8-5,8,5,3,win,20240216_7t4k,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div2,East Central (MS),eastcentralcommunitycollege,bradymcgeeq0sg,Brady McGee
-Feb 15,home,GateWay (AZ),W,9-7,9,7,2,win,20240215_xn26,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div2,East Central (MS),eastcentralcommunitycollege,bradymcgeeq0sg,Brady McGee
-Feb 13,home,Arizona Christian University JV,W,12-1,12,1,11,win,20240213_pbp4,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div2,East Central (MS),eastcentralcommunitycollege,bradymcgeeq0sg,Brady McGee
-Feb 1,home,Southern Idaho,W,11-3,11,3,8,win,20240201_xn5v,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div2,East Central (MS),eastcentralcommunitycollege,bradymcgeeq0sg,Brady McGee
-Jan 31,home,Southern Idaho,W,2-1,2,1,1,win,20240131_vxah,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div2,East Central (MS),eastcentralcommunitycollege,bradymcgeeq0sg,Brady McGee
-Jan 29,home,Colorado Northwestern,L,3-2,3,2,1,win,20240129_pkpf,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div2,East Central (MS),eastcentralcommunitycollege,bradymcgeeq0sg,Brady McGee
-Jan 27,home,Colorado Northwestern,L,9-6,9,6,3,win,20240127_gk8a,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div2,East Central (MS),eastcentralcommunitycollege,bradymcgeeq0sg,Brady McGee
+May 27,home,(6) Madison,L,12-10,12,10,2,win,20240527_2trh,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div2,East Central (MS),eastcentralcommunitycollege,bradymcgeeq0sg,Brady McGee
+May 16,home,Jones,L,6-4,6,4,2,win,20240516_fc3y,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div2,East Central (MS),eastcentralcommunitycollege,bradymcgeeq0sg,Brady McGee
+May 15,home,Hinds,W,14-13,14,13,1,win,20240515_oot7,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div2,East Central (MS),eastcentralcommunitycollege,bradymcgeeq0sg,Brady McGee
+May 14,home,Meridian,L,4-3,4,3,1,win,20240514_48oe,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div2,East Central (MS),eastcentralcommunitycollege,bradymcgeeq0sg,Brady McGee
+May 6,home,Northeast Mississippi,W,12-7,12,7,5,win,20240506_hvpp,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div2,East Central (MS),eastcentralcommunitycollege,bradymcgeeq0sg,Brady McGee
+May 5,home,Northeast Mississippi,L,3-2,3,2,1,win,20240505_px8p,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div2,East Central (MS),eastcentralcommunitycollege,bradymcgeeq0sg,Brady McGee
+May 4,home,Northeast Mississippi,W,6-4,6,4,2,win,20240504_zn18,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div2,East Central (MS),eastcentralcommunitycollege,bradymcgeeq0sg,Brady McGee
+Apr 27,home,East Mississippi,W,7-2,7,2,5,win,20240427_01d2,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div2,East Central (MS),eastcentralcommunitycollege,bradymcgeeq0sg,Brady McGee
+Apr 27,home,East Mississippi,W,7-3,7,3,4,win,20240427_pbgs,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div2,East Central (MS),eastcentralcommunitycollege,bradymcgeeq0sg,Brady McGee
+Apr 24,home,Southwest Mississippi,W,16-3,16,3,13,win,20240424_akb5,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div2,East Central (MS),eastcentralcommunitycollege,bradymcgeeq0sg,Brady McGee
+Apr 24,home,Southwest Mississippi,W,5-1,5,1,4,win,20240424_7q7x,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div2,East Central (MS),eastcentralcommunitycollege,bradymcgeeq0sg,Brady McGee
+Apr 19,home,Holmes,W,22-2,22,2,20,win,20240419_rqk4,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div2,East Central (MS),eastcentralcommunitycollege,bradymcgeeq0sg,Brady McGee
+Apr 19,home,Holmes,W,7-4,7,4,3,win,20240419_fsyc,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div2,East Central (MS),eastcentralcommunitycollege,bradymcgeeq0sg,Brady McGee
+Apr 17,home,Pearl River,W,7-2,7,2,5,win,20240417_3uv1,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div2,East Central (MS),eastcentralcommunitycollege,bradymcgeeq0sg,Brady McGee
+Apr 17,home,Pearl River,W,3-1,3,1,2,win,20240417_zjvw,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div2,East Central (MS),eastcentralcommunitycollege,bradymcgeeq0sg,Brady McGee
+Apr 13,home,Itawamba,W,13-8,13,8,5,win,20240413_60lu,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div2,East Central (MS),eastcentralcommunitycollege,bradymcgeeq0sg,Brady McGee
+Apr 13,home,Itawamba,L,9-6,9,6,3,win,20240413_6f0k,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div2,East Central (MS),eastcentralcommunitycollege,bradymcgeeq0sg,Brady McGee
+Apr 12,home,Jones,W,6-4,6,4,2,win,20240412_q9ld,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div2,East Central (MS),eastcentralcommunitycollege,bradymcgeeq0sg,Brady McGee
+Apr 9,home,Jones,W,7-6,7,6,1,win,20240409_kpve,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div2,East Central (MS),eastcentralcommunitycollege,bradymcgeeq0sg,Brady McGee
+Apr 6,home,Mississippi Delta,W,8-5,8,5,3,win,20240406_4y3t,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div2,East Central (MS),eastcentralcommunitycollege,bradymcgeeq0sg,Brady McGee
+Apr 6,home,Mississippi Delta,W,4-3,4,3,1,win,20240406_rgf0,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div2,East Central (MS),eastcentralcommunitycollege,bradymcgeeq0sg,Brady McGee
+Apr 3,home,Mississippi Gulf Coast,W,5-2,5,2,3,win,20240403_330a,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div2,East Central (MS),eastcentralcommunitycollege,bradymcgeeq0sg,Brady McGee
+Apr 3,home,Mississippi Gulf Coast,W,20-4,20,4,16,win,20240403_panu,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div2,East Central (MS),eastcentralcommunitycollege,bradymcgeeq0sg,Brady McGee
+Mar 29,home,Northeast Mississippi,L,3-2,3,2,1,win,20240329_qr8p,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div2,East Central (MS),eastcentralcommunitycollege,bradymcgeeq0sg,Brady McGee
+Mar 29,home,Northeast Mississippi,W,10-3,10,3,7,win,20240329_92df,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div2,East Central (MS),eastcentralcommunitycollege,bradymcgeeq0sg,Brady McGee
+Mar 27,home,Copiah-Lincoln,L,3-1,3,1,2,win,20240327_vrnw,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div2,East Central (MS),eastcentralcommunitycollege,bradymcgeeq0sg,Brady McGee
+Mar 27,home,Copiah-Lincoln,W,8-4,8,4,4,win,20240327_a24g,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div2,East Central (MS),eastcentralcommunitycollege,bradymcgeeq0sg,Brady McGee
+Mar 23,home,Northwest Mississippi,L,8-7,8,7,1,win,20240323_bj38,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div2,East Central (MS),eastcentralcommunitycollege,bradymcgeeq0sg,Brady McGee
+Mar 23,home,Northwest Mississippi,W,9-5,9,5,4,win,20240323_b9zb,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div2,East Central (MS),eastcentralcommunitycollege,bradymcgeeq0sg,Brady McGee
+Mar 19,home,Hinds,W,5-0,5,0,5,win,20240319_661o,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div2,East Central (MS),eastcentralcommunitycollege,bradymcgeeq0sg,Brady McGee
+Mar 19,home,Hinds,W,12-2,12,2,10,win,20240319_mlzz,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div2,East Central (MS),eastcentralcommunitycollege,bradymcgeeq0sg,Brady McGee
+Mar 16,home,Baton Rouge,W,13-3,13,3,10,win,20240316_q0x1,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div2,East Central (MS),eastcentralcommunitycollege,bradymcgeeq0sg,Brady McGee
+Mar 13,home,Meridian,W,4-3,4,3,1,win,20240313_rbi9,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div2,East Central (MS),eastcentralcommunitycollege,bradymcgeeq0sg,Brady McGee
+Mar 13,home,Meridian,W,7-5,7,5,2,win,20240313_3c6s,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div2,East Central (MS),eastcentralcommunitycollege,bradymcgeeq0sg,Brady McGee
+Mar 10,home,Coahoma,W,12-1,12,1,11,win,20240310_tc2m,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div2,East Central (MS),eastcentralcommunitycollege,bradymcgeeq0sg,Brady McGee
+Mar 10,home,Coahoma,W,12-6,12,6,6,win,20240310_vodu,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div2,East Central (MS),eastcentralcommunitycollege,bradymcgeeq0sg,Brady McGee
+Mar 7,home,Kankakee,W,6-0,6,0,6,win,20240307_k7je,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div2,East Central (MS),eastcentralcommunitycollege,bradymcgeeq0sg,Brady McGee
+Mar 6,home,Kankakee,W,4-2,4,2,2,win,20240306_ly6o,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div2,East Central (MS),eastcentralcommunitycollege,bradymcgeeq0sg,Brady McGee
+Mar 3,home,Lansing,W,10-6,10,6,4,win,20240303_pcd2,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div2,East Central (MS),eastcentralcommunitycollege,bradymcgeeq0sg,Brady McGee
+Mar 2,home,Hinds,W,6-3,6,3,3,win,20240302_6mj6,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div2,East Central (MS),eastcentralcommunitycollege,bradymcgeeq0sg,Brady McGee
+Mar 2,home,Southeastern,W,10-6,10,6,4,win,20240302_isn4,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div2,East Central (MS),eastcentralcommunitycollege,bradymcgeeq0sg,Brady McGee
+Feb 27,home,East Mississippi,W,10-8,10,8,2,win,20240227_vg3l,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div2,East Central (MS),eastcentralcommunitycollege,bradymcgeeq0sg,Brady McGee
+Feb 27,home,Meridian,W,14-2,14,2,12,win,20240227_84vt,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div2,East Central (MS),eastcentralcommunitycollege,bradymcgeeq0sg,Brady McGee
+Feb 24,home,Jackson State,W,2-1,2,1,1,win,20240224_oqp9,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div2,East Central (MS),eastcentralcommunitycollege,bradymcgeeq0sg,Brady McGee
+Feb 24,home,Jackson State,W,9-7,9,7,2,win,20240224_kduw,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div2,East Central (MS),eastcentralcommunitycollege,bradymcgeeq0sg,Brady McGee
+Feb 23,home,Jackson State,W,14-4,14,4,10,win,20240223_g3yg,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div2,East Central (MS),eastcentralcommunitycollege,bradymcgeeq0sg,Brady McGee
+Feb 20,home,Jones,W,16-7,16,7,9,win,20240220_45m2,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div2,East Central (MS),eastcentralcommunitycollege,bradymcgeeq0sg,Brady McGee
+Feb 20,home,Copiah-Lincoln,W,11-1,11,1,10,win,20240220_9tjy,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div2,East Central (MS),eastcentralcommunitycollege,bradymcgeeq0sg,Brady McGee
+Feb 18,home,Kirkwood,W,10-0,10,0,10,win,20240218_zlkj,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div2,East Central (MS),eastcentralcommunitycollege,bradymcgeeq0sg,Brady McGee
+Feb 17,home,Kirkwood,W,12-4,12,4,8,win,20240217_dppg,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div2,East Central (MS),eastcentralcommunitycollege,bradymcgeeq0sg,Brady McGee
+Feb 17,home,Southeastern,W,8-0,8,0,8,win,20240217_cylq,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div2,East Central (MS),eastcentralcommunitycollege,bradymcgeeq0sg,Brady McGee
+Feb 13,home,Bevill State,W,13-4,13,4,9,win,20240213_4b3z,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div2,East Central (MS),eastcentralcommunitycollege,bradymcgeeq0sg,Brady McGee
+Feb 13,home,Bevill State,W,14-13,14,13,1,win,20240213_u7gb,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div2,East Central (MS),eastcentralcommunitycollege,bradymcgeeq0sg,Brady McGee
+Feb 9,home,St. Charles,W,8-3,8,3,5,win,20240209_04my,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div2,East Central (MS),eastcentralcommunitycollege,bradymcgeeq0sg,Brady McGee
+Feb 8,home,South Arkansas,W,10-4,10,4,6,win,20240208_emo9,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div2,East Central (MS),eastcentralcommunitycollege,bradymcgeeq0sg,Brady McGee
+Feb 8,home,St. Charles,W,14-6,14,6,8,win,20240208_ytf5,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div2,East Central (MS),eastcentralcommunitycollege,bradymcgeeq0sg,Brady McGee
+Feb 3,home,Marion Military,W,9-4,9,4,5,win,20240203_w0pr,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div2,East Central (MS),eastcentralcommunitycollege,bradymcgeeq0sg,Brady McGee
+Feb 3,home,Marion Military,W,17-5,17,5,12,win,20240203_rxzn,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div2,East Central (MS),eastcentralcommunitycollege,bradymcgeeq0sg,Brady McGee
+Feb 2,home,Marion Military,W,7-0,7,0,7,win,20240202_3vc1,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div2,East Central (MS),eastcentralcommunitycollege,bradymcgeeq0sg,Brady McGee

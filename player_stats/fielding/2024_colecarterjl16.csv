@@ -1,16 +1,49 @@
 date,location,opponent,result,score,team_score,opp_score,game_score_diff,game_win_loss,game_id,TC,PO,A,E,FPCT,DP,SBA,RCS,RCS_PCT,PB,CI,season,njcaa_season,njcaa_division,team,team_id,player_id,player_name
-Feb 1,home,Hutchinson,L,11-1,11,1,10,win,20240201_siyn,0,0,0,0,1.0,,1,1,9.00,1.00,1,2024,2023-24,div1,Southeast,southeastcommunitycollege,colecarterjl16,Cole Carter
-Feb 9,home,Hutchinson,L,9-3,9,3,6,win,20240209_833g,0,0,0,0,0.2,2,4,4,54.00,6.00,2,2024,2023-24,div1,Southeast,southeastcommunitycollege,colecarterjl16,Cole Carter
-Feb 20,home,Garden City,W,12-6,12,6,6,win,20240220_m9vb,0,0,0,0,1.0,1,1,1,9.00,3.00,2,2024,2023-24,div1,Southeast,southeastcommunitycollege,colecarterjl16,Cole Carter
-Feb 22,home,Cloud County,W,11-6,11,6,5,win,20240222_p7nf,0,1,0,0,1.0,1,,,0.00,1.00,,2024,2023-24,div1,Southeast,southeastcommunitycollege,colecarterjl16,Cole Carter
-Mar 16,home,Iowa Western,L,18-4,18,4,14,win,20240316_4dqr,0,0,0,0,1.0,2,5,1,9.00,4.00,2,2024,2023-24,div1,Southeast,southeastcommunitycollege,colecarterjl16,Cole Carter
-Mar 24,home,Otero,W,17-6,17,6,11,win,20240324_y8jh,0,0,0,0,2.0,2,1,1,4.50,1.00,,2024,2023-24,div1,Southeast,southeastcommunitycollege,colecarterjl16,Cole Carter
-Mar 27,home,Concordia JV,W,10-6,10,6,4,win,20240327_xeny,0,0,0,0,1.0,,,,0.00,,,2024,2023-24,div1,Southeast,southeastcommunitycollege,colecarterjl16,Cole Carter
-Mar 30,home,Northeastern,W,16-2,16,2,14,win,20240330_tvdo,0,0,0,0,1.0,,,,0.00,,,2024,2023-24,div1,Southeast,southeastcommunitycollege,colecarterjl16,Cole Carter
-Apr 9,home,Highland (KS),W,12-10,12,10,2,win,20240409_4mmo,0,0,0,1,1.0,,,,0.00,,,2024,2023-24,div1,Southeast,southeastcommunitycollege,colecarterjl16,Cole Carter
-Apr 14,home,Lamar,W,8-4,8,4,4,win,20240414_v6bp,0,1,0,0,1.1,1,,,0.00,.75,,2024,2023-24,div1,Southeast,southeastcommunitycollege,colecarterjl16,Cole Carter
-Apr 20,home,Western Nebraska,W,9-6,9,6,3,win,20240420_vn8n,0,1,0,0,1.0,,,,0.00,,,2024,2023-24,div1,Southeast,southeastcommunitycollege,colecarterjl16,Cole Carter
-Apr 28,home,Trinidad State,L,9-7,9,7,2,win,20240428_2vkz,0,0,1,0,12.0,2,2,2,1.50,.25,1,2024,2023-24,div1,Southeast,southeastcommunitycollege,colecarterjl16,Cole Carter
-May 3,home,McCook,W,10-5,10,5,5,win,20240503_8nmg,0,1,0,0,3.1,,,,0.00,,,2024,2023-24,div1,Southeast,southeastcommunitycollege,colecarterjl16,Cole Carter
-May 11,home,Northeastern,W,10-5,10,5,5,win,20240511_fxd5,0,0,0,0,1.0,2,3,3,27.00,5.00,3,2024,2023-24,div1,Southeast,southeastcommunitycollege,colecarterjl16,Cole Carter
-May 17,home,Pima,W,8-5,8,5,3,win,20240517_5d9m,0,0,0,0,1.0,,,,0.00,,,2024,2023-24,div1,Southeast,southeastcommunitycollege,colecarterjl16,Cole Carter
+Feb 1,home,Hutchinson,L,11-1,11,1,10,win,20240201_siyn,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Southeast,southeastcommunitycollege,colecarterjl16,Cole Carter
+Feb 19,home,Garden City,W,7-6,7,6,1,win,20240219_jd89,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Southeast,southeastcommunitycollege,colecarterjl16,Cole Carter
+Feb 20,home,Garden City,W,12-6,12,6,6,win,20240220_m9vb,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Southeast,southeastcommunitycollege,colecarterjl16,Cole Carter
+Feb 22,home,Cloud County,W,11-6,11,6,5,win,20240222_p7nf,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Southeast,southeastcommunitycollege,colecarterjl16,Cole Carter
+Feb 24,home,Cloud County,L,3-2,3,2,1,win,20240224_c5l5,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Southeast,southeastcommunitycollege,colecarterjl16,Cole Carter
+Feb 24,home,Cloud County,W,17-11,17,11,6,win,20240224_xfuy,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Southeast,southeastcommunitycollege,colecarterjl16,Cole Carter
+Mar 2,home,Crowder,L,12-3,12,3,9,win,20240302_h61d,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Southeast,southeastcommunitycollege,colecarterjl16,Cole Carter
+Mar 3,home,Crowder,L,19-14,19,14,5,win,20240303_q8sv,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Southeast,southeastcommunitycollege,colecarterjl16,Cole Carter
+Mar 13,home,Northeast,W,4-3,4,3,1,win,20240313_7a3j,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Southeast,southeastcommunitycollege,colecarterjl16,Cole Carter
+Mar 16,home,Iowa Western,L,7-5,7,5,2,win,20240316_4e5m,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Southeast,southeastcommunitycollege,colecarterjl16,Cole Carter
+Mar 20,home,Hastings JV,W,11-0,11,0,11,win,20240320_tydi,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Southeast,southeastcommunitycollege,colecarterjl16,Cole Carter
+Mar 22,home,Otero,W,9-3,9,3,6,win,20240322_3bg2,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Southeast,southeastcommunitycollege,colecarterjl16,Cole Carter
+Mar 23,home,Otero,L,4-3,4,3,1,win,20240323_3qhn,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Southeast,southeastcommunitycollege,colecarterjl16,Cole Carter
+Mar 23,home,Otero,L,7-3,7,3,4,win,20240323_iejf,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Southeast,southeastcommunitycollege,colecarterjl16,Cole Carter
+Mar 24,home,Otero,W,17-6,17,6,11,win,20240324_y8jh,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Southeast,southeastcommunitycollege,colecarterjl16,Cole Carter
+Mar 27,home,Concordia JV,W,8-3,8,3,5,win,20240327_qrab,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Southeast,southeastcommunitycollege,colecarterjl16,Cole Carter
+Mar 29,home,Northeastern,W,12-1,12,1,11,win,20240329_9573,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Southeast,southeastcommunitycollege,colecarterjl16,Cole Carter
+Mar 29,home,Northeastern,W,9-2,9,2,7,win,20240329_qysc,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Southeast,southeastcommunitycollege,colecarterjl16,Cole Carter
+Mar 30,home,Northeastern,W,11-0,11,0,11,win,20240330_o5qt,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Southeast,southeastcommunitycollege,colecarterjl16,Cole Carter
+Mar 30,home,Northeastern,W,16-2,16,2,14,win,20240330_tvdo,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Southeast,southeastcommunitycollege,colecarterjl16,Cole Carter
+Apr 7,home,Luna,W,10-2,10,2,8,win,20240407_b3mp,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Southeast,southeastcommunitycollege,colecarterjl16,Cole Carter
+Apr 7,home,Luna,W,20-5,20,5,15,win,20240407_lkws,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Southeast,southeastcommunitycollege,colecarterjl16,Cole Carter
+Apr 8,home,Luna,W,10-2,10,2,8,win,20240408_b5s4,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Southeast,southeastcommunitycollege,colecarterjl16,Cole Carter
+Apr 8,home,Luna,W,14-0,14,0,14,win,20240408_yr5g,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Southeast,southeastcommunitycollege,colecarterjl16,Cole Carter
+Apr 9,home,Highland (KS),W,12-10,12,10,2,win,20240409_4mmo,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Southeast,southeastcommunitycollege,colecarterjl16,Cole Carter
+Apr 13,home,Lamar,W,13-6,13,6,7,win,20240413_8d63,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Southeast,southeastcommunitycollege,colecarterjl16,Cole Carter
+Apr 13,home,Lamar,W,11-2,11,2,9,win,20240413_4vdg,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Southeast,southeastcommunitycollege,colecarterjl16,Cole Carter
+Apr 14,home,Lamar,W,8-4,8,4,4,win,20240414_v6bp,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Southeast,southeastcommunitycollege,colecarterjl16,Cole Carter
+Apr 17,home,Concordia JV,W,12-2,12,2,10,win,20240417_6ubb,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Southeast,southeastcommunitycollege,colecarterjl16,Cole Carter
+Apr 17,home,Concordia JV,W,9-3,9,3,6,win,20240417_x4y1,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Southeast,southeastcommunitycollege,colecarterjl16,Cole Carter
+Apr 20,home,Western Nebraska,W,27-1,27,1,26,win,20240420_880q,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Southeast,southeastcommunitycollege,colecarterjl16,Cole Carter
+Apr 20,home,Western Nebraska,W,9-6,9,6,3,win,20240420_vn8n,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Southeast,southeastcommunitycollege,colecarterjl16,Cole Carter
+Apr 21,home,Western Nebraska,W,18-1,18,1,17,win,20240421_iccv,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Southeast,southeastcommunitycollege,colecarterjl16,Cole Carter
+Apr 21,home,Western Nebraska,W,12-2,12,2,10,win,20240421_d6ki,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Southeast,southeastcommunitycollege,colecarterjl16,Cole Carter
+Apr 27,home,Trinidad State,W,12-4,12,4,8,win,20240427_bewy,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Southeast,southeastcommunitycollege,colecarterjl16,Cole Carter
+Apr 28,home,Trinidad State,W,14-1,14,1,13,win,20240428_kn9r,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Southeast,southeastcommunitycollege,colecarterjl16,Cole Carter
+Apr 28,home,Trinidad State,L,9-7,9,7,2,win,20240428_2vkz,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Southeast,southeastcommunitycollege,colecarterjl16,Cole Carter
+Apr 29,home,Trinidad State,W,16-3,16,3,13,win,20240429_xfxo,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Southeast,southeastcommunitycollege,colecarterjl16,Cole Carter
+May 3,home,McCook,W,4-0,4,0,4,win,20240503_t79j,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Southeast,southeastcommunitycollege,colecarterjl16,Cole Carter
+May 3,home,McCook,W,10-5,10,5,5,win,20240503_8nmg,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Southeast,southeastcommunitycollege,colecarterjl16,Cole Carter
+May 4,home,McCook,W,10-3,10,3,7,win,20240504_l4o6,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Southeast,southeastcommunitycollege,colecarterjl16,Cole Carter
+May 4,home,McCook,W,16-11,16,11,5,win,20240504_5kxd,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Southeast,southeastcommunitycollege,colecarterjl16,Cole Carter
+May 10,home,Western Nebraska,W,6-5,6,5,1,win,20240510_xvif,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Southeast,southeastcommunitycollege,colecarterjl16,Cole Carter
+May 11,home,Northeastern,W,10-5,10,5,5,win,20240511_fxd5,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Southeast,southeastcommunitycollege,colecarterjl16,Cole Carter
+May 12,home,Northeastern,W,11-3,11,3,8,win,20240512_vxrn,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Southeast,southeastcommunitycollege,colecarterjl16,Cole Carter
+May 16,home,South Mountain,L,8-4,8,4,4,win,20240516_plm3,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Southeast,southeastcommunitycollege,colecarterjl16,Cole Carter
+May 17,home,Pima,W,8-5,8,5,3,win,20240517_5d9m,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Southeast,southeastcommunitycollege,colecarterjl16,Cole Carter
+May 17,home,South Mountain,L,5-4,5,4,1,win,20240517_7kpn,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Southeast,southeastcommunitycollege,colecarterjl16,Cole Carter

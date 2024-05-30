@@ -1,15 +1,13 @@
 date,location,opponent,result,score,team_score,opp_score,game_score_diff,game_win_loss,game_id,TC,PO,A,E,FPCT,DP,SBA,RCS,RCS_PCT,PB,CI,season,njcaa_season,njcaa_division,team,team_id,player_id,player_name
-Feb 7,home,Mississippi Gulf Coast,L,19-5,19,5,14,win,20240207_6egt,0,0,0,0,1.0,,,,0.00,,,2024,2023-24,div2,Coastal Alabama - North,coastalalabamanorth,graysongossz12r,Grayson Goss
-Feb 15,home,Faulkner JV,W,7-3,7,3,4,win,20240215_drgt,0,0,0,0,0.0,2,3,2,INF,,1,2024,2023-24,div2,Coastal Alabama - North,coastalalabamanorth,graysongossz12r,Grayson Goss
-Feb 20,home,Gulf Coast State,L,24-7,24,7,17,win,20240220_rk7r,0,0,0,0,0.1,2,2,1,27.00,9.00,1,2024,2023-24,div2,Coastal Alabama - North,coastalalabamanorth,graysongossz12r,Grayson Goss
-Feb 24,home,Wallace-Selma,L,6-2,6,2,4,win,20240224_1xfp,0,0,0,0,1.0,2,,,0.00,2.00,,2024,2023-24,div2,Coastal Alabama - North,coastalalabamanorth,graysongossz12r,Grayson Goss
-Feb 27,home,Pensacola State,L,15-9,15,9,6,win,20240227_pesn,0,0,0,0,1.0,4,5,4,36.00,5.00,1,2024,2023-24,div2,Coastal Alabama - North,coastalalabamanorth,graysongossz12r,Grayson Goss
-Mar 12,home,Coastal Alabama - South,W,22-21,22,21,1,win,20240312_ygb6,0,0,0,0,1.1,1,,,0.00,.75,,2024,2023-24,div2,Coastal Alabama - North,coastalalabamanorth,graysongossz12r,Grayson Goss
-Mar 30,home,Wallace-Dothan,L,7-0,7,0,7,win,20240330_8ctr,0,0,0,0,2.0,,,,0.00,,,2024,2023-24,div2,Coastal Alabama - North,coastalalabamanorth,graysongossz12r,Grayson Goss
-Apr 1,home,Huntington JV,W,9-2,9,2,7,win,20240401_ftku,0,0,0,0,1.0,,,,0.00,,,2024,2023-24,div2,Coastal Alabama - North,coastalalabamanorth,graysongossz12r,Grayson Goss
-Apr 4,home,Faulkner JV,W,12-2,12,2,10,win,20240404_ejiz,0,0,0,0,1.0,1,,,0.00,1.00,,2024,2023-24,div2,Coastal Alabama - North,coastalalabamanorth,graysongossz12r,Grayson Goss
-Apr 8,home,Spring Hill JV,W,9-6,9,6,3,win,20240408_tryy,0,0,0,0,0.2,4,5,,0.00,6.00,,2024,2023-24,div2,Coastal Alabama - North,coastalalabamanorth,graysongossz12r,Grayson Goss
-Apr 18,home,Bishop State,W,15-4,15,4,11,win,20240418_vx5s,0,0,0,0,1.0,,,,0.00,,,2024,2023-24,div2,Coastal Alabama - North,coastalalabamanorth,graysongossz12r,Grayson Goss
-Apr 20,home,Bishop State,L,7-3,7,3,4,win,20240420_9nkf,0,0,0,0,1.0,1,,,0.00,1.00,,2024,2023-24,div2,Coastal Alabama - North,coastalalabamanorth,graysongossz12r,Grayson Goss
-Apr 28,home,Central Alabama,L,10-6,10,6,4,win,20240428_9rqw,0,0,0,0,2.1,5,2,2,7.71,2.57,1,2024,2023-24,div2,Coastal Alabama - North,coastalalabamanorth,graysongossz12r,Grayson Goss
-May 11,home,St. Johns River State,L,7-1,7,1,6,win,20240511_3c69,0,0,0,0,0.1,,,,0.00,,,2024,2023-24,div2,Coastal Alabama - North,coastalalabamanorth,graysongossz12r,Grayson Goss
+Feb 18,home,East Central (MO),L,8-5,8,5,3,win,20240218_zfi4,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Coastal Alabama - North,coastalalabamanorth,graysongossz12r,Grayson Goss
+Mar 5,home,Hutchinson,W,12-7,12,7,5,win,20240305_sfwm,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Coastal Alabama - North,coastalalabamanorth,graysongossz12r,Grayson Goss
+Mar 7,home,Redlands,W,11-1,11,1,10,win,20240307_jgia,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Coastal Alabama - North,coastalalabamanorth,graysongossz12r,Grayson Goss
+Mar 9,home,Redlands,W,14-11,14,11,3,win,20240309_dojw,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Coastal Alabama - North,coastalalabamanorth,graysongossz12r,Grayson Goss
+Mar 11,home,Northwestern Oklahoma State University JV,W,12-8,12,8,4,win,20240311_29qk,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Coastal Alabama - North,coastalalabamanorth,graysongossz12r,Grayson Goss
+Mar 11,home,Northwestern Oklahoma State University JV,W,19-4,19,4,15,win,20240311_pblx,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Coastal Alabama - North,coastalalabamanorth,graysongossz12r,Grayson Goss
+Mar 17,home,Allen County,L,7-6,7,6,1,win,20240317_ja90,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Coastal Alabama - North,coastalalabamanorth,graysongossz12r,Grayson Goss
+Mar 26,home,Northeastern Oklahoma A&M,L,15-11,15,11,4,win,20240326_m1pc,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Coastal Alabama - North,coastalalabamanorth,graysongossz12r,Grayson Goss
+Apr 8,home,Northwestern Oklahoma State University JV,W,5-4,5,4,1,win,20240408_g6ty,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Coastal Alabama - North,coastalalabamanorth,graysongossz12r,Grayson Goss
+Apr 16,home,DFW Post Grad,W,16-1,16,1,15,win,20240416_ophu,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Coastal Alabama - North,coastalalabamanorth,graysongossz12r,Grayson Goss
+Apr 16,home,DFW Post Grad,W,10-0,10,0,10,win,20240416_cj74,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Coastal Alabama - North,coastalalabamanorth,graysongossz12r,Grayson Goss
+Apr 29,home,Western Oklahoma State,L,9-4,9,4,5,win,20240429_i70n,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Coastal Alabama - North,coastalalabamanorth,graysongossz12r,Grayson Goss

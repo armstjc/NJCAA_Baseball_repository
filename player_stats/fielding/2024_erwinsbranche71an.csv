@@ -1,13 +1,9 @@
 date,location,opponent,result,score,team_score,opp_score,game_score_diff,game_win_loss,game_id,TC,PO,A,E,FPCT,DP,SBA,RCS,RCS_PCT,PB,CI,season,njcaa_season,njcaa_division,team,team_id,player_id,player_name
-Mar 11,home,Northern Essex,W,6-4,6,4,2,win,20240311_xanx,1,0,0,0,3.0,5,5,2,6.00,2.00,1,2024,2023-24,div3,Herkimer,herkimercollege,erwinsbranche71an,Erwins Branche
-Mar 15,home,Black Hawk,W,3-2,3,2,1,win,20240315_y223,1,0,0,0,4.0,3,0,0,0.00,.75,0,2024,2023-24,div3,Herkimer,herkimercollege,erwinsbranche71an,Erwins Branche
-Mar 30,home,Monroe CC,L,9-3,9,3,6,win,20240330_eggc,1,0,0,0,2.1,2,2,2,7.71,2.14,3,2024,2023-24,div3,Herkimer,herkimercollege,erwinsbranche71an,Erwins Branche
-Apr 7,home,Cayuga,W,6-4,6,4,2,win,20240407_aatw,1,0,0,0,4.0,7,2,2,4.50,2.50,3,2024,2023-24,div3,Herkimer,herkimercollege,erwinsbranche71an,Erwins Branche
-Apr 14,home,Jefferson (NY),W,14-1,14,1,13,win,20240414_4dqn,1,1,0,0,5.0,8,1,1,1.80,1.80,1,2024,2023-24,div3,Herkimer,herkimercollege,erwinsbranche71an,Erwins Branche
-Apr 21,home,Mohawk Valley,W,9-0,9,0,9,win,20240421_dr14,1,1,0,0,7.0,3,0,0,0.00,.57,1,2024,2023-24,div3,Herkimer,herkimercollege,erwinsbranche71an,Erwins Branche
-Apr 29,home,Cayuga,W,4-3,4,3,1,win,20240429_gy5q,1,1,0,0,7.0,5,3,3,3.86,1.14,3,2024,2023-24,div3,Herkimer,herkimercollege,erwinsbranche71an,Erwins Branche
-May 4,home,SUNY Adirondack,W,7-6,7,6,1,win,20240504_75en,1,0,0,0,2.0,1,1,1,4.50,1.00,1,2024,2023-24,div3,Herkimer,herkimercollege,erwinsbranche71an,Erwins Branche
-May 11,home,Finger Lakes,W,10-3,10,3,7,win,20240511_uzqj,1,1,0,0,7.0,6,3,3,3.86,1.00,1,2024,2023-24,div3,Herkimer,herkimercollege,erwinsbranche71an,Erwins Branche
-May 16,home,Erie,W,10-0,10,0,10,win,20240516_qynk,1,1,0,0,5.0,2,0,0,0.00,1.00,3,2024,2023-24,div3,Herkimer,herkimercollege,erwinsbranche71an,Erwins Branche
-May 18,home,Genesee,W,9-6,9,6,3,win,20240518_wkwl,0,1,0,0,1.0,1,,,0.00,1.00,,2024,2023-24,div3,Herkimer,herkimercollege,erwinsbranche71an,Erwins Branche
-May 25,home,(4) Camp,W,9-7,9,7,2,win,20240525_hxs3,1,1,0,0,5.0,1,2,1,1.80,1.40,6,2024,2023-24,div3,Herkimer,herkimercollege,erwinsbranche71an,Erwins Branche
+Mar 14,home,Rockland,W,16-2,16,2,14,win,20240314_95wp,0,1,0,0,2.2,2,,,0.00,.75,,2024,2023-24,div3,Herkimer,herkimercollege,erwinsbranche71an,Erwins Branche
+Apr 14,home,Jefferson (NY),W,8-2,8,2,6,win,20240414_1d8o,0,0,0,0,1.1,,,,0.00,.75,1,2024,2023-24,div3,Herkimer,herkimercollege,erwinsbranche71an,Erwins Branche
+Apr 16,home,Jefferson (NY),W,9-6,9,6,3,win,20240416_jerg,0,0,0,1,1.0,2,,,0.00,2.00,,2024,2023-24,div3,Herkimer,herkimercollege,erwinsbranche71an,Erwins Branche
+Apr 25,home,Mohawk Valley,W,14-0,14,0,14,win,20240425_5obn,0,0,0,0,1.0,,,,0.00,,,2024,2023-24,div3,Herkimer,herkimercollege,erwinsbranche71an,Erwins Branche
+Apr 27,home,Hudson Valley,L,9-8,9,8,1,win,20240427_njuz,0,0,0,0,1.0,1,2,1,9.00,2.00,1,2024,2023-24,div3,Herkimer,herkimercollege,erwinsbranche71an,Erwins Branche
+May 4,home,SUNY Adirondack,W,7-6,7,6,1,win,20240504_75en,0,0,0,0,2.0,5,2,2,9.00,3.00,1,2024,2023-24,div3,Herkimer,herkimercollege,erwinsbranche71an,Erwins Branche
+May 17,home,Genesee,L,4-0,4,0,4,win,20240517_viu7,0,0,0,0,1.0,,,,0.00,,,2024,2023-24,div3,Herkimer,herkimercollege,erwinsbranche71an,Erwins Branche
+May 18,home,Genesee,W,12-3,12,3,9,win,20240518_4dlm,1,1,0,0,9.0,9,3,3,3.00,1.00,0,2024,2023-24,div3,Herkimer,herkimercollege,erwinsbranche71an,Erwins Branche

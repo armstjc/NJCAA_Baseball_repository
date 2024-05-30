@@ -1,31 +1,13 @@
 date,location,opponent,result,score,team_score,opp_score,game_score_diff,game_win_loss,game_id,GS,W,L,SV,IP,H,R,ER,ERA,BB,K,HR,season,njcaa_season,njcaa_division,team,team_id,player_id,player_name
-Apr 24,home,Northwest Mississippi,L,5-4,5,4,1,win,20240424_461t,1,0,1,0,5.0,9,4,4,7.20,2.20,2,5,2024,2023-24,div2,Itawamba,itawambacommunitycollege,tywicker4v2b,Ty Wicker
-Apr 19,home,Hinds,L,10-4,10,4,6,win,20240419_jh85,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div2,Itawamba,itawambacommunitycollege,tywicker4v2b,Ty Wicker
-Apr 19,home,Hinds,L,11-1,11,1,10,win,20240419_pymp,1,0,1,0,1.0,9,9,9,81.00,10.00,1,1,2024,2023-24,div2,Itawamba,itawambacommunitycollege,tywicker4v2b,Ty Wicker
-Apr 13,home,East Central (MS),W,9-6,9,6,3,win,20240413_6f0k,1,0,0,0,5.2,5,5,4,6.35,1.41,3,3,2024,2023-24,div2,Itawamba,itawambacommunitycollege,tywicker4v2b,Ty Wicker
-Apr 9,home,East Mississippi,W,2-1,2,1,1,win,20240409_v80f,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div2,Itawamba,itawambacommunitycollege,tywicker4v2b,Ty Wicker
-Apr 6,home,Copiah-Lincoln,L,5-4,5,4,1,win,20240406_z1or,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div2,Itawamba,itawambacommunitycollege,tywicker4v2b,Ty Wicker
-Apr 6,home,Copiah-Lincoln,L,4-3,4,3,1,win,20240406_n5a0,1,0,1,0,6.1,8,4,2,2.84,1.89,4,5,2024,2023-24,div2,Itawamba,itawambacommunitycollege,tywicker4v2b,Ty Wicker
-Mar 29,home,Southwest Mississippi,L,2-1,2,1,1,win,20240329_5gee,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div2,Itawamba,itawambacommunitycollege,tywicker4v2b,Ty Wicker
-Mar 29,home,Southwest Mississippi,L,7-4,7,4,3,win,20240329_k3qq,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div2,Itawamba,itawambacommunitycollege,tywicker4v2b,Ty Wicker
-Mar 27,home,Northeast Mississippi,L,5-4,5,4,1,win,20240327_hiw9,1,0,1,0,7.0,7,5,5,6.43,1.00,0,5,2024,2023-24,div2,Itawamba,itawambacommunitycollege,tywicker4v2b,Ty Wicker
-Mar 27,home,Northeast Mississippi,W,2-1,2,1,1,win,20240327_2d4n,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div2,Itawamba,itawambacommunitycollege,tywicker4v2b,Ty Wicker
-Mar 23,home,Pearl River,L,18-1,18,1,17,win,20240323_we3f,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div2,Itawamba,itawambacommunitycollege,tywicker4v2b,Ty Wicker
-Mar 23,home,Pearl River,L,13-3,13,3,10,win,20240323_ny88,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div2,Itawamba,itawambacommunitycollege,tywicker4v2b,Ty Wicker
-Mar 19,home,Coahoma,W,3-2,3,2,1,win,20240319_pem0,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div2,Itawamba,itawambacommunitycollege,tywicker4v2b,Ty Wicker
-Mar 19,home,Coahoma,W,7-1,7,1,6,win,20240319_fezo,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div2,Itawamba,itawambacommunitycollege,tywicker4v2b,Ty Wicker
-Mar 17,home,Mississippi Gulf Coast,L,5-2,5,2,3,win,20240317_t1yw,1,0,1,0,6.0,5,4,3,4.50,1.00,1,6,2024,2023-24,div2,Itawamba,itawambacommunitycollege,tywicker4v2b,Ty Wicker
-Mar 13,home,Holmes,W,16-6,16,6,10,win,20240313_rw99,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div2,Itawamba,itawambacommunitycollege,tywicker4v2b,Ty Wicker
-Mar 9,home,Meridian,L,9-2,9,2,7,win,20240309_jl6u,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div2,Itawamba,itawambacommunitycollege,tywicker4v2b,Ty Wicker
-Mar 9,home,Meridian,L,10-7,10,7,3,win,20240309_ti1m,1,0,1,0,3.1,6,5,5,13.50,3.60,6,2,2024,2023-24,div2,Itawamba,itawambacommunitycollege,tywicker4v2b,Ty Wicker
-Mar 7,home,Coahoma,W,6-2,6,2,4,win,20240307_226a,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div2,Itawamba,itawambacommunitycollege,tywicker4v2b,Ty Wicker
-Mar 2,home,Northwest-Shoals Community College,W,2-1,2,1,1,win,20240302_424k,1,1,0,0,7.0,6,1,1,1.29,.86,0,4,2024,2023-24,div2,Itawamba,itawambacommunitycollege,tywicker4v2b,Ty Wicker
-Feb 27,home,Northeast Mississippi,L,15-6,15,6,9,win,20240227_2pva,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div2,Itawamba,itawambacommunitycollege,tywicker4v2b,Ty Wicker
-Feb 24,home,Snead State,L,6-5,6,5,1,win,20240224_yw1d,1,0,1,0,4.2,3,5,2,3.86,1.50,4,4,2024,2023-24,div2,Itawamba,itawambacommunitycollege,tywicker4v2b,Ty Wicker
-Feb 20,home,Pearl River,L,6-1,6,1,5,win,20240220_ikmg,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div2,Itawamba,itawambacommunitycollege,tywicker4v2b,Ty Wicker
-Feb 20,home,Holmes,L,3-1,3,1,2,win,20240220_jr8e,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div2,Itawamba,itawambacommunitycollege,tywicker4v2b,Ty Wicker
-Feb 16,home,John Wood,W,14-4,14,4,10,win,20240216_hitt,1,0,0,0,3.0,4,3,3,9.00,1.67,1,4,2024,2023-24,div2,Itawamba,itawambacommunitycollege,tywicker4v2b,Ty Wicker
-Feb 14,home,Calhoun,L,8-6,8,6,2,win,20240214_nibd,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div2,Itawamba,itawambacommunitycollege,tywicker4v2b,Ty Wicker
-Feb 8,home,Calhoun,L,9-8,9,8,1,win,20240208_hq1p,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div2,Itawamba,itawambacommunitycollege,tywicker4v2b,Ty Wicker
-Feb 8,home,Calhoun,W,5-4,5,4,1,win,20240208_7a1b,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div2,Itawamba,itawambacommunitycollege,tywicker4v2b,Ty Wicker
-Jan 31,home,Bevill State,L,6-1,6,1,5,win,20240131_1qm7,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div2,Itawamba,itawambacommunitycollege,tywicker4v2b,Ty Wicker
+Apr 29,home,Western Oklahoma State,L,9-4,9,4,5,win,20240429_i70n,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div2,Itawamba,itawambacommunitycollege,tywicker4v2b,Ty Wicker
+Apr 16,home,DFW Post Grad,W,10-0,10,0,10,win,20240416_cj74,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div2,Itawamba,itawambacommunitycollege,tywicker4v2b,Ty Wicker
+Apr 16,home,DFW Post Grad,W,16-1,16,1,15,win,20240416_ophu,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div2,Itawamba,itawambacommunitycollege,tywicker4v2b,Ty Wicker
+Apr 8,home,Northwestern Oklahoma State University JV,W,5-4,5,4,1,win,20240408_g6ty,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div2,Itawamba,itawambacommunitycollege,tywicker4v2b,Ty Wicker
+Mar 26,home,Northeastern Oklahoma A&M,L,15-11,15,11,4,win,20240326_m1pc,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div2,Itawamba,itawambacommunitycollege,tywicker4v2b,Ty Wicker
+Mar 17,home,Allen County,L,7-6,7,6,1,win,20240317_ja90,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div2,Itawamba,itawambacommunitycollege,tywicker4v2b,Ty Wicker
+Mar 11,home,Northwestern Oklahoma State University JV,W,19-4,19,4,15,win,20240311_pblx,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div2,Itawamba,itawambacommunitycollege,tywicker4v2b,Ty Wicker
+Mar 11,home,Northwestern Oklahoma State University JV,W,12-8,12,8,4,win,20240311_29qk,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div2,Itawamba,itawambacommunitycollege,tywicker4v2b,Ty Wicker
+Mar 9,home,Redlands,W,14-11,14,11,3,win,20240309_dojw,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div2,Itawamba,itawambacommunitycollege,tywicker4v2b,Ty Wicker
+Mar 7,home,Redlands,W,11-1,11,1,10,win,20240307_jgia,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div2,Itawamba,itawambacommunitycollege,tywicker4v2b,Ty Wicker
+Mar 5,home,Hutchinson,W,12-7,12,7,5,win,20240305_sfwm,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div2,Itawamba,itawambacommunitycollege,tywicker4v2b,Ty Wicker
+Feb 18,home,East Central (MO),L,8-5,8,5,3,win,20240218_zfi4,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div2,Itawamba,itawambacommunitycollege,tywicker4v2b,Ty Wicker

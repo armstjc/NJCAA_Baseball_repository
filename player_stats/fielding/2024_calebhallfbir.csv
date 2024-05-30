@@ -1,19 +1,13 @@
 date,location,opponent,result,score,team_score,opp_score,game_score_diff,game_win_loss,game_id,TC,PO,A,E,FPCT,DP,SBA,RCS,RCS_PCT,PB,CI,season,njcaa_season,njcaa_division,team,team_id,player_id,player_name
-Feb 2,home,Wallace-Dothan,L,8-7,8,7,1,win,20240202_nswt,0,0,1,0,2.0,2,3,1,4.50,3.50,5,2024,2023-24,div2,Meridian,meridiancommunitycollege,calebhallfbir,Caleb Hall
-Feb 3,home,Miami Dade,W,13-6,13,6,7,win,20240203_g1a7,0,0,0,0,1.0,1,,,0.00,1.00,,2024,2023-24,div2,Meridian,meridiancommunitycollege,calebhallfbir,Caleb Hall
-Feb 9,home,Coahoma,W,16-3,16,3,13,win,20240209_vcho,0,0,0,0,1.0,2,3,3,27.00,4.00,2,2024,2023-24,div2,Meridian,meridiancommunitycollege,calebhallfbir,Caleb Hall
-Feb 14,home,Northwest Florida State,L,4-2,4,2,2,win,20240214_jlla,0,0,0,0,2.1,1,1,1,3.86,.86,1,2024,2023-24,div2,Meridian,meridiancommunitycollege,calebhallfbir,Caleb Hall
-Feb 20,home,Northeast Mississippi,L,4-2,4,2,2,win,20240220_k43f,0,0,0,0,2.0,2,,,0.00,1.00,,2024,2023-24,div2,Meridian,meridiancommunitycollege,calebhallfbir,Caleb Hall
-Feb 27,home,East Mississippi,W,10-7,10,7,3,win,20240227_ik8w,1,1,0,0,4.0,5,5,4,9.00,1.50,1,2024,2023-24,div2,Meridian,meridiancommunitycollege,calebhallfbir,Caleb Hall
-Mar 2,home,Lansing,W,5-4,5,4,1,win,20240302_j5mj,0,1,0,0,1.0,,,,0.00,1.00,1,2024,2023-24,div2,Meridian,meridiancommunitycollege,calebhallfbir,Caleb Hall
-Mar 6,home,Hinds,W,10-1,10,1,9,win,20240306_it31,0,1,0,0,6.0,7,1,1,1.50,1.33,1,2024,2023-24,div2,Meridian,meridiancommunitycollege,calebhallfbir,Caleb Hall
-Mar 9,home,Itawamba,W,9-2,9,2,7,win,20240309_jl6u,0,1,0,0,2.0,1,,,0.00,.50,,2024,2023-24,div2,Meridian,meridiancommunitycollege,calebhallfbir,Caleb Hall
-Mar 13,home,East Central (MS),L,7-5,7,5,2,win,20240313_3c6s,0,0,1,0,2.2,5,5,4,13.50,2.25,1,2024,2023-24,div2,Meridian,meridiancommunitycollege,calebhallfbir,Caleb Hall
-Mar 19,home,Pearl River,L,14-2,14,2,12,win,20240319_hocu,1,0,1,0,3.2,8,6,5,12.27,2.45,1,2024,2023-24,div2,Meridian,meridiancommunitycollege,calebhallfbir,Caleb Hall
-Mar 27,home,Southwest Mississippi,W,5-1,5,1,4,win,20240327_ld58,0,1,0,0,7.2,7,1,1,1.17,1.04,1,2024,2023-24,div2,Meridian,meridiancommunitycollege,calebhallfbir,Caleb Hall
-Apr 3,home,Hinds,W,22-14,22,14,8,win,20240403_qoj2,0,1,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Meridian,meridiancommunitycollege,calebhallfbir,Caleb Hall
-Apr 9,home,Copiah-Lincoln,L,6-5,6,5,1,win,20240409_mjx5,0,0,0,0,7.0,10,4,3,3.86,1.71,2,2024,2023-24,div2,Meridian,meridiancommunitycollege,calebhallfbir,Caleb Hall
-Apr 17,home,Jones,W,8-7,8,7,1,win,20240417_651k,1,0,0,0,5.0,11,4,4,7.20,2.20,0,2024,2023-24,div2,Meridian,meridiancommunitycollege,calebhallfbir,Caleb Hall
-Apr 24,home,Mississippi Gulf Coast,W,12-1,12,1,11,win,20240424_ho17,0,1,0,0,7.0,5,1,1,1.29,1.14,3,2024,2023-24,div2,Meridian,meridiancommunitycollege,calebhallfbir,Caleb Hall
-May 5,home,Copiah-Lincoln,W,15-8,15,8,7,win,20240505_hffd,0,1,0,0,6.0,10,6,4,6.00,2.00,2,2024,2023-24,div2,Meridian,meridiancommunitycollege,calebhallfbir,Caleb Hall
-May 15,home,Jones,L,8-0,8,0,8,win,20240515_t8g5,1,0,1,0,2.0,4,4,4,18.00,3.50,3,2024,2023-24,div2,Meridian,meridiancommunitycollege,calebhallfbir,Caleb Hall
+Feb 18,home,East Central (MO),L,8-5,8,5,3,win,20240218_zfi4,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Meridian,meridiancommunitycollege,calebhallfbir,Caleb Hall
+Mar 5,home,Hutchinson,W,12-7,12,7,5,win,20240305_sfwm,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Meridian,meridiancommunitycollege,calebhallfbir,Caleb Hall
+Mar 7,home,Redlands,W,11-1,11,1,10,win,20240307_jgia,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Meridian,meridiancommunitycollege,calebhallfbir,Caleb Hall
+Mar 9,home,Redlands,W,14-11,14,11,3,win,20240309_dojw,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Meridian,meridiancommunitycollege,calebhallfbir,Caleb Hall
+Mar 11,home,Northwestern Oklahoma State University JV,W,12-8,12,8,4,win,20240311_29qk,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Meridian,meridiancommunitycollege,calebhallfbir,Caleb Hall
+Mar 11,home,Northwestern Oklahoma State University JV,W,19-4,19,4,15,win,20240311_pblx,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Meridian,meridiancommunitycollege,calebhallfbir,Caleb Hall
+Mar 17,home,Allen County,L,7-6,7,6,1,win,20240317_ja90,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Meridian,meridiancommunitycollege,calebhallfbir,Caleb Hall
+Mar 26,home,Northeastern Oklahoma A&M,L,15-11,15,11,4,win,20240326_m1pc,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Meridian,meridiancommunitycollege,calebhallfbir,Caleb Hall
+Apr 8,home,Northwestern Oklahoma State University JV,W,5-4,5,4,1,win,20240408_g6ty,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Meridian,meridiancommunitycollege,calebhallfbir,Caleb Hall
+Apr 16,home,DFW Post Grad,W,16-1,16,1,15,win,20240416_ophu,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Meridian,meridiancommunitycollege,calebhallfbir,Caleb Hall
+Apr 16,home,DFW Post Grad,W,10-0,10,0,10,win,20240416_cj74,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Meridian,meridiancommunitycollege,calebhallfbir,Caleb Hall
+Apr 29,home,Western Oklahoma State,L,9-4,9,4,5,win,20240429_i70n,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Meridian,meridiancommunitycollege,calebhallfbir,Caleb Hall

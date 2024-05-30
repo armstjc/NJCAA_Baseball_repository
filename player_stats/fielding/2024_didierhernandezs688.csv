@@ -1,36 +1,44 @@
 date,location,opponent,result,score,team_score,opp_score,game_score_diff,game_win_loss,game_id,TC,PO,A,E,FPCT,DP,SBA,RCS,RCS_PCT,PB,CI,season,njcaa_season,njcaa_division,team,team_id,player_id,player_name
-Mar 4,home,Marian-Ancilla,L,15-8,15,8,7,win,20240304_kiln,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div3,Monroe College - Bronx,monroecollegebronx,didierhernandezs688,Didier Hernandez
-Mar 4,home,Marian-Ancilla,L,9-8,9,8,1,win,20240304_emsc,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div3,Monroe College - Bronx,monroecollegebronx,didierhernandezs688,Didier Hernandez
-Mar 5,home,Minnesota North College - Mesabi Range,W,21-3,21,3,18,win,20240305_g07o,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div3,Monroe College - Bronx,monroecollegebronx,didierhernandezs688,Didier Hernandez
-Mar 5,home,North Dakota SCS,W,11-4,11,4,7,win,20240305_9k3j,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div3,Monroe College - Bronx,monroecollegebronx,didierhernandezs688,Didier Hernandez
-Mar 7,home,Lake Region State,W,22-4,22,4,18,win,20240307_xsmy,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div3,Monroe College - Bronx,monroecollegebronx,didierhernandezs688,Didier Hernandez
-Mar 7,home,Lake Region State,W,12-2,12,2,10,win,20240307_wogc,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div3,Monroe College - Bronx,monroecollegebronx,didierhernandezs688,Didier Hernandez
-Mar 8,home,Owens,L,11-3,11,3,8,win,20240308_1y82,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div3,Monroe College - Bronx,monroecollegebronx,didierhernandezs688,Didier Hernandez
-Mar 8,home,Kalamazoo Valley,L,13-12,13,12,1,win,20240308_l43g,0,0,0,0,2.0,,,,0.00,.50,1,2024,2023-24,div3,Monroe College - Bronx,monroecollegebronx,didierhernandezs688,Didier Hernandez
-Mar 29,home,Alexandria Tech,L,11-1,11,1,10,win,20240329_8n0o,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div3,Monroe College - Bronx,monroecollegebronx,didierhernandezs688,Didier Hernandez
-Mar 29,home,Alexandria Tech,L,4-3,4,3,1,win,20240329_py7n,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div3,Monroe College - Bronx,monroecollegebronx,didierhernandezs688,Didier Hernandez
-Mar 30,home,Alexandria Tech,L,10-7,10,7,3,win,20240330_d6ps,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div3,Monroe College - Bronx,monroecollegebronx,didierhernandezs688,Didier Hernandez
-Mar 30,home,Alexandria Tech,L,10-4,10,4,6,win,20240330_u489,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div3,Monroe College - Bronx,monroecollegebronx,didierhernandezs688,Didier Hernandez
-Apr 6,home,Anoka-Ramsey,W,19-4,19,4,15,win,20240406_b435,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div3,Monroe College - Bronx,monroecollegebronx,didierhernandezs688,Didier Hernandez
-Apr 6,home,Anoka-Ramsey,W,6-5,6,5,1,win,20240406_9hw9,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div3,Monroe College - Bronx,monroecollegebronx,didierhernandezs688,Didier Hernandez
-Apr 10,home,Anoka-Ramsey,W,5-4,5,4,1,win,20240410_rcpr,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div3,Monroe College - Bronx,monroecollegebronx,didierhernandezs688,Didier Hernandez
-Apr 10,home,Anoka-Ramsey,W,6-4,6,4,2,win,20240410_jzy2,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div3,Monroe College - Bronx,monroecollegebronx,didierhernandezs688,Didier Hernandez
-Apr 13,home,St. Cloud Tech,W,15-5,15,5,10,win,20240413_fcda,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div3,Monroe College - Bronx,monroecollegebronx,didierhernandezs688,Didier Hernandez
-Apr 13,home,St. Cloud Tech,L,13-4,13,4,9,win,20240413_1d03,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div3,Monroe College - Bronx,monroecollegebronx,didierhernandezs688,Didier Hernandez
-Apr 14,home,St. Cloud Tech,L,7-5,7,5,2,win,20240414_jdak,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div3,Monroe College - Bronx,monroecollegebronx,didierhernandezs688,Didier Hernandez
-Apr 14,home,St. Cloud Tech,L,5-3,5,3,2,win,20240414_rdlg,0,0,1,0,1.2,4,3,3,16.20,2.40,,2024,2023-24,div3,Monroe College - Bronx,monroecollegebronx,didierhernandezs688,Didier Hernandez
-Apr 20,home,Minnesota State,W,7-0,7,0,7,win,20240420_zzlx,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div3,Monroe College - Bronx,monroecollegebronx,didierhernandezs688,Didier Hernandez
-Apr 20,home,Minnesota State,W,4-2,4,2,2,win,20240420_5yyd,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div3,Monroe College - Bronx,monroecollegebronx,didierhernandezs688,Didier Hernandez
-Apr 21,home,Minnesota State,L,12-11,12,11,1,win,20240421_9oak,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div3,Monroe College - Bronx,monroecollegebronx,didierhernandezs688,Didier Hernandez
-Apr 21,home,Minnesota State,W,11-9,11,9,2,win,20240421_qshn,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div3,Monroe College - Bronx,monroecollegebronx,didierhernandezs688,Didier Hernandez
-May 1,home,Alexandria Tech,L,11-10,11,10,1,win,20240501_tazs,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div3,Monroe College - Bronx,monroecollegebronx,didierhernandezs688,Didier Hernandez
-May 1,home,Alexandria Tech,L,4-2,4,2,2,win,20240501_tbmz,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div3,Monroe College - Bronx,monroecollegebronx,didierhernandezs688,Didier Hernandez
-May 3,home,Central Lakes,W,8-4,8,4,4,win,20240503_frv1,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div3,Monroe College - Bronx,monroecollegebronx,didierhernandezs688,Didier Hernandez
-May 3,home,Central Lakes,W,11-1,11,1,10,win,20240503_71iv,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div3,Monroe College - Bronx,monroecollegebronx,didierhernandezs688,Didier Hernandez
-May 4,home,Central Lakes,W,16-1,16,1,15,win,20240504_0z07,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div3,Monroe College - Bronx,monroecollegebronx,didierhernandezs688,Didier Hernandez
-May 4,home,Central Lakes,W,15-3,15,3,12,win,20240504_7u2w,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div3,Monroe College - Bronx,monroecollegebronx,didierhernandezs688,Didier Hernandez
-May 5,home,Alexandria Tech,L,16-2,16,2,14,win,20240505_0sxf,1,0,1,0,3.0,7,6,3,9.00,2.67,1,2024,2023-24,div3,Monroe College - Bronx,monroecollegebronx,didierhernandezs688,Didier Hernandez
-May 5,home,Alexandria Tech,L,16-2,16,2,14,win,20240505_fpeh,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div3,Monroe College - Bronx,monroecollegebronx,didierhernandezs688,Didier Hernandez
-May 9,home,Minnesota North College - Hibbing,W,8-2,8,2,6,win,20240509_91j2,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div3,Monroe College - Bronx,monroecollegebronx,didierhernandezs688,Didier Hernandez
-May 9,home,Rochester,L,9-1,9,1,8,win,20240509_osnx,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div3,Monroe College - Bronx,monroecollegebronx,didierhernandezs688,Didier Hernandez
-May 10,home,Riverland,L,12-2,12,2,10,win,20240510_qlwv,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div3,Monroe College - Bronx,monroecollegebronx,didierhernandezs688,Didier Hernandez
+Feb 17,home,Owens,L,9-4,9,4,5,win,20240217_1l9w,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div3,Monroe College - Bronx,monroecollegebronx,didierhernandezs688,Didier Hernandez
+Feb 17,home,Virginia Peninsula CC,L,13-6,13,6,7,win,20240217_9hn5,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div3,Monroe College - Bronx,monroecollegebronx,didierhernandezs688,Didier Hernandez
+Feb 18,home,Virginia Peninsula CC,L,15-1,15,1,14,win,20240218_btie,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div3,Monroe College - Bronx,monroecollegebronx,didierhernandezs688,Didier Hernandez
+Feb 18,home,Virginia Peninsula CC,L,6-5,6,5,1,win,20240218_erd0,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div3,Monroe College - Bronx,monroecollegebronx,didierhernandezs688,Didier Hernandez
+Feb 24,home,Delaware Tech,L,5-0,5,0,5,win,20240224_b36j,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div3,Monroe College - Bronx,monroecollegebronx,didierhernandezs688,Didier Hernandez
+Mar 8,home,Montgomery,L,12-0,12,0,12,win,20240308_fldg,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div3,Monroe College - Bronx,monroecollegebronx,didierhernandezs688,Didier Hernandez
+Mar 15,home,Lackawanna,L,29-0,29,0,29,win,20240315_6hq8,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div3,Monroe College - Bronx,monroecollegebronx,didierhernandezs688,Didier Hernandez
+Mar 17,home,Middlesex College,L,21-8,21,8,13,win,20240317_x9r5,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div3,Monroe College - Bronx,monroecollegebronx,didierhernandezs688,Didier Hernandez
+Mar 17,home,Middlesex College,W,13-9,13,9,4,win,20240317_soov,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div3,Monroe College - Bronx,monroecollegebronx,didierhernandezs688,Didier Hernandez
+Mar 19,home,Borough of Manhattan,W,17-1,17,1,16,win,20240319_9qvq,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div3,Monroe College - Bronx,monroecollegebronx,didierhernandezs688,Didier Hernandez
+Mar 21,home,Rockland,W,13-10,13,10,3,win,20240321_2f1b,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div3,Monroe College - Bronx,monroecollegebronx,didierhernandezs688,Didier Hernandez
+Mar 22,home,Borough of Manhattan,W,19-2,19,2,17,win,20240322_qfy6,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div3,Monroe College - Bronx,monroecollegebronx,didierhernandezs688,Didier Hernandez
+Mar 25,home,Orange County,L,13-7,13,7,6,win,20240325_9tip,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div3,Monroe College - Bronx,monroecollegebronx,didierhernandezs688,Didier Hernandez
+Mar 26,home,Nassau,W,9-3,9,3,6,win,20240326_b03g,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div3,Monroe College - Bronx,monroecollegebronx,didierhernandezs688,Didier Hernandez
+Mar 30,home,Nassau,W,11-0,11,0,11,win,20240330_pa0p,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div3,Monroe College - Bronx,monroecollegebronx,didierhernandezs688,Didier Hernandez
+Mar 30,home,Nassau,L,7-6,7,6,1,win,20240330_o9qp,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div3,Monroe College - Bronx,monroecollegebronx,didierhernandezs688,Didier Hernandez
+Apr 1,home,Rockland,L,15-5,15,5,10,win,20240401_fxat,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div3,Monroe College - Bronx,monroecollegebronx,didierhernandezs688,Didier Hernandez
+Apr 5,home,Westchester,L,26-6,26,6,20,win,20240405_u3em,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div3,Monroe College - Bronx,monroecollegebronx,didierhernandezs688,Didier Hernandez
+Apr 7,home,Borough of Manhattan,W,18-1,18,1,17,win,20240407_5xlf,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div3,Monroe College - Bronx,monroecollegebronx,didierhernandezs688,Didier Hernandez
+Apr 7,home,Borough of Manhattan,W,12-2,12,2,10,win,20240407_8n1f,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div3,Monroe College - Bronx,monroecollegebronx,didierhernandezs688,Didier Hernandez
+Apr 9,home,Suffolk County,W,12-1,12,1,11,win,20240409_sx2m,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div3,Monroe College - Bronx,monroecollegebronx,didierhernandezs688,Didier Hernandez
+Apr 10,home,Nassau,W,10-9,10,9,1,win,20240410_q60k,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div3,Monroe College - Bronx,monroecollegebronx,didierhernandezs688,Didier Hernandez
+Apr 12,home,Suffolk County,L,7-0,7,0,7,win,20240412_ehgw,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div3,Monroe College - Bronx,monroecollegebronx,didierhernandezs688,Didier Hernandez
+Apr 13,home,Suffolk County,L,4-3,4,3,1,win,20240413_kahd,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div3,Monroe College - Bronx,monroecollegebronx,didierhernandezs688,Didier Hernandez
+Apr 13,home,Suffolk County,L,13-2,13,2,11,win,20240413_xe05,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div3,Monroe College - Bronx,monroecollegebronx,didierhernandezs688,Didier Hernandez
+Apr 16,home,Kingsborough,W,11-7,11,7,4,win,20240416_6hr5,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div3,Monroe College - Bronx,monroecollegebronx,didierhernandezs688,Didier Hernandez
+Apr 19,home,Kingsborough,L,11-4,11,4,7,win,20240419_8x8g,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div3,Monroe College - Bronx,monroecollegebronx,didierhernandezs688,Didier Hernandez
+Apr 20,home,Kingsborough,W,12-7,12,7,5,win,20240420_bzjh,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div3,Monroe College - Bronx,monroecollegebronx,didierhernandezs688,Didier Hernandez
+Apr 20,home,Kingsborough,W,5-1,5,1,4,win,20240420_7m02,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div3,Monroe College - Bronx,monroecollegebronx,didierhernandezs688,Didier Hernandez
+Apr 22,home,Rockland,W,14-5,14,5,9,win,20240422_dbdj,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div3,Monroe College - Bronx,monroecollegebronx,didierhernandezs688,Didier Hernandez
+Apr 23,home,Bronx,W,32-0,32,0,32,win,20240423_7kxc,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div3,Monroe College - Bronx,monroecollegebronx,didierhernandezs688,Didier Hernandez
+Apr 24,home,Sussex County,L,11-1,11,1,10,win,20240424_q54v,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div3,Monroe College - Bronx,monroecollegebronx,didierhernandezs688,Didier Hernandez
+Apr 26,home,Bronx,W,12-2,12,2,10,win,20240426_05zy,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div3,Monroe College - Bronx,monroecollegebronx,didierhernandezs688,Didier Hernandez
+Apr 27,home,Bronx,W,17-8,17,8,9,win,20240427_kync,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div3,Monroe College - Bronx,monroecollegebronx,didierhernandezs688,Didier Hernandez
+Apr 27,home,Bronx,W,15-6,15,6,9,win,20240427_p907,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div3,Monroe College - Bronx,monroecollegebronx,didierhernandezs688,Didier Hernandez
+Apr 30,home,Queensborough,W,8-1,8,1,7,win,20240430_gizv,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div3,Monroe College - Bronx,monroecollegebronx,didierhernandezs688,Didier Hernandez
+May 3,home,Queensborough,W,13-3,13,3,10,win,20240503_ujwg,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div3,Monroe College - Bronx,monroecollegebronx,didierhernandezs688,Didier Hernandez
+May 4,home,Queensborough,W,16-4,16,4,12,win,20240504_a2ut,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div3,Monroe College - Bronx,monroecollegebronx,didierhernandezs688,Didier Hernandez
+May 4,home,Queensborough,L,6-4,6,4,2,win,20240504_c040,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div3,Monroe College - Bronx,monroecollegebronx,didierhernandezs688,Didier Hernandez
+May 9,home,Nassau,W,6-2,6,2,4,win,20240509_9w2c,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div3,Monroe College - Bronx,monroecollegebronx,didierhernandezs688,Didier Hernandez
+May 11,home,Kingsborough,L,17-2,17,2,15,win,20240511_jygz,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div3,Monroe College - Bronx,monroecollegebronx,didierhernandezs688,Didier Hernandez
+May 11,home,Suffolk County,W,12-11,12,11,1,win,20240511_0tsh,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div3,Monroe College - Bronx,monroecollegebronx,didierhernandezs688,Didier Hernandez
+May 12,home,Kingsborough,L,12-1,12,1,11,win,20240512_1dul,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div3,Monroe College - Bronx,monroecollegebronx,didierhernandezs688,Didier Hernandez

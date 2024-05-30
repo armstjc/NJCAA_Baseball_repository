@@ -1,15 +1,24 @@
 date,location,opponent,result,score,team_score,opp_score,game_score_diff,game_win_loss,game_id,AB,R,H,2B,3B,HR,RBI,BB,K,SB,CS,HBP,SF,SH,TB,XBH,HDP,GO,FO,GO/FO,PA,season,njcaa_season,njcaa_division,team,team_id,player_id,player_name
-Mar 3,home,Miles,W,14-7,14,7,7,win,20240303_s2u7,1,2,0,,,,2,3,,,,,1,,0,0,,,,,5,2024,2023-24,div3,RCSJ Cumberland,rowancollegeofsouthjerseycumberland,christianrinickcao6,Christian Rinick
-Mar 15,home,Rochester,W,10-0,10,0,10,win,20240315_5lk4,4,2,2,1,,1,1,,1,,,,,,6,2,,1,,,4,2024,2023-24,div3,RCSJ Cumberland,rowancollegeofsouthjerseycumberland,christianrinickcao6,Christian Rinick
-Mar 15,home,Rochester,W,5-3,5,3,2,win,20240315_x6sl,3,1,1,,,,0,1,1,,,,,,1,0,,,,,4,2024,2023-24,div3,RCSJ Cumberland,rowancollegeofsouthjerseycumberland,christianrinickcao6,Christian Rinick
-Mar 30,home,Minnesota State,W,9-2,9,2,7,win,20240330_j5kx,3,2,2,,,,1,1,,1,,,,,2,0,,,,,4,2024,2023-24,div3,RCSJ Cumberland,rowancollegeofsouthjerseycumberland,christianrinickcao6,Christian Rinick
-Mar 30,home,Minnesota State,W,16-5,16,5,11,win,20240330_i83p,5,2,4,,,,0,,,1,,,,,4,0,,,,,5,2024,2023-24,div3,RCSJ Cumberland,rowancollegeofsouthjerseycumberland,christianrinickcao6,Christian Rinick
-Apr 5,home,Minnesota Post Grad,W,5-1,5,1,4,win,20240405_4lhi,3,0,2,,,,1,1,1,1,,,,,2,0,,,,,4,2024,2023-24,div3,RCSJ Cumberland,rowancollegeofsouthjerseycumberland,christianrinickcao6,Christian Rinick
-Apr 5,home,Minnesota Post Grad,W,10-9,10,9,1,win,20240405_r4ek,5,3,3,1,,,3,,,3,,,,,4,1,,,,,5,2024,2023-24,div3,RCSJ Cumberland,rowancollegeofsouthjerseycumberland,christianrinickcao6,Christian Rinick
-Apr 6,home,Minnesota Post Grad,W,7-4,7,4,3,win,20240406_7v75,2,2,1,,,,0,2,1,,,,,,1,0,,,,,4,2024,2023-24,div3,RCSJ Cumberland,rowancollegeofsouthjerseycumberland,christianrinickcao6,Christian Rinick
-Apr 6,home,Minnesota Post Grad,W,8-7,8,7,1,win,20240406_qfyk,5,2,3,1,,,3,,2,1,,,,,4,1,,,,,5,2024,2023-24,div3,RCSJ Cumberland,rowancollegeofsouthjerseycumberland,christianrinickcao6,Christian Rinick
-Apr 14,home,Century,W,11-5,11,5,6,win,20240414_wp5o,5,2,2,0,0,0,1,0,2,0,0,0,0,0,2,0,,0,,,5,2024,2023-24,div3,RCSJ Cumberland,rowancollegeofsouthjerseycumberland,christianrinickcao6,Christian Rinick
-Apr 20,home,Western Tech,W,6-3,6,3,3,win,20240420_luev,3,2,2,1,,1,2,,,,,,,,6,2,,,,,3,2024,2023-24,div3,RCSJ Cumberland,rowancollegeofsouthjerseycumberland,christianrinickcao6,Christian Rinick
-Apr 21,home,Western Tech,W,11-4,11,4,7,win,20240421_br2w,5,3,3,1,,,2,,,2,,,,,4,1,,2,,,5,2024,2023-24,div3,RCSJ Cumberland,rowancollegeofsouthjerseycumberland,christianrinickcao6,Christian Rinick
-Apr 27,home,Riverland,W,4-2,4,2,2,win,20240427_t46l,4,0,2,,,,0,,,,,,,,2,0,,,,,4,2024,2023-24,div3,RCSJ Cumberland,rowancollegeofsouthjerseycumberland,christianrinickcao6,Christian Rinick
-May 3,home,Rochester,W,7-1,7,1,6,win,20240503_p9tk,5,2,0,,,,2,,,,,,,,0,0,,2,2,1.00,5,2024,2023-24,div3,RCSJ Cumberland,rowancollegeofsouthjerseycumberland,christianrinickcao6,Christian Rinick
+Feb 24,home,SUNY Adirondack,W,9-6,9,6,3,win,20240224_smm6,4,1,1,,,,0,,,,,,,,1,0,,2,,,4,2024,2023-24,div3,RCSJ Cumberland,rowancollegeofsouthjerseycumberland,christianrinickcao6,Christian Rinick
+Feb 25,home,SUNY Adirondack,W,1-0,1,0,1,win,20240225_2t65,3,1,1,1,,,0,1,,1,,,,,2,1,,1,1,1.00,4,2024,2023-24,div3,RCSJ Cumberland,rowancollegeofsouthjerseycumberland,christianrinickcao6,Christian Rinick
+Feb 25,home,SUNY Adirondack,W,9-0,9,0,9,win,20240225_1nyh,4,0,1,,,,1,,,,,,,,1,0,,2,1,2.00,4,2024,2023-24,div3,RCSJ Cumberland,rowancollegeofsouthjerseycumberland,christianrinickcao6,Christian Rinick
+Mar 1,home,Bergen,W,7-2,7,2,5,win,20240301_nd7b,4,3,1,,,,0,1,1,1,,,,,1,0,,,,,5,2024,2023-24,div3,RCSJ Cumberland,rowancollegeofsouthjerseycumberland,christianrinickcao6,Christian Rinick
+Mar 4,home,Bergen,W,3-1,3,1,2,win,20240304_pwzl,4,0,1,,,,0,,1,,,,,,1,0,,,1,,4,2024,2023-24,div3,RCSJ Cumberland,rowancollegeofsouthjerseycumberland,christianrinickcao6,Christian Rinick
+Mar 4,home,Bergen,W,16-13,16,13,3,win,20240304_crxb,6,0,1,,,,3,,,,,,,,1,0,,3,1,3.00,6,2024,2023-24,div3,RCSJ Cumberland,rowancollegeofsouthjerseycumberland,christianrinickcao6,Christian Rinick
+Mar 11,home,Minnesota North College - Itasca,W,10-2,10,2,8,win,20240311_q08t,2,1,2,,,,0,2,,,,,,,2,0,,,,,4,2024,2023-24,div3,RCSJ Cumberland,rowancollegeofsouthjerseycumberland,christianrinickcao6,Christian Rinick
+Mar 13,home,Mt. Aloysius College,W,14-0,14,0,14,win,20240313_y5m4,4,2,1,1,,,1,2,,1,,,,,2,1,,,,,6,2024,2023-24,div3,RCSJ Cumberland,rowancollegeofsouthjerseycumberland,christianrinickcao6,Christian Rinick
+Mar 24,home,Middlesex College,W,17-0,17,0,17,win,20240324_t6xk,6,3,3,,,,1,,1,,,,,,3,0,,,,,6,2024,2023-24,div3,RCSJ Cumberland,rowancollegeofsouthjerseycumberland,christianrinickcao6,Christian Rinick
+Mar 29,home,Union,W,15-4,15,4,11,win,20240329_72yc,3,2,1,1,,,1,1,,1,,,1,,2,1,,,,,5,2024,2023-24,div3,RCSJ Cumberland,rowancollegeofsouthjerseycumberland,christianrinickcao6,Christian Rinick
+Mar 30,home,Union,W,6-1,6,1,5,win,20240330_kw1g,4,2,1,,,1,0,,,,,,,,4,1,,,,,4,2024,2023-24,div3,RCSJ Cumberland,rowancollegeofsouthjerseycumberland,christianrinickcao6,Christian Rinick
+Mar 30,home,Union,W,10-6,10,6,4,win,20240330_hyb5,3,2,2,,,,1,4,,2,,,,,2,0,,,,,7,2024,2023-24,div3,RCSJ Cumberland,rowancollegeofsouthjerseycumberland,christianrinickcao6,Christian Rinick
+Apr 5,home,Salem,W,9-4,9,4,5,win,20240405_8vvw,4,1,1,1,,,0,1,1,,,,,,2,1,,,,,5,2024,2023-24,div3,RCSJ Cumberland,rowancollegeofsouthjerseycumberland,christianrinickcao6,Christian Rinick
+Apr 6,home,Salem,W,25-7,25,7,18,win,20240406_ycw4,6,2,4,2,,,4,,2,,,,,,6,2,,,,,6,2024,2023-24,div3,RCSJ Cumberland,rowancollegeofsouthjerseycumberland,christianrinickcao6,Christian Rinick
+Apr 6,home,Salem,W,9-6,9,6,3,win,20240406_u3od,3,1,0,,,,0,,,,,1,,,0,0,,,,,4,2024,2023-24,div3,RCSJ Cumberland,rowancollegeofsouthjerseycumberland,christianrinickcao6,Christian Rinick
+Apr 16,home,Mercer County,W,12-8,12,8,4,win,20240416_sfal,4,2,3,1,,,2,,,,,1,,,4,1,,,,,5,2024,2023-24,div3,RCSJ Cumberland,rowancollegeofsouthjerseycumberland,christianrinickcao6,Christian Rinick
+Apr 23,home,Ocean County,W,10-0,10,0,10,win,20240423_zxy0,4,1,2,1,,,1,,,,,,,,3,1,,,,,4,2024,2023-24,div3,RCSJ Cumberland,rowancollegeofsouthjerseycumberland,christianrinickcao6,Christian Rinick
+Apr 26,home,Lehigh Carbon,W,14-11,14,11,3,win,20240426_lryq,6,2,2,1,,1,4,,,,,,,,6,2,,,,,6,2024,2023-24,div3,RCSJ Cumberland,rowancollegeofsouthjerseycumberland,christianrinickcao6,Christian Rinick
+Apr 27,home,Lehigh Carbon,W,6-5,6,5,1,win,20240427_bgqt,2,1,1,,,,1,1,,,,,1,,1,0,,,,,4,2024,2023-24,div3,RCSJ Cumberland,rowancollegeofsouthjerseycumberland,christianrinickcao6,Christian Rinick
+Apr 27,home,Lehigh Carbon,W,3-1,3,1,2,win,20240427_4urw,2,0,1,,,,0,1,,1,,,,,1,0,,,,,3,2024,2023-24,div3,RCSJ Cumberland,rowancollegeofsouthjerseycumberland,christianrinickcao6,Christian Rinick
+Apr 30,home,Ocean County,W,2-1,2,1,1,win,20240430_btr6,3,1,1,1,,,0,,1,,,,,,2,1,,,,,3,2024,2023-24,div3,RCSJ Cumberland,rowancollegeofsouthjerseycumberland,christianrinickcao6,Christian Rinick
+May 3,home,Camden County,W,4-2,4,2,2,win,20240503_53j7,2,2,1,,,,0,2,,1,,,,,1,0,,,,,4,2024,2023-24,div3,RCSJ Cumberland,rowancollegeofsouthjerseycumberland,christianrinickcao6,Christian Rinick
+May 4,home,Camden County,W,7-2,7,2,5,win,20240504_vwb5,2,0,1,,,,2,1,,,,,1,,1,0,,,,,4,2024,2023-24,div3,RCSJ Cumberland,rowancollegeofsouthjerseycumberland,christianrinickcao6,Christian Rinick

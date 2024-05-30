@@ -1,4 +1,40 @@
 date,location,opponent,result,score,team_score,opp_score,game_score_diff,game_win_loss,game_id,TC,PO,A,E,FPCT,DP,SBA,RCS,RCS_PCT,PB,CI,season,njcaa_season,njcaa_division,team,team_id,player_id,player_name
-Feb 25,home,RCSJ Gloucester,L,11-0,11,0,11,win,20240225_02h9,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div3,Waubonsee,waubonseecommunitycollege,austinstonelhb7,Austin Stone
-Apr 9,home,Northampton,L,8-0,8,0,8,win,20240409_7so9,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div3,Waubonsee,waubonseecommunitycollege,austinstonelhb7,Austin Stone
-May 7,home,Ocean County,W,7-5,7,5,2,win,20240507_3k3p,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div3,Waubonsee,waubonseecommunitycollege,austinstonelhb7,Austin Stone
+Mar 8,home,Rochester University,W,10-9,10,9,1,win,20240308_pb0c,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div3,Waubonsee,waubonseecommunitycollege,austinstonelhb7,Austin Stone
+Mar 9,home,Lakeland,W,11-1,11,1,10,win,20240309_k6jz,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div3,Waubonsee,waubonseecommunitycollege,austinstonelhb7,Austin Stone
+Mar 11,home,SUNY Niagara,L,7-2,7,2,5,win,20240311_7lvo,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div3,Waubonsee,waubonseecommunitycollege,austinstonelhb7,Austin Stone
+Mar 13,home,Webster (MO) University JV's,L,9-8,9,8,1,win,20240313_wt90,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div3,Waubonsee,waubonseecommunitycollege,austinstonelhb7,Austin Stone
+Mar 14,home,Minnesota State,W,13-2,13,2,11,win,20240314_cc1g,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div3,Waubonsee,waubonseecommunitycollege,austinstonelhb7,Austin Stone
+Mar 14,home,University of Minnesota- Morris JV,W,12-10,12,10,2,win,20240314_yznt,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div3,Waubonsee,waubonseecommunitycollege,austinstonelhb7,Austin Stone
+Mar 15,home,Delgado,L,11-2,11,2,9,win,20240315_12ss,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div3,Waubonsee,waubonseecommunitycollege,austinstonelhb7,Austin Stone
+Mar 15,home,Delgado,L,6-3,6,3,3,win,20240315_pnll,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div3,Waubonsee,waubonseecommunitycollege,austinstonelhb7,Austin Stone
+Mar 28,home,Kankakee,L,10-6,10,6,4,win,20240328_xebv,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div3,Waubonsee,waubonseecommunitycollege,austinstonelhb7,Austin Stone
+Mar 29,home,Harper,W,9-1,9,1,8,win,20240329_dm1z,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div3,Waubonsee,waubonseecommunitycollege,austinstonelhb7,Austin Stone
+Apr 5,home,Milwaukee Area Tech,L,5-3,5,3,2,win,20240405_uvmz,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div3,Waubonsee,waubonseecommunitycollege,austinstonelhb7,Austin Stone
+Apr 5,home,Milwaukee Area Tech,W,8-7,8,7,1,win,20240405_vp2p,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div3,Waubonsee,waubonseecommunitycollege,austinstonelhb7,Austin Stone
+Apr 6,home,Elgin,L,6-3,6,3,3,win,20240406_tqpr,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div3,Waubonsee,waubonseecommunitycollege,austinstonelhb7,Austin Stone
+Apr 6,home,Elgin,W,8-6,8,6,2,win,20240406_otot,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div3,Waubonsee,waubonseecommunitycollege,austinstonelhb7,Austin Stone
+Apr 9,home,Morton,L,7-3,7,3,4,win,20240409_amb6,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div3,Waubonsee,waubonseecommunitycollege,austinstonelhb7,Austin Stone
+Apr 9,home,Morton,L,10-4,10,4,6,win,20240409_mbio,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div3,Waubonsee,waubonseecommunitycollege,austinstonelhb7,Austin Stone
+Apr 11,home,Sauk Valley,L,7-5,7,5,2,win,20240411_b325,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div3,Waubonsee,waubonseecommunitycollege,austinstonelhb7,Austin Stone
+Apr 13,home,McHenry County,L,18-8,18,8,10,win,20240413_fzrd,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div3,Waubonsee,waubonseecommunitycollege,austinstonelhb7,Austin Stone
+Apr 14,home,DuPage,L,8-4,8,4,4,win,20240414_twml,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div3,Waubonsee,waubonseecommunitycollege,austinstonelhb7,Austin Stone
+Apr 14,home,DuPage,L,13-8,13,8,5,win,20240414_xc8p,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div3,Waubonsee,waubonseecommunitycollege,austinstonelhb7,Austin Stone
+Apr 16,home,Prairie State,W,9-8,9,8,1,win,20240416_p96p,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div3,Waubonsee,waubonseecommunitycollege,austinstonelhb7,Austin Stone
+Apr 19,home,Madison,L,16-3,16,3,13,win,20240419_fi7q,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div3,Waubonsee,waubonseecommunitycollege,austinstonelhb7,Austin Stone
+Apr 20,home,Oakton,W,7-3,7,3,4,win,20240420_r7np,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div3,Waubonsee,waubonseecommunitycollege,austinstonelhb7,Austin Stone
+Apr 21,home,Joliet,L,10-0,10,0,10,win,20240421_ty7e,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div3,Waubonsee,waubonseecommunitycollege,austinstonelhb7,Austin Stone
+Apr 21,home,Joliet,L,8-2,8,2,6,win,20240421_5efp,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div3,Waubonsee,waubonseecommunitycollege,austinstonelhb7,Austin Stone
+Apr 22,home,Prairie State,W,13-8,13,8,5,win,20240422_lmx4,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div3,Waubonsee,waubonseecommunitycollege,austinstonelhb7,Austin Stone
+Apr 23,home,Moraine Valley,L,7-1,7,1,6,win,20240423_9n44,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div3,Waubonsee,waubonseecommunitycollege,austinstonelhb7,Austin Stone
+Apr 23,home,Moraine Valley,W,9-4,9,4,5,win,20240423_syc0,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div3,Waubonsee,waubonseecommunitycollege,austinstonelhb7,Austin Stone
+Apr 25,home,South Suburban,L,17-7,17,7,10,win,20240425_l14e,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div3,Waubonsee,waubonseecommunitycollege,austinstonelhb7,Austin Stone
+Apr 27,home,Lake County,L,5-2,5,2,3,win,20240427_ghuq,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div3,Waubonsee,waubonseecommunitycollege,austinstonelhb7,Austin Stone
+Apr 27,home,Lake County,L,9-2,9,2,7,win,20240427_2570,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div3,Waubonsee,waubonseecommunitycollege,austinstonelhb7,Austin Stone
+May 1,home,Black Hawk,L,11-1,11,1,10,win,20240501_livn,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div3,Waubonsee,waubonseecommunitycollege,austinstonelhb7,Austin Stone
+May 2,home,Lake County,L,6-4,6,4,2,win,20240502_12xz,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div3,Waubonsee,waubonseecommunitycollege,austinstonelhb7,Austin Stone
+May 3,home,Triton,W,1-0,1,0,1,win,20240503_vtiv,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div3,Waubonsee,waubonseecommunitycollege,austinstonelhb7,Austin Stone
+May 4,home,McHenry County,L,11-8,11,8,3,win,20240504_wujb,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div3,Waubonsee,waubonseecommunitycollege,austinstonelhb7,Austin Stone
+May 4,home,McHenry County,L,11-3,11,3,8,win,20240504_wgcl,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div3,Waubonsee,waubonseecommunitycollege,austinstonelhb7,Austin Stone
+May 5,home,Sauk Valley,L,6-5,6,5,1,win,20240505_tstl,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div3,Waubonsee,waubonseecommunitycollege,austinstonelhb7,Austin Stone
+May 11,home,DuPage,L,8-0,8,0,8,win,20240511_2960,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div3,Waubonsee,waubonseecommunitycollege,austinstonelhb7,Austin Stone
+May 11,home,Oakton,L,6-4,6,4,2,win,20240511_g231,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div3,Waubonsee,waubonseecommunitycollege,austinstonelhb7,Austin Stone

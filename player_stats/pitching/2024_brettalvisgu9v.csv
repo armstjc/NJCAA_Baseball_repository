@@ -1,21 +1,13 @@
 date,location,opponent,result,score,team_score,opp_score,game_score_diff,game_win_loss,game_id,GS,W,L,SV,IP,H,R,ER,ERA,BB,K,HR,season,njcaa_season,njcaa_division,team,team_id,player_id,player_name
-May 10,home,Catawba Valley,L,13-3,13,3,10,win,20240510_ufk4,1,0,1,0,4.2,8,5,4,7.71,2.36,3,3,2024,2023-24,div2,Fayetteville Tech,fayettevilletechnicalcommunitycollege,brettalvisgu9v,Brett Alvis
-May 3,home,Brunswick,W,6-4,6,4,2,win,20240503_hqyj,1,1,0,0,5.1,5,4,4,6.75,1.31,2,3,2024,2023-24,div2,Fayetteville Tech,fayettevilletechnicalcommunitycollege,brettalvisgu9v,Brett Alvis
-Apr 27,home,Pitt,L,11-0,11,0,11,win,20240427_ore0,1,0,1,0,2.0,5,6,6,27.00,3.50,2,1,2024,2023-24,div2,Fayetteville Tech,fayettevilletechnicalcommunitycollege,brettalvisgu9v,Brett Alvis
-Apr 20,home,Richard Bland,W,7-2,7,2,5,win,20240420_tqiq,1,1,0,0,7.0,4,2,1,1.29,.57,0,11,2024,2023-24,div2,Fayetteville Tech,fayettevilletechnicalcommunitycollege,brettalvisgu9v,Brett Alvis
-Apr 17,home,Florence-Darlington Tech,L,11-2,11,2,9,win,20240417_8r68,1,0,1,0,1.0,3,2,2,18.00,4.00,1,0,2024,2023-24,div2,Fayetteville Tech,fayettevilletechnicalcommunitycollege,brettalvisgu9v,Brett Alvis
-Apr 13,home,Bryant & Stratton (VA),L,10-1,10,1,9,win,20240413_2tzi,1,0,1,0,5.1,3,4,4,6.75,.94,2,3,2024,2023-24,div2,Fayetteville Tech,fayettevilletechnicalcommunitycollege,brettalvisgu9v,Brett Alvis
-Apr 6,home,Lenoir,W,10-0,10,0,10,win,20240406_wdxw,1,1,0,0,5.1,3,0,0,0.00,1.31,4,7,2024,2023-24,div2,Fayetteville Tech,fayettevilletechnicalcommunitycollege,brettalvisgu9v,Brett Alvis
-Mar 30,home,Southeastern-Whiteville,W,11-10,11,10,1,win,20240330_aug6,1,0,0,0,2.0,3,2,2,9.00,3.00,3,1,2024,2023-24,div2,Fayetteville Tech,fayettevilletechnicalcommunitycollege,brettalvisgu9v,Brett Alvis
-Mar 23,home,Brunswick,L,5-4,5,4,1,win,20240323_b2vb,0,0,0,0,5.0,7,3,3,5.40,2.20,4,5,2024,2023-24,div2,Fayetteville Tech,fayettevilletechnicalcommunitycollege,brettalvisgu9v,Brett Alvis
-Mar 16,home,Pitt,L,8-0,8,0,8,win,20240316_z70a,0,0,0,0,5.2,1,3,3,4.76,.88,4,7,2024,2023-24,div2,Fayetteville Tech,fayettevilletechnicalcommunitycollege,brettalvisgu9v,Brett Alvis
-Mar 13,home,Camp,W,13-3,13,3,10,win,20240313_p3v5,0,0,0,0,1.0,0,0,0,0.00,.00,0,0,2024,2023-24,div2,Fayetteville Tech,fayettevilletechnicalcommunitycollege,brettalvisgu9v,Brett Alvis
-Mar 8,home,Richard Bland,L,7-4,7,4,3,win,20240308_db2v,0,0,1,0,1.0,4,3,3,27.00,4.00,0,1,2024,2023-24,div2,Fayetteville Tech,fayettevilletechnicalcommunitycollege,brettalvisgu9v,Brett Alvis
-Mar 5,home,Florence-Darlington Tech,L,12-2,12,2,10,win,20240305_vmpg,0,0,0,0,1.0,2,3,3,27.00,4.00,2,1,2024,2023-24,div2,Fayetteville Tech,fayettevilletechnicalcommunitycollege,brettalvisgu9v,Brett Alvis
-Mar 3,home,Bryant & Stratton (VA),L,7-3,7,3,4,win,20240303_u7jk,0,0,0,0,1.0,4,3,0,0.00,4.00,0,0,2024,2023-24,div2,Fayetteville Tech,fayettevilletechnicalcommunitycollege,brettalvisgu9v,Brett Alvis
-Feb 28,home,Wake Tech,W,7-4,7,4,3,win,20240228_ud2q,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div2,Fayetteville Tech,fayettevilletechnicalcommunitycollege,brettalvisgu9v,Brett Alvis
-Feb 24,home,Lenoir,L,14-2,14,2,12,win,20240224_ccfp,0,0,0,0,0.2,4,3,3,40.50,7.50,1,2,2024,2023-24,div2,Fayetteville Tech,fayettevilletechnicalcommunitycollege,brettalvisgu9v,Brett Alvis
-Feb 18,home,Southeastern-Whiteville,W,5-3,5,3,2,win,20240218_8b4w,0,1,0,0,5.0,4,0,0,0.00,.80,0,5,2024,2023-24,div2,Fayetteville Tech,fayettevilletechnicalcommunitycollege,brettalvisgu9v,Brett Alvis
-Feb 10,home,USC Lancaster,L,7-6,7,6,1,win,20240210_5td0,0,0,1,0,4.2,4,3,3,5.79,1.71,4,5,2024,2023-24,div2,Fayetteville Tech,fayettevilletechnicalcommunitycollege,brettalvisgu9v,Brett Alvis
-Feb 3,home,Guilford Tech,W,5-1,5,1,4,win,20240203_7cle,0,0,0,0,2.0,,,,0.00,,,4,2024,2023-24,div2,Fayetteville Tech,fayettevilletechnicalcommunitycollege,brettalvisgu9v,Brett Alvis
-Jan 31,home,Wake Tech,L,9-0,9,0,9,win,20240131_k056,0,0,0,0,1.0,,,,0.00,,,1,2024,2023-24,div2,Fayetteville Tech,fayettevilletechnicalcommunitycollege,brettalvisgu9v,Brett Alvis
+Apr 29,home,Western Oklahoma State,L,9-4,9,4,5,win,20240429_i70n,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div2,Fayetteville Tech,fayettevilletechnicalcommunitycollege,brettalvisgu9v,Brett Alvis
+Apr 16,home,DFW Post Grad,W,10-0,10,0,10,win,20240416_cj74,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div2,Fayetteville Tech,fayettevilletechnicalcommunitycollege,brettalvisgu9v,Brett Alvis
+Apr 16,home,DFW Post Grad,W,16-1,16,1,15,win,20240416_ophu,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div2,Fayetteville Tech,fayettevilletechnicalcommunitycollege,brettalvisgu9v,Brett Alvis
+Apr 8,home,Northwestern Oklahoma State University JV,W,5-4,5,4,1,win,20240408_g6ty,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div2,Fayetteville Tech,fayettevilletechnicalcommunitycollege,brettalvisgu9v,Brett Alvis
+Mar 26,home,Northeastern Oklahoma A&M,L,15-11,15,11,4,win,20240326_m1pc,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div2,Fayetteville Tech,fayettevilletechnicalcommunitycollege,brettalvisgu9v,Brett Alvis
+Mar 17,home,Allen County,L,7-6,7,6,1,win,20240317_ja90,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div2,Fayetteville Tech,fayettevilletechnicalcommunitycollege,brettalvisgu9v,Brett Alvis
+Mar 11,home,Northwestern Oklahoma State University JV,W,19-4,19,4,15,win,20240311_pblx,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div2,Fayetteville Tech,fayettevilletechnicalcommunitycollege,brettalvisgu9v,Brett Alvis
+Mar 11,home,Northwestern Oklahoma State University JV,W,12-8,12,8,4,win,20240311_29qk,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div2,Fayetteville Tech,fayettevilletechnicalcommunitycollege,brettalvisgu9v,Brett Alvis
+Mar 9,home,Redlands,W,14-11,14,11,3,win,20240309_dojw,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div2,Fayetteville Tech,fayettevilletechnicalcommunitycollege,brettalvisgu9v,Brett Alvis
+Mar 7,home,Redlands,W,11-1,11,1,10,win,20240307_jgia,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div2,Fayetteville Tech,fayettevilletechnicalcommunitycollege,brettalvisgu9v,Brett Alvis
+Mar 5,home,Hutchinson,W,12-7,12,7,5,win,20240305_sfwm,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div2,Fayetteville Tech,fayettevilletechnicalcommunitycollege,brettalvisgu9v,Brett Alvis
+Feb 18,home,East Central (MO),L,8-5,8,5,3,win,20240218_zfi4,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div2,Fayetteville Tech,fayettevilletechnicalcommunitycollege,brettalvisgu9v,Brett Alvis

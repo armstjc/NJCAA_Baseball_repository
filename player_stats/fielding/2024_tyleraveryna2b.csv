@@ -1,19 +1,12 @@
 date,location,opponent,result,score,team_score,opp_score,game_score_diff,game_win_loss,game_id,TC,PO,A,E,FPCT,DP,SBA,RCS,RCS_PCT,PB,CI,season,njcaa_season,njcaa_division,team,team_id,player_id,player_name
-Jan 26,home,Central Arizona,L,4-2,4,2,2,win,20240126_gkoy,1,0,1,0,3.0,5,2,2,6.00,2.33,2,2024,2023-24,div1,Southern Nevada,collegeofsouthernnevada,tyleraveryna2b,Tyler Avery
-Feb 3,home,Yavapai,W,18-0,18,0,18,win,20240203_py70,1,1,0,0,5.0,0,0,0,0.00,.20,1,2024,2023-24,div1,Southern Nevada,collegeofsouthernnevada,tyleraveryna2b,Tyler Avery
-Feb 9,home,South Mountain,W,4-3,4,3,1,win,20240209_71zi,1,0,0,0,5.2,4,3,1,1.59,1.24,3,2024,2023-24,div1,Southern Nevada,collegeofsouthernnevada,tyleraveryna2b,Tyler Avery
-Feb 17,home,Prairie Baseball Academy,W,4-2,4,2,2,win,20240217_luls,1,0,0,0,3.0,0,0,0,0.00,.33,1,2024,2023-24,div1,Southern Nevada,collegeofsouthernnevada,tyleraveryna2b,Tyler Avery
-Mar 1,home,Southern Idaho,W,6-3,6,3,3,win,20240301_1czr,1,1,0,0,3.1,4,3,3,8.10,2.70,5,2024,2023-24,div1,Southern Nevada,collegeofsouthernnevada,tyleraveryna2b,Tyler Avery
-Mar 8,home,Community Christian (CA),W,12-2,12,2,10,win,20240308_z0ak,1,1,0,0,3.0,1,0,0,0.00,1.00,2,2024,2023-24,div1,Southern Nevada,collegeofsouthernnevada,tyleraveryna2b,Tyler Avery
-Mar 17,home,Colorado Northwestern,W,9-3,9,3,6,win,20240317_rl28,1,1,0,0,4.0,2,2,0,0.00,.75,1,2024,2023-24,div1,Southern Nevada,collegeofsouthernnevada,tyleraveryna2b,Tyler Avery
-Mar 23,home,Utah State Eastern,W,10-0,10,0,10,win,20240323_49p4,1,1,0,0,6.0,2,0,0,0.00,.50,1,2024,2023-24,div1,Southern Nevada,collegeofsouthernnevada,tyleraveryna2b,Tyler Avery
-Mar 30,home,Salt Lake,W,9-7,9,7,2,win,20240330_cdfa,1,0,0,0,4.1,6,7,7,14.54,3.00,7,2024,2023-24,div1,Southern Nevada,collegeofsouthernnevada,tyleraveryna2b,Tyler Avery
-Apr 5,home,Southern Idaho,W,2-1,2,1,1,win,20240405_kksm,1,1,0,0,5.0,4,1,1,1.80,1.20,2,2024,2023-24,div1,Southern Nevada,collegeofsouthernnevada,tyleraveryna2b,Tyler Avery
-Apr 12,home,Community Christian (CA),W,10-0,10,0,10,win,20240412_3dcl,1,0,0,0,2.0,0,0,0,0.00,2.00,4,2024,2023-24,div1,Southern Nevada,collegeofsouthernnevada,tyleraveryna2b,Tyler Avery
-Apr 19,home,Colorado Northwestern,W,13-2,13,2,11,win,20240419_9p33,1,1,0,0,5.0,2,2,2,3.60,1.00,3,2024,2023-24,div1,Southern Nevada,collegeofsouthernnevada,tyleraveryna2b,Tyler Avery
-Apr 27,home,Utah State Eastern,W,8-4,8,4,4,win,20240427_uq32,1,1,0,0,5.0,2,2,2,3.60,.60,1,2024,2023-24,div1,Southern Nevada,collegeofsouthernnevada,tyleraveryna2b,Tyler Avery
-May 2,home,Salt Lake,W,5-0,5,0,5,win,20240502_vomv,1,1,0,0,6.0,1,0,0,0.00,.33,1,2024,2023-24,div1,Southern Nevada,collegeofsouthernnevada,tyleraveryna2b,Tyler Avery
-May 9,home,Southern Idaho,W,5-3,5,3,2,win,20240509_solb,1,0,0,0,4.0,1,2,2,4.50,2.00,7,2024,2023-24,div1,Southern Nevada,collegeofsouthernnevada,tyleraveryna2b,Tyler Avery
-May 11,home,Salt Lake,W,10-6,10,6,4,win,20240511_h91f,1,0,0,0,4.0,1,0,0,0.00,.25,0,2024,2023-24,div1,Southern Nevada,collegeofsouthernnevada,tyleraveryna2b,Tyler Avery
-May 16,home,Pima,W,7-5,7,5,2,win,20240516_qwzd,1,0,0,0,4.0,5,2,1,2.25,2.25,4,2024,2023-24,div1,Southern Nevada,collegeofsouthernnevada,tyleraveryna2b,Tyler Avery
-May 25,home,(2) Northwest Florida State,W,7-6,7,6,1,win,20240525_40jm,1,0,0,0,5.0,6,4,3,5.40,1.40,1,2024,2023-24,div1,Southern Nevada,collegeofsouthernnevada,tyleraveryna2b,Tyler Avery
+Jan 28,home,San Jacinto,L,10-8,10,8,2,win,20240128_9u9e,1,0,0,0,4.1,10,5,5,10.38,2.54,1,2024,2023-24,div1,Southern Nevada,collegeofsouthernnevada,tyleraveryna2b,Tyler Avery
+Feb 4,home,Central Arizona,L,7-1,7,1,6,win,20240204_vtgo,1,0,1,0,5.2,7,3,3,4.76,1.59,2,2024,2023-24,div1,Southern Nevada,collegeofsouthernnevada,tyleraveryna2b,Tyler Avery
+Feb 10,home,South Mountain,W,4-2,4,2,2,win,20240210_w4zs,1,0,0,0,4.0,5,2,2,4.50,1.50,1,2024,2023-24,div1,Southern Nevada,collegeofsouthernnevada,tyleraveryna2b,Tyler Avery
+Feb 17,home,Prairie Baseball Academy,W,7-1,7,1,6,win,20240217_ihak,0,0,0,0,4.0,3,,,0.00,.75,,2024,2023-24,div1,Southern Nevada,collegeofsouthernnevada,tyleraveryna2b,Tyler Avery
+Mar 8,home,Community Christian (CA),W,8-2,8,2,6,win,20240308_z0hu,1,1,0,0,5.0,0,0,0,0.00,.20,1,2024,2023-24,div1,Southern Nevada,collegeofsouthernnevada,tyleraveryna2b,Tyler Avery
+Mar 17,home,Colorado Northwestern,W,9-4,9,4,5,win,20240317_ptez,1,0,0,0,4.0,5,2,1,2.25,1.75,2,2024,2023-24,div1,Southern Nevada,collegeofsouthernnevada,tyleraveryna2b,Tyler Avery
+Mar 23,home,Utah State Eastern,W,10-4,10,4,6,win,20240323_i3gu,1,1,0,0,7.0,6,3,2,2.57,1.00,1,2024,2023-24,div1,Southern Nevada,collegeofsouthernnevada,tyleraveryna2b,Tyler Avery
+Mar 30,home,Salt Lake,W,5-3,5,3,2,win,20240330_grld,1,0,0,0,5.0,5,2,2,3.60,1.60,3,2024,2023-24,div1,Southern Nevada,collegeofsouthernnevada,tyleraveryna2b,Tyler Avery
+Apr 6,home,Southern Idaho,W,8-7,8,7,1,win,20240406_9f12,1,0,0,0,2.2,4,3,3,10.13,1.88,1,2024,2023-24,div1,Southern Nevada,collegeofsouthernnevada,tyleraveryna2b,Tyler Avery
+Apr 28,home,Utah State Eastern,W,15-5,15,5,10,win,20240428_o48d,1,1,0,0,2.2,6,4,4,13.50,3.00,2,2024,2023-24,div1,Southern Nevada,collegeofsouthernnevada,tyleraveryna2b,Tyler Avery
+May 3,home,Salt Lake,W,10-7,10,7,3,win,20240503_sk9i,1,0,0,0,2.0,4,3,2,9.00,3.00,2,2024,2023-24,div1,Southern Nevada,collegeofsouthernnevada,tyleraveryna2b,Tyler Avery

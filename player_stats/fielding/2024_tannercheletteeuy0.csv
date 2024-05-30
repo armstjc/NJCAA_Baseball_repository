@@ -1,17 +1,36 @@
 date,location,opponent,result,score,team_score,opp_score,game_score_diff,game_win_loss,game_id,TC,PO,A,E,FPCT,DP,SBA,RCS,RCS_PCT,PB,CI,season,njcaa_season,njcaa_division,team,team_id,player_id,player_name
 Jan 26,home,Frank Phillips,W,3-2,3,2,1,win,20240126_ji6w,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Tyler,tylerjuniorcollege,tannercheletteeuy0,Tanner Chelette
 Jan 26,home,Frank Phillips,W,19-10,19,10,9,win,20240126_03hh,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Tyler,tylerjuniorcollege,tannercheletteeuy0,Tanner Chelette
-Jan 27,home,Frank Phillips,L,13-11,13,11,2,win,20240127_90xd,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Tyler,tylerjuniorcollege,tannercheletteeuy0,Tanner Chelette
-Feb 1,home,Eastern Oklahoma State,W,12-2,12,2,10,win,20240201_83wd,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Tyler,tylerjuniorcollege,tannercheletteeuy0,Tanner Chelette
-Feb 2,home,Eastern Oklahoma State,W,2-0,2,0,2,win,20240202_3kd6,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Tyler,tylerjuniorcollege,tannercheletteeuy0,Tanner Chelette
-Feb 2,home,Eastern Oklahoma State,W,1-0,1,0,1,win,20240202_mioj,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Tyler,tylerjuniorcollege,tannercheletteeuy0,Tanner Chelette
-Feb 9,home,Weatherford,L,9-7,9,7,2,win,20240209_y1mh,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Tyler,tylerjuniorcollege,tannercheletteeuy0,Tanner Chelette
-Feb 9,home,Blinn,W,2-1,2,1,1,win,20240209_tcaj,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Tyler,tylerjuniorcollege,tannercheletteeuy0,Tanner Chelette
-Feb 17,home,Baton Rouge,W,4-3,4,3,1,win,20240217_w69o,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Tyler,tylerjuniorcollege,tannercheletteeuy0,Tanner Chelette
-Feb 21,home,Dallas College - Brookhaven,W,10-1,10,1,9,win,20240221_38mp,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Tyler,tylerjuniorcollege,tannercheletteeuy0,Tanner Chelette
-Feb 24,home,Paris,W,6-3,6,3,3,win,20240224_ssjd,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Tyler,tylerjuniorcollege,tannercheletteeuy0,Tanner Chelette
+Jan 27,home,Frank Phillips,L,13-11,13,11,2,win,20240127_90xd,0,0,0,0,1.0,,,,0.00,2.00,2,2024,2023-24,div1,Tyler,tylerjuniorcollege,tannercheletteeuy0,Tanner Chelette
+Feb 5,home,Dallas College - Mountain View,W,21-11,21,11,10,win,20240205_mtzq,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Tyler,tylerjuniorcollege,tannercheletteeuy0,Tanner Chelette
+Feb 12,home,Iowa Western,W,10-4,10,4,6,win,20240212_nloh,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Tyler,tylerjuniorcollege,tannercheletteeuy0,Tanner Chelette
+Feb 16,home,Baton Rouge,W,18-9,18,9,9,win,20240216_sips,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Tyler,tylerjuniorcollege,tannercheletteeuy0,Tanner Chelette
+Feb 21,home,Dallas College - Brookhaven,W,10-1,10,1,9,win,20240221_38mp,0,0,0,0,1.0,,,,0.00,,,2024,2023-24,div1,Tyler,tylerjuniorcollege,tannercheletteeuy0,Tanner Chelette
+Feb 24,home,Paris,W,11-3,11,3,8,win,20240224_mlmz,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Tyler,tylerjuniorcollege,tannercheletteeuy0,Tanner Chelette
+Feb 26,home,Wharton County,L,12-4,12,4,8,win,20240226_xm7c,0,0,0,0,0.0,2,4,4,INF,,3,2024,2023-24,div1,Tyler,tylerjuniorcollege,tannercheletteeuy0,Tanner Chelette
 Feb 28,home,Northeast Texas,L,11-5,11,5,6,win,20240228_wlzb,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Tyler,tylerjuniorcollege,tannercheletteeuy0,Tanner Chelette
+Mar 2,home,Bossier Parish,W,8-7,8,7,1,win,20240302_oczt,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Tyler,tylerjuniorcollege,tannercheletteeuy0,Tanner Chelette
+Mar 2,home,Bossier Parish,W,10-9,10,9,1,win,20240302_51qr,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Tyler,tylerjuniorcollege,tannercheletteeuy0,Tanner Chelette
+Mar 4,home,Grayson,W,11-8,11,8,3,win,20240304_xc7p,0,0,0,0,0.0,,,,0.00,,1,2024,2023-24,div1,Tyler,tylerjuniorcollege,tannercheletteeuy0,Tanner Chelette
+Mar 6,home,Angelina,L,11-3,11,3,8,win,20240306_ns9u,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Tyler,tylerjuniorcollege,tannercheletteeuy0,Tanner Chelette
+Mar 9,home,Navarro,L,10-2,10,2,8,win,20240309_f7xo,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Tyler,tylerjuniorcollege,tannercheletteeuy0,Tanner Chelette
 Mar 10,home,Joliet,W,8-3,8,3,5,win,20240310_5zw4,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Tyler,tylerjuniorcollege,tannercheletteeuy0,Tanner Chelette
+Mar 13,home,Panola,L,9-0,9,0,9,win,20240313_9awn,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Tyler,tylerjuniorcollege,tannercheletteeuy0,Tanner Chelette
+Mar 13,home,Panola,W,11-3,11,3,8,win,20240313_qp88,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Tyler,tylerjuniorcollege,tannercheletteeuy0,Tanner Chelette
+Mar 18,home,McLennan,W,11-8,11,8,3,win,20240318_xugw,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Tyler,tylerjuniorcollege,tannercheletteeuy0,Tanner Chelette
+Mar 20,home,Paris,W,9-1,9,1,8,win,20240320_urdq,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Tyler,tylerjuniorcollege,tannercheletteeuy0,Tanner Chelette
+Mar 23,home,Paris,W,6-4,6,4,2,win,20240323_46ec,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Tyler,tylerjuniorcollege,tannercheletteeuy0,Tanner Chelette
+Mar 23,home,Paris,W,10-1,10,1,9,win,20240323_gqrk,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Tyler,tylerjuniorcollege,tannercheletteeuy0,Tanner Chelette
+Mar 27,home,Northeast Texas,L,8-4,8,4,4,win,20240327_iyc2,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Tyler,tylerjuniorcollege,tannercheletteeuy0,Tanner Chelette
+Mar 29,home,Northeast Texas,W,8-3,8,3,5,win,20240329_lq7o,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Tyler,tylerjuniorcollege,tannercheletteeuy0,Tanner Chelette
 Apr 1,home,TCS Post Grad,W,15-6,15,6,9,win,20240401_2xcu,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Tyler,tylerjuniorcollege,tannercheletteeuy0,Tanner Chelette
+Apr 3,home,Bossier Parish,W,13-3,13,3,10,win,20240403_shlv,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Tyler,tylerjuniorcollege,tannercheletteeuy0,Tanner Chelette
+Apr 6,home,Bossier Parish,W,1-0,1,0,1,win,20240406_uk10,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Tyler,tylerjuniorcollege,tannercheletteeuy0,Tanner Chelette
+Apr 6,home,Bossier Parish,W,15-3,15,3,12,win,20240406_uz0n,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Tyler,tylerjuniorcollege,tannercheletteeuy0,Tanner Chelette
+Apr 8,home,Grayson,L,10-8,10,8,2,win,20240408_8pgr,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Tyler,tylerjuniorcollege,tannercheletteeuy0,Tanner Chelette
+Apr 11,home,Angelina,W,20-10,20,10,10,win,20240411_3f4u,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Tyler,tylerjuniorcollege,tannercheletteeuy0,Tanner Chelette
+Apr 21,home,Navarro,L,13-3,13,3,10,win,20240421_s8mm,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Tyler,tylerjuniorcollege,tannercheletteeuy0,Tanner Chelette
 Apr 22,home,TCS Post Grad,W,11-1,11,1,10,win,20240422_z3uo,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Tyler,tylerjuniorcollege,tannercheletteeuy0,Tanner Chelette
-May 5,home,LSU Eunice,L,3-2,3,2,1,win,20240505_yvfw,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Tyler,tylerjuniorcollege,tannercheletteeuy0,Tanner Chelette
+Apr 27,home,Panola,L,5-3,5,3,2,win,20240427_babe,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Tyler,tylerjuniorcollege,tannercheletteeuy0,Tanner Chelette
+May 4,home,LSU Eunice,L,8-7,8,7,1,win,20240504_lfdy,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Tyler,tylerjuniorcollege,tannercheletteeuy0,Tanner Chelette
+May 5,home,LSU Eunice,L,9-1,9,1,8,win,20240505_q5ch,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Tyler,tylerjuniorcollege,tannercheletteeuy0,Tanner Chelette

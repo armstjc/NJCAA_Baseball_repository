@@ -1,21 +1,13 @@
 date,location,opponent,result,score,team_score,opp_score,game_score_diff,game_win_loss,game_id,TC,PO,A,E,FPCT,DP,SBA,RCS,RCS_PCT,PB,CI,season,njcaa_season,njcaa_division,team,team_id,player_id,player_name
-Feb 3,home,Louisburg,W,6-3,6,3,3,win,20240203_ddur,0,1,0,0,0.1,,,,0.00,,,2024,2023-24,div2,Bryant & Stratton (VA),bryantstrattoncollegeva,ryancasonx3rc,Ryan Cason
-Feb 4,home,Louisburg,W,12-11,12,11,1,win,20240204_02cz,0,0,0,0,0.2,1,1,1,13.50,3.00,1,2024,2023-24,div2,Bryant & Stratton (VA),bryantstrattoncollegeva,ryancasonx3rc,Ryan Cason
-Feb 17,home,Pitt,L,8-2,8,2,6,win,20240217_rz61,0,0,0,0,1.2,2,1,1,5.40,1.20,,2024,2023-24,div2,Bryant & Stratton (VA),bryantstrattoncollegeva,ryancasonx3rc,Ryan Cason
-Feb 20,home,Virginia Peninsula CC,W,10-9,10,9,1,win,20240220_yxqs,0,0,0,0,1.0,1,0,0,0.00,1.00,0,2024,2023-24,div2,Bryant & Stratton (VA),bryantstrattoncollegeva,ryancasonx3rc,Ryan Cason
-Feb 21,home,Apprentice School,L,10-9,10,9,1,win,20240221_v63k,0,0,0,0,2.1,1,0,0,0.00,.43,0,2024,2023-24,div2,Bryant & Stratton (VA),bryantstrattoncollegeva,ryancasonx3rc,Ryan Cason
-Feb 24,home,Brunswick,L,13-3,13,3,10,win,20240224_m6ff,0,0,0,0,0.2,0,0,0,0.00,.00,0,2024,2023-24,div2,Bryant & Stratton (VA),bryantstrattoncollegeva,ryancasonx3rc,Ryan Cason
-Feb 25,home,Brunswick,L,8-4,8,4,4,win,20240225_k39r,0,0,0,0,2.1,2,2,2,7.71,1.71,2,2024,2023-24,div2,Bryant & Stratton (VA),bryantstrattoncollegeva,ryancasonx3rc,Ryan Cason
-Mar 3,home,Fayetteville Tech,W,7-3,7,3,4,win,20240303_u7jk,0,0,0,0,1.2,1,2,2,10.80,.60,0,2024,2023-24,div2,Bryant & Stratton (VA),bryantstrattoncollegeva,ryancasonx3rc,Ryan Cason
-Mar 8,home,Southeastern-Whiteville,W,4-0,4,0,4,win,20240308_iurv,0,1,0,0,5.0,3,0,0,0.00,.80,1,2024,2023-24,div2,Bryant & Stratton (VA),bryantstrattoncollegeva,ryancasonx3rc,Ryan Cason
-Mar 12,home,Camp,L,12-11,12,11,1,win,20240312_tj7a,0,0,0,0,3.1,6,6,6,16.20,2.10,1,2024,2023-24,div2,Bryant & Stratton (VA),bryantstrattoncollegeva,ryancasonx3rc,Ryan Cason
-Mar 16,home,Harford,W,9-6,9,6,3,win,20240316_ai6z,0,0,0,0,1.1,2,1,1,6.75,1.50,0,2024,2023-24,div2,Bryant & Stratton (VA),bryantstrattoncollegeva,ryancasonx3rc,Ryan Cason
-Mar 26,home,Richard Bland,W,4-3,4,3,1,win,20240326_ihw8,0,0,0,0,2.1,1,0,0,0.00,.86,1,2024,2023-24,div2,Bryant & Stratton (VA),bryantstrattoncollegeva,ryancasonx3rc,Ryan Cason
-Mar 29,home,Pitt,W,14-11,14,11,3,win,20240329_gc2s,0,1,0,0,2.0,1,1,1,4.50,1.00,1,2024,2023-24,div2,Bryant & Stratton (VA),bryantstrattoncollegeva,ryancasonx3rc,Ryan Cason
-Mar 30,home,Pitt,W,11-3,11,3,8,win,20240330_ccak,0,0,0,0,1.0,0,0,0,0.00,1.00,1,2024,2023-24,div2,Bryant & Stratton (VA),bryantstrattoncollegeva,ryancasonx3rc,Ryan Cason
-Apr 7,home,Brunswick,L,5-3,5,3,2,win,20240407_hknw,0,0,0,0,2.1,3,,,0.00,1.71,1,2024,2023-24,div2,Bryant & Stratton (VA),bryantstrattoncollegeva,ryancasonx3rc,Ryan Cason
-Apr 10,home,Richard Bland,W,12-4,12,4,8,win,20240410_03uy,0,1,0,0,1.0,3,1,1,9.00,4.00,1,2024,2023-24,div2,Bryant & Stratton (VA),bryantstrattoncollegeva,ryancasonx3rc,Ryan Cason
-Apr 13,home,Fayetteville Tech,W,10-1,10,1,9,win,20240413_2tzi,0,0,0,0,0.2,1,0,0,0.00,1.50,0,2024,2023-24,div2,Bryant & Stratton (VA),bryantstrattoncollegeva,ryancasonx3rc,Ryan Cason
-Apr 18,home,Richard Bland,W,7-6,7,6,1,win,20240418_xy60,0,0,0,0,1.0,1,0,0,0.00,2.00,1,2024,2023-24,div2,Bryant & Stratton (VA),bryantstrattoncollegeva,ryancasonx3rc,Ryan Cason
-May 9,home,Cleveland,L,16-8,16,8,8,win,20240509_mlh2,0,0,0,0,0.1,5,4,4,108.00,15.00,0,2024,2023-24,div2,Bryant & Stratton (VA),bryantstrattoncollegeva,ryancasonx3rc,Ryan Cason
-May 11,home,Brunswick,L,10-8,10,8,2,win,20240511_92iu,0,0,0,0,0.0,1,,,0.00,,,2024,2023-24,div2,Bryant & Stratton (VA),bryantstrattoncollegeva,ryancasonx3rc,Ryan Cason
+Feb 18,home,East Central (MO),L,8-5,8,5,3,win,20240218_zfi4,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Bryant & Stratton (VA),bryantstrattoncollegeva,ryancasonx3rc,Ryan Cason
+Mar 5,home,Hutchinson,W,12-7,12,7,5,win,20240305_sfwm,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Bryant & Stratton (VA),bryantstrattoncollegeva,ryancasonx3rc,Ryan Cason
+Mar 7,home,Redlands,W,11-1,11,1,10,win,20240307_jgia,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Bryant & Stratton (VA),bryantstrattoncollegeva,ryancasonx3rc,Ryan Cason
+Mar 9,home,Redlands,W,14-11,14,11,3,win,20240309_dojw,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Bryant & Stratton (VA),bryantstrattoncollegeva,ryancasonx3rc,Ryan Cason
+Mar 11,home,Northwestern Oklahoma State University JV,W,12-8,12,8,4,win,20240311_29qk,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Bryant & Stratton (VA),bryantstrattoncollegeva,ryancasonx3rc,Ryan Cason
+Mar 11,home,Northwestern Oklahoma State University JV,W,19-4,19,4,15,win,20240311_pblx,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Bryant & Stratton (VA),bryantstrattoncollegeva,ryancasonx3rc,Ryan Cason
+Mar 17,home,Allen County,L,7-6,7,6,1,win,20240317_ja90,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Bryant & Stratton (VA),bryantstrattoncollegeva,ryancasonx3rc,Ryan Cason
+Mar 26,home,Northeastern Oklahoma A&M,L,15-11,15,11,4,win,20240326_m1pc,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Bryant & Stratton (VA),bryantstrattoncollegeva,ryancasonx3rc,Ryan Cason
+Apr 8,home,Northwestern Oklahoma State University JV,W,5-4,5,4,1,win,20240408_g6ty,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Bryant & Stratton (VA),bryantstrattoncollegeva,ryancasonx3rc,Ryan Cason
+Apr 16,home,DFW Post Grad,W,16-1,16,1,15,win,20240416_ophu,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Bryant & Stratton (VA),bryantstrattoncollegeva,ryancasonx3rc,Ryan Cason
+Apr 16,home,DFW Post Grad,W,10-0,10,0,10,win,20240416_cj74,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Bryant & Stratton (VA),bryantstrattoncollegeva,ryancasonx3rc,Ryan Cason
+Apr 29,home,Western Oklahoma State,L,9-4,9,4,5,win,20240429_i70n,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Bryant & Stratton (VA),bryantstrattoncollegeva,ryancasonx3rc,Ryan Cason

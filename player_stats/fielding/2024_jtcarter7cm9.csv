@@ -1,36 +1,13 @@
 date,location,opponent,result,score,team_score,opp_score,game_score_diff,game_win_loss,game_id,TC,PO,A,E,FPCT,DP,SBA,RCS,RCS_PCT,PB,CI,season,njcaa_season,njcaa_division,team,team_id,player_id,player_name
-Feb 3,home,USC Lancaster,W,11-9,11,9,2,win,20240203_axf5,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Catawba Valley,catawbavalleycommunitycollege,jtcarter7cm9,J.T. Carter
-Feb 3,home,USC Lancaster,W,4-2,4,2,2,win,20240203_syfp,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Catawba Valley,catawbavalleycommunitycollege,jtcarter7cm9,J.T. Carter
-Feb 4,home,USC Lancaster,L,15-9,15,9,6,win,20240204_sx1z,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Catawba Valley,catawbavalleycommunitycollege,jtcarter7cm9,J.T. Carter
-Feb 7,home,Spartanburg Methodist,L,14-4,14,4,10,win,20240207_rh69,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Catawba Valley,catawbavalleycommunitycollege,jtcarter7cm9,J.T. Carter
-Feb 7,home,Spartanburg Methodist,L,10-0,10,0,10,win,20240207_rmp1,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Catawba Valley,catawbavalleycommunitycollege,jtcarter7cm9,J.T. Carter
-Feb 10,home,USC Salkehatchie,W,11-8,11,8,3,win,20240210_jv8s,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Catawba Valley,catawbavalleycommunitycollege,jtcarter7cm9,J.T. Carter
-Feb 10,home,USC Salkehatchie,W,3-2,3,2,1,win,20240210_e6oc,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Catawba Valley,catawbavalleycommunitycollege,jtcarter7cm9,J.T. Carter
-Feb 11,home,USC Salkehatchie,L,4-2,4,2,2,win,20240211_baj5,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Catawba Valley,catawbavalleycommunitycollege,jtcarter7cm9,J.T. Carter
-Feb 14,home,Surry,L,10-2,10,2,8,win,20240214_j2dp,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Catawba Valley,catawbavalleycommunitycollege,jtcarter7cm9,J.T. Carter
-Feb 17,home,Wake Tech,W,13-12,13,12,1,win,20240217_l9e7,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Catawba Valley,catawbavalleycommunitycollege,jtcarter7cm9,J.T. Carter
-Feb 18,home,Wake Tech,L,19-5,19,5,14,win,20240218_per3,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Catawba Valley,catawbavalleycommunitycollege,jtcarter7cm9,J.T. Carter
-Feb 21,home,USC Sumter,L,13-6,13,6,7,win,20240221_t62c,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Catawba Valley,catawbavalleycommunitycollege,jtcarter7cm9,J.T. Carter
-Feb 24,home,Louisburg,L,11-2,11,2,9,win,20240224_xqp4,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Catawba Valley,catawbavalleycommunitycollege,jtcarter7cm9,J.T. Carter
-Feb 25,home,Louisburg,L,13-5,13,5,8,win,20240225_xma0,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Catawba Valley,catawbavalleycommunitycollege,jtcarter7cm9,J.T. Carter
-Feb 28,home,Gaston College,L,10-6,10,6,4,win,20240228_v0qt,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Catawba Valley,catawbavalleycommunitycollege,jtcarter7cm9,J.T. Carter
-Mar 7,home,Spartanburg Methodist,W,3-2,3,2,1,win,20240307_b5y9,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Catawba Valley,catawbavalleycommunitycollege,jtcarter7cm9,J.T. Carter
-Mar 7,home,Spartanburg Methodist,L,8-3,8,3,5,win,20240307_3mo3,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Catawba Valley,catawbavalleycommunitycollege,jtcarter7cm9,J.T. Carter
-Mar 12,home,MontreJV,W,12-6,12,6,6,win,20240312_8xts,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Catawba Valley,catawbavalleycommunitycollege,jtcarter7cm9,J.T. Carter
-Mar 13,home,Caldwell Tech,W,10-4,10,4,6,win,20240313_9pji,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Catawba Valley,catawbavalleycommunitycollege,jtcarter7cm9,J.T. Carter
-Mar 15,home,Southwest Virginia,W,12-2,12,2,10,win,20240315_z25i,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Catawba Valley,catawbavalleycommunitycollege,jtcarter7cm9,J.T. Carter
-Mar 16,home,Southwest Virginia,W,11-2,11,2,9,win,20240316_wy7x,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Catawba Valley,catawbavalleycommunitycollege,jtcarter7cm9,J.T. Carter
-Mar 16,home,Southwest Virginia,W,23-1,23,1,22,win,20240316_s4py,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Catawba Valley,catawbavalleycommunitycollege,jtcarter7cm9,J.T. Carter
-Mar 19,home,Gaston College,L,19-8,19,8,11,win,20240319_xkew,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Catawba Valley,catawbavalleycommunitycollege,jtcarter7cm9,J.T. Carter
-Mar 20,home,Caldwell Tech,L,13-10,13,10,3,win,20240320_3eq0,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Catawba Valley,catawbavalleycommunitycollege,jtcarter7cm9,J.T. Carter
-Mar 22,home,Patrick & Henry,L,7-4,7,4,3,win,20240322_dbe6,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Catawba Valley,catawbavalleycommunitycollege,jtcarter7cm9,J.T. Carter
-Mar 24,home,Patrick & Henry,L,4-3,4,3,1,win,20240324_48ck,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Catawba Valley,catawbavalleycommunitycollege,jtcarter7cm9,J.T. Carter
-Mar 24,home,Patrick & Henry,L,5-1,5,1,4,win,20240324_2dww,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Catawba Valley,catawbavalleycommunitycollege,jtcarter7cm9,J.T. Carter
-Apr 20,home,Spartanburg Methodist,L,15-0,15,0,15,win,20240420_p36y,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Catawba Valley,catawbavalleycommunitycollege,jtcarter7cm9,J.T. Carter
-Apr 27,home,Southwest Virginia,W,18-6,18,6,12,win,20240427_ltx4,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Catawba Valley,catawbavalleycommunitycollege,jtcarter7cm9,J.T. Carter
-Apr 28,home,Southwest Virginia,W,16-1,16,1,15,win,20240428_kuo2,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Catawba Valley,catawbavalleycommunitycollege,jtcarter7cm9,J.T. Carter
-Apr 30,home,Cleveland,W,4-0,4,0,4,win,20240430_s1p2,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Catawba Valley,catawbavalleycommunitycollege,jtcarter7cm9,J.T. Carter
-May 9,home,Brunswick,L,6-2,6,2,4,win,20240509_n2qi,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Catawba Valley,catawbavalleycommunitycollege,jtcarter7cm9,J.T. Carter
-May 10,home,Fayetteville Tech,W,13-3,13,3,10,win,20240510_ufk4,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Catawba Valley,catawbavalleycommunitycollege,jtcarter7cm9,J.T. Carter
-May 11,home,Cleveland,W,8-4,8,4,4,win,20240511_3aod,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Catawba Valley,catawbavalleycommunitycollege,jtcarter7cm9,J.T. Carter
-May 11,home,Brunswick,L,13-2,13,2,11,win,20240511_9hz0,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Catawba Valley,catawbavalleycommunitycollege,jtcarter7cm9,J.T. Carter
+Feb 18,home,East Central (MO),L,8-5,8,5,3,win,20240218_zfi4,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Catawba Valley,catawbavalleycommunitycollege,jtcarter7cm9,J.T. Carter
+Mar 5,home,Hutchinson,W,12-7,12,7,5,win,20240305_sfwm,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Catawba Valley,catawbavalleycommunitycollege,jtcarter7cm9,J.T. Carter
+Mar 7,home,Redlands,W,11-1,11,1,10,win,20240307_jgia,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Catawba Valley,catawbavalleycommunitycollege,jtcarter7cm9,J.T. Carter
+Mar 9,home,Redlands,W,14-11,14,11,3,win,20240309_dojw,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Catawba Valley,catawbavalleycommunitycollege,jtcarter7cm9,J.T. Carter
+Mar 11,home,Northwestern Oklahoma State University JV,W,12-8,12,8,4,win,20240311_29qk,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Catawba Valley,catawbavalleycommunitycollege,jtcarter7cm9,J.T. Carter
+Mar 11,home,Northwestern Oklahoma State University JV,W,19-4,19,4,15,win,20240311_pblx,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Catawba Valley,catawbavalleycommunitycollege,jtcarter7cm9,J.T. Carter
+Mar 17,home,Allen County,L,7-6,7,6,1,win,20240317_ja90,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Catawba Valley,catawbavalleycommunitycollege,jtcarter7cm9,J.T. Carter
+Mar 26,home,Northeastern Oklahoma A&M,L,15-11,15,11,4,win,20240326_m1pc,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Catawba Valley,catawbavalleycommunitycollege,jtcarter7cm9,J.T. Carter
+Apr 8,home,Northwestern Oklahoma State University JV,W,5-4,5,4,1,win,20240408_g6ty,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Catawba Valley,catawbavalleycommunitycollege,jtcarter7cm9,J.T. Carter
+Apr 16,home,DFW Post Grad,W,16-1,16,1,15,win,20240416_ophu,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Catawba Valley,catawbavalleycommunitycollege,jtcarter7cm9,J.T. Carter
+Apr 16,home,DFW Post Grad,W,10-0,10,0,10,win,20240416_cj74,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Catawba Valley,catawbavalleycommunitycollege,jtcarter7cm9,J.T. Carter
+Apr 29,home,Western Oklahoma State,L,9-4,9,4,5,win,20240429_i70n,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Catawba Valley,catawbavalleycommunitycollege,jtcarter7cm9,J.T. Carter

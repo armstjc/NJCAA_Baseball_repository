@@ -1,42 +1,19 @@
 date,location,opponent,result,score,team_score,opp_score,game_score_diff,game_win_loss,game_id,TC,PO,A,E,FPCT,DP,SBA,RCS,RCS_PCT,PB,CI,season,njcaa_season,njcaa_division,team,team_id,player_id,player_name
-Jan 26,home,Central Arizona,L,4-2,4,2,2,win,20240126_gkoy,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Southern Nevada,collegeofsouthernnevada,naunharozj19,Naun Haro
-Jan 27,home,Arizona Western,L,4-3,4,3,1,win,20240127_7clx,0,0,0,0,1.0,1,,,0.00,2.00,1,2024,2023-24,div1,Southern Nevada,collegeofsouthernnevada,naunharozj19,Naun Haro
-Jan 27,home,GateWay (AZ),W,10-5,10,5,5,win,20240127_1nyx,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Southern Nevada,collegeofsouthernnevada,naunharozj19,Naun Haro
-Jan 28,home,San Jacinto,L,10-8,10,8,2,win,20240128_9u9e,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Southern Nevada,collegeofsouthernnevada,naunharozj19,Naun Haro
-Feb 3,home,Yavapai,W,18-0,18,0,18,win,20240203_py70,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Southern Nevada,collegeofsouthernnevada,naunharozj19,Naun Haro
-Feb 4,home,Central Arizona,L,8-2,8,2,6,win,20240204_qwy9,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Southern Nevada,collegeofsouthernnevada,naunharozj19,Naun Haro
-Feb 9,home,South Mountain,W,4-3,4,3,1,win,20240209_71zi,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Southern Nevada,collegeofsouthernnevada,naunharozj19,Naun Haro
-Feb 9,home,South Mountain,L,1-0,1,0,1,win,20240209_20m4,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Southern Nevada,collegeofsouthernnevada,naunharozj19,Naun Haro
-Feb 10,home,South Mountain,W,4-2,4,2,2,win,20240210_w4zs,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Southern Nevada,collegeofsouthernnevada,naunharozj19,Naun Haro
-Feb 17,home,Prairie Baseball Academy,W,4-2,4,2,2,win,20240217_luls,0,0,0,0,1.0,2,,,0.00,2.00,,2024,2023-24,div1,Southern Nevada,collegeofsouthernnevada,naunharozj19,Naun Haro
-Feb 17,home,Prairie Baseball Academy,W,7-1,7,1,6,win,20240217_ihak,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Southern Nevada,collegeofsouthernnevada,naunharozj19,Naun Haro
-Feb 18,home,Prairie Baseball Academy,W,11-3,11,3,8,win,20240218_tgyw,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Southern Nevada,collegeofsouthernnevada,naunharozj19,Naun Haro
-Feb 19,home,Prairie Baseball Academy,W,9-5,9,5,4,win,20240219_1e8s,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Southern Nevada,collegeofsouthernnevada,naunharozj19,Naun Haro
-Mar 8,home,Community Christian (CA),W,12-2,12,2,10,win,20240308_z0ak,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Southern Nevada,collegeofsouthernnevada,naunharozj19,Naun Haro
-Mar 9,home,Community Christian (CA),W,15-0,15,0,15,win,20240309_t7ni,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Southern Nevada,collegeofsouthernnevada,naunharozj19,Naun Haro
-Mar 9,home,Community Christian (CA),W,12-0,12,0,12,win,20240309_b386,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Southern Nevada,collegeofsouthernnevada,naunharozj19,Naun Haro
-Mar 16,home,Colorado Northwestern,W,11-0,11,0,11,win,20240316_pa3l,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Southern Nevada,collegeofsouthernnevada,naunharozj19,Naun Haro
-Mar 17,home,Colorado Northwestern,W,9-3,9,3,6,win,20240317_rl28,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Southern Nevada,collegeofsouthernnevada,naunharozj19,Naun Haro
-Mar 22,home,Utah State Eastern,W,8-7,8,7,1,win,20240322_0d1w,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Southern Nevada,collegeofsouthernnevada,naunharozj19,Naun Haro
-Mar 29,home,Salt Lake,L,8-1,8,1,7,win,20240329_vb7z,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Southern Nevada,collegeofsouthernnevada,naunharozj19,Naun Haro
-Mar 30,home,Salt Lake,W,5-3,5,3,2,win,20240330_grld,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Southern Nevada,collegeofsouthernnevada,naunharozj19,Naun Haro
-Apr 5,home,Southern Idaho,W,2-1,2,1,1,win,20240405_kksm,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Southern Nevada,collegeofsouthernnevada,naunharozj19,Naun Haro
-Apr 6,home,Southern Idaho,W,6-2,6,2,4,win,20240406_8vil,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Southern Nevada,collegeofsouthernnevada,naunharozj19,Naun Haro
-Apr 6,home,Southern Idaho,W,8-7,8,7,1,win,20240406_9f12,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Southern Nevada,collegeofsouthernnevada,naunharozj19,Naun Haro
-Apr 12,home,Community Christian (CA),W,10-0,10,0,10,win,20240412_3dcl,0,0,0,0,0.1,,,,0.00,,,2024,2023-24,div1,Southern Nevada,collegeofsouthernnevada,naunharozj19,Naun Haro
-Apr 12,home,Community Christian (CA),W,24-2,24,2,22,win,20240412_dso8,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Southern Nevada,collegeofsouthernnevada,naunharozj19,Naun Haro
-Apr 13,home,Community Christian (CA),W,14-0,14,0,14,win,20240413_5j1r,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Southern Nevada,collegeofsouthernnevada,naunharozj19,Naun Haro
-Apr 13,home,Community Christian (CA),W,17-6,17,6,11,win,20240413_5n90,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Southern Nevada,collegeofsouthernnevada,naunharozj19,Naun Haro
-Apr 19,home,Colorado Northwestern,W,13-2,13,2,11,win,20240419_9p33,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Southern Nevada,collegeofsouthernnevada,naunharozj19,Naun Haro
-Apr 19,home,Colorado Northwestern,W,8-6,8,6,2,win,20240419_d5kh,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Southern Nevada,collegeofsouthernnevada,naunharozj19,Naun Haro
-Apr 20,home,Colorado Northwestern,W,13-2,13,2,11,win,20240420_qq3o,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Southern Nevada,collegeofsouthernnevada,naunharozj19,Naun Haro
-Apr 20,home,Colorado Northwestern,W,9-0,9,0,9,win,20240420_ugut,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Southern Nevada,collegeofsouthernnevada,naunharozj19,Naun Haro
-Apr 28,home,Utah State Eastern,W,15-5,15,5,10,win,20240428_o48d,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Southern Nevada,collegeofsouthernnevada,naunharozj19,Naun Haro
-May 2,home,Salt Lake,W,7-4,7,4,3,win,20240502_298r,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Southern Nevada,collegeofsouthernnevada,naunharozj19,Naun Haro
-May 3,home,Salt Lake,W,10-2,10,2,8,win,20240503_qms9,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Southern Nevada,collegeofsouthernnevada,naunharozj19,Naun Haro
-May 3,home,Salt Lake,W,10-7,10,7,3,win,20240503_sk9i,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Southern Nevada,collegeofsouthernnevada,naunharozj19,Naun Haro
-May 10,home,Salt Lake,L,9-7,9,7,2,win,20240510_h3g2,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Southern Nevada,collegeofsouthernnevada,naunharozj19,Naun Haro
-May 10,home,Southern Idaho,W,13-3,13,3,10,win,20240510_kjf4,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Southern Nevada,collegeofsouthernnevada,naunharozj19,Naun Haro
-May 11,home,Salt Lake,W,18-5,18,5,13,win,20240511_of5b,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Southern Nevada,collegeofsouthernnevada,naunharozj19,Naun Haro
-May 11,home,Salt Lake,W,10-6,10,6,4,win,20240511_h91f,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Southern Nevada,collegeofsouthernnevada,naunharozj19,Naun Haro
-May 17,home,South Mountain,W,10-5,10,5,5,win,20240517_0hox,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div1,Southern Nevada,collegeofsouthernnevada,naunharozj19,Naun Haro
+Jan 27,home,Arizona Western,L,4-3,4,3,1,win,20240127_7clx,1,0,0,0,6.0,4,2,2,3.00,.83,1,2024,2023-24,div1,Southern Nevada,collegeofsouthernnevada,naunharozj19,Naun Haro
+Feb 4,home,Central Arizona,L,8-2,8,2,6,win,20240204_qwy9,1,0,1,0,5.2,8,4,3,4.76,1.59,1,2024,2023-24,div1,Southern Nevada,collegeofsouthernnevada,naunharozj19,Naun Haro
+Feb 9,home,South Mountain,L,1-0,1,0,1,win,20240209_20m4,1,0,0,0,7.0,1,0,0,0.00,.43,2,2024,2023-24,div1,Southern Nevada,collegeofsouthernnevada,naunharozj19,Naun Haro
+Feb 17,home,Prairie Baseball Academy,W,7-1,7,1,6,win,20240217_ihak,1,1,0,0,3.0,2,0,0,0.00,.67,0,2024,2023-24,div1,Southern Nevada,collegeofsouthernnevada,naunharozj19,Naun Haro
+Mar 9,home,Community Christian (CA),W,15-0,15,0,15,win,20240309_t7ni,1,1,0,0,5.0,0,0,0,0.00,.60,3,2024,2023-24,div1,Southern Nevada,collegeofsouthernnevada,naunharozj19,Naun Haro
+Mar 16,home,Colorado Northwestern,W,8-1,8,1,7,win,20240316_j5gz,1,1,0,0,6.0,8,1,1,1.50,1.33,0,2024,2023-24,div1,Southern Nevada,collegeofsouthernnevada,naunharozj19,Naun Haro
+Mar 22,home,Utah State Eastern,W,8-7,8,7,1,win,20240322_0d1w,1,0,0,0,4.0,7,6,6,13.50,2.25,2,2024,2023-24,div1,Southern Nevada,collegeofsouthernnevada,naunharozj19,Naun Haro
+Mar 29,home,Salt Lake,L,12-2,12,2,10,win,20240329_3mxa,1,0,1,0,3.2,6,8,5,12.27,2.45,3,2024,2023-24,div1,Southern Nevada,collegeofsouthernnevada,naunharozj19,Naun Haro
+Apr 6,home,Southern Idaho,W,6-2,6,2,4,win,20240406_8vil,1,1,0,0,5.0,5,2,2,3.60,1.40,2,2024,2023-24,div1,Southern Nevada,collegeofsouthernnevada,naunharozj19,Naun Haro
+Apr 13,home,Community Christian (CA),W,14-0,14,0,14,win,20240413_5j1r,1,1,0,0,2.0,0,0,0,0.00,.00,0,2024,2023-24,div1,Southern Nevada,collegeofsouthernnevada,naunharozj19,Naun Haro
+Apr 20,home,Colorado Northwestern,W,13-2,13,2,11,win,20240420_qq3o,1,1,0,0,5.0,6,2,2,3.60,1.40,1,2024,2023-24,div1,Southern Nevada,collegeofsouthernnevada,naunharozj19,Naun Haro
+Apr 28,home,Utah State Eastern,W,11-1,11,1,10,win,20240428_hbm2,1,1,0,0,5.0,2,1,1,1.80,.60,1,2024,2023-24,div1,Southern Nevada,collegeofsouthernnevada,naunharozj19,Naun Haro
+May 3,home,Salt Lake,W,10-2,10,2,8,win,20240503_qms9,1,1,0,0,3.0,2,0,0,0.00,.67,0,2024,2023-24,div1,Southern Nevada,collegeofsouthernnevada,naunharozj19,Naun Haro
+May 10,home,Salt Lake,L,9-7,9,7,2,win,20240510_h3g2,1,0,0,0,6.1,4,3,3,4.26,1.11,3,2024,2023-24,div1,Southern Nevada,collegeofsouthernnevada,naunharozj19,Naun Haro
+May 11,home,Salt Lake,W,10-6,10,6,4,win,20240511_h91f,0,0,0,0,0.1,,,,0.00,,,2024,2023-24,div1,Southern Nevada,collegeofsouthernnevada,naunharozj19,Naun Haro
+May 17,home,South Mountain,W,10-5,10,5,5,win,20240517_0hox,1,1,0,0,6.0,5,4,3,4.50,1.17,2,2024,2023-24,div1,Southern Nevada,collegeofsouthernnevada,naunharozj19,Naun Haro
+May 25,home,(2) Northwest Florida State,W,7-6,7,6,1,win,20240525_40jm,0,0,0,1,0.2,0,0,0,0.00,1.50,1,2024,2023-24,div1,Southern Nevada,collegeofsouthernnevada,naunharozj19,Naun Haro
+May 27,home,(8) Florence-Darlington Tech,L,9-8,9,8,1,win,20240527_ej5m,1,0,0,0,5.0,8,5,5,9.00,2.00,2,2024,2023-24,div1,Southern Nevada,collegeofsouthernnevada,naunharozj19,Naun Haro

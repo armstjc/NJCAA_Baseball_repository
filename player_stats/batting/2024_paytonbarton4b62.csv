@@ -1,15 +1,9 @@
 date,location,opponent,result,score,team_score,opp_score,game_score_diff,game_win_loss,game_id,AB,R,H,2B,3B,HR,RBI,BB,K,SB,CS,HBP,SF,SH,TB,XBH,HDP,GO,FO,GO/FO,PA,season,njcaa_season,njcaa_division,team,team_id,player_id,player_name
-Mar 5,home,John Wood,W,3-2,3,2,1,win,20240305_zf27,0,0,0,,,,0,,,,,,,,0,0,,,,,0,2024,2023-24,div2,Black Hawk,blackhawkcollegemoline,paytonbarton4b62,Payton Barton
-Mar 16,home,Rhode Island,W,10-0,10,0,10,win,20240316_fr28,0,0,0,,,,0,,,,,,,,0,0,,,,,0,2024,2023-24,div2,Black Hawk,blackhawkcollegemoline,paytonbarton4b62,Payton Barton
-Mar 29,home,South Suburban,W,6-4,6,4,2,win,20240329_xdie,0,0,0,,,,0,,,,,,,,0,0,,,,,0,2024,2023-24,div2,Black Hawk,blackhawkcollegemoline,paytonbarton4b62,Payton Barton
-Apr 5,home,Triton,W,9-8,9,8,1,win,20240405_dzfx,0,0,0,,,,0,,,,,,,,0,0,,,,,0,2024,2023-24,div2,Black Hawk,blackhawkcollegemoline,paytonbarton4b62,Payton Barton
-Apr 7,home,Joliet,W,6-1,6,1,5,win,20240407_llz7,0,0,0,,,,0,,,,,,,,0,0,,,,,0,2024,2023-24,div2,Black Hawk,blackhawkcollegemoline,paytonbarton4b62,Payton Barton
-Apr 9,home,Kishwaukee,W,10-2,10,2,8,win,20240409_rdkl,0,0,0,,,,0,,,,,,,,0,0,,,,,0,2024,2023-24,div2,Black Hawk,blackhawkcollegemoline,paytonbarton4b62,Payton Barton
-Apr 13,home,Illinois Valley,W,7-3,7,3,4,win,20240413_1v9p,0,0,0,,,,0,,,,,,,,0,0,,,,,0,2024,2023-24,div2,Black Hawk,blackhawkcollegemoline,paytonbarton4b62,Payton Barton
-Apr 14,home,Madison,W,6-0,6,0,6,win,20240414_wkw0,0,0,0,,,,0,,,,,,,,0,0,,,,,0,2024,2023-24,div2,Black Hawk,blackhawkcollegemoline,paytonbarton4b62,Payton Barton
-Apr 20,home,Highland (IL),W,4-2,4,2,2,win,20240420_rep5,0,0,0,,,,0,,,,,,,,0,0,,,,,0,2024,2023-24,div2,Black Hawk,blackhawkcollegemoline,paytonbarton4b62,Payton Barton
-Apr 23,home,Highland (IL),W,9-6,9,6,3,win,20240423_7815,0,0,0,,,,0,,,,,,,,0,0,,,,,0,2024,2023-24,div2,Black Hawk,blackhawkcollegemoline,paytonbarton4b62,Payton Barton
-Apr 27,home,Carl Sandburg,W,5-3,5,3,2,win,20240427_v7wt,0,0,0,,,,0,,,,,,,,0,0,,,,,0,2024,2023-24,div2,Black Hawk,blackhawkcollegemoline,paytonbarton4b62,Payton Barton
-Apr 29,home,Sauk Valley,W,3-2,3,2,1,win,20240429_pmua,0,0,0,,,,0,,,,,,,,0,0,,,,,0,2024,2023-24,div2,Black Hawk,blackhawkcollegemoline,paytonbarton4b62,Payton Barton
-May 4,home,Elgin,W,6-2,6,2,4,win,20240504_h5ne,0,0,0,,,,0,,,,,,,,0,0,,,,,0,2024,2023-24,div2,Black Hawk,blackhawkcollegemoline,paytonbarton4b62,Payton Barton
-May 10,home,Bryant & Stratton College (WI),W,6-3,6,3,3,win,20240510_71hj,0,0,0,,,,0,,,,,,,,0,0,,,,,0,2024,2023-24,div2,Black Hawk,blackhawkcollegemoline,paytonbarton4b62,Payton Barton
+Mar 5,home,Hutchinson,W,12-7,12,7,5,win,20240305_sfwm,1,1,1,,,,1,2,,1,,2,,,1,0,,,,,5,2024,2023-24,div2,Black Hawk,blackhawkcollegemoline,paytonbarton4b62,Payton Barton
+Mar 7,home,Redlands,W,11-1,11,1,10,win,20240307_jgia,3,2,1,,,,1,,,,,1,,,1,0,,,,,4,2024,2023-24,div2,Black Hawk,blackhawkcollegemoline,paytonbarton4b62,Payton Barton
+Mar 9,home,Redlands,W,14-11,14,11,3,win,20240309_dojw,4,0,0,,,,0,,2,,,,,,0,0,,,,,4,2024,2023-24,div2,Black Hawk,blackhawkcollegemoline,paytonbarton4b62,Payton Barton
+Mar 11,home,Northwestern Oklahoma State University JV,W,12-8,12,8,4,win,20240311_29qk,1,0,0,,,,0,1,,,,,,,0,0,,,,,2,2024,2023-24,div2,Black Hawk,blackhawkcollegemoline,paytonbarton4b62,Payton Barton
+Mar 11,home,Northwestern Oklahoma State University JV,W,19-4,19,4,15,win,20240311_pblx,0,0,0,,,,0,,,,,,,,0,0,,,,,0,2024,2023-24,div2,Black Hawk,blackhawkcollegemoline,paytonbarton4b62,Payton Barton
+Apr 8,home,Northwestern Oklahoma State University JV,W,5-4,5,4,1,win,20240408_g6ty,2,0,1,1,,,1,,,,,,,,2,1,,,,,2,2024,2023-24,div2,Black Hawk,blackhawkcollegemoline,paytonbarton4b62,Payton Barton
+Apr 16,home,DFW Post Grad,W,16-1,16,1,15,win,20240416_ophu,0,0,0,,,,0,1,,,,,,,0,0,,,,,1,2024,2023-24,div2,Black Hawk,blackhawkcollegemoline,paytonbarton4b62,Payton Barton
+Apr 16,home,DFW Post Grad,W,10-0,10,0,10,win,20240416_cj74,1,1,1,,,,2,1,,,,,,,1,0,,,,,2,2024,2023-24,div2,Black Hawk,blackhawkcollegemoline,paytonbarton4b62,Payton Barton

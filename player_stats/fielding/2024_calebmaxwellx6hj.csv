@@ -1,12 +1,13 @@
 date,location,opponent,result,score,team_score,opp_score,game_score_diff,game_win_loss,game_id,TC,PO,A,E,FPCT,DP,SBA,RCS,RCS_PCT,PB,CI,season,njcaa_season,njcaa_division,team,team_id,player_id,player_name
-Feb 3,home,Chipola,W,5-3,5,3,2,win,20240203_yaac,0,0,0,0,2.0,2,2,2,9.00,1.50,1,2024,2023-24,div2,Wallace-Dothan,wallacecommunitycollegedothan,calebmaxwellx6hj,Caleb Maxwell
-Feb 20,home,Chipola,W,7-4,7,4,3,win,20240220_q553,0,0,0,0,1.0,,,,0.00,,,2024,2023-24,div2,Wallace-Dothan,wallacecommunitycollegedothan,calebmaxwellx6hj,Caleb Maxwell
-Feb 22,home,Lurleen B. Wallace,W,10-4,10,4,6,win,20240222_o4pz,0,0,0,0,2.0,5,2,2,9.00,2.50,,2024,2023-24,div2,Wallace-Dothan,wallacecommunitycollegedothan,calebmaxwellx6hj,Caleb Maxwell
-Feb 27,home,Gulf Coast State,L,11-4,11,4,7,win,20240227_ukbu,0,0,0,0,1.2,3,2,2,10.80,2.40,1,2024,2023-24,div2,Wallace-Dothan,wallacecommunitycollegedothan,calebmaxwellx6hj,Caleb Maxwell
-Mar 4,home,Andrew,W,7-4,7,4,3,win,20240304_4emw,0,1,0,0,1.2,1,,,0.00,.60,,2024,2023-24,div2,Wallace-Dothan,wallacecommunitycollegedothan,calebmaxwellx6hj,Caleb Maxwell
-Mar 12,home,Abraham Baldwin,W,9-2,9,2,7,win,20240312_knwb,0,0,0,1,2.0,2,1,1,4.50,1.00,,2024,2023-24,div2,Wallace-Dothan,wallacecommunitycollegedothan,calebmaxwellx6hj,Caleb Maxwell
-Mar 24,home,Bevill State,W,13-3,13,3,10,win,20240324_pnyj,0,0,0,0,0.2,,,,0.00,,,2024,2023-24,div2,Wallace-Dothan,wallacecommunitycollegedothan,calebmaxwellx6hj,Caleb Maxwell
-Mar 28,home,Coastal Alabama - North,L,6-1,6,1,5,win,20240328_wu5c,0,0,0,0,1.2,2,,,0.00,1.20,,2024,2023-24,div2,Wallace-Dothan,wallacecommunitycollegedothan,calebmaxwellx6hj,Caleb Maxwell
-Apr 18,home,Enterprise State,W,7-6,7,6,1,win,20240418_pdm1,0,0,0,0,0.1,,,,0.00,,,2024,2023-24,div2,Wallace-Dothan,wallacecommunitycollegedothan,calebmaxwellx6hj,Caleb Maxwell
-Apr 20,home,Enterprise State,W,12-11,12,11,1,win,20240420_pqxe,0,0,0,0,0.1,2,4,1,27.00,6.00,,2024,2023-24,div2,Wallace-Dothan,wallacecommunitycollegedothan,calebmaxwellx6hj,Caleb Maxwell
-Apr 27,home,Central Alabama,L,4-3,4,3,1,win,20240427_t66g,1,0,0,0,3.0,4,3,3,9.00,2.00,2,2024,2023-24,div2,Wallace-Dothan,wallacecommunitycollegedothan,calebmaxwellx6hj,Caleb Maxwell
+Feb 18,home,East Central (MO),L,8-5,8,5,3,win,20240218_zfi4,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Wallace-Dothan,wallacecommunitycollegedothan,calebmaxwellx6hj,Caleb Maxwell
+Mar 5,home,Hutchinson,W,12-7,12,7,5,win,20240305_sfwm,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Wallace-Dothan,wallacecommunitycollegedothan,calebmaxwellx6hj,Caleb Maxwell
+Mar 7,home,Redlands,W,11-1,11,1,10,win,20240307_jgia,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Wallace-Dothan,wallacecommunitycollegedothan,calebmaxwellx6hj,Caleb Maxwell
+Mar 9,home,Redlands,W,14-11,14,11,3,win,20240309_dojw,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Wallace-Dothan,wallacecommunitycollegedothan,calebmaxwellx6hj,Caleb Maxwell
+Mar 11,home,Northwestern Oklahoma State University JV,W,12-8,12,8,4,win,20240311_29qk,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Wallace-Dothan,wallacecommunitycollegedothan,calebmaxwellx6hj,Caleb Maxwell
+Mar 11,home,Northwestern Oklahoma State University JV,W,19-4,19,4,15,win,20240311_pblx,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Wallace-Dothan,wallacecommunitycollegedothan,calebmaxwellx6hj,Caleb Maxwell
+Mar 17,home,Allen County,L,7-6,7,6,1,win,20240317_ja90,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Wallace-Dothan,wallacecommunitycollegedothan,calebmaxwellx6hj,Caleb Maxwell
+Mar 26,home,Northeastern Oklahoma A&M,L,15-11,15,11,4,win,20240326_m1pc,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Wallace-Dothan,wallacecommunitycollegedothan,calebmaxwellx6hj,Caleb Maxwell
+Apr 8,home,Northwestern Oklahoma State University JV,W,5-4,5,4,1,win,20240408_g6ty,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Wallace-Dothan,wallacecommunitycollegedothan,calebmaxwellx6hj,Caleb Maxwell
+Apr 16,home,DFW Post Grad,W,16-1,16,1,15,win,20240416_ophu,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Wallace-Dothan,wallacecommunitycollegedothan,calebmaxwellx6hj,Caleb Maxwell
+Apr 16,home,DFW Post Grad,W,10-0,10,0,10,win,20240416_cj74,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Wallace-Dothan,wallacecommunitycollegedothan,calebmaxwellx6hj,Caleb Maxwell
+Apr 29,home,Western Oklahoma State,L,9-4,9,4,5,win,20240429_i70n,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Wallace-Dothan,wallacecommunitycollegedothan,calebmaxwellx6hj,Caleb Maxwell

@@ -1,18 +1,24 @@
 date,location,opponent,result,score,team_score,opp_score,game_score_diff,game_win_loss,game_id,GS,W,L,SV,IP,H,R,ER,ERA,BB,K,HR,season,njcaa_season,njcaa_division,team,team_id,player_id,player_name
-May 26,home,(5) Crowder,W,7-6,7,6,1,win,20240526_3ywj,1,1,0,0,7.0,12,5,5,6.43,1.71,0,5,2024,2023-24,div1,Blinn,blinncollege,laneallencjp2,Lane Allen
-May 18,home,San Jacinto,W,23-5,23,5,18,win,20240518_vxpi,1,1,0,0,7.0,6,4,3,3.86,1.00,1,6,2024,2023-24,div1,Blinn,blinncollege,laneallencjp2,Lane Allen
-May 10,home,Galveston,W,6-2,6,2,4,win,20240510_1xxa,1,1,0,0,6.0,6,1,1,1.50,1.50,3,5,2024,2023-24,div1,Blinn,blinncollege,laneallencjp2,Lane Allen
-May 3,home,Alvin,W,8-3,8,3,5,win,20240503_b0yc,1,1,0,0,5.0,9,3,2,3.60,2.00,1,4,2024,2023-24,div1,Blinn,blinncollege,laneallencjp2,Lane Allen
-Apr 27,home,Wharton County,W,10-3,10,3,7,win,20240427_pp92,1,1,0,0,7.0,8,3,2,2.57,1.29,1,7,2024,2023-24,div1,Blinn,blinncollege,laneallencjp2,Lane Allen
-Apr 19,home,Galveston,W,5-3,5,3,2,win,20240419_x7o2,1,1,0,0,5.1,8,3,3,5.06,2.25,4,8,2024,2023-24,div1,Blinn,blinncollege,laneallencjp2,Lane Allen
-Apr 13,home,San Jacinto,L,8-3,8,3,5,win,20240413_de2g,1,0,0,0,6.0,5,3,1,1.50,1.00,1,2,2024,2023-24,div1,Blinn,blinncollege,laneallencjp2,Lane Allen
-Apr 6,home,Coastal Bend,W,5-4,5,4,1,win,20240406_p8pm,1,0,0,0,5.0,4,4,1,1.80,1.00,1,3,2024,2023-24,div1,Blinn,blinncollege,laneallencjp2,Lane Allen
-Mar 29,home,Alvin,W,14-4,14,4,10,win,20240329_6mah,1,1,0,0,5.0,6,4,3,5.40,1.20,0,4,2024,2023-24,div1,Blinn,blinncollege,laneallencjp2,Lane Allen
-Mar 24,home,Wharton County,L,5-3,5,3,2,win,20240324_b0xp,1,0,0,0,5.1,4,3,3,5.06,1.31,3,5,2024,2023-24,div1,Blinn,blinncollege,laneallencjp2,Lane Allen
-Mar 15,home,Galveston,W,8-7,8,7,1,win,20240315_0v8o,1,0,0,0,4.0,6,3,2,4.50,2.00,2,2,2024,2023-24,div1,Blinn,blinncollege,laneallencjp2,Lane Allen
-Mar 9,home,San Jacinto,L,4-2,4,2,2,win,20240309_xcps,1,0,1,0,7.2,8,4,4,4.70,1.04,0,4,2024,2023-24,div1,Blinn,blinncollege,laneallencjp2,Lane Allen
-Mar 2,home,Coastal Bend,W,11-3,11,3,8,win,20240302_0wml,1,1,0,0,6.0,4,3,3,4.50,.83,1,7,2024,2023-24,div1,Blinn,blinncollege,laneallencjp2,Lane Allen
-Feb 24,home,Grayson,W,5-4,5,4,1,win,20240224_phpa,1,0,0,0,5.0,4,4,0,0.00,.80,0,3,2024,2023-24,div1,Blinn,blinncollege,laneallencjp2,Lane Allen
-Feb 18,home,McLennan,W,3-2,3,2,1,win,20240218_6uos,1,0,0,0,5.0,2,0,0,0.00,1.00,3,3,2024,2023-24,div1,Blinn,blinncollege,laneallencjp2,Lane Allen
-Feb 9,home,McLennan,L,9-8,9,8,1,win,20240209_rij8,1,0,0,0,3.1,6,5,4,10.80,2.40,2,3,2024,2023-24,div1,Blinn,blinncollege,laneallencjp2,Lane Allen
-Jan 29,home,Temple,L,5-3,5,3,2,win,20240129_40du,1,0,1,0,3.0,6,5,1,3.00,2.00,0,5,2024,2023-24,div1,Blinn,blinncollege,laneallencjp2,Lane Allen
+May 17,home,San Jacinto,L,6-5,6,5,1,win,20240517_tfad,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div1,Blinn,blinncollege,laneallencjp2,Lane Allen
+May 11,home,Galveston,L,7-3,7,3,4,win,20240511_xu5u,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div1,Blinn,blinncollege,laneallencjp2,Lane Allen
+May 3,home,Alvin,W,8-1,8,1,7,win,20240503_90mk,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div1,Blinn,blinncollege,laneallencjp2,Lane Allen
+Apr 19,home,Galveston,L,9-6,9,6,3,win,20240419_2zat,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div1,Blinn,blinncollege,laneallencjp2,Lane Allen
+Apr 18,home,Galveston,W,12-7,12,7,5,win,20240418_bcte,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div1,Blinn,blinncollege,laneallencjp2,Lane Allen
+Apr 16,home,Galveston,W,8-3,8,3,5,win,20240416_y41g,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div1,Blinn,blinncollege,laneallencjp2,Lane Allen
+Apr 13,home,San Jacinto,L,8-3,8,3,5,win,20240413_de2g,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div1,Blinn,blinncollege,laneallencjp2,Lane Allen
+Apr 11,home,San Jacinto,W,18-8,18,8,10,win,20240411_m3l2,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div1,Blinn,blinncollege,laneallencjp2,Lane Allen
+Apr 6,home,Coastal Bend,W,14-4,14,4,10,win,20240406_4fna,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div1,Blinn,blinncollege,laneallencjp2,Lane Allen
+Mar 15,home,Galveston,W,8-7,8,7,1,win,20240315_0v8o,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div1,Blinn,blinncollege,laneallencjp2,Lane Allen
+Mar 13,home,Galveston,W,9-7,9,7,2,win,20240313_t9l0,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div1,Blinn,blinncollege,laneallencjp2,Lane Allen
+Mar 11,home,Navarro,W,21-10,21,10,11,win,20240311_7vm1,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div1,Blinn,blinncollege,laneallencjp2,Lane Allen
+Mar 7,home,San Jacinto,W,23-5,23,5,18,win,20240307_t4kg,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div1,Blinn,blinncollege,laneallencjp2,Lane Allen
+Feb 24,home,Grayson,W,8-6,8,6,2,win,20240224_b083,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div1,Blinn,blinncollege,laneallencjp2,Lane Allen
+Feb 24,home,Grayson,W,5-4,5,4,1,win,20240224_phpa,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div1,Blinn,blinncollege,laneallencjp2,Lane Allen
+Feb 23,home,Grayson,L,11-6,11,6,5,win,20240223_agu1,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div1,Blinn,blinncollege,laneallencjp2,Lane Allen
+Feb 23,home,Grayson,L,2-1,2,1,1,win,20240223_j8an,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div1,Blinn,blinncollege,laneallencjp2,Lane Allen
+Feb 18,home,McLennan,W,3-2,3,2,1,win,20240218_6uos,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div1,Blinn,blinncollege,laneallencjp2,Lane Allen
+Feb 13,home,Weatherford,L,9-5,9,5,4,win,20240213_ko5p,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div1,Blinn,blinncollege,laneallencjp2,Lane Allen
+Feb 9,home,McLennan,L,9-8,9,8,1,win,20240209_rij8,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div1,Blinn,blinncollege,laneallencjp2,Lane Allen
+Feb 2,home,Baton Rouge,W,14-1,14,1,13,win,20240202_t0dp,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div1,Blinn,blinncollege,laneallencjp2,Lane Allen
+Feb 2,home,Baton Rouge,W,16-8,16,8,8,win,20240202_uj7r,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div1,Blinn,blinncollege,laneallencjp2,Lane Allen
+Jan 29,home,Temple,L,5-3,5,3,2,win,20240129_40du,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div1,Blinn,blinncollege,laneallencjp2,Lane Allen

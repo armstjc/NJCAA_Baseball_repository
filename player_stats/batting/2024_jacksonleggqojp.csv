@@ -1,27 +1,9 @@
 date,location,opponent,result,score,team_score,opp_score,game_score_diff,game_win_loss,game_id,AB,R,H,2B,3B,HR,RBI,BB,K,SB,CS,HBP,SF,SH,TB,XBH,HDP,GO,FO,GO/FO,PA,season,njcaa_season,njcaa_division,team,team_id,player_id,player_name
-Jan 27,home,Dallas College - North Lake,W,14-1,14,1,13,win,20240127_tnp6,1,0,0,,,,0,,,,,,,,0,0,,,,,1,2024,2023-24,div2,LSU Eunice,louisianastateuniversityeunice,jacksonleggqojp,Jackson Legg
-Jan 28,home,Dallas College - North Lake,W,13-4,13,4,9,win,20240128_o6dt,0,0,0,,,,0,,,,,1,,,0,0,,,,,1,2024,2023-24,div2,LSU Eunice,louisianastateuniversityeunice,jacksonleggqojp,Jackson Legg
-Feb 2,home,National Park College,W,7-1,7,1,6,win,20240202_aj7r,0,1,0,,,,0,,,1,,,,,0,0,,,,,0,2024,2023-24,div2,LSU Eunice,louisianastateuniversityeunice,jacksonleggqojp,Jackson Legg
-Feb 4,home,National Park College,W,10-1,10,1,9,win,20240204_oag2,1,0,0,,,,1,,,,,,,,0,0,,,,,1,2024,2023-24,div2,LSU Eunice,louisianastateuniversityeunice,jacksonleggqojp,Jackson Legg
-Feb 4,home,National Park College,W,10-0,10,0,10,win,20240204_om4m,0,1,0,,,,0,,,,,,,,0,0,,,,,0,2024,2023-24,div2,LSU Eunice,louisianastateuniversityeunice,jacksonleggqojp,Jackson Legg
-Feb 8,home,Monroe College,W,12-7,12,7,5,win,20240208_7txy,1,1,1,,,,0,,,,,,,,1,0,,,,,1,2024,2023-24,div2,LSU Eunice,louisianastateuniversityeunice,jacksonleggqojp,Jackson Legg
-Feb 17,home,Kellogg,W,20-4,20,4,16,win,20240217_ypeq,0,1,0,,,,0,,,,,,,,0,0,,,,,0,2024,2023-24,div2,LSU Eunice,louisianastateuniversityeunice,jacksonleggqojp,Jackson Legg
-Feb 18,home,Kellogg,W,9-0,9,0,9,win,20240218_746k,0,0,0,,,,0,,,,,,,,0,0,,,,,0,2024,2023-24,div2,LSU Eunice,louisianastateuniversityeunice,jacksonleggqojp,Jackson Legg
-Feb 24,home,Southern Arkansas University Tech,W,17-5,17,5,12,win,20240224_gh42,1,1,1,,,,1,1,,1,,,,,1,0,,,,,2,2024,2023-24,div2,LSU Eunice,louisianastateuniversityeunice,jacksonleggqojp,Jackson Legg
-Mar 1,home,Garrett,W,11-1,11,1,10,win,20240301_2p1k,1,1,1,1,,,0,,,,,,,,2,1,,,,,1,2024,2023-24,div2,LSU Eunice,louisianastateuniversityeunice,jacksonleggqojp,Jackson Legg
-Mar 2,home,Garrett,W,13-1,13,1,12,win,20240302_5uyd,0,0,0,,,,0,,,,,1,,,0,0,,,,,1,2024,2023-24,div2,LSU Eunice,louisianastateuniversityeunice,jacksonleggqojp,Jackson Legg
-Mar 3,home,Garrett,W,11-1,11,1,10,win,20240303_ga9g,0,0,0,,,,0,,,,,,,,0,0,,,,,0,2024,2023-24,div2,LSU Eunice,louisianastateuniversityeunice,jacksonleggqojp,Jackson Legg
-Mar 14,home,North Iowa Area,W,17-2,17,2,15,win,20240314_obto,2,0,0,,,,0,,1,,,,,,0,0,,,,,2,2024,2023-24,div2,LSU Eunice,louisianastateuniversityeunice,jacksonleggqojp,Jackson Legg
-Mar 23,home,Central Alabama,W,14-4,14,4,10,win,20240323_z1xt,0,1,0,,,,0,,,,,,,,0,0,,,,,0,2024,2023-24,div2,LSU Eunice,louisianastateuniversityeunice,jacksonleggqojp,Jackson Legg
-Mar 27,home,South Arkansas,W,10-4,10,4,6,win,20240327_0b41,1,0,0,,,,0,,,,,1,,,0,0,,,,,2,2024,2023-24,div2,LSU Eunice,louisianastateuniversityeunice,jacksonleggqojp,Jackson Legg
-Mar 29,home,Southeast Arkansas College,W,11-2,11,2,9,win,20240329_q9d3,0,0,0,,,,0,,,,1,,,,0,0,,,,,0,2024,2023-24,div2,LSU Eunice,louisianastateuniversityeunice,jacksonleggqojp,Jackson Legg
-Mar 30,home,Southeast Arkansas College,W,10-0,10,0,10,win,20240330_l8sz,0,1,0,,,,0,1,,,,,,,0,0,,,,,1,2024,2023-24,div2,LSU Eunice,louisianastateuniversityeunice,jacksonleggqojp,Jackson Legg
-Mar 30,home,Southeast Arkansas College,W,7-3,7,3,4,win,20240330_usd0,2,0,0,,,,0,,,,,,,,0,0,,,,,2,2024,2023-24,div2,LSU Eunice,louisianastateuniversityeunice,jacksonleggqojp,Jackson Legg
-Apr 3,home,Centenary College,W,12-1,12,1,11,win,20240403_wzk7,2,0,0,,,,0,,,,,,,,0,0,,,,,2,2024,2023-24,div2,LSU Eunice,louisianastateuniversityeunice,jacksonleggqojp,Jackson Legg
-Apr 13,home,Southeast Arkansas College,W,10-1,10,1,9,win,20240413_mbp4,0,0,0,,,,0,,,,,,,,0,0,,,,,0,2024,2023-24,div2,LSU Eunice,louisianastateuniversityeunice,jacksonleggqojp,Jackson Legg
-Apr 14,home,Southeast Arkansas College,W,10-0,10,0,10,win,20240414_kbi1,1,1,1,1,,,1,,,1,,,,,2,1,,,,,1,2024,2023-24,div2,LSU Eunice,louisianastateuniversityeunice,jacksonleggqojp,Jackson Legg
-Apr 27,home,Delgado,W,10-0,10,0,10,win,20240427_03i4,1,0,0,,,,0,,,,,,,,0,0,,,1,,1,2024,2023-24,div2,LSU Eunice,louisianastateuniversityeunice,jacksonleggqojp,Jackson Legg
-May 4,home,Tyler,W,8-7,8,7,1,win,20240504_lfdy,2,1,0,,,,0,,1,,,,,,0,0,,,,,2,2024,2023-24,div2,LSU Eunice,louisianastateuniversityeunice,jacksonleggqojp,Jackson Legg
-May 5,home,Tyler,W,9-1,9,1,8,win,20240505_q5ch,0,0,0,,,,0,,,,,,,,0,0,,,,,0,2024,2023-24,div2,LSU Eunice,louisianastateuniversityeunice,jacksonleggqojp,Jackson Legg
-May 5,home,Tyler,W,3-2,3,2,1,win,20240505_yvfw,3,0,0,,,,0,,,,,,,,0,0,,1,2,0.50,3,2024,2023-24,div2,LSU Eunice,louisianastateuniversityeunice,jacksonleggqojp,Jackson Legg
-May 17,home,Jones,W,7-2,7,2,5,win,20240517_s4am,1,1,1,,,,1,,,,,,,,1,0,,,,,1,2024,2023-24,div2,LSU Eunice,louisianastateuniversityeunice,jacksonleggqojp,Jackson Legg
+Mar 5,home,Hutchinson,W,12-7,12,7,5,win,20240305_sfwm,1,1,1,,,,1,2,,1,,2,,,1,0,,,,,5,2024,2023-24,div2,LSU Eunice,louisianastateuniversityeunice,jacksonleggqojp,Jackson Legg
+Mar 7,home,Redlands,W,11-1,11,1,10,win,20240307_jgia,3,2,1,,,,1,,,,,1,,,1,0,,,,,4,2024,2023-24,div2,LSU Eunice,louisianastateuniversityeunice,jacksonleggqojp,Jackson Legg
+Mar 9,home,Redlands,W,14-11,14,11,3,win,20240309_dojw,4,0,0,,,,0,,2,,,,,,0,0,,,,,4,2024,2023-24,div2,LSU Eunice,louisianastateuniversityeunice,jacksonleggqojp,Jackson Legg
+Mar 11,home,Northwestern Oklahoma State University JV,W,12-8,12,8,4,win,20240311_29qk,1,0,0,,,,0,1,,,,,,,0,0,,,,,2,2024,2023-24,div2,LSU Eunice,louisianastateuniversityeunice,jacksonleggqojp,Jackson Legg
+Mar 11,home,Northwestern Oklahoma State University JV,W,19-4,19,4,15,win,20240311_pblx,0,0,0,,,,0,,,,,,,,0,0,,,,,0,2024,2023-24,div2,LSU Eunice,louisianastateuniversityeunice,jacksonleggqojp,Jackson Legg
+Apr 8,home,Northwestern Oklahoma State University JV,W,5-4,5,4,1,win,20240408_g6ty,2,0,1,1,,,1,,,,,,,,2,1,,,,,2,2024,2023-24,div2,LSU Eunice,louisianastateuniversityeunice,jacksonleggqojp,Jackson Legg
+Apr 16,home,DFW Post Grad,W,16-1,16,1,15,win,20240416_ophu,0,0,0,,,,0,1,,,,,,,0,0,,,,,1,2024,2023-24,div2,LSU Eunice,louisianastateuniversityeunice,jacksonleggqojp,Jackson Legg
+Apr 16,home,DFW Post Grad,W,10-0,10,0,10,win,20240416_cj74,1,1,1,,,,2,1,,,,,,,1,0,,,,,2,2024,2023-24,div2,LSU Eunice,louisianastateuniversityeunice,jacksonleggqojp,Jackson Legg

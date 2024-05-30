@@ -1,14 +1,9 @@
 date,location,opponent,result,score,team_score,opp_score,game_score_diff,game_win_loss,game_id,AB,R,H,2B,3B,HR,RBI,BB,K,SB,CS,HBP,SF,SH,TB,XBH,HDP,GO,FO,GO/FO,PA,season,njcaa_season,njcaa_division,team,team_id,player_id,player_name
-Jan 26,home,Abraham Baldwin,W,9-1,9,1,8,win,20240126_mc8z,0,0,0,,,,0,,,,,,,,0,0,,,,,0,2024,2023-24,div2,St. Johns River State,stjohnsriverstatecollege,aaronpotterex1h,Aaron Potter
-Feb 2,home,Dyersburg State,W,5-2,5,2,3,win,20240202_z8ox,0,0,0,,,,0,,,,,,,,0,0,,,,,0,2024,2023-24,div2,St. Johns River State,stjohnsriverstatecollege,aaronpotterex1h,Aaron Potter
-Feb 16,home,South Georgia State,W,4-0,4,0,4,win,20240216_rnbv,0,0,0,,,,0,,,,,,,,0,0,,,,,0,2024,2023-24,div2,St. Johns River State,stjohnsriverstatecollege,aaronpotterex1h,Aaron Potter
-Mar 1,home,Florida State Jacksonville,W,10-0,10,0,10,win,20240301_7ezw,0,0,0,,,,0,,,,,,,,0,0,,,,,0,2024,2023-24,div2,St. Johns River State,stjohnsriverstatecollege,aaronpotterex1h,Aaron Potter
-Mar 9,home,Lake-Sumter State,W,11-3,11,3,8,win,20240309_607r,0,0,0,,,,0,,,,,,,,0,0,,,,,0,2024,2023-24,div2,St. Johns River State,stjohnsriverstatecollege,aaronpotterex1h,Aaron Potter
-Mar 15,home,South Florida State,W,21-11,21,11,10,win,20240315_bhn7,0,0,0,,,,0,,,,,,,,0,0,,,,,0,2024,2023-24,div2,St. Johns River State,stjohnsriverstatecollege,aaronpotterex1h,Aaron Potter
-Mar 29,home,Palm Beach State,W,6-5,6,5,1,win,20240329_n1dx,0,0,0,,,,0,,,,,,,,0,0,,,,,0,2024,2023-24,div2,St. Johns River State,stjohnsriverstatecollege,aaronpotterex1h,Aaron Potter
-Apr 5,home,Florida State Jacksonville,W,10-0,10,0,10,win,20240405_wwof,0,0,0,,,,0,,,,,,,,0,0,,,,,0,2024,2023-24,div2,St. Johns River State,stjohnsriverstatecollege,aaronpotterex1h,Aaron Potter
-Apr 12,home,Lake-Sumter State,W,11-7,11,7,4,win,20240412_j75l,0,0,0,,,,0,,,,,,,,0,0,,,,,0,2024,2023-24,div2,St. Johns River State,stjohnsriverstatecollege,aaronpotterex1h,Aaron Potter
-Apr 19,home,South Florida State,W,14-2,14,2,12,win,20240419_y2uz,0,0,0,,,,0,,,,,,,,0,0,,,,,0,2024,2023-24,div2,St. Johns River State,stjohnsriverstatecollege,aaronpotterex1h,Aaron Potter
-May 2,home,Palm Beach State,W,12-2,12,2,10,win,20240502_2iko,0,0,0,,,,0,,,,,,,,0,0,,,,,0,2024,2023-24,div2,St. Johns River State,stjohnsriverstatecollege,aaronpotterex1h,Aaron Potter
-May 5,home,South Florida State,W,11-8,11,8,3,win,20240505_3qmb,0,0,0,,,,0,,,,,,,,0,0,,,,,0,2024,2023-24,div2,St. Johns River State,stjohnsriverstatecollege,aaronpotterex1h,Aaron Potter
-May 25,home,(12) Westchester,W,12-0,12,0,12,win,20240525_5x9y,0,0,0,,,,0,,,,,,,,0,0,,,,,0,2024,2023-24,div2,St. Johns River State,stjohnsriverstatecollege,aaronpotterex1h,Aaron Potter
+Mar 5,home,Hutchinson,W,12-7,12,7,5,win,20240305_sfwm,1,1,1,,,,1,2,,1,,2,,,1,0,,,,,5,2024,2023-24,div2,St. Johns River State,stjohnsriverstatecollege,aaronpotterex1h,Aaron Potter
+Mar 7,home,Redlands,W,11-1,11,1,10,win,20240307_jgia,3,2,1,,,,1,,,,,1,,,1,0,,,,,4,2024,2023-24,div2,St. Johns River State,stjohnsriverstatecollege,aaronpotterex1h,Aaron Potter
+Mar 9,home,Redlands,W,14-11,14,11,3,win,20240309_dojw,4,0,0,,,,0,,2,,,,,,0,0,,,,,4,2024,2023-24,div2,St. Johns River State,stjohnsriverstatecollege,aaronpotterex1h,Aaron Potter
+Mar 11,home,Northwestern Oklahoma State University JV,W,12-8,12,8,4,win,20240311_29qk,1,0,0,,,,0,1,,,,,,,0,0,,,,,2,2024,2023-24,div2,St. Johns River State,stjohnsriverstatecollege,aaronpotterex1h,Aaron Potter
+Mar 11,home,Northwestern Oklahoma State University JV,W,19-4,19,4,15,win,20240311_pblx,0,0,0,,,,0,,,,,,,,0,0,,,,,0,2024,2023-24,div2,St. Johns River State,stjohnsriverstatecollege,aaronpotterex1h,Aaron Potter
+Apr 8,home,Northwestern Oklahoma State University JV,W,5-4,5,4,1,win,20240408_g6ty,2,0,1,1,,,1,,,,,,,,2,1,,,,,2,2024,2023-24,div2,St. Johns River State,stjohnsriverstatecollege,aaronpotterex1h,Aaron Potter
+Apr 16,home,DFW Post Grad,W,16-1,16,1,15,win,20240416_ophu,0,0,0,,,,0,1,,,,,,,0,0,,,,,1,2024,2023-24,div2,St. Johns River State,stjohnsriverstatecollege,aaronpotterex1h,Aaron Potter
+Apr 16,home,DFW Post Grad,W,10-0,10,0,10,win,20240416_cj74,1,1,1,,,,2,1,,,,,,,1,0,,,,,2,2024,2023-24,div2,St. Johns River State,stjohnsriverstatecollege,aaronpotterex1h,Aaron Potter

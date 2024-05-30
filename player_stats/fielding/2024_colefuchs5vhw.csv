@@ -1,28 +1,13 @@
 date,location,opponent,result,score,team_score,opp_score,game_score_diff,game_win_loss,game_id,TC,PO,A,E,FPCT,DP,SBA,RCS,RCS_PCT,PB,CI,season,njcaa_season,njcaa_division,team,team_id,player_id,player_name
-Jan 28,home,South Arkansas,L,14-6,14,6,8,win,20240128_f4od,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div3,St. Cloud Tech,stcloudtechnicalcommunitycollege,colefuchs5vhw,Cole Fuchs
-Feb 3,home,Coahoma,W,22-2,22,2,20,win,20240203_huav,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div3,St. Cloud Tech,stcloudtechnicalcommunitycollege,colefuchs5vhw,Cole Fuchs
-Feb 9,home,Dallas College - Eastfield,L,12-0,12,0,12,win,20240209_uazs,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div3,St. Cloud Tech,stcloudtechnicalcommunitycollege,colefuchs5vhw,Cole Fuchs
-Feb 9,home,Dallas College - Eastfield,L,9-2,9,2,7,win,20240209_xn83,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div3,St. Cloud Tech,stcloudtechnicalcommunitycollege,colefuchs5vhw,Cole Fuchs
-Feb 14,home,Mission University JV,W,9-8,9,8,1,win,20240214_jdwh,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div3,St. Cloud Tech,stcloudtechnicalcommunitycollege,colefuchs5vhw,Cole Fuchs
-Feb 14,home,Mission University JV,L,8-3,8,3,5,win,20240214_vx4x,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div3,St. Cloud Tech,stcloudtechnicalcommunitycollege,colefuchs5vhw,Cole Fuchs
-Feb 18,home,Lincoln Land,L,10-3,10,3,7,win,20240218_uq4u,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div3,St. Cloud Tech,stcloudtechnicalcommunitycollege,colefuchs5vhw,Cole Fuchs
-Feb 20,home,Hendrix College JV,W,4-3,4,3,1,win,20240220_vt04,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div3,St. Cloud Tech,stcloudtechnicalcommunitycollege,colefuchs5vhw,Cole Fuchs
-Feb 24,home,North Central Missouri,W,3-2,3,2,1,win,20240224_e3y3,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div3,St. Cloud Tech,stcloudtechnicalcommunitycollege,colefuchs5vhw,Cole Fuchs
-Feb 26,home,Western Tech,W,12-1,12,1,11,win,20240226_07o5,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div3,St. Cloud Tech,stcloudtechnicalcommunitycollege,colefuchs5vhw,Cole Fuchs
-Mar 1,home,Western Tech,W,7-2,7,2,5,win,20240301_39h3,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div3,St. Cloud Tech,stcloudtechnicalcommunitycollege,colefuchs5vhw,Cole Fuchs
-Mar 2,home,Western Tech,W,5-2,5,2,3,win,20240302_2up5,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div3,St. Cloud Tech,stcloudtechnicalcommunitycollege,colefuchs5vhw,Cole Fuchs
-Mar 5,home,UA Rich Mountain,L,8-3,8,3,5,win,20240305_bn3b,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div3,St. Cloud Tech,stcloudtechnicalcommunitycollege,colefuchs5vhw,Cole Fuchs
-Mar 9,home,Southeast Arkansas College,W,6-5,6,5,1,win,20240309_q3vb,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div3,St. Cloud Tech,stcloudtechnicalcommunitycollege,colefuchs5vhw,Cole Fuchs
-Mar 10,home,Southeast Arkansas College,W,4-1,4,1,3,win,20240310_aur9,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div3,St. Cloud Tech,stcloudtechnicalcommunitycollege,colefuchs5vhw,Cole Fuchs
-Mar 12,home,CBC JV,W,10-0,10,0,10,win,20240312_9ywg,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div3,St. Cloud Tech,stcloudtechnicalcommunitycollege,colefuchs5vhw,Cole Fuchs
-Mar 16,home,East Central (MO),L,7-3,7,3,4,win,20240316_xixo,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div3,St. Cloud Tech,stcloudtechnicalcommunitycollege,colefuchs5vhw,Cole Fuchs
-Mar 16,home,East Central (MO),L,9-8,9,8,1,win,20240316_jbj5,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div3,St. Cloud Tech,stcloudtechnicalcommunitycollege,colefuchs5vhw,Cole Fuchs
-Mar 17,home,East Central (MO),W,14-11,14,11,3,win,20240317_m6v2,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div3,St. Cloud Tech,stcloudtechnicalcommunitycollege,colefuchs5vhw,Cole Fuchs
-Mar 20,home,Mission University JV,W,9-6,9,6,3,win,20240320_84th,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div3,St. Cloud Tech,stcloudtechnicalcommunitycollege,colefuchs5vhw,Cole Fuchs
-Mar 23,home,Arkansas State University - Three Rivers,L,7-4,7,4,3,win,20240323_02k8,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div3,St. Cloud Tech,stcloudtechnicalcommunitycollege,colefuchs5vhw,Cole Fuchs
-Mar 23,home,Arkansas State University - Three Rivers,W,13-3,13,3,10,win,20240323_f5t0,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div3,St. Cloud Tech,stcloudtechnicalcommunitycollege,colefuchs5vhw,Cole Fuchs
-Apr 1,home,Hendrix College JV,L,7-4,7,4,3,win,20240401_nzsl,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div3,St. Cloud Tech,stcloudtechnicalcommunitycollege,colefuchs5vhw,Cole Fuchs
-Apr 6,home,Southeast Arkansas College,W,7-3,7,3,4,win,20240406_r0pn,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div3,St. Cloud Tech,stcloudtechnicalcommunitycollege,colefuchs5vhw,Cole Fuchs
-May 6,home,Pearl River,L,11-4,11,4,7,win,20240506_y5ia,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div3,St. Cloud Tech,stcloudtechnicalcommunitycollege,colefuchs5vhw,Cole Fuchs
-May 17,home,Dallas College - Eastfield,L,13-3,13,3,10,win,20240517_0n1c,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div3,St. Cloud Tech,stcloudtechnicalcommunitycollege,colefuchs5vhw,Cole Fuchs
-May 18,home,Dallas College - Brookhaven,W,17-16,17,16,1,win,20240518_atvv,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div3,St. Cloud Tech,stcloudtechnicalcommunitycollege,colefuchs5vhw,Cole Fuchs
+Mar 2,home,Lake County,L,7-3,7,3,4,win,20240302_cew6,1,0,1,0,3.0,6,5,4,12.00,3.00,3,2024,2023-24,div3,St. Cloud Tech,stcloudtechnicalcommunitycollege,colefuchs5vhw,Cole Fuchs
+Mar 6,home,Penn State Greater Allegheny,W,13-8,13,8,5,win,20240306_bbbr,0,0,0,0,3.0,2,1,1,3.00,1.00,1,2024,2023-24,div3,St. Cloud Tech,stcloudtechnicalcommunitycollege,colefuchs5vhw,Cole Fuchs
+Apr 10,home,Alexandria Tech,L,5-4,5,4,1,win,20240410_k2kv,1,0,0,0,6.0,6,3,1,1.50,1.17,1,2024,2023-24,div3,St. Cloud Tech,stcloudtechnicalcommunitycollege,colefuchs5vhw,Cole Fuchs
+Apr 14,home,Ridgewater,W,5-3,5,3,2,win,20240414_rdlg,0,1,0,0,2.0,1,1,1,4.50,.50,,2024,2023-24,div3,St. Cloud Tech,stcloudtechnicalcommunitycollege,colefuchs5vhw,Cole Fuchs
+Apr 17,home,Alexandria Tech,W,8-6,8,6,2,win,20240417_yeqj,0,1,0,0,2.2,1,,,0.00,.38,,2024,2023-24,div3,St. Cloud Tech,stcloudtechnicalcommunitycollege,colefuchs5vhw,Cole Fuchs
+Apr 21,home,Anoka-Ramsey,W,10-0,10,0,10,win,20240421_uste,1,0,0,0,5.0,3,0,0,0.00,1.00,2,2024,2023-24,div3,St. Cloud Tech,stcloudtechnicalcommunitycollege,colefuchs5vhw,Cole Fuchs
+May 1,home,Central Lakes,W,12-9,12,9,3,win,20240501_fc93,1,0,0,0,3.1,9,8,5,13.50,3.30,2,2024,2023-24,div3,St. Cloud Tech,stcloudtechnicalcommunitycollege,colefuchs5vhw,Cole Fuchs
+May 9,home,Riverland,W,8-4,8,4,4,win,20240509_6lon,0,0,0,0,3.0,1,,,0.00,.33,,2024,2023-24,div3,St. Cloud Tech,stcloudtechnicalcommunitycollege,colefuchs5vhw,Cole Fuchs
+May 10,home,Rochester,W,8-6,8,6,2,win,20240510_vt17,0,0,0,1,1.0,2,2,2,18.00,3.00,1,2024,2023-24,div3,St. Cloud Tech,stcloudtechnicalcommunitycollege,colefuchs5vhw,Cole Fuchs
+May 17,home,Century,W,15-8,15,8,7,win,20240517_bpcg,0,0,0,0,3.0,2,,,0.00,1.00,1,2024,2023-24,div3,St. Cloud Tech,stcloudtechnicalcommunitycollege,colefuchs5vhw,Cole Fuchs
+May 18,home,Century,W,24-22,24,22,2,win,20240518_8xfu,0,0,0,0,0.1,6,6,5,135.00,21.00,1,2024,2023-24,div3,St. Cloud Tech,stcloudtechnicalcommunitycollege,colefuchs5vhw,Cole Fuchs
+May 26,home,(7) DuPage,L,6-3,6,3,3,win,20240526_0dyz,0,0,0,0,2.0,3,,,0.00,2.00,1,2024,2023-24,div3,St. Cloud Tech,stcloudtechnicalcommunitycollege,colefuchs5vhw,Cole Fuchs

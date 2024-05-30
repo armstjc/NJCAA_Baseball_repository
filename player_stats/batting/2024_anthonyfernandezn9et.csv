@@ -1,8 +1,34 @@
 date,location,opponent,result,score,team_score,opp_score,game_score_diff,game_win_loss,game_id,AB,R,H,2B,3B,HR,RBI,BB,K,SB,CS,HBP,SF,SH,TB,XBH,HDP,GO,FO,GO/FO,PA,season,njcaa_season,njcaa_division,team,team_id,player_id,player_name
-Feb 6,home,Copiah-Lincoln,W,22-9,22,9,13,win,20240206_854u,0,0,0,,,,0,,,,,,,,0,0,,,,,0,2024,2023-24,div1,Monroe College,monroecollege,anthonyfernandezn9et,Anthony Fernandez
-Mar 3,home,Pensacola State,W,11-6,11,6,5,win,20240303_a9ws,0,0,0,,,,0,,,,,,,,0,0,,,,,0,2024,2023-24,div1,Monroe College,monroecollege,anthonyfernandezn9et,Anthony Fernandez
-Mar 10,home,Triton,W,7-2,7,2,5,win,20240310_y98o,0,0,0,,,,0,,,,,,,,0,0,,,,,0,2024,2023-24,div1,Monroe College,monroecollege,anthonyfernandezn9et,Anthony Fernandez
-Mar 16,home,Massasoit,W,6-2,6,2,4,win,20240316_llsc,0,0,0,,,,0,,,,,,,,0,0,,,,,0,2024,2023-24,div1,Monroe College,monroecollege,anthonyfernandezn9et,Anthony Fernandez
-Mar 24,home,Nunez,W,14-4,14,4,10,win,20240324_sfs1,0,0,0,,,,0,,,,,,,,0,0,,,,,0,2024,2023-24,div1,Monroe College,monroecollege,anthonyfernandezn9et,Anthony Fernandez
-Apr 2,home,John Melvin University,W,8-7,8,7,1,win,20240402_lxtx,0,0,0,,,,0,,,,,,,,0,0,,,,,0,2024,2023-24,div1,Monroe College,monroecollege,anthonyfernandezn9et,Anthony Fernandez
-Apr 28,home,LSU Eunice,W,5-2,5,2,3,win,20240428_6a4p,0,0,0,,,,0,,,,,,,,0,0,,,,,0,2024,2023-24,div1,Monroe College,monroecollege,anthonyfernandezn9et,Anthony Fernandez
+Feb 18,home,Alvin,W,13-1,13,1,12,win,20240218_z62s,4,1,0,,,,1,1,1,,,,,,0,0,1,2,1,2.00,5,2024,2023-24,div1,Monroe College,monroecollege,anthonyfernandezn9et,Anthony Fernandez
+Feb 25,home,Florence-Darlington Tech,W,6-3,6,3,3,win,20240225_pufd,3,1,1,1,,,0,,1,,,,,,2,1,,1,,,3,2024,2023-24,div1,Monroe College,monroecollege,anthonyfernandezn9et,Anthony Fernandez
+Mar 3,home,UConn Avery Point,W,3-2,3,2,1,win,20240303_66jk,3,0,1,,1,,1,,,,,,,,3,1,,,1,,3,2024,2023-24,div1,Monroe College,monroecollege,anthonyfernandezn9et,Anthony Fernandez
+Mar 3,home,UConn Avery Point,W,8-5,8,5,3,win,20240303_sv2a,3,1,1,,,,0,1,,,,,,,1,0,1,1,1,1.00,4,2024,2023-24,div1,Monroe College,monroecollege,anthonyfernandezn9et,Anthony Fernandez
+Mar 4,home,Rockland,W,8-0,8,0,8,win,20240304_9kph,2,1,1,,,,1,2,,,,,,,1,0,1,,1,,4,2024,2023-24,div1,Monroe College,monroecollege,anthonyfernandezn9et,Anthony Fernandez
+Mar 8,home,Mercer County,W,4-2,4,2,2,win,20240308_d4cp,2,0,1,,,,0,,,,,1,,,1,0,,,1,,3,2024,2023-24,div1,Monroe College,monroecollege,anthonyfernandezn9et,Anthony Fernandez
+Mar 8,home,Mercer County,W,7-0,7,0,7,win,20240308_m9mc,3,1,1,,,,2,,1,,,,,,1,0,,1,,,3,2024,2023-24,div1,Monroe College,monroecollege,anthonyfernandezn9et,Anthony Fernandez
+Mar 10,home,Mercer County,W,5-4,5,4,1,win,20240310_6jae,3,1,0,,,,2,,,,,,1,,0,0,,,2,,4,2024,2023-24,div1,Monroe College,monroecollege,anthonyfernandezn9et,Anthony Fernandez
+Mar 10,home,Mercer County,W,8-5,8,5,3,win,20240310_ga2z,3,0,1,,,,1,1,,,,,,,1,0,,1,1,1.00,4,2024,2023-24,div1,Monroe College,monroecollege,anthonyfernandezn9et,Anthony Fernandez
+Mar 12,home,Sullivan County,W,8-4,8,4,4,win,20240312_syav,4,0,0,,,,0,,1,,,,,,0,0,1,2,1,2.00,4,2024,2023-24,div1,Monroe College,monroecollege,anthonyfernandezn9et,Anthony Fernandez
+Mar 16,home,Delaware Tech,W,11-0,11,0,11,win,20240316_c53p,3,1,1,,,,0,1,1,,,,,,1,0,,,1,,4,2024,2023-24,div1,Monroe College,monroecollege,anthonyfernandezn9et,Anthony Fernandez
+Mar 16,home,Delaware Tech,W,10-9,10,9,1,win,20240316_qqce,2,1,1,1,,,1,1,,,,,1,,2,1,,1,1,1.00,4,2024,2023-24,div1,Monroe College,monroecollege,anthonyfernandezn9et,Anthony Fernandez
+Mar 19,home,Lackawanna,W,16-6,16,6,10,win,20240319_fi1v,3,1,2,,,,1,2,,,,,,,2,0,,,1,,5,2024,2023-24,div1,Monroe College,monroecollege,anthonyfernandezn9et,Anthony Fernandez
+Apr 7,home,Paramount Academy,W,7-6,7,6,1,win,20240407_hh83,3,1,1,,,1,2,,,,,,,,4,1,,,1,,3,2024,2023-24,div1,Monroe College,monroecollege,anthonyfernandezn9et,Anthony Fernandez
+Apr 7,home,Paramount Academy,W,6-5,6,5,1,win,20240407_fjyo,4,0,1,,,,1,,3,1,,,,,1,0,,,,,4,2024,2023-24,div1,Monroe College,monroecollege,anthonyfernandezn9et,Anthony Fernandez
+Apr 8,home,Rockland,W,15-5,15,5,10,win,20240408_6vqe,3,1,0,,,,0,1,,,,,,,0,0,,2,1,2.00,4,2024,2023-24,div1,Monroe College,monroecollege,anthonyfernandezn9et,Anthony Fernandez
+Apr 10,home,Brookdale,T,6-6,6,6,0,tie,20240410_yil1,4,1,2,,,,1,,,1,,,,,2,0,,,2,,4,2024,2023-24,div1,Monroe College,monroecollege,anthonyfernandezn9et,Anthony Fernandez
+Apr 12,home,Citius Prep,W,6-4,6,4,2,win,20240412_q5h5,3,1,2,,,,0,,1,,,1,,,2,0,,,,,4,2024,2023-24,div1,Monroe College,monroecollege,anthonyfernandezn9et,Anthony Fernandez
+Apr 13,home,UConn Avery Point,W,10-8,10,8,2,win,20240413_1a99,3,0,1,,,,0,1,1,,,,,,1,0,,1,,,4,2024,2023-24,div1,Monroe College,monroecollege,anthonyfernandezn9et,Anthony Fernandez
+Apr 17,home,Suffolk County,W,7-3,7,3,4,win,20240417_2gf8,5,1,3,2,,,1,,1,,,,,,5,2,,,1,,5,2024,2023-24,div1,Monroe College,monroecollege,anthonyfernandezn9et,Anthony Fernandez
+Apr 18,home,RCSJ Gloucester,W,6-3,6,3,3,win,20240418_wq1m,3,1,0,,,,0,1,,,,,,,0,0,,1,2,0.50,4,2024,2023-24,div1,Monroe College,monroecollege,anthonyfernandezn9et,Anthony Fernandez
+Apr 19,home,RCSJ Gloucester,W,14-8,14,8,6,win,20240419_3o0l,4,1,2,,1,1,3,,,,,,,,7,2,,2,,,4,2024,2023-24,div1,Monroe College,monroecollege,anthonyfernandezn9et,Anthony Fernandez
+Apr 21,home,Suffolk County,W,5-3,5,3,2,win,20240421_ow5d,3,1,2,,,1,1,,,,,,,,5,1,,,1,,3,2024,2023-24,div1,Monroe College,monroecollege,anthonyfernandezn9et,Anthony Fernandez
+Apr 21,home,Suffolk County,W,8-5,8,5,3,win,20240421_fnek,3,1,1,,,,0,1,,,,,,,1,0,,1,1,1.00,4,2024,2023-24,div1,Monroe College,monroecollege,anthonyfernandezn9et,Anthony Fernandez
+Apr 24,home,Paramount Academy,W,10-7,10,7,3,win,20240424_082j,4,2,2,,,,1,,,,,,,,2,0,,1,1,1.00,4,2024,2023-24,div1,Monroe College,monroecollege,anthonyfernandezn9et,Anthony Fernandez
+Apr 24,home,Paramount Academy,W,11-1,11,1,10,win,20240424_r3f6,2,1,1,1,,,2,1,,,,,,,2,1,,,1,,3,2024,2023-24,div1,Monroe College,monroecollege,anthonyfernandezn9et,Anthony Fernandez
+Apr 28,home,Allegany Maryland,W,8-2,8,2,6,win,20240428_y5lx,4,0,1,,,,1,,1,,,,,,1,0,,,2,,4,2024,2023-24,div1,Monroe College,monroecollege,anthonyfernandezn9et,Anthony Fernandez
+Apr 28,home,Allegany Maryland,W,3-2,3,2,1,win,20240428_y8ov,2,1,0,,,,0,1,1,1,,,,,0,0,,1,,,3,2024,2023-24,div1,Monroe College,monroecollege,anthonyfernandezn9et,Anthony Fernandez
+Apr 29,home,Sullivan County,W,7-1,7,1,6,win,20240429_u53m,3,0,0,,,,0,,1,,,,,,0,0,,,2,,3,2024,2023-24,div1,Monroe College,monroecollege,anthonyfernandezn9et,Anthony Fernandez
+May 3,home,Potomac State,W,9-8,9,8,1,win,20240503_dtfw,2,3,2,,,1,3,2,,,,,,,5,1,,,,,4,2024,2023-24,div1,Monroe College,monroecollege,anthonyfernandezn9et,Anthony Fernandez
+May 4,home,Harford,W,7-6,7,6,1,win,20240504_kiv2,4,1,0,,,,0,,,,,1,,,0,0,,2,1,2.00,5,2024,2023-24,div1,Monroe College,monroecollege,anthonyfernandezn9et,Anthony Fernandez
+May 6,home,Harford,W,13-7,13,7,6,win,20240506_lw1u,4,3,3,,,1,2,,,,,1,,,6,1,,1,,,5,2024,2023-24,div1,Monroe College,monroecollege,anthonyfernandezn9et,Anthony Fernandez
+May 11,home,Florence-Darlington Tech,W,3-0,3,0,3,win,20240511_s9wk,4,1,1,,,,0,,,,,,,,1,0,,,3,,4,2024,2023-24,div1,Monroe College,monroecollege,anthonyfernandezn9et,Anthony Fernandez

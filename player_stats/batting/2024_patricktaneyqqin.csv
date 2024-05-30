@@ -1,50 +1,12 @@
 date,location,opponent,result,score,team_score,opp_score,game_score_diff,game_win_loss,game_id,AB,R,H,2B,3B,HR,RBI,BB,K,SB,CS,HBP,SF,SH,TB,XBH,HDP,GO,FO,GO/FO,PA,season,njcaa_season,njcaa_division,team,team_id,player_id,player_name
-Feb 17,home,Southern Maryland,W,10-0,10,0,10,win,20240217_geyn,2,1,1,,,1,3,1,,,,1,,,4,1,,,,,4,2024,2023-24,div3,RCSJ Gloucester,rowancollegesouthjerseygloucester,patricktaneyqqin,Patrick Taney
-Feb 18,home,Southern Maryland,W,8-1,8,1,7,win,20240218_hvj0,3,0,1,,,,0,,,,,,,,1,0,,,,,3,2024,2023-24,div3,RCSJ Gloucester,rowancollegesouthjerseygloucester,patricktaneyqqin,Patrick Taney
-Feb 18,home,Southern Maryland,W,8-3,8,3,5,win,20240218_kch9,4,0,1,,,,1,,1,,,,,,1,0,,,,,4,2024,2023-24,div3,RCSJ Gloucester,rowancollegesouthjerseygloucester,patricktaneyqqin,Patrick Taney
-Feb 25,home,Camden County,W,11-0,11,0,11,win,20240225_02h9,2,2,2,1,1,,0,2,,,,,,,5,2,,,,,4,2024,2023-24,div3,RCSJ Gloucester,rowancollegesouthjerseygloucester,patricktaneyqqin,Patrick Taney
-Feb 25,home,Camden County,W,16-4,16,4,12,win,20240225_gibj,3,3,2,,,,0,1,,,,,,,2,0,,,,,4,2024,2023-24,div3,RCSJ Gloucester,rowancollegesouthjerseygloucester,patricktaneyqqin,Patrick Taney
-Feb 26,home,Camden County,W,8-6,8,6,2,win,20240226_z27y,4,1,1,,,,1,1,,,,,,,1,0,,,,,5,2024,2023-24,div3,RCSJ Gloucester,rowancollegesouthjerseygloucester,patricktaneyqqin,Patrick Taney
-Mar 1,home,Middlesex College,W,8-4,8,4,4,win,20240301_xcta,3,0,0,,,,0,,2,,,,,,0,0,,,,,3,2024,2023-24,div3,RCSJ Gloucester,rowancollegesouthjerseygloucester,patricktaneyqqin,Patrick Taney
-Mar 4,home,Middlesex College,W,14-0,14,0,14,win,20240304_l0mj,3,1,2,,,,0,2,,,,,,,2,0,,,,,5,2024,2023-24,div3,RCSJ Gloucester,rowancollegesouthjerseygloucester,patricktaneyqqin,Patrick Taney
-Mar 8,home,Union,W,8-1,8,1,7,win,20240308_7fxn,2,1,1,,,,0,,,1,,1,,1,1,0,,,,,4,2024,2023-24,div3,RCSJ Gloucester,rowancollegesouthjerseygloucester,patricktaneyqqin,Patrick Taney
-Mar 8,home,Union,W,22-1,22,1,21,win,20240308_wzxx,5,2,3,1,,,3,1,,,,,,,4,1,,,,,6,2024,2023-24,div3,RCSJ Gloucester,rowancollegesouthjerseygloucester,patricktaneyqqin,Patrick Taney
-Mar 13,home,Union,W,24-9,24,9,15,win,20240313_r19s,2,1,1,1,,,2,,,,,,,,2,1,,,,,2,2024,2023-24,div3,RCSJ Gloucester,rowancollegesouthjerseygloucester,patricktaneyqqin,Patrick Taney
-Mar 15,home,Lehigh Carbon,W,8-4,8,4,4,win,20240315_v2dl,4,2,0,,,,0,1,2,,,,,,0,0,,,,,5,2024,2023-24,div3,RCSJ Gloucester,rowancollegesouthjerseygloucester,patricktaneyqqin,Patrick Taney
-Mar 16,home,Lehigh Carbon,W,11-3,11,3,8,win,20240316_tg7x,1,1,0,,,,0,,,,,1,,,0,0,,,,,2,2024,2023-24,div3,RCSJ Gloucester,rowancollegesouthjerseygloucester,patricktaneyqqin,Patrick Taney
-Mar 16,home,Lehigh Carbon,W,18-3,18,3,15,win,20240316_omdf,3,1,3,2,,,3,1,,1,,,,,5,2,,,,,4,2024,2023-24,div3,RCSJ Gloucester,rowancollegesouthjerseygloucester,patricktaneyqqin,Patrick Taney
-Mar 17,home,Luzerne County,W,33-0,33,0,33,win,20240317_6eic,4,3,3,1,,,4,1,,,,,1,,4,1,,,,,6,2024,2023-24,div3,RCSJ Gloucester,rowancollegesouthjerseygloucester,patricktaneyqqin,Patrick Taney
-Mar 17,home,Luzerne County,W,37-4,37,4,33,win,20240317_w8sc,2,2,0,1,,,1,,,,,2,1,,1,1,,,,,5,2024,2023-24,div3,RCSJ Gloucester,rowancollegesouthjerseygloucester,patricktaneyqqin,Patrick Taney
-Mar 19,home,Bronx,W,24-1,24,1,23,win,20240319_k72p,4,2,3,,,,5,,,,,,,,3,0,,,,,4,2024,2023-24,div3,RCSJ Gloucester,rowancollegesouthjerseygloucester,patricktaneyqqin,Patrick Taney
-Mar 20,home,Delaware Tech,W,12-1,12,1,11,win,20240320_wq8c,3,1,1,1,,,0,2,1,,,,,,2,1,,,,,5,2024,2023-24,div3,RCSJ Gloucester,rowancollegesouthjerseygloucester,patricktaneyqqin,Patrick Taney
-Mar 22,home,Northampton,W,6-2,6,2,4,win,20240322_c87a,2,0,0,,,,0,1,1,,,,,,0,0,,,,,3,2024,2023-24,div3,RCSJ Gloucester,rowancollegesouthjerseygloucester,patricktaneyqqin,Patrick Taney
-Mar 26,home,Mercer County,W,12-4,12,4,8,win,20240326_o2i5,4,1,0,,,,0,1,1,1,,,,,0,0,,,,,5,2024,2023-24,div3,RCSJ Gloucester,rowancollegesouthjerseygloucester,patricktaneyqqin,Patrick Taney
-Mar 29,home,Bergen,W,16-4,16,4,12,win,20240329_l9fj,4,3,4,2,,,4,1,,,,,,,6,2,,,,,5,2024,2023-24,div3,RCSJ Gloucester,rowancollegesouthjerseygloucester,patricktaneyqqin,Patrick Taney
-Mar 30,home,Bergen,W,5-0,5,0,5,win,20240330_6vwa,3,0,1,1,,,3,,,,,,,,2,1,,,,,3,2024,2023-24,div3,RCSJ Gloucester,rowancollegesouthjerseygloucester,patricktaneyqqin,Patrick Taney
-Mar 30,home,Bergen,W,14-1,14,1,13,win,20240330_y4un,4,1,3,1,,,4,1,,,,,,,4,1,,,,,5,2024,2023-24,div3,RCSJ Gloucester,rowancollegesouthjerseygloucester,patricktaneyqqin,Patrick Taney
-Apr 6,home,Ocean County,W,3-0,3,0,3,win,20240406_hw0s,3,0,0,,,,0,,,,,,,,0,0,,,,,3,2024,2023-24,div3,RCSJ Gloucester,rowancollegesouthjerseygloucester,patricktaneyqqin,Patrick Taney
-Apr 6,home,Ocean County,W,7-3,7,3,4,win,20240406_4n9l,2,0,1,,1,,1,1,,,,,,,3,1,,,,,3,2024,2023-24,div3,RCSJ Gloucester,rowancollegesouthjerseygloucester,patricktaneyqqin,Patrick Taney
-Apr 7,home,Ocean County,W,11-1,11,1,10,win,20240407_lsui,5,3,4,,,,0,,,2,,,,,4,0,,,,,5,2024,2023-24,div3,RCSJ Gloucester,rowancollegesouthjerseygloucester,patricktaneyqqin,Patrick Taney
-Apr 13,home,RCSJ Cumberland,W,10-1,10,1,9,win,20240413_pwqj,4,0,3,,,,0,,,,,1,,,3,0,,,,,5,2024,2023-24,div3,RCSJ Gloucester,rowancollegesouthjerseygloucester,patricktaneyqqin,Patrick Taney
-Apr 13,home,RCSJ Cumberland,W,21-0,21,0,21,win,20240413_877c,3,1,1,,,,2,,,,,1,1,,1,0,,,,,5,2024,2023-24,div3,RCSJ Gloucester,rowancollegesouthjerseygloucester,patricktaneyqqin,Patrick Taney
-Apr 14,home,RCSJ Cumberland,W,19-7,19,7,12,win,20240414_9beg,2,2,0,,,,1,2,,,,1,,,0,0,,,,,5,2024,2023-24,div3,RCSJ Gloucester,rowancollegesouthjerseygloucester,patricktaneyqqin,Patrick Taney
-Apr 16,home,Harford,W,11-8,11,8,3,win,20240416_ni0c,5,1,1,1,,,0,,2,1,1,,,,2,1,,,1,,5,2024,2023-24,div3,RCSJ Gloucester,rowancollegesouthjerseygloucester,patricktaneyqqin,Patrick Taney
-Apr 19,home,Monroe College,W,15-5,15,5,10,win,20240419_7855,4,1,1,1,,,2,1,2,,,,,,2,1,,,1,,5,2024,2023-24,div3,RCSJ Gloucester,rowancollegesouthjerseygloucester,patricktaneyqqin,Patrick Taney
-Apr 21,home,Rockland,W,8-1,8,1,7,win,20240421_jxm0,4,1,1,,,,1,,1,,,,,,1,0,,,,,4,2024,2023-24,div3,RCSJ Gloucester,rowancollegesouthjerseygloucester,patricktaneyqqin,Patrick Taney
-Apr 21,home,Rockland,W,19-3,19,3,16,win,20240421_fjaw,3,2,1,,,,1,,,,,1,1,,1,0,,,,,5,2024,2023-24,div3,RCSJ Gloucester,rowancollegesouthjerseygloucester,patricktaneyqqin,Patrick Taney
-Apr 23,home,Mercer County,W,14-2,14,2,12,win,20240423_pkxb,4,1,1,,,1,2,,2,,,,,,4,1,,,,,4,2024,2023-24,div3,RCSJ Gloucester,rowancollegesouthjerseygloucester,patricktaneyqqin,Patrick Taney
-Apr 26,home,Brookdale,W,14-13,14,13,1,win,20240426_chfg,6,1,1,,,1,2,,3,,,,,,4,1,,,,,6,2024,2023-24,div3,RCSJ Gloucester,rowancollegesouthjerseygloucester,patricktaneyqqin,Patrick Taney
-Apr 27,home,Brookdale,W,20-10,20,10,10,win,20240427_439h,5,3,1,,,1,3,1,,,,,,,4,1,,,,,6,2024,2023-24,div3,RCSJ Gloucester,rowancollegesouthjerseygloucester,patricktaneyqqin,Patrick Taney
-Apr 27,home,Brookdale,W,16-6,16,6,10,win,20240427_kymt,5,2,3,,,,2,,1,,,,,,3,0,,,,,5,2024,2023-24,div3,RCSJ Gloucester,rowancollegesouthjerseygloucester,patricktaneyqqin,Patrick Taney
-May 1,home,Monroe College,W,10-4,10,4,6,win,20240501_7vgs,5,1,0,,,,0,1,1,,,,,,0,0,,3,1,3.00,6,2024,2023-24,div3,RCSJ Gloucester,rowancollegesouthjerseygloucester,patricktaneyqqin,Patrick Taney
-May 3,home,Salem,W,8-2,8,2,6,win,20240503_mrje,4,2,1,,,,1,1,1,,,,,,1,0,,,,,5,2024,2023-24,div3,RCSJ Gloucester,rowancollegesouthjerseygloucester,patricktaneyqqin,Patrick Taney
-May 4,home,Salem,W,21-1,21,1,20,win,20240504_95cn,6,3,4,,,,5,,,1,,,,,4,0,,,,,6,2024,2023-24,div3,RCSJ Gloucester,rowancollegesouthjerseygloucester,patricktaneyqqin,Patrick Taney
-May 6,home,Salem,W,6-3,6,3,3,win,20240506_kyl2,4,0,0,,,,0,,,,,,,,0,0,,,,,4,2024,2023-24,div3,RCSJ Gloucester,rowancollegesouthjerseygloucester,patricktaneyqqin,Patrick Taney
-May 7,home,Montgomery County,W,14-1,14,1,13,win,20240507_3j53,4,3,2,,,,1,,,1,,1,,,2,0,,,,,5,2024,2023-24,div3,RCSJ Gloucester,rowancollegesouthjerseygloucester,patricktaneyqqin,Patrick Taney
-May 7,home,Montgomery County,W,23-4,23,4,19,win,20240507_c75y,2,2,0,,,,0,1,,,,1,,,0,0,,,,,4,2024,2023-24,div3,RCSJ Gloucester,rowancollegesouthjerseygloucester,patricktaneyqqin,Patrick Taney
-May 17,home,Middlesex College,W,11-0,11,0,11,win,20240517_m4ou,4,0,0,,,,0,,1,,,,,,0,0,,,,,4,2024,2023-24,div3,RCSJ Gloucester,rowancollegesouthjerseygloucester,patricktaneyqqin,Patrick Taney
-May 19,home,Brookdale,W,7-5,7,5,2,win,20240519_7wmk,4,0,0,,,,0,1,,,,,,,0,0,,,,,5,2024,2023-24,div3,RCSJ Gloucester,rowancollegesouthjerseygloucester,patricktaneyqqin,Patrick Taney
-May 19,home,Northampton,W,20-9,20,9,11,win,20240519_8n4y,5,3,3,1,,1,3,,,,,,1,,7,2,,,,,6,2024,2023-24,div3,RCSJ Gloucester,rowancollegesouthjerseygloucester,patricktaneyqqin,Patrick Taney
-May 19,home,Northampton,W,15-2,15,2,13,win,20240519_aus9,0,0,0,,,,0,1,,,,,,,0,0,,,,,1,2024,2023-24,div3,RCSJ Gloucester,rowancollegesouthjerseygloucester,patricktaneyqqin,Patrick Taney
-May 25,home,(8) Northern Essex,W,4-0,4,0,4,win,20240525_eauy,5,0,0,,,,1,,4,,,,,,0,0,,,,,5,2024,2023-24,div3,RCSJ Gloucester,rowancollegesouthjerseygloucester,patricktaneyqqin,Patrick Taney
-May 26,home,(5) Herkimer,W,10-0,10,0,10,win,20240526_bjos,3,2,1,,,,0,,1,,,,,,1,0,,,,,3,2024,2023-24,div3,RCSJ Gloucester,rowancollegesouthjerseygloucester,patricktaneyqqin,Patrick Taney
+Feb 25,home,Camden County,W,11-0,11,0,11,win,20240225_02h9,0,0,0,,,,0,,,,,,,,0,0,,,,,0,2024,2023-24,div3,RCSJ Gloucester,rowancollegesouthjerseygloucester,patricktaneyqqin,Patrick Taney
+Mar 8,home,Union,W,22-1,22,1,21,win,20240308_wzxx,0,0,0,,,,0,,,,,,,,0,0,,,,,0,2024,2023-24,div3,RCSJ Gloucester,rowancollegesouthjerseygloucester,patricktaneyqqin,Patrick Taney
+Mar 17,home,Luzerne County,W,33-0,33,0,33,win,20240317_6eic,0,0,0,,,,0,,,,,,,,0,0,,,,,0,2024,2023-24,div3,RCSJ Gloucester,rowancollegesouthjerseygloucester,patricktaneyqqin,Patrick Taney
+Mar 29,home,Bergen,W,16-4,16,4,12,win,20240329_l9fj,0,0,0,,,,0,,,,,,,,0,0,,,,,0,2024,2023-24,div3,RCSJ Gloucester,rowancollegesouthjerseygloucester,patricktaneyqqin,Patrick Taney
+Apr 13,home,RCSJ Cumberland,W,21-0,21,0,21,win,20240413_877c,0,0,0,,,,0,,,,,,,,0,0,,,,,0,2024,2023-24,div3,RCSJ Gloucester,rowancollegesouthjerseygloucester,patricktaneyqqin,Patrick Taney
+Apr 16,home,Harford,W,11-8,11,8,3,win,20240416_ni0c,0,0,0,,,,0,,,,,,,,0,0,,,,,0,2024,2023-24,div3,RCSJ Gloucester,rowancollegesouthjerseygloucester,patricktaneyqqin,Patrick Taney
+Apr 21,home,Rockland,W,19-3,19,3,16,win,20240421_fjaw,0,0,0,,,,0,,,,,,,,0,0,,,,,0,2024,2023-24,div3,RCSJ Gloucester,rowancollegesouthjerseygloucester,patricktaneyqqin,Patrick Taney
+Apr 27,home,Brookdale,W,16-6,16,6,10,win,20240427_kymt,0,0,0,,,,0,,,,,,,,0,0,,,,,0,2024,2023-24,div3,RCSJ Gloucester,rowancollegesouthjerseygloucester,patricktaneyqqin,Patrick Taney
+May 1,home,Monroe College,W,10-4,10,4,6,win,20240501_7vgs,0,0,0,,,,0,,,,,,,,0,0,,,,,0,2024,2023-24,div3,RCSJ Gloucester,rowancollegesouthjerseygloucester,patricktaneyqqin,Patrick Taney
+May 7,home,Montgomery County,W,23-4,23,4,19,win,20240507_c75y,0,0,0,,,,0,,,,,,,,0,0,,,,,0,2024,2023-24,div3,RCSJ Gloucester,rowancollegesouthjerseygloucester,patricktaneyqqin,Patrick Taney
+May 19,home,Brookdale,W,7-5,7,5,2,win,20240519_7wmk,0,0,0,,,,0,,,,,,,,0,0,,,,,0,2024,2023-24,div3,RCSJ Gloucester,rowancollegesouthjerseygloucester,patricktaneyqqin,Patrick Taney
