@@ -1,6 +1,32 @@
 date,location,opponent,result,score,team_score,opp_score,game_score_diff,game_win_loss,game_id,AB,R,H,2B,3B,HR,RBI,BB,K,SB,CS,HBP,SF,SH,TB,XBH,HDP,GO,FO,GO/FO,PA,season,njcaa_season,njcaa_division,team,team_id,player_id,player_name
-Mar 15,home,Ocean County,W,2-0,2,0,2,win,20240315_n0sl,2,0,1,,,,0,,1,,,,,,1,0,,,,,2,2024,2023-24,div3,Suffolk County,suffolkcc,josephstreng0gee,Joseph Streng
-Apr 4,home,Anne Arundel,W,15-4,15,4,11,win,20240404_08vz,4,1,2,1,,,2,,,,,,,,3,1,1,2,,,4,2024,2023-24,div3,Suffolk County,suffolkcc,josephstreng0gee,Joseph Streng
-Apr 13,home,CCBC Dundalk,W,10-6,10,6,4,win,20240413_be78,4,0,1,,1,,3,,1,,,,,,3,1,,1,,,4,2024,2023-24,div3,Suffolk County,suffolkcc,josephstreng0gee,Joseph Streng
-Apr 17,home,Cecil,W,14-7,14,7,7,win,20240417_d43x,4,0,1,,,,0,,2,,,,,,1,0,,,1,,4,2024,2023-24,div3,Suffolk County,suffolkcc,josephstreng0gee,Joseph Streng
-Apr 20,home,CC of Allegheny County,W,13-10,13,10,3,win,20240420_sm29,0,0,0,,,,0,,,,,,,,0,0,,,,,0,2024,2023-24,div3,Suffolk County,suffolkcc,josephstreng0gee,Joseph Streng
+Mar 3,home,Raritan Valley,W,13-2,13,2,11,win,20240303_tss8,4,0,1,1,,,1,,,,,,,,2,1,1,1,2,0.50,4,2024,2023-24,div3,Suffolk County,suffolkcc,josephstreng0gee,Joseph Streng
+Mar 8,home,Jamestown,W,6-0,6,0,6,win,20240308_hp7b,3,1,1,,,,1,,1,2,,,,,1,0,,1,,,3,2024,2023-24,div3,Suffolk County,suffolkcc,josephstreng0gee,Joseph Streng
+Mar 8,home,Jamestown,W,6-1,6,1,5,win,20240308_ifyo,2,1,0,,,,0,1,,,,,,,0,0,,,,,3,2024,2023-24,div3,Suffolk County,suffolkcc,josephstreng0gee,Joseph Streng
+Mar 9,home,Jamestown,W,3-2,3,2,1,win,20240309_b672,1,1,0,,,,0,2,,2,,,,,0,0,,,,,3,2024,2023-24,div3,Suffolk County,suffolkcc,josephstreng0gee,Joseph Streng
+Mar 9,home,Jamestown,W,6-5,6,5,1,win,20240309_s9kx,2,2,1,1,,,0,2,,,,,,,2,1,,,1,,4,2024,2023-24,div3,Suffolk County,suffolkcc,josephstreng0gee,Joseph Streng
+Mar 17,home,Northern Essex,W,6-5,6,5,1,win,20240317_onrb,4,1,1,,,,1,,,,,1,,,1,0,1,1,2,0.50,5,2024,2023-24,div3,Suffolk County,suffolkcc,josephstreng0gee,Joseph Streng
+Mar 17,home,Northern Essex,W,13-4,13,4,9,win,20240317_drpj,4,1,1,,,,0,,1,1,,,,,1,0,,1,1,1.00,4,2024,2023-24,div3,Suffolk County,suffolkcc,josephstreng0gee,Joseph Streng
+Mar 19,home,Queensborough,W,17-7,17,7,10,win,20240319_v32y,6,2,3,1,,,2,,,,1,1,,,4,1,,1,2,0.50,7,2024,2023-24,div3,Suffolk County,suffolkcc,josephstreng0gee,Joseph Streng
+Mar 22,home,Queensborough,W,30-3,30,3,27,win,20240322_mbjs,7,2,5,1,1,1,7,,,,,,,,11,3,,1,1,1.00,7,2024,2023-24,div3,Suffolk County,suffolkcc,josephstreng0gee,Joseph Streng
+Mar 24,home,Queensborough,W,22-0,22,0,22,win,20240324_h0cs,4,3,3,2,,,2,1,,,,,,,5,2,,,1,,5,2024,2023-24,div3,Suffolk County,suffolkcc,josephstreng0gee,Joseph Streng
+Mar 27,home,Monroe College JV,W,14-1,14,1,13,win,20240327_g4yf,2,2,1,,,,2,1,,,,,1,,1,0,,,2,,4,2024,2023-24,div3,Suffolk County,suffolkcc,josephstreng0gee,Joseph Streng
+Mar 29,home,Monroe College JV,W,22-3,22,3,19,win,20240329_pkj3,3,4,3,2,,,5,1,,,,,,,5,2,,,,,4,2024,2023-24,div3,Suffolk County,suffolkcc,josephstreng0gee,Joseph Streng
+Apr 5,home,Nassau,W,12-2,12,2,10,win,20240405_88m3,5,3,3,2,,1,1,,,2,,,,,8,3,1,1,,,5,2024,2023-24,div3,Suffolk County,suffolkcc,josephstreng0gee,Joseph Streng
+Apr 6,home,Nassau,W,11-2,11,2,9,win,20240406_ruqv,4,1,2,,,1,3,,,1,,,1,,5,1,,2,1,2.00,5,2024,2023-24,div3,Suffolk County,suffolkcc,josephstreng0gee,Joseph Streng
+Apr 7,home,Mercer County,W,15-8,15,8,7,win,20240407_nm7q,2,3,1,,,,1,1,,,,2,,,1,0,,1,,,5,2024,2023-24,div3,Suffolk County,suffolkcc,josephstreng0gee,Joseph Streng
+Apr 12,home,Monroe College - Bronx,W,7-0,7,0,7,win,20240412_ehgw,5,1,3,2,,,2,,,1,,,,,5,2,,,2,,5,2024,2023-24,div3,Suffolk County,suffolkcc,josephstreng0gee,Joseph Streng
+Apr 13,home,Monroe College - Bronx,W,4-3,4,3,1,win,20240413_kahd,3,2,1,1,,,0,1,1,,,,,,2,1,1,1,,,4,2024,2023-24,div3,Suffolk County,suffolkcc,josephstreng0gee,Joseph Streng
+Apr 13,home,Monroe College - Bronx,W,13-2,13,2,11,win,20240413_xe05,2,4,2,,,1,4,1,,1,,1,,,5,1,,,,,4,2024,2023-24,div3,Suffolk County,suffolkcc,josephstreng0gee,Joseph Streng
+Apr 15,home,Nassau,W,13-8,13,8,5,win,20240415_0305,3,1,0,,,,0,1,,1,,1,,,0,0,,2,,,5,2024,2023-24,div3,Suffolk County,suffolkcc,josephstreng0gee,Joseph Streng
+Apr 16,home,Borough of Manhattan,W,24-11,24,11,13,win,20240416_9jkp,4,4,3,1,,,4,2,,1,,,,,4,1,,,1,,6,2024,2023-24,div3,Suffolk County,suffolkcc,josephstreng0gee,Joseph Streng
+Apr 19,home,Borough of Manhattan,W,15-5,15,5,10,win,20240419_gxx6,3,2,2,1,,,2,1,,2,,,1,,3,1,1,1,,,5,2024,2023-24,div3,Suffolk County,suffolkcc,josephstreng0gee,Joseph Streng
+Apr 23,home,Kingsborough,W,5-1,5,1,4,win,20240423_sufh,4,1,1,,,1,2,,,,,,,,4,1,,2,1,2.00,4,2024,2023-24,div3,Suffolk County,suffolkcc,josephstreng0gee,Joseph Streng
+Apr 26,home,Kingsborough,W,20-1,20,1,19,win,20240426_bafl,4,2,3,1,,,5,,,,,,1,,4,1,,,1,,5,2024,2023-24,div3,Suffolk County,suffolkcc,josephstreng0gee,Joseph Streng
+Apr 27,home,Kingsborough,W,12-8,12,8,4,win,20240427_oh17,4,2,2,,,,2,,,3,,1,,,2,0,,2,,,5,2024,2023-24,div3,Suffolk County,suffolkcc,josephstreng0gee,Joseph Streng
+Apr 28,home,Borough of Manhattan,W,19-5,19,5,14,win,20240428_to3v,2,2,0,,,,1,2,,2,,,1,,0,0,,,1,,5,2024,2023-24,div3,Suffolk County,suffolkcc,josephstreng0gee,Joseph Streng
+Apr 28,home,Borough of Manhattan,W,11-1,11,1,10,win,20240428_o39t,1,2,1,1,,,2,1,,,,2,,,2,1,,,,,4,2024,2023-24,div3,Suffolk County,suffolkcc,josephstreng0gee,Joseph Streng
+Apr 30,home,Bronx,W,23-1,23,1,22,win,20240430_n5yv,5,2,3,,,,1,,1,1,,,,,3,0,,,,,5,2024,2023-24,div3,Suffolk County,suffolkcc,josephstreng0gee,Joseph Streng
+May 3,home,Bronx,W,11-0,11,0,11,win,20240503_207w,4,2,0,,,,1,,,,,,1,,0,0,,,3,,5,2024,2023-24,div3,Suffolk County,suffolkcc,josephstreng0gee,Joseph Streng
+May 4,home,Bronx,W,10-1,10,1,9,win,20240504_kger,3,1,1,,,,1,1,,,,,,,1,0,,1,1,1.00,4,2024,2023-24,div3,Suffolk County,suffolkcc,josephstreng0gee,Joseph Streng
+May 4,home,Bronx,W,2-0,2,0,2,win,20240504_b2tr,3,0,0,,,,0,,,,,,,,0,0,,,3,,3,2024,2023-24,div3,Suffolk County,suffolkcc,josephstreng0gee,Joseph Streng
+May 11,home,Nassau,W,3-2,3,2,1,win,20240511_i0zf,3,1,2,1,,,1,2,,1,,,,,3,1,,,1,,5,2024,2023-24,div3,Suffolk County,suffolkcc,josephstreng0gee,Joseph Streng

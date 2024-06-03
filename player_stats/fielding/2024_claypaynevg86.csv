@@ -1,13 +1,17 @@
 date,location,opponent,result,score,team_score,opp_score,game_score_diff,game_win_loss,game_id,TC,PO,A,E,FPCT,DP,SBA,RCS,RCS_PCT,PB,CI,season,njcaa_season,njcaa_division,team,team_id,player_id,player_name
-Mar 3,home,Brookdale,L,10-0,10,0,10,win,20240303_nq0k,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div3,Dallas College - Eastfield,dallascollegeeastfield,claypaynevg86,Clay Payne
-Mar 3,home,Brookdale,L,17-3,17,3,14,win,20240303_hqyd,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div3,Dallas College - Eastfield,dallascollegeeastfield,claypaynevg86,Clay Payne
-Mar 17,home,RCSJ Gloucester,L,33-0,33,0,33,win,20240317_6eic,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div3,Dallas College - Eastfield,dallascollegeeastfield,claypaynevg86,Clay Payne
-Mar 17,home,RCSJ Gloucester,L,37-4,37,4,33,win,20240317_w8sc,0,0,0,0,1.0,3,5,3,27.00,4.00,1,2024,2023-24,div3,Dallas College - Eastfield,dallascollegeeastfield,claypaynevg86,Clay Payne
-Apr 14,home,Northampton,L,35-0,35,0,35,win,20240414_kmfs,0,0,0,0,1.0,1,1,,0.00,2.00,1,2024,2023-24,div3,Dallas College - Eastfield,dallascollegeeastfield,claypaynevg86,Clay Payne
-Apr 14,home,Northampton,L,35-2,35,2,33,win,20240414_l3mv,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div3,Dallas College - Eastfield,dallascollegeeastfield,claypaynevg86,Clay Payne
-Apr 16,home,Salem,L,20-2,20,2,18,win,20240416_w2n9,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div3,Dallas College - Eastfield,dallascollegeeastfield,claypaynevg86,Clay Payne
-Apr 21,home,Bergen,L,20-1,20,1,19,win,20240421_6zls,0,0,0,0,4.0,2,,,0.00,1.00,2,2024,2023-24,div3,Dallas College - Eastfield,dallascollegeeastfield,claypaynevg86,Clay Payne
-Apr 21,home,Bergen,L,24-0,24,0,24,win,20240421_ptpf,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div3,Dallas College - Eastfield,dallascollegeeastfield,claypaynevg86,Clay Payne
-Apr 23,home,Salem,L,23-1,23,1,22,win,20240423_u99v,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div3,Dallas College - Eastfield,dallascollegeeastfield,claypaynevg86,Clay Payne
-May 1,home,Lackawanna,L,39-0,39,0,39,win,20240501_2ogn,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div3,Dallas College - Eastfield,dallascollegeeastfield,claypaynevg86,Clay Payne
-May 1,home,Lackawanna,L,22-1,22,1,21,win,20240501_c8pv,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div3,Dallas College - Eastfield,dallascollegeeastfield,claypaynevg86,Clay Payne
+Jan 29,home,Arkansas State University - Three Rivers,W,15-2,15,2,13,win,20240129_b13d,1,1,0,0,3.2,2,0,0,0.00,1.09,2,2024,2023-24,div3,Dallas College - Eastfield,dallascollegeeastfield,claypaynevg86,Clay Payne
+Feb 3,home,Howard (TX),W,6-5,6,5,1,win,20240203_ogo0,1,0,0,0,5.0,2,3,2,3.60,.80,2,2024,2023-24,div3,Dallas College - Eastfield,dallascollegeeastfield,claypaynevg86,Clay Payne
+Feb 17,home,Des Moines Area,W,6-4,6,4,2,win,20240217_qgvj,1,1,0,0,5.0,6,3,2,3.60,1.40,1,2024,2023-24,div3,Dallas College - Eastfield,dallascollegeeastfield,claypaynevg86,Clay Payne
+Feb 24,home,Angelina,L,14-4,14,4,10,win,20240224_38eb,1,0,1,0,3.0,5,5,5,15.00,2.33,2,2024,2023-24,div3,Dallas College - Eastfield,dallascollegeeastfield,claypaynevg86,Clay Payne
+Mar 1,home,Dallas College - Brookhaven,W,21-18,21,18,3,win,20240301_99ud,1,0,0,0,3.1,4,5,3,8.10,2.70,5,2024,2023-24,div3,Dallas College - Eastfield,dallascollegeeastfield,claypaynevg86,Clay Payne
+Mar 8,home,Dallas College - Cedar Valley,W,8-2,8,2,6,win,20240308_mgtz,1,1,0,0,7.0,3,2,1,1.29,.71,2,2024,2023-24,div3,Dallas College - Eastfield,dallascollegeeastfield,claypaynevg86,Clay Payne
+Mar 12,home,Joliet,W,13-10,13,10,3,win,20240312_8c8e,0,0,0,0,1.0,,,,0.00,,,2024,2023-24,div3,Dallas College - Eastfield,dallascollegeeastfield,claypaynevg86,Clay Payne
+Mar 22,home,Dallas College - Richland,W,10-8,10,8,2,win,20240322_0cw3,0,0,0,0,6.0,8,6,5,7.50,1.50,1,2024,2023-24,div3,Dallas College - Eastfield,dallascollegeeastfield,claypaynevg86,Clay Payne
+Mar 28,home,Dallas College - Mountain View,W,13-0,13,0,13,win,20240328_gpzz,1,1,0,0,7.0,5,0,0,0.00,.86,1,2024,2023-24,div3,Dallas College - Eastfield,dallascollegeeastfield,claypaynevg86,Clay Payne
+Apr 5,home,Dallas College - North Lake,W,11-3,11,3,8,win,20240405_mb7r,1,1,0,0,6.0,2,1,1,1.50,1.00,4,2024,2023-24,div3,Dallas College - Eastfield,dallascollegeeastfield,claypaynevg86,Clay Payne
+Apr 12,home,Dallas College - Brookhaven,L,14-7,14,7,7,win,20240412_ohos,1,0,1,0,4.0,6,5,5,11.25,2.00,2,2024,2023-24,div3,Dallas College - Eastfield,dallascollegeeastfield,claypaynevg86,Clay Payne
+Apr 24,home,Dallas College - Richland,W,6-5,6,5,1,win,20240424_jc2z,1,1,0,0,4.0,8,3,1,2.25,2.75,3,2024,2023-24,div3,Dallas College - Eastfield,dallascollegeeastfield,claypaynevg86,Clay Payne
+May 1,home,Dallas College - Mountain View,W,15-4,15,4,11,win,20240501_pkga,1,1,0,0,5.0,7,2,2,3.60,1.60,1,2024,2023-24,div3,Dallas College - Eastfield,dallascollegeeastfield,claypaynevg86,Clay Payne
+May 17,home,North Arkansas,W,13-3,13,3,10,win,20240517_0n1c,1,1,0,0,5.0,7,3,2,3.60,1.80,2,2024,2023-24,div3,Dallas College - Eastfield,dallascollegeeastfield,claypaynevg86,Clay Payne
+May 26,home,(2) Dallas College - Richland,L,3-2,3,2,1,win,20240526_hu9b,1,0,1,0,7.0,5,3,3,3.86,1.00,2,2024,2023-24,div3,Dallas College - Eastfield,dallascollegeeastfield,claypaynevg86,Clay Payne
+May 29,home,(2) Dallas College - Richland,W,5-4,5,4,1,win,20240529_tyrf,0,0,0,0,1.0,,,,0.00,,,2024,2023-24,div3,Dallas College - Eastfield,dallascollegeeastfield,claypaynevg86,Clay Payne

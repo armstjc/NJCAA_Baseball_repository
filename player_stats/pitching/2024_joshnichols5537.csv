@@ -1,13 +1,21 @@
 date,location,opponent,result,score,team_score,opp_score,game_score_diff,game_win_loss,game_id,GS,W,L,SV,IP,H,R,ER,ERA,BB,K,HR,season,njcaa_season,njcaa_division,team,team_id,player_id,player_name
-May 25,home,(4) Camp,W,9-7,9,7,2,win,20240525_hxs3,1,1,0,0,5.0,1,2,1,1.80,1.40,6,4,2024,2023-24,div3,Caldwell Tech,caldwellcommunitycollegetechnicali,joshnichols5537,Josh Nichols
-May 18,home,Genesee,W,9-6,9,6,3,win,20240518_wkwl,0,1,0,0,1.0,1,,,0.00,1.00,,,2024,2023-24,div3,Caldwell Tech,caldwellcommunitycollegetechnicali,joshnichols5537,Josh Nichols
-May 16,home,Erie,W,10-0,10,0,10,win,20240516_qynk,1,1,0,0,5.0,2,0,0,0.00,1.00,3,6,2024,2023-24,div3,Caldwell Tech,caldwellcommunitycollegetechnicali,joshnichols5537,Josh Nichols
-May 11,home,Finger Lakes,W,10-3,10,3,7,win,20240511_uzqj,1,1,0,0,7.0,6,3,3,3.86,1.00,1,13,2024,2023-24,div3,Caldwell Tech,caldwellcommunitycollegetechnicali,joshnichols5537,Josh Nichols
-May 4,home,SUNY Adirondack,W,7-6,7,6,1,win,20240504_75en,1,0,0,0,2.0,1,1,1,4.50,1.00,1,1,2024,2023-24,div3,Caldwell Tech,caldwellcommunitycollegetechnicali,joshnichols5537,Josh Nichols
-Apr 29,home,Cayuga,W,4-3,4,3,1,win,20240429_gy5q,1,1,0,0,7.0,5,3,3,3.86,1.14,3,8,2024,2023-24,div3,Caldwell Tech,caldwellcommunitycollegetechnicali,joshnichols5537,Josh Nichols
-Apr 21,home,Mohawk Valley,W,9-0,9,0,9,win,20240421_dr14,1,1,0,0,7.0,3,0,0,0.00,.57,1,11,2024,2023-24,div3,Caldwell Tech,caldwellcommunitycollegetechnicali,joshnichols5537,Josh Nichols
-Apr 14,home,Jefferson (NY),W,14-1,14,1,13,win,20240414_4dqn,1,1,0,0,5.0,8,1,1,1.80,1.80,1,8,2024,2023-24,div3,Caldwell Tech,caldwellcommunitycollegetechnicali,joshnichols5537,Josh Nichols
-Apr 7,home,Cayuga,W,6-4,6,4,2,win,20240407_aatw,1,0,0,0,4.0,7,2,2,4.50,2.50,3,6,2024,2023-24,div3,Caldwell Tech,caldwellcommunitycollegetechnicali,joshnichols5537,Josh Nichols
-Mar 30,home,Monroe CC,L,9-3,9,3,6,win,20240330_eggc,1,0,0,0,2.1,2,2,2,7.71,2.14,3,2,2024,2023-24,div3,Caldwell Tech,caldwellcommunitycollegetechnicali,joshnichols5537,Josh Nichols
-Mar 15,home,Black Hawk,W,3-2,3,2,1,win,20240315_y223,1,0,0,0,4.0,3,0,0,0.00,.75,0,5,2024,2023-24,div3,Caldwell Tech,caldwellcommunitycollegetechnicali,joshnichols5537,Josh Nichols
-Mar 11,home,Northern Essex,W,6-4,6,4,2,win,20240311_xanx,1,0,0,0,3.0,5,5,2,6.00,2.00,1,5,2024,2023-24,div3,Caldwell Tech,caldwellcommunitycollegetechnicali,joshnichols5537,Josh Nichols
+May 3,home,Camp,L,10-2,10,2,8,win,20240503_fss8,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div3,Caldwell Tech,caldwellcommunitycollegetechnicali,joshnichols5537,Josh Nichols
+Apr 27,home,Camp,L,16-11,16,11,5,win,20240427_vymw,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div3,Caldwell Tech,caldwellcommunitycollegetechnicali,joshnichols5537,Josh Nichols
+Apr 26,home,Camp,L,13-3,13,3,10,win,20240426_aqbl,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div3,Caldwell Tech,caldwellcommunitycollegetechnicali,joshnichols5537,Josh Nichols
+Apr 26,home,Camp,L,11-9,11,9,2,win,20240426_umv6,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div3,Caldwell Tech,caldwellcommunitycollegetechnicali,joshnichols5537,Josh Nichols
+Apr 24,home,Spartanburg Methodist,L,11-0,11,0,11,win,20240424_ck55,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div3,Caldwell Tech,caldwellcommunitycollegetechnicali,joshnichols5537,Josh Nichols
+Apr 18,home,Catawba Valley,L,10-6,10,6,4,win,20240418_uy9w,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div3,Caldwell Tech,caldwellcommunitycollegetechnicali,joshnichols5537,Josh Nichols
+Apr 14,home,Surry,L,8-0,8,0,8,win,20240414_2cvt,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div3,Caldwell Tech,caldwellcommunitycollegetechnicali,joshnichols5537,Josh Nichols
+Apr 14,home,Surry,L,2-0,2,0,2,win,20240414_qtcs,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div3,Caldwell Tech,caldwellcommunitycollegetechnicali,joshnichols5537,Josh Nichols
+Apr 7,home,Rockingham,L,6-4,6,4,2,win,20240407_86mr,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div3,Caldwell Tech,caldwellcommunitycollegetechnicali,joshnichols5537,Josh Nichols
+Apr 6,home,Rockingham,W,6-1,6,1,5,win,20240406_9i9o,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div3,Caldwell Tech,caldwellcommunitycollegetechnicali,joshnichols5537,Josh Nichols
+Mar 29,home,Virginia Peninsula CC,L,6-3,6,3,3,win,20240329_3itg,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div3,Caldwell Tech,caldwellcommunitycollegetechnicali,joshnichols5537,Josh Nichols
+Mar 24,home,Camp,W,1-0,1,0,1,win,20240324_qzib,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div3,Caldwell Tech,caldwellcommunitycollegetechnicali,joshnichols5537,Josh Nichols
+Mar 24,home,Camp,L,11-3,11,3,8,win,20240324_5ylp,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div3,Caldwell Tech,caldwellcommunitycollegetechnicali,joshnichols5537,Josh Nichols
+Mar 20,home,Catawba Valley,W,13-10,13,10,3,win,20240320_3eq0,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div3,Caldwell Tech,caldwellcommunitycollegetechnicali,joshnichols5537,Josh Nichols
+Mar 16,home,Finger Lakes,W,14-4,14,4,10,win,20240316_9j9l,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div3,Caldwell Tech,caldwellcommunitycollegetechnicali,joshnichols5537,Josh Nichols
+Mar 8,home,Surry,W,7-6,7,6,1,win,20240308_7oup,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div3,Caldwell Tech,caldwellcommunitycollegetechnicali,joshnichols5537,Josh Nichols
+Mar 2,home,Rockingham,L,8-5,8,5,3,win,20240302_b3u6,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div3,Caldwell Tech,caldwellcommunitycollegetechnicali,joshnichols5537,Josh Nichols
+Feb 25,home,Virginia Peninsula CC,W,13-1,13,1,12,win,20240225_q2vo,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div3,Caldwell Tech,caldwellcommunitycollegetechnicali,joshnichols5537,Josh Nichols
+Feb 24,home,Virginia Peninsula CC,W,6-1,6,1,5,win,20240224_6toe,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div3,Caldwell Tech,caldwellcommunitycollegetechnicali,joshnichols5537,Josh Nichols
+Feb 4,home,Cleveland,L,6-5,6,5,1,win,20240204_kxfa,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div3,Caldwell Tech,caldwellcommunitycollegetechnicali,joshnichols5537,Josh Nichols

@@ -1,21 +1,24 @@
 date,location,opponent,result,score,team_score,opp_score,game_score_diff,game_win_loss,game_id,AB,R,H,2B,3B,HR,RBI,BB,K,SB,CS,HBP,SF,SH,TB,XBH,HDP,GO,FO,GO/FO,PA,season,njcaa_season,njcaa_division,team,team_id,player_id,player_name
-Feb 23,home,Southern Maryland,W,22-3,22,3,19,win,20240223_8ebs,3,3,1,,,,0,,,,,,,,1,0,,2,,,3,2024,2023-24,div3,Finger Lakes,fingerlakescommunitycollege,justinangoraiama,Justin Angora
-Mar 14,home,Cecil,W,10-8,10,8,2,win,20240314_6xds,3,0,0,,,,0,1,2,,,,,,0,0,,1,,,4,2024,2023-24,div3,Finger Lakes,fingerlakescommunitycollege,justinangoraiama,Justin Angora
-Mar 26,home,Genesee,W,7-3,7,3,4,win,20240326_lmeh,2,0,0,,,,0,,,,,,,,0,0,,,2,,2,2024,2023-24,div3,Finger Lakes,fingerlakescommunitycollege,justinangoraiama,Justin Angora
-Mar 30,home,Onondaga,W,6-4,6,4,2,win,20240330_lqt2,0,0,0,,,,0,,,,,,,1,0,0,,,,,1,2024,2023-24,div3,Finger Lakes,fingerlakescommunitycollege,justinangoraiama,Justin Angora
-Apr 7,home,Jamestown,W,10-5,10,5,5,win,20240407_va1c,0,0,0,,,,0,,,,,,,,0,0,,,,,0,2024,2023-24,div3,Finger Lakes,fingerlakescommunitycollege,justinangoraiama,Justin Angora
-Apr 9,home,Genesee,W,8-6,8,6,2,win,20240409_wo1z,0,0,0,,,,0,,,,,,,,0,0,,,,,0,2024,2023-24,div3,Finger Lakes,fingerlakescommunitycollege,justinangoraiama,Justin Angora
-Apr 11,home,Jamestown,W,9-4,9,4,5,win,20240411_a3ul,1,0,0,,,,0,,,,,,,,0,0,,,1,,1,2024,2023-24,div3,Finger Lakes,fingerlakescommunitycollege,justinangoraiama,Justin Angora
-Apr 11,home,Jamestown,W,11-1,11,1,10,win,20240411_2htb,0,0,0,,,,0,1,,,,,,,0,0,,,,,1,2024,2023-24,div3,Finger Lakes,fingerlakescommunitycollege,justinangoraiama,Justin Angora
-Apr 18,home,Cayuga,W,9-6,9,6,3,win,20240418_deq7,2,0,0,,,,0,,,,,,,,0,0,,1,1,1.00,2,2024,2023-24,div3,Finger Lakes,fingerlakescommunitycollege,justinangoraiama,Justin Angora
-Apr 21,home,Corning,W,7-1,7,1,6,win,20240421_v6og,1,1,1,,,,0,1,,,,1,,,1,0,,,,,3,2024,2023-24,div3,Finger Lakes,fingerlakescommunitycollege,justinangoraiama,Justin Angora
-Apr 25,home,Corning,W,25-6,25,6,19,win,20240425_mgcb,3,1,2,,,,1,,,,,,,,2,0,,,1,,3,2024,2023-24,div3,Finger Lakes,fingerlakescommunitycollege,justinangoraiama,Justin Angora
-Apr 28,home,SUNY Niagara,W,3-2,3,2,1,win,20240428_b8if,3,0,0,,,,0,,3,,,,,,0,0,,,,,3,2024,2023-24,div3,Finger Lakes,fingerlakescommunitycollege,justinangoraiama,Justin Angora
-Apr 29,home,Monroe CC,W,7-6,7,6,1,win,20240429_jpb1,3,1,2,1,,,0,,,,,1,,,3,1,,,1,,4,2024,2023-24,div3,Finger Lakes,fingerlakescommunitycollege,justinangoraiama,Justin Angora
-May 2,home,Jefferson (NY),W,11-1,11,1,10,win,20240502_715b,3,0,1,,1,,1,,1,,,,,,3,1,,,,,3,2024,2023-24,div3,Finger Lakes,fingerlakescommunitycollege,justinangoraiama,Justin Angora
-May 2,home,Jefferson (NY),W,21-4,21,4,17,win,20240502_34xh,5,2,2,,,,2,,,,,,,,2,0,,,1,,5,2024,2023-24,div3,Finger Lakes,fingerlakescommunitycollege,justinangoraiama,Justin Angora
-May 4,home,SUNY Broome,W,3-1,3,1,2,win,20240504_lt75,2,0,0,,,,0,,,,,,,,0,0,,,2,,2,2024,2023-24,div3,Finger Lakes,fingerlakescommunitycollege,justinangoraiama,Justin Angora
-May 4,home,SUNY Broome,W,4-2,4,2,2,win,20240504_6k38,3,0,0,,,,0,,,,,,,,0,0,,3,,,3,2024,2023-24,div3,Finger Lakes,fingerlakescommunitycollege,justinangoraiama,Justin Angora
-May 6,home,SUNY Broome,W,12-5,12,5,7,win,20240506_bir9,3,1,0,,,,1,1,,,,,,,0,0,,1,1,1.00,4,2024,2023-24,div3,Finger Lakes,fingerlakescommunitycollege,justinangoraiama,Justin Angora
-May 6,home,SUNY Broome,W,7-2,7,2,5,win,20240506_y5zp,4,0,2,,,,3,,,,,,,,2,0,,,2,,4,2024,2023-24,div3,Finger Lakes,fingerlakescommunitycollege,justinangoraiama,Justin Angora
-May 7,home,Tompkins Cortland,W,10-4,10,4,6,win,20240507_6s7p,2,3,2,,,,0,,,1,,,,,2,0,,,,,2,2024,2023-24,div3,Finger Lakes,fingerlakescommunitycollege,justinangoraiama,Justin Angora
+Feb 23,home,Southern Maryland,W,22-3,22,3,19,win,20240223_8ebs,5,1,3,,,,2,,,,,,,,3,0,,,2,,5,2024,2023-24,div3,Finger Lakes,fingerlakescommunitycollege,justinangoraiama,Justin Angora
+Feb 24,home,Southern Maryland,W,6-3,6,3,3,win,20240224_9zgq,3,0,1,,,,1,,,1,,,,,1,0,,1,1,1.00,3,2024,2023-24,div3,Finger Lakes,fingerlakescommunitycollege,justinangoraiama,Justin Angora
+Feb 24,home,Southern Maryland,W,4-2,4,2,2,win,20240224_k9b7,4,0,1,,,,0,,1,,,,,,1,0,,2,,,4,2024,2023-24,div3,Finger Lakes,fingerlakescommunitycollege,justinangoraiama,Justin Angora
+Mar 16,home,Caldwell Tech,W,11-1,11,1,10,win,20240316_xbot,3,1,2,,,,2,,,,,,,,2,0,,1,,,3,2024,2023-24,div3,Finger Lakes,fingerlakescommunitycollege,justinangoraiama,Justin Angora
+Mar 26,home,Genesee,W,7-3,7,3,4,win,20240326_lmeh,3,0,0,,,,0,,2,,,,,,0,0,,,1,,3,2024,2023-24,div3,Finger Lakes,fingerlakescommunitycollege,justinangoraiama,Justin Angora
+Mar 28,home,Onondaga,W,2-1,2,1,1,win,20240328_ekdd,3,0,0,,,,0,,1,,,,,,0,0,,2,,,3,2024,2023-24,div3,Finger Lakes,fingerlakescommunitycollege,justinangoraiama,Justin Angora
+Mar 30,home,Onondaga,W,6-4,6,4,2,win,20240330_lqt2,2,0,0,,,,1,,1,,,,1,,0,0,,1,1,1.00,3,2024,2023-24,div3,Finger Lakes,fingerlakescommunitycollege,justinangoraiama,Justin Angora
+Apr 9,home,Genesee,W,12-2,12,2,10,win,20240409_o7g7,2,2,0,,,,1,,,,,1,,,0,0,,,1,,3,2024,2023-24,div3,Finger Lakes,fingerlakescommunitycollege,justinangoraiama,Justin Angora
+Apr 9,home,Genesee,W,8-6,8,6,2,win,20240409_wo1z,3,0,0,,,,0,,,,,,,,0,0,,1,2,0.50,3,2024,2023-24,div3,Finger Lakes,fingerlakescommunitycollege,justinangoraiama,Justin Angora
+Apr 11,home,Jamestown,W,9-4,9,4,5,win,20240411_a3ul,3,1,2,,1,,1,,,,,,,,4,1,,,1,,3,2024,2023-24,div3,Finger Lakes,fingerlakescommunitycollege,justinangoraiama,Justin Angora
+Apr 11,home,Jamestown,W,11-1,11,1,10,win,20240411_2htb,3,1,2,1,,,3,,,,,,,,3,1,,,1,,3,2024,2023-24,div3,Finger Lakes,fingerlakescommunitycollege,justinangoraiama,Justin Angora
+Apr 14,home,Tompkins Cortland,W,12-2,12,2,10,win,20240414_x0c5,4,0,0,,,,1,,,,,,,,0,0,,1,3,0.33,4,2024,2023-24,div3,Finger Lakes,fingerlakescommunitycollege,justinangoraiama,Justin Angora
+Apr 18,home,Cayuga,W,9-6,9,6,3,win,20240418_deq7,3,1,1,1,,,2,,,,,,,,2,1,,1,1,1.00,3,2024,2023-24,div3,Finger Lakes,fingerlakescommunitycollege,justinangoraiama,Justin Angora
+Apr 21,home,Corning,W,7-1,7,1,6,win,20240421_v6og,3,0,0,,,,0,,1,,,,,,0,0,,2,,,3,2024,2023-24,div3,Finger Lakes,fingerlakescommunitycollege,justinangoraiama,Justin Angora
+Apr 25,home,Corning,W,25-6,25,6,19,win,20240425_mgcb,2,0,0,,,,0,,,,,,,,0,0,,,2,,2,2024,2023-24,div3,Finger Lakes,fingerlakescommunitycollege,justinangoraiama,Justin Angora
+Apr 29,home,Monroe CC,W,7-6,7,6,1,win,20240429_jpb1,4,0,2,,,,0,,,1,,,,,2,0,,1,1,1.00,4,2024,2023-24,div3,Finger Lakes,fingerlakescommunitycollege,justinangoraiama,Justin Angora
+May 2,home,Jefferson (NY),W,11-1,11,1,10,win,20240502_715b,4,3,3,1,,,1,,,,,,,,4,1,,1,,,4,2024,2023-24,div3,Finger Lakes,fingerlakescommunitycollege,justinangoraiama,Justin Angora
+May 2,home,Jefferson (NY),W,21-4,21,4,17,win,20240502_34xh,3,2,2,1,,,2,2,,,,,,,3,1,,,1,,5,2024,2023-24,div3,Finger Lakes,fingerlakescommunitycollege,justinangoraiama,Justin Angora
+May 4,home,SUNY Broome,W,3-1,3,1,2,win,20240504_lt75,2,0,0,,,,0,,1,,,1,,,0,0,,,1,,3,2024,2023-24,div3,Finger Lakes,fingerlakescommunitycollege,justinangoraiama,Justin Angora
+May 4,home,SUNY Broome,W,4-2,4,2,2,win,20240504_6k38,2,0,0,,,,1,,1,,,,1,,0,0,,,3,,3,2024,2023-24,div3,Finger Lakes,fingerlakescommunitycollege,justinangoraiama,Justin Angora
+May 6,home,SUNY Broome,W,12-5,12,5,7,win,20240506_bir9,2,2,1,,,,2,1,1,,,,,1,1,0,,,1,,4,2024,2023-24,div3,Finger Lakes,fingerlakescommunitycollege,justinangoraiama,Justin Angora
+May 6,home,SUNY Broome,W,7-2,7,2,5,win,20240506_y5zp,0,2,0,,,,1,2,,,,,,1,0,0,,1,,,3,2024,2023-24,div3,Finger Lakes,fingerlakescommunitycollege,justinangoraiama,Justin Angora
+May 7,home,Tompkins Cortland,W,10-4,10,4,6,win,20240507_6s7p,4,1,2,,,,2,,,1,,,,,2,0,,,2,,4,2024,2023-24,div3,Finger Lakes,fingerlakescommunitycollege,justinangoraiama,Justin Angora

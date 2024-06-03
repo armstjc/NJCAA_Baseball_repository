@@ -1,33 +1,6 @@
 date,location,opponent,result,score,team_score,opp_score,game_score_diff,game_win_loss,game_id,TC,PO,A,E,FPCT,DP,SBA,RCS,RCS_PCT,PB,CI,season,njcaa_season,njcaa_division,team,team_id,player_id,player_name
-Mar 12,home,Hagerstown,L,16-7,16,7,9,win,20240312_cj5n,0,0,0,0,2.1,4,2,2,7.71,2.14,1,2024,2023-24,div3,Minnesota West,minnesotawestcommunitytechnicalcol,jacobluftodub,Jacob Luft
-Mar 12,home,Westfield State University JV,W,7-3,7,3,4,win,20240312_kekw,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div3,Minnesota West,minnesotawestcommunitytechnicalcol,jacobluftodub,Jacob Luft
-Mar 13,home,Roxbury,W,11-5,11,5,6,win,20240313_tqth,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div3,Minnesota West,minnesotawestcommunitytechnicalcol,jacobluftodub,Jacob Luft
-Mar 13,home,Millennia Atlantic University,L,5-1,5,1,4,win,20240313_ea08,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div3,Minnesota West,minnesotawestcommunitytechnicalcol,jacobluftodub,Jacob Luft
-Mar 14,home,Hagerstown,L,8-5,8,5,3,win,20240314_jks8,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div3,Minnesota West,minnesotawestcommunitytechnicalcol,jacobluftodub,Jacob Luft
-Mar 14,home,Roxbury,W,8-7,8,7,1,win,20240314_d9k9,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div3,Minnesota West,minnesotawestcommunitytechnicalcol,jacobluftodub,Jacob Luft
-Mar 15,home,Lafleche College,L,15-3,15,3,12,win,20240315_ms3m,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div3,Minnesota West,minnesotawestcommunitytechnicalcol,jacobluftodub,Jacob Luft
-Mar 15,home,Hagerstown,L,11-10,11,10,1,win,20240315_h1pc,0,0,1,0,0.1,,,,0.00,6.00,2,2024,2023-24,div3,Minnesota West,minnesotawestcommunitytechnicalcol,jacobluftodub,Jacob Luft
-Mar 29,home,Minnesota North College - Rainy River,L,13-6,13,6,7,win,20240329_eo2o,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div3,Minnesota West,minnesotawestcommunitytechnicalcol,jacobluftodub,Jacob Luft
-Mar 29,home,Riverland,L,13-3,13,3,10,win,20240329_ewkh,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div3,Minnesota West,minnesotawestcommunitytechnicalcol,jacobluftodub,Jacob Luft
-Mar 30,home,Minnesota North College - Rainy River,L,8-5,8,5,3,win,20240330_98q4,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div3,Minnesota West,minnesotawestcommunitytechnicalcol,jacobluftodub,Jacob Luft
-Mar 30,home,Riverland,L,14-4,14,4,10,win,20240330_16aa,1,0,1,0,5.0,8,8,2,3.60,2.40,4,2024,2023-24,div3,Minnesota West,minnesotawestcommunitytechnicalcol,jacobluftodub,Jacob Luft
-Apr 6,home,Ridgewater,L,19-4,19,4,15,win,20240406_b435,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div3,Minnesota West,minnesotawestcommunitytechnicalcol,jacobluftodub,Jacob Luft
-Apr 6,home,Ridgewater,L,6-5,6,5,1,win,20240406_9hw9,0,0,1,0,1.2,5,3,3,16.20,3.00,,2024,2023-24,div3,Minnesota West,minnesotawestcommunitytechnicalcol,jacobluftodub,Jacob Luft
-Apr 10,home,Ridgewater,L,5-4,5,4,1,win,20240410_rcpr,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div3,Minnesota West,minnesotawestcommunitytechnicalcol,jacobluftodub,Jacob Luft
-Apr 10,home,Ridgewater,L,6-4,6,4,2,win,20240410_jzy2,1,0,1,0,5.0,6,5,4,7.20,1.80,3,2024,2023-24,div3,Minnesota West,minnesotawestcommunitytechnicalcol,jacobluftodub,Jacob Luft
-Apr 13,home,Central Lakes,L,7-6,7,6,1,win,20240413_gv23,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div3,Minnesota West,minnesotawestcommunitytechnicalcol,jacobluftodub,Jacob Luft
-Apr 13,home,Central Lakes,L,11-9,11,9,2,win,20240413_2ior,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div3,Minnesota West,minnesotawestcommunitytechnicalcol,jacobluftodub,Jacob Luft
-Apr 14,home,Central Lakes,L,8-7,8,7,1,win,20240414_xe8r,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div3,Minnesota West,minnesotawestcommunitytechnicalcol,jacobluftodub,Jacob Luft
-Apr 14,home,Central Lakes,L,13-12,13,12,1,win,20240414_023j,1,0,0,0,6.1,10,10,7,9.95,1.89,2,2024,2023-24,div3,Minnesota West,minnesotawestcommunitytechnicalcol,jacobluftodub,Jacob Luft
-Apr 20,home,St. Cloud Tech,L,6-5,6,5,1,win,20240420_1x7p,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div3,Minnesota West,minnesotawestcommunitytechnicalcol,jacobluftodub,Jacob Luft
-Apr 20,home,St. Cloud Tech,W,10-6,10,6,4,win,20240420_zccg,0,0,0,0,0.2,1,,,0.00,1.50,,2024,2023-24,div3,Minnesota West,minnesotawestcommunitytechnicalcol,jacobluftodub,Jacob Luft
-Apr 21,home,St. Cloud Tech,L,6-5,6,5,1,win,20240421_6occ,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div3,Minnesota West,minnesotawestcommunitytechnicalcol,jacobluftodub,Jacob Luft
-Apr 21,home,St. Cloud Tech,L,10-0,10,0,10,win,20240421_uste,0,0,0,0,0.0,0,0,0,0.00,,0,2024,2023-24,div3,Minnesota West,minnesotawestcommunitytechnicalcol,jacobluftodub,Jacob Luft
-Apr 25,home,Minnesota State,L,8-0,8,0,8,win,20240425_4do5,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div3,Minnesota West,minnesotawestcommunitytechnicalcol,jacobluftodub,Jacob Luft
-Apr 25,home,Minnesota State,L,10-4,10,4,6,win,20240425_nyr0,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div3,Minnesota West,minnesotawestcommunitytechnicalcol,jacobluftodub,Jacob Luft
-May 1,home,Minnesota State,W,8-7,8,7,1,win,20240501_8c87,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div3,Minnesota West,minnesotawestcommunitytechnicalcol,jacobluftodub,Jacob Luft
-May 1,home,Minnesota State,W,14-4,14,4,10,win,20240501_yf7f,1,0,0,0,6.0,8,4,4,6.00,1.33,0,2024,2023-24,div3,Minnesota West,minnesotawestcommunitytechnicalcol,jacobluftodub,Jacob Luft
-May 3,home,Alexandria Tech,L,13-8,13,8,5,win,20240503_j695,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div3,Minnesota West,minnesotawestcommunitytechnicalcol,jacobluftodub,Jacob Luft
-May 3,home,Alexandria Tech,L,14-2,14,2,12,win,20240503_2y0m,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div3,Minnesota West,minnesotawestcommunitytechnicalcol,jacobluftodub,Jacob Luft
-May 4,home,Alexandria Tech,L,11-1,11,1,10,win,20240504_mim8,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div3,Minnesota West,minnesotawestcommunitytechnicalcol,jacobluftodub,Jacob Luft
-May 4,home,Alexandria Tech,L,13-3,13,3,10,win,20240504_hgg6,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div3,Minnesota West,minnesotawestcommunitytechnicalcol,jacobluftodub,Jacob Luft
+Mar 4,home,DWU jv,L,9-3,9,3,6,win,20240304_qzp5,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div3,Minnesota West,minnesotawestcommunitytechnicalcol,jacobluftodub,Jacob Luft
+Mar 5,home,Bismarck State,L,13-1,13,1,12,win,20240305_l467,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div3,Minnesota West,minnesotawestcommunitytechnicalcol,jacobluftodub,Jacob Luft
+Mar 16,home,Northeast,L,6-5,6,5,1,win,20240316_alsj,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div3,Minnesota West,minnesotawestcommunitytechnicalcol,jacobluftodub,Jacob Luft
+Mar 19,home,St. Cloud Tech,L,21-11,21,11,10,win,20240319_0gjh,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div3,Minnesota West,minnesotawestcommunitytechnicalcol,jacobluftodub,Jacob Luft
+Apr 5,home,Minnesota Post Grad,W,10-9,10,9,1,win,20240405_r4ek,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div3,Minnesota West,minnesotawestcommunitytechnicalcol,jacobluftodub,Jacob Luft

@@ -1,12 +1,24 @@
 date,location,opponent,result,score,team_score,opp_score,game_score_diff,game_win_loss,game_id,AB,R,H,2B,3B,HR,RBI,BB,K,SB,CS,HBP,SF,SH,TB,XBH,HDP,GO,FO,GO/FO,PA,season,njcaa_season,njcaa_division,team,team_id,player_id,player_name
-Mar 1,home,Camden County,W,14-2,14,2,12,win,20240301_uea8,1,0,0,,,,0,,,,,,,,0,0,,,,,1,2024,2023-24,div3,Brookdale,brookdalecommunitycollege,kensilfloresasbu,Kensil Flores
-Mar 3,home,Luzerne County,W,10-0,10,0,10,win,20240303_nq0k,1,0,0,,,,0,,1,,,,,,0,0,,,,,1,2024,2023-24,div3,Brookdale,brookdalecommunitycollege,kensilfloresasbu,Kensil Flores
-Mar 3,home,Luzerne County,W,17-3,17,3,14,win,20240303_hqyd,1,0,0,,,,0,,1,,,,,,0,0,,,,,1,2024,2023-24,div3,Brookdale,brookdalecommunitycollege,kensilfloresasbu,Kensil Flores
-Mar 10,home,Bronx,W,13-1,13,1,12,win,20240310_69fu,1,0,0,,,,0,,1,,,,,,0,0,,,,,1,2024,2023-24,div3,Brookdale,brookdalecommunitycollege,kensilfloresasbu,Kensil Flores
-Mar 10,home,Bronx,W,23-3,23,3,20,win,20240310_8mn0,2,1,1,,1,,2,,,,,,,,3,1,,,,,2,2024,2023-24,div3,Brookdale,brookdalecommunitycollege,kensilfloresasbu,Kensil Flores
-Mar 18,home,RCSJ Cumberland,W,25-5,25,5,20,win,20240318_nbof,0,0,0,,,,0,1,,,,,,,0,0,,,,,1,2024,2023-24,div3,Brookdale,brookdalecommunitycollege,kensilfloresasbu,Kensil Flores
-Apr 6,home,Bergen,W,20-5,20,5,15,win,20240406_yre2,1,0,1,1,,,2,,,,,,,,2,1,,,,,1,2024,2023-24,div3,Brookdale,brookdalecommunitycollege,kensilfloresasbu,Kensil Flores
-Apr 7,home,Delaware County,W,26-2,26,2,24,win,20240407_ewtr,0,0,1,1,,,0,,,,,,,,0,1,,,,,0,2024,2023-24,div3,Brookdale,brookdalecommunitycollege,kensilfloresasbu,Kensil Flores
-Apr 7,home,Delaware County,W,26-0,26,0,26,win,20240407_esq4,1,0,1,1,,,0,,,,,,,,2,1,,,,,1,2024,2023-24,div3,Brookdale,brookdalecommunitycollege,kensilfloresasbu,Kensil Flores
-Apr 13,home,Middlesex College,W,19-1,19,1,18,win,20240413_ely9,1,0,0,,,,0,,1,,,,,,0,0,,,,,1,2024,2023-24,div3,Brookdale,brookdalecommunitycollege,kensilfloresasbu,Kensil Flores
-May 3,home,Lehigh Carbon,W,17-0,17,0,17,win,20240503_yf9q,1,1,1,,,,0,,,,,,,,1,0,,,,,1,2024,2023-24,div3,Brookdale,brookdalecommunitycollege,kensilfloresasbu,Kensil Flores
+Feb 25,home,Rockland,W,11-4,11,4,7,win,20240225_ydrz,0,0,0,,,,0,,,1,,,,,0,0,,,,,0,2024,2023-24,div3,Brookdale,brookdalecommunitycollege,kensilfloresasbu,Kensil Flores
+Mar 1,home,Camden County,W,11-0,11,0,11,win,20240301_y0to,1,0,0,,,,0,,,,,,,,0,0,,,,,1,2024,2023-24,div3,Brookdale,brookdalecommunitycollege,kensilfloresasbu,Kensil Flores
+Mar 1,home,Camden County,W,14-2,14,2,12,win,20240301_uea8,2,0,1,1,,,1,,1,,,,,,2,1,,,,,2,2024,2023-24,div3,Brookdale,brookdalecommunitycollege,kensilfloresasbu,Kensil Flores
+Mar 3,home,Luzerne County,W,10-0,10,0,10,win,20240303_nq0k,3,1,1,1,,,2,1,,,,,,,2,1,,,,,4,2024,2023-24,div3,Brookdale,brookdalecommunitycollege,kensilfloresasbu,Kensil Flores
+Mar 3,home,Luzerne County,W,17-3,17,3,14,win,20240303_hqyd,4,1,1,1,,,0,,2,,,,,,2,1,,,,,4,2024,2023-24,div3,Brookdale,brookdalecommunitycollege,kensilfloresasbu,Kensil Flores
+Mar 8,home,Montgomery County,W,10-2,10,2,8,win,20240308_sp49,1,0,0,,,,0,,,,,,,,0,0,,,,,1,2024,2023-24,div3,Brookdale,brookdalecommunitycollege,kensilfloresasbu,Kensil Flores
+Mar 10,home,Bronx,W,13-1,13,1,12,win,20240310_69fu,1,0,0,,,,0,,,,,,,,0,0,,,,,1,2024,2023-24,div3,Brookdale,brookdalecommunitycollege,kensilfloresasbu,Kensil Flores
+Mar 10,home,Bronx,W,23-3,23,3,20,win,20240310_8mn0,2,4,1,1,,,1,2,,,,1,,,2,1,,,,,5,2024,2023-24,div3,Brookdale,brookdalecommunitycollege,kensilfloresasbu,Kensil Flores
+Mar 13,home,Monroe College JV,W,13-1,13,1,12,win,20240313_48hf,1,0,0,,,,0,,1,,,,,,0,0,,,,,1,2024,2023-24,div3,Brookdale,brookdalecommunitycollege,kensilfloresasbu,Kensil Flores
+Mar 18,home,RCSJ Cumberland,W,25-5,25,5,20,win,20240318_nbof,2,0,1,,1,,2,,,,,,,,3,1,,,,,2,2024,2023-24,div3,Brookdale,brookdalecommunitycollege,kensilfloresasbu,Kensil Flores
+Mar 24,home,Salem,W,14-10,14,10,4,win,20240324_z9ae,4,1,1,1,,,1,,,,,,,,2,1,,,,,4,2024,2023-24,div3,Brookdale,brookdalecommunitycollege,kensilfloresasbu,Kensil Flores
+Apr 5,home,Bergen,W,15-10,15,10,5,win,20240405_ujqt,5,1,1,,,,0,1,1,,,,,,1,0,,1,2,0.50,6,2024,2023-24,div3,Brookdale,brookdalecommunitycollege,kensilfloresasbu,Kensil Flores
+Apr 7,home,Delaware County,W,26-2,26,2,24,win,20240407_ewtr,2,0,1,,,,0,,,,,,,,1,0,,,,,2,2024,2023-24,div3,Brookdale,brookdalecommunitycollege,kensilfloresasbu,Kensil Flores
+Apr 7,home,Delaware County,W,26-0,26,0,26,win,20240407_esq4,6,3,1,,,,1,,,,,,,,1,0,,,,,6,2024,2023-24,div3,Brookdale,brookdalecommunitycollege,kensilfloresasbu,Kensil Flores
+Apr 10,home,Monroe College,T,6-6,6,6,0,tie,20240410_yil1,4,0,2,,,,1,1,,,,,,,2,0,,2,,,5,2024,2023-24,div3,Brookdale,brookdalecommunitycollege,kensilfloresasbu,Kensil Flores
+Apr 13,home,Middlesex College,W,19-1,19,1,18,win,20240413_ely9,2,0,1,,1,,2,,,,,,,,3,1,,,,,2,2024,2023-24,div3,Brookdale,brookdalecommunitycollege,kensilfloresasbu,Kensil Flores
+Apr 15,home,Middlesex College,W,5-3,5,3,2,win,20240415_28sx,4,0,2,,,,0,1,,1,1,,,,2,0,,,,,5,2024,2023-24,div3,Brookdale,brookdalecommunitycollege,kensilfloresasbu,Kensil Flores
+Apr 17,home,Mercer County,W,19-4,19,4,15,win,20240417_bnt7,0,0,0,,,,0,,,,,1,,,0,0,,,,,1,2024,2023-24,div3,Brookdale,brookdalecommunitycollege,kensilfloresasbu,Kensil Flores
+Apr 19,home,Union,W,17-1,17,1,16,win,20240419_r7co,2,1,1,,,,1,,,,,,,,1,0,,,,,2,2024,2023-24,div3,Brookdale,brookdalecommunitycollege,kensilfloresasbu,Kensil Flores
+Apr 20,home,Union,W,12-1,12,1,11,win,20240420_kssi,1,1,1,,,,0,,,,,,,,1,0,,,,,1,2024,2023-24,div3,Brookdale,brookdalecommunitycollege,kensilfloresasbu,Kensil Flores
+Apr 20,home,Union,W,9-6,9,6,3,win,20240420_dupe,2,0,0,,,,0,,,,,,,,0,0,,,,,2,2024,2023-24,div3,Brookdale,brookdalecommunitycollege,kensilfloresasbu,Kensil Flores
+May 3,home,Lehigh Carbon,W,17-0,17,0,17,win,20240503_yf9q,1,1,0,,,,0,2,,1,,,,,0,0,,,,,3,2024,2023-24,div3,Brookdale,brookdalecommunitycollege,kensilfloresasbu,Kensil Flores
+May 5,home,Suffolk County,W,12-1,12,1,11,win,20240505_35wq,1,0,0,,,,1,1,,,,,,,0,0,,,,,2,2024,2023-24,div3,Brookdale,brookdalecommunitycollege,kensilfloresasbu,Kensil Flores

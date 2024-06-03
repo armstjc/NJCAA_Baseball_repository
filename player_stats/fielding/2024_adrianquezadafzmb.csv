@@ -1,8 +1,23 @@
 date,location,opponent,result,score,team_score,opp_score,game_score_diff,game_win_loss,game_id,TC,PO,A,E,FPCT,DP,SBA,RCS,RCS_PCT,PB,CI,season,njcaa_season,njcaa_division,team,team_id,player_id,player_name
-Mar 8,home,Owens,L,11-3,11,3,8,win,20240308_1y82,1,0,1,0,4.2,6,6,5,9.64,2.14,4,2024,2023-24,div3,Monroe College - Bronx,monroecollegebronx,adrianquezadafzmb,Adrian Quezada
-Mar 29,home,Alexandria Tech,L,4-3,4,3,1,win,20240329_py7n,1,0,0,0,6.2,4,2,2,2.70,.90,2,2024,2023-24,div3,Monroe College - Bronx,monroecollegebronx,adrianquezadafzmb,Adrian Quezada
-Apr 6,home,Anoka-Ramsey,W,6-5,6,5,1,win,20240406_9hw9,1,0,0,0,3.2,8,5,5,12.27,4.09,7,2024,2023-24,div3,Monroe College - Bronx,monroecollegebronx,adrianquezadafzmb,Adrian Quezada
-Apr 13,home,St. Cloud Tech,L,13-4,13,4,9,win,20240413_1d03,1,0,1,0,2.2,5,6,5,16.88,2.63,2,2024,2023-24,div3,Monroe College - Bronx,monroecollegebronx,adrianquezadafzmb,Adrian Quezada
-Apr 21,home,Minnesota State,W,11-9,11,9,2,win,20240421_qshn,0,0,0,0,0.2,0,3,3,40.50,4.50,3,2024,2023-24,div3,Monroe College - Bronx,monroecollegebronx,adrianquezadafzmb,Adrian Quezada
-May 1,home,Alexandria Tech,L,4-2,4,2,2,win,20240501_tbmz,0,0,1,0,5.0,9,4,3,5.40,2.40,3,2024,2023-24,div3,Monroe College - Bronx,monroecollegebronx,adrianquezadafzmb,Adrian Quezada
-May 9,home,Rochester,L,9-1,9,1,8,win,20240509_osnx,0,0,0,0,0.1,3,3,3,81.00,9.00,,2024,2023-24,div3,Monroe College - Bronx,monroecollegebronx,adrianquezadafzmb,Adrian Quezada
+Feb 17,home,Owens,L,9-4,9,4,5,win,20240217_1l9w,1,0,1,0,4.1,7,6,6,12.46,2.31,3,2024,2023-24,div3,Monroe College - Bronx,monroecollegebronx,adrianquezadafzmb,Adrian Quezada
+Feb 18,home,Virginia Peninsula CC,L,15-1,15,1,14,win,20240218_btie,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div3,Monroe College - Bronx,monroecollegebronx,adrianquezadafzmb,Adrian Quezada
+Feb 24,home,Delaware Tech,L,5-0,5,0,5,win,20240224_b36j,1,0,1,0,5.2,7,5,0,0.00,1.41,1,2024,2023-24,div3,Monroe College - Bronx,monroecollegebronx,adrianquezadafzmb,Adrian Quezada
+Mar 8,home,Montgomery,L,12-2,12,2,10,win,20240308_vrng,1,0,1,0,4.0,5,8,7,15.75,2.50,5,2024,2023-24,div3,Monroe College - Bronx,monroecollegebronx,adrianquezadafzmb,Adrian Quezada
+Mar 8,home,Montgomery,L,12-0,12,0,12,win,20240308_fldg,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div3,Monroe College - Bronx,monroecollegebronx,adrianquezadafzmb,Adrian Quezada
+Mar 15,home,Lackawanna,L,29-0,29,0,29,win,20240315_6hq8,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div3,Monroe College - Bronx,monroecollegebronx,adrianquezadafzmb,Adrian Quezada
+Mar 19,home,Borough of Manhattan,W,17-1,17,1,16,win,20240319_9qvq,1,1,0,0,7.0,1,1,0,0.00,.57,3,2024,2023-24,div3,Monroe College - Bronx,monroecollegebronx,adrianquezadafzmb,Adrian Quezada
+Mar 22,home,Borough of Manhattan,W,19-2,19,2,17,win,20240322_qfy6,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div3,Monroe College - Bronx,monroecollegebronx,adrianquezadafzmb,Adrian Quezada
+Mar 26,home,Nassau,W,9-3,9,3,6,win,20240326_b03g,1,1,0,0,8.0,4,0,0,0.00,.63,1,2024,2023-24,div3,Monroe College - Bronx,monroecollegebronx,adrianquezadafzmb,Adrian Quezada
+Apr 9,home,Suffolk County,W,12-1,12,1,11,win,20240409_sx2m,1,1,0,0,7.0,2,1,1,1.29,.57,2,2024,2023-24,div3,Monroe College - Bronx,monroecollegebronx,adrianquezadafzmb,Adrian Quezada
+Apr 13,home,Suffolk County,L,4-3,4,3,1,win,20240413_kahd,0,0,1,0,0.2,1,2,2,27.00,4.50,2,2024,2023-24,div3,Monroe College - Bronx,monroecollegebronx,adrianquezadafzmb,Adrian Quezada
+Apr 13,home,Suffolk County,L,13-2,13,2,11,win,20240413_xe05,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div3,Monroe College - Bronx,monroecollegebronx,adrianquezadafzmb,Adrian Quezada
+Apr 16,home,Kingsborough,W,11-7,11,7,4,win,20240416_6hr5,1,0,0,0,3.1,6,6,5,13.50,3.00,4,2024,2023-24,div3,Monroe College - Bronx,monroecollegebronx,adrianquezadafzmb,Adrian Quezada
+Apr 20,home,Kingsborough,W,12-7,12,7,5,win,20240420_bzjh,0,0,0,0,1.0,,,,0.00,1.00,1,2024,2023-24,div3,Monroe College - Bronx,monroecollegebronx,adrianquezadafzmb,Adrian Quezada
+Apr 23,home,Bronx,W,32-0,32,0,32,win,20240423_7kxc,0,1,0,0,7.0,,,,0.00,.29,2,2024,2023-24,div3,Monroe College - Bronx,monroecollegebronx,adrianquezadafzmb,Adrian Quezada
+Apr 30,home,Queensborough,W,8-1,8,1,7,win,20240430_gizv,1,1,0,0,9.0,2,1,0,0.00,.44,2,2024,2023-24,div3,Monroe College - Bronx,monroecollegebronx,adrianquezadafzmb,Adrian Quezada
+May 3,home,Queensborough,W,13-3,13,3,10,win,20240503_ujwg,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div3,Monroe College - Bronx,monroecollegebronx,adrianquezadafzmb,Adrian Quezada
+May 4,home,Queensborough,W,16-4,16,4,12,win,20240504_a2ut,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div3,Monroe College - Bronx,monroecollegebronx,adrianquezadafzmb,Adrian Quezada
+May 9,home,Nassau,W,6-2,6,2,4,win,20240509_9w2c,1,1,0,0,9.0,8,2,1,1.00,1.33,4,2024,2023-24,div3,Monroe College - Bronx,monroecollegebronx,adrianquezadafzmb,Adrian Quezada
+May 11,home,Kingsborough,L,17-2,17,2,15,win,20240511_jygz,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div3,Monroe College - Bronx,monroecollegebronx,adrianquezadafzmb,Adrian Quezada
+May 11,home,Suffolk County,W,12-11,12,11,1,win,20240511_0tsh,0,0,0,1,1.0,2,1,1,9.00,3.00,1,2024,2023-24,div3,Monroe College - Bronx,monroecollegebronx,adrianquezadafzmb,Adrian Quezada
+May 12,home,Kingsborough,L,12-1,12,1,11,win,20240512_1dul,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div3,Monroe College - Bronx,monroecollegebronx,adrianquezadafzmb,Adrian Quezada

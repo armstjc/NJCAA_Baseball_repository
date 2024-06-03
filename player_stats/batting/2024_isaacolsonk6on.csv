@@ -1,30 +1,24 @@
 date,location,opponent,result,score,team_score,opp_score,game_score_diff,game_win_loss,game_id,AB,R,H,2B,3B,HR,RBI,BB,K,SB,CS,HBP,SF,SH,TB,XBH,HDP,GO,FO,GO/FO,PA,season,njcaa_season,njcaa_division,team,team_id,player_id,player_name
-Mar 10,home,Dawson,W,9-5,9,5,4,win,20240310_h0ce,4,0,0,,,,0,,1,,,1,,,0,0,,,,,5,2024,2023-24,div3,Riverland,riverlandcommunitycollege,isaacolsonk6on,Isaac Olson
-Mar 10,home,Dawson,W,18-15,18,15,3,win,20240310_0ksq,3,2,1,,,,2,2,1,,,,,,1,0,,,,,5,2024,2023-24,div3,Riverland,riverlandcommunitycollege,isaacolsonk6on,Isaac Olson
-Mar 11,home,Delta Blue Jays,W,6-5,6,5,1,win,20240311_6vxh,4,1,2,,1,,1,,1,,,,,,4,1,,,,,4,2024,2023-24,div3,Riverland,riverlandcommunitycollege,isaacolsonk6on,Isaac Olson
-Mar 12,home,Minnesota North College - Rainy River,W,15-6,15,6,9,win,20240312_cicm,3,2,1,1,0,0,3,2,0,0,0,0,0,0,2,1,,0,,,5,2024,2023-24,div3,Riverland,riverlandcommunitycollege,isaacolsonk6on,Isaac Olson
-Mar 14,home,Central Lakes,W,15-8,15,8,7,win,20240314_mx7d,2,3,1,,,,2,3,,1,,,,,1,0,,,,,5,2024,2023-24,div3,Riverland,riverlandcommunitycollege,isaacolsonk6on,Isaac Olson
-Mar 14,home,Williston State,W,6-4,6,4,2,win,20240314_zyue,3,0,0,,,,0,,1,,,,,,0,0,,,,,3,2024,2023-24,div3,Riverland,riverlandcommunitycollege,isaacolsonk6on,Isaac Olson
-Mar 15,home,Minnesota North College - Rainy River,W,4-2,4,2,2,win,20240315_vtwq,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0,,,0,2024,2023-24,div3,Riverland,riverlandcommunitycollege,isaacolsonk6on,Isaac Olson
-Mar 16,home,Going Yard Academy,W,15-6,15,6,9,win,20240316_sn5n,5,1,2,,,,0,,2,1,,,,,2,0,,,,,5,2024,2023-24,div3,Riverland,riverlandcommunitycollege,isaacolsonk6on,Isaac Olson
-Mar 21,home,Minnesota North College - Vermilion,W,10-0,10,0,10,win,20240321_iyks,2,1,0,,,,0,,,,,1,,,0,0,,,,,3,2024,2023-24,div3,Riverland,riverlandcommunitycollege,isaacolsonk6on,Isaac Olson
-Mar 21,home,Minnesota North College - Vermilion,W,9-1,9,1,8,win,20240321_4lwp,2,0,0,,,,0,,1,,,,,,0,0,,,,,2,2024,2023-24,div3,Riverland,riverlandcommunitycollege,isaacolsonk6on,Isaac Olson
-Mar 29,home,Minnesota North College - Rainy River,W,4-2,4,2,2,win,20240329_b7ci,4,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,0,,,4,2024,2023-24,div3,Riverland,riverlandcommunitycollege,isaacolsonk6on,Isaac Olson
-Mar 29,home,Anoka-Ramsey,W,13-3,13,3,10,win,20240329_ewkh,2,2,1,,,,1,,,,,,,,1,0,,,,,2,2024,2023-24,div3,Riverland,riverlandcommunitycollege,isaacolsonk6on,Isaac Olson
-Mar 30,home,Minnesota North College - Rainy River,W,8-7,8,7,1,win,20240330_6byt,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0,,,3,2024,2023-24,div3,Riverland,riverlandcommunitycollege,isaacolsonk6on,Isaac Olson
-Mar 30,home,Anoka-Ramsey,W,14-4,14,4,10,win,20240330_16aa,3,0,1,,1,,1,1,,,,,,1,3,1,,,,,5,2024,2023-24,div3,Riverland,riverlandcommunitycollege,isaacolsonk6on,Isaac Olson
-Apr 10,home,Viterbo University JV,W,13-3,13,3,10,win,20240410_fxv7,0,0,0,,,,0,,,,,,,,0,0,,,,,0,2024,2023-24,div3,Riverland,riverlandcommunitycollege,isaacolsonk6on,Isaac Olson
-Apr 13,home,Minnesota Post Grad,W,18-9,18,9,9,win,20240413_ii9z,0,1,0,,,,0,1,,,,,,,0,0,,,,,1,2024,2023-24,div3,Riverland,riverlandcommunitycollege,isaacolsonk6on,Isaac Olson
-Apr 14,home,Minnesota Post Grad,W,15-5,15,5,10,win,20240414_p0zy,4,2,3,2,,,2,,,,,,,,5,2,,,,,4,2024,2023-24,div3,Riverland,riverlandcommunitycollege,isaacolsonk6on,Isaac Olson
-Apr 14,home,Minnesota Post Grad,W,5-4,5,4,1,win,20240414_r65b,2,0,0,,,,0,1,,,,,,,0,0,,,,,3,2024,2023-24,div3,Riverland,riverlandcommunitycollege,isaacolsonk6on,Isaac Olson
-Apr 20,home,Century,W,2-1,2,1,1,win,20240420_rkbs,3,0,1,1,0,0,0,1,0,0,0,0,0,0,2,1,,0,,,4,2024,2023-24,div3,Riverland,riverlandcommunitycollege,isaacolsonk6on,Isaac Olson
-Apr 20,home,Century,W,13-3,13,3,10,win,20240420_dlbi,4,3,2,1,0,0,2,0,0,1,0,0,0,0,3,1,,0,,,4,2024,2023-24,div3,Riverland,riverlandcommunitycollege,isaacolsonk6on,Isaac Olson
-Apr 27,home,Minnesota West,W,9-4,9,4,5,win,20240427_hy3m,4,1,0,,,,0,,,,,,,,0,0,,,,,4,2024,2023-24,div3,Riverland,riverlandcommunitycollege,isaacolsonk6on,Isaac Olson
-Apr 29,home,Minnesota West,W,13-7,13,7,6,win,20240429_iqqs,4,2,3,1,,1,3,,,,,,,,7,2,,,,,4,2024,2023-24,div3,Riverland,riverlandcommunitycollege,isaacolsonk6on,Isaac Olson
-Apr 29,home,Minnesota West,W,14-3,14,3,11,win,20240429_z0iv,3,1,1,,,,1,,,,,,1,,1,0,,,,,4,2024,2023-24,div3,Riverland,riverlandcommunitycollege,isaacolsonk6on,Isaac Olson
-May 5,home,Western Tech,W,5-0,5,0,5,win,20240505_gj36,3,0,1,,,,0,,1,,1,,,,1,0,,,,,3,2024,2023-24,div3,Riverland,riverlandcommunitycollege,isaacolsonk6on,Isaac Olson
-May 5,home,Western Tech,W,5-4,5,4,1,win,20240505_sn3b,3,2,2,,,,1,,,1,1,,,,2,0,,,,,3,2024,2023-24,div3,Riverland,riverlandcommunitycollege,isaacolsonk6on,Isaac Olson
-May 6,home,Western Tech,W,6-1,6,1,5,win,20240506_ghs4,3,1,1,,,1,1,,,1,,,,,4,1,,1,1,1.00,3,2024,2023-24,div3,Riverland,riverlandcommunitycollege,isaacolsonk6on,Isaac Olson
-May 6,home,Western Tech,W,11-0,11,0,11,win,20240506_xkgd,1,2,0,,,,0,1,1,1,,1,,,0,0,,,,,3,2024,2023-24,div3,Riverland,riverlandcommunitycollege,isaacolsonk6on,Isaac Olson
-May 9,home,Minnesota North College - Hibbing,W,8-4,8,4,4,win,20240509_obk2,3,0,0,,,,1,1,,,,,,,0,0,,,,,4,2024,2023-24,div3,Riverland,riverlandcommunitycollege,isaacolsonk6on,Isaac Olson
-May 10,home,Ridgewater,W,12-2,12,2,10,win,20240510_qlwv,2,2,1,,,,1,,,1,,1,1,1,1,0,,,,,5,2024,2023-24,div3,Riverland,riverlandcommunitycollege,isaacolsonk6on,Isaac Olson
+Mar 10,home,Dawson,W,9-5,9,5,4,win,20240310_h0ce,5,3,3,1,,,1,,1,,,,,,4,1,,,,,5,2024,2023-24,div3,Riverland,riverlandcommunitycollege,isaacolsonk6on,Isaac Olson
+Mar 10,home,Dawson,W,18-15,18,15,3,win,20240310_0ksq,2,3,0,,,,1,3,,,,,,,0,0,,,,,5,2024,2023-24,div3,Riverland,riverlandcommunitycollege,isaacolsonk6on,Isaac Olson
+Mar 11,home,Delta Blue Jays,W,6-5,6,5,1,win,20240311_6vxh,4,0,1,,1,,1,,1,,,,,,3,1,,,,,4,2024,2023-24,div3,Riverland,riverlandcommunitycollege,isaacolsonk6on,Isaac Olson
+Mar 12,home,Minnesota North College - Rainy River,W,15-6,15,6,9,win,20240312_cicm,1,2,1,0,0,0,2,3,0,0,0,0,1,0,1,0,,0,,,5,2024,2023-24,div3,Riverland,riverlandcommunitycollege,isaacolsonk6on,Isaac Olson
+Mar 14,home,Central Lakes,W,15-8,15,8,7,win,20240314_mx7d,4,3,4,,1,,2,1,,,,,,,6,1,,,,,5,2024,2023-24,div3,Riverland,riverlandcommunitycollege,isaacolsonk6on,Isaac Olson
+Mar 14,home,Williston State,W,6-4,6,4,2,win,20240314_zyue,2,0,0,,,,0,,2,1,,2,,,0,0,,,,,4,2024,2023-24,div3,Riverland,riverlandcommunitycollege,isaacolsonk6on,Isaac Olson
+Mar 15,home,Minnesota North College - Rainy River,W,4-2,4,2,2,win,20240315_vtwq,1,0,1,0,0,0,0,3,0,0,0,0,0,0,1,0,,0,,,4,2024,2023-24,div3,Riverland,riverlandcommunitycollege,isaacolsonk6on,Isaac Olson
+Mar 16,home,Going Yard Academy,W,15-6,15,6,9,win,20240316_sn5n,4,2,2,,1,,2,,,,,,,,4,1,,,,,4,2024,2023-24,div3,Riverland,riverlandcommunitycollege,isaacolsonk6on,Isaac Olson
+Mar 21,home,Minnesota North College - Vermilion,W,10-0,10,0,10,win,20240321_iyks,4,1,2,,,,1,,,,,,,,2,0,,,,,4,2024,2023-24,div3,Riverland,riverlandcommunitycollege,isaacolsonk6on,Isaac Olson
+Mar 21,home,Minnesota North College - Vermilion,W,9-1,9,1,8,win,20240321_4lwp,3,0,0,,,,0,,1,,,,,,0,0,,,,,3,2024,2023-24,div3,Riverland,riverlandcommunitycollege,isaacolsonk6on,Isaac Olson
+Mar 29,home,Minnesota North College - Rainy River,W,4-2,4,2,2,win,20240329_b7ci,4,1,1,1,0,0,0,0,3,0,0,0,0,0,2,1,,0,,,4,2024,2023-24,div3,Riverland,riverlandcommunitycollege,isaacolsonk6on,Isaac Olson
+Mar 29,home,Anoka-Ramsey,W,13-3,13,3,10,win,20240329_ewkh,2,2,1,,,,0,1,1,,,,,,1,0,,,,,3,2024,2023-24,div3,Riverland,riverlandcommunitycollege,isaacolsonk6on,Isaac Olson
+Mar 30,home,Minnesota North College - Rainy River,W,8-7,8,7,1,win,20240330_6byt,3,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,,0,,,3,2024,2023-24,div3,Riverland,riverlandcommunitycollege,isaacolsonk6on,Isaac Olson
+Mar 30,home,Anoka-Ramsey,W,14-4,14,4,10,win,20240330_16aa,3,0,1,,,,0,1,1,1,,,,1,1,0,,,,,5,2024,2023-24,div3,Riverland,riverlandcommunitycollege,isaacolsonk6on,Isaac Olson
+Apr 10,home,Viterbo University JV,W,13-3,13,3,10,win,20240410_fxv7,3,0,2,,1,,1,,1,,,,,,4,1,,,,,3,2024,2023-24,div3,Riverland,riverlandcommunitycollege,isaacolsonk6on,Isaac Olson
+Apr 10,home,Viterbo University JV,W,15-8,15,8,7,win,20240410_cucx,4,2,2,,,,0,,,,,,,,2,0,,,,,4,2024,2023-24,div3,Riverland,riverlandcommunitycollege,isaacolsonk6on,Isaac Olson
+Apr 13,home,Minnesota Post Grad,W,18-9,18,9,9,win,20240413_ii9z,2,0,0,,,,0,1,,1,,1,1,,0,0,,,,,5,2024,2023-24,div3,Riverland,riverlandcommunitycollege,isaacolsonk6on,Isaac Olson
+Apr 14,home,Minnesota Post Grad,W,15-5,15,5,10,win,20240414_p0zy,1,1,1,,,,1,,,,,1,,1,1,0,,,,,3,2024,2023-24,div3,Riverland,riverlandcommunitycollege,isaacolsonk6on,Isaac Olson
+Apr 14,home,Minnesota Post Grad,W,5-4,5,4,1,win,20240414_r65b,3,1,0,,,,0,1,2,,,,,,0,0,,,,,4,2024,2023-24,div3,Riverland,riverlandcommunitycollege,isaacolsonk6on,Isaac Olson
+Apr 20,home,Century,W,2-1,2,1,1,win,20240420_rkbs,5,0,1,0,0,0,0,0,3,0,0,0,0,0,1,0,,0,,,5,2024,2023-24,div3,Riverland,riverlandcommunitycollege,isaacolsonk6on,Isaac Olson
+Apr 20,home,Century,W,13-3,13,3,10,win,20240420_dlbi,3,1,0,0,0,0,1,0,1,0,0,0,0,1,0,0,,0,,,4,2024,2023-24,div3,Riverland,riverlandcommunitycollege,isaacolsonk6on,Isaac Olson
+Apr 29,home,Minnesota West,W,13-7,13,7,6,win,20240429_iqqs,1,0,0,,,,0,,1,,,,,,0,0,,,,,1,2024,2023-24,div3,Riverland,riverlandcommunitycollege,isaacolsonk6on,Isaac Olson
+May 6,home,Western Tech,W,11-0,11,0,11,win,20240506_xkgd,1,1,0,,,,0,1,,,,,,,0,0,,,1,,2,2024,2023-24,div3,Riverland,riverlandcommunitycollege,isaacolsonk6on,Isaac Olson
