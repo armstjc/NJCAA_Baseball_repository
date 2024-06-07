@@ -1,19 +1,24 @@
 date,location,opponent,result,score,team_score,opp_score,game_score_diff,game_win_loss,game_id,TC,PO,A,E,FPCT,DP,SBA,RCS,RCS_PCT,PB,CI,season,njcaa_season,njcaa_division,team,team_id,player_id,player_name
-Feb 3,home,Anne Arundel,W,11-7,11,7,4,win,20240203_vp0k,0,0,0,0,4.2,6,6,6,11.57,1.50,1,2024,2023-24,div3,Surry,surrycommunitycollege,bradyhalsteadc3at,Brady Halstead
-Feb 10,home,Guilford Tech,W,7-3,7,3,4,win,20240210_kon7,0,0,0,0,2.2,3,2,1,3.38,1.13,,2024,2023-24,div3,Surry,surrycommunitycollege,bradyhalsteadc3at,Brady Halstead
-Feb 16,home,Suffolk County,W,11-4,11,4,7,win,20240216_2z8j,0,0,0,1,1.1,,,,0.00,,,2024,2023-24,div3,Surry,surrycommunitycollege,bradyhalsteadc3at,Brady Halstead
-Feb 17,home,Suffolk County,W,11-6,11,6,5,win,20240217_s3mw,0,0,0,1,1.2,1,,,0.00,1.20,1,2024,2023-24,div3,Surry,surrycommunitycollege,bradyhalsteadc3at,Brady Halstead
-Feb 26,home,Averett University JV,W,16-2,16,2,14,win,20240226_b9qw,0,0,0,0,1.0,2,1,1,9.00,3.00,1,2024,2023-24,div3,Surry,surrycommunitycollege,bradyhalsteadc3at,Brady Halstead
-Mar 3,home,Camp,W,2-0,2,0,2,win,20240303_c461,0,0,0,1,0.1,0,0,0,0.00,.00,0,2024,2023-24,div3,Surry,surrycommunitycollege,bradyhalsteadc3at,Brady Halstead
-Mar 5,home,Ferrum College JV,W,9-7,9,7,2,win,20240305_5se2,0,0,0,1,1.0,,,,0.00,,,2024,2023-24,div3,Surry,surrycommunitycollege,bradyhalsteadc3at,Brady Halstead
-Mar 5,home,Ferrum College JV,W,5-4,5,4,1,win,20240305_h9z7,0,0,0,1,0.2,1,,,0.00,4.50,2,2024,2023-24,div3,Surry,surrycommunitycollege,bradyhalsteadc3at,Brady Halstead
-Mar 8,home,Caldwell Tech,L,7-6,7,6,1,win,20240308_7oup,0,0,0,0,1.0,,,,0.00,,,2024,2023-24,div3,Surry,surrycommunitycollege,bradyhalsteadc3at,Brady Halstead
-Mar 17,home,Rockingham,W,8-4,8,4,4,win,20240317_ubnb,0,0,0,1,1.1,1,1,,0.00,.75,,2024,2023-24,div3,Surry,surrycommunitycollege,bradyhalsteadc3at,Brady Halstead
-Mar 23,home,Virginia Peninsula CC,W,6-4,6,4,2,win,20240323_1adl,0,0,0,0,1.0,1,0,0,0.00,1.00,0,2024,2023-24,div3,Surry,surrycommunitycollege,bradyhalsteadc3at,Brady Halstead
-Mar 24,home,Virginia Peninsula CC,W,17-8,17,8,9,win,20240324_od9s,0,0,0,0,0.0,0,0,0,0.00,,0,2024,2023-24,div3,Surry,surrycommunitycollege,bradyhalsteadc3at,Brady Halstead
-Mar 29,home,New River,W,6-4,6,4,2,win,20240329_gwq8,0,1,0,0,1.0,,,,0.00,,,2024,2023-24,div3,Surry,surrycommunitycollege,bradyhalsteadc3at,Brady Halstead
-Apr 7,home,Camp,W,7-4,7,4,3,win,20240407_2bgh,0,0,0,0,1.2,4,2,2,10.80,2.40,0,2024,2023-24,div3,Surry,surrycommunitycollege,bradyhalsteadc3at,Brady Halstead
-Apr 14,home,Caldwell Tech,W,2-0,2,0,2,win,20240414_qtcs,0,0,0,1,1.2,,,,0.00,,,2024,2023-24,div3,Surry,surrycommunitycollege,bradyhalsteadc3at,Brady Halstead
-Apr 20,home,Rockingham,L,4-3,4,3,1,win,20240420_izzu,0,0,0,0,0.2,2,1,1,13.50,3.00,,2024,2023-24,div3,Surry,surrycommunitycollege,bradyhalsteadc3at,Brady Halstead
-Apr 26,home,Virginia Peninsula CC,W,11-8,11,8,3,win,20240426_eje6,0,0,0,1,1.1,,1,,0.00,1.50,2,2024,2023-24,div3,Surry,surrycommunitycollege,bradyhalsteadc3at,Brady Halstead
-May 5,home,Caldwell Tech,W,11-10,11,10,1,win,20240505_ht35,0,0,0,1,2.1,4,2,2,7.71,1.71,,2024,2023-24,div3,Surry,surrycommunitycollege,bradyhalsteadc3at,Brady Halstead
+Mar 19,home,Monroe College - Bronx,L,17-1,17,1,16,win,20240319_9qvq,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div3,Surry,surrycommunitycollege,bradyhalsteadc3at,Brady Halstead
+Mar 22,home,Monroe College - Bronx,L,19-2,19,2,17,win,20240322_qfy6,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div3,Surry,surrycommunitycollege,bradyhalsteadc3at,Brady Halstead
+Mar 26,home,Queensborough,L,26-7,26,7,19,win,20240326_5ace,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div3,Surry,surrycommunitycollege,bradyhalsteadc3at,Brady Halstead
+Mar 30,home,Queensborough,W,3-1,3,1,2,win,20240330_wnv1,1,1,0,0,7.0,4,1,1,1.29,1.00,3,2024,2023-24,div3,Surry,surrycommunitycollege,bradyhalsteadc3at,Brady Halstead
+Mar 30,home,Queensborough,L,10-1,10,1,9,win,20240330_9w8t,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div3,Surry,surrycommunitycollege,bradyhalsteadc3at,Brady Halstead
+Apr 1,home,Queensborough,L,11-10,11,10,1,win,20240401_8vb9,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div3,Surry,surrycommunitycollege,bradyhalsteadc3at,Brady Halstead
+Apr 5,home,Bronx,L,30-8,30,8,22,win,20240405_wdap,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div3,Surry,surrycommunitycollege,bradyhalsteadc3at,Brady Halstead
+Apr 6,home,Bronx,W,9-4,9,4,5,win,20240406_uojw,1,1,0,0,7.0,9,4,4,5.14,1.57,2,2024,2023-24,div3,Surry,surrycommunitycollege,bradyhalsteadc3at,Brady Halstead
+Apr 6,home,Bronx,L,9-8,9,8,1,win,20240406_12pv,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div3,Surry,surrycommunitycollege,bradyhalsteadc3at,Brady Halstead
+Apr 7,home,Monroe College - Bronx,L,12-2,12,2,10,win,20240407_8n1f,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div3,Surry,surrycommunitycollege,bradyhalsteadc3at,Brady Halstead
+Apr 9,home,Kingsborough,L,22-5,22,5,17,win,20240409_9h48,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div3,Surry,surrycommunitycollege,bradyhalsteadc3at,Brady Halstead
+Apr 10,home,Kingsborough,L,17-5,17,5,12,win,20240410_zvsd,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div3,Surry,surrycommunitycollege,bradyhalsteadc3at,Brady Halstead
+Apr 13,home,Kingsborough,L,9-2,9,2,7,win,20240413_6q13,1,0,1,0,6.0,8,9,3,4.50,1.67,2,2024,2023-24,div3,Surry,surrycommunitycollege,bradyhalsteadc3at,Brady Halstead
+Apr 13,home,Kingsborough,L,18-6,18,6,12,win,20240413_vwse,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div3,Surry,surrycommunitycollege,bradyhalsteadc3at,Brady Halstead
+Apr 16,home,Suffolk County,L,24-11,24,11,13,win,20240416_9jkp,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div3,Surry,surrycommunitycollege,bradyhalsteadc3at,Brady Halstead
+Apr 19,home,Suffolk County,L,15-5,15,5,10,win,20240419_gxx6,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div3,Surry,surrycommunitycollege,bradyhalsteadc3at,Brady Halstead
+Apr 22,home,Bronx,L,14-4,14,4,10,win,20240422_grbv,1,0,1,0,5.1,2,6,2,3.38,1.13,4,2024,2023-24,div3,Surry,surrycommunitycollege,bradyhalsteadc3at,Brady Halstead
+Apr 28,home,Suffolk County,L,19-5,19,5,14,win,20240428_to3v,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div3,Surry,surrycommunitycollege,bradyhalsteadc3at,Brady Halstead
+Apr 28,home,Suffolk County,L,11-1,11,1,10,win,20240428_o39t,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div3,Surry,surrycommunitycollege,bradyhalsteadc3at,Brady Halstead
+Apr 30,home,Nassau,L,19-4,19,4,15,win,20240430_odvy,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div3,Surry,surrycommunitycollege,bradyhalsteadc3at,Brady Halstead
+May 3,home,Nassau,L,21-1,21,1,20,win,20240503_nn55,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div3,Surry,surrycommunitycollege,bradyhalsteadc3at,Brady Halstead
+May 4,home,Nassau,L,13-3,13,3,10,win,20240504_fzo4,1,0,1,0,2.0,6,10,6,27.00,4.50,3,2024,2023-24,div3,Surry,surrycommunitycollege,bradyhalsteadc3at,Brady Halstead
+May 4,home,Nassau,L,11-0,11,0,11,win,20240504_o5dk,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div3,Surry,surrycommunitycollege,bradyhalsteadc3at,Brady Halstead

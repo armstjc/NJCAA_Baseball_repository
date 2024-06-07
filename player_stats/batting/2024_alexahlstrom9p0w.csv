@@ -1,29 +1,4 @@
 date,location,opponent,result,score,team_score,opp_score,game_score_diff,game_win_loss,game_id,AB,R,H,2B,3B,HR,RBI,BB,K,SB,CS,HBP,SF,SH,TB,XBH,HDP,GO,FO,GO/FO,PA,season,njcaa_season,njcaa_division,team,team_id,player_id,player_name
-Feb 23,home,Southern Maryland,W,22-3,22,3,19,win,20240223_8ebs,5,3,2,,,,4,,1,,,,,,2,0,,,,,5,2024,2023-24,div3,Finger Lakes,fingerlakescommunitycollege,alexahlstrom9p0w,Alex Ahlstrom
-Feb 24,home,Southern Maryland,W,6-3,6,3,3,win,20240224_9zgq,4,0,1,,,,0,,1,,,,,,1,0,,,2,,4,2024,2023-24,div3,Finger Lakes,fingerlakescommunitycollege,alexahlstrom9p0w,Alex Ahlstrom
-Feb 24,home,Southern Maryland,W,4-2,4,2,2,win,20240224_k9b7,3,0,2,,,,0,,,,,1,,,2,0,,,1,,4,2024,2023-24,div3,Finger Lakes,fingerlakescommunitycollege,alexahlstrom9p0w,Alex Ahlstrom
-Mar 14,home,Cecil,W,10-8,10,8,2,win,20240314_6xds,3,2,1,,,,1,2,2,,,,,,1,0,,,,,5,2024,2023-24,div3,Finger Lakes,fingerlakescommunitycollege,alexahlstrom9p0w,Alex Ahlstrom
-Mar 16,home,Caldwell Tech,W,11-1,11,1,10,win,20240316_xbot,1,1,0,,,,0,3,1,,,,,,0,0,,,,,4,2024,2023-24,div3,Finger Lakes,fingerlakescommunitycollege,alexahlstrom9p0w,Alex Ahlstrom
-Mar 26,home,Genesee,W,7-3,7,3,4,win,20240326_lmeh,2,1,0,,,,0,1,1,,,,,,0,0,,,1,,3,2024,2023-24,div3,Finger Lakes,fingerlakescommunitycollege,alexahlstrom9p0w,Alex Ahlstrom
-Mar 28,home,Onondaga,W,2-1,2,1,1,win,20240328_ekdd,3,1,2,1,,,0,,,,,,,,3,1,,,1,,3,2024,2023-24,div3,Finger Lakes,fingerlakescommunitycollege,alexahlstrom9p0w,Alex Ahlstrom
-Mar 30,home,Onondaga,W,5-3,5,3,2,win,20240330_o5kd,3,1,2,,,,0,,,,,,,1,2,0,,2,,,4,2024,2023-24,div3,Finger Lakes,fingerlakescommunitycollege,alexahlstrom9p0w,Alex Ahlstrom
-Mar 30,home,Onondaga,W,6-4,6,4,2,win,20240330_lqt2,2,0,0,,,,0,2,1,,,,,,0,0,,,1,,4,2024,2023-24,div3,Finger Lakes,fingerlakescommunitycollege,alexahlstrom9p0w,Alex Ahlstrom
-Apr 7,home,Jamestown,W,10-5,10,5,5,win,20240407_va1c,4,1,2,1,,,1,,,,,,,,3,1,,,,,4,2024,2023-24,div3,Finger Lakes,fingerlakescommunitycollege,alexahlstrom9p0w,Alex Ahlstrom
-Apr 9,home,Genesee,W,12-2,12,2,10,win,20240409_o7g7,3,1,1,,,1,2,1,1,,,,,,4,1,,,1,,4,2024,2023-24,div3,Finger Lakes,fingerlakescommunitycollege,alexahlstrom9p0w,Alex Ahlstrom
-Apr 9,home,Genesee,W,8-6,8,6,2,win,20240409_wo1z,4,0,1,,,,1,,2,,,,,,1,0,,,1,,4,2024,2023-24,div3,Finger Lakes,fingerlakescommunitycollege,alexahlstrom9p0w,Alex Ahlstrom
-Apr 11,home,Jamestown,W,9-4,9,4,5,win,20240411_a3ul,3,1,1,,,,1,1,2,1,,,,,1,0,,,,,4,2024,2023-24,div3,Finger Lakes,fingerlakescommunitycollege,alexahlstrom9p0w,Alex Ahlstrom
-Apr 11,home,Jamestown,W,11-1,11,1,10,win,20240411_2htb,3,1,2,1,,,2,1,1,,,,,,3,1,,,,,4,2024,2023-24,div3,Finger Lakes,fingerlakescommunitycollege,alexahlstrom9p0w,Alex Ahlstrom
-Apr 14,home,Tompkins Cortland,W,12-2,12,2,10,win,20240414_x0c5,3,1,0,,,,0,1,3,1,,,,,0,0,,,,,4,2024,2023-24,div3,Finger Lakes,fingerlakescommunitycollege,alexahlstrom9p0w,Alex Ahlstrom
-Apr 18,home,Cayuga,W,2-1,2,1,1,win,20240418_iwz6,1,0,0,,,,1,1,1,,,,1,,0,0,,,1,,3,2024,2023-24,div3,Finger Lakes,fingerlakescommunitycollege,alexahlstrom9p0w,Alex Ahlstrom
-Apr 18,home,Cayuga,W,9-6,9,6,3,win,20240418_deq7,4,1,1,,,,0,,,,,,,,1,0,,1,2,0.50,4,2024,2023-24,div3,Finger Lakes,fingerlakescommunitycollege,alexahlstrom9p0w,Alex Ahlstrom
-Apr 21,home,Corning,W,12-2,12,2,10,win,20240421_h2im,2,2,2,2,,,2,1,,,,1,,,4,2,,,,,4,2024,2023-24,div3,Finger Lakes,fingerlakescommunitycollege,alexahlstrom9p0w,Alex Ahlstrom
-Apr 21,home,Corning,W,7-1,7,1,6,win,20240421_v6og,4,0,0,,,,0,,2,,,,,,0,0,,1,1,1.00,4,2024,2023-24,div3,Finger Lakes,fingerlakescommunitycollege,alexahlstrom9p0w,Alex Ahlstrom
-Apr 23,home,Erie,W,9-8,9,8,1,win,20240423_8lhb,4,3,3,2,,1,2,,1,,,,,,8,3,,,,,4,2024,2023-24,div3,Finger Lakes,fingerlakescommunitycollege,alexahlstrom9p0w,Alex Ahlstrom
-Apr 25,home,Corning,W,25-6,25,6,19,win,20240425_mgcb,2,4,1,,,,2,3,,,,,,,1,0,,1,,,5,2024,2023-24,div3,Finger Lakes,fingerlakescommunitycollege,alexahlstrom9p0w,Alex Ahlstrom
-Apr 25,home,Corning,W,5-4,5,4,1,win,20240425_12w5,4,0,0,,,,0,,1,,,,,,0,0,,2,1,2.00,4,2024,2023-24,div3,Finger Lakes,fingerlakescommunitycollege,alexahlstrom9p0w,Alex Ahlstrom
-Apr 28,home,SUNY Niagara,W,3-2,3,2,1,win,20240428_b8if,3,0,2,1,,,0,,1,,,,,,3,1,,,,,3,2024,2023-24,div3,Finger Lakes,fingerlakescommunitycollege,alexahlstrom9p0w,Alex Ahlstrom
-Apr 29,home,Monroe CC,W,7-6,7,6,1,win,20240429_jpb1,4,0,1,,,,0,1,1,,,,,,1,0,,,2,,5,2024,2023-24,div3,Finger Lakes,fingerlakescommunitycollege,alexahlstrom9p0w,Alex Ahlstrom
-May 2,home,Jefferson (NY),W,11-1,11,1,10,win,20240502_715b,4,1,2,,,,1,,,,,,,,2,0,,,1,,4,2024,2023-24,div3,Finger Lakes,fingerlakescommunitycollege,alexahlstrom9p0w,Alex Ahlstrom
-May 2,home,Jefferson (NY),W,21-4,21,4,17,win,20240502_34xh,4,1,3,,1,,4,,,2,,,,,5,1,,,,,4,2024,2023-24,div3,Finger Lakes,fingerlakescommunitycollege,alexahlstrom9p0w,Alex Ahlstrom
-May 4,home,SUNY Broome,W,3-1,3,1,2,win,20240504_lt75,3,0,0,,,,0,,,,,,,,0,0,,1,2,0.50,3,2024,2023-24,div3,Finger Lakes,fingerlakescommunitycollege,alexahlstrom9p0w,Alex Ahlstrom
-May 4,home,SUNY Broome,W,4-2,4,2,2,win,20240504_6k38,3,0,1,1,,,0,1,,,,,,,2,1,1,1,1,1.00,4,2024,2023-24,div3,Finger Lakes,fingerlakescommunitycollege,alexahlstrom9p0w,Alex Ahlstrom
+Mar 10,home,CCBC Essex,W,8-3,8,3,5,win,20240310_iqi8,5,0,0,,,,0,,3,,,,,,0,0,,,,,5,2024,2023-24,div3,Finger Lakes,fingerlakescommunitycollege,alexahlstrom9p0w,Alex Ahlstrom
+Mar 26,home,Jefferson (NY),W,14-2,14,2,12,win,20240326_hk17,2,2,0,,,,1,1,,,,1,,,0,0,,1,1,1.00,4,2024,2023-24,div3,Finger Lakes,fingerlakescommunitycollege,alexahlstrom9p0w,Alex Ahlstrom
+Apr 9,home,Jefferson (NY),W,3-0,3,0,3,win,20240409_yicl,0,0,0,,,,0,,,,,,,,0,0,,,,,0,2024,2023-24,div3,Finger Lakes,fingerlakescommunitycollege,alexahlstrom9p0w,Alex Ahlstrom

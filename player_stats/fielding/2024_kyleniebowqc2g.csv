@@ -1,14 +1,10 @@
 date,location,opponent,result,score,team_score,opp_score,game_score_diff,game_win_loss,game_id,TC,PO,A,E,FPCT,DP,SBA,RCS,RCS_PCT,PB,CI,season,njcaa_season,njcaa_division,team,team_id,player_id,player_name
-Feb 24,home,Arkansas State Mid-South,W,15-5,15,5,10,win,20240224_h6w9,0,0,0,0,1.0,1,1,1,9.00,1.00,,2024,2023-24,div2,Lake County,collegeoflakecounty,kyleniebowqc2g,Kyle Niebow
-Feb 27,home,Madison,L,17-4,17,4,13,win,20240227_4qwq,1,0,0,0,1.0,2,2,0,0.00,2.00,0,2024,2023-24,div2,Lake County,collegeoflakecounty,kyleniebowqc2g,Kyle Niebow
-Mar 4,home,Henry Ford,W,13-3,13,3,10,win,20240304_x5lt,1,1,0,0,5.0,3,2,0,0.00,.80,1,2024,2023-24,div2,Lake County,collegeoflakecounty,kyleniebowqc2g,Kyle Niebow
-Mar 16,home,Milwaukee Area Tech,W,7-5,7,5,2,win,20240316_1cx1,1,0,0,0,4.0,5,4,4,9.00,1.50,1,2024,2023-24,div2,Lake County,collegeoflakecounty,kyleniebowqc2g,Kyle Niebow
-Mar 21,home,Joliet,L,4-3,4,3,1,win,20240321_n4eg,1,0,0,0,5.0,2,3,1,1.80,1.00,3,2024,2023-24,div2,Lake County,collegeoflakecounty,kyleniebowqc2g,Kyle Niebow
-Apr 6,home,Moraine Valley,W,5-3,5,3,2,win,20240406_ty0u,0,0,0,0,4.0,,,,0.00,.50,2,2024,2023-24,div2,Lake County,collegeoflakecounty,kyleniebowqc2g,Kyle Niebow
-Apr 10,home,Carthage,L,5-3,5,3,2,win,20240410_n5fy,0,0,0,0,1.0,,,,0.00,1.00,1,2024,2023-24,div2,Lake County,collegeoflakecounty,kyleniebowqc2g,Kyle Niebow
-Apr 11,home,Triton,W,3-1,3,1,2,win,20240411_snvl,1,1,0,0,4.2,4,1,1,1.93,1.29,2,2024,2023-24,div2,Lake County,collegeoflakecounty,kyleniebowqc2g,Kyle Niebow
-Apr 16,home,Elgin,L,10-0,10,0,10,win,20240416_rups,0,0,0,0,0.2,1,6,1,13.50,4.50,2,2024,2023-24,div2,Lake County,collegeoflakecounty,kyleniebowqc2g,Kyle Niebow
-Apr 21,home,Madison,L,7-3,7,3,4,win,20240421_2upr,1,0,1,0,4.0,7,6,6,13.50,2.00,1,2024,2023-24,div2,Lake County,collegeoflakecounty,kyleniebowqc2g,Kyle Niebow
-Apr 27,home,Waubonsee,W,9-2,9,2,7,win,20240427_2570,1,0,0,0,2.1,2,2,0,0.00,2.14,3,2024,2023-24,div2,Lake County,collegeoflakecounty,kyleniebowqc2g,Kyle Niebow
-Apr 30,home,Bryant & Stratton College (WI),W,13-6,13,6,7,win,20240430_fok0,0,1,0,0,3.0,5,1,1,3.00,2.00,1,2024,2023-24,div2,Lake County,collegeoflakecounty,kyleniebowqc2g,Kyle Niebow
-May 10,home,Morton,L,10-2,10,2,8,win,20240510_3rwg,0,0,0,0,3.0,4,2,2,6.00,1.67,1,2024,2023-24,div2,Lake County,collegeoflakecounty,kyleniebowqc2g,Kyle Niebow
+Feb 27,home,Madison,L,17-4,17,4,13,win,20240227_4qwq,0,0,0,0,0.1,,,,0.00,3.00,1,2024,2023-24,div2,Lake County,collegeoflakecounty,kyleniebowqc2g,Kyle Niebow
+Mar 4,home,Henry Ford,W,13-3,13,3,10,win,20240304_x5lt,0,0,0,0,1.0,,,,0.00,,,2024,2023-24,div2,Lake County,collegeoflakecounty,kyleniebowqc2g,Kyle Niebow
+Mar 7,home,Henry Ford,L,5-3,5,3,2,win,20240307_y4eq,0,0,0,0,3.0,,,,0.00,,,2024,2023-24,div2,Lake County,collegeoflakecounty,kyleniebowqc2g,Kyle Niebow
+Mar 24,home,Kankakee,L,6-1,6,1,5,win,20240324_ra1u,0,0,0,0,2.0,3,1,,0.00,1.50,,2024,2023-24,div2,Lake County,collegeoflakecounty,kyleniebowqc2g,Kyle Niebow
+Apr 6,home,Moraine Valley,W,8-3,8,3,5,win,20240406_o4kn,0,0,0,0,1.0,,,,0.00,1.00,1,2024,2023-24,div2,Lake County,collegeoflakecounty,kyleniebowqc2g,Kyle Niebow
+Apr 10,home,Carthage,L,5-3,5,3,2,win,20240410_n5fy,0,0,0,0,1.0,,,,0.00,,,2024,2023-24,div2,Lake County,collegeoflakecounty,kyleniebowqc2g,Kyle Niebow
+Apr 26,home,Kankakee,W,7-6,7,6,1,win,20240426_2kii,0,1,0,0,3.0,1,,,0.00,.67,1,2024,2023-24,div2,Lake County,collegeoflakecounty,kyleniebowqc2g,Kyle Niebow
+Apr 28,home,South Suburban,L,10-6,10,6,4,win,20240428_yzmp,0,0,0,0,1.0,1,4,2,18.00,3.00,2,2024,2023-24,div2,Lake County,collegeoflakecounty,kyleniebowqc2g,Kyle Niebow
+May 4,home,Kishwaukee,L,7-0,7,0,7,win,20240504_hlqc,1,0,1,0,4.2,1,2,2,3.86,.64,2,2024,2023-24,div2,Lake County,collegeoflakecounty,kyleniebowqc2g,Kyle Niebow

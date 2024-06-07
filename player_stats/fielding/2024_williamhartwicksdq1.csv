@@ -1,11 +1,19 @@
 date,location,opponent,result,score,team_score,opp_score,game_score_diff,game_win_loss,game_id,TC,PO,A,E,FPCT,DP,SBA,RCS,RCS_PCT,PB,CI,season,njcaa_season,njcaa_division,team,team_id,player_id,player_name
-Mar 17,home,RCSJ Gloucester,L,33-0,33,0,33,win,20240317_6eic,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div3,Luzerne County,luzernecountycommunitycollege,williamhartwicksdq1,William Hartwick
-Mar 17,home,RCSJ Gloucester,L,37-4,37,4,33,win,20240317_w8sc,0,0,0,0,2.0,7,10,9,40.50,5.00,3,2024,2023-24,div3,Luzerne County,luzernecountycommunitycollege,williamhartwicksdq1,William Hartwick
-Apr 14,home,Northampton,L,35-0,35,0,35,win,20240414_kmfs,0,0,0,0,2.1,14,15,8,30.86,6.00,,2024,2023-24,div3,Luzerne County,luzernecountycommunitycollege,williamhartwicksdq1,William Hartwick
-Apr 14,home,Northampton,L,35-2,35,2,33,win,20240414_l3mv,0,0,0,0,1.1,7,4,4,27.00,5.25,,2024,2023-24,div3,Luzerne County,luzernecountycommunitycollege,williamhartwicksdq1,William Hartwick
-Apr 16,home,Salem,L,20-2,20,2,18,win,20240416_w2n9,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div3,Luzerne County,luzernecountycommunitycollege,williamhartwicksdq1,William Hartwick
-Apr 21,home,Bergen,L,20-1,20,1,19,win,20240421_6zls,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div3,Luzerne County,luzernecountycommunitycollege,williamhartwicksdq1,William Hartwick
-Apr 21,home,Bergen,L,24-0,24,0,24,win,20240421_ptpf,0,0,0,0,1.2,3,,,0.00,1.80,,2024,2023-24,div3,Luzerne County,luzernecountycommunitycollege,williamhartwicksdq1,William Hartwick
-Apr 23,home,Salem,L,23-1,23,1,22,win,20240423_u99v,1,0,1,0,0.0,0,0,0,0.00,,0,2024,2023-24,div3,Luzerne County,luzernecountycommunitycollege,williamhartwicksdq1,William Hartwick
-May 1,home,Lackawanna,L,39-0,39,0,39,win,20240501_2ogn,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div3,Luzerne County,luzernecountycommunitycollege,williamhartwicksdq1,William Hartwick
-May 1,home,Lackawanna,L,22-1,22,1,21,win,20240501_c8pv,1,0,1,0,4.0,21,22,15,33.75,6.00,3,2024,2023-24,div3,Luzerne County,luzernecountycommunitycollege,williamhartwicksdq1,William Hartwick
+Mar 2,home,Chesapeake,L,15-6,15,6,9,win,20240302_751s,0,0,0,0,1.0,,,,0.00,,,2024,2023-24,div3,Luzerne County,luzernecountycommunitycollege,williamhartwicksdq1,William Hartwick
+Mar 3,home,St. Cloud Tech,L,6-4,6,4,2,win,20240303_dyhi,0,0,0,0,1.0,,,,0.00,2.00,2,2024,2023-24,div3,Luzerne County,luzernecountycommunitycollege,williamhartwicksdq1,William Hartwick
+Mar 4,home,Penn State Mont Alto,L,10-3,10,3,7,win,20240304_zkmd,0,0,0,0,2.0,1,,,0.00,.50,,2024,2023-24,div3,Luzerne County,luzernecountycommunitycollege,williamhartwicksdq1,William Hartwick
+Mar 5,home,Penn State Greater Allegheny,L,13-3,13,3,10,win,20240305_xww6,0,0,0,0,0.0,2,3,3,INF,,,2024,2023-24,div3,Luzerne County,luzernecountycommunitycollege,williamhartwicksdq1,William Hartwick
+Mar 28,home,Grand Rapids,L,10-0,10,0,10,win,20240328_vs3q,0,0,0,0,2.0,3,2,2,9.00,1.50,0,2024,2023-24,div3,Luzerne County,luzernecountycommunitycollege,williamhartwicksdq1,William Hartwick
+Mar 29,home,Grand Rapids,L,7-2,7,2,5,win,20240329_bj33,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div3,Luzerne County,luzernecountycommunitycollege,williamhartwicksdq1,William Hartwick
+Mar 29,home,Grand Rapids,L,9-5,9,5,4,win,20240329_eia8,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div3,Luzerne County,luzernecountycommunitycollege,williamhartwicksdq1,William Hartwick
+Apr 5,home,Alpena,W,10-9,10,9,1,win,20240405_w2zu,0,0,0,0,1.0,2,2,,0.00,3.00,1,2024,2023-24,div3,Luzerne County,luzernecountycommunitycollege,williamhartwicksdq1,William Hartwick
+Apr 15,home,Mid Michigan,W,9-3,9,3,6,win,20240415_bvl9,0,0,0,0,1.2,,,,0.00,.60,1,2024,2023-24,div3,Luzerne County,luzernecountycommunitycollege,williamhartwicksdq1,William Hartwick
+Apr 20,home,Muskegon,W,9-6,9,6,3,win,20240420_gjvd,0,0,0,0,2.0,,,,0.00,1.00,2,2024,2023-24,div3,Luzerne County,luzernecountycommunitycollege,williamhartwicksdq1,William Hartwick
+Apr 26,home,Bay College,L,5-1,5,1,4,win,20240426_w1fb,0,0,0,0,1.0,2,1,1,9.00,2.00,,2024,2023-24,div3,Luzerne County,luzernecountycommunitycollege,williamhartwicksdq1,William Hartwick
+Apr 27,home,Bay College,L,9-2,9,2,7,win,20240427_c9fm,0,0,0,0,1.0,1,2,2,18.00,2.00,1,2024,2023-24,div3,Luzerne County,luzernecountycommunitycollege,williamhartwicksdq1,William Hartwick
+May 3,home,Terra State,L,10-6,10,6,4,win,20240503_k04d,0,0,0,0,1.1,2,1,1,6.75,1.50,,2024,2023-24,div3,Luzerne County,luzernecountycommunitycollege,williamhartwicksdq1,William Hartwick
+May 5,home,Lansing,L,12-3,12,3,9,win,20240505_hfu0,0,0,0,0,2.0,3,2,1,4.50,2.00,1,2024,2023-24,div3,Luzerne County,luzernecountycommunitycollege,williamhartwicksdq1,William Hartwick
+May 8,home,Owens,W,9-5,9,5,4,win,20240508_40jd,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div3,Luzerne County,luzernecountycommunitycollege,williamhartwicksdq1,William Hartwick
+May 8,home,Terra State,L,8-6,8,6,2,win,20240508_eu6b,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div3,Luzerne County,luzernecountycommunitycollege,williamhartwicksdq1,William Hartwick
+May 9,home,Owens,W,5-1,5,1,4,win,20240509_g18z,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div3,Luzerne County,luzernecountycommunitycollege,williamhartwicksdq1,William Hartwick
+May 10,home,Terra State,L,9-3,9,3,6,win,20240510_w0pg,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div3,Luzerne County,luzernecountycommunitycollege,williamhartwicksdq1,William Hartwick

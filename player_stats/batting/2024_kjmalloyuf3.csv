@@ -1,30 +1,9 @@
 date,location,opponent,result,score,team_score,opp_score,game_score_diff,game_win_loss,game_id,AB,R,H,2B,3B,HR,RBI,BB,K,SB,CS,HBP,SF,SH,TB,XBH,HDP,GO,FO,GO/FO,PA,season,njcaa_season,njcaa_division,team,team_id,player_id,player_name
-Feb 23,home,Vincennes,W,18-6,18,6,12,win,20240223_lhmg,0,0,0,,,,1,1,,,,,,,0,0,,,,,1,2024,2023-24,div2,Morton,mortoncollege,kjmalloyuf3,K.J. Mallo
-Feb 25,home,Vincennes,W,13-4,13,4,9,win,20240225_wism,3,1,0,,,,0,1,3,1,,,,,0,0,,,,,4,2024,2023-24,div2,Morton,mortoncollege,kjmalloyuf3,K.J. Mallo
-Feb 29,home,Eastern University,W,18-5,18,5,13,win,20240229_v4tp,3,2,2,,,,2,1,,3,,,,,2,0,,,,,4,2024,2023-24,div2,Morton,mortoncollege,kjmalloyuf3,K.J. Mallo
-Feb 29,home,Eastern University,W,15-4,15,4,11,win,20240229_p55l,2,3,1,,,,0,1,,1,,,,1,1,0,,,,,4,2024,2023-24,div2,Morton,mortoncollege,kjmalloyuf3,K.J. Mallo
-Mar 16,home,Highland (IL),W,18-5,18,5,13,win,20240316_li82,0,0,0,,,,0,,,,,,,,0,0,,,,,0,2024,2023-24,div2,Morton,mortoncollege,kjmalloyuf3,K.J. Mallo
-Mar 21,home,DuPage,W,7-6,7,6,1,win,20240321_wu22,1,1,0,,,,0,,1,,,,,1,0,0,,,,,2,2024,2023-24,div2,Morton,mortoncollege,kjmalloyuf3,K.J. Mallo
-Mar 24,home,Marian-Ancilla,W,16-2,16,2,14,win,20240324_fv7g,1,2,1,,,,1,1,,,,,,,1,0,,,,,2,2024,2023-24,div2,Morton,mortoncollege,kjmalloyuf3,K.J. Mallo
-Mar 27,home,Kennedy-King,W,21-5,21,5,16,win,20240327_gvsa,1,1,0,,,,0,1,,,,,,,0,0,,,,,2,2024,2023-24,div2,Morton,mortoncollege,kjmalloyuf3,K.J. Mallo
-Mar 27,home,Kennedy-King,W,16-3,16,3,13,win,20240327_zspq,4,2,2,1,,,0,1,1,1,,,,,3,1,,,,,5,2024,2023-24,div2,Morton,mortoncollege,kjmalloyuf3,K.J. Mallo
-Apr 9,home,Waubonsee,W,7-3,7,3,4,win,20240409_amb6,3,0,0,,,,0,,2,,,,,,0,0,,,,,3,2024,2023-24,div2,Morton,mortoncollege,kjmalloyuf3,K.J. Mallo
-Apr 9,home,Waubonsee,W,10-4,10,4,6,win,20240409_mbio,4,2,1,,,,1,,,1,,,,,1,0,,,,,4,2024,2023-24,div2,Morton,mortoncollege,kjmalloyuf3,K.J. Mallo
-Apr 10,home,Olive-Harvey,W,13-10,13,10,3,win,20240410_25qj,2,3,1,,,,0,2,,1,,,,,1,0,,,,,4,2024,2023-24,div2,Morton,mortoncollege,kjmalloyuf3,K.J. Mallo
-Apr 10,home,Olive-Harvey,W,2-0,2,0,2,win,20240410_xj8u,2,0,0,,,,0,,,,,,,,0,0,,,,,2,2024,2023-24,div2,Morton,mortoncollege,kjmalloyuf3,K.J. Mallo
-Apr 12,home,South Suburban,W,16-15,16,15,1,win,20240412_akxw,0,0,0,,,,0,,,2,,,,,0,0,,,,,0,2024,2023-24,div2,Morton,mortoncollege,kjmalloyuf3,K.J. Mallo
-Apr 14,home,Kennedy-King,W,13-1,13,1,12,win,20240414_3z98,1,3,1,,,,1,3,,3,,,,,1,0,,,,,4,2024,2023-24,div2,Morton,mortoncollege,kjmalloyuf3,K.J. Mallo
-Apr 14,home,Kennedy-King,W,16-4,16,4,12,win,20240414_8626,2,2,1,,,,1,1,,2,,1,,,1,0,,,,,4,2024,2023-24,div2,Morton,mortoncollege,kjmalloyuf3,K.J. Mallo
-Apr 15,home,Kishwaukee,W,24-17,24,17,7,win,20240415_y0qd,4,3,1,,,,2,1,1,3,,,,,1,0,,,,,5,2024,2023-24,div2,Morton,mortoncollege,kjmalloyuf3,K.J. Mallo
-Apr 15,home,Kishwaukee,W,10-3,10,3,7,win,20240415_svz0,3,2,2,,,,0,,,2,,,,,2,0,,,,,3,2024,2023-24,div2,Morton,mortoncollege,kjmalloyuf3,K.J. Mallo
-Apr 16,home,Moraine Valley,W,9-5,9,5,4,win,20240416_6dlj,1,1,1,1,,,0,2,,,,,,,2,1,,,,,3,2024,2023-24,div2,Morton,mortoncollege,kjmalloyuf3,K.J. Mallo
-Apr 18,home,Joliet,W,8-5,8,5,3,win,20240418_by7j,3,1,1,1,,,1,,,,,,,,2,1,,,,,3,2024,2023-24,div2,Morton,mortoncollege,kjmalloyuf3,K.J. Mallo
-Apr 19,home,Harper,W,22-8,22,8,14,win,20240419_rljy,3,2,1,1,,,1,1,1,,,,,,2,1,,,,,4,2024,2023-24,div2,Morton,mortoncollege,kjmalloyuf3,K.J. Mallo
-Apr 19,home,Harper,W,14-4,14,4,10,win,20240419_gobp,1,0,0,,,,2,,,,,,,2,0,0,,,,,3,2024,2023-24,div2,Morton,mortoncollege,kjmalloyuf3,K.J. Mallo
-Apr 20,home,Lake County,W,4-3,4,3,1,win,20240420_4yml,3,0,0,,,,0,,2,1,,,,,0,0,,,,,3,2024,2023-24,div2,Morton,mortoncollege,kjmalloyuf3,K.J. Mallo
-Apr 20,home,Lake County,W,5-4,5,4,1,win,20240420_ddqf,3,0,0,,,,0,,1,,,,,,0,0,,,,,3,2024,2023-24,div2,Morton,mortoncollege,kjmalloyuf3,K.J. Mallo
-Apr 24,home,Prairie State,W,7-0,7,0,7,win,20240424_0ci8,4,1,1,,,,0,,,1,,,,,1,0,,,,,4,2024,2023-24,div2,Morton,mortoncollege,kjmalloyuf3,K.J. Mallo
-Apr 24,home,Prairie State,W,10-6,10,6,4,win,20240424_0ik4,2,2,0,,,,0,1,1,1,,,,,0,0,,,,,3,2024,2023-24,div2,Morton,mortoncollege,kjmalloyuf3,K.J. Mallo
-Apr 27,home,McHenry County,W,3-1,3,1,2,win,20240427_pdf9,2,0,0,,,,0,,1,,,,,1,0,0,,,,,3,2024,2023-24,div2,Morton,mortoncollege,kjmalloyuf3,K.J. Mallo
-May 5,home,Kankakee,W,5-2,5,2,3,win,20240505_60n8,4,1,3,,,,1,,,,,,,,3,0,,,,,4,2024,2023-24,div2,Morton,mortoncollege,kjmalloyuf3,K.J. Mallo
-May 10,home,Lake County,W,10-2,10,2,8,win,20240510_3rwg,2,1,0,,,,1,1,1,,,,1,,0,0,,,,,4,2024,2023-24,div2,Morton,mortoncollege,kjmalloyuf3,K.J. Mallo
+Jan 29,home,Nunez,W,5-0,5,0,5,win,20240129_kcqk,1,0,0,,,,0,,,,,,,,0,0,,,,,1,2024,2023-24,div2,Morton,mortoncollege,kjmalloyuf3,K.J. Mallo
+Feb 19,home,Faulkner University JV,W,21-1,21,1,20,win,20240219_ahbb,1,1,0,,,,0,1,1,,,,,,0,0,,,,,2,2024,2023-24,div2,Morton,mortoncollege,kjmalloyuf3,K.J. Mallo
+Feb 19,home,Faulkner University JV,W,16-0,16,0,16,win,20240219_01l1,0,1,0,,,,0,1,,,,,,,0,0,,,,,1,2024,2023-24,div2,Morton,mortoncollege,kjmalloyuf3,K.J. Mallo
+Mar 4,home,Faulkner University JV,W,22-1,22,1,21,win,20240304_ib1f,3,3,2,,,,1,2,,,,,,,2,0,,,,,5,2024,2023-24,div2,Morton,mortoncollege,kjmalloyuf3,K.J. Mallo
+Mar 4,home,Faulkner University JV,W,6-3,6,3,3,win,20240304_84k6,3,0,1,,,,1,1,1,,,,,,1,0,,,,,4,2024,2023-24,div2,Morton,mortoncollege,kjmalloyuf3,K.J. Mallo
+Mar 7,home,Spring Hill JV,W,12-4,12,4,8,win,20240307_1m39,0,0,0,,,,0,,,2,,,,,0,0,,,,,0,2024,2023-24,div2,Morton,mortoncollege,kjmalloyuf3,K.J. Mallo
+Mar 30,home,Marion Military,W,11-1,11,1,10,win,20240330_ffpu,0,0,0,,,,0,,,,,,,,0,0,,,,,0,2024,2023-24,div2,Morton,mortoncollege,kjmalloyuf3,K.J. Mallo
+Apr 20,home,Coastal Alabama - North,W,7-3,7,3,4,win,20240420_9nkf,0,0,0,,,,0,,,,1,,,,0,0,,,,,0,2024,2023-24,div2,Morton,mortoncollege,kjmalloyuf3,K.J. Mallo

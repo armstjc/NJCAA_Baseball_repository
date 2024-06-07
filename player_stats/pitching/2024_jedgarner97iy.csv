@@ -1,15 +1,7 @@
 date,location,opponent,result,score,team_score,opp_score,game_score_diff,game_win_loss,game_id,GS,W,L,SV,IP,H,R,ER,ERA,BB,K,HR,season,njcaa_season,njcaa_division,team,team_id,player_id,player_name
-Apr 23,home,John A. Logan,L,9-5,9,5,4,win,20240423_yvdt,0,0,0,0,6.0,6,3,3,4.50,1.33,2,8,2024,2023-24,div1,Shawnee,shawneecommunitycollege,jedgarner97iy,Jed Garner
-Apr 18,home,Southwestern Illinois,W,9-8,9,8,1,win,20240418_p0o9,0,1,0,0,5.2,5,4,4,6.35,1.24,2,4,2024,2023-24,div1,Shawnee,shawneecommunitycollege,jedgarner97iy,Jed Garner
-Apr 11,home,Southeastern Illinois,L,6-1,6,1,5,win,20240411_vxy3,0,0,0,0,7.0,4,3,2,2.57,.86,2,5,2024,2023-24,div1,Shawnee,shawneecommunitycollege,jedgarner97iy,Jed Garner
-Apr 6,home,Kaskaskia,L,3-2,3,2,1,win,20240406_8g8r,0,0,0,0,6.0,2,1,1,1.50,.83,3,4,2024,2023-24,div1,Shawnee,shawneecommunitycollege,jedgarner97iy,Jed Garner
-Apr 2,home,Rend Lake,L,6-3,6,3,3,win,20240402_hcip,0,0,0,0,3.0,,,,0.00,.33,1,6,2024,2023-24,div1,Shawnee,shawneecommunitycollege,jedgarner97iy,Jed Garner
-Mar 29,home,Lincoln Trail,L,11-1,11,1,10,win,20240329_azp9,0,0,0,0,0.1,,,,0.00,,,1,2024,2023-24,div1,Shawnee,shawneecommunitycollege,jedgarner97iy,Jed Garner
-Mar 27,home,Rend Lake,L,8-4,8,4,4,win,20240327_ym8b,0,0,0,0,3.2,1,,,0.00,.55,1,5,2024,2023-24,div1,Shawnee,shawneecommunitycollege,jedgarner97iy,Jed Garner
-Mar 23,home,Wabash Valley,L,38-3,38,3,35,win,20240323_eisz,0,0,0,0,0.1,2,5,4,108.00,12.00,2,1,2024,2023-24,div1,Shawnee,shawneecommunitycollege,jedgarner97iy,Jed Garner
-Mar 16,home,Olney Central,L,9-6,9,6,3,win,20240316_d2uw,0,0,1,0,4.0,3,5,5,11.25,1.75,4,3,2024,2023-24,div1,Shawnee,shawneecommunitycollege,jedgarner97iy,Jed Garner
-Mar 7,home,Frontier,L,11-1,11,1,10,win,20240307_uuui,0,0,0,0,0.2,3,4,3,40.50,9.00,3,,2024,2023-24,div1,Shawnee,shawneecommunitycollege,jedgarner97iy,Jed Garner
-Mar 2,home,Calhoun,L,11-5,11,5,6,win,20240302_yrjj,0,0,0,0,3.2,3,5,4,9.82,2.18,5,4,2024,2023-24,div1,Shawnee,shawneecommunitycollege,jedgarner97iy,Jed Garner
-Feb 27,home,Lake Area Post Grad Academy,W,8-7,8,7,1,win,20240227_3bt7,0,0,0,1,1.0,1,,,0.00,2.00,1,,2024,2023-24,div1,Shawnee,shawneecommunitycollege,jedgarner97iy,Jed Garner
-Feb 24,home,St. Louis,L,9-4,9,4,5,win,20240224_d05a,0,0,0,0,1.0,2,3,3,27.00,5.00,3,2,2024,2023-24,div1,Shawnee,shawneecommunitycollege,jedgarner97iy,Jed Garner
-Feb 21,home,Three Rivers,L,10-0,10,0,10,win,20240221_beto,0,0,0,0,0.2,1,,,0.00,3.00,1,1,2024,2023-24,div1,Shawnee,shawneecommunitycollege,jedgarner97iy,Jed Garner
+Apr 27,home,Lake Land,L,15-2,15,2,13,win,20240427_m1ss,0,0,0,0,2.0,3,4,2,9.00,1.50,,1,2024,2023-24,div1,Shawnee,shawneecommunitycollege,jedgarner97iy,Jed Garner
+Apr 20,home,Southwestern Illinois,L,20-3,20,3,17,win,20240420_0h61,0,0,0,0,0.2,7,8,8,108.00,13.50,2,,2024,2023-24,div1,Shawnee,shawneecommunitycollege,jedgarner97iy,Jed Garner
+Apr 16,home,John A. Logan,L,12-3,12,3,9,win,20240416_lsa8,0,0,0,0,0.2,,,,0.00,1.50,1,1,2024,2023-24,div1,Shawnee,shawneecommunitycollege,jedgarner97iy,Jed Garner
+Mar 29,home,Lincoln Trail,L,16-13,16,13,3,win,20240329_lg2j,0,0,0,0,5.0,5,6,4,7.20,1.80,4,3,2024,2023-24,div1,Shawnee,shawneecommunitycollege,jedgarner97iy,Jed Garner
+Mar 23,home,Wabash Valley,L,38-3,38,3,35,win,20240323_eisz,0,0,0,0,1.0,4,6,6,54.00,4.00,,,2024,2023-24,div1,Shawnee,shawneecommunitycollege,jedgarner97iy,Jed Garner
+Feb 20,home,Three Rivers,L,13-0,13,0,13,win,20240220_5qa8,0,0,0,0,1.0,5,4,4,36.00,6.00,1,1,2024,2023-24,div1,Shawnee,shawneecommunitycollege,jedgarner97iy,Jed Garner

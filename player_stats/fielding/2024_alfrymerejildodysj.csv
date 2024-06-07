@@ -1,3 +1,64 @@
 date,location,opponent,result,score,team_score,opp_score,game_score_diff,game_win_loss,game_id,TC,PO,A,E,FPCT,DP,SBA,RCS,RCS_PCT,PB,CI,season,njcaa_season,njcaa_division,team,team_id,player_id,player_name
-Mar 13,home,Anoka-Ramsey,L,11-5,11,5,6,win,20240313_tqth,0,0,0,0,1.0,,,,0.00,1.00,1,2024,2023-24,div3,Roxbury,roxburycommunitycollege,alfrymerejildodysj,Alfry Merejildo
-Mar 30,home,Northern Essex,L,18-1,18,1,17,win,20240330_gfku,0,0,0,0,2.0,5,7,7,31.50,5.00,5,2024,2023-24,div3,Roxbury,roxburycommunitycollege,alfrymerejildodysj,Alfry Merejildo
+Jan 28,home,Arkansas State University - Three Rivers,W,5-0,5,0,5,win,20240128_qqo4,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div3,Roxbury,roxburycommunitycollege,alfrymerejildodysj,Alfry Merejildo
+Jan 29,home,Arkansas State University - Three Rivers,W,15-2,15,2,13,win,20240129_b13d,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div3,Roxbury,roxburycommunitycollege,alfrymerejildodysj,Alfry Merejildo
+Jan 29,home,Arkansas State University - Three Rivers,W,15-5,15,5,10,win,20240129_ozoe,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div3,Roxbury,roxburycommunitycollege,alfrymerejildodysj,Alfry Merejildo
+Feb 2,home,Howard (TX),W,13-2,13,2,11,win,20240202_1efl,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div3,Roxbury,roxburycommunitycollege,alfrymerejildodysj,Alfry Merejildo
+Feb 3,home,Howard (TX),W,6-5,6,5,1,win,20240203_ogo0,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div3,Roxbury,roxburycommunitycollege,alfrymerejildodysj,Alfry Merejildo
+Feb 3,home,Howard (TX),L,12-7,12,7,5,win,20240203_bhhp,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div3,Roxbury,roxburycommunitycollege,alfrymerejildodysj,Alfry Merejildo
+Feb 7,home,DFW Post Grad,W,19-9,19,9,10,win,20240207_m3ru,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div3,Roxbury,roxburycommunitycollege,alfrymerejildodysj,Alfry Merejildo
+Feb 9,home,North Arkansas,W,12-0,12,0,12,win,20240209_uazs,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div3,Roxbury,roxburycommunitycollege,alfrymerejildodysj,Alfry Merejildo
+Feb 9,home,North Arkansas,W,9-2,9,2,7,win,20240209_xn83,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div3,Roxbury,roxburycommunitycollege,alfrymerejildodysj,Alfry Merejildo
+Feb 13,home,Dallas College - Mountain View,W,15-2,15,2,13,win,20240213_4sph,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div3,Roxbury,roxburycommunitycollege,alfrymerejildodysj,Alfry Merejildo
+Feb 17,home,Des Moines Area,W,6-4,6,4,2,win,20240217_qgvj,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div3,Roxbury,roxburycommunitycollege,alfrymerejildodysj,Alfry Merejildo
+Feb 18,home,Des Moines Area,W,4-3,4,3,1,win,20240218_9ucp,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div3,Roxbury,roxburycommunitycollege,alfrymerejildodysj,Alfry Merejildo
+Feb 18,home,Des Moines Area,W,7-5,7,5,2,win,20240218_seis,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div3,Roxbury,roxburycommunitycollege,alfrymerejildodysj,Alfry Merejildo
+Feb 23,home,Galveston,L,5-3,5,3,2,win,20240223_agz2,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div3,Roxbury,roxburycommunitycollege,alfrymerejildodysj,Alfry Merejildo
+Feb 23,home,Galveston,L,6-4,6,4,2,win,20240223_cjmc,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div3,Roxbury,roxburycommunitycollege,alfrymerejildodysj,Alfry Merejildo
+Feb 24,home,Angelina,L,14-4,14,4,10,win,20240224_38eb,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div3,Roxbury,roxburycommunitycollege,alfrymerejildodysj,Alfry Merejildo
+Feb 24,home,Angelina,L,8-3,8,3,5,win,20240224_egj0,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div3,Roxbury,roxburycommunitycollege,alfrymerejildodysj,Alfry Merejildo
+Feb 28,home,Dallas College - Brookhaven,W,8-1,8,1,7,win,20240228_kff0,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div3,Roxbury,roxburycommunitycollege,alfrymerejildodysj,Alfry Merejildo
+Mar 1,home,Dallas College - Brookhaven,W,21-18,21,18,3,win,20240301_99ud,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div3,Roxbury,roxburycommunitycollege,alfrymerejildodysj,Alfry Merejildo
+Mar 2,home,Dallas College - Brookhaven,W,16-12,16,12,4,win,20240302_agnz,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div3,Roxbury,roxburycommunitycollege,alfrymerejildodysj,Alfry Merejildo
+Mar 4,home,Hill,L,8-7,8,7,1,win,20240304_6ve5,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div3,Roxbury,roxburycommunitycollege,alfrymerejildodysj,Alfry Merejildo
+Mar 6,home,Dallas College - Cedar Valley,W,11-1,11,1,10,win,20240306_r0jh,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div3,Roxbury,roxburycommunitycollege,alfrymerejildodysj,Alfry Merejildo
+Mar 8,home,Dallas College - Cedar Valley,W,8-2,8,2,6,win,20240308_mgtz,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div3,Roxbury,roxburycommunitycollege,alfrymerejildodysj,Alfry Merejildo
+Mar 9,home,Dallas College - Cedar Valley,W,3-1,3,1,2,win,20240309_tonr,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div3,Roxbury,roxburycommunitycollege,alfrymerejildodysj,Alfry Merejildo
+Mar 12,home,Joliet,W,10-7,10,7,3,win,20240312_du98,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div3,Roxbury,roxburycommunitycollege,alfrymerejildodysj,Alfry Merejildo
+Mar 12,home,Joliet,W,13-10,13,10,3,win,20240312_8c8e,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div3,Roxbury,roxburycommunitycollege,alfrymerejildodysj,Alfry Merejildo
+Mar 18,home,Dallas Christian College JV,W,3-1,3,1,2,win,20240318_va3x,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div3,Roxbury,roxburycommunitycollege,alfrymerejildodysj,Alfry Merejildo
+Mar 20,home,Dallas College - Richland,L,11-1,11,1,10,win,20240320_qt3s,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div3,Roxbury,roxburycommunitycollege,alfrymerejildodysj,Alfry Merejildo
+Mar 22,home,Dallas College - Richland,W,10-8,10,8,2,win,20240322_0cw3,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div3,Roxbury,roxburycommunitycollege,alfrymerejildodysj,Alfry Merejildo
+Mar 23,home,Dallas College - Richland,W,8-6,8,6,2,win,20240323_l4yy,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div3,Roxbury,roxburycommunitycollege,alfrymerejildodysj,Alfry Merejildo
+Mar 27,home,Dallas College - Mountain View,W,8-7,8,7,1,win,20240327_g6aw,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div3,Roxbury,roxburycommunitycollege,alfrymerejildodysj,Alfry Merejildo
+Mar 28,home,Dallas College - Mountain View,W,13-0,13,0,13,win,20240328_gpzz,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div3,Roxbury,roxburycommunitycollege,alfrymerejildodysj,Alfry Merejildo
+Mar 29,home,Dallas College - Mountain View,W,21-7,21,7,14,win,20240329_i9sw,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div3,Roxbury,roxburycommunitycollege,alfrymerejildodysj,Alfry Merejildo
+Apr 1,home,Arlington Baptist,W,17-2,17,2,15,win,20240401_9bd7,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div3,Roxbury,roxburycommunitycollege,alfrymerejildodysj,Alfry Merejildo
+Apr 3,home,Dallas College - North Lake,W,5-1,5,1,4,win,20240403_w75p,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div3,Roxbury,roxburycommunitycollege,alfrymerejildodysj,Alfry Merejildo
+Apr 5,home,Dallas College - North Lake,W,11-3,11,3,8,win,20240405_mb7r,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div3,Roxbury,roxburycommunitycollege,alfrymerejildodysj,Alfry Merejildo
+Apr 6,home,Dallas College - North Lake,W,16-1,16,1,15,win,20240406_1x8g,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div3,Roxbury,roxburycommunitycollege,alfrymerejildodysj,Alfry Merejildo
+Apr 11,home,Dallas College - Brookhaven,W,12-3,12,3,9,win,20240411_9412,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div3,Roxbury,roxburycommunitycollege,alfrymerejildodysj,Alfry Merejildo
+Apr 12,home,Dallas College - Brookhaven,L,14-7,14,7,7,win,20240412_ohos,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div3,Roxbury,roxburycommunitycollege,alfrymerejildodysj,Alfry Merejildo
+Apr 13,home,Dallas College - Brookhaven,W,10-9,10,9,1,win,20240413_2bgt,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div3,Roxbury,roxburycommunitycollege,alfrymerejildodysj,Alfry Merejildo
+Apr 17,home,Dallas College - Cedar Valley,L,17-11,17,11,6,win,20240417_i04k,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div3,Roxbury,roxburycommunitycollege,alfrymerejildodysj,Alfry Merejildo
+Apr 18,home,Dallas College - Cedar Valley,L,15-3,15,3,12,win,20240418_qztg,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div3,Roxbury,roxburycommunitycollege,alfrymerejildodysj,Alfry Merejildo
+Apr 19,home,Dallas College - Cedar Valley,W,11-4,11,4,7,win,20240419_jhnk,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div3,Roxbury,roxburycommunitycollege,alfrymerejildodysj,Alfry Merejildo
+Apr 22,home,LeTourneau,W,22-4,22,4,18,win,20240422_us0s,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div3,Roxbury,roxburycommunitycollege,alfrymerejildodysj,Alfry Merejildo
+Apr 24,home,Dallas College - Richland,W,6-5,6,5,1,win,20240424_jc2z,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div3,Roxbury,roxburycommunitycollege,alfrymerejildodysj,Alfry Merejildo
+Apr 25,home,Dallas College - Richland,W,3-2,3,2,1,win,20240425_xsgg,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div3,Roxbury,roxburycommunitycollege,alfrymerejildodysj,Alfry Merejildo
+Apr 26,home,Dallas College - Richland,L,7-6,7,6,1,win,20240426_dr24,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div3,Roxbury,roxburycommunitycollege,alfrymerejildodysj,Alfry Merejildo
+May 1,home,Dallas College - Mountain View,W,15-4,15,4,11,win,20240501_pkga,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div3,Roxbury,roxburycommunitycollege,alfrymerejildodysj,Alfry Merejildo
+May 3,home,Dallas College - Mountain View,W,7-4,7,4,3,win,20240503_azg9,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div3,Roxbury,roxburycommunitycollege,alfrymerejildodysj,Alfry Merejildo
+May 4,home,Dallas College - Mountain View,W,7-2,7,2,5,win,20240504_1otb,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div3,Roxbury,roxburycommunitycollege,alfrymerejildodysj,Alfry Merejildo
+May 8,home,Dallas College - North Lake,W,12-1,12,1,11,win,20240508_dm9v,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div3,Roxbury,roxburycommunitycollege,alfrymerejildodysj,Alfry Merejildo
+May 10,home,Dallas College - North Lake,W,12-2,12,2,10,win,20240510_1asn,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div3,Roxbury,roxburycommunitycollege,alfrymerejildodysj,Alfry Merejildo
+May 11,home,Dallas College - North Lake,W,6-0,6,0,6,win,20240511_dsn9,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div3,Roxbury,roxburycommunitycollege,alfrymerejildodysj,Alfry Merejildo
+May 17,home,North Arkansas,W,13-3,13,3,10,win,20240517_0n1c,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div3,Roxbury,roxburycommunitycollege,alfrymerejildodysj,Alfry Merejildo
+May 18,home,Dallas College - Richland,L,7-0,7,0,7,win,20240518_qz87,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div3,Roxbury,roxburycommunitycollege,alfrymerejildodysj,Alfry Merejildo
+May 18,home,North Arkansas,W,9-1,9,1,8,win,20240518_uk4n,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div3,Roxbury,roxburycommunitycollege,alfrymerejildodysj,Alfry Merejildo
+May 19,home,Dallas College - Richland,L,17-4,17,4,13,win,20240519_dj8f,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div3,Roxbury,roxburycommunitycollege,alfrymerejildodysj,Alfry Merejildo
+May 25,home,(6) St. Cloud Tech,W,7-2,7,2,5,win,20240525_fv9n,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div3,Roxbury,roxburycommunitycollege,alfrymerejildodysj,Alfry Merejildo
+May 26,home,(2) Dallas College - Richland,L,3-2,3,2,1,win,20240526_hu9b,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div3,Roxbury,roxburycommunitycollege,alfrymerejildodysj,Alfry Merejildo
+May 27,home,(4) Camp,W,10-2,10,2,8,win,20240527_dve6,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div3,Roxbury,roxburycommunitycollege,alfrymerejildodysj,Alfry Merejildo
+May 28,home,(7) DuPage,W,10-9,10,9,1,win,20240528_7y9s,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div3,Roxbury,roxburycommunitycollege,alfrymerejildodysj,Alfry Merejildo
+May 29,home,(2) Dallas College - Richland,W,5-4,5,4,1,win,20240529_tyrf,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div3,Roxbury,roxburycommunitycollege,alfrymerejildodysj,Alfry Merejildo
+May 29,home,(1) RCSJ Gloucester,L,18-3,18,3,15,win,20240529_ic1x,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div3,Roxbury,roxburycommunitycollege,alfrymerejildodysj,Alfry Merejildo

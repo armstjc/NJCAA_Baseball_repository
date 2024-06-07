@@ -1,15 +1,36 @@
 date,location,opponent,result,score,team_score,opp_score,game_score_diff,game_win_loss,game_id,TC,PO,A,E,FPCT,DP,SBA,RCS,RCS_PCT,PB,CI,season,njcaa_season,njcaa_division,team,team_id,player_id,player_name
-Mar 11,home,SUNY Adirondack,W,8-3,8,3,5,win,20240311_miym,1,1,0,0,4.0,5,3,2,4.50,2.00,3,2024,2023-24,div3,Oakton,oaktoncommunitycollege,leomiller4bze,LEO MILLER
-Mar 19,home,Kishwaukee,L,6-4,6,4,2,win,20240319_h5e1,1,0,1,0,2.0,6,6,6,27.00,3.50,1,2024,2023-24,div3,Oakton,oaktoncommunitycollege,leomiller4bze,LEO MILLER
-Mar 28,home,DuPage,L,18-15,18,15,3,win,20240328_hci1,0,0,0,0,2.1,1,1,,0.00,1.71,3,2024,2023-24,div3,Oakton,oaktoncommunitycollege,leomiller4bze,LEO MILLER
-Mar 30,home,Milwaukee Area Tech,L,2-1,2,1,1,win,20240330_0jn0,1,0,1,0,4.1,3,2,1,2.08,.92,1,2024,2023-24,div3,Oakton,oaktoncommunitycollege,leomiller4bze,LEO MILLER
-Apr 5,home,Kankakee,L,5-1,5,1,4,win,20240405_vyc7,1,0,0,0,2.0,0,1,0,0.00,1.50,3,2024,2023-24,div3,Oakton,oaktoncommunitycollege,leomiller4bze,LEO MILLER
-Apr 9,home,Elgin,L,15-5,15,5,10,win,20240409_k72a,0,0,0,0,1.0,1,,,0.00,2.00,1,2024,2023-24,div3,Oakton,oaktoncommunitycollege,leomiller4bze,LEO MILLER
-Apr 12,home,Sauk Valley,L,8-2,8,2,6,win,20240412_413v,1,0,1,0,5.0,7,7,6,10.80,1.60,1,2024,2023-24,div3,Oakton,oaktoncommunitycollege,leomiller4bze,LEO MILLER
-Apr 14,home,Highland (IL),L,2-0,2,0,2,win,20240414_n18q,0,0,0,0,1.0,1,1,,0.00,2.00,1,2024,2023-24,div3,Oakton,oaktoncommunitycollege,leomiller4bze,LEO MILLER
-Apr 20,home,Waubonsee,L,7-3,7,3,4,win,20240420_r7np,0,0,0,0,0.2,1,1,,0.00,3.00,1,2024,2023-24,div3,Oakton,oaktoncommunitycollege,leomiller4bze,LEO MILLER
-Apr 21,home,Black Hawk,L,11-1,11,1,10,win,20240421_19kt,0,0,0,0,1.1,,,,0.00,,,2024,2023-24,div3,Oakton,oaktoncommunitycollege,leomiller4bze,LEO MILLER
-Apr 23,home,Lake County,L,5-2,5,2,3,win,20240423_fvn5,1,0,1,0,6.1,3,4,4,5.68,.63,1,2024,2023-24,div3,Oakton,oaktoncommunitycollege,leomiller4bze,LEO MILLER
-Apr 30,home,Harper,W,7-5,7,5,2,win,20240430_r99v,1,0,0,0,4.0,7,5,5,11.25,2.50,3,2024,2023-24,div3,Oakton,oaktoncommunitycollege,leomiller4bze,LEO MILLER
-May 5,home,Madison,L,2-1,2,1,1,win,20240505_c32o,0,0,1,0,2.0,2,1,1,4.50,1.00,,2024,2023-24,div3,Oakton,oaktoncommunitycollege,leomiller4bze,LEO MILLER
-May 11,home,Waubonsee,W,6-4,6,4,2,win,20240511_g231,1,1,0,0,6.0,4,3,3,4.50,1.67,6,2024,2023-24,div3,Oakton,oaktoncommunitycollege,leomiller4bze,LEO MILLER
+Mar 1,home,Chesapeake,L,4-3,4,3,1,win,20240301_1vgk,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div3,Oakton,oaktoncommunitycollege,leomiller4bze,LEO MILLER
+Mar 2,home,Lake County,L,5-3,5,3,2,win,20240302_7n10,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div3,Oakton,oaktoncommunitycollege,leomiller4bze,LEO MILLER
+Mar 3,home,Delta,W,6-4,6,4,2,win,20240303_dyhi,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div3,Oakton,oaktoncommunitycollege,leomiller4bze,LEO MILLER
+Mar 3,home,Delta,W,16-5,16,5,11,win,20240303_6iii,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div3,Oakton,oaktoncommunitycollege,leomiller4bze,LEO MILLER
+Mar 5,home,Henry Ford,W,10-5,10,5,5,win,20240305_4jgr,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div3,Oakton,oaktoncommunitycollege,leomiller4bze,LEO MILLER
+Mar 5,home,Penn State Mont Alto,W,8-7,8,7,1,win,20240305_0wt1,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div3,Oakton,oaktoncommunitycollege,leomiller4bze,LEO MILLER
+Mar 6,home,Penn State Greater Allegheny,W,13-8,13,8,5,win,20240306_bbbr,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div3,Oakton,oaktoncommunitycollege,leomiller4bze,LEO MILLER
+Mar 15,home,Indian Hills,L,18-1,18,1,17,win,20240315_7h9v,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div3,Oakton,oaktoncommunitycollege,leomiller4bze,LEO MILLER
+Mar 16,home,Indian Hills,L,8-7,8,7,1,win,20240316_pw6s,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div3,Oakton,oaktoncommunitycollege,leomiller4bze,LEO MILLER
+Mar 16,home,Indian Hills,W,16-9,16,9,7,win,20240316_hbie,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div3,Oakton,oaktoncommunitycollege,leomiller4bze,LEO MILLER
+Mar 19,home,Minnesota West,W,21-3,21,3,18,win,20240319_6mcw,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div3,Oakton,oaktoncommunitycollege,leomiller4bze,LEO MILLER
+Mar 19,home,Minnesota West,W,21-11,21,11,10,win,20240319_0gjh,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div3,Oakton,oaktoncommunitycollege,leomiller4bze,LEO MILLER
+Apr 13,home,Ridgewater,L,15-5,15,5,10,win,20240413_fcda,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div3,Oakton,oaktoncommunitycollege,leomiller4bze,LEO MILLER
+Apr 13,home,Ridgewater,W,13-4,13,4,9,win,20240413_1d03,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div3,Oakton,oaktoncommunitycollege,leomiller4bze,LEO MILLER
+Apr 14,home,Ridgewater,W,7-5,7,5,2,win,20240414_jdak,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div3,Oakton,oaktoncommunitycollege,leomiller4bze,LEO MILLER
+Apr 14,home,Ridgewater,W,5-3,5,3,2,win,20240414_rdlg,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div3,Oakton,oaktoncommunitycollege,leomiller4bze,LEO MILLER
+Apr 17,home,Alexandria Tech,W,10-8,10,8,2,win,20240417_t4sg,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div3,Oakton,oaktoncommunitycollege,leomiller4bze,LEO MILLER
+Apr 20,home,Anoka-Ramsey,W,6-5,6,5,1,win,20240420_1x7p,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div3,Oakton,oaktoncommunitycollege,leomiller4bze,LEO MILLER
+Apr 21,home,Anoka-Ramsey,W,10-0,10,0,10,win,20240421_uste,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div3,Oakton,oaktoncommunitycollege,leomiller4bze,LEO MILLER
+Apr 24,home,Dakota County Tech,L,17-0,17,0,17,win,20240424_v70g,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div3,Oakton,oaktoncommunitycollege,leomiller4bze,LEO MILLER
+Apr 27,home,Central Lakes,L,3-2,3,2,1,win,20240427_0h3j,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div3,Oakton,oaktoncommunitycollege,leomiller4bze,LEO MILLER
+Apr 27,home,Central Lakes,W,12-1,12,1,11,win,20240427_e4wa,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div3,Oakton,oaktoncommunitycollege,leomiller4bze,LEO MILLER
+May 1,home,Central Lakes,W,12-9,12,9,3,win,20240501_fc93,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div3,Oakton,oaktoncommunitycollege,leomiller4bze,LEO MILLER
+May 1,home,Central Lakes,W,8-0,8,0,8,win,20240501_w50h,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div3,Oakton,oaktoncommunitycollege,leomiller4bze,LEO MILLER
+May 3,home,Minnesota State,W,16-3,16,3,13,win,20240503_0cyj,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div3,Oakton,oaktoncommunitycollege,leomiller4bze,LEO MILLER
+May 3,home,Minnesota State,W,24-3,24,3,21,win,20240503_oceb,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div3,Oakton,oaktoncommunitycollege,leomiller4bze,LEO MILLER
+May 4,home,Minnesota State,W,13-6,13,6,7,win,20240504_pcv0,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div3,Oakton,oaktoncommunitycollege,leomiller4bze,LEO MILLER
+May 4,home,Minnesota State,W,8-0,8,0,8,win,20240504_2808,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div3,Oakton,oaktoncommunitycollege,leomiller4bze,LEO MILLER
+May 9,home,Riverland,W,8-4,8,4,4,win,20240509_6lon,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div3,Oakton,oaktoncommunitycollege,leomiller4bze,LEO MILLER
+May 10,home,Rochester,W,8-6,8,6,2,win,20240510_vt17,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div3,Oakton,oaktoncommunitycollege,leomiller4bze,LEO MILLER
+May 16,home,North Dakota SCS,W,9-3,9,3,6,win,20240516_03fk,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div3,Oakton,oaktoncommunitycollege,leomiller4bze,LEO MILLER
+May 17,home,Century,W,15-8,15,8,7,win,20240517_bpcg,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div3,Oakton,oaktoncommunitycollege,leomiller4bze,LEO MILLER
+May 18,home,Century,L,9-6,9,6,3,win,20240518_n20m,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div3,Oakton,oaktoncommunitycollege,leomiller4bze,LEO MILLER
+May 18,home,Century,W,24-22,24,22,2,win,20240518_8xfu,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div3,Oakton,oaktoncommunitycollege,leomiller4bze,LEO MILLER
+May 26,home,(7) DuPage,L,6-3,6,3,3,win,20240526_0dyz,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div3,Oakton,oaktoncommunitycollege,leomiller4bze,LEO MILLER

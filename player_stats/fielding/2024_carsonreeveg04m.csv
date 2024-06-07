@@ -1,14 +1,22 @@
 date,location,opponent,result,score,team_score,opp_score,game_score_diff,game_win_loss,game_id,TC,PO,A,E,FPCT,DP,SBA,RCS,RCS_PCT,PB,CI,season,njcaa_season,njcaa_division,team,team_id,player_id,player_name
-Mar 2,home,Lake County,L,5-3,5,3,2,win,20240302_7n10,0,0,1,0,0.0,4,2,2,INF,,,2024,2023-24,div3,St. Cloud Tech,stcloudtechnicalcommunitycollege,carsonreeveg04m,Carson Reeve
-Mar 5,home,Penn State Mont Alto,W,8-7,8,7,1,win,20240305_0wt1,0,0,0,0,1.1,1,,,0.00,3.00,3,2024,2023-24,div3,St. Cloud Tech,stcloudtechnicalcommunitycollege,carsonreeveg04m,Carson Reeve
-Mar 15,home,Indian Hills,L,18-1,18,1,17,win,20240315_7h9v,0,0,0,0,0.0,4,6,6,INF,,2,2024,2023-24,div3,St. Cloud Tech,stcloudtechnicalcommunitycollege,carsonreeveg04m,Carson Reeve
-Mar 19,home,Minnesota West,W,21-11,21,11,10,win,20240319_0gjh,0,1,0,0,3.1,1,,,0.00,.30,,2024,2023-24,div3,St. Cloud Tech,stcloudtechnicalcommunitycollege,carsonreeveg04m,Carson Reeve
-Mar 30,home,Century,W,6-4,6,4,2,win,20240330_8h6y,0,1,0,0,2.0,1,0,0,0.00,1.00,1,2024,2023-24,div3,St. Cloud Tech,stcloudtechnicalcommunitycollege,carsonreeveg04m,Carson Reeve
-Apr 10,home,Alexandria Tech,L,5-4,5,4,1,win,20240410_k2kv,0,0,1,0,0.0,1,2,2,INF,,2,2024,2023-24,div3,St. Cloud Tech,stcloudtechnicalcommunitycollege,carsonreeveg04m,Carson Reeve
-Apr 13,home,Ridgewater,W,13-4,13,4,9,win,20240413_1d03,1,1,0,0,4.0,3,3,3,6.75,2.00,5,2024,2023-24,div3,St. Cloud Tech,stcloudtechnicalcommunitycollege,carsonreeveg04m,Carson Reeve
-Apr 17,home,Alexandria Tech,W,8-6,8,6,2,win,20240417_yeqj,1,0,0,0,5.0,8,2,2,3.60,2.20,3,2024,2023-24,div3,St. Cloud Tech,stcloudtechnicalcommunitycollege,carsonreeveg04m,Carson Reeve
-Apr 24,home,Dakota County Tech,W,4-0,4,0,4,win,20240424_s45b,1,1,0,0,7.0,2,0,0,0.00,.71,3,2024,2023-24,div3,St. Cloud Tech,stcloudtechnicalcommunitycollege,carsonreeveg04m,Carson Reeve
-May 1,home,Central Lakes,W,8-0,8,0,8,win,20240501_w50h,1,1,0,0,7.0,2,0,0,0.00,.43,1,2024,2023-24,div3,St. Cloud Tech,stcloudtechnicalcommunitycollege,carsonreeveg04m,Carson Reeve
-May 9,home,Riverland,W,8-4,8,4,4,win,20240509_6lon,1,1,0,0,5.0,4,4,4,7.20,1.60,4,2024,2023-24,div3,St. Cloud Tech,stcloudtechnicalcommunitycollege,carsonreeveg04m,Carson Reeve
-May 17,home,Century,W,15-8,15,8,7,win,20240517_bpcg,1,0,0,0,3.1,9,8,8,21.60,3.30,2,2024,2023-24,div3,St. Cloud Tech,stcloudtechnicalcommunitycollege,carsonreeveg04m,Carson Reeve
-May 25,home,(3) Dallas College - Eastfield,L,7-2,7,2,5,win,20240525_fv9n,1,0,1,0,4.0,6,3,1,2.25,2.25,3,2024,2023-24,div3,St. Cloud Tech,stcloudtechnicalcommunitycollege,carsonreeveg04m,Carson Reeve
+Jan 28,home,South Arkansas,L,14-6,14,6,8,win,20240128_f4od,0,0,0,0,1.0,1,2,,0.00,1.00,,2024,2023-24,div3,St. Cloud Tech,stcloudtechnicalcommunitycollege,carsonreeveg04m,Carson Reeve
+Feb 3,home,Coahoma,W,22-2,22,2,20,win,20240203_huav,0,0,0,0,1.0,,,,0.00,1.00,1,2024,2023-24,div3,St. Cloud Tech,stcloudtechnicalcommunitycollege,carsonreeveg04m,Carson Reeve
+Feb 14,home,Mission University JV,W,9-8,9,8,1,win,20240214_jdwh,0,1,0,0,3.0,2,1,,0.00,1.00,1,2024,2023-24,div3,St. Cloud Tech,stcloudtechnicalcommunitycollege,carsonreeveg04m,Carson Reeve
+Feb 18,home,Danville Area,W,8-6,8,6,2,win,20240218_ng90,0,0,0,1,1.0,1,1,1,9.00,2.00,1,2024,2023-24,div3,St. Cloud Tech,stcloudtechnicalcommunitycollege,carsonreeveg04m,Carson Reeve
+Feb 20,home,Hendrix College JV,W,4-3,4,3,1,win,20240220_vt04,0,0,0,0,1.0,1,1,1,9.00,2.00,1,2024,2023-24,div3,St. Cloud Tech,stcloudtechnicalcommunitycollege,carsonreeveg04m,Carson Reeve
+Feb 26,home,Western Tech,W,12-1,12,1,11,win,20240226_07o5,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div3,St. Cloud Tech,stcloudtechnicalcommunitycollege,carsonreeveg04m,Carson Reeve
+Mar 1,home,Western Tech,W,7-2,7,2,5,win,20240301_39h3,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div3,St. Cloud Tech,stcloudtechnicalcommunitycollege,carsonreeveg04m,Carson Reeve
+Mar 2,home,Western Tech,W,5-2,5,2,3,win,20240302_2up5,0,0,0,1,2.0,1,1,1,4.50,.50,,2024,2023-24,div3,St. Cloud Tech,stcloudtechnicalcommunitycollege,carsonreeveg04m,Carson Reeve
+Mar 9,home,Southeast Arkansas College,W,6-5,6,5,1,win,20240309_q3vb,0,0,0,1,4.0,2,1,1,2.25,.75,1,2024,2023-24,div3,St. Cloud Tech,stcloudtechnicalcommunitycollege,carsonreeveg04m,Carson Reeve
+Mar 16,home,East Central (MO),L,9-8,9,8,1,win,20240316_jbj5,0,0,1,0,1.0,1,2,1,9.00,1.00,,2024,2023-24,div3,St. Cloud Tech,stcloudtechnicalcommunitycollege,carsonreeveg04m,Carson Reeve
+Mar 20,home,Mission University JV,W,9-6,9,6,3,win,20240320_84th,0,1,0,0,2.0,1,,,0.00,.50,,2024,2023-24,div3,St. Cloud Tech,stcloudtechnicalcommunitycollege,carsonreeveg04m,Carson Reeve
+Mar 23,home,Arkansas State University - Three Rivers,W,13-3,13,3,10,win,20240323_f5t0,0,0,0,0,2.0,1,1,1,4.50,1.00,1,2024,2023-24,div3,St. Cloud Tech,stcloudtechnicalcommunitycollege,carsonreeveg04m,Carson Reeve
+Apr 1,home,Hendrix College JV,W,7-4,7,4,3,win,20240401_qo27,0,0,0,1,0.2,,,,0.00,,,2024,2023-24,div3,St. Cloud Tech,stcloudtechnicalcommunitycollege,carsonreeveg04m,Carson Reeve
+Apr 6,home,Southeast Arkansas College,W,7-3,7,3,4,win,20240406_r0pn,0,1,0,0,4.1,2,,,0.00,.69,1,2024,2023-24,div3,St. Cloud Tech,stcloudtechnicalcommunitycollege,carsonreeveg04m,Carson Reeve
+Apr 13,home,DFW Post Grad,W,15-5,15,5,10,win,20240413_1x9b,0,1,0,0,2.0,2,2,2,9.00,1.50,1,2024,2023-24,div3,St. Cloud Tech,stcloudtechnicalcommunitycollege,carsonreeveg04m,Carson Reeve
+Apr 16,home,Arkansas State Mid-South,W,7-3,7,3,4,win,20240416_i0w1,0,0,0,1,1.0,,,,0.00,,,2024,2023-24,div3,St. Cloud Tech,stcloudtechnicalcommunitycollege,carsonreeveg04m,Carson Reeve
+Apr 20,home,Arkansas State University - Three Rivers,W,7-6,7,6,1,win,20240420_yygu,0,1,0,0,3.0,2,1,,0.00,.67,,2024,2023-24,div3,St. Cloud Tech,stcloudtechnicalcommunitycollege,carsonreeveg04m,Carson Reeve
+May 1,home,Carl Albert State,W,23-6,23,6,17,win,20240501_lowi,0,0,0,0,1.0,,,,0.00,,,2024,2023-24,div3,St. Cloud Tech,stcloudtechnicalcommunitycollege,carsonreeveg04m,Carson Reeve
+May 6,home,Pearl River,L,11-4,11,4,7,win,20240506_y5ia,0,0,0,0,2.0,2,1,1,4.50,1.00,,2024,2023-24,div3,St. Cloud Tech,stcloudtechnicalcommunitycollege,carsonreeveg04m,Carson Reeve
+May 15,home,Dallas College - North Lake,W,4-2,4,2,2,win,20240515_77i0,0,0,0,1,2.2,1,,,0.00,.38,,2024,2023-24,div3,St. Cloud Tech,stcloudtechnicalcommunitycollege,carsonreeveg04m,Carson Reeve
+May 18,home,Dallas College - Brookhaven,W,17-16,17,16,1,win,20240518_atvv,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div3,St. Cloud Tech,stcloudtechnicalcommunitycollege,carsonreeveg04m,Carson Reeve

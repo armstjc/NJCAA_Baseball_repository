@@ -1,13 +1,35 @@
 date,location,opponent,result,score,team_score,opp_score,game_score_diff,game_win_loss,game_id,TC,PO,A,E,FPCT,DP,SBA,RCS,RCS_PCT,PB,CI,season,njcaa_season,njcaa_division,team,team_id,player_id,player_name
-Feb 9,home,Southern Arkansas University Tech,W,15-4,15,4,11,win,20240209_g6pp,0,0,0,0,0.1,1,1,1,27.00,6.00,1,2024,2023-24,div2,Southeast Arkansas College,southeastarkansascollege,jacobmastershehw,Jacob Masters
-Feb 21,home,Lyon College JV,W,6-3,6,3,3,win,20240221_arp1,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Southeast Arkansas College,southeastarkansascollege,jacobmastershehw,Jacob Masters
-Feb 23,home,Northern Oklahoma Tonkawa,L,15-4,15,4,11,win,20240223_9b6s,0,0,0,0,1.2,,3,3,16.20,1.80,3,2024,2023-24,div2,Southeast Arkansas College,southeastarkansascollege,jacobmastershehw,Jacob Masters
-Feb 28,home,Lyon College JV,W,13-8,13,8,5,win,20240228_yw8w,0,1,0,0,3.1,2,3,3,8.10,1.20,2,2024,2023-24,div2,Southeast Arkansas College,southeastarkansascollege,jacobmastershehw,Jacob Masters
-Mar 5,home,Henderson State JV,W,3-2,3,2,1,win,20240305_wf1f,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Southeast Arkansas College,southeastarkansascollege,jacobmastershehw,Jacob Masters
-Mar 13,home,Lyon College JV,W,15-7,15,7,8,win,20240313_odkr,0,1,0,0,3.0,1,,,0.00,.67,1,2024,2023-24,div2,Southeast Arkansas College,southeastarkansascollege,jacobmastershehw,Jacob Masters
-Mar 27,home,Central Baptist College,W,7-2,7,2,5,win,20240327_1jiu,1,0,0,0,2.0,1,2,0,0.00,1.00,1,2024,2023-24,div2,Southeast Arkansas College,southeastarkansascollege,jacobmastershehw,Jacob Masters
-Mar 30,home,LSU Eunice,L,10-0,10,0,10,win,20240330_l8sz,0,0,0,0,0.2,1,1,,0.00,3.00,1,2024,2023-24,div2,Southeast Arkansas College,southeastarkansascollege,jacobmastershehw,Jacob Masters
-Apr 5,home,North Arkansas,L,14-9,14,9,5,win,20240405_z1g5,0,0,0,0,1.0,,,,0.00,1.00,1,2024,2023-24,div2,Southeast Arkansas College,southeastarkansascollege,jacobmastershehw,Jacob Masters
-Apr 8,home,National Park College,L,8-6,8,6,2,win,20240408_0m89,0,0,0,0,0.1,,1,1,27.00,3.00,1,2024,2023-24,div2,Southeast Arkansas College,southeastarkansascollege,jacobmastershehw,Jacob Masters
-Apr 13,home,LSU Eunice,L,10-1,10,1,9,win,20240413_mbp4,0,0,0,0,0.0,,2,2,INF,,2,2024,2023-24,div2,Southeast Arkansas College,southeastarkansascollege,jacobmastershehw,Jacob Masters
-Apr 22,home,Central Baptist College JV,W,20-3,20,3,17,win,20240422_pduc,0,0,0,0,1.0,1,,,0.00,1.00,,2024,2023-24,div2,Southeast Arkansas College,southeastarkansascollege,jacobmastershehw,Jacob Masters
+Jan 26,home,Indian River State,W,13-11,13,11,2,win,20240126_7gts,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Southeast Arkansas College,southeastarkansascollege,jacobmastershehw,Jacob Masters
+Jan 27,home,Chipola,L,9-5,9,5,4,win,20240127_hazc,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Southeast Arkansas College,southeastarkansascollege,jacobmastershehw,Jacob Masters
+Jan 27,home,Polk State,W,10-4,10,4,6,win,20240127_x1en,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Southeast Arkansas College,southeastarkansascollege,jacobmastershehw,Jacob Masters
+Jan 30,home,Atlantis University,W,15-3,15,3,12,win,20240130_n8jt,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Southeast Arkansas College,southeastarkansascollege,jacobmastershehw,Jacob Masters
+Jan 31,home,Eastern Florida State,W,13-10,13,10,3,win,20240131_czdm,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Southeast Arkansas College,southeastarkansascollege,jacobmastershehw,Jacob Masters
+Feb 6,home,Atlantis University,W,13-4,13,4,9,win,20240206_p0e6,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Southeast Arkansas College,southeastarkansascollege,jacobmastershehw,Jacob Masters
+Feb 7,home,Eastern Florida State,W,4-3,4,3,1,win,20240207_fcn2,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Southeast Arkansas College,southeastarkansascollege,jacobmastershehw,Jacob Masters
+Feb 10,home,Millennia Atlantic University,W,3-2,3,2,1,win,20240210_b0oj,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Southeast Arkansas College,southeastarkansascollege,jacobmastershehw,Jacob Masters
+Feb 10,home,Millennia Atlantic University,W,10-0,10,0,10,win,20240210_7iwz,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Southeast Arkansas College,southeastarkansascollege,jacobmastershehw,Jacob Masters
+Feb 13,home,Indian River State,L,10-2,10,2,8,win,20240213_0xz0,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Southeast Arkansas College,southeastarkansascollege,jacobmastershehw,Jacob Masters
+Feb 14,home,United International College,W,10-6,10,6,4,win,20240214_8nal,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Southeast Arkansas College,southeastarkansascollege,jacobmastershehw,Jacob Masters
+Feb 20,home,Florida SouthWestern State,L,15-2,15,2,13,win,20240220_zc2k,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Southeast Arkansas College,southeastarkansascollege,jacobmastershehw,Jacob Masters
+Feb 23,home,St. Johns River State,W,12-9,12,9,3,win,20240223_pp0p,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Southeast Arkansas College,southeastarkansascollege,jacobmastershehw,Jacob Masters
+Feb 24,home,St. Johns River State,W,3-2,3,2,1,win,20240224_usdw,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Southeast Arkansas College,southeastarkansascollege,jacobmastershehw,Jacob Masters
+Mar 2,home,Pasco-Hernando State,L,11-3,11,3,8,win,20240302_yoyn,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Southeast Arkansas College,southeastarkansascollege,jacobmastershehw,Jacob Masters
+Mar 8,home,South Florida State,L,5-3,5,3,2,win,20240308_0s79,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Southeast Arkansas College,southeastarkansascollege,jacobmastershehw,Jacob Masters
+Mar 15,home,Florida State Jacksonville,W,5-3,5,3,2,win,20240315_jj09,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Southeast Arkansas College,southeastarkansascollege,jacobmastershehw,Jacob Masters
+Mar 16,home,Florida State Jacksonville,L,5-2,5,2,3,win,20240316_t6wq,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Southeast Arkansas College,southeastarkansascollege,jacobmastershehw,Jacob Masters
+Mar 16,home,Florida State Jacksonville,L,9-8,9,8,1,win,20240316_z4pd,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Southeast Arkansas College,southeastarkansascollege,jacobmastershehw,Jacob Masters
+Mar 21,home,Lake-Sumter State,L,2-0,2,0,2,win,20240321_0wmf,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Southeast Arkansas College,southeastarkansascollege,jacobmastershehw,Jacob Masters
+Mar 21,home,Lake-Sumter State,W,16-5,16,5,11,win,20240321_d2zv,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Southeast Arkansas College,southeastarkansascollege,jacobmastershehw,Jacob Masters
+Mar 29,home,St. Johns River State,L,6-5,6,5,1,win,20240329_n1dx,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Southeast Arkansas College,southeastarkansascollege,jacobmastershehw,Jacob Masters
+Mar 30,home,St. Johns River State,W,6-1,6,1,5,win,20240330_26tw,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Southeast Arkansas College,southeastarkansascollege,jacobmastershehw,Jacob Masters
+Mar 30,home,St. Johns River State,L,18-1,18,1,17,win,20240330_73av,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Southeast Arkansas College,southeastarkansascollege,jacobmastershehw,Jacob Masters
+Apr 5,home,Pasco-Hernando State,W,5-4,5,4,1,win,20240405_n6cf,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Southeast Arkansas College,southeastarkansascollege,jacobmastershehw,Jacob Masters
+Apr 6,home,Pasco-Hernando State,W,5-3,5,3,2,win,20240406_unxr,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Southeast Arkansas College,southeastarkansascollege,jacobmastershehw,Jacob Masters
+Apr 6,home,Pasco-Hernando State,W,11-1,11,1,10,win,20240406_hawr,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Southeast Arkansas College,southeastarkansascollege,jacobmastershehw,Jacob Masters
+Apr 12,home,South Florida State,L,9-1,9,1,8,win,20240412_oe3o,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Southeast Arkansas College,southeastarkansascollege,jacobmastershehw,Jacob Masters
+Apr 13,home,South Florida State,L,6-5,6,5,1,win,20240413_io1h,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Southeast Arkansas College,southeastarkansascollege,jacobmastershehw,Jacob Masters
+Apr 13,home,South Florida State,W,6-3,6,3,3,win,20240413_4fs1,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Southeast Arkansas College,southeastarkansascollege,jacobmastershehw,Jacob Masters
+Apr 19,home,Florida State Jacksonville,L,9-8,9,8,1,win,20240419_l8iw,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Southeast Arkansas College,southeastarkansascollege,jacobmastershehw,Jacob Masters
+Apr 25,home,Lake-Sumter State,W,5-3,5,3,2,win,20240425_m5g9,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Southeast Arkansas College,southeastarkansascollege,jacobmastershehw,Jacob Masters
+Apr 26,home,Lake-Sumter State,L,10-5,10,5,5,win,20240426_vqdc,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Southeast Arkansas College,southeastarkansascollege,jacobmastershehw,Jacob Masters
+Apr 26,home,Lake-Sumter State,W,7-6,7,6,1,win,20240426_2di3,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Southeast Arkansas College,southeastarkansascollege,jacobmastershehw,Jacob Masters

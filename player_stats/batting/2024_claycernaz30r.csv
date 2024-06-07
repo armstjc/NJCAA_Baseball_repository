@@ -1,30 +1,4 @@
 date,location,opponent,result,score,team_score,opp_score,game_score_diff,game_win_loss,game_id,AB,R,H,2B,3B,HR,RBI,BB,K,SB,CS,HBP,SF,SH,TB,XBH,HDP,GO,FO,GO/FO,PA,season,njcaa_season,njcaa_division,team,team_id,player_id,player_name
-Feb 24,home,Arkansas State Mid-South,W,15-5,15,5,10,win,20240224_h6w9,5,1,3,,1,,7,,,1,,,,,5,1,,,,,5,2024,2023-24,div2,Lake County,collegeoflakecounty,claycernaz30r,Clay Cerna
-Feb 25,home,Arkansas State Mid-South,W,15-3,15,3,12,win,20240225_clal,4,1,2,,,,0,,,1,1,,,,2,0,,,,,4,2024,2023-24,div2,Lake County,collegeoflakecounty,claycernaz30r,Clay Cerna
-Mar 2,home,St. Cloud Tech,W,5-3,5,3,2,win,20240302_7n10,4,0,1,,,,1,,1,,,,,,1,0,,,,,4,2024,2023-24,div2,Lake County,collegeoflakecounty,claycernaz30r,Clay Cerna
-Mar 2,home,St. Cloud Tech,W,7-3,7,3,4,win,20240302_cew6,4,2,3,,,,2,,,2,,,,,3,0,,,,,4,2024,2023-24,div2,Lake County,collegeoflakecounty,claycernaz30r,Clay Cerna
-Mar 3,home,Chesapeake,W,6-3,6,3,3,win,20240303_v7l9,4,1,2,1,,,0,,,1,,,,,3,1,,,,,4,2024,2023-24,div2,Lake County,collegeoflakecounty,claycernaz30r,Clay Cerna
-Mar 3,home,Chesapeake,W,10-3,10,3,7,win,20240303_bp5m,3,1,0,,,,1,1,,,1,,,,0,0,,,,,4,2024,2023-24,div2,Lake County,collegeoflakecounty,claycernaz30r,Clay Cerna
-Mar 4,home,Henry Ford,W,5-4,5,4,1,win,20240304_tes3,4,1,1,,,,0,,,1,,,,,1,0,,,,,4,2024,2023-24,div2,Lake County,collegeoflakecounty,claycernaz30r,Clay Cerna
-Mar 4,home,Henry Ford,W,13-3,13,3,10,win,20240304_x5lt,5,2,2,,1,,3,,,1,,,,,4,1,,,,,5,2024,2023-24,div2,Lake County,collegeoflakecounty,claycernaz30r,Clay Cerna
-Mar 6,home,Delta,W,10-0,10,0,10,win,20240306_dup7,4,2,2,,,,0,,,1,,,,,2,0,,,,,4,2024,2023-24,div2,Lake County,collegeoflakecounty,claycernaz30r,Clay Cerna
-Mar 7,home,Hagerstown,W,6-3,6,3,3,win,20240307_r292,3,0,0,,,,0,,,,,,,,0,0,,,,,3,2024,2023-24,div2,Lake County,collegeoflakecounty,claycernaz30r,Clay Cerna
-Mar 12,home,Harper,W,24-3,24,3,21,win,20240312_x0u7,2,2,1,1,,,3,1,,,1,1,,,2,1,,,,,4,2024,2023-24,div2,Lake County,collegeoflakecounty,claycernaz30r,Clay Cerna
-Mar 16,home,Milwaukee Area Tech,W,7-5,7,5,2,win,20240316_1cx1,3,1,1,1,,,2,,,,,,1,1,2,1,,,,,5,2024,2023-24,div2,Lake County,collegeoflakecounty,claycernaz30r,Clay Cerna
-Mar 19,home,DuPage,W,15-3,15,3,12,win,20240319_0fe3,4,2,1,1,,,3,1,1,,,,,,2,1,,,,,5,2024,2023-24,div2,Lake County,collegeoflakecounty,claycernaz30r,Clay Cerna
-Mar 21,home,Joliet,W,4-0,4,0,4,win,20240321_wkmn,4,1,3,,,,0,,,,1,,,,3,0,,,,,4,2024,2023-24,div2,Lake County,collegeoflakecounty,claycernaz30r,Clay Cerna
-Mar 29,home,Highland (IL),W,3-2,3,2,1,win,20240329_xfbn,3,0,0,,,,0,,,,,,,,0,0,,,,,3,2024,2023-24,div2,Lake County,collegeoflakecounty,claycernaz30r,Clay Cerna
-Apr 6,home,Moraine Valley,W,5-3,5,3,2,win,20240406_ty0u,3,1,1,,,,1,1,,,,,,,1,0,,,,,4,2024,2023-24,div2,Lake County,collegeoflakecounty,claycernaz30r,Clay Cerna
-Apr 6,home,Moraine Valley,W,8-3,8,3,5,win,20240406_o4kn,3,1,1,,,,0,1,1,,,,,,1,0,,,,,4,2024,2023-24,div2,Lake County,collegeoflakecounty,claycernaz30r,Clay Cerna
-Apr 11,home,Triton,W,3-1,3,1,2,win,20240411_snvl,4,0,2,,,,0,1,,,1,,,,2,0,,,,,5,2024,2023-24,div2,Lake County,collegeoflakecounty,claycernaz30r,Clay Cerna
-Apr 13,home,Prairie State,W,12-1,12,1,11,win,20240413_2rjd,4,2,2,,,,2,,,,,,,,2,0,,,,,4,2024,2023-24,div2,Lake County,collegeoflakecounty,claycernaz30r,Clay Cerna
-Apr 13,home,Prairie State,W,6-1,6,1,5,win,20240413_9jlr,4,1,2,,,,1,,1,,,,,,2,0,,,,,4,2024,2023-24,div2,Lake County,collegeoflakecounty,claycernaz30r,Clay Cerna
-Apr 16,home,Elgin,W,4-3,4,3,1,win,20240416_27r2,3,0,1,,,,0,,1,,,,,1,1,0,,,,,4,2024,2023-24,div2,Lake County,collegeoflakecounty,claycernaz30r,Clay Cerna
-Apr 23,home,Oakton,W,5-2,5,2,3,win,20240423_fvn5,2,1,1,,,,0,1,,1,,,,1,1,0,,,,,4,2024,2023-24,div2,Lake County,collegeoflakecounty,claycernaz30r,Clay Cerna
-Apr 26,home,Kankakee,W,7-6,7,6,1,win,20240426_2kii,5,0,2,,,,1,,,,,,,,2,0,,,,,5,2024,2023-24,div2,Lake County,collegeoflakecounty,claycernaz30r,Clay Cerna
-Apr 27,home,Waubonsee,W,5-2,5,2,3,win,20240427_ghuq,3,2,2,,,,0,,,,,,,1,2,0,,,,,4,2024,2023-24,div2,Lake County,collegeoflakecounty,claycernaz30r,Clay Cerna
-Apr 27,home,Waubonsee,W,9-2,9,2,7,win,20240427_2570,4,1,2,1,,,2,,,,,,,,3,1,,,,,4,2024,2023-24,div2,Lake County,collegeoflakecounty,claycernaz30r,Clay Cerna
-Apr 30,home,Bryant & Stratton College (WI),W,3-2,3,2,1,win,20240430_gczt,4,1,1,,,,0,,1,,,,,,1,0,,,,,4,2024,2023-24,div2,Lake County,collegeoflakecounty,claycernaz30r,Clay Cerna
-Apr 30,home,Bryant & Stratton College (WI),W,13-6,13,6,7,win,20240430_fok0,4,3,3,1,,,2,,,,,,,,4,1,,,,,4,2024,2023-24,div2,Lake County,collegeoflakecounty,claycernaz30r,Clay Cerna
-May 2,home,Waubonsee,W,6-4,6,4,2,win,20240502_12xz,5,0,2,,,,0,,,,,,,,2,0,,,,,5,2024,2023-24,div2,Lake County,collegeoflakecounty,claycernaz30r,Clay Cerna
-May 4,home,Kishwaukee,W,5-2,5,2,3,win,20240504_wubx,3,1,2,,,,0,1,,1,,,,,2,0,,,,,4,2024,2023-24,div2,Lake County,collegeoflakecounty,claycernaz30r,Clay Cerna
+Mar 4,home,Henry Ford,W,13-3,13,3,10,win,20240304_x5lt,0,0,0,,,,0,,,,,,,,0,0,,,,,0,2024,2023-24,div2,Lake County,collegeoflakecounty,claycernaz30r,Clay Cerna
+Apr 6,home,Moraine Valley,W,8-3,8,3,5,win,20240406_o4kn,0,0,0,,,,0,,,,,,,,0,0,,,,,0,2024,2023-24,div2,Lake County,collegeoflakecounty,claycernaz30r,Clay Cerna
+Apr 26,home,Kankakee,W,7-6,7,6,1,win,20240426_2kii,0,0,0,,,,0,,,,,,,,0,0,,,,,0,2024,2023-24,div2,Lake County,collegeoflakecounty,claycernaz30r,Clay Cerna

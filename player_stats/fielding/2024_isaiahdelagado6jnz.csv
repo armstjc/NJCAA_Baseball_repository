@@ -1,27 +1,36 @@
 date,location,opponent,result,score,team_score,opp_score,game_score_diff,game_win_loss,game_id,TC,PO,A,E,FPCT,DP,SBA,RCS,RCS_PCT,PB,CI,season,njcaa_season,njcaa_division,team,team_id,player_id,player_name
-Mar 11,home,SUNY Adirondack,W,8-3,8,3,5,win,20240311_miym,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div3,Oakton,oaktoncommunitycollege,isaiahdelagado6jnz,ISAIAH DELAGADO
-Mar 29,home,Olive-Harvey,L,8-7,8,7,1,win,20240329_lmwr,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div3,Oakton,oaktoncommunitycollege,isaiahdelagado6jnz,ISAIAH DELAGADO
-Mar 29,home,Olive-Harvey,L,11-9,11,9,2,win,20240329_70po,0,0,0,0,0.2,,1,1,13.50,1.50,1,2024,2023-24,div3,Oakton,oaktoncommunitycollege,isaiahdelagado6jnz,ISAIAH DELAGADO
-Mar 30,home,Milwaukee Area Tech,L,2-1,2,1,1,win,20240330_0jn0,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div3,Oakton,oaktoncommunitycollege,isaiahdelagado6jnz,ISAIAH DELAGADO
-Mar 30,home,Milwaukee Area Tech,L,5-1,5,1,4,win,20240330_nmr5,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div3,Oakton,oaktoncommunitycollege,isaiahdelagado6jnz,ISAIAH DELAGADO
-Apr 5,home,Kankakee,L,5-1,5,1,4,win,20240405_vyc7,0,0,0,0,1.0,1,2,,0.00,2.00,1,2024,2023-24,div3,Oakton,oaktoncommunitycollege,isaiahdelagado6jnz,ISAIAH DELAGADO
-Apr 8,home,Morton,L,11-2,11,2,9,win,20240408_ks9y,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div3,Oakton,oaktoncommunitycollege,isaiahdelagado6jnz,ISAIAH DELAGADO
-Apr 9,home,Elgin,L,12-1,12,1,11,win,20240409_qsmj,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div3,Oakton,oaktoncommunitycollege,isaiahdelagado6jnz,ISAIAH DELAGADO
-Apr 11,home,Harper,L,17-11,17,11,6,win,20240411_h40a,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div3,Oakton,oaktoncommunitycollege,isaiahdelagado6jnz,ISAIAH DELAGADO
-Apr 12,home,Sauk Valley,L,8-2,8,2,6,win,20240412_413v,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div3,Oakton,oaktoncommunitycollege,isaiahdelagado6jnz,ISAIAH DELAGADO
-Apr 12,home,Sauk Valley,W,4-3,4,3,1,win,20240412_vxwo,1,1,0,0,4.0,5,2,2,4.50,2.00,3,2024,2023-24,div3,Oakton,oaktoncommunitycollege,isaiahdelagado6jnz,ISAIAH DELAGADO
-Apr 13,home,Moraine Valley,W,11-2,11,2,9,win,20240413_e1wk,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div3,Oakton,oaktoncommunitycollege,isaiahdelagado6jnz,ISAIAH DELAGADO
-Apr 13,home,Moraine Valley,W,10-0,10,0,10,win,20240413_qjcp,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div3,Oakton,oaktoncommunitycollege,isaiahdelagado6jnz,ISAIAH DELAGADO
-Apr 14,home,Highland (IL),L,2-0,2,0,2,win,20240414_n18q,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div3,Oakton,oaktoncommunitycollege,isaiahdelagado6jnz,ISAIAH DELAGADO
-Apr 14,home,Highland (IL),L,14-4,14,4,10,win,20240414_kvs6,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div3,Oakton,oaktoncommunitycollege,isaiahdelagado6jnz,ISAIAH DELAGADO
-Apr 20,home,Waubonsee,L,7-3,7,3,4,win,20240420_r7np,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div3,Oakton,oaktoncommunitycollege,isaiahdelagado6jnz,ISAIAH DELAGADO
-Apr 21,home,Black Hawk,L,6-5,6,5,1,win,20240421_kz2g,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div3,Oakton,oaktoncommunitycollege,isaiahdelagado6jnz,ISAIAH DELAGADO
-Apr 21,home,Black Hawk,L,11-1,11,1,10,win,20240421_19kt,1,0,1,0,1.0,2,3,3,27.00,3.00,1,2024,2023-24,div3,Oakton,oaktoncommunitycollege,isaiahdelagado6jnz,ISAIAH DELAGADO
-Apr 24,home,Triton,L,11-9,11,9,2,win,20240424_inc9,1,0,0,0,2.1,2,4,0,0.00,3.00,5,2024,2023-24,div3,Oakton,oaktoncommunitycollege,isaiahdelagado6jnz,ISAIAH DELAGADO
-Apr 25,home,Joliet,W,10-6,10,6,4,win,20240425_7ywh,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div3,Oakton,oaktoncommunitycollege,isaiahdelagado6jnz,ISAIAH DELAGADO
-Apr 27,home,Prairie State,W,11-1,11,1,10,win,20240427_pp4p,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div3,Oakton,oaktoncommunitycollege,isaiahdelagado6jnz,ISAIAH DELAGADO
-Apr 28,home,Kankakee,L,8-4,8,4,4,win,20240428_vyvq,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div3,Oakton,oaktoncommunitycollege,isaiahdelagado6jnz,ISAIAH DELAGADO
-Apr 29,home,Bryant & Stratton College (WI),L,19-8,19,8,11,win,20240429_ex6i,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div3,Oakton,oaktoncommunitycollege,isaiahdelagado6jnz,ISAIAH DELAGADO
-Apr 30,home,Harper,W,7-5,7,5,2,win,20240430_r99v,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div3,Oakton,oaktoncommunitycollege,isaiahdelagado6jnz,ISAIAH DELAGADO
-May 1,home,Rock Valley,L,10-0,10,0,10,win,20240501_jyge,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div3,Oakton,oaktoncommunitycollege,isaiahdelagado6jnz,ISAIAH DELAGADO
-May 1,home,Rock Valley,L,9-5,9,5,4,win,20240501_avi7,1,0,1,0,3.2,5,7,7,17.18,2.18,3,2024,2023-24,div3,Oakton,oaktoncommunitycollege,isaiahdelagado6jnz,ISAIAH DELAGADO
+Mar 1,home,Chesapeake,L,4-3,4,3,1,win,20240301_1vgk,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div3,Oakton,oaktoncommunitycollege,isaiahdelagado6jnz,ISAIAH DELAGADO
+Mar 2,home,Lake County,L,5-3,5,3,2,win,20240302_7n10,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div3,Oakton,oaktoncommunitycollege,isaiahdelagado6jnz,ISAIAH DELAGADO
+Mar 3,home,Delta,W,6-4,6,4,2,win,20240303_dyhi,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div3,Oakton,oaktoncommunitycollege,isaiahdelagado6jnz,ISAIAH DELAGADO
+Mar 3,home,Delta,W,16-5,16,5,11,win,20240303_6iii,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div3,Oakton,oaktoncommunitycollege,isaiahdelagado6jnz,ISAIAH DELAGADO
+Mar 5,home,Henry Ford,W,10-5,10,5,5,win,20240305_4jgr,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div3,Oakton,oaktoncommunitycollege,isaiahdelagado6jnz,ISAIAH DELAGADO
+Mar 5,home,Penn State Mont Alto,W,8-7,8,7,1,win,20240305_0wt1,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div3,Oakton,oaktoncommunitycollege,isaiahdelagado6jnz,ISAIAH DELAGADO
+Mar 6,home,Penn State Greater Allegheny,W,13-8,13,8,5,win,20240306_bbbr,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div3,Oakton,oaktoncommunitycollege,isaiahdelagado6jnz,ISAIAH DELAGADO
+Mar 15,home,Indian Hills,L,18-1,18,1,17,win,20240315_7h9v,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div3,Oakton,oaktoncommunitycollege,isaiahdelagado6jnz,ISAIAH DELAGADO
+Mar 16,home,Indian Hills,L,8-7,8,7,1,win,20240316_pw6s,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div3,Oakton,oaktoncommunitycollege,isaiahdelagado6jnz,ISAIAH DELAGADO
+Mar 16,home,Indian Hills,W,16-9,16,9,7,win,20240316_hbie,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div3,Oakton,oaktoncommunitycollege,isaiahdelagado6jnz,ISAIAH DELAGADO
+Mar 19,home,Minnesota West,W,21-3,21,3,18,win,20240319_6mcw,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div3,Oakton,oaktoncommunitycollege,isaiahdelagado6jnz,ISAIAH DELAGADO
+Mar 19,home,Minnesota West,W,21-11,21,11,10,win,20240319_0gjh,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div3,Oakton,oaktoncommunitycollege,isaiahdelagado6jnz,ISAIAH DELAGADO
+Apr 13,home,Ridgewater,L,15-5,15,5,10,win,20240413_fcda,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div3,Oakton,oaktoncommunitycollege,isaiahdelagado6jnz,ISAIAH DELAGADO
+Apr 13,home,Ridgewater,W,13-4,13,4,9,win,20240413_1d03,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div3,Oakton,oaktoncommunitycollege,isaiahdelagado6jnz,ISAIAH DELAGADO
+Apr 14,home,Ridgewater,W,7-5,7,5,2,win,20240414_jdak,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div3,Oakton,oaktoncommunitycollege,isaiahdelagado6jnz,ISAIAH DELAGADO
+Apr 14,home,Ridgewater,W,5-3,5,3,2,win,20240414_rdlg,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div3,Oakton,oaktoncommunitycollege,isaiahdelagado6jnz,ISAIAH DELAGADO
+Apr 17,home,Alexandria Tech,W,10-8,10,8,2,win,20240417_t4sg,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div3,Oakton,oaktoncommunitycollege,isaiahdelagado6jnz,ISAIAH DELAGADO
+Apr 20,home,Anoka-Ramsey,W,6-5,6,5,1,win,20240420_1x7p,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div3,Oakton,oaktoncommunitycollege,isaiahdelagado6jnz,ISAIAH DELAGADO
+Apr 21,home,Anoka-Ramsey,W,10-0,10,0,10,win,20240421_uste,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div3,Oakton,oaktoncommunitycollege,isaiahdelagado6jnz,ISAIAH DELAGADO
+Apr 24,home,Dakota County Tech,L,17-0,17,0,17,win,20240424_v70g,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div3,Oakton,oaktoncommunitycollege,isaiahdelagado6jnz,ISAIAH DELAGADO
+Apr 27,home,Central Lakes,L,3-2,3,2,1,win,20240427_0h3j,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div3,Oakton,oaktoncommunitycollege,isaiahdelagado6jnz,ISAIAH DELAGADO
+Apr 27,home,Central Lakes,W,12-1,12,1,11,win,20240427_e4wa,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div3,Oakton,oaktoncommunitycollege,isaiahdelagado6jnz,ISAIAH DELAGADO
+May 1,home,Central Lakes,W,12-9,12,9,3,win,20240501_fc93,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div3,Oakton,oaktoncommunitycollege,isaiahdelagado6jnz,ISAIAH DELAGADO
+May 1,home,Central Lakes,W,8-0,8,0,8,win,20240501_w50h,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div3,Oakton,oaktoncommunitycollege,isaiahdelagado6jnz,ISAIAH DELAGADO
+May 3,home,Minnesota State,W,16-3,16,3,13,win,20240503_0cyj,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div3,Oakton,oaktoncommunitycollege,isaiahdelagado6jnz,ISAIAH DELAGADO
+May 3,home,Minnesota State,W,24-3,24,3,21,win,20240503_oceb,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div3,Oakton,oaktoncommunitycollege,isaiahdelagado6jnz,ISAIAH DELAGADO
+May 4,home,Minnesota State,W,13-6,13,6,7,win,20240504_pcv0,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div3,Oakton,oaktoncommunitycollege,isaiahdelagado6jnz,ISAIAH DELAGADO
+May 4,home,Minnesota State,W,8-0,8,0,8,win,20240504_2808,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div3,Oakton,oaktoncommunitycollege,isaiahdelagado6jnz,ISAIAH DELAGADO
+May 9,home,Riverland,W,8-4,8,4,4,win,20240509_6lon,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div3,Oakton,oaktoncommunitycollege,isaiahdelagado6jnz,ISAIAH DELAGADO
+May 10,home,Rochester,W,8-6,8,6,2,win,20240510_vt17,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div3,Oakton,oaktoncommunitycollege,isaiahdelagado6jnz,ISAIAH DELAGADO
+May 16,home,North Dakota SCS,W,9-3,9,3,6,win,20240516_03fk,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div3,Oakton,oaktoncommunitycollege,isaiahdelagado6jnz,ISAIAH DELAGADO
+May 17,home,Century,W,15-8,15,8,7,win,20240517_bpcg,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div3,Oakton,oaktoncommunitycollege,isaiahdelagado6jnz,ISAIAH DELAGADO
+May 18,home,Century,L,9-6,9,6,3,win,20240518_n20m,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div3,Oakton,oaktoncommunitycollege,isaiahdelagado6jnz,ISAIAH DELAGADO
+May 18,home,Century,W,24-22,24,22,2,win,20240518_8xfu,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div3,Oakton,oaktoncommunitycollege,isaiahdelagado6jnz,ISAIAH DELAGADO
+May 26,home,(7) DuPage,L,6-3,6,3,3,win,20240526_0dyz,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div3,Oakton,oaktoncommunitycollege,isaiahdelagado6jnz,ISAIAH DELAGADO

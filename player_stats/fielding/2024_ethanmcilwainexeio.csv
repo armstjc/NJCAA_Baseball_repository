@@ -1,16 +1,15 @@
 date,location,opponent,result,score,team_score,opp_score,game_score_diff,game_win_loss,game_id,TC,PO,A,E,FPCT,DP,SBA,RCS,RCS_PCT,PB,CI,season,njcaa_season,njcaa_division,team,team_id,player_id,player_name
-Mar 1,home,Lincoln Land,L,13-3,13,3,10,win,20240301_zmld,0,0,0,0,0.1,1,,,0.00,3.00,,2024,2023-24,div3,Erie,eriecommunitycollege,ethanmcilwainexeio,Ethan Mcilwaine
-Mar 6,home,Lansing,L,8-1,8,1,7,win,20240306_8v86,0,0,0,0,2.0,1,2,2,9.00,1.50,2,2024,2023-24,div3,Erie,eriecommunitycollege,ethanmcilwainexeio,Ethan Mcilwaine
-Mar 8,home,Marian-Ancilla,L,12-4,12,4,8,win,20240308_cnaf,0,0,0,0,1.0,2,5,2,18.00,4.00,2,2024,2023-24,div3,Erie,eriecommunitycollege,ethanmcilwainexeio,Ethan Mcilwaine
-Mar 17,home,CCBC Essex,L,4-2,4,2,2,win,20240317_f2sk,0,0,0,0,1.0,,,,0.00,,,2024,2023-24,div3,Erie,eriecommunitycollege,ethanmcilwainexeio,Ethan Mcilwaine
-Mar 17,home,CCBC Essex,W,7-6,7,6,1,win,20240317_9ueg,0,0,0,0,1.2,1,,,0.00,.60,,2024,2023-24,div3,Erie,eriecommunitycollege,ethanmcilwainexeio,Ethan Mcilwaine
-Mar 28,home,Tompkins Cortland,W,16-1,16,1,15,win,20240328_zw8o,0,0,0,0,1.0,2,,,0.00,2.00,,2024,2023-24,div3,Erie,eriecommunitycollege,ethanmcilwainexeio,Ethan Mcilwaine
-Apr 1,home,Monroe CC,W,9-0,9,0,9,win,20240401_lgce,1,0,0,0,4.0,1,0,0,0.00,.75,2,2024,2023-24,div3,Erie,eriecommunitycollege,ethanmcilwainexeio,Ethan Mcilwaine
-Apr 7,home,Corning,W,20-0,20,0,20,win,20240407_zi06,1,1,0,0,5.0,0,0,0,0.00,.00,0,2024,2023-24,div3,Erie,eriecommunitycollege,ethanmcilwainexeio,Ethan Mcilwaine
-Apr 10,home,Corning,W,10-0,10,0,10,win,20240410_qy9a,0,0,0,0,1.0,,,,0.00,,,2024,2023-24,div3,Erie,eriecommunitycollege,ethanmcilwainexeio,Ethan Mcilwaine
-Apr 16,home,Jamestown,W,2-0,2,0,2,win,20240416_vuue,1,1,0,0,5.0,3,0,0,0.00,1.60,5,2024,2023-24,div3,Erie,eriecommunitycollege,ethanmcilwainexeio,Ethan Mcilwaine
-Apr 20,home,SUNY Broome,W,3-1,3,1,2,win,20240420_69v3,0,0,0,0,2.0,2,1,1,4.50,1.00,,2024,2023-24,div3,Erie,eriecommunitycollege,ethanmcilwainexeio,Ethan Mcilwaine
-Apr 25,home,Genesee,W,9-6,9,6,3,win,20240425_m23m,1,0,0,0,4.1,6,5,4,8.31,2.08,3,2024,2023-24,div3,Erie,eriecommunitycollege,ethanmcilwainexeio,Ethan Mcilwaine
-May 2,home,SUNY Broome,W,19-0,19,0,19,win,20240502_8l8q,1,1,0,0,4.0,2,0,0,0.00,.75,1,2024,2023-24,div3,Erie,eriecommunitycollege,ethanmcilwainexeio,Ethan Mcilwaine
-May 6,home,SUNY Niagara,W,8-7,8,7,1,win,20240506_r1tx,1,0,0,0,4.0,5,4,4,9.00,3.00,7,2024,2023-24,div3,Erie,eriecommunitycollege,ethanmcilwainexeio,Ethan Mcilwaine
-May 17,home,SUNY Niagara,L,10-6,10,6,4,win,20240517_65sm,0,0,0,0,2.1,1,,,0.00,.43,,2024,2023-24,div3,Erie,eriecommunitycollege,ethanmcilwainexeio,Ethan Mcilwaine
+Mar 2,home,DuPage,W,6-3,6,3,3,win,20240302_0oa5,0,0,0,0,0.1,,,,0.00,,,2024,2023-24,div3,Erie,eriecommunitycollege,ethanmcilwainexeio,Ethan Mcilwaine
+Mar 3,home,PSU Kensington,W,8-5,8,5,3,win,20240303_82vr,1,0,0,0,5.0,0,0,0,0.00,.60,3,2024,2023-24,div3,Erie,eriecommunitycollege,ethanmcilwainexeio,Ethan Mcilwaine
+Mar 7,home,Manhattanville College JV,W,14-10,14,10,4,win,20240307_q5u4,0,0,0,0,0.2,1,,,0.00,3.00,1,2024,2023-24,div3,Erie,eriecommunitycollege,ethanmcilwainexeio,Ethan Mcilwaine
+Mar 15,home,Minnesota West,L,10-0,10,0,10,win,20240315_5lk4,0,0,0,0,0.2,1,,,0.00,3.00,1,2024,2023-24,div3,Erie,eriecommunitycollege,ethanmcilwainexeio,Ethan Mcilwaine
+Mar 21,home,Grandview College,W,15-1,15,1,14,win,20240321_5qdh,0,0,0,0,1.0,1,,,0.00,1.00,,2024,2023-24,div3,Erie,eriecommunitycollege,ethanmcilwainexeio,Ethan Mcilwaine
+Mar 28,home,Minnesota North College - Itasca,L,9-7,9,7,2,win,20240328_4tha,1,0,0,0,3.1,5,5,2,5.40,2.40,3,2024,2023-24,div3,Erie,eriecommunitycollege,ethanmcilwainexeio,Ethan Mcilwaine
+Apr 8,home,Riverland,W,12-7,12,7,5,win,20240408_c2l2,1,0,0,0,2.2,5,5,5,16.88,3.75,5,2024,2023-24,div3,Erie,eriecommunitycollege,ethanmcilwainexeio,Ethan Mcilwaine
+Apr 14,home,Western Tech,W,21-4,21,4,17,win,20240414_xxbe,1,1,0,0,5.0,4,4,4,7.20,1.60,4,2024,2023-24,div3,Erie,eriecommunitycollege,ethanmcilwainexeio,Ethan Mcilwaine
+Apr 21,home,Saint Mary's of MN JV,W,11-9,11,9,2,win,20240421_9lg8,0,0,0,0,2.0,5,5,3,13.50,3.00,1,2024,2023-24,div3,Erie,eriecommunitycollege,ethanmcilwainexeio,Ethan Mcilwaine
+Apr 24,home,North Dakota SCS,L,3-2,3,2,1,win,20240424_l5pc,0,0,0,0,1.0,,,,0.00,1.00,1,2024,2023-24,div3,Erie,eriecommunitycollege,ethanmcilwainexeio,Ethan Mcilwaine
+May 1,home,Luther JV,W,14-13,14,13,1,win,20240501_0704,0,0,0,0,1.0,,,,0.00,,,2024,2023-24,div3,Erie,eriecommunitycollege,ethanmcilwainexeio,Ethan Mcilwaine
+May 3,home,Minnesota West,L,7-1,7,1,6,win,20240503_p9tk,0,0,0,0,2.0,2,2,2,9.00,2.50,3,2024,2023-24,div3,Erie,eriecommunitycollege,ethanmcilwainexeio,Ethan Mcilwaine
+May 10,home,St. Cloud Tech,L,8-6,8,6,2,win,20240510_vt17,0,0,1,0,5.1,8,4,4,6.75,1.69,1,2024,2023-24,div3,Erie,eriecommunitycollege,ethanmcilwainexeio,Ethan Mcilwaine
+May 16,home,Century,L,7-6,7,6,1,win,20240516_zne2,0,0,0,0,3.0,3,1,1,3.00,1.33,1,2024,2023-24,div3,Erie,eriecommunitycollege,ethanmcilwainexeio,Ethan Mcilwaine

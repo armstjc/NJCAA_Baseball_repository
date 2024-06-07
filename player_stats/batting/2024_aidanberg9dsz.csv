@@ -1,9 +1,27 @@
 date,location,opponent,result,score,team_score,opp_score,game_score_diff,game_win_loss,game_id,AB,R,H,2B,3B,HR,RBI,BB,K,SB,CS,HBP,SF,SH,TB,XBH,HDP,GO,FO,GO/FO,PA,season,njcaa_season,njcaa_division,team,team_id,player_id,player_name
-Apr 9,home,Westmoreland,W,5-0,5,0,5,win,20240409_3t98,1,0,0,,,,0,2,,1,,1,,,0,0,,,,,4,2024,2023-24,div3,CC of Allegheny County,ccofalleghenycounty,aidanberg9dsz,Aidan Berg
-Apr 14,home,Point Park JV,W,18-14,18,14,4,win,20240414_25ot,3,2,1,,,,1,2,,1,,,,,1,0,,,,,5,2024,2023-24,div3,CC of Allegheny County,ccofalleghenycounty,aidanberg9dsz,Aidan Berg
-Apr 16,home,Westmoreland,W,13-3,13,3,10,win,20240416_8kv7,4,0,1,,,,2,,,,,1,,,1,0,,,,,5,2024,2023-24,div3,CC of Allegheny County,ccofalleghenycounty,aidanberg9dsz,Aidan Berg
-Apr 17,home,Allegany Maryland,W,8-5,8,5,3,win,20240417_ame9,4,1,1,,,,2,,,,,,,,1,0,,,,,4,2024,2023-24,div3,CC of Allegheny County,ccofalleghenycounty,aidanberg9dsz,Aidan Berg
-Apr 20,home,Prince George's,W,4-1,4,1,3,win,20240420_2uf4,3,0,1,,,,1,,1,,,,,,1,0,,,,,3,2024,2023-24,div3,CC of Allegheny County,ccofalleghenycounty,aidanberg9dsz,Aidan Berg
-Apr 27,home,PSU Shenango,W,7-6,7,6,1,win,20240427_kuua,2,0,0,,,,1,1,,1,,,,,0,0,,,,,3,2024,2023-24,div3,CC of Allegheny County,ccofalleghenycounty,aidanberg9dsz,Aidan Berg
-May 3,home,Prince George's,W,5-3,5,3,2,win,20240503_glgc,4,1,1,,,,0,,2,,,,,,1,0,,,,,4,2024,2023-24,div3,CC of Allegheny County,ccofalleghenycounty,aidanberg9dsz,Aidan Berg
-May 4,home,Prince George's,W,9-3,9,3,6,win,20240504_ilju,4,2,0,,,,0,1,,3,,,,,0,0,,,,,5,2024,2023-24,div3,CC of Allegheny County,ccofalleghenycounty,aidanberg9dsz,Aidan Berg
+Mar 4,home,Penn State Fayette,W,7-3,7,3,4,win,20240304_vt1t,3,1,0,,,,0,,,,,,,,0,0,,,2,,3,2024,2023-24,div3,CC of Allegheny County,ccofalleghenycounty,aidanberg9dsz,Aidan Berg
+Mar 4,home,Minnesota North College - Vermilion,W,9-2,9,2,7,win,20240304_y2a2,1,0,0,,,,0,,,,,,,,0,0,,,,,1,2024,2023-24,div3,CC of Allegheny County,ccofalleghenycounty,aidanberg9dsz,Aidan Berg
+Mar 6,home,Mid Michigan,W,11-1,11,1,10,win,20240306_hvy4,2,2,0,,,,0,1,,,,1,,,0,0,,,2,,4,2024,2023-24,div3,CC of Allegheny County,ccofalleghenycounty,aidanberg9dsz,Aidan Berg
+Mar 9,home,Northern Essex,W,6-4,6,4,2,win,20240309_otf6,3,2,2,,,,0,,,,,,,,2,0,,,,,3,2024,2023-24,div3,CC of Allegheny County,ccofalleghenycounty,aidanberg9dsz,Aidan Berg
+Mar 16,home,Century,W,9-8,9,8,1,win,20240316_5llj,4,1,2,1,0,1,2,0,1,0,0,0,0,0,6,2,,0,,,4,2024,2023-24,div3,CC of Allegheny County,ccofalleghenycounty,aidanberg9dsz,Aidan Berg
+Mar 29,home,Ridgewater,W,11-1,11,1,10,win,20240329_8n0o,2,0,2,,,,1,,,,,1,,,2,0,,,,,3,2024,2023-24,div3,CC of Allegheny County,ccofalleghenycounty,aidanberg9dsz,Aidan Berg
+Mar 29,home,Ridgewater,W,4-3,4,3,1,win,20240329_py7n,1,0,0,,,,0,,,,,,,,0,0,,,1,,1,2024,2023-24,div3,CC of Allegheny County,ccofalleghenycounty,aidanberg9dsz,Aidan Berg
+Mar 30,home,Ridgewater,W,10-7,10,7,3,win,20240330_d6ps,4,1,2,,,,0,,1,,,,,,2,0,,1,,,4,2024,2023-24,div3,CC of Allegheny County,ccofalleghenycounty,aidanberg9dsz,Aidan Berg
+Mar 30,home,Ridgewater,W,10-4,10,4,6,win,20240330_u489,0,0,0,,,,0,,,,,,,,0,0,,,,,0,2024,2023-24,div3,CC of Allegheny County,ccofalleghenycounty,aidanberg9dsz,Aidan Berg
+Apr 10,home,St. Cloud Tech,W,5-4,5,4,1,win,20240410_k2kv,4,0,1,,,,1,,,,,,,,1,0,,,,,4,2024,2023-24,div3,CC of Allegheny County,ccofalleghenycounty,aidanberg9dsz,Aidan Berg
+Apr 13,home,Minnesota State,W,16-6,16,6,10,win,20240413_5aba,2,1,0,,,,1,2,,,,,1,,0,0,,1,2,0.50,5,2024,2023-24,div3,CC of Allegheny County,ccofalleghenycounty,aidanberg9dsz,Aidan Berg
+Apr 13,home,Minnesota State,W,14-8,14,8,6,win,20240413_4pjk,1,2,0,,,,0,2,,1,,,,,0,0,,,1,,3,2024,2023-24,div3,CC of Allegheny County,ccofalleghenycounty,aidanberg9dsz,Aidan Berg
+Apr 14,home,Minnesota State,W,11-0,11,0,11,win,20240414_ff3n,2,1,2,0,0,0,0,1,0,0,0,0,0,0,2,0,,0,,,3,2024,2023-24,div3,CC of Allegheny County,ccofalleghenycounty,aidanberg9dsz,Aidan Berg
+Apr 14,home,Minnesota State,W,8-2,8,2,6,win,20240414_p5i5,4,2,2,0,0,0,1,0,1,0,0,0,0,0,2,0,,0,,,4,2024,2023-24,div3,CC of Allegheny County,ccofalleghenycounty,aidanberg9dsz,Aidan Berg
+Apr 20,home,Central Lakes,W,15-2,15,2,13,win,20240420_amno,5,1,3,,,1,4,,,,,,,,6,1,,,,,5,2024,2023-24,div3,CC of Allegheny County,ccofalleghenycounty,aidanberg9dsz,Aidan Berg
+Apr 20,home,Central Lakes,W,10-0,10,0,10,win,20240420_mp7v,2,3,2,2,,,1,2,,,,,,,4,2,,,,,4,2024,2023-24,div3,CC of Allegheny County,ccofalleghenycounty,aidanberg9dsz,Aidan Berg
+Apr 21,home,Central Lakes,W,8-1,8,1,7,win,20240421_o4bh,2,1,1,1,,,1,1,,1,,,,,2,1,,,,,3,2024,2023-24,div3,CC of Allegheny County,ccofalleghenycounty,aidanberg9dsz,Aidan Berg
+Apr 21,home,Central Lakes,W,10-0,10,0,10,win,20240421_0pxj,1,2,1,,,,1,,,,,1,,,1,0,,,,,2,2024,2023-24,div3,CC of Allegheny County,ccofalleghenycounty,aidanberg9dsz,Aidan Berg
+May 1,home,Ridgewater,W,11-10,11,10,1,win,20240501_tazs,3,0,0,,,,1,2,1,,,,,,0,0,,1,1,1.00,5,2024,2023-24,div3,CC of Allegheny County,ccofalleghenycounty,aidanberg9dsz,Aidan Berg
+May 1,home,Ridgewater,W,4-2,4,2,2,win,20240501_tbmz,2,1,2,,,,0,1,,,1,,,,2,0,,,,,3,2024,2023-24,div3,CC of Allegheny County,ccofalleghenycounty,aidanberg9dsz,Aidan Berg
+May 3,home,Anoka-Ramsey,W,13-8,13,8,5,win,20240503_j695,4,2,2,2,,,6,,,,,,,,4,2,,,,,4,2024,2023-24,div3,CC of Allegheny County,ccofalleghenycounty,aidanberg9dsz,Aidan Berg
+May 3,home,Anoka-Ramsey,W,14-2,14,2,12,win,20240503_2y0m,1,2,0,,,,0,2,1,,,,,,0,0,,,,,3,2024,2023-24,div3,CC of Allegheny County,ccofalleghenycounty,aidanberg9dsz,Aidan Berg
+May 4,home,Anoka-Ramsey,W,11-1,11,1,10,win,20240504_mim8,2,1,0,,,,1,1,,,,,,,0,0,,,2,,3,2024,2023-24,div3,CC of Allegheny County,ccofalleghenycounty,aidanberg9dsz,Aidan Berg
+May 4,home,Anoka-Ramsey,W,13-3,13,3,10,win,20240504_hgg6,2,1,1,1,,,1,1,,,,,,,2,1,,1,,,3,2024,2023-24,div3,CC of Allegheny County,ccofalleghenycounty,aidanberg9dsz,Aidan Berg
+May 5,home,Ridgewater,W,16-2,16,2,14,win,20240505_0sxf,4,0,1,1,,,1,,,,,,,,2,1,,,,,4,2024,2023-24,div3,CC of Allegheny County,ccofalleghenycounty,aidanberg9dsz,Aidan Berg
+May 5,home,Ridgewater,W,16-2,16,2,14,win,20240505_fpeh,3,3,3,2,,,1,1,,,,,,,5,2,,,,,4,2024,2023-24,div3,CC of Allegheny County,ccofalleghenycounty,aidanberg9dsz,Aidan Berg

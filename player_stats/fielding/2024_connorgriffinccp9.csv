@@ -1,21 +1,9 @@
 date,location,opponent,result,score,team_score,opp_score,game_score_diff,game_win_loss,game_id,TC,PO,A,E,FPCT,DP,SBA,RCS,RCS_PCT,PB,CI,season,njcaa_season,njcaa_division,team,team_id,player_id,player_name
-Feb 9,home,Wake Tech,W,10-6,10,6,4,win,20240209_os50,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div3,Caldwell Tech,caldwellcommunitycollegetechnicali,connorgriffinccp9,Connor Griffin
-Feb 10,home,Wake Tech,L,16-13,16,13,3,win,20240210_h34f,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div3,Caldwell Tech,caldwellcommunitycollegetechnicali,connorgriffinccp9,Connor Griffin
-Feb 10,home,Wake Tech,W,10-2,10,2,8,win,20240210_f63v,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div3,Caldwell Tech,caldwellcommunitycollegetechnicali,connorgriffinccp9,Connor Griffin
-Feb 17,home,Gaston College,L,10-3,10,3,7,win,20240217_rrn9,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div3,Caldwell Tech,caldwellcommunitycollegetechnicali,connorgriffinccp9,Connor Griffin
-Feb 18,home,Gaston College,L,13-0,13,0,13,win,20240218_tf9a,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div3,Caldwell Tech,caldwellcommunitycollegetechnicali,connorgriffinccp9,Connor Griffin
-Feb 24,home,Virginia Peninsula CC,W,14-8,14,8,6,win,20240224_ju5b,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div3,Caldwell Tech,caldwellcommunitycollegetechnicali,connorgriffinccp9,Connor Griffin
-Feb 24,home,Virginia Peninsula CC,W,6-1,6,1,5,win,20240224_6toe,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div3,Caldwell Tech,caldwellcommunitycollegetechnicali,connorgriffinccp9,Connor Griffin
-Feb 25,home,Virginia Peninsula CC,W,13-1,13,1,12,win,20240225_q2vo,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div3,Caldwell Tech,caldwellcommunitycollegetechnicali,connorgriffinccp9,Connor Griffin
-Feb 27,home,CCBC Essex,W,17-8,17,8,9,win,20240227_h0sr,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div3,Caldwell Tech,caldwellcommunitycollegetechnicali,connorgriffinccp9,Connor Griffin
-Mar 3,home,Rockingham,W,8-0,8,0,8,win,20240303_342k,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div3,Caldwell Tech,caldwellcommunitycollegetechnicali,connorgriffinccp9,Connor Griffin
-Mar 8,home,Surry,W,7-6,7,6,1,win,20240308_7oup,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div3,Caldwell Tech,caldwellcommunitycollegetechnicali,connorgriffinccp9,Connor Griffin
-Mar 16,home,Finger Lakes,L,11-1,11,1,10,win,20240316_xbot,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div3,Caldwell Tech,caldwellcommunitycollegetechnicali,connorgriffinccp9,Connor Griffin
-Mar 29,home,Virginia Peninsula CC,W,8-4,8,4,4,win,20240329_ss12,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div3,Caldwell Tech,caldwellcommunitycollegetechnicali,connorgriffinccp9,Connor Griffin
-Apr 7,home,Rockingham,L,6-4,6,4,2,win,20240407_86mr,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div3,Caldwell Tech,caldwellcommunitycollegetechnicali,connorgriffinccp9,Connor Griffin
-Apr 14,home,Surry,L,2-0,2,0,2,win,20240414_qtcs,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div3,Caldwell Tech,caldwellcommunitycollegetechnicali,connorgriffinccp9,Connor Griffin
-Apr 18,home,Catawba Valley,L,10-6,10,6,4,win,20240418_uy9w,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div3,Caldwell Tech,caldwellcommunitycollegetechnicali,connorgriffinccp9,Connor Griffin
-Apr 24,home,Spartanburg Methodist,L,11-0,11,0,11,win,20240424_ck55,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div3,Caldwell Tech,caldwellcommunitycollegetechnicali,connorgriffinccp9,Connor Griffin
-Apr 26,home,Camp,L,11-9,11,9,2,win,20240426_umv6,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div3,Caldwell Tech,caldwellcommunitycollegetechnicali,connorgriffinccp9,Connor Griffin
-Apr 27,home,Camp,L,16-11,16,11,5,win,20240427_vymw,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div3,Caldwell Tech,caldwellcommunitycollegetechnicali,connorgriffinccp9,Connor Griffin
-May 3,home,Camp,L,10-2,10,2,8,win,20240503_fss8,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div3,Caldwell Tech,caldwellcommunitycollegetechnicali,connorgriffinccp9,Connor Griffin
+Feb 4,home,Cleveland,L,6-5,6,5,1,win,20240204_kxfa,0,0,1,0,2.1,2,4,3,11.57,2.57,4,2024,2023-24,div3,Caldwell Tech,caldwellcommunitycollegetechnicali,connorgriffinccp9,Connor Griffin
+Feb 10,home,Wake Tech,W,10-2,10,2,8,win,20240210_f63v,1,1,0,0,4.0,1,1,1,2.25,.50,1,2024,2023-24,div3,Caldwell Tech,caldwellcommunitycollegetechnicali,connorgriffinccp9,Connor Griffin
+Feb 18,home,Gaston College,L,13-0,13,0,13,win,20240218_tf9a,1,0,1,0,1.0,3,8,6,54.00,9.00,6,2024,2023-24,div3,Caldwell Tech,caldwellcommunitycollegetechnicali,connorgriffinccp9,Connor Griffin
+Feb 24,home,Virginia Peninsula CC,W,6-1,6,1,5,win,20240224_6toe,1,1,0,0,5.0,3,1,1,1.80,1.00,2,2024,2023-24,div3,Caldwell Tech,caldwellcommunitycollegetechnicali,connorgriffinccp9,Connor Griffin
+Mar 2,home,Rockingham,L,8-5,8,5,3,win,20240302_b3u6,1,0,0,0,1.1,4,5,5,33.75,5.25,3,2024,2023-24,div3,Caldwell Tech,caldwellcommunitycollegetechnicali,connorgriffinccp9,Connor Griffin
+Mar 16,home,Finger Lakes,L,11-1,11,1,10,win,20240316_xbot,1,0,1,0,0.2,1,6,6,81.00,7.50,4,2024,2023-24,div3,Caldwell Tech,caldwellcommunitycollegetechnicali,connorgriffinccp9,Connor Griffin
+Mar 30,home,Virginia Peninsula CC,W,6-2,6,2,4,win,20240330_asos,0,0,0,0,1.0,1,0,0,0.00,2.00,1,2024,2023-24,div3,Caldwell Tech,caldwellcommunitycollegetechnicali,connorgriffinccp9,Connor Griffin
+Apr 27,home,Camp,L,16-11,16,11,5,win,20240427_vymw,0,0,0,0,4.0,5,4,3,6.75,2.25,4,2024,2023-24,div3,Caldwell Tech,caldwellcommunitycollegetechnicali,connorgriffinccp9,Connor Griffin

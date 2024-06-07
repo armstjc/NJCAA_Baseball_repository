@@ -1,16 +1,11 @@
 date,location,opponent,result,score,team_score,opp_score,game_score_diff,game_win_loss,game_id,GS,W,L,SV,IP,H,R,ER,ERA,BB,K,HR,season,njcaa_season,njcaa_division,team,team_id,player_id,player_name
-May 11,home,SUNY Niagara,L,12-2,12,2,10,win,20240511_45du,1,0,1,0,4.1,10,10,7,14.54,2.77,2,4,2024,2023-24,div3,SUNY Adirondack,sunyadirondack,tereltillmanwd91,Terel Tillman
-May 4,home,Herkimer,L,8-3,8,3,5,win,20240504_lnkr,1,0,1,0,6.2,10,8,6,8.10,1.95,3,5,2024,2023-24,div3,SUNY Adirondack,sunyadirondack,tereltillmanwd91,Terel Tillman
-Apr 28,home,Mohawk Valley,W,8-1,8,1,7,win,20240428_rw3w,1,1,0,0,7.0,4,1,1,1.29,.86,2,11,2024,2023-24,div3,SUNY Adirondack,sunyadirondack,tereltillmanwd91,Terel Tillman
-Apr 25,home,Orange County,W,7-3,7,3,4,win,20240425_nvrb,1,1,0,0,4.0,3,1,1,2.25,.75,0,7,2024,2023-24,div3,SUNY Adirondack,sunyadirondack,tereltillmanwd91,Terel Tillman
-Apr 18,home,Hudson Valley,W,2-1,2,1,1,win,20240418_al76,1,1,0,0,7.0,2,1,0,0.00,.43,1,5,2024,2023-24,div3,SUNY Adirondack,sunyadirondack,tereltillmanwd91,Terel Tillman
-Apr 14,home,Mohawk Valley,W,11-0,11,0,11,win,20240414_unql,1,1,0,0,5.0,0,0,0,0.00,.20,1,8,2024,2023-24,div3,SUNY Adirondack,sunyadirondack,tereltillmanwd91,Terel Tillman
-Apr 6,home,Jefferson (NY),W,12-2,12,2,10,win,20240406_q1h2,1,1,0,0,6.0,5,2,2,3.00,1.00,1,10,2024,2023-24,div3,SUNY Adirondack,sunyadirondack,tereltillmanwd91,Terel Tillman
-Mar 28,home,Cayuga,L,13-3,13,3,10,win,20240328_g4k6,1,0,1,0,4.1,8,8,6,12.46,2.31,2,5,2024,2023-24,div3,SUNY Adirondack,sunyadirondack,tereltillmanwd91,Terel Tillman
-Mar 12,home,Lakeland,W,15-13,15,13,2,win,20240312_nbj4,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div3,SUNY Adirondack,sunyadirondack,tereltillmanwd91,Terel Tillman
-Mar 9,home,Minnesota State,W,9-0,9,0,9,win,20240309_pl9m,1,1,0,0,6.0,0,0,0,0.00,.17,1,11,2024,2023-24,div3,SUNY Adirondack,sunyadirondack,tereltillmanwd91,Terel Tillman
-Mar 3,home,Rockland,W,7-4,7,4,3,win,20240303_dlpo,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div3,SUNY Adirondack,sunyadirondack,tereltillmanwd91,Terel Tillman
-Mar 3,home,Rockland,L,5-4,5,4,1,win,20240303_y62f,1,0,0,0,2.0,1,1,1,4.50,1.50,2,2,2024,2023-24,div3,SUNY Adirondack,sunyadirondack,tereltillmanwd91,Terel Tillman
-Feb 25,home,RCSJ Cumberland,L,9-0,9,0,9,win,20240225_1nyh,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div3,SUNY Adirondack,sunyadirondack,tereltillmanwd91,Terel Tillman
-Feb 25,home,RCSJ Cumberland,L,1-0,1,0,1,win,20240225_2t65,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div3,SUNY Adirondack,sunyadirondack,tereltillmanwd91,Terel Tillman
-Feb 24,home,RCSJ Cumberland,L,9-6,9,6,3,win,20240224_smm6,1,0,1,0,5.2,9,6,5,7.94,1.59,0,4,2024,2023-24,div3,SUNY Adirondack,sunyadirondack,tereltillmanwd91,Terel Tillman
+May 7,home,Finger Lakes,W,7-6,7,6,1,win,20240507_3end,1,0,0,0,5.0,8,6,5,9.00,2.20,3,2,2024,2023-24,div3,SUNY Adirondack,sunyadirondack,tereltillmanwd91,Terel Tillman
+May 2,home,Jamestown,L,7-1,7,1,6,win,20240502_1oto,1,0,1,0,5.0,6,5,1,1.80,1.80,3,4,2024,2023-24,div3,SUNY Adirondack,sunyadirondack,tereltillmanwd91,Terel Tillman
+Apr 28,home,SUNY Broome,W,7-0,7,0,7,win,20240428_rvy0,1,1,0,0,7.0,2,0,0,0.00,.71,3,3,2024,2023-24,div3,SUNY Adirondack,sunyadirondack,tereltillmanwd91,Terel Tillman
+Apr 23,home,Onondaga,L,8-5,8,5,3,win,20240423_0h7a,1,0,1,0,5.1,9,8,5,8.44,2.44,4,3,2024,2023-24,div3,SUNY Adirondack,sunyadirondack,tereltillmanwd91,Terel Tillman
+Apr 18,home,Corning,W,12-11,12,11,1,win,20240418_n6ac,1,0,0,0,5.0,6,6,1,1.80,2.00,4,4,2024,2023-24,div3,SUNY Adirondack,sunyadirondack,tereltillmanwd91,Terel Tillman
+Apr 14,home,Finger Lakes,L,12-2,12,2,10,win,20240414_x0c5,1,0,1,0,2.2,8,8,3,10.13,4.13,3,3,2024,2023-24,div3,SUNY Adirondack,sunyadirondack,tereltillmanwd91,Terel Tillman
+Apr 9,home,Erie,L,22-0,22,0,22,win,20240409_x157,1,0,0,0,0.0,0,0,0,0.00,,0,0,2024,2023-24,div3,SUNY Adirondack,sunyadirondack,tereltillmanwd91,Terel Tillman
+Mar 26,home,Onondaga,L,8-2,8,2,6,win,20240326_gkox,1,0,1,0,4.0,5,3,3,6.75,2.00,3,4,2024,2023-24,div3,SUNY Adirondack,sunyadirondack,tereltillmanwd91,Terel Tillman
+Mar 16,home,Jefferson (NY),L,8-3,8,3,5,win,20240316_44yk,1,0,1,0,4.0,5,5,5,11.25,2.00,3,2,2024,2023-24,div3,SUNY Adirondack,sunyadirondack,tereltillmanwd91,Terel Tillman
+Mar 5,home,Cayuga,L,12-2,12,2,10,win,20240305_sbzg,1,0,1,0,4.0,4,4,2,4.50,1.50,2,1,2024,2023-24,div3,SUNY Adirondack,sunyadirondack,tereltillmanwd91,Terel Tillman

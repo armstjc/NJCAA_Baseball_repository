@@ -1,22 +1,18 @@
 date,location,opponent,result,score,team_score,opp_score,game_score_diff,game_win_loss,game_id,TC,PO,A,E,FPCT,DP,SBA,RCS,RCS_PCT,PB,CI,season,njcaa_season,njcaa_division,team,team_id,player_id,player_name
-Mar 10,home,Chesapeake,L,10-0,10,0,10,win,20240310_slwm,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div3,Corning,corningcommunitycollege,dankollmeiernm7c,Dan Kollmeier
-Mar 25,home,SUNY Broome,L,8-2,8,2,6,win,20240325_cs6e,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div3,Corning,corningcommunitycollege,dankollmeiernm7c,Dan Kollmeier
-Mar 26,home,SUNY Broome,L,10-6,10,6,4,win,20240326_74i6,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div3,Corning,corningcommunitycollege,dankollmeiernm7c,Dan Kollmeier
-Mar 28,home,Genesee,L,7-6,7,6,1,win,20240328_5guw,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div3,Corning,corningcommunitycollege,dankollmeiernm7c,Dan Kollmeier
-Mar 30,home,Genesee,L,9-4,9,4,5,win,20240330_a9gr,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div3,Corning,corningcommunitycollege,dankollmeiernm7c,Dan Kollmeier
-Apr 6,home,Onondaga,L,7-1,7,1,6,win,20240406_61kn,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div3,Corning,corningcommunitycollege,dankollmeiernm7c,Dan Kollmeier
-Apr 7,home,Erie,L,12-0,12,0,12,win,20240407_2kgk,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div3,Corning,corningcommunitycollege,dankollmeiernm7c,Dan Kollmeier
+Mar 10,home,Chesapeake,L,10-0,10,0,10,win,20240310_slwm,0,0,0,0,0.0,3,3,3,INF,,3,2024,2023-24,div3,Corning,corningcommunitycollege,dankollmeiernm7c,Dan Kollmeier
+Mar 25,home,SUNY Broome,L,8-2,8,2,6,win,20240325_cs6e,0,0,0,0,1.0,3,2,2,18.00,4.00,1,2024,2023-24,div3,Corning,corningcommunitycollege,dankollmeiernm7c,Dan Kollmeier
+Mar 28,home,Genesee,L,12-2,12,2,10,win,20240328_ig54,0,0,0,0,1.0,1,1,1,9.00,2.00,1,2024,2023-24,div3,Corning,corningcommunitycollege,dankollmeiernm7c,Dan Kollmeier
+Apr 7,home,Erie,L,12-0,12,0,12,win,20240407_2kgk,0,0,0,0,1.0,3,7,,0.00,5.00,2,2024,2023-24,div3,Corning,corningcommunitycollege,dankollmeiernm7c,Dan Kollmeier
 Apr 9,home,Onondaga,L,12-6,12,6,6,win,20240409_2evu,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div3,Corning,corningcommunitycollege,dankollmeiernm7c,Dan Kollmeier
-Apr 9,home,Onondaga,L,14-5,14,5,9,win,20240409_xp7w,0,0,0,0,1.2,4,5,2,10.80,2.40,,2024,2023-24,div3,Corning,corningcommunitycollege,dankollmeiernm7c,Dan Kollmeier
 Apr 10,home,Erie,L,10-0,10,0,10,win,20240410_qy9a,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div3,Corning,corningcommunitycollege,dankollmeiernm7c,Dan Kollmeier
-Apr 15,home,Jamestown,L,11-1,11,1,10,win,20240415_a8pg,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div3,Corning,corningcommunitycollege,dankollmeiernm7c,Dan Kollmeier
-Apr 18,home,Tompkins Cortland,L,12-11,12,11,1,win,20240418_n6ac,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div3,Corning,corningcommunitycollege,dankollmeiernm7c,Dan Kollmeier
-Apr 20,home,Tompkins Cortland,W,11-10,11,10,1,win,20240420_wpq9,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div3,Corning,corningcommunitycollege,dankollmeiernm7c,Dan Kollmeier
-Apr 21,home,Finger Lakes,L,7-1,7,1,6,win,20240421_v6og,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div3,Corning,corningcommunitycollege,dankollmeiernm7c,Dan Kollmeier
-Apr 23,home,Jamestown,L,13-7,13,7,6,win,20240423_ekcw,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div3,Corning,corningcommunitycollege,dankollmeiernm7c,Dan Kollmeier
-Apr 25,home,Finger Lakes,L,5-4,5,4,1,win,20240425_12w5,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div3,Corning,corningcommunitycollege,dankollmeiernm7c,Dan Kollmeier
+Apr 15,home,Jamestown,L,11-1,11,1,10,win,20240415_a8pg,0,0,0,0,1.0,2,2,,0.00,4.00,2,2024,2023-24,div3,Corning,corningcommunitycollege,dankollmeiernm7c,Dan Kollmeier
+Apr 21,home,Finger Lakes,L,12-2,12,2,10,win,20240421_h2im,0,0,0,0,1.0,1,,,0.00,1.00,,2024,2023-24,div3,Corning,corningcommunitycollege,dankollmeiernm7c,Dan Kollmeier
+Apr 23,home,Jamestown,L,13-7,13,7,6,win,20240423_ekcw,0,0,1,0,2.0,6,9,8,36.00,5.50,5,2024,2023-24,div3,Corning,corningcommunitycollege,dankollmeiernm7c,Dan Kollmeier
+Apr 23,home,Jamestown,L,10-0,10,0,10,win,20240423_5e67,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div3,Corning,corningcommunitycollege,dankollmeiernm7c,Dan Kollmeier
 Apr 27,home,Jefferson (NY),L,14-2,14,2,12,win,20240427_k4i0,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div3,Corning,corningcommunitycollege,dankollmeiernm7c,Dan Kollmeier
 Apr 27,home,Jefferson (NY),W,8-6,8,6,2,win,20240427_mbgz,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div3,Corning,corningcommunitycollege,dankollmeiernm7c,Dan Kollmeier
+May 2,home,Cayuga,L,12-0,12,0,12,win,20240502_7xrp,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div3,Corning,corningcommunitycollege,dankollmeiernm7c,Dan Kollmeier
 May 2,home,Cayuga,L,8-4,8,4,4,win,20240502_9lik,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div3,Corning,corningcommunitycollege,dankollmeiernm7c,Dan Kollmeier
-May 4,home,SUNY Niagara,L,10-0,10,0,10,win,20240504_wshy,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div3,Corning,corningcommunitycollege,dankollmeiernm7c,Dan Kollmeier
+May 4,home,SUNY Niagara,L,12-0,12,0,12,win,20240504_ptuf,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div3,Corning,corningcommunitycollege,dankollmeiernm7c,Dan Kollmeier
+May 5,home,SUNY Niagara,L,13-3,13,3,10,win,20240505_t51g,0,0,0,0,1.2,1,1,1,5.40,.60,,2024,2023-24,div3,Corning,corningcommunitycollege,dankollmeiernm7c,Dan Kollmeier
 May 5,home,SUNY Niagara,L,10-0,10,0,10,win,20240505_xry7,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div3,Corning,corningcommunitycollege,dankollmeiernm7c,Dan Kollmeier
