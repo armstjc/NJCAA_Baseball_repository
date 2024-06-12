@@ -1,9 +1,14 @@
 date,location,opponent,result,score,team_score,opp_score,game_score_diff,game_win_loss,game_id,TC,PO,A,E,FPCT,DP,SBA,RCS,RCS_PCT,PB,CI,season,njcaa_season,njcaa_division,team,team_id,player_id,player_name
-Feb 25,home,Lewis & Clark,L,11-0,11,0,11,win,20240225_fohg,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div3,Harper,harpercollege,alexbirtqvsa,Alex Birt
-Feb 25,home,Lewis & Clark,L,6-0,6,0,6,win,20240225_zjap,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div3,Harper,harpercollege,alexbirtqvsa,Alex Birt
-Mar 5,home,Joliet,L,11-5,11,5,6,win,20240305_f9ao,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div3,Harper,harpercollege,alexbirtqvsa,Alex Birt
-Mar 7,home,Moraine Valley,W,3-2,3,2,1,win,20240307_8m7j,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div3,Harper,harpercollege,alexbirtqvsa,Alex Birt
-Mar 9,home,Black Hawk,L,4-1,4,1,3,win,20240309_mpcz,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div3,Harper,harpercollege,alexbirtqvsa,Alex Birt
-Mar 12,home,Lake County,L,24-3,24,3,21,win,20240312_x0u7,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div3,Harper,harpercollege,alexbirtqvsa,Alex Birt
-Mar 21,home,McHenry County,L,9-3,9,3,6,win,20240321_obw4,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div3,Harper,harpercollege,alexbirtqvsa,Alex Birt
-Mar 29,home,Waubonsee,L,9-1,9,1,8,win,20240329_dm1z,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div3,Harper,harpercollege,alexbirtqvsa,Alex Birt
+Feb 25,home,Lewis & Clark,L,11-0,11,0,11,win,20240225_fohg,0,0,0,0,0.0,,1,1,INF,,1,2024,2023-24,div3,Harper,harpercollege,alexbirtqvsa,Alex Birt
+Mar 1,home,Parkland,L,14-3,14,3,11,win,20240301_fm2h,0,0,0,0,1.1,1,4,4,27.00,3.00,3,2024,2023-24,div3,Harper,harpercollege,alexbirtqvsa,Alex Birt
+Mar 9,home,Black Hawk,L,4-1,4,1,3,win,20240309_mpcz,0,0,0,0,0.1,,,,0.00,3.00,1,2024,2023-24,div3,Harper,harpercollege,alexbirtqvsa,Alex Birt
+Mar 16,home,Triton,L,11-4,11,4,7,win,20240316_sam4,0,0,0,0,0.1,1,1,1,27.00,6.00,1,2024,2023-24,div3,Harper,harpercollege,alexbirtqvsa,Alex Birt
+Mar 21,home,McHenry County,L,9-3,9,3,6,win,20240321_obw4,0,0,0,0,1.0,1,,,0.00,1.00,,2024,2023-24,div3,Harper,harpercollege,alexbirtqvsa,Alex Birt
+Mar 25,home,Prairie State,L,11-0,11,0,11,win,20240325_j4b1,0,0,0,0,2.2,3,2,1,3.38,1.88,2,2024,2023-24,div3,Harper,harpercollege,alexbirtqvsa,Alex Birt
+Apr 6,home,Olive-Harvey,L,15-7,15,7,8,win,20240406_t85l,0,0,0,0,0.2,3,2,2,27.00,6.00,1,2024,2023-24,div3,Harper,harpercollege,alexbirtqvsa,Alex Birt
+Apr 8,home,Milwaukee Area Tech,L,12-5,12,5,7,win,20240408_ba1w,0,0,0,0,0.0,,2,1,INF,,2,2024,2023-24,div3,Harper,harpercollege,alexbirtqvsa,Alex Birt
+Apr 11,home,Oakton,W,17-11,17,11,6,win,20240411_h40a,0,0,0,0,0.0,,1,1,INF,,1,2024,2023-24,div3,Harper,harpercollege,alexbirtqvsa,Alex Birt
+Apr 13,home,Madison,L,9-0,9,0,9,win,20240413_ptmh,0,0,0,0,1.1,,3,3,20.25,2.25,3,2024,2023-24,div3,Harper,harpercollege,alexbirtqvsa,Alex Birt
+Apr 16,home,Kankakee,L,15-5,15,5,10,win,20240416_okni,0,0,0,0,3.1,1,5,,0.00,2.10,6,2024,2023-24,div3,Harper,harpercollege,alexbirtqvsa,Alex Birt
+Apr 20,home,Kennedy-King,W,16-13,16,13,3,win,20240420_rux0,0,0,0,0,0.1,2,1,1,27.00,6.00,,2024,2023-24,div3,Harper,harpercollege,alexbirtqvsa,Alex Birt
+May 1,home,Sauk Valley,L,22-0,22,0,22,win,20240501_74ya,0,0,0,0,0.1,2,5,5,135.00,15.00,3,2024,2023-24,div3,Harper,harpercollege,alexbirtqvsa,Alex Birt

@@ -1,8 +1,24 @@
 date,location,opponent,result,score,team_score,opp_score,game_score_diff,game_win_loss,game_id,AB,R,H,2B,3B,HR,RBI,BB,K,SB,CS,HBP,SF,SH,TB,XBH,HDP,GO,FO,GO/FO,PA,season,njcaa_season,njcaa_division,team,team_id,player_id,player_name
-Mar 14,home,Penn State Wilkes-Barre,W,12-5,12,5,7,win,20240314_zkbk,4,3,1,,,,2,1,,2,,,,,1,0,,1,1,1.00,5,2024,2023-24,div3,SUNY Broome,sunybroomecommunitycollege,michaelalbertinemp1e,Michael Albertine
-Mar 25,home,Corning,W,9-4,9,4,5,win,20240325_n9ik,3,1,0,,,,0,,,2,,1,,,0,0,,,,,4,2024,2023-24,div3,SUNY Broome,sunybroomecommunitycollege,michaelalbertinemp1e,Michael Albertine
-Mar 25,home,Corning,W,8-2,8,2,6,win,20240325_cs6e,4,0,1,,,,0,,,,,,,,1,0,,,,,4,2024,2023-24,div3,SUNY Broome,sunybroomecommunitycollege,michaelalbertinemp1e,Michael Albertine
-Mar 26,home,Corning,W,8-7,8,7,1,win,20240326_ak7f,4,1,2,,,,1,,1,1,,,,,2,0,,,,,4,2024,2023-24,div3,SUNY Broome,sunybroomecommunitycollege,michaelalbertinemp1e,Michael Albertine
-Mar 26,home,Corning,W,10-6,10,6,4,win,20240326_74i6,3,1,0,,,,1,1,,,,,,,0,0,,,,,4,2024,2023-24,div3,SUNY Broome,sunybroomecommunitycollege,michaelalbertinemp1e,Michael Albertine
-Apr 27,home,Tompkins Cortland,W,12-2,12,2,10,win,20240427_w69j,1,1,1,,,,1,,,,,1,1,,1,0,,,,,3,2024,2023-24,div3,SUNY Broome,sunybroomecommunitycollege,michaelalbertinemp1e,Michael Albertine
-Apr 28,home,Tompkins Cortland,W,16-5,16,5,11,win,20240428_ws45,2,2,0,,,,0,,1,1,,2,,,0,0,,,,,4,2024,2023-24,div3,SUNY Broome,sunybroomecommunitycollege,michaelalbertinemp1e,Michael Albertine
+Feb 24,home,SUNY Adirondack,W,9-6,9,6,3,win,20240224_smm6,4,0,1,,,,2,,,,,,,,1,0,,,2,,4,2024,2023-24,div3,SUNY Broome,sunybroomecommunitycollege,michaelalbertinemp1e,Michael Albertine
+Feb 25,home,SUNY Adirondack,W,1-0,1,0,1,win,20240225_2t65,1,0,0,,,,1,2,,1,,1,,,0,0,,,,,4,2024,2023-24,div3,SUNY Broome,sunybroomecommunitycollege,michaelalbertinemp1e,Michael Albertine
+Feb 25,home,SUNY Adirondack,W,9-0,9,0,9,win,20240225_1nyh,1,0,0,,,,0,1,,,,,,,0,0,,1,,,2,2024,2023-24,div3,SUNY Broome,sunybroomecommunitycollege,michaelalbertinemp1e,Michael Albertine
+Mar 1,home,Bergen,W,7-2,7,2,5,win,20240301_nd7b,0,1,0,,,,1,3,,,,1,1,,0,0,,,,,5,2024,2023-24,div3,SUNY Broome,sunybroomecommunitycollege,michaelalbertinemp1e,Michael Albertine
+Mar 4,home,Bergen,W,3-1,3,1,2,win,20240304_pwzl,4,1,1,1,,,0,,,1,,,,,2,1,,1,1,1.00,4,2024,2023-24,div3,SUNY Broome,sunybroomecommunitycollege,michaelalbertinemp1e,Michael Albertine
+Mar 4,home,Bergen,W,16-13,16,13,3,win,20240304_crxb,3,1,0,,,,0,2,,1,,,,,0,0,,1,2,0.50,5,2024,2023-24,div3,SUNY Broome,sunybroomecommunitycollege,michaelalbertinemp1e,Michael Albertine
+Mar 11,home,Minnesota North College - Itasca,W,10-2,10,2,8,win,20240311_q08t,2,1,0,,,,0,1,,1,,1,,,0,0,,,,,4,2024,2023-24,div3,SUNY Broome,sunybroomecommunitycollege,michaelalbertinemp1e,Michael Albertine
+Mar 13,home,Mt. Aloysius College,W,14-0,14,0,14,win,20240313_y5m4,1,0,0,,,,1,,,,,,,,0,0,,,,,1,2024,2023-24,div3,SUNY Broome,sunybroomecommunitycollege,michaelalbertinemp1e,Michael Albertine
+Mar 24,home,Middlesex College,W,17-0,17,0,17,win,20240324_t6xk,3,1,1,,,,1,1,,,,,,,1,0,,,,,4,2024,2023-24,div3,SUNY Broome,sunybroomecommunitycollege,michaelalbertinemp1e,Michael Albertine
+Mar 29,home,Union,W,15-4,15,4,11,win,20240329_72yc,2,2,0,,,,0,1,,,,,,,0,0,,,,,3,2024,2023-24,div3,SUNY Broome,sunybroomecommunitycollege,michaelalbertinemp1e,Michael Albertine
+Mar 30,home,Union,W,6-1,6,1,5,win,20240330_kw1g,2,0,0,,,,0,1,,,,,,,0,0,,,,,3,2024,2023-24,div3,SUNY Broome,sunybroomecommunitycollege,michaelalbertinemp1e,Michael Albertine
+Mar 30,home,Union,W,10-6,10,6,4,win,20240330_hyb5,0,0,0,,,,0,,,,,,,,0,0,,,,,0,2024,2023-24,div3,SUNY Broome,sunybroomecommunitycollege,michaelalbertinemp1e,Michael Albertine
+Apr 5,home,Salem,W,9-4,9,4,5,win,20240405_8vvw,5,2,2,1,,,0,,,,,,,,3,1,,,,,5,2024,2023-24,div3,SUNY Broome,sunybroomecommunitycollege,michaelalbertinemp1e,Michael Albertine
+Apr 6,home,Salem,W,25-7,25,7,18,win,20240406_ycw4,3,1,1,,,,0,1,,,,,,,1,0,,,,,4,2024,2023-24,div3,SUNY Broome,sunybroomecommunitycollege,michaelalbertinemp1e,Michael Albertine
+Apr 6,home,Salem,W,9-6,9,6,3,win,20240406_u3od,3,1,1,1,,,2,,,,,,,,2,1,,,,,3,2024,2023-24,div3,SUNY Broome,sunybroomecommunitycollege,michaelalbertinemp1e,Michael Albertine
+Apr 16,home,Mercer County,W,12-8,12,8,4,win,20240416_sfal,3,0,0,,,,0,1,1,,,1,,,0,0,,,,,5,2024,2023-24,div3,SUNY Broome,sunybroomecommunitycollege,michaelalbertinemp1e,Michael Albertine
+Apr 23,home,Ocean County,W,10-0,10,0,10,win,20240423_zxy0,3,1,2,,,,2,,,,,,1,,2,0,,,,,4,2024,2023-24,div3,SUNY Broome,sunybroomecommunitycollege,michaelalbertinemp1e,Michael Albertine
+Apr 26,home,Lehigh Carbon,W,14-11,14,11,3,win,20240426_lryq,5,0,1,1,,,1,,,,,,1,,2,1,,,,,6,2024,2023-24,div3,SUNY Broome,sunybroomecommunitycollege,michaelalbertinemp1e,Michael Albertine
+Apr 27,home,Lehigh Carbon,W,6-5,6,5,1,win,20240427_bgqt,3,1,0,,,,1,1,,2,,,1,,0,0,,,,,5,2024,2023-24,div3,SUNY Broome,sunybroomecommunitycollege,michaelalbertinemp1e,Michael Albertine
+Apr 27,home,Lehigh Carbon,W,3-1,3,1,2,win,20240427_4urw,3,0,1,1,,,1,,,,,,,,2,1,,,,,3,2024,2023-24,div3,SUNY Broome,sunybroomecommunitycollege,michaelalbertinemp1e,Michael Albertine
+Apr 30,home,Ocean County,W,2-1,2,1,1,win,20240430_btr6,2,0,2,,,,0,1,,,,,,,2,0,,,,,3,2024,2023-24,div3,SUNY Broome,sunybroomecommunitycollege,michaelalbertinemp1e,Michael Albertine
+May 3,home,Camden County,W,4-2,4,2,2,win,20240503_53j7,3,1,0,,,,1,1,,1,,,,,0,0,,,,,4,2024,2023-24,div3,SUNY Broome,sunybroomecommunitycollege,michaelalbertinemp1e,Michael Albertine
+May 4,home,Camden County,W,7-2,7,2,5,win,20240504_vwb5,4,1,1,,,,0,,,1,,,,,1,0,,,,,4,2024,2023-24,div3,SUNY Broome,sunybroomecommunitycollege,michaelalbertinemp1e,Michael Albertine

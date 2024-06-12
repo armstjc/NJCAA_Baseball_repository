@@ -1,11 +1,34 @@
 date,location,opponent,result,score,team_score,opp_score,game_score_diff,game_win_loss,game_id,TC,PO,A,E,FPCT,DP,SBA,RCS,RCS_PCT,PB,CI,season,njcaa_season,njcaa_division,team,team_id,player_id,player_name
-Jan 31,home,Hill,L,13-9,13,9,4,win,20240131_kd6r,0,0,0,0,2.1,,,,0.00,,,2024,2023-24,div3,Monroe College - Bronx,monroecollegebronx,danielpenapuentesv8f,Daniel Pena Puente
-Feb 7,home,Dallas Christian College JV,W,25-1,25,1,24,win,20240207_u97y,1,0,0,0,2.0,2,1,1,4.50,2.00,2,2024,2023-24,div3,Monroe College - Bronx,monroecollegebronx,danielpenapuentesv8f,Daniel Pena Puente
-Feb 16,home,Hesston,W,7-4,7,4,3,win,20240216_a24v,0,0,0,0,1.0,3,3,3,27.00,3.00,,2024,2023-24,div3,Monroe College - Bronx,monroecollegebronx,danielpenapuentesv8f,Daniel Pena Puente
-Feb 23,home,Redlands,L,10-4,10,4,6,win,20240223_so7s,0,0,0,0,2.1,1,,,0.00,.43,,2024,2023-24,div3,Monroe College - Bronx,monroecollegebronx,danielpenapuentesv8f,Daniel Pena Puente
-Feb 24,home,Redlands,W,10-6,10,6,4,win,20240224_itrf,0,0,0,0,1.0,2,1,1,9.00,5.00,3,2024,2023-24,div3,Monroe College - Bronx,monroecollegebronx,danielpenapuentesv8f,Daniel Pena Puente
-Feb 28,home,Dallas College - North Lake,L,8-7,8,7,1,win,20240228_dy07,0,0,0,0,4.0,6,2,1,2.25,1.75,1,2024,2023-24,div3,Monroe College - Bronx,monroecollegebronx,danielpenapuentesv8f,Daniel Pena Puente
-Mar 6,home,Dallas College - Eastfield,L,11-1,11,1,10,win,20240306_r0jh,0,0,0,0,0.1,1,,,0.00,6.00,1,2024,2023-24,div3,Monroe College - Bronx,monroecollegebronx,danielpenapuentesv8f,Daniel Pena Puente
-Mar 8,home,Dallas College - Eastfield,L,8-2,8,2,6,win,20240308_mgtz,0,0,0,0,3.0,3,2,2,6.00,2.00,3,2024,2023-24,div3,Monroe College - Bronx,monroecollegebronx,danielpenapuentesv8f,Daniel Pena Puente
-Mar 20,home,Dallas College - Mountain View,W,5-3,5,3,2,win,20240320_rqkk,0,1,0,0,4.0,2,,,0.00,1.50,4,2024,2023-24,div3,Monroe College - Bronx,monroecollegebronx,danielpenapuentesv8f,Daniel Pena Puente
-Mar 27,home,Dallas College - Brookhaven,L,5-4,5,4,1,win,20240327_o1vu,0,0,0,0,4.0,2,,,0.00,.50,,2024,2023-24,div3,Monroe College - Bronx,monroecollegebronx,danielpenapuentesv8f,Daniel Pena Puente
+Feb 17,home,Virginia Peninsula CC,L,13-6,13,6,7,win,20240217_9hn5,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div3,Monroe College - Bronx,monroecollegebronx,danielpenapuentesv8f,Daniel Pena Puente
+Feb 18,home,Virginia Peninsula CC,L,15-1,15,1,14,win,20240218_btie,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div3,Monroe College - Bronx,monroecollegebronx,danielpenapuentesv8f,Daniel Pena Puente
+Feb 24,home,Delaware Tech,L,19-11,19,11,8,win,20240224_nm2f,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div3,Monroe College - Bronx,monroecollegebronx,danielpenapuentesv8f,Daniel Pena Puente
+Mar 8,home,Montgomery,L,12-2,12,2,10,win,20240308_vrng,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div3,Monroe College - Bronx,monroecollegebronx,danielpenapuentesv8f,Daniel Pena Puente
+Mar 8,home,Montgomery,L,12-0,12,0,12,win,20240308_fldg,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div3,Monroe College - Bronx,monroecollegebronx,danielpenapuentesv8f,Daniel Pena Puente
+Mar 15,home,Lackawanna,L,29-0,29,0,29,win,20240315_6hq8,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div3,Monroe College - Bronx,monroecollegebronx,danielpenapuentesv8f,Daniel Pena Puente
+Mar 17,home,Middlesex College,L,21-8,21,8,13,win,20240317_x9r5,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div3,Monroe College - Bronx,monroecollegebronx,danielpenapuentesv8f,Daniel Pena Puente
+Mar 17,home,Middlesex College,W,13-9,13,9,4,win,20240317_soov,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div3,Monroe College - Bronx,monroecollegebronx,danielpenapuentesv8f,Daniel Pena Puente
+Mar 19,home,Borough of Manhattan,W,17-1,17,1,16,win,20240319_9qvq,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div3,Monroe College - Bronx,monroecollegebronx,danielpenapuentesv8f,Daniel Pena Puente
+Mar 21,home,Rockland,W,13-10,13,10,3,win,20240321_2f1b,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div3,Monroe College - Bronx,monroecollegebronx,danielpenapuentesv8f,Daniel Pena Puente
+Mar 22,home,Borough of Manhattan,W,19-2,19,2,17,win,20240322_qfy6,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div3,Monroe College - Bronx,monroecollegebronx,danielpenapuentesv8f,Daniel Pena Puente
+Mar 25,home,Orange County,L,13-7,13,7,6,win,20240325_9tip,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div3,Monroe College - Bronx,monroecollegebronx,danielpenapuentesv8f,Daniel Pena Puente
+Mar 26,home,Nassau,W,9-3,9,3,6,win,20240326_b03g,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div3,Monroe College - Bronx,monroecollegebronx,danielpenapuentesv8f,Daniel Pena Puente
+Mar 30,home,Nassau,W,11-0,11,0,11,win,20240330_pa0p,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div3,Monroe College - Bronx,monroecollegebronx,danielpenapuentesv8f,Daniel Pena Puente
+Mar 30,home,Nassau,L,7-6,7,6,1,win,20240330_o9qp,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div3,Monroe College - Bronx,monroecollegebronx,danielpenapuentesv8f,Daniel Pena Puente
+Apr 1,home,Rockland,L,15-5,15,5,10,win,20240401_fxat,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div3,Monroe College - Bronx,monroecollegebronx,danielpenapuentesv8f,Daniel Pena Puente
+Apr 5,home,Westchester,L,26-6,26,6,20,win,20240405_u3em,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div3,Monroe College - Bronx,monroecollegebronx,danielpenapuentesv8f,Daniel Pena Puente
+Apr 7,home,Borough of Manhattan,W,18-1,18,1,17,win,20240407_5xlf,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div3,Monroe College - Bronx,monroecollegebronx,danielpenapuentesv8f,Daniel Pena Puente
+Apr 9,home,Suffolk County,W,12-1,12,1,11,win,20240409_sx2m,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div3,Monroe College - Bronx,monroecollegebronx,danielpenapuentesv8f,Daniel Pena Puente
+Apr 10,home,Nassau,W,10-9,10,9,1,win,20240410_q60k,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div3,Monroe College - Bronx,monroecollegebronx,danielpenapuentesv8f,Daniel Pena Puente
+Apr 12,home,Suffolk County,L,7-0,7,0,7,win,20240412_ehgw,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div3,Monroe College - Bronx,monroecollegebronx,danielpenapuentesv8f,Daniel Pena Puente
+Apr 13,home,Suffolk County,L,4-3,4,3,1,win,20240413_kahd,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div3,Monroe College - Bronx,monroecollegebronx,danielpenapuentesv8f,Daniel Pena Puente
+Apr 13,home,Suffolk County,L,13-2,13,2,11,win,20240413_xe05,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div3,Monroe College - Bronx,monroecollegebronx,danielpenapuentesv8f,Daniel Pena Puente
+Apr 16,home,Kingsborough,W,11-7,11,7,4,win,20240416_6hr5,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div3,Monroe College - Bronx,monroecollegebronx,danielpenapuentesv8f,Daniel Pena Puente
+Apr 19,home,Kingsborough,L,11-4,11,4,7,win,20240419_8x8g,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div3,Monroe College - Bronx,monroecollegebronx,danielpenapuentesv8f,Daniel Pena Puente
+Apr 20,home,Kingsborough,W,12-7,12,7,5,win,20240420_bzjh,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div3,Monroe College - Bronx,monroecollegebronx,danielpenapuentesv8f,Daniel Pena Puente
+Apr 20,home,Kingsborough,W,5-1,5,1,4,win,20240420_7m02,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div3,Monroe College - Bronx,monroecollegebronx,danielpenapuentesv8f,Daniel Pena Puente
+Apr 22,home,Rockland,W,14-5,14,5,9,win,20240422_dbdj,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div3,Monroe College - Bronx,monroecollegebronx,danielpenapuentesv8f,Daniel Pena Puente
+Apr 27,home,Bronx,W,17-8,17,8,9,win,20240427_kync,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div3,Monroe College - Bronx,monroecollegebronx,danielpenapuentesv8f,Daniel Pena Puente
+Apr 30,home,Queensborough,W,8-1,8,1,7,win,20240430_gizv,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div3,Monroe College - Bronx,monroecollegebronx,danielpenapuentesv8f,Daniel Pena Puente
+May 3,home,Queensborough,W,13-3,13,3,10,win,20240503_ujwg,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div3,Monroe College - Bronx,monroecollegebronx,danielpenapuentesv8f,Daniel Pena Puente
+May 4,home,Queensborough,W,16-4,16,4,12,win,20240504_a2ut,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div3,Monroe College - Bronx,monroecollegebronx,danielpenapuentesv8f,Daniel Pena Puente
+May 9,home,Nassau,W,6-2,6,2,4,win,20240509_9w2c,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div3,Monroe College - Bronx,monroecollegebronx,danielpenapuentesv8f,Daniel Pena Puente

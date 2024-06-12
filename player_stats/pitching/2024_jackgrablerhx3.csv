@@ -1,20 +1,13 @@
 date,location,opponent,result,score,team_score,opp_score,game_score_diff,game_win_loss,game_id,GS,W,L,SV,IP,H,R,ER,ERA,BB,K,HR,season,njcaa_season,njcaa_division,team,team_id,player_id,player_name
-May 11,home,Black Hawk,L,11-10,11,10,1,win,20240511_843z,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div2,Bryant & Stratton College (WI),bryantstrattoncollegewi,jackgrablerhx3,Jack Grable
-May 1,home,Triton,L,6-5,6,5,1,win,20240501_amos,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div2,Bryant & Stratton College (WI),bryantstrattoncollegewi,jackgrablerhx3,Jack Grable
-Apr 29,home,Oakton,W,19-8,19,8,11,win,20240429_ex6i,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div2,Bryant & Stratton College (WI),bryantstrattoncollegewi,jackgrablerhx3,Jack Grable
-Apr 27,home,South Suburban,W,10-4,10,4,6,win,20240427_5mta,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div2,Bryant & Stratton College (WI),bryantstrattoncollegewi,jackgrablerhx3,Jack Grable
-Apr 23,home,Bay College,W,11-0,11,0,11,win,20240423_5d0i,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div2,Bryant & Stratton College (WI),bryantstrattoncollegewi,jackgrablerhx3,Jack Grable
-Apr 21,home,Elgin,W,8-6,8,6,2,win,20240421_8gln,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div2,Bryant & Stratton College (WI),bryantstrattoncollegewi,jackgrablerhx3,Jack Grable
-Apr 20,home,Joliet,L,14-3,14,3,11,win,20240420_k13i,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div2,Bryant & Stratton College (WI),bryantstrattoncollegewi,jackgrablerhx3,Jack Grable
-Apr 13,home,DuPage,W,2-0,2,0,2,win,20240413_8v5w,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div2,Bryant & Stratton College (WI),bryantstrattoncollegewi,jackgrablerhx3,Jack Grable
-Apr 12,home,Milwaukee Area Tech,W,14-8,14,8,6,win,20240412_1zwy,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div2,Bryant & Stratton College (WI),bryantstrattoncollegewi,jackgrablerhx3,Jack Grable
-Mar 30,home,Lake County,W,2-1,2,1,1,win,20240330_ebk1,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div2,Bryant & Stratton College (WI),bryantstrattoncollegewi,jackgrablerhx3,Jack Grable
-Mar 30,home,Lake County,W,2-1,2,1,1,win,20240330_wucr,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div2,Bryant & Stratton College (WI),bryantstrattoncollegewi,jackgrablerhx3,Jack Grable
-Mar 29,home,Prairie State,W,5-4,5,4,1,win,20240329_4t99,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div2,Bryant & Stratton College (WI),bryantstrattoncollegewi,jackgrablerhx3,Jack Grable
-Mar 2,home,Jackson,L,4-2,4,2,2,win,20240302_bqlt,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div2,Bryant & Stratton College (WI),bryantstrattoncollegewi,jackgrablerhx3,Jack Grable
-Mar 2,home,Jackson,W,5-1,5,1,4,win,20240302_39g2,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div2,Bryant & Stratton College (WI),bryantstrattoncollegewi,jackgrablerhx3,Jack Grable
-Feb 29,home,Lincoln Land,L,13-2,13,2,11,win,20240229_pdrt,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div2,Bryant & Stratton College (WI),bryantstrattoncollegewi,jackgrablerhx3,Jack Grable
-Feb 27,home,Houghton College JV,W,7-3,7,3,4,win,20240227_uf0r,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div2,Bryant & Stratton College (WI),bryantstrattoncollegewi,jackgrablerhx3,Jack Grable
-Feb 27,home,University of Dubuque JV,L,9-2,9,2,7,win,20240227_6olj,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div2,Bryant & Stratton College (WI),bryantstrattoncollegewi,jackgrablerhx3,Jack Grable
-Feb 26,home,Frederick,L,11-0,11,0,11,win,20240226_wk4j,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div2,Bryant & Stratton College (WI),bryantstrattoncollegewi,jackgrablerhx3,Jack Grable
-Feb 25,home,Frederick,L,5-2,5,2,3,win,20240225_x9re,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div2,Bryant & Stratton College (WI),bryantstrattoncollegewi,jackgrablerhx3,Jack Grable
+May 10,home,Black Hawk,L,6-3,6,3,3,win,20240510_71hj,0,0,0,0,0.2,1,,,0.00,3.00,1,,2024,2023-24,div2,Bryant & Stratton College (WI),bryantstrattoncollegewi,jackgrablerhx3,Jack Grable
+May 1,home,Triton,L,6-2,6,2,4,win,20240501_3fo5,0,0,1,0,0.2,4,5,3,40.50,7.50,1,1,2024,2023-24,div2,Bryant & Stratton College (WI),bryantstrattoncollegewi,jackgrablerhx3,Jack Grable
+Apr 30,home,Lake County,L,3-2,3,2,1,win,20240430_gczt,0,0,0,0,0.1,,,,0.00,3.00,1,1,2024,2023-24,div2,Bryant & Stratton College (WI),bryantstrattoncollegewi,jackgrablerhx3,Jack Grable
+Apr 27,home,South Suburban,W,10-4,10,4,6,win,20240427_5mta,0,0,0,0,2.0,1,,,0.00,1.00,1,2,2024,2023-24,div2,Bryant & Stratton College (WI),bryantstrattoncollegewi,jackgrablerhx3,Jack Grable
+Apr 23,home,Bay College,W,14-4,14,4,10,win,20240423_1fqc,0,0,0,0,1.0,2,,,0.00,3.00,1,,2024,2023-24,div2,Bryant & Stratton College (WI),bryantstrattoncollegewi,jackgrablerhx3,Jack Grable
+Apr 21,home,Elgin,L,13-5,13,5,8,win,20240421_7fl2,0,0,0,0,1.1,4,2,2,13.50,3.00,,1,2024,2023-24,div2,Bryant & Stratton College (WI),bryantstrattoncollegewi,jackgrablerhx3,Jack Grable
+Apr 13,home,DuPage,L,10-6,10,6,4,win,20240413_ia4b,0,0,0,0,0.1,2,2,,0.00,6.00,,,2024,2023-24,div2,Bryant & Stratton College (WI),bryantstrattoncollegewi,jackgrablerhx3,Jack Grable
+Apr 10,home,Madison,L,17-10,17,10,7,win,20240410_psnn,0,0,0,0,1.0,,1,,0.00,1.00,1,1,2024,2023-24,div2,Bryant & Stratton College (WI),bryantstrattoncollegewi,jackgrablerhx3,Jack Grable
+Mar 30,home,Lake County,W,2-1,2,1,1,win,20240330_wucr,0,0,0,0,1.0,,,,0.00,,,,2024,2023-24,div2,Bryant & Stratton College (WI),bryantstrattoncollegewi,jackgrablerhx3,Jack Grable
+Mar 24,home,Black Hawk,L,7-1,7,1,6,win,20240324_er7x,0,0,0,0,1.0,,,,0.00,,,,2024,2023-24,div2,Bryant & Stratton College (WI),bryantstrattoncollegewi,jackgrablerhx3,Jack Grable
+Feb 29,home,Lincoln Land,L,1-0,1,0,1,win,20240229_45yz,0,0,0,0,0.1,1,,,0.00,3.00,,,2024,2023-24,div2,Bryant & Stratton College (WI),bryantstrattoncollegewi,jackgrablerhx3,Jack Grable
+Feb 27,home,University of Dubuque JV,L,9-2,9,2,7,win,20240227_6olj,0,0,0,0,2.1,,1,,0.00,.86,2,5,2024,2023-24,div2,Bryant & Stratton College (WI),bryantstrattoncollegewi,jackgrablerhx3,Jack Grable

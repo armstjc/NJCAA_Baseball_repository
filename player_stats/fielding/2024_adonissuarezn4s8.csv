@@ -1,19 +1,20 @@
 date,location,opponent,result,score,team_score,opp_score,game_score_diff,game_win_loss,game_id,TC,PO,A,E,FPCT,DP,SBA,RCS,RCS_PCT,PB,CI,season,njcaa_season,njcaa_division,team,team_id,player_id,player_name
-Jan 28,home,LSU Eunice,L,11-0,11,0,11,win,20240128_ukbt,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div3,Borough of Manhattan,boroughofmanhattancommunitycollege,adonissuarezn4s8,Adonis Suarez
-Feb 2,home,Cisco,L,8-5,8,5,3,win,20240202_ps4i,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div3,Borough of Manhattan,boroughofmanhattancommunitycollege,adonissuarezn4s8,Adonis Suarez
-Feb 7,home,Twin City Post Grad,W,8-6,8,6,2,win,20240207_0yrw,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div3,Borough of Manhattan,boroughofmanhattancommunitycollege,adonissuarezn4s8,Adonis Suarez
-Feb 7,home,Twin City Post Grad,W,3-2,3,2,1,win,20240207_j1nx,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div3,Borough of Manhattan,boroughofmanhattancommunitycollege,adonissuarezn4s8,Adonis Suarez
-Feb 15,home,State Fair,L,4-3,4,3,1,win,20240215_jy8u,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div3,Borough of Manhattan,boroughofmanhattancommunitycollege,adonissuarezn4s8,Adonis Suarez
-Feb 23,home,Twin City Post Grad,W,15-5,15,5,10,win,20240223_sbc2,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div3,Borough of Manhattan,boroughofmanhattancommunitycollege,adonissuarezn4s8,Adonis Suarez
-Feb 28,home,Dallas College - Cedar Valley,W,8-7,8,7,1,win,20240228_dy07,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div3,Borough of Manhattan,boroughofmanhattancommunitycollege,adonissuarezn4s8,Adonis Suarez
-Mar 4,home,Dallas Christian JV,W,20-8,20,8,12,win,20240304_g19s,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div3,Borough of Manhattan,boroughofmanhattancommunitycollege,adonissuarezn4s8,Adonis Suarez
-Mar 23,home,Dallas College - Brookhaven,L,9-7,9,7,2,win,20240323_6p02,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div3,Borough of Manhattan,boroughofmanhattancommunitycollege,adonissuarezn4s8,Adonis Suarez
-Mar 27,home,Dallas College - Richland,L,10-5,10,5,5,win,20240327_ndye,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div3,Borough of Manhattan,boroughofmanhattancommunitycollege,adonissuarezn4s8,Adonis Suarez
-Apr 1,home,Paris,L,14-1,14,1,13,win,20240401_ggtb,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div3,Borough of Manhattan,boroughofmanhattancommunitycollege,adonissuarezn4s8,Adonis Suarez
-Apr 8,home,Dallas Christian JV,W,20-3,20,3,17,win,20240408_erah,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div3,Borough of Manhattan,boroughofmanhattancommunitycollege,adonissuarezn4s8,Adonis Suarez
-Apr 15,home,Arlington Baptist JV,W,14-3,14,3,11,win,20240415_bqfm,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div3,Borough of Manhattan,boroughofmanhattancommunitycollege,adonissuarezn4s8,Adonis Suarez
-Apr 19,home,Dallas College - Mountain View,L,14-13,14,13,1,win,20240419_38z5,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div3,Borough of Manhattan,boroughofmanhattancommunitycollege,adonissuarezn4s8,Adonis Suarez
-Apr 22,home,Paris,L,17-9,17,9,8,win,20240422_pbx3,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div3,Borough of Manhattan,boroughofmanhattancommunitycollege,adonissuarezn4s8,Adonis Suarez
-Apr 29,home,DFW Post Grad,W,4-3,4,3,1,win,20240429_a5x4,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div3,Borough of Manhattan,boroughofmanhattancommunitycollege,adonissuarezn4s8,Adonis Suarez
-May 4,home,Dallas College - Richland,L,3-2,3,2,1,win,20240504_ikj3,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div3,Borough of Manhattan,boroughofmanhattancommunitycollege,adonissuarezn4s8,Adonis Suarez
-May 8,home,Dallas College - Eastfield,L,12-1,12,1,11,win,20240508_dm9v,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div3,Borough of Manhattan,boroughofmanhattancommunitycollege,adonissuarezn4s8,Adonis Suarez
+Jan 28,home,LSU Eunice,L,11-0,11,0,11,win,20240128_ukbt,0,0,0,0,0.0,1,3,2,INF,,2,2024,2023-24,div3,Borough of Manhattan,boroughofmanhattancommunitycollege,adonissuarezn4s8,Adonis Suarez
+Feb 2,home,Cisco,L,8-5,8,5,3,win,20240202_ps4i,0,0,0,0,1.2,,,,0.00,1.20,2,2024,2023-24,div3,Borough of Manhattan,boroughofmanhattancommunitycollege,adonissuarezn4s8,Adonis Suarez
+Feb 7,home,Twin City Post Grad,W,3-2,3,2,1,win,20240207_j1nx,1,0,0,0,2.0,0,0,0,0.00,1.50,3,2024,2023-24,div3,Borough of Manhattan,boroughofmanhattancommunitycollege,adonissuarezn4s8,Adonis Suarez
+Feb 16,home,State Fair,W,10-9,10,9,1,win,20240216_k8rb,0,1,0,0,3.0,3,2,1,3.00,2.33,4,2024,2023-24,div3,Borough of Manhattan,boroughofmanhattancommunitycollege,adonissuarezn4s8,Adonis Suarez
+Feb 23,home,Twin City Post Grad,W,15-5,15,5,10,win,20240223_sbc2,0,0,0,0,1.2,,1,,0.00,1.20,2,2024,2023-24,div3,Borough of Manhattan,boroughofmanhattancommunitycollege,adonissuarezn4s8,Adonis Suarez
+Mar 2,home,Dallas College - Cedar Valley,W,17-1,17,1,16,win,20240302_sp7j,1,0,0,0,1.0,2,1,1,9.00,4.00,2,2024,2023-24,div3,Borough of Manhattan,boroughofmanhattancommunitycollege,adonissuarezn4s8,Adonis Suarez
+Mar 13,home,Joliet,W,7-1,7,1,6,win,20240313_xifj,0,0,0,0,2.0,,,,0.00,,,2024,2023-24,div3,Borough of Manhattan,boroughofmanhattancommunitycollege,adonissuarezn4s8,Adonis Suarez
+Mar 22,home,Dallas College - Brookhaven,L,17-11,17,11,6,win,20240322_wuk2,0,0,0,0,1.0,4,4,3,27.00,6.00,2,2024,2023-24,div3,Borough of Manhattan,boroughofmanhattancommunitycollege,adonissuarezn4s8,Adonis Suarez
+Mar 29,home,Dallas College - Richland,L,7-3,7,3,4,win,20240329_jq5b,0,0,0,0,2.0,1,1,1,4.50,1.50,2,2024,2023-24,div3,Borough of Manhattan,boroughofmanhattancommunitycollege,adonissuarezn4s8,Adonis Suarez
+Apr 1,home,Paris,L,14-1,14,1,13,win,20240401_ggtb,0,0,1,0,2.0,2,2,,0.00,1.00,,2024,2023-24,div3,Borough of Manhattan,boroughofmanhattancommunitycollege,adonissuarezn4s8,Adonis Suarez
+Apr 6,home,Dallas College - Eastfield,L,16-1,16,1,15,win,20240406_1x8g,0,0,0,0,1.0,3,5,5,45.00,6.00,3,2024,2023-24,div3,Borough of Manhattan,boroughofmanhattancommunitycollege,adonissuarezn4s8,Adonis Suarez
+Apr 8,home,Dallas Christian JV,W,20-3,20,3,17,win,20240408_erah,0,0,0,0,1.0,2,2,2,18.00,3.00,1,2024,2023-24,div3,Borough of Manhattan,boroughofmanhattancommunitycollege,adonissuarezn4s8,Adonis Suarez
+Apr 15,home,Arlington Baptist JV,W,14-3,14,3,11,win,20240415_bqfm,0,0,0,0,2.0,3,1,,0.00,2.50,2,2024,2023-24,div3,Borough of Manhattan,boroughofmanhattancommunitycollege,adonissuarezn4s8,Adonis Suarez
+Apr 22,home,Paris,L,17-9,17,9,8,win,20240422_pbx3,0,0,0,0,1.0,3,3,3,27.00,5.00,2,2024,2023-24,div3,Borough of Manhattan,boroughofmanhattancommunitycollege,adonissuarezn4s8,Adonis Suarez
+Apr 25,home,Dallas College - Brookhaven,L,24-14,24,14,10,win,20240425_ewah,0,0,0,0,0.2,1,4,4,54.00,6.00,3,2024,2023-24,div3,Borough of Manhattan,boroughofmanhattancommunitycollege,adonissuarezn4s8,Adonis Suarez
+Apr 29,home,DFW Post Grad,W,4-3,4,3,1,win,20240429_a5x4,0,0,0,0,1.0,1,2,,0.00,2.00,1,2024,2023-24,div3,Borough of Manhattan,boroughofmanhattancommunitycollege,adonissuarezn4s8,Adonis Suarez
+May 4,home,Dallas College - Richland,L,3-2,3,2,1,win,20240504_ikj3,0,0,1,0,3.2,4,2,1,2.45,1.36,1,2024,2023-24,div3,Borough of Manhattan,boroughofmanhattancommunitycollege,adonissuarezn4s8,Adonis Suarez
+May 8,home,Dallas College - Eastfield,L,12-1,12,1,11,win,20240508_dm9v,0,0,0,0,1.0,1,1,1,9.00,3.00,2,2024,2023-24,div3,Borough of Manhattan,boroughofmanhattancommunitycollege,adonissuarezn4s8,Adonis Suarez
+May 11,home,Dallas College - Eastfield,L,6-0,6,0,6,win,20240511_dsn9,0,0,0,0,2.0,1,,,0.00,.50,,2024,2023-24,div3,Borough of Manhattan,boroughofmanhattancommunitycollege,adonissuarezn4s8,Adonis Suarez

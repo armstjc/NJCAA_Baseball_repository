@@ -1,23 +1,3 @@
 date,location,opponent,result,score,team_score,opp_score,game_score_diff,game_win_loss,game_id,TC,PO,A,E,FPCT,DP,SBA,RCS,RCS_PCT,PB,CI,season,njcaa_season,njcaa_division,team,team_id,player_id,player_name
-Feb 23,home,Southeastern,L,15-5,15,5,10,win,20240223_6ph0,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Elgin,elgincommunitycollege,tysierpienn95f,Ty Sierpien
-Feb 24,home,Volunteer State,L,12-1,12,1,11,win,20240224_2neg,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Elgin,elgincommunitycollege,tysierpienn95f,Ty Sierpien
-Mar 1,home,Lake Area Post Grad,W,12-8,12,8,4,win,20240301_aiyw,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Elgin,elgincommunitycollege,tysierpienn95f,Ty Sierpien
-Mar 6,home,Judson JV,W,30-0,30,0,30,win,20240306_l2am,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Elgin,elgincommunitycollege,tysierpienn95f,Ty Sierpien
-Mar 12,home,Milwaukee Area Tech,L,10-5,10,5,5,win,20240312_4kf8,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Elgin,elgincommunitycollege,tysierpienn95f,Ty Sierpien
-Mar 16,home,Carl Sandburg,L,7-4,7,4,3,win,20240316_6x5l,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Elgin,elgincommunitycollege,tysierpienn95f,Ty Sierpien
-Mar 27,home,Triton,L,7-6,7,6,1,win,20240327_czl9,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Elgin,elgincommunitycollege,tysierpienn95f,Ty Sierpien
-Mar 29,home,Kankakee,L,4-1,4,1,3,win,20240329_apdb,0,0,0,0,1.0,,,,0.00,,,2024,2023-24,div2,Elgin,elgincommunitycollege,tysierpienn95f,Ty Sierpien
-Apr 6,home,Waubonsee,W,6-3,6,3,3,win,20240406_tqpr,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Elgin,elgincommunitycollege,tysierpienn95f,Ty Sierpien
-Apr 9,home,Oakton,W,12-1,12,1,11,win,20240409_qsmj,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Elgin,elgincommunitycollege,tysierpienn95f,Ty Sierpien
-Apr 9,home,Oakton,W,15-5,15,5,10,win,20240409_k72a,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Elgin,elgincommunitycollege,tysierpienn95f,Ty Sierpien
-Apr 14,home,Joliet,W,10-5,10,5,5,win,20240414_21hd,0,0,0,0,1.1,2,,,0.00,1.50,,2024,2023-24,div2,Elgin,elgincommunitycollege,tysierpienn95f,Ty Sierpien
-Apr 14,home,Joliet,W,11-4,11,4,7,win,20240414_hlum,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Elgin,elgincommunitycollege,tysierpienn95f,Ty Sierpien
-Apr 19,home,Olive-Harvey,W,14-4,14,4,10,win,20240419_tg93,0,0,0,0,1.0,,,,0.00,,,2024,2023-24,div2,Elgin,elgincommunitycollege,tysierpienn95f,Ty Sierpien
-Apr 19,home,Olive-Harvey,W,11-10,11,10,1,win,20240419_3yjr,0,1,0,0,2.0,3,3,3,13.50,2.50,2,2024,2023-24,div2,Elgin,elgincommunitycollege,tysierpienn95f,Ty Sierpien
-Apr 20,home,Prairie State,W,20-11,20,11,9,win,20240420_mxlj,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Elgin,elgincommunitycollege,tysierpienn95f,Ty Sierpien
-Apr 21,home,Bryant & Stratton College (WI),L,8-6,8,6,2,win,20240421_8gln,0,0,0,0,1.1,2,,,0.00,1.50,,2024,2023-24,div2,Elgin,elgincommunitycollege,tysierpienn95f,Ty Sierpien
-Apr 21,home,Bryant & Stratton College (WI),W,13-5,13,5,8,win,20240421_7fl2,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Elgin,elgincommunitycollege,tysierpienn95f,Ty Sierpien
-Apr 25,home,Harper,W,5-2,5,2,3,win,20240425_tkqu,0,0,0,0,1.0,2,1,1,9.00,2.00,,2024,2023-24,div2,Elgin,elgincommunitycollege,tysierpienn95f,Ty Sierpien
-Apr 27,home,Moraine Valley,W,15-6,15,6,9,win,20240427_jfl8,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Elgin,elgincommunitycollege,tysierpienn95f,Ty Sierpien
-Apr 29,home,Triton,L,10-0,10,0,10,win,20240429_hvce,0,0,0,0,0.0,2,1,,0.00,,,2024,2023-24,div2,Elgin,elgincommunitycollege,tysierpienn95f,Ty Sierpien
-May 4,home,Black Hawk,L,15-5,15,5,10,win,20240504_tjha,0,0,0,0,1.0,2,1,1,9.00,2.00,,2024,2023-24,div2,Elgin,elgincommunitycollege,tysierpienn95f,Ty Sierpien
+Mar 3,home,Suffolk County,W,11-8,11,8,3,win,20240303_qp99,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Elgin,elgincommunitycollege,tysierpienn95f,Ty Sierpien
+Mar 30,home,Sullivan County,L,11-4,11,4,7,win,20240330_k3ry,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Elgin,elgincommunitycollege,tysierpienn95f,Ty Sierpien

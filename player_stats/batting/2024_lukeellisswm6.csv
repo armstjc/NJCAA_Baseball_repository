@@ -1,21 +1,34 @@
 date,location,opponent,result,score,team_score,opp_score,game_score_diff,game_win_loss,game_id,AB,R,H,2B,3B,HR,RBI,BB,K,SB,CS,HBP,SF,SH,TB,XBH,HDP,GO,FO,GO/FO,PA,season,njcaa_season,njcaa_division,team,team_id,player_id,player_name
-Feb 24,home,USC Union,W,12-6,12,6,6,win,20240224_oeni,4,1,2,,,,2,1,,,,,,,2,0,,,,,5,2024,2023-24,div2,Mott,mottcommunitycollege,lukeellisswm6,Luke Ellis
-Mar 1,home,Cuyahoga,W,4-3,4,3,1,win,20240301_60x5,1,0,0,,,,0,,1,,,1,,,0,0,,,,,2,2024,2023-24,div2,Mott,mottcommunitycollege,lukeellisswm6,Luke Ellis
-Mar 2,home,Cuyahoga,W,10-8,10,8,2,win,20240302_g8uv,5,2,3,,,,2,,,1,,,,,3,0,,,,,5,2024,2023-24,div2,Mott,mottcommunitycollege,lukeellisswm6,Luke Ellis
-Mar 2,home,Cuyahoga,W,4-3,4,3,1,win,20240302_5onq,1,2,1,,,,0,3,,,,,,,1,0,,,,,4,2024,2023-24,div2,Mott,mottcommunitycollege,lukeellisswm6,Luke Ellis
-Mar 13,home,Edison State,W,14-9,14,9,5,win,20240313_779u,3,3,2,1,,,2,1,,,,,1,,3,1,,,,,5,2024,2023-24,div2,Mott,mottcommunitycollege,lukeellisswm6,Luke Ellis
-Mar 13,home,Edison State,W,14-1,14,1,13,win,20240313_xycf,3,1,2,,,,2,,,,,,,,2,0,,,,,3,2024,2023-24,div2,Mott,mottcommunitycollege,lukeellisswm6,Luke Ellis
-Mar 25,home,Schoolcraft,W,17-5,17,5,12,win,20240325_wmvy,5,1,1,,1,,2,,1,,,,,,3,1,,,,,5,2024,2023-24,div2,Mott,mottcommunitycollege,lukeellisswm6,Luke Ellis
-Mar 29,home,St. Clair County,W,13-4,13,4,9,win,20240329_aagc,5,1,1,,,,0,,3,,,,,,1,0,,,,,5,2024,2023-24,div2,Mott,mottcommunitycollege,lukeellisswm6,Luke Ellis
-Mar 30,home,Jackson,W,6-4,6,4,2,win,20240330_kfxz,3,0,0,,,,0,,2,,,,,,0,0,,,,,3,2024,2023-24,div2,Mott,mottcommunitycollege,lukeellisswm6,Luke Ellis
-Apr 14,home,Henry Ford,W,5-4,5,4,1,win,20240414_rr6b,2,0,0,,,,2,,2,,,,2,,0,0,,,,,4,2024,2023-24,div2,Mott,mottcommunitycollege,lukeellisswm6,Luke Ellis
-Apr 15,home,Henry Ford,W,9-8,9,8,1,win,20240415_upi7,3,3,1,,,,0,1,,,,,,,1,0,,,,,4,2024,2023-24,div2,Mott,mottcommunitycollege,lukeellisswm6,Luke Ellis
-Apr 15,home,Henry Ford,W,5-3,5,3,2,win,20240415_fgk2,2,0,0,,,,0,1,2,,,,,,0,0,,,,,3,2024,2023-24,div2,Mott,mottcommunitycollege,lukeellisswm6,Luke Ellis
-Apr 21,home,Macomb,W,15-5,15,5,10,win,20240421_kw6e,2,2,1,,,,1,1,,1,,1,,,1,0,,,,,4,2024,2023-24,div2,Mott,mottcommunitycollege,lukeellisswm6,Luke Ellis
-Apr 23,home,Delta,W,12-4,12,4,8,win,20240423_httk,4,2,1,,,,0,1,2,1,,,,,1,0,,,,,5,2024,2023-24,div2,Mott,mottcommunitycollege,lukeellisswm6,Luke Ellis
-Apr 25,home,St. Clair County,W,3-0,3,0,3,win,20240425_6sxo,4,0,0,,,,0,,1,,,,,,0,0,,,,,4,2024,2023-24,div2,Mott,mottcommunitycollege,lukeellisswm6,Luke Ellis
-Apr 25,home,St. Clair County,W,14-7,14,7,7,win,20240425_l0vu,4,1,1,,,,2,1,,,,,,,1,0,,,,,5,2024,2023-24,div2,Mott,mottcommunitycollege,lukeellisswm6,Luke Ellis
-Apr 26,home,St. Clair County,W,10-0,10,0,10,win,20240426_a3z7,3,1,1,,,,1,,,,,,,,1,0,,,,,3,2024,2023-24,div2,Mott,mottcommunitycollege,lukeellisswm6,Luke Ellis
-Apr 26,home,St. Clair County,W,9-4,9,4,5,win,20240426_ys7a,4,0,0,,,,0,,,,,,,,0,0,,,,,4,2024,2023-24,div2,Mott,mottcommunitycollege,lukeellisswm6,Luke Ellis
-Apr 30,home,Muskegon,W,11-7,11,7,4,win,20240430_u1mw,4,1,1,,,,1,,,1,,,,,1,0,,,,,4,2024,2023-24,div2,Mott,mottcommunitycollege,lukeellisswm6,Luke Ellis
-May 4,home,Jackson,W,10-1,10,1,9,win,20240504_m8ld,1,1,0,,,,0,1,,,,1,,,0,0,,,,,3,2024,2023-24,div2,Mott,mottcommunitycollege,lukeellisswm6,Luke Ellis
+Mar 2,home,Moraine Valley,W,14-4,14,4,10,win,20240302_1fhu,4,1,1,,,,0,,1,,,1,,,1,0,,,,,5,2024,2023-24,div2,Mott,mottcommunitycollege,lukeellisswm6,Luke Ellis
+Mar 7,home,Milwaukee Area Tech,W,9-2,9,2,7,win,20240307_oob1,3,1,1,,,,1,1,,,,,,,1,0,,,,,4,2024,2023-24,div2,Mott,mottcommunitycollege,lukeellisswm6,Luke Ellis
+Mar 9,home,Harper,W,4-1,4,1,3,win,20240309_mpcz,1,0,1,,,,1,,,,,2,,,1,0,,,,,3,2024,2023-24,div2,Mott,mottcommunitycollege,lukeellisswm6,Luke Ellis
+Mar 12,home,SUNY Niagara,W,5-3,5,3,2,win,20240312_j71i,3,0,0,,,,0,,2,,,,,,0,0,,,,,3,2024,2023-24,div2,Mott,mottcommunitycollege,lukeellisswm6,Luke Ellis
+Mar 13,home,Rockland,W,7-3,7,3,4,win,20240313_e7cc,2,0,1,,,,0,1,,,,,,,1,0,,,,,3,2024,2023-24,div2,Mott,mottcommunitycollege,lukeellisswm6,Luke Ellis
+Mar 16,home,Rhode Island,W,10-0,10,0,10,win,20240316_fr28,2,2,1,,,,0,,,,,1,,,1,0,,,,,3,2024,2023-24,div2,Mott,mottcommunitycollege,lukeellisswm6,Luke Ellis
+Mar 24,home,Bryant & Stratton College (WI),W,7-1,7,1,6,win,20240324_er7x,3,0,0,,,,0,,1,,,,,,0,0,,,,,3,2024,2023-24,div2,Mott,mottcommunitycollege,lukeellisswm6,Luke Ellis
+Mar 29,home,South Suburban,W,5-2,5,2,3,win,20240329_t5wr,3,1,2,,,,0,,,,,,,,2,0,,,,,3,2024,2023-24,div2,Mott,mottcommunitycollege,lukeellisswm6,Luke Ellis
+Mar 29,home,South Suburban,W,6-4,6,4,2,win,20240329_xdie,3,0,0,,,,0,,1,,,,,,0,0,,,,,3,2024,2023-24,div2,Mott,mottcommunitycollege,lukeellisswm6,Luke Ellis
+Mar 30,home,Sauk Valley,W,3-2,3,2,1,win,20240330_kk0b,2,0,0,,,,0,,,,,,,,0,0,,,,,2,2024,2023-24,div2,Mott,mottcommunitycollege,lukeellisswm6,Luke Ellis
+Mar 30,home,Sauk Valley,W,10-3,10,3,7,win,20240330_76cp,3,1,0,,,,0,,1,,,1,,,0,0,,,,,4,2024,2023-24,div2,Mott,mottcommunitycollege,lukeellisswm6,Luke Ellis
+Apr 5,home,Triton,W,6-5,6,5,1,win,20240405_eyd4,3,1,2,,,1,2,,,,,,,,5,1,,,,,3,2024,2023-24,div2,Mott,mottcommunitycollege,lukeellisswm6,Luke Ellis
+Apr 5,home,Triton,W,9-8,9,8,1,win,20240405_dzfx,2,1,2,1,,,1,1,,,1,,,,3,1,,,,,3,2024,2023-24,div2,Mott,mottcommunitycollege,lukeellisswm6,Luke Ellis
+Apr 6,home,Kishwaukee,W,13-3,13,3,10,win,20240406_5ubg,3,2,2,,,,1,,,,,,,,2,0,,,,,3,2024,2023-24,div2,Mott,mottcommunitycollege,lukeellisswm6,Luke Ellis
+Apr 6,home,Kishwaukee,W,6-3,6,3,3,win,20240406_r3lb,2,0,0,,,,0,,,,,,,,0,0,,,,,2,2024,2023-24,div2,Mott,mottcommunitycollege,lukeellisswm6,Luke Ellis
+Apr 7,home,Joliet,W,6-1,6,1,5,win,20240407_llz7,1,1,1,,,,0,1,,,,,,,1,0,,,,,2,2024,2023-24,div2,Mott,mottcommunitycollege,lukeellisswm6,Luke Ellis
+Apr 9,home,Kishwaukee,W,11-0,11,0,11,win,20240409_8laf,3,1,1,,,,0,,,1,,,,,1,0,,,,,3,2024,2023-24,div2,Mott,mottcommunitycollege,lukeellisswm6,Luke Ellis
+Apr 9,home,Kishwaukee,W,10-2,10,2,8,win,20240409_rdkl,0,0,0,,,,0,,,,,,,,0,0,,,,,0,2024,2023-24,div2,Mott,mottcommunitycollege,lukeellisswm6,Luke Ellis
+Apr 13,home,Illinois Valley,W,7-3,7,3,4,win,20240413_1v9p,4,0,2,1,,,1,,,2,,,,,3,1,,,,,4,2024,2023-24,div2,Mott,mottcommunitycollege,lukeellisswm6,Luke Ellis
+Apr 14,home,Madison,W,6-0,6,0,6,win,20240414_wkw0,2,1,2,,,,0,,,,,1,,,2,0,,,,,3,2024,2023-24,div2,Mott,mottcommunitycollege,lukeellisswm6,Luke Ellis
+Apr 20,home,Highland (IL),W,4-2,4,2,2,win,20240420_rep5,1,1,0,,,,0,1,1,,,1,,,0,0,,,,,3,2024,2023-24,div2,Mott,mottcommunitycollege,lukeellisswm6,Luke Ellis
+Apr 21,home,Oakton,W,6-5,6,5,1,win,20240421_kz2g,2,0,0,,,,0,1,,,,,,,0,0,,,,,3,2024,2023-24,div2,Mott,mottcommunitycollege,lukeellisswm6,Luke Ellis
+Apr 23,home,Highland (IL),W,9-6,9,6,3,win,20240423_7815,3,0,1,,,,0,,1,,,,,,1,0,,,,,3,2024,2023-24,div2,Mott,mottcommunitycollege,lukeellisswm6,Luke Ellis
+Apr 27,home,Carl Sandburg,W,5-3,5,3,2,win,20240427_v7wt,3,2,0,,,,0,,,,,,,,0,0,,,,,3,2024,2023-24,div2,Mott,mottcommunitycollege,lukeellisswm6,Luke Ellis
+Apr 27,home,Carl Sandburg,W,11-1,11,1,10,win,20240427_vcow,4,1,1,,,,1,,,,,,,,1,0,,,,,4,2024,2023-24,div2,Mott,mottcommunitycollege,lukeellisswm6,Luke Ellis
+Apr 29,home,Sauk Valley,W,3-2,3,2,1,win,20240429_pmua,3,0,0,,,,0,,2,,,,,,0,0,,,,,3,2024,2023-24,div2,Mott,mottcommunitycollege,lukeellisswm6,Luke Ellis
+Apr 29,home,Sauk Valley,W,13-2,13,2,11,win,20240429_zyo2,4,1,2,,,,1,1,1,,,,,,2,0,,,,,5,2024,2023-24,div2,Mott,mottcommunitycollege,lukeellisswm6,Luke Ellis
+May 1,home,Waubonsee,W,11-1,11,1,10,win,20240501_livn,2,1,0,,,,0,2,,,,,,,0,0,,,,,4,2024,2023-24,div2,Mott,mottcommunitycollege,lukeellisswm6,Luke Ellis
+May 4,home,Elgin,W,6-2,6,2,4,win,20240504_h5ne,3,1,1,,,,0,,1,,,,,,1,0,,,,,3,2024,2023-24,div2,Mott,mottcommunitycollege,lukeellisswm6,Luke Ellis
+May 4,home,Elgin,W,15-5,15,5,10,win,20240504_tjha,1,3,1,1,,,1,2,,,,,,,2,1,,,,,3,2024,2023-24,div2,Mott,mottcommunitycollege,lukeellisswm6,Luke Ellis
+May 10,home,Bryant & Stratton College (WI),W,6-3,6,3,3,win,20240510_71hj,4,0,0,,,,0,,1,,,,,,0,0,,,,,4,2024,2023-24,div2,Mott,mottcommunitycollege,lukeellisswm6,Luke Ellis
+May 10,home,Milwaukee Area Tech,W,9-4,9,4,5,win,20240510_271n,5,1,1,,,,0,,1,,,,,,1,0,,,,,5,2024,2023-24,div2,Mott,mottcommunitycollege,lukeellisswm6,Luke Ellis
+May 11,home,Bryant & Stratton College (WI),W,11-10,11,10,1,win,20240511_843z,4,2,1,1,,,1,1,1,,,,,,2,1,,,,,5,2024,2023-24,div2,Mott,mottcommunitycollege,lukeellisswm6,Luke Ellis

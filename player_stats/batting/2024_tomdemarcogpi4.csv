@@ -1,21 +1,4 @@
 date,location,opponent,result,score,team_score,opp_score,game_score_diff,game_win_loss,game_id,AB,R,H,2B,3B,HR,RBI,BB,K,SB,CS,HBP,SF,SH,TB,XBH,HDP,GO,FO,GO/FO,PA,season,njcaa_season,njcaa_division,team,team_id,player_id,player_name
-Mar 1,home,Salem,W,7-5,7,5,2,win,20240301_1vt4,3,2,1,,,,0,2,1,2,,,,1,1,0,,,,,6,2024,2023-24,div3,Ocean County,oceancountycollege,tomdemarcogpi4,Tom DeMarco
-Mar 13,home,Montgomery,W,15-1,15,1,14,win,20240313_rumx,3,4,2,,,,0,,,,,,,,2,0,,,,,3,2024,2023-24,div3,Ocean County,oceancountycollege,tomdemarcogpi4,Tom DeMarco
-Mar 13,home,Colby Sawyer College,W,14-3,14,3,11,win,20240313_4os5,5,0,0,,,,0,,,,,,,,0,0,,,,,5,2024,2023-24,div3,Ocean County,oceancountycollege,tomdemarcogpi4,Tom DeMarco
-Mar 17,home,CCBC Dundalk,W,10-3,10,3,7,win,20240317_6tuv,5,1,2,,,,0,,,2,,,,,2,0,,,,,5,2024,2023-24,div3,Ocean County,oceancountycollege,tomdemarcogpi4,Tom DeMarco
-Mar 19,home,Delaware County,W,23-0,23,0,23,win,20240319_dzcy,6,4,3,,,,1,2,,2,,,,,3,0,,,,,8,2024,2023-24,div3,Ocean County,oceancountycollege,tomdemarcogpi4,Tom DeMarco
-Mar 19,home,Delaware County,W,20-0,20,0,20,win,20240319_4xyv,4,2,1,,,,1,,,4,,,,,1,0,,,,,4,2024,2023-24,div3,Ocean County,oceancountycollege,tomdemarcogpi4,Tom DeMarco
-Mar 22,home,Union,W,17-8,17,8,9,win,20240322_ufmp,4,4,2,1,,,0,1,,1,,,,,3,1,,,,,5,2024,2023-24,div3,Ocean County,oceancountycollege,tomdemarcogpi4,Tom DeMarco
-Mar 27,home,Brookdale,W,8-1,8,1,7,win,20240327_g7cj,2,2,1,1,,,0,,,1,,,,,2,1,,,,,2,2024,2023-24,div3,Ocean County,oceancountycollege,tomdemarcogpi4,Tom DeMarco
-Mar 30,home,Middlesex College,W,11-7,11,7,4,win,20240330_n7k5,3,2,2,1,,,2,1,,1,,,,,3,1,,,,,4,2024,2023-24,div3,Ocean County,oceancountycollege,tomdemarcogpi4,Tom DeMarco
-Apr 1,home,Bergen,W,18-6,18,6,12,win,20240401_hsdl,5,1,3,,,,1,,1,1,1,1,,,3,0,,1,,,6,2024,2023-24,div3,Ocean County,oceancountycollege,tomdemarcogpi4,Tom DeMarco
-Apr 9,home,Union,W,3-2,3,2,1,win,20240409_5iev,3,0,0,,,,0,,,1,,,,,0,0,,,,,3,2024,2023-24,div3,Ocean County,oceancountycollege,tomdemarcogpi4,Tom DeMarco
-Apr 9,home,Union,W,4-2,4,2,2,win,20240409_ou21,3,1,1,,,,1,1,,,,,,,1,0,,,,,4,2024,2023-24,div3,Ocean County,oceancountycollege,tomdemarcogpi4,Tom DeMarco
-Apr 14,home,Bergen,W,14-12,14,12,2,win,20240414_pwcl,3,3,2,,,,2,1,,2,,,,,2,0,,,,,4,2024,2023-24,div3,Ocean County,oceancountycollege,tomdemarcogpi4,Tom DeMarco
-Apr 14,home,Bergen,W,27-10,27,10,17,win,20240414_kxoe,6,5,6,1,,1,5,,,2,,,,,10,2,,,,,6,2024,2023-24,div3,Ocean County,oceancountycollege,tomdemarcogpi4,Tom DeMarco
-Apr 19,home,Lehigh Carbon,W,3-1,3,1,2,win,20240419_hxiu,4,1,1,,,,0,,,,,,,,1,0,,,,,4,2024,2023-24,div3,Ocean County,oceancountycollege,tomdemarcogpi4,Tom DeMarco
-Apr 20,home,Lehigh Carbon,W,8-7,8,7,1,win,20240420_34kn,5,0,3,,,,0,,,1,,,,,3,0,,,,,5,2024,2023-24,div3,Ocean County,oceancountycollege,tomdemarcogpi4,Tom DeMarco
-Apr 20,home,Lehigh Carbon,W,7-1,7,1,6,win,20240420_i1bt,3,1,2,,,,1,,1,,,,,,2,0,,,,,3,2024,2023-24,div3,Ocean County,oceancountycollege,tomdemarcogpi4,Tom DeMarco
-Apr 27,home,Northampton,W,6-5,6,5,1,win,20240427_cyfj,4,2,1,,,,0,,,,,,,,1,0,,,,,4,2024,2023-24,div3,Ocean County,oceancountycollege,tomdemarcogpi4,Tom DeMarco
-Apr 30,home,RCSJ Cumberland,W,5-4,5,4,1,win,20240430_tlyi,2,1,1,,,,0,1,,,,,,,1,0,,,,,3,2024,2023-24,div3,Ocean County,oceancountycollege,tomdemarcogpi4,Tom DeMarco
-May 3,home,Montgomery County,W,19-3,19,3,16,win,20240503_av4l,2,2,1,,,,2,1,,,,,,,1,0,,,,,3,2024,2023-24,div3,Ocean County,oceancountycollege,tomdemarcogpi4,Tom DeMarco
+Mar 3,home,New River,W,8-0,8,0,8,win,20240303_pj5g,0,0,0,,,,0,,,,,,,,0,0,,,,,0,2024,2023-24,div3,Ocean County,oceancountycollege,tomdemarcogpi4,Tom DeMarco
+Mar 7,home,St. Clair County,W,13-6,13,6,7,win,20240307_ax4z,0,0,0,,,,0,,,,,,,,0,0,,,,,0,2024,2023-24,div3,Ocean County,oceancountycollege,tomdemarcogpi4,Tom DeMarco
+Mar 18,home,Holy Family University,W,23-8,23,8,15,win,20240318_este,1,1,1,1,,,0,,,,,,,,2,1,,,,,1,2024,2023-24,div3,Ocean County,oceancountycollege,tomdemarcogpi4,Tom DeMarco

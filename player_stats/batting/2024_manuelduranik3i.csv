@@ -1,13 +1,34 @@
 date,location,opponent,result,score,team_score,opp_score,game_score_diff,game_win_loss,game_id,AB,R,H,2B,3B,HR,RBI,BB,K,SB,CS,HBP,SF,SH,TB,XBH,HDP,GO,FO,GO/FO,PA,season,njcaa_season,njcaa_division,team,team_id,player_id,player_name
-Feb 23,home,Roane State,W,10-6,10,6,4,win,20240223_9p1w,4,0,0,,,,0,,1,,,,,,0,0,,,,,4,2024,2023-24,div2,Highland (IL),highlandcommunitycollegeillinois,manuelduranik3i,Manuel Duran
-Mar 12,home,Clarke University,W,11-9,11,9,2,win,20240312_tixz,3,1,2,,,,1,,,,,,,,2,0,,,,,3,2024,2023-24,div2,Highland (IL),highlandcommunitycollegeillinois,manuelduranik3i,Manuel Duran
-Mar 13,home,Spoon River,W,16-0,16,0,16,win,20240313_u0bz,4,3,3,,,,3,,1,,,,,,3,0,,,,,4,2024,2023-24,div2,Highland (IL),highlandcommunitycollegeillinois,manuelduranik3i,Manuel Duran
-Mar 30,home,Carl Sandburg,W,12-11,12,11,1,win,20240330_e5jn,1,1,1,,,,1,1,,,,,,,1,0,,,,,2,2024,2023-24,div2,Highland (IL),highlandcommunitycollegeillinois,manuelduranik3i,Manuel Duran
-Mar 30,home,Carl Sandburg,W,10-5,10,5,5,win,20240330_xle0,4,0,1,,,,1,,,,,,,,1,0,,,,,4,2024,2023-24,div2,Highland (IL),highlandcommunitycollegeillinois,manuelduranik3i,Manuel Duran
-Apr 6,home,Illinois Valley,W,9-4,9,4,5,win,20240406_twtp,4,0,0,,,,0,,1,,,,,,0,0,,,,,4,2024,2023-24,div2,Highland (IL),highlandcommunitycollegeillinois,manuelduranik3i,Manuel Duran
-Apr 17,home,Prairie State,W,12-9,12,9,3,win,20240417_22r3,3,2,2,,,,2,,,,,,,,2,0,,,,,3,2024,2023-24,div2,Highland (IL),highlandcommunitycollegeillinois,manuelduranik3i,Manuel Duran
-Apr 29,home,Rockford University JV,W,7-6,7,6,1,win,20240429_4vww,4,1,2,,,,1,,,,,,,,2,0,,,,,4,2024,2023-24,div2,Highland (IL),highlandcommunitycollegeillinois,manuelduranik3i,Manuel Duran
-Apr 30,home,Kishwaukee,W,10-1,10,1,9,win,20240430_foja,3,1,0,,,,0,1,,,,,,,0,0,,,,,4,2024,2023-24,div2,Highland (IL),highlandcommunitycollegeillinois,manuelduranik3i,Manuel Duran
-May 5,home,Rockford University JV,W,11-2,11,2,9,win,20240505_ndt8,4,2,2,1,,,2,,,,,,,,3,1,,,,,4,2024,2023-24,div2,Highland (IL),highlandcommunitycollegeillinois,manuelduranik3i,Manuel Duran
-May 5,home,Rockford University JV,W,7-6,7,6,1,win,20240505_m2b3,4,1,2,1,,,1,,,,,1,,,3,1,,,,,5,2024,2023-24,div2,Highland (IL),highlandcommunitycollegeillinois,manuelduranik3i,Manuel Duran
-May 10,home,Kankakee,W,10-9,10,9,1,win,20240510_cz3r,5,1,2,,,,1,,1,,,,,,2,0,,,,,5,2024,2023-24,div2,Highland (IL),highlandcommunitycollegeillinois,manuelduranik3i,Manuel Duran
+Mar 2,home,Moraine Valley,W,14-4,14,4,10,win,20240302_1fhu,4,1,1,,,,0,,1,,,1,,,1,0,,,,,5,2024,2023-24,div2,Highland (IL),highlandcommunitycollegeillinois,manuelduranik3i,Manuel Duran
+Mar 7,home,Milwaukee Area Tech,W,9-2,9,2,7,win,20240307_oob1,3,1,1,,,,1,1,,,,,,,1,0,,,,,4,2024,2023-24,div2,Highland (IL),highlandcommunitycollegeillinois,manuelduranik3i,Manuel Duran
+Mar 9,home,Harper,W,4-1,4,1,3,win,20240309_mpcz,1,0,1,,,,1,,,,,2,,,1,0,,,,,3,2024,2023-24,div2,Highland (IL),highlandcommunitycollegeillinois,manuelduranik3i,Manuel Duran
+Mar 12,home,SUNY Niagara,W,5-3,5,3,2,win,20240312_j71i,3,0,0,,,,0,,2,,,,,,0,0,,,,,3,2024,2023-24,div2,Highland (IL),highlandcommunitycollegeillinois,manuelduranik3i,Manuel Duran
+Mar 13,home,Rockland,W,7-3,7,3,4,win,20240313_e7cc,2,0,1,,,,0,1,,,,,,,1,0,,,,,3,2024,2023-24,div2,Highland (IL),highlandcommunitycollegeillinois,manuelduranik3i,Manuel Duran
+Mar 16,home,Rhode Island,W,10-0,10,0,10,win,20240316_fr28,2,2,1,,,,0,,,,,1,,,1,0,,,,,3,2024,2023-24,div2,Highland (IL),highlandcommunitycollegeillinois,manuelduranik3i,Manuel Duran
+Mar 24,home,Bryant & Stratton College (WI),W,7-1,7,1,6,win,20240324_er7x,3,0,0,,,,0,,1,,,,,,0,0,,,,,3,2024,2023-24,div2,Highland (IL),highlandcommunitycollegeillinois,manuelduranik3i,Manuel Duran
+Mar 29,home,South Suburban,W,5-2,5,2,3,win,20240329_t5wr,3,1,2,,,,0,,,,,,,,2,0,,,,,3,2024,2023-24,div2,Highland (IL),highlandcommunitycollegeillinois,manuelduranik3i,Manuel Duran
+Mar 29,home,South Suburban,W,6-4,6,4,2,win,20240329_xdie,3,0,0,,,,0,,1,,,,,,0,0,,,,,3,2024,2023-24,div2,Highland (IL),highlandcommunitycollegeillinois,manuelduranik3i,Manuel Duran
+Mar 30,home,Sauk Valley,W,3-2,3,2,1,win,20240330_kk0b,2,0,0,,,,0,,,,,,,,0,0,,,,,2,2024,2023-24,div2,Highland (IL),highlandcommunitycollegeillinois,manuelduranik3i,Manuel Duran
+Mar 30,home,Sauk Valley,W,10-3,10,3,7,win,20240330_76cp,3,1,0,,,,0,,1,,,1,,,0,0,,,,,4,2024,2023-24,div2,Highland (IL),highlandcommunitycollegeillinois,manuelduranik3i,Manuel Duran
+Apr 5,home,Triton,W,6-5,6,5,1,win,20240405_eyd4,3,1,2,,,1,2,,,,,,,,5,1,,,,,3,2024,2023-24,div2,Highland (IL),highlandcommunitycollegeillinois,manuelduranik3i,Manuel Duran
+Apr 5,home,Triton,W,9-8,9,8,1,win,20240405_dzfx,2,1,2,1,,,1,1,,,1,,,,3,1,,,,,3,2024,2023-24,div2,Highland (IL),highlandcommunitycollegeillinois,manuelduranik3i,Manuel Duran
+Apr 6,home,Kishwaukee,W,13-3,13,3,10,win,20240406_5ubg,3,2,2,,,,1,,,,,,,,2,0,,,,,3,2024,2023-24,div2,Highland (IL),highlandcommunitycollegeillinois,manuelduranik3i,Manuel Duran
+Apr 6,home,Kishwaukee,W,6-3,6,3,3,win,20240406_r3lb,2,0,0,,,,0,,,,,,,,0,0,,,,,2,2024,2023-24,div2,Highland (IL),highlandcommunitycollegeillinois,manuelduranik3i,Manuel Duran
+Apr 7,home,Joliet,W,6-1,6,1,5,win,20240407_llz7,1,1,1,,,,0,1,,,,,,,1,0,,,,,2,2024,2023-24,div2,Highland (IL),highlandcommunitycollegeillinois,manuelduranik3i,Manuel Duran
+Apr 9,home,Kishwaukee,W,11-0,11,0,11,win,20240409_8laf,3,1,1,,,,0,,,1,,,,,1,0,,,,,3,2024,2023-24,div2,Highland (IL),highlandcommunitycollegeillinois,manuelduranik3i,Manuel Duran
+Apr 9,home,Kishwaukee,W,10-2,10,2,8,win,20240409_rdkl,0,0,0,,,,0,,,,,,,,0,0,,,,,0,2024,2023-24,div2,Highland (IL),highlandcommunitycollegeillinois,manuelduranik3i,Manuel Duran
+Apr 13,home,Illinois Valley,W,7-3,7,3,4,win,20240413_1v9p,4,0,2,1,,,1,,,2,,,,,3,1,,,,,4,2024,2023-24,div2,Highland (IL),highlandcommunitycollegeillinois,manuelduranik3i,Manuel Duran
+Apr 14,home,Madison,W,6-0,6,0,6,win,20240414_wkw0,2,1,2,,,,0,,,,,1,,,2,0,,,,,3,2024,2023-24,div2,Highland (IL),highlandcommunitycollegeillinois,manuelduranik3i,Manuel Duran
+Apr 20,home,Highland (IL),W,4-2,4,2,2,win,20240420_rep5,1,1,0,,,,0,1,1,,,1,,,0,0,,,,,3,2024,2023-24,div2,Highland (IL),highlandcommunitycollegeillinois,manuelduranik3i,Manuel Duran
+Apr 21,home,Oakton,W,6-5,6,5,1,win,20240421_kz2g,2,0,0,,,,0,1,,,,,,,0,0,,,,,3,2024,2023-24,div2,Highland (IL),highlandcommunitycollegeillinois,manuelduranik3i,Manuel Duran
+Apr 23,home,Highland (IL),W,9-6,9,6,3,win,20240423_7815,3,0,1,,,,0,,1,,,,,,1,0,,,,,3,2024,2023-24,div2,Highland (IL),highlandcommunitycollegeillinois,manuelduranik3i,Manuel Duran
+Apr 27,home,Carl Sandburg,W,5-3,5,3,2,win,20240427_v7wt,3,2,0,,,,0,,,,,,,,0,0,,,,,3,2024,2023-24,div2,Highland (IL),highlandcommunitycollegeillinois,manuelduranik3i,Manuel Duran
+Apr 27,home,Carl Sandburg,W,11-1,11,1,10,win,20240427_vcow,4,1,1,,,,1,,,,,,,,1,0,,,,,4,2024,2023-24,div2,Highland (IL),highlandcommunitycollegeillinois,manuelduranik3i,Manuel Duran
+Apr 29,home,Sauk Valley,W,3-2,3,2,1,win,20240429_pmua,3,0,0,,,,0,,2,,,,,,0,0,,,,,3,2024,2023-24,div2,Highland (IL),highlandcommunitycollegeillinois,manuelduranik3i,Manuel Duran
+Apr 29,home,Sauk Valley,W,13-2,13,2,11,win,20240429_zyo2,4,1,2,,,,1,1,1,,,,,,2,0,,,,,5,2024,2023-24,div2,Highland (IL),highlandcommunitycollegeillinois,manuelduranik3i,Manuel Duran
+May 1,home,Waubonsee,W,11-1,11,1,10,win,20240501_livn,2,1,0,,,,0,2,,,,,,,0,0,,,,,4,2024,2023-24,div2,Highland (IL),highlandcommunitycollegeillinois,manuelduranik3i,Manuel Duran
+May 4,home,Elgin,W,6-2,6,2,4,win,20240504_h5ne,3,1,1,,,,0,,1,,,,,,1,0,,,,,3,2024,2023-24,div2,Highland (IL),highlandcommunitycollegeillinois,manuelduranik3i,Manuel Duran
+May 4,home,Elgin,W,15-5,15,5,10,win,20240504_tjha,1,3,1,1,,,1,2,,,,,,,2,1,,,,,3,2024,2023-24,div2,Highland (IL),highlandcommunitycollegeillinois,manuelduranik3i,Manuel Duran
+May 10,home,Bryant & Stratton College (WI),W,6-3,6,3,3,win,20240510_71hj,4,0,0,,,,0,,1,,,,,,0,0,,,,,4,2024,2023-24,div2,Highland (IL),highlandcommunitycollegeillinois,manuelduranik3i,Manuel Duran
+May 10,home,Milwaukee Area Tech,W,9-4,9,4,5,win,20240510_271n,5,1,1,,,,0,,1,,,,,,1,0,,,,,5,2024,2023-24,div2,Highland (IL),highlandcommunitycollegeillinois,manuelduranik3i,Manuel Duran
+May 11,home,Bryant & Stratton College (WI),W,11-10,11,10,1,win,20240511_843z,4,2,1,1,,,1,1,1,,,,,,2,1,,,,,5,2024,2023-24,div2,Highland (IL),highlandcommunitycollegeillinois,manuelduranik3i,Manuel Duran
