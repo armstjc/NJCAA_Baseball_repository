@@ -1,16 +1,9 @@
 date,location,opponent,result,score,team_score,opp_score,game_score_diff,game_win_loss,game_id,TC,PO,A,E,FPCT,DP,SBA,RCS,RCS_PCT,PB,CI,season,njcaa_season,njcaa_division,team,team_id,player_id,player_name
-Mar 2,home,Sauk Valley,L,15-4,15,4,11,win,20240302_3tjy,0,0,0,0,1.1,2,6,,0.00,3.75,3,2024,2023-24,div2,Prairie State,prairiestatecollege,richardmccallumtb56,Richard McCallum
-Mar 7,home,Olive-Harvey,W,4-2,4,2,2,win,20240307_l9w0,0,0,0,1,1.0,,,,0.00,,,2024,2023-24,div2,Prairie State,prairiestatecollege,richardmccallumtb56,Richard McCallum
-Mar 12,home,Holyoke,W,10-4,10,4,6,win,20240312_39oq,0,0,0,0,1.0,,,,0.00,,,2024,2023-24,div2,Prairie State,prairiestatecollege,richardmccallumtb56,Richard McCallum
-Mar 14,home,SUNY Adirondack,L,10-3,10,3,7,win,20240314_7ze2,0,0,0,0,3.2,2,,,0.00,.55,,2024,2023-24,div2,Prairie State,prairiestatecollege,richardmccallumtb56,Richard McCallum
-Mar 21,home,Olive-Harvey,L,6-4,6,4,2,win,20240321_29l1,0,0,0,0,1.2,2,,,0.00,1.80,1,2024,2023-24,div2,Prairie State,prairiestatecollege,richardmccallumtb56,Richard McCallum
-Mar 25,home,Harper,L,9-1,9,1,8,win,20240325_hbmu,0,0,0,0,0.2,2,5,1,13.50,4.50,1,2024,2023-24,div2,Prairie State,prairiestatecollege,richardmccallumtb56,Richard McCallum
-Mar 29,home,Bryant & Stratton College (WI),L,12-1,12,1,11,win,20240329_cxkf,0,0,0,0,1.0,1,,,0.00,2.00,1,2024,2023-24,div2,Prairie State,prairiestatecollege,richardmccallumtb56,Richard McCallum
-Apr 10,home,Kankakee,L,13-7,13,7,6,win,20240410_xomq,0,0,1,0,0.2,1,4,4,54.00,6.00,3,2024,2023-24,div2,Prairie State,prairiestatecollege,richardmccallumtb56,Richard McCallum
-Apr 13,home,Lake County,L,6-1,6,1,5,win,20240413_9jlr,0,0,0,0,1.2,1,1,1,5.40,.60,,2024,2023-24,div2,Prairie State,prairiestatecollege,richardmccallumtb56,Richard McCallum
-Apr 16,home,Waubonsee,L,9-8,9,8,1,win,20240416_p96p,0,0,1,0,2.1,1,2,2,7.71,1.71,3,2024,2023-24,div2,Prairie State,prairiestatecollege,richardmccallumtb56,Richard McCallum
-Apr 21,home,Marian-Ancilla,W,15-1,15,1,14,win,20240421_81c9,0,0,0,0,1.1,,,,0.00,1.50,2,2024,2023-24,div2,Prairie State,prairiestatecollege,richardmccallumtb56,Richard McCallum
-Apr 22,home,Waubonsee,L,13-8,13,8,5,win,20240422_lmx4,0,0,0,0,0.1,1,2,2,54.00,3.00,,2024,2023-24,div2,Prairie State,prairiestatecollege,richardmccallumtb56,Richard McCallum
-Apr 25,home,Kennedy-King,W,10-0,10,0,10,win,20240425_u4pu,0,0,0,0,2.0,,,,0.00,,,2024,2023-24,div2,Prairie State,prairiestatecollege,richardmccallumtb56,Richard McCallum
-Apr 30,home,Rock Valley,L,10-4,10,4,6,win,20240430_p3s7,0,0,0,0,1.0,3,,,0.00,5.00,2,2024,2023-24,div2,Prairie State,prairiestatecollege,richardmccallumtb56,Richard McCallum
-May 5,home,Milwaukee Area Tech,L,4-2,4,2,2,win,20240505_4b6m,0,0,0,0,2.0,2,2,,0.00,2.00,2,2024,2023-24,div2,Prairie State,prairiestatecollege,richardmccallumtb56,Richard McCallum
+Feb 27,home,Black Hawk,W,7-2,7,2,5,win,20240227_nezl,0,1,0,0,3.0,2,1,1,3.00,1.67,3,2024,2023-24,div2,Prairie State,prairiestatecollege,richardmccallumtb56,Richard McCallum
+Mar 7,home,Bryant & Stratton College (WI),W,13-7,13,7,6,win,20240307_rxem,1,0,0,0,2.0,5,3,3,13.50,2.50,0,2024,2023-24,div2,Prairie State,prairiestatecollege,richardmccallumtb56,Richard McCallum
+Mar 12,home,Triton,W,16-6,16,6,10,win,20240312_wmzt,1,1,0,0,3.2,4,4,2,4.91,2.73,6,2024,2023-24,div2,Prairie State,prairiestatecollege,richardmccallumtb56,Richard McCallum
+Mar 19,home,Wabash Valley,L,23-11,23,11,12,win,20240319_iws7,1,0,1,0,1.0,2,4,4,36.00,6.00,4,2024,2023-24,div2,Prairie State,prairiestatecollege,richardmccallumtb56,Richard McCallum
+Apr 17,home,South Suburban,W,6-2,6,2,4,win,20240417_1g54,0,0,0,0,1.0,1,,,0.00,1.00,,2024,2023-24,div2,Prairie State,prairiestatecollege,richardmccallumtb56,Richard McCallum
+Apr 22,home,Carl Sandburg,W,14-1,14,1,13,win,20240422_483g,0,0,0,0,1.0,1,,,0.00,1.00,,2024,2023-24,div2,Prairie State,prairiestatecollege,richardmccallumtb56,Richard McCallum
+May 1,home,Lake Land,L,12-8,12,8,4,win,20240501_fc1b,1,0,0,0,3.0,5,5,5,15.00,2.33,2,2024,2023-24,div2,Prairie State,prairiestatecollege,richardmccallumtb56,Richard McCallum
+May 11,home,Spoon River,L,12-5,12,5,7,win,20240511_na5z,0,0,0,0,5.1,4,1,,0.00,1.31,3,2024,2023-24,div2,Prairie State,prairiestatecollege,richardmccallumtb56,Richard McCallum

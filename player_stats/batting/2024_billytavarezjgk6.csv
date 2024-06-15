@@ -1,37 +1,8 @@
 date,location,opponent,result,score,team_score,opp_score,game_score_diff,game_win_loss,game_id,AB,R,H,2B,3B,HR,RBI,BB,K,SB,CS,HBP,SF,SH,TB,XBH,HDP,GO,FO,GO/FO,PA,season,njcaa_season,njcaa_division,team,team_id,player_id,player_name
-Feb 7,home,Minnesota Post Grad,W,18-2,18,2,16,win,20240207_yzxc,4,2,3,1,,,3,,1,,,,,,4,1,,,,,4,2024,2023-24,div3,Queensborough,queensboroughcommunitycollege,billytavarezjgk6,Billy Tavarez
-Feb 26,home,Hamline University JV,W,13-1,13,1,12,win,20240226_w47q,4,1,2,1,1,0,1,0,0,0,0,0,0,0,5,2,,0,,,4,2024,2023-24,div3,Queensborough,queensboroughcommunitycollege,billytavarezjgk6,Billy Tavarez
-Feb 26,home,Hamline University JV,W,11-1,11,1,10,win,20240226_ezuk,3,0,2,0,0,0,0,0,0,0,1,0,0,0,2,0,,0,,,3,2024,2023-24,div3,Queensborough,queensboroughcommunitycollege,billytavarezjgk6,Billy Tavarez
-Mar 3,home,Marian-Ancilla,W,6-0,6,0,6,win,20240303_9fdl,3,1,1,,1,,1,,,,,,,,3,1,,,,,3,2024,2023-24,div3,Queensborough,queensboroughcommunitycollege,billytavarezjgk6,Billy Tavarez
-Mar 4,home,Mid Michigan,W,3-2,3,2,1,win,20240304_s5hr,3,1,1,,,,1,,1,,,,,,1,0,,,,,3,2024,2023-24,div3,Queensborough,queensboroughcommunitycollege,billytavarezjgk6,Billy Tavarez
-Mar 8,home,Genesee,W,10-6,10,6,4,win,20240308_sa2j,2,1,0,,,,0,2,1,,,1,,,0,0,,,,,5,2024,2023-24,div3,Queensborough,queensboroughcommunitycollege,billytavarezjgk6,Billy Tavarez
-Mar 9,home,Lakeland,W,5-0,5,0,5,win,20240309_hqsf,2,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,,0,,,4,2024,2023-24,div3,Queensborough,queensboroughcommunitycollege,billytavarezjgk6,Billy Tavarez
-Mar 9,home,Waubonsee,W,7-5,7,5,2,win,20240309_8mjq,3,3,2,,,,0,1,,,,,,,2,0,,,,,4,2024,2023-24,div3,Queensborough,queensboroughcommunitycollege,billytavarezjgk6,Billy Tavarez
-Mar 10,home,SUNY Adirondack,W,6-5,6,5,1,win,20240310_wc6r,3,1,3,,,1,3,1,,1,,,,,6,1,,,,,4,2024,2023-24,div3,Queensborough,queensboroughcommunitycollege,billytavarezjgk6,Billy Tavarez
-Mar 16,home,Alexandria Tech,W,4-3,4,3,1,win,20240316_o67x,2,0,2,1,0,0,1,1,0,1,0,0,0,0,3,1,,0,,,3,2024,2023-24,div3,Queensborough,queensboroughcommunitycollege,billytavarezjgk6,Billy Tavarez
-Mar 19,home,Minnesota North College - Itasca,W,12-3,12,3,9,win,20240319_f0sz,3,0,2,,,,2,1,1,,,,,,2,0,,,,,4,2024,2023-24,div3,Queensborough,queensboroughcommunitycollege,billytavarezjgk6,Billy Tavarez
-Mar 19,home,Minnesota North College - Itasca,W,9-6,9,6,3,win,20240319_1wp5,3,0,0,,,,0,,1,,,,,,0,0,,,,,3,2024,2023-24,div3,Queensborough,queensboroughcommunitycollege,billytavarezjgk6,Billy Tavarez
-Mar 28,home,Gustavus Adolphus College,W,5-3,5,3,2,win,20240328_c595,3,0,1,0,0,0,0,1,2,0,0,0,0,1,1,0,,0,,,5,2024,2023-24,div3,Queensborough,queensboroughcommunitycollege,billytavarezjgk6,Billy Tavarez
-Mar 30,home,St. Cloud Tech,W,6-5,6,5,1,win,20240330_4sxj,2,2,0,0,0,0,1,2,0,2,0,0,0,0,0,0,,0,,,4,2024,2023-24,div3,Queensborough,queensboroughcommunitycollege,billytavarezjgk6,Billy Tavarez
-Apr 3,home,Bethany Lutheran College JV,W,8-2,8,2,6,win,20240403_k03n,2,2,2,0,0,1,1,2,0,0,0,0,0,0,5,1,,0,,,4,2024,2023-24,div3,Queensborough,queensboroughcommunitycollege,billytavarezjgk6,Billy Tavarez
-Apr 3,home,Bethany Lutheran College JV,W,12-9,12,9,3,win,20240403_p2ql,5,1,1,1,0,0,1,0,2,0,0,0,0,0,2,1,,0,,,5,2024,2023-24,div3,Queensborough,queensboroughcommunitycollege,billytavarezjgk6,Billy Tavarez
-Apr 5,home,Western Tech,W,5-2,5,2,3,win,20240405_3pcq,2,2,1,0,0,0,0,1,0,0,0,0,0,0,1,0,,0,,,3,2024,2023-24,div3,Queensborough,queensboroughcommunitycollege,billytavarezjgk6,Billy Tavarez
-Apr 6,home,Western Tech,W,15-4,15,4,11,win,20240406_j29f,3,3,2,0,0,0,2,0,0,0,0,1,0,0,2,0,,0,,,4,2024,2023-24,div3,Queensborough,queensboroughcommunitycollege,billytavarezjgk6,Billy Tavarez
-Apr 6,home,Western Tech,W,6-5,6,5,1,win,20240406_w553,4,2,3,0,0,0,2,0,0,1,0,0,0,0,3,0,,0,,,4,2024,2023-24,div3,Queensborough,queensboroughcommunitycollege,billytavarezjgk6,Billy Tavarez
-Apr 9,home,Northwestern University - St. Paul,W,13-8,13,8,5,win,20240409_5nmc,4,2,2,0,1,0,1,1,0,0,0,1,0,0,4,1,,0,,,6,2024,2023-24,div3,Queensborough,queensboroughcommunitycollege,billytavarezjgk6,Billy Tavarez
-Apr 13,home,Minnesota West,W,12-2,12,2,10,win,20240413_3jdm,3,2,1,0,0,0,1,0,0,0,0,1,0,0,1,0,,0,,,4,2024,2023-24,div3,Queensborough,queensboroughcommunitycollege,billytavarezjgk6,Billy Tavarez
-Apr 13,home,Minnesota West,W,11-6,11,6,5,win,20240413_y00i,3,1,1,0,0,0,0,1,1,0,0,0,0,0,1,0,,0,,,4,2024,2023-24,div3,Queensborough,queensboroughcommunitycollege,billytavarezjgk6,Billy Tavarez
-Apr 14,home,Minnesota West,W,20-9,20,9,11,win,20240414_g7b3,5,3,2,2,0,0,1,1,1,0,0,0,0,0,4,2,,0,,,6,2024,2023-24,div3,Queensborough,queensboroughcommunitycollege,billytavarezjgk6,Billy Tavarez
-Apr 21,home,Riverland,W,6-2,6,2,4,win,20240421_39p4,2,1,0,0,0,0,0,2,2,0,0,0,0,0,0,0,,0,,,4,2024,2023-24,div3,Queensborough,queensboroughcommunitycollege,billytavarezjgk6,Billy Tavarez
-Apr 21,home,Riverland,W,17-7,17,7,10,win,20240421_64xm,3,1,2,0,0,1,3,1,0,0,1,0,0,0,5,1,,0,,,4,2024,2023-24,div3,Queensborough,queensboroughcommunitycollege,billytavarezjgk6,Billy Tavarez
-Apr 24,home,Hamline University JV,W,11-8,11,8,3,win,20240424_3376,5,1,2,0,0,0,2,0,1,0,0,0,0,0,2,0,,0,,,5,2024,2023-24,div3,Queensborough,queensboroughcommunitycollege,billytavarezjgk6,Billy Tavarez
-Apr 24,home,Hamline University JV,W,13-7,13,7,6,win,20240424_um1i,3,2,1,0,0,0,0,1,2,0,0,0,0,0,1,0,,0,,,4,2024,2023-24,div3,Queensborough,queensboroughcommunitycollege,billytavarezjgk6,Billy Tavarez
-May 3,home,Minnesota Post Grad,W,19-5,19,5,14,win,20240503_o9km,4,3,3,2,0,0,2,0,1,0,0,0,0,0,5,2,,0,,,4,2024,2023-24,div3,Queensborough,queensboroughcommunitycollege,billytavarezjgk6,Billy Tavarez
-May 3,home,Minnesota Post Grad,W,13-1,13,1,12,win,20240503_q00m,2,1,2,0,0,0,0,1,0,0,0,1,0,0,2,0,,0,,,4,2024,2023-24,div3,Queensborough,queensboroughcommunitycollege,billytavarezjgk6,Billy Tavarez
-May 4,home,Minnesota Post Grad,W,12-2,12,2,10,win,20240504_dguu,4,2,2,1,0,0,1,0,0,1,0,0,0,0,3,1,,0,,,4,2024,2023-24,div3,Queensborough,queensboroughcommunitycollege,billytavarezjgk6,Billy Tavarez
-May 4,home,Minnesota Post Grad,W,11-5,11,5,6,win,20240504_t4o0,2,2,2,1,0,1,2,1,0,0,0,0,0,0,6,2,,0,,,3,2024,2023-24,div3,Queensborough,queensboroughcommunitycollege,billytavarezjgk6,Billy Tavarez
-May 9,home,Minnesota North College - Itasca,W,12-1,12,1,11,win,20240509_cq6t,5,1,3,1,0,0,4,0,0,0,0,0,0,0,4,1,,0,,,5,2024,2023-24,div3,Queensborough,queensboroughcommunitycollege,billytavarezjgk6,Billy Tavarez
-May 10,home,Alexandria Tech,W,10-9,10,9,1,win,20240510_pldm,4,1,0,0,0,0,0,1,1,0,0,0,0,0,0,0,,0,,,5,2024,2023-24,div3,Queensborough,queensboroughcommunitycollege,billytavarezjgk6,Billy Tavarez
-May 16,home,Rochester,W,7-6,7,6,1,win,20240516_zne2,3,1,1,0,0,0,0,0,2,0,0,1,0,0,1,0,,0,,,4,2024,2023-24,div3,Queensborough,queensboroughcommunitycollege,billytavarezjgk6,Billy Tavarez
-May 17,home,North Dakota SCS,W,10-0,10,0,10,win,20240517_3ab4,3,2,1,0,0,0,1,1,0,0,0,0,0,0,1,0,,0,,,4,2024,2023-24,div3,Queensborough,queensboroughcommunitycollege,billytavarezjgk6,Billy Tavarez
-May 18,home,St. Cloud Tech,W,9-6,9,6,3,win,20240518_n20m,5,1,1,0,0,0,0,0,1,0,0,0,0,0,1,0,,0,,,5,2024,2023-24,div3,Queensborough,queensboroughcommunitycollege,billytavarezjgk6,Billy Tavarez
+Mar 24,home,Suffolk County,W,7-5,7,5,2,win,20240324_z439,4,0,1,,,,0,,1,1,,,,,1,0,,,,,4,2024,2023-24,div3,Queensborough,queensboroughcommunitycollege,billytavarezjgk6,Billy Tavarez
+Mar 26,home,Borough of Manhattan,W,26-7,26,7,19,win,20240326_5ace,5,3,4,,,,6,1,,,,,,,4,0,,,,,6,2024,2023-24,div3,Queensborough,queensboroughcommunitycollege,billytavarezjgk6,Billy Tavarez
+Mar 30,home,Borough of Manhattan,W,10-1,10,1,9,win,20240330_9w8t,3,1,1,,,,0,,1,,,1,,,1,0,,,,,4,2024,2023-24,div3,Queensborough,queensboroughcommunitycollege,billytavarezjgk6,Billy Tavarez
+Apr 1,home,Borough of Manhattan,W,11-10,11,10,1,win,20240401_8vb9,5,1,1,1,,,1,1,3,,,,,,2,1,,,,,6,2024,2023-24,div3,Queensborough,queensboroughcommunitycollege,billytavarezjgk6,Billy Tavarez
+Apr 6,home,Kingsborough,W,6-4,6,4,2,win,20240406_xpqf,3,1,1,,,,0,,1,,,,,,1,0,,,,,3,2024,2023-24,div3,Queensborough,queensboroughcommunitycollege,billytavarezjgk6,Billy Tavarez
+Apr 21,home,Bronx,W,11-1,11,1,10,win,20240421_3eld,3,1,1,,,,2,,1,1,,,,,1,0,,,,,3,2024,2023-24,div3,Queensborough,queensboroughcommunitycollege,billytavarezjgk6,Billy Tavarez
+May 4,home,Monroe College - Bronx,W,6-4,6,4,2,win,20240504_c040,3,1,1,1,,,0,1,1,,,,,,2,1,,,,,4,2024,2023-24,div3,Queensborough,queensboroughcommunitycollege,billytavarezjgk6,Billy Tavarez

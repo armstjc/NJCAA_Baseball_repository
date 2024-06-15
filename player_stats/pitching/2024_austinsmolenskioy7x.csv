@@ -1,13 +1,9 @@
 date,location,opponent,result,score,team_score,opp_score,game_score_diff,game_win_loss,game_id,GS,W,L,SV,IP,H,R,ER,ERA,BB,K,HR,season,njcaa_season,njcaa_division,team,team_id,player_id,player_name
-May 7,home,Mott,W,7-2,7,2,5,win,20240507_ilpj,1,0,0,0,3.0,3,2,2,6.00,1.00,0,2,2024,2023-24,div2,Schoolcraft,schoolcraftcollege,austinsmolenskioy7x,Austin Smolenski
-May 2,home,Henry Ford,L,3-2,3,2,1,win,20240502_0hgi,1,0,1,0,6.0,4,3,0,0.00,1.00,2,5,2024,2023-24,div2,Schoolcraft,schoolcraftcollege,austinsmolenskioy7x,Austin Smolenski
-Apr 25,home,Jackson,L,2-1,2,1,1,win,20240425_gicr,1,0,1,0,6.0,4,2,0,0.00,1.00,2,4,2024,2023-24,div2,Schoolcraft,schoolcraftcollege,austinsmolenskioy7x,Austin Smolenski
-Apr 19,home,St. Clair County,W,7-3,7,3,4,win,20240419_iv26,1,0,0,0,4.1,5,3,3,6.23,1.62,2,4,2024,2023-24,div2,Schoolcraft,schoolcraftcollege,austinsmolenskioy7x,Austin Smolenski
-Apr 13,home,Macomb,L,15-5,15,5,10,win,20240413_erf4,1,0,1,0,5.0,4,6,1,1.80,1.80,5,1,2024,2023-24,div2,Schoolcraft,schoolcraftcollege,austinsmolenskioy7x,Austin Smolenski
-Apr 6,home,Mott,W,3-2,3,2,1,win,20240406_k1ml,1,1,0,0,6.0,4,1,1,1.50,1.50,5,5,2024,2023-24,div2,Schoolcraft,schoolcraftcollege,austinsmolenskioy7x,Austin Smolenski
-Mar 27,home,St. Clair County,W,5-2,5,2,3,win,20240327_rat6,1,0,0,0,4.0,1,2,2,4.50,1.50,5,5,2024,2023-24,div2,Schoolcraft,schoolcraftcollege,austinsmolenskioy7x,Austin Smolenski
-Mar 16,home,Glen Oaks,W,10-8,10,8,2,win,20240316_d6kx,1,0,0,0,4.0,6,5,1,2.25,2.75,5,0,2024,2023-24,div2,Schoolcraft,schoolcraftcollege,austinsmolenskioy7x,Austin Smolenski
-Mar 7,home,Minnesota North College - Vermilion,W,10-9,10,9,1,win,20240307_8gfe,1,0,0,0,4.0,8,7,5,11.25,3.00,4,5,2024,2023-24,div2,Schoolcraft,schoolcraftcollege,austinsmolenskioy7x,Austin Smolenski
-Mar 3,home,Alexandria Tech,W,5-4,5,4,1,win,20240303_19ad,1,1,0,0,3.2,3,3,3,7.36,1.09,1,3,2024,2023-24,div2,Schoolcraft,schoolcraftcollege,austinsmolenskioy7x,Austin Smolenski
-Feb 24,home,Chattanooga State,L,14-4,14,4,10,win,20240224_u9j6,1,0,1,0,3.2,4,6,4,9.82,2.18,4,1,2024,2023-24,div2,Schoolcraft,schoolcraftcollege,austinsmolenskioy7x,Austin Smolenski
-Feb 9,home,Kellogg,L,5-3,5,3,2,win,20240209_9etf,0,0,0,0,0.1,,,,0.00,,,,2024,2023-24,div2,Schoolcraft,schoolcraftcollege,austinsmolenskioy7x,Austin Smolenski
+May 11,home,Spoon River,L,12-5,12,5,7,win,20240511_na5z,0,0,0,0,5.1,4,1,,0.00,1.31,3,6,2024,2023-24,div2,Schoolcraft,schoolcraftcollege,austinsmolenskioy7x,Austin Smolenski
+May 1,home,Lake Land,L,12-8,12,8,4,win,20240501_fc1b,1,0,0,0,3.0,5,5,5,15.00,2.33,2,2,2024,2023-24,div2,Schoolcraft,schoolcraftcollege,austinsmolenskioy7x,Austin Smolenski
+Apr 22,home,Carl Sandburg,W,14-1,14,1,13,win,20240422_483g,0,0,0,0,1.0,1,,,0.00,1.00,,2,2024,2023-24,div2,Schoolcraft,schoolcraftcollege,austinsmolenskioy7x,Austin Smolenski
+Apr 17,home,South Suburban,W,6-2,6,2,4,win,20240417_1g54,0,0,0,0,1.0,1,,,0.00,1.00,,1,2024,2023-24,div2,Schoolcraft,schoolcraftcollege,austinsmolenskioy7x,Austin Smolenski
+Mar 19,home,Wabash Valley,L,23-11,23,11,12,win,20240319_iws7,1,0,1,0,1.0,2,4,4,36.00,6.00,4,0,2024,2023-24,div2,Schoolcraft,schoolcraftcollege,austinsmolenskioy7x,Austin Smolenski
+Mar 12,home,Triton,W,16-6,16,6,10,win,20240312_wmzt,1,1,0,0,3.2,4,4,2,4.91,2.73,6,4,2024,2023-24,div2,Schoolcraft,schoolcraftcollege,austinsmolenskioy7x,Austin Smolenski
+Mar 7,home,Bryant & Stratton College (WI),W,13-7,13,7,6,win,20240307_rxem,1,0,0,0,2.0,5,3,3,13.50,2.50,0,0,2024,2023-24,div2,Schoolcraft,schoolcraftcollege,austinsmolenskioy7x,Austin Smolenski
+Feb 27,home,Black Hawk,W,7-2,7,2,5,win,20240227_nezl,0,1,0,0,3.0,2,1,1,3.00,1.67,3,2,2024,2023-24,div2,Schoolcraft,schoolcraftcollege,austinsmolenskioy7x,Austin Smolenski

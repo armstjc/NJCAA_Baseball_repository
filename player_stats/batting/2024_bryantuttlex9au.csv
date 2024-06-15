@@ -1,25 +1,6 @@
 date,location,opponent,result,score,team_score,opp_score,game_score_diff,game_win_loss,game_id,AB,R,H,2B,3B,HR,RBI,BB,K,SB,CS,HBP,SF,SH,TB,XBH,HDP,GO,FO,GO/FO,PA,season,njcaa_season,njcaa_division,team,team_id,player_id,player_name
-Mar 3,home,Alexandria Tech,W,5-4,5,4,1,win,20240303_19ad,4,1,2,2,,,1,,1,,,,,,4,2,,,1,,4,2024,2023-24,div2,Schoolcraft,schoolcraftcollege,bryantuttlex9au,Bryan Tuttle
-Mar 3,home,Alexandria Tech,W,8-3,8,3,5,win,20240303_ig74,3,2,2,1,,,1,1,,1,,,,,3,1,,,1,,4,2024,2023-24,div2,Schoolcraft,schoolcraftcollege,bryantuttlex9au,Bryan Tuttle
-Mar 4,home,Bryant & Stratton (OH),W,3-2,3,2,1,win,20240304_41i2,3,0,0,,,,0,,1,,,,,,0,0,,,2,,3,2024,2023-24,div2,Schoolcraft,schoolcraftcollege,bryantuttlex9au,Bryan Tuttle
-Mar 4,home,Bryant & Stratton (OH),W,9-3,9,3,6,win,20240304_zz2p,4,1,1,,1,,0,,2,,,,,,3,1,,1,,,4,2024,2023-24,div2,Schoolcraft,schoolcraftcollege,bryantuttlex9au,Bryan Tuttle
-Mar 5,home,Penn State Fayette,W,4-3,4,3,1,win,20240305_fx6c,4,0,2,,,,2,1,1,,,,,,2,0,,1,,,5,2024,2023-24,div2,Schoolcraft,schoolcraftcollege,bryantuttlex9au,Bryan Tuttle
-Mar 6,home,SUNY Niagara,W,8-7,8,7,1,win,20240306_g1xz,5,0,0,,,,0,,4,,,,,,0,0,,,1,,5,2024,2023-24,div2,Schoolcraft,schoolcraftcollege,bryantuttlex9au,Bryan Tuttle
-Mar 7,home,Erie,W,6-1,6,1,5,win,20240307_xhip,3,2,1,,,1,1,2,,1,,,,,4,1,,,2,,5,2024,2023-24,div2,Schoolcraft,schoolcraftcollege,bryantuttlex9au,Bryan Tuttle
-Mar 12,home,Edison State,W,7-4,7,4,3,win,20240312_den5,4,0,3,1,,,2,,,,,,,,4,1,,,1,,4,2024,2023-24,div2,Schoolcraft,schoolcraftcollege,bryantuttlex9au,Bryan Tuttle
-Mar 12,home,Edison State,W,6-5,6,5,1,win,20240312_9oe4,2,1,1,1,,,0,1,,,,1,,,2,1,,1,,,4,2024,2023-24,div2,Schoolcraft,schoolcraftcollege,bryantuttlex9au,Bryan Tuttle
-Mar 16,home,Glen Oaks,W,10-8,10,8,2,win,20240316_d6kx,3,0,0,,,,1,1,,,,,1,,0,0,,3,1,3.00,5,2024,2023-24,div2,Schoolcraft,schoolcraftcollege,bryantuttlex9au,Bryan Tuttle
-Mar 16,home,Glen Oaks,W,13-1,13,1,12,win,20240316_wf7h,3,1,1,,,,0,,1,,,,,,1,0,,,1,,3,2024,2023-24,div2,Schoolcraft,schoolcraftcollege,bryantuttlex9au,Bryan Tuttle
-Mar 27,home,St. Clair County,W,5-2,5,2,3,win,20240327_rat6,3,1,1,,,,0,2,,2,,,,,1,0,,1,1,1.00,5,2024,2023-24,div2,Schoolcraft,schoolcraftcollege,bryantuttlex9au,Bryan Tuttle
-Mar 30,home,Henry Ford,W,13-0,13,0,13,win,20240330_tct5,3,1,1,,,,2,,,,,,,,1,0,,,1,,3,2024,2023-24,div2,Schoolcraft,schoolcraftcollege,bryantuttlex9au,Bryan Tuttle
-Apr 6,home,Mott,W,3-2,3,2,1,win,20240406_k1ml,2,1,1,1,,,0,1,,,,,,,2,1,,1,,,3,2024,2023-24,div2,Schoolcraft,schoolcraftcollege,bryantuttlex9au,Bryan Tuttle
-Apr 7,home,Mott,W,11-1,11,1,10,win,20240407_exde,2,2,2,2,,,1,2,,,,,,,4,2,,,,,4,2024,2023-24,div2,Schoolcraft,schoolcraftcollege,bryantuttlex9au,Bryan Tuttle
-Apr 13,home,Macomb,W,4-3,4,3,1,win,20240413_pg9i,3,1,1,,,,0,,,,,,,,1,0,,1,1,1.00,3,2024,2023-24,div2,Schoolcraft,schoolcraftcollege,bryantuttlex9au,Bryan Tuttle
-Apr 15,home,Albion College JV,W,16-11,16,11,5,win,20240415_kbdw,0,0,0,,,,0,,,,,,,,0,0,,,,,0,2024,2023-24,div2,Schoolcraft,schoolcraftcollege,bryantuttlex9au,Bryan Tuttle
-Apr 19,home,St. Clair County,W,8-2,8,2,6,win,20240419_mlmr,3,0,0,,,,0,1,1,,,,,,0,0,,,2,,4,2024,2023-24,div2,Schoolcraft,schoolcraftcollege,bryantuttlex9au,Bryan Tuttle
-Apr 19,home,St. Clair County,W,7-3,7,3,4,win,20240419_iv26,3,0,2,1,,,3,,1,,,,1,,3,1,,,1,,4,2024,2023-24,div2,Schoolcraft,schoolcraftcollege,bryantuttlex9au,Bryan Tuttle
-Apr 20,home,St. Clair County,W,8-4,8,4,4,win,20240420_gqaq,4,0,0,,,,0,,2,,,,,,0,0,,2,,,4,2024,2023-24,div2,Schoolcraft,schoolcraftcollege,bryantuttlex9au,Bryan Tuttle
-Apr 20,home,St. Clair County,W,12-4,12,4,8,win,20240420_u3f1,4,1,1,1,,,0,,,,,,,,2,1,,,3,,4,2024,2023-24,div2,Schoolcraft,schoolcraftcollege,bryantuttlex9au,Bryan Tuttle
-Apr 23,home,Muskegon,W,10-4,10,4,6,win,20240423_uh1l,4,1,1,,,,1,,,,,,,,1,0,,1,1,1.00,4,2024,2023-24,div2,Schoolcraft,schoolcraftcollege,bryantuttlex9au,Bryan Tuttle
-May 2,home,Henry Ford,W,7-0,7,0,7,win,20240502_cnf4,3,1,0,,,,0,1,1,,,,,,0,0,1,1,1,1.00,4,2024,2023-24,div2,Schoolcraft,schoolcraftcollege,bryantuttlex9au,Bryan Tuttle
-May 7,home,Mott,W,7-2,7,2,5,win,20240507_ilpj,4,1,2,,,1,2,,,,,,,,5,1,,1,1,1.00,4,2024,2023-24,div2,Schoolcraft,schoolcraftcollege,bryantuttlex9au,Bryan Tuttle
+Feb 27,home,Black Hawk,W,7-2,7,2,5,win,20240227_nezl,0,0,0,,,,0,,,,,,,,0,0,,,,,0,2024,2023-24,div2,Schoolcraft,schoolcraftcollege,bryantuttlex9au,Bryan Tuttle
+Mar 7,home,Bryant & Stratton College (WI),W,13-7,13,7,6,win,20240307_rxem,0,0,0,,,,0,,,,,,,,0,0,,,,,0,2024,2023-24,div2,Schoolcraft,schoolcraftcollege,bryantuttlex9au,Bryan Tuttle
+Mar 12,home,Triton,W,16-6,16,6,10,win,20240312_wmzt,0,0,0,,,,0,,,,,,,,0,0,,,,,0,2024,2023-24,div2,Schoolcraft,schoolcraftcollege,bryantuttlex9au,Bryan Tuttle
+Apr 17,home,South Suburban,W,6-2,6,2,4,win,20240417_1g54,0,0,0,,,,0,,,,,,,,0,0,,,,,0,2024,2023-24,div2,Schoolcraft,schoolcraftcollege,bryantuttlex9au,Bryan Tuttle
+Apr 22,home,Carl Sandburg,W,14-1,14,1,13,win,20240422_483g,0,0,0,,,,0,,,,,,,,0,0,,,,,0,2024,2023-24,div2,Schoolcraft,schoolcraftcollege,bryantuttlex9au,Bryan Tuttle

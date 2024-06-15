@@ -1,6 +1,54 @@
 date,location,opponent,result,score,team_score,opp_score,game_score_diff,game_win_loss,game_id,TC,PO,A,E,FPCT,DP,SBA,RCS,RCS_PCT,PB,CI,season,njcaa_season,njcaa_division,team,team_id,player_id,player_name
-Mar 5,home,Tompkins Cortland,W,12-3,12,3,9,win,20240305_sd11,0,0,0,0,1.0,,1,1,9.00,3.00,3,2024,2023-24,div3,Northampton,northamptoncommunitycollege,alexanderruizr9fv,Alexander Ruiz
-Apr 7,home,Herkimer,L,8-2,8,2,6,win,20240407_bpyq,0,0,0,0,1.0,1,1,1,9.00,2.00,1,2024,2023-24,div3,Northampton,northamptoncommunitycollege,alexanderruizr9fv,Alexander Ruiz
-Apr 25,home,Jefferson (NY),W,9-2,9,2,7,win,20240425_0u4c,0,0,0,0,1.0,,,,0.00,,,2024,2023-24,div3,Northampton,northamptoncommunitycollege,alexanderruizr9fv,Alexander Ruiz
-May 2,home,Corning,W,12-0,12,0,12,win,20240502_7xrp,1,1,0,0,6.0,5,1,1,1.50,.83,0,2024,2023-24,div3,Northampton,northamptoncommunitycollege,alexanderruizr9fv,Alexander Ruiz
-May 7,home,Mohawk Valley,W,12-6,12,6,6,win,20240507_8goa,0,1,0,0,2.0,3,,,0.00,1.50,,2024,2023-24,div3,Northampton,northamptoncommunitycollege,alexanderruizr9fv,Alexander Ruiz
+Feb 25,home,Kingsborough,W,11-6,11,6,5,win,20240225_yf95,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div3,Northampton,northamptoncommunitycollege,alexanderruizr9fv,Alexander Ruiz
+Feb 25,home,Kingsborough,W,5-4,5,4,1,win,20240225_arr6,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div3,Northampton,northamptoncommunitycollege,alexanderruizr9fv,Alexander Ruiz
+Mar 2,home,Penn State Dubois,W,5-4,5,4,1,win,20240302_4rmf,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div3,Northampton,northamptoncommunitycollege,alexanderruizr9fv,Alexander Ruiz
+Mar 2,home,Penn State Schuylkill,W,11-0,11,0,11,win,20240302_rpt9,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div3,Northampton,northamptoncommunitycollege,alexanderruizr9fv,Alexander Ruiz
+Mar 3,home,New River,W,8-0,8,0,8,win,20240303_pj5g,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div3,Northampton,northamptoncommunitycollege,alexanderruizr9fv,Alexander Ruiz
+Mar 3,home,DuPage,L,4-1,4,1,3,win,20240303_pa5b,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div3,Northampton,northamptoncommunitycollege,alexanderruizr9fv,Alexander Ruiz
+Mar 4,home,Bay College,W,12-2,12,2,10,win,20240304_82ox,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div3,Northampton,northamptoncommunitycollege,alexanderruizr9fv,Alexander Ruiz
+Mar 5,home,Muskegon,W,11-1,11,1,10,win,20240305_08yr,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div3,Northampton,northamptoncommunitycollege,alexanderruizr9fv,Alexander Ruiz
+Mar 5,home,Muskegon,W,4-0,4,0,4,win,20240305_g56a,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div3,Northampton,northamptoncommunitycollege,alexanderruizr9fv,Alexander Ruiz
+Mar 6,home,Minnesota North College - Itasca,W,8-4,8,4,4,win,20240306_cqo1,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div3,Northampton,northamptoncommunitycollege,alexanderruizr9fv,Alexander Ruiz
+Mar 7,home,St. Clair County,W,13-6,13,6,7,win,20240307_ax4z,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div3,Northampton,northamptoncommunitycollege,alexanderruizr9fv,Alexander Ruiz
+Mar 7,home,Minnesota North College - Itasca,W,3-2,3,2,1,win,20240307_cbql,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div3,Northampton,northamptoncommunitycollege,alexanderruizr9fv,Alexander Ruiz
+Mar 14,home,Salem,W,11-1,11,1,10,win,20240314_c1bp,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div3,Northampton,northamptoncommunitycollege,alexanderruizr9fv,Alexander Ruiz
+Mar 16,home,Salem,W,10-3,10,3,7,win,20240316_nj76,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div3,Northampton,northamptoncommunitycollege,alexanderruizr9fv,Alexander Ruiz
+Mar 16,home,Salem,W,8-1,8,1,7,win,20240316_guu6,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div3,Northampton,northamptoncommunitycollege,alexanderruizr9fv,Alexander Ruiz
+Mar 18,home,Holy Family University,W,23-8,23,8,15,win,20240318_este,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div3,Northampton,northamptoncommunitycollege,alexanderruizr9fv,Alexander Ruiz
+Mar 22,home,RCSJ Gloucester,L,6-2,6,2,4,win,20240322_c87a,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div3,Northampton,northamptoncommunitycollege,alexanderruizr9fv,Alexander Ruiz
+Mar 22,home,RCSJ Gloucester,W,6-3,6,3,3,win,20240322_h7lm,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div3,Northampton,northamptoncommunitycollege,alexanderruizr9fv,Alexander Ruiz
+Mar 25,home,RCSJ Gloucester,W,10-9,10,9,1,win,20240325_4104,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div3,Northampton,northamptoncommunitycollege,alexanderruizr9fv,Alexander Ruiz
+Mar 26,home,Middlesex College,W,10-1,10,1,9,win,20240326_n9z8,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div3,Northampton,northamptoncommunitycollege,alexanderruizr9fv,Alexander Ruiz
+Mar 27,home,Middlesex College,W,3-1,3,1,2,win,20240327_5fl5,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div3,Northampton,northamptoncommunitycollege,alexanderruizr9fv,Alexander Ruiz
+Mar 27,home,Middlesex College,L,7-2,7,2,5,win,20240327_g1kg,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div3,Northampton,northamptoncommunitycollege,alexanderruizr9fv,Alexander Ruiz
+Mar 29,home,Brookdale,L,7-3,7,3,4,win,20240329_njgf,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div3,Northampton,northamptoncommunitycollege,alexanderruizr9fv,Alexander Ruiz
+Mar 30,home,Brookdale,W,14-2,14,2,12,win,20240330_8s3d,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div3,Northampton,northamptoncommunitycollege,alexanderruizr9fv,Alexander Ruiz
+Mar 30,home,Brookdale,W,11-5,11,5,6,win,20240330_dzmj,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div3,Northampton,northamptoncommunitycollege,alexanderruizr9fv,Alexander Ruiz
+Apr 4,home,Union,W,19-0,19,0,19,win,20240404_qu2d,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div3,Northampton,northamptoncommunitycollege,alexanderruizr9fv,Alexander Ruiz
+Apr 7,home,Union,W,19-1,19,1,18,win,20240407_nzm1,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div3,Northampton,northamptoncommunitycollege,alexanderruizr9fv,Alexander Ruiz
+Apr 7,home,Union,W,5-3,5,3,2,win,20240407_w7qs,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div3,Northampton,northamptoncommunitycollege,alexanderruizr9fv,Alexander Ruiz
+Apr 9,home,Camden County,W,8-0,8,0,8,win,20240409_7so9,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div3,Northampton,northamptoncommunitycollege,alexanderruizr9fv,Alexander Ruiz
+Apr 9,home,Camden County,W,11-3,11,3,8,win,20240409_erwx,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div3,Northampton,northamptoncommunitycollege,alexanderruizr9fv,Alexander Ruiz
+Apr 10,home,Camden County,W,19-5,19,5,14,win,20240410_1wuk,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div3,Northampton,northamptoncommunitycollege,alexanderruizr9fv,Alexander Ruiz
+Apr 13,home,Lehigh Carbon,W,10-0,10,0,10,win,20240413_pbpo,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div3,Northampton,northamptoncommunitycollege,alexanderruizr9fv,Alexander Ruiz
+Apr 13,home,Lehigh Carbon,W,11-2,11,2,9,win,20240413_6dr0,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div3,Northampton,northamptoncommunitycollege,alexanderruizr9fv,Alexander Ruiz
+Apr 14,home,Luzerne County,W,35-0,35,0,35,win,20240414_kmfs,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div3,Northampton,northamptoncommunitycollege,alexanderruizr9fv,Alexander Ruiz
+Apr 16,home,Lehigh Carbon,W,15-12,15,12,3,win,20240416_65rk,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div3,Northampton,northamptoncommunitycollege,alexanderruizr9fv,Alexander Ruiz
+Apr 19,home,RCSJ Cumberland,W,13-9,13,9,4,win,20240419_fbbr,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div3,Northampton,northamptoncommunitycollege,alexanderruizr9fv,Alexander Ruiz
+Apr 20,home,RCSJ Cumberland,W,14-4,14,4,10,win,20240420_h3gd,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div3,Northampton,northamptoncommunitycollege,alexanderruizr9fv,Alexander Ruiz
+Apr 20,home,RCSJ Cumberland,W,5-4,5,4,1,win,20240420_hf9l,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div3,Northampton,northamptoncommunitycollege,alexanderruizr9fv,Alexander Ruiz
+Apr 21,home,Montgomery County,W,4-3,4,3,1,win,20240421_7nx3,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div3,Northampton,northamptoncommunitycollege,alexanderruizr9fv,Alexander Ruiz
+Apr 21,home,Montgomery County,W,8-4,8,4,4,win,20240421_50ls,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div3,Northampton,northamptoncommunitycollege,alexanderruizr9fv,Alexander Ruiz
+Apr 23,home,Lackawanna,L,11-7,11,7,4,win,20240423_a9a9,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div3,Northampton,northamptoncommunitycollege,alexanderruizr9fv,Alexander Ruiz
+Apr 26,home,Ocean County,W,14-0,14,0,14,win,20240426_jtnh,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div3,Northampton,northamptoncommunitycollege,alexanderruizr9fv,Alexander Ruiz
+Apr 27,home,Ocean County,W,10-1,10,1,9,win,20240427_4b14,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div3,Northampton,northamptoncommunitycollege,alexanderruizr9fv,Alexander Ruiz
+Apr 27,home,Ocean County,L,6-5,6,5,1,win,20240427_cyfj,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div3,Northampton,northamptoncommunitycollege,alexanderruizr9fv,Alexander Ruiz
+Apr 29,home,Sussex County,L,9-6,9,6,3,win,20240429_jmvr,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div3,Northampton,northamptoncommunitycollege,alexanderruizr9fv,Alexander Ruiz
+May 1,home,Montgomery County,W,7-2,7,2,5,win,20240501_qxva,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div3,Northampton,northamptoncommunitycollege,alexanderruizr9fv,Alexander Ruiz
+May 11,home,Salem,L,14-11,14,11,3,win,20240511_k3j0,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div3,Northampton,northamptoncommunitycollege,alexanderruizr9fv,Alexander Ruiz
+May 11,home,Salem,W,14-2,14,2,12,win,20240511_4169,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div3,Northampton,northamptoncommunitycollege,alexanderruizr9fv,Alexander Ruiz
+May 12,home,Salem,W,16-12,16,12,4,win,20240512_4j3m,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div3,Northampton,northamptoncommunitycollege,alexanderruizr9fv,Alexander Ruiz
+May 17,home,Brookdale,W,12-10,12,10,2,win,20240517_rlxo,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div3,Northampton,northamptoncommunitycollege,alexanderruizr9fv,Alexander Ruiz
+May 17,home,RCSJ Gloucester,W,11-4,11,4,7,win,20240517_wjrh,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div3,Northampton,northamptoncommunitycollege,alexanderruizr9fv,Alexander Ruiz
+May 19,home,RCSJ Gloucester,L,20-9,20,9,11,win,20240519_8n4y,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div3,Northampton,northamptoncommunitycollege,alexanderruizr9fv,Alexander Ruiz
+May 19,home,RCSJ Gloucester,L,15-2,15,2,13,win,20240519_aus9,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div3,Northampton,northamptoncommunitycollege,alexanderruizr9fv,Alexander Ruiz

@@ -1,24 +1,3 @@
 date,location,opponent,result,score,team_score,opp_score,game_score_diff,game_win_loss,game_id,AB,R,H,2B,3B,HR,RBI,BB,K,SB,CS,HBP,SF,SH,TB,XBH,HDP,GO,FO,GO/FO,PA,season,njcaa_season,njcaa_division,team,team_id,player_id,player_name
-Mar 17,home,Middlesex College,W,13-9,13,9,4,win,20240317_soov,4,1,1,,,,0,,,,,,,,1,0,,2,3,0.67,4,2024,2023-24,div3,Rhode Island,communitycollegeofrhodeisland,braydenbearduv4v,BRAYDEN BEARD
-Mar 19,home,Borough of Manhattan,W,17-1,17,1,16,win,20240319_9qvq,2,3,1,,,,0,2,,2,,1,,,1,0,,,,,5,2024,2023-24,div3,Rhode Island,communitycollegeofrhodeisland,braydenbearduv4v,BRAYDEN BEARD
-Mar 21,home,Rockland,W,13-10,13,10,3,win,20240321_2f1b,4,3,4,2,,,3,1,,2,,,,,6,2,,,,,5,2024,2023-24,div3,Rhode Island,communitycollegeofrhodeisland,braydenbearduv4v,BRAYDEN BEARD
-Mar 22,home,Borough of Manhattan,W,19-2,19,2,17,win,20240322_qfy6,4,2,1,,,,1,1,1,2,,2,,,1,0,,,2,,7,2024,2023-24,div3,Rhode Island,communitycollegeofrhodeisland,braydenbearduv4v,BRAYDEN BEARD
-Mar 26,home,Nassau,W,9-3,9,3,6,win,20240326_b03g,3,2,1,,,,0,1,,3,,,,,1,0,1,1,,,4,2024,2023-24,div3,Rhode Island,communitycollegeofrhodeisland,braydenbearduv4v,BRAYDEN BEARD
-Mar 30,home,Nassau,W,11-0,11,0,11,win,20240330_pa0p,3,1,2,,,,0,1,,2,,,,,2,0,,1,1,1.00,4,2024,2023-24,div3,Rhode Island,communitycollegeofrhodeisland,braydenbearduv4v,BRAYDEN BEARD
-Apr 7,home,Borough of Manhattan,W,18-1,18,1,17,win,20240407_5xlf,2,2,1,,,,2,2,,1,,,,,1,0,,,1,,4,2024,2023-24,div3,Rhode Island,communitycollegeofrhodeisland,braydenbearduv4v,BRAYDEN BEARD
-Apr 7,home,Borough of Manhattan,W,12-2,12,2,10,win,20240407_8n1f,3,1,1,,,,1,,,,,,,,1,0,,1,1,1.00,3,2024,2023-24,div3,Rhode Island,communitycollegeofrhodeisland,braydenbearduv4v,BRAYDEN BEARD
-Apr 9,home,Suffolk County,W,12-1,12,1,11,win,20240409_sx2m,2,1,1,,,1,2,1,,,,,,1,4,1,,1,1,1.00,4,2024,2023-24,div3,Rhode Island,communitycollegeofrhodeisland,braydenbearduv4v,BRAYDEN BEARD
-Apr 10,home,Nassau,W,10-9,10,9,1,win,20240410_q60k,4,1,2,1,,,1,,,1,,,,,3,1,1,,2,,4,2024,2023-24,div3,Rhode Island,communitycollegeofrhodeisland,braydenbearduv4v,BRAYDEN BEARD
-Apr 16,home,Kingsborough,W,11-7,11,7,4,win,20240416_6hr5,3,0,1,1,,,0,2,,1,,,,,2,1,,,2,,5,2024,2023-24,div3,Rhode Island,communitycollegeofrhodeisland,braydenbearduv4v,BRAYDEN BEARD
-Apr 20,home,Kingsborough,W,12-7,12,7,5,win,20240420_bzjh,4,1,2,2,,,2,,,1,,,,,4,2,,1,1,1.00,4,2024,2023-24,div3,Rhode Island,communitycollegeofrhodeisland,braydenbearduv4v,BRAYDEN BEARD
-Apr 20,home,Kingsborough,W,5-1,5,1,4,win,20240420_7m02,2,1,1,,,,0,2,,2,1,,,,1,0,,1,,,4,2024,2023-24,div3,Rhode Island,communitycollegeofrhodeisland,braydenbearduv4v,BRAYDEN BEARD
-Apr 22,home,Rockland,W,14-5,14,5,9,win,20240422_dbdj,1,3,1,,,,1,3,,3,,1,,,1,0,,,,,5,2024,2023-24,div3,Rhode Island,communitycollegeofrhodeisland,braydenbearduv4v,BRAYDEN BEARD
-Apr 23,home,Bronx,W,32-0,32,0,32,win,20240423_7kxc,0,6,0,,,,1,4,,5,,3,,,0,0,,,,,7,2024,2023-24,div3,Rhode Island,communitycollegeofrhodeisland,braydenbearduv4v,BRAYDEN BEARD
-Apr 26,home,Bronx,W,12-2,12,2,10,win,20240426_05zy,3,2,1,1,,,3,1,,2,,,1,,2,1,,1,2,0.50,5,2024,2023-24,div3,Rhode Island,communitycollegeofrhodeisland,braydenbearduv4v,BRAYDEN BEARD
-Apr 27,home,Bronx,W,17-8,17,8,9,win,20240427_kync,2,2,2,,,,1,2,,2,,1,,,2,0,,,,,5,2024,2023-24,div3,Rhode Island,communitycollegeofrhodeisland,braydenbearduv4v,BRAYDEN BEARD
-Apr 27,home,Bronx,W,15-6,15,6,9,win,20240427_p907,4,3,1,,,,1,,,,,1,,,1,0,,,2,,5,2024,2023-24,div3,Rhode Island,communitycollegeofrhodeisland,braydenbearduv4v,BRAYDEN BEARD
-Apr 30,home,Queensborough,W,8-1,8,1,7,win,20240430_gizv,5,1,3,,,,1,,,2,,,,,3,0,,,1,,5,2024,2023-24,div3,Rhode Island,communitycollegeofrhodeisland,braydenbearduv4v,BRAYDEN BEARD
-May 3,home,Queensborough,W,13-3,13,3,10,win,20240503_ujwg,5,1,3,,,,1,,,1,,,,,3,0,,1,1,1.00,5,2024,2023-24,div3,Rhode Island,communitycollegeofrhodeisland,braydenbearduv4v,BRAYDEN BEARD
-May 4,home,Queensborough,W,16-4,16,4,12,win,20240504_a2ut,5,1,2,,,,2,,,1,,,,,2,0,,1,,,5,2024,2023-24,div3,Rhode Island,communitycollegeofrhodeisland,braydenbearduv4v,BRAYDEN BEARD
-May 9,home,Nassau,W,6-2,6,2,4,win,20240509_9w2c,3,2,1,,,1,2,1,,1,,,,,4,1,,2,,,4,2024,2023-24,div3,Rhode Island,communitycollegeofrhodeisland,braydenbearduv4v,BRAYDEN BEARD
-May 11,home,Suffolk County,W,12-11,12,11,1,win,20240511_0tsh,5,2,1,,,,1,,2,1,,1,,,1,0,,1,,,6,2024,2023-24,div3,Rhode Island,communitycollegeofrhodeisland,braydenbearduv4v,BRAYDEN BEARD
+Apr 15,home,Roxbury,W,19-4,19,4,15,win,20240415_knhw,0,0,0,,,,0,,,,,,,,0,0,,,,,0,2024,2023-24,div3,Rhode Island,communitycollegeofrhodeisland,braydenbearduv4v,BRAYDEN BEARD
+Apr 21,home,Northern Essex,W,12-7,12,7,5,win,20240421_dndc,0,0,0,,,,0,,,,,,,,0,0,,,,,0,2024,2023-24,div3,Rhode Island,communitycollegeofrhodeisland,braydenbearduv4v,BRAYDEN BEARD

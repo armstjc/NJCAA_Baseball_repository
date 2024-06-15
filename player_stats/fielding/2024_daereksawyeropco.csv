@@ -1,29 +1,9 @@
 date,location,opponent,result,score,team_score,opp_score,game_score_diff,game_win_loss,game_id,TC,PO,A,E,FPCT,DP,SBA,RCS,RCS_PCT,PB,CI,season,njcaa_season,njcaa_division,team,team_id,player_id,player_name
-Feb 10,home,Rockingham,W,9-5,9,5,4,win,20240210_dvv5,0,0,0,0,5.0,4,4,4,7.20,1.20,2,2024,2023-24,div2,Montgomery,montgomerycollegemd,daereksawyeropco,Daerek Sawyer
-Feb 26,home,Harford,L,7-6,7,6,1,win,20240226_crlb,0,0,0,0,1.2,4,4,4,21.60,3.60,2,2024,2023-24,div2,Montgomery,montgomerycollegemd,daereksawyeropco,Daerek Sawyer
-Mar 3,home,Virginia Peninsula CC,W,5-1,5,1,4,win,20240303_tqwt,0,1,0,0,7.0,4,1,,0.00,.71,1,2024,2023-24,div2,Montgomery,montgomerycollegemd,daereksawyeropco,Daerek Sawyer
-Mar 12,home,RCSJ Cumberland,W,16-1,16,1,15,win,20240312_5n8e,0,1,0,0,4.0,2,1,1,2.25,.75,1,2024,2023-24,div2,Montgomery,montgomerycollegemd,daereksawyeropco,Daerek Sawyer
-Mar 16,home,CCBC Essex,W,5-4,5,4,1,win,20240316_ynjp,1,1,0,0,8.0,8,4,3,3.38,1.13,1,2024,2023-24,div2,Montgomery,montgomerycollegemd,daereksawyeropco,Daerek Sawyer
-Mar 22,home,Cecil,W,9-4,9,4,5,win,20240322_ddmt,0,1,0,0,7.0,5,4,1,1.29,1.14,3,2024,2023-24,div2,Montgomery,montgomerycollegemd,daereksawyeropco,Daerek Sawyer
-Mar 30,home,Chesapeake,W,7-3,7,3,4,win,20240330_qhw0,0,1,0,0,7.0,9,3,3,3.86,1.57,2,2024,2023-24,div2,Montgomery,montgomerycollegemd,daereksawyeropco,Daerek Sawyer
-Apr 7,home,Shenandoah University JV,L,6-5,6,5,1,win,20240407_6a4b,0,0,0,0,2.0,3,1,1,4.50,2.00,1,2024,2023-24,div2,Montgomery,montgomerycollegemd,daereksawyeropco,Daerek Sawyer
-Apr 9,home,Allegany Maryland,W,10-5,10,5,5,win,20240409_llgq,0,1,0,0,8.0,13,5,5,5.63,1.63,,2024,2023-24,div2,Montgomery,montgomerycollegemd,daereksawyeropco,Daerek Sawyer
-Apr 14,home,Lackawanna,L,22-12,22,12,10,win,20240414_gied,0,0,0,0,1.0,3,3,3,27.00,4.00,1,2024,2023-24,div2,Montgomery,montgomerycollegemd,daereksawyeropco,Daerek Sawyer
-Apr 16,home,Southern Maryland,L,3-2,3,2,1,win,20240416_nfv3,1,0,1,0,6.0,9,3,3,4.50,1.83,2,2024,2023-24,div2,Montgomery,montgomerycollegemd,daereksawyeropco,Daerek Sawyer
-Apr 20,home,Frederick,W,4-2,4,2,2,win,20240420_35u7,0,0,0,0,2.0,3,1,1,4.50,1.50,,2024,2023-24,div2,Montgomery,montgomerycollegemd,daereksawyeropco,Daerek Sawyer
-Apr 20,home,Frederick,L,10-2,10,2,8,win,20240420_ouch,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Montgomery,montgomerycollegemd,daereksawyeropco,Daerek Sawyer
-Apr 21,home,Shenandoah University JV,W,17-7,17,7,10,win,20240421_s1u9,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Montgomery,montgomerycollegemd,daereksawyeropco,Daerek Sawyer
-Apr 27,home,Garrett,W,7-1,7,1,6,win,20240427_gguy,0,0,0,0,2.0,,,,0.00,1.00,2,2024,2023-24,div2,Montgomery,montgomerycollegemd,daereksawyeropco,Daerek Sawyer
-Apr 27,home,Garrett,W,8-7,8,7,1,win,20240427_ytd8,0,0,0,0,4.0,8,6,6,13.50,2.50,2,2024,2023-24,div2,Montgomery,montgomerycollegemd,daereksawyeropco,Daerek Sawyer
-Apr 28,home,CC of Allegheny County,W,13-2,13,2,11,win,20240428_7461,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Montgomery,montgomerycollegemd,daereksawyeropco,Daerek Sawyer
-Apr 28,home,CC of Allegheny County,W,10-0,10,0,10,win,20240428_vrup,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Montgomery,montgomerycollegemd,daereksawyeropco,Daerek Sawyer
-May 1,home,CCBC Dundalk,W,10-2,10,2,8,win,20240501_d6jx,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Montgomery,montgomerycollegemd,daereksawyeropco,Daerek Sawyer
-May 1,home,CCBC Dundalk,W,13-3,13,3,10,win,20240501_0jxf,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Montgomery,montgomerycollegemd,daereksawyeropco,Daerek Sawyer
-May 2,home,Hagerstown,W,2-1,2,1,1,win,20240502_i5am,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Montgomery,montgomerycollegemd,daereksawyeropco,Daerek Sawyer
-May 2,home,Hagerstown,W,10-1,10,1,9,win,20240502_7wd7,0,1,0,0,7.0,3,1,1,1.29,.71,2,2024,2023-24,div2,Montgomery,montgomerycollegemd,daereksawyeropco,Daerek Sawyer
-May 11,home,CCBC Catonsville,W,4-3,4,3,1,win,20240511_iija,0,1,0,0,3.0,1,,,0.00,1.33,3,2024,2023-24,div2,Montgomery,montgomerycollegemd,daereksawyeropco,Daerek Sawyer
-May 12,home,Frederick,L,2-1,2,1,1,win,20240512_95zt,0,0,1,0,1.2,2,1,,0.00,1.80,1,2024,2023-24,div2,Montgomery,montgomerycollegemd,daereksawyeropco,Daerek Sawyer
-May 12,home,CCBC Catonsville,W,12-2,12,2,10,win,20240512_s8zp,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Montgomery,montgomerycollegemd,daereksawyeropco,Daerek Sawyer
-May 13,home,Frederick,W,8-2,8,2,6,win,20240513_ivc0,0,0,0,0,0.2,,,,0.00,,,2024,2023-24,div2,Montgomery,montgomerycollegemd,daereksawyeropco,Daerek Sawyer
-May 13,home,Frederick,W,8-5,8,5,3,win,20240513_ikt6,1,1,0,0,9.0,9,5,4,4.00,1.33,3,2024,2023-24,div2,Montgomery,montgomerycollegemd,daereksawyeropco,Daerek Sawyer
-May 26,home,(6) Madison,L,11-1,11,1,10,win,20240526_hf4g,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Montgomery,montgomerycollegemd,daereksawyeropco,Daerek Sawyer
+Feb 27,home,Black Hawk,W,7-2,7,2,5,win,20240227_nezl,0,1,0,0,3.0,2,1,1,3.00,1.67,3,2024,2023-24,div2,Montgomery,montgomerycollegemd,daereksawyeropco,Daerek Sawyer
+Mar 7,home,Bryant & Stratton College (WI),W,13-7,13,7,6,win,20240307_rxem,1,0,0,0,2.0,5,3,3,13.50,2.50,0,2024,2023-24,div2,Montgomery,montgomerycollegemd,daereksawyeropco,Daerek Sawyer
+Mar 12,home,Triton,W,16-6,16,6,10,win,20240312_wmzt,1,1,0,0,3.2,4,4,2,4.91,2.73,6,2024,2023-24,div2,Montgomery,montgomerycollegemd,daereksawyeropco,Daerek Sawyer
+Mar 19,home,Wabash Valley,L,23-11,23,11,12,win,20240319_iws7,1,0,1,0,1.0,2,4,4,36.00,6.00,4,2024,2023-24,div2,Montgomery,montgomerycollegemd,daereksawyeropco,Daerek Sawyer
+Apr 17,home,South Suburban,W,6-2,6,2,4,win,20240417_1g54,0,0,0,0,1.0,1,,,0.00,1.00,,2024,2023-24,div2,Montgomery,montgomerycollegemd,daereksawyeropco,Daerek Sawyer
+Apr 22,home,Carl Sandburg,W,14-1,14,1,13,win,20240422_483g,0,0,0,0,1.0,1,,,0.00,1.00,,2024,2023-24,div2,Montgomery,montgomerycollegemd,daereksawyeropco,Daerek Sawyer
+May 1,home,Lake Land,L,12-8,12,8,4,win,20240501_fc1b,1,0,0,0,3.0,5,5,5,15.00,2.33,2,2024,2023-24,div2,Montgomery,montgomerycollegemd,daereksawyeropco,Daerek Sawyer
+May 11,home,Spoon River,L,12-5,12,5,7,win,20240511_na5z,0,0,0,0,5.1,4,1,,0.00,1.31,3,2024,2023-24,div2,Montgomery,montgomerycollegemd,daereksawyeropco,Daerek Sawyer

@@ -1,13 +1,25 @@
 date,location,opponent,result,score,team_score,opp_score,game_score_diff,game_win_loss,game_id,TC,PO,A,E,FPCT,DP,SBA,RCS,RCS_PCT,PB,CI,season,njcaa_season,njcaa_division,team,team_id,player_id,player_name
-Feb 28,home,Dallas College - Mountain View,W,22-21,22,21,1,win,20240228_75ej,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div3,Bunker Hill,bunkerhillcommunitycollege,juliomatos2m7d,Julio Matos
-Mar 2,home,Dallas College - Mountain View,W,15-8,15,8,7,win,20240302_rvtx,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div3,Bunker Hill,bunkerhillcommunitycollege,juliomatos2m7d,Julio Matos
-Mar 12,home,Redlands,W,14-0,14,0,14,win,20240312_6fyv,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div3,Bunker Hill,bunkerhillcommunitycollege,juliomatos2m7d,Julio Matos
-Mar 15,home,Joliet,L,6-3,6,3,3,win,20240315_n5gh,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div3,Bunker Hill,bunkerhillcommunitycollege,juliomatos2m7d,Julio Matos
-Mar 29,home,Dallas College - North Lake,W,7-3,7,3,4,win,20240329_jq5b,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div3,Bunker Hill,bunkerhillcommunitycollege,juliomatos2m7d,Julio Matos
-Apr 6,home,Dallas College - Cedar Valley,W,26-10,26,10,16,win,20240406_nd0f,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div3,Bunker Hill,bunkerhillcommunitycollege,juliomatos2m7d,Julio Matos
-Apr 11,home,Dallas College - Mountain View,W,21-2,21,2,19,win,20240411_0iqx,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div3,Bunker Hill,bunkerhillcommunitycollege,juliomatos2m7d,Julio Matos
-May 3,home,Dallas College - North Lake,W,10-6,10,6,4,win,20240503_6qlq,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div3,Bunker Hill,bunkerhillcommunitycollege,juliomatos2m7d,Julio Matos
-May 4,home,Dallas College - North Lake,W,3-2,3,2,1,win,20240504_ikj3,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div3,Bunker Hill,bunkerhillcommunitycollege,juliomatos2m7d,Julio Matos
-May 8,home,Dallas College - Cedar Valley,L,10-9,10,9,1,win,20240508_irhx,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div3,Bunker Hill,bunkerhillcommunitycollege,juliomatos2m7d,Julio Matos
-May 10,home,Dallas College - Cedar Valley,W,8-0,8,0,8,win,20240510_g3u7,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div3,Bunker Hill,bunkerhillcommunitycollege,juliomatos2m7d,Julio Matos
-May 11,home,Dallas College - Cedar Valley,W,12-5,12,5,7,win,20240511_jurb,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div3,Bunker Hill,bunkerhillcommunitycollege,juliomatos2m7d,Julio Matos
+Mar 16,home,Bronx,L,13-7,13,7,6,win,20240316_pvty,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div3,Bunker Hill,bunkerhillcommunitycollege,juliomatos2m7d,Julio Matos
+Mar 16,home,Bronx,W,11-2,11,2,9,win,20240316_vn74,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div3,Bunker Hill,bunkerhillcommunitycollege,juliomatos2m7d,Julio Matos
+Mar 17,home,Bronx,L,14-12,14,12,2,win,20240317_i1x7,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div3,Bunker Hill,bunkerhillcommunitycollege,juliomatos2m7d,Julio Matos
+Mar 20,home,York County CC,L,19-7,19,7,12,win,20240320_fkno,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div3,Bunker Hill,bunkerhillcommunitycollege,juliomatos2m7d,Julio Matos
+Mar 30,home,Holyoke,W,11-8,11,8,3,win,20240330_n3me,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div3,Bunker Hill,bunkerhillcommunitycollege,juliomatos2m7d,Julio Matos
+Mar 30,home,Holyoke,W,3-0,3,0,3,win,20240330_pgpe,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div3,Bunker Hill,bunkerhillcommunitycollege,juliomatos2m7d,Julio Matos
+Apr 2,home,New Hampshire Technical Institute,W,6-4,6,4,2,win,20240402_wq53,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div3,Bunker Hill,bunkerhillcommunitycollege,juliomatos2m7d,Julio Matos
+Apr 7,home,Quinsigamond,L,6-4,6,4,2,win,20240407_h9b7,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div3,Bunker Hill,bunkerhillcommunitycollege,juliomatos2m7d,Julio Matos
+Apr 7,home,Quinsigamond,W,8-1,8,1,7,win,20240407_5j76,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div3,Bunker Hill,bunkerhillcommunitycollege,juliomatos2m7d,Julio Matos
+Apr 9,home,Roxbury,L,10-3,10,3,7,win,20240409_6811,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div3,Bunker Hill,bunkerhillcommunitycollege,juliomatos2m7d,Julio Matos
+Apr 13,home,Northern Essex,L,11-0,11,0,11,win,20240413_7qj8,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div3,Bunker Hill,bunkerhillcommunitycollege,juliomatos2m7d,Julio Matos
+Apr 16,home,Roxbury,L,16-6,16,6,10,win,20240416_75i0,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div3,Bunker Hill,bunkerhillcommunitycollege,juliomatos2m7d,Julio Matos
+Apr 18,home,Massasoit,W,12-3,12,3,9,win,20240418_eh97,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div3,Bunker Hill,bunkerhillcommunitycollege,juliomatos2m7d,Julio Matos
+Apr 21,home,Massasoit,L,8-7,8,7,1,win,20240421_a6po,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div3,Bunker Hill,bunkerhillcommunitycollege,juliomatos2m7d,Julio Matos
+Apr 21,home,Massasoit,W,10-4,10,4,6,win,20240421_ll9j,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div3,Bunker Hill,bunkerhillcommunitycollege,juliomatos2m7d,Julio Matos
+Apr 23,home,Roxbury,L,15-6,15,6,9,win,20240423_92cq,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div3,Bunker Hill,bunkerhillcommunitycollege,juliomatos2m7d,Julio Matos
+Apr 25,home,Rhode Island,W,7-5,7,5,2,win,20240425_fjfy,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div3,Bunker Hill,bunkerhillcommunitycollege,juliomatos2m7d,Julio Matos
+Apr 27,home,Rhode Island,L,13-1,13,1,12,win,20240427_g1zh,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div3,Bunker Hill,bunkerhillcommunitycollege,juliomatos2m7d,Julio Matos
+Apr 27,home,Rhode Island,W,2-1,2,1,1,win,20240427_pefa,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div3,Bunker Hill,bunkerhillcommunitycollege,juliomatos2m7d,Julio Matos
+Apr 28,home,UConn Avery Point,L,21-2,21,2,19,win,20240428_wosq,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div3,Bunker Hill,bunkerhillcommunitycollege,juliomatos2m7d,Julio Matos
+Apr 29,home,Southern Maine CC,W,10-0,10,0,10,win,20240429_n6ao,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div3,Bunker Hill,bunkerhillcommunitycollege,juliomatos2m7d,Julio Matos
+Apr 30,home,Quinsigamond,W,15-4,15,4,11,win,20240430_xcbk,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div3,Bunker Hill,bunkerhillcommunitycollege,juliomatos2m7d,Julio Matos
+May 1,home,Holyoke,L,12-11,12,11,1,win,20240501_w9o1,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div3,Bunker Hill,bunkerhillcommunitycollege,juliomatos2m7d,Julio Matos
+May 9,home,Northern Essex,L,8-0,8,0,8,win,20240509_xxa3,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div3,Bunker Hill,bunkerhillcommunitycollege,juliomatos2m7d,Julio Matos

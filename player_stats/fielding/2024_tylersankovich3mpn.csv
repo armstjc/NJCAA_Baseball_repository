@@ -1,46 +1,9 @@
 date,location,opponent,result,score,team_score,opp_score,game_score_diff,game_win_loss,game_id,TC,PO,A,E,FPCT,DP,SBA,RCS,RCS_PCT,PB,CI,season,njcaa_season,njcaa_division,team,team_id,player_id,player_name
-Feb 20,home,Seminole State (FL),L,6-4,6,4,2,win,20240220_j89o,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,CCBC Catonsville,ccbccatonsville,tylersankovich3mpn,Tyler Sankovich
-Feb 21,home,Lake-Sumter State,L,14-6,14,6,8,win,20240221_tae5,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,CCBC Catonsville,ccbccatonsville,tylersankovich3mpn,Tyler Sankovich
-Feb 22,home,Rollins College JV,L,6-0,6,0,6,win,20240222_2sou,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,CCBC Catonsville,ccbccatonsville,tylersankovich3mpn,Tyler Sankovich
-Mar 1,home,Sussex County,L,11-6,11,6,5,win,20240301_2b0n,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,CCBC Catonsville,ccbccatonsville,tylersankovich3mpn,Tyler Sankovich
-Mar 3,home,Sussex County,W,11-8,11,8,3,win,20240303_dgd5,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,CCBC Catonsville,ccbccatonsville,tylersankovich3mpn,Tyler Sankovich
-Mar 11,home,Cayuga,W,10-2,10,2,8,win,20240311_uzjg,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,CCBC Catonsville,ccbccatonsville,tylersankovich3mpn,Tyler Sankovich
-Mar 14,home,CCBC Essex,W,15-13,15,13,2,win,20240314_62sm,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,CCBC Catonsville,ccbccatonsville,tylersankovich3mpn,Tyler Sankovich
-Mar 15,home,Erie,L,8-1,8,1,7,win,20240315_0nvm,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,CCBC Catonsville,ccbccatonsville,tylersankovich3mpn,Tyler Sankovich
-Mar 15,home,Erie,L,4-2,4,2,2,win,20240315_7lo7,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,CCBC Catonsville,ccbccatonsville,tylersankovich3mpn,Tyler Sankovich
-Mar 16,home,Anne Arundel,W,17-4,17,4,13,win,20240316_gkrc,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,CCBC Catonsville,ccbccatonsville,tylersankovich3mpn,Tyler Sankovich
-Mar 16,home,Anne Arundel,W,4-3,4,3,1,win,20240316_8m3k,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,CCBC Catonsville,ccbccatonsville,tylersankovich3mpn,Tyler Sankovich
-Mar 17,home,Orange County,L,10-7,10,7,3,win,20240317_mdon,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,CCBC Catonsville,ccbccatonsville,tylersankovich3mpn,Tyler Sankovich
-Mar 20,home,Cecil,W,10-5,10,5,5,win,20240320_ai0g,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,CCBC Catonsville,ccbccatonsville,tylersankovich3mpn,Tyler Sankovich
-Mar 20,home,Cecil,W,15-2,15,2,13,win,20240320_pxo9,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,CCBC Catonsville,ccbccatonsville,tylersankovich3mpn,Tyler Sankovich
-Mar 24,home,Westmoreland,W,9-1,9,1,8,win,20240324_ct7e,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,CCBC Catonsville,ccbccatonsville,tylersankovich3mpn,Tyler Sankovich
-Mar 24,home,Westmoreland,W,3-0,3,0,3,win,20240324_rv0q,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,CCBC Catonsville,ccbccatonsville,tylersankovich3mpn,Tyler Sankovich
-Mar 26,home,Chesapeake,W,5-1,5,1,4,win,20240326_adax,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,CCBC Catonsville,ccbccatonsville,tylersankovich3mpn,Tyler Sankovich
-Mar 26,home,Chesapeake,W,8-0,8,0,8,win,20240326_ufde,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,CCBC Catonsville,ccbccatonsville,tylersankovich3mpn,Tyler Sankovich
-Mar 30,home,Prince George's,W,6-5,6,5,1,win,20240330_ykg4,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,CCBC Catonsville,ccbccatonsville,tylersankovich3mpn,Tyler Sankovich
-Mar 30,home,Prince George's,W,11-5,11,5,6,win,20240330_op9c,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,CCBC Catonsville,ccbccatonsville,tylersankovich3mpn,Tyler Sankovich
-Apr 6,home,Allegany Maryland,W,5-4,5,4,1,win,20240406_8lap,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,CCBC Catonsville,ccbccatonsville,tylersankovich3mpn,Tyler Sankovich
-Apr 6,home,Allegany Maryland,W,13-3,13,3,10,win,20240406_z986,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,CCBC Catonsville,ccbccatonsville,tylersankovich3mpn,Tyler Sankovich
-Apr 7,home,Potomac State,W,9-2,9,2,7,win,20240407_udns,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,CCBC Catonsville,ccbccatonsville,tylersankovich3mpn,Tyler Sankovich
-Apr 7,home,Potomac State,L,2-1,2,1,1,win,20240407_s6nm,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,CCBC Catonsville,ccbccatonsville,tylersankovich3mpn,Tyler Sankovich
-Apr 13,home,Montgomery,L,3-1,3,1,2,win,20240413_uzs5,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,CCBC Catonsville,ccbccatonsville,tylersankovich3mpn,Tyler Sankovich
-Apr 13,home,Montgomery,L,14-2,14,2,12,win,20240413_e331,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,CCBC Catonsville,ccbccatonsville,tylersankovich3mpn,Tyler Sankovich
-Apr 14,home,Potomac State,L,13-3,13,3,10,win,20240414_p883,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,CCBC Catonsville,ccbccatonsville,tylersankovich3mpn,Tyler Sankovich
-Apr 14,home,Potomac State,L,15-12,15,12,3,win,20240414_4aqa,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,CCBC Catonsville,ccbccatonsville,tylersankovich3mpn,Tyler Sankovich
-Apr 16,home,CCBC Essex,L,12-7,12,7,5,win,20240416_w5ka,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,CCBC Catonsville,ccbccatonsville,tylersankovich3mpn,Tyler Sankovich
-Apr 17,home,Harford,L,14-7,14,7,7,win,20240417_r8oa,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,CCBC Catonsville,ccbccatonsville,tylersankovich3mpn,Tyler Sankovich
-Apr 20,home,Garrett,W,11-5,11,5,6,win,20240420_xpmq,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,CCBC Catonsville,ccbccatonsville,tylersankovich3mpn,Tyler Sankovich
-Apr 20,home,Garrett,L,9-8,9,8,1,win,20240420_phiv,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,CCBC Catonsville,ccbccatonsville,tylersankovich3mpn,Tyler Sankovich
-Apr 23,home,CCBC Dundalk,W,9-6,9,6,3,win,20240423_zyst,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,CCBC Catonsville,ccbccatonsville,tylersankovich3mpn,Tyler Sankovich
-Apr 23,home,CCBC Dundalk,W,10-0,10,0,10,win,20240423_9ebl,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,CCBC Catonsville,ccbccatonsville,tylersankovich3mpn,Tyler Sankovich
-Apr 27,home,Hagerstown,W,11-1,11,1,10,win,20240427_r11l,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,CCBC Catonsville,ccbccatonsville,tylersankovich3mpn,Tyler Sankovich
-Apr 27,home,Hagerstown,W,9-1,9,1,8,win,20240427_mkfz,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,CCBC Catonsville,ccbccatonsville,tylersankovich3mpn,Tyler Sankovich
-Apr 28,home,Potomac State,L,8-6,8,6,2,win,20240428_50v6,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,CCBC Catonsville,ccbccatonsville,tylersankovich3mpn,Tyler Sankovich
-Apr 28,home,Potomac State,L,8-7,8,7,1,win,20240428_e94z,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,CCBC Catonsville,ccbccatonsville,tylersankovich3mpn,Tyler Sankovich
-Apr 30,home,Frederick,L,9-3,9,3,6,win,20240430_jur1,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,CCBC Catonsville,ccbccatonsville,tylersankovich3mpn,Tyler Sankovich
-Apr 30,home,Frederick,L,3-2,3,2,1,win,20240430_0eaf,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,CCBC Catonsville,ccbccatonsville,tylersankovich3mpn,Tyler Sankovich
-May 2,home,Southern Maryland,W,13-5,13,5,8,win,20240502_u0az,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,CCBC Catonsville,ccbccatonsville,tylersankovich3mpn,Tyler Sankovich
-May 2,home,Southern Maryland,L,9-6,9,6,3,win,20240502_vi6x,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,CCBC Catonsville,ccbccatonsville,tylersankovich3mpn,Tyler Sankovich
-May 7,home,CCBC Essex,W,11-2,11,2,9,win,20240507_6otg,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,CCBC Catonsville,ccbccatonsville,tylersankovich3mpn,Tyler Sankovich
-May 11,home,Montgomery,L,4-3,4,3,1,win,20240511_iija,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,CCBC Catonsville,ccbccatonsville,tylersankovich3mpn,Tyler Sankovich
-May 12,home,Anne Arundel,W,5-4,5,4,1,win,20240512_aiq6,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,CCBC Catonsville,ccbccatonsville,tylersankovich3mpn,Tyler Sankovich
+Feb 27,home,Black Hawk,W,7-2,7,2,5,win,20240227_nezl,0,1,0,0,3.0,2,1,1,3.00,1.67,3,2024,2023-24,div2,CCBC Catonsville,ccbccatonsville,tylersankovich3mpn,Tyler Sankovich
+Mar 7,home,Bryant & Stratton College (WI),W,13-7,13,7,6,win,20240307_rxem,1,0,0,0,2.0,5,3,3,13.50,2.50,0,2024,2023-24,div2,CCBC Catonsville,ccbccatonsville,tylersankovich3mpn,Tyler Sankovich
+Mar 12,home,Triton,W,16-6,16,6,10,win,20240312_wmzt,1,1,0,0,3.2,4,4,2,4.91,2.73,6,2024,2023-24,div2,CCBC Catonsville,ccbccatonsville,tylersankovich3mpn,Tyler Sankovich
+Mar 19,home,Wabash Valley,L,23-11,23,11,12,win,20240319_iws7,1,0,1,0,1.0,2,4,4,36.00,6.00,4,2024,2023-24,div2,CCBC Catonsville,ccbccatonsville,tylersankovich3mpn,Tyler Sankovich
+Apr 17,home,South Suburban,W,6-2,6,2,4,win,20240417_1g54,0,0,0,0,1.0,1,,,0.00,1.00,,2024,2023-24,div2,CCBC Catonsville,ccbccatonsville,tylersankovich3mpn,Tyler Sankovich
+Apr 22,home,Carl Sandburg,W,14-1,14,1,13,win,20240422_483g,0,0,0,0,1.0,1,,,0.00,1.00,,2024,2023-24,div2,CCBC Catonsville,ccbccatonsville,tylersankovich3mpn,Tyler Sankovich
+May 1,home,Lake Land,L,12-8,12,8,4,win,20240501_fc1b,1,0,0,0,3.0,5,5,5,15.00,2.33,2,2024,2023-24,div2,CCBC Catonsville,ccbccatonsville,tylersankovich3mpn,Tyler Sankovich
+May 11,home,Spoon River,L,12-5,12,5,7,win,20240511_na5z,0,0,0,0,5.1,4,1,,0.00,1.31,3,2024,2023-24,div2,CCBC Catonsville,ccbccatonsville,tylersankovich3mpn,Tyler Sankovich

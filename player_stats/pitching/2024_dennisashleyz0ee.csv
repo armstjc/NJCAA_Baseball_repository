@@ -1,12 +1,25 @@
 date,location,opponent,result,score,team_score,opp_score,game_score_diff,game_win_loss,game_id,GS,W,L,SV,IP,H,R,ER,ERA,BB,K,HR,season,njcaa_season,njcaa_division,team,team_id,player_id,player_name
-May 5,home,Illinois Valley,W,8-6,8,6,2,win,20240505_b11r,0,0,0,0,1.2,2,4,1,5.40,3.60,4,1,2024,2023-24,div3,Northland,northlandcommunitytechnicalcollege,dennisashleyz0ee,Dennis Ashley
-May 4,home,Olive-Harvey,L,7-1,7,1,6,win,20240504_kndb,0,0,0,0,1.1,2,1,1,6.75,1.50,,2,2024,2023-24,div3,Northland,northlandcommunitytechnicalcollege,dennisashleyz0ee,Dennis Ashley
-May 1,home,Sauk Valley,L,22-0,22,0,22,win,20240501_74ya,0,0,0,0,1.2,3,5,,0.00,2.40,1,1,2024,2023-24,div3,Northland,northlandcommunitytechnicalcollege,dennisashleyz0ee,Dennis Ashley
-Apr 27,home,DuPage,L,10-3,10,3,7,win,20240427_mie6,0,0,0,0,2.0,1,,,0.00,.50,,,2024,2023-24,div3,Northland,northlandcommunitytechnicalcollege,dennisashleyz0ee,Dennis Ashley
-Apr 20,home,Kennedy-King,W,12-2,12,2,10,win,20240420_9l6x,0,1,0,0,5.0,4,2,2,3.60,1.20,2,4,2024,2023-24,div3,Northland,northlandcommunitytechnicalcollege,dennisashleyz0ee,Dennis Ashley
-Apr 13,home,Madison,L,15-1,15,1,14,win,20240413_qrw5,0,0,0,0,1.2,4,3,3,16.20,3.00,1,1,2024,2023-24,div3,Northland,northlandcommunitytechnicalcollege,dennisashleyz0ee,Dennis Ashley
-Apr 9,home,Kennedy-King,W,17-0,17,0,17,win,20240409_6slh,0,0,0,0,1.0,,,,0.00,,,2,2024,2023-24,div3,Northland,northlandcommunitytechnicalcollege,dennisashleyz0ee,Dennis Ashley
-Mar 28,home,Elgin,L,10-3,10,3,7,win,20240328_lmo6,0,0,0,0,0.2,,,,0.00,,,2,2024,2023-24,div3,Northland,northlandcommunitytechnicalcollege,dennisashleyz0ee,Dennis Ashley
-Mar 12,home,Lake County,L,24-3,24,3,21,win,20240312_x0u7,0,0,0,0,0.1,3,7,1,27.00,12.00,1,,2024,2023-24,div3,Northland,northlandcommunitytechnicalcollege,dennisashleyz0ee,Dennis Ashley
-Mar 9,home,Black Hawk,L,11-1,11,1,10,win,20240309_9ben,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div3,Northland,northlandcommunitytechnicalcollege,dennisashleyz0ee,Dennis Ashley
-Feb 25,home,Lewis & Clark,L,11-0,11,0,11,win,20240225_fohg,0,0,0,0,0.1,,,,0.00,3.00,1,,2024,2023-24,div3,Northland,northlandcommunitytechnicalcollege,dennisashleyz0ee,Dennis Ashley
+May 10,home,North Dakota SCS,L,9-5,9,5,4,win,20240510_nuli,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div3,Northland,northlandcommunitytechnicalcollege,dennisashleyz0ee,Dennis Ashley
+May 9,home,Alexandria Tech,L,4-2,4,2,2,win,20240509_6bvg,1,0,1,0,8.0,7,4,4,4.50,1.13,2,0,2024,2023-24,div3,Northland,northlandcommunitytechnicalcollege,dennisashleyz0ee,Dennis Ashley
+May 9,home,North Dakota SCS,W,1-0,1,0,1,win,20240509_2fc8,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div3,Northland,northlandcommunitytechnicalcollege,dennisashleyz0ee,Dennis Ashley
+May 5,home,Minnesota North College - Rainy River,W,4-3,4,3,1,win,20240505_0q3c,1,0,0,0,6.0,7,3,3,4.50,1.50,2,3,2024,2023-24,div3,Northland,northlandcommunitytechnicalcollege,dennisashleyz0ee,Dennis Ashley
+May 4,home,Minnesota North College - Rainy River,L,7-6,7,6,1,win,20240504_ks4h,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div3,Northland,northlandcommunitytechnicalcollege,dennisashleyz0ee,Dennis Ashley
+Apr 28,home,Minnesota North College - Hibbing,L,11-1,11,1,10,win,20240428_5xaa,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div3,Northland,northlandcommunitytechnicalcollege,dennisashleyz0ee,Dennis Ashley
+Apr 25,home,Minnesota North College - Hibbing,W,7-6,7,6,1,win,20240425_atgv,1,1,0,0,5.2,11,6,4,6.35,2.29,2,1,2024,2023-24,div3,Northland,northlandcommunitytechnicalcollege,dennisashleyz0ee,Dennis Ashley
+Apr 13,home,Minnesota North College - Itasca,L,3-2,3,2,1,win,20240413_e5j7,1,0,1,0,2.2,3,3,2,6.75,1.88,2,0,2024,2023-24,div3,Northland,northlandcommunitytechnicalcollege,dennisashleyz0ee,Dennis Ashley
+Apr 13,home,Minnesota North College - Itasca,W,8-7,8,7,1,win,20240413_r9jp,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div3,Northland,northlandcommunitytechnicalcollege,dennisashleyz0ee,Dennis Ashley
+Apr 7,home,Minnesota North College - Vermilion,W,13-9,13,9,4,win,20240407_apqa,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div3,Northland,northlandcommunitytechnicalcollege,dennisashleyz0ee,Dennis Ashley
+Apr 6,home,Minnesota North College - Vermilion,W,5-4,5,4,1,win,20240406_lfl1,1,0,0,0,4.1,7,3,3,6.23,1.85,1,2,2024,2023-24,div3,Northland,northlandcommunitytechnicalcollege,dennisashleyz0ee,Dennis Ashley
+Mar 17,home,Dakota-Bottineau,W,11-7,11,7,4,win,20240317_hd0x,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div3,Northland,northlandcommunitytechnicalcollege,dennisashleyz0ee,Dennis Ashley
+Mar 17,home,Dakota-Bottineau,L,11-9,11,9,2,win,20240317_ejqh,1,0,0,0,8.0,11,9,1,1.13,1.50,1,5,2024,2023-24,div3,Northland,northlandcommunitytechnicalcollege,dennisashleyz0ee,Dennis Ashley
+Mar 10,home,Miles,W,10-4,10,4,6,win,20240310_4n89,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div3,Northland,northlandcommunitytechnicalcollege,dennisashleyz0ee,Dennis Ashley
+Mar 10,home,Miles,W,4-3,4,3,1,win,20240310_ssqy,1,0,0,0,5.0,5,3,2,3.60,1.20,1,1,2024,2023-24,div3,Northland,northlandcommunitytechnicalcollege,dennisashleyz0ee,Dennis Ashley
+Mar 9,home,Dakota-Bottineau,W,9-8,9,8,1,win,20240309_dhkf,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div3,Northland,northlandcommunitytechnicalcollege,dennisashleyz0ee,Dennis Ashley
+Mar 9,home,Dakota-Bottineau,L,6-5,6,5,1,win,20240309_er7d,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div3,Northland,northlandcommunitytechnicalcollege,dennisashleyz0ee,Dennis Ashley
+Mar 5,home,California Miramar University,W,4-3,4,3,1,win,20240305_fypx,0,1,0,0,3.0,2,,,0.00,1.33,2,1,2024,2023-24,div3,Northland,northlandcommunitytechnicalcollege,dennisashleyz0ee,Dennis Ashley
+Mar 4,home,Bismarck State,L,18-11,18,11,7,win,20240304_q6ib,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div3,Northland,northlandcommunitytechnicalcollege,dennisashleyz0ee,Dennis Ashley
+Mar 4,home,Bismarck State,L,13-3,13,3,10,win,20240304_9xel,1,0,1,0,3.0,4,4,3,9.00,1.33,0,1,2024,2023-24,div3,Northland,northlandcommunitytechnicalcollege,dennisashleyz0ee,Dennis Ashley
+Feb 18,home,Arkansas State Mid-South,L,15-11,15,11,4,win,20240218_avfm,0,0,0,0,2.1,2,1,,0.00,1.29,1,1,2024,2023-24,div3,Northland,northlandcommunitytechnicalcollege,dennisashleyz0ee,Dennis Ashley
+Feb 18,home,Arkansas State Mid-South,W,11-10,11,10,1,win,20240218_hv5e,0,0,0,0,1.1,1,3,3,20.25,1.50,1,,2024,2023-24,div3,Northland,northlandcommunitytechnicalcollege,dennisashleyz0ee,Dennis Ashley
+Feb 17,home,Arkansas State Mid-South,L,5-3,5,3,2,win,20240217_eyau,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div3,Northland,northlandcommunitytechnicalcollege,dennisashleyz0ee,Dennis Ashley
+Feb 17,home,Arkansas State Mid-South,L,13-3,13,3,10,win,20240217_ay1d,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div3,Northland,northlandcommunitytechnicalcollege,dennisashleyz0ee,Dennis Ashley

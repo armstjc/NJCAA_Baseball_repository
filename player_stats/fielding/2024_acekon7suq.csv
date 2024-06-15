@@ -1,15 +1,9 @@
 date,location,opponent,result,score,team_score,opp_score,game_score_diff,game_win_loss,game_id,TC,PO,A,E,FPCT,DP,SBA,RCS,RCS_PCT,PB,CI,season,njcaa_season,njcaa_division,team,team_id,player_id,player_name
-Jan 28,home,Lawson State,L,9-0,9,0,9,win,20240128_qc65,0,0,0,0,1.0,1,1,1,9.00,2.00,1,2024,2023-24,div2,Marion Military,marionmilitaryinstitute,acekon7suq,Ace Kon
-Feb 3,home,East Central (MS),L,17-5,17,5,12,win,20240203_rxzn,0,0,0,0,1.0,4,4,4,36.00,7.00,3,2024,2023-24,div2,Marion Military,marionmilitaryinstitute,acekon7suq,Ace Kon
-Feb 15,home,East Mississippi,L,17-1,17,1,16,win,20240215_z98s,0,0,0,0,0.2,,,,0.00,1.50,1,2024,2023-24,div2,Marion Military,marionmilitaryinstitute,acekon7suq,Ace Kon
-Feb 16,home,East Mississippi,L,8-0,8,0,8,win,20240216_n07x,0,0,0,0,2.1,2,2,1,3.86,.86,,2024,2023-24,div2,Marion Military,marionmilitaryinstitute,acekon7suq,Ace Kon
-Feb 22,home,Central Alabama,L,13-3,13,3,10,win,20240222_gqxu,0,0,0,0,0.1,2,1,1,27.00,6.00,,2024,2023-24,div2,Marion Military,marionmilitaryinstitute,acekon7suq,Ace Kon
-Feb 27,home,Northwest-Shoals Community College,L,8-2,8,2,6,win,20240227_5l86,0,0,0,0,1.0,4,4,3,27.00,5.00,1,2024,2023-24,div2,Marion Military,marionmilitaryinstitute,acekon7suq,Ace Kon
-Mar 7,home,Wallace-Dothan,L,9-3,9,3,6,win,20240307_df8g,0,0,0,0,1.0,2,2,2,18.00,3.00,1,2024,2023-24,div2,Marion Military,marionmilitaryinstitute,acekon7suq,Ace Kon
-Mar 11,home,Wallace-Dothan,L,11-2,11,2,9,win,20240311_gc1e,0,0,0,0,2.0,5,5,4,18.00,3.00,1,2024,2023-24,div2,Marion Military,marionmilitaryinstitute,acekon7suq,Ace Kon
-Mar 14,home,Lurleen B. Wallace,L,8-5,8,5,3,win,20240314_kiad,0,0,0,0,3.0,1,,,0.00,1.00,2,2024,2023-24,div2,Marion Military,marionmilitaryinstitute,acekon7suq,Ace Kon
-Mar 28,home,Bishop State,L,12-4,12,4,8,win,20240328_51my,0,0,0,0,1.2,1,2,1,5.40,1.80,2,2024,2023-24,div2,Marion Military,marionmilitaryinstitute,acekon7suq,Ace Kon
-Mar 30,home,Bishop State,L,11-1,11,1,10,win,20240330_ffpu,0,0,0,0,3.0,1,3,3,9.00,2.00,5,2024,2023-24,div2,Marion Military,marionmilitaryinstitute,acekon7suq,Ace Kon
-Apr 1,home,Shelton State,L,12-4,12,4,8,win,20240401_c4t2,0,0,0,0,1.0,,1,,0.00,,,2024,2023-24,div2,Marion Military,marionmilitaryinstitute,acekon7suq,Ace Kon
-Apr 4,home,Enterprise State,L,14-4,14,4,10,win,20240404_7j0u,0,0,0,0,1.0,,,,0.00,1.00,1,2024,2023-24,div2,Marion Military,marionmilitaryinstitute,acekon7suq,Ace Kon
-Apr 6,home,Enterprise State,L,9-4,9,4,5,win,20240406_z048,0,0,0,0,2.2,3,3,3,10.13,2.63,4,2024,2023-24,div2,Marion Military,marionmilitaryinstitute,acekon7suq,Ace Kon
+Feb 27,home,Black Hawk,W,7-2,7,2,5,win,20240227_nezl,0,1,0,0,3.0,2,1,1,3.00,1.67,3,2024,2023-24,div2,Marion Military,marionmilitaryinstitute,acekon7suq,Ace Kon
+Mar 7,home,Bryant & Stratton College (WI),W,13-7,13,7,6,win,20240307_rxem,1,0,0,0,2.0,5,3,3,13.50,2.50,0,2024,2023-24,div2,Marion Military,marionmilitaryinstitute,acekon7suq,Ace Kon
+Mar 12,home,Triton,W,16-6,16,6,10,win,20240312_wmzt,1,1,0,0,3.2,4,4,2,4.91,2.73,6,2024,2023-24,div2,Marion Military,marionmilitaryinstitute,acekon7suq,Ace Kon
+Mar 19,home,Wabash Valley,L,23-11,23,11,12,win,20240319_iws7,1,0,1,0,1.0,2,4,4,36.00,6.00,4,2024,2023-24,div2,Marion Military,marionmilitaryinstitute,acekon7suq,Ace Kon
+Apr 17,home,South Suburban,W,6-2,6,2,4,win,20240417_1g54,0,0,0,0,1.0,1,,,0.00,1.00,,2024,2023-24,div2,Marion Military,marionmilitaryinstitute,acekon7suq,Ace Kon
+Apr 22,home,Carl Sandburg,W,14-1,14,1,13,win,20240422_483g,0,0,0,0,1.0,1,,,0.00,1.00,,2024,2023-24,div2,Marion Military,marionmilitaryinstitute,acekon7suq,Ace Kon
+May 1,home,Lake Land,L,12-8,12,8,4,win,20240501_fc1b,1,0,0,0,3.0,5,5,5,15.00,2.33,2,2024,2023-24,div2,Marion Military,marionmilitaryinstitute,acekon7suq,Ace Kon
+May 11,home,Spoon River,L,12-5,12,5,7,win,20240511_na5z,0,0,0,0,5.1,4,1,,0.00,1.31,3,2024,2023-24,div2,Marion Military,marionmilitaryinstitute,acekon7suq,Ace Kon

@@ -1,17 +1,9 @@
 date,location,opponent,result,score,team_score,opp_score,game_score_diff,game_win_loss,game_id,TC,PO,A,E,FPCT,DP,SBA,RCS,RCS_PCT,PB,CI,season,njcaa_season,njcaa_division,team,team_id,player_id,player_name
-Mar 3,home,John A. Logan,L,10-1,10,1,9,win,20240303_01gt,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Kankakee,kankakeecommunitycollege,jaedenharrissjpd,Jaeden Harris
-Mar 4,home,Shawnee,W,6-4,6,4,2,win,20240304_41k4,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Kankakee,kankakeecommunitycollege,jaedenharrissjpd,Jaeden Harris
-Mar 7,home,East Central (MS),L,6-0,6,0,6,win,20240307_k7je,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Kankakee,kankakeecommunitycollege,jaedenharrissjpd,Jaeden Harris
-Mar 28,home,Waubonsee,W,10-6,10,6,4,win,20240328_xebv,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Kankakee,kankakeecommunitycollege,jaedenharrissjpd,Jaeden Harris
-Apr 8,home,Carl Sandburg,W,18-3,18,3,15,win,20240408_f1sk,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Kankakee,kankakeecommunitycollege,jaedenharrissjpd,Jaeden Harris
-Apr 10,home,Prairie State,W,13-7,13,7,6,win,20240410_xomq,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Kankakee,kankakeecommunitycollege,jaedenharrissjpd,Jaeden Harris
-Apr 12,home,Rock Valley,L,17-2,17,2,15,win,20240412_3mln,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Kankakee,kankakeecommunitycollege,jaedenharrissjpd,Jaeden Harris
-Apr 14,home,Sauk Valley,L,6-5,6,5,1,win,20240414_fpjv,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Kankakee,kankakeecommunitycollege,jaedenharrissjpd,Jaeden Harris
-Apr 14,home,Sauk Valley,W,6-4,6,4,2,win,20240414_ajdj,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Kankakee,kankakeecommunitycollege,jaedenharrissjpd,Jaeden Harris
-Apr 16,home,Harper,W,15-5,15,5,10,win,20240416_okni,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Kankakee,kankakeecommunitycollege,jaedenharrissjpd,Jaeden Harris
-Apr 18,home,DuPage,W,4-2,4,2,2,win,20240418_58sc,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Kankakee,kankakeecommunitycollege,jaedenharrissjpd,Jaeden Harris
-Apr 20,home,South Suburban,W,12-0,12,0,12,win,20240420_a3qg,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Kankakee,kankakeecommunitycollege,jaedenharrissjpd,Jaeden Harris
-Apr 21,home,McHenry County,W,11-3,11,3,8,win,20240421_d75t,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Kankakee,kankakeecommunitycollege,jaedenharrissjpd,Jaeden Harris
-Apr 30,home,Moraine Valley,W,22-6,22,6,16,win,20240430_8uuj,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Kankakee,kankakeecommunitycollege,jaedenharrissjpd,Jaeden Harris
-May 4,home,Highland (IL),W,5-2,5,2,3,win,20240504_ct3k,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Kankakee,kankakeecommunitycollege,jaedenharrissjpd,Jaeden Harris
-May 18,home,Madison,L,11-2,11,2,9,win,20240518_chdp,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Kankakee,kankakeecommunitycollege,jaedenharrissjpd,Jaeden Harris
+Feb 27,home,Black Hawk,W,7-2,7,2,5,win,20240227_nezl,0,1,0,0,3.0,2,1,1,3.00,1.67,3,2024,2023-24,div2,Kankakee,kankakeecommunitycollege,jaedenharrissjpd,Jaeden Harris
+Mar 7,home,Bryant & Stratton College (WI),W,13-7,13,7,6,win,20240307_rxem,1,0,0,0,2.0,5,3,3,13.50,2.50,0,2024,2023-24,div2,Kankakee,kankakeecommunitycollege,jaedenharrissjpd,Jaeden Harris
+Mar 12,home,Triton,W,16-6,16,6,10,win,20240312_wmzt,1,1,0,0,3.2,4,4,2,4.91,2.73,6,2024,2023-24,div2,Kankakee,kankakeecommunitycollege,jaedenharrissjpd,Jaeden Harris
+Mar 19,home,Wabash Valley,L,23-11,23,11,12,win,20240319_iws7,1,0,1,0,1.0,2,4,4,36.00,6.00,4,2024,2023-24,div2,Kankakee,kankakeecommunitycollege,jaedenharrissjpd,Jaeden Harris
+Apr 17,home,South Suburban,W,6-2,6,2,4,win,20240417_1g54,0,0,0,0,1.0,1,,,0.00,1.00,,2024,2023-24,div2,Kankakee,kankakeecommunitycollege,jaedenharrissjpd,Jaeden Harris
+Apr 22,home,Carl Sandburg,W,14-1,14,1,13,win,20240422_483g,0,0,0,0,1.0,1,,,0.00,1.00,,2024,2023-24,div2,Kankakee,kankakeecommunitycollege,jaedenharrissjpd,Jaeden Harris
+May 1,home,Lake Land,L,12-8,12,8,4,win,20240501_fc1b,1,0,0,0,3.0,5,5,5,15.00,2.33,2,2024,2023-24,div2,Kankakee,kankakeecommunitycollege,jaedenharrissjpd,Jaeden Harris
+May 11,home,Spoon River,L,12-5,12,5,7,win,20240511_na5z,0,0,0,0,5.1,4,1,,0.00,1.31,3,2024,2023-24,div2,Kankakee,kankakeecommunitycollege,jaedenharrissjpd,Jaeden Harris

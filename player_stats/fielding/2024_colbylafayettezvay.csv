@@ -1,13 +1,9 @@
 date,location,opponent,result,score,team_score,opp_score,game_score_diff,game_win_loss,game_id,TC,PO,A,E,FPCT,DP,SBA,RCS,RCS_PCT,PB,CI,season,njcaa_season,njcaa_division,team,team_id,player_id,player_name
-Feb 2,home,Millsaps JV,W,6-5,6,5,1,win,20240202_6fkj,0,1,0,0,4.0,1,2,1,2.25,.50,1,2024,2023-24,div2,Mississippi Delta,mississippideltacommunitycollege,colbylafayettezvay,Colby Lafayette
-Feb 10,home,Southwest Tennessee,L,15-5,15,5,10,win,20240210_b4bn,1,0,1,0,2.0,3,5,4,18.00,4.50,6,2024,2023-24,div2,Mississippi Delta,mississippideltacommunitycollege,colbylafayettezvay,Colby Lafayette
-Feb 21,home,Northwest Mississippi,L,6-5,6,5,1,win,20240221_lgst,1,0,1,0,3.0,1,3,3,9.00,2.00,5,2024,2023-24,div2,Mississippi Delta,mississippideltacommunitycollege,colbylafayettezvay,Colby Lafayette
-Feb 27,home,Coahoma,W,10-3,10,3,7,win,20240227_krc6,0,0,0,0,5.0,5,3,3,5.40,1.40,2,2024,2023-24,div2,Mississippi Delta,mississippideltacommunitycollege,colbylafayettezvay,Colby Lafayette
-Mar 6,home,Southwest Mississippi,L,3-2,3,2,1,win,20240306_552f,0,0,0,0,4.1,2,2,1,2.08,.92,2,2024,2023-24,div2,Mississippi Delta,mississippideltacommunitycollege,colbylafayettezvay,Colby Lafayette
-Mar 13,home,East Mississippi,L,17-1,17,1,16,win,20240313_81x3,0,0,0,0,0.2,6,9,8,108.00,12.00,2,2024,2023-24,div2,Mississippi Delta,mississippideltacommunitycollege,colbylafayettezvay,Colby Lafayette
-Mar 19,home,Northwest Mississippi,L,4-1,4,1,3,win,20240319_skii,1,0,1,0,6.0,4,2,2,3.00,1.33,4,2024,2023-24,div2,Mississippi Delta,mississippideltacommunitycollege,colbylafayettezvay,Colby Lafayette
-Apr 3,home,Holmes,W,7-4,7,4,3,win,20240403_e0h0,0,0,0,0,6.0,4,2,2,3.00,1.33,4,2024,2023-24,div2,Mississippi Delta,mississippideltacommunitycollege,colbylafayettezvay,Colby Lafayette
-Apr 8,home,Coahoma,W,5-4,5,4,1,win,20240408_3a0i,0,1,0,0,7.0,6,4,3,3.86,1.14,2,2024,2023-24,div2,Mississippi Delta,mississippideltacommunitycollege,colbylafayettezvay,Colby Lafayette
-Apr 13,home,Hinds,W,6-5,6,5,1,win,20240413_ne4i,0,1,0,0,2.0,1,1,1,4.50,.50,,2024,2023-24,div2,Mississippi Delta,mississippideltacommunitycollege,colbylafayettezvay,Colby Lafayette
-Apr 17,home,Itawamba,L,8-3,8,3,5,win,20240417_qy8f,0,0,0,0,4.2,4,2,1,1.93,1.50,3,2024,2023-24,div2,Mississippi Delta,mississippideltacommunitycollege,colbylafayettezvay,Colby Lafayette
-Apr 27,home,Meridian,L,17-7,17,7,10,win,20240427_v630,0,0,1,0,4.0,11,10,9,20.25,3.50,3,2024,2023-24,div2,Mississippi Delta,mississippideltacommunitycollege,colbylafayettezvay,Colby Lafayette
+Feb 27,home,Black Hawk,W,7-2,7,2,5,win,20240227_nezl,0,1,0,0,3.0,2,1,1,3.00,1.67,3,2024,2023-24,div2,Mississippi Delta,mississippideltacommunitycollege,colbylafayettezvay,Colby Lafayette
+Mar 7,home,Bryant & Stratton College (WI),W,13-7,13,7,6,win,20240307_rxem,1,0,0,0,2.0,5,3,3,13.50,2.50,0,2024,2023-24,div2,Mississippi Delta,mississippideltacommunitycollege,colbylafayettezvay,Colby Lafayette
+Mar 12,home,Triton,W,16-6,16,6,10,win,20240312_wmzt,1,1,0,0,3.2,4,4,2,4.91,2.73,6,2024,2023-24,div2,Mississippi Delta,mississippideltacommunitycollege,colbylafayettezvay,Colby Lafayette
+Mar 19,home,Wabash Valley,L,23-11,23,11,12,win,20240319_iws7,1,0,1,0,1.0,2,4,4,36.00,6.00,4,2024,2023-24,div2,Mississippi Delta,mississippideltacommunitycollege,colbylafayettezvay,Colby Lafayette
+Apr 17,home,South Suburban,W,6-2,6,2,4,win,20240417_1g54,0,0,0,0,1.0,1,,,0.00,1.00,,2024,2023-24,div2,Mississippi Delta,mississippideltacommunitycollege,colbylafayettezvay,Colby Lafayette
+Apr 22,home,Carl Sandburg,W,14-1,14,1,13,win,20240422_483g,0,0,0,0,1.0,1,,,0.00,1.00,,2024,2023-24,div2,Mississippi Delta,mississippideltacommunitycollege,colbylafayettezvay,Colby Lafayette
+May 1,home,Lake Land,L,12-8,12,8,4,win,20240501_fc1b,1,0,0,0,3.0,5,5,5,15.00,2.33,2,2024,2023-24,div2,Mississippi Delta,mississippideltacommunitycollege,colbylafayettezvay,Colby Lafayette
+May 11,home,Spoon River,L,12-5,12,5,7,win,20240511_na5z,0,0,0,0,5.1,4,1,,0.00,1.31,3,2024,2023-24,div2,Mississippi Delta,mississippideltacommunitycollege,colbylafayettezvay,Colby Lafayette

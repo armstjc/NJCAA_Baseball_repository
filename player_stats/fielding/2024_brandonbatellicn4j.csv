@@ -1,21 +1,9 @@
 date,location,opponent,result,score,team_score,opp_score,game_score_diff,game_win_loss,game_id,TC,PO,A,E,FPCT,DP,SBA,RCS,RCS_PCT,PB,CI,season,njcaa_season,njcaa_division,team,team_id,player_id,player_name
-Mar 6,home,McCook,L,17-7,17,7,10,win,20240306_bgzc,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Morris,countycollegeofmorris,brandonbatellicn4j,Brandon Batelli
-Mar 10,home,Marshalltown,L,9-3,9,3,6,win,20240310_s6hl,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Morris,countycollegeofmorris,brandonbatellicn4j,Brandon Batelli
-Mar 13,home,Minnesota Post Grad,W,8-6,8,6,2,win,20240313_dadx,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Morris,countycollegeofmorris,brandonbatellicn4j,Brandon Batelli
-Mar 13,home,Minnesota Post Grad,W,11-7,11,7,4,win,20240313_xk38,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Morris,countycollegeofmorris,brandonbatellicn4j,Brandon Batelli
-Mar 16,home,Iowa Lakes,W,11-10,11,10,1,win,20240316_yhr0,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Morris,countycollegeofmorris,brandonbatellicn4j,Brandon Batelli
-Mar 16,home,Iowa Lakes,L,13-2,13,2,11,win,20240316_5ck8,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Morris,countycollegeofmorris,brandonbatellicn4j,Brandon Batelli
-Mar 17,home,Iowa Lakes,L,14-2,14,2,12,win,20240317_r3rt,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Morris,countycollegeofmorris,brandonbatellicn4j,Brandon Batelli
-Mar 22,home,East Central (MO),L,11-1,11,1,10,win,20240322_i7by,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Morris,countycollegeofmorris,brandonbatellicn4j,Brandon Batelli
-Mar 22,home,East Central (MO),L,10-3,10,3,7,win,20240322_6ot9,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Morris,countycollegeofmorris,brandonbatellicn4j,Brandon Batelli
-Mar 23,home,East Central (MO),L,7-1,7,1,6,win,20240323_6ivo,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Morris,countycollegeofmorris,brandonbatellicn4j,Brandon Batelli
-Mar 30,home,Moberly Area,L,15-1,15,1,14,win,20240330_qp7x,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Morris,countycollegeofmorris,brandonbatellicn4j,Brandon Batelli
-Mar 30,home,Moberly Area,W,6-5,6,5,1,win,20240330_kpn9,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Morris,countycollegeofmorris,brandonbatellicn4j,Brandon Batelli
-Apr 6,home,North Central Missouri,W,6-3,6,3,3,win,20240406_mawr,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Morris,countycollegeofmorris,brandonbatellicn4j,Brandon Batelli
-Apr 7,home,North Central Missouri,W,9-8,9,8,1,win,20240407_463u,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Morris,countycollegeofmorris,brandonbatellicn4j,Brandon Batelli
-Apr 7,home,North Central Missouri,L,5-1,5,1,4,win,20240407_tcyb,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Morris,countycollegeofmorris,brandonbatellicn4j,Brandon Batelli
-Apr 13,home,East Central (MO),L,8-3,8,3,5,win,20240413_ut0a,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Morris,countycollegeofmorris,brandonbatellicn4j,Brandon Batelli
-Apr 14,home,East Central (MO),W,7-6,7,6,1,win,20240414_qrrp,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Morris,countycollegeofmorris,brandonbatellicn4j,Brandon Batelli
-Apr 19,home,Moberly Area,L,7-1,7,1,6,win,20240419_58tv,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Morris,countycollegeofmorris,brandonbatellicn4j,Brandon Batelli
-Apr 19,home,Moberly Area,L,8-6,8,6,2,win,20240419_f0pe,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Morris,countycollegeofmorris,brandonbatellicn4j,Brandon Batelli
-Apr 20,home,Moberly Area,L,8-3,8,3,5,win,20240420_nik0,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Morris,countycollegeofmorris,brandonbatellicn4j,Brandon Batelli
+Mar 10,home,Lincoln Land,L,15-3,15,3,12,win,20240310_x2y9,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Morris,countycollegeofmorris,brandonbatellicn4j,Brandon Batelli
+Mar 11,home,Lincoln Land,L,13-0,13,0,13,win,20240311_hclo,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Morris,countycollegeofmorris,brandonbatellicn4j,Brandon Batelli
+Mar 13,home,Highland (IL),L,16-0,16,0,16,win,20240313_u0bz,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Morris,countycollegeofmorris,brandonbatellicn4j,Brandon Batelli
+Mar 28,home,Knox College,W,10-2,10,2,8,win,20240328_5edq,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Morris,countycollegeofmorris,brandonbatellicn4j,Brandon Batelli
+Apr 6,home,Lewis & Clark,L,5-2,5,2,3,win,20240406_4tm6,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Morris,countycollegeofmorris,brandonbatellicn4j,Brandon Batelli
+Apr 13,home,Illinois Central,L,11-0,11,0,11,win,20240413_7iku,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Morris,countycollegeofmorris,brandonbatellicn4j,Brandon Batelli
+Apr 24,home,Illinois College,W,11-3,11,3,8,win,20240424_9pmg,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Morris,countycollegeofmorris,brandonbatellicn4j,Brandon Batelli
+Apr 30,home,McKendree University JV,W,9-4,9,4,5,win,20240430_mxx9,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div2,Morris,countycollegeofmorris,brandonbatellicn4j,Brandon Batelli
