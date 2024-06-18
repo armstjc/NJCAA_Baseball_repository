@@ -1,26 +1,4 @@
 date,location,opponent,result,score,team_score,opp_score,game_score_diff,game_win_loss,game_id,AB,R,H,2B,3B,HR,RBI,BB,K,SB,CS,HBP,SF,SH,TB,XBH,HDP,GO,FO,GO/FO,PA,season,njcaa_season,njcaa_division,team,team_id,player_id,player_name
-Mar 2,home,Cayuga,W,14-2,14,2,12,win,20240302_qcze,0,0,0,,,,1,1,,,,,,,0,0,,,,,1,2024,2023-24,div3,Niagara County,niagaracountycommunitycollege,evankohreymr,Evan Kohr
-Mar 2,home,Cayuga,W,11-4,11,4,7,win,20240302_bmjg,0,0,0,,,,0,,,,,,,,0,0,,,,,0,2024,2023-24,div3,Niagara County,niagaracountycommunitycollege,evankohreymr,Evan Kohr
-Mar 6,home,Schoolcraft,W,16-0,16,0,16,win,20240306_a3uk,0,0,0,,,,0,,,,,,,,0,0,,,,,0,2024,2023-24,div3,Niagara County,niagaracountycommunitycollege,evankohreymr,Evan Kohr
-Mar 8,home,Ontario College Prep Orange,W,18-0,18,0,18,win,20240308_s3qa,4,1,2,1,,1,5,,1,,,,,,6,2,,,,,4,2024,2023-24,div3,Niagara County,niagaracountycommunitycollege,evankohreymr,Evan Kohr
-Mar 8,home,Ontario College Prep Orange,W,19-3,19,3,16,win,20240308_uhrj,2,1,1,,,,4,,1,,,,,,1,0,,,,,2,2024,2023-24,div3,Niagara County,niagaracountycommunitycollege,evankohreymr,Evan Kohr
-Mar 11,home,Waubonsee,W,7-2,7,2,5,win,20240311_7lvo,0,0,0,,,,0,,,,,,,,0,0,,,,,0,2024,2023-24,div3,Niagara County,niagaracountycommunitycollege,evankohreymr,Evan Kohr
-Mar 12,home,Black Hawk,W,8-5,8,5,3,win,20240312_mps8,2,0,0,,,,2,,1,,,,,,0,0,,,,,2,2024,2023-24,div3,Niagara County,niagaracountycommunitycollege,evankohreymr,Evan Kohr
-Mar 15,home,Moraine Valley,W,14-0,14,0,14,win,20240315_xfne,3,1,1,,,,1,,,,,,,,1,0,,,,,3,2024,2023-24,div3,Niagara County,niagaracountycommunitycollege,evankohreymr,Evan Kohr
-Mar 28,home,SUNY Broome,W,13-2,13,2,11,win,20240328_8iom,0,0,0,,,,0,,,,,,,,0,0,,,,,0,2024,2023-24,div3,Niagara County,niagaracountycommunitycollege,evankohreymr,Evan Kohr
-Apr 4,home,Genesee,W,8-0,8,0,8,win,20240404_d780,3,1,1,,,,0,1,,,,,,,1,0,,1,1,1.00,4,2024,2023-24,div3,Niagara County,niagaracountycommunitycollege,evankohreymr,Evan Kohr
-Apr 7,home,Onondaga,W,7-1,7,1,6,win,20240407_wo1o,0,0,0,,,,0,,,,,,,,0,0,,,,,0,2024,2023-24,div3,Niagara County,niagaracountycommunitycollege,evankohreymr,Evan Kohr
-Apr 9,home,Monroe CC,W,10-3,10,3,7,win,20240409_7y6z,3,1,1,,,1,3,,,,,,,,4,1,1,2,,,3,2024,2023-24,div3,Niagara County,niagaracountycommunitycollege,evankohreymr,Evan Kohr
-Apr 15,home,Erie,W,11-1,11,1,10,win,20240415_0jnh,1,0,1,,,,1,,,,,,,,1,0,,,,,1,2024,2023-24,div3,Niagara County,niagaracountycommunitycollege,evankohreymr,Evan Kohr
-Apr 16,home,Genesee,W,3-1,3,1,2,win,20240416_ptm4,0,0,0,,,,0,,,,,,,,0,0,,,,,0,2024,2023-24,div3,Niagara County,niagaracountycommunitycollege,evankohreymr,Evan Kohr
-Apr 18,home,Jamestown,W,5-3,5,3,2,win,20240418_0b8n,2,0,0,,,,0,,1,,,,,,0,0,,,1,,2,2024,2023-24,div3,Niagara County,niagaracountycommunitycollege,evankohreymr,Evan Kohr
-Apr 18,home,Jamestown,W,7-5,7,5,2,win,20240418_mo0g,1,0,0,,,,0,1,,,,,,1,0,0,,1,1,1.00,3,2024,2023-24,div3,Niagara County,niagaracountycommunitycollege,evankohreymr,Evan Kohr
-Apr 21,home,Tompkins Cortland,W,10-0,10,0,10,win,20240421_7eac,0,0,0,,,,0,,,,,,,,0,0,,,,,0,2024,2023-24,div3,Niagara County,niagaracountycommunitycollege,evankohreymr,Evan Kohr
-Apr 25,home,Tompkins Cortland,W,17-0,17,0,17,win,20240425_jvd9,1,1,1,,1,,3,,,,,,,,3,1,,,,,1,2024,2023-24,div3,Niagara County,niagaracountycommunitycollege,evankohreymr,Evan Kohr
-Apr 28,home,Finger Lakes,W,13-0,13,0,13,win,20240428_2mtx,3,1,1,,,,1,1,,,,,,,1,0,,,2,,4,2024,2023-24,div3,Niagara County,niagaracountycommunitycollege,evankohreymr,Evan Kohr
-Apr 30,home,Finger Lakes,W,14-2,14,2,12,win,20240430_68lt,0,0,0,,,,0,,,,,,,,0,0,,,,,0,2024,2023-24,div3,Niagara County,niagaracountycommunitycollege,evankohreymr,Evan Kohr
-May 2,home,Onondaga,W,7-6,7,6,1,win,20240502_0tno,1,0,0,,,,0,,,,,,,,0,0,,,,,1,2024,2023-24,div3,Niagara County,niagaracountycommunitycollege,evankohreymr,Evan Kohr
-May 4,home,Corning,W,10-0,10,0,10,win,20240504_wshy,4,2,3,1,,,0,,,1,,,,,4,1,,,,,4,2024,2023-24,div3,Niagara County,niagaracountycommunitycollege,evankohreymr,Evan Kohr
-May 5,home,Corning,W,13-3,13,3,10,win,20240505_t51g,3,1,1,1,,,2,,1,,,,,,2,1,,,1,,3,2024,2023-24,div3,Niagara County,niagaracountycommunitycollege,evankohreymr,Evan Kohr
-May 11,home,SUNY Adirondack,W,12-2,12,2,10,win,20240511_45du,0,0,0,,,,0,,,,,,,,0,0,,,,,0,2024,2023-24,div3,Niagara County,niagaracountycommunitycollege,evankohreymr,Evan Kohr
-May 17,home,Erie,W,10-6,10,6,4,win,20240517_65sm,0,0,0,,,,0,,,,,,,,0,0,,,,,0,2024,2023-24,div3,Niagara County,niagaracountycommunitycollege,evankohreymr,Evan Kohr
+Mar 12,home,Union,W,13-2,13,2,11,win,20240312_b8c5,1,0,0,,,,0,,,,,,,,0,0,,,,,1,2024,2023-24,div3,Niagara County,niagaracountycommunitycollege,evankohreymr,Evan Kohr
+Mar 21,home,Union,W,16-5,16,5,11,win,20240321_0mlc,0,0,0,,,,0,,,,,,,,0,0,,,,,0,2024,2023-24,div3,Niagara County,niagaracountycommunitycollege,evankohreymr,Evan Kohr
+Mar 27,home,Salem,W,11-9,11,9,2,win,20240327_uzd5,0,0,0,,,,0,,,,,,,,0,0,,,,,0,2024,2023-24,div3,Niagara County,niagaracountycommunitycollege,evankohreymr,Evan Kohr

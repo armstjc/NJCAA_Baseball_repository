@@ -1,16 +1,10 @@
 date,location,opponent,result,score,team_score,opp_score,game_score_diff,game_win_loss,game_id,TC,PO,A,E,FPCT,DP,SBA,RCS,RCS_PCT,PB,CI,season,njcaa_season,njcaa_division,team,team_id,player_id,player_name
-Mar 11,home,Delta Blue Jays,W,6-5,6,5,1,win,20240311_6vxh,1,1,0,0,7.0,6,5,5,6.43,.86,0,2024,2023-24,div3,Riverland,riverlandcommunitycollege,harrisonhannaliwd,Harrison Hanna
-Mar 21,home,Minnesota North College - Vermilion,W,9-1,9,1,8,win,20240321_4lwp,1,1,0,0,5.0,5,1,1,1.80,1.40,2,2024,2023-24,div3,Riverland,riverlandcommunitycollege,harrisonhannaliwd,Harrison Hanna
-Mar 29,home,Minnesota North College - Rainy River,W,4-2,4,2,2,win,20240329_b7ci,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div3,Riverland,riverlandcommunitycollege,harrisonhannaliwd,Harrison Hanna
-Mar 29,home,Anoka-Ramsey,W,13-3,13,3,10,win,20240329_ewkh,1,1,0,0,6.0,4,3,2,3.00,1.00,2,2024,2023-24,div3,Riverland,riverlandcommunitycollege,harrisonhannaliwd,Harrison Hanna
-Mar 30,home,Minnesota North College - Rainy River,W,8-7,8,7,1,win,20240330_6byt,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div3,Riverland,riverlandcommunitycollege,harrisonhannaliwd,Harrison Hanna
-Apr 6,home,Rochester,L,7-6,7,6,1,win,20240406_w1y2,1,0,1,0,7.0,11,7,5,6.43,1.71,1,2024,2023-24,div3,Riverland,riverlandcommunitycollege,harrisonhannaliwd,Harrison Hanna
-Apr 8,home,Rochester,L,7-4,7,4,3,win,20240408_hfy4,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div3,Riverland,riverlandcommunitycollege,harrisonhannaliwd,Harrison Hanna
-Apr 13,home,Minnesota Post Grad,W,18-9,18,9,9,win,20240413_ii9z,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div3,Riverland,riverlandcommunitycollege,harrisonhannaliwd,Harrison Hanna
-Apr 13,home,Minnesota Post Grad,L,12-7,12,7,5,win,20240413_jetp,1,0,1,0,5.0,7,9,3,5.40,1.60,1,2024,2023-24,div3,Riverland,riverlandcommunitycollege,harrisonhannaliwd,Harrison Hanna
-Apr 14,home,Minnesota Post Grad,W,15-5,15,5,10,win,20240414_p0zy,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div3,Riverland,riverlandcommunitycollege,harrisonhannaliwd,Harrison Hanna
-Apr 20,home,Century,W,13-3,13,3,10,win,20240420_dlbi,1,1,0,0,6.0,3,3,3,4.50,1.67,7,2024,2023-24,div3,Riverland,riverlandcommunitycollege,harrisonhannaliwd,Harrison Hanna
-Apr 27,home,Minnesota West,L,4-2,4,2,2,win,20240427_t46l,1,0,1,0,7.0,6,4,3,3.86,1.29,3,2024,2023-24,div3,Riverland,riverlandcommunitycollege,harrisonhannaliwd,Harrison Hanna
-May 5,home,Western Tech,W,5-4,5,4,1,win,20240505_sn3b,1,1,0,0,7.0,6,4,4,5.14,1.00,1,2024,2023-24,div3,Riverland,riverlandcommunitycollege,harrisonhannaliwd,Harrison Hanna
-May 6,home,Western Tech,W,11-0,11,0,11,win,20240506_xkgd,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div3,Riverland,riverlandcommunitycollege,harrisonhannaliwd,Harrison Hanna
-May 9,home,Minnesota North College - Hibbing,W,8-4,8,4,4,win,20240509_obk2,1,1,0,0,9.0,11,4,4,4.00,1.44,2,2024,2023-24,div3,Riverland,riverlandcommunitycollege,harrisonhannaliwd,Harrison Hanna
+Mar 8,home,Bergen,L,11-3,11,3,8,win,20240308_pacr,0,0,0,0,2.1,2,2,1,3.86,.86,,2024,2023-24,div3,Riverland,riverlandcommunitycollege,harrisonhannaliwd,Harrison Hanna
+Mar 12,home,Union,W,13-2,13,2,11,win,20240312_b8c5,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div3,Riverland,riverlandcommunitycollege,harrisonhannaliwd,Harrison Hanna
+Mar 15,home,RCSJ Gloucester,L,8-4,8,4,4,win,20240315_v2dl,1,0,1,0,3.0,7,6,6,18.00,3.67,4,2024,2023-24,div3,Riverland,riverlandcommunitycollege,harrisonhannaliwd,Harrison Hanna
+Mar 21,home,Union,W,16-5,16,5,11,win,20240321_0mlc,0,0,0,0,1.0,1,2,,0.00,2.00,1,2024,2023-24,div3,Riverland,riverlandcommunitycollege,harrisonhannaliwd,Harrison Hanna
+Mar 27,home,Salem,W,11-9,11,9,2,win,20240327_uzd5,0,1,0,0,4.2,4,4,3,5.79,1.50,3,2024,2023-24,div3,Riverland,riverlandcommunitycollege,harrisonhannaliwd,Harrison Hanna
+Apr 10,home,Bergen,L,16-7,16,7,9,win,20240410_x2ps,0,0,0,0,1.0,3,3,3,27.00,6.00,3,2024,2023-24,div3,Riverland,riverlandcommunitycollege,harrisonhannaliwd,Harrison Hanna
+Apr 13,home,Northampton,L,11-2,11,2,9,win,20240413_6dr0,0,0,0,0,3.0,6,7,5,15.00,2.67,2,2024,2023-24,div3,Riverland,riverlandcommunitycollege,harrisonhannaliwd,Harrison Hanna
+Apr 16,home,Northampton,L,15-12,15,12,3,win,20240416_65rk,0,0,0,0,0.1,6,5,5,135.00,18.00,,2024,2023-24,div3,Riverland,riverlandcommunitycollege,harrisonhannaliwd,Harrison Hanna
+May 1,home,Bucks County Community College,L,4-3,4,3,1,win,20240501_5akp,0,0,0,0,3.0,3,2,2,6.00,1.67,2,2024,2023-24,div3,Riverland,riverlandcommunitycollege,harrisonhannaliwd,Harrison Hanna

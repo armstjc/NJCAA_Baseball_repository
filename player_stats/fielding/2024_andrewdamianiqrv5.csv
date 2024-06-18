@@ -1,13 +1,10 @@
 date,location,opponent,result,score,team_score,opp_score,game_score_diff,game_win_loss,game_id,TC,PO,A,E,FPCT,DP,SBA,RCS,RCS_PCT,PB,CI,season,njcaa_season,njcaa_division,team,team_id,player_id,player_name
-Mar 2,home,Cayuga,W,14-2,14,2,12,win,20240302_qcze,1,1,0,0,4.0,4,2,2,4.50,1.25,1,2024,2023-24,div3,Niagara County,niagaracountycommunitycollege,andrewdamianiqrv5,Andrew Damiani
-Mar 7,home,Alexandria Tech,W,2-1,2,1,1,win,20240307_bkk5,1,1,0,0,6.2,4,1,1,1.35,.75,1,2024,2023-24,div3,Niagara County,niagaracountycommunitycollege,andrewdamianiqrv5,Andrew Damiani
-Mar 12,home,Black Hawk,L,5-3,5,3,2,win,20240312_j71i,1,0,1,0,7.0,3,5,0,0.00,.57,1,2024,2023-24,div3,Niagara County,niagaracountycommunitycollege,andrewdamianiqrv5,Andrew Damiani
-Mar 26,home,Monroe CC,W,7-2,7,2,5,win,20240326_2euv,1,1,0,0,6.2,8,2,2,2.70,1.50,2,2024,2023-24,div3,Niagara County,niagaracountycommunitycollege,andrewdamianiqrv5,Andrew Damiani
-Apr 4,home,Genesee,W,8-0,8,0,8,win,20240404_4jpz,1,1,0,0,7.0,1,0,0,0.00,.29,1,2024,2023-24,div3,Niagara County,niagaracountycommunitycollege,andrewdamianiqrv5,Andrew Damiani
-Apr 15,home,Erie,W,11-1,11,1,10,win,20240415_0jnh,1,1,0,0,5.0,2,1,1,1.80,.60,1,2024,2023-24,div3,Niagara County,niagaracountycommunitycollege,andrewdamianiqrv5,Andrew Damiani
-Apr 20,home,Jamestown,W,15-1,15,1,14,win,20240420_usyj,1,1,0,0,4.0,2,1,1,2.25,1.00,2,2024,2023-24,div3,Niagara County,niagaracountycommunitycollege,andrewdamianiqrv5,Andrew Damiani
-Apr 28,home,Finger Lakes,L,3-2,3,2,1,win,20240428_b8if,1,0,0,0,6.0,5,2,2,3.00,1.17,2,2024,2023-24,div3,Niagara County,niagaracountycommunitycollege,andrewdamianiqrv5,Andrew Damiani
-May 2,home,Onondaga,W,7-6,7,6,1,win,20240502_0tno,0,1,0,0,4.0,,,,0.00,,,2024,2023-24,div3,Niagara County,niagaracountycommunitycollege,andrewdamianiqrv5,Andrew Damiani
-May 6,home,Erie,L,8-7,8,7,1,win,20240506_r1tx,0,0,1,0,6.0,5,4,4,6.00,1.17,2,2024,2023-24,div3,Niagara County,niagaracountycommunitycollege,andrewdamianiqrv5,Andrew Damiani
-May 11,home,SUNY Adirondack,W,7-2,7,2,5,win,20240511_or7j,0,0,0,0,2.2,3,,,0.00,2.25,3,2024,2023-24,div3,Niagara County,niagaracountycommunitycollege,andrewdamianiqrv5,Andrew Damiani
-May 16,home,Genesee,L,4-3,4,3,1,win,20240516_51qy,0,0,1,0,2.1,3,1,1,3.86,2.14,2,2024,2023-24,div3,Niagara County,niagaracountycommunitycollege,andrewdamianiqrv5,Andrew Damiani
+Mar 8,home,Bergen,L,11-3,11,3,8,win,20240308_pacr,0,0,0,0,2.1,2,2,1,3.86,.86,,2024,2023-24,div3,Niagara County,niagaracountycommunitycollege,andrewdamianiqrv5,Andrew Damiani
+Mar 12,home,Union,W,13-2,13,2,11,win,20240312_b8c5,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div3,Niagara County,niagaracountycommunitycollege,andrewdamianiqrv5,Andrew Damiani
+Mar 15,home,RCSJ Gloucester,L,8-4,8,4,4,win,20240315_v2dl,1,0,1,0,3.0,7,6,6,18.00,3.67,4,2024,2023-24,div3,Niagara County,niagaracountycommunitycollege,andrewdamianiqrv5,Andrew Damiani
+Mar 21,home,Union,W,16-5,16,5,11,win,20240321_0mlc,0,0,0,0,1.0,1,2,,0.00,2.00,1,2024,2023-24,div3,Niagara County,niagaracountycommunitycollege,andrewdamianiqrv5,Andrew Damiani
+Mar 27,home,Salem,W,11-9,11,9,2,win,20240327_uzd5,0,1,0,0,4.2,4,4,3,5.79,1.50,3,2024,2023-24,div3,Niagara County,niagaracountycommunitycollege,andrewdamianiqrv5,Andrew Damiani
+Apr 10,home,Bergen,L,16-7,16,7,9,win,20240410_x2ps,0,0,0,0,1.0,3,3,3,27.00,6.00,3,2024,2023-24,div3,Niagara County,niagaracountycommunitycollege,andrewdamianiqrv5,Andrew Damiani
+Apr 13,home,Northampton,L,11-2,11,2,9,win,20240413_6dr0,0,0,0,0,3.0,6,7,5,15.00,2.67,2,2024,2023-24,div3,Niagara County,niagaracountycommunitycollege,andrewdamianiqrv5,Andrew Damiani
+Apr 16,home,Northampton,L,15-12,15,12,3,win,20240416_65rk,0,0,0,0,0.1,6,5,5,135.00,18.00,,2024,2023-24,div3,Niagara County,niagaracountycommunitycollege,andrewdamianiqrv5,Andrew Damiani
+May 1,home,Bucks County Community College,L,4-3,4,3,1,win,20240501_5akp,0,0,0,0,3.0,3,2,2,6.00,1.67,2,2024,2023-24,div3,Niagara County,niagaracountycommunitycollege,andrewdamianiqrv5,Andrew Damiani
