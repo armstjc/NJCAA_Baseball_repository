@@ -1,13 +1,11 @@
 date,location,opponent,result,score,team_score,opp_score,game_score_diff,game_win_loss,game_id,AB,R,H,2B,3B,HR,RBI,BB,K,SB,CS,HBP,SF,SH,TB,XBH,HDP,GO,FO,GO/FO,PA,season,njcaa_season,njcaa_division,team,team_id,player_id,player_name
-Feb 18,home,Arkansas State Mid-South,W,11-10,11,10,1,win,20240218_hv5e,0,0,0,,,,0,,,,,,,,0,0,,,,,0,2024,2023-24,div3,Northland,northlandcommunitytechnicalcollege,audenvenegasgvk5,Auden Venegas
-Mar 5,home,California Miramar University,W,4-3,4,3,1,win,20240305_fypx,0,0,0,,,,0,,,,,,,,0,0,,,,,0,2024,2023-24,div3,Northland,northlandcommunitytechnicalcollege,audenvenegasgvk5,Auden Venegas
-Mar 9,home,Dakota-Bottineau,W,9-8,9,8,1,win,20240309_dhkf,3,1,1,,,,0,,1,,,,,,1,0,,,,,3,2024,2023-24,div3,Northland,northlandcommunitytechnicalcollege,audenvenegasgvk5,Auden Venegas
-Mar 10,home,Miles,W,4-3,4,3,1,win,20240310_ssqy,0,0,0,,,,0,,,,,,,,0,0,,,,,0,2024,2023-24,div3,Northland,northlandcommunitytechnicalcollege,audenvenegasgvk5,Auden Venegas
-Mar 10,home,Miles,W,10-4,10,4,6,win,20240310_4n89,3,0,0,,,,0,,1,,,,,,0,0,,,,,3,2024,2023-24,div3,Northland,northlandcommunitytechnicalcollege,audenvenegasgvk5,Auden Venegas
-Mar 17,home,Dakota-Bottineau,W,11-7,11,7,4,win,20240317_hd0x,4,2,2,1,0,0,1,0,0,2,0,0,0,0,3,1,,0,,,4,2024,2023-24,div3,Northland,northlandcommunitytechnicalcollege,audenvenegasgvk5,Auden Venegas
-Apr 6,home,Minnesota North College - Vermilion,W,5-4,5,4,1,win,20240406_lfl1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0,,,0,2024,2023-24,div3,Northland,northlandcommunitytechnicalcollege,audenvenegasgvk5,Auden Venegas
-Apr 7,home,Minnesota North College - Vermilion,W,13-9,13,9,4,win,20240407_apqa,1,1,0,,,,0,1,,,,,,,0,0,,,,,2,2024,2023-24,div3,Northland,northlandcommunitytechnicalcollege,audenvenegasgvk5,Auden Venegas
-Apr 13,home,Minnesota North College - Itasca,W,8-7,8,7,1,win,20240413_r9jp,3,0,1,0,0,0,3,0,1,1,0,0,0,1,1,0,,0,,,4,2024,2023-24,div3,Northland,northlandcommunitytechnicalcollege,audenvenegasgvk5,Auden Venegas
-Apr 25,home,Minnesota North College - Hibbing,W,7-6,7,6,1,win,20240425_atgv,0,0,0,,,,0,,,,,,,,0,0,,,,,0,2024,2023-24,div3,Northland,northlandcommunitytechnicalcollege,audenvenegasgvk5,Auden Venegas
-May 5,home,Minnesota North College - Rainy River,W,4-3,4,3,1,win,20240505_0q3c,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0,,,0,2024,2023-24,div3,Northland,northlandcommunitytechnicalcollege,audenvenegasgvk5,Auden Venegas
-May 9,home,North Dakota SCS,W,1-0,1,0,1,win,20240509_2fc8,2,0,0,,,,0,1,1,,1,,,1,0,0,,,,,4,2024,2023-24,div3,Northland,northlandcommunitytechnicalcollege,audenvenegasgvk5,Auden Venegas
+Mar 7,home,Moraine Valley,W,3-2,3,2,1,win,20240307_8m7j,3,1,0,,,,0,1,1,1,,,,,0,0,,,,,4,2024,2023-24,div3,Northland,northlandcommunitytechnicalcollege,audenvenegasgvk5,Auden Venegas
+Mar 12,home,Lake County,W,5-4,5,4,1,win,20240312_fzqv,1,0,1,,,,0,,,,,,,,1,0,,,,,1,2024,2023-24,div3,Northland,northlandcommunitytechnicalcollege,audenvenegasgvk5,Auden Venegas
+Mar 16,home,Triton,W,7-5,7,5,2,win,20240316_bbth,2,0,0,,,,0,1,1,1,,,,,0,0,,,,,3,2024,2023-24,div3,Northland,northlandcommunitytechnicalcollege,audenvenegasgvk5,Auden Venegas
+Mar 25,home,Prairie State,W,9-1,9,1,8,win,20240325_hbmu,4,3,2,,,,1,,1,3,,,,,2,0,,,,,4,2024,2023-24,div3,Northland,northlandcommunitytechnicalcollege,audenvenegasgvk5,Auden Venegas
+Mar 30,home,DuPage,W,5-4,5,4,1,win,20240330_44gb,3,0,0,,,,0,1,,,,,,,0,0,,,,,4,2024,2023-24,div3,Northland,northlandcommunitytechnicalcollege,audenvenegasgvk5,Auden Venegas
+Apr 5,home,Morton,W,7-4,7,4,3,win,20240405_vpj3,4,1,0,,,,0,1,1,1,,1,,,0,0,,,,,6,2024,2023-24,div3,Northland,northlandcommunitytechnicalcollege,audenvenegasgvk5,Auden Venegas
+Apr 11,home,Oakton,W,17-11,17,11,6,win,20240411_h40a,5,2,3,1,,,4,1,1,2,,,,,4,1,,,,,6,2024,2023-24,div3,Northland,northlandcommunitytechnicalcollege,audenvenegasgvk5,Auden Venegas
+Apr 14,home,Prairie State,W,14-3,14,3,11,win,20240414_h55p,4,1,1,,,,1,,,,,,,,1,0,,,,,4,2024,2023-24,div3,Northland,northlandcommunitytechnicalcollege,audenvenegasgvk5,Auden Venegas
+Apr 18,home,Illinois Valley,W,12-9,12,9,3,win,20240418_g5ys,3,1,2,,,,1,1,1,2,,,,,2,0,,,,,4,2024,2023-24,div3,Northland,northlandcommunitytechnicalcollege,audenvenegasgvk5,Auden Venegas
+May 5,home,Illinois Valley,W,8-6,8,6,2,win,20240505_b11r,4,1,1,1,,,0,,1,,,,,,2,1,,,,,4,2024,2023-24,div3,Northland,northlandcommunitytechnicalcollege,audenvenegasgvk5,Auden Venegas

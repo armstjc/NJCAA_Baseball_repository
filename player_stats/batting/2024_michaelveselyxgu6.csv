@@ -1,13 +1,12 @@
 date,location,opponent,result,score,team_score,opp_score,game_score_diff,game_win_loss,game_id,AB,R,H,2B,3B,HR,RBI,BB,K,SB,CS,HBP,SF,SH,TB,XBH,HDP,GO,FO,GO/FO,PA,season,njcaa_season,njcaa_division,team,team_id,player_id,player_name
-Feb 24,home,Morton,W,7-5,7,5,2,win,20240224_rles,4,1,1,,,,0,,1,,,,,,1,0,,2,1,2.00,4,2024,2023-24,div3,Joliet,jolietjuniorcollege,michaelveselyxgu6,Michael Vesely
-Mar 3,home,Illinois Valley,W,7-5,7,5,2,win,20240303_eo1r,4,0,1,,,,1,1,,,,,,,1,0,,1,2,0.50,5,2024,2023-24,div3,Joliet,jolietjuniorcollege,michaelveselyxgu6,Michael Vesely
-Mar 5,home,Harper,W,11-5,11,5,6,win,20240305_f9ao,1,1,1,,,,0,,,,,,,,1,0,,,,,1,2024,2023-24,div3,Joliet,jolietjuniorcollege,michaelveselyxgu6,Michael Vesely
-Mar 21,home,Lake County,W,4-3,4,3,1,win,20240321_n4eg,3,0,1,,,,0,,1,,,,,,1,0,,,,,3,2024,2023-24,div3,Joliet,jolietjuniorcollege,michaelveselyxgu6,Michael Vesely
-Mar 26,home,South Suburban,W,1-0,1,0,1,win,20240326_v5ob,1,0,0,,,,0,,1,,,,,,0,0,,,,,1,2024,2023-24,div3,Joliet,jolietjuniorcollege,michaelveselyxgu6,Michael Vesely
-Mar 29,home,Carl Sandburg,W,2-1,2,1,1,win,20240329_r8eb,3,1,0,,,,0,,,1,,,,,0,0,,,,,3,2024,2023-24,div3,Joliet,jolietjuniorcollege,michaelveselyxgu6,Michael Vesely
-Mar 30,home,Rock Valley,W,7-5,7,5,2,win,20240330_djaz,3,1,0,,,,0,1,2,,,,,,0,0,,,,,4,2024,2023-24,div3,Joliet,jolietjuniorcollege,michaelveselyxgu6,Michael Vesely
-Apr 9,home,DuPage,W,14-4,14,4,10,win,20240409_invc,3,2,0,,,,1,,1,,,2,,,0,0,,,,,5,2024,2023-24,div3,Joliet,jolietjuniorcollege,michaelveselyxgu6,Michael Vesely
-Apr 13,home,Milwaukee Area Tech,W,6-0,6,0,6,win,20240413_n2sl,2,1,1,,,,1,,,,,,,1,1,0,,,,,3,2024,2023-24,div3,Joliet,jolietjuniorcollege,michaelveselyxgu6,Michael Vesely
-Apr 13,home,Milwaukee Area Tech,W,5-3,5,3,2,win,20240413_hxqv,2,2,1,,,,0,,,,,,,1,1,0,,,,,3,2024,2023-24,div3,Joliet,jolietjuniorcollege,michaelveselyxgu6,Michael Vesely
-Apr 21,home,Waubonsee,W,10-0,10,0,10,win,20240421_ty7e,1,2,1,,,,0,,,,,1,,,1,0,,,,,2,2024,2023-24,div3,Joliet,jolietjuniorcollege,michaelveselyxgu6,Michael Vesely
-Apr 27,home,Kennedy-King,W,23-0,23,0,23,win,20240427_cslz,4,2,3,,,,2,,,,,,,,3,0,,,,,4,2024,2023-24,div3,Joliet,jolietjuniorcollege,michaelveselyxgu6,Michael Vesely
+Feb 10,home,Apprentice School,W,13-11,13,11,2,win,20240210_w1xt,3,2,1,0,0,0,2,1,0,1,0,1,1,0,1,0,,0,,,6,2024,2023-24,div3,Joliet,jolietjuniorcollege,michaelveselyxgu6,Michael Vesely
+Feb 17,home,Monroe College - Bronx,W,13-6,13,6,7,win,20240217_9hn5,2,1,0,,,,0,,1,,,,,,0,0,,,,,2,2024,2023-24,div3,Joliet,jolietjuniorcollege,michaelveselyxgu6,Michael Vesely
+Feb 18,home,Monroe College - Bronx,W,15-1,15,1,14,win,20240218_btie,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0,,,0,2024,2023-24,div3,Joliet,jolietjuniorcollege,michaelveselyxgu6,Michael Vesely
+Feb 18,home,Monroe College - Bronx,W,6-5,6,5,1,win,20240218_erd0,2,0,0,,,,0,1,1,,,,,,0,0,,,,,3,2024,2023-24,div3,Joliet,jolietjuniorcollege,michaelveselyxgu6,Michael Vesely
+Mar 13,home,Chowan University,W,17-1,17,1,16,win,20240313_dwwk,4,2,2,1,0,0,1,1,1,0,0,0,0,0,3,1,,0,,,5,2024,2023-24,div3,Joliet,jolietjuniorcollege,michaelveselyxgu6,Michael Vesely
+Mar 29,home,Caldwell Tech,W,6-3,6,3,3,win,20240329_3itg,3,2,1,0,0,0,0,0,0,2,0,1,0,0,1,0,,0,,,4,2024,2023-24,div3,Joliet,jolietjuniorcollege,michaelveselyxgu6,Michael Vesely
+Apr 6,home,New River,W,11-0,11,0,11,win,20240406_592e,2,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,,0,,,3,2024,2023-24,div3,Joliet,jolietjuniorcollege,michaelveselyxgu6,Michael Vesely
+Apr 10,home,Virginia State University,W,12-6,12,6,6,win,20240410_1pjl,2,1,1,0,0,0,1,2,0,1,0,0,0,0,1,0,,0,,,4,2024,2023-24,div3,Joliet,jolietjuniorcollege,michaelveselyxgu6,Michael Vesely
+Apr 13,home,Rockingham,W,9-4,9,4,5,win,20240413_oyte,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0,,,5,2024,2023-24,div3,Joliet,jolietjuniorcollege,michaelveselyxgu6,Michael Vesely
+Apr 14,home,Rockingham,W,4-3,4,3,1,win,20240414_p5tx,4,1,1,0,0,0,0,0,0,0,0,0,0,0,1,0,,0,,,4,2024,2023-24,div3,Joliet,jolietjuniorcollege,michaelveselyxgu6,Michael Vesely
+Apr 20,home,Camp,W,2-1,2,1,1,win,20240420_8d8o,3,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,,0,,,3,2024,2023-24,div3,Joliet,jolietjuniorcollege,michaelveselyxgu6,Michael Vesely

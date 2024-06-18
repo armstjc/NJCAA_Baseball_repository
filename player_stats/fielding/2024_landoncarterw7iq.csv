@@ -1,20 +1,60 @@
 date,location,opponent,result,score,team_score,opp_score,game_score_diff,game_win_loss,game_id,TC,PO,A,E,FPCT,DP,SBA,RCS,RCS_PCT,PB,CI,season,njcaa_season,njcaa_division,team,team_id,player_id,player_name
-Jan 28,home,South Arkansas,L,14-6,14,6,8,win,20240128_f4od,0,0,0,0,1.0,1,,,0.00,2.00,1,2024,2023-24,div3,North Arkansas,northarkansascollege,landoncarterw7iq,Landon Carter
-Feb 14,home,Mission University JV,W,9-8,9,8,1,win,20240214_jdwh,0,0,0,1,2.0,3,5,4,18.00,2.50,2,2024,2023-24,div3,North Arkansas,northarkansascollege,landoncarterw7iq,Landon Carter
-Feb 18,home,Lincoln Land,L,10-3,10,3,7,win,20240218_uq4u,0,0,0,0,1.0,5,3,1,9.00,5.00,,2024,2023-24,div3,North Arkansas,northarkansascollege,landoncarterw7iq,Landon Carter
-Feb 20,home,Hendrix College JV,W,4-3,4,3,1,win,20240220_vt04,0,0,0,1,1.0,,,,0.00,1.00,1,2024,2023-24,div3,North Arkansas,northarkansascollege,landoncarterw7iq,Landon Carter
-Feb 24,home,North Central Missouri,W,10-7,10,7,3,win,20240224_ufkd,0,1,0,0,2.1,4,2,2,7.71,2.57,2,2024,2023-24,div3,North Arkansas,northarkansascollege,landoncarterw7iq,Landon Carter
-Mar 1,home,Western Tech,W,7-2,7,2,5,win,20240301_39h3,0,0,0,0,1.0,,,,0.00,1.00,1,2024,2023-24,div3,North Arkansas,northarkansascollege,landoncarterw7iq,Landon Carter
-Mar 5,home,UA Rich Mountain,L,8-3,8,3,5,win,20240305_bn3b,0,0,0,0,3.1,,,,0.00,,,2024,2023-24,div3,North Arkansas,northarkansascollege,landoncarterw7iq,Landon Carter
-Mar 12,home,CBC JV,W,10-0,10,0,10,win,20240312_9ywg,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div3,North Arkansas,northarkansascollege,landoncarterw7iq,Landon Carter
-Mar 16,home,East Central (MO),L,7-3,7,3,4,win,20240316_xixo,0,0,0,0,1.2,1,,,0.00,.60,,2024,2023-24,div3,North Arkansas,northarkansascollege,landoncarterw7iq,Landon Carter
-Mar 17,home,East Central (MO),W,14-11,14,11,3,win,20240317_m6v2,0,1,0,0,2.2,1,,,0.00,.38,,2024,2023-24,div3,North Arkansas,northarkansascollege,landoncarterw7iq,Landon Carter
-Mar 23,home,Arkansas State University - Three Rivers,L,7-4,7,4,3,win,20240323_02k8,0,0,0,0,2.0,3,2,2,9.00,1.50,,2024,2023-24,div3,North Arkansas,northarkansascollege,landoncarterw7iq,Landon Carter
-Apr 1,home,Hendrix College JV,L,7-4,7,4,3,win,20240401_nzsl,0,0,0,0,0.1,5,4,4,108.00,15.00,,2024,2023-24,div3,North Arkansas,northarkansascollege,landoncarterw7iq,Landon Carter
-Apr 5,home,Southeast Arkansas College,W,14-9,14,9,5,win,20240405_z1g5,0,0,0,0,2.0,4,4,4,18.00,2.50,1,2024,2023-24,div3,North Arkansas,northarkansascollege,landoncarterw7iq,Landon Carter
-Apr 16,home,Arkansas State Mid-South,W,20-1,20,1,19,win,20240416_k7am,0,0,0,0,1.0,,,,0.00,2.00,2,2024,2023-24,div3,North Arkansas,northarkansascollege,landoncarterw7iq,Landon Carter
-Apr 20,home,Arkansas State University - Three Rivers,W,11-5,11,5,6,win,20240420_tfbp,0,0,0,0,1.0,,,,0.00,,,2024,2023-24,div3,North Arkansas,northarkansascollege,landoncarterw7iq,Landon Carter
-Apr 22,home,Henderson State JV,L,13-10,13,10,3,win,20240422_yds0,0,0,0,0,1.0,3,2,2,18.00,3.00,,2024,2023-24,div3,North Arkansas,northarkansascollege,landoncarterw7iq,Landon Carter
-Apr 27,home,Spoon River,L,9-0,9,0,9,win,20240427_8trr,0,0,0,0,2.0,2,1,1,4.50,1.50,1,2024,2023-24,div3,North Arkansas,northarkansascollege,landoncarterw7iq,Landon Carter
-May 1,home,Carl Albert State,W,23-6,23,6,17,win,20240501_lowi,0,0,0,0,0.1,1,3,3,81.00,9.00,2,2024,2023-24,div3,North Arkansas,northarkansascollege,landoncarterw7iq,Landon Carter
-May 6,home,Pearl River,L,11-4,11,4,7,win,20240506_y5ia,0,0,0,0,0.1,3,4,4,108.00,9.00,,2024,2023-24,div3,North Arkansas,northarkansascollege,landoncarterw7iq,Landon Carter
+Feb 17,home,Southern Maryland,W,10-0,10,0,10,win,20240217_geyn,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div3,North Arkansas,northarkansascollege,landoncarterw7iq,Landon Carter
+Feb 18,home,Southern Maryland,W,8-1,8,1,7,win,20240218_hvj0,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div3,North Arkansas,northarkansascollege,landoncarterw7iq,Landon Carter
+Feb 18,home,Southern Maryland,W,8-3,8,3,5,win,20240218_kch9,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div3,North Arkansas,northarkansascollege,landoncarterw7iq,Landon Carter
+Feb 25,home,Camden County,W,11-0,11,0,11,win,20240225_02h9,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div3,North Arkansas,northarkansascollege,landoncarterw7iq,Landon Carter
+Feb 25,home,Camden County,W,16-4,16,4,12,win,20240225_gibj,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div3,North Arkansas,northarkansascollege,landoncarterw7iq,Landon Carter
+Feb 26,home,Camden County,W,8-6,8,6,2,win,20240226_z27y,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div3,North Arkansas,northarkansascollege,landoncarterw7iq,Landon Carter
+Mar 1,home,Middlesex College,W,8-4,8,4,4,win,20240301_xcta,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div3,North Arkansas,northarkansascollege,landoncarterw7iq,Landon Carter
+Mar 1,home,Middlesex College,L,6-2,6,2,4,win,20240301_gyr9,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div3,North Arkansas,northarkansascollege,landoncarterw7iq,Landon Carter
+Mar 4,home,Middlesex College,W,14-0,14,0,14,win,20240304_l0mj,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div3,North Arkansas,northarkansascollege,landoncarterw7iq,Landon Carter
+Mar 8,home,Union,W,8-1,8,1,7,win,20240308_7fxn,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div3,North Arkansas,northarkansascollege,landoncarterw7iq,Landon Carter
+Mar 8,home,Union,W,22-1,22,1,21,win,20240308_wzxx,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div3,North Arkansas,northarkansascollege,landoncarterw7iq,Landon Carter
+Mar 12,home,Harford,L,16-2,16,2,14,win,20240312_q9ob,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div3,North Arkansas,northarkansascollege,landoncarterw7iq,Landon Carter
+Mar 13,home,Union,W,24-9,24,9,15,win,20240313_r19s,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div3,North Arkansas,northarkansascollege,landoncarterw7iq,Landon Carter
+Mar 15,home,Lehigh Carbon,W,8-4,8,4,4,win,20240315_v2dl,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div3,North Arkansas,northarkansascollege,landoncarterw7iq,Landon Carter
+Mar 16,home,Lehigh Carbon,W,11-3,11,3,8,win,20240316_tg7x,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div3,North Arkansas,northarkansascollege,landoncarterw7iq,Landon Carter
+Mar 16,home,Lehigh Carbon,W,18-3,18,3,15,win,20240316_omdf,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div3,North Arkansas,northarkansascollege,landoncarterw7iq,Landon Carter
+Mar 17,home,Luzerne County,W,33-0,33,0,33,win,20240317_6eic,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div3,North Arkansas,northarkansascollege,landoncarterw7iq,Landon Carter
+Mar 17,home,Luzerne County,W,37-4,37,4,33,win,20240317_w8sc,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div3,North Arkansas,northarkansascollege,landoncarterw7iq,Landon Carter
+Mar 19,home,Bronx,W,24-1,24,1,23,win,20240319_k72p,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div3,North Arkansas,northarkansascollege,landoncarterw7iq,Landon Carter
+Mar 20,home,Delaware Tech,W,12-1,12,1,11,win,20240320_wq8c,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div3,North Arkansas,northarkansascollege,landoncarterw7iq,Landon Carter
+Mar 22,home,Northampton,W,6-2,6,2,4,win,20240322_c87a,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div3,North Arkansas,northarkansascollege,landoncarterw7iq,Landon Carter
+Mar 22,home,Northampton,L,6-3,6,3,3,win,20240322_h7lm,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div3,North Arkansas,northarkansascollege,landoncarterw7iq,Landon Carter
+Mar 25,home,Northampton,L,10-9,10,9,1,win,20240325_4104,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div3,North Arkansas,northarkansascollege,landoncarterw7iq,Landon Carter
+Mar 26,home,Mercer County,W,12-4,12,4,8,win,20240326_o2i5,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div3,North Arkansas,northarkansascollege,landoncarterw7iq,Landon Carter
+Mar 29,home,Bergen,W,16-4,16,4,12,win,20240329_l9fj,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div3,North Arkansas,northarkansascollege,landoncarterw7iq,Landon Carter
+Mar 30,home,Bergen,W,5-0,5,0,5,win,20240330_6vwa,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div3,North Arkansas,northarkansascollege,landoncarterw7iq,Landon Carter
+Mar 30,home,Bergen,W,14-1,14,1,13,win,20240330_y4un,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div3,North Arkansas,northarkansascollege,landoncarterw7iq,Landon Carter
+Apr 6,home,Ocean County,W,3-0,3,0,3,win,20240406_hw0s,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div3,North Arkansas,northarkansascollege,landoncarterw7iq,Landon Carter
+Apr 6,home,Ocean County,W,7-3,7,3,4,win,20240406_4n9l,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div3,North Arkansas,northarkansascollege,landoncarterw7iq,Landon Carter
+Apr 7,home,Ocean County,W,11-1,11,1,10,win,20240407_lsui,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div3,North Arkansas,northarkansascollege,landoncarterw7iq,Landon Carter
+Apr 9,home,Harford,L,13-8,13,8,5,win,20240409_44gx,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div3,North Arkansas,northarkansascollege,landoncarterw7iq,Landon Carter
+Apr 13,home,RCSJ Cumberland,W,10-1,10,1,9,win,20240413_pwqj,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div3,North Arkansas,northarkansascollege,landoncarterw7iq,Landon Carter
+Apr 13,home,RCSJ Cumberland,W,21-0,21,0,21,win,20240413_877c,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div3,North Arkansas,northarkansascollege,landoncarterw7iq,Landon Carter
+Apr 14,home,RCSJ Cumberland,W,19-7,19,7,12,win,20240414_9beg,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div3,North Arkansas,northarkansascollege,landoncarterw7iq,Landon Carter
+Apr 16,home,Harford,W,11-8,11,8,3,win,20240416_ni0c,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div3,North Arkansas,northarkansascollege,landoncarterw7iq,Landon Carter
+Apr 18,home,Monroe College,L,6-3,6,3,3,win,20240418_wq1m,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div3,North Arkansas,northarkansascollege,landoncarterw7iq,Landon Carter
+Apr 19,home,Monroe College,W,15-5,15,5,10,win,20240419_7855,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div3,North Arkansas,northarkansascollege,landoncarterw7iq,Landon Carter
+Apr 19,home,Monroe College,L,14-8,14,8,6,win,20240419_3o0l,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div3,North Arkansas,northarkansascollege,landoncarterw7iq,Landon Carter
+Apr 21,home,Rockland,W,8-1,8,1,7,win,20240421_jxm0,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div3,North Arkansas,northarkansascollege,landoncarterw7iq,Landon Carter
+Apr 21,home,Rockland,W,19-3,19,3,16,win,20240421_fjaw,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div3,North Arkansas,northarkansascollege,landoncarterw7iq,Landon Carter
+Apr 23,home,Mercer County,W,14-2,14,2,12,win,20240423_pkxb,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div3,North Arkansas,northarkansascollege,landoncarterw7iq,Landon Carter
+Apr 26,home,Brookdale,W,14-13,14,13,1,win,20240426_chfg,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div3,North Arkansas,northarkansascollege,landoncarterw7iq,Landon Carter
+Apr 27,home,Brookdale,W,20-10,20,10,10,win,20240427_439h,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div3,North Arkansas,northarkansascollege,landoncarterw7iq,Landon Carter
+Apr 27,home,Brookdale,W,16-6,16,6,10,win,20240427_kymt,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div3,North Arkansas,northarkansascollege,landoncarterw7iq,Landon Carter
+May 1,home,Monroe College,W,10-4,10,4,6,win,20240501_7vgs,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div3,North Arkansas,northarkansascollege,landoncarterw7iq,Landon Carter
+May 3,home,Salem,W,8-2,8,2,6,win,20240503_mrje,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div3,North Arkansas,northarkansascollege,landoncarterw7iq,Landon Carter
+May 4,home,Salem,W,21-1,21,1,20,win,20240504_95cn,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div3,North Arkansas,northarkansascollege,landoncarterw7iq,Landon Carter
+May 6,home,Salem,W,6-3,6,3,3,win,20240506_kyl2,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div3,North Arkansas,northarkansascollege,landoncarterw7iq,Landon Carter
+May 7,home,Montgomery County,W,14-1,14,1,13,win,20240507_3j53,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div3,North Arkansas,northarkansascollege,landoncarterw7iq,Landon Carter
+May 7,home,Montgomery County,W,23-4,23,4,19,win,20240507_c75y,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div3,North Arkansas,northarkansascollege,landoncarterw7iq,Landon Carter
+May 17,home,Middlesex College,W,11-0,11,0,11,win,20240517_m4ou,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div3,North Arkansas,northarkansascollege,landoncarterw7iq,Landon Carter
+May 17,home,Northampton,L,11-4,11,4,7,win,20240517_wjrh,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div3,North Arkansas,northarkansascollege,landoncarterw7iq,Landon Carter
+May 19,home,Brookdale,W,7-5,7,5,2,win,20240519_7wmk,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div3,North Arkansas,northarkansascollege,landoncarterw7iq,Landon Carter
+May 19,home,Northampton,W,20-9,20,9,11,win,20240519_8n4y,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div3,North Arkansas,northarkansascollege,landoncarterw7iq,Landon Carter
+May 19,home,Northampton,W,15-2,15,2,13,win,20240519_aus9,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div3,North Arkansas,northarkansascollege,landoncarterw7iq,Landon Carter
+May 25,home,(8) Northern Essex,W,4-0,4,0,4,win,20240525_eauy,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div3,North Arkansas,northarkansascollege,landoncarterw7iq,Landon Carter
+May 26,home,(5) Herkimer,W,10-0,10,0,10,win,20240526_bjos,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div3,North Arkansas,northarkansascollege,landoncarterw7iq,Landon Carter
+May 27,home,(2) Dallas College - Richland,W,8-2,8,2,6,win,20240527_f9ly,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div3,North Arkansas,northarkansascollege,landoncarterw7iq,Landon Carter
+May 29,home,(3) Dallas College - Eastfield,W,18-3,18,3,15,win,20240529_ic1x,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div3,North Arkansas,northarkansascollege,landoncarterw7iq,Landon Carter
