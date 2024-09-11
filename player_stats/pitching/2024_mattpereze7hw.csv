@@ -1,11 +1,42 @@
 date,location,opponent,result,score,team_score,opp_score,game_score_diff,game_win_loss,game_id,GS,W,L,SV,IP,H,R,ER,ERA,BB,K,HR,season,njcaa_season,njcaa_division,team,team_id,player_id,player_name
-May 1,home,Anoka-Ramsey,L,8-7,8,7,1,win,20240501_8c87,1,0,0,0,5.0,3,3,3,5.40,1.20,3,5,2024,2023-24,div3,RCSJ Cumberland,rowancollegeofsouthjerseycumberland,mattpereze7hw,Matt Perez
-Apr 25,home,Anoka-Ramsey,W,8-0,8,0,8,win,20240425_4do5,1,1,0,0,6.0,7,0,0,0.00,1.33,1,2,2024,2023-24,div3,RCSJ Cumberland,rowancollegeofsouthjerseycumberland,mattpereze7hw,Matt Perez
-Apr 20,home,Ridgewater,L,7-0,7,0,7,win,20240420_zzlx,1,0,1,0,4.0,9,7,3,6.75,2.50,1,3,2024,2023-24,div3,RCSJ Cumberland,rowancollegeofsouthjerseycumberland,mattpereze7hw,Matt Perez
-Apr 13,home,Alexandria Tech,L,14-8,14,8,6,win,20240413_4pjk,1,0,1,0,1.0,7,9,8,72.00,9.00,2,1,2024,2023-24,div3,RCSJ Cumberland,rowancollegeofsouthjerseycumberland,mattpereze7hw,Matt Perez
-Apr 6,home,Central Lakes,L,12-2,12,2,10,win,20240406_0cmh,1,0,1,0,4.0,6,6,3,6.75,2.00,2,3,2024,2023-24,div3,RCSJ Cumberland,rowancollegeofsouthjerseycumberland,mattpereze7hw,Matt Perez
-Mar 30,home,Minnesota West,L,9-2,9,2,7,win,20240330_j5kx,0,0,0,0,4.2,7,5,5,9.64,1.71,1,4,2024,2023-24,div3,RCSJ Cumberland,rowancollegeofsouthjerseycumberland,mattpereze7hw,Matt Perez
-Mar 14,home,Waubonsee,L,13-2,13,2,11,win,20240314_cc1g,0,0,1,0,5.0,5,7,6,10.80,1.20,1,3,2024,2023-24,div3,RCSJ Cumberland,rowancollegeofsouthjerseycumberland,mattpereze7hw,Matt Perez
-Mar 9,home,SUNY Adirondack,L,9-0,9,0,9,win,20240309_pl9m,0,0,1,0,5.1,9,4,2,3.38,1.88,1,5,2024,2023-24,div3,RCSJ Cumberland,rowancollegeofsouthjerseycumberland,mattpereze7hw,Matt Perez
-Feb 26,home,Concordia College JV,W,8-4,8,4,4,win,20240226_8ocp,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div3,RCSJ Cumberland,rowancollegeofsouthjerseycumberland,mattpereze7hw,Matt Perez
-Feb 26,home,Concordia College JV,L,8-5,8,5,3,win,20240226_0wcp,1,0,1,0,4.0,6,6,6,13.50,2.00,2,4,2024,2023-24,div3,RCSJ Cumberland,rowancollegeofsouthjerseycumberland,mattpereze7hw,Matt Perez
+May 11,home,Middlesex College,L,15-7,15,7,8,win,20240511_99pi,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div3,RCSJ Cumberland,rowancollegeofsouthjerseycumberland,mattpereze7hw,Matt Perez
+May 11,home,Middlesex College,L,7-6,7,6,1,win,20240511_hnbj,0,0,0,0,3.2,3,1,1,2.45,1.09,1,7,2024,2023-24,div3,RCSJ Cumberland,rowancollegeofsouthjerseycumberland,mattpereze7hw,Matt Perez
+May 4,home,Camden County,L,6-5,6,5,1,win,20240504_73r9,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div3,RCSJ Cumberland,rowancollegeofsouthjerseycumberland,mattpereze7hw,Matt Perez
+May 4,home,Camden County,W,7-2,7,2,5,win,20240504_vwb5,0,0,0,0,1.0,,,,0.00,1.00,1,,2024,2023-24,div3,RCSJ Cumberland,rowancollegeofsouthjerseycumberland,mattpereze7hw,Matt Perez
+May 3,home,Camden County,W,4-2,4,2,2,win,20240503_53j7,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div3,RCSJ Cumberland,rowancollegeofsouthjerseycumberland,mattpereze7hw,Matt Perez
+Apr 30,home,Ocean County,L,5-4,5,4,1,win,20240430_tlyi,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div3,RCSJ Cumberland,rowancollegeofsouthjerseycumberland,mattpereze7hw,Matt Perez
+Apr 30,home,Ocean County,W,2-1,2,1,1,win,20240430_btr6,0,0,0,1,1.2,,,,0.00,.60,1,2,2024,2023-24,div3,RCSJ Cumberland,rowancollegeofsouthjerseycumberland,mattpereze7hw,Matt Perez
+Apr 27,home,Lehigh Carbon,W,3-1,3,1,2,win,20240427_4urw,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div3,RCSJ Cumberland,rowancollegeofsouthjerseycumberland,mattpereze7hw,Matt Perez
+Apr 27,home,Lehigh Carbon,W,6-5,6,5,1,win,20240427_bgqt,0,1,0,0,1.2,,,,0.00,,,4,2024,2023-24,div3,RCSJ Cumberland,rowancollegeofsouthjerseycumberland,mattpereze7hw,Matt Perez
+Apr 26,home,Lehigh Carbon,W,14-11,14,11,3,win,20240426_lryq,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div3,RCSJ Cumberland,rowancollegeofsouthjerseycumberland,mattpereze7hw,Matt Perez
+Apr 23,home,Ocean County,W,10-0,10,0,10,win,20240423_zxy0,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div3,RCSJ Cumberland,rowancollegeofsouthjerseycumberland,mattpereze7hw,Matt Perez
+Apr 20,home,Northampton,L,5-4,5,4,1,win,20240420_hf9l,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div3,RCSJ Cumberland,rowancollegeofsouthjerseycumberland,mattpereze7hw,Matt Perez
+Apr 20,home,Northampton,L,14-4,14,4,10,win,20240420_h3gd,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div3,RCSJ Cumberland,rowancollegeofsouthjerseycumberland,mattpereze7hw,Matt Perez
+Apr 19,home,Northampton,L,13-9,13,9,4,win,20240419_fbbr,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div3,RCSJ Cumberland,rowancollegeofsouthjerseycumberland,mattpereze7hw,Matt Perez
+Apr 16,home,Mercer County,W,12-8,12,8,4,win,20240416_sfal,0,0,0,0,1.0,2,1,1,9.00,2.00,,1,2024,2023-24,div3,RCSJ Cumberland,rowancollegeofsouthjerseycumberland,mattpereze7hw,Matt Perez
+Apr 14,home,RCSJ Gloucester,L,19-7,19,7,12,win,20240414_9beg,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div3,RCSJ Cumberland,rowancollegeofsouthjerseycumberland,mattpereze7hw,Matt Perez
+Apr 13,home,RCSJ Gloucester,L,21-0,21,0,21,win,20240413_877c,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div3,RCSJ Cumberland,rowancollegeofsouthjerseycumberland,mattpereze7hw,Matt Perez
+Apr 13,home,RCSJ Gloucester,L,10-1,10,1,9,win,20240413_pwqj,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div3,RCSJ Cumberland,rowancollegeofsouthjerseycumberland,mattpereze7hw,Matt Perez
+Apr 6,home,Salem,W,9-6,9,6,3,win,20240406_u3od,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div3,RCSJ Cumberland,rowancollegeofsouthjerseycumberland,mattpereze7hw,Matt Perez
+Apr 6,home,Salem,W,25-7,25,7,18,win,20240406_ycw4,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div3,RCSJ Cumberland,rowancollegeofsouthjerseycumberland,mattpereze7hw,Matt Perez
+Apr 5,home,Salem,W,9-4,9,4,5,win,20240405_8vvw,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div3,RCSJ Cumberland,rowancollegeofsouthjerseycumberland,mattpereze7hw,Matt Perez
+Mar 30,home,Union,W,10-6,10,6,4,win,20240330_hyb5,0,1,0,0,2.0,,,,0.00,,,4,2024,2023-24,div3,RCSJ Cumberland,rowancollegeofsouthjerseycumberland,mattpereze7hw,Matt Perez
+Mar 30,home,Union,W,6-1,6,1,5,win,20240330_kw1g,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div3,RCSJ Cumberland,rowancollegeofsouthjerseycumberland,mattpereze7hw,Matt Perez
+Mar 29,home,Union,W,15-4,15,4,11,win,20240329_72yc,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div3,RCSJ Cumberland,rowancollegeofsouthjerseycumberland,mattpereze7hw,Matt Perez
+Mar 24,home,Middlesex College,W,17-0,17,0,17,win,20240324_t6xk,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div3,RCSJ Cumberland,rowancollegeofsouthjerseycumberland,mattpereze7hw,Matt Perez
+Mar 24,home,Middlesex College,L,7-5,7,5,2,win,20240324_hpf1,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div3,RCSJ Cumberland,rowancollegeofsouthjerseycumberland,mattpereze7hw,Matt Perez
+Mar 22,home,Middlesex College,L,8-7,8,7,1,win,20240322_0w28,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div3,RCSJ Cumberland,rowancollegeofsouthjerseycumberland,mattpereze7hw,Matt Perez
+Mar 18,home,Brookdale,L,25-5,25,5,20,win,20240318_nbof,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div3,RCSJ Cumberland,rowancollegeofsouthjerseycumberland,mattpereze7hw,Matt Perez
+Mar 17,home,Brookdale,L,3-2,3,2,1,win,20240317_nrk4,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div3,RCSJ Cumberland,rowancollegeofsouthjerseycumberland,mattpereze7hw,Matt Perez
+Mar 17,home,Brookdale,L,15-2,15,2,13,win,20240317_lo02,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div3,RCSJ Cumberland,rowancollegeofsouthjerseycumberland,mattpereze7hw,Matt Perez
+Mar 13,home,Mt. Aloysius College,W,14-0,14,0,14,win,20240313_y5m4,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div3,RCSJ Cumberland,rowancollegeofsouthjerseycumberland,mattpereze7hw,Matt Perez
+Mar 12,home,Montgomery,L,12-2,12,2,10,win,20240312_0dl0,0,0,0,0,3.0,4,4,3,9.00,2.33,3,4,2024,2023-24,div3,RCSJ Cumberland,rowancollegeofsouthjerseycumberland,mattpereze7hw,Matt Perez
+Mar 12,home,Montgomery,L,16-1,16,1,15,win,20240312_5n8e,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div3,RCSJ Cumberland,rowancollegeofsouthjerseycumberland,mattpereze7hw,Matt Perez
+Mar 11,home,Catholic University (JV),L,12-9,12,9,3,win,20240311_dv61,0,0,0,0,0.2,2,1,1,13.50,3.00,,1,2024,2023-24,div3,RCSJ Cumberland,rowancollegeofsouthjerseycumberland,mattpereze7hw,Matt Perez
+Mar 11,home,Minnesota North College - Itasca,W,10-2,10,2,8,win,20240311_q08t,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div3,RCSJ Cumberland,rowancollegeofsouthjerseycumberland,mattpereze7hw,Matt Perez
+Mar 4,home,Bergen,W,16-13,16,13,3,win,20240304_crxb,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div3,RCSJ Cumberland,rowancollegeofsouthjerseycumberland,mattpereze7hw,Matt Perez
+Mar 4,home,Bergen,W,3-1,3,1,2,win,20240304_pwzl,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div3,RCSJ Cumberland,rowancollegeofsouthjerseycumberland,mattpereze7hw,Matt Perez
+Mar 1,home,Bergen,W,7-2,7,2,5,win,20240301_nd7b,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div3,RCSJ Cumberland,rowancollegeofsouthjerseycumberland,mattpereze7hw,Matt Perez
+Feb 25,home,SUNY Adirondack,W,9-0,9,0,9,win,20240225_1nyh,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div3,RCSJ Cumberland,rowancollegeofsouthjerseycumberland,mattpereze7hw,Matt Perez
+Feb 25,home,SUNY Adirondack,W,1-0,1,0,1,win,20240225_2t65,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div3,RCSJ Cumberland,rowancollegeofsouthjerseycumberland,mattpereze7hw,Matt Perez
+Feb 24,home,SUNY Adirondack,W,9-6,9,6,3,win,20240224_smm6,0,0,0,0,0.0,,,,0.00,,,,2024,2023-24,div3,RCSJ Cumberland,rowancollegeofsouthjerseycumberland,mattpereze7hw,Matt Perez

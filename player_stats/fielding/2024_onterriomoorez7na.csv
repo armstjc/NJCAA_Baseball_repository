@@ -1,11 +1,15 @@
 date,location,opponent,result,score,team_score,opp_score,game_score_diff,game_win_loss,game_id,TC,PO,A,E,FPCT,DP,SBA,RCS,RCS_PCT,PB,CI,season,njcaa_season,njcaa_division,team,team_id,player_id,player_name
-Feb 26,home,Concordia College JV,L,8-5,8,5,3,win,20240226_0wcp,1,0,1,0,4.0,6,6,6,13.50,2.00,2,2024,2023-24,div3,Anoka-Ramsey,anokaramseycommunitycollege,onterriomoorez7na,Onterrio Moore
-Feb 26,home,Concordia College JV,W,8-4,8,4,4,win,20240226_8ocp,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div3,Anoka-Ramsey,anokaramseycommunitycollege,onterriomoorez7na,Onterrio Moore
-Mar 9,home,SUNY Adirondack,L,9-0,9,0,9,win,20240309_pl9m,0,0,1,0,5.1,9,4,2,3.38,1.88,1,2024,2023-24,div3,Anoka-Ramsey,anokaramseycommunitycollege,onterriomoorez7na,Onterrio Moore
-Mar 14,home,Waubonsee,L,13-2,13,2,11,win,20240314_cc1g,0,0,1,0,5.0,5,7,6,10.80,1.20,1,2024,2023-24,div3,Anoka-Ramsey,anokaramseycommunitycollege,onterriomoorez7na,Onterrio Moore
-Mar 30,home,Minnesota West,L,9-2,9,2,7,win,20240330_j5kx,0,0,0,0,4.2,7,5,5,9.64,1.71,1,2024,2023-24,div3,Anoka-Ramsey,anokaramseycommunitycollege,onterriomoorez7na,Onterrio Moore
-Apr 6,home,Central Lakes,L,12-2,12,2,10,win,20240406_0cmh,1,0,1,0,4.0,6,6,3,6.75,2.00,2,2024,2023-24,div3,Anoka-Ramsey,anokaramseycommunitycollege,onterriomoorez7na,Onterrio Moore
-Apr 13,home,Alexandria Tech,L,14-8,14,8,6,win,20240413_4pjk,1,0,1,0,1.0,7,9,8,72.00,9.00,2,2024,2023-24,div3,Anoka-Ramsey,anokaramseycommunitycollege,onterriomoorez7na,Onterrio Moore
-Apr 20,home,Ridgewater,L,7-0,7,0,7,win,20240420_zzlx,1,0,1,0,4.0,9,7,3,6.75,2.50,1,2024,2023-24,div3,Anoka-Ramsey,anokaramseycommunitycollege,onterriomoorez7na,Onterrio Moore
-Apr 25,home,Anoka-Ramsey,W,8-0,8,0,8,win,20240425_4do5,1,1,0,0,6.0,7,0,0,0.00,1.33,1,2024,2023-24,div3,Anoka-Ramsey,anokaramseycommunitycollege,onterriomoorez7na,Onterrio Moore
-May 1,home,Anoka-Ramsey,L,8-7,8,7,1,win,20240501_8c87,1,0,0,0,5.0,3,3,3,5.40,1.20,3,2024,2023-24,div3,Anoka-Ramsey,anokaramseycommunitycollege,onterriomoorez7na,Onterrio Moore
+Mar 13,home,Roxbury,W,11-5,11,5,6,win,20240313_tqth,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div3,Anoka-Ramsey,anokaramseycommunitycollege,onterriomoorez7na,Onterrio Moore
+Mar 14,home,Roxbury,W,8-7,8,7,1,win,20240314_d9k9,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div3,Anoka-Ramsey,anokaramseycommunitycollege,onterriomoorez7na,Onterrio Moore
+Mar 15,home,Lafleche College,L,15-3,15,3,12,win,20240315_ms3m,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div3,Anoka-Ramsey,anokaramseycommunitycollege,onterriomoorez7na,Onterrio Moore
+Mar 29,home,Riverland,L,13-3,13,3,10,win,20240329_ewkh,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div3,Anoka-Ramsey,anokaramseycommunitycollege,onterriomoorez7na,Onterrio Moore
+Mar 30,home,Riverland,L,14-4,14,4,10,win,20240330_16aa,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div3,Anoka-Ramsey,anokaramseycommunitycollege,onterriomoorez7na,Onterrio Moore
+Apr 6,home,Ridgewater,L,6-5,6,5,1,win,20240406_9hw9,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div3,Anoka-Ramsey,anokaramseycommunitycollege,onterriomoorez7na,Onterrio Moore
+Apr 10,home,Ridgewater,L,6-4,6,4,2,win,20240410_jzy2,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div3,Anoka-Ramsey,anokaramseycommunitycollege,onterriomoorez7na,Onterrio Moore
+Apr 14,home,Central Lakes,L,13-12,13,12,1,win,20240414_023j,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div3,Anoka-Ramsey,anokaramseycommunitycollege,onterriomoorez7na,Onterrio Moore
+Apr 21,home,St. Cloud Tech,L,10-0,10,0,10,win,20240421_uste,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div3,Anoka-Ramsey,anokaramseycommunitycollege,onterriomoorez7na,Onterrio Moore
+May 1,home,Minnesota State,W,8-7,8,7,1,win,20240501_8c87,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div3,Anoka-Ramsey,anokaramseycommunitycollege,onterriomoorez7na,Onterrio Moore
+May 1,home,Minnesota State,W,14-4,14,4,10,win,20240501_yf7f,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div3,Anoka-Ramsey,anokaramseycommunitycollege,onterriomoorez7na,Onterrio Moore
+May 3,home,Alexandria Tech,L,13-8,13,8,5,win,20240503_j695,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div3,Anoka-Ramsey,anokaramseycommunitycollege,onterriomoorez7na,Onterrio Moore
+May 3,home,Alexandria Tech,L,14-2,14,2,12,win,20240503_2y0m,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div3,Anoka-Ramsey,anokaramseycommunitycollege,onterriomoorez7na,Onterrio Moore
+May 4,home,Alexandria Tech,L,13-3,13,3,10,win,20240504_hgg6,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div3,Anoka-Ramsey,anokaramseycommunitycollege,onterriomoorez7na,Onterrio Moore

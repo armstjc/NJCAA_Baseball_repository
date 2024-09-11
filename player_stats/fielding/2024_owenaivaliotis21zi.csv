@@ -1,10 +1,19 @@
 date,location,opponent,result,score,team_score,opp_score,game_score_diff,game_win_loss,game_id,TC,PO,A,E,FPCT,DP,SBA,RCS,RCS_PCT,PB,CI,season,njcaa_season,njcaa_division,team,team_id,player_id,player_name
-Mar 13,home,Herkimer,W,15-10,15,10,5,win,20240313_2qcy,0,1,0,0,2.0,5,5,5,22.50,3.50,2,2024,2023-24,div3,Rhode Island,communitycollegeofrhodeisland,owenaivaliotis21zi,OWEN AIVALIOTIS
-Mar 15,home,Rockland,L,9-3,9,3,6,win,20240315_afm5,0,0,0,0,1.1,,,,0.00,,,2024,2023-24,div3,Rhode Island,communitycollegeofrhodeisland,owenaivaliotis21zi,OWEN AIVALIOTIS
-Mar 16,home,Black Hawk,L,10-0,10,0,10,win,20240316_fr28,0,0,0,0,1.0,1,,,0.00,1.00,,2024,2023-24,div3,Rhode Island,communitycollegeofrhodeisland,owenaivaliotis21zi,OWEN AIVALIOTIS
-Mar 16,home,Black Hawk,L,12-1,12,1,11,win,20240316_lht2,0,0,0,0,0.2,1,2,1,13.50,3.00,1,2024,2023-24,div3,Rhode Island,communitycollegeofrhodeisland,owenaivaliotis21zi,OWEN AIVALIOTIS
-Apr 11,home,Holyoke,W,11-2,11,2,9,win,20240411_gmm4,1,1,0,0,5.0,3,2,0,0.00,.80,1,2024,2023-24,div3,Rhode Island,communitycollegeofrhodeisland,owenaivaliotis21zi,OWEN AIVALIOTIS
-Apr 23,home,Massasoit,W,9-8,9,8,1,win,20240423_yygm,1,0,0,0,2.1,5,5,2,7.71,2.57,1,2024,2023-24,div3,Rhode Island,communitycollegeofrhodeisland,owenaivaliotis21zi,OWEN AIVALIOTIS
-May 3,home,Holyoke,W,6-4,6,4,2,win,20240503_0a3f,0,1,0,0,2.0,2,,,0.00,1.00,,2024,2023-24,div3,Rhode Island,communitycollegeofrhodeisland,owenaivaliotis21zi,OWEN AIVALIOTIS
-May 4,home,Quinsigamond,W,8-2,8,2,6,win,20240504_y38t,0,0,0,0,1.1,4,1,1,6.75,3.00,,2024,2023-24,div3,Rhode Island,communitycollegeofrhodeisland,owenaivaliotis21zi,OWEN AIVALIOTIS
-May 12,home,Northern Essex,L,8-3,8,3,5,win,20240512_8ruw,0,0,0,0,1.2,2,,,0.00,1.80,1,2024,2023-24,div3,Rhode Island,communitycollegeofrhodeisland,owenaivaliotis21zi,OWEN AIVALIOTIS
+Mar 12,home,Hudson Valley,L,14-4,14,4,10,win,20240312_k0dl,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div3,Rhode Island,communitycollegeofrhodeisland,owenaivaliotis21zi,OWEN AIVALIOTIS
+Mar 13,home,Herkimer,W,15-10,15,10,5,win,20240313_2qcy,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div3,Rhode Island,communitycollegeofrhodeisland,owenaivaliotis21zi,OWEN AIVALIOTIS
+Mar 14,home,Delgado,L,6-0,6,0,6,win,20240314_c6jk,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div3,Rhode Island,communitycollegeofrhodeisland,owenaivaliotis21zi,OWEN AIVALIOTIS
+Mar 15,home,Rockland,L,9-3,9,3,6,win,20240315_afm5,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div3,Rhode Island,communitycollegeofrhodeisland,owenaivaliotis21zi,OWEN AIVALIOTIS
+Mar 16,home,Black Hawk,L,10-0,10,0,10,win,20240316_fr28,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div3,Rhode Island,communitycollegeofrhodeisland,owenaivaliotis21zi,OWEN AIVALIOTIS
+Mar 16,home,Black Hawk,L,12-1,12,1,11,win,20240316_lht2,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div3,Rhode Island,communitycollegeofrhodeisland,owenaivaliotis21zi,OWEN AIVALIOTIS
+Apr 1,home,York Community College,W,9-1,9,1,8,win,20240401_3325,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div3,Rhode Island,communitycollegeofrhodeisland,owenaivaliotis21zi,OWEN AIVALIOTIS
+Apr 7,home,Roxbury,W,23-4,23,4,19,win,20240407_mzfv,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div3,Rhode Island,communitycollegeofrhodeisland,owenaivaliotis21zi,OWEN AIVALIOTIS
+Apr 11,home,Holyoke,W,11-2,11,2,9,win,20240411_gmm4,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div3,Rhode Island,communitycollegeofrhodeisland,owenaivaliotis21zi,OWEN AIVALIOTIS
+Apr 15,home,Roxbury,W,19-4,19,4,15,win,20240415_knhw,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div3,Rhode Island,communitycollegeofrhodeisland,owenaivaliotis21zi,OWEN AIVALIOTIS
+Apr 21,home,Northern Essex,W,12-7,12,7,5,win,20240421_dndc,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div3,Rhode Island,communitycollegeofrhodeisland,owenaivaliotis21zi,OWEN AIVALIOTIS
+Apr 24,home,UConn Avery Point,L,16-6,16,6,10,win,20240424_os3b,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div3,Rhode Island,communitycollegeofrhodeisland,owenaivaliotis21zi,OWEN AIVALIOTIS
+Apr 25,home,Bunker Hill,L,7-5,7,5,2,win,20240425_fjfy,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div3,Rhode Island,communitycollegeofrhodeisland,owenaivaliotis21zi,OWEN AIVALIOTIS
+Apr 26,home,Southern Maine Community College,L,13-1,13,1,12,win,20240426_9zmk,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div3,Rhode Island,communitycollegeofrhodeisland,owenaivaliotis21zi,OWEN AIVALIOTIS
+Apr 27,home,Bunker Hill,W,13-1,13,1,12,win,20240427_g1zh,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div3,Rhode Island,communitycollegeofrhodeisland,owenaivaliotis21zi,OWEN AIVALIOTIS
+May 2,home,Quinsigamond,W,14-3,14,3,11,win,20240502_z536,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div3,Rhode Island,communitycollegeofrhodeisland,owenaivaliotis21zi,OWEN AIVALIOTIS
+May 3,home,Holyoke,L,10-4,10,4,6,win,20240503_ztk0,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div3,Rhode Island,communitycollegeofrhodeisland,owenaivaliotis21zi,OWEN AIVALIOTIS
+May 4,home,Quinsigamond,W,8-2,8,2,6,win,20240504_y38t,0,0,0,0,0.0,,,,0.00,,,2024,2023-24,div3,Rhode Island,communitycollegeofrhodeisland,owenaivaliotis21zi,OWEN AIVALIOTIS

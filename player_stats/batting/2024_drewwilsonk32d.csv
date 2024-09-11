@@ -1,38 +1,41 @@
 date,location,opponent,result,score,team_score,opp_score,game_score_diff,game_win_loss,game_id,AB,R,H,2B,3B,HR,RBI,BB,K,SB,CS,HBP,SF,SH,TB,XBH,HDP,GO,FO,GO/FO,PA,season,njcaa_season,njcaa_division,team,team_id,player_id,player_name
-Feb 25,home,Kingsborough,W,11-6,11,6,5,win,20240225_yf95,2,0,0,,,,1,1,1,,,,1,,0,0,,,,,4,2024,2023-24,div3,Finger Lakes,fingerlakescommunitycollege,drewwilsonk32d,Drew Wilson
-Mar 2,home,Penn State Dubois,W,5-4,5,4,1,win,20240302_4rmf,2,0,0,,,,0,,,,,1,,,0,0,,,,,3,2024,2023-24,div3,Finger Lakes,fingerlakescommunitycollege,drewwilsonk32d,Drew Wilson
-Mar 3,home,New River,W,8-0,8,0,8,win,20240303_pj5g,3,0,0,,,,0,,,,,1,,,0,0,,,,,4,2024,2023-24,div3,Finger Lakes,fingerlakescommunitycollege,drewwilsonk32d,Drew Wilson
-Mar 5,home,Muskegon,W,4-0,4,0,4,win,20240305_g56a,1,1,0,,,,0,1,,,,,,,0,0,,,,,2,2024,2023-24,div3,Finger Lakes,fingerlakescommunitycollege,drewwilsonk32d,Drew Wilson
-Mar 6,home,Minnesota North College - Itasca,W,8-4,8,4,4,win,20240306_cqo1,1,1,1,,,,0,,,1,,,,,1,0,,,,,1,2024,2023-24,div3,Finger Lakes,fingerlakescommunitycollege,drewwilsonk32d,Drew Wilson
-Mar 7,home,Minnesota North College - Itasca,W,3-2,3,2,1,win,20240307_cbql,2,0,1,,,,0,1,,,,,,,1,0,,,,,3,2024,2023-24,div3,Finger Lakes,fingerlakescommunitycollege,drewwilsonk32d,Drew Wilson
-Mar 14,home,Salem,W,11-1,11,1,10,win,20240314_c1bp,3,2,2,,,,0,1,,,,,,,2,0,,,,,4,2024,2023-24,div3,Finger Lakes,fingerlakescommunitycollege,drewwilsonk32d,Drew Wilson
-Mar 16,home,Salem,W,10-3,10,3,7,win,20240316_nj76,4,0,1,1,,,1,,1,,,,,,2,1,,,,,4,2024,2023-24,div3,Finger Lakes,fingerlakescommunitycollege,drewwilsonk32d,Drew Wilson
-Mar 16,home,Salem,W,8-1,8,1,7,win,20240316_guu6,3,1,1,,,,1,,2,1,,1,,,1,0,,,,,4,2024,2023-24,div3,Finger Lakes,fingerlakescommunitycollege,drewwilsonk32d,Drew Wilson
-Mar 18,home,Holy Family University,W,23-8,23,8,15,win,20240318_este,1,3,1,,,,3,2,,1,,,,,1,0,,,,,3,2024,2023-24,div3,Finger Lakes,fingerlakescommunitycollege,drewwilsonk32d,Drew Wilson
-Mar 22,home,RCSJ Gloucester,W,6-3,6,3,3,win,20240322_h7lm,4,0,1,,,,0,,1,,,,,,1,0,,,,,4,2024,2023-24,div3,Finger Lakes,fingerlakescommunitycollege,drewwilsonk32d,Drew Wilson
-Mar 25,home,RCSJ Gloucester,W,10-9,10,9,1,win,20240325_4104,3,2,1,1,,,2,1,,,,1,,,2,1,,,,,5,2024,2023-24,div3,Finger Lakes,fingerlakescommunitycollege,drewwilsonk32d,Drew Wilson
-Mar 26,home,Middlesex College,W,10-1,10,1,9,win,20240326_n9z8,4,1,1,,,1,2,,1,,,1,,,4,1,,,,,5,2024,2023-24,div3,Finger Lakes,fingerlakescommunitycollege,drewwilsonk32d,Drew Wilson
-Mar 27,home,Middlesex College,W,3-1,3,1,2,win,20240327_5fl5,4,0,2,,,,0,,1,1,,,,,2,0,,,,,4,2024,2023-24,div3,Finger Lakes,fingerlakescommunitycollege,drewwilsonk32d,Drew Wilson
-Mar 30,home,Brookdale,W,14-2,14,2,12,win,20240330_8s3d,3,1,1,,,,1,2,1,1,,,,,1,0,,,,,5,2024,2023-24,div3,Finger Lakes,fingerlakescommunitycollege,drewwilsonk32d,Drew Wilson
-Mar 30,home,Brookdale,W,11-5,11,5,6,win,20240330_dzmj,5,0,3,1,,,3,,1,,,,,,4,1,,,,,5,2024,2023-24,div3,Finger Lakes,fingerlakescommunitycollege,drewwilsonk32d,Drew Wilson
-Apr 4,home,Union,W,19-0,19,0,19,win,20240404_qu2d,2,2,2,1,,,0,2,,2,,,,,3,1,,,,,4,2024,2023-24,div3,Finger Lakes,fingerlakescommunitycollege,drewwilsonk32d,Drew Wilson
-Apr 7,home,Union,W,19-1,19,1,18,win,20240407_nzm1,4,3,4,,,,2,,,1,,,,,4,0,,,,,4,2024,2023-24,div3,Finger Lakes,fingerlakescommunitycollege,drewwilsonk32d,Drew Wilson
-Apr 7,home,Union,W,5-3,5,3,2,win,20240407_w7qs,3,1,2,,,,1,,,,,,,,2,0,,,,,3,2024,2023-24,div3,Finger Lakes,fingerlakescommunitycollege,drewwilsonk32d,Drew Wilson
-Apr 9,home,Camden County,W,8-0,8,0,8,win,20240409_7so9,4,1,1,,,,1,,1,1,,,,,1,0,,,,,4,2024,2023-24,div3,Finger Lakes,fingerlakescommunitycollege,drewwilsonk32d,Drew Wilson
-Apr 9,home,Camden County,W,11-3,11,3,8,win,20240409_erwx,4,0,2,1,,,3,,,,,,,,3,1,,,,,4,2024,2023-24,div3,Finger Lakes,fingerlakescommunitycollege,drewwilsonk32d,Drew Wilson
-Apr 10,home,Camden County,W,19-5,19,5,14,win,20240410_1wuk,4,2,2,1,,,0,,1,,,1,,,3,1,,,,,5,2024,2023-24,div3,Finger Lakes,fingerlakescommunitycollege,drewwilsonk32d,Drew Wilson
-Apr 13,home,Lehigh Carbon,W,10-0,10,0,10,win,20240413_pbpo,2,0,0,,,,1,,,,,1,1,,0,0,,,,,4,2024,2023-24,div3,Finger Lakes,fingerlakescommunitycollege,drewwilsonk32d,Drew Wilson
-Apr 13,home,Lehigh Carbon,W,11-2,11,2,9,win,20240413_6dr0,3,2,1,,,,0,,,,,1,,,1,0,,,,,4,2024,2023-24,div3,Finger Lakes,fingerlakescommunitycollege,drewwilsonk32d,Drew Wilson
-Apr 16,home,Lehigh Carbon,W,15-12,15,12,3,win,20240416_65rk,5,2,3,1,,,1,,1,,,1,,,4,1,,,,,6,2024,2023-24,div3,Finger Lakes,fingerlakescommunitycollege,drewwilsonk32d,Drew Wilson
-Apr 19,home,RCSJ Cumberland,W,13-9,13,9,4,win,20240419_fbbr,5,0,1,,,,0,,3,,,1,,,1,0,,,,,6,2024,2023-24,div3,Finger Lakes,fingerlakescommunitycollege,drewwilsonk32d,Drew Wilson
-Apr 20,home,RCSJ Cumberland,W,14-4,14,4,10,win,20240420_h3gd,3,1,0,,,,1,1,2,,,1,,,0,0,,,,,5,2024,2023-24,div3,Finger Lakes,fingerlakescommunitycollege,drewwilsonk32d,Drew Wilson
-Apr 20,home,RCSJ Cumberland,W,5-4,5,4,1,win,20240420_hf9l,2,0,1,1,,,0,1,,,,,,,2,1,,,,,3,2024,2023-24,div3,Finger Lakes,fingerlakescommunitycollege,drewwilsonk32d,Drew Wilson
-Apr 21,home,Montgomery County,W,4-3,4,3,1,win,20240421_7nx3,3,2,1,1,,,0,,1,1,,1,,,2,1,,,,,4,2024,2023-24,div3,Finger Lakes,fingerlakescommunitycollege,drewwilsonk32d,Drew Wilson
-Apr 21,home,Montgomery County,W,8-4,8,4,4,win,20240421_50ls,2,2,1,,,,1,1,,,,1,,,1,0,,,,,4,2024,2023-24,div3,Finger Lakes,fingerlakescommunitycollege,drewwilsonk32d,Drew Wilson
-Apr 26,home,Ocean County,W,14-0,14,0,14,win,20240426_jtnh,3,2,2,,,,3,2,,,,,,,2,0,,,,,5,2024,2023-24,div3,Finger Lakes,fingerlakescommunitycollege,drewwilsonk32d,Drew Wilson
-Apr 27,home,Ocean County,W,10-1,10,1,9,win,20240427_4b14,4,1,2,,,1,2,,1,,,,,,5,1,,,,,4,2024,2023-24,div3,Finger Lakes,fingerlakescommunitycollege,drewwilsonk32d,Drew Wilson
-May 1,home,Montgomery County,W,7-2,7,2,5,win,20240501_qxva,5,0,2,,,,1,,,,,,,,2,0,,,,,5,2024,2023-24,div3,Finger Lakes,fingerlakescommunitycollege,drewwilsonk32d,Drew Wilson
-May 11,home,Salem,W,14-2,14,2,12,win,20240511_4169,3,2,2,,,,2,,,,,1,,,2,0,,,,,4,2024,2023-24,div3,Finger Lakes,fingerlakescommunitycollege,drewwilsonk32d,Drew Wilson
-May 12,home,Salem,W,16-12,16,12,4,win,20240512_4j3m,3,4,2,1,,,1,2,,1,,1,,,3,1,,,,,6,2024,2023-24,div3,Finger Lakes,fingerlakescommunitycollege,drewwilsonk32d,Drew Wilson
-May 17,home,Brookdale,W,12-10,12,10,2,win,20240517_rlxo,4,0,1,1,,,3,,1,1,1,1,,,2,1,,,,,5,2024,2023-24,div3,Finger Lakes,fingerlakescommunitycollege,drewwilsonk32d,Drew Wilson
-May 17,home,RCSJ Gloucester,W,11-4,11,4,7,win,20240517_wjrh,3,2,1,,,1,4,,1,1,,2,,,4,1,,,,,5,2024,2023-24,div3,Finger Lakes,fingerlakescommunitycollege,drewwilsonk32d,Drew Wilson
+Feb 25,home,Kingsborough,W,11-6,11,6,5,win,20240225_yf95,1,1,0,,,,0,1,1,1,,,,,0,0,,,,,2,2024,2023-24,div3,Finger Lakes,fingerlakescommunitycollege,drewwilsonk32d,Drew Wilson
+Feb 25,home,Kingsborough,W,5-4,5,4,1,win,20240225_arr6,2,0,0,,,,0,,,,,,,,0,0,,,,,2,2024,2023-24,div3,Finger Lakes,fingerlakescommunitycollege,drewwilsonk32d,Drew Wilson
+Mar 2,home,Penn State Schuylkill,W,11-0,11,0,11,win,20240302_rpt9,1,0,0,,,,0,,1,,,,,,0,0,,,,,1,2024,2023-24,div3,Finger Lakes,fingerlakescommunitycollege,drewwilsonk32d,Drew Wilson
+Mar 3,home,New River,W,8-0,8,0,8,win,20240303_pj5g,0,0,0,,,,0,2,,1,,,,,0,0,,,,,2,2024,2023-24,div3,Finger Lakes,fingerlakescommunitycollege,drewwilsonk32d,Drew Wilson
+Mar 4,home,Bay College,W,12-2,12,2,10,win,20240304_82ox,3,1,1,,1,,2,,1,,,,,,3,1,,,,,3,2024,2023-24,div3,Finger Lakes,fingerlakescommunitycollege,drewwilsonk32d,Drew Wilson
+Mar 5,home,Muskegon,W,11-1,11,1,10,win,20240305_08yr,3,0,0,,,,0,,2,,,,,,0,0,,,,,3,2024,2023-24,div3,Finger Lakes,fingerlakescommunitycollege,drewwilsonk32d,Drew Wilson
+Mar 5,home,Muskegon,W,4-0,4,0,4,win,20240305_g56a,0,1,0,,,,0,,,2,,,,,0,0,,,,,0,2024,2023-24,div3,Finger Lakes,fingerlakescommunitycollege,drewwilsonk32d,Drew Wilson
+Mar 6,home,Minnesota North College - Itasca,W,8-4,8,4,4,win,20240306_cqo1,1,1,1,,1,,0,,,,,,,,3,1,,,,,1,2024,2023-24,div3,Finger Lakes,fingerlakescommunitycollege,drewwilsonk32d,Drew Wilson
+Mar 7,home,St. Clair County,W,13-6,13,6,7,win,20240307_ax4z,0,0,0,,,,0,,,2,,,,,0,0,,,,,0,2024,2023-24,div3,Finger Lakes,fingerlakescommunitycollege,drewwilsonk32d,Drew Wilson
+Mar 7,home,Minnesota North College - Itasca,W,3-2,3,2,1,win,20240307_cbql,0,0,0,,,,0,,,1,,,,,0,0,,,,,0,2024,2023-24,div3,Finger Lakes,fingerlakescommunitycollege,drewwilsonk32d,Drew Wilson
+Mar 14,home,Salem,W,11-1,11,1,10,win,20240314_c1bp,0,1,0,,,,0,1,,,,,,,0,0,,,,,1,2024,2023-24,div3,Finger Lakes,fingerlakescommunitycollege,drewwilsonk32d,Drew Wilson
+Mar 16,home,Salem,W,10-3,10,3,7,win,20240316_nj76,1,2,0,,,,0,1,1,,,1,,,0,0,,,,,3,2024,2023-24,div3,Finger Lakes,fingerlakescommunitycollege,drewwilsonk32d,Drew Wilson
+Mar 18,home,Holy Family University,W,23-8,23,8,15,win,20240318_este,1,0,0,,,,0,,,,,,,,0,0,,,,,1,2024,2023-24,div3,Finger Lakes,fingerlakescommunitycollege,drewwilsonk32d,Drew Wilson
+Mar 22,home,RCSJ Gloucester,W,6-3,6,3,3,win,20240322_h7lm,0,0,0,,,,0,,,,,,,,0,0,,,,,0,2024,2023-24,div3,Finger Lakes,fingerlakescommunitycollege,drewwilsonk32d,Drew Wilson
+Mar 26,home,Middlesex College,W,10-1,10,1,9,win,20240326_n9z8,1,1,1,1,,,0,,,1,,,,,2,1,,,,,1,2024,2023-24,div3,Finger Lakes,fingerlakescommunitycollege,drewwilsonk32d,Drew Wilson
+Mar 30,home,Brookdale,W,14-2,14,2,12,win,20240330_8s3d,4,3,3,1,,1,3,,,1,,,1,,7,2,,,,,5,2024,2023-24,div3,Finger Lakes,fingerlakescommunitycollege,drewwilsonk32d,Drew Wilson
+Mar 30,home,Brookdale,W,11-5,11,5,6,win,20240330_dzmj,3,2,1,1,,,0,1,1,1,,,,,2,1,,,,,4,2024,2023-24,div3,Finger Lakes,fingerlakescommunitycollege,drewwilsonk32d,Drew Wilson
+Apr 4,home,Union,W,19-0,19,0,19,win,20240404_qu2d,5,5,4,1,,1,6,1,,3,,,,,8,2,,,,,6,2024,2023-24,div3,Finger Lakes,fingerlakescommunitycollege,drewwilsonk32d,Drew Wilson
+Apr 7,home,Union,W,19-1,19,1,18,win,20240407_nzm1,3,1,1,,1,,3,,,,,,,,3,1,,,,,3,2024,2023-24,div3,Finger Lakes,fingerlakescommunitycollege,drewwilsonk32d,Drew Wilson
+Apr 7,home,Union,W,5-3,5,3,2,win,20240407_w7qs,3,1,2,1,,,1,,,2,,,,,3,1,,,,,3,2024,2023-24,div3,Finger Lakes,fingerlakescommunitycollege,drewwilsonk32d,Drew Wilson
+Apr 9,home,Camden County,W,8-0,8,0,8,win,20240409_7so9,2,0,1,,,,1,1,1,2,,,,,1,0,,,,,3,2024,2023-24,div3,Finger Lakes,fingerlakescommunitycollege,drewwilsonk32d,Drew Wilson
+Apr 9,home,Camden County,W,11-3,11,3,8,win,20240409_erwx,1,1,0,,,,1,2,,2,,,1,,0,0,,,,,4,2024,2023-24,div3,Finger Lakes,fingerlakescommunitycollege,drewwilsonk32d,Drew Wilson
+Apr 10,home,Camden County,W,19-5,19,5,14,win,20240410_1wuk,2,2,0,,,,1,2,1,2,1,1,,,0,0,,,,,5,2024,2023-24,div3,Finger Lakes,fingerlakescommunitycollege,drewwilsonk32d,Drew Wilson
+Apr 13,home,Lehigh Carbon,W,10-0,10,0,10,win,20240413_pbpo,2,1,0,,,,0,,1,1,,1,,,0,0,,,,,3,2024,2023-24,div3,Finger Lakes,fingerlakescommunitycollege,drewwilsonk32d,Drew Wilson
+Apr 13,home,Lehigh Carbon,W,11-2,11,2,9,win,20240413_6dr0,2,1,2,1,,,1,2,,,,,,,3,1,,,,,4,2024,2023-24,div3,Finger Lakes,fingerlakescommunitycollege,drewwilsonk32d,Drew Wilson
+Apr 14,home,Luzerne County,W,35-0,35,0,35,win,20240414_kmfs,2,1,1,1,,,3,1,,,,,,,2,1,,,,,3,2024,2023-24,div3,Finger Lakes,fingerlakescommunitycollege,drewwilsonk32d,Drew Wilson
+Apr 14,home,Luzerne County,W,35-2,35,2,33,win,20240414_l3mv,5,3,5,,1,,5,,,,,,1,,7,1,,,,,6,2024,2023-24,div3,Finger Lakes,fingerlakescommunitycollege,drewwilsonk32d,Drew Wilson
+Apr 16,home,Lehigh Carbon,W,15-12,15,12,3,win,20240416_65rk,6,2,3,2,,,1,,,1,1,,,,5,2,,,,,6,2024,2023-24,div3,Finger Lakes,fingerlakescommunitycollege,drewwilsonk32d,Drew Wilson
+Apr 19,home,RCSJ Cumberland,W,13-9,13,9,4,win,20240419_fbbr,4,3,3,,,,2,2,,1,,,,,3,0,,,,,6,2024,2023-24,div3,Finger Lakes,fingerlakescommunitycollege,drewwilsonk32d,Drew Wilson
+Apr 20,home,RCSJ Cumberland,W,14-4,14,4,10,win,20240420_h3gd,3,2,2,2,,,1,,1,,1,1,,,4,2,,,,,4,2024,2023-24,div3,Finger Lakes,fingerlakescommunitycollege,drewwilsonk32d,Drew Wilson
+Apr 20,home,RCSJ Cumberland,W,5-4,5,4,1,win,20240420_hf9l,2,1,1,,,,1,,,1,,,,,1,0,,,,,2,2024,2023-24,div3,Finger Lakes,fingerlakescommunitycollege,drewwilsonk32d,Drew Wilson
+Apr 21,home,Montgomery County,W,4-3,4,3,1,win,20240421_7nx3,2,1,0,,,,0,,2,2,,1,,,0,0,,,,,3,2024,2023-24,div3,Finger Lakes,fingerlakescommunitycollege,drewwilsonk32d,Drew Wilson
+Apr 21,home,Montgomery County,W,8-4,8,4,4,win,20240421_50ls,3,1,1,,,,0,,1,,,1,,,1,0,,,,,4,2024,2023-24,div3,Finger Lakes,fingerlakescommunitycollege,drewwilsonk32d,Drew Wilson
+Apr 26,home,Ocean County,W,14-0,14,0,14,win,20240426_jtnh,3,1,2,,,,1,1,,1,,1,,,2,0,,,,,5,2024,2023-24,div3,Finger Lakes,fingerlakescommunitycollege,drewwilsonk32d,Drew Wilson
+Apr 27,home,Ocean County,W,10-1,10,1,9,win,20240427_4b14,1,1,0,,,,0,1,,2,,1,,,0,0,,,,,3,2024,2023-24,div3,Finger Lakes,fingerlakescommunitycollege,drewwilsonk32d,Drew Wilson
+May 1,home,Montgomery County,W,7-2,7,2,5,win,20240501_qxva,4,1,1,,,,0,1,1,3,,,,,1,0,,,,,5,2024,2023-24,div3,Finger Lakes,fingerlakescommunitycollege,drewwilsonk32d,Drew Wilson
+May 11,home,Salem,W,14-2,14,2,12,win,20240511_4169,3,2,0,,,,0,1,1,,,,,,0,0,,,,,4,2024,2023-24,div3,Finger Lakes,fingerlakescommunitycollege,drewwilsonk32d,Drew Wilson
+May 12,home,Salem,W,16-12,16,12,4,win,20240512_4j3m,2,2,1,1,,,2,2,1,1,,1,1,,2,1,,,,,6,2024,2023-24,div3,Finger Lakes,fingerlakescommunitycollege,drewwilsonk32d,Drew Wilson
+May 17,home,Brookdale,W,12-10,12,10,2,win,20240517_rlxo,4,1,0,,,,2,,1,,,,,,0,0,,,,,4,2024,2023-24,div3,Finger Lakes,fingerlakescommunitycollege,drewwilsonk32d,Drew Wilson
+May 17,home,RCSJ Gloucester,W,11-4,11,4,7,win,20240517_wjrh,5,1,1,,,1,1,,1,,,,,,4,1,,,,,5,2024,2023-24,div3,Finger Lakes,fingerlakescommunitycollege,drewwilsonk32d,Drew Wilson
